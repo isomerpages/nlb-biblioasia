@@ -31,7 +31,7 @@ These projects were also not popular because of the inconvenience the digging cr
 
 Today, there are over 5,700 km of underground water mains in Singapore, compared to 1,300 km in 1958. During the same period, underground power transmission cables have also increased from a mere 82 km to more than 11,500 km. The story is the same for underground sewerage pipes network, which have increased in length from 423 km to 3,600 km.
 
-Moving Beyond Underground Utilities: Mass Rapid Transit
+#### **Moving Beyond Underground Utilities: Mass Rapid Transit**
 
 The post-war years saw the beginnings of an effort to move structures underground (as opposed to just utilities). In 1965, Singapore opened its first underground car park. Located at Raffles Place, the 127 m by 27 m structure accommodated up to 150 vehicles and was linked to the basement of Robinsons department store via an underground walkway. However, it was not until 1982 when Singapore started building the Mass Rapid Transit (MRT) system that the country began to use its underground spaces on a grander scale.
 
@@ -49,7 +49,7 @@ For large infrastructure works such as public transport rail lines, the Tunnel B
 
 Currently, the three most common types of TBMs used in Singapore are the Slurry Shield TBM, the Earth Pressure Balance TBM and the Rectangular TBM. The slurry shield TBM acts like a powerful blender with a cutterhead filled with bentonite slurry that can stabilise the tunnel face as it bores through the soil. With the Earth Pressure Balance TBM, the materials dug out during tunnelling are used to support the tunnel face for the TBM to carry out its task. Finally, the Rectangular TBM features a rectangular instead of a circular cutterhead so that a rectangular tunnel can be constructed underground. These machines are enormous. The Rectangular TBM, for example,  measures 5.6 m by 7.6 m.
 
-Road Tunnels and Expressways
+#### **Road Tunnels and Expressways**
 
 While the initial MRT system was being built, Singapore also embarked on another underground transportation project comprising a 700-metre tunnel linking Bukit Timah Road to Cairnhill Circle, a 1.7-kilometre tunnel from Kramat Road to Chin Swee Road and a three-storey underground interchange with five slip tunnels at Clemenceau Avenue. These tunnels became part of the 15.5-kilometre Central Expressway (CTE), which was completed in 1991 and connects the city centre to housing estates such as Toa Payoh, Bishan and Ang Mo Kio.
 
@@ -61,13 +61,13 @@ The MCE, in particular, was especially challenging to build. At the opening cere
 
 Today, at least 10 percent of Singapore’s roads are located underground. This figure will grow in the future as the 21.5-kilometre North-South Corridor (NSC) – slated to be completed in 2027 – will have a vehicular expressway underground and a public transport corridor above. Besides the NSC, there will also be more underground arterial roads, especially in upcoming housing estates like Tengah. Tengah is designed to have Singapore’s first car-free town centre, with roads running underground to free up space above for pedestrians and cyclists.
 
-Underground Pedestrian Networks
+#### **Underground Pedestrian Networks**
 
 Other than an underground road network for vehicles, there are also underpasses for pedestrians built since the late 1960s. Initially, pedestrians found these underpasses “inconvenient” or “eerie” to use, as the New Nation reported in 1981: “[S]ome [pedestrians] shrugged and said they didn’t know where the underpasses were. Others exclaimed: ‘Aiyah, so inconvenient!’. Some spoke of the eerie feeling walking alone in an underpass, especially at night. ‘What if something or someone pounced at you from behind?’ one pedestrian asked.”
 
 Following the release of the Development Guide Plan for the new Downtown Core in 1996 that proposed turning underpasses into pedestrian malls, the first of such malls, CityLink Mall, was completed in 2000. Stretching some 350 m, the mall offers about 65,000 sq ft (6,039 sq m) of retail space, and links City Hall MRT Station and Raffles City to Marina Centre, Suntec City and the Esplanade. With its high ceilings, wide walkways and strategically placed skylights to allow natural light to stream in, these design elements strive to achieve an aboveground effect so “it doesn’t feel like an underground mall at all”. In 2010, a second underground pedestrian mall, the 179,000-square-foot (16,630 sq m) Marina Bay Link Mall, was built. It links One Raffles Quay with the Marina Bay area.
 
-Going Even Deeper
+#### **Going Even Deeper**
 
 In the early 2000s, Singapore embarked on a new method to lay underground utilities. Known as the Common Services Tunnel (CST), this tunnel system conveys telecommunication cables, power lines and potable water to buildings in the Marina Bay financial district. The CST also houses pipes that supply chilled water to buildings for their air-conditioning needs as well as pneumatic tubes for refuse collection.
 
@@ -81,7 +81,7 @@ The Underground Ammunition Facility (UAF), completed in 2008, is the country’s
 
 Besides saving land, the use of automation and technology reduced manpower operational needs by 20 percent compared to a traditional depot, and insulation by the granite caverns also cut the energy required for cooling by half. This paved the way for the Jurong Rock Caverns project, which has enabled Singapore to free up some 60 ha of land, or the equivalent of 70 football fields, for other development works.
 
-What Lies Beneath?
+#### **What Lies Beneath?**
 
 In the decades ahead, it is very likely that Singapore will intensify its underground efforts. To prepare for this, the State Lands Act and Land Acquisition Act were amended in 2015 to facilitate the use and development of underground space by clarifying the extent of underground ownership and the introduction of strata powers for the acquisition of a specific stratum of space.
 
