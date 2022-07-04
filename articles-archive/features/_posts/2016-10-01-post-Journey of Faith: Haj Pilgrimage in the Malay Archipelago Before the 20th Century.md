@@ -103,4 +103,6 @@ According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Ab
 <br>For I have yearned and dreamed after the Baitullah
 <br>for many months.[^9]
 
-The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions. 
+The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions.
+
+#### Haj and Arab Shipping in Singapore
