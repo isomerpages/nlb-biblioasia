@@ -27,7 +27,7 @@ With moral and material support from the CCP, the CPM revived its uprising in Ma
 
 Regarding Peninsular Malaysia and Singapore as one political entity, the CPM sought to establish Singapore as a base to support their insurgency in Malaysia, procuring equipment, funds and support from the city-state. With these plans in mind, the renewed communist insurrection soon crossed into Singapore.
 
-More Bombings and Banners
+#### **More Bombings and Banners**
 
 In addition to the fatal bombing in April 1970, 22 cases of arson and 11 bomb incidents were traced to the CPM between 1969 and 1983. In 1971, as a vivid reminder of its power and reach in Singapore, CPM operatives again planted communist banners, flags and dummy bombs across the island.
 
@@ -47,7 +47,7 @@ The horrific deaths of the communist agents – described, photographed and publ
 
 Throughout the 1970s, the police and the Internal Security Department (ISD, which succeeded the Singapore Special Branch) uncovered numerous CPM plots to infiltrate local organisations, attack key installations and assassinate government leaders. Although such schemes were fortunately prevented, they illustrate the sheer scale of carnage communist forces were planning to wreak.
 
-Arms, Ammunition and Assassination Plots
+#### **Arms, Ammunition and Assassination Plots**
 
 Security operations in 1974 uncovered communist banners, flags and simulated booby-traps, along with large troves of arms, ammunition and explosives, which included “42 bullets, one hand grenade, six grenade casings, 16 detonators, one compass, eight gelignite sticks, [and] three crude bombs”. Plans to establish a local assassination squad were also discovered, along with electrical diagrams of the homes of key government officials and buildings, drawn up by a CPM member who was an electrical subcontractor.
 
@@ -61,7 +61,7 @@ Taken together, such discoveries indicate that the CPM had planned catastrophic 
 
 Yet CPM members alone could not “liberate… Malaya including Singapore”. To succeed, its agents needed to recruit people to their revolutionary cause. As communist banners and bombs mushroomed across the island, a parallel struggle for the hearts and minds of regular Singaporeans was also underway, one which played out in underground networks and across Singapore’s airwaves.
 
-Information War: Underground 	and Over the Airwaves
+#### **Information War: Underground 	and Over the Airwaves**
 
 CPM operatives quietly sought out sympathisers through informal channels, cultivating disillusioned, well-meaning residents who wanted to build a more equal and just society. Under the guise of conducting Chinese tuition or discussing Chinese culture, CPM operatives slowly indoctrinated potential recruits with communist literature. These underground networks led by CPM elements enabled the party to not only gradually amass classified intelligence, funds and equipment for their cause, but to also develop local satellite organisations, often led by indoctrinated “revolutionary youths”.
 
@@ -77,7 +77,7 @@ The growing access to television in Singapore further blunted VMR’s allure. A 
 
 The CPM’s information offensive did succeed in enticing some Singaporeans, even people in authority. In 1979, two prison wardens at the Moon Crescent Detention Centre confessed to smuggling cassette recorders into the compound for inmates to tape VMR broadcasts and to passing VMR transcripts between detainees.
 
-Another View of the 1970s
+#### **Another View of the 1970s**
 
 Today, whether in local textbooks, museum exhibitions or personal accounts, the 1970s are primarily remembered as a period of economic growth in Singapore’s history. On the surface, it appears as an uncomplicated, transitional decade: between the chaos of the 1960s and self-confidence of the 1980s.
 
