@@ -109,27 +109,27 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 	
 #### **NOTES**
 
-[^1]: “[Bomb Victim Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700425-1.2.7),” Straits Times, 25 April 1970, 1; “[Flag Bombs Go Off in S’pore Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700424-1.2.3),” Straits Times, 24 April 1970, 1; John Tan, “[Underground Network’s Deadly Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2),” Straits Times, 30 November 1983, 22. (From NewspaperSG)
+[^1]: “[Bomb Victim Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700425-1.2.7),” *Straits Times*, 25 April 1970, 1; “[Flag Bombs Go Off in S’pore Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700424-1.2.3),” *Straits Times*, 24 April 1970, 1; John Tan, “[Underground Network’s Deadly Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2),” *Straits Times*, 30 November 1983, 22. (From NewspaperSG)
 
-[^2]: “[Bomb Found on Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700430-1.2.8),” Straits Times, 30 April 1970, 1. (From NewspaperSG)
+[^2]: “[Bomb Found on Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700430-1.2.8),” *Straits Times*, 30 April 1970, 1. (From NewspaperSG)
 
-[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [Socialism That Works... the Singapore Way](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
+[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [*Socialism That Works... the Singapore Way*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
 
-[^4]: Lee Ting Hui, [The Open United Front: The Communist Struggle in Singapore, 1954–1966](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
+[^4]: Lee Ting Hui, [*The Open United Front: The Communist Struggle in Singapore, 1954–1966*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
 
 [^5]: Ong Weichong, “Securing the Population from Insurgency and Subversion in the Second Emergency (1968–1981)” (PhD thesis, University of Exeter, 2010), 59.
 
-[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
+[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
 
-[^7]: Fong Chong Pik, [Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
+[^7]: Fong Chong Pik, [*Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
 
-[^8]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 428–30.
+[^8]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 428–30.
 
-[^9]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 453.
+[^9]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 453.
 
-[^10]: Aloysius Chin, [The Communist Party of Malaya: The Inside Story](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 12–13; Bilveer Singh, [Quest for Political Power](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
+[^10]: Aloysius Chin, [*The Communist Party of Malaya: The Inside Story*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 12–13; Bilveer Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
 
-[^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” Straits Times, 13 October 1978, 13. (From NewspaperSG)
+[^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” *Straits Times*, 13 October 1978, 13. (From NewspaperSG)
 
 [^12]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Bomb Hoax, Pro-Red Banners Keep Police Busy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.9),” Straits Times, 3 January 1971, 1. (From NewspaperSG)
 
