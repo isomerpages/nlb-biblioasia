@@ -147,21 +147,21 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^19]: P.M. Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2),” *Straits Times*, 22 June 1974, 1. (From NewspaperSG)
 
-[^20]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Communist Threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751006-1.2.87.2),” Straits Times, 6 October 1975, 14. (From NewspaperSG)
+[^20]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Communist Threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751006-1.2.87.2),” *Straits Times*, 6 October 1975, 14. (From NewspaperSG)
 
-[^21]: Chin, [Communist Party of Malaya](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955), 164, 236–38.
+[^21]: Chin, [*Communist Party of Malaya*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955), 164, 236–38.
 
-[^22]: Ahmad Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7),” Straits Times, 5 August 1975, 1. (From NewspaperSG)
+[^22]: Ahmad Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7),” *Straits Times*, 5 August 1975, 1. (From NewspaperSG)
 
 [^23]: Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 17.
 
-[^24]: See, for instance, Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7)”; “[Freed: Woman Who Was Plen’s Courier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720623-1.2.45),” Straits Times, 23 June 1972, 6; “[Ex-detainee: I Was Trained to Use Guns and Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800521-1.2.52),” Straits Times, 21 May 1980, 9. (From NewspaperSG)
+[^24]: See, for instance, Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7)”; “[Freed: Woman Who Was Plen’s Courier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720623-1.2.45),” *Straits Times*, 23 June 1972, 6; “[Ex-detainee: I Was Trained to Use Guns and Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800521-1.2.52),” *Straits Times*, 21 May 1980, 9. (From NewspaperSG)
 
-[^25]: “[39 Arrested in ISD Swoops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771016-1.2.2),” Straits Times, 16 October 1977, 1. (From NewspaperSG)
+[^25]: “[39 Arrested in ISD Swoops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771016-1.2.2),” *Straits Times*, 16 October 1977, 1. (From NewspaperSG)
 
-[^26]: Singh, [Quest for Political Power](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” Straits Times, 13 October 1978, 12. (From NewspaperSG)
+[^26]: Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” *Straits Times*, 13 October 1978, 12. (From NewspaperSG)
 
-[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in *Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
 [^28]: Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2).”
 
