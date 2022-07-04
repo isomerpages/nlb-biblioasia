@@ -129,4 +129,16 @@ By the early 20th century, the Haj had become a competitive business with seriou
 
 [^2]: <i>Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.
 
-[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href=" https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm "> The Pilgrims Progress </a>,” Saudi Aramco World 25, no. 6 (1974). 
+[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href=" https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm "> The Pilgrims Progress </a>,” Saudi Aramco World 25, no. 6 (1974).
+
+[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” Indonesia and the Malay World 28, no. 81 (July 2000): 173–213. (From Taylor & Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
+
+[^5]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 186.
+
+[^6]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 187.
+
+[^7]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 189.
+
+[^8]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 173–213.
+
+[^9]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 200.
