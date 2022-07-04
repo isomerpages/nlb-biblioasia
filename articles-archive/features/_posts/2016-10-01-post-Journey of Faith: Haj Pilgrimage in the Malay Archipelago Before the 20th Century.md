@@ -125,3 +125,6 @@ By the early 20th century, the Haj had become a competitive business with seriou
 
 
 #### **NOTES**
+[^1]: Wiliam Facey, “<a href=" http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm"> Queen of the India Trade</a>,” Saudi Aramco World 56, no. 6 (2005).  
+
+[^2]: <i>Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.
