@@ -26,21 +26,21 @@ The theatre was opulent, with black marble pillars, green-tiled floors, silver c
 The Cathay Restaurant subsequently opened in 1940, and the apartment block in 1941. [^4] 
 
 #### World War II
-In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema was used as a shelter in the last days before the Japanese Occupation.[^5]
+In 1941, Cathay Building was leased to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema was used as a shelter in the last days before the Japanese Occupation.[^5]
 
 <img src="/images/Cathay/Cathay-1941.jpg">
 <div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
 
 
-After Singapore fell to the Japanese, the building was renamed Dai Toa Gekjio (Greater Eastern Asian Theatre) and became home to the Japanese broadcasting department, military propaganda department and the military information bureau. Transmissions of Radio Syonan from Cathay Building began in March 1942.[^6]
+After Singapore fell to the Japanese, the building was renamed Dai Toa Gekijo (Greater Eastern Asian Theatre) and became home to the Japanese broadcasting department, military propaganda department and the military information bureau. Transmissions of Radio Syonan from Cathay Building began in March 1942.[^6]
 
-The daytime radio programme usually had Japanese lessons and songs for students, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^7]
+The daytime radio programme usually had Japanese lessons and songs for students, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien, English, etc.[^7]
 
 <img src="/images/Cathay/1942-syonan%20radio.jpg" style="width:50%" >
 <div style="background-color: white;">“Radio news”. Programme of Syonan Broadcasting Station. <i>Images reproduced from Syonan Shimbun, 28 June 1942,3;<i>Syonan Shimbun</i>, 26 July 1942, 2</i>. (From NewspaperSG) </div>
 
 #### Headquarters for SACSEA
-After the war, the Cathay Building became the headquarters for Admiral Louis Mountbatten, Supreme Allied Commander of Southeast Asia (SACSEA), from November 1945 to November 1946. To commemorate the setting up of the SACSEA headquarters, Mountbatten presented a brass plaque to Mrs Loke Yew and Mr Loke Wan Tho, owners of Cathay Building.[^8]
+After the war, Cathay Building became the headquarters for Admiral Louis Mountbatten, Supreme Allied Commander of Southeast Asia (SACSEA), from November 1945 to November 1946. To commemorate the setting up of the SACSEA headquarters, Mountbatten presented a brass plaque to Mrs Loke Yew and Mr Loke Wan Tho, owners of Cathay Building.[^8]
 
 ![](/images/Cathay/plague-loke-yew-loke-wan-tho.jpg)
 <div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
@@ -82,7 +82,7 @@ The Cathay reopened in 2006 with a shopping mall and an eight-hall multiplex –
 
 In 2017, Cathay Organisation sold its cinema business to entertainment company mm2 Asia for $230 million, and continued to own the Cathay Building and Cathay Cineleisure Orchard mall.[^18]
 
-Cathay Cineplex’s last day of operations was 26 June 2022, when it screened its final show, *Top Gun: Maverick*, at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August. Named Projector X:Picturehouse, the new cinema will show films and live performances.[^19]
+Cathay Cineplex’s last day of operations was 26 June 2022, when it screened its final show, *Top Gun: Maverick*, at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August 2022. Named Projector X:Picturehouse, the new cinema will show films and live performances.[^19]
 
 
 #### **NOTES**
