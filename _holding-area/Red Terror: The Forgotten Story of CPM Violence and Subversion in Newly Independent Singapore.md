@@ -20,7 +20,7 @@ In Singapore’s history, communists often feature as dangerous antagonists of t
 This resurgence of communist activity was not spontaneous. The April 1970 bombing in Changi was linked to the CPM’s revival of its armed struggle in Malaysia in June 1968. This revival can be traced to broader regional and international situations at the time, such as the ongoing Vietnam War and Chinese support for the CPM.
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%202.png)
-<div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+<div style="background-color: white;">One of the flags of the Communist Party of Malaya attached to the bomb that exploded in Changi on 23 April 1970. Courtesy of Ministry of Home Affairs.</div>
 
 The Malayan Emergency, a struggle between the CPM and Malayan, British and British Commonwealth forces, officially ended in July 1960. By then, the CPM had been using non-violent, “united front” tactics for some six years (from 1954 onwards).[^4] Its main combat units had withdrawn to the Thai-Malayan border, where most were subsequently demobilised.[^5] In Singapore, the Special Branch had successfully uprooted the CPM’s “underground network throughout the island” by the early 1960s.[^6] Although party cadres had fled to the Riau Islands prior to these security operations, the CPM’s diminished presence did not mean that it had been eradicated.[^7]
 
