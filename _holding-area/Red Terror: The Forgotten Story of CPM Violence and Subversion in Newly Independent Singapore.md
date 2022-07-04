@@ -105,7 +105,7 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
-	<b>Kelvin Tan</b> graduated with a Bachelor of Arts in history from the National University of Singapore. He was a research assistant for the project “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” funded by the National Heritage Board. </div>
+	<b>Choo Ruizhi</b> is a Senior Analyst with the National Security Studies Programme at the S Rajaratnam School of International Studies, Nanyang Technological University.  His other research interests include the environmental histories of Southeast Asia in the 19th and 20th centuries.</div>
 
 	
 #### **NOTES**
