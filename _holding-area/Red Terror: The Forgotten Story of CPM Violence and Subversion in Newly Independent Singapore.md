@@ -13,7 +13,7 @@ Strange, red flags fluttered in the midday breeze. At a playground near 10½ Mil
 
 That same evening, two homemade bombs, packed into red cylinders, were discovered on Haji Lane. Five days later, another explosive was discovered on an overhead bridge near Chinese High School.[^2] The Bomb Disposal Unit later detonated the explosive at a vacant site near National Junior College. More red flags – bearing the hammer-and-sickle emblems – were recovered by the police along with the bombs. These were the banners and symbols of the Communist Party of Malaya (CPM, also known as the Malayan Communist Party).
 
-In Singapore’s history, communists often feature as dangerous antagonists of the 1950s and 1960s. However, what many have forgotten is that acts of violence continued into the 1970s. In fact, April 1970 marked the start of renewed communist violence on the island. Newspaper articles, photographs, and government press releases from the 1970s tell of foiled assassinations, terrorist attacks and clandestine information wars.
+In Singapore’s history, communists often feature as dangerous antagonists of the 1950s and 1960s. However, what many have forgotten is that acts of violence continued into the 1970s. In fact, April 1970 marked the start of renewed communist violence on the island.[^3] Newspaper articles, photographs, and government press releases from the 1970s tell of foiled assassinations, terrorist attacks and clandestine information wars.
 
 #### **A Broader Picture: 	Communists in Context**
 
