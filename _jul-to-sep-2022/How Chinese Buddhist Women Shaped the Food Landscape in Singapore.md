@@ -1,8 +1,17 @@
 ---
 title: How Chinese Buddhist Women Shaped the Food Landscape in Singapore
-permalink: /testinging2
-description: ""
+permalink: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
+description: Women who practised a particular form of Buddhism set up popular
+  vegetarian restaurants in the 1940s and 50s that met the needs of local
+  Buddhists and also helped promote vegetarianism.
+image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
+  Image 1.png
 ---
+
+
+
+
+
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
@@ -31,9 +40,6 @@ The women had the support of people like Venerable Cihang (慈航法师), a prom
 
 Located at 25 Tanjong Pagar Road, Loke Woh Yuen was well known among the Chinese Buddhist community because its food was of restaurant standard and the menu was varied. Set in a single-fronted shophouse, the restaurant was described as “bright and breezy” and was notable for its “clean yet not clinical look”.[^3]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
-<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). <i>Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
-
 For people who wanted plant-based alternatives to meat dishes, the restaurant offered dishes such as vegetarian shark’s fin made from maize, and fish fillet made from sugar cane flowers.[^4] Vegetarian *mee siam* and curry were available on weekends.[^5]
 
 Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
@@ -56,10 +62,10 @@ For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin se
 
 Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
 
+The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
+
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%204.png)
 <div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. <i>Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</i></div>
-
-The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
 
 Located on Kitchener Road, Fut Sai Kai was aimed at a more price conscious clientele, unlike the pricier Loke Woh Yuen. Dim sum was priced at 3 cents per plate, while noodles and dishes were between 6 cents and $1.50 respectively, similar to the prices of street food.[^18] Fut Sai Kai was one of the first restaurants to employ Cantonese chefs from Hong Kong. It also advertised in the Chinese press.[^19]
 
@@ -69,20 +75,23 @@ Like Loke Woh Yuen, the restaurant was also popular among non-Chinese and non-Bu
 
 The food at Fut Sai Kai often received good reviews. Writing for the *New Nation* in 1972, Wendy Hutton was all praise for the corn soup. “I found the rather nutty, cereal flavour most enjoyable, and filled my soup bowl several times,” she said. For her, the highlight of the meal were the sugar cane flowers. “We all speculated as to whether we were eating genuine flowers, but since I’ve eaten such things as banana flower and candied violets in the past, I imagine the sugar cane flowers were authentic. A rather soft, fleshy morsel was buried inside a thick ball of butter and deep fried. Eaten with a sweet sauce, it was marvellous,” she added.[^22]
 
+The restaurant operated for 64 years before closing in 2017. Its closure was important enough to have warranted a news story in the *Straits Times*. According to the article, the owner of the restaurant had died earlier that year and the family decided to close the restaurant as there was no one to take over the cooking.[^23]
+
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%205.png)
 <div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. <i>Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</i></div>
 
-The restaurant operated for 64 years before closing in 2017. Its closure was important enough to have warranted a news story in the *Straits Times*. According to the article, the owner of the restaurant had died earlier that year and the family decided to close the restaurant as there was no one to take over the cooking.[^23]
-
 #### **Spreading Vegetarianism 	Through Temples**
 
-Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜), [^24]was well known for her vegetarian *soon kueh*. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the *kueh* is bamboo shoots, she led the effort to make it regularly.[^25]
+Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜),[^24] was well known for her vegetarian *soon kueh*. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the *kueh* is bamboo shoots, she led the effort to make it regularly.[^25]
 
 As the fame of her *soon kueh* spread, the temple was invited to sell it in a nearby coffeeshop. At 5 cents a piece, it quickly became an essential breakfast item for residents. The *kueh* was sold from the 1960s right up till Yang’s death in 1975, and till today, customers have fond memories of her *soon kueh*. (The recipe of this *kueh* was published in the temple’s 90th anniversary commemorative book in 2018.[^26])
 
 Venerable Ho Yuen Hoe (何润好), the abbess of the Lin Chee Cheng Sia (莲池精舍) temple in Kovan, was another woman who used vegetarian food for fundraising. To raise funds for Man Fut Tong (万佛堂), her temple’s new nursing home that opened in 1969, she sold vegetarian food to devotees attending dharma assemblies at the Khor Meng San Phor Kark See Monastery (光明山普觉禅寺). On average, Venerable Ho raised about $50 each day though on a good day, she could raise $80.[^27]
 
 When she wanted to expand the home, Venerable Ho came up with the idea of compiling her recipes into a book. Published in 1998, the book *Top 100 Vegetarian Delights* helped raise over $100,000 to fund the expansion. Apart from fundraising, she also wanted to use the book to promote the health benefits of vegetarianism, drawing from her belief in “renewed vitality and concentration” as means of healthy ageing.[^28]
+
+![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
+<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). <i>Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
 
 Venerable Ho also started giving cooking classes at Lin Chee Cheng Sia in 1987 for the growing number of devotees eager to learn vegetarian cooking from her. A long-time believer that “vegetarian food and regular exercise deliver longevity”, she hoped to share “her secrets” to “as many people as possible” while preserving her recipes.[^29]
 
@@ -92,13 +101,9 @@ During Jian’s time at Tse Tho Aum, the temple developed a reputation for its t
 
 In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded away, but their spirit lives on.
 
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
-
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
-<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%206.png">
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><b>HAI INN SEE’S SOON KUEH RECIPE</b><br>
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%207.png">
 The vegetarian <i>soon kueh</i> of Hai Inn See and an undated portrait of Abbess Yang Qincai. <i>Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.</i>
-<br><br>
-<b>HAI INN SEE’S SOON KUEH RECIPE</b>
 <br><br>
 <b>Filling</b><br>
 500 g dried mushrooms, soaked<br>
@@ -130,6 +135,8 @@ Half tablespoon sugar<br>
 <br><br>
 <i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>], Singapore: Hai Inn Temple, 2018, p. 145.
 </div>
+	
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
 	
 <div style="background-color: white;">
 <br/>
