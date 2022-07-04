@@ -84,6 +84,10 @@ In 2017, Cathay Organisation sold its cinema business to entertainment company m
 
 Cathay Cineplex’s last day of operations was 26 June 2022, when it screened its final show, *Top Gun: Maverick*, at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August 2022. Named Projector X:Picturehouse, the new cinema will show films and live performances.[^19]
 
+<div style="background-color: white;">
+<br/>
+<b>Soh Gek Han</b> is the engagement editor of <i>BiblioAsia</i>.</div>
+
 
 #### **NOTES**
 [^1]: Kelvin Tong, “[Akan Datang: Cathay’s New Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000404.2.82.5.1.aspx),” *Straits Times*, 4 April 2000, 4; “[Cathay Building and YMCA Orchard Had a Grim Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950731.2.30.8.aspx),” *Straits Times*, 31 July 1995, 20; “[I Built Highest, He Says](https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531231-1.2.144),” _Straits Times_, 31 December 1953, 7. (From NewspaperSG)
