@@ -106,3 +106,22 @@ According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Ab
 The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions.
 
 #### Haj and Arab Shipping in Singapore
+
+The rise of Hadhrami shipping in the Malay Archipelago in the mid-19th century boded well for pilgrims in this region. Hadhrami Arab shippers hailed from Yemen and competed successfully with the Europeans and Chinese in trade and shipping in the Indian Ocean. The Alsagoffs, a prominent Arab family in Singapore, established the firm Alsagoff & Co. in 1848 to conduct trade within the islands of the Archipelago using their own vessels. 
+
+<img>
+
+In the 1850s, Sayyid Ahmad Alsagoff extended the realm of his family business by starting a profitable business of transporting pilgrims between Southeast Asia and Jeddah. Using Singapore as the base, the Alsagoffs' position in the pilgrim trade was tremendously strengthened by the Dutch's restriction on the flow of pilgrims from Indonesia. Pilgrims from the Netherlands Indies during the first half of the 19th century numbered a few hundreds only as the Dutch imposed a tax on prospective pilgrims. This is to discourage the return of religious fanatics who, the Dutch feared, would be groomed while performing the Haj and deepening Islamic knowledge in Mecca. Singapore, thus, became the hub of an expanding pilgrim trade from Southeast Asia partly because of this restriction, as many would bypass it by beginning their Haj from Singapore. This tax was removed in 1852. 
+<img>
+
+When steamship arrived in the late half of the 19th century, the Arab shipping merchants capitalised on the speed and capacity of these vessels. By 1871, the Alsagoff-owned Singapore Steamship Company had ferried pilgrims to Jeddah by steamers steered by a European captain and a Chinese hand. Another Arab shipping merchant who ran steamer services for pilgrims was Syed Mohsen AI-Joofree. Towards the end of the 19th century, he was locked in fierce competition with two Dutch steamers for pilgrims. But his business flopped some time before his death in 1894. 
+
+#### Conclusion
+By the early 20th century, the Haj had become a competitive business with serious investments by international shipping companies. The waves had been tamed by large steam-powered vessels custom-built to combine pilgrim and cargo transport. While the duration to get to Jeddah had improved tremendously, the wellbeing and safety of Haj pilgrims still lagged behind. The number of pilgrims had swelled to a point where effective sanitation, hygiene, administration and guardianship of pilgrims could not be adequately addressed by purely commercial concerns. The British and Dutch colonial governments introduced regulations to protect Haj pilgrims but tales of extreme overcrowding in pilgrim ships and of Haj pilgrims getting stranded without a return ticket after being manipulated by shipping agents and brokers continued to be heard. The comfort that Haj pilgrims experience today is a result of decades of reforms by various parties, helped by the advances in transportation. For a journey that is deeply spiritual, Haj pilgrimage in the Malay Archipelago cannot be divorced from its social and economic dimensions. 
+
+<div style="background-color: white;">
+<br/>
+<b>Nor-Afidah Abd Rahman</b> is the senior reference librarian at the Lee Kong Chian Reference Library.</div>
+
+
+#### **NOTES**
