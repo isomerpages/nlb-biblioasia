@@ -6,8 +6,7 @@ description: ""
 ---
 #### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
 
-![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)
-<div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)<div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
 
 Strange, red flags fluttered in the midday breeze. At a playground near 10½ Mile Changi Road, that was the only sign that something was amiss that Thursday afternoon on 23 April 1970. Intrigued by the unfamiliar sight, a 9-year-old boy and a 7-year-old girl wandered over to investigate. In doing so, the children unwittingly triggered a booby-trap bomb planted near the red flags, setting off an explosion that was heard by residents almost a kilometre away. The children were rushed to the nearby Changi Hospital. Hours later, the little girl died.[^1]
 
@@ -19,8 +18,7 @@ In Singapore’s history, communists often feature as dangerous antagonists of t
 
 This resurgence of communist activity was not spontaneous. The April 1970 bombing in Changi was linked to the CPM’s revival of its armed struggle in Malaysia in June 1968. This revival can be traced to broader regional and international situations at the time, such as the ongoing Vietnam War and Chinese support for the CPM.
 
-![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%202.png)
-<div style="background-color: white;">One of the flags of the Communist Party of Malaya attached to the bomb that exploded in Changi on 23 April 1970. Courtesy of Ministry of Home Affairs.</div>
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%202.png)<div style="background-color: white;">One of the flags of the Communist Party of Malaya attached to the bomb that exploded in Changi on 23 April 1970. Courtesy of Ministry of Home Affairs.</div>
 
 The Malayan Emergency, a struggle between the CPM and Malayan, British and British Commonwealth forces, officially ended in July 1960. By then, the CPM had been using non-violent, “united front” tactics for some six years (from 1954 onwards).[^4] Its main combat units had withdrawn to the Thai-Malayan border, where most were subsequently demobilised.[^5] In Singapore, the Special Branch had successfully uprooted the CPM’s “underground network throughout the island” by the early 1960s.[^6] Although party cadres had fled to the Riau Islands prior to these security operations, the CPM’s diminished presence did not mean that it had been eradicated.[^7]
 
@@ -40,14 +38,16 @@ Perhaps the most sensational incident of this period was the Still Road bombing,
 
 In the early hours of 20 December 1974, three CPM operatives set out to kill Soh. They drove a blue Austin car carrying four bombs, intending to detonate them at Soh’s bungalow in Katong.[^15] However, while waiting at a traffic junction near Still Road at 5.20 am, one of the volatile explosives in the car suddenly exploded.
 
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%204.png)
+
+
 The explosion sent glass and metal shards over a 100-metre radius. Witnesses saw “tongues of flames flickering from the mess that was the Austin”, while the morning air was “pungent with the smell of gunpowder”.[^16]
 
 The vehicle’s driver, Gay Beng Guan, 37, was hurled out of the car by the force of the blast. He was found “writhing and groaning in agony from the burns and injuries all over. Blood oozed from… the opening where his left arm had been torn off”. He died about two weeks later in Outram Hospital. Lim Chin Huat, 23, the front-seat passenger, was “smeared with blood, his abdomen ripped open and his arms severed by the blast”. He died at the scene. The third man, Tan Teck Meng, who had been seated at the rear of the car, escaped with severe burns, but he was later caught and detained by police.[^17]
 
 That same morning, police found three more bombs strung across the North Bridge Road office of Nanyang Manufacturing (an affliate company of Nanyang Shoe Factory). The bombs were hung alongside banners that read “The Righteous Struggle of Johor Baru Nanyang Shoe Factory Workers Must Win” and for all to “Most rigorously condemn the persecution of workers by the reactionary management”.[^18]
 
-![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%203.png)
-<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs.</div>
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%203.png)<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs.</div>
 
 The horrific deaths of the communist agents – described, photographed and published in vivid detail in newspapers – were perhaps the most sobering demonstration of the bloodshed the CPM was prepared to inflict. Yet these explosions were only the most visible manifestations of the CPM’s operations in Singapore.
 
