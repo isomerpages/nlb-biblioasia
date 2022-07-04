@@ -27,7 +27,7 @@ During the first 13 centuries of Islam, to embark for Haj was like attempting to
 <br>b. The great inverted triangle of the Indian subcontinent 
 <br>c. The coast of East Africa and the horn of Africa  
 
-<img src="images/vol-2-issue-3/Journey%20of%20faith/haj-maps.jpg">
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/haj-maps.jpg">
 <div style="background-color: white;">Left to right: Haj landmarks in the Red Sea; Singapore in relation to the Indian Ocean. <i>All rights reserved, Pustaka Melayu, 1960</i>.</div>
 
 The next wave, slower than the first, trotted by foot or on horse/camel caravans, bringing pilgrims from the Middle East and North Africa. Even slower is the last wave, which trudged across Central Africa. Pilgrims on all these waves braved hardships; the adventurous overland folks had to conquer harsh terrains, fought off raids by moving tribes or found themselves just plain lost. For their sea-faring counterparts, the spectre of diseases loomed, or they risked their lives when their boats were overturned by ruthless waves. 
@@ -43,7 +43,7 @@ Early records of Haj pilgrimage from the Malay Archipelago showed that pilgrimag
 
 Both in Malaysia and Indonesia, the identity and period of the first Haj pilgrimage are not known, although it is likely they occurred within the backdrop of the genesis of Islam in this region. While there are more than one theory on how and when Islam came into the region, the founding of Islamic kingdoms in the Archipelago has had the effect of heightening awareness and aspirations towards the Haj. By the late 13th century, Islam had spread to Southeast Asia. The discovery of the Trengganu Stone (*Batu Bersurat*), dated 1303 with Arabic inscriptions in 1887 at Kuala Berang, Trengganu, attested to the influence of Islam by this date. With the founding of the Kingdom of Malacca around 1400 and the conversion of its founder, Parameswara, by 1414, Islam penetrated a major Malay state ideology and polity. In Indonesia, the earliest known conversion to Islam by a local ruler occurred in Aceh, North Sumatra, in the late 13th century. By the middle of the 17th century, the Muslim kings in Java were more than anxious to capitalise on Haj to legitimise their kingdoms. By the middle of 17th century, it was not only the Islam phenomenon that had taken over the kingdoms in Java, but also their kings were anxiously looking for Islamic symbols to legitmise their kingdoms and many capitalised on Haj.
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/STONE.jpg" style="width:70%">
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/STONE.jpg" style="width:50%">
 <div style="background-color: white;">A replica of Trengganu Stone. <i>Image courtesy of the National Library of Malaysia</i>.</div>
 
 Legends and epics dominate the early literature on Haj in this region, and while they present a continuum between legend and fact, this literature is still a good source to speculate who the Haj pilgrims were before the 19th century. The Malay *hikayat* contain some of the earliest instances of Haj in this region. *Hikayat Hang Tuah* (possibly first written in the 16th century) records a Haj pilgrimage in the 15th century, undertaken by Hang Tuah, a great Malay warrior. While the authenticity of both this epic and the legendary hero is debatable, the detailed account of his deeds in the Holy Land is not too far from the rituals preached to Haj pilgrims. On this basis, there were claims that Hang Tuah's pilgrimage in the 15th century leans more towards fact than fiction. 
@@ -53,7 +53,7 @@ Authenticity aside, the Haj journey in *Hikayat Hang Tuah* is useful for its ins
 <br>b. From Aceh to Pulau Dewa – 10 days 
 <br>c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months). 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg" style="width:70%">
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg" style="width:50%">
 <div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
 
 According to *Hikayat Hang Tuah*, Hang Tuah's pilgrimage was coincidental, for his ultimate quest was the quasi-mythical empire of Rome, and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title "Sultan" by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626, while that from Mataram arrived home in 1641.
