@@ -104,7 +104,7 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Choo_Ruizhi.png" style="width: 100px; height: 100px;"/>
 	<b>Choo Ruizhi</b> is a Senior Analyst with the National Security Studies Programme at the S Rajaratnam School of International Studies, Nanyang Technological University.  His other research interests include the environmental histories of Southeast Asia in the 19th and 20th centuries.</div>
 
 	
