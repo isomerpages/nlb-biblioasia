@@ -2,7 +2,8 @@ collections:
   holding-area:
     output: true
     order:
-      - Example Title.md
+      - "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
+        Underground in the City State.md"
       - Test 3.md
       - "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
         Independent Singapore.md"
