@@ -19,6 +19,9 @@ Thanks to advanced technology, Singapore has been able to reach depths that woul
 
 However, between 1936 and 1941, the British built a tunnel network under Fort Canning Hill that was different from the rest. Known today as the Battlebox, the 9-metre-deep maze was the command centre for the Malaya Command during World War II. Bomb- and flood-proof, the underground structure was “a self-containing centre” equipped with an electricity generator, a ventilation system and over 20 purpose-built rooms.
 
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%202.png)
+<div style="background-color: white;">Jurong Rock Caverns, hailed as “Singapore’s deepest underground project,” is located 150 m below Jurong Island. Courtesy of JTC.</div>
+
 Interestingly, an even older underground military structure lies close to Battlebox. This is the sally port that was part of the old Fort Canning. When Fort Canning was built on top of the hill in 1861, it had a narrow, easily defended passageway called a sally port that burrowed from the fort on top of the hill and led to a path on the side of the hill, some 6 m below. The sally port allowed soldiers to enter and leave the fort without compromising the fort’s defence. The entrance to the sally port lies about 15 m from the entrance to the Battlebox.
 
 While military installations may capture the imagination, it is probably accurate to say that in the pre-war years, the island’s underground spaces were mainly used for the laying of utilities. Comprising power transmission cables, gas pipes, sewerage pipes, telephone lines and water mains, these were placed in the ground by the Singapore Municipality “to keep them out of sight” as well as to protect them from elements and human-inflicted damages.
