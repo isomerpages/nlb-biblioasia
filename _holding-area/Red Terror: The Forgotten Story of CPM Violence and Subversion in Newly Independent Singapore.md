@@ -165,9 +165,9 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^28]: Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2).”
 
-[^29]: “[Former Officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54)”; “[Detainee Admits: I Was a Leader of Revolutionary Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771120-1.2.35),” Straits Times, 20 November 1977, 7. (From NewspaperSG)
+[^29]: “[Former Officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54)”; “[Detainee Admits: I Was a Leader of Revolutionary Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771120-1.2.35),” *Straits Times*, 20 November 1977, 7. (From NewspaperSG)
 
-[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
 [^31]: Original source figures given as 9590 kc/s and 7305 kc/s in the 31- and 41-metre bands. “Internal Security Department (Singapore) Files: The Voice of the Malayan Revolution, 26 May 1971” cited in Ong Weichong, [Malaysia’s Defeat of Armed Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201072903) (New York: Routledge, 2015), 51. (From National Library, Singapore, call no. RSEA 322.4209595 VOI)
 
