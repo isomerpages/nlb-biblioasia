@@ -59,6 +59,9 @@ Currently, the three most common types of TBMs used in Singapore are the Slurry 
 
 While the initial MRT system was being built, Singapore also embarked on another underground transportation project comprising a 700-metre tunnel linking Bukit Timah Road to Cairnhill Circle, a 1.7-kilometre tunnel from Kramat Road to Chin Swee Road and a three-storey underground interchange with five slip tunnels at Clemenceau Avenue. These tunnels became part of the 15.5-kilometre Central Expressway (CTE), which was completed in 1991 and connects the city centre to housing estates such as Toa Payoh, Bishan and Ang Mo Kio.
 
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%204.png)
+<div style="background-color: white;">Entrance to the Battlebox at Fort Canning, 2022. It is currently a museum and tourist attraction. Photo by and courtesy of Jimmy Yap.</div>
+
 As the project was carried out in the middle of the densely populated city area under various soil conditions, the excavation and tunnelling work “demanded a high level of technical expertise and skill”. Six different types of temporary retaining walls had to be erected along the route to hold back the soil, and noise and vibration monitoring instruments were attached to about 40 buildings located within 50 m of the excavation sites. The Singapore River also had to be dammed in stages over a period of two years for construction to be carried out.
 
 Lessons learned from these projects are applied to the construction of more road tunnels along expressways like the Kallang-Paya Lebar Expressway (KPE) and the Marina Coastal Expressway (MCE), as well as arterial roads such as Fort Canning Tunnel, Woodsville Tunnel and Sentosa Gateway.
