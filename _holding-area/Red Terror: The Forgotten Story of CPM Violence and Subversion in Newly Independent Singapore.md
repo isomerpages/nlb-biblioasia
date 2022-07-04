@@ -179,9 +179,9 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^35]: Eddie C.Y. Kuo, “Multilingualism and Mass Media Communications in Singapore”, *Asian Survey* 18, no. 10 (October 1978): 1067–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^36]: For more examples of the VMR’s broadcasts, see [Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^36]: For more examples of the VMR’s broadcasts, see [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
-[^37]: “[S’poreans and Their Rising Affluence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791030-1.2.10),” Straits Times, 30 October 1979, 1; “[Soccer ‘Live’ Colour Telecast was ‘Superb’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740709-1.2.34),” Straits Times, 9 July 1974, 5. (From NewspaperSG)
+[^37]: “[S’poreans and Their Rising Affluence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791030-1.2.10),” *Straits Times*, 30 October 1979, 1; “[Soccer ‘Live’ Colour Telecast was ‘Superb’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740709-1.2.34),” *Straits Times*, 9 July 1974, 5. (From NewspaperSG)
 
 [^38]: Sit Meng Chue, “[Two Who Were Won Over by Pro-Red Detainees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790602-1.2.27),” Straits Times, 2 June 1979, 7. (From NewspaperSG)
 
