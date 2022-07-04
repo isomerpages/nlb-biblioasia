@@ -4,8 +4,8 @@ title: "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
 permalink: /subterranean-singapore
 description: ""
 ---
-
-#### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
+#### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
+By **Lim Tin Seng**
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)
 <div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
