@@ -49,7 +49,8 @@ The vehicle’s driver, Gay Beng Guan, 37, was hurled out of the car by the forc
 
 That same morning, police found three more bombs strung across the North Bridge Road office of Nanyang Manufacturing (an affliate company of Nanyang Shoe Factory). The bombs were hung alongside banners that read “The Righteous Struggle of Johor Baru Nanyang Shoe Factory Workers Must Win” and for all to “Most rigorously condemn the persecution of workers by the reactionary management”.[^18]
 
-![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%203.png)<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs.</div>
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%203.png)
+<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs.</div>
 
 The horrific deaths of the communist agents – described, photographed and published in vivid detail in newspapers – were perhaps the most sobering demonstration of the bloodshed the CPM was prepared to inflict. Yet these explosions were only the most visible manifestations of the CPM’s operations in Singapore.
 
@@ -63,7 +64,8 @@ These chilling assassination plots mirrored the CPM’s ongoing surgical strikes
 
 In July 1975, a captured CPM agent led Singapore police officers to a cache of “189 hand grenades, 210 detonators, a .38 revolver, a .25 Colt automatic pistol, 75 rounds of ammunition and several communist books and documents.”[^22] Later that month, another 109 hand grenades were found in two earthen jars, buried in the grounds of another operative’s house.[^23] In numerous press releases, the Ministry of Home Affairs detailed the extensive involvement of captured agents with CPM cell leaders, which went as far back as the 1950s.[^24]
 
-![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%205.png)<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs</div>
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%205.png)
+<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs</div>
 
 Another ISD sweep captured four more communist cells in 1977, which comprised local construction workers and even a reservist SAF officer. One of these CPM units was a construction company involved in the building of drains in Tuas Village and Newton Road. These projects had raised $46,000 for the CPM.[^25] That same year, a full-time national service police inspector was arrested for providing “confidential information”, such as the car registration plate numbers and names of key ISD personnel.[^26]
 
