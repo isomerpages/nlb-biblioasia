@@ -41,7 +41,7 @@ Perhaps the most sensational incident of this period was the Still Road bombing,
 In the early hours of 20 December 1974, three CPM operatives set out to kill Soh. They drove a blue Austin car carrying four bombs, intending to detonate them at Soh’s bungalow in Katong.[^15] However, while waiting at a traffic junction near Still Road at 5.20 am, one of the volatile explosives in the car suddenly exploded.
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%204.png)
-
+<div style="background-color: white;">The wreckage of the car following the explosion near Still Road on 20 December 1974. Courtesy of Ministry of Home Affairs.</div>
 
 The explosion sent glass and metal shards over a 100-metre radius. Witnesses saw “tongues of flames flickering from the mess that was the Austin”, while the morning air was “pungent with the smell of gunpowder”.[^16]
 
