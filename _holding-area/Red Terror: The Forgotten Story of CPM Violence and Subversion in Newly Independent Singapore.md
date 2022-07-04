@@ -131,7 +131,7 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” *Straits Times*, 13 October 1978, 13. (From NewspaperSG)
 
-[^12]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Bomb Hoax, Pro-Red Banners Keep Police Busy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.9),” Straits Times, 3 January 1971, 1. (From NewspaperSG)
+[^12]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Bomb Hoax, Pro-Red Banners Keep Police Busy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.9),” *Straits Times*, 3 January 1971, 1. (From NewspaperSG)
 
 [^13]: Leslie Fong and Paul Wee, “[Booby-trap Escape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740621-1.2.2),” Straits Times, 21 June 1974, 1; “[Red Banners Seized at Bridges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741105-1.2.2),” Straits Times, 5 November 1974, 1. (From NewspaperSG)
 
