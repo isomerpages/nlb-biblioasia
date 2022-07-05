@@ -53,7 +53,7 @@ Over subsequent decades, the acquisition of new technical know-how on tunnelling
 Tunnelling underground is not easy because of challenging soil conditions that could be “as soft as toothpaste, mixed with giant hard rocks”. At other times, the tunnels had to be dug to depths of up to 14 storeys in order to circumvent existing underground infrastructure such as utility pipes and previously constructed MRT lines. Engineers even had to divert part of the Singapore River and Eu Tong Sen Canal to allow tunnelling works to be carried out safely for the Downtown and North-East lines respectively.[^14]
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%205.png)
-<div style="background-color: white;">Workers constructing the underground Dhoby Ghaut MRT station, 1986. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">Workers constructing the underground Dhoby Ghaut MRT station, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 While all construction work is dangerous, there are additional dangers to working underground as the Nicoll Highway collapse on 20 April 2004 has shown. Four men were killed when the tunnel they were working on as part of the Circle Line collapsed. The collapse caused a wide section of Nicoll Highway to cave in, resulting in blackouts in surrounding areas. The body of foreman Heng Yeow Pheow was never found.[^15]
 
