@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
 ---
-
 #### Before flights became common in the 1970s, Muslim pilgrims from Southeast Asia travelled to Mecca by land or sea, on arduous voyages that took months or even years. **Nor-Afidah Abd Rahman** takes us on a journey of the pilgrims' hardships and joy. 
 
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg">
@@ -177,3 +176,9 @@ By the early 20th century, the Haj had become a competitive business with seriou
 [^8]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 173–213.
 
 [^9]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 200.
+
+#### REFERENCES
+1. Abdullah al-Qari Haji Salleh, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4121344">Sejarah Hidup To’ Kenali</a></i> (Kota Bharu: Pustaka Aman Press, 1967). (National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
+2. Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
+3. 
+
