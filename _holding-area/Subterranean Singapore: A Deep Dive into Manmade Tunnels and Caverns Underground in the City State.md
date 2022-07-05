@@ -23,7 +23,7 @@ Thanks to advanced technology, Singapore has been able to reach depths that woul
 However, between 1936 and 1941, the British built a tunnel network under Fort Canning Hill that was different from the rest. Known today as the Battlebox, the 9-metre-deep maze was the command centre for the Malaya Command during World War II. Bomb- and flood-proof, the underground structure was “a self-containing centre” equipped with an electricity generator, a ventilation system and over 20 purpose-built rooms.[^4]
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%202.png)
-<div style="background-color: white;">Entrance to the Battlebox at Fort Canning, 2022. It is currently a museum and tourist attraction. Photo by and courtesy of Jimmy Yap.</div>
+<div style="background-color: white;">Entrance to the Battlebox at Fort Canning, 2022. It is currently a museum and tourist attraction. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 Interestingly, an even older underground military structure lies close to Battlebox. This is the sally port that was part of the old Fort Canning. When Fort Canning was built on top of the hill in 1861, it had a narrow, easily defended passageway called a sally port that burrowed from the fort on top of the hill and led to a path on the side of the hill, some 6 m below. The sally port allowed soldiers to enter and leave the fort without compromising the fort’s defence. The entrance to the sally port lies about 15 m from the entrance to the Battlebox.
 
