@@ -93,7 +93,7 @@ The 5.7-kilometre CST is “as big as two MRT tunnels” and its construction, w
 
 Then there is the Transmission Cable Tunnel, which has been described as one of the world’s deepest electricity supply projects, and completed in 2018. Located at a depth of between 60 m and 80 m underground (compared to underground MRT tunnels which are 30 m to 40 m deep), the project comprises three tunnels – North-South, East-West and Jurong Island-Pioneer Tunnels. Ranging from a diameter of 6 to 11 m each, these tunnels can house the entire nation’s 500 km of extra-high voltage cables with the capacity to hold another 700 km more in the future. These tunnels allow the easy monitoring and replacement of cables with minimal disruption to traffic and the lives of Singaporeans.[^27]
 
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%207.png)
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%209.png)
 <div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
 <b>WHAT ARE WE STEPPING ON?</b>
