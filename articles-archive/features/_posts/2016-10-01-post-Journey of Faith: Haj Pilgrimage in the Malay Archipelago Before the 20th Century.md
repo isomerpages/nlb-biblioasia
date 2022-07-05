@@ -117,20 +117,22 @@ It is interesting to see the continuity of such conditions onboard pilgrim ships
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/heaps%20Jeddah.jpg">
 <div style="background-color: white;">Pilgrims' packages in heaps in Jeddah. <i>All rights reserved, Percetakan Yayasan Islam Terengganu, 1960</i>.</div>
 
-According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals, for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem that became the last words to flow from his pen:
+According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals, for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem that became the last words to flow from his pen:[^9]
 
 <blockquote>
 As I entered into this exalted city
 <br>I became oblivious to all the pleasures and joys of this world
-<br>It was as if I had acquired Heaven and all that it holds 
+<br>It was as if I had acquired Heaven and all that it holds</blockquote> 
 
+<blockquote>
 I uttered a thousand prayers of thanks to the
-<br>Most Exalted God 
+<br>Most Exalted God </blockquote> 
 
+<blockquote>
 Thus I have forgotten all the hardships and
 <br>torments along my journey
 <br>For I have yearned and dreamed after the Baitullah
-<br>for many months.[^9]
+<br>for many months.
 </blockquote>
 
 The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions.
