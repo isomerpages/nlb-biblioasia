@@ -176,7 +176,7 @@ S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrim
 
 Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
 
-</i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
+<i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
 
 William Facey, “<a href="https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm">Queen of the India Trade</a>,” <i>Saudi Aramco World</i> 56, no. 6 (November–December 2005): 10–16. 
 
