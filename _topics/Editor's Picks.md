@@ -15,10 +15,10 @@ Alvin Tan documents the painstaking process behind the restoration of the statue
 <img style="width:100%;" src="/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg"> 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals" >The Forgotten Murals of Paya Lebar Airport</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals">The Forgotten Murals of Paya Lebar Airport</a>
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be.
 
-<img src="/images/vol-17-issue-2/murals/mural_main2.jpg"> 
+![](/images/vol-17-issue-2/murals/mural_main2.jpg)
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran" >A Qu'ran Made in Singapore</a>
