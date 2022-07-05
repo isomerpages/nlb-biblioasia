@@ -192,6 +192,8 @@ William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the
 
 Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a></i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
 
+S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm">The Pilgrims Progress</a>,” <i>Saudi Aramco World</i> 25, no. 6 (November–December 1974): 2. 
+
 Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
 
 </i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
@@ -206,6 +208,12 @@ Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Per
 
 Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
 
+Martin van Bruinessen, “Mencari Ilmu Dan Pahala Di Tanah Suci: Orang Nusantara Naik Haji [Seeking knowledge and merit: Indonesians on the haj],” in <i>Indonesia Dan Haji: Empat Karangan</i>, ed. Dick Douwes and N. J. G. Kaptein (Jakarta: INIS, 1997).
+
+David W. Tschanz, “<a href="https://archive.aramcoworld.com/issue/200401/journeys.of.faith.roads.of.civilization.htm">Journeys of Faith, Roads to Civilization</a>,” Saudi Aramco World 55, no. 1 (January–February 2004): 3–4.  
+
 Dadan Wildan, “<a href="http://pajajaran.blogspot.com/2006/09/orang-orang-sunda-pertama-yang-naik.html">Orang-orang Sunda pertama yang naik haji</a>,” Blog, 14 September 2006.
 
 Dadan Wildan, “<a href="https://sundaislam.wordpress.com/2008/01/12/perjumpaan-islam-dengan-tradisi-sunda/">Perjumpaan Islam dengan Tradisi Sunda</a>,” Blog, 26 March 2003.
+
+ “<a href="http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ab72">History of Trade</a>,” </i>Historyworld<i>, accessed 24 August 2006.
