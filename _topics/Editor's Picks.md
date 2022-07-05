@@ -3,6 +3,18 @@ title: Editor's Picks
 permalink: /editors-picks
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago" >Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the 20th Century</a>
+Before flights became common in the 1970s, Muslim pilgrims from Southeast Asia travelled to Mecca by land or sea, on arduous voyages that took months or even years. Nor-Afidah Abd Rahman takes us on a journey of the pilgrims’ hardships and joy.
+
+<img style="width:100%;" src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg"> 
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch" >Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
+
+<img style="width:100%;" src="/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg"> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran" >A Qu'ran Made in Singapore</a>
 This edition of the Qur’an in the National Library is one of the earliest extant copies to have been printed at Kampong Gelam in Singapore. The date of its publication “13th Rajab in the (Islamic) year 1286” corresponds to 19 October 1869.
 
@@ -20,12 +32,6 @@ Tim Bunnell speaks to former Malay sailors who reside in the English city and le
 Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
 
 <img style="width:100%;" src="/images/Vol-12-issue-3/building-faith/05-building_faith.jpg"> 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch" >Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
-Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
-
-<img style="width:100%;" src="/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg"> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff" > The Gospel in Chinese</a>
