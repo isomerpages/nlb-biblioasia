@@ -9,7 +9,6 @@ image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
 ---
 #### Before the 20th century, Muslim pilgrims from Southeast Asia travelled to Mecca by ship. They would gather at Singape journey was arduous and not for the faint-hearted. By **Nor-Afidah Abd Rahman**
 
-
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg">
 <div style="background-color: white;">The <i>Kaabar</i> (House of God)</div>
 
@@ -54,7 +53,7 @@ Authenticity aside, the Haj journey in *Hikayat Hang Tuah* is useful for its ins
 <br>b. From Aceh to Pulau Dewa – 10 days 
 <br>c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months). 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg" style="width:50%">
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg" style="width:30%">
 <div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
 
 According to *Hikayat Hang Tuah*, Hang Tuah's pilgrimage was coincidental, for his ultimate quest was the quasi-mythical empire of Rome, and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title "Sultan" by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626, while that from Mataram arrived home in 1641.
@@ -75,12 +74,12 @@ In the 13th century, speculations about Haj pilgrims focused on personalities wh
 #### Of Haj and Hardships
 More substantial factual accounts about Haj pilgrimage in the Malay Archipelago started to appear in the 19th century. According to Michael Laffan in *Islamic Nationhood and Colonial Indonesia*, the first actualised account that mentions journey to Mecca is Munshi Abdullah's <i>Kisah Pelayaran Abdullah</i> (The Story of Abdullah's Voyage). Munshi Abdullah, whose literary contributions had earned him the title the father of modern Malay literature, made his journey in 1854. 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/books.jpg">
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/books.jpg" style="width:50%">
 <div style="background-color: white;">Cover and title page of <i>Kisah Pelayaran Abdullah</i>. All rights reserved, Oxford University Press, 1960</i>.</div>
 
 His Haj account stopped shortly before his death in Jeddah. There is also information that points to an even earlier Haj pilgrimage, made by Sayyid Muhammad bin Zainal al ldrus, a Trengganu ulama (religious leader) who is known as the father of Trengganu's literature. Sayyid Muhammad went to Mecca around 1815 at the age of 20 and spent several years there pursuing his studies. Yet another account in the 19th century relates the story of Muhammad Yusof bin Ahmad, better known as Tok Kenali Kelantan, who went to Mecca in 1886 at the age of 18. An account of his life is found in <i>Sejarah hidup To' Kenali </i> (The Life of To' Kenali). 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/Tok%20Kenali.jpg" >
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/Tok%20Kenali.jpg" style="width:50%">
 <div style="background-color: white;">Left to right: Book cover of <i>Sejarah hidup To' Kenali</i>; Tok Kenali, a 19th century pilgrim from Kelantan. <i>All rights reserved, Pustaka Aman, 1967</i>.</div>
 
 Two of these intellectuals, Munshi Abdullah and Tok Kenali, described a Haj journey that departs from the pompous fleet of ships and entourage-full sailing found in *Hikayat Hang Tuah* and even Sultan Mansur's Haj preparations. They wrote of hardships and gave readers a more realistic version of Haj, as if to warn them of its mental and physical exertions.[^4]  Munshi Abdullah drew up a will before he left, accepting the fact that he might not survive the Haj. 
@@ -160,9 +159,9 @@ By the early 20th century, the Haj had become a competitive business with seriou
 
 [^2]: <i>Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.
 
-[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href=" https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm "> The Pilgrims Progress </a>,” Saudi Aramco World 25, no. 6 (1974).
+[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href=" https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm "> The Pilgrims Progress </a>,” <i>Saudi Aramco World</i> 25, no. 6 (1974).
 
-[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” Indonesia and the Malay World 28, no. 81 (July 2000): 173–213. (From Taylor & Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
+[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i>Indonesia and the Malay World</i> 28, no. 81 (July 2000): 173–213. (From Taylor & Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
 
 [^5]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 186.
 
