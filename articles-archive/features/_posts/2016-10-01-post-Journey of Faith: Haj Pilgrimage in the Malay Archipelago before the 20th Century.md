@@ -186,4 +186,5 @@ By the early 20th century, the Haj had become a competitive business with seriou
 6. Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
 7. Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
 8. Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
-9. 
+9. </i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a><i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
+	
