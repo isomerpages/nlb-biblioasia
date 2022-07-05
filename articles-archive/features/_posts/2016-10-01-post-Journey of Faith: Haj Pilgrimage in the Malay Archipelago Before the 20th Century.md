@@ -117,7 +117,7 @@ It is interesting to see the continuity of such conditions onboard pilgrim ships
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/heaps%20Jeddah.jpg">
 <div style="background-color: white;">Pilgrims' packages in heaps in Jeddah. <i>All rights reserved, Percetakan Yayasan Islam Terengganu, 1960</i>.</div>
 
-According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals, for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem that was the last words to flow from his pen:
+According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals, for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem that became the last words to flow from his pen:
 
 <blockquote>
 As I entered into this exalted city
