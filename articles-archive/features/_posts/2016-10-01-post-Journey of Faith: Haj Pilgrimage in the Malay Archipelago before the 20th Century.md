@@ -172,7 +172,7 @@ William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the
 
 Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a></i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
 
-S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm">The Pilgrims Progress</a>,” <i>Saudi Aramco World</i> 25, no. 6 (November–December 1974): 2. 
+S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm">The Pilgrims Progress</a>,” <i>Saudi Aramco World</i> 25, no. 6 (November–December 1974). 
 
 Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
 
