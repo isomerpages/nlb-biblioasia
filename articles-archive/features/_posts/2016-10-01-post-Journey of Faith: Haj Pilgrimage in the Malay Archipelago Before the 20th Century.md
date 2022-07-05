@@ -91,9 +91,9 @@ The dependence of Haj pilgrims on trading ships during this early period is also
 For Tok Kenali who went on his pilgrimage in 1886, he could only embark on his journey after securing contributions for the voyages' fare. His friends in Kelantan gave him $50, and his mother topped it up with $22. The cost of his journey was $100. He set out from Kelantan in an ailing ship that had its sail broken in the middle of the ocean. As a result, a journey that was expected to take three months extended to six months. The delay also depleted the supply of fresh water onboard, and Tok Kenali had to survive on salt-laden seawater. His journey took him along Coromandel Coast and Malabar in India, and then to Ceylon and Sokotora. Sokotora or Pulau Sokotra (Sokotra Island) is located 510 km from the Yemen coast and is the biggest island in the eastern side of the Indian Ocean. Two hundred years ago, its old Port Souk was filled with pilgrim ships mainly from Africa, which stopped there to stock up on water and wood. The pilgrims also obtained other supplies like honey, oil and meat from the people of Sokotra. Upon reaching Mecca, Tok Kenali was desolate with no one to turn to for food and clothing. He survived by acting, from time to time, as a cook for picnics arranged by his friends. 
 
 #### The Voyage of Munshi Abdullah
-Munshi Abdullah's contributions to Singapore history and literature are many. <i>Kisah Pe!ayaran Abdullah ka-Jiddah</i> (The Voyage of Abdullah to Jeddah) is his lesser-known work, but in view of the dearth of literature on Haj pilgrimage in this early period, this work is indeed invaluable. In his memoir <i>Kisah Pelayaran Abdullah ka-Jiddah</i>, Abdullah was often placed at the end of his tether by the turbulent winds and waves:  
+Munshi Abdullah's contributions to Singapore history and literature are many. <i>Kisah Pe!ayaran Abdullah ka-Jiddah</i> (The Voyage of Abdullah to Jeddah) is his lesser-known work, but in view of the dearth of literature on Haj pilgrimage in this early period, this work is indeed invaluable. In his memoir <i>Kisah Pelayaran Abdullah ka-Jiddah</i>, Abdullah was often placed at the end of his tether by the turbulent winds and waves:
 
-"Then at around nine o'clock on Sunday night, the seventh day of the month, the North Wind descended furiously on us. The waves and swells were immense, so much so that our large ship became merely a coconut husk that was being thrashed about by the waves, floating and sinking as it was tossed about in the middle of the sea. All the chests and goods on the left of the ship came crashing to the right, while those on the right came crashing to the left, and this carried on until the break of day."[^5] 
+<blockquote>Then at around nine o'clock on Sunday night, the seventh day of the month, the North Wind descended furiously on us. The waves and swells were immense, so much so that our large ship became merely a coconut husk that was being thrashed about by the waves, floating and sinking as it was tossed about in the middle of the sea. All the chests and goods on the left of the ship came crashing to the right, while those on the right came crashing to the left, and this carried on until the break of day.[^5] </blockquote>
 
 Abdullah started his voyage to Mecca from Singapore in 1854 on the ship <i>Sabi/ al-is/am</i> owned by Syeikh Abdul Karim. Abdullah made 22 stops before reaching Mecca, in between experiencing four sea storms. 
 
@@ -102,7 +102,7 @@ Abdullah started his voyage to Mecca from Singapore in 1854 on the ship <i>Sabi/
 
 One of the fiercest storm occurred when Abdullah's ship tried to cross Kep Gamri (Cape Comorin lies at the tip of South India and is infamous for its dangerous waves). As he hung on to his dear life, the thought of death was not far from Abdullah's mind: 
 
-"Oh God! Oh God! Oh God! I can't even begin to describe how horrendous it was and how tremendous the waves were, only God would know how it felt, it was as if I had wanted to crawl back into my mother's womb in fright! ... All the goods, chests, sleeping-mats and pillows were flung about. Water spewed into the hold and drenched everything completely. Everyone was lost in their thoughts, thinking nothing else but that death was close at hand... In the ship's hold, the noises made by people vomiting and urinating were indescribable as the sailors kept on hosing down the place... Everyone held fast to the ropes. The sails tore and the ropes broke many times... This continued for two days and three nights, and with God's pity and help the winds then lessened."[^6]
+<blockquote>Oh God! Oh God! Oh God! I can't even begin to describe how horrendous it was and how tremendous the waves were, only God would know how it felt, it was as if I had wanted to crawl back into my mother's womb in fright! ... All the goods, chests, sleeping-mats and pillows were flung about. Water spewed into the hold and drenched everything completely. Everyone was lost in their thoughts, thinking nothing else but that death was close at hand... In the ship's hold, the noises made by people vomiting and urinating were indescribable as the sailors kept on hosing down the place... Everyone held fast to the ropes. The sails tore and the ropes broke many times... This continued for two days and three nights, and with God's pity and help the winds then lessened.[^6]</blockquote>
 
 <img style="width:70%" src="/images/vol-2-issue-3/Journey%20of%20faith/abdullah%20on%20ship.jpg">
 <div style="background-color: white;">Abdullah onboard his
@@ -110,7 +110,7 @@ pilgrim ship.</div>
 
 Abdullah also had a chance to board a passenger ship that was transporting Indian pilgrims from Calcutta. The ship was crowded and unbearable: 
 
-"By the grace of God, a ship called Atiah Rahman arrived from Calcutta ... carried some Bengalis who were making the Haj, totalling one hundred and fifty men, women and children. We went to the ship to secure a passage to Jeddah. The fare for this ship was quite expensive as all the other ships had already sailed away; each person was charged eight Ringgit... God only knew the circumstances aboard the ship and how the crowded mass of people made it so miserable for us who tried to eat, sit or sleep on board (God Willing, all these trials and tribulations will gain us meritorious blessings, for we endured this in the Path of the Righteous)." [^7]
+<blockquote>By the grace of God, a ship called Atiah Rahman arrived from Calcutta ... carried some Bengalis who were making the Haj, totalling one hundred and fifty men, women and children. We went to the ship to secure a passage to Jeddah. The fare for this ship was quite expensive as all the other ships had already sailed away; each person was charged eight Ringgit... God only knew the circumstances aboard the ship and how the crowded mass of people made it so miserable for us who tried to eat, sit or sleep on board (God Willing, all these trials and tribulations will gain us meritorious blessings, for we endured this in the Path of the Righteous).[^7]</blockquote>
 
 It is interesting to see the continuity of such conditions onboard pilgrim ships from Abdullah's time right up to the late 19th–20th century, when steamships ruled the waves. Even with room for more pilgrims on board steamships, serious overcrowding and hygiene problems still haunted Haj pilgrims. Deaths on pilgrim ships en route Mecca were common; during Abdullah's voyage, more than 20 suffered from chicken pox, and two or three died. Once pilgrims reached the Holy Land, the situation on land was no less chaotic, as according to Abdullah it resembled a "war zone". Pilgrims' belongings were piled in haphazard heaps, some smashed, some lost or switched. The taxation of pilgrims' packages was another source of misery. The tax collector used his discretion, not understood by the pilgrims, to determine which items should be taxed and which should not. No one dared to protest, not even when their packages were ripped apart or ransacked. Abdullah's writing chests were not spared, and his ink splashed across all his writing papers because too many hands dipped into his chests at the same time.[^8] The "war zone" scene continued into the late 19th–20th century, and one can only imagine the scale of pandemonium at Port Jeddah, since pilgrims' arrival in Jeddah in the steamship era had grown by leaps and bounds. 
 
@@ -119,17 +119,19 @@ It is interesting to see the continuity of such conditions onboard pilgrim ships
 
 According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals, for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem that was the last words to flow from his pen:
 
+<blockquote>
 As I entered into this exalted city
 <br>I became oblivious to all the pleasures and joys of this world
-<br>It was as if I had acquired Heaven and all that it holds
+<br>It was as if I had acquired Heaven and all that it holds 
 
 I uttered a thousand prayers of thanks to the
-<br>Most Exalted God
+<br>Most Exalted God 
 
 Thus I have forgotten all the hardships and
 <br>torments along my journey
 <br>For I have yearned and dreamed after the Baitullah
 <br>for many months.[^9]
+</blockquote>
 
 The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions.
 
