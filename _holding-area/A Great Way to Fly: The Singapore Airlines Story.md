@@ -24,7 +24,8 @@ However, by 1971, the Singapore and Malaysian governments had developed differin
 
 In January 1972, the Singapore government announced that the new name of Singapore’s flag carrier would be Mercury Singapore Airlines. Malaysia, however, objected to this because it would mean that Singapore would end up keeping the initials MSA, thus benefitting from the brand recognition of the predecessor company. 
 
-The matter was eventually settled out of court in June that year. Under the agreement, Singapore would not use the name Mercury Singapore Airlines or the initials MSA. But the airline of each country could overprint its name as the Malaysian or Singapore successor in MSA advertisements so long as each airline paid the advertisement costs. 
+The matter was eventually settled out of court in June that year. Under the agreement, Singapore would not use the name Mercury Singapore Airlines or the initials MSA. But the airline of each country could overprint its name as the Malaysian or Singapore successor in MSA advertisements so long as each airline paid the advertisement costs.
+
 In July 1972, Singapore announced that the new name of its airline would be Singapore Airlines and on 1 October, the airline’s first flight, SQ 108, bound for Kuala Lumpur, took off at around 6.15 am.
 
 A New Beginning
