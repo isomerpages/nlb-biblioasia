@@ -36,7 +36,7 @@ One of the earliest underground utilities laid was the water mains of MacRitchie
 
 Laying these pipes was not an easy task. The municipality encountered “considerable difficulties” as the “pipes have had to be laid mostly in soft, water-logged ground which necessitated substantial timbering to trenches, continuous pumping, and a considerable amount of shoring to buildings”.[^8]
 
-These projects were also not popular because of the inconvenience the digging created on the surface, especially when it involved digging up roads. As the Straits Times noted in 1928: “So long as the Municipality continue to extend the water, electricity, and sanitation services throughout the city, so long will the invaluable Tamil labourer continue to obstruct the public roads, and so long will disgruntled members of the public half-seriously assert that the Municipality dig holes in the roads for the sheer fun of doing it.”[^9]
+These projects were also not popular because of the inconvenience the digging created on the surface, especially when it involved digging up roads. As the *Straits Times* noted in 1928: “So long as the Municipality continue to extend the water, electricity, and sanitation services throughout the city, so long will the invaluable Tamil labourer continue to obstruct the public roads, and so long will disgruntled members of the public half-seriously assert that the Municipality dig holes in the roads for the sheer fun of doing it.”[^9]
 
 Today, there are over 5,700 km of underground water mains in Singapore, compared to 1,300 km in 1958. During the same period, underground power transmission cables have also increased from a mere 82 km to more than 11,500 km. The story is the same for underground sewerage pipes network, which have increased in length from 423 km to 3,600 km.[^10]
 
@@ -78,7 +78,7 @@ Today, at least 10 percent of Singapore’s roads are located underground. This 
 
 #### **Underground Pedestrian Networks**
 
-Other than an underground road network for vehicles, there are also underpasses for pedestrians built since the late 1960s.[^22] Initially, pedestrians found these underpasses “inconvenient” or “eerie” to use, as the New Nation reported in 1981: “[S]ome [pedestrians] shrugged and said they didn’t know where the underpasses were. Others exclaimed: ‘Aiyah, so inconvenient!’. Some spoke of the eerie feeling walking alone in an underpass, especially at night. ‘What if something or someone pounced at you from behind?’ one pedestrian asked.”[^23]
+Other than an underground road network for vehicles, there are also underpasses for pedestrians built since the late 1960s.[^22] Initially, pedestrians found these underpasses “inconvenient” or “eerie” to use, as the *New Nation* reported in 1981: “[S]ome [pedestrians] shrugged and said they didn’t know where the underpasses were. Others exclaimed: ‘Aiyah, so inconvenient!’. Some spoke of the eerie feeling walking alone in an underpass, especially at night. ‘What if something or someone pounced at you from behind?’ one pedestrian asked.”[^23]
 
 Following the release of the Development Guide Plan for the new Downtown Core in 1996 that proposed turning underpasses into pedestrian malls, the first of such malls, CityLink Mall, was completed in 2000. Stretching some 350 m, the mall offers about 65,000 sq ft (6,039 sq m) of retail space, and links City Hall MRT Station and Raffles City to Marina Centre, Suntec City and the Esplanade. With its high ceilings, wide walkways and strategically placed skylights to allow natural light to stream in, these design elements strive to achieve an aboveground effect so “it doesn’t feel like an underground mall at all”.[^24] In 2010, a second underground pedestrian mall, the 179,000-square-foot (16,630 sq m) Marina Bay Link Mall, was built. It links One Raffles Quay with the Marina Bay area.[^25]
 
@@ -119,25 +119,25 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 	
 #### **NOTES**
 
-[^1]: Janice Heng, “Digging Deep in Singapore for Space Solutions,” Straits Times, 17 June 2015, https://www.straitstimes.com/singapore/digging-deep-in-singapore-for-space-solutions; Teo Chee Hean, “Commissioning Ceremony of the Underground Ammunition Facility,” Mandai West Camp, 7 March 2008, https://www.dsta.gov.sg/latest-news/speeches/speeches-2008/commissioning-of-the-underground-ammunition-facility; “Underground Space,” Urban Redevelopment Authority, last updated 26 May 2022, https://www.ura.gov.sg/Corporate/Get-Involved/Plan-Our-Future-SG/Innovative-Urban-Solutions/Underground-space.
+[^1]: Janice Heng, “Digging Deep in Singapore for Space Solutions,” *Straits Times*, 17 June 2015, https://www.straitstimes.com/singapore/digging-deep-in-singapore-for-space-solutions; Teo Chee Hean, “Commissioning Ceremony of the Underground Ammunition Facility,” Mandai West Camp, 7 March 2008, https://www.dsta.gov.sg/latest-news/speeches/speeches-2008/commissioning-of-the-underground-ammunition-facility; “Underground Space,” Urban Redevelopment Authority, last updated 26 May 2022, https://www.ura.gov.sg/Corporate/Get-Involved/Plan-Our-Future-SG/Innovative-Urban-Solutions/Underground-space.
 
 [^2]: “Factsheet: Downtown Line 3 to Open on 21 October 2017,” Land Transport Authority, 31 May 2017, https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/5/2/factsheet-downtown-line-3-to-open-on-21-october-2017.html.
 
-[^3]: “[Singapore's ‘Underground’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920212-1.2.31.13),” Straits Times, 12 February 1992, 22. (From NewspaperSG)
+[^3]: “[Singapore's ‘Underground’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920212-1.2.31.13),” *Straits Times*, 12 February 1992, 22. (From NewspaperSG)
 
-[^4]: “[Percival's Fort Canning Bunker Re-opened](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920201.2.29.1),” Straits Times, 1 February 1992, 16. (From NewspaperSG)
+[^4]: “[Percival's Fort Canning Bunker Re-opened](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920201.2.29.1),” *Straits Times*, 1 February 1992, 16. (From NewspaperSG)
 
-[^5]: “[Pipe Manufacture in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.25),” Singapore Free Press and Mercantile Advertiser, 2 January 1932, 11. (From NewspaperSG)
+[^5]: “[Pipe Manufacture in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.25),” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 11. (From NewspaperSG)
 
-[^6]: “[The Water-works](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021031-1.2.47),” Straits Times, 31 October 1902, 5. (From NewspaperSG)
+[^6]: “[The Water-works](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021031-1.2.47),” *Straits Times*, 31 October 1902, 5. (From NewspaperSG)
 
-[^7]: “[The Sewerage Scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19130613-1.2.68),” Straits Times, 13 June 1913, 9. (From NewspaperSG)
+[^7]: “[The Sewerage Scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19130613-1.2.68),” *Straits Times*, 13 June 1913, 9. (From NewspaperSG)
 
-[^8]: “[$8,000,000 Sewerage Scheme Progresses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400502-1.2.35),” Straits Times, 2 May 1940, 10. (From NewspaperSG)
+[^8]: “[$8,000,000 Sewerage Scheme Progresses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400502-1.2.35),” *Straits Times*, 2 May 1940, 10. (From NewspaperSG)
 
-[^9]: “[Occasional Notes](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280131-1.2.24),” Straits Times, 31 January 1928, 8. (From NewspaperSG)
+[^9]: “[Occasional Notes](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280131-1.2.24),” *Straits Times*, 31 January 1928, 8. (From NewspaperSG)
 
-[^10]: Colony of Singapore, [Colony of Singapore Annual Report for the Year 1958](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5082303) (Singapore: Government Printing Office, 1959), 222–31. (From National Library, Singapore, call no. RCLOS 959.57 SIN); Ahmad Zhaki Abdullah, “Smartphones, Floating Balls and Monitoring Sensors: How Singapore Is Going High-tech in Detecting Water Leaks,” Channel NewsAsia, 8 November 2020, https://www.channelnewsasia.com/singapore/high-tech-detecting-water-leaks-533736; “Protecting Our Underground Network,” SP Energy Hub, 11 July 2019, https://www.spgroup.com.sg/about-us/energy-hub/reliability/protecting-our-underground-network; Ng Keng Gene, “S'pore’s Strategies to Reduce the Likelihood of Heavy Flooding,” Straits Times, 23 April 2021,  https://www.straitstimes.com/singapore/environment/spores-strategies-to-reduce-the-likelihood-of-heavy-flooding.
+[^10]: Colony of Singapore, [*Colony of Singapore Annual Report for the Year 1958*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5082303) (Singapore: Government Printing Office, 1959), 222–31. (From National Library, Singapore, call no. RCLOS 959.57 SIN); Ahmad Zhaki Abdullah, “Smartphones, Floating Balls and Monitoring Sensors: How Singapore Is Going High-tech in Detecting Water Leaks,” Channel NewsAsia, 8 November 2020, https://www.channelnewsasia.com/singapore/high-tech-detecting-water-leaks-533736; “Protecting Our Underground Network,” SP Energy Hub, 11 July 2019, https://www.spgroup.com.sg/about-us/energy-hub/reliability/protecting-our-underground-network; Ng Keng Gene, “S'pore’s Strategies to Reduce the Likelihood of Heavy Flooding,” Straits Times, 23 April 2021,  https://www.straitstimes.com/singapore/environment/spores-strategies-to-reduce-the-likelihood-of-heavy-flooding.
 
 [^11]: “[A Bird's-eye View of Raffles Place Park](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651104-1.2.126),” Straits Times, 4 November 1965, 20. (From NewspaperSG)
 
