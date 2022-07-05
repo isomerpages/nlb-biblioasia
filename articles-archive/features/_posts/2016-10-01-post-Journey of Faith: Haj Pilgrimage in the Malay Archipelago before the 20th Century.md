@@ -180,5 +180,5 @@ By the early 20th century, the Haj had become a competitive business with seriou
 #### REFERENCES
 1. Abdullah al-Qari Haji Salleh, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4121344">Sejarah Hidup To’ Kenali</a></i> (Kota Bharu: Pustaka Aman Press, 1967). (National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
 2. Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
-3. 
-
+3. Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a>
+</i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
