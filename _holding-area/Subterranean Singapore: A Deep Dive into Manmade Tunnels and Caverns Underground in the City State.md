@@ -96,6 +96,9 @@ Then there is the Transmission Cable Tunnel, which has been described as one of 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%207.png)
 <div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.</div>
 
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+</div>
+
 The Deep Tunnel Sewerage System (DTSS) is another underground utilities project that requires engineers to dig deep and tunnel through difficult soil conditions. Conceived in 1997, the DTSS “uses deep tunnel sewers to convey used water by gravity to centralised water reclamation plants”. Currently, the more than 100-kilometre-long DTSS serves the northern and eastern parts of Singapore through a network of sewers that are linked to two deep tunnel sewers. With diameters of up to 6 m, the two deep tunnel sewers had to be placed at a depth of up to 55 m underground.[^28] Phase 1 was completed in 2008, but phase 2 is still under construction. It is slated to be completed in 2025.[^29]
 
 The Underground Ammunition Facility (UAF), completed in 2008, is the country’s “first cavern development” and “the world’s most modern underground ammunition depot”. It took 10 years to build and is located under the old Mandai Quarry at an undisclosed depth. By storing ammunition in the UAF, this has helped free up about 300 ha of land, or the equivalent of 400 football fields.
