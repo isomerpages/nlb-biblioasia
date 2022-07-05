@@ -26,7 +26,7 @@ resistant to folding. *Alex Teoh* has the details.[(PDF)](/files/pdf/Vol%2018/Is
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>The earliest wet markets in Singapore date back to at least 1825. *Zoe Yeo* tells us how they have changed since.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_No%20Longer%20“Dirty,%20Unhygienic,%20Crowded%20and%20Messy”.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital">Labouring to Deliver: A History of Kandang Kerbau Hospital</a><br>The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. *Joanna Tan* delivers the story behind a hallowed Singapore institution.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital">Labouring to Deliver: A History of Kandang Kerbau Hospital</a><br>The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. *Joanna Tan* delivers the story behind a hallowed Singapore institution.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Labouring%20to%20Deliver%20--%20A%20History%20of%20Kandang%20Kerbau%20Hospital.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee">Cinema Pioneer Tan Cheng Kee</a><br>*Barbara Quek* looks at the man behind the former Alhambra and Marlborough theatres, which were once landmarks on Beach Road.
 
