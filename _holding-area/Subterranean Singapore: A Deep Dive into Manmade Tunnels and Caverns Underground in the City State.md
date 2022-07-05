@@ -16,7 +16,7 @@ Some of these underground structures are marvels of engineering. Located 150 m b
 The Jurong Rock Caverns are not accessible to the public though. Those who wish to see what Singapore looks like in the depths of the earth don’t have to go far. All they need to do is take a trip on the Downtown Line to Bencoolen Station. At 43 m below the surface, this is currently Singapore’s deepest MRT station where the station platform is on level B6.[^2] (Spoiler alert: it looks like an MRT station platform.) Even a simple drive can take you far below the surface. One stretch of the 5-km long Marina Coastal Expressway is not merely underground, it is actually beneath the seabed.
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%206.png)
-<div style="background-color: white;">At 43 m below street level, Bencoolen MRT Station is currently Singapore’s deepest station, 2022. Photo by and courtesy of Jimmy Yap.</div>
+<div style="background-color: white;">At 43 m below street level, Bencoolen MRT Station is currently Singapore’s deepest station, 2022. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 Thanks to advanced technology, Singapore has been able to reach depths that would have been considered unimaginable only a few decades ago. However, burrowing underground is not a recent phenomenon here. Before the war, the British constructed tunnels under bunkers and forts to aid the defence of Singapore. Located in places such as Pasir Panjang, Sentosa and Labrador Park, these subterranean walkways were primarily used to store ammunition.[^3]
 
@@ -28,7 +28,7 @@ However, between 1936 and 1941, the British built a tunnel network under Fort Ca
 Interestingly, an even older underground military structure lies close to Battlebox. This is the sally port that was part of the old Fort Canning. When Fort Canning was built on top of the hill in 1861, it had a narrow, easily defended passageway called a sally port that burrowed from the fort on top of the hill and led to a path on the side of the hill, some 6 m below. The sally port allowed soldiers to enter and leave the fort without compromising the fort’s defence. The entrance to the sally port lies about 15 m from the entrance to the Battlebox.
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%203.png)
-<div style="background-color: white;">Shown here is the entrance to the sally port, which is located about 15 m from the Battlebox. It is an even older underground military structure than the Battlebox, and allowed soldiers to enter and leave the fort without compromising the fort’s defence. Photo by and courtesy of Jimmy Yap.</div>
+<div style="background-color: white;">Shown here is the entrance to the sally port, which is located about 15 m from the Battlebox. It is an even older underground military structure than the Battlebox, and allowed soldiers to enter and leave the fort without compromising the fort’s defence. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 While military installations may capture the imagination, it is probably accurate to say that in the pre-war years, the island’s underground spaces were mainly used for the laying of utilities. Comprising power transmission cables, gas pipes, sewerage pipes, telephone lines and water mains, these were placed in the ground by the Singapore Municipality “to keep them out of sight” as well as to protect them from elements and human-inflicted damages.[^5]
 
