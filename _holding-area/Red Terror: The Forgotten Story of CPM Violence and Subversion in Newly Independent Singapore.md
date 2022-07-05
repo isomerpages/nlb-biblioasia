@@ -1,13 +1,15 @@
 ---
 title: "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
   Independent Singapore"
-permalink: /red-terror
+permalink: /vol-18/issue-2/jul-sep-2022/test-3
 description: ""
 ---
+
+
 #### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)
-<div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+<div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Strange, red flags fluttered in the midday breeze. At a playground near 10½ Mile Changi Road, that was the only sign that something was amiss that Thursday afternoon on 23 April 1970. Intrigued by the unfamiliar sight, a 9-year-old boy and a 7-year-old girl wandered over to investigate. In doing so, the children unwittingly triggered a booby-trap bomb planted near the red flags, setting off an explosion that was heard by residents almost a kilometre away. The children were rushed to the nearby Changi Hospital. Hours later, the little girl died.[^1]
 
@@ -15,12 +17,12 @@ That same evening, two homemade bombs, packed into red cylinders, were discovere
 
 In Singapore’s history, communists often feature as dangerous antagonists of the 1950s and 1960s. However, what many have forgotten is that acts of violence continued into the 1970s. In fact, April 1970 marked the start of renewed communist violence on the island.[^3] Newspaper articles, photographs, and government press releases from the 1970s tell of foiled assassinations, terrorist attacks and clandestine information wars.
 
-#### **A Broader Picture: 	Communists in Context**
+#### **A Broader Picture: Communists in Context**
 
 This resurgence of communist activity was not spontaneous. The April 1970 bombing in Changi was linked to the CPM’s revival of its armed struggle in Malaysia in June 1968. This revival can be traced to broader regional and international situations at the time, such as the ongoing Vietnam War and Chinese support for the CPM.
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%202.png)
-<div style="background-color: white;">One of the flags of the Communist Party of Malaya attached to the bomb that exploded in Changi on 23 April 1970. Courtesy of Ministry of Home Affairs.</div>
+<div style="background-color: white;">One of the flags of the Communist Party of Malaya attached to the bomb that exploded in Changi on 23 April 1970. <i>Courtesy of Ministry of Home Affairs.</i></div>
 
 The Malayan Emergency, a struggle between the CPM and Malayan, British and British Commonwealth forces, officially ended in July 1960. By then, the CPM had been using non-violent, “united front” tactics for some six years (from 1954 onwards).[^4] Its main combat units had withdrawn to the Thai-Malayan border, where most were subsequently demobilised.[^5] In Singapore, the Special Branch had successfully uprooted the CPM’s “underground network throughout the island” by the early 1960s.[^6] Although party cadres had fled to the Riau Islands prior to these security operations, the CPM’s diminished presence did not mean that it had been eradicated.[^7]
 
@@ -41,7 +43,7 @@ Perhaps the most sensational incident of this period was the Still Road bombing,
 In the early hours of 20 December 1974, three CPM operatives set out to kill Soh. They drove a blue Austin car carrying four bombs, intending to detonate them at Soh’s bungalow in Katong.[^15] However, while waiting at a traffic junction near Still Road at 5.20 am, one of the volatile explosives in the car suddenly exploded.
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%204.png)
-<div style="background-color: white;">The wreckage of the car following the explosion near Still Road on 20 December 1974. Courtesy of Ministry of Home Affairs.</div>
+<div style="background-color: white;">The wreckage of the car following the explosion near Still Road on 20 December 1974. <i>Courtesy of Ministry of Home Affairs.</i></div>
 
 The explosion sent glass and metal shards over a 100-metre radius. Witnesses saw “tongues of flames flickering from the mess that was the Austin”, while the morning air was “pungent with the smell of gunpowder”.[^16]
 
@@ -50,7 +52,7 @@ The vehicle’s driver, Gay Beng Guan, 37, was hurled out of the car by the forc
 That same morning, police found three more bombs strung across the North Bridge Road office of Nanyang Manufacturing (an affliate company of Nanyang Shoe Factory). The bombs were hung alongside banners that read “The Righteous Struggle of Johor Baru Nanyang Shoe Factory Workers Must Win” and for all to “Most rigorously condemn the persecution of workers by the reactionary management”.[^18]
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%203.png)
-<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs.</div>
+<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. <i>Courtesy of Ministry of Home Affairs.</i></div>
 
 The horrific deaths of the communist agents – described, photographed and published in vivid detail in newspapers – were perhaps the most sobering demonstration of the bloodshed the CPM was prepared to inflict. Yet these explosions were only the most visible manifestations of the CPM’s operations in Singapore.
 
@@ -65,7 +67,7 @@ These chilling assassination plots mirrored the CPM’s ongoing surgical strikes
 In July 1975, a captured CPM agent led Singapore police officers to a cache of “189 hand grenades, 210 detonators, a .38 revolver, a .25 Colt automatic pistol, 75 rounds of ammunition and several communist books and documents.”[^22] Later that month, another 109 hand grenades were found in two earthen jars, buried in the grounds of another operative’s house.[^23] In numerous press releases, the Ministry of Home Affairs detailed the extensive involvement of captured agents with CPM cell leaders, which went as far back as the 1950s.[^24]
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%205.png)
-<div style="background-color: white;">The communist khaki shirt belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+<div style="background-color: white;">The communist khaki shirt belonging to a member of the Communist Party of Malaya, 1950s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Another ISD sweep captured four more communist cells in 1977, which comprised local construction workers and even a reservist SAF officer. One of these CPM units was a construction company involved in the building of drains in Tuas Village and Newton Road. These projects had raised $46,000 for the CPM.[^25] That same year, a full-time national service police inspector was arrested for providing “confidential information”, such as the car registration plate numbers and names of key ISD personnel.[^26]
 
@@ -82,7 +84,7 @@ Concurrently, the CPM waged an information offensive over Singapore’s airwaves
 Listeners in Singapore could tune in to VMR broadcasts twice daily on AM radio. On 29 July 1970, Singapore Telecoms began jamming these long-range transmissions, but with limited success.[^31] VMR broadcasts continued until June 1981 when the station was shut down on the CCP’s orders. Despite the VMR’s closure, the CPM continued radio broadcasts from a new radio station called Suara Demokrasi (Voice of Democracy) from a new mobile transmitter on the Thai-Malaysian border until the signing of the 1989 Haadyai Peace Agreement.[^32]
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%206.png)
-<div style="background-color: white;">The communist khaki shirt belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+<div style="background-color: white;">The Communist Party of Malaya signed the Haadyai Peace Agreements on 2 December 1989. This brought an end to the 41-year communist conflict that had begun in 1948. <i>Image reproduced from Tan Lian Choo, “Chin Peng Signs Peace Pacts with KL and Bangkok,” Straits Times, 3 December 1989, 1. (From NewspaperSG).</i></div>
 
 CPM Leader Chin Peng claimed that many communist sympathisers and cadres throughout Malaysia and Singapore “tuned in eagerly” to the radio broadcasts.[^33] However, Eu Chooi Yip, a senior CPM cadre and who was also director of VMR’s Chinese programming section, disagreed. In an oral history interview in 1992, Eu described many of VMR’s programmes as simply a rehash of existing news reports from local newspapers with the addition of communist rhetoric. Eu recounted how cadres on the ground were in fact “not really willing to listen” to the programme, likening the broadcasts to serving “leftover rice” (“他们说连他们自己也不大愿意听, 打开电台听一下… 就不听了… 和炒冷饭一样”).[^34]
 
@@ -104,90 +106,89 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
-	<b>Kelvin Tan</b> graduated with a Bachelor of Arts in history from the National University of Singapore. He was a research assistant for the project “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” funded by the National Heritage Board. </div>
-
+<img src="/images/Vol%2018%20Issue%202/Authors/Choo_Ruizhi.png" style="width: 100px; height: 100px;"/>
+	<b>Choo Ruizhi</b> is a Senior Analyst with the National Security Studies Programme at the S Rajaratnam School of International Studies, Nanyang Technological University.  His other research interests include the environmental histories of Southeast Asia in the 19th and 20th centuries.</div>
 	
 #### **NOTES**
 
-[^1]: “[Bomb Victim Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700425-1.2.7),” Straits Times, 25 April 1970, 1; “[Flag Bombs Go Off in S’pore Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700424-1.2.3),” Straits Times, 24 April 1970, 1; John Tan, “[Underground Network’s Deadly Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2),” Straits Times, 30 November 1983, 22. (From NewspaperSG)
+[^1]: “[Bomb Victim Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700425-1.2.7),” *Straits Times*, 25 April 1970, 1; “[Flag Bombs Go Off in S’pore Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700424-1.2.3),” *Straits Times*, 24 April 1970, 1; John Tan, “[Underground Network’s Deadly Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2),” *Straits Times*, 30 November 1983, 22. (From NewspaperSG)
 
-[^2]: “[Bomb Found on Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700430-1.2.8),” Straits Times, 30 April 1970, 1. (From NewspaperSG)
+[^2]: “[Bomb Found on Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700430-1.2.8),” *Straits Times*, 30 April 1970, 1. (From NewspaperSG)
 
-[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [Socialism That Works... the Singapore Way](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
+[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [*Socialism That Works... the Singapore Way*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
 
-[^4]: Lee Ting Hui, [The Open United Front: The Communist Struggle in Singapore, 1954–1966](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
+[^4]: Lee Ting Hui, [*The Open United Front: The Communist Struggle in Singapore, 1954–1966*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
 
 [^5]: Ong Weichong, “Securing the Population from Insurgency and Subversion in the Second Emergency (1968–1981)” (PhD thesis, University of Exeter, 2010), 59.
 
-[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
+[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
 
-[^7]: Fong Chong Pik, [Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
+[^7]: Fong Chong Pik, [*Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
 
-[^8]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 428–30.
+[^8]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 428–30.
 
-[^9]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 453.
+[^9]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 453.
 
-[^10]: Aloysius Chin, [The Communist Party of Malaya: The Inside Story](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 12–13; Bilveer Singh, [Quest for Political Power](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
+[^10]: Aloysius Chin, [*The Communist Party of Malaya: The Inside Story*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 12–13; Bilveer Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
 
-[^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” Straits Times, 13 October 1978, 13. (From NewspaperSG)
+[^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” *Straits Times*, 13 October 1978, 13. (From NewspaperSG)
 
-[^12]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Bomb Hoax, Pro-Red Banners Keep Police Busy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.9),” Straits Times, 3 January 1971, 1. (From NewspaperSG)
+[^12]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Bomb Hoax, Pro-Red Banners Keep Police Busy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.9),” *Straits Times*, 3 January 1971, 1. (From NewspaperSG)
 
-[^13]: Leslie Fong and Paul Wee, “[Booby-trap Escape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740621-1.2.2),” Straits Times, 21 June 1974, 1; “[Red Banners Seized at Bridges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741105-1.2.2),” Straits Times, 5 November 1974, 1. (From NewspaperSG)
+[^13]: Leslie Fong and Paul Wee, “[Booby-trap Escape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740621-1.2.2),” *Straits Times*, 21 June 1974, 1; “[Red Banners Seized at Bridges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741105-1.2.2),” *Straits Times*, 5 November 1974, 1. (From NewspaperSG)
 
-[^14]: Bharathi Menon, “[Bullet Warning from Bombers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741224-1.2.2),” New Nation, 24 December 1974, 1; “[The Katong Bomb Incident](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20111020-1.2.7.1),” Today, 20 October 2011, 2. (From NewspaperSG)
+[^14]: Bharathi Menon, “[Bullet Warning from Bombers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741224-1.2.2),” *New Nation*, 24 December 1974, 1; “[The Katong Bomb Incident](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20111020-1.2.7.1),” *Today*, 20 October 2011, 2. (From NewspaperSG)
 
-[^15]: “[24-hour Police Vigil for Articles with Red Slogans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.40),” Straits Times, 28 December 1974, 7. (From NewspaperSG)
+[^15]: “[24-hour Police Vigil for Articles with Red Slogans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.40),” *Straits Times*, 28 December 1974, 7. (From NewspaperSG)
 
-[^16]: Paul Wee, “[Riddle of Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741222-1.2.2),” Straits Times, 22 December 1974, 1; Paul Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2),” Straits Times, 21 December 1974, 1. (From NewspaperSG)
+[^16]: Paul Wee, “[Riddle of Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741222-1.2.2),” *Straits Times*, 22 December 1974, 1; Paul Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2),” *Straits Times*, 21 December 1974, 1. (From NewspaperSG)
 
-[^17]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; “[Katong Blast Bomber Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750104-1.2.41),” Straits Times, 4 January 1975, 8; Lai Yew Kong, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2),” Straits Times, 23 December 1974, 1. (From NewspaperSG)
+[^17]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; “[Katong Blast Bomber Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750104-1.2.41),” *Straits Times*, 4 January 1975, 8; Lai Yew Kong, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2),” *Straits Times*, 23 December 1974, 1. (From NewspaperSG)
 
-[^18]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; Lai, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2)”; “[Vital Clues in the Bombers’ Warning Notes...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741227-1.2.6.1),” New Nation, 27 December 1974, 2; Leslie Fong, “‘[Red Doc’ Is Back in Prison](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760605-1.2.3),” Straits Times, 5 June 1976, 1; “[Implications of the Bomb Blast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741223-1.2.22.1),” New Nation, 23 December 1974, 10. (From NewspaperSG); Teo Chee Hean, “Parliamentary Speech on the Internal Security Act”, press release, 19 October 2011, https://www.mynewsdesk.com/sg/ministry-of-home-affairs/pressreleases/parliamentary-speech-on-the-internal-security-act-speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-695944.
+[^18]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; Lai, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2)”; “[Vital Clues in the Bombers’ Warning Notes...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741227-1.2.6.1),” *New Nation*, 27 December 1974, 2; Leslie Fong, “‘[Red Doc’ Is Back in Prison](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760605-1.2.3),” *Straits Times*, 5 June 1976, 1; “[Implications of the Bomb Blast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741223-1.2.22.1),” *New Nation*, 23 December 1974, 10. (From NewspaperSG); Teo Chee Hean, “Parliamentary Speech on the Internal Security Act”, press release, 19 October 2011, https://www.mynewsdesk.com/sg/ministry-of-home-affairs/pressreleases/parliamentary-speech-on-the-internal-security-act-speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-695944.
 
-[^19]: P.M. Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2),” Straits Times, 22 June 1974, 1. (From NewspaperSG)
+[^19]: P.M. Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2),” *Straits Times*, 22 June 1974, 1. (From NewspaperSG)
 
-[^20]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Communist Threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751006-1.2.87.2),” Straits Times, 6 October 1975, 14. (From NewspaperSG)
+[^20]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Communist Threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751006-1.2.87.2),” *Straits Times*, 6 October 1975, 14. (From NewspaperSG)
 
-[^21]: Chin, [Communist Party of Malaya](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955), 164, 236–38.
+[^21]: Chin, [*Communist Party of Malaya*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955), 164, 236–38.
 
-[^22]: Ahmad Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7),” Straits Times, 5 August 1975, 1. (From NewspaperSG)
+[^22]: Ahmad Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7),” *Straits Times*, 5 August 1975, 1. (From NewspaperSG)
 
 [^23]: Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 17.
 
-[^24]: See, for instance, Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7)”; “[Freed: Woman Who Was Plen’s Courier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720623-1.2.45),” Straits Times, 23 June 1972, 6; “[Ex-detainee: I Was Trained to Use Guns and Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800521-1.2.52),” Straits Times, 21 May 1980, 9. (From NewspaperSG)
+[^24]: See, for instance, Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7)”; “[Freed: Woman Who Was Plen’s Courier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720623-1.2.45),” *Straits Times*, 23 June 1972, 6; “[Ex-detainee: I Was Trained to Use Guns and Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800521-1.2.52),” *Straits Times*, 21 May 1980, 9. (From NewspaperSG)
 
-[^25]: “[39 Arrested in ISD Swoops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771016-1.2.2),” Straits Times, 16 October 1977, 1. (From NewspaperSG)
+[^25]: “[39 Arrested in ISD Swoops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771016-1.2.2),” *Straits Times*, 16 October 1977, 1. (From NewspaperSG)
 
-[^26]: Singh, [Quest for Political Power](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” Straits Times, 13 October 1978, 12. (From NewspaperSG)
+[^26]: Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” *Straits Times*, 13 October 1978, 12. (From NewspaperSG)
 
-[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in *Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
 [^28]: Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2).”
 
-[^29]: “[Former Officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54)”; “[Detainee Admits: I Was a Leader of Revolutionary Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771120-1.2.35),” Straits Times, 20 November 1977, 7. (From NewspaperSG)
+[^29]: “[Former Officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54)”; “[Detainee Admits: I Was a Leader of Revolutionary Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771120-1.2.35),” *Straits Times*, 20 November 1977, 7. (From NewspaperSG)
 
-[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
-[^31]: Original source figures given as 9590 kc/s and 7305 kc/s in the 31- and 41-metre bands. “Internal Security Department (Singapore) Files: The Voice of the Malayan Revolution, 26 May 1971” cited in Ong Weichong, [Malaysia’s Defeat of Armed Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201072903) (New York: Routledge, 2015), 51. (From National Library, Singapore, call no. RSEA 322.4209595 VOI)
+[^31]: Original source figures given as 9590 kc/s and 7305 kc/s in the 31- and 41-metre bands. “Internal Security Department (Singapore) Files: The Voice of the Malayan Revolution, 26 May 1971” cited in Ong Weichong, [*Malaysia’s Defeat of Armed Communism*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201072903) (New York: Routledge, 2015), 51. (From National Library, Singapore, call no. RSEA 322.4209595 VOI)
 
-[^32]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 460.
+[^32]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 460.
 
-[^33]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 450.
+[^33]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 450.
 
 [^34]: [Eu Chooi Yip (余柱业)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/21c329bd-115e-11e3-83d5-0050568939ad-OHC001359_019/web/html5/index.html), oral history interview by 林孝胜, 25 September 1992, transcript and MP3 audio, Reel 19 of 23, 30:32, National Archives of Singapore (accession no. 001359).
 
-[^35]: Eddie C.Y. Kuo, “Multilingualism and Mass Media Communications in Singapore”, Asian Survey 18, no. 10 (October 1978): 1067–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+[^35]: Eddie C.Y. Kuo, “Multilingualism and Mass Media Communications in Singapore”, *Asian Survey* 18, no. 10 (October 1978): 1067–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^36]: For more examples of the VMR’s broadcasts, see [Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^36]: For more examples of the VMR’s broadcasts, see [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
-[^37]: “[S’poreans and Their Rising Affluence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791030-1.2.10),” Straits Times, 30 October 1979, 1; “[Soccer ‘Live’ Colour Telecast was ‘Superb’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740709-1.2.34),” Straits Times, 9 July 1974, 5. (From NewspaperSG)
+[^37]: “[S’poreans and Their Rising Affluence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791030-1.2.10),” *Straits Times*, 30 October 1979, 1; “[Soccer ‘Live’ Colour Telecast was ‘Superb’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740709-1.2.34),” *Straits Times*, 9 July 1974, 5. (From NewspaperSG)
 
-[^38]: Sit Meng Chue, “[Two Who Were Won Over by Pro-Red Detainees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790602-1.2.27),” Straits Times, 2 June 1979, 7. (From NewspaperSG)
+[^38]: Sit Meng Chue, “[Two Who Were Won Over by Pro-Red Detainees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790602-1.2.27),” *Straits Times*, 2 June 1979, 7. (From NewspaperSG)
 
-[^39]: Leon Comber, [Malaya’s Secret Police, 1945–60: The Role of the Special Branch in the Malayan Emergency](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13055676) (Singapore, ISEAS Publishing, 2008), 6. (From National Library, Singapore, call no. RSING 363.283095951 COM)
+[^39]: Leon Comber, [*Malaya’s Secret Police, 1945–60: The Role of the Special Branch in the Malayan Emergency*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13055676) (Singapore, ISEAS Publishing, 2008), 6. (From National Library, Singapore, call no. RSING 363.283095951 COM)
 
-[^40]: “[The Red Threat Is Very Real](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840128-1.2.24.1),” Singapore Monitor, 28 January 1984, 17. (From NewspaperSG)
+[^40]: “[The Red Threat Is Very Real](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840128-1.2.24.1),” *Singapore Monitor*, 28 January 1984, 17. (From NewspaperSG)
 
-[^41]: Tan Lian Choo, “[Accord is An Honourable Settlement, Says Chin Peng](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891203-1.2.25.1.2),” Straits Times, 3 December 1989, 16. (From NewspaperSG)
+[^41]: Tan Lian Choo, “[Accord is An Honourable Settlement, Says Chin Peng](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891203-1.2.25.1.2),” *Straits Times*, 3 December 1989, 16. (From NewspaperSG)

@@ -13,6 +13,16 @@ sections:
       button: The Historic Cathay Cinema
       url: /history-cathay-cinema-2022
   - infopic:
+      title: Haj Pilgrimage before the 20th Century
+      subtitle: Hari Raya Haji
+      description: Before flights became common in the 1970s, Muslim pilgrims from
+        Southeast Asia travelled to Mecca by land or sea, on voyages that took
+        months or even years.
+      button: A journey of faith
+      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
+      image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
+      alt: Image alt text
+  - infopic:
       title: They Died for All Free Men
       subtitle: war
       description: The Kranji War Cemetery and Singapore Memorial are a solemn tribute
