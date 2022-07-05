@@ -51,7 +51,7 @@ Legends and epics dominate the early literature on Haj in this region, and while
 Authenticity aside, the Haj journey in *Hikayat Hang Tuah* is useful for its insights on the route, ports of call, places traversed and the modes of transportation. The Hikayat records Hang Tuah as taking more than two months to reach Jeddah, leading a fleet of 42 ships and bringing with him 1,600 followers and 16 officials. The route he took is below: 
 <br>a. From Malacca to Aceh – 5 days and 5 nights 
 <br>b. From Aceh to Pulau Dewa – 10 days 
-<br>c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months). 
+<br>c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months.) 
 
 <img style="width:30%" src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg">
 <div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
