@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
 ---
-#### Before flights became common in the 1970s, Muslim pilgrims from Southeast Asia travelled to Mecca by ship. The  journey was arduous and not for the faint-hearted. By **Nor-Afidah Abd Rahman**
+#### Before flights became common in the 1970s, Muslim pilgrims from Southeast Asia travelled to Mecca by ship, on arduous voyages that took months and claimed lives. **Nor-Afidah Abd Rahman** takes us on a journey of the pilgrims' hardships and joy. 
 
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg">
 <div style="background-color: white;">The <i>Kaabar</i> (House of God), where all Muslims turn to in their prayers.</div>
