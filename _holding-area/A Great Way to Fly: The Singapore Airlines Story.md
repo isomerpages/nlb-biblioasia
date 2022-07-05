@@ -28,7 +28,7 @@ The matter was eventually settled out of court in June that year. Under the agre
 
 In July 1972, Singapore announced that the new name of its airline would be Singapore Airlines and on 1 October, the airline’s first flight, SQ 108, bound for Kuala Lumpur, took off at around 6.15 am.
 
-A New Beginning
+#### **A New Beginning**
 
 After Malaysia-Singapore Airlines was split up, SIA absorbed more than $180 million of its assets, including the Boeing fleet of five 707s and five 737-112s, and two Fokker F-27 Friendships. SIA also took over the Robinson Road headquarters, the Kriscom IBM computer reservation system, the engineering base and the airport flight kitchen in Paya Lebar, as well as the ramp servicing and transport equipment, and most of the overseas offices. The new airline operated the majority of the international routes of the former Malaysia-Singapore Airlines.
 
@@ -40,7 +40,7 @@ To expand and fly to new destinations, SIA needed more planes. In 1978, the airl
 
 All this has resulted in the airline consistently having a large, but young fleet of airplanes. Today, the SIA Group (including subsidiaries) has a combined passenger network covering almost 100 destinations.
 
-Branding and the Singapore Girl
+#### **Branding and the Singapore Girl**
 
 The SIA logo was conceptualised by San Francisco design firm Landor Associates in 1972. The logo of a golden bird, against a deep midnight blue tail, was chosen to “[reflect] the modernity and sophistication” of SIA. All SIA aircrafts have been carrying this distinctive livery ever since with only a subtle change in 1987 when new gold, blue and yellow accents were introduced.
 
@@ -52,7 +52,7 @@ Such was the fame of the Singapore Girl that when Madame Tussaud’s wax museum 
 
 Airline food is typically a punchline for many a joke. SIA, however, takes food seriously and places an emphasis on the preparation, choice of cuisine and presentation of meals. In 1998, the airline pioneered the concept of assembling an international cast of chefs on the Singapore Airlines International Culinary Panel to create up-to-date menus reflecting the latest food trends. In 2021, SIA won the Skytrax World Airline Award for Best Economy Class Airline Catering.
 
-Trials and Tribulations
+#### **Trials and Tribulations**
 
 In the early years, SIA had to work hard to obtain traffic and landing rights, which were not easily attainable. Initially, the British government did not allow SIA to land in London. Managing Director Lim  Chin Beng recalled that the negotiations went on “for months and months and months”. SIA eventually took a huge gamble, with support from the Singapore government, to serve notice to terminate its agreement with the British Overseas Airways Corporation (now known as British Airways) that allowed the airline to land in Singapore. 
 
@@ -80,7 +80,7 @@ SIA had to deal with fatal accidents as well. The first serious accident occurre
 
 This, however, was not its most serious incident involving the company. That had taken place three years prior, when a plane from SIA’s regional arm, SilkAir, suffered a fatal crash. Flight MI 185 was on its way to Singapore from Jakarta on 19 December 1997 when it lost altitude from 35,000 ft and nosedived into the Musi River near the city of Palembang in South Sumatra, Indonesia. That crash killed all 104 people on board.
 
-Adapting to Circumstances
+#### **Adapting to Circumstances**
 
 In the late 1990s, budget airlines became popular and airlines like Malaysia's AirAsia and Australia's Jetstar ushered in a new era of air travel by offering cheaper tickets. 
 
@@ -90,7 +90,7 @@ In 2020, SIA encountered what can be described as one of the most challenging mo
 
 In October 2020, with most of the planes grounded, SIA transformed several A380 double-decker superjumbo jets into “Restaurant A380” offering Singapore residents a unique dining experience, and also provided the airline’s signature meals delivered to homes. Singapore residents could also go for guided tours at the SIA training facility where they had a chance to interact with pilots and cabin crew, and even check out the flight stimulators at an extra charge. 
 
-Flying Once Again
+#### **Flying Once Again**
 
 With the easing of restrictions and borders opening, air travel has begun to pick up. In December 2021, SIA announced a net profit of $85 million during the third quarter since the onset of the pandemic, thanks to expanded vaccinated travel lane arrangements and cargo revenue. In May 2022, the airline reported a lower net loss of $962 million for the financial year ending in March 2022, compared with $4.3 billion a year earlier. Revenue also increased to $7.6 billion, from $3.8 billion. 
 
