@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - How Chinese Buddhist Women Shaped the Food Landscape in Singapore.md
       - "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
         Underground in the City State.md"
       - Test 3.md
