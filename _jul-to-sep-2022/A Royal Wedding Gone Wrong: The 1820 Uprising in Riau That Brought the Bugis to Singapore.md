@@ -67,7 +67,7 @@ In the tumult, Königsdorffer, who had bravely defended the small garrison while
 Immediately after the collapse of this uprising, the Bugis escaped in their boats and fled across the Straits for safety in the settlement of Singapore. This took place the following day, on 30 January. Bugis men, women and children emptied themselves from their houses and escaped via Riau Terusan, between Senggarang and Bintan, towards the island of Singapore.[^17]
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%204.png)
-<div style="background-color: white;">  A Bugis nautical chart of the Malay Archipelago, 1816–20. <i>_Image from_ _Utrecht University Library, *VIII*.C.a.2 (Dk39-8).</i>
+<div style="background-color: white;">  A Bugis nautical chart of the Malay Archipelago, 1816–20. <i>Image from Utrecht University Library, *VIII*.C.a.2 (Dk39-8).</i>
 </div>
 
 William Farquhar, Resident of Singapore at the time, counted almost 500 of them, arriving in a fleet of ships, leaving behind a Bugis kampong smouldering in ash. Farquhar was very pleased to offer them refuge, settling them along the Rochor River, which eventually became Kampong Bugis.[^18] Their arrival shifted the lucrative Bugis trade westwards, away from Dutch Riau and towards British Singapore. This proved a turning point in Singapore’s fortune. Besides the material gain, the British obtained added satisfaction in witnessing the troubles of the Dutch, whom they viewed as a rival.
