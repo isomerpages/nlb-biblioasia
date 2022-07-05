@@ -182,7 +182,6 @@ By the early 20th century, the Haj had become a competitive business with seriou
 2. Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
 3. Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a></i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
 4. William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in <i>Ships and the Development of Maritime Technology in the Indian Ocean</i>, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
-5. Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a>
-</i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
-
-
+5. Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a></i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
+6. Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
+7. 
