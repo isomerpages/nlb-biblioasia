@@ -178,14 +178,26 @@ By the early 20th century, the Haj had become a competitive business with seriou
 [^9]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 200.
 
 #### **REFERENCES**
-1. Abdullah al-Qari Haji Salleh, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4121344">Sejarah Hidup To’ Kenali</a></i> (Kota Bharu: Pustaka Aman Press, 1967). (National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
-2. Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
-3. Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a></i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
-4. William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in <i>Ships and the Development of Maritime Technology in the Indian Ocean</i>, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
-5. Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a></i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
-6. Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
-7. Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
-8. Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
-9. </i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
-10. Abdullah bin Abdul Kadir Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C6864752">Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad</a></i> (Singapore: Malaya Publishing House, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
-11. Abdullah Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4568037">Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad</a></i> (Kuala Lumpur: Oxford University Press, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
+Abdullah al-Qari Haji Salleh, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4121344">Sejarah Hidup To’ Kenali</a></i> (Kota Bharu: Pustaka Aman Press, 1967). (National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
+
+Abdullah bin Abdul Kadir Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C6864752">Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad</a></i> (Singapore: Malaya Publishing House, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
+
+Abdullah Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4568037">Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad</a></i> (Kuala Lumpur: Oxford University Press, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
+
+
+Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
+
+Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a></i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
+
+William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in <i>Ships and the Development of Maritime Technology in the Indian Ocean</i>, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
+
+Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a></i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
+
+Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
+
+Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
+
+Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
+
+</i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
+
