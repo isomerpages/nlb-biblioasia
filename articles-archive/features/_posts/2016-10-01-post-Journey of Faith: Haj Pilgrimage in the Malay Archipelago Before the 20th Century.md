@@ -14,7 +14,7 @@ image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
 
 Making the journey to Mecca to fulfil the obligation of the Haj is a long and cherished ambition for most Muslims. In heeding the call of the *Ka'bah* (House of God) in Mecca, where all Muslims turn to in their prayers, the Haj is not for the faint-hearted or the ill prepared. In Haj, the pursuit of spiritual upliftment transcends worldly wants and often requires stoicism in the face of hardships. During travels in strange Arab lands and in close company of multitudes of strangers, hardships are never few. As an obligation, in fact, the Haj is not demanded on those who cannot canvass the strength and earnings to leave their routines and family dependants behind in order to complete the intense Haj rituals.
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabah Pic.jpg" style="width:50%">
+<img style="width:50%" src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabah Pic.jpg">
 <div style="background-color: white;">Close-up of the <i>Kaabar. All rights reserved, Yayasan Dahwah Islamia Malaysia, 1986</i>.</div>
 
 For far-flung devotees such as Muslims in Southeast Asia, just traversing parts of the globe to reach Mecca was once a severe test to their mettle. Today, because of advanced transportation, flights from anywhere in the world have diminished the distance to Mecca, making the trip to the Holy Land bearable. Surviving the journey to Mecca is almost a certainty and forms the least of the pilgrims' worries. A return passage to their homeland at the end of the Haj is also guaranteed, as most pilgrims would have booked a two-way ticket. This was not the practice in the old days, as it was the custom for pilgrims to book a one-way ticket to Jeddah. They booked their ticket home from Jeddah only after they had completed their Haj. In the preflight days, many pilgrims, often due the treachery of their _motowwaf_ (local pilgrim guides), found themselves with no money for their return passage. In one instance, in 1897, the British Consul in Jeddah had to assist 106 pilgrims to make it back to home. There were others however who were not so lucky. They became victims to shipping agents' manipulation to secure cheap labour. Just before the turn of the 20th century, in what was to become a big scandal in Singapore, the colonial government in Singapore uncovered a syndicate, which cunningly offered destitute pilgrims an advance on their return fares in exchange for the pilgrims' agreement to work in the shipping agent's plantations. The debt-bondage arrangement that ensued led to the recruitment of many plantation coolies from the rank of these destitute pilgrims. They were unable to free themselves even after reaching the maximum period of their tenure. 
@@ -22,7 +22,7 @@ For far-flung devotees such as Muslims in Southeast Asia, just traversing parts 
 For pilgrims in Singapore, Malaysia and Indonesia (and for the most part of the world), hassle-free journeys only came about in the 1970s when flights became regular and affordable. Prior to that, Malay pilgrims travelled to Mecca mainly by sea on sailing ships and later steamers. It would take months to reach the port at Jeddah, where the vessels would congregate and spill their contents.
 
 #### Convergence of Human Waves
-During the first 13 centuries of Islam, to embark for Haj was like attempting to run an endless marathon. The journey could take years as many pilgrims were poor and had to stop en route to work and save before setting out again. Before the first half of the 19th century, a vast majority of pilgrims took the overland route to Mecca, which proved to be more arduous than the sea route. There were three slow-moving waves of pilgrims entering Mecca during the Haj season. The first arrived by an armada of ships that ploughed the vast Indian Ocean and Arabian Sea from these locations: 
+During the first 13 centuries of Islam, to embark for Haj was like attempting to run an endless marathon. The journey could take years, as many pilgrims were poor and had to stop en route to work and save before setting out again. Before the first half of the 19th century, a vast majority of pilgrims took the overland route to Mecca, which proved to be more arduous than the sea route. There were three slow-moving waves of pilgrims entering Mecca during the Haj season. The first arrived by an armada of ships that ploughed the vast Indian Ocean and Arabian Sea from these locations: 
 <br>a. The sprinkled archipelagos of the East Indies 
 <br>b. The great inverted triangle of the Indian subcontinent 
 <br>c. The coast of East Africa and the horn of Africa  
@@ -34,7 +34,7 @@ The next wave, slower than the first, trotted by foot or on horse/camel caravans
 
 In the absence of official statistics before the 19th century, it would not be too inaccurate to estimate that only a conservative number from the Archipelago went on Haj, as many would be discouraged to undertake travel due to the hazardous and protracted nature of the journey. The total number of pilgrims in Mecca before the 19th century was also relatively small to begin with, according to William Facey: 
 
-<p class="tab">Historical statistics are few, but travellers' and officials' reports indicate widely varying pilgrim numbers. One of the highest was 100,000, recorded in the year 1279. In 1383, some 17,000 pilgrims crossed Sinai in the Egyptian caravan, and in 1503 the Italian traveller di Varthema estimated about 40,000 in the Damascus caravan... In 1831, a British report estimated 120,000 pilgrims in total, about 20,000 of whom arrived at Jiddah by sea from India, Malaya, the Arabian Gulf and the Red Sea ports of Suez, Qusair, Sawakin and elsewhere – and that seems to have been the best year for half a century or more. What is striking is how small overall pilgrim numbers were.[^1] </p>
+<p>Historical statistics are few, but travellers' and officials' reports indicate widely varying pilgrim numbers. One of the highest was 100,000, recorded in the year 1279. In 1383, some 17,000 pilgrims crossed Sinai in the Egyptian caravan, and in 1503 the Italian traveller di Varthema estimated about 40,000 in the Damascus caravan... In 1831, a British report estimated 120,000 pilgrims in total, about 20,000 of whom arrived at Jiddah by sea from India, Malaya, the Arabian Gulf and the Red Sea ports of Suez, Qusair, Sawakin and elsewhere – and that seems to have been the best year for half a century or more. What is striking is how small overall pilgrim numbers were.[^1] </p>
 
 The majority from this small number took the overland route. Ship-going pilgrims who formed the remainder came only from these places: sub-Saharan Africa, India and Malaysia. Since Malay pilgrims were represented only in the sea travellers group, the Archipelago's overall contribution to the already small number of pilgrims was hence limited. 
 
@@ -43,7 +43,7 @@ Early records of Haj pilgrimage from the Malay Archipelago showed that pilgrimag
 
 Both in Malaysia and Indonesia, the identity and period of the first Haj pilgrimage are not known, although it is likely they occurred within the backdrop of the genesis of Islam in this region. While there are more than one theory on how and when Islam came into the region, the founding of Islamic kingdoms in the Archipelago has had the effect of heightening awareness and aspirations towards the Haj. By the late 13th century, Islam had spread to Southeast Asia. The discovery of the Trengganu Stone (*Batu Bersurat*), dated 1303 with Arabic inscriptions in 1887 at Kuala Berang, Trengganu, attested to the influence of Islam by this date. With the founding of the Kingdom of Malacca around 1400 and the conversion of its founder, Parameswara, by 1414, Islam penetrated a major Malay state ideology and polity. In Indonesia, the earliest known conversion to Islam by a local ruler occurred in Aceh, North Sumatra, in the late 13th century. By the middle of the 17th century, the Muslim kings in Java were more than anxious to capitalise on Haj to legitimise their kingdoms. By the middle of 17th century, it was not only the Islam phenomenon that had taken over the kingdoms in Java, but also their kings were anxiously looking for Islamic symbols to legitmise their kingdoms and many capitalised on Haj.
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/STONE.jpg" style="width:50%">
+<img style="width:50%" src="/images/vol-2-issue-3/Journey%20of%20faith/STONE.jpg">
 <div style="background-color: white;">A replica of Trengganu Stone. <i>Image courtesy of the National Library of Malaysia</i>.</div>
 
 Legends and epics dominate the early literature on Haj in this region, and while they present a continuum between legend and fact, this literature is still a good source to speculate who the Haj pilgrims were before the 19th century. The Malay *hikayat* contain some of the earliest instances of Haj in this region. *Hikayat Hang Tuah* (possibly first written in the 16th century) records a Haj pilgrimage in the 15th century, undertaken by Hang Tuah, a great Malay warrior. While the authenticity of both this epic and the legendary hero is debatable, the detailed account of his deeds in the Holy Land is not too far from the rituals preached to Haj pilgrims. On this basis, there were claims that Hang Tuah's pilgrimage in the 15th century leans more towards fact than fiction. 
@@ -53,7 +53,7 @@ Authenticity aside, the Haj journey in *Hikayat Hang Tuah* is useful for its ins
 <br>b. From Aceh to Pulau Dewa – 10 days 
 <br>c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months). 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg" style="width:30%">
+<img style="width:30%" src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg">
 <div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
 
 According to *Hikayat Hang Tuah*, Hang Tuah's pilgrimage was coincidental, for his ultimate quest was the quasi-mythical empire of Rome, and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title "Sultan" by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626, while that from Mataram arrived home in 1641.
@@ -74,12 +74,12 @@ In the 13th century, speculations about Haj pilgrims focused on personalities wh
 #### Of Haj and Hardships
 More substantial factual accounts about Haj pilgrimage in the Malay Archipelago started to appear in the 19th century. According to Michael Laffan in *Islamic Nationhood and Colonial Indonesia*, the first actualised account that mentions journey to Mecca is Munshi Abdullah's <i>Kisah Pelayaran Abdullah</i> (The Story of Abdullah's Voyage). Munshi Abdullah, whose literary contributions had earned him the title the father of modern Malay literature, made his journey in 1854. 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/books.jpg" style="width:50%">
-<div style="background-color: white;">Cover and title page of <i>Kisah Pelayaran Abdullah</i>. All rights reserved, Oxford University Press, 1960</i>.</div>
+<img style="width:50%" src="/images/vol-2-issue-3/Journey%20of%20faith/books.jpg">
+<div style="background-color: white;">Cover and title page of <i>Kisah Pelayaran Abdullah</i>. All rights reserved, Oxford University Press, 1960.</div>
 
 His Haj account stopped shortly before his death in Jeddah. There is also information that points to an even earlier Haj pilgrimage, made by Sayyid Muhammad bin Zainal al ldrus, a Trengganu ulama (religious leader) who is known as the father of Trengganu's literature. Sayyid Muhammad went to Mecca around 1815 at the age of 20 and spent several years there pursuing his studies. Yet another account in the 19th century relates the story of Muhammad Yusof bin Ahmad, better known as Tok Kenali Kelantan, who went to Mecca in 1886 at the age of 18. An account of his life is found in <i>Sejarah hidup To' Kenali </i> (The Life of To' Kenali). 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/Tok%20Kenali.jpg" style="width:50%">
+<img style="width:50%" src="/images/vol-2-issue-3/Journey%20of%20faith/Tok%20Kenali.jpg">
 <div style="background-color: white;">Left to right: Book cover of <i>Sejarah hidup To' Kenali</i>; Tok Kenali, a 19th century pilgrim from Kelantan. <i>All rights reserved, Pustaka Aman, 1967</i>.</div>
 
 Two of these intellectuals, Munshi Abdullah and Tok Kenali, described a Haj journey that departs from the pompous fleet of ships and entourage-full sailing found in *Hikayat Hang Tuah* and even Sultan Mansur's Haj preparations. They wrote of hardships and gave readers a more realistic version of Haj, as if to warn them of its mental and physical exertions.[^4]  Munshi Abdullah drew up a will before he left, accepting the fact that he might not survive the Haj. 
@@ -104,7 +104,7 @@ One of the fiercest storm occurred when Abdullah's ship tried to cross Kep Gamri
 
 "Oh God! Oh God! Oh God! I can't even begin to describe how horrendous it was and how tremendous the waves were, only God would know how it felt, it was as if I had wanted to crawl back into my mother's womb in fright! ... All the goods, chests, sleeping-mats and pillows were flung about. Water spewed into the hold and drenched everything completely. Everyone was lost in their thoughts, thinking nothing else but that death was close at hand... In the ship's hold, the noises made by people vomiting and urinating were indescribable as the sailors kept on hosing down the place... Everyone held fast to the ropes. The sails tore and the ropes broke many times... This continued for two days and three nights, and with God's pity and help the winds then lessened."[^6]
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/abdullah%20on%20ship.jpg" style="width:70%">
+<img style="width:70%" src="/images/vol-2-issue-3/Journey%20of%20faith/abdullah%20on%20ship.jpg">
 <div style="background-color: white;">Abdullah onboard his
 pilgrim ship.</div>
 
@@ -134,7 +134,7 @@ Thus I have forgotten all the hardships and
 The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions.
 
 #### Haj and Arab Shipping in Singapore
-The rise of Hadhrami shipping in the Malay Archipelago in the mid-19th century boded well for pilgrims in this region. Hadhrami Arab shippers hailed from Yemen and competed successfully with the Europeans and Chinese in trade and shipping in the Indian Ocean. The Alsagoffs, a prominent Arab family in Singapore, established the firm Alsagoff & Co. in 1848 to conduct trade within the islands of the Archipelago using their own vessels. 
+The rise of Hadhrami shipping in the Malay Archipelago in the mid-19th century boded well for pilgrims in this region. Hadhrami Arab shippers hailed from Yemen and competed successfully with the Europeans and Chinese in trade and shipping in the Indian Ocean. The Alsagoffs, a prominent Arab family in Singapore, established the firm Alsagoff &amp; Co. in 1848 to conduct trade within the islands of the Archipelago using their own vessels. 
 
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/steamships.jpg">
 <div style="background-color: white;">Pilgrims on a steamship. <i>Image from Hajjah Amaina Collection, National Archives of Singapore</i>.</div>
@@ -150,18 +150,18 @@ When steamship arrived in the late half of the 19th century, the Arab shipping m
 By the early 20th century, the Haj had become a competitive business with serious investments by international shipping companies. The waves had been tamed by large steam-powered vessels custom built to combine pilgrim and cargo transport. While the duration to get to Jeddah had improved tremendously, the well-being and safety of Haj pilgrims still lagged behind. The number of pilgrims had swelled to a point at which effective sanitation, hygiene, administration and guardianship of pilgrims could not be adequately addressed by purely commercial concerns. The British and Dutch colonial governments introduced regulations to protect Haj pilgrims, but tales of extreme overcrowding in pilgrim ships and of Haj pilgrims getting stranded without a return ticket after being manipulated by shipping agents and brokers continued to be heard. The comfort that Haj pilgrims experience today is a result of decades of reforms by various parties, helped by the advances in transportation. For a journey that is deeply spiritual, the Haj pilgrimage in the Malay Archipelago cannot be divorced from its social and economic dimensions. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <b>Nor-Afidah Abd Rahman</b> is a senior librarian at the Lee Kong Chian Reference Library.</div>
 
 
 #### **NOTES**
-[^1]: Wiliam Facey, “<a href=" http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm"> Queen of the India Trade</a>,” Saudi Aramco World 56, no. 6 (2005).  
+[^1]: Wiliam Facey, “<a href="http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm"> Queen of the India Trade</a>,” Saudi Aramco World 56, no. 6 (2005).  
 
 [^2]: <i>Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.
 
-[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href=" https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm "> The Pilgrims Progress </a>,” <i>Saudi Aramco World</i> 25, no. 6 (1974).
+[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm"> The Pilgrims Progress </a>,” <i>Saudi Aramco World</i> 25, no. 6 (1974).
 
-[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i>Indonesia and the Malay World</i> 28, no. 81 (July 2000): 173–213. (From Taylor & Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
+[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i>Indonesia and the Malay World</i> 28, no. 81 (July 2000): 173–213. (From Taylor &amp; Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
 
 [^5]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 186.
 
