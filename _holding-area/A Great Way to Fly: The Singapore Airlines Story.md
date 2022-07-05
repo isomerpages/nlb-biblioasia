@@ -94,9 +94,9 @@ In October 2020, with most of the planes grounded, SIA transformed several A380 
 
 With the easing of restrictions and borders opening, air travel has begun to pick up. In December 2021, SIA announced a net profit of $85 million during the third quarter since the onset of the pandemic, thanks to expanded vaccinated travel lane arrangements and cargo revenue.[^43] In May 2022, the airline reported a lower net loss of $962 million for the financial year ending in March 2022, compared with $4.3 billion a year earlier. Revenue also increased to $7.6 billion, from $3.8 billion.[^44]
 
-In an interview with the Straits Times in May 2022, chief executive officer of SIA, Goh Choon Phong, said that in the second quarter of 2022, the airline was at about 61 percent of pre-pandemic capacity compared to an average of 20 percent of pre-pandemic capacity for the other airlines in this region. He told the newspaper he was confident that the rapid growing economies in Asia would foster strong demands for business travel. 
+In an interview with the Straits Times in May 2022, chief executive officer of SIA, Goh Choon Phong, said that in the second quarter of 2022, the airline was at about 61 percent of pre-pandemic capacity compared to an average of 20 percent of pre-pandemic capacity for the other airlines in this region. He told the newspaper he was confident that the rapid growing economies in Asia would foster strong demands for business travel.[^45]
 
-The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Changi Airport Terminal 3 in May 2022 also showed SIA’s “confidence in Singapore’s future as a pre-eminent global air hub”. So long as SIA sticks to its guiding principle of striving for excellence, it will undoubtedly continue to be a great way to fly.
+The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Changi Airport Terminal 3 in May 2022 also showed SIA’s “confidence in Singapore’s future as a pre-eminent global air hub”.[^46] So long as SIA sticks to its guiding principle of striving for excellence, it will undoubtedly continue to be a great way to fly.
 	
 <div style="background-color: white;">
 <br/>
