@@ -95,7 +95,7 @@ Munshi Abdullah's contributions to Singapore history and literature are many. <i
 
 <blockquote>Then at around nine o'clock on Sunday night, the seventh day of the month, the North Wind descended furiously on us. The waves and swells were immense, so much so that our large ship became merely a coconut husk that was being thrashed about by the waves, floating and sinking as it was tossed about in the middle of the sea. All the chests and goods on the left of the ship came crashing to the right, while those on the right came crashing to the left, and this carried on until the break of day.</blockquote>
 
-Abdullah started his voyage to Mecca from Singapore in 1854 on the ship <i>Sabi/ al-is/am</i> owned by Syeikh Abdul Karim. Abdullah made 22 stops before reaching Mecca, in between experiencing four sea storms. 
+Abdullah started his voyage to Mecca from Singapore in 1854 on the ship <i>Sabil al-islam</i> owned by Syeikh Abdul Karim. Abdullah made 22 stops before reaching Mecca, in between experiencing four sea storms. 
 
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Route%20to_Mecca_Map.jpg">
 <div style="background-color: white;">Abdullah's route to Mecca. <i>All rights reserved, Pustaka Melaya, 1960</i>.</div>
