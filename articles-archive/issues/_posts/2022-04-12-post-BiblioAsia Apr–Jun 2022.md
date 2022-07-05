@@ -15,10 +15,10 @@ A new type of paper produced in the 1920s did not take off despite attempts to p
 resistant to folding. *Alex Teoh* has the details.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Printed%20on%20Rubber%20Latex%20Paper.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy">Flower Power: Singapore’s Orchid Diplomacy
-</a><br>Singapore names orchid hybrids after foreign dignitaries and important guests to the Singapore Botanic Gardens. *Rebecca Tan* tells us more.[(PDF)]([](/files/pdf/Vol%2018/Issue%201/v18-issue1_Flower%20Power%20--%20Singapore’s%20Orchid%20Diplomacy.pdf))
+</a><br>Singapore names orchid hybrids after foreign dignitaries and important guests to the Singapore Botanic Gardens. *Rebecca Tan* tells us more.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Flower%20Power%20--%20Singapore’s%20Orchid%20Diplomacy.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides">The Orang Seletar: Rowing Across Changing Tides
-</a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore. 
+</a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore.[(PDF)]([](/files/pdf/Vol%2018/Issue%201/v18-issue1_Orang%20Seletar%20--%20Rowing%20Across%20Changing%20Tides.pdf))
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang">A History of the Padang</a><br>A 4.3-hectare patch of green stands in front of the former City Hall building. *Kevin Tan* tells us why it is so special.
 
