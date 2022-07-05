@@ -96,8 +96,8 @@ Then there is the Transmission Cable Tunnel, which has been described as one of 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%207.png)
 <div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
-WHAT ARE WE STEPPING ON?
-<br><br>
+<b>WHAT ARE WE STEPPING ON?</b>
+<br>
 In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
 </div>
 
