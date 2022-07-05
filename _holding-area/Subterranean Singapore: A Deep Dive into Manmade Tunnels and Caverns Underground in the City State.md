@@ -125,9 +125,11 @@ In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH C
 
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
 	
+	![](/images/Vol%2018%20Issue%202/Authors/Lim_Tin_Seng.png)
+	
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Choo_Ruizhi.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
 	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
 	
 #### **NOTES**
