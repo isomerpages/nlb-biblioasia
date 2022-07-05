@@ -4,8 +4,6 @@ title: "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
 permalink: /vol-18/issue-2/jul-sep-2022/test-2
 description: ""
 ---
-
-
 #### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space. By **Lim Tin Seng**
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png)
@@ -174,7 +172,7 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 
 [^20]: Josephine Teo, “Opening Ceremony of Marina Coastal Expressway,” Ministry of Transport, 28 December 2013, https://www.mot.gov.sg/news/speeches/Details/Speech-by-Mrs-Josephine-Teo-at-the-Opening-Ceremony-of-Marina-Coastal-Expressway-on-28-December-2013; “[PWD Engineers Go Abroad to Study Underground Roads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19900412-1.2.12.5),” *Business Times*, 12 April 1990, 2; Fadzil Hamzal and Cel Gulapa, “[A Highway under the Sea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20131223-1.2.3.20),” *New Paper*, 23 December 2013, 16–17. (From NewspaperSG); ”Marina Coastal Expressway Opens,” *Today*, 29 December 2013, https://www.todayonline.com/singapore/marina-coastal-expressway-opens.
 
-[^21]: Sherlyn Seah, “Land Transport Master Plan 2040: Faster Journeys for Cyclists, Bus Passengers at Priority Corridors,” *Today*, 25 May 2019, https://www.todayonline.com/singapore/land-transport-master-plan-2040-faster-journeys-cyclists-bus-passengers-priority-corridors; “North-South Corridor,” Land Transport Authority, last updated 10 March 2022, https://www.lta.gov.sg/content/ltagov/en/upcoming_projects/road_commuter_facilities/north_south_corridor.html; Kenneth Cheng, “Tengah to Get S’pore’s First Car-free Town Centre,” *Today*, 8 September 2016, https://www.todayonline.com/singapore/tengah-get-spores-first-car-free-town-centre; Oscar Holland, “Singapore Is Building a 42,000-home Eco ‘Smart’ City,” *CNN*, 2 February 2021, https://edition.cnn.com/style/article/singapore-tengah-eco-town/index.html.
+[^21]: Sherlyn Seah, “Land Transport Master Plan 2040: Faster Journeys for Cyclists, Bus Passengers at Priority Corridors,” *Today*, 25 May 2019, https://www.todayonline.com/singapore/land-transport-master-plan-2040-faster-journeys-cyclists-bus-passengers-priority-corridors; “North-South Corridor,” Land Transport Authority, last updated 10 March 2022, https://www.lta.gov.sg/content/ltagov/en/upcoming_projects/road_commuter_facilities/north_south_corridor.html; Kenneth Cheng, “Tengah to Get S’pore’s First Car-free Town Centre,” *Today*, 8 September 2016, https://www.todayonline.com/singapore/tengah-get-spores-first-car-free-town-centre; Oscar Holland, “Singapore Is Building a 42,000-home Eco ‘Smart’ City,” CNN, 2 February 2021, https://edition.cnn.com/style/article/singapore-tengah-eco-town/index.html.
 
 [^22]: “[Neon Lights and Ads to Lure Pedestrians Under](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810611-1.2.59),” *New Nation*, 11 June 1981, 12/13. (From NewspaperSG)
 
