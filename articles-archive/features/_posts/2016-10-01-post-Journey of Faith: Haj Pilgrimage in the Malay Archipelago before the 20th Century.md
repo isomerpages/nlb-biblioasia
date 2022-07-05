@@ -184,20 +184,24 @@ Abdullah bin Abdul Kadir Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bi
 
 Abdullah Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4568037">Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad</a></i> (Kuala Lumpur: Oxford University Press, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
 
-
 Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
 
-Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a></i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
+Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i> <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 28, no. 81 (2000): 173–213. (National Library, Singapore, call no. RSING 959.8 IMW)
 
 William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in <i>Ships and the Development of Maritime Technology in the Indian Ocean</i>, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
 
 Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11533543">Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia</a></i>, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
 
-Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
-
-Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
-
 Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4078526">Chatetan Ka-Tanah Suchi</a></i> (Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
 
 </i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
 
+Michael Francis Laffan, <i> <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11707504">Islamic Nationhood and Colonial Indonesia: The Umma below the Winds</a></i> (London: RoutledgeCurzon, 2003). (National Library, Singapore, call no. RSEA 959.8022 LAF
+
+Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a></i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
+
+Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
+
+Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
+
+Dadan Wildan, “<a href="https://sundaislam.wordpress.com/2008/01/12/perjumpaan-islam-dengan-tradisi-sunda/">Perjumpaan Islam dengan Tradisi Sunda</a>,” Blog, 26 March 2003.
