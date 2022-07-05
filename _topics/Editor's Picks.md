@@ -21,6 +21,12 @@ Three large murals used to grace the walls of Paya Lebar Airport, depicting scen
 ![](/images/vol-17-issue-2/murals/mural_main2.jpg)
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/early-years-substation">In Their Own Words: The Early Years of The Substation</a>
+The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell Clarissa Oon how it got started.
+
+<img style="width:100%;" src="/images/vol-17-issue-4/substation/substation.png"> 
+<hr> 
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">Movies Beneath A Starry, Starry Night</a>
 The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. Sharon Teng tracks its rise and subsequent decline.
 
@@ -33,5 +39,3 @@ Crocodiles elicit fear and respect by turns – and occasionally, even indiffere
 ![](/images/vol-14-issue-2/revulsion-and-reverence/croc1.jpg)
 
 <hr>
-
-
