@@ -157,26 +157,6 @@ By the early 20th century, the Haj had become a competitive business with seriou
 <br>
 <b>Nor-Afidah Abd Rahman</b> is a senior librarian at the Lee Kong Chian Reference Library.</div>
 
-
-#### **NOTES**
-[^1]: Wiliam Facey, “<a href="http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm"> Queen of the India Trade</a>,” Saudi Aramco World 56, no. 6 (2005).  
-
-[^2]: <i>Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.
-
-[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm"> The Pilgrims Progress </a>,” <i>Saudi Aramco World</i> 25, no. 6 (1974).
-
-[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i>Indonesia and the Malay World</i> 28, no. 81 (July 2000): 173–213. (From Taylor &amp; Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
-
-[^5]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 186.
-
-[^6]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 187.
-
-[^7]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 189.
-
-[^8]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 173–213.
-
-[^9]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 200.
-
 #### **REFERENCES**
 Abdullah al-Qari Haji Salleh, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4121344">Sejarah Hidup To’ Kenali</a></i> (Kota Bharu: Pustaka Aman Press, 1967). (National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
 
@@ -216,4 +196,24 @@ Dadan Wildan, “<a href="http://pajajaran.blogspot.com/2006/09/orang-orang-sund
 
 Dadan Wildan, “<a href="https://sundaislam.wordpress.com/2008/01/12/perjumpaan-islam-dengan-tradisi-sunda/">Perjumpaan Islam dengan Tradisi Sunda</a>,” Blog, 26 March 2003.
 
- “<a href="http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ab72">History of Trade</a>,” </i>Historyworld<i>, accessed 24 August 2006.
+ “<a href="http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ab72">History of Trade</a>,” <i>Historyworld</i>, accessed 24 August 2006.
+	
+
+#### **NOTES**
+[^1]: Wiliam Facey, “<a href="http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm"> Queen of the India Trade</a>,” <i>Saudi Aramco World</i> 56, no. 6 (2005).  
+
+[^2]: <i>Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.
+
+[^3]: <i>Haji di Semenanjung Malaysia</i>,107–37; S. M. Amin, “<a href="https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm"> The Pilgrims Progress </a>,” <i>Saudi Aramco World</i> 25, no. 6 (1974).
+
+[^4]: Abdullah al-Qari Haji Salleh, <i>Sejarah hidup to' Kenali</i> (Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah's Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i>Indonesia and the Malay World</i> 28, no. 81 (July 2000): 173–213. (From Taylor &amp; Francis Online via NLB’s <a href="https://eresources.nlb.gov.sg/main/"> eResources</a> website) 
+
+[^5]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 186.
+
+[^6]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 187.
+
+[^7]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 189.
+
+[^8]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 173–213.
+
+[^9]: Raimy Che-Ross, “Munshi Abdullah's Voyage to Mecca,” 200.
