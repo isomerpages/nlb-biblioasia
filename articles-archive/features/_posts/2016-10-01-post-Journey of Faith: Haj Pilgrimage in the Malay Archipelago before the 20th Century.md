@@ -164,7 +164,7 @@ Abdullah bin Abdul Kadir Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bi
 
 Abdullah Munshi, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C4568037">Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad</a></i> (Kuala Lumpur: Oxford University Press, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
 
-Arsip Nasional Republik Indonesia, </i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
+Arsip Nasional Republik Indonesia, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12330134">Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff & Co</a></i> (Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
 
 Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” <i> <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 28, no. 81 (2000): 173–213. (National Library, Singapore, call no. RSING 959.8 IMW)
 
