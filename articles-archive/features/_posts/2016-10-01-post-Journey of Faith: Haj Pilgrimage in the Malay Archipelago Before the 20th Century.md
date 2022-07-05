@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
 ---
-
-####
+#### Before the 20th century, Muslim pilgrims from Southeast Asia travelled to Mecca by ship. They would gather at Singape journey was arduous and not for the faint-hearted. By **Nor-Afidah Abd Rahman**
 
 
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg">
@@ -153,7 +152,7 @@ By the early 20th century, the Haj had become a competitive business with seriou
 
 <div style="background-color: white;">
 <br/>
-<b>Nor-Afidah Abd Rahman</b> is the senior reference librarian at the Lee Kong Chian Reference Library.</div>
+<b>Nor-Afidah Abd Rahman</b> is a senior librarian at the Lee Kong Chian Reference Library.</div>
 
 
 #### **NOTES**
