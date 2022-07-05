@@ -128,7 +128,7 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Choo_Ruizhi.png" style="width: 100px; height: 100px;"/>
-	<b>Choo Ruizhi</b> is a Senior Analyst with the National Security Studies Programme at the S Rajaratnam School of International Studies, Nanyang Technological University.  His other research interests include the environmental histories of Southeast Asia in the 19th and 20th centuries.</div>
+	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
 	
 #### **NOTES**
 
