@@ -37,5 +37,4 @@ The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyda
 Crocodiles elicit fear and respect by turns – and occasionally, even indifference. Kate Pocklington and Siddharta Perez document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.
 
 ![](/images/vol-14-issue-2/revulsion-and-reverence/croc1.jpg)
-
 <hr>
