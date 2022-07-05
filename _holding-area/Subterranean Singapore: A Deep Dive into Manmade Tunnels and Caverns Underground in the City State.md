@@ -94,9 +94,11 @@ The 5.7-kilometre CST is “as big as two MRT tunnels” and its construction, w
 Then there is the Transmission Cable Tunnel, which has been described as one of the world’s deepest electricity supply projects, and completed in 2018. Located at a depth of between 60 m and 80 m underground (compared to underground MRT tunnels which are 30 m to 40 m deep), the project comprises three tunnels – North-South, East-West and Jurong Island-Pioneer Tunnels. Ranging from a diameter of 6 to 11 m each, these tunnels can house the entire nation’s 500 km of extra-high voltage cables with the capacity to hold another 700 km more in the future. These tunnels allow the easy monitoring and replacement of cables with minimal disruption to traffic and the lives of Singaporeans.[^27]
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%207.png)
-<div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.</div>
-
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+<div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
+<br><br>
+WHAT ARE WE STEPPING ON?
+<br><br>
+In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
 </div>
 
 The Deep Tunnel Sewerage System (DTSS) is another underground utilities project that requires engineers to dig deep and tunnel through difficult soil conditions. Conceived in 1997, the DTSS “uses deep tunnel sewers to convey used water by gravity to centralised water reclamation plants”. Currently, the more than 100-kilometre-long DTSS serves the northern and eastern parts of Singapore through a network of sewers that are linked to two deep tunnel sewers. With diameters of up to 6 m, the two deep tunnel sewers had to be placed at a depth of up to 55 m underground.[^28] Phase 1 was completed in 2008, but phase 2 is still under construction. It is slated to be completed in 2025.[^29]
