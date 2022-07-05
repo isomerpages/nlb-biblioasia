@@ -196,6 +196,8 @@ Harun Aminurrashid, <i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe
 
 </i><a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C12221058">Hikayat Hang Tuah</a></i> (Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
 
+William Facey, “<a href="https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm">Queen of the India Trade</a>,” <i>Saudi Aramco World</i> 56, no. 6 (November–December 2005): 10–16. 
+
 Michael Francis Laffan, <i> <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C11707504">Islamic Nationhood and Colonial Indonesia: The Umma below the Winds</a></i> (London: RoutledgeCurzon, 2003). (National Library, Singapore, call no. RSEA 959.8022 LAF
 
 Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C5678026">The British as Rulers: Governing Multiracial Singapore 1867–1914</a></i>(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-[HIS])
@@ -203,5 +205,7 @@ Edwin Lee, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/
 Muhammad Salleh bin Haji Awang, <i>Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)</i> (Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
 
 Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,” <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=%3C8347428">Indonesia and the Malay World</a></i> 29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
+
+Dadan Wildan, “<a href="http://pajajaran.blogspot.com/2006/09/orang-orang-sunda-pertama-yang-naik.html">Orang-orang Sunda pertama yang naik haji</a>,” Blog, 14 September 2006.
 
 Dadan Wildan, “<a href="https://sundaislam.wordpress.com/2008/01/12/perjumpaan-islam-dengan-tradisi-sunda/">Perjumpaan Islam dengan Tradisi Sunda</a>,” Blog, 26 March 2003.
