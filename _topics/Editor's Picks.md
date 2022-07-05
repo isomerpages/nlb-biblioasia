@@ -21,40 +21,17 @@ Three large murals used to grace the walls of Paya Lebar Airport, depicting scen
 ![](/images/vol-17-issue-2/murals/mural_main2.jpg)
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran" >A Qu'ran Made in Singapore</a>
-This edition of the Qur’an in the National Library is one of the earliest extant copies to have been printed at Kampong Gelam in Singapore. The date of its publication “13th Rajab in the (Islamic) year 1286” corresponds to 19 October 1869.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">Movies Beneath A Starry, Starry Night</a>
+The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. Sharon Teng tracks its rise and subsequent decline.
 
-<img style="width:100%;" src="/images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg"> 
-<hr>
+<img style="width:100%;" src="/images/vol-17-issue-4/movies-beneath/jurong_drive-in_bg.png"> 
+<hr> 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/malay-seafarer-in-lp/" >Malay Seafarers in Liverpool</a>
-Tim Bunnell speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/" >Revulsion and Reverence: Crocodiles in Singapore </a>
+Crocodiles elicit fear and respect by turns – and occasionally, even indifference. Kate Pocklington and Siddharta Perez document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.
 
-![](/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG)
+![](/images/vol-14-issue-2/revulsion-and-reverence/croc1.jpg)
 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith" >Building Faith: Wartime Churches in Syonan-to</a>
-Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
-
-<img style="width:100%;" src="/images/Vol-12-issue-3/building-faith/05-building_faith.jpg"> 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff" > The Gospel in Chinese</a>
-The Perfect Man’s Model (全人矩矱) is a Chinese gospel written by Karl Friedrich August Gützlaff, a German Protestant missionary fluent in Chinese. Printed in 1836, the book is the earliest extant Chinese publication printed in Singapore in the National Library’s collection.
-
-<img style="width:100%;" src="/images/vol-11-issue-4/the-gospel-in-chinese/C4.JPG"> 
 <hr>
 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/causeway" >From Sea to Road: Building the Causeway</a>
-The foundation stone for the Causeway was laid 100 years ago on 24 April 1920. Building it was a major engineering feat at the time.
-
-<img style="width:100%;" src="/images/Vol-16-issue-2/causeway/Causeway.jpg"> 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia" >The Final Hours of the Empress of Asia</a>
-The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
-
-<img style="width:100%;" src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg"> 
-<hr>
