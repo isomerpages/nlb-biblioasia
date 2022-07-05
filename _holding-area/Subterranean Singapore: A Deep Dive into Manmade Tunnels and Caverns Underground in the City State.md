@@ -66,7 +66,7 @@ Currently, the three most common types of TBMs used in Singapore are the Slurry 
 While the initial MRT system was being built, Singapore also embarked on another underground transportation project comprising a 700-metre tunnel linking Bukit Timah Road to Cairnhill Circle, a 1.7-kilometre tunnel from Kramat Road to Chin Swee Road and a three-storey underground interchange with five slip tunnels at Clemenceau Avenue. These tunnels became part of the 15.5-kilometre Central Expressway (CTE), which was completed in 1991 and connects the city centre to housing estates such as Toa Payoh, Bishan and Ang Mo Kio.[^18]
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%204.png)
-<div style="background-color: white;">Workers laying a sewage pipe for the Toa Payoh Sewerage Scheme, 1963. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">Workers laying a sewage pipe for the Toa Payoh Sewerage Scheme, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 As the project was carried out in the middle of the densely populated city area under various soil conditions, the excavation and tunnelling work “demanded a high level of technical expertise and skill”. Six different types of temporary retaining walls had to be erected along the route to hold back the soil, and noise and vibration monitoring instruments were attached to about 40 buildings located within 50 m of the excavation sites. The Singapore River also had to be dammed in stages over a period of two years for construction to be carried out.[^19]
 
@@ -83,7 +83,7 @@ Other than an underground road network for vehicles, there are also underpasses 
 Following the release of the Development Guide Plan for the new Downtown Core in 1996 that proposed turning underpasses into pedestrian malls, the first of such malls, CityLink Mall, was completed in 2000. Stretching some 350 m, the mall offers about 65,000 sq ft (6,039 sq m) of retail space, and links City Hall MRT Station and Raffles City to Marina Centre, Suntec City and the Esplanade. With its high ceilings, wide walkways and strategically placed skylights to allow natural light to stream in, these design elements strive to achieve an aboveground effect so “it doesn’t feel like an underground mall at all”.[^24] In 2010, a second underground pedestrian mall, the 179,000-square-foot (16,630 sq m) Marina Bay Link Mall, was built. It links One Raffles Quay with the Marina Bay area.[^25]
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%208.png)
-<div style="background-color: white;">CityLink Mall connects City Hall MRT Station and Raffles City with Marina Centre, Suntec City and the Esplanade, 2022. Photo by and courtesy of Jimmy Yap.</div>
+<div style="background-color: white;">CityLink Mall connects City Hall MRT Station and Raffles City with Marina Centre, Suntec City and the Esplanade, 2022. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 #### **Going Even Deeper**
 
