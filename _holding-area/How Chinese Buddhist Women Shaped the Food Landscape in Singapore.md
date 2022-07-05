@@ -7,13 +7,6 @@ description: Women who practised a particular form of Buddhism set up popular
 image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
   Image 1.png
 ---
-
-
-
-
-
-
-
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
@@ -62,7 +55,7 @@ In March 1958, Yang organised a similar fundraiser to build wards for Kwong Wai 
 
 For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin served the dishes.[^13] Qiu sponsored the Chinese tea, while the other vegetarian restaurant, Loke Woh Yuen, provided the dish “vegetarian pheasant” (斋雉).[^14]
 
-Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
+Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires further research.
 
 The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
 
