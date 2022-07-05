@@ -125,8 +125,6 @@ In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH C
 
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
 	
-	![](/images/Vol%2018%20Issue%202/Authors/Lim_Tin_Seng.png)
-	
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
