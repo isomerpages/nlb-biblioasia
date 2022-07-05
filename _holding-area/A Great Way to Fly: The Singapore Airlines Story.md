@@ -64,7 +64,8 @@ The newly established airline was also labelled as an upstart, a maverick and a 
 
 Not all of SIA’s challenges were from abroad. In 1980, members of the Singapore Airlines Pilots Association (SIAPA) sought to exert pressure on the airline to accede to their demands for higher wages, allowances and other benefits by resorting to work-to-rule, go-slows and unnecessary medical leave. These caused disruptions to flight schedules and harmed SIA's reputation and operations. 
 
-During that period, 30 pilots disrupted 16 scheduled flights through their refusal to work beyond the 12-hour duty time limit laid down under the company collective agreement. After the dispute was referred to the Industrial Arbitration Court, two further flight delays continued. 
+During that period, 30 pilots disrupted 16 scheduled flights through their refusal to work beyond the 12-hour duty time limit laid down under the company collective agreement. After the dispute was referred to the Industrial Arbitration Court, two further flight delays continued.
+
 On 1 December 1980, Prime Minister Lee Kuan Yew intervened and warned the SIAPA executives, telling them that he did not want to do them in but he “won’t allow anyone to do Singapore in”. Subsequently, some of the SIAPA officials were charged with illegal industrial action and SIAPA was deregistered. 
 
 In 2003, some 23 years later, another major dispute over wages broke out and Lee, now Senior Minister, stepped in again. He warned SIA management and the pilots that if the matter continued to escalate, there would be “broken heads.” The Ministry of Manpower and the Industrial Arbitration Court mediated between SIA and the Airline Pilots' Association Singapore to eventually reach an agreement on wage cuts, no-pay leave and compensation payment.
