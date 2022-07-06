@@ -100,6 +100,9 @@ SIA dipped its toes into the water by setting up its own low-cost subsidiary, Sc
 
 In 2020, SIA encountered what can be described as one of the most challenging moments in its history. The Covid-19 pandemic forced global travel to a standstill, and the airline reported its first net loss of $212 million in its 48-year history for the financial year ending in March 2020.[^40] To help cope with the short-term liquidity risk, SIA reached out to an unprecedented number of sources for funding and raised $22.4 billion in liquidity between April 2020 and May 2022, including $15 billion from shareholders.[^41]
 
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%206.png)
+<div style="background-color: white;">Passengers boarding a Singapore Airlines plane at Changi Airport, 1981. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
+
 In October 2020, with most of the planes grounded, SIA transformed several A380 double-decker superjumbo jets into “Restaurant A380” offering Singapore residents a unique dining experience, and also provided the airline’s signature meals delivered to homes. Singapore residents could also go for guided tours at the SIA training facility where they had a chance to interact with pilots and cabin crew, and even check out the flight stimulators at an extra charge.[^42]
 
 #### **Flying Once Again**
