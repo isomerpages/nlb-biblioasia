@@ -127,7 +127,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
 
-[^3]: Allen, [SIA: Take-off to Success](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 21–22; Christopher Fyfe, [Wheels in Malaya: The Wearne Brothers and Their Company](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
+[^3]: Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 21–22; Christopher Fyfe, [Wheels in Malaya: The Wearne Brothers and Their Company](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
 
 [^4]: “[Ten Proud Years: Great Day in the History of Malayan Airways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.122), 1947–1957,” Straits Times, 1 May 1957, 12; “[Malayan Air Service Daily From May 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470412-1.2.62),” Malaya Tribune, 12 April 1947, 5. (From NewspaperSG); Allen, [SIA: Take-off to Success](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 19.
 
