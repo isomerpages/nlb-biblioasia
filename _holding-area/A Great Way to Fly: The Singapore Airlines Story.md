@@ -49,6 +49,9 @@ The SIA logo was conceptualised by San Francisco design firm Landor Associates i
 
 Arguably the most distinctive trademark about SIA is the form-fitting batik sarong kebaya uniform worn by its stewardesses. The uniform was designed by French couturier Pierre Balmain in 1968 for Malaysia-Singapore Airlines. In 1974, Balmain made minor revisions to the uniform, retaining the air stewardess sarong kebaya but introducing new three-piece outfits for the ground stewardesses and female ticketing staff. The sarong kebaya – with its vibrant coloured floral motifs and patterned border batik print – is tailor-made for each crew member.[^16]
 
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%205.png)
+<div style="background-color: white;">A Malayan Airways stewardess in a collared blouse, jacket and pleated skirt, 1947. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
+
 Batey Advertising developed SIA’s memorable branding, focusing on its key inflight service, the iconic “Singapore Girl” and the airline slogan “Singapore Airlines – A Great Way to Fly”. The agency has won several international awards for this campaign.[^17]
 
 Such was the fame of the Singapore Girl that when Madame Tussaud’s wax museum in London wanted to have a waxwork figure to reflect the growing popularity of international travel, it chose to use an SIA stewardess, modelled after stewardess Lim Suet Kwee.[^18] A refresh of the Singapore Girl wax figure in 2015 featured Nur Surya Mohamed Ambiah, who was selected from among 4,500 female crew members.[^19]
