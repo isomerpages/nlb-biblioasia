@@ -6,7 +6,7 @@ description: ""
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences. By **Ang Seow Leng**
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
-<div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. Photo by Troy Mortier. Image retrieved from Unsplash.</div>
+<div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. *Photo by Troy Mortier. Image retrieved from Unsplash.*</div>
 
 Today, Singapore Airlines (SIA) is regularly described as being among the best airlines in the world. And this is not a new phenomenon. In 2020, the *Business Traveller* Asia-Pacific Awards gave SIA the overall award for Best Airline and Best Asia-Pacific Airline for the 20th year running.[^1]
 
@@ -15,7 +15,7 @@ It should come as no surprise that SIA consistently strives for excellence. From
 While SIA was officially incorporated in January 1972, the airline actually traces its history to the formation of Malayan Airways, which was set up in October 1937. That company was jointly owned by British Imperial Airways, Ocean Steamship Company of Liverpool and Straits Steamship Company in Singapore. 
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%202.png)
-<div style="background-color: white;">A Malayan Airways stewardess in a collared blouse, jacket and pleated skirt, 1947. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">A Malayan Airways stewardess in a collared blouse, jacket and pleated skirt, 1947. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.*</div>
 
 Malayan Airways was not the first local commercial airline to be set up in Malaya though. That honour belongs to Wearnes Air Services, a company owned by Wearne Brothers. When Kallang Airport was opened in June 1937 as Singapore's first purpose-built civil airport, Wearnes Air Services immediately launched flights to Kuala Lumpur and Penang. As air travel became more popular, the Singapore incorporated company extended its air service to more places such as Ipoh and Kota Bahru.[^3]
 
@@ -48,7 +48,7 @@ All this has resulted in the airline consistently having a large, but young flee
 The SIA logo was conceptualised by San Francisco design firm Landor Associates in 1972. The logo of a golden bird, against a deep midnight blue tail, was chosen to “[reflect] the modernity and sophistication” of SIA. All SIA aircrafts have been carrying this distinctive livery ever since with only a subtle change in 1987 when new gold, blue and yellow accents were introduced.[^15]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%204.png)
-<div style="background-color: white;">Singapore Airlines stewardess See Biew Wah with French designer Pierre Balmain, creator of the sarong kebaya uniform, and Madeleine Kohler, Balmain’s Director of Creations and Special Projects, c. 1972. Singapore Airlines Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">A Singapore Airlines baggage tag, 1970s. Collection of the National Museum of Singapore, National Heritage Board.</div>
 
 Arguably the most distinctive trademark about SIA is the form-fitting batik sarong kebaya uniform worn by its stewardesses. The uniform was designed by French couturier Pierre Balmain in 1968 for Malaysia-Singapore Airlines. In 1974, Balmain made minor revisions to the uniform, retaining the air stewardess sarong kebaya but introducing new three-piece outfits for the ground stewardesses and female ticketing staff. The sarong kebaya – with its vibrant coloured floral motifs and patterned border batik print – is tailor-made for each crew member.[^16]
 
@@ -72,7 +72,7 @@ The British high commissioner to Singapore, Arthur de la Mare, went to see Prime
 The newly established airline was also labelled as an upstart, a maverick and a pirate.[^25] In 1981, West Germany waged a campaign against SIA for selling discounted tickets. SIA offices in Frankfurt and Dusseldorf were reportedly visited by German tax officials on five occasions, and there were also increased frequencies of checks on SIA flights, resulting in delays and embarrassed passengers. Talks between Singapore and West German civil aviation officials eventually put an end to the disturbances.[^26]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%203.png)
-<div style="background-color: white;">Passengers boarding a Singapore Airlines plane at Changi Airport, 1981. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">Passengers boarding a Singapore Airlines plane at Changi Airport, 1981. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.*</div>
 
 Not all of SIA’s challenges were from abroad. In 1980, members of the Singapore Airlines Pilots Association (SIAPA) sought to exert pressure on the airline to accede to their demands for higher wages, allowances and other benefits by resorting to work-to-rule, go-slows and unnecessary medical leave. These caused disruptions to flight schedules and harmed SIA's reputation and operations.[^27]
 
@@ -145,23 +145,23 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^11]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 21.
 
-[^12]: “[SIA-Garuda Air Rights Signing Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720914-1.2.125),” Straits Times, 14 September 1972, 28; “[SIA Will Fly to Karachi This Month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721010-1.2.53),” Straits Times, 10 October 1972, 10. (From NewspaperSG)
+[^12]: “[SIA-Garuda Air Rights Signing Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720914-1.2.125),” *Straits Times*, 14 September 1972, 28; “[SIA Will Fly to Karachi This Month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721010-1.2.53),” *Straits Times*, 10 October 1972, 10. (From NewspaperSG)
 
-[^13]: Bill Campbell, “[SIA's $2 Bil Wingspread](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780510-1.2.2),” Straits Times, 10 May 1978, 1. (From NewspaperSG); Goh, [Where Lions Fly](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14273872), 108, 136.
+[^13]: Bill Campbell, “[SIA's $2 Bil Wingspread](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780510-1.2.2),” *Straits Times*, 10 May 1978, 1. (From NewspaperSG); Goh, [*Where Lions Fly*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14273872), 108, 136.
 
-[^14]: “SIA Group Cuts Full Year Net Loss By 78%, Posts Second Half Operating Profit As Travel Demand Returns,” Singapore Airlines, 18 May 2022, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Financial-Results/News-Release/nr-q4fy2122.pdf; Natasha Ganesan, “SIA Group’s Passenger Traffic Continues to Rise in May Amid Strong Recovery in Air Travel,” Channel NewsAsia, 15 June 2022, https://www.channelnewsasia.com/singapore/singapore-airlines-scoot-passenger-traffic-may-2022-covid-19-travel-2748461.
+[^14]: “SIA Group Cuts Full Year Net Loss By 78%, Posts Second Half Operating Profit As Travel Demand Returns,” Singapore Airlines, 18 May 2022, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Financial-Results/News-Release/nr-q4fy2122.pdf; Natasha Ganesan, “SIA Group’s Passenger Traffic Continues to Rise in May Amid Strong Recovery in Air Travel,” *Channel NewsAsia*, 15 June 2022, https://www.channelnewsasia.com/singapore/singapore-airlines-scoot-passenger-traffic-may-2022-covid-19-travel-2748461.
 
-[^15]: Nancy Byramji, “[Boeing 707 Gets First SIA Logo of Golden Bird](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720805-1.2.59),” Straits Times, 5 August 1972, 8; Martin Soong, “[SIA Shows Its New Flying Colours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19870429-1.2.10.1),” Business Times, 29 April 1987, 2. (From NewspaperSG)
+[^15]: Nancy Byramji, “[Boeing 707 Gets First SIA Logo of Golden Bird](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720805-1.2.59),” *Straits Times*, 5 August 1972, 8; Martin Soong, “[SIA Shows Its New Flying Colours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19870429-1.2.10.1),” *Business Times*, 29 April 1987, 2. (From NewspaperSG)
 
-[^16]: “[SIA Airgirls to Put on That MSA Look](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720727-1.2.17),” Straits Times, 27 July 1972, 2; “[Balmain Keeps It Down to Earth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740818-1.2.60),” Straits Times, 18 August 1974, 8. (From NewspaperSG); Danielle Wightman-Stone, “Singapore Airlines Celebrates 50 Years of Pierre Balmain,” FashionUnited, 19 November 2018, https://fashionunited.uk/news/fashion/singapore-airlines-celebrates-50-years-of-pierre-balmain/2018111940028.
+[^16]: “[SIA Airgirls to Put on That MSA Look](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720727-1.2.17),” *Straits Times*, 27 July 1972, 2; “[Balmain Keeps It Down to Earth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740818-1.2.60),” *Straits Times*, 18 August 1974, 8. (From NewspaperSG); Danielle Wightman-Stone, “Singapore Airlines Celebrates 50 Years of Pierre Balmain,” FashionUnited, 19 November 2018, https://fashionunited.uk/news/fashion/singapore-airlines-celebrates-50-years-of-pierre-balmain/2018111940028.
 
-[^17]: “[S'pore Firm Wins 12 International Ad Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870401-1.2.26.32),” Straits Times, 1 April 1987, 16; “[SIA's Stopover Ad a Winner](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870520-1.2.27.19),” Straits Times, 20 May 1987, 14. (From NewspaperSG)
+[^17]: “[S'pore Firm Wins 12 International Ad Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870401-1.2.26.32),” *Straits Times*, 1 April 1987, 16; “[SIA's Stopover Ad a Winner](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870520-1.2.27.19),” *Straits Times*, 20 May 1987, 14. (From NewspaperSG)
 
-[^18]: “[Singapore Girl in Wax for Madame Tussaud’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.80.2),” Straits Times, 21 March 1993, 1. (From NewspaperSG)
+[^18]: “[Singapore Girl in Wax for Madame Tussaud’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.80.2),” *Straits Times*, 21 March 1993, 1. (From NewspaperSG)
 
-[^19]: Jocelyn Lee, “New Singapore Girl Wax Figure Modelled After Yummy Mummy Chosen Out of 4,500 SIA Stewardesses,” New Paper, 4 March 2015, https://www.tnp.sg/news/others/new-singapore-girl-wax-figure-modelled-after-yummy-mummy-chosen-out-4500-sia.
+[^19]: Jocelyn Lee, “New Singapore Girl Wax Figure Modelled After Yummy Mummy Chosen Out of 4,500 SIA Stewardesses,” *New Paper*, 4 March 2015, https://www.tnp.sg/news/others/new-singapore-girl-wax-figure-modelled-after-yummy-mummy-chosen-out-4500-sia.
 
-[^20]: Sylvia Tan, [Above & Beyond: A Collection of Recipes from the Singapore Airlines International Culinary Panel](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13561739) (Singapore: Marshall Cavendish Cuisine, 2010), 13. (From National Library, Singapore, call no. RSING 641.59 ABO)
+[^20]: Sylvia Tan, [*Above & Beyond: A Collection of Recipes from the Singapore Airlines International Culinary Panel*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13561739) (Singapore: Marshall Cavendish Cuisine, 2010), 13. (From National Library, Singapore, call no. RSING 641.59 ABO)
 
 [^21]: “World's Best Economy Class Airlines 2021,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-economy-class-airlines-2021/.
 
@@ -169,45 +169,45 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^23]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
-[^24]: Lee Kuan Yew, [From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12972539) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); Lim, interview, 5 Sep 2000, 16.
+[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12972539) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); Lim, interview, 5 Sep 2000, 16.
 
-[^25]: Ken Hickson, [Mr SIA: Fly Past](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
+[^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
 
-[^26]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” Business Times, 13 November 11981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” Straits Times, 12 December 1981, 16. (From NewspaperSG)
+[^26]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” *Business Times*, 13 November 11981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” *Straits Times*, 12 December 1981, 16. (From NewspaperSG)
 
-[^27]: “[Time to Cool Frayed Nerves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19801202-1.2.21),” Business Times, 2 December 1980, 6; “[Troubled Sky](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801105-1.2.78.1),” Straits Times, 5 November 1980, 14. (From NewspaperSG)
+[^27]: “[Time to Cool Frayed Nerves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19801202-1.2.21),” *Business Times*, 2 December 1980, 6; “[Troubled Sky](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801105-1.2.78.1),” *Straits Times*, 5 November 1980, 14. (From NewspaperSG)
 
-[^28]: Ahmad Osman, “[SIA Dispute: PM Steps In](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801127-1.2.2),” Straits Times, 27 November 1980, 1. (From NewspaperSG)
+[^28]: Ahmad Osman, “[SIA Dispute: PM Steps In](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801127-1.2.2),” *Straits Times*, 27 November 1980, 1. (From NewspaperSG)
 
-[^29]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2),” Straits Times, 21 December 2003, 8. (From NewspaperSG); Hickson, [Mr SIA](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444), 56.
+[^29]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2),” Straits Times, 21 December 2003, 8. (From NewspaperSG); Hickson, [*Mr SIA*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444), 56.
 
-[^30]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2)”; Lydia Lim, “[Govt Acting to Prevent ‘Broken Heads’ at SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031202-1.2.2),” Straits Times, 2 December 2003, 1. (From NewspaperSG)
+[^30]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2)”; Lydia Lim, “[Govt Acting to Prevent ‘Broken Heads’ at SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031202-1.2.2),” *Straits Times*, 2 December 2003, 1. (From NewspaperSG)
 
 [^31]: Ministry of Information, Communications and the Arts, “[In Principle Agreement Mediated by MOM Reached Between Singapore Airlines Ltd (SIA) and the Air Line Pilots Association Singapore (ALPA-S)](https://www.nas.gov.sg/archivesonline/speeches/record-details/761a116c-115d-11e3-83d5-0050568939ad),” press release, 30 June 2003, National Archives of Singapore (document no. 2003063003); Ministry of Information, Communications and the Arts, “[Improving Labour Relations in Singapore Airlines (SIA): Prime Minister’s Office Press Statement](https://www.nas.gov.sg/archivesonline/speeches/record-details/781a11f1-115d-11e3-83d5-0050568939ad),” press release, 30 November 2003, National Archives of Singapore (document no. 2003113001).
 
-[^32]: Bilveer Singh, [Skyjacking of SQ 117: Causes, Course and Consequences](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6088656) (Singapore: Crescent Design Associates, 1991), 41, 48. (From National Library. Singapore, call no. RSING 364.154095957 BIL)
+[^32]: Bilveer Singh, [*Skyjacking of SQ 117: Causes, Course and Consequences*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6088656) (Singapore: Crescent Design Associates, 1991), 41, 48. (From National Library. Singapore, call no. RSING 364.154095957 BIL)
 
 [^33]: “Thunderbolt: The SQ117 Story,” Public Service Division, Prime Minister's Office, accessed 16 June 2022, https://www.psd.gov.sg/heartofpublicservice/our-people/4-24-7/thunderbolt-the-sq117-story/.
 
-[^34]: Singapore. Ministry of Transport, [Analysis of the Accident to Singapore Airlines Flight SQ 006, Boeing 747-412, 9V-SPK at Chiang Kai-Shek Airport, Taipei, Taiwan, on 31 October 2000](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11516487) (Singapore: Ministry of Transport, 2002), iv. (From National Library, Singapore, call no. RSING 363.124650951249 SIN); “[Crash Tarnishes Clean Record](https://safe.menlosecurity.com/http:/news.bbc.co.uk/2/hi/asia-pacific/1001007.stm),” BBC News, 1 November 2000, http://news.bbc.co.uk/2/hi/asia-pacific/1001007.stm.
+[^34]: Singapore. Ministry of Transport, [*Analysis of the Accident to Singapore Airlines Flight SQ 006, Boeing 747-412, 9V-SPK at Chiang Kai-Shek Airport, Taipei, Taiwan, on 31 October 2000*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11516487) (Singapore: Ministry of Transport, 2002), iv. (From National Library, Singapore, call no. RSING 363.124650951249 SIN); “[Crash Tarnishes Clean Record](https://safe.menlosecurity.com/http:/news.bbc.co.uk/2/hi/asia-pacific/1001007.stm),” BBC News, 1 November 2000, http://news.bbc.co.uk/2/hi/asia-pacific/1001007.stm.
 
-[^35]: National Transportation Safety Committee, [Investigation of Aircraft Accident SilkAir Flight MI 185 Boeing B737-300, 9V-TRF, Musi River, Palembang, Indonesia, 19 December 1997: Final Report](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10293443) (Indonesia: Department of Communications, 2000), 1. (From National Library, Singapore, call no. RSING 363.12465 INV)
+[^35]: National Transportation Safety Committee, [*Investigation of Aircraft Accident SilkAir Flight MI 185 Boeing B737-300, 9V-TRF, Musi River, Palembang, Indonesia, 19 December 1997: Final Report*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10293443) (Indonesia: Department of Communications, 2000), 1. (From National Library, Singapore, call no. RSING 363.12465 INV)
 
 [^36]: Mike Eggleton, “The Surge of Low-cost Carriers in Asia,” Advito, accessed 17 June 2022, https://www.advito.com/resources/the-surge-of-low-cost-carriers-in-asia/.
 
-[^37]: Karamjit Kaut, “[Tiger Airways Picks New Chief – An Airline Veteran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041111-1.2.64.9),” Straits Times, 11 November 2006, 6; Steve Thomson, “[Get Outta Here with Scoot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120611-1.2.36.4),” Straits Times, 11 June 2012, 6. (From NewspaperSG); Singapore Airlines, The Path of Progress: Annual Report FY2014/15  (Singapore: Singapore Airlines, 2015), 13, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Annual-Report/annualreport1415.pdf.
+[^37]: Karamjit Kaut, “[Tiger Airways Picks New Chief – An Airline Veteran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041111-1.2.64.9),” *Straits Times*, 11 November 2006, 6; Steve Thomson, “[Get Outta Here with Scoot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120611-1.2.36.4),” *Straits Times*, 11 June 2012, 6. (From NewspaperSG); Singapore Airlines, *The Path of Progress: Annual Report FY2014/15* (Singapore: Singapore Airlines, 2015), 13, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Annual-Report/annualreport1415.pdf.
 
-[^38]: Ann Williams, “Tigerair to Operate Under Scoot Brand from July,” Straits Times, 15 June 2017, https://www.straitstimes.com/business/companies-markets/tigerair-to-operate-under-scoot-brand-from-july-25.
+[^38]: Ann Williams, “Tigerair to Operate Under Scoot Brand from July,” *Straits Times*, 15 June 2017, https://www.straitstimes.com/business/companies-markets/tigerair-to-operate-under-scoot-brand-from-july-25.
 
-[^39]: Singapore Airlines, Annual Report FY2021/22 (Singapore: Singapore Airlines, 2022), 50, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Annual-Report/annualreport2022.pdf.
+[^39]: Singapore Airlines, *Annual Report FY2021/22* (Singapore: Singapore Airlines, 2022), 50, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Annual-Report/annualreport2022.pdf.
 
-[^40]: “Singapore Airlines Posts First Annual Net Loss in 48-year History After COVID-19 Cripples Demand,” Channel NewsAsia, 14 May 2020, https://www.channelnewsasia.com/business/singapore-airlines-sia-q4-full-year-results-covid-19-coronavirus-940016.
+[^40]: “Singapore Airlines Posts First Annual Net Loss in 48-year History After COVID-19 Cripples Demand,” *Channel NewsAsia*, 14 May 2020, https://www.channelnewsasia.com/business/singapore-airlines-sia-q4-full-year-results-covid-19-coronavirus-940016.
 
-[^41]: Ven Sreenivasan, “Exclusive Interview with SIA CEO: How the National Carrier Powered Through the Covid-19 Pandemic,” Straits Times, 31 May 2022, https://www.straitstimes.com/business/all-set-to-fly-high-how-sia-powered-through-an-unprecedented-crisis-during-the-covid-19-pandemic.
+[^41]: Ven Sreenivasan, “Exclusive Interview with SIA CEO: How the National Carrier Powered Through the Covid-19 Pandemic,” *Straits Times*, 31 May 2022, https://www.straitstimes.com/business/all-set-to-fly-high-how-sia-powered-through-an-unprecedented-crisis-during-the-covid-19-pandemic.
 
-[^42]: Lau Kong Cheen, “A Great Way to Fly – Will SIA's Brand Be Affected by Its New Dining Service and Tours?” Today, 9 October 2020, https://www.todayonline.com/commentary/great-way-fly-will-sias-brand-be-affected-its-new-dining-service-and-tours.
+[^42]: Lau Kong Cheen, “A Great Way to Fly – Will SIA's Brand Be Affected by Its New Dining Service and Tours?” *Today*, 9 October 2020, https://www.todayonline.com/commentary/great-way-fly-will-sias-brand-be-affected-its-new-dining-service-and-tours.
 
-[^43]: Claudia Tan, “SIA Posts First Quarterly Net Profit of S$85m Since Onset of Pandemic,” Business Times, 24 February 2022, https://www.businesstimes.com.sg/companies-markets/sia-posts-first-quarterly-net-profit-of-s85m-since-onset-of-pandemic.
+[^43]: Claudia Tan, “SIA Posts First Quarterly Net Profit of S$85m Since Onset of Pandemic,” *Business Times*, 24 February 2022, https://www.businesstimes.com.sg/companies-markets/sia-posts-first-quarterly-net-profit-of-s85m-since-onset-of-pandemic.
 
 [^44]: Sreenivasan, “Exclusive Interview with SIA CEO: How the National Carrier Powered Through the Covid-19 Pandemic.”
 
