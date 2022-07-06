@@ -18,6 +18,9 @@ Malayan Airways was not the first local commercial airline to be set up in Malay
 
 With Wearnes already on the scene, and given the small size of the market, Malayan Airways decided to hold off operations. The subsequent outbreak of war and the Japanese Occupation meant that Malayan Airways only made its maiden commercial flight a decade after being set up. On 1 May 1947, an Airspeed Consul aircraft took off from Singapore and flew passengers to Kuala Lumpur, Ipoh and Penang.[^4]
 
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%202.png)
+<div style="background-color: white;">Jurong Rock Caverns, hailed as “Singapore’s deepest underground project,” is located 150 m below Jurong Island. <i>Courtesy of JTC.</i></div>
+
 Malayan Airways was renamed Malaysian Airways in 1963 following the formation of the Federation of Malaysia with the merger of the Federation of Malaya with Singapore, North Borneo (Sabah) and Sarawak. Three years later, the airline’s name was changed to Malaysia-Singapore Airlines after Singapore gained independence. At the time, the governments of Malaysia and Singapore had joint majority ownership of the airline.[^5]
 
 However, by 1971, the Singapore and Malaysian governments had developed differing aims for the airline. Singapore wanted Malaysia-Singapore Airlines to be a commercially viable international airline while Malaysia preferred to have a domestic airline. “The differences have become irreconcilable, and parting unavoidable,” said Finance Minister Hon Sui Sen in Parliament.[^6]
