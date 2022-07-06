@@ -100,8 +100,8 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
-	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
+<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the National Library’s collections, developing content as well as providing reference and research services.</div>
 	
 #### **NOTES**
 
