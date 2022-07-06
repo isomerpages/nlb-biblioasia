@@ -139,9 +139,9 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^8]: “[Singapore Drops ‘MSA’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.2),” *Straits Times*, 28 June 1972, 1; “[Goodwill at Last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.79.1),” *Straits Times*, 28 June 1972, 12. (From NewspaperSG)
 
-[^9]: Arthur Richards and Rita Loong, “[Big Champagne Party by Union to Mark the Birth of SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721001-1.2.9.26),” Straits Times, 1 October 1972, 7. (From NewspaperSG)
+[^9]: Arthur Richards and Rita Loong, “[Big Champagne Party by Union to Mark the Birth of SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721001-1.2.9.26),” *Straits Times*, 1 October 1972, 7. (From NewspaperSG)
 
-[^10]: Goh Yong Kiat, [Where Lions Fly: 100 Years of Aviation in Singapore (1911–2011)](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14273872) (Singapore: Straits Times Press Reference, 2012), 95. (From National Library, Singapore, call no. RSING 387.7095957 GOH); “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2)”
+[^10]: Goh Yong Kiat, [*Where Lions Fly: 100 Years of Aviation in Singapore (1911–2011)*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14273872) (Singapore: Straits Times Press Reference, 2012), 95. (From National Library, Singapore, call no. RSING 387.7095957 GOH); “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2)”
 
 [^11]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 21.
 
