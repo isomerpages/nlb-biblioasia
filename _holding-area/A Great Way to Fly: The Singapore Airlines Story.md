@@ -66,7 +66,7 @@ The British high commissioner to Singapore, Arthur de la Mare, went to see Prime
 The newly established airline was also labelled as an upstart, a maverick and a pirate.[^25] In 1981, West Germany waged a campaign against SIA for selling discounted tickets. SIA offices in Frankfurt and Dusseldorf were reportedly visited by German tax officials on five occasions, and there were also increased frequencies of checks on SIA flights, resulting in delays and embarrassed passengers. Talks between Singapore and West German civil aviation officials eventually put an end to the disturbances.[^26]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%203.png)
-<div style="background-color: white;">A Malayan Airways stewardess in a collared blouse, jacket and pleated skirt, 1947. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">Passengers boarding a Singapore Airlines plane at Changi Airport, 1981. Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</div>
 
 Not all of SIA’s challenges were from abroad. In 1980, members of the Singapore Airlines Pilots Association (SIAPA) sought to exert pressure on the airline to accede to their demands for higher wages, allowances and other benefits by resorting to work-to-rule, go-slows and unnecessary medical leave. These caused disruptions to flight schedules and harmed SIA's reputation and operations.[^27]
 
