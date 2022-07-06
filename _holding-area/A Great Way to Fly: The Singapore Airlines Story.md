@@ -5,7 +5,7 @@ description: ""
 ---
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences. By **Ang Seow Leng**
 
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png)
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
 <div style="background-color: white;">Jurong Rock Caverns, hailed as “Singapore’s deepest underground project,” is located 150 m below Jurong Island. <i>Courtesy of JTC.</i></div>
 
 Today, Singapore Airlines (SIA) is regularly described as being among the best airlines in the world. And this is not a new phenomenon. In 2020, the Business Traveller Asia-Pacific Awards gave SIA the overall award for Best Airline and Best Asia-Pacific Airline for the 20th year running.[^1]
