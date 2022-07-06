@@ -47,6 +47,9 @@ All this has resulted in the airline consistently having a large, but young flee
 
 The SIA logo was conceptualised by San Francisco design firm Landor Associates in 1972. The logo of a golden bird, against a deep midnight blue tail, was chosen to “[reflect] the modernity and sophistication” of SIA. All SIA aircrafts have been carrying this distinctive livery ever since with only a subtle change in 1987 when new gold, blue and yellow accents were introduced.[^15]
 
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%204.png)
+<div style="background-color: white;">Singapore Airlines stewardess See Biew Wah with French designer Pierre Balmain, creator of the sarong kebaya uniform, and Madeleine Kohler, Balmain’s Director of Creations and Special Projects, c. 1972. Singapore Airlines Collection, courtesy of National Archives of Singapore.</div>
+
 Arguably the most distinctive trademark about SIA is the form-fitting batik sarong kebaya uniform worn by its stewardesses. The uniform was designed by French couturier Pierre Balmain in 1968 for Malaysia-Singapore Airlines. In 1974, Balmain made minor revisions to the uniform, retaining the air stewardess sarong kebaya but introducing new three-piece outfits for the ground stewardesses and female ticketing staff. The sarong kebaya – with its vibrant coloured floral motifs and patterned border batik print – is tailor-made for each crew member.[^16]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%205.png)
