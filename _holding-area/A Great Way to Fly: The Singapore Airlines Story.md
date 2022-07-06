@@ -8,7 +8,7 @@ description: ""
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
 <div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. Photo by Troy Mortier. Image retrieved from Unsplash.</div>
 
-Today, Singapore Airlines (SIA) is regularly described as being among the best airlines in the world. And this is not a new phenomenon. In 2020, the Business Traveller Asia-Pacific Awards gave SIA the overall award for Best Airline and Best Asia-Pacific Airline for the 20th year running.[^1]
+Today, Singapore Airlines (SIA) is regularly described as being among the best airlines in the world. And this is not a new phenomenon. In 2020, the *Business Traveller* Asia-Pacific Awards gave SIA the overall award for Best Airline and Best Asia-Pacific Airline for the 20th year running.[^1]
 
 It should come as no surprise that SIA consistently strives for excellence. From very early on, the company had been told that the stakes were high. In October 1972, about 10 months after SIA was incorporated, Prime Minister Lee Kuan Yew told the staff during the company’s inaugural dinner: “I set up Singapore Airlines to make profits. If you don't make a profit, I am going to close down the airline.”[^2]
 
@@ -112,7 +112,7 @@ With the easing of restrictions and borders opening, air travel has begun to pic
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%206.png)
 <div style="background-color: white;">Business Class tray service in an A350. At the peak of the Covid-19 pandemic, all cabin crew were required to wear goggles and masks. But goggles are no longer necessary today. Courtesy of Singapore Airlines.</div>
 
-In an interview with the Straits Times in May 2022, chief executive officer of SIA, Goh Choon Phong, said that in the second quarter of 2022, the airline was at about 61 percent of pre-pandemic capacity compared to an average of 20 percent of pre-pandemic capacity for the other airlines in this region. He told the newspaper he was confident that the rapid growing economies in Asia would foster strong demands for business travel.[^45]
+In an interview with the *Straits Times* in May 2022, chief executive officer of SIA, Goh Choon Phong, said that in the second quarter of 2022, the airline was at about 61 percent of pre-pandemic capacity compared to an average of 20 percent of pre-pandemic capacity for the other airlines in this region. He told the newspaper he was confident that the rapid growing economies in Asia would foster strong demands for business travel.[^45]
 
 The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Changi Airport Terminal 3 in May 2022 also showed SIA’s “confidence in Singapore’s future as a pre-eminent global air hub”.[^46] So long as SIA sticks to its guiding principle of striving for excellence, it will undoubtedly continue to be a great way to fly.
 	
