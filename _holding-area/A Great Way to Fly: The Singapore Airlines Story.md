@@ -106,7 +106,7 @@ In 2020, SIA encountered what can be described as one of the most challenging mo
 In October 2020, with most of the planes grounded, SIA transformed several A380 double-decker superjumbo jets into “Restaurant A380” offering Singapore residents a unique dining experience, and also provided the airline’s signature meals delivered to homes. Singapore residents could also go for guided tours at the SIA training facility where they had a chance to interact with pilots and cabin crew, and even check out the flight stimulators at an extra charge.[^42]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%207.png)
-<div style="background-color: white;">Business Class tray service in an A350. At the peak of the Covid-19 pandemic, all cabin crew were required to wear goggles and masks. But goggles are no longer necessary today. Courtesy of Singapore Airlines.</div>
+<div style="background-color: white;">SIA cabin crew stand ready to welcome diners on board Restaurant A380 @Changi in October 2020. Courtesy of Singapore Airlines.</div>
 
 #### **Flying Once Again**
 
