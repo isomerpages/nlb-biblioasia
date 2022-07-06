@@ -105,6 +105,9 @@ In 2020, SIA encountered what can be described as one of the most challenging mo
 
 In October 2020, with most of the planes grounded, SIA transformed several A380 double-decker superjumbo jets into “Restaurant A380” offering Singapore residents a unique dining experience, and also provided the airline’s signature meals delivered to homes. Singapore residents could also go for guided tours at the SIA training facility where they had a chance to interact with pilots and cabin crew, and even check out the flight stimulators at an extra charge.[^42]
 
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%207.png)
+<div style="background-color: white;">Business Class tray service in an A350. At the peak of the Covid-19 pandemic, all cabin crew were required to wear goggles and masks. But goggles are no longer necessary today. Courtesy of Singapore Airlines.</div>
+
 #### **Flying Once Again**
 
 With the easing of restrictions and borders opening, air travel has begun to pick up. In December 2021, SIA announced a net profit of $85 million during the third quarter since the onset of the pandemic, thanks to expanded vaccinated travel lane arrangements and cargo revenue.[^43] In May 2022, the airline reported a lower net loss of $962 million for the financial year ending in March 2022, compared with $4.3 billion a year earlier. Revenue also increased to $7.6 billion, from $3.8 billion.[^44]
