@@ -129,15 +129,15 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^3]: Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 21–22; Christopher Fyfe, [*Wheels in Malaya: The Wearne Brothers and Their Company*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
 
-[^4]: “[Ten Proud Years: Great Day in the History of Malayan Airways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.122), 1947–1957,” *Straits Times*, 1 May 1957, 12; “[Malayan Air Service Daily From May 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470412-1.2.62),” *Malaya Tribune*, 12 April 1947, 5. (From NewspaperSG); Allen, [SIA: Take-off to Success](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 19.
+[^4]: “[Ten Proud Years: Great Day in the History of Malayan Airways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.122), 1947–1957,” *Straits Times*, 1 May 1957, 12; “[Malayan Air Service Daily From May 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470412-1.2.62),” *Malaya Tribune*, 12 April 1947, 5. (From NewspaperSG); Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 19.
 
-[^5]: “[Malaysian Airways: New Name of Your National Airline](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631130-1.2.116.1),” Straits Times, 30 November 1963, 17; “[Up Goes the Flag](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.2),” The Straits Times, 17 September 1963, 1; “[MAL Is Now MSA](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661231-1.2.13),” The Straits Times, 31 December 1966, 1. (From NewspaperSG)
+[^5]: “[Malaysian Airways: New Name of Your National Airline](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631130-1.2.116.1),” *Straits Times*, 30 November 1963, 17; “[Up Goes the Flag](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.2),” *The Straits Times*, 17 September 1963, 1; “[MAL Is Now MSA](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661231-1.2.13),” *The Straits Times*, 31 December 1966, 1. (From NewspaperSG)
 
-[^6]: “[MSA Split Unavoidable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710323-1.2.19.1),” Straits Times, 23 March 1971, 3. (From NewspaperSG)
+[^6]: “[MSA Split Unavoidable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710323-1.2.19.1),” *Straits Times*, 23 March 1971, 3. (From NewspaperSG)
 
-[^7]: “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2),” Straits Times, 29 January 1972, 1. (From NewspaperSG)
+[^7]: “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2),” *Straits Times*, 29 January 1972, 1. (From NewspaperSG)
 
-[^8]: “[Singapore Drops ‘MSA’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.2),” Straits Times, 28 June 1972, 1; “[Goodwill at Last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.79.1),” Straits Times, 28 June 1972, 12. (From NewspaperSG)
+[^8]: “[Singapore Drops ‘MSA’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.2),” *Straits Times*, 28 June 1972, 1; “[Goodwill at Last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.79.1),” *Straits Times*, 28 June 1972, 12. (From NewspaperSG)
 
 [^9]: Arthur Richards and Rita Loong, “[Big Champagne Party by Union to Mark the Birth of SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721001-1.2.9.26),” Straits Times, 1 October 1972, 7. (From NewspaperSG)
 
