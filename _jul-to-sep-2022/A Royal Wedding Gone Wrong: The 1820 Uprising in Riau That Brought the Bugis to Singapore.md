@@ -85,7 +85,7 @@ When hostilities ceased, the Dutch announced a general amnesty to get the Bugis 
 The Dutch then dispatched Lieutenant Paris de Montaigu to Singapore, bearing a letter for Farquhar to persuade him to hand over “the rebel prince Belawa”. Farquhar immediately shot the proposal down as “quite inadmissible”.[^22]
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%209.png)
-<div style="background-color: white;">Kampong Bugis, Singapore, 1890–1910. <i>Image retrieved from Rijksmuseum, the Netherlands. Gift of the heirs of C.J.J.G. Vosmaer, Leiden.</i>
+<div style="background-color: white;">Kampong Bugis, Singapore, 1890–1910. <i>Image from Rijksmuseum, the Netherlands. Gift of the heirs of C.J.J.G. Vosmaer, Leiden.</i>
 </div>
 
 The incident came to cause much reflection and consternation for the Dutch in the East Indies. Besides losing impetus to a developing Singapore, it also reflected the teething issues they faced in returning to local administration under much transformed political circumstances. In his reflections in 1828, Captain Cornelius P.J. Elout pinned the misunderstanding with the Bugis on Dutch “unfamiliarity with the language and customs of the natives”.[^23]
