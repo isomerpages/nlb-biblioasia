@@ -100,9 +100,6 @@ SIA dipped its toes into the water by setting up its own low-cost subsidiary, Sc
 
 In 2020, SIA encountered what can be described as one of the most challenging moments in its history. The Covid-19 pandemic forced global travel to a standstill, and the airline reported its first net loss of $212 million in its 48-year history for the financial year ending in March 2020.[^40] To help cope with the short-term liquidity risk, SIA reached out to an unprecedented number of sources for funding and raised $22.4 billion in liquidity between April 2020 and May 2022, including $15 billion from shareholders.[^41]
 
-![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%206.png)
-<div style="background-color: white;">Business Class tray service in an A350. At the peak of the Covid-19 pandemic, all cabin crew were required to wear goggles and masks. But goggles are no longer necessary today. Courtesy of Singapore Airlines.</div>
-
 In October 2020, with most of the planes grounded, SIA transformed several A380 double-decker superjumbo jets into “Restaurant A380” offering Singapore residents a unique dining experience, and also provided the airline’s signature meals delivered to homes. Singapore residents could also go for guided tours at the SIA training facility where they had a chance to interact with pilots and cabin crew, and even check out the flight stimulators at an extra charge.[^42]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%207.png)
@@ -111,6 +108,9 @@ In October 2020, with most of the planes grounded, SIA transformed several A380 
 #### **Flying Once Again**
 
 With the easing of restrictions and borders opening, air travel has begun to pick up. In December 2021, SIA announced a net profit of $85 million during the third quarter since the onset of the pandemic, thanks to expanded vaccinated travel lane arrangements and cargo revenue.[^43] In May 2022, the airline reported a lower net loss of $962 million for the financial year ending in March 2022, compared with $4.3 billion a year earlier. Revenue also increased to $7.6 billion, from $3.8 billion.[^44]
+
+![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%206.png)
+<div style="background-color: white;">Business Class tray service in an A350. At the peak of the Covid-19 pandemic, all cabin crew were required to wear goggles and masks. But goggles are no longer necessary today. Courtesy of Singapore Airlines.</div>
 
 In an interview with the Straits Times in May 2022, chief executive officer of SIA, Goh Choon Phong, said that in the second quarter of 2022, the airline was at about 61 percent of pre-pandemic capacity compared to an average of 20 percent of pre-pandemic capacity for the other airlines in this region. He told the newspaper he was confident that the rapid growing economies in Asia would foster strong demands for business travel.[^45]
 
