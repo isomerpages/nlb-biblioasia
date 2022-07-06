@@ -6,7 +6,7 @@ description: ""
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences. By **Ang Seow Leng**
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
-<div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. *Photo by Troy Mortier. Image retrieved from Unsplash.*</div>
+<div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. <i>Photo by Troy Mortier. Image retrieved from Unsplash.</i></div>
 
 Today, Singapore Airlines (SIA) is regularly described as being among the best airlines in the world. And this is not a new phenomenon. In 2020, the *Business Traveller* Asia-Pacific Awards gave SIA the overall award for Best Airline and Best Asia-Pacific Airline for the 20th year running.[^1]
 
@@ -15,7 +15,7 @@ It should come as no surprise that SIA consistently strives for excellence. From
 While SIA was officially incorporated in January 1972, the airline actually traces its history to the formation of Malayan Airways, which was set up in October 1937. That company was jointly owned by British Imperial Airways, Ocean Steamship Company of Liverpool and Straits Steamship Company in Singapore. 
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%202.png)
-<div style="background-color: white;">A Malayan Airways stewardess in a collared blouse, jacket and pleated skirt, 1947. *Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.*</div>
+<div style="background-color: white;">A Malayan Airways stewardess in a collared blouse, jacket and pleated skirt, 1947. <i>Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
 
 Malayan Airways was not the first local commercial airline to be set up in Malaya though. That honour belongs to Wearnes Air Services, a company owned by Wearne Brothers. When Kallang Airport was opened in June 1937 as Singapore's first purpose-built civil airport, Wearnes Air Services immediately launched flights to Kuala Lumpur and Penang. As air travel became more popular, the Singapore incorporated company extended its air service to more places such as Ipoh and Kota Bahru.[^3]
 
@@ -48,7 +48,7 @@ All this has resulted in the airline consistently having a large, but young flee
 The SIA logo was conceptualised by San Francisco design firm Landor Associates in 1972. The logo of a golden bird, against a deep midnight blue tail, was chosen to “[reflect] the modernity and sophistication” of SIA. All SIA aircrafts have been carrying this distinctive livery ever since with only a subtle change in 1987 when new gold, blue and yellow accents were introduced.[^15]
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%204.png)
-<div style="background-color: white;">A Singapore Airlines baggage tag, 1970s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+<div style="background-color: white;">A Singapore Airlines baggage tag, 1970s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Arguably the most distinctive trademark about SIA is the form-fitting batik sarong kebaya uniform worn by its stewardesses. The uniform was designed by French couturier Pierre Balmain in 1968 for Malaysia-Singapore Airlines. In 1974, Balmain made minor revisions to the uniform, retaining the air stewardess sarong kebaya but introducing new three-piece outfits for the ground stewardesses and female ticketing staff. The sarong kebaya – with its vibrant coloured floral motifs and patterned border batik print – is tailor-made for each crew member.[^16]
 
