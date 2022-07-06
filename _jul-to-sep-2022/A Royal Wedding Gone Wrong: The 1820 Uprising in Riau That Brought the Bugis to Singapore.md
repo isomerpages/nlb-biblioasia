@@ -8,12 +8,10 @@ description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
 image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
   Wrong - Image 1.png
 ---
-
-
 #### Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore. By **Benjamin J.Q. Khoo**
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png)
-<div style="background-color: white;"> Sailing boats in Riau, c. 1867. <i>Image retrieved from Leiden University Libraries, the Netherlands (Creative Commons Attribution 4.0 International; CC BY 4.0).</i>
+<div style="background-color: white;"> Sailing boats in Riau, c. 1867. <i>Image from Leiden University Libraries, the Netherlands (Creative Commons Attribution 4.0 International; CC BY 4.0).</i>
 </div>
 
 At nine at night on 26 December 1819, the Dutch Artillery Captain G.E. Königsdorffer in Tanjung Pinang was startled by shots ringing out from the nearby Bugis kampong. Alarmed and determined to find out the cause, he dispatched a patrol from his fort. As the shots died into the silence of the night and the troopers marched out, little did he know that this was the beginning of a chain of events that would end with being shot in the shoulder, numerous dead and the flight of the Bugis across the Straits to the disputed settlement of British Singapore.
@@ -35,7 +33,7 @@ Unbeknownst to Königsdorffer and his men in the nearby fort that fateful night,
 These were the shots heard by the Dutch in the fort.[^7] Feeling uneasy, Königsdorffer dispatched a military patrol under the command of a sergeant with the instruction to bring back someone who could enlighten them.
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%202.png)
-<div style="background-color: white;"> A flank soldier of the Dutch colonial troops, 1823. <i>Image retrieved from Nationaal Militair Museum, Soesterberg.</i>
+<div style="background-color: white;"> A flank soldier of the Dutch colonial troops, 1823. <i>Image from Nationaal Militair Museum, Soesterberg.</i>
 </div>
 
 What happened in the Bugis kampong is not recorded. In any case, the sergeant and his men managed to arrest not one but five people, among them Raja Ronggik, the cousin of Arung Belawa, who was also one of the chieftains. These men gave themselves over civilly and went along with the Dutch. The Bugis men were then placed in a waiting room and this is when the dreadful misunderstanding occurred.[^8]
@@ -69,7 +67,7 @@ In the tumult, Königsdorffer, who had bravely defended the small garrison while
 Immediately after the collapse of this uprising, the Bugis escaped in their boats and fled across the Straits for safety in the settlement of Singapore. This took place the following day, on 30 January. Bugis men, women and children emptied themselves from their houses and escaped via Riau Terusan, between Senggarang and Bintan, towards the island of Singapore.[^17]
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%204.png)
-<div style="background-color: white;">  A Bugis nautical chart of the Malay Archipelago, 1816–20. <i>Image retrieved from Utrecht University Library, the Netherlands.</i>
+<div style="background-color: white;">  A Bugis nautical chart of the Malay Archipelago, 1816–20. <i>Image from Utrecht University Library, *VIII*.C.a.2 (Dk39-8).</i>
 </div>
 
 William Farquhar, Resident of Singapore at the time, counted almost 500 of them, arriving in a fleet of ships, leaving behind a Bugis kampong smouldering in ash. Farquhar was very pleased to offer them refuge, settling them along the Rochor River, which eventually became Kampong Bugis.[^18] Their arrival shifted the lucrative Bugis trade westwards, away from Dutch Riau and towards British Singapore. This proved a turning point in Singapore’s fortune. Besides the material gain, the British obtained added satisfaction in witnessing the troubles of the Dutch, whom they viewed as a rival.
@@ -87,7 +85,7 @@ When hostilities ceased, the Dutch announced a general amnesty to get the Bugis 
 The Dutch then dispatched Lieutenant Paris de Montaigu to Singapore, bearing a letter for Farquhar to persuade him to hand over “the rebel prince Belawa”. Farquhar immediately shot the proposal down as “quite inadmissible”.[^22]
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%209.png)
-<div style="background-color: white;">Kampong Bugis, Singapore, 1890–1910. <i>Image retrieved from Rijksmuseum, the Netherlands. Gift of the heirs of C.J.J.G. Vosmaer, Leiden.</i>
+<div style="background-color: white;">Kampong Bugis, Singapore, 1890–1910. <i>Image from Rijksmuseum, the Netherlands. Gift of the heirs of C.J.J.G. Vosmaer, Leiden.</i>
 </div>
 
 The incident came to cause much reflection and consternation for the Dutch in the East Indies. Besides losing impetus to a developing Singapore, it also reflected the teething issues they faced in returning to local administration under much transformed political circumstances. In his reflections in 1828, Captain Cornelius P.J. Elout pinned the misunderstanding with the Bugis on Dutch “unfamiliarity with the language and customs of the natives”.[^23]

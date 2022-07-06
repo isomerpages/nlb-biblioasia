@@ -95,7 +95,7 @@ Chao reached the pinnacle of his career when he was appointed head of the Instit
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)
 <div style="background-color: white;">Prof Chao Tzee Cheng passed away in New York in February 2000. <i>Image reproduced from Karen Wong, “Top Forensic Pathologist Chao Dies in New York,” Straits Times, 23 February 2000, 3. (From NewspaperSG).</i></div>
 
-In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
+In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes [Prof Chao] was [the forensic medical practice] of Singapore.”[^37]
 	
 <div style="background-color: white;">
 <br/>
