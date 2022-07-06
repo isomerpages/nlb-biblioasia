@@ -33,7 +33,7 @@ Unbeknownst to Königsdorffer and his men in the nearby fort that fateful night,
 These were the shots heard by the Dutch in the fort.[^7] Feeling uneasy, Königsdorffer dispatched a military patrol under the command of a sergeant with the instruction to bring back someone who could enlighten them.
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%202.png)
-<div style="background-color: white;"> A flank soldier of the Dutch colonial troops, 1823. <i>Image retrieved from Nationaal Militair Museum, Soesterberg.</i>
+<div style="background-color: white;"> A flank soldier of the Dutch colonial troops, 1823. <i>Image from Nationaal Militair Museum, Soesterberg.</i>
 </div>
 
 What happened in the Bugis kampong is not recorded. In any case, the sergeant and his men managed to arrest not one but five people, among them Raja Ronggik, the cousin of Arung Belawa, who was also one of the chieftains. These men gave themselves over civilly and went along with the Dutch. The Bugis men were then placed in a waiting room and this is when the dreadful misunderstanding occurred.[^8]
