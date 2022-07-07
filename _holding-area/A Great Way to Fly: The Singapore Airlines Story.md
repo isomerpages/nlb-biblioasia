@@ -6,7 +6,7 @@ description: ""
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences. By **Ang Seow Leng**
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
-<div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. <i>Photo by Troy Mortier. Image retrieved from Unsplash.</i></div>
+<div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. <i>Photo by Troy Mortier. Image from Unsplash.</i></div>
 
 Today, Singapore Airlines (SIA) is regularly described as being among the best airlines in the world. And this is not a new phenomenon. In 2020, the *Business Traveller* Asia-Pacific Awards gave SIA the overall award for Best Airline and Best Asia-Pacific Airline for the 20th year running.[^1]
 
@@ -131,7 +131,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^4]: “[Ten Proud Years: Great Day in the History of Malayan Airways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.122), 1947–1957,” *Straits Times*, 1 May 1957, 12; “[Malayan Air Service Daily From May 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470412-1.2.62),” *Malaya Tribune*, 12 April 1947, 5. (From NewspaperSG); Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 19.
 
-[^5]: “[Malaysian Airways: New Name of Your National Airline](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631130-1.2.116.1),” *Straits Times*, 30 November 1963, 17; “[Up Goes the Flag](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.2),” *The Straits Times*, 17 September 1963, 1; “[MAL Is Now MSA](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661231-1.2.13),” *The Straits Times*, 31 December 1966, 1. (From NewspaperSG)
+[^5]: “[Malaysian Airways: New Name of Your National Airline](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631130-1.2.116.1),” *Straits Times*, 30 November 1963, 17; “[Up Goes the Flag](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.2),” *Straits Times*, 17 September 1963, 1; “[MAL Is Now MSA](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661231-1.2.13),” *Straits Times*, 31 December 1966, 1. (From NewspaperSG)
 
 [^6]: “[MSA Split Unavoidable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710323-1.2.19.1),” *Straits Times*, 23 March 1971, 3. (From NewspaperSG)
 
