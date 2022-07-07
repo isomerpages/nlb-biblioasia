@@ -102,11 +102,11 @@ In the future, even more infrastructure will be moved underground to free up spa
 <br><br>
 <b>REFERENCES</b>
 <br>
-Feng, Zengkun, “Singapore Digs Deep for Ideas to Build Downwards,” *Straits Times*, 4 November 2013, 6. (From NewspaperSG)
+Feng, Zengkun, “Singapore Digs Deep for Ideas to Build Downwards,” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
 <br><br>
-Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” *Straits Times*, 19 December 2017. (From Newslink via NLB’s eResources website)
+Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s eResources website)
 <br><br>
-“What Lies Beneath,” *Straits Times*, 11 February 2012, 15. (From NewspaperSG)
+“What Lies Beneath,” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
 </div>
 
 The Deep Tunnel Sewerage System (DTSS) is another underground utilities project that requires engineers to dig deep and tunnel through difficult soil conditions. Conceived in 1997, the DTSS “uses deep tunnel sewers to convey used water by gravity to centralised water reclamation plants”. Currently, the more than 100-kilometre-long DTSS serves the northern and eastern parts of Singapore through a network of sewers that are linked to two deep tunnel sewers. With diameters of up to 6 m, the two deep tunnel sewers had to be placed at a depth of up to 55 m underground.[^28] Phase 1 was completed in 2008, but phase 2 is still under construction. It is slated to be completed in 2025.[^29]
