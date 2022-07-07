@@ -4,8 +4,6 @@ title: "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
 permalink: /vol-18/issue-2/jul-sep-2022/test-3
 description: ""
 ---
-
-
 #### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)
@@ -83,9 +81,6 @@ Concurrently, the CPM waged an information offensive over Singapore’s airwaves
 
 Listeners in Singapore could tune in to VMR broadcasts twice daily on AM radio. On 29 July 1970, Singapore Telecoms began jamming these long-range transmissions, but with limited success.[^31] VMR broadcasts continued until June 1981 when the station was shut down on the CCP’s orders. Despite the VMR’s closure, the CPM continued radio broadcasts from a new radio station called Suara Demokrasi (Voice of Democracy) from a new mobile transmitter on the Thai-Malaysian border until the signing of the 1989 Haadyai Peace Agreement.[^32]
 
-![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%206.png)
-<div style="background-color: white;">The Communist Party of Malaya signed the Haadyai Peace Agreements on 2 December 1989. This brought an end to the 41-year communist conflict that had begun in 1948. <i>Image reproduced from Tan Lian Choo, “Chin Peng Signs Peace Pacts with KL and Bangkok,” Straits Times, 3 December 1989, 1. (From NewspaperSG).</i></div>
-
 CPM Leader Chin Peng claimed that many communist sympathisers and cadres throughout Malaysia and Singapore “tuned in eagerly” to the radio broadcasts.[^33] However, Eu Chooi Yip, a senior CPM cadre and who was also director of VMR’s Chinese programming section, disagreed. In an oral history interview in 1992, Eu described many of VMR’s programmes as simply a rehash of existing news reports from local newspapers with the addition of communist rhetoric. Eu recounted how cadres on the ground were in fact “not really willing to listen” to the programme, likening the broadcasts to serving “leftover rice” (“他们说连他们自己也不大愿意听, 打开电台听一下… 就不听了… 和炒冷饭一样”).[^34]
 
 Adding to the challenge was that VMR had to compete for attention from the likes of the highly popular Rediffusion radio service. By 1975, Rediffusion boasted a Chinese adult listenership of about 229,000.[^35] VMR’s austere, often repetitive, revolutionary pronouncements offered no substantive rejoinder to Rediffusion’s dazzling programming.[^36]
@@ -103,6 +98,9 @@ However, newspaper articles, government reports, oral histories and scholarly st
 The vigilance of local security forces resulted in a significant drop in bombings and arson attacks in the 1980s. The government, however, remained alert to subversive efforts by CPM agents, aware that the “communists work with a long term view, gradually infiltrating political parties, unions, the armed forces and other major bodies”.[^40]
 
 The communist threat, though diminished, persisted until 2 December 1989 when the CPM signed the Haadyai Peace Agreements at the Lee Gardens Hotel in the southern Thai city of Haadyai. Over 1,100 CPM guerrillas agreed to lay down their arms in an “honourable settlement” that brought the 41-year conflict to a formal close.[^41]
+	
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%206.png)
+<div style="background-color: white;">The Communist Party of Malaya signed the Haadyai Peace Agreements on 2 December 1989. This brought an end to the 41-year communist conflict that had begun in 1948. <i>Image reproduced from Tan Lian Choo, “Chin Peng Signs Peace Pacts with KL and Bangkok,” Straits Times, 3 December 1989, 1. (From NewspaperSG).</i></div>
 	
 <div style="background-color: white;">
 <br/>
