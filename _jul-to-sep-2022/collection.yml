@@ -2,6 +2,8 @@ collections:
   jul-to-sep-2022:
     output: true
     order:
+      - "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
+        Independent Singapore.md"
       - "They Died for All Free Men: Stories from Kranji War Cemetery.md"
       - "This Was Once Singapore’s Largest Planned Housing Development: A
         History of Sennett Estate.md"
