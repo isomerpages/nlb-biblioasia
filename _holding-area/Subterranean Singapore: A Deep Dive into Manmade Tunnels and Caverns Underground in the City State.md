@@ -160,7 +160,7 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 
 [^14]: “Downtown Line,” Land Transport Authority, last updated 23 August 2021, https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/downtown_line.html; Leong Chan Teik, [*Getting There: The Story of the North East Line*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12138653) (Singapore: Land Transport Authority, 2003), 68–72. (From National Library, Singapore, call no. RSING 625.4095957 LEO)
 
-[^15]: Amanda Phoon, “[10 Years Ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140422-1.2.66.4.1),” *Straits Times*, 22 April 2014, 6; “Nicoll Highway Opens After $3M in Repairs,” *Straits Times*, 5 December 2004, 10. (From NewspaperSG)
+[^15]: Amanda Phoon, “[10 Years Ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140422-1.2.66.4.1),” *Straits Times*, 22 April 2014, 6; “[Nicoll Highway Opens After $3M in Repairs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041205.2.5.8),” *Straits Times*, 5 December 2004, 10. (From NewspaperSG)
 
 [^16]: “What Lies Beneath: Meet LTA’s Digging Machine,” Land Transport Authority, 28 January 2022, https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/Connect/TBMs.html.
 
