@@ -40,8 +40,8 @@ These projects were also not popular because of the inconvenience the digging cr
 
 Today, there are over 5,700 km of underground water mains in Singapore, compared to 1,300 km in 1958. During the same period, underground power transmission cables have also increased from a mere 82 km to more than 11,500 km. The story is the same for underground sewerage pipes network, which have increased in length from 423 km to 3,600 km.[^10]
 
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%205.png)
-<div style="background-color: white;">Workers constructing the underground Dhoby Ghaut MRT station, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%204.png)
+<div style="background-color: white;">Workers laying a sewage pipe for the Toa Payoh Sewerage Scheme, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Moving Beyond Underground Utilities: Mass Rapid Transit**
 
@@ -55,6 +55,9 @@ Over subsequent decades, the acquisition of new technical know-how on tunnelling
 
 Tunnelling underground is not easy because of challenging soil conditions that could be “as soft as toothpaste, mixed with giant hard rocks”. At other times, the tunnels had to be dug to depths of up to 14 storeys in order to circumvent existing underground infrastructure such as utility pipes and previously constructed MRT lines. Engineers even had to divert part of the Singapore River and Eu Tong Sen Canal to allow tunnelling works to be carried out safely for the Downtown and North-East lines respectively.[^14]
 
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%205.png)
+<div style="background-color: white;">Workers constructing the underground Dhoby Ghaut MRT station, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 While all construction work is dangerous, there are additional dangers to working underground as the Nicoll Highway collapse on 20 April 2004 has shown. Four men were killed when the tunnel they were working on as part of the Circle Line collapsed. The collapse caused a wide section of Nicoll Highway to cave in, resulting in blackouts in surrounding areas. The body of foreman Heng Yeow Pheow was never found.[^15]
 
 For large infrastructure works such as public transport rail lines, the Tunnel Boring Machine (TBM) is used. Tunnelling using a TBM is made up of two phases. During the excavation phase, the TBM will burrow through the ground using its robust cutters like a mechanical mole. The crushed soil and rocks are then removed from the tunnel. The second or the “ring-building” phase will take place after the TBM has tunnelled through 1.4 m of ground. Here, segments of prefabricated reinforced concrete are lowered into the tunnel before being put up against the wall using hydraulic equipment and bolted into place to form a ring. This ring will be the platform for the underground project to be carried out.[^16]
@@ -64,9 +67,6 @@ Currently, the three most common types of TBMs used in Singapore are the Slurry 
 #### **Road Tunnels and Expressways**
 
 While the initial MRT system was being built, Singapore also embarked on another underground transportation project comprising a 700-metre tunnel linking Bukit Timah Road to Cairnhill Circle, a 1.7-kilometre tunnel from Kramat Road to Chin Swee Road and a three-storey underground interchange with five slip tunnels at Clemenceau Avenue. These tunnels became part of the 15.5-kilometre Central Expressway (CTE), which was completed in 1991 and connects the city centre to housing estates such as Toa Payoh, Bishan and Ang Mo Kio.[^18]
-
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%204.png)
-<div style="background-color: white;">Workers laying a sewage pipe for the Toa Payoh Sewerage Scheme, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 As the project was carried out in the middle of the densely populated city area under various soil conditions, the excavation and tunnelling work “demanded a high level of technical expertise and skill”. Six different types of temporary retaining walls had to be erected along the route to hold back the soil, and noise and vibration monitoring instruments were attached to about 40 buildings located within 50 m of the excavation sites. The Singapore River also had to be dammed in stages over a period of two years for construction to be carried out.[^19]
 
