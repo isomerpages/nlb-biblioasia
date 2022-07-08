@@ -8,8 +8,6 @@ description: Singapore has been burrowing underground since the 19th century,
 image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
   Image 1.png
 ---
-
-
 #### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space. By **Lim Tin Seng**
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png)
@@ -119,8 +117,6 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 <img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2010.png">
 The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
-<b>WHAT ARE WE STEPPING ON?</b>
-<br>
 In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
 <br><br>
 <b>REFERENCES</b>
