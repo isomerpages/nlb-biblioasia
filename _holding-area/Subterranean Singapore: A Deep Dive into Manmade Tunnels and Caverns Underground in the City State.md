@@ -40,6 +40,9 @@ These projects were also not popular because of the inconvenience the digging cr
 
 Today, there are over 5,700 km of underground water mains in Singapore, compared to 1,300 km in 1958. During the same period, underground power transmission cables have also increased from a mere 82 km to more than 11,500 km. The story is the same for underground sewerage pipes network, which have increased in length from 423 km to 3,600 km.[^10]
 
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%205.png)
+<div style="background-color: white;">Workers constructing the underground Dhoby Ghaut MRT station, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Moving Beyond Underground Utilities: Mass Rapid Transit**
 
 The post-war years saw the beginnings of an effort to move structures underground (as opposed to just utilities). In 1965, Singapore opened its first underground car park. Located at Raffles Place, the 127 m by 27 m structure accommodated up to 150 vehicles and was linked to the basement of Robinsons department store via an underground walkway.[^11] However, it was not until 1982 when Singapore started building the Mass Rapid Transit (MRT) system that the country began to use its underground spaces on a grander scale.
@@ -51,9 +54,6 @@ Given that this was Singapore’s first major effort at tunnelling underground, 
 Over subsequent decades, the acquisition of new technical know-how on tunnelling has enabled lines such as the North-East Line, Circle Line, Downtown Line and Thomson-East Coast Line to be constructed entirely underground.
 
 Tunnelling underground is not easy because of challenging soil conditions that could be “as soft as toothpaste, mixed with giant hard rocks”. At other times, the tunnels had to be dug to depths of up to 14 storeys in order to circumvent existing underground infrastructure such as utility pipes and previously constructed MRT lines. Engineers even had to divert part of the Singapore River and Eu Tong Sen Canal to allow tunnelling works to be carried out safely for the Downtown and North-East lines respectively.[^14]
-
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%205.png)
-<div style="background-color: white;">Workers constructing the underground Dhoby Ghaut MRT station, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 While all construction work is dangerous, there are additional dangers to working underground as the Nicoll Highway collapse on 20 April 2004 has shown. Four men were killed when the tunnel they were working on as part of the Circle Line collapsed. The collapse caused a wide section of Nicoll Highway to cave in, resulting in blackouts in surrounding areas. The body of foreman Heng Yeow Pheow was never found.[^15]
 
