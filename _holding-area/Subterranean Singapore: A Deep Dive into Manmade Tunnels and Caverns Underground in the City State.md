@@ -121,9 +121,9 @@ In the future, even more infrastructure will be moved underground to free up spa
 <br>
 Feng, Zengkun, “[Singapore Digs Deep for Ideas to Build Downwards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131104-1.2.7.6),” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
 <br><br>
-Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s eResources website)
+Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 <br><br>
-“What Lies Beneath,” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
+“[What Lies Beneath](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120211-1.2.213.4.2),” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
 </div>
 	
 <div style="background-color: white;">
