@@ -5,7 +5,8 @@ description: As a forensic pathologist, Chao Tzee Cheng helped bring murderers t
 image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
   Dead - Image 4.png
 ---
-#### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
+#### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. 
+By Goh Lee Kim
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)
 <div style="background-color: white;">Prof Chao Tzee Cheng attending the inquiry into the explosion and fire on board Greek oil tanker <i>S.T. Spyros</i>, 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
