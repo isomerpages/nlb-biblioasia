@@ -8,8 +8,8 @@ description: Sennett Estate is a unique milestone in the history of housing
 image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
   Estate - Image 1.png
 ---
-
-#### Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. By **Winnie Tan**
+#### Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. 
+By Winnie Tan
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png)
 <div style="background-color: white;">Semi-detached houses along Pheng Geck Avenue and Wan Tho Avenue, 2022. <i>Photo by and courtesy of Winnie Tan.</i>
