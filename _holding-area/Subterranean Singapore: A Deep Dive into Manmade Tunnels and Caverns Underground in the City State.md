@@ -114,6 +114,17 @@ In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH C
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
 	
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+<b>WHAT ARE WE STEPPING ON?</b>
+<br>
+In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
+<br><br>
+<b>REFERENCES</b>
+<br>
+Feng, Zengkun, “Singapore Digs Deep for Ideas to Build Downwards,” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
+<br><br>
+Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s eResources website)
+<br><br>
+“What Lies Beneath,” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
 </div>
 	
 <div style="background-color: white;">
