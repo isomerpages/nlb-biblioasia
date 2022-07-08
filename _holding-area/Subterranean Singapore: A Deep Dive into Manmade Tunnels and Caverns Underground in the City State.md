@@ -109,7 +109,7 @@ In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH C
 
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
 	
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 <img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2010.png">
 The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
@@ -124,7 +124,7 @@ Feng, Zengkun, “[Singapore Digs Deep for Ideas to Build Downwards](http://eres
 Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 <br><br>
 “[What Lies Beneath](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120211-1.2.213.4.2),” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
-</div>
+</span>
 	
 <div style="background-color: white;">
 <br/>
