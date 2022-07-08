@@ -115,7 +115,7 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 	
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 <b>WHAT ARE WE STEPPING ON?</b>
-<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2010.png">
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2011.png">
 The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
 In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
