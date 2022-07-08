@@ -7,12 +7,8 @@ description: The 1970s are often remembered as a time of rapid economic
   bombings, assassination plots and covert information wars.
 image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 1.png
 ---
-
-
-
-
-
-#### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
+#### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. 
+By Choo Ruizhi
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)
 <div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
