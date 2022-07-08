@@ -111,7 +111,7 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 	
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 <img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2010.png">
-|The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.|
+The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
 <b>WHAT ARE WE STEPPING ON?</b>
 <br>
@@ -119,7 +119,7 @@ In the future, even more infrastructure will be moved underground to free up spa
 <br><br>
 <b>REFERENCES</b>
 <br>
-Feng, Zengkun, “Singapore Digs Deep for Ideas to Build Downwards,” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
+Feng, Zengkun, “[Singapore Digs Deep for Ideas to Build Downwards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131104-1.2.7.6),” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
 <br><br>
 Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s eResources website)
 <br><br>
