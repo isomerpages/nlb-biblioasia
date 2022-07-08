@@ -114,6 +114,7 @@ In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH C
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
 	
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+<b>WHAT ARE WE STEPPING ON?</b>
 <img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2010.png">
 The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
 <br><br>
