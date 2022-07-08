@@ -95,18 +95,6 @@ Then there is the Transmission Cable Tunnel, which has been described as one of 
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2010.png)
 <div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
-<br><br>
-<b>WHAT ARE WE STEPPING ON?</b>
-<br>
-In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
-<br><br>
-<b>REFERENCES</b>
-<br>
-Feng, Zengkun, “Singapore Digs Deep for Ideas to Build Downwards,” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
-<br><br>
-Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s eResources website)
-<br><br>
-“What Lies Beneath,” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
 </div>
 
 The Deep Tunnel Sewerage System (DTSS) is another underground utilities project that requires engineers to dig deep and tunnel through difficult soil conditions. Conceived in 1997, the DTSS “uses deep tunnel sewers to convey used water by gravity to centralised water reclamation plants”. Currently, the more than 100-kilometre-long DTSS serves the northern and eastern parts of Singapore through a network of sewers that are linked to two deep tunnel sewers. With diameters of up to 6 m, the two deep tunnel sewers had to be placed at a depth of up to 55 m underground.[^28] Phase 1 was completed in 2008, but phase 2 is still under construction. It is slated to be completed in 2025.[^29]
@@ -124,6 +112,9 @@ When Singapore adopted the 2019 Master Plan in November 2019 to guide the island
 In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH Centre, was tasked to map out a three-dimensional underground plan of the island in a project called Digital Underground to study how underground space can be used more efficiently and effectively. (This centre was established by ETH Zurich – a public research university in Switzerland – and Singapore’s National Research Foundation to develop sustainable solutions to global challenges). The plan will be an important asset to building owners, developers and town planners as it will provide a “realistic, digital representation of the physical world below”, including the accurate locations of subterranean infrastructure such as underground utilities and pedestrian walkways.[^33]
 
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
+	
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+</div>
 	
 <div style="background-color: white;">
 <br/>
