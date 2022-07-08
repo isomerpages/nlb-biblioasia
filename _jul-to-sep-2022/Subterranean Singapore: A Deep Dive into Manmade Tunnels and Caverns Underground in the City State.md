@@ -8,8 +8,8 @@ description: Singapore has been burrowing underground since the 19th century,
 image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
   Image 1.png
 ---
-
-#### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space. By **Lim Tin Seng**
+#### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space. 
+By **Lim Tin Seng**
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png)
 <div style="background-color: white;">Jurong Rock Caverns, hailed as “Singapore’s deepest underground project,” is located 150 m below Jurong Island. <i>Courtesy of JTC.</i></div>
