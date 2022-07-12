@@ -1,10 +1,15 @@
 ---
 title: "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
   Underground in the City State"
-permalink: /vol-18/issue-2/jul-sep-2022/test-2
-description: ""
+permalink: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+description: Singapore has been burrowing underground since the 19th century,
+  but it was only after Independence that serious efforts were made to use
+  subterranean space.
+image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+  Image 1.png
 ---
-#### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space. By **Lim Tin Seng**
+#### Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space. 
+By Lim Tin Seng
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png)
 <div style="background-color: white;">Jurong Rock Caverns, hailed as “Singapore’s deepest underground project,” is located 150 m below Jurong Island. <i>Courtesy of JTC.</i></div>
@@ -40,6 +45,9 @@ These projects were also not popular because of the inconvenience the digging cr
 
 Today, there are over 5,700 km of underground water mains in Singapore, compared to 1,300 km in 1958. During the same period, underground power transmission cables have also increased from a mere 82 km to more than 11,500 km. The story is the same for underground sewerage pipes network, which have increased in length from 423 km to 3,600 km.[^10]
 
+![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%204.png)
+<div style="background-color: white;">Workers laying a sewage pipe for the Toa Payoh Sewerage Scheme, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Moving Beyond Underground Utilities: Mass Rapid Transit**
 
 The post-war years saw the beginnings of an effort to move structures underground (as opposed to just utilities). In 1965, Singapore opened its first underground car park. Located at Raffles Place, the 127 m by 27 m structure accommodated up to 150 vehicles and was linked to the basement of Robinsons department store via an underground walkway.[^11] However, it was not until 1982 when Singapore started building the Mass Rapid Transit (MRT) system that the country began to use its underground spaces on a grander scale.
@@ -64,9 +72,6 @@ Currently, the three most common types of TBMs used in Singapore are the Slurry 
 #### **Road Tunnels and Expressways**
 
 While the initial MRT system was being built, Singapore also embarked on another underground transportation project comprising a 700-metre tunnel linking Bukit Timah Road to Cairnhill Circle, a 1.7-kilometre tunnel from Kramat Road to Chin Swee Road and a three-storey underground interchange with five slip tunnels at Clemenceau Avenue. These tunnels became part of the 15.5-kilometre Central Expressway (CTE), which was completed in 1991 and connects the city centre to housing estates such as Toa Payoh, Bishan and Ang Mo Kio.[^18]
-
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%204.png)
-<div style="background-color: white;">Workers laying a sewage pipe for the Toa Payoh Sewerage Scheme, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 As the project was carried out in the middle of the densely populated city area under various soil conditions, the excavation and tunnelling work “demanded a high level of technical expertise and skill”. Six different types of temporary retaining walls had to be erected along the route to hold back the soil, and noise and vibration monitoring instruments were attached to about 40 buildings located within 50 m of the excavation sites. The Singapore River also had to be dammed in stages over a period of two years for construction to be carried out.[^19]
 
@@ -93,22 +98,6 @@ The 5.7-kilometre CST is “as big as two MRT tunnels” and its construction, w
 
 Then there is the Transmission Cable Tunnel, which has been described as one of the world’s deepest electricity supply projects, and completed in 2018. Located at a depth of between 60 m and 80 m underground (compared to underground MRT tunnels which are 30 m to 40 m deep), the project comprises three tunnels – North-South, East-West and Jurong Island-Pioneer Tunnels. Ranging from a diameter of 6 to 11 m each, these tunnels can house the entire nation’s 500 km of extra-high voltage cables with the capacity to hold another 700 km more in the future. These tunnels allow the easy monitoring and replacement of cables with minimal disruption to traffic and the lives of Singaporeans.[^27]
 
-![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%209.png)
-<div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
-<br><br>
-<b>WHAT ARE WE STEPPING ON?</b>
-<br>
-In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
-<br><br>
-<b>REFERENCES</b>
-<br>
-Feng, Zengkun, “Singapore Digs Deep for Ideas to Build Downwards,” *Straits Times*, 4 November 2013, 6. (From NewspaperSG)
-<br><br>
-Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” *Straits Times*, 19 December 2017. (From Newslink via NLB’s eResources website)
-<br><br>
-“What Lies Beneath,” *Straits Times*, 11 February 2012, 15. (From NewspaperSG)
-</div>
-
 The Deep Tunnel Sewerage System (DTSS) is another underground utilities project that requires engineers to dig deep and tunnel through difficult soil conditions. Conceived in 1997, the DTSS “uses deep tunnel sewers to convey used water by gravity to centralised water reclamation plants”. Currently, the more than 100-kilometre-long DTSS serves the northern and eastern parts of Singapore through a network of sewers that are linked to two deep tunnel sewers. With diameters of up to 6 m, the two deep tunnel sewers had to be placed at a depth of up to 55 m underground.[^28] Phase 1 was completed in 2008, but phase 2 is still under construction. It is slated to be completed in 2025.[^29]
 
 The Underground Ammunition Facility (UAF), completed in 2008, is the country’s “first cavern development” and “the world’s most modern underground ammunition depot”. It took 10 years to build and is located under the old Mandai Quarry at an undisclosed depth. By storing ammunition in the UAF, this has helped free up about 300 ha of land, or the equivalent of 400 football fields.
@@ -125,10 +114,26 @@ In 2017, the Singapore Land Authority, in collaboration with the Singapore-ETH C
 
 As tunnelling technology improves and as initiatives such as the Digital Underground mature, Singapore is likely to pursue even more projects underground to free up valuable space on the surface. 
 	
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+<b>WHAT ARE WE STEPPING ON?</b>
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%2011.png">
+The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.
+<br><br>
+In the future, even more infrastructure will be moved underground to free up space above for development projects that will enhance the lives of Singaporeans. This infographic gives an idea of how Singapore’s subterranean spaces have been utilised so far.
+<br><br>
+<b>REFERENCES</b>
+<br>
+Feng, Zengkun, “[Singapore Digs Deep for Ideas to Build Downwards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131104-1.2.7.6),” <i>Straits Times</i>, 4 November 2013, 6. (From NewspaperSG)
+<br><br>
+Hong, Jose, “High-tech Sensors Protect Singapore's New Electricity Supply Tunnels,” <i>Straits Times</i>, 19 December 2017. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+<br><br>
+“[What Lies Beneath](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120211-1.2.213.4.2),” <i>Straits Times</i>, 11 February 2012, 15. (From NewspaperSG)
+</span>
+	
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
-	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
+	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 	
 #### **NOTES**
 
@@ -160,7 +165,7 @@ As tunnelling technology improves and as initiatives such as the Digital Undergr
 
 [^14]: “Downtown Line,” Land Transport Authority, last updated 23 August 2021, https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network/downtown_line.html; Leong Chan Teik, [*Getting There: The Story of the North East Line*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12138653) (Singapore: Land Transport Authority, 2003), 68–72. (From National Library, Singapore, call no. RSING 625.4095957 LEO)
 
-[^15]: Amanda Phoon, “[10 Years Ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140422-1.2.66.4.1),” *Straits Times*, 22 April 2014, 6; “Nicoll Highway Opens After $3M in Repairs,” *Straits Times*, 5 December 2004, 10. (From NewspaperSG)
+[^15]: Amanda Phoon, “[10 Years Ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140422-1.2.66.4.1),” *Straits Times*, 22 April 2014, 6; “[Nicoll Highway Opens After $3M in Repairs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041205.2.5.8),” *Straits Times*, 5 December 2004, 10. (From NewspaperSG)
 
 [^16]: “What Lies Beneath: Meet LTA’s Digging Machine,” Land Transport Authority, 28 January 2022, https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/Connect/TBMs.html.
 

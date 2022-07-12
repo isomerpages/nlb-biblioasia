@@ -1,8 +1,14 @@
 ---
 title: "A Great Way to Fly: The Singapore Airlines Story"
-permalink: /holding-area/test-4
-description: ""
+permalink: /vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines
+description: Established in 1972, Singapore Airlines has earned a reputation as
+  a well-recognised brand known for its impeccable service standards and
+  luxurious in-flight experiences.
+image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
+  The Singapore Airlines Story - Image 1.png"
 ---
+
+
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences. By **Ang Seow Leng**
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
@@ -179,7 +185,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^28]: Ahmad Osman, “[SIA Dispute: PM Steps In](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801127-1.2.2),” *Straits Times*, 27 November 1980, 1. (From NewspaperSG)
 
-[^29]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2),” Straits Times, 21 December 2003, 8. (From NewspaperSG); Hickson, [*Mr SIA*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444), 56.
+[^29]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2),” *Straits Times*, 21 December 2003, 8. (From NewspaperSG); Hickson, [*Mr SIA*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444), 56.
 
 [^30]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2)”; Lydia Lim, “[Govt Acting to Prevent ‘Broken Heads’ at SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031202-1.2.2),” *Straits Times*, 2 December 2003, 1. (From NewspaperSG)
 

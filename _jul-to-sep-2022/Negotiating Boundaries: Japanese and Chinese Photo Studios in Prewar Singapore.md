@@ -6,9 +6,8 @@ description: "Photo studios such Yong Fong, Lee Brothers and Daguerre had to
   negotiate the politics of race, class and clan. "
 image: /images/Vol 18 Issue 2/Chinese Japanese Photo Studios/agsphoto_17551_full.png
 ---
-
-
-#### Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. By **Zhuang Wubin**
+#### Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. 
+By Zhuang Wubin
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png)
 <div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries.</i>
