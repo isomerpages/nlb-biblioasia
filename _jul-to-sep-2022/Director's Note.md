@@ -13,7 +13,7 @@ While on the subject of violence, we also have a story by Choo Ruizhi on the act
 
 On a more peace-led note, don’t miss Kelvin Tan’s essay on how Chinese Buddhist women were behind some of the early iconic [vegetarian restaurants](/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore) in Singapore.
 
-There are also interesting essays on the late forensic pathologist [Chao Tzee Cheng](/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist) by Goh Lee Kim, [Chinese and Japanese photo studios](/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios) in prewar Singapore by Zhuang Wubin, the forgotten history of [Sennett Estate](/vol-18/issue-2/jul-sep-2022/history-sennett-estate) by Winnie Tan and the story of how Singapore Airlines took flight as told by Ang Seow Leng.
+There are also interesting essays on the late forensic pathologist [Chao Tzee Cheng](/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist) by Goh Lee Kim, [Chinese and Japanese photo studios](/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios) in prewar Singapore by Zhuang Wubin, the forgotten history of [Sennett Estate](/vol-18/issue-2/jul-sep-2022/history-sennett-estate) by Winnie Tan and the story of how [Singapore Airlines](/vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines) took flight as told by Ang Seow Leng.
 
 Plenty to read as usual in this issue so buckle up and enjoy the ride!
 
