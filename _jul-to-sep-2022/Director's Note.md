@@ -3,7 +3,7 @@ title: Director's Note
 permalink: /vol-18/issue-2/jul-to-sep-2022/directors-note
 description: ""
 ---
-One of the pleasures of working in the National Library is that we are located in the Bugis area. There are plenty of shopping and eating options all within walking distance. As you might have guessed, Bugis Street got its name from the Bugis who came to Singapore and settled in the area. But what you may not know is that the Bugis settlement dates back to the 1820s and sprang from a misunderstanding during a royal wedding in Riau. Benjamin J.Q. Khoo’s lively essay takes us back 200 years to a wedding celebration gone terribly wrong that arguably altered the course for Singapore. 
+One of the pleasures of working in the National Library is that we are located in the Bugis area. There are plenty of shopping and eating options all within walking distance. As you might have guessed, Bugis Street got its name from the Bugis who came to Singapore and settled in the area. But what you may not know is that the Bugis settlement dates back to the 1820s and sprang from a misunderstanding during a royal wedding in Riau. Benjamin J.Q. Khoo’s lively essay takes us back 200 years to a [wedding celebration gone terribly wrong](/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau) that arguably altered the course for Singapore. 
 
 The National Library is also not far from one of the deepest underground places you can publicly access: Bencoolen MRT station. At 43 metres below the surface, this is Singapore’s deepest MRT station. Modern technology allows us to burrow deep but even in the mid-19th century, people were already creating structures below the surface, as Lim Tin Seng uncovers.
 
