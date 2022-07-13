@@ -7,10 +7,8 @@ description: Established in 1972, Singapore Airlines has earned a reputation as
 image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
   The Singapore Airlines Story - Image 1.png"
 ---
-
-
-
-#### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences. By **Ang Seow Leng**
+#### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences.
+By **Ang Seow Leng**
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
 <div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. <i>Photo by Troy Mortier. Image from Unsplash.</i></div>
@@ -130,7 +128,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 	
 #### **NOTES**
 
-[^1]: “Business Traveller Asia-Pacific Awards 2020 Results,” Business Traveller Asia-Pacific, 13 October 2020. https://www.businesstraveller.com/awards/business-traveller-asia-pacific-awards-2020-results/; “World’s Best Airline Cabin Crew,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-airline-cabin-crew-2021/
+[^1]: “Business Traveller Asia-Pacific Awards 2020 Results,” Business Traveller Asia-Pacific, 13 October 2020. https://www.businesstraveller.com/awards/business-traveller-asia-pacific-awards-2020-results/; “World’s Best Airline Cabin Crew,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-airline-cabin-crew-2021/.
 
 [^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
 
