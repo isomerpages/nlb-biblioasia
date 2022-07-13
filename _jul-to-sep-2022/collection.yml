@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2022:
     output: true
     order:
+      - Director's Note.md
       - "A Great Way to Fly: The Singapore Airlines Story.md"
       - "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
         Underground in the City State.md"
