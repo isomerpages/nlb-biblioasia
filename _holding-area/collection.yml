@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "A Great Way to Fly: The Singapore Airlines Story.md"
       - Test page.md
