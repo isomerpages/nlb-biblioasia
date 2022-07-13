@@ -9,7 +9,7 @@ The National Library is also not far from one of the deepest [underground places
 
 This year being the 80th anniversary of the Fall of Singapore, we have two essays about World War II. In the first piece, Janice Loo visits the [Kranji War Cemetery](/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery) and writes movingly about those buried or remembered there. The other essay by Lee Meiyu and Seow Peck Ngiam is in Chinese, and looks at the [items relating to the Japanese Occupation](/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios) period that have been donated to the National Library.
 
-While on the subject of violence, we also have a story by Choo Ruizhi on the acts of terror committed in Singapore by the Communist Party of Malaya. While most people are aware of the Malayan Emergency, and of the tumultuous decade of the 1960s, few remember that the Communist Party was also active in the 1970s. 
+While on the subject of violence, we also have a story by Choo Ruizhi on the acts of terror committed in Singapore by the [Communist Party of Malaya](/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore). While most people are aware of the Malayan Emergency, and of the tumultuous decade of the 1960s, few remember that the Communist Party was also active in the 1970s. 
 
 On a more peace-led note, don’t miss Kelvin Tan’s essay on how Chinese Buddhist women were behind some of the early iconic vegetarian restaurants in Singapore.
 
