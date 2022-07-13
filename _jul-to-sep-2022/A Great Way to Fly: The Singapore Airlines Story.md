@@ -8,7 +8,7 @@ image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
   The Singapore Airlines Story - Image 1.png"
 ---
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences.
-By **Ang Seow Leng**
+By Ang Seow Leng
 
 ![](/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png)
 <div style="background-color: white;">A Singapore Airlines A380 landing at Sydney Airport, 2021. <i>Photo by Troy Mortier. Image from Unsplash.</i></div>
