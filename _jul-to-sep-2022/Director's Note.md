@@ -11,7 +11,7 @@ This year being the 80th anniversary of the Fall of Singapore, we have two essay
 
 While on the subject of violence, we also have a story by Choo Ruizhi on the acts of terror committed in Singapore by the [Communist Party of Malaya](/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore). While most people are aware of the Malayan Emergency, and of the tumultuous decade of the 1960s, few remember that the Communist Party was also active in the 1970s. 
 
-On a more peace-led note, don’t miss Kelvin Tan’s essay on how Chinese Buddhist women were behind some of the early iconic [vegetarian restaurants]( in Singapore.
+On a more peace-led note, don’t miss Kelvin Tan’s essay on how Chinese Buddhist women were behind some of the early iconic [vegetarian restaurants](/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore) in Singapore.
 
 There are also interesting essays on the late forensic pathologist Chao Tzee Cheng by Goh Lee Kim, Chinese and Japanese photo studios in prewar Singapore by Zhuang Wubin, the forgotten history of Sennett Estate by Winnie Tan and the story of how Singapore Airlines took flight as told by Ang Seow Leng.
 
