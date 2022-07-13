@@ -9,7 +9,7 @@ There is a Bugis Street in Singapore because of an uprising in Riau in 1820 that
 
 <img src="/images/Vol%2018%20Issue%201/cover.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/directors-note">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/directors-note">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper">Printed on Rubber Latex Paper</a><br>An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was
 resistant to folding. *Alex Teoh* has the details.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Printed%20on%20Rubber%20Latex%20Paper.pdf)
