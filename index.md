@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Cathay/cathay hero.jpg
-      button: The Historic Cathay Cinema
-      url: /history-cathay-cinema-2022
+      background: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/royal-wedding-hero.jpg
+      button: A Royal Wedding Gone Wrong
+      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
   - infopic:
       title: Haj Pilgrimage before the 20th Century
       subtitle: Hari Raya Haji
