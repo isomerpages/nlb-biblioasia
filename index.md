@@ -33,6 +33,16 @@ sections:
       image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
       alt: Image alt text
   - infopic:
+      title: A Great Way to Fly
+      subtitle: travel
+      description: Established in 1972, Singapore Airlines is known for its impeccable
+        service standards and luxurious in-flight experiences.
+      button: The Singapore Airlines Story
+      url: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines
+      image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
+        The Singapore Airlines Story - Image 3.png"
+      alt: Image alt text
+  - infopic:
       title: Haj Pilgrimage before the 20th Century
       subtitle: Hari Raya Haji
       description: Before flights became common in the 1970s, Muslim pilgrims from
@@ -81,6 +91,15 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
       image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
         Estate - Image 2.png
+      alt: Image alt text
+  - infopic:
+      title: Subterranean Singapore
+      subtitle: Places
+      description: After Independence, serious efforts were made to use subterranean space.
+      button: Man-made Tunnels in Singapore
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+        Image 1.png
       alt: Image alt text
   - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
@@ -194,14 +213,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
-  - infopic:
-      title: A Great Way to Fly
-      subtitle: travel
-      description: Established in 1972, Singapore Airlines is known for its impeccable
-        service standards and luxurious in-flight experiences.
-      button: The Singapore Airlines Story
-      url: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines
-      image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
-        The Singapore Airlines Story - Image 1.png"
-      alt: Image alt text
 ---
