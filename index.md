@@ -13,6 +13,26 @@ sections:
       button: A Royal Wedding Gone Wrong
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
   - infopic:
+      title: Chinese Buddhist Women
+      subtitle: Food
+      description: Chinese Buddhist women set up popular vegetarian restaurants in the
+        1940s and 50s that met the needs of local Buddhists and also helped
+        promote vegetarianism.
+      button: Changing the food landscape
+      url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
+      image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
+        Image 6.png
+      alt: Image alt text
+  - infopic:
+      title: Red Terror
+      subtitle: war
+      description: The 1970s saw communist bombings, assassination plots and covert
+        information wars.
+      button: Communist violence and subversion
+      url: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
+      image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
+      alt: Image alt text
+  - infopic:
       title: Haj Pilgrimage before the 20th Century
       subtitle: Hari Raya Haji
       description: Before flights became common in the 1970s, Muslim pilgrims from
@@ -174,15 +194,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
-  - infopic:
-      title: Chinese Buddhist Women
-      subtitle: Food
-      description: Chinese Buddhist women set up popular vegetarian restaurants in the
-        1940s and 50s that met the needs of local Buddhists and also helped
-        promote vegetarianism.
-      button: Changing the food landscape
-      url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
-      image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
-        Image 6.png
-      alt: Image alt text
 ---
