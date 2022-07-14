@@ -3,11 +3,10 @@ collections:
     output: true
     order:
       - Director's Note.md
-      - "A Great Way to Fly: The Singapore Airlines Story.md"
-      - "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
-        Underground in the City State.md"
       - "A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the
         Bugis to Singapore.md"
+      - "Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns
+        Underground in the City State.md"
       - "They Died for All Free Men: Stories from Kranji War Cemetery.md"
       - 从国家图书馆文献窥看日本占领时期的新加坡华社.md
       - "This Was Once Singapore’s Largest Planned Housing Development: A
@@ -17,4 +16,5 @@ collections:
       - How Chinese Buddhist Women Shaped the Food Landscape in Singapore.md
       - "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
         Independent Singapore.md"
+      - "A Great Way to Fly: The Singapore Airlines Story.md"
       - "Giving a Voice to the Dead: Remembering Chao Tzee Cheng.md"
