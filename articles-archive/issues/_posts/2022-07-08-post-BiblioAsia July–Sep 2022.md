@@ -24,7 +24,8 @@ in Riau and Singapore. *Benjamin J.Q. Khoo*.[(PDF)](/files/pdf/Vol%2018/Issue%20
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang">从国家图书馆文献窥看日本占领时期的新加坡华社
 From the National Library: The Singapore Chinese Community During the Japanese Occupation</a><br>Donated items relating to the Japanese Occupation. *Lee Meiyu and Seow Peck Ngiam*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_A%20History%20of%20the%20Padang.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/kamala-club">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a><br>*Vandana Aggarwal* traces the origins of a venerable association for Indian women and the role it played in their lives.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_The%20Kamala%20Club%20--%20Planting%20the%20Seeds%20of%20a%20Pioneering%20Women’s%20Organisation.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/kamala-club">This Was Once Singapore’s Largest Planned Housing
+Development: A History of Sennett Estate</a><br>Sennett Estate is a unique milestone in the history of housing development in Singapore. *Winnie Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_The%20Kamala%20Club%20--%20Planting%20the%20Seeds%20of%20a%20Pioneering%20Women’s%20Organisation.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>The earliest wet markets in Singapore date back to at least 1825. *Zoe Yeo* tells us how they have changed since.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_No%20Longer%20“Dirty,%20Unhygienic,%20Crowded%20and%20Messy”.pdf)
 
