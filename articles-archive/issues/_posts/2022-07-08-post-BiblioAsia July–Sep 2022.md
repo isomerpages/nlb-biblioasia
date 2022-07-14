@@ -11,11 +11,12 @@ There is a Bugis Street in Singapore because of an uprising in Riau in 1820 that
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/directors-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper">Printed on Rubber Latex Paper</a><br>An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was
-resistant to folding. *Alex Teoh* has the details.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Printed%20on%20Rubber%20Latex%20Paper.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper">A Royal Wedding Gone Wrong: The 1820 Uprising in
+Riau That Brought the Bugis to Singapore</a><br>Celebrations during a royal wedding led to a terrible misunderstanding that changed the course of history
+in Riau and Singapore. *Benjamin J.Q. Khoo*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Printed%20on%20Rubber%20Latex%20Paper.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy">Flower Power: Singapore’s Orchid Diplomacy
-</a><br>Singapore names orchid hybrids after foreign dignitaries and important guests to the Singapore Botanic Gardens. *Rebecca Tan* tells us more.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Flower%20Power%20--%20Singapore’s%20Orchid%20Diplomacy.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City-State
+</a><br>Singapore has been burrowing underground since the 19th century. *Lim Tin Seng*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Flower%20Power%20--%20Singapore’s%20Orchid%20Diplomacy.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides">The Orang Seletar: Rowing Across Changing Tides
 </a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Orang%20Seletar%20--%20Rowing%20Across%20Changing%20Tides.pdf)
