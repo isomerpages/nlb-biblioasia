@@ -174,4 +174,15 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: Chinese Buddhist Women
+      subtitle: Food
+      description: Chinese Buddhist women set up popular vegetarian restaurants in the
+        1940s and 50s that met the needs of local Buddhists and also helped
+        promote vegetarianism.
+      button: Changing the food landscape
+      url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
+      image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
+        Image 6.png
+      alt: Image alt text
 ---
