@@ -194,4 +194,14 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: A Great Way to Fly
+      subtitle: travel
+      description: Established in 1972, Singapore Airlines is known for its impeccable
+        service standards and luxurious in-flight experiences.
+      button: The Singapore Airlines Story
+      url: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines
+      image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
+        The Singapore Airlines Story - Image 1.png"
+      alt: Image alt text
 ---
