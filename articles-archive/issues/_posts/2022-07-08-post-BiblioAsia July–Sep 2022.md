@@ -32,7 +32,7 @@ Development: A History of Sennett Estate</a><br>Sennett Estate is a unique miles
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a><br>Chinese Buddhist women set up vegetarian restaurants in the 1940s and 50s. *Kelvin Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Labouring%20to%20Deliver%20--%20A%20History%20of%20Kandang%20Kerbau%20Hospital.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee">Cinema Pioneer Tan Cheng Kee</a><br>*Barbara Quek* looks at the man behind the former Alhambra and Marlborough theatres, which were once landmarks on Beach Road.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Cinema%20Pioneer%20Tan%20Cheng%20Kee.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a><br>The 1970s saw communist bombings and assassination plots in Singapore. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Cinema%20Pioneer%20Tan%20Cheng%20Kee.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore">We Are What We Eat: The Evolution of Chinese Food in Singapore</a><br>Chinese food in Singapore is a product of the country’s history and geography, reveals *Low Sze Wee*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_We%20Are%20What%20We%20Eat%20--%20The%20Evolution%20of%20Chinese%20Food%20in%20Singapore.pdf)
 
