@@ -27,10 +27,10 @@ From the National Library: The Singapore Chinese Community During the Japanese O
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">This Was Once Singapore’s Largest Planned Housing
 Development: A History of Sennett Estate</a><br>Sennett Estate is a unique milestone in the history of housing development in Singapore. *Winnie Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_The%20Kamala%20Club%20--%20Planting%20the%20Seeds%20of%20a%20Pioneering%20Women’s%20Organisation.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a><br>Photo studios such Yong Fong and Lee Brothers had to negotiate the politics of race, class and clan.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a><br>Photo studios such Yong Fong and Lee Brothers had to negotiate the politics of race, class and clan.
 *Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_No%20Longer%20“Dirty,%20Unhygienic,%20Crowded%20and%20Messy”.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a><br>Chinese Buddhist women set up vegetarian restaurants in the 1940s and 50s. *Kelvin Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Labouring%20to%20Deliver%20--%20A%20History%20of%20Kandang%20Kerbau%20Hospital.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a><br>Chinese Buddhist women set up vegetarian restaurants in the 1940s and 50s. *Kelvin Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Labouring%20to%20Deliver%20--%20A%20History%20of%20Kandang%20Kerbau%20Hospital.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a><br>The 1970s saw communist bombings and assassination plots in Singapore. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Cinema%20Pioneer%20Tan%20Cheng%20Kee.pdf)
 
