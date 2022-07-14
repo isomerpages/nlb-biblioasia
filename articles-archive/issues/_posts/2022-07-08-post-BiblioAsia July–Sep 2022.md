@@ -13,7 +13,7 @@ There is a Bugis Street in Singapore because of an uprising in Riau in 1820 that
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau">A Royal Wedding Gone Wrong: The 1820 Uprising in
 Riau That Brought the Bugis to Singapore</a><br>Celebrations during a royal wedding led to a terrible misunderstanding that changed the course of history
-in Riau and Singapore. *Benjamin J.Q. Khoo*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Printed%20on%20Rubber%20Latex%20Paper.pdf)
+in Riau and Singapore. *Benjamin J.Q. Khoo*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Bugis-Uprising.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City-State
 </a><br>Singapore has been burrowing underground since the 19th century. *Lim Tin Seng*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Flower%20Power%20--%20Singapore’s%20Orchid%20Diplomacy.pdf)
