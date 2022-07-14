@@ -41,10 +41,10 @@ sections:
         Image 1.png
       alt: Image alt text
   - infopic:
-      title: Chinese Buddhist Women
+      title: Chinese Vegetarian Restaurants
       subtitle: Food
       description: Chinese Buddhist women set up popular vegetarian restaurants in the
-        1940s and 50s that met the needs of local Buddhists and also helped
+        1940s and '50s that met the needs of local Buddhists and also helped
         promote vegetarianism.
       button: Changing the food landscape
       url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
