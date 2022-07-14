@@ -7,7 +7,7 @@ description: ""
 ---
 There is a Bugis Street in Singapore because of an uprising in Riau in 1820 that brought the Bugis here.  Find out more in this issue’s cover story.
 
-<img src="/images/Vol%2018%20Issue%201/cover.png">
+<img src="/images/Vol%2018%20Issue%202/BiblioAsia_JUL-SEP2022-FA-cover.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/director-note">Director's Note</a>
 
