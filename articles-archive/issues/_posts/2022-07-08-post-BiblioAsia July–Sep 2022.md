@@ -18,8 +18,8 @@ in Riau and Singapore. *Benjamin J.Q. Khoo*.[(PDF)](/files/pdf/Vol%2018/Issue%20
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City-State
 </a><br>Singapore has been burrowing underground since the 19th century. *Lim Tin Seng*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Flower%20Power%20--%20Singapore’s%20Orchid%20Diplomacy.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides">The Orang Seletar: Rowing Across Changing Tides
-</a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Orang%20Seletar%20--%20Rowing%20Across%20Changing%20Tides.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides">“They Died for All Free Men”: Stories From Kranji War Cemetery
+</a><br>Remembering those who died while fighting the Japanese during World War II. *Janice Loo*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Orang%20Seletar%20--%20Rowing%20Across%20Changing%20Tides.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang">A History of the Padang</a><br>A 4.3-hectare patch of green stands in front of the former City Hall building. *Kevin Tan* tells us why it is so special.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_A%20History%20of%20the%20Padang.pdf)
 
