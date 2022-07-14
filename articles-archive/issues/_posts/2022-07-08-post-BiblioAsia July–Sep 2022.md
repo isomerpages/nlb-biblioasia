@@ -27,7 +27,8 @@ From the National Library: The Singapore Chinese Community During the Japanese O
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/kamala-club">This Was Once Singapore’s Largest Planned Housing
 Development: A History of Sennett Estate</a><br>Sennett Estate is a unique milestone in the history of housing development in Singapore. *Winnie Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_The%20Kamala%20Club%20--%20Planting%20the%20Seeds%20of%20a%20Pioneering%20Women’s%20Organisation.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>The earliest wet markets in Singapore date back to at least 1825. *Zoe Yeo* tells us how they have changed since.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_No%20Longer%20“Dirty,%20Unhygienic,%20Crowded%20and%20Messy”.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a><br>Photo studios such Yong Fong and Lee Brothers had to negotiate the politics of race, class and clan.
+*Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_No%20Longer%20“Dirty,%20Unhygienic,%20Crowded%20and%20Messy”.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital">Labouring to Deliver: A History of Kandang Kerbau Hospital</a><br>The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. *Joanna Tan* delivers the story behind a hallowed Singapore institution.[(PDF)](/files/pdf/Vol%2018/Issue%201/v18-issue1_Labouring%20to%20Deliver%20--%20A%20History%20of%20Kandang%20Kerbau%20Hospital.pdf)
 
