@@ -13,6 +13,34 @@ sections:
       button: A Royal Wedding Gone Wrong
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
   - infopic:
+      title: Haj Pilgrimage before the 20th Century
+      subtitle: Hari Raya Haji
+      description: Before flights became common in the 1970s, Muslim pilgrims from
+        Southeast Asia travelled to Mecca by land or sea, on voyages that took
+        months or even years.
+      button: A journey of faith
+      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
+      image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
+      alt: Image alt text
+  - infopic:
+      title: Key Milestones in the History of Cathay Cinema
+      subtitle: places and buildings
+      description: "The closing of Cathay cinema at Handy Road, one of Singapore’s
+        oldest cinemas, marks the end of an era. "
+      button: a historic cinema
+      url: /history-cathay-cinema-2022
+      image: /images/Cathay/Cathay-1941.jpg
+      alt: Image alt text
+  - infopic:
+      title: Subterranean Singapore
+      subtitle: Places
+      description: After Independence, serious efforts were made to use subterranean space.
+      button: Man-made Tunnels in Singapore
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+        Image 1.png
+      alt: Image alt text
+  - infopic:
       title: Chinese Buddhist Women
       subtitle: Food
       description: Chinese Buddhist women set up popular vegetarian restaurants in the
@@ -51,25 +79,6 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines
       image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
         The Singapore Airlines Story - Image 3.png"
-      alt: Image alt text
-  - infopic:
-      title: Haj Pilgrimage before the 20th Century
-      subtitle: Hari Raya Haji
-      description: Before flights became common in the 1970s, Muslim pilgrims from
-        Southeast Asia travelled to Mecca by land or sea, on voyages that took
-        months or even years.
-      button: A journey of faith
-      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
-      image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
-      alt: Image alt text
-  - infopic:
-      title: Subterranean Singapore
-      subtitle: Places
-      description: After Independence, serious efforts were made to use subterranean space.
-      button: Man-made Tunnels in Singapore
-      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
-      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
-        Image 1.png
       alt: Image alt text
   - infopic:
       title: They Died for All Free Men
