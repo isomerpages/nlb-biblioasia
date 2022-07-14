@@ -24,6 +24,16 @@ sections:
         Image 6.png
       alt: Image alt text
   - infopic:
+      title: 日本占领时期的新加坡华社
+      subtitle: war
+      description: The National Library has in its collection items from the Chinese
+        community relating to the Japanese Occupation of Singapore.
+      button: Chinese community during WWII
+      url: /jul-to-sep-2022/national-library-japanese-occupation-collection
+      alt: Image alt text
+      image: /images/Vol 18 Issue 2/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社 -
+        Image 13.png
+  - infopic:
       title: Red Terror
       subtitle: war
       description: The 1970s saw communist bombings, assassination plots and covert
@@ -53,6 +63,15 @@ sections:
       image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
       alt: Image alt text
   - infopic:
+      title: Subterranean Singapore
+      subtitle: Places
+      description: After Independence, serious efforts were made to use subterranean space.
+      button: Man-made Tunnels in Singapore
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+        Image 1.png
+      alt: Image alt text
+  - infopic:
       title: They Died for All Free Men
       subtitle: war
       description: The Kranji War Cemetery and Singapore Memorial are a solemn tribute
@@ -72,17 +91,6 @@ sections:
         Studios/agsphoto_17551_full.png
       alt: " "
   - infopic:
-      title: A Royal Wedding Gone Wrong
-      subtitle: war
-      description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
-        to a terrible misunderstanding that would change the course of history
-        in Riau and Singapore. "
-      button: The 1820 Uprising in Riau
-      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
-      alt: Image alt text
-      image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
-        Wrong - Image 9.png
-  - infopic:
       title: A History of Sennett Estate
       subtitle: Places
       description: It was once Singapore’s largest planned housing development and saw
@@ -91,15 +99,6 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
       image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
         Estate - Image 2.png
-      alt: Image alt text
-  - infopic:
-      title: Subterranean Singapore
-      subtitle: Places
-      description: After Independence, serious efforts were made to use subterranean space.
-      button: Man-made Tunnels in Singapore
-      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
-      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
-        Image 1.png
       alt: Image alt text
   - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
