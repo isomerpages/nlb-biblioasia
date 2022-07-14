@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: 日本占领时期的新加坡华社
       subtitle: war
-      description: The National Library has in its collection items from the Chinese
+      description: The National Library's collection has items from the Chinese
         community relating to the Japanese Occupation of Singapore.
       button: Chinese community during WWII
       url: /jul-to-sep-2022/national-library-japanese-occupation-collection
