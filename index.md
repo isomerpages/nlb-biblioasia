@@ -9,9 +9,41 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Cathay/cathay hero.jpg
-      button: The Historic Cathay Cinema
+      background: /images/Vol 18 Issue 2/bugis hero.jpg
+      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+      key_highlights:
+        - title: A royal wedding gone wrong
+          description: The 1820 Uprising in Riau That Brought the Bugis to Singapore
+          url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+  - infopic:
+      title: Red Terror
+      subtitle: war
+      description: The 1970s saw communist bombings, assassination plots and covert
+        information wars.
+      button: Communist violence and subversion
+      url: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
+      image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
+      alt: Image alt text
+  - infopic:
+      title: Key Milestones in the History of Cathay Cinema
+      subtitle: places and buildings
+      description: "The closing of Cathay cinema at Handy Road, one of Singapore’s
+        oldest cinemas, marks the end of an era. "
+      button: a historic cinema
       url: /history-cathay-cinema-2022
+      image: /images/Cathay/Cathay-1941.jpg
+      alt: Image alt text
+  - infopic:
+      title: Chinese Vegetarian Restaurants
+      subtitle: Food
+      description: Chinese Buddhist women set up popular vegetarian restaurants in the
+        1940s and '50s that met the needs of local Buddhists and also helped
+        promote vegetarianism.
+      button: Changing the food landscape
+      url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
+      image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
+        Image 6.png
+      alt: Image alt text
   - infopic:
       title: Haj Pilgrimage before the 20th Century
       subtitle: Hari Raya Haji
@@ -23,6 +55,35 @@ sections:
       image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
       alt: Image alt text
   - infopic:
+      title: Subterranean Singapore
+      subtitle: Places
+      description: After Independence, serious efforts were made to use subterranean space.
+      button: Man-made Tunnels in Singapore
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+        Image 1.png
+      alt: Image alt text
+  - infopic:
+      title: 日本占领时期的新加坡华社
+      subtitle: war
+      description: The National Library's collection has items from the Chinese
+        community relating to the Japanese Occupation of Singapore.
+      button: Chinese community during WWII
+      url: /jul-to-sep-2022/national-library-japanese-occupation-collection
+      alt: Image alt text
+      image: /images/Vol 18 Issue 2/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社 -
+        Image 13.png
+  - infopic:
+      title: A Great Way to Fly
+      subtitle: travel
+      description: Established in 1972, Singapore Airlines is known for its impeccable
+        service standards and luxurious in-flight experiences.
+      button: The Singapore Airlines Story
+      url: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines
+      image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
+        The Singapore Airlines Story - Image 3.png"
+      alt: Image alt text
+  - infopic:
       title: They Died for All Free Men
       subtitle: war
       description: The Kranji War Cemetery and Singapore Memorial are a solemn tribute
@@ -30,6 +91,16 @@ sections:
       button: Kranji War Cemetery
       url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
       image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
+      alt: Image alt text
+  - infopic:
+      title: A History of Sennett Estate
+      subtitle: Places
+      description: It was once Singapore’s largest planned housing development and saw
+        action during Konfrontasi in the 1960s.
+      button: Sennett Estate
+      url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
+      image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
+        Estate - Image 2.png
       alt: Image alt text
   - infopic:
       title: Japanese and Chinese Photo Studios in Prewar Singapore
@@ -41,27 +112,6 @@ sections:
       image: /images/Vol 18 Issue 2/Chinese Japanese Photo
         Studios/agsphoto_17551_full.png
       alt: " "
-  - infopic:
-      title: A Royal Wedding Gone Wrong
-      subtitle: war
-      description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
-        to a terrible misunderstanding that would change the course of history
-        in Riau and Singapore. "
-      button: The 1820 Uprising in Riau
-      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
-      alt: Image alt text
-      image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
-        Wrong - Image 9.png
-  - infopic:
-      title: A History of Sennett Estate
-      subtitle: Places
-      description: It was once Singapore’s largest planned housing development and saw
-        action during Konfrontasi in the 1960s.
-      button: Sennett Estate
-      url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
-      image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
-        Estate - Image 2.png
-      alt: Image alt text
   - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
       subtitle: people
