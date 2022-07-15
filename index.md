@@ -90,16 +90,6 @@ sections:
       image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
       alt: Image alt text
   - infopic:
-      title: Japanese and Chinese Photo Studios in Prewar Singapore
-      subtitle: Photography
-      description: Chinese and Japanese  photography studios had to negotiate the
-        politics of race, class and clan in the early 20th century.
-      button: Negotiating Boundaries
-      url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
-      image: /images/Vol 18 Issue 2/Chinese Japanese Photo
-        Studios/agsphoto_17551_full.png
-      alt: " "
-  - infopic:
       title: A History of Sennett Estate
       subtitle: Places
       description: It was once Singapore’s largest planned housing development and saw
@@ -109,6 +99,16 @@ sections:
       image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
         Estate - Image 2.png
       alt: Image alt text
+  - infopic:
+      title: Japanese and Chinese Photo Studios in Prewar Singapore
+      subtitle: Photography
+      description: Chinese and Japanese  photography studios had to negotiate the
+        politics of race, class and clan in the early 20th century.
+      button: Negotiating Boundaries
+      url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
+      image: /images/Vol 18 Issue 2/Chinese Japanese Photo
+        Studios/agsphoto_17551_full.png
+      alt: " "
   - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
       subtitle: people
