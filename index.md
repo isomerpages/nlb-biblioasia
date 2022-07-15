@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/royal-wedding-hero.jpg
+      background: /images/Vol 18 Issue 2/bugis hero.jpg
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
       key_highlights:
         - title: A royal wedding gone wrong
