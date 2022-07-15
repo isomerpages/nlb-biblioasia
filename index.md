@@ -10,7 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/royal-wedding-hero.jpg
-      button: A Royal Wedding Gone Wrong
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
   - infopic:
       title: Red Terror
