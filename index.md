@@ -11,6 +11,10 @@ sections:
   - hero:
       background: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/royal-wedding-hero.jpg
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+      key_highlights:
+        - title: A royal wedding gone wrong
+          description: The 1820 Uprising in Riau That Brought the Bugis to Singapore
+          url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
   - infopic:
       title: Red Terror
       subtitle: war
