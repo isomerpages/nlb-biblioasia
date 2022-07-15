@@ -5,7 +5,6 @@ date: 2022-07-08
 layout: post
 description: ""
 ---
-
 There is a Bugis Street in Singapore because of an uprising in Riau in 1820 that brought the Bugis here.  Find out more in this issue’s cover story.
 
 <img src="/images/Vol%2018%20Issue%202/BiblioAsia_JUL-SEP2022-FA-cover-edited.jpg">
@@ -22,7 +21,7 @@ in Riau and Singapore. *Benjamin J.Q. Khoo*.[(PDF)](/files/pdf/Vol%2018/Issue%20
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">“They Died for All Free Men”: Stories From Kranji War Cemetery
 </a><br>Remembering those who died while fighting the Japanese during World War II. *Janice Loo*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_KranjiWar.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/National-Library-Japanese-Occupation-collection">从国家图书馆文献窥看日本占领时期的新加坡华社
+<a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/National-Library-Japanese-Occupation-collection">从国家图书馆文献窥看日本占领时期的新加坡华社<br>
 From the National Library: The Singapore Chinese Community During the Japanese Occupation</a><br>Donated items relating to the Japanese Occupation. *Lee Meiyu and Seow Peck Ngiam*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Japanese%20Occupation.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">This Was Once Singapore’s Largest Planned Housing
