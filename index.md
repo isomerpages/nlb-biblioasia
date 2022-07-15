@@ -13,14 +13,13 @@ sections:
       button: A Royal Wedding Gone Wrong
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
   - infopic:
-      title: Haj Pilgrimage before the 20th Century
-      subtitle: Hari Raya Haji
-      description: Before flights became common in the 1970s, Muslim pilgrims from
-        Southeast Asia travelled to Mecca by land or sea, on voyages that took
-        months or even years.
-      button: A journey of faith
-      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
-      image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
+      title: Red Terror
+      subtitle: war
+      description: The 1970s saw communist bombings, assassination plots and covert
+        information wars.
+      button: Communist violence and subversion
+      url: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
+      image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
       alt: Image alt text
   - infopic:
       title: Key Milestones in the History of Cathay Cinema
@@ -30,15 +29,6 @@ sections:
       button: a historic cinema
       url: /history-cathay-cinema-2022
       image: /images/Cathay/Cathay-1941.jpg
-      alt: Image alt text
-  - infopic:
-      title: Subterranean Singapore
-      subtitle: Places
-      description: After Independence, serious efforts were made to use subterranean space.
-      button: Man-made Tunnels in Singapore
-      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
-      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
-        Image 1.png
       alt: Image alt text
   - infopic:
       title: Chinese Vegetarian Restaurants
@@ -52,6 +42,25 @@ sections:
         Image 6.png
       alt: Image alt text
   - infopic:
+      title: Haj Pilgrimage before the 20th Century
+      subtitle: Hari Raya Haji
+      description: Before flights became common in the 1970s, Muslim pilgrims from
+        Southeast Asia travelled to Mecca by land or sea, on voyages that took
+        months or even years.
+      button: A journey of faith
+      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
+      image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
+      alt: Image alt text
+  - infopic:
+      title: Subterranean Singapore
+      subtitle: Places
+      description: After Independence, serious efforts were made to use subterranean space.
+      button: Man-made Tunnels in Singapore
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+        Image 1.png
+      alt: Image alt text
+  - infopic:
       title: 日本占领时期的新加坡华社
       subtitle: war
       description: The National Library's collection has items from the Chinese
@@ -61,15 +70,6 @@ sections:
       alt: Image alt text
       image: /images/Vol 18 Issue 2/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社 -
         Image 13.png
-  - infopic:
-      title: Red Terror
-      subtitle: war
-      description: The 1970s saw communist bombings, assassination plots and covert
-        information wars.
-      button: Communist violence and subversion
-      url: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
-      image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
-      alt: Image alt text
   - infopic:
       title: A Great Way to Fly
       subtitle: travel
