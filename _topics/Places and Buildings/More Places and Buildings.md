@@ -4,6 +4,12 @@ permalink: /topics/Places-and-Buildings/more
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
+Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
+
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">They Died for All Free Men: Stories from Kranji War Cemetery</a>
 Remembering those who died while fighting the Japanese during World War II. 
 
