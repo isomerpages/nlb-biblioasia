@@ -15,13 +15,18 @@ The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas,
 <img src="/images/Cathay/cathay-interior.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park">How Jurong Bird Park was Hatched</a>
+On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Remembering Robinsons</a>
 Many generations of Singaporeans have shopped in Robinsons since its founding in 1858. Gracie Lee and Kevin Khoo highlight some milestones in its illustrious history.
 
 <img src="/images/Vol-16-issue-4/Robinsons/RememberingRobinsons.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park">How Jurong Bird Park was Hatched</a>
-On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
-<hr>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a>
+As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
+<img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg">
+<hr>
