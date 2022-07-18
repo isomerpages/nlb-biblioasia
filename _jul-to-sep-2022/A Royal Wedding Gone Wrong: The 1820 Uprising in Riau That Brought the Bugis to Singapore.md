@@ -9,7 +9,7 @@ image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
   Wrong - Image 1.png
 ---
 #### Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore. 
-By Benjamin J.Q. Khoo
+By **Benjamin J.Q. Khoo
 
 ![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png)
 <div style="background-color: white;"> Sailing boats in Riau, c. 1867. <i>Image from Leiden University Libraries, the Netherlands (Creative Commons Attribution 4.0 International; CC BY 4.0).</i>
