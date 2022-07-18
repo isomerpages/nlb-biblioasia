@@ -9,6 +9,22 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 <img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">They Died for All Free Men: Stories from Kranji War Cemetery</a>
+Remembering those who died while fighting the Japanese during World War II. 
+
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a>
+The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars.
+
+<img src="/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%202.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/national-library-japanese-occupation-collection">从国家图书馆文献窥看日本占领时期的新加坡华社</a>
+2022 marks the 80th anniversary of the Fall of Singapore. The National Library's collection has items from the Chinese community relating to the Japanese Occupation of Singapore.
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
 Desperate times call for desperate measures. Lee Geok Boi trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 

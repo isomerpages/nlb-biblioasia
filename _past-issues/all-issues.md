@@ -11,8 +11,8 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 18-1 cover](/images/covers/ba18-1v2.jpg)[Apr–Jun 2022](/vol-18/issue-1/apr-jun-2022/)<br>[Apr–Jun 2022 (PDF)](/files/pdf/BiblioAsia%20APR-JUN2022%20(below%205%20MB).pdf) |![placeholder](/images/covers/placeholdercover-v2.jpg) |
-| | |
+| ![BiblioAsia 18-1 cover](/images/covers/ba18-1v2.jpg)[Apr–Jun 2022](/vol-18/issue-1/apr-jun-2022/)<br>[Apr–Jun 2022 (PDF)](/files/pdf/BiblioAsia%20APR-JUN2022%20(below%205%20MB).pdf) |![BiblioAsia 18-2 cover](/images/covers/ba18-2v2.jpg)[Jul–Sep 2022](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/)<br>[Jul–Sep 2022 (PDF)](/files/pdf/BiblioAsia_Jul-Sep%202022.pdf)|
+
 
 
 #### Volume 17

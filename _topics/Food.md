@@ -8,6 +8,10 @@ Chinese food in Singapore is a product of the country’s history and geography,
 <img src="/images/Vol%2018%20Issue%201/Chinese%20Food/ytf.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a>
+Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism.
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging">The Role of Foraging in Malay Cuisine</a>
 Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as Khir Johari tells us. 
 <img src="/images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg">
