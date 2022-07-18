@@ -75,7 +75,7 @@ sections:
         Image 13.png
   - infopic:
       title: A Great Way to Fly
-      subtitle: travel
+      subtitle: local icons
       description: Established in 1972, Singapore Airlines is known for its impeccable
         service standards and luxurious in-flight experiences.
       button: The Singapore Airlines Story
