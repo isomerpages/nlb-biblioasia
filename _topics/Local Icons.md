@@ -19,7 +19,7 @@ The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas,
 On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Remembering Robinsons</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/robinsons">Remembering Robinsons</a>
 Many generations of Singaporeans have shopped in Robinsons since its founding in 1858. Gracie Lee and Kevin Khoo highlight some milestones in its illustrious history.
 
 <img src="/images/Vol-16-issue-4/Robinsons/RememberingRobinsons.jpg">
