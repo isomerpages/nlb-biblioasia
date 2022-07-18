@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Local Icons.md
       - Editor's Picks.md
       - Arts/.keep
       - Arts/Arts.md
@@ -12,6 +11,7 @@ collections:
       - Culture.md
       - Food.md
       - Governance.md
+      - Local Icons.md
       - Maps.md
       - Medicine.md
       - Nature and the Environment .md
