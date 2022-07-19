@@ -40,6 +40,8 @@ For people who wanted plant-based alternatives to meat dishes, the restaurant of
 
 Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 The food served at Loke Woh Yuen was known to be tasty. Writing for the *Singapore Monitor*, Violet Oon wrote about her experience eating a 10-course vegetarian banquet priced at $150. For those new to Chinese vegetarian food, Oon recommended the dish of *loh mei* or “mixed meats”, as it “truly represents the spirit of eating vegetarian style”. She also liked the mixed cold items with its “artful simulation of mock oysters”.
 
 She wrote: “Some people may object to this simulation of non-vegetarian food flavours but I welcome it as it takes the boredom out of eating vegetables.” Overall, she said, the “richness of flavours achieved without the aid of meats or seafoods and the visual impact that was created impressed me”.[^6]
