@@ -42,6 +42,8 @@ After Malaysia-Singapore Airlines was split up, SIA absorbed more than $180 mill
 
 SIA’s first managing director was Lim Chin Beng. His vision was for SIA to appeal to international travellers since Singapore did not have a domestic market. He said: “At that time, we consciously did not have local food on board because it was for the international travellers, not for Singapore travellers… So, the décor, the aircraft, the food, everything should be for the international travellers but with the Asian courtesy and the Asian touch.”[^11]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+
 The management under Lim immediately began negotiating for landing rights to ensure minimal disruptions to services. Two of the earliest landing rights agreements obtained were with Indonesia in September 1972 and Pakistan the following month.[^12]
 
 To expand and fly to new destinations, SIA needed more planes. In 1978, the airline made headlines because it signed a $2.1 billion agreement with Boeing in one of the largest ever single civilian aircraft deals at the time. The agreement was to purchase 10 Boeing 747s with an option to acquire three more, and four 727s with options to buy another two. In 1992, SIA showed that it was still willing to make big investments when it signed a contract for 20 Airbus Industrie A340-300 airplanes at a cost of $4.34 billion.[^13]

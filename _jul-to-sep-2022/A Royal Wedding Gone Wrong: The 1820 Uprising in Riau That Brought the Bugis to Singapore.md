@@ -41,6 +41,8 @@ What happened in the Bugis kampong is not recorded. In any case, the sergeant an
 
 Opinions of the exact trigger of the incident differ, but the accounts agree that the Bugis drew their krises first and struck. However, no one was absolutely certain as to why they had done so. According to the *Tuhfat al‑Nafis*, the sergeant had ordered that the Bugis men be disarmed of their krises, to which they refused. The soldiers then attempted to relieve them of their weapons. In the ensuing scuffle, a furious Raja Ronggik drew his kris and charged at the Dutch soldiers, prompting the other Bugis to follow. Other Dutch accounts state that it was the decision to put them in clinks that enraged them. This was akin to being treated like common criminals, which wounded their pride and sparked discontent on that humid night.[^9]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 Regardless of the trigger, the violence happened in a flash. The glints of the drawn krises saw the Dutch respond with rifle fire. A few bloody moments later, the bodies of the five Bugis men were on the ground: two lay severely wounded, and three were dead, the latter including Raja Ronggik. On the Dutch side, one was slain while five others were heavily injured. A routine inquiry had gone horribly wrong.
 
 #### **The Uprising**
