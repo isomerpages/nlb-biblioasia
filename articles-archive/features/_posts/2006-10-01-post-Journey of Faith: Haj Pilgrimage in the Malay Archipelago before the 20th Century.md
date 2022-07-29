@@ -2,11 +2,12 @@
 title: "Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the
   20th Century"
 permalink: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
-date: 2016-10-01
+date: 2006-10-01
 layout: post
 description: ""
 image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
 ---
+
 #### Before flights became common in the 1970s, Muslim pilgrims from Southeast Asia travelled to Mecca by land or sea, on arduous voyages that took months or even years. **Nor-Afidah Abd Rahman** takes us on a journey of the pilgrims' hardships and joy. 
 
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg">
