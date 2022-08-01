@@ -162,3 +162,27 @@ Growing up in a society where too often, the discourse around Malays relegates t
 [^27]:“True Tale of Johore.” 
 
 [^28]:“True Tale of Johore.”
+
+[^29]:Paul Greenhalgh, Fair World: A History of World’s Fairs and Expositions, from London to Shanghai 1851–2010 (Winterbourne: Papadakis, 2011), 128. (From National Library, Singapore, call no. R907.4 GRE)
+
+[^30]:The names of the “natives” brought to Chicago for the Johor village and the much-larger Javanese village have not surfaced in my research. However, we do know of one Malayan who died after being sent to the British Empire Exhibition of 1924. This was Halimah Abdullah, a woman from Johor and master-weaver. She contracted pneumonia and died on 7 May 1924, aged 60. See Erika Tan, “The Forgotten Weaver,” accessed 12 July 2022, http://theforgottenweaver.blogspot.com/. 
+
+[^31]:Julian Hawthorne, “Foreign Folk at the Fair,” Cosmopolitan 15, September 1893, https://babel.hathitrust.org/cgi/pt?id=mdp.39015009215891.
+
+[^32]:Melissa Rinehart, “To Hell with the Wigs! Native American Representation and Resistance at the World’s Columbian Exposition”, American Indian Quarterly 36, no. 4 (2012): 403. (From JSTOR via NLB’s eResources website)
+
+[^33]:Kimberly Kutz Elliott, “The World’s Columbian Exposition: The White City and Fairgrounds,” Smarthistory, 9 July 2021, https://smarthistory.org/white-city-and-fairgrounds/.
+
+[^34]:Official Directory of the World’s Columbian Exposition, 12.
+
+[^35]:“True Tale of Johore.”  
+
+[^36]:“True Tale of Johore.” 
+
+[^37]:“Johore at the World’s Fair,” Straits Times Weekly Issue, 17 October 1893, 11. (From NewspaperSG)
+
+[^38]:“The Sultan of Johore,” Singapore Free Press, 26 September 1893, 201. (From NewspaperSG)
+
+[^39]:A. Rahman Tang Abdullah, Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
+
+[^40]:See Lily Zubaidah Rahim, The Singapore Dilemma: The Political and Educational Marginality of the Malay Community (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
