@@ -111,7 +111,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^2]: “Summary of Home News,” *Straits Independent and Penang Chronicle*, 13 August 1890, 4. (From NewspaperSG)
 
-[^3]: Rounsevelle Wildman, Tales of the Malayan Coast: From Penang to the Philippines (Boston: Pothrop Pub., c.1899). (From National Library, Singapore, call no. RRARE 398.2 WIL)
+[^3]: Rounsevelle Wildman, *Tales of the Malayan Coast: From Penang to the Philippines* (Boston: Pothrop Pub., c.1899). (From National Library, Singapore, call no. RRARE 398.2 WIL)
 
 [^4]: Wildman, Tales of the Malayan Coast, 289–90.
 
