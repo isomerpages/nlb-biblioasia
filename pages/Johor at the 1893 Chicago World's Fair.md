@@ -98,4 +98,11 @@ Malayan responses to the American press proved that Asians not only knew but als
 
 Growing up in a society where too often, the discourse around Malays relegates the community to a minimal role in the modern past and present,40 I was thrilled to find a Malay state demanding a place on the stage of history, to have a share in its making. It is in retrieving and rewriting such stories back into wider consciousness that we truly appreciate history as a grand movement of the small and forgotten. 
 
-#### **The Dutch Return to Riau**
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Benjamin%20J%20Q%20Khoo.png" style="width: 100px; height: 100px;"/>
+	<b>Benjamin J.Q. Khoo</b> is a Research Officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. Studying the histories of the early modern world, his research focuses on networks of knowledge and diplomatic encounters in Asia.</div>
+
+#### **NOTES**
+
+[^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
