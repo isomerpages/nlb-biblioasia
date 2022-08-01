@@ -115,74 +115,74 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^4]: Wildman, *Tales of the Malayan Coast*, 289–90.
 
-[^5]: “In the Malacca Straits,” Singapore Free Press, 31 October 1891, 3. (From NewspaperSG)
+[^5]: “In the Malacca Straits,” *Singapore Free Press*, 31 October 1891, 3. (From NewspaperSG)
 
-[^6]: “Editorials,” Straits Times Weekly Issue, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the Straits Times warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
+[^6]: “Editorials,” *Straits Times Weekly Issue*, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the *Straits Times* warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
 
 [^7]: “Editorials.”
 
-[^8]: “A Malay Village at the World’s Fair,” Sun 59, no. 283 (9 June 1892): 3, https://chroniclingamerica.loc.gov/lccn/sn83030272/1892-06-09/ed-1/seq-3/.
+[^8]: “A Malay Village at the World’s Fair,” *Sun* 59, no. 283 (9 June 1892): 3, https://chroniclingamerica.loc.gov/lccn/sn83030272/1892-06-09/ed-1/seq-3/.
 
-[^9]: “Sultan of Johore,” Roanoke Times 10, no. 282 (12 August 1892): 2, https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-08-12/ed-1/seq-2/. 
+[^9]: “Sultan of Johore,” *Roanoke Times* 10, no. 282 (12 August 1892): 2, https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-08-12/ed-1/seq-2/. 
 
-[^10]: “The Sultan of Johore,” Evening Star, 24 March 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83045462/1893-03-24/ed-1/seq-7.
+[^10]: “The Sultan of Johore,” *Evening Star*, 24 March 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83045462/1893-03-24/ed-1/seq-7.
 
-[^11]: “Tribute to Mr. Wildman,” Straits Times Weekly Issue, 14 March 1893, 7 (From NewspaperSG)
+[^11]: “Tribute to Mr. Wildman,” *Straits Times Weekly Issue*, 14 March 1893, 7 (From NewspaperSG)
 
-[^12]: “Rajah Rahman,” Singapore Free Press, 27 May 1893, 3. (From NewspaperSG)
+[^12]: “Rajah Rahman,” *Singapore Free Press*, 27 May 1893, 3. (From NewspaperSG)
 
-[^13]: “Wednesday, 22nd February,” Straits Times Weekly Issue, 28 February 1893, 2. (From NewspaperSG)
+[^13]: “Wednesday, 22nd February,” *Straits Times Weekly Issue*, 28 February 1893, 2. (From NewspaperSG)
 
 [^14]: “Rajah Rahman.”
 
-[^15]:“Correspondence,” Singapore Free Press, 7 March 1893, 2. (From NewspaperSG)
+[^15]:“Correspondence,” *Singapore Free Press*, 7 March 1893, 2. (From NewspaperSG)
 
-[^16]:“Clippings,” Sioux County Journal, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/2018270201/1892-12-22/ed-1/seq-2/; Indian Chieftain, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83025010/1892-12-22/ed-1/seq-1/; Barton County Democrat, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83040198/1892-12-22/ed-1/seq-2/; “Sultan of Johore Coming,” Philipsburg Mail, 8 June 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83025320/1893-06-08/ed-1/seq-7/.
+[^16]:“Clippings,” *Sioux County Journal*, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/2018270201/1892-12-22/ed-1/seq-2/; *Indian Chieftain*, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83025010/1892-12-22/ed-1/seq-1/; *Barton County Democrat*, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83040198/1892-12-22/ed-1/seq-2/; “Sultan of Johore Coming,” *Philipsburg Mail*, 8 June 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83025320/1893-06-08/ed-1/seq-7/.
 
 [^17]:“Correspondence.” 
 
-[^18]:“On the Average Man,” Singapore Free Press, 14 March 1893, 2. (From NewspaperSG))
+[^18]:“On the Average Man,” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG))
 
 [^19]:“Rajah Rahman.” 
 
-[^20]:World’s Columbian Exposition and Frederic Ward Putnam, Official Catalogue of Exhibits on the Midway Plaisance (Chicago: W.B. Conkey, 1893), 6, https://scholarship.rice.edu/jsp/xml/1911/22074/1/aa00144.tei.html.
+[^20]:World’s Columbian Exposition and Frederic Ward Putnam, *Official Catalogue of Exhibits on the Midway Plaisance* (Chicago: W.B. Conkey, 1893), 6, https://scholarship.rice.edu/jsp/xml/1911/22074/1/aa00144.tei.html.
 
-[^21]:Hermann Heinze, Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A. 1893, 1892, map, 57 cm × 63 cm, https://www.loc.gov/resource/g4104c.ct002834/?r=-0.935,-0.018,2.871,1.084,0.
+[^21]:Hermann Heinze, *Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A. 1893*, 1892, map, 57 cm × 63 cm, https://www.loc.gov/resource/g4104c.ct002834/?r=-0.935,-0.018,2.871,1.084,0.
 
-[^22]:Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A 1893.
+[^22]:*Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A 1893*.
 
-[^23]:“Pictures of Johore,” Singapore Free Press, 7 March 1893, 2. (From NewspaperSG)
+[^23]:“Pictures of Johore,” *Singapore Free Press*, 7 March 1893, 2. (From NewspaperSG)
 
-[^24]:“Johore Tea,” Straits Times Weekly Issue, 25 January 1893, 7. (From NewspaperSG)
+[^24]:“Johore Tea,” *Straits Times Weekly Issue*, 25 January 1893, 7. (From NewspaperSG)
 
-[^25]:The Official Directory of the World’s Columbian Exposition (Chicago: W.B. Conkey, 1893), 70, https://archive.org/details/officialdirector00worl.
+[^25]:*The Official Directory of the World’s Columbian Exposition* (Chicago: W.B. Conkey, 1893), 70, https://archive.org/details/officialdirector00worl.
 
-[^26]:“True Tale of Johore,” Singapore Free Press, 19 September 1893, 190. (From NewspaperSG)
+[^26]:“True Tale of Johore,” *Singapore Free Press*, 19 September 1893, 190. (From NewspaperSG)
 
 [^27]:“True Tale of Johore.” 
 
 [^28]:“True Tale of Johore.”
 
-[^29]:Paul Greenhalgh, Fair World: A History of World’s Fairs and Expositions, from London to Shanghai 1851–2010 (Winterbourne: Papadakis, 2011), 128. (From National Library, Singapore, call no. R907.4 GRE)
+[^29]:Paul Greenhalgh, *Fair World: A History of World’s Fairs and Expositions, from London to Shanghai 1851–2010* (Winterbourne: Papadakis, 2011), 128. (From National Library, Singapore, call no. R907.4 GRE)
 
 [^30]:The names of the “natives” brought to Chicago for the Johor village and the much-larger Javanese village have not surfaced in my research. However, we do know of one Malayan who died after being sent to the British Empire Exhibition of 1924. This was Halimah Abdullah, a woman from Johor and master-weaver. She contracted pneumonia and died on 7 May 1924, aged 60. See Erika Tan, “The Forgotten Weaver,” accessed 12 July 2022, http://theforgottenweaver.blogspot.com/. 
 
-[^31]:Julian Hawthorne, “Foreign Folk at the Fair,” Cosmopolitan 15, September 1893, https://babel.hathitrust.org/cgi/pt?id=mdp.39015009215891.
+[^31]:Julian Hawthorne, “Foreign Folk at the Fair,” *Cosmopolitan* 15, September 1893, https://babel.hathitrust.org/cgi/pt?id=mdp.39015009215891.
 
-[^32]:Melissa Rinehart, “To Hell with the Wigs! Native American Representation and Resistance at the World’s Columbian Exposition”, American Indian Quarterly 36, no. 4 (2012): 403. (From JSTOR via NLB’s eResources website)
+[^32]:Melissa Rinehart, “To Hell with the Wigs! Native American Representation and Resistance at the World’s Columbian Exposition”, *American Indian Quarterly* 36, no. 4 (2012): 403. (From JSTOR via NLB’s eResources website)
 
 [^33]:Kimberly Kutz Elliott, “The World’s Columbian Exposition: The White City and Fairgrounds,” Smarthistory, 9 July 2021, https://smarthistory.org/white-city-and-fairgrounds/.
 
-[^34]:Official Directory of the World’s Columbian Exposition, 12.
+[^34]:*Official Directory of the World’s Columbian Exposition*, 12.
 
 [^35]:“True Tale of Johore.”  
 
 [^36]:“True Tale of Johore.” 
 
-[^37]:“Johore at the World’s Fair,” Straits Times Weekly Issue, 17 October 1893, 11. (From NewspaperSG)
+[^37]:“Johore at the World’s Fair,” *Straits Times Weekly Issue*, 17 October 1893, 11. (From NewspaperSG)
 
-[^38]:“The Sultan of Johore,” Singapore Free Press, 26 September 1893, 201. (From NewspaperSG)
+[^38]:“The Sultan of Johore,” *Singapore Free Press*, 26 September 1893, 201. (From NewspaperSG)
 
-[^39]:A. Rahman Tang Abdullah, Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
+[^39]:A. Rahman Tang Abdullah, *Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris* (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
 
-[^40]:See Lily Zubaidah Rahim, The Singapore Dilemma: The Political and Educational Marginality of the Malay Community (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
+[^40]:See Lily Zubaidah Rahim,* The Singapore Dilemma: The Political and Educational Marginality of the Malay Community* (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
