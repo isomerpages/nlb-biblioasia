@@ -107,4 +107,30 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 #### **NOTES**
 
-[^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
+[^1]: Johor’s borders had been cemented in the 1855 Anglo-Johor Treaty. Its sovereignty was legally established in a case involving Sultan Abu Bakar and Englishwoman Jenny Mighell, who sued him for breaching a marriage contract, but lost because the Foreign Office recognised Abu Bakar as a “foreign ruler” and therefore fell outside the jurisdiction of British courts. The Johor Constitution, or Undang-undang Tubuh Kerajaan Johor, was introduced in 1895.
+
+[^2]: “Summary of Home News,” Straits Independent and Penang Chronicle, 13 August 1890, 4. (From NewspaperSG)
+
+[^3]: Rounsevelle Wildman, Tales of the Malayan Coast: From Penang to the Philippines (Boston: Pothrop Pub., c.1899). (From National Library, Singapore, call no. RRARE 398.2 WIL)
+
+[^4]: Wildman, Tales of the Malayan Coast, 289–90.
+
+[^5]: “In the Malacca Straits,” Singapore Free Press, 31 October 1891, 3. (From NewspaperSG)
+
+[^6]: “Editorials,” Straits Times Weekly Issue, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the Straits Times warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
+
+[^7]: “Editorials.”
+
+[^8]: “A Malay Village at the World’s Fair,” Sun 59, no. 283 (9 June 1892): 3, https://chroniclingamerica.loc.gov/lccn/sn83030272/1892-06-09/ed-1/seq-3/.
+
+[^9]: “Sultan of Johore,” Roanoke Times 10, no. 282 (12 August 1892): 2, https://chroniclingamerica.loc.gov/lccn/sn86071868/1892-08-12/ed-1/seq-2/. 
+
+[^10]: “The Sultan of Johore,” Evening Star, 24 March 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83045462/1893-03-24/ed-1/seq-7.
+
+[^11]: “Tribute to Mr. Wildman,” Straits Times Weekly Issue, 14 March 1893, 7 (From NewspaperSG)
+
+[^12]: “Rajah Rahman,” Singapore Free Press, 27 May 1893, 3. (From NewspaperSG)
+
+[^13]: “Wednesday, 22nd February,” Straits Times Weekly Issue, 28 February 1893, 2. (From NewspaperSG)
+
+[^14]: “Rajah Rahman.”
