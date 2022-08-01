@@ -98,7 +98,7 @@ Malayan responses to the American press proved that Asians not only knew but als
 
 Growing up in a society where too often, the discourse around Malays relegates the community to a minimal role in the modern past and present,[^40] I was thrilled to find a Malay state demanding a place on the stage of history, to have a share in its making. It is in retrieving and rewriting such stories back into wider consciousness that we truly appreciate history as a grand movement of the small and forgotten. 
 
-<div>I wish to thank Martyn Low and Marcus Ng for pointing me to some important archival material, and Yu-Mei Balasingamchow for comments on the draft.</div>
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">I wish to thank Martyn Low and Marcus Ng for pointing me to some important archival material, and Yu-Mei Balasingamchow for comments on the draft.</span>
 
 <div style="background-color: white;">
 <br/>
