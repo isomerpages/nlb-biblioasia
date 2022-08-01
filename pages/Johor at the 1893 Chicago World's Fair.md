@@ -134,3 +134,31 @@ Growing up in a society where too often, the discourse around Malays relegates t
 [^13]: “Wednesday, 22nd February,” Straits Times Weekly Issue, 28 February 1893, 2. (From NewspaperSG)
 
 [^14]: “Rajah Rahman.”
+
+[^15]:“Correspondence,” Singapore Free Press, 7 March 1893, 2. (From NewspaperSG)
+
+[^16]:“Clippings,” Sioux County Journal, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/2018270201/1892-12-22/ed-1/seq-2/; Indian Chieftain, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83025010/1892-12-22/ed-1/seq-1/; Barton County Democrat, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83040198/1892-12-22/ed-1/seq-2/; “Sultan of Johore Coming,” Philipsburg Mail, 8 June 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83025320/1893-06-08/ed-1/seq-7/.
+
+[^17]:“Correspondence.” 
+
+[^18]:“On the Average Man,” Singapore Free Press, 14 March 1893, 2. (From NewspaperSG))
+
+[^19]:“Rajah Rahman.” 
+
+[^20]:World’s Columbian Exposition and Frederic Ward Putnam, Official Catalogue of Exhibits on the Midway Plaisance (Chicago: W.B. Conkey, 1893), 6, https://scholarship.rice.edu/jsp/xml/1911/22074/1/aa00144.tei.html.
+
+[^21]:Hermann Heinze, Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A. 1893, 1892, map, 57 cm × 63 cm, https://www.loc.gov/resource/g4104c.ct002834/?r=-0.935,-0.018,2.871,1.084,0.
+
+[^22]:Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A 1893.
+
+[^23]:“Pictures of Johore,” Singapore Free Press, 7 March 1893, 2. (From NewspaperSG)
+
+[^24]:“Johore Tea,” Straits Times Weekly Issue, 25 January 1893, 7. (From NewspaperSG)
+
+[^25]:The Official Directory of the World’s Columbian Exposition (Chicago: W.B. Conkey, 1893), 70, https://archive.org/details/officialdirector00worl.
+
+[^26]:“True Tale of Johore,” Singapore Free Press, 19 September 1893, 190. (From NewspaperSG)
+
+[^27]:“True Tale of Johore.” 
+
+[^28]:“True Tale of Johore.”
