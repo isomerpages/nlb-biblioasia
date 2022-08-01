@@ -10,7 +10,7 @@ By Faris Joraimi
 <div style="background-color: white;"> Sailing boats in Riau, c. 1867. <i>Image from Leiden University Libraries, the Netherlands (Creative Commons Attribution 4.0 International; CC BY 4.0).</i>
 </div>
 
-My favourite boyhood novel was Jules Verne’s classic, Around the World in 80 Days, which captured the late-19th century’s scientific wonder. European conquest of much of the world opened it up to travel by steam and rail, but many Asians were also active participants in that age of acceleration. The growth of the annual Muslim pilgrimage to Mecca, enabled by steamship services, made Singapore a global hub in a modern Islamic network. 
+My favourite boyhood novel was Jules Verne’s classic, *Around the World in 80 Days*, which captured the late-19th century’s scientific wonder. European conquest of much of the world opened it up to travel by steam and rail, but many Asians were also active participants in that age of acceleration. The growth of the annual Muslim pilgrimage to Mecca, enabled by steamship services, made Singapore a global hub in a modern Islamic network. 
 
 Intellectuals from Cairo to Tokyo urged their societies to join the West in a future limited only by the bounds of Man’s genius and imagination. (Often literally men’s, as women’s contributions were frequently erased.) That ideal was elaborately dramatised in the world’s fairs: spectacles showcasing the latest inventions and gathering humanity’s shared intellectual and artistic advances in one place. 
 
@@ -28,11 +28,11 @@ The sultan was among the prominent non-European leaders of the time who travelle
 
 So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair afirmed its stature. 
 
-Enter Rounsevelle Wildman (1864–1901), an American reporter-turned-diplomat. His first appointment was as United States (US) Consul-General to Singapore, starting in 1890.[^2] In his account Tales of the Malayan Coast (1899),[^3] Wildman conjured up the picturesque Malaya as Western officials saw it: a timeless landscape with inhabitants cast in specific roles. Sultan Abu Bakar, at least, impressed him. At a palace banquet Wildman attended in Johor Bahru, the sultan served an international menu and chided Westerners with wit and humour for thinking Malays were savages.[^4]
+Enter Rounsevelle Wildman (1864–1901), an American reporter-turned-diplomat. His first appointment was as United States (US) Consul-General to Singapore, starting in 1890.[^2] In his account *Tales of the Malayan Coast* (1899),[^3] Wildman conjured up the picturesque Malaya as Western officials saw it: a timeless landscape with inhabitants cast in specific roles. Sultan Abu Bakar, at least, impressed him. At a palace banquet Wildman attended in Johor Bahru, the sultan served an international menu and chided Westerners with wit and humour for thinking Malays were savages.[^4]
 
 Wildman and Abu Bakar’s relationship must have been cordial; the latter even lent Wildman his personal yacht for sailing trips around Singapore and the Melaka Strait, playing Robinson Crusoe.[^5] No surprise then that when Wildman suggested to Abu Bakar that Johor participate in the Chicago World’s Fair, the latter placed his trust in the American. 
 
-Both men had something to gain. In preparing for the fair, the US tasked its overseas consuls to persuade their host countries to join. The Singapore government wanted nothing to do with it, a decision that the Straits Times criticised, saying that “the Colony does not understand the value of judicious advertising”, especially since the US was the city’s largest importer after England.[^6] Wildman thus turned to Johor to show that he was fulfilling his responsibility to contribute to the fair. Johor, an emerging market for mining and agriculture, saw the economic value of its presence in Chicago.
+Both men had something to gain. In preparing for the fair, the US tasked its overseas consuls to persuade their host countries to join. The Singapore government wanted nothing to do with it, a decision that the *Straits Times* criticised, saying that “the Colony does not understand the value of judicious advertising”, especially since the US was the city’s largest importer after England.[^6] Wildman thus turned to Johor to show that he was fulfilling his responsibility to contribute to the fair. Johor, an emerging market for mining and agriculture, saw the economic value of its presence in Chicago.
 
 By July 1892, a year before the fair, the Singapore press confirmed Abu Bakar’s pledge to send an exhibit to Chicago, consisting of a model kampong, actual Malay men and women at work, cultural artefacts and commercial products.[^7] The sultan himself would also travel to Chicago. 
 
@@ -46,9 +46,9 @@ A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: 
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
 
-The American press was busy milling tall tales about Abu Bakar as an extravagant Asiatic despot. Plenty were perpetuated by Wildman himself, who had become Johor’s spokesman. He painted for American readers a fantastic Johor worth “$10,000,000 diamonds” and other luxuries in the New York magazine, Harper’s Weekly.[^15] This line was repeated by newspapers across the country.[^16]
+The American press was busy milling tall tales about Abu Bakar as an extravagant Asiatic despot. Plenty were perpetuated by Wildman himself, who had become Johor’s spokesman. He painted for American readers a fantastic Johor worth “$10,000,000 diamonds” and other luxuries in the New York magazine, *Harper’s Weekly*.[^15] This line was repeated by newspapers across the country.[^16]
 
-One letter to the Singapore Free Press mocked the depictions as “bunkum”,[^17] and Abu Bakar was so annoyed by the “ridiculous” statements that he threatened to cancel his visit to the US.[^18] The Singapore newspapers pulled no punches. The New York Herald may be a top US paper, “but its geographical knowledge is slender”, noted the Free Press.[^19] Clearly, the US’ knowledge of the world had not caught up with its status as a rising power in the Pacific.
+One letter to the *Singapore Free Press* mocked the depictions as “bunkum”,[^17] and Abu Bakar was so annoyed by the “ridiculous” statements that he threatened to cancel his visit to the US.[^18] The Singapore newspapers pulled no punches. The *New York Herald* may be a top US paper, “but its geographical knowledge is slender”, noted the *Free Press*.[^19] Clearly, the US’ knowledge of the world had not caught up with its status as a rising power in the Pacific.
 
 Meanwhile, on the shores of Lake Michigan, thousands of workers toiled to raise the monumental campus of the Chicago World’s Fair. A railroad terminus connected visitors from the city’s Grand Central Station to Jackson Park, the fair’s bustling core. Leaving the station, a visitor was struck by the gleaming neoclassical facades of the “White City” where the Administration Building, Agricultural Building and Manufactures Building surrounded a vast pool. 
 
@@ -60,11 +60,11 @@ Johor’s village included a main bungalow and attap-roofed booths selling Johor
 
 Newspapers also mentioned a “permanent exhibit” in the Agricultural Building which was not part of the original plan. That exhibit was dedicated to Johor’s tea culture, then centred on an 800-acre estate by the Skudai River growing the Assam hybrid.[^24] Planting had begun in 1882 and Johor was trying to promote tea as the next big cash-crop after demand for its chief exports, gambier and pepper, had declined.
 
-On 1 May 1893, the fair opened in a formal ceremony. Abdul Rahman represented Johor, “a noticeable figure, dressed in black with a purple apron tied about him, and with an Oriental wealth of insignia across his broad expanse of shirt front”.[^25] The man was undoubtedly in Malay dress, the “apron” being his samping (hip-wrapper). All the fanfare, though, belied the twists and turns of an underhanded scheme by Rounsevelle Wildman to take advantage of the ambitious Johoreans. 
+On 1 May 1893, the fair opened in a formal ceremony. Abdul Rahman represented Johor, “a noticeable figure, dressed in black with a purple apron tied about him, and with an Oriental wealth of insignia across his broad expanse of shirt front”.[^25] The man was undoubtedly in Malay dress, the “apron” being his *samping* (hip-wrapper). All the fanfare, though, belied the twists and turns of an underhanded scheme by Rounsevelle Wildman to take advantage of the ambitious Johoreans. 
 
 #### **Rounsevelle Wildman’s Scheme**
 
-In a report that appeared months later, the Singapore Free Press accused Wildman of exploiting Johor for his own advantage. According to this story, Wildman had begged Abu Bakar to contribute an exhibit at the fair, tempting him with the “glory” it would bring. With his “Western genius”, Wildman made Abu Bakar sign an unfair contract.[^26]
+In a report that appeared months later, the *Singapore Free Press* accused Wildman of exploiting Johor for his own advantage. According to this story, Wildman had begged Abu Bakar to contribute an exhibit at the fair, tempting him with the “glory” it would bring. With his “Western genius”, Wildman made Abu Bakar sign an unfair contract.[^26]
 
 The terms entailed Johor providing Wildman with materials to build the village on Midway Plaisance and reimbursing him for all expenses incurred for arranging for Johor’s exhibit there. The American consul sweetened the prospects for Abu Bakar by presenting Midway Plaisance as the main stage where “all foreign nations will exhibit”.[^27]
 
@@ -86,7 +86,7 @@ Stationed in Germany, Wildman met Abu Bakar and framed Abdul Rahman as negligent
 
 The tide turned when Harry Lake travelled to Carlsbad to personally explain matters to Abu Bakar. Wildman, defeated, went to Chicago to negotiate a new agreement between himself, Oceanic Trading and Johor. The Johoreans agreed to give Wildman the exhibit’s unsold surplus, while he paid to build the village at Midway Plaisance. He also agreed to give a portion of the proceeds to the fair, the company and Johor.
 
-“If there is a moral attached,” the Singapore Free Press reported, “it is that the business methods of the West are not always appreciated by the people of the East, and that when a Westerner tries to get the better of the simple and slothful Oriental he does not always come out ahead”.[^36] The further truth of the matter is that the “Orientals” had been neither simple nor slothful. 
+“If there is a moral attached,” the *Singapore Free Press* reported, “it is that the business methods of the West are not always appreciated by the people of the East, and that when a Westerner tries to get the better of the simple and slothful Oriental he does not always come out ahead”.[^36] The further truth of the matter is that the “Orientals” had been neither simple nor slothful. 
 
 #### **History from the Margins**
 
@@ -107,7 +107,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 #### **NOTES**
 
-[^1]: Johor’s borders had been cemented in the 1855 Anglo-Johor Treaty. Its sovereignty was legally established in a case involving Sultan Abu Bakar and Englishwoman Jenny Mighell, who sued him for breaching a marriage contract, but lost because the Foreign Office recognised Abu Bakar as a “foreign ruler” and therefore fell outside the jurisdiction of British courts. The Johor Constitution, or Undang-undang Tubuh Kerajaan Johor, was introduced in 1895.
+[^1]: Johor’s borders had been cemented in the 1855 Anglo-Johor Treaty. Its sovereignty was legally established in a case involving Sultan Abu Bakar and Englishwoman Jenny Mighell, who sued him for breaching a marriage contract, but lost because the Foreign Office recognised Abu Bakar as a “foreign ruler” and therefore fell outside the jurisdiction of British courts. The Johor Constitution, or *Undang-undang Tubuh Kerajaan Johor*, was introduced in 1895.
 
 [^2]: “Summary of Home News,” Straits Independent and Penang Chronicle, 13 August 1890, 4. (From NewspaperSG)
 
