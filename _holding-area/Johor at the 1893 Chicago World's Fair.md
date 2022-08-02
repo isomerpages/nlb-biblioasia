@@ -148,7 +148,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^6]: “[Editorials](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920713-1.2.35),” *Straits Times Weekly Issue*, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the *Straits Times* warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
 
-[^7]: “Editorials.”
+[^7]: “[Editorials](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920713-1.2.35).”
 
 [^8]: “A Malay Village at the World’s Fair,” *Sun* 59, no. 283 (9 June 1892): 3, https://chroniclingamerica.loc.gov/lccn/sn83030272/1892-06-09/ed-1/seq-3/.
 
