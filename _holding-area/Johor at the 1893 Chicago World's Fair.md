@@ -214,4 +214,4 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^39]:A. Rahman Tang Abdullah, [*Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200185826) (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
 
-[^40]:See Lily Zubaidah Rahim,* The Singapore Dilemma: The Political and Educational Marginality of the Malay Community* (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
+[^40]:See Lily Zubaidah Rahim, [*The Singapore Dilemma: The Political and Educational Marginality of the Malay Community*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9374308) (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
