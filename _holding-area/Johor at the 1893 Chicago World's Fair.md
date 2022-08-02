@@ -22,7 +22,7 @@ One of the most impressive world’s fairs was the World’s Columbian Expositio
 
 During the 19th century, Johor was transformed from a traditional Malay polity into a modern state by Abu Bakar (1833–95), the sultan and a dynamic reformer. His grandfather, Temenggung Abdul Rahman, was the Malay lord who facilitated Stamford Raffles’ fateful meeting with Tengku Hussein in 1819, leading to the establishment of a trading post in Singapore. 
 
-![](/images/Vol%2018%20Issue%203/6%20copy.jpg)
+![](/images/Vol%2018%20Issue%203/Johor%201893/6%20copy.jpg)
 <div style="background-color: white;"> Sultan Abu Bakar of Johor. Portrait by Alexander Bassano, 1886. <i>Courtesy of the Royal Collection Trust/© Her Majesty Queen Elizabeth II 2022.
 </i>
 </div>
