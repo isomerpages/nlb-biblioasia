@@ -212,6 +212,6 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^38]:“[The Sultan of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930926-1.2.35),” *Singapore Free Press*, 26 September 1893, 201. (From NewspaperSG)
 
-[^39]:A. Rahman Tang Abdullah, *Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris* (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
+[^39]:A. Rahman Tang Abdullah, [*Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200185826) (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
 
 [^40]:See Lily Zubaidah Rahim,* The Singapore Dilemma: The Political and Educational Marginality of the Malay Community* (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
