@@ -186,7 +186,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^25]:*The Official Directory of the World’s Columbian Exposition* (Chicago: W.B. Conkey, 1893), 70, https://archive.org/details/officialdirector00worl.
 
-[^26]:“True Tale of Johore,” *Singapore Free Press*, 19 September 1893, 190. (From NewspaperSG)
+[^26]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58),” *Singapore Free Press*, 19 September 1893, 190. (From NewspaperSG)
 
 [^27]:“True Tale of Johore.” 
 
