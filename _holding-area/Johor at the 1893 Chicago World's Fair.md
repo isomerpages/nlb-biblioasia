@@ -192,7 +192,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^28]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).”
 
-[^29]:Paul Greenhalgh, *Fair World: A History of World’s Fairs and Expositions, from London to Shanghai 1851–2010* (Winterbourne: Papadakis, 2011), 128. (From National Library, Singapore, call no. R907.4 GRE)
+[^29]:Paul Greenhalgh, [*Fair World: A History of World’s Fairs and Expositions, from London to Shanghai 1851–2010*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14250673) (Winterbourne: Papadakis, 2011), 128. (From National Library, Singapore, call no. R907.4 GRE)
 
 [^30]:The names of the “natives” brought to Chicago for the Johor village and the much-larger Javanese village have not surfaced in my research. However, we do know of one Malayan who died after being sent to the British Empire Exhibition of 1924. This was Halimah Abdullah, a woman from Johor and master-weaver. She contracted pneumonia and died on 7 May 1924, aged 60. See Erika Tan, “The Forgotten Weaver,” accessed 12 July 2022, http://theforgottenweaver.blogspot.com/. 
 
