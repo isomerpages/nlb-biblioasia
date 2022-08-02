@@ -3,13 +3,11 @@ title: Johor at the 1893 Chicago World's Fair
 permalink: /test1
 description: ""
 ---
-
-
 #### The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 By Faris Joraimi
 
-![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png)
-<div style="background-color: white;"> Sailing boats in Riau, c. 1867. <i>Image from Leiden University Libraries, the Netherlands (Creative Commons Attribution 4.0 International; CC BY 4.0).</i>
+![](/images/Vol%2018%20Issue%203/johor_cover.jpg)
+<div style="background-color: white;"> Visitors at the great reflecting pool of the White City, the heart of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress.</i>
 </div>
 
 My favourite boyhood novel was Jules Verne’s classic, *Around the World in 80 Days*, which captured the late-19th century’s scientific wonder. European conquest of much of the world opened it up to travel by steam and rail, but many Asians were also active participants in that age of acceleration. The growth of the annual Muslim pilgrimage to Mecca, enabled by steamship services, made Singapore a global hub in a modern Islamic network. 
