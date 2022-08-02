@@ -210,7 +210,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^37]:“[Johore at the World’s Fair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931017-1.2.83),” *Straits Times Weekly Issue*, 17 October 1893, 11. (From NewspaperSG)
 
-[^38]:“The Sultan of Johore,” *Singapore Free Press*, 26 September 1893, 201. (From NewspaperSG)
+[^38]:“[The Sultan of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930926-1.2.35),” *Singapore Free Press*, 26 September 1893, 201. (From NewspaperSG)
 
 [^39]:A. Rahman Tang Abdullah, *Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris* (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
 
