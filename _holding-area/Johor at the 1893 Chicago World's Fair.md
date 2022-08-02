@@ -156,7 +156,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^10]: “The Sultan of Johore,” *Evening Star*, 24 March 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83045462/1893-03-24/ed-1/seq-7.
 
-[^11]: “Tribute to Mr. Wildman,” *Straits Times Weekly Issue*, 14 March 1893, 7 (From NewspaperSG)
+[^11]: “[Tribute to Mr. Wildman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18930314-1.2.35),” *Straits Times Weekly Issue*, 14 March 1893, 7 (From NewspaperSG)
 
 [^12]: “Rajah Rahman,” *Singapore Free Press*, 27 May 1893, 3. (From NewspaperSG)
 
