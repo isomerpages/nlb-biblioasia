@@ -170,7 +170,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^17]:“[Correspondence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930307-1.2.3).” 
 
-[^18]:“On the Average Man,” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG))
+[^18]:“[On the Average Man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930314-1.2.4),” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG))
 
 [^19]:“Rajah Rahman.” 
 
