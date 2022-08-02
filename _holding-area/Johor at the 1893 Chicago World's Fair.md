@@ -206,7 +206,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^35]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).”  
 
-[^36]:“True Tale of Johore.” 
+[^36]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).” 
 
 [^37]:“Johore at the World’s Fair,” *Straits Times Weekly Issue*, 17 October 1893, 11. (From NewspaperSG)
 
