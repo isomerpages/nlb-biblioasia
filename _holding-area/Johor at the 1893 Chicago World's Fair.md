@@ -204,7 +204,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^34]:*Official Directory of the World’s Columbian Exposition*, 12.
 
-[^35]:“True Tale of Johore.”  
+[^35]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).”  
 
 [^36]:“True Tale of Johore.” 
 
