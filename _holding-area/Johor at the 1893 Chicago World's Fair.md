@@ -146,7 +146,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^5]: “[In the Malacca Straits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18911031-1.2.11),” *Singapore Free Press*, 31 October 1891, 3. (From NewspaperSG)
 
-[^6]: “Editorials,” *Straits Times Weekly Issue*, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the *Straits Times* warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
+[^6]: “[Editorials](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920713-1.2.35),” *Straits Times Weekly Issue*, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the *Straits Times* warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
 
 [^7]: “Editorials.”
 
