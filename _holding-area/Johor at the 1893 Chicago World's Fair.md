@@ -40,6 +40,10 @@ So effective was Abu Bakar’s “advertisement” of his administration that it
 
 Enter Rounsevelle Wildman (1864–1901), an American reporter-turned-diplomat. His first appointment was as United States (US) Consul-General to Singapore, starting in 1890.[^2] In his account *Tales of the Malayan Coast* (1899),[^3] Wildman conjured up the picturesque Malaya as Western officials saw it: a timeless landscape with inhabitants cast in specific roles. Sultan Abu Bakar, at least, impressed him. At a palace banquet Wildman attended in Johor Bahru, the sultan served an international menu and chided Westerners with wit and humour for thinking Malays were savages.[^4]
 
+![](/images/Vol%2018%20Issue%203/8%20copy.jpg)
+<div style="background-color: white;"> Rounsevelle Wildman in the frontispiece of his book, Tales of the Malayan Coast. <i>Image reproduced from Rounsevelle Wildman, Tales of the Malayan Coast: From Penang to the Philippines (Boston: Pothrop Pub., c.1899). (From National Library, Singapore, call no. RRARE 398.2 WIL).</i>
+</div>
+
 Wildman and Abu Bakar’s relationship must have been cordial; the latter even lent Wildman his personal yacht for sailing trips around Singapore and the Melaka Strait, playing Robinson Crusoe.[^5] No surprise then that when Wildman suggested to Abu Bakar that Johor participate in the Chicago World’s Fair, the latter placed his trust in the American. 
 
 Both men had something to gain. In preparing for the fair, the US tasked its overseas consuls to persuade their host countries to join. The Singapore government wanted nothing to do with it, a decision that the *Straits Times* criticised, saying that “the Colony does not understand the value of judicious advertising”, especially since the US was the city’s largest importer after England.[^6] Wildman thus turned to Johor to show that he was fulfilling his responsibility to contribute to the fair. Johor, an emerging market for mining and agriculture, saw the economic value of its presence in Chicago.
