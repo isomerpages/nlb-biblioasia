@@ -144,7 +144,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^4]: Wildman, [*Tales of the Malayan Coast*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5028886), 289–90.
 
-[^5]: “In the Malacca Straits,” *Singapore Free Press*, 31 October 1891, 3. (From NewspaperSG)
+[^5]: “[In the Malacca Straits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18911031-1.2.11),” *Singapore Free Press*, 31 October 1891, 3. (From NewspaperSG)
 
 [^6]: “Editorials,” *Straits Times Weekly Issue*, 13 July 1892, 7 (From NewspaperSG). If the Colony was absent, the *Straits Times* warned, Johor officials might have to “explain casually that attached to Johore there is a port called Singapore”.
 
