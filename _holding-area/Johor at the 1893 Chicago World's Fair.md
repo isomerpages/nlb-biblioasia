@@ -5,9 +5,6 @@ description: The story of how Johor ended up at the Chicago World’s Fair is an
   unexpected twist in Malaya’s colonial past.
 image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
 ---
-
-
-
 #### The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 By Faris Joraimi
 
@@ -77,7 +74,7 @@ Meanwhile, on the shores of Lake Michigan, thousands of workers toiled to raise 
 
 A network of canals connected the pool to lagoons and ponds in the north, where imposing structures housed exhibits dedicated to horticulture, women, the fine arts, and others. It was a city within a city. Designed by leading American architects, the fair proclaimed the US as an heir to the glories of Europe. Among the national pavilions surrounding the North Pond were the only Asian countries represented: Siam and Japan. But where was Johor? 
 
-An official catalogue of the fair lists Johor under “No. 12, Oceanic Trading Company” located in “Midway Plaisance”, a long field just outside the main exhibition.[^20] Johor shared the exhibit space jointly with Samoa, Fiji and Hawai'i. On the souvenir map, No. 12 is mislabelled as “Dutch Settlement”.[^21]
+An official catalogue of the fair lists Johor under “No. 12, Oceanic Trading Company” located in “Midway Plaisance”, a long field just outside the main exhibition.[^20] Johor shared the exhibit space jointly with Samoa, Fiji and Hawai‘i. On the souvenir map, No. 12 is mislabelled as “Dutch Settlement”.[^21]
 
 Johor’s village included a main bungalow and attap-roofed booths selling Johor-grown tea, pineapple juice (“the national drink”) plus Malay and Chinese trinkets.[^22] About 25 Malay women and men at a time managed the exhibit. In the bungalow was a royal bed, an eating throne and a loom for weaving sarongs, alongside a collection of krises, agricultural tools, game objects, timekeeping devices and coins, Chinese “curios”, Johor woods, animal hides, and stuffed birds. There were also photographs of Johor landscapes specially produced by the famous Singapore studio, G.R. Lambert & Co.[^23]
 
