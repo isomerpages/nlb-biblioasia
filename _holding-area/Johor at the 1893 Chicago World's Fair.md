@@ -29,6 +29,11 @@ During the 19th century, Johor was transformed from a traditional Malay polity i
 
 Inheriting the large territory of Johor in 1862, Abu Bakar expanded its Teochew plantation economy and created a bureaucratic government to manage its revenues. He modelled the capital Johor Bahru after European cities and adopted English tastes and habits. A friend of Queen Victoria and regular visitor to European capitals, Abu Bakar cultivated the image of an enlightened Eastern ruler.
 
+![](/images/Vol%2018%20Issue%203/5%20copy.jpg)
+<div style="background-color: white;"> The Johor bungalow in Midway Plaisance, 1893. <i>Image reproduced from C.D. Arnold and H.D. Higinbotham, Official Views of The World’s Columbian Exposition (Chicago: Press Chicago Photo-Gravure Co., 1893). Project Gutenberg.
+</i>
+</div>
+
 The sultan was among the prominent non-European leaders of the time who travelled to form strategic international connections and gain prestige; others included King Kalakaua of Hawai‘i  and King Chulalongkorn of Siam (now Thailand). Their tours sought to prove that the land they held sway over were – contrary to European beliefs – cultured and progressive, and therefore fit to govern themselves. 
 
 So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair afirmed its stature. 
