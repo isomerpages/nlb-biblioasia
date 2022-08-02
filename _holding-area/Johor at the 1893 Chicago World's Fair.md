@@ -126,9 +126,10 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">I wish to thank Martyn Low and Marcus Ng for pointing me to some important archival material, and Yu-Mei Balasingamchow for comments on the draft.</span>
 
+
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Benjamin%20J%20Q%20Khoo.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Faris_Joraimi.jpg" style="width: 100px; height: 100px;"/>
 	<b>Faris Joraimi</b> is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022). As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. Faris graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
 
 #### **NOTES**
