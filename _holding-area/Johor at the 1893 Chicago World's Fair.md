@@ -60,7 +60,7 @@ A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: 
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
 
-![](/images/Vol%2018%20Issue%203/johore-bg_edit%20copy.jpg)
+![](/images/Vol%2018%20Issue%203/Johor%201893/johore-bg_edit%20copy.jpg)
 <div style="background-color: white;"> A bird’s-eye view of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress, Geography and Map Division.</i>
 </div>
 
