@@ -182,7 +182,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^23]:“[Pictures of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930307-1.2.4),” *Singapore Free Press*, 7 March 1893, 2. (From NewspaperSG)
 
-[^24]:“Johore Tea,” *Straits Times Weekly Issue*, 25 January 1893, 7. (From NewspaperSG)
+[^24]:“[Johore Tea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18930125-1.2.34),” *Straits Times Weekly Issue*, 25 January 1893, 7. (From NewspaperSG)
 
 [^25]:*The Official Directory of the World’s Columbian Exposition* (Chicago: W.B. Conkey, 1893), 70, https://archive.org/details/officialdirector00worl.
 
