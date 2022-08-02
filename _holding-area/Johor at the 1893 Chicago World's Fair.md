@@ -172,7 +172,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^18]:“[On the Average Man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930314-1.2.4),” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG))
 
-[^19]:“Rajah Rahman.” 
+[^19]:“[Rajah Rahman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930527-1.2.13).” 
 
 [^20]:World’s Columbian Exposition and Frederic Ward Putnam, *Official Catalogue of Exhibits on the Midway Plaisance* (Chicago: W.B. Conkey, 1893), 6, https://scholarship.rice.edu/jsp/xml/1911/22074/1/aa00144.tei.html.
 
