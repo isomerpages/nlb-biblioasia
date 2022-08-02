@@ -80,7 +80,7 @@ Newspapers also mentioned a “permanent exhibit” in the Agricultural Building
 
 On 1 May 1893, the fair opened in a formal ceremony. Abdul Rahman represented Johor, “a noticeable figure, dressed in black with a purple apron tied about him, and with an Oriental wealth of insignia across his broad expanse of shirt front”.[^25] The man was undoubtedly in Malay dress, the “apron” being his *samping* (hip-wrapper). All the fanfare, though, belied the twists and turns of an underhanded scheme by Rounsevelle Wildman to take advantage of the ambitious Johoreans. 
 
-![](/images/Vol%2018%20Issue%203/Abdul_Rahman.png)
+![](/images/Vol%2018%20Issue%203/Johor%201893/Abdul_Rahman.png)
 <div style="background-color: white;"> Abdul Rahman Andak, the Dato Seri Amar Diraja of Johor. <i>Image reproduced from Ahmad Fawzi Basri and Hasrom Haron, Sejarah Johor Moden, 1855–1940: Satu Perbincangan Dari Pelbagai Aspek (Kuala Lumpur: Muzium Negara, 1978). (From National Library, Singapore, call no. Malay R959.5142 FAW).</i>
 </div>
 
