@@ -162,7 +162,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^13]: “[Wednesday, 22nd February](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18930228-1.2.10),” *Straits Times Weekly Issue*, 28 February 1893, 2. (From NewspaperSG)
 
-[^14]: “Rajah Rahman.”
+[^14]: “[Rajah Rahman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930527-1.2.13).”
 
 [^15]:“Correspondence,” *Singapore Free Press*, 7 March 1893, 2. (From NewspaperSG)
 
