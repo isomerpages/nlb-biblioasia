@@ -168,7 +168,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^16]:“Clippings,” *Sioux County Journal*, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/2018270201/1892-12-22/ed-1/seq-2/; *Indian Chieftain*, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83025010/1892-12-22/ed-1/seq-1/; *Barton County Democrat*, 22 December 1892, https://chroniclingamerica.loc.gov/lccn/sn83040198/1892-12-22/ed-1/seq-2/; “Sultan of Johore Coming,” *Philipsburg Mail*, 8 June 1893, 7, https://chroniclingamerica.loc.gov/lccn/sn83025320/1893-06-08/ed-1/seq-7/.
 
-[^17]:“Correspondence.” 
+[^17]:“[Correspondence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930307-1.2.3).” 
 
 [^18]:“On the Average Man,” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG))
 
