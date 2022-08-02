@@ -190,7 +190,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^27]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).” 
 
-[^28]:“True Tale of Johore.”
+[^28]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).”
 
 [^29]:Paul Greenhalgh, *Fair World: A History of World’s Fairs and Expositions, from London to Shanghai 1851–2010* (Winterbourne: Papadakis, 2011), 128. (From National Library, Singapore, call no. R907.4 GRE)
 
