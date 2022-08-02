@@ -138,7 +138,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^1]: Johor’s borders had been cemented in the 1855 Anglo-Johor Treaty. Its sovereignty was legally established in a case involving Sultan Abu Bakar and Englishwoman Jenny Mighell, who sued him for breaching a marriage contract, but lost because the Foreign Office recognised Abu Bakar as a “foreign ruler” and therefore fell outside the jurisdiction of British courts. The Johor Constitution, or *Undang-undang Tubuh Kerajaan Johor*, was introduced in 1895.
 
-[^2]: “Summary of Home News,” *Straits Independent and Penang Chronicle*, 13 August 1890, 4. (From NewspaperSG)
+[^2]: “[Summary of Home News](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsindependent18900813-1.2.11),” *Straits Independent and Penang Chronicle*, 13 August 1890, 4. (From NewspaperSG)
 
 [^3]: Rounsevelle Wildman, *Tales of the Malayan Coast: From Penang to the Philippines* (Boston: Pothrop Pub., c.1899). (From National Library, Singapore, call no. RRARE 398.2 WIL)
 
