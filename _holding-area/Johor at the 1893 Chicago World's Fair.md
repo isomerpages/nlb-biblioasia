@@ -60,6 +60,10 @@ A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: 
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
 
+![](/images/Vol%2018%20Issue%203/johore-bg_edit%20copy.jpg)
+<div style="background-color: white;"> A bird’s-eye view of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress, Geography and Map Division.</i>
+</div>
+
 The American press was busy milling tall tales about Abu Bakar as an extravagant Asiatic despot. Plenty were perpetuated by Wildman himself, who had become Johor’s spokesman. He painted for American readers a fantastic Johor worth “$10,000,000 diamonds” and other luxuries in the New York magazine, *Harper’s Weekly*.[^15] This line was repeated by newspapers across the country.[^16]
 
 One letter to the *Singapore Free Press* mocked the depictions as “bunkum”,[^17] and Abu Bakar was so annoyed by the “ridiculous” statements that he threatened to cancel his visit to the US.[^18] The Singapore newspapers pulled no punches. The *New York Herald* may be a top US paper, “but its geographical knowledge is slender”, noted the *Free Press*.[^19] Clearly, the US’ knowledge of the world had not caught up with its status as a rising power in the Pacific.
