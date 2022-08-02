@@ -6,7 +6,7 @@ description: ""
 #### The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 By Faris Joraimi
 
-![](/images/Vol%2018%20Issue%203/johor_cover.jpg)
+![](/images/Vol%2018%20Issue%203/Johor%201893/johor_cover.jpg)
 <div style="background-color: white;"> Visitors at the great reflecting pool of the White City, the heart of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress.</i>
 </div>
 
