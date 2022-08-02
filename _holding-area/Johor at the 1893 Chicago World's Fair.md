@@ -188,7 +188,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^26]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58),” *Singapore Free Press*, 19 September 1893, 190. (From NewspaperSG)
 
-[^27]:“True Tale of Johore.” 
+[^27]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).” 
 
 [^28]:“True Tale of Johore.”
 
