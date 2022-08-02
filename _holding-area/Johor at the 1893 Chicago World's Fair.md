@@ -208,7 +208,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^36]:“[True Tale of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930919-1.2.58).” 
 
-[^37]:“Johore at the World’s Fair,” *Straits Times Weekly Issue*, 17 October 1893, 11. (From NewspaperSG)
+[^37]:“[Johore at the World’s Fair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931017-1.2.83),” *Straits Times Weekly Issue*, 17 October 1893, 11. (From NewspaperSG)
 
 [^38]:“The Sultan of Johore,” *Singapore Free Press*, 26 September 1893, 201. (From NewspaperSG)
 
