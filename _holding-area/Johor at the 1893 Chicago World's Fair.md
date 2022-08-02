@@ -198,7 +198,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^31]:Julian Hawthorne, “Foreign Folk at the Fair,” *Cosmopolitan* 15, September 1893, https://babel.hathitrust.org/cgi/pt?id=mdp.39015009215891.
 
-[^32]:Melissa Rinehart, “To Hell with the Wigs! Native American Representation and Resistance at the World’s Columbian Exposition”, *American Indian Quarterly* 36, no. 4 (2012): 403. (From JSTOR via NLB’s eResources website)
+[^32]:Melissa Rinehart, “To Hell with the Wigs! Native American Representation and Resistance at the World’s Columbian Exposition”, *American Indian Quarterly* 36, no. 4 (2012): 403. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^33]:Kimberly Kutz Elliott, “The World’s Columbian Exposition: The White City and Fairgrounds,” Smarthistory, 9 July 2021, https://smarthistory.org/white-city-and-fairgrounds/.
 
