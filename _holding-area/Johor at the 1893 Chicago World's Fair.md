@@ -129,7 +129,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Benjamin%20J%20Q%20Khoo.png" style="width: 100px; height: 100px;"/>
-	<b>Benjamin J.Q. Khoo</b> is a Research Officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. Studying the histories of the early modern world, his research focuses on networks of knowledge and diplomatic encounters in Asia.</div>
+	<b>Faris Joraimi</b> is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022). As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. Faris graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
 
 #### **NOTES**
 
