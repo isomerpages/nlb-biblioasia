@@ -22,6 +22,11 @@ One of the most impressive world’s fairs was the World’s Columbian Expositio
 
 During the 19th century, Johor was transformed from a traditional Malay polity into a modern state by Abu Bakar (1833–95), the sultan and a dynamic reformer. His grandfather, Temenggung Abdul Rahman, was the Malay lord who facilitated Stamford Raffles’ fateful meeting with Tengku Hussein in 1819, leading to the establishment of a trading post in Singapore. 
 
+![](/images/Vol%2018%20Issue%203/6%20copy.jpg)
+<div style="background-color: white;"> Sultan Abu Bakar of Johor. Portrait by Alexander Bassano, 1886. <i>Courtesy of the Royal Collection Trust/© Her Majesty Queen Elizabeth II 2022.
+</i>
+</div>
+
 Inheriting the large territory of Johor in 1862, Abu Bakar expanded its Teochew plantation economy and created a bureaucratic government to manage its revenues. He modelled the capital Johor Bahru after European cities and adopted English tastes and habits. A friend of Queen Victoria and regular visitor to European capitals, Abu Bakar cultivated the image of an enlightened Eastern ruler.
 
 The sultan was among the prominent non-European leaders of the time who travelled to form strategic international connections and gain prestige; others included King Kalakaua of Hawai‘i  and King Chulalongkorn of Siam (now Thailand). Their tours sought to prove that the land they held sway over were – contrary to European beliefs – cultured and progressive, and therefore fit to govern themselves. 
@@ -45,11 +50,6 @@ A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: 
 #### **From Johor to Chicago**
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
-
-![](/images/Vol%2018%20Issue%203/6%20copy.jpg)
-<div style="background-color: white;"> Sultan Abu Bakar of Johor. Portrait by Alexander Bassano, 1886. <i>Courtesy of the Royal Collection Trust/© Her Majesty Queen Elizabeth II 2022.
-</i>
-</div>
 
 The American press was busy milling tall tales about Abu Bakar as an extravagant Asiatic despot. Plenty were perpetuated by Wildman himself, who had become Johor’s spokesman. He painted for American readers a fantastic Johor worth “$10,000,000 diamonds” and other luxuries in the New York magazine, *Harper’s Weekly*.[^15] This line was repeated by newspapers across the country.[^16]
 
