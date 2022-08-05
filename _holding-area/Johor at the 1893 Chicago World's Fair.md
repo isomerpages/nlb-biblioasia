@@ -178,7 +178,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^21]:Hermann Heinze, *Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A. 1893*, 1892, map, 57 cm × 63 cm, https://www.loc.gov/resource/g4104c.ct002834/?r=-0.935,-0.018,2.871,1.084,0.
 
-[^22]:*Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A 1893*.
+[^22]:*Souvenir Map of the World’s Columbian Exposition at Jackson Park and Midway Plaisance, Chicago, Ill, U.S.A. 1893*.
 
 [^23]:“[Pictures of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930307-1.2.4),” *Singapore Free Press*, 7 March 1893, 2. (From NewspaperSG)
 
