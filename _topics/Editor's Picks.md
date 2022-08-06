@@ -18,7 +18,6 @@ National Day parades have been a ubiquitous part of Singapore’s National Day c
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang" >A History of The Padang</a>
-
 Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
 <img style="width:100%;" src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png"> 
