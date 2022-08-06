@@ -4,6 +4,12 @@ permalink: /editors-picks
 description: ""
 ---
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani" >So, What Is a Singaporean?</a>
+
+Ethnic harmony is an important part of Singapore's national identity, says Kishore Mahbubani.
+
+<img style="width:100%;" src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg"> 
+<hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades" >Parades, Flags and Rallies: Celebrating Singapore’s National Day</a>
@@ -42,8 +48,4 @@ The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyda
 <img style="width:100%;" src="/images/vol-17-issue-4/movies-beneath/jurong_drive-in_bg.png"> 
 <hr> 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/" >Revulsion and Reverence: Crocodiles in Singapore </a>
-Crocodiles elicit fear and respect by turns – and occasionally, even indifference. Kate Pocklington and Siddharta Perez document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.
-
-![](/images/vol-14-issue-2/revulsion-and-reverence/croc1.jpg)
-<hr>
+ 
