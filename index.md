@@ -20,7 +20,7 @@ sections:
       subtitle: National day
       description: Ethnic harmony is an important part of Singapore's national
         identity, says Kishore Mahbubani.
-      button: a national identity
+      button: what makes a national identity
       url: /vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani
       image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
       alt: singaporean national identity
