@@ -16,6 +16,15 @@ sections:
           description: Celebrating Singapore’s National Day
           url: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades
   - infopic:
+      title: So, What Is a Singaporean?
+      subtitle: National day
+      description: Ethnic harmony is an important part of Singapore's national
+        identity, says Kishore Mahbubani.
+      button: a national identity
+      url: /vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani
+      image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
+      alt: singaporean national identity
+  - infopic:
       title: Red Terror
       subtitle: war
       description: The 1970s saw communist bombings, assassination plots and covert
