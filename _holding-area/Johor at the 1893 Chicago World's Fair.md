@@ -107,7 +107,7 @@ The fair’s organisers also excluded Black Americans from the main exhibits and
 
 Without a place in the main section, a furious Abdul Rahman planned to leave the exhibit’s materials with the US government and return home. Then Honduras unexpectedly withdrew from its slot in the Agricultural Building just a few days before the opening.[^34] With the space available, Johor now had a permanent exhibit all to itself. However, Wildman had transferred rights to the Johor exhibit to the Oceanic Trading Company, whose representatives asked Abdul Rahman to hand over the materials. He defied them and wrote to Wildman demanding an explanation. 
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/3%20copy.jpg)
+![](/images/Vol%2018%20Issue%203/Johor%201893/3_edited.jpg)
 <div style="background-color: white;"> Map of the Agricultural Building. Johor’s exhibit is on the lower right, between Japan and Argentina. <i>Image reproduced from Plans and Diagrams of All Exhibit Buildings in the World’s Columbian Exposition Compiled from the Official Catalogues Showing the Location of Exhibits (Chicago: W.B. Conkey, 1893).</i>
 </div>
 
