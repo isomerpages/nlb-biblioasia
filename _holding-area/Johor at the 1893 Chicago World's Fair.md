@@ -53,6 +53,11 @@ Arriving in New York in January 1893, Wildman continued building public anticipa
 
 A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: Harry Lake, an English engineer who was also Abu Bakar’s secretary, as well as Abdul Rahman Andak, one of Johor’s most influential statesmen.[^12] Confident, eloquent in English and a shrewd negotiator, Abdul Rahman was not popular with Singapore’s British governors, who were uncomfortable with Johor’s autonomy. He was just the man for this intricate mission.
 
+
+![](/images/Vol%2018%20Issue%203/Johor%201893/Abdul_Rahman.png)
+<div style="background-color: white;"> Abdul Rahman Andak, the Dato Seri Amar Diraja of Johor. <i>Image reproduced from Ahmad Fawzi Basri and Hasrom Haron, Sejarah Johor Moden, 1855–1940: Satu Perbincangan Dari Pelbagai Aspek (Kuala Lumpur: Muzium Negara, 1978). (From National Library, Singapore, call no. Malay R959.5142 FAW).</i>
+</div>
+
 #### **From Johor to Chicago**
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
@@ -82,9 +87,6 @@ Newspapers also mentioned a “permanent exhibit” in the Agricultural Building
 
 On 1 May 1893, the fair opened in a formal ceremony. Abdul Rahman represented Johor, “a noticeable figure, dressed in black with a purple apron tied about him, and with an Oriental wealth of insignia across his broad expanse of shirt front”.[^25] The man was undoubtedly in Malay dress, the “apron” being his *samping* (hip-wrapper). All the fanfare, though, belied the twists and turns of an underhanded scheme by Rounsevelle Wildman to take advantage of the ambitious Johoreans. 
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/Abdul_Rahman.png)
-<div style="background-color: white;"> Abdul Rahman Andak, the Dato Seri Amar Diraja of Johor. <i>Image reproduced from Ahmad Fawzi Basri and Hasrom Haron, Sejarah Johor Moden, 1855–1940: Satu Perbincangan Dari Pelbagai Aspek (Kuala Lumpur: Muzium Negara, 1978). (From National Library, Singapore, call no. Malay R959.5142 FAW).</i>
-</div>
 
 #### **Rounsevelle Wildman’s Scheme**
 
