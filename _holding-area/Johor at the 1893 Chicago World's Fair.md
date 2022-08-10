@@ -20,6 +20,10 @@ These world’s fairs had theatrical scale and encyclopaedic scope. The 1851 Gre
 
 One of the most impressive world’s fairs was the World’s Columbian Exposition in Chicago in 1893, which featured a little Southeast Asian state that few in the West had heard of: Johor. Encountering this story through fragmentary blog posts and cursory mentions in academic studies, I decided to dig deeper. How did Johor – which Singaporeans today know little about besides being a place for cheap fuel and groceries – end up on this international stage when few other Asian states did? As it turns out, the obscure episode embodied the contradictions of the late 19th century, its dream of progress built on nightmarish exploitation. It exemplified minor players using colonial media like the world’s fairs to manoeuvre and survive as the threat of European conquest closed in.
 
+![](/images/Vol%2018%20Issue%203/Johor%201893/johore-bg_edit%20copy.jpg)
+<div style="background-color: white;"> A bird’s-eye view of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress, Geography and Map Division.</i>
+</div>
+
 #### **Dramatis Personae**
 
 During the 19th century, Johor was transformed from a traditional Malay polity into a modern state by Abu Bakar (1833–95), the sultan and a dynamic reformer. His grandfather, Temenggung Abdul Rahman, was the Malay lord who facilitated Stamford Raffles’ fateful meeting with Tengku Hussein in 1819, leading to the establishment of a trading post in Singapore. 
@@ -60,10 +64,6 @@ A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: 
 #### **From Johor to Chicago**
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
-
-![](/images/Vol%2018%20Issue%203/Johor%201893/johore-bg_edit%20copy.jpg)
-<div style="background-color: white;"> A bird’s-eye view of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress, Geography and Map Division.</i>
-</div>
 
 The American press was busy milling tall tales about Abu Bakar as an extravagant Asiatic despot. Plenty were perpetuated by Wildman himself, who had become Johor’s spokesman. He painted for American readers a fantastic Johor worth “$10,000,000 diamonds” and other luxuries in the New York magazine, *Harper’s Weekly*.[^15] This line was repeated by newspapers across the country.[^16]
 
