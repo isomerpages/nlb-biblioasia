@@ -53,7 +53,6 @@ Arriving in New York in January 1893, Wildman continued building public anticipa
 
 A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: Harry Lake, an English engineer who was also Abu Bakar’s secretary, as well as Abdul Rahman Andak, one of Johor’s most influential statesmen.[^12] Confident, eloquent in English and a shrewd negotiator, Abdul Rahman was not popular with Singapore’s British governors, who were uncomfortable with Johor’s autonomy. He was just the man for this intricate mission.
 
-
 ![](/images/Vol%2018%20Issue%203/Johor%201893/Abdul_Rahman.png)
 <div style="background-color: white;"> Abdul Rahman Andak, the Dato Seri Amar Diraja of Johor. <i>Image reproduced from Ahmad Fawzi Basri and Hasrom Haron, Sejarah Johor Moden, 1855–1940: Satu Perbincangan Dari Pelbagai Aspek (Kuala Lumpur: Muzium Negara, 1978). (From National Library, Singapore, call no. Malay R959.5142 FAW).</i>
 </div>
