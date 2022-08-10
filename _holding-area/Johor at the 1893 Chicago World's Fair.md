@@ -31,11 +31,6 @@ During the 19th century, Johor was transformed from a traditional Malay polity i
 
 Inheriting the large territory of Johor in 1862, Abu Bakar expanded its Teochew plantation economy and created a bureaucratic government to manage its revenues. He modelled the capital Johor Bahru after European cities and adopted English tastes and habits. A friend of Queen Victoria and regular visitor to European capitals, Abu Bakar cultivated the image of an enlightened Eastern ruler.
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/5%20copy.jpg)
-<div style="background-color: white;"> The Johor bungalow in Midway Plaisance, 1893. <i>Image reproduced from C.D. Arnold and H.D. Higinbotham, Official Views of The World’s Columbian Exposition (Chicago: Press Chicago Photo-Gravure Co., 1893). Project Gutenberg.
-</i>
-</div>
-
 The sultan was among the prominent non-European leaders of the time who travelled to form strategic international connections and gain prestige; others included King Kalakaua of Hawai‘i  and King Chulalongkorn of Siam (now Thailand). Their tours sought to prove that the land they held sway over were – contrary to European beliefs – cultured and progressive, and therefore fit to govern themselves. 
 
 So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair afirmed its stature. 
@@ -77,6 +72,11 @@ A network of canals connected the pool to lagoons and ponds in the north, where 
 An official catalogue of the fair lists Johor under “No. 12, Oceanic Trading Company” located in “Midway Plaisance”, a long field just outside the main exhibition.[^20] Johor shared the exhibit space jointly with Samoa, Fiji and Hawai‘i. On the souvenir map, No. 12 is mislabelled as “Dutch Settlement”.[^21]
 
 Johor’s village included a main bungalow and attap-roofed booths selling Johor-grown tea, pineapple juice (“the national drink”) plus Malay and Chinese trinkets.[^22] About 25 Malay women and men at a time managed the exhibit. In the bungalow was a royal bed, an eating throne and a loom for weaving sarongs, alongside a collection of krises, agricultural tools, game objects, timekeeping devices and coins, Chinese “curios”, Johor woods, animal hides, and stuffed birds. There were also photographs of Johor landscapes specially produced by the famous Singapore studio, G.R. Lambert & Co.[^23]
+
+![](/images/Vol%2018%20Issue%203/Johor%201893/5%20copy.jpg)
+<div style="background-color: white;"> The Johor bungalow in Midway Plaisance, 1893. <i>Image reproduced from C.D. Arnold and H.D. Higinbotham, Official Views of The World’s Columbian Exposition (Chicago: Press Chicago Photo-Gravure Co., 1893). Project Gutenberg.
+</i>
+</div>
 
 Newspapers also mentioned a “permanent exhibit” in the Agricultural Building which was not part of the original plan. That exhibit was dedicated to Johor’s tea culture, then centred on an 800-acre estate by the Skudai River growing the Assam hybrid.[^24] Planting had begun in 1882 and Johor was trying to promote tea as the next big cash-crop after demand for its chief exports, gambier and pepper, had declined.
 
