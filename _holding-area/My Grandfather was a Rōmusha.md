@@ -134,6 +134,9 @@ Like many of his generation who had experienced the war in a very personal way, 
 
 In spite of what he went through and maybe because of it, Bapak was a very steady, patient man. He never got angry, never shouted. There was always such a quiet strength about him and he was always ready to help anyone who needed him, be it family, friend, colleague or stranger.
 
+![](/images/Vol%2018%20Issue%203/Romusha/12_Bapakmedals.jpg)
+<div style="background-color: white;">The medals awarded to Kosman Hassan for his part in the war. <i>Photo courtesy of Shirlene Noordin.</i></div>
+
 He had such a strong belief in community, in the kindness of people and in humanity. From the early years of Singapore’s independence until his death in 1992, Bapak was an active grassroots member at the Siglap Community Centre. For his community service, he received the Grand Award for Community Service medal. Bapak had witnessed the best and worst of humankind on the Death Railway. But rather than choosing to hate, he chose to forgive. We were lucky to have gotten him back alive; many other families in Malaya, Java, Sumatra and Burma where the Rōmushas had been recruited from were not so lucky. 
 
 In June 1992, Bapak and Mak were in Kuala Lumpur to visit Uncle Ally and his family when he fell seriously ill. Despite the gravity of his illness, Bapak insisted on being driven back home. His last wish was to spend his final days in Singapore. On 1 July, not long after returning to Singapore, Bapak passed away at the Singapore General Hospital with me and my cousin Alfie by his side. 
