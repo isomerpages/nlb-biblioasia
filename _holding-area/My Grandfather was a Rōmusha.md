@@ -159,7 +159,7 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 [^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway. 
 
-[^2]: Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” International Review of Social History 61, no. 4 (2016): 169. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+[^2]: Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” *International Review of Social History* 61, no. 4 (2016): 169. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^3]: Robert Hardie, The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945 (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
 
