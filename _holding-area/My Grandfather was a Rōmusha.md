@@ -121,4 +121,11 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 #### **NOTES**
 
-[^1]: Johor’s borders had been cemented in the 1855 Anglo-Johor Treaty. Its sovereignty was legally established in a case involving Sultan Abu Bakar and Englishwoman Jenny Mighell, who sued him for breaching a marriage contract, but lost because the Foreign Office recognised Abu Bakar as a “foreign ruler” and therefore fell outside the jurisdiction of British courts. The Johor Constitution, or *Undang-undang Tubuh Kerajaan Johor*, was introduced in 1895.
+[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway. 
+
+[^2]: Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” International Review of Social History 61, no. 4 (2016): 169. (From JSTOR via NLB’s eResources website)
+
+[^3]: Robert Hardie, The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945 (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
+Eric Lomax, The Railway Man (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
+Communication with Jonathan Moffat.
+Jonathan Moffat, “Obituary for Richard Middleton Smith MC 1914-2011,” The Times, 29 February 2012, https://www.thetimes.co.uk/article/richard-middleton-smith-st8nwb0kdkh.
