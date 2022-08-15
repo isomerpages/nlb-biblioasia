@@ -128,6 +128,7 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 [^3]: Robert Hardie, The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945 (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
 
 [^4]: Eric Lomax, The Railway Man (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
-Communication with Jonathan Moffat.
 
-[^5]: Jonathan Moffat, “Obituary for Richard Middleton Smith MC 1914-2011,” The Times, 29 February 2012, https://www.thetimes.co.uk/article/richard-middleton-smith-st8nwb0kdkh.
+[^5]: Communication with Jonathan Moffat.
+
+[^6]: Jonathan Moffat, “Obituary for Richard Middleton Smith MC 1914-2011,” The Times, 29 February 2012, https://www.thetimes.co.uk/article/richard-middleton-smith-st8nwb0kdkh.
