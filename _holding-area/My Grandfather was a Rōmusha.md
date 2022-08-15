@@ -163,7 +163,7 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 [^3]: Robert Hardie, [*The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3076628) (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
 
-[^4]: Eric Lomax, The Railway Man (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
+[^4]: Eric Lomax, [*The Railway Man*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7494542) (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
 
 [^5]: Communication with Jonathan Moffat.
 
