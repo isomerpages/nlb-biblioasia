@@ -55,6 +55,9 @@ I didn’t think to ask more questions when my grandfather was alive. I was too 
 
 Bapak was born on 8 November 1914 in Singapore. His father Hassan and his father’s brother Majid sailed to Malaya from a village near the town of Pekalongan in Central Java, long known for its batik production and trade. 
 
+![](/images/Vol%2018%20Issue%203/Romusha/5_familyhome.jpg)
+<div style="background-color: white;">The writer’s grandfather Kosman Hassan. Photo taken in the 1950s. <i>Photo courtesy of Shirlene Noordin.</i></div>
+
 My great-grandfather, Hassan, eventually travelled south to Singapore, while Majid settled in Kuala Lumpur. In Singapore, Hassan ended up in the Kampong Jawa area and married a Javanese lady living there. My great-grandfather passed away when Bapak was only a young boy and his mother remarried. Bapak grew up in the Kampong Jawa area. He must have gone to a Malay school in Singapore as he was able to read and write in Malay, and could even speak and read English. As a young adult, he worked as a car mechanic. 
 
 Bapak married my grandmother, Rokiah Rais, whom I called Mak, just before the war. She was the sister of his friend who was also a mechanic. Bapak was her second husband. From her first husband, she had five children, so upon marrying her, Bapak had an instant family.
