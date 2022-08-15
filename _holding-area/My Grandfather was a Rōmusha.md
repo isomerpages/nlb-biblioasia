@@ -18,7 +18,7 @@ For a while, I thought my grand-father had been a soldier who had gone off to fi
 
 These people were Rōmushas – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
 
-The Death Railway has been immortalised in the movie, The Bridge on the River Kwai, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the Rōmushas received scant attention. Even beyond the film, the history of the Rōmushas is little known and they remain largely invisible in the accounts of the Death Railway.
+The Death Railway has been immortalised in the movie, *The Bridge on the River Kwai*, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the Rōmushas received scant attention. Even beyond the film, the history of the Rōmushas is little known and they remain largely invisible in the accounts of the Death Railway.
 
 In fact, there were many more Rōmushas working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the Rōmushas had perished compared to 16,000 deaths among the POWs.[^1]
 
