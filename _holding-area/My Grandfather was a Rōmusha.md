@@ -67,3 +67,33 @@ I don’t know when exactly my grandfather first set off for Thailand but we kno
 From Singapore, Bapak was put on a northbound train to Thailand. My grandfather later told his sons that the train made a stop in Kuala Lumpur where he met up with his Uncle Majid who lived there. Majid passed him a parcel of food for his onward journey. That was probably the last contact my grandfather had with family until after the war. 
 
 According to one of my uncles, Ghazaly (Ally) Kosman, my grandfather was put to work on engines and locomotives while he was in Thailand. It is possible that my grandfather ended up in Ban Pong, a town and district in Thailand’s western province of Ratchaburi.
+
+In his autobiography The Railway Man, British POW Eric Lomax wrote that there was a camp outside Ban Pong which had a workshop “staffed by Japanese mechanics and engineers”.4 (Lomax’s story of imprisonment, torture and subsequently forgiveness of his torturers was made into a 2013 movie also called The Railway Man starring Nicole Kidman and Colin Firth.)
+
+Bapak never mentioned the location of his camp, but I recall that he talked about the town of Kanchanaburi, 48 km north-west of Ban Pong town. Perhaps he was in one of the camps around Kanchanaburi (also called Kanburi by the POWs). 
+
+My grandfather was good with languages. In addition to Malay and Javanese, he also spoke Hokkien and English. Being conversant in English made it possible for him to communicate with the Japanese soldiers and POWs. He also picked up Japanese and Thai while working on the Thai-Burma Railway. His linguistic skills and his experience as a mechanic undoubtedly shielded him from the worst of what the Death Railway had inflicted on the POWs and Asian labourers.
+
+As a mechanic, Bapak probably did not have to perform the backbreaking manual labour of the other workers who were pickaxing through limestone hills, hauling away heavy debris in baskets, cutting through thick jungle and laying tracks across dangerous ravines and rivers. The further up the line they went, the worse the situation became as the country got wilder, denser and more hilly and where food was even scarcer.
+
+While I speculate that Bapak may have escaped the harshest of work conditions, I can never be sure. What I am certain of, hearing him tell his stories, was that conditions at his camp were extremely rudimentary. He had to fashion a bed out of bamboo, a mere few centimetres off the bare ground. He told us of his encounters with snakes slithering across his body as he slept. 
+
+The meagre diet meant that my grandfather was always hungry. Fortunately, he was allowed to leave the camp occasionally to go to the nearby village where he could get food. Being unpaid, I don’t know how he procured the food but being a sociable and friendly person, my grandfather would have definitely made friends with the local Thais. 
+
+Bapak also spoke about the many diseases such as malaria, cholera and dysentery that ravaged the labourers and POWs. Death among his fellow labourers was rampant. As he was also responsible for burying the dead, he recalled that he was not even able to give proper burials as these were hastily done. He said that he would have liked to give the Muslims among the deceased Rōmushas the proper burial rites, but he was unable to.
+
+The Thai-Burma Railway was finally completed in October 1943 but despite this, the ordeal of the surviving POWs and the Asian labourers was far from over. They were confined in the camps for another two years until the Japanese surrender in 1945. The constant bombings of the railway by the Allied forces required frequent repairs by the POWs and labourers. Bapak was among the labourers who were tasked with felling trees in the jungle for timber to repair tracks and bridges, all while food rations got smaller. 
+
+#### **Return to Singapore**
+
+When the Japanese surrendered in August 1945, the POWs and Rōmushas suddenly found themselves free. While the POWs were able to quickly organise themselves, the Rōmushas, who did not have the same military structures in their camps and did not have any leadership, struggled initially. 
+
+According to a report from 1946 (courtesy of Jonathan Moffat’s research), “approximately 26,000 Malayans remained as labourers, scattered along the length of the railway… Those who survived would have been abandoned by the Japanese and were actually told in many cases, that they could find their own way back to Malaya. They were in a terrible state of malnutrition and disease, and very few were capable of making even the journey to Bangkok”.5 A group of Malayan British POWs, who were former planters and part of the volunteer forces, helped to repatriate the Malayan labourers from Kanchanaburi and Bangkok.
+
+In an obituary for Richard Middleton Smith, a former POW working on the Thai-Burma Railway, we get an insight into the state of the Asian labourers at the end of the war: “In September 1945 in Thailand, as the repatriation of Allied prisoners of war got underway, a small group of Malayan and Straits Settlements Volunteer Force members took the selfless decision to stay behind to locate and repatriate to Malaya the surviving 27,000 Asian labourers… 
+
+“These Volunteers, all of whom spoke Malay and Tamil, considered this task a debt of honour. Among them was Richard Middleton Smith… Formed in two groups, they left Bangkok Railway station on August 28th 1945 to locate the labour camps from Kanchanaburi to 185 Kilo Camp where Richard had ended his time as a POW. 
+
+“He recalled ‘At every camp the labourers seemed overjoyed to see us and meet those of us who could speak to them in their own language. In a number of camps they seemed unaware the war was over. Their first wish was to get back to Malaya and see their relatives’.”6
+
+Bapak was among the Rōmushas who were free but did not know how 
