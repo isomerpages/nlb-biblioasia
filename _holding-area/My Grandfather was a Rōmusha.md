@@ -113,3 +113,12 @@ He had such a strong belief in community, in the kindness of people and in human
 In June 1992, Bapak and Mak were in Kuala Lumpur to visit Uncle Ally and his family when he fell seriously ill. Despite the gravity of his illness, Bapak insisted on being driven back home. His last wish was to spend his final days in Singapore. On 1 July, not long after returning to Singapore, Bapak passed away at the Singapore General Hospital with me and my cousin Alfie by his side. 
 
 It is now exactly 30 years since Bapak’s passing, and reflecting on his life has brought on both tears and smiles as I remember a grandfather who lived life to the fullest, in the best and worst of times.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Faris_Joraimi.jpg" style="width: 100px; height: 100px;"/>
+	<b>Faris Joraimi</b> is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022). As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. Faris graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
+
+#### **NOTES**
+
+[^1]: Johor’s borders had been cemented in the 1855 Anglo-Johor Treaty. Its sovereignty was legally established in a case involving Sultan Abu Bakar and Englishwoman Jenny Mighell, who sued him for breaching a marriage contract, but lost because the Foreign Office recognised Abu Bakar as a “foreign ruler” and therefore fell outside the jurisdiction of British courts. The Johor Constitution, or *Undang-undang Tubuh Kerajaan Johor*, was introduced in 1895.
