@@ -8,7 +8,7 @@ description: During World War II, forced civilian labourers known as Rōmushas
 #### During World War II, forced civilian labourers known as Rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 By Shirlene Noordin
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/johor_cover.jpg)
+![](/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg)
 <div style="background-color: white;"> Visitors at the great reflecting pool of the White City, the heart of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress.</i>
 </div>
 
