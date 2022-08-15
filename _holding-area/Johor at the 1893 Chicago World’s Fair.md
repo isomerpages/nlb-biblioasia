@@ -14,7 +14,7 @@ By Faris Joraimi
 
 My favourite boyhood novel was Jules Verne’s classic, *Around the World in 80 Days*, which captured the scientific wonder of the late-19th century. European conquest of much of the world opened it up to travel by steam and rail, but many Asians were also active participants in that age of acceleration. The growth of the annual Muslim pilgrimage to Mecca, enabled by steamship services, made Singapore a global hub in a modern Islamic network. 
 
-Intellectuals from Cairo to Tokyo urged their societies to join the West in a future limited only by the bounds of Man’s genius and imagination. (Often literally men’s, as women’s contributions were frequently erased.) That ideal was elaborately dramatised in the world’s fairs: spectacles showcasing the latest inventions and gathering humanity’s shared intellectual and artistic advances in one place. 
+Intellectuals from Cairo to Tokyo urged their societies to join the West in a future limited only by the bounds of Man’s genius and imagination. (Often literally men’s, as women’s contributions were frequently overlooked.) That ideal was elaborately dramatised in the world’s fairs: spectacles showcasing the latest inventions and gathering humanity’s shared intellectual and artistic advances in one place. 
 
 These world’s fairs had theatrical scale and encyclopaedic scope. The 1851 Great Exhibition in London – or more marvellously in full, the Great Exhibition of the Works of Industry of All Nations – counted the flushing toilet among its premieres. Electricity and engineering enthralled visitors to the 1889 Universal Exposition in Paris, where they were introduced to phonographs, telephones and the Eiffel Tower.
 
