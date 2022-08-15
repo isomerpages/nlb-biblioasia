@@ -20,9 +20,9 @@ These people were Rōmushas – forced civilian labourers recruited by the Japan
 
 The Death Railway has been immortalised in the movie, The Bridge on the River Kwai, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the Rōmushas received scant attention. Even beyond the film, the history of the Rōmushas is little known and they remain largely invisible in the accounts of the Death Railway.
 
-In fact, there were many more Rōmushas working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the Rōmushas had perished compared to 16,000 deaths among the POWs.1
+In fact, there were many more Rōmushas working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the Rōmushas had perished compared to 16,000 deaths among the POWs.[^1]
 
-Alongside British, Australian, Dutch and some American POWs, these Asian Rōmushas did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.2
+Alongside British, Australian, Dutch and some American POWs, these Asian Rōmushas did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.[^2]
 
 #### **Remembering the Forgotten**
 
@@ -30,7 +30,7 @@ Yet, at the end of the Second World War in Southeast Asia, there appears to be n
 
 In recounting my grandfather’s story of his time on the Thai-Burma Railway, I hope to give a voice, a face and a name to the hundreds of thousands of Rōmushas like him who worked on the railway, for which many paid with their lives. 
 
-Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”3
+Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”[^3]
 
 The Rōmushas themselves do not appear to have left any written accounts. Many of them were recruited from remote villages and plantations and were most likely illiterate. Given the high mortality rate, their personal stories of hardship would have perished along with them.
 
@@ -68,7 +68,7 @@ From Singapore, Bapak was put on a northbound train to Thailand. My grandfather 
 
 According to one of my uncles, Ghazaly (Ally) Kosman, my grandfather was put to work on engines and locomotives while he was in Thailand. It is possible that my grandfather ended up in Ban Pong, a town and district in Thailand’s western province of Ratchaburi.
 
-In his autobiography The Railway Man, British POW Eric Lomax wrote that there was a camp outside Ban Pong which had a workshop “staffed by Japanese mechanics and engineers”.4 (Lomax’s story of imprisonment, torture and subsequently forgiveness of his torturers was made into a 2013 movie also called The Railway Man starring Nicole Kidman and Colin Firth.)
+In his autobiography The Railway Man, British POW Eric Lomax wrote that there was a camp outside Ban Pong which had a workshop “staffed by Japanese mechanics and engineers”.[^4] (Lomax’s story of imprisonment, torture and subsequently forgiveness of his torturers was made into a 2013 movie also called The Railway Man starring Nicole Kidman and Colin Firth.)
 
 Bapak never mentioned the location of his camp, but I recall that he talked about the town of Kanchanaburi, 48 km north-west of Ban Pong town. Perhaps he was in one of the camps around Kanchanaburi (also called Kanburi by the POWs). 
 
