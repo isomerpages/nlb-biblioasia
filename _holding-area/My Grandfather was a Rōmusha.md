@@ -45,7 +45,11 @@ I didn’t think to ask more questions when my grandfather was alive. I was too 
 #### **Early Life**
 
 Bapak was born on 8 November 1914 in Singapore. His father Hassan and his father’s brother Majid sailed to Malaya from a village near the town of Pekalongan in Central Java, long known for its batik production and trade. 
+
 My great-grandfather, Hassan, eventually travelled south to Singapore, while Majid settled in Kuala Lumpur. In Singapore, Hassan ended up in the Kampong Jawa area and married a Javanese lady living there. My great-grandfather passed away when Bapak was only a young boy and his mother remarried. Bapak grew up in the Kampong Jawa area. He must have gone to a Malay school in Singapore as he was able to read and write in Malay, and could even speak and read English. As a young adult, he worked as a car mechanic. 
+
 Bapak married my grandmother, Rokiah Rais, whom I called Mak, just before the war. She was the sister of his friend who was also a mechanic. Bapak was her second husband. From her first husband, she had five children, so upon marrying her, Bapak had an instant family.
+
 Bapak was also a volunteer with the British military. From his collection of medals that I inherited, I was able to trace (with the help of Jonathan Moffat, an archivist for the Malayan Volunteers Group) his service in the Straits Settlements Volunteer Force before the Japanese Occupation. 
-Bapak’s name appears on the roll of Singapore Fortress Company, Malay section, between 1938 and 1940. According to family stories, my grandfather also 
+
+Bapak’s name appears on the roll of Singapore Fortress Company, Malay section, between 1938 and 1940. According to family stories, my grandfather also
