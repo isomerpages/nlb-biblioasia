@@ -30,4 +30,22 @@ Yet, at the end of the Second World War in Southeast Asia, there appears to be n
 
 In recounting my grandfather’s story of his time on the Thai-Burma Railway, I hope to give a voice, a face and a name to the hundreds of thousands of Rōmushas like him who worked on the railway, for which many paid with their lives. 
 
-Several accounts about the Thai-Burma Railway were recorded by the 
+Several accounts about the Thai-Burma Railway were recorded by thePOWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”3
+
+The Rōmushas themselves do not appear to have left any written accounts. Many of them were recruited from remote villages and plantations and were most likely illiterate. Given the high mortality rate, their personal stories of hardship would have perished along with them.
+
+My grandfather, whom I called Bapak, was among those fortunate enough to have survived. What I know of his experience on the railway is from the rare stories he told us, but even then, these were told in a stoic, quiet fashion, without regret, sadness or heroism. It was as if the Death Railway was just an episode he had to go through. 
+
+Bapak never really explained to us, his grandchildren, what had exactly happened to him on the Thai-Burma Railway. He would mention in fleeting conversations that he had worked for the Japanese soldiers in the jungles of Thailand during the war. He spoke about the dense jungles full of mosquitos that brought disease and how hard it was to find food. One of his stories that remains with me to this day is about the kindness of the local Thai population whom he came into contact with, and how they gave him food and taught him local cures for his ailments. 
+
+It was probably through his interactions with the locals that my grandfather learnt Thai, a language he continued to speak long after the war. The local help he received, I believe, was crucial to his survival.
+
+I didn’t think to ask more questions when my grandfather was alive. I was too young then to understand the significance of his experience but looking back I wish I had. 
+
+#### **Early Life**
+
+Bapak was born on 8 November 1914 in Singapore. His father Hassan and his father’s brother Majid sailed to Malaya from a village near the town of Pekalongan in Central Java, long known for its batik production and trade. 
+My great-grandfather, Hassan, eventually travelled south to Singapore, while Majid settled in Kuala Lumpur. In Singapore, Hassan ended up in the Kampong Jawa area and married a Javanese lady living there. My great-grandfather passed away when Bapak was only a young boy and his mother remarried. Bapak grew up in the Kampong Jawa area. He must have gone to a Malay school in Singapore as he was able to read and write in Malay, and could even speak and read English. As a young adult, he worked as a car mechanic. 
+Bapak married my grandmother, Rokiah Rais, whom I called Mak, just before the war. She was the sister of his friend who was also a mechanic. Bapak was her second husband. From her first husband, she had five children, so upon marrying her, Bapak had an instant family.
+Bapak was also a volunteer with the British military. From his collection of medals that I inherited, I was able to trace (with the help of Jonathan Moffat, an archivist for the Malayan Volunteers Group) his service in the Straits Settlements Volunteer Force before the Japanese Occupation. 
+Bapak’s name appears on the roll of Singapore Fortress Company, Malay section, between 1938 and 1940. According to family stories, my grandfather also 
