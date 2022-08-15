@@ -85,6 +85,9 @@ According to one of my uncles, Ghazaly (Ally) Kosman, my grandfather was put to 
 
 In his autobiography *The Railway Man*, British POW Eric Lomax wrote that there was a camp outside Ban Pong which had a workshop “staffed by Japanese mechanics and engineers”.[^4] (Lomax’s story of imprisonment, torture and subsequently forgiveness of his torturers was made into a 2013 movie also called *The Railway Man* starring Nicole Kidman and Colin Firth.)
 
+![](/images/Vol%2018%20Issue%203/Romusha/7_bridge.jpg)
+<div style="background-color: white;">Asian labourers working on a bridge at Ronsi, Burma, along the Thai-Burma Railway, c. 1943. Ronsi is approximately 60 km south of Thanbyuzayat, or 354 km north of Nong Pladuk. <i>Courtesy of the Australian War Memorial, accession no. P00406.036.</i></div>
+
 Bapak never mentioned the location of his camp, but I recall that he talked about the town of Kanchanaburi, 48 km north-west of Ban Pong town. Perhaps he was in one of the camps around Kanchanaburi (also called Kanburi by the POWs). 
 
 My grandfather was good with languages. In addition to Malay and Javanese, he also spoke Hokkien and English. Being conversant in English made it possible for him to communicate with the Japanese soldiers and POWs. He also picked up Japanese and Thai while working on the Thai-Burma Railway. His linguistic skills and his experience as a mechanic undoubtedly shielded him from the worst of what the Death Railway had inflicted on the POWs and Asian labourers.
