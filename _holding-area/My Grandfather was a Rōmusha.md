@@ -153,7 +153,7 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Faris_Joraimi.jpg" style="width: 100px; height: 100px;"/>
-	<b>Faris Joraimi</b> is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022). As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. Faris graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
+	<b>Shirlene Noordin</b> is the founder of Phish Communications, a communications consultancy specialising in arts and culture.</div>
 
 #### **NOTES**
 
