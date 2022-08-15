@@ -161,7 +161,7 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 [^2]: Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” *International Review of Social History* 61, no. 4 (2016): 169. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^3]: Robert Hardie, The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945 (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
+[^3]: Robert Hardie, [*The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3076628), 1942–1945 (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
 
 [^4]: Eric Lomax, The Railway Man (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
 
