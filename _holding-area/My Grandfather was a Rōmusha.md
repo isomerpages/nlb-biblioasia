@@ -9,7 +9,7 @@ description: During World War II, forced civilian labourers known as Rōmushas
 By Shirlene Noordin
 
 ![](/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg)
-<div style="background-color: white;"> Visitors at the great reflecting pool of the White City, the heart of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress.</i>
+<div style="background-color: white;"> The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).
 </div>
 
 Growing up, I used to listen to the adults speak about my grandfather who had gone away during the war. I also heard stories from my grandmother about waiting, day after day, for her husband to return home. 
