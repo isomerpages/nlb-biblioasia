@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - My Grandfather was a Rōmusha.md
       - Johor at the 1893 Chicago World’s Fair.md
       - Test page.md
