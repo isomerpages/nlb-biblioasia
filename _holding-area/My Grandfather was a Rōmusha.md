@@ -150,9 +150,10 @@ In June 1992, Bapak and Mak were in Kuala Lumpur to visit Uncle Ally and his fam
 
 It is now exactly 30 years since Bapak’s passing, and reflecting on his life has brought on both tears and smiles as I remember a grandfather who lived life to the fullest, in the best and worst of times.
 
+
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%203/Authors/Faris_Joraimi.jpg" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;"/>
 	<b>Shirlene Noordin</b> is the founder of Phish Communications, a communications consultancy specialising in arts and culture.</div>
 
 #### **NOTES**
