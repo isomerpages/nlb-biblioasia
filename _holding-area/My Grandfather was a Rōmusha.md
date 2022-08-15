@@ -68,7 +68,7 @@ From Singapore, Bapak was put on a northbound train to Thailand. My grandfather 
 
 According to one of my uncles, Ghazaly (Ally) Kosman, my grandfather was put to work on engines and locomotives while he was in Thailand. It is possible that my grandfather ended up in Ban Pong, a town and district in Thailand’s western province of Ratchaburi.
 
-In his autobiography The Railway Man, British POW Eric Lomax wrote that there was a camp outside Ban Pong which had a workshop “staffed by Japanese mechanics and engineers”.[^4] (Lomax’s story of imprisonment, torture and subsequently forgiveness of his torturers was made into a 2013 movie also called The Railway Man starring Nicole Kidman and Colin Firth.)
+In his autobiography *The Railway Man*, British POW Eric Lomax wrote that there was a camp outside Ban Pong which had a workshop “staffed by Japanese mechanics and engineers”.[^4] (Lomax’s story of imprisonment, torture and subsequently forgiveness of his torturers was made into a 2013 movie also called The Railway Man starring Nicole Kidman and Colin Firth.)
 
 Bapak never mentioned the location of his camp, but I recall that he talked about the town of Kanchanaburi, 48 km north-west of Ban Pong town. Perhaps he was in one of the camps around Kanchanaburi (also called Kanburi by the POWs). 
 
