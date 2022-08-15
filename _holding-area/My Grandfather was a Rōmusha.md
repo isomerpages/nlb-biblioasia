@@ -96,6 +96,10 @@ Bapak never mentioned the location of his camp, but I recall that he talked abou
 
 My grandfather was good with languages. In addition to Malay and Javanese, he also spoke Hokkien and English. Being conversant in English made it possible for him to communicate with the Japanese soldiers and POWs. He also picked up Japanese and Thai while working on the Thai-Burma Railway. His linguistic skills and his experience as a mechanic undoubtedly shielded him from the worst of what the Death Railway had inflicted on the POWs and Asian labourers.
 
+![](/images/Vol%2018%20Issue%203/Romusha/9_buildingbridge.jpg)
+<div style="background-color: white;">Allied prisoners-of-war building a bridge at Ronsi, Burma, along the Thai-Burma Railway, c. 1943. <i>Courtesy of the Australian War Memorial, accession no. P00406.035.
+</i></div>
+
 As a mechanic, Bapak probably did not have to perform the backbreaking manual labour of the other workers who were pickaxing through limestone hills, hauling away heavy debris in baskets, cutting through thick jungle and laying tracks across dangerous ravines and rivers. The further up the line they went, the worse the situation became as the country got wilder, denser and more hilly and where food was even scarcer.
 
 While I speculate that Bapak may have escaped the harshest of work conditions, I can never be sure. What I am certain of, hearing him tell his stories, was that conditions at his camp were extremely rudimentary. He had to fashion a bed out of bamboo, a mere few centimetres off the bare ground. He told us of his encounters with snakes slithering across his body as he slept. 
