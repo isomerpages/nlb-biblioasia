@@ -126,6 +126,9 @@ Bapak was among the Rōmushas who were free but did not know how to get back hom
 
 Bapak returned to Singapore in late 1945 or early 1946. My grandmother recalled how he just appeared at the front door of the family home one day. Despite not receiving any news at all from him from the time he left Singapore in 1942, my grandmother had waited patiently for his return. Perhaps, deep inside her she knew that he was alive and would make his way home to see his first-born child, Asiah Kosman, my mother, whom he had never met. 
 
+![](/images/Vol%2018%20Issue%203/Romusha/10_makand1.jpg)
+<div style="background-color: white;">The writer and her grandmother in the living room of their Sennett Road house, 1974. <i>Photo courtesy of Shirlene Noordin.</i></div>
+
 Remarkably, Bapak continued to volunteer with the British military upon his return. On 6 May 1949, Lance Bombardier K.B. Hassan (Kosman bin Hassan), service no. 49067 of the Singapore Royal Artillery, was awarded the Efficiency Medal for his long service. For his part in the war, he was also presented with other medals: the War Medal 1939–1945, the Pacific Star, 1939–1945 Star and the Defence Medal. 
 
 Following his return to Singapore, Bapak became a driver for the Dutch Lady company delivering milk to households all over Singapore. In the relative calm of the post-war years in Singapore, my grandparents went on to have four more children – three boys, Ally, Latif and Fadilah and another daughter, Rubiah. Bapak continued to work as a driver until after Singapore’s independence. In 1969, he started a drinks stall in the canteen of newly opened Chai Chee Secondary School next to the family home on Sennett Road. 
