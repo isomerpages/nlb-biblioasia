@@ -52,4 +52,18 @@ Bapak married my grandmother, Rokiah Rais, whom I called Mak, just before the wa
 
 Bapak was also a volunteer with the British military. From his collection of medals that I inherited, I was able to trace (with the help of Jonathan Moffat, an archivist for the Malayan Volunteers Group) his service in the Straits Settlements Volunteer Force before the Japanese Occupation. 
 
-Bapak’s name appears on the roll of Singapore Fortress Company, Malay section, between 1938 and 1940. According to family stories, my grandfather also
+Bapak’s name appears on the roll of Singapore Fortress Company, Malay section, between 1938 and 1940. According to family stories, my grandfather also served in the Royal Artillery unit. Before the Fall of Singapore on 15 February 1942, he had been stationed on Pulau Blakang Mati (Sentosa today). (This family account may not be entirely accurate because from my research I found out that pre-1945, the Royal Artillery was an exclusively European unit, making it very unlikely that my grandfather was a part of it before 1945.)
+
+Bapak was 28 at the time when he was sent to Thailand, though he need not have gone at all. We were a family of car mechanics, living on Sennett Road on the east coast of Singapore at the time. My great-granduncle Tok Dick (whose real name was Sadali but was nicknamed Dick by his British customers) and granduncles ran a car workshop business on St Thomas Walk in the River Valley area that serviced the many British families in the vicinity before the Japanese Occupation. 
+
+When the Japanese military started recruiting local men for the construction of the Thai-Burma railway, Tok Dick and one of his mechanics were called up as the Japanese needed experienced mechanics to work on the railway. Bapak volunteered to take Tok Dick’s place. Being younger and fitter, my grandfather probably thought that he was better suited to the job than my great-granduncle who was about 20 years older than my grandfather.
+
+At the time, nobody knew about the conditions that awaited these men; the Japanese said the workers would receive fair wages, and even promised lodging and food. This could not be further from the truth. 
+
+#### **Off to Thailand**
+
+I don’t know when exactly my grandfather first set off for Thailand but we know that construction of the railway got underway in July 1942. When he left Singapore, Mak was pregnant with my mother, their first child. She was born on 17 April 1943 without her father present.
+
+From Singapore, Bapak was put on a northbound train to Thailand. My grandfather later told his sons that the train made a stop in Kuala Lumpur where he met up with his Uncle Majid who lived there. Majid passed him a parcel of food for his onward journey. That was probably the last contact my grandfather had with family until after the war. 
+
+According to one of my uncles, Ghazaly (Ally) Kosman, my grandfather was put to work on engines and locomotives while he was in Thailand. It is possible that my grandfather ended up in Ban Pong, a town and district in Thailand’s western province of Ratchaburi. 
