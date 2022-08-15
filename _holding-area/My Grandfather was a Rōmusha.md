@@ -167,4 +167,4 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 [^5]: Communication with Jonathan Moffat.
 
-[^6]: Jonathan Moffat, “Obituary for Richard Middleton Smith MC 1914-2011,” The Times, 29 February 2012, https://www.thetimes.co.uk/article/richard-middleton-smith-st8nwb0kdkh.
+[^6]: Jonathan Moffat, “Obituary for Richard Middleton Smith MC 1914-2011,” *The Times*, 29 February 2012, https://www.thetimes.co.uk/article/richard-middleton-smith-st8nwb0kdkh.
