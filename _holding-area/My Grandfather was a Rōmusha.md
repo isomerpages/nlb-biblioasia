@@ -38,7 +38,7 @@ In recounting my grandfather’s story of his time on the Thai-Burma Railway, I 
 
 Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”[^3]
 
-![](/images/Vol%2018%20Issue%203/Romusha/8_prisoners.jpg)
+![](/images/Vol%2018%20Issue%203/Romusha/8_prisoners_edit.jpg)
 <div style="background-color: white;">Allied prisoners-of-war in their quarters, which is an open-sided attap hut, 1944. The camp was in Kanchanaburi, which is 55 km north of Nong Pladuk, or 364 km south of Thanbyuzayat. <i>Courtesy of the Australian War Memorial, accession no. P01502.006.
 </i></div>
 
