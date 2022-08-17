@@ -16,6 +16,9 @@ Growing up, I used to listen to the adults speak about my grandfather who had go
 
 For a while, I thought my grandfather had been a soldier who had gone off to fight in the war. Later, I realised that the war he had fought in was not on the battlefields. He was not part of any army and he didn’t carry a weapon. The war he – and so many others like him – fought was set on a treacherous strip of land stretching from Thailand to Burma. Armed with nothing more than shovels and pickaxes, they confronted their enemy: the Imperial Japanese Army and the inhumane conditions the workers were forced to live in.
 
+![](/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg)
+<div style="background-color: white;">The writer’s grandfather Kosman Hassan. Photo taken in the 1950s. <i>Photo courtesy of Shirlene Noordin.</i></div>
+
 These people were Rōmushas – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
 
 The Death Railway has been immortalised in the movie, *The Bridge on the River Kwai*, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the Rōmushas received scant attention. Even beyond the film, the history of the Rōmushas is little known and they remain largely invisible in the accounts of the Death Railway.
@@ -38,9 +41,6 @@ Several accounts about the Thai-Burma Railway were recorded by the POWs of the A
 The Rōmushas themselves do not appear to have left any written accounts. Many of them were recruited from remote villages and plantations and were most likely illiterate. Given the high mortality rate, their personal stories of hardship would have perished along with them.
 
 My grandfather, whom I called Bapak, was among those fortunate enough to have survived. What I know of his experience on the railway is from the rare stories he told us, but even then, these were told in a stoic, quiet fashion, without regret, sadness or heroism. It was as if the Death Railway was just an episode he had to go through. 
-
-![](/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg)
-<div style="background-color: white;">The writer’s grandfather Kosman Hassan. Photo taken in the 1950s. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
 Bapak never really explained to us, his grandchildren, what had exactly happened to him on the Thai-Burma Railway. He would mention in fleeting conversations that he had worked for the Japanese soldiers in the jungles of Thailand during the war. He spoke about the dense jungles full of mosquitos that brought disease and how hard it was to find food. One of his stories that remains with me to this day is about the kindness of the local Thai population whom he came into contact with, and how they gave him food and taught him local cures for his ailments. 
 
