@@ -38,8 +38,8 @@ In recounting my grandfather’s story of his time on the Thai-Burma Railway, I 
 
 Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”[^3]
 
-![](/images/Vol%2018%20Issue%203/Romusha/9_buildingbridge.jpg)
-<div style="background-color: white;">Allied prisoners-of-war building a bridge at Ronsi, Burma, along the Thai-Burma Railway, c. 1943. <i>Courtesy of the Australian War Memorial, accession no. P00406.035.
+![](/images/Vol%2018%20Issue%203/Romusha/8_prisoners.jpg)
+<div style="background-color: white;">Allied prisoners-of-war in their quarters, which is an open-sided attap hut, 1944. The camp was in Kanchanaburi, which is 55 km north of Nong Pladuk, or 364 km south of Thanbyuzayat. <i>Courtesy of the Australian War Memorial, accession no. P01502.006.
 </i></div>
 
 The Rōmushas themselves do not appear to have left any written accounts. Many of them were recruited from remote villages and plantations and were most likely illiterate. Given the high mortality rate, their personal stories of hardship would have perished along with them.
@@ -91,11 +91,11 @@ In his autobiography *The Railway Man*, British POW Eric Lomax wrote that there 
 
 Bapak never mentioned the location of his camp, but I recall that he talked about the town of Kanchanaburi, 48 km north-west of Ban Pong town. Perhaps he was in one of the camps around Kanchanaburi (also called Kanburi by the POWs). 
 
-![](/images/Vol%2018%20Issue%203/Romusha/8_prisoners.jpg)
-<div style="background-color: white;">Allied prisoners-of-war in their quarters, which is an open-sided attap hut, 1944. The camp was in Kanchanaburi, which is 55 km north of Nong Pladuk, or 364 km south of Thanbyuzayat. <i>Courtesy of the Australian War Memorial, accession no. P01502.006.
-</i></div>
-
 My grandfather was good with languages. In addition to Malay and Javanese, he also spoke Hokkien and English. Being conversant in English made it possible for him to communicate with the Japanese soldiers and POWs. He also picked up Japanese and Thai while working on the Thai-Burma Railway. His linguistic skills and his experience as a mechanic undoubtedly shielded him from the worst of what the Death Railway had inflicted on the POWs and Asian labourers.
+
+![](/images/Vol%2018%20Issue%203/Romusha/9_buildingbridge.jpg)
+<div style="background-color: white;">Allied prisoners-of-war building a bridge at Ronsi, Burma, along the Thai-Burma Railway, c. 1943. <i>Courtesy of the Australian War Memorial, accession no. P00406.035.
+</i></div>
 
 As a mechanic, Bapak probably did not have to perform the backbreaking manual labour of the other workers who were pickaxing through limestone hills, hauling away heavy debris in baskets, cutting through thick jungle and laying tracks across dangerous ravines and rivers. The further up the line they went, the worse the situation became as the country got wilder, denser and more hilly and where food was even scarcer.
 
