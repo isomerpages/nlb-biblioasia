@@ -69,7 +69,7 @@ Bapak’s name appears on the roll of Singapore Fortress Company, Malay section,
 Bapak was 28 at the time when he was sent to Thailand, though he need not have gone at all. We were a family of car mechanics, living on Sennett Road on the east coast of Singapore at the time. My great-granduncle Tok Dick (whose real name was Sadali but was nicknamed Dick by his British customers) and granduncles ran a car workshop business on St Thomas Walk in the River Valley area that serviced the many British families in the vicinity before the Japanese Occupation. 
 
 ![](/images/Vol%2018%20Issue%203/Romusha/6_onyang.jpg)
-<div style="background-color: white;">The writer’s great-granduncle Tok Dick (right) ran a car workshop business on St Thomas Walk in the River Valley area. The lady is the writer’s great-grandmother. <i>Photo taken in the 1950s. Photo courtesy of Shirlene Noordin.</i></div>
+<div style="background-color: white;">The writer’s great-granduncle Tok Dick (right) ran a car workshop business on St Thomas Walk in the River Valley area. The lady is the writer’s great-grandmother. Photo taken in the 1950s. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
 When the Japanese military started recruiting local men for the construction of the Thai-Burma railway, Tok Dick and one of his mechanics were called up as the Japanese needed experienced mechanics to work on the railway. Bapak volunteered to take Tok Dick’s place. Being younger and fitter, my grandfather probably thought that he was better suited to the job than my great-granduncle who was about 20 years older than my grandfather.
 
