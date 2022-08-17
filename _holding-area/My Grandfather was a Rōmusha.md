@@ -149,7 +149,7 @@ He had such a strong belief in community, in the kindness of people and in human
 In June 1992, Bapak and Mak were in Kuala Lumpur to visit Uncle Ally and his family when he fell seriously ill. Despite the gravity of his illness, Bapak insisted on being driven back home. His last wish was to spend his final days in Singapore. On 1 July, not long after returning to Singapore, Bapak passed away at the Singapore General Hospital with me and my cousin Alfie by his side. 
 
 ![](/images/Vol%2018%20Issue%203/Romusha/13_graduation.jpg)
-<div style="background-color: white;">The medals awarded to Kosman Hassan for his part in the war. <i>Photo courtesy of Shirlene Noordin.</i></div>
+<div style="background-color: white;">The writer with her grandparents, 1991. She is their first grandchild to graduate from university. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
 It is now exactly 30 years since Bapak’s passing, and reflecting on his life has brought on both tears and smiles as I remember a grandfather who lived life to the fullest, in the best and worst of times.
 
