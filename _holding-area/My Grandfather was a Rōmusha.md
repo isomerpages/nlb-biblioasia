@@ -17,7 +17,7 @@ Growing up, I used to listen to the adults speak about my grandfather who had go
 ![](/images/Vol%2018%20Issue%203/Romusha/2_Bapak_with_me.jpg)
 <div style="background-color: white;">The writer and her grandfather, Kosman Hassan, at the back of the Chai Chee Secondary School canteen on Sennett Road, c. 1971. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
-For a while, I thought my grand-father had been a soldier who had gone off to fight in the war. Later, I realised that the war he had fought in was not on the battlefields. He was not part of any army and he didn’t carry a weapon. The war he – and so many others like him – fought was set on a treacherous strip of land stretching from Thailand to Burma. Armed with nothing more than shovels and pickaxes, they confronted their enemy: the Imperial Japanese Army and the inhumane conditions the workers were forced to live in.
+For a while, I thought my grandfather had been a soldier who had gone off to fight in the war. Later, I realised that the war he had fought in was not on the battlefields. He was not part of any army and he didn’t carry a weapon. The war he – and so many others like him – fought was set on a treacherous strip of land stretching from Thailand to Burma. Armed with nothing more than shovels and pickaxes, they confronted their enemy: the Imperial Japanese Army and the inhumane conditions the workers were forced to live in.
 
 These people were Rōmushas – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
 
