@@ -27,7 +27,7 @@ In fact, there were many more Rōmushas working on the railway than there were P
 
 Alongside British, Australian, Dutch and some American POWs, these Asian Rōmushas did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.[^2]
 
-![](/images/Vol%2018%20Issue%203/Romusha/4_train.jpg)
+![](/images/Vol%2018%20Issue%203/Romusha/4_train_edit.jpg)
 <div style="background-color: white;">Asian labourers sitting on the roof of a truck on a stretch of the Thai-Burma Railway at Wampo approximately 114 km north of Nong Pladuk, 1945. Trucks identical to these were used to transport prisoners-of-war from Singapore to Thailand for the construction of the railway. <i>Courtesy of the Australian War Memorial, accession no. 122303.</i></div>
 
 #### **Remembering the Forgotten**
