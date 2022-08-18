@@ -134,17 +134,17 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^5]: Ignatius Low, Fiona Chan and Gabriel Chan, *Sustaining Stability: Serving Singapore* (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
 
-[^6]: Hon, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust, 5.
+[^6]: Hon, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust*, 5.
 
-[^7]: Low, Chan and Chan, Sustaining Stability, 67.
+[^7]: Low, Chan and Chan, *Sustaining Stability*, 67.
 
-[^8]: Low, Chan and Chan, Sustaining Stability, 67.
+[^8]: Low, Chan and Chan, *Sustaining Stability*, 67.
 
-[^9]: Low, Chan and Chan, Sustaining Stability, 66.
+[^9]: Low, Chan and Chan, *Sustaining Stability*, 66.
 
-[^10]: Clement Liew and Peter Wilson, A History of Money in Singapore (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
+[^10]: Clement Liew and Peter Wilson, *A History of Money in Singapore* (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
 
-[^11]: Paul Wee, “Central Bank ‘in July or August’,” Straits Times, 23 May 1979, 1; Soh Tiang Keng, “Central Bank Plan Put Off: A New Appraisal?,” Straits Times, 25 October 1980, 1. (From NewspaperSG)
+[^11]: Paul Wee, “Central Bank ‘in July or August’,” *Straits Times*, 23 May 1979, 1; Soh Tiang Keng, “Central Bank Plan Put Off: A New Appraisal?,” *Straits Times*, 25 October 1980, 1. (From NewspaperSG)
 
 [^12]: Liew and Wilson, A History of Money in Singapore, 351.
 
