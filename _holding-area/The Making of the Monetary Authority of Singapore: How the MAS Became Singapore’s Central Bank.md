@@ -184,7 +184,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^30]: “[Asian Financial Crisis (1997–1998)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1530_2009-06-09.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 July 2016.
 
-[^31]: Low, Chan and Chan, *Sustaining Stability*, 189.
+[^31]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 189.
 
 [^32]: Low, Chan and Chan, *Sustaining Stability*, 187; Walter Fernandez, “Recession Over But It’s Not Time to Rejoice,” *Straits Times*, 20 May 1999, 1. (From NewspaperSG)
 
