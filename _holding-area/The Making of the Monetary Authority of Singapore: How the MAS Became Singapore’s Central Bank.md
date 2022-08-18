@@ -188,13 +188,13 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^32]: Low, Chan and Chan, *Sustaining Stability*, 187; Walter Fernandez, “Recession Over But It’s Not Time to Rejoice,” *Straits Times*, 20 May 1999, 1. (From NewspaperSG)
 
-[^33]: Low, Chan and Chan, Sustaining Stability, 190.
+[^33]: Low, Chan and Chan, *Sustaining Stability*, 190.
 
-[^34]: “Spore’s Economy in Recession,” Today (2nd Edition), 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, Sustaining Stability, 192–93.
+[^34]: “Spore’s Economy in Recession,” *Today (2nd Edition)*, 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, *Sustaining Stability*, 192–93.
 
-[^35]: Low, Chan and Chan, Sustaining Stability, 193.
+[^35]: Low, Chan and Chan, *Sustaining Stability*, 193.
 
-[^36]: Alvin Foo, “Worst Is Over for Singapore’s Economy,” Straits Times, 17 August 2009, 4. (From NewspaperSG) 
+[^36]: Alvin Foo, “Worst Is Over for Singapore’s Economy,” *Straits Times*, 17 August 2009, 4. (From NewspaperSG) 
 
 [^37]: Lee, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021.”
 
