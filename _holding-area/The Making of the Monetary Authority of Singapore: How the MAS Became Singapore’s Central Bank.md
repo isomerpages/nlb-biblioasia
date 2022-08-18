@@ -132,7 +132,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^4]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Minister for Finance, at the 13th Anniversary Dinner of the Economic Society of Singapore](https://www.nas.gov.sg/archivesonline/speeches/record-details/795cd828-115d-11e3-83d5-0050568939ad),” Dragon Room, Robinson Restaurant, 20 September 1969, transcript, Ministry of Culture. (From National Archives of Singapore, document no. PressR19690920d)
 
-[^5]: Ignatius Low, Fiona Chan and Gabriel Chan, *Sustaining Stability: Serving Singapore* (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
+[^5]: Ignatius Low, Fiona Chan and Gabriel Chan, [*Sustaining Stability: Serving Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112) (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
 
 [^6]: Hon, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust*, 5.
 
