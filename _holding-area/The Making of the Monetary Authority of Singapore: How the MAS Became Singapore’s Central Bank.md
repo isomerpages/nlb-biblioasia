@@ -170,9 +170,9 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^23]: A forward contract is a stock acquisition contract established between two parties for delivery at a predetermined time in the future, at a price agreed upon in the present. It is used for hedging, enabling share owners to reduce price risk by selling their shares forward. This, however, induces share roll-over among multiple parties, including investors, brokers and corporations, as in the Pan-El situation. See Ho, et al., “Case Study on Pan-Electric Crisis,” 9–10.
 
-[^24]: Low, Chan and Chan, Sustaining Stability, 116–17.
+[^24]: Low, Chan and Chan, *Sustaining Stability*, 116–17.
 
-[^25]: L. Beckering, “The Fall of the House of Barings,” Straits Times, 30 July 1995, 4; Chan Sue Meng, “Leeson Saga, and Key Role of 88888 Account,” Straits Times, 24 November 1995, 49; “The Fateful, Frantic Hours That Broke a Bank,” Business Times, 4 March 1995, 3. (From NewspaperSG)
+[^25]: L. Beckering, “The Fall of the House of Barings,” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “Leeson Saga, and Key Role of 88888 Account,” *Straits Times*, 24 November 1995, 49; “The Fateful, Frantic Hours That Broke a Bank,” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
 
 [^26]: Low, Chan and Chan, Sustaining Stability, 165, 186.
 
