@@ -158,7 +158,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^17]: Low, Chan and Chan, *Sustaining Stability*, 70–71; “BCCS Merges with MAS on 1 October,” Monetary Authority of Singapore, 20 September 2002, https://www.mas.gov.sg/news/media-releases/2002/bccs-merges-with-mas-on-1-october--30-september-2002; “Our History,” Monetary Authority of Singapore, last updated 21 April 2022, https://www.mas.gov.sg/who-we-are/Our-History.
 
-[^18]: Low, Chan and Chan, *Sustaining Stability*, 71.
+[^18]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 71.
 
 [^19]: Lee Hsien Loong, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021,” Prime Minister’s Office Singapore, last updated 8 October 2021, https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MAS50-Partners-Appreciation-Evening.
 
