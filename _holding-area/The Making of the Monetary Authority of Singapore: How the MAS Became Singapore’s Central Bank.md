@@ -180,9 +180,9 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^28]: Quak Hiang Whai, “Govt to Tighten Supervision of Futures Trading,” *Business Times*, 2 March 1995, 4; Paul Leo and Siow Li Sen, “Law Tightened to Prevent Another Barings,” *Business Times*, 21 March 1996, 1; Chan Wee Chuan, “Investors Better Protected with Changes to Futures Trading Rules,” *Straits Times*, 8 April 1996, 36. (From NewspaperSG) 
 
-[^29]: Monetary Authority of Singapore, Annual Report (Singapore: The Authority, 1997/1998), 34–35. (From National Library, Singapore, call no. RCLOS 32.495957 MASAR-[AR])
+[^29]: Monetary Authority of Singapore, *Annual Report* (Singapore: The Authority, 1997/1998), 34–35. (From National Library, Singapore, call no. RCLOS 32.495957 MASAR-[AR])
 
-[^30]: “Asian Financial Crisis (1997–1998),” in Singapore Infopedia. National Library Board Singapore. Article published 30 July 2016.
+[^30]: “Asian Financial Crisis (1997–1998),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 July 2016.
 
 [^31]: Low, Chan and Chan, Sustaining Stability, 189.
 
