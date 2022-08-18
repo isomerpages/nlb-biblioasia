@@ -154,7 +154,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^15]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 115.
 
-[^16]: Liew and Wilson,* A History of Money in Singapore*, 352–53.
+[^16]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482), 352–53.
 
 [^17]: Low, Chan and Chan, *Sustaining Stability*, 70–71; “BCCS Merges with MAS on 1 October,” Monetary Authority of Singapore, 20 September 2002, https://www.mas.gov.sg/news/media-releases/2002/bccs-merges-with-mas-on-1-october--30-september-2002; “Our History,” Monetary Authority of Singapore, last updated 21 April 2022, https://www.mas.gov.sg/who-we-are/Our-History.
 
