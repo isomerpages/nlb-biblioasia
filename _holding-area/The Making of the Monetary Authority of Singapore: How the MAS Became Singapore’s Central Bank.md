@@ -126,7 +126,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^1]: “[No Longer De facto Central Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980825-1.2.58.42.5.5),” *Straits Times*, 25 August 1998, 44. (From NewspaperSG)
 
-[^2]: Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders* (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
+[^2]: Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225) (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
 
 [^3]: Hon, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust*, 4.
 
