@@ -174,9 +174,9 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^25]: L. Beckering, “The Fall of the House of Barings,” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “Leeson Saga, and Key Role of 88888 Account,” *Straits Times*, 24 November 1995, 49; “The Fateful, Frantic Hours That Broke a Bank,” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
 
-[^26]: Low, Chan and Chan, Sustaining Stability, 165, 186.
+[^26]: Low, Chan and Chan, *Sustaining Stability*, 165, 186.
 
-[^27]: Low, Chan and Chan, Sustaining Stability, 184.
+[^27]: Low, Chan and Chan, *Sustaining Stability*, 184.
 
 [^28]: Quak Hiang Whai, “Govt to Tighten Supervision of Futures Trading,” Business Times, 2 March 1995, 4; Paul Leo and Siow Li Sen, “Law Tightened to Prevent Another Barings,” Business Times, 21 March 1996, 1; Chan Wee Chuan, “Investors Better Protected with Changes to Futures Trading Rules,” Straits Times, 8 April 1996, 36. (From NewspaperSG) 
 
