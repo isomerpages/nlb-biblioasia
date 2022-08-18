@@ -172,7 +172,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^24]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 116–17.
 
-[^25]: L. Beckering, “The Fall of the House of Barings,” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “Leeson Saga, and Key Role of 88888 Account,” *Straits Times*, 24 November 1995, 49; “The Fateful, Frantic Hours That Broke a Bank,” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
+[^25]: L. Beckering, “[The Fall of the House of Barings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950730.2.59.5.1.aspx),” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “[Leeson Saga, and Key Role of 88888 Account](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951124.2.61.5.aspx),” *Straits Times*, 24 November 1995, 49; “[The Fateful, Frantic Hours That Broke a Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19950304-1.2.10.5.aspx),” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
 
 [^26]: Low, Chan and Chan, *Sustaining Stability*, 165, 186.
 
