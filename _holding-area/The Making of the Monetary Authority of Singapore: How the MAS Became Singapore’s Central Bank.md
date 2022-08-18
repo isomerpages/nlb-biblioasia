@@ -136,11 +136,11 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^6]: Hon, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 5.
 
-[^7]: Low, Chan and Chan, *Sustaining Stability*, 67.
+[^7]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 67.
 
-[^8]: Low, Chan and Chan, *Sustaining Stability*, 67.
+[^8]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 67.
 
-[^9]: Low, Chan and Chan, *Sustaining Stability*, 66.
+[^9]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 66.
 
 [^10]: Clement Liew and Peter Wilson, *A History of Money in Singapore* (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
 
