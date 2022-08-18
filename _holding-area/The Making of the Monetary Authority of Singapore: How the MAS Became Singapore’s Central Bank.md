@@ -190,7 +190,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^33]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 190.
 
-[^34]: “[Spore’s Economy in Recession](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20081010-2.2.2.2.aspx),” *Today (2nd Edition)*, 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, *Sustaining Stability*, 192–93.
+[^34]: “[Spore’s Economy in Recession](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20081010-2.2.2.2.aspx),” *Today (2nd Edition)*, 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 192–93.
 
 [^35]: Low, Chan and Chan, *Sustaining Stability*, 193.
 
