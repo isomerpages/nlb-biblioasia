@@ -134,7 +134,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^5]: Ignatius Low, Fiona Chan and Gabriel Chan, [*Sustaining Stability: Serving Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112) (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
 
-[^6]: Hon, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust*, 5.
+[^6]: Hon, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 5.
 
 [^7]: Low, Chan and Chan, *Sustaining Stability*, 67.
 
