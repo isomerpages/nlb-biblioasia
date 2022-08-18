@@ -124,15 +124,15 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 #### **NOTES**
 
-[^1]: “No Longer De facto Central Bank,” Straits Times, 25 August 1998, 44. (From NewspaperSG)
+[^1]: “No Longer De facto Central Bank,” *Straits Times*, 25 August 1998, 44. (From NewspaperSG)
 
-[^2]: Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
+[^2]: Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders* (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
 
-[^3]: Hon, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust, 4.
+[^3]: Hon, “Establishing the Monetary Authority of Singapore,” in *Resilience, Dynamism, Trust*, 4.
 
 [^4]: Goh Keng Swee, “Speech by Dr Goh Keng Swee, Minister for Finance, at the 13th Anniversary Dinner of the Economic Society of Singapore,” Dragon Room, Robinson Restaurant, 20 September 1969, transcript, Ministry of Culture. (From National Archives of Singapore, document no. PressR19690920d)
 
-[^5]: Ignatius Low, Fiona Chan and Gabriel Chan, Sustaining Stability: Serving Singapore (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
+[^5]: Ignatius Low, Fiona Chan and Gabriel Chan, *Sustaining Stability: Serving Singapore* (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
 
 [^6]: Hon, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust, 5.
 
