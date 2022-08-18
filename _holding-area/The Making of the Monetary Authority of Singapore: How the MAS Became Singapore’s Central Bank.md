@@ -182,7 +182,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^29]: Monetary Authority of Singapore, [*Annual Report*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4182059) (Singapore: The Authority, 1997/1998), 34–35. (From National Library, Singapore, call no. RCLOS 32.495957 MASAR-[AR])
 
-[^30]: “Asian Financial Crisis (1997–1998),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 July 2016.
+[^30]: “[Asian Financial Crisis (1997–1998)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1530_2009-06-09.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 July 2016.
 
 [^31]: Low, Chan and Chan, *Sustaining Stability*, 189.
 
