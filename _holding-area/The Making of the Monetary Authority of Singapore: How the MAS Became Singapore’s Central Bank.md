@@ -116,3 +116,12 @@ In October 2021, Prime Minister Lee Hsien Loong noted that the monetary policies
 He attributed these achievements to caution and creativity on the part of the MAS. “It adhered to sound economic principles, while creatively adapting policy frameworks to suit Singapore’s context,” he said. “It set high regulatory and supervisory standards, while taking a facilitative and risk-proportionate approach. It ensured financial stability, while promoting innovation and seizing opportunities.”38
 
 Today, the world is being roiled by events such as the Covid-19 pandemic and the war in Ukraine. Inflationary pressures threaten global economies while the consequences of climate change loom increasingly large on the horizon. Now, more than ever before, the MAS will need to bank on its guiding principles of caution and creativity to help Singapore navigate safely through an uncertain and unpredictable future.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;"/>
+	<b>Shirlene Noordin</b> is the founder of Phish Communications, a communications consultancy specialising in arts and culture.</div>
+
+#### **NOTES**
+
+[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway. 
