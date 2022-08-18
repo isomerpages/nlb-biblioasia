@@ -154,15 +154,15 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^15]: Lim, “MAS Merges with Board of Commissioners of Currency,” in *Resilience, Dynamism, Trust*, 115.
 
-[^16]: Liew and Wilson, A History of Money in Singapore, 352–53.
+[^16]: Liew and Wilson,* A History of Money in Singapore*, 352–53.
 
-[^17]: Low, Chan and Chan, Sustaining Stability, 70–71; “BCCS Merges with MAS on 1 October,” Monetary Authority of Singapore, 20 September 2002, https://www.mas.gov.sg/news/media-releases/2002/bccs-merges-with-mas-on-1-october--30-september-2002; “Our History,” Monetary Authority of Singapore, last updated 21 April 2022, https://www.mas.gov.sg/who-we-are/Our-History.
+[^17]: Low, Chan and Chan, *Sustaining Stability*, 70–71; “BCCS Merges with MAS on 1 October,” Monetary Authority of Singapore, 20 September 2002, https://www.mas.gov.sg/news/media-releases/2002/bccs-merges-with-mas-on-1-october--30-september-2002; “Our History,” Monetary Authority of Singapore, last updated 21 April 2022, https://www.mas.gov.sg/who-we-are/Our-History.
 
-[^18]: Low, Chan and Chan, Sustaining Stability, 71.
+[^18]: Low, Chan and Chan, *Sustaining Stability*, 71.
 
 [^19]: Lee Hsien Loong, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021,” Prime Minister’s Office Singapore, last updated 8 October 2021, https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MAS50-Partners-Appreciation-Evening.
 
-[^20]: Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” MAS Staff Paper, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “The Pan-Electric Crisis,” Straits Times, 3 December 1985, 23; Lynette Khoo, “1984: Taking Jardine Fleming to Task,” Business Times, 29 February 2016, 4. (From NewspaperSG)
+[^20]: Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” *MAS Staff Paper*, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “The Pan-Electric Crisis,” *Straits Times*, 3 December 1985, 23; Lynette Khoo, “1984: Taking Jardine Fleming to Task,” *Business Times*, 29 February 2016, 4. (From NewspaperSG)
 
 [^21]: Ho, et al., “Case Study on Pan-Electric Crisis”, 66.
 
