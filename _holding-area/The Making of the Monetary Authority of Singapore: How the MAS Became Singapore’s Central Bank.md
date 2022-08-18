@@ -194,7 +194,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^35]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 193.
 
-[^36]: Alvin Foo, “Worst Is Over for Singapore’s Economy,” *Straits Times*, 17 August 2009, 4. (From NewspaperSG) 
+[^36]: Alvin Foo, “[Worst Is Over for Singapore’s Economy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090817-1.2.5.6.aspx),” *Straits Times*, 17 August 2009, 4. (From NewspaperSG) 
 
 [^37]: Lee, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021.”
 
