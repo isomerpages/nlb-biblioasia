@@ -146,7 +146,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^11]: Paul Wee, “[Central Bank ‘in July or August’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790523-1.2.9),” *Straits Times*, 23 May 1979, 1; Soh Tiang Keng, “Central Bank Plan Put Off: A New Appraisal?,” *Straits Times*, 25 October 1980, 1. (From NewspaperSG)
 
-[^12]: Liew and Wilson, *A History of Money in Singapore*, 351.
+[^12]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482), 351.
 
 [^13]: Lim Hng Kiang, “MAS Merges with Board of Commissioners of Currency,” in *Resilience, Dynamism, Trust*, 114.
 
