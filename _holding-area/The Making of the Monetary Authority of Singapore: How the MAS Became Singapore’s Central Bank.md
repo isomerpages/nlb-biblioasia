@@ -11,7 +11,7 @@ By Barbara Quek
 <div style="background-color: white;"> The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).
 </div>
 
-“We are tired of being referred to as the de facto central bank all the time. Go ahead and call us the central bank henceforth,” an official from the Monetary Authority of Singapore (MAS) told the Straits Times in August 1998.[^1]
+“We are tired of being referred to as the de facto central bank all the time. Go ahead and call us the central bank henceforth,” an official from the Monetary Authority of Singapore (MAS) told the *Straits Times* in August 1998.[^1]
 
 It is a curious fact that for a little more than half its existence, the MAS, which was set up in 1971, was regularly referred to as Singapore’s de facto central bank. It was only in October 2002 that the MAS became the country’s official central bank following its merger with the Board of Commissioners of Currency, Singapore (BCCS). With the merger, the MAS was finally able to issue currency, the one major function it did not have when it was formed 51 years ago.
 
@@ -37,7 +37,7 @@ Added Tang Wee Lip, then manager of the Banking Department at the MAS: “After 
 
 Although MAS did not have the ability to issue currency at its inception, there was a plan for it to eventually do so. As early as 1974 when the MAS was under the chairmanship of Hon, the government had given its in-principle approval for the MAS and the Currency Board to merge according to internal MAS documents.[^10]
 
-By the late 1970s, the newspapers were publishing stories about an impending merger. In May 1979, a front-page story in the Straits Times, citing unnamed sources, said that the government was expected to announce the establishment of a central bank in July or August that year and that this institution would combine the functions of the MAS and the BCCS. This did not come to pass and eventually, in October 1980, in another front-page story, the Straits Times reported that the central bank plan had been put off, pending a new appraisal.[^11]
+By the late 1970s, the newspapers were publishing stories about an impending merger. In May 1979, a front-page story in the Straits Times, citing unnamed sources, said that the government was expected to announce the establishment of a central bank in July or August that year and that this institution would combine the functions of the MAS and the BCCS. This did not come to pass and eventually, in October 1980, in another front-page story, the *Straits Times* reported that the central bank plan had been put off, pending a new appraisal.[^11]
 
 The plan to merge the two had been developed while Hon was chairman of both the MAS and BCCS. But when Goh succeeded Hon on 1 August 1980, Goh was against the idea of bringing the two institutions together.[^12]
 
