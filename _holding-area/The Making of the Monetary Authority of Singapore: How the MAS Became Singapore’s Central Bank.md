@@ -162,7 +162,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^19]: Lee Hsien Loong, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021,” Prime Minister’s Office Singapore, last updated 8 October 2021, https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MAS50-Partners-Appreciation-Evening.
 
-[^20]: Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” *MAS Staff Paper*, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “The Pan-Electric Crisis,” *Straits Times*, 3 December 1985, 23; Lynette Khoo, “1984: Taking Jardine Fleming to Task,” *Business Times*, 29 February 2016, 4. (From NewspaperSG)
+[^20]: Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” *MAS Staff Paper*, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “[The Pan-Electric Crisis](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851203-1.2.42.19.aspx),” *Straits Times*, 3 December 1985, 23; Lynette Khoo, “[1984: Taking Jardine Fleming to Task](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20160229-1.2.7.5),” *Business Times*, 29 February 2016, 4. (From NewspaperSG)
 
 [^21]: Ho, et al., “Case Study on Pan-Electric Crisis”, 66.
 
