@@ -124,4 +124,41 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 #### **NOTES**
 
-[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway. 
+[^1]: “No Longer De facto Central Bank,” Straits Times, 25 August 1998, 44. (From NewspaperSG)
+Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
+Hon, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust, 4.
+Goh Keng Swee, “Speech by Dr Goh Keng Swee, Minister for Finance, at the 13th Anniversary Dinner of the Economic Society of Singapore,” Dragon Room, Robinson Restaurant, 20 September 1969, transcript, Ministry of Culture. (From National Archives of Singapore, document no. PressR19690920d)
+Ignatius Low, Fiona Chan and Gabriel Chan, Sustaining Stability: Serving Singapore (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
+Hon, “Establishing the Monetary Authority of Singapore,” in Resilience, Dynamism, Trust, 5.
+Low, Chan and Chan, Sustaining Stability, 67.
+Low, Chan and Chan, Sustaining Stability, 67.
+Low, Chan and Chan, Sustaining Stability, 66.
+Clement Liew and Peter Wilson, A History of Money in Singapore (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
+Paul Wee, “Central Bank ‘in July or August’,” Straits Times, 23 May 1979, 1; Soh Tiang Keng, “Central Bank Plan Put Off: A New Appraisal?,” Straits Times, 25 October 1980, 1. (From NewspaperSG)
+Liew and Wilson, A History of Money in Singapore, 351.
+Lim Hng Kiang, “MAS Merges with Board of Commissioners of Currency,” in Resilience, Dynamism, Trust, 114.
+Lim, “MAS Merges with Board of Commissioners of Currency,” in Resilience, Dynamism, Trust, 114–15.
+Lim, “MAS Merges with Board of Commissioners of Currency,” in Resilience, Dynamism, Trust, 115.
+Liew and Wilson, A History of Money in Singapore, 352–53.
+Low, Chan and Chan, Sustaining Stability, 70–71; “BCCS Merges with MAS on 1 October,” Monetary Authority of Singapore, 20 September 2002, https://www.mas.gov.sg/news/media-releases/2002/bccs-merges-with-mas-on-1-october--30-september-2002; “Our History,” Monetary Authority of Singapore, last updated 21 April 2022, https://www.mas.gov.sg/who-we-are/Our-History.
+Low, Chan and Chan, Sustaining Stability, 71.
+Lee Hsien Loong, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021,” Prime Minister’s Office Singapore, last updated 8 October 2021, https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MAS50-Partners-Appreciation-Evening.
+Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” MAS Staff Paper, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “The Pan-Electric Crisis,” Straits Times, 3 December 1985, 23; Lynette Khoo, “1984: Taking Jardine Fleming to Task,” Business Times, 29 February 2016, 4. (From NewspaperSG)
+Ho, et al., “Case Study on Pan-Electric Crisis”, 66.
+Ho, et al., “Case Study on Pan-Electric Crisis,” iii–iv. 
+A forward contract is a stock acquisition contract established between two parties for delivery at a predetermined time in the future, at a price agreed upon in the present. It is used for hedging, enabling share owners to reduce price risk by selling their shares forward. This, however, induces share roll-over among multiple parties, including investors, brokers and corporations, as in the Pan-El situation. See Ho, et al., “Case Study on Pan-Electric Crisis,” 9–10.
+Low, Chan and Chan, Sustaining Stability, 116–17.
+L. Beckering, “The Fall of the House of Barings,” Straits Times, 30 July 1995, 4; Chan Sue Meng, “Leeson Saga, and Key Role of 88888 Account,” Straits Times, 24 November 1995, 49; “The Fateful, Frantic Hours That Broke a Bank,” Business Times, 4 March 1995, 3. (From NewspaperSG)
+Low, Chan and Chan, Sustaining Stability, 165, 186.
+Low, Chan and Chan, Sustaining Stability, 184.
+Quak Hiang Whai, “Govt to Tighten Supervision of Futures Trading,” Business Times, 2 March 1995, 4; Paul Leo and Siow Li Sen, “Law Tightened to Prevent Another Barings,” Business Times, 21 March 1996, 1; Chan Wee Chuan, “Investors Better Protected with Changes to Futures Trading Rules,” Straits Times, 8 April 1996, 36. (From NewspaperSG) 
+Monetary Authority of Singapore, Annual Report (Singapore: The Authority, 1997/1998), 34–35. (From National Library, Singapore, call no. RCLOS 32.495957 MASAR-[AR])
+“Asian Financial Crisis (1997–1998),” in Singapore Infopedia. National Library Board Singapore. Article published 30 July 2016.
+Low, Chan and Chan, Sustaining Stability, 189.
+Low, Chan and Chan, Sustaining Stability, 187; Walter Fernandez, “Recession Over But It’s Not Time to Rejoice,” Straits Times, 20 May 1999, 1. (From NewspaperSG)
+Low, Chan and Chan, Sustaining Stability, 190.
+“Spore’s Economy in Recession,” Today (2nd Edition), 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, Sustaining Stability, 192–93.
+Low, Chan and Chan, Sustaining Stability, 193.
+Alvin Foo, “Worst Is Over for Singapore’s Economy,” Straits Times, 17 August 2009, 4. (From NewspaperSG) 
+Lee, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021.”
+Lee, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021.”
