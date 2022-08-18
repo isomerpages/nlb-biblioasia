@@ -192,7 +192,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^34]: “[Spore’s Economy in Recession](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20081010-2.2.2.2.aspx),” *Today (2nd Edition)*, 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 192–93.
 
-[^35]: Low, Chan and Chan, *Sustaining Stability*, 193.
+[^35]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 193.
 
 [^36]: Alvin Foo, “Worst Is Over for Singapore’s Economy,” *Straits Times*, 17 August 2009, 4. (From NewspaperSG) 
 
