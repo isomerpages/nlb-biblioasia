@@ -186,7 +186,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^31]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 189.
 
-[^32]: Low, Chan and Chan, *Sustaining Stability*, 187; Walter Fernandez, “Recession Over But It’s Not Time to Rejoice,” *Straits Times*, 20 May 1999, 1. (From NewspaperSG)
+[^32]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 187; Walter Fernandez, “[Recession Over But It’s Not Time to Rejoice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990520-1.2.3.aspx),” *Straits Times*, 20 May 1999, 1. (From NewspaperSG)
 
 [^33]: Low, Chan and Chan, *Sustaining Stability*, 190.
 
