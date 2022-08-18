@@ -152,7 +152,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^14]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 114–15.
 
-[^15]: Lim, “MAS Merges with Board of Commissioners of Currency,” in *Resilience, Dynamism, Trust*, 115.
+[^15]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 115.
 
 [^16]: Liew and Wilson,* A History of Money in Singapore*, 352–53.
 
