@@ -77,4 +77,42 @@ Following the incident, the MAS “restricted the trading of forward contracts a
 
 #### **Collapse of Barings**
 
-A decade later, MAS had to deal with the collapse of Barings Bank, Britain’s oldest merchant bank, triggered by events in Singapore. Nicholas William Leeson, better known as Nick Leeson, was a derivatives trader and the general manager of Barings Futures Singapore. His excessive trading in Nikkei index futures chalked up great losses and saddled the bank with a huge debt. By the time of the bank’s collapse 
+A decade later, MAS had to deal with the collapse of Barings Bank, Britain’s oldest merchant bank, triggered by events in Singapore. Nicholas William Leeson, better known as Nick Leeson, was a derivatives trader and the general manager of Barings Futures Singapore. His excessive trading in Nikkei index futures chalked up great losses and saddled the bank with a huge debt. By the time of the bank’s collapse on 26 February 1995, it had accumulated losses amounting to $2.2 billion.25
+
+The MAS was alerted and immediately swung into action by clearing the trades and closing up positions to safeguard the reputation of the Singapore International Monetary Exchange (SIMEX) and to restore public confidence in Singapore’s standing in the market. This became an internationally high-profile case that dominated headlines around the world. Fortunately, the losses incurred by Barings Futures Singapore and the consequent collapse of its parent bank in London did not have an adverse effect on the reputation of Singapore’s financial sector.26
+
+Explained Richard Hu, then chairman of the MAS: “When Barings happened, of course, Koh Beng Seng [then deputy managing director] and his team were very quick to act. They went immediately to Barings, took the books and discovered how the sequence of events took place. And it was very clear. Leeson was mainly speculating in Nikkei-225 futures and reporting profits which did not exist. As far as the home office was concerned, this unit in Singapore was making money and they provided more funding to increase the size of its business.”27
+
+The incident led to the amendment of the Futures Trading Act, which came into force on 1 April 1995, and enabled the MAS to monitor the trading of futures contracts more closely. Measures were also introduced to strengthen the regulatory framework of futures trading under SIMEX.28
+
+#### **Asian Financial Crisis **
+
+Soon after the collapse of Barings, the MAS had to deal with the Asian Financial Crisis, which erupted following the collapse of the Thai baht on 2 July 1997 when it depreciated by 15 percent. The contagion spread rapidly to other Southeast Asian currency markets, including Singapore, and caused the Singapore dollar to weaken against the US Dollar. 
+
+Central banks in the region raised interest rates and imposed capital controls but failed to restore stability in the currency markets. Various Southeast Asian countries sought help from International Monetary Fund programmes to help their economies tide over the crisis. In mid-January 1998, the Malaysian ringgit, Thai baht and Philippine peso fell to historic lows against the US dollar.29
+
+What started as a currency crisis had impacted the wider economy and the rest of the region. Although Singapore was not directly hit, the country suffered the spill-over effects of the economic slowdown and entered a recession in the second half of 1998.30 GDP growth plunged from 8.4 percent in 1997 to 0.4 percent in 1998. But the banks stood firm and Singapore companies did not go under. 
+
+Singapore’s strong economic fundamentals, including MAS’s healthy buffer of official foreign reserves and its prudent management and monitoring of the exchange rate, helped to ensure that the Singapore dollar maintained its value. It capped the degree to which the Singapore dollar weakened against the major reserve currencies of the US, Europe and United Kingdom, and protected the Singapore dollar from depreciating to the same extent as other regional currencies.
+
+Cost-cutting measures were also implemented to support the economy. In November 1998, the government introduced a $10.5-billion cost-reduction package that included a 10-percentage point reduction in employers’ Central Provident Fund contributions, a wage cut of 5 to 8 percent, and further cuts in government rates and fees.31
+
+By early 1999, the Singapore economy had begun to show signs of recovery and returned to positive growth in the first quarter of that year. Singapore’s low foreign debt, huge foreign exchange reserves, large budget surpluses, high savings rates, low inflation and a sound financial system had helped it to overcome the crisis.32
+
+#### **Global Financial Crisis**
+
+Some 10 years later, the MAS had to deal with an even larger crisis when the world was plunged into the worst economic crisis since the Great Depression of the 1930s.33 The slowdown and contraction of developed economies were particularly sharp in the last quarter of 2008 following the collapse of America investment bank Lehman Brothers in September, and the near-collapse of American International Group, the world’s largest insurer. By the end of 2008, the major economies had slipped into deep recession and this exacted a heavy toll on Asia’s trade-reliant economies.
+
+Singapore was not immune and slipped into a recession as well. In response to these events, the MAS immediately acted to ensure the stability of the Singapore dollar and the banking system. To ease pressures on the Singapore dollar market activity, MAS kept a higher level of liquidity in the banking system. It also reassured financial institutions that it would continue to anticipate the market’s funding needs and consider any unique liquidity needs of individual banks on a case-by-case basis.34 
+
+In fact, as early as the start of 2007, when signs of the impending crisis first began brewing, the MAS had already stepped up their supervision of foreign banks in Singapore. MAS drew up contingency plans to safeguard the interests of depositors and investors in case any foreign bank in Singapore failed because of problems back home. It also announced a guarantee for all Singapore dollar and foreign currency deposits in banks, finance companies and merchant banks licensed in Singapore.35
+
+Due to MAS’s quick thinking and sound policies, Singapore’s financial sector was not greatly impacted and in August 2009, Prime Minister Lee Hsien Loong announced that “the worst is over for the Singapore economy” and that “the eye of the storm has passed”.36
+
+#### **The Next 50 Years**
+
+In October 2021, Prime Minister Lee Hsien Loong noted that the monetary policies and management of official reserves by MAS had “sustained macroeconomic stability and confidence in Singapore. Its regulation and supervision of financial institutions [had] created a safe and internationally trusted financial system”.37
+
+He attributed these achievements to caution and creativity on the part of the MAS. “It adhered to sound economic principles, while creatively adapting policy frameworks to suit Singapore’s context,” he said. “It set high regulatory and supervisory standards, while taking a facilitative and risk-proportionate approach. It ensured financial stability, while promoting innovation and seizing opportunities.”38
+
+Today, the world is being roiled by events such as the Covid-19 pandemic and the war in Ukraine. Inflationary pressures threaten global economies while the consequences of climate change loom increasingly large on the horizon. Now, more than ever before, the MAS will need to bank on its guiding principles of caution and creativity to help Singapore navigate safely through an uncertain and unpredictable future.
