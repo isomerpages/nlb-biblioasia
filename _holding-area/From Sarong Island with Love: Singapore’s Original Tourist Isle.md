@@ -35,7 +35,7 @@ Before the war, the main feature of the island was a three-bedroom bungalow perc
 After Bennett died in 1950, the house and the island – which was connected to Pulau Blakang Mati (now Sentosa) by a footbridge – were put up for sale by the Chartered Bank Trustee Limited in 1957 for $95,000 (Malayan dollars) “or [a] reasonable offer”. At the time, the island still had 89 years left on its lease and the White House was described to be “in good repair and has electric light, telephone, water and modern sanitation”. But the sale, which was advertised several times, failed to attract buyers except for the Jesuits who wanted to turn the island into a retreat. However, they could not afford it and the deal did not materialise.[^5]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/3_WhiteHouse.jpg)
-<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG).</i>
+<div style="background-color: white;"> Detail from a 1966 topographical map shows the White House on a green patch of land off the northern coast of Pulau Blakang Mati (now Sentosa). Pulau Selegu is shown northwest of the White House. <i>Singapore, 1966, M2016_000173_SD, Survey Department, Singapore, courtesy of National Archives of Singapore.</i>
 </i>
 </div>
 
