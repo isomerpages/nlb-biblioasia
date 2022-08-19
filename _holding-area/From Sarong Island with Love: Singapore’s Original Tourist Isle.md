@@ -119,7 +119,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^13]: “[Pleasure Isle for Tourists](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640229-1.2.8),” *Straits Times*, 29 February 1964, 1. (From NewspaperSG)
 
-[^14]: Mrs Christina Balsara, oral history interview, 18 July 2001.
+[^14]: [Mrs Christina Balsara](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/937c5284-115e-11e3-83d5-0050568939ad), oral history interview, 18 July 2001.
 
 [^15]: “Christina’s Isle of Joy”; “Brilliant Backdrop Sets Mood for Opening of Sarong Island,” Straits Times, 23 September 1967, 9. (From NewspaperSG)
 
