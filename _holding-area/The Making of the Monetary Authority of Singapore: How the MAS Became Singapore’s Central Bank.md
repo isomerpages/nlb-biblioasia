@@ -66,6 +66,9 @@ With or without the ability to issue currency, the MAS has played a vital role i
 
 The MAS has kept inflation low, maintained healthy official foreign reserves, established a sound financial sector which is resilient against shocks, and built up a vibrant international financial centre that adds value and creates jobs.[^19]
 
+![](/images/Vol%2018%20Issue%203/MAS/4_meeting.jpg)
+<div style="background-color: white;"> (Left) The government was expected to announce the establishment of a central bank in either July or August 1979. <i>Image reproduced from Paul Wee, “Central Bank ‘in July or August’,” Straits Times, 23 May 1979, 1. (From NewspaperSG).</i> (Right) Finance Minister Hon Sui Sen, 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Over the last five decades, the MAS has weathered numerous storms. Many of these were external, such as the collapse of the Bretton Woods Agreement that led to the end of the system of fixed exchange rates, as well as the oil shocks of the 1970s. As Singapore is a small open economy, the MAS has had to deal with the consequences of these and many other global events. However, there were also some specific to Singapore or Southeast Asia that required the MAS to respond. One of the most severe was the Pan-El crisis of 1985.
 
 #### **Pan-Electric Industries Crisis**
