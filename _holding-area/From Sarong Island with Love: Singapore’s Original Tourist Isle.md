@@ -133,20 +133,20 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^20]: Mrs Christina Balsara, oral history interview, 18 July 2001.
 
-“Page 15 Advertisements Column 3,” Straits Times, 30 December 1967, 15 (From NewspaperSG); “Page 6 Advertisements Column 2”; “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG)
+[^21]: “Page 15 Advertisements Column 3,” Straits Times, 30 December 1967, 15 (From NewspaperSG); “Page 6 Advertisements Column 2”; “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG)
 
-Mrs Christina Balsara, oral history interview, 18 July 2001.
+[^22]: Mrs Christina Balsara, oral history interview, 18 July 2001.
 
-“Page 15 Advertisements Column 3.”
+[^23]: “Page 15 Advertisements Column 3.”
 
-“Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG)
+[^24]: “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG)
 
-“Aim to Put Singapore on the World’s Perfume Making Map,” Straits Times, 23 September 1977, 36; “Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle,” Straits Times, 3 March 1971, 6; “$11.5M to Develop Sentosa,” Straits Times, 27 March 1971, 3. (From NewspaperSG)
+[^25]: “Aim to Put Singapore on the World’s Perfume Making Map,” Straits Times, 23 September 1977, 36; “Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle,” Straits Times, 3 March 1971, 6; “$11.5M to Develop Sentosa,” Straits Times, 27 March 1971, 3. (From NewspaperSG)
 
-“Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle.”
+[^26]: “Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle.”
 
-Parliament of Singapore, Reclamation at Sentosa Island, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
+[^27]: Parliament of Singapore, Reclamation at Sentosa Island, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
 
-“Hard Rock Hotel Singapore Opens at Resorts World Sentosa,” Hard Rock International, 27 January 2010, https://www.prnewswire.com/news-releases/hard-rock-hotel-singapore-opens-at-resorts-world-sentosa-82773492.html.
+[^28]: “Hard Rock Hotel Singapore Opens at Resorts World Sentosa,” Hard Rock International, 27 January 2010, https://www.prnewswire.com/news-releases/hard-rock-hotel-singapore-opens-at-resorts-world-sentosa-82773492.html.
 
-[^20]: “About Us,” Sentosa Development Corporation, accessed 19 July 2022, https://www.sentosa.com.sg/en/about-us/; Mrs Christina Balsara, oral history interview, 18 July 2001.
+[^29]: “About Us,” Sentosa Development Corporation, accessed 19 July 2022, https://www.sentosa.com.sg/en/about-us/; Mrs Christina Balsara, oral history interview, 18 July 2001.
