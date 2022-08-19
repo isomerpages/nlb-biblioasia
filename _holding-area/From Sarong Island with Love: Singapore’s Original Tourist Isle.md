@@ -21,7 +21,7 @@ For many people, Sentosa is a leisure and tourist destination with a tropical ge
 &emsp;that speak only to our inner hearts. [^1]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland.jpg)
-<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” <i>Straits Times, 14 October 1967, 5. (From NewspaperSG).</i></div>
+<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG).</i></div>
 
 This island was Sarong Island, a place where one could “dine, dance, watch floor shows or just sip a drink and watch a breathtaking view of Singapore harbour and the great ships that pass in and out day and night”. There, you could see “over a hundred varieties of tropical trees and flowers, many species of wild birds, occasional visits of groups of chattering monkeys… [and] the rare sight of a giant monitor lizard basking in the sun”.[^2]
 
