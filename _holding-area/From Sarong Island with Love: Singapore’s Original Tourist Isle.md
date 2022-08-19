@@ -71,8 +71,11 @@ Lee initially continued living in the White House but eventually moved to anothe
 #### **A Short-lived Venture**
 
 To promote Sarong Island, advertisements ran in the press with taglines such as “From Sarong Island with Love”, “Singapore’s Finest Tourist Attraction”, and “Go Where the Beautiful People Go”. Guests were also promised gifts and prizes.21
+
 One problem with beckoning people to Sarong Island “across calm and moonlit waters” was that the waters were not always calm, especially during the monsoon season. As Lee recalled: “[D]uring the end of the year when it rained, I realised that a lot of people would book the place… [But] they would not come because they had to come in a sampan. They would have to walk up the hill which was not sheltered… I realised those were the things that stopped people from coming.”22
+
 To mitigate this problem, Lee promised to provide visitors with “complete shelter” from the jetty to the restaurant with the use of umbrellas and “Sarong Island straw hats”. However, it soon became clear to Lee that Sarong Island was difficult to sustain as a tourist attraction and a going business concern.23
+
 In August 1968, a little less than a year after the island’s opening, a humorous notice was published in the newspapers to announce the restaurant’s closure. It said: “We’re not weather experts, but from past experience we expect a similar weather pattern at this time of year as last time. And… ‘boy does it rain!’ Therefore, the management and staff of Sarong Island would like to thank all customers and friends for their patronage and support. We also wish to take this opportunity to announce that the Sarong Island Restaurant will cease operation until further notice.”24
 In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.25 Lee was shocked and disappointed by the news.26
 Joining Up with Sentosa
