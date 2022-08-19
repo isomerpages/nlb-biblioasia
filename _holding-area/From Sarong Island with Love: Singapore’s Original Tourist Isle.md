@@ -123,7 +123,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^15]: “[Christina’s Isle of Joy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670916-1.2.62)”; “[Brilliant Backdrop Sets Mood for Opening of Sarong Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670923-1.2.61),” *Straits Times*, 23 September 1967, 9. (From NewspaperSG)
 
-[^16]: R. Chandran, “[All Set for Opening of Sarong Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670920-1.2.31),” *Straits Times*, 20 September 1967, 7; “[Page 6 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671118-1.2.50.2),” *Straits Times*, 18 November 1967, 6 (From NewspaperSG); “Brilliant Backdrop Sets Mood.”
+[^16]: R. Chandran, “[All Set for Opening of Sarong Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670920-1.2.31),” *Straits Times*, 20 September 1967, 7; “[Page 6 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671118-1.2.50.2),” *Straits Times*, 18 November 1967, 6 (From NewspaperSG); “[Brilliant Backdrop Sets Mood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670923-1.2.61).”
 
 [^17]: Mrs Santha Baskar, oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
 
