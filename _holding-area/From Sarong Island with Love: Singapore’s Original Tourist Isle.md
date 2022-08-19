@@ -123,6 +123,11 @@ In August 1968, a little less than a year after the island’s opening, a humoro
 
 In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.[^25] Lee was shocked and disappointed by the news.[^26]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/7_closing.jpg)
+<div style="background-color: white;"> Christina Lee entertaining guests at a cocktail party on Sarong Island, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission..</i>
+</i>
+</div>
+
 #### **Joining Up with Sentosa**
 
 After acquiring Sarong Island, the government combined it with Sentosa via a land reclamation scheme. Announced in 1978, this $7 million project, which also included the nearby Selegu Island, took about two years to complete and added some 170,000 sq m (17 ha) of land to Sentosa.[^27] Today, Hard Rock Hotel Singapore occupies the land where Sarong Island once stood.[^28]
