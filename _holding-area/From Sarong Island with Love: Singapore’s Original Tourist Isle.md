@@ -79,7 +79,7 @@ Aida Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 		<b>REFERENCES</b><br><br>Dunlop, Peter K.G. 
 British Royal Air Force, <i>Aerial Photographs from South-east to North-west Showing Pulau Blakang Mati, Pasir Panjang Wharf</i>, 22 November 1949, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 258513) <br><br>“For Sale: Isle Dream Home,” <i>Straits Times</i>, 16 March 1957, 5 (From NewspaperSG) <br><br>
 Parliament of Singapore, <i>Reclamation at Sentosa Island, vol. 37 of Parliamentary Debates: Official Report</i>, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
-Republic of Singapore, Government Gazette. Extraordinary, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
+Republic of Singapore, <i>Government Gazette. Extraordinary</i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
 Survey Department, Singapore, Topographical Map of Central and Southern Singapore, and Singapore City, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
 Survey Department, Singapore, Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br>
 Survey Department, Singapore, Mukim Number XXXIV: Other Islands, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
