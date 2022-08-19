@@ -25,7 +25,7 @@ Sarong Island was a 190,575-square-foot (1.8 ha) island that used to be just off
 
 #### **An Island for Sale**
 
-Before the war, the main feature of the island was a three-bedroom bungalow perched on top of a hill. Known as the “White House”, the bungalow was built by Frank Blackwood Sewell who served as Senior Superintendent of Surveys of the Straits Settlements from 1927 to 1932. In 1947, Sewell sold the house to E.J. Bennett, who left Singapore on board the HMS Grasshopper on 14 February 1942, one of the last vessels to evacuate during the Battle of Singapore.[^4]
+Before the war, the main feature of the island was a three-bedroom bungalow perched on top of a hill. Known as the “White House”, the bungalow was built by Frank Blackwood Sewell who served as Senior Superintendent of Surveys of the Straits Settlements from 1927 to 1932. In 1947, Sewell sold the house to E.J. Bennett, who left Singapore on board the HMS *Grasshopper* on 14 February 1942, one of the last vessels to evacuate during the Battle of Singapore.[^4]
 
 After Bennett died in 1950, the house and the island – which was connected to Pulau Blakang Mati (now Sentosa) by a footbridge – were put up for sale by the Chartered Bank Trustee Limited in 1957 for $95,000 (Malayan dollars) “or [a] reasonable offer”. At the time, the island still had 89 years left on its lease and the White House was described to be “in good repair and has electric light, telephone, water and modern sanitation”. But the sale, which was advertised several times, failed to attract buyers except for the Jesuits who wanted to turn the island into a retreat. However, they could not afford it and the deal did not materialise.[^5]
 
