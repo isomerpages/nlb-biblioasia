@@ -137,7 +137,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^22]: [Mrs Christina Balsara](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/937c5284-115e-11e3-83d5-0050568939ad), oral history interview, 18 July 2001.
 
-[^23]: “Page 15 Advertisements Column 3.”
+[^23]: “[Page 15 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671230-1.2.96.3).”
 
 [^24]: “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG)
 
