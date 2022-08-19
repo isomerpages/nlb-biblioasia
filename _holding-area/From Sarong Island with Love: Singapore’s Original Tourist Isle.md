@@ -93,9 +93,9 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 #### **NOTES**
 
-[^1]: “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG)
+[^1]: “[Page 5 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671014-1.2.36.1),” *Straits Times*, 14 October 1967, 5. (From NewspaperSG)
 
-[^2]: “A Many Splendoured Island,” Eastern Sun, 23 September 1967, 5; R. Chandran, “Christina’s Isle of Joy to Be Opened on Thursday,” Straits Times, 16 September 1967, 7. (From NewspaperSG)
+[^2]: “[A Many Splendoured Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670923-1.2.7.37),” *Eastern Sun*, 23 September 1967, 5; R. Chandran, “Christina’s Isle of Joy to Be Opened on Thursday,” Straits Times, 16 September 1967, 7. (From NewspaperSG)
 
 [^3]: “Christina’s Isle of Joy.”
 
