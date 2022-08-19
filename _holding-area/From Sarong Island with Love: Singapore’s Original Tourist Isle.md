@@ -55,8 +55,11 @@ According to Lee, Law and National Development Minister E.W. Barker helped her t
 #### **Sarong Island Opens**
 
 Sarong Island was declared open on 22 September 1967 by Barker, an event that was witnessed by several hundred guests. They arrived by sampan to the island amid “brilliant lighting effects” from Clifford Pier and Jardine Steps, and were “entertained to a dinner of local dishes” and “a multi-racial show”.15
+
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.
+
 The restaurant served “curry buffet with added European dishes” for lunch on Sundays, and “air-flown steaks, imported capon chicken and whole rock lobster” for Saturday-night dinners amid music and dance performances by local groups.16
+
 Among those who performed on the island was Santha Bhaskar, who would later become a Cultural Medallion recipient. She danced with her group on the island and recalled the allure of the place in an oral history interview in 2009: “[W]e used to go to Sarong Island by boat… It [had a] very nice setting, you know, very beautiful setting at Sarong Island… Christina’s husband was very artistic. So he decorated the place in such a way that tourists [would] come. It is like they are in a magic world you know.”17
 Pianist and singer Danny Koh had also performed on Sarong Island. In a 2015 oral history interview, he vividly recalled how “romantic” and “special” the place was. His band played at the restaurant and the guests were all big spenders. “[T]hey were locals, those who liked to party around who liked to have dinner and all these things,” he said.18
 The island could also be rented out for events ranging from private and company functions to graduation and award-giving ceremonies. The public could also use it for weddings and fashion shows.19
