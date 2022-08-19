@@ -143,7 +143,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^25]: “[Aim to Put Singapore on the World’s Perfume Making Map](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770923-1.2.170),” *Straits Times*, 23 September 1977, 36; “[Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710303-1.2.30),” *Straits Times*, 3 March 1971, 6; “[$11.5M to Develop Sentosa](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710327-1.2.15.8),” *Straits Times*, 27 March 1971, 3. (From NewspaperSG)
 
-[^26]: “Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle.”
+[^26]: “[Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710303-1.2.30).”
 
 [^27]: Parliament of Singapore, Reclamation at Sentosa Island, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
 
