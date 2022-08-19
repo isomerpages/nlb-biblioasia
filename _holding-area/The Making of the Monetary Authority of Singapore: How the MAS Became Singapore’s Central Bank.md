@@ -24,6 +24,9 @@ To streamline the decision-making for such an important institution, it was logi
 
 Nonetheless, at the setting up of MAS, the ability to issue currency was deliberately left out. The BCCS was established in 1967 following Singapore’s separation from Malaysia in 1965, and the agreement that the two countries would issue their own separate currency. The role of the BCCS was to maintain the currency board system (practised since the colonial era) that “fixed the exchange rate between the Singapore dollar and a specified foreign currency, allowed domestic notes and coins to be fully convertible at the relevant fixed exchange rate, and backed the Singapore currency fully by foreign assets or gold”.[^5]
 
+![](/images/Vol%2018%20Issue%203/MAS/2_queue.jpg)
+<div style="background-color: white;"> The Monetary Authority of Singapore building at 10 Shenton Way. <i>Photo by and courtesy of Jimmy Yap. </i></div>
+
 Hon explained in his 1970 speech in Parliament that the BCCS was kept separate from MAS because the “automatic mechanism of the Currency Board with its 100 percent external assets backing has been and will be of great psychological importance in maintaining confidence in the Singapore dollar”.[^6]
 
 In the commemorative book published by MAS on its 40th anniversary in 2012, the writers explained that “the aim of keeping currency issuance separate from MAS was to assure Singaporeans and foreign investors that the central bank would not freely print money according to its whim. Instead, every Singapore dollar issued by BCCS would be fully backed by gold and foreign assets under the currency board system”.[^7]
