@@ -72,6 +72,12 @@ Lee initially continued living in the White House but eventually moved to anothe
 
 To promote Sarong Island, advertisements ran in the press with taglines such as “From Sarong Island with Love”, “Singapore’s Finest Tourist Attraction”, and “Go Where the Beautiful People Go”. Guests were also promised gifts and prizes.[^21]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
+According to the Advisory Committee on the Naming of Roads and Streets in 2002, the name “Opera Estate” and the street names within were probably suggested by a developer.
+<br><br>
+Aida Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Aida</i> is an opera by Giuseppe Verdi set in ancient Egypt. <br><br>
+</div>
+	
 One problem with beckoning people to Sarong Island “across calm and moonlit waters” was that the waters were not always calm, especially during the monsoon season. As Lee recalled: “[D]uring the end of the year when it rained, I realised that a lot of people would book the place… [But] they would not come because they had to come in a sampan. They would have to walk up the hill which was not sheltered… I realised those were the things that stopped people from coming.”[^22]
 
 To mitigate this problem, Lee promised to provide visitors with “complete shelter” from the jetty to the restaurant with the use of umbrellas and “Sarong Island straw hats”. However, it soon became clear to Lee that Sarong Island was difficult to sustain as a tourist attraction and a going business concern.[^23]
