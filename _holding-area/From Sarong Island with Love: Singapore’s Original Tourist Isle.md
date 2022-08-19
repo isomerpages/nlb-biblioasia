@@ -129,7 +129,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^18]: [Daniel Koh Yew Bin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e9434feb-d77c-11e4-859c-0050568939ad), oral history interview by Mark Wong, 24 March 2015, MP3 audio, Reel/Disc 6 of 13, 39:19, National Archives of Singapore (accession no. 004011).
 
-[^19]: “Page 4 Advertisements Column 2,” Straits Times, 17 January 1968, 4. (From NewspaperSG)
+[^19]: “[Page 4 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720724-1.2.27),” *Straits Times*, 17 January 1968, 4. (From NewspaperSG)
 
 [^20]: Mrs Christina Balsara, oral history interview, 18 July 2001.
 
