@@ -142,7 +142,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;"/>
-	<b>Shirlene Noordin</b> is the founder of Phish Communications, a communications consultancy specialising in arts and culture.</div>
+	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009)</i> and <i>China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</i></div>
 
 #### **NOTES**
 
