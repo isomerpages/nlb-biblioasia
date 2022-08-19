@@ -7,9 +7,8 @@ description: ""
 #### While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later. 
 By Barbara Quek
 
-![](/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg)
-<div style="background-color: white;"> The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).
-</div>
+![](/images/Vol%2018%20Issue%203/MAS/1_MASbuilding.jpg)
+<div style="background-color: white;"> The Monetary Authority of Singapore building at 10 Shenton Way. <i>Photo by and courtesy of Jimmy Yap. </i></div>
 
 “We are tired of being referred to as the de facto central bank all the time. Go ahead and call us the central bank henceforth,” an official from the Monetary Authority of Singapore (MAS) told the *Straits Times* in August 1998.[^1]
 
