@@ -103,7 +103,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^5]: “[For Sale: Isle Dream Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570316-1.2.51).”
 
-[^6]: Gloria Chandy, “Lady of Fragrances,” New Paper, 28 May 2000, 11. (From NewspaperSG)
+[^6]: Gloria Chandy, “[Lady of Fragrances](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000528-1.2.10),” New Paper, 28 May 2000, 11. (From NewspaperSG)
 
 [^7]: Mrs Christina Balsara, oral history interview by Patricia Lee, 18 July 2001, MP3 audio, Reel/Disc 4 of 9, 30:28, National Archives of Singapore (accession no. 002542).
 
