@@ -145,7 +145,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^26]: “[Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710303-1.2.30).”
 
-[^27]: Parliament of Singapore, [Reclamation at Sentosa Island](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189), vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
+[^27]: Parliament of Singapore, [Reclamation at Sentosa Island](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189), vol. 37 of *Parliamentary Debates: Official Report*, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
 
 [^28]: “Hard Rock Hotel Singapore Opens at Resorts World Sentosa,” Hard Rock International, 27 January 2010, https://www.prnewswire.com/news-releases/hard-rock-hotel-singapore-opens-at-resorts-world-sentosa-82773492.html.
 
