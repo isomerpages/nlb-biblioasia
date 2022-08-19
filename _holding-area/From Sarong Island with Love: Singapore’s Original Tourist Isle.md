@@ -113,7 +113,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^10]: [Mrs Christina Balsara](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/937c5284-115e-11e3-83d5-0050568939ad), oral history interview, 18 July 2001.
 
-[^11]: “Party for MacDonalds at ‘White House’,” Straits Times, 26 April 1962, 14. (From NewspaperSG)
+[^11]: “[Party for MacDonalds at ‘White House’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620426-1.2.76),” *Straits Times*, 26 April 1962, 14. (From NewspaperSG)
 
 [^12]: Mrs Christina Balsara, oral history interview, 18 July 2001; “Christina’s Isle of Joy.”
 
