@@ -133,7 +133,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Barbara_Quek.jpg" style="width: 100px; height: 100px;"/>
 	<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board in the compliance of Legal Deposit in Singapore. Her work involves developing the National Library’s collections through gifts and exchange as well as providing content and reference services.</div>
 
 #### **NOTES**
