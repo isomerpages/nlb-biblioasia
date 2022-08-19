@@ -93,4 +93,60 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 #### **NOTES**
 
-[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway.
+[^1]: “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG)
+
+[^2]: “A Many Splendoured Island,” Eastern Sun, 23 September 1967, 5; R. Chandran, “Christina’s Isle of Joy to Be Opened on Thursday,” Straits Times, 16 September 1967, 7. (From NewspaperSG)
+
+[^3]: “Christina’s Isle of Joy.”
+
+[^4]: “For Sale: Isle Dream Home,” Straits Times, 16 March 1957, 5 (From NewspaperSG); “HMS Grasshopper,” Malayan Volunteers Group, January 2021, https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list_hms_grasshopper_version_1.2.2_jan_21.pdf.
+
+[^5]: “For Sale: Isle Dream Home.”
+
+Gloria Chandy, “Lady of Fragrances,” New Paper, 28 May 2000, 11. (From NewspaperSG)
+
+Mrs Christina Balsara, oral history interview by Patricia Lee, 18 July 2001, MP3 audio, Reel/Disc 4 of 9, 30:28, National Archives of Singapore (accession no. 002542).
+
+“Two Islands to Link with Sentosa,” Straits Times, 2 February 1978, 28; “Sentosa Cable Car Towers to Go Up Soon,” Straits Times, 26 June 1972, 9. (From NewspaperSG)
+
+Malcolm MacDonald, “Birds of Selegu,” Straits Times Annual, 1 January 1964, 38–39; Hasnah Vimala-Chen, “And with Fond Memories of My Childhood,” Straits Times, 27 October 1963, 6; Gerald Wilkins, “Malaysian Scene in Picture and Story,” Straits Times, 4 November 1963, 13; “The Secretary-birds,” Straits Times, 15 September 1963, 17; “The Scorching Personal Picture of a Rhino Coming in for the Kill,” Straits Times, 6 June 1965, 3; “Scent of a Woman,” Straits Times, 9 August 2003, 10. (From NewspaperSG)
+
+[^10]: Mrs Christina Balsara, oral history interview, 18 July 2001.
+
+“Party for MacDonalds at ‘White House’,” Straits Times, 26 April 1962, 14. (From NewspaperSG)
+
+Mrs Christina Balsara, oral history interview, 18 July 2001; “Christina’s Isle of Joy.”
+
+“Pleasure Isle for Tourists,” Straits Times, 29 February 1964, 1. (From NewspaperSG)
+
+Mrs Christina Balsara, oral history interview, 18 July 2001.
+
+[^15]: “Christina’s Isle of Joy”; “Brilliant Backdrop Sets Mood for Opening of Sarong Island,” Straits Times, 23 September 1967, 9. (From NewspaperSG)
+
+R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7; “Page 6 Advertisements Column 2,” Straits Times, 18 November 1967, 6 (From NewspaperSG); “Brilliant Backdrop Sets Mood.”
+
+Mrs Santha Baskar, oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
+
+Daniel Koh Yew Bin, oral history interview by Mark Wong, 24 March 2015, MP3 audio, Reel/Disc 6 of 13, 39:19, National Archives of Singapore (accession no. 004011).
+
+“Page 4 Advertisements Column 2,” Straits Times, 17 January 1968, 4. (From NewspaperSG)
+
+[^20]: Mrs Christina Balsara, oral history interview, 18 July 2001.
+
+“Page 15 Advertisements Column 3,” Straits Times, 30 December 1967, 15 (From NewspaperSG); “Page 6 Advertisements Column 2”; “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG)
+
+Mrs Christina Balsara, oral history interview, 18 July 2001.
+
+“Page 15 Advertisements Column 3.”
+
+“Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG)
+
+“Aim to Put Singapore on the World’s Perfume Making Map,” Straits Times, 23 September 1977, 36; “Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle,” Straits Times, 3 March 1971, 6; “$11.5M to Develop Sentosa,” Straits Times, 27 March 1971, 3. (From NewspaperSG)
+
+“Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle.”
+
+Parliament of Singapore, Reclamation at Sentosa Island, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
+
+“Hard Rock Hotel Singapore Opens at Resorts World Sentosa,” Hard Rock International, 27 January 2010, https://www.prnewswire.com/news-releases/hard-rock-hotel-singapore-opens-at-resorts-world-sentosa-82773492.html.
+
+[^20]: “About Us,” Sentosa Development Corporation, accessed 19 July 2022, https://www.sentosa.com.sg/en/about-us/; Mrs Christina Balsara, oral history interview, 18 July 2001.
