@@ -101,7 +101,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^4]: “[For Sale: Isle Dream Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570316-1.2.51),” *Straits Times*, 16 March 1957, 5 (From NewspaperSG); “HMS Grasshopper,” Malayan Volunteers Group, January 2021, https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list_hms_grasshopper_version_1.2.2_jan_21.pdf.
 
-[^5]: “For Sale: Isle Dream Home.”
+[^5]: “[For Sale: Isle Dream Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570316-1.2.51).”
 
 [^6]: Gloria Chandy, “Lady of Fragrances,” New Paper, 28 May 2000, 11. (From NewspaperSG)
 
