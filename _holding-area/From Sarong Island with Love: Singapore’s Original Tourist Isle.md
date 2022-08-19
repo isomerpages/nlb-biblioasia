@@ -19,6 +19,10 @@ For many people, Sentosa is a leisure and tourist destination with a tropical ge
 &emsp;serene eyes and silent lips,<br>
 &emsp;that speak only to our inner hearts.[^1] </div>
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland.jpg)
+<div style="background-color: white;"> Christina Lee taking a stroll on Sarong Island, 1965. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
+</div>
+
 This island was Sarong Island, a place where one could “dine, dance, watch floor shows or just sip a drink and watch a breathtaking view of Singapore harbour and the great ships that pass in and out day and night”. There, you could see “over a hundred varieties of tropical trees and flowers, many species of wild birds, occasional visits of groups of chattering monkeys… [and] the rare sight of a giant monitor lizard basking in the sun”.[^2]
 
 Sarong Island was a 190,575-square-foot (1.8 ha) island that used to be just off the northern coast of Sentosa. The island was near the former Sentosa Ferry Terminal before it was reclaimed and merged with Sentosa. Dubbed “Singapore’s first tourist isle”, Sarong Island was given its name by its former owner, the late Christina Lee (1923–2009), and was even referred to as the “Shangri-La” of Singapore.[^3]
