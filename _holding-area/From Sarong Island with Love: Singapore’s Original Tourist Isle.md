@@ -49,8 +49,11 @@ The walk from the sampan to the White House was also a bit of a journey, as the 
 In 1964, Lee decided to turn the island into a “pleasure island” that she wanted to call Pulau Chantek (meaning “Beautiful Island” in Malay). This was later changed to Sarong Island because as Lee’s then husband, the film actor and producer Jeffrey Stone, explained in 1967, “the word sarong is known throughout the world. And it is a word which is easy for Westerners to remember”.12
 
 Lee had ambitious plans to turn the island into a tourist resort. The multi-million-dollar project called for the construction of numerous amenities, including a seawater swimming pool, bowling alleys, a floating restaurant, a night club for members only and 50 chalets each equipped with “a sitting room, a kitchenette and a bedroom with bathroom”. These chalets were for tourists who wanted to spend the weekend or longer on the island. To attract tourists, “a fleet of small ferry boats operating round-the-clock to provide a 30-cent four-minute ride to and from Jardine Steps” was put in place.13
+
 According to Lee, Law and National Development Minister E.W. Barker helped her to make Sarong Island happen. “I knew his wife and we used to play mahjong together…,” she said. “[So] I invited him and his wife to the island. And he liked it very much as he thought it was beautiful… and I asked Eddie Barker to help me, and he did. Soon after that I got the approval to turn it into a restaurant.”14 
-Sarong Island Opens
+
+#### **Sarong Island Opens**
+
 Sarong Island was declared open on 22 September 1967 by Barker, an event that was witnessed by several hundred guests. They arrived by sampan to the island amid “brilliant lighting effects” from Clifford Pier and Jardine Steps, and were “entertained to a dinner of local dishes” and “a multi-racial show”.15
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.
 The restaurant served “curry buffet with added European dishes” for lunch on Sundays, and “air-flown steaks, imported capon chicken and whole rock lobster” for Saturday-night dinners amid music and dance performances by local groups.16
