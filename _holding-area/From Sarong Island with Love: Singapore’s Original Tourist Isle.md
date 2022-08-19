@@ -107,7 +107,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^7]: [Mrs Christina Balsara](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/937c5284-115e-11e3-83d5-0050568939ad), oral history interview by Patricia Lee, 18 July 2001, MP3 audio, Reel/Disc 4 of 9, 30:28, National Archives of Singapore (accession no. 002542).
 
-[^8]: “Two Islands to Link with Sentosa,” Straits Times, 2 February 1978, 28; “Sentosa Cable Car Towers to Go Up Soon,” Straits Times, 26 June 1972, 9. (From NewspaperSG)
+[^8]: “[Two Islands to Link with Sentosa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780202-1.2.125),” *Straits Times*, 2 February 1978, 28; “[Sentosa Cable Car Towers to Go Up Soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720626-1.2.35),” *Straits Times*, 26 June 1972, 9. (From NewspaperSG)
 
 [^9]: Malcolm MacDonald, “Birds of Selegu,” Straits Times Annual, 1 January 1964, 38–39; Hasnah Vimala-Chen, “And with Fond Memories of My Childhood,” Straits Times, 27 October 1963, 6; Gerald Wilkins, “Malaysian Scene in Picture and Story,” Straits Times, 4 November 1963, 13; “The Secretary-birds,” Straits Times, 15 September 1963, 17; “The Scorching Personal Picture of a Rhino Coming in for the Kill,” Straits Times, 6 June 1965, 3; “Scent of a Woman,” Straits Times, 9 August 2003, 10. (From NewspaperSG)
 
