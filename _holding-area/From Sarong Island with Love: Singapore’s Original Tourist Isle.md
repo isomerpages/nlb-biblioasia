@@ -34,6 +34,11 @@ Before the war, the main feature of the island was a three-bedroom bungalow perc
 
 After Bennett died in 1950, the house and the island – which was connected to Pulau Blakang Mati (now Sentosa) by a footbridge – were put up for sale by the Chartered Bank Trustee Limited in 1957 for $95,000 (Malayan dollars) “or [a] reasonable offer”. At the time, the island still had 89 years left on its lease and the White House was described to be “in good repair and has electric light, telephone, water and modern sanitation”. But the sale, which was advertised several times, failed to attract buyers except for the Jesuits who wanted to turn the island into a retreat. However, they could not afford it and the deal did not materialise.[^5]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/3_WhiteHouse.jpg)
+<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG).</i>
+</i>
+</div>
+
 In the end, the island and bungalow were purchased by well-known socialite Christina Lee, the second wife of cinema magnate Loke Wan Tho. In an oral history interview in 2001 (by then she was married to Indian psychiatrist and businessman Dadi Balsara),[^6] she recalled that it was her brother who brought the island to her notice.
 
 “My brother rang me one day. He told me, ‘I want you to come and see a piece of land with me.’… and then he took me in a car and went to the pier… we went into a boat and then five minutes later, we landed on an island. We walked up the hill and there was this house called the ‘White House’… It was so beautiful, and I really fell in love with it.”[^7]
