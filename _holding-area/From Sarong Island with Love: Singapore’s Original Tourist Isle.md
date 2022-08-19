@@ -149,4 +149,4 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^28]: “Hard Rock Hotel Singapore Opens at Resorts World Sentosa,” Hard Rock International, 27 January 2010, https://www.prnewswire.com/news-releases/hard-rock-hotel-singapore-opens-at-resorts-world-sentosa-82773492.html.
 
-[^29]: “About Us,” Sentosa Development Corporation, accessed 19 July 2022, https://www.sentosa.com.sg/en/about-us/; Mrs Christina Balsara, oral history interview, 18 July 2001.
+[^29]: “About Us,” Sentosa Development Corporation, accessed 19 July 2022, https://www.sentosa.com.sg/en/about-us/; [Mrs Christina Balsara](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/937c5284-115e-11e3-83d5-0050568939ad), oral history interview, 18 July 2001.
