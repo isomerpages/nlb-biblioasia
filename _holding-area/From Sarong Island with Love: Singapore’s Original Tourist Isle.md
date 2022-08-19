@@ -48,6 +48,11 @@ Lee was supposed to purchase the island together with her brother. However, he e
 The island’s pristine, natural environment was home to many species of wildlife, and Lee started exploring the island, documenting its fauna, particularly its birds, with her camera. A number of her photographs were reproduced in the 1964 issue of the *Straits Times Annual* in “Birds of Pulau Selegu”, an article by former Commissioner-General for Southeast Asia Malcolm MacDonald (1948–55). 
 (Before it was renamed Sarong Island in 1967, the island was widely referred to as Pulau Selegu, even though Pulau Selegu was the name of a different, though nearby, island).[^8]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/5_kingfisher.jpg)
+<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
+</i>
+</div>
+
 Lee was a skilful wildlife photographer, recognised as a “first-rate photographer of birds” and even “The Secretary [of] Birds”. Her photographs of birds such as the white-collared kingfisher and the yellow-breasted sunbird were described as “stunning” and “impossible to describe [without] an exaggeration of eulogy”.[^9]
 
 #### **Becoming Sarong Island**
