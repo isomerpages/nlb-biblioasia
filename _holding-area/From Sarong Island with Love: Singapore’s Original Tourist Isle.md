@@ -111,7 +111,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^9]: Malcolm MacDonald, “[Birds of Selegu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19640101-1.2.45),” *Straits Times Annual*, 1 January 1964, 38–39; Hasnah Vimala-Chen, “[And with Fond Memories of My Childhood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631027-1.2.34.3),” *Straits Times*, 27 October 1963, 6; Gerald Wilkins, “[Malaysian Scene in Picture and Story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631104-1.2.113),” *Straits Times*, 4 November 1963, 13; “[The Secretary-birds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630915-1.2.109.1),” *Straits Times*, 15 September 1963, 17; “[The Scorching Personal Picture of a Rhino Coming in for the Kill](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650606-1.2.14.8),” *Straits Times*, 6 June 1965, 3; “[Scent of a Woman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030809-1.2.179.19),” *Straits Times*, 9 August 2003, 10. (From NewspaperSG)
 
-[^10]: Mrs Christina Balsara, oral history interview, 18 July 2001.
+[^10]: [Mrs Christina Balsara](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/937c5284-115e-11e3-83d5-0050568939ad), oral history interview, 18 July 2001.
 
 [^11]: “Party for MacDonalds at ‘White House’,” Straits Times, 26 April 1962, 14. (From NewspaperSG)
 
