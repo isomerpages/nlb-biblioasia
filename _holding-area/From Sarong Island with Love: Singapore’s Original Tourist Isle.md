@@ -35,7 +35,6 @@ After Bennett died in 1950, the house and the island – which was connected to 
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/3_WhiteHouse.jpg)
 <div style="background-color: white;"> Detail from a 1966 topographical map shows the White House on a green patch of land off the northern coast of Pulau Blakang Mati (now Sentosa). Pulau Selegu is shown northwest of the White House. <i>Singapore, 1966, M2016_000173_SD, Survey Department, Singapore, courtesy of National Archives of Singapore.</i>
-</i>
 </div>
 
 In the end, the island and bungalow were purchased by well-known socialite Christina Lee, the second wife of cinema magnate Loke Wan Tho. In an oral history interview in 2001 (by then she was married to Indian psychiatrist and businessman Dadi Balsara),[^6] she recalled that it was her brother who brought the island to her notice.
@@ -49,7 +48,6 @@ The island’s pristine, natural environment was home to many species of wildlif
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/5_kingfisher.jpg)
 <div style="background-color: white;"> Christina Lee’s photograph of a white-collared kingfisher boring a tunnel-nest into a mudbank on Sarong Island. <i>Image reproduced from the Straits Times Annual for 1964 (Singapore: Straits Times Press, 1964), 39. (From National Library, Singapore, call no. RSING 959.5 STA).</i>
-</i>
 </div>
 
 Lee was a skilful wildlife photographer, recognised as a “first-rate photographer of birds” and even “The Secretary [of] Birds”. Her photographs of birds such as the white-collared kingfisher and the yellow-breasted sunbird were described as “stunning” and “impossible to describe [without] an exaggeration of eulogy”.[^9]
@@ -66,7 +64,6 @@ Lee had ambitious plans to turn the island into a tourist resort. The multi-mill
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening.jpg)
 <div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
-</i>
 </div>
 
 According to Lee, Law and National Development Minister E.W. Barker helped her to make Sarong Island happen. “I knew his wife and we used to play mahjong together…,” she said. “[So] I invited him and his wife to the island. And he liked it very much as he thought it was beautiful… and I asked Eddie Barker to help me, and he did. Soon after that I got the approval to turn it into a restaurant.”[^14] 
@@ -79,7 +76,6 @@ The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. 
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/6_ChristinaLee.jpg)
 <div style="background-color: white;"> Christina Lee entertaining guests at a cocktail party on Sarong Island, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
-</i>
 </div>
 
 The restaurant served “curry buffet with added European dishes” for lunch on Sundays, and “air-flown steaks, imported capon chicken and whole rock lobster” for Saturday-night dinners amid music and dance performances by local groups.[^16]
@@ -124,7 +120,6 @@ In 1971, the government issued a notice in the Government Gazette that it would 
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/7_closed.jpg)
 <div style="background-color: white;"> Notice announcing the closure of Sarong Island. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG).</i>
-</i>
 </div>
 
 #### **Joining Up with Sentosa**
