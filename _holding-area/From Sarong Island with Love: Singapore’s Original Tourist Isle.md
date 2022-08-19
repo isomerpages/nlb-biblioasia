@@ -83,7 +83,7 @@ Republic of Singapore, <i>Government Gazette. Extraordinary</i>, 27 February 197
 Survey Department, Singapore, <i>Topographical Map of Central and Southern Singapore, and Singapore City</i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
 Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br>
 Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
-“Two Islands to Link with Sentosa,” Straits Times, 2 February 1978, 28. (From NewspaperSG)
+“Two Islands to Link with Sentosa,” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)
 <br>
 </div>
 	
