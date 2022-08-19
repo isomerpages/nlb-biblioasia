@@ -61,10 +61,15 @@ The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. 
 The restaurant served “curry buffet with added European dishes” for lunch on Sundays, and “air-flown steaks, imported capon chicken and whole rock lobster” for Saturday-night dinners amid music and dance performances by local groups.16
 
 Among those who performed on the island was Santha Bhaskar, who would later become a Cultural Medallion recipient. She danced with her group on the island and recalled the allure of the place in an oral history interview in 2009: “[W]e used to go to Sarong Island by boat… It [had a] very nice setting, you know, very beautiful setting at Sarong Island… Christina’s husband was very artistic. So he decorated the place in such a way that tourists [would] come. It is like they are in a magic world you know.”17
+
 Pianist and singer Danny Koh had also performed on Sarong Island. In a 2015 oral history interview, he vividly recalled how “romantic” and “special” the place was. His band played at the restaurant and the guests were all big spenders. “[T]hey were locals, those who liked to party around who liked to have dinner and all these things,” he said.18
+
 The island could also be rented out for events ranging from private and company functions to graduation and award-giving ceremonies. The public could also use it for weddings and fashion shows.19
+
 Lee initially continued living in the White House but eventually moved to another house on the island. “I built a little house right [by] the sea… I could open the windows and… see the next island. That small island now… with the pillar for the cable car [Pulau Selegu],” she recalled.20
-A Short-lived Venture
+
+#### **A Short-lived Venture**
+
 To promote Sarong Island, advertisements ran in the press with taglines such as “From Sarong Island with Love”, “Singapore’s Finest Tourist Attraction”, and “Go Where the Beautiful People Go”. Guests were also promised gifts and prizes.21
 One problem with beckoning people to Sarong Island “across calm and moonlit waters” was that the waters were not always calm, especially during the monsoon season. As Lee recalled: “[D]uring the end of the year when it rained, I realised that a lot of people would book the place… [But] they would not come because they had to come in a sampan. They would have to walk up the hill which was not sheltered… I realised those were the things that stopped people from coming.”22
 To mitigate this problem, Lee promised to provide visitors with “complete shelter” from the jetty to the restaurant with the use of umbrellas and “Sarong Island straw hats”. However, it soon became clear to Lee that Sarong Island was difficult to sustain as a tourist attraction and a going business concern.23
