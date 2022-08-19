@@ -49,7 +49,7 @@ The island’s pristine, natural environment was home to many species of wildlif
 (Before it was renamed Sarong Island in 1967, the island was widely referred to as Pulau Selegu, even though Pulau Selegu was the name of a different, though nearby, island).[^8]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/5_kingfisher.jpg)
-<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
+<div style="background-color: white;"> Christina Lee’s photograph of a white-collared kingfisher boring a tunnel-nest into a mudbank on Sarong Island. <i>Image reproduced from the Straits Times Annual for 1964 (Singapore: Straits Times Press, 1964), 39. (From National Library, Singapore, call no. RSING 959.5 STA).</i>
 </i>
 </div>
 
