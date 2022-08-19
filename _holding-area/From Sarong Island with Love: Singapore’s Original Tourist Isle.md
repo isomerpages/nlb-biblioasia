@@ -132,6 +132,11 @@ In 1971, the government issued a notice in the Government Gazette that it would 
 
 After acquiring Sarong Island, the government combined it with Sentosa via a land reclamation scheme. Announced in 1978, this $7 million project, which also included the nearby Selegu Island, took about two years to complete and added some 170,000 sq m (17 ha) of land to Sentosa.[^27] Today, Hard Rock Hotel Singapore occupies the land where Sarong Island once stood.[^28]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/8_Sentosamap.jpg)
+<div style="background-color: white;"> Notice announcing the closure of Sarong Island. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG).</i>
+</i>
+</div>
+
 Although Sarong Island no longer exists, the island and Sentosa once shared the same destiny as a “tourist isle of Singapore”. In fact, back in the 1960s, Lee already had an inkling that her island would inspire the transformation of Pulau Blakang Mati into the island resort of Sentosa. “I had gardeners who looked after [my island] very well. In fact, somebody told me that when Lee Kuan Yew [then the prime minister of Singapore] visited Blakang Mati, he found that it was overgrown with grass… he looked across and said, ‘What is that?’ They said, ‘Oh that is Sarong Island.’ He said, ‘It is so beautifully kept so why can’t we do it?’”[^29]
 
 <div style="background-color: white;">
