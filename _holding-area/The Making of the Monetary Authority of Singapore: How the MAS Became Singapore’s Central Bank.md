@@ -76,7 +76,7 @@ Over the last five decades, the MAS has weathered numerous storms. Many of these
 On 30 November 1985, Pan-Electric Industries Limited, a company listed on the Stock Exchange of Singapore, collapsed and was placed under receivership. A marine salvage, hotel and property group, it had amassed huge debts of $453 million owed to 35 banks and $160 million worth of unfulfilled forward contracts.[^20]
 
 ![](/images/Vol%2018%20Issue%203/MAS/5_SESarticle.jpg)
-<div style="background-color: white;">Chairman of the Monetary Authority of Singapore Goh Keng Swee (second from left) at a board meeting. Seated next to him are J.Y. Pillay (extreme left) and Richard Hu (third from left). <i>Image reproduced from Ignatius Low, Fiona Chan and Gabriel Chan, Sustaining Stability: Serving Singapore (Singapore: Straits Times Press, 2012), 15. (From National Library, Singapore, call no. RSING 332.11095957 LOW).</i></div>
+<div style="background-color: white;">Following the Pan-Electric Industries crisis, the Singapore Stock Exchange was closed for two days to prevent panic selling by shareholders. <i>Image reproduced from Conrad Raj, “SES Suspends All Trading,” Straits Times, 2 December 1985, 1. (From NewspaperSG). </i></div>
 
 In an unprecedented move, the stock exchange was closed for trading from 2 to 4 December 1985 in a bid to stabilise the market and mitigate against any contagion effect and fallout on the heavily leveraged stockbroking firms. The closure was considered a drastic move and in doing so, “Singapore had to pay the price in terms of economic, reputational and social costs”.[^21]
 
