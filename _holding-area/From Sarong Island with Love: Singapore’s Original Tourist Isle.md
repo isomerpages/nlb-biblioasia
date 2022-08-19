@@ -97,7 +97,7 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^2]: “[A Many Splendoured Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670923-1.2.7.37),” *Eastern Sun*, 23 September 1967, 5; R. Chandran, “[Christina’s Isle of Joy to Be Opened on Thursday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670916-1.2.62),” *Straits Times*, 16 September 1967, 7. (From NewspaperSG)
 
-[^3]: “Christina’s Isle of Joy.”
+[^3]: “[Christina’s Isle of Joy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670916-1.2.62).”
 
 [^4]: “For Sale: Isle Dream Home,” Straits Times, 16 March 1957, 5 (From NewspaperSG); “HMS Grasshopper,” Malayan Volunteers Group, January 2021, https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list_hms_grasshopper_version_1.2.2_jan_21.pdf.
 
