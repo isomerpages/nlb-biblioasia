@@ -60,6 +60,11 @@ In 1964, Lee decided to turn the island into a “pleasure island” that she wa
 
 Lee had ambitious plans to turn the island into a tourist resort. The multi-million-dollar project called for the construction of numerous amenities, including a seawater swimming pool, bowling alleys, a floating restaurant, a night club for members only and 50 chalets each equipped with “a sitting room, a kitchenette and a bedroom with bathroom”. These chalets were for tourists who wanted to spend the weekend or longer on the island. To attract tourists, “a fleet of small ferry boats operating round-the-clock to provide a 30-cent four-minute ride to and from Jardine Steps” was put in place.[^13]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening.jpg)
+<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
+</i>
+</div>
+
 According to Lee, Law and National Development Minister E.W. Barker helped her to make Sarong Island happen. “I knew his wife and we used to play mahjong together…,” she said. “[So] I invited him and his wife to the island. And he liked it very much as he thought it was beautiful… and I asked Eddie Barker to help me, and he did. Soon after that I got the approval to turn it into a restaurant.”[^14] 
 
 #### **Sarong Island Opens**
