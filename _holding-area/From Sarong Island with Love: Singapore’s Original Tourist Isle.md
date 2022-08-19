@@ -13,12 +13,12 @@ By Lim Tin Seng
 
 For many people, Sentosa is a leisure and tourist destination with a tropical getaway vibe (indeed, it now bills itself as “Singapore’s Island Getaway”). However, before there was Sentosa, Singapore had another tourist isle that was marketed as a getaway from the busy city. A print advertisement from 1967 beckoned people to:
 
-<div>&emsp; “Come to the island…<br>
+&emsp; “Come to the island…<br>
 &emsp;across calm and moonlit waters,<br>
 &emsp;to look at beauty…<br>
 &emsp;guarded by white marble carved into<br>
 &emsp;serene eyes and silent lips,<br>
-&emsp;that speak only to our inner hearts.[^1] </div>
+&emsp;that speak only to our inner hearts. [^1]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland.jpg)
 <div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” <i>Straits Times, 14 October 1967, 5. (From NewspaperSG).</i>
