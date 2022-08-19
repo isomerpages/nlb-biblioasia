@@ -113,23 +113,23 @@ Although Sarong Island no longer exists, the island and Sentosa once shared the 
 
 [^10]: Mrs Christina Balsara, oral history interview, 18 July 2001.
 
-“Party for MacDonalds at ‘White House’,” Straits Times, 26 April 1962, 14. (From NewspaperSG)
+[^11]: “Party for MacDonalds at ‘White House’,” Straits Times, 26 April 1962, 14. (From NewspaperSG)
 
-Mrs Christina Balsara, oral history interview, 18 July 2001; “Christina’s Isle of Joy.”
+[^12]: Mrs Christina Balsara, oral history interview, 18 July 2001; “Christina’s Isle of Joy.”
 
-“Pleasure Isle for Tourists,” Straits Times, 29 February 1964, 1. (From NewspaperSG)
+[^13]: “Pleasure Isle for Tourists,” Straits Times, 29 February 1964, 1. (From NewspaperSG)
 
-Mrs Christina Balsara, oral history interview, 18 July 2001.
+[^14]: Mrs Christina Balsara, oral history interview, 18 July 2001.
 
 [^15]: “Christina’s Isle of Joy”; “Brilliant Backdrop Sets Mood for Opening of Sarong Island,” Straits Times, 23 September 1967, 9. (From NewspaperSG)
 
-R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7; “Page 6 Advertisements Column 2,” Straits Times, 18 November 1967, 6 (From NewspaperSG); “Brilliant Backdrop Sets Mood.”
+[^16]: R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7; “Page 6 Advertisements Column 2,” Straits Times, 18 November 1967, 6 (From NewspaperSG); “Brilliant Backdrop Sets Mood.”
 
-Mrs Santha Baskar, oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
+[^17]: Mrs Santha Baskar, oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
 
-Daniel Koh Yew Bin, oral history interview by Mark Wong, 24 March 2015, MP3 audio, Reel/Disc 6 of 13, 39:19, National Archives of Singapore (accession no. 004011).
+[^18]: Daniel Koh Yew Bin, oral history interview by Mark Wong, 24 March 2015, MP3 audio, Reel/Disc 6 of 13, 39:19, National Archives of Singapore (accession no. 004011).
 
-“Page 4 Advertisements Column 2,” Straits Times, 17 January 1968, 4. (From NewspaperSG)
+[^19]: “Page 4 Advertisements Column 2,” Straits Times, 17 January 1968, 4. (From NewspaperSG)
 
 [^20]: Mrs Christina Balsara, oral history interview, 18 July 2001.
 
