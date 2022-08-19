@@ -133,7 +133,7 @@ In 1971, the government issued a notice in the Government Gazette that it would 
 After acquiring Sarong Island, the government combined it with Sentosa via a land reclamation scheme. Announced in 1978, this $7 million project, which also included the nearby Selegu Island, took about two years to complete and added some 170,000 sq m (17 ha) of land to Sentosa.[^27] Today, Hard Rock Hotel Singapore occupies the land where Sarong Island once stood.[^28]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/8_Sentosamap.jpg)
-<div style="background-color: white;"> Notice announcing the closure of Sarong Island. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG).</i>
+<div style="background-color: white;"> Detail from a 1992 hydrographic chart shows that both Sarong Island and Pulau Selegu are now part of Sentosa. The two islands were reclaimed in the late 1970s. <i>Singapore. Keppel Harbour and Cruise Bay, 18/03/1992, HC000490, Maritime and Port Authority of Singapore, courtesy of National Archives of Singapore.</i>
 </i>
 </div>
 
