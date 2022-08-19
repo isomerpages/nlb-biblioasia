@@ -77,8 +77,11 @@ One problem with beckoning people to Sarong Island “across calm and moonlit wa
 To mitigate this problem, Lee promised to provide visitors with “complete shelter” from the jetty to the restaurant with the use of umbrellas and “Sarong Island straw hats”. However, it soon became clear to Lee that Sarong Island was difficult to sustain as a tourist attraction and a going business concern.23
 
 In August 1968, a little less than a year after the island’s opening, a humorous notice was published in the newspapers to announce the restaurant’s closure. It said: “We’re not weather experts, but from past experience we expect a similar weather pattern at this time of year as last time. And… ‘boy does it rain!’ Therefore, the management and staff of Sarong Island would like to thank all customers and friends for their patronage and support. We also wish to take this opportunity to announce that the Sarong Island Restaurant will cease operation until further notice.”24
+
 In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.25 Lee was shocked and disappointed by the news.26
-Joining Up with Sentosa
+
+#### **Joining Up with Sentosa**
+
 After acquiring Sarong Island, the government combined it with Sentosa via a land reclamation scheme. Announced in 1978, this $7 million project, which also included the nearby Selegu Island, took about two years to complete and added some 170,000 sq m (17 ha) of land to Sentosa.27 Today, Hard Rock Hotel Singapore occupies the land where Sarong Island once stood.28
 Although Sarong Island no longer exists, the island and Sentosa once shared the same destiny as a “tourist isle of Singapore”. In fact, back in the 1960s, Lee already had an inkling that her island would inspire the transformation of Pulau Blakang Mati into the island resort of Sentosa. “I had gardeners who looked after [my island] very well. In fact, somebody told me that when Lee Kuan Yew [then the prime minister of Singapore] visited Blakang Mati, he found that it was overgrown with grass… he looked across and said, ‘What is that?’ They said, ‘Oh that is Sarong Island.’ He said, ‘It is so beautifully kept so why can’t we do it?’”29
 
