@@ -5,7 +5,6 @@ description: The story of how Johor ended up at the Chicago World’s Fair is an
   unexpected twist in Malaya’s colonial past.
 image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
 ---
-
 #### The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 By Faris Joraimi
 
@@ -38,7 +37,7 @@ Inheriting the large territory of Johor in 1862, Abu Bakar expanded its Teochew 
 
 The sultan was among the prominent non-European leaders of the time who travelled to form strategic international connections and gain prestige; others included King Kalakaua of Hawai‘i  and King Chulalongkorn of Siam (now Thailand). Their tours sought to prove that the land they held sway over were – contrary to European beliefs – cultured and progressive, and therefore fit to govern themselves. 
 
-So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair afirmed its stature. 
+So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair affirmed its stature. 
 
 Enter Rounsevelle Wildman (1864–1901), an American reporter-turned-diplomat. His first appointment was as United States (US) Consul-General to Singapore, starting in 1890.[^2] In his account *Tales of the Malayan Coast* (1899),[^3] Wildman conjured up the picturesque Malaya as Western officials saw it: a timeless landscape with inhabitants cast in specific roles. Sultan Abu Bakar, at least, impressed him. At a palace banquet Wildman attended in Johor Bahru, the sultan served an international menu and chided Westerners with wit and humour for thinking Malays were savages.[^4]
 
