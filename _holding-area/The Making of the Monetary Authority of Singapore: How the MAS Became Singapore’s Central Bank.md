@@ -160,7 +160,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^10]: Clement Liew and Peter Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482) (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
 
-[^11]: Paul Wee, “[Central Bank ‘in July or August’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790523-1.2.9),” *Straits Times*, 23 May 1979, 1; Soh Tiang Keng, “Central Bank Plan Put Off: A New Appraisal?,” *Straits Times*, 25 October 1980, 1. (From NewspaperSG)
+[^11]: Paul Wee, “[Central Bank ‘in July or August’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790523-1.2.9),” *Straits Times*, 23 May 1979, 1; Soh Tiang Keng, “[Central Bank Plan Put Off: A New Appraisal?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801025-1.2.6),” *Straits Times*, 25 October 1980, 1. (From NewspaperSG)
 
 [^12]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482), 351.
 
