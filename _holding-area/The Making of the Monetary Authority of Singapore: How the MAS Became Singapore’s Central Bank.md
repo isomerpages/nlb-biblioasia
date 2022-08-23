@@ -73,7 +73,7 @@ The MAS has kept inflation low, maintained healthy official foreign reserves, es
 
 Over the last five decades, the MAS has weathered numerous storms. Many of these were external, such as the collapse of the Bretton Woods Agreement that led to the end of the system of fixed exchange rates, as well as the oil shocks of the 1970s. As Singapore is a small open economy, the MAS has had to deal with the consequences of these and many other global events. However, there were also some specific to Singapore or Southeast Asia that required the MAS to respond. One of the most severe was the Pan-El crisis of 1985.
 
-#### ***Pan-Electric Industries Crisis***
+#### *Pan-Electric Industries Crisis*
 
 On 30 November 1985, Pan-Electric Industries Limited, a company listed on the Stock Exchange of Singapore, collapsed and was placed under receivership. A marine salvage, hotel and property group, it had amassed huge debts of $453 million owed to 35 banks and $160 million worth of unfulfilled forward contracts.[^20]
 
@@ -88,7 +88,7 @@ The system of forward contracts, in which shares are resold before their purchas
 
 Following the incident, the MAS “restricted the trading of forward contracts and toughened insider trading rules”. They also introduced measures to ensure that Singaporeans remained cautious and prudent with their money and investments.[^24]
 
-#### ***Collapse of Barings***
+#### *Collapse of Barings*
 
 A decade later, MAS had to deal with the collapse of Barings Bank, Britain’s oldest merchant bank, triggered by events in Singapore. Nicholas William Leeson, better known as Nick Leeson, was a derivatives trader and the general manager of Barings Futures Singapore. His excessive trading in Nikkei index futures chalked up great losses and saddled the bank with a huge debt. By the time of the bank’s collapse on 26 February 1995, it had accumulated losses amounting to $2.2 billion.[^25]
 
@@ -101,7 +101,7 @@ Explained Richard Hu, then chairman of the MAS: “When Barings happened, of cou
 
 The incident led to the amendment of the Futures Trading Act, which came into force on 1 April 1995, and enabled the MAS to monitor the trading of futures contracts more closely. Measures were also introduced to strengthen the regulatory framework of futures trading under SIMEX.[^28]
 
-#### ***Asian Financial Crisis***
+#### *Asian Financial Crisis*
 
 Soon after the collapse of Barings, the MAS had to deal with the Asian Financial Crisis, which erupted following the collapse of the Thai baht on 2 July 1997 when it depreciated by 15 percent. The contagion spread rapidly to other Southeast Asian currency markets, including Singapore, and caused the Singapore dollar to weaken against the US Dollar. 
 
@@ -115,7 +115,7 @@ Cost-cutting measures were also implemented to support the economy. In November 
 
 By early 1999, the Singapore economy had begun to show signs of recovery and returned to positive growth in the first quarter of that year. Singapore’s low foreign debt, huge foreign exchange reserves, large budget surpluses, high savings rates, low inflation and a sound financial system had helped it to overcome the crisis.[^32]
 
-#### ***Global Financial Crisis***
+#### *Global Financial Crisis*
 
 Some 10 years later, the MAS had to deal with an even larger crisis when the world was plunged into the worst economic crisis since the Great Depression of the 1930s.[^33] The slowdown and contraction of developed economies were particularly sharp in the last quarter of 2008 following the collapse of America investment bank Lehman Brothers in September, and the near-collapse of American International Group, the world’s largest insurer. By the end of 2008, the major economies had slipped into deep recession and this exacted a heavy toll on Asia’s trade-reliant economies.
 
