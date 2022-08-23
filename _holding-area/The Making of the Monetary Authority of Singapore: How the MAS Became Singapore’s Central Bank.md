@@ -88,7 +88,7 @@ The system of forward contracts, in which shares are resold before their purchas
 
 Following the incident, the MAS “restricted the trading of forward contracts and toughened insider trading rules”. They also introduced measures to ensure that Singaporeans remained cautious and prudent with their money and investments.[^24]
 
-#### **Collapse of Barings**
+#### ***Collapse of Barings***
 
 A decade later, MAS had to deal with the collapse of Barings Bank, Britain’s oldest merchant bank, triggered by events in Singapore. Nicholas William Leeson, better known as Nick Leeson, was a derivatives trader and the general manager of Barings Futures Singapore. His excessive trading in Nikkei index futures chalked up great losses and saddled the bank with a huge debt. By the time of the bank’s collapse on 26 February 1995, it had accumulated losses amounting to $2.2 billion.[^25]
 
