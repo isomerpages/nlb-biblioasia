@@ -101,7 +101,7 @@ Explained Richard Hu, then chairman of the MAS: “When Barings happened, of cou
 
 The incident led to the amendment of the Futures Trading Act, which came into force on 1 April 1995, and enabled the MAS to monitor the trading of futures contracts more closely. Measures were also introduced to strengthen the regulatory framework of futures trading under SIMEX.[^28]
 
-#### **Asian Financial Crisis **
+#### ***Asian Financial Crisis***
 
 Soon after the collapse of Barings, the MAS had to deal with the Asian Financial Crisis, which erupted following the collapse of the Thai baht on 2 July 1997 when it depreciated by 15 percent. The contagion spread rapidly to other Southeast Asian currency markets, including Singapore, and caused the Singapore dollar to weaken against the US Dollar. 
 
