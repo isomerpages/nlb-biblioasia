@@ -41,10 +41,13 @@ Added Tang Wee Lip, then manager of the Banking Department at the MAS: “After 
 
 Although MAS did not have the ability to issue currency at its inception, there was a plan for it to eventually do so. As early as 1974 when the MAS was under the chairmanship of Hon, the government had given its in-principle approval for the MAS and the Currency Board to merge according to internal MAS documents.[^10]
 
+![](/images/Vol%2018%20Issue%203/MAS/3_Hon_chairman.jpg)
+<div style="background-color: white;"> Finance Minister Hon Sui Sen, 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 By the late 1970s, the newspapers were publishing stories about an impending merger. In May 1979, a front-page story in the *Straits Times*, citing unnamed sources, said that the government was expected to announce the establishment of a central bank in July or August that year and that this institution would combine the functions of the MAS and the BCCS. This did not come to pass and eventually, in October 1980, in another front-page story, the *Straits Times* reported that the central bank plan had been put off, pending a new appraisal.[^11]
 
-![](/images/Vol%2018%20Issue%203/MAS/3_CentralbankinJul-Aug.jpg)
-<div style="background-color: white;"> (Left) The government was expected to announce the establishment of a central bank in either July or August 1979. <i>Image reproduced from Paul Wee, “Central Bank ‘in July or August’,” Straits Times, 23 May 1979, 1. (From NewspaperSG).</i> (Right) Finance Minister Hon Sui Sen, 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2018%20Issue%203/MAS/3_Hon_chairman.jpg)
+<div style="background-color: white;"> (Left) The government was expected to announce the establishment of a central bank in either July or August 1979. <i>Image reproduced from Paul Wee, “Central Bank ‘in July or August’,” Straits Times, 23 May 1979, 1. (From NewspaperSG).</i></div>
 
 The plan to merge the two had been developed while Hon was chairman of both the MAS and BCCS. But when Goh succeeded Hon on 1 August 1980, Goh was against the idea of bringing the two institutions together.[^12]
 
