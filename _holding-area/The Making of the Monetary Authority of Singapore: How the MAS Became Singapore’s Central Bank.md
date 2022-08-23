@@ -115,7 +115,7 @@ Cost-cutting measures were also implemented to support the economy. In November 
 
 By early 1999, the Singapore economy had begun to show signs of recovery and returned to positive growth in the first quarter of that year. Singapore’s low foreign debt, huge foreign exchange reserves, large budget surpluses, high savings rates, low inflation and a sound financial system had helped it to overcome the crisis.[^32]
 
-#### **Global Financial Crisis**
+#### ***Global Financial Crisis***
 
 Some 10 years later, the MAS had to deal with an even larger crisis when the world was plunged into the worst economic crisis since the Great Depression of the 1930s.[^33] The slowdown and contraction of developed economies were particularly sharp in the last quarter of 2008 following the collapse of America investment bank Lehman Brothers in September, and the near-collapse of American International Group, the world’s largest insurer. By the end of 2008, the major economies had slipped into deep recession and this exacted a heavy toll on Asia’s trade-reliant economies.
 
