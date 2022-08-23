@@ -6,7 +6,6 @@ description: While the Monetary Authority of Singapore was established in 1971,
   it only became a full-fledged central bank some 30 years later.
 image: /images/Vol 18 Issue 3/MAS/1_MASbuilding.jpg
 ---
-
 #### While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later. 
 By Barbara Quek
 
@@ -74,7 +73,7 @@ The MAS has kept inflation low, maintained healthy official foreign reserves, es
 
 Over the last five decades, the MAS has weathered numerous storms. Many of these were external, such as the collapse of the Bretton Woods Agreement that led to the end of the system of fixed exchange rates, as well as the oil shocks of the 1970s. As Singapore is a small open economy, the MAS has had to deal with the consequences of these and many other global events. However, there were also some specific to Singapore or Southeast Asia that required the MAS to respond. One of the most severe was the Pan-El crisis of 1985.
 
-#### **Pan-Electric Industries Crisis**
+#### ***Pan-Electric Industries Crisis***
 
 On 30 November 1985, Pan-Electric Industries Limited, a company listed on the Stock Exchange of Singapore, collapsed and was placed under receivership. A marine salvage, hotel and property group, it had amassed huge debts of $453 million owed to 35 banks and $160 million worth of unfulfilled forward contracts.[^20]
 
