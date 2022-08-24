@@ -14,6 +14,14 @@ sections:
       title: " "
       button: Underground in the City State
   - infopic:
+      title: A History of The Padang
+      subtitle: national day
+      description: What's special about the field in front of the former City Hall building?
+      button: More than an NDP venue
+      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
+      image: /images/Vol 18 Issue 1/The Padang/image010.png
+      alt: Image alt text
+  - infopic:
       title: So, What Is a Singaporean?
       subtitle: National day
       description: Ethnic harmony is an important part of Singapore's national
@@ -22,14 +30,6 @@ sections:
       url: /vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani
       image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
       alt: singaporean national identity
-  - infopic:
-      title: A History of The Padang
-      subtitle: national day
-      description: What's special about the field in front of the former City Hall building?
-      button: More than an NDP venue
-      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
-      image: /images/Vol 18 Issue 1/The Padang/image010.png
-      alt: Image alt text
   - infopic:
       title: Red Terror
       subtitle: war
