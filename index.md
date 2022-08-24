@@ -9,12 +9,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-10-issue-2/nationalday/ndp-hero.jpg
-      url: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades
-      key_highlights:
-        - title: Parades, Flags and Rallies
-          description: Celebrating Singapore’s National Day
-          url: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades
+      background: /images/Vol 18 Issue 2/Subterranean Singapore/jurong caverns banner.jpg
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      title: " "
+      button: Underground in the City State
   - infopic:
       title: So, What Is a Singaporean?
       subtitle: National day
@@ -60,16 +58,6 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
       image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
         Image 6.png
-      alt: Image alt text
-  - infopic:
-      title: Haj Pilgrimage before the 20th Century
-      subtitle: Hari Raya Haji
-      description: Before flights became common in the 1970s, Muslim pilgrims from
-        Southeast Asia travelled to Mecca by land or sea, on voyages that took
-        months or even years.
-      button: A journey of faith
-      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago
-      image: /images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg
       alt: Image alt text
   - infopic:
       title: Subterranean Singapore
@@ -186,16 +174,6 @@ sections:
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
   - infopic:
-      title: Recipes for the Ideal Singaporean Female
-      subtitle: mother's day
-      description: From cooking, cleaning and becoming a good mother to outsourcing
-        housework as women's careers took off. How have home economics lessons
-        evolved?
-      button: home economics then and now
-      url: /vol-13/issue-4/jan-mar-2018/ideal-sgporean-female
-      image: /images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png
-      alt: Image alt text
-  - infopic:
       title: The Extraordinary Life of Kunnuck Mistree
       subtitle: "video: Stories from BiblioAsia"
       description: "How did a 19th-century convict become a wealthy philanthropist? "
@@ -203,16 +181,6 @@ sections:
       url: /videos/kunnuck-mistree
       image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
       alt: " Kunnuck Mistree"
-  - infopic:
-      title: A Qur’an Made in Singapore
-      subtitle: hari raya
-      button: "More on the 1869 Qur’an "
-      url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
-      image: /images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg
-      description: This edition of the Qur’an in the National Library is one of the
-        earliest extant copies to have been printed at Kampong Gelam in
-        Singapore.
-      alt: Qur'an
   - infopic:
       title: Cinema Pioneer Tan Cheng Kee
       subtitle: People
