@@ -128,7 +128,6 @@ After acquiring Sarong Island, the government combined it with Sentosa via a lan
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/8_Sentosamap.jpg)
 <div style="background-color: white;"> Detail from a 1992 nautical chart shows that both Sarong Island and Pulau Selegu are now part of Sentosa. The two islands were reclaimed in the late 1970s. <i>Singapore. Nautical Chart 60 “Keppel Harbour and Cruise Bay”, 18/03/1992, HC000490, Maritime and Port Authority of Singapore, courtesy of National Archives of Singapore.</i>
-</i>
 </div>
 
 Although Sarong Island no longer exists, the island and Sentosa once shared the same destiny as a “tourist isle of Singapore”. In fact, back in the 1960s, Lee already had an inkling that her island would inspire the transformation of Pulau Blakang Mati into the island resort of Sentosa. “I had gardeners who looked after [my island] very well. In fact, somebody told me that when Lee Kuan Yew [then the prime minister of Singapore] visited Blakang Mati, he found that it was overgrown with grass… he looked across and said, ‘What is that?’ They said, ‘Oh that is Sarong Island.’ He said, ‘It is so beautifully kept so why can’t we do it?’”[^29]
