@@ -1,5 +1,5 @@
 ---
-title: Johor at the 1893 Chicago World's Fair
+title: Johor at the 1893 Chicago World’s Fair
 permalink: /test1
 description: The story of how Johor ended up at the Chicago World’s Fair is an
   unexpected twist in Malaya’s colonial past.
@@ -12,13 +12,17 @@ By Faris Joraimi
 <div style="background-color: white;"> Visitors at the great reflecting pool of the White City, the heart of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress.</i>
 </div>
 
-My favourite boyhood novel was Jules Verne’s classic, *Around the World in 80 Days*, which captured the late-19th century’s scientific wonder. European conquest of much of the world opened it up to travel by steam and rail, but many Asians were also active participants in that age of acceleration. The growth of the annual Muslim pilgrimage to Mecca, enabled by steamship services, made Singapore a global hub in a modern Islamic network. 
+My favourite boyhood novel was Jules Verne’s classic, *Around the World in 80 Days*, which captured the scientific wonder of the late-19th century. European conquest of much of the world opened it up to travel by steam and rail, but many Asians were also active participants in that age of acceleration. The growth of the annual Muslim pilgrimage to Mecca, enabled by steamship services, made Singapore a global hub in a modern Islamic network. 
 
-Intellectuals from Cairo to Tokyo urged their societies to join the West in a future limited only by the bounds of Man’s genius and imagination. (Often literally men’s, as women’s contributions were frequently erased.) That ideal was elaborately dramatised in the world’s fairs: spectacles showcasing the latest inventions and gathering humanity’s shared intellectual and artistic advances in one place. 
+Intellectuals from Cairo to Tokyo urged their societies to join the West in a future limited only by the bounds of Man’s genius and imagination. (Often literally men’s, as women’s contributions were frequently overlooked.) That ideal was elaborately dramatised in the world’s fairs: spectacles showcasing the latest inventions and gathering humanity’s shared intellectual and artistic advances in one place. 
 
 These world’s fairs had theatrical scale and encyclopaedic scope. The 1851 Great Exhibition in London – or more marvellously in full, the Great Exhibition of the Works of Industry of All Nations – counted the flushing toilet among its premieres. Electricity and engineering enthralled visitors to the 1889 Universal Exposition in Paris, where they were introduced to phonographs, telephones and the Eiffel Tower.
 
 One of the most impressive world’s fairs was the World’s Columbian Exposition in Chicago in 1893, which featured a little Southeast Asian state that few in the West had heard of: Johor. Encountering this story through fragmentary blog posts and cursory mentions in academic studies, I decided to dig deeper. How did Johor – which Singaporeans today know little about besides being a place for cheap fuel and groceries – end up on this international stage when few other Asian states did? As it turns out, the obscure episode embodied the contradictions of the late 19th century, its dream of progress built on nightmarish exploitation. It exemplified minor players using colonial media like the world’s fairs to manoeuvre and survive as the threat of European conquest closed in.
+
+![](/images/Vol%2018%20Issue%203/Johor%201893/johore-bg_edit%20copy.jpg)
+<div style="background-color: white;"> A bird’s-eye view of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress, Geography and Map Division.</i>
+</div>
 
 #### **Dramatis Personae**
 
@@ -31,18 +35,13 @@ During the 19th century, Johor was transformed from a traditional Malay polity i
 
 Inheriting the large territory of Johor in 1862, Abu Bakar expanded its Teochew plantation economy and created a bureaucratic government to manage its revenues. He modelled the capital Johor Bahru after European cities and adopted English tastes and habits. A friend of Queen Victoria and regular visitor to European capitals, Abu Bakar cultivated the image of an enlightened Eastern ruler.
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/5%20copy.jpg)
-<div style="background-color: white;"> The Johor bungalow in Midway Plaisance, 1893. <i>Image reproduced from C.D. Arnold and H.D. Higinbotham, Official Views of The World’s Columbian Exposition (Chicago: Press Chicago Photo-Gravure Co., 1893). Project Gutenberg.
-</i>
-</div>
-
 The sultan was among the prominent non-European leaders of the time who travelled to form strategic international connections and gain prestige; others included King Kalakaua of Hawai‘i  and King Chulalongkorn of Siam (now Thailand). Their tours sought to prove that the land they held sway over were – contrary to European beliefs – cultured and progressive, and therefore fit to govern themselves. 
 
-So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair afirmed its stature. 
+So effective was Abu Bakar’s “advertisement” of his administration that it only accepted British suzerainty in 1914. Before that, Johor enjoyed membership in the family of “civilised” nations. By 1893, Johor had fixed its borders, gained British recognition of its independence, and was about to implement its own constitution.[^1] Joining a world’s fair affirmed its stature. 
 
 Enter Rounsevelle Wildman (1864–1901), an American reporter-turned-diplomat. His first appointment was as United States (US) Consul-General to Singapore, starting in 1890.[^2] In his account *Tales of the Malayan Coast* (1899),[^3] Wildman conjured up the picturesque Malaya as Western officials saw it: a timeless landscape with inhabitants cast in specific roles. Sultan Abu Bakar, at least, impressed him. At a palace banquet Wildman attended in Johor Bahru, the sultan served an international menu and chided Westerners with wit and humour for thinking Malays were savages.[^4]
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/8%20copy.jpg)
+![](/images/Vol%2018%20Issue%203/Johor%201893/8_edited.png)
 <div style="background-color: white;"> Rounsevelle Wildman in the frontispiece of his book, <i>Tales of the Malayan Coast. Image reproduced from Rounsevelle Wildman, Tales of the Malayan Coast: From Penang to the Philippines (Boston: Pothrop Pub., c.1899). (From National Library, Singapore, call no. RRARE 398.2 WIL).</i>
 </div>
 
@@ -52,19 +51,19 @@ Both men had something to gain. In preparing for the fair, the US tasked its ove
 
 By July 1892, a year before the fair, the Singapore press confirmed Abu Bakar’s pledge to send an exhibit to Chicago, consisting of a model kampong, actual Malay men and women at work, cultural artefacts and commercial products.[^7] The sultan himself would also travel to Chicago. 
 
-News of the impending visit soon crossed the Pacific, and American newspapers printed colourful introductions about Abu Bakar and Johor, its size and population. One described him as “one of the most intelligent of the Eastern sovereigns”.[^8] But as the talents of an Oriental could only be attributed to European guidance, another called him “a good representative of what a Malay of superior caste and education can be when gifted with the opportunities of civilized life”.[^9]
+News of the impending visit soon crossed the Pacific, and American newspapers printed colourful introductions about Abu Bakar and Johor, its size and population. One described him as “one of the most intelligent of the Eastern sovereigns”.[^8] But as the talents of an “Oriental” could only be attributed to European guidance, another called him “a good representative of what a Malay of superior caste and education can be when gifted with the opportunities of civilized life”.[^9]
 
 Arriving in New York in January 1893, Wildman continued building public anticipation for “the only independent Malay kingdom”.[^10] Plans for the exhibit and Abu Bakar’s tour had grown more ambitious. He would visit Washington with an entourage of Malay princes and a troupe of dancing girls, staying for four months. The exhibit would boast a village of 100 Johoreans making sarongs, and even include tigers from the sultan’s private collection.[^11]
 
 A pair of commissioners were appointed to oversee the Johor exhibit in Chicago: Harry Lake, an English engineer who was also Abu Bakar’s secretary, as well as Abdul Rahman Andak, one of Johor’s most influential statesmen.[^12] Confident, eloquent in English and a shrewd negotiator, Abdul Rahman was not popular with Singapore’s British governors, who were uncomfortable with Johor’s autonomy. He was just the man for this intricate mission.
 
+![](/images/Vol%2018%20Issue%203/Johor%201893/Abdul_Rahman.png)
+<div style="background-color: white;"> Abdul Rahman Andak, the Dato Seri Amar Diraja of Johor. <i>Image reproduced from Ahmad Fawzi Basri and Hasrom Haron, Sejarah Johor Moden, 1855–1940: Satu Perbincangan Dari Pelbagai Aspek (Kuala Lumpur: Muzium Negara, 1978). (From National Library, Singapore, call no. Malay R959.5142 FAW).</i>
+</div>
+
 #### **From Johor to Chicago**
 
 In late February 1893, Abu Bakar and his entourage comprising 30 “native princes”, Abdul Rahman and Harry Lake steamed out of Singapore, headed for Europe.[^13] Abu Bakar would sojourn in the German spa-town of Carlsbad (Karlovy Vary in the Czech Republic today) to nurse his declining health. The plan was to visit the US and join Wildman in June. Abdul Rahman and Lake continued across the Atlantic and reached New York in April, accompanied by six Malay artisans who would build the kampong at the exhibit. Later, the two men went to Washington to meet the secretary of state and US president Grover Cleveland.[^14]
-
-![](/images/Vol%2018%20Issue%203/Johor%201893/johore-bg_edit%20copy.jpg)
-<div style="background-color: white;"> A bird’s-eye view of the Chicago World’s Columbian Exposition, 1893. <i>Courtesy of the Library of Congress, Geography and Map Division.</i>
-</div>
 
 The American press was busy milling tall tales about Abu Bakar as an extravagant Asiatic despot. Plenty were perpetuated by Wildman himself, who had become Johor’s spokesman. He painted for American readers a fantastic Johor worth “$10,000,000 diamonds” and other luxuries in the New York magazine, *Harper’s Weekly*.[^15] This line was repeated by newspapers across the country.[^16]
 
@@ -78,13 +77,15 @@ An official catalogue of the fair lists Johor under “No. 12, Oceanic Trading C
 
 Johor’s village included a main bungalow and attap-roofed booths selling Johor-grown tea, pineapple juice (“the national drink”) plus Malay and Chinese trinkets.[^22] About 25 Malay women and men at a time managed the exhibit. In the bungalow was a royal bed, an eating throne and a loom for weaving sarongs, alongside a collection of krises, agricultural tools, game objects, timekeeping devices and coins, Chinese “curios”, Johor woods, animal hides, and stuffed birds. There were also photographs of Johor landscapes specially produced by the famous Singapore studio, G.R. Lambert & Co.[^23]
 
+![](/images/Vol%2018%20Issue%203/Johor%201893/5%20copy.jpg)
+<div style="background-color: white;"> The Johor bungalow in Midway Plaisance, 1893. <i>Image reproduced from C.D. Arnold and H.D. Higinbotham, Official Views of The World’s Columbian Exposition (Chicago: Press Chicago Photo-Gravure Co., 1893). Project Gutenberg.
+</i>
+</div>
+
 Newspapers also mentioned a “permanent exhibit” in the Agricultural Building which was not part of the original plan. That exhibit was dedicated to Johor’s tea culture, then centred on an 800-acre estate by the Skudai River growing the Assam hybrid.[^24] Planting had begun in 1882 and Johor was trying to promote tea as the next big cash-crop after demand for its chief exports, gambier and pepper, had declined.
 
 On 1 May 1893, the fair opened in a formal ceremony. Abdul Rahman represented Johor, “a noticeable figure, dressed in black with a purple apron tied about him, and with an Oriental wealth of insignia across his broad expanse of shirt front”.[^25] The man was undoubtedly in Malay dress, the “apron” being his *samping* (hip-wrapper). All the fanfare, though, belied the twists and turns of an underhanded scheme by Rounsevelle Wildman to take advantage of the ambitious Johoreans. 
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/Abdul_Rahman.png)
-<div style="background-color: white;"> Abdul Rahman Andak, the Dato Seri Amar Diraja of Johor. <i>Image reproduced from Ahmad Fawzi Basri and Hasrom Haron, Sejarah Johor Moden, 1855–1940: Satu Perbincangan Dari Pelbagai Aspek (Kuala Lumpur: Muzium Negara, 1978). (From National Library, Singapore, call no. Malay R959.5142 FAW).</i>
-</div>
 
 #### **Rounsevelle Wildman’s Scheme**
 
@@ -106,7 +107,7 @@ The fair’s organisers also excluded Black Americans from the main exhibits and
 
 Without a place in the main section, a furious Abdul Rahman planned to leave the exhibit’s materials with the US government and return home. Then Honduras unexpectedly withdrew from its slot in the Agricultural Building just a few days before the opening.[^34] With the space available, Johor now had a permanent exhibit all to itself. However, Wildman had transferred rights to the Johor exhibit to the Oceanic Trading Company, whose representatives asked Abdul Rahman to hand over the materials. He defied them and wrote to Wildman demanding an explanation. 
 
-![](/images/Vol%2018%20Issue%203/Johor%201893/3%20copy.jpg)
+![](/images/Vol%2018%20Issue%203/Johor%201893/3_edited.png)
 <div style="background-color: white;"> Map of the Agricultural Building. Johor’s exhibit is on the lower right, between Japan and Argentina. <i>Image reproduced from Plans and Diagrams of All Exhibit Buildings in the World’s Columbian Exposition Compiled from the Official Catalogues Showing the Location of Exhibits (Chicago: W.B. Conkey, 1893).</i>
 </div>
 
@@ -170,7 +171,7 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^17]:“[Correspondence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930307-1.2.3).” 
 
-[^18]:“[On the Average Man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930314-1.2.4),” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG))
+[^18]:“[On the Average Man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930314-1.2.4),” *Singapore Free Press*, 14 March 1893, 2. (From NewspaperSG)
 
 [^19]:“[Rajah Rahman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18930527-1.2.13).” 
 
@@ -212,6 +213,6 @@ Growing up in a society where too often, the discourse around Malays relegates t
 
 [^38]:“[The Sultan of Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18930926-1.2.35),” *Singapore Free Press*, 26 September 1893, 201. (From NewspaperSG)
 
-[^39]:A. Rahman Tang Abdullah, [*Hikayat Johor Dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi Dan Terjemahan Bahasa Inggeris*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200185826) (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
+[^39]:A. Rahman Tang Abdullah, [*Hikayat Johor dan Tawarikh Almarhum Sultan Abu Bakar: Kajian, Transliterasi dan Terjemahan Bahasa Inggeris*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200185826) (Johor Bahru: Yayasan Warisan Johor, 2011), 125. (From National Library, Singapore, call no. RSEA 959.51092 ARA)
 
 [^40]:See Lily Zubaidah Rahim, [*The Singapore Dilemma: The Political and Educational Marginality of the Malay Community*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9374308) (Oxford: Oxford University Press, 1998). (From National Library, Singapore, call no. RSING 305.8992805957 LIL)
