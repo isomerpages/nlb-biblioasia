@@ -14,6 +14,17 @@ sections:
       title: " "
       button: Underground in the City State
   - infopic:
+      title: A Royal Wedding Gone Wrong
+      subtitle: War
+      description: Celebrations during a royal wedding in Tanjung Pinang in 1819 led
+        to a terrible misunderstanding that would change the course of history
+        in Riau and Singapore.
+      button: The 1820 Uprising
+      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+      image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
+        Wrong - Image 9.png
+      alt: Image alt text
+  - infopic:
       title: A History of The Padang
       subtitle: national day
       description: What's special about the field in front of the former City Hall building?
