@@ -60,15 +60,6 @@ sections:
         Image 6.png
       alt: Image alt text
   - infopic:
-      title: Subterranean Singapore
-      subtitle: Places
-      description: After Independence, serious efforts were made to use subterranean space.
-      button: Man-made Tunnels in Singapore
-      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
-      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
-        Image 1.png
-      alt: Image alt text
-  - infopic:
       title: 日本占领时期的新加坡华社
       subtitle: war
       description: The National Library's collection has items from the Chinese
