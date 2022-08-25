@@ -20,3 +20,9 @@ In the 1950s, left-wing influence was strong in Singapore and bookstores that so
 Besides selling books, Union Press also produced teaching materials and published magazines. Its most notable publication was the literary magazine Chao Foon (蕉风), which was first published in Singapore in 1955 (the magazine’s headquarters moved to Kuala Lumpur in 1959).
 
 Chao Foon had a profound impact on literature in Singapore and Malaysia, and continues to be influential today. In the last few years, two books that explore its importance to the local literary scene have been published. In 2021, Lim Choon Bee (林春美) wrote Chao Foon and the Non-leftist Mahua Literature (蕉风与非左翼的马华文学),[^1] while Cold War, Localisation and Modernity (冷战、本土化与现代性), which was edited by Tee Kim Tong (张锦忠), Ng Kim Chew (黄锦树) and Lee Soo Chee (李树枝), was published in 2022. A compilation of essays on Chao Foon titled Banana, Coconuts and Hornbill (蕉风·椰雨·犀鸟声), edited by three Japanese researchers, was also published at around the same time.
+
+cont.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022.
+</div>
