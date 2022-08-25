@@ -29,4 +29,6 @@ This is an edited and translated version of 走过70年 本地友联另类且低
 
 #### **NOTES**
 
-[^1]: Lim Choon Bee 林春美, 蕉风与非左翼的马华文学 [Chao Foon and the Non-leftist Mahua Literature] (台北市: 时报文化出版企业股份有限公司, 2021). (From National Library, Singapore, call no. Chinese RSEA C810.09595 LCM)
+[^1]: Lim Choon Bee 林春美, [蕉风与非左翼的马华文学](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205505847) [*Chao Foon and the Non-leftist Mahua Literature*] (台北市: 时报文化出版企业股份有限公司, 2021). (From National Library, Singapore, call no. Chinese RSEA C810.09595 LCM)
+
+[^2]: Headquartered in San Francisco, the Asia Foundation is a non-profit international development organisation committed to improving lives across a dynamic and developing Asia-Pacific. 
