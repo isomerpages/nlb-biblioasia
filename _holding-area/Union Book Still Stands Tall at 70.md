@@ -6,7 +6,7 @@ description: Chinese bookstore Union Book has seen many changes over the last se
 #### Chinese bookstore Union Book has seen many changes over the last seven decades. 
 By Chen Yuxin
 
-![](/images/)
+![](/images/Vol%2018%20Issue%203/Union%20Book/1_coverimage.jpg)
 <div style="background-color: white;">  In 1952, Union Press set up an office on the second floor of International Bookstore opposite Clifford Pier in Singapore. <i>Courtesy of Union Book.</i></div>
 
 It has been seven decades since the Hong Kong publisher Union Press (友联出版社) set up an office on the second floor of International Bookstore (国际书店), opposite Clifford Pier, in Singapore in 1952.
@@ -31,4 +31,4 @@ This is an edited and translated version of 走过70年 本地友联另类且低
 
 [^1]: Lim Choon Bee 林春美, [蕉风与非左翼的马华文学](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205505847) [*Chao Foon and the Non-leftist Mahua Literature*] (台北市: 时报文化出版企业股份有限公司, 2021). (From National Library, Singapore, call no. Chinese RSEA C810.09595 LCM)
 
-[^2]: Headquartered in San Francisco, the Asia Foundation is a non-profit international development organisation committed to improving lives across a dynamic and developing Asia-Pacific. 
+[^2]: Headquartered in San Francisco, the Asia Foundation is a non-profit international development organisation committed to improving lives across a dynamic and developing Asia-Pacific.
