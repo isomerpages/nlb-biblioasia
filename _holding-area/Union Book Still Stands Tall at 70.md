@@ -26,3 +26,7 @@ cont.
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022.
 </div>
+
+#### **NOTES**
+
+[^1]: Lim Choon Bee 林春美, 蕉风与非左翼的马华文学 [Chao Foon and the Non-leftist Mahua Literature] (台北市: 时报文化出版企业股份有限公司, 2021). (From National Library, Singapore, call no. Chinese RSEA C810.09595 LCM)
