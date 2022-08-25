@@ -24,7 +24,7 @@ Chao Foon had a profound impact on literature in Singapore and Malaysia, and con
 cont.
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/Cai_Mingying.jpg)
-<div style="background-color: white;">  In 1952, Union Press set up an office on the second floor of International Bookstore opposite Clifford Pier in Singapore. <i>Courtesy of Union Book.</i></div>
+<div style="background-color: white;"> Cai Mingying (holding bouquet) with staff of Union Book at the at bookstore’s 65th anniversary dinner in 2017. <i>Courtesy of Union Book.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022.
