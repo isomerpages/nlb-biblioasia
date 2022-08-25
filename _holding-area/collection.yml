@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Union Book Still Stands Tall at 70.md
       - "From Sarong Island with Love: Singapore’s Original Tourist Isle.md"
       - "The Making of the Monetary Authority of Singapore: How the MAS Became
         Singapore’s Central Bank.md"
