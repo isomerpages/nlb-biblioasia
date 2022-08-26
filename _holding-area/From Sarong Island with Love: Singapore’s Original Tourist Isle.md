@@ -75,9 +75,6 @@ Sarong Island was declared open on 22 September 1967 by Barker, an event that wa
 
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.
 
-![](/images/Vol%2018%20Issue%203/Sarong%20Island/6_ChristinaLee.jpg)
-<div style="background-color: white;"> Christina Lee entertaining guests at a cocktail party on Sarong Island, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
-</div>
 
 The restaurant served “curry buffet with added European dishes” for lunch on Sundays, and “air-flown steaks, imported capon chicken and whole rock lobster” for Saturday-night dinners amid music and dance performances by local groups.[^16]
 
@@ -86,6 +83,9 @@ Among those who performed on the island was Santha Bhaskar, who would later beco
 Pianist and singer Danny Koh had also performed on Sarong Island. In a 2015 oral history interview, he vividly recalled how “romantic” and “special” the place was. His band played at the restaurant and the guests were all big spenders. “[T]hey were locals, those who liked to party around who liked to have dinner and all these things,” he said.[^18]
 
 The island could also be rented out for events ranging from private and company functions to graduation and award-giving ceremonies. The public could also use it for weddings and fashion shows.[^19]
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/6_ChristinaLee.jpg)
+<div style="background-color: white;"> Christina Lee entertaining guests at a cocktail party on Sarong Island, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
+</div>
 
 Lee initially continued living in the White House but eventually moved to another house on the island. “I built a little house right [by] the sea… I could open the windows and… see the next island. That small island now… with the pillar for the cable car [Pulau Selegu],” she recalled.[^20]
 
