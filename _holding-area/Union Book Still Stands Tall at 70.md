@@ -63,8 +63,14 @@ Bookselling has changed in other ways as well. In 1995, when Ma joined Union Boo
 
 #### **The Uniqueness of Union Book**
 
+Union Book moved into its current location on the third floor of Bras Basah Complex in 1981, one floor above Daren Restaurant (大人餐厅). Chow Li Liang was also one of the shareholders of the restaurant. Because of its proximity to the bookstore and the link with Chow, the restaurant became part of the Union Book experience. Ma recalled that when she was working for Chow, the two of them would often have zhajiang noodles (炸酱麵) at the restaurant. Many Chinese literary groups and intellectuals also enjoyed meeting at the restaurant in its heyday. According to Ma, they had originally planned to build a staircase to connect the restaurant and the bookstore but were unable to convince the authorities to do so. (Daren Restaurant eventually shuttered in 1998.)
 
-cont.
+By the time the bookstore moved to Bras Basah Complex, Nanyang University had been merged with the University of Singapore and the Chinese bookstore scene had begun to become less vibrant. However, there were still many teachers and parents who frequented the store on weekends. Singaporean writer Yeng Pway Ngon (英培安) was one of the regulars at Union Book. (On a side note, Yeng met his future wife, Goh Beng Choo, at a Union Book event.)
+
+Interestingly, Union Book also ran a bookstore in CHIJ St Nicholas Girls’ School from 1968 to 2003. Union Book veteran Cai Mingying was in charge of the campus store throughout this time, making her a part of the St Nicholas family.
+
+Ma said she did not fully understand the historical significance of Union Book in Singapore until the commemorative book was published. However, she did not feel oppressed by the past. “History is history. It should not carry too much baggage. I believe that the Chinese community in Singapore is bogged down with too much historical burden which, in my opinion, is not necessary. Why weigh ourselves down this way?” Ma said she is focused on ensuring that Union Book remains relevant so that the store can look forward to its 100th year anniversary. 
+
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/Cai_Mingying.jpg)
 <div style="background-color: white;"> Cai Mingying (holding bouquet) with staff of Union Book at the at bookstore’s 65th anniversary dinner in 2017. <i>Courtesy of Union Book.</i></div>
