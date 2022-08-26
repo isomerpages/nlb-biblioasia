@@ -47,6 +47,9 @@ Zhong believes that the history of the bookstore mirrors the larger historical c
 
 At the book launch, Zhong talked about the joys and challenges of research, while Lee Huay Leng (李慧玲), the editor-in-chief of the Chinese Media Group at SPH Media Limited, discussed the relationship between Union Book and the Chinese reading ecosystem in Singapore. Others who spoke at the event included retired employee Cai Mingying; Yu Hailin (馀海琳), the daughter of Yu Dekuan; Singaporean writer You Jin (尤今); and Tan Chee Lay (陈志锐), the deputy head of Asian Languages & Cultures at the National Institute of Education.
 
+![](/images/Vol%2018%20Issue%203/Union%20Book/Cai_Mingying.jpg)
+<div style="background-color: white;"> Cai Mingying (holding bouquet) with staff of Union Book at the at bookstore’s 65th anniversary dinner in 2017. <i>Courtesy of Union Book.</i></div>
+
 #### **Three Phases in Union Book’s History**
 
 Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union Book from Union Press in 1996, making that year an important watershed. From then on, Union Book was officially separated from Union Press and became a fully independent entity. The last phase began in 2005 when Margaret Ma took over the running of the bookstore. 
