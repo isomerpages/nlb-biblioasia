@@ -130,9 +130,7 @@ Republic of Singapore, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.e
 Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/21098619-b150-11e6-9af5-0050568939ad">Topographical Map of Central and Southern Singapore, and Singapore City</a></i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
 Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49b331-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</i></a>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br>
 Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49c797-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands</a></i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
-“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780202-1.2.125">Two Islands to Link with Sentosa,</a>” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)
-<br>
-</div>
+“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780202-1.2.125">Two Islands to Link with Sentosa,</a>” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)<br></div>
 
 <div style="background-color: white;">
 <br/>
