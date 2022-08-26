@@ -94,24 +94,6 @@ Lee initially continued living in the White House but eventually moved to anothe
 
 To promote Sarong Island, advertisements ran in the press with taglines such as “From Sarong Island with Love”, “Singapore’s Finest Tourist Attraction”, and “Go Where the Beautiful People Go”. Guests were also promised gifts and prizes.[^21]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>THE MYSTERY OF SARONG ISLAND’S REAL NAME</b><br><br>
-In the 1950s and 1960s, the island that became known as Sarong Island was regularly referred to as Pulau Selegu in press reports. However, Pulau Selegu was actually the name of another island, while Sarong Island originally did not have a name. For instance, a 1966 topographical map of Singapore shows that Selegu Island was located northwest of an unnamed island sitting along the northwestern coast of Sentosa (or Pulau Blakang Mati at the time). This unnamed island has a structure labelled “White House” in the map.<br><br>
-A 1979 survey map of the area also states that the lot and <i>mukim</i> (“district” in Malay) number for Sarong Island is “Lot 52 Mukim XXXIV”, which is the same as the one published in the 1971 acquisition notice in the Government Gazette. Pulau Selegu had a different lot and <i>mukim</i> number: Lot 196 Mukim XXXIV. <br><br>
-While these provide evidence that Sarong Island and Pulau Selegu were not the same island, we still do not know the original name of what was subsequently termed Sarong Island. A possible explanation could be that Sarong Island was a tidal island, a piece of land that is connected to the mainland at low tide and submerged at high tide. As such, it was not given a name and could be seen by surveyors as part of the bigger Blakang Mati (Sentosa) island. <br><br>
-In 1978, Law, Environment, and Science and Technology Minister E.W. Barker asked Parliament to approve a $7 million reclamation plan to link Sarong Island and Pulau Selegu to Sentosa, thus showing a distinction between the two islands. “The area proposed for reclamation is an eyesore at low tide when muddy flats, mangrove swamps and flotsam are exposed. The reclamation will join up Pulau Selegu and Sarong Island with Sentosa Island which will not only improve the visual impact on visitors, but will also create more land for future development,” he said.<br><br>
-The reclamation works that merged Pulau Selegu and Sarong Island with Sentosa were completed in 1980.<br><br>
-		<b>REFERENCES</b><br><br>Dunlop, Peter K.G. 
-British Royal Air Force, <i>Aerial Photographs from South-east to North-west Showing Pulau Blakang Mati, Pasir Panjang Wharf</i>, 22 November 1949, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 258513) <br><br>“For Sale: Isle Dream Home,” <i>Straits Times</i>, 16 March 1957, 5 (From NewspaperSG) <br><br>
-Parliament of Singapore, <i>Reclamation at Sentosa Island</i>, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
-Republic of Singapore, <i>Government Gazette. Extraordinary</i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
-Survey Department, Singapore, <i>Topographical Map of Central and Southern Singapore, and Singapore City</i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
-Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br>
-Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
-“Two Islands to Link with Sentosa,” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)
-<br>
-</div>
-	
 One problem with beckoning people to Sarong Island “across calm and moonlit waters” was that the waters were not always calm, especially during the monsoon season. As Lee recalled: “[D]uring the end of the year when it rained, I realised that a lot of people would book the place… [But] they would not come because they had to come in a sampan. They would have to walk up the hill which was not sheltered… I realised those were the things that stopped people from coming.”[^22]
 
 To mitigate this problem, Lee promised to provide visitors with “complete shelter” from the jetty to the restaurant with the use of umbrellas and “Sarong Island straw hats”. However, it soon became clear to Lee that Sarong Island was difficult to sustain as a tourist attraction and a going business concern.[^23]
@@ -133,6 +115,24 @@ After acquiring Sarong Island, the government combined it with Sentosa via a lan
 </div>
 
 Although Sarong Island no longer exists, the island and Sentosa once shared the same destiny as a “tourist isle of Singapore”. In fact, back in the 1960s, Lee already had an inkling that her island would inspire the transformation of Pulau Blakang Mati into the island resort of Sentosa. “I had gardeners who looked after [my island] very well. In fact, somebody told me that when Lee Kuan Yew [then the prime minister of Singapore] visited Blakang Mati, he found that it was overgrown with grass… he looked across and said, ‘What is that?’ They said, ‘Oh that is Sarong Island.’ He said, ‘It is so beautifully kept so why can’t we do it?’”[^29]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<b>THE MYSTERY OF SARONG ISLAND’S REAL NAME</b><br><br>
+In the 1950s and 1960s, the island that became known as Sarong Island was regularly referred to as Pulau Selegu in press reports. However, Pulau Selegu was actually the name of another island, while Sarong Island originally did not have a name. For instance, a 1966 topographical map of Singapore shows that Selegu Island was located northwest of an unnamed island sitting along the northwestern coast of Sentosa (or Pulau Blakang Mati at the time). This unnamed island has a structure labelled “White House” in the map.<br><br>
+A 1979 survey map of the area also states that the lot and <i>mukim</i> (“district” in Malay) number for Sarong Island is “Lot 52 Mukim XXXIV”, which is the same as the one published in the 1971 acquisition notice in the Government Gazette. Pulau Selegu had a different lot and <i>mukim</i> number: Lot 196 Mukim XXXIV. <br><br>
+While these provide evidence that Sarong Island and Pulau Selegu were not the same island, we still do not know the original name of what was subsequently termed Sarong Island. A possible explanation could be that Sarong Island was a tidal island, a piece of land that is connected to the mainland at low tide and submerged at high tide. As such, it was not given a name and could be seen by surveyors as part of the bigger Blakang Mati (Sentosa) island. <br><br>
+In 1978, Law, Environment, and Science and Technology Minister E.W. Barker asked Parliament to approve a $7 million reclamation plan to link Sarong Island and Pulau Selegu to Sentosa, thus showing a distinction between the two islands. “The area proposed for reclamation is an eyesore at low tide when muddy flats, mangrove swamps and flotsam are exposed. The reclamation will join up Pulau Selegu and Sarong Island with Sentosa Island which will not only improve the visual impact on visitors, but will also create more land for future development,” he said.<br><br>
+The reclamation works that merged Pulau Selegu and Sarong Island with Sentosa were completed in 1980.<br><br>
+		<b>REFERENCES</b><br><br>Dunlop, Peter K.G. 
+British Royal Air Force, <i>Aerial Photographs from South-east to North-west Showing Pulau Blakang Mati, Pasir Panjang Wharf</i>, 22 November 1949, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 258513) <br><br>“For Sale: Isle Dream Home,” <i>Straits Times</i>, 16 March 1957, 5 (From NewspaperSG) <br><br>
+Parliament of Singapore, <i>Reclamation at Sentosa Island</i>, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
+Republic of Singapore, <i>Government Gazette. Extraordinary</i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
+Survey Department, Singapore, <i>Topographical Map of Central and Southern Singapore, and Singapore City</i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
+Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br>
+Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
+“Two Islands to Link with Sentosa,” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)
+<br>
+</div>
 
 <div style="background-color: white;">
 <br/>
