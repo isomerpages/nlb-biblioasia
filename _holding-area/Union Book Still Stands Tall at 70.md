@@ -71,10 +71,6 @@ Interestingly, Union Book also ran a bookstore in CHIJ St Nicholas Girls’ Scho
 
 Ma said she did not fully understand the historical significance of Union Book in Singapore until the commemorative book was published. However, she did not feel oppressed by the past. “History is history. It should not carry too much baggage. I believe that the Chinese community in Singapore is bogged down with too much historical burden which, in my opinion, is not necessary. Why weigh ourselves down this way?” Ma said she is focused on ensuring that Union Book remains relevant so that the store can look forward to its 100th year anniversary. 
 
-
-![](/images/Vol%2018%20Issue%203/Union%20Book/Cai_Mingying.jpg)
-<div style="background-color: white;"> Cai Mingying (holding bouquet) with staff of Union Book at the at bookstore’s 65th anniversary dinner in 2017. <i>Courtesy of Union Book.</i></div>
-
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022.
 </div>
