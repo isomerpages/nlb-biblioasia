@@ -49,7 +49,17 @@ At the book launch, Zhong talked about the joys and challenges of research, whil
 
 ####**Three Phases in Union Book’s History**
 
-Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union 
+Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union Book from Union Press in 1996, making that year an important watershed. From then on, Union Book was officially separated from Union Press and became a fully independent entity. The last phase began in 2005 when Margaret Ma took over the running of the bookstore. 
+
+The Union Book of today is very different from its predecessor. While the bookstore used to be known for its Taiwanese books, these days, the bookstore also sells books from mainland China, Hong Kong, Malaysia and Singapore.
+
+The new generation of employees at the bookstore include Yap Chia Wei (叶家维), who has been working in the store and purchasing books for Union Book for 17 years, as well as newer staff such as Wu Wangyuan (吴王原) and Loke Kwan Howe (陆冠豪). 
+
+In addition to selling books and attending to walk-in customers, the staff take turns to host live streams every Friday to share new books and engage in storytelling for younger viewers. They have also created a brand-new programme titled Children’s Paradise. 
+
+Other than curating books, Union Book has also been creating engaging supplementary materials, such as maps and timelines, that complement a particular book. Through these efforts, the staff hope to provide different reading experiences for young readers. “Today, running a bookstore means providing services,” noted Yap.
+
+Bookselling has changed in other ways as well. In 1995, when Ma joined Union Book, she single-handedly sold $600,000 worth of books. These days, the bookstore would be lucky if its entire annual revenue hits this number. “That was really an age of reading,” marvelled Loke. “Seeing these numbers definitely piled on the stress.”
 
 cont.
 
