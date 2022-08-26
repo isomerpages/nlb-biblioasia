@@ -130,6 +130,8 @@ Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/
 Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49b331-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</i></a>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br> Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49c797-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands</a></i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
 “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780202-1.2.125">Two Islands to Link with Sentosa,</a>” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)<br><br></div>
 
+test text
+
 <div style="background-color: white;">
 <img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
 	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
