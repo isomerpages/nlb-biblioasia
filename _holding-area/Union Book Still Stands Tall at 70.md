@@ -29,6 +29,7 @@ She soon realised, however, that there were numerous challenges. Information abo
 
 #### **Support from the United States**
 
+The Union Press in Hong Kong received funding from the Asia Foundation,[^2] making it part of the United States’ anti-communist efforts. However, because it was a bookstore that stocked literary books, many academics referred to the store as a “third force” that was not heavily influenced by politics. 
 
 
 cont.
