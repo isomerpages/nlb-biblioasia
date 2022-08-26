@@ -29,8 +29,27 @@ She soon realised, however, that there were numerous challenges. Information abo
 
 #### **Support from the United States**
 
-The Union Press in Hong Kong received funding from the Asia Foundation,[^2] making it part of the United States’ anti-communist efforts. However, because it was a bookstore that stocked literary books, many academics referred to the store as a “third force” that was not heavily influenced by politics. 
+The Union Press in Hong Kong received funding from the Asia Foundation,[^2] making it part of the United States’ anti-communist efforts. However, because it was a bookstore that stocked literary books, many academics referred to the store as a “third force” that was not heavily influenced by politics.
 
+The fact that the bookstore accepted financial support from the US for publications like *Chinese Student Weekly* made it a target of criticism though. From her interviews, Zhong learned that while many youths purchased books from Union Book out of necessity, they personally preferred to visit the local left-wing bookstores. “Some of the older interviewees told me that they would try to steer clear of Union Book because ‘progressive students’ at the time saw a visit to Union Book as something disgraceful.”
+
+Zhong believes that Cold War sensitivities could be a reason why Union Book did not retain many documents from that period compared to other local bookstores. In addition, most people who were involved chose to avoid talking about these issues, which made Zhong’s work even more challenging.
+
+However, she does not feel that Union Book was too political, which she attributed to the fact that the people in charge of the bookstore were more akin to scholars than warriors. This group of intellectuals included Chow Li Liang, whom many interviewees described as a refined gentleman. Margaret Ma, the current managing director at Union Book who had worked with Chow, described him as a businessman with Confucian values.
+
+At the book launch, Zhong mentioned that when she interviewed the US-based Xi Huizhang, the latter suggested that she speak with Professor Yu Ying-Shih (余英时) as he had been the editor-in-chief of Chinese Student Weekly. However, just 10 minutes after her conversation with Xi, Zhong received a notification on her phone that Professor Yu had just died.
+
+“Life is unpredictable,” Zhong mulled. “Just like that, I missed the chance to interview Professor Yu. I missed the opportunity to find out about the connection between him and Union Book. This is a great regret.” Nonetheless, she still believes that it is not too late to do more research and she plans to conduct a more in-depth study in the future.
+
+####**The Bookstore and the Historical Context**
+
+Zhong believes that the history of the bookstore mirrors the larger historical context. The evolution of Union Book – from being strongly right wing in the 1950s and 1960s, to being much less ideological in the 1970s, before eventually becoming non-ideological – was closely related to the development of Singapore society. However, the commemorative publication does not delve into ideological issues in the store’s history as Zhong believes that such a discussion might not be fair to the Union Book of today.
+
+At the book launch, Zhong talked about the joys and challenges of research, while Lee Huay Leng (李慧玲), the editor-in-chief of the Chinese Media Group at SPH Media Limited, discussed the relationship between Union Book and the Chinese reading ecosystem in Singapore. Others who spoke at the event included retired employee Cai Mingying; Yu Hailin (馀海琳), the daughter of Yu Dekuan; Singaporean writer You Jin (尤今); and Tan Chee Lay (陈志锐), the deputy head of Asian Languages & Cultures at the National Institute of Education.
+
+####**Three Phases in Union Book’s History**
+
+Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union 
 
 cont.
 
