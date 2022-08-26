@@ -41,13 +41,13 @@ At the book launch, Zhong mentioned that when she interviewed the US-based Xi Hu
 
 “Life is unpredictable,” Zhong mulled. “Just like that, I missed the chance to interview Professor Yu. I missed the opportunity to find out about the connection between him and Union Book. This is a great regret.” Nonetheless, she still believes that it is not too late to do more research and she plans to conduct a more in-depth study in the future.
 
-####**The Bookstore and the Historical Context**
+#### **The Bookstore and the Historical Context**
 
 Zhong believes that the history of the bookstore mirrors the larger historical context. The evolution of Union Book – from being strongly right wing in the 1950s and 1960s, to being much less ideological in the 1970s, before eventually becoming non-ideological – was closely related to the development of Singapore society. However, the commemorative publication does not delve into ideological issues in the store’s history as Zhong believes that such a discussion might not be fair to the Union Book of today.
 
 At the book launch, Zhong talked about the joys and challenges of research, while Lee Huay Leng (李慧玲), the editor-in-chief of the Chinese Media Group at SPH Media Limited, discussed the relationship between Union Book and the Chinese reading ecosystem in Singapore. Others who spoke at the event included retired employee Cai Mingying; Yu Hailin (馀海琳), the daughter of Yu Dekuan; Singaporean writer You Jin (尤今); and Tan Chee Lay (陈志锐), the deputy head of Asian Languages & Cultures at the National Institute of Education.
 
-####**Three Phases in Union Book’s History**
+#### **Three Phases in Union Book’s History**
 
 Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union Book from Union Press in 1996, making that year an important watershed. From then on, Union Book was officially separated from Union Press and became a fully independent entity. The last phase began in 2005 when Margaret Ma took over the running of the bookstore. 
 
@@ -60,6 +60,9 @@ In addition to selling books and attending to walk-in customers, the staff take 
 Other than curating books, Union Book has also been creating engaging supplementary materials, such as maps and timelines, that complement a particular book. Through these efforts, the staff hope to provide different reading experiences for young readers. “Today, running a bookstore means providing services,” noted Yap.
 
 Bookselling has changed in other ways as well. In 1995, when Ma joined Union Book, she single-handedly sold $600,000 worth of books. These days, the bookstore would be lucky if its entire annual revenue hits this number. “That was really an age of reading,” marvelled Loke. “Seeing these numbers definitely piled on the stress.”
+
+#### **The Uniqueness of Union Book**
+
 
 cont.
 
