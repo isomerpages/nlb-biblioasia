@@ -1,4 +1,5 @@
 collections:
   oct-to-dec-2022:
     output: true
-    order: []
+    order:
+      - Johor at the 1893 Chicago World’s Fair.md
