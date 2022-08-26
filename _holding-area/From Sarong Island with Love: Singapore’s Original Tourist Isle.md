@@ -100,11 +100,11 @@ To mitigate this problem, Lee promised to provide visitors with “complete shel
 
 In August 1968, a little less than a year after the island’s opening, a humorous notice was published in the newspapers to announce the restaurant’s closure. It said: “We’re not weather experts, but from past experience we expect a similar weather pattern at this time of year as last time. And… ‘boy does it rain!’ Therefore, the management and staff of Sarong Island would like to thank all customers and friends for their patronage and support. We also wish to take this opportunity to announce that the Sarong Island Restaurant will cease operation until further notice.”[^24]
 
-In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.[^25] Lee was shocked and disappointed by the news.[^26]
-
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/7_closed.jpg)
 <div style="background-color: white;"> Notice announcing the closure of Sarong Island. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG).</i>
 </div>
+
+In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.[^25] Lee was shocked and disappointed by the news.[^26]
 
 #### **Joining Up with Sentosa**
 
