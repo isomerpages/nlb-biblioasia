@@ -69,6 +69,9 @@ At the book launch, Zhong talked about the joys and challenges of research, whil
 
 Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union Book from Union Press in 1996, making that year an important watershed. From then on, Union Book was officially separated from Union Press and became a fully independent entity. The last phase began in 2005 when Margaret Ma took over the running of the bookstore. 
 
+![](/images/Vol%2018%20Issue%203/Union%20Book/ChowLiLiang.jpg)
+<div style="background-color: white;"> Chow Li Liang in the Union Book office in Bras Basah Complex, 2012. He was the managing director from 1977 to 2005. <i>Courtesy of Union Book.</i></div>
+
 The Union Book of today is very different from its predecessor. While the bookstore used to be known for its Taiwanese books, these days, the bookstore also sells books from mainland China, Hong Kong, Malaysia and Singapore.
 
 The new generation of employees at the bookstore include Yap Chia Wei (叶家维), who has been working in the store and purchasing books for Union Book for 17 years, as well as newer staff such as Wu Wangyuan (吴王原) and Loke Kwan Howe (陆冠豪). 
