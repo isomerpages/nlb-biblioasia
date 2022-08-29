@@ -57,6 +57,9 @@ At the book launch, Zhong mentioned that when she interviewed the US-based Xi Hu
 
 Zhong believes that the history of the bookstore mirrors the larger historical context. The evolution of Union Book – from being strongly right wing in the 1950s and 1960s, to being much less ideological in the 1970s, before eventually becoming non-ideological – was closely related to the development of Singapore society. However, the commemorative publication does not delve into ideological issues in the store’s history as Zhong believes that such a discussion might not be fair to the Union Book of today.
 
+![](/images/Vol%2018%20Issue%203/Union%20Book/UnionBookStaff.jpg)
+<div style="background-color: white;"> Management and staff of Union Book at 303 North Bridge Road during its official opening, 1968. <i>Courtesy of Union Book.</i></div>
+
 At the book launch, Zhong talked about the joys and challenges of research, while Lee Huay Leng (李慧玲), the editor-in-chief of the Chinese Media Group at SPH Media Limited, discussed the relationship between Union Book and the Chinese reading ecosystem in Singapore. Others who spoke at the event included retired employee Cai Mingying; Yu Hailin (馀海琳), the daughter of Yu Dekuan; Singaporean writer You Jin (尤今); and Tan Chee Lay (陈志锐), the deputy head of Asian Languages & Cultures at the National Institute of Education.
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/Cai_Mingying.jpg)
