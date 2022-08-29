@@ -2,9 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - "From Sarong Island with Love: Singapore’s Original Tourist Isle.md"
-      - "The Making of the Monetary Authority of Singapore: How the MAS Became
-        Singapore’s Central Bank.md"
-      - My Grandfather was a Rōmusha.md
-      - Johor at the 1893 Chicago World’s Fair.md
+      - Union Book Still Stands Tall at 70.md
       - Test page.md

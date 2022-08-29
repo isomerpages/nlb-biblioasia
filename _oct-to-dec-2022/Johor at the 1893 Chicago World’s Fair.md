@@ -1,10 +1,12 @@
 ---
 title: Johor at the 1893 Chicago World’s Fair
-permalink: /test1
+permalink: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
 description: The story of how Johor ended up at the Chicago World’s Fair is an
   unexpected twist in Malaya’s colonial past.
 image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
 ---
+
+
 #### The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 By Faris Joraimi
 

@@ -1,6 +1,6 @@
 ---
 title: "From Sarong Island with Love: Singapore’s Original Tourist Isle"
-permalink: /holding-area/test4
+permalink: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore
 description: Before there was Sentosa, there was Sarong Island.
 image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
 ---
@@ -20,12 +20,13 @@ For many people, Sentosa is a leisure and tourist destination with a tropical ge
 &emsp;serene eyes and silent lips,<br>
 &emsp;that speak only to our inner hearts. [^1]
 
-![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland.jpg)
-<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG).</i></div>
-
 This island was Sarong Island, a place where one could “dine, dance, watch floor shows or just sip a drink and watch a breathtaking view of Singapore harbour and the great ships that pass in and out day and night”. There, you could see “over a hundred varieties of tropical trees and flowers, many species of wild birds, occasional visits of groups of chattering monkeys… [and] the rare sight of a giant monitor lizard basking in the sun”.[^2]
 
-Sarong Island was a 190,575-square-foot (1.8 ha) island that used to be just off the northern coast of Sentosa. The island was near the former Sentosa Ferry Terminal before it was reclaimed and merged with Sentosa. Dubbed “Singapore’s first tourist isle”, Sarong Island was given its name by its former owner, the late Christina Lee (1923–2009), and was even referred to as the “Shangri-La” of Singapore.[^3]
+Sarong Island was a piece of land about the size of three football fields (190,575-square-foot; 1.8 ha) that used to sit just off the northern coast of Sentosa. The island was near the former Sentosa Ferry Terminal before it was reclaimed and merged with Sentosa. Dubbed “Singapore’s first tourist isle”, Sarong Island was given its name by its former owner, the late Christina Lee (1923–2009), and was even referred to as the “Shangri-La” of Singapore.[^3]
+
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland_edit.jpg)
+<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG).</i></div>
+
 
 #### **An Island for Sale**
 
@@ -62,21 +63,18 @@ In 1964, Lee decided to turn the island into a “pleasure island” that she wa
 
 Lee had ambitious plans to turn the island into a tourist resort. The multi-million-dollar project called for the construction of numerous amenities, including a seawater swimming pool, bowling alleys, a floating restaurant, a night club for members only and 50 chalets each equipped with “a sitting room, a kitchenette and a bedroom with bathroom”. These chalets were for tourists who wanted to spend the weekend or longer on the island. To attract tourists, “a fleet of small ferry boats operating round-the-clock to provide a 30-cent four-minute ride to and from Jardine Steps” was put in place.[^13]
 
-![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening.jpg)
-<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
-</div>
-
 According to Lee, Law and National Development Minister E.W. Barker helped her to make Sarong Island happen. “I knew his wife and we used to play mahjong together…,” she said. “[So] I invited him and his wife to the island. And he liked it very much as he thought it was beautiful… and I asked Eddie Barker to help me, and he did. Soon after that I got the approval to turn it into a restaurant.”[^14] 
 
 #### **Sarong Island Opens**
 
 Sarong Island was declared open on 22 September 1967 by Barker, an event that was witnessed by several hundred guests. They arrived by sampan to the island amid “brilliant lighting effects” from Clifford Pier and Jardine Steps, and were “entertained to a dinner of local dishes” and “a multi-racial show”.[^15]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening_edit2.jpg)
+<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
+</div>
+
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.
 
-![](/images/Vol%2018%20Issue%203/Sarong%20Island/6_ChristinaLee.jpg)
-<div style="background-color: white;"> Christina Lee entertaining guests at a cocktail party on Sarong Island, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
-</div>
 
 The restaurant served “curry buffet with added European dishes” for lunch on Sundays, and “air-flown steaks, imported capon chicken and whole rock lobster” for Saturday-night dinners amid music and dance performances by local groups.[^16]
 
@@ -86,41 +84,27 @@ Pianist and singer Danny Koh had also performed on Sarong Island. In a 2015 oral
 
 The island could also be rented out for events ranging from private and company functions to graduation and award-giving ceremonies. The public could also use it for weddings and fashion shows.[^19]
 
+![](/images/Vol%2018%20Issue%203/Sarong%20Island/6_ChristinaLee.jpg)
+<div style="background-color: white;"> Christina Lee entertaining guests at a cocktail party on Sarong Island, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
+</div>
+
 Lee initially continued living in the White House but eventually moved to another house on the island. “I built a little house right [by] the sea… I could open the windows and… see the next island. That small island now… with the pillar for the cable car [Pulau Selegu],” she recalled.[^20]
 
 #### **A Short-lived Venture**
 
 To promote Sarong Island, advertisements ran in the press with taglines such as “From Sarong Island with Love”, “Singapore’s Finest Tourist Attraction”, and “Go Where the Beautiful People Go”. Guests were also promised gifts and prizes.[^21]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>THE MYSTERY OF SARONG ISLAND’S REAL NAME</b><br><br>
-In the 1950s and 1960s, the island that became known as Sarong Island was regularly referred to as Pulau Selegu in press reports. However, Pulau Selegu was actually the name of another island, while Sarong Island originally did not have a name. For instance, a 1966 topographical map of Singapore shows that Selegu Island was located northwest of an unnamed island sitting along the northwestern coast of Sentosa (or Pulau Blakang Mati at the time). This unnamed island has a structure labelled “White House” in the map.<br><br>
-A 1979 survey map of the area also states that the lot and <i>mukim</i> (“district” in Malay) number for Sarong Island is “Lot 52 Mukim XXXIV”, which is the same as the one published in the 1971 acquisition notice in the Government Gazette. Pulau Selegu had a different lot and <i>mukim</i> number: Lot 196 Mukim XXXIV. <br><br>
-While these provide evidence that Sarong Island and Pulau Selegu were not the same island, we still do not know the original name of what was subsequently termed Sarong Island. A possible explanation could be that Sarong Island was a tidal island, a piece of land that is connected to the mainland at low tide and submerged at high tide. As such, it was not given a name and could be seen by surveyors as part of the bigger Blakang Mati (Sentosa) island. <br><br>
-In 1978, Law, Environment, and Science and Technology Minister E.W. Barker asked Parliament to approve a $7 million reclamation plan to link Sarong Island and Pulau Selegu to Sentosa, thus showing a distinction between the two islands. “The area proposed for reclamation is an eyesore at low tide when muddy flats, mangrove swamps and flotsam are exposed. The reclamation will join up Pulau Selegu and Sarong Island with Sentosa Island which will not only improve the visual impact on visitors, but will also create more land for future development,” he said.<br><br>
-The reclamation works that merged Pulau Selegu and Sarong Island with Sentosa were completed in 1980.<br><br>
-		<b>REFERENCES</b><br><br>Dunlop, Peter K.G. 
-British Royal Air Force, <i>Aerial Photographs from South-east to North-west Showing Pulau Blakang Mati, Pasir Panjang Wharf</i>, 22 November 1949, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 258513) <br><br>“For Sale: Isle Dream Home,” <i>Straits Times</i>, 16 March 1957, 5 (From NewspaperSG) <br><br>
-Parliament of Singapore, <i>Reclamation at Sentosa Island</i>, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
-Republic of Singapore, <i>Government Gazette. Extraordinary</i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
-Survey Department, Singapore, <i>Topographical Map of Central and Southern Singapore, and Singapore City</i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
-Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br>
-Survey Department, Singapore, <i>Mukim Number XXXIV: Other Islands</i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
-“Two Islands to Link with Sentosa,” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)
-<br>
-</div>
-	
 One problem with beckoning people to Sarong Island “across calm and moonlit waters” was that the waters were not always calm, especially during the monsoon season. As Lee recalled: “[D]uring the end of the year when it rained, I realised that a lot of people would book the place… [But] they would not come because they had to come in a sampan. They would have to walk up the hill which was not sheltered… I realised those were the things that stopped people from coming.”[^22]
 
 To mitigate this problem, Lee promised to provide visitors with “complete shelter” from the jetty to the restaurant with the use of umbrellas and “Sarong Island straw hats”. However, it soon became clear to Lee that Sarong Island was difficult to sustain as a tourist attraction and a going business concern.[^23]
 
 In August 1968, a little less than a year after the island’s opening, a humorous notice was published in the newspapers to announce the restaurant’s closure. It said: “We’re not weather experts, but from past experience we expect a similar weather pattern at this time of year as last time. And… ‘boy does it rain!’ Therefore, the management and staff of Sarong Island would like to thank all customers and friends for their patronage and support. We also wish to take this opportunity to announce that the Sarong Island Restaurant will cease operation until further notice.”[^24]
 
-In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.[^25] Lee was shocked and disappointed by the news.[^26]
-
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/7_closed.jpg)
 <div style="background-color: white;"> Notice announcing the closure of Sarong Island. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 9 August 1968, 6. (From NewspaperSG).</i>
 </div>
+
+In 1971, the government issued a notice in the Government Gazette that it would be acquiring Sarong Island, along with a plot of land on Sentosa that was also owned by Lee. Amounting to a total 217,800 sq ft (2 ha), the acquisition came as the government revealed its plan to develop Sentosa into a tourist resort island.[^25] Lee was shocked and disappointed by the news.[^26]
 
 #### **Joining Up with Sentosa**
 
@@ -132,10 +116,23 @@ After acquiring Sarong Island, the government combined it with Sentosa via a lan
 
 Although Sarong Island no longer exists, the island and Sentosa once shared the same destiny as a “tourist isle of Singapore”. In fact, back in the 1960s, Lee already had an inkling that her island would inspire the transformation of Pulau Blakang Mati into the island resort of Sentosa. “I had gardeners who looked after [my island] very well. In fact, somebody told me that when Lee Kuan Yew [then the prime minister of Singapore] visited Blakang Mati, he found that it was overgrown with grass… he looked across and said, ‘What is that?’ They said, ‘Oh that is Sarong Island.’ He said, ‘It is so beautifully kept so why can’t we do it?’”[^29]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<b>THE MYSTERY OF SARONG ISLAND’S REAL NAME</b><br><br>
+In the 1950s and 1960s, the island that became known as Sarong Island was regularly referred to as Pulau Selegu in press reports. However, Pulau Selegu was actually the name of another island, while Sarong Island originally did not have a name. For instance, a 1966 topographical map of Singapore shows that Selegu Island was located northwest of an unnamed island sitting along the northwestern coast of Sentosa (or Pulau Blakang Mati at the time). This unnamed island has a structure labelled “White House” in the map.<br><br>
+A 1979 survey map of the area also states that the lot and <i>mukim</i> (“district” in Malay) number for Sarong Island is “Lot 52 Mukim XXXIV”, which is the same as the one published in the 1971 acquisition notice in the Government Gazette. Pulau Selegu had a different lot and <i>mukim</i> number: Lot 196 Mukim XXXIV. <br><br>
+While these provide evidence that Sarong Island and Pulau Selegu were not the same island, we still do not know the original name of what was subsequently termed Sarong Island. A possible explanation could be that Sarong Island was a tidal island, a piece of land that is connected to the mainland at low tide and submerged at high tide. As such, it was not given a name and could be seen by surveyors as part of the bigger Blakang Mati (Sentosa) island. <br><br>
+In 1978, Law, Environment, and Science and Technology Minister E.W. Barker asked Parliament to approve a $7 million reclamation plan to link Sarong Island and Pulau Selegu to Sentosa, thus showing a distinction between the two islands. “The area proposed for reclamation is an eyesore at low tide when muddy flats, mangrove swamps and flotsam are exposed. The reclamation will join up Pulau Selegu and Sarong Island with Sentosa Island which will not only improve the visual impact on visitors, but will also create more land for future development,” he said.<br><br>
+The reclamation works that merged Pulau Selegu and Sarong Island with Sentosa were completed in 1980.<br><br>	<b>REFERENCES</b><br><br>Dunlop, Peter K.G. 
+British Royal Air Force, <i><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/e552b0e9-9580-11e4-859c-0050568939ad">Aerial Photographs from South-east to North-west Showing Pulau Blakang Mati, Pasir Panjang Wharf</a></i>, 22 November 1949, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 258513) <br><br>“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570316-1.2.51">For Sale: Isle Dream Home</a>,” <i>Straits Times</i>, 16 March 1957, 5 (From NewspaperSG) <br><br>
+Parliament of Singapore, <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189"><i>Reclamation at Sentosa Island</i></a>, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
+Republic of Singapore, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826186">Government Gazette. Extraordinary</a></i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
+Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/21098619-b150-11e6-9af5-0050568939ad">Topographical Map of Central and Southern Singapore, and Singapore City</a></i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
+Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49b331-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</a></i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br> Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49c797-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands</a></i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
+“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780202-1.2.125">Two Islands to Link with Sentosa,</a>” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)<br><br></div>
+
 <div style="background-color: white;">
-<br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
-	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for BiblioAsia.</div>
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
 #### **NOTES**
 

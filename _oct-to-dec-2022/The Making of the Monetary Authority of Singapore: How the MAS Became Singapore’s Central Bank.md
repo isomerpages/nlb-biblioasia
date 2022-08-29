@@ -1,11 +1,13 @@
 ---
 title: "The Making of the Monetary Authority of Singapore: How the MAS Became
   Singapore’s Central Bank"
-permalink: /holding-area/test3
+permalink: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
 description: While the Monetary Authority of Singapore was established in 1971,
   it only became a full-fledged central bank some 30 years later.
 image: /images/Vol 18 Issue 3/MAS/1_MASbuilding.jpg
 ---
+
+
 #### While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later. 
 By Barbara Quek
 
@@ -80,10 +82,10 @@ Over the last five decades, the MAS has weathered numerous storms. Many of these
 
 On 30 November 1985, Pan-Electric Industries Limited, a company listed on the Stock Exchange of Singapore, collapsed and was placed under receivership. A marine salvage, hotel and property group, it had amassed huge debts of $453 million owed to 35 banks and $160 million worth of unfulfilled forward contracts.[^20]
 
+In an unprecedented move, the stock exchange was closed for trading from 2 to 4 December 1985 in a bid to stabilise the market and mitigate against any contagion effect and fallout on the heavily leveraged stockbroking firms. The closure was considered a drastic move and in doing so, “Singapore had to pay the price in terms of economic, reputational and social costs”.[^21]
+
 ![](/images/Vol%2018%20Issue%203/MAS/5_SESarticle.jpg)
 <div style="background-color: white;">Following the Pan-Electric Industries crisis, the Singapore Stock Exchange was closed for two days to prevent panic selling by shareholders. <i>Image reproduced from Conrad Raj, “SES Suspends All Trading,” Straits Times, 2 December 1985, 1. (From NewspaperSG). </i></div>
-
-In an unprecedented move, the stock exchange was closed for trading from 2 to 4 December 1985 in a bid to stabilise the market and mitigate against any contagion effect and fallout on the heavily leveraged stockbroking firms. The closure was considered a drastic move and in doing so, “Singapore had to pay the price in terms of economic, reputational and social costs”.[^21]
 
 The MAS stepped in with a bail-out plan by setting up an emergency “lifeboat” fund consisting of a $180-million line of credit underwritten by the “Big Four” local banks, accompanied by a three-month moratorium on the recall of loans to stockbrokers. The fund was designed to prevent the wholesale and systemic collapse of the stockbroking industry, and to restore public confidence.[^22]
 

@@ -1,4 +1,9 @@
 collections:
   oct-to-dec-2022:
     output: true
-    order: []
+    order:
+      - "From Sarong Island with Love: Singapore’s Original Tourist Isle.md"
+      - "The Making of the Monetary Authority of Singapore: How the MAS Became
+        Singapore’s Central Bank.md"
+      - My Grandfather was a Rōmusha.md
+      - Johor at the 1893 Chicago World’s Fair.md
