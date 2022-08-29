@@ -1,6 +1,6 @@
 ---
 title: Union Book Still Stands Tall at 70
-permalink: /holding-area/test5
+permalink: /holding-area/test5/
 description: Chinese bookstore Union Book has seen many changes over the last seven decades.
 ---
 #### Chinese bookstore Union Book has seen many changes over the last seven decades. 
@@ -49,7 +49,7 @@ Zhong believes that Cold War sensitivities could be a reason why Union Book did 
 
 However, she does not feel that Union Book was too political, which she attributed to the fact that the people in charge of the bookstore were more akin to scholars than warriors. This group of intellectuals included Chow Li Liang, whom many interviewees described as a refined gentleman. Margaret Ma, the current managing director at Union Book who had worked with Chow, described him as a businessman with Confucian values.
 
-At the book launch, Zhong mentioned that when she interviewed the US-based Xi Huizhang, the latter suggested that she speak with Professor Yu Ying-Shih (余英时) as he had been the editor-in-chief of Chinese Student Weekly. However, just 10 minutes after her conversation with Xi, Zhong received a notification on her phone that Professor Yu had just died.
+At the book launch, Zhong mentioned that when she interviewed the US-based Xi Huizhang, the latter suggested that she speak with Professor Yu Ying-Shih (余英时) as he had been the editor-in-chief of *Chinese Student Weekly*. However, just 10 minutes after her conversation with Xi, Zhong received a notification on her phone that Professor Yu had just died.
 
 “Life is unpredictable,” Zhong mulled. “Just like that, I missed the chance to interview Professor Yu. I missed the opportunity to find out about the connection between him and Union Book. This is a great regret.” Nonetheless, she still believes that it is not too late to do more research and she plans to conduct a more in-depth study in the future.
 
@@ -76,7 +76,7 @@ The Union Book of today is very different from its predecessor. While the bookst
 
 The new generation of employees at the bookstore include Yap Chia Wei (叶家维), who has been working in the store and purchasing books for Union Book for 17 years, as well as newer staff such as Wu Wangyuan (吴王原) and Loke Kwan Howe (陆冠豪). 
 
-In addition to selling books and attending to walk-in customers, the staff take turns to host live streams every Friday to share new books and engage in storytelling for younger viewers. They have also created a brand-new programme titled Children’s Paradise. 
+In addition to selling books and attending to walk-in customers, the staff take turns to host live streams every Friday to share new books and engage in storytelling for younger viewers. They have also created a brand-new programme titled *Children’s Paradise*. 
 
 Other than curating books, Union Book has also been creating engaging supplementary materials, such as maps and timelines, that complement a particular book. Through these efforts, the staff hope to provide different reading experiences for young readers. “Today, running a bookstore means providing services,” noted Yap.
 
@@ -87,7 +87,7 @@ Bookselling has changed in other ways as well. In 1995, when Ma joined Union Boo
 
 #### **The Uniqueness of Union Book**
 
-Union Book moved into its current location on the third floor of Bras Basah Complex in 1981, one floor above Daren Restaurant (大人餐厅). Chow Li Liang was also one of the shareholders of the restaurant. Because of its proximity to the bookstore and the link with Chow, the restaurant became part of the Union Book experience. Ma recalled that when she was working for Chow, the two of them would often have zhajiang noodles (炸酱麵) at the restaurant. Many Chinese literary groups and intellectuals also enjoyed meeting at the restaurant in its heyday. According to Ma, they had originally planned to build a staircase to connect the restaurant and the bookstore but were unable to convince the authorities to do so. (Daren Restaurant eventually shuttered in 1998.)
+Union Book moved into its current location on the third floor of Bras Basah Complex in 1981, one floor above Daren Restaurant (大人餐厅). Chow Li Liang was also one of the shareholders of the restaurant. Because of its proximity to the bookstore and the link with Chow, the restaurant became part of the Union Book experience. Ma recalled that when she was working for Chow, the two of them would often have *zhajiang* noodles (炸酱麵) at the restaurant. Many Chinese literary groups and intellectuals also enjoyed meeting at the restaurant in its heyday. According to Ma, they had originally planned to build a staircase to connect the restaurant and the bookstore but were unable to convince the authorities to do so. (Daren Restaurant eventually shuttered in 1998.)
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/1981building.jpg)
 <div style="background-color: white;"> Union Book moved to the third floor of Bras Basah Complex in 1981. Daren Restaurant (大人餐厅) is located one floor down. <i>Courtesy of Union Book.</i></div>
