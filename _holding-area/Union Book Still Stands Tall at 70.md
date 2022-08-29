@@ -29,6 +29,9 @@ Besides selling books, Union Press also produced teaching materials and publishe
 
 To commemorate the 70th anniversary of Union Press, *A Look Back – Commemorative Book for the 70th Anniversary of Union Book in Singapore* (回望—新加坡友联书局70週年纪念特刊) was launched at the Singapore Book Fair on 4 June 2022. Penned by former journalist Zhong Hongzhi (锺宏志), the book traces the history of Union Press and discusses the place of Union Book in the development of Singapore’s society and culture. 
 
+![](/images/Vol%2018%20Issue%203/Union%20Book/Book_cover.jpg)
+<div style="background-color: white;"> The commemorative book published in conjunction with Union Book’s 70th anniversary in 2022. <i>Courtesy of Union Book.</i></div>
+
 Zhong has always been interested in the history of Chinese bookstores in Singapore. She drafted a dissertation proposal on this topic 10 years ago, but her PhD plans were put on hold when she moved to Hong Kong. When the opportunity came up to commemorate Union Press’s 70th anniversary, Zhong was invited to work on the book. 
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/Caligraphy_edit.jpg)
