@@ -23,7 +23,7 @@ In the 1950s, left-wing influence was strong in Singapore and bookstores that so
 Besides selling books, Union Press also produced teaching materials and published magazines. Its most notable publication was the literary magazine *Chao Foon* (蕉风), which was first published in Singapore in 1955 (the magazine’s headquarters moved to Kuala Lumpur in 1959).
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/ChaoFoon.jpg)
-<div style="background-color: white;"> The first volume of Chao Foon published in Singapore in 1955. Image reproduced from 锺宏志, 回望: 新加坡友联书局 70週年纪念特刊 (Singapore: Union Book, 2022), 95. </div>
+<div style="background-color: white;"> The first volume of Chao Foon published in Singapore in 1955. <i>Image reproduced from 锺宏志, 回望: 新加坡友联书局 70週年纪念特刊 (Singapore: Union Book, 2022), 95.</i> </div>
 
 *Chao Foon* had a profound impact on literature in Singapore and Malaysia, and continues to be influential today. In the last few years, two books that explore its importance to the local literary scene have been published. In 2021, Lim Choon Bee (林春美) wrote *Chao Foon and the Non-leftist Mahua Literature* (蕉风与非左翼的马华文学),[^1] while *Cold War, Localisation and Modernity* (冷战、本土化与现代性), which was edited by Tee Kim Tong (张锦忠), Ng Kim Chew (黄锦树) and Lee Soo Chee (李树枝), was published in 2022. A compilation of essays on *Chao Foon* titled *Banana, Coconuts and Hornbill* (蕉风·椰雨·犀鸟声), edited by three Japanese researchers, was also published at around the same time.
 
@@ -78,6 +78,9 @@ In addition to selling books and attending to walk-in customers, the staff take 
 Other than curating books, Union Book has also been creating engaging supplementary materials, such as maps and timelines, that complement a particular book. Through these efforts, the staff hope to provide different reading experiences for young readers. “Today, running a bookstore means providing services,” noted Yap.
 
 Bookselling has changed in other ways as well. In 1995, when Ma joined Union Book, she single-handedly sold $600,000 worth of books. These days, the bookstore would be lucky if its entire annual revenue hits this number. “That was really an age of reading,” marvelled Loke. “Seeing these numbers definitely piled on the stress.”
+
+![](/images/Vol%2018%20Issue%203/Union%20Book/MargaretMa.jpg)
+<div style="background-color: white;"> Margaret Ma became the managing director of Union Book in 2005. <i>Courtesy of Union Book.</i></div>
 
 #### **The Uniqueness of Union Book**
 
