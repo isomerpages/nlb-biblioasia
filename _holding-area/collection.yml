@@ -2,5 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - Union Book Still Stands Tall at 70.md
+      - Union Book Stands Tall At 70.md
       - Test page.md

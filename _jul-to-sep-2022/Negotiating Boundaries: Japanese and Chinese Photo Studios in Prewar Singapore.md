@@ -1,7 +1,7 @@
 ---
 title: "Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar
   Singapore"
-permalink: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
+permalink: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios/
 description: "Photo studios such Yong Fong, Lee Brothers and Daguerre had to
   negotiate the politics of race, class and clan. "
 image: /images/Vol 18 Issue 2/Chinese Japanese Photo Studios/agsphoto_17551_full.png
@@ -19,7 +19,7 @@ In the 19th century, British and European firms such as Sachtler & Co. and G.R. 
 
 According to a 1910 census by the Japanese government, there were 1,215 Japanese residents in Singapore. The community operated three photographic businesses that involved seven men and six women.[^1] A 1917 publication, 馬來に於ける邦人活動の現況 (*Marai ni okeru hōjin katsudō no genkyō; Current Status of the Activities of the Japanese in Malaya*), included a listing of Japanese businesses in Malaya, with eight separate entries relating to the photographic trade in Singapore. Four were photo studios while two other entries each listed an individual photographer, one with the “specialisation of going out to photograph”. It is possible that both photographers also maintained a photo studio each. The remaining two entries were traders of photographic supplies and equipment.[^2]
 
-Many of these Japanese businesses were located within the vicinity of what founding principal of Raffles Junior college, Rudolf (Rudy) William Mosbergen, had called “Little Japan” in Singapore, using it to highlight the Japanese presence along Middle Road, Queen Street, Prinsep Street and Selegie Road.[^3]
+Many of these Japanese businesses were located within the vicinity of what founding principal of Raffles Junior College, Rudolf (Rudy) William Mosbergen, had called “Little Japan” in Singapore, using it to highlight the Japanese presence along Middle Road, Queen Street, Prinsep Street and Selegie Road.[^3]
 
 Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio.[^4]
 

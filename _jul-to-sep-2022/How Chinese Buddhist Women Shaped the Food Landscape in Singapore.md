@@ -1,6 +1,6 @@
 ---
 title: How Chinese Buddhist Women Shaped the Food Landscape in Singapore
-permalink: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
+permalink: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/
 description: Women who practised a particular form of Buddhism set up popular
   vegetarian restaurants in the 1940s and 50s that met the needs of local
   Buddhists and also helped promote vegetarianism.
@@ -28,9 +28,9 @@ These women, in general, were opposed to animal slaughter and believed that a ve
 In the late 1940s and 1950s, there were at least three Chinese vegetarian restaurants in Singapore founded and managed by these Chinese Buddhist women: Loke Woh Yuen Vegetarian Restaurant (六和园素食馆), Fut Sai Kai Vegetarian Restaurant (佛世界素食社) and Bodhi Lin Vegetarian Restaurant (菩提林素食馆).
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%202.png)
-<div style="background-color: white;">(Top photo) Loke Woh Yuen in 1991 with its current owners. Pictured here are (from left) Venerable Xingjing (性静法师), Venerable Zhishun (智顺法师) and Seck Seng Cheng (贤贞法师), disciples of the original founders. (Bottom photo) A vegetarian meal gathering of the original founders of Loke Woh Yuen in 1984. Seated at the table are Venerable Dajian (达坚法师; 3rd from left), Venerable Huicheng (慧成法师; 4th from left) and chief cook Mdm Wong Sin Fung (黄风仙; 1st from right), all of whom worked closely with Jian Daxian and had passed on by the time the newspaper report was published in 1991. <i>Image reproduced from 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [Lianhe Zaobao], 6 October 1991, 42. (From NewspaperSG).</i></div>
+<div style="background-color: white;">A 1991 <i>Lianhe Zaobao</i> article on Loke Woh Yuen having to relocate featured the owners of the restaurant at the time. The small photo shows (from left) Venerable Xingjing (性静法师), Venerable Zhishun (智顺法师) and Seck Seng Cheng (贤贞法师), disciples of the original founders. The larger photo in the article dates to 1984 and shows the original founders of the restaurant. Seated at the table are Venerable Dajian (达坚法师; 3rd from left), Venerable Huicheng (慧成法师; 4th from left) and chief cook Mdm Wong Sin Fung (黄风仙; 1st from right). <i>Image reproduced from 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [Lianhe Zaobao], 6 October 1991, 42. (From NewspaperSG).</i></div>
 
-Loke Woh Yuen was established in 1946 by a close group of five women, including Jian Daxian (简达贤居士), later known as Venerable Huiping (慧平法师). (She later founded the Tse Tho Aum Temple [自度庵] in Changi, which has since moved to Sin Ming Drive).
+Loke Woh Yuen was established in 1946 by a close group of five women, including Jian Daxian (简达贤居士), later known as Venerable Huiping (慧平法师). (She later founded the Tse Tho Aum Temple [自度庵] in Changi, which has since moved to Sin Ming Drive.)
 
 The women had the support of people like Venerable Cihang (慈航法师), a prominent monk from Fujian province who was also behind the first vegetarian restaurant in Penang, Phoe Thay Yuen (菩提苑素食馆), which opened in 1932.[^2]
 
