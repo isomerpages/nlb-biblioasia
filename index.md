@@ -24,15 +24,6 @@ sections:
       image: /images/Vol 18 Issue 3/Romusha/9_buildingbridge.jpg
       alt: Image alt text
   - infopic:
-      title: The Making of the Monetary Authority of Singapore
-      subtitle: Governance
-      description: While the Monetary Authority of Singapore was established in 1971,
-        it only became a full-fledged central bank some 30 years later.
-      button: MAS, the Central Bank
-      url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
-      image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
-      alt: Image alt text
-  - infopic:
       title: From Sarong Island with Love
       subtitle: places
       description: Before there was Sentosa, there was Sarong Island.
@@ -40,6 +31,15 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore
       image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
       alt: Sarong Island Christina Lee
+  - infopic:
+      title: The Making of the Monetary Authority of Singapore
+      subtitle: Governance
+      description: While the Monetary Authority of Singapore was established in 1971,
+        it only became a full-fledged central bank some 30 years later.
+      button: singapore's Central Bank
+      url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
+      image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
+      alt: Image alt text
   - infopic:
       title: Johor at the 1893 Chicago World’s Fair
       subtitle: places
