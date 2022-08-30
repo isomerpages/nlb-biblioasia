@@ -13,8 +13,8 @@ By Bonny Tan
 Armed with just a camera and a seeming lack of fear, cinema magnate Loke Wan Tho spent hours on the precarious platform at the top of a 12-story wooden tower, not dissuaded by the burning sun or the fact that the tower swayed beneath him in strong winds. At one point, he even endeavoured to sit out a storm while on the platform, though he quickly thought better of it after he became giddy. Why was one of Malaya’s richest men risking his life some 40 m above the ground? Loke was on a quest: to snap the perfect photograph of a white-bellied sea eagle. 
 
 Loke Wan Tho, as this anecdote reveals, was not your usual business tycoon. With the closure of Cathay Cineplex in June 2022, it is timely to throw the spotlight on Loke, who helmed Cathay and its associated businesses for over two decades before his untimely death at the age of 49.
-	
-A Privileged Upbringing
+
+#### **A Privileged Upbringing**
 	
 Loke was born on 14 June 1915 in Kuala Lumpur, Malaya, the ninth scion of prominent merchant Loke Yew (born Wong Loke Yew) and his fourth wife, Lim Cheng-Kim. Loke Yew was an impoverished 13-year-old who arrived in Singapore from Guangdong, China, around 1858. Dropping his surname Wong in an attempt to improve his luck, Loke Yew made his fortune through tin-mining before expanding into rice mills, real estate, the motor industry and steam trading. His business spanned Perak, Selangor, Negeri Sembilan, Singapore and beyond. By the turn of the 20th century, Loke Yew had become one of the richest men in Malaya.[^1]
 	
