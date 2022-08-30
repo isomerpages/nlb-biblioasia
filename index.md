@@ -21,7 +21,7 @@ sections:
         build the Death Railway.
       button: Remembering the Forgotten
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
-      image: /images/Vol 18 Issue 3/Romusha/9_buildingbridge.jpg
+      image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: Image alt text
   - infopic:
       title: From Sarong Island with Love
