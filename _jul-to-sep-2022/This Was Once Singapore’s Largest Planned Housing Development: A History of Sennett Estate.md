@@ -1,7 +1,7 @@
 ---
 title: "This Was Once Singapore’s Largest Planned Housing Development: A History
   of Sennett Estate"
-permalink: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
+permalink: /vol-18/issue-2/jul-sep-2022/history-sennett-estate/
 description: Sennett Estate is a unique milestone in the history of housing
   development in Singapore, and its quiet streets have had its fair share of
   excitement over the years.
@@ -111,7 +111,7 @@ Apart from schools, Sennett Estate also has several places of worship. Alkaff Up
 <div style="background-color: white;">There are places of worship in Sennett Estate such as Alkaff Upper Serangoon Mosque on Pheng Geck Avenue (left) and Calvary Baptist Church on Wan Tho Avenue (right). <i>Photos by and courtesy of Winnie Tan.</i>
 </div>
 
-Sennett Estate’s most notable neighbour though was Bidadari Cemetery. The cemetery opened in 1908 and served the Christian, Muslim, Hindu and Sinhalese communities until its closure 1972. The proximity to a major cemetery did not seem to have deterred homebuyers. “People were more afraid of bumping into cobras,” Julie said. Since Mount Vernon Camp, which houses the training and residential facilities of the Gurkha Contingent in Singapore, is located near the cemetery, she added that the estate’s residents always felt safe near the burial grounds.[^36]
+Sennett Estate’s most notable neighbour though was Bidadari Cemetery. The cemetery opened in 1908 and served the Christian, Muslim, Hindu and Sinhalese communities until its closure in 1972. The proximity to a major cemetery did not seem to have deterred homebuyers. “People were more afraid of bumping into cobras,” Julie said. Since Mount Vernon Camp, which houses the training and residential facilities of the Gurkha Contingent in Singapore, is located near the cemetery, she added that the estate’s residents always felt safe near the burial grounds.[^36]
 
 #### **Dangerous Liaisons**
 
