@@ -1,6 +1,6 @@
 ---
 title: "A Great Way to Fly: The Singapore Airlines Story"
-permalink: /vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines
+permalink: /vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines/
 description: Established in 1972, Singapore Airlines has earned a reputation as
   a well-recognised brand known for its impeccable service standards and
   luxurious in-flight experiences.
@@ -87,7 +87,7 @@ During that period, 30 pilots disrupted 16 scheduled flights through their refus
 
 On 1 December 1980, Prime Minister Lee Kuan Yew intervened and warned the SIAPA executives, telling them that he did not want to do them in but he “won’t allow anyone to do Singapore in”. Subsequently, some of the SIAPA officials were charged with illegal industrial action and SIAPA was deregistered.[^29]
 
-In 2003, some 23 years later, another major dispute over wages broke out and Lee, now Senior Minister, stepped in again. He warned SIA management and the pilots that if the matter continued to escalate, there would be “broken heads.”[^30] The Ministry of Manpower and the Industrial Arbitration Court mediated between SIA and the Airline Pilots' Association Singapore to eventually reach an agreement on wage cuts, no-pay leave and compensation payment.[^31]
+In 2003, some 23 years later, another major dispute over wages broke out and Lee, now Senior Minister, stepped in again. He warned SIA management and the pilots that if the matter continued to escalate, there would be “broken heads”.[^30] The Ministry of Manpower and the Industrial Arbitration Court mediated between SIA and the Airline Pilots' Association Singapore to eventually reach an agreement on wage cuts, no-pay leave and compensation payment.[^31]
 
 On 26 March 1991 – in an event that gripped the nation – flight SQ 117 was hijacked shortly after departing Kuala Lumpur after 9 pm. Carrying 114 passengers and 11 crew members, the Airbus A310 landed at Changi Airport at 10.24 pm. The leader of the four hijackers demanded to speak with the Pakistani ambassador to Singapore and former Pakistani Prime Minister Benazir Bhutto, as well as the release of jailed members of the Pakistan People’s Party in Pakistan. 
 
