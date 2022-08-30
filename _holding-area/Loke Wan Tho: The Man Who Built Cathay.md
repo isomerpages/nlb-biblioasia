@@ -32,7 +32,7 @@ He enrolled at Chillon College in Montreux, Switzerland, a boarding school popul
 
 #### **NOTES**
 
-[^1]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 8. (From National Library, Singapore, call no. RSING 791.43095957 LIM); “Death of Mr Loke Yew,” *Straits Echo*, 24 February 1917, 8. (From NewspaperSG)
+[^1]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 8. (From National Library, Singapore, call no. RSING 791.43095957 LIM); “[Death of Mr Loke Yew](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsecho19170224-1.2.32),” *Straits Echo*, 24 February 1917, 8. (From NewspaperSG)
 
 [^2]: “Grave Concerns for the Past,” *New Sunday Times*, 7 January 2007; Lim, *Cathay*, 8.
 
