@@ -36,4 +36,4 @@ He enrolled at Chillon College in Montreux, Switzerland, a boarding school popul
 
 [^2]: “Grave Concerns for the Past,” *New Sunday Times*, 7 January 2007; Lim, *Cathay*, 8.
 
-[^3]: “Dr Loke’s Son Welcomed,” *Straits Budget*, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, Singapore Cinema (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL);
+[^3]: “Dr Loke’s Son Welcomed,” *Straits Budget*, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, *Singapore Cinema* (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL);
