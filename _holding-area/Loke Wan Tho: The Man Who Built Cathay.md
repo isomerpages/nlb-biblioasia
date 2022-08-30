@@ -34,6 +34,6 @@ He enrolled at Chillon College in Montreux, Switzerland, a boarding school popul
 
 [^1]: Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 8. (From National Library, Singapore, call no. RSING 791.43095957 LIM); “Death of Mr Loke Yew,” Straits Echo, 24 February 1917, 8. (From NewspaperSG)
 
-[^1]: “Grave Concerns for the Past,” New Sunday Times, 7 January 2007; Lim, Cathay, 8.
+[^2]: “Grave Concerns for the Past,” New Sunday Times, 7 January 2007; Lim, Cathay, 8.
 
-“Dr Loke’s Son Welcomed,” Straits Budget, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, Singapore Cinema (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL);
+[^3]: “Dr Loke’s Son Welcomed,” Straits Budget, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, Singapore Cinema (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL);
