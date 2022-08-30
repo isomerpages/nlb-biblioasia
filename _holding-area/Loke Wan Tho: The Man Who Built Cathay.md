@@ -23,3 +23,14 @@ He also donated generously to social causes such as schools and hospitals, and b
 Afflicted with poor health, the young Loke was initially educated by a governess and only began attending school at age 12.[^4] After a short stint at Victoria Institution in Kuala Lumpur, a school co-founded by his father, his doctor advised him to move to a place with a better climate to improve his weak constitution. His entire family thus left for Europe in 1929 where Loke continued his education at prestigious schools, excelling in both sports and academics.[^5]
 	
 He enrolled at Chillon College in Montreux, Switzerland, a boarding school popular with wealthy British colonialists. Set in the scenic alps, the mountain air seemed to do Loke good. He became captain of the school soccer team and set the 1932 long-jump record in the Swiss county of Vaud – a record he held for over 30 years. His
+
+(cont.)
+
+
+<div style="background-color: white;">
+<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
+
+#### **NOTES**
+
+[^1]: “[Page 5 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671014-1.2.36.1),” *Straits Times*, 14 October 1967, 5. (From NewspaperSG)
