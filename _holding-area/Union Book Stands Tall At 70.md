@@ -3,7 +3,6 @@ title: Union Book Stands Tall At 70
 permalink: /holding-area/test5/
 description: Chinese bookstore Union Book has seen many changes over the last seven decades.
 ---
-
 #### Chinese bookstore Union Book has seen many changes over the last seven decades. 
 By Chen Yuxin
 
@@ -30,12 +29,12 @@ Besides selling books, Union Press also produced teaching materials and publishe
 
 To commemorate the 70th anniversary of Union Press, *A Look Back – Commemorative Book for the 70th Anniversary of Union Book in Singapore* (回望—新加坡友联书局70週年纪念特刊) was launched at the Singapore Book Fair on 4 June 2022. Penned by former journalist Zhong Hongzhi (锺宏志), the book traces the history of Union Press and discusses the place of Union Book in the development of Singapore’s society and culture. 
 
-![](/images/Vol%2018%20Issue%203/Union%20Book/Book_cover.jpg)
+![](/images/Vol%2018%20Issue%203/Union%20Book/bookcover.jpg)
 <div style="background-color: white;"> The commemorative book published in conjunction with Union Book’s 70th anniversary in 2022. <i>Courtesy of Union Book.</i></div>
 
 Zhong has always been interested in the history of Chinese bookstores in Singapore. She drafted a dissertation proposal on this topic 10 years ago, but her PhD plans were put on hold when she moved to Hong Kong. When the opportunity came up to commemorate Union Press’s 70th anniversary, Zhong was invited to work on the book. 
 
-![](/images/Vol%2018%20Issue%203/Union%20Book/Calligraphy_edited.jpg)
+![](/images/Vol%2018%20Issue%203/Union%20Book/calligraphyedit.jpg)
 <div style="background-color: white;"> The calligraphy by He Jialiang (何家良) for Union Book’s 70th anniversary. The calligraphy appears in the commemorative book. <i>Courtesy of Union Book.</i></div>
 
 She soon realised, however, that there were numerous challenges. Information about the bookstore was sparse and many of its key figures, including former managing director Chow Li Liang (周立良) and former vice-chairman Yu Dekuan (馀德宽), had passed on. But Zhong was able to interview other people, like former general manager Wang Jianwu (王健武), and Xi Huizhang (奚会暲), the former president of *Chinese Student Weekly*. Unfortunately, some things they brought up could not be verified and had to be left out of the book.
@@ -70,7 +69,7 @@ At the book launch, Zhong talked about the joys and challenges of research, whil
 
 Zhong divided the history of Union Book into three phases. The first phase, from 1952 to 1977, was when Union Book maintained close ties with Union Press, its parent company in Hong Kong.  Phase two, from 1977 to 2005, covers the period when Chow Li Liang took over the helm of the bookstore. Chow bought over all the shares of Union Book from Union Press in 1996, making that year an important watershed. From then on, Union Book was officially separated from Union Press and became a fully independent entity. The last phase began in 2005 when Margaret Ma took over the running of the bookstore. 
 
-![](/images/Vol%2018%20Issue%203/Union%20Book/ChowLiLiang.jpg)
+![](/images/Vol%2018%20Issue%203/Union%20Book/Chow_LiLiang_edit.jpg)
 <div style="background-color: white;"> Chow Li Liang in the Union Book office in Bras Basah Complex, 2012. He was the managing director from 1977 to 2005. <i>Courtesy of Union Book.</i></div>
 
 The Union Book of today is very different from its predecessor. While the bookstore used to be known for its Taiwanese books, these days, the bookstore also sells books from mainland China, Hong Kong, Malaysia and Singapore.
@@ -90,7 +89,7 @@ Bookselling has changed in other ways as well. In 1995, when Ma joined Union Boo
 
 Union Book moved into its current location on the third floor of Bras Basah Complex in 1981, one floor above Daren Restaurant (大人餐厅). Chow Li Liang was also one of the shareholders of the restaurant. Because of its proximity to the bookstore and the link with Chow, the restaurant became part of the Union Book experience. Ma recalled that when she was working for Chow, the two of them would often have *zhajiang* noodles (炸酱麵) at the restaurant. Many Chinese literary groups and intellectuals also enjoyed meeting at the restaurant in its heyday. According to Ma, they had originally planned to build a staircase to connect the restaurant and the bookstore but were unable to convince the authorities to do so. (Daren Restaurant eventually shuttered in 1998.)
 
-![](/images/Vol%2018%20Issue%203/Union%20Book/1981building.jpg)
+![](/images/Vol%2018%20Issue%203/Union%20Book/building1981.jpg)
 <div style="background-color: white;"> Union Book moved to the third floor of Bras Basah Complex in 1981. Daren Restaurant (大人餐厅) is located one floor down. <i>Courtesy of Union Book.</i></div>
 
 By the time the bookstore moved to Bras Basah Complex, Nanyang University had been merged with the University of Singapore and the Chinese bookstore scene had begun to become less vibrant. However, there were still many teachers and parents who frequented the store on weekends. Singaporean writer Yeng Pway Ngon (英培安) was one of the regulars at Union Book. (On a side note, Yeng met his future wife, Goh Beng Choo, at a Union Book event.)
@@ -100,7 +99,7 @@ Interestingly, Union Book also ran a bookstore in CHIJ St Nicholas Girls’ Scho
 Ma said she did not fully understand the historical significance of Union Book in Singapore until the commemorative book was published. However, she did not feel oppressed by the past. “History is history. It should not carry too much baggage. I believe that the Chinese community in Singapore is bogged down with too much historical burden which, in my opinion, is not necessary. Why weigh ourselves down this way?” Ma said she is focused on ensuring that Union Book remains relevant so that the store can look forward to its 100th year anniversary. 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022.
+This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022. <br>Source: <i>Lianhe Zaobao</i> © SPH Media Limited. Permission required for reproduction.
 </div>
 
 #### **NOTES**
