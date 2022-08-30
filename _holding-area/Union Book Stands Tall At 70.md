@@ -7,7 +7,7 @@ description: Chinese bookstore Union Book has seen many changes over the last se
 By Chen Yuxin
 
 ![](/images/Vol%2018%20Issue%203/Union%20Book/1_coverimage.jpg)
-<div style="background-color: white;">(Left) In 1952, Union Press set up an office on the second floor of International Bookstore opposite Clifford Pier in Singapore. <i>Courtesy of Union Book.</i> (Right) Union Book on the third floor of Bras Basah Complex, 2022. <i>Courtesy of Jimmy Yap.</i></div>
+<div style="background-color: white;">(Left) In 1952, Union Press set up an office on the second floor of International Bookstore opposite Clifford Pier in Singapore. <i>Courtesy of Union Book.</i> <br>(Right) Union Book on the third floor of Bras Basah Complex, 2022. <i>Courtesy of Jimmy Yap.</i></div>
 
 It has been seven decades since the Hong Kong publisher Union Press (友联出版社) set up an office on the second floor of International Bookstore (国际书店), opposite Clifford Pier, in Singapore in 1952.
 
@@ -34,10 +34,10 @@ To commemorate the 70th anniversary of Union Press, *A Look Back – Commemorati
 
 Zhong has always been interested in the history of Chinese bookstores in Singapore. She drafted a dissertation proposal on this topic 10 years ago, but her PhD plans were put on hold when she moved to Hong Kong. When the opportunity came up to commemorate Union Press’s 70th anniversary, Zhong was invited to work on the book. 
 
+She soon realised, however, that there were numerous challenges. Information about the bookstore was sparse and many of its key figures, including former managing director Chow Li Liang (周立良) and former vice-chairman Yu Dekuan (馀德宽), had passed on. But Zhong was able to interview other people, like former general manager Wang Jianwu (王健武), and Xi Huizhang (奚会暲), the former president of *Chinese Student Weekly*. Unfortunately, some things they brought up could not be verified and had to be left out of the book.
+
 ![](/images/Vol%2018%20Issue%203/Union%20Book/calligraphyedit.jpg)
 <div style="background-color: white;"> The calligraphy by He Jialiang (何家良) for Union Book’s 70th anniversary. The calligraphy appears in the commemorative book. <i>Courtesy of Union Book.</i></div>
-
-She soon realised, however, that there were numerous challenges. Information about the bookstore was sparse and many of its key figures, including former managing director Chow Li Liang (周立良) and former vice-chairman Yu Dekuan (馀德宽), had passed on. But Zhong was able to interview other people, like former general manager Wang Jianwu (王健武), and Xi Huizhang (奚会暲), the former president of *Chinese Student Weekly*. Unfortunately, some things they brought up could not be verified and had to be left out of the book.
 
 #### **Support from the United States**
 
