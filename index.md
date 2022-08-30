@@ -12,7 +12,7 @@ sections:
       background: /images/Vol 18 Issue 2/Subterranean Singapore/jurong caverns banner.jpg
       url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
       title: " "
-      button: underground Tunnels and Caverns in singapore
+      button: underground Tunnels and Caverns
   - infopic:
       title: My Grandfather Was a Rōmusha
       subtitle: war
