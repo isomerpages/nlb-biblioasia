@@ -44,7 +44,7 @@ sections:
       title: Johor at the 1893 Chicago World’s Fair
       subtitle: places
       description: How did Johor end up at the Chicago World’s Fair in the 19th century?
-      button: Johor on international stage
+      button: Johor on thinternational stage
       url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
       image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
       alt: Johor Chicago World’s Fair
