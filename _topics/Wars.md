@@ -1,8 +1,15 @@
 ---
 title: War
-permalink: /topics/war
+permalink: /topics/war/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a <i>Rōmusha</i></a>
+During World War II, forced civilian labourers known as <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
+
+<img src="/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
 Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore. 
 

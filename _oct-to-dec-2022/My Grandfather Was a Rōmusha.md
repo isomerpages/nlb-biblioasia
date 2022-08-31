@@ -7,11 +7,7 @@ description: During World War II, forced civilian labourers known as Rōmushas
 image: /images/Vol 18 Issue 3/Romusha/3_Bapak_50s copy.jpg
 ---
 
-
-
-
-
-#### During World War II, forced civilian labourers known as Rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
+#### During World War II, forced civilian labourers known as *rōmusha* were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 By Shirlene Noordin
 
 ![](/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg)
@@ -25,30 +21,30 @@ For a while, I thought my grandfather had been a soldier who had gone off to fig
 ![](/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg)
 <div style="background-color: white;">The writer’s grandfather Kosman Hassan. Photo taken in the 1950s. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
-These people were Rōmushas – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
+These people were *rōmusha* – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
 
-The Death Railway has been immortalised in the movie, *The Bridge on the River Kwai*, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the Rōmushas received scant attention. Even beyond the film, the history of the Rōmushas is little known and they remain largely invisible in the accounts of the Death Railway.
+The Death Railway has been immortalised in the movie, *The Bridge on the River Kwai*, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the *rōmusha* received scant attention. Even beyond the film, the history of the *rōmusha* is little known and they remain largely invisible in the accounts of the Death Railway.
 
-In fact, there were many more Rōmushas working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the Rōmushas had perished compared to 16,000 deaths among the POWs.[^1]
+In fact, there were many more *rōmusha* working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the *rōmusha* had perished compared to 16,000 deaths among the POWs.[^1]
 
-Alongside British, Australian, Dutch and some American POWs, these Asian Rōmushas did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.[^2]
+Alongside British, Australian, Dutch and some American POWs, these Asian *rōmusha* did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.[^2]
 
 ![](/images/Vol%2018%20Issue%203/Romusha/4_train_edit.jpg)
 <div style="background-color: white;">Asian labourers sitting on the roof of a truck on a stretch of the Thai-Burma Railway at Wampo approximately 114 km north of Nong Pladuk, 1945. Trucks identical to these were used to transport prisoners-of-war from Singapore to Thailand for the construction of the railway. <i>Courtesy of the Australian War Memorial, accession no. 122303.</i></div>
 
 #### **Remembering the Forgotten**
 
-Yet, at the end of the Second World War in Southeast Asia, there appears to be no official records of these civilian labourers. No lists of their names or where they were from were compiled and no death records were ever kept that I could find. In the official retelling of the tragedy of the Death Railway, the Rōmushas are faceless and voiceless. 
+Yet, at the end of the Second World War in Southeast Asia, there appears to be no official records of these civilian labourers. No lists of their names or where they were from were compiled and no death records were ever kept that I could find. In the official retelling of the tragedy of the Death Railway, the *rōmusha* are faceless and voiceless. 
 
-In recounting my grandfather’s story of his time on the Thai-Burma Railway, I hope to give a voice, a face and a name to the hundreds of thousands of Rōmushas like him who worked on the railway, for which many paid with their lives. 
+In recounting my grandfather’s story of his time on the Thai-Burma Railway, I hope to give a voice, a face and a name to the hundreds of thousands of *rōmusha* like him who worked on the railway, for which many paid with their lives. 
 
-Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”[^3]
+Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the *rōmusha* has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the *rōmusha* camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”[^3]
 
 ![](/images/Vol%2018%20Issue%203/Romusha/8_prisoners_edit.jpg)
 <div style="background-color: white;">Allied prisoners-of-war in their quarters, which is an open-sided attap hut, 1944. The camp was in Kanchanaburi, which is 55 km north of Nong Pladuk, or 364 km south of Thanbyuzayat. <i>Courtesy of the Australian War Memorial, accession no. P01502.006.
 </i></div>
 
-The Rōmushas themselves do not appear to have left any written accounts. Many of them were recruited from remote villages and plantations and were most likely illiterate. Given the high mortality rate, their personal stories of hardship would have perished along with them.
+The *rōmusha* themselves do not appear to have left any written accounts. Many of them were recruited from remote villages and plantations and were most likely illiterate. Given the high mortality rate, their personal stories of hardship would have perished along with them.
 
 My grandfather, whom I called Bapak, was among those fortunate enough to have survived. What I know of his experience on the railway is from the rare stories he told us, but even then, these were told in a stoic, quiet fashion, without regret, sadness or heroism. It was as if the Death Railway was just an episode he had to go through. 
 
@@ -109,13 +105,13 @@ While I speculate that Bapak may have escaped the harshest of work conditions, I
 
 The meagre diet meant that my grandfather was always hungry. Fortunately, he was allowed to leave the camp occasionally to go to the nearby village where he could get food. Being unpaid, I don’t know how he procured the food but being a sociable and friendly person, my grandfather would have definitely made friends with the local Thais. 
 
-Bapak also spoke about the many diseases such as malaria, cholera and dysentery that ravaged the labourers and POWs. Death among his fellow labourers was rampant. As he was also responsible for burying the dead, he recalled that he was not even able to give proper burials as these were hastily done. He said that he would have liked to give the Muslims among the deceased Rōmushas the proper burial rites, but he was unable to.
+Bapak also spoke about the many diseases such as malaria, cholera and dysentery that ravaged the labourers and POWs. Death among his fellow labourers was rampant. As he was also responsible for burying the dead, he recalled that he was not even able to give proper burials as these were hastily done. He said that he would have liked to give the Muslims among the deceased *rōmusha* the proper burial rites, but he was unable to.
 
 The Thai-Burma Railway was finally completed in October 1943 but despite this, the ordeal of the surviving POWs and the Asian labourers was far from over. They were confined in the camps for another two years until the Japanese surrender in 1945. The constant bombings of the railway by the Allied forces required frequent repairs by the POWs and labourers. Bapak was among the labourers who were tasked with felling trees in the jungle for timber to repair tracks and bridges, all while food rations got smaller. 
 
 #### **Return to Singapore**
 
-When the Japanese surrendered in August 1945, the POWs and Rōmushas suddenly found themselves free. While the POWs were able to quickly organise themselves, the Rōmushas, who did not have the same military structures in their camps and did not have any leadership, struggled initially. 
+When the Japanese surrendered in August 1945, the POWs and *rōmusha* suddenly found themselves free. While the POWs were able to quickly organise themselves, the *rōmusha*, who did not have the same military structures in their camps and did not have any leadership, struggled initially. 
 
 According to a report from 1946 (courtesy of Jonathan Moffat’s research), “approximately 26,000 Malayans remained as labourers, scattered along the length of the railway… Those who survived would have been abandoned by the Japanese and were actually told in many cases, that they could find their own way back to Malaya. They were in a terrible state of malnutrition and disease, and very few were capable of making even the journey to Bangkok”.[^5] A group of Malayan British POWs, who were former planters and part of the volunteer forces, helped to repatriate the Malayan labourers from Kanchanaburi and Bangkok.
 
@@ -125,7 +121,7 @@ In an obituary for Richard Middleton Smith, a former POW working on the Thai-Bur
 
 “He recalled ‘At every camp the labourers seemed overjoyed to see us and meet those of us who could speak to them in their own language. In a number of camps they seemed unaware the war was over. Their first wish was to get back to Malaya and see their relatives’.”[^6]
 
-Bapak was among the Rōmushas who were free but did not know how to get back home on their own. According to his son Ally, Bapak met a certain “Major Pink” whom he had known in Singapore before the war. “Major Pink” and some of the British POWs helped Bapak find his way to Bangkok in the back of a truck and from Bangkok, he was repatriated to Singapore. I have not been able to unearth precise information about “Major Pink”. I subsequently found out that that there was a Johor planter manager named Pierrepont C.H.F. (Cyril Horace Frederick) ‘Pink’ who was a POW in Thailand. He could have been the “Major Pink” my grandfather encountered and received help from.
+Bapak was among the *rōmusha* who were free but did not know how to get back home on their own. According to his son Ally, Bapak met a certain “Major Pink” whom he had known in Singapore before the war. “Major Pink” and some of the British POWs helped Bapak find his way to Bangkok in the back of a truck and from Bangkok, he was repatriated to Singapore. I have not been able to unearth precise information about “Major Pink”. I subsequently found out that that there was a Johor planter manager named Pierrepont C.H.F. (Cyril Horace Frederick) ‘Pink’ who was a POW in Thailand. He could have been the “Major Pink” my grandfather encountered and received help from.
 
 Bapak returned to Singapore in late 1945 or early 1946. My grandmother recalled how he just appeared at the front door of the family home one day. Despite not receiving any news at all from him from the time he left Singapore in 1942, my grandmother had waited patiently for his return. Perhaps, deep inside her she knew that he was alive and would make his way home to see his first-born child, Asiah Kosman, my mother, whom he had never met. 
 
@@ -150,7 +146,7 @@ In spite of what he went through and maybe because of it, Bapak was a very stead
 ![](/images/Vol%2018%20Issue%203/Romusha/12_Bapakmedals.jpg)
 <div style="background-color: white;">The medals awarded to Kosman Hassan for his part in the war. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
-He had such a strong belief in community, in the kindness of people and in humanity. From the early years of Singapore’s independence until his death in 1992, Bapak was an active grassroots member at the Siglap Community Centre. For his community service, he received the Grand Award for Community Service medal. Bapak had witnessed the best and worst of humankind on the Death Railway. But rather than choosing to hate, he chose to forgive. We were lucky to have gotten him back alive; many other families in Malaya, Java, Sumatra and Burma where the Rōmushas had been recruited from were not so lucky. 
+He had such a strong belief in community, in the kindness of people and in humanity. From the early years of Singapore’s independence until his death in 1992, Bapak was an active grassroots member at the Siglap Community Centre. For his community service, he received the Grand Award for Community Service medal. Bapak had witnessed the best and worst of humankind on the Death Railway. But rather than choosing to hate, he chose to forgive. We were lucky to have gotten him back alive; many other families in Malaya, Java, Sumatra and Burma where the *rōmusha* had been recruited from were not so lucky. 
 
 In June 1992, Bapak and Mak were in Kuala Lumpur to visit Uncle Ally and his family when he fell seriously ill. Despite the gravity of his illness, Bapak insisted on being driven back home. His last wish was to spend his final days in Singapore. On 1 July, not long after returning to Singapore, Bapak passed away at the Singapore General Hospital with me and my cousin Alfie by his side. 
 

@@ -7,7 +7,7 @@ description: While best known as a giant in the movie business in Malaya, Loke
 #### While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 By Bonny Tan
 
-![](/images/Vol%2018%20Issue%203/Union%20Book/1_coverimage.jpg)
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png)
 <div style="background-color: white;"> Loke Wan Tho built up Cathay Organisation and established Cathay Cinema, 1962. <i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore.</i></div>
 
 Armed with just a camera and a seeming lack of fear, cinema magnate Loke Wan Tho spent hours on the precarious platform at the top of a 12-story wooden tower, not dissuaded by the burning sun or the fact that the tower swayed beneath him in strong winds. At one point, he even endeavoured to sit out a storm while on the platform, though he quickly thought better of it after he became giddy. Why was one of Malaya’s richest men risking his life some 40 m above the ground? Loke was on a quest: to snap the perfect photograph of a white-bellied sea eagle. 
@@ -28,7 +28,7 @@ He enrolled at Chillon College in Montreux, Switzerland, a boarding school popul
 
 
 <div style="background-color: white;">
-<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/><b>Bonny Tan </b>is a former Senior Librarian at the National Library, Singapore. She currently lives in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i>.</div>
+<img src="/images/Vol%2018%20Issue%203/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/><b>Bonny Tan </b>is a former Senior Librarian at the National Library, Singapore. She currently lives in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i>.</div>
 
 #### **NOTES**
 
