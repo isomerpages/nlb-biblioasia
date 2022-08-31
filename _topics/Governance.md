@@ -1,8 +1,15 @@
 ---
 title: Governance
-permalink: /topics/governance
+permalink: /topics/governance/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a>
+While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later.
+
+<img src="/images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy">Flower Power: Singapore's Orchid Diplomacy</a>
 Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us more.
 
