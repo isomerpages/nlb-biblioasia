@@ -14,7 +14,7 @@ sections:
       title: " "
       button: underground Tunnels and Caverns
   - infopic:
-      title: My Grandfather Was a Rōmusha
+      title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
       description: "During World War II, forced civilian labourers known as
         <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
