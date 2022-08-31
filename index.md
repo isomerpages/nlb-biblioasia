@@ -22,7 +22,7 @@ sections:
       button: The builders of Death Railway
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
-      alt: Image alt text
+      alt: romusha death railway
   - infopic:
       title: From Sarong Island with Love
       subtitle: places
@@ -39,7 +39,7 @@ sections:
       button: singapore's Central Bank
       url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
       image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
-      alt: Image alt text
+      alt: monetary authority singapore
   - infopic:
       title: Johor at the 1893 Chicago World’s Fair
       subtitle: places
@@ -58,7 +58,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
       image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
         Wrong - Image 9.png
-      alt: Image alt text
+      alt: bugis uprising singapore
   - infopic:
       title: A History of The Padang
       subtitle: national day
@@ -66,7 +66,7 @@ sections:
       button: More than an NDP venue
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
       image: /images/Vol 18 Issue 1/The Padang/image010.png
-      alt: Image alt text
+      alt: padang history ndp
   - infopic:
       title: So, What Is a Singaporean?
       subtitle: National day
@@ -84,7 +84,7 @@ sections:
       button: Communist violence and subversion
       url: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
       image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
-      alt: Image alt text
+      alt: communist violence singapore
   - infopic:
       title: Key Milestones in the History of Cathay Cinema
       subtitle: places and buildings
@@ -93,7 +93,7 @@ sections:
       button: a historic cinema
       url: /history-cathay-cinema-2022
       image: /images/Cathay/Cathay-1941.jpg
-      alt: Image alt text
+      alt: cathay history singapore
   - infopic:
       title: Chinese Vegetarian Restaurants
       subtitle: Food
@@ -104,7 +104,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
       image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
         Image 6.png
-      alt: Image alt text
+      alt: "vegetarian food buddhist nuns "
   - infopic:
       title: 日本占领时期的新加坡华社
       subtitle: war
@@ -112,7 +112,7 @@ sections:
         community relating to the Japanese Occupation of Singapore.
       button: Chinese community during WWII
       url: /jul-to-sep-2022/national-library-japanese-occupation-collection
-      alt: Image alt text
+      alt: japanese occupation nlb
       image: /images/Vol 18 Issue 2/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社 -
         Image 13.png
   - infopic:
@@ -124,7 +124,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines
       image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
         The Singapore Airlines Story - Image 3.png"
-      alt: Image alt text
+      alt: singapore airlines history
   - infopic:
       title: They Died for All Free Men
       subtitle: war
@@ -133,7 +133,7 @@ sections:
       button: Kranji War Cemetery
       url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
       image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
-      alt: Image alt text
+      alt: "kranji war cemetery "
   - infopic:
       title: A History of Sennett Estate
       subtitle: Places
@@ -143,7 +143,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
       image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
         Estate - Image 2.png
-      alt: Image alt text
+      alt: sennett estate
   - infopic:
       title: Japanese and Chinese Photo Studios in Prewar Singapore
       subtitle: Photography
@@ -153,7 +153,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
       image: /images/Vol 18 Issue 2/Chinese Japanese Photo
         Studios/agsphoto_17551_full.png
-      alt: " "
+      alt: prewar photography studios
   - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
       subtitle: people
@@ -163,7 +163,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
       image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
         Dead - Image 4.png
-      alt: Image alt text
+      alt: chao tzee cheng pathology
   - infopic:
       title: Hearts and Minds
       subtitle: "video: Stories from BiblioAsia"
@@ -173,7 +173,7 @@ sections:
       button: "watch the showdown "
       url: /videos/hearts-minds
       image: "/images/Videos: BA Stories/heartsandminds.jpg"
-      alt: Image alt text
+      alt: communist video
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: places
@@ -227,7 +227,7 @@ sections:
       button: Tan and his theatre empire
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
-      alt: Image alt text
+      alt: Cinema Pioneer Tan Cheng Kee
   - infopic:
       title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
       subtitle: Places
