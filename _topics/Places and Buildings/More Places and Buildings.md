@@ -1,9 +1,15 @@
 ---
 title: More Places and Buildings
-permalink: /topics/Places-and-Buildings/more
+permalink: /topics/Places-and-Buildings/more/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a>
+The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
+
+<img src="/images/Vol%2018%20Issue%203/Johor%201893/johor_cover.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
 Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
 
