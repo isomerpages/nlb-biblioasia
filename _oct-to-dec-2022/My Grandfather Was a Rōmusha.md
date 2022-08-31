@@ -6,12 +6,7 @@ description: During World War II, forced civilian labourers known as Rōmushas
   the Death Railway.
 image: /images/Vol 18 Issue 3/Romusha/3_Bapak_50s copy.jpg
 ---
-
-
-
-
-
-#### During World War II, forced civilian labourers known as Rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
+#### During World War II, forced civilian labourers known as *rōmusha* were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 By Shirlene Noordin
 
 ![](/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg)
@@ -25,22 +20,22 @@ For a while, I thought my grandfather had been a soldier who had gone off to fig
 ![](/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg)
 <div style="background-color: white;">The writer’s grandfather Kosman Hassan. Photo taken in the 1950s. <i>Photo courtesy of Shirlene Noordin.</i></div>
 
-These people were Rōmushas – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
+These people were *rōmusha* – forced civilian labourers recruited by the Japanese military to perform hard manual labour – who built the Thai-Burma Railway. My maternal grandfather, Kosman Hassan, was among the thousands from Singapore, Malaya, Burma and Java who toiled on the railway that is known today as the Death Railway. 
 
-The Death Railway has been immortalised in the movie, *The Bridge on the River Kwai*, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the Rōmushas received scant attention. Even beyond the film, the history of the Rōmushas is little known and they remain largely invisible in the accounts of the Death Railway.
+The Death Railway has been immortalised in the movie, *The Bridge on the River Kwai*, but this Hollywood version of the story focuses on a group of British prisoners-of-war (POWs) and the *rōmusha* received scant attention. Even beyond the film, the history of the *rōmusha* is little known and they remain largely invisible in the accounts of the Death Railway.
 
-In fact, there were many more Rōmushas working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the Rōmushas had perished compared to 16,000 deaths among the POWs.[^1]
+In fact, there were many more *rōmusha* working on the railway than there were POWs. It is estimated that there were 200,000 Southeast Asian civilian labourers in contrast to 60,000 Allied POWs on the railway. By the end of the war, more than 90,000 of the *rōmusha* had perished compared to 16,000 deaths among the POWs.[^1]
 
-Alongside British, Australian, Dutch and some American POWs, these Asian Rōmushas did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.[^2]
+Alongside British, Australian, Dutch and some American POWs, these Asian *rōmusha* did the impossible – they constructed a 415-kilometre railway line which passed through the most difficult of terrains to connect Ban Pong in Thailand to Thanbyuzayat in Burma in a mere 12 months, all in the name of the Japanese war effort. The railway was constructed to “avoid having to transport supplies by dangerous sea routes from its South East Asian territories to the front in Burma, and ultimately to link Bangkok in Siam and Rangoon in Burma”.[^2]
 
 ![](/images/Vol%2018%20Issue%203/Romusha/4_train_edit.jpg)
 <div style="background-color: white;">Asian labourers sitting on the roof of a truck on a stretch of the Thai-Burma Railway at Wampo approximately 114 km north of Nong Pladuk, 1945. Trucks identical to these were used to transport prisoners-of-war from Singapore to Thailand for the construction of the railway. <i>Courtesy of the Australian War Memorial, accession no. 122303.</i></div>
 
 #### **Remembering the Forgotten**
 
-Yet, at the end of the Second World War in Southeast Asia, there appears to be no official records of these civilian labourers. No lists of their names or where they were from were compiled and no death records were ever kept that I could find. In the official retelling of the tragedy of the Death Railway, the Rōmushas are faceless and voiceless. 
+Yet, at the end of the Second World War in Southeast Asia, there appears to be no official records of these civilian labourers. No lists of their names or where they were from were compiled and no death records were ever kept that I could find. In the official retelling of the tragedy of the Death Railway, the *rōmusha* are faceless and voiceless. 
 
-In recounting my grandfather’s story of his time on the Thai-Burma Railway, I hope to give a voice, a face and a name to the hundreds of thousands of Rōmushas like him who worked on the railway, for which many paid with their lives. 
+In recounting my grandfather’s story of his time on the Thai-Burma Railway, I hope to give a voice, a face and a name to the hundreds of thousn*s r Rōmushas like him who worked on the railway, for which many paid with their lives. 
 
 Several accounts about the Thai-Burma Railway were recorded by the POWs of the Allied Forces in their personal diaries and later published in books by those who survived. Whatever little we now know of the Rōmushas has been gleaned from these POW accounts. In the diary of British POW Robert Hardie, a former plantation manager in Malaya, he mentions the Rōmusha camps, where there were “frightful casualties from cholera and other diseases” and the brutality of the Japanese. He wrote: “People who have been near these camps speak with bated breath of the state of affairs – corpses rotting unburied in the jungle, almost complete lack of sanitation, frightful stench, overcrowding, swarms of flies. There is no medical attention in these camps, and the wretched natives are of course unable to organise any communal sanitation.”[^3]
 
