@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: My Grandfather Was a Rōmusha
       subtitle: war
-      description: During World War II, forced civilian labourers known as Rōmusha
-        were used by the Imperial Japanese Army for hard labour. They helped to
-        build the Death Railway.
+      description: "During World War II, forced civilian labourers known as
+        <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
+        "
       button: Remembering the Forgotten
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
