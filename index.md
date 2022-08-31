@@ -19,7 +19,7 @@ sections:
       description: "During World War II, forced civilian labourers known as
         <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
         "
-      button: Remembering the Forgotten
+      button: The builders of Death Railway
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: Image alt text
