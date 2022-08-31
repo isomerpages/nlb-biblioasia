@@ -1,9 +1,16 @@
 ---
 title: Leisure
-permalink: /topics/Places-and-Buildings/leisure
+permalink: /topics/Places-and-Buildings/leisure/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore">From Sarong Island with Love: Singapore’s Original Tourist Isle</a>
+Before there was Sentosa, there was Sarong Island.
+
+<img src="https://biblioasia.nlb.gov.sg/images/Vol%2018%20Issue%203/Sarong%20Island/1_cover.jpg">
+
+<hr>
+
 #### <a href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema" style="text-decoration: none; font-weight: bold;"> Movies Beneath A Starry, Starry Night</a>
 The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. Sharon Teng tracks its rise and subsequent decline.
 
