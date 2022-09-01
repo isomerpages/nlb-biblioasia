@@ -144,7 +144,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^21]: “[Tactless Nurses...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760913-1.2.13),” *New Nation*, 13 September 1976, 3. (From NewspaperSG) 
 
-[^22]: Sumitera Mohd Letak, oral history interview by Patricia Lee, 29 July 1997, transcript and MP3 audio, Reel/Disc 7 of 9, 28:47. (From National Archives of Singapore, accession no. 001915), 93.
+[^22]: [Sumitera Mohd Letak](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/87417de1-115e-11e3-83d5-0050568939ad), oral history interview by Patricia Lee, 29 July 1997, transcript and MP3 audio, Reel/Disc 7 of 9, 28:47. (From National Archives of Singapore, accession no. 001915), 93.
 
 [^23]: Wan Fook Kee and Margaret Loh, “Fertility Policies and the National Family Planning and Population Programme,” in *Public Policy and Population Change in Singapore*, ed. Peter S.J. Chen and James T. Fawcett (New York: Population Council, 1979), 102. (From National Library, Singapore, call no. RSING 301.3295957 PUB); Saw, *Population Policies and Programmes*, 44–45, 50–51.
 
