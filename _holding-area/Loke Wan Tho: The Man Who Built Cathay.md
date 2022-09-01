@@ -116,7 +116,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^6]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 22.
 
-[^7]:
+[^7]: Loke Wan Tho, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)* (London: M. Joseph, 1957), 15. (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH])
 
 [^8]:
 
