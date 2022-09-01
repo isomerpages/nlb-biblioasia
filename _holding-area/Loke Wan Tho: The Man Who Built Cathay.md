@@ -176,7 +176,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^36]: “[Books Gift by Mrs Loke Yew Fulfils Wish of Her Late Son](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650611-1.2.44),” *Straits Times*, 11 June 1965, 6. (From NewspaperSG). For more information about the Gibson-Hill Collection, see Bonny Tan, “A Malayan Treasure: The Gibson-Hill Collection,” *BiblioAsia* 4, no. 3 (Oct 2008): 30–31, https://biblioasia.nlb.gov.sg/vol-4/issue-3/oct-2008/.
 
-[^37]:
+[^37]: “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10; “[Tribute to Bird Lover Loke](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720205-1.2.123),” *Straits Times*, 5 February 1972, 19. (From NewspaperSG)
 
 [^38]:
 
