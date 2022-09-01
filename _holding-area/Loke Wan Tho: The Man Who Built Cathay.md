@@ -76,6 +76,9 @@ Loke’s love for birds was enhanced during the years he spent in India while Si
 
 Conditions in the field were primitive and Loke confessed that outdoor living without access to a water-closet was not something he would “become wholly accustomed” to, but he recognised that “these petty discomforts were a cheap price to pay for the opportunity to study bird life at close quarters”.[^23]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LokeEmerging.jpg)
+<div style="background-color: white;"> Loke Wan Tho emerging from his cloth hide on a rock to photograph sea birds off Changi in Singapore, 1952. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+
 The experience not only taught Loke how to accurately observe birds in their natural habitats, but also to take concise notes and preserve specimens for museums. It was through this study of birds that Loke found his diverse passions  – for books, photography and outdoor adventures  – meld into a single obsession. In the mid-1950s, Loke funded two expeditions to Sikkim, led by Salim, resulting in the publication *Birds of Sikkim* (1962), authored by the latter.[^24]
 
 Despite his busy work schedule, Loke returned to India frequently to photograph birds with Salim, travelling to Kashmir, Sikkim and the Himalayas. These expeditions extended into New Guinea in 1952, where Loke became one of the early bird photographers on the island. He even ventured to far-flung locations such as Finland near the Arctic circle to pursue his passion.[^25]
