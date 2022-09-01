@@ -112,7 +112,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^5]: [Sinha](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ed1d3ed5-115d-11e3-83d5-0050568939ad), oral history interview, 2 November 1983, 160–61; “‘Desperate’ Mothers Seek Aid,” *Singapore Free Press*, 3 May 1950, 7. (From NewspaperSG)
 
-[^6]: “The Tragic Cases of Singapore’s Unwanted Children,” *Malaya Tribune*, 21 June 1950, 6. (From NewspaperSG)
+[^6]: “[The Tragic Cases of Singapore’s Unwanted Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19500621-1.2.29),” *Malaya Tribune*, 21 June 1950, 6. (From NewspaperSG)
 
 [^7]: Yap, “Singapore: Population Policies and Programs,” 203; Saw, *Population Policies and Programmes*, 9.
 
