@@ -36,6 +36,7 @@ The Japanese invasion of Singapore in December 1941, however, forced a change of
 
 During the Japanese Occupation, Cathay Building was used as the local branch of the Japanese Broadcasting Department and the cinema, renamed Dai Toa Gekkizyo (Greater East Asian Theatre), screened Japanese propaganda films. After the Japanese surrender in 1945, Loke returned to Singapore and Cathay became the first cinema to start screening movies in post-war Singapore, reopening on 23 September 1945.[^13]
 
+In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
 
 
 (cont.)
