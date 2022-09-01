@@ -104,7 +104,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^1]: Yap Mui Teng, “Singapore: Population Policies and Programs,” in [*The Global Family Planning Revolution: Three Decades of Population Policies and Programs*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12928887), ed. Warren C. Robinson and John A. Ross (Washington, DC: World Bank, 2007), 206. (From National Library, Singapore, call no. RSING 363.9091724 GLO)
 
-[^2]: Mrs Hena Sinha, oral history interview by Daniel Chew, 2 November 1983, transcript and MP3 audio, Reel/Disc 11 of 13, 28:06, National Archives of Singapore (accession no. 000354), 158.
+[^2]: [Mrs Hena Sinha](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ed1d3ed5-115d-11e3-83d5-0050568939ad), oral history interview by Daniel Chew, 2 November 1983, transcript and MP3 audio, Reel/Disc 11 of 13, 28:06, National Archives of Singapore (accession no. 000354), 158.
 
 [^3]: Saw Swee-Hock, *Population Policies and Programmes in Singapore* (Singapore: ISEAS Publishing, 2016), 6. (From National Library, Singapore, call no. RSING 363.96095957 SAW)
 
