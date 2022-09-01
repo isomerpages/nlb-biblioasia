@@ -168,7 +168,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^33]: James T. Fawcett and Siew-Ean Khoo, “Singapore: Rapid Fertility Transition in a Compact Society,” *Population and Development Review* 6, no. 4 (1980): 558; “Singapore Fertility Attains Record Low; Antinatalist Policies are Questioned”, *International Family Planning Perspectives* 13, no. 1 (1987): 29. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website) 
 
-[^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” *Population Research and Policy Review* 5, no. 1 (1986): 5. (From JSTOR via NLB’s eResources website)
+[^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” *Population Research and Policy Review* 5, no. 1 (1986): 5. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website)
 
 [^35]: “The Things PM Says,” *Straits Times*, 15 August 1983, 11. (From NewspaperSG)
 
