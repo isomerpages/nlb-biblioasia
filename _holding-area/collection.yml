@@ -2,6 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Example Title.md
+      - The Early Days of Family Planning in Singapore.md
       - "Loke Wan Tho: The Man Who Built Cathay.md"
       - Test page.md
