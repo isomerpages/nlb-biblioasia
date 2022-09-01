@@ -154,7 +154,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^25]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 22; Pelham Groom, “[Off to the Arctic with a Mosquito Net](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580519-1.2.28),” *Singapore Free Press*, 19 May 1958; “[Land of the Midnight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580820-1.2.48),” *Singapore Free Press*, 20 August 1958, 8. (From NewspaperSG)
 
-[^26]:
+[^26]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 11.
 
 [^27]:
 
