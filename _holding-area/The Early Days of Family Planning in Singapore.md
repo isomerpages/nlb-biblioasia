@@ -116,7 +116,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^7]: Yap, “[Singapore: Population Policies and Programs](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12928887),” 203; Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 9.
 
-[^8]: Saw, *Population Policies and Programmes*, 9; Saw Swee-Hock, *Changes in the Fertility Policy of Singapore* (Singapore: Times Academic Press for the Institute of Policy Studies, 1990), 1–2. (From National Library, Singapore, call no. RSING 304.66095957 SAW)
+[^8]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 9; Saw Swee-Hock, [*Changes in the Fertility Policy of Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5449378) (Singapore: Times Academic Press for the Institute of Policy Studies, 1990), 1–2. (From National Library, Singapore, call no. RSING 304.66095957 SAW)
 
 [^9]: *Family Planning in Singapore* (Singapore: Printed by Govt. Printer, 1966), 2, 14. (From National Library, Singapore, call no. RSING 363.96095957 FAM) 
 
