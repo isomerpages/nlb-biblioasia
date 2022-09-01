@@ -162,7 +162,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^29]: Robert C. Murphy, et al., “Obituaries: Loke Wan Tho,” *The Auk* 82, no. 2 (April 1965): 322. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^30]:
+[^30]: “[Loke Photo Gift for National Gallery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630807-1.2.53),” *Straits Times*, 7 August 1963, 6. (From NewspaperSG); *The Loke Legacy*, 85, 195.
 
 [^31]:
 
