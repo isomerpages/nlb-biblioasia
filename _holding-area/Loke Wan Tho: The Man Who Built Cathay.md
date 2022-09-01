@@ -54,6 +54,24 @@ Much of Loke’s summer vacations were spent at Pembrokeshire where the Welsh co
 
 During one of these jaunts to Pembrokeshire, Loke managed to capture a raven attacking a heron on film. As Singapore’s former Governor-General Malcolm MacDonald poetically noted in his foreword to Loke’s book, A Company of Birds: “[Loke] watched a Raven work off a fit of rage by chasing a Heron. When the pursuit ended the Heron was still free, but Loke was a captive.”[^21]
 
+Loke’s love for birds was enhanced during the years he spent in India while Singapore was under Japanese rule. There, Loke was introduced to the Indian ornithologist Salim Ali, a leading figure in the field. Almost 20 years his senior, Salim became Loke’s mentor, taking him on expeditions to survey birds in the rugged landscapes of Kutch (in Gujarat) and Kashmir. As Loke was unable to return home due to the war, he remained in India for a couple of years and the two men became firm friends.[^22]
+
+Conditions in the field were primitive and Loke confessed that outdoor living without access to a water-closet was not something he would “become wholly accustomed” to, but he recognised that “these petty discomforts were a cheap price to pay for the opportunity to study bird life at close quarters”.[^23]
+
+The experience not only taught Loke how to accurately observe birds in their natural habitats, but also to take concise notes and preserve specimens for museums. It was through this study of birds that Loke found his diverse passions  – for books, photography and outdoor adventures  – meld into a single obsession. In the mid-1950s, Loke funded two expeditions to Sikkim, led by Salim, resulting in the publication Birds of Sikkim (1962), authored by the latter.[^24]
+
+Despite his busy work schedule, Loke returned to India frequently to photograph birds with Salim, travelling to Kashmir, Sikkim and the Himalayas. These expeditions extended into New Guinea in 1952, where Loke became one of the early bird photographers on the island. He even ventured to far-flung locations such as Finland near the Arctic circle to pursue his passion.[^25]
+
+Loke’s images of birds were the result of hours of patience waiting in dangerous and awkward positions, or from trekking through treacherous jungle and mountainous terrain. In his foreword to Loke’s book, A Company of Birds, MacDonald gave a firsthand account of Loke’s dedication, based on the fact that Loke’s 40-metre-high tower was built in MacDonald’s garden in Johor. 
+
+“At weekends, Loke would arrive [from Singapore] to take his pictures,” MacDonald wrote. “Hour after hour he sat aloft on his small platform. The tropical sun almost roasted him alive, his camera had to be worked from an angle which nearly sent him crashing headlong from his perch.” As MacDonald noted, a strong wind would make the tower sway “like the mast of a ship on a heaving ocean”. Once, Loke tried to ride out a storm on the platform but “had to descend hastily because he got giddy. It was an extraordinary demonstration of crazy heroism”.[^26]
+
+Loke’s efforts paid off with dramatic photographs of the white-bellied sea eagles. The images were later used as a template for the crest design of the Singapore Island Country Club where Loke had served as its first president.27 
+
+Some of Loke’s photographs of Malayan birds were also made into Christmas cards and postcards. Indeed, the image on the back of the Singapore one-dollar note in the bird series is believed to have been based on Loke’s 1952 photographs of black-naped terns on Squance Rock (also known as Loyang Rock) off Changi. 
+
+In 1954, Loke was made an Associate of the Royal Photographic Society in 1954. He was conferred the Fellowship of the Photographic Society of America in 1961, on top of other awards in the US and the UK.28
+
 
 
 
