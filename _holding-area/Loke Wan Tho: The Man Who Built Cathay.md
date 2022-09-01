@@ -22,7 +22,10 @@ He also donated generously to social causes such as schools and hospitals, and b
 	
 Afflicted with poor health, the young Loke was initially educated by a governess and only began attending school at age 12.[^4] After a short stint at Victoria Institution in Kuala Lumpur, a school co-founded by his father, his doctor advised him to move to a place with a better climate to improve his weak constitution. His entire family thus left for Europe in 1929 where Loke continued his education at prestigious schools, excelling in both sports and academics.[^5]
 	
-He enrolled at Chillon College in Montreux, Switzerland, a boarding school popular with wealthy British colonialists. Set in the scenic alps, the mountain air seemed to do Loke good. He became captain of the school soccer team and set the 1932 long-jump record in the Swiss county of Vaud – a record he held for over 30 years. His
+He enrolled at Chillon College in Montreux, Switzerland, a boarding school popular with wealthy British colonialists. Set in the scenic alps, the mountain air seemed to do Loke good. He became captain of the school soccer team and set the 1932 long-jump record in the Swiss county of Vaud – a record he held for over 30 years. His athleticism was noticed by the British Olympic sprinter, Harold Abrahams (the subject of the movie Chariots of Fire), who encouraged Loke to train professionally. Unfortunately, a broken ankle put paid to his athletic dreams.[^6]
+
+Although Loke knew that he would have to eventually run his father’s business, he studied English literature “for pleasure, if not for profit”.[^7] In 1936, Loke graduated from King’s College, Cambridge, with an honours degree in English literature and history.[^8] He subsequently furthered his studies at the London School of Economics, where he excelled academically and also as an athlete and leader, becoming the school’s badminton champion in 1937 and 1938.[^9]
+
 
 (cont.)
 
