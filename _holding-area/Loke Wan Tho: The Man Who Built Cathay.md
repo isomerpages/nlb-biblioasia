@@ -71,6 +71,9 @@ During one of these jaunts to Pembrokeshire, Loke managed to capture a raven att
 
 Loke’s love for birds was enhanced during the years he spent in India while Singapore was under Japanese rule. There, Loke was introduced to the Indian ornithologist Salim Ali, a leading figure in the field. Almost 20 years his senior, Salim became Loke’s mentor, taking him on expeditions to survey birds in the rugged landscapes of Kutch (in Gujarat) and Kashmir. As Loke was unable to return home due to the war, he remained in India for a couple of years and the two men became firm friends.[^22]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LokeObserving.jpg)
+<div style="background-color: white;">Loke Wan Tho (right) and Indian ornithologist Salim Ali preparing equipment before a field trip. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+
 Conditions in the field were primitive and Loke confessed that outdoor living without access to a water-closet was not something he would “become wholly accustomed” to, but he recognised that “these petty discomforts were a cheap price to pay for the opportunity to study bird life at close quarters”.[^23]
 
 The experience not only taught Loke how to accurately observe birds in their natural habitats, but also to take concise notes and preserve specimens for museums. It was through this study of birds that Loke found his diverse passions  – for books, photography and outdoor adventures  – meld into a single obsession. In the mid-1950s, Loke funded two expeditions to Sikkim, led by Salim, resulting in the publication *Birds of Sikkim* (1962), authored by the latter.[^24]
