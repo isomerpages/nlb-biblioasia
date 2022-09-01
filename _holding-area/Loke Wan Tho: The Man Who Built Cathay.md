@@ -174,7 +174,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^35]: “[Dato Loke and Wife Die in Air Disaster](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640621-1.2.14),” *Straits Times*, 21 June 1964, 1; “[Awards for Cathay Trio](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640620-1.2.81),” *Straits Times*, 20 June 1964, 7. (From NewspaperSG)
 
-[^36]:
+[^36]: “[Books Gift by Mrs Loke Yew Fulfils Wish of Her Late Son](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650611-1.2.44),” *Straits Times*, 11 June 1965, 6. (From NewspaperSG). For more information about the Gibson-Hill Collection, see Bonny Tan, “A Malayan Treasure: The Gibson-Hill Collection,” *BiblioAsia* 4, no. 3 (Oct 2008): 30–31, https://biblioasia.nlb.gov.sg/vol-4/issue-3/oct-2008/.
 
 [^37]:
 
