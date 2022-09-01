@@ -158,7 +158,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^28]: Aline K. Wong and Janet W. Salaff, “Planning Births for a Better Life: Working-class Response to Population Disincentives,” in [*Public Policy and Population Change in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1582091) (New York: Population Council, 1979), 121. (From National Library, Singapore, call no. RSING 301.3295957 PUB)
 
-[^29]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 82–83; Margaret Loh, *Beyond Family Planning Measures in Singapore: A Country Paper Submitted for the IGCC Workshop on Reducing Fertility through Beyond Family Planning Measures* (Singapore: Singapore Family Planning & Population Board, National Family Planning Centre, 1976), 10. (From National Library, Singapore, call no. RSING 301.426095957 LOH)
+[^29]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 82–83; Margaret Loh, [*Beyond Family Planning Measures in Singapore: A Country Paper Submitted for the IGCC Workshop on Reducing Fertility through Beyond Family Planning Measures*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081935) (Singapore: Singapore Family Planning & Population Board, National Family Planning Centre, 1976), 10. (From National Library, Singapore, call no. RSING 301.426095957 LOH)
 
 [^30]: Loh, *Beyond Family Planning Measures in Singapore*, 24; Saw, *Population Policies and Programmes*, 84.
 
