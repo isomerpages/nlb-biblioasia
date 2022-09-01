@@ -103,6 +103,9 @@ Unsurprisingly, Loke was a staunch supporter of various nature organisations suc
 
 Loke was also a connoisseur of the arts. He and his second wife Christina Lee shared a love for Chinese ceramics. In 1963, Loke donated 500 photographs of birds, people and places to Malaysia’s National Art Gallery. The collection included famous images by Armenian-Canadian photographer Yousuf Karsh and those by well-known American landscape photographer and environmentalist Ansel Adams.[^30]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Hollywood.jpg)
+<div style="background-color: white;"> Loke Wan Tho with his second wife Christina Lee and American actor Jerry Lewis. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+
 #### **An Untimely Demise**
 
 Running Cathay Organisation and its associated businesses proved challenging in the face of stiff competition from Shaw Brothers. The company also had to deal with the increasing political tumult in post-war Singapore as well as financial losses and bleeding business investments.[^31] By 1958, as the film business as a whole faced a decline, Loke’s foreign partners began withdrawing their financial support and he felt the impact. Loke disclosed that for some years in the mid-1950s, he did not draw any salary.[^32]
