@@ -53,7 +53,7 @@ Besides contending with prevailing social and gender norms, medical staff had to
 
 While family planning counselling sessions could sometimes be frustrating, both for the medical officers and the women seeking advice, these sessions were also an opportunity for women to confide in midwives privately about issues they faced. Hee recalled counselling a patient who eventually revealed her husband’s sexual abuse.[^16] For some women, these family planning clinics not only offered family planning advice but were also a sanctuary where they could seek solace and help. 
 
-#### **Yet, Birth Rates Continue to Rise **
+#### **Yet, Birth Rates Continue to Rise**
 
 Although birth rates decreased from 29.5 to 22.1 births per thousand from 1966 to 1971, there was no celebrating yet as the number of women in their early 20s would more than double from 1966 to 1975, resulting in more births.[^17]
 
