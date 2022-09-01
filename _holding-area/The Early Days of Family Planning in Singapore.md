@@ -28,7 +28,7 @@ Male attitudes were not helpful, as a 1950 Malaya Tribune article noted about a 
 
 Demand for the SFPA’s services was high and between 1949 and 1965, they grew from three clinics to 34. In those 16 years, almost 10,000 people sought and accepted family planning advice from the association. They could have possibly reached more women but being a non-profit private organisation, the association had limited resources and funds to keep up with demand.7 Nonetheless, the groundwork was laid for the next stage of family planning in Singapore. 
 
-Reaching Out to the Masses
+#### **Reaching Out to the Masses**
 
 By 1957, the SFPA struggled to cope with demand for its clinical services and appealed to the government for help. However, it was not until September 1965 when the White Paper on Family Planning was published that a national policy on family and population planning was instituted.8
 
@@ -48,7 +48,7 @@ Besides contending with prevailing social and gender norms, medical staff had to
 
 While family planning counselling sessions could sometimes be frustrating, both for the medical officers and the women seeking advice, these sessions were also an opportunity for women to confide in midwives privately about issues they faced. Hee recalled counselling a patient who eventually revealed her husband’s sexual abuse.16 For some women, these family planning clinics not only offered family planning advice but were also a sanctuary where they could seek solace and help. 
 
-Yet, Birth Rates Continue to Rise 
+#### **Yet, Birth Rates Continue to Rise **
 
 Although birth rates decreased from 29.5 to 22.1 births per thousand from 1966 to 1971, there was no celebrating yet as the number of women in their early 20s would more than double from 1966 to 1975, resulting in more births.17
 
@@ -64,7 +64,7 @@ Despite the difficulties, family planning services continued with the addition o
 
 A new SFPPB Training Unit, set up in 1972, was tasked with training new and existing staff to be adept in more “sophisticated” motivation techniques in a bid to reduce birth rates.24 As former training education officer Jenny Heng explained, the staff motivating patients were nurses, midwives and doctors, whose primary training was in medicine. The new Training Unit brought sorely needed communication and sociological perspectives that would make the process of encouraging women to accept family planning more friendly or appealing.25
 
-Two Is Enough
+#### **Two Is Enough**
 
 In 1972, the two-child family norm was pushed for the first time and publicity became a year-round affair rather than during specific campaign periods.26 Instead of slogans like “Singapore Wants Small Families”, the message now said “Girl or Boy, Two Is Enough”, and was blasted through all forms of mass media and emblazoned on collectibles. The Family Planning Board even launched two songs, “Will You Find Time To Love Me” and “It’s No Joke”, encouraging couples to delay marriage, delay having their first child and to space out their children.27
 
@@ -76,7 +76,7 @@ Tax relief for mothers was also reduced and allowed only for the first three chi
 
 However, studies have shown that that economic penalties and disincentives had a limited effect on families from the low-income working class who tended to have large families. According to researchers, a history of occupational insecurity led them to want more children as “children may prove to be their main security in the future”. These families also did not relate to the aspirations of social mobility that the two-child family concept promoted. When asked about the occupation or trade they wished for their children to pursue, one respondent interviewed replied: “I can’t afford to think of the future. I just live on and see.”31
 
-And Then There Were Three
+#### **And Then There Were Three**
 
 In 1975, less than a decade since the SFPPB was formed, the fertility rate dropped to replacement level in Singapore. Between 1966 and 1983, the birth rate decreased from 29.5 per thousand to 17.1.32 Experts and those involved in the family planning programme have cited multiple factors for this successful decline, including close cooperation among other government agencies in the implementation of family planning policies, improvements in socioeconomic conditions and the increased participation of women in the labour force.33
 In the early 1980s, there was an attempt to reverse this trend of falling fertility but in a very targeted way by focusing on particular groups of women. In his 1983 National Day Rally speech, Prime Minister Lee Kuan Yew highlighted what he saw as the problem of a declining quality of Singapore’s future labour force since well-educated women were having fewer children than their less-educated counterparts.34
