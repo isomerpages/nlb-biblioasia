@@ -6,8 +6,8 @@ description: ""
 #### Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972, but goes back even earlier to 1949. 
 By Andrea Kee
 
-![](/images/Vol%2018%20Issue%203/Sarong%20Island/1_cover.jpg)
-<div style="background-color: white;"> Christina Lee taking a stroll on Sarong Island, 1965. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
+![](/images/Vol%2018%20Issue%203/Family%20Planning/Cover.png)
+<div style="background-color: white;"> Staff at the Singapore Family Planning Association, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 Mention “family planning” in Singapore and the poster of two girls sharing an apple under an umbrella with the slogan, “Girl or Boy, Two Is Enough”, invariably comes to mind. The “stop at two” campaign, which began in 1972, blanketed Singapore with the message on posters and bus panels, in magazines and in advertisements, and even on television and in cinemas.[^1]
