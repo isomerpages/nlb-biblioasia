@@ -144,7 +144,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^20]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 14–15; Allington Kennard, “[‘Shooting’ Birds with a Camera](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580210-1.2.108.1),” *Straits Times*, 10 February 1958, 8. (From NewspaperSG)
 
-[^21]:
+[^21]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 11, 15.
 
 [^22]:
 
