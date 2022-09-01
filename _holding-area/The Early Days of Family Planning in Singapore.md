@@ -7,10 +7,12 @@ description: ""
 By Andrea Kee
 
 ![](/images/Vol%2018%20Issue%203/Family%20Planning/Cover.png)
-<div style="background-color: white;"> Staff at the Singapore Family Planning Association, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
-</div>
+<div style="background-color: white;"> Staff at the Singapore Family Planning Association, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Mention “family planning” in Singapore and the poster of two girls sharing an apple under an umbrella with the slogan, “Girl or Boy, Two Is Enough”, invariably comes to mind. The “stop at two” campaign, which began in 1972, blanketed Singapore with the message on posters and bus panels, in magazines and in advertisements, and even on television and in cinemas.[^1]
+
+![](/images/Vol%2018%20Issue%203/Family%20Planning/twoisenough.png)
+<div style="background-color: white;"> The now-iconic poster promoting the two-child family, 1978. The poster deliberately featured two girls to discourage the existing preference for boys. The girls also had a visible age gap to encourage parents to space out their children. <i>Singapore Family Planning and Population Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, family planning in Singapore actually goes back even earlier than 1972. Organised attempts to reduce family sizes here date to the immediate postwar era when the Singapore Family Planning Association (SFPA) was set up in 1949.
 
