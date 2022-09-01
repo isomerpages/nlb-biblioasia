@@ -164,7 +164,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^31]: Wong and Salaff, “[Planning Births for a Better Life](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1582091),” 120–22.
 
-[^32]: Yap, “[Population Policies and Programs](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12928887),” 205; Pakshong, *Singapore National Family Planning and Population Programme*, 2, 37.
+[^32]: Yap, “[Population Policies and Programs](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12928887),” 205; Pakshong, [*Singapore National Family Planning and Population Programme*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7375362), 2, 37.
 
 [^33]: James T. Fawcett and Siew-Ean Khoo, “Singapore: Rapid Fertility Transition in a Compact Society,” *Population and Development Review* 6, no. 4 (1980): 558; “Singapore Fertility Attains Record Low; Antinatalist Policies are Questioned”, *International Family Planning Perspectives* 13, no. 1 (1987): 29. (From JSTOR via NLB’s eResources website) 
 
