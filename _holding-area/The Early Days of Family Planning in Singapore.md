@@ -142,7 +142,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^20]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 65, 68.
 
-[^21]: “Tactless Nurses...,” *New Nation*, 13 September 1976, 3. (From NewspaperSG) 
+[^21]: “[Tactless Nurses...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760913-1.2.13),” *New Nation*, 13 September 1976, 3. (From NewspaperSG) 
 
 [^22]: Sumitera Mohd Letak, oral history interview by Patricia Lee, 29 July 1997, transcript and MP3 audio, Reel/Disc 7 of 9, 28:47. (From National Archives of Singapore, accession no. 001915), 93.
 
