@@ -97,7 +97,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author would like to thank Dr Jenny Soon, former head of the Training Unit at the Singapore Family Planning and Population Board, and Ms Jenny Heng, a former training education officer with the Training Unit, for sharing their thoughts on this topic.</div>
 
 <div style="background-color: white;">
-<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Andrea_Kee.png" style="width: 100px; height: 100px;"/>
 <b>Andrea Kee</b> is an Associate Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services.</div>
 
 #### **NOTES**
