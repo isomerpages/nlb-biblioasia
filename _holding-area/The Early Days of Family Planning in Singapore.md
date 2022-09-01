@@ -11,9 +11,6 @@ By Andrea Kee
 
 Mention “family planning” in Singapore and the poster of two girls sharing an apple under an umbrella with the slogan, “Girl or Boy, Two Is Enough”, invariably comes to mind. The “stop at two” campaign, which began in 1972, blanketed Singapore with the message on posters and bus panels, in magazines and in advertisements, and even on television and in cinemas.[^1]
 
-![](/images/Vol%2018%20Issue%203/Family%20Planning/twoisenough.png)
-<div style="background-color: white;"> The now-iconic poster promoting the two-child family, 1978. The poster deliberately featured two girls to discourage the existing preference for boys. The girls also had a visible age gap to encourage parents to space out their children. <i>Singapore Family Planning and Population Board Collection, courtesy of National Archives of Singapore.</i></div>
-
 However, family planning in Singapore actually goes back even earlier than 1972. Organised attempts to reduce family sizes here date to the immediate postwar era when the Singapore Family Planning Association (SFPA) was set up in 1949.
 
 #### **The Work of Volunteers**
@@ -78,6 +75,9 @@ A new SFPPB Training Unit, set up in 1972, was tasked with training new and exis
 #### **Two Is Enough**
 
 In 1972, the two-child family norm was pushed for the first time and publicity became a year-round affair rather than during specific campaign periods.[^26] Instead of slogans like “Singapore Wants Small Families”, the message now said “Girl or Boy, Two Is Enough”, and was blasted through all forms of mass media and emblazoned on collectibles. The Family Planning Board even launched two songs, “Will You Find Time To Love Me” and “It’s No Joke”, encouraging couples to delay marriage, delay having their first child and to space out their children.[^27]
+
+![](/images/Vol%2018%20Issue%203/Family%20Planning/twoisenough.png)
+<div style="background-color: white;"> The now-iconic poster promoting the two-child family, 1978. The poster deliberately featured two girls to discourage the existing preference for boys. The girls also had a visible age gap to encourage parents to space out their children. <i>Singapore Family Planning and Population Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 One of the benefits put forth by the government for having no more than two children was so that each child would get a “bigger share of the pie”. This was a message that struck home for many. In a study on population policies conducted by researchers between 1974 and 1976, a housewife who was interviewed explained in simple and clear terms how fewer children meant more food for each of them: “If you have only one child, you buy one dollar’s worth of liver for him, and he’ll get one dollar’s worth of liver. If you have two children, each will get only fifty cents’ worth of liver!”[^28]
 
