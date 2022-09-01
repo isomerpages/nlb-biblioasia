@@ -170,7 +170,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^33]: Rahita Elias, “[Cathay’s Dream Comes True](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19990421-1.2.33.6.3),” *Business Times*, 21 April 1999, 16. (From NewspaperSG);  Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 52–53.
 
-[^34]:
+[^34]: “[Dato Loke Wan Tho Divorce Case Begins](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19620213-1.2.15),” *Singapore Free Press*, 13 February 1962, 1; “[Dato Loke Weds Quietly in London](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630930-1.2.35),” *Straits Times*, 30 September 1963, 5. (From NewspaperSG)
 
 [^35]:
 
