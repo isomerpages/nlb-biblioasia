@@ -118,7 +118,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^7]: Loke Wan Tho, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)* (London: M. Joseph, 1957), 15. (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH])
 
-[^8]:
+[^8]: ”[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35).”
 
 [^9]:
 
