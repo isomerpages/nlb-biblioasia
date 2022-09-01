@@ -38,6 +38,9 @@ During the Japanese Occupation, Cathay Building was used as the local branch of 
 
 In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
 
+In 1953, Loke established Cathay-Keris Studio with Ho Ah Loke, the managing director of Keris Film Productions. Competing against its main rival, Shaw Brothers, Cathay-Keris produced mostly Malay films, including Pontianak (1957), made in both Malay and Chinese. Cathay-Keris’s Hang Jebat (1961) is still considered one of the best screenplays of the legend of the titular Malay warrior.[^15]
+
+To penetrate the Chinese film market, Loke acquired Yung Hwa Studio in Hong Kong in 1955 for film production and distribution, and subsequently formed the subsidiary, Motion Picture and General Investment Co Ltd (MP&GI), in Hong Kong to run Yung Hwa. MP&GI was a significant player in the Hong Kong market, and made about 250 films between 1956 and 1970.[^16]
 
 (cont.)
 
