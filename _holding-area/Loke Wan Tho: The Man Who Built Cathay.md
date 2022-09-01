@@ -92,6 +92,9 @@ Loke’s images of birds were the result of hours of patience waiting in dangero
 
 Loke’s efforts paid off with dramatic photographs of the white-bellied sea eagles. The images were later used as a template for the crest design of the Singapore Island Country Club where Loke had served as its first president.[^27] 
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Eagle.jpg)
+<div style="background-color: white;"> Loke Wan Tho’s photograph of the white-bellied sea eagle returning to its nest. <i>Image reproduced from Loke Wan Tho, A Company of Birds (London: M. Joseph, 1957), 128. (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH]).</i></div>
+
 Some of Loke’s photographs of Malayan birds were also made into Christmas cards and postcards. Indeed, the image on the back of the Singapore one-dollar note in the bird series is believed to have been based on Loke’s 1952 photographs of black-naped terns on Squance Rock (also known as Loyang Rock) off Changi. 
 
 In 1954, Loke was made an Associate of the Royal Photographic Society in 1954. He was conferred the Fellowship of the Photographic Society of America in 1961, on top of other awards in the US and the UK.[^28]
