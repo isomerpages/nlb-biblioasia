@@ -108,6 +108,9 @@ Since then, Singapore has been trying to get the birth rate up. Baby bonuses, ta
 
 The falling birth rate continues to be a matter of concern, engendering issues of not just a rapidly ageing population but also issues of immigration in recent decades, which have created tensions in the social fabric. It remains to be seen if the pro-natalist policies can achieve anything approaching the level of success as the anti-natalist National Family Planning and Population Programme of the 1960s and 1970s.
 
+![](/images/Vol%2018%20Issue%203/Family%20Planning/ms-word2.png)
+<div style="background-color: white;"> Newlyweds attending a family planning talk. Couples getting hitched at the Registry of Marriages were invited to attend such talks, where they were taught different contraceptive methods and encouraged to stop at two. <i>Image reproduced from Singapore Family Planning and Population Board, Annual Report 1973 (Singapore: Singapore Family Planning and Population Board, 1973), 47. (From National Library, Singapore, call no.: RCLOS 301.426 SFPPBA).</i></div>
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author would like to thank Dr Jenny Soon, former head of the Training Unit at the Singapore Family Planning and Population Board, and Ms Jenny Heng, a former training education officer with the Training Unit, for sharing their thoughts on this topic.</div>
 
 <div style="background-color: white;">
