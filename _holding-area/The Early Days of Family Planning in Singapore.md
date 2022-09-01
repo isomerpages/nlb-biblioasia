@@ -167,18 +167,18 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^33]: James T. Fawcett and Siew-Ean Khoo, “Singapore: Rapid Fertility Transition in a Compact Society,” *Population and Development Review* 6, no. 4 (1980): 558; “Singapore Fertility Attains Record Low; Antinatalist Policies are Questioned”, *International Family Planning Perspectives* 13, no. 1 (1987): 29. (From JSTOR via NLB’s eResources website) 
 
-[^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” Population Research and Policy Review 5, no. 1 (1986): 5. (From JSTOR via NLB’s eResources website)
+[^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” *Population Research and Policy Review* 5, no. 1 (1986): 5. (From JSTOR via NLB’s eResources website)
 
-[^35]: “The Things PM Says,” Straits Times, 15 August 1983, 11. (From NewspaperSG)
+[^35]: “The Things PM Says,” *Straits Times*, 15 August 1983, 11. (From NewspaperSG)
 
-[^36]: Palen, “Fertility and Eugenics,” 7; “Graduate Mum Scheme To Go,” Straits Times, 26 March 1985, 1. (From NewspaperSG)
+[^36]: Palen, “Fertility and Eugenics,” 7; “Graduate Mum Scheme To Go,” *Straits Times*, 26 March 1985, 1. (From NewspaperSG)
 
-[^37]: Saw, Population Policies and Programmes, 159, 210, 219.
+[^37]: Saw, *Population Policies and Programmes*, 159, 210, 219.
 
 [^38]: Goh Chok Tong, “Speech by Mr Goh Chok Tong, First Deputy Prime Minister and Minister for Defence, at The Nanyang Technological Institute (NTI) Forum, on Monday, 4 August 1986 at 7.30 PM”, speech, Nanyang Technological Institute (NTI) Forum, 4 August 1986, transcript, Ministry of Communications and Information. (From National Archives of Singapore, document no. gct19860804s)
 
-[^39]: Lenore Lyons-Lee, “The ‘Graduate Woman’ Phenomenon: Changing Constructions of the Family in Singapore,” Sojourn: Journal of Social Issues in Southeast Asia 13, no. 2 (1998): 314. (From JSTOR via NLB’s eResources website)
+[^39]: Lenore Lyons-Lee, “The ‘Graduate Woman’ Phenomenon: Changing Constructions of the Family in Singapore,” *Sojourn: Journal of Social Issues in Southeast Asia* 13, no. 2 (1998): 314. (From JSTOR via NLB’s eResources website)
 
-[^40]: Saw, Population Policies and Programmes, 157–207; Rei Kurohi, “MPs Raise Concerns over Changes to Law on Childcare Benefits and Baby Bonus Scheme,” Straits Times, 2 August 2021. (From Factiva via NLB’s eResources website)
+[^40]: Saw, *Population Policies and Programmes*, 157–207; Rei Kurohi, “MPs Raise Concerns over Changes to Law on Childcare Benefits and Baby Bonus Scheme,” *Straits Times*, 2 August 2021. (From Factiva via NLB’s eResources website)
 
-[^41]: Amelia Teng, “Budget Debate: Singapore’s Birth Numbers Last Year Similar to 2020, Higher than Expected,” Straits Times, 2 March 2022. (From Factiva via NLB’s eResources website)
+[^41]: Amelia Teng, “Budget Debate: Singapore’s Birth Numbers Last Year Similar to 2020, Higher than Expected,” *Straits Times*, 2 March 2022. (From Factiva via NLB’s eResources website)
