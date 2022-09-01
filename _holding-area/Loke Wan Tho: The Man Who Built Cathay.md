@@ -138,7 +138,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^17]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34.
 
-[^18]:
+[^18]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 6; “[King Honours 158](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19610111-1.2.58),” *Straits Budget*, 11 January 1961, 12. (From NewspaperSG)
 
 [^19]:
 
