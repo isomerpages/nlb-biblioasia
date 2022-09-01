@@ -29,6 +29,9 @@ He enrolled at Chillon College in Montreux, Switzerland, a boarding school popul
 
 Although Loke knew that he would have to eventually run his father’s business, he studied English literature “for pleasure, if not for profit”.[^7] In 1936, Loke graduated from King’s College, Cambridge, with an honours degree in English literature and history.[^8] He subsequently furthered his studies at the London School of Economics, where he excelled academically and also as an athlete and leader, becoming the school’s badminton champion in 1937 and 1938.[^9]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Mercedes.jpg)
+<div style="background-color: white;"> Loke Wan Tho in his Mercedes in Cambridge, 1936. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+
 #### **A Film Mogul**
 
 Meanwhile, Loke’s mother, Mrs Loke Yew (née Lim Cheng-Kim), and a relative, Khoo Teik Ee, were busy setting up the foundations for the family cinema business. Mrs Loke Yew had incorporated Associated Theatres on 18 July 1935 with Khoo and an Englishman, Max Baker, who introduced the first talkies to Singapore in 1929. On 5 August 1936, she established the 1,200-seat Pavilion in Kuala Lumpur, and on 3 October 1939, the iconic Cathay Cinema in Singapore opened its doors.[^10]
@@ -38,6 +41,9 @@ Loke returned to Singapore in 1940 and the next year, the main tower of the 83.5
 The Japanese invasion of Singapore in December 1941, however, forced a change of plans. In February 1942, Loke boarded the *Nora Moller* to escape the war. Unfortunately, the vessel was bombed off the Strait of Banka and Loke suffered severe burns to his body and was also temporarily blinded. Rescued by the Australian cruiser *Sydney*, Loke was taken to a hospital in Batavia (now Jakarta). After a few weeks of recuperation, Loke left for India against his doctor’s orders as he had predicted – rightly – that Java would soon suffer the same fate as Singapore. He then spent the war years in India.[^12]
 
 During the Japanese Occupation, Cathay Building was used as the local branch of the Japanese Broadcasting Department and the cinema, renamed Dai Toa Gekkizyo (Greater East Asian Theatre), screened Japanese propaganda films. After the Japanese surrender in 1945, Loke returned to Singapore and Cathay became the first cinema to start screening movies in post-war Singapore, reopening on 23 September 1945.[^13]
+
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LokeOffice.jpg)
+<div style="background-color: white;"> Loke Wan Tho in his office on the fourth floor of Cathay Building, 1946. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
 In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
 
