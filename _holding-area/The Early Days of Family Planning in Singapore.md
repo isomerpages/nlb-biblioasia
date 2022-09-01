@@ -145,27 +145,27 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^22]: Sumitera Mohd Letak, oral history interview by Patricia Lee, 29 July 1997, transcript and MP3 audio, Reel/Disc 7 of 9, 28:47. (From National Archives of Singapore, accession no. 001915), 93.
 
-[^23]: Wan Fook Kee and Margaret Loh, “Fertility Policies and the National Family Planning and Population Programme,” in *Public Policy and Population Change in Singapore*, ed. Peter S.J. Chen and James T. Fawcett (New York: Population Council, 1979), 102. (From National Library, Singapore, call no. RSING 301.3295957 PUB); Saw, Population Policies and Programmes, 44–45, 50–51.
+[^23]: Wan Fook Kee and Margaret Loh, “Fertility Policies and the National Family Planning and Population Programme,” in *Public Policy and Population Change in Singapore*, ed. Peter S.J. Chen and James T. Fawcett (New York: Population Council, 1979), 102. (From National Library, Singapore, call no. RSING 301.3295957 PUB); Saw, *Population Policies and Programmes*, 44–45, 50–51.
 
-[^24]: Singapore Family Planning and Population Board, Annual Report 1973, 51; “Plan to Attract the Stay Away Women,” Straits Times, 5 July 1972, 11. (From NewspaperSG)
+[^24]: Singapore Family Planning and Population Board, *Annual Report 1973*, 51; “Plan to Attract the Stay Away Women,” *Straits Times*, 5 July 1972, 11. (From NewspaperSG)
 
 [^25]: Jenny Heng, interview, 23 May 2022. 
 
-[^26]: Singapore Family Planning and Population Board, Annual Report 1972 (Singapore: Singapore Family Planning and Population Board, 1973), 37. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
+[^26]: Singapore Family Planning and Population Board, *Annual Report 1972* (Singapore: Singapore Family Planning and Population Board, 1973), 37. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
 
-[^27]: Kanagaratnam, “National Family Planning Program,” 11; Saw, Population Policies and Programmes, 29; “Sing a Song or Two for Family Planning,” Straits Times, 4 February 1981, 7. (From NewspaperSG)
+[^27]: Kanagaratnam, “National Family Planning Program,” 11; Saw, *Population Policies and Programmes*, 29; “Sing a Song or Two for Family Planning,” *Straits Times*, 4 February 1981, 7. (From NewspaperSG)
 
-[^28]: Aline K. Wong and Janet W. Salaff, “Planning Births for a Better Life: Working-class Response to Population Disincentives,” in Public Policy and Population Change in Singapore (New York: Population Council, 1979), 121. (From National Library, Singapore, call no. RSING 301.3295957 PUB)
+[^28]: Aline K. Wong and Janet W. Salaff, “Planning Births for a Better Life: Working-class Response to Population Disincentives,” in *Public Policy and Population Change in Singapore* (New York: Population Council, 1979), 121. (From National Library, Singapore, call no. RSING 301.3295957 PUB)
 
-[^29]: Saw, Population Policies and Programmes, 82–83; Margaret Loh, Beyond Family Planning Measures in Singapore: A Country Paper Submitted for the IGCC Workshop on Reducing Fertility through Beyond Family Planning Measures (Singapore: Singapore Family Planning & Population Board, National Family Planning Centre, 1976), 10. (From National Library, Singapore, call no. RSING 301.426095957 LOH)
+[^29]: Saw, *Population Policies and Programmes*, 82–83; Margaret Loh, *Beyond Family Planning Measures in Singapore: A Country Paper Submitted for the IGCC Workshop on Reducing Fertility through Beyond Family Planning Measures* (Singapore: Singapore Family Planning & Population Board, National Family Planning Centre, 1976), 10. (From National Library, Singapore, call no. RSING 301.426095957 LOH)
 
-[^30]: Loh, Beyond Family Planning Measures in Singapore, 24; Saw, Population Policies and Programmes, 84.
+[^30]: Loh, *Beyond Family Planning Measures in Singapore*, 24; Saw, *Population Policies and Programmes*, 84.
 
 [^31]: Wong and Salaff, “Planning Births for a Better Life,” 120–22.
 
-[^32]: Yap, “Population Policies and Programs,” 205; Pakshong, Singapore National Family Planning and Population Programme, 2, 37.
+[^32]: Yap, “Population Policies and Programs,” 205; Pakshong, *Singapore National Family Planning and Population Programme*, 2, 37.
 
-[^33]: James T. Fawcett and Siew-Ean Khoo, “Singapore: Rapid Fertility Transition in a Compact Society,” Population and Development Review 6, no. 4 (1980): 558; “Singapore Fertility Attains Record Low; Antinatalist Policies are Questioned”, International Family Planning Perspectives 13, no. 1 (1987): 29. (From JSTOR via NLB’s eResources website) 
+[^33]: James T. Fawcett and Siew-Ean Khoo, “Singapore: Rapid Fertility Transition in a Compact Society,” *Population and Development Review* 6, no. 4 (1980): 558; “Singapore Fertility Attains Record Low; Antinatalist Policies are Questioned”, *International Family Planning Perspectives* 13, no. 1 (1987): 29. (From JSTOR via NLB’s eResources website) 
 
 [^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” Population Research and Policy Review 5, no. 1 (1986): 5. (From JSTOR via NLB’s eResources website)
 
