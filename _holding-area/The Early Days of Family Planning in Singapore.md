@@ -172,7 +172,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^35]: “[The Things PM Says](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.32.2),” *Straits Times*, 15 August 1983, 11. (From NewspaperSG)
 
-[^36]: Palen, “Fertility and Eugenics,” 7; “Graduate Mum Scheme To Go,” *Straits Times*, 26 March 1985, 1. (From NewspaperSG)
+[^36]: Palen, “Fertility and Eugenics,” 7; “[Graduate Mum Scheme To Go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850326-1.2.2),” *Straits Times*, 26 March 1985, 1. (From NewspaperSG)
 
 [^37]: Saw, *Population Policies and Programmes*, 159, 210, 219.
 
