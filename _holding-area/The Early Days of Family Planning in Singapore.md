@@ -140,7 +140,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^19]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 68; Mary Lee Frances Dowsett, “[Sterilisation – Cheapest Contraceptive Method](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720728-1.2.71.1),” *New Nation*, 28 July 1972, 11. (From NewspaperSG)
 
-[^20]: Saw, *Population Policies and Programmes*, 65, 68.
+[^20]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 65, 68.
 
 [^21]: “Tactless Nurses...,” *New Nation*, 13 September 1976, 3. (From NewspaperSG) 
 
