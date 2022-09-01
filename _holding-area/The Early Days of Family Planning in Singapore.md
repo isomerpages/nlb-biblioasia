@@ -138,7 +138,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^18]: Wan Fook Kee and Margaret Loh, [*Second Five-Year Family Planning Programme*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4078606), 1971–1975 (Singapore: Singapore Family Planning and Population Board, 1982), 1–2 (From National Library, Singapore, call no. RSING 301.426095957 WAN); Singapore Family Planning and Population Board, [*Annual Report 1973*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679) (Singapore: Singapore Family Planning and Population Board, 1973), 44. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
 
-[^19]: Saw, *Population Policies and Programmes*, 68; Mary Lee Frances Dowsett, “Sterilisation – Cheapest Contraceptive Method,” *New Nation*, 28 July 1972, 11. (From NewspaperSG)
+[^19]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 68; Mary Lee Frances Dowsett, “[Sterilisation – Cheapest Contraceptive Method](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720728-1.2.71.1),” *New Nation*, 28 July 1972, 11. (From NewspaperSG)
 
 [^20]: Saw, *Population Policies and Programmes*, 65, 68.
 
