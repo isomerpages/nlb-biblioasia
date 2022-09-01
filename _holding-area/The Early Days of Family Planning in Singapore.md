@@ -114,7 +114,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^6]: “[The Tragic Cases of Singapore’s Unwanted Children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19500621-1.2.29),” *Malaya Tribune*, 21 June 1950, 6. (From NewspaperSG)
 
-[^7]: Yap, “Singapore: Population Policies and Programs,” 203; Saw, *Population Policies and Programmes*, 9.
+[^7]: Yap, “[Singapore: Population Policies and Programs](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12928887),” 203; Saw, *Population Policies and Programmes*, 9.
 
 [^8]: Saw, *Population Policies and Programmes*, 9; Saw Swee-Hock, *Changes in the Fertility Policy of Singapore* (Singapore: Times Academic Press for the Institute of Policy Studies, 1990), 1–2. (From National Library, Singapore, call no. RSING 304.66095957 SAW)
 
