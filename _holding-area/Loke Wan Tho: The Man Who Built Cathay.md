@@ -114,6 +114,9 @@ In 1959, Loke consolidated his stable of companies – Associated Theatres, Loke
 
 Adding to Loke’s woes, his marriage to Christina Lee ended in an acrimonious divorce in 1962. He was, however, able to find love soon after and in September the following year, he married Mavis Chew.[^34]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LokeandMavis.jpg)
+<div style="background-color: white;"> Loke Wan Tho and Mavis Chew on their wedding day in London, 1963. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+
 Sadly, barely nine months later, the couple lost their lives when the plane they were on crashed in Taichung, Taiwan, shortly after takeoff on 20 June 1964. All 53 people on board died. Loke and Chew were returning home from the 11th Asian Film Festival, where Loke had received Golden Accolades awards on behalf of three Cathay Organisation stars.[^35] He had just turned 49 a few days before.
 
 #### **A Lasting Legacy**
