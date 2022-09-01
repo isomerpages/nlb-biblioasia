@@ -160,7 +160,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^28]: Lim Boon Tiong, “Dato Loke Wan Tho – An Appreciation,” *The Photographic Society of Singapore Monthly Bulletin* 10 (1961); “[Loke Made an Associate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19540118-1.2.40),” *Singapore Standard*, 18 January 1954, 3; “[Dato Loke Awarded Fellowship](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611003-1.2.6),” *Straits Times*, 3 October 1961, 1. (From NewspaperSG)
 
-[^29]:
+[^29]: Robert C. Murphy, et al., “Obituaries: Loke Wan Tho,” *The Auk* 82, no. 2 (April 1965): 322. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^30]:
 
