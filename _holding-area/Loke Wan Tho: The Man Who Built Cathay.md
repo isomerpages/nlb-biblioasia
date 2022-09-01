@@ -172,7 +172,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^34]: “[Dato Loke Wan Tho Divorce Case Begins](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19620213-1.2.15),” *Singapore Free Press*, 13 February 1962, 1; “[Dato Loke Weds Quietly in London](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630930-1.2.35),” *Straits Times*, 30 September 1963, 5. (From NewspaperSG)
 
-[^35]:
+[^35]: “[Dato Loke and Wife Die in Air Disaster](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640621-1.2.14),” *Straits Times*, 21 June 1964, 1; “[Awards for Cathay Trio](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640620-1.2.81),” *Straits Times*, 20 June 1964, 7. (From NewspaperSG)
 
 [^36]:
 
