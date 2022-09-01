@@ -120,7 +120,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^8]: ”[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35).”
 
-[^9]:
+[^9]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 12.
 
 [^10]:
 
