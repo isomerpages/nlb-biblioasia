@@ -56,6 +56,7 @@ sections:
       button: " A Singaporean icon"
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
       alt: Union Book
+      image: /images/Union Book 2022.jpg
   - infopic:
       title: A Royal Wedding Gone Wrong
       subtitle: War
