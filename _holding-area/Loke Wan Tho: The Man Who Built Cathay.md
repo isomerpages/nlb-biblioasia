@@ -85,6 +85,9 @@ Despite his busy work schedule, Loke returned to India frequently to photograph 
 
 Loke’s images of birds were the result of hours of patience waiting in dangerous and awkward positions, or from trekking through treacherous jungle and mountainous terrain. In his foreword to Loke’s book, A Company of Birds, MacDonald gave a firsthand account of Loke’s dedication, based on the fact that Loke’s 40-metre-high tower was built in MacDonald’s garden in Johor. 
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Lookout_Tower.jpg)
+<div style="background-color: white;"> Loke Wan Tho had this 130-foot (40-metre) wooden tower erected to photograph the white-bellied sea eagles and their nest. The birds had built the nest in a tree in Malcolm MacDonald’s garden in Johor. <i>Image reproduced from Loke Wan Tho, A Company of Birds (London: M. Joseph, 1957), 131. (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH]).</i></div>
+
 “At weekends, Loke would arrive [from Singapore] to take his pictures,” MacDonald wrote. “Hour after hour he sat aloft on his small platform. The tropical sun almost roasted him alive, his camera had to be worked from an angle which nearly sent him crashing headlong from his perch.” As MacDonald noted, a strong wind would make the tower sway “like the mast of a ship on a heaving ocean”. Once, Loke tried to ride out a storm on the platform but “had to descend hastily because he got giddy. It was an extraordinary demonstration of crazy heroism”.[^26]
 
 Loke’s efforts paid off with dramatic photographs of the white-bellied sea eagles. The images were later used as a template for the crest design of the Singapore Island Country Club where Loke had served as its first president.[^27] 
