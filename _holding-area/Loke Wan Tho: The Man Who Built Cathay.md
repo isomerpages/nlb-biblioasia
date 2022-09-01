@@ -142,7 +142,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^19]: *[The Loke Legacy: The Photography Collection of Dato’ Loke Wan Tho, Balai Seni Lukis Negara Malaysia, National Art Gallery Malaysia, 19 May 2005 to 7 March 2006](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur:  National Art Gallery, Malaysia, 2006), 19. (From National Library, Singapore, call no. RART 779.074595 LOK)
 
-[^20]:
+[^20]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 14–15; Allington Kennard, “[‘Shooting’ Birds with a Camera](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580210-1.2.108.1),” *Straits Times*, 10 February 1958, 8. (From NewspaperSG)
 
 [^21]:
 
