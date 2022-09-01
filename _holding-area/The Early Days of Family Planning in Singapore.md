@@ -154,7 +154,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^26]: Singapore Family Planning and Population Board, [*Annual Report 1972*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679) (Singapore: Singapore Family Planning and Population Board, 1973), 37. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
 
-[^27]: Kanagaratnam, “National Family Planning Program,” 11; Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 29; “Sing a Song or Two for Family Planning,” *Straits Times*, 4 February 1981, 7. (From NewspaperSG)
+[^27]: Kanagaratnam, “National Family Planning Program,” 11; Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 29; “[Sing a Song or Two for Family Planning](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810204-1.2.31),” *Straits Times*, 4 February 1981, 7. (From NewspaperSG)
 
 [^28]: Aline K. Wong and Janet W. Salaff, “Planning Births for a Better Life: Working-class Response to Population Disincentives,” in *Public Policy and Population Change in Singapore* (New York: Population Council, 1979), 121. (From National Library, Singapore, call no. RSING 301.3295957 PUB)
 
