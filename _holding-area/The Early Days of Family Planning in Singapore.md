@@ -106,7 +106,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^2]: [Mrs Hena Sinha](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ed1d3ed5-115d-11e3-83d5-0050568939ad), oral history interview by Daniel Chew, 2 November 1983, transcript and MP3 audio, Reel/Disc 11 of 13, 28:06, National Archives of Singapore (accession no. 000354), 158.
 
-[^3]: Saw Swee-Hock, *Population Policies and Programmes in Singapore* (Singapore: ISEAS Publishing, 2016), 6. (From National Library, Singapore, call no. RSING 363.96095957 SAW)
+[^3]: Saw Swee-Hock, [*Population Policies and Programmes in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717) (Singapore: ISEAS Publishing, 2016), 6. (From National Library, Singapore, call no. RSING 363.96095957 SAW)
 
 [^4]: Yap, “Singapore: Population Policies and Programs,” 203; Dorothy F. Atherton, “Birth Control Clinics,” *Singapore Free Press*, 28 October 1961, 6. (From NewspaperSG)
 
