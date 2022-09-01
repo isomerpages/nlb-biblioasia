@@ -94,3 +94,7 @@ Since then, Singapore has been trying to get the birth rate up. Baby bonuses, ta
 The falling birth rate continues to be a matter of concern, engendering issues of not just a rapidly ageing population but also issues of immigration in recent decades, which have created tensions in the social fabric. It remains to be seen if the pro-natalist policies can achieve anything approaching the level of success as the anti-natalist National Family Planning and Population Programme of the 1960s and 1970s.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author would like to thank Dr Jenny Soon, former head of the Training Unit at the Singapore Family Planning and Population Board, and Ms Jenny Heng, a former training education officer with the Training Unit, for sharing their thoughts on this topic.</div>
+
+<div style="background-color: white;">
+<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
+<b>Andrea Kee</b> is an Associate Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services.</div>
