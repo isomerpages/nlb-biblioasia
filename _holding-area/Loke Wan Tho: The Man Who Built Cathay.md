@@ -140,7 +140,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^18]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 6; “[King Honours 158](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19610111-1.2.58),” *Straits Budget*, 11 January 1961, 12. (From NewspaperSG)
 
-[^19]:
+[^19]: *[The Loke Legacy: The Photography Collection of Dato’ Loke Wan Tho, Balai Seni Lukis Negara Malaysia, National Art Gallery Malaysia, 19 May 2005 to 7 March 2006](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur:  National Art Gallery, Malaysia, 2006), 19. (From National Library, Singapore, call no. RART 779.074595 LOK)
 
 [^20]:
 
