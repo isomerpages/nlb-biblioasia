@@ -178,6 +178,6 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^37]: “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10; “[Tribute to Bird Lover Loke](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720205-1.2.123),” *Straits Times*, 5 February 1972, 19. (From NewspaperSG)
 
-[^38]:
+[^38]: Winnie Tan, “[This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/history-sennett-estate),” *BiblioAsia* 18, no. 2 (Jul–Sep 2022): 34–39.
 
 [^39]:
