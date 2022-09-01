@@ -120,7 +120,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^9]: [*Family Planning in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=354661) (Singapore: Printed by Govt. Printer, 1966), 2, 14. (From National Library, Singapore, call no. RSING 363.96095957 FAM) 
 
-[^10]: Lee Kuan Yew, “Text of Speech by the Prime Minister, Mr. Lee Kuan Yew, When He Officially Opened the New P.S.A. Blair Plain Housing Estate On 8th October”, speech, P.S.A. Blair Plain Housing Estate, 8 October 1968, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19681008)
+[^10]: Lee Kuan Yew, “[Text of Speech by the Prime Minister, Mr. Lee Kuan Yew, When He Officially Opened the New P.S.A. Blair Plain Housing Estate On 8th October](https://www.nas.gov.sg/archivesonline/speeches/record-details/7430329f-115d-11e3-83d5-0050568939ad)”, speech, P.S.A. Blair Plain Housing Estate, 8 October 1968, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19681008)
 
 [^11]: Dolly Irene Pakshong, *The Singapore National Family Planning and Population Programme, 1966–1982* (Singapore: Singapore Family Planning & Population Board, 1983), 2. (From National Library, Singapore, call no. RSING 304.66095957 PAK); Saw, *Population Policies and Programmes*, 12.
 
