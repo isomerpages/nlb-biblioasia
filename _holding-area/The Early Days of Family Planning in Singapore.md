@@ -98,3 +98,88 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 <div style="background-color: white;">
 <img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
 <b>Andrea Kee</b> is an Associate Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services.</div>
+
+#### **NOTES**
+
+[^1]: Yap Mui Teng, “Singapore: Population Policies and Programs,” in The Global Family Planning Revolution: Three Decades of Population Policies and Programs, ed. Warren C. Robinson and John A. Ross (Washington, DC: World Bank, 2007), 206. (From National Library, Singapore, call no. RSING 363.9091724 GLO)
+
+[^2]: Mrs Hena Sinha, oral history interview by Daniel Chew, 2 November 1983, transcript and MP3 audio, Reel/Disc 11 of 13, 28:06, National Archives of Singapore (accession no. 000354), 158.
+
+[^3]: Saw Swee-Hock, Population Policies and Programmes in Singapore (Singapore: ISEAS Publishing, 2016), 6. (From National Library, Singapore, call no. RSING 363.96095957 SAW)
+
+[^4]: Yap, “Singapore: Population Policies and Programs,” 203; Dorothy F. Atherton, “Birth Control Clinics,” Singapore Free Press, 28 October 1961, 6. (From NewspaperSG)
+
+[^5]: Sinha, oral history interview, 2 November 1983, 160–61; “‘Desperate’ Mothers Seek Aid,” Singapore Free Press, 3 May 1950, 7. (From NewspaperSG)
+
+[^6]: “The Tragic Cases of Singapore’s Unwanted Children,” Malaya Tribune, 21 June 1950, 6. (From NewspaperSG)
+
+[^7]: Yap, “Singapore: Population Policies and Programs,” 203; Saw, Population Policies and Programmes, 9.
+
+[^8]: Saw, Population Policies and Programmes, 9; Saw Swee-Hock, Changes in the Fertility Policy of Singapore (Singapore: Times Academic Press for the Institute of Policy Studies, 1990), 1–2. (From National Library, Singapore, call no. RSING 304.66095957 SAW)
+
+[^9]: Family Planning in Singapore (Singapore: Printed by Govt. Printer, 1966), 2, 14. (From National Library, Singapore, call no. RSING 363.96095957 FAM) 
+
+[^10]: Lee Kuan Yew, “Text of Speech by the Prime Minister, Mr. Lee Kuan Yew, When He Officially Opened the New P.S.A. Blair Plain Housing Estate On 8th October”, speech, P.S.A. Blair Plain Housing Estate, 8 October 1968, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19681008)
+
+[^11]: Dolly Irene Pakshong, The Singapore National Family Planning and Population Programme, 1966–1982 (Singapore: Singapore Family Planning & Population Board, 1983), 2. (From National Library, Singapore, call no. RSING 304.66095957 PAK); Saw, Population Policies and Programmes, 12.
+
+[^12]: Margaret Loh, The Singapore National Family Planning and Population Programme, 1966–1973 (Singapore: Singapore Family Planning & Population Board, 1974), 7. (From National Library, Singapore, call no. RCLOS 363.96095957 LOH); K. Kanagaratnam, “Singapore: The National Family Planning Program,” Studies in Family Planning 1, no. 28 (1968): 9. (From JSTOR via NLB’s eResources website)
+
+[^13]: Kanagaratnam, “National Family Planning Program,” 4, 7.
+
+[^14]: Mrs Uma Rajan, oral history interview by Patricia Lee, 11 December 1999, MP3 audio, Reel/Disc 2 of 4, 31:36, National Archives of Singapore, accession no. 001985)
+
+[^15]: Mary Hee Sook Yin, oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 8 of 11, 29:12, National Archives of Singapore, accession no. 002206), 135–36. 
+
+[^16]: Mary Hee Sook Yin, oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 9 of 11, 30:25, National Archives of Singapore, accession no. 002206), 141–42. 
+
+[^17]: Pakshong, Singapore National Family Planning and Population Programme, 2–3; Margaret Loh, The Two-child Family: A Social Norm for Singapore (Singapore: Singapore Family Planning and Population Board, 1982), 6. (From National Library, Singapore, call no. RSING 301.5 LOH)
+
+[^18]: Wan Fook Kee and Margaret Loh, Second Five-Year Family Planning Programme, 1971–1975 (Singapore: Singapore Family Planning and Population Board, 1982), 1–2 (From National Library, Singapore, call no. RSING 301.426095957 WAN); Singapore Family Planning and Population Board, Annual Report 1973 (Singapore: Singapore Family Planning and Population Board, 1973), 44. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
+
+[^19]: Saw, Population Policies and Programmes, 68; Mary Lee Frances Dowsett, “Sterilisation – Cheapest Contraceptive Method,” New Nation, 28 July 1972, 11. (From NewspaperSG)
+
+[^20]: Saw, Population Policies and Programmes, 65, 68.
+
+[^21]: “Tactless Nurses...,” New Nation, 13 September 1976, 3. (From NewspaperSG) 
+
+[^22]: Sumitera Mohd Letak, oral history interview by Patricia Lee, 29 July 1997, transcript and MP3 audio, Reel/Disc 7 of 9, 28:47. (From National Archives of Singapore, accession no. 001915), 93.
+
+[^23]: Wan Fook Kee and Margaret Loh, “Fertility Policies and the National Family Planning and Population Programme,” in Public Policy and Population Change in Singapore, ed. Peter S.J. Chen and James T. Fawcett (New York: Population Council, 1979), 102. (From National Library, Singapore, call no. RSING 301.3295957 PUB); Saw, Population Policies and Programmes, 44–45, 50–51.
+
+[^24]: Singapore Family Planning and Population Board, Annual Report 1973, 51; “Plan to Attract the Stay Away Women,” Straits Times, 5 July 1972, 11. (From NewspaperSG)
+
+[^25]: Jenny Heng, interview, 23 May 2022. 
+
+[^26]: Singapore Family Planning and Population Board, Annual Report 1972 (Singapore: Singapore Family Planning and Population Board, 1973), 37. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
+
+[^27]: Kanagaratnam, “National Family Planning Program,” 11; Saw, Population Policies and Programmes, 29; “Sing a Song or Two for Family Planning,” Straits Times, 4 February 1981, 7. (From NewspaperSG)
+
+[^28]: Aline K. Wong and Janet W. Salaff, “Planning Births for a Better Life: Working-class Response to Population Disincentives,” in Public Policy and Population Change in Singapore (New York: Population Council, 1979), 121. (From National Library, Singapore, call no. RSING 301.3295957 PUB)
+
+[^29]: Saw, Population Policies and Programmes, 82–83; Margaret Loh, Beyond Family Planning Measures in Singapore: A Country Paper Submitted for the IGCC Workshop on Reducing Fertility through Beyond Family Planning Measures (Singapore: Singapore Family Planning & Population Board, National Family Planning Centre, 1976), 10. (From National Library, Singapore, call no. RSING 301.426095957 LOH)
+
+[^30]: Loh, Beyond Family Planning Measures in Singapore, 24; Saw, Population Policies and Programmes, 84.
+
+[^31]: Wong and Salaff, “Planning Births for a Better Life,” 120–22.
+
+[^32]: Yap, “Population Policies and Programs,” 205; Pakshong, Singapore National Family Planning and Population Programme, 2, 37.
+
+[^33]: James T. Fawcett and Siew-Ean Khoo, “Singapore: Rapid Fertility Transition in a Compact Society,” Population and Development Review 6, no. 4 (1980): 558; “Singapore Fertility Attains Record Low; Antinatalist Policies are Questioned”, International Family Planning Perspectives 13, no. 1 (1987): 29. (From JSTOR via NLB’s eResources website) 
+
+[^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” Population Research and Policy Review 5, no. 1 (1986): 5. (From JSTOR via NLB’s eResources website)
+
+[^35]: “The Things PM Says,” Straits Times, 15 August 1983, 11. (From NewspaperSG)
+
+[^36]: Palen, “Fertility and Eugenics,” 7; “Graduate Mum Scheme To Go,” Straits Times, 26 March 1985, 1. (From NewspaperSG)
+
+[^37]: Saw, Population Policies and Programmes, 159, 210, 219.
+
+[^38]: Goh Chok Tong, “Speech by Mr Goh Chok Tong, First Deputy Prime Minister and Minister for Defence, at The Nanyang Technological Institute (NTI) Forum, on Monday, 4 August 1986 at 7.30 PM”, speech, Nanyang Technological Institute (NTI) Forum, 4 August 1986, transcript, Ministry of Communications and Information. (From National Archives of Singapore, document no. gct19860804s)
+
+[^39]: Lenore Lyons-Lee, “The ‘Graduate Woman’ Phenomenon: Changing Constructions of the Family in Singapore,” Sojourn: Journal of Social Issues in Southeast Asia 13, no. 2 (1998): 314. (From JSTOR via NLB’s eResources website)
+
+[^40]: Saw, Population Policies and Programmes, 157–207; Rei Kurohi, “MPs Raise Concerns over Changes to Law on Childcare Benefits and Baby Bonus Scheme,” Straits Times, 2 August 2021. (From Factiva via NLB’s eResources website)
+
+[^41]: Amelia Teng, “Budget Debate: Singapore’s Birth Numbers Last Year Similar to 2020, Higher than Expected,” Straits Times, 2 March 2022. (From Factiva via NLB’s eResources website)
+
