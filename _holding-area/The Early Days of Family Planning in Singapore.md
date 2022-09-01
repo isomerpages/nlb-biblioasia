@@ -132,7 +132,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^15]: [Mary Hee Sook Yin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/ff38d619-115f-11e3-83d5-0050568939ad-OHC002206_008/web/html5/index.html), oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 8 of 11, 29:12, National Archives of Singapore, accession no. 002206), 135–36. 
 
-[^16]: Mary Hee Sook Yin, oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 9 of 11, 30:25, National Archives of Singapore, accession no. 002206), 141–42. 
+[^16]: [Mary Hee Sook Yin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/520c876f-115e-11e3-83d5-0050568939ad-OHC002206_009/web/html5/index.html), oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 9 of 11, 30:25, National Archives of Singapore, accession no. 002206), 141–42. 
 
 [^17]: Pakshong, *Singapore National Family Planning and Population Programme*, 2–3; Margaret Loh, *The Two-child Family: A Social Norm for Singapore* (Singapore: Singapore Family Planning and Population Board, 1982), 6. (From National Library, Singapore, call no. RSING 301.5 LOH)
 
