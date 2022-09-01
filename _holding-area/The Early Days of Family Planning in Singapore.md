@@ -124,7 +124,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^11]: Dolly Irene Pakshong, [*The Singapore National Family Planning and Population Programme, 1966–1982*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7375362) (Singapore: Singapore Family Planning & Population Board, 1983), 2. (From National Library, Singapore, call no. RSING 304.66095957 PAK); Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 12.
 
-[^12]: Margaret Loh, *The Singapore National Family Planning and Population Programme, 1966–1973* (Singapore: Singapore Family Planning & Population Board, 1974), 7. (From National Library, Singapore, call no. RCLOS 363.96095957 LOH); K. Kanagaratnam, “Singapore: The National Family Planning Program,” *Studies in Family Planning* 1, no. 28 (1968): 9. (From JSTOR via NLB’s eResources website)
+[^12]: Margaret Loh, [*The Singapore National Family Planning and Population Programme, 1966–1973*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200078816) (Singapore: Singapore Family Planning & Population Board, 1974), 7. (From National Library, Singapore, call no. RCLOS 363.96095957 LOH); K. Kanagaratnam, “Singapore: The National Family Planning Program,” *Studies in Family Planning* 1, no. 28 (1968): 9. (From JSTOR via NLB’s eResources website)
 
 [^13]: Kanagaratnam, “National Family Planning Program,” 4, 7.
 
