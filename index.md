@@ -49,6 +49,14 @@ sections:
       image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
       alt: Johor Chicago World’s Fair
   - infopic:
+      title: Union Book Stands Tall at 70
+      subtitle: Places and Buildings
+      description: Located in Bras Basah Complex, the Chinese bookstore has played an
+        important role in the development of the Chinese literary scene.
+      button: " A Singaporean icon"
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
+      alt: Image alt text
+  - infopic:
       title: A Royal Wedding Gone Wrong
       subtitle: War
       description: Celebrations during a royal wedding in Tanjung Pinang in 1819 led
@@ -251,13 +259,5 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Union Book Stands Tall at 70
-      subtitle: Places and Buildings
-      description: Located in Bras Basah Complex, the Chinese bookstore has played an
-        important role in the development of the Chinese literary scene.
-      button: " A Singaporean icon"
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
       alt: Image alt text
 ---
