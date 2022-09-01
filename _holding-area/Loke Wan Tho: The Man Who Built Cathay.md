@@ -148,7 +148,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^22]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 15–16; Salim Ali, *The Fall of a Sparrow* (Delhi: Oxford University Press, 1985), 121–23, 127; Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 15.
 
-[^23]:
+[^23]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 16.
 
 [^24]:
 
