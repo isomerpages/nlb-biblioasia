@@ -129,6 +129,9 @@ Sadly, barely nine months later, the couple lost their lives when the plane they
 
 In 1965, Loke’s mother donated the Dr Carl Alexander Gibson-Hill Collection to the National Library, which augmented the newly opened Southeast Asia Room that would house resources relating to the region. Gibson-Hill was the last expatriate director of the National Museum and a close friend of Loke’s. Loke had received Gibson-Hill’s collection of rare books upon the latter’s death, just a year prior to his own passing. Considered at the time as “one of the most outstanding private collections of its kind in this part of the world”, the collection includes 25 of Loke’s personal titles on photography.[^36]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Minister.jpg)
+<div style="background-color: white;"> Minister for Culture S. Rajaratnam and Mrs Loke Yew, mother of the late Loke Wan Tho, touring the National Library during her donation of the Dr Carl Alexander Gibson-Hill Collection to the library, 1965. Accompanying them is Hedwig Anuar, director of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a $100,000 donation by Loke’s mother and his sisters as well as his collection of books on birds, photographs and tape recordings of bird songs.[^37]
 
 Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan Tho Gallery at the Selegie Arts Centre.[^38] The gallery was launched in 1996 thanks to his contributions to the Photographic Society of Singapore and to commemorate his breadth of work in the field.[^39] In death, as in life, Loke has continued to make his mark.
