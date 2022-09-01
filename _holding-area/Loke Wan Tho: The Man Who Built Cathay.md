@@ -180,4 +180,4 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^38]: Winnie Tan, “[This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/history-sennett-estate),” *BiblioAsia* 18, no. 2 (Jul–Sep 2022): 34–39.
 
-[^39]:
+[^39]: Claudette Peralta, “[Rochor Gets Its First Arts Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961116-1.2.122.7.2),” *Straits Times*, 16 November 1996, 23. (From NewspaperSG)
