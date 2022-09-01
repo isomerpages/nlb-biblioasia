@@ -134,6 +134,9 @@ In 1965, Loke’s mother donated the Dr Carl Alexander Gibson-Hill Collection to
 
 The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a $100,000 donation by Loke’s mother and his sisters as well as his collection of books on birds, photographs and tape recordings of bird songs.[^37]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/2_Gibson-Hill%20Collection%20label.png)
+<div style="background-color: white;"> In 1965, Mrs Loke Yew donated the Dr Carl Alexander Gibson-Hill Collection to the National Library of Singapore, “in fulfilment of the intention of her son”.</div>
+
 Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan Tho Gallery at the Selegie Arts Centre.[^38] The gallery was launched in 1996 thanks to his contributions to the Photographic Society of Singapore and to commemorate his breadth of work in the field.[^39] In death, as in life, Loke has continued to make his mark.
 
 <div style="background-color: white;">
