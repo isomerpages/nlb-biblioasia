@@ -55,7 +55,7 @@ sections:
         important role in the development of the Chinese literary scene.
       button: " A Singaporean icon"
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
-      alt: Image alt text
+      alt: Union Book
   - infopic:
       title: A Royal Wedding Gone Wrong
       subtitle: War
