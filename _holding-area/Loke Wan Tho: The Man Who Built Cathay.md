@@ -76,9 +76,23 @@ Unsurprisingly, Loke was a staunch supporter of various nature organisations suc
 
 Loke was also a connoisseur of the arts. He and his second wife Christina Lee shared a love for Chinese ceramics. In 1963, Loke donated 500 photographs of birds, people and places to Malaysia’s National Art Gallery. The collection included famous images by Armenian-Canadian photographer Yousuf Karsh and those by well-known American landscape photographer and environmentalist Ansel Adams.[^30]
 
+#### **An Untimely Demise**
 
+Running Cathay Organisation and its associated businesses proved challenging in the face of stiff competition from Shaw Brothers. The company also had to deal with the increasing political tumult in post-war Singapore as well as financial losses and bleeding business investments.[^31] By 1958, as the film business as a whole faced a decline, Loke’s foreign partners began withdrawing their financial support and he felt the impact. Loke disclosed that for some years in the mid-1950s, he did not draw any salary.[^32]
 
+In 1959, Loke consolidated his stable of companies – Associated Theatres, Loke Theatres and International Theatres – under Cathay Organisation, with plans to go public by the following year.[^33] Unfortunately the public listing was never realised in his lifetime. 
 
+Adding to Loke’s woes, his marriage to Christina Lee ended in an acrimonious divorce in 1962. He was, however, able to find love soon after and in September the following year, he married Mavis Chew.[^34]
+
+Sadly, barely nine months later, the couple lost their lives when the plane they were on crashed in Taichung, Taiwan, shortly after takeoff on 20 June 1964. All 53 people on board died. Loke and Chew were returning home from the 11th Asian Film Festival, where Loke had received Golden Accolades awards on behalf of three Cathay Organisation stars.[^35] He had just turned 49 a few days before.
+
+#### **A Lasting Legacy**
+
+In 1965, Loke’s mother donated the Dr Carl Alexander Gibson-Hill Collection to the National Library, which augmented the newly opened Southeast Asia Room that would house resources relating to the region. Gibson-Hill was the last expatriate director of the National Museum and a close friend of Loke’s. Loke had received Gibson-Hill’s collection of rare books upon the latter’s death, just a year prior to his own passing. Considered at the time as “one of the most outstanding private collections of its kind in this part of the world”, the collection includes 25 of Loke’s personal titles on photography.[^36]
+
+The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a $100,000 donation by Loke’s mother and his sisters as well as his collection of books on birds, photographs and tape recordings of bird songs.[^37]
+
+Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan Tho Gallery at the Selegie Arts Centre.[^38] The gallery was launched in 1996 thanks to his contributions to the Photographic Society of Singapore and to commemorate his breadth of work in the field.[^39] In death, as in life, Loke has continued to make his mark.
 
 (cont.)
 
