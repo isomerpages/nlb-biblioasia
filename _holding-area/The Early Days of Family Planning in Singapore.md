@@ -174,7 +174,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^36]: Palen, “Fertility and Eugenics,” 7; “[Graduate Mum Scheme To Go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850326-1.2.2),” *Straits Times*, 26 March 1985, 1. (From NewspaperSG)
 
-[^37]: Saw, *Population Policies and Programmes*, 159, 210, 219.
+[^37]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 159, 210, 219.
 
 [^38]: Goh Chok Tong, “Speech by Mr Goh Chok Tong, First Deputy Prime Minister and Minister for Defence, at The Nanyang Technological Institute (NTI) Forum, on Monday, 4 August 1986 at 7.30 PM”, speech, Nanyang Technological Institute (NTI) Forum, 4 August 1986, transcript, Ministry of Communications and Information. (From National Archives of Singapore, document no. gct19860804s)
 
