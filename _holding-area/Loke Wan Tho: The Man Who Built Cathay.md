@@ -46,6 +46,16 @@ Loke studied the art of filmmaking as much as the commercial aspects of running 
 
 Loke’s other appointments included the chairmanship of Malayan Banking, Singapore Telephone Board and Malayan Airways. He was also the director of companies such as Great Eastern Life Assurance, Malaya Tribune Press and Sime Darby. In the public sector, Loke served as the pro-chancellor of the University of Malaya and was the first chairman of the board of the National Library in Singapore. For his contributions to the early Malayan film industry, Loke was conferred a Dato by the Yang di-Pertuan Agong in 1961.[^18]
 
+#### **A Bird Lover**
+
+In addition to being a successful businessman, Loke was also a serious nature lover. His passion for ornithology went hand in hand with that of photography. Introduced to the camera at age 12, Loke clinched his first photographic award for a photograph of the Matterhorn just three years later. During a summer vacation while still a student in Cambridge, Loke had the opportunity to sharpen his photography skills under master photographer G.L. Hawkins.[^19]
+
+Much of Loke’s summer vacations were spent at Pembrokeshire where the Welsh coastland, enlivened by a great variety of coastal birds, ignited in the young Loke a fascination for birds. He later published a book titled A Company of Birds (1957), showcasing his photographs of birds in India, New Guinea and Malaya.[^20]
+
+During one of these jaunts to Pembrokeshire, Loke managed to capture a raven attacking a heron on film. As Singapore’s former Governor-General Malcolm MacDonald poetically noted in his foreword to Loke’s book, A Company of Birds: “[Loke] watched a Raven work off a fit of rage by chasing a Heron. When the pursuit ended the Heron was still free, but Loke was a captive.”[^21]
+
+
+
 
 (cont.)
 
