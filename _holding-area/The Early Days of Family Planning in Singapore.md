@@ -148,7 +148,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^23]: Wan Fook Kee and Margaret Loh, “Fertility Policies and the National Family Planning and Population Programme,” in [*Public Policy and Population Change in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1582091), ed. Peter S.J. Chen and James T. Fawcett (New York: Population Council, 1979), 102. (From National Library, Singapore, call no. RSING 301.3295957 PUB); Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 44–45, 50–51.
 
-[^24]: Singapore Family Planning and Population Board, *Annual Report 1973*, 51; “Plan to Attract the Stay Away Women,” *Straits Times*, 5 July 1972, 11. (From NewspaperSG)
+[^24]: Singapore Family Planning and Population Board, [*Annual Report 1973*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679), 51; “Plan to Attract the Stay Away Women,” *Straits Times*, 5 July 1972, 11. (From NewspaperSG)
 
 [^25]: Jenny Heng, interview, 23 May 2022. 
 
