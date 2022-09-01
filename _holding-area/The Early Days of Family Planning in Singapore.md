@@ -152,7 +152,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^25]: Jenny Heng, interview, 23 May 2022. 
 
-[^26]: Singapore Family Planning and Population Board, *Annual Report 1972* (Singapore: Singapore Family Planning and Population Board, 1973), 37. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
+[^26]: Singapore Family Planning and Population Board, [*Annual Report 1972*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679) (Singapore: Singapore Family Planning and Population Board, 1973), 37. (From National Library, Singapore, call no. RCLOS 301.426 SFPPBA)
 
 [^27]: Kanagaratnam, “National Family Planning Program,” 11; Saw, *Population Policies and Programmes*, 29; “Sing a Song or Two for Family Planning,” *Straits Times*, 4 February 1981, 7. (From NewspaperSG)
 
