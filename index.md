@@ -49,7 +49,7 @@ sections:
       image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
       alt: Johor Chicago World’s Fair
   - infopic:
-      title: Union Book Stands Tall at 70
+      title: Union Book Stands Tall At 70
       subtitle: Places and Buildings
       description: Located in Bras Basah Complex, the Chinese bookstore has played an
         important role in the development of the Chinese literary scene.
