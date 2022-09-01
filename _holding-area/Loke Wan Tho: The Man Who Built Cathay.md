@@ -122,7 +122,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^9]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 12.
 
-[^10]:
+[^10]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 14–15; “[The Cathay Opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19391004-1.2.79),” Morning Tribune, 4 October, 13. (From NewspaperSG)
 
 [^11]:
 
