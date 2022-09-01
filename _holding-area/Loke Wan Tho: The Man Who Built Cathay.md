@@ -136,7 +136,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^16]: “[Malayan Movie Millions for H.K.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560615-1.2.62),” *Straits Times*, 15 June 1956, 4. (From NewspaperSG);  Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 27. 
 
-[^17]:
+[^17]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044), 34.
 
 [^18]:
 
