@@ -156,7 +156,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^26]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 11.
 
-[^27]:
+[^27]: Lulin Reutens, *[The Eagle & the Lion: A History of the Singapore Island Country Club](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6536088)* (Singapore: The Club, 1993), 37. (From National Library, Singapore, call no. RSING 367.95957 REU)
 
 [^28]:
 
