@@ -22,7 +22,7 @@ He also donated generously to social causes such as schools and hospitals, and b
 	
 Afflicted with poor health, the young Loke was initially educated by a governess and only began attending school at age 12.[^4] After a short stint at Victoria Institution in Kuala Lumpur, a school co-founded by his father, his doctor advised him to move to a place with a better climate to improve his weak constitution. His entire family thus left for Europe in 1929 where Loke continued his education at prestigious schools, excelling in both sports and academics.[^5]
 	
-He enrolled at Chillon College in Montreux, Switzerland, a boarding school popular with wealthy British colonialists. Set in the scenic alps, the mountain air seemed to do Loke good. He became captain of the school soccer team and set the 1932 long-jump record in the Swiss county of Vaud – a record he held for over 30 years. His athleticism was noticed by the British Olympic sprinter, Harold Abrahams (the subject of the movie Chariots of Fire), who encouraged Loke to train professionally. Unfortunately, a broken ankle put paid to his athletic dreams.[^6]
+He enrolled at Chillon College in Montreux, Switzerland, a boarding school popular with wealthy British colonialists. Set in the scenic alps, the mountain air seemed to do Loke good. He became captain of the school soccer team and set the 1932 long-jump record in the Swiss county of Vaud – a record he held for over 30 years. His athleticism was noticed by the British Olympic sprinter, Harold Abrahams (the subject of the movie *Chariots of Fire*), who encouraged Loke to train professionally. Unfortunately, a broken ankle put paid to his athletic dreams.[^6]
 
 Although Loke knew that he would have to eventually run his father’s business, he studied English literature “for pleasure, if not for profit”.[^7] In 1936, Loke graduated from King’s College, Cambridge, with an honours degree in English literature and history.[^8] He subsequently furthered his studies at the London School of Economics, where he excelled academically and also as an athlete and leader, becoming the school’s badminton champion in 1937 and 1938.[^9]
 
@@ -32,13 +32,13 @@ Meanwhile, Loke’s mother, Mrs Loke Yew (née Lim Cheng-Kim), and a relative, K
 
 Loke returned to Singapore in 1940 and the next year, the main tower of the 83.51-metre-tall Cathay Building was completed comprising apartments that offered a panoramic view of Singapore and the sea.[^11] (Cathay Cinema and Cathay Restaurant were located in the front block).
 
-The Japanese invasion of Singapore in December 1941, however, forced a change of plans. In February 1942, Loke boarded the Nora Moller to escape the war. Unfortunately, the vessel was bombed off the Strait of Banka and Loke suffered severe burns to his body and was also temporarily blinded. Rescued by the Australian cruiser Sydney, Loke was taken to a hospital in Batavia (now Jakarta). After a few weeks of recuperation, Loke left for India against his doctor’s orders as he had predicted – rightly – that Java would soon suffer the same fate as Singapore. He then spent the war years in India.[^12]
+The Japanese invasion of Singapore in December 1941, however, forced a change of plans. In February 1942, Loke boarded the *Nora Moller* to escape the war. Unfortunately, the vessel was bombed off the Strait of Banka and Loke suffered severe burns to his body and was also temporarily blinded. Rescued by the Australian cruiser *Sydney*, Loke was taken to a hospital in Batavia (now Jakarta). After a few weeks of recuperation, Loke left for India against his doctor’s orders as he had predicted – rightly – that Java would soon suffer the same fate as Singapore. He then spent the war years in India.[^12]
 
 During the Japanese Occupation, Cathay Building was used as the local branch of the Japanese Broadcasting Department and the cinema, renamed Dai Toa Gekkizyo (Greater East Asian Theatre), screened Japanese propaganda films. After the Japanese surrender in 1945, Loke returned to Singapore and Cathay became the first cinema to start screening movies in post-war Singapore, reopening on 23 September 1945.[^13]
 
 In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
 
-In 1953, Loke established Cathay-Keris Studio with Ho Ah Loke, the managing director of Keris Film Productions. Competing against its main rival, Shaw Brothers, Cathay-Keris produced mostly Malay films, including Pontianak (1957), made in both Malay and Chinese. Cathay-Keris’s Hang Jebat (1961) is still considered one of the best screenplays of the legend of the titular Malay warrior.[^15]
+In 1953, Loke established Cathay-Keris Studio with Ho Ah Loke, the managing director of Keris Film Productions. Competing against its main rival, Shaw Brothers, Cathay-Keris produced mostly Malay films, including *Pontianak* (1957), made in both Malay and Chinese. Cathay-Keris’s *Hang Jebat* (1961) is still considered one of the best screenplays of the legend of the titular Malay warrior.[^15]
 
 To penetrate the Chinese film market, Loke acquired Yung Hwa Studio in Hong Kong in 1955 for film production and distribution, and subsequently formed the subsidiary, Motion Picture and General Investment Co Ltd (MP&GI), in Hong Kong to run Yung Hwa. MP&GI was a significant player in the Hong Kong market, and made about 250 films between 1956 and 1970.[^16]
 
@@ -50,15 +50,15 @@ Loke’s other appointments included the chairmanship of Malayan Banking, Singap
 
 In addition to being a successful businessman, Loke was also a serious nature lover. His passion for ornithology went hand in hand with that of photography. Introduced to the camera at age 12, Loke clinched his first photographic award for a photograph of the Matterhorn just three years later. During a summer vacation while still a student in Cambridge, Loke had the opportunity to sharpen his photography skills under master photographer G.L. Hawkins.[^19]
 
-Much of Loke’s summer vacations were spent at Pembrokeshire where the Welsh coastland, enlivened by a great variety of coastal birds, ignited in the young Loke a fascination for birds. He later published a book titled A Company of Birds (1957), showcasing his photographs of birds in India, New Guinea and Malaya.[^20]
+Much of Loke’s summer vacations were spent at Pembrokeshire where the Welsh coastland, enlivened by a great variety of coastal birds, ignited in the young Loke a fascination for birds. He later published a book titled *A Company of Birds* (1957), showcasing his photographs of birds in India, New Guinea and Malaya.[^20]
 
-During one of these jaunts to Pembrokeshire, Loke managed to capture a raven attacking a heron on film. As Singapore’s former Governor-General Malcolm MacDonald poetically noted in his foreword to Loke’s book, A Company of Birds: “[Loke] watched a Raven work off a fit of rage by chasing a Heron. When the pursuit ended the Heron was still free, but Loke was a captive.”[^21]
+During one of these jaunts to Pembrokeshire, Loke managed to capture a raven attacking a heron on film. As Singapore’s former Governor-General Malcolm MacDonald poetically noted in his foreword to Loke’s book, *A Company of Birds*: “[Loke] watched a Raven work off a fit of rage by chasing a Heron. When the pursuit ended the Heron was still free, but Loke was a captive.”[^21]
 
 Loke’s love for birds was enhanced during the years he spent in India while Singapore was under Japanese rule. There, Loke was introduced to the Indian ornithologist Salim Ali, a leading figure in the field. Almost 20 years his senior, Salim became Loke’s mentor, taking him on expeditions to survey birds in the rugged landscapes of Kutch (in Gujarat) and Kashmir. As Loke was unable to return home due to the war, he remained in India for a couple of years and the two men became firm friends.[^22]
 
 Conditions in the field were primitive and Loke confessed that outdoor living without access to a water-closet was not something he would “become wholly accustomed” to, but he recognised that “these petty discomforts were a cheap price to pay for the opportunity to study bird life at close quarters”.[^23]
 
-The experience not only taught Loke how to accurately observe birds in their natural habitats, but also to take concise notes and preserve specimens for museums. It was through this study of birds that Loke found his diverse passions  – for books, photography and outdoor adventures  – meld into a single obsession. In the mid-1950s, Loke funded two expeditions to Sikkim, led by Salim, resulting in the publication Birds of Sikkim (1962), authored by the latter.[^24]
+The experience not only taught Loke how to accurately observe birds in their natural habitats, but also to take concise notes and preserve specimens for museums. It was through this study of birds that Loke found his diverse passions  – for books, photography and outdoor adventures  – meld into a single obsession. In the mid-1950s, Loke funded two expeditions to Sikkim, led by Salim, resulting in the publication *Birds of Sikkim* (1962), authored by the latter.[^24]
 
 Despite his busy work schedule, Loke returned to India frequently to photograph birds with Salim, travelling to Kashmir, Sikkim and the Himalayas. These expeditions extended into New Guinea in 1952, where Loke became one of the early bird photographers on the island. He even ventured to far-flung locations such as Finland near the Arctic circle to pursue his passion.[^25]
 
@@ -94,15 +94,10 @@ The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a
 
 Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan Tho Gallery at the Selegie Arts Centre.[^38] The gallery was launched in 1996 thanks to his contributions to the Photographic Society of Singapore and to commemorate his breadth of work in the field.[^39] In death, as in life, Loke has continued to make his mark.
 
-(cont.)
-
-
 <div style="background-color: white;">
 <img src="/images/Vol%2018%20Issue%203/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/><b>Bonny Tan </b>is a former Senior Librarian at the National Library, Singapore. She currently lives in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i>.</div>
 
 #### **NOTES**
-
-[TEXT](URL)
 
 [^1]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 8. (From National Library, Singapore, call no. RSING 791.43095957 LIM); “[Death of Mr Loke Yew](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsecho19170224-1.2.32),” *Straits Echo*, 24 February 1917, 8. (From NewspaperSG)
 
@@ -110,74 +105,74 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^3]: “[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35),” *Straits Budget*, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL);
 
-[^4]: Ian Mok-Ai, “[Behind the Veil of Vast Wealth Lies an Artistic, Lonely Man with a Sense of Humour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601125-1.2.59),” Singapore Free Press, 25 November 1960, 6. (From NewspaperSG)
+[^4]: Ian Mok-Ai, “[Behind the Veil of Vast Wealth Lies an Artistic, Lonely Man with a Sense of Humour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601125-1.2.59),” *Singapore Free Press*, 25 November 1960, 6. (From NewspaperSG)
 
-[^5]: “Dr Loke’s Son Welcomed”; Lim, Cathay, 12.
+[^5]: “[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35)”; Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 12.
 
-[^6]:
+[^6]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 22.
 
-[^7]:
+[^7]: Loke Wan Tho, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)* (London: M. Joseph, 1957), 15. (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH])
 
-[^8]:
+[^8]: ”[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35).”
 
-[^9]:
+[^9]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 12.
 
-[^10]:
+[^10]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 14–15; “[The Cathay Opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19391004-1.2.79),” *Morning Tribune*, 4 October, 13. (From NewspaperSG)
 
-[^11]:
+[^11]: The land for Cathay Building was purchased by Loke Wan Tho’s mother. “[Movie Magic](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060331-1.2.75.10),” *Today*, 31 March 2006, 72; “[Cathay Flats Ready Early in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19410504-1.2.30),” *Sunday Tribune*, 4 May 1941, 2. (From NewsppaerSG); Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 15.
 
-[^12]:
+[^12]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 13–14.
 
-[^13]:
+[^13]: Douglas Amrine, *[Singapore at Random: Facts, Figures, Quotes and Anecdotes on Singapore](https://nlb.overdrive.com/media/712573)* (Singapore: Editions Didier Millet, 2011), 142. (From National Library OverDrive); Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 21.
 
-[^14]:
+[^14]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 22.
 
-[^15]:
+[^15]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 129–30; Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 32, 51; S. Bissme, “Movie Landmarks: The Unforgettable Movies,” *Sun*, 3 January 2001. (From Factiva via NLB’s eResources website)
 
-[^16]:
+[^16]: “[Malayan Movie Millions for H.K.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560615-1.2.62),” *Straits Times*, 15 June 1956, 4. (From NewspaperSG);  Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 27. 
 
-[^17]:
+[^17]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34.
 
-[^18]:
+[^18]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 6; “[King Honours 158](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19610111-1.2.58),” *Straits Budget*, 11 January 1961, 12. (From NewspaperSG)
 
-[^19]:
+[^19]: *[The Loke Legacy: The Photography Collection of Dato’ Loke Wan Tho, Balai Seni Lukis Negara Malaysia, National Art Gallery Malaysia, 19 May 2005 to 7 March 2006](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur:  National Art Gallery, Malaysia, 2006), 19. (From National Library, Singapore, call no. RART 779.074595 LOK)
 
-[^20]:
+[^20]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 14–15; Allington Kennard, “[‘Shooting’ Birds with a Camera](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580210-1.2.108.1),” *Straits Times*, 10 February 1958, 8. (From NewspaperSG)
 
-[^21]:
+[^21]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 11, 15.
 
-[^22]:
+[^22]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 15–16; Salim Ali, *The Fall of a Sparrow* (Delhi: Oxford University Press, 1985), 121–23, 127; Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 15.
 
-[^23]:
+[^23]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 16.
 
-[^24]:
+[^24]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 15–16; Salim Ali, *The Fall of A Sparrow*, 127.
 
-[^25]:
+[^25]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 22; Pelham Groom, “[Off to the Arctic with a Mosquito Net](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580519-1.2.28),” *Singapore Free Press*, 19 May 1958; “[Land of the Midnight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580820-1.2.48),” *Singapore Free Press*, 20 August 1958, 8. (From NewspaperSG)
 
-[^26]:
+[^26]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 11.
 
-[^27]:
+[^27]: Lulin Reutens, *[The Eagle & the Lion: A History of the Singapore Island Country Club](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6536088)* (Singapore: The Club, 1993), 37. (From National Library, Singapore, call no. RSING 367.95957 REU)
 
-[^28]:
+[^28]: Lim Boon Tiong, “Dato Loke Wan Tho – An Appreciation,” *The Photographic Society of Singapore Monthly Bulletin* 10 (1961); “[Loke Made an Associate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19540118-1.2.40),” *Singapore Standard*, 18 January 1954, 3; “[Dato Loke Awarded Fellowship](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611003-1.2.6),” *Straits Times*, 3 October 1961, 1. (From NewspaperSG)
 
-[^29]:
+[^29]: Robert C. Murphy, et al., “Obituaries: Loke Wan Tho,” *The Auk* 82, no. 2 (April 1965): 322. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^30]:
+[^30]: “[Loke Photo Gift for National Gallery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630807-1.2.53),” *Straits Times*, 7 August 1963, 6. (From NewspaperSG); *The Loke Legacy*, 85, 195.
 
-[^31]:
+[^31]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 27, 29.
 
-[^32]:
+[^32]: Low Yit Leng, “Picture Playboy,” in *Singapore Tatler* 13, no. 146 (November 1994): 106.
 
-[^33]:
+[^33]: Rahita Elias, “[Cathay’s Dream Comes True](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19990421-1.2.33.6.3),” *Business Times*, 21 April 1999, 16. (From NewspaperSG);  Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 52–53.
 
-[^34]:
+[^34]: “[Dato Loke Wan Tho Divorce Case Begins](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19620213-1.2.15),” *Singapore Free Press*, 13 February 1962, 1; “[Dato Loke Weds Quietly in London](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630930-1.2.35),” *Straits Times*, 30 September 1963, 5. (From NewspaperSG)
 
-[^35]:
+[^35]: “[Dato Loke and Wife Die in Air Disaster](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640621-1.2.14),” *Straits Times*, 21 June 1964, 1; “[Awards for Cathay Trio](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640620-1.2.81),” *Straits Times*, 20 June 1964, 7. (From NewspaperSG)
 
-[^36]:
+[^36]: “[Books Gift by Mrs Loke Yew Fulfils Wish of Her Late Son](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650611-1.2.44),” *Straits Times*, 11 June 1965, 6. (From NewspaperSG). For more information about the Gibson-Hill Collection, see Bonny Tan, “A Malayan Treasure: The Gibson-Hill Collection,” *BiblioAsia* 4, no. 3 (Oct 2008): 30–31, https://biblioasia.nlb.gov.sg/vol-4/issue-3/oct-2008/.
 
-[^37]:
+[^37]: “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10; “[Tribute to Bird Lover Loke](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720205-1.2.123),” *Straits Times*, 5 February 1972, 19. (From NewspaperSG)
 
-[^38]:
+[^38]: Winnie Tan, “[This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/history-sennett-estate),” *BiblioAsia* 18, no. 2 (Jul–Sep 2022): 34–39.
 
-[^39]:
+[^39]: Claudette Peralta, “[Rochor Gets Its First Arts Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961116-1.2.122.7.2),” *Straits Times*, 16 November 1996, 23. (From NewspaperSG)
