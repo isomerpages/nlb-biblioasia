@@ -176,7 +176,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^37]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 159, 210, 219.
 
-[^38]: Goh Chok Tong, “Speech by Mr Goh Chok Tong, First Deputy Prime Minister and Minister for Defence, at The Nanyang Technological Institute (NTI) Forum, on Monday, 4 August 1986 at 7.30 PM”, speech, Nanyang Technological Institute (NTI) Forum, 4 August 1986, transcript, Ministry of Communications and Information. (From National Archives of Singapore, document no. gct19860804s)
+[^38]: Goh Chok Tong, “[Speech by Mr Goh Chok Tong, First Deputy Prime Minister and Minister for Defence, at The Nanyang Technological Institute (NTI) Forum, on Monday, 4 August 1986 at 7.30 PM](https://www.nas.gov.sg/archivesonline/speeches/record-details/714c9a82-115d-11e3-83d5-0050568939ad)”, speech, Nanyang Technological Institute (NTI) Forum, 4 August 1986, transcript, Ministry of Communications and Information. (From National Archives of Singapore, document no. gct19860804s)
 
 [^39]: Lenore Lyons-Lee, “The ‘Graduate Woman’ Phenomenon: Changing Constructions of the Family in Singapore,” *Sojourn: Journal of Social Issues in Southeast Asia* 13, no. 2 (1998): 314. (From JSTOR via NLB’s eResources website)
 
