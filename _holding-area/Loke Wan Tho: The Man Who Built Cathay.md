@@ -168,7 +168,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^32]: Low Yit Leng, “Picture Playboy,” in *Singapore Tatler* 13, no. 146 (November 1994): 106.
 
-[^33]:
+[^33]: Rahita Elias, “[Cathay’s Dream Comes True](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19990421-1.2.33.6.3),” *Business Times*, 21 April 1999, 16. (From NewspaperSG);  Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 52–53.
 
 [^34]:
 
