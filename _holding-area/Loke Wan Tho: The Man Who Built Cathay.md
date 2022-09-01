@@ -130,7 +130,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^13]: Douglas Amrine, *[Singapore at Random: Facts, Figures, Quotes and Anecdotes on Singapore](https://nlb.overdrive.com/media/712573)* (Singapore: Editions Didier Millet, 2011), 142. (From National Library OverDrive); Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 21.
 
-[^14]:
+[^14]: 
 
 [^15]:
 
