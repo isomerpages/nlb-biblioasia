@@ -122,6 +122,9 @@ Sadly, barely nine months later, the couple lost their lives when the plane they
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/ThreeStars.jpg)
 <div style="background-color: white;"> Actresses Ummi Kalthoum and Rose Yatimah and director Roomai Noor at Loke Wan Tho’s funeral. They were supposed to have been on board the same flight as Loke when it crashed. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Cortege.jpg)
+<div style="background-color: white;"> Thousands of people lining the streets of Kuala Lumpur as Loke Wan Tho’s cortege passes on its way to burial. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+
 #### **A Lasting Legacy**
 
 In 1965, Loke’s mother donated the Dr Carl Alexander Gibson-Hill Collection to the National Library, which augmented the newly opened Southeast Asia Room that would house resources relating to the region. Gibson-Hill was the last expatriate director of the National Museum and a close friend of Loke’s. Loke had received Gibson-Hill’s collection of rare books upon the latter’s death, just a year prior to his own passing. Considered at the time as “one of the most outstanding private collections of its kind in this part of the world”, the collection includes 25 of Loke’s personal titles on photography.[^36]
