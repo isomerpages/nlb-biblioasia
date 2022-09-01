@@ -62,6 +62,9 @@ Although birth rates decreased from 29.5 to 22.1 births per thousand from 1966 t
 
 The National Family Planning and Population Programme’s second five-year plan, spanning 1971 to 1976, now targeted newlyweds and married women from low socioeconomic backgrounds, as well as promoted sterilisation as the best family planning method for families with at least two children.[^18]
 
+![](/images/Vol%2018%20Issue%203/Family%20Planning/National_Day_float.png)
+<div style="background-color: white;"> A National Day float encouraging the people to have only two children by the Singapore Family Planning and Population Board, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 While sterilisation was legalised in 1970, the procedure was liberalised with the Voluntary Sterilisation Act of 1974. Applicants could now opt for sterilisation at an affordable price of $5 if they had at least two living children instead of three.[^19] They also no longer had to be interviewed by the Eugenics Board – a five-member team constituted under the Voluntary Sterilisation Act to authorise sterilisation treatments – before undergoing the procedure, and the waiting time was shortened.[^20]
 
 The push to promote sterilisation faced some backlash. A number of family planning nurses were “accused of using tactless tactics” when persuading eligible mothers to undergo the procedure. As one mother told the *New Nation*: “It can be very annoying and embarrassing – when one has not fully recuperated – to have a nurse who keeps on harping on the advantages of sterilisation.”[^21]
