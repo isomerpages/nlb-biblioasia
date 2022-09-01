@@ -93,6 +93,9 @@ In 1975, less than a decade since the SFPPB was formed, the fertility rate dropp
 
 In the early 1980s, there was an attempt to reverse this trend of falling fertility but in a very targeted way by focusing on particular groups of women. In his 1983 National Day Rally speech, Prime Minister Lee Kuan Yew highlighted what he saw as the problem of a declining quality of Singapore’s future labour force since well-educated women were having fewer children than their less-educated counterparts.[^34]
 
+![](/images/Vol%2018%20Issue%203/Family%20Planning/straitstimes_19870302_0001%20(cropped).png)
+<div style="background-color: white;"> In 1987, the government introduced a new population policy encouraging Singaporeans to have three or more children if they can afford it. A slew of incentives were also unveiled. <i>Image reproduced from Alan John, “Have 3, Or More If You Can Afford It,” Straits Times, 2 March 1987, 1. (From NewspaperSG).</i></div>
+
 “[W]e shouldn’t get our women into jobs where they cannot, at the same time, be mothers...,” he noted. “You just can’t be doing a full-time heavy job like that of a doctor or engineer and run a home and bring up children. It is tough… women, 40 years and over… unlikely to marry and have children.”[^35]
 
 This was the prelude to a significant change in family and population planning in Singapore: the introduction of pro-natalist policies specifically targeted at well-educated women only. The controversial Graduates Mothers Scheme was introduced in 1984, which included giving priority to the children of university-educated mothers who had three or more children during the primary school registration exercise. These mothers would also enjoy more tax deductions. However the scheme was rescinded a year later as many women expressed unhappiness over the discriminatory policies.[^36]
