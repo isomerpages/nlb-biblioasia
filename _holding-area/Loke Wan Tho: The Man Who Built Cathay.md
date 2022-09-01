@@ -50,7 +50,8 @@ During the Japanese Occupation, Cathay Building was used as the local branch of 
 
 In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
 
-<div style="background-color: white;"> Loke Wan Tho established Caravan Films in December 1947 to bring film entertainment to estates and villages in Singapore and Malaya by using vans carrying projectors, sound equipment and screens. Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</div>
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/CaravanFilms.jpg)
+<div style="background-color: white;"> Loke Wan Tho established Caravan Films in December 1947 to bring film entertainment to estates and villages in Singapore and Malaya by using vans carrying projectors, sound equipment and screens. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
 In 1953, Loke established Cathay-Keris Studio with Ho Ah Loke, the managing director of Keris Film Productions. Competing against its main rival, Shaw Brothers, Cathay-Keris produced mostly Malay films, including *Pontianak* (1957), made in both Malay and Chinese. Cathay-Keris’s *Hang Jebat* (1961) is still considered one of the best screenplays of the legend of the titular Malay warrior.[^15]
 
