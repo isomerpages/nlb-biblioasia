@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Example Title.md
       - "Loke Wan Tho: The Man Who Built Cathay.md"
       - Test page.md
