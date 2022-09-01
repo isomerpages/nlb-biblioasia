@@ -66,11 +66,16 @@ Loke’s images of birds were the result of hours of patience waiting in dangero
 
 “At weekends, Loke would arrive [from Singapore] to take his pictures,” MacDonald wrote. “Hour after hour he sat aloft on his small platform. The tropical sun almost roasted him alive, his camera had to be worked from an angle which nearly sent him crashing headlong from his perch.” As MacDonald noted, a strong wind would make the tower sway “like the mast of a ship on a heaving ocean”. Once, Loke tried to ride out a storm on the platform but “had to descend hastily because he got giddy. It was an extraordinary demonstration of crazy heroism”.[^26]
 
-Loke’s efforts paid off with dramatic photographs of the white-bellied sea eagles. The images were later used as a template for the crest design of the Singapore Island Country Club where Loke had served as its first president.27 
+Loke’s efforts paid off with dramatic photographs of the white-bellied sea eagles. The images were later used as a template for the crest design of the Singapore Island Country Club where Loke had served as its first president.[^27] 
 
 Some of Loke’s photographs of Malayan birds were also made into Christmas cards and postcards. Indeed, the image on the back of the Singapore one-dollar note in the bird series is believed to have been based on Loke’s 1952 photographs of black-naped terns on Squance Rock (also known as Loyang Rock) off Changi. 
 
-In 1954, Loke was made an Associate of the Royal Photographic Society in 1954. He was conferred the Fellowship of the Photographic Society of America in 1961, on top of other awards in the US and the UK.28
+In 1954, Loke was made an Associate of the Royal Photographic Society in 1954. He was conferred the Fellowship of the Photographic Society of America in 1961, on top of other awards in the US and the UK.[^28]
+
+Unsurprisingly, Loke was a staunch supporter of various nature organisations such as the International Council for Bird Preservation, and the International Union for the Conservation of Nature and Natural Resources. He also contributed actively to the Malayan Nature Society, becoming an honorary life member in 1961 and serving as its vice-president in 1962.[^29]
+
+Loke was also a connoisseur of the arts. He and his second wife Christina Lee shared a love for Chinese ceramics. In 1963, Loke donated 500 photographs of birds, people and places to Malaysia’s National Art Gallery. The collection included famous images by Armenian-Canadian photographer Yousuf Karsh and those by well-known American landscape photographer and environmentalist Ansel Adams.[^30]
+
 
 
 
