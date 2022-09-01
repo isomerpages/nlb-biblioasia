@@ -162,7 +162,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^30]: Loh, [*Beyond Family Planning Measures in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081935), 24; Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 84.
 
-[^31]: Wong and Salaff, “Planning Births for a Better Life,” 120–22.
+[^31]: Wong and Salaff, “[Planning Births for a Better Life](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1582091),” 120–22.
 
 [^32]: Yap, “Population Policies and Programs,” 205; Pakshong, *Singapore National Family Planning and Population Programme*, 2, 37.
 
