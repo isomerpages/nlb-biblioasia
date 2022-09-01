@@ -1,11 +1,15 @@
 ---
 title: My Grandfather Was a Rōmusha
-permalink: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/
-description: During World War II, forced civilian labourers known as Rōmushas
+permalink: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
+description: During World War II, forced civilian labourers known as rōmushas
   were used by the Imperial Japanese Army for hard labour. They helped to build
   the Death Railway.
 image: /images/Vol 18 Issue 3/Romusha/3_Bapak_50s copy.jpg
 ---
+
+
+
+
 
 #### During World War II, forced civilian labourers known as *rōmusha* were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 By Shirlene Noordin
