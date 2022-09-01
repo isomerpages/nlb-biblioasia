@@ -45,10 +45,10 @@ During the Japanese Occupation, Cathay Building was used as the local branch of 
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LokeOffice.jpg)
 <div style="background-color: white;"> Loke Wan Tho in his office on the fourth floor of Cathay Building, 1946. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
+In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
+
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/CathayBuilding.jpg)
 <div style="background-color: white;"> The Cathay Building, 1947. <i>Courtesy of National Archives of Singapore.</i></div>
-
-In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
 
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/CaravanFilms.jpg)
 <div style="background-color: white;"> Loke Wan Tho established Caravan Films in December 1947 to bring film entertainment to estates and villages in Singapore and Malaya by using vans carrying projectors, sound equipment and screens. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
