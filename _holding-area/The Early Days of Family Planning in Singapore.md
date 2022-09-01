@@ -170,7 +170,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^34]: J. John Palen, “Fertility and Eugenics: Singapore’s Population Policies,” *Population Research and Policy Review* 5, no. 1 (1986): 5. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website)
 
-[^35]: “The Things PM Says,” *Straits Times*, 15 August 1983, 11. (From NewspaperSG)
+[^35]: “[The Things PM Says](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.32.2),” *Straits Times*, 15 August 1983, 11. (From NewspaperSG)
 
 [^36]: Palen, “Fertility and Eugenics,” 7; “Graduate Mum Scheme To Go,” *Straits Times*, 26 March 1985, 1. (From NewspaperSG)
 
