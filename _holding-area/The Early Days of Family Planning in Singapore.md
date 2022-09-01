@@ -122,7 +122,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^10]: Lee Kuan Yew, “[Text of Speech by the Prime Minister, Mr. Lee Kuan Yew, When He Officially Opened the New P.S.A. Blair Plain Housing Estate On 8th October](https://www.nas.gov.sg/archivesonline/speeches/record-details/7430329f-115d-11e3-83d5-0050568939ad)”, speech, P.S.A. Blair Plain Housing Estate, 8 October 1968, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19681008)
 
-[^11]: Dolly Irene Pakshong, [*The Singapore National Family Planning and Population Programme, 1966–1982*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7375362) (Singapore: Singapore Family Planning & Population Board, 1983), 2. (From National Library, Singapore, call no. RSING 304.66095957 PAK); Saw, *Population Policies and Programmes*, 12.
+[^11]: Dolly Irene Pakshong, [*The Singapore National Family Planning and Population Programme, 1966–1982*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7375362) (Singapore: Singapore Family Planning & Population Board, 1983), 2. (From National Library, Singapore, call no. RSING 304.66095957 PAK); Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 12.
 
 [^12]: Margaret Loh, *The Singapore National Family Planning and Population Programme, 1966–1973* (Singapore: Singapore Family Planning & Population Board, 1974), 7. (From National Library, Singapore, call no. RCLOS 363.96095957 LOH); K. Kanagaratnam, “Singapore: The National Family Planning Program,” *Studies in Family Planning* 1, no. 28 (1968): 9. (From JSTOR via NLB’s eResources website)
 
