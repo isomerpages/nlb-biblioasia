@@ -166,7 +166,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^31]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 27, 29.
 
-[^32]:
+[^32]: Low Yit Leng, “Picture Playboy,” in *Singapore Tatler* 13, no. 146 (November 1994): 106.
 
 [^33]:
 
