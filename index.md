@@ -246,4 +246,18 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Union Book Stands Tall at 70
+      subtitle: Places and Buildings
+      description: Located in Bras Basah Complex, the Chinese bookstore has played an
+        important role in the development of the Chinese literary scene.
+      button: " A Singaporean icon"
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
+      alt: Image alt text
 ---
