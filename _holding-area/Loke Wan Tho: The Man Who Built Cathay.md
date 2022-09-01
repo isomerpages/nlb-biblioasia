@@ -158,7 +158,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^27]: Lulin Reutens, *[The Eagle & the Lion: A History of the Singapore Island Country Club](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6536088)* (Singapore: The Club, 1993), 37. (From National Library, Singapore, call no. RSING 367.95957 REU)
 
-[^28]:
+[^28]: Lim Boon Tiong, “Dato Loke Wan Tho – An Appreciation,” *The Photographic Society of Singapore Monthly Bulletin* 10 (1961); “[Loke Made an Associate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19540118-1.2.40),” *Singapore Standard*, 18 January 1954, 3; “[Dato Loke Awarded Fellowship](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611003-1.2.6),” *Straits Times*, 3 October 1961, 1. (From NewspaperSG)
 
 [^29]:
 
