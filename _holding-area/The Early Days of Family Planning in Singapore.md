@@ -182,4 +182,4 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^40]: Saw, [*Population Policies and Programmes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202594717), 157–207; Rei Kurohi, “MPs Raise Concerns over Changes to Law on Childcare Benefits and Baby Bonus Scheme,” *Straits Times*, 2 August 2021. (From Factiva via NLB’s eResources website)
 
-[^41]: Amelia Teng, “Budget Debate: Singapore’s Birth Numbers Last Year Similar to 2020, Higher than Expected,” *Straits Times*, 2 March 2022. (From Factiva via NLB’s eResources website)
+[^41]: Amelia Teng, “Budget Debate: Singapore’s Birth Numbers Last Year Similar to 2020, Higher than Expected,” *Straits Times*, 2 March 2022. (From Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website)
