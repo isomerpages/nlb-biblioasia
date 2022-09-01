@@ -42,6 +42,11 @@ In 1953, Loke established Cathay-Keris Studio with Ho Ah Loke, the managing dire
 
 To penetrate the Chinese film market, Loke acquired Yung Hwa Studio in Hong Kong in 1955 for film production and distribution, and subsequently formed the subsidiary, Motion Picture and General Investment Co Ltd (MP&GI), in Hong Kong to run Yung Hwa. MP&GI was a significant player in the Hong Kong market, and made about 250 films between 1956 and 1970.[^16]
 
+Loke studied the art of filmmaking as much as the commercial aspects of running a film business. He travelled to India to better understand the craft and invited Hollywood stars to coach his studio’s actors.[^17] The efforts bore fruit in 1957 when MP&GI became the first Hong Kong studio to garner a prize at the Fourth Asian Film Festival in Tokyo. 
+
+Loke’s other appointments included the chairmanship of Malayan Banking, Singapore Telephone Board and Malayan Airways. He was also the director of companies such as Great Eastern Life Assurance, Malaya Tribune Press and Sime Darby. In the public sector, Loke served as the pro-chancellor of the University of Malaya and was the first chairman of the board of the National Library in Singapore. For his contributions to the early Malayan film industry, Loke was conferred a Dato by the Yang di-Pertuan Agong in 1961.[^18]
+
+
 (cont.)
 
 
