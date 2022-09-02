@@ -55,3 +55,47 @@ Dictionaries were not the only focus. The book, Singing and Acting for Young Chi
 China also produced literature in support of the Malayan Communist Party (MCP) during the Malayan Emergency period. The educational book in English, simply titled Malaya, sought to get readers to sympathise with the MCP and to support their efforts. The book noted that the party had to go underground in 1948 because “of the persecution of the British imperialists. Following this it initiated and led armed resistance against the British in the struggle for national liberation… the MCP has been carrying on its struggle against enslavement and colonial rule”.16
 
 A significant quantity of communist materials published in China made its way into Chinese bookshops in Singapore before the British colonial government began to impose strict controls starting from September 1950. It was not completely successful though, and a spokesman of the Chinese Secretariat in Singapore commented in 1951 that “now and then a Communist book might slip through our net”.17
+
+#### **British Anti-communist Efforts**
+
+“We should adopt a new line in our foreign policy publicity designed to oppose the inroads of Communism by taking the offensive against it… and to give a lead to our friends abroad and help them in the anti-Communist struggle… to provide material for our anti-Communist publicity through our Missions and Information Services abroad. The fullest co-operation of the BBC Overseas Services would be desirable.”18
+
+– British Foreign Secretary
+Ernest Bevin, 1948 
+
+In response to the communist propaganda in Singapore, the British initiated a series of counter-measures. Besides banning the imports of communist films and literature, the government established the Anti-Communist Bureau to “stimulate active democratic sentiment and to endeavour to win over Communists and fellow travellers”.19 This bureau oversaw and implemented activities to counter the flow of communist propaganda.
+
+In late 1949, some 200 pamphlets were distributed across Singapore to warn people against communism and make them enthusiastic about democracy.20 An anti-communist pamphlet, The young man who couldn’t take any more, was produced in English and Chinese, and thousands were printed with the intention of being distributed in schools by 1950. This pamphlet provided “a plain account of what happens to students in Communist countries, who wish to preserve their freedom to think”.21 It was also designed to portray communism in a negative light.
+
+Radio broadcasts by the British Broadcasting Corporation (BBC) were another tool used by the colonial government. BBC emerged from World War II with a greatly expanded audience and a reputation for objectivity and truth-telling. That reputation made its news credible and gave Britain a major propaganda advantage.22 The BBC’s credibility was crucial in serving Britain’s anti-communist publicity objectives.
+
+The BBC accepted an invitation from the United Kingdom government to establish its radio broadcasting service in Singapore and it ended up taking over the British Far Eastern Broadcasting Service. The BBC began its radio operations in Singapore in 1948 with its office and studio on Caldecott Hill. Singapore residents could tune in to local radio programmes directed by BBC personnel as well as news from London. In addition to English, the BBC radio station in Singapore also aired daily radio programmes in Mandarin and Cantonese.23 This was part of the BBC’s strategy to reach out to the predominantly Chinese population in Singapore. 
+
+The BBC radio station in Singapore was also used by Britain as a regional radio base to broadcast anti-communist information across Asia. As the Straits Times noted in 1949: “It was the intention to build a new station which was to become the Voice of Britain in Asia, radiating programmes to the entire Far East- from Japan to India… Obviously the campaign against Communism in Asia must be fought in Asia… If the radio weapon is to be of real use to Britain, and to Malaya, then the main broadcasts must have their origin in Singapore…”24
+
+#### **The United StatesInformation Service**
+
+“We must make ourselves known as we really are – not as Communist propaganda pictures us. … We must make ourselves heard round the world in a great campaign of truth.”25
+
+– United States President
+Harry Truman, 1950
+
+Just as the British had the BBC, the US relied on the United States Information Service (USIS). This was a state agency that served the political interests of the American government, which included assisting in “the offensive campaign of truth against Communist propaganda”.26 To this end, the USIS launched a series of overseas information programmes under its cultural diplomacy initiative.27
+
+The Singapore branch of the USIS Library was officially opened on 2 May 1950 in Raffles Place. Its collection – consisting primarily of American books, newspapers and magazines – exposed the people in Singapore to American values and worldviews.28
+
+Books such as Animal Farm by George Orwell and Rice-Sprout Song by Eileen Chang made their appearances on the library’s bookshelves.29 These two titles were known for their anti-communist themes. The USIS Library’s collection was curated in a way that would sell American ideals to the people here, which was essential in undermining the appeal of communism. 
+
+The USIS Library welcomed the public to browse or borrow its reading materials regardless of membership. There was a constant stream of patrons visiting the library, which welcomed its 10,000th member within a few months of its opening.30
+
+The USIS also funded the production of anti-communist films in Singapore such as Kampong Sentosa. The agency provided covert financial support for the production of this film, which was helmed by Hollywood director B. Reeves Eason.31
+
+Besides Kampong Sentosa, the USIS also developed its own documentaries for public viewing at the USIS Library. The documentaries portrayed the domestic and international policies of the US in a favourable light. The collection of the library also included anti-communist documentaries such as In Defense of Peace and the Hungarian Story. 
+
+In Defense of Peace documented measures by the Soviet Union to obstruct the efforts of the United Nations to maintain world peace in the aftermath of World War II, while Hungarian Story showcased Hungarian citizens staging a revolt against the oppressive Hungarian communist regime.32 The distribution of these USIS films to Singapore was intended to persuade the people to be wary of communism and to cultivate the perception that communism was a threat to peace and stability, both domestically and internationally. 
+
+#### **Immense and Intense**
+
+The Cold War period was a major period of geopolitical tension that played out in various spheres: military, economic, political and culture. Given that both the US and the Soviet Union were superpowers, it is fortunate that they never escalated into a nuclear war, though the world certainly came close with events such as the Cuban Missile Crisis.33
+
+While hard power – measured by the size of armies and nuclear arsenals –  was important, soft power was just as crucial. The propaganda battle was an integral component of the Cold War as both blocs vied for influence. They leveraged print, radio and films to promote their own point of view and undermine those of their ideological opponents. This battle played out throughout the world, and Singapore was very much part of the battleground.
