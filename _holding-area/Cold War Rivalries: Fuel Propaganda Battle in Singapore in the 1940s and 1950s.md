@@ -19,7 +19,7 @@ This, however, was no ordinary film. Declassified archival materials reveal that
 
 In the post-World War II era, the world was riven by great superpower rivalry, with the US and its allies on one side, and the Soviet Union and its allies on the other. Apart from the nuclear standoff, the conflict was also an ideological one with both sides attempting to win the battle for hearts and minds.
 
-#### **Soviet Cultural Offensive **
+#### **Soviet Cultural Offensive**
 
 “Soviet social system has proved to be a more viable and stable than the non-Soviet social system, that the Soviet social system is a better form of organisation of society than any non-Soviet social system.”4
 
