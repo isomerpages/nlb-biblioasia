@@ -120,7 +120,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^7]: “Director of Malayan Security Service to the Colonial Secretary, Singapore”; “Russian Films Popular,” *Straits Times*, 12 November 1947, 3. (From NewspaperSG); “Soviet Film Propaganda,” *Malayan Security Service Political Intelligence Journal* no. 19 (15 November 1947): 1, in the National Archives (United Kingdom), *Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives*. (From National Archives of Singapore, accession no. FCO 141/14370) 
 
-[^8]: Greg Barnhisel, “Cold Warriors of the Book: American Book Programs in the 1950s.” Book History 13 (2010): 192. (From JSTOR via NLB’s eResources website); “Police Seize Red Press,” Straits Budget, 25 June 1958, 11. (From NewspaperSG)
+[^8]: Greg Barnhisel, “Cold Warriors of the Book: American Book Programs in the 1950s.” *Book History* 13 (2010): 192. (From JSTOR via NLB’s eResources website); “Police Seize Red Press,” *Straits Budget*, 25 June 1958, 11. (From NewspaperSG)
 
 [^9]: “‘Come Back To Moscow’ Plea to S’pore White Russians,” Singapore Standard, 8 August 1956, 2. (From NewspaperSG)
 
