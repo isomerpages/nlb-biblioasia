@@ -39,6 +39,7 @@ The Soviet authorities also sent propaganda items to Russians living in Singapor
 #### **China’s Revolutionary Literature**
 
 “Proletarian literature and art are part of the whole proletarian revolutionary cause…”10
+
 – Chinese Communist Party Chairman Mao Zedong, 1972
 
 After the establishment of the People’s Republic of China in 1949, Chairman Mao Zedong pledged to support global communist revolutionary movements. It would take a while but the effort would eventually take off. In 1959, a sessional paper from the Legislative Assembly of Singapore noted that “certain publishing houses – the majority of which are in mainland China – are consistently exporting to Singapore books, both ancient and modern, literary and scientific, which are tainted with Communist ideology”.11
