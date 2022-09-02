@@ -13,7 +13,7 @@ By Chow Chia Yung
 <div style="background-color: white;"> Christina Lee taking a stroll on Sarong Island, 1965. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
 </div>
 
-On 10 May 1953, the Straits Times ran a story about a film titled Kampong Sentosa,1 which had premiered in Singapore at the Rex Theatre. In Malay with an all-local cast, the film tells the story of a village in Malaya which was being terrorised by bandits in the surrounding jungle during the Malayan Emergency (1948–60). The story has “love interest and enough suspense to draw Malay-speaking audiences”.2
+On 10 May 1953, the Straits Times ran a story about a film titled *Kampong Sentosa*,1 which had premiered in Singapore at the Rex Theatre. In Malay with an all-local cast, the film tells the story of a village in Malaya which was being terrorised by bandits in the surrounding jungle during the Malayan Emergency (1948–60). The story has “love interest and enough suspense to draw Malay-speaking audiences”.2
 
 This, however, was no ordinary film. Declassified archival materials reveal that Kampong Sentosa was actually secretly funded by the State Department in Washington.3 This was part of a global Cold War effort led by the United States (US) to roll back against the spread of communism.
 
