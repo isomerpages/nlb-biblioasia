@@ -88,7 +88,7 @@ Books such as *Animal Farm* by George Orwell and *Rice-Sprout Song* by Eileen Ch
 
 The USIS Library welcomed the public to browse or borrow its reading materials regardless of membership. There was a constant stream of patrons visiting the library, which welcomed its 10,000th member within a few months of its opening.30
 
-The USIS also funded the production of anti-communist films in Singapore such as Kampong Sentosa. The agency provided covert financial support for the production of this film, which was helmed by Hollywood director B. Reeves Eason.31
+The USIS also funded the production of anti-communist films in Singapore such as *Kampong Sentosa*. The agency provided covert financial support for the production of this film, which was helmed by Hollywood director B. Reeves Eason.31
 
 Besides Kampong Sentosa, the USIS also developed its own documentaries for public viewing at the USIS Library. The documentaries portrayed the domestic and international policies of the US in a favourable light. The collection of the library also included anti-communist documentaries such as In Defense of Peace and the Hungarian Story. 
 
