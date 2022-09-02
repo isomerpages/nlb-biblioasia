@@ -19,7 +19,7 @@ This, however, was no ordinary film. Declassified archival materials reveal that
 
 In the post-World War II era, the world was riven by great superpower rivalry, with the US and its allies on one side, and the Soviet Union and its allies on the other. Apart from the nuclear standoff, the conflict was also an ideological one with both sides attempting to win the battle for hearts and minds.
 
-Soviet Cultural Offensive 
+#### **Soviet Cultural Offensive **
 
 “Soviet social system has proved to be a more viable and stable than the non-Soviet social system, that the Soviet social system is a better form of organisation of society than any non-Soviet social system.”4
 
@@ -36,7 +36,7 @@ In addition to films, the Soviet Union also relied on print materials. According
 
 The Soviet authorities also sent propaganda items to Russians living in Singapore to convince them to return to their home country. In 1956, the Singapore Standard noted that Singapore was being flooded by “Russian booklets, weeklies and pamphlets depicting a ‘new way of life’ in the Soviet Union”.9
 
-China’s Revolutionary Literature
+#### **China’s Revolutionary Literature**
 
 “Proletarian literature and art are part of the whole proletarian revolutionary cause…”10
 – Chinese Communist Party Chairman Mao Zedong, 1972
@@ -53,4 +53,4 @@ Dictionaries were not the only focus. The book, Singing and Acting for Young Chi
 
 China also produced literature in support of the Malayan Communist Party (MCP) during the Malayan Emergency period. The educational book in English, simply titled Malaya, sought to get readers to sympathise with the MCP and to support their efforts. The book noted that the party had to go underground in 1948 because “of the persecution of the British imperialists. Following this it initiated and led armed resistance against the British in the struggle for national liberation… the MCP has been carrying on its struggle against enslavement and colonial rule”.16
 
-A significant quantity of communist materials published in China made its way into Chinese bookshops in Singapore before the British colonial government began to impose strict controls starting from September 1950. It was not completely successful though, and a spokesman of the Chinese Secretariat in Singapore commented in 1951 that “now and then a Communist book might slip through our net”.17  
+A significant quantity of communist materials published in China made its way into Chinese bookshops in Singapore before the British colonial government began to impose strict controls starting from September 1950. It was not completely successful though, and a spokesman of the Chinese Secretariat in Singapore commented in 1951 that “now and then a Communist book might slip through our net”.17
