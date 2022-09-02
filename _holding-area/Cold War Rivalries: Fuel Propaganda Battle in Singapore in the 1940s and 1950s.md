@@ -90,7 +90,7 @@ The USIS Library welcomed the public to browse or borrow its reading materials r
 
 The USIS also funded the production of anti-communist films in Singapore such as *Kampong Sentosa*. The agency provided covert financial support for the production of this film, which was helmed by Hollywood director B. Reeves Eason.31
 
-Besides Kampong Sentosa, the USIS also developed its own documentaries for public viewing at the USIS Library. The documentaries portrayed the domestic and international policies of the US in a favourable light. The collection of the library also included anti-communist documentaries such as In Defense of Peace and the Hungarian Story. 
+Besides *Kampong Sentosa*, the USIS also developed its own documentaries for public viewing at the USIS Library. The documentaries portrayed the domestic and international policies of the US in a favourable light. The collection of the library also included anti-communist documentaries such as In Defense of Peace and the Hungarian Story. 
 
 In Defense of Peace documented measures by the Soviet Union to obstruct the efforts of the United Nations to maintain world peace in the aftermath of World War II, while Hungarian Story showcased Hungarian citizens staging a revolt against the oppressive Hungarian communist regime.32 The distribution of these USIS films to Singapore was intended to persuade the people to be wary of communism and to cultivate the perception that communism was a threat to peace and stability, both domestically and internationally. 
 
