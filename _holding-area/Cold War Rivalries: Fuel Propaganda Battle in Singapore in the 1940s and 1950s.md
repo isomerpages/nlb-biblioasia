@@ -106,68 +106,68 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 #### **NOTES**
 
-Kampong Sentosa can be viewed at the National Archives and Records Administration in the United States. See https://catalog.archives.gov/id/52534.  
+[^1]: Kampong Sentosa can be viewed at the National Archives and Records Administration in the United States. See https://catalog.archives.gov/id/52534.  
 
-Nan Hall, “What Lies Behind Mystery of ‘Kampong Sentosa’?” Straits Times, 10 May 1953, 11; “Emergency on the Screen,” Straits Times, 8 May 1953, 9. (From NewspaperSG)
+[^2]: Nan Hall, “What Lies Behind Mystery of ‘Kampong Sentosa’?” Straits Times, 10 May 1953, 11; “Emergency on the Screen,” Straits Times, 8 May 1953, 9. (From NewspaperSG)
 
-Hee Wai-Siam , Remapping the Sinophone: The Cultural Production of Chinese-language Cinema in Singapore and Malaya Before and During the Cold War (Hong Kong: Hong Kong University Press, 2019), 116. (From National Library, Singapore, call no. RSING 791.4308995105951 XU)
+[^3]: Hee Wai-Siam , Remapping the Sinophone: The Cultural Production of Chinese-language Cinema in Singapore and Malaya Before and During the Cold War (Hong Kong: Hong Kong University Press, 2019), 116. (From National Library, Singapore, call no. RSING 791.4308995105951 XU)
 
-Joseph Stalin, “Speech Delivered by Stalin at a Meeting of Voters of the Stalin Electoral District, Moscow,” 9 February 1946, History and Public Policy Program Digital Archive, Gospolitizdat, Moscow, https://digitalarchive.wilsoncenter.org/document/116179.
+[^4]: Joseph Stalin, “Speech Delivered by Stalin at a Meeting of Voters of the Stalin Electoral District, Moscow,” 9 February 1946, History and Public Policy Program Digital Archive, Gospolitizdat, Moscow, https://digitalarchive.wilsoncenter.org/document/116179.
 
-“Soviet Propaganda (Films),” Director of Malayan Security Service to the Colonial Secretary, Singapore, in the National Archives (United Kingdom), Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives, 1 October 1947, 1. (From National Archives of Singapore, accession no. FCO 141/14370); “Russian Films In Singapore,” Morning Tribune, 1 November 1947, 15. (From NewspaperSG)
+[^5]: “Soviet Propaganda (Films),” Director of Malayan Security Service to the Colonial Secretary, Singapore, in the National Archives (United Kingdom), Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives, 1 October 1947, 1. (From National Archives of Singapore, accession no. FCO 141/14370); “Russian Films In Singapore,” Morning Tribune, 1 November 1947, 15. (From NewspaperSG)
 
-“Russian Films In Singapore.”
+[^6]: “Russian Films In Singapore.”
 
-“Director of Malayan Security Service to the Colonial Secretary, Singapore”; “Russian Films Popular,” Straits Times, 12 November 1947, 3. (From NewspaperSG); “Soviet Film Propaganda,” Malayan Security Service Political Intelligence Journal no. 19 (15 November 1947): 1, in the National Archives (United Kingdom), Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives. (From National Archives of Singapore, accession no. FCO 141/14370) 
+[^7]: “Director of Malayan Security Service to the Colonial Secretary, Singapore”; “Russian Films Popular,” Straits Times, 12 November 1947, 3. (From NewspaperSG); “Soviet Film Propaganda,” Malayan Security Service Political Intelligence Journal no. 19 (15 November 1947): 1, in the National Archives (United Kingdom), Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives. (From National Archives of Singapore, accession no. FCO 141/14370) 
 
-Greg Barnhisel, “Cold Warriors of the Book: American Book Programs in the 1950s.” Book History 13 (2010): 192. (From JSTOR via NLB’s eResources website); “Police Seize Red Press,” Straits Budget, 25 June 1958, 11. (From NewspaperSG)
+[^8]: Greg Barnhisel, “Cold Warriors of the Book: American Book Programs in the 1950s.” Book History 13 (2010): 192. (From JSTOR via NLB’s eResources website); “Police Seize Red Press,” Straits Budget, 25 June 1958, 11. (From NewspaperSG)
 
-“‘Come Back To Moscow’ Plea to S’pore White Russians,” Singapore Standard, 8 August 1956, 2. (From NewspaperSG)
+[^9]: “‘Come Back To Moscow’ Plea to S’pore White Russians,” Singapore Standard, 8 August 1956, 2. (From NewspaperSG)
 
-John Burns, “Latest Chinese Art Is Following Mao’s Line,” New York Times, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
+[^10]: John Burns, “Latest Chinese Art Is Following Mao’s Line,” New York Times, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
 
-“Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives, 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
+[^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives, 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
 
-“Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6.
+[^12]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6.
 
-“Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 5–6.
+[^13]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 5–6.
 
-“Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 5–6.
+[^14]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 5–6.
 
-“Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 8.
+[^15]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 8.
 
-“Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6–7.
+[^16]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6–7.
 
-“Fewer Red China Book Available,” Straits Times, 3 October 1951, 5. (From NewspaperSG) 
+[^17]: “Fewer Red China Book Available,” Straits Times, 3 October 1951, 5. (From NewspaperSG) 
 
-“Future Foreign Publicity Policy”, 4 January 1948, CP (48) 8, CAB 129/23, Cabinet Papers, Public Record Office in London, in the National Archives (United Kingdom), http://filestore.nationalarchives.gov.uk/pdfs/large/cab-129-23.pdf.
+[^18]: “Future Foreign Publicity Policy”, 4 January 1948, CP (48) 8, CAB 129/23, Cabinet Papers, Public Record Office in London, in the National Archives (United Kingdom), http://filestore.nationalarchives.gov.uk/pdfs/large/cab-129-23.pdf.
 
-A.W. Frisby, “Objectives and Methods of the Anti-Communist Bureau Set Up By the Director of Education at the Request of the Colonial Secretary,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 13 October 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
+[^19]: A.W. Frisby, “Objectives and Methods of the Anti-Communist Bureau Set Up By the Director of Education at the Request of the Colonial Secretary,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 13 October 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
-“Report On Counter Communist Education Bureau to 31 December 1949,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 11 December 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
+[^20]: “Report On Counter Communist Education Bureau to 31 December 1949,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 11 December 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
-“Anti-Communist Bureau,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 31 January 1950, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
+[^21]: “Anti-Communist Bureau,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 31 January 1950, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
-John Jenks, British Propaganda and News Media in the Cold War (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s eResources website) 
+[^22]: John Jenks, British Propaganda and News Media in the Cold War (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s eResources website) 
 
-“BBC to Control S’pore Station,” Straits Budget, 12 June 1947, 16; “Two Radio Stations,” Straits Times, 29 August 1949, 4; “BBC Having a Contest This Month,” Singapore Free Press, 5 December 1950, 4. (From NewspaperSG)
+[^23]: “BBC to Control S’pore Station,” Straits Budget, 12 June 1947, 16; “Two Radio Stations,” Straits Times, 29 August 1949, 4; “BBC Having a Contest This Month,” Singapore Free Press, 5 December 1950, 4. (From NewspaperSG)
 
-“Two Radio Stations.”
+[^24]: “Two Radio Stations.”
 
-Nicholas J. Cull, The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy, 1945–1989 (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
+[^25]: Nicholas J. Cull, The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy, 1945–1989 (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
 
-“Letter Sent from Office of the Commissioner General for the United Kingdom in Southeast Asia to J.C. Barry, ESQ., who is Deputy Secretary for Defense and Internal Security in Colonial Secretary’s Office in Singapore,” in the National Archives (United Kingdom), Singapore. United States Information Services (USIS) activities in Singapore and the Federation of Malaya, Proposal for a field study in Malaya by the Bureau of Applied Social Research of Columbia University. Secret – Migrated Archives, 8 August 1951. (From National Archives of Singapore, accession no. FCO 141/14533)
+[^26]: “Letter Sent from Office of the Commissioner General for the United Kingdom in Southeast Asia to J.C. Barry, ESQ., who is Deputy Secretary for Defense and Internal Security in Colonial Secretary’s Office in Singapore,” in the National Archives (United Kingdom), Singapore. United States Information Services (USIS) activities in Singapore and the Federation of Malaya, Proposal for a field study in Malaya by the Bureau of Applied Social Research of Columbia University. Secret – Migrated Archives, 8 August 1951. (From National Archives of Singapore, accession no. FCO 141/14533)
 
-Pamela Spence Richards, “Cold War Librarianship: Soviet and American Library Activities in Support of National Foreign Policy, 1946–1991.” Libraries & Culture 36, no. 1 (Winter 2001): 193. (From JSTOR via NLB’s eResources website)
+[^27]: Pamela Spence Richards, “Cold War Librarianship: Soviet and American Library Activities in Support of National Foreign Policy, 1946–1991.” Libraries & Culture 36, no. 1 (Winter 2001): 193. (From JSTOR via NLB’s eResources website)
 
-“For Those Who Love Reading,” Indian Daily Mail, 24 April 1950, 4; “Singapore’s First Free Library,” Malaya Tribune, 29 April 1950, 4. (From NewspaperSG)
+[^28]: “For Those Who Love Reading,” Indian Daily Mail, 24 April 1950, 4; “Singapore’s First Free Library,” Malaya Tribune, 29 April 1950, 4. (From NewspaperSG)
 
-“Books In Malay Now at USIS Library,” Singapore Free Press, 11 August 1960, 15. (From NewspaperSG)
+[^29]: “Books In Malay Now at USIS Library,” Singapore Free Press, 11 August 1960, 15. (From NewspaperSG)
 
-“USIS Library’s 10,000th Member,” Indian Daily Mail, 19 July 1950, 4. (From NewspaperSG)
+[^30]: “USIS Library’s 10,000th Member,” Indian Daily Mail, 19 July 1950, 4. (From NewspaperSG)
 
-Hee, Remapping the Sinophone, 114, 116.   
+[^31]: Hee, Remapping the Sinophone, 114, 116.   
 
-United States Information Service (Singapore). Audio-visual Section, Catalog of 16mm Motion Picture Films (Singapore: U.S. Information Service, Audio-Visual Section, [n.d.]), 47. (From National Library, Singapore, call no. RCLOS 016.79143 UNI)
+[^32]: United States Information Service (Singapore). Audio-visual Section, Catalog of 16mm Motion Picture Films (Singapore: U.S. Information Service, Audio-Visual Section, [n.d.]), 47. (From National Library, Singapore, call no. RCLOS 016.79143 UNI)
 
-The US and the Soviet Union engaged in a tense, 13-day political and military standoff in October 1962 over the installation of nuclear-armed Soviet missiles on Cuba, just 90 miles (145 km) from American shores. Disaster was averted when the Soviet Union offered to remove the missiles provided that the US promised not to invade Cuba.
+[^33]: The US and the Soviet Union engaged in a tense, 13-day political and military standoff in October 1962 over the installation of nuclear-armed Soviet missiles on Cuba, just 90 miles (145 km) from American shores. Disaster was averted when the Soviet Union offered to remove the missiles provided that the US promised not to invade Cuba.
