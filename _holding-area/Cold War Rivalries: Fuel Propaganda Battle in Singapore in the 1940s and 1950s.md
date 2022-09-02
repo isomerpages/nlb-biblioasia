@@ -124,7 +124,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^9]: “‘Come Back To Moscow’ Plea to S’pore White Russians,” *Singapore Standard*, 8 August 1956, 2. (From NewspaperSG)
 
-[^10]: John Burns, “Latest Chinese Art Is Following Mao’s Line,” New York Times, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
+[^10]: John Burns, “Latest Chinese Art Is Following Mao’s Line,” *New York Times*, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
 
 [^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives, 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
 
