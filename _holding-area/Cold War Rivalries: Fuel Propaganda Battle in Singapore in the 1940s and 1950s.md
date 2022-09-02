@@ -126,7 +126,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^10]: John Burns, “Latest Chinese Art Is Following Mao’s Line,” *New York Times*, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
 
-[^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives, 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
+[^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), *Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives*, 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
 
 [^12]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6.
 
@@ -138,11 +138,11 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^16]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6–7.
 
-[^17]: “Fewer Red China Book Available,” Straits Times, 3 October 1951, 5. (From NewspaperSG) 
+[^17]: “Fewer Red China Book Available,” *Straits Times*, 3 October 1951, 5. (From NewspaperSG) 
 
 [^18]: “Future Foreign Publicity Policy”, 4 January 1948, CP (48) 8, CAB 129/23, Cabinet Papers, Public Record Office in London, in the National Archives (United Kingdom), http://filestore.nationalarchives.gov.uk/pdfs/large/cab-129-23.pdf.
 
-[^19]: A.W. Frisby, “Objectives and Methods of the Anti-Communist Bureau Set Up By the Director of Education at the Request of the Colonial Secretary,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 13 October 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
+[^19]: A.W. Frisby, “Objectives and Methods of the Anti-Communist Bureau Set Up By the Director of Education at the Request of the Colonial Secretary,” in the National Archives (United Kingdom), *Singapore. Counter-Communist Education. Secret – Migrated Archives*, 13 October 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
 [^20]: “Report On Counter Communist Education Bureau to 31 December 1949,” in the National Archives (United Kingdom), Singapore. Counter-Communist Education. Secret – Migrated Archives, 11 December 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
