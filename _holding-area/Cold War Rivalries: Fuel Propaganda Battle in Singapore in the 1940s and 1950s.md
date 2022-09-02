@@ -84,7 +84,7 @@ Just as the British had the BBC, the US relied on the United States Information 
 
 The Singapore branch of the USIS Library was officially opened on 2 May 1950 in Raffles Place. Its collection – consisting primarily of American books, newspapers and magazines – exposed the people in Singapore to American values and worldviews.28
 
-Books such as Animal Farm by George Orwell and Rice-Sprout Song by Eileen Chang made their appearances on the library’s bookshelves.29 These two titles were known for their anti-communist themes. The USIS Library’s collection was curated in a way that would sell American ideals to the people here, which was essential in undermining the appeal of communism. 
+Books such as *Animal Farm* by George Orwell and *Rice-Sprout Song* by Eileen Chang made their appearances on the library’s bookshelves.29 These two titles were known for their anti-communist themes. The USIS Library’s collection was curated in a way that would sell American ideals to the people here, which was essential in undermining the appeal of communism. 
 
 The USIS Library welcomed the public to browse or borrow its reading materials regardless of membership. There was a constant stream of patrons visiting the library, which welcomed its 10,000th member within a few months of its opening.30
 
