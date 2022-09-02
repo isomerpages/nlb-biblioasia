@@ -44,7 +44,7 @@ The Soviet authorities also sent propaganda items to Russians living in Singapor
 
 After the establishment of the People’s Republic of China in 1949, Chairman Mao Zedong pledged to support global communist revolutionary movements. It would take a while but the effort would eventually take off. In 1959, a sessional paper from the Legislative Assembly of Singapore noted that “certain publishing houses – the majority of which are in mainland China – are consistently exporting to Singapore books, both ancient and modern, literary and scientific, which are tainted with Communist ideology”.11
 
-One example cited was a Chinese-English dictionary, 通俗小字典 (Popular Small Dictionary), published by the Tung Fang Book Co. in Shanghai. In it, the entry “敬爱”, which means “respect and love”, has this example given: “Everyone respects and loves Chairman Mao.”12
+One example cited was a Chinese-English dictionary, 通俗小字典 (*Popular Small Dictionary*), published by the Tung Fang Book Co. in Shanghai. In it, the entry “敬爱”, which means “respect and love”, has this example given: “Everyone respects and loves Chairman Mao.”12
 
 The dictionary’s definition for the Chinese Communist Party (“共產黨”) was the “[V]anguard of the Proletarian rebellion. It is the political party of the workers class”. It went on to define communism as the “realisation of a Communist society wherein there is no fleecing of some persons by some other persons. In this kind of society, everybody does the job he can do best, get what he needs, and leads the most reasonable and most happy life”.13
 
