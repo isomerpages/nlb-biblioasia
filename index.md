@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay dated with our latest stories
-          url: ""
+          url: https://form.gov.sg/#!/616799db4d9b61001398f79b
   - infopic:
       title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
