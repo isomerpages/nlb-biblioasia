@@ -26,7 +26,7 @@ In the post-World War II era, the world was riven by great superpower rivalry, w
 – Soviet Union Premier
 Joseph Stalin, 1946
 
-Film is a very powerful medium, and some of the earliest efforts by the Soviet Union relied on the power of film. In 1947, Director of Malayan Security Service John D. Dalley informed the Colonial Secretary in Singapore “that there is a campaign in Singapore to spread Soviet propaganda through films and periodicals”. In that year, two Soviet documentaries, May 1st Celebrations and Festival of Youth, were screened at the Jubilee Theatre in Singapore.5
+Film is a very powerful medium, and some of the earliest efforts by the Soviet Union relied on the power of film. In 1947, Director of Malayan Security Service John D. Dalley informed the Colonial Secretary in Singapore “that there is a campaign in Singapore to spread Soviet propaganda through films and periodicals”. In that year, two Soviet documentaries, *May 1st Celebrations* and *Festival of Youth*, were screened at the Jubilee Theatre in Singapore.5
 
 The Morning Tribune reported that the documentary on the Soviet Union’s 1946 May Day celebrations in Moscow had highlights that included a gigantic military parade which was reviewed by Soviet Premier Joseph Stalin. The other film, Festival of Youth, focused on the “vitality and talent of the youths of Soviet Russia who participated in an all-day sports parade…” Both films were in technicolour, noted the newspaper. It added that they “compare very favourably with those from Hollywood in technique and production” and “should serve as an ‘eye-opener’ for those of us who know so little, except from book and news extracts, about a country which is branded as ‘Red’”.6
 
