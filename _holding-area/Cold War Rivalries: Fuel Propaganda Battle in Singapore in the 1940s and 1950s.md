@@ -166,8 +166,8 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^30]: “USIS Library’s 10,000th Member,” *Indian Daily Mail*, 19 July 1950, 4. (From NewspaperSG)
 
-[^31]: Hee, Remapping the Sinophone, 114, 116.   
+[^31]: Hee, *Remapping the Sinophone*, 114, 116.   
 
-[^32]: United States Information Service (Singapore). Audio-visual Section, Catalog of 16mm Motion Picture Films (Singapore: U.S. Information Service, Audio-Visual Section, [n.d.]), 47. (From National Library, Singapore, call no. RCLOS 016.79143 UNI)
+[^32]: United States Information Service (Singapore). Audio-visual Section, *Catalog of 16mm Motion Picture Films* (Singapore: U.S. Information Service, Audio-Visual Section, [n.d.]), 47. (From National Library, Singapore, call no. RCLOS 016.79143 UNI)
 
 [^33]: The US and the Soviet Union engaged in a tense, 13-day political and military standoff in October 1962 over the installation of nuclear-armed Soviet missiles on Cuba, just 90 miles (145 km) from American shores. Disaster was averted when the Soviet Union offered to remove the missiles provided that the US promised not to invade Cuba.
