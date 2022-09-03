@@ -32,12 +32,12 @@ The Malay movies then were generally based on folk tales and legends (sg cinema 
 
 For his contributions to the film industry in Malaya, Loke Wan Tho was awarded the dato title in 1962. 
 
+**image dato**
 <div style="background-color: white;">Dressed in traditional Malay costume baju melayu, Loke Wan Tho (second from left) was conferred the title of dato by the Sultan of Kelantan on 1 August 1962. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 28.</i></div>
 
 Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including four Pontianak movies. 
 
-**image dato**
-<div style="background-color: white;">Dressed in traditional Malay costume baju melayu, Loke Wan Tho (second from left) was conferred the title of dato by the Sultan of Kelantan on 1 August 1962. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 28.</i></div>
+
 
 
 ##### REFERENCES
