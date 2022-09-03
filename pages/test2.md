@@ -28,8 +28,11 @@ To learn about moviemaking, Loke visited film studios in India in 1957 and invit
 
 The Malay movies then were generally based on folk tales and legends (sg cinema p36). One of Cathay-Keris’s box office blockbuster is Hang Jebat, directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than villain.[^5] 
 **image hagn jebat**
+<div style="background-color: white;">Newspaper advertisement. The film tells the legend of Hang Tuah and Hang Jebat. Hang Tuah is exiled by the Sultan, and Hang Jebat seeks revenge for him. <i> Image reproduced from Page 4 Advertisements Column 2, Straits Times, 21 March 1961, 4.</i></div>
 
 For his contributions to the film industry in Malaya, Loke Wan Tho was awarded the dato title in 1962. 
+
+<div style="background-color: white;">Dressed in traditional Malay costume baju melayu, Loke Wan Tho (second from left) was conferred the title of dato by the Sultan of Kelantan on 1 August 1962. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 28.</i></div>
 
 Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including four Pontianak movies. 
 
