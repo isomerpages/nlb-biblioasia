@@ -16,8 +16,12 @@ Loke Wan Tho (1915–64) was a man with wide interests; he was a film magnate, a
 <div style="background-color: white;"> Cathay-Keris studio on East Coast Road in the 1950s.<i> Image reproduced from Raphaël Millet, Singapore Cinema (Singapore : Editions Didier Millet, 2006), 35. </i></div>
 
 
+Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market. In 1951, the Cathay’s International Associated Theatres generated twice as much revenue from Malaya compared to Singapore.[^3]
 
-Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market. In 1951, the Cathay’s International Associated Theatres generated twice as much revenue from Malaya compared to Singapore.[^3] 
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/cathay%20keris.jpg" style="width:60%">
+
+
+
 
 [^1] Balai Seni Lukis Negara (Malaysia), *The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7.
 
