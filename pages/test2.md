@@ -23,6 +23,8 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 
 To learn about moviemaking, Loke visited film studios in India in 1957 and invited Hollywood actors to coach Cathay-Keris’s new actors. At that time, Malay cinema was influenced by Indian culture, as the two film studios hired Indian directors, who were better at making Malay films than their Chinese counterparts.[^4] 
 
+**loke in india**
+<div style="background-color: white;"> Loke on the set of the mythological movie Jai Bajrangat Basant Pictures in India. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.</i></div>
 
 
 
