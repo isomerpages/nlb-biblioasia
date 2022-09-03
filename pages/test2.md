@@ -38,6 +38,7 @@ For his contributions to the film industry in Malaya, Loke Wan Tho was awarded t
 Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including four Pontianak movies. 
 
 
+##### MORE RESOURCES
 
 
 ##### REFERENCES
