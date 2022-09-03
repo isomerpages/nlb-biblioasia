@@ -21,6 +21,8 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 <img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Cathay%20keris.jpg" style="width:60%">
 <div style="background-color: white;"> The logo of Cathay-Keris featured the Malay traditional dagger, a symbol of the Malay world.<i> Image copyright Cathay Organisation.</i></div>
 
+To learn about moviemaking, Loke visited film studios in India in 1957 and invited Hollywood actors to coach Cathay-Keris’s new actors. At that time, Malay cinema was influenced by Indian culture, as the two film studios hired Indian directors, who were better at making Malay films than their Chinese counterparts.[^4] 
+
 
 
 
@@ -29,3 +31,5 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 [^2] Raphaël Millet, *Singapore Cinema* (Singapore : Editions Didier Millet, 2006), 34, 37. 
 
 [^3] Millet, Singapore Cinema, 34.
+
+[^4] Millet, Singapore Cinema, 34, 39; Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.
