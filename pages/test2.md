@@ -3,10 +3,9 @@ title: test2
 permalink: /testinging2/
 description: ""
 ---
-
 Loke Wan Tho (1915–64) was a man with wide interests; he was a film magnate, a support of local sports, a photographer and an ornithologist. His niece, Choo Meileen, chairwoman of Cathay Organisation, called him a renaissance man.[^1] 
 
-<img src="images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho%20.jpg" style="width:70%">
+<img src="images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:60%">
 <div style="background-color: white;"> Chua Mia Tee, Portrait of Dato Loke Wan Tho, Oil on canvass, 1995.<i>Singapore Art Museum 1995-03397</i></div>
 
 
@@ -25,4 +24,3 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 [^2] Raphaël Millet, *Singapore Cinema* (Singapore : Editions Didier Millet, 2006), 34, 37. 
 
 [^3] Millet, Singapore Cinema, 34.
-
