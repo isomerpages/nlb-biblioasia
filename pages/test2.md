@@ -26,12 +26,16 @@ To learn about moviemaking, Loke visited film studios in India in 1957 and invit
 **loke in india**
 <div style="background-color: white;"> Loke on the set of the mythological movie Jai Bajrangat Basant Pictures in India. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.</i></div>
 
+The Malay movies then were generally based on folk tales and legends (sg cinema p36). One of Cathay-Keris’s box office blockbuster is Hang Jebat, directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than villain.[^5] 
+**image hagn jebat**
 
 
 [^1] Balai Seni Lukis Negara (Malaysia), *The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7.
 
 [^2] Raphaël Millet, *Singapore Cinema* (Singapore : Editions Didier Millet, 2006), 34, 37. 
 
-[^3] Millet, Singapore Cinema, 34.
+[^3] Millet, *Singapore Cinema*, 34.
 
-[^4] Millet, Singapore Cinema, 34, 39; Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.
+[^4] Millet, *Singapore Cinema*, 34, 39; Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.
+
+[^5] Millet, *Singapore Cinema*, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65.
