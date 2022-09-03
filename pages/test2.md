@@ -18,7 +18,8 @@ Loke Wan Tho (1915–64) was a man with wide interests; he was a film magnate, a
 
 Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market. In 1951, the Cathay’s International Associated Theatres generated twice as much revenue from Malaya compared to Singapore.[^3]
 
-<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/cathay%20keris.jpg" style="width:60%">
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Cathay%20keris.jpg" style="width:60%">
+<div style="background-color: white;"> The logo of Cathay-Keris featured the Malay traditional dagger, a symbol of the Malay world.<i> Image copyright Cathay Organisation.</i></div>
 
 
 
