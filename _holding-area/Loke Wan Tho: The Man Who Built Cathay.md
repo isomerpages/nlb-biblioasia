@@ -164,7 +164,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^10]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 14–15; “[The Cathay Opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19391004-1.2.79),” *Morning Tribune*, 4 October, 13. (From NewspaperSG)
 
-[^11]: The land for Cathay Building was purchased by Loke Wan Tho’s mother. “[Movie Magic](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060331-1.2.75.10),” *Today*, 31 March 2006, 72; “[Cathay Flats Ready Early in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19410504-1.2.30),” *Sunday Tribune*, 4 May 1941, 2. (From NewsppaerSG); Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 15.
+[^11]: The land for Cathay Building was purchased by Loke Wan Tho’s mother. “[Movie Magic](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060331-1.2.75.10),” *Today*, 31 March 2006, 72; “[Cathay Flats Ready Early in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19410504-1.2.30),” *Sunday Tribune*, 4 May 1941, 2. (From NewspaperSG); Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 15.
 
 [^12]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 13–14.
 
