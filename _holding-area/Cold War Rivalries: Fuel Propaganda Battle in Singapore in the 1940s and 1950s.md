@@ -172,7 +172,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^27]: Pamela Spence Richards, “Cold War Librarianship: Soviet and American Library Activities in Support of National Foreign Policy, 1946–1991.” *Libraries & Culture* 36, no. 1 (Winter 2001): 193. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^28]: “For Those Who Love Reading,” *Indian Daily Mail*, 24 April 1950, 4; “Singapore’s First Free Library,” *Malaya Tribune*, 29 April 1950, 4. (From NewspaperSG)
+[^28]: “[For Those Who Love Reading](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500424-1.2.69),” *Indian Daily Mail*, 24 April 1950, 4; “Singapore’s First Free Library,” *Malaya Tribune*, 29 April 1950, 4. (From NewspaperSG)
 
 [^29]: “Books In Malay Now at USIS Library,” *Singapore Free Press*, 11 August 1960, 15. (From NewspaperSG)
 
