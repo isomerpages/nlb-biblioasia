@@ -126,7 +126,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^4]: Joseph Stalin, “Speech Delivered by Stalin at a Meeting of Voters of the Stalin Electoral District, Moscow,” 9 February 1946, History and Public Policy Program Digital Archive, Gospolitizdat, Moscow, https://digitalarchive.wilsoncenter.org/document/116179.
 
-[^5]: “Soviet Propaganda (Films),” Director of Malayan Security Service to the Colonial Secretary, Singapore, in the National Archives (United Kingdom), [*Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/d9b22b34-d660-11e3-acbd-0050568939ad), 1 October 1947, 1. (From National Archives of Singapore, accession no. FCO 141/14370); “Russian Films In Singapore,” *Morning Tribune*, 1 November 1947, 15. (From NewspaperSG)
+[^5]: “Soviet Propaganda (Films),” Director of Malayan Security Service to the Colonial Secretary, Singapore, in the National Archives (United Kingdom), [*Singapore: Soviet Activities in South East Asia, Including Films. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/d9b22b34-d660-11e3-acbd-0050568939ad), 1 October 1947, 1. (From National Archives of Singapore, accession no. FCO 141/14370); “[Russian Films In Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19471101-1.2.110),” *Morning Tribune*, 1 November 1947, 15. (From NewspaperSG)
 
 [^6]: “Russian Films In Singapore.”
 
