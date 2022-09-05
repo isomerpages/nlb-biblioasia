@@ -170,7 +170,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^26]: “Letter Sent from Office of the Commissioner General for the United Kingdom in Southeast Asia to J.C. Barry, ESQ., who is Deputy Secretary for Defense and Internal Security in Colonial Secretary’s Office in Singapore,” in the National Archives (United Kingdom), [*Singapore. United States Information Services (USIS) activities in Singapore and the Federation of Malaya, Proposal for a field study in Malaya by the Bureau of Applied Social Research of Columbia University. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/dc324cee-d660-11e3-acbd-0050568939ad), 8 August 1951. (From National Archives of Singapore, accession no. FCO 141/14533)
 
-[^27]: Pamela Spence Richards, “Cold War Librarianship: Soviet and American Library Activities in Support of National Foreign Policy, 1946–1991.” *Libraries & Culture* 36, no. 1 (Winter 2001): 193. (From JSTOR via NLB’s eResources website)
+[^27]: Pamela Spence Richards, “Cold War Librarianship: Soviet and American Library Activities in Support of National Foreign Policy, 1946–1991.” *Libraries & Culture* 36, no. 1 (Winter 2001): 193. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^28]: “For Those Who Love Reading,” *Indian Daily Mail*, 24 April 1950, 4; “Singapore’s First Free Library,” *Malaya Tribune*, 29 April 1950, 4. (From NewspaperSG)
 
