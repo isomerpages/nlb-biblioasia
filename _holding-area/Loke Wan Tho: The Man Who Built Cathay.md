@@ -150,7 +150,7 @@ More resources on Loke Wan Tho are available here.
 
 [^2]: “Grave Concerns for the Past,” *New Sunday Times*, 7 January 2007; Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 8.
 
-[^3]: “[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35),” *Straits Budget*, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL);
+[^3]: “[Dr Loke’s Son Welcomed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19370121-1.2.35),” *Straits Budget*, 27 January 1937, 10. (From NewspaperSG); Raphael Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore: Editions Didier Millet, 2006), 22. (From National Library, Singapore, call no. RSING 791.43095957 MIL)
 
 [^4]: Ian Mok-Ai, “[Behind the Veil of Vast Wealth Lies an Artistic, Lonely Man with a Sense of Humour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601125-1.2.59),” *Singapore Free Press*, 25 November 1960, 6. (From NewspaperSG)
 
