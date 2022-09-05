@@ -13,6 +13,10 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
       title: " "
       button: underground Tunnels <br> and Caverns
+      key_highlights:
+        - title: subscribe to the biblioasia newsletter
+          description: Stay updated with our latest stories
+          url: https://form.gov.sg/#!/616799db4d9b61001398f79b
   - infopic:
       title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
