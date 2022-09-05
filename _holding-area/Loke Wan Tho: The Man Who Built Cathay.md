@@ -38,6 +38,9 @@ Meanwhile, Loke’s mother, Mrs Loke Yew (née Lim Cheng-Kim), and a relative, K
 
 Loke returned to Singapore in 1940 and the next year, the main tower of the 83.51-metre-tall Cathay Building was completed comprising apartments that offered a panoramic view of Singapore and the sea.[^11] (Cathay Cinema and Cathay Restaurant were located in the front block.)
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/CathayBuilding.jpg)
+<div style="background-color: white;"> The Cathay Building, 1947. <i>Courtesy of National Archives of Singapore.</i></div>
+
 The Japanese invasion of Singapore in December 1941, however, forced a change of plans. In February 1942, Loke boarded the *Nora Moller* to escape the war. Unfortunately, the vessel was bombed off the Strait of Banka and Loke suffered severe burns to his body and was also temporarily blinded. Rescued by the Australian cruiser *Sydney*, Loke was taken to a hospital in Batavia (now Jakarta). After a few weeks of recuperation, Loke left for India against his doctor’s orders as he had predicted – rightly – that Java would soon suffer the same fate as Singapore. He then spent the war years in India.[^12]
 
 During the Japanese Occupation, Cathay Building was used as the local branch of the Japanese Broadcasting Department and the cinema, renamed Dai Toa Gekkizyo (Greater East Asian Theatre), screened Japanese propaganda films. After the Japanese surrender in 1945, Loke returned to Singapore and Cathay became the first cinema to start screening movies in post-war Singapore, reopening on 23 September 1945.[^13]
@@ -46,9 +49,6 @@ During the Japanese Occupation, Cathay Building was used as the local branch of 
 <div style="background-color: white;"> Loke Wan Tho in his office on the fourth floor of Cathay Building, 1946. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
 In 1947, Loke set up Caravan Films – a joint venture with Overseas Cinematograph Theatres – to bring film and entertainment to estates and villages throughout Singapore and Malaya by using vans carrying projectors, sound equipment and screens. By 1948, Cathay Organisation had cinemas operating in Penang, Borneo and Thailand.[^14] By then, Loke was known as one of the wealthiest men in Singapore.
-
-![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/CathayBuilding.jpg)
-<div style="background-color: white;"> The Cathay Building, 1947. <i>Courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/CaravanFilms.jpg)
 <div style="background-color: white;"> Loke Wan Tho established Caravan Films in December 1947 to bring film entertainment to estates and villages in Singapore and Malaya by using vans carrying projectors, sound equipment and screens. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
