@@ -17,7 +17,7 @@ However, family planning in Singapore actually goes back even earlier than 1972.
 
 Postwar Singapore was plagued with hardship and poverty. The Japanese Occupation period resulted in a shortage of many things, but most urgent of these was food. To feed the hungry, the Social Welfare Department set up volunteer-run food centres to supply free meals. However, the volunteers soon realised that simply providing free food and education to those seeking help was not enough.
 
-“We thought this is not the way how to tackle [the issue],” recalled Hena Sinha, a volunteer with the department, in an oral history interview. “Must teach them not to have so many children, how to space them. Not stop them. Have enough. That’s how it first started, from voluntary nursing, feeding the poor children teaching them. Suddenly, we realised we must teach the parents not to have so many children,” she said.[^2]
+“We thought this is not the way how to tackle [the issue],” recalled Hena Sinha, a volunteer with the department, in an oral history interview. “Must teach them not to have so many children, how to space them. Not stop them. Have enough. That’s how it first started, from voluntary nursing, feeding the poor children, teaching them. Suddenly, we realised we must teach the parents not to have so many children,” she said.[^2]
 
 In July 1949, a group of volunteers, doctors and social workers came together to establish the SFPA, with the objective of providing contraceptive services and information to the masses so that women could plan their births and improve their own and their children’s welfare.[^3] The association set up family planning clinics where women could get contraception help and subsidised supplies, as well as seek minor gynecological treatments.[^4]
 
