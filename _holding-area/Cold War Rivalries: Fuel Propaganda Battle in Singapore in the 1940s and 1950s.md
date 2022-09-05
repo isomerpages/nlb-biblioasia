@@ -150,7 +150,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^16]: “[Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad),” 6–7.
 
-[^17]: “Fewer Red China Book Available,” *Straits Times*, 3 October 1951, 5. (From NewspaperSG) 
+[^17]: “[Fewer Red China Book Available](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511003-1.2.72),” *Straits Times*, 3 October 1951, 5. (From NewspaperSG) 
 
 [^18]: “Future Foreign Publicity Policy”, 4 January 1948, CP (48) 8, CAB 129/23, Cabinet Papers, Public Record Office in London, in the National Archives (United Kingdom), http://filestore.nationalarchives.gov.uk/pdfs/large/cab-129-23.pdf.
 
