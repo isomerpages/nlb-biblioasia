@@ -83,7 +83,7 @@ The experience not only taught Loke how to accurately observe birds in their nat
 
 Despite his busy work schedule, Loke returned to India frequently to photograph birds with Salim, travelling to Kashmir, Sikkim and the Himalayas. These expeditions extended into New Guinea in 1952, where Loke became one of the early bird photographers on the island. He even ventured to far-flung locations such as Finland near the Arctic circle to pursue his passion.[^25]
 
-Loke’s images of birds were the result of hours of patience waiting in dangerous and awkward positions, or from trekking through treacherous jungle and mountainous terrain. In his foreword to Loke’s book, A Company of Birds, MacDonald gave a firsthand account of Loke’s dedication, based on the fact that Loke’s 40-metre-high tower was built in MacDonald’s garden in Johor. 
+Loke’s images of birds were the result of hours of patience waiting in dangerous and awkward positions, or from trekking through treacherous jungle and mountainous terrain. In his foreword to Loke’s book, *A Company of Birds*, MacDonald gave a firsthand account of Loke’s dedication, based on the fact that Loke’s 40-metre-high tower was built in MacDonald’s garden in Johor. 
 
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Lookout_Tower.jpg)
 <div style="background-color: white;"> Loke Wan Tho had this 130-foot (40-metre) wooden tower erected to photograph the white-bellied sea eagles and their nest. The birds had built the nest in a tree in Malcolm MacDonald’s garden in Johor. <i>Image reproduced from Loke Wan Tho, A Company of Birds (London: M. Joseph, 1957), 131. (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH]).</i></div>
@@ -172,7 +172,7 @@ Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan
 
 [^14]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 22.
 
-[^15]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 129–30; Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 32, 51; S. Bissme, “Movie Landmarks: The Unforgettable Movies,” *Sun*, 3 January 2001. (From Factiva via NLB’s eResources website)
+[^15]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 129–30; Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 32, 51; S. Bissme, “Movie Landmarks: The Unforgettable Movies,” *Sun*, 3 January 2001. (From Factiva via NLB’s [eResources](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/) website)
 
 [^16]: “[Malayan Movie Millions for H.K.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560615-1.2.62),” *Straits Times*, 15 June 1956, 4. (From NewspaperSG);  Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 27. 
 
