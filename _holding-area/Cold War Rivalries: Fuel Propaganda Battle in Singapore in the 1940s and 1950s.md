@@ -162,7 +162,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^22]: John Jenks, B*ritish Propaganda and News Media in the Cold War* (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
-[^23]: “BBC to Control S’pore Station,” *Straits Budget*, 12 June 1947, 16; “Two Radio Stations,” *Straits Times*, 29 August 1949, 4; “BBC Having a Contest This Month,” *Singapore Free Press*, 5 December 1950, 4. (From NewspaperSG)
+[^23]: “[BBC to Control S’pore Station](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470612-1.2.108),” *Straits Budget*, 12 June 1947, 16; “Two Radio Stations,” *Straits Times*, 29 August 1949, 4; “BBC Having a Contest This Month,” *Singapore Free Press*, 5 December 1950, 4. (From NewspaperSG)
 
 [^24]: “Two Radio Stations.”
 
