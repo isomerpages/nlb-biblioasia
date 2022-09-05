@@ -113,7 +113,7 @@ The Cold War period was a major period of geopolitical tension that played out i
 While hard power – measured by the size of armies and nuclear arsenals –  was important, soft power was just as crucial. The propaganda battle was an integral component of the Cold War as both blocs vied for influence. They leveraged print, radio and films to promote their own point of view and undermine those of their ideological opponents. This battle played out throughout the world, and Singapore was very much part of the battleground.
 
 <div style="background-color: white;">
-<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Chow_Chia_Yung.png" style="width: 100px; height: 100px;"/>
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
 #### **NOTES**
