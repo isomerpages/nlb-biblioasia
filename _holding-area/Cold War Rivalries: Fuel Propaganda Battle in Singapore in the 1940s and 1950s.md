@@ -140,15 +140,15 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), [*Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad), 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
 
-[^12]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6.
+[^12]: “[Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad),” 6.
 
-[^13]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 5–6.
+[^13]: “[Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad),” 5–6.
 
-[^14]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 5–6.
+[^14]: “[Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad),” 5–6.
 
-[^15]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 8.
+[^15]: “[Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad),” 8.
 
-[^16]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6–7.
+[^16]: “[Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad),” 6–7.
 
 [^17]: “Fewer Red China Book Available,” *Straits Times*, 3 October 1951, 5. (From NewspaperSG) 
 
