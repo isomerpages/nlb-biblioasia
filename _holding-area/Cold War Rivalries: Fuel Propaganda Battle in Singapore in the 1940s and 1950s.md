@@ -34,6 +34,10 @@ The *Morning Tribune* reported that the documentary on the Soviet Union’s 1946
 
 In addition to films, the Soviet Union also relied on print materials. According to an American State Department report, the Soviet Union produced approximately 25 to 30 million books in various languages in the 1950s and most of them contained Marxist-Leninist titles or themes. Some of these works found their way to Singapore. They include titles such as *Study the Philosophy of Marxism and Leninism* and *A History of the Communist Party of the Soviet Union*.8 Both books were translated into Chinese.
 
+![](/images/Vol%2018%20Issue%203/Cold%20War/2_stamp.png)
+<div style="background-color: white;"> A stamp to commemorate Sino-Soviet friendship, 1950. Soviet Union Premier Joseph Stalin and Mao Zedong, Chairman of the Chinese Communist Party. <i>Image from Pixabay. </i>
+</div>
+
 The Soviet authorities also sent propaganda items to Russians living in Singapore to convince them to return to their home country. In 1956, the *Singapore Standard* noted that Singapore was being flooded by “Russian booklets, weeklies and pamphlets depicting a ‘new way of life’ in the Soviet Union”.9
 
 #### **China’s Revolutionary Literature**
