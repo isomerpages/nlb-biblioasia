@@ -134,7 +134,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^8]: Greg Barnhisel, “Cold Warriors of the Book: American Book Programs in the 1950s.” *Book History* 13 (2010): 192. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website); “[Police Seize Red Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19580625-1.2.62),” *Straits Budget*, 25 June 1958, 11. (From NewspaperSG)
 
-[^9]: “‘Come Back To Moscow’ Plea to S’pore White Russians,” *Singapore Standard*, 8 August 1956, 2. (From NewspaperSG)
+[^9]: “[‘Come Back To Moscow’ Plea to S’pore White Russians](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560808-1.2.24),” *Singapore Standard*, 8 August 1956, 2. (From NewspaperSG)
 
 [^10]: John Burns, “Latest Chinese Art Is Following Mao’s Line,” *New York Times*, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
 
