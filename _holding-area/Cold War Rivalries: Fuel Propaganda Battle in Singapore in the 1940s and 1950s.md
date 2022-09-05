@@ -102,6 +102,10 @@ Besides *Kampong Sentosa*, the USIS also developed its own documentaries for pub
 
 The Cold War period was a major period of geopolitical tension that played out in various spheres: military, economic, political and culture. Given that both the US and the Soviet Union were superpowers, it is fortunate that they never escalated into a nuclear war, though the world certainly came close with events such as the Cuban Missile Crisis.33
 
+![](/images/Vol%2018%20Issue%203/Cold%20War/4_sergeant.png)
+<div style="background-color: white;"> A stamp to commemorate Sino-Soviet friendship, 1950. Soviet Union Premier Joseph Stalin and Mao Zedong, Chairman of the Chinese Communist Party. <i>Image from Pixabay. </i>
+</div>
+
 While hard power – measured by the size of armies and nuclear arsenals –  was important, soft power was just as crucial. The propaganda battle was an integral component of the Cold War as both blocs vied for influence. They leveraged print, radio and films to promote their own point of view and undermine those of their ideological opponents. This battle played out throughout the world, and Singapore was very much part of the battleground.
 
 <div style="background-color: white;">
