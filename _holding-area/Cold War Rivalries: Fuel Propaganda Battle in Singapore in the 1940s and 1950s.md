@@ -178,7 +178,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^30]: “[USIS Library’s 10,000th Member](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500719-1.2.47),” *Indian Daily Mail*, 19 July 1950, 4. (From NewspaperSG)
 
-[^31]: Hee, *Remapping the Sinophone*, 114, 116.   
+[^31]: Hee, [*Remapping the Sinophone*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204081780), 114, 116.   
 
 [^32]: United States Information Service (Singapore). Audio-visual Section, *Catalog of 16mm Motion Picture Films* (Singapore: U.S. Information Service, Audio-Visual Section, [n.d.]), 47. (From National Library, Singapore, call no. RCLOS 016.79143 UNI)
 
