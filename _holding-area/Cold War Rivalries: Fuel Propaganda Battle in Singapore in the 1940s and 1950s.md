@@ -158,7 +158,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^20]: “Report On Counter Communist Education Bureau to 31 December 1949,” in the National Archives (United Kingdom), [*Singapore. Counter-Communist Education. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/da74249d-d660-11e3-acbd-0050568939ad), 11 December 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
-[^21]: “Anti-Communist Bureau,” in the National Archives (United Kingdom), *Singapore. Counter-Communist Education. Secret – Migrated Archives*, 31 January 1950, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
+[^21]: “Anti-Communist Bureau,” in the National Archives (United Kingdom), [*Singapore. Counter-Communist Education. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/da74249d-d660-11e3-acbd-0050568939ad), 31 January 1950, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
 [^22]: John Jenks, B*ritish Propaganda and News Media in the Cold War* (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s eResources website) 
 
