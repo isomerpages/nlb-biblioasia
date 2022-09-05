@@ -36,7 +36,7 @@ Although Loke knew that he would have to eventually run his father’s business,
 
 Meanwhile, Loke’s mother, Mrs Loke Yew (née Lim Cheng-Kim), and a relative, Khoo Teik Ee, were busy setting up the foundations for the family cinema business. Mrs Loke Yew had incorporated Associated Theatres on 18 July 1935 with Khoo and an Englishman, Max Baker, who introduced the first talkies to Singapore in 1929. On 5 August 1936, she established the 1,200-seat Pavilion in Kuala Lumpur, and on 3 October 1939, the iconic Cathay Cinema in Singapore opened its doors.[^10]
 
-Loke returned to Singapore in 1940 and the next year, the main tower of the 83.51-metre-tall Cathay Building was completed comprising apartments that offered a panoramic view of Singapore and the sea.[^11] (Cathay Cinema and Cathay Restaurant were located in the front block).
+Loke returned to Singapore in 1940 and the next year, the main tower of the 83.51-metre-tall Cathay Building was completed comprising apartments that offered a panoramic view of Singapore and the sea.[^11] (Cathay Cinema and Cathay Restaurant were located in the front block.)
 
 The Japanese invasion of Singapore in December 1941, however, forced a change of plans. In February 1942, Loke boarded the *Nora Moller* to escape the war. Unfortunately, the vessel was bombed off the Strait of Banka and Loke suffered severe burns to his body and was also temporarily blinded. Rescued by the Australian cruiser *Sydney*, Loke was taken to a hospital in Batavia (now Jakarta). After a few weeks of recuperation, Loke left for India against his doctor’s orders as he had predicted – rightly – that Java would soon suffer the same fate as Singapore. He then spent the war years in India.[^12]
 
