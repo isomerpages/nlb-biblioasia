@@ -86,6 +86,10 @@ Harry Truman, 1950
 
 Just as the British had the BBC, the US relied on the United States Information Service (USIS). This was a state agency that served the political interests of the American government, which included assisting in “the offensive campaign of truth against Communist propaganda”.26 To this end, the USIS launched a series of overseas information programmes under its cultural diplomacy initiative.27
 
+![](/images/Vol%2018%20Issue%203/Cold%20War/3_USIS.png)
+<div style="background-color: white;"> The United StatesInformation Service Library in Raffles Place, c. 1950s. <i>Courtesy of the U.S. Embassy in Singapore. </i>
+</div>
+
 The Singapore branch of the USIS Library was officially opened on 2 May 1950 in Raffles Place. Its collection – consisting primarily of American books, newspapers and magazines – exposed the people in Singapore to American values and worldviews.28
 
 Books such as *Animal Farm* by George Orwell and *Rice-Sprout Song* by Eileen Chang made their appearances on the library’s bookshelves.29 These two titles were known for their anti-communist themes. The USIS Library’s collection was curated in a way that would sell American ideals to the people here, which was essential in undermining the appeal of communism. 
