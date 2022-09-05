@@ -9,7 +9,7 @@ description: In the post-World War II period, Singapore was a battleground for
 #### In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 By Chow Chia Yung
 
-![](/images/Vol%2018%20Issue%203/Sarong%20Island/1_cover.jpg)
+![](/images/Vol%2018%20Issue%203/Cold%20War/1_cover.png)
 <div style="background-color: white;"> Christina Lee taking a stroll on Sarong Island, 1965. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
 </div>
 
