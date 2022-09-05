@@ -120,7 +120,7 @@ Adding to Loke’s woes, his marriage to Christina Lee ended in an acrimonious d
 Sadly, barely nine months later, the couple lost their lives when the plane they were on crashed in Taichung, Taiwan, shortly after takeoff on 20 June 1964. All 53 people on board died. Loke and Chew were returning home from the 11th Asian Film Festival, where Loke had received Golden Accolades awards on behalf of three Cathay Organisation stars.[^35] He had just turned 49 a few days before.
 
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/ThreeStars.jpg)
-<div style="background-color: white;"> Actresses Ummi Kalthoum and Rose Yatimah and director Roomai Noor at Loke Wan Tho’s funeral. They were supposed to have been on board the same flight as Loke when it crashed. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
+<div style="background-color: white;"> Actresses Ummi Kalthoum and Rose Yatimah, and director Roomai Noor at Loke Wan Tho’s funeral. They were supposed to have been on board the same flight as Loke when it crashed. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Cortege.jpg)
 <div style="background-color: white;"> Thousands of people lining the streets of Kuala Lumpur as Loke Wan Tho’s cortege passes on its way to burial. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 7. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
@@ -132,12 +132,14 @@ In 1965, Loke’s mother donated the Dr Carl Alexander Gibson-Hill Collection to
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Minister.jpg)
 <div style="background-color: white;"> Minister for Culture S. Rajaratnam and Mrs Loke Yew, mother of the late Loke Wan Tho, touring the National Library during her donation of the Dr Carl Alexander Gibson-Hill Collection to the library, 1965. Accompanying them is Hedwig Anuar, director of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a $100,000 donation by Loke’s mother and his sisters as well as his collection of books on birds, photographs and tape recordings of bird songs.[^37]
-
 ![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/2_Gibson-Hill%20Collection%20label.png)
 <div style="background-color: white;"> In 1965, Mrs Loke Yew donated the Dr Carl Alexander Gibson-Hill Collection to the National Library of Singapore, “in fulfilment of the intention of her son”.</div>
 
+The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a $100,000 donation by Loke’s mother and his sisters as well as his collection of books on birds, photographs and tape recordings of bird songs.[^37]
+
 Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan Tho Gallery at the Selegie Arts Centre.[^38] The gallery was launched in 1996 thanks to his contributions to the Photographic Society of Singapore and to commemorate his breadth of work in the field.[^39] In death, as in life, Loke has continued to make his mark.
+
+More resources on Loke Wan Tho are available here.
 
 <div style="background-color: white;">
 <img src="/images/Vol%2018%20Issue%203/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/><b>Bonny Tan </b>is a former Senior Librarian at the National Library, Singapore. She currently lives in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i>.</div>
