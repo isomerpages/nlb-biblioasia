@@ -164,7 +164,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^23]: “[BBC to Control S’pore Station](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470612-1.2.108),” *Straits Budget*, 12 June 1947, 16; “[Two Radio Stations](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490829-1.2.53),” *Straits Times*, 29 August 1949, 4; “[BBC Having a Contest This Month](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501205-1.2.65),” *Singapore Free Press*, 5 December 1950, 4. (From NewspaperSG)
 
-[^24]: “Two Radio Stations.”
+[^24]: “[Two Radio Stations](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490829-1.2.53).”
 
 [^25]: Nicholas J. Cull, *The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy*, 1945–1989 (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
 
