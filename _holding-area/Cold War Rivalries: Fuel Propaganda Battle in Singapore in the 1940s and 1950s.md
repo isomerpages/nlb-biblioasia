@@ -138,7 +138,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^10]: John Burns, “Latest Chinese Art Is Following Mao’s Line,” *New York Times*, 18 July 1972, 25, https://www.nytimes.com/1972/07/18/archives/latest-chinese-art-is-following-maos-line.html.
 
-[^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), *Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives*, 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
+[^11]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), [*Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/24d361c8-3a33-11e4-859c-0050568939ad), 9 March 1952, 2. (From National Archives of Singapore, accession no. FCO 141/15152)
 
 [^12]: “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” 6.
 
