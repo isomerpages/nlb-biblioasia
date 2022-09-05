@@ -160,7 +160,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^21]: “Anti-Communist Bureau,” in the National Archives (United Kingdom), [*Singapore. Counter-Communist Education. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/da74249d-d660-11e3-acbd-0050568939ad), 31 January 1950, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
-[^22]: John Jenks, B*ritish Propaganda and News Media in the Cold War* (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s eResources website) 
+[^22]: John Jenks, B*ritish Propaganda and News Media in the Cold War* (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
 [^23]: “BBC to Control S’pore Station,” *Straits Budget*, 12 June 1947, 16; “Two Radio Stations,” *Straits Times*, 29 August 1949, 4; “BBC Having a Contest This Month,” *Singapore Free Press*, 5 December 1950, 4. (From NewspaperSG)
 
