@@ -67,6 +67,9 @@ In addition to being a successful businessman, Loke was also a serious nature lo
 
 Much of Loke’s summer vacations were spent at Pembrokeshire where the Welsh coastland, enlivened by a great variety of coastal birds, ignited in the young Loke a fascination for birds. He later published a book titled *A Company of Birds* (1957), showcasing his photographs of birds in India, New Guinea and Malaya.[^20]
 
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Birds1957.jpg)
+<div style="background-color: white;"> The frontispiece and title page of Loke Wan Tho’s <i>A Company of Birds</i> published in 1957. <i>Image reproduced from Loke Wan Tho, A Company of Birds (London: M. Joseph, 1957). (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH]).</i></div>
+
 During one of these jaunts to Pembrokeshire, Loke managed to capture a raven attacking a heron on film. As Singapore’s former Governor-General Malcolm MacDonald poetically noted in his foreword to Loke’s book, *A Company of Birds*: “[Loke] watched a Raven work off a fit of rage by chasing a Heron. When the pursuit ended the Heron was still free, but Loke was a captive.”[^21]
 
 Loke’s love for birds was enhanced during the years he spent in India while Singapore was under Japanese rule. There, Loke was introduced to the Indian ornithologist Salim Ali, a leading figure in the field. Almost 20 years his senior, Salim became Loke’s mentor, taking him on expeditions to survey birds in the rugged landscapes of Kutch (in Gujarat) and Kashmir. As Loke was unable to return home due to the war, he remained in India for a couple of years and the two men became firm friends.[^22]
