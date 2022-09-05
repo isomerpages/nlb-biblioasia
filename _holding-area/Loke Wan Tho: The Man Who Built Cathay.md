@@ -24,12 +24,12 @@ Afflicted with poor health, the young Loke was initially educated by a governess
 	
 He enrolled at Chillon College in Montreux, Switzerland, a boarding school popular with wealthy British colonialists. Set in the scenic alps, the mountain air seemed to do Loke good. He became captain of the school soccer team and set the 1932 long-jump record in the Swiss county of Vaud – a record he held for over 30 years. His athleticism was noticed by the British Olympic sprinter, Harold Abrahams (the subject of the movie *Chariots of Fire*), who encouraged Loke to train professionally. Unfortunately, a broken ankle put paid to his athletic dreams.[^6]
 
-![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LokeJump.jpg)
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/LongJump.jpg)
 <div style="background-color: white;"> In 1932, Loke Wan Tho won the long-jump record in the Swiss county of Vaud. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
 Although Loke knew that he would have to eventually run his father’s business, he studied English literature “for pleasure, if not for profit”.[^7] In 1936, Loke graduated from King’s College, Cambridge, with an honours degree in English literature and history.[^8] He subsequently furthered his studies at the London School of Economics, where he excelled academically and also as an athlete and leader, becoming the school’s badminton champion in 1937 and 1938.[^9]
 
-![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Mercedes.jpg)
+![](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/Mercedescar.jpg)
 <div style="background-color: white;"> Loke Wan Tho in his Mercedes in Cambridge, 1936. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 11. (From National Library, Singapore, call no. RSING 791.43095957 LIM).</i></div>
 
 #### **A Film Mogul**
