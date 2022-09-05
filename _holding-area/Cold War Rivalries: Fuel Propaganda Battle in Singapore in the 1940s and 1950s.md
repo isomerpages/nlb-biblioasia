@@ -154,7 +154,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^18]: “Future Foreign Publicity Policy”, 4 January 1948, CP (48) 8, CAB 129/23, Cabinet Papers, Public Record Office in London, in the National Archives (United Kingdom), http://filestore.nationalarchives.gov.uk/pdfs/large/cab-129-23.pdf.
 
-[^19]: A.W. Frisby, “Objectives and Methods of the Anti-Communist Bureau Set Up By the Director of Education at the Request of the Colonial Secretary,” in the National Archives (United Kingdom), *Singapore. Counter-Communist Education. Secret – Migrated Archives*, 13 October 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
+[^19]: A.W. Frisby, “Objectives and Methods of the Anti-Communist Bureau Set Up By the Director of Education at the Request of the Colonial Secretary,” in the National Archives (United Kingdom), [*Singapore. Counter-Communist Education. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/da74249d-d660-11e3-acbd-0050568939ad), 13 October 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
 [^20]: “Report On Counter Communist Education Bureau to 31 December 1949,” in the National Archives (United Kingdom), *Singapore. Counter-Communist Education. Secret – Migrated Archives*, 11 December 1949, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
