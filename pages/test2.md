@@ -31,4 +31,4 @@ description: ""
 
 [^14] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
 
-[^15]
+[^15] “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10.
