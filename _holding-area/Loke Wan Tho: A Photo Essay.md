@@ -111,13 +111,13 @@ Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A C
 Malcolm MacDonald, *[Angkor with One Hundred and Twelve Photographs by Loke Wan Tho and the Author](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4179272)* (London: Jonathan Cape , 1958). (From National Library, Singapore, call no. RCLOS 959.6 MAC)
 
 #### **ORAL HISTORY**
-Christina Balsara, [oral history interview by Patricia Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3188fc6a-1160-11e3-83d5-0050568939ad), 16 August 2001, disc 5 of 9, MP3 audio, 28:36, National Archives of Singapore (accession no. 002542).
+[Christina Balsara, oral history interview by Patricia Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3188fc6a-1160-11e3-83d5-0050568939ad), 16 August 2001, disc 5 of 9, MP3 audio, 28:36, National Archives of Singapore (accession no. 002542).
 
-Yuen-Peng McNeice, [oral history interview by Helen Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fad7620e-115d-11e3-83d5-0050568939ad), 4 August 1982, disc 3 of 4, transcript and MP3 audio, 27:47, National Archives of Singapore (accession no. 000190).
+[Yuen-Peng McNeice, oral history interview by Helen Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fad7620e-115d-11e3-83d5-0050568939ad), 4 August 1982, disc 3 of 4, transcript and MP3 audio, 27:47, National Archives of Singapore (accession no. 000190).
 
-Albert Odell, [oral history interview by Ghalpanah Thangaraju](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/772198de-1160-11e3-83d5-0050568939ad), 16 April 2001, disc 2 of 6, transcript and MP3 audio, 27:39, National Archives of Singapore (accession no. 002640).
+[Albert Odell, oral history interview by Ghalpanah Thangaraju](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/772198de-1160-11e3-83d5-0050568939ad), 16 April 2001, disc 2 of 6, transcript and MP3 audio, 27:39, National Archives of Singapore (accession no. 002640).
 
-Wong Kee Hung, [oral history interview by Michelle Low](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9c41e71f-1160-11e3-83d5-0050568939ad), 21 October 2005, disc 5 of 6, transcript and MP3 audio, 58:04, National Archives of Singapore (accession no. 002986).
+[Wong Kee Hung, oral history interview by Michelle Low](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9c41e71f-1160-11e3-83d5-0050568939ad), 21 October 2005, disc 5 of 6, transcript and MP3 audio, 58:04, National Archives of Singapore (accession no. 002986).
 
 #### **NOTES**
 [^1] Balai Seni Lukis Negara (Malaysia), *The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7.
