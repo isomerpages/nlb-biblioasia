@@ -9,10 +9,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 2/Subterranean Singapore/jurong caverns banner.jpg
-      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      background: /images/Vol 18 Issue 2/Kranji War Memorial/kranji war banner.jpg
+      url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
       title: " "
-      button: underground Tunnels <br> and Caverns
+      button: They Died for All Free Men<br>Stories from Kranji War Cemetery
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
