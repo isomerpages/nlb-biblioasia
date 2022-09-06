@@ -6,11 +6,11 @@ description: ""
 #### Loke Wan Tho (1915–64) was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.[^1] 
  
 Loke Wan Tho (1915–64) was a man with wide interests; he was a film magnate, a support of local sports, a photographer and an ornithologist. 
+
 <img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%">
 <div style="background-color: white;"> Chua Mia Tee, Portrait of Dato Loke Wan Tho, Oil on canvass, 1995.<i> Singapore Art Museum 1995-03397</i>.</div>
 
-
-<h4>A Pioneer in Local Film Production </h4>
+#### **A Pioneer in Local Film Production**
  In 1953, Loke Wan Tho set up Cathay-Keris with Ho Ah Loke, expanding the Cathay film distribution business into film production. Cathay-Keris was Singapore’s second film studio and was a competitor to Shaw’s Malay Film Productions. These were the only two film studios in Singapore for the next 20 years, which was known as the golden age of the studios.[^2] 
 
 ![cathay keris](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/cathay-keris.jpg)
@@ -42,12 +42,14 @@ Cathay closed its film production arm in 1972, because of competition from telev
 ![Pontianak cathay keris](/images/Vol-13-issue-2/history-of-singapore-horror/04_sghorror.png)
 <div style="background-color: white;">Directed by B. Narayan Rao, the film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum 1995-03397</i>.</div>
 
-Supporter of Local Sports
-
-##### MORE RESOURCES
+#### **Supporter of Local Sports**
 
 
-##### REFERENCES
+
+#### **MORE RESOURCES**
+
+
+#### **REFERENCES**
 [^1] Balai Seni Lukis Negara (Malaysia), *The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7.
 
 [^2] Raphaël Millet, *Singapore Cinema* (Singapore : Editions Didier Millet, 2006), 34, 37. 
