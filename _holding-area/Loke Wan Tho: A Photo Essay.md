@@ -104,6 +104,8 @@ Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bi
 
 Raphael Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore: Editions Didier Millet, 2006). (From National Library, Singapore, call no. RSING 791.43095957 MIL)
 
+Loke Wan Tho, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)* (London: M. Joseph, 1957). (From National Library, Singapore, call no. RCLOS 598.295 LOK-[GBH])
+
 Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008). (From National Library, Singapore, call no. RSING 598.095 LOK)
 
 
