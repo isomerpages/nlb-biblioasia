@@ -45,6 +45,10 @@ Cathay closed its film production arm in 1972, because of competition from telev
 #### **Supporter of Local Sports**
 As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated 25,000 pounds to it. The centre opened in the old Kallang airport in January 1956.[^6] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^7]
 
+![loke wan tho sports centre](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-sports-centre.jpg)
+<div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.[^8]<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+
+
 
 #### **MORE RESOURCES**
 
