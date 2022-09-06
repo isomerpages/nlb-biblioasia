@@ -23,12 +23,14 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 
 To learn about moviemaking, Loke visited film studios in India in 1957 and invited Hollywood actors to coach Cathay-Keris’s new actors. At that time, Malay cinema was influenced by Indian culture, as the two film studios hired Indian directors, who were better at making Malay films than their Chinese counterparts.[^4] 
 
-**loke in india**
-<div style="background-color: white;"> Loke on the set of the mythological movie Jai Bajrangat Basant Pictures in India. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.</i></div>
+
+ 
+ <div style="background-color: white;"> Loke on the set of the mythological movie Jai Bajrangat Basant Pictures in India. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.</i></div>
 
 The Malay movies then were generally based on folk tales and legends (sg cinema p36). One of Cathay-Keris’s box office blockbuster is Hang Jebat, directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than villain.[^5] 
-**image hagn jebat**
-<div style="background-color: white;">Newspaper advertisement. The film tells the legend of Hang Tuah and Hang Jebat. Hang Tuah is exiled by the Sultan, and Hang Jebat seeks revenge for him. <i> Image reproduced from Page 4 Advertisements Column 2, Straits Times, 21 March 1961, 4.</i></div>
+
+ ![hang jebat](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/hang%20jebat.jpg)
+<div style="background-color: white;">A scene from <i>Hang Jebat</i>, 1961. the film tells the legend of Hang Tuah and Hang Jebat. Hang Tuah is exiled by the Sultan, and Hang Jebat seeks revenge for him. <i>National Museum of Singapore, accession number 2005-01048</i></div>
 
 For his contributions to the film industry in Malaya, Loke Wan Tho was awarded the dato title in 1962. 
 
