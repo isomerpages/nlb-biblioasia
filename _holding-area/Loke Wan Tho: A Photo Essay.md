@@ -53,7 +53,7 @@ For his contributions to the film industry in Malaya, Loke Wan Tho was awarded t
 Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including the cult classic *Pontianak* film (1957) and the three subsequent Pontianak movies. 
 
 ![Pontianak cathay keris](/images/Vol-13-issue-2/history-of-singapore-horror/04_sghorror.png)
-<div style="background-color: white;">Directed by B. Narayan Rao, the film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum 1995-03397</i>.</div>
+<div style="background-color: white;">Directed by B. Narayan Rao, the *Pontianak* film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum 1995-03397</i>.</div>
 
 
 #### **Supporter of Local Sports**
