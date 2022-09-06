@@ -162,7 +162,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^24]: “[Two Radio Stations](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490829-1.2.53).”
 
-[^25]: Nicholas J. Cull, [*The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13212794), 1945–1989 (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
+[^25]: Nicholas J. Cull, [*The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13212794)*, 1945–1989* (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
 
 [^26]: “Letter Sent from Office of the Commissioner General for the United Kingdom in Southeast Asia to J.C. Barry, ESQ., who is Deputy Secretary for Defense and Internal Security in Colonial Secretary’s Office in Singapore,” in the National Archives (United Kingdom), [*Singapore. United States Information Services (USIS) activities in Singapore and the Federation of Malaya, Proposal for a field study in Malaya by the Bureau of Applied Social Research of Columbia University. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/dc324cee-d660-11e3-acbd-0050568939ad), 8 August 1951. (From National Archives of Singapore, accession no. FCO 141/14533)
 
