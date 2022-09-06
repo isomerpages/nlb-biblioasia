@@ -49,8 +49,14 @@ As the chairman of the Sports Centre Fund appeal committee, Loke helped to accel
 <div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.[^8]<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 #### **An Acclaimed Photographer**
+Loke took birding expeditions in India and New Guinea with famous Indian ornithologist Salim Ali. According to Salim Ali, Loke was always cheerful and had never once complained on their field trips, even in cowsheds, in rough living conditions, or of his dysentery.[^9]   
+ 
+Loke’s diary on the expeditions reveals his passion for ornithology:[^10] 
 
+> The scene of immense activity is thrilling to look at, and to hear. When the White Ibis and the Little Egrets are back in the Heronry at evening time, it looks as if a snowstorm is blowing about the tree tops.
 
+![loke wan tho White Ibis and Little Egrets](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-company-of-birds.jpg)
+<div style="background-color: white;"> White Ibis and Little Egrets, taken by Loke Wan Tho in India.<i> Images reproduced from Loke Wan Tho, Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds (Mumbai: Bombay Natural History Society, 2008), 140, 144</i>.</div>
 
 
 #### **MORE RESOURCES**
@@ -72,3 +78,4 @@ As the chairman of the Sports Centre Fund appeal committee, Loke helped to accel
 [^7] “[Loke Makes Personal Three-year agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
 
 [^8] “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1.
+
