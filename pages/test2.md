@@ -63,8 +63,15 @@ Besides birds, Loke also took photographs of Angkor, which were published in for
 ![loke wan tho angkor ](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-wan-tho-angkor.jpg)
 <div style="background-color: white;"> Angkor Wat seen through the main entrance; gateway into Angkor Thom.<i> Images reproduced from Malcolm MacDonald, Angkor, with One Hundred and Twelve Photographs by Loke Wan Tho and the Author (London: Jonathan Cape, 1958), plates 54, 85</i>.</div>
 
+#### **A Legacy**
+While returning from a film festival in Taiwan, Loke and his wife Marvis Chew died in a plane crash in 1964. 
+
+![loke wan tho funeral](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke%20funeral.jpg)
+
 
 #### **MORE RESOURCES**
+
+
 
 
 #### **REFERENCES**
