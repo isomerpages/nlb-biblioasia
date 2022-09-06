@@ -21,7 +21,7 @@ On the significance of the mace, Loke said:[^3]
 
 The knob of the four-foot, gold mace has the city's crest and figures of a Chinese, a Malay, an Indian and a European symbolising the city's multi-ethnic population.[^4]
 
-![loke wan tho mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/mace.jpg)
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/mace.jpg" style="width:50%">
 <div style="background-color: white;"> The $15,000 Mace was made by Messrs Hamilton & Inches, Goldsmiths of Edinburgh. Loke was one of the committee members (including university professors and Raffles Museum staff) who suggested the design motifs. <i>National Museum of Singapore, accession no. 2003-00230-001</i>.</div>
 
 #### **A Pioneer in Local Film Production**
