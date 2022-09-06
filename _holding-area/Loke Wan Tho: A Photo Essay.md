@@ -48,12 +48,12 @@ The Malay movies then were generally based on folk tales and legends. One of Cat
 For his contributions to the film industry in Malaya, Loke received the dato title from the Sultan of Kelantan in 1962. 
 
 ![loke wan tho dato](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/lokewantho-dato.jpg)
-<div style="background-color: white;">Dressed in traditional Malay costume <i>baju melayu</i>, Loke Wan Tho (second from left) was conferred the title of dato on 1 August 1962. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books, 1991), 28</i>.</div>
+<div style="background-color: white;">Dressed in traditional Malay costume <i>baju melayu</i>, Loke Wan Tho (second from left) was conferred the title of dato on 1 August 1962. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books, 1991), 28</i>.</div>
 
 Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including the cult classic *Pontianak* film (1957) and the three subsequent Pontianak movies. 
 
 ![Pontianak cathay keris](/images/Vol-13-issue-2/history-of-singapore-horror/04_sghorror.png)
-<div style="background-color: white;">Directed by B. Narayan Rao, the *Pontianak* film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum accession no. 1995-03397</i>.</div>
+<div style="background-color: white;">Directed by B. Narayan Rao, the <i>Pontianak</i> film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum accession no. 1995-03397</i>.</div>
 
 #### **A Supporter of Local Sports**
 As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated $25,000 to it. The centre opened in the old Kallang airport in January 1956.[^9] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^10]
