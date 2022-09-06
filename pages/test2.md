@@ -48,6 +48,9 @@ As the chairman of the Sports Centre Fund appeal committee, Loke helped to accel
 ![loke wan tho sports centre](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-sports-centre.jpg)
 <div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.[^8]<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
+#### **An Acclaimed Photographer**
+
+
 
 
 #### **MORE RESOURCES**
