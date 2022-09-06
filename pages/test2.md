@@ -79,3 +79,6 @@ Loke’s diary on the expeditions reveals his passion for ornithology:[^10]
 
 [^8] “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1.
 
+[^9] Loke Wan Tho,* Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds* (Mumbai: Bombay Natural History Society, 2008), 12.
+
+[^10] Loke,* Loke Wan Tho's Birds*, 53.
