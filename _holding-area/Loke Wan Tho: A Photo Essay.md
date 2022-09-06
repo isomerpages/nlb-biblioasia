@@ -25,7 +25,7 @@ The knob of the four-foot, gold mace has the city's crest and figures of a Chine
 <div style="background-color: white;"> The $15,000 Mace was made by Messrs Hamilton & Inches, Goldsmiths of Edinburgh. Loke was one of the committee members (including university professors and Raffles Museum staff) who suggested the design motifs. <i>National Museum of Singapore, accession no. 2003-00230-001</i>.</div>
 
 #### **A Pioneer in Local Film Production**
-In 1953, Loke Wan Tho set up Cathay-Keris with Ho Ah Loke, expanding the Cathay film distribution business into film production. Cathay-Keris was Singapore’s second film studio and was a competitor to Shaw’s Malay Film Productions. These were the only two film studios in Singapore for the next 20 years, which was known as the golden age of the studios.[^5] 
+In 1953, Loke Wan Tho set up Cathay-Keris with Ho Ah Loke, expanding the [Cathay](/history-cathay-cinema-2022) film distribution business into film production. Cathay-Keris was Singapore’s second film studio and was a competitor to Shaw’s Malay Film Productions. These were the only two film studios in Singapore for the next 20 years, a period known as the golden age of the studios.[^5] 
 
 ![cathay keris](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/cathay-keris.jpg)
 <div style="background-color: white;"> Cathay-Keris studio on East Coast Road in the 1950s.<i> Image reproduced from Raphaël Millet, Singapore Cinema (Singapore : Editions Didier Millet, 2006), 35</i>.</div>
@@ -38,9 +38,9 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 To learn about moviemaking, Loke visited film studios in India in 1957 and invited Hollywood actors to coach Cathay-Keris’s new actors. At that time, Malay cinema was influenced by Indian culture, as the two film studios hired Indian directors, who were better at making Malay films than their Chinese counterparts.[^7] 
 
 ![loke wan tho india](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-india.jpg)
-<div style="background-color: white;"> Loke on the set of the mythological movie Jai Bajrangat Basant Pictures in India. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117</i>.</div>
+<div style="background-color: white;"> Loke on the set of the mythological movie <i>Jai Bajrangat</i> at Basant Pictures in India. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117</i>.</div>
 
-The Malay movies then were generally based on folk tales and legends (sg cinema p36). One of Cathay-Keris’s box office blockbuster is Hang Jebat, directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than villain.[^8] 
+The Malay movies then were generally based on folk tales and legends. One of Cathay-Keris’s box office blockbuster is Hang Jebat, directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than villain.[^8] 
 
  ![hang jebat](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/hang%20jebat.jpg)
 <div style="background-color: white;">A scene from <i>Hang Jebat</i>, 1961. The film tells the legend of Hang Tuah and Hang Jebat. Hang Jebat seeks revenge for Hang Tuah, who is exiled by the Sultan. <i>National Museum of Singapore, accession number 2005-01048</i>.</div>
@@ -135,7 +135,7 @@ Wong Kee Hung, [oral history interview by Michelle Low](https://www.nas.gov.sg/a
 
 [^7] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34, 39; Lim Kay Tong,[*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore:Landmark Books,1991), 117. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
 
-[^8] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65.
+[^8] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 36, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65. (From JSTOR via NLB's [eresources](https://eresources.nlb.gov.sg/main) website)
 
 [^9] “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
 
