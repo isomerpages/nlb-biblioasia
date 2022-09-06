@@ -40,7 +40,7 @@ To learn about moviemaking, Loke visited film studios in India in 1957 and invit
 ![loke wan tho india](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-india.jpg)
 <div style="background-color: white;">Loke (second from right) on the set of the mythological movie <i>Jai Bajrangat</i> at Basant Pictures in India. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books, 1991), 117</i>.</div>
 
-The Malay movies then were generally based on folk tales and legends. One of Cathay-Keris’s box office blockbuster is *Hang Jebat* (1961), directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than the villain.[^8] 
+The Malay movies then were generally based on folk tales and legends. One of Cathay-Keris’s box office blockbuster was *Hang Jebat* (1961), directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than the villain.[^8] 
 
  ![hang jebat](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/hang%20jebat.jpg)
 <div style="background-color: white;">A scene of Hang Tuah (left) and Hang Jebat (right) fighting, each holding a keris. In the film, Hang Jebat seeks revenge for Hang Tuah, who is exiled by the Sultan. <i>National Museum of Singapore, accession number 2005-01048</i>.</div>
