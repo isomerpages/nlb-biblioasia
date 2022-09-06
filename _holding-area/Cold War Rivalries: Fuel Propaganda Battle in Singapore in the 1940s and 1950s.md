@@ -114,7 +114,7 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 <div style="background-color: white;">
 <img src="/images/Vol%2018%20Issue%203/Authors/Chow_Chia_Yung.png" style="width: 100px; height: 100px;"/>
-	<b>Chow Chia Yung</b> is an Assistant Archivist with the National Archives of Singapore. He performs archival-related reference services for researchers.</div>
+	<b>Chow Chia Yung</b> is an Assistant Archivist with the National Archives of Singapore. He provides archival-related reference services for researchers.</div>
 
 #### **NOTES**
 
