@@ -99,7 +99,7 @@ Alvin Chua, "[Cathay Organisation](https://eresources.nlb.gov.sg/infopedia/artic
 
 Bonny Muliani Tan, "[A Malayan Treasure: The Gibson-Hill Collection](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-3/v4-issue3_MalayanTreasure.pdf)," <i>BiblioAsia</i> 4, no. 3 (2008).
 
-#### **RELATED BOOKS AND DOCUMENTS**
+#### **RELATED BOOKS**
 Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991). (From National Library, Singapore, call no. RSING 791.43095957 LIM)
 
 Raphael Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore: Editions Didier Millet, 2006). (From National Library, Singapore, call no. RSING 791.43095957 MIL)
@@ -109,7 +109,6 @@ Loke Wan Tho, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.
 Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008). (From National Library, Singapore, call no. RSING 598.095 LOK)
 
 Malcolm MacDonald, *[Angkor with One Hundred and Twelve Photographs by Loke Wan Tho and the Author](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4179272)* (London: Jonathan Cape , 1958). (From National Library, Singapore, call no. RCLOS 959.6 MAC)
-
 
 #### **ORAL HISTORY**
 Christina Balsara, [oral history interview by Patricia Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3188fc6a-1160-11e3-83d5-0050568939ad), 16 August 2001, disc 5 of 9, MP3 audio, 28:36, National Archives of Singapore (accession no. 002542).
