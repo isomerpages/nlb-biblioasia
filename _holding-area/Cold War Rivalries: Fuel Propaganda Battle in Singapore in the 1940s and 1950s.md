@@ -75,12 +75,11 @@ The BBC accepted an invitation from the United Kingdom government to establish i
 
 The BBC radio station in Singapore was also used by Britain as a regional radio base to broadcast anti-communist information across Asia. As the *Straits Times* noted in 1949: “It was the intention to build a new station which was to become the Voice of Britain in Asia, radiating programmes to the entire Far East- from Japan to India… Obviously the campaign against Communism in Asia must be fought in Asia… If the radio weapon is to be of real use to Britain, and to Malaya, then the main broadcasts must have their origin in Singapore…”[^24]
 
-#### **The United StatesInformation Service**
+#### **The United States Information Service**
 
 “We must make ourselves known as we really are – not as Communist propaganda pictures us. … We must make ourselves heard round the world in a great campaign of truth.”[^25]
 
-– United States President
-Harry Truman, 1950
+<div style="text-align: right">– United States President Harry Truman, 1950</div>
 
 Just as the British had the BBC, the US relied on the United States Information Service (USIS). This was a state agency that served the political interests of the American government, which included assisting in “the offensive campaign of truth against Communist propaganda”.[^26] To this end, the USIS launched a series of overseas information programmes under its cultural diplomacy initiative.[^27]
 
