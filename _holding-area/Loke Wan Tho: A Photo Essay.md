@@ -72,10 +72,10 @@ Loke’s diary on the expeditions reveals his passion for ornithology:[^12]
 ![loke wan tho White Ibis and Little Egrets](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-company-of-birds.jpg)
 <div style="background-color: white;"> White Ibis and Little Egrets, taken by Loke Wan Tho in India.<i> Images reproduced from Loke Wan Tho, Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds (Mumbai: Bombay Natural History Society, 2008), 140, 144</i>.</div>
 
-Besides birds, Loke also took photographs of Angkor, which were published in former governor Malcolm MacDonald’s book Angkor. Honoured by Cambodian premier Prince Norodom Sihanouk for his photography of Angkor sites, Loke was given the title of Officer of the Royal Order of Cambodia in 1959.[^13] 
+Besides birds, Loke also took photographs of Angkor, which were published in former governor Malcolm MacDonald’s book *Angkor*. The Cambodian premier Prince Norodom Sihanouk honoured Loke with the title of Officer of the Royal Order of Cambodia in 1959, for his photography of Angkor sites.[^13] 
 
 ![loke wan tho angkor ](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-wan-tho-angkor.jpg)
-<div style="background-color: white;"> Angkor Wat seen through the main entrance; gateway into Angkor Thom.<i> Images reproduced from Malcolm MacDonald, Angkor, with One Hundred and Twelve Photographs by Loke Wan Tho and the Author (London: Jonathan Cape, 1958), plates 54, 85</i>.</div>
+<div style="background-color: white;">Angkor Wat seen through the main entrance; gateway into Angkor Thom.<i> Images reproduced from Malcolm MacDonald, Angkor, with One Hundred and Twelve Photographs by Loke Wan Tho and the Author (London: Jonathan Cape, 1958), plates 54, 85</i>.</div>
 
 #### **A Legacy**
 While returning from a film festival in Taiwan, Loke and his wife Marvis Chew died in a plane crash on 20 June 1964. 
@@ -145,6 +145,6 @@ Wong Kee Hung, [oral history interview by Michelle Low](https://www.nas.gov.sg/a
 
 [^12] Loke, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)*, 53.
 
-[^13] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
+[^13] "[Cambodia Honours Mr. Loke](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590217-1.2.15)," *Singapore Free Press*, 17 February 1959, 2.
 
 [^14] “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10.
