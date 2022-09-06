@@ -5,7 +5,7 @@ description: ""
 ---
 #### Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.[^1] 
  
-Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a support of local sports, a photographer and an ornithologist. 
+Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter of local sports, a photographer and an ornithologist. 
 
 <img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%">
 <div style="background-color: white;"> Chua Mia Tee, Portrait of Dato Loke Wan Tho, Oil on canvass, 1995.<i> Singapore Art Museum 1995-03397</i>.</div>
