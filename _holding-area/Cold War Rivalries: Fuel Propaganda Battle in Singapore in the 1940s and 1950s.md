@@ -25,7 +25,6 @@ In the post-World War II era, the world was riven by great superpower rivalry, w
 
 <div style="text-align: right">– Soviet Union PremierJoseph Stalin, 1946</div>
 
-
 Film is a very powerful medium, and some of the earliest efforts by the Soviet Union relied on the power of film. In 1947, Director of Malayan Security Service John D. Dalley informed the Colonial Secretary in Singapore “that there is a campaign in Singapore to spread Soviet propaganda through films and periodicals”. In that year, two Soviet documentaries, *May 1st Celebrations* and *Festival of Youth*, were screened at the Jubilee Theatre in Singapore.[^5]
 
 The *Morning Tribune* reported that the documentary on the Soviet Union’s 1946 May Day celebrations in Moscow had highlights that included a gigantic military parade which was reviewed by Soviet Premier Joseph Stalin. The other film, *Festival of Youth*, focused on the “vitality and talent of the youths of Soviet Russia who participated in an all-day sports parade…” Both films were in technicolour, noted the newspaper. It added that they “compare very favourably with those from Hollywood in technique and production” and “should serve as an ‘eye-opener’ for those of us who know so little, except from book and news extracts, about a country which is branded as ‘Red’”.[^6]
@@ -44,7 +43,7 @@ The Soviet authorities also sent propaganda items to Russians living in Singapor
 
 “Proletarian literature and art are part of the whole proletarian revolutionary cause…”[^10]
 
-– Chinese Communist Party Chairman Mao Zedong, 1972
+<div style="text-align: right">– Chinese Communist Party Chairman Mao Zedong, 1972</div>
 
 After the establishment of the People’s Republic of China in 1949, Chairman Mao Zedong pledged to support global communist revolutionary movements. It would take a while but the effort would eventually take off. In 1959, a sessional paper from the Legislative Assembly of Singapore noted that “certain publishing houses – the majority of which are in mainland China – are consistently exporting to Singapore books, both ancient and modern, literary and scientific, which are tainted with Communist ideology”.[^11]
 
