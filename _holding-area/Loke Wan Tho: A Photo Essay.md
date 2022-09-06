@@ -14,18 +14,16 @@ Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a support of
 #### **The Mace of the City of Singapore**
 A prominent Chinese businessman in Singapore, Loke presented the Mace, an ancient symbol of constitutional authority, to the City Council on 31 March 1954. The occasion marked Singapore's status as a city, which was granted by King George VI in 1951 through a Royal Charter.[^1]
 
- 
-and the authority of the City Counci
-Singapore's status as a city
-[^6]
+![loke wan tho civic mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-mace.jpg)
+<div style="background-color: white;"> Loke Wan Tho speaking before presentation of the Mace to the City Council at City Hall, 31 March 1954. In the background, Goh Sin Zee (wearing white gloves) held the Mace.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980000899-0025</i>.</div>
 
-Loke said on the significance of the mace:
+Loke said on the significance of the mace:[^2]
 > This mace is a signpost in our recorded history, pointing I hope, to a greater and nobler Singapore.
 
+The knob of the four-foot, gold mace has the city's crest and figures of a Chinese, Malay, Indian and European symbolising the city's multi-ethnic population.[^3]
 
-![loke wan tho civic mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-mace.jpg)
-<div style="background-color: white;"> Loke Wan Tho speaking before presentation of the Mace to the City Council at City Hall, 31 March 1954. In the background, Goh Sin Zee (wearing white gloves) held the four-foot Mace.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980000899-0025</i>.</div>
-
+![loke wan tho mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/mace.jpg)
+<div style="background-color: white;"> The $15,000 Mace was made by Messrs Hamilton & Inches, Goldsmiths of Edinburgh. Loke was one of the committee members (including university professors and Raffles Museum staff) who suggested the design motifs. <i>National Museum of Singapore, accession no. 2003-00230-001</i>.</div>
 
 #### **A Pioneer in Local Film Production**
  In 1953, Loke Wan Tho set up Cathay-Keris with Ho Ah Loke, expanding the Cathay film distribution business into film production. Cathay-Keris was Singapore’s second film studio and was a competitor to Shaw’s Malay Film Productions. These were the only two film studios in Singapore for the next 20 years, which was known as the golden age of the studios.[^2] 
