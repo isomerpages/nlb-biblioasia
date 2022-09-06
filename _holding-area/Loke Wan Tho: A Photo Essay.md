@@ -83,10 +83,10 @@ While returning from a film festival in Taiwan, Loke and his wife Marvis Chew di
 ![loke wan tho funeral](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke%20funeral.jpg)
 <div style="background-color: white;">Mourners at Loke's funeral, 1964.<i> National Museum of Singapore, accession no. 2005-00964</i>.</div>
 
-After his passing, his family, donated $100,000 to establish the Loke Wan Tho Memorial Library at [Jurong Bird Park](/vol-17/issue-2/jul-sep-2021/jurong-bird-park) to encourage research on birds. The library was opened on 4 February 1972.[^14] 
+After his passing, his family, donated $100,000 to establish the Loke Wan Tho Memorial Library at [Jurong Bird Park](/vol-17/issue-2/jul-sep-2021/jurong-bird-park) to encourage research on birds. Opened on 4 February 1972, the library exhibits Loke’s book and photograph collection on birds, and tape recordings of bird songs. It .[^14] 
 
 ![loke wan tho memorial library](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-library.jpg)
-<div style="background-color: white;">The Loke Wan Tho Memorial Library exhibits Loke’s book and photograph collection on birds, and tape recordings of bird songs. It is visited by foreign dignitaries, including Foreign Secretary of the Philippines General Carlos Romulo during his three-day official visit to Singapore in December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980002752-0047</i>.</div>
+<div style="background-color: white;">The Loke Wan Tho Memorial Library is visited by foreign dignitaries, including Foreign Secretary of the Philippines General Carlos Romulo during his three-day official visit to Singapore in December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980002752-0047</i>.</div>
 
 #### **RELATED ARTICLES**
 Michael Mukunthan, "[Loke Wan Tho](https://eresources.nlb.gov.sg/infopedia/articles/SIP_782_2005-01-19.html)," <i>Singapore Infopedia</i>, 2016.
