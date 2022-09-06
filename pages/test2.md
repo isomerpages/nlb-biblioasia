@@ -31,3 +31,4 @@ description: ""
 
 [^14] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
 
+[^15]
