@@ -23,6 +23,9 @@ In July 1949, a group of volunteers, doctors and social workers came together to
 
 Sinha, who later became the association’s chairman, recalled that many poor women visited the clinics crying that they did not want any more children as they lacked money. In one case, a woman who had been pregnant 22 times “begged the doctors ‘to do something to stop it all’”, according to Goh Kok Kee, the president of the association. The woman already had 20 children and her husband was unemployed.[^5]
 
+![](/images/Vol%2018%20Issue%203/Family%20Planning/family.png)
+<div style="background-color: white;"> A mother with her five children, 1952. Large families were common in postwar Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Male attitudes were not helpful, as a 1950 *Malaya Tribune* article noted about a woman who had six children, two of whom had already been given away. “Her husband’s attitude was that he didn’t mind how many more children she had – they could always be given away, and she came begging that something could be done to prevent her having to have more children only to give them away.”[^6]
 
 Demand for the SFPA’s services was high and between 1949 and 1965, they grew from three clinics to 34. In those 16 years, almost 10,000 people sought and accepted family planning advice from the association. They could have possibly reached more women but being a non-profit private organisation, the association had limited resources and funds to keep up with demand.[^7] Nonetheless, the groundwork was laid for the next stage of family planning in Singapore. 
@@ -34,9 +37,6 @@ By 1957, the SFPA struggled to cope with demand for its clinical services and ap
 The paper announced the launch of the first five-year family planning programme with the slogan, “Family Planning for All”. It also revealed the twin objectives of improving the health and welfare of mother and child, and accelerating fertility decline to benefit the socioeconomic development of Singapore.[^9]
 
 In 1968, Prime Minister Lee Kuan Yew connected the issues of family planning, the growing population problem and the overall development for newly independent Singapore: “If we are to raise our standard of living, get away from poverty, filth and squalor, we must not only use modern science and technology to build the things we want. But also to prevent us from dragging ourselves to the ground by having too many in the family to care for.”[^10]
-
-![](/images/Vol%2018%20Issue%203/Family%20Planning/family.png)
-<div style="background-color: white;"> A mother with her five children, 1952. Large families were common in postwar Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In January 1966, the Singapore Family Planning and Population Board (SFPPB) was established to carry out all family planning and population matters in Singapore. It took over the family planning clinics managed by the SFPA, the majority of which were located within Maternal and Child Health (MCH) centres, and launched the National Family Planning and Population Programme that aimed to make family planning advice, supplies, and clinical services known and accessible to all.[^11]
 
