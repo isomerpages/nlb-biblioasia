@@ -28,16 +28,16 @@ To learn about moviemaking, Loke visited film studios in India in 1957 and invit
  <div style="background-color: white;"> Loke on the set of the mythological movie Jai Bajrangat Basant Pictures in India. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.</i></div>
 
 The Malay movies then were generally based on folk tales and legends (sg cinema p36). One of Cathay-Keris’s box office blockbuster is Hang Jebat, directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than villain.[^5] 
-
  ![hang jebat](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/hang%20jebat.jpg)
-<div style="background-color: white;">A scene from <i>Hang Jebat</i>, 1961. the film tells the legend of Hang Tuah and Hang Jebat. Hang Tuah is exiled by the Sultan, and Hang Jebat seeks revenge for him. <i>National Museum of Singapore, accession number 2005-01048</i></div>
+<div style="background-color: white;">A scene from <i>Hang Jebat</i>, 1961. The film tells the legend of Hang Tuah and Hang Jebat. Hang Jebat seeks revenge for Hang Tuah, who is exiled by the Sultan. <i>National Museum of Singapore, accession number 2005-01048</i></div>
 
 For his contributions to the film industry in Malaya, Loke Wan Tho was awarded the dato title in 1962. 
-
-**image dato**
+![loke wan tho dato](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/lokewantho-dato.jpg)
 <div style="background-color: white;">Dressed in traditional Malay costume baju melayu, Loke Wan Tho (second from left) was conferred the title of dato by the Sultan of Kelantan on 1 August 1962. <i> Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 28.</i></div>
 
-Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including four Pontianak movies. 
+Cathay closed its film production arm in 1972, because of competition from television and the loss of the Indonesian market. By then Cathay-Keris had produced at least 100 movies, including the cult classic *Pontianak* film (1957) and the subsequent Pontianak movies. 
+![Pontianak cathay keris](/images/Vol-13-issue-2/history-of-singapore-horror/04_sghorror.png)
+<div style="background-color: white;"> Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology, in B.N. Rao’s 1957 _Dendam Pontianak._ _© Dendam Pontianak._ Directed by B. Narayan Rao and produced by Cathay-Keris Films, 1957.<i>Singapore Art Museum 1995-03397</i></div>
 
 
 ##### MORE RESOURCES
