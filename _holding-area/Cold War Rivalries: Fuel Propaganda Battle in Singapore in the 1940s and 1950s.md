@@ -63,7 +63,7 @@ A significant quantity of communist materials published in China made its way in
 
 “We should adopt a new line in our foreign policy publicity designed to oppose the inroads of Communism by taking the offensive against it… and to give a lead to our friends abroad and help them in the anti-Communist struggle… to provide material for our anti-Communist publicity through our Missions and Information Services abroad. The fullest co-operation of the BBC Overseas Services would be desirable.”[^18]
 
-<div style="text-align: right">– British Foreign SecretaryErnest Bevin, 1948 </div>
+<div style="text-align: right">– British Foreign Secretary Ernest Bevin, 1948 </div>
 
 In response to the communist propaganda in Singapore, the British initiated a series of counter-measures. Besides banning the imports of communist films and literature, the government established the Anti-Communist Bureau to “stimulate active democratic sentiment and to endeavour to win over Communists and fellow travellers”.[^19] This bureau oversaw and implemented activities to counter the flow of communist propaganda.
 
