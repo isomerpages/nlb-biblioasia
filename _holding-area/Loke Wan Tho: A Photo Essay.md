@@ -138,7 +138,7 @@ Malcolm MacDonald, *[Angkor with One Hundred and Twelve Photographs by Loke Wan 
 
 [^12] Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008), 12. (From National Library, Singapore, call no. RSING 598.095 LOK)
 
-[^13] Loke,* Loke Wan Tho's Birds*, 53.
+[^13] Loke, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)*, 53.
 
 [^14] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
 
