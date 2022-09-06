@@ -58,6 +58,11 @@ Loke’s diary on the expeditions reveals his passion for ornithology:[^10]
 ![loke wan tho White Ibis and Little Egrets](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-company-of-birds.jpg)
 <div style="background-color: white;"> White Ibis and Little Egrets, taken by Loke Wan Tho in India.<i> Images reproduced from Loke Wan Tho, Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds (Mumbai: Bombay Natural History Society, 2008), 140, 144</i>.</div>
 
+Besides birds, Loke also took photographs of Angkor, which were published in former governor Malcolm MacDonald’s book Angkor. Honoured by Cambodian premier Prince Norodom Sihanouk for his photography of Angkor sites, Loke was given the title of Officer of the Royal Order of Cambodia in 1959.[^11] 
+
+![loke wan tho angkor ](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-wan-tho-angkor.jpg)
+<div style="background-color: white;"> Angkor Wat seen through the main entrance; gateway into Angkor Thom.<i> Images reproduced from Malcolm MacDonald, Angkor, with One Hundred and Twelve Photographs by Loke Wan Tho and the Author (London: Jonathan Cape, 1958), plates 54, 85</i>.</div>
+
 
 #### **MORE RESOURCES**
 
@@ -82,3 +87,5 @@ Loke’s diary on the expeditions reveals his passion for ornithology:[^10]
 [^9] Loke Wan Tho,* Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds* (Mumbai: Bombay Natural History Society, 2008), 12.
 
 [^10] Loke,* Loke Wan Tho's Birds*, 53.
+
+[^11] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
