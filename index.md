@@ -139,14 +139,16 @@ sections:
         The Singapore Airlines Story - Image 3.png"
       alt: singapore airlines history
   - infopic:
-      title: They Died for All Free Men
-      subtitle: war
-      description: The Kranji War Cemetery and Singapore Memorial are a solemn tribute
-        to those who died defending Singapore. 
-      button: Kranji War Cemetery
-      url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
-      image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
-      alt: "kranji war cemetery "
+      title: Manmade Tunnels and Caverns Underground in the City State
+      subtitle: Places
+      description: Singapore has been burrowing underground since the 19th century,
+        but it was only after Independence that serious efforts were made to use
+        subterranean space.
+      button: Subterranean Singapore
+      url: /vol-18/issue-2/jul-sep-2022/underground-space-singapore
+      image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
+        Image 1.png
+      alt: Subterranean Singapore
   - infopic:
       title: A History of Sennett Estate
       subtitle: Places
