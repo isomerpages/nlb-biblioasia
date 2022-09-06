@@ -110,7 +110,7 @@ Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A C
 
 Malcolm MacDonald, *[Angkor with One Hundred and Twelve Photographs by Loke Wan Tho and the Author](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4179272)* (London: Jonathan Cape , 1958). (From National Library, Singapore, call no. RCLOS 959.6 MAC)
 
-Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur: National Art Gallery, Malaysia, 2006).
+Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur: National Art Gallery, Malaysia, 2006). (From National Library, Singapore, call no. RART 779.074595 LOK)
 
 #### **ORAL HISTORY**
 [Christina Balsara, oral history interview by Patricia Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3188fc6a-1160-11e3-83d5-0050568939ad), 16 August 2001, disc 5 of 9, MP3 audio, 28:36, National Archives of Singapore (accession no. 002542).
@@ -122,7 +122,7 @@ Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collectio
 [Wong Kee Hung, oral history interview by Michelle Low](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9c41e71f-1160-11e3-83d5-0050568939ad), 21 October 2005, disc 5 of 6, transcript and MP3 audio, 58:04, National Archives of Singapore (accession no. 002986).
 
 #### **NOTES**
-[^1] Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7.
+[^1] Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7. (From National Library, Singapore, call no. RART 779.074595 LOK)
 
 [^2] Roots, "[The Mace of the City of Singapore](https://www.roots.gov.sg/Collection-Landing/listing/1108609)," National Heritage Board, last accessed 6 September 2022; "[Singapore Gets Its Civic Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540408-1.2.38)," *Straits Budget*, 8 April 1954, 10. (From NewspaperSG)
 
