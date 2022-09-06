@@ -43,7 +43,7 @@ Cathay closed its film production arm in 1972, because of competition from telev
 <div style="background-color: white;">Directed by B. Narayan Rao, the film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum 1995-03397</i>.</div>
 
 #### **Supporter of Local Sports**
-
+As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated 25,000 pounds to it. The centre opened in the old Kallang airport in January 1956.[^6] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^7]
 
 
 #### **MORE RESOURCES**
@@ -60,6 +60,6 @@ Cathay closed its film production arm in 1972, because of competition from telev
 
 [^5] Millet, *Singapore Cinema*, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65.
 
-[^6] 
+[^6] “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
 
-[^7] “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
+[^7] “[Loke Makes Personal Three-year agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
