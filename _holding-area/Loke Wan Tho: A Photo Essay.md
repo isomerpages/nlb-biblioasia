@@ -16,7 +16,7 @@ A prominent Chinese businessman in Singapore, Loke presented the Mace, an ancien
 ![loke wan tho civic mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-mace.jpg)
 <div style="background-color: white;"> Loke Wan Tho speaking before presentation of the Mace to the City Council at City Hall, 31 March 1954. In the background, Goh Sin Zee (wearing white gloves) held the Mace.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980000899-0025</i>.</div>
 
-Loke said on the significance of the mace:[^3]
+On the significance of the mace, Loke said:[^3]
 > This mace is a signpost in our recorded history, pointing I hope, to a greater and nobler Singapore.
 
 The knob of the four-foot, gold mace has the city's crest and figures of a Chinese, Malay, Indian and European symbolising the city's multi-ethnic population.[^4]
