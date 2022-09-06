@@ -14,7 +14,7 @@ Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter 
 A prominent Chinese businessman, Loke presented the mace, an ancient symbol of constitutional authority, to the City Council on 31 March 1954. The occasion marked Singapore's status as a city, which was granted by King George VI in 1951 through a Royal Charter.[^2]
 
 ![loke wan tho civic mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-mace.jpg)
-<div style="background-color: white;"> Loke Wan Tho speaking before presentation of the mace to the City Council at City Hall, 31 March 1954. In the background, Goh Sin Zee (wearing white gloves) held the mace.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980000899-0025</i>.</div>
+<div style="background-color: white;"> Loke Wan Tho speaking before presentation of the mace to the City Council at City Hall, 31 March 1954. In the background, Goh Sin Zee (wearing white gloves) held the mace. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980000899-0025</i>.</div>
 
 On the significance of the mace, Loke said:[^3]
 > This mace is a signpost in our recorded history, pointing I hope, to a greater and nobler Singapore.
@@ -38,7 +38,7 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 To learn about moviemaking, Loke visited film studios in India in 1957 and invited Hollywood actors to coach Cathay-Keris’s new actors. At that time, Malay cinema was influenced by Indian culture, as the two film studios hired Indian directors, who were better at making Malay films than their Chinese counterparts.[^7] 
 
 ![loke wan tho india](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-india.jpg)
-<div style="background-color: white;">Loke (second from right) on the set of the mythological movie <i>Jai Bajrangat</i> at Basant Pictures in India. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117</i>.</div>
+<div style="background-color: white;">Loke (second from right) on the set of the mythological movie <i>Jai Bajrangat</i> at Basant Pictures in India. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books, 1991), 117</i>.</div>
 
 The Malay movies then were generally based on folk tales and legends. One of Cathay-Keris’s box office blockbuster is *Hang Jebat* (1961), directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than the villain.[^8] 
 
