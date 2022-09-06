@@ -12,7 +12,7 @@ sections:
       background: /images/Vol 18 Issue 2/Kranji War Memorial/kranji war banner.jpg
       url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
       title: " "
-      button: They Died for All Free Men<br>Stories from Kranji War Cemetery
+      button: They Died for All Free Men
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
