@@ -84,8 +84,7 @@ The BBC radio station in Singapore was also used by Britain as a regional radio 
 Just as the British had the BBC, the US relied on the United States Information Service (USIS). This was a state agency that served the political interests of the American government, which included assisting in “the offensive campaign of truth against Communist propaganda”.[^26] To this end, the USIS launched a series of overseas information programmes under its cultural diplomacy initiative.[^27]
 
 ![](/images/Vol%2018%20Issue%203/Cold%20War/3_USIS.png)
-<div style="background-color: white;"> The United StatesInformation Service Library in Raffles Place, c. 1950s. <i>Courtesy of the U.S. Embassy in Singapore. </i>
-</div>
+<div style="background-color: white;"> The United States Information Service Library in Raffles Place, c. 1950s. <i>Courtesy of the U.S. Embassy in Singapore. </i></div>
 
 The Singapore branch of the USIS Library was officially opened on 2 May 1950 in Raffles Place. Its collection – consisting primarily of American books, newspapers and magazines – exposed the people in Singapore to American values and worldviews.[^28]
 
