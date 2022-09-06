@@ -89,7 +89,7 @@ After his passing, his family, donated $100,000 to establish the Loke Wan Tho Me
 <div style="background-color: white;">The Loke Wan Tho Memorial Library exhibits Loke’s book and photograph collection on birds, and tape recordings of bird songs. It is visited by foreign dignitaries, including Foreign Secretary of the Philippines General Carlos Romulo during his three-day official visit to Singapore in December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980002752-0047</i>.</div>
 
 #### **MORE RESOURCES**
-
+Singapore Infopedia 
 
 
 
@@ -102,13 +102,13 @@ After his passing, his family, donated $100,000 to establish the Loke Wan Tho Me
 
 [^4] "[S’pore’s Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540225-1.2.6)," *Straits Budget*, 25 February 1954, 5 (From NewspaperSG); Roots, "[The Mace of the City of Singapore, Singapore, 1953, Gold](https://www.roots.gov.sg/stories-landing/stories/the-singapore-story-through-60-objects/colonial/mace/story)," National Heritage Board, last accessed 6 September 2022.
 
-[^5] Raphaël Millet, *Singapore Cinema* (Singapore : Editions Didier Millet, 2006), 34, 37. 
+[^5] Raphaël Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore : Editions Didier Millet, 2006), 34, 37. 
 
-[^6] Millet, *Singapore Cinema*, 34.
+[^6] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34.
 
-[^7] Millet, *Singapore Cinema*, 34, 39; Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117.
+[^7] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34, 39; Lim Kay Tong,[*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore:Landmark Books,1991), 117.
 
-[^8] Millet, *Singapore Cinema*, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65.
+[^8] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65.
 
 [^9] “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
 
@@ -116,7 +116,7 @@ After his passing, his family, donated $100,000 to establish the Loke Wan Tho Me
 
 [^11] “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1.
 
-[^12] Loke Wan Tho,* Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds* (Mumbai: Bombay Natural History Society, 2008), 12.
+[^12] Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008), 12.
 
 [^13] Loke,* Loke Wan Tho's Birds*, 53.
 
