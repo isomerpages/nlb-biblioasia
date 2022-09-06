@@ -3,12 +3,29 @@ title: test2
 permalink: /testinging2/
 description: ""
 ---
-#### Loke Wan Tho (1915–64) was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.[^1] 
+#### Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.[^1] 
  
-Loke Wan Tho (1915–64) was a man with wide interests; he was a film magnate, a support of local sports, a photographer and an ornithologist. 
+Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a support of local sports, a photographer and an ornithologist. 
 
 <img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%">
 <div style="background-color: white;"> Chua Mia Tee, Portrait of Dato Loke Wan Tho, Oil on canvass, 1995.<i> Singapore Art Museum 1995-03397</i>.</div>
+
+
+#### **The Mace of the City of Singapore**
+A prominent Chinese businessman in Singapore, Loke presented the Mace, an ancient symbol of constitutional authority, to the City Council on 31 March 1954. The occasion marked Singapore's status as a city, which was granted by King George VI in 1951 through a Royal Charter.[^1]
+
+ 
+and the authority of the City Counci
+Singapore's status as a city
+[^6]
+
+Loke said on the significance of the mace:
+> This mace is a signpost in our recorded history, pointing I hope, to a greater and nobler Singapore.
+
+
+![loke wan tho civic mace](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-mace.jpg)
+<div style="background-color: white;"> Loke Wan Tho speaking before presentation of the Mace to the City Council at City Hall, 31 March 1954. In the background, Goh Sin Zee (wearing white gloves) held the four-foot Mace.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980000899-0025</i>.</div>
+
 
 #### **A Pioneer in Local Film Production**
  In 1953, Loke Wan Tho set up Cathay-Keris with Ho Ah Loke, expanding the Cathay film distribution business into film production. Cathay-Keris was Singapore’s second film studio and was a competitor to Shaw’s Malay Film Productions. These were the only two film studios in Singapore for the next 20 years, which was known as the golden age of the studios.[^2] 
@@ -42,8 +59,9 @@ Cathay closed its film production arm in 1972, because of competition from telev
 ![Pontianak cathay keris](/images/Vol-13-issue-2/history-of-singapore-horror/04_sghorror.png)
 <div style="background-color: white;">Directed by B. Narayan Rao, the film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum 1995-03397</i>.</div>
 
+
 #### **Supporter of Local Sports**
-As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated 25,000 pounds to it. The centre opened in the old Kallang airport in January 1956.[^6] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^7]
+As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated $25,000 to it. The centre opened in the old Kallang airport in January 1956.[^6] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^7]
 
 ![loke wan tho sports centre](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-sports-centre.jpg)
 <div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.[^8]<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
@@ -62,12 +80,6 @@ Besides birds, Loke also took photographs of Angkor, which were published in for
 
 ![loke wan tho angkor ](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-wan-tho-angkor.jpg)
 <div style="background-color: white;"> Angkor Wat seen through the main entrance; gateway into Angkor Thom.<i> Images reproduced from Malcolm MacDonald, Angkor, with One Hundred and Twelve Photographs by Loke Wan Tho and the Author (London: Jonathan Cape, 1958), plates 54, 85</i>.</div>
-
-#### **The Mace of the City of Singapore**
-
-
-> This mace is a signpost in our recorded history, pointing I hope, to a greater and nobler Singapore.
-
 
 #### **A Legacy**
 While returning from a film festival in Taiwan, Loke and his wife Marvis Chew died in a plane crash on 20 June 1964. 
