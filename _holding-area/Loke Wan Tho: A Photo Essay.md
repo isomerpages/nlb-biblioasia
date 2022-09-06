@@ -38,7 +38,7 @@ Cathay-Keris focused on Malay films, as Malaya had a fast-expanding film market.
 To learn about moviemaking, Loke visited film studios in India in 1957 and invited Hollywood actors to coach Cathay-Keris’s new actors. At that time, Malay cinema was influenced by Indian culture, as the two film studios hired Indian directors, who were better at making Malay films than their Chinese counterparts.[^7] 
 
 ![loke wan tho india](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-india.jpg)
-<div style="background-color: white;"> Loke on the set of the mythological movie <i>Jai Bajrangat</i> at Basant Pictures in India. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117</i>.</div>
+<div style="background-color: white;">Loke (second from right) on the set of the mythological movie <i>Jai Bajrangat</i> at Basant Pictures in India. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore:Landmark Books,1991), 117</i>.</div>
 
 The Malay movies then were generally based on folk tales and legends. One of Cathay-Keris’s box office blockbuster is *Hang Jebat* (1961), directed by Hussian Haniff. The movie was noted for its cinematic qualities and revisionist approach to Malay classical history, portraying Hang Jebat as the hero rather than the villain.[^8] 
 
