@@ -23,8 +23,8 @@ In the post-World War II era, the world was riven by great superpower rivalry, w
 
 “Soviet social system has proved to be a more viable and stable than the non-Soviet social system, that the Soviet social system is a better form of organisation of society than any non-Soviet social system.”[^4]
 
-– Soviet Union Premier
-Joseph Stalin, 1946
+<div style="text-align: right">– Soviet Union PremierJoseph Stalin, 1946</div>
+
 
 Film is a very powerful medium, and some of the earliest efforts by the Soviet Union relied on the power of film. In 1947, Director of Malayan Security Service John D. Dalley informed the Colonial Secretary in Singapore “that there is a campaign in Singapore to spread Soviet propaganda through films and periodicals”. In that year, two Soviet documentaries, *May 1st Celebrations* and *Festival of Youth*, were screened at the Jubilee Theatre in Singapore.[^5]
 
