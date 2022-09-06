@@ -60,19 +60,19 @@ Cathay closed its film production arm in 1972, because of competition from telev
 As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated $25,000 to it. The centre opened in the old Kallang airport in January 1956.[^9] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^10]
 
 ![loke wan tho sports centre](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-sports-centre.jpg)
-<div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.[^11]<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 #### **An Acclaimed Photographer**
-Loke took birding expeditions in India and New Guinea with famous Indian ornithologist Salim Ali. According to Salim Ali, Loke was always cheerful and had never once complained on their field trips, even in cowsheds, in rough living conditions, or of his dysentery.[^12]   
+Loke took birding expeditions in India and New Guinea with famous Indian ornithologist Salim Ali. According to Salim Ali, Loke was always cheerful and had never once complained on their field trips, even in cowsheds, in rough living conditions, or of his dysentery.[^11]   
  
-Loke’s diary on the expeditions reveals his passion for ornithology:[^13] 
+Loke’s diary on the expeditions reveals his passion for ornithology:[^12] 
 
 > The scene of immense activity is thrilling to look at, and to hear. When the White Ibis and the Little Egrets are back in the Heronry at evening time, it looks as if a snowstorm is blowing about the tree tops.
 
 ![loke wan tho White Ibis and Little Egrets](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-company-of-birds.jpg)
 <div style="background-color: white;"> White Ibis and Little Egrets, taken by Loke Wan Tho in India.<i> Images reproduced from Loke Wan Tho, Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds (Mumbai: Bombay Natural History Society, 2008), 140, 144</i>.</div>
 
-Besides birds, Loke also took photographs of Angkor, which were published in former governor Malcolm MacDonald’s book Angkor. Honoured by Cambodian premier Prince Norodom Sihanouk for his photography of Angkor sites, Loke was given the title of Officer of the Royal Order of Cambodia in 1959.[^14] 
+Besides birds, Loke also took photographs of Angkor, which were published in former governor Malcolm MacDonald’s book Angkor. Honoured by Cambodian premier Prince Norodom Sihanouk for his photography of Angkor sites, Loke was given the title of Officer of the Royal Order of Cambodia in 1959.[^13] 
 
 ![loke wan tho angkor ](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-wan-tho-angkor.jpg)
 <div style="background-color: white;"> Angkor Wat seen through the main entrance; gateway into Angkor Thom.<i> Images reproduced from Malcolm MacDonald, Angkor, with One Hundred and Twelve Photographs by Loke Wan Tho and the Author (London: Jonathan Cape, 1958), plates 54, 85</i>.</div>
@@ -83,7 +83,7 @@ While returning from a film festival in Taiwan, Loke and his wife Marvis Chew di
 ![loke wan tho funeral](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke%20funeral.jpg)
 <div style="background-color: white;">Mourners at Loke's funeral, 1964.<i> National Museum of Singapore, accession no. 2005-00964</i>.</div>
 
-After his passing, his family, donated $100,000 to establish the Loke Wan Tho Memorial Library at Jurong Bird Park to encourage research on birds. The library was opened on 4 February 1972.[^15] 
+After his passing, his family, donated $100,000 to establish the Loke Wan Tho Memorial Library at Jurong Bird Park to encourage research on birds. The library was opened on 4 February 1972.[^14] 
 
 ![loke wan tho memorial library](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-library.jpg)
 <div style="background-color: white;">The Loke Wan Tho Memorial Library exhibits Loke’s book and photograph collection on birds, and tape recordings of bird songs. It is visited by foreign dignitaries, including Foreign Secretary of the Philippines General Carlos Romulo during his three-day official visit to Singapore in December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980002752-0047</i>.</div>
@@ -139,14 +139,12 @@ Wong Kee Hung, [oral history interview by Michelle Low](https://www.nas.gov.sg/a
 
 [^9] “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
 
-[^10] “[Loke Makes Personal Three-year agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
+[^10] “[Loke Makes Personal Three-year agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20; “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1. (From NewspaperSG)
 
-[^11] “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1.
+[^11] Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008), 12. (From National Library, Singapore, call no. RSING 598.095 LOK)
 
-[^12] Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008), 12. (From National Library, Singapore, call no. RSING 598.095 LOK)
+[^12] Loke, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)*, 53.
 
-[^13] Loke, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)*, 53.
+[^13] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
 
-[^14] "Cambodia Honours Mr. Loke," *Singapore Free Press*, 17 February 1959, 2.
-
-[^15] “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10.
+[^14] “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10.
