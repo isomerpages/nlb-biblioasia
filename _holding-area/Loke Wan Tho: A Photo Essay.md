@@ -55,12 +55,12 @@ Cathay closed its film production arm in 1972, because of competition from telev
 ![Pontianak cathay keris](/images/Vol-13-issue-2/history-of-singapore-horror/04_sghorror.png)
 <div style="background-color: white;">Directed by B. Narayan Rao, the *Pontianak* film starred Maria Menado as the <i>pontianak</i>, a female vampire from Malay mythology. Following the success of the film, Cathay-Keris followed up with three sequels: <i>Dandam Pontianak</i> (1957), <i>Sumpah Pontianak</i> (1958) and <i>Pontianak Gua Musang</i> (1964).<i> Singapore Art Museum accession no. 1995-03397</i>.</div>
 
-
-#### **Supporter of Local Sports**
+#### **A Supporter of Local Sports**
 As the chairman of the Sports Centre Fund appeal committee, Loke helped to accelerate plans to build Singapore’s youth sports centre and donated $25,000 to it. The centre opened in the old Kallang airport in January 1956.[^9] Loke also hired Wong Peng Soon, Malaya’s top badminton player, as a coach at the centre, and funded his salary for three years. [^10]
 
 ![loke wan tho sports centre](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-sports-centre.jpg)
-<div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;"> Loke speaking at the opening of the centre in old Kallang airport, January 1956. The centre would provide training in swimming, boxing, basketball, athletics, etc.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no.   
+19980001290-0018</i>.</div>
 
 #### **An Acclaimed Photographer**
 Loke took birding expeditions in India and New Guinea with famous Indian ornithologist Salim Ali. According to Salim Ali, Loke was always cheerful and had never once complained on their field trips, even in cowsheds, in rough living conditions, or of his dysentery.[^11]   
@@ -83,7 +83,7 @@ While returning from a film festival in Taiwan, Loke and his wife Marvis Chew di
 ![loke wan tho funeral](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke%20funeral.jpg)
 <div style="background-color: white;">Mourners at Loke's funeral, 1964.<i> National Museum of Singapore, accession no. 2005-00964</i>.</div>
 
-After his passing, his family, donated $100,000 to establish the Loke Wan Tho Memorial Library at [Jurong Bird Park](/vol-17/issue-2/jul-sep-2021/jurong-bird-park) to encourage research on birds. Opened on 4 February 1972, the library exhibits Loke’s collection of books and photographs on birds, and tape recordings of bird songs. It .[^14] 
+After his passing, his family, donated $100,000 to establish the Loke Wan Tho Memorial Library at [Jurong Bird Park](/vol-17/issue-2/jul-sep-2021/jurong-bird-park) to encourage research on birds. Opened on 4 February 1972, the library exhibits Loke’s collection of books and photographs on birds, and tape recordings of bird songs.[^14] 
 
 ![loke wan tho memorial library](/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke-library.jpg)
 <div style="background-color: white;">The Loke Wan Tho Memorial Library is visited by foreign dignitaries, including Foreign Secretary of the Philippines General Carlos Romulo during his three-day official visit to Singapore in December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980002752-0047</i>.</div>
