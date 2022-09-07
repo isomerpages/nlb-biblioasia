@@ -23,8 +23,7 @@ In the post-World War II era, the world was riven by great superpower rivalry, w
 
 “Soviet social system has proved to be a more viable and stable than the non-Soviet social system, that the Soviet social system is a better form of organisation of society than any non-Soviet social system.”[^4]
 
-– Soviet Union Premier
-Joseph Stalin, 1946
+<div style="text-align: right">– Soviet Union PremierJoseph Stalin, 1946</div>
 
 Film is a very powerful medium, and some of the earliest efforts by the Soviet Union relied on the power of film. In 1947, Director of Malayan Security Service John D. Dalley informed the Colonial Secretary in Singapore “that there is a campaign in Singapore to spread Soviet propaganda through films and periodicals”. In that year, two Soviet documentaries, *May 1st Celebrations* and *Festival of Youth*, were screened at the Jubilee Theatre in Singapore.[^5]
 
@@ -44,7 +43,7 @@ The Soviet authorities also sent propaganda items to Russians living in Singapor
 
 “Proletarian literature and art are part of the whole proletarian revolutionary cause…”[^10]
 
-– Chinese Communist Party Chairman Mao Zedong, 1972
+<div style="text-align: right">– Chinese Communist Party Chairman Mao Zedong, 1972</div>
 
 After the establishment of the People’s Republic of China in 1949, Chairman Mao Zedong pledged to support global communist revolutionary movements. It would take a while but the effort would eventually take off. In 1959, a sessional paper from the Legislative Assembly of Singapore noted that “certain publishing houses – the majority of which are in mainland China – are consistently exporting to Singapore books, both ancient and modern, literary and scientific, which are tainted with Communist ideology”.[^11]
 
@@ -54,7 +53,7 @@ The dictionary’s definition for the Chinese Communist Party (“共產黨”) 
 
 Another Chinese-English dictionary highlighted was 新華字典 (*Sin Hwa Dictionary*), which was published by the People’s Education Publishing House in Peking (now Beijing). It defined the characters “擺脫” to mean “get rid of” and gave the example: “Today, one third of the whole human race have already got rid of the oppression of capitalism.” The character “蔑” was translated to mean “look down upon” and the example given was: “We must look down upon American imperialism.” “共產主義”, which means “Communism”, was defined as “the highest stage in the development of human society”.[^14]
 
-Dictionaries were not the only focus. The book, *Singing and Acting for Young Children* Vol IV, had songs with lyrics that glorified the success of communism in China such as “The entire China wants liberation” and “Equality and freedom in New China”.[^15]
+Dictionaries were not the only focus. The book, *Singing and Acting for Young Children Vol IV*, had songs with lyrics that glorified the success of communism in China such as “The entire China wants liberation” and “Equality and freedom in New China”.[^15]
 
 China also produced literature in support of the Malayan Communist Party (MCP) during the Malayan Emergency period. The educational book in English, simply titled *Malaya*, sought to get readers to sympathise with the MCP and to support their efforts. The book noted that the party had to go underground in 1948 because “of the persecution of the British imperialists. Following this it initiated and led armed resistance against the British in the struggle for national liberation… the MCP has been carrying on its struggle against enslavement and colonial rule”.[^16]
 
@@ -64,8 +63,7 @@ A significant quantity of communist materials published in China made its way in
 
 “We should adopt a new line in our foreign policy publicity designed to oppose the inroads of Communism by taking the offensive against it… and to give a lead to our friends abroad and help them in the anti-Communist struggle… to provide material for our anti-Communist publicity through our Missions and Information Services abroad. The fullest co-operation of the BBC Overseas Services would be desirable.”[^18]
 
-– British Foreign Secretary
-Ernest Bevin, 1948 
+<div style="text-align: right">– British Foreign Secretary Ernest Bevin, 1948 </div>
 
 In response to the communist propaganda in Singapore, the British initiated a series of counter-measures. Besides banning the imports of communist films and literature, the government established the Anti-Communist Bureau to “stimulate active democratic sentiment and to endeavour to win over Communists and fellow travellers”.[^19] This bureau oversaw and implemented activities to counter the flow of communist propaganda.
 
@@ -77,18 +75,20 @@ The BBC accepted an invitation from the United Kingdom government to establish i
 
 The BBC radio station in Singapore was also used by Britain as a regional radio base to broadcast anti-communist information across Asia. As the *Straits Times* noted in 1949: “It was the intention to build a new station which was to become the Voice of Britain in Asia, radiating programmes to the entire Far East- from Japan to India… Obviously the campaign against Communism in Asia must be fought in Asia… If the radio weapon is to be of real use to Britain, and to Malaya, then the main broadcasts must have their origin in Singapore…”[^24]
 
-#### **The United StatesInformation Service**
+![](/images/Vol%2018%20Issue%203/Cold%20War/4_Sergeant.png)
+<div style="background-color: white;"> Sergeant Danny Bulpett of the Royal Marine Commandos at the British Broadcasting Corporation studio in Singapore, where he was delivering Christmas greetings at the first live radio connection between Singapore and London, 1950. He was in Malaya on anti-riot duty during the Malayan Emergency. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
+</div>
+
+#### **The United States Information Service**
 
 “We must make ourselves known as we really are – not as Communist propaganda pictures us. … We must make ourselves heard round the world in a great campaign of truth.”[^25]
 
-– United States President
-Harry Truman, 1950
+<div style="text-align: right">– United States President Harry Truman, 1950</div>
 
 Just as the British had the BBC, the US relied on the United States Information Service (USIS). This was a state agency that served the political interests of the American government, which included assisting in “the offensive campaign of truth against Communist propaganda”.[^26] To this end, the USIS launched a series of overseas information programmes under its cultural diplomacy initiative.[^27]
 
 ![](/images/Vol%2018%20Issue%203/Cold%20War/3_USIS.png)
-<div style="background-color: white;"> The United StatesInformation Service Library in Raffles Place, c. 1950s. <i>Courtesy of the U.S. Embassy in Singapore. </i>
-</div>
+<div style="background-color: white;"> The United States Information Service Library in Raffles Place, c. 1950s. <i>Courtesy of the U.S. Embassy in Singapore. </i></div>
 
 The Singapore branch of the USIS Library was officially opened on 2 May 1950 in Raffles Place. Its collection – consisting primarily of American books, newspapers and magazines – exposed the people in Singapore to American values and worldviews.[^28]
 
@@ -105,10 +105,6 @@ Besides *Kampong Sentosa*, the USIS also developed its own documentaries for pub
 #### **Immense and Intense**
 
 The Cold War period was a major period of geopolitical tension that played out in various spheres: military, economic, political and culture. Given that both the US and the Soviet Union were superpowers, it is fortunate that they never escalated into a nuclear war, though the world certainly came close with events such as the Cuban Missile Crisis.[^33]
-
-![](/images/Vol%2018%20Issue%203/Cold%20War/4_Sergeant.png)
-<div style="background-color: white;"> Sergeant Danny Bulpett of the Royal Marine Commandos at the British Broadcasting Corporation studio in Singapore, where he was delivering Christmas greetings at the first live radio connection between Singapore and London, 1950. He was in Malaya on anti-riot duty during the Malayan Emergency. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
-</div>
 
 While hard power – measured by the size of armies and nuclear arsenals –  was important, soft power was just as crucial. The propaganda battle was an integral component of the Cold War as both blocs vied for influence. They leveraged print, radio and films to promote their own point of view and undermine those of their ideological opponents. This battle played out throughout the world, and Singapore was very much part of the battleground.
 
@@ -160,13 +156,13 @@ While hard power – measured by the size of armies and nuclear arsenals –  wa
 
 [^21]: “Anti-Communist Bureau,” in the National Archives (United Kingdom), [*Singapore. Counter-Communist Education. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/da74249d-d660-11e3-acbd-0050568939ad), 31 January 1950, 1. (From National Archives of Singapore, accession no. FCO 141/14400)
 
-[^22]: John Jenks, B*ritish Propaganda and News Media in the Cold War* (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
+[^22]: John Jenks, *British Propaganda and News Media in the Cold War* (Edinburgh: Edinburgh University Press, 2006), 21, 91. (From ProQuest Ebook Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
 [^23]: “[BBC to Control S’pore Station](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470612-1.2.108),” *Straits Budget*, 12 June 1947, 16; “[Two Radio Stations](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490829-1.2.53),” *Straits Times*, 29 August 1949, 4; “[BBC Having a Contest This Month](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501205-1.2.65),” *Singapore Free Press*, 5 December 1950, 4. (From NewspaperSG)
 
 [^24]: “[Two Radio Stations](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490829-1.2.53).”
 
-[^25]: Nicholas J. Cull, [*The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13212794), 1945–1989 (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
+[^25]: Nicholas J. Cull, [*The Cold War and the United States Information Agency: American Propaganda and Public Diplomacy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13212794)*, 1945–1989* (Cambridge: Cambridge University Press, 2008), 55. (From National Library, Singapore, call no. R327.11 CUL)
 
 [^26]: “Letter Sent from Office of the Commissioner General for the United Kingdom in Southeast Asia to J.C. Barry, ESQ., who is Deputy Secretary for Defense and Internal Security in Colonial Secretary’s Office in Singapore,” in the National Archives (United Kingdom), [*Singapore. United States Information Services (USIS) activities in Singapore and the Federation of Malaya, Proposal for a field study in Malaya by the Bureau of Applied Social Research of Columbia University. Secret – Migrated Archives*](https://www.nas.gov.sg/archivesonline/private_records/record-details/dc324cee-d660-11e3-acbd-0050568939ad), 8 August 1951. (From National Archives of Singapore, accession no. FCO 141/14533)
 
