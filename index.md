@@ -261,4 +261,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: "Loke Wan Tho: The Man Who Built Cathay"
+      subtitle: People
+      description: While best known as a giant in the movie business in Malaya, Loke
+        Wan Tho was also passionate about bird photography and the arts
+      button: A renaissance man
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      image: /images/Loke Wan Tho portrait.jpg
+      alt: Loke Wan Tho
 ---
