@@ -5,8 +5,6 @@ description: While best known as a giant in the movie business in Malaya, Loke
   Wan Tho was also passionate about bird photography and the arts.
 image: /images/Vol 18 Issue 3/Loke Wan Tho/1_Loke Portrait.png
 ---
-
-
 #### While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 By Bonny Tan
 
@@ -145,7 +143,7 @@ The Loke Wan Tho Memorial Library was opened in 1972 at Jurong Bird Park, with a
 
 Loke’s name also lives on in Wan Tho Avenue in Sennett Estate and the Loke Wan Tho Gallery at the Selegie Arts Centre.[^38] The gallery was launched in 1996 thanks to his contributions to the Photographic Society of Singapore and to commemorate his breadth of work in the field.[^39] In death, as in life, Loke has continued to make his mark.
 
-More resources on Loke Wan Tho and Cathay are available here.
+More resources on Loke Wan Tho and Cathay are available [here](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema).
 
 <div style="background-color: white;">
 <img src="/images/Vol%2018%20Issue%203/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/><b>Bonny Tan </b>is a former Senior Librarian at the National Library, Singapore. She currently lives in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i>.</div>
