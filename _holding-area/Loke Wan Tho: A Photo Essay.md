@@ -122,30 +122,30 @@ Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collectio
 [Wong Kee Hung, oral history interview by Michelle Low](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9c41e71f-1160-11e3-83d5-0050568939ad), 21 October 2005, disc 5 of 6, transcript and MP3 audio, 58:04, National Archives of Singapore (accession no. 002986).
 
 #### **NOTES**
-[^1] Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7. (From National Library, Singapore, call no. RART 779.074595 LOK)
+[^1]: Balai Seni Lukis Negara (Malaysia), *[The Loke Legacy: The Photography Collection of Dato' Loke Wan Tho](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12611306)* (Kuala Lumpur: National Art Gallery, Malaysia, 2006), 7. (From National Library, Singapore, call no. RART 779.074595 LOK)
 
-[^2] Roots, "[The Mace of the City of Singapore](https://www.roots.gov.sg/Collection-Landing/listing/1108609)," National Heritage Board, last accessed 6 September 2022; "[Singapore Gets Its Civic Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540408-1.2.38)," *Straits Budget*, 8 April 1954, 10. (From NewspaperSG)
+[^2]: Roots, "[The Mace of the City of Singapore](https://www.roots.gov.sg/Collection-Landing/listing/1108609)," National Heritage Board, last accessed 6 September 2022; "[Singapore Gets Its Civic Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540408-1.2.38)," *Straits Budget*, 8 April 1954, 10. (From NewspaperSG)
 
-[^3] "[Singapore Gets Its Civic Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540408-1.2.38)."
+[^3]: "[Singapore Gets Its Civic Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540408-1.2.38)."
 
-[^4] "[S’pore’s Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540225-1.2.6)," *Straits Budget*, 25 February 1954, 5 (From NewspaperSG); Roots, "[The Mace of the City of Singapore, Singapore, 1953, Gold](https://www.roots.gov.sg/stories-landing/stories/the-singapore-story-through-60-objects/colonial/mace/story)," National Heritage Board, last accessed 6 September 2022.
+[^4]: "[S’pore’s Mace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540225-1.2.6)," *Straits Budget*, 25 February 1954, 5 (From NewspaperSG); Roots, "[The Mace of the City of Singapore, Singapore, 1953, Gold](https://www.roots.gov.sg/stories-landing/stories/the-singapore-story-through-60-objects/colonial/mace/story)," National Heritage Board, last accessed 6 September 2022.
 
-[^5] Raphaël Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore : Editions Didier Millet, 2006), 34, 37. (From National Library, Singapore, call no. RSING 791.43095957 MIL)
+[^5]: Raphaël Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)* (Singapore : Editions Didier Millet, 2006), 34, 37. (From National Library, Singapore, call no. RSING 791.43095957 MIL)
 
-[^6] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34.
+[^6]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34.
 
-[^7] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34, 39; Lim Kay Tong,[*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore:Landmark Books,1991), 117. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
+[^7]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 34, 39; Lim Kay Tong,[*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore:Landmark Books,1991), 117. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
 
-[^8] Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 36, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65. (From JSTOR via NLB's [eresources](https://eresources.nlb.gov.sg/main) website)
+[^8]: Millet, *[Singapore Cinema](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12716044)*, 36, 51; Nancy K. Nanney, “Evolution of a Hero: The Hang Tuah/Hang Jebat Tale in Malay Drama,” *Asian Theatre Journal* 5, no. 2 (Autumn 1988): 164–65. (From JSTOR via NLB's [eresources](https://eresources.nlb.gov.sg/main) website)
 
-[^9] “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
+[^9]: “[Speed-up at Youth Sports Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560305-1.2.90 ),” *Straits Times*, 5 March 1956, 7; “[Loke Makes Personal Three-year Agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20. (From NewspaperSG)
 
-[^10] “[Loke Makes Personal Three-year agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20; “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1. (From NewspaperSG)
+[^10]: “[Loke Makes Personal Three-year agreement with Malayan Ace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551009-1.2.155),” *Straits Times*, 9 October 1955, 20; “[Kallang May Be the Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550829-1.2.22),” *Straits Times*, 29 August 1955, 1. (From NewspaperSG)
 
-[^11] Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008), 12. (From National Library, Singapore, call no. RSING 598.095 LOK)
+[^11]: Loke Wan Tho, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)* (Mumbai: Bombay Natural History Society, 2008), 12. (From National Library, Singapore, call no. RSING 598.095 LOK)
 
-[^12] Loke, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)*, 53.
+[^12]: Loke, *[Loke Wan Tho's Birds with Extracts from His Diaries and from A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516495)*, 53.
 
-[^13] "[Cambodia Honours Mr. Loke](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590217-1.2.15)," *Singapore Free Press*, 17 February 1959, 2.
+[^13]: "[Cambodia Honours Mr. Loke](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590217-1.2.15)," *Singapore Free Press*, 17 February 1959, 2.
 
-[^14] “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10.
+[^14]: “[Loke Wan Tho Library to Open on Feb 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720122-1.2.50),” *Straits Times*, 22 January 1972, 10.
