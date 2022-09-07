@@ -18,6 +18,15 @@ sections:
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
   - infopic:
+      title: "Loke Wan Tho: The Man Who Built Cathay"
+      subtitle: People
+      description: While best known as a giant in the movie business in Malaya, Loke
+        Wan Tho was also passionate about bird photography and the arts
+      button: A renaissance man
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      image: /images/Loke Wan Tho portrait.jpg
+      alt: Loke Wan Tho
+  - infopic:
       title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
       description: "During World War II, forced civilian labourers known as
