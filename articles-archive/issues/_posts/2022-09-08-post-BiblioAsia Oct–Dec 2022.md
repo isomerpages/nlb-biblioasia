@@ -25,7 +25,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">Union Book Stands Tall At 70</a><br>Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. *Chen Yuxin*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Buddhist%20Nuns.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a><br>The 1970s saw communist bombings and assassination plots in Singapore. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_RedTerror.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a><br>After World War II, Singapore was a battleground for ideological conflict between the Soviet Union and the United States. *Chow Chia Yung*. [(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_RedTerror.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines">A Great Way to Fly: The Singapore Airlines Story</a><br>SIA has earned a reputation for its impeccable service standards and luxurious in-flight experiences. *Ang Seow Leng*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_SIA.pdf)
 
