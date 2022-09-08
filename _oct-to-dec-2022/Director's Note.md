@@ -18,7 +18,7 @@ weaves in personal history and relentless detective work to bring us a deeply mo
 story about how her [grandfather survived working on the Thai-Burma Railway](/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway).
 
 On a happier note, we have a quirky story about an island resort that predated
-Sentosa – Sarong Island. Librarian Lim Tin Seng delves into a forgotten chapter in
+Sentosa – [Sarong Island](/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore). Librarian Lim Tin Seng delves into a forgotten chapter in
 Singapore’s history.
 
 Another fascinating piece recounts how Johor ended up exhibiting at the 1893
