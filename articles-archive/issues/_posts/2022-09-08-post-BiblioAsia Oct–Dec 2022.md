@@ -27,4 +27,4 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a><br>After World War II, Singapore was a battleground for ideological conflict between the Soviet Union and the United States. *Chow Chia Yung*. (PDF)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines">Loke Wan Tho: The Man Who Built Cathay</a><br>Loke Wan Tho was not your typical business tycoon. The film magnate behind Cathay was also an avid photographer of birds. *Bonny Tan*.(PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a><br>Loke Wan Tho was not your typical business tycoon. The film magnate behind Cathay was also an avid photographer of birds. *Bonny Tan*.(PDF)
