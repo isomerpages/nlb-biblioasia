@@ -3,20 +3,40 @@ title: Director's Note
 permalink: /vol-18/issue-3/oct-to-dec-2022/director-note/
 description: ""
 ---
+One of the wonderful things about Singapore is our multicultural society which allows
+us to easily experience the culture of others, whether it is the Chinese Mid-Autumn
+Festival or a Malay wedding. One of the more colourful examples is Theemithi, the
+annual firewalking festival held at the Sri Mariamman Temple on South Bridge Road.
+(It takes place on the Sunday before Deepavali.)
 
-One of the pleasures of working in the National Library is that we are located in the Bugis area. There are plenty of shopping and eating options all within walking distance. As you might have guessed, Bugis Street got its name from the Bugis who came to Singapore and settled in the area. But what you may not know is that the Bugis settlement dates back to the 1820s and sprang from a misunderstanding during a royal wedding in Riau. Benjamin J.Q. Khoo’s lively essay takes us back 200 years to a [wedding celebration gone terribly wrong](/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau) that arguably altered the course for Singapore. 
+While many people know about the firewalking, few understand its significance
+and or why it even takes place. For an insider’s take on Theemithi, don’t miss curator Nalina Gopal’s deep dive into the festival, accompanied by some amazing photographs.
 
-The National Library is also not far from one of the deepest [underground places](/vol-18/issue-2/jul-sep-2022/underground-space-singapore) you can publicly access: Bencoolen MRT station. At 43 metres below the surface, this is Singapore’s deepest MRT station. Modern technology allows us to burrow deep but even in the mid-19th century, people were already creating structures below the surface, as Lim Tin Seng uncovers.
+In this issue, we continue to commemorate the 80th anniversary of the fall of
+Singapore, this time with an essay by writer Shirlene Noordin. This is a piece that
+weaves in personal history and relentless detective work to bring us a deeply moving
+story about how her grandfather survived working on the Thai-Burma Railway.
 
-This year being the 80th anniversary of the Fall of Singapore, we have two essays about World War II. In the first piece, Janice Loo visits the [Kranji War Cemetery](/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery) and writes movingly about those buried or remembered there. The other essay by Lee Meiyu and Seow Peck Ngiam is in Chinese, and looks at the [items relating to the Japanese Occupation](/jul-to-sep-2022/National-Library-Japanese-Occupation-collection) period that have been donated to the National Library.
+On a happier note, we have a quirky story about an island resort that predated
+Sentosa – Sarong Island. Librarian Lim Tin Seng delves into a forgotten chapter in
+Singapore’s history.
 
-While on the subject of violence, we also have a story by Choo Ruizhi on the acts of terror committed in Singapore by the [Communist Party of Malaya](/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore). While most people are aware of the Malayan Emergency, and of the tumultuous decade of the 1960s, few remember that the Communist Party was also active in the 1970s. 
+Another fascinating piece recounts how Johor ended up exhibiting at the 1893
+Chicago World’s Fair. The story by former Lee Kong Chian Research Fellow Faris
+Joraimi about how 25 men and women from Johor spent a cold Chicago spring
+demonstrating sarong weaving makes for interesting reading.
 
-On a more peace-led note, don’t miss Kelvin Tan’s essay on how Chinese Buddhist women were behind some of the early iconic [vegetarian restaurants](/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore) in Singapore.
+If popular culture is more your thing though, don’t miss our profile on Loke
+Wan Tho, the man behind Cathay Cinema and a fascinating figure in his own right.
+The piece by former librarian Bonny Tan looks at his interesting hobbies, such as
+birdwatching, and features wonderful images.
 
-There are also interesting essays on the late forensic pathologist [Chao Tzee Cheng](/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist) by Goh Lee Kim, [Chinese and Japanese photo studios](/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios) in prewar Singapore by Zhuang Wubin, the forgotten history of [Sennett Estate](/vol-18/issue-2/jul-sep-2022/history-sennett-estate) by Winnie Tan and the story of how [Singapore Airlines](/vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines) took flight as told by Ang Seow Leng.
+Meanwhile, we also revisit the early days of family planning, the making of
+the Monetary Authority of Singapore, the history of Union Book, and Cold War
+propaganda battles.
 
-Plenty to read as usual in this issue so buckle up and enjoy the ride!
+Plenty of great reads ahead, perhaps over the long Deepavali weekend. And to
+all our readers who celebrate it, I would like to wish you a Happy Deepavali!
 
 <div style="background-color: white;">
 <br>
