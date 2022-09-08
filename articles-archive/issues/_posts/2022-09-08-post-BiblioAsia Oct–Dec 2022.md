@@ -13,7 +13,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. (PDF)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">My Grandfather Was a Rōmusha</a><br>Asian labourers known as rōmusha helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. (PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as rōmusha helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. (PDF)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. (PDF)
 
