@@ -15,7 +15,7 @@ and or why it even takes place. For an insider’s take on Theemithi, don’t mi
 In this issue, we continue to commemorate the 80th anniversary of the fall of
 Singapore, this time with an essay by writer Shirlene Noordin. This is a piece that
 weaves in personal history and relentless detective work to bring us a deeply moving
-story about how her grandfather survived working on the Thai-Burma Railway.
+story about how her [grandfather survived working on the Thai-Burma Railway](/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway).
 
 On a happier note, we have a quirky story about an island resort that predated
 Sentosa – Sarong Island. Librarian Lim Tin Seng delves into a forgotten chapter in
