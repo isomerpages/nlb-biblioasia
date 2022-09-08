@@ -27,6 +27,15 @@ sections:
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
   - infopic:
+      title: The Early Days of Family Planning in Singapore
+      subtitle: Governance
+      description: Singapore’s family planning programme did not start with the “Stop
+        at Two” policy in 1972, but goes back even earlier to 1949.
+      alt: Family planning
+      image: /images/Girl or Boy.jpg
+      button: Family planning initiatives
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+  - infopic:
       title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
       description: "During World War II, forced civilian labourers known as
@@ -271,12 +280,13 @@ sections:
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
   - infopic:
-      title: The Early Days of Family Planning in Singapore
-      subtitle: Governance
-      description: Singapore’s family planning programme did not start with the “Stop
-        at Two” policy in 1972, but goes back even earlier to 1949.
-      alt: Family planning
-      image: /images/Girl or Boy.jpg
-      button: Family planning initiatives
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+      title: Cold War Rivalries  in Singapore in the 1940s and 1950s
+      subtitle: war
+      description: In the post-World War II period, Singapore was a battleground for
+        ideological competition between the Soviet Union and China, and the US
+        and UK.
+      button: Button Text
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/
+      image: /images/stamp-62921.jpg
+      alt: Cold War
 ---
