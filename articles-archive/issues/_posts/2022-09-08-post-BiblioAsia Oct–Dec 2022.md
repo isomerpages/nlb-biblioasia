@@ -11,12 +11,11 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/oct-to-dec-2022/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal* [(PDF)]
+<a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">My Grandfather Was a Rōmusha</a><br>Asian labourers known as rōmusha helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin* [(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Underground.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">My Grandfather Was a Rōmusha</a><br>Asian labourers known as rōmusha helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. [(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Underground.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">“They Died for All Free Men”: Stories From Kranji War Cemetery
-</a><br>Remembering those who died while fighting the Japanese during World War II. *Janice Loo*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_KranjiWar.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_KranjiWar.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/National-Library-Japanese-Occupation-collection">从国家图书馆文献窥看日本占领时期的新加坡华社<br>
 From the National Library: The Singapore Chinese Community During the Japanese Occupation</a><br>Donated items relating to the Japanese Occupation. *Lee Meiyu and Seow Peck Ngiam*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Japanese%20Occupation.pdf)
