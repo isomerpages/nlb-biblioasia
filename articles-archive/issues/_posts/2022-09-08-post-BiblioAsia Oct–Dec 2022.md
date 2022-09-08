@@ -21,8 +21,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_SennettEstate.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a><br>Photo studios such Yong Fong and Lee Brothers had to negotiate the politics of race, class and clan.
-*Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_PhotoStudio.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a><br>MAS took 30 years before it officially became an official central bank. *Barbara Quek*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_PhotoStudio.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a><br>Chinese Buddhist women set up vegetarian restaurants in the 1940s and 50s. *Kelvin Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Buddhist%20Nuns.pdf)
 
