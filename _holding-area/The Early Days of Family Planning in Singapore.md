@@ -87,6 +87,9 @@ Tax relief for mothers was also reduced and allowed only for the first three chi
 
 However, studies have shown that that economic penalties and disincentives had a limited effect on families from the low-income working class who tended to have large families. According to researchers, a history of occupational insecurity led them to want more children as “children may prove to be their main security in the future”. These families also did not relate to the aspirations of social mobility that the two-child family concept promoted. When asked about the occupation or trade they wished for their children to pursue, one respondent interviewed replied: “I can’t afford to think of the future. I just live on and see.”[^31]
 
+![](/images/Vol%2018%20Issue%203/Family%20Planning/ms-word_edit.png)
+<div style="background-color: white;"> Newlyweds attending a family planning talk. Couples getting hitched at the Registry of Marriages were invited to attend such talks, where they were taught different contraceptive methods and encouraged to stop at two. <i>Image reproduced from Singapore Family Planning and Population Board, Annual Report 1973 (Singapore: Singapore Family Planning and Population Board, 1973), 47. (From National Library, Singapore, call no.: RCLOS 301.426 SFPPBA).</i></div>
+
 #### **And Then There Were Three**
 
 In 1975, less than a decade since the SFPPB was formed, the fertility rate dropped to replacement level in Singapore. Between 1966 and 1983, the birth rate decreased from 29.5 per thousand to 17.1.[^32] Experts and those involved in the family planning programme have cited multiple factors for this successful decline, including close cooperation among other government agencies in the implementation of family planning policies, improvements in socioeconomic conditions and the increased participation of women in the labour force.[^33]
@@ -107,9 +110,6 @@ In a 1986 ministerial speech at Nanyang Technological Institute, First Deputy Pr
 Since then, Singapore has been trying to get the birth rate up. Baby bonuses, tax rebates, childcare subsidies, earlier access to Housing and Development Board flats, and childcare leave and paternity leave are just some of the measures in place today to encourage Singaporeans to have more children.[^40] But Singapore’s total fertility rate has continued to trend downwards over the decades. In 2021, it was 1.12.[^41]
 
 The falling birth rate continues to be a matter of concern, engendering issues of not just a rapidly ageing population but also issues of immigration in recent decades, which have created tensions in the social fabric. It remains to be seen if the pro-natalist policies can achieve anything approaching the level of success as the anti-natalist National Family Planning and Population Programme of the 1960s and 1970s.
-
-![](/images/Vol%2018%20Issue%203/Family%20Planning/ms-word_edit.png)
-<div style="background-color: white;"> Newlyweds attending a family planning talk. Couples getting hitched at the Registry of Marriages were invited to attend such talks, where they were taught different contraceptive methods and encouraged to stop at two. <i>Image reproduced from Singapore Family Planning and Population Board, Annual Report 1973 (Singapore: Singapore Family Planning and Population Board, 1973), 47. (From National Library, Singapore, call no.: RCLOS 301.426 SFPPBA).</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author would like to thank Dr Jenny Soon, former head of the Training Unit at the Singapore Family Planning and Population Board, and Ms Jenny Heng, a former training education officer with the Training Unit, for sharing their thoughts on this topic.</div>
 
