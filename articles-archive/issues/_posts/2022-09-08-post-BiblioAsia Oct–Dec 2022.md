@@ -13,8 +13,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal* [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City-State
-</a><br>Singapore has been burrowing underground since the 19th century. *Lim Tin Seng*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Underground.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">My Grandfather Was a Rōmusha</a><br>Asian labourers known as rōmusha helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin* [(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Underground.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">“They Died for All Free Men”: Stories From Kranji War Cemetery
 </a><br>Remembering those who died while fighting the Japanese during World War II. *Janice Loo*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_KranjiWar.pdf)
