@@ -28,5 +28,3 @@ Lorem ipsum
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a><br>After World War II, Singapore was a battleground for ideological conflict between the Soviet Union and the United States. *Chow Chia Yung*. [(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_RedTerror.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines">Loke Wan Tho: The Man Who Built Cathay</a><br>Loke Wan Tho was not your typical business tycoon. The film magnate behind Cathay was also an avid photographer of birds. *Bonny Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_SIA.pdf)
-
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a><br>Forensic pathologist Chao Tzee Cheng helped bring murderers to justice. *Goh Lee Kim*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_ChaoTzeZheng.pdf)A
