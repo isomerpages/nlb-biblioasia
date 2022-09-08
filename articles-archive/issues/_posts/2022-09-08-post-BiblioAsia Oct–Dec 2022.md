@@ -21,7 +21,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/family-planning-singapore/">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*.(PDF)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a><br>MAS took 30 years before it officially became an official central bank. *Barbara Quek*.(PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a><br>MAS took 30 years before it officially became an official central bank. *Barbara Quek*.(PDF)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">Union Book Stands Tall At 70</a><br>Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. *Chen Yuxin*.(PDF)
 
