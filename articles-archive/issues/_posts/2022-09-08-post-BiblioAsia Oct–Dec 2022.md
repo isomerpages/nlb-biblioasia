@@ -5,12 +5,11 @@ date: 2022-09-08
 layout: post
 description: ""
 ---
-
 Lorem ipsum
 
 <img src="/images/Vol%2018%20Issue%202/BiblioAsia_JUL-SEP2022-FA-cover-edited.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/oct-to-dec-2022/director-note">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. (PDF)
 
