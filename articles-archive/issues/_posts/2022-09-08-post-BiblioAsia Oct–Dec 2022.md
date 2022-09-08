@@ -15,7 +15,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as rōmusha helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. (PDF)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. (PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. (PDF)
 
 <a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/National-Library-Japanese-Occupation-collection">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*.(PDF)
 
