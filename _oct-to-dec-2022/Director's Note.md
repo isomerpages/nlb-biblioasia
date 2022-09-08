@@ -26,8 +26,8 @@ Chicago World’s Fair](/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair). 
 Joraimi about how 25 men and women from Johor spent a cold Chicago spring
 demonstrating sarong weaving makes for interesting reading.
 
-If popular culture is more your thing though, don’t miss our profile on Loke
-Wan Tho, the man behind Cathay Cinema and a fascinating figure in his own right.
+If popular culture is more your thing though, don’t miss our profile on [Loke
+Wan Tho](/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/), the man behind Cathay Cinema and a fascinating figure in his own right.
 The piece by former librarian Bonny Tan looks at his interesting hobbies, such as
 birdwatching, and features wonderful images.
 
