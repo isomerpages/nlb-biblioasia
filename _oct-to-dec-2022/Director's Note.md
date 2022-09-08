@@ -21,8 +21,8 @@ On a happier note, we have a quirky story about an island resort that predated
 Sentosa – [Sarong Island](/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore). Librarian Lim Tin Seng delves into a forgotten chapter in
 Singapore’s history.
 
-Another fascinating piece recounts how Johor ended up exhibiting at the 1893
-Chicago World’s Fair. The story by former Lee Kong Chian Research Fellow Faris
+Another fascinating piece recounts how [Johor ended up exhibiting at the 1893
+Chicago World’s Fair](/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair). The story by former Lee Kong Chian Research Fellow Faris
 Joraimi about how 25 men and women from Johor spent a cold Chicago spring
 demonstrating sarong weaving makes for interesting reading.
 
