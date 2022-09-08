@@ -19,8 +19,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/National-Library-Japanese-Occupation-collection">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Japanese%20Occupation.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">This Was Once Singapore’s Largest Planned Housing
-Development: A History of Sennett Estate</a><br>Sennett Estate is a unique milestone in the history of housing development in Singapore. *Winnie Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_SennettEstate.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_SennettEstate.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a><br>Photo studios such Yong Fong and Lee Brothers had to negotiate the politics of race, class and clan.
 *Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_PhotoStudio.pdf)
