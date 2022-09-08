@@ -31,7 +31,7 @@ Wan Tho](/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/), the man behi
 The piece by former librarian Bonny Tan looks at his interesting hobbies, such as
 birdwatching, and features wonderful images.
 
-Meanwhile, we also revisit the early days of [family planning](/vol-18/issue-3/oct-dec-2022/family-planning-singapore/), the making of the [Monetary Authority of Singapore](/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank), the history of [Union Book](/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/), and Cold War propaganda battles.
+Meanwhile, we also revisit the early days of [family planning](/vol-18/issue-3/oct-dec-2022/family-planning-singapore/), the making of the [Monetary Authority of Singapore](/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank), the history of [Union Book](/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/), and [Cold War propaganda](/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/) battles.
 
 Plenty of great reads ahead, perhaps over the long Deepavali weekend. And to
 all our readers who celebrate it, I would like to wish you a Happy Deepavali!
