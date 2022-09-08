@@ -17,7 +17,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. (PDF)
 
-<a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/National-Library-Japanese-Occupation-collection">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*.(PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*.(PDF)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*.(PDF)
 
