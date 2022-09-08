@@ -32,7 +32,7 @@ sections:
       description: Singapore’s family planning programme did not start with the “Stop
         at Two” policy in 1972, but goes back even earlier to 1949.
       alt: Family planning
-      image: /images/Girl or Boy.jpg
+      image: /images/A large family.jpg
       button: Family planning initiatives
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/family-planning-singapore/
   - infopic:
