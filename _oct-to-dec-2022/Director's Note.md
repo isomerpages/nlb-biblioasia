@@ -31,7 +31,7 @@ Wan Tho](/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/), the man behi
 The piece by former librarian Bonny Tan looks at his interesting hobbies, such as
 birdwatching, and features wonderful images.
 
-Meanwhile, we also revisit the early days of family planning, the making of
+Meanwhile, we also revisit the early days of [family planning](/vol-18/issue-3/oct-dec-2022/family-planning-singapore/), the making of
 the Monetary Authority of Singapore, the history of Union Book, and Cold War
 propaganda battles.
 
