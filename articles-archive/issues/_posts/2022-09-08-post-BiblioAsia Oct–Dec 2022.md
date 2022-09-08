@@ -23,7 +23,7 @@ Lorem ipsum
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a><br>MAS took 30 years before it officially became an official central bank. *Barbara Quek*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_PhotoStudio.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a><br>Chinese Buddhist women set up vegetarian restaurants in the 1940s and 50s. *Kelvin Tan*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Buddhist%20Nuns.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore">Union Book Stands Tall At 70</a><br>Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. *Chen Yuxin*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_Buddhist%20Nuns.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a><br>The 1970s saw communist bombings and assassination plots in Singapore. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2018/Issue%202/v18-issue2_RedTerror.pdf)
 
