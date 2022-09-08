@@ -270,4 +270,11 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: The Early Days of Family Planning in Singapore
+      subtitle: Infopic Subtitle
+      description: Singapore’s family planning programme did not start with the “Stop
+        at Two” policy in 1972, but goes back even earlier to 1949.
+      button: Button Text
+      alt: Image alt text
 ---
