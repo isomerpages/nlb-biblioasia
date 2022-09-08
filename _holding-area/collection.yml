@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - The Early Days of Family Planning in Singapore.md
       - Test page.md
