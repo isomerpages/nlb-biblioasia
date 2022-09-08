@@ -1,0 +1,30 @@
+---
+title: BiblioAsia Oct–Dec 2022
+permalink: /vol-18/issue-3/oct-dec-2022/
+date: 2022-09-08
+layout: post
+description: ""
+---
+Theemithi, the firewalking festival, takes place on the Sunday before Deepavali. In the cover story, read all about the associated cycle of ritualsheld over a three-month period before the festival.
+
+<img src="/images/Vol%2018%20Issue%202/BiblioAsia_JUL-SEP2022-FA-cover-edited.jpg">
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
+
+<a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. 
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as *rōmusha* helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. 
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. 
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/family-planning-singapore/">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a><br>MAS took 30 years before it officially became an official central bank. *Barbara Quek*.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a><br>Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. *Chen Yuxin*.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a><br>After World War II, Singapore was a battleground for ideological conflict between the Soviet Union and the United States. *Chow Chia Yung*. 
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a><br>Loke Wan Tho was not your typical business tycoon. The film magnate behind Cathay was also an avid photographer of birds. *Bonny Tan*.

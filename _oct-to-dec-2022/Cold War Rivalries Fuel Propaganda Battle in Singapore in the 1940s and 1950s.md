@@ -1,11 +1,12 @@
 ---
-title: "Cold War Rivalries: Fuel Propaganda Battle in Singapore in the 1940s and
-  1950s"
-permalink: /holding-area/testing8/
+title: Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s
+permalink: /vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/
 description: In the post-World War II period, Singapore was a battleground for
   ideological competition between the Soviet Union and China on one side, and
   the United States and United Kingdom on the other.
 ---
+
+
 #### In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 By Chow Chia Yung
 
@@ -109,7 +110,7 @@ The Cold War period was a major period of geopolitical tension that played out i
 While hard power – measured by the size of armies and nuclear arsenals –  was important, soft power was just as crucial. The propaganda battle was an integral component of the Cold War as both blocs vied for influence. They leveraged print, radio and films to promote their own point of view and undermine those of their ideological opponents. This battle played out throughout the world, and Singapore was very much part of the battleground.
 
 <div style="background-color: white;">
-<img src="/images/Vol%2018%20Issue%203/Authors/Chow_Chia_Yung.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Chow_Chia_Yung_edit.png" style="width: 100px; height: 100px;"/>
 	<b>Chow Chia Yung</b> is an Assistant Archivist with the National Archives of Singapore. He provides archival-related reference services for researchers.</div>
 
 #### **NOTES**
