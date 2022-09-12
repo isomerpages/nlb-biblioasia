@@ -22,7 +22,7 @@ sections:
       subtitle: nature
       description: Singapore’s diplomatic efforts may take several forms, including
         naming orchid hybrids after foreign dignitaries such as Queen Elizabeth
-        II..
+        II.
       button: Orchids for vips and more
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/19980002762 IMG0016.jpg
