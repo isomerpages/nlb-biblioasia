@@ -181,7 +181,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^6]: Cinkappur Sri Mariyamman Kovil, *Mahaparatham*, private records, 1896 (From National Archives of Singapore, microfilm no. NA1984); Cinkappur Sri Mariyamman Kovil, *Hindu Religious Book Vol.1 Mahaparatham*, private records, 1897. (From National Archives of Singapore, microfilm no. NA1982)
 
-[^7]: The water vessel is filled with approximately 5 kg of rice, a gold coin and one lemon. A stick is anchored in the rice and margosa leaves attached to the vessel. Once secured, malli and mullai (both are different varieties of jasmine) flowers are wrapped around the structure. The mukham or silver image of the face of the mother goddess, Periyachi Amman, is attached to the front demonstrating that the karagam personifies the goddess.
+[^7]: The water vessel is filled with approximately 5 kg of rice, a gold coin and one lemon. A stick is anchored in the rice and margosa leaves attached to the vessel. Once secured, *malli* and *mullai* (both are different varieties of jasmine) flowers are wrapped around the structure. The mukham or silver image of the face of the mother goddess, Periyachi Amman, is attached to the front demonstrating that the karagam personifies the goddess.
 
 [^8]: Indira Arumugam, “Migrant Deities: Dislocations, Divine Agency, and Mediated Manifestations,” American Behavioral Scientist 64, no. 10 (2020): 1463, https://doi.org/10.1177/0002764220947763.
 
