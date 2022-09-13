@@ -175,6 +175,9 @@ Two days after the firewalking, the festival finally concludes with the coronati
 
 The cult of Draupadi and her shrine at the Sri Mariamman Temple are attributed to a community of caulkers, or boat workers, who came from the village of Vadakku Poigainallur in Nagapattinam district.[^25]
 
+![](/images/Vol%2018%20Issue%203/Theemithi/12_Devotees.png)
+<div style="background-color: white;"> Devotees walking across the fire pit at the Sri Mariamman Temple during Theemithi, 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The temple’s association with littoral communities goes back to its very foundation. Naraina Pillai was a native of the Coromandel Coast, and he is described as such in a letter written by Resident of Singapore William Farquhar in December 1822.[^26] Pillai was the driving force behind the establishment of the Sri Mariamman Temple – not only providing the funds for the purchase of the temple site but also installing the main deity when the temporary structure was completed in 1827.[^27]
 
 Some overlaps in the cults of Mariamman and Draupadi are evident in the festival. For instance, in the 1960s and 1970s,[^28] devotees would fulfil their vows to Mariamman by carrying *kavadi*, reminiscent of a Mariamman thiruvizha festival, like the one still held in Melaka known as Sembahyang Dato Charchar. Today, devotees in Singapore no longer carry *kavadi* during Theemithi.
