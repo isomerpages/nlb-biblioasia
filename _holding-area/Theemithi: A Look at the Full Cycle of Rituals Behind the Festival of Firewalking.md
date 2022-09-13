@@ -212,7 +212,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^21]: Balakrishnan, interview.
 
-[^22]: “The Hindoo Religious Ceremony.”
+[^22]: “[The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52).”
 
 [^23]: Hiltebeitel, *The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra*, 440–41.
 
