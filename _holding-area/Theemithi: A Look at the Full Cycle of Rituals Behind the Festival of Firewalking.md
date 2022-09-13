@@ -181,11 +181,11 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^6]: Cinkappur Sri Mariyamman Kovil, *Mahaparatham*, private records, 1896 (From National Archives of Singapore, microfilm no. NA1984); Cinkappur Sri Mariyamman Kovil, *Hindu Religious Book Vol.1 Mahaparatham*, private records, 1897. (From National Archives of Singapore, microfilm no. NA1982)
 
-[^7]: The water vessel is filled with approximately 5 kg of rice, a gold coin and one lemon. A stick is anchored in the rice and margosa leaves attached to the vessel. Once secured, *malli* and *mullai* (both are different varieties of jasmine) flowers are wrapped around the structure. The *mukham* or silver image of the face of the mother goddess, Periyachi Amman, is attached to the front demonstrating that the karagam personifies the goddess.
+[^7]: The water vessel is filled with approximately 5 kg of rice, a gold coin and one lemon. A stick is anchored in the rice and margosa leaves attached to the vessel. Once secured, *malli* and *mullai* (both are different varieties of jasmine) flowers are wrapped around the structure. The *mukham* or silver image of the face of the mother goddess, Periyachi Amman, is attached to the front demonstrating that the *karagam* personifies the goddess.
 
-[^8]: Indira Arumugam, “Migrant Deities: Dislocations, Divine Agency, and Mediated Manifestations,” American Behavioral Scientist 64, no. 10 (2020): 1463, https://doi.org/10.1177/0002764220947763.
+[^8]: Indira Arumugam, “Migrant Deities: Dislocations, Divine Agency, and Mediated Manifestations,” *American Behavioral Scientist* 64, no. 10 (2020): 1463, https://doi.org/10.1177/0002764220947763.
 
-[^9]: E.V. Singhan, Timiti Festival (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
+[^9]: E.V. Singhan, *Timiti Festival* (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
 
 [^10]: Balakrishnan Veerasamy Ramasamy, interview by author, 13 July 2022.
 
@@ -193,9 +193,9 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^12]: Prasad, interview. 
 
-[^13]: Lawrence A. Babb, “Walking on Flowers in Singapore: A Hindu Festival,” Eckistics 39, no. 234 (May 1975): 333. (From JSTOR via NLB’s eResources website)
+[^13]: Lawrence A. Babb, “Walking on Flowers in Singapore: A Hindu Festival,” *Eckistics* 39, no. 234 (May 1975): 333. (From JSTOR via NLB’s eResources website)
 
-[^14]: M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor & Francis, 2012), 140–42.
+[^14]: M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in *Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity*, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor & Francis, 2012), 140–42.
 
 [^15]: Singhan, Timiti Festival, 20.
 
