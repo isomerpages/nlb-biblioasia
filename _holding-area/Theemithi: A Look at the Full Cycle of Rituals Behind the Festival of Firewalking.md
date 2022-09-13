@@ -165,8 +165,8 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;"/>
-	<b>Shirlene Noordin</b> is the founder of Phish Communications, a communications consultancy specialising in arts and culture.</div>
+	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is founder of Antati, a historical research and museum consultancy.</div>
 
 #### **NOTES**
 
-[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway. 
+[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway.
