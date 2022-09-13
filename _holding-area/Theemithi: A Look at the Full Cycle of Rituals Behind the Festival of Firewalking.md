@@ -85,6 +85,28 @@ The volunteer in the role of Arjunan ascends the pole after reciting an invocati
 
 In the 1970s, the re-enactment of Arjunan Thabasu took place after the sacrifice of Aravan, during the battle of Kurukshetra between the Pandavas and the Kauravas, a central element in the Mahabharatam.15 It is not known when this ritual was moved to earlier in the cycle, to reflect Arjunan’s penance occuring before the battle.
 
-#### **Keesaga Samharam**
+#### ***Keesaga Samharam***
 
 At this point, the episode from the Virata Parvam (the fourth book of the Mahabharatam that sees the Pandavas living incognito in exile) is read and included in the cycle. In the episode, the Pandava brother Bhiman vanquishes the army commander Keesaga of the kingdom of Virata for making advances on Draupadi.
+
+#### ***Aravan Poojai and Aravan Kalapali ***
+
+A distinctive mythology of Aravan (also known as Nalaravan and Koothandavar), the son of Arjunan and the Naga maiden Ulupi, was established in the 9th century CE Bharatam.16 Aravan is not only a central figure in the Theemithi cycle of events, he also commands a cult of his own. Aravan has a temple dedicated to him at Koovagam village in the Kallakurichi district of Tamil Nadu. In Singapore, the Sri Mariamman Temple has a permanent shrine dedicated to him, which is located southeast of the Draupadi shrine. 
+
+In the epic, Aravan is sacrificed to Kali to attain victory for the Pandava brothers. In the Theemithi cycle, this sacrifice is symbolically performed by the pandaram. Aravan Kalapali (battlefield sacrifice) takes place on amavasai, or “new moon day”, in the Tamil month of Purattasi (mid-September to mid-October), at least 18 days before the firewalking.17
+
+For this, small heaps of rice mixed with kungumam (vermillion) are placed on a white cloth adorning the neck of Aravan’s processional image, together with quarters of poosani (white pumpkin) smeared with vermillion, representing the blood of Aravan. The 32 heaps of rice symbolise the self-mutilated pieces of Aravan’s flesh and hallmarks of perfection, or purusha lakshanam, which Aravan is said to have sacrificed to Kali. 
+
+Before he is sacrificed, Aravan asked Krishnan for three boons – to get married, to die heroically on the battlefield, and to witness the entire war and its outcome. He is granted the first when Krishnan takes his female form as the enchantress Mohini and marries him. Aravan’s severed head – present in processional and immoveable forms at the temple – witnesses the events of the war leading up to Theemithi.  
+
+Aravan Poojai (ritual prayer) is offered to Aravan before his shrine and takes place on the Monday before Aravan Kalapali. Muthala Raja (better known in Tamil Nadu as Muthala Ravuttan, the Muslim shrine guardian), the guardian of Draupadi, is also revered at his shrine located northeast of Draupadi’s. The processional image of Aravan is then carried around the temple by volunteers, almost like a final celebration of his life before his self-sacrifice. 
+
+On the day of Aravan Kalapali, a pair of temple volunteers assume the roles of Draupadi and Krishnan. They re-enact the scene of Krishnan convincing Draupadi that the sacrifice of Aravan is essential to guarantee the victory of the Pandava brothers. Draupadi then carries a soolam, or trident, decorated with a yellow cloth, around the temple, and plants it like a battle flag in the ground near Aravan’s shrine, marking the start of the Kurukshetra battle. 
+
+Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai used to be less elaborate and involved fewer people. The group of volunteers who handled matters relating to Aravan registered a visesha poojai (special prayer) from 1975 to make it officially part of the cycle of events. The volunteers aided the conduct of Aravan Poojai and Kalapali rites, including anna danam (distribution of free food). He also recalled that in the 1960s and 1970s, Aravan’s form was seen as fiercer than it is today, and women were asked to keep a distance during Kalapali.18
+
+Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the vesham (role) of Draupadi for about 20 years from the early 1980s, recalled being cautioned by his mother that the role play was not a game. She also warned him that he might be teased by his friends for dressing like a woman. Balakrishnan, however, felt that it was a rare opportunity and blessing to serve Draupadi. He was 25 when he was asked to do so by the temple’s chairman, P.G.P. Ramachandran. Balakrishnan recalled the shock he felt when he first took on the role of Draupadi during Aravan Kalapali and experienced going into a trance.19
+
+#### ***Chakravarti Kottai***
+
+Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual firewalking. This ritual pertains to the entrapment of Abhimanyu (one of the sons of Arjunan) on the battlefield. Unable to escape the wheel-like concentric formation of soldiers, Abhimanyu dies during the war. The Chakravarti Kottai is installed in the form of a multi-coloured, three-dimensional mandala and fortress-like structures constructed with sand, flowers and rangoli powder. 
