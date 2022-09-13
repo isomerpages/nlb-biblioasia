@@ -41,25 +41,25 @@ In a trance, with coconut flowers in one hand and a staff in the other, the *pan
 
 #### ***Sri Draupadi Amman Kodiyetram***
 
-Following the invocation of the mother goddess, a large flag is hoisted at the kodimaram, or flag post, in front of the shrine of Draupadi the following day. The kodiyetram, or hoisting of the flag, symbolises the commencement of the Theemithi cycle.
+Following the invocation of the mother goddess, a large flag is hoisted at the *kodimaram*, or flag post, in front of the shrine of Draupadi the following day. The *kodiyetram*, or hoisting of the flag, symbolises the commencement of the Theemithi cycle.
 
-The reading of the Mahabharatam begins on the day the flag is hoisted, and a portion of the epic is read nightly thereafter. In the 1960s and 1970s, the reading was done by a volunteer known to all as Bharata poosari. According to E.V. Singhan’s account of the festival in 1976, the reader was paid more than $160 for his efforts.9 In the 1990s, the writer and radio producer M.K. Narayanan would read the epic to an audience of devotees at the Sri Mariamman Temple.10 Today, it is read by the chief priest.
+The reading of the Mahabharatam begins on the day the flag is hoisted, and a portion of the epic is read nightly thereafter. In the 1960s and 1970s, the reading was done by a volunteer known to all as Bharata *poosari*. According to E.V. Singhan’s account of the festival in 1976, the reader was paid more than $160 for his efforts.9 In the 1990s, the writer and radio producer M.K. Narayanan would read the epic to an audience of devotees at the Sri Mariamman Temple.10 Today, it is read by the chief priest.
 
-The preparation of the kodi, or flag, is itself an elaborate process. A new kodi has to be made annually. The white, cotton fabric – about 45 m long and a metre across – is sourced from a textile store at Jalan Sultan by volunteers, according to a 2022 interview with Moti Lal Prasad. (Lal Prasad has been a volunteer at the temple since 1982 when he joined the Navaratri boys group.11)
+The preparation of the *kodi*, or flag, is itself an elaborate process. A new *kodi* has to be made annually. The white, cotton fabric – about 45 m long and a metre across – is sourced from a textile store at Jalan Sultan by volunteers, according to a 2022 interview with Moti Lal Prasad. (Lal Prasad has been a volunteer at the temple since 1982 when he joined the Navaratri boys group.11)
 
-According to Prasad, “the kodi is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. Hanuman’s inclusion is reminiscent of Draupadi and Bhiman’s (one of the Pandava brothers) encounter with the deity in the Mahabharatam. 
+According to Prasad, “the *kodi* is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. Hanuman’s inclusion is reminiscent of Draupadi and Bhiman’s (one of the Pandava brothers) encounter with the deity in the Mahabharatam. 
 
-The painting of Hanuman spans only about 1.2 m by 1 m of the enormous flag. After it is painted, it is removed from the frame. On the day of the flag hoisting, the kodi is decorated with silk and flowers. Following rituals, the flag is then hoisted and remains on the flag post till the end of Theemithi. The taking down of the flag marks the end of the festival. The flag is then cut and the painted portion kept in storage, while the unpainted portion is discarded.12
+The painting of Hanuman spans only about 1.2 m by 1 m of the enormous flag. After it is painted, it is removed from the frame. On the day of the flag hoisting, the *kodi* is decorated with silk and flowers. Following rituals, the flag is then hoisted and remains on the flag post till the end of Theemithi. The taking down of the flag marks the end of the festival. The flag is then cut and the painted portion kept in storage, while the unpainted portion is discarded.12
 
-In the Mahabharatam, Draupadi is “won” by the Pandava prince Arjunan at a swayamvaram (competition for prospective grooms). He brings her home to his mother Kunti, who orders him to share his winnings with his four brothers. Thus, she comes to be married to all the five Pandava brothers.
+In the Mahabharatam, Draupadi is “won” by the Pandava prince Arjunan at a *swayamvaram* (competition for prospective grooms). He brings her home to his mother Kunti, who orders him to share his winnings with his four brothers. Thus, she comes to be married to all the five Pandava brothers.
 
 In the Tamil renditions of the epic – and indeed in the Draupadi cult as well as during Theemithi – Draupadi, Arjunan and the god Krishnan are situated as the divine triumvirate with unparalleled powers. (In other versions of the Mahabharatam, this trio is not considered the central triad.)
 
 #### ***Sri Draupadi Ammanukku Malaiyithudal ***
 
-During Theemithi, a unique retelling of the epic unfolds that places Draupadi as the central character. It commences with Draupadi’s engagement ceremony. Called Malaiyithudal, the ritual marks the betrothal of Arjunan and Draupadi and is held on the Monday just after the flag is hoisted. The processional images of the two are dressed, adorned with fresh flower garlands, and decorated. Ubhayakarar (patrons) represent the groom’s and bride’s families during the rites. 
+During Theemithi, a unique retelling of the epic unfolds that places Draupadi as the central character. It commences with Draupadi’s engagement ceremony. Called Malaiyithudal, the ritual marks the betrothal of Arjunan and Draupadi and is held on the Monday just after the flag is hoisted. The processional images of the two are dressed, adorned with fresh flower garlands, and decorated. *Ubhayakarar* (patrons) represent the groom’s and bride’s families during the rites. 
 
-After the rites are performed by priests, the polychrome figures are carried by volunteers in circumambulation within the temple, together with the processional images of Krishnan and Virabadran, the latter being a munnodi deivam or frontrunning guardian of Draupadi.
+After the rites are performed by priests, the polychrome figures are carried by volunteers in circumambulation within the temple, together with the processional images of Krishnan and Virabadran, the latter being a *munnodi deivam* or frontrunning guardian of Draupadi.
 
 #### ***Sri Draupadi Ammanukku Thirukalyanam***
 
