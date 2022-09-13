@@ -136,7 +136,7 @@ Positioned in front of Aravan’s shrine, volunteers take the lead in this ritua
 A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/8_ChakravarthiKottai.png)
-<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
+<div style="background-color: white;"> Chakravarthi Kottai, 2021. This ritual pertains to the entrapment of Abhimanyu, one of the sons of Arjunan, on the battlefield. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 #### ***Padukalam***
 
