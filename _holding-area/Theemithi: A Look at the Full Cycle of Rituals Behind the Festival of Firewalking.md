@@ -7,8 +7,8 @@ description: ""
 #### Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 By Nalina Gopal
 
-![](/images/Vol%2018%20Issue%203/Cold%20War/1_cover.png)
-<div style="background-color: white;"> An advertisement for <i>Kampong Sentosa</i>. The film premiered at the Rex Theatre in 1953.  <i>Image reproduced from “Page 4 Advertisements Column 2,” Straits Times, 12 May 1953, 4. (From NewspaperSG). </i>
+![](/images/Vol%2018%20Issue%203/Theemithi/1_cover.png)
+<div style="background-color: white;"> Image of Hanuman the monkey god painted on the <i>kodi</i> (flag), which is hoisted on the <i>kodimaram</i> (flag post) during <i>kodiyetram</i> (“hoisting the flag”), 2021. <i>Courtesy of the Hindu Endowments Board.</i>
 </div>
 
 In October 1893, the manager of the Sri Mariamman Temple on South Bridge Road hired a lawyer to represent the temple in the Senior Magistrate’s court in Singapore.[^1] The man he chose was Walter John Napier, the co-founder of Drew & Napier, later the Attorney-General of the Straits Settlements. The suit? Police Superintendent Bell had filed an injunction against the temple to prevent the firewalking festival from taking place that year. 
