@@ -170,7 +170,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 #### **NOTES**
 
-[^1]: The Hindoo Religious Ceremony,” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
+[^1]: [The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
 
 [^2]: “Hindoo Religious Ceremony.”
 
