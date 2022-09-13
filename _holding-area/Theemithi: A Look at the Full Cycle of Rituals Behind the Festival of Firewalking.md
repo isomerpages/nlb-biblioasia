@@ -197,11 +197,11 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^14]: M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in *Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity*, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor & Francis, 2012), 140–42.
 
-[^15]: Singhan, Timiti Festival, 20.
+[^15]: Singhan, *Timiti Festival*, 20.
 
-[^16]: Hiltebeitel, Cult of Draupadi, Volume 1: Mythologies, 15.
+[^16]: Hiltebeitel, *Cult of Draupadi, Volume 1: Mythologies*, 15.
 
-[^17]: Alf Hiltebeitel, The Cult of Draupadi, Volume 2: On Hindu Ritual and the Goddess (Chicago: University of Chicago Press, 1988), 287.
+[^17]: Alf Hiltebeitel, *The Cult of Draupadi, Volume 2: On Hindu Ritual and the Goddess* (Chicago: University of Chicago Press, 1988), 287.
 
 [^18]: Sambasivam Pakirisamy, interview by Tharmalingam Kavindran and author, 5 June 2022.
 
@@ -213,21 +213,21 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^22]: “The Hindoo Religious Ceremony.”
 
-[^23]: Hiltebeitel, The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra, 440–41.
+[^23]: Hiltebeitel, *The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra*, 440–41.
 
 [^24]: Balakrishnan, interview.
 
-[^25]: Lawrence A. Babb, Walking on Flowers in Singapore: A Hindu Festival Cycle Issues 26–34 (Singapore: Department of Sociology, National University of Singapore, 1974), 3. 
+[^25]: Lawrence A. Babb, *Walking on Flowers in Singapore: A Hindu Festival Cycle Issues 26–34* (Singapore: Department of Sociology, National University of Singapore, 1974), 3. 
 
-[^26]: Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” L11: Letters to and from Raffles 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
+[^26]: Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” *L11: Letters to and from Raffles* 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
 
-[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in Singapore Indian Heritage, ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
+[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in *Singapore Indian Heritage*, ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
 
 [^28]: Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
 
 [^29]: Soundara Rajan, oral history interview by Kartini Lim Chiwen, 17 December 1987, transcript and MP3 audio, Reel/Disc 16 of 23, 30:09, National Archives of Singapore (accession no. 000845), 176–78.  
 
-[^30]: H.T. Haughton, “Native Names of Streets in Singapore,” Journal of the Malaysian Branch of the Royal Asiatic Society 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s eResources website)
+[^30]: H.T. Haughton, “Native Names of Streets in Singapore,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s eResources website)
 
 [^31]:“Weird Ceremony. Strange Behaviour at A Hindu Festival. Fire-walking and Its Objects,” Straits Budget, 14 June 1906, 10. (From NewspaperSG)
 
