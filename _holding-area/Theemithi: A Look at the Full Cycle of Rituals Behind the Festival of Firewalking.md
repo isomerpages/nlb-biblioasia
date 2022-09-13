@@ -153,7 +153,7 @@ How does all this relate to firewalking? Born of the fire during a *yagnam* or f
 In the various Tamil versions of the epic, four different pre- and post-battle origin myths involve Draupadi walking on fire. These include her proving her chastity after marrying the five Pandava brothers, after her encounter with Keesaga (who makes advances on her), and a post-battle purification. The fourth is one that suggests the ritual’s association with the revival of Draupadi’s sons who are sacrificed during the war.[^23]
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
-<div style="background-color: white;"> Chakravarthi Kottai, 2021. This ritual pertains to the entrapment of Abhimanyu, one of the sons of Arjunan, on the battlefield. <i>Courtesy of the Hindu Endowments Board.</i></div>
+<div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 #### **Walking on Coals**
 
