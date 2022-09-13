@@ -38,6 +38,9 @@ The *pandaram*, or priest, carries the mother goddess in the form of the *karaga
 
 In a trance, with coconut flowers in one hand and a staff in the other, the *pandaram* dances before Periyachi Amman at her shrine. He is then handed a giant cauldron of fire, or *agni kapparai*, which he carries around the temple. At this point, the *agni kapparai* represents the mother goddess herself. The goddess is thus manifested through the mediums of water, fire and even the priest.[^8]
 
+![](/images/Vol%2018%20Issue%203/Theemithi/2_pandaram.png)
+<div style="background-color: white;"> The <i>pandaram</i> (priest) carrying the <i>agni kapparai</i> (giant cauldron of fire). He is in the guise of Madurai Veeran, guardian of the goddess, at the Periyachi Amman shrine, Sri Mariamman Temple, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 #### ***Sri Draupadi Amman Kodiyetram***
 
 Following the invocation of the mother goddess, a large flag is hoisted at the *kodimaram*, or flag post, in front of the shrine of Draupadi the following day. The *kodiyetram*, or hoisting of the flag, symbolises the commencement of the Theemithi cycle.
