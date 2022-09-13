@@ -169,4 +169,66 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 #### **NOTES**
 
-[^1]: “Burma-Thailand Railway,” National Museum Australia, updated 12 July 2022, https://www.nma.gov.au/defining-moments/resources/burma-thailand-railway.
+[^1]: The Hindoo Religious Ceremony,” Straits Times Weekly Issue, 24 October 1893, 6. (From NewspaperSG)
+
+“Hindoo Religious Ceremony.”
+
+The Mahabharata, one of the two great Indian epics originally written in Sanskrit (the other being the Ramayana), is thought to have been composed between 400 BCE and 400 CE, and to a shorter period by Alf Hiltebeitel dating from the mid-2nd century BCE to the start of the Common Era.
+
+Alf Hiltebeitel, The Cult of Draupadi, Volume 1: Mythologies: From Gingee to Kurukshetra (Chicago: University of Chicago Press, 1988), 14.
+
+In the Mahabharata, the core narrative revolves around warring cousins, the Kauravas (the sons of King Dhritarashtra and the heirs of the lineage of the clan’s ancestor and great king Kuru) and the Pandavas (the five sons of king Pandu). Their antagonistic relationship results in the battle of Kurukshetra, an epic battle that is thought to have taken place around 1200 BCE on the basis of archaeological evidence discovered in the modern Indian state of Uttar Pradesh. More recent excavations have raised questions of the possibility of an earlier dating for the epic-related events.
+
+Cinkappur Sri Mariyamman Kovil, Mahaparatham, private records, 1896 (From National Archives of Singapore, microfilm no. NA1984); Cinkappur Sri Mariyamman Kovil, Hindu Religious Book Vol.1 Mahaparatham, private records, 1897. (From National Archives of Singapore, microfilm no. NA1982)
+
+The water vessel is filled with approximately 5 kg of rice, a gold coin and one lemon. A stick is anchored in the rice and margosa leaves attached to the vessel. Once secured, malli and mullai (both are different varieties of jasmine) flowers are wrapped around the structure. The mukham or silver image of the face of the mother goddess, Periyachi Amman, is attached to the front demonstrating that the karagam personifies the goddess.
+
+Indira Arumugam, “Migrant Deities: Dislocations, Divine Agency, and Mediated Manifestations,” American Behavioral Scientist 64, no. 10 (2020): 1463, https://doi.org/10.1177/0002764220947763.
+
+E.V. Singhan, Timiti Festival (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
+
+Balakrishnan Veerasamy Ramasamy, interview by author, 13 July 2022.
+
+Moti Lal Prasad, interview by Tharmalingam Kavindran and author, 5 June 2022. 
+
+Prasad, interview. 
+
+Lawrence A. Babb, “Walking on Flowers in Singapore: A Hindu Festival,” Eckistics 39, no. 234 (May 1975): 333. (From JSTOR via NLB’s eResources website)
+
+M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor & Francis, 2012), 140–42.
+
+Singhan, Timiti Festival, 20.
+
+Hiltebeitel, Cult of Draupadi, Volume 1: Mythologies, 15.
+
+Alf Hiltebeitel, The Cult of Draupadi, Volume 2: On Hindu Ritual and the Goddess (Chicago: University of Chicago Press, 1988), 287.
+
+Sambasivam Pakirisamy, interview by Tharmalingam Kavindran and author, 5 June 2022.
+
+Balakrishnan, interview.
+
+This group of volunteers is called the SLP group. S.L.P or S.L. Perumal was the son-in-law of B. Govindasamy Chettiar, the owner of the Indian Labour Company, which supplied labour to the Singapore Harbour Board. A representative of the S.L. Perumal family officiates this ritual. 
+
+Balakrishnan, interview.
+
+“The Hindoo Religious Ceremony.”
+
+Hiltebeitel, The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra, 440–41.
+
+Balakrishnan, interview.
+
+Lawrence A. Babb, Walking on Flowers in Singapore: A Hindu Festival Cycle Issues 26–34 (Singapore: Department of Sociology, National University of Singapore, 1974), 3. 
+
+Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” L11: Letters to and from Raffles 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
+
+Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in Singapore Indian Heritage, ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
+
+Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
+
+Soundara Rajan, oral history interview by Kartini Lim Chiwen, 17 December 1987, transcript and MP3 audio, Reel/Disc 16 of 23, 30:09, National Archives of Singapore (accession no. 000845), 176–78.  
+
+H.T. Haughton, “Native Names of Streets in Singapore,” Journal of the Malaysian Branch of the Royal Asiatic Society 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s eResources website)
+
+“Weird Ceremony. Strange Behaviour at A Hindu Festival. Fire-walking and Its Objects,” Straits Budget, 14 June 1906, 10. (From NewspaperSG)
+
+Bharti Mukherjee, “An Invisible Woman,” Saturday Night 96 (March 1981), 36–40. 
