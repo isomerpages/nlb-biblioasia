@@ -97,6 +97,9 @@ The *thabasu maram* – the most elaborate of ritual props used in the cycle of 
 
 The volunteer in the role of Arjunan ascends the pole after reciting an invocation in Tamil. The proceedings conclude with a circumambulatory procession around the temple grounds, which ends at the shrine of Draupadi.
 
+![](/images/Vol%2018%20Issue%203/Theemithi/6_Arjunan.png)
+<div style="background-color: white;"> The processional icons of Draupadi and Arjunan decorated elaborately for the Malaiyithudal, or engagement ceremony, at the Sri Mariamman Temple, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 In the 1970s, the re-enactment of Arjunan Thabasu took place after the sacrifice of Aravan, during the battle of Kurukshetra between the Pandavas and the Kauravas, a central element in the Mahabharatam.[^15] It is not known when this ritual was moved to earlier in the cycle, to reflect Arjunan’s penance occuring before the battle.
 
 #### ***Keesaga Samharam***
