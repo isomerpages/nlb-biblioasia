@@ -18,6 +18,16 @@ sections:
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
   - infopic:
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: Singapore’s diplomatic efforts may take several forms, including
+        naming orchid hybrids after foreign dignitaries such as Queen Elizabeth
+        II.
+      button: Orchids for vips and more
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+      image: /images/19980002762 IMG0016.jpg
+      alt: Orchid Diplomacy
+  - infopic:
       title: "Loke Wan Tho: The Man Who Built Cathay"
       subtitle: People
       description: While best known as a giant in the movie business in Malaya, Loke
@@ -280,13 +290,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: nature
-      description: Singapore’s diplomatic efforts may take several forms, including
-        naming orchid hybrids after foreign dignitaries.
-      button: Orchids for vips and more
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
-      image: /images/Vol 18 Issue 1/Highlight2.png
-      alt: Orchid Diplomacy
 ---
