@@ -150,7 +150,7 @@ During firewalking, it is also the *vepailai karagam* (the consecrated vessel) a
 
 As the accounts above show, Theemithi celebrations have changed over the years in Singapore. In fact, while the festival is closely associated with the Sri Mariamman Temple now, during parts of the 19th century, the firewalking used to take place on Albert Street earning the street the Tamil name *Theemithi Thidal* (“open field”).30 The engagement of John Napier by the temple in 1893 shows that the practice had long migrated to the temple by the late 19th century.
 
-And while the firewalking today is a male activity, in the 19th century, women too walked over the coals and did so up to the early 20th century. In fact, Police Superintendent Bell’s case was lodged in 1893 after hearing about a female devotee who had fallen into the firepit. We do not know when or why women stopped walking across the pit, but today, someways women participate in the ceremony include lighting the maavilakku (a lamp made of rice flour), performing kumbuduthandam31 (“repeated kneeling down and touching the floor with the head around the temple”), or carrying out angapradakshinam (“rolling on the ground”). 
+And while the firewalking today is a male activity, in the 19th century, women too walked over the coals and did so up to the early 20th century. In fact, Police Superintendent Bell’s case was lodged in 1893 after hearing about a female devotee who had fallen into the firepit. We do not know when or why women stopped walking across the pit, but today, someways women participate in the ceremony include lighting the *maavilakku* (a lamp made of rice flour), performing *kumbuduthandam*[^31] (“repeated kneeling down and touching the floor with the head around the temple”), or carrying out *angapradakshinam* (“rolling on the ground”). 
 
 Of course, the rituals have changed as well over time. Some have become more elaborate, such as the Aravan Poojai, while others are no longer carried out, such as the ritual slaying of goats and the whipping of devotees. 
 
@@ -158,7 +158,7 @@ The space accorded for change has kept Theemithi a living one. Moreover, the fes
 
 Theemithi is both public yet widely misconstrued. While the act of walking on fire itself has consumed the attention of observers for close to two centuries, the participants’ account of the almost three-month-long festival clearly belies that singular focus on the spectacular.
 
-It is a festival rendered invisible not by the lack of, but by the excess of light or exposure. It is like that old and overexposed photograph in a photo album that has only one detail in focus, the rest washed out because the aperture setting and shutter speed were out of sync. The oldest paradox of prejudice is that it renders its subject at once invisible and overexposed.32
+It is a festival rendered invisible not by the lack of, but by the excess of light or exposure. It is like that old and overexposed photograph in a photo album that has only one detail in focus, the rest washed out because the aperture setting and shutter speed were out of sync. The oldest paradox of prejudice is that it renders its subject at once invisible and overexposed.[^32]
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> I am grateful to Balakrishnan Veerasamy Ramaswamy, T. Kavindran and T. Rajasegar of the Hindu Endowments Board for their support of my requests for images and audio interviews in the course of research for this essay.</div>
 
