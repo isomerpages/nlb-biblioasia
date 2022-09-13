@@ -55,7 +55,7 @@ In the Mahabharatam, Draupadi is “won” by the Pandava prince Arjunan at a *s
 
 In the Tamil renditions of the epic – and indeed in the Draupadi cult as well as during Theemithi – Draupadi, Arjunan and the god Krishnan are situated as the divine triumvirate with unparalleled powers. (In other versions of the Mahabharatam, this trio is not considered the central triad.)
 
-#### ***Sri Draupadi Ammanukku Malaiyithudal ***
+#### ***Sri Draupadi Ammanukku Malaiyithudal***
 
 During Theemithi, a unique retelling of the epic unfolds that places Draupadi as the central character. It commences with Draupadi’s engagement ceremony. Called Malaiyithudal, the ritual marks the betrothal of Arjunan and Draupadi and is held on the Monday just after the flag is hoisted. The processional images of the two are dressed, adorned with fresh flower garlands, and decorated. *Ubhayakarar* (patrons) represent the groom’s and bride’s families during the rites. 
 
@@ -89,7 +89,7 @@ In the 1970s, the re-enactment of Arjunan Thabasu took place after the sacrifice
 
 At this point, the episode from the Virata Parvam (the fourth book of the Mahabharatam that sees the Pandavas living incognito in exile) is read and included in the cycle. In the episode, the Pandava brother Bhiman vanquishes the army commander Keesaga of the kingdom of Virata for making advances on Draupadi.
 
-#### ***Aravan Poojai and Aravan Kalapali ***
+#### ***Aravan Poojai and Aravan Kalapali***
 
 A distinctive mythology of Aravan (also known as Nalaravan and Koothandavar), the son of Arjunan and the Naga maiden Ulupi, was established in the 9th century CE *Bharatam*.[^16] Aravan is not only a central figure in the Theemithi cycle of events, he also commands a cult of his own. Aravan has a temple dedicated to him at Koovagam village in the Kallakurichi district of Tamil Nadu. In Singapore, the Sri Mariamman Temple has a permanent shrine dedicated to him, which is located southeast of the Draupadi shrine. 
 
