@@ -47,4 +47,29 @@ The reading of the Mahabharatam begins on the day the flag is hoisted, and a por
 
 The preparation of the kodi, or flag, is itself an elaborate process. A new kodi has to be made annually. The white, cotton fabric – about 45 m long and a metre across – is sourced from a textile store at Jalan Sultan by volunteers, according to a 2022 interview with Moti Lal Prasad. (Lal Prasad has been a volunteer at the temple since 1982 when he joined the Navaratri boys group.11)
 
-According to Prasad, “the kodi is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. 
+According to Prasad, “the kodi is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. Hanuman’s inclusion is reminiscent of Draupadi and Bhiman’s (one of the Pandava brothers) encounter with the deity in the Mahabharatam. 
+
+The painting of Hanuman spans only about 1.2 m by 1 m of the enormous flag. After it is painted, it is removed from the frame. On the day of the flag hoisting, the kodi is decorated with silk and flowers. Following rituals, the flag is then hoisted and remains on the flag post till the end of Theemithi. The taking down of the flag marks the end of the festival. The flag is then cut and the painted portion kept in storage, while the unpainted portion is discarded.12
+
+In the Mahabharatam, Draupadi is “won” by the Pandava prince Arjunan at a swayamvaram (competition for prospective grooms). He brings her home to his mother Kunti, who orders him to share his winnings with his four brothers. Thus, she comes to be married to all the five Pandava brothers.
+
+In the Tamil renditions of the epic – and indeed in the Draupadi cult as well as during Theemithi – Draupadi, Arjunan and the god Krishnan are situated as the divine triumvirate with unparalleled powers. (In other versions of the Mahabharatam, this trio is not considered the central triad.)
+
+#### ***Sri Draupadi Ammanukku Malaiyithudal ***
+
+During Theemithi, a unique retelling of the epic unfolds that places Draupadi as the central character. It commences with Draupadi’s engagement ceremony. Called Malaiyithudal, the ritual marks the betrothal of Arjunan and Draupadi and is held on the Monday just after the flag is hoisted. The processional images of the two are dressed, adorned with fresh flower garlands, and decorated. Ubhayakarar (patrons) represent the groom’s and bride’s families during the rites. 
+
+After the rites are performed by priests, the polychrome figures are carried by volunteers in circumambulation within the temple, together with the processional images of Krishnan and Virabadran, the latter being a munnodi deivam or frontrunning guardian of Draupadi.
+
+#### ***Sri Draupadi Ammanukku Thirukalyanam***
+
+On the Monday after Malaiyithudal a week later, Thirukalyanam, or the wedding of Draupadi, is held.
+
+The Thirukalyanam comprises a series of ostentatious marriage rites that include a ceremonial dance by two garland-bearing priests, who go on to exchange the garlands before draping the garlands on the processional icons of Arjunan and Draupadi. Following this, a thali (wedding pendant) is tied around Draupadi’s neck to symbolise her married status.
+
+#### ***Sri Draupadi Vasthiraparanam***
+
+The ritual that takes place a week after Thirukalyanam is perhaps the one that involves the fewest number of people. Priests, temple staff, volunteers and a small number of devotees witness the unbearable humiliation of Draupadi: Draupadi Vasthiraparanam. This is the disrobing of Draupadi in an open court after the eldest Pandava brother, Dharmaraja, loses to the Kauravas in a game of dice. However, Krishnan comes to her rescue and prevents her humiliation. 
+
+The episode is relived ceremonially; the pandaram covers the red sari worn by Draupadi’s processional image with a yellow one and unties her bound hair.13 These actions signify her vow to seek vengeance against those who have wronged her. 
+
