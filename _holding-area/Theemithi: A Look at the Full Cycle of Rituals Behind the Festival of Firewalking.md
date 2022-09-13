@@ -17,7 +17,7 @@ In Napier’s winning defence of the right of “[Hindoos to]… practice their 
 
 Theemithi, which means “firewalking”, is observed during the Tamil month of Aipassi (mid-October to mid-November) at the Sri Mariamman Temple. Over the past decades, firewalking has taken place a week before Deepavali (on a Sunday), witnessed by thousands, including devotees and the curious.
 
-This spectacular event has, however, eclipsed the associated cycle of rituals that take place over a three-month period before the festival. These rituals are an elaborate retelling of events from the Mahabharatam, speaking of an epic devotion kept alive in the diaspora for close to two centuries.
+This spectacular event has, however, eclipsed the associated cycle of rituals that take place over a three-month period before the festival. These rituals are an elaborate retelling of events from the Mahabharatam, speaking of an epic devotion kept alive in the diaspora for close to two centuries.[^3]
 
 #### **Antecedents: The Mahabharatam**
 
