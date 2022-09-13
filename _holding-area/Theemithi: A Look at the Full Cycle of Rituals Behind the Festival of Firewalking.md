@@ -124,6 +124,9 @@ Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai u
 
 Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the *vesham* (role) of Draupadi for about 20 years from the early 1980s, recalled being cautioned by his mother that the role play was not a game. She also warned him that he might be teased by his friends for dressing like a woman. Balakrishnan, however, felt that it was a rare opportunity and blessing to serve Draupadi. He was 25 when he was asked to do so by the temple’s chairman, P.G.P. Ramachandran. Balakrishnan recalled the shock he felt when he first took on the role of Draupadi during Aravan Kalapali and experienced going into a trance.[^19]
 
+![](/images/Vol%2018%20Issue%203/Theemithi/7_sacrifice.png)
+<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 #### ***Chakravarti Kottai***
 
 Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual firewalking. This ritual pertains to the entrapment of Abhimanyu (one of the sons of Arjunan) on the battlefield. Unable to escape the wheel-like concentric formation of soldiers, Abhimanyu dies during the war. The Chakravarti Kottai is installed in the form of a multi-coloured, three-dimensional mandala and fortress-like structures constructed with sand, flowers and rangoli powder.
