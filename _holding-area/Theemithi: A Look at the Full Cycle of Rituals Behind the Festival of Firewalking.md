@@ -110,3 +110,16 @@ Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the vesham (role) of Dr
 #### ***Chakravarti Kottai***
 
 Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual firewalking. This ritual pertains to the entrapment of Abhimanyu (one of the sons of Arjunan) on the battlefield. Unable to escape the wheel-like concentric formation of soldiers, Abhimanyu dies during the war. The Chakravarti Kottai is installed in the form of a multi-coloured, three-dimensional mandala and fortress-like structures constructed with sand, flowers and rangoli powder.
+
+Positioned in front of Aravan’s shrine, volunteers take the lead in this ritual.20 Four sword-bearing volunteers go down on one knee, each on one side of the square mandala, while the fifth sword-bearer positions himself adjacent to the mandala. Then three whip-wielding volunteers stand in a straight line in front of the mandala and swirl the whips in the air in a circular motion. 
+
+A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
+
+#### ***Padukalam***
+
+Padukalam marks the last day of the Kurukshetra battle and takes place on the morning of the firewalking event. It brings to an end the cycle of epic-based re-enactments explaining the root legends for the cult of goddess Draupadi. Padukalam, which means “dying/lying down on the battlefield”, is an elaborate re-creation of battlefield rituals that focuses on Draupadi, who has to decide if the Pandava and Kaurava casualties of war should receive salvation or damnation. 
+
+Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Bhishma and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
+The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
+
+Her vow of vengeance achieved, Draupadi combs her hair and ties it. Volunteers quickly assist the priests to do 
