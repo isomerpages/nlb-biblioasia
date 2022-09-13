@@ -76,9 +76,15 @@ The episode is relived ceremonially; the pandaram covers the red sari worn by Dr
 #### ***Arjunan Thabasu***
 
 From this point onwards, elements of ritual theatre come to the fore. These are rooted in the Bharata koothu tradition of ritual performances held in Draupadi temples in the northern districts of Tamil Nadu during the lead-up to the firewalking festival.14 A volunteer takes on the role of the hero Arjunan, portraying his ascetic efforts to receive a weapon called pasupastra from the deity Siva. Undisturbed by the many distractions sent his way by his devious cousin Duryodhanan, Arjunan achieves his goal.
+
 Called Arjunan Thabasu, this event takes place on a Friday, a few weeks after Draupadi Vasthiraparanam. It involves Arjunan climbing the thabasu maram, which represents a bael tree in the Himalayas, where he meditates to receive the weapon. The thabasu maram is installed in the morning, and in the same evening the re-enactment takes place. 
+
 The thabasu maram – the most elaborate of ritual props used in the cycle of events – is a seven-metre-high pole painted dark brown like a tree trunk with 11 steps and a platform at the top. The platform is decorated either with flowers, or at times with cotton applique cloth, and four thombai (hanging decoration). 
+
 The volunteer in the role of Arjunan ascends the pole after reciting an invocation in Tamil. The proceedings conclude with a circumambulatory procession around the temple grounds, which ends at the shrine of Draupadi.
+
 In the 1970s, the re-enactment of Arjunan Thabasu took place after the sacrifice of Aravan, during the battle of Kurukshetra between the Pandavas and the Kauravas, a central element in the Mahabharatam.15 It is not known when this ritual was moved to earlier in the cycle, to reflect Arjunan’s penance occuring before the battle.
-Keesaga Samharam
+
+#### **Keesaga Samharam**
+
 At this point, the episode from the Virata Parvam (the fourth book of the Mahabharatam that sees the Pandavas living incognito in exile) is read and included in the cycle. In the episode, the Pandava brother Bhiman vanquishes the army commander Keesaga of the kingdom of Virata for making advances on Draupadi.
