@@ -109,4 +109,4 @@ Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the vesham (role) of Dr
 
 #### ***Chakravarti Kottai***
 
-Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual firewalking. This ritual pertains to the entrapment of Abhimanyu (one of the sons of Arjunan) on the battlefield. Unable to escape the wheel-like concentric formation of soldiers, Abhimanyu dies during the war. The Chakravarti Kottai is installed in the form of a multi-coloured, three-dimensional mandala and fortress-like structures constructed with sand, flowers and rangoli powder. 
+Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual firewalking. This ritual pertains to the entrapment of Abhimanyu (one of the sons of Arjunan) on the battlefield. Unable to escape the wheel-like concentric formation of soldiers, Abhimanyu dies during the war. The Chakravarti Kottai is installed in the form of a multi-coloured, three-dimensional mandala and fortress-like structures constructed with sand, flowers and rangoli powder.
