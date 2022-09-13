@@ -38,3 +38,13 @@ On the day of the prayer dedicated to Periyachi, which takes place on a Sunday i
 The pandaram, or priest, carries the mother goddess in the form of the karagam on his head and a margosa stem in hand. He dances around the temple grounds, stopping from sanctum to sanctum. Once done, the priest changes his garb and adorns the attire of Madurai Veeran, the guardian of the goddess.
 
 In a trance, with coconut flowers in one hand and a staff in the other, the pandaram dances before Periyachi Amman at her shrine. He is then handed a giant cauldron of fire, or agni kapparai, which he carries around the temple. At this point, the agni kapparai represents the mother goddess herself. The goddess is thus manifested through the mediums of water, fire and even the priest.8
+
+#### ***Sri Draupadi Amman Kodiyetram***
+
+Following the invocation of the mother goddess, a large flag is hoisted at the kodimaram, or flag post, in front of the shrine of Draupadi the following day. The kodiyetram, or hoisting of the flag, symbolises the commencement of the Theemithi cycle.
+
+The reading of the Mahabharatam begins on the day the flag is hoisted, and a portion of the epic is read nightly thereafter. In the 1960s and 1970s, the reading was done by a volunteer known to all as Bharata poosari. According to E.V. Singhan’s account of the festival in 1976, the reader was paid more than $160 for his efforts.9 In the 1990s, the writer and radio producer M.K. Narayanan would read the epic to an audience of devotees at the Sri Mariamman Temple.10 Today, it is read by the chief priest.
+
+The preparation of the kodi, or flag, is itself an elaborate process. A new kodi has to be made annually. The white, cotton fabric – about 45 m long and a metre across – is sourced from a textile store at Jalan Sultan by volunteers, according to a 2022 interview with Moti Lal Prasad. (Lal Prasad has been a volunteer at the temple since 1982 when he joined the Navaratri boys group.11)
+
+According to Prasad, “the kodi is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. 
