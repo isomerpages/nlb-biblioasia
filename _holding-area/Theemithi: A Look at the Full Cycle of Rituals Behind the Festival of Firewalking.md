@@ -134,4 +134,18 @@ Throughout the day, volunteers at the Sri Mariamman Temple help to build the fir
 
 At about 6 pm, the karagam would be constructed at the Sri Srinivasa Perumal Temple on Serangoon Road, and at around 7 pm, the five-kilometre-long foot procession to Sri Mariamman Temple commences. The procession is led by the chief pandaram carrying the karagam on his head, followed by the 2,000 or so devotees. As the group approaches Sri Mariamman Temple, a temple official sprinkles jasmine flowers in the fire pit and throws lemons on the embers. 
 
-The firewalking starts at around 8.30 pm with the chief pandaram being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip 
+The firewalking starts at around 8.30 pm with the chief pandaram being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
+
+Two days after the firewalking, the festival finally concludes with the coronation of Dharmaraja, the eldest of the Pandava brothers, and the Manjal Neerattu, a celebration of victory involving the splashing of turmeric water. Thereafter, the kodi is taken down, and all ritual objects and the Mahabharatam stored away.
+
+#### **Theemithi and the Sri Mariamman Temple**
+
+The cult of Draupadi and her shrine at the Sri Mariamman Temple are attributed to a community of caulkers, or boat workers, who came from the village of Vadakku Poigainallur in Nagapattinam district.25
+
+The temple’s association with littoral communities goes back to its very foundation. Naraina Pillai was a native of the Coromandel Coast, and he is described as such in a letter written by Resident of Singapore William Farquhar in December 1822.26 Pillai was the driving force behind the establishment of the Sri Mariamman Temple – not only providing the funds for the purchase of the temple site but also installing the main deity when the temporary structure was completed in 1827.27
+
+Some overlaps in the cults of Mariamman and Draupadi are evident in the festival. For instance, in the 1960s and 1970s,28 devotees would fulfil their vows to Mariamman by carrying kavadi, reminiscent of a Mariamman thiruvizha festival, like the one still held in Melaka known as Sembahyang Dato Charchar. Today, devotees in Singapore no longer carry kavadi during Theemithi.
+
+During firewalking, it is also the vepailai karagam (the consecrated vessel) associated with Mariamman that is carried by the chief pandaram across the firepit. The Sri Mariamman Temple is a syncretic space accommodating shrines of other gods and goddesses, including Draupadi.29 The highest respect, however, is always accorded to Mariamman.
+
+As the accounts above show, Theemithi celebrations have changed over the years in Singapore. In fact, while the festival is closely associated with the Sri Mariamman Temple now, during parts of the 19th century, the firewalking used 
