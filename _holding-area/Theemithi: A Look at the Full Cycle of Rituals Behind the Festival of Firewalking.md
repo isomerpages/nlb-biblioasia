@@ -172,7 +172,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^1]: [The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
 
-[^2]: “Hindoo Religious Ceremony.”
+[^2]: “[Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52).”
 
 [^3]: The Mahabharata, one of the two great Indian epics originally written in Sanskrit (the other being the Ramayana), is thought to have been composed between 400 BCE and 400 CE, and to a shorter period by Alf Hiltebeitel dating from the mid-2nd century BCE to the start of the Common Era.
 
