@@ -198,7 +198,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^14]: M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in *Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity*, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor & Francis, 2012), 140–42.
 
-[^15]: Singhan, *Timiti Festival*, 20.
+[^15]: Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082121), 20.
 
 [^16]: Hiltebeitel, *Cult of Draupadi, Volume 1: Mythologies*, 15.
 
