@@ -50,6 +50,9 @@ Following the invocation of the mother goddess, a large flag is hoisted at the *
 
 The reading of the Mahabharatam begins on the day the flag is hoisted, and a portion of the epic is read nightly thereafter. In the 1960s and 1970s, the reading was done by a volunteer known to all as Bharata *poosari*. According to E.V. Singhan’s account of the festival in 1976, the reader was paid more than $160 for his efforts.[^9] In the 1990s, the writer and radio producer M.K. Narayanan would read the epic to an audience of devotees at the Sri Mariamman Temple.[^10] Today, it is read by the chief priest.
 
+![](/images/Vol%2018%20Issue%203/Theemithi/3_reading.png)
+<div style="background-color: white;"> Reading of the Mahabharatam by the chief priest at the Sri Mariamman Temple, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 The preparation of the *kodi*, or flag, is itself an elaborate process. A new *kodi* has to be made annually. The white, cotton fabric – about 45 m long and a metre across – is sourced from a textile store at Jalan Sultan by volunteers, according to a 2022 interview with Moti Lal Prasad. (Lal Prasad has been a volunteer at the temple since 1982 when he joined the Navaratri boys group.[^11])
 
 According to Prasad, “the *kodi* is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. Hanuman’s inclusion is reminiscent of Draupadi and Bhiman’s (one of the Pandava brothers) encounter with the deity in the Mahabharatam. 
