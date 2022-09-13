@@ -122,4 +122,16 @@ Padukalam marks the last day of the Kurukshetra battle and takes place on the mo
 Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Bhishma and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
 The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
 
-Her vow of vengeance achieved, Draupadi combs her hair and ties it. Volunteers quickly assist the priests to do 
+Her vow of vengeance achieved, Draupadi combs her hair and ties it. Volunteers quickly assist the priests to do the same for the processional image of Draupadi. Her yellow sari is changed to red, and her hair knotted into a bun.21 It is only after these rituals are completed that the preparations for the firewalking can begin. 
+
+How does all this relate to firewalking? Born of the fire during a yagnam or fire ritual,22 Draupadi is believed to protect whoever takes the vow to walk through the fire by making the coals as cool as flowers.
+
+In the various Tamil versions of the epic, four different pre- and post-battle origin myths involve Draupadi walking on fire. These include her proving her chastity after marrying the five Pandava brothers, after her encounter with Keesaga (who makes advances on her), and a post-battle purification. The fourth is one that suggests the ritual’s association with the revival of Draupadi’s sons who are sacrificed during the war.23
+
+#### **Walking on Coals**
+
+Throughout the day, volunteers at the Sri Mariamman Temple help to build the firepit. Over the years, the width of the pit has changed to take into consideration safety measures.24 Currently, the pit is around 18 feet (5.5 m) in length, in reference to the 18 days of the Kurukshetra battle. In the morning, the chief pandaram conducts a ritual during which margosa leaves and burning firewood chunks brought from the shrine of Draupadi are used to light up the pit. 
+
+At about 6 pm, the karagam would be constructed at the Sri Srinivasa Perumal Temple on Serangoon Road, and at around 7 pm, the five-kilometre-long foot procession to Sri Mariamman Temple commences. The procession is led by the chief pandaram carrying the karagam on his head, followed by the 2,000 or so devotees. As the group approaches Sri Mariamman Temple, a temple official sprinkles jasmine flowers in the fire pit and throws lemons on the embers. 
+
+The firewalking starts at around 8.30 pm with the chief pandaram being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip 
