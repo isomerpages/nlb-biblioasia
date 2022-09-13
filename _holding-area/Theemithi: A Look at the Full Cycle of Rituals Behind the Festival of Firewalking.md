@@ -160,4 +160,4 @@ Theemithi is both public yet widely misconstrued. While the act of walking on fi
 
 It is a festival rendered invisible not by the lack of, but by the excess of light or exposure. It is like that old and overexposed photograph in a photo album that has only one detail in focus, the rest washed out because the aperture setting and shutter speed were out of sync. The oldest paradox of prejudice is that it renders its subject at once invisible and overexposed.32
 
-<div> I am grateful to Balakrishnan Veerasamy Ramaswamy, T. Kavindran and T. Rajasegar of the Hindu Endowments Board for their support of my requests for images and audio interviews in the course of research for this essay.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> I am grateful to Balakrishnan Veerasamy Ramaswamy, T. Kavindran and T. Rajasegar of the Hindu Endowments Board for their support of my requests for images and audio interviews in the course of research for this essay.</div>
