@@ -152,6 +152,9 @@ How does all this relate to firewalking? Born of the fire during a *yagnam* or f
 
 In the various Tamil versions of the epic, four different pre- and post-battle origin myths involve Draupadi walking on fire. These include her proving her chastity after marrying the five Pandava brothers, after her encounter with Keesaga (who makes advances on her), and a post-battle purification. The fourth is one that suggests the ritual’s association with the revival of Draupadi’s sons who are sacrificed during the war.[^23]
 
+![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
+<div style="background-color: white;"> Chakravarthi Kottai, 2021. This ritual pertains to the entrapment of Abhimanyu, one of the sons of Arjunan, on the battlefield. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 #### **Walking on Coals**
 
 Throughout the day, volunteers at the Sri Mariamman Temple help to build the firepit. Over the years, the width of the pit has changed to take into consideration safety measures.[^24] Currently, the pit is around 18 feet (5.5 m) in length, in reference to the 18 days of the Kurukshetra battle. In the morning, the chief *pandaram* conducts a ritual during which margosa leaves and burning firewood chunks brought from the shrine of Draupadi are used to light up the pit. 
