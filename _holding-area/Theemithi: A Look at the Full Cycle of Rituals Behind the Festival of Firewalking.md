@@ -135,6 +135,9 @@ Positioned in front of Aravan’s shrine, volunteers take the lead in this ritua
 
 A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
 
+![](/images/Vol%2018%20Issue%203/Theemithi/8_ChakravarthiKottai.png)
+<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 #### ***Padukalam***
 
 Padukalam marks the last day of the Kurukshetra battle and takes place on the morning of the firewalking event. It brings to an end the cycle of epic-based re-enactments explaining the root legends for the cult of goddess Draupadi. Padukalam, which means “dying/lying down on the battlefield”, is an elaborate re-creation of battlefield rituals that focuses on Draupadi, who has to decide if the Pandava and Kaurava casualties of war should receive salvation or damnation. 
