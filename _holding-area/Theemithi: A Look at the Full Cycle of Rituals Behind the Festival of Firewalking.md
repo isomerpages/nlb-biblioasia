@@ -179,7 +179,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^5]: In the Mahabharata, the core narrative revolves around warring cousins, the Kauravas (the sons of King Dhritarashtra and the heirs of the lineage of the clan’s ancestor and great king Kuru) and the Pandavas (the five sons of king Pandu). Their antagonistic relationship results in the battle of Kurukshetra, an epic battle that is thought to have taken place around 1200 BCE on the basis of archaeological evidence discovered in the modern Indian state of Uttar Pradesh. More recent excavations have raised questions of the possibility of an earlier dating for the epic-related events.
 
-[^6]: Cinkappur Sri Mariyamman Kovil, *Mahaparatham*, private records, 1896 (From National Archives of Singapore, microfilm no. NA1984); Cinkappur Sri Mariyamman Kovil, Hindu Religious Book Vol.1 Mahaparatham, private records, 1897. (From National Archives of Singapore, microfilm no. NA1982)
+[^6]: Cinkappur Sri Mariyamman Kovil, *Mahaparatham*, private records, 1896 (From National Archives of Singapore, microfilm no. NA1984); Cinkappur Sri Mariyamman Kovil, *Hindu Religious Book Vol.1 Mahaparatham*, private records, 1897. (From National Archives of Singapore, microfilm no. NA1982)
 
 [^7]: The water vessel is filled with approximately 5 kg of rice, a gold coin and one lemon. A stick is anchored in the rice and margosa leaves attached to the vessel. Once secured, malli and mullai (both are different varieties of jasmine) flowers are wrapped around the structure. The mukham or silver image of the face of the mother goddess, Periyachi Amman, is attached to the front demonstrating that the karagam personifies the goddess.
 
