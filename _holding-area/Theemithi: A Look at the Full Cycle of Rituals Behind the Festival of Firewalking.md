@@ -186,7 +186,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^8]: Indira Arumugam, “Migrant Deities: Dislocations, Divine Agency, and Mediated Manifestations,” *American Behavioral Scientist* 64, no. 10 (2020): 1463, https://doi.org/10.1177/0002764220947763.
 
-[^9]: E.V. Singhan, *Timiti Festival* (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
+[^9]: E.V. Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082121) (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
 
 [^10]: Balakrishnan Veerasamy Ramasamy, interview by author, 13 July 2022.
 
