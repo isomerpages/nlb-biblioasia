@@ -229,6 +229,6 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^30]: H.T. Haughton, “Native Names of Streets in Singapore,” Journal of the Malaysian Branch of the Royal Asiatic Society 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s eResources website)
 
-“Weird Ceremony. Strange Behaviour at A Hindu Festival. Fire-walking and Its Objects,” Straits Budget, 14 June 1906, 10. (From NewspaperSG)
+[^31]:“Weird Ceremony. Strange Behaviour at A Hindu Festival. Fire-walking and Its Objects,” Straits Budget, 14 June 1906, 10. (From NewspaperSG)
 
-Bharti Mukherjee, “An Invisible Woman,” Saturday Night 96 (March 1981), 36–40.
+[^32]:Bharti Mukherjee, “An Invisible Woman,” Saturday Night 96 (March 1981), 36–40.
