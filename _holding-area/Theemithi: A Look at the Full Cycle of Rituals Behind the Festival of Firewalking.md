@@ -71,7 +71,7 @@ In the Tamil renditions of the epic – and indeed in the Draupadi cult as well 
 During Theemithi, a unique retelling of the epic unfolds that places Draupadi as the central character. It commences with Draupadi’s engagement ceremony. Called Malaiyithudal, the ritual marks the betrothal of Arjunan and Draupadi and is held on the Monday just after the flag is hoisted. The processional images of the two are dressed, adorned with fresh flower garlands, and decorated. *Ubhayakarar* (patrons) represent the groom’s and bride’s families during the rites. 
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/5_icons.png)
-<div style="background-color: white;"> The chief priest performing prayers before the <i>kodi</i> (flag) is hoisted, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+<div style="background-color: white;"> The processional icons of Draupadi and Arjunan decorated elaborately for the Malaiyithudal, or engagement ceremony, at the Sri Mariamman Temple, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 After the rites are performed by priests, the polychrome figures are carried by volunteers in circumambulation within the temple, together with the processional images of Krishnan and Virabadran, the latter being a *munnodi deivam* or frontrunning guardian of Draupadi.
 
