@@ -209,25 +209,25 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^20]: This group of volunteers is called the SLP group. S.L.P or S.L. Perumal was the son-in-law of B. Govindasamy Chettiar, the owner of the Indian Labour Company, which supplied labour to the Singapore Harbour Board. A representative of the S.L. Perumal family officiates this ritual. 
 
-Balakrishnan, interview.
+[^21]: Balakrishnan, interview.
 
-“The Hindoo Religious Ceremony.”
+[^22]: “The Hindoo Religious Ceremony.”
 
-Hiltebeitel, The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra, 440–41.
+[^23]: Hiltebeitel, The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra, 440–41.
 
-Balakrishnan, interview.
+[^24]: Balakrishnan, interview.
 
-Lawrence A. Babb, Walking on Flowers in Singapore: A Hindu Festival Cycle Issues 26–34 (Singapore: Department of Sociology, National University of Singapore, 1974), 3. 
+[^25]: Lawrence A. Babb, Walking on Flowers in Singapore: A Hindu Festival Cycle Issues 26–34 (Singapore: Department of Sociology, National University of Singapore, 1974), 3. 
 
-Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” L11: Letters to and from Raffles 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
+[^26]: Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” L11: Letters to and from Raffles 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
 
-Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in Singapore Indian Heritage, ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
+[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in Singapore Indian Heritage, ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
 
-Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
+[^28]: Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
 
-Soundara Rajan, oral history interview by Kartini Lim Chiwen, 17 December 1987, transcript and MP3 audio, Reel/Disc 16 of 23, 30:09, National Archives of Singapore (accession no. 000845), 176–78.  
+[^29]: Soundara Rajan, oral history interview by Kartini Lim Chiwen, 17 December 1987, transcript and MP3 audio, Reel/Disc 16 of 23, 30:09, National Archives of Singapore (accession no. 000845), 176–78.  
 
-H.T. Haughton, “Native Names of Streets in Singapore,” Journal of the Malaysian Branch of the Royal Asiatic Society 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s eResources website)
+[^30]: H.T. Haughton, “Native Names of Streets in Singapore,” Journal of the Malaysian Branch of the Royal Asiatic Society 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s eResources website)
 
 “Weird Ceremony. Strange Behaviour at A Hindu Festival. Fire-walking and Its Objects,” Straits Budget, 14 June 1906, 10. (From NewspaperSG)
 
