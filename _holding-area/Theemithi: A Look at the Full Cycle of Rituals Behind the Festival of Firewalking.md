@@ -220,9 +220,9 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^25]: Lawrence A. Babb, *Walking on Flowers in Singapore: A Hindu Festival Cycle Issues 26–34* (Singapore: Department of Sociology, National University of Singapore, 1974), 3. 
 
-[^26]: Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” *L11: Letters to and from Raffles* 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
+[^26]: Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” [*L11: Letters to and from Raffles*](https://www.nas.gov.sg/archivesonline/private_records/record-details/7944b805-02a0-11e9-bebd-001a4a5ba61b) 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
 
-[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in *Singapore Indian Heritage*, ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
+[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in [*Singapore Indian Heritage*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203015142), ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
 
 [^28]: Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
 
