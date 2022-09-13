@@ -58,7 +58,7 @@ The preparation of the *kodi*, or flag, is itself an elaborate process. A new *k
 According to Prasad, “the *kodi* is then taken to a tailor in Little India to be finished, and from there, to the temple to be framed and made ready for painting. An artist known as Mr Sam then paints the image of Hanuman or Anjaneyar” (the monkey god) carrying the Sanjeevani Hill in his right hand. Hanuman’s inclusion is reminiscent of Draupadi and Bhiman’s (one of the Pandava brothers) encounter with the deity in the Mahabharatam. 
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/4_performingprayers.png)
-<div style="background-color: white;"> Reading of the Mahabharatam by the chief priest at the Sri Mariamman Temple, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+<div style="background-color: white;"> The chief priest performing prayers before the <i>kodi</i> (flag) is hoisted, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 The painting of Hanuman spans only about 1.2 m by 1 m of the enormous flag. After it is painted, it is removed from the frame. On the day of the flag hoisting, the *kodi* is decorated with silk and flowers. Following rituals, the flag is then hoisted and remains on the flag post till the end of Theemithi. The taking down of the flag marks the end of the festival. The flag is then cut and the painted portion kept in storage, while the unpainted portion is discarded.[^12]
 
