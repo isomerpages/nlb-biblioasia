@@ -98,7 +98,7 @@ The USIS Library welcomed the public to browse or borrow its reading materials r
 The USIS also funded the production of anti-communist films in Singapore such as *Kampong Sentosa*. The agency provided covert financial support for the production of this film, which was helmed by Hollywood director B. Reeves Eason.[^31]
 
 ![](/images/Vol%2018%20Issue%203/Cold%20War/Kampong_Sentosa.jpg)
-<div style="background-color: white;"> Entries from the <i>Sin Hwa Dictionary. Image reproduced from “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives, 9 March 1952, 6. (From National Archives of Singapore, accession no. FCO 141/15152).</i>
+<div style="background-color: white;"> The opening scene of <i>Kampong Sentosa. Courtesy of the United States and Records Administration (NARA).</i>
 </div>
 
 ![](/images/Vol%2018%20Issue%203/Cold%20War/pro-Communist.png)
