@@ -1,6 +1,6 @@
 ---
 title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
-permalink: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
+permalink: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/
 description: As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
   Dead - Image 4.png
@@ -137,7 +137,7 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^16]: Elena Chong, “['Alive When He Entered the Water'](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840912-1.2.24.8),” *Straits Times*, 12 September 1984, 12; Elena Chong, “[Coroner: No Foul Play in Ex-CPIB Man's Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840923-1.2.4),” *Straits Times*, 23 September 1984, 1. (From NewspaperSG)
 
-[^17]: “[Eight of Nine Who Died Could Have Been Saved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740206-1.2.66),” *Straits Times*, 6 February 1974, 8. (From NewspaperSG); Chee Yam Cheng, “Citation of 1998 SMA Honorary Membership, Prof Chao Tzee Cheng,” SMA News 30, no. 5 (1998), https://www.sma.org.sg/sma_news/3005/news/3005n7.htm; Committee of Inquiry, [*Report on the Explosion at Ginza Plaza*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6441681) (Singapore: Subordinate Courts, 1993), 1, 164. (From National Library, Singapore, call no. RSING 363.11969095957 SIN); Karamjit Kaur, “[Three Passengers Identified from Ring, Hair and Fingerprint](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980106-1.2.38.5),” *Straits Times*, 6 January 1998, 29. (From NewspaperSG)
+[^17]: “[Eight of Nine Who Died Could Have Been Saved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740206-1.2.66),” *Straits Times*, 6 February 1974, 8. (From NewspaperSG); Chee Yam Cheng, “Citation of 1998 SMA Honorary Membership, Prof Chao Tzee Cheng,” *SMA News* 30, no. 5 (1998), https://www.sma.org.sg/sma_news/3005/news/3005n7.htm; Committee of Inquiry, [*Report on the Explosion at Ginza Plaza*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6441681) (Singapore: Subordinate Courts, 1993), 1, 164. (From National Library, Singapore, call no. RSING 363.11969095957 SIN); Karamjit Kaur, “[Three Passengers Identified from Ring, Hair and Fingerprint](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980106-1.2.38.5),” *Straits Times*, 6 January 1998, 29. (From NewspaperSG)
 
 [^18]: Ministry of Health Singapore, *Caring for Our People: 50 Years of Healthcare in Singapore* (Singapore: MOH Holdings Pte Ltd, 2015), 116–17, https://www.mohh.com.sg/Documents/book/caring-for-our-people-50-years-of-healthcare-in-singapore.pdf.
 

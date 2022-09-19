@@ -219,7 +219,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
 
-[^38]: Wang 王振春 [Wang Zhenchun], [话说密驼路](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
+[^38]: 王振春 [Wang Zhenchun], [话说密驼路](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
 
 [^39]: Teo Han Wue, “[Lim’s in a World of His Own](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830620-1.2.135.2),” *Straits Times*, 20 June 1983, Section Three, 1. (From NewspaperSG)
 

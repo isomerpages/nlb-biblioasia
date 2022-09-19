@@ -1,6 +1,6 @@
 ---
 title: "They Died for All Free Men: Stories from Kranji War Cemetery"
-permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
+permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/
 description: "Remembering those who died while fighting the Japanese during World War II. "
 image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
 ---
@@ -171,7 +171,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
-[^21]: “[Death Before Dishonour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911208-1.2.56.2.3),” *Straits Times*, 8 December 1991. (From NewspaperSG)
+[^21]: “[Death Before Dishonour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911208-1.2.56.2.3),” *Straits Times*, 8 December 1991, 2 (From NewspaperSG)
 
 [^22]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
 
@@ -201,13 +201,13 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 248; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 87–88.
 
-[^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Tribune*, 3 March 1957. (From NewspaperSG)
+[^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Tribune*, 3 March 1957, 1 (From NewspaperSG)
 
 [^37]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 98–99.
 
-[^38]: Nan Hall, “[Thoughts of the Past Move 81-Year-Old War Heroine to Tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6),” *Straits Times*, 3 March 1957; “[Tragic Memories in a Garden of Peace](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.2),” *Straits Times*, 3 March 1957; “[A Moving Dedication at New Shrine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570302-1.2.12),” *Singapore Free Press*, 2 March 1957. (From NewspaperSG)
+[^38]: Nan Hall, “[Thoughts of the Past Move 81-Year-Old War Heroine to Tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6),” *Straits Times*, 3 March 1957, 1; “[Tragic Memories in a Garden of Peace](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.2),” *Straits Times*, 3 March 1957, 1; “[A Moving Dedication at New Shrine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570302-1.2.12),” *Singapore Free Press*, 2 March 1957, 3. (From NewspaperSG)
 
-[^39]: “[A Heroine Is Rewarded](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480725-1.2.58),” *Straits Times*, 25 July 1948. (From NewspaperSG)
+[^39]: “[A Heroine Is Rewarded](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480725-1.2.58),” *Straits Times*, 25 July 1948, 5. (From NewspaperSG)
 
 [^40]: “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 

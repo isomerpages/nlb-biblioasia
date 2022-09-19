@@ -5,8 +5,6 @@ description: In the post-World War II period, Singapore was a battleground for
   ideological competition between the Soviet Union and China on one side, and
   the United States and United Kingdom on the other.
 ---
-
-
 #### In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 By Chow Chia Yung
 
@@ -54,6 +52,10 @@ The dictionary’s definition for the Chinese Communist Party (“共產黨”) 
 
 Another Chinese-English dictionary highlighted was 新華字典 (*Sin Hwa Dictionary*), which was published by the People’s Education Publishing House in Peking (now Beijing). It defined the characters “擺脫” to mean “get rid of” and gave the example: “Today, one third of the whole human race have already got rid of the oppression of capitalism.” The character “蔑” was translated to mean “look down upon” and the example given was: “We must look down upon American imperialism.” “共產主義”, which means “Communism”, was defined as “the highest stage in the development of human society”.[^14]
 
+![](/images/Vol%2018%20Issue%203/Cold%20War/pro-Communist.png)
+<div style="background-color: white;"> Entries from the <i>Sin Hwa Dictionary. Image reproduced from “Legislative Assembly, Singapore, Sessional Paper No. Cmd 14 of 1959,” in the National Archives (United Kingdom), Singapore: Control of Cultural Influences from the Chinese Mainland. Secret – Migrated Archives, 9 March 1952, 6. (From National Archives of Singapore, accession no. FCO 141/15152).</i>
+</div>
+
 Dictionaries were not the only focus. The book, *Singing and Acting for Young Children Vol IV*, had songs with lyrics that glorified the success of communism in China such as “The entire China wants liberation” and “Equality and freedom in New China”.[^15]
 
 China also produced literature in support of the Malayan Communist Party (MCP) during the Malayan Emergency period. The educational book in English, simply titled *Malaya*, sought to get readers to sympathise with the MCP and to support their efforts. The book noted that the party had to go underground in 1948 because “of the persecution of the British imperialists. Following this it initiated and led armed resistance against the British in the struggle for national liberation… the MCP has been carrying on its struggle against enslavement and colonial rule”.[^16]
@@ -98,6 +100,10 @@ Books such as *Animal Farm* by George Orwell and *Rice-Sprout Song* by Eileen Ch
 The USIS Library welcomed the public to browse or borrow its reading materials regardless of membership. There was a constant stream of patrons visiting the library, which welcomed its 10,000th member within a few months of its opening.[^30]
 
 The USIS also funded the production of anti-communist films in Singapore such as *Kampong Sentosa*. The agency provided covert financial support for the production of this film, which was helmed by Hollywood director B. Reeves Eason.[^31]
+
+![](/images/Vol%2018%20Issue%203/Cold%20War/Kampong_Sentosa.jpg)
+<div style="background-color: white;"> The opening scene of <i>Kampong Sentosa. Courtesy of the United States and Records Administration (NARA).</i>
+</div>
 
 Besides *Kampong Sentosa*, the USIS also developed its own documentaries for public viewing at the USIS Library. The documentaries portrayed the domestic and international policies of the US in a favourable light. The collection of the library also included anti-communist documentaries such as *In Defense of Peace* and the *Hungarian Story*. 
 

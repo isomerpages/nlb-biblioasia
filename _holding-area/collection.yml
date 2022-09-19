@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
+        Firewalking.md"
       - Test page.md

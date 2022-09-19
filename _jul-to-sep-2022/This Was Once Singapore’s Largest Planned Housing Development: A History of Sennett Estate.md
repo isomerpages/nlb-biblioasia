@@ -152,7 +152,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^2]: Dhoraisingam S. Samuel, [*Singapore’s Heritage: Through Places of Historical Interest*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695618) (Singapore: Dhoraisingam S. Samuel, 2010), 19. (From National Library, Singapore, call no. RSING 959.57 SAM-[HIS])
 
-[^3]: Roy Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23),” *Singapore Free Press*, 20 April 1948, 2. (From NewspaerSG)
+[^3]: Roy Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23),” *Singapore Free Press*, 20 April 1948, 2. (From NewspaperSG)
 
 [^4]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71),” *Sunday Tribune*, 23 February 1936, 17. (From NewspaperSG)
 
@@ -172,7 +172,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^12]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
-[^13]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25)”; “[400 Houses to Go Up in Alkaff Area](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501229-1.2.84),” *Singapore Free Press*, 29 December 1950. (From NewspaperSG)
+[^13]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25)”; “[400 Houses to Go Up in Alkaff Area](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501229-1.2.84),” *Singapore Free Press*, 29 December 1950, 5. (From NewspaperSG)
 
 [^14]: “[Garden Lake To Be Filled Up](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500718-1.2.114),” *Straits Times*, 18 July 1950, 7. (From NewspaperSG)
 
