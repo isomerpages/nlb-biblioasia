@@ -187,12 +187,12 @@ During firewalking, it is also the *vepailai karagam* (the consecrated vessel) a
 
 As the accounts above show, Theemithi celebrations have changed over the years in Singapore. In fact, while the festival is closely associated with the Sri Mariamman Temple now, during parts of the 19th century, the firewalking used to take place on Albert Street earning the street the Tamil name *Theemithi Thidal* (“open field”).[^30] The engagement of John Napier by the temple in 1893 shows that the practice had long migrated to the temple by the late 19th century.
 
-![](/images/Vol%2018%20Issue%203/Theemithi/13_whipped.png)
-<div style="background-color: white;"> A devotee being whipped to prepare himself for the firewalking at the Sri Mariamman Temple, 1990. Whipping is no longer carried out today. <i>Singapore Tourism Board Collection, courtesy of National Archives of Singapore.</i></div>
-
 And while the firewalking today is a male activity, in the 19th century, women too walked over the coals and did so up to the early 20th century. In fact, Police Superintendent Bell’s case was lodged in 1893 after hearing about a female devotee who had fallen into the firepit. We do not know when or why women stopped walking across the pit, but today, someways women participate in the ceremony include lighting the *maavilakku* (a lamp made of rice flour), performing *kumbuduthandam*[^31] (“repeated kneeling down and touching the floor with the head around the temple”), or carrying out *angapradakshinam* (“rolling on the ground”). 
 
 Of course, the rituals have changed as well over time. Some have become more elaborate, such as the Aravan Poojai, while others are no longer carried out, such as the ritual slaying of goats and the whipping of devotees. 
+
+![](/images/Vol%2018%20Issue%203/Theemithi/13_whipped.png)
+<div style="background-color: white;"> A devotee being whipped to prepare himself for the firewalking at the Sri Mariamman Temple, 1990. Whipping is no longer carried out today. <i>Singapore Tourism Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 The space accorded for change has kept Theemithi a living one. Moreover, the festival has forged together an ever-renewing, inter-generational community of volunteers, families and practitioners who keep strong the tradition of this epic devotion. 
 
