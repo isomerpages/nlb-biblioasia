@@ -142,9 +142,6 @@ A volunteer representing Abhimanyu lies down on a thin, white fabric and is comp
 
 Padukalam marks the last day of the Kurukshetra battle and takes place on the morning of the firewalking event. It brings to an end the cycle of epic-based re-enactments explaining the root legends for the cult of goddess Draupadi. Padukalam, which means “dying/lying down on the battlefield”, is an elaborate re-creation of battlefield rituals that focuses on Draupadi, who has to decide if the Pandava and Kaurava casualties of war should receive salvation or damnation. 
 
-![](/images/Vol%2018%20Issue%203/Theemithi/10_Draupadi.png)
-<div style="background-color: white;"> Draupadi in procession after the fulfilment of her vow, about to mark out the firepit, 2021. <i>Courtesy of Balakrishnan Veerasamy Ramasamy.</i></div>
-
 Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Bhishma and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
 
 The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
@@ -153,6 +150,9 @@ The fourth effigy represents Dushasanan, the one responsible for her dishonour. 
 <div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 Her vow of vengeance achieved, Draupadi combs her hair and ties it. Volunteers quickly assist the priests to do the same for the processional image of Draupadi. Her yellow sari is changed to red, and her hair knotted into a bun.[^21] It is only after these rituals are completed that the preparations for the firewalking can begin. 
+
+![](/images/Vol%2018%20Issue%203/Theemithi/10_Draupadi.png)
+<div style="background-color: white;"> Draupadi in procession after the fulfilment of her vow, about to mark out the firepit, 2021. <i>Courtesy of Balakrishnan Veerasamy Ramasamy.</i></div>
 
 How does all this relate to firewalking? Born of the fire during a *yagnam* or fire ritual,[^22] Draupadi is believed to protect whoever takes the vow to walk through the fire by making the coals as cool as flowers.
 
