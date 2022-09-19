@@ -98,7 +98,7 @@ The *thabasu maram* – the most elaborate of ritual props used in the cycle of 
 The volunteer in the role of Arjunan ascends the pole after reciting an invocation in Tamil. The proceedings conclude with a circumambulatory procession around the temple grounds, which ends at the shrine of Draupadi.
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/6_Arjunan.png)
-<div style="background-color: white;"> <i>Arjunan Thabasu</i> at the Sri Mariamman Temple, 2021. The ritual involves Arjunan climbing the <i>thabasu maram</i> (which represents a bael tree) where he meditates to receive a weapon called <i>pasupastra</i> from Siva. Pictured here is the volunteer Kumaran, who has assumed the role of Arjunan for around four years now.  <i>Courtesy of the Hindu Endowments Board.</i></div>
+<div style="background-color: white;"> Arjunan Thabasu at the Sri Mariamman Temple, 2021. The ritual involves Arjunan climbing the <i>thabasu maram</i> (which represents a bael tree) where he meditates to receive a weapon called <i>pasupastra</i> from Siva. Pictured here is the volunteer Kumaran, who has assumed the role of Arjunan for around four years now.  <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 In the 1970s, the re-enactment of Arjunan Thabasu took place after the sacrifice of Aravan, during the battle of Kurukshetra between the Pandavas and the Kauravas, a central element in the Mahabharatam.[^15] It is not known when this ritual was moved to earlier in the cycle, to reflect Arjunan’s penance occuring before the battle.
 
@@ -167,7 +167,7 @@ At about 6 pm, the *karagam* would be constructed at the Sri Srinivasa Perumal T
 The firewalking starts at around 8.30 pm with the chief *pandaram* being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/11_chief%20copy.png)
-<div style="background-color: white;">Chief <i>pandaram</i> K. Swaminathan placing the karagam on his head ahead of the foot procession to Sri Mariamman Temple, early 2000s. The <i>karagam</i> is a consecrated vessel embodying the mother goddess at Amman temples. <i>Courtesy of Balakrishnan Veerasamy</i></div>
+<div style="background-color: white;">Chief <i>pandaram</i> K. Swaminathan placing the <i>karagam</i> on his head ahead of the foot procession to Sri Mariamman Temple, early 2000s. The <i>karagam</i> is a consecrated vessel embodying the mother goddess at Amman temples. <i>Courtesy of Balakrishnan Veerasamy.</i></div>
 
 Two days after the firewalking, the festival finally concludes with the coronation of Dharmaraja, the eldest of the Pandava brothers, and the Manjal Neerattu, a celebration of victory involving the splashing of turmeric water. Thereafter, the *kodi* is taken down, and all ritual objects and the Mahabharatam stored away.
 
