@@ -142,21 +142,22 @@ A volunteer representing Abhimanyu lies down on a thin, white fabric and is comp
 
 Padukalam marks the last day of the Kurukshetra battle and takes place on the morning of the firewalking event. It brings to an end the cycle of epic-based re-enactments explaining the root legends for the cult of goddess Draupadi. Padukalam, which means “dying/lying down on the battlefield”, is an elaborate re-creation of battlefield rituals that focuses on Draupadi, who has to decide if the Pandava and Kaurava casualties of war should receive salvation or damnation. 
 
-![](/images/Vol%2018%20Issue%203/Theemithi/10_Draupadi.png)
-<div style="background-color: white;"> Draupadi in procession after the fulfilment of her vow, about to mark out the firepit, 2021. <i>Courtesy of Balakrishnan Veerasamy Ramasamy.</i></div>
-
 Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Bhishma and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
 
 The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
 
+![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
+<div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 Her vow of vengeance achieved, Draupadi combs her hair and ties it. Volunteers quickly assist the priests to do the same for the processional image of Draupadi. Her yellow sari is changed to red, and her hair knotted into a bun.[^21] It is only after these rituals are completed that the preparations for the firewalking can begin. 
+
+![](/images/Vol%2018%20Issue%203/Theemithi/10_Draupadi.png)
+<div style="background-color: white;"> Draupadi in procession after the fulfilment of her vow, about to mark out the firepit, 2021. <i>Courtesy of Balakrishnan Veerasamy Ramasamy.</i></div>
 
 How does all this relate to firewalking? Born of the fire during a *yagnam* or fire ritual,[^22] Draupadi is believed to protect whoever takes the vow to walk through the fire by making the coals as cool as flowers.
 
 In the various Tamil versions of the epic, four different pre- and post-battle origin myths involve Draupadi walking on fire. These include her proving her chastity after marrying the five Pandava brothers, after her encounter with Keesaga (who makes advances on her), and a post-battle purification. The fourth is one that suggests the ritual’s association with the revival of Draupadi’s sons who are sacrificed during the war.[^23]
 
-![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
-<div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 #### **Walking on Coals**
 
@@ -186,12 +187,12 @@ During firewalking, it is also the *vepailai karagam* (the consecrated vessel) a
 
 As the accounts above show, Theemithi celebrations have changed over the years in Singapore. In fact, while the festival is closely associated with the Sri Mariamman Temple now, during parts of the 19th century, the firewalking used to take place on Albert Street earning the street the Tamil name *Theemithi Thidal* (“open field”).[^30] The engagement of John Napier by the temple in 1893 shows that the practice had long migrated to the temple by the late 19th century.
 
-![](/images/Vol%2018%20Issue%203/Theemithi/13_whipped.png)
-<div style="background-color: white;"> A devotee being whipped to prepare himself for the firewalking at the Sri Mariamman Temple, 1990. Whipping is no longer carried out today. <i>Singapore Tourism Board Collection, courtesy of National Archives of Singapore.</i></div>
-
 And while the firewalking today is a male activity, in the 19th century, women too walked over the coals and did so up to the early 20th century. In fact, Police Superintendent Bell’s case was lodged in 1893 after hearing about a female devotee who had fallen into the firepit. We do not know when or why women stopped walking across the pit, but today, someways women participate in the ceremony include lighting the *maavilakku* (a lamp made of rice flour), performing *kumbuduthandam*[^31] (“repeated kneeling down and touching the floor with the head around the temple”), or carrying out *angapradakshinam* (“rolling on the ground”). 
 
 Of course, the rituals have changed as well over time. Some have become more elaborate, such as the Aravan Poojai, while others are no longer carried out, such as the ritual slaying of goats and the whipping of devotees. 
+
+![](/images/Vol%2018%20Issue%203/Theemithi/13_whipped.png)
+<div style="background-color: white;"> A devotee being whipped to prepare himself for the firewalking at the Sri Mariamman Temple, 1990. Whipping is no longer carried out today. <i>Singapore Tourism Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 The space accorded for change has kept Theemithi a living one. Moreover, the festival has forged together an ever-renewing, inter-generational community of volunteers, families and practitioners who keep strong the tradition of this epic devotion. 
 
