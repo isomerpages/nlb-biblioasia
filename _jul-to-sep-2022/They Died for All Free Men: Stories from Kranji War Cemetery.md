@@ -1,6 +1,6 @@
 ---
 title: "They Died for All Free Men: Stories from Kranji War Cemetery"
-permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
+permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/
 description: "Remembering those who died while fighting the Japanese during World War II. "
 image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
 ---
@@ -171,7 +171,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
-[^21]: “[Death Before Dishonour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911208-1.2.56.2.3),” *Straits Times*, 8 December 1991. (From NewspaperSG)
+[^21]: “[Death Before Dishonour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911208-1.2.56.2.3),” *Straits Times*, 8 December 1991, 2 (From NewspaperSG)
 
 [^22]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
 
