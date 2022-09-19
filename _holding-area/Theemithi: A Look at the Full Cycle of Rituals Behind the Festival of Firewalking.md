@@ -149,14 +149,15 @@ Volunteers construct five effigies made of sand mounds around the battlefield re
 
 The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
 
+![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
+<div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 Her vow of vengeance achieved, Draupadi combs her hair and ties it. Volunteers quickly assist the priests to do the same for the processional image of Draupadi. Her yellow sari is changed to red, and her hair knotted into a bun.[^21] It is only after these rituals are completed that the preparations for the firewalking can begin. 
 
 How does all this relate to firewalking? Born of the fire during a *yagnam* or fire ritual,[^22] Draupadi is believed to protect whoever takes the vow to walk through the fire by making the coals as cool as flowers.
 
 In the various Tamil versions of the epic, four different pre- and post-battle origin myths involve Draupadi walking on fire. These include her proving her chastity after marrying the five Pandava brothers, after her encounter with Keesaga (who makes advances on her), and a post-battle purification. The fourth is one that suggests the ritual’s association with the revival of Draupadi’s sons who are sacrificed during the war.[^23]
 
-![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
-<div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 #### **Walking on Coals**
 
