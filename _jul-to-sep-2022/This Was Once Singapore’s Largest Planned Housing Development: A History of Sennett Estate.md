@@ -172,7 +172,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^12]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
-[^13]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25)”; “[400 Houses to Go Up in Alkaff Area](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501229-1.2.84),” *Singapore Free Press*, 29 December 1950. (From NewspaperSG)
+[^13]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25)”; “[400 Houses to Go Up in Alkaff Area](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501229-1.2.84),” *Singapore Free Press*, 29 December 1950, 5. (From NewspaperSG)
 
 [^14]: “[Garden Lake To Be Filled Up](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500718-1.2.114),” *Straits Times*, 18 July 1950, 7. (From NewspaperSG)
 
