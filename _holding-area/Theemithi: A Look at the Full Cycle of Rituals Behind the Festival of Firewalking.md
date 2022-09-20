@@ -111,6 +111,9 @@ In the epic, Aravan is sacrificed to Kali to attain victory for the Pandava brot
 
 For this, small heaps of rice mixed with *kungumam* (vermillion) are placed on a white cloth adorning the neck of Aravan’s processional image, together with quarters of *poosani* (white pumpkin) smeared with vermillion, representing the blood of Aravan. The 32 heaps of rice symbolise the self-mutilated pieces of Aravan’s flesh and hallmarks of perfection, or *purusha lakshanam*, which Aravan is said to have sacrificed to Kali. 
 
+![](/images/Vol%2018%20Issue%203/Theemithi/7_sacrifice.png)
+<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 Before he is sacrificed, Aravan asked Krishnan for three boons – to get married, to die heroically on the battlefield, and to witness the entire war and its outcome. He is granted the first when Krishnan takes his female form as the enchantress Mohini and marries him. Aravan’s severed head – present in processional and immoveable forms at the temple – witnesses the events of the war leading up to Theemithi.  
 
 Aravan Poojai (ritual prayer) is offered to Aravan before his shrine and takes place on the Monday before Aravan Kalapali. Muthala Raja (better known in Tamil Nadu as Muthala Ravuttan, the Muslim shrine guardian), the guardian of Draupadi, is also revered at his shrine located northeast of Draupadi’s. The processional image of Aravan is then carried around the temple by volunteers, almost like a final celebration of his life before his self-sacrifice. 
@@ -120,9 +123,6 @@ On the day of Aravan Kalapali, a pair of temple volunteers assume the roles of D
 Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai used to be less elaborate and involved fewer people. The group of volunteers who handled matters relating to Aravan registered a *visesha poojai* (special prayer) from 1975 to make it officially part of the cycle of events. The volunteers aided the conduct of Aravan Poojai and Kalapali rites, including *anna danam* (distribution of free food). He also recalled that in the 1960s and 1970s, Aravan’s form was seen as fiercer than it is today, and women were asked to keep a distance during Kalapali.[^18]
 
 Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the *vesham* (role) of Draupadi for about 20 years from the early 1980s, recalled being cautioned by his mother that the role play was not a game. She also warned him that he might be teased by his friends for dressing like a woman. Balakrishnan, however, felt that it was a rare opportunity and blessing to serve Draupadi. He was 25 when he was asked to do so by the temple’s chairman, P.G.P. Ramachandran. Balakrishnan recalled the shock he felt when he first took on the role of Draupadi during Aravan Kalapali and experienced going into a trance.[^19]
-
-![](/images/Vol%2018%20Issue%203/Theemithi/7_sacrifice.png)
-<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 #### ***Chakravarti Kottai***
 
