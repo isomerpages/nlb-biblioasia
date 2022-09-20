@@ -10,7 +10,7 @@ annual firewalking festival held at the Sri Mariamman Temple on South Bridge Roa
 (It takes place on the Sunday before Deepavali.)
 
 While many people know about the firewalking, few understand its significance
-and or why it even takes place. For an insider’s take on Theemithi, don’t miss curator Nalina Gopal’s deep dive into the festival, accompanied by some amazing photographs.
+and or why it even takes place. For an insider’s take on [Theemithi](/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival), don’t miss curator Nalina Gopal’s deep dive into the festival, accompanied by some amazing photographs.
 
 In this issue, we continue to commemorate the 80th anniversary of the fall of
 Singapore, this time with an essay by writer Shirlene Noordin. This is a piece that
