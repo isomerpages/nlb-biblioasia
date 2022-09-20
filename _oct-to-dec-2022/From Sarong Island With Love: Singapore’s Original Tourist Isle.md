@@ -1,9 +1,10 @@
 ---
-title: "From Sarong Island with Love: Singapore’s Original Tourist Isle"
-permalink: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore
+title: "From Sarong Island With Love: Singapore’s Original Tourist Isle"
+permalink: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
 description: Before there was Sentosa, there was Sarong Island.
 image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
 ---
+
 #### Before there was Sentosa, there was Sarong Island. 
 By Lim Tin Seng
 

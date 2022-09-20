@@ -5,13 +5,13 @@ date: 2022-09-08
 layout: post
 description: ""
 ---
-Theemithi, the firewalking festival, takes place on the Sunday before Deepavali. In the cover story, read all about the associated cycle of ritualsheld over a three-month period before the festival.
+Theemithi, the firewalking festival, takes place a week before Deepavali (on a Sunday). In the cover story, read all about the associated cycle of rituals held over a three-month period before the festival.
 
-<img src="/images/Vol%2018%20Issue%202/BiblioAsia_JUL-SEP2022-FA-cover-edited.jpg">
+<img src="/images/Vol%2018%20Issue%203/cover_edited.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as *rōmusha* helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. 
 

@@ -1,9 +1,16 @@
 ---
 title: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
   Firewalking"
-permalink: /holding-area/test9/
-description: ""
+permalink: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+description: Theemithi is much more than just the firewalking festival. It is a
+  cycle of rituals that involves the re-enactment of events from the
+  Mahabharatam over several months.
+image: /images/Vol 18 Issue 3/Theemithi/1_cover.png
 ---
+
+
+
+
 #### Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 By Nalina Gopal
 
@@ -31,9 +38,6 @@ This story, contained in 18 *parvam* or books in Tamil and other versions, unfol
 #### ***Sri Periyachi Amman Poojai***
 
 The approximately three-month-long cycle of rituals commences with an invocation to the mother goddess, Periyachi Amman, in the Tamil month of Aadi (mid-July to mid-August) at the Sri Mariamman Temple. This tradition, too, has precedent in the epics – an autumn prayer to the goddess Durga was performed by Rama to defeat the demon king Ravana in the Ramayana, and by the Pandavas to defeat the Kauravas in the Mahabharatam. 
-
-![](/images/Vol%2018%20Issue%203/Theemithi/14_schedule.png)
-<div style="background-color: white;"> Key list of events associated with Theemithi in 2022. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 On the day of the prayer dedicated to Periyachi, which takes place on a Sunday in the month of Aadi, Mariamman is manifested in the *karagam*, or water vessel, embellished with margosa leaves (also known as neem leaves, and generally associated with the worship of Mariamman), flowers and lemons.[^7]
 
@@ -114,6 +118,9 @@ In the epic, Aravan is sacrificed to Kali to attain victory for the Pandava brot
 
 For this, small heaps of rice mixed with *kungumam* (vermillion) are placed on a white cloth adorning the neck of Aravan’s processional image, together with quarters of *poosani* (white pumpkin) smeared with vermillion, representing the blood of Aravan. The 32 heaps of rice symbolise the self-mutilated pieces of Aravan’s flesh and hallmarks of perfection, or *purusha lakshanam*, which Aravan is said to have sacrificed to Kali. 
 
+![](/images/Vol%2018%20Issue%203/Theemithi/7_sacrifice.png)
+<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 Before he is sacrificed, Aravan asked Krishnan for three boons – to get married, to die heroically on the battlefield, and to witness the entire war and its outcome. He is granted the first when Krishnan takes his female form as the enchantress Mohini and marries him. Aravan’s severed head – present in processional and immoveable forms at the temple – witnesses the events of the war leading up to Theemithi.  
 
 Aravan Poojai (ritual prayer) is offered to Aravan before his shrine and takes place on the Monday before Aravan Kalapali. Muthala Raja (better known in Tamil Nadu as Muthala Ravuttan, the Muslim shrine guardian), the guardian of Draupadi, is also revered at his shrine located northeast of Draupadi’s. The processional image of Aravan is then carried around the temple by volunteers, almost like a final celebration of his life before his self-sacrifice. 
@@ -123,9 +130,6 @@ On the day of Aravan Kalapali, a pair of temple volunteers assume the roles of D
 Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai used to be less elaborate and involved fewer people. The group of volunteers who handled matters relating to Aravan registered a *visesha poojai* (special prayer) from 1975 to make it officially part of the cycle of events. The volunteers aided the conduct of Aravan Poojai and Kalapali rites, including *anna danam* (distribution of free food). He also recalled that in the 1960s and 1970s, Aravan’s form was seen as fiercer than it is today, and women were asked to keep a distance during Kalapali.[^18]
 
 Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the *vesham* (role) of Draupadi for about 20 years from the early 1980s, recalled being cautioned by his mother that the role play was not a game. She also warned him that he might be teased by his friends for dressing like a woman. Balakrishnan, however, felt that it was a rare opportunity and blessing to serve Draupadi. He was 25 when he was asked to do so by the temple’s chairman, P.G.P. Ramachandran. Balakrishnan recalled the shock he felt when he first took on the role of Draupadi during Aravan Kalapali and experienced going into a trance.[^19]
-
-![](/images/Vol%2018%20Issue%203/Theemithi/7_sacrifice.png)
-<div style="background-color: white;"> Processional icon of Aravan at the Sri Mariamman Temple, 2019. The piece of white cloth placed around the neck of Aravan has been smeared with <i>kungumam</i> (vermillion) representing the blood of the sacrificed Aravan. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 #### ***Chakravarti Kottai***
 
@@ -165,10 +169,13 @@ Throughout the day, volunteers at the Sri Mariamman Temple help to build the fir
 
 At about 6 pm, the *karagam* would be constructed at the Sri Srinivasa Perumal Temple on Serangoon Road, and at around 7 pm, the five-kilometre-long foot procession to Sri Mariamman Temple commences. The procession is led by the chief *pandaram* carrying the *karagam* on his head, followed by the 2,000 or so devotees. As the group approaches Sri Mariamman Temple, a temple official sprinkles jasmine flowers in the fire pit and throws lemons on the embers. 
 
-The firewalking starts at around 8.30 pm with the chief *pandaram* being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
-
 ![](/images/Vol%2018%20Issue%203/Theemithi/11_chief%20copy.png)
 <div style="background-color: white;">Chief <i>pandaram</i> K. Swaminathan placing the <i>karagam</i> on his head ahead of the foot procession to Sri Mariamman Temple, early 2000s. The <i>karagam</i> is a consecrated vessel embodying the mother goddess at Amman temples. <i>Courtesy of Balakrishnan Veerasamy.</i></div>
+
+The firewalking starts at around 8.30 pm with the chief *pandaram* being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
+
+![](/images/Vol%2018%20Issue%203/Theemithi/12_Devotees.png)
+<div style="background-color: white;"> Devotees walking across the fire pit at the Sri Mariamman Temple during Theemithi, 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Two days after the firewalking, the festival finally concludes with the coronation of Dharmaraja, the eldest of the Pandava brothers, and the Manjal Neerattu, a celebration of victory involving the splashing of turmeric water. Thereafter, the *kodi* is taken down, and all ritual objects and the Mahabharatam stored away.
 
@@ -176,16 +183,13 @@ Two days after the firewalking, the festival finally concludes with the coronati
 
 The cult of Draupadi and her shrine at the Sri Mariamman Temple are attributed to a community of caulkers, or boat workers, who came from the village of Vadakku Poigainallur in Nagapattinam district.[^25]
 
-![](/images/Vol%2018%20Issue%203/Theemithi/12_Devotees.png)
-<div style="background-color: white;"> Devotees walking across the fire pit at the Sri Mariamman Temple during Theemithi, 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 The temple’s association with littoral communities goes back to its very foundation. Naraina Pillai was a native of the Coromandel Coast, and he is described as such in a letter written by Resident of Singapore William Farquhar in December 1822.[^26] Pillai was the driving force behind the establishment of the Sri Mariamman Temple – not only providing the funds for the purchase of the temple site but also installing the main deity when the temporary structure was completed in 1827.[^27]
 
 Some overlaps in the cults of Mariamman and Draupadi are evident in the festival. For instance, in the 1960s and 1970s,[^28] devotees would fulfil their vows to Mariamman by carrying *kavadi*, reminiscent of a Mariamman thiruvizha festival, like the one still held in Melaka known as Sembahyang Dato Charchar. Today, devotees in Singapore no longer carry *kavadi* during Theemithi.
 
 During firewalking, it is also the *vepailai karagam* (the consecrated vessel) associated with Mariamman that is carried by the chief *pandaram* across the firepit. The Sri Mariamman Temple is a syncretic space accommodating shrines of other gods and goddesses, including Draupadi.[^29] The highest respect, however, is always accorded to Mariamman.
 
-As the accounts above show, Theemithi celebrations have changed over the years in Singapore. In fact, while the festival is closely associated with the Sri Mariamman Temple now, during parts of the 19th century, the firewalking used to take place on Albert Street earning the street the Tamil name *Theemithi Thidal* (“open field”).[^30] The engagement of John Napier by the temple in 1893 shows that the practice had long migrated to the temple by the late 19th century.
+As the accounts above show, Theemithi celebrations have changed over the years in Singapore. In fact, while the festival is closely associated with the Sri Mariamman Temple now, during parts of the 19th century, the firewalking used to take place on Albert Street earning the street the Tamil name Theemithi Thidal (“open field”).[^30] The engagement of John Napier by the temple in 1893 shows that the practice had long migrated to the temple by the late 19th century.
 
 And while the firewalking today is a male activity, in the 19th century, women too walked over the coals and did so up to the early 20th century. In fact, Police Superintendent Bell’s case was lodged in 1893 after hearing about a female devotee who had fallen into the firepit. We do not know when or why women stopped walking across the pit, but today, someways women participate in the ceremony include lighting the *maavilakku* (a lamp made of rice flour), performing *kumbuduthandam*[^31] (“repeated kneeling down and touching the floor with the head around the temple”), or carrying out *angapradakshinam* (“rolling on the ground”). 
 
@@ -199,6 +203,9 @@ The space accorded for change has kept Theemithi a living one. Moreover, the fes
 Theemithi is both public yet widely misconstrued. While the act of walking on fire itself has consumed the attention of observers for close to two centuries, the participants’ account of the almost three-month-long festival clearly belies that singular focus on the spectacular.
 
 It is a festival rendered invisible not by the lack of, but by the excess of light or exposure. It is like that old and overexposed photograph in a photo album that has only one detail in focus, the rest washed out because the aperture setting and shutter speed were out of sync. The oldest paradox of prejudice is that it renders its subject at once invisible and overexposed.[^32]
+
+![](/images/Vol%2018%20Issue%203/Theemithi/14_schedule.png)
+<div style="background-color: white;"> Key list of events associated with Theemithi in 2022. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> I am grateful to Balakrishnan Veerasamy Ramaswamy, T. Kavindran and T. Rajasegar of the Hindu Endowments Board for their support of my requests for images and audio interviews in the course of research for this essay.</div>
 
