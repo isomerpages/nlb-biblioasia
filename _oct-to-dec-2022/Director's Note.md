@@ -3,9 +3,7 @@ title: Director's Note
 permalink: /vol-18/issue-3/oct-to-dec-2022/director-note/
 description: ""
 ---
-One of the wonderful things about Singapore is our multicultural society which allows
-us to easily experience the culture of others, whether it is the Chinese Mid-Autumn
-Festival or a Malay wedding. One of the more colourful examples is Theemithi, the annual firewalking festival held at the Sri Mariamman Temple on South Bridge Road. (It takes place a week before Deepavali, on a Sunday.)
+One of the wonderful things about Singapore is our multicultural society which allows us to easily experience the culture of others, whether it is the Chinese Mid-Autumn Festival or a Malay wedding. One of the more colourful examples is Theemithi, the annual firewalking festival held at the Sri Mariamman Temple on South Bridge Road. (It takes place a week before Deepavali, on a Sunday.)
 
 While many people know about the firewalking, few understand its significance
 and or why it even takes place. For an insider’s take on [Theemithi](/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival), don’t miss curator Nalina Gopal’s deep dive into the festival, accompanied by some amazing photographs.
