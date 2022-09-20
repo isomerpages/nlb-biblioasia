@@ -32,9 +32,6 @@ This story, contained in 18 *parvam* or books in Tamil and other versions, unfol
 
 The approximately three-month-long cycle of rituals commences with an invocation to the mother goddess, Periyachi Amman, in the Tamil month of Aadi (mid-July to mid-August) at the Sri Mariamman Temple. This tradition, too, has precedent in the epics – an autumn prayer to the goddess Durga was performed by Rama to defeat the demon king Ravana in the Ramayana, and by the Pandavas to defeat the Kauravas in the Mahabharatam. 
 
-![](/images/Vol%2018%20Issue%203/Theemithi/14_schedule.png)
-<div style="background-color: white;"> Key list of events associated with Theemithi in 2022. <i>Courtesy of the Hindu Endowments Board.</i></div>
-
 On the day of the prayer dedicated to Periyachi, which takes place on a Sunday in the month of Aadi, Mariamman is manifested in the *karagam*, or water vessel, embellished with margosa leaves (also known as neem leaves, and generally associated with the worship of Mariamman), flowers and lemons.[^7]
 
 The *pandaram*, or priest, carries the mother goddess in the form of the *karagam* on his head and a margosa stem in hand. He dances around the temple grounds, stopping from sanctum to sanctum. Once done, the priest changes his garb and adorns the attire of Madurai Veeran, the guardian of the goddess.
@@ -199,6 +196,9 @@ The space accorded for change has kept Theemithi a living one. Moreover, the fes
 Theemithi is both public yet widely misconstrued. While the act of walking on fire itself has consumed the attention of observers for close to two centuries, the participants’ account of the almost three-month-long festival clearly belies that singular focus on the spectacular.
 
 It is a festival rendered invisible not by the lack of, but by the excess of light or exposure. It is like that old and overexposed photograph in a photo album that has only one detail in focus, the rest washed out because the aperture setting and shutter speed were out of sync. The oldest paradox of prejudice is that it renders its subject at once invisible and overexposed.[^32]
+
+![](/images/Vol%2018%20Issue%203/Theemithi/14_schedule.png)
+<div style="background-color: white;"> Key list of events associated with Theemithi in 2022. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> I am grateful to Balakrishnan Veerasamy Ramaswamy, T. Kavindran and T. Rajasegar of the Hindu Endowments Board for their support of my requests for images and audio interviews in the course of research for this essay.</div>
 
