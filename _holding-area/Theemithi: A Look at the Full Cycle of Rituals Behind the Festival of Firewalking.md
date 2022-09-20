@@ -167,14 +167,14 @@ At about 6 pm, the *karagam* would be constructed at the Sri Srinivasa Perumal T
 
 The firewalking starts at around 8.30 pm with the chief *pandaram* being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
 
+![](/images/Vol%2018%20Issue%203/Theemithi/12_Devotees.png)
+<div style="background-color: white;"> Devotees walking across the fire pit at the Sri Mariamman Temple during Theemithi, 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Two days after the firewalking, the festival finally concludes with the coronation of Dharmaraja, the eldest of the Pandava brothers, and the Manjal Neerattu, a celebration of victory involving the splashing of turmeric water. Thereafter, the *kodi* is taken down, and all ritual objects and the Mahabharatam stored away.
 
 #### **Theemithi and the Sri Mariamman Temple**
 
 The cult of Draupadi and her shrine at the Sri Mariamman Temple are attributed to a community of caulkers, or boat workers, who came from the village of Vadakku Poigainallur in Nagapattinam district.[^25]
-
-![](/images/Vol%2018%20Issue%203/Theemithi/12_Devotees.png)
-<div style="background-color: white;"> Devotees walking across the fire pit at the Sri Mariamman Temple during Theemithi, 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The temple’s association with littoral communities goes back to its very foundation. Naraina Pillai was a native of the Coromandel Coast, and he is described as such in a letter written by Resident of Singapore William Farquhar in December 1822.[^26] Pillai was the driving force behind the establishment of the Sri Mariamman Temple – not only providing the funds for the purchase of the temple site but also installing the main deity when the temporary structure was completed in 1827.[^27]
 
