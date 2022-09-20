@@ -11,7 +11,7 @@ Theemithi, the firewalking festival, takes place on the Sunday before Deepavali.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" >Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as *rōmusha* helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. 
 
