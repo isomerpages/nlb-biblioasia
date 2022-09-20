@@ -7,7 +7,7 @@ description: ""
 ---
 Theemithi, the firewalking festival, takes place on the Sunday before Deepavali. In the cover story, read all about the associated cycle of ritualsheld over a three-month period before the festival.
 
-<img src="/images/Vol%2018%20Issue%202/BiblioAsia_JUL-SEP2022-FA-cover-edited.jpg">
+<img src="/images/Vol%2018%20Issue%203/cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
 
