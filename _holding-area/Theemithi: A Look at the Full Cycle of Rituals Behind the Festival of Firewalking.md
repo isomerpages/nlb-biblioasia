@@ -162,10 +162,10 @@ Throughout the day, volunteers at the Sri Mariamman Temple help to build the fir
 
 At about 6 pm, the *karagam* would be constructed at the Sri Srinivasa Perumal Temple on Serangoon Road, and at around 7 pm, the five-kilometre-long foot procession to Sri Mariamman Temple commences. The procession is led by the chief *pandaram* carrying the *karagam* on his head, followed by the 2,000 or so devotees. As the group approaches Sri Mariamman Temple, a temple official sprinkles jasmine flowers in the fire pit and throws lemons on the embers. 
 
-The firewalking starts at around 8.30 pm with the chief *pandaram* being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
-
 ![](/images/Vol%2018%20Issue%203/Theemithi/11_chief%20copy.png)
 <div style="background-color: white;">Chief <i>pandaram</i> K. Swaminathan placing the <i>karagam</i> on his head ahead of the foot procession to Sri Mariamman Temple, early 2000s. The <i>karagam</i> is a consecrated vessel embodying the mother goddess at Amman temples. <i>Courtesy of Balakrishnan Veerasamy.</i></div>
+
+The firewalking starts at around 8.30 pm with the chief *pandaram* being the first to walk across the fire pit. Thereafter, the five sword-bearers of Draupadi will be among the first devotees to walk the fire. Wearing jasmine garlands and carrying margosa leaves, devotees typically run across the pit. When they reach the other end, the devotees would dip their feet in a milk pit before proceeding to the shrine of Draupadi to offer the margosa leaves. Once the last devotee has crossed the pit, the flames are put out with milk from the same milk pit and with running water. The whole event ends at around 2.30 am.
 
 Two days after the firewalking, the festival finally concludes with the coronation of Dharmaraja, the eldest of the Pandava brothers, and the Manjal Neerattu, a celebration of victory involving the splashing of turmeric water. Thereafter, the *kodi* is taken down, and all ritual objects and the Mahabharatam stored away.
 
