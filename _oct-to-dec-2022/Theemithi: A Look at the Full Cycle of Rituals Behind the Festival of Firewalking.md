@@ -7,10 +7,6 @@ description: Theemithi is much more than just the firewalking festival. It is a
   Mahabharatam over several months.
 image: /images/Vol 18 Issue 3/Theemithi/1_cover.png
 ---
-
-
-
-
 #### Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 By Nalina Gopal
 
@@ -212,7 +208,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
-	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is founder of Antati, a historical research and museum consultancy.</div>
+	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is founder of Antāti, a historical research and museum consultancy.</div>
 
 #### **NOTES**
 
