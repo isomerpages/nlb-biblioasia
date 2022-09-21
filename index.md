@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: NLB BiblioAsia
+title: BiblioAsia
 description: BiblioAsia features the history, culture and heritage of Singapore
   within the larger Asian context. It is produced by the National Library of
   Singapore.
-image: /images/isomer-logo.svg
+image: /images/Vol 18 Issue 3/logo-biblioasia.png
 permalink: /
 notification: ""
 sections:
@@ -291,3 +291,5 @@ sections:
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
 ---
+
+
