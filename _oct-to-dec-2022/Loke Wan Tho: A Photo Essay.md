@@ -6,9 +6,6 @@ description: Loke Wan Tho was a renaissance man, says his niece, Choo Meileen,
 image: /images/Vol 18 Issue 3/Loke Wan Tho More Resources/Chua Mia Tee, Portrait
   of Dato Loke Wan Tho.jpg
 ---
-
-
-
 #### Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.[^1] 
  
 Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter of local sports, a photographer and an ornithologist. 
@@ -95,13 +92,13 @@ After his passing, his family donated $100,000 to establish the Loke Wan Tho Mem
 <div style="background-color: white;">The Loke Wan Tho Memorial Library is visited by foreign dignitaries, including Foreign Secretary of the Philippines General Carlos Romulo during his three-day official visit to Singapore in December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore, media image no. 19980002752-0047</i>.</div>
 
 #### **RELATED ARTICLES**
-Michael Mukunthan, "[Loke Wan Tho](https://eresources.nlb.gov.sg/infopedia/articles/SIP_782_2005-01-19.html)," <i>Singapore Infopedia</i>, 2016.
+Michael Mukunthan, "[Loke Wan Tho](https://eresources.nlb.gov.sg/infopedia/articles/SIP_782_2005-01-19.html)," Singapore Infopedia, 2016.
 
-Joshua Chia Yeong Jia, "[Cathay-Keris Studio](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1159_2007-07-01.html)," <i>Singapore Infopedia</i>, 2018.
+Joshua Chia Yeong Jia, "[Cathay-Keris Studio](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1159_2007-07-01.html)," Singapore Infopedia, 2018.
 
 Soh Gek Han, "[Key Milestones in the History of Cathay Cinema](https://biblioasia.nlb.gov.sg/history-cathay-cinema-2022)," <i>BiblioAsia</i>, 2022.
 
-Alvin Chua, "[Cathay Organisation](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1794_2011-03-08.html)," <i>Singapore Infopedia</i>, 2011.
+Alvin Chua, "[Cathay Organisation](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1794_2011-03-08.html)," Singapore Infopedia, 2011.
 
 Bonny Muliani Tan, "[A Malayan Treasure: The Gibson-Hill Collection](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-3/v4-issue3_MalayanTreasure.pdf)," <i>BiblioAsia</i> 4, no. 3 (2008).
 
