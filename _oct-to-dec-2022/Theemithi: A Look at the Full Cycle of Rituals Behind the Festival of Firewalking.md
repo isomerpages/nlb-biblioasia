@@ -138,7 +138,7 @@ A volunteer representing Abhimanyu lies down on a thin, white fabric and is comp
 ![](/images/Vol%2018%20Issue%203/Theemithi/8_ChakravarthiKottai.png)
 <div style="background-color: white;"> Chakravarthi Kottai, 2021. This ritual pertains to the entrapment of Abhimanyu, one of the sons of Arjunan, on the battlefield. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2CAtygGdOe0&t=2691s" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2CAtygGdOe0&t=2691" frameborder='0' allowfullscreen></iframe></div>
 
 #### ***Padukalam***
 
