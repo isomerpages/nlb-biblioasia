@@ -9,10 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 2/Kranji War Memorial/kranji war banner.jpg
-      url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
+      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
       title: " "
-      button: They Died for All Free Men
+      button: the man who built cathay
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
@@ -291,5 +290,3 @@ sections:
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
 ---
-
-
