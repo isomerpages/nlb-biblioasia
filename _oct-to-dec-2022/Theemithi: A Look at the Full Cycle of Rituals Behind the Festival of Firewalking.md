@@ -81,6 +81,9 @@ On the Monday after Malaiyithudal a week later, Thirukalyanam, or the wedding of
 
 The Thirukalyanam comprises a series of ostentatious marriage rites that include a ceremonial dance by two garland-bearing priests, who go on to exchange the garlands before draping the garlands on the processional icons of Arjunan and Draupadi. Following this, a *thali* (wedding pendant) is tied around Draupadi’s neck to symbolise her married status.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+
+
 #### ***Sri Draupadi Vasthiraparanam***
 
 The ritual that takes place a week after Thirukalyanam is perhaps the one that involves the fewest number of people. Priests, temple staff, volunteers and a small number of devotees witness the unbearable humiliation of Draupadi: Draupadi Vasthiraparanam. This is the disrobing of Draupadi in an open court after the eldest Pandava brother, Dharmaraja, loses to the Kauravas in a game of dice. However, Krishnan comes to her rescue and prevents her humiliation. 
