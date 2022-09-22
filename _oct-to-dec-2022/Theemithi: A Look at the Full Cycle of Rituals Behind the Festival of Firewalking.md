@@ -7,10 +7,6 @@ description: Theemithi is much more than just the firewalking festival. It is a
   Mahabharatam over several months.
 image: /images/Vol 18 Issue 3/Theemithi/1_cover.png
 ---
-
-
-
-
 #### Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 By Nalina Gopal
 
@@ -85,6 +81,9 @@ On the Monday after Malaiyithudal a week later, Thirukalyanam, or the wedding of
 
 The Thirukalyanam comprises a series of ostentatious marriage rites that include a ceremonial dance by two garland-bearing priests, who go on to exchange the garlands before draping the garlands on the processional icons of Arjunan and Draupadi. Following this, a *thali* (wedding pendant) is tied around Draupadi’s neck to symbolise her married status.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+
+
 #### ***Sri Draupadi Vasthiraparanam***
 
 The ritual that takes place a week after Thirukalyanam is perhaps the one that involves the fewest number of people. Priests, temple staff, volunteers and a small number of devotees witness the unbearable humiliation of Draupadi: Draupadi Vasthiraparanam. This is the disrobing of Draupadi in an open court after the eldest Pandava brother, Dharmaraja, loses to the Kauravas in a game of dice. However, Krishnan comes to her rescue and prevents her humiliation. 
@@ -127,6 +126,9 @@ Aravan Poojai (ritual prayer) is offered to Aravan before his shrine and takes p
 
 On the day of Aravan Kalapali, a pair of temple volunteers assume the roles of Draupadi and Krishnan. They re-enact the scene of Krishnan convincing Draupadi that the sacrifice of Aravan is essential to guarantee the victory of the Pandava brothers. Draupadi then carries a *soolam*, or trident, decorated with a yellow cloth, around the temple, and plants it like a battle flag in the ground near Aravan’s shrine, marking the start of the Kurukshetra battle. 
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/lCbIVQDBR1I?start=4045" frameborder='0' allowfullscreen></iframe></div>
+<div style="background-color: white;"> Sri Aravan Kalapali at Sri Mariamman Temple on 5 October 2021.<i>Courtesy of the Hindu Endowments Board.</i></div>
+
 Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai used to be less elaborate and involved fewer people. The group of volunteers who handled matters relating to Aravan registered a *visesha poojai* (special prayer) from 1975 to make it officially part of the cycle of events. The volunteers aided the conduct of Aravan Poojai and Kalapali rites, including *anna danam* (distribution of free food). He also recalled that in the 1960s and 1970s, Aravan’s form was seen as fiercer than it is today, and women were asked to keep a distance during Kalapali.[^18]
 
 Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the *vesham* (role) of Draupadi for about 20 years from the early 1980s, recalled being cautioned by his mother that the role play was not a game. She also warned him that he might be teased by his friends for dressing like a woman. Balakrishnan, however, felt that it was a rare opportunity and blessing to serve Draupadi. He was 25 when he was asked to do so by the temple’s chairman, P.G.P. Ramachandran. Balakrishnan recalled the shock he felt when he first took on the role of Draupadi during Aravan Kalapali and experienced going into a trance.[^19]
@@ -137,10 +139,14 @@ Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual
 
 Positioned in front of Aravan’s shrine, volunteers take the lead in this ritual.[^20] Four sword-bearing volunteers go down on one knee, each on one side of the square mandala, while the fifth sword-bearer positions himself adjacent to the mandala. Then three whip-wielding volunteers stand in a straight line in front of the mandala and swirl the whips in the air in a circular motion. 
 
-A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
-
 ![](/images/Vol%2018%20Issue%203/Theemithi/8_ChakravarthiKottai.png)
 <div style="background-color: white;"> Chakravarthi Kottai, 2021. This ritual pertains to the entrapment of Abhimanyu, one of the sons of Arjunan, on the battlefield. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
+A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2CAtygGdOe0?start=2691" frameborder='0' allowfullscreen></iframe></div>
+<div style="background-color: white;"> Chakravarthi Kottai at Sri Mariamman Temple on 23 October 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 
 #### ***Padukalam***
 
@@ -212,7 +218,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
-	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is founder of Antati, a historical research and museum consultancy.</div>
+	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is founder of Antāti, a historical research and museum consultancy.</div>
 
 #### **NOTES**
 

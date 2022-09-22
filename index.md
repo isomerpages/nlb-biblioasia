@@ -9,20 +9,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 2/Kranji War Memorial/kranji war banner.jpg
-      url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
+      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
       title: " "
-      button: They Died for All Free Men
+      button: the man who built cathay
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
+      background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
-      description: Singapore’s diplomatic efforts may take several forms, including
-        naming orchid hybrids after foreign dignitaries such as Queen Elizabeth
-        II.
+      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour. "
       button: Orchids for vips and more
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/19980002762 IMG0016.jpg
@@ -33,7 +32,7 @@ sections:
       description: While best known as a giant in the movie business in Malaya, Loke
         Wan Tho was also passionate about bird photography and the arts
       button: A renaissance man
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
   - infopic:
@@ -291,5 +290,3 @@ sections:
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
 ---
-
-
