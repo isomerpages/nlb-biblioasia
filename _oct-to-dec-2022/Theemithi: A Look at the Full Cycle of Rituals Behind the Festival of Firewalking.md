@@ -123,6 +123,9 @@ Aravan Poojai (ritual prayer) is offered to Aravan before his shrine and takes p
 
 On the day of Aravan Kalapali, a pair of temple volunteers assume the roles of Draupadi and Krishnan. They re-enact the scene of Krishnan convincing Draupadi that the sacrifice of Aravan is essential to guarantee the victory of the Pandava brothers. Draupadi then carries a *soolam*, or trident, decorated with a yellow cloth, around the temple, and plants it like a battle flag in the ground near Aravan’s shrine, marking the start of the Kurukshetra battle. 
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/lCbIVQDBR1I?start=4045" frameborder='0' allowfullscreen></iframe></div>
+<div style="background-color: white;"> Sri Aravan Kalapali at Sri Mariamman Temple on 5 October 2021.<i>Courtesy of the Hindu Endowments Board.</i></div>
+
 Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai used to be less elaborate and involved fewer people. The group of volunteers who handled matters relating to Aravan registered a *visesha poojai* (special prayer) from 1975 to make it officially part of the cycle of events. The volunteers aided the conduct of Aravan Poojai and Kalapali rites, including *anna danam* (distribution of free food). He also recalled that in the 1960s and 1970s, Aravan’s form was seen as fiercer than it is today, and women were asked to keep a distance during Kalapali.[^18]
 
 Balakrishnan Veerasamy Ramasamy, a volunteer who assumed the *vesham* (role) of Draupadi for about 20 years from the early 1980s, recalled being cautioned by his mother that the role play was not a game. She also warned him that he might be teased by his friends for dressing like a woman. Balakrishnan, however, felt that it was a rare opportunity and blessing to serve Draupadi. He was 25 when he was asked to do so by the temple’s chairman, P.G.P. Ramachandran. Balakrishnan recalled the shock he felt when he first took on the role of Draupadi during Aravan Kalapali and experienced going into a trance.[^19]
@@ -133,12 +136,14 @@ Chakravarti Kottai, or the wheel fort incident, occurs the day before the actual
 
 Positioned in front of Aravan’s shrine, volunteers take the lead in this ritual.[^20] Four sword-bearing volunteers go down on one knee, each on one side of the square mandala, while the fifth sword-bearer positions himself adjacent to the mandala. Then three whip-wielding volunteers stand in a straight line in front of the mandala and swirl the whips in the air in a circular motion. 
 
-A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
-
 ![](/images/Vol%2018%20Issue%203/Theemithi/8_ChakravarthiKottai.png)
 <div style="background-color: white;"> Chakravarthi Kottai, 2021. This ritual pertains to the entrapment of Abhimanyu, one of the sons of Arjunan, on the battlefield. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2CAtygGdOe0&t=2691" frameborder='0' allowfullscreen></iframe></div>
+A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2CAtygGdOe0?start=2691" frameborder='0' allowfullscreen></iframe></div>
+<div style="background-color: white;"> Chakravarthi Kottai at Sri Mariamman Temple on 23 October 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+
 
 #### ***Padukalam***
 
