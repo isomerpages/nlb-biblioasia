@@ -33,7 +33,7 @@ sections:
       description: While best known as a giant in the movie business in Malaya, Loke
         Wan Tho was also passionate about bird photography and the arts
       button: A renaissance man
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
   - infopic:
