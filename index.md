@@ -16,6 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
+      background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
