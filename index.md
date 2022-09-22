@@ -20,9 +20,8 @@ sections:
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
-      description: Singapore’s diplomatic efforts may take several forms, including
-        naming orchid hybrids after foreign dignitaries such as Queen Elizabeth
-        II.
+      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour. "
       button: Orchids for vips and more
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/19980002762 IMG0016.jpg
