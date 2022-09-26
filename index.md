@@ -110,15 +110,6 @@ sections:
         Wrong - Image 9.png
       alt: bugis uprising singapore
   - infopic:
-      title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: nature
-      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
-        <i>Dendrobium</i> Elizabeth was named in her honour. "
-      button: Orchids for vips and more
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
-      image: /images/19980002762 IMG0016.jpg
-      alt: Orchid Diplomacy
-  - infopic:
       title: Red Terror
       subtitle: war
       description: The 1970s saw communist bombings, assassination plots and covert
@@ -272,4 +263,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
+  - infopic:
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour. "
+      button: Orchids for vips and more
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+      image: /images/19980002762 IMG0016.jpg
+      alt: Orchid Diplomacy
 ---
