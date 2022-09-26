@@ -19,7 +19,7 @@ Theemithi, the firewalking festival, takes place a week before Deepavali (on a S
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*. [(PDF)](/files/pdf/Vol%2018/Issue%203/4%20Johor%20World’s%20Fair%20—%20BA_OCT-DEC2022.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/family-planning-singapore/">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/family-planning-singapore/">The Early Days of Family Planning in Singapore</a><br>Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972. *Andrea Kee*. [(PDF)](/files/pdf/Vol%2018/Issue%203/5%20Family%20Planning%20—%20BA_OCT-DEC2022.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a><br>MAS took 30 years before it officially became an official central bank. *Barbara Quek*.
 
