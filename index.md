@@ -18,14 +18,14 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
   - infopic:
-      title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: nature
-      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
-        <i>Dendrobium</i> Elizabeth was named in her honour. "
-      button: Orchids for vips and more
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
-      image: /images/19980002762 IMG0016.jpg
-      alt: Orchid Diplomacy
+      title: "Theemithi: The Rituals Behind the Festival of Firewalking"
+      subtitle: culture
+      description: Theemithi is a cycle of rituals that involves the re-enactment of
+        events from the Mahabharatam over several months.
+      button: "Beyond firewalking "
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      alt: Image alt text
+      image: /images/Priest and flag.jpg
   - infopic:
       title: "Loke Wan Tho: The Man Who Built Cathay"
       subtitle: People
@@ -109,23 +109,6 @@ sections:
       image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
         Wrong - Image 9.png
       alt: bugis uprising singapore
-  - infopic:
-      title: A History of The Padang
-      subtitle: national day
-      description: What's special about the field in front of the former City Hall building?
-      button: More than an NDP venue
-      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
-      image: /images/Vol 18 Issue 1/The Padang/image010.png
-      alt: padang history ndp
-  - infopic:
-      title: So, What Is a Singaporean?
-      subtitle: National day
-      description: Ethnic harmony is an important part of Singapore's national
-        identity, says Kishore Mahbubani.
-      button: what makes a national identity
-      url: /vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani
-      image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
-      alt: singaporean national identity
   - infopic:
       title: Red Terror
       subtitle: war
@@ -245,15 +228,6 @@ sections:
       image: "/images/Videos: BA Stories/into the night.jpg"
       alt: Cabaret dancers
   - infopic:
-      title: Nature Conservation in Singapore
-      subtitle: "‎Biodiversity Day "
-      description: "Balancing biodiversity conservation with urban development is a
-        hot-button issue in land-scarce Singapore. "
-      button: IS Singapore a City in Nature?
-      url: /vol-17/issue-1/apr-jun-2021/nature
-      image: /images/Vol-17-issue-1/nature/pangolin.jpg
-      alt: Nature Conservation Singapore
-  - infopic:
       title: The Poet and the Night Train
       subtitle: "Video: Stories from BiblioAsia"
       description: "He writes Singapore’s first book-length poem, then vanishes from
@@ -289,4 +263,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
+  - infopic:
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour. "
+      button: Orchids for vips and more
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+      image: /images/19980002762 IMG0016.jpg
+      alt: Orchid Diplomacy
 ---
