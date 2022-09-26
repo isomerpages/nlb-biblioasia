@@ -22,7 +22,7 @@ sections:
       subtitle: culture
       description: Theemithi is a cycle of rituals that involves the re-enactment of
         events from the Mahabharatam over several months.
-      button: " More than the firewalking festival"
+      button: "Beyond firewalking "
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
       alt: Image alt text
       image: /images/Priest and flag.jpg
