@@ -15,7 +15,7 @@ Theemithi, the firewalking festival, takes place a week before Deepavali (on a S
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as *rōmusha* helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. [(PDF)](/files/pdf/Vol%2018/Issue%203/2%20Romusha%20—%20BA_OCT-DEC2022.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. [(PDF)][](/files/pdf/Vol%2018/Issue%203/3%20Sarong%20Island%20—%20BA_OCT-DEC2022.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore">From Sarong Island With Love: Singapore’s Original Tourist Isle</a><br>Before there was Sentosa, there was Sarong Island. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2018/Issue%203/3%20Sarong%20Island%20—%20BA_OCT-DEC2022.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a><br>The full story behind how Johor ended up exhibiting at the Chicago World’s Fair at the end of the 19th century. *Faris Joraimi*.
 
