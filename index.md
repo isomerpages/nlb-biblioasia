@@ -25,6 +25,7 @@ sections:
       button: " More than the firewalking festival"
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
       alt: Image alt text
+      image: /images/Priest and flag.jpg
   - infopic:
       title: "Loke Wan Tho: The Man Who Built Cathay"
       subtitle: People
