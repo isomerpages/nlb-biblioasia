@@ -18,6 +18,14 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
   - infopic:
+      title: "Theemithi: The Rituals Behind the Festival of Firewalking"
+      subtitle: Infopic Subtitle
+      description: Theemithi is a cycle of rituals that involves the re-enactment of
+        events from the Mahabharatam over several months.
+      button: " More than the firewalking festival"
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      alt: Image alt text
+  - infopic:
       title: "Loke Wan Tho: The Man Who Built Cathay"
       subtitle: People
       description: While best known as a giant in the movie business in Malaya, Loke
@@ -109,15 +117,6 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/19980002762 IMG0016.jpg
       alt: Orchid Diplomacy
-  - infopic:
-      title: So, What Is a Singaporean?
-      subtitle: National day
-      description: Ethnic harmony is an important part of Singapore's national
-        identity, says Kishore Mahbubani.
-      button: what makes a national identity
-      url: /vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani
-      image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
-      alt: singaporean national identity
   - infopic:
       title: Red Terror
       subtitle: war
@@ -272,12 +271,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: "Theemithi: The Rituals Behind the Festival of Firewalking"
-      subtitle: Infopic Subtitle
-      description: Theemithi is a cycle of rituals that involves the re-enactment of
-        events from the Mahabharatam over several months.
-      button: " More than the firewalking festival"
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
-      alt: Image alt text
 ---
