@@ -19,7 +19,7 @@ sections:
       background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
   - infopic:
       title: "Theemithi: The Rituals Behind the Festival of Firewalking"
-      subtitle: Infopic Subtitle
+      subtitle: culture
       description: Theemithi is a cycle of rituals that involves the re-enactment of
         events from the Mahabharatam over several months.
       button: " More than the firewalking festival"
