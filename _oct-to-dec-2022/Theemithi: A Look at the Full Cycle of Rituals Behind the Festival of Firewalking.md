@@ -218,7 +218,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
-	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is founder of Antāti, a historical research and museum consultancy.</div>
+	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is the founder of Antāti, a historical research and museum consultancy.</div>
 
 #### **NOTES**
 
