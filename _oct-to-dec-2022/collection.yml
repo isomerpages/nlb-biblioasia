@@ -2,9 +2,6 @@ collections:
   oct-to-dec-2022:
     output: true
     order:
-      - Loke Wan Tho/.keep
-      - "Loke Wan Tho/Loke Wan Tho: The Man Who Built Cathay.md"
-      - "Loke Wan Tho/Loke Wan Tho: A Photo Essay.md"
       - Director's Note.md
       - "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
         Firewalking.md"
@@ -17,3 +14,6 @@ collections:
       - Union Book Stands Tall At 70.md
       - Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and
         1950s.md
+      - Loke Wan Tho/.keep
+      - "Loke Wan Tho/Loke Wan Tho: The Man Who Built Cathay.md"
+      - "Loke Wan Tho/Loke Wan Tho: A Photo Essay.md"
