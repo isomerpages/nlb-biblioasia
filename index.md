@@ -99,6 +99,15 @@ sections:
       alt: Union Book
       image: /images/Union Book 2022.jpg
   - infopic:
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour. "
+      button: Orchids for vips and more
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+      image: /images/19980002762 IMG0016.jpg
+      alt: Orchid Diplomacy
+  - infopic:
       title: A Royal Wedding Gone Wrong
       subtitle: War
       description: Celebrations during a royal wedding in Tanjung Pinang in 1819 led
@@ -263,13 +272,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: nature
-      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
-        <i>Dendrobium</i> Elizabeth was named in her honour. "
-      button: Orchids for vips and more
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
-      image: /images/19980002762 IMG0016.jpg
-      alt: Orchid Diplomacy
 ---

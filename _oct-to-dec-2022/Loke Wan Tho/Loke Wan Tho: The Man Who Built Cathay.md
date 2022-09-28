@@ -4,7 +4,9 @@ permalink: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
 description: While best known as a giant in the movie business in Malaya, Loke
   Wan Tho was also passionate about bird photography and the arts.
 image: /images/Vol 18 Issue 3/Loke Wan Tho/1_Loke Portrait.png
+third_nav_title: Loke Wan Tho
 ---
+
 #### While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 By Bonny Tan
 
