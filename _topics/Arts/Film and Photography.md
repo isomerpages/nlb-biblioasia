@@ -1,9 +1,16 @@
 ---
 title: Film and Photography
-permalink: /topics/film-photography
+permalink: /topics/film-photography/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist">Loke Wan Tho: The Man Who Built Cathay</a>
+While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
+
+<img style="width:80%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
 Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. 
 
