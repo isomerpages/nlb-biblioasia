@@ -7,7 +7,6 @@ image: /images/Vol 18 Issue 3/Loke Wan Tho More Resources/Chua Mia Tee, Portrait
   of Dato Loke Wan Tho.jpg
 third_nav_title: Loke Wan Tho
 ---
-
 #### Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.[^1] 
  
 Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter of local sports, a photographer and an ornithologist. 
