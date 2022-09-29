@@ -19,7 +19,7 @@ While the Monetary Authority of Singapore was established in 1971, it only becam
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy">Flower Power: Singapore's Orchid Diplomacy</a>
 Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us more.
 
-<img src="/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Nelson%20Mandela.png">
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/new%20elizabeth.png)
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue"> The Sticky Problem of Opium Revenue</a>
