@@ -1,6 +1,6 @@
 ---
 title: Key Milestones in the History of Cathay Cinema
-permalink: /history-cathay-cinema-2022
+permalink: /history-cathay-cinema-2022/
 description: ""
 image: /images/Cathay/Cathay-1941.jpg
 ---
@@ -41,7 +41,7 @@ The daytime radio programme usually had Japanese lessons and songs for students,
 <div style="background-color: white;">“Radio news”. Programme of Syonan Broadcasting Station. <i>Images reproduced from Syonan Shimbun, 28 June 1942,3;<i>Syonan Shimbun</i>, 26 July 1942, 2</i>. (From NewspaperSG) </div>
 
 #### Headquarters for SACSEA
-After the war, Cathay Building became the headquarters for Admiral Louis Mountbatten, Supreme Allied Commander of Southeast Asia (SACSEA), from November 1945 to November 1946. To commemorate the setting up of the SACSEA headquarters, Mountbatten presented a brass plaque to Mrs Loke Yew and Mr Loke Wan Tho, owners of Cathay Building.[^8]
+After the war, Cathay Building became the headquarters for Admiral Louis Mountbatten, Supreme Allied Commander of Southeast Asia (SACSEA), from November 1945 to November 1946. To commemorate the setting up of the SACSEA headquarters, Mountbatten presented a brass plaque to Mrs Loke Yew and [Mr Loke Wan Tho](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/), owners of Cathay Building.[^8]
 
 ![](/images/Cathay/plague-loke-yew-loke-wan-tho.jpg)
 <div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
