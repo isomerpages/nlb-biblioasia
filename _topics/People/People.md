@@ -1,9 +1,16 @@
 ---
 title: People
-permalink: /topics/people
+permalink: /topics/people/
 description: ""
 third_nav_title: People
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist">Loke Wan Tho: The Man Who Built Cathay</a>
+While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
+
+<img style="width:80%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. 
 <hr>
