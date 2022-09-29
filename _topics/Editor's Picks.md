@@ -7,7 +7,9 @@ description: ""
 
 Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 
-![](/images/Vol%2018%20Issue%203/Theemithi/2_pandaram.png)<hr>
+![](/images/Vol%2018%20Issue%203/Theemithi/2_pandaram.png)
+
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/navaratri-golu/" >Navaratri Golu: The Hindu Festival of Dolls</a>
 
@@ -35,4 +37,3 @@ Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the for
 
 <img style="width:100%;" src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png"> 
 <hr>
-
