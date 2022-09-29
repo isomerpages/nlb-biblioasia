@@ -11,6 +11,13 @@ While best known as a giant in the movie business in Malaya, Loke Wan Tho was al
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
+
+The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas, marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
+
+![](/images/Cathay/cathay-night-102.jpg)
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
 Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. 
 
