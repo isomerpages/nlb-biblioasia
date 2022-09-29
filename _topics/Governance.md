@@ -3,6 +3,12 @@ title: Governance
 permalink: /topics/governance/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/family-planning-singapore/">The Early Days of Family Planning in Singapore</a>
+Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972, but goes back even earlier to 1949.
+
+ ![](/images/Vol%2018%20Issue%203/Family%20Planning/National_Day_float.png)
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a>
 While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later.
 
