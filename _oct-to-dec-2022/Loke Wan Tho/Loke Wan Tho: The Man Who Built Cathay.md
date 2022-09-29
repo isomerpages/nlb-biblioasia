@@ -6,7 +6,6 @@ description: While best known as a giant in the movie business in Malaya, Loke
 image: /images/Vol 18 Issue 3/Loke Wan Tho/1_Loke Portrait.png
 third_nav_title: Loke Wan Tho
 ---
-
 #### While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 By Bonny Tan
 
@@ -15,7 +14,7 @@ By Bonny Tan
 
 Armed with just a camera and a seeming lack of fear, cinema magnate Loke Wan Tho spent hours on the precarious platform at the top of a 12-storey (40 m) wooden tower, not dissuaded by the burning sun or the fact that the tower swayed beneath him in strong winds. At one point, he even endeavoured to sit out a storm while on the platform, though he quickly thought better of it after he became giddy. Why was one of Malaya’s richest men risking his life some 40 m above the ground? Loke was on a quest: to snap the perfect photograph of a white-bellied sea eagle. 
 
-Loke Wan Tho, as this anecdote reveals, was not your usual business tycoon. With the closure of Cathay Cineplex in June 2022, it is timely to throw the spotlight on Loke, who helmed Cathay and its associated businesses for over two decades before his untimely death at the age of 49.
+Loke Wan Tho, as this anecdote reveals, was not your usual business tycoon. With the [closure of Cathay Cineplex](https://biblioasia.nlb.gov.sg/history-cathay-cinema-2022) in June 2022, it is timely to throw the spotlight on Loke, who helmed Cathay and its associated businesses for over two decades before his untimely death at the age of 49.
 
 #### **A Privileged Upbringing**
 	
