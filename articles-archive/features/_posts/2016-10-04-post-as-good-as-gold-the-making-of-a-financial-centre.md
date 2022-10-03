@@ -1,13 +1,13 @@
 ---
 title: "As Good As Gold: The Making of a Financial Centre"
 date: 2016-10-04
-permalink: /vol-12/issue-3/oct-dec-2016/as-good-as-gold
+permalink: /vol-12/issue-3/oct-dec-2016/as-good-as-gold/
 image: /images/Vol-12-issue-3/as-good-as-gold/10-as-good-as-gold.jpg
 layout: post
 ---
 #### Singapore’s Central Business District didn’t happen by accident. **Lim Tin Seng** recounts how a piece of prime land dubbed as “Golden Shoe” was transformed into a glittering financial hub.
 
-<div style="background-color: white;"><br><img style="width:750px" src="/images/Vol-12-issue-3/as-good-as-gold/10-as-good-as-gold.jpg">An aerial view of the Central Business District in the 1950s, covering a large swathe of the area ear-marked as the Golder Shoe, including Collyer Quay and Raffles Plave. On the far left is the octagonal-shaped Telok Ayer Basin, which would be reclaimed in the ensuring decades to build Marina Bay. <i>© Urban Redevelopment Authority. All rights reserved.</i></div>
+<div style="background-color: white;"><br><img style="width:750px" src="/images/Vol-12-issue-3/as-good-as-gold/10-as-good-as-gold.jpg">An aerial view of the Central Business District in the 1950s, covering a large swathe of the area ear-marked as the Golden Shoe, including Collyer Quay and Raffles Place. On the far left is the octagonal-shaped Telok Ayer Market, which would be reclaimed in the ensuring decades to build Marina Bay. <i>© Urban Redevelopment Authority. All rights reserved.</i></div>
 
 Singapore’s waterfront has seen a remarkable transformation over the last 50 years, marked by the soaring glass-and-concrete towers of Raffles Place and Shenton Way on the one hand to the vast expanse of shimmering Marina Bay on the other, framing the new extension of the Central Business District (CBD). Older skyscrapers such as One Raffles Place (formerly OUB Centre; 1986), UOB Plaza (1992) and Republic Plaza (1995) – all scaling 280 metres, the maximum height allowed in Singapore – hold their own against the shiny new rivals of Marina Bay, led by Marina Bay Sands and the Marina Bay Financial Centre.
 
