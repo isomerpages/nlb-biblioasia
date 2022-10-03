@@ -5,9 +5,6 @@ description: "Singapore’s family planning programme did not start with the “
   at Two” policy in 1972, but goes back even earlier to 1949. "
 image: /images/Vol 18 Issue 3/Family Planning/Cover.png
 ---
-
-
-
 #### Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972, but goes back even earlier to 1949. 
 By Andrea Kee
 
@@ -41,7 +38,8 @@ By 1957, the SFPA struggled to cope with demand for its clinical services and ap
 
 The paper announced the launch of the first five-year family planning programme with the slogan, “Family Planning for All”. It also revealed the twin objectives of improving the health and welfare of mother and child, and accelerating fertility decline to benefit the socioeconomic development of Singapore.[^9]
 
-In 1968, Prime Minister Lee Kuan Yew connected the issues of family planning, the growing population problem and the overall development for newly independent Singapore: “If we are to raise our standard of living, get away from poverty, filth and squalor, we must not only use modern science and technology to build the things we want. But also to prevent us from dragging ourselves to the ground by having too many in the family to care for.”[^10]
+In 1968, Prime Minister Lee Kuan Yew connected the issues of family planning, the growing population problem and the overall development for newly independent Singapore:[^10] 
+> If we are to raise our standard of living, get away from poverty, filth and squalor, we must not only use modern science and technology to build the things we want. But also to prevent us from dragging ourselves to the ground by having too many in the family to care for.
 
 In January 1966, the Singapore Family Planning and Population Board (SFPPB) was established to carry out all family planning and population matters in Singapore. It took over the family planning clinics managed by the SFPA, the majority of which were located within Maternal and Child Health (MCH) centres, and launched the National Family Planning and Population Programme that aimed to make family planning advice, supplies, and clinical services known and accessible to all.[^11]
 
@@ -84,7 +82,8 @@ In 1972, the two-child family norm was pushed for the first time and publicity b
 ![](/images/Vol%2018%20Issue%203/Family%20Planning/twoisenough.png)
 <div style="background-color: white;"> The now-iconic poster promoting the two-child family, 1978. The poster deliberately featured two girls to discourage the existing preference for boys. The girls also had a visible age gap to encourage parents to space out their children. <i>Singapore Family Planning and Population Board Collection, courtesy of National Archives of Singapore.</i></div>
 
-One of the benefits put forth by the government for having no more than two children was so that each child would get a “bigger share of the pie”. This was a message that struck home for many. In a study on population policies conducted by researchers between 1974 and 1976, a housewife who was interviewed explained in simple and clear terms how fewer children meant more food for each of them: “If you have only one child, you buy one dollar’s worth of liver for him, and he’ll get one dollar’s worth of liver. If you have two children, each will get only fifty cents’ worth of liver!”[^28]
+One of the benefits put forth by the government for having no more than two children was so that each child would get a “bigger share of the pie”. This was a message that struck home for many. In a study on population policies conducted by researchers between 1974 and 1976, a housewife who was interviewed explained in simple and clear terms how fewer children meant more food for each of them:[^28]
+> If you have only one child, you buy one dollar’s worth of liver for him, and he’ll get one dollar’s worth of liver. If you have two children, each will get only fifty cents’ worth of liver!
 
 Existing social policies got a boost, and new social disincentives were introduced to change people’s attitudes towards having large families. For instance, maternity leave was further restricted, with paid maternity leave granted only for the first two children. From 1973, the primary school registration process was also changed, resulting in the fourth child and beyond having lower priority in the queue for the school of their choice – unless one of their parents was sterilised.[^29]
 

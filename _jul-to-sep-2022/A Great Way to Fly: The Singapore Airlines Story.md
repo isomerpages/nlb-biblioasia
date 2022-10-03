@@ -164,7 +164,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^17]: “[S'pore Firm Wins 12 International Ad Awards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870401-1.2.26.32),” *Straits Times*, 1 April 1987, 16; “[SIA's Stopover Ad a Winner](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870520-1.2.27.19),” *Straits Times*, 20 May 1987, 14. (From NewspaperSG)
 
-[^18]: “[Singapore Girl in Wax for Madame Tussaud’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.80.2),” *Straits Times*, 21 March 1993, 1. (From NewspaperSG)
+[^18]: “[Singapore Girl in Wax for Madame Tussaud’s](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930321-1.2.2),” *Straits Times*, 21 March 1993, 1. (From NewspaperSG)
 
 [^19]: Jocelyn Lee, “New Singapore Girl Wax Figure Modelled After Yummy Mummy Chosen Out of 4,500 SIA Stewardesses,” *New Paper*, 4 March 2015, https://www.tnp.sg/news/others/new-singapore-girl-wax-figure-modelled-after-yummy-mummy-chosen-out-4500-sia.
 
@@ -176,7 +176,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^23]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
-[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12972539) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
+[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
 [^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
 
@@ -202,7 +202,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^36]: Mike Eggleton, “The Surge of Low-cost Carriers in Asia,” Advito, accessed 17 June 2022, https://www.advito.com/resources/the-surge-of-low-cost-carriers-in-asia/.
 
-[^37]: Karamjit Kaut, “[Tiger Airways Picks New Chief – An Airline Veteran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041111-1.2.64.9),” *Straits Times*, 11 November 2006, 6; Steve Thomson, “[Get Outta Here with Scoot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120611-1.2.36.4),” *Straits Times*, 11 June 2012, 6. (From NewspaperSG); Singapore Airlines, *The Path of Progress: Annual Report FY2014/15* (Singapore: Singapore Airlines, 2015), 13, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Annual-Report/annualreport1415.pdf.
+[^37]: Karamjit Kaur, “[Tiger Airways Picks New Chief – An Airline Veteran](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041111-1.2.64.9),” *Straits Times*, 11 November 2004, 6; Steve Thomson, “[Get Outta Here with Scoot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120611-1.2.36.4),” *Straits Times*, 11 June 2012, 6. (From NewspaperSG); Singapore Airlines, *The Path of Progress: Annual Report FY2014/15* (Singapore: Singapore Airlines, 2015), 13, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Annual-Report/annualreport1415.pdf.
 
 [^38]: Ann Williams, “Tigerair to Operate Under Scoot Brand from July,” *Straits Times*, 15 June 2017, https://www.straitstimes.com/business/companies-markets/tigerair-to-operate-under-scoot-brand-from-july-25.
 

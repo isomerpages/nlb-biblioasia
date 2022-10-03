@@ -1,7 +1,7 @@
 ---
 title: "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
   Independent Singapore"
-permalink: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
+permalink: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore/
 description: The 1970s are often remembered as a time of rapid economic
   transformation and progress for Singapore, but this period also saw communist
   bombings, assassination plots and covert information wars.
@@ -149,7 +149,7 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^17]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; “[Katong Blast Bomber Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750104-1.2.41),” *Straits Times*, 4 January 1975, 8; Lai Yew Kong, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2),” *Straits Times*, 23 December 1974, 1. (From NewspaperSG)
 
-[^18]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; Lai, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2)”; “[Vital Clues in the Bombers’ Warning Notes...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741227-1.2.6.1),” *New Nation*, 27 December 1974, 2; Leslie Fong, “‘[Red Doc’ Is Back in Prison](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760605-1.2.3),” *Straits Times*, 5 June 1976, 1; “[Implications of the Bomb Blast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741223-1.2.22.1),” *New Nation*, 23 December 1974, 10. (From NewspaperSG); Teo Chee Hean, “Parliamentary Speech on the Internal Security Act”, press release, 19 October 2011, https://www.mynewsdesk.com/sg/ministry-of-home-affairs/pressreleases/parliamentary-speech-on-the-internal-security-act-speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-695944.
+[^18]: “[Vital Clues in the Bombers’ Warning Notes...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741227-1.2.6.1),” *New Nation*, 27 December 1974, 2; “[Implications of the Bomb Blast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741223-1.2.22.1),” *New Nation*, 23 December 1974, 10. (From NewspaperSG)
 
 [^19]: P.M. Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2),” *Straits Times*, 22 June 1974, 1. (From NewspaperSG)
 

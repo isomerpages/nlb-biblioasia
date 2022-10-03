@@ -4,7 +4,6 @@ permalink: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
 description: Before there was Sentosa, there was Sarong Island.
 image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
 ---
-
 #### Before there was Sentosa, there was Sarong Island. 
 By Lim Tin Seng
 
@@ -39,7 +38,7 @@ After Bennett died in 1950, the house and the island – which was connected to 
 <div style="background-color: white;"> Detail from a 1966 topographical map shows the White House on a green patch of land off the northern coast of Pulau Blakang Mati (now Sentosa). Pulau Selegu is shown northwest of the White House. <i>Singapore, 1966, M2016_000173_SD, Survey Department, Singapore, courtesy of National Archives of Singapore.</i>
 </div>
 
-In the end, the island and bungalow were purchased by well-known socialite Christina Lee, the second wife of cinema magnate Loke Wan Tho. In an oral history interview in 2001 (by then she was married to Indian psychiatrist and businessman Dadi Balsara),[^6] she recalled that it was her brother who brought the island to her notice.
+In the end, the island and bungalow were purchased by well-known socialite Christina Lee, the second wife of cinema magnate [Loke Wan Tho](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/). In an oral history interview in 2001 (by then she was married to Indian psychiatrist and businessman Dadi Balsara),[^6] she recalled that it was her brother who brought the island to her notice.
 
 “My brother rang me one day. He told me, ‘I want you to come and see a piece of land with me.’… and then he took me in a car and went to the pier… we went into a boat and then five minutes later, we landed on an island. We walked up the hill and there was this house called the ‘White House’… It was so beautiful, and I really fell in love with it.”[^7]
 

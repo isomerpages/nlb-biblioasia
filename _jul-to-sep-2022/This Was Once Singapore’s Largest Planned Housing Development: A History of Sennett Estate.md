@@ -208,7 +208,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^30]: Julie Kwong, interview, 25 November 2021.
 
-[^31]: Sandra Davie, “[Some Schools in Older Housing Estates to Close](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901217-1.2.35.8),” *Straits Times*, 17 December 1990, 23. (From NewspaperSG)
+[^31]: Sandra Davie, “[Some Schools in Older Housing Estates to Close](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901217-1.2.35.8),” *Straits Times*, 17 December 1990, 24. (From NewspaperSG)
 
 [^32]: “[Cedar Girls to Relive Memories Before Old School Is Torn Down](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891031-1.2.28.7),” *Straits Times*, 31 October 1989, 17. (From NewspaperSG)
 
