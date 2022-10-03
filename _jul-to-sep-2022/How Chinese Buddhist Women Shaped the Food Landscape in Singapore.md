@@ -194,7 +194,7 @@ Half tablespoon sugar<br>
 
 [^25]: 海印古寺90周年特輯 [*Haiingu Temple 90th Anniversary Special*] (Singapore: Hai Inn Temple, 2018), 121.
 
-[^26]: 海印古寺90周年特輯,145.
+[^26]: 海印古寺90周年特輯, 145.
 
 [^27]: 陈爱玲 [Chen Ailing], [57岁出家 61岁创安老院 88老尼有个心愿 要开第二间安老院](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19960930-1.2.13.16) [“Ordained at 57, Opened a Nursing Home at 61, an 88-year-old Nun Has a Wish to Open a Second Nursing Home”], 新明日报 [*Shinmin Daily News*], 30 September 1996, 5. (From NewspaperSG)
 
