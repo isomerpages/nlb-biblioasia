@@ -9,32 +9,32 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
       title: " "
-      button: the man who built cathay
+      button: rituals behind firewalking
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
-  - infopic:
-      title: "Theemithi: The Rituals Behind the Festival of Firewalking"
-      subtitle: culture
-      description: Theemithi is a cycle of rituals that involves the re-enactment of
-        events from the Mahabharatam over several months.
-      button: "Beyond firewalking "
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
-      alt: Image alt text
-      image: /images/Priest and flag.jpg
+      background: /images/Vol 18 Issue 3/Theemithi/theemithi banner.jpg
   - infopic:
       title: "Loke Wan Tho: The Man Who Built Cathay"
       subtitle: People
       description: While best known as a giant in the movie business in Malaya, Loke
         Wan Tho was also passionate about bird photography and the arts
       button: A renaissance man
-      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/
+      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
+  - infopic:
+      title: "Navaratri Golu: The Hindu Festival of Dolls"
+      subtitle: culture
+      description: Celebrated by Hindus of South Indian origins, the Golu festival is
+        a lively melange of colourful dolls, womenhood and spirituality.
+      button: "honouring Shakti "
+      url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
+      alt: Navaratri Golu
+      image: /images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG
   - infopic:
       title: The Early Days of Family Planning in Singapore
       subtitle: Governance
@@ -209,15 +209,14 @@ sections:
         Dead - Image 4.png
       alt: chao tzee cheng pathology
   - infopic:
-      title: Hearts and Minds
-      subtitle: "video: Stories from BiblioAsia"
-      description: A Malayan Special Branch police inspector (played by Jo Tan)
-        interrogates a suspected communist (played by Oon Shu An). Who will
-        prevail in the battle of wits?
-      button: "watch the showdown "
-      url: /videos/hearts-minds
-      image: "/images/Videos: BA Stories/heartsandminds.jpg"
-      alt: communist video
+      title: Into the Night
+      subtitle: "Video: stories from biblioasia"
+      description: "Cabaret dancers like Rose Chan were famous. But what were their
+        lives really like? "
+      button: Beneath the Glitz and Glamour
+      url: /videos/into-the-night
+      image: "/images/Videos: BA Stories/into the night.jpg"
+      alt: Cabaret dancers
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: places
@@ -228,15 +227,6 @@ sections:
         how these markets have changed over time.
       alt: wet markets
   - infopic:
-      title: Into the Night
-      subtitle: "Video: stories from biblioasia"
-      description: "Cabaret dancers like Rose Chan were famous. But what were their
-        lives really like? "
-      button: Beneath the Glitz and Glamour
-      url: /videos/into-the-night
-      image: "/images/Videos: BA Stories/into the night.jpg"
-      alt: Cabaret dancers
-  - infopic:
       title: The Poet and the Night Train
       subtitle: "Video: Stories from BiblioAsia"
       description: "He writes Singapore’s first book-length poem, then vanishes from
@@ -246,13 +236,14 @@ sections:
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
   - infopic:
-      title: The Extraordinary Life of Kunnuck Mistree
-      subtitle: "video: Stories from BiblioAsia"
-      description: "How did a 19th-century convict become a wealthy philanthropist? "
-      button: "a prison-to-riches story "
-      url: /videos/kunnuck-mistree
-      image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
-      alt: " Kunnuck Mistree"
+      title: A cooking show that dishes out history from old recipes
+      subtitle: "video: From Book to Cook"
+      description: "What does a 1969 Chinese recipe for noodles have to do with a
+        murukku press? "
+      button: Singapore’s old recipes
+      url: /videos/from-book-to-cook
+      image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
+      alt: Singapore’s old recipes
   - infopic:
       title: Cinema Pioneer Tan Cheng Kee
       subtitle: People
