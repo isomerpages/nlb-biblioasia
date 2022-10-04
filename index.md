@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
       title: " "
-      button: the man who built cathay
+      button: rituals behind firewalking
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Loke Wan Tho/loke wan tho banner.jpg
   - infopic:
       title: "Theemithi: The Rituals Behind the Festival of Firewalking"
       subtitle: culture
