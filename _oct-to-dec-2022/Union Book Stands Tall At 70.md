@@ -2,7 +2,9 @@
 title: Union Book Stands Tall At 70
 permalink: /vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
 description: Chinese bookstore Union Book has seen many changes over the last seven decades.
+image: /images/Vol 18 Issue 3/Union Book/1_coverimage.jpg
 ---
+
 
 
 

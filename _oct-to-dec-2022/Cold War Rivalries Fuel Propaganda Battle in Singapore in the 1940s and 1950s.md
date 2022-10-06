@@ -4,7 +4,9 @@ permalink: /vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/
 description: In the post-World War II period, Singapore was a battleground for
   ideological competition between the Soviet Union and China on one side, and
   the United States and United Kingdom on the other.
+image: /images/Vol 18 Issue 3/Cold War/1_cover.png
 ---
+
 #### In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 By Chow Chia Yung
 
