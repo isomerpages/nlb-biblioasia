@@ -14,7 +14,7 @@ By Chow Chia Yung
 
 On 10 May 1953, the *Straits Times* ran a story about a film titled *Kampong Sentosa*,[^1] which had premiered in Singapore at the Rex Theatre. In Malay with an all-local cast, the film tells the story of a village in Malaya which was being terrorised by bandits in the surrounding jungle during the Malayan Emergency (1948–60). The story has “love interest and enough suspense to draw Malay-speaking audiences”.[^2]
 
-This, however, was no ordinary film. Declassified archival materials reveal that *Kampong Sentosa* was actually secretly funded by the State Department in Washington.[^3] This was part of a global Cold War effort led by the United States (US) to roll back against the spread of communism.
+This, however, was no ordinary film. Declassified archival materials reveal that *Kampong Sentosa* was actually secretly funded by the State Department in Washington DC.[^3] This was part of a global Cold War effort led by the United States (US) to roll back against the spread of communism.
 
 In the post-World War II era, the world was riven by great superpower rivalry, with the US and its allies on one side, and the Soviet Union and its allies on the other. Apart from the nuclear standoff, the conflict was also an ideological one with both sides attempting to win the battle for hearts and minds.
 
@@ -22,7 +22,7 @@ In the post-World War II era, the world was riven by great superpower rivalry, w
 
 “Soviet social system has proved to be a more viable and stable than the non-Soviet social system, that the Soviet social system is a better form of organisation of society than any non-Soviet social system.”[^4]
 
-<div style="text-align: right">– Soviet Union PremierJoseph Stalin, 1946</div>
+<div style="text-align: right">– Soviet Union Premier Joseph Stalin, 1946</div>
 
 Film is a very powerful medium, and some of the earliest efforts by the Soviet Union relied on the power of film. In 1947, Director of Malayan Security Service John D. Dalley informed the Colonial Secretary in Singapore “that there is a campaign in Singapore to spread Soviet propaganda through films and periodicals”. In that year, two Soviet documentaries, *May 1st Celebrations* and *Festival of Youth*, were screened at the Jubilee Theatre in Singapore.[^5]
 
