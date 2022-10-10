@@ -73,5 +73,3 @@ The history of vaccination in Singapore goes back to the days of William Farquha
 Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
 <hr>
-
- 
