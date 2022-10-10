@@ -14,19 +14,7 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 
 <img style="width:100%;" src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 <hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/coolies">Triads, Coolies and Pimps: Chinatown in Former Times</a>
-The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.
-
-<img style="width:100%;" src="/images/Vol-11-issue-3/coolies/chinatown_Shopfront.jpg">
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives">A Colonial Heritage: Collections of the Anglican Diocese of Singapore</a>
-The development of the Anglican church in Singapore was closely intertwined with that of the colonial government, which initially supported the chaplains and priests as government employees and subsidised the construction of Anglican churches on the island. Bonny Tan explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
-
-<img style="width:100%;" src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
-<hr>
-
+ 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague"> The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.
