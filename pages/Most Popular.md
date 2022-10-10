@@ -14,6 +14,12 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 
 <img style="width:100%;" src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore/">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a>
+The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars.
+
+<img style="width:100%;" src="/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png">
+<hr>
  
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague"> The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
