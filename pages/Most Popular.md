@@ -15,10 +15,10 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 <img style="width:100%;" src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-chinese-revolution-nanyang-republic">Singapore’s Role in the Chinese Revolution</a>
-Titled *Nanyang and the Founding of the Republic* (南洋与创立民国), the publication – with 57 sections and close to 50,000 Chinese characters – contains first-hand accounts and primary materials on the involvement of the overseas Chinese in the 1911 Chinese Revolution, as well as Singapore’s role in Sun’s campaign to end more than 2,000 years of imperial rule in China.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/coolies">Triads, Coolies and Pimps: Chinatown in Former Times</a>
+The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.
 
-<img style="width:100%;" src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R1.JPG">
+<img style="width:100%;" src="/images/Vol-11-issue-3/coolies/chinatown_Shopfront.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives">A Colonial Heritage: Collections of the Anglican Diocese of Singapore</a>
