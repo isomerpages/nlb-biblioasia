@@ -9,10 +9,10 @@ The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as 
 <img style="width:100%;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret1.JPG">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/mohamed-eunos">Mohamed Eunos Abdullah: The Father of Malay Journalism</a>
-Jalan Eunos, Eunos Avenue, Eunos Crescent, Eunos Link, Eunos Road and Eunos Terrace are all named after the prominent Malay pioneer, Mohamed Eunos bin Abdullah. Mazelan Anuar traces his legacy.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate/">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
+Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years.
 
-<img style="width:80%;" src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg">
+<img style="width:100%;" src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-chinese-revolution-nanyang-republic">Singapore’s Role in the Chinese Revolution</a>
