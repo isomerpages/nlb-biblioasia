@@ -34,8 +34,8 @@ sections:
         over several months.
       button: Before the firewalking
       url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
-      alt: Navaratri Golu
-      image: /images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG
+      alt: firewalking Theemithi
+      image: /images/Vol 18 Issue 3/Theemithi/4_performingprayers.png
   - infopic:
       title: The Early Days of Family Planning in Singapore
       subtitle: Governance
