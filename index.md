@@ -16,6 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
+      background: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
   - infopic:
       title: "Loke Wan Tho: The Man Who Built Cathay"
       subtitle: People
