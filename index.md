@@ -9,41 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
       title: " "
-      button: rituals behind firewalking
+      button: Johor at the 1893 <br>Chicago World’s Fair
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Theemithi/theemithi banner.jpg
+      background: /images/Vol 18 Issue 3/Johor 1893/johor chicago banner.jpg
   - infopic:
-      title: "Loke Wan Tho: The Man Who Built Cathay"
-      subtitle: People
-      description: While best known as a giant in the movie business in Malaya, Loke
-        Wan Tho was also passionate about bird photography and the arts
-      button: A renaissance man
-      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
-      image: /images/Loke Wan Tho portrait.jpg
-      alt: Loke Wan Tho
-  - infopic:
-      title: "Navaratri Golu: The Hindu Festival of Dolls"
+      title: Rituals behind Firewalking
       subtitle: culture
-      description: Celebrated by Hindus of South Indian origins, the Golu festival is
-        a lively melange of colourful dolls, womenhood and spirituality.
-      button: "honouring Shakti "
+      description: More than just the firewalking festival, Theemithi has a cycle of
+        rituals that involves the re-enactment of events from the Mahabharatam
+        over several months.
+      button: Before the firewalking
       url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
-      alt: Navaratri Golu
-      image: /images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG
-  - infopic:
-      title: The Early Days of Family Planning in Singapore
-      subtitle: Governance
-      description: Singapore’s family planning programme did not start with the “Stop
-        at Two” policy in 1972, but goes back even earlier to 1949.
-      alt: Family planning
-      image: /images/A large family.jpg
-      button: Family planning initiatives
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+      alt: firewalking Theemithi
+      image: /images/Vol 18 Issue 3/Theemithi/4_performingprayers.png
   - infopic:
       title: Cold War Rivalries  in Singapore in the 1940s and 1950s
       subtitle: war
@@ -54,6 +37,24 @@ sections:
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/
       image: /images/stamp-62921.jpg
       alt: Cold War
+  - infopic:
+      title: "Loke Wan Tho: The Man Who Built Cathay"
+      subtitle: People
+      description: While best known as a giant in the movie business in Malaya, Loke
+        Wan Tho was also passionate about bird photography and the arts
+      button: A renaissance man
+      url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
+      image: /images/Loke Wan Tho portrait.jpg
+      alt: Loke Wan Tho
+  - infopic:
+      title: The Early Days of Family Planning in Singapore
+      subtitle: Governance
+      description: Singapore’s family planning programme did not start with the “Stop
+        at Two” policy in 1972, but goes back even earlier to 1949.
+      alt: Family planning
+      image: /images/A large family.jpg
+      button: Family planning initiatives
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/family-planning-singapore/
   - infopic:
       title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
@@ -81,14 +82,6 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
       image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
       alt: monetary authority singapore
-  - infopic:
-      title: Johor at the 1893 Chicago World’s Fair
-      subtitle: places
-      description: How did Johor end up at the Chicago World’s Fair in the 19th century?
-      button: Johor on international stage
-      url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
-      image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
-      alt: Johor Chicago World’s Fair
   - infopic:
       title: Union Book Stands Tall At 70
       subtitle: Places and Buildings

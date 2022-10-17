@@ -2,8 +2,9 @@
 title: "They Died for All Free Men: Stories from Kranji War Cemetery"
 permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/
 description: "Remembering those who died while fighting the Japanese during World War II. "
-image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
+image: /images/Vol 18 Issue 2/Kranji War Memorial/Memorial.png
 ---
+
 #### Remembering those who died while fighting the Japanese during World War II. 
 By Janice Loo
 
