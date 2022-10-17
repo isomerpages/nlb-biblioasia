@@ -32,7 +32,7 @@ sections:
       description: More than just the firewalking festival, Theemithi has a cycle of
         rituals that involves the re-enactment of events from the Mahabharatam
         over several months.
-      button: "honouring Shakti "
+      button: Before the firewalking
       url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
       alt: Navaratri Golu
       image: /images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG
