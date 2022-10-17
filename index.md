@@ -11,7 +11,7 @@ sections:
   - hero:
       url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
       title: " "
-      button: Johor at the1893 <br>Chicago World’s Fair
+      button: Johor at the 1893 <br>Chicago World’s Fair
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
