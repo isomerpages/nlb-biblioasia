@@ -83,14 +83,6 @@ sections:
       image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
       alt: monetary authority singapore
   - infopic:
-      title: Johor at the 1893 Chicago World’s Fair
-      subtitle: places
-      description: How did Johor end up at the Chicago World’s Fair in the 19th century?
-      button: Johor on international stage
-      url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
-      image: /images/Vol 18 Issue 3/Johor 1893/johor_cover.jpg
-      alt: Johor Chicago World’s Fair
-  - infopic:
       title: Union Book Stands Tall At 70
       subtitle: Places and Buildings
       description: Located in Bras Basah Complex, the Chinese bookstore has played an
