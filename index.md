@@ -24,7 +24,7 @@ sections:
         rituals that involves the re-enactment of events from the Mahabharatam
         over several months.
       button: Before the firewalking
-      url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
       alt: firewalking Theemithi
       image: /images/Vol 18 Issue 3/Theemithi/4_performingprayers.png
   - infopic:
