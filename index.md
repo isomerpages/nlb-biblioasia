@@ -27,10 +27,11 @@ sections:
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
   - infopic:
-      title: "Navaratri Golu: The Hindu Festival of Dolls"
+      title: Rituals behind Firewalking
       subtitle: culture
-      description: Celebrated by Hindus of South Indian origins, the Golu festival is
-        a lively melange of colourful dolls, womenhood and spirituality.
+      description: More than just the firewalking festival, Theemithi has a cycle of
+        rituals that involves the re-enactment of events from the Mahabharatam
+        over several months.
       button: "honouring Shakti "
       url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
       alt: Navaratri Golu
