@@ -23,7 +23,7 @@ This spectacular event has, however, eclipsed the associated cycle of rituals th
 
 #### **Antecedents: The Mahabharatam**
 
-To understand the events that collectively constitute the festival of Theemithi, it is necessary to turn to the Indian epic poem, the Mahabharatam (known as the Mahabharata in Sanskrit and Mahabharatam in Tamil.)
+To understand the events that collectively constitute the festival of Theemithi, one must turn to the Indian epic poem, the Mahabharatam (known as the Mahabharata in Sanskrit and Mahabharatam in Tamil.)
 
 Inscriptional evidence points to the prevalence of the reading of the poem as early as the 7th century CE.[^4] The reading of the epic is a tradition that continues to the present, particularly during the festival of Theemithi. 
 
@@ -152,7 +152,7 @@ A volunteer representing Abhimanyu lies down on a thin, white fabric and is comp
 
 Padukalam marks the last day of the Kurukshetra battle and takes place on the morning of the firewalking event. It brings to an end the cycle of epic-based re-enactments explaining the root legends for the cult of goddess Draupadi. Padukalam, which means “dying/lying down on the battlefield”, is an elaborate re-creation of battlefield rituals that focuses on Draupadi, who has to decide if the Pandava and Kaurava casualties of war should receive salvation or damnation. 
 
-Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Bhishma and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
+Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Drona and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
 
 The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
 
