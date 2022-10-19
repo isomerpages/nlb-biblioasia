@@ -104,3 +104,9 @@ This is an edited and translated version of 走过70年 本地友联另类且低
 </div>
 
 **From the Collection of the National Library, Singapore**
+
+[蕉风: 纯马来亚化文艺半月刊](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200109819) \[Chao Foon\] (新加坡: 蕉风出版社, 1955­­-). (From National Library, Singapore, call no. Chinese RCLOS C810.05 JF-\[HYT\])
+
+林春美 Lin Chunmei, [蕉风与非左翼的马华文学](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205505847) \[Chao Foon and the Non-leftist Mahua Literature\] (台北市: 时报文化出版企业股份有限公司, 2021). (From National Library, Singapore, call no. Chinese RSEA C810.09595 LCM)
+
+张锦忠, 黄锦树 and 李树枝 Zhang Jinzhong, Huang Jinshu and Li Shuzhi, [冷战、本土化与现代性:《蕉风》研究论文集](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205817840) \[Cold War, Localisation and Modernity: Essays on Chao Foon Literary Magazine\] (\[高雄市\]: 国立中山大学人文研究中心: 离散/现代性研究室,\[2022\]). (From National Library, Singapore, call no. Chinese RSEA C810.072 COL)
