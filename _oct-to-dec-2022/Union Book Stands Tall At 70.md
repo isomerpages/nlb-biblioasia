@@ -4,11 +4,6 @@ permalink: /vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
 description: Chinese bookstore Union Book has seen many changes over the last seven decades.
 image: /images/Vol 18 Issue 3/Union Book/1_coverimage.jpg
 ---
-
-
-
-
-
 #### Chinese bookstore Union Book has seen many changes over the last seven decades. 
 By Chen Yuxin
 
@@ -31,7 +26,7 @@ Besides selling books, Union Press also produced teaching materials and publishe
 ![](/images/Vol%2018%20Issue%203/Union%20Book/ChaoFoon.jpg)
 <div style="background-color: white;"> The first volume of <i>Chao Foon</i> published in Singapore in 1955. <i>Image reproduced from 锺宏志, 回望: 新加坡友联书局 70週年纪念特刊 (Singapore: Union Book, 2022), 95.</i> </div>
 
-*Chao Foon* had a profound impact on literature in Singapore and Malaysia, and continues to be influential today. In the last few years, two books that explore its importance to the local literary scene have been published. In 2021, Lim Choon Bee (林春美) wrote *Chao Foon and the Non-leftist Mahua Literature* (蕉风与非左翼的马华文学),[^1] while *Cold War, Localisation and Modernity* (冷战、本土化与现代性), which was edited by Tee Kim Tong (张锦忠), Ng Kim Chew (黄锦树) and Lee Soo Chee (李树枝), was published in 2022. A compilation of essays on *Chao Foon* titled *Banana, Coconuts and Hornbill* (蕉风·椰雨·犀鸟声), edited by three Japanese researchers, was also published at around the same time.
+*Chao Foon* had a profound impact on literature in Singapore and Malaysia, and continues to be influential today. In the last few years, two books that explore its importance to the local literary scene have been published. In 2021, Lim Choon Bee (林春美) wrote *Chao Foon and the Non-leftist Mahua Literature* (蕉风与非左翼的马华文学,  while *Cold War, Localisation and Modernity* (冷战、本土化与现代性), edited by Tee Kim Tong (张锦忠), Ng Kim Chew (黄锦树) and Lee Soo Chee (李树枝), was published in 2022. A compilation of essays on *Chao Foon* titled *Banana, Coconuts and Hornbill* (蕉风·椰雨·犀鸟声), edited by three Japanese researchers, was also published at around the same time.
 
 To commemorate the 70th anniversary of Union Press, *A Look Back – Commemorative Book for the 70th Anniversary of Union Book in Singapore* (回望—新加坡友联书局70週年纪念特刊) was launched at the Singapore Book Fair on 4 June 2022. Penned by former journalist Zhong Hongzhi (锺宏志), the book traces the history of Union Press and discusses the place of Union Book in the development of Singapore’s society and culture. 
 
@@ -47,7 +42,7 @@ She soon realised, however, that there were numerous challenges. Information abo
 
 #### **Support from the United States**
 
-The Union Press in Hong Kong received funding from the Asia Foundation,[^2] making it part of the United States’ anti-communist efforts. However, because it was a bookstore that stocked literary books, many academics referred to the store as a “third force” that was not heavily influenced by politics.
+The Union Press in Hong Kong received funding from the Asia Foundation (a non-profit international development organisation committed to improving lives across a dynamic and developing Asia-Pacific), making it part of the United States’ anti-communist efforts. However, because it was a bookstore that stocked literary books, many academics referred to the store as a “third force” that was not heavily influenced by politics.
 
 The fact that the bookstore accepted financial support from the US for publications like *Chinese Student Weekly* made it a target of criticism though. From her interviews, Zhong learned that while many youths purchased books from Union Book out of necessity, they personally preferred to visit the local left-wing bookstores. “Some of the older interviewees told me that they would try to steer clear of Union Book because ‘progressive students’ at the time saw a visit to Union Book as something disgraceful.”
 
@@ -108,8 +103,4 @@ Ma said she did not fully understand the historical significance of Union Book i
 This is an edited and translated version of 走过70年 本地友联另类且低调, written by Chen Yuxin (陈宇昕) and published in <i>Lianhe Zaobao</i> (联合早报) on 13 June 2022. <br>Source: <i>Lianhe Zaobao</i> © SPH Media Limited. Permission required for reproduction.
 </div>
 
-#### **NOTES**
-
-[^1]: Lim Choon Bee 林春美, [蕉风与非左翼的马华文学](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205505847) [*Chao Foon and the Non-leftist Mahua Literature*] (台北市: 时报文化出版企业股份有限公司, 2021). (From National Library, Singapore, call no. Chinese RSEA C810.09595 LCM)
-
-[^2]: Headquartered in San Francisco, the Asia Foundation is a non-profit international development organisation committed to improving lives across a dynamic and developing Asia-Pacific.
+**From the Collection of the National Library, Singapore**
