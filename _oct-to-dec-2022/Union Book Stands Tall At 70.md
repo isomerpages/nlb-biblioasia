@@ -104,4 +104,3 @@ This is an edited and translated version of 走过70年 本地友联另类且低
 </div>
 
 **From the Collection of the National Library, Singapore**
-
