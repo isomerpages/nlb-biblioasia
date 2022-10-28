@@ -57,6 +57,9 @@ Subaraj’s oral history interview provides a glimpse into how Bukit Timah Hill 
 
 Subaraj recalled that when he first visited Bukit Timah Hill in the early 1980s, “they had just started cutting off Bukit Timah from MacRitchie and Central Catchment with the BKE. So, until then, it was all connected, … after that, from the BKE over the last 30, 40 years, the winds have been blowing, blocking down the trees and drying up the forest”.[^19]
 
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/The%20opening%20of%20the%20Bukit%20Timah%20Expressway%20in%20December%201985.jpg)
+ <div style="background-color: white;">The opening of the Bukit Timah Expressway in December 1985. It separated the Bukit Timah Nature Reserve and the Central Catchment Nature Reserve. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+ 
 With the construction of condominiums right up to the edge of the hill as well as the building of more roads, Subaraj believed that Bukit Timah Nature Reserve was suffering. “I have been fighting a battle to try and save this hill but the preoccupation is there are people who just want to treat it like a park,” he lamented.[^20]
 
 He recalled a time when Bukit Timah Hill was under the radar of most people. “So, most of the time… I probably had the hill to myself the whole day. I don’t meet a single soul.”[^21] The turning point, according to Subaraj, was the release of a three-part documentary series in 1993 titled _Bellamy’s Singapore_, hosted by the renowned botanist and conservationist David Bellamy. (Subaraj had been the natural history consultant for the programme.[^22]) Because of concerns among the nature community that the large numbers of visitors would damage the natural heritage of Bukit Timah Hill, Subaraj said that he stopped conducting tours there.[^23]
