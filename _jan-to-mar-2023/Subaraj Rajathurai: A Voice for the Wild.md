@@ -6,7 +6,7 @@ description: ""
 #### A gentle giant with a larger than life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 By Benjamin Ho
 
-![](/images/Vol%2018%20Issue%203/Theemithi/1_cover-.png)
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg)
 <div style="background-color: white;"> Subaraj Rajathurai showing participants a green snake at the launch of Ubin Day on Pulau Ubin, 2014. <i>Ministry of Communications and Information Collection, courtesy of National Archives of Singapore.</i></div>
 
 “A remarkable knack \[for\] spotting animals.” He “worked tirelessly towards the conservation of Singapore’s natural heritage”. It is “a great loss to nature lovers in Singapore”. These were some of the tributes that poured in after news broke that Subaraj Rajathurai, wildlife consultant and nature advocate, had died of a heart attack in October 2019 at the age of 56.[^1] 
