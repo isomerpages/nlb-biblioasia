@@ -109,4 +109,6 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 #### **NOTES**
 
-[^1]: [The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
+[^1]: Janice Lim and Low Youjin, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies,” _Today_, 22 October 2019, https://www.todayonline.com/singapore/gentle-giant-and-iconic-conservationist-subaraj-rajathurai-dies; Malavika Menon, “PM Lee Hsien Loong Pays Tribute to Singapore’s ‘Nature Man’ Subaraj Rajathurai,” _Straits Times_, 6 November 2019, https://www.straitstimes.com/singapore/pm-lee-pays-tribute-to-singapores-nature-man-subaraj-rajathurai.
+
+[^2]: 
