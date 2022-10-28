@@ -131,7 +131,7 @@ Subaraj’s name will live on in the form of a tiny frog species recently discov
 In an interview with the _Straits Times_ in August 2022, Sankar noted that many places and wildlife in the region are named after colonial-era figures such as Stamford Raffles and Alfred Russel Wallace. “It is only recently that regional scientists and amateur naturalists have become more prominent, so we wanted to name the frog after Subaraj, who was as much an inspiration to us as any of these other naturalists.”[^46]
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> To listen to Subaraj Rajathurai’s oral history interview with the National Archives of Singapore, go to https://go.gov.sg/subaraj-rajathurai or scan this QR code.
-<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/QR%20Code.png" style="width: 800px; height: 100px;"/></div>
+<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/QR%20Code2.png" style="width: 100px; height: 100px;"/></div>
 
 
 <div style="background-color: white;">
