@@ -113,15 +113,15 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^2]: Venessa Lee, “At Home with Nature,” _Straits Times_, 20 February 2017, 1. (From NewspaperSG)
 
-[^3]: 
+[^3]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 004236), 16–17.
 
-[^4]: 
+[^4]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “At Home with Nature.”
 
-[^5]: 
+[^5]: Kok Yufeng, “Veteran Nature Guide, Conservationist Subaraj Rajathurai Dies Aged 56,” _The New Paper_, 23 October 2019, https://tnp.straitstimes.com/news/singapore/veteran-nature-guide-conservationist-subaraj-rajathurai-dies-aged-56.
 
-[^6]: 
+[^6]: Leong Siew Lin, “Doing What Comes Naturally, That’s Sparrowhawk Subaraj,” _Nature Watch_ (July–September 1994): 27. (From National Library, Singapore, call no. RSING q508.5957 NW)
 
-[^7]: 
+[^7]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
 
 [^8]: 
 
@@ -193,4 +193,4 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^42]: 
 
-[^43]: 
+[^43]:
