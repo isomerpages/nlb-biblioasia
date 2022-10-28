@@ -40,6 +40,8 @@ Subaraj reckoned that he had taken thousands of people on nature walks to share 
 
  #### **Traipsing Up Bukit Timah Hill**
  
+ ![]()
+ 
  Subaraj’s first trek up Bukit Timah Hill was in the early 1980s when one of his good friends, who lived at the base of the hill, took him there. As soon as he got up the hill, he felt like it was coming home. “I was in a place where I belonged and I never looked back.”[^15]
 
 Back then, Bukit Timah Nature Reserve was a lush, tropical forest, Subaraj said.  “And then if it rains, if you go after the rain, it’s like Fraser’s Hill, Cameron Highlands. All mist everywhere, you are walking through a cloud forest like the cloud is sitting there and you are walking through mist, the ground is covered with water”.[^16] One had to be careful walking around though as “there are giant millipedes everywhere. … \[I\]f you go in the trails, you have to avoid stepping on the giant millipedes because there are everywhere. You will be killing them”.[^17]
@@ -106,7 +108,8 @@ Subaraj’s name will live on in the form of a tiny frog species recently discov
 
 In an interview with the _Straits Times_ in August 2022, Sankar noted that many places and wildlife in the region are named after colonial-era figures such as Stamford Raffles and Alfred Russel Wallace. “It is only recently that regional scientists and amateur naturalists have become more prominent, so we wanted to name the frog after Subaraj, who was as much an inspiration to us as any of these other naturalists.”[^46]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> To listen to Subaraj Rajathurai’s oral history interview with the National Archives of Singapore, go to https://go.gov.sg/subaraj-rajathurai or scan this QR code.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> To listen to Subaraj Rajathurai’s oral history interview with the National Archives of Singapore, go to https://go.gov.sg/subaraj-rajathurai or scan this QR code.
+<img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/></div>
 
 <div style="background-color: white;">
 <br/>
