@@ -18,6 +18,9 @@ I remember a towering man (at almost 1.8 m tall) with his flowing white hair, lo
 At this meeting, Subaraj told me that he was Singapore’s first licensed tour guide specialising in nature tours. What is even more remarkable about the man was that he was entirely self-taught, honing his craft in the field and following up with research in the library.
 “I spent four years after National Service, in the field about five days a week, just studying everything about nature. Wandering around places like Bukit Timah and MacRitchie and a whole range of nature areas,” said Subaraj. “\[E\]verything I encountered, I would write down in a notebook… I would describe it and then I would come right to the National Library – that time in Marine Parade, the branch. And I would sit there for up to three hours, looking at reference books that you can’t borrow and find out the names of everything.”[^3]
 
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Family%20photo.jpg)
+ <div style="background-color: white;">Subaraj Rajathurai with his wife Shamla and sons Saker (left) and Serin (right) at Taman Negara, 2015. <i>Courtesy of the family of Subaraj Rajathurai.</i></div>
+ 
 Following that meeting, I went on to conduct a series of oral history interviews with Subaraj over six sessions from January to May 2018. He answered my probing questions with authority, yet in an unassuming manner. In his soothing baritone, Subaraj’s love for the wild side of life was apparent. Even before he and his then girlfriend, now wife, got married, he told her that two things would come before her: God (he was a Hindu) and nature.[^4] At his wake, his wife told _The New Paper_ that family holidays had always revolved around nature, and their flat was filled with pictures of wildlife. “If he could live atop Bukit Timah Hill, he would,” she said.[^5]
 
  I consider it a great privilege to have known Subaraj and to have had the opportunity to document his life story, and capture his memories and his reflections on his work regarding nature conservation in Singapore over almost nine hours of audio recordings.
@@ -104,6 +107,9 @@ Subaraj had also worked on various environmental impact assessments, wildlife su
 He was also part of a working group of nature experts consulted by the Land Transport Authority regarding the upcoming Cross Island MRT Line and its impact on wildlife as this line could potentially tunnel under the Central Catchment Nature Reserve.[^43] In addition, Subaraj helped to draft the proposed amendments to the Wild Animals and Birds Act; the bill was passed in Parliament in March 2020.[^44]
 
 Subaraj’s death came as a shock to all. He had suffered a heart attack while having an afternoon nap on 22 October 2019. At his funeral the following day, dozens of people from the nature community came dressed in green to pay their respects. Speaking at his funeral, Subaraj’s wife said: “The community will have to band together. They know what Subaraj was fighting for, and they will continue to fight for him.”[^45]
+
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Frog.jpg)
+<div style="background-color: white;">Subaraj’s Paddy Frog (<i>Micryletta subaraji</i>) is named after Subaraj Rajathurai. It is greyish-brown in colour and barely larger than a marble. <i>Courtesy of the Herpetological Society of Singapore.</i></div>
 
 Subaraj’s name will live on in the form of a tiny frog species recently discovered in Singapore. Subaraj's Paddy Frog (_Micryletta subaraji_) is a greyish-brown amphibian, barely larger than a marble, that was first sighted along Old Upper Thomson Road in 2019. Sankar Ananthanarayanan, president of the Herpetological Society of Singapore, was one of the researchers who helped to establish that the frog belonged to a unique species and thus needed a name. 
 
