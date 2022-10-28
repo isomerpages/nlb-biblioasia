@@ -92,6 +92,9 @@ Subaraj was initially skeptical that the effort would be a success. “\[W\]hen 
 
 The proposal was accepted by the Ministry of National Development and on 8 April 1988, National Development Minister S. Dhanabalan announced that 85 ha of land in Sungei Buloh would be preserved for a bird sanctuary. This marked the first time since independence that land had been set aside for nature conservation in Singapore.[^34] It was also the first time that a civil society group had successfully convinced the government to change its plans.[^35]
 
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Nigel%20Marven.jpg)
+<div style="background-color: white;"> Subaraj Rajathurai conducting a tour at Sungei Buloh Wetland Reserve, 2010. The man peering into the telescope is the British wildlife expert and TV presenter Nigel Marven. <i>Courtesy of the family of Subaraj Rajathurai</i></div>
+
 Subaraj and the group of birdwatchers were subsequently involved in the setting up of the fledging bird sanctuary. “We had a say in the matter, even in the design, because when they were designing Sungei Buloh, they brought in a specialist from England, from Slimbridge who are specialists in water birds, but they are not specialists in shore birds which is this place, so we came in and gave the information from behind the scenes.”[^36]
 
 Sungei Buloh Nature Park was officially opened by Prime Minister Goh Chok Tong in December 1993.[^37] It was officially gazetted as a nature reserve in 2002 and renamed Sungei Buloh Wetland Reserve. It became Singapore's first ASEAN Heritage Park in 2003. 
