@@ -11,6 +11,9 @@ By Benjamin Ho
 
 “A remarkable knack \[for\] spotting animals.” He “worked tirelessly towards the conservation of Singapore’s natural heritage”. It is “a great loss to nature lovers in Singapore”. These were some of the tributes that poured in after news broke that Subaraj Rajathurai, wildlife consultant and nature advocate, had died of a heart attack in October 2019 at the age of 56.[^1] 
 
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Subaraj%20Rajathurai%20showing%20Prime%20Minister.jpg)
+<div style="background-color: white;"> Subaraj Rajathurai showing Prime Minister Lee Hsien Loong a green snake at the launch of Ubin Day on Pulau Ubin, 2014. <i>Ministry of Communications and Information Collection, courtesy of National Archives of Singapore.</i></div>
+
 Subaraj was one of the first personalities I interviewed after joining the Oral History Centre at the National Archives of Singapore. As a nature enthusiast myself, his name frequently cropped up in conversations with fellow nature lovers during field trips I had participated in. However, our paths did not cross until our first meeting in November 2017 at the National Library Building to discuss his oral history interview. 
 
 I remember a towering man (at almost 1.8 m tall) with his flowing white hair, long white beard and trademark bandana, who greeted me with a firm handshake. With a warm smile, he introduced me to his wife Shamla. The husband-and-wife team worked together at Strix Wildlife Consultancy – named after a genus of owls – that does research, wildlife surveys, educational outreach programmes, eco-tours and other conservation work. Subaraj loved nature so much that they even named their two sons, Serin and Saker, after a species of finch and falcon respectively. [^2]
