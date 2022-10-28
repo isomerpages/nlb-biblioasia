@@ -123,7 +123,7 @@ He was also part of a working group of nature experts consulted by the Land Tran
 
 Subaraj’s death came as a shock to all. He had suffered a heart attack while having an afternoon nap on 22 October 2019. At his funeral the following day, dozens of people from the nature community came dressed in green to pay their respects. Speaking at his funeral, Subaraj’s wife said: “The community will have to band together. They know what Subaraj was fighting for, and they will continue to fight for him.”[^45]
 
-![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Frog.jpg)
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Frog2.jpg)
 <div style="background-color: white;">Subaraj’s Paddy Frog (<i>Micryletta subaraji</i>) is named after Subaraj Rajathurai. It is greyish-brown in colour and barely larger than a marble. <i>Courtesy of the Herpetological Society of Singapore.</i></div>
 
 Subaraj’s name will live on in the form of a tiny frog species recently discovered in Singapore. Subaraj's Paddy Frog (_Micryletta subaraji_) is a greyish-brown amphibian, barely larger than a marble, that was first sighted along Old Upper Thomson Road in 2019. Sankar Ananthanarayanan, president of the Herpetological Society of Singapore, was one of the researchers who helped to establish that the frog belonged to a unique species and thus needed a name. 
