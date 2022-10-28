@@ -40,7 +40,8 @@ Subaraj reckoned that he had taken thousands of people on nature walks to share 
 
  #### **Traipsing Up Bukit Timah Hill**
  
- ![]()
+ ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Bukit%20Timah%20Nature%20Reserve,%201988.jpg)
+ <div style="background-color: white;">  Bukit Timah Nature Reserve, 1988. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
  
  Subaraj’s first trek up Bukit Timah Hill was in the early 1980s when one of his good friends, who lived at the base of the hill, took him there. As soon as he got up the hill, he felt like it was coming home. “I was in a place where I belonged and I never looked back.”[^15]
 
