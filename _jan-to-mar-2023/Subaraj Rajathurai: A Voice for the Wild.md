@@ -166,22 +166,21 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^27]: “Dairy Farm Nature Park Opens,” AsiaOne, 5 September 2009, https://www.asiaone.com/News/AsiaOne+News/Singapore/Story/A1Story20090905-165865.html.
 
-[^28]: Subaraj Rajathurai, oral history interview, 9 January 2018, Reel/Disc 2 of 10, 334–45.
+[^28]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 334–45.
 
-[^29]: Subaraj Rajathurai, oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
+[^29]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 
-[^30]: Subaraj Rajathurai, oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
+[^30]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 
-[^31]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 16 January 2018, transcript and MP3 audio, Reel/Disc 3 of 10, National Archives of Singapore (accession no. 004236), 56.
+[^31]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history interview by Benjamin Ho, 16 January 2018, transcript and MP3 audio, Reel/Disc 3 of 10, National Archives of Singapore (accession no. 004236), 56.
 
-[^32]: Lee Swee Hoon, “Bird Lovers Submit Proposals for 300-ha Nature Reserve,” _Straits Times_, 14 December 1987, 14. (From NewspaperSG); Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 56–57.
+[^32]: Lee Swee Hoon, “[Bird Lovers Submit Proposals for 300-ha Nature Reserve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871214-1.2.26.3),” _Straits Times_, 14 December 1987, 14. (From NewspaperSG); [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 56–57.
 
-[^33]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 56.
+[^33]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 56.
 
-[^34]: Janice Loo, “Sungei Buloh Wetland Reserve,” _Singapore Infopedia_, published 31 December 2015; Subaraj Rajathurai, “The Man Behind Sungei Buloh,” _Straits Times_, 16 August 2015, 6; Wing Chong, “Volunteers’ Efforts Helped Save Sungei Buloh,” _Straits Times_, 23 August 2015, 6. (From NewspaperSG) 
+[^34]: Janice Loo, “[Sungei Buloh Wetland Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_566_2005-02-01.html),” _Singapore Infopedia_, published 31 December 2015; Subaraj Rajathurai, “[The Man Behind Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150816-1.2.37.10.2),” _Straits Times_, 16 August 2015, 6; Wing Chong, “[Volunteers’ Efforts Helped Save Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150823-1.2.37.12),” _Straits Times_, 23 August 2015, 6. (From NewspaperSG) 
 
-[^35]: Lee, “At Home with Nature.”
-
+[^35]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
 
 [^36]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 57.
