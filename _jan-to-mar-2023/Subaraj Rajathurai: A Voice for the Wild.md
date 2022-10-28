@@ -182,21 +182,20 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^35]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
+[^36]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 57.
 
-[^36]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 57.
+[^37]: “[Govt Committed to Nature Conservation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931207-1.2.5),” _Straits Times_, 7 December 1993, 1. (From NewspaperSG)
 
-[^37]: “Govt Committed to Nature Conservation,” _Straits Times_, 7 December 1993, 1. (From NewspaperSG)
+[^38]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 58.
 
-[^38]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 58.
+[^39]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 58.
 
-[^39]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 58.
-
-[^40]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 58, 59.
+[^40]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 58, 59.
 
 
-[^41]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 59.
+[^41]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 59.
 
-[^42]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “At Home with Nature.”
+[^42]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
 [^43]:“Cross Island Line Site Investigations Haven’t Driven Away Rare Animals from Nature Reserve, Says LTA,” _Today_, 9 June 2018, https://www.todayonline.com/singapore/cross-island-line-site-investigations-havent-driven-away-rare-animals-nature-reserve-says.
 
