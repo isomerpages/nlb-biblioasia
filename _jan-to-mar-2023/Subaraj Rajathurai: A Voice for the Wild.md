@@ -3,8 +3,6 @@ title: "Subaraj Rajathurai: A Voice for the Wild"
 permalink: /vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
 description: ""
 ---
-
-
 #### A gentle giant with a larger than life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 By Benjamin Ho
 
@@ -25,6 +23,7 @@ Following that meeting, I went on to conduct a series of oral history interviews
  I consider it a great privilege to have known Subaraj and to have had the opportunity to document his life story, and capture his memories and his reflections on his work regarding nature conservation in Singapore over almost nine hours of audio recordings.
  
  #### **A Passion for Nature**
+ 
 Back in 1994, long before environmental issues were at the forefront of public consciousness, Subaraj was considered “one of the key figures in the nature movement in Singapore”.[^6]
 
 Born in 1963 to parents who were teachers, Subaraj grew up in a middle-class home in Siglap with an older brother and a younger sister. His initial encounters with wildlife were the insects and birds in his home garden as well as what he saw during his trips to Malaysia to visit relatives. As a child, Subaraj’s hobbies included cutting out animal pictures from magazines and collecting animal wrappers from Milkmaid condensed milk cans. He was inspired by the likes of David Attenborough, Jacques Cousteau, Jane Goodall and David Bellamy as he enjoyed watching their documentaries on television.[^7]
@@ -40,6 +39,7 @@ Subaraj underwent the Singapore Tourism Board’s six-month tourist guide course
 Subaraj reckoned that he had taken thousands of people on nature walks to share his knowledge and hopefully win some sympathisers, advocates or activists to the conservation cause. “The more information we share, the better chance we have of saving nature through others having a better understanding and respect for it,” he said.[^14]
 
  #### **Traipsing Up Bukit Timah Hill**
+ 
  Subaraj’s first trek up Bukit Timah Hill was in the early 1980s when one of his good friends, who lived at the base of the hill, took him there. As soon as he got up the hill, he felt like it was coming home. “I was in a place where I belonged and I never looked back.”[^15]
 
 Back then, Bukit Timah Nature Reserve was a lush, tropical forest, Subaraj said.  “And then if it rains, if you go after the rain, it’s like Fraser’s Hill, Cameron Highlands. All mist everywhere, you are walking through a cloud forest like the cloud is sitting there and you are walking through mist, the ground is covered with water”.[^16] One had to be careful walking around though as “there are giant millipedes everywhere. … \[I\]f you go in the trails, you have to avoid stepping on the giant millipedes because there are everywhere. You will be killing them”.[^17]
@@ -67,6 +67,7 @@ In his oral history interview, Subaraj also talked about the local community on 
 Subaraj remembered taking visitors to the main headman’s house and showing them the exotic pets that he kept. He recalled: “I knew him well. He used to have one bad habit and that was he liked to catch some of the local wildlife and keep in a mini zoo in his garden so \[he\] had a civet cat and a flying fox...”[^30]
 
 #### **Protecting Sungei Buloh**
+
 Subaraj was also involved in the effort to protect and preserve the natural environment at Sungei Buloh. Quietly nestled in the northwestern corner of Singapore, Sungei Buloh was a mangrove forest and farming area when avid birdwatcher Richard Hale discovered it in 1986. He found that it was rich with birdlife and spread the word to the rest of the nature community here. 
 
 Subaraj recalled: “So \[Richard\] was wandering around on his own in this area, and he stumbled upon this place where he came across from one side of the river looking across and seeing all these birds flying around… these migratory shore birds from Russia and Siberia and all”.[^31]
@@ -205,8 +206,3 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 [^45]:Audrey Tan, “Dozens from Nature Community Turn Up in Green in Final Farewell to Wildlife Consultant Subaraj Rajathurai,” _Straits Times_, 25 October 2019, https://www.straitstimes.com/singapore/environment/dozens-from-nature-community-turn-up-in-green-in-final-farewell-to-late.
 
 [^46]:Ang Qing, “New Frog Species Discovered in Singapore for 1st Time in Nearly 40 Years,” _Straits Times_, 8 August 2022, https://www.straitstimes.com/singapore/environment/new-frog-species-discovered-in-singaporefor-1st-time-in-nearly-40-years.
-
-
-
-
-
