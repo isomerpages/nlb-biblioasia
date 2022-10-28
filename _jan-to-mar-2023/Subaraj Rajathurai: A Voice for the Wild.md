@@ -114,15 +114,15 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^1]: Janice Lim and Low Youjin, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies,” _Today_, 22 October 2019, https://www.todayonline.com/singapore/gentle-giant-and-iconic-conservationist-subaraj-rajathurai-dies; Malavika Menon, “PM Lee Hsien Loong Pays Tribute to Singapore’s ‘Nature Man’ Subaraj Rajathurai,” _Straits Times_, 6 November 2019, https://www.straitstimes.com/singapore/pm-lee-pays-tribute-to-singapores-nature-man-subaraj-rajathurai.
 
-[^2]: Venessa Lee, “[At Home with Nature]([At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1)),” _Straits Times_, 20 February 2017, 1. (From NewspaperSG)
+[^2]: Venessa Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1),” _Straits Times_, 20 February 2017, 1. (From NewspaperSG)
 
-[^3]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 004236), 16–17.
+[^3]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 004236), 16–17.
 
-[^4]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “At Home with Nature.”
+[^4]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
 [^5]: Kok Yufeng, “Veteran Nature Guide, Conservationist Subaraj Rajathurai Dies Aged 56,” _The New Paper_, 23 October 2019, https://tnp.straitstimes.com/news/singapore/veteran-nature-guide-conservationist-subaraj-rajathurai-dies-aged-56.
 
-[^6]: Leong Siew Lin, “Doing What Comes Naturally, That’s Sparrowhawk Subaraj,” _Nature Watch_ (July–September 1994): 27. (From National Library, Singapore, call no. RSING q508.5957 NW)
+[^6]: Leong Siew Lin, “Doing What Comes Naturally, That’s Sparrowhawk Subaraj,” [_Nature Watch_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6787394) (July–September 1994): 27. (From National Library, Singapore, call no. RSING q508.5957 NW)
 
 [^7]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
 
