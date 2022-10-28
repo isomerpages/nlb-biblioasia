@@ -136,7 +136,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Benjamin%20Ho.png" style="width: 100px; height: 100px;"/>
 	<b>Benjamin Ho</b> is a Specialist with the Oral History Centre, National Archives of Singapore. His work involves developing the oral history collection, conducting workshops on oral history and disseminating oral history.</div>
 
 #### **NOTES**
