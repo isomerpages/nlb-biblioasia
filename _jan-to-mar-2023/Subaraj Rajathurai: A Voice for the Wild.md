@@ -138,27 +138,27 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^13]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies.”
 
-[^14]: Lee, “At Home with Nature.”
+[^14]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
-[^15]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21; Lee, “At Home with Nature.”
+[^15]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
-[^16]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21.
+[^16]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21.
 
-[^17]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 21.
+[^17]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 21.
 
-[^18]: Lee Meiyu and Fiona Lim, “Bukit Timah Nature Reserve,” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
+[^18]: Lee Meiyu and Fiona Lim, “[Bukit Timah Nature Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_55_2004-12-20.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
 
-[^19]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
+[^19]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
-[^20]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
+[^20]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
-[^21]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 2 of 10, National Archives of Singapore (accession no. 004236), 34.   
+[^21]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 2 of 10, National Archives of Singapore (accession no. 004236), 34.   
 
-[^22]: Leong, “Doing What Comes Naturally,” 27.
+[^22]: Leong, “[Doing What Come Naturally](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6787394),” 27.
 
-[^23]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 28 May 2018, Reel/Disc 10 of 10, National Archives of Singapore (accession no. 004236), 199.
+[^23]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/460c0e96-6fb5-11e8-ae40-001a4a5ba61b-OHC004236_010/web/html5/index.html), oral history interview by Benjamin Ho, 28 May 2018, Reel/Disc 10 of 10, National Archives of Singapore (accession no. 004236), 199.
 
-[^24]: Irene Hoe, “Is the Bukit Timah Nature Reserve Dying Slowly?” _Straits Times_, 24 March 1985, 3. (From Newspaper SG)
+[^24]: Irene Hoe, “I[Is the Bukit Timah Nature Reserve Dying Slowly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850324-1.2.9.6)” _Straits Times_, 24 March 1985, 3. (From Newspaper SG)
 
 [^25]: “NParks Starts New Guided Walks of Eco-Link@BKE,” National Parks Board, 4 November 2015, https://www.nparks.gov.sg/news/2015/11/nparks-starts-new-guided-walks-of-eco-link-at-bke. 
 
