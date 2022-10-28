@@ -123,61 +123,68 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^7]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
 
-[^8]: 
+[^8]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 12, 14, 16.
 
-[^9]: 
+[^9]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 17.
 
-[^0]: 
+[^10]: Lee, “At Home with Nature.”
 
-[^10]: 
+[^11]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 18, 19.
 
-[^11]: 
+[^12]: Lee, “At Home with Nature”; Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 19, 20; “Subaraj Rajathurai,” Strix Wildlife Consultancy, accessed 30 September 2022, https://www.subaraj.com/www.subaraj.com/index.html.
 
-[^12]: 
+[^13]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies.”
 
-[^13]: 
+[^14]: Lee, “At Home with Nature.”
 
-[^14]: 
+[^15]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21; Lee, “At Home with Nature.”
 
-[^15]: 
+[^16]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21.
 
-[^16]: 
+[^17]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 21.
 
-[^17]: 
+[^18]: Lee Meiyu and Fiona Lim, “Bukit Timah Nature Reserve,” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
 
-[^18]: 
+[^19]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
-[^19]: 
+[^20]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
-[^20]: 
+[^21]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 2 of 10, National Archives of Singapore (accession no. 004236), 34.   
 
-[^22]: 
+[^22]: Leong, “Doing What Comes Naturally,” 27.
 
-[^23]: 
+[^23]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 28 May 2018, Reel/Disc 10 of 10, National Archives of Singapore (accession no. 004236), 199.
 
-[^24]: 
+[^24]: Irene Hoe, “Is the Bukit Timah Nature Reserve Dying Slowly?” _Straits Times_, 24 March 1985, 3. (From Newspaper SG)
 
-[^25]: 
+[^25]: “NParks Starts New Guided Walks of Eco-Link@BKE,” National Parks Board, 4 November 2015, https://www.nparks.gov.sg/news/2015/11/nparks-starts-new-guided-walks-of-eco-link-at-bke. 
 
-[^26]: 
+[^26]: “Bukit Timah Nature Reserve Restoration Works – Limited Access to Ensure Public Safety,” National Parks Board, 1 June 2014, https://www.nparks.gov.sg/news/2014/6/bukit-timah-nature-reserve-restoration-works-limited-access-to-ensure-public-safety.
 
-[^27]: 
+[^27]: “Dairy Farm Nature Park Opens,” AsiaOne, 5 September 2009, https://www.asiaone.com/News/AsiaOne+News/Singapore/Story/A1Story20090905-165865.html.
 
-[^28]: 
+[^28]: Subaraj Rajathurai, oral history interview, 9 January 2018, Reel/Disc 2 of 10, 334–45.
 
-[^29]: 
+[^29]: Subaraj Rajathurai, oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 
-[^30]: 
+[^30]: Subaraj Rajathurai, oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 
-[^31]: 
+[^31]: Subaraj Rajathurai, oral history interview by Benjamin Ho, 16 January 2018, transcript and MP3 audio, Reel/Disc 3 of 10, National Archives of Singapore (accession no. 004236), 56.
 
-[^32]: 
+[^32]: Lee Swee Hoon, “Bird Lovers Submit Proposals for 300-ha Nature Reserve,” _Straits Times_, 14 December 1987, 14. (From NewspaperSG); Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 56–57.
 
-[^33]: 
+[^33]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 56.
 
-[^34]: 
+[^34]: Janice Loo, “Sungei Buloh Wetland Reserve,” _Singapore Infopedia_, published 31 December 2015; Subaraj Rajathurai, “The Man Behind Sungei Buloh,” _Straits Times_, 16 August 2015, 6; Wing Chong, “Volunteers’ Efforts Helped Save Sungei Buloh,” _Straits Times_, 23 August 2015, 6. (From NewspaperSG) 
 
-[^35]: 
+[^35]: Lee, “At Home with Nature.”
+
+
+
+
+
+
+
 
 [^36]: 
 
