@@ -181,23 +181,30 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 
 
+[^36]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 57.
+
+[^37]: “Govt Committed to Nature Conservation,” _Straits Times_, 7 December 1993, 1. (From NewspaperSG)
+
+[^38]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 58.
+
+[^39]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 58.
+
+[^40]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 58, 59.
+
+
+[^41]: Subaraj Rajathurai, oral history 16 January 2018, Reel/Disc 3 of 10, 59.
+
+[^42]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “At Home with Nature.”
+
+[^43]:“Cross Island Line Site Investigations Haven’t Driven Away Rare Animals from Nature Reserve, Says LTA,” _Today_, 9 June 2018, https://www.todayonline.com/singapore/cross-island-line-site-investigations-havent-driven-away-rare-animals-nature-reserve-says.
+
+[^44]:Audrey Tan, “Parliament: More Protection for Native Wildlife, Harsher Penalties for Offenders Under Amended Law,” _Straits Times_, 25 March 2020, https://www.straitstimes.com/politics/parliament-more-protection-for-native-wildlife-harsher-penalties-for-offenders-under.
+
+[^45]:Audrey Tan, “Dozens from Nature Community Turn Up in Green in Final Farewell to Wildlife Consultant Subaraj Rajathurai,” _Straits Times_, 25 October 2019, https://www.straitstimes.com/singapore/environment/dozens-from-nature-community-turn-up-in-green-in-final-farewell-to-late.
+
+[^46]:Ang Qing, “New Frog Species Discovered in Singapore for 1st Time in Nearly 40 Years,” _Straits Times_, 8 August 2022, https://www.straitstimes.com/singapore/environment/new-frog-species-discovered-in-singaporefor-1st-time-in-nearly-40-years.
 
 
 
 
 
-[^36]: 
-
-[^37]: 
-
-[^38]: 
-
-[^39]: 
-
-[^40]: 
-
-[^41]: 
-
-[^42]: 
-
-[^43]:
