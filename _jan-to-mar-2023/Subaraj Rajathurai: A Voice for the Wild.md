@@ -124,17 +124,17 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^6]: Leong Siew Lin, “Doing What Comes Naturally, That’s Sparrowhawk Subaraj,” [_Nature Watch_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6787394) (July–September 1994): 27. (From National Library, Singapore, call no. RSING q508.5957 NW)
 
-[^7]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
+[^7]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
 
-[^8]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 12, 14, 16.
+[^8]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 12, 14, 16.
 
-[^9]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 17.
+[^9]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 17.
 
-[^10]: Lee, “At Home with Nature.”
+[^10]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
-[^11]: Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 18, 19.
+[^11]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 18, 19.
 
-[^12]: Lee, “At Home with Nature”; Subaraj Rajathurai, interview, 9 January 2018, Reel/Disc 1 of 10, 19, 20; “Subaraj Rajathurai,” Strix Wildlife Consultancy, accessed 30 September 2022, https://www.subaraj.com/www.subaraj.com/index.html.
+[^12]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1)”; [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 19, 20; “Subaraj Rajathurai,” Strix Wildlife Consultancy, accessed 30 September 2022, https://www.subaraj.com/www.subaraj.com/index.html.
 
 [^13]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies.”
 
