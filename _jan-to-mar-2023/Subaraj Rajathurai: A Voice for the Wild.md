@@ -5,7 +5,6 @@ description: A gentle giant with a larger than life personality, Subaraj
   Rajathurai helped to save Singapore’s green spaces.
 image: /images/Vol 18 Issue 4/Subaraj Rajathurai/Facing Page.jpg
 ---
-
 #### A gentle giant with a larger than life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 By Benjamin Ho
 
@@ -37,7 +36,7 @@ Back in 1994, long before environmental issues were at the forefront of public c
 
 Born in 1963 to parents who were teachers, Subaraj grew up in a middle-class home in Siglap with an older brother and a younger sister. His initial encounters with wildlife were the insects and birds in his home garden as well as what he saw during his trips to Malaysia to visit relatives. As a child, Subaraj’s hobbies included cutting out animal pictures from magazines and collecting animal wrappers from Milkmaid condensed milk cans. He was inspired by the likes of David Attenborough, Jacques Cousteau, Jane Goodall and David Bellamy as he enjoyed watching their documentaries on television.[^7]
 
-Subaraj studied at Guillemard East Primary School where his father was a teacher. Although he did well enough to go to Raffles Institution, he opted for Tanjong Katong Technical School (now Tanjong Katong Secondary School). After repeating his ‘O’ levels at Siglap Secondary School as he wanted a better certificate, Subaraj enrolled in a private college but this did not work out after he was asked to dissect a live frog.[^8]
+Subaraj studied at Guillemard East Primary School where his father, Rajalingam Rajathurai,was a teacher. (Rajalingam was interviewed by the Oral History Centre in 2003.) Although Subaraj did well enough to go to Raffles Institution, he opted for Tanjong Katong Technical School (now Tanjong Katong Secondary School). After repeating his ‘O’ levels at Siglap Secondary School as he wanted a better certificate, Subaraj enrolled in a private college but this did not work out after he was asked to dissect a live frog.[^8]
 
 After his national service, Subaraj spent most of his time learning about and observing wildlife in their natural habitat, and attending courses conducted by university professors.[^9] He went on field trips to places like the Endau-Rompin National Park in Johor to learn from experts such as the well-known Malaysian naturalist Dennis Yong. In 1985, Subaraj joined the Nature Society and had the opportunity to take people on guided nature walks.[^10]
 
