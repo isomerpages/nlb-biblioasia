@@ -46,7 +46,7 @@ Subaraj underwent the Singapore Tourism Board’s six-month tourist guide course
 
 Subaraj reckoned that he had taken thousands of people on nature walks to share his knowledge and hopefully win some sympathisers, advocates or activists to the conservation cause. “The more information we share, the better chance we have of saving nature through others having a better understanding and respect for it,” he said.[^14]
 
- #### **Traipsing Up Bukit Timah Hill**
+#### **Traipsing Up Bukit Timah Hill**
  
  ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Bukit%20Timah%20Nature%20Reserve,%201988.jpg)
  <div style="background-color: white;">  Bukit Timah Nature Reserve, 1988. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
