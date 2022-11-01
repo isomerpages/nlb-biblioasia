@@ -90,7 +90,7 @@ Subaraj was also involved in the effort to protect and preserve the natural envi
 ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Migratory%20birds2.jpg)
 <div style="background-color: white;"> Migratory birds at Sungei Buloh Wetland Reserve. <i>Courtesy of the Singapore Tourism Board.</i></div>
 
-Subaraj recalled: “So \[Richard\] was wandering around on his own in this area, and he stumbled upon this place where he came across from one side of the river looking across and seeing all these birds flying around… these migratory shore birds from Russia and Siberia and all”.[^31]
+Subaraj recalled: “So \[Richard\] was wandering around on his own in this area, and he stumbled upon this place where he came across from one side of the river looking across and seeing all these birds flying around… these migratory shore birds from Russia and Siberia and all.”[^31]
 
 Sungei Buloh was originally earmarked for development as an agro-technology park. In December 1987, Subaraj,[^32] Hale and a few members of the Nature Society put forth a proposal for the creation of a 318-hectare nature reserve in Sungei Buloh. 
 
