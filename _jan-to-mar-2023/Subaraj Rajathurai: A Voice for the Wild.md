@@ -95,7 +95,7 @@ Subaraj recalled: “So \[Richard\] was wandering around on his own in this area
 
 Sungei Buloh was originally earmarked for development as an agro-technology park. In December 1987, Subaraj,[^32] Hale and a few members of the Nature Society put forth a proposal for the creation of a 318-hectare nature reserve in Sungei Buloh. 
 
-![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/25th%20anniversary%20celebration.jpg)
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/25th%20anniversary%20celebration2.jpg)
 <div style="background-color: white;"> Sungei Buloh Wetland Reserve’s 25th anniversary celebration, 2018. The guest-of-honour was Emeritus Senior Minister Goh Chok Tong. Accompanying him are then Minister for Social and Family Development Desmond Lee and Subaraj Rajathurai. <i>Ministry of Communications and Information Collection, courtesy of National Archives of Singapore.</i></div>
 
 “We sat down for eight months and wrote a proposal for Sungei Buloh based on whatever we know about the place, the research, the information, the potential value in the future for education and tourism and all that,” recalled Subaraj. The proposal was sent to the government, including then Prime Minister Lee Kuan Yew and then President Wee Kim Wee. The latter also paid a visit to the site.
