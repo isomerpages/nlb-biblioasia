@@ -188,7 +188,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^20]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
-[^21]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 2 of 10, National Archives of Singapore (accession no. 004236), 34.   
+[^21]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 2 of 10, National Archives of Singapore (accession no. 004236), 34.
 
 [^22]: Leong, “[Doing What Come Naturally](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6787394),” 27.
 
