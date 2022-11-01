@@ -16,7 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Johor 1893/johor chicago banner.jpg
+      background: /images/Vol 18 Issue 4/Hero Banner_Subaraj.jpg
   - infopic:
       title: Rituals behind Firewalking
       subtitle: culture
