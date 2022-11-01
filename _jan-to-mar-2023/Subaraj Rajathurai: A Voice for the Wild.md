@@ -88,7 +88,7 @@ Subaraj remembered taking visitors to the main headman’s house and showing the
 Subaraj was also involved in the effort to protect and preserve the natural environment at Sungei Buloh. Quietly nestled in the northwestern corner of Singapore, Sungei Buloh was a mangrove forest and farming area when avid birdwatcher Richard Hale discovered it in 1986. He found that it was rich with birdlife and spread the word to the rest of the nature community here. 
 
 ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Migratory%20birds2.jpg)
-<div style="background-color: white;"> Migratory birds at Sungei Buloh Wetland Reserve, 2018. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"> Migratory birds at Sungei Buloh Wetland Reserve. <i>Courtesy of the Singapore Tourism Board.</i></div>
 
 Subaraj recalled: “So \[Richard\] was wandering around on his own in this area, and he stumbled upon this place where he came across from one side of the river looking across and seeing all these birds flying around… these migratory shore birds from Russia and Siberia and all”.[^31]
 
