@@ -109,10 +109,11 @@ The proposal was accepted by the Ministry of National Development and on 8 April
 
 Subaraj and the group of birdwatchers were subsequently involved in the setting up of the fledging bird sanctuary. “We had a say in the matter, even in the design, because when they were designing Sungei Buloh, they brought in a specialist from England, from Slimbridge who are specialists in water birds, but they are not specialists in shore birds which is this place, so we came in and gave the information from behind the scenes.”[^36]
 
+Sungei Buloh Nature Park was officially opened by Prime Minister Goh Chok Tong in December 1993.[^37] It was officially gazetted as a nature reserve in 2002 and renamed Sungei Buloh Wetland Reserve. It became Singapore's first ASEAN Heritage Park in 2003. 
+
 ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Sungei%20Buloh%20Nature%20Park,%201993.jpg)
 <div style="background-color: white;"> Sungei Buloh Nature Park, 1993. It was renamed Sungei Buloh Wetland Reserve in 2002 when it was officially gazetted as a nature reserve. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-Sungei Buloh Nature Park was officially opened by Prime Minister Goh Chok Tong in December 1993.[^37] It was officially gazetted as a nature reserve in 2002 and renamed Sungei Buloh Wetland Reserve. It became Singapore's first ASEAN Heritage Park in 2003. 
 
 Subaraj attributed its success to the hard work of the National Parks Board (which manages the place today), the nature community and volunteers, who replanted mangroves, protected the habitats and carried out research. “\[Sungei Buloh\] became a key education stop for students from all over, and it became recognised as that very key stop for migrating birds from Siberia to Australia… we work with all the different countries on the passage, to make sure there is passage for the birds, feeding areas for the birds.”[^38]
 
