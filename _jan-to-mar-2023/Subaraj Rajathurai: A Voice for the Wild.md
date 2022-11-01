@@ -13,30 +13,27 @@ By Benjamin Ho
 
 “A remarkable knack \[for\] spotting animals.” He “worked tirelessly towards the conservation of Singapore’s natural heritage”. It is “a great loss to nature lovers in Singapore”. These were some of the tributes that poured in after news broke that Subaraj Rajathurai, wildlife consultant and nature advocate, had died of a heart attack in October 2019 at the age of 56.[^1] 
 
-![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Subaraj%20Rajathurai%20showing%20Prime%20Minister.jpg)
-<div style="background-color: white;"> Subaraj Rajathurai showing Prime Minister Lee Hsien Loong a green snake at the launch of Ubin Day on Pulau Ubin, 2014. <i>Ministry of Communications and Information Collection, courtesy of National Archives of Singapore.</i></div>
-
 Subaraj was one of the first personalities I interviewed after joining the Oral History Centre at the National Archives of Singapore. As a nature enthusiast myself, his name frequently cropped up in conversations with fellow nature lovers during field trips I had participated in. However, our paths did not cross until our first meeting in November 2017 at the National Library Building to discuss his oral history interview. 
 
 I remember a towering man (at almost 1.8 m tall) with his flowing white hair, long white beard and trademark bandana, who greeted me with a firm handshake. With a warm smile, he introduced me to his wife Shamla. The husband-and-wife team worked together at Strix Wildlife Consultancy – named after a genus of owls – that does research, wildlife surveys, educational outreach programmes, eco-tours and other conservation work. Subaraj loved nature so much that they even named their two sons, Serin and Saker, after a species of finch and falcon respectively. [^2]
 
-At this meeting, Subaraj told me that he was Singapore’s first licensed tour guide specialising in nature tours. What is even more remarkable about the man was that he was entirely self-taught, honing his craft in the field and following up with research in the library.
-“I spent four years after National Service, in the field about five days a week, just studying everything about nature. Wandering around places like Bukit Timah and MacRitchie and a whole range of nature areas,” said Subaraj. “\[E\]verything I encountered, I would write down in a notebook… I would describe it and then I would come right to the National Library – that time in Marine Parade, the branch. And I would sit there for up to three hours, looking at reference books that you can’t borrow and find out the names of everything.”[^3]
-
 ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Family%20photo.jpg)
  <div style="background-color: white;">Subaraj Rajathurai with his wife Shamla and sons Saker (left) and Serin (right) at Taman Negara, 2015. <i>Courtesy of the family of Subaraj Rajathurai.</i></div>
  
+At this meeting, Subaraj told me that he was Singapore’s first licensed tour guide specialising in nature tours. What is even more remarkable about the man was that he was entirely self-taught, honing his craft in the field and following up with research in the library.
+“I spent four years after National Service, in the field about five days a week, just studying everything about nature. Wandering around places like Bukit Timah and MacRitchie and a whole range of nature areas,” said Subaraj. “\[E\]verything I encountered, I would write down in a notebook… I would describe it and then I would come right to the National Library – that time in Marine Parade, the branch. And I would sit there for up to three hours, looking at reference books that you can’t borrow and find out the names of everything.”[^3]
+
 Following that meeting, I went on to conduct a series of oral history interviews with Subaraj over six sessions from January to May 2018. He answered my probing questions with authority, yet in an unassuming manner. In his soothing baritone, Subaraj’s love for the wild side of life was apparent. Even before he and his then girlfriend, now wife, got married, he told her that two things would come before her: God (he was a Hindu) and nature.[^4] At his wake, his wife told _The New Paper_ that family holidays had always revolved around nature, and their flat was filled with pictures of wildlife. “If he could live atop Bukit Timah Hill, he would,” she said.[^5]
 
  I consider it a great privilege to have known Subaraj and to have had the opportunity to document his life story, and capture his memories and his reflections on his work regarding nature conservation in Singapore over almost nine hours of audio recordings.
  
- #### **A Passion for Nature**
+####**A Passion for Nature**
  
 Back in 1994, long before environmental issues were at the forefront of public consciousness, Subaraj was considered “one of the key figures in the nature movement in Singapore”.[^6]
 
 Born in 1963 to parents who were teachers, Subaraj grew up in a middle-class home in Siglap with an older brother and a younger sister. His initial encounters with wildlife were the insects and birds in his home garden as well as what he saw during his trips to Malaysia to visit relatives. As a child, Subaraj’s hobbies included cutting out animal pictures from magazines and collecting animal wrappers from Milkmaid condensed milk cans. He was inspired by the likes of David Attenborough, Jacques Cousteau, Jane Goodall and David Bellamy as he enjoyed watching their documentaries on television.[^7]
 
-Subaraj studied at Guillemard East Primary School where his father, Rajalingam Rajathurai,was a teacher. (Rajalingam was interviewed by the Oral History Centre in 2003.) Although Subaraj did well enough to go to Raffles Institution, he opted for Tanjong Katong Technical School (now Tanjong Katong Secondary School). After repeating his ‘O’ levels at Siglap Secondary School as he wanted a better certificate, Subaraj enrolled in a private college but this did not work out after he was asked to dissect a live frog.[^8]
+Subaraj studied at Guillemard East Primary School where his father, Rajalingam Rajathurai, was a teacher. (Rajalingam was interviewed by the Oral History Centre in 2003.) Although Subaraj did well enough to go to Raffles Institution, he opted for Tanjong Katong Technical School (now Tanjong Katong Secondary School). After repeating his ‘O’ levels at Siglap Secondary School as he wanted a better certificate, Subaraj enrolled in a private college but this did not work out after he was asked to dissect a live frog.[^8]
 
 After his national service, Subaraj spent most of his time learning about and observing wildlife in their natural habitat, and attending courses conducted by university professors.[^9] He went on field trips to places like the Endau-Rompin National Park in Johor to learn from experts such as the well-known Malaysian naturalist Dennis Yong. In 1985, Subaraj joined the Nature Society and had the opportunity to take people on guided nature walks.[^10]
 
@@ -45,6 +42,7 @@ Subaraj recalled that his first paid job was in 1988 when he was asked to conduc
 Subaraj underwent the Singapore Tourism Board’s six-month tourist guide course and subsequently became the first nature licensed tour guide in Singapore in 1990. He then created and customised all kinds of tours, from general nature walks to hikes, boat rides and bike rides.[^12] He had designed and conducted more than 50 tours around Singapore.[^13]
 
 Subaraj reckoned that he had taken thousands of people on nature walks to share his knowledge and hopefully win some sympathisers, advocates or activists to the conservation cause. “The more information we share, the better chance we have of saving nature through others having a better understanding and respect for it,” he said.[^14]
+
 
 #### **Traipsing Up Bukit Timah Hill**
  
@@ -75,6 +73,11 @@ In September 2014, Bukit Timah Nature Reserve was closed for two years for repai
 Subaraj was also closely associated with Pulau Ubin, a small island located off the northeastern shore of mainland Singapore. He had conducted many tours on Pulau Ubin, which he described as a “very nice, thriving community, kampong community” with “very friendly people”, and akin to “visiting Malaysia without your passport”.  
 
 “It’s like a different world. You step into a different time, more relaxed. If you go on a weekday to Pulau Ubin and you sit down quietly at the coffee shop and have a cup of coffee, I promise you, your stress will disappear, and you go into this very relaxed feeling,” he said.[^28]
+
+
+![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Subaraj%20Rajathurai%20showing%20Prime%20Minister.jpg)
+<div style="background-color: white;"> Subaraj Rajathurai showing Prime Minister Lee Hsien Loong a green snake at the launch of Ubin Day on Pulau Ubin, 2014. <i>Ministry of Communications and Information Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 In his oral history interview, Subaraj also talked about the local community on the island and the way they organised themselves. In the 1980s, there were a few thousand people living in villages scattered across the island, with a headman for each village. “That means each member of that council of elders was the headman of one village, led by the main headman of Pulau Ubin, and they made all the decisions for the islands.” Whenever the government wanted to do something on Ubin, the ministers would seek advice from the council of elders first.[^29]
 
