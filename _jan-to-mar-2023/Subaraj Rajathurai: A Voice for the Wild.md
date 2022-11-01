@@ -55,10 +55,11 @@ Back then, Bukit Timah Nature Reserve was a lush, tropical forest, Subaraj said.
 
 Subaraj’s oral history interview provides a glimpse into how Bukit Timah Hill has changed over time. He observed that the lush vegetation on the hill had become drier. He attributed this to the physical separation of Bukit Timah Nature Reserve and the Central Catchment Nature Reserve by the six-lane Bukit Timah Expressway (BKE). Completed in 1985, the expressway effectively cut the forest reserves into two.[^18]
 
-Subaraj recalled that when he first visited Bukit Timah Hill in the early 1980s, “they had just started cutting off Bukit Timah from MacRitchie and Central Catchment with the BKE. So, until then, it was all connected, … after that, from the BKE over the last 30, 40 years, the winds have been blowing, blocking down the trees and drying up the forest”.[^19]
-
 ![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/The%20opening%20of%20the%20Bukit%20Timah%20Expressway%20in%20December%201985.jpg)
  <div style="background-color: white;">The opening of the Bukit Timah Expressway in December 1985. It separated the Bukit Timah Nature Reserve and the Central Catchment Nature Reserve. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+Subaraj recalled that when he first visited Bukit Timah Hill in the early 1980s, “they had just started cutting off Bukit Timah from MacRitchie and Central Catchment with the BKE. So, until then, it was all connected, … after that, from the BKE over the last 30, 40 years, the winds have been blowing, blocking down the trees and drying up the forest”.[^19]
  
 With the construction of condominiums right up to the edge of the hill as well as the building of more roads, Subaraj believed that Bukit Timah Nature Reserve was suffering. “I have been fighting a battle to try and save this hill but the preoccupation is there are people who just want to treat it like a park,” he lamented.[^20]
 
