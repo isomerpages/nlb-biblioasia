@@ -27,7 +27,7 @@ Following that meeting, I went on to conduct a series of oral history interviews
 
  I consider it a great privilege to have known Subaraj and to have had the opportunity to document his life story, and capture his memories and his reflections on his work regarding nature conservation in Singapore over almost nine hours of audio recordings.
  
-####**A Passion for Nature**
+#### **A Passion for Nature**
  
 Back in 1994, long before environmental issues were at the forefront of public consciousness, Subaraj was considered “one of the key figures in the nature movement in Singapore”.[^6]
 
