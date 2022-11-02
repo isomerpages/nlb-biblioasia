@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "Subaraj Rajathurai: A Voice for the Wild.md"
       - Test page.md
