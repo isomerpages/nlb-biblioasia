@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "“Book City” in Two Streets: The Chinese Bookstore Scene in Postwar
+        Singapore.md"
       - Test page.md
