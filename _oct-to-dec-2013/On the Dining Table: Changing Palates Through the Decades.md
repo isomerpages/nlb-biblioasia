@@ -29,6 +29,9 @@ My maternal grandmother arrived in Singapore from Guandong province in China dur
 
 #### **NOTES**
 
-[^1]:
+[^1]: Saw, S.H. (2007). [*The population of Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12933462). (p. 11). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW).
+[^2]:          postwar period (p. 59). In J.B. Ooi & H.D. Chiang (Eds.), [_Modern Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
+Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506).
+
 
 [^2]:
