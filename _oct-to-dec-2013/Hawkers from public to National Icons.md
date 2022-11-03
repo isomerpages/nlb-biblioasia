@@ -8,10 +8,10 @@ image: /images/vol-9-issue-3/Hawkers/H3.png
 ---
 #### From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
 
+<img style="width: 650px; height: 420px;"
+src="/images/vol-9-issue-3/Hawkers/H3.png">
+<div style="background-color: white;">A group of Chinese hawkers in 1915. <i>Courtesy of National Archives of Singapore</i></div>
 
-![](/images/vol-9-issue-3/Hawkers/H3.png)
-A group of Chinese hawkers in 1915. *Courtesy of
-National Archives of Singapore*.
 
 #### **For one of the smallest countries in the world**, 
 Singapore has an enormous appetite. According to the annual MasterCard survey on consumer dining habits, Singaporeans were the biggest spenders for eating out in the Asia-Pacific region in 2012, spending an average S$323 each month. This was an increase of nearly 25 percent from 2011.[^1] In addition, the great lengths Singaporeans go to find the best or most authentic local dishes are testament to the nation’s obsession with food. They endure long queues, brave traffic jams and literally go the distance to satiate their taste buds. It is no wonder that the Singapore Tourism Board (STB) promotes the island as a food paradise, organising a series of annual food-related events, most notably the Singapore Food Festival, to boost tourist numbers.
@@ -20,7 +20,8 @@ Food and all matters culinary is an integral part of the Singaporean psyche. The
 
 Hawker centres, in Singapore parlance, are open-air complexes with stalls selling food at affordable prices. They are clean, accessible and are frequented by people from all walks of life. Most hawker stalls are family-run and serve one or two dishes that have been perfected over the years or prepared using family recipes passed down over the generations. As a result, hawker food is not only tasty but also rich in heritage.
 
-![](/images/vol-9-issue-3/Hawkers/H2.png)
+<img style="width:50%;" src="/images/vol-9-issue-3/Hawkers/H2.png">
+<div style="background-color: white;">Hawkers at the car park beside the former Specialists’ Centre at Orchard Road in 1970; known as Glutton's Square, this downtown icon lasted for over 12 years from 1966 until it was shut down in September 1978.<i> MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 However, the convenience of strolling into clean hawker centres for a delicious meal was unheard of in Singapore during the colonial period and early post-independence days. Instead, the norm was to eat by the roadside using dirty utensils and amid filthy conditions. How this was replaced by today’s hawker experience marked by good food and a clean eating environment is the result of a decades-long struggle between the government and hawkers.
 
@@ -29,6 +30,9 @@ However, the convenience of strolling into clean hawker centres for a delicious 
 Peddling food has been part of Singapore’s heritage since the early colonial period. The hawker scene then was a vibrant one, marked by rows of stalls selling an endless selection of tasty and affordable local foods ranging from Malay kuehs (cakes) to Chinese dishes. John Cameron in Our Tropical Possessions in Malayan India (1865) noted this scene after his visit to Singapore in the 1860s:
 
 There is probably no city in the world with such a motley crowd of itinerant vendors of wares, fruits, cakes, vegetables. There are Malays, generally with fruit, Chinamen with a mixture of all sorts, and Klings with cakes and different kinds of nuts. Malays and Chinamen always use the shoulder-stick, having equally-balanced loads suspended at either end; the Klings, on the contrary, carry their wares on the head on trays. The travelling cook shops of the Chinese are probably the most extraordinary of the things that are carried about this way. They are suspended on one of the common shoulder-sticks, and consist of a box on one side and a basket on the other, the former containing a fire and small copper cauldron for soup, the latter loaded with rice, vermicelli, cakes, jellies, and condiments….[^2]
+
+<img style="width: :50%;" src="/images/vol-9-issue-3/Hawkers/H6.png">
+<div style="background-color: white;">A Malay hawker with his portable satay stall in 1907.<i> Courtesy of National Archives of Singapore.</i></div>
 
 However, many considered hawkers, especially street hawkers, a public nuisance.[^3] They impeded both vehicular and foot traffic and made the streets rowdy and chaotic. The authorities also regarded hawkers as a source of public disorder, fuelling the activities of secret societies and street gangs by paying money in return for protection services against intimidation and extortions from other secret societies and gangs.[^4]
 
@@ -54,6 +58,10 @@ The failed attempt to resolve the hawker problems was due to numerous factors. F
 
 Besides the hawkers, the daily raids irked both the Hawkers’ Union and the public. Rallying behind the hawkers, the Hawkers’ Union suggested that a better approach was not to punish the hawkers but to work with them to preserve their livelihood by building shelters so that hawkers would have an alternate site to continue their trade.[^30] In the 1950s, some hawkers formed syndicates to buy land and build markets and hawkers’ shelters. Some of these were located in Somerset Road, Sennett Estate, Mackenzie Road and Serangoon Road.[^31] However, this bold endeavour failed to trigger a similar response from the authorities. As a result, illegal hawker stalls and the mass raids continued. It was only after Singapore became an independent nation in 1965 that a concerted government effort to resolve the hawker problem was made.
 
+<img style="width: :50%;" src="/images/vol-9-issue-3/Hawkers/H7.png">
+<div style="background-color: white;">Demolition of hawker stalls at St Michael's estate in progress in 1962. 	<i>Courtesy of National Archives of Singapore.
+Image courtesy of Food Republic.</i></div>
+
 #### **Building Hawker Centres**
 
 Leading the government effort to solve the hawker problem in the post-independence years was then-Minister for Health Yong Nyuk Lin. He noted that the illegal hawker situation in Singapore “\[had\] gone on far too long and should be stopped”.[^32] Addressing Parliament in 1965, Yong acknowledged that while hawking was a legitimate livelihood, all hawkers should follow the rules and not threaten public health, traffic, and law and order. He suggested that all hawkers relocate to permanent premises. The first step was to register all the estimated 40,000 to 50,000 hawkers in Singapore so that the authorities could impose some control over them.[^33] In March 1966, the Ministry of Health (MOH) introduced the Hawkers’ Code. Under the code, a licence could only be issued to Singaporeans; in addition hawkers were prohibited from plying their trade along streets with high traffic volume, in car parks during the daytime, around bus stops, and near schools and other public buildings. The Hawkers Department under MOH carried out the registration exercise over a period of time. When it concluded in 1969, there were about 24,000 registered hawkers, much lower than the previously estimated figure.
@@ -66,11 +74,21 @@ The Hawker Centres Development Committee was set up in 1971 to plan for the deve
 
 In 1972, the new Ministry of Environment took over the Hawkers Department as well as the responsibility of developing hawker centres. It also announced a programme to build 10 new hawker centres by 1975. These new centres were located at Empress Place, Telok Ayer, North Bridge Road, Jalan Besar, Beach Road, Jurong Kechil, Ama Keng, Upper Thomson, Dunman Road and Zion Road, and these enabled the government to relocate about 7,000 street hawkers.[^38] At the end of 1986, there were 113 hawker centres island-wide.[^39] In the same year, the government removed the last batch of 80 streets hawkers congregating at China Square and Haw Par Villa.[^40] This brought the government’s long struggle to relocate street hawkers into permanent premises to a close.
 
+<img style="width:100%;" src="/images/vol-9-issue-3/Hawkers/H8.png">
+<div style="background-color: white;">The hawker centre at the top floor of Funan Shopping Centre in 1985. <i> MITA collection, courtesy of National Archives of Singapore.</i></div>
+
+
 *As the construction of new hawker centres came to a halt, private food operators began setting up food courts. To differentiate themselves from hawker centres, food courts were air-conditioned. The first of its kind was the well known Picnic Food Court, set up in 1985 in the basement of Scotts Shopping Centre along Scotts Road.[^41] *Since then, such airconditioned food courts have sprouted in many shopping centres, business parks, tertiary institutions and hospitals.
 
 *Other than air-conditioning, there are a number of marked differences between hawker centres and food courts. In hawker centres, the stallholders are individual tenants whereas a single operator manages the food court and rents out the stalls. Invariably, the food prices in food courts are higher too. Unfortunately, in many cases, food court fare tends to be slightly characterless thanks to the mass-produced standard recipes that these vendors use compared to rough and tumble hawker centres where one might find older hawkers who have been honing their craft for several decades using carefully guarded recipes. To be fair, however, such hawkers are a dying breed, and their children are not eager to take over the long hours and sweaty work that the job demands.*
 
 *Cutlery and uniforms used in food courts also tend to be standard issue, and many food court operators employ a common design theme to brand their food court chains. Major food court operators in Singapore include Food Republic, Food Junction, Kopitiam and Koufu. Food Republic at Wisma Atria for instance has a 1960s-theme complete with old furniture and stalls operating from pushcarts; another of its outlets at Suntec City Convention Centre was designed around the concept of a White Garden.*
+
+<img style="width: 650px; height: 420px;"
+src="/images/vol-9-issue-3/Hawkers/H9.png">
+<div style="background-color: white;">The Food Republic at Wisma Atria boasts 23 food stations and three mini restaurants in a 23,000 square foot space. <i>Image courtesy of Food Republic.
+</i></div>
+
 
 #### **Improving Hygiene Standards**
 
