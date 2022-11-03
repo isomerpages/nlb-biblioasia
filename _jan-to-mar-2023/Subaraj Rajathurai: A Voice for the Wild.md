@@ -5,14 +5,6 @@ description: A gentle giant with a larger than life personality, Subaraj
   Rajathurai helped to save Singapore’s green spaces.
 image: /images/Vol 18 Issue 4/Subaraj Rajathurai/Facing Page.jpg
 ---
-
-
-
-
-
-
-
-
 #### A gentle giant with a larger than life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 By Benjamin Ho
 
