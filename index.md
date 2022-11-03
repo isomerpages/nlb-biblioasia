@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
-      button: A Voice for the Wild
+      url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+      button: Family Planning in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Subaraj Rajathurai/Hero Banner_Subaraj.jpg
+      background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
       title: A Voice for the Wild
       subtitle: Nature
