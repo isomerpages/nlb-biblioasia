@@ -24,6 +24,7 @@ sections:
       button: A Man of Nature
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
       alt: Subaraj
+      image: /images/Vol 18 Issue 4/Subaraj Rajathurai/Facing Page.jpg
   - infopic:
       title: Rituals behind Firewalking
       subtitle: culture
