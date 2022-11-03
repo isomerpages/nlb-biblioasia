@@ -16,8 +16,6 @@ sections:
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 4/Subaraj Rajathurai/Hero Banner_Subaraj.jpg
-      title: Subaraj Rajathurai
-      subtitle: A Voice for the Wild
   - infopic:
       title: A Voice for the Wild
       subtitle: Nature
