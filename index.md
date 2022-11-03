@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
-      title: " "
-      button: Johor at the 1893 <br>Chicago World’s Fair
+      url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+      button: Family Planning in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Hero Banner_Subaraj.jpg
+      background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
       title: Rituals behind Firewalking
       subtitle: culture
