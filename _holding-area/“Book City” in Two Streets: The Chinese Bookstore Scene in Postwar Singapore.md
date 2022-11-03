@@ -80,3 +80,11 @@ It is thanks to dedicated book lovers, who have been quietly pushing back aga
 For readers, these bookstores provide sustenance for the soul; for writers, they provide a platform for the publication of their books; for creative youths, they offer a nurturing space for imaginative pursuits; and for the next generation, they provide a conducive environment that encourages Chinese reading. 
 
 Even though Chinese readership in Singapore is declining and the golden age of Chinese bookstores has passed, I believe that the worst is over. Moving forward, these independent bookstores – with their personalised touches and new business models – will give the bookstore industry a new lease of life.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> TThis is an edited and translated version of 좃係蝎쌍，좃林蝎냘：濫빈劤속팃빽匡蝎듦쒼밖. To read this, visit <a href="https://biblioasia.nlb.gov.sg/">https://biblioasia.nlb.gov.sg/</a> or scan this QR code.</div>
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Benjamin%20Ho.png" style="width: 100px; height: 100px;"/>
+	<b>Lee Ching Seng</b> is former head of the Chinese Library at the National University of Singapore. As a subject specialist in Singapore and Southeast Asian collections and resources, he has written bibliographies on Singapore Chinese literature, and articles on library collections and the overseas Chinese in Singapore and Southeast Asia.</div>
