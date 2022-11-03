@@ -23,7 +23,8 @@ sections:
         Rajathurai helped to save Singapore’s green spaces.
       button: A Man of Nature
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
-      image: /images/Vol 18 Issue 4/Subaraj Rajathurai/Facing Page.jpg
+      image: /images/Vol 18 Issue 4/Subaraj Rajathurai/25th anniversary
+        celebration2.jpg
       alt: Subaraj
   - infopic:
       title: Rituals behind Firewalking
