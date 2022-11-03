@@ -6,3 +6,4 @@ description: What we eat is often shaped not only by culture and tradition but
   find out how all these factors have influenced what appears on the dinner
   table.
 ---
+#### What we eat is often shaped not only by culture and tradition but also society and government policies. Through one family’s changing palate, find out how all these factors have influenced what appears on the dinner table.
