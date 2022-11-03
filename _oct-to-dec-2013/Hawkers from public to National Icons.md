@@ -8,6 +8,7 @@ image: /images/vol-9-issue-3/Hawkers/H3.png
 ---
 #### From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
 
+
 ![](/images/vol-9-issue-3/Hawkers/H3.png)
 A group of Chinese hawkers in 1915. *Courtesy of
 National Archives of Singapore*.
@@ -89,10 +90,4 @@ As more tourists began to visit hawker centres, the government embarked on the H
 
 After the fight to ensure that hawkers could continue their trade, there are now concerns that Singapore’s hard-won culinary heritage could wane as there may not be enough Singaporeans joining the trade to replace the first and second generation hawkers.[^51] The younger generation thinks it is an unglamorous, menial and lowly job that is no longer a viable livelihood. Besides, most parents prefer their children to secure more cushy white-collar jobs instead. To retain and preserve traditional hawker food, the government has introduced initiatives such as lower stall rentals. It also resumed the construction of hawker centres, announcing that 10 new hawker centres would be built by 2016.[^52]
 
-New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Development Agency launched its first official hawker training programme.[^53] The programme contains training modules that introduces the basics of the hawker trade such as how to cook basic hawker staples like roti prata and chicken rice, maintain good food hygiene and teach innovative ways to display dishes in stalls. Furthermore, the government is considering setting up a training institute for hawkers. If this materialises, the school will hire successful hawkers to teach and transfer their skills to new hawkers.[^54] While these actions have generated a great amount of interests among Singaporeans, it remains to be seen whether they can help preserve the unique hawker culture of Singapore. 
-
-
-
-
-
-
+New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Development Agency launched its first official hawker training programme.[^53] The programme contains training modules that introduces the basics of the hawker trade such as how to cook basic hawker staples like roti prata and chicken rice, maintain good food hygiene and teach innovative ways to display dishes in stalls. Furthermore, the government is considering setting up a training institute for hawkers. If this materialises, the school will hire successful hawkers to teach and transfer their skills to new hawkers.[^54] While these actions have generated a great amount of interests among Singaporeans, it remains to be seen whether they can help preserve the unique hawker culture of Singapore.
