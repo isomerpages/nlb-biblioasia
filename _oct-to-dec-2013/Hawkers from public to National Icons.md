@@ -108,4 +108,13 @@ As more tourists began to visit hawker centres, the government embarked on the H
 
 After the fight to ensure that hawkers could continue their trade, there are now concerns that Singapore’s hard-won culinary heritage could wane as there may not be enough Singaporeans joining the trade to replace the first and second generation hawkers.[^51] The younger generation thinks it is an unglamorous, menial and lowly job that is no longer a viable livelihood. Besides, most parents prefer their children to secure more cushy white-collar jobs instead. To retain and preserve traditional hawker food, the government has introduced initiatives such as lower stall rentals. It also resumed the construction of hawker centres, announcing that 10 new hawker centres would be built by 2016.[^52]
 
-New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Development Agency launched its first official hawker training programme.[^53] The programme contains training modules that introduces the basics of the hawker trade such as how to cook basic hawker staples like roti prata and chicken rice, maintain good food hygiene and teach innovative ways to display dishes in stalls. Furthermore, the government is considering setting up a training institute for hawkers. If this materialises, the school will hire successful hawkers to teach and transfer their skills to new hawkers.[^54] While these actions have generated a great amount of interests among Singaporeans, it remains to be seen whether they can help preserve the unique hawker culture of Singapore.
+New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Development Agency launched its first official hawker training programme.[^53] The programme contains training modules that introduces the basics of the hawker trade such as how to cook basic hawker staples like roti prata and chicken rice, maintain good food hygiene and teach innovative ways to display dishes in stalls. Furthermore, the government is considering setting up a training institute for hawkers. If this materialises, the school will hire successful hawkers to teach and transfer their skills to new hawkers.[^54] While these actions have generated a great amount of interests among Singaporeans, it remains to be seen whether they can help preserve the unique
+hawker culture of Singapore.
+
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+<b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories — A Resource Guide; Harmony and Development: ASEANChina Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).
+
