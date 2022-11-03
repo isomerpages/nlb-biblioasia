@@ -15,11 +15,15 @@ When I was growing up, my grandfather’s elderly cousin would visit us during i
 
 During the annual Dragon Boat festival, my grandmother would spend days painstakingly preparing the ingredients required for making the pyramid-shaped rice dumplings called 肉粽 (rou zong). It was a tedious process making them: cooking red beans and grinding them into a paste; boiling dried chestnuts and removing the skins; chopping and stirfrying dried prawns, dried mushrooms and fatty pork with coriander powder and other spices; washing bamboo leaves, strings and glutinous rice; and cleaning caul fat membrane and stuffing it with a generous dollop of the red bean paste. The ingredients were then assembled and neatly wrapped in bamboo leaves before being steamed to perfection in bamboo baskets. Nowadays, many families prefer to purchase ready-made dumplings from shops.
 
+In recent years, there has been no lack of news lamenting the closure of many Singapore food establishments. Most recently, in May 2013—after 58 years of operation—the shutters came down on the iconic Mong Hing Teochew Restaurant in Beach Road. Exhausting and time-consuming food preparation, ageing cooks, the lack of successors, and the rising cost of manpower and ingredients are frequently cited as reasons for these closures. 
 
+This essay examines the ethnological aspect of food and its impact on the food my grandparents, parents and my family have consumed over the decades and offers perspectives on how our family’s eating habits have evolved over the course of three generations.
 
 
 #### **My Grandparents'  Generation: 1930s–1950s**
 My maternal grandmother arrived in Singapore from Guandong province in China during the late 1930s. As a young bride, she lived with her husband and mother-in-law who were farmers. Life settled into a routine of waking up before dawn to feed the pigs and chickens,tending to the vegetable plots, and cooking three meals a day. My great grandmother would harvest the vegetables and sell them at a nearby makeshift market.
+
+Breakfast was usually a bowl of steaming watery porridge served with some fried eggs and preserved olives; lunch comprised stir-fried vegetables and pork; while dinner was more stir-fried vegetables, along with fried or steamed fish. This was the typical fare of my grandmother’s generation. My paternal grandparents were fortunate enough to live along the banks bordering the Straits of Johor (on the Singapore side), where they enjoyed easy access to fresh seafood. As a result, freshly steamed fish and seafood, seasoned simply with salt, featured frequently at mealtimes. One of our relatives made her homemade fish sauce as a seasoning, and it was also common for families to ferment their own rice wine for cooking. In those days, sumptuous dishes that required elaborate preparation or expensive and seasonal ingredients were only eaten during festivals and celebrations.
 
 
 
