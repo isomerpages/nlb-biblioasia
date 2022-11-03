@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
-      button: Family Planning in Singapore
+      url: /vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
+      button: A Voice for the Wild
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
+      background: /images/Vol 18 Issue 4/Subaraj Rajathurai/Hero Banner_Subaraj.jpg
+      title: Subaraj Rajathurai
+      subtitle: A Voice for the Wild
+  - infopic:
+      title: A Voice for the Wild
+      subtitle: Nature
+      description: A gentle giant with a larger than life personality, Subaraj
+        Rajathurai helped to save Singapore’s green spaces.
+      button: A Man of Nature
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
+      image: /images/Vol 18 Issue 4/Subaraj Rajathurai/Facing Page.jpg
+      alt: Subaraj
   - infopic:
       title: Rituals behind Firewalking
       subtitle: culture
@@ -255,13 +266,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: A Voice for the Wild
-      subtitle: Nature
-      description: A gentle giant with a larger than life personality, Subaraj
-        Rajathurai helped to save Singapore’s green spaces.
-      button: A Man of Nature
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
-      image: /images/Vol 18 Issue 4/Subaraj Rajathurai/Facing Page.jpg
-      alt: Subaraj
 ---
