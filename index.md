@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Sarong Island/Sarong_Hero Banner1.jpg
+      background: /images/Vol 18 Issue 3/Sarong Island/Sarong_Hero Banner2.jpg
   - infopic:
       title: A Voice for the Wild
       subtitle: Nature
