@@ -58,10 +58,14 @@ The City of Books subsequently drew older bookstores like Commercial Press and i
 
 Bras Basah Complex is currently the largest book hub in Singapore. It comprises 117 units (including office space), with more than 90 of these occupied by bookstores or stationery shops. Among the many bookstores there, Popular’s flagship store is the biggest. Covering an area of around 2,323 sq m and spanning three floors at the time, it was considered the largest bookstore in Southeast Asia when it opened in 1980.
 
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/Bras%20Basah%20Complex.jpg)
+<div style="background-color: white;"> Bras Basah Complex is well known for its many bookstores and is referred to as the City of Books. <i>Photo by Jimmy Yap.</i></div>
+
+Popular was founded by Chou Sing Chu, who had come from Shanghai and set up The World Book Company in Singapore. The first Popular store was located at 205 North Bridge Road. In the early 1980s, just as the Chinese bookstore industry started to go downhill, Popular became one of the first bookstores to take up a lease at Bras Basah Complex. It transformed into a bilingual bookstore selling both Chinese and English books. It also pioneered a new business model by selling stationery and gifts on a large scale. This was a refreshing change in the traditional Chinese bookstore trade.
+
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/PopularBookCompany.jpg)
 <div style="background-color: white;"> Popular Book Company on North Bridge Road, 1968. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
 
-Popular was founded by Chou Sing Chu, who had come from Shanghai and set up The World Book Company in Singapore. The first Popular store was located at 205 North Bridge Road. In the early 1980s, just as the Chinese bookstore industry started to go downhill, Popular became one of the first bookstores to take up a lease at Bras Basah Complex. It transformed into a bilingual bookstore selling both Chinese and English books. It also pioneered a new business model by selling stationery and gifts on a large scale. This was a refreshing change in the traditional Chinese bookstore trade.
 
 In 1994, the Chou family merged The World Book Company and its subsidiaries into Popular, making it the first conglomerate bookstore in Singapore. Today, Popular Holdings operates in Hong Kong and various countries in Southeast Asia. With more than 4,000 publications and nearly 40 publishing houses under its belt, Popular offers literary books, periodicals, Malay dictionaries, textbooks, teaching aids and more. These publications are distributed through its network of publishing houses in Singapore, Jakarta and Hong Kong.
 
