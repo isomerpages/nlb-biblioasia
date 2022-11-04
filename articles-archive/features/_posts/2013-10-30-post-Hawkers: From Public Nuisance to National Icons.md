@@ -1,10 +1,16 @@
 ---
 title: "Hawkers: From Public Nuisance to National Icons"
-permalink: /vol-9/issue-3/oct-dec-2013/hawkers-national-icons
+permalink: /vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons/
 date: 2013-10-30
 layout: post
-description: ""
+description: "From bane of the government to boon of tourism, hawkers in
+  Singapore have come a long way from the time they were viewed by government
+  officials as progenitors of Hawkers disorder and disease. "
+image: /images/vol-9-issue-3/Hawkers/H3.png
 ---
+
+
+
 #### From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
 
 <img src="/images/vol-9-issue-3/Hawkers/H1.png">
