@@ -40,7 +40,7 @@ In the prewar era, most local Chinese bookstores also sold stationery and spor
 
 #### **Book Cities: Golden Mile and Bras Basah (1970–80)**
 
-After Singapore gained independence in 1965, urban development took place at breakneck speed. Many old shophouses along North and South Bridge roads were demolished, and gleaming skyscrapers took their place. The majority of these high-rise buildings housed shopping malls, offices and residential units. New towns such as Queenstown, Toa Payoh and Ang Mo Kio sprang up in less densely populated suburban and rural areas.
+After Singapore gained independence in 1965, urban redevelopment took place at breakneck speed. Many old shophouses along North and South Bridge roads were demolished, and gleaming skyscrapers took their place. The majority of these high-rise buildings housed shopping malls, offices and residential units. New towns such as Queenstown, Toa Payoh and Ang Mo Kio sprang up in less densely populated suburban and rural areas.
 
 In the 20 years that followed, the evolving urban landscape also brought about further changes: both the North Bridge Road and South Bridge Road book scenes shrank. One by one, Chinese bookstores moved into modern shopping malls that came with better facilities but had high rental rates.
 
@@ -61,7 +61,7 @@ Bras Basah Complex is currently the largest book hub in Singapore. It comprises 
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/Bras%20Basah%20Complex.jpg)
 <div style="background-color: white;"> Bras Basah Complex is well known for its many bookstores and is referred to as the City of Books. <i>Photo by Jimmy Yap.</i></div>
 
-Popular was founded by Chou Sing Chu, who had come from Shanghai and set up The World Book Company in Singapore. The first Popular store was located at 205 North Bridge Road. In the early 1980s, just as the Chinese bookstore industry started to go downhill, Popular became one of the first bookstores to take up a lease at Bras Basah Complex. It transformed into a bilingual bookstore selling both Chinese and English books. It also pioneered a new business model by selling stationery and gifts on a large scale. This was a refreshing change in the traditional Chinese bookstore trade.
+Popular was founded by Chou Sing Chu, who had come from Shanghai and set up The World Book Company in Singapore. The first Popular store was located at 205 North Bridge Road. In the 1980s, just as the Chinese bookstore industry started to go downhill, Popular became one of the first bookstores to take up a lease at Bras Basah Complex. It transformed into a bilingual bookstore selling both Chinese and English books. It also pioneered a new business model by selling stationery and gifts on a large scale. This was a refreshing change in the traditional Chinese bookstore trade.
 
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/PopularBookCompany.jpg)
 <div style="background-color: white;"> Popular Book Company on North Bridge Road, 1968. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
