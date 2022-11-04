@@ -74,7 +74,7 @@ Over the years, changes in lifestyle, national campaigns, and new ways of storin
 
 Certain common hawker dishes have also been gradually disappearing from the culinary horizon. Local food blogger Dr Leslie Tay has noted a steady decline in the standards of char kway teow (fried rice noodles) as the dish has come to be regarded as “unhealthy and the fear of contracting Hepatitis A from eating partially cooked cockles has put another nail in the coffin.”[^11] He has also remarked that Teochew eateries no longer use the meaty Asian carp in traditional fish head steamboat. These days, the “muddy” tasting freshwater fish has been replaced by more popular varieties such as pomfret and grouper.[^12] Mass produced pre-cooked ingredients manufactured by factories and supplied to hawkers have also contributed to this loss of food heritage; culinary skills among hawkers have been eroded by these shortcuts and many people complain that the old-style dishes just do not taste the same anymore.
 
- #### **My Generation**
+#### **My Generation**
  
  The loss in food heritage is also felt in the home. My family does not consciously partake of traditional Teochew cuisine at home anymore. Everyday dishes are not uniquely Teochew, except for special occasions such as festivals and celebrations when our family buys Teochew confectionaries or steamed kueh (cakes).
  
