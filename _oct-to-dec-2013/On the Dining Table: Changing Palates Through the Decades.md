@@ -53,7 +53,7 @@ After Singapore’s independence in 1965, a series of broad and sweeping changes
 As a young wife in the 1970s, my mother enjoyed collecting recipes from newspapers and magazines, attending cooking classes at community centres, watching cooking programmes on television and buying cookbooks. My mother was able to try her hand at cooking dishes from cuisines other than Teochew and, thanks to new kitchen equipment, such as the refrigerator, gas stove, cake mixer and blender, was able to reduce the time she spent in the kitchen preparing ingredients and cooking. The introduction of supermarkets also widened the selection of ingredients available; and imported items started making their way to the supermarket shelves.
 
 
-<img style="width: 50%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/shoppers.jpg">
+<img style="width: 40%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/shoppers.jpg">
 <div>Shoppers at the new National Trades Union Congress (NTUC) supermarket at Toa Payoh, which opened on 22 July, 1973. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 	
 Over time, all this had a huge impact on what we ate. Our hot porridge breakfasts gave way to the more convenient combination of bread, butter and jam, and our mealtimes saw more variety on the table as Mum grew adventurous and experimented with new dishes. However, during important festivals and celebrations, we would still indulge in grandmother’s and mother’s traditional Teochew cooking. The success of the Speak Mandarin campaign, which was introduced in 1979, eroded our ability to converse in fluent Teochew. Today, my siblings and I are less well-versed in the Teochew dialect, and as a result, cooking instructions issued to us in this Chinese dialect by our grandmother are sometimes lost in translation. Occasionally, grandmother would share Teochew food aphorisms such as 三四桃李奈 and 七八 油甘柿 (meaning “peaches, apricots and plums ripen during March and April” and “Indian gooseberries and persimmons are ready to be eaten in July and August”) and dispense practical advice such as 稚鸡, 硕鹅, 老鸭母 (meaning “young chicken, mature goose and old duck are the best stages of their growth for cooking”). 
@@ -66,9 +66,8 @@ As early as 1979, it was reported that the changing lifestyles of Singaporeans h
 
 The Ministry of Health launched studies of the food consumed by Singaporeans. One of the earliest projects was conducted by the Institute of Science and Forensic Medicine under the Ministry of Health in 1992. The following year, 200 commonly available foods at hawker centres were subjected to chemical analysis by laboratories commissioned by the Food and Nutrition Department. A series of booklets on food and nutrition was published and distributed to the public, covering subjects such as healthy eating at childcare centres, serving healthy food to students, healthier menu choices for workplace canteen operators, coffeeshops and restaurants, and a guide to making sensible food choices at hawker centres.
 
-![](/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg)
-
-<img style="width: 2000%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg"><div>Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i> Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
+<img style="width: 2000%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg">
+<div>Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i> Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
 
 Over the years, changes in lifestyle, national campaigns, and new ways of storing, processing and cooking food have contributed to changes in our diets. The author of Soya & Spice, Jo Marion Seow, lamented that some food “\[has\] gone the way of the dinosaurs”, citing the example of the cheap preserved or pickled side dish known as zahb khiam in Teochew, which was commonly eaten with porridge.[^10]
 
