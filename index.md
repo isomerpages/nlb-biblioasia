@@ -10,12 +10,12 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
-      button: Before there was Sentosa<br>there was Sarong Island
+      button: Before there was Sentosa "<br>" there was Sarong Island
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Sarong Island/Sarong_Hero Banner2.jpg
+      background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
       title: Sarong Island
   - infopic:
       title: A Voice for the Wild
