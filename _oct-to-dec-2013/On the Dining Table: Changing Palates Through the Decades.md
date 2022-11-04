@@ -31,10 +31,16 @@ According to Saw Swee Hock, a professorial fellow at the Institute of Southeast 
 
 Neville wrote that during the postwar period, the Chinese population dominated the influx of new immigrants and several dialect groups lived in enclaves, particularly within the central city area. The Teochew community established themselves mainly on the south bank of the Singapore River. Many were employed as coolies (labourers), hauling goods between the riverside warehouses and tongkangs (local wooden boats) crowding the river. Some Teochews specialised in certain sectors of the interisland boat trade, particularly between Singapore, west Borneo and southThailand where substantial Teochew trading communities were found.[^2] There were also others, like my grandparents and relatives, who were farmers and fishermen living in Teochew-dominated areas of Singapore like Sembawang, Upper Thomson and Punggol.
 
-
-
 <img style="width: 100%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/teochew%20migrants.jpg">
 <div> Located at Clemenceau Avenue, the Teochew style grand mansion of Tan Yeok Nee is the last of its kind still standing (1910). <i>Courtesy of National Archives of Singapore</i></div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>The Teochew Migrants</b>
+<br><br>
+	The Teochew migrants who arrived in Singapore from the 19th century onwards came from the Chaoshan (潮汕) region in the eastern Guangdong province of China, near the border of Fujian. This dialect group includes people from the Chaozhou (潮州), Shantou (汕头) and Jieyang (揭阳) cities. As the majority of Teochews live by the sea or near waterways, Teochew cuisine often comprises the freshest fish and seafood. The dishes use minimal seasoning in order to enhance the natural taste of the food.
+<br><br>
+	Teochew cuisine is made up of four broad categories: braised food, such as braised duck and braised pork belly; seafood dishes such as freshly steamed white pomfret, steamed fishcakes and steamed mullet; pickled food like chye poh (salted radish) and dang cai (brown pickled cabbage); and lastly, dishes cooked with seasoning and sauces such as fish sauce, salted plums, kumquat oil and Teochew gong cai (a form of pickled mustard greens).
+</span>
+
 
 From the immediate postwar years up till the late 1960s, my grandparents lived in close proximity to their extended families and ate more or less the same meals every day. During festive seasons, food and invitations to more elaborate feasts were exchanged. Occasionally they would have their meals at makeshift stalls set up by streetside hawkers, choosing cooked food they were accustomed to. As unemployment rates in newly independent Singapore was high and jobs were scarce, many people chose to become hawkers; it was definitely one of the easier ways to earn a living during those difficult times.
 
