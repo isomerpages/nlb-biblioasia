@@ -89,7 +89,7 @@ Union, which used to specialise in books from Taiwan and Hong Kong, has undergon
 
 Grassroots Book Room is another example of a small bookstore that was able to pivot successfully, though not easily. The late Yeng Pway Ngon, who later became an acclaimed writer and Cultural Medallion recipient, founded the bookstore in Textile Centre in 1976 but it closed in 1981. In 1995, Yeng re-established the store on North Bridge Road, but after two decades of struggles, he sold the business in 2014 to former journalist Lim Jen Erh, arts lover Lim Yeong Shin and medical doctor Lim Wooi Tee. The bookstore has since relocated to Bukit Pasoh Road, where it continues to serve book lovers today. 
 
-![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/Grassroots.jpg)
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/Grassroots2.jpg)
 <div style="background-color: white;"> Grassroots Book Room at 25 Bukit Pasoh Road. The bookstore was formerly located in North Bridge Centre. <i>Photo by Jimmy Yap.</i></div>
 
 Tan Waln Ching, a former employee of Grassroots, founded City Book Room (냘懇蝎렌) as a home publishing business in 2014. Two years later, it moved to North Bridge Centre, a few units away from Grassroots’s original location. In June 2022, City Book Room relocated once more, this time to Joo Chiat Road in the east. 
