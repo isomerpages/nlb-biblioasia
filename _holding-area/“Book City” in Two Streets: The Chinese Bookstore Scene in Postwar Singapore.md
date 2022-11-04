@@ -6,7 +6,7 @@ description: ""
 #### Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
 By Lee Ching Seng
 
-![](/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg)
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage.jpg)
 <div style="background-color: white;"> View of North Bridge Road, c. 1970s. Before the 1980s, it was a popular location for Chinese bookstores until they moved into the nearby Bras Basah Complex. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 In the last two decades, the successive closure of numerous Chinese bookstores in Singapore have drawn laments from book lovers. Bookstores have always been an integral part of my life. Since I was a child, I have loved visiting bookstores to buy books and peruse the colourful stationery on display. As an adult, I once even owned a bookstore and also worked as a librarian for more than 40 years. During this time, I had the opportunity to meet many book lovers and bookstore operators. The fact that bookstores are now becoming a sunset industry is, for me, a bitter pill to swallow.
@@ -19,9 +19,18 @@ In those days, buses travelling from Nantah to town would end their journey at 
 
 The most well-known were Chung Hwa Book Company (櫓빽), The Commercial Press (蛟), Union Book Company (堂젬), Popular Bookstore (댕露), Youth Book Company (행쾨), The Nanyang Book Company (켓捏), China (櫓벌), Black Cat Book Co. (붚챔) and The Student Book Store (欺). They were all situated along North Bridge Road or in one of its alleys.  On nearby Victoria Street were other books stores like Shanghai Book Company (베), Tah Lian Book Store (댕젬) and Sing Lien Book Store (槿젬).
 
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/ShanghaiBookCo.jpg)
+<div style="background-color: white;"> The Commercial Press and Shanghai Book Company on North Bridge Road c. 1920s–30s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 The concentration of bookstores in the North Bridge Road area helped to develop a vibrant reading culture. Each bookstore distributed or published its own unique genre of books and appealed to different categories of customers who thronged the stores on weekends. In the 1950s and 1960s, when public libraries had yet to become commonplace, these bookstores were havens for young people with intellectual inclinations.
 
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/ShanghaiBookCoInterior.jpg)
+<div style="background-color: white;"> The interior of Shanghai Book Company on North Bridge Road, c. 1920s–30s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 Bookstores such as Shanghai, Chung Hwa, Popular, Youth and Student – which distributed publications from mainland China and Hong Kong, as well as periodicals from Singapore and Malaysia – were popular among left-wing readers, including secondary school students, college students, young working adults, science students from Nantah, and young people interested in literature and the arts. Occasionally, in some of the smaller bookstores, one could even find publications from China that the government had banned from importing.
+
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/ChungHwaBooks.jpg)
+<div style="background-color: white;"> The interior of Shanghai Book Company on North Bridge Road, c. 1920s–30s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Back then, I used to frequent Union on North Bridge Road. As the bookstore stocked the most comprehensive range of books from Taiwan, it was also referred to as the “Taiwan book specialist”. Most of the reference books recommended by professors of the Nantah College of Arts could be found in Union. On the other hand, students who studied Malay would visit Shanghai Book Company to buy Chinese-Malay dictionaries, Malay language magazines and bilingual books in Chinese and Malay.
 
