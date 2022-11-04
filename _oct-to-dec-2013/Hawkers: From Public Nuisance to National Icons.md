@@ -8,8 +8,9 @@ image: /images/vol-9-issue-3/Hawkers/H3.png
 ---
 #### From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
 
-<img src="/images/vol-9-issue-3/Hawkers/H1.png">
-<div style="background-color: white;">Hawkers at the car park beside the former Specialists’ Centre at Orchard Road in 1970; known as Glutton's Square, this downtown icon lasted for over 12 years from 1966 until it was shut down in September 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img style="width:80%;" src="/images/vol-9-issue-3/Hawkers/H1.png">
+<div style="background-color: white;">
+Hawkers at the car park beside the former Specialists’ Centre at Orchard Road in 1970; known as Glutton's Square, this downtown icon lasted for over 12 years from 1966 until it was shut down in September 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 For one of the smallest countries in the world, Singapore has an enormous appetite. According to the annual MasterCard survey on consumer dining habits, Singaporeans were the biggest spenders for eating out in the Asia-Pacific region in 2012, spending an average S$323 each month. This was an increase of nearly 25 percent from 2011.[^1] In addition, the great lengths Singaporeans go to find the best or most authentic local dishes are testament to the nation’s obsession with food. They endure long queues, brave traffic jams and literally go the distance to satiate their taste buds. It is no wonder that the Singapore Tourism Board promotes the island as a food paradise, organising a series of annual food-related events, most notably the Singapore Food Festival, to boost tourist numbers.
 
@@ -27,17 +28,17 @@ Peddling food has been part of Singapore’s heritage since the early colonial p
 
 However, many considered hawkers, especially street hawkers, a public nuisance.[^3] They impeded both vehicular and foot traffic and made the streets rowdy and chaotic. The authorities also regarded hawkers as a source of public disorder, fuelling the activities of secret societies and street gangs by paying money in return for protection services against intimidation and extortions from other secret societies and gangs.[^4] 
 
-<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Hawkers/H3.png">
+<img style="width:90%;" src="/images/vol-9-issue-3/Hawkers/H3.png">
 <div style="background-color: white;">A group of Chinese hawkers in 1915. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Perhaps the biggest concern was the threat that hawkers posed to public health. Hawkers were seen as potential agents for the outbreak of diseases such as cholera and typhoid due to their unhygienic practices. As reported by the Municipal Health Office in 1895, hawker food was "extremely liable to contamination" because they were exposed to the elements, and prepared over drains "containing all manner of filth, even human excreta."[^5] This was exacerbated by infectious diseases carried by hawkers, using untreated water used to prepare the food, and the generally filthy conditions of the hawkers' lodgings where ingredients were stored. One such store was described by the Sanitation Commission in 1907 as being "overrun with cockroaches and other vermin".[^6] 
 
-<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Hawkers/H4.png">
+<img style="width:90%;" src="/images/vol-9-issue-3/Hawkers/H4.png">
 <div style="background-color: white;">Hawkers balancing their cooking equipment on one end of a pole, with the uncooked food onthe other, were once a common sight. <i>Courtesy of National Archives of Singapore.</i></div>
 
 To resolve these issues, the colonial government decided that hawkers should be registered and licensed.[^7] This would confine hawkers to selected areas in the city and prevent them from encroaching into public spaces, while making it easier for authorities to monitor their hygiene practices and deal with any public disorder caused by them.[^8] A proposal for the legislation was made in 1903 but only materialised in 1906 as by-laws of the Municipal Ordinance. Unfortunately, the legislation lacked teeth and health officials did not have the full authority to shut down hawkers who violated the rule of law. In addition, the by-laws were only applicable to stall hawkers who operated at night. The rest of the hawker community, both daytime stall hawkers and itinerant hawkers, were still allowed to ply their trade freely during the day. Despite the various problems caused by hawkers, the colonial government still viewed the hawker trade as an essential part of society as it provided unemployed and unskilled workers with a source of livelihood, and the urban population easy access to cheap meals.[^9] As a result, the government was reluctant to adopt a hard-line approach in suppressing them. Thus, the problems persisted and became so unbearable that it led to calls for the total abolition of hawkers.[^10] 
 
-<img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Hawkers/H6.png">
+<img style="width:50%;" src="/images/vol-9-issue-3/Hawkers/H6.png">
 <div style="background-color: white;">A Malay hawker with his portable satay stall in 1907. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In response, the colonial government took further steps to control the growth of hawkers. First, they extended the registration and confinement of hawkers to include itinerant hawkers in 1915 and daytime stall hawkers in 1919. Second, the maximum number of hawkers' licenses issued from 1928 was capped at 6,000 to stem their growth. Third, the authorities started relocating licensed hawkers to specially built hawkers' shelters.[^11] The first shelter – probably the precursor of the modern hawker centre – was built in 1922 at Finlayson Green. Thereafter, another five shelters were built at People's Park, Balestier Road, Carnie Road, Telok Ayer Market and Queen Street.[^12]
@@ -61,7 +62,7 @@ The failed attempt to resolve the hawker problems was due to numerous factors. F
 
 Besides the hawkers, the daily raids irked both the Hawkers’ Union and the public. Rallying behind the hawkers, the Hawkers’ Union suggested that a better approach was not to punish the hawkers but to work with them to preserve their livelihood by building shelters so that hawkers would have an alternate site to continue their trade.[^30] In the 1950s, some hawkers formed syndicates to buy land and build markets and hawkers’ shelters. Some of these were located in Somerset Road, Sennett Estate, Mackenzie Road and Serangoon Road.[^31] However, this bold endeavour failed to trigger a similar response from the authorities. As a result, illegal hawker stalls and the mass raids continued. It was only after Singapore became an independent nation in 1965 that a concerted government effort to resolve the hawker problem was made.
 
-<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Hawkers/H7.png">
+<img style="width:50%;" src="/images/vol-9-issue-3/Hawkers/H7.png">
 <div style="background-color: white;"> Demolition of hawker stalls at St Michael's estate in progress in 1962. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Building Hawker Centres**
