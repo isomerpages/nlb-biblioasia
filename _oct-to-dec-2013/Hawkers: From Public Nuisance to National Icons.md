@@ -62,7 +62,7 @@ The failed attempt to resolve the hawker problems was due to numerous factors. F
 
 Besides the hawkers, the daily raids irked both the Hawkers’ Union and the public. Rallying behind the hawkers, the Hawkers’ Union suggested that a better approach was not to punish the hawkers but to work with them to preserve their livelihood by building shelters so that hawkers would have an alternate site to continue their trade.[^30] In the 1950s, some hawkers formed syndicates to buy land and build markets and hawkers’ shelters. Some of these were located in Somerset Road, Sennett Estate, Mackenzie Road and Serangoon Road.[^31] However, this bold endeavour failed to trigger a similar response from the authorities. As a result, illegal hawker stalls and the mass raids continued. It was only after Singapore became an independent nation in 1965 that a concerted government effort to resolve the hawker problem was made.
 
-<img style="width:80%;" src="/images/vol-9-issue-3/Hawkers/H7.png">
+<img style="width:100%;" src="/images/vol-9-issue-3/Hawkers/H7.png">
 <div style="background-color: white;">
 <div style="background-color: white;"> Demolition of hawker stalls at St Michael's estate in progress in 1962. <i>Courtesy of National Archives of Singapore.</i></div>
 
