@@ -33,13 +33,8 @@ Neville wrote that during the postwar period, the Chinese population dominated t
 
 
 
-<img style="width: 650px; height: 420px;"
-src="/images/vol-9-issue-3On%20the%20Dining%20Table/teochew%20migrants.jpg">
-<div style="background-color: white;"> Located at Clemenceau Avenue, the Teochew style grand mansion of Tan Yeok Nee is the last of its kind still standing (1910). <i>Courtesy of National Archives of Singapore</i></div>
-
-
-
-Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+<img style="width: 100%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/teochew%20migrants.jpg">
+<div> Located at Clemenceau Avenue, the Teochew style grand mansion of Tan Yeok Nee is the last of its kind still standing (1910). <i>Courtesy of National Archives of Singapore</i></div>
 
 From the immediate postwar years up till the late 1960s, my grandparents lived in close proximity to their extended families and ate more or less the same meals every day. During festive seasons, food and invitations to more elaborate feasts were exchanged. Occasionally they would have their meals at makeshift stalls set up by streetside hawkers, choosing cooked food they were accustomed to. As unemployment rates in newly independent Singapore was high and jobs were scarce, many people chose to become hawkers; it was definitely one of the easier ways to earn a living during those difficult times.
 
