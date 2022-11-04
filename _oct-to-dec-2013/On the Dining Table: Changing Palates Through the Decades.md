@@ -53,7 +53,7 @@ After Singapore’s independence in 1965, a series of broad and sweeping changes
 As a young wife in the 1970s, my mother enjoyed collecting recipes from newspapers and magazines, attending cooking classes at community centres, watching cooking programmes on television and buying cookbooks. My mother was able to try her hand at cooking dishes from cuisines other than Teochew and, thanks to new kitchen equipment, such as the refrigerator, gas stove, cake mixer and blender, was able to reduce the time she spent in the kitchen preparing ingredients and cooking. The introduction of supermarkets also widened the selection of ingredients available; and imported items started making their way to the supermarket shelves.
 
 
-<img style="width: 50%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/shoppers.jpg">
+<img style="width: 100%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/shoppers.jpg">
 <div>Shoppers at the new National Trades Union Congress (NTUC) supermarket at Toa Payoh, which opened on 22 July, 1973. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 	
 Over time, all this had a huge impact on what we ate. Our hot porridge breakfasts gave way to the more convenient combination of bread, butter and jam, and our mealtimes saw more variety on the table as Mum grew adventurous and experimented with new dishes. However, during important festivals and celebrations, we would still indulge in grandmother’s and mother’s traditional Teochew cooking. The success of the Speak Mandarin campaign, which was introduced in 1979, eroded our ability to converse in fluent Teochew. Today, my siblings and I are less well-versed in the Teochew dialect, and as a result, cooking instructions issued to us in this Chinese dialect by our grandmother are sometimes lost in translation. Occasionally, grandmother would share Teochew food aphorisms such as 三四桃李奈 and 七八 油甘柿 (meaning “peaches, apricots and plums ripen during March and April” and “Indian gooseberries and persimmons are ready to be eaten in July and August”) and dispense practical advice such as 稚鸡, 硕鹅, 老鸭母 (meaning “young chicken, mature goose and old duck are the best stages of their growth for cooking”). 
@@ -182,22 +182,3 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 [^16]: Newman, J.M. (2004). [_Food culture in China_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
 [^17]: Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3691394) (p. 1). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
