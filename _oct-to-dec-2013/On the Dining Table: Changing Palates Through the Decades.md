@@ -66,7 +66,9 @@ As early as 1979, it was reported that the changing lifestyles of Singaporeans h
 
 The Ministry of Health launched studies of the food consumed by Singaporeans. One of the earliest projects was conducted by the Institute of Science and Forensic Medicine under the Ministry of Health in 1992. The following year, 200 commonly available foods at hawker centres were subjected to chemical analysis by laboratories commissioned by the Food and Nutrition Department. A series of booklets on food and nutrition was published and distributed to the public, covering subjects such as healthy eating at childcare centres, serving healthy food to students, healthier menu choices for workplace canteen operators, coffeeshops and restaurants, and a guide to making sensible food choices at hawker centres.
 
-<img style="width: 2000%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation3.jpg"><div>Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i> Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg)
+
+<img style="width: 2000%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg"><div>Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i> Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
 
 Over the years, changes in lifestyle, national campaigns, and new ways of storing, processing and cooking food have contributed to changes in our diets. The author of Soya & Spice, Jo Marion Seow, lamented that some food “\[has\] gone the way of the dinosaurs”, citing the example of the cheap preserved or pickled side dish known as zahb khiam in Teochew, which was commonly eaten with porridge.[^10]
 
