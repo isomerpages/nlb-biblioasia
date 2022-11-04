@@ -6,7 +6,8 @@ description: ""
 #### Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
 By Lee Ching Seng
 
-![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage.jpg)
+
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg)
 <div style="background-color: white;"> View of North Bridge Road, c. 1970s. Before the 1980s, it was a popular location for Chinese bookstores until they moved into the nearby Bras Basah Complex. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 In the last two decades, the successive closure of numerous Chinese bookstores in Singapore have drawn laments from book lovers. Bookstores have always been an integral part of my life. Since I was a child, I have loved visiting bookstores to buy books and peruse the colourful stationery on display. As an adult, I once even owned a bookstore and also worked as a librarian for more than 40 years. During this time, I had the opportunity to meet many book lovers and bookstore operators. The fact that bookstores are now becoming a sunset industry is, for me, a bitter pill to swallow.
