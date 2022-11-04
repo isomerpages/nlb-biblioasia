@@ -179,5 +179,25 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 [^15]: Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10763085) (p. 2). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
 
-[^16]: New Newman, J.M. (2004). [_Food culture in China_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
-SETLVL=1&BRN=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
+[^16]: Newman, J.M. (2004). [_Food culture in China_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
+
+[^17]: Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3691394) (p. 1). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
