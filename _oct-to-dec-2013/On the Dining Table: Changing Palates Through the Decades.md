@@ -31,6 +31,16 @@ According to Saw Swee Hock, a professorial fellow at the Institute of Southeast 
 
 Neville wrote that during the postwar period, the Chinese population dominated the influx of new immigrants and several dialect groups lived in enclaves, particularly within the central city area. The Teochew community established themselves mainly on the south bank of the Singapore River. Many were employed as coolies (labourers), hauling goods between the riverside warehouses and tongkangs (local wooden boats) crowding the river. Some Teochews specialised in certain sectors of the interisland boat trade, particularly between Singapore, west Borneo and southThailand where substantial Teochew trading communities were found.[^2] There were also others, like my grandparents and relatives, who were farmers and fishermen living in Teochew-dominated areas of Singapore like Sembawang, Upper Thomson and Punggol.
 
+
+
+<img style="width: 650px; height: 420px;"
+src="/images/vol-9-issue-3On%20the%20Dining%20Table/teochew%20migrants.jpg">
+<div style="background-color: white;"> Located at Clemenceau Avenue, the Teochew style grand mansion of Tan Yeok Nee is the last of its kind still standing (1910). <i>Courtesy of National Archives of Singapore</i></div>
+
+
+
+Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+
 From the immediate postwar years up till the late 1960s, my grandparents lived in close proximity to their extended families and ate more or less the same meals every day. During festive seasons, food and invitations to more elaborate feasts were exchanged. Occasionally they would have their meals at makeshift stalls set up by streetside hawkers, choosing cooked food they were accustomed to. As unemployment rates in newly independent Singapore was high and jobs were scarce, many people chose to become hawkers; it was definitely one of the easier ways to earn a living during those difficult times.
 
 According to the 1950 Hawker Inquiry Commission Report, Cantonese, Teochew and Hokkien hawkers made up the largest percentage of hawkers at 30, 30 and 20 percent respectively.[^3] However, in the post-war years, itinerant hawkers were seen as a general nuisance to the public, obstructing roads, incessantly calling out to customers, creating trouble with their gang affiliations, and posing a serious threat to health with their unhygienic food preparation and storage. Still, there was a demand as these hawkers provided their customers with easy access to reasonably priced cooked food, and it was a means of livelihood for themselves. The problem, however, was one of legislation. The report found that only between a quarter and a third of the hawkers were licensed, while the “remainder \[were\] breaking the law everyday merely in the course of earning their living.”[^4]
