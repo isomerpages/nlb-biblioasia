@@ -110,7 +110,7 @@ According to Hindu legend, Lord Krishna transformed into an old sage one day and
 <i>Roti prata</i> is a crisp and flaky flatbread that is often eaten with a Hyderabadi-style mutton rib curry cooked with lentils called <i>dalcha</i>. Over time, Singapore has evolved into a <i>prata</i> paradise with many innovative incarnations of <i>prata</i> available in Indian-Muslim stalls as well as restaurants. <i>Prata</i> shops like Thasevi Food in Jalan Kayu and The Roti Prata House in Upper Thomson among others offer numerous varieties, from egg <i>prata</i> and chicken floss <i>prata</i> to combination flavours like cheese and mushroom, cheese and pineapple, cheese and chicken and even ice cream. There is also a <i>prata</i> buffet available at Clay Oven restaurant in Dempsey Road. The humble <i>roti prata</i> is even listed at number 45 on the World’s 50 Most Delicious Foods readers’ poll compiled by CNN Go in 2011.[^20] 
 </span>
 
-**Malarvele ilangovan** is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library Provision to the Tamil Community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.
+<b>Malarvele ilangovan</b> is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library Provision to the Tamil Community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003. </i> 
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
 
