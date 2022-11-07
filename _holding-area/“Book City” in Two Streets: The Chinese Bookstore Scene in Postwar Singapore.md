@@ -31,7 +31,7 @@ The concentration of bookstores in the North Bridge Road area helped to develop�
 Bookstores such as Shanghai, Chung Hwa, Popular, Youth and Student – which distributed publications from mainland China and Hong Kong, as well as periodicals from Singapore and Malaysia – were popular among left-wing readers, including secondary school students, college students, young working adults, science students from Nantah, and young people interested in literature and the arts. Occasionally, in some of the smaller bookstores, one could even find publications from China that the government had banned from importing.
 
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/ChungHwaBooks.jpg)
-<div style="background-color: white;"> The interior of Shanghai Book Company on North Bridge Road, c. 1920s–30s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"> The interior of Shanghai Book Company on North Bridge Road, c. 1920s–30s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 Back then, I used to frequent Union on North Bridge Road. As the bookstore stocked the most comprehensive range of books from Taiwan, it was also referred to as the “Taiwan book specialist”. Most of the reference books recommended by professors of the Nantah College of Arts could be found in Union. On the other hand, students who studied Malay would visit Shanghai Book Company to buy Chinese-Malay dictionaries, Malay language magazines and bilingual books in Chinese and Malay.
 
