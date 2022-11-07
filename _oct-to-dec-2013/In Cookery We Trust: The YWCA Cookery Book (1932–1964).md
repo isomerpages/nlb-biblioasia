@@ -10,7 +10,7 @@ image: /images/vol-9-issue-3/In Cookery We Trust/YWCA Cooking Class_1.jpg
 
 
 
-<img style="width:100%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Presentation4.jpg">
+<img style="width:700%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Presentation5.jpg">
 <div style="background-color: white;"> Local ladies at a 1939 YWCA cooking class where the YWCA cookbook would have been used. <i>Courtesy of Chua Ai Lin.</i></div>
 	
 “I value my copy \[of the Y.W.C.A. Cookery Book of Malaya\] as a social study of living conditions in Asia, quite apart from its practical kitchen uses.” — julie pritchard[^1]
