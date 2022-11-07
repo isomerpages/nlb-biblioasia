@@ -39,9 +39,8 @@ Cooking for these women was not merely a leisurely or educational pastime; it wa
 
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Cookery%20Books.jpg" style="width: 500%;">
 <div style="background-color: white;">
-	These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.
+	These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.</i></div>
 	
-
 
 The fifth edition of The Y.W.C.A. International Cookery Book of Malaya—fondly known as the “Blue Triangle Cookery Book”[^20] by the Association’s cookery class students—was released in 1948, this time under the editorship of Morag Llewellyn. Armed with a diploma in domestic science from the University of London,[^21] she arrived with her husband, Alun Ewart Llewellyn, in Malaya in 1934. Alun managed collieries in Malaysia until they left Malaya for good in 1966, by which time Morag had overseen the updating and republishing of the cookbook five more times into its ninth edition in 1962.[^22]
 
