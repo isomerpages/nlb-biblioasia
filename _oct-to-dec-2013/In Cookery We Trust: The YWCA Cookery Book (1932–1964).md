@@ -126,7 +126,7 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 [_Young Women’s Christian Association: 1875–1995_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12397109). (1995). Singapore: Young Women’s Christian Association. (Call no.: RSING 267.59597 YOU)
 	
 	
-  #### **NOTES**
+#### **NOTES**
 
 [^1] Pritchardt, J. (1948, July 22). [Vitamins, Mullagtany and Malay dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480722-1.2.80.1). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
@@ -183,10 +183,3 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 [^27] Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
 [^28] [Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681), 1962.
-
-
-
-
-
-
-
