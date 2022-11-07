@@ -74,9 +74,7 @@ Another bilingual conglomerate bookstore that grew from humble beginnings in Sin
 
 #### **Struggling to Stay Afloat (2000–22)**
 
-However, by the 2000s, the Chinese bookstore industry
-
-began its decline as online bookstores entered the scene. The death knell for local Chinese bookstores sounded with the changes in buying and reading preferences brought about by the rise of these digital bookstores and the rapidly shrinking Chinese-reading population, coupled with increasing operating costs. Even as physical bookstores transformed into conglomerates, adopted a bilingual approach, or created niche markets, they were no match for the emerging e-book industry and its digital sales strategies. 
+However, by the 2000s, the Chinese bookstore industry began its decline as online bookstores entered the scene. The death knell for local Chinese bookstores sounded with the changes in buying and reading preferences brought about by the rise of these digital bookstores and the rapidly shrinking Chinese-reading population, coupled with increasing operating costs. Even as physical bookstores transformed into conglomerates, adopted a bilingual approach, or created niche markets, they were no match for the emerging e-book industry and its digital sales strategies. 
 
 The decline was keenly felt in 2011 when numerous bookstores went out of business or closed their stores in Singapore. These included the American book and music retailer Borders, which shuttered both outlets in Singapore, Chinese bookstores Shanghai and Vista Culture Square (远景), and specialty bookstores such as Page One. Popular Holdings, listed on the main board of Singapore Exchange in 1997, was delisted in 2015. It was evident that a strategy of conglomeration, bilingualism and diversification was ineffective in reversing the fortunes of the floundering Chinese bookstore industry.
 
