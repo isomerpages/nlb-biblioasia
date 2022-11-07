@@ -62,12 +62,14 @@ Morag, the five-time editor of the cookbook, had wanted to improve the 1962 edit
 
 As a publication spanning the pre-war and post-war periods of Malaya’s development, the various editions of The Y.W.C.A. International Cookery Book of Malaya mirror the changes in domestic science and the evolution of social norms among the women of Malaya during these tumultuous times. This collection of cookbooks, held in the National Library of Singapore, contain a wealth of information for researchers wanting to learn more about the domestic culinary habits of Malayan households and the lifestyles of women, both local and foreign, between 1932 and 1964. 
 
+<br>
 
-<div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png">
+	div style="background-color: white;">
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" 
+style="width: 100px; height: 100px;">
 <b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
 	
-  #### **REFERENCES**   	
+  #### **REFERENCES**
 	        
 
 [C.G’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
