@@ -10,8 +10,7 @@ image: /images/vol-9-issue-3/In Cookery We Trust/YWCA Cooking Class_1.jpg
 
 
 <img style="width:2000%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/YWCA%20Cooking%20Class_1.jpg">
-<div style="background-color: white;">
-Local ladies at a 1939 YWCA cooking class where the YWCA cookbook would have been used. <i>Courtesy of Chua Ai Lin.</i></div>
+<div style="background-color: white;"> Local ladies at a 1939 YWCA cooking class where the YWCA cookbook would have been used. <i>Courtesy of Chua Ai Lin.</i></div>
 	
 “I value my copy \[of the Y.W.C.A. Cookery Book of Malaya\] as a social study of living conditions in Asia, quite apart from its practical kitchen uses.” — julie pritchard[^1]
 
@@ -61,7 +60,6 @@ Large sections of the book remained unchanged for the next four editions with on
 Morag, the five-time editor of the cookbook, had wanted to improve the 1962 edition with more information on Malayan fruits, include vegetarian recipes from the Buddhist community and rework the glossary of Malay names.[^28] Unfortunately, she never succeeded in publishing the 10th edition as her husband was diagnosed with cancer and the family left for England in 1966.
 
 As a publication spanning the pre-war and post-war periods of Malaya’s development, the various editions of The Y.W.C.A. International Cookery Book of Malaya mirror the changes in domestic science and the evolution of social norms among the women of Malaya during these tumultuous times. This collection of cookbooks, held in the National Library of Singapore, contain a wealth of information for researchers wanting to learn more about the domestic culinary habits of Malayan households and the lifestyles of women, both local and foreign, between 1932 and 1964. 
-
 <br>
 <div style="background-color: white;">
 <br/>
