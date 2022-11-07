@@ -35,6 +35,9 @@ Bookstores such as Shanghai, Chung Hwa, Popular, Youth and Student – which dis
 
 Back then, I used to frequent Union on North Bridge Road. As the bookstore stocked the most comprehensive range of books from Taiwan, it was also referred to as the “Taiwan book specialist”. Most of the reference books recommended by professors of the Nantah College of Arts could be found in Union. On the other hand, students who studied Malay would visit Shanghai Book Company to buy Chinese-Malay dictionaries, Malay language magazines and bilingual books in Chinese and Malay.
 
+![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/UnionBookCompany.jpg)
+<div style="background-color: white;"> Union Book Company on North Bridge Road, 1968. Stationery was sold on the first floor, while books were found on the second floor. <i>Courtesy of Union Book Company.</i></div>
+
 After I was done visiting the bookstores on North Bridge Road, I would walk, or take a bus to South Bridge Road, the heart of the other book street. Spanning Upper Cross Street, Cross Street, South Bridge Road and New Bridge Road, South Bridge Road had the highest concentration of Chinese bookstores before World War II.
 
 In the prewar era, most local Chinese bookstores also sold stationery and sporting goods. About 22 of these stores were of considerable scale. After the war, the nucleus of the book street, formerly centred on South Bridge Road, moved to North Bridge Road. By this time, only two bookstores, The World Book Company (世界) and a branch of Chung Hwa Book Company (中华), remained on South Bridge Road. Pan Shou, the famous Singaporean poet and calligrapher, often did his calligraphy work on the second floor of Chung Hwa on weekends. These public demonstrations of his art drew a great number of calligraphy lovers, who visited the store to ask for his autographed works.
@@ -81,9 +84,6 @@ The decline was keenly felt in 2011 when numerous bookstores went out of busines
 However, some smaller Chinese bookstores known for their customer-centric and unique approaches – such as Union, Xinhua, Maha Yu Yi and Wanchun Book Store  (万春) – managed to survive the competitive climate and are still in business today. Although these bookstores do not carry English titles, they have, somewhat miraculously, retained their share of the Chinese book market. 
 
 Union, which used to specialise in books from Taiwan and Hong Kong, has undergone a transformation under the leadership of Managing Director Margaret Ma. Today, Union sells books from China, Hong Kong, Taiwan, Singapore and Malaysia written in both traditional and simplified Chinese. At the same time, the bookstore works with primary and secondary schools and libraries to promote new books, and also acts as a middleman to purchase books from overseas publishers on behalf of schools and libraries. The bookstore celebrated its 70th anniversary in June 2022 (for more information about Union, check out the article in the Oct–Dec 2022 issue of _BiblioAsia_).
-
-![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/UnionBookCompany.jpg)
-<div style="background-color: white;"> Union Book Company on North Bridge Road, 1968. Stationery was sold on the first floor, while books were found on the second floor. <i>Courtesy of Union Book Company.</i></div>
 
 Grassroots Book Room is another example of a small bookstore that was able to pivot successfully, though not easily. The late Yeng Pway Ngon, who later became an acclaimed writer and Cultural Medallion recipient, founded the bookstore in Textile Centre in 1976 but it closed in 1981. In 1995, Yeng re-established the store on North Bridge Road, but after two decades of struggles, he sold the business in 2014 to former journalist Lim Jen Erh, arts lover Lim Yeong Shin and medical doctor Lim Wooi Tee. The bookstore has since relocated to Bukit Pasoh Road, where it continues to serve book lovers today. 
 
