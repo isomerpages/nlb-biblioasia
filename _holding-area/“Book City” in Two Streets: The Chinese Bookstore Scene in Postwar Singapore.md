@@ -70,7 +70,7 @@ Popular was founded by Chou Sing Chu, who had come from Shanghai and set up The
 
 In 1994, the Chou family merged The World Book Company and its subsidiaries into Popular, making it the first conglomerate bookstore in Singapore. Today, Popular Holdings operates in Hong Kong and various countries in Southeast Asia. With more than 4,000 publications and nearly 40 publishing houses under its belt, Popular offers literary books, periodicals, Malay dictionaries, textbooks, teaching aids and more. These publications are distributed through its network of publishing houses in Singapore, Jakarta and Hong Kong.
 
-Another bilingual conglomerate bookstore that grew from humble beginnings in Singapore to becoming a global player was Page One (秊寧慊). In 1983, the company opened its first store in Parkway Parade, along Marine Parade Road, far away from the City of Books at North Bridge Road. During Page One's early days, the store specialised in design and art publications, making it one of the earliest specialty bookstores in Singapore. At one point, Page One even had bookstores in China, Taiwan, Hong Kong and Thailand.
+Another bilingual conglomerate bookstore that grew from humble beginnings in Singapore to becoming a global player was Page One (叶一堂). In 1983, the company opened its first store in Parkway Parade, along Marine Parade Road, far away from the City of Books at North Bridge Road. During Page One's early days, the store specialised in design and art publications, making it one of the earliest specialty bookstores in Singapore. At one point, Page One even had bookstores in China, Taiwan, Hong Kong and Thailand.
 
 #### **Struggling to Stay Afloat (2000–22)**
 
