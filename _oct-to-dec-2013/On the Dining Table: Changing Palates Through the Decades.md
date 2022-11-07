@@ -112,7 +112,7 @@ When given an option, will the younger members in my family choose a simple dish
 <img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
 <b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library at the National Library Board. Her responsibilities include managing and developing content as well as providing reference and research services related to Singapore and Southeast Asia.</div>
 
-#### **References**     
+#### **REFERENCES**     
 
 Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10763085). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
    
