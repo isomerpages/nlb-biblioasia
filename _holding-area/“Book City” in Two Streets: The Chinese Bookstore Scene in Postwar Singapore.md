@@ -52,11 +52,12 @@ In the 1970s, I was working for the National Library, and visiting bookstores to
 
 The success of the bookstores at Golden Mile attracted even more independent bookstores to commercial buildings in the vicinity of Beach Road, including Textile Centre at Jalan Sultan (home to Grassroots Book Room [草根书室], Sang Yang Book Store [向阳] and Yuan Yuan Book Store [源源]) and Shaw Centre (home to Xinghai Bookstore [星海]and Crystal Book Room [翡翠]). These two centres, together with Golden Mile Complex, formed a bookstore cluster that attracted bibliophiles.
 
-In 1978, the Housing and Development Board built Bras Basah Complex, a mixed-use development housing both commercial and residential units on North Bridge Road to accommodate bookstores and other shops in the downtown area. Bras Basah Complex, also known affectionately as the City of Books in Chinese (蝎냘), officially opened in 1980. 
+In 1978, the Housing and Development Board built Bras Basah Complex, a mixed-use development housing both commercial and residential units on North Bridge Road to accommodate bookstores and other shops in the downtown area. Bras Basah Complex, also known affectionately as the City of Books in Chinese (书城)), officially opened in 1980. 
 
 Besides being home to older and more established English and Chinese bookstores from the North Bridge Road area such as Popular, Shanghai, Union and Youth, Bras Basah Complex also attracted newer bookstores like Xinhua, Books and Arts of All Ages (今古), Seng Yew Book Store (胜友), International Books (国际), Maha Yu Yi (友谊) and Evernew Book Store (永新) to set up shop on its premises. Within a short time, the new complex had replaced Golden Mile as the heart of the Chinese bookstore industry in Singapore. 
 
-The City of Books subsequently drew older bookstores like Commercial Press and independent bookstores such as Grassroots and Great River Book Company (낀붉) to either set up branches or new stores there. As a result, North Bridge Road has, once again, become the centre of the local Chinese bookstore scene, and its position remains unchallenged even to this day.
+The City of Books subsequently drew older bookstores like Commercial Press and independent bookstores such as Grassroots and Great River Book Company (长
+河) to either set up branches or new stores there. As a result, North Bridge Road has, once again, become the centre of the local Chinese bookstore scene, and its position remains unchallenged even to this day.
 
 #### **Conglomerate Bookstores (1980–99)**
 
