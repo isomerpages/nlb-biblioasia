@@ -63,13 +63,12 @@ Morag, the five-time editor of the cookbook, had wanted to improve the 1962 edit
 As a publication spanning the pre-war and post-war periods of Malaya’s development, the various editions of The Y.W.C.A. International Cookery Book of Malaya mirror the changes in domestic science and the evolution of social norms among the women of Malaya during these tumultuous times. This collection of cookbooks, held in the National Library of Singapore, contain a wealth of information for researchers wanting to learn more about the domestic culinary habits of Malayan households and the lifestyles of women, both local and foreign, between 1932 and 1964. 
 
 <br>
-
-	div style="background-color: white;">
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" 
-style="width: 100px; height: 100px;">
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
 <b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
 	
-  #### **REFERENCES**
+#### **REFERENCES**    
 	        
 
 [C.G’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
@@ -127,7 +126,7 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 [_Young Women’s Christian Association: 1875–1995_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12397109). (1995). Singapore: Young Women’s Christian Association. (Call no.: RSING 267.59597 YOU)
 	
 	
-  #### **NOTES**    
+  #### **NOTES**
 
 [^1] Pritchardt, J. (1948, July 22). [Vitamins, Mullagtany and Malay dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480722-1.2.80.1). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
@@ -184,9 +183,10 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 [^27] Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
 [^28] [Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681), 1962.
-	
-	
-	
-	
-	
-	</div>
+
+
+
+
+
+
+
