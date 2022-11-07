@@ -8,7 +8,7 @@ image: /images/vol-9-issue-3/In Cookery We Trust/YWCA Cooking Class_1.jpg
 ---
 #### The Y.W.C.A. Cookery Book of Malaya is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
 
-<img style="width: 800%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/YWCA%20Cooking%20Class_1.jpg">
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/YWCA%20Cooking%20Class_1.jpg" style="width: 800%;">
 <div style="background-color: white;">Local ladies at a 1939 YWCA cooking class where the YWCA cookbook would have been used. <i>Courtesy of Chua Ai Lin.</i></div>
 	
 “I value my copy \[of the Y.W.C.A. Cookery Book of Malaya\] as a social study of living conditions in Asia, quite apart from its practical kitchen uses.” — julie pritchard[^1]
@@ -37,7 +37,7 @@ The editors of the second edition of the cookbook were Ursula Holttum and Gertru
 
 Cooking for these women was not merely a leisurely or educational pastime; it was essential for survival during the Pacific War. In 1941, as meat became scarce, Ursula published a booklet, How to Cook Malayan Vegetables. The book launch was accompanied by several radio talk shows[^18] where she gave instructions on the cooking of local vegetables that many European housewives were unfamiliar with. Her knowledge complemented her husband’s article on the growing of salad vegetables in the 1935 edition of The Y.W.C.A. Cookery Book. Holltum shared Ursula’s conviction that eating right would help reduce the negative effects of a poor diet, especially in those dark times.[^19]
 
-<img style="width: 500%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Cookery%20Books.jpg">
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Cookery%20Books.jpg" style="width: 500%;">
 <div style="background-color: white;">
 	These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.
 	
@@ -62,5 +62,127 @@ As a publication spanning the pre-war and post-war periods of Malaya’s develop
 
 
 <div style="background-color: white;">
-<img src="images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png">
 <b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
+	
+  #### **REFERENCES**   	
+	        
+
+[C.G’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+[Cookery classes for Kuala Lumpur](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360213-1.2.58.26). (1936, February 13). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+[Feminine notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19081125-1.2.90). (1908, November 25). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+
+Glendinning, A. (2000). *Civilian internees of the Japanese in Singapore during WWII*. Asian Pages. Retrieved from Asian Pages website.
+
+Holttum, R.E., &amp; Hinch, T.W. (1935–1937). [_International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418). Malaya: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm nos.: NL16675, NL29320)
+
+Holttum, R.E., &amp; Waite, D.S. (1939). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202742186). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RRARE 641.59595 YWC)
+
+[Women of Far East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281217-1.2.98). (1928, December 17). _The Singapore Free Press and Mercantile Advertiser_, p. 13. Retrieved from NewspaperSG.
+
+[How to cook some Malayan vegetables](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410130-1.2.55). (1941, January 30). _The Singapore Free Press and Mercantile Advertiser_, p. 5. Retrieved from NewspaperSG.
+
+[Learn to be a cook of many dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390824-1.2.152.19). (1939, August 24). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+Llewellyn, A. E. (Ed.). (1948). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RCLOS 641.59595 YWC)
+
+Llewellyn, A. E. (Ed.). (1951). [_The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740). \[S.I.\]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC)
+
+Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
+
+Malayan Volunteers Group. (2019). _Malayan Volunteers._ Retrieved from Malayan Volunteers Group website.
+
+[New Y.W.C.A. book on Malayan dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480707-1.2.53). (1948, July 7). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+Pritchardt, J. (1948, July 22). [Vitamins, Mullagtany and Malay dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480722-1.2.80.1). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+Richard Eric Holttum 1895–1990. (2002). In H.R. Halter, (Ed.), _The school on the hill: Memories of three hundred years of Friends' School, Saffron Walden, 1702–2002_. Essex: Friends’ School. (Not available in NLB holdings) 
+
+Sng, B.E.K. (2003). [_In his good time: The story of the church in Singapore, 1819–2002_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12253210). Singapore: Bible Society of Singapore: Graduates’ Christian Fellowship (Call no.: RSING 280.4095957 SNG)
+
+Tan, J., &amp; Low, J. (Eds.). (2007). [_Sharing from our hearts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13000810). Singapore: Young Women’s Christian Association. (Call no.: RSING 641.595957 SHA)
+
+[The Chinese Girls’ School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18990414-1.2.40). (1899, April 14). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+
+[Town and country in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330701-1.2.101). (1933, July 1). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+
+[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19180307-1.2.29). (1918, March 7). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19260325-1.2.67). (1926, March 25). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+Wong, H.S. (2009). [_Wartime kitchen: Food and eating in Singapore, 1942–1950_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13158872). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 641.30095957 WON)
+
+World Y.W.C.A. (2010–2011). _Our history_. Retrieved from World Y.W.C.A.org website.
+
+[Young Women’s Association](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18980103-1.2.53). (1898, January 3). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+
+Young Women's Christian Association of Singapore. (1969). [_Young Women’s Christian Association: YWCA_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12437434) \[Ephemera\]. Singapore: Young Women’s Christian Association. (RCLOS 0404)
+
+[_Young Women’s Christian Association: 1875–1995_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12397109). (1995). Singapore: Young Women’s Christian Association. (Call no.: RSING 267.59597 YOU)
+	
+	
+  #### **NOTES**    
+
+[^1] Pritchardt, J. (1948, July 22). [Vitamins, Mullagtany and Malay dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480722-1.2.80.1). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+[^2] The school is known today as St Margaret’s School.
+
+[^3] The YWCA of the Straits Settlements and the Federated Malay States initially had its headquarters in Singapore but this seemed to have moved to Kuala Lumpur after the 1920s.&nbsp; [Women of Far East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281217-1.2.98). (1928, December 17). _The Singapore Free Press and Mercantile Advertiser_, p. 13. Retrieved from NewspaperSG.
+
+[^4] Young Women's Christian Association of Singapore. (1969). [_Young Women’s Christian Association: YWCA_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12437434) (p. 17). \[Ephemera\]. Singapore: Young Women’s Christian Association. (RCLOS 0404)
+
+[^5] [Feminine notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19081125-1.2.90). (1908, November 25). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+
+[^6] For example a notice for the fourth cookery class at the YWCCA indicates that classes were for “pastry making from lard, snow pie, pineapple soufflé, potato and tomato savoury, butter-cheese cakes, banana cheese cakes, duchess cakes. [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19180307-1.2.29). (1918, March 7). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+[^7] [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19260325-1.2.67). (1926, March 25). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+[^8] The preface to the 1935 edition of the cookbook notes that “American friends have contributed largely with recipes which they find acceptable and usable in this country”.
+
+[^9] Though how ‘ordinary’ these women were needs to be studied further as many of the Asian women who attended were likely the English-educated Straits Chinese nyonyas from presumably well-to-do families.
+
+[^10] [C.G’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+[^11] The preface. (1935). In R.E. Holttum &amp; T.W. Hinch, [_International cookery book of Malaya_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4396418). Malaya: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm nos.: NL16675, NL29320)
+
+[^12] [Holttum &amp; Hinch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4396418), 1935, the preface.
+
+[^13] [Holttum &amp; Hinch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4396418), 1935, the preface; This was written by J.L. Rosedale, then Professor of Biochemistry, King Edward VII College of Medicine, Singapore.
+
+[^14] [Holttum &amp; Hinch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4396418), 1935, the preface.
+
+[^15] [Holttum &amp; Hinch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4396418), 1935, the preface.
+
+[^16] As almost every recipe credits its author, it is apparent they include the likes of respected expatriates such as Rose T. Handy, Mrs Celeste B. Amstutz, Mrs Eklund, Mrs Zehnder and locals such as Muhammad Raza, Cheka Davies, Mrs Loh Hung Loong and Mrs. C.H. Wang.
+
+[^17] Lucas, E. (1929). _Mrs Lucas’s French cookery book_. London: Christopher’s (Not available in NLB holdings)
+
+[^18] The booklet was published by the Department of Information and Publicity. [Radio talk on how to cook local vegetables](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410403-1.2.62). (1941, April 3). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+
+[^19] Richard Eric Holttum 1895–1990. (2002). In H.R. Halter, (Ed.), _The school on the hill: Memories of three hundred years of Friends' School, Saffron Walden, 1702–2002_. Essex: Friends’ School. (Not available in NLB holdings) 
+
+[^20] The “Blue Triangle” is a reference to the YWCA logo prominent on the cover of each edition of the book.
+
+[^21] [Cookery classes for Kuala Lumpur](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360213-1.2.58.26). (1936, February 13). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+[^22] It is uncertain when the last edition of this publication was printed. The latest copy in the library’s holding is the 1963 edition which was published in 1964.
+
+[^23] Wong, H.S. (2009). [_Wartime kitchen: Food and eating in Singapore, 1942–1950_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872) (pp. 65, 68, 88, 89). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 641.30095957 WON)
+
+[^24] Llewellyn, A. E. (1948). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RCLOS 641.59595 YWC)
+
+[^25] [Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589), 1948.
+
+[^26] Llewellyn, A. E. (1951). [_The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740). \[S.I.\]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC)
+
+[^27] Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
+
+[^28] [Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681), 1962.
+	
+	
+	
+	
+	
+	</div>
