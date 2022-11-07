@@ -6,7 +6,7 @@ description: ""
 #### The Y.W.C.A. Cookery Book of Malaya is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
 
 
-<img style="width:100%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/YWCA%20Cooking%20Class.jpg">
+<img style="width:200%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/YWCA%20Cooking%20Class.jpg">
 Local ladies at a 1939 YWCA cooking class where the YWCA cookbook would have been used. <i>Courtesy of Chua Ai Lin. </i></div>
 
 
