@@ -51,6 +51,8 @@ The fifth edition of The Y.W.C.A. International Cookery Book of Malaya—fondly 
 
 #### **Postwar Food and Cooking**
 
+
+	
 The fifth edition of the cookbook coincided with the postwar period from 1945 onwards. After the Japanese surrender in Singapore, the British returned to a situation plagued by high unemployment, unrest and chronic food shortages. Food rationing during this period led to innovations such as the use of coconut cream as a milk substitute and gula melaka[^23] (palm sugar) in place of refined white sugar to flavour food. As a result, recipes for local cakes and sweets as well as dishes using coconut milk made their way into The Y.W.C.A. Cookery Book during this period.
 
 Recipes of local sweets such as kueh pisang (steamed banana cakes), kueh koya (baked green bean cookies) and spiku (a Malay layered cake) were featured. The book also had a new section entitled “Javanese recipes” with recipes for curries and sambals that incorporated local spices and products from the ever-useful coconut. Interestingly, the section “Vegetarian Cookery” by T. H. Silcock, first written in 1939, was reduced because some ingredients were not available soon after the war.[^24]
