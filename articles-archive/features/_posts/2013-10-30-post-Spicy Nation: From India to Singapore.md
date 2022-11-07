@@ -114,7 +114,7 @@ According to Hindu legend, Lord Krishna transformed into an old sage one day and
 is a Librarian with the National Library of Higgins), was published in LIBRES in 2003.</div>
 
 
-<b>Malarvele Ilangovan</b> is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library provision to the Tamil community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.
+<b>Malarvele Ilangovan</b> is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, <i>“Library provision to the Tamil community in Singapore”</i> (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.</div>
 
 
 
