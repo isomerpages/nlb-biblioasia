@@ -8,8 +8,9 @@ image: /images/vol-9-issue-3/In Cookery We Trust/YWCA Cooking Class_1.jpg
 ---
 #### The Y.W.C.A. Cookery Book of Malaya is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
 
-
-
+<img style="width: 600%;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/YWCA%20Cooking%20Class_1.jpg">
+<div style="background-color: white;">Local ladies at a 1939 YWCA cooking class where the YWCA cookbook would have been used. <i>Courtesy of Chua Ai Lin.</i></div>
+	
 “I value my copy \[of the Y.W.C.A. Cookery Book of Malaya\] as a social study of living conditions in Asia, quite apart from its practical kitchen uses.” — julie pritchard[^1]
 
 First published in 1932, the Y.W.C.A. Cookery Book of Malaya has been updated and republished nine times — the last in 1962. More than an ordinary record of recipes, this influential cookbook is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
@@ -57,8 +58,3 @@ As a publication spanning the pre-war and post-war periods of Malaya’s develop
 <div style="background-color: white;">
 <img src="images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
-
-
-
-
-
