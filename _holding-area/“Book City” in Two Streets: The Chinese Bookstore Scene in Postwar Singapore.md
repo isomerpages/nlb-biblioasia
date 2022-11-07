@@ -92,7 +92,7 @@ Grassroots Book Room is another example of a small bookstore that was able to pi
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/Grassroots2.jpg)
 <div style="background-color: white;"> Grassroots Book Room at 25 Bukit Pasoh Road. The bookstore was formerly located in North Bridge Centre. <i>Photo by Jimmy Yap.</i></div>
 
-Tan Waln Ching, a former employee of Grassroots, founded City Book Room (냘懇蝎렌) as a home publishing business in 2014. Two years later, it moved to North Bridge Centre, a few units away from Grassroots’s original location. In June 2022, City Book Room relocated once more, this time to Joo Chiat Road in the east. 
+Tan Waln Ching, a former employee of Grassroots, founded City Book Room (城市书坊) as a home publishing business in 2014. Two years later, it moved to North Bridge Centre, a few units away from Grassroots’s original location. In June 2022, City Book Room relocated once more, this time to Joo Chiat Road in the east. 
 
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookDiscussion.jpg)
 <div style="background-color: white;"> A book discussion on 합莖솰 (Imperial Astronomer) by Hong Kong’s veteran author Xi Xi, held at City Book Room on Joo Chiat Road, 2022. <i>Courtesy of City Book Room.</i></div>
