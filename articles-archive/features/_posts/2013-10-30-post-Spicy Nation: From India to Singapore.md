@@ -112,6 +112,8 @@ According to Hindu legend, Lord Krishna transformed into an old sage one day and
 <br>
 <b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of <i>Roots: Tracing Family Histories — A Resource Guide</i>; <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010).
 
+<div>
+<b>Ho Chi Tim</b> was a Lee Kong Chian Research Fellow at the National Library in 2012. He graduated with a BA and MA from the Department of History, National University of Singapore. He is presently a Ph.D candidate with the Department of History, University of Hawai’i at Mānoa. His dissertation examines the historical development of social welfare in colonial Singapore.</div>
 
 <b>Malarvele Ilangovan</b> is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library provision to the Tamil community in Singapore” (co-authored with Dr Susan 
 is a Librarian with the National Library of Higgins), was published in LIBRES in 2003.</div>
