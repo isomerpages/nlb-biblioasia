@@ -167,10 +167,3 @@ Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.n
 [^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*. Retrieved from New Yorker.com website.
 
 [^11]:EN- Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. _Diaspora: A Journal of Transnational Studies, 1_ (1), 83–89.
-		
-	
-	
-	
-	
-	
-	
