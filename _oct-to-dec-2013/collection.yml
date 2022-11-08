@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2013:
     output: true
     order:
+      - Singapore Comics Showcase.md
       - "In Cookery We Trust: The YWCA Cookery Book (1932–1964).md"
       - "Hawkers: From Public Nuisance to National Icons.md"
       - Communal Feeding in Postwar Singapore.md
