@@ -110,5 +110,5 @@ Even though Chinese readership in Singapore is declining and the golden age of 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/LeeChingSeng.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%204/Authors/LeeChingSeng2.png" style="width: 100px; height: 100px;"/>
 	<b>Lee Ching Seng</b> is former head of the Chinese Library at the National University of Singapore. As a subject specialist in Singapore and Southeast Asian collections and resources, he has written bibliographies on Singapore Chinese literature, and articles on library collections and the overseas Chinese in Singapore and Southeast Asia.</div>
