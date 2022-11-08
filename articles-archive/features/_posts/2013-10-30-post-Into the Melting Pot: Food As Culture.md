@@ -145,7 +145,7 @@ Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.n
 
 	
 	
-#### **NOTES
+#### **NOTES**     
 	
 	
 [^1]:Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. *Annual review of Anthropology, 31*, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
