@@ -24,7 +24,7 @@ Fortune or luck is a great arbiter in Chinese culture and the Chinese are unabas
 
 One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
 
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>Chef Sin Leong casting a watchful eye over proceedings in his kitchen. <i> Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>Chef Sin Leong casting a watchful eye over proceedings in his kitchen. <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 
 
 The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.[^1] The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
@@ -41,7 +41,7 @@ Before the meal commenced, Chef Sin insisted that the guests visit the altar he 
 
 <img style="width:50%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg">
 <div style="background-color: white;">The altar of Master Luo. (2013). <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
-
+	
 	
 Under the tutelage of Master Luo, the four young junior chefs toiled in the kitchen under his stern eye and exacting standards at the famed Cathay Restaurant (at the old Cathay Building). Opened in 1940, it initially served European fare, but underwent a revamp in 1951 under Master Luo to become the finest Chinese restaurant in Singapore, specialising in Cantonese cuisine. The Cathay Restaurant closed in December 1964 and reopened under a new management at the renovated Cathay Building in 2007.
 
@@ -112,6 +112,8 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
 
+
+	
 	
 #### **REFERENCES**
 
@@ -138,6 +140,8 @@ Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the trans
 
 Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
+	
+	
 #### **NOTES**
 	
 	
