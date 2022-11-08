@@ -106,12 +106,13 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 	<i>Yu sheng</i> has become a Lunar New Year staple and it has become so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period - not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> have been replaced with salmon, lobster and abalone.
 </span>
 
-<div>
-	
-<b>Amanda lee Koe<b> is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*. </div>
+
+<div>	
+<b>Amanda lee Koe</b> is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*. 
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
 
+	
 #### **REFERENCES**
 
 Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
