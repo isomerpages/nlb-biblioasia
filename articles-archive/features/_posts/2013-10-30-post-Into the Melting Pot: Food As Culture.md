@@ -24,7 +24,7 @@ Fortune or luck is a great arbiter in Chinese culture and the Chinese are unabas
 
 One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
 
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>Chef Sin Leong casting a watchful eye over proceedings in his kitchen. <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>Chef Sin Leong casting a watchful eye over proceedings in his kitchen.  <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 
 
 The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.[^1] The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
@@ -120,6 +120,7 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 	
 Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
+
 Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
 
 Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
@@ -165,5 +166,11 @@ Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.n
 
 [^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*. Retrieved from New Yorker.com website.
 
-[^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. *Diaspora: A Journal of Transnation
-al Studies, 1* (1), 83–99. Retrieved from UTP Journals website.
+[^11]:EN- Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. _Diaspora: A Journal of Transnational Studies, 1_ (1), 83–89.
+		
+	
+	
+	
+	
+	
+	
