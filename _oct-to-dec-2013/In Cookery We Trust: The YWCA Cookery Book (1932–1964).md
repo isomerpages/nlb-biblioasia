@@ -41,7 +41,7 @@ Cooking for these women was not merely a leisurely or educational pastime; it wa
 
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Cookery%20Books.jpg" style="width: 500%;">
 <div style="background-color: white;">
-These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.</i>
+These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.</i></div>
 	
 
 
@@ -182,6 +182,22 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 
 [^27]:Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
-[^28]:[Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681),
+[^28]:[Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681), 1962.
 
-1962.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
