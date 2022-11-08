@@ -75,9 +75,8 @@ The periodic tussles between Singapore and Malaysia over the origins of their �
 
 Beyond specific nationalist and ethnic anxieties, perhaps another primary distinction to make of the *yu sheng-lo hei* conundrum is one of etymology versus semiotics: Is the tussle over *yu sheng* — the dish of raw fish salad and its constituents, variations of which had long been in existence in China’s Canton province, or is it over *lo hei* — the performatory ritual of tossing slivers of raw fish and its accompaniments in a communal social setting? Where does one end and the other begin?
 
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg"><br>
-<img style="width:50%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
+
+<img style="width:80%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
 <div style="background-color: white;"> The wise words of Chef Sin Leong. <i>Images courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 
 #### The gastronomic memory of diaspora 
@@ -107,7 +106,7 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 	<i>Yu sheng</i> has become a Lunar New Year staple and it has become so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period - not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> have been replaced with salmon, lobster and abalone.
 </span>
 
-**Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
+**Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*. </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
 
