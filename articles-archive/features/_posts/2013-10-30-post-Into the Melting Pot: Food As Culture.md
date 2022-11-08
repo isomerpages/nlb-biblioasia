@@ -114,7 +114,7 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 
 	
 	
-#### **REFERENCES
+####**REFERENCES
 
 	
 Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
