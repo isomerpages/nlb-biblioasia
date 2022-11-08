@@ -1,6 +1,6 @@
 ---
 title: "Into the Melting Pot: Food As Culture"
-permalink: /vol-9/issue-3/oct-dec-2013/into-the-melting-pot
+permalink: /vol-9/issue-3/oct-dec-2013/into-the-melting-pot/
 date: 2013-10-30
 layout: post
 description: ""
@@ -24,6 +24,9 @@ Fortune or luck is a great arbiter in Chinese culture and the Chinese are unabas
 
 One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
 
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>Chef Sin Leong casting a watchful eye over proceedings in his kitchen.
+
+
 The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.[^1] The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
 
 #### **Food As a Form of Culture** 
@@ -35,6 +38,9 @@ To this end, restaurateur, chef and F&B consultant, David Yip, hopes to reinvigo
 One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of Red Star restaurant in Chin Swee Road and owner of the now defunct Sin Leong Restaurant, a local institution in Cantonese cuisine that first opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
 
 Before the meal commenced, Chef Sin insisted that the guests visit the altar he keeps in his kitchen, where his mentor, the late Master Luo Cheng, smiles out of an ornate frame, amid offerings of orchid blooms and clouds of incense. Hailing from Shanghai, China, Master Luo groomed Singapore's four most prominent Chinese chefs in the 1970s. His protégés, Sin Leong, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui, were later crowned as Singapore's "Four Heavenly Culinary Kings".
+
+<img style="width:80%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
+<div style="background-color: white;">The altar of Master Luo. (2013).
 
 Under the tutelage of Master Luo, the four young junior chefs toiled in the kitchen under his stern eye and exacting standards at the famed Cathay Restaurant (at the old Cathay Building). Opened in 1940, it initially served European fare, but underwent a revamp in 1951 under Master Luo to become the finest Chinese restaurant in Singapore, specialising in Cantonese cuisine. The Cathay Restaurant closed in December 1964 and reopened under a new management at the renovated Cathay Building in 2007.
 
