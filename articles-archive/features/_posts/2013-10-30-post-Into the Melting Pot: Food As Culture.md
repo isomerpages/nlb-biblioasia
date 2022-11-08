@@ -119,10 +119,13 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 #### **REFERENCES**    
 
 
+   
+
+Holtzman, J.D. (2006). Food and memory. _Annual Review of Anthropology, 35_, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+
+
 	
-Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-
-
 Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
 
 Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
@@ -169,10 +172,3 @@ Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.n
 [^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*. Retrieved from New Yorker.com website.
 
 [^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. _Diaspora: A Journal of Transnational Studies, 1_ (1), 83–89.
-
-
-
-
-
-
-
