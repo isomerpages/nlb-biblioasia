@@ -85,11 +85,3 @@ reation in Singapore and will hopefully inspire more people to create their own 
 
 <div>
 <b>Lim Cheng Tju</b> is an educator who also writes about history and popular culture. His articles have appeared in the Southeast Asian Journal of Social Science, Journal of Popular Culture and Print Quarterly. He is the country editor (Singapore) for the International Journal of Comic Art and also the co-editor of Liquid City 2, an anthology of Southeast Asian comics published by Image Comics.</div>
-
-
-
-
-
-
-
-
