@@ -23,9 +23,19 @@ The 24 Hour Comics Day started in the United States in 2004 to encourage aspirin
 
 The 24 Hour Comics Day Showcase in 2013 featured a total of 15 works, many of which were centered on the theme of pursuing one’s dreams. In *Changing Stories*, Christal Kuna recounts a wordless but poignant coming-of-age story about life choices and a father’s love and guidance. Max Loh’s work *The Road Not Taken* references Robert Frost’s inspirational poem of the same name, recounting the personal story of his decision to study the sciences and how, as an adult now, he is drawing comics in his free time. Jerry Teo adapted Aesop’s didactic fable about the *dog and wolf* and questions whether it is better to live comfortably and be subjected to a human master, or to live freely and be the master of one’s own destiny. *Dog and Wolf* was voted by participating artists as the best story created at the 2012 event.
 
+
+<img style="width: 50%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/christal%20Kuna_poster.jpg">
+<div style="background-color: white;">A panel from Christal Kuna's submission, <i>Changing Stories.</i> <i>All rights reserved, Christal Kuna, 2012.</i></div>
+	
 Participants also used the opportunity to create comics that express their opinions about social issues. For instance Japanese art director Emiko Iwasaki’s anger is palpable in her story, *Wish*, which documents the discrimination and sexual harassment faced by women in Japan.
 
+	
 *Wish* is one of many autobiographical comics created at the Comics Day event. This genre is a recurrent one among many artists in America and has its Southeast Asian counterparts among Indonesian artists such as Tita Larasati and Sheila Rooswitha. Local artists who have adopted this genre include Koh Hong Teng and Troy Chin. Following in a similar autobiographical vein, albeit in a more lighthearted style, is Hanse Kew’s *Bundle of Joy*, a simple story about his journey to fatherhood.
+
+
+<img style="width: 50%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Social%20butterfly.jpg">
+<div style="background-color: white;">“The social butterfly”, <i>Nanyang Siang Pau</i></div>, 1/4/1950.
+	
 
 Other past works include humour strips, such as Clio Ding’s *Kevin and Magical Nonsense* (2011), and adventure stories such as Benjamin Chee’s *Gate of Joy* (2012), which are influenced by the Japanese manga and anime styles of cartoons. Many of the artists are still developing and finding their own voices and it is encouraging to see these talents bravely exploring their creativity in public.
 
@@ -56,13 +66,27 @@ Cartoons of the 1970s marked a return to the anti-yellow culture movement. This 
 
 However, not all cartoonists promoted the State’s agenda: four *Nanyang Siang Pau* senior executives were arrested under the Internal Security Act in 1971 for allegedly playing up Chinese chauvinism and glorifying Chinese communism in the newspaper. In 1974, to prevent such incidents from recurring, the Newspaper and Printing Presses Act was enacted to regulate the management and operation of all newspapers in Singapore.
 
+![](/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Quiting%20work.jpg)
+
+<img style="width: 50%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Quiting%20work.jpg">
+<div style="background-color: white;">“Tell Daddy I'm quitting work!”, Ong Sher Shin, <i>Nanyang Siang Pau,</i></div>6/2/1972.
+
+
 By the 1980s, Singapore was more confident of its position on the world stage and its own future. A new generation of cartoonists appeared on the scene, such as Lee Kok Hean (Li Tai Li) and Heng Kim Song. The former was one of the original members of Man Hua Bao, a group of young cartoonists who contributed to the *Sin Chew* youth supplement, *Sin Chew* Youth. In the early 1980s, they were an active group, creating cartoons about local life. When they disbanded in 1986, they were replaced by Man Hua Kuai Can, another student group that drew cartoons for the Sunday edition of *Lianhe Zaobao*.
 
 Readers today would be more familiar with the hot-button issues that beleaguered Singapore from the 1980s onwards —falling birthrates, Chinese language issues, various financial crises, immigration controversies, the threat of SARS and avian flu, as well as daily bugbears such as the rising cost of living. As they did in the past, the cartoons mirrored the local headlines of the day.
 
 So what has changed in the art of cartooning, particularly in Singapore newspapers, after 90 years? In its early years, most people were illiterate and cartoons served as a powerful vehicle to convey visual ideas, employing images and simple text to carry their messages. Today, cartoons have become more sophisticated, using verbal innuendo and double entendres because the increasingly educated populace can understand these textual sleights of hand. There are also more textual and visual references to mass media as well as pop culture on platforms such as television, radio, the internet, and increasingly, social media. But it is precisely because of this competition that cartoons as a genre have become less effective as a means of communication. This is perhaps one of the key reasons why the artists who take part in 24 Hour Comics Day feel less inclined to tackle social issues of the day, preferring instead to deal with personal introspection.
 
-Both exhibitions present a past and present view of the state of cartooning/ comics creation in Singapore and will hopefully inspire more people to create their own works.
+Both exhibitions present a past and present 
+view of the state of cartooning comics
+reation in Singapore and will hopefully inspire more people to create their own works.
+
+
+<div>
+<b>Lim Cheng Tju</b> is an educator who also writes about history and popular culture. His articles have appeared in the Southeast Asian Journal of Social Science, Journal of Popular Culture and Print Quarterly. He is the country editor (Singapore) for the International Journal of Comic Art and also the co-editor of Liquid City 2, an anthology of Southeast Asian comics published by Image Comics.</div>
+
+
 
 
 
