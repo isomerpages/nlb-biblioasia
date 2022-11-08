@@ -68,7 +68,8 @@ However, not all cartoonists promoted the State’s agenda: four *Nanyang Siang 
 
 
 <img style="width: 80%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Quiting%20work.jpg">
-<div style="background-color: white;">“Tell Daddy I'm quitting work!”, Ong Sher Shin, <i>Nanyang Siang Pau</i></div>, 6/2/1972.
+<div style="background-color: white;"
+>“Tell Daddy I'm quitting work!”, Ong Sher Shin, <i>Nanyang Siang Pau</i></div>,6/2/1972.
 
 By the 1980s, Singapore was more confident of its position on the world stage and its own future. A new generation of cartoonists appeared on the scene, such as Lee Kok Hean (Li Tai Li) and Heng Kim Song. The former was one of the original members of Man Hua Bao, a group of young cartoonists who contributed to the Sin Chew youth supplement, Sin Chew Youth. In the early 1980s, they were an active group, creating cartoons about local life. When they disbanded in 1986, they were replaced by Man Hua Kuai Can, another student group that drew cartoons for the Sunday edition of *Lianhe Zaobao*.
 
