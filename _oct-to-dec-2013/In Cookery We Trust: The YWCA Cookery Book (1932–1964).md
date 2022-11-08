@@ -41,7 +41,7 @@ Cooking for these women was not merely a leisurely or educational pastime; it wa
 
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Cookery%20Books.jpg" style="width: 500%;">
 <div style="background-color: white;">
-These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.</i></div>
+These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.</i>
 	
 
 
