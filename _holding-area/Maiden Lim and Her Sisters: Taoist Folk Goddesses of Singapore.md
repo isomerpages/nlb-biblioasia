@@ -33,6 +33,9 @@ Here, worshippers also bow before Lin Guniang. Her statue is swaddled in a glitt
 
 Some controversy surrounds her origins. The temple’s caretaker, 74-year-old Huang Yahong (黄亚宏), is happy to share what he knows of her legend, but cautions that certain details may only be shared orally, not in writing.[^8] It feels safe, nevertheless, to reveal that his account corresponds closely with one printed in the *Straits Times* in 1989. 
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image3.png)
+<div style="background-color: white;"> Caretaker Huang Yahong (黄亚宏) of Zhen Long Gong. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 She “lived around the turn of the century [c. 1900] and was married to a sailor who was frequently at sea. A neighbour by the surname of Tan tried to seduce her, but she spurned him. Furious, he framed her for infidelity. She committed suicide to prove her chastity and her spirit kept returning to help needy neighbours. Soon a shrine was erected for her in the Henderson Road area. As the story goes, she helps anybody except those with the surname of Tan”.[^9]
 
 The caretaker also reveals the fate of Tan, the neighbour whose gossip caused her death. Supposedly, he went mad and killed himself by driving a nail into his own head.
