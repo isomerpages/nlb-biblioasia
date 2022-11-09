@@ -85,6 +85,9 @@ Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden 
 
 The details of Huang Guniang’s legend are unusually precise. On his website, the Taoist priest Jave Wu states that she was born in 1866, on the 12th day of the sixth lunar month, in the village of Gu Ah Sua (龟仔山), later known as Kampong Silat. Her name was Huang Su Ying (黃素英, pronounced Ng Shor Eng in Hokkien and Wong Sok Eng in Cantonese). As her family was poor, she worked with her mother as a laundress from a young age.[^19]
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image7.png)
+<div style="background-color: white;"> Huang Guniang’s former tablet (left) and shrine (right) erected beneath a tree in the compound of the Singapore General Hospital. The shrine was cleared in 2017. <i>Courtesy of Victor Yue.</i></div>
+
 In 1879, Huang Guniang began doing laundry with her paternal aunt at the Kandang Kerbau Hospital. In 1882, they moved to SGH, which had just shifted to its current location on Outram Road. One day, a doctor suggested that she train to be a nurse. She qualified in 1900 and began caring for patients and assisting in the pharmacy.[^20]
 
 Sadly, death came for her the very next year, just before the Qingming Festival. A fire broke out one night at a kampong near her home. “Maiden Ng did not hesitate to volunteer herself at the fire site to assist the injured,” Wu says. “With a dash, she ran to the fire site… trying her best to save as many villagers as possible.” However, while attempting to rescue an old lady, the house she was in collapsed. Her body was never recovered.[^21]
