@@ -102,7 +102,8 @@ Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to
 
 Alas, all this good work could not save Huang Guniang’s altar. In 2017, because of SGH’s plans for redevelopment and expansion, her shrine was cleared from its original site.[^25] According to Victor Yue, creator of the “Story of Ng Kor Niu 黄姑娘” Facebook group, the contractor engaged a Taoist priest to administer the shift.[^26] A huge paper mansion was also burnt for her as part of a ceremony to invite her to Wat Ananda Metyarama. 
 
-Worshippers continue to pray to the goddess at the columbarium. A small sign reading “This Way to Maiden Huang” has been posted by the front door, directing them to her tablet: a newer, more ornate piece than the one that formerly occupied her demolished shrine. 
+Worshippers continue to pray to the goddess at the columbarium. A small sign reading “This Way to Maiden Huang” has been posted by the front door, directing them to her tablet: a newer, more ornate piece than the one that formerly occupied her demolished shrine. ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image8.png)
+<div style="background-color: white;"> The ceremony inviting Huang Guniang to Wat Ananda Metyarama, 2022. <i>Courtesy of Raymond Goh.</i></div>
 
 Some may grumble that SGH should have found her a home on their premises where she could continue to offer comfort to those in need of hope and healing. Yet there have been no whispers of vengeance in the five years following her move. Huang Guniang, it seems, is content.
 
