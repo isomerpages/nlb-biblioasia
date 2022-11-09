@@ -23,7 +23,8 @@ Spices are also believed to have medicinal properties. India’s ancient Ayurved
 
 Apart from using spices individually, masala, basically a mix of spices, is used to add flavour even to the simplest of dishes.[^4] *Masala* comes in various combinations, from dry mixtures to wet pastes, from the more common North Indian *garam masala* — typically a mix of peppercorns, cumin, clove, cinnamon and cardamom pods — to a fiery South Indian coconut-based *masala*. These *masala* concoctions can range in taste from mild to searingly hot.
 
-#### North Indian Delights
+#### **North Indian Delights**
+
 
 Although influenced by different religions and traditions, as well as varying regional climates, India’s culinary delights can generally be categorised into northern and southern cuisines.
 
