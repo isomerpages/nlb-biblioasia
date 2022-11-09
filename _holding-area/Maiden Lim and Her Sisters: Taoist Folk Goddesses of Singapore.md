@@ -78,6 +78,9 @@ What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘
 
 A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jalan Bukit Merah, the oldest Thai Buddhist temple in Singapore. Saffron-robed monks staff perform chores amid common iconography in Theravada Buddhist temples: four-faced Brahma, the eclipse-causing deity Rahu, even a vibrant mural of the wheel of samsara in which appear the distinctive towers of Marina Bay Sands. Ignore these for now and enter the Julamanee Prasat: the small columbarium at the base of the temple’s three-storey belltower.
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image6.png)
+<div style="background-color: white;"> Wat Ananda Metyarama along Jalan Bukit Merah. Its columbarium houses the tablet of Huang Guniang. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden Huang, Maiden Ng and Ng Kor Niu. Her name is written in gold on red, couched on a stylised lotus and framed by flowering vines. In a glass cabinet, she sits on the topmost shelf, above 28 tablets of other deceased souls, while the ash-filled urns of other mortals occupy the walls of the neighbouring rooms.
 
 The details of Huang Guniang’s legend are unusually precise. On his website, the Taoist priest Jave Wu states that she was born in 1866, on the 12th day of the sixth lunar month, in the village of Gu Ah Sua (龟仔山), later known as Kampong Silat. Her name was Huang Su Ying (黃素英, pronounced Ng Shor Eng in Hokkien and Wong Sok Eng in Cantonese). As her family was poor, she worked with her mother as a laundress from a young age.[^19]
