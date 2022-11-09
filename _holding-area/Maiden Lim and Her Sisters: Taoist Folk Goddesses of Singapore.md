@@ -105,8 +105,8 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 <div style="background-color: white;"> 
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Benjamin%20J%20Q%20Khoo.png" style="width: 100px; height: 100px;"/>
-	<b>Benjamin J.Q. Khoo</b> is a Research Officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. Studying the histories of the early modern world, his research focuses on networks of knowledge and diplomatic encounters in Asia.</div>
+	<b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and researcher. His books include the debut poetry collections last boy, A Book of Hims and Loud Poems for a Very Obliging Audience, and the short story collection Lion City, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.</div>
 
 #### **NOTES**
 
-[^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
+[^1]: Singapore’s Lin Guniang must not be confused with the goddess Lin Guniang (or Lim Ko Niao) worshipped in southern Thailand. The two are distinct and unrelated deities, and the term “guniang” simply means girl or young woman in Mandarin. For more information, see Mistuko Tamaki, “The Prevalence of the Worship of Goddess Lin Guniang by the Ethnic Chinese in Southern Thailand” (G-SEC Working Paper 22, Keio University Global Research Institute (KGRI), December 2007), https://www.kgri.keio.ac.jp/en/docs/GWP_22.pdf.
