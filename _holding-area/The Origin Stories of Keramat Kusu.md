@@ -89,7 +89,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 #### **NOTES**
 
-[^1]: Kok Yufeng, “Loud Explosion Heard as Fire Breaks Out Near Malay Shrines on Kusu Island Hilltop,” Straits Times, 18 April 2022, https://www.straitstimes.com/singapore/loud-explosion-heard-as-fire-breaks-out-near-malay-shrines-on-kusu-island-hilltop; Ng Wei Kai, “Firefighters Had to Scale 152 Steps and Link 18 Lengths of Hoses to Fight Kusu Island Fire,” Straits Times, 3 May 2022, https://www.straitstimes.com/singapore/firefighters-had-to-scale-152-steps-and-link-18-lengths-of-hoses-to-fight-kusu-island-fire.
+[^1]: Kok Yufeng, “Loud Explosion Heard as Fire Breaks Out Near Malay Shrines on Kusu Island Hilltop,” Straits Times, 18 April 2022, https://www.straitstimes.com/singapore/loud-explosion-heard-as-fire-breaks-out-near-malay-shrines-on-kusu-island-hilltop; Ng Wei Kai, “Firefighters Had to Scale 152 Steps and Link 18 Lengths of Hoses to Fight Kusu Island Fire,” *Straits Times*, 3 May 2022, https://www.straitstimes.com/singapore/firefighters-had-to-scale-152-steps-and-link-18-lengths-of-hoses-to-fight-kusu-island-fire.
 
 [^2]: “Variorum,” Singapore Daily Times, 30 June 1877, 2. (From NewspaperSG)
 
