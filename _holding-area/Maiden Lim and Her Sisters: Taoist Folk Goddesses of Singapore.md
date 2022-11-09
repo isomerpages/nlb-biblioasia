@@ -155,7 +155,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^23]: Wu, “Introduction on Nanyang Huang Gu Niang.”
 
-[^24]: Melody Zaccheus, “Old Graves, Shrine to Make Way for SGH Redevelopment,” Straits Times, 6 September 2017, https://www.straitstimes.com/singapore/environment/old-graves-shrine-to-make-way-for-sgh-redevelopment.
+[^24]: Melody Zaccheus, “Old Graves, Shrine to Make Way for SGH Redevelopment,” *Straits Times*, 6 September 2017, https://www.straitstimes.com/singapore/environment/old-graves-shrine-to-make-way-for-sgh-redevelopment.
 
 [^25]: Victor Yue, Facebook direct message, 30 July 2022.
 
