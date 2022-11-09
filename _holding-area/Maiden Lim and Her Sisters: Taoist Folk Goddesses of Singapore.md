@@ -18,7 +18,7 @@ The goddess was well-known in the neighbourhood. Residents referred to the lower
 
 This is a shame. Lin Guniang – also known as Hongshan Lin Guniang (红山林姑娘), or Maiden Lim of Redhill – is an example of a uniquely Singaporean Taoist folk goddess. Her legends and ritual traditions began not in China, Hong Kong or Taiwan, but on this very island.
 
-The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for BiblioAsia.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods & Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
+The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for *BiblioAsia*.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods & Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
 
 In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.[^6]
 
@@ -28,13 +28,13 @@ Hidden in the neighbourhood of Bukit Merah, between Gan Eng Seng Primary School 
 
 Here, worshippers also bow before Lin Guniang. Her statue is swaddled in a glittering multicoloured cape, fastened around her throat with a red ribbon. Beneath the fabric, she is garlanded with beads. Ritual offerings lie on her altar: boxed cosmetics, lipsticks and perfumes. Paper lanterns hang outside the temple doors, marked with her name. Each year, on the 15th day of the seventh lunar month, a small festival is held in her honour. 
 
-Some controversy surrounds her origins. The temple’s caretaker, 74-year-old Huang Yahong (黄亚宏), is happy to share what he knows of her legend, but cautions that certain details may only be shared orally, not in writing.[^8] It feels safe, nevertheless, to reveal that his account corresponds closely with one printed in the Straits Times in 1989. 
+Some controversy surrounds her origins. The temple’s caretaker, 74-year-old Huang Yahong (黄亚宏), is happy to share what he knows of her legend, but cautions that certain details may only be shared orally, not in writing.[^8] It feels safe, nevertheless, to reveal that his account corresponds closely with one printed in the *Straits Times* in 1989. 
 
 She “lived around the turn of the century [c. 1900] and was married to a sailor who was frequently at sea. A neighbour by the surname of Tan tried to seduce her, but she spurned him. Furious, he framed her for infidelity. She committed suicide to prove her chastity and her spirit kept returning to help needy neighbours. Soon a shrine was erected for her in the Henderson Road area. As the story goes, she helps anybody except those with the surname of Tan”.[^9]
 
 The caretaker also reveals the fate of Tan, the neighbour whose gossip caused her death. Supposedly, he went mad and killed himself by driving a nail into his own head.
 
-The most widespread version of the goddess’s tale, however, comes from television. In 1998, the Singapore Broadcasting Corporation (now Mediacorp) produced and aired the series Myths and Legends of Singapore (石叻坡传说), with the first episode titled “Lady of the Hill” (红山林姑娘), starring Fann Wong as Lin Guniang. It is this adaptation that currently serves as the primary reference for the goddess in online resources, such as Ronni Pinsler’s entry on his website, “The Book of Xianshen”,[^10] and Jave Wu’s blog, “International LSM Taoist Cultural Collegium”.[^11]
+The most widespread version of the goddess’s tale, however, comes from television. In 1998, the Singapore Broadcasting Corporation (now Mediacorp) produced and aired the series *Myths and Legends of Singapore* (石叻坡传说), with the first episode titled “Lady of the Hill” (红山林姑娘), starring Fann Wong as Lin Guniang. It is this adaptation that currently serves as the primary reference for the goddess in online resources, such as Ronni Pinsler’s entry on his website, “The Book of Xianshen”,[^10] and Jave Wu’s blog, “International LSM Taoist Cultural Collegium”.[^11]
 
 In this retelling, Lin Guniang is depicted as living in the early to mid-19th century, dressed in a changshan (长衫). She is a practitioner of traditional Chinese medicine, while her jealously possessive husband, Ah Guang, is a hunter. When he accuses her of adultery, she jumps into a well, which then overflows with blood. After her death, her village is struck by a plague, but she returns as a spirit to aid the afflicted.
 
