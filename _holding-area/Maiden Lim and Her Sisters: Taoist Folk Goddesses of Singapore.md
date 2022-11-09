@@ -34,7 +34,7 @@ She “lived around the turn of the century [c. 1900] and was married to a sailo
 
 The caretaker also reveals the fate of Tan, the neighbour whose gossip caused her death. Supposedly, he went mad and killed himself by driving a nail into his own head.
 
-The most widespread version of the goddess’s tale, however, comes from television. In 1998, the Singapore Broadcasting Corporation (now Mediacorp) produced and aired the series Myths and Legends of Singapore (石叻坡传说), with the first episode titled “Lady of the Hill” (红山林姑娘), starring Fann Wong as Lin Guniang. It is this adaptation that currently serves as the primary reference for the goddess in online resources, such as Ronni Pinsler’s entry on his website, “The Book of Xianshen”,[^10] and Jave Wu’s blog, “International LSM Taoist Cultural Collegium”.
+The most widespread version of the goddess’s tale, however, comes from television. In 1998, the Singapore Broadcasting Corporation (now Mediacorp) produced and aired the series Myths and Legends of Singapore (石叻坡传说), with the first episode titled “Lady of the Hill” (红山林姑娘), starring Fann Wong as Lin Guniang. It is this adaptation that currently serves as the primary reference for the goddess in online resources, such as Ronni Pinsler’s entry on his website, “The Book of Xianshen”,[^10] and Jave Wu’s blog, “International LSM Taoist Cultural Collegium”.[^11]
 
 In this retelling, Lin Guniang is depicted as living in the early to mid-19th century, dressed in a changshan (长衫). She is a practitioner of traditional Chinese medicine, while her jealously possessive husband, Ah Guang, is a hunter. When he accuses her of adultery, she jumps into a well, which then overflows with blood. After her death, her village is struck by a plague, but she returns as a spirit to aid the afflicted.
 
@@ -42,7 +42,7 @@ The writers of “Lady of the Hill” draw an explicit parallel between their ta
 
 Huang the caretaker rejects this account. He reminds us that Lin Guniang’s shrine had its origins in Kampong Henderson, near Tiong Bahru, and not Bukit Merah. Any association between the shedding of her blood and the crimson earth would only have been invented after her shrine’s relocation.  
 
-He adds that her death could not have taken place more than a hundred years ago, as he is acquainted with a neighbourhood resident who was a little girl when the tragedy took place. Nor is the goddess particularly renowned for her healing powers. She bestows more general blessings upon her followers, though they were often known to ask her for luck in gambling, specifically in the popular lottery game of chap ji kee.
+He adds that her death could not have taken place more than a hundred years ago, as he is acquainted with a neighbourhood resident who was a little girl when the tragedy took place. Nor is the goddess particularly renowned for her healing powers.[^12] She bestows more general blessings upon her followers, though they were often known to ask her for luck in gambling, specifically in the popular lottery game of chap ji kee.
 
 But there is another, more recent story connected with the goddess, one that suggests my father had good reason to fear her power. This took place in the 1970s, shortly after Lin Guniang’s shrine on Henderson Road was cleared for redevelopment.
 
