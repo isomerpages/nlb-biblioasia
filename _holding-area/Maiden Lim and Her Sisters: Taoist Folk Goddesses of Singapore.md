@@ -151,7 +151,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^21]: Wu, “Introduction on Nanyang Huang Gu Niang.”
 
-[^22]: Xiao Jiahui 萧佳慧 and Pan Wanli潘万莉, “Sheishi Huang Guniang? Jumin jiemituan,” 谁是黄姑娘? 居民揭谜团 [Who is Miss Huang? Residents reveal the mystery], Xinmin Ribao新民日报, 7 September 2017, 4. 
+[^22]: Xiao Jiahui 萧佳慧 and Pan Wanli潘万莉, “Sheishi Huang Guniang? Jumin jiemituan,” 谁是黄姑娘? 居民揭谜团 [Who is Miss Huang? Residents reveal the mystery], *Xinmin Ribao* 新民日报, 7 September 2017, 4. 
 
 [^23]: Wu, “Introduction on Nanyang Huang Gu Niang.”
 
