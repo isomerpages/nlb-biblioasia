@@ -129,4 +129,4 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^20]: 李思邈 Li Simiao, “Gui yu na du gong miao xiufu kunnan duo shehui duofang fen shen chu yuanshou,” 龟屿拿督公庙修复困难多 社会多方纷伸出援手 [There are many difficulties in the restoration of the Dato Kong Temple on Kusu], 联合早报 Lianhe Zaobao, 16 May 2022, https://www.zaobao.com.sg/news/singapore/story20220516-1273019.
 
-[^21]: Ng Wei Kai, “Shrines Destroyed in Kusu Island Fire 70% Reconstructed: Caretaker,” Straits Times, 5 September 2022, https://www.straitstimes.com/singapore/shrines-destroyed-in-kusu-island-fire-70-reconstructed-caretaker.
+[^21]: Ng Wei Kai, “Shrines Destroyed in Kusu Island Fire 70% Reconstructed: Caretaker,” *Straits Times*, 5 September 2022, https://www.straitstimes.com/singapore/shrines-destroyed-in-kusu-island-fire-70-reconstructed-caretaker.
