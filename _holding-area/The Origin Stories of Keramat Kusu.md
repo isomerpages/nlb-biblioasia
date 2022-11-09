@@ -89,4 +89,28 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 #### **NOTES**
 
-[^1]: [The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
+[^1]: Kok Yufeng, “Loud Explosion Heard as Fire Breaks Out Near Malay Shrines on Kusu Island Hilltop,” Straits Times, 18 April 2022, https://www.straitstimes.com/singapore/loud-explosion-heard-as-fire-breaks-out-near-malay-shrines-on-kusu-island-hilltop; Ng Wei Kai, “Firefighters Had to Scale 152 Steps and Link 18 Lengths of Hoses to Fight Kusu Island Fire,” Straits Times, 3 May 2022, https://www.straitstimes.com/singapore/firefighters-had-to-scale-152-steps-and-link-18-lengths-of-hoses-to-fight-kusu-island-fire.
+
+[^2]: “Variorum,” Singapore Daily Times, 30 June 1877, 2. (From NewspaperSG)
+
+[^3]: E.H., “The Cemetery,” Straits Times Overland Journal, 19 November 1873, 6. See also “The Straits Observer,” Straits Observer (Singapore), 25 March 1875, 2. (From NewspaperSG)
+
+[^4]: “Wednesday, 11th August,” Straits Times, 14 August 1875, 2. (From NewspaperSG). See also Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: Murray, 1923), 179. (From BookSG)
+
+[^5]: “Wednesday, 11th August.”
+
+[^6]: For one version of the origin tale, see Jiqieng Juan, Festival: Chinese Folklore Culture Series (ISD LLC: 2017), 91–99. 
+
+[^7]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” Archiv Orientální 85, no. 3 (2017): 437–60. (From ProQuest via NLB’s eResources website)
+
+[^8]: “Bageimana Orang Dapat Perkerja’an Di Bawah Government China,” Bintang Timor, 16 October 1894, 2. (From NewspaperSG)
+
+[^9]: “The Pilgrimage to Kusu Island,” Straits Times, 1 November 1929, 12. (From NewspaperSG)
+
+[^10]: “Chinese Topics in Malaya,” Straits Times, 20 October 1932, 19. (From NewspaperSG)
+
+[^11]: See, for example, Catherine G.S. Lim, Legendary Tales of Singapore (Singapore: AsiaPac Books, 2020). (From National Library, Singapore, call no. YRSING 398.2095957 LIM)
+
+[^12]: “Chinese Topics in Malaya.”
+
+[^13]: Mary Heathcott, “Chinese Go to Pray and Picnic on Kusu Island,” Singapore Free Press and Mercantile Advertiser, 21 October 1940, 5. (From NewspaperSG)
