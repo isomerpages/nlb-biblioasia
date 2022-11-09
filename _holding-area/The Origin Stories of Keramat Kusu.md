@@ -97,7 +97,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^4]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3),” *Straits Times*, 14 August 1875, 2. (From NewspaperSG). See also Song Ong Siang, [One Hundred Years’ History of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: Murray, 1923), 179. (From BookSG)
 
-[^5]: “Wednesday, 11th August.”
+[^5]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3).”
 
 [^6]: For one version of the origin tale, see Jiqieng Juan, Festival: Chinese Folklore Culture Series (ISD LLC: 2017), 91–99. 
 
