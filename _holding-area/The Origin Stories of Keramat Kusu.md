@@ -105,9 +105,9 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^8]: “[Bageimana Orang Dapat Perkerja’an Di Bawah Government China](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/bintangtimor18941016-1.2.3),” *Bintang Timor*, 16 October 1894, 2. (From NewspaperSG)
 
-[^9]: “The Pilgrimage to Kusu Island,” Straits Times, 1 November 1929, 12. (From NewspaperSG)
+[^9]: “[The Pilgrimage to Kusu Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291101-1.2.64),” *Straits Times*, 1 November 1929, 12. (From NewspaperSG)
 
-[^10]: “Chinese Topics in Malaya,” Straits Times, 20 October 1932, 19. (From NewspaperSG)
+[^10]: “[Chinese Topics in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321020-1.2.88),” *Straits Times*, 20 October 1932, 19. (From NewspaperSG)
 
 [^11]: See, for example, Catherine G.S. Lim, Legendary Tales of Singapore (Singapore: AsiaPac Books, 2020). (From National Library, Singapore, call no. YRSING 398.2095957 LIM)
 
