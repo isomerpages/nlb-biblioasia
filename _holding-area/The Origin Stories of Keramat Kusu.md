@@ -123,7 +123,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^17]: Jack Chia Meng-Tat, “Managing the Tortoise Island: Tua Peh Kong Temple, Pilgrimage, and Social Change in Pulau Kusu, 1965–2007,” *New Zealand Journal of Asian Studies* 11, no. 2 (December 2009): 72–95, https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/jas_dec2009_chia.pdf.
 
-[^18]: Sentosa Development Corporation (Singapore), Annual Report 1976 (Singapore: Sentosa Development Corporation, 1977), 11 (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR); Sentosa Development Corporation (Singapore), Annual Report 1977 (Singapore: Sentosa Development Corporation, 1978), 14. (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR)
+[^18]: Sentosa Development Corporation (Singapore), [*Annual Report 1976*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3547719) (Singapore: Sentosa Development Corporation, 1977), 11 (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR); Sentosa Development Corporation (Singapore), Annual Report 1977 (Singapore: Sentosa Development Corporation, 1978), 14. (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR)
 
 [^19]: Francis Chin, “Kusu’s Little Kramat,” New Nation, 4 November 1979, 2. (From NewspaperSG)
 
