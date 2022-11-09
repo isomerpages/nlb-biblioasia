@@ -67,6 +67,9 @@ A solution came from Baosheng Dadi, the patron deity of Zhen Ren Gong (Chin Lin 
 
 Before we move on, return your gaze to the altar. To the right of Lin Guniang is the statue of yet another Singaporean folk goddess, named Lei Niangniang (Lui Niu Niu; 雷娘娘), or Maiden Lei. She, too, is honoured with her name on the temple’s paper lanterns, and a copper brazier is marked with the names of both goddesses, indicating their equal status. Below her stands a gift from a devotee: a framed rectangle piece of cloth, embroidered with her name and the date of her festival: the seventh day of the fourth lunar month.
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image5.png)
+<div style="background-color: white;"> The statute of Lei Niangniang on the formal altar of Zhen Long Gong after the renovation of the temple, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru.[^18] Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
 
 “Her story is not known,” he says. “After her death, her spirit was felt in the village.” To pacify her soul, the temple deified her and bestowed her with her current title. Unfortunately, her mortal name, like her mortal deeds, is lost to history.
