@@ -42,15 +42,15 @@ The writers of “Lady of the Hill” draw an explicit parallel between their ta
 
 Huang the caretaker rejects this account. He reminds us that Lin Guniang’s shrine had its origins in Kampong Henderson, near Tiong Bahru, and not Bukit Merah. Any association between the shedding of her blood and the crimson earth would only have been invented after her shrine’s relocation.  
 
-He adds that her death could not have taken place more than a hundred years ago, as he is acquainted with a neighbourhood resident who was a little girl when the tragedy took place. Nor is the goddess particularly renowned for her healing powers.[^12] She bestows more general blessings upon her followers, though they were often known to ask her for luck in gambling, specifically in the popular lottery game of chap ji kee.
+He adds that her death could not have taken place more than a hundred years ago, as he is acquainted with a neighbourhood resident who was a little girl when the tragedy took place. Nor is the goddess particularly renowned for her healing powers.[^12] She bestows more general blessings upon her followers, though they were often known to ask her for luck in gambling, specifically in the popular lottery game of chap ji kee.[^13]
 
 But there is another, more recent story connected with the goddess, one that suggests my father had good reason to fear her power. This took place in the 1970s, shortly after Lin Guniang’s shrine on Henderson Road was cleared for redevelopment.
 
-At the time, the Member of Parliament for Bukit Merah was Lim Guan Hoo. On Sunday, 13 February 1977, he collapsed from a stroke while attending an event at the National Stadium. He passed away on 3 August at the Singapore General Hospital (SGH) after being in a coma for 172 days.
+At the time, the Member of Parliament for Bukit Merah was Lim Guan Hoo. On Sunday, 13 February 1977, he collapsed from a stroke while attending an event at the National Stadium.[^14] He passed away on 3 August at the Singapore General Hospital (SGH) after being in a coma for 172 days.[^15]
 
-This was only one of many uncanny events that followed in the wake of the shrine’s demolition and subsequent relocation. “Among the Housing Development Board [HDB] people, many fell sick,” the caretaker says. “They were scared. The head of HDB was scared too. And one of our grassroots leaders, his son also died.”
+This was only one of many uncanny events that followed in the wake of the shrine’s demolition and subsequent relocation. “Among the Housing Development Board [HDB] people, many fell sick,” the caretaker says. “They were scared. The head of HDB was scared too. And one of our grassroots leaders, his son also died.”[^16]
 
-Then, around 1980, grassroots leader Yeo Chin Hua (杨振华) arranged to have Lin Guniang transported to Zhen Long Gong, an institution he had helped form by uniting four Taoist temples affected by redevelopment. According to his son, the goddess had visited him in a dream, expressing her wish to make her new home in this united temple. 
+Then, around 1980, grassroots leader Yeo Chin Hua (杨振华) arranged to have Lin Guniang transported to Zhen Long Gong, an institution he had helped form by uniting four Taoist temples affected by redevelopment.[^17] According to his son, the goddess had visited him in a dream, expressing her wish to make her new home in this united temple. 
 
 The temple committee was happy to comply. But where would they house the goddess? She was technically a terrestrial spirit, distinct from the celestial gods, and might require a separate shrine on the temple grounds. 
 
@@ -58,7 +58,7 @@ A solution came from Baosheng Dadi, the patron deity of Zhen Ren Gong (Chin Lin 
 
 Before we move on, return your gaze to the altar. To the right of Lin Guniang is the statue of yet another Singaporean folk goddess, named Lei Niangniang (Lui Niu Niu; 雷娘娘), or Maiden Lei. She, too, is honoured with her name on the temple’s paper lanterns, and a copper brazier is marked with the names of both goddesses, indicating their equal status. Below her stands a gift from a devotee: a framed rectangle piece of cloth, embroidered with her name and the date of her festival: the seventh day of the fourth lunar month.
 
-What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru. Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
+What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru.[^18] Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
 
 “Her story is not known,” he says. “After her death, her spirit was felt in the village.” To pacify her soul, the temple deified her and bestowed her with her current title. Unfortunately, her mortal name, like her mortal deeds, is lost to history.
 
