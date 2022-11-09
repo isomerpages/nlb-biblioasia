@@ -114,3 +114,19 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 [^12]: “Chinese Topics in Malaya.”
 
 [^13]: Mary Heathcott, “Chinese Go to Pray and Picnic on Kusu Island,” Singapore Free Press and Mercantile Advertiser, 21 October 1940, 5. (From NewspaperSG)
+
+[^14]: Sit Yin Fong, “Two Faiths Share Holy Island,” Straits Times, 24 October 1948, 4. (From NewspaperSG)
+
+[^15]: A.J. Anthony, “A Picnic… With the Harbour Gods,” Straits Times Annual, 	1 January 1952, 26–27. (From NewspaperSG). The article also states that the keramat bore the date 1889. This date was not evident when I visited the shrine and does not accord with the information provided by Song Ong Siang that the keramat was active prior to 1875. Remarkably, an article published in the Straits Times Annual in 1970 under the same title repeated nearly verbatim the text from the 1952 article, though this time under a different author’s name – Goh Tuck Chiang.
+
+[^16]: “Singapore’s Kusu Island,” Asia Magazine (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM)
+
+[^17]: Jack Chia Meng-Tat, “Managing the Tortoise Island: Tua Peh Kong Temple, Pilgrimage, and Social Change in Pulau Kusu, 1965–2007,” New Zealand Journal of Asian Studies 11, no. 2 (December 2009): 72–95, https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/jas_dec2009_chia.pdf.
+
+[^18]: Sentosa Development Corporation (Singapore), Annual Report 1976 (Singapore: Sentosa Development Corporation, 1977), 11 (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR); Sentosa Development Corporation (Singapore), Annual Report 1977 (Singapore: Sentosa Development Corporation, 1978), 14. (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR)
+
+[^19]: Francis Chin, “Kusu’s Little Kramat,” New Nation, 4 November 1979, 2. (From NewspaperSG)
+
+[^20]: 李思邈 Li Simiao, “Gui yu na du gong miao xiufu kunnan duo shehui duofang fen shen chu yuanshou,” 龟屿拿督公庙修复困难多 社会多方纷伸出援手 [There are many difficulties in the restoration of the Dato Kong Temple on Kusu], 联合早报 Lianhe Zaobao, 16 May 2022, https://www.zaobao.com.sg/news/singapore/story20220516-1273019.
+
+[^21]: Ng Wei Kai, “Shrines Destroyed in Kusu Island Fire 70% Reconstructed: Caretaker,” Straits Times, 5 September 2022, https://www.straitstimes.com/singapore/shrines-destroyed-in-kusu-island-fire-70-reconstructed-caretaker. 
