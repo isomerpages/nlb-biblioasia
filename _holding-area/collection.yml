@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - The Origin Stories of Keramat Kusu.md
       - "Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore.md"
       - 两条书街，两座书城：战后新加坡华文书店景观.md
       - "“Book City” in Two Streets: The Chinese Bookstore Scene in Postwar
