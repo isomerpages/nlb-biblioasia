@@ -18,6 +18,9 @@ The goddess was well-known in the neighbourhood. Residents referred to the lower
 
 This is a shame. Lin Guniang – also known as Hongshan Lin Guniang (红山林姑娘), or Maiden Lim of Redhill – is an example of a uniquely Singaporean Taoist folk goddess. Her legends and ritual traditions began not in China, Hong Kong or Taiwan, but on this very island.
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image2.png)
+<div style="background-color: white;"> Lin Guniang and Lei Niangniang are honoured with their names on the paper lanterns of Zhen Long Gong, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for *BiblioAsia*.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods & Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
 
 In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.[^6]
