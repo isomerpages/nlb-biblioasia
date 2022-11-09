@@ -113,7 +113,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^2]: Ng Hark Seng, interview, 26 July 2022.
 
-[^3]: William L. Gibson, “Unravelling the Mystery of Ubin's German Girl Shrine,” BiblioAsia 13, no. 3 (Oct–Dec 2021).
+[^3]: William L. Gibson, “[Unravelling the Mystery of Ubin's German Girl Shrine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine),” BiblioAsia 13, no. 3 (Oct–Dec 2021).
 
 [^4]: Ronni Pinsler, “Local Gods & Their Legends,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/localgods/posts/.
 
