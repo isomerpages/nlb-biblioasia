@@ -4,7 +4,6 @@ permalink: /holding-area/test3/
 description: The local Taoist pantheon includes goddesses only found in
   Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 ---
-
 #### The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 By Ng Yi-Sheng
 
@@ -79,4 +78,24 @@ There are, of course, other accounts of her origins. In 2017, a then-66-year-old
 
 As a child, Liu had witnessed the worship of Huang Guniang in Heng San Teng (恒山亭) on Jalan Bukit Merah. “She committed suicide near the temple,” he explained. “The kampong people couldn't bear to let her become a wandering spirit, so they invited her into the temple to worship her.”
 
-Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to the goddess was erected beneath a tree on Hospital Drive, within the SGH compound. It was a humble affair, consisting of a simple, red boxed altar where devotees had placed offerings of joss sticks, food and cosmetics before her tablet. Nevertheless, patients flocked to the site, desperately praying to her for good health. 
+Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to the goddess was erected beneath a tree on Hospital Drive, within the SGH compound. It was a humble affair, consisting of a simple, red boxed altar where devotees had placed offerings of joss sticks, food and cosmetics before her tablet. Nevertheless, patients flocked to the site, desperately praying to her for good health.
+
+“If on that very night after the honouring, the patient dream[s] of a big white spider or [a] spider with long legs, the chances of getting his illness cured will be high,” Wu notes. He adds that her presence brought an end to traffic accidents along Hospital Drive and the opposite road, and that visitors would occasionally catch a glimpse of her spirit at the junction near her shrine and her former temple.
+
+Alas, all this good work could not save Huang Guniang’s altar. In 2017, because of SGH’s plans for redevelopment and expansion, her shrine was cleared from its original site. According to Victor Yue, creator of the “Story of Ng Kor Niu 黄姑娘” Facebook group, the contractor engaged a Taoist priest to administer the shift. A huge paper mansion was also burnt for her as part of a ceremony to invite her to Wat Ananda Metyarama. 
+
+Worshippers continue to pray to the goddess at the columbarium. A small sign reading “This Way to Maiden Huang” has been posted by the front door, directing them to her tablet: a newer, more ornate piece than the one that formerly occupied her demolished shrine. 
+
+Some may grumble that SGH should have found her a home on their premises where she could continue to offer comfort to those in need of hope and healing. Yet there have been no whispers of vengeance in the five years following her move. Huang Guniang, it seems, is content.
+
+Singapore’s Spirits
+
+This essay is by no means a comprehensive survey of Singapore’s homegrown Taoist pantheon. Perhaps in future essays, we may make the acquaintance of other local gods and goddesses, such as Liang Taiye (梁太爷), Zhu Guniang (朱姑娘), Liu Xiu Guniang (刘秀姑娘), Cai Fu Xiao Guniang (蔡府小姑娘), Hong Hua Guniang (红花姑娘), Sun Jiang Jun (孙将军) and Zhang Fu Ren (张夫人). Some of these figures have long vanished from altars, while others still hold sway in temples. Some may still be honoured in household shrines around Singapore. 
+
+So far, most of the research into these local gods and goddesses has been conducted by passionate amateurs such as Ronni Pinsler, Jave Wu and Victor Yue. More formal scholarship is needed, not only to record the names and stories of these deities, but also to better grasp their place in Southeast Asian culture. What sense can we make of the parallels between their veneration and Malay keramat (shrine) worship? What parallels can we draw with other gods of the regional Chinese diaspora, such as Tua Pek Kong (Da Bogong; 大伯公), with his origins in Penang?
+
+In saying this, I do not mean to downplay the contributions of non-academics in this field. On platforms such as the “Local Gods & Their Legends” and “Taoism Singapore” Facebook groups, aficionados share knowledge about ritual practices across the region. Here, we share recollections of forgotten deities and learn about those still worshipped in our midst. Regardless of whether we are believers, sceptics or just agnostic, we work to keep our sacred heritage alive.
+
+Lin Guniang, Lei Niangniang and Huang Guniang have not, in my opinion, been accorded the full respect they deserve. Over the decades, their congregations have dwindled, their shrines have been destroyed and their tales carelessly rewritten. 
+
+Nevertheless, their existence remains an inspiration. They serve as proof that Singapore is not merely a meeting place for spiritual cultures, but a site for their creation. This is not a disenchanted island. This is a city where goddesses are born.
