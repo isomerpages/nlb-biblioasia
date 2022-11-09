@@ -95,7 +95,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^3]: E.H., “[The Cemetery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18731119-1.2.19),” *Straits Times Overland Journal*, 19 November 1873, 6. See also “[The Straits Observer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18750325-1.2.3),” *Straits Observer* (Singapore), 25 March 1875, 2. (From NewspaperSG)
 
-[^4]: “Wednesday, 11th August,” Straits Times, 14 August 1875, 2. (From NewspaperSG). See also Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: Murray, 1923), 179. (From BookSG)
+[^4]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3),” Straits Times, 14 August 1875, 2. (From NewspaperSG). See also Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: Murray, 1923), 179. (From BookSG)
 
 [^5]: “Wednesday, 11th August.”
 
