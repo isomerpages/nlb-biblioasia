@@ -11,13 +11,13 @@ By William L. Gibson
 <div style="background-color: white;"> The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).
 </div>
 
-In April 2022, a catastrophic fire engulfed the *keramat* (shrine) on the top of a hill on Kusu Island, off the southern coast of Singapore. Media coverage of the event showed the near-total destruction of the *keramat*. 
+In April 2022, a catastrophic fire engulfed the *keramat* (shrine) on the top of a hill on Kusu Island, off the southern coast of Singapore. Media coverage of the event showed the near-total destruction of the *keramat*.[^1]
 
 The *keramat* on Kusu Island is a popular pilgrimage spot with thousands of devotees making their way by boat to seek blessings from the shrine as well as the Chinese Tua Pek Kong Temple (龟屿大伯公宫)on the island. Despite its immense popularity, little is definitively known about the shrine. Delving into the records shows how the origin story of the *keramat* has changed over time.
 
 Sunny Kusu Island – little more than a dome-shaped granite outcropping connected by a mud flat to a narrow rocky protrusion to the north, and surrounded by shallow reefs – was both an important navigation mark as well as a shipping hazard in the days of sail. 
 
-Around 1822, the British erected a signal on the island and as a result, the earliest maps of Singapore refer to it as “Signal Island”. The island was later renamed “Peak Island” and sometime in 1877, a brick obelisk harbour marker was erected on its south shore. 
+Around 1822, the British erected a signal on the island and as a result, the earliest maps of Singapore refer to it as “Signal Island”. The island was later renamed “Peak Island” and sometime in 1877, a brick obelisk harbour marker was erected on its south shore.[^2] 
 
 The Malay name for the island is Pulau Tembakul, which means "mudskipper island”, either because mudskippers were once abundant on the mud flats or because in profile the island, with its bulbous head and narrow fin-like tail, resembles a mudskipper. “Kusu”, which means “turtle” in Hokkien, likely comes from the dome shape of the island resembling a turtle shell.
 
