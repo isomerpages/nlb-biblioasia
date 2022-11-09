@@ -7,8 +7,8 @@ description: The local Taoist pantheon includes goddesses only found in
 #### The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 By Ng Yi-Sheng
 
-![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg)
-<div style="background-color: white;"> View of North Bridge Road, c. 1970s. Before the 1980s, it was a popular location for Chinese bookstores until they moved into the nearby Bras Basah Complex. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image1.png)
+<div style="background-color: white;"> The statues of Lin Guniang (front) and Lei Niangniang (back) at Zhen Long Gong, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 In the 1960s, my father lived in mortal fear of the goddess Lin Guniang (林姑娘).[^1] As a child living in Kampong Henderson, he knew her by her Hokkien name, Lim Kor Niu. While he often passed by her shrine on Henderson Road, he never dared to gaze at her statue.
 
