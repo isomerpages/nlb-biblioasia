@@ -135,9 +135,9 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^13]: Still other variations of Lin Guniang’s origin myth exist. My mother, for instance, says her own mother shared a version in which Lin Guniang was the victim of sexual violence. Ng Gim Choo, interview, 26 July 2022.
 
-[^14]: “Lim Still On Danger List,” New Nation, 15 February 1977, 1. (From NewspaperSG) 
+[^14]: “[Lim Still On Danger List](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770215-1.2.4),” *New Nation*, 15 February 1977, 1. (From NewspaperSG) 
 
-[^15]: “MP Dies,” New Nation, 3 August 1977, 1. (From NewspaperSG) 
+[^15]: “[MP Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770803-1.2.2),” *New Nation*, 3 August 1977, 1. (From NewspaperSG) 
 
 [^16]: According to Huang Yahong, shortly before Lin Guniang’s shrine was removed, a small Hindu shrine in the same area was also demolished. Worshippers at Zhen Long Gong associate this incident with the sudden death of MP for Radin Mas N. Govindasamy on 14 February 1977, just a few hours after Lim’s collapse. See “MP Dies.”
 
