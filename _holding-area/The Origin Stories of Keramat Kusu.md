@@ -115,9 +115,9 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^13]: Mary Heathcott, “[Chinese Go to Pray and Picnic on Kusu Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19401021-1.2.59)” *Singapore Free Press and Mercantile Advertiser*, 21 October 1940, 5. (From NewspaperSG)
 
-[^14]: Sit Yin Fong, “[Two Faiths Share Holy Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481024-1.2.48),” Straits Times, 24 October 1948, 4. (From NewspaperSG)
+[^14]: Sit Yin Fong, “[Two Faiths Share Holy Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481024-1.2.48),” *Straits Times*, 24 October 1948, 4. (From NewspaperSG)
 
-[^15]: A.J. Anthony, “A Picnic… With the Harbour Gods,” Straits Times Annual, 	1 January 1952, 26–27. (From NewspaperSG). The article also states that the keramat bore the date 1889. This date was not evident when I visited the shrine and does not accord with the information provided by Song Ong Siang that the keramat was active prior to 1875. Remarkably, an article published in the Straits Times Annual in 1970 under the same title repeated nearly verbatim the text from the 1952 article, though this time under a different author’s name – Goh Tuck Chiang.
+[^15]: A.J. Anthony, “[A Picnic… With the Harbour Gods](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481024-1.2.48),” *Straits Times Annual*, 	1 January 1952, 26–27. (From NewspaperSG). The article also states that the keramat bore the date 1889. This date was not evident when I visited the shrine and does not accord with the information provided by Song Ong Siang that the keramat was active prior to 1875. Remarkably, an article published in the Straits Times Annual in 1970 under the same title repeated nearly verbatim the text from the 1952 article, though this time under a different author’s name – Goh Tuck Chiang.
 
 [^16]: “Singapore’s Kusu Island,” Asia Magazine (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM)
 
