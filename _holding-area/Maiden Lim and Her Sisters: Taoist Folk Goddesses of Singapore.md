@@ -20,7 +20,7 @@ This is a shame. Lin Guniang – also known as Hongshan Lin Guniang (红山林�
 
 The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for BiblioAsia.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods & Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
 
-In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.
+In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.[^6]
 
 #### **The Legends of Maiden Lim, the Mysteries of Maiden Lei**
 
