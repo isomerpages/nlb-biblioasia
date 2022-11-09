@@ -110,3 +110,57 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 #### **NOTES**
 
 [^1]: Singapore’s Lin Guniang must not be confused with the goddess Lin Guniang (or Lim Ko Niao) worshipped in southern Thailand. The two are distinct and unrelated deities, and the term “guniang” simply means girl or young woman in Mandarin. For more information, see Mistuko Tamaki, “The Prevalence of the Worship of Goddess Lin Guniang by the Ethnic Chinese in Southern Thailand” (G-SEC Working Paper 22, Keio University Global Research Institute (KGRI), December 2007), https://www.kgri.keio.ac.jp/en/docs/GWP_22.pdf.
+
+[^2]: Ng Hark Seng, interview, 26 July 2022.
+
+[^3]: William L. Gibson, “Unravelling the Mystery of Ubin's German Girl Shrine,” BiblioAsia 13, no. 3 (Oct–Dec 2021).
+
+[^4]: Ronni Pinsler, “Local Gods & Their Legends,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/localgods/posts/.
+
+[^5]: Ronni Pinsler, “The Book of Xian Shen,” accessed 15 September 2022,  https://bookofxianshen.com/.
+
+[^6]: Jave Wu, “Story of Maiden Lim of Redhill (石叻坡傳奇之紅山林姑娘),” International LSM Taoist Cultural Collegium, 1 March 2013, http://javewutaoismplace.blogspot.com/2013/03/story-of-maiden-lim-of-redhill.html. 
+
+[^7]: Zhen Long Gong (Chin Leng Keng) is made up of four temples: Leng San Teng, Chin Lin Keng, Kai Kok Tien and Ban Sian Beo. The four temples were affected by urban redevelopment in the early 1970s. They came together in 1976 to lease the current site for the construction of Zhen Long Gong, which was completed in 1978.
+
+[^8]: Huang Ya Hong, interview, Zhen Long Gong, 20 June 2022.
+
+[^9]: “Singapore Maiden Joins the Taoist Pantheon,” Straits Times, 27 May 1989, 22. (From NewspaperSG) 
+
+[^10]: Pinsler, “Book of Xian Shen.”
+
+[^11]: Wu, “Story of Maiden Lim.” 
+
+[^12]: There is in fact some evidence for Lin Guniang’s reputation as a healer. According to historian Tai Wei Lim, elderly taxi drivers in the neighbourhood agree that she “has special Shamanistic healing powers and even [helps] out at traditional Chinese medicine institutions”. Is this entirely based on the 1998 TV serial, or are they citing deeper memories? See Lim Tai-Wei, Cultural Heritage and Peripheral Spaces in Singapore (Singapore: Palgrave Macmillian, 2017), 68. (From National Library, Singapore, call no. RSING 363.69095957 LIM)
+
+[^13]: Still other variations of Lin Guniang’s origin myth exist. My mother, for instance, says her own mother shared a version in which Lin Guniang was the victim of sexual violence. Ng Gim Choo, interview, 26 July 2022.
+
+[^14]: “Lim Still On Danger List,” New Nation, 15 February 1977, 1. (From NewspaperSG) 
+
+[^15]: “MP Dies,” New Nation, 3 August 1977, 1. (From NewspaperSG) 
+
+[^16]: According to Huang Yahong, shortly before Lin Guniang’s shrine was removed, a small Hindu shrine in the same area was also demolished. Worshippers at Zhen Long Gong associate this incident with the sudden death of MP for Radin Mas N. Govindasamy on 14 February 1977, just a few hours after Lim’s collapse. See “MP Dies.”
+
+[^17]: Yeo Keng Hoo (son of Yeo Chin Hua), interview, Zhen Long Gong, 22 August 2022.
+
+[^18]: Wu, “Story of Maiden Lim.” 
+
+[^19]: Jave Wu, “Introduction on Nanyang Huang Gu Niang (南洋龜仔山黃姑娘簡介),” International LSM Taoist Cultural Collegium, 10 July 2012, http://javewutaoismplace.blogspot.com/2012/07/introduction-on-nanyang-huang-gu-niang_4039.html.
+
+[^20]: Wu, “Introduction on Nanyang Huang Gu Niang.”
+
+[^21]: Wu, “Introduction on Nanyang Huang Gu Niang.”
+
+[^22]: Xiao Jiahui 萧佳慧 and Pan Wanli潘万莉, “Sheishi Huang Guniang? Jumin jiemituan,” 谁是黄姑娘? 居民揭谜团 [Who is Miss Huang? Residents reveal the mystery], Xinmin Ribao新民日报, 7 September 2017, 4. 
+
+[^23]: Wu, “Introduction on Nanyang Huang Gu Niang.”
+
+[^24]: Melody Zaccheus, “Old Graves, Shrine to Make Way for SGH Redevelopment,” Straits Times, 6 September 2017, https://www.straitstimes.com/singapore/environment/old-graves-shrine-to-make-way-for-sgh-redevelopment.
+
+[^25]: Victor Yue, Facebook direct message, 30 July 2022.
+
+[^26]: Such analysis, I believe, is more important than determining the factuality of legends. Though I have spoken of the three goddesses as if they are historical figures, I have uncovered no concrete evidence of their lives as mortal women. It is, I concede, entirely possible that they never walked the earth. If true, this does not diminish their power. As goddesses, they operate on a spiritual plane that transcends human logic.
+
+[^27]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” Archiv Orientalni 85, no. 3 (2017): 439–60, 490. https://aror.orient.cas.cz/index.php/ArOr/article/view/154. 
+
+[^28]: “Taoism Singapore,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/taoismsingapore.
