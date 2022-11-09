@@ -109,7 +109,7 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 
 
 <div>	
-<b>Amanda Lee Koe</b> is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*. </div>
+<b>Amanda Lee Koe</b> is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of <i>Esquire</i> (Singapore), editor of creative non-fiction online magazine <i>POSKOD</i>, communications director at <i>studioKALEID</i>, and co¬editor of literary journal <i>Ceriph</i>. </div>
 
 
 #### **REFERENCES**     
