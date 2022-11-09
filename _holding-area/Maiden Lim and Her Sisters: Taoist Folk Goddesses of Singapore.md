@@ -10,7 +10,7 @@ By Ng Yi-Sheng
 ![](/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg)
 <div style="background-color: white;"> View of North Bridge Road, c. 1970s. Before the 1980s, it was a popular location for Chinese bookstores until they moved into the nearby Bras Basah Complex. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
-In the 1960s, my father lived in mortal fear of the goddess Lin Guniang (林姑娘). As a child living in Kampong Henderson, he knew her by her Hokkien name, Lim Kor Niu. While he often passed by her shrine on Henderson Road, he never dared to gaze at her statue.
+In the 1960s, my father lived in mortal fear of the goddess Lin Guniang (林姑娘).[^1] As a child living in Kampong Henderson, he knew her by her Hokkien name, Lim Kor Niu. While he often passed by her shrine on Henderson Road, he never dared to gaze at her statue.
 
 “People said the place was haunted,” my father told me. “We’d be damn frightened. You’d pass by, but you wouldn’t look.” He recalled that the shrine was tiny, fitting six people at most, with wooden walls and a gabled roof made of zinc or attap. It stood beside a tree, with a joss stick holder and a table outside. Alongside there was a storm drain with a stone bridge linking the site to the road. 
 
