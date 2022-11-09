@@ -37,7 +37,7 @@ More early details about the pilgrims who visited Kusu come courtesy of a report
 
 The keramat was enlarged in the early 20th century. There are two plaques on the site, one in Baba Malay and Jawi dated 1917 and the other in Hokkien Chinese dated 1921. The Baba Malay plaque is dedicated to “Dato Nenek Kusu” and was emplaced by Baba Hoe Beng Whatt, a Peranakan (Straits Chinese). It includes a list of Baba Chinese who donated money to erect the shrine. The 1921 plaque also bears the names of donors to the shrines, many of whom were the same people who had donated earlier. The text on the plaque mentions that the “old fairy of Kusu Island” (龟屿老仙女) visited Hoe’s house with a child. The second plaque indicates that the shrine was expanded again in 1921.
 
-#### **The keramat was especially popular with couples seeking to have children and for prognosticating winning lottery numbers and it received visitors year-round.**
+
 
 <div style="margin: 20px"> <b>Fishermen’s Friends</b><br>
 	A <i>Straits Times</i> report in 1929 offers one of the oldest descriptions of the origins of the keramat. The reporter spoke to an old man at Joo Chiat (the implication being he was Baba or Straits Chinese), who gave an account that deserves to be retold in detail:<br><br>
@@ -80,4 +80,13 @@ A month after the conflagration, it was announced that the keramat would be rebu
 
 I returned to the site in November 2022. It had been rebuilt in time for the Ninth Month celebrations, but it was still not complete. A temporary marquee had been erected to provide shade and burned debris still littered the hillside beneath the shrines. The shrines were reconstructed in almost exact replicas with some of the original material, such as the concrete altars, left intact.
 
-Unfortunately, the 1917 dedication plaques were badly damaged and poorly restored.  However, by burning off decades worth of accumulated jerry-built material, the catastrophe revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in datuk nature shrines. More intriguingly, a worn batu nisan (gravestone) placed before one of these mounds is inscribed with a Jawi phrase that mirrors the 1917 plaque. The phrase “Datuk Nenek” is legible, which suggests that a shrine-grave was erected here during the 1917–1921 renovations in honour of the female datuk of Kusu Island. During my visit, several worshippers passed through, marking their devotion with prayers and incense as the sea glittered below. 
+Unfortunately, the 1917 dedication plaques were badly damaged and poorly restored.  However, by burning off decades worth of accumulated jerry-built material, the catastrophe revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in datuk nature shrines. More intriguingly, a worn batu nisan (gravestone) placed before one of these mounds is inscribed with a Jawi phrase that mirrors the 1917 plaque. The phrase “Datuk Nenek” is legible, which suggests that a shrine-grave was erected here during the 1917–1921 renovations in honour of the female datuk of Kusu Island. During my visit, several worshippers passed through, marking their devotion with prayers and incense as the sea glittered below.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
+	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is the founder of Antāti, a historical research and museum consultancy.</div>
+
+#### **NOTES**
+
+[^1]: [The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
