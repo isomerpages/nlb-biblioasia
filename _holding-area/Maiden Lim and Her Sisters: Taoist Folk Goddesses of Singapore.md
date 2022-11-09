@@ -125,7 +125,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^8]: Huang Ya Hong, interview, Zhen Long Gong, 20 June 2022.
 
-[^9]: “Singapore Maiden Joins the Taoist Pantheon,” Straits Times, 27 May 1989, 22. (From NewspaperSG) 
+[^9]: “[Singapore Maiden Joins the Taoist Pantheon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890527-1.2.29.7.3),” *Straits Times*, 27 May 1989, 22. (From NewspaperSG) 
 
 [^10]: Pinsler, “Book of Xian Shen.”
 
