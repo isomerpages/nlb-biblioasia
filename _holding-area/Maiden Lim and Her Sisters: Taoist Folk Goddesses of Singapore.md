@@ -131,7 +131,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^11]: Wu, “Story of Maiden Lim.” 
 
-[^12]: There is in fact some evidence for Lin Guniang’s reputation as a healer. According to historian Tai Wei Lim, elderly taxi drivers in the neighbourhood agree that she “has special Shamanistic healing powers and even [helps] out at traditional Chinese medicine institutions”. Is this entirely based on the 1998 TV serial, or are they citing deeper memories? See Lim Tai-Wei, Cultural Heritage and Peripheral Spaces in Singapore (Singapore: Palgrave Macmillian, 2017), 68. (From National Library, Singapore, call no. RSING 363.69095957 LIM)
+[^12]: There is in fact some evidence for Lin Guniang’s reputation as a healer. According to historian Tai Wei Lim, elderly taxi drivers in the neighbourhood agree that she “has special Shamanistic healing powers and even [helps] out at traditional Chinese medicine institutions”. Is this entirely based on the 1998 TV serial, or are they citing deeper memories? See Lim Tai-Wei, [Cultural Heritage and Peripheral Spaces in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204486140) (Singapore: Palgrave Macmillian, 2017), 68. (From National Library, Singapore, call no. RSING 363.69095957 LIM)
 
 [^13]: Still other variations of Lin Guniang’s origin myth exist. My mother, for instance, says her own mother shared a version in which Lin Guniang was the victim of sexual violence. Ng Gim Choo, interview, 26 July 2022.
 
