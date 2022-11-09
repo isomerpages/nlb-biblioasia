@@ -11,9 +11,9 @@ By William L. Gibson
 <div style="background-color: white;"> The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).
 </div>
 
-In April 2022, a catastrophic fire engulfed the keramat (shrine) on the top of a hill on Kusu Island, off the southern coast of Singapore. Media coverage of the event showed the near-total destruction of the keramat. 
+In April 2022, a catastrophic fire engulfed the *keramat* (shrine) on the top of a hill on Kusu Island, off the southern coast of Singapore. Media coverage of the event showed the near-total destruction of the *keramat*. 
 
-The keramat on Kusu Island is a popular pilgrimage spot with thousands of devotees making their way by boat to seek blessings from the shrine as well as the Chinese Tua Pek Kong Temple (龟屿大伯公宫)on the island. Despite its immense popularity, little is definitively known about the shrine. Delving into the records shows how the origin story of the keramat has changed over time.
+The *keramat* on Kusu Island is a popular pilgrimage spot with thousands of devotees making their way by boat to seek blessings from the shrine as well as the Chinese Tua Pek Kong Temple (龟屿大伯公宫)on the island. Despite its immense popularity, little is definitively known about the shrine. Delving into the records shows how the origin story of the *keramat* has changed over time.
 
 Sunny Kusu Island – little more than a dome-shaped granite outcropping connected by a mud flat to a narrow rocky protrusion to the north, and surrounded by shallow reefs – was both an important navigation mark as well as a shipping hazard in the days of sail. 
 
@@ -23,7 +23,7 @@ The Malay name for the island is Pulau Tembakul, which means "mudskipper island�
 
 #### **Shrines and Temple**
 
-Remarkably, there is evidence that the Tua Pek Kong Temple and the keramat have been on the island since at least the mid-19th century. This is based on a letter written by Cheang Hong Lim, a prosperous opium trader and head of the Hokkien community in Singapore, to J.F.A. McNair, Colonial Engineer and Surveyor General of the Straits Settlements, on 9 March 1875. Cheang protested the policy of using the island as a burial ground for the quarantine facility located on nearby St John’s Island.
+Remarkably, there is evidence that the Tua Pek Kong Temple and the *keramat* have been on the island since at least the mid-19th century. This is based on a letter written by Cheang Hong Lim, a prosperous opium trader and head of the Hokkien community in Singapore, to J.F.A. McNair, Colonial Engineer and Surveyor General of the Straits Settlements, on 9 March 1875. Cheang protested the policy of using the island as a burial ground for the quarantine facility located on nearby St John’s Island.
 
 In the letter, Cheang petitioned for a title to the island. He wrote that the island had “for upwards of thirty years [c.1845] been used by many of the Chinese and native inhabitants of this Settlement as a place for them to resort to at certain periods every year for the purpose of making sacrifices and paying their vows to certain deities there called ‘Twa Pek Kong Koosoo’ and ‘Datok Kramat’, and as that place has lately, to the great prejudice of their feelings, been desecrated by the interment therein of a number of dead bodies”. In the end, Cheng did not receive the land title but he did get a promise that quarantine burials would cease. 
 
@@ -129,4 +129,4 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^20]: 李思邈 Li Simiao, “Gui yu na du gong miao xiufu kunnan duo shehui duofang fen shen chu yuanshou,” 龟屿拿督公庙修复困难多 社会多方纷伸出援手 [There are many difficulties in the restoration of the Dato Kong Temple on Kusu], 联合早报 Lianhe Zaobao, 16 May 2022, https://www.zaobao.com.sg/news/singapore/story20220516-1273019.
 
-[^21]: Ng Wei Kai, “Shrines Destroyed in Kusu Island Fire 70% Reconstructed: Caretaker,” Straits Times, 5 September 2022, https://www.straitstimes.com/singapore/shrines-destroyed-in-kusu-island-fire-70-reconstructed-caretaker. 
+[^21]: Ng Wei Kai, “Shrines Destroyed in Kusu Island Fire 70% Reconstructed: Caretaker,” Straits Times, 5 September 2022, https://www.straitstimes.com/singapore/shrines-destroyed-in-kusu-island-fire-70-reconstructed-caretaker.
