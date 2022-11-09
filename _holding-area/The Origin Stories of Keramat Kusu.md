@@ -119,7 +119,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^15]: A.J. Anthony, “[A Picnic… With the Harbour Gods](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481024-1.2.48),” *Straits Times Annual*, 	1 January 1952, 26–27. (From NewspaperSG). The article also states that the *keramat* bore the date 1889. This date was not evident when I visited the shrine and does not accord with the information provided by Song Ong Siang that the *keramat* was active prior to 1875. Remarkably, an article published in the *Straits Times Annual* in 1970 under the same title repeated nearly verbatim the text from the 1952 article, though this time under a different author’s name – Goh Tuck Chiang.
 
-[^16]: “Singapore’s Kusu Island,” Asia Magazine (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM)
+[^16]: “Singapore’s Kusu Island,” [*Asia Magazine*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM)
 
 [^17]: Jack Chia Meng-Tat, “Managing the Tortoise Island: Tua Peh Kong Temple, Pilgrimage, and Social Change in Pulau Kusu, 1965–2007,” New Zealand Journal of Asian Studies 11, no. 2 (December 2009): 72–95, https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/jas_dec2009_chia.pdf.
 
