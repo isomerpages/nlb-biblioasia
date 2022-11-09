@@ -4,6 +4,7 @@ permalink: /holding-area/test3/
 description: The local Taoist pantheon includes goddesses only found in
   Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 ---
+
 #### The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 By Ng Yi-Sheng
 
@@ -23,19 +24,59 @@ The notion of a homegrown goddess may sound bizarre. In fact, several such deiti
 In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.
 
 #### **The Legends of Maiden Lim, the Mysteries of Maiden Lei**
+
 Hidden in the neighbourhood of Bukit Merah, between Gan Eng Seng Primary School and a forest of condemned seven-storey SIT (Singapore Improvement Trust) flats, you will find the dragon arch of Zhen Long Gong (Chin Leng Keng; 真龙宫). Remove your shoes and ascend the steps to the main hall, still gleaming from its 2022 renovations. Here, you will find the faithful paying their respects to dozens of Taoist and Mahayana Buddhist divinities: the bodhisattva Guanyin (Goddess of Mercy; 观音), the god of war Guan Gong (关公), the monkey king Sun Wukong (孙悟空), the medicine deity Baosheng Dadi (保生大帝), the god of grains Wugu Dadi (五谷大帝), and the tiger spirit Huye (虎爷), to name a few. 
+
 Here, worshippers also bow before Lin Guniang. Her statue is swaddled in a glittering multicoloured cape, fastened around her throat with a red ribbon. Beneath the fabric, she is garlanded with beads. Ritual offerings lie on her altar: boxed cosmetics, lipsticks and perfumes. Paper lanterns hang outside the temple doors, marked with her name. Each year, on the 15th day of the seventh lunar month, a small festival is held in her honour. 
+
 Some controversy surrounds her origins. The temple’s caretaker, 74-year-old Huang Yahong (黄亚宏), is happy to share what he knows of her legend, but cautions that certain details may only be shared orally, not in writing. It feels safe, nevertheless, to reveal that his account corresponds closely with one printed in the Straits Times in 1989. 
+
 She “lived around the turn of the century [c. 1900] and was married to a sailor who was frequently at sea. A neighbour by the surname of Tan tried to seduce her, but she spurned him. Furious, he framed her for infidelity. She committed suicide to prove her chastity and her spirit kept returning to help needy neighbours. Soon a shrine was erected for her in the Henderson Road area. As the story goes, she helps anybody except those with the surname of Tan”.
+
 The caretaker also reveals the fate of Tan, the neighbour whose gossip caused her death. Supposedly, he went mad and killed himself by driving a nail into his own head.
+
 The most widespread version of the goddess’s tale, however, comes from television. In 1998, the Singapore Broadcasting Corporation (now Mediacorp) produced and aired the series Myths and Legends of Singapore (石叻坡传说), with the first episode titled “Lady of the Hill” (红山林姑娘), starring Fann Wong as Lin Guniang. It is this adaptation that currently serves as the primary reference for the goddess in online resources, such as Ronni Pinsler’s entry on his website, “The Book of Xianshen”, and Jave Wu’s blog, “International LSM Taoist Cultural Collegium”.
+
 In this retelling, Lin Guniang is depicted as living in the early to mid-19th century, dressed in a changshan (长衫). She is a practitioner of traditional Chinese medicine, while her jealously possessive husband, Ah Guang, is a hunter. When he accuses her of adultery, she jumps into a well, which then overflows with blood. After her death, her village is struck by a plague, but she returns as a spirit to aid the afflicted.
+
 The writers of “Lady of the Hill” draw an explicit parallel between their tale and the Malay legend of how Redhill got its name. The episode opens with a representative of the National Museum of Singapore conducting research at Zhen Long Gong. When asked why the soil in the area is red, the worshippers repeat the familiar story of how the boy hero Hang Nadim was assassinated by an evil Raja, thus marking the earth with his blood. One worshipper then offers Lin Guniang’s tale as a counter-narrative, declaring, “It was her blood that stained the hill red.”
+
 Huang the caretaker rejects this account. He reminds us that Lin Guniang’s shrine had its origins in Kampong Henderson, near Tiong Bahru, and not Bukit Merah. Any association between the shedding of her blood and the crimson earth would only have been invented after her shrine’s relocation.  
+
 He adds that her death could not have taken place more than a hundred years ago, as he is acquainted with a neighbourhood resident who was a little girl when the tragedy took place. Nor is the goddess particularly renowned for her healing powers. She bestows more general blessings upon her followers, though they were often known to ask her for luck in gambling, specifically in the popular lottery game of chap ji kee.
+
 But there is another, more recent story connected with the goddess, one that suggests my father had good reason to fear her power. This took place in the 1970s, shortly after Lin Guniang’s shrine on Henderson Road was cleared for redevelopment.
+
 At the time, the Member of Parliament for Bukit Merah was Lim Guan Hoo. On Sunday, 13 February 1977, he collapsed from a stroke while attending an event at the National Stadium. He passed away on 3 August at the Singapore General Hospital (SGH) after being in a coma for 172 days.
+
 This was only one of many uncanny events that followed in the wake of the shrine’s demolition and subsequent relocation. “Among the Housing Development Board [HDB] people, many fell sick,” the caretaker says. “They were scared. The head of HDB was scared too. And one of our grassroots leaders, his son also died.”
+
 Then, around 1980, grassroots leader Yeo Chin Hua (杨振华) arranged to have Lin Guniang transported to Zhen Long Gong, an institution he had helped form by uniting four Taoist temples affected by redevelopment. According to his son, the goddess had visited him in a dream, expressing her wish to make her new home in this united temple. 
+
 The temple committee was happy to comply. But where would they house the goddess? She was technically a terrestrial spirit, distinct from the celestial gods, and might require a separate shrine on the temple grounds. 
-A solution came from Baosheng Dadi, the patron deity of Zhen Ren Gong (Chin Lin Keng; 真人宫), one of Zhen Long Gong’s constituent temples. During a ceremony, his statue was placed on a palanquin, and his spirit possessed his palanquin bearers, enabling them to trace a divine message in a heap of ashes. In writing, he granted Lin Guniang permission to be worshipped within his temple. The very same palanquin was later used to transport her statue to Zhen Long Gong. 
+
+A solution came from Baosheng Dadi, the patron deity of Zhen Ren Gong (Chin Lin Keng; 真人宫), one of Zhen Long Gong’s constituent temples. During a ceremony, his statue was placed on a palanquin, and his spirit possessed his palanquin bearers, enabling them to trace a divine message in a heap of ashes. In writing, he granted Lin Guniang permission to be worshipped within his temple. The very same palanquin was later used to transport her statue to Zhen Long Gong.
+
+Before we move on, return your gaze to the altar. To the right of Lin Guniang is the statue of yet another Singaporean folk goddess, named Lei Niangniang (Lui Niu Niu; 雷娘娘), or Maiden Lei. She, too, is honoured with her name on the temple’s paper lanterns, and a copper brazier is marked with the names of both goddesses, indicating their equal status. Below her stands a gift from a devotee: a framed rectangle piece of cloth, embroidered with her name and the date of her festival: the seventh day of the fourth lunar month.
+
+What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru. Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
+
+“Her story is not known,” he says. “After her death, her spirit was felt in the village.” To pacify her soul, the temple deified her and bestowed her with her current title. Unfortunately, her mortal name, like her mortal deeds, is lost to history.
+
+#### **The Martyrdoms of Maiden Huang**
+
+A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jalan Bukit Merah, the oldest Thai Buddhist temple in Singapore. Saffron-robed monks staff perform chores amid common iconography in Theravada Buddhist temples: four-faced Brahma, the eclipse-causing deity Rahu, even a vibrant mural of the wheel of samsara in which appear the distinctive towers of Marina Bay Sands. Ignore these for now and enter the Julamanee Prasat: the small columbarium at the base of the temple’s three-storey belltower.
+
+Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden Huang, Maiden Ng and Ng Kor Niu. Her name is written in gold on red, couched on a stylised lotus and framed by flowering vines. In a glass cabinet, she sits on the topmost shelf, above 28 tablets of other deceased souls, while the ash-filled urns of other mortals occupy the walls of the neighbouring rooms.
+
+The details of Huang Guniang’s legend are unusually precise. On his website, the Taoist priest Jave Wu states that she was born in 1866, on the 12th day of the sixth lunar month, in the village of Gu Ah Sua (龟仔山), later known as Kampong Silat. Her name was Huang Su Ying (黃素英, pronounced Ng Shor Eng in Hokkien and Wong Sok Eng in Cantonese). As her family was poor, she worked with her mother as a laundress from a young age.
+
+In 1879, Huang Guniang began doing laundry with her paternal aunt at the Kandang Kerbau Hospital. In 1882, they moved to SGH, which had just shifted to its current location on Outram Road. One day, a doctor suggested that she train to be a nurse. She qualified in 1900 and began caring for patients and assisting in the pharmacy.
+
+Sadly, death came for her the very next year, just before the Qingming Festival. A fire broke out one night at a kampong near her home. “Maiden Ng did not hesitate to volunteer herself at the fire site to assist the injured,” Wu says. “With a dash, she ran to the fire site… trying her best to save as many villagers as possible.” However, while attempting to rescue an old lady, the house she was in collapsed. Her body was never recovered.
+
+There are, of course, other accounts of her origins. In 2017, a then-66-year-old former resident of her kampong named Liu Xing Fa (刘星发) told Shin Min Ri Bao (新民日报) that Huang Guniang had killed herself for love after her family had matchmade her to someone else. 
+
+As a child, Liu had witnessed the worship of Huang Guniang in Heng San Teng (恒山亭) on Jalan Bukit Merah. “She committed suicide near the temple,” he explained. “The kampong people couldn't bear to let her become a wandering spirit, so they invited her into the temple to worship her.”
+
+Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to the goddess was erected beneath a tree on Hospital Drive, within the SGH compound. It was a humble affair, consisting of a simple, red boxed altar where devotees had placed offerings of joss sticks, food and cosmetics before her tablet. Nevertheless, patients flocked to the site, desperately praying to her for good health. 
