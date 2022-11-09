@@ -111,7 +111,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^11]: See, for example, Catherine G.S. Lim, [*Legendary Tales of Singapore* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986545)(Singapore: AsiaPac Books, 2020). (From National Library, Singapore, call no. YRSING 398.2095957 LIM)
 
-[^12]: “Chinese Topics in Malaya.”
+[^12]: “[Chinese Topics in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321020-1.2.88).”
 
 [^13]: Mary Heathcott, “Chinese Go to Pray and Picnic on Kusu Island,” Singapore Free Press and Mercantile Advertiser, 21 October 1940, 5. (From NewspaperSG)
 
