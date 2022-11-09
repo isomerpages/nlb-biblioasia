@@ -99,3 +99,14 @@ In saying this, I do not mean to downplay the contributions of non-academics in 
 Lin Guniang, Lei Niangniang and Huang Guniang have not, in my opinion, been accorded the full respect they deserve. Over the decades, their congregations have dwindled, their shrines have been destroyed and their tales carelessly rewritten. 
 
 Nevertheless, their existence remains an inspiration. They serve as proof that Singapore is not merely a meeting place for spiritual cultures, but a site for their creation. This is not a disenchanted island. This is a city where goddesses are born.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Benjamin%20J%20Q%20Khoo.png" style="width: 100px; height: 100px;"/>
+	<b>Benjamin J.Q. Khoo</b> is a Research Officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. Studying the histories of the early modern world, his research focuses on networks of knowledge and diplomatic encounters in Asia.</div>
+
+#### **NOTES**
+
+[^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
