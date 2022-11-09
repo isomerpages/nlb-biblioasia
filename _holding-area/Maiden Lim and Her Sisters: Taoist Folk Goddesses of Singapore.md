@@ -105,7 +105,7 @@ Alas, all this good work could not save Huang Guniang’s altar. In 2017, becaus
 Worshippers continue to pray to the goddess at the columbarium. A small sign reading “This Way to Maiden Huang” has been posted by the front door, directing them to her tablet: a newer, more ornate piece than the one that formerly occupied her demolished shrine. 
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image8.png)
-<div style="background-color: white;"> The ceremony inviting Huang Guniang to Wat Ananda Metyarama, 2022. <i>Courtesy of Raymond Goh.</i></div>
+<div style="background-color: white;"> During the ceremony inviting Huang Guniang to Wat Ananda Metyarama, a paper mansion was also burnt for her, 2022. <i>Courtesy of Raymond Goh.</i></div>
 
 Some may grumble that SGH should have found her a home on their premises where she could continue to offer comfort to those in need of hope and healing. Yet there have been no whispers of vengeance in the five years following her move. Huang Guniang, it seems, is content.
 
