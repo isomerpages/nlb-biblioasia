@@ -62,6 +62,9 @@ The temple committee was happy to comply. But where would they house the goddess
 
 A solution came from Baosheng Dadi, the patron deity of Zhen Ren Gong (Chin Lin Keng; 真人宫), one of Zhen Long Gong’s constituent temples. During a ceremony, his statue was placed on a palanquin, and his spirit possessed his palanquin bearers, enabling them to trace a divine message in a heap of ashes. In writing, he granted Lin Guniang permission to be worshipped within his temple. The very same palanquin was later used to transport her statue to Zhen Long Gong.
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png)
+<div style="background-color: white;"> Zhen Long Gong after its renovation, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 Before we move on, return your gaze to the altar. To the right of Lin Guniang is the statue of yet another Singaporean folk goddess, named Lei Niangniang (Lui Niu Niu; 雷娘娘), or Maiden Lei. She, too, is honoured with her name on the temple’s paper lanterns, and a copper brazier is marked with the names of both goddesses, indicating their equal status. Below her stands a gift from a devotee: a framed rectangle piece of cloth, embroidered with her name and the date of her festival: the seventh day of the fourth lunar month.
 
 What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru.[^18] Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
