@@ -125,7 +125,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^18]: Sentosa Development Corporation (Singapore), [*Annual Report 1976*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3547719) (Singapore: Sentosa Development Corporation, 1977), 11 (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR); Sentosa Development Corporation (Singapore), [*Annual Report 1977*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3547719) (Singapore: Sentosa Development Corporation, 1978), 14. (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR)
 
-[^19]: Francis Chin, “Kusu’s Little Kramat,” New Nation, 4 November 1979, 2. (From NewspaperSG)
+[^19]: Francis Chin, “Kusu’s Little Kramat,” *New Nation*, 4 November 1979, 2. (From NewspaperSG)
 
 [^20]: 李思邈 Li Simiao, “Gui yu na du gong miao xiufu kunnan duo shehui duofang fen shen chu yuanshou,” 龟屿拿督公庙修复困难多 社会多方纷伸出援手 [There are many difficulties in the restoration of the Dato Kong Temple on Kusu], 联合早报 Lianhe Zaobao, 16 May 2022, https://www.zaobao.com.sg/news/singapore/story20220516-1273019.
 
