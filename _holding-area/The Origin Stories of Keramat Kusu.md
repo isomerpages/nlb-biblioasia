@@ -113,7 +113,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^12]: “[Chinese Topics in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321020-1.2.88).”
 
-[^13]: Mary Heathcott, “Chinese Go to Pray and Picnic on Kusu Island,” Singapore Free Press and Mercantile Advertiser, 21 October 1940, 5. (From NewspaperSG)
+[^13]: Mary Heathcott, “[Chinese Go to Pray and Picnic on Kusu Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19401021-1.2.59)” *Singapore Free Press and Mercantile Advertiser*, 21 October 1940, 5. (From NewspaperSG)
 
 [^14]: Sit Yin Fong, “Two Faiths Share Holy Island,” Straits Times, 24 October 1948, 4. (From NewspaperSG)
 
