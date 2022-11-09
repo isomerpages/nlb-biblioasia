@@ -161,6 +161,6 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^26]: Such analysis, I believe, is more important than determining the factuality of legends. Though I have spoken of the three goddesses as if they are historical figures, I have uncovered no concrete evidence of their lives as mortal women. It is, I concede, entirely possible that they never walked the earth. If true, this does not diminish their power. As goddesses, they operate on a spiritual plane that transcends human logic.
 
-[^27]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” Archiv Orientalni 85, no. 3 (2017): 439–60, 490. https://aror.orient.cas.cz/index.php/ArOr/article/view/154. 
+[^27]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” *Archiv Orientalni* 85, no. 3 (2017): 439–60, 490. https://aror.orient.cas.cz/index.php/ArOr/article/view/154. 
 
 [^28]: “Taoism Singapore,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/taoismsingapore.
