@@ -103,7 +103,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^7]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” *Archiv Orientální* 85, no. 3 (2017): 437–60. (From ProQuest via NLB’s eResources website)
 
-[^8]: “Bageimana Orang Dapat Perkerja’an Di Bawah Government China,” Bintang Timor, 16 October 1894, 2. (From NewspaperSG)
+[^8]: “[Bageimana Orang Dapat Perkerja’an Di Bawah Government China](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/bintangtimor18941016-1.2.3),” *Bintang Timor*, 16 October 1894, 2. (From NewspaperSG)
 
 [^9]: “The Pilgrimage to Kusu Island,” Straits Times, 1 November 1929, 12. (From NewspaperSG)
 
