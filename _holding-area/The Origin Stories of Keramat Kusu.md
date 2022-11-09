@@ -99,7 +99,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^5]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3).”
 
-[^6]: For one version of the origin tale, see Jiqieng Juan, Festival: Chinese Folklore Culture Series (ISD LLC: 2017), 91–99. 
+[^6]: For one version of the origin tale, see Jiqieng Juan, *Festival: Chinese Folklore Culture Series* (ISD LLC: 2017), 91–99. 
 
 [^7]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” Archiv Orientální 85, no. 3 (2017): 437–60. (From ProQuest via NLB’s eResources website)
 
