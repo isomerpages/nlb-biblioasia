@@ -80,6 +80,8 @@ I returned to the site in November 2022. It had been rebuilt in time for the Nin
 
 Unfortunately, the 1917 dedication plaques were badly damaged and poorly restored.  However, by burning off decades worth of accumulated jerry-built material, the catastrophe revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in datuk nature shrines. More intriguingly, a worn batu nisan (gravestone) placed before one of these mounds is inscribed with a Jawi phrase that mirrors the 1917 plaque. The phrase “Datuk Nenek” is legible, which suggests that a shrine-grave was erected here during the 1917–1921 renovations in honour of the female datuk of Kusu Island. During my visit, several worshippers passed through, marking their devotion with prayers and incense as the sea glittered below.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author thanks Hikari D. Azyure and the Urban Explorers of Singapore. To see more photos of Keramat Kusu, including photos of what it looks like after the fire, go to the online version at biblioasia.nlb.gov.sg or scan this QR code.</div>
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
