@@ -54,7 +54,7 @@ The name associated with the *keramat* today, Dato Syed Abdul Rahman, first appe
 
 In 1952, an article in the *Straits Times Annual* notes that the dato was “supposed to have had miraculous powers and to have died well over a hundred years ago”. The article mentions that only a few Muslims would visit the *keramat* as it was “not a shrine that is popularly accepted and revered among the Malays. Its fame depends almost entirely upon reverence among the non-Muslim Chinese”. Chinese visitors would show respect to the *dato* by abstaining from pork for the entire ninth lunar month and that the “usual Chinese divining blocks” would not be used at the *keramat*. However, occasionally “a Chinese woman can be seen tossing a couple of coins surreptitiously to obtain the desired effect”.
 
-A 1973 article in Asia Magazine adds a new, important twist to the origin story, based on an interview with the then caretaker of the shrines, Pak Besar. The man told the magazine’s reporter a variation of the tale of the Malay and Chinese fishermen that 140 years before, “two ascetics, an Arab named Syed Rahman and a Chinese named Yam”, travelled to Kusu to meditate. “The two hermits paid other visits to the island, and then died on it”, although Pak Besar, insisted they were still spiritually alive. “They just left the world,” he said. Later, the body of the Arab’s mother, Ghalib, and his daughter, Sharifah Fatimah, were brought there for burial and shrines were erected over their graves.
+A 1973 article in *Asia Magazine* adds a new, important twist to the origin story, based on an interview with the then caretaker of the shrines, Pak Besar. The man told the magazine’s reporter a variation of the tale of the Malay and Chinese fishermen that 140 years before, “two ascetics, an Arab named Syed Rahman and a Chinese named Yam”, travelled to Kusu to meditate. “The two hermits paid other visits to the island, and then died on it”, although Pak Besar, insisted they were still spiritually alive. “They just left the world,” he said. Later, the body of the Arab’s mother, Ghalib, and his daughter, Sharifah Fatimah, were brought there for burial and shrines were erected over their graves.
 
 Ghalib is an Arabic name usually used for men; the mother’s name on Kusu is perhaps an echo of the Malay ghaib, which means “something hidden or unseen”. The earlier spelling of Naik Ralip is likely a transliteration of Nek Ghalib from an oral source, suggesting the names were not written on the tombs. The sister of the dato had also become his daughter instead.  
 
@@ -68,7 +68,7 @@ A 1979 New Nation article reports a visit to the “Kramat Datuk Khong” that c
 
 Photographs from this period also show that other than cosmetic changes, the shrine looked much as it did until the fire in 2022.
 
-Fire and Reconstruction
+#### **Fire and Reconstruction**
 
 The pilgrimages to Kusu continued unabated over the decades and a routine had been established. Pilgrims would first visit the Tua Pek Kong Temple to seek blessings, before climbing the steps to the keramat on the top of the hill. There are several waypoints within the keramat, and numbers have been printed and pasted at the different spots so that devotees would know the order in which to visit the different stations. 
 
