@@ -2,4 +2,5 @@ collections:
   jul-to-sep-2013:
     output: true
     order:
+      - Libraries for Life.md
       - Director's Column.md
