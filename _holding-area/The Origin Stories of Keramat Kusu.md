@@ -7,8 +7,8 @@ description: Pilgrimages to the keramat on Kusu Island have been going on since
 #### Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
 By William L. Gibson
 
-![](/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg)
-<div style="background-color: white;"> The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png)
+<div style="background-color: white;"> The entrance to the shrine of Dato Syed Abdul Rahman before the fire, 2022. <i>Courtesy of William Gibson.</i>
 </div>
 
 In April 2022, a catastrophic fire engulfed the *keramat* (shrine) on the top of a hill on Kusu Island, off the southern coast of Singapore. Media coverage of the event showed the near-total destruction of the *keramat*.[^1]
