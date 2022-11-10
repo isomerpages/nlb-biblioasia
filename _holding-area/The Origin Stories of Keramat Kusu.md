@@ -81,6 +81,9 @@ In 1952, an article in the *Straits Times Annual* notes that the dato was “sup
 
 A 1973 article in *Asia Magazine* adds a new, important twist to the origin story, based on an interview with the then caretaker of the shrines, Pak Besar. The man told the magazine’s reporter a variation of the tale of the Malay and Chinese fishermen that 140 years before, “two ascetics, an Arab named Syed Rahman and a Chinese named Yam”, travelled to Kusu to meditate. “The two hermits paid other visits to the island, and then died on it”, although Pak Besar, insisted they were still spiritually alive. “They just left the world,” he said. Later, the body of the Arab’s mother, Ghalib, and his daughter, Sharifah Fatimah, were brought there for burial and shrines were erected over their graves.[^16]
 
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image8.png)
+<div style="background-color: white;">The sign above the grave of Sharifah Fatimah indicates she is the daughter of Dato Syed Abdul Rahman but also uses the phrase “datuk nenek”, which indicates a female ancestor spirit. Similar signage appeared above the grave of Nenek Ghalib, his mother. <i>Courtesy of William L. Gibson.</i></div>
+
 Ghalib is an Arabic name usually used for men; the mother’s name on Kusu is perhaps an echo of the Malay *ghaib*, which means “something hidden or unseen”. The earlier spelling of Naik Ralip is likely a transliteration of Nek Ghalib from an oral source, suggesting the names were not written on the tombs. The sister of the *dato* had also become his daughter instead.  
 
 Photographs from this period show the formerly white-washed walls painted dark green – a traditional *keramat* color. Only later were they painted bright yellow, the colour of *datuk kong* shrines in Singapore (in Peninsular Malaysia, they are often red).
