@@ -112,6 +112,9 @@ A month after the conflagration, it was announced that the *keramat* would be re
 
 I returned to the site in November 2022. It had been rebuilt in time for the Ninth Month celebrations, but it was still not complete. A temporary marquee had been erected to provide shade and burned debris still littered the hillside beneath the shrines. The shrines were reconstructed in almost exact replicas with some of the original material, such as the concrete altars, left intact.
 
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image11.png)
+<div style="background-color: white;">The entrance to the stairs leading up to the <i>keramat</i>, 2022. <i>Courtesy of William L. Gibson.</i></div>
+
 Unfortunately, the 1917 dedication plaques were badly damaged and poorly restored.  However, by burning off decades worth of accumulated jerry-built material, the catastrophe revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in *datuk* nature shrines. More intriguingly, a worn *batu nisan* (gravestone) placed before one of these mounds is inscribed with a Jawi phrase that mirrors the 1917 plaque. The phrase “Datuk Nenek” is legible, which suggests that a shrine-grave was erected here during the 1917–1921 renovations in honour of the female *datuk* of Kusu Island. During my visit, several worshippers passed through, marking their devotion with prayers and incense as the sea glittered below.
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image13.png)
