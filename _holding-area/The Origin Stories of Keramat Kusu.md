@@ -47,6 +47,11 @@ The *keramat* was especially popular with couples seeking to have children and f
 
 More early details about the pilgrims who visited Kusu come courtesy of a report dated 16 October 1894 in the Baba Malay newspaper *Bintang Timor*. It reads: “*Smalam dan hari Anam, banyak umbok umbok, bab baba dan orang Melayu dan segala bangsa ada pergi Koosoo bayar niat. Dia orang kata ini kramat ada banyak betol, dan dia slalu kasi apa dia orang minta.*[^8]” [“Yesterday and on Saturday, many Peranakan women (*umbok*) and men (*baba*), Malays and people of all races went to Kusu to offer *niat* (supplication). People say that the *keramat* is honest and true and will give you what you ask for.”] 
 
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image4.png)
+<div style="background-color: white;">A Chinese couple at the shrine of Dato Syed Abdul Rahman, 1990. They are standing at the same spot as the group in the c.1930 photograph on page XX. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. 
+</i>
+</div>
+
 The keramat was enlarged in the early 20th century. There are two plaques on the site, one in Baba Malay and Jawi dated 1917 and the other in Hokkien Chinese dated 1921. The Baba Malay plaque is dedicated to “Dato Nenek Kusu” and was emplaced by Baba Hoe Beng Whatt, a Peranakan (Straits Chinese). It includes a list of Baba Chinese who donated money to erect the shrine. The 1921 plaque also bears the names of donors to the shrines, many of whom were the same people who had donated earlier. The text on the plaque mentions that the “old fairy of Kusu Island” (龟屿老仙女) visited Hoe’s house with a child. The second plaque indicates that the shrine was expanded again in 1921.
 
 <div style="margin: 20px"> <b>Fishermen’s Friends</b><br>
