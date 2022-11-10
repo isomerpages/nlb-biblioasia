@@ -35,6 +35,10 @@ In the letter, Cheang petitioned for a title to the island. He wrote that the is
 
 Cheang’s letter refers to the practice of people visiting the temple and shrine on Kusu. The island was – and still is – thronged by pilgrims for the Double Ninth, or Chongyang Festival (observed on the ninth day of the ninth lunar month), during which it is customary to venerate graves of ancestors and to climb a high mountain.[^6] It is likely that the rocky peak of the island jutting out of the water was a place to perform Chongyang rituals: both Tua Pek Kong (literally “Grand Uncle”, a deity unique to Malaya) and a local *datuk* spirit of the island would be treated as ancestors to be propitiated. (It is not unusual to find Tua Pek Kong temples and *datuk keramat* shrines close to one another.[^7]) 
 
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image5.png)
+<div style="background-color: white;">A Chinese woman hangs stones from a tree beside the keramat. Note the numerous joss sticks in the ground at the base of the tree and the white-washed columns of the shrine. <i>Image reproduced from A.J. Anthony, “A Picnic… With the Harbour Gods,” Straits Times Annual, 1 January 1952, 26–27. (From NewspaperSG).</i>
+</div>
+
 The *keramat* was especially popular with couples seeking to have children and for prognosticating winning lottery numbers and it received visitors year-round. 
 
 More early details about the pilgrims who visited Kusu come courtesy of a report dated 16 October 1894 in the Baba Malay newspaper *Bintang Timor*. It reads: “*Smalam dan hari Anam, banyak umbok umbok, bab baba dan orang Melayu dan segala bangsa ada pergi Koosoo bayar niat. Dia orang kata ini kramat ada banyak betol, dan dia slalu kasi apa dia orang minta.*[^8]” [“Yesterday and on Saturday, many Peranakan women (*umbok*) and men (*baba*), Malays and people of all races went to Kusu to offer *niat* (supplication). People say that the *keramat* is honest and true and will give you what you ask for.”] 
