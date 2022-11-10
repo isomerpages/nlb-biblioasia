@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2013:
     output: true
     order:
+      - "Into the Melting Pot: Food As Culture.md"
       - Director Note Oct to Dec 2013.md
       - Communal Feeding in Postwar Singapore.md
       - "Hawkers: From Public Nuisance to National Icons.md"
