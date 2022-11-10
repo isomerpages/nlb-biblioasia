@@ -85,7 +85,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
-	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is the founder of Antāti, a historical research and museum consultancy.</div>
+	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of keramat in Singapore. His book Alfred Raquez and the French Experience of the Far East, 1898–1906 (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in Signal to Noise, PopMatters.com, The Mekong Review, Archipel, History and Anthropology, the Bulletin de l’École française d’Extrême-Orient and BiblioAsia, among others.</div>
 
 #### **NOTES**
 
