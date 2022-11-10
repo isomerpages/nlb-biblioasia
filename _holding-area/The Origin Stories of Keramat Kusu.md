@@ -27,6 +27,10 @@ Remarkably, there is evidence that the Tua Pek Kong Temple and the *keramat* hav
 
 In the letter, Cheang petitioned for a title to the island. He wrote that the island had “for upwards of thirty years [c.1845] been used by many of the Chinese and native inhabitants of this Settlement as a place for them to resort to at certain periods every year for the purpose of making sacrifices and paying their vows to certain deities there called ‘Twa Pek Kong Koosoo’ and ‘Datok Kramat’, and as that place has lately, to the great prejudice of their feelings, been desecrated by the interment therein of a number of dead bodies”.[^5] In the end, Cheng did not receive the land title but he did get a promise that quarantine burials would cease. 
 
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image3.png)
+<div style="background-color: white;">The Malay caretaker placing offerings from devotees at Dato Syed Abdul Rahman’s shrine, 1970. <i>Image reproduced from Goh Tuck Chiang, “Picnic With the Harbour Gods,” Straits Times Annual, 1 January 1970, 66–67. (From NewspaperSG).</i>
+</div>
+
 *Datuk keramat* (sometimes spelled as *dato*) are spirits who dwell within natural objects like trees, rocks, termite mounds and whirlpools. Also known as *datuk kong* (拿督公), these ancestor spirits of the landscape are often represented by icons that resemble older Malay men. (Datuk is the Malay word for grandfather and is also a generalised honorific for an elder male, while *kong* is the Hokkien word for grandfather.)
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image2.png)
