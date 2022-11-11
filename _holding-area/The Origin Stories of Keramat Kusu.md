@@ -124,7 +124,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image13.png)
 <div style="background-color: white;">The fire revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in <i>datuk</i> nature shrines. <i>Courtesy of William L. Gibson.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author thanks Hikari D. Azyure and the Urban Explorers of Singapore. To see more photos of Keramat Kusu, including photos of what it looks like after the fire, go to the online version at biblioasia.nlb.gov.sg or scan this QR code.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author thanks Hikari D. Azyure and the Urban Explorers of Singapore. </div>
 
 <div style="background-color: white;">
 <br/>
