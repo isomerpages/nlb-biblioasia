@@ -119,8 +119,7 @@ World Economic Forum. (2012). “The Global Information Technology Report 2012�
 
 #### **NOTES**
    
-
-[^1]: OECD, “Science and Technology Policy: The knowledge-based economy.”
+ [^1]: OECD, “Science and Technology Policy: The knowledge-based economy.”
 
 [^2]: World Economic Forum, “The Global Information Technology Report 2012.”
 
@@ -130,6 +129,16 @@ World Economic Forum. (2012). “The Global Information Technology Report 2012�
 
 [^5]: IFLA, 2013.
 
-[^6] IFLA WILC, 2013.
+[^6]: IFLA WILC, 2013.
 
 [^7]: IFLA, 2013, “Trend Report”.
+
+
+
+
+
+
+
+
+
+
