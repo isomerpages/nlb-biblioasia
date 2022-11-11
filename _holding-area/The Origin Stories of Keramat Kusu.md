@@ -95,7 +95,7 @@ Photographs from this period show the formerly white-washed walls painted dark g
 In the 1970s, Kusu, along with the other Southern Islands, came under the management of the Sentosa Development Corporation which had been set up, as the name implies, to develop what was then Pulau Blakang Mati and adjacent islands into the resort destination of Sentosa. 
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image9.png)
-<div style="background-color: white;">View of the Tua Pek Kong Temple from the keramat at the top of the hill, 1969. This was before reclamation works in the 1970s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">View of the Tua Pek Kong Temple from the <i>keramat</i> at the top of the hill, 1969. This was before reclamation works in the 1970s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Land reclamation enlarged Kusu from 1.2 hectares (12,000 sq m) to 8.5 hectares (85,000 sq m) at a cost of around $3.9 million. The development work included the construction of a new jetty, water supply system, modern toilet facilities and footpaths. The *keramat* and temple were preserved as tourist attractions, and major renovation works carried out at both in 1976 included concreting and adding guardrails to the steps up to the *keramat*.[^17] The new changes may have altered the original shape of the island, but they proved popular with visitors.[^18] 
 
