@@ -4,13 +4,12 @@ permalink: /vol-9/issue-2/jul-sep-2013/libraries-transform-societies/
 description: More than just repositories of knowledge, libraries are spaces of
   innovation and collaboration with the power to change society.
 ---
-
 #### More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.
 
 
 <img style="width: 50%;"
 src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
-<div style="background-color: white;"> </div
+<div style="background-color: white;"> </div> 
 	
 	
 We live in times of unprecedented and rapid change — in technology, politics, economics and other spheres — which has profoundly impacted all aspects of society, including libraries.
