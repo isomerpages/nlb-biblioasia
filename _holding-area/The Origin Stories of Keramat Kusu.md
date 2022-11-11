@@ -129,7 +129,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%204/Authors/William_Gibson.png" style="width: 100px; height: 100px;"/>
-	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of keramat in Singapore. His book Alfred Raquez and the French Experience of the Far East, 1898–1906 (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in Signal to Noise, PopMatters.com, The Mekong Review, Archipel, History and Anthropology, the Bulletin de l’École française d’Extrême-Orient and BiblioAsia, among others.</div>
+	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of <i>keramat</i> in Singapore. His book <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review, Archipel, History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.</div>
 
 #### **NOTES**
 
