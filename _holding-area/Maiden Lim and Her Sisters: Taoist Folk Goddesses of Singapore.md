@@ -124,7 +124,7 @@ Lin Guniang, Lei Niangniang and Huang Guniang have not, in my opinion, been acco
 
 Nevertheless, their existence remains an inspiration. They serve as proof that Singapore is not merely a meeting place for spiritual cultures, but a site for their creation. This is not a disenchanted island. This is a city where goddesses are born.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Besides the many individuals cited in the text and captions, I am also indebted to heritage activist Choo Lip Sin, who personally aided me with research and translation for this essay. For more photos related to these three local Taoist goddesses, check out the online version of the article at biblioasia.nlb.gov.sg or scan this QR code.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Besides the many individuals cited in the text and captions, I am also indebted to heritage activist Choo Lip Sin, who personally aided me with research and translation for this essay. </div>
 
 <div style="background-color: white;"> 
 <br/>
