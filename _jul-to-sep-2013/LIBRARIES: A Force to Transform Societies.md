@@ -45,6 +45,13 @@ But no amount of technology can replace what libraries have always done—connec
 	
 One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of books, paintings, films, museum objects and archival records that have been digitised throughout Europe.
 
+
+<img style="width: 650px; height: 420px;"
+src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/digitising.jpg">
+<div style="background-color: white;"> 
+A UBC library staff digitising a book. <i>Image by Don Erhardt.</i></div>
+	
+
 Europeana is a great example of what can happen when organisations collaborate. There are more than 2,000 organisations participating in the initiative, ranging from small cultural institutions to large national aggregators, from data providers to technology firms. There are numerous other examples of collaboration that we could point to — such as the Internet Archive, the Confederation of Open Access Repositories and the World Newspaper Archive. In Asia, a similar collaborative digitisation project with various national libraries is also underway. The recently launched National Digital Public Library of America is another example.
 	
 This greater access to information creates a borderless society, one which moves beyond the physical walls of a library and other organisations to develop stronger ties with user communities.
@@ -100,8 +107,7 @@ OECD. (2013). “The knowledge-based economy”. Retrieved from OECD org.
 World Economic Forum. (2012). “The Global Information Technology Report 2012”. Retrieved from weforum. org. 
 
 #### **NOTES**
-
-	    
+   
 
 [^1]: OECD, “Science and Technology Policy: The knowledge-based economy.”
 
@@ -119,4 +125,14 @@ World Economic Forum. (2012). “The Global Information Technology Report 2012�
 	
 	
 	
-</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
