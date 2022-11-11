@@ -7,7 +7,7 @@ description: More than just repositories of knowledge, libraries are spaces of
 #### More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.
 
 
-<img style="width: 50%;"
+<img style="width: 80%;"
 src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
 <div style="background-color: white;"> </div> 
 	
@@ -46,7 +46,7 @@ But no amount of technology can replace what libraries have always done—connec
 One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of books, paintings, films, museum objects and archival records that have been digitised throughout Europe.
 
 
-<img style="width: 650px; height: 420px;"
+<img style="width: 850px; height: 420px;"
 src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/digitising.jpg">
 <div style="background-color: white;"> 
 A UBC library staff digitising a book. <i>Image by Don Erhardt.</i></div>
@@ -81,7 +81,7 @@ Access to industry research and studies help build the capacity of the associati
 
 
 
-<img style="width: 650px; height: 420px;"
+<img style="width: 850px; height: 420px;"
 src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/Global%20Networks.jpg">
 <div style="background-color: white;"> 
 Global networks are rapidly shrinking the world. <i>Image via iStock.</i></div>
@@ -100,6 +100,13 @@ For its part, IFLA will continue to work strategically at the international leve
 Change can be difficult. It challenges our traditional assumptions and practices. But change can also be very exciting, as it offers opportunities to redefine our roles in society and reinvent who we are and what we offer.
 	
 As my IFLA presidency comes to an end, I believe there is a very positive future for libraries as they adapt to the changes around them and become more resilient and integrated into their environments. By being proactive and not remaining complacent, libraries can indeed be a force for change. For those who are attending the conference in Singapore this August, I look forward to continuing this discussion. The conference is a wonderful opportunity for more than 3,000 global members to hear from leading experts on topics that matter to you. There will be many stimulating conversations and ideas to explore with each other. On behalf of IFLA, I look forward to meeting you in Singapore. 
+
+
+<div>
+<b>Dr Ingrid Parent</b> is the president of IFLA and the University Librarian at the University of British Columbia, Canada. She was the directorgeneral of Acquisitions and Bibliographic Services at the former National Library of Canada and the assistant deputy minister for documentary heritage at Library and Archives Canada.</div>
+
+	
+	
 	
 #### **REFERENCES**
 
@@ -132,13 +139,3 @@ World Economic Forum. (2012). “The Global Information Technology Report 2012�
 [^6]: IFLA WILC, 2013.
 
 [^7]: IFLA, 2013, “Trend Report”.
-
-
-
-
-
-
-
-
-
-
