@@ -177,14 +177,16 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^22]: Xiao Jiahui 萧佳慧 and Pan Wanli潘万莉, “Sheishi Huang Guniang? Jumin jiemituan,” 谁是黄姑娘? 居民揭谜团 [Who is Miss Huang? Residents reveal the mystery], *Xinmin Ribao* 新民日报, 7 September 2017, 4. 
 
-[^23]: Wu, “Introduction on Nanyang Huang Gu Niang.”
+[^23]: 萧佳慧 and 潘万莉, 谁是黄姑娘? 居民揭谜团 \[Who is Miss Huang? Residents reveal the mystery\].
 
-[^24]: Melody Zaccheus, “Old Graves, Shrine to Make Way for SGH Redevelopment,” *Straits Times*, 6 September 2017, https://www.straitstimes.com/singapore/environment/old-graves-shrine-to-make-way-for-sgh-redevelopment.
+[^24]: Wu, “Introduction on Nanyang Huang Gu Niang.”
 
-[^25]: Victor Yue, Facebook direct message, 30 July 2022.
+[^25]: Melody Zaccheus, “Old Graves, Shrine to Make Way for SGH Redevelopment,” *Straits Times*, 6 September 2017, https://www.straitstimes.com/singapore/environment/old-graves-shrine-to-make-way-for-sgh-redevelopment.
 
-[^26]: Such analysis, I believe, is more important than determining the factuality of legends. Though I have spoken of the three goddesses as if they are historical figures, I have uncovered no concrete evidence of their lives as mortal women. It is, I concede, entirely possible that they never walked the earth. If true, this does not diminish their power. As goddesses, they operate on a spiritual plane that transcends human logic.
+[^26]: Victor Yue, Facebook direct message, 30 July 2022.
 
-[^27]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” *Archiv Orientalni* 85, no. 3 (2017): 439–60, 490. https://aror.orient.cas.cz/index.php/ArOr/article/view/154. 
+[^27]: Such analysis, I believe, is more important than determining the factuality of legends. Though I have spoken of the three goddesses as if they are historical figures, I have uncovered no concrete evidence of their lives as mortal women. It is, I concede, entirely possible that they never walked the earth. If true, this does not diminish their power. As goddesses, they operate on a spiritual plane that transcends human logic.
 
-[^28]: “Taoism Singapore,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/taoismsingapore.
+[^28]: Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” *Archiv Orientalni* 85, no. 3 (2017): 439–60, 490. https://aror.orient.cas.cz/index.php/ArOr/article/view/154. 
+
+[^29]: “Taoism Singapore,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/taoismsingapore.
