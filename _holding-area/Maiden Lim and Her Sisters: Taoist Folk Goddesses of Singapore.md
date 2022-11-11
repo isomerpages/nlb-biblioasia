@@ -85,9 +85,6 @@ Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden 
 
 The details of Huang Guniang’s legend are unusually precise. On his website, the Taoist priest Jave Wu states that she was born in 1866, on the 12th day of the sixth lunar month, in the village of Gu Ah Sua (龟仔山), later known as Kampong Silat. Her name was Huang Su Ying (黃素英, pronounced Ng Shor Eng in Hokkien and Wong Sok Eng in Cantonese). As her family was poor, she worked with her mother as a laundress from a young age.[^19]
 
-![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image7.png)
-<div style="background-color: white;"> Huang Guniang’s former tablet (left) and shrine (right) erected beneath a tree in the compound of the Singapore General Hospital. The shrine was cleared in 2017. <i>Courtesy of Victor Yue.</i></div>
-
 In 1879, Huang Guniang began doing laundry with her paternal aunt at the Kandang Kerbau Hospital. In 1882, they moved to SGH, which had just shifted to its current location on Outram Road. One day, a doctor suggested that she train to be a nurse. She qualified in 1900 and began caring for patients and assisting in the pharmacy.[^20]
 
 Sadly, death came for her the very next year, just before the Qingming Festival. A fire broke out one night at a kampong near her home. “Maiden Ng did not hesitate to volunteer herself at the fire site to assist the injured,” Wu says. “With a dash, she ran to the fire site… trying her best to save as many villagers as possible.” However, while attempting to rescue an old lady, the house she was in collapsed. Her body was never recovered.[^21]
@@ -99,6 +96,9 @@ As a child, Liu had witnessed the worship of Huang Guniang in Heng San Teng (恒
 Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to the goddess was erected beneath a tree on Hospital Drive, within the SGH compound. It was a humble affair, consisting of a simple, red boxed altar where devotees had placed offerings of joss sticks, food and cosmetics before her tablet. Nevertheless, patients flocked to the site, desperately praying to her for good health.
 
 “If on that very night after the honouring, the patient dream[s] of a big white spider or [a] spider with long legs, the chances of getting his illness cured will be high,” Wu notes. He adds that her presence brought an end to traffic accidents along Hospital Drive and the opposite road, and that visitors would occasionally catch a glimpse of her spirit at the junction near her shrine and her former temple.[^24]
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image7.png)
+<div style="background-color: white;"> Huang Guniang’s former tablet (left) and shrine (right) erected beneath a tree in the compound of the Singapore General Hospital. The shrine was cleared in 2017. <i>Courtesy of Victor Yue.</i></div>
 
 Alas, all this good work could not save Huang Guniang’s altar. In 2017, because of SGH’s plans for redevelopment and expansion, her shrine was cleared from its original site.[^25] According to Victor Yue, creator of the “Story of Ng Kor Niu 黄姑娘” Facebook group, the contractor engaged a Taoist priest to administer the shift.[^26] A huge paper mansion was also burnt for her as part of a ceremony to invite her to Wat Ananda Metyarama. 
 
