@@ -107,17 +107,17 @@ Photographs from this period also show that other than cosmetic changes, the shr
 
 The pilgrimages to Kusu continued unabated over the decades and a routine had been established. Pilgrims would first visit the Tua Pek Kong Temple to seek blessings, before climbing the steps to the *keramat* on the top of the hill. There are several waypoints within the *keramat*, and numbers have been printed and pasted at the different spots so that devotees would know the order in which to visit the different stations. 
 
-The blaze on 17 April 2022, however, threatened to put an end to the rituals. The fire broke out on a Sunday evening, at about 6.20 pm, and was eventually put out by firefighters after about an hour, aided by heavy rain. While no lives were lost, the *keramat* was almost completely destroyed. The fire’s cause was not determined, but lit candles and incense are often left unattended there.
-
-A month after the conflagration, it was announced that the *keramat* would be rebuilt at a cost of hundreds of thousands of dollars, in time for the Double Ninth Festival.[^20]  In early September 2022, the *Straits Times* quoted the shrine’s caretaker, Ishak Samsudin, as saying that the *keramat* was about 70 percent rebuilt by then, and would “likely be ready” in time for the pilgrimage season at the end of September. Ishak told the newspaper that he had financed the reconstruction with donations from friends and companies.[^21] 
-
-I returned to the site in November 2022. It had been rebuilt in time for the Ninth Month celebrations, but it was still not complete. A temporary marquee had been erected to provide shade and burned debris still littered the hillside beneath the shrines. The shrines were reconstructed in almost exact replicas with some of the original material, such as the concrete altars, left intact.
-
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image11.png)
 <div style="background-color: white;">The entrance to the stairs leading up to the <i>keramat</i>, 2022. <i>Courtesy of William L. Gibson.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image12.png)
 <div style="background-color: white;">Lottery numbers are scrawled over the painted rocks at the entrance to the <i>keramat</i> at the top of the stairs, 2022. <i>Courtesy of William L. Gibson. </i></div>
+
+The blaze on 17 April 2022, however, threatened to put an end to the rituals. The fire broke out on a Sunday evening, at about 6.20 pm, and was eventually put out by firefighters after about an hour, aided by heavy rain. While no lives were lost, the *keramat* was almost completely destroyed. The fire’s cause was not determined, but lit candles and incense are often left unattended there.
+
+A month after the conflagration, it was announced that the *keramat* would be rebuilt at a cost of hundreds of thousands of dollars, in time for the Double Ninth Festival.[^20]  In early September 2022, the *Straits Times* quoted the shrine’s caretaker, Ishak Samsudin, as saying that the *keramat* was about 70 percent rebuilt by then, and would “likely be ready” in time for the pilgrimage season at the end of September. Ishak told the newspaper that he had financed the reconstruction with donations from friends and companies.[^21] 
+
+I returned to the site in November 2022. It had been rebuilt in time for the Ninth Month celebrations, but it was still not complete. A temporary marquee had been erected to provide shade and burned debris still littered the hillside beneath the shrines. The shrines were reconstructed in almost exact replicas with some of the original material, such as the concrete altars, left intact.
 
 Unfortunately, the 1917 dedication plaques were badly damaged and poorly restored.  However, by burning off decades worth of accumulated jerry-built material, the catastrophe revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in *datuk* nature shrines. More intriguingly, a worn *batu nisan* (gravestone) placed before one of these mounds is inscribed with a Jawi phrase that mirrors the 1917 plaque. The phrase “Datuk Nenek” is legible, which suggests that a shrine-grave was erected here during the 1917–1921 renovations in honour of the female *datuk* of Kusu Island. During my visit, several worshippers passed through, marking their devotion with prayers and incense as the sea glittered below.
 
