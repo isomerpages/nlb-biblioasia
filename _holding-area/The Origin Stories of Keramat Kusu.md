@@ -133,13 +133,13 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 #### **NOTES**
 
-[^1]: Kok Yufeng, “Loud Explosion Heard as Fire Breaks Out Near Malay Shrines on Kusu Island Hilltop,” Straits Times, 18 April 2022, https://www.straitstimes.com/singapore/loud-explosion-heard-as-fire-breaks-out-near-malay-shrines-on-kusu-island-hilltop; Ng Wei Kai, “Firefighters Had to Scale 152 Steps and Link 18 Lengths of Hoses to Fight Kusu Island Fire,” *Straits Times*, 3 May 2022, https://www.straitstimes.com/singapore/firefighters-had-to-scale-152-steps-and-link-18-lengths-of-hoses-to-fight-kusu-island-fire.
+[^1]: Kok Yufeng, “Loud Explosion Heard as Fire Breaks Out Near Malay Shrines on Kusu Island Hilltop,” *Straits Times*, 18 April 2022, https://www.straitstimes.com/singapore/loud-explosion-heard-as-fire-breaks-out-near-malay-shrines-on-kusu-island-hilltop; Ng Wei Kai, “Firefighters Had to Scale 152 Steps and Link 18 Lengths of Hoses to Fight Kusu Island Fire,” *Straits Times*, 3 May 2022, https://www.straitstimes.com/singapore/firefighters-had-to-scale-152-steps-and-link-18-lengths-of-hoses-to-fight-kusu-island-fire.
 
 [^2]: “[Variorum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18770630-1.2.6.4),” *Singapore Daily Times*, 30 June 1877, 2. (From NewspaperSG)
 
 [^3]: E.H., “[The Cemetery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18731119-1.2.19),” *Straits Times Overland Journal*, 19 November 1873, 6. See also “[The Straits Observer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18750325-1.2.3),” *Straits Observer* (Singapore), 25 March 1875, 2. (From NewspaperSG)
 
-[^4]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3),” *Straits Times*, 14 August 1875, 2. (From NewspaperSG). See also Song Ong Siang, [One Hundred Years’ History of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: Murray, 1923), 179. (From BookSG)
+[^4]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3),” *Straits Times*, 14 August 1875, 2. (From NewspaperSG). See also Song Ong Siang, [*One Hundred Years’ History of the Chinese in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: Murray, 1923), 179. (From BookSG)
 
 [^5]: “[Wednesday, 11th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750814-1.2.12.3).”
 
