@@ -5,4 +5,3 @@ description: More than just repositories of knowledge, libraries are spaces of
   innovation and collaboration with the power to change society.
 ---
 #### More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.
-
