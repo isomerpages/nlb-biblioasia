@@ -3,13 +3,27 @@ title: Repairing and Restoring Singapore’s Reel Heritage
 permalink: /holding-area/test5/
 description: The Asian Film Archive has been restoring old classics since 2014.
 ---
+#### The Asian Film Archive has been restoring old classics since 2014.
+By Chew Tee Pao
+
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png)
+<div style="background-color: white;"> The entrance to the shrine of Dato Syed Abdul Rahman before the fire, 2022. <i>Courtesy of William Gibson.</i>
+</div>
+
 Wong Kar Wai’s In the Mood for Love (2000). David Lean’s Lawrence of Arabia (1962). Charlie Chaplin’s Modern Times (1936). Satyajit Ray’s Pather Panchali (1955). These are just a handful of canonical works by the auteurs of world cinema that have been digitally restored in the last 10 years.
+
 In 2012, the World Cinema Project and the National Museum of Singapore restored the Indonesian film Lewat Djam Malam (1954, Usmar Ismail). This project marked a major milestone for the restoration of Southeast Asian films with international support. In the ensuing years, films like Mee Pok Man (1995, Singapore), Manila in the Claws of Light (1982, Philippines), Mukhsin (2006, Malaysia), Tiga Dara (1957, Indonesia) and Santi-Vina (1954, Thailand) have been restored by both private and public archival institutions.
+
 These movies were made using cellulose acetate-based film, a transparent plastic film used by photographers and filmmakers. The filmed materials were processed as picture and sound negatives that enabled copies of 35 mm theatrical prints to be produced for the cinemas. 
+
 However, film degrades over time. The condition of both cellulose nitrate and cellulose acetate material is highly dependent on temperature and relative humidity. Storing film materials at room temperature or warmer, and coupled with high humidity, will inevitably cause chemical decay in the base and emulsion of the film material. 
+
 In Southeast Asia’s tropical climate, the degradation resulting in the colour, image and sound loss of the material can occur easily with the lethal combination of humidity and heat. Problems such as “vinegar syndrome” cause films to become brittle, shrink and emit an acidic odour. In addition, the warm environment is a perfect breeding ground for the growth of mould, mildew and fungus. Improper handling and transportation of the material have also resulted in mechanical damage such as torn splices and broken perforations.
-Breathing New Life into Classic Films
+
+#### **Breathing New Life into Classic Films**
+
 For films that are in poor condition and at risk of being lost completely due to deterioration, restoration is the most immediate intervention to salvage the film.
+
 While “preserved” and “restored” are often used interchangeably in stories about rereleased and restored classic films, the terms are not synonymous. Veteran film archivist Ray Edmondson describes preservation as “practices and procedures necessary to ensure continued access, with minimum loss of quality, to the visual or audio content or other essential attributes of the films. This includes surveillance, handling, storage environments and methods”.
 
 Film restoration, on the other hand, is a highly specialised process consisting of different stages that involves digitising, duplicating and reconstructing a specific version of a film by piecing together surviving source materials, and using digital restoration tools “to identify and thoughtfully remediate damage and deterioration suffered by the original material and to return the appearance of a film to a state closer to what it would have been when it was first created”. 
@@ -52,4 +66,3 @@ The first Malay classic film that I encountered when I started work at AFA was S
 In 2017, the AFA discovered that the surviving print had been left with L’Immagine Ritrovata by the National Museum of Singapore in 2014. We looked into the feasibility of restoring the print, but the vinegar syndrome and degradation of the prints had already reached a fatal and unsalvageable stage.
 Of the seven 35 mm reels, only the last reel could be salvaged. It took 10 weeks, using two different chemical treatments, to be able to uncoil the sticky reel. A large portion of the images had disintegrated and without additional sources of film elements, the film could not be restored. 
 The eventual digitisation of the last eight minutes, despite the hissing and shaking staticky images, provide a glimpse of how this beloved film could have looked and sounded on the big screen. The loss of this gem highlights the urgency of preserving what we can of our cinematic heritage while it is still possible.
-
