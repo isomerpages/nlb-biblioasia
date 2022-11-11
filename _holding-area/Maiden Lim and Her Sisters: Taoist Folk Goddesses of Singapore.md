@@ -18,9 +18,6 @@ The goddess was well-known in the neighbourhood. Residents referred to the lower
 
 This is a shame. Lin Guniang – also known as Hongshan Lin Guniang (红山林姑娘), or Maiden Lim of Redhill – is an example of a uniquely Singaporean Taoist folk goddess. Her legends and ritual traditions began not in China, Hong Kong or Taiwan, but on this very island.
 
-![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image2.png)
-<div style="background-color: white;"> Lin Guniang and Lei Niangniang are honoured with their names on the paper lanterns of Zhen Long Gong, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
-
 The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for *BiblioAsia*.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods & Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
 
 In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.[^6]
@@ -28,6 +25,9 @@ In this essay, we will look at three homegrown goddesses, all based in the heart
 #### **The Legends of Maiden Lim, the Mysteries of Maiden Lei**
 
 Hidden in the neighbourhood of Bukit Merah, between Gan Eng Seng Primary School and a forest of condemned seven-storey SIT (Singapore Improvement Trust) flats, you will find the dragon arch of Zhen Long Gong (Chin Leng Keng; 真龙宫).[^7] Remove your shoes and ascend the steps to the main hall, still gleaming from its 2022 renovations. Here, you will find the faithful paying their respects to dozens of Taoist and Mahayana Buddhist divinities: the bodhisattva Guanyin (Goddess of Mercy; 观音), the god of war Guan Gong (关公), the monkey king Sun Wukong (孙悟空), the medicine deity Baosheng Dadi (保生大帝), the god of grains Wugu Dadi (五谷大帝), and the tiger spirit Huye (虎爷), to name a few. 
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png)
+<div style="background-color: white;"> Zhen Long Gong after its renovation, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 Here, worshippers also bow before Lin Guniang. Her statue is swaddled in a glittering multicoloured cape, fastened around her throat with a red ribbon. Beneath the fabric, she is garlanded with beads. Ritual offerings lie on her altar: boxed cosmetics, lipsticks and perfumes. Paper lanterns hang outside the temple doors, marked with her name. Each year, on the 15th day of the seventh lunar month, a small festival is held in her honour. 
 
@@ -62,10 +62,10 @@ The temple committee was happy to comply. But where would they house the goddess
 
 A solution came from Baosheng Dadi, the patron deity of Zhen Ren Gong (Chin Lin Keng; 真人宫), one of Zhen Long Gong’s constituent temples. During a ceremony, his statue was placed on a palanquin, and his spirit possessed his palanquin bearers, enabling them to trace a divine message in a heap of ashes. In writing, he granted Lin Guniang permission to be worshipped within his temple. The very same palanquin was later used to transport her statue to Zhen Long Gong.
 
-![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png)
-<div style="background-color: white;"> Zhen Long Gong after its renovation, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
-
 Before we move on, return your gaze to the altar. To the right of Lin Guniang is the statue of yet another Singaporean folk goddess, named Lei Niangniang (Lui Niu Niu; 雷娘娘), or Maiden Lei. She, too, is honoured with her name on the temple’s paper lanterns, and a copper brazier is marked with the names of both goddesses, indicating their equal status. Below her stands a gift from a devotee: a framed rectangle piece of cloth, embroidered with her name and the date of her festival: the seventh day of the fourth lunar month.
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image2.png)
+<div style="background-color: white;"> Lin Guniang and Lei Niangniang are honoured with their names on the paper lanterns of Zhen Long Gong, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image5.png)
 <div style="background-color: white;"> The statute of Lei Niangniang on the formal altar of Zhen Long Gong after the renovation of the temple, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
