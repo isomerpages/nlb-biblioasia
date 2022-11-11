@@ -97,7 +97,7 @@ Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to
 
 “If on that very night after the honouring, the patient dream[s] of a big white spider or [a] spider with long legs, the chances of getting his illness cured will be high,” Wu notes. He adds that her presence brought an end to traffic accidents along Hospital Drive and the opposite road, and that visitors would occasionally catch a glimpse of her spirit at the junction near her shrine and her former temple.[^24]
 
-![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image7.png)
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image7_edit.png)
 <div style="background-color: white;"> Huang Guniang’s former tablet (left) and shrine (right) erected beneath a tree in the compound of the Singapore General Hospital. The shrine was cleared in 2017. <i>Courtesy of Victor Yue.</i></div>
 
 Alas, all this good work could not save Huang Guniang’s altar. In 2017, because of SGH’s plans for redevelopment and expansion, her shrine was cleared from its original site.[^25] According to Victor Yue, creator of the “Story of Ng Kor Niu 黄姑娘” Facebook group, the contractor engaged a Taoist priest to administer the shift.[^26] A huge paper mansion was also burnt for her as part of a ceremony to invite her to Wat Ananda Metyarama. 
