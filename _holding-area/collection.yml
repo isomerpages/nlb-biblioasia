@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Repairing and Restoring Singapore’s Reel Heritage.md
       - The Origin Stories of Keramat Kusu.md
       - "Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore.md"
       - Test page.md
