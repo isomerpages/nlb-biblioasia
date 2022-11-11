@@ -12,6 +12,7 @@ src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
 <div style="background-color: white;"> </div> 
 	
 	
+	
 We live in times of unprecedented and rapid change — in technology, politics, economics and other spheres — which has profoundly impacted all aspects of society, including libraries.
 	
 Because of the current transformative changes underway, and because of their impact on libraries, my theme as International Federation of Library Associations and Institutions (IFLA) President is *Libraries—A Force for Change*, which incorporates four key principles: inclusion, transformation, innovation and convergence.
@@ -30,11 +31,11 @@ These four key principles—inclusion, transformation, innovation and convergenc
 #### **Technology to Galvanise Change**
 	
 Today’s world is being transformed by a host of factors, many beyond our control. Certainly, the economic downturn over the past few years is one such factor that has affected developing and developed countries around the world. The downturn shows little sign of dissipating, and many nations are struggling to find solutions for the well-being of their citizens.
-In addition, over the past decade we have seen the rise of the “knowledge society”, where learning equals earning. Our economies are increasingly dependent on the ability of our citizens and institutions to innovate; indeed, the Organisation for Economic Co-operation and Development (OECD) has recognised “knowledge” as a major driver of productivity and economic growth. 1
+In addition, over the past decade we have seen the rise of the “knowledge society”, where learning equals earning. Our economies are increasingly dependent on the ability of our citizens and institutions to innovate; indeed, the Organisation for Economic Co-operation and Development (OECD) has recognised “knowledge” as a major driver of productivity and economic growth.[^1] 
 	
-Libraries can play a key role in the development of an informed and educated citizenry, and therefore, a knowledge society. The evolution of information and communication technologies has changed the way we provide and share knowledge.2 The potent combination of handheld mobile devices, wireless connectivity, powerful search engines and online communities has changed the world—not just in terms of information exchange and access, but of social interaction as well.
+Libraries can play a key role in the development of an informed and educated citizenry, and therefore, a knowledge society. The evolution of information and communication technologies has changed the way we provide and share knowledge.[^2] The potent combination of handheld mobile devices, wireless connectivity, powerful search engines and online communities has changed the world—not just in terms of information exchange and access, but of social interaction as well.
 	
-New technology is transforming the way we interact with our governments, institutions and each other. We need look no further than the recent rise to power of Italy’s Five Star Movement, led by Beppe Grillo.3 Using social media to criticise the political and economic policies of the government, Grillo’s party won almost 26 percent of the vote in Italy’s national elections in February, holding the balance of power. It is an increasingly common example of how technology can mobilise, influence and persuade civic actions. It is also an example of how we can change communities, 140 characters at a time.
+New technology is transforming the way we interact with our governments, institutions and each other. We need look no further than the recent rise to power of Italy’s Five Star Movement, led by Beppe Grillo.[^3] Using social media to criticise the political and economic policies of the government, Grillo’s party won almost 26 percent of the vote in Italy’s national elections in February, holding the balance of power. It is an increasingly common example of how technology can mobilise, influence and persuade civic actions. It is also an example of how we can change communities, 140 characters at a time.
 	
 No longer do we have a society where communications are controlled by a few, but rather are accessible to many. No longer do we have to chase information; information is chasing us. Instead of technology making libraries obsolete as some had predicted, technology has become a catalyst for transforming libraries into vital intellectual centres.
 	
@@ -58,17 +59,17 @@ We are not alone in offering these types of community services. For example, man
 	
 Globalisation has put pressure on governments to develop more cohesive and interrelated policies and regulatory environments worldwide. Increasingly, important policies that affect our local library services are being addressed, debated and enforced at the international level via bilateral and multilateral agreements.
 	
-A good example of this took place last September, when the UNESCO conference—“Memory of the World in the Digital Age: Digitization and Preservation”—took place in Vancouver, British Columbia. ifla participated in planning this conference, which featured public decision-makers, librarians, scholars and technology experts sharing their insights on digital preservation, records management, intellectual rights and much more. The conference culminated with a declaration of recommendations—a significant accomplishment.4 This was an instance where lobbying by special interest groups and collective efforts around international advocacy for library issues were absolutely critical.
+A good example of this took place last September, when the UNESCO conference—“Memory of the World in the Digital Age: Digitization and Preservation”—took place in Vancouver, British Columbia. ifla participated in planning this conference, which featured public decision-makers, librarians, scholars and technology experts sharing their insights on digital preservation, records management, intellectual rights and much more. The conference culminated with a declaration of recommendations—a significant accomplishment.[^4] This was an instance where lobbying by special interest groups and collective efforts around international advocacy for library issues were absolutely critical.
 	
 Another area in which IFLA has been very active in the past several years has involved copyright limitations and exceptions, most notably at the World Intellectual Property Organization (WIPO). The treaties adopted by WIPO define and guide the development of copyright laws in countries across the globe. Many countries are in the process of updating their copyright laws and look to WIPO for an appropriate framework.
 	
 IFLA has advocated strongly to gain support at WIPO and engage in discussions around the merits of copyright exceptions and limitations for libraries and archives. In November 2011, I was invited to speak on behalf of the world’s libraries at the WIPO Standing Committee on Copyright and Related Rights meeting. Library delegations have since participated in subsequent meetings of the Standing Committee, and other multilateral discussions have taken place this year with IFLA support and representation.
 	
-Additional global issues affecting IFLA members include the challenges and opportunities facing libraries around e-book lending. In March 2013, *The Economist* interviewed several IFLA members about e-lending principles for the licensing and purchasing of e-books that all libraries can use in their respective jurisdictions. These principles are available on the IFLA website5 (and undoubtedly the conversations around e-book lending will continue).
+Additional global issues affecting IFLA members include the challenges and opportunities facing libraries around e-book lending. In March 2013, *The Economist* interviewed several IFLA members about e-lending principles for the licensing and purchasing of e-books that all libraries can use in their respective jurisdictions. These principles are available on the IFLA website[^5] (and undoubtedly the conversations around e-book lending will continue).
 
 Understanding these global issues within our profession is one of the many benefits we have as members of IFLA.
 
-Access to industry research and studies help build the capacity of the association, which is why I am delighted that the inaugural *IFLA Trend Report* will launch in August 2013 at the World Library and Information Congress in Singapore.6 For the past year, IFLA has been gathering input from experts across various fields in order to prepare comprehensive, yet evolving, views of the environment that will impact libraries in the future.7
+Access to industry research and studies help build the capacity of the association, which is why I am delighted that the inaugural *IFLA Trend Report* will launch in August 2013 at the World Library and Information Congress in Singapore.[^6] For the past year, IFLA has been gathering input from experts across various fields in order to prepare comprehensive, yet evolving, views of the environment that will impact libraries in the future.[^7]
 	
 As president of IFLA, I am truly fortunate to witness first-hand how libraries are positively and proactively responding to the changes around them. We must continue to develop our digital collections and safeguard the knowledge legacies of the past while ensuring accessibility for the future. Librarians must harness new tools for information creation and discovery, and configure our services and spaces to meet our users’ evolving needs. Libraries will need to respond to and support new trends as they evolve, such as massive open online courses (MOOCS), which are already impacting education in Singapore, and elsewhere in the world. We will need to continue to provide innovative spaces for people to meet, engage and access new technologies. And we will need to do all of this while we bring our services to our patrons, wherever they might spend their time—whether it is on social media, in their homes or in the library.
 	
@@ -82,8 +83,39 @@ Change can be difficult. It challenges our traditional assumptions and practices
 	
 As my IFLA presidency comes to an end, I believe there is a very positive future for libraries as they adapt to the changes around them and become more resilient and integrated into their environments. By being proactive and not remaining complacent, libraries can indeed be a force for change. For those who are attending the conference in Singapore this August, I look forward to continuing this discussion. The conference is a wonderful opportunity for more than 3,000 global members to hear from leading experts on topics that matter to you. There will be many stimulating conversations and ideas to explore with each other. On behalf of IFLA, I look forward to meeting you in Singapore. 
 	
+#### **REFERENCES**
 
-	
+Contenta, S. (2013, April 8). “Beppe Grillo: How Italy’s ‘euphoric’ revolutionary is shaking up Europe”. Retrieved from the star website.  
+
+Drexhage, G. (2013, January 23). “UNESCO declaration focuses on digital assets”. Retrieved from UBC Library. 
+
+IFLA. (2013). “IFLA Principles for Library eLending”. Retrieved 29 April, 2013 from IFLA org. 
+
+IFLA. (2013). “Trend Report”. Retrieved from IFLA org. 
+
+IFLA WLIC. (2013). 79th IFLA General Conference and Assembly in Singapore. Retrieved from IFLA org. 
+
+OECD. (2013). “The knowledge-based economy”. Retrieved from OECD org.  
+
+World Economic Forum. (2012). “The Global Information Technology Report 2012”. Retrieved from weforum. org. 
+
+#### **NOTES**
+
+	    
+
+[^1]: OECD, “Science and Technology Policy: The knowledge-based economy.”
+
+[^2]: World Economic Forum, “The Global Information Technology Report 2012.”
+
+[^3]: Contenta, 2013.
+
+[^4]: Drexhage, 2013.
+
+[^5]: IFLA, 2013.
+
+[^6] IFLA WILC, 2013.
+
+[^7]: IFLA, 2013, “Trend Report”.
 	
 	
 	
