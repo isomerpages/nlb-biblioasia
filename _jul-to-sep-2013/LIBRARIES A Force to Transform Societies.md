@@ -9,7 +9,7 @@ description: More than just repositories of knowledge, libraries are spaces of
 
 <img style="width: 50%;"
 src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
-<div style="background-color: white;"> 
+<div style="background-color: white;"> </div
 	
 	
 We live in times of unprecedented and rapid change — in technology, politics, economics and other spheres — which has profoundly impacted all aspects of society, including libraries.
