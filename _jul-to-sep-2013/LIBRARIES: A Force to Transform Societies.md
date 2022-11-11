@@ -7,7 +7,7 @@ description: More than just repositories of knowledge, libraries are spaces of
 #### More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.
 
 
-<img style="width: 80%;"
+<img style="width: 70%;"
 src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
 <div style="background-color: white;"> </div> 
 	
