@@ -55,7 +55,7 @@ The keramat was enlarged in the early 20th century. There are two plaques on the
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image6.png)
 <div style="background-color: white;">The two plaques dated 1917 list the names of donors who built the shrine to “Dato Nenek Kusu” emplaced by Baba Hoe Beng Whatt, 2022. The top plaque in Jawi bears the same text as the bottom plaque in Baba Malay. The notice literally states that Dato Nenek Kusu came to his house in 1917, but the implication would be that her arrival brought a birth of a child. <i>Ada tiba di rumah</i> means “there arrived at the house”. <i>Courtesy of William L. Gibson.</i></div>
 
-#### Fishermen’s Friends
+#### **Fishermen’s Friends**
 
 A *Straits Times* report in 1929 offers one of the oldest descriptions of the origins of the <i>keramat</i>. The reporter spoke to an old man at Joo Chiat (the implication being he was Baba or Straits Chinese), who gave an account that deserves to be retold in detail:
 	
