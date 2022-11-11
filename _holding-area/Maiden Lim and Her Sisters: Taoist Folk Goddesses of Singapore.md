@@ -120,7 +120,7 @@ So far, most of the research into these local gods and goddesses has been conduc
 
 In saying this, I do not mean to downplay the contributions of non-academics in this field. On platforms such as the “Local Gods & Their Legends” and “Taoism Singapore” Facebook groups, aficionados share knowledge about ritual practices across the region.[^29] Here, we share recollections of forgotten deities and learn about those still worshipped in our midst. Regardless of whether we are believers, sceptics or just agnostic, we work to keep our sacred heritage alive.
 
-Lin Guniang, Lei Niangniang and Huang Guniang have not, in my opinion, been accorded the full respect they deserve. Over the decades, their congregations have dwindled, their shrines have been destroyed and their tales carelessly rewritten. 
+Lin Guniang, Lei Niangniang and Huang Guniang have not, in my opinion, been accorded the full respect they deserve. Over the decades, their congregations have dwindled, their shrines have been destroyed and their tales have been carelessly rewritten. 
 
 Nevertheless, their existence remains an inspiration. They serve as proof that Singapore is not merely a meeting place for spiritual cultures, but a site for their creation. This is not a disenchanted island. This is a city where goddesses are born.
 
