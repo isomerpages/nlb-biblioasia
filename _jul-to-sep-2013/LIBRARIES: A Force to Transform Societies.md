@@ -77,6 +77,17 @@ Additional global issues affecting IFLA members include the challenges and oppor
 Understanding these global issues within our profession is one of the many benefits we have as members of IFLA.
 
 Access to industry research and studies help build the capacity of the association, which is why I am delighted that the inaugural *IFLA Trend Report* will launch in August 2013 at the World Library and Information Congress in Singapore.[^6] For the past year, IFLA has been gathering input from experts across various fields in order to prepare comprehensive, yet evolving, views of the environment that will impact libraries in the future.[^7]
+
+
+
+
+<img style="width: 650px; height: 420px;"
+src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/Global%20Networks.jpg">
+<div style="background-color: white;"> 
+Global networks are rapidly shrinking the world. <i>Image via iStock.</i></div>
+
+
+	
 	
 As president of IFLA, I am truly fortunate to witness first-hand how libraries are positively and proactively responding to the changes around them. We must continue to develop our digital collections and safeguard the knowledge legacies of the past while ensuring accessibility for the future. Librarians must harness new tools for information creation and discovery, and configure our services and spaces to meet our users’ evolving needs. Libraries will need to respond to and support new trends as they evolve, such as massive open online courses (MOOCS), which are already impacting education in Singapore, and elsewhere in the world. We will need to continue to provide innovative spaces for people to meet, engage and access new technologies. And we will need to do all of this while we bring our services to our patrons, wherever they might spend their time—whether it is on social media, in their homes or in the library.
 	
@@ -122,17 +133,3 @@ World Economic Forum. (2012). “The Global Information Technology Report 2012�
 [^6] IFLA WILC, 2013.
 
 [^7]: IFLA, 2013, “Trend Report”.
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
