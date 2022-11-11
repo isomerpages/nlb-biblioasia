@@ -4,7 +4,6 @@ permalink: /holding-area/test4/
 description: Pilgrimages to the keramat on Kusu Island have been going on since
   the middle of the 19th century.
 ---
-
 #### Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
 By William L. Gibson
 
@@ -14,7 +13,7 @@ By William L. Gibson
 
 In April 2022, a catastrophic fire engulfed the *keramat* (shrine) on the top of a hill on Kusu Island, off the southern coast of Singapore. Media coverage of the event showed the near-total destruction of the *keramat*.[^1]
 
-The *keramat* on Kusu Island is a popular pilgrimage spot with thousands of devotees making their way by boat to seek blessings from the shrine as well as the Chinese Tua Pek Kong Temple (龟屿大伯公宫)on the island. Despite its immense popularity, little is definitively known about the shrine. Delving into the records shows how the origin story of the *keramat* has changed over time.
+The *keramat* on Kusu Island is a popular pilgrimage spot with thousands of devotees making their way by boat to seek blessings from the shrine as well as the Chinese Tua Pek Kong Temple (龟屿大伯公宫) on the island. Despite its immense popularity, little is definitively known about the shrine. Delving into the records shows how the origin story of the *keramat* has changed over time.
 
 Sunny Kusu Island – little more than a dome-shaped granite outcropping connected by a mud flat to a narrow rocky protrusion to the north, and surrounded by shallow reefs – was both an important navigation mark as well as a shipping hazard in the days of sail. 
 
