@@ -63,7 +63,7 @@ A *Straits Times* report in 1929 offers one of the oldest descriptions of the or
 
 “In the meantime, the sampan man became rich and prosperous, being well-compensated for his trouble. This news was favorably received by the people, and pilgrimage to the place commenced. A Malay man who heard of it went to the island and led a hermit’s life until he died there. A Chinese who thought that such an island should have a temple erected one, so that those who visit may worship its gods.”[^9]
 
-![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image7.png)
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image7_edit.png)
 <div style="background-color: white;">The two female shrines as seen from Dato Abdul Rahman’s shrine (stations 4 and 5 in the order of offerings) before the fire, 2022. The plaques from 1917 and 1921 could be seen embedded in the columns; the 1921 plaque was beneath the number 5. <i>Courtesy of William L. Gibson.
 </i></div>
 
