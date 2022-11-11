@@ -102,6 +102,9 @@ Heng San Teng burned down in 1992. Around this time, a small shrine dedicated to
 
 Alas, all this good work could not save Huang Guniang’s altar. In 2017, because of SGH’s plans for redevelopment and expansion, her shrine was cleared from its original site.[^25] According to Victor Yue, creator of the “Story of Ng Kor Niu 黄姑娘” Facebook group, the contractor engaged a Taoist priest to administer the shift.[^26] A huge paper mansion was also burnt for her as part of a ceremony to invite her to Wat Ananda Metyarama. 
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image9.png)
+<div style="background-color: white;"> The ceremony inviting Huang Guniang to Wat Ananda Metyarama, 2022. <i>Courtesy of Raymond Goh.</i></div>
+
 Worshippers continue to pray to the goddess at the columbarium. A small sign reading “This Way to Maiden Huang” has been posted by the front door, directing them to her tablet: a newer, more ornate piece than the one that formerly occupied her demolished shrine. 
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image8.png)
@@ -114,9 +117,6 @@ Some may grumble that SGH should have found her a home on their premises where s
 This essay is by no means a comprehensive survey of Singapore’s homegrown Taoist pantheon. Perhaps in future essays, we may make the acquaintance of other local gods and goddesses, such as Liang Taiye (梁太爷), Zhu Guniang (朱姑娘), Liu Xiu Guniang (刘秀姑娘), Cai Fu Xiao Guniang (蔡府小姑娘), Hong Hua Guniang (红花姑娘), Sun Jiang Jun (孙将军) and Zhang Fu Ren (张夫人). Some of these figures have long vanished from altars, while others still hold sway in temples. Some may still be honoured in household shrines around Singapore. 
 
 So far, most of the research into these local gods and goddesses has been conducted by passionate amateurs such as Ronni Pinsler, Jave Wu and Victor Yue. More formal scholarship is needed, not only to record the names and stories of these deities, but also to better grasp their place in Southeast Asian culture. What sense can we make of the parallels between their veneration and Malay *keramat* (shrine) worship?[^27] What parallels can we draw with other gods of the regional Chinese diaspora, such as Tua Pek Kong (Da Bogong; 大伯公), with his origins in Penang?[^28]
-
-![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image9.png)
-<div style="background-color: white;"> The ceremony inviting Huang Guniang to Wat Ananda Metyarama, 2022. <i>Courtesy of Raymond Goh.</i></div>
 
 In saying this, I do not mean to downplay the contributions of non-academics in this field. On platforms such as the “Local Gods & Their Legends” and “Taoism Singapore” Facebook groups, aficionados share knowledge about ritual practices across the region.[^29] Here, we share recollections of forgotten deities and learn about those still worshipped in our midst. Regardless of whether we are believers, sceptics or just agnostic, we work to keep our sacred heritage alive.
 
