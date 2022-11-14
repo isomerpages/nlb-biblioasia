@@ -42,7 +42,7 @@ In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNE
 
 #### **Saving a Private Collection for the World **
 
-In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two works were identified: *Sultan Mahmood Mangkat Dijulang* (1961, K.M. Basker) and Gado Gado (1961, S. Roomai Noor). These were chosen because they were in the worst condition. Mould and chemical decay had affected the prints, resulting in severe warpage and shrinkage of the material.
+In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two works were identified: *Sultan Mahmood Mangkat Dijulang* (1961, K.M. Basker) and *Gado Gado* (1961, S. Roomai Noor). These were chosen because they were in the worst condition. Mould and chemical decay had affected the prints, resulting in severe warpage and shrinkage of the material.
 
 Two sets of film elements were available for Sultan Mahmood Mangkat Dijulang. Reels 5, 8 and 11 of the 35 mm print were missing and had English subtitles burned in. Therefore, the 35 mm print was largely unusable and the film was mostly restored using the 16 mm print.
 
