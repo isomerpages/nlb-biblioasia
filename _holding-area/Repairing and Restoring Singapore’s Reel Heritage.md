@@ -35,6 +35,9 @@ Film restoration, on the other hand, is a highly specialised process consisting 
 
 In Singapore, the work of restoring old films has been spearheaded by the Asian Film Archive, a subsidiary of the National Library Board. Formed in 2005 as a non-profit organisation to preserve the rich film heritage of Singaporean and Asian cinema, the AFA began restoring films in 2014 starting with two movies from the Cathay-Keris Malay Classics Collection, which is a collection of Singapore films dating from 1958 to 1973. This is the largest single film collection that is being preserved by the AFA. 
 
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image5.png)
+<div style="background-color: white;"> Storage of Cathay-Keris Malay films before they were donated to the Asian Film Archive. <i>Courtesy of Asian Film Archive.</i></div>
+
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image2.png)
 <div style="background-color: white;"> Film posters of <i>Dang Anom</i> and <i>Mabok Kepayang</i> produced by Cathay-Keris Films. <i>Courtesy of Wong Han Min.</i></div>
 
