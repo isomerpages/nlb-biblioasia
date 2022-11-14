@@ -40,7 +40,7 @@ The 35 mm and 16 mm prints were stored in a warehouse when AFA first encountered
 
 In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNESCO Memory of the World Asia-Pacific Register (MOWCAP), a listing of endangered documentary heritage that represents a legacy for the world’s community. In 2014, the collection became AFA’s and Singapore’s first inscription into the MOWCAP Register. The inscription marked a significant milestone for the AFA and the collection, amplifying the value of the films, and highlighting AFA’s purpose to make the collection accessible through digitisation and restoration before further loss could happen.
 
-Saving a Private Collection for the World 
+#### **Saving a Private Collection for the World **
 
 In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two works were identified: Sultan Mahmood Mangkat Dijulang (1961, K.M. Basker) and Gado Gado (1961, S. Roomai Noor). These were chosen because they were in the worst condition. Mould and chemical decay had affected the prints, resulting in severe warpage and shrinkage of the material.
 
