@@ -3,8 +3,6 @@ title: "“Book City” in Two Streets: The Chinese Bookstore Scene in Postwar S
 permalink: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores-chinese-text/
 description: ""
 ---
-
-
 #### Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
 By Lee Ching Seng
 
@@ -107,7 +105,7 @@ For readers, these bookstores provide sustenance for the soul; for writers, they
 
 Even though Chinese readership in Singapore is declining and the golden age of Chinese bookstores has passed, I believe that the worst is over. Moving forward, these independent bookstores – with their personalised touches and new business models – will give the bookstore industry a new lease of life.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> This is an edited and translated version of 两条书街，两座书城：战后新加坡华文书店景观. Click <a href="">here</a> to read the original piece.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> This is an edited and translated version of 两条书街，两座书城：战后新加坡华文书店景观. Click <a href="vol-18/issue-4/jan-mar-2023/postwar-Chinese-bookstores-Chinese-Text/">here</a> to read the original piece.</div>
 
 
 <div style="background-color: white;">
