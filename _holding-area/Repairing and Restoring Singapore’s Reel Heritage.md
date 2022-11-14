@@ -102,3 +102,14 @@ In 2017, the AFA discovered that the surviving print had been left with L’Imma
 Of the seven 35 mm reels, only the last reel could be salvaged. It took 10 weeks, using two different chemical treatments, to be able to uncoil the sticky reel. A large portion of the images had disintegrated and without additional sources of film elements, the film could not be restored. 
 
 The eventual digitisation of the last eight minutes, despite the hissing and shaking staticky images, provide a glimpse of how this beloved film could have looked and sounded on the big screen. The loss of this gem highlights the urgency of preserving what we can of our cinematic heritage while it is still possible.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/William_Gibson.png" style="width: 100px; height: 100px;"/>
+	<b>Chew Tee Pao</b> has been with the Asian Film Archive (AFA) since 2009. As an archivist since 2014, he has overseen the restoration of over 30 films from the AFA collection.</div>
+
+#### **NOTES**
+
+[^1]: Ray Edmondson, “The Building Blocks of Film Archiving,” Journal of Film Preservation 24, no. 50 (March 1995): 55–58. (From ProQuest via NLB’s eResources website)
+
+[^2]: Robert Byrne, Caroline Fournier, Anne Gant and Ulrich Ruedel, “The Digital Statement Part III: Image Restoration, Manipulation, Treatment, and Ethics,” International Federation of Film Archives, accessed 7 November 2022, https://www.fiafnet.org/pages/E-Resources/Digital-Statement-part-III.html.
