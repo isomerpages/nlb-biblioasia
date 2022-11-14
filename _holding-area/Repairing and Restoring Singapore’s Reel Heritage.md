@@ -72,13 +72,13 @@ In 2020, the AFA restored *Mat Magic*, the only title in the Cathay-Keris collec
 
 Unlike the Cathay-Keris Malay Classics Collection that the AFA has been preserving since 2007, very few titles from Shaw Brothers’ MFP have survived on film. 
 
-The first MFP film that the AFA encountered was a surviving 16 mm print of Patah Hati (1952, K.M. Basker), which starred a young P. Ramlee in one of his first major roles. The print was critically affected with mould and vinegar syndrome. It was discovered in the collection of the National Museum of Singapore during the search for MFP titles to restore and present at the “Spotlight on Singapore Cinema” event in 2015. 
+The first MFP film that the AFA encountered was a surviving 16 mm print of *Patah Hati* (1952, K.M. Basker), which starred a young P. Ramlee in one of his first major roles. The print was critically affected with mould and vinegar syndrome. It was discovered in the collection of the National Museum of Singapore during the search for MFP titles to restore and present at the “Spotlight on Singapore Cinema” event in 2015. 
 
 Upon close inspection, the first several minutes of the film were found to be completely missing from the print. The findings signified that the film was at potential risk of being lost in its entirety if nothing was done, thus giving greater reason to salvage and restore whatever remained of the material. 
 
-Patah Hati was one of the most challenging film restorations ever encountered by experienced restorers at the Italian laboratory L’Immagine Ritrovata, who carried out the restoration in 2015. The substantial number of missing image and audio frames, and extensive wear and tear meant that many individual frames needed to be carefully repaired before scanning was even possible, adding many man-hours to the task. The severe scratches and mould defects on the print required additional processing during the digital restoration stage. 
+*Patah Hati* was one of the most challenging film restorations ever encountered by experienced restorers at the Italian laboratory L’Immagine Ritrovata, who carried out the restoration in 2015. The substantial number of missing image and audio frames, and extensive wear and tear meant that many individual frames needed to be carefully repaired before scanning was even possible, adding many man-hours to the task. The severe scratches and mould defects on the print required additional processing during the digital restoration stage. 
 
-After six months of hard work, Patah Hati was finally restored and presented at “Spotlight on Singapore Cinema” in 2015. A text slate was included at the start of the film to address the entire missing first scene and to explain the challenges of the restoration.
+After six months of hard work, *Patah Hati* was finally restored and presented at “Spotlight on Singapore Cinema” in 2015. A text slate was included at the start of the film to address the entire missing first scene and to explain the challenges of the restoration.
 
 #### **Singapore’s Only Known Surviving Nitrate-based Film**
 
