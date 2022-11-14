@@ -30,7 +30,13 @@ While “preserved” and “restored” are often used interchangeably in stori
 
 Film restoration, on the other hand, is a highly specialised process consisting of different stages that involves digitising, duplicating and reconstructing a specific version of a film by piecing together surviving source materials, and using digital restoration tools “to identify and thoughtfully remediate damage and deterioration suffered by the original material and to return the appearance of a film to a state closer to what it would have been when it was first created”.[^2] 
 
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image4.png)
+<div style="background-color: white;"> Hand cleaning and inspecting reels of Cathay-Keris films. <i>Courtesy of Asian Film Archive.</i></div>
+
 In Singapore, the work of restoring old films has been spearheaded by the Asian Film Archive, a subsidiary of the National Library Board. Formed in 2005 as a non-profit organisation to preserve the rich film heritage of Singaporean and Asian cinema, the AFA began restoring films in 2014 starting with two movies from the Cathay-Keris Malay Classics Collection, which is a collection of Singapore films dating from 1958 to 1973. This is the largest single film collection that is being preserved by the AFA. 
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image2.png)
+<div style="background-color: white;"> Film posters of <i>Dang Anom</i> and <i>Mabok Kepayang</i> produced by Cathay-Keris Films. <i>Courtesy of Wong Han Min.</i></div>
 
 The story begins in 2007 when 91 surviving film titles, with a total of 671 reels in 16 mm and 35 mm formats, were donated to the AFA by Cathay Organisation for preservation. Cathay-Keris Films and Shaw Brothers’ Malay Film Productions (MFP) were the main producers of Malay films during the 1950s to 1970s, a period that is usually referred to as the golden age of Malay cinema in Singapore.
 
@@ -42,7 +48,7 @@ The 35 mm and 16 mm prints were stored in a warehouse when AFA first encountered
 
 In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNESCO Memory of the World Asia-Pacific Register (MOWCAP), a listing of endangered documentary heritage that represents a legacy for the world’s community. In 2014, the collection became AFA’s and Singapore’s first inscription into the MOWCAP Register. The inscription marked a significant milestone for the AFA and the collection, amplifying the value of the films, and highlighting AFA’s purpose to make the collection accessible through digitisation and restoration before further loss could happen.
 
-#### **Saving a Private Collection for the World **
+#### **Saving a Private Collection for the World**
 
 In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two works were identified: *Sultan Mahmood Mangkat Dijulang* (1961, K.M. Basker) and *Gado Gado* (1961, S. Roomai Noor). These were chosen because they were in the worst condition. Mould and chemical decay had affected the prints, resulting in severe warpage and shrinkage of the material.
 
@@ -96,7 +102,7 @@ When combusted, nitrate film has a high burning point, is virtually inextinguish
 
 The restoration of *Permata Di-Perlimbahan* took almost a year to complete before it was presented at AFA’s annual film and art event, “State of Motion 2020: Rushes of Time”. 
 
-#### **The Fate of P. Ramlee’s Seniman 	Bujang Lapok**
+#### **The Fate of P. Ramlee’s Seniman Bujang Lapok**
 
 The first Malay classic film that I encountered when I started work at AFA was *Seniman Bujang Lapok* (1961) by the Malay film icon P. Ramlee. A self-referential spoof of the Malay film industry of the late 1950s to early 1960s, the film never fails to make audiences young and old laugh. The film exists today in video format and on poor quality VCD and DVD releases.
 
