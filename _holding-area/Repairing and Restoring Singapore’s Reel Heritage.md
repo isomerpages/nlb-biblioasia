@@ -38,9 +38,6 @@ In Singapore, the work of restoring old films has been spearheaded by the Asian 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image5.png)
 <div style="background-color: white;"> Storage of Cathay-Keris Malay films before they were donated to the Asian Film Archive. <i>Courtesy of Asian Film Archive.</i></div>
 
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image2.png)
-<div style="background-color: white;"> Film posters of <i>Dang Anom</i> and <i>Mabok Kepayang</i> produced by Cathay-Keris Films. <i>Courtesy of Wong Han Min.</i></div>
-
 The story begins in 2007 when 91 surviving film titles, with a total of 671 reels in 16 mm and 35 mm formats, were donated to the AFA by Cathay Organisation for preservation. Cathay-Keris Films and Shaw Brothers’ Malay Film Productions (MFP) were the main producers of Malay films during the 1950s to 1970s, a period that is usually referred to as the golden age of Malay cinema in Singapore.
 
 Many of the films produced by Cathay-Keris (including productions under the banner of Keris Films) from 1953, which includes *Buloh Perindu* (1953, B.S. Rajhans) and *Pontianak* (1957, B.N. Rao), are considered lost. This makes the donated surviving film materials a rare and significant collection that highlights the evolution of filmmaking in Singapore, and its development as a film production and distribution centre. 
@@ -71,6 +68,9 @@ The restoration of both films took over six months, and the restored films were 
 *Gado Gado* was also selected for the Il Cinema Ritrovato, the first Singaporean work to be screened at an important film festival for heritage and restored films in the Italian city of Bologna. *Sultan Mahmood Mangkat Dijulang* made its Singapore premiere at the National Museum of Singapore Gallery Theatre in 2015 in celebration of AFA’s 10th anniversary and its first film restoration.
 
 To date, AFA has restored a total of nine titles from the surviving film elements of the Cathay-Keris Malay Classics Collection. The other seven are *Chuchu Datok Merah* (1963, M. Amin), *Aku Mahu Hidup* (1971, M. Amin), *Orang Minyak* (1958, L. Krishnan), *Dang Anom* (1962, Hussain Haniff), *Chinta Kaseh Sayang* (1965, Hussain Haniff), *Mat Magic* (1971, Mat Sentol and John Calvert) and *Dara-Kula* (1973, Mat Sentol).
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image2.png)
+<div style="background-color: white;"> Film posters of <i>Dang Anom</i> and <i>Mabok Kepayang</i> produced by Cathay-Keris Films. <i>Courtesy of Wong Han Min.</i></div>
 
 *Chuchu Datok Merah* is a classic period drama by Malay director M. Amin that was restored and first presented in August 2015 at “Spotlight of Singapore Cinema” at the Capitol Theatre in celebration of Singapore’s 50th year of independence. M. Amin was Cathay-Keris’ most prolific director, having worked on nearly 30 films over a span of 10 years. He remained with the studio till the very end when it ceased operations in 1972. 
 
