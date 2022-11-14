@@ -24,7 +24,7 @@ In Southeast Asia’s tropical climate, the degradation resulting in the colour,
 
 For films that are in poor condition and at risk of being lost completely due to deterioration, restoration is the most immediate intervention to salvage the film.
 
-While “preserved” and “restored” are often used interchangeably in stories about rereleased and restored classic films, the terms are not synonymous. Veteran film archivist Ray Edmondson describes preservation as “practices and procedures necessary to ensure continued access, with minimum loss of quality, to the visual or audio content or other essential attributes of the films. This includes surveillance, handling, storage environments and methods”.
+While “preserved” and “restored” are often used interchangeably in stories about rereleased and restored classic films, the terms are not synonymous. Veteran film archivist Ray Edmondson describes preservation as “practices and procedures necessary to ensure continued access, with minimum loss of quality, to the visual or audio content or other essential attributes of the films. This includes surveillance, handling, storage environments and methods”.[^1]
 
 Film restoration, on the other hand, is a highly specialised process consisting of different stages that involves digitising, duplicating and reconstructing a specific version of a film by piecing together surviving source materials, and using digital restoration tools “to identify and thoughtfully remediate damage and deterioration suffered by the original material and to return the appearance of a film to a state closer to what it would have been when it was first created”.[^2] 
 
