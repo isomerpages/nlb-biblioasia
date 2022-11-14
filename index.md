@@ -16,7 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Maiden Lim/20220926_133743 Hero Maiden Lim .jpg
+      background: /images/Vol 18 Issue 4/Maiden Lim/Hero Maiden Lim.jpg
       title: Maiden Lim and Her Sisters
   - infopic:
       title: A Voice for the Wild
