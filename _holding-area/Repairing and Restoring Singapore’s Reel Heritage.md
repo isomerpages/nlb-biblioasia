@@ -12,7 +12,7 @@ By Chew Tee Pao
 
 Wong Kar Wai’s *In the Mood for Love* (2000). David Lean’s *Lawrence of Arabia* (1962). Charlie Chaplin’s Modern Times (1936). *Satyajit Ray’s Pather Panchali* (1955). These are just a handful of canonical works by the auteurs of world cinema that have been digitally restored in the last 10 years.
 
-In 2012, the World Cinema Project and the National Museum of Singapore restored the Indonesian film *Lewat Djam Malam* (1954, Usmar Ismail). This project marked a major milestone for the restoration of Southeast Asian films with international support. In the ensuing years, films like *Mee Pok Man* (1995, Singapore), Manila in the Claws of Light (1982, Philippines), Mukhsin (2006, Malaysia), Tiga Dara (1957, Indonesia) and Santi-Vina (1954, Thailand) have been restored by both private and public archival institutions.
+In 2012, the World Cinema Project and the National Museum of Singapore restored the Indonesian film *Lewat Djam Malam* (1954, Usmar Ismail). This project marked a major milestone for the restoration of Southeast Asian films with international support. In the ensuing years, films like *Mee Pok Man* (1995, Singapore), Manila in the Claws of Light (1982, Philippines), *Mukhsin* (2006, Malaysia), Tiga Dara (1957, Indonesia) and Santi-Vina (1954, Thailand) have been restored by both private and public archival institutions.
 
 These movies were made using cellulose acetate-based film, a transparent plastic film used by photographers and filmmakers. The filmed materials were processed as picture and sound negatives that enabled copies of 35 mm theatrical prints to be produced for the cinemas. 
 
