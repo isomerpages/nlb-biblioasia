@@ -56,7 +56,7 @@ In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNE
 In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two works were identified: *Sultan Mahmood Mangkat Dijulang* (1961, K.M. Basker) and *Gado Gado* (1961, S. Roomai Noor). These were chosen because they were in the worst condition. Mould and chemical decay had affected the prints, resulting in severe warpage and shrinkage of the material.
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image10.png)
-<div style="background-color: white;"> Still from <i>Sultan Mahmood Mangkat Dijulang</i> by K.M. Basker <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+<div style="background-color: white;"> Still from <i>Sultan Mahmood Mangkat Dijulang</i> by K.M. Basker. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 
 Two sets of film elements were available for *Sultan Mahmood Mangkat Dijulang*. Reels 5, 8 and 11 of the 35 mm print were missing and had English subtitles burned in. Therefore, the 35 mm print was largely unusable and the film was mostly restored using the 16 mm print.
 
@@ -93,7 +93,13 @@ One of the last films produced by Cathay-Keris is *Aku Mahu Hidup*. Written by R
 
 Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural creature dripping in shiny black grease who abducts young women at night, predated Shaw Brothers’ MFP’s *Sumpah Orang Minyak* (1958, P. Ramlee) by a couple of weeks, demonstrating the competition between the two film studios for audiences. L. Krishnan was one of the first Indian directors employed to produce the earliest Malay films by Shaw Brothers and Cathay-Keris the early 1950s.
 
-*Dang Anom* and *Chinta Kaseh* *Sayang* are two of the 13 films directed by Cathay-Keris’ star director Hussein Haniff. Unfortunately, he had a short career  and died at the age of 32. However, he is regarded today as an auteur of classic Malay Cinema. 
+*Dang Anom* and *Chinta Kaseh Sayang* are two of the 13 films directed by Cathay-Keris’ star director Hussein Haniff. Unfortunately, he had a short career  and died at the age of 32. However, he is regarded today as an auteur of classic Malay Cinema. 
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image12.png)
+<div style="background-color: white;"> Still from <i>Dang Anom</i> by S. Roomai Noor.<i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image13.png)
+<div style="background-color: white;"> Still from <i>Chinta Kaseh Sayang</i> by S. Roomai Noor.<i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 
 In 2020, the AFA restored *Mat Magic*, the only title in the Cathay-Keris collection jointly directed by iconic comedian Mat Sentol, and the American magician and film actor John Calvert. It marked an early creative collaboration between Singapore and Hollywood, and was the concluding film of the Mat series produced by Cathay-Keris. The restored film made its world premiere at the 50th International Film Festival Rotterdam in 2021. In the same year, AFA also restored *Dara-Kula*, a horror film by Mat Sentol, illustrating his move away from the comedy genre for his last work during his time at Cathay-Keris. 
 
