@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
-      button: Before there was Sentosa, <br> there was sarong Isalnd
+      button: Before there was Sentosa, <br> there was sarong Island
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
