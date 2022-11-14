@@ -150,7 +150,7 @@ The eventual digitisation of the last eight minutes, despite the hissing and sha
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/William_Gibson.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Chew_Tee_Pao.png" style="width: 100px; height: 100px;"/>
 	<b>Chew Tee Pao</b> has been with the Asian Film Archive (AFA) since 2009. As an archivist since 2014, he has overseen the restoration of over 30 films from the AFA collection.</div>
 
 #### **NOTES**
