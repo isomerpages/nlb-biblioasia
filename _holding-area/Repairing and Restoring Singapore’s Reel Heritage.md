@@ -7,8 +7,7 @@ description: The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image1.png)
-<div style="background-color: white;"> A damaged 35 mm film reel. <i>Courtesy of Asian Film Archive.</i>
-</div>
+<div style="background-color: white;"> A damaged 35 mm film reel. <i>Courtesy of Asian Film Archive.</i></div>
 
 Wong Kar Wai’s *In the Mood for Love* (2000). David Lean’s *Lawrence of Arabia* (1962). Charlie Chaplin’s Modern Times (1936). Satyajit Ray’s *Pather Panchali* (1955). These are just a handful of canonical works by the auteurs of world cinema that have been digitally restored in the last 10 years.
 
@@ -17,6 +16,9 @@ In 2012, the World Cinema Project and the National Museum of Singapore restored 
 These movies were made using cellulose acetate-based film, a transparent plastic film used by photographers and filmmakers. The filmed materials were processed as picture and sound negatives that enabled copies of 35 mm theatrical prints to be produced for the cinemas. 
 
 However, film degrades over time. The condition of both cellulose nitrate and cellulose acetate material is highly dependent on temperature and relative humidity. Storing film materials at room temperature or warmer, and coupled with high humidity, will inevitably cause chemical decay in the base and emulsion of the film material. 
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image3.png)
+<div style="background-color: white;"> Film reel affected by chemical decay and mould. <i>Courtesy of Asian Film Archive.</i></div>
 
 In Southeast Asia’s tropical climate, the degradation resulting in the colour, image and sound loss of the material can occur easily with the lethal combination of humidity and heat. Problems such as “vinegar syndrome” cause films to become brittle, shrink and emit an acidic odour. In addition, the warm environment is a perfect breeding ground for the growth of mould, mildew and fungus. Improper handling and transportation of the material have also resulted in mechanical damage such as torn splices and broken perforations.
 
