@@ -122,6 +122,9 @@ After six months of hard work, *Patah Hati* was finally restored and presented a
 
 In the course of restoring *Patah Hati*, the AFA stumbled upon a surviving 35 mm film print of *Permata Di-Perlimbahan* (1952, Haji Mahadi), produced by Shaw Brothers’ MFP and kept in the collection of Shaw Organisation. It is the first Singapore film directed by a Malay director. Made at the beginning of the studio era, the film features one of the earliest film performances of Maria Menado and Nordin Ahmad for MFP before they moved to Cathay-Keris in the mid-1950s. Prior to this, Malay films were directed by Chinese and Indian filmmakers. What is even more fascinating is that the film is currently the only known extant Singapore film in a cellulose nitrate-based print. 
 
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image15.png)
+<div style="background-color: white;"> Deteriorated frames on print of <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+
 The nitrate film format is chemically unstable thus making it highly flammable, and it is usually kept under sub-zero and underground storage. That the print stayed intact in Singapore’s hot and inhospitable environment for decades is a miracle. 
 
 After the film was handed to the National Museum of Singapore, the print was sent to the specialised care of L’Immagine Ritrovata in 2014. AFA only discovered that it was a nitrate print when L’Immagine Ritrovata presented their findings. 
