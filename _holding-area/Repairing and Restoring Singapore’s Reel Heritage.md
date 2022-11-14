@@ -57,6 +57,9 @@ In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two wo
 
 Two sets of film elements were available for *Sultan Mahmood Mangkat Dijulang*. Reels 5, 8 and 11 of the 35 mm print were missing and had English subtitles burned in. Therefore, the 35 mm print was largely unusable and the film was mostly restored using the 16 mm print.
 
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image7.png)
+<div style="background-color: white;"> Due to severe disintegration, many 35 mm picture and sound negatives of titles such as <i>Ikan Emas</i> (1965), <i>Hati Batu</i> (1973) and <i>Selamat Hari Raya</i> (1955) were deemed unsalvageable. These reels had to be environmentally discarded to prevent them from infecting the rest of the collection. <i>Courtesy of Asian Film Archive.</i></div>
+
 For *Gado Gado*, only the first reel of its negative had survived, but it was completely unusable due to serious decay, warping and shrinkage. The film was restored from a first generation 35 mm print.
 
 Both works were unique within the Cathay-Keris collection. Based on the 17th-century *Malay Annals*, Sultan *Mahmood Mangkat Dijulang* was one of the studio’s finest achievements among its stable of historical dramas and featured a rare star-studded cast. 
