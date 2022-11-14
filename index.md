@@ -9,8 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/Maiden
-        Lim
+      url: /holding-area/test3/
       button: Taoist Folk Goddesses of Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
