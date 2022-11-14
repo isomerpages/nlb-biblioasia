@@ -32,7 +32,7 @@ In Singapore, the work of restoring old films has been spearheaded by the Asian 
 
 The story begins in 2007 when 91 surviving film titles, with a total of 671 reels in 16 mm and 35 mm formats, were donated to the AFA by Cathay Organisation for preservation. Cathay-Keris Films and Shaw Brothers’ Malay Film Productions (MFP) were the main producers of Malay films during the 1950s to 1970s, a period that is usually referred to as the golden age of Malay cinema in Singapore.
 
-Many of the films produced by Cathay-Keris (including productions under the banner of Keris Films) from 1953, which includes Buloh Perindu (1953, B.S. Rajhans) and Pontianak (1957, B.N. Rao), are considered lost. This makes the donated surviving film materials a rare and significant collection that highlights the evolution of filmmaking in Singapore, and its development as a film production and distribution centre. 
+Many of the films produced by Cathay-Keris (including productions under the banner of Keris Films) from 1953, which includes *Buloh Perindu* (1953, B.S. Rajhans) and Pontianak (1957, B.N. Rao), are considered lost. This makes the donated surviving film materials a rare and significant collection that highlights the evolution of filmmaking in Singapore, and its development as a film production and distribution centre. 
 
 These Cathay-Keris films portray the traditional mores and culture of the Malays and provide a visual documentation of the physical landscapes, nation building, economic challenges, rapid modernisation, religious and social changes that occurred in Singapore in the post-war era.
 
