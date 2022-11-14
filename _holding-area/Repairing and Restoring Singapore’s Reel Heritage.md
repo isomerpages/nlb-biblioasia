@@ -50,11 +50,11 @@ For *Gado Gado*, only the first reel of its negative had survived, but it was co
 
 Both works were unique within the Cathay-Keris collection. Based on the 17th-century *Malay Annals*, Sultan *Mahmood Mangkat Dijulang* was one of the studio’s finest achievements among its stable of historical dramas and featured a rare star-studded cast. 
 
-The film was directed by K.M. Basker, an Indian filmmaker who was responsible for many of the early Malay films produced by both Cathay-Keris and Shaw Brothers’ MFP in the 1950s, before Malay directors took the reins. Gado Gado was a charming oddity for being the only medium-length musical variety film that featured a host of star actors, resembling a tribute to the studio’s stars. 
+The film was directed by K.M. Basker, an Indian filmmaker who was responsible for many of the early Malay films produced by both Cathay-Keris and Shaw Brothers’ MFP in the 1950s, before Malay directors took the reins. *Gado Gado* was a charming oddity for being the only medium-length musical variety film that featured a host of star actors, resembling a tribute to the studio’s stars. 
 
 The restoration of both films took over six months, and the restored films were presented for the first time with newly created English and French subtitles at the Cinémathèque Française as part of “Cinemas de Singapour en 50 films”. This was a special retrospective programme co-organised by the Singapore Film Commission that showcased 50 Singaporean films to commemorate the nation’s 50th year of independence in 2015. 
 
-Gado Gado was also selected for the Il Cinema Ritrovato, the first Singaporean work to be screened at an important film festival for heritage and restored films in the Italian city of Bologna. Sultan Mahmood Mangkat Dijulang made its Singapore premiere at the National Museum of Singapore Gallery Theatre in 2015 in celebration of AFA’s 10th anniversary and its first film restoration.
+*Gado Gado* was also selected for the Il Cinema Ritrovato, the first Singaporean work to be screened at an important film festival for heritage and restored films in the Italian city of Bologna. Sultan Mahmood Mangkat Dijulang made its Singapore premiere at the National Museum of Singapore Gallery Theatre in 2015 in celebration of AFA’s 10th anniversary and its first film restoration.
 
 To date, AFA has restored a total of nine titles from the surviving film elements of the Cathay-Keris Malay Classics Collection. The other seven are Chuchu Datok Merah (1963, M. Amin), Aku Mahu Hidup (1971, M. Amin), Orang Minyak (1958, L. Krishnan), Dang Anom (1962, Hussain Haniff), Chinta Kaseh Sayang (1965, Hussain Haniff), Mat Magic (1971, Mat Sentol and John Calvert) and Dara-Kula (1973, Mat Sentol).
 
