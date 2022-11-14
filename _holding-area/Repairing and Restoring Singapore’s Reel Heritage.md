@@ -58,7 +58,7 @@ The restoration of both films took over six months, and the restored films were 
 
 To date, AFA has restored a total of nine titles from the surviving film elements of the Cathay-Keris Malay Classics Collection. The other seven are *Chuchu Datok Merah* (1963, M. Amin), *Aku Mahu Hidup* (1971, M. Amin), *Orang Minyak* (1958, L. Krishnan), *Dang Anom* (1962, Hussain Haniff), *Chinta Kaseh Sayang* (1965, Hussain Haniff), *Mat Magic* (1971, Mat Sentol and John Calvert) and *Dara-Kula* (1973, Mat Sentol).
 
-Chuchu Datok Merah is a classic period drama by Malay director M. Amin that was restored and first presented in August 2015 at “Spotlight of Singapore Cinema” at the Capitol Theatre in celebration of Singapore’s 50th year of independence. M. Amin was Cathay-Keris’ most prolific director, having worked on nearly 30 films over a span of 10 years. He remained with the studio till the very end when it ceased operations in 1972. 
+*Chuchu Datok Merah* is a classic period drama by Malay director M. Amin that was restored and first presented in August 2015 at “Spotlight of Singapore Cinema” at the Capitol Theatre in celebration of Singapore’s 50th year of independence. M. Amin was Cathay-Keris’ most prolific director, having worked on nearly 30 films over a span of 10 years. He remained with the studio till the very end when it ceased operations in 1972. 
 
 One of the last films produced by Cathay-Keris is Aku Mahu Hidup. Written by Rajendra Gour, a pioneer of early independent short filmmaking in Singapore, the film’s adoption and sensitive treatment of the then controversial subject of prostitution portrays the progressive social consciousness of 1970s Malay cinema.
 
