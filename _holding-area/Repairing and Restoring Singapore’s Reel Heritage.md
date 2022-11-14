@@ -111,6 +111,6 @@ The eventual digitisation of the last eight minutes, despite the hissing and sha
 
 #### **NOTES**
 
-[^1]: Ray Edmondson, “The Building Blocks of Film Archiving,” *Journal of Film Preservation* 24, no. 50 (March 1995): 55–58. (From ProQuest via NLB’s eResources website)
+[^1]: Ray Edmondson, “The Building Blocks of Film Archiving,” *Journal of Film Preservation* 24, no. 50 (March 1995): 55–58. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^2]: Robert Byrne, Caroline Fournier, Anne Gant and Ulrich Ruedel, “The Digital Statement Part III: Image Restoration, Manipulation, Treatment, and Ethics,” International Federation of Film Archives, accessed 7 November 2022, https://www.fiafnet.org/pages/E-Resources/Digital-Statement-part-III.html.
