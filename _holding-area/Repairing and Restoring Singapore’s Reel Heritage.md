@@ -96,7 +96,7 @@ The restoration of *Permata Di-Perlimbahan* took almost a year to complete befor
 
 #### **The Fate of P. Ramlee’s Seniman 	Bujang Lapok**
 
-The first Malay classic film that I encountered when I started work at AFA was Seniman Bujang Lapok (1961) by the Malay film icon P. Ramlee. A self-referential spoof of the Malay film industry of the late 1950s to early 1960s, the film never fails to make audiences young and old laugh. The film exists today in video format and on poor quality VCD and DVD releases.
+The first Malay classic film that I encountered when I started work at AFA was *Seniman Bujang Lapok* (1961) by the Malay film icon P. Ramlee. A self-referential spoof of the Malay film industry of the late 1950s to early 1960s, the film never fails to make audiences young and old laugh. The film exists today in video format and on poor quality VCD and DVD releases.
 
 In 2017, the AFA discovered that the surviving print had been left with L’Immagine Ritrovata by the National Museum of Singapore in 2014. We looked into the feasibility of restoring the print, but the vinegar syndrome and degradation of the prints had already reached a fatal and unsalvageable stage.
 
