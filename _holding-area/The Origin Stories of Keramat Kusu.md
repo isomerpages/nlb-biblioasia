@@ -76,7 +76,7 @@ A lengthy article about Kusu in a 1932 *Straits Times* report introduced new ele
 In the early days, the *keramat* was not associated with any particular named individual. The 1932 article describes the shrine as two small “sheds” of concrete. “One covers the grave of the Malay fisherman. The other is also supposed to be the graves of other Malays but no stories, so far as I can gather, are told concerning them.” The article adds that on a nearby *keramat* tree, “strings of stones” were hung. “When a man has his wish fulfilled, he recalls his vow, goes back to the island, hangs up the stones and takes them down only when he has discharged his debt!”[^12] The hanging of stones was once common at other *keramat* in Singapore renown for powers of granting children, such as Iskandar Shah and Habib Nuh. While the tradition is no longer continued at these *keramat*, yellow ribbons are still tied on the trees around the *keramat* at Kusu.
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/Tree_Keramat1.jpg)
-<div style="background-color: white;">The tree near the *keramat* is adorned with ribbons, and lottery numbers are scrawled over the painted rocks, 2022. <i>Courtesy of William L. Gibson.
+<div style="background-color: white;">The tree near the <i>keramat</i> is adorned with ribbons, and lottery numbers are scrawled over the painted rocks, 2022. <i>Courtesy of William L. Gibson.
 </i></div>
 
 #### **Keramat Stories**
