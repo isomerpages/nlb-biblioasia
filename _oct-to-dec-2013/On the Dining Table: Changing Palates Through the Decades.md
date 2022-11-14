@@ -31,7 +31,7 @@ According to Saw Swee Hock, a professorial fellow at the Institute of Southeast 
 
 Neville wrote that during the postwar period, the Chinese population dominated the influx of new immigrants and several dialect groups lived in enclaves, particularly within the central city area. The Teochew community established themselves mainly on the south bank of the Singapore River. Many were employed as coolies (labourers), hauling goods between the riverside warehouses and tongkangs (local wooden boats) crowding the river. Some Teochews specialised in certain sectors of the interisland boat trade, particularly between Singapore, west Borneo and southThailand where substantial Teochew trading communities were found.[^2] There were also others, like my grandparents and relatives, who were farmers and fishermen living in Teochew-dominated areas of Singapore like Sembawang, Upper Thomson and Punggol.
 
-<img style="width: 100%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/teochew%20migrants.jpg">
+<img style="width: 80%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/teochew%20migrants.jpg">
 <div> Located at Clemenceau Avenue, the Teochew style grand mansion of Tan Yeok Nee is the last of its kind still standing (1910). <i>Courtesy of National Archives of Singapore</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>The Teochew Migrants</b>
@@ -53,7 +53,7 @@ After Singapore’s independence in 1965, a series of broad and sweeping changes
 As a young wife in the 1970s, my mother enjoyed collecting recipes from newspapers and magazines, attending cooking classes at community centres, watching cooking programmes on television and buying cookbooks. My mother was able to try her hand at cooking dishes from cuisines other than Teochew and, thanks to new kitchen equipment, such as the refrigerator, gas stove, cake mixer and blender, was able to reduce the time she spent in the kitchen preparing ingredients and cooking. The introduction of supermarkets also widened the selection of ingredients available; and imported items started making their way to the supermarket shelves.
 
 
-<img style="width: 50%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/shoppers.jpg">
+<img style="width: 40%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/shoppers.jpg">
 <div>Shoppers at the new National Trades Union Congress (NTUC) supermarket at Toa Payoh, which opened on 22 July, 1973. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 	
 Over time, all this had a huge impact on what we ate. Our hot porridge breakfasts gave way to the more convenient combination of bread, butter and jam, and our mealtimes saw more variety on the table as Mum grew adventurous and experimented with new dishes. However, during important festivals and celebrations, we would still indulge in grandmother’s and mother’s traditional Teochew cooking. The success of the Speak Mandarin campaign, which was introduced in 1979, eroded our ability to converse in fluent Teochew. Today, my siblings and I are less well-versed in the Teochew dialect, and as a result, cooking instructions issued to us in this Chinese dialect by our grandmother are sometimes lost in translation. Occasionally, grandmother would share Teochew food aphorisms such as 三四桃李奈 and 七八 油甘柿 (meaning “peaches, apricots and plums ripen during March and April” and “Indian gooseberries and persimmons are ready to be eaten in July and August”) and dispense practical advice such as 稚鸡, 硕鹅, 老鸭母 (meaning “young chicken, mature goose and old duck are the best stages of their growth for cooking”). 
@@ -64,21 +64,20 @@ In 1986, statistics showed that 30 percent of people aged between 15 and 64 year
 
 As early as 1979, it was reported that the changing lifestyles of Singaporeans had led to an increase of diseases that were linked to unhealthy eating habits and harmful lifestyles.[^7] A household expenditure survey conducted between 1987 and 1988 reported that “hawker foods accounted for almost 80 percent of an average household’s cooked food budget.”[^8] In 1992, Dr Aline Wong, then-Minister of State (Health), encouraged Singaporeans to eat more homecooked meals as it was perceived to be healthier.[^9]
 
-<img style="width: 50%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/healthier%20alternatives.jpg">Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i> Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
-
 The Ministry of Health launched studies of the food consumed by Singaporeans. One of the earliest projects was conducted by the Institute of Science and Forensic Medicine under the Ministry of Health in 1992. The following year, 200 commonly available foods at hawker centres were subjected to chemical analysis by laboratories commissioned by the Food and Nutrition Department. A series of booklets on food and nutrition was published and distributed to the public, covering subjects such as healthy eating at childcare centres, serving healthy food to students, healthier menu choices for workplace canteen operators, coffeeshops and restaurants, and a guide to making sensible food choices at hawker centres.
 
-<img style="width: 50%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/stay%20healthy.jpg">Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i> Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
+<img style="width: 2000%;" src=" /images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg">
+<div>Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i>Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
 
 Over the years, changes in lifestyle, national campaigns, and new ways of storing, processing and cooking food have contributed to changes in our diets. The author of Soya & Spice, Jo Marion Seow, lamented that some food “\[has\] gone the way of the dinosaurs”, citing the example of the cheap preserved or pickled side dish known as zahb khiam in Teochew, which was commonly eaten with porridge.[^10]
 
 Certain common hawker dishes have also been gradually disappearing from the culinary horizon. Local food blogger Dr Leslie Tay has noted a steady decline in the standards of char kway teow (fried rice noodles) as the dish has come to be regarded as “unhealthy and the fear of contracting Hepatitis A from eating partially cooked cockles has put another nail in the coffin.”[^11] He has also remarked that Teochew eateries no longer use the meaty Asian carp in traditional fish head steamboat. These days, the “muddy” tasting freshwater fish has been replaced by more popular varieties such as pomfret and grouper.[^12] Mass produced pre-cooked ingredients manufactured by factories and supplied to hawkers have also contributed to this loss of food heritage; culinary skills among hawkers have been eroded by these shortcuts and many people complain that the old-style dishes just do not taste the same anymore.
 
- #### **My Generation**
+#### **My Generation**
  
  The loss in food heritage is also felt in the home. My family does not consciously partake of traditional Teochew cuisine at home anymore. Everyday dishes are not uniquely Teochew, except for special occasions such as festivals and celebrations when our family buys Teochew confectionaries or steamed kueh (cakes).
  
- In 2013, four students from the Wee Kim Wee School of Communication and Information at Nanyang Technological University worked on a project that aimed to raise awareness of the origins of Singapore’s food heritage through interviews with hawkers of signature local dishes. The findings of the study—sponsored by the National Heritage Board and supported by the Singapore Memory Project — can be found on the website, Tastes of Yesteryear at http://www.tastesofyesteryear.com/.
+ In 2013, four students from the Wee Kim Wee School of Communication and Information at Nanyang Technological University worked on a project that aimed to raise awareness of the origins of Singapore’s food heritage through interviews with hawkers of signature local dishes. The findings of the study—sponsored by the National Heritage Board and supported by the Singapore Memory Project — can be found on                         [Tastes of Yesteryear.](http://www.tastesofyesteryear.com/.)                
 
 Deborah Lupton is of the view that “food consumption habits are not simply tied to biological needs but serve to mark boundaries between social classes, geographical regions, nations, cultures, genders, life cycle stages, religions and occupations, to distinguish rituals, traditions, festivals, seasons and times of day.”[^13] Where food can be culturally reproduced from generation to generation, it is a denominator that distinguishes one group from another. The act of preparing food is “part of \[an\] individual’s incorporation into a culture, of making it ‘their own’, which then culminates in the act of eating … \[and\] sharing the act of eating brings people into the same community.”[^14]
 
@@ -114,7 +113,7 @@ When given an option, will the younger members in my family choose a simple dish
 <img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
 <b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library at the National Library Board. Her responsibilities include managing and developing content as well as providing reference and research services related to Singapore and Southeast Asia.</div>
 
-#### **References**     
+#### **REFERENCES**     
 
 Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10763085). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
    
@@ -182,22 +181,3 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 [^16]: Newman, J.M. (2004). [_Food culture in China_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
 [^17]: Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3691394) (p. 1). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

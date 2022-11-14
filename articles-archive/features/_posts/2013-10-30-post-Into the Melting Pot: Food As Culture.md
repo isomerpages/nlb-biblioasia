@@ -1,6 +1,6 @@
 ---
 title: "Into the Melting Pot: Food As Culture"
-permalink: /vol-9/issue-3/oct-dec-2013/into-the-melting-pot
+permalink: /vol-9/issue-3/oct-dec-2013/into-the-melting-pot/
 date: 2013-10-30
 layout: post
 description: ""
@@ -24,6 +24,10 @@ Fortune or luck is a great arbiter in Chinese culture and the Chinese are unabas
 
 One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
 
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg">
+<div style="background-color: white;">
+Chef Sin Leong casting a watchful eye over proceedings in his kitchen. <i> Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div> 
+
 The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.[^1] The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
 
 #### **Food As a Form of Culture** 
@@ -36,6 +40,10 @@ One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Le
 
 Before the meal commenced, Chef Sin insisted that the guests visit the altar he keeps in his kitchen, where his mentor, the late Master Luo Cheng, smiles out of an ornate frame, amid offerings of orchid blooms and clouds of incense. Hailing from Shanghai, China, Master Luo groomed Singapore's four most prominent Chinese chefs in the 1970s. His protégés, Sin Leong, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui, were later crowned as Singapore's "Four Heavenly Culinary Kings".
 
+<img style="width:50%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg">
+<div style="background-color: white;">The altar of Master Luo. (2013). <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
+	
+	
 Under the tutelage of Master Luo, the four young junior chefs toiled in the kitchen under his stern eye and exacting standards at the famed Cathay Restaurant (at the old Cathay Building). Opened in 1940, it initially served European fare, but underwent a revamp in 1951 under Master Luo to become the finest Chinese restaurant in Singapore, specialising in Cantonese cuisine. The Cathay Restaurant closed in December 1964 and reopened under a new management at the renovated Cathay Building in 2007.
 
 Chef Hooi, the founder of the famed Dragon Phoenix restaurant - located today at Novotel Clarke Quay at River Valley Road – remembers Master Luo as being very strict, not only making them sharpen their culinary skills but also inculcating in them good work ethics. "[Master Luo] believed that besides skills, good chefs must be equipped with a high standard of social responsibility because they feed so many people." Once the four apprentices had attained a certain level of culinary proficiency, Master Luo told them to go forth to spread the art of Cantonese cuisine.
@@ -68,10 +76,9 @@ The periodic tussles between Singapore and Malaysia over the origins of their �
 
 Beyond specific nationalist and ethnic anxieties, perhaps another primary distinction to make of the *yu sheng-lo hei* conundrum is one of etymology versus semiotics: Is the tussle over *yu sheng* — the dish of raw fish salad and its constituents, variations of which had long been in existence in China’s Canton province, or is it over *lo hei* — the performatory ritual of tossing slivers of raw fish and its accompaniments in a communal social setting? Where does one end and the other begin?
 
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg"><br>
-<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
-<div style="background-color: white;">(From top to bottom) Chef Sin Leong casting a watchful eye over proceedings in his kitchen. The wise words of Chef Sin Leong. The altar of Master Luo. (2013). <i>Images courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
+
+<img style="width:80%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
+<div style="background-color: white;"> The wise words of Chef Sin Leong. <i>Images courtesy of Urban Achiever (www.urbanachiever.com). </i></div>
 
 #### The gastronomic memory of diaspora 
 
@@ -100,14 +107,22 @@ Like a layered Tang dynasty poem where each noun is a palimpsest for something m
 	<i>Yu sheng</i> has become a Lunar New Year staple and it has become so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period - not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> have been replaced with salmon, lobster and abalone.
 </span>
 
-**Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
 
-<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+<div>	
+<b>Amanda Lee Koe</b> is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of <i>Esquire</i> (Singapore), editor of creative non-fiction online magazine <i>POSKOD</i>, communications director at <i>studioKALEID</i>, and co-editor of literary journal <i>Ceriph</i>. </div>
 
-#### **REFERENCES**
 
-Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+#### **REFERENCES**     
+   
 
+
+   
+
+Holtzman, J.D. (2006). Food and memory. _Annual Review of Anthropology, 35_, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+
+
+	
 Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
 
 Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
@@ -128,15 +143,29 @@ Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the trans
 
 Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-#### **NOTES**
+	
+	
+#### **NOTES**     
+	
+	
 [^1]:Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. *Annual review of Anthropology, 31*, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
 [^2]:Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
+
 [^3]:Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor & Francis Online website.
+
 [^4]:Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
+
 [^5]:*The Star*, 30 Jan 2012.
+
 [^6]:Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
 [^7]:Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
+
 [^8]:Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. *American Anthropologist, 101* (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
 [^9]:Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+
 [^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*. Retrieved from New Yorker.com website.
-[^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. *Diaspora: A Journal of Transnational Studies, 1* (1), 83–99. Retrieved from UTP Journals website.
+
+[^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. _Diaspora: A Journal of Transnational Studies, 1_ (1), 83–89.

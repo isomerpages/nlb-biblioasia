@@ -202,7 +202,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^27]: “Dairy Farm Nature Park Opens,” AsiaOne, 5 September 2009, https://www.asiaone.com/News/AsiaOne+News/Singapore/Story/A1Story20090905-165865.html.
 
-[^28]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 334–45.
+[^28]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 34, 45.
 
 [^29]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 

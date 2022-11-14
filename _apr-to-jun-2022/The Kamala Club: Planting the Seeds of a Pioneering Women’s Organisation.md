@@ -1,6 +1,6 @@
 ---
 title: "The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation"
-permalink: /vol-18/issue-1/apr-to-jun-2022/kamala-club
+permalink: /vol-18/issue-1/apr-to-jun-2022/kamala-club/
 description: ""
 image: /images/Vol 18 Issue 1/Kamala
   Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png
@@ -89,7 +89,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 <div style="background-color: white;"> 
 <br>
 <img src="/images/Vol%2018%20Issue%201/Kamala%20Club/Vandana_Aggarwal.png" style="width: 100px; height: 100px;" />
- <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of <i>Voice of Indian Women: The Kamala Club Singapore</i> (2018). She enjoys reading and researching about history.</div>
+ <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of<i> Indian Women: The Kamala Club Singapore</i> (2018). She enjoys reading and researching about history.</div>
 
 #### **NOTES**
 

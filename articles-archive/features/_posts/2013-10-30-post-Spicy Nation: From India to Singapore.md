@@ -1,6 +1,6 @@
 ---
 title: "Spicy Nation: From India to Singapore"
-permalink: /vol-9/issue-3/oct-dec-2013/spicy-food-india-singapore
+permalink: /vol-9/issue-3/oct-dec-2013/spicy-food-india-singapore/
 date: 2013-10-30
 layout: post
 description: ""
@@ -23,7 +23,8 @@ Spices are also believed to have medicinal properties. India’s ancient Ayurved
 
 Apart from using spices individually, masala, basically a mix of spices, is used to add flavour even to the simplest of dishes.[^4] *Masala* comes in various combinations, from dry mixtures to wet pastes, from the more common North Indian *garam masala* — typically a mix of peppercorns, cumin, clove, cinnamon and cardamom pods — to a fiery South Indian coconut-based *masala*. These *masala* concoctions can range in taste from mild to searingly hot.
 
-#### North Indian Delights
+#### **North Indian Delights**
+
 
 Although influenced by different religions and traditions, as well as varying regional climates, India’s culinary delights can generally be categorised into northern and southern cuisines.
 
@@ -66,7 +67,7 @@ Komala Vilas' speciality is the *masala thosai*; so popular that even non-Indian
 
 When Mr Gunasekaran noticed more and more people ordering *masala thosai*, he added more varieties. The menu has since expanded from simple *thosai* to other South Indian dishes like *idli*, variations of *thosai* (crisp thin Indian pancake), *rava thosai* (thosai made with semolina flour), pepper *thosai*, *utthappam* (thick pancake), *vadai* (a savoury snack made from dal, lentil or gram flour and deep fried), as well as North Indian meals with an assortment of chutneys. Its subsidiary, Komalas, run by Mr Gunasekaran’s brother, employs a fast food concept to vegetarian food.
 
-#### **Singaporean Indian fare**
+#### **Singaporean Indian Fare**
 
 Some of the most renowned Indian restaurants in Singapore are Samy’s Curry, which opened in the 1950s, Muthu’s Curry in 1969 and Banana Leaf Apolo in 1974. These three restaurants are known in particular for their mouthwatering and eye-poppingly hot fish head curry. Few people are aware that fish head curry is actually a Singaporean concoction. Eating the fish head is not something common among ethnic Indians, as only those who could not afford to buy the whole fish would eat the head. On the other hand, the Chinese had long ago discovered the delectable sweetness of the flesh from the head and cheeks of a fish; the Teochews for instance eat steamed fish head with ginger and pickled vegetables. Enterprising Indian restaurateurs must have noticed this peculiar habit and decided to experiment cooking fish head with curry spices instead, leading to the birth of this fusion dish.[^11] No one could have imagined its popularity.
 
@@ -77,7 +78,7 @@ The genesis of fish head curry can be traced to an Indian migrant, Mr M.J. Gomez
 
 The Gomez eatery eventually closed, but with the opening of Muthu’s Curry in 1969, the fish head curry craze was revived. From a small coffee shop in Klang Road, the restaurant now has three outlets at Race Course Road, Suntec City and Dempsey Road. Today, fish head curry is one of Singapore’s most iconic foods. This single dish from Muthu’s Curry has won numerous accolades such as “Best Local Dish” by the Singapore Tourism Board, “Best Fish Head Curry” by *Makansutra* and “Best Local Food — Fish Head Curry” by *Singapore Tatler* from 2010 to 2013.[^14]
 
-*Nasi briyani* is another favourite Indian dish in Singapore. Islamic Restaurant along North Bridge Road is one of the oldest culinary institutions in Singapore, started by the late Mr M. Abdul Rahman in 1921. Prior to the opening of his restaurant, he had been the “head chef for the Alsagoffs” serving the renowned *briyani* to foreign guests of this prominent Arab family in Singapore. This dish eventually became the signature dish for Islamic Restaurant. Patronised by many of Singapore’s leaders such as former presidents Yusoff Ishak and S.R. Nathan, Islamic Restaurant is still a favourite haunt of foreign politicians like Malaysia’s Prime Minister Najib Razak”.[^15] 
+*Nasi briyani* is another favourite Indian dish in Singapore. Islamic Restaurant along North Bridge Road is one of the oldest culinary institutions in Singapore, started by the late Mr M. Abdul Rahman in 1921. Prior to the opening of his restaurant, he had been the “head chef for the Alsagoffs” serving the renowned *briyani* to foreign guests of this prominent Arab family in Singapore. This dish eventually became the signature dish for Islamic Restaurant. Patronised by many of Singapore’s leaders such as former presidents Yusoff Ishak and S.R. Nathan, Islamic Restaurant is still a favourite haunt of foreign politicians like Malaysia’s Prime Minister Najib Razak.[^15] 
 
 Another example of a hybrid Indian dish is *mee goreng*, which is yellow wheat noodles fried with chillies, potato cubes, bean sprouts, tomato ketchup and spices. It may have been adapted from Chinese fried noodles, *char kway teow*, to suit the Indian palate. The Tamil-Muslim Chulia community originally from Madras (present-day Chennai) popularised the dish, and this is why it is associated with the Indian-Muslim community in Singapore.[^16]
 
@@ -109,10 +110,15 @@ According to Hindu legend, Lord Krishna transformed into an old sage one day and
 		<br><br>
 <i>Roti prata</i> is a crisp and flaky flatbread that is often eaten with a Hyderabadi-style mutton rib curry cooked with lentils called <i>dalcha</i>. Over time, Singapore has evolved into a <i>prata</i> paradise with many innovative incarnations of <i>prata</i> available in Indian-Muslim stalls as well as restaurants. <i>Prata</i> shops like Thasevi Food in Jalan Kayu and The Roti Prata House in Upper Thomson among others offer numerous varieties, from egg <i>prata</i> and chicken floss <i>prata</i> to combination flavours like cheese and mushroom, cheese and pineapple, cheese and chicken and even ice cream. There is also a <i>prata</i> buffet available at Clay Oven restaurant in Dempsey Road. The humble <i>roti prata</i> is even listed at number 45 on the World’s 50 Most Delicious Foods readers’ poll compiled by CNN Go in 2011.[^20] 
 </span>
+<br>
 
-**Malarvele ilangovan** is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library Provision to the Tamil Community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.
 
-<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+<div>
+<b>Malarvele Ilangovan</b> is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library provision to the Tamil community in Singapore” (co-authored with Dr Susan 
+is a Librarian with the National Library of Higgins), was published in LIBRES in 2003.</div>
+
+
+
 
 #### **REFERENCES**
 
