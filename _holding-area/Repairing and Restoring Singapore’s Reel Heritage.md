@@ -49,7 +49,7 @@ The 35 mm and 16 mm prints were stored in a warehouse when AFA first encountered
 In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNESCO Memory of the World Asia-Pacific Register (MOWCAP), a listing of endangered documentary heritage that represents a legacy for the world’s community. In 2014, the collection became AFA’s and Singapore’s first inscription into the MOWCAP Register. The inscription marked a significant milestone for the AFA and the collection, amplifying the value of the films, and highlighting AFA’s purpose to make the collection accessible through digitisation and restoration before further loss could happen.
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image6.png)
-<div style="background-color: white;"> Screen shots from Dang Anom before and after colour correction. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+<div style="background-color: white;"> Screen shots from <i>Dang Anom</i> before and after colour correction. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 
 #### **Saving a Private Collection for the World**
 
