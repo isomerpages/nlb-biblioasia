@@ -17,10 +17,10 @@ These movies were made using cellulose acetate-based film, a transparent plastic
 
 However, film degrades over time. The condition of both cellulose nitrate and cellulose acetate material is highly dependent on temperature and relative humidity. Storing film materials at room temperature or warmer, and coupled with high humidity, will inevitably cause chemical decay in the base and emulsion of the film material. 
 
+In Southeast Asia’s tropical climate, the degradation resulting in the colour, image and sound loss of the material can occur easily with the lethal combination of humidity and heat. Problems such as “vinegar syndrome” cause films to become brittle, shrink and emit an acidic odour. In addition, the warm environment is a perfect breeding ground for the growth of mould, mildew and fungus. Improper handling and transportation of the material have also resulted in mechanical damage such as torn splices and broken perforations.
+
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image3.png)
 <div style="background-color: white;"> Film reel affected by chemical decay and mould. <i>Courtesy of Asian Film Archive.</i></div>
-
-In Southeast Asia’s tropical climate, the degradation resulting in the colour, image and sound loss of the material can occur easily with the lethal combination of humidity and heat. Problems such as “vinegar syndrome” cause films to become brittle, shrink and emit an acidic odour. In addition, the warm environment is a perfect breeding ground for the growth of mould, mildew and fungus. Improper handling and transportation of the material have also resulted in mechanical damage such as torn splices and broken perforations.
 
 #### **Breathing New Life into Classic Films**
 
