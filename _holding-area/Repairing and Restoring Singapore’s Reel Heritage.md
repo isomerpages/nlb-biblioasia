@@ -80,7 +80,7 @@ Patah Hati was one of the most challenging film restorations ever encountered by
 
 After six months of hard work, Patah Hati was finally restored and presented at “Spotlight on Singapore Cinema” in 2015. A text slate was included at the start of the film to address the entire missing first scene and to explain the challenges of the restoration.
 
-Singapore’s Only Known Surviving Nitrate-based Film
+#### **Singapore’s Only Known Surviving Nitrate-based Film**
 
 In the course of restoring Patah Hati, the AFA stumbled upon a surviving 35 mm film print of Permata Di-Perlimbahan (1952, Haji Mahadi), produced by Shaw Brothers’ MFP and kept in the collection of Shaw Organisation. It is the first Singapore film directed by a Malay director. Made at the beginning of the studio era, the film features one of the earliest film performances of Maria Menado and Nordin Ahmad for MFP before they moved to Cathay-Keris in the mid-1950s. Prior to this, Malay films were directed by Chinese and Indian filmmakers. What is even more fascinating is that the film is currently the only known extant Singapore film in a cellulose nitrate-based print. 
 
