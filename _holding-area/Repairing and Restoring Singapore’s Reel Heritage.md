@@ -6,8 +6,8 @@ description: The Asian Film Archive has been restoring old classics since 2014.
 #### The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 
-![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png)
-<div style="background-color: white;"> The entrance to the shrine of Dato Syed Abdul Rahman before the fire, 2022. <i>Courtesy of William Gibson.</i>
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image1.png)
+<div style="background-color: white;"> A damaged 35 mm film reel. <i>Courtesy of Asian Film Archive.</i>
 </div>
 
 Wong Kar Wai’s *In the Mood for Love* (2000). David Lean’s *Lawrence of Arabia* (1962). Charlie Chaplin’s Modern Times (1936). Satyajit Ray’s *Pather Panchali* (1955). These are just a handful of canonical works by the auteurs of world cinema that have been digitally restored in the last 10 years.
