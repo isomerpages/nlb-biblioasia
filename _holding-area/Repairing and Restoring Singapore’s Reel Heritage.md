@@ -96,10 +96,10 @@ Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural 
 *Dang Anom* and *Chinta Kaseh Sayang* are two of the 13 films directed by Cathay-Keris’ star director Hussein Haniff. Unfortunately, he had a short career  and died at the age of 32. However, he is regarded today as an auteur of classic Malay Cinema. 
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image12.png)
-<div style="background-color: white;"> Still from <i>Dang Anom</i> by S. Roomai Noor.<i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+<div style="background-color: white;"> Still from <i>Dang Anom</i> by Hussain Haniff. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image13.png)
-<div style="background-color: white;"> Still from <i>Chinta Kaseh Sayang</i> by S. Roomai Noor.<i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+<div style="background-color: white;"> Still from <i>Chinta Kaseh Sayang</i> by Hussain Haniff. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 
 In 2020, the AFA restored *Mat Magic*, the only title in the Cathay-Keris collection jointly directed by iconic comedian Mat Sentol, and the American magician and film actor John Calvert. It marked an early creative collaboration between Singapore and Hollywood, and was the concluding film of the Mat series produced by Cathay-Keris. The restored film made its world premiere at the 50th International Film Festival Rotterdam in 2021. In the same year, AFA also restored *Dara-Kula*, a horror film by Mat Sentol, illustrating his move away from the comedy genre for his last work during his time at Cathay-Keris. 
 
