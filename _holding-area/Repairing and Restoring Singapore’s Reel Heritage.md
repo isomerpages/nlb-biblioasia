@@ -48,7 +48,7 @@ Two sets of film elements were available for *Sultan Mahmood Mangkat Dijulang*. 
 
 For *Gado Gado*, only the first reel of its negative had survived, but it was completely unusable due to serious decay, warping and shrinkage. The film was restored from a first generation 35 mm print.
 
-Both works were unique within the Cathay-Keris collection. Based on the 17th-century Malay Annals, Sultan Mahmood Mangkat Dijulang was one of the studio’s finest achievements among its stable of historical dramas and featured a rare star-studded cast. 
+Both works were unique within the Cathay-Keris collection. Based on the 17th-century *Malay Annals*, Sultan *Mahmood Mangkat Dijulang* was one of the studio’s finest achievements among its stable of historical dramas and featured a rare star-studded cast. 
 
 The film was directed by K.M. Basker, an Indian filmmaker who was responsible for many of the early Malay films produced by both Cathay-Keris and Shaw Brothers’ MFP in the 1950s, before Malay directors took the reins. Gado Gado was a charming oddity for being the only medium-length musical variety film that featured a host of star actors, resembling a tribute to the studio’s stars. 
 
