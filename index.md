@@ -9,14 +9,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
-      button: Before there was Sentosa, <br> there was Sarong Island
+      url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/Maiden
+        Lim
+      button: Taoist Folk Goddesses of Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
-      title: Sarong Island
+      background: /images/Vol 18 Issue 4/Maiden Lim/20220926_133743 Hero Maiden Lim .jpg
+      title: Maiden Lim and Her Sisters
   - infopic:
       title: A Voice for the Wild
       subtitle: Nature
