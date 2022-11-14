@@ -69,7 +69,7 @@ The film was directed by K.M. Basker, an Indian filmmaker who was responsible fo
 The restoration of both films took over six months, and the restored films were presented for the first time with newly created English and French subtitles at the Cinémathèque Française as part of “Cinemas de Singapour en 50 films”. This was a special retrospective programme co-organised by the Singapore Film Commission that showcased 50 Singaporean films to commemorate the nation’s 50th year of independence in 2015. 
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image8.png)
-<div style="background-color: white;"> (Left) A reel undergoing re-hydration/desiccation treatment. Courtesy of L’Immagine Ritrovata. (Right) Repairing a splice of a 35 mm print. Courtesy of L’Immagine Ritrovata</i></div>
+<div style="background-color: white;"> (Left) A reel undergoing re-hydration/desiccation treatment. <i>Courtesy of L’Immagine Ritrovata</i>. (Right) Repairing a splice of a 35 mm print. <i>Courtesy of L’Immagine Ritrovata</i></div>
 
 *Gado Gado* was also selected for the Il Cinema Ritrovato, the first Singaporean work to be screened at an important film festival for heritage and restored films in the Italian city of Bologna. *Sultan Mahmood Mangkat Dijulang* made its Singapore premiere at the National Museum of Singapore Gallery Theatre in 2015 in celebration of AFA’s 10th anniversary and its first film restoration.
 
