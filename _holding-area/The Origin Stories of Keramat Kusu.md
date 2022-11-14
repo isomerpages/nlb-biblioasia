@@ -21,6 +21,10 @@ Around 1822, the British erected a signal on the island and as a result, the ear
 
 The Malay name for the island is Pulau Tembakul, which means "mudskipper island”, either because mudskippers were once abundant on the mud flats or because in profile the island, with its bulbous head and narrow fin-like tail, resembles a mudskipper. “Kusu”, which means “turtle” in Hokkien, likely comes from the dome shape of the island resembling a turtle shell.
 
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/Pulau%20Tembakul1.jpg)
+<div style="background-color: white;"> View of Kusu Island from the ferry, 2022. <i>Courtesy of William Gibson.</i>
+</div>
+
 #### **Shrines and Temple**
 
 Remarkably, there is evidence that the Tua Pek Kong Temple and the *keramat* have been on the island since at least the mid-19th century.[^3] This is based on a letter written by Cheang Hong Lim, a prosperous opium trader and head of the Hokkien community in Singapore, to J.F.A. McNair, Colonial Engineer and Surveyor General of the Straits Settlements, on 9 March 1875. Cheang protested the policy of using the island as a burial ground for the quarantine facility located on nearby St John’s Island.[^4]
@@ -70,6 +74,10 @@ A *Straits Times* report in 1929 offers one of the oldest descriptions of the or
 A lengthy article about Kusu in a 1932 *Straits Times* report introduced new elements to the story. It noted that some time in the “olden days”, a Chinese fisherman who felt unwell was put ashore and, “in accordance with his dying wishes”, was buried on the deserted island by his friends who also erected a tombstone for him. Not long after, a Malay fisherman died on the island was also buried there. Friends of the two fishermen became rich after dreaming about the deceased fishermen and began paying their respects to the spirits.[^10] This version of the story forms the basis for the “legendary” version of Kusu Island that most of us are familiar with today in which the two men become sworn brothers.[^11] 
 
 In the early days, the *keramat* was not associated with any particular named individual. The 1932 article describes the shrine as two small “sheds” of concrete. “One covers the grave of the Malay fisherman. The other is also supposed to be the graves of other Malays but no stories, so far as I can gather, are told concerning them.” The article adds that on a nearby *keramat* tree, “strings of stones” were hung. “When a man has his wish fulfilled, he recalls his vow, goes back to the island, hangs up the stones and takes them down only when he has discharged his debt!”[^12] The hanging of stones was once common at other *keramat* in Singapore renown for powers of granting children, such as Iskandar Shah and Habib Nuh. While the tradition is no longer continued at these *keramat*, yellow ribbons are still tied on the trees around the *keramat* at Kusu.
+
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image7_edit.png)
+<div style="background-color: white;">The two female shrines as seen from Dato Abdul Rahman’s shrine (stations 4 and 5 in the order of offerings) before the fire, 2022. The plaques from 1917 and 1921 could be seen embedded in the columns; the 1921 plaque was beneath the number 5. <i>Courtesy of William L. Gibson.
+</i></div>
 
 #### **Keramat Stories**
 
