@@ -75,8 +75,8 @@ A lengthy article about Kusu in a 1932 *Straits Times* report introduced new ele
 
 In the early days, the *keramat* was not associated with any particular named individual. The 1932 article describes the shrine as two small “sheds” of concrete. “One covers the grave of the Malay fisherman. The other is also supposed to be the graves of other Malays but no stories, so far as I can gather, are told concerning them.” The article adds that on a nearby *keramat* tree, “strings of stones” were hung. “When a man has his wish fulfilled, he recalls his vow, goes back to the island, hangs up the stones and takes them down only when he has discharged his debt!”[^12] The hanging of stones was once common at other *keramat* in Singapore renown for powers of granting children, such as Iskandar Shah and Habib Nuh. While the tradition is no longer continued at these *keramat*, yellow ribbons are still tied on the trees around the *keramat* at Kusu.
 
-![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image7_edit.png)
-<div style="background-color: white;">The two female shrines as seen from Dato Abdul Rahman’s shrine (stations 4 and 5 in the order of offerings) before the fire, 2022. The plaques from 1917 and 1921 could be seen embedded in the columns; the 1921 plaque was beneath the number 5. <i>Courtesy of William L. Gibson.
+![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/Tree_Keramat1.jpg)
+<div style="background-color: white;">The tree near the _keramat_ is adorned with ribbons, and lottery numbers are scrawled over the painted rocks, 2022. <i>Courtesy of William L. Gibson.
 </i></div>
 
 #### **Keramat Stories**
@@ -126,6 +126,8 @@ The blaze on 17 April 2022, however, threatened to put an end to the rituals. Th
 A month after the conflagration, it was announced that the *keramat* would be rebuilt at a cost of hundreds of thousands of dollars, in time for the Double Ninth Festival.[^20]  In early September 2022, the *Straits Times* quoted the shrine’s caretaker, Ishak Samsudin, as saying that the *keramat* was about 70 percent rebuilt by then, and would “likely be ready” in time for the pilgrimage season at the end of September. Ishak told the newspaper that he had financed the reconstruction with donations from friends and companies.[^21] 
 
 I returned to the site in November 2022. It had been rebuilt in time for the Ninth Month celebrations, but it was still not complete. A temporary marquee had been erected to provide shade and burned debris still littered the hillside beneath the shrines. The shrines were reconstructed in almost exact replicas with some of the original material, such as the concrete altars, left intact.
+
+
 
 Unfortunately, the 1917 dedication plaques were badly damaged and poorly restored.  However, by burning off decades worth of accumulated jerry-built material, the catastrophe revealed previously hidden artefacts. At the back of the altars for the two women are stone mounds commonly seen in *datuk* nature shrines. More intriguingly, a worn *batu nisan* (gravestone) placed before one of these mounds is inscribed with a Jawi phrase that mirrors the 1917 plaque. The phrase “Datuk Nenek” is legible, which suggests that a shrine-grave was erected here during the 1917–1921 renovations in honour of the female *datuk* of Kusu Island. During my visit, several worshippers passed through, marking their devotion with prayers and incense as the sea glittered below.
 
