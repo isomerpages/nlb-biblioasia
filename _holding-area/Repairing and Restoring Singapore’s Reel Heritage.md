@@ -93,7 +93,7 @@ When combusted, nitrate film has a high burning point, is virtually inextinguish
 
 The restoration of Permata Di-Perlimbahan took almost a year to complete before it was presented at AFA’s annual film and art event, “State of Motion 2020: Rushes of Time”. 
 
-The Fate of P. Ramlee’s Seniman 	Bujang Lapok
+#### **The Fate of P. Ramlee’s Seniman 	Bujang Lapok**
 
 The first Malay classic film that I encountered when I started work at AFA was Seniman Bujang Lapok (1961) by the Malay film icon P. Ramlee. A self-referential spoof of the Malay film industry of the late 1950s to early 1960s, the film never fails to make audiences young and old laugh. The film exists today in video format and on poor quality VCD and DVD releases.
 
