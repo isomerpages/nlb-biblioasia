@@ -44,9 +44,9 @@ In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNE
 
 In 2014, the AFA began its restoration efforts of the Cathay-Keris films. Two works were identified: *Sultan Mahmood Mangkat Dijulang* (1961, K.M. Basker) and *Gado Gado* (1961, S. Roomai Noor). These were chosen because they were in the worst condition. Mould and chemical decay had affected the prints, resulting in severe warpage and shrinkage of the material.
 
-Two sets of film elements were available for Sultan Mahmood Mangkat Dijulang. Reels 5, 8 and 11 of the 35 mm print were missing and had English subtitles burned in. Therefore, the 35 mm print was largely unusable and the film was mostly restored using the 16 mm print.
+Two sets of film elements were available for *Sultan Mahmood Mangkat Dijulang*. Reels 5, 8 and 11 of the 35 mm print were missing and had English subtitles burned in. Therefore, the 35 mm print was largely unusable and the film was mostly restored using the 16 mm print.
 
-For Gado Gado, only the first reel of its negative had survived, but it was completely unusable due to serious decay, warping and shrinkage. The film was restored from a first generation 35 mm print.
+For *Gado Gado*, only the first reel of its negative had survived, but it was completely unusable due to serious decay, warping and shrinkage. The film was restored from a first generation 35 mm print.
 
 Both works were unique within the Cathay-Keris collection. Based on the 17th-century Malay Annals, Sultan Mahmood Mangkat Dijulang was one of the studio’s finest achievements among its stable of historical dramas and featured a rare star-studded cast. 
 
