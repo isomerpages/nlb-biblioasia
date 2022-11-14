@@ -92,7 +92,7 @@ By that time, the print was already in an advanced state of chemical decay and s
 
 When combusted, nitrate film has a high burning point, is virtually inextinguishable and can spread quickly. Therefore, it needs to be stored in a low-humidity and protective environment, with temperatures below freezing point. It also needs to be kept away from other films. With no dedicated facility in Singapore that can handle and store nitrate films, the 35 mm print is now in the care and custody of Cineteca di Bologna’s nitrate film vault (a film archive founded in 1962 in Bologna). 
 
-The restoration of Permata Di-Perlimbahan took almost a year to complete before it was presented at AFA’s annual film and art event, “State of Motion 2020: Rushes of Time”. 
+The restoration of *Permata Di-Perlimbahan* took almost a year to complete before it was presented at AFA’s annual film and art event, “State of Motion 2020: Rushes of Time”. 
 
 #### **The Fate of P. Ramlee’s Seniman 	Bujang Lapok**
 
