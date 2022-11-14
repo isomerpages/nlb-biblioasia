@@ -81,7 +81,7 @@ To date, AFA has restored a total of nine titles from the surviving film element
 *Chuchu Datok Merah* is a classic period drama by Malay director M. Amin that was restored and first presented in August 2015 at “Spotlight of Singapore Cinema” at the Capitol Theatre in celebration of Singapore’s 50th year of independence. M. Amin was Cathay-Keris’ most prolific director, having worked on nearly 30 films over a span of 10 years. He remained with the studio till the very end when it ceased operations in 1972. 
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image9.png)
-<div style="background-color: white;"> Stills from <i>Chuchu Datok Merah</i> by M. Amin. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+<div style="background-color: white;"> Still from <i>Chuchu Datok Merah</i> by M. Amin. <i>Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 
 One of the last films produced by Cathay-Keris is *Aku Mahu Hidup*. Written by Rajendra Gour, a pioneer of early independent short filmmaking in Singapore, the film’s adoption and sensitive treatment of the then controversial subject of prostitution portrays the progressive social consciousness of 1970s Malay cinema.
 
