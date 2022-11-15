@@ -51,3 +51,31 @@ New equipment comprising RFID tagging workstations, gantries, bookdrops, auto so
 #### **The Implementation**
 	
 The u-Pustaka Pilot Project took three years from its conceptualisation in 2008 to its launch in 2011. A project of this magnitude entailed many man-hours spent on initial studies, executive talks, readiness assessments, solicitation of funds, concept trials and the tender process, all of which took place between 2008 and 2009. The project kicked off in 2010 with a focus on the U-Library System development, Standard Operating Procedures (SOP) workshops, system implementation as well as promotional and awareness programmes that were carried out until 2011.
+
+#### **The Portal**
+
+
+The launch of the u-Pustaka Project on 31 March 2011 ushered in an innovation in library services for Malaysian citizens. The u-Pustaka Portal (http://www. ulibrary.gov.my) is the centrepiece of the u-Pustaka Project and being the gateway to services and knowledge, the portal is interactive and user-friendly, providing users with an engaging learning and social experience in their pursuit of lifelong learning. Access to services and content is available in both Bahasa Malaysia (Malay language) and English.
+
+Since u-Pustaka is an ubiquitous virtual library, fast, efficient and reliable service delivery for the public is of paramount importance. The portal is made up of four major components, namely inter-lending services, web publishing, content management and collaboration. A lot of thought went into designing the system so as to encourage the public to borrow and return books from any of the eight member libraries easily and at their convenience. Members have the choice of having books delivered right to their doorsteps, returning books at the nearest participating library, and engaging in online learning and knowledge sharing anytime as transactions are carried out 24/7 via the portal.
+
+One of the unique features of u-Pustaka is the inter-lending services where the lending collections of the eight participating libraries are made available to u-Pustaka members. In a nutshell, the process of borrowing and returning books, illustrated by the diagram on the left, are as follows:
+
+1. Users sign up to be a member via the u-Pustaka Portal. Membership is free of charge. 
+
+2. Users can search for a book or read reviews to help them find a book they like. 
+
+3. The availability of the book from participating consortium members and the book’s borrowing status will be displayed. 
+
+4. Members can opt to have the book posted by e-parcel or courier service through Pos Malaysia. 
+
+5. Payment can then be made either through the Malaysian Electronic Payment System (meps) or Touch ‘n Go. 
+
+6. Books can be returned via u-Pustaka bookdrops located at participating libraries or via the e-parcel service where the books will be collected from their homes.
+
+
+
+
+
+
+
