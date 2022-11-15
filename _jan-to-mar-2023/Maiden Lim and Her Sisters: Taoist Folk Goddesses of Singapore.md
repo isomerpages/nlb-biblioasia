@@ -1,9 +1,12 @@
 ---
 title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore"
-permalink: /holding-area/test3/
+permalink: /vol-18/issue-4/jan-mar-2023/taoist-folk-godesses-singapore/
 description: The local Taoist pantheon includes goddesses only found in
   Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
+image: /images/Vol 18 Issue 4/Maiden Lim/Huang Guniang2.jpg
 ---
+
+
 #### The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 By Ng Yi-Sheng
 
@@ -29,7 +32,13 @@ Hidden in the neighbourhood of Bukit Merah, between Gan Eng Seng Primary School 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png)
 <div style="background-color: white;"> Zhen Long Gong after its renovation, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Lei%20Niangniang%20and%20Lin%20Guniang.jpg)
+<div style="background-color: white;">Lin Guniang’s and Lei Niangniang’s statues being carried to their new premises at the newly renovated Zhen Long Gong on the night of 24 September 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 Here, worshippers also bow before Lin Guniang. Her statue is swaddled in a glittering multicoloured cape, fastened around her throat with a red ribbon. Beneath the fabric, she is garlanded with beads. Ritual offerings lie on her altar: boxed cosmetics, lipsticks and perfumes. Paper lanterns hang outside the temple doors, marked with her name. Each year, on the 15th day of the seventh lunar month, a small festival is held in her honour. 
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Lin%20Guniang%20and%20Lei%20Niangniang.jpg)
+<div style="background-color: white;">The statues of Lin Guniang (bottom left) and Lei Niangniang (top left corner) on an altar of terrestrial gods at Zhen Long Gong prior to the renovations.. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 Some controversy surrounds her origins. The temple’s caretaker, 74-year-old Huang Yahong (黄亚宏), is happy to share what he knows of her legend, but cautions that certain details may only be shared orally, not in writing.[^8] It feels safe, nevertheless, to reveal that his account corresponds closely with one printed in the *Straits Times* in 1989. 
 
@@ -68,7 +77,7 @@ Before we move on, return your gaze to the altar. To the right of Lin Guniang is
 <div style="background-color: white;"> Lin Guniang and Lei Niangniang are honoured with their names on the paper lanterns of Zhen Long Gong, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image5_edit.png)
-<div style="background-color: white;"> The statutes of Lin Guniang (left) Lei Niangniang (right) on the formal altar of Zhen Long Gong after the renovation of the temple, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+<div style="background-color: white;"> The statues of Lin Guniang (left) and Lei Niangniang (right) on the formal altar of Zhen Long Gong after the renovation of the temple, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru.[^18] Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
 
@@ -83,7 +92,13 @@ A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jala
 
 Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden Huang, Maiden Ng and Ng Kor Niu. Her name is written in gold on red, couched on a stylised lotus and framed by flowering vines. In a glass cabinet, she sits on the topmost shelf, above 28 tablets of other deceased souls, while the ash-filled urns of other mortals occupy the walls of the neighbouring rooms.
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/High-res%20image%20of%20Huang%20Guniang.jpg)
+<div style="background-color: white;">Huang Guniang’s new tablet at Wat Ananda Metyarama, 2022 <i>Courtesy of Victor Yue.</i></div>
+
 The details of Huang Guniang’s legend are unusually precise. On his website, the Taoist priest Jave Wu states that she was born in 1866, on the 12th day of the sixth lunar month, in the village of Gu Ah Sua (龟仔山), later known as Kampong Silat. Her name was Huang Su Ying (黃素英, pronounced Ng Shor Eng in Hokkien and Wong Sok Eng in Cantonese). As her family was poor, she worked with her mother as a laundress from a young age.[^19]
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Huang%20Guniang2.jpg)
+<div style="background-color: white;">Illustrations of Huang Guniang.  <i>Courtesy of Spiritual Singapore.</i></div>
 
 In 1879, Huang Guniang began doing laundry with her paternal aunt at the Kandang Kerbau Hospital. In 1882, they moved to SGH, which had just shifted to its current location on Outram Road. One day, a doctor suggested that she train to be a nurse. She qualified in 1900 and began caring for patients and assisting in the pharmacy.[^20]
 
