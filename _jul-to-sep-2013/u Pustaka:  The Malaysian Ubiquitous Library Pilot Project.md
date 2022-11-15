@@ -26,7 +26,7 @@ u-Pustaka is an innovative and fitting culmination of the effort, collaboration 
 
 	
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg">
-<div style="background-color: white;"> 	
+	
 	
 	
 	
