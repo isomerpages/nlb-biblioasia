@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2013:
     output: true
     order:
+      - "u Pustaka:  The Malaysian Ubiquitous Library Pilot Project.md"
       - Director's Column.md
       - Libraries for Life.md
       - "LIBRARIES: A Force to Transform Societies.md"
