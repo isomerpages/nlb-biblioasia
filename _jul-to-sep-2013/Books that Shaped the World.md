@@ -36,11 +36,8 @@ In terms of philosophy, one must consider Aristotle’s work. It was the basis o
 
 When considering the founding books of civilisation, the rise of science must be taken into account. For example, there are the fundamental works of Copernicus, but perhaps the most important of all, in the history of science, are the principles of natural philosophy by Isaac Newton, who gave us the law of gravity and so much else.
 
-In terms of social science, one has to go to the Muslim world and Ibn Khaldun. Ibn Khaldun was born in what is now southern Spain and ended up being a founding figure in the northern African world. His *Prolegomena* and his longer seven volumes that were associated with it are really the first world history. He wrote a history that was also a treatise on sociology, geology and an analysis of the movement from rurals to cities. He was the first great world historian. Arnold Toynbee said Khaldun was the greatest world historian of all, but alas he is not very well known. When I was teaching world history, I always began with a reading of *Prolegomena* and students were astonished that anyone could write that way in the 14th century.
+In terms of social science, one has to go to the Muslim world and Ibn Khaldun. Ibn Khaldun was born in what is now southern Spain and ended up being a founding figure in the northern African world. His *Prolegomena* and his longer seven volumes that were associated with it are really the first world history. He wrote a history that was also a treatise on sociology, geology and an analysis of the movement from rurals to cities. He was the first great world historian. Arnold Toynbee said Khaldun was the greatest world historian of all, but alas he is not very well known. When I was teaching world history, I always began with a reading of *Prolegomena* and students were astonished that anyone could
 
-
-
-
-
-
-
+ 
+ 
+ write that way in the 14th century.
