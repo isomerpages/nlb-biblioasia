@@ -29,7 +29,13 @@ Hidden in the neighbourhood of Bukit Merah, between Gan Eng Seng Primary School 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png)
 <div style="background-color: white;"> Zhen Long Gong after its renovation, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Lei%20Niangniang%20and%20Lin%20Guniang.jpg)
+<div style="background-color: white;">Lin Guniang’s and Lei Niangniang’s statues being carried to their new premises at the newly renovated Zhen Long Gong on the night of 24 September 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 Here, worshippers also bow before Lin Guniang. Her statue is swaddled in a glittering multicoloured cape, fastened around her throat with a red ribbon. Beneath the fabric, she is garlanded with beads. Ritual offerings lie on her altar: boxed cosmetics, lipsticks and perfumes. Paper lanterns hang outside the temple doors, marked with her name. Each year, on the 15th day of the seventh lunar month, a small festival is held in her honour. 
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Lin%20Guniang%20and%20Lei%20Niangniang.jpg)
+<div style="background-color: white;">The statues of Lin Guniang (bottom left) and Lei Niangniang (top left corner) on an altar of terrestrial gods at Zhen Long Gong prior to the renovations.. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 Some controversy surrounds her origins. The temple’s caretaker, 74-year-old Huang Yahong (黄亚宏), is happy to share what he knows of her legend, but cautions that certain details may only be shared orally, not in writing.[^8] It feels safe, nevertheless, to reveal that his account corresponds closely with one printed in the *Straits Times* in 1989. 
 
@@ -80,9 +86,6 @@ A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jala
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image6.png)
 <div style="background-color: white;"> Wat Ananda Metyarama along Jalan Bukit Merah. Its columbarium houses the tablet of Huang Guniang. <i>Courtesy of Ng Yi-Sheng.</i></div>
-
-![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Lei%20Niangniang%20and%20Lin%20Guniang.jpg)
-<div style="background-color: white;">Lin Guniang’s and Lei Niangniang’s statues being carried to their new premises at the newly renovated Zhen Long Gong on the night of 24 September 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden Huang, Maiden Ng and Ng Kor Niu. Her name is written in gold on red, couched on a stylised lotus and framed by flowering vines. In a glass cabinet, she sits on the topmost shelf, above 28 tablets of other deceased souls, while the ash-filled urns of other mortals occupy the walls of the neighbouring rooms.
 
