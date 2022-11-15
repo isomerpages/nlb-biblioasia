@@ -81,9 +81,18 @@ A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jala
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image6.png)
 <div style="background-color: white;"> Wat Ananda Metyarama along Jalan Bukit Merah. Its columbarium houses the tablet of Huang Guniang. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Lei%20Niangniang%20and%20Lin%20Guniang.jpg)
+<div style="background-color: white;">Lin Guniang’s and Lei Niangniang’s statues being carried to their new premises at the newly renovated Zhen Long Gong on the night of 24 September 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+
 Here, you will find the tablet of Huang Guniang (黄姑娘), also called Maiden Huang, Maiden Ng and Ng Kor Niu. Her name is written in gold on red, couched on a stylised lotus and framed by flowering vines. In a glass cabinet, she sits on the topmost shelf, above 28 tablets of other deceased souls, while the ash-filled urns of other mortals occupy the walls of the neighbouring rooms.
 
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/High-res%20image%20of%20Huang%20Guniang.jpg)
+<div style="background-color: white;">Huang Guniang’s new tablet at Wat Ananda Metyarama, 2022 <i>Courtesy of Victor Yue.</i></div>
+
 The details of Huang Guniang’s legend are unusually precise. On his website, the Taoist priest Jave Wu states that she was born in 1866, on the 12th day of the sixth lunar month, in the village of Gu Ah Sua (龟仔山), later known as Kampong Silat. Her name was Huang Su Ying (黃素英, pronounced Ng Shor Eng in Hokkien and Wong Sok Eng in Cantonese). As her family was poor, she worked with her mother as a laundress from a young age.[^19]
+
+![](/images/Vol%2018%20Issue%204/Maiden%20Lim/Huang%20Guniang2.jpg)
+<div style="background-color: white;">Illustrations of Huang Guniang.  <i>Courtesy of Spiritual Singapore.</i></div>
 
 In 1879, Huang Guniang began doing laundry with her paternal aunt at the Kandang Kerbau Hospital. In 1882, they moved to SGH, which had just shifted to its current location on Outram Road. One day, a doctor suggested that she train to be a nurse. She qualified in 1900 and began caring for patients and assisting in the pharmacy.[^20]
 
