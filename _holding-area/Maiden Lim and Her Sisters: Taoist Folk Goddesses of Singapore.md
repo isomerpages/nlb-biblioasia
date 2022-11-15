@@ -68,7 +68,7 @@ Before we move on, return your gaze to the altar. To the right of Lin Guniang is
 <div style="background-color: white;"> Lin Guniang and Lei Niangniang are honoured with their names on the paper lanterns of Zhen Long Gong, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image5_edit.png)
-<div style="background-color: white;"> The statutes of Lin Guniang (left) Lei Niangniang (right) on the formal altar of Zhen Long Gong after the renovation of the temple, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
+<div style="background-color: white;"> The statutes of Lin Guniang (left) and Lei Niangniang (right) on the formal altar of Zhen Long Gong after the renovation of the temple, 2022. <i>Courtesy of Ng Yi-Sheng.</i></div>
 
 What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘), which suggests a connection with the Si Jiao Ting Hokkien Cemetery in Tiong Bahru.[^18] Huang the caretaker, on the other hand, insists she was native to Kampong Henderson, and that she was admitted to Zhen Ren Gong sometime in the 1950s.
 
