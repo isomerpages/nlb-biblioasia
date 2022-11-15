@@ -7,7 +7,7 @@ description: The importance of books lies in its substance and not its form.
 ---
 #### The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.
 
-<img style="width: 50%;"
+<img style="width: 80%;"
 src="/images/Vol%209%20Issue%202/Books%20that%20Shaped%20the%20World/reading%20room_2.jpg">
 <div style="background-color: white;"> 
 The main reading room of the Library of Congress, Thomas Jefferson Building. <i>Image by Jiuguang Wang via Flickr.</i></div>	
@@ -26,8 +26,17 @@ What we might call the founding books of civilisation are in many ways the books
 <img style="width: 80%;"
 src="/images/Vol%209%20Issue%202/Books%20that%20Shaped%20the%20World/ramayana%20in%20persian.jpg">
 <div style="background-color: white;"> 
-A handwritten and illustrated codex of the Ramayana in Persian. <i>Image by Hafiz Issadeen via Flickr</i></div>	
-	
+A handwritten and illustrated codex of the Ramayana in Persian. <i>Image by Hafiz
+Issadeen via Flickr</i></div>
+
+The great founding epics of the Western tradition, Homer’s *Iliad* and *Odyssey*, which are almost as old as the oldest Indian and Chinese works, are not to be forgotten. The first work on actual history is *The History of the Peloponnesian War* by Thucydides. I remember, as an undergraduate in college, hearing former Secretary of State General George C. Marshall give a speech, just before he announced the Marshall Plan (officially known as the European Recovery Programme, which lasted from 1948 to 1951), saying he had been reading the aforementioned book and that it gave him guidance about the post-war world. Thus, that work of founding importance in Western history retains its importance even today.
+
+
+In terms of philosophy, one must consider Aristotle’s work. It was the basis of the theology of the Latin Church, which penetrated from Greece into the Islamic world, then into the Christian world and Jewish thought. All kinds of secular thought, and even early governmental thinking in the West, had its roots in the philosophical works of Aristotle. If I had to choose a particular work of Aristotle as being especially influential, I would select the edition of his work that was published in Venice in the early modern period.
+
+When considering the founding books of civilisation, the rise of science must be taken into account. For example, there are the fundamental works of Copernicus, but perhaps the most important of all, in the history of science, are the principles of natural philosophy by Isaac Newton, who gave us the law of gravity and so much else.
+
+In terms of social science, one has to go to the Muslim world and Ibn Khaldun. Ibn Khaldun was born in what is now southern Spain and ended up being a founding figure in the northern African world. His *Prolegomena* and his longer seven volumes that were associated with it are really the first world history. He wrote a history that was also a treatise on sociology, geology and an analysis of the movement from rurals to cities. He was the first great world historian. Arnold Toynbee said Khaldun was the greatest world historian of all, but alas he is not very well known. When I was teaching world history, I always began with a reading of *Prolegomena* and students were astonished that anyone could write that way in the 14th century.
 
 
 
