@@ -5,3 +5,5 @@ description: The importance of books lies in its substance and not its form.
   Whether on page or in pixel, the ideas perpetuated by books will continue to
   influence people and communities.
 ---
+#### The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.
+
