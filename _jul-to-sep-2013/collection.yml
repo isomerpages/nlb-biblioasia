@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2013:
     output: true
     order:
+      - 建设覆盖城乡的数字图书馆服务体系.md
       - Director's Column.md
       - Libraries for Life.md
       - "LIBRARIES: A Force to Transform Societies.md"
