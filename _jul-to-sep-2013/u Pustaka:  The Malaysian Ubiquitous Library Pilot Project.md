@@ -12,7 +12,9 @@ description: In pursuit of a knowledge-based society, the National Library of
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg">
 <div style="background-color: white;"> 
 	
+	
 The vast reservoir of knowledge resources readily available in libraries is a treasure trove waiting to be discovered and used. Its easy accessibility to the public is crucial in the pursuit of lifelong learning as well as in supporting Malaysia’s quest to become a knowledge-based society. People of all ages and social backgrounds have a soft spot and affinity for libraries and this opens up opportunities for the introduction of new services by leveraging on the rapid advances in information and communications technology (ICT) and the Internet.
+	
 	
 The Malaysian Ubiquitous Library Pilot Project, u-Pustaka, a collaboration among eight libraries, was spearheaded by the Malaysian Communications and Multimedia Commission (MCMC) as a project under the National Broadband Initiative. Its foundation and concept was based on recommendation 54 of the Knowledge-Based Economy Master Plan that states: “Review and enhance the role and contributions of museums, libraries and think tanks in lifelong learning to provide resources for learning and should be made more accessible to the majority of citizens”. Hence, the project aims to serve the public by delivering innovative library services into every household anytime and anywhere via broadband and other state-of-the-art technology.
 
@@ -49,19 +51,3 @@ New equipment comprising RFID tagging workstations, gantries, bookdrops, auto so
 #### **The Implementation**
 	
 The u-Pustaka Pilot Project took three years from its conceptualisation in 2008 to its launch in 2011. A project of this magnitude entailed many man-hours spent on initial studies, executive talks, readiness assessments, solicitation of funds, concept trials and the tender process, all of which took place between 2008 and 2009. The project kicked off in 2010 with a focus on the U-Library System development, Standard Operating Procedures (SOP) workshops, system implementation as well as promotional and awareness programmes that were carried out until 2011.
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-
-
-	
-	
-	
-	
