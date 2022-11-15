@@ -10,7 +10,7 @@ description: In pursuit of a knowledge-based society, the National Library of
 
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg">
-<div style="background-color: white;"> 
+style="background-color: white;"> 
 	
 	
 The vast reservoir of knowledge resources readily available in libraries is a treasure trove waiting to be discovered and used. Its easy accessibility to the public is crucial in the pursuit of lifelong learning as well as in supporting Malaysia’s quest to become a knowledge-based society. People of all ages and social backgrounds have a soft spot and affinity for libraries and this opens up opportunities for the introduction of new services by leveraging on the rapid advances in information and communications technology (ICT) and the Internet.
