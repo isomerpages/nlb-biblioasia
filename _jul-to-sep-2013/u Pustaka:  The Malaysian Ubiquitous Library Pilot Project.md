@@ -21,9 +21,3 @@ The Malaysian Ubiquitous Library Pilot Project, u-Pustaka, a collaboration among
 u-Pustaka is an innovative and fitting culmination of the effort, collaboration and synergy by the Ministry of Information Communications and Culture (kpkk) through the mcmc that is supported by the National Library of Malaysia (pnm), together with the u-Pustaka Consortium members, namely, the Selangor State Library Corporation (ppas), Negeri Sembilan State Library Corporation (ppans), Pahang State Library Corporation (ppap), Sarawak State Library (Pustaka), Kuala Lumpur Library (pkl), intan Library at Bukit Kiara and the Sabah State Library.
 	
 Other government agencies and private institutions also contributed towards the success of the project by offering advice, guidance and sharing of expertise during its implementation. They are the Malaysian Administrative Modernisation and Management Planning Unit (mampu), Economic Planning Unit (epu), National Registration Department, Ministry of Home Affairs (jpn), National Centre of Excellence for Sensor Technology (nest) at Universiti Putra Malaysia, Pos Malaysia Berhad (pmb), Malaysian Electronic Clearing Corporation Sdn. Bhd. (MyClear), Bank Islam Malaysia Berhad and Touch ‘n Go Sdn Bhd.
-	
-
-
-
-
-
