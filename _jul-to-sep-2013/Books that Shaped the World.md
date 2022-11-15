@@ -7,7 +7,7 @@ description: The importance of books lies in its substance and not its form.
 ---
 #### The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.
 
-<img style="width: 80%;"
+<img style="width: 90%;"
 src="/images/Vol%209%20Issue%202/Books%20that%20Shaped%20the%20World/reading%20room_2.jpg">
 <div style="background-color: white;"> 
 The main reading room of the Library of Congress, Thomas Jefferson Building. <i>Image by Jiuguang Wang via Flickr.</i></div>	
@@ -23,7 +23,7 @@ Beyond shaping America, books have created civilisation in a very real sense. Wh
 What we might call the founding books of civilisation are in many ways the books of the great religions. These include the Christian Bible, much of which is based on the Jewish Bible. Then there is the Koran, the last of the great prophetic, monotheistic books. The Chinese and the Indian traditions are also part of the basis of world civilisation. There is the Chinese *Book of Lessons* that contains Confucius’ *Analects*, which was the basis of education in China, and also the basis for the civil service exams taken by Chinese officials for a thousand years. India produced the *Ramayana and Mahabharata*, the two great Hindu epics and fundamental doctrines originally published in Sanskrit and translated into the many languages of the Indian subcontinent. These great epic poems, in a way, were the basis of much of Hinduism. Also to be considered is either of Saint Augustine’s books, *The Confessions of Saint Augustine or The City of God*, which were the basis of medieval thought and the whole concept of another spiritual world. These are all examples of great founding documents of civilisation.
 
 
-<img style="width: 80%;"
+<img style="width: 90%;"
 src="/images/Vol%209%20Issue%202/Books%20that%20Shaped%20the%20World/ramayana%20in%20persian.jpg">
 <div style="background-color: white;"> 
 A handwritten and illustrated codex of the Ramayana in Persian. <i>Image by Hafiz
@@ -54,7 +54,7 @@ In the world of drama, one might pick something from Sophocles. And one would al
 
 In addition to those mentioned so far, there is a whole range of works by other thinkers one would want to include such as Sigmund Freud’s *The Interpretation of Dreams*. Indeed, Freudian concepts have become so familiar that we forget how widespread and how important they are.
 
-<img style="width: 80%;"
+<img style="width: 90%;"
 src="/images/Vol%209%20Issue%202/Books%20that%20Shaped%20the%20World/bibles.jpg">
 <div style="background-color: white;"> 
 Aged copies of the Holy Bible. <i>Image by THOR via Flickr.</i></div>
@@ -79,5 +79,3 @@ This is what you get at libraries, which are consolidations of the different for
 <div>
 This article, by the staff at the Library of Congress in Washington D.C., US, comprises excerpts of an interview with <b>Dr James H. Billington.</b> Dr Billington is the 13th Librarian of Congress and was sworn in in 1987.
 </div>
-
-
