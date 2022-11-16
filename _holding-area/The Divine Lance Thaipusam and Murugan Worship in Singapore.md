@@ -227,7 +227,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^30]: For information about Theemithi, see Nalina Gopal, “[Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of Firewalking](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/),” *BiblioAsia* 18, no. 3 (October–December 2022).
 
-[^31]: Lawrence A. Babb, *Thaipusam in Singapore: Religious Individualism in a Hierarchical Culture* ([Singapore]: Chopmen Enterprises, [1976]), 9. (From National Library, Singapore, call no. RSING 294.536 BAB)
+[^31]: Lawrence A. Babb, [*Thaipusam in Singapore: Religious Individualism in a Hierarchical Culture* ](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081902)([Singapore]: Chopmen Enterprises, [1976]), 9. (From National Library, Singapore, call no. RSING 294.536 BAB)
 
 [^32]: “More Than 10,000 Devotees Take Part in Thaipusam,” *Straits Times*, 3 February 2015, https://www.straitstimes.com/singapore/more-than-10000-devotees-take-part-in-thaipusam. 
 
