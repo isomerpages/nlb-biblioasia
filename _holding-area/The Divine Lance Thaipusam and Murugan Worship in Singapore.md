@@ -10,11 +10,11 @@ By Nalina Gopal
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image1.png)
 <div style="background-color: white;"> A damaged 35 mm film reel. <i>Courtesy of Asian Film Archive.</i></div>
 
-On 9 February 1952, the Singapore Free Press carried a story titled “No ‘Kavadis’ Today”. That year, Singapore’s Tamil community scaled down Thaipusam celebrations and refrained from holding the procession because of the death of King George VI. That was an unprecedented event. Since then, there hasn’t been such another instance of Thaipusam being put on hold, that is, until 2021 when the procession in Singapore was disallowed because of the Covid-19 pandemic. 
+On 9 February 1952, the Singapore Free Press carried a story titled “No ‘Kavadis’ Today”.[^1] That year, Singapore’s Tamil community scaled down Thaipusam celebrations and refrained from holding the procession because of the death of King George VI. That was an unprecedented event. Since then, there hasn’t been such another instance of Thaipusam being put on hold, that is, until 2021 when the procession in Singapore was disallowed because of the Covid-19 pandemic. 
 
 Thaipusam personifies the worship of Murugan, a celebrated patron god in Tamil tradition who has been revered for over two millennia. Taking place during Thai, the 10th month in the Tamil calendar (January to February in the Gregorian calendar), Thaipusam is celebrated in South India, and outside it, by the Tamil diaspora in Singapore, Malaysia, Mauritius, South Africa, Sri Lanka, Indonesia, Myanmar and even Australia.
 
-In Singapore, the festival is one of the most distinguishing features of diasporic Hindu practice and one of the earliest public Hindu festivals. Worshippers, including carriers of milk pots and *kavadi*, exemplify their devotion to Murugan in an annual 4-kilometre foot procession. The festival is a reflection of a journey that spans over 160 years, growing beyond its orthodoxy, in cross-cultural Singapore.
+In Singapore, the festival is one of the most distinguishing features of diasporic Hindu practice and one of the earliest public Hindu festivals. Worshippers, including carriers of milk pots and *kavadi*, exemplify their devotion to Murugan in an annual 4-kilometre foot procession.[^2] The festival is a reflection of a journey that spans over 160 years, growing beyond its orthodoxy, in cross-cultural Singapore.
 
 #### **The God with a Lance**
 
@@ -29,19 +29,19 @@ In Singapore, the festival is one of the most distinguishing features of diaspor
 the mountain region, presided over by Ceyon; <br>
 the riverine region, presided over by Ventan; <br>
 the great sandy (coastal) region, presided over by Varunan; <br>
-	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em><br><br></div>
+	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em>[^3]<br><br></div>
 
 <div style="text-align: right">– <em>Tolkappiyam</em>, 951 </div>
 
 
 
-Thaipusam is centred around the worship of Murugan. The boy god Murugan’s identity is a complex mix of several inseparable historical and cultural roots, and a reflection of the inherent complexity of Tamil tradition. Tamil poetry of the Sangam era (a period spanning roughly 3rd century BCE to 3rd century CE) positions Murugan (or Murukan from the word muruku meaning “beautiful”, “fragrant” or “youthful one”) as the god of the hills and hunt, and the son of Korravai, goddess of war and victory. 
+Thaipusam is centred around the worship of Murugan. The boy god Murugan’s identity is a complex mix of several inseparable historical and cultural roots, and a reflection of the inherent complexity of Tamil tradition. Tamil poetry of the Sangam era (a period spanning roughly 3rd century BCE to 3rd century CE) positions Murugan (or Murukan from the word muruku meaning “beautiful”, “fragrant” or “youthful one”) as the god of the hills and hunt,[^4] and the son of Korravai, goddess of war and victory.[^5] 
 
-Murugan was a name originally given to the god of the hilly region Kurinci. In the *Tolkappiyam*, the oldest extant Tamil grammatical text, he is described as Ceyon or the red one due to the association of the ruddy hills of the region with his skin tone. 
+Murugan was a name originally given to the god of the hilly region Kurinci.[^6] In the *Tolkappiyam*, the oldest extant Tamil grammatical text, he is described as Ceyon or the red one due to the association of the ruddy hills of the region with his skin tone. 
 
 The Murugan of Sangam literature – a considerable corpus of classical devotional and literary works – has a peacock for his mount and wields a lance or vel, after which his priests and the chieftains of the hills, the velan (“bearer of the lance”), were named. 
 
-By the 5th century CE, Murugan’s attributes were fused with those of Skanda (also known as Karthikeya, Subrahmanya and Kumara), a god found in the literature of the Epic period of the north  (when the Ramayana and Mahabharatam were composed). Devotional compositions authored by Saivite poet-saints around the 7th century CE incorporated him into the Saivite pantheon and worshipped him as the son of Siva. (Followers of Siva are called Saivites.) 
+By the 5th century CE, Murugan’s attributes were fused with those of Skanda (also known as Karthikeya, Subrahmanya and Kumara), a god found in the literature of the Epic period of the north  (when the Ramayana and Mahabharatam were composed).[^7] Devotional compositions authored by Saivite poet-saints around the 7th century CE incorporated him into the Saivite pantheon and worshipped him as the son of Siva. (Followers of Siva are called Saivites.) 
 
 Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of the reasons why he is a recipient of unwavering faith, celebrated across the global Tamil diaspora.
 
@@ -51,11 +51,11 @@ Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of t
 நோயுடை நுடங்கு சூர் மா முதல் தடிந்து</div>
 
 You swirled your weapon 
-and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree 
+and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree[^8] 
 
-<div style="text-align: right">– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4).</div>
+<div style="text-align: right">– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4).[^9]</div>
 
-Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE. In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
+Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
 With his *vel*, Murugan destroys Suran by splitting a huge mango tree into two, the mango tree being the form that the shape-shifting Suran had taken. Suran then assumes the form of a peacock and a cockerel, with the former eventually becoming Murugan’s vehicle while the latter is a symbol subsumed in his flag. 
 
@@ -71,9 +71,9 @@ In the myth, Idumban’s teacher, Saivite seer Agastya, enlists Idumban’s help
 
 Idumban ties the two hills to a celestial staff using divine serpents in the place of ropes, and carries the two hills on the staff that acts like a shoulder pole, a prototype for a *kavadi*. Enroute, tired by his burdened journey, he lays the hills down for a rest but finds he is unable to lift them when ready to depart. He sees a boy-ascetic, who is in fact Murugan, atop one of the hills and confronts him without realising his divine identity. 
 
-Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous kavadi journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan. The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
+Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous kavadi journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan.[^11] The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
 
-It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban, that the annual foot procession of thousands of *kavadi* bearing devotees in Singapore (and around the world) exemplifies. 
+It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^12] that the annual foot procession of thousands of *kavadi* bearing devotees in Singapore (and around the world) exemplifies. 
 
 #### **The Red One in the Red Dot**
 
@@ -81,7 +81,7 @@ It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulat
 
 Guhan, Muruga, the guardian of Singapore 
 
-<div style="text-align: right">– A line from hymn 88 in the <em>Singai Nagar Antati</em></div>
+<div style="text-align: right">– A line from hymn 88 in the <em>Singai Nagar Antati</em>[^13]</div>
 
 The celebration of Thaipusam in Singapore can be traced to the Nattukottai Chettiars, who became an influential diaspora of private financiers in Southeast Asia in the 19th century. They adopted Murugan as their patron deity in their diasporic homes and as a partner in their business ventures, and their settlement pattern typically involved the construction of Murugan temples. When boarding a ship, the pioneering migrants carried the vel of Murugan, transferring their burden of worry for safe passage to the deity with the words “Murugan *tunai*” (“Murugan protects us”).
 
