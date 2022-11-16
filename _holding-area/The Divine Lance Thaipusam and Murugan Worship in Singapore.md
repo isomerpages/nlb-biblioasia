@@ -81,8 +81,6 @@ It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulat
 
 Guhan, Muruga, the guardian of Singapore 
 
-<div style="text-align: right">– A line from hymn 88 in the <em>Singai Nagar Antati[^13]</em></div>
-
 <p align="right">A line from hymn 88 in the <em>Singai Nagar Antati</em>[^13]</p>
 	
 	
