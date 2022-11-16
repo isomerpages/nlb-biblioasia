@@ -120,11 +120,16 @@ A 1938 letter from Sockalingam Chettiar of Market Street addressed to the chief 
 
 As can be seen from the above excerpt, in 1938, the Thaipusam procession of *kavadi* bearers would also visit the erstwhile Sri Sivan temple on Orchard Road, a temple closely associated with the Nattukottai Chettiars. The procession over the three days would have a presence across the districts of present-day Chinatown, the Central Business District (including Market Street), Clemenceau, Orchard Road, and even Beach Road. 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%206.png)
+<div style="background-color: white;"> A child with a <i>thol kavadi</i>, which is carried on the shoulder, 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 In 1932, the Sri Thendayuthapani Temple acquired a new and bigger silver chariot, but it could not be used because it was too tall to fit below the Traction Co.’s trolley bus wires along the way.[^25] The chariot was only used when motor buses replaced trolley buses. 
 
 In 2019, Satthappan Chettiar, then 74, recalled his earliest memory of the festival. Dolls were manoeuvered above Market Street by men stationed in the upper storey of *kittangi* (warehouse and place of work of the Chettiar merchant bankers) on either side of the street, such that as the silver chariot went past, the dolls would descend with garlands to honour Murugan.
 
 He said: “The deity would be seated on the silver chariot, drawn by bulls through Market Street. … one person would be stationed on the second floor of one of the *kittangi*, and one more on the second floor of the opposite shophouse, facing the *kittangi*. They would each hold on to one end of a rope; a doll holding out a garland would be suspended from the middle of this rope. The two men would swing the doll back and forth in a dance, and when the chariot appears below the doll, the doll would descend with the garlands, and ‘place’ the garlands on Lord Murugan’s shoulders, to loud cheers.”[^26]
+
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%207.png)
 
 #### **Devotion on Display**
 
