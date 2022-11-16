@@ -76,8 +76,8 @@ The story goes that a young Murugan, angry with his parents for their judgement 
 
 It is while in penance on this hill abode that Murugan meets the demon Idumban, seen as the primordial *kavadi* bearer.  
 
-[PICTURE TO BE INSERTED]
-<div style="background-color: white;"> A <i>kavadi</i> bearer and his supporters at the Sri Thendayuthapani Temple, 2015. <i>Courtesy of T. Kavindran.t</i></div>
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%204.png)
+<div style="background-color: white;"> A <i>kavadi</i> bearer and his supporters at the Sri Thendayuthapani Temple, 2015. <i>Courtesy of T. Kavindran.</i></div>
 
 In the myth, Idumban’s teacher, Saivite seer Agastya, enlists Idumban’s help to carry two hills, Sivagiri and Saktigiri, from the north to the south for Siva’s southern abode.
 
