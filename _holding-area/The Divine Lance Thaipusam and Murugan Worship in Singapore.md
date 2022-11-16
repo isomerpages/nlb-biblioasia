@@ -23,13 +23,13 @@ In Singapore, the festival is one of the most distinguishing features of diaspor
 வேந்தன் மேய தீம்புனல் உலகமும்<br>
 வருணன் மேய பெருமணல் உலகமும்<br>
 முல்லை குறிஞ்சி மருதம் நெய்தல் எனச்<br>
-சொல்லிய முறையான் சொல்லவும் படுமே</div>
+சொல்லிய முறையான் சொல்லவும் படுமே<br><br></div>
 
-the pastoral region, presided over by Mayon; 
-the mountain region, presided over by Ceyon; 
-the riverine region, presided over by Ventan; 
-the great sandy (coastal) region, presided over by Varunan; 
-these, in the order enumerated, are called *mullai, kurinci, marutam and neytal.*
+<div>the pastoral region, presided over by Mayon; <br>
+the mountain region, presided over by Ceyon; <br>
+the riverine region, presided over by Ventan; <br>
+the great sandy (coastal) region, presided over by Varunan; <br>
+	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em><br><br></div>
 
 <div style="text-align: right">– <em>Tolkappiyam</em>, 951 </div>
 
@@ -164,25 +164,3 @@ In Phuket, the celebration of the nine-day Taoist festival dedicated to the Nine
 Thaipusam, of course, continues to be celebrated in South Asia, in Palani (and across Murugan temples in the region) and Katargama in Sri Lanka. 
 
 The festival of Thaipusam is a phenomenon tying together source and diasporic communities, particularly those that were part of a modern wave of migration across colonial settlements. This age-old festival is a long-surviving cultural umbilical cord of inescapable historical and social significance, that also extends beyond ethnic and religious boundaries.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
