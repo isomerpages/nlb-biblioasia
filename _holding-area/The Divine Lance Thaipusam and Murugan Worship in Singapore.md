@@ -87,6 +87,10 @@ Murugan destroys Idumban but eventually revives and installs him as the door gua
 
 It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^12] that the annual foot procession of thousands of *kavadi* bearing devotees in Singapore (and around the world) exemplifies. 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%205.png)
+
+<div style="background-color: white;"> An <i>alavu kavadi</i> involves the devotee’s tongue and cheek being pierced with a metal <i>vel</i> or lance, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **The Red One in the Red Dot**
 
 சிங்கை காக்கும் குக முருகா
