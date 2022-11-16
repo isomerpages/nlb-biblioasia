@@ -83,7 +83,7 @@ What are her origins? Some call her Si Jiao Ting Lei Guniang (四脚亭雷姑娘
 
 #### **The Martyrdoms of Maiden Huang**
 
-A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jalan Bukit Merah, the oldest Thai Buddhist temple in Singapore. Saffron-robed monks staff perform chores amid common iconography in Theravada Buddhist temples: four-faced Brahma, the eclipse-causing deity Rahu, even a vibrant mural of the wheel of samsara in which appear the distinctive towers of Marina Bay Sands. Ignore these for now and enter the Julamanee Prasat: the small columbarium at the base of the temple’s three-storey belltower.
+A half-hour stroll from Zhen Long Gong brings us to Wat Ananda Metyarama on Jalan Bukit Merah, the oldest Thai Buddhist temple in Singapore. Saffron-robed monks perform chores amid common iconography in Theravada Buddhist temples: four-faced Brahma, the eclipse-causing deity Rahu, even a vibrant mural of the wheel of samsara in which appear the distinctive towers of Marina Bay Sands. Ignore these for now and enter the Julamanee Prasat: the small columbarium at the base of the temple’s three-storey belltower.
 
 ![](/images/Vol%2018%20Issue%204/Maiden%20Lim/image6.png)
 <div style="background-color: white;"> Wat Ananda Metyarama along Jalan Bukit Merah. Its columbarium houses the tablet of Huang Guniang. <i>Courtesy of Ng Yi-Sheng.</i></div>
