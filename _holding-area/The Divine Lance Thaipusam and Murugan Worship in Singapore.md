@@ -259,4 +259,4 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^46]: “[Miracle, He Said, So Mr. Lim Joins Kavadi Bearers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660205-1.2.103?ST=1&AT=search&k=chinese%20kavadi&QT=chinese,kavadi&oref=article),” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
 
-[^47]: Belle, *Thaipusam in Malaysia*, 246
+[^47]: Belle, [*Thaipusam in Malaysia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 246
