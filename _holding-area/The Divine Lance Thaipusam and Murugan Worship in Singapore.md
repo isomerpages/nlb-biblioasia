@@ -63,6 +63,9 @@ and destroyed Sur[an], personified fear, who had taken the form of a moving mang
 
 Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%203.png)
+<div style="background-color: white;"> <i>Paal kudam</i> or milk pot bearers usually make up the bulk of devotees undertaking the Thaipusam procession. Here, devotees are seen waiting to commence the procession at the Sri Srinivasa Perumal Temple on Serangoon Road, 2015. <i>Photo by T. Kavindran. Courtesy of Hindu Endowments Board.</i></div>
+
 With his *vel*, Murugan destroys Suran by splitting a huge mango tree into two, the mango tree being the form that the shape-shifting Suran had taken. Suran then assumes the form of a peacock and a cockerel, with the former eventually becoming Murugan’s vehicle while the latter is a symbol subsumed in his flag. 
 
 Dating back to the 3rd century CE, the Tirumurugarrupadai, the oldest devotional poem of the Sangam era dedicated to Murugan, lists the *arupadaiveedu* or six abodes of Murugan: Tiruttani, Swamimalai, Tiruchendur, Tiru Avinankudi (widely known as Palani), Pazhamudircholai and Tirupparamkunram. 
@@ -72,6 +75,9 @@ Thaipusam commemorates Murugan receiving the *vel* from Sakti, while a separate 
 The story goes that a young Murugan, angry with his parents for their judgement of a competition in favour of his sibling, retreats to the top of a nearby hill to do penance. Petulant at the loss of the award, a divine fruit, he is consoled by being told “*pazham ni*” (“you are the fruit”) from which the hill town of Palani derived its name. 
 
 It is while in penance on this hill abode that Murugan meets the demon Idumban, seen as the primordial *kavadi* bearer.  
+
+[PICTURE TO BE INSERTED]
+<div style="background-color: white;"> A <i>kavadi</i> bearer and his supporters at the Sri Thendayuthapani Temple, 2015. <i>Courtesy of T. Kavindran.t</i></div>
 
 In the myth, Idumban’s teacher, Saivite seer Agastya, enlists Idumban’s help to carry two hills, Sivagiri and Saktigiri, from the north to the south for Siva’s southern abode.
 
