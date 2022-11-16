@@ -42,6 +42,9 @@ Thaipusam is centred around the worship of Murugan. The boy god Murugan’s iden
 
 Murugan was a name originally given to the god of the hilly region Kurinci.[^6] In the *Tolkappiyam*, the oldest extant Tamil grammatical text, he is described as Ceyon or the red one due to the association of the ruddy hills of the region with his skin tone. 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%202.png)
+<div style="background-color: white;"> In the early 20th century, the silver chariot bearing the processional image of Murugan was drawn by cattle, 1920s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 The Murugan of Sangam literature – a considerable corpus of classical devotional and literary works – has a peacock for his mount and wields a lance or vel, after which his priests and the chieftains of the hills, the velan (“bearer of the lance”), were named. 
 
 By the 5th century CE, Murugan’s attributes were fused with those of Skanda (also known as Karthikeya, Subrahmanya and Kumara), a god found in the literature of the Epic period of the north  (when the Ramayana and Mahabharatam were composed).[^7] Devotional compositions authored by Saivite poet-saints around the 7th century CE incorporated him into the Saivite pantheon and worshipped him as the son of Siva. (Followers of Siva are called Saivites.) 
