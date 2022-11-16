@@ -167,17 +167,17 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 #### **NOTES**
 
-[^1]: “No ‘Kavadis’ Today,” *Singapore Free Press*, 9 February 1952, 1. (From NewspaperSG)
+[^1]: “[No ‘Kavadis’ Today](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520209-1.2.11),” *Singapore Free Press*, 9 February 1952, 1. (From NewspaperSG)
 
 [^2]: The etymology of the word Thaipusam has been offered as (a) காவு (sacrificice)- + தடி (pole or stick) by the University of Madras Tamil Lexicon, taken to mean a pole or stave of wood used for carrying burdens; or (b) as காவு+ அடி, taken to mean sacrifice at every step, perhaps a reference to Idumban’s arduous and burdened journey. 
 
 [^3]: Subbiah Ganapathy, “Patterns in Religious Thought in Early South India: A Study of Classical Tamil Texts” (PhD thesis, McMaster University, Ontario, August 1988), 64. https://macsphere.mcmaster.ca/bitstream/11375/15543/1/Subbiah Ganapathy.pdf. 
 
-[^4]: Fred W. Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan”, *Journal of the American Academy of Religion* 40, no. 1 (March 1972): 80. (From JSTOR via NLB’s eResources website).
+[^4]: Fred W. Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan”, *Journal of the American Academy of Religion* 40, no. 1 (March 1972): 80. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
 
 [^5]: Kamil V. Zvelebil, *Tiru Murugan* (Chennai: International Institute of Tamil Studies, 1981), 69, Tamil Digital Library, https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt9lZh3&tag=Tiru%20Murugan#book1/.
 
-[^6]: Uli Kozok, *A 14th century Malay Code of Laws: The Nitisarasamuccaya* (Singapore: ISEAS Publishing, 2015), 107–108. (From National Library, Singapore, call no: RSEA 499.280959813 KOZ)
+[^6]: Uli Kozok, [*A 14th century Malay Code of Laws: The Nitisarasamuccaya*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201274259) (Singapore: ISEAS Publishing, 2015), 107–108. (From National Library, Singapore, call no: RSEA 499.280959813 KOZ)
 
 [^7]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 81.
 
@@ -193,70 +193,70 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^13]: *Singai Nagar Antati* is a collection of one hundred devotional hymns written by Yazhpanam S.N. Sadasiva Panditar, published in Singapore in 1887, and dedicated to the presiding deity of the Tank Road Thendayuthapani Temple.
 
-[^14]: For information about the Chettiars, see Marcus Ng, “Micro India: The Chettiars of Market Street,” *BiblioAsia* 13, no. 3 (Oct–Dec 2017). 
+[^14]: For information about the Chettiars, see Marcus Ng, “[Micro India: The Chettiars of Market Street](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/micro-india),” *BiblioAsia* 13, no. 3 (Oct–Dec 2017). 
 
-[^15]: 
+[^15]: Subbiah Lakshmanan, personal communication, 16 September 2022. He recounted the anecdotal experience of early migrants and how integral Murugan worship was to their diasporic journeys.
 
-[^16]: 
+[^16]: A. Palaniappan, “Arulmigu Thandayuthapani Temple, Singapore, Sri Thandayuthapani Temple Singapore,” *Maha Kumbabishegam* Magazine (Singapore: Sri Thandayuthapani Temple, 1996), 1.
 
-[^17]:
+[^17]: Subbiah Lakshmanan, “The Chettiar Legacy in Singapore” (unpublished manuscript), retrieved on 19 September 2022, Microsoft Word.
 
-[^18]:
+[^18]: Lakshmanan, “The Chettiar Legacy in Singapore.”
 
-[^19]:
+[^19]: For an account of the rituals spanning five days during the festival, see  “தைப்பூசத்திருவிழா,” *Singai Nesan Tamil Journal*, 6 February 1888, 1. (rom NewspaperSG)
 
-[^20]:
+[^20]: Bala Baskaran, Said Abdullah and Arun Senkuttuvan, *V.R. Nathan: Community Servant Extraordinary* (Singapore: Institute of Southeast Asian Studies, 2012), 39–40. (From National Library, Singapore, call no. RSING 361.25092 BAL)
 
-[^21]:
+[^21]: “Page 4 Advertisements Column 4,” *Straits Times*, 17 January 1935, 4; “No Delivery of Mails on Thaipusam,” *Straits Times*, 24 January 1964, 18; “Untitled,” *Straits Times*, 10 February 1922, 8. (From NewspaperSG)
 
-[^22]:
+[^22]: “Page 2 Advertisements Column 3: Tai-pusam,” Singapore Free Press and Mercantile Advertiser, 28 January 1896, 2. (From NewspaperSG)
 
-[^23]:
+[^23]: Letter from S. Sockalingam Chettiar to the Chief Police Officer, 3 January 1938, Collection of the Sri Thendayuthapani Temple Library, 1–2. I am grateful to Subbiah Lakshmanan for showing me this and other rare materials in the collection of the library. 
 
-[^24]:
+[^24]: “Letter from S. Sockalingam Chettiar to the Chief Police Officer,” 1.
 
-[^25]:
+[^25]: “Thaipusam. Celebration of the Festival in Singapore,” *Straits Times*, 23 January 1932, 12. (From NewspaperSG)
 
-[^26]:
+[^26]: S. Sathappan Chettiar, “Tales of Thaipusam”, Singapore Memory Project, 15 July 2019, https://www.singaporememory.sg/contents/SMA-acca3114-b0a5-4b48-abb2-0bbbaf9f8622. 
 
-[^27]:
+[^27]: Vineeta Sinha, *New God in the Diaspora?: Muneeswaran Worship in Contemporary Singapore* (Singapore: Singapore University Press; Copenhagen S., Denmark: NIAS Press, 2005 ), 3. (From National Library, Singapore, call no. RSING 294.5095 957 SIN)
 
-[^28]:
+[^28]: Sinha, *New God in the Diaspora?*, 9–11.
 
-[^29]:
+[^29]: Kartheges Ponniah and Kingston Pal Thamburaj, “Chinese Community’s Involvement in Thaipusam Celebration at Sungai Petani Sri Subramaniya Swami Devasthanam,” *Man in India* 97 (January 2017): 17–25, ResearchGate, https://www.researchgate.net/publication/328979416_chinese_community's_involvement_in_thaipusam_celebration_at_sungai_petani_sri_subramaniya_swami_devasthanam.
 
-[^30]:
+[^30]: For information about Theemithi, see Nalina Gopal, “Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of Firewalking,” *BiblioAsia* 18, no. 3 (October–December 2022).
 
-[^31]:
+[^31]: Lawrence A. Babb, *Thaipusam in Singapore: Religious Individualism in a Hierarchical Culture* ([Singapore]: Chopmen Enterprises, [1976]), 9. (From National Library, Singapore, call no. RSING 294.536 BAB)
 
-[^32]:
+[^32]: “More Than 10,000 Devotees Take Part in Thaipusam,” *Straits Times*, 3 February 2015, https://www.straitstimes.com/singapore/more-than-10000-devotees-take-part-in-thaipusam. 
 
-[^33]:
+[^33]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009,  https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20090213-121728.html. 
 
-[^34]:
+[^34]: Prabhavathi Nair, “The Two Faces of Thaipusam,” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
 
-[^35]:
+[^35]: “Preparing for the Walk,” *Hindu News* (2016: Hindu Endowments Board: 2016), 4.
 
-[^36]:
+[^36]: Nair, “The Two Faces of Thaipusam.” 
 
-[^37]:
+[^37]: Vineeta Sinha, *Religion-state Encounters in Hindu Domains: From the Straits Settlements to Singapore* (Dordrecht: Springer, 2011), 216–20. (From National Library, Singapore, call no. RSING 322.1095957 SIN) 
 
-[^38]:
+[^38]: Carl Vadivella Belle, *Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora* (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
 
-[^39]:
+[^39]: Alison Arnold ed., *The Garland Encyclopedia of World Music: South Asia: The Indian Subcontinent* vol. 5 (New York; London: Routledge, 1998–2002), x. (From National Library, Singapore, call no. RSEA 780.9 GAR)
 
-[^40]:
+[^40]: A copy is available at the library of the Sri Thendayuthapani Temple. 
 
-[^41]:
+[^41]: Melody Zaccheus, “Singapore Government to Allow Live Music at Thaipusam Street Procession,” *Straits Times*, 19 January 2016, https://www.straitstimes.com/singapore/singapore-government-to-allow-live-music-at-thaipusam-street-procession.
 
-[^42]:
+[^42]: Shabana Begum, “Devotees Cheer New Rules That Allow More Music During Thaipusam Procession,” *Straits Times*, 21 January 2019, https://www.straitstimes.com/singapore/devotees-cheer-new-rules-that-allow-more-music-during-thaipusam-procession.
 
-[^43]:
+[^43]: “Confiscated Drums,” *Singapore Free Press and Mercantile Advertiser* (Weekly), 4 February 1896, 13. (From NewspaperSG)
 
-[^44]:
+[^44]: Thillayvel Naidoo, “Kavadi: Worship Through Ceremonial Festival,” *Religion in Southern Africa* 2, no. 2 (July 1981): 3–11. (From JSTOR via NLB’s eResources website).
 
-[^45]:
+[^45]: Belle, *Thaipusam in Malaysia*, 278.
 
-[^46]:
+[^46]: “Miracle, He Said, So Mr. Lim Joins Kavadi Bearers,” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
 
-[^47]:
+[^47]: Belle, *Thaipusam in Malaysia*, 246
