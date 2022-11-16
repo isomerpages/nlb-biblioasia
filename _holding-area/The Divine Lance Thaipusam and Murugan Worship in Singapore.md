@@ -241,7 +241,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^37]: Vineeta Sinha, [*Religion-state Encounters in Hindu Domains: From the Straits Settlements to Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14203518) (Dordrecht: Springer, 2011), 216–20. (From National Library, Singapore, call no. RSING 322.1095957 SIN) 
 
-[^38]: Carl Vadivella Belle, *Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora* (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
+[^38]: Carl Vadivella Belle, [*Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049) (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
 
 [^39]: Alison Arnold ed., *The Garland Encyclopedia of World Music: South Asia: The Indian Subcontinent* vol. 5 (New York; London: Routledge, 1998–2002), x. (From National Library, Singapore, call no. RSEA 780.9 GAR)
 
@@ -251,12 +251,12 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^42]: Shabana Begum, “Devotees Cheer New Rules That Allow More Music During Thaipusam Procession,” *Straits Times*, 21 January 2019, https://www.straitstimes.com/singapore/devotees-cheer-new-rules-that-allow-more-music-during-thaipusam-procession.
 
-[^43]: “Confiscated Drums,” *Singapore Free Press and Mercantile Advertiser* (Weekly), 4 February 1896, 13. (From NewspaperSG)
+[^43]: “[Confiscated Drums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18960204-1.2.76),” *Singapore Free Press and Mercantile Advertiser* (Weekly), 4 February 1896, 13. (From NewspaperSG)
 
-[^44]: Thillayvel Naidoo, “Kavadi: Worship Through Ceremonial Festival,” *Religion in Southern Africa* 2, no. 2 (July 1981): 3–11. (From JSTOR via NLB’s eResources website).
+[^44]: Thillayvel Naidoo, “Kavadi: Worship Through Ceremonial Festival,” *Religion in Southern Africa* 2, no. 2 (July 1981): 3–11. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
 
-[^45]: Belle, *Thaipusam in Malaysia*, 278.
+[^45]: Belle, [*Thaipusam in Malaysia*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 278.
 
-[^46]: “Miracle, He Said, So Mr. Lim Joins Kavadi Bearers,” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
+[^46]: “[Miracle, He Said, So Mr. Lim Joins Kavadi Bearers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660205-1.2.103?ST=1&AT=search&k=chinese%20kavadi&QT=chinese,kavadi&oref=article),” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
 
 [^47]: Belle, *Thaipusam in Malaysia*, 246
