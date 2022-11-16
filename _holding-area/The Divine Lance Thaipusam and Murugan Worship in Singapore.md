@@ -215,13 +215,13 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^24]: “Letter from S. Sockalingam Chettiar to the Chief Police Officer,” 1.
 
-[^25]: “Thaipusam. Celebration of the Festival in Singapore,” *Straits Times*, 23 January 1932, 12. (From NewspaperSG)
+[^25]: “[Thaipusam. Celebration of the Festival in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320123-1.2.60),” *Straits Times*, 23 January 1932, 12. (From NewspaperSG)
 
 [^26]: S. Sathappan Chettiar, “Tales of Thaipusam”, Singapore Memory Project, 15 July 2019, https://www.singaporememory.sg/contents/SMA-acca3114-b0a5-4b48-abb2-0bbbaf9f8622. 
 
-[^27]: Vineeta Sinha, *New God in the Diaspora?: Muneeswaran Worship in Contemporary Singapore* (Singapore: Singapore University Press; Copenhagen S., Denmark: NIAS Press, 2005 ), 3. (From National Library, Singapore, call no. RSING 294.5095 957 SIN)
+[^27]: Vineeta Sinha, [*New God in the Diaspora?: Muneeswaran Worship in Contemporary Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12571656) (Singapore: Singapore University Press; Copenhagen S., Denmark: NIAS Press, 2005 ), 3. (From National Library, Singapore, call no. RSING 294.5095 957 SIN)
 
-[^28]: Sinha, *New God in the Diaspora?*, 9–11.
+[^28]: Sinha, [*New God in the Diaspora?*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12571656), 9–11.
 
 [^29]: Kartheges Ponniah and Kingston Pal Thamburaj, “Chinese Community’s Involvement in Thaipusam Celebration at Sungai Petani Sri Subramaniya Swami Devasthanam,” *Man in India* 97 (January 2017): 17–25, ResearchGate, https://www.researchgate.net/publication/328979416_chinese_community's_involvement_in_thaipusam_celebration_at_sungai_petani_sri_subramaniya_swami_devasthanam.
 
