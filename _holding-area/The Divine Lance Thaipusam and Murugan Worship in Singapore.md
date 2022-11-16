@@ -233,7 +233,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^33]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009,  https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20090213-121728.html. 
 
-[^34]: Prabhavathi Nair, “The Two Faces of Thaipusam,” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
+[^34]: Prabhavathi Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1),” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
 
 [^35]: “Preparing for the Walk,” *Hindu News* (2016: Hindu Endowments Board: 2016), 4.
 
