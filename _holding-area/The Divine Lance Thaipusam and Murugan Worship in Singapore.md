@@ -29,7 +29,7 @@ In Singapore, the festival is one of the most distinguishing features of diaspor
 the mountain region, presided over by Ceyon; <br>
 the riverine region, presided over by Ventan; <br>
 the great sandy (coastal) region, presided over by Varunan; <br>
-	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em>[^3]<br><br></div>
+	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em><br><br></div>[^3]
 
 <div style="text-align: right">– <em>Tolkappiyam</em>, 951 </div>
 
