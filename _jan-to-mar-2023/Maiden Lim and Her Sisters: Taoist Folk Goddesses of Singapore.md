@@ -5,8 +5,6 @@ description: The local Taoist pantheon includes goddesses only found in
   Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 image: /images/Vol 18 Issue 4/Maiden Lim/Huang Guniang2.jpg
 ---
-
-
 #### The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 By Ng Yi-Sheng
 
