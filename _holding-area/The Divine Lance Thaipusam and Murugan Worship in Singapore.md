@@ -237,9 +237,9 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^35]: “Preparing for the Walk,” *Hindu News* (2016: Hindu Endowments Board: 2016), 4.
 
-[^36]: Nair, “The Two Faces of Thaipusam.” 
+[^36]: Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1).” 
 
-[^37]: Vineeta Sinha, *Religion-state Encounters in Hindu Domains: From the Straits Settlements to Singapore* (Dordrecht: Springer, 2011), 216–20. (From National Library, Singapore, call no. RSING 322.1095957 SIN) 
+[^37]: Vineeta Sinha, [*Religion-state Encounters in Hindu Domains: From the Straits Settlements to Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14203518) (Dordrecht: Springer, 2011), 216–20. (From National Library, Singapore, call no. RSING 322.1095957 SIN) 
 
 [^38]: Carl Vadivella Belle, *Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora* (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
 
