@@ -81,9 +81,9 @@ It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulat
 
 Guhan, Muruga, the guardian of Singapore 
 
+<div style="text-align: right">– A line from hymn 88 in the <em>Singai Nagar Antati[^13]</em></div>
 
-
-<p align="right">A line from hymn 88 in the <em>Singai Nagar Antati</em></p>[^13]
+<p align="right">A line from hymn 88 in the <em>Singai Nagar Antati</em>[^13]</p>
 	
 	
 The celebration of Thaipusam in Singapore can be traced to the Nattukottai Chettiars, who became an influential diaspora of private financiers in Southeast Asia in the 19th century.[^14] They adopted Murugan as their patron deity in their diasporic homes and as a partner in their business ventures, and their settlement pattern typically involved the construction of Murugan temples. When boarding a ship, the pioneering migrants carried the vel of Murugan, transferring their burden of worry for safe passage to the deity with the words “Murugan *tunai*” (“Murugan protects us”).[^15]
