@@ -203,13 +203,13 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^18]: Lakshmanan, “The Chettiar Legacy in Singapore.”
 
-[^19]: For an account of the rituals spanning five days during the festival, see  “தைப்பூசத்திருவிழா,” *Singai Nesan Tamil Journal*, 6 February 1888, 1. (rom NewspaperSG)
+[^19]: For an account of the rituals spanning five days during the festival, see  “[தைப்பூசத்திருவிழா](https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper/PreviewContent?pid=singai18880206-1&nid=singai),” *Singai Nesan Tamil Journal*, 6 February 1888, 1. (rom NewspaperSG)
 
-[^20]: Bala Baskaran, Said Abdullah and Arun Senkuttuvan, *V.R. Nathan: Community Servant Extraordinary* (Singapore: Institute of Southeast Asian Studies, 2012), 39–40. (From National Library, Singapore, call no. RSING 361.25092 BAL)
+[^20]: Bala Baskaran, Said Abdullah and Arun Senkuttuvan, [*V.R. Nathan: Community Servant Extraordinary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14298845) (Singapore: Institute of Southeast Asian Studies, 2012), 39–40. (From National Library, Singapore, call no. RSING 361.25092 BAL)
 
-[^21]: “Page 4 Advertisements Column 4,” *Straits Times*, 17 January 1935, 4; “No Delivery of Mails on Thaipusam,” *Straits Times*, 24 January 1964, 18; “Untitled,” *Straits Times*, 10 February 1922, 8. (From NewspaperSG)
+[^21]: “[Page 4 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350117-1.2.12.4),” *Straits Times*, 17 January 1935, 4; “[No Delivery of Mails on Thaipusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640124-1.2.126),” *Straits Times*, 24 January 1964, 18; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220210-1.2.26),” *Straits Times*, 10 February 1922, 8. (From NewspaperSG)
 
-[^22]: “Page 2 Advertisements Column 3: Tai-pusam,” Singapore Free Press and Mercantile Advertiser, 28 January 1896, 2. (From NewspaperSG)
+[^22]: “[Page 2 Advertisements Column 3: Tai-pusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960128-1.2.7.3),” Singapore Free Press and Mercantile Advertiser, 28 January 1896, 2. (From NewspaperSG)
 
 [^23]: Letter from S. Sockalingam Chettiar to the Chief Police Officer, 3 January 1938, Collection of the Sri Thendayuthapani Temple Library, 1–2. I am grateful to Subbiah Lakshmanan for showing me this and other rare materials in the collection of the library. 
 
