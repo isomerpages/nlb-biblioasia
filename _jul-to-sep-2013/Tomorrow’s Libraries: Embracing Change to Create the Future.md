@@ -8,7 +8,7 @@ description: To face the challenges of the new knowledge economy, libraries must
 
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
 <div style="background-color: white;">
 The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
@@ -32,6 +32,13 @@ We live in a time of fast, profound and far-reaching change, which will challeng
 
 *Complexity and Chaos*. The world we live in is remarkably complex. Ecosystems, biological functions and the socio-economic transactions of a globalising world are all exceedingly intricate and chaotic. Many of our models, based on the simple mathematics and analogies drawn from physics, are proving inadequate.
 
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt_1.jpg">
+<div style="background-color: white;">
+The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
+
+
 *Computation and Research*. Computing and information science will no longer be only for assisting in crunching large numbers. Today, computational science concepts, tools and theorems are being woven into the very fabric of science and scientific practice.
 
 *Convergence and Transformation*. Simply put, we once understood chemistry and biology as distinct and separate subjects, but now we have biochemistry. Such moments of convergence, generating new sciences and insights, are extremely productive in the development of our knowledge and technologies.
@@ -49,10 +56,17 @@ Second, there will continue to be certain materials, that for institutional and 
 
 Third, libraries will be the bridge between the general population, especially researchers, and the national and international archiving system. The sheer scale of that enterprise will pose particular problems, that are likely to be addressed only by libraries and archiving institutions.
 
+
+
+<img style="width: 80%;" src="images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
+<div style="background-color: white;">
+
+
+	
+
 But more than that, libraries will be transformed and will continue their essential societal role.
-
-
-#### **Ten Aspects Of The Libraries Of Tomorrow**
+	
+### **Ten Aspects Of The Libraries Of Tomorrow**
 
 To prepare for the challenges of tomorrow, libraries today should pursue a number of policies and programmes. Based on our experience in Egypt’s Library of Alexandria, I would suggest the following 10 points:
 
@@ -87,19 +101,3 @@ The three kinds of spaces should be: (i) creative messy places where young peopl
 Have we even begun to plumb the depths of the challenge and its implications? Probably not. It would be hubris to imagine that we, who could never have imagined the impact of the Internet 20 years ago, would be able to lay down a precise path to the future for the next 20 years. But I predict that libraries will continue to be a fundamental building block of the structure of culture and knowledge in the society of the future.
 
 The magnificent enterprise of socialisation and learning, involving children, schools, youth and their parents will continue as long as societies continue to exist. Libraries are an essential part of that enterprise. The transition from childhood to adulthood involves more than skills transfer, it involves Culture: learning who we are and where we belong. Libraries will therefore be part of our future as much as they have been part of our past.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
