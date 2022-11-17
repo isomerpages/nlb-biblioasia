@@ -283,5 +283,5 @@ sections:
       button: “Book City” in Two Streets
       url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/
       image: /images/Vol 18 Issue 4/Chinese Bookstore/BookstoreFacingPage2a.jpg
-      alt: Image alt text
+      alt: North Bridge Road
 ---
