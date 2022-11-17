@@ -274,4 +274,14 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
+  - infopic:
+      title: "“Book City” in Two Streets: The Chinese Bookstore Scene "
+      subtitle: Places
+      description: Some Chinese bookstores in Singapore have managed to survive
+        despite the challenges of the digital age and the decline in Chinese
+        readers.
+      button: “Book City” in Two Streets
+      url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/
+      image: /images/Vol 18 Issue 4/Chinese Bookstore/BookstoreFacingPage2a.jpg
+      alt: Image alt text
 ---
