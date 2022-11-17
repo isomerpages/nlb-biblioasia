@@ -86,11 +86,26 @@ Presently JLA is moving towards developing the m-Lib (mobile librarianship), whi
 
 #### **Epilogue**
 
-Yogyakarta is a province-city that wears many hats—it is a city of art, tourism and education, and it is home to people of different ethnic groups, faiths and ancestries, all living harmoniously and forming the city’s distinctive cultural character. The catchwords “education city” will become a trademark of Jogja, as hundreds of universities and colleges flourish here. Two of its reputable universities, Gadjah Mada University and University Islam Indonesia, are among the oldest universities in Indonesia. According to the Central Statistics Agency, Jogja is ranked as one of the top five provinces in the Indonesian Human Development Index in terms of life expectancy, education, literacy rate and standard of living. It is therefore only natural that Jogja should be a model for Indonesia’s other 33 provinces. It is hoped that cooperation between universities and the government and private sectors through the institution of the library will help produce a skilled and educated labour force that will help advance the overall development of Indonesia. 
+Yogyakarta is a province-city that wears many hats—it is a city of art, tourism and education, and it is home to people of different ethnic groups, faiths and ancestries, all living harmoniously and forming the city’s distinctive cultural character. The catchwords “education city” will become a trademark of Jogja, as hundreds of universities and colleges flourish here. Two of its reputable universities, Gadjah Mada University and University Islam Indonesia, are among the oldest universities in Indonesia. According to the Central Statistics Agency, Jogja is ranked as one of the top five provinces in the Indonesian Human Development Index in terms of life expectancy, education, literacy rate and standard of living. It is therefore only natural that Jogja should be a model for Indonesia’s other 33 provinces. It is hoped that cooperation between universities and the government and private sectors through the institution of the library will help produce a skilled and educated labour force that will help advance the overall development of Indonesia.
 
+<div>
+<b>Dady Rachmananta</b> was the director of the National Library of Indonesia from 2001 to 2009. He is now a senior librarian.
+</div>
 
+#### **REFERENCES**
+ 
 
+Ida, F. Priyanto. (2010, October 28). Implementasi teknologi dan informasi untuk pengembangan Jogja Library for all \[Paper presented at Evaluasi dan Tindak Lanjut Jogja Library for All\].
 
+Ikmal Hafzi. (2009, May 30). Masalah pengembangan perpustakaan di Provinsi DIY \[Paper presented at Rapat Koordinasi Dewan Perpustakaan Provinsi DIY\].
+
+Joko Prakoso. (2009, December 8). Kebijakan PemProv DIY dalam pengembangan program layanan terpadu Jogja Library For All \[Paper presented at Evaluasi Jogja Public Access Network\].
+
+Lilik Kurniawati Uswah. (2012, 16–18 October). Jogja Library for All: Dari konsep ke mobile \[Paper presented at Konferensi Perpustakaan Digital Indonesia (KPDI)
+
+Paradigma baru BPAD. (2011, September 14). Paper for Rapat Koordinasi Badan Perpustakaan dan Arsip Daerah DIY.
+
+Umi Proboyekti. (n.d.). Jogja Library for all: Sebuah evaluasi untuk pengembangan dan kesinambungun \[loose paper\]
 
 
 
