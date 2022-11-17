@@ -84,7 +84,7 @@ In the myth, Idumban’s teacher, Saivite seer Agastya, enlists Idumban’s help
 
 Idumban ties the two hills to a celestial staff using divine serpents in the place of ropes, and carries the two hills on the staff that acts like a shoulder pole, a prototype for a *kavadi*. Enroute, tired by his burdened journey, he lays the hills down for a rest but finds he is unable to lift them when ready to depart. He sees a boy-ascetic, who is in fact Murugan, atop one of the hills and confronts him without realising his divine identity. 
 
-Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous kavadi journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan.[^11] The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
+Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous <i>kavadi</i> journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan.[^11] The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
 
 It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^12] that the annual foot procession of thousands of *kavadi* bearing devotees in Singapore (and around the world) exemplifies. 
 
