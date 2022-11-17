@@ -110,3 +110,13 @@ The three kinds of spaces should be: (i) creative messy places where young peopl
 Have we even begun to plumb the depths of the challenge and its implications? Probably not. It would be hubris to imagine that we, who could never have imagined the impact of the Internet 20 years ago, would be able to lay down a precise path to the future for the next 20 years. But I predict that libraries will continue to be a fundamental building block of the structure of culture and knowledge in the society of the future.
 
 The magnificent enterprise of socialisation and learning, involving children, schools, youth and their parents will continue as long as societies continue to exist. Libraries are an essential part of that enterprise. The transition from childhood to adulthood involves more than skills transfer, it involves Culture: learning who we are and where we belong. Libraries will therefore be part of our future as much as they have been part of our past.
+
+<div>
+<b>Dr Ismail Serageldin</b> is the director of the Library of Alexandria in Egypt and also chairs its affiliated research institutes and museums. He has held many international positions including vice-president of the World Bank (1992 – 2000). He has received many honours, including the Legion d’Honneur (France) and the Order of the Rising Sun (Japan). He is also the recipient of 33 honorary doctorates.
+</div>
+
+
+
+
+
+
