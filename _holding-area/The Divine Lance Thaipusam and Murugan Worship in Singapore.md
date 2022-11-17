@@ -252,7 +252,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^21]: “[Page 4 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350117-1.2.12.4),” *Straits Times*, 17 January 1935, 4; “[No Delivery of Mails on Thaipusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640124-1.2.126),” *Straits Times*, 24 January 1964, 18; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220210-1.2.26),” *Straits Times*, 10 February 1922, 8. (From NewspaperSG)
 
-[^22]: “[Page 2 Advertisements Column 3: Tai-pusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960128-1.2.7.3),” Singapore Free Press and Mercantile Advertiser, 28 January 1896, 2. (From NewspaperSG)
+[^22]: “[Page 2 Advertisements Column 3: Tai-pusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960128-1.2.7.3),” *Singapore Free Press and Mercantile Advertiser*, 28 January 1896, 2. (From NewspaperSG)
 
 [^23]: Letter from S. Sockalingam Chettiar to the Chief Police Officer, 3 January 1938, Collection of the Sri Thendayuthapani Temple Library, 1–2. I am grateful to Subbiah Lakshmanan for showing me this and other rare materials in the collection of the library. 
 
