@@ -18,6 +18,15 @@ sections:
       background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
       title: Sarong Island
   - infopic:
+      title: The Origin Stories of Keramat Kusu
+      subtitle: Places
+      description: Pilgrimages to the keramat on Kusu Island have been going on since
+        the mid-19th century.
+      button: More on Keramat Kusu
+      url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
+      image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
+      alt: Kusu
+  - infopic:
       title: "“Book City” in Two Streets: The Chinese Bookstore Scene "
       subtitle: Places
       description: Some Chinese bookstores in Singapore have managed to survive
@@ -284,13 +293,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: The Origin Stories of Keramat Kusu
-      subtitle: Places
-      description: Pilgrimages to the keramat on Kusu Island have been going on since
-        the mid-19th century.
-      button: More on Keramat Kusu
-      url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
-      image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
-      alt: Kusu
 ---
