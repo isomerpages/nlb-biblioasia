@@ -22,20 +22,20 @@ In Singapore, the festival is one of the most distinguishing features of diaspor
 
 #### **The God with a Lance**
 
-<div><font size="+1">மாயோன் மேய காடுறை உலகமும்<br>
+<div><font size="3">மாயோன் மேய காடுறை உலகமும்<br>
 சேயோன் மேய மைவரை உலகமும்<br>
 வேந்தன் மேய தீம்புனல் உலகமும்<br>
 வருணன் மேய பெருமணல் உலகமும்<br>
 முல்லை குறிஞ்சி மருதம் நெய்தல் எனச்<br>
 	சொல்லிய முறையான் சொல்லவும் படுமே</font><br><br></div>
 
-<div><font size="+1">the pastoral region, presided over by Mayon; <br>
+<div><font size="3">the pastoral region, presided over by Mayon; <br>
 the mountain region, presided over by Ceyon; <br>
 the riverine region, presided over by Ventan; <br>
 the great sandy (coastal) region, presided over by Varunan; <br>
 	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em><br><br></font></div>[^3]
 
-<div style="text-align: right"><font size="+1">– <em>Tolkappiyam</em>, 951 </font></div>
+<div style="text-align: right"><font size="3">– <em>Tolkappiyam</em>, 951 </font></div>
 
 
 
