@@ -71,7 +71,7 @@ The array of information and scientific sources that are presently scattered acr
 
 
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/MobileLibraries1.jpg">
+<img style="width: 100%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/MobileLibraries1.jpg">
 <div style="background-color: white;">
 These mobile libraries, referred to as “pusteling”, are aimed at helping schools. <i>Courtesy of the National Library of Indonesia.</i></div>
 
@@ -106,6 +106,3 @@ Lilik Kurniawati Uswah. (2012, 16–18 October). Jogja Library for All: Dari kon
 Paradigma baru BPAD. (2011, September 14). Paper for Rapat Koordinasi Badan Perpustakaan dan Arsip Daerah DIY.
 
 Umi Proboyekti. (n.d.). Jogja Library for all: Sebuah evaluasi untuk pengembangan dan kesinambungun \[loose paper\]
-
-
-
