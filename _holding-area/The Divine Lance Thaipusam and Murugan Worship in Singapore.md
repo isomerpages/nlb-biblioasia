@@ -157,6 +157,9 @@ The *paal kudam* or milk pot burden is carried by around tens of thousands of de
 
 The concentration of the devotee on Murugan is the focus of the kavadi that involves piercings. The alavu *kavadi* involves the piercing of the tongue or cheek with a *vel* to prevent the devotee from speaking during the walk of faith. The *alagu kavadi*, on the other hand, involves the penetration of the skin of the bearer with needles or spikes, while the *ratha kavadi* involves the devotee pulling a chariot that is attached to their back. 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%209.png)
+<div style="background-color: white;"> On the eve of Thaipusam in a procession known as Punar Pusam, members of the Nattukottai Chettiar community carry the wooden <i>kavadi</i> and follow the silver chariot procession. In this photograph they are seen outside the Sri Mariamman Temple on South Bridge Road, 2015. <i>Courtesy of T. Kavindran.</i></div>
+
 The *alagu kavadi*, meaning “beautiful *kavadi*”, gets its name because of how it looks and its tendency to attract the most attention during the festival. In 2009, the devotee R. Sharuhasan’s *alagu kavadi* weighed around 35 to 40 kg and had a total height close to two storeys when lifted. The peacock features were each about 90 cm long, and the *kavadi* was designed to evoke those carried by his uncles some 20 years ago. “I didn't aim for it to be the biggest kavadi that day, but rather to carry on the family tradition,” he said.[^33]
 
 S. Kalleychelbon, who has been carrying the *kavadi* after being hospitalised with a knee injury, was reported in the *Straits Times* in 1990 as saying that he would typically fast for 48 days before carrying the chariot *kavadi*, which was modelled after the silver chariot of Murugan at Palani.[^34] 
