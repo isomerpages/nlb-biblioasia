@@ -11,7 +11,7 @@ Over the years, libraries have evolved from simply being gatekeepers of knowledg
 <div>
 <img style="width:50%;" src="/images/Vol%209%20Issue%202/Libraries%20for%20Life/CE%20Illo%20New-edit.jpg">
 <div style="background-color: white;">
-
+</div>
 	
 
 In Singapore, libraries hold a special place in the hearts of ordinary citizens. It is a place where memories are grown and nurtured. From the time a child is born until his silver years, from exploring other worlds through storytelling and books to taking instruction in iPad and social media classes as a senior citizen, the library is like a companion who stays for life regardless of one’s background. The idea of being a companion for life is part of the National Library Board’s (nlb) vision of creating libraries for life.
