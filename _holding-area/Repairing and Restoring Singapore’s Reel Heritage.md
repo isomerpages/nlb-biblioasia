@@ -15,6 +15,9 @@ In 2012, the World Cinema Project and the National Museum of Singapore restored 
 
 These movies were made using cellulose acetate-based film, a transparent plastic film used by photographers and filmmakers. The filmed materials were processed as picture and sound negatives that enabled copies of 35 mm theatrical prints to be produced for the cinemas. 
 
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
+<div style="background-color: white;">Neng Yatimah and P. Ramlee in <i>Patah Hati</i> by K.M. Basker. <i>Courtesy of Shaw Organisation Pte Ltd</i></div>
+
 However, film degrades over time. The condition of both cellulose nitrate and cellulose acetate material is highly dependent on temperature and relative humidity. Storing film materials at room temperature or warmer, and coupled with high humidity, will inevitably cause chemical decay in the base and emulsion of the film material. 
 
 In Southeast Asia’s tropical climate, the degradation resulting in the colour, image and sound loss of the material can occur easily with the lethal combination of humidity and heat. Problems such as “vinegar syndrome” cause films to become brittle, shrink and emit an acidic odour. In addition, the warm environment is a perfect breeding ground for the growth of mould, mildew and fungus. Improper handling and transportation of the material have also resulted in mechanical damage such as torn splices and broken perforations.
@@ -110,9 +113,6 @@ The first MFP film that the AFA encountered was a surviving 16 mm print of *Pata
 Upon close inspection, the first several minutes of the film were found to be completely missing from the print. The findings signified that the film was at potential risk of being lost in its entirety if nothing was done, thus giving greater reason to salvage and restore whatever remained of the material. 
 
 *Patah Hati* was one of the most challenging film restorations ever encountered by experienced restorers at the Italian laboratory L’Immagine Ritrovata, who carried out the restoration in 2015. The substantial number of missing image and audio frames, and extensive wear and tear meant that many individual frames needed to be carefully repaired before scanning was even possible, adding many man-hours to the task. The severe scratches and mould defects on the print required additional processing during the digital restoration stage. 
-
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
-<div style="background-color: white;">Neng Yatimah and P. Ramlee in <i>Patah Hati</i> by K.M. Basker. <i>Courtesy of Shaw Organisation Pte Ltd</i></div>
 
 After six months of hard work, *Patah Hati* was finally restored and presented at “Spotlight on Singapore Cinema” in 2015. A text slate was included at the start of the film to address the entire missing first scene and to explain the challenges of the restoration.
 
