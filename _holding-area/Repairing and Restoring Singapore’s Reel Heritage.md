@@ -35,10 +35,10 @@ Film restoration, on the other hand, is a highly specialised process consisting 
 
 In Singapore, the work of restoring old films has been spearheaded by the Asian Film Archive, a subsidiary of the National Library Board. Formed in 2005 as a non-profit organisation to preserve the rich film heritage of Singaporean and Asian cinema, the AFA began restoring films in 2014 starting with two movies from the Cathay-Keris Malay Classics Collection, which is a collection of Singapore films dating from 1958 to 1973. This is the largest single film collection that is being preserved by the AFA. 
 
+The story begins in 2007 when 91 surviving film titles, with a total of 671 reels in 16 mm and 35 mm formats, were donated to the AFA by Cathay Organisation for preservation. Cathay-Keris Films and Shaw Brothers’ Malay Film Productions (MFP) were the main producers of Malay films during the 1950s to 1970s, a period that is usually referred to as the golden age of Malay cinema in Singapore.
+
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image5.png)
 <div style="background-color: white;"> Storage of Cathay-Keris Malay films before they were donated to the Asian Film Archive. <i>Courtesy of Asian Film Archive.</i></div>
-
-The story begins in 2007 when 91 surviving film titles, with a total of 671 reels in 16 mm and 35 mm formats, were donated to the AFA by Cathay Organisation for preservation. Cathay-Keris Films and Shaw Brothers’ Malay Film Productions (MFP) were the main producers of Malay films during the 1950s to 1970s, a period that is usually referred to as the golden age of Malay cinema in Singapore.
 
 Many of the films produced by Cathay-Keris (including productions under the banner of Keris Films) from 1953, which includes *Buloh Perindu* (1953, B.S. Rajhans) and *Pontianak* (1957, B.N. Rao), are considered lost. This makes the donated surviving film materials a rare and significant collection that highlights the evolution of filmmaking in Singapore, and its development as a film production and distribution centre. 
 
