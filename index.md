@@ -36,7 +36,7 @@ sections:
       image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
       alt: Kusu
   - infopic:
-      title: "“Book City” in Two Streets: The Chinese Bookstore Scene "
+      title: "“Book City” in Two Streets: Postwar Chinese Bookstore Scene "
       subtitle: Places
       description: Some Chinese bookstores in Singapore have managed to survive
         despite the challenges of the digital age and the decline in Chinese
