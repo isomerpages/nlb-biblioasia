@@ -293,4 +293,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
+  - infopic:
+      title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
+      subtitle: Worship
+      description: The local Taoist pantheon includes goddesses only found in
+        Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
+      button: Taoist Folk Goddesses of Singapore
+      url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
+      image: /images/Vol 18 Issue 4/Maiden Lim/image4.png
+      alt: Zhen Long Gong
 ---
