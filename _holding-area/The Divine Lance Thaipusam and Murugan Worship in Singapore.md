@@ -142,6 +142,9 @@ On the day of Thaipusam, they begin their preparation early in the morning. Foll
 
 The *kavadi* bearers depart at dawn on the foot procession, moving to rhythmic chants of *Vel Vel* or *Vel Muruga Vel*, walking at at steady pace until they reach the Sri Thendayuthapani Temple. There, their pace quickens in anticipation of the culmination of their journey of devotion. 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%208.png)
+<div style="background-color: white;"> The silver chariot bearing the processional image of Murugan, 2015. <i>Courtesy of T. Kavindran.</i></div>
+
 The offering of milk or honey, usually incorporated into vessels ensconced within the *kavadi*, are offered as ablutions to Murugan when devotees end their foot procession at the Sri Thendayuthapani Temple. Devotees subsequently hold a ceremony in their homes to honour Murugan and sometimes perform a rite known as Idumban Puja, usually within three days of Thaipusam. Idumban Puja is also known to be performed by some Chinese *kavadi* bearers in Malaysia.[^29] 
 
 #### **Worship, Ritual and Aesthetics** 
