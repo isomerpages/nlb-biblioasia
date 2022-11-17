@@ -143,7 +143,7 @@ Of the seven 35 mm reels, only the last reel could be salvaged. It took 10 weeks
 
 The eventual digitisation of the last eight minutes, despite the hissing and shaking staticky images, provide a glimpse of how this beloved film could have looked and sounded on the big screen. The loss of this gem highlights the urgency of preserving what we can of our cinematic heritage while it is still possible.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">To learn more about the film restoration process, visit xx. For more on the Asian Film Archive, go to www.asianfilmarchive.org.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">For more on the Asian Film Archive, go to www.asianfilmarchive.org.</div>
 
 <div style="background-color: white;">
 <br/>
