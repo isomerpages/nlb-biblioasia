@@ -14,7 +14,7 @@ By Nalina Gopal
 <div style="background-color: white;"> A penitent carrying the <i>alagu kavadi</i> (also known as the <i>silavu kavadi</i> or <i>mayil kavadi</i>) during the Thaipusam procession, 2015. <i>Photo by T. Kavindran. Courtesy of Hindu Endowments Board.</i></div>
 
 
-On 9 February 1952, the Singapore Free Press carried a story titled “No ‘Kavadis’ Today”.[^1] That year, Singapore’s Tamil community scaled down Thaipusam celebrations and refrained from holding the procession because of the death of King George VI. That was an unprecedented event. Since then, there hasn’t been such another instance of Thaipusam being put on hold, that is, until 2021 when the procession in Singapore was disallowed because of the Covid-19 pandemic. 
+On 9 February 1952, the <i>Singapore Free Press</i> carried a story titled “No ‘Kavadis’ Today”.[^1] That year, Singapore’s Tamil community scaled down Thaipusam celebrations and refrained from holding the procession because of the death of King George VI. That was an unprecedented event. Since then, there hasn’t been such another instance of Thaipusam being put on hold, that is, until 2021 when the procession in Singapore was disallowed because of the Covid-19 pandemic. 
 
 Thaipusam personifies the worship of Murugan, a celebrated patron god in Tamil tradition who has been revered for over two millennia. Taking place during Thai, the 10th month in the Tamil calendar (January to February in the Gregorian calendar), Thaipusam is celebrated in South India, and outside it, by the Tamil diaspora in Singapore, Malaysia, Mauritius, South Africa, Sri Lanka, Indonesia, Myanmar and even Australia.
 
