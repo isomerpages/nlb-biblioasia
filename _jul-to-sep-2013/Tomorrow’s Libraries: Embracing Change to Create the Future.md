@@ -8,7 +8,7 @@ description: To face the challenges of the new knowledge economy, libraries must
 
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
 <div style="background-color: white;">
 The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
@@ -34,7 +34,7 @@ We live in a time of fast, profound and far-reaching change, which will challeng
 
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt_1.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt_1.jpg">
 <div style="background-color: white;">
 The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
@@ -114,9 +114,3 @@ The magnificent enterprise of socialisation and learning, involving children, sc
 <div>
 <b>Dr Ismail Serageldin</b> is the director of the Library of Alexandria in Egypt and also chairs its affiliated research institutes and museums. He has held many international positions including vice-president of the World Bank (1992 – 2000). He has received many honours, including the Legion d’Honneur (France) and the Order of the Rising Sun (Japan). He is also the recipient of 33 honorary doctorates.
 </div>
-
-
-
-
-
-
