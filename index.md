@@ -25,7 +25,7 @@ sections:
       url: /vol-18/issue-4/jan-mar-2023/postwar-Chinese-bookstores-Chinese-Text/
       image: /images/Vol 18 Issue 4/Chinese Bookstores_Chinese/View of North Bridge
         Road.jpg
-      alt: Image alt text
+      alt: 大小坡两条书街
   - infopic:
       title: A Voice for the Wild
       subtitle: Nature
