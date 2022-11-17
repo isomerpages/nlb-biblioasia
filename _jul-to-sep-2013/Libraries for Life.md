@@ -13,6 +13,7 @@ Over the years, libraries have evolved from simply being gatekeepers of knowledg
 </div>
 	
 
+
 In Singapore, libraries hold a special place in the hearts of ordinary citizens. It is a place where memories are grown and nurtured. From the time a child is born until his silver years, from exploring other worlds through storytelling and books to taking instruction in iPad and social media classes as a senior citizen, the library is like a companion who stays for life regardless of one’s background. The idea of being a companion for life is part of the National Library Board’s (nlb) vision of creating libraries for life.
 
 The challenge for us as a library is to continue to retain our value as changing media and technologies quicken the pace of the digital transformation. While we have adapted by integrating these newer technologies, from growing our eBooks collection to developing mobile technologies, we recognise that this is not enough. Beyond riding the digital trends, we have to show that libraries can offer much more to the community; we build connections where people would otherwise not find them, between streams of knowledge, between fields of interests and between people and organisations who would otherwise not have come together.
