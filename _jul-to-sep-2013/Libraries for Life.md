@@ -34,7 +34,7 @@ I hope this issue of BiblioAsia will inspire you with the stories contained with
 	
 
 <b>Elaine Ng</b> is the chief executive officer of the National Library Board of 
-Singapore.</div>
+Singapore.
 
 
 
