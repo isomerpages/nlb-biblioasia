@@ -58,7 +58,7 @@ Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of t
 நோயுடை நுடங்கு சூர் மா முதல் தடிந்து<br><br></div>
 
 <div>You swirled your weapon<br> 
-and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree[^8] <br><br></div>
+and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree <br><br></div>[^8]
 
 <div style="text-align: right">– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4).</div>[^9]
 
