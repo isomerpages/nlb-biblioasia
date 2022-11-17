@@ -33,9 +33,6 @@ While “preserved” and “restored” are often used interchangeably in stori
 
 Film restoration, on the other hand, is a highly specialised process consisting of different stages that involves digitising, duplicating and reconstructing a specific version of a film by piecing together surviving source materials, and using digital restoration tools “to identify and thoughtfully remediate damage and deterioration suffered by the original material and to return the appearance of a film to a state closer to what it would have been when it was first created”.[^2] 
 
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image4.png)
-<div style="background-color: white;"> Hand cleaning and inspecting reels of Cathay-Keris films. <i>Courtesy of Asian Film Archive.</i></div>
-
 In Singapore, the work of restoring old films has been spearheaded by the Asian Film Archive, a subsidiary of the National Library Board. Formed in 2005 as a non-profit organisation to preserve the rich film heritage of Singaporean and Asian cinema, the AFA began restoring films in 2014 starting with two movies from the Cathay-Keris Malay Classics Collection, which is a collection of Singapore films dating from 1958 to 1973. This is the largest single film collection that is being preserved by the AFA. 
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image5.png)
@@ -48,6 +45,9 @@ Many of the films produced by Cathay-Keris (including productions under the bann
 These Cathay-Keris films portray the traditional mores and culture of the Malays and provide a visual documentation of the physical landscapes, nation building, economic challenges, rapid modernisation, religious and social changes that occurred in Singapore in the post-war era.
 
 The 35 mm and 16 mm prints were stored in a warehouse when AFA first encountered them, and all the reels were affected with varying degrees of vinegar syndrome that had developed over the decades. The AFA took four years, until 2011, to complete the processing and hand-cleaning of all the reels. 
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image4.png)
+<div style="background-color: white;"> Hand cleaning and inspecting reels of Cathay-Keris films. <i>Courtesy of Asian Film Archive.</i></div>
 
 In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNESCO Memory of the World Asia-Pacific Register (MOWCAP), a listing of endangered documentary heritage that represents a legacy for the world’s community. In 2014, the collection became AFA’s and Singapore’s first inscription into the MOWCAP Register. The inscription marked a significant milestone for the AFA and the collection, amplifying the value of the films, and highlighting AFA’s purpose to make the collection accessible through digitisation and restoration before further loss could happen.
 
