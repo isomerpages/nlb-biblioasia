@@ -10,6 +10,7 @@ Over the years, libraries have evolved from simply being gatekeepers of knowledg
 
 <div>
 <img style="width:50%;" src="/images/Vol%209%20Issue%202/Libraries%20for%20Life/CE%20Illo%20New-edit.jpg">
+<div style="background-color: white;">
 </div>
 	
 
