@@ -201,6 +201,13 @@ Thaipusam, of course, continues to be celebrated in South Asia, in Palani (and a
 
 The festival of Thaipusam is a phenomenon tying together source and diasporic communities, particularly those that were part of a modern wave of migration across colonial settlements. This age-old festival is a long-surviving cultural umbilical cord of inescapable historical and social significance, that also extends beyond ethnic and religious boundaries.
 
+
+<div style="background-color: white;"> 
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Nalina%20Gopal.png" style="width: 100px; height: 100px;"/>
+			<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is the founder of Antāti, a historical research and museum consultancy.</div>
+
+
 #### **NOTES**
 
 [^1]: “[No ‘Kavadis’ Today](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520209-1.2.11),” *Singapore Free Press*, 9 February 1952, 1. (From NewspaperSG)
