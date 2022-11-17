@@ -31,7 +31,8 @@ Jogja sees the university library as playing a vital role in supporting its stud
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/Jogja%20Lib4.jpg">
 <div style="background-color: white;">
-The original provincial library building, which now houses the deposit collection and serves as a tourist information centre. It is located at the Malioboro area, the main street and icon of Jogjakarta. <i>Courtesy of the National Library of Indonesia.</i>
+The original provincial library building, which now houses the deposit collection and serves as a tourist information centre. It is located at the Malioboro area, the main street and icon of Jogjakarta. <i>Courtesy of the National Library of Indonesia.</i></div>
+
 
 All these matters have been regulated in the Library Act of 2007, particularly university libraries whose roles, main tasks and functions are to be implemented effectively and transparently. The aim of a university library is in essence to support its parent university. This task can only be achieved through the collections, resources and services offered by the library.
 	
@@ -58,6 +59,9 @@ In addition to the JLA programme, there was a continued collaboration with the â
 	
 
 
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/NL%20Jakarta.jpg">
+<div style="background-color: white;">
+The National Library Building in Jakarta. <i>Courtesy of the National Library of Indonesia.</i></div>
 	
 	
 	
