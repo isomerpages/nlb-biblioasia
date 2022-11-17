@@ -58,7 +58,7 @@ Third, libraries will be the bridge between the general population, especially r
 
 
 
-<img style="width: 650px; height: 400px;"  src="images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
+<img style="width: 650px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
 <div style="background-color: white;">
 </div>
 
@@ -83,6 +83,15 @@ To prepare for the challenges of tomorrow, libraries today should pursue a numbe
 *Working towards machine translation and summarisation services*. Language and length will be obstacles to the reader and researcher of the future. Thus libraries must be at the forefront of the supporters and users of machine-based translation and summarisation.
 
 *Make the library an attractive place for youth*. Most young people do not like oldstyle libraries with their hushed reading rooms. They prefer going online to search for information and spending their time in common rooms in their dorms. The library must offer them an infrastructure and three kinds of places. The infrastructure should involve constant display of and easy access to the latest knowledge, as well as the vast resources available.
+
+
+
+
+<img style="width: 650px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_7.jpg">
+<div style="background-color: white;">
+The Mediterranean-facing side of the Library of Alexandria in Egypt. <i>Image by Joakim Jardenberg via Flickr.</i>
+</div>
+
 
 The three kinds of spaces should be: (i) creative messy places where young people can create together, with food, music and flipcharts or their future equivalents; (ii) collaborative spaces where they can study together in relative quiet, but with active discussions; and finally (iii) the quiet cubicle-type of space for single researchers. There should also be spaces for art exhibits and common functions. Since much of the physical storage of volumes can be off-site, it will liberate building space for other uses. This will ensure that the library remains at the heart of campus life in universities and community life in cities.
 
