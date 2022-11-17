@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
       title: Sarong Island
   - infopic:
+      title: "“Book City” in Two Streets: The Chinese Bookstore Scene "
+      subtitle: Places
+      description: Some Chinese bookstores in Singapore have managed to survive
+        despite the challenges of the digital age and the decline in Chinese
+        readers.
+      button: “Book City” in Two Streets
+      url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/
+      image: /images/Vol 18 Issue 4/Chinese Bookstore/BookstoreFacingPage2a.jpg
+      alt: North Bridge Road
+  - infopic:
       title: 两条书街，两座书城：战后新加坡华文书店景观
       subtitle: Places
       description: 面对数码时代和读者流失的挑战，新加坡的华文书店逆流生存。
@@ -274,14 +284,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: "“Book City” in Two Streets: The Chinese Bookstore Scene "
-      subtitle: Places
-      description: Some Chinese bookstores in Singapore have managed to survive
-        despite the challenges of the digital age and the decline in Chinese
-        readers.
-      button: “Book City” in Two Streets
-      url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/
-      image: /images/Vol 18 Issue 4/Chinese Bookstore/BookstoreFacingPage2a.jpg
-      alt: North Bridge Road
 ---
