@@ -71,7 +71,7 @@ The array of information and scientific sources that are presently scattered acr
 
 
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/Presentation2.jpg">
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/Presentation2.jpg">
 <div style="background-color: white;">
 These mobile libraries, referred to as “pusteling”, are aimed at helping schools. <i>Courtesy of the National Library of Indonesia.</i></div>
 
