@@ -5,7 +5,6 @@ description: "Thaipusam speaks of a migratory community that carries its
   deep-rooted cultural tradition wherever its people go. "
 image: /images/Vol 18 Issue 4/Thaipusam/Image 1.png
 ---
-
 #### Thaipusam speaks of a migratory community that carries its deep-rooted cultural tradition wherever its people go. 
 By Nalina Gopal
 
