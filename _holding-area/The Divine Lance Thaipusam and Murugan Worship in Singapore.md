@@ -174,6 +174,9 @@ It is also customary for the *kavadi* bearer to be accompanied by family and fri
 
 An early version of “Kavadi Sindu” composed and sung in Singapore is the “Singainagar Singara Vadivelar *kavadi* Sindu”, written by R.M.R. Ramanathan in 1907. It is dedicated to the deity at Sri Thendayuthapani Temple addressed as “Thendayutha, Kadamba”, asking him to protect the *kavadi* bearers.[^40]
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2010.png)
+<div style="background-color: white;"> A Chinese <i>kavadi</i> bearer arriving at the Sri Thendayuthapani Temple, the culmination point of the Thaipusam foot procession, 2014. <i>Chettiars’ Temple Society Collection, courtesy of National Archives of Singapore.</i></div>
+
 The ban and seizure of musical instruments used during Thaipusam began in 1973. In 2017, for the first time in over 40 years, the government allowed live music during the street procession but stipulated that people could only play specific instruments like the *nadhaswaram* (a wind instrument), a barrel-shaped drum called the *tavil* and the *urumi melam* (Indian drum).[^41] Music is important to the devotee. “With the beat and the singing, I bounced while walking and the bounce of the *kavadi* took the weight off me,” longtime *kavadi* bearer Subash Gunaseelan told the *Straits Times* in 2019. “In the past, without any music, the journey felt very long and we had to rush. Now, the music makes carrying the *kavadi* enjoyable as well.”[^42] 
 
 Interestingly, the regulation of musical instruments during Thaipusam has a long history in Singapore. In 1896, colonial police confiscated the drums of the band of the Maharaja of Travancore, which had been engaged to perform for the Thaipusam festival.[^43] 
