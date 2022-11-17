@@ -185,6 +185,9 @@ Interestingly, the regulation of musical instruments during Thaipusam has a long
 
 In 1860, when Thaipusam was first celebrated in Singapore, South Africa saw the emergence of Murugan worship. The observance of a 10-day *kavadi* festival included the hallmark carrying of the traditional wooden *kavadi*.[^44] In Mauritius, the carrying of the *kavadi* involving piercing is also undertaken, not unlike in Singapore and Malaysia.[^45] 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2011.png)
+<div style="background-color: white;"> An <i>alagu kavadi</i> bearer with his tongue and cheek pierced with a <i>vel</i>, 1985–99. Behind him is a female devotee with a milk pot on her head. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
+
 It is not uncommon to see those of diverse faiths and ethnicities undertaking the pilgrimage. As early as 1966, the *Straits Times* carried an interview with Lim Ewe Chia, a Chinese *kavadi* bearer from Penang who said that he vowed to carry the *kavadi* if his family was cured of asthma. Apparently, none of his family members suffered any attack that year. “I consider this a miracle,” he said.[^46] 
 
 The idea of not confining devotion to one transcendental deity has spurred some Chinese Buddhists and Taoists to participate in Thaipusam. Some of them even enter a trance. This is more common in Malaysia, notably in Penang, than it is in Singapore. 
