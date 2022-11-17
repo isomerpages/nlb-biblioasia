@@ -35,7 +35,7 @@ the riverine region, presided over by Ventan; <br>
 the great sandy (coastal) region, presided over by Varunan; <br>
 	these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em><br><br></font></div>[^3]
 
-<div style="text-align: right">– <em>Tolkappiyam</em>, 951 </div>
+<div style="text-align: right"><font size="+1">– <em>Tolkappiyam</em>, 951 </font></div>
 
 
 
