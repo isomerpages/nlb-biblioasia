@@ -8,7 +8,7 @@ description: To face the challenges of the new knowledge economy, libraries must
 
 
 
-<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
+<img style="width: 850px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
 <div style="background-color: white;">
 The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
@@ -34,7 +34,7 @@ We live in a time of fast, profound and far-reaching change, which will challeng
 
 
 
-<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt_1.jpg">
+<img style="width: 850px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt_1.jpg">
 <div style="background-color: white;">
 The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
@@ -58,7 +58,7 @@ Third, libraries will be the bridge between the general population, especially r
 
 
 
-<img style="width: 650px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
+<img style="width: 850px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
 <div style="background-color: white;">
 </div>
 
@@ -87,7 +87,7 @@ To prepare for the challenges of tomorrow, libraries today should pursue a numbe
 
 
 
-<img style="width: 650px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_7.jpg">
+<img style="width: 850px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_7.jpg">
 <div style="background-color: white;">
 The Mediterranean-facing side of the Library of Alexandria in Egypt. <i>Image by Joakim Jardenberg via Flickr.</i>
 </div>
