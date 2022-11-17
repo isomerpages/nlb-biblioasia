@@ -18,6 +18,15 @@ sections:
       background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
       title: Sarong Island
   - infopic:
+      title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
+      subtitle: Worship
+      description: The local Taoist pantheon includes goddesses only found in
+        Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
+      button: Taoist Folk Goddesses of Singapore
+      url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
+      image: /images/Vol 18 Issue 4/Maiden Lim/image4.png
+      alt: Zhen Long Gong
+  - infopic:
       title: The Origin Stories of Keramat Kusu
       subtitle: Places
       description: Pilgrimages to the keramat on Kusu Island have been going on since
@@ -293,13 +302,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
-      subtitle: Worship
-      description: The local Taoist pantheon includes goddesses only found in
-        Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
-      button: Taoist Folk Goddesses of Singapore
-      url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
-      image: /images/Vol 18 Issue 4/Maiden Lim/image4.png
-      alt: Zhen Long Gong
 ---
