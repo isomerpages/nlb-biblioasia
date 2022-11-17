@@ -74,9 +74,6 @@ The film was directed by K.M. Basker, an Indian filmmaker who was responsible fo
 
 The restoration of both films took over six months, and the restored films were presented for the first time with newly created English and French subtitles at the Cinémathèque Française as part of “Cinemas de Singapour en 50 films”. This was a special retrospective programme co-organised by the Singapore Film Commission that showcased 50 Singaporean films to commemorate the nation’s 50th year of independence in 2015. 
 
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image8.png)
-<div style="background-color: white;"> (Left) A reel undergoing re-hydration/desiccation treatment. <i>Courtesy of L’Immagine Ritrovata</i>. (Right) Repairing a splice of a 35 mm print. <i>Courtesy of L’Immagine Ritrovata</i></div>
-
 *Gado Gado* was also selected for the Il Cinema Ritrovato, the first Singaporean work to be screened at an important film festival for heritage and restored films in the Italian city of Bologna. *Sultan Mahmood Mangkat Dijulang* made its Singapore premiere at the National Museum of Singapore Gallery Theatre in 2015 in celebration of AFA’s 10th anniversary and its first film restoration. To date, AFA has restored a total of nine titles from the surviving film elements of the Cathay-Keris Malay Classics Collection. The other seven are *Chuchu Datok Merah* (1963, M. Amin), *Aku Mahu Hidup* (1971, M. Amin), *Orang Minyak* (1958, L. Krishnan), *Dang Anom* (1962, Hussain Haniff), *Chinta Kaseh Sayang* (1965, Hussain Haniff), *Mat Magic* (1971, Mat Sentol and John Calvert) and *Dara-Kula* (1973, Mat Sentol).
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image2.png)
@@ -110,6 +107,9 @@ The first MFP film that the AFA encountered was a surviving 16 mm print of *Pata
 Upon close inspection, the first several minutes of the film were found to be completely missing from the print. The findings signified that the film was at potential risk of being lost in its entirety if nothing was done, thus giving greater reason to salvage and restore whatever remained of the material. 
 
 *Patah Hati* was one of the most challenging film restorations ever encountered by experienced restorers at the Italian laboratory L’Immagine Ritrovata, who carried out the restoration in 2015. The substantial number of missing image and audio frames, and extensive wear and tear meant that many individual frames needed to be carefully repaired before scanning was even possible, adding many man-hours to the task. The severe scratches and mould defects on the print required additional processing during the digital restoration stage. 
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image8.png)
+<div style="background-color: white;"> (Left) A reel undergoing re-hydration/desiccation treatment. <i>Courtesy of L’Immagine Ritrovata</i>. (Right) Repairing a splice of a 35 mm print. <i>Courtesy of L’Immagine Ritrovata</i></div>
 
 After six months of hard work, *Patah Hati* was finally restored and presented at “Spotlight on Singapore Cinema” in 2015. A text slate was included at the start of the film to address the entire missing first scene and to explain the challenges of the restoration.
 
