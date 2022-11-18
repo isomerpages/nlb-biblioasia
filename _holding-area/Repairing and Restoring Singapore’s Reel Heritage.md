@@ -181,7 +181,20 @@ The most labour-intensive component of film restoration involves using a combina
 The audio tracks on a film element are digitised separately using a dedicated sound capturing device. Audio restoration software is used to eliminate or reduce clicks, crackles, and bumps, smoothen excessive noise and balance the overall tone for a better auditory experience. The sound restoration process happens concurrently with the image restoration, and the restored audio will eventually get synchronised with the restored image.
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h15m21s242.jpg)
-<div style="background-color: white;"> Deteriorated frames on print of <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+<div style="background-color: white;">Digitised sound on audio restoration software.<i>Courtesy of L’Immagine Ritrovata.</i></div>
+
+<b>Colour Correction</b><br>
+Colour correction is a process that is necessary to recover the original tone and colour of the film due to colour fade that could also affect the contrast and exposure levels of the image. This is necessary even for black-and-white films since there are gradations of black and white tones.
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h18m20s758.jpg)
+<div style="background-color: white;">Screen shots from <i>_Dang Anom_ </i>before and after colour correction.<i> Courtesy of Cathay_Keris Films Pte Ltd.</i></div>
+
+<b>Subtitling</b><br>
+Translation and subtitling are vital components of restoration for the contemporary circulation and exhibition of classic films, especially when the film contains any foreign language that might impede the general viewer experience.
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.jpg)
+<div style="background-color: white;">Screenshot from <i>Su n Mahmood Mangkat Dijulang_. _Courtesy_ <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+
 
 </div>
 
