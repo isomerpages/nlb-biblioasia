@@ -147,7 +147,7 @@ The eventual digitisation of the last eight minutes, despite the hissing and sha
 	<b>THE FILM RESTORATION PROCESS</b><br>
 Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
 	
-![](/images/Vol%2018%20Issue%204/Asian%20Film/ORIGINAL%20WORKFLOW.png)
+src="/images/Vol%2018%20Issue%204/Asian%20Film/ORIGINAL%20WORKFLOW.png">
 <div style="background-color: white;"> Original workflow diagram courtesy of L’Immagine Ritrovata, which has been modified to represent Asian Film Archive’s adopted restoration workflow. </div>
 	
 <b>Film Inspection and Identification</b></br>
