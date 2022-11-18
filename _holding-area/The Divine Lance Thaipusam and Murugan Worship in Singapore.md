@@ -35,7 +35,7 @@ the riverine region, presided over by Ventan; <br>
 the great sandy (coastal) region, presided over by Varunan; <br>
 these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em>[^3]
  
-<div style="text-align: right"><font size="3">– <em>Tolkappiyam</em>, 951 </font></div>
+<div style="text-align: right">– <em>Tolkappiyam</em>, 951 </font></div>
 
 Thaipusam is centred around the worship of Murugan. The boy god Murugan’s identity is a complex mix of several inseparable historical and cultural roots, and a reflection of the inherent complexity of Tamil tradition. Tamil poetry of the Sangam era (a period spanning roughly 3rd century BCE to 3rd century CE) positions Murugan (or Murukan from the word <i>muruku</i> meaning “beautiful”, “fragrant” or “youthful one”) as the god of the hills and hunt,[^4] and the son of Korravai, goddess of war and victory.[^5] 
 
@@ -52,13 +52,13 @@ Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of t
 
 #### **A Myth Celebrated**
 
-<div>திரிய விட்டெறிந்து,<br>
+திரிய விட்டெறிந்து,<br>
 நோயுடை நுடங்கு சூர் மா முதல் தடிந்து<br><br></div>
 
-<div>You swirled your weapon<br> 
-and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree <br><br></div>[^8]
+You swirled your weapon<br> 
+and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree <br><br>[^8]
 
-<div style="text-align: right">– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4).</div>[^9]
+– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4).[^9]
 
 Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
