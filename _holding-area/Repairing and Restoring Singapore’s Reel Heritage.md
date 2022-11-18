@@ -165,8 +165,9 @@ Cleaning is essential to remove mould and projection oil from the film before di
 <b>Film Scanning</b><br> 
 Film scanning is a process that captures each frame of film with its own digital file. The standard for motion pictures is 24 frames per second and each frame of film would have a corresponding Digital Picture Exchange (DPX) image file. A 90-minute film would have approximately 129,600 of these high-resolution digital scans, which would then be ingested and assembled using the restoration software.
 
-![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg)
-<div style="background-color: white;">A 35mm print loaded onto a film scanner <i>Courtesy of L’Immagine Ritrovata.</i></div>
+<img
+src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg">
+style="background-color: white;">A 35mm print loaded onto a film scanner <i>Courtesy of L’Immagine Ritrovata.</i><br><br>
 
 <b>Film Comparison</b><br>
 No two sets of film elements, even from the same title, are the same. This is because the condition of the elements would vary. This is why the film comparison stage is crucial, especially when there is more than one source material known to exist. The aim in comparing different sets of film elements is to be able to select and piece together the definitive version of the film using the best possible image and sound from all available source materials. 
