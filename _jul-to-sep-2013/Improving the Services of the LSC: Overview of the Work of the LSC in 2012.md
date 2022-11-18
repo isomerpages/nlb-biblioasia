@@ -9,7 +9,7 @@ description: The Library Society of China has been encouraging academic
 
 
 <img style="width: 50%;" src="/images/Vol%209%20Issue%202/Library%20Society%20of%20China/LSC_chart.jpg">
-</div>
+
 
 The Library Society of China (lsc) is the largest academic civil society group in the Chinese library community. It falls under the guidance of the China Association for Science and Technology (CAST) in service operation and is subordinate to the China National Library in administration. It is registered with the China Ministry of Civil Affairs and won a 4A qualification evaluation rating in 2012. In recent years, led by its Council and through the promotion of academic exchange and library services, the LSC has made considerable progress in enhancing its servicing capabilities.
 
@@ -34,6 +34,3 @@ These activities were favourably received by lsc members, and in turn they helpe
 <div>
 <b>Yan Xiangdong</b> is the secretary general of the Library Society of China. He is also an IFLA A&O Committee Member and IFLA MLAS Committee Member and the former director of the International Cooperation Division of the National Library of China. <b>Ma Jun</b> is the chief of Administration Office of the Library Society of China.
 </div>
-
-
-
