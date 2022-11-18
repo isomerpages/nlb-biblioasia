@@ -173,7 +173,7 @@ src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.j
 <br>
 <b>Film Comparison</b><br>
 No two sets of film elements, even from the same title, are the same. This is because the condition of the elements would vary. This is why the film comparison stage is crucial, especially when there is more than one source material known to exist. The aim in comparing different sets of film elements is to be able to select and piece together the definitive version of the film using the best possible image and sound from all available source materials. 
-
+<br>
 <b>Digital Image Restoration</b><br>
 The most labour-intensive component of film restoration involves using a combination of manual and automated digital tools to de-flicker, de-warp, remove dirt and scratches, stabilise images, as well as reconstruct missing and damaged frames. 
 
