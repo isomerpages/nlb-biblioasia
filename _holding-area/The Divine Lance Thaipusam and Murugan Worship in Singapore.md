@@ -62,9 +62,6 @@ and destroyed Sur[an], personified fear, who had taken the form of a moving mang
 
 Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%203.png)
-<div style="background-color: white;"> <i>Paal kudam</i> or milk pot bearers usually make up the bulk of devotees undertaking the Thaipusam procession. Here, devotees are seen waiting to commence the procession at the Sri Srinivasa Perumal Temple on Serangoon Road, 2015. <i>Photo by T. Kavindran. Courtesy of Hindu Endowments Board.</i></div>
-
 With his *vel*, Murugan destroys Suran by splitting a huge mango tree into two, the mango tree being the form that the shape-shifting Suran had taken. Suran then assumes the form of a peacock and a cockerel, with the former eventually becoming Murugan’s vehicle while the latter is a symbol subsumed in his flag. 
 
 Dating back to the 3rd century CE, the Tirumurugarrupadai, the oldest devotional poem of the Sangam era dedicated to Murugan, lists the *arupadaiveedu* or six abodes of Murugan: Tiruttani, Swamimalai, Tiruchendur, Tiru Avinankudi (widely known as Palani), Pazhamudircholai and Tirupparamkunram. 
@@ -153,6 +150,9 @@ Penitents carry the *kavadi* to fulfil their vow of devotion for protection duri
 The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi* is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^31]  relating to the practice of self-mortification. 
 
 The *paal kudam* or milk pot burden is carried by around tens of thousands of devotees annually in Singapore,[^32] including women and children, offering some opportunity for balance in an otherwise gendered processional space. 
+
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%203.png)
+<div style="background-color: white;"> <i>Paal kudam</i> or milk pot bearers usually make up the bulk of devotees undertaking the Thaipusam procession. Here, devotees are seen waiting to commence the procession at the Sri Srinivasa Perumal Temple on Serangoon Road, 2015. <i>Photo by T. Kavindran. Courtesy of Hindu Endowments Board.</i></div>
 
 The concentration of the devotee on Murugan is the focus of the *kavadi* that involves piercings. The *alavu kavadi* involves the piercing of the tongue or cheek with a *vel* to prevent the devotee from speaking during the walk of faith. The *alagu kavadi*, on the other hand, involves the penetration of the skin of the bearer with needles or spikes, while the *ratha kavadi* involves the devotee pulling a chariot that is attached to their back. 
 
