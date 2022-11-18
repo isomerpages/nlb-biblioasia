@@ -143,6 +143,53 @@ Of the seven 35 mm reels, only the last reel could be salvaged. It took 10 weeks
 
 The eventual digitisation of the last eight minutes, despite the hissing and shaking staticky images, provide a glimpse of how this beloved film could have looked and sounded on the big screen. The loss of this gem highlights the urgency of preserving what we can of our cinematic heritage while it is still possible.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+	<b>THE FILM RESTORATION PROCESS</b><br>
+Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
+	
+![](/images/Vol%2018%20Issue%204/Asian%20Film/ORIGINAL%20WORKFLOW.png)
+<div style="background-color: white;"> Original workflow diagram courtesy of L’Immagine Ritrovata, which has been modified to represent Asian Film Archive’s adopted restoration workflow. </div>
+	
+<b>Film Inspection and Identification</b></br>
+Film identification is the single most important way to date a film material and identify its technical characteristics. Information such as film type/gauge, manufacturing codes, length, and general condition are recorded to help the restorer make informed decisions on actions to be taken and to document any changes in the film’s condition from the time it was acquired to when it is next inspected.
+
+<b>Film Repair</b><br> 
+After inspection, the film element will need to be repaired to ensure it can withstand any mechanical cleaning and digitisation processes. Broken splices/perforations are manually mended and strengthened, and visible residue from tape adhesive removed.
+
+<b>Film Cleaning</b><br>
+Cleaning is essential to remove mould and projection oil from the film before digitisation can take place. Besides manual cleaning, the restorer may also utilise ultrasonic cleaning equipment with high-frequency, high-intensity sound waves in a liquid to facilitate and enhance the removal of foreign contaminants from the material’s surfaces at different speeds. This is all dependent on the condition of the material. The film is then air-blown to dry it completely before it can be scanned.
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h12m30s403.jpg)
+<div style="background-color: white;"> Laboratory staff operating an ultrasonic film cleaner. <i>Courtesy of L’Immagine Ritrovata.</i></div>
+
+<b>Film Scanning</b><br> 
+Film scanning is a process that captures each frame of film with its own digital file. The standard for motion pictures is 24 frames per second and each frame of film would have a corresponding Digital Picture Exchange (DPX) image file. A 90-minute film would have approximately 129,600 of these high-resolution digital scans, which would then be ingested and assembled using the restoration software.
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg)
+<div style="background-color: white;">A 35mm print loaded onto a film scanner <i>Courtesy of L’Immagine Ritrovata.</i></div>
+
+<b>Film Comparison</b><br>
+No two sets of film elements, even from the same title, are the same. This is because the condition of the elements would vary. This is why the film comparison stage is crucial, especially when there is more than one source material known to exist. The aim in comparing different sets of film elements is to be able to select and piece together the definitive version of the film using the best possible image and sound from all available source materials. 
+
+<b>Digital Image Restoration</b><br>
+The most labour-intensive component of film restoration involves using a combination of manual and automated digital tools to de-flicker, de-warp, remove dirt and scratches, stabilise images, as well as reconstruct missing and damaged frames. 
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/Stills_Danga_Anom_01_Bef_Aft.jpg)
+<div style="background-color: white;"> Screenshots from_<i>Dang Anom_. Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+
+<b>Sound Restoration</b><br>
+The audio tracks on a film element are digitised separately using a dedicated sound capturing device. Audio restoration software is used to eliminate or reduce clicks, crackles, and bumps, smoothen excessive noise and balance the overall tone for a better auditory experience. The sound restoration process happens concurrently with the image restoration, and the restored audio will eventually get synchronised with the restored image.
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h15m21s242.jpg)
+<div style="background-color: white;"> Deteriorated frames on print of <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+
+</div>
+
+
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image15.png)
+<div style="background-color: white;"> Deteriorated frames on print of <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">For more on the Asian Film Archive, go to www.asianfilmarchive.org.</div>
 
 <div style="background-color: white;">
