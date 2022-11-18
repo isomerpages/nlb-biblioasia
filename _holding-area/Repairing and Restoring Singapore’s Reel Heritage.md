@@ -198,8 +198,11 @@ Translation and subtitling are vital components of restoration for the contempor
 <b>Film Mastering</b><br>
 With the restored and colour corrected scans, the restorer can generate the output as a variety of digital files and formats suited for purposes such as theatrical screenings, streaming as well as publishing.  
   
-<bDigital Asset Management**  
+<b>Digital Asset Management</b><br> 
 From the restoration, digital files and formats are generated and saved for different purposes. In AFA, hard drives are used to access the restored materials, and Linear Tape-Open (LTO), a form of data cartridge formatted for long term digital storage, is used for preservation.
+
+![](/images/Vol%2018%20Issue%204/Asian%20Film/Drives.jpg)
+<div style="background-color: white;"> Hard drives (left) and a Linear Tape-Open cartridge (right). <i>Courtesy of Asian Film Archive.</i></div>
 
 
 </div>
