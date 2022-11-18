@@ -113,8 +113,7 @@ A 1938 letter from Sockalingam Chettiar of Market Street addressed to the chief 
 
 As can be seen from the above excerpt, in 1938, the Thaipusam procession of *kavadi* bearers would also visit the erstwhile Sri Sivan temple on Orchard Road, a temple closely associated with the Nattukottai Chettiars. The procession over the three days would have a presence across the districts of present-day Chinatown, the Central Business District (including Market Street), Clemenceau, Orchard Road, and even Beach Road. 
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%206.png)
-<div style="background-color: white;"> A child with a <i>thol kavadi</i>, which is carried on the shoulder, 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 In 1932, the Sri Thendayuthapani Temple acquired a new and bigger silver chariot, but it could not be used because it was too tall to fit below the Traction Co.’s trolley bus wires along the way.[^25] The chariot was only used when motor buses replaced trolley buses. 
 
@@ -146,7 +145,8 @@ Penitents carry the *kavadi* to fulfil their vow of devotion for protection duri
 
 The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi* is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^31]  relating to the practice of self-mortification. 
 
-
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%206.png)
+<div style="background-color: white;"> A child with a <i>thol kavadi</i>, which is carried on the shoulder, 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The *paal kudam* or milk pot burden is carried by around tens of thousands of devotees annually in Singapore,[^32] including women and children, offering some opportunity for balance in an otherwise gendered processional space. 
 
