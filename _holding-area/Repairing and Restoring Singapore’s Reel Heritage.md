@@ -146,7 +146,7 @@ The eventual digitisation of the last eight minutes, despite the hissing and sha
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 	<b>THE FILM RESTORATION PROCESS</b><br>
 Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
-<br>
+<br><br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/ORIGINAL%20WORKFLOW.png">
 <div style="background-color: white;"> Original workflow diagram courtesy of L’Immagine Ritrovata, which has been modified to represent Asian Film Archive’s adopted restoration workflow. </div>
@@ -159,14 +159,14 @@ After inspection, the film element will need to be repaired to ensure it can wit
 <br><br>
 <b>Film Cleaning</b><br>
 Cleaning is essential to remove mould and projection oil from the film before digitisation can take place. Besides manual cleaning, the restorer may also utilise ultrasonic cleaning equipment with high-frequency, high-intensity sound waves in a liquid to facilitate and enhance the removal of foreign contaminants from the material’s surfaces at different speeds. This is all dependent on the condition of the material. The film is then air-blown to dry it completely before it can be scanned.
-<br>
+<br><br>
 	<img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h12m30s403.jpg">
 <div style="background-color: white;"> Laboratory staff operating an ultrasonic film cleaner. <i>Courtesy of L’Immagine Ritrovata.</i></div>
 <br>
 <b>Film Scanning</b><br> 
 Film scanning is a process that captures each frame of film with its own digital file. The standard for motion pictures is 24 frames per second and each frame of film would have a corresponding Digital Picture Exchange (DPX) image file. A 90-minute film would have approximately 129,600 of these high-resolution digital scans, which would then be ingested and assembled using the restoration software.
-<br>
+<br><br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg">
 <div style="background-color: white;">A 35mm print loaded onto a film scanner <i>Courtesy of L’Immagine Ritrovata.</i></div>
@@ -176,27 +176,27 @@ No two sets of film elements, even from the same title, are the same. This is be
 <br><br>
 <b>Digital Image Restoration</b><br>
 The most labour-intensive component of film restoration involves using a combination of manual and automated digital tools to de-flicker, de-warp, remove dirt and scratches, stabilise images, as well as reconstruct missing and damaged frames. 
-<br>
+<br><br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/Stills_Danga_Anom_01_Bef_Aft.jpg">
 <div style="background-color: white;"> Screenshots from_<i>Dang Anom_. Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 <br>
 <b>Sound Restoration</b><br>
 The audio tracks on a film element are digitised separately using a dedicated sound capturing device. Audio restoration software is used to eliminate or reduce clicks, crackles, and bumps, smoothen excessive noise and balance the overall tone for a better auditory experience. The sound restoration process happens concurrently with the image restoration, and the restored audio will eventually get synchronised with the restored image.
-<br>
+<br><br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h15m21s242.jpg">
 <div style="background-color: white;">Digitised sound on audio restoration software.<i>Courtesy of L’Immagine Ritrovata.</i></div>
 <br>
 <b>Colour Correction</b><br>
 Colour correction is a process that is necessary to recover the original tone and colour of the film due to colour fade that could also affect the contrast and exposure levels of the image. This is necessary even for black-and-white films since there are gradations of black and white tones.
-<br>
+<br><br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h18m20s758.jpg">
 <div style="background-color: white;">Screen shots from <i>_Dang Anom_ </i>before and after colour correction.<i> Courtesy of Cathay_Keris Films Pte Ltd.</i></div>
 <br>
 <b>Subtitling</b><br>
-Translation and subtitling are vital components of restoration for the contemporary circulation and exhibition of classic films, especially when the film contains any foreign language that might impede the general viewer experience.
+Translation and subtitling are vital components of restoration for the contemporary circulation and exhibition of classic films, especially when the film contains any foreign language that might impede the general viewer experience.<br>
 <br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.jpg">
@@ -204,18 +204,18 @@ src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.j
 <br>
 <b>Film Mastering</b><br>
 With the restored and colour corrected scans, the restorer can generate the output as a variety of digital files and formats suited for purposes such as theatrical screenings, streaming as well as publishing.  
-<br>
+<br><br>
 <b>Digital Asset Management</b><br> 
 From the restoration, digital files and formats are generated and saved for different purposes. In AFA, hard drives are used to access the restored materials, and Linear Tape-Open (LTO), a form of data cartridge formatted for long term digital storage, is used for preservation.
-<br>
+<br><br>
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/Drives.jpg">
 <div style="background-color: white;"> Hard drives (left) and a Linear Tape-Open cartridge (right). <i>Courtesy of Asian Film Archive.</i></div>
 <br>
 <b>Print and Processing</b><br>
-While the variety of digital files and formats generated from the restoration would facilitate and provide access to the film/s through contemporary platforms, it is necessary to consider the continued long-term preservation of the film. Printing the restored work back onto analogue film that include new picture and sound negatives and keeping it in archival storage has proven to be a more stable preservation solution than solely preserving the digital content.<br>
+While the variety of digital files and formats generated from the restoration would facilitate and provide access to the film/s through contemporary platforms, it is necessary to consider the continued long-term preservation of the film. Printing the restored work back onto analogue film that include new picture and sound negatives and keeping it in archival storage has proven to be a more stable preservation solution than solely preserving the digital content.<br><br>
 
-That said, developing new negatives and prints is a costly and intricate process that is not always done, as issues such as the project budget and physical storage space would have to be considered.<br>
+That said, developing new negatives and prints is a costly and intricate process that is not always done, as issues such as the project budget and physical storage space would have to be considered.<br><br>
 
 Heritage institutions, including archives like the Asian Film Archive (AFA), leverage the visibility of restoring significant film titles to advocate for a variety of causes. For the AFA, restorations are the means to raising awareness of the importance of film preservation, and the urgency to care for the original and/or surviving film elements that make the restorations possible. As film restoration is a costly endeavour, the preservation condition, the rarity of the film materials, and the cultural and historical meaning that the restored work would bring to audiences, are curatorial considerations that AFA makes in selecting film/s to be restored.</div>
 
