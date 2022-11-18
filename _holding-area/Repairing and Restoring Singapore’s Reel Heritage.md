@@ -193,7 +193,8 @@ Colour correction is a process that is necessary to recover the original tone an
 Translation and subtitling are vital components of restoration for the contemporary circulation and exhibition of classic films, especially when the film contains any foreign language that might impede the general viewer experience.
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.jpg)
-<div style="background-color: white;">Screenshot from <i>Su n Mahmood Mangkat Dijulang_. _Courtesy_ <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+<div style="background-color: white;">Screenshot from <i>Sultan  Mahmood Mangkat Dijulang. Coutesy of Cathay-Keris Films Pte Ltd.</i></div>
+
 
 
 </div>
