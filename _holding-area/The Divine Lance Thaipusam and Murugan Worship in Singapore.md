@@ -27,7 +27,7 @@ In Singapore, the festival is one of the most distinguishing features of diaspor
 வேந்தன் மேய தீம்புனல் உலகமும்<br>
 வருணன் மேய பெருமணல் உலகமும்<br>
 முல்லை குறிஞ்சி மருதம் நெய்தல் எனச்<br>
-	சொல்லிய முறையான் சொல்லவும் படுமே</font><br><br>
+	சொல்லிய முறையான் சொல்லவும் படுமே<br><br>
 	
 the pastoral region, presided over by Mayon; <br>
 the mountain region, presided over by Ceyon; <br>
@@ -35,6 +35,8 @@ the riverine region, presided over by Ventan; <br>
 the great sandy (coastal) region, presided over by Varunan; <br>
 these, in the order enumerated, are called <em>mullai, kurinci, marutam</em> and <em>neytal.</em>[^3]
  
+
+
 Thaipusam is centred around the worship of Murugan. The boy god Murugan’s identity is a complex mix of several inseparable historical and cultural roots, and a reflection of the inherent complexity of Tamil tradition. Tamil poetry of the Sangam era (a period spanning roughly 3rd century BCE to 3rd century CE) positions Murugan (or Murukan from the word <i>muruku</i> meaning “beautiful”, “fragrant” or “youthful one”) as the god of the hills and hunt,[^4] and the son of Korravai, goddess of war and victory.[^5] 
 
 Murugan was a name originally given to the god of the hilly region Kurinci.[^6] In the *Tolkappiyam*, the oldest extant Tamil grammatical text, he is described as Ceyon or the red one due to the association of the ruddy hills of the region with his skin tone. 
