@@ -107,11 +107,20 @@ Typically, on the day before Thaipusam, a silver chariot procession known as Pun
 
 In the evening, *kavadi* bearers carrying the traditional semi-circular wooden burdens would trail the returning chariot procession conveying the *utsava murti*, or processional image of Murugan, via Market Street. They were all men from the Nattukottai Chettiar community, thus earning the event the name – Chetti Pusam. 
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%208.png)
+<div style="background-color: white;"> The silver chariot bearing the processional image of Murugan, 2015. <i>Courtesy of T. Kavindran.</i></div>
+
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%207(2).png)
+<div style="background-color: white;"> The <i>utsava murti</i> or processional image of Murugan as Thendayuthapani, 2015. This is placed on a silver chariot, which departs from the Sri Thendayuthapani Temple on the eve of Thaipusam for the Sri Layan Sithi Vinayagar Temple. <i>Courtesy of T. Kavindran.</i></div>
+
 A 1938 letter from Sockalingam Chettiar of Market Street addressed to the chief police officer provides an insight into the extent of arrangements made for the festival.[^23] Anticipating a huge crowd of devotees for a period of three days (15 to 17 January), the letter made very specific requests for police personnel, such as asking for Sikh corporals and sergeants, and Tamil police constables. It also identified the three crucial components of the festival:  
 
 “[A] silver car starting not later than 8.30 am from Tank Road Temple… to Keong Saik Road and after a short display of daylight fireworks there till noon, will return to Tank Road Temple starting at about 6 pm via Market Street. … On Sunday, the 16th January, from morning till midnight the devotees will gather round the Tank Road Temple premises… On Monday, the 17th January, a religious procession of *kavadi* will go round the temples at Tank Road and Orchard Road [the Sivan temple located at Dhoby Ghaut then]… the last and the huge procession again starting from Tank Road will proceed to Raffles Reclamation ground, Beach Road, where there will be a grand display of fireworks…”[^24]
 
 As can be seen from the above excerpt, in 1938, the Thaipusam procession of *kavadi* bearers would also visit the erstwhile Sri Sivan temple on Orchard Road, a temple closely associated with the Nattukottai Chettiars. The procession over the three days would have a presence across the districts of present-day Chinatown, the Central Business District (including Market Street), Clemenceau, Orchard Road, and even Beach Road. 
+
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%209.png)
+<div style="background-color: white;"> On the eve of Thaipusam in a procession known as Punar Pusam, members of the Nattukottai Chettiar community carry the wooden <i>kavadi</i> and follow the silver chariot procession. In this photograph they are seen outside the Sri Mariamman Temple on South Bridge Road, 2015. <i>Courtesy of T. Kavindran.</i></div>
 
 
 
@@ -121,8 +130,7 @@ In 2019, Satthappan Chettiar, then 74, recalled his earliest memory of the festi
 
 He said: “The deity would be seated on the silver chariot, drawn by bulls through Market Street. … one person would be stationed on the second floor of one of the *kittangi*, and one more on the second floor of the opposite shophouse, facing the *kittangi*. They would each hold on to one end of a rope; a doll holding out a garland would be suspended from the middle of this rope. The two men would swing the doll back and forth in a dance, and when the chariot appears below the doll, the doll would descend with the garlands, and ‘place’ the garlands on Lord Murugan’s shoulders, to loud cheers.”[^26]
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%207(2).png)
-<div style="background-color: white;"> The <i>utsava murti</i> or processional image of Murugan as Thendayuthapani, 2015. This is placed on a silver chariot, which departs from the Sri Thendayuthapani Temple on the eve of Thaipusam for the Sri Layan Sithi Vinayagar Temple. <i>Courtesy of T. Kavindran.</i></div>
+
 
 #### **Devotion on Display**
 
@@ -133,9 +141,6 @@ From the eve of the festival, devotees arrive progressively at the Sri Srinivasa
 On the day of Thaipusam, they begin their preparation early in the morning. Following cleansing rituals, the *kavadi* are arranged in an altar-like format on the ground, with offerings placed on banana leaves filled with aromatics and offerings. Then comes the penetration of the needles, which is undertaken by devotees in a state of utmost concentration, equated at times to a trance. [^28] 
 
 The *kavadi* bearers depart at dawn on the foot procession, moving to rhythmic chants of *Vel Vel* or *Vel Muruga Vel*, walking at at steady pace until they reach the Sri Thendayuthapani Temple. There, their pace quickens in anticipation of the culmination of their journey of devotion. 
-
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%208.png)
-<div style="background-color: white;"> The silver chariot bearing the processional image of Murugan, 2015. <i>Courtesy of T. Kavindran.</i></div>
 
 The offering of milk or honey, usually incorporated into vessels ensconced within the *kavadi*, are offered as ablutions to Murugan when devotees end their foot procession at the Sri Thendayuthapani Temple. Devotees subsequently hold a ceremony in their homes to honour Murugan and sometimes perform a rite known as Idumban Puja, usually within three days of Thaipusam. Idumban Puja is also known to be performed by some Chinese *kavadi* bearers in Malaysia.[^29] 
 
@@ -159,8 +164,7 @@ The concentration of the devotee on Murugan is the focus of the *kavadi* that in
 
 <div style="background-color: white;"> An <i>alavu kavadi</i> involves the devotee’s tongue and cheek being pierced with a metal <i>vel</i> or lance, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%209.png)
-<div style="background-color: white;"> On the eve of Thaipusam in a procession known as Punar Pusam, members of the Nattukottai Chettiar community carry the wooden <i>kavadi</i> and follow the silver chariot procession. In this photograph they are seen outside the Sri Mariamman Temple on South Bridge Road, 2015. <i>Courtesy of T. Kavindran.</i></div>
+
 
 The *alagu kavadi*, meaning “beautiful *kavadi*”, gets its name because of how it looks and its tendency to attract the most attention during the festival. In 2009, the devotee R. Sharuhasan’s *alagu kavadi* weighed around 35 to 40 kg and had a total height close to two storeys when lifted. The peacock features were each about 90 cm long, and the *kavadi* was designed to evoke those carried by his uncles some 20 years ago. “I didn't aim for it to be the biggest *kavadi* that day, but rather to carry on the family tradition,” he said.[^33]
 
