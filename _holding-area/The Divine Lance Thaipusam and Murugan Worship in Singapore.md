@@ -58,7 +58,7 @@ Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of t
 You swirled your weapon<br> 
 and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree <br><br>[^8]
 
-– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4).[^9]
+– Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4)[^9]
 
 Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
@@ -81,7 +81,7 @@ Idumban ties the two hills to a celestial staff using divine serpents in the pla
 
 Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous <i>kavadi</i> journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan.[^11] The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
 
-It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^12] that the annual foot procession of thousands of *kavadi* bearing devotees in Singapore (and around the world) exemplifies. 
+It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^12] that the annual foot procession of thousands of *kavadi*-bearing devotees in Singapore (and around the world) exemplifies. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%205.png)
 
