@@ -155,7 +155,8 @@ Looking towards the future and the implementation of the new plan is both exciti
 
 
 <div>
-<b>Francisca Cardoza</b> is the senior manager of the Library Development and Corporate Services Division under the Public Libraries Singapore. She has experience in collection development and bibliographic services as well as early outsourcing efforts in the National Library Board (NLB). Her current portfolio comprises the development and corporate support of public library staff.</div>
+<b>Francisca Cardoza</b> is the senior manager of the Library Development and Corporate Services Division under the Public Libraries Singapore. She has experience in collection development and bibliographic services as well as early outsourcing efforts in the National Library Board (NLB). Her current portfolio comprises the development and corporate support of public library staff.
+</div>
 	
 
 #### **REFERENCES**
