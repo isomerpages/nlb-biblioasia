@@ -41,8 +41,6 @@ Thaipusam is centred around the worship of Murugan. The boy god Murugan’s iden
 
 Murugan was a name originally given to the god of the hilly region Kurinci.[^6] In the *Tolkappiyam*, the oldest extant Tamil grammatical text, he is described as Ceyon or the red one due to the association of the ruddy hills of the region with his skin tone. 
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%202.png)
-<div style="background-color: white;"> In the early 20th century, the silver chariot bearing the processional image of Murugan was drawn by cattle, 1920s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 The Murugan of Sangam literature – a considerable corpus of classical devotional and literary works – has a peacock for his mount and wields a lance or <i>vel</i>, after which his priests and the chieftains of the hills, the <i>velan</i> (“bearer of the lance”), were named. 
 
@@ -102,6 +100,10 @@ While this temple on Tank Road is dedicated to Thendayuthapani, inspired by the 
 Within a year of the temple’s establishment, the festival of Thaipusam began to be observed in Singapore. A three-day celebration complete with a silver chariot procession and spectacular fireworks,[^19] the festival was a public holiday from 1879 until 1914, when members of the community led by N. Veerasamy petitioned to have the more widely observed Deepavali declared a day off instead.[^20] Despite the cessation of the holiday, some banks would still be closed, mail delivery unavailable and cinema shows at the YMCA cancelled in lieu of the processional celebration.[^21]
 
 In the late 19th century, the festival would commence with the Chettiars issuing a general invitation to all residents to attend the festival of Thaipusam held at their temple on Tank Road.[^22] 
+
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%202%20(Updated).png)
+<div style="background-color: white;"> In the early 20th century, the silver chariot bearing the processional image of Murugan was drawn by cattle, 1920s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 
 Typically, on the day before Thaipusam, a silver chariot procession known as Punar Pusam (named after the star in ascendance on the day) would be undertaken in the morning from the Sri Thendayuthapani on Tank Road to the Layan (Sepoy Lines) Sithi Vinayagar Temple (also maintained by the Chettiars) on Serangoon Road. The chariot or ter was drawn by cattle up to the 1970s. The cattle was then replaced by a motorised vehicle. 
 
