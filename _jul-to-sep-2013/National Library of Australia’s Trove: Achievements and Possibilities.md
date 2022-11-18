@@ -129,7 +129,7 @@ This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Dire
 
 [^3]: The Australian government released an important white paper, Australia in the Asian century, in 2012. The white paper and information on associated program activities is available at: http:// asiancentury.Dpmc.Gov.Au/ 
 
- [^4]The podcast is available at: http://www.Sbs.Com. Au/podcasts/naca/radionews/episode/220565/ national-library-digitises-non-english-newspapers 
+ [^4]: The podcast is available at: http://www.Sbs.Com. Au/podcasts/naca/radionews/episode/220565/ national-library-digitises-non-english-newspapers 
 
 [^5]: More information on the state library of new south wales’ program is available at: http://www.Sl.Nsw. Gov.Au/about/projects/digital\_excellence/index. html 
 
@@ -152,8 +152,3 @@ This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Dire
 [^14]: Their recent conference paper, ‘crowdsourcing motivations in a not-for-profit glam context: the australian newspapers digitisation program’ is available at: http://dro. Deakin.Edu.Au/eserv/du:30049107/alamcrowdsourcingmotivations-2012.Pdf (and discoverable via trove at http://trove.Nla.Gov.Au/ version/188319518). 
 
 [^15]: Presented at the ‘inspired by trove’ seminar at the national library of australia on 28 february 2013. http://www.Projectsisu.Com/2013/03/do-youtrove/.
-
-
-
-
-
