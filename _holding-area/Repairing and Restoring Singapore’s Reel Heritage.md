@@ -204,15 +204,12 @@ From the restoration, digital files and formats are generated and saved for diff
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/Drives.jpg)
 <div style="background-color: white;"> Hard drives (left) and a Linear Tape-Open cartridge (right). <i>Courtesy of Asian Film Archive.</i></div>
 
+<b>Print and Processing</b><br>
+While the variety of digital files and formats generated from the restoration would facilitate and provide access to the film/s through contemporary platforms, it is necessary to consider the continued long-term preservation of the film. Printing the restored work back onto analogue film that include new picture and sound negatives and keeping it in archival storage has proven to be a more stable preservation solution than solely preserving the digital content.  
 
+That said, developing new negatives and prints is a costly and intricate process that is not always done, as issues such as the project budget and physical storage space would have to be considered.
 
-
-</div>
-
-
-
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image15.png)
-<div style="background-color: white;"> Deteriorated frames on print of <i>Permata Di-Perlimbahan. Courtesy of L’Immagine Ritrovata.</i></div>
+Heritage institutions, including archives like the Asian Film Archive (AFA), leverage the visibility of restoring significant film titles to advocate for a variety of causes. For the AFA, restorations are the means to raising awareness of the importance of film preservation, and the urgency to care for the original and/or surviving film elements that make the restorations possible. As film restoration is a costly endeavour, the preservation condition, the rarity of the film materials, and the cultural and historical meaning that the restored work would bring to audiences, are curatorial considerations that AFA makes in selecting film/s to be restored.</div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">For more on the Asian Film Archive, go to www.asianfilmarchive.org.</div>
 
