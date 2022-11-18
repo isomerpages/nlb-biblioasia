@@ -2,7 +2,6 @@ collections:
   jul-to-sep-2013:
     output: true
     order:
-      - "Singapore Public Libraries: Past, Present and Future.md"
       - Director's Column.md
       - Libraries for Life.md
       - "LIBRARIES: A Force to Transform Societies.md"
@@ -15,3 +14,4 @@ collections:
         Possibilities.md"
       - "Improving the Services of the LSC: Overview of the Work of the LSC in
         2012.md"
+      - "Singapore Public Libraries: Past, Present and Future.md"
