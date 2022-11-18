@@ -27,6 +27,11 @@ Trove use is growing very rapidly. By April 2013, Trove had an average of more t
 
 Trove is used around the nation, with the use in each Australian state and territory closely matching the size of their populations. Trove has a truly national reach. Australians in regional, rural and remote areas are particularly appreciative of their new access to national documentary heritage, as this comment from a regional resident shows: “Using the e-resources through NLA \[Trove\] is very useful when you live in a rural area and have to travel miles to access resources.” Indigenous elders in remote Western Australian communities are delighted to find images, newspaper articles and other resources about their communities in Trove, and in some cases are using these resources to share their stories with their young people. Australian indigenous culture is the longest continuously surviving culture in the world, and the NLA is proud to make it just that bit easier for indigenous people to connect with their culture and their history.
 
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/TroveOnline.jpg">
+<div style="background-color: white;">
+Trove is the National Library of Australia’s most popular online service.	</i></div>
+
 Trove is also a service used around the world, with more than 40 percent of usage by residents from other countries. While UK and US visitors dominate, Trove does receive visits from many Asian countries. Recent Indonesian visitors to NLA were astonished to find the wealth of Indonesian resources available through Trove, the result of the NLA’s very strong Asian collections, and Trove’s work in acquiring digital resources from major research aggregators.2  The NLA sees Trove as a vital way of making Australian culture more visible to Asia, supporting the Australian Government’s aims to improve cultural understanding between Australia and the Asian region.3
 
 Trove’s content base is also growing rapidly. In May 2010, Trove provided access to 100 million items. In May 2011, the number of information resources in Trove almost doubled, to more than 200 million items, when access was provided to many millions of journal articles contained in electronic databases to which Australian libraries subscribe. Built with the support of Australian State and Territory libraries and with the cooperation of the vendors Gale and Informit, any visitor to Trove can find an article in one of these databases, view a list of Australian libraries subscribing to the database and, if the visitor is a member of one of these libraries, access and read the article immediately online.
@@ -42,6 +47,11 @@ Over the last year, newspapers from New South Wales, Queensland, South Australia
 The State Library of New South Wales will fund the digitisation of more than four million new pages of rural and regional newspapers—many of which were last published years ago—over the next three years as part of its Digital Excellence strategy.5 The titles of the newspapers to be digitised give a tantalising glimpse into the diversity of Australian newspapers and the audiences they served. They include *The Cumberland Argus and Fruitgrowers Advocate, The Hebrew Standard of Australasia, The International Socialist, the Irrigation Record, the Miners Advocate and Northumberland Recorder* among many others. While the State Library’s project is a very large one, smaller local groups—including the Wagga Wagga District Historical Society and the Gilgandra Shire Council — have also raised sufficient funds to digitise, process and deliver their local historical newspapers through Trove. The NLA itself is raising funds to digitise post-1954 issues of *The Canberra Times* after gaining the permission of the publisher to digitise beyond the 1954 copyright date.
 
 
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/State%20Library%20NSW1.jpg">
+<div style="background-color: white;">
+The State Library of New South Wales. The library will help to fund the digitisation of numerous rural and regional newspapers. <i>Image by Rupert Ganzer, via Flickr.</i></div>
+
+
 #### **A Community Effort**
 
 Trove newspapers are extremely popular with the Australian public, with more than three-quarters of all Trove searches beginning in the newspapers zone. But newspaper users do not just read or use this content—they actively contribute to improving its quality. Optical character recognition is never 100 percent accurate on scans of old and sometimes not particularly legible microfilmed newspapers. Recognising this, the NLA opened up the newspaper transcripts to correction by any member of the public. The enthusiasm with which members of the public have taken up text correction of Australian newspapers is remarkable, with 94 million lines of text corrected since mid2008. The NLA has celebrated this national volunteer effort but has only recently estimated its financial value. The NLA calculates that the 250 work years of assistance equates to AUD$15.5 million in value. This is a huge community contribution to a public good — one the NLA could not have achieved without “opening the archive” to the correctors.
@@ -49,6 +59,11 @@ Trove newspapers are extremely popular with the Australian public, with more tha
 Trove users do not only contribute by correcting text. They have contributed more than 170,000 images of Australian life to the “Trove: Australia in Pictures” Flickr pool, which is then harvested into Trove so that this community-created content is viewed alongside the resources of collecting institutions. Trove users have added more than two million tags and more than 55,000 comments to Trove resources. They have created more than 35,000 lists on topics as varied as the visits of the Ballets Russes dance company to Australia and 1930s debates around the importation of margarine to Australia.
 
 While many of these volunteers are individual correctors, taggers and listers working alone in their homes or offices on topics and at times that suit them, Trove users are increasingly self-organising. They communicate with each other via the Trove Forum, providing tips and tricks, responding to requests for help, and commiserating with each other on the rare occasions when Trove goes offline. A recent outage prompted a regular user to post this note of relief: “Trove, the love of my life, where were you yesterday? I arrived at your house and found a small note on the door saying ‘temporary technical problem’. Please, Trove, do not go out, wait for me faithfully, be my best friend forever.”
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/Trove%20correctors1.jpg">
+<div style="background-color: white;">
+Top Trove correctors (left to right) Maurie Mulcahy, Lyn Mulcahy, Ann Manley, Fay Walker, John Hall and Julie Hempenstall all received an Australia Day medal in 2010 for their work on Trove. <i>Courtesy of Samuel Cooper, National Library of Australia.</i></div>	
+	
 
 This excerpt from an email is representative of the community pride and engagement in Trove and volunteer hours invested in correcting text: “We began a Treasure Trover group late last year at the Rockhampton Regional Council Library. Now that our local Rockhampton newspapers are on the Trove website we meet weekly... Our big sky intention is to be the first newspaper on the Trove site that’s as near 100 percent corrected as possible... I’ve been surprised how invested and how much ownership the group has taken of our paper—we are meeting even in the middle of the flood crisis!”
 
@@ -103,6 +118,3 @@ Developing Trove has been a five-year adventure for the NLA. It is now a mature 
 <div>
 This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Director-General, Resource Sharing; <b>Debbie Campbell</b>, Director, Collaborative Services; and <b>Anne-Marie Schwirtlich</b>, Director-General of the National Library of Australia in Canberra. With colleagues across the Library they support the National Library’s goal to make as much of its collection as possible available online in collaboration with other Australian cultural heritage agencies. Trove is an embodiment of that goal.
 </div>
-
-
-
