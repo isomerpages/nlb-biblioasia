@@ -104,7 +104,7 @@ In the late 19th century, the festival would commence with the Chettiars issuing
 
 
 
-Typically, on the day before Thaipusam, a silver chariot procession known as Punar Pusam (named after the star in ascendance on the day) would be undertaken in the morning from the Sri Thendayuthapani on Tank Road to the Layan (Sepoy Lines) Sithi Vinayagar Temple (also maintained by the Chettiars) on Serangoon Road. The chariot or ter was drawn by cattle up to the 1970s. The cattle was then replaced by a motorised vehicle. 
+Typically, on the day before Thaipusam, a silver chariot procession known as Punar Pusam (named after the star in ascendance on the day) would be undertaken in the morning from the Sri Thendayuthapani on Tank Road to the Layan (Sepoy Lines) Sithi Vinayagar Temple (also maintained by the Chettiars) on Serangoon Road. The chariot or *ter* was drawn by cattle up to the 1970s. The cattle was then replaced by a motorised vehicle. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%202%20(Updated).png)
 <div style="background-color: white;"> In the early 20th century, the silver chariot bearing the processional image of Murugan was drawn by cattle, 1920s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
