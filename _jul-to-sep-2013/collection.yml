@@ -2,8 +2,6 @@ collections:
   jul-to-sep-2013:
     output: true
     order:
-      - "Improving the Services of the LSC: Overview of the Work of the LSC in
-        2012.md"
       - Director's Column.md
       - Libraries for Life.md
       - "LIBRARIES: A Force to Transform Societies.md"
@@ -14,3 +12,5 @@ collections:
       - "Tomorrow’s Libraries: Embracing Change to Create the Future.md"
       - "National Library of Australia’s Trove: Achievements and
         Possibilities.md"
+      - "Improving the Services of the LSC: Overview of the Work of the LSC in
+        2012.md"
