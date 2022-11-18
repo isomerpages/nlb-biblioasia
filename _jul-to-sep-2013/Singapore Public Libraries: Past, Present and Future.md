@@ -50,7 +50,7 @@ The goal of promoting a love for reading among Singaporeans has always been a pa
 Current and planned efforts to encourage reading in children differs from our past efforts in that current strategies utilise a more integrated approach to equip educators and support parents in the development of early literacy. Thematic activity toolkits allow educators to use storybooks and audiovisuals to ignite interest in reading. There are advocacy packages for parents to engage children through fun activities that include talking, singing, playing, reading and writing. Low-income parents, in particular, can receive ready resources to use with their children.
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/first%20children%20green%20library9.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/first%20children%20green%20library9.jpg">
 <div style="background-color: white;">
 The world's first children's green library opened its doors in May 2013 in Singapore’s Central Public Library. <i>National Library Board of Singapore.</i></div>
 	
