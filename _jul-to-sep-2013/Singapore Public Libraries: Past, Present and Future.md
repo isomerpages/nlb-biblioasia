@@ -8,6 +8,12 @@ description: From programmes and initiatives targeted at children, to courses
 ---
 #### From programmes and initiatives targeted at children, to courses and senior-friendly print material for the elderly, and even mobile bus services for those with special needs, the public libraries of Singapore have been tirelessly serving and engaging the residents of the nation.
 
+
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/Bishan%20Public%20Library1.jpg">
+<div style="background-color: white;">Bishan Public Library, Singapore.  <i>Patrick Bingham-Hall, courtesy of LOOK Architects.</i></div>
+
+
 The public libraries in Singapore can trace their roots to 1823 when the foundation stone of the library of Singapore’s first English school, the Raffles Institution, was laid. This library later became part of the Raffles Museum, and eventually moved into premises on Stamford Road in 1960 after becoming the National Library. Singapore’s public libraries thus began as part of the National Library group of libraries and each branch was seen as an extension of the National Library in Stamford Road.
 
 The National Library Board (NLB) was formed on 1 September 1995, and today oversees the National Library, Public Libraries and the National Archives.
@@ -29,6 +35,12 @@ The libraries in Singapore have always been considering how to redefine and desi
 
 Another example is the the Bamboo Garden at the Central Public Library. It was designed to maximise the use of library spaces, allowing visitors access to the sculptures in the garden as well as nlb’s heritage—5,000 bricks from the former National Library at Stamford Road’s facade are located there.
 
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/Bamboo%20Garden2.jpg">
+<div style="background-color: white;">
+Bamboo Garden at the Central Public Library.
+</div>
+
 Much excitement surrounds “My Tree House”, which is the world's first green library for children housed at the Central Public Library. This environmental library features a green collection, green programmes and a green design.
 
 #### **Readers for Life**
@@ -36,6 +48,12 @@ Much excitement surrounds “My Tree House”, which is the world's first green 
 The goal of promoting a love for reading among Singaporeans has always been a part of the Public Library’s culture and mission. This goal is now one of NLB’s key initiatives of Reading, Learning and Info-Literacy. Under this umbrella, programmes tailored to specific needs of the different customer groups are in place and being developed to support early literacy and youth and senior services. To achieve this and other goals, collaboration with partners and with community volunteers has become a pillar for the accomplishments of the public libraries.
 
 Current and planned efforts to encourage reading in children differs from our past efforts in that current strategies utilise a more integrated approach to equip educators and support parents in the development of early literacy. Thematic activity toolkits allow educators to use storybooks and audiovisuals to ignite interest in reading. There are advocacy packages for parents to engage children through fun activities that include talking, singing, playing, reading and writing. Low-income parents, in particular, can receive ready resources to use with their children.
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/first%20children%20green%20library.jpg">
+<div style="background-color: white;">
+The world's first children's green library opened its doors in May 2013 in Singapore’s Central Public Library. <i>National Library Board of Singapore.</i></div>
+	
 
 In addition, the public libraries are in the process of setting up an early literacy library (at the Jurong Regional Library) for children below six and their parents. This will be a space where parents can learn about early literacy practices that will help the development of pre-reading skills in their children. To this end, the public libraries are partnering like-minded organisations to provide programmes as well as resources and services.
 
@@ -50,9 +68,16 @@ To this end, the Silver Infocomm Junction was set up at the Woodlands Regional L
 
 Read.Write.Tell is a national reading and storytelling movement under the Arts & Culture Strategic Review (ACSR) and this encompasses reading clubs in schools, the community and organisations as well as writing communities and programmes. The goal is to cultivate a love for reading and provide opportunities to write and tell stories about Singapore. Older reading clubs focused on reading and sharing, thus this new movement makes writing a deliverable for the 25 Read.Write.Tell communities.
 
-NLB launched its first ever nation-wide reading initiative, read! Singapore, in 2005. This initiative, adapted from highly successful reading programmes around the world, encourages communal reading, followed by facilitated discussions on the selected stories. READ! Singapore’s target audience was initially Singapore residents aged above 15 years old. In 2012 it expanded to include younger audiences aged 7 to 14 and introduced an enhanced MobileRead, a free application that allows access to selected content and enables reading while on the move.
+NLB launched its first ever nation-wide reading initiative, READ! Singapore, in 2005. This initiative, adapted from highly successful reading programmes around the world, encourages communal reading, followed by facilitated discussions on the selected stories. READ! Singapore’s target audience was initially Singapore residents aged above 15 years old. In 2012 it expanded to include younger audiences aged 7 to 14 and introduced an enhanced MobileRead, a free application that allows access to selected content and enables reading while on the move.
 
 kidsREAD is a national project that, together with the People’s Association and community self-help groups, promotes the love of reading and good reading habits to children from low-income families, aged 4 to 8. Volunteers aged 15 and above form the backbone of kidsREAD. They read to children in Reading Clubs that are located at centres, kindergartens, homes and welfare organisations, as well as primary schools. In 2012, it was proposed that children would remain in the kidsREAD programme until they completed Primary 2, instead of graduating them after a year in the programme.
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/kidsREAD%20programme1.jpg">
+<div style="background-color: white;">
+Children at the kidsREAD programme.
+</div>
+	
 
 
 #### **Creating Next Generation Libraries**
@@ -75,6 +100,13 @@ A mobile library service was launched in 1960 with two mobile libraries known co
 
 In 2008, Molly (a mobile library in a custom-designed bus) was introduced, providing wireless mobile library services and targeted specifically at the underserved. Molly-Reloaded was launched in 2012 to further extend the reach of the libraries and to serve a wider community. New features of the updated Molly include eight iPads for access to eResources, an internal bookdrop and upgraded borrowing stations for visitors to borrow items from the 3,000- item strong collection. Molly visits usually include storytelling, puppetry and other activities. Plans for the future include a mini Mobile Library to go where Molly is unable to go, as some schools and venues are unable to accommodate a full-sized bus. Special education schools are one of Molly’s key targets, but visits are also made to orphanages, schools and homes.
 
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/Molly%20the%20Mobile%20Bus1.jpg">
+<div style="background-color: white;">
+Excitement when Molly the Mobile Bus comes to visit.
+</div>
+
+
 *Public Libraries as Social Touchpoints* 
 
 All public libraries are being positioned as social touchpoints for the community to interact with or have the opportunity to collaborate on arts and culture, either in terms of creation or appreciation.
@@ -87,6 +119,7 @@ Public libraries everywhere are being challenged to engage the digital generatio
 
 One of the earliest efforts was a blog to commemorate the relocation of library@ orchard in 2007. There is also a library blog featuring music, dance, theatre and film that has been curated by library@esplanade, the performing arts library.
 
+
 Blogs such as High Browse Online recommends good reads and provides updates on books and reading. Read & Reap is a blog with excerpts from literary texts to inspire readers to move beyond reading to provoke questions and conversation. This blog complements the posters and toolkits that have been made available to parents and educators. The ASK blog (Actively Seeking Knowledge with Public Libraries Singapore) showcases interesting queries received via the ASK! Service (an Advisory & Enquiry Service) at the public libraries..
 
 All the individual libraries have their own Facebook accounts, and there is also a Public Library SG Twitter account and a Public Library SG Instagram account, all launched in 2012.
@@ -94,6 +127,11 @@ All the individual libraries have their own Facebook accounts, and there is also
 READ! Singapore has its own website and Facebook page to highlight the nation-wide reading initiative. Volunteers have their own Friends of the Library portal through where they can pick and choose their volunteer opportunities, and they, too, have a Facebook page.
 
 The public libraries also made available from 2012 a free loan service for iPads, Kindles and Tumble Books Playaways at the Bedok Public Library and iPads at the Bukit Merah Public Library to enrich readers’ reading experiences and expose them to a range of new reading platforms.
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/ChildreniPads.jpg">
+<div style="background-color: white;">
+Children using the iPads available aboard Molly.
+</div>
 
 #### **“The only thing that is constant is change.” — Heraclitus**
 
@@ -107,12 +145,15 @@ The second strategy is to re-make libraries to inspire in new ways. This is the 
 
 The future library space will be one that incorporates reading, building and creation as integral parts of the learning process, where collaboration and peer-topeer sharing are encouraged. The library aims to bring together people of diverse interests and backgrounds to build vibrant and creative communities. At the same time, inspiration, reflection and contemplation are equally important in the creative process. Just as there is a need to accommodate different forms of learning, and different groups of users, so should library spaces be malleable, reflecting a balance between quiet, intimate spaces on the one hand, and vibrant, creative, casual and social spaces on the other.[^3]
 
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/speciallydesigned%20cocoon1.jpg">
+<div style="background-color: white;">
+Library users sitting in a prototype of a specially-designed cocoon for library@orchard.
+</div>
+
 Looking towards the future and the implementation of the new plan is both exciting and challenging for the public libraries; change is constant and we look forward to the various programmes that will be carried out with enthusiasm. 
 
 
 <div>
 <b>Francisca Cardoza</b> is the senior manager of the Library Development and Corporate Services Division under the Public Libraries Singapore. She has experience in collection development and bibliographic services as well as early outsourcing efforts in the National Library Board (NLB). Her current portfolio comprises the development and corporate support of public library staff.
 </div>
-
-
-
