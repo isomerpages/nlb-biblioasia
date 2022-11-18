@@ -153,10 +153,10 @@ src="/images/Vol%2018%20Issue%204/Asian%20Film/ORIGINAL%20WORKFLOW.png">
 <br>
 <b>Film Inspection and Identification</b><br>
 Film identification is the single most important way to date a film material and identify its technical characteristics. Information such as film type/gauge, manufacturing codes, length, and general condition are recorded to help the restorer make informed decisions on actions to be taken and to document any changes in the film’s condition from the time it was acquired to when it is next inspected.
-<br>
+<br><br>
 <b>Film Repair</b><br> 
 After inspection, the film element will need to be repaired to ensure it can withstand any mechanical cleaning and digitisation processes. Broken splices/perforations are manually mended and strengthened, and visible residue from tape adhesive removed.
-<br>
+<br><br>
 <b>Film Cleaning</b><br>
 Cleaning is essential to remove mould and projection oil from the film before digitisation can take place. Besides manual cleaning, the restorer may also utilise ultrasonic cleaning equipment with high-frequency, high-intensity sound waves in a liquid to facilitate and enhance the removal of foreign contaminants from the material’s surfaces at different speeds. This is all dependent on the condition of the material. The film is then air-blown to dry it completely before it can be scanned.
 
