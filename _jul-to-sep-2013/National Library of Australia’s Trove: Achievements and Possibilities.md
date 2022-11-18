@@ -10,7 +10,7 @@ description: Canberra’s National Library of Australia’s free online discover
 
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/NewsPaperStack.jpg">
+<img style="width: 70%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/NewsPaperStack.jpg">
 <div style="background-color: white;">
 The newspaper stacks held at Canberra’s National Library of Australia. <i>Courtesy of National Library of Australia.</i></div>
 	
@@ -28,7 +28,7 @@ Trove use is growing very rapidly. By April 2013, Trove had an average of more t
 Trove is used around the nation, with the use in each Australian state and territory closely matching the size of their populations. Trove has a truly national reach. Australians in regional, rural and remote areas are particularly appreciative of their new access to national documentary heritage, as this comment from a regional resident shows: “Using the e-resources through NLA \[Trove\] is very useful when you live in a rural area and have to travel miles to access resources.” Indigenous elders in remote Western Australian communities are delighted to find images, newspaper articles and other resources about their communities in Trove, and in some cases are using these resources to share their stories with their young people. Australian indigenous culture is the longest continuously surviving culture in the world, and the NLA is proud to make it just that bit easier for indigenous people to connect with their culture and their history.
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/TroveOnline.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/TroveOnline.jpg">
 <div style="background-color: white;">
 Trove is the National Library of Australia’s most popular online service.	</i></div>
 
@@ -47,7 +47,7 @@ Over the last year, newspapers from New South Wales, Queensland, South Australia
 The State Library of New South Wales will fund the digitisation of more than four million new pages of rural and regional newspapers—many of which were last published years ago—over the next three years as part of its Digital Excellence strategy.[^5] The titles of the newspapers to be digitised give a tantalising glimpse into the diversity of Australian newspapers and the audiences they served. They include *The Cumberland Argus and Fruitgrowers Advocate, The Hebrew Standard of Australasia, The International Socialist, the Irrigation Record, the Miners Advocate and Northumberland Recorder* among many others. While the State Library’s project is a very large one, smaller local groups—including the Wagga Wagga District Historical Society and the Gilgandra Shire Council — have also raised sufficient funds to digitise, process and deliver their local historical newspapers through Trove. The NLA itself is raising funds to digitise post-1954 issues of *The Canberra Times* after gaining the permission of the publisher to digitise beyond the 1954 copyright date.
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/State%20Library%20NSW1.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/State%20Library%20NSW1.jpg">
 <div style="background-color: white;">
 The State Library of New South Wales. The library will help to fund the digitisation of numerous rural and regional newspapers. <i>Image by Rupert Ganzer, via Flickr.</i></div>
 
@@ -60,7 +60,7 @@ Trove users do not only contribute by correcting text. They have contributed mor
 
 While many of these volunteers are individual correctors, taggers and listers working alone in their homes or offices on topics and at times that suit them, Trove users are increasingly self-organising. They communicate with each other via the Trove Forum, providing tips and tricks, responding to requests for help, and commiserating with each other on the rare occasions when Trove goes offline. A recent outage prompted a regular user to post this note of relief: “Trove, the love of my life, where were you yesterday? I arrived at your house and found a small note on the door saying ‘temporary technical problem’. Please, Trove, do not go out, wait for me faithfully, be my best friend forever.”
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/Trove%20correctors1.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Australia’s%20Trove/Trove%20correctors1.jpg">
 <div style="background-color: white;">
 Top Trove correctors (left to right) Maurie Mulcahy, Lyn Mulcahy, Ann Manley, Fay Walker, John Hall and Julie Hempenstall all received an Australia Day medal in 2010 for their work on Trove. <i>Courtesy of Samuel Cooper, National Library of Australia.</i></div>	
 	
@@ -99,7 +99,7 @@ This digital resource—along with the many contextual books, images, conference
 
 Creative endeavour of many kinds is also supported by Trove. When Felix Williamson, who plays cocaine and two-up king Phil Jeffs in the series *Underbelly*, was preparing for the role, he noted that he “read every newspaper article he could find on Jeffs in the National Library of Australia’s online research service, Trove”.[^10]
 
-Trove has also won recognition from peers. It won the 2011 Excellence in eGovernment award, and in 2012 won the Australian and New Zealand Internet Award for Innovation.[11] The judges of this competition commented that Trove “provides a fun, slick, dynamic discovery experience for the user. The initiative is a terrific resource for professional and amateur social researchers... It is unique as it allows users interactive ownership of the resources as it is the only site that allows the general public access to correct the electronically translated text of the digitised newspapers as well as add comments, tags, lists and merge and split works.”
+Trove has also won recognition from peers. It won the 2011 Excellence in eGovernment award, and in 2012 won the Australian and New Zealand Internet Award for Innovation.[^11] The judges of this competition commented that Trove “provides a fun, slick, dynamic discovery experience for the user. The initiative is a terrific resource for professional and amateur social researchers... It is unique as it allows users interactive ownership of the resources as it is the only site that allows the general public access to correct the electronically translated text of the digitised newspapers as well as add comments, tags, lists and merge and split works.”
 
 #### **What’s in Store?**
 
