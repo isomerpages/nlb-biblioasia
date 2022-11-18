@@ -144,7 +144,7 @@ Of the seven 35 mm reels, only the last reel could be salvaged. It took 10 weeks
 The eventual digitisation of the last eight minutes, despite the hissing and shaking staticky images, provide a glimpse of how this beloved film could have looked and sounded on the big screen. The loss of this gem highlights the urgency of preserving what we can of our cinematic heritage while it is still possible.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-	<b>THE FILM RESTORATION PROCESS</b><br>
+	<b>THE FILM RESTORATION PROCESS</b><br><br>
 Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
 <br><br>
 <img
