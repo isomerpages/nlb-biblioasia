@@ -173,14 +173,15 @@ Tan, J., & Taha, L. (2013). Icons of learning: The Redesign of the Modern Librar
 	
 
 #### **NOTES**
-	
+
 [^1]: Library 2000 Review Committee. (1994). [_Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571). Singapore: SNP Publishers. (Call no.: RSING q027.05957 SIN)
 
 [^2]: Tan, J., & Taha, L. (2013). Icons of learning: The Redesign of the Modern Library. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 9_ (1), 24–29. Retrieved from BiblioAsia website.
 
 [^3]: Lim, J. (2013, April). *Future public libraries: A lifestyle approach to reading and learning*. 
 	
+
+		
 	
-	
-	
+
 </div>
