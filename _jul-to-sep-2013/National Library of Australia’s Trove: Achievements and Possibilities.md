@@ -119,3 +119,41 @@ Developing Trove has been a five-year adventure for the NLA. It is now a mature 
 <div>
 This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Director-General, Resource Sharing; <b>Debbie Campbell</b>, Director, Collaborative Services; and <b>Anne-Marie Schwirtlich</b>, Director-General of the National Library of Australia in Canberra. With colleagues across the Library they support the National Library’s goal to make as much of its collection as possible available online in collaboration with other Australian cultural heritage agencies. Trove is an embodiment of that goal.
 </div>
+
+#### **NOTES**
+
+
+[^1]: Further information about trove’s aims and content are available at http://trove.Nla.Gov.Au/general/ more-about-trove/ 
+
+[^2]:  Viva news, 216 maret 2013, http://us.Dunia. News.Viva.Co.Id/news/read/397898-begini-caraaustralia-koleksi-referensi-tentang-in 
+
+[^3]: The Australian government released an important white paper, Australia in the Asian century, in 2012. The white paper and information on associated program activities is available at: http:// asiancentury.Dpmc.Gov.Au/ 
+
+ [^4]The podcast is available at: http://www.Sbs.Com. Au/podcasts/naca/radionews/episode/220565/ national-library-digitises-non-english-newspapers 
+
+[^5]: More information on the state library of new south wales’ program is available at: http://www.Sl.Nsw. Gov.Au/about/projects/digital\_excellence/index. html 
+
+[^6]: The group communicates via twitter: https://twitter. Com/search?Q=%23trovetuesday&src=hash. 
+
+[^7]: A compendium of participating bloggers is available at: http://branchesleavespollen.Blogspot.Com. Au/p/trove-tuesday.Html 
+
+[^8]: Further information on this project, led by the university of melbourne is available at: http:// climatehistory.Com.Au/ 
+
+[^9]: Information on the api, how to access it, and terms of use are available at: http://trove.Nla.Gov.Au/ general/api 
+
+[^10]: Information about this event, and links to products developed by past winners is available at: http:// www.Govhack.Org/ 
+
+[^11]: Underbelly (http://en.Wikipedia.Org/wiki/ underbelly\_%28tv\_series%29) was an australian television phenomenon, winning both popular and critical acclaim. Williamson was quoted in the west australian on 11 september 2011. 
+
+[^12]: The full citation is available at: http://www. Internetawards.Org.Au/index.Php/winners 
+
+[^13]: Paul hagon’s slides are available at: http:// www.Information-online.Com.Au/pdf/tuesday\_ concurrent\_2\_1125\_hagon.Pdf 
+
+[^14]: Their recent conference paper, ‘crowdsourcing motivations in a not-for-profit glam context: the australian newspapers digitisation program’ is available at: http://dro. Deakin.Edu.Au/eserv/du:30049107/alamcrowdsourcingmotivations-2012.Pdf (and discoverable via trove at http://trove.Nla.Gov.Au/ version/188319518). 
+
+[^15]: Presented at the ‘inspired by trove’ seminar at the national library of australia on 28 february 2013. http://www.Projectsisu.Com/2013/03/do-youtrove/.
+
+
+
+
+
