@@ -138,7 +138,7 @@ In the early years, the *kavadi* foot procession would begin from any of the Hin
 
 From the eve of the festival, devotees arrive progressively at the Sri Srinivasa Perumal Temple, finding a suitable spot to aid their preparations for carrying the *kavadi*, either independently or in groups.
 
-On the day of Thaipusam, they begin their preparation early in the morning. Following cleansing rituals, the *kavadi* are arranged in an altar-like format on the ground, with offerings placed on banana leaves filled with aromatics and offerings. Then comes the penetration of the needles, which is undertaken by devotees in a state of utmost concentration, equated at times to a trance. [^28] 
+On the day of Thaipusam, they begin their preparation early in the morning. Following cleansing rituals, the *kavadi* are arranged in an altar-like format on the ground, with offerings placed on banana leaves filled with aromatics and offerings. Then comes the penetration of the needles, which is undertaken by devotees in a state of utmost concentration, equated at times to a trance.[^28] 
 
 The *kavadi* bearers depart at dawn on the foot procession, moving to rhythmic chants of *Vel Vel* or *Vel Muruga Vel*, walking at at steady pace until they reach the Sri Thendayuthapani Temple. There, their pace quickens in anticipation of the culmination of their journey of devotion. 
 
@@ -168,6 +168,9 @@ The concentration of the devotee on Murugan is the focus of the *kavadi* that in
 
 The *alagu kavadi*, meaning “beautiful *kavadi*”, gets its name because of how it looks and its tendency to attract the most attention during the festival. In 2009, the devotee R. Sharuhasan’s *alagu kavadi* weighed around 35 to 40 kg and had a total height close to two storeys when lifted. The peacock features were each about 90 cm long, and the *kavadi* was designed to evoke those carried by his uncles some 20 years ago. “I didn't aim for it to be the biggest *kavadi* that day, but rather to carry on the family tradition,” he said.[^33]
 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2011.png)
+<div style="background-color: white;"> An <i>alagu kavadi</i> bearer with his tongue and cheek pierced with a <i>vel</i>, 1985–99. Behind him is a female devotee with a milk pot on her head. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
+
 S. Kalleychelbon, who has been carrying the *kavadi* after being hospitalised with a knee injury, was reported in the *Straits Times* in 1990 as saying that he would typically fast for 48 days before carrying the chariot *kavadi*, which was modelled after the silver chariot of Murugan at Palani.[^34] 
 
 In 2016, Prethev Raj carried the *arigandam kavadi* in which four stainless steel rods pierced his waist to hold the *kavadi* sans belt.[^35] Veeraraghaya Naidu carried a similar *kavadi* in 1990, but in addition, he walked with clogs embedded with nails, mimicking Idumban’s arduous foot journey to Palani.[^36] 
@@ -180,8 +183,7 @@ It is also customary for the *kavadi* bearer to be accompanied by family and fri
 
 An early version of “Kavadi Sindu” composed and sung in Singapore is the “Singainagar Singara Vadivelar *kavadi* Sindu”, written by R.M.R. Ramanathan in 1907. It is dedicated to the deity at Sri Thendayuthapani Temple addressed as “Thendayutha, Kadamba”, asking him to protect the *kavadi* bearers.[^40]
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2010.png)
-<div style="background-color: white;"> A Chinese <i>kavadi</i> bearer arriving at the Sri Thendayuthapani Temple, the culmination point of the Thaipusam foot procession, 2014. <i>Chettiars’ Temple Society Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 The ban and seizure of musical instruments used during Thaipusam began in 1973. In 2017, for the first time in over 40 years, the government allowed live music during the street procession but stipulated that people could only play specific instruments like the *nadhaswaram* (a wind instrument), a barrel-shaped drum called the *tavil* and the *urumi melam* (Indian drum).[^41] Music is important to the devotee. “With the beat and the singing, I bounced while walking and the bounce of the *kavadi* took the weight off me,” longtime *kavadi* bearer Subash Gunaseelan told the *Straits Times* in 2019. “In the past, without any music, the journey felt very long and we had to rush. Now, the music makes carrying the *kavadi* enjoyable as well.”[^42] 
 
@@ -191,12 +193,12 @@ Interestingly, the regulation of musical instruments during Thaipusam has a long
 
 In 1860, when Thaipusam was first celebrated in Singapore, South Africa saw the emergence of Murugan worship. The observance of a 10-day *kavadi* festival included the hallmark carrying of the traditional wooden *kavadi*.[^44] In Mauritius, the carrying of the *kavadi* involving piercing is also undertaken, not unlike in Singapore and Malaysia.[^45] 
 
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2011.png)
-<div style="background-color: white;"> An <i>alagu kavadi</i> bearer with his tongue and cheek pierced with a <i>vel</i>, 1985–99. Behind him is a female devotee with a milk pot on her head. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
-
 It is not uncommon to see those of diverse faiths and ethnicities undertaking the pilgrimage. As early as 1966, the *Straits Times* carried an interview with Lim Ewe Chia, a Chinese *kavadi* bearer from Penang who said that he vowed to carry the *kavadi* if his family was cured of asthma. Apparently, none of his family members suffered any attack that year. “I consider this a miracle,” he said.[^46] 
 
 The idea of not confining devotion to one transcendental deity has spurred some Chinese Buddhists and Taoists to participate in Thaipusam. Some of them even enter a trance. This is more common in Malaysia, notably in Penang, than it is in Singapore. 
+
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2010.png)
+<div style="background-color: white;"> A Chinese <i>kavadi</i> bearer arriving at the Sri Thendayuthapani Temple, the culmination point of the Thaipusam foot procession, 2014. <i>Chettiars’ Temple Society Collection, courtesy of National Archives of Singapore.</i></div>
 
 It is also not unusual to see worshippers from Singapore attend the festivals in Penang or Batu Caves. The latter is Malaysia’s foremost pilgrimage site of Murugan worship and receives up to 400,000 visitors annually during the chariot procession.[^47] Thaipusam has been observed at the caves since 1892, and here the festival and its environment bear the closest resemblance to the observance at the Palani hill temple in Tamil Nadu. 
 
