@@ -27,7 +27,7 @@ In Singapore, the festival is one of the most distinguishing features of diaspor
 வேந்தன் மேய தீம்புனல் உலகமும்<br>
 வருணன் மேய பெருமணல் உலகமும்<br>
 முல்லை குறிஞ்சி மருதம் நெய்தல் எனச்<br>
-	சொல்லிய முறையான் சொல்லவும் படுமே<br><br>
+	சொல்லிய முறையான் சொல்லவும் படுமே<br>
 	
 the pastoral region, presided over by Mayon; <br>
 the mountain region, presided over by Ceyon; <br>
