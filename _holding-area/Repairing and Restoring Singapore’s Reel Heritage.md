@@ -153,10 +153,10 @@ src="/images/Vol%2018%20Issue%204/Asian%20Film/ORIGINAL%20WORKFLOW.png">
 <br>
 <b>Film Inspection and Identification</b><br>
 Film identification is the single most important way to date a film material and identify its technical characteristics. Information such as film type/gauge, manufacturing codes, length, and general condition are recorded to help the restorer make informed decisions on actions to be taken and to document any changes in the film’s condition from the time it was acquired to when it is next inspected.
-
+<br>
 <b>Film Repair</b><br> 
 After inspection, the film element will need to be repaired to ensure it can withstand any mechanical cleaning and digitisation processes. Broken splices/perforations are manually mended and strengthened, and visible residue from tape adhesive removed.
-
+<br>
 <b>Film Cleaning</b><br>
 Cleaning is essential to remove mould and projection oil from the film before digitisation can take place. Besides manual cleaning, the restorer may also utilise ultrasonic cleaning equipment with high-frequency, high-intensity sound waves in a liquid to facilitate and enhance the removal of foreign contaminants from the material’s surfaces at different speeds. This is all dependent on the condition of the material. The film is then air-blown to dry it completely before it can be scanned.
 
@@ -170,7 +170,7 @@ Film scanning is a process that captures each frame of film with its own digital
 <img
 src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg">
 <div style="background-color: white;">A 35mm print loaded onto a film scanner <i>Courtesy of L’Immagine Ritrovata.</i></div>
-
+<br>
 <b>Film Comparison</b><br>
 No two sets of film elements, even from the same title, are the same. This is because the condition of the elements would vary. This is why the film comparison stage is crucial, especially when there is more than one source material known to exist. The aim in comparing different sets of film elements is to be able to select and piece together the definitive version of the film using the best possible image and sound from all available source materials. 
 
@@ -204,7 +204,7 @@ src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.j
 <br>
 <b>Film Mastering</b><br>
 With the restored and colour corrected scans, the restorer can generate the output as a variety of digital files and formats suited for purposes such as theatrical screenings, streaming as well as publishing.  
-  
+<br>
 <b>Digital Asset Management</b><br> 
 From the restoration, digital files and formats are generated and saved for different purposes. In AFA, hard drives are used to access the restored materials, and Linear Tape-Open (LTO), a form of data cartridge formatted for long term digital storage, is used for preservation.
 
