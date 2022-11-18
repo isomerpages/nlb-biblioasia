@@ -97,10 +97,12 @@ The NLA has engaged a market research company to evaluate Trove customer satisfa
 
 This will be the first time the NLA will have an overall view of the Trove user base. We know how many users we have; how often they return; which zones they prefer to use; the length of each visit; what they do on the Trove site; and where they come from in terms of countries and Australian states and territories. Recent research by the NLA’s Paul Hagon yielded interesting results on patterns of text correction,12 while research by University of Canberra’s Sultana Lubna Alam and John Campbell focused on the motivations of those engaging in Trove text correction.13 With every new piece of research —whether conducted by NLA staff, commissioned by the NLA, or initiated independently—on Trove as a social phenomenon rather than as content source, we understand a little more about our huge user base. One measure of our success is, as Annie Talvé noted in a recent paper,14 that “to Trove” is now being used as a verb!
 
-Developing Trove has been a five-year adventure for the NLA. It is now a mature service—with all the expectations that it brings — which is deeply embedded in Australia’s research infrastructure, and serves an astonishing variety of researchers and fields of enquiry. The nla is committed to Trove as the primary mechanism for discovery of Australian documentary heritage, and looks forward to continuing “to Trove” for many years to come. 
+Developing Trove has been a five-year adventure for the NLA. It is now a mature service—with all the expectations that it brings — which is deeply embedded in Australia’s research infrastructure, and serves an astonishing variety of researchers and fields of enquiry. The nla is committed to Trove as the primary mechanism for discovery of Australian documentary heritage, and looks forward to continuing “to Trove” for many years to come.
 
 
-
+<div>
+This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Director-General, Resource Sharing; <b>Debbie Campbell</b>, Director, Collaborative Services; and <b>Anne-Marie Schwirtlich</b>, Director-General of the National Library of Australia in Canberra. With colleagues across the Library they support the National Library’s goal to make as much of its collection as possible available online in collaboration with other Australian cultural heritage agencies. Trove is an embodiment of that goal.
+</div>
 
 
 
