@@ -9,14 +9,50 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
-      button: Before there was Sentosa, <br> there was Sarong Island
+      url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+      button: Early Days of Family Planning<br>in singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
-      title: Sarong Island
+      background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
+  - infopic:
+      title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
+      subtitle: Worship
+      description: The local Taoist pantheon includes goddesses only found in
+        Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
+      button: Taoist Folk Goddesses of Singapore
+      url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
+      image: /images/Vol 18 Issue 4/Maiden Lim/image4.png
+      alt: Zhen Long Gong
+  - infopic:
+      title: The Origin Stories of Keramat Kusu
+      subtitle: Places
+      description: Pilgrimages to the keramat on Kusu Island have been going on since
+        the mid-19th century.
+      button: More on Keramat Kusu
+      url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
+      image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
+      alt: Kusu
+  - infopic:
+      title: "“Book City” in Two Streets: Postwar Chinese Bookstore Scene "
+      subtitle: Places
+      description: Some Chinese bookstores in Singapore have managed to survive
+        despite the challenges of the digital age and the decline in Chinese
+        readers.
+      button: “Book City” in Two Streets
+      url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/
+      image: /images/Vol 18 Issue 4/Chinese Bookstore/BookstoreFacingPage2a.jpg
+      alt: North Bridge Road
+  - infopic:
+      title: 两条书街，两座书城：战后新加坡华文书店景观
+      subtitle: Places
+      description: 面对数码时代和读者流失的挑战，新加坡的华文书店逆流生存。
+      button: 两条书街，两座书城
+      url: /vol-18/issue-4/jan-mar-2023/postwar-Chinese-bookstores-Chinese-Text/
+      image: /images/Vol 18 Issue 4/Chinese Bookstores_Chinese/View of North Bridge
+        Road.jpg
+      alt: 大小坡两条书街
   - infopic:
       title: A Voice for the Wild
       subtitle: Nature
@@ -129,6 +165,15 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore
       image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 2.png
       alt: communist violence singapore
+  - infopic:
+      title: Johor at the 1893 Chicago World’s Fair
+      subtitle: Places
+      description: The story of how Johor ended up at the Chicago World’s Fair is an
+        unexpected twist in Malaya’s colonial past.
+      button: Johor on the world stage
+      url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
+      image: /images/Vol 18 Issue 3/Johor 1893/johore-bg_edit copy.jpg
+      alt: Johor 1893 Chicago World Fair
   - infopic:
       title: Key Milestones in the History of Cathay Cinema
       subtitle: places and buildings
@@ -256,13 +301,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
-  - infopic:
-      title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
-      subtitle: Places
-      description: The old Kandang Kerbau Hospital was once known as the busiest
-        maternity hospital in the world.
-      button: More on the KK hospital
-      url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
-      image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
-      alt: Kandang Kerbau Hospital
 ---
