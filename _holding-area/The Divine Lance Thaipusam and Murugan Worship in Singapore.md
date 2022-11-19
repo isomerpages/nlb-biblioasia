@@ -56,7 +56,7 @@ Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of t
 You swirled your weapon<br> 
 and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree[^8]
 
-<div style="text-align: right"> – Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4)</div><sup>9</sup>
+<p style="text-align: right"> – Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4)</p><sup>9</sup>
 
 Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
