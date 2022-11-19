@@ -293,12 +293,12 @@ sections:
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
   - infopic:
-      title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
+      title: Johor at the 1893 Chicago World’s Fair
       subtitle: Places
-      description: The old Kandang Kerbau Hospital was once known as the busiest
-        maternity hospital in the world.
-      button: More on the KK hospital
-      url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
-      image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
-      alt: Kandang Kerbau Hospital
+      description: The story of how Johor ended up at the Chicago World’s Fair is an
+        unexpected twist in Malaya’s colonial past.
+      button: Johor on the world stage
+      url: /vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair
+      image: /images/Vol 18 Issue 3/Johor 1893/johore-bg_edit copy.jpg
+      alt: Johor 1893 Chicago World Fair
 ---
