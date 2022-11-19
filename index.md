@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
-      button: Before there was Sentosa, <br> there was Sarong Island
+      url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
+      button: Early Days of Family Planning
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Sarong Island/sarong hero.jpg
-      title: Sarong Island
+      background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
       title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
       subtitle: Worship
