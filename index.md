@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
-      button: Early Days of Family Planning
+      button: Early Days of Family Planning<br>in singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
