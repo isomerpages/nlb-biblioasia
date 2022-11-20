@@ -41,6 +41,8 @@ Subaraj recalled that his first paid job was in 1988 when he was asked to conduc
 
 Subaraj underwent the Singapore Tourism Board’s six-month tourist guide course and subsequently became the first nature licensed tour guide in Singapore in 1990. He then created and customised all kinds of tours, from general nature walks to hikes, boat rides and bike rides.[^12] He had designed and conducted more than 50 tours around Singapore.[^13]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/oCGQXebCcPI" frameborder='0' allowfullscreen></iframe></div>
+
 Subaraj reckoned that he had taken thousands of people on nature walks to share his knowledge and hopefully win some sympathisers, advocates or activists to the conservation cause. “The more information we share, the better chance we have of saving nature through others having a better understanding and respect for it,” he said.[^14]
 
 
