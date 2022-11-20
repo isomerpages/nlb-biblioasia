@@ -101,9 +101,6 @@ Within a year of the temple’s establishment, the festival of Thaipusam began t
 
 In the late 19th century, the festival would commence with the Chettiars issuing a general invitation to all residents to attend the festival of Thaipusam held at their temple on Tank Road.[^22] 
 
-
-
-
 Typically, on the day before Thaipusam, a silver chariot procession known as Punar Pusam (named after the star in ascendance on the day) would be undertaken in the morning from the Sri Thendayuthapani on Tank Road to the Layan (Sepoy Lines) Sithi Vinayagar Temple (also maintained by the Chettiars) on Serangoon Road. The chariot or *ter* was drawn by cattle up to the 1970s. The cattle was then replaced by a motorised vehicle. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%202%20(v2).png)
@@ -139,6 +136,9 @@ He said: “The deity would be seated on the silver chariot, drawn by bulls thro
 #### **Devotion on Display**
 
 In the early years, the *kavadi* foot procession would begin from any of the Hindu temples across Singapore. Eventually, however, the starting point came to be the Sri Srinivasa Perumal Temple on Serangoon Road for the purpose of convenience. The foot procession would then depart from that temple to Tank Road, spanning a route approximately 3 to 4 km. Tourism brochures would promote this annual and public Hindu observance.[^27] 
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/b4HUc7-8PTM" frameborder='0' allowfullscreen></iframe></div>
+
 
 From the eve of the festival, devotees arrive progressively at the Sri Srinivasa Perumal Temple, finding a suitable spot to aid their preparations for carrying the *kavadi*, either independently or in groups.
 
