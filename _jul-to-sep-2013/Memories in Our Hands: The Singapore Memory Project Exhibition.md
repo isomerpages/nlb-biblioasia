@@ -49,6 +49,8 @@ This year, aside from collecting, preserving and presenting memories on its digi
  <br><br>	
 “<i>And then we had difficulties because the rural area; there was a lot of development and the postman on bicycles could not go, so we introduced motorcycles to deliver the mail. But earlier on, there were problems of postmen delivery. They used to be chased by dogs. “The postman had a wonderful job. The motto was ‘The mail must go on – rain or shine</i>’”.
 	<br><br>
+	
+<div>
 Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
 </div>
 
@@ -87,8 +89,9 @@ I switched from an operator to a supervisor. It was not an easy time for there w
 		<br><br>
 Our kampong people looked after our kampong people. It was only the outside kampong people that made mischief. The Malays and Chinese in \[our\] kampong were looking after each other. The people from other kampongs \[snuck\] in and hit people... But it was not neighbour against neighbour. In Telecoms, you had people from all sorts of life and so all these stories were told. Our cleaner was hacked</i>.”
 			<br><br>
+<div>
 Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
-
+</div>
 
 
 <div>
