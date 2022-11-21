@@ -5,7 +5,6 @@ description: "Thaipusam speaks of a migratory community that carries its
   deep-rooted cultural tradition wherever its people go. "
 image: /images/Vol 18 Issue 4/Thaipusam/Image 1.png
 ---
-
 #### Thaipusam speaks of a migratory community that carries its deep-rooted cultural tradition wherever its people go. 
 By Nalina Gopal
 
@@ -59,7 +58,7 @@ and destroyed Sur[an], personified fear, who had taken the form of a moving mang
 
 <div style="text-align: right"> – Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4)</div>
 
-Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
+Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^9] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
 With his *vel*, Murugan destroys Suran by splitting a huge mango tree into two, the mango tree being the form that the shape-shifting Suran had taken. Suran then assumes the form of a peacock and a cockerel, with the former eventually becoming Murugan’s vehicle while the latter is a symbol subsumed in his flag. 
 
@@ -78,29 +77,29 @@ In the myth, Idumban’s teacher, Saivite seer Agastya, enlists Idumban’s help
 
 Idumban ties the two hills to a celestial staff using divine serpents in the place of ropes, and carries the two hills on the staff that acts like a shoulder pole, a prototype for a *kavadi*. Enroute, tired by his burdened journey, he lays the hills down for a rest but finds he is unable to lift them when ready to depart. He sees a boy-ascetic, who is in fact Murugan, atop one of the hills and confronts him without realising his divine identity. 
 
-Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous <i>kavadi</i> journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan.[^11] The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
+Murugan destroys Idumban but eventually revives and installs him as the door guardian for his abode. Murugan cites Idumban’s arduous <i>kavadi</i> journey as a method for his worshippers to propitiate him. This myth has become the quintessential format for a unique ritual worship of Murugan.[^10] The Idumban *kavadi* or the shoulder pole is a fundamental *kavadi* type still carried by devotees today. 
 
-It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^12] that the annual foot procession of thousands of *kavadi*-bearing devotees in Singapore (and around the world) exemplifies. 
+It is this surrender of a burden (of arrogance and ignorance) to Murugan, emulating the example of the primeval devotee, Idumban,[^11] that the annual foot procession of thousands of *kavadi*-bearing devotees in Singapore (and around the world) exemplifies. 
 
 
 #### **The Red One in the Red Dot**
 
 சிங்கை காக்கும் குக முருகா
 
-Guhan, Muruga, the guardian of Singapore[^13] 
+Guhan, Muruga, the guardian of Singapore[^12] 
 
 <p align="right">– A line from hymn 88 in the <em>Singai Nagar Antati</em></p>
 	
 	
-The celebration of Thaipusam in Singapore can be traced to the Nattukottai Chettiars, who became an influential diaspora of private financiers in Southeast Asia in the 19th century.[^14] They adopted Murugan as their patron deity in their diasporic homes and as a partner in their business ventures, and their settlement pattern typically involved the construction of Murugan temples. When boarding a ship, the pioneering migrants carried the vel of Murugan, transferring their burden of worry for safe passage to the deity with the words “Murugan *tunai*” (“Murugan protects us”).[^15]
+The celebration of Thaipusam in Singapore can be traced to the Nattukottai Chettiars, who became an influential diaspora of private financiers in Southeast Asia in the 19th century.[^13] They adopted Murugan as their patron deity in their diasporic homes and as a partner in their business ventures, and their settlement pattern typically involved the construction of Murugan temples. When boarding a ship, the pioneering migrants carried the vel of Murugan, transferring their burden of worry for safe passage to the deity with the words “Murugan *tunai*” (“Murugan protects us”).[^14]
 
-In 1858, Nattukottai Chettiars installed the *vel* of Murugan beneath a pipal tree, beside a water tank, at the foot of a hill at the junction of Tank Road and Clemenceau Avenue.[^16] (According to collective memory, the *vel* was worshipped for around 30 years before the establishment of their temple.[^17]) By 1859, the Sri Thendayuthapani Temple was built nearby on land obtained from Thomas Oxley, with its design and layout based on the Murugan temple in Penang, an architectural template that would be adopted across the region by the merchant bankers.[^18] 
+In 1858, Nattukottai Chettiars installed the *vel* of Murugan beneath a pipal tree, beside a water tank, at the foot of a hill at the junction of Tank Road and Clemenceau Avenue.[^15] (According to collective memory, the *vel* was worshipped for around 30 years before the establishment of their temple.[^16]) By 1859, the Sri Thendayuthapani Temple was built nearby on land obtained from Thomas Oxley, with its design and layout based on the Murugan temple in Penang, an architectural template that would be adopted across the region by the merchant bankers.[^17] 
 
 While this temple on Tank Road is dedicated to Thendayuthapani, inspired by the Palani god, the *vel* is accorded primary space during temple rituals even today. The austerity of the god and his lone, self-disciplined stance was an exemplar to a migrant community of single men who had left home and family in search of opportunity in a foreign land. 
 
-Within a year of the temple’s establishment, the festival of Thaipusam began to be observed in Singapore. A three-day celebration complete with a silver chariot procession and spectacular fireworks,[^19] the festival was a public holiday from 1879 until 1914, when members of the community led by N. Veerasamy petitioned to have the more widely observed Deepavali declared a day off instead.[^20] Despite the cessation of the holiday, some banks would still be closed, mail delivery unavailable and cinema shows at the YMCA cancelled in lieu of the processional celebration.[^21]
+Within a year of the temple’s establishment, the festival of Thaipusam began to be observed in Singapore. A three-day celebration complete with a silver chariot procession and spectacular fireworks,[^18] the festival was a public holiday from 1879 until 1914, when members of the community led by N. Veerasamy petitioned to have the more widely observed Deepavali declared a day off instead.[^19] Despite the cessation of the holiday, some banks would still be closed, mail delivery unavailable and cinema shows at the YMCA cancelled in lieu of the processional celebration.[^20]
 
-In the late 19th century, the festival would commence with the Chettiars issuing a general invitation to all residents to attend the festival of Thaipusam held at their temple on Tank Road.[^22] 
+In the late 19th century, the festival would commence with the Chettiars issuing a general invitation to all residents to attend the festival of Thaipusam held at their temple on Tank Road.[^21] 
 
 Typically, on the day before Thaipusam, a silver chariot procession known as Punar Pusam (named after the star in ascendance on the day) would be undertaken in the morning from the Sri Thendayuthapani on Tank Road to the Layan (Sepoy Lines) Sithi Vinayagar Temple (also maintained by the Chettiars) on Serangoon Road. The chariot or *ter* was drawn by cattle up to the 1970s. The cattle was then replaced by a motorised vehicle. 
 
@@ -115,9 +114,9 @@ In the evening, *kavadi* bearers carrying the traditional semi-circular wooden b
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%207(2).png)
 <div style="background-color: white;"> The <i>utsava murti</i> or processional image of Murugan as Thendayuthapani, 2015. This is placed on a silver chariot, which departs from the Sri Thendayuthapani Temple on the eve of Thaipusam for the Sri Layan Sithi Vinayagar Temple. <i>Courtesy of T. Kavindran.</i></div>
 
-A 1938 letter from Sockalingam Chettiar of Market Street addressed to the chief police officer provides an insight into the extent of arrangements made for the festival.[^23] Anticipating a huge crowd of devotees for a period of three days (15 to 17 January), the letter made very specific requests for police personnel, such as asking for Sikh corporals and sergeants, and Tamil police constables. It also identified the three crucial components of the festival:  
+A 1938 letter from Sockalingam Chettiar of Market Street addressed to the chief police officer provides an insight into the extent of arrangements made for the festival.[^22] Anticipating a huge crowd of devotees for a period of three days (15 to 17 January), the letter made very specific requests for police personnel, such as asking for Sikh corporals and sergeants, and Tamil police constables. It also identified the three crucial components of the festival:  
 
-“[A] silver car starting not later than 8.30 am from Tank Road Temple… to Keong Saik Road and after a short display of daylight fireworks there till noon, will return to Tank Road Temple starting at about 6 pm via Market Street. … On Sunday, the 16th January, from morning till midnight the devotees will gather round the Tank Road Temple premises… On Monday, the 17th January, a religious procession of *kavadi* will go round the temples at Tank Road and Orchard Road [the Sivan temple located at Dhoby Ghaut then]… the last and the huge procession again starting from Tank Road will proceed to Raffles Reclamation ground, Beach Road, where there will be a grand display of fireworks…”[^24]
+“[A] silver car starting not later than 8.30 am from Tank Road Temple… to Keong Saik Road and after a short display of daylight fireworks there till noon, will return to Tank Road Temple starting at about 6 pm via Market Street. … On Sunday, the 16th January, from morning till midnight the devotees will gather round the Tank Road Temple premises… On Monday, the 17th January, a religious procession of *kavadi* will go round the temples at Tank Road and Orchard Road [the Sivan temple located at Dhoby Ghaut then]… the last and the huge procession again starting from Tank Road will proceed to Raffles Reclamation ground, Beach Road, where there will be a grand display of fireworks…”[^23]
 
 As can be seen from the above excerpt, in 1938, the Thaipusam procession of *kavadi* bearers would also visit the erstwhile Sri Sivan temple on Orchard Road, a temple closely associated with the Nattukottai Chettiars. The procession over the three days would have a presence across the districts of present-day Chinatown, the Central Business District (including Market Street), Clemenceau, Orchard Road, and even Beach Road. 
 
@@ -125,40 +124,39 @@ As can be seen from the above excerpt, in 1938, the Thaipusam procession of *kav
 <div style="background-color: white;"> On the eve of Thaipusam in a procession known as Punar Pusam, members of the Nattukottai Chettiar community carry the wooden <i>kavadi</i> and follow the silver chariot procession. In this photograph they are seen outside the Sri Mariamman Temple on South Bridge Road, 2015. <i>Courtesy of T. Kavindran.</i></div>
 
 
-
-In 1932, the Sri Thendayuthapani Temple acquired a new and bigger silver chariot, but it could not be used because it was too tall to fit below the Traction Co.’s trolley bus wires along the way.[^25] The chariot was only used when motor buses replaced trolley buses. 
+In 1932, the Sri Thendayuthapani Temple acquired a new and bigger silver chariot, but it could not be used because it was too tall to fit below the Traction Co.’s trolley bus wires along the way.[^24] The chariot was only used when motor buses replaced trolley buses. 
 
 In 2019, Satthappan Chettiar, then 74, recalled his earliest memory of the festival. Dolls were manoeuvered above Market Street by men stationed in the upper storey of *kittangi* (warehouse and place of work of the Chettiar merchant bankers) on either side of the street, such that as the silver chariot went past, the dolls would descend with garlands to honour Murugan.
 
-He said: “The deity would be seated on the silver chariot, drawn by bulls through Market Street. … one person would be stationed on the second floor of one of the *kittangi*, and one more on the second floor of the opposite shophouse, facing the *kittangi*. They would each hold on to one end of a rope; a doll holding out a garland would be suspended from the middle of this rope. The two men would swing the doll back and forth in a dance, and when the chariot appears below the doll, the doll would descend with the garlands, and ‘place’ the garlands on Lord Murugan’s shoulders, to loud cheers.”[^26]
+He said: “The deity would be seated on the silver chariot, drawn by bulls through Market Street. … one person would be stationed on the second floor of one of the *kittangi*, and one more on the second floor of the opposite shophouse, facing the *kittangi*. They would each hold on to one end of a rope; a doll holding out a garland would be suspended from the middle of this rope. The two men would swing the doll back and forth in a dance, and when the chariot appears below the doll, the doll would descend with the garlands, and ‘place’ the garlands on Lord Murugan’s shoulders, to loud cheers.”[^25]
 
 
 
 #### **Devotion on Display**
 
-In the early years, the *kavadi* foot procession would begin from any of the Hindu temples across Singapore. Eventually, however, the starting point came to be the Sri Srinivasa Perumal Temple on Serangoon Road for the purpose of convenience. The foot procession would then depart from that temple to Tank Road, spanning a route approximately 3 to 4 km. Tourism brochures would promote this annual and public Hindu observance.[^27] 
+In the early years, the *kavadi* foot procession would begin from any of the Hindu temples across Singapore. Eventually, however, the starting point came to be the Sri Srinivasa Perumal Temple on Serangoon Road for the purpose of convenience. The foot procession would then depart from that temple to Tank Road, spanning a route approximately 3 to 4 km. Tourism brochures would promote this annual and public Hindu observance.[^26] 
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/b4HUc7-8PTM" frameborder='0' allowfullscreen></iframe></div>
 
 
 From the eve of the festival, devotees arrive progressively at the Sri Srinivasa Perumal Temple, finding a suitable spot to aid their preparations for carrying the *kavadi*, either independently or in groups.
 
-On the day of Thaipusam, they begin their preparation early in the morning. Following cleansing rituals, the *kavadi* are arranged in an altar-like format on the ground, with offerings placed on banana leaves filled with aromatics and offerings. Then comes the penetration of the needles, which is undertaken by devotees in a state of utmost concentration, equated at times to a trance.[^28] 
+On the day of Thaipusam, they begin their preparation early in the morning. Following cleansing rituals, the *kavadi* are arranged in an altar-like format on the ground, with offerings placed on banana leaves filled with aromatics and offerings. Then comes the penetration of the needles, which is undertaken by devotees in a state of utmost concentration, equated at times to a trance.[^27] 
 
 The *kavadi* bearers depart at dawn on the foot procession, moving to rhythmic chants of *Vel Vel* or *Vel Muruga Vel*, walking at at steady pace until they reach the Sri Thendayuthapani Temple. There, their pace quickens in anticipation of the culmination of their journey of devotion. 
 
-The offering of milk or honey, usually incorporated into vessels ensconced within the *kavadi*, are offered as ablutions to Murugan when devotees end their foot procession at the Sri Thendayuthapani Temple. Devotees subsequently hold a ceremony in their homes to honour Murugan and sometimes perform a rite known as Idumban Puja, usually within three days of Thaipusam. Idumban Puja is also known to be performed by some Chinese *kavadi* bearers in Malaysia.[^29] 
+The offering of milk or honey, usually incorporated into vessels ensconced within the *kavadi*, are offered as ablutions to Murugan when devotees end their foot procession at the Sri Thendayuthapani Temple. Devotees subsequently hold a ceremony in their homes to honour Murugan and sometimes perform a rite known as Idumban Puja, usually within three days of Thaipusam. Idumban Puja is also known to be performed by some Chinese *kavadi* bearers in Malaysia.[^28] 
 
 #### **Worship, Ritual and Aesthetics** 
 
-Penitents carry the *kavadi* to fulfil their vow of devotion for protection during a time of great tribulation. While the *kavadi* is strongly associated with Thaipusam, it is not exclusive to the festival. The firewalking festival of Theemithi, dedicated to the mother goddess as well as Panguni Uttiram, a festival celebrating Murugan’s celestial wedding, have also seen devotees engaging in a worship ritual involving the *kavadi*.[^30]  
+Penitents carry the *kavadi* to fulfil their vow of devotion for protection during a time of great tribulation. While the *kavadi* is strongly associated with Thaipusam, it is not exclusive to the festival. The firewalking festival of Theemithi, dedicated to the mother goddess as well as Panguni Uttiram, a festival celebrating Murugan’s celestial wedding, have also seen devotees engaging in a worship ritual involving the *kavadi*.[^29]  
 
-The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi* is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^31]  relating to the practice of self-mortification. 
+The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi* is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^30]  relating to the practice of self-mortification. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%206.png)
 <div style="background-color: white;"> A child with a <i>thol kavadi</i>, which is carried on the shoulder, 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-The *paal kudam* or milk pot burden is carried by around tens of thousands of devotees annually in Singapore,[^32] including women and children, offering some opportunity for balance in an otherwise gendered processional space. 
+The *paal kudam* or milk pot burden is carried by around tens of thousands of devotees annually in Singapore,[^31] including women and children, offering some opportunity for balance in an otherwise gendered processional space. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%203.png)
 <div style="background-color: white;"> <i>Paal kudam</i> or milk pot bearers usually make up the bulk of devotees undertaking the Thaipusam procession. Here, devotees are seen waiting to commence the procession at the Sri Srinivasa Perumal Temple on Serangoon Road, 2015. <i>Photo by T. Kavindran. Courtesy of Hindu Endowments Board.</i></div>
@@ -171,41 +169,41 @@ The concentration of the devotee on Murugan is the focus of the *kavadi* that in
 
 
 
-The *alagu kavadi*, meaning “beautiful *kavadi*”, gets its name because of how it looks and its tendency to attract the most attention during the festival. In 2009, the devotee R. Sharuhasan’s *alagu kavadi* weighed around 35 to 40 kg and had a total height close to two storeys when lifted. The peacock features were each about 90 cm long, and the *kavadi* was designed to evoke those carried by his uncles some 20 years ago. “I didn't aim for it to be the biggest *kavadi* that day, but rather to carry on the family tradition,” he said.[^33]
+The *alagu kavadi*, meaning “beautiful *kavadi*”, gets its name because of how it looks and its tendency to attract the most attention during the festival. In 2009, the devotee R. Sharuhasan’s *alagu kavadi* weighed around 35 to 40 kg and had a total height close to two storeys when lifted. The peacock features were each about 90 cm long, and the *kavadi* was designed to evoke those carried by his uncles some 20 years ago. “I didn't aim for it to be the biggest *kavadi* that day, but rather to carry on the family tradition,” he said.[^32]
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2011.png)
 <div style="background-color: white;"> An <i>alagu kavadi</i> bearer with his tongue and cheek pierced with a <i>vel</i>, 1985–99. Behind him is a female devotee with a milk pot on her head. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore.</i></div>
 
-S. Kalleychelbon, who has been carrying the *kavadi* after being hospitalised with a knee injury, was reported in the *Straits Times* in 1990 as saying that he would typically fast for 48 days before carrying the chariot *kavadi*, which was modelled after the silver chariot of Murugan at Palani.[^34] 
+S. Kalleychelbon, who has been carrying the *kavadi* after being hospitalised with a knee injury, was reported in the *Straits Times* in 1990 as saying that he would typically fast for 48 days before carrying the chariot *kavadi*, which was modelled after the silver chariot of Murugan at Palani.[^33] 
 
-In 2016, Prethev Raj carried the *arigandam kavadi* in which four stainless steel rods pierced his waist to hold the *kavadi* sans belt.[^35] Veeraraghaya Naidu carried a similar *kavadi* in 1990, but in addition, he walked with clogs embedded with nails, mimicking Idumban’s arduous foot journey to Palani.[^36] 
+In 2016, Prethev Raj carried the *arigandam kavadi* in which four stainless steel rods pierced his waist to hold the *kavadi* sans belt.[^34] Veeraraghaya Naidu carried a similar *kavadi* in 1990, but in addition, he walked with clogs embedded with nails, mimicking Idumban’s arduous foot journey to Palani.[^35] 
 
-From the late 1930s, Tamil organisations helming the Self-Respect Movement raised protests regarding self-mortification. In view of the banning of piercings in Madras (now Chennai), the Sri Thendayuthapani Temple forbade the *alagu kavadi* in 1950, only to retract its decision by end of the year in the face of prodigious opposition from devotees.[^37]
+From the late 1930s, Tamil organisations helming the Self-Respect Movement raised protests regarding self-mortification. In view of the banning of piercings in Madras (now Chennai), the Sri Thendayuthapani Temple forbade the *alagu kavadi* in 1950, only to retract its decision by end of the year in the face of prodigious opposition from devotees.[^36]
 
-Some view the devotee as the processional vehicle and the *kavadi* as a personification of Murugan’s shrine. Another school of thought is that the *kavadi* is an embodiment of the human form occupied by the devotee, with the wooden structure being a metaphor for the skeleton, the cloth canopy for skin, and so forth.[^38]
+Some view the devotee as the processional vehicle and the *kavadi* as a personification of Murugan’s shrine. Another school of thought is that the *kavadi* is an embodiment of the human form occupied by the devotee, with the wooden structure being a metaphor for the skeleton, the cloth canopy for skin, and so forth.[^37]
 
-It is also customary for the *kavadi* bearer to be accompanied by family and friends chanting the names of Murugan or singing  “Kavadi Sindu”. This is sung by the accompanying ensemble to spur the devotee on. Part of a special musical genre attributed to the poet, Annamalai Reddiyar, the verses have an odd number of lines rendered in alternating slow and fast tempos, a mesmerising metre that aids the devotee in retaining focus through rhythmic movements. [^39]
+It is also customary for the *kavadi* bearer to be accompanied by family and friends chanting the names of Murugan or singing  “Kavadi Sindu”. This is sung by the accompanying ensemble to spur the devotee on. Part of a special musical genre attributed to the poet, Annamalai Reddiyar, the verses have an odd number of lines rendered in alternating slow and fast tempos, a mesmerising metre that aids the devotee in retaining focus through rhythmic movements. [^38]
 
-An early version of “Kavadi Sindu” composed and sung in Singapore is the “Singainagar Singara Vadivelar *kavadi* Sindu”, written by R.M.R. Ramanathan in 1907. It is dedicated to the deity at Sri Thendayuthapani Temple addressed as “Thendayutha, Kadamba”, asking him to protect the *kavadi* bearers.[^40]
+An early version of “Kavadi Sindu” composed and sung in Singapore is the “Singainagar Singara Vadivelar *kavadi* Sindu”, written by R.M.R. Ramanathan in 1907. It is dedicated to the deity at Sri Thendayuthapani Temple addressed as “Thendayutha, Kadamba”, asking him to protect the *kavadi* bearers.[^39]
 
 
 
-The ban and seizure of musical instruments used during Thaipusam began in 1973. In 2017, for the first time in over 40 years, the government allowed live music during the street procession but stipulated that people could only play specific instruments like the *nadhaswaram* (a wind instrument), a barrel-shaped drum called the *tavil* and the *urumi melam* (Indian drum).[^41] Music is important to the devotee. “With the beat and the singing, I bounced while walking and the bounce of the *kavadi* took the weight off me,” longtime *kavadi* bearer Subash Gunaseelan told the *Straits Times* in 2019. “In the past, without any music, the journey felt very long and we had to rush. Now, the music makes carrying the *kavadi* enjoyable as well.”[^42] 
+The ban and seizure of musical instruments used during Thaipusam began in 1973. In 2017, for the first time in over 40 years, the government allowed live music during the street procession but stipulated that people could only play specific instruments like the *nadhaswaram* (a wind instrument), a barrel-shaped drum called the *tavil* and the *urumi melam* (Indian drum).[^40] Music is important to the devotee. “With the beat and the singing, I bounced while walking and the bounce of the *kavadi* took the weight off me,” longtime *kavadi* bearer Subash Gunaseelan told the *Straits Times* in 2019. “In the past, without any music, the journey felt very long and we had to rush. Now, the music makes carrying the *kavadi* enjoyable as well.”[^41] 
 
-Interestingly, the regulation of musical instruments during Thaipusam has a long history in Singapore. In 1896, colonial police confiscated the drums of the band of the Maharaja of Travancore, which had been engaged to perform for the Thaipusam festival.[^43] 
+Interestingly, the regulation of musical instruments during Thaipusam has a long history in Singapore. In 1896, colonial police confiscated the drums of the band of the Maharaja of Travancore, which had been engaged to perform for the Thaipusam festival.[^42] 
 
 #### **Celebrations by the Tamil Diaspora and Other Communities**
 
-In 1860, when Thaipusam was first celebrated in Singapore, South Africa saw the emergence of Murugan worship. The observance of a 10-day *kavadi* festival included the hallmark carrying of the traditional wooden *kavadi*.[^44] In Mauritius, the carrying of the *kavadi* involving piercing is also undertaken, not unlike in Singapore and Malaysia.[^45] 
+In 1860, when Thaipusam was first celebrated in Singapore, South Africa saw the emergence of Murugan worship. The observance of a 10-day *kavadi* festival included the hallmark carrying of the traditional wooden *kavadi*.[^43] In Mauritius, the carrying of the *kavadi* involving piercing is also undertaken, not unlike in Singapore and Malaysia.[^44] 
 
-It is not uncommon to see those of diverse faiths and ethnicities undertaking the pilgrimage. As early as 1966, the *Straits Times* carried an interview with Lim Ewe Chia, a Chinese *kavadi* bearer from Penang who said that he vowed to carry the *kavadi* if his family was cured of asthma. Apparently, none of his family members suffered any attack that year. “I consider this a miracle,” he said.[^46] 
+It is not uncommon to see those of diverse faiths and ethnicities undertaking the pilgrimage. As early as 1966, the *Straits Times* carried an interview with Lim Ewe Chia, a Chinese *kavadi* bearer from Penang who said that he vowed to carry the *kavadi* if his family was cured of asthma. Apparently, none of his family members suffered any attack that year. “I consider this a miracle,” he said.[^45] 
 
 The idea of not confining devotion to one transcendental deity has spurred some Chinese Buddhists and Taoists to participate in Thaipusam. Some of them even enter a trance. This is more common in Malaysia, notably in Penang, than it is in Singapore. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%2010.png)
 <div style="background-color: white;"> A Chinese <i>kavadi</i> bearer arriving at the Sri Thendayuthapani Temple, the culmination point of the Thaipusam foot procession, 2014. <i>Chettiars’ Temple Society Collection, courtesy of National Archives of Singapore.</i></div>
 
-It is also not unusual to see worshippers from Singapore attend the festivals in Penang or Batu Caves. The latter is Malaysia’s foremost pilgrimage site of Murugan worship and receives up to 400,000 visitors annually during the chariot procession.[^47] Thaipusam has been observed at the caves since 1892, and here the festival and its environment bear the closest resemblance to the observance at the Palani hill temple in Tamil Nadu. 
+It is also not unusual to see worshippers from Singapore attend the festivals in Penang or Batu Caves. The latter is Malaysia’s foremost pilgrimage site of Murugan worship and receives up to 400,000 visitors annually during the chariot procession.[^46] Thaipusam has been observed at the caves since 1892, and here the festival and its environment bear the closest resemblance to the observance at the Palani hill temple in Tamil Nadu. 
 
 In Phuket, the celebration of the nine-day Taoist festival dedicated to the Nine Emperors sees penitents with spikes in their faces and walking on hot embers to display their devotion to deities. These practices are inspired by the festivals of Thaipusam and Theemithi. 
 
