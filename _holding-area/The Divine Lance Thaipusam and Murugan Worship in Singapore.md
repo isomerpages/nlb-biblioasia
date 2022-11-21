@@ -237,80 +237,78 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^8]: Translation referenced from Zvelebil, *Tiru Murugan*, 32; and Vaidehi Herbert’s translations of Sangam poetry, “Sangam Poems Translated by Vaidehi,” accessed 20 September 2022, https://sangamtranslationsbyvaidehi.com. [The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.]
 
-[^9]: The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.
+[^9]: Zvelebil, *Tiru Murugan*, 30.
 
-[^10]: Zvelebil, *Tiru Murugan*, 30.
+[^10]: Carl Vadivella Belle, “Thaipusam in Malaysia: A Hindu Festival Misunderstood?” (PhD Thesis, Deakin University, Victoria, 2004), 71, https://dro.deakin.edu.au/eserv/DU:30023239/belle-thaipusaminmalaysia-2004.pdf.
 
-[^11]: Carl Vadivella Belle, “Thaipusam in Malaysia: A Hindu Festival Misunderstood?” (PhD Thesis, Deakin University, Victoria, 2004), 71, https://dro.deakin.edu.au/eserv/DU:30023239/belle-thaipusaminmalaysia-2004.pdf.
+[^11]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 90. 
 
-[^12]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 90. 
+[^12]: *Singai Nagar Antati* is a collection of one hundred devotional hymns written by Yazhpanam S.N. Sadasiva Panditar, published in Singapore in 1887, and dedicated to the presiding deity of the Tank Road Thendayuthapani Temple.
 
-[^13]: *Singai Nagar Antati* is a collection of one hundred devotional hymns written by Yazhpanam S.N. Sadasiva Panditar, published in Singapore in 1887, and dedicated to the presiding deity of the Tank Road Thendayuthapani Temple.
+[^13]: For information about the Chettiars, see Marcus Ng, “[Micro India: The Chettiars of Market Street](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/micro-india),” *BiblioAsia* 13, no. 3 (Oct–Dec 2017). 
 
-[^14]: For information about the Chettiars, see Marcus Ng, “[Micro India: The Chettiars of Market Street](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/micro-india),” *BiblioAsia* 13, no. 3 (Oct–Dec 2017). 
+[^14]: Subbiah Lakshmanan, personal communication, 16 September 2022. He recounted the anecdotal experience of early migrants and how integral Murugan worship was to their diasporic journeys.
 
-[^15]: Subbiah Lakshmanan, personal communication, 16 September 2022. He recounted the anecdotal experience of early migrants and how integral Murugan worship was to their diasporic journeys.
+[^15]: A. Palaniappan, “Arulmigu Thandayuthapani Temple, Singapore, Sri Thandayuthapani Temple Singapore,” *Maha Kumbabishegam* Magazine (Singapore: Sri Thandayuthapani Temple, 1996), 1.
 
-[^16]: A. Palaniappan, “Arulmigu Thandayuthapani Temple, Singapore, Sri Thandayuthapani Temple Singapore,” *Maha Kumbabishegam* Magazine (Singapore: Sri Thandayuthapani Temple, 1996), 1.
+[^16]: Subbiah Lakshmanan, “The Chettiar Legacy in Singapore” (unpublished manuscript), retrieved on 19 September 2022, Microsoft Word.
 
-[^17]: Subbiah Lakshmanan, “The Chettiar Legacy in Singapore” (unpublished manuscript), retrieved on 19 September 2022, Microsoft Word.
+[^17]: Lakshmanan, “The Chettiar Legacy in Singapore.”
 
-[^18]: Lakshmanan, “The Chettiar Legacy in Singapore.”
+[^18]: For an account of the rituals spanning five days during the festival, see  “[தைப்பூசத்திருவிழா](https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper/PreviewContent?pid=singai18880206-1&nid=singai),” *Singai Nesan Tamil Journal*, 6 February 1888, 1. (rom NewspaperSG)
 
-[^19]: For an account of the rituals spanning five days during the festival, see  “[தைப்பூசத்திருவிழா](https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper/PreviewContent?pid=singai18880206-1&nid=singai),” *Singai Nesan Tamil Journal*, 6 February 1888, 1. (rom NewspaperSG)
+[^19]: Bala Baskaran, Said Abdullah and Arun Senkuttuvan, [*V.R. Nathan: Community Servant Extraordinary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14298845) (Singapore: Institute of Southeast Asian Studies, 2012), 39–40. (From National Library, Singapore, call no. RSING 361.25092 BAL)
 
-[^20]: Bala Baskaran, Said Abdullah and Arun Senkuttuvan, [*V.R. Nathan: Community Servant Extraordinary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14298845) (Singapore: Institute of Southeast Asian Studies, 2012), 39–40. (From National Library, Singapore, call no. RSING 361.25092 BAL)
+[^20]: “[Page 4 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350117-1.2.12.4),” *Straits Times*, 17 January 1935, 4; “[No Delivery of Mails on Thaipusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640124-1.2.126),” *Straits Times*, 24 January 1964, 18; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220210-1.2.26),” *Straits Times*, 10 February 1922, 8. (From NewspaperSG)
 
-[^21]: “[Page 4 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350117-1.2.12.4),” *Straits Times*, 17 January 1935, 4; “[No Delivery of Mails on Thaipusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640124-1.2.126),” *Straits Times*, 24 January 1964, 18; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220210-1.2.26),” *Straits Times*, 10 February 1922, 8. (From NewspaperSG)
+[^21]: “[Page 2 Advertisements Column 3: Tai-pusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960128-1.2.7.3),” *Singapore Free Press and Mercantile Advertiser*, 28 January 1896, 2. (From NewspaperSG)
 
-[^22]: “[Page 2 Advertisements Column 3: Tai-pusam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960128-1.2.7.3),” *Singapore Free Press and Mercantile Advertiser*, 28 January 1896, 2. (From NewspaperSG)
+[^22]: Letter from S. Sockalingam Chettiar to the Chief Police Officer, 3 January 1938, Collection of the Sri Thendayuthapani Temple Library, 1–2. I am grateful to Subbiah Lakshmanan for showing me this and other rare materials in the collection of the library. 
 
-[^23]: Letter from S. Sockalingam Chettiar to the Chief Police Officer, 3 January 1938, Collection of the Sri Thendayuthapani Temple Library, 1–2. I am grateful to Subbiah Lakshmanan for showing me this and other rare materials in the collection of the library. 
+[^23]: “Letter from S. Sockalingam Chettiar to the Chief Police Officer,” 1.
 
-[^24]: “Letter from S. Sockalingam Chettiar to the Chief Police Officer,” 1.
+[^24]: “[Thaipusam. Celebration of the Festival in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320123-1.2.60),” *Straits Times*, 23 January 1932, 12. (From NewspaperSG)
 
-[^25]: “[Thaipusam. Celebration of the Festival in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320123-1.2.60),” *Straits Times*, 23 January 1932, 12. (From NewspaperSG)
+[^25]: S. Sathappan Chettiar, “Tales of Thaipusam”, Singapore Memory Project, 15 July 2019, https://www.singaporememory.sg/contents/SMA-acca3114-b0a5-4b48-abb2-0bbbaf9f8622. 
 
-[^26]: S. Sathappan Chettiar, “Tales of Thaipusam”, Singapore Memory Project, 15 July 2019, https://www.singaporememory.sg/contents/SMA-acca3114-b0a5-4b48-abb2-0bbbaf9f8622. 
+[^26]: Vineeta Sinha, [*New God in the Diaspora?: Muneeswaran Worship in Contemporary Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12571656) (Singapore: Singapore University Press; Copenhagen S., Denmark: NIAS Press, 2005 ), 3. (From National Library, Singapore, call no. RSING 294.5095 957 SIN)
 
-[^27]: Vineeta Sinha, [*New God in the Diaspora?: Muneeswaran Worship in Contemporary Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12571656) (Singapore: Singapore University Press; Copenhagen S., Denmark: NIAS Press, 2005 ), 3. (From National Library, Singapore, call no. RSING 294.5095 957 SIN)
+[^27]: Sinha, [*New God in the Diaspora?*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12571656), 9–11.
 
-[^28]: Sinha, [*New God in the Diaspora?*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12571656), 9–11.
+[^28]: Kartheges Ponniah and Kingston Pal Thamburaj, “Chinese Community’s Involvement in Thaipusam Celebration at Sungai Petani Sri Subramaniya Swami Devasthanam,” *Man in India* 97 (January 2017): 17–25, ResearchGate, https://www.researchgate.net/publication/328979416_chinese_community's_involvement_in_thaipusam_celebration_at_sungai_petani_sri_subramaniya_swami_devasthanam.
 
-[^29]: Kartheges Ponniah and Kingston Pal Thamburaj, “Chinese Community’s Involvement in Thaipusam Celebration at Sungai Petani Sri Subramaniya Swami Devasthanam,” *Man in India* 97 (January 2017): 17–25, ResearchGate, https://www.researchgate.net/publication/328979416_chinese_community's_involvement_in_thaipusam_celebration_at_sungai_petani_sri_subramaniya_swami_devasthanam.
+[^29]: For information about Theemithi, see Nalina Gopal, “[Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of Firewalking](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/),” *BiblioAsia* 18, no. 3 (October–December 2022).
 
-[^30]: For information about Theemithi, see Nalina Gopal, “[Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of Firewalking](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/),” *BiblioAsia* 18, no. 3 (October–December 2022).
+[^30]: Lawrence A. Babb, [*Thaipusam in Singapore: Religious Individualism in a Hierarchical Culture* ](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081902)([Singapore]: Chopmen Enterprises, [1976]), 9. (From National Library, Singapore, call no. RSING 294.536 BAB)
 
-[^31]: Lawrence A. Babb, [*Thaipusam in Singapore: Religious Individualism in a Hierarchical Culture* ](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081902)([Singapore]: Chopmen Enterprises, [1976]), 9. (From National Library, Singapore, call no. RSING 294.536 BAB)
+[^31]: “More Than 10,000 Devotees Take Part in Thaipusam,” *Straits Times*, 3 February 2015, https://www.straitstimes.com/singapore/more-than-10000-devotees-take-part-in-thaipusam. 
 
-[^32]: “More Than 10,000 Devotees Take Part in Thaipusam,” *Straits Times*, 3 February 2015, https://www.straitstimes.com/singapore/more-than-10000-devotees-take-part-in-thaipusam. 
+[^32]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009,  https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20090213-121728.html. 
 
-[^33]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009,  https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20090213-121728.html. 
+[^33]: Prabhavathi Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1),” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
 
-[^34]: Prabhavathi Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1),” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
+[^34]: “Preparing for the Walk,” *Hindu News* (2016: Hindu Endowments Board: 2016), 4.
 
-[^35]: “Preparing for the Walk,” *Hindu News* (2016: Hindu Endowments Board: 2016), 4.
+[^35]: Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1).” 
 
-[^36]: Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1).” 
+[^36]: Vineeta Sinha, [*Religion-state Encounters in Hindu Domains: From the Straits Settlements to Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14203518) (Dordrecht: Springer, 2011), 216–20. (From National Library, Singapore, call no. RSING 322.1095957 SIN) 
 
-[^37]: Vineeta Sinha, [*Religion-state Encounters in Hindu Domains: From the Straits Settlements to Singapore*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14203518) (Dordrecht: Springer, 2011), 216–20. (From National Library, Singapore, call no. RSING 322.1095957 SIN) 
+[^37]: Carl Vadivella Belle, [*Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049) (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
 
-[^38]: Carl Vadivella Belle, [*Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049) (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
+[^38]: Alison Arnold ed., [*The Garland Encyclopedia of World Music: South Asia: The Indian Subcontinent*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11552905) vol. 5 (New York; London: Routledge, 1998–2002), x. (From National Library, Singapore, call no. RSEA 780.9 GAR)
 
-[^39]: Alison Arnold ed., [*The Garland Encyclopedia of World Music: South Asia: The Indian Subcontinent*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11552905) vol. 5 (New York; London: Routledge, 1998–2002), x. (From National Library, Singapore, call no. RSEA 780.9 GAR)
+[^39]: A copy is available at the library of the Sri Thendayuthapani Temple. 
 
-[^40]: A copy is available at the library of the Sri Thendayuthapani Temple. 
+[^40]: Melody Zaccheus, “Singapore Government to Allow Live Music at Thaipusam Street Procession,” *Straits Times*, 19 January 2016, https://www.straitstimes.com/singapore/singapore-government-to-allow-live-music-at-thaipusam-street-procession.
 
-[^41]: Melody Zaccheus, “Singapore Government to Allow Live Music at Thaipusam Street Procession,” *Straits Times*, 19 January 2016, https://www.straitstimes.com/singapore/singapore-government-to-allow-live-music-at-thaipusam-street-procession.
+[^41]: Shabana Begum, “Devotees Cheer New Rules That Allow More Music During Thaipusam Procession,” *Straits Times*, 21 January 2019, https://www.straitstimes.com/singapore/devotees-cheer-new-rules-that-allow-more-music-during-thaipusam-procession.
 
-[^42]: Shabana Begum, “Devotees Cheer New Rules That Allow More Music During Thaipusam Procession,” *Straits Times*, 21 January 2019, https://www.straitstimes.com/singapore/devotees-cheer-new-rules-that-allow-more-music-during-thaipusam-procession.
+[^42]: “[Confiscated Drums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18960204-1.2.76),” *Singapore Free Press and Mercantile Advertiser* (Weekly), 4 February 1896, 13. (From NewspaperSG)
 
-[^43]: “[Confiscated Drums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18960204-1.2.76),” *Singapore Free Press and Mercantile Advertiser* (Weekly), 4 February 1896, 13. (From NewspaperSG)
+[^43]: Thillayvel Naidoo, “Kavadi: Worship Through Ceremonial Festival,” *Religion in Southern Africa* 2, no. 2 (July 1981): 3–11. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
 
-[^44]: Thillayvel Naidoo, “Kavadi: Worship Through Ceremonial Festival,” *Religion in Southern Africa* 2, no. 2 (July 1981): 3–11. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
+[^44]: Belle, [*Thaipusam in Malaysia*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 278.
 
-[^45]: Belle, [*Thaipusam in Malaysia*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 278.
+[^45]: “[Miracle, He Said, So Mr. Lim Joins Kavadi Bearers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660205-1.2.103?ST=1&AT=search&k=chinese%20kavadi&QT=chinese,kavadi&oref=article),” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
 
-[^46]: “[Miracle, He Said, So Mr. Lim Joins Kavadi Bearers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660205-1.2.103?ST=1&AT=search&k=chinese%20kavadi&QT=chinese,kavadi&oref=article),” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
-
-[^47]: Belle, [*Thaipusam in Malaysia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 246
+[^46]: Belle, [*Thaipusam in Malaysia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 246
