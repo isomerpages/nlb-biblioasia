@@ -156,7 +156,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^29]: E.g. Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “History Written in Stone: *Evolutionary Analysis of Stone Tools in Archaeology,” Evolution: Education and Outreach* 4 (2011): 435.
 
-[^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” Sari – International Journal of the Malay World and Civilisation 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” Straits Times, 13 June 1953, 1. (From NewspaperSG)
+[^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
 [^31]: Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” Sunday Tribune (Singapore), 23 October 1949, 4. (From NewspaperSG) 
 
