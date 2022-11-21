@@ -41,6 +41,8 @@ Subaraj recalled that his first paid job was in 1988 when he was asked to conduc
 
 Subaraj underwent the Singapore Tourism Board’s six-month tourist guide course and subsequently became the first nature licensed tour guide in Singapore in 1990. He then created and customised all kinds of tours, from general nature walks to hikes, boat rides and bike rides.[^12] He had designed and conducted more than 50 tours around Singapore.[^13]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/oCGQXebCcPI" frameborder='0' allowfullscreen></iframe></div>
+
 Subaraj reckoned that he had taken thousands of people on nature walks to share his knowledge and hopefully win some sympathisers, advocates or activists to the conservation cause. “The more information we share, the better chance we have of saving nature through others having a better understanding and respect for it,” he said.[^14]
 
 
@@ -138,7 +140,7 @@ Subaraj’s name will live on in the form of a tiny frog species recently discov
 
 In an interview with the _Straits Times_ in August 2022, Sankar noted that many places and wildlife in the region are named after colonial-era figures such as Stamford Raffles and Alfred Russel Wallace. “It is only recently that regional scientists and amateur naturalists have become more prominent, so we wanted to name the frog after Subaraj, who was as much an inspiration to us as any of these other naturalists.”[^46]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> To listen to Subaraj Rajathurai’s oral history interview with the National Archives of Singapore, go to <a href="https://go.gov.sg/subaraj-rajathurai">https://go.gov.sg/subaraj-rajathurai</a>.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Listen to <a href="https://go.gov.sg/subaraj-rajathurai">Subaraj Rajathurai’s oral history interview</a> with the National Archives of Singapore.</div>
 
 
 <div style="background-color: white;">

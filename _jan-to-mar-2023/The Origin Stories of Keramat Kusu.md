@@ -5,11 +5,6 @@ description: Pilgrimages to the keramat on Kusu Island have been going on since
   the middle of the 19th century.
 image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
 ---
-
-
-
-
-
 #### Pilgrimages to the *keramat* on Kusu Island have been going on since the mid-19th century.
 By William L. Gibson
 
@@ -128,6 +123,8 @@ The pilgrimages to Kusu continued unabated over the decades and a routine had be
 <div style="background-color: white;">Lottery numbers are scrawled over the painted rocks at the entrance to the <i>keramat</i> at the top of the stairs, 2022. <i>Courtesy of William L. Gibson. </i></div>
 
 The blaze on 17 April 2022, however, threatened to put an end to the rituals. The fire broke out on a Sunday evening, at about 6.20 pm, and was eventually put out by firefighters after about an hour, aided by heavy rain. While no lives were lost, the *keramat* was almost completely destroyed. The fire’s cause was not determined, but lit candles and incense are often left unattended there.
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/RnhFPr9544U?start=25" frameborder='0' allowfullscreen></iframe></div>
 
 A month after the conflagration, it was announced that the *keramat* would be rebuilt at a cost of hundreds of thousands of dollars, in time for the Double Ninth Festival.[^20]  In early September 2022, the *Straits Times* quoted the shrine’s caretaker, Ishak Samsudin, as saying that the *keramat* was about 70 percent rebuilt by then, and would “likely be ready” in time for the pilgrimage season at the end of September. Ishak told the newspaper that he had financed the reconstruction with donations from friends and companies.[^21] 
 
