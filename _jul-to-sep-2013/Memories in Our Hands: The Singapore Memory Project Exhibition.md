@@ -59,8 +59,7 @@ Memory is an act of “thinking of things in their absence” which may well be 
 
 #### **Hello, Operator? Story of a Telephonist**
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">President Yusof Ishak observing operators at Hill Street at work when he visited the Singapore Telephone Board in 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore</i>. 
-
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">President Yusof Ishak observing operators at Hill Street at work when he visited the Singapore Telephone Board in 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i>
 
 
 <i>I applied for the job but it took some time for the reply to come to go for the interview. So straight after school, I \[worked\] as a sales girl in Robinsons. After a few months, they called me, I went for an interview. It was not an interview per se; I went into a room with a phone and I was supposed to speak to somebody on the phone. They were recording it, they sort of wanted to gauge your voice. Then they called you back for a second interview where you met people. I was one of the few non-Eurasians at the Singapore Telephone Board; it was strictly for Eurasians.
@@ -74,5 +73,15 @@ I switched from an operator to a supervisor. It was not an easy time for there w
 Our kampong people looked after our kampong people. It was only the outside kampong people that made mischief. The Malays and Chinese in \[our\] kampong were looking after each other. The people from other kampongs \[snuck\] in and hit people... But it was not neighbour against neighbour. In Telecoms, you had people from all sorts of life and so all these stories were told. Our cleaner was hacked</i>.”
 			<br><br>
 Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
-</span>
+
+
+<div>
+<b>Tan Huism</b> is the Head of Exhibitions and Curation with the National Library. Huism started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</div>
+
+
+
+
+
+
+
 <br>
