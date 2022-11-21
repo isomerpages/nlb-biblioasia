@@ -2,7 +2,6 @@ collections:
   jul-to-sep-2013:
     output: true
     order:
-      - "Memories in Our Hands: The Singapore Memory Project Exhibition.md"
       - Director's Column.md
       - Libraries for Life.md
       - "LIBRARIES: A Force to Transform Societies.md"
@@ -17,3 +16,4 @@ collections:
         2012.md"
       - "Singapore Public Libraries: Past, Present and Future.md"
       - "The Way We Were: Evolution of the Singapore Family.md"
+      - "Memories in Our Hands: The Singapore Memory Project Exhibition.md"
