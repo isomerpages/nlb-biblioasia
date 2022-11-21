@@ -48,7 +48,7 @@ This year, aside from collecting, preserving and presenting memories on its digi
  <br><br>	
 “<i>And then we had difficulties because the rural area; there was a lot of development and the postman on bicycles could not go, so we introduced motorcycles to deliver the mail. But earlier on, there were problems of postmen delivery. They used to be chased by dogs. “The postman had a wonderful job. The motto was ‘The mail must go on – rain or shine</i>’”.
 	<br><br>
-Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
+Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.</div>
 
 
 
