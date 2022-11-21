@@ -24,7 +24,7 @@ This year, aside from collecting, preserving and presenting memories on its digi
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <br><br>
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
    <br><br>	
 	“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
@@ -57,6 +57,27 @@ Memory is an act of “thinking of things in their absence” which may well be 
 
 <i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
 
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<br><br>
+
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">President Yusof Ishak observing operators at Hill Street at work when he visited the Singapore Telephone Board in 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore</i>. 
+
+#### **Hello, Operator? Story of a Telephonist**
+
+<i>I applied for the job but it took some time for the reply to come to go for the interview. So straight after school, I \[worked\] as a sales girl in Robinsons. After a few months, they called me, I went for an interview. It was not an interview per se; I went into a room with a phone and I was supposed to speak to somebody on the phone. They were recording it, they sort of wanted to gauge your voice. Then they called you back for a second interview where you met people. I was one of the few non-Eurasians at the Singapore Telephone Board; it was strictly for Eurasians.
+<br><br>
+As a telephonist, we answered the calls for \[phone numbers\] 100, 103. It was plug and call, there were no switches, nothing. The calls would come up glowing in a row and we would plug it in, take that call and dial the number for them. They needed assistance in dialing up so we assisted them. Then there were the public phones, where they called in to the operator for us to assist them and they dropped in the coins and we needed to count. People called 103 for assistance to get phone numbers. Some of the callers \[did\] not even know the proper name \[of the party they wanted to call\]. We were pretty good with numbers, now I am lousy with numbers because all of it is programmed in the phone.
+<br><br>
+I switched from an operator to a supervisor. It was not an easy time for there was a lot of “she is the only Chinese” talk, because all the supervisors were Eurasian at that time. But by \[the\] time when I was made supervisor, other races were slowly coming in. After that, \[I conducted\] telephone courtesy and technique training, where people were sent in from all walks of life, including government officers, to learn from us. Then my VP \[vice-president\] decided to put me into marketing.
+	<br><br>
+\[During the 1964 racial riots\] there \[were\] so many calls coming in, people were so worried. When there is such an emergency and too many calls \[flood\] in, calls get blocked. People call and call, can’t get through, so they try and get the operator. So we were really flooded. We stayed there \[for\] 24 hours... We were brought to work in a bus. You know you were safe because you had security \[everywhere\], but what about your \[family\], what about your neighbours, inlaws… \[my\] own family was scattered... It was a really stressful time....
+		<br><br>
+Our kampong people looked after our kampong people. It was only the outside kampong people that made mischief. The Malays and Chinese in \[our\] kampong were looking after each other. The people from other kampongs \[snuck\] in and hit people... But it was not neighbour against neighbour. In Telecoms, you had people from all sorts of life and so all these stories were told. Our cleaner was hacked</i>.”
+			<br><br>
+Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
+</span>
+<br>
 
 
 
