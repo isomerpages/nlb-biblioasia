@@ -86,7 +86,8 @@ I switched from an operator to a supervisor. It was not an easy time for there w
 		<br><br>
 Our kampong people looked after our kampong people. It was only the outside kampong people that made mischief. The Malays and Chinese in \[our\] kampong were looking after each other. The people from other kampongs \[snuck\] in and hit people... But it was not neighbour against neighbour. In Telecoms, you had people from all sorts of life and so all these stories were told. Our cleaner was hacked</i>.”
 			<br><br>
-Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.</div>
+Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
+</div>
 
 
 <div>
