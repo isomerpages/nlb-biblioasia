@@ -5,7 +5,6 @@ description: "In conjunction with the launch of the exhibition “Roots: Tracing
   Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates
   on the question of families in Singapore."
 ---
-
 #### In conjunction with the launch of the exhibition “Roots: Tracing Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates on the question of families in Singapore.
 
 At a local university, a sociology lecturer receives the following responses from her students to her question on what a typical Singapore family would look like: a nuclear family, with two children, plus a cat or a dog. Do these “educated perceptions” reflect the public imagination of the Singapore family? Or, can families be imagined or constructed in other ways? By demystifying family and the “traditional family”, we see that most idealistic notions of family are far from what we might imagine. More significantly, an overemphasis on personal responsibility for strengthening family values encourages a way of thinking that leads to moralising rather than mobilising concrete reforms.1 Hence, examining families in the past allows us to see the relationship of families to public policies on families.
@@ -25,7 +24,7 @@ Some former colonial writers have described ethnic families who were early settl
 
 One of the earliest accounts of native families in Singapore relates to Malay royalty in the 17th century. In 1609, Johann Verken, a German officer of the Vereenigde Oost-Indische Compagnie (VOC) from Meissen (Germany) aboard one of the Dutch vessels under Admiral Peter Willemz Verhoeff, related:
 
-\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.2
+<center>\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.2</center>
 
 Demonstrating the existence of polygamous unions of the royal family in the area, the relationship between wealth, power and the means to have big families is established. Furthermore, Raja Bongsu had wives “of different appearances”. This could indicate that they were of different ethnic backgrounds, groups, age or beauty. Apart from being a sign of prestige for the kings, the wives could have been part of exchanges between kingdoms.
 
@@ -37,13 +36,13 @@ With the “civilising mission” as justification for colonialism, the British 
 
 During this period, the British classified the Malays into two classes, the native and the foreign Malays. This division was more geographical than ethnographical. According to Frank Swettenham, in *British Malaya*, the Malays are descendants of people who crossed from the south of India to Sumatra, mixed with a people already inhabiting that island, and gradually spread themselves over the most central and fertile States \[of Malaya\]. Foreign Malays came to Malaya from the borders of Kedah, Patani, Kelantan and the Southern Siamese states, including those from the seas —Acehnese, Javanese, Mandalings, Minangkabau, Palembang, Labuan, Borneo and Bugis. The native Malays are the descendants of the old Sumatran colonialists and intermarried with local aborigines and subsequent immigrants. There is an impression that the Malays live as part of the extended family,
 
-… He never fails in respect towards his superiors. He has a proper reverence for constituted authority… His domestic life is almost idyllic. Towards his servants he is considerate and friendly… He is indulgent to his wife, and perhaps even more so to his children, whom he generally spoils. He supports his own relatives through thick and thin, but his sense of charity does not take him beyond the family circle. He is content to live in his own life in the bosom of his family like, a “frog beneath a coconut shell *[katak di bawah tempurung]*.7
+<center>… He never fails in respect towards his superiors. He has a proper reverence for constituted authority… His domestic life is almost idyllic. Towards his servants he is considerate and friendly… He is indulgent to his wife, and perhaps even more so to his children, whom he generally spoils. He supports his own relatives through thick and thin, but his sense of charity does not take him beyond the family circle. He is content to live in his own life in the bosom of his family like, a “frog beneath a coconut shell *[katak di bawah tempurung]*.7</center>
 
 #### **Intermarriages and population explosions due to immigration**
 
 Many of the low-ranking British officers who were posted to the Far East could not bring their families or women to the colonies as the colonial government was unwilling to pay for the maintenance of families. Eurasian groups such as Dutch Eurasians, Portuguese Eurasians and British Eurasians emerged as a result of intermarriages between these colonial servants and indigenous women. The Eurasian family type observed by John Turnbull Thomson comprised parents with many children, with servants living as part of the extended family, not different from Malay families.
 
-The head of the family was of mixed race, but educated in Europe. His wife was of pure British blood, but was reared and educated in India. The husband had children before his marriage by native women; his wife had been married before, and had children by both her husbands. All lived together in great amity in the same house… The family have long settled in the country, held slaves prior to the abolition of slavery in the British dominions. Some of the slaves still clung to the family. One of them, an old woman, began to think of the advantage of creating a connection with her mistress’s family… 8
+<center>The head of the family was of mixed race, but educated in Europe. His wife was of pure British blood, but was reared and educated in India. The husband had children before his marriage by native women; his wife had been married before, and had children by both her husbands. All lived together in great amity in the same house… The family have long settled in the country, held slaves prior to the abolition of slavery in the British dominions. Some of the slaves still clung to the family. One of them, an old woman, began to think of the advantage of creating a connection with her mistress’s family… 8</center>
 
 Population began to increase rapidly with the great influx of immigration, despite severe measures adopted by the Dutch to prevent subjects from sailing to Singapore. It was believed that the new arrivals were mostly Malays while the rest were Chinese. It was not until the mid1830s that the Chinese outnumbered the Malays.9 The sex ratios in the Chinese and Indian communities were disproportionate from 1824 to 1860 due to the increase in the number of predominantly male immigrants from China and India.
 
@@ -113,6 +112,3 @@ We need to develop a clearer sense of how past families actually functioned and 
 <div>
 <b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. 
 </div>
-
-
-
