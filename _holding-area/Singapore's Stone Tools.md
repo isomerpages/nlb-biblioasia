@@ -152,16 +152,27 @@ All the stone tool sites described earlier were either found along coastal or in
 [^29]: E.g. Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” Antiquity 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology,” Evolution: Education and Outreach 4 (2011): 435.
 
 [^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” Sari – International Journal of the Malay World and Civilisation 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” Straits Times, 13 June 1953, 1. (From NewspaperSG)
-Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” Sunday Tribune (Singapore), 23 October 1949, 4. (From NewspaperSG) 
-P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” Journal of the Malayan Branch of the Royal Asiatic Society 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
-Clinnick and Lim, “In Search of Prehistoric Singapore.”
-Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” Advances in Archaeological Method and Theory 10 (1987): 93–210. (From JSTOR via NLB’s eResources website) 
-Defri Elias Simatupang et al., “Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau,” Berita Penelitian Arkeologi 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
-Ketut Wiradnyana et al., “Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara,” in Berita Penelitian Arkeologi 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34.
-Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” Sangkahala: Berkala Arkeologi 13, no. 26 (2010): 226. 
-Mokhtar Saidin, Jaffrey Abdullah and Jalil Osman, “Masa Depan USM Dan Usu Dalam Penyelidikan Arkeologi Serantau,” in Prosiding Seminar Antarabangsa: Mengungkap Perabadan Asia Tenggara Melalui Tapak Padang Lawas Dan Tapak Sungai Batu, Kedah, ed. Mokhtar Saidin and Suprayitno (Medan: Pusat Penyelidikan Arkeologi Global, Universiti Sains Malaysia, 2011), 4; Zuliskandar Ramli, “Zaman Prasejarah Di Malaysia Dalam Konteks Peninggalan Masyarakat Pesisir Pantai,” Jurnal Arkeologi Malaysia 28 (2015): 36. 
-Simatupang, “Ekskavasi Dan Kajian Manajemen,” 30–31, 42.
-Ryan Rabett et al, “Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam,” Quaternary International 239, no. 1–2 (2011): 153–69.
+
+[^31]: Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” Sunday Tribune (Singapore), 23 October 1949, 4. (From NewspaperSG) 
+
+[^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” Journal of the Malayan Branch of the Royal Asiatic Society 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
+
+[^33]: Clinnick and Lim, “In Search of Prehistoric Singapore.”
+
+[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” Advances in Archaeological Method and Theory 10 (1987): 93–210. (From JSTOR via NLB’s eResources website) 
+
+[^35]: Defri Elias Simatupang et al., “Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau,” Berita Penelitian Arkeologi 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
+
+[^36]: Ketut Wiradnyana et al., “Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara,” in Berita Penelitian Arkeologi 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34.
+
+[^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” Sangkahala: Berkala Arkeologi 13, no. 26 (2010): 226. 
+
+[^38]: Mokhtar Saidin, Jaffrey Abdullah and Jalil Osman, “Masa Depan USM Dan Usu Dalam Penyelidikan Arkeologi Serantau,” in Prosiding Seminar Antarabangsa: Mengungkap Perabadan Asia Tenggara Melalui Tapak Padang Lawas Dan Tapak Sungai Batu, Kedah, ed. Mokhtar Saidin and Suprayitno (Medan: Pusat Penyelidikan Arkeologi Global, Universiti Sains Malaysia, 2011), 4; Zuliskandar Ramli, “Zaman Prasejarah Di Malaysia Dalam Konteks Peninggalan Masyarakat Pesisir Pantai,” Jurnal Arkeologi Malaysia 28 (2015): 36. 
+
+[^39]: Simatupang, “Ekskavasi Dan Kajian Manajemen,” 30–31, 42.
+
+[^40]: Ryan Rabett et al, “Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam,” Quaternary International 239, no. 1–2 (2011): 153–69.
+
 Defri Elias Simatupang, “Ekskavasi Dan Kajian Manajemen,” 66.
 J.R. Logan, “The Orang Sletar of the River and Creeks of the Old Strait and Estuary of the Johore,” Journal of the Indian Archipelago and Eastern Asia 1 (1847): 302–304. (From BookSG); Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in Tribal Communities in the Malay World: Historical, Cultural and Social Perspectives, ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–93. (From National Library, Singapore, call no. RSING 305.8959 TRI) 
 Adnan Jusoh, Mokhtar Saidin and Zuliskandar Ramli, “Zaman Paleolitik, Hoabinhian Dan Neolitik di Malaysia,” in Prasejarah Dan Protosejarah Tanah Melayu, ed. Nik Hassan Shuhaimi Nik Abdul Rahman and Zuliskandar Ramli (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2018), 21–90. (From National Library, Singapore, call no. Malay RSEA 930.109595 PRA); David Bulbeck, “An Integrated Perspective on the Austronesian Diaspora: The Switch from Cereal Agriculture to Maritime Foraging in the Colonisation of Island Southeast Asia,” Australian Archaeology no. 67 (December 2008): 44. (From JSTOR via NLB’s eResources website); Matthew R. Goodrum, “The Idea of Human Prehistory: The Natural Sciences, the Human Sciences, and the Problem of Human Origins in Victorian Britain,” History and Philosophy of the Life Sciences 34, nos. 1–2 (2012): 140–41. (From JSTOR via NLB’s eResources website)
