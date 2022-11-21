@@ -189,9 +189,7 @@ Tibbetts, G.R. (1957). Early Muslim traders in South-East Asia. _Journal of the 
 Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malaya, 1819-1911. _Journal of Southeast Asian Studies, Ethnic Chinese in Southeast Asia, 12_ (1), 62–92. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 
-	
-#### **NOTES**
-	
+#### **NOTES**	
 
 [^1]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 1992, p. 22.
 
@@ -258,4 +256,5 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 
 
-</div>
+
+
