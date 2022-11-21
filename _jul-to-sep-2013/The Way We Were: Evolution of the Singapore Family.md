@@ -29,7 +29,7 @@ Some former colonial writers have described ethnic families who were early settl
 
 One of the earliest accounts of native families in Singapore relates to Malay royalty in the 17th century. In 1609, Johann Verken, a German officer of the Vereenigde Oost-Indische Compagnie (VOC) from Meissen (Germany) aboard one of the Dutch vessels under Admiral Peter Willemz Verhoeff, related:
 
-<center>\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.[^2]</center>
+\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.[^2]
 
 Demonstrating the existence of polygamous unions of the royal family in the area, the relationship between wealth, power and the means to have big families is established. Furthermore, Raja Bongsu had wives “of different appearances”. This could indicate that they were of different ethnic backgrounds, groups, age or beauty. Apart from being a sign of prestige for the kings, the wives could have been part of exchanges between kingdoms.
 
