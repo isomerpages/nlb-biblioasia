@@ -8,7 +8,7 @@ description: "In conjunction with the launch of the exhibition “Roots: Tracing
 #### In conjunction with the launch of the exhibition “Roots: Tracing Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates on the question of families in Singapore.
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Straits%20Chinese1.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Straits%20Chinese1.jpg">
 <div style="background-color: white;">A photo of Straits Chinese, Tan Ah Boon and his family, in 1860. <i>Courtesy of National Archives Singapore.</i></div>
 
 
@@ -40,7 +40,7 @@ The Malays, at this point, were a harder group of people to define. Linguistic a
 With the “civilising mission” as justification for colonialism, the British took an anthropological approach in their task of documenting the lifestyles and cultures of the natives. Through such understanding, the colonials hoped to colonise the natives better, inviting as little opposition as possible to their rule. The British discovered many indigenous people living in the forests or sea such as the Semangs or the Orang Laut. Indigenous families tended to live in small groups and lived wherever there was food. This small nuclear family type enabled families to move to wherever the food was.[^4] The same could also be said about the Orang Laut (meaning sea people), which was another group of indigenous people who had lived in the area for centuries,[^5] “almost the whole of their life being spent upon the water in a wretched little canoe… A man and his wife and one or two children are usually to be found in these miserable *sampans*, for subsistence they depend on their success in fishing.”[^6]
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Malay%20family1.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Malay%20family1.jpg">
 <div style="background-color: white;">Photograph of a Malay family taken in 1900. <i>Courtesy of National Archives Singapore.</i></div>
 	
 
@@ -59,7 +59,7 @@ Population began to increase rapidly with the great influx of immigration, despi
 In his report on population trends in Singapore from 1819 to 1967, Saw states that “there is reason to believe that the women enumerated in the early censuses did not come direct from China but were mixed-blooded \[Baba\] women”. In addition, Charles Buckley mentioned that in 1837 “no Chinese women had come to Singapore and from China, and the newspapers said that, in fact, only two genuine Chinese women were … small-footed ladies, who had been some years before, exhibited in England”.[^10] Even J. D. Vaughn noted as late as 1876 that he knew of “no instance of a respectable Chinese woman emigrating with her husband”.[^11] This confirms that the Chinese men came to Singapore without bringing their wives. As temporary settlers, it had been convenient to leave their wives and children in China. Furthermore, policies in China discouraged women from leaving in order to maintain ties with the overseas Chinese as well as to “ensure a flow of remittances from them”. It was only during the 20th century that a movement towards a more balanced sex ratio was observed. The relaxation of immigration laws during the 1880s and 1930s saw large-scale migration of female immigrants from China and India.[^12]
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Chinese%20family1.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Chinese%20family1.jpg">
 <div style="background-color: white;">Photograph of a Chinese family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
 
 Meanwhile, the disparity in the sex ratio for the Chinese group created the Peranakan group.[^13] The Chinese who were born in Singapore tended to mix more with other ethnic groups and there was a trend “towards inter-ethnic marriages, especially between Chinese men and Malay women”. This was clearly reflected in the existence of a group called “Babas”. It was also likely that these unions were Sino-Orang Laut unions as observed by British colonial writers.
@@ -73,7 +73,7 @@ For Indians during this period, however, intermarriages within the different Ind
 Hence, as opposed to the Malays, Eurasians and the Peranakan Chinese who were part of large extended families, the Indians and Chinese migrants on the other hand who came from extended families in India and China respectively were forced to set up nuclear families as a result of migration.
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Indian%20family1.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Indian%20family1.jpg">
 <div style="background-color: white;">Photograph of an Indian family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
 
 #### **Rise of Interethnic Adoption**
