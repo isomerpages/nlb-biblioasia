@@ -133,4 +133,130 @@ We need to develop a clearer sense of how past families actually functioned and 
 
 <div>
 <b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. 
+	
+	
+#### **REFERENCES**	
+    
+
+Barnard, T.P. (2007, December). Celates, Rayat-Laut, Pirates: The Orang Laut and their decline in history. _Journal of the Malaysian Branch of the Royal Asiatic Society, 80_ (2) (293), 33–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Borschberg, P. (2011). [_Hugo Grotius, the Portuguese and free trade in the East Indies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13604401). Singapore: NUS Press. (Call no.: RSEA 341 BOR)
+
+Cartwright, H.A., & Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
+
+Chua, B.H. (1994). [_Private ownership of public housing in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7858142). Australia: National Library of Australia. (Call no.: RCLOS q363.585 CHU)
+
+Clifford, H.C. (1897). [_In court & kampong: Being tales and sketches of native life in the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx). London: G. Richards. Retrieved from BookSG.
+
+Cook, J.A.B. (1907). [_Sunny Singapore: An account of the place and its people, with a sketch of the results of missionary work_](https://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx). London: Elliot Stock. Retrieved from BookSG.
+
+Coontz, S. (2000). [_The way we never were: American families and nostalgia trap_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797). New York, NY: Basic Books. (Call no.: R 306.85 COO)
+
+Djamour, J. (1965). [_Malay kinship and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777). London: Athlone Press: Humanitarian Press. (Call no.: RSING 301.42095957 DJA)
+
+Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221). London: Her Majesty’s Stationary Office. (Call no.: RSING 301.42 FRE)
+
+Frost, M.R. (2003, August). _Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918_ \[Asian Research Institute Working Paper Series No. 10\]. Retrieved from Nus.edu.sg. website.
+
+Gibson-Hill, C.A. (1969, July). The Orang Laut of Singapore River and the Sampan Panjang. _Journal of the Malaysian Branch of the Royal Asiatic Society, 42_ (1), 118–132. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Lyons, L. (2007). (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008). Leiden: Brill. (Call no.: RSING 305.42095957 LYO) (Cannot find year 2007 edition)
+
+Makeswary, P. (2007, October). Indian migration into Malaya and Singapore during the British Period. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 3_ (3). 4–11. Retrieved from BiblioAsia website.
+
+Marsden, w. (1812). [_A dictionary of the Malayan language, in two parts, Malayan and English, and English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx). London: Cox and Baylis. Retrieved from BookSG.
+
+Milner, A. (2008). [_The Malays_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13208713). Chinchester, Uk: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
+
+Ng, B. (1983, August 15). [Get hitched! And don’t stop at one](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.2). _The Straits Times_, p.1. Retrieved from NewspaperSG.
+
+Robson, J.H.M. (1894). [_People in native state_](https://eresources.nlb.gov.sg/printheritage/detail/c7ca9d23-e476-4c49-81f5-218bd77d249d.aspx). London: Makepeace. Retrieved from BookSG.
+
+Saw, S.W. (1969, March). Population trends in Singapore, 1819–1967. _Journal of Southeast Asian History, 10_ (1), 36–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Singapore. Department of Statistics. (2018, May 9). _Census of Population 2010. Statistical Release 2: Households and Housing_. Retrieved from Singstat.gov.sg website.
+
+Singapore Family Planning and Population Board. (1975). [_Annual report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679). Singapore: The Board. (Call no.: RCLOS 301.426 SFPPBA)
+
+Singapore. Ministry of Community Development, Youth and Sports; National Family Council (Singapore). (2011). _State of the family report 2011_. Singapore: National Family Council and Ministrty of Community Development, Youth and Sports. (Not available in NLB holdings)
+
+Stoler, A. (2010). [_Carnal knowledge and imperial power_: Race and the intimate in colonial rule](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13666496). Claifornia, Berkeley: University of California Press. (Call no.: R 305.8 STO)
+
+Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx). London: Richardson & Co. Retrieved from BookSG.
+
+Tibbetts, G.R. (1957). Early Muslim traders in South-East Asia. _Journal of the Malayan Branch of the Royal Asiatic Society, 30_ (1), (177), 1–45. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malaya, 1819-1911. _Journal of Southeast Asian Studies, Ethnic Chinese in Southeast Asia, 12_ (1), 62–92. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+	
+	
+#### **NOTES**
+	
+     
+
+[^1]: Coontz, S. (2000). [_The way we never were: American families and nostalgia trap_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797) (p. 22). New York, NY: Basic Books. (Call no.: R 306.85 COO)
+
+[^2]: Borschberg, P. (2011). [_Hugo Grotius, the Portuguese and free trade in the East Indies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13604401) (p. 258). Singapore: NUS Press. (Call no.: RSEA 341 BOR)
+
+[^3]: Milner, A. (2008). [_The Malays_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13208713) (p. 23). Chinchester, Uk: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
+
+[^4]: Clifford, H.C. (1897). [_In court & kampong: Being tales and sketches of native life in the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx) (p. 172). London: G. Richards. Retrieved from BookSG.
+
+[^5]: Barnard, T.P. (2007, December). Celates, Rayat-Laut, Pirates: The Orang Laut and their decline in history. _Journal of the Malaysian Branch of the Royal Asiatic Society, 80_ (2) (293), 33–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^6]: Gibson-Hill, C.A. (1969, July). The Orang Laut of Singapore River and the Sampan Panjang. _Journal of the Malaysian Branch of the Royal Asiatic Society, 42_ (1), 118–132, p. 119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^7]: Cartwright, H.A., & Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444) (p. 132). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
+
+[^8]: Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx) (pp. 251–254). London: Richardson & Co. Retrieved from BookSG.
+
+[^9]: Saw, S.W. (1969, March). Population trends in Singapore, 1819–1967. _Journal of Southeast Asian History, 10_ (1), 36–49, p. 38. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^10]: Buckley, C.B. (1902). [_An anecdotal history of old times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470390) (p. 43). (2 vols.). Singapore: Fraser & Neave, Limited. (Call no.: RCLOS 959.57 BUC)
+
+[^11]: Saw, Mar 1969, p. 43.
+
+[^12]: Frost, M.R. (2003, August). _Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918_ (p. 8). \[Asian Research Institute Working Paper Series No. 10\]. Retrieved from Nus.edu.sg. website; Makeswary, P. (2007, October). Indian migration into Malaya and Singapore during the British Period. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 3_ (3). 4–11, p. 9. Retrieved from BiblioAsia website.
+
+[^13]: Clammer, J.R. (1980). [_Straits Chinese Society: Studies in the sociology of Baba communities of Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233) (pp. 7–8). Singapore: Singapore University Press. (Call no.: RSING 301.45195105957 CLA)
+
+[^14]: [Clammer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233), 1980, p. 23.
+
+[^15]: Saw, 1965, p. 450. (Not sure what source this is)
+
+[^16]: Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malaya, 1819-1911. _Journal of Southeast Asian Studies, Ethnic Chinese in Southeast Asia, 12_ (1), 62–92, p. 84. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[^17]: Wee, 1977, p. 294. (Not sure what source this is)
+
+[^18]: Djamour, J. (1965). [_Malay kinship and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777) (p. 165). London: Athlone Press: Humanitarian Press. (Call no.: RSING 301.42095957 DJA)
+
+[^19]: [Djamour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777), 1965, p. 165.
+
+[^20]: Chua, B.H. (1994). [_Private ownership of public housing in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7858142). Australia: National Library of Australia. (Call no.: RCLOS q363.585 CHU)
+
+[^21]: Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221) (p. 121). London: Her Majesty’s Stationary Office. (Call no.: RSING 301.42 FRE). Freedman notes that polygamy was common among the rich Chinese without giving a figure whereas Djamour notes that polygamy marriages was noted to be less than 1 percent of Muslim marriages.
+
+[^22]: The Straits Times, 27 Nov 1960, p. 1. (original citation); [The path to a happy and healthy family](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601127-1.2.5). (1960, November 1). _The Straits Times_, p. 1. Retrieved from NewspaperSG. (reformatted)
+
+[^23]: Ministry of Culture \[MOC\], 1972. (original citation); Ministry of Culture. (1972, July 20). [_Speech by Mr Chua Sian Chin Minister for Health at the opening ceremony of the Family Planning Campaign 1972 at the Singapore Conference Hall on Thursday, 20th July 1972 at 2000 hours_](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad) \[Speech\]. Retrieved from National Archives of Singapore website. (reformatted)
+
+[^24]: Singapore Family Planning and Population Board. (1975). [_Annual report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679) (p. 49). Singapore: The Board. (Call no.: RCLOS 301.426 SFPPBA)
+
+[^25]: Lyons, L. (2007). (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008) (p. 31). Leiden: Brill. (Call no.: RSING 305.42095957 LYO) (Cannot find year 2007 edition)
+
+[^26]: [Singapore Family Planning and Population Board](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1975, p. 49.
+
+[^27]: Wong & Yeoh, 2003, pp. 11–12.  (https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746)  
+
+[^28]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 31.
+
+[^29]: Singapore. Ministry of Community Development, Youth and Sports; National Family Council (Singapore). (2011). _State of the family report 2011_. Singapore: National Family Council and Ministry of Community Development, Youth and Sports. (Not available in NLB holdings)
+
+[^30]: [Coontz](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797), 2000, introduction.
+	
+	
+
+
+
+
+
 </div>
