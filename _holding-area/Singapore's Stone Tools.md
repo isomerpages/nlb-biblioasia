@@ -81,5 +81,16 @@ The stone tool technology then transitioned into highly polished stone adzes, ax
 
 There are possibilities for further research on the stone tools discovered in Singapore, particularly in terms of the excavation notes (if any are to be found) and the research methods. Given that radiometric dating was not conducted for the sites with the artefacts, it cannot be determined whether the tools were used or made much later for their healing and magical properties. (There is ethnographic evidence to suggest that stone tools may have had a secondary use as thunderstones associated with magic rituals [Indonesian/Malay: batu halilintar or batu lintar] and this may be part of a larger global phenomenon.)
 
-All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find. 
+All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">For more on the Asian Film Archive, go to www.asianfilmarchive.org.</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Chew_Tee_Pao.png" style="width: 100px; height: 100px;"/>
+	<b>Chew Tee Pao</b> has been with the Asian Film Archive (AFA) since 2009. As an archivist since 2014, he has overseen the restoration of over 30 films from the AFA collection.</div>
+	
+
+#### **NOTES**
+
+[^1]: Ray Edmondson, “The Building Blocks of Film Archiving,” *Journal of Film Preservation* 24, no. 50 (March 1995): 55–58. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
