@@ -235,7 +235,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^7]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 81.
 
-[^8]: Translation referenced from Zvelebil, *Tiru Murugan*, 32; and Vaidehi Herbert’s translations of Sangam poetry, “Sangam Poems Translated by Vaidehi,” accessed 20 September 2022, https://sangamtranslationsbyvaidehi.com.[The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.]
+[^8]: Translation referenced from Zvelebil, *Tiru Murugan*, 32; and Vaidehi Herbert’s translations of Sangam poetry, “Sangam Poems Translated by Vaidehi,” accessed 20 September 2022, https://sangamtranslationsbyvaidehi.com. [The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.]
 
 [^9]: The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.
 
