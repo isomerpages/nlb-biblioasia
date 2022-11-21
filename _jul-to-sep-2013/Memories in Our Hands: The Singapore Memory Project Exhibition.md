@@ -94,6 +94,8 @@ Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist
 
 
 
+
+
 <div>
 <b>Tan Huism</b> is the Head of Exhibitions and Curation with the National Library. Huism started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</div>
 
