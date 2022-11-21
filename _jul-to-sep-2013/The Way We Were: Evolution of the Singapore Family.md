@@ -7,6 +7,11 @@ description: "In conjunction with the launch of the exhibition “Roots: Tracing
 ---
 #### In conjunction with the launch of the exhibition “Roots: Tracing Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates on the question of families in Singapore.
 
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Straits%20Chinese1.jpg">
+<div style="background-color: white;">A photo of Straits Chinese, Tan Ah Boon and his family, in 1860. <i>Courtesy of National Archives Singapore.</i></div>
+
+
 At a local university, a sociology lecturer receives the following responses from her students to her question on what a typical Singapore family would look like: a nuclear family, with two children, plus a cat or a dog. Do these “educated perceptions” reflect the public imagination of the Singapore family? Or, can families be imagined or constructed in other ways? By demystifying family and the “traditional family”, we see that most idealistic notions of family are far from what we might imagine. More significantly, an overemphasis on personal responsibility for strengthening family values encourages a way of thinking that leads to moralising rather than mobilising concrete reforms.[^1] Hence, examining families in the past allows us to see the relationship of families to public policies on families.
 
 In this article, we explore how changing family structures in Singapore are a means of understanding Singapore’s history, identity formation as well as changing identities. There is no fixed definition of family as the concept is a social construct that varies across time and space. Yet, it is the most basic form of human organisation. Anthropologists have argued that all human societies are organised into some type of family. The universality of family is predicated upon certain characteristics that families are founded upon.
@@ -34,6 +39,11 @@ The Malays, at this point, were a harder group of people to define. Linguistic a
 
 With the “civilising mission” as justification for colonialism, the British took an anthropological approach in their task of documenting the lifestyles and cultures of the natives. Through such understanding, the colonials hoped to colonise the natives better, inviting as little opposition as possible to their rule. The British discovered many indigenous people living in the forests or sea such as the Semangs or the Orang Laut. Indigenous families tended to live in small groups and lived wherever there was food. This small nuclear family type enabled families to move to wherever the food was.[^4] The same could also be said about the Orang Laut (meaning sea people), which was another group of indigenous people who had lived in the area for centuries,[^5] “almost the whole of their life being spent upon the water in a wretched little canoe… A man and his wife and one or two children are usually to be found in these miserable *sampans*, for subsistence they depend on their success in fishing.”[^6]
 
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Malay%20family1.jpg">
+<div style="background-color: white;">Photograph of a Malay family taken in 1900. <i>Courtesy of National Archives Singapore.</i></div>
+	
+
 During this period, the British classified the Malays into two classes, the native and the foreign Malays. This division was more geographical than ethnographical. According to Frank Swettenham, in *British Malaya*, the Malays are descendants of people who crossed from the south of India to Sumatra, mixed with a people already inhabiting that island, and gradually spread themselves over the most central and fertile States \[of Malaya\]. Foreign Malays came to Malaya from the borders of Kedah, Patani, Kelantan and the Southern Siamese states, including those from the seas —Acehnese, Javanese, Mandalings, Minangkabau, Palembang, Labuan, Borneo and Bugis. The native Malays are the descendants of the old Sumatran colonialists and intermarried with local aborigines and subsequent immigrants. There is an impression that the Malays live as part of the extended family,
 
 … He never fails in respect towards his superiors. He has a proper reverence for constituted authority… His domestic life is almost idyllic. Towards his servants he is considerate and friendly… He is indulgent to his wife, and perhaps even more so to his children, whom he generally spoils. He supports his own relatives through thick and thin, but his sense of charity does not take him beyond the family circle. He is content to live in his own life in the bosom of his family like, a “frog beneath a coconut shell *[katak di bawah tempurung]*. [^7]
@@ -48,6 +58,10 @@ Population began to increase rapidly with the great influx of immigration, despi
 
 In his report on population trends in Singapore from 1819 to 1967, Saw states that “there is reason to believe that the women enumerated in the early censuses did not come direct from China but were mixed-blooded \[Baba\] women”. In addition, Charles Buckley mentioned that in 1837 “no Chinese women had come to Singapore and from China, and the newspapers said that, in fact, only two genuine Chinese women were … small-footed ladies, who had been some years before, exhibited in England”.[^10] Even J. D. Vaughn noted as late as 1876 that he knew of “no instance of a respectable Chinese woman emigrating with her husband”.[^11] This confirms that the Chinese men came to Singapore without bringing their wives. As temporary settlers, it had been convenient to leave their wives and children in China. Furthermore, policies in China discouraged women from leaving in order to maintain ties with the overseas Chinese as well as to “ensure a flow of remittances from them”. It was only during the 20th century that a movement towards a more balanced sex ratio was observed. The relaxation of immigration laws during the 1880s and 1930s saw large-scale migration of female immigrants from China and India.[^12]
 
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Chinese%20family1.jpg">
+<div style="background-color: white;">Photograph of a Chinese family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
+
 Meanwhile, the disparity in the sex ratio for the Chinese group created the Peranakan group.[^13] The Chinese who were born in Singapore tended to mix more with other ethnic groups and there was a trend “towards inter-ethnic marriages, especially between Chinese men and Malay women”. This was clearly reflected in the existence of a group called “Babas”. It was also likely that these unions were Sino-Orang Laut unions as observed by British colonial writers.
 
 Hence, the Chinese female figure in the sex ratio that was reported by Saw is believed to be represented by Baba women. For the Chinese Peranakans during this period, the extended family was the norm.[^14]
@@ -57,6 +71,10 @@ In the beginning of the 20th century, Chinese communities in Singapore and Malay
 For Indians during this period, however, intermarriages within the different Indian language groups and between Indians and other racial groups were even rarer. The Indians would return home to marry and leave their wives with their extended patrilineal families in India. Their lives in the region were focused on employment and trade. They would bring their wives and children to Singapore or Malaya when they had children, especially sons whom they wanted to educate in Malaya and Singapore.
 
 Hence, as opposed to the Malays, Eurasians and the Peranakan Chinese who were part of large extended families, the Indians and Chinese migrants on the other hand who came from extended families in India and China respectively were forced to set up nuclear families as a result of migration.
+
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Indian%20family1.jpg">
+<div style="background-color: white;">Photograph of an Indian family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
 
 #### **Rise of Interethnic Adoption**
 
@@ -77,6 +95,10 @@ With the passing of the Women’s Charter in 1961, monogamy was the only legal m
 In the early years of Singapore’s independence, the government was faced with the formidable task of providing education, health services and housing to a population that was growing rapidly due to the post-war economic boom. Family planning was thus regarded as a necessary measure in order for the government to adequately tackle issues arising from planning for the national economy to welfare services for the republic’s citizens.[^22]
 
 The objective of the Singapore Family Planning and Population Board (SFPPB), created in 1966, was to exhort families to plan for smaller families. Its campaigns were aimed at less educated and lower income groups, encouraging them to have only two children so that their offspring would have a better chance in life.[^23] The benefits of a small family were widely publicised through 35,000 posters and 100,000 leaflets, as well as a range of other publicity efforts.[^24]
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Lauw%20family.jpg">
+<div style="background-color: white;">The Lauw family with their three children buck the trend of one-child families in Singapore. <i>Courtesy of the Lauw family.</i></div> 
 
 This anti-natalist stance was taken to encourage more women to join the workforce in order to increase the manpower needed for Singapore’s industrialisation needs. The birth control policies were so effective that the birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965 to 1.7 in 1992.[^25] With the two-child message entrenched, the family programme proceeded to focus its efforts on encouraging wider intervals between each birth, and dissuading young people from early marriage and parenthood.[^26]
 
