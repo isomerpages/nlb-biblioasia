@@ -5,9 +5,6 @@ description: Memories and history are viewed differently. Find out how the
   Singapore Memory Project captures such memories and provide us with another
   way of looking at Singapore aside from linear historicity.
 ---
-
-
-
 #### Memories and history are viewed differently. Find out how the Singapore Memory Project captures such memories and provide us with another way of looking at Singapore aside from linear historicity.
 
 Without our memories, we would not be able to perform the simplest everyday task, create meaning in our lives, or construct our sense of identity—our identities are anchored to what we choose to remember of ourselves. While memories are personal and internal, derived from an individual’s experiences in life, our memories are also cultural, drawing from and shaped by our social and cultural circumstances.1 Just like an individual, a group without memories would not know how to distinguish itself from others, nor understand what it stands for, or its values.
@@ -41,11 +38,4 @@ This year, aside from collecting, preserving and presenting memories on its digi
 	
 Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
 </span>
-<br>	
-	
-
-
-
-
-
-
+<br>
