@@ -132,7 +132,7 @@ We need to develop a clearer sense of how past families actually functioned and 
 
 
 <div>
-<b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. 
+<b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. </div>
 	
 	
 #### **REFERENCES**	
