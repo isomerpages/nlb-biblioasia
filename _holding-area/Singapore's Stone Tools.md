@@ -164,7 +164,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^33]: Clinnick and Lim, “In Search of Prehistoric Singapore.”
 
-[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” Advances in Archaeological Method and Theory 10 (1987): 93–210. (From JSTOR via NLB’s eResources website) 
+[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s eResources website) 
 
 [^35]: Defri Elias Simatupang et al., “Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau,” Berita Penelitian Arkeologi 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
 
