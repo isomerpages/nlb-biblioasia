@@ -214,9 +214,9 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in The *Oxford Handbook of Early Southeast Asia*, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
 
-[^59]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” Antiquity 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
+[^59]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
 
-[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” Quaternary International 223, no. 3 (2010): 418. 
+[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” *Quaternary International* 223, no. 3 (2010): 418. 
 
 [^61]: Hubert Forestier, et al., “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” L’Anthropologie 126, no. 1 (January–March 2022), 102996: 32. 
 
