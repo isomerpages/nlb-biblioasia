@@ -212,7 +212,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^57]: Leong Sau Heng, “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” *Indo-Pacific Prehistory Association Bulletin* 10 (1991): 153; Stephen Chia, “Archaeological Evidence of Early Human Occupation in Malaysia,” in *Austronesian Diaspora and the Ethnogenesis of People in Indonesian Archipelago*, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
 
-[^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in The Oxford Handbook of Early Southeast Asia, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
+[^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in The *Oxford Handbook of Early Southeast Asia*, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
 
 [^59]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” Antiquity 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
 
