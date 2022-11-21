@@ -193,8 +193,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 	
 #### **NOTES**
 	
-   
-       
+      
 
 [^1]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 1992, p. 22.
 
