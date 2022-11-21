@@ -100,33 +100,33 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^1]: John N. Miksic, *Singapore & The Silk Road of the Sea: 1300–1800* (Singapore: NUS Press and National Museum Singapore), 209–63. (From National Library, Singapore, call no. RSING 959.57 MIK-[HIS]); The last in-depth publication that discusses stone tools in Singapore is Alexandra Avieropoulou Choo, *Archaeology: A Guide to the Collections, National Museum Singapore*, ed. Jane Puranananda (Singapore: National Museum of Singapore, 1987), 5–17. (From National Library, Singapore, call no. RSING 934.1074095957 CHO)
 
-[^2]: Miksic, Singapore & The Silk Road, 217–18.
+[^2]: Miksic, *Singapore & The Silk Road*, 217–18.
 
-[^3]: When considering what is natural or shaped by hominins, the knowledge of fracture mechanics is important. See William Andrefsky Jr., Lithics: Macroscopic Approaches to Analysis, 2nd ed. (Cambridge: Cambridge University Press, 2005), 11. 
+[^3]: When considering what is natural or shaped by hominins, the knowledge of fracture mechanics is important. See William Andrefsky Jr., *Lithics: Macroscopic Approaches to Analysis*, 2nd ed. (Cambridge: Cambridge University Press, 2005), 11. 
 
-[^4]: Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the Hunter’ and the Sexual Division of Labor,” Current Anthropology 50, no. 1 (February 2009), 51. (From EBSCOHOST via NLB’s eResources website)
+[^4]: Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the Hunter’ and the Sexual Division of Labor,” *Current Anthropology* 50, no. 1 (February 2009), 51. (From EBSCOHOST via NLB’s eResources website)
 
-[^5]: M.W.F. Tweedie, “The Stone Age of Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 6–7. (From JSTOR via NLB’s eResources website); M.W.F. Tweedie, “The Malayan Neolithic,” Journal of the Polynesian Society 58, no. 1 (March 1949): 19–35. (From JSTOR via NLB’s eResources website). Roger Duff, Stone Adzes of Southeast Asia: An Illustrated Typology (Christchurch: Canterbury Museum Trust Board, 1970). (From National Library, Singapore, call no. RCLOS 915.903 DUF) 
+[^5]: M.W.F. Tweedie, “The Stone Age of Malaya,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 2 (162) (October 1953): 6–7. (From JSTOR via NLB’s eResources website); M.W.F. Tweedie, “The Malayan Neolithic,” *Journal of the Polynesian Society* 58, no. 1 (March 1949): 19–35. (From JSTOR via NLB’s eResources website). Roger Duff, *Stone Adzes of Southeast Asia: An Illustrated Typology* (Christchurch: Canterbury Museum Trust Board, 1970). (From National Library, Singapore, call no. RCLOS 915.903 DUF) 
 
-[^6]: Mike J.C. Walker, Quaternary Dating Methods (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia,” Bulletin of the Indo-Pacific Prehistory Association 29 (June 2009): 2–5. 
+[^6]: Mike J.C. Walker, *Quaternary Dating Methods* (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia,” *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5. 
 
-[^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” The Prehistoric Society 32 (December 1966): 352–53. 
+[^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” *The Prehistoric Society* 32 (December 1966): 352–53. 
 
-[^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” Nature 521 (May 2015): 310–15.
+[^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15.
 
-[^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” Muse SG 10, no. 2 (2018): 40.
+[^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” *Muse* SG 10, no. 2 (2018): 40.
 
-[^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” Asian Perspectives 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s eResources website)
+[^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian* Perspectives 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s eResources website)
 
 [^11]: Rambo, “Stone Tool Use,” 116–17.
 
-[^12]: Tweedie, “Stone Age of Malaya,” 69; Urban Redevelopment Authority (Singapore), Tuas Planning Area: Planning Report 1996 (Singapore: Urban Redevelopment Authority, 1996), 8. (From National Library, Singapore, call no. RSING 711.4095957 SIN)
+[^12]: Tweedie, “Stone Age of Malaya,” 69; Urban Redevelopment Authority (Singapore), *Tuas Planning Area: Planning Report 1996* (Singapore: Urban Redevelopment Authority, 1996), 8. (From National Library, Singapore, call no. RSING 711.4095957 SIN)
 
-[^13]: Henry Nicholas Ridley, HN Ridley's Notebooks, vols. 2–6, 1880–1909, National Library of Australia. (From National Archives of Singapore, accession no. M771)
+[^13]: Henry Nicholas Ridley, *HN Ridley's Notebooks*, vols. 2–6, 1880–1909, National Library of Australia. (From National Archives of Singapore, accession no. M771)
 
-[^14]: War Office, “The Singapore Naval Base,” 1924–1933, The National Archives, United Kingdom, 70. (From National Archives of Singapore, accession no. WO 106/132); Chia Lin Sien, Habibullah Khan and Chou Loke Ming, The Coastal Environmental Profile of Singapore (Manila: International Center for Living Aquatic Resources Management, 1988), 41. (From National Library, Singapore, call no. RCLOS 333.917095957 CHI); Urban Redevelopment Authority (Singapore), Tuas Planning Area, 11.
+[^14]: War Office, “The Singapore Naval Base,” 1924–1933, The National Archives, United Kingdom, 70. (From National Archives of Singapore, accession no. WO 106/132); Chia Lin Sien, Habibullah Khan and Chou Loke Ming, *The Coastal Environmental Profile of Singapore* (Manila: International Center for Living Aquatic Resources Management, 1988), 41. (From National Library, Singapore, call no. RCLOS 333.917095957 CHI); Urban Redevelopment Authority (Singapore), *Tuas Planning Area*, 11.
 
-[^15]: Nancy Koh, “Seeing Old Singapore in a Lump of Clay,” Straits Times, 19 November 1987, 2. (From NewspaperSG)
+[^15]: Nancy Koh, “Seeing Old Singapore in a Lump of Clay,” *Straits Times*, 19 November 1987, 2. (From NewspaperSG)
 
 [^16]: Ian C. Glover, “Connecting Prehistoric and Historic Cultures in Southeast Asia,” Journal of Southeast Asian Studies 47, no. 3 (October 2016): 507. (From JSTOR via NLB’s eResources website); Rambo, “Stone Tool Use,” 116–17; Dietrich Stout, “Skill and Cognition in Stone Tool Production,” Current Anthropology 43, no. 5 (December 2002): 693–722. (From EBSCOhost via NLB’s eResources website)
 
