@@ -24,7 +24,7 @@ This year, aside from collecting, preserving and presenting memories on its digi
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <br><br>
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
    <br><br>	
 	“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
@@ -40,7 +40,22 @@ Excerpts from an interview with Singapore's first local Postmaster General, Mr B
 </span>
 <br>
 
+#### **“Hands: Gift of a Generation” Exhibition**
 
+Memories are stored in our brains and are made visible through recollection and representation7 in the form of language. However, memories are also embodied and expressed through our body and bodily practices.8 The focus of the SMP for 2013 is on the lives and memories of the people who lived through the country’s nation building years.
+
+To symbolise the lives of first-generation Singaporeans and their life’s work, the exhibition will be built around the imagery of hands. Our hands are not only tools we use to shape the world around us, but also the means through which we interact with the environment and one another. They allow us not only to touch the world in which we live, but also allow us to be shaped and nurtured by others.
+
+In keeping with the participatory nature of SMP, “Hands” has been conceptualised as part of its on-going engagement process. Through various programmes (via schools and the community), the public is encouraged to source, document and share memories. These include working with students or with SMP’s volunteer group, the Memory Corps, who conduct interviews with people who have interesting stories to share. These all contribute toward our exhibition content. These memories will either take the form of a physical text with an accompanying photograph of the contributor’s hands, or virtually on a digital wall of memories. Visitors will be able to interact with the digital wall and be encouraged to share their own memories.
+
+This exhibition could use objects to help to elicit and trigger memories. Often we think of objects in tangible forms, for example, a typewriter. However in “Hands”, we have chosen to privilege the intangible objects in the form of sounds. These intangible objects will not be displayed as in a historical exhibition with the relevant contextual information. Instead, we hope that the featured sounds would impress something upon each visitor so that the visitor can in turn share his or her memories with others.
+
+Individual personal memories are always shaped by collective contexts. As an individual, we carry memories that we might not have experienced directly, such as memories of others learnt through family stories or school. The exhibition has been guided through this understanding of personal memories that are on one hand, personal and unique and on the other, reflective of the interconnections between generation, culture and the context of living in Singapore. “Hands” provides a platform for remembering and transmission, and is a site for interaction between the memories shared and the visitors who encounter them.
+
+Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects. — susan a. crane9
+<div style="text-align: right">— Susan A. Crane9</div>
+
+<i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
 
 
 
