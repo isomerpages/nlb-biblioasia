@@ -194,15 +194,15 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^48]: Adam Brumm, “The Movius Line and the Bamboo Hypothesis: Early Hominin Stone Technology in Southeast Asia,” *Lithic Technology* 35, no. 1 (Spring 2010): 8 (From JSTOR via NLB’s eResources website)
 
-[^49]: A core refers to the source stone that you can remove one or more flakes from through a process called knapping (think of it as the source stone from which you can make new stone tools by chipping bits off). Platforms refer to the surface area that shows the impact of the detachment strike. See Andrefsky, Lithics, 254, 262.
+[^49]: A core refers to the source stone that you can remove one or more flakes from through a process called knapping (think of it as the source stone from which you can make new stone tools by chipping bits off). Platforms refer to the surface area that shows the impact of the detachment strike. See Andrefsky, *Lithics*, 254, 262.
 
-[^50]: The Pleistocene is a geological epoch that roughly corresponds with the most recent Ice Age and is dated from approximately 2.6 million years ago to 9,700 BCE. See Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in The Geologic Time Scale (Oxford, U.K.: Elsevier, 2012), 979.
+[^50]: The Pleistocene is a geological epoch that roughly corresponds with the most recent Ice Age and is dated from approximately 2.6 million years ago to 9,700 BCE. See Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in The *Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 979.
 
-[^51]: Flaked artefacts refer to a portion of rock detached from a core either by percussive flaking or pressure flaking. See Andrefsky, Lithics, 255.
+[^51]: Flaked artefacts refer to a portion of rock detached from a core either by percussive flaking or pressure flaking. See Andrefsky, *Lithics*, 255.
 
 [^52]: The Holocene is the current geological epoch, which began at approximately 9,700 BCE. It refers to a time after the most recent Ice Age. See Pillans and Gibbard, “Quaternary Period,” 999–1000.
 
-[^53]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in The Oxford Handbook of Early Southeast Asia, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 126, 131. (From National Library, Singapore, call no. RSEA 959.01 OXF); Rasmi Shoocongdej, “The Hoabinhian: The Late and Post-Pleistocene Cultural Systems of Southeast Asia,” in The Oxford Handbook of Early Southeast Asia, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 156. (From National Library, Singapore, call no. RSEA 959.01 OXF); Jusoh, Saidin and Ramli, “Zaman Paleolitik,” 27. 
+[^53]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in *The Oxford Handbook of Early Southeast Asia*, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 126, 131. (From National Library, Singapore, call no. RSEA 959.01 OXF); Rasmi Shoocongdej, “The Hoabinhian: The Late and Post-Pleistocene Cultural Systems of Southeast Asia,” in The Oxford Handbook of Early Southeast Asia, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 156. (From National Library, Singapore, call no. RSEA 959.01 OXF); Jusoh, Saidin and Ramli, “Zaman Paleolitik,” 27. 
 
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “Zaman Paleolitik,” 36.
 
