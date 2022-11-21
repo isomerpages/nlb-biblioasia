@@ -168,7 +168,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^35]: Defri Elias Simatupang et al., “Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau,” Berita *Penelitian Arkeologi* 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in *Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah* ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
 
-[^36]: Ketut Wiradnyana et al., “Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara,” in Berita Penelitian Arkeologi 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34.
+[^36]: Ketut Wiradnyana et al., “Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara,” in *Berita Penelitian Arkeologi* 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34.
 
 [^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” Sangkahala: Berkala Arkeologi 13, no. 26 (2010): 226. 
 
