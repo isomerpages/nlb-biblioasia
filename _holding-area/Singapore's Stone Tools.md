@@ -158,7 +158,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
-[^31]: Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” Sunday Tribune (Singapore), 23 October 1949, 4. (From NewspaperSG) 
+[^31]: Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
 
 [^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” Journal of the Malayan Branch of the Royal Asiatic Society 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
 
