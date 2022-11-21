@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Singapore's Stone Tools.md
       - Repairing and Restoring Singapore’s Reel Heritage.md
       - Test page.md
