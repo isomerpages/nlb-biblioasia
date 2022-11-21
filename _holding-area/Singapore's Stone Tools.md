@@ -10,7 +10,7 @@ By Foo Shu Tieng
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
 <div style="background-color: white;">Neng Yatimah and P. Ramlee in <i>Patah Hati</i> by K.M. Basker. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
 
-Much of the archaeological research on Singapore since the 1980s – whether land-based or maritime – has focused on historic periods, particularly the era from the 14th to the 20th centuries. However, scholars have long suspected that the islands that make up Singapore might have been occupied several thousand years ago and that stone tools may provide the evidence for that period. 
+Much of the archaeological research on Singapore since the 1980s – whether land-based or maritime – has focused on historic periods, particularly the era from the 14th to the 20th centuries.[^1] However, scholars have long suspected that the islands that make up Singapore might have been occupied several thousand years ago and that stone tools may provide the evidence for that period.[^2] 
 
 Stone tools are stones that often bear the characteristics of being deliberately shaped and/or use marks. Stone tools were initially attributed to male-hunting activities, but studies have since shown that hunting methods were gender-neutral.
 
