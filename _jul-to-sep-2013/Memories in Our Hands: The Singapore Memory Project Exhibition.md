@@ -29,7 +29,7 @@ Where are memories kept? Memory by its nature is “mortal, linked to the brain 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
 <div style="background-color: white;">
 Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM.</i>
-
+</div>
 	
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
