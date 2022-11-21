@@ -28,8 +28,9 @@ Where are memories kept? Memory by its nature is “mortal, linked to the brain 
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
 <div style="background-color: white;">
-Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM</i>.
+Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM.</i>
 
+	
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
 
@@ -48,8 +49,8 @@ This year, aside from collecting, preserving and presenting memories on its digi
 “<i>And then we had difficulties because the rural area; there was a lot of development and the postman on bicycles could not go, so we introduced motorcycles to deliver the mail. But earlier on, there were problems of postmen delivery. They used to be chased by dogs. “The postman had a wonderful job. The motto was ‘The mail must go on – rain or shine</i>’”.
 	<br><br>
 Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
-</span>
-<br>
+
+
 
 #### **“Hands: Gift of a Generation” Exhibition**
 
