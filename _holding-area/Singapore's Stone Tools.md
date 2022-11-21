@@ -140,12 +140,18 @@ All the stone tool sites described earlier were either found along coastal or in
 [^23]: Tweedie, “Stone Age in Malaya,” 69, 85.
 
 [^24]: Tweedie, “Stone Age in Malaya,” 69, 84–85.
-Stephen Chua et al., “A New Holocene Sea-level Record for Singapore,” The Holocene 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore,” Estuarine Coastal and Shelf Science 71, no. 3–4 (February 2007): 523.
-Tweedie, “Stone Age in Malaya,” 85.
-Ahmad Hakimi Khairuddin, “Penempatan Masyarakat Neolitik di Johor,” in Arkeologi Di Malaysia: Dahulu Dan Kini, ed. Asyaari Muhamad (Kuala Lumpur: Universiti Kebangsaan Malaysia, 2018), 86–89. (From National Library, Singapore, call no. Malay RSEA 939.595 ARK); Omar and Muhammad Affizul Misman, “Extents and Distribution of Mangroves in Malaysia,” in Status of Mangroves in Malaysia, ed. Hamdan Omar, Tariq Mubarak Husin and Ismail Parlan (Selangor Darul Ehsan: Forest Research Institute Malaysia, 2020), 12–37.
-H.R. van Heekeren, The Stone Age of Indonesia, 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat,” Naditira Widya 6, no. 1 (April 2012), 5–13.
-E.g. Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” Antiquity 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology,” Evolution: Education and Outreach 4 (2011): 435.
-Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” Sari – International Journal of the Malay World and Civilisation 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” Straits Times, 13 June 1953, 1. (From NewspaperSG)
+
+[^25]: Stephen Chua et al., “A New Holocene Sea-level Record for Singapore,” The Holocene 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore,” Estuarine Coastal and Shelf Science 71, no. 3–4 (February 2007): 523.
+
+[^26]: Tweedie, “Stone Age in Malaya,” 85.
+
+[^27]: Ahmad Hakimi Khairuddin, “Penempatan Masyarakat Neolitik di Johor,” in Arkeologi Di Malaysia: Dahulu Dan Kini, ed. Asyaari Muhamad (Kuala Lumpur: Universiti Kebangsaan Malaysia, 2018), 86–89. (From National Library, Singapore, call no. Malay RSEA 939.595 ARK); Omar and Muhammad Affizul Misman, “Extents and Distribution of Mangroves in Malaysia,” in Status of Mangroves in Malaysia, ed. Hamdan Omar, Tariq Mubarak Husin and Ismail Parlan (Selangor Darul Ehsan: Forest Research Institute Malaysia, 2020), 12–37.
+
+[^28]: H.R. van Heekeren, The Stone Age of Indonesia, 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat,” Naditira Widya 6, no. 1 (April 2012), 5–13.
+
+[^29]: E.g. Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” Antiquity 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology,” Evolution: Education and Outreach 4 (2011): 435.
+
+[^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” Sari – International Journal of the Malay World and Civilisation 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” Straits Times, 13 June 1953, 1. (From NewspaperSG)
 Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” Sunday Tribune (Singapore), 23 October 1949, 4. (From NewspaperSG) 
 P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” Journal of the Malayan Branch of the Royal Asiatic Society 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
 Clinnick and Lim, “In Search of Prehistoric Singapore.”
