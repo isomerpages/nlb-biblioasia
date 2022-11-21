@@ -160,7 +160,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^31]: Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
 
-[^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” Journal of the Malayan Branch of the Royal Asiatic Society 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
+[^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” *Journal of the Malayan Branch of the Royal Asiatic Society* 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
 
 [^33]: Clinnick and Lim, “In Search of Prehistoric Singapore.”
 
