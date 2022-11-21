@@ -5,7 +5,6 @@ description: "Thaipusam speaks of a migratory community that carries its
   deep-rooted cultural tradition wherever its people go. "
 image: /images/Vol 18 Issue 4/Thaipusam/Image 1.png
 ---
-
 #### Thaipusam speaks of a migratory community that carries its deep-rooted cultural tradition wherever its people go. 
 By Nalina Gopal
 
@@ -57,7 +56,7 @@ Murugan’s roots in a long and rich Tamil cultural heritage is perhaps one of t
 You swirled your weapon<br> 
 and destroyed Sur[an], personified fear, who had taken the form of a moving mango tree[^8]
 
-<div style="text-align: right"> – Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4)<sup>9</sup></div>
+<div style="text-align: right"> – Lines written by Kaduvan Ilaveyinanaar and set to music by Kannanaakanaar appearing in the Paripadal (V: 3–4)</div>
 
 Perhaps the most central myth in Murugan worship involves him vanquishing the demon Sur or Suran, a myth known as early as the 1st century CE.[^10] In preparation for the battle, he is presented with a *vel* by Sakti, the wife of Siva. The day he was given the invincible *vel* is celebrated as Thaipusam (named after the day in which the Pusam star is exalted in the month of Thai). 
 
@@ -236,7 +235,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^7]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 81.
 
-[^8]: Translation referenced from Zvelebil, *Tiru Murugan*, 32; and Vaidehi Herbert’s translations of Sangam poetry, “Sangam Poems Translated by Vaidehi,” accessed 20 September 2022, https://sangamtranslationsbyvaidehi.com.
+[^8]: Translation referenced from Zvelebil, *Tiru Murugan*, 32; and Vaidehi Herbert’s translations of Sangam poetry, “Sangam Poems Translated by Vaidehi,” accessed 20 September 2022, https://sangamtranslationsbyvaidehi.com.[The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.]
 
 [^9]: The Paripadal, the fifth of the Eight Anthologies (Ettuthokai), dating to the 5th to 6th century CE, contains one of the earliest collection of hymns dedicated to Murugan. The Eight Anthologies is a classical Tamil poetic work that forms part of the Eighteen Greater Texts (Pathinenkilkanakku) in Sangam Literature.
 
