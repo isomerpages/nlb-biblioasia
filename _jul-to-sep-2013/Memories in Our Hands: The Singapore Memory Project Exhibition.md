@@ -25,20 +25,22 @@ This year, aside from collecting, preserving and presenting memories on its digi
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <br><br>
 <img style="width: 50%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
+   <br><br>	
+	“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
+      <br><br>
+“<i>When we became separated \[from Malaya\], we had new problems. The new problems for instance, the Housing Boards \[flats\] were coming up and a lot of correspondence was delivered. And postmen found it very difficult to go and deliver</i>."
+   <br><br>	
+“<i>So there was talk about having boxes in the flats and for that we had a lot of problems. The National Development Board was rather reluctant to establish post office boxes, because they occupied space that could make them money</i>."
  <br><br>	
-“*I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen*."
- <br><br>
-“*When we became separated \[from Malaya\], we had new problems. The new problems for instance, the Housing Boards \[flats\] were coming up and a lot of correspondence was delivered. And postmen found it very difficult to go and deliver*."
-<br><br>	
-“*So there was talk about having boxes in the flats and for that we had a lot of problems. The National Development Board was rather reluctant to establish post office boxes, because they occupied space that could make them money*."
+“<i>A new legislation was introduced that every household must have a postbox so that we postmen can deliver, and all the offices, the big buildings must have boxes for us postmen to deliver</i>."
  <br><br>	
-“*A new legislation was introduced that every household must have a postbox so that we postmen can deliver, and all the offices, the big buildings must have boxes for us postmen to deliver*."
- <br><br>	
-“*And then we had difficulties because the rural area; there was a lot of development and the postman on bicycles could not go, so we introduced motorcycles to deliver the mail. But earlier on, there were problems of postmen delivery. They used to be chased by dogs. “The postman had a wonderful job. The motto was ‘The mail must go on – rain or shine*’”.
+“<i>And then we had difficulties because the rural area; there was a lot of development and the postman on bicycles could not go, so we introduced motorcycles to deliver the mail. But earlier on, there were problems of postmen delivery. They used to be chased by dogs. “The postman had a wonderful job. The motto was ‘The mail must go on – rain or shine</i>’”.
 	<br><br>
 Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
 </span>
 <br>
+
+
 
 
 
