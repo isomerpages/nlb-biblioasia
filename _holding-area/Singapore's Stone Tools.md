@@ -172,7 +172,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 [^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” *Sangkahala: Berkala Arkeologi* 13, no. 26 (2010): 226. 
 
-[^38]: Mokhtar Saidin, Jaffrey Abdullah and Jalil Osman, “Masa Depan USM Dan Usu Dalam Penyelidikan Arkeologi Serantau,” in *Prosiding Seminar Antarabangsa: Mengungkap Perabadan Asia Tenggara Melalui Tapak Padang Lawas Dan Tapak Sungai Batu, Kedah*, ed. Mokhtar Saidin and Suprayitno (Medan: Pusat Penyelidikan Arkeologi Global, Universiti Sains Malaysia, 2011), 4; Zuliskandar Ramli, “Zaman Prasejarah Di Malaysia Dalam Konteks Peninggalan Masyarakat Pesisir Pantai,” Jurnal Arkeologi Malaysia 28 (2015): 36. 
+[^38]: Mokhtar Saidin, Jaffrey Abdullah and Jalil Osman, “Masa Depan USM Dan Usu Dalam Penyelidikan Arkeologi Serantau,” in *Prosiding Seminar Antarabangsa: Mengungkap Perabadan Asia Tenggara Melalui Tapak Padang Lawas Dan Tapak Sungai Batu, Kedah*, ed. Mokhtar Saidin and Suprayitno (Medan: Pusat Penyelidikan Arkeologi Global, Universiti Sains Malaysia, 2011), 4; Zuliskandar Ramli, “Zaman Prasejarah Di Malaysia Dalam Konteks Peninggalan Masyarakat Pesisir Pantai,” *Jurnal Arkeologi Malaysia* 28 (2015): 36. 
 
 [^39]: Simatupang, “Ekskavasi Dan Kajian Manajemen,” 30–31, 42.
 
