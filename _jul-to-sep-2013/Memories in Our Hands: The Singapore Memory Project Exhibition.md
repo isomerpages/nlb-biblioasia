@@ -21,11 +21,10 @@ Where are memories kept? Memory by its nature is “mortal, linked to the brain 
 
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
+#### **You’ve Got Mail! Singapore’s First Postmaster General**
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<br><br>
 <img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
-   <br><br>	
+  <br><br>	 
 	“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
 “<i>When we became separated \[from Malaya\], we had new problems. The new problems for instance, the Housing Boards \[flats\] were coming up and a lot of correspondence was delivered. And postmen found it very difficult to go and deliver</i>."
@@ -58,12 +57,11 @@ Memory is an act of “thinking of things in their absence” which may well be 
 <i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
 
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<br><br>
+#### **Hello, Operator? Story of a Telephonist**
 
 <img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">President Yusof Ishak observing operators at Hill Street at work when he visited the Singapore Telephone Board in 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore</i>. 
 
-#### **Hello, Operator? Story of a Telephonist**
+
 
 <i>I applied for the job but it took some time for the reply to come to go for the interview. So straight after school, I \[worked\] as a sales girl in Robinsons. After a few months, they called me, I went for an interview. It was not an interview per se; I went into a room with a phone and I was supposed to speak to somebody on the phone. They were recording it, they sort of wanted to gauge your voice. Then they called you back for a second interview where you met people. I was one of the few non-Eurasians at the Singapore Telephone Board; it was strictly for Eurasians.
 <br><br>
@@ -78,9 +76,3 @@ Our kampong people looked after our kampong people. It was only the outside kamp
 Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
 </span>
 <br>
-
-
-
-
-
-
