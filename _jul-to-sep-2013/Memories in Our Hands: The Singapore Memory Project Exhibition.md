@@ -7,6 +7,12 @@ description: Memories and history are viewed differently. Find out how the
 ---
 #### Memories and history are viewed differently. Find out how the Singapore Memory Project captures such memories and provide us with another way of looking at Singapore aside from linear historicity.
 
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Ronald%20Simon1.jpg">
+<div style="background-color: white;">
+Mr Roland Vivian Simon, born in 1932, was a telephone operator at Sembawang Naval Base during the Japanese Occupation. His story will be one of many featured in "Hands".	</div>
+
+
 Without our memories, we would not be able to perform the simplest everyday task, create meaning in our lives, or construct our sense of identity—our identities are anchored to what we choose to remember of ourselves. While memories are personal and internal, derived from an individual’s experiences in life, our memories are also cultural, drawing from and shaped by our social and cultural circumstances.1 Just like an individual, a group without memories would not know how to distinguish itself from others, nor understand what it stands for, or its values.
 
 
@@ -19,7 +25,13 @@ Knowledge and remembering \[are\] in the hands and in the body.
 
 Where are memories kept? Memory by its nature is “mortal, linked to the brain and the body that bears it”.5 There are, however, memory warehouses in the form of libraries, archives and museums where memories are kept in material forms. The Singapore Memory Project (smp) is one such warehouse. Launched in August 2011, it is a nationwide initiative spearheaded by the National Library to capture the memories of Singapore —whether individual, organisational or collective. Memories are authentic voices enriching the telling of the past and providing another way of looking at Singapore aside from linear historicity.
 
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
+<div style="background-color: white;">
+Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM</i>.
+
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
+
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
