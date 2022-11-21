@@ -93,7 +93,7 @@ Our kampong people looked after our kampong people. It was only the outside kamp
 Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
 
 
-<div>
+
 <b>Tan Huism</b> is the Head of Exhibitions and Curation with the National Library. Huism started her curatorial career at the National Museum of Singapore before moving to the Asian Civilisations Museum, where she became Deputy Director of Curation and Collections.</div>
 
 
