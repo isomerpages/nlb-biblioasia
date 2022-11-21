@@ -90,20 +90,32 @@ All the stone tool sites described earlier were either found along coastal or in
 
 <table>  
   <tr>  
-    <th>Company</th>  
-    <th>Contact</th>  
-    <th>Country</th>  
+    <th>Geologic Time Scale</th>  
+    <th>Age</th>  
+    <th>Location (Note: In archaeology, the present is defined as 1950) </th>  
   </tr>  
   <tr>  
-    <td>Alfreds Futterkiste</td>  
-    <td>Maria Anders</td>  
-    <td>Germany</td>  
+    <td>Holocene </td>  
+    <td>11,800 years ago to the present
+(Post-Ice Age)</td>  
+    <td>Jenderam Hilir, Langsat Valley, Selangor, Malaysia: 3,650 years ago[^57] </td>  
   </tr>  
   <tr>  
-    <td>Centro comercial Moctezuma</td>  
-    <td>Francisco Chang</td>  
-    <td>Mexico</td>  
+    <td>Pleistocene</td>  
+    <td>2,588,000 to 11,800 years ago
+(The most recent Ice Age)</td>  
+    <td>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] <br>  
+Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] <br>  
+Sangiran, Central Java, Indonesia: 1 million years ago[^60] <br>  
+Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] <br>  
+Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62] </td>  
   </tr>  
+	  <tr>  
+    <td>Pliocene </td>  
+    <td>5,333,000 to 2,588,000
+years ago</td>  
+    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td>  
+  </tr>
 </table>
 
 <div style="background-color: white;">
