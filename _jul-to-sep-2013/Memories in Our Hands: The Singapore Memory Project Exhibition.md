@@ -31,6 +31,7 @@ Where are memories kept? Memory by its nature is “mortal, linked to the brain 
 Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM.</i>
 </div>
 	
+	
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
 
@@ -64,7 +65,7 @@ This exhibition could use objects to help to elicit and trigger memories. Often 
 
 Individual personal memories are always shaped by collective contexts. As an individual, we carry memories that we might not have experienced directly, such as memories of others learnt through family stories or school. The exhibition has been guided through this understanding of personal memories that are on one hand, personal and unique and on the other, reflective of the interconnections between generation, culture and the context of living in Singapore. “Hands” provides a platform for remembering and transmission, and is a site for interaction between the memories shared and the visitors who encounter them.
 
-Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects. — susan a. crane9
+Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects. 
 <div style="text-align: right">— Susan A. Crane9</div>
 
 <i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
@@ -85,7 +86,7 @@ I switched from an operator to a supervisor. It was not an easy time for there w
 		<br><br>
 Our kampong people looked after our kampong people. It was only the outside kampong people that made mischief. The Malays and Chinese in \[our\] kampong were looking after each other. The people from other kampongs \[snuck\] in and hit people... But it was not neighbour against neighbour. In Telecoms, you had people from all sorts of life and so all these stories were told. Our cleaner was hacked</i>.”
 			<br><br>
-Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.
+Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist at the Singapore Telephone Board. Mdm Teo worked with the organisation for 34 years.</div>
 
 
 <div>
