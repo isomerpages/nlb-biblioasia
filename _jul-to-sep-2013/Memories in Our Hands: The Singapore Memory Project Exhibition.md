@@ -26,7 +26,7 @@ Knowledge and remembering \[are\] in the hands and in the body.
 Where are memories kept? Memory by its nature is “mortal, linked to the brain and the body that bears it”.5 There are, however, memory warehouses in the form of libraries, archives and museums where memories are kept in material forms. The Singapore Memory Project (smp) is one such warehouse. Launched in August 2011, it is a nationwide initiative spearheaded by the National Library to capture the memories of Singapore —whether individual, organisational or collective. Memories are authentic voices enriching the telling of the past and providing another way of looking at Singapore aside from linear historicity.
 
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
 <div style="background-color: white;">
 Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM.</i>
 </div>
@@ -76,7 +76,7 @@ Memory is an act of “thinking of things in their absence” which may well be 
 
 #### **Hello, Operator? Story of a Telephonist**
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">President Yusof Ishak observing operators at Hill Street at work when he visited the Singapore Telephone Board in 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i>
+<img style="width: 70%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">President Yusof Ishak observing operators at Hill Street at work when he visited the Singapore Telephone Board in 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i>
 
 
 <i>I applied for the job but it took some time for the reply to come to go for the interview. So straight after school, I \[worked\] as a sales girl in Robinsons. After a few months, they called me, I went for an interview. It was not an interview per se; I went into a room with a phone and I was supposed to speak to somebody on the phone. They were recording it, they sort of wanted to gauge your voice. Then they called you back for a second interview where you met people. I was one of the few non-Eurasians at the Singapore Telephone Board; it was strictly for Eurasians.
