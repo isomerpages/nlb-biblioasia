@@ -132,8 +132,7 @@ We need to develop a clearer sense of how past families actually functioned and 
 
 
 <div>
-<b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. 
-</div>
+<b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. </div>
 	
 	
 #### **REFERENCES**	
@@ -193,6 +192,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 	
 #### **NOTES**
 	
+
 [^1]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 1992, p. 22.
 
 [^2]: [Borschberg](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13604401), 2011, p. 258.
@@ -253,13 +253,6 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^30]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 2000, introduction.
 
-
-
-
-
-
-	
-	
 
 
 
