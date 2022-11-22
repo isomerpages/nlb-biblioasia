@@ -21,7 +21,7 @@ sections:
       subtitle: Culture
       description: Thaipusam speaks of a migratory community that carries its
         deep-rooted cultural tradition wherever its people go.
-      button: Carrying the kavadi
+      button: Carrying the <i>kavadi</i>
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
       alt: Thaipusam
       image: /images/Kavadi resized.jpg
