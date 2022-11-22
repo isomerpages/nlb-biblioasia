@@ -8,7 +8,7 @@ description: "Inscribed in the urban landscape of Singapore, through buildings
 ---
 #### Inscribed in the urban landscape of Singapore, through buildings such as David Elias Building and the Abdullah Shooker Welfare Home, is the story of an oft-overlooked group in Singapore’s history: the Jewish community.
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Maghain%20Aboth%20Synagogue.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Maghain%20Aboth%20Synagogue.jpg">
  <div style="background-color: white;">
 Maghain Aboth Synagogue at Waterloo Street. <i>Ronni Pinsler Collection. Courtesy of National Archives of Singapore.</i></div> 
 
@@ -24,7 +24,7 @@ Buoyed by Singapore’s new status as the Straits Settlement capital, these Jewi
 Community historian Eze Nathan’s *The History of Jews in Singapore* provides an important portal into their lives. Like his father, they initially spoke Arabic or Hindustani and wrote in Hebrew. Their style of dress was Arabic, they smoked the *hookah* (an Oriental tobacco pipe), and without formal accountancy training, wrote business accounts on their shirt cuffs.[^7]
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20wedding.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20wedding.jpg">
  <div style="background-color: white;">Jewish wedding group photograph from 1954. <i>Courtesy of the National Archives of Singapore.</i></div>
  
  
@@ -37,7 +37,7 @@ Following a petition, the Governor allowed three trustees, going by the surnames
 The trustees were also awarded a 99- year lease for the first Jewish cemetery. Located at today’s Dhoby Ghaut MRT, the Orchard Road Cemetery, or Old Cemetery, was moulded out of “a very swampy area as is was known on the very fringe of the jungle”.[^14] It was to remain there until 1983, when the government repossessed it.
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20cemetery.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20cemetery.jpg">
  <div style="background-color: white;">
 Exhumation works at the Jewish cemetery at Orchard Road. <i>Ronni Pinsler Collection. Courtesy of National Archives of Singapore.</i></div>
 	
@@ -123,7 +123,7 @@ In 1955, David Marshall was elected Singapore’s first Chief Minister. His vict
 Yet, after the height of Marshall’s 1956 All-Party Constitutional Mission to Whitehall, his political career, mirroring the fate of the Baghdadi Jews, descended, ending in his loss in the 1963 General Election. By 1990, when the Baghdadi community had dwindled to a mere 180, Marshall mourned, “This remnant of a lost tribe is disappearing… We are a vanishing community.”[^55]
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Jewish%20community/David%20Elias%20Building.jpg">
+<img style="width:70%;" src="/images/Vol%209%20Issue%201/Jewish%20community/David%20Elias%20Building.jpg">
  <div style="background-color: white;">David Elias Building on Middle Road. <i>Courtesy of the National Archives of Singapore.</i></div>
 
 
