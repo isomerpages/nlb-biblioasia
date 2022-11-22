@@ -171,7 +171,7 @@ years ago</td>
 
 [^9]: David Clinnick and Sharon Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2),” *Muse* SG 10, no. 2 (2018): 40.
 
-[^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian* Perspectives 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+[^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian Perspectives* 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^11]: Rambo, “Stone Tool Use,” 116–17.
 
