@@ -96,6 +96,15 @@ It is also interesting to note that most calls by citizens have been for the pre
 
 Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices — from citizens, non-governmental organisations and even corporations — that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
 
+<center>&emsp; Citizens have become<br>
+&emsp;of this “City in<br>
+&emsp;a Garden”, where they are<br>
+&emsp;not passive consumers of a<br>
+&emsp;landscape defined by someone<br>
+&emsp;landscape defined by someone<br>
+&emsp;shaping it.<br></center>
+
+
 Citizens have become ’gardeners’ of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it.
 
 <div>
