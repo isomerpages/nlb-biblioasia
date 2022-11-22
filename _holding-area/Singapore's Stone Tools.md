@@ -205,7 +205,7 @@ years ago</td>
 
 [^26]: Tweedie, “Stone Age in Malaya,” 85.
 
-[^27]: Ahmad Hakimi Khairuddin, “Penempatan Masyarakat Neolitik di Johor,” in [*Arkeologi Di Malaysia: Dahulu Dan Kini*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203987462), ed. Asyaari Muhamad (Kuala Lumpur: Universiti Kebangsaan Malaysia, 2018), 86–89. (From National Library, Singapore, call no. Malay RSEA 939.595 ARK); Omar and Muhammad Affizul Misman, “Extents and Distribution of Mangroves in Malaysia,” in *Status of Mangroves in Malaysia*, ed. Hamdan Omar, Tariq Mubarak Husin and Ismail Parlan (Selangor Darul Ehsan: Forest Research Institute Malaysia, 2020), 12–37.
+[^27]: Ahmad Hakimi Khairuddin, “Penempatan Masyarakat Neolitik di Johor,” in [*Arkeologi Di Malaysia: Dahulu Dan Kini*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203987462), ed. Asyaari Muhamad (Kuala Lumpur: Universiti Kebangsaan Malaysia, 2018), 86–89. (From National Library, Singapore, call no. Malay RSEA 939.595 ARK); Omar and Muhammad Affizul Misman, “Extents and Distribution of Mangroves in Malaysia,” in [*Status of Mangroves in Malaysia*](https://www.mybis.gov.my/pb/4805), ed. Hamdan Omar, Tariq Mubarak Husin and Ismail Parlan (Selangor Darul Ehsan: Forest Research Institute Malaysia, 2020), 12–37.
 
 [^28]: H.R. van Heekeren, *The Stone Age of Indonesia*, 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat,” *Naditira Widya* 6, no. 1 (April 2012), 5–13.
 
