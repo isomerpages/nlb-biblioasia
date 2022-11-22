@@ -8,13 +8,13 @@ description: What started five decades ago as a government-led project to build
 #### What started five decades ago as a government-led project to build Singapore into a clean and green city, has today become a dialogue between the state and its citizens.
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa.jpg">
  <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, WIkimedia Commons, accessed 12 March 2013.</i></div>
 	
 
 A *Straits Times* photo of former Prime Minister Lee Kuan Yew launching Singapore’s first-ever tree planting campaign in 1963 best depicts how the idea of building Singapore into a Garden City first took root. As Mr Lee bent over to dig a hole with a *changkol* to plan a Mempat tree in Farrer Circus, Singaporeans stood around and watched — none of them offering a helping hand.
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Garden%20City/Annual%20Tree%20Planting%20Day.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Garden%20City/Annual%20Tree%20Planting%20Day.jpg">
  <div style="background-color: white;">Former Prime Minister Lee Kuan Yew planting a Yellow Flame tree on the Annual Tree Planting Day in 1971. <i>Courtesy of National Archives of Singapore.</i></div>
 	
  
@@ -41,8 +41,8 @@ From the beginning, the government has tried to get citizens involved in the mak
 Besides rallying people and corporations to participate in tree-planting efforts, the government tried to bring about wider community involvement in the 1970s by introducing tax reliefs for households that grew their own private gardens7 . With an increasing number of Singaporeans living in public housing by the 1980s, the government also started planting fruit trees in the estate’s common areas so that residents would maintain the gardens together and in the process develop a community spirit amongst themselves8 . This was the hope expressed by then-PM Lee, when he introduced this new stage of development for Singapore’s ambitions to be a Garden City. However, the former PM Lee also anticipated potential problems. “We have the knowledge; we have the artistic touch. We can now afford the cost. The question is, can we do it in such a way as to avoid vandalism or theft, without severe security measures which will destroy the aesthetic impact?” he asked. Adding that better fruit trees would only be planted later when higher social standards were the norm, he said, “Gradually, both at home and in the schools, we can nurture a generation that will have the social discipline to respect and share the fruits of communal property.”9
 
 
-![](/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg)
-For horizontal images: <img style="width:50%;" src="/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg">
+
+<img style="width: 50%;" src="/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg">
  <div style="background-color: white;">Students planting trees at Princess Housing Estate at Alexander Road in 1969. <i>Courtesy of National Archives of Singapore.</i></div>
 	
 
