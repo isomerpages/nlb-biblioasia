@@ -167,7 +167,7 @@ years ago</td>
 
 [^7]: Frederick L. Dunn, “[Radiocarbon Dating the Malayan Neolithic](https://doi.org/10.1017/S0079497X0001447X),” *The Prehistoric Society* 32 (December 1966): 352–53. 
 
-[^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15.
+[^8]: Sonia Harmand et al., “[3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya](https://www.nature.com/articles/nature14464),” *Nature 521* (May 2015): 310–15.
 
 [^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” *Muse* SG 10, no. 2 (2018): 40.
 
