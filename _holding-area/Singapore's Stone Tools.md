@@ -191,7 +191,7 @@ years ago</td>
 
 [^19]: Alvin Chua, “[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
 
-[^20]: Michael Bird et al., “Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore,” *Applied Geography* 24, no. 3 (2004): 184, 192.
+[^20]: Michael Bird et al., “[Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore](https://doi.org/10.1016/j.apgeog.2004.04.002),” *Applied Geography* 24, no. 3 (2004): 184, 192.
 
 [^21]: “Most Famous Professor in Asia Dead,” *Straits Budget*, 5 May 1938, 14. (From NewspaperSG)
 
