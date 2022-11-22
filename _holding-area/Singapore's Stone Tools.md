@@ -193,7 +193,7 @@ years ago</td>
 
 [^20]: Michael Bird et al., “[Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore](https://doi.org/10.1016/j.apgeog.2004.04.002),” *Applied Geography* 24, no. 3 (2004): 184, 192.
 
-[^21]: “Most Famous Professor in Asia Dead,” *Straits Budget*, 5 May 1938, 14. (From NewspaperSG)
+[^21]: “[Most Famous Professor in Asia Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19380505-1.2.66),” *Straits Budget*, 5 May 1938, 14. (From NewspaperSG)
 
 [^22]: Tweedie, “Stone Age of Malaya,” 69.
 
