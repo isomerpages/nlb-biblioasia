@@ -34,6 +34,9 @@ There is also evidence to show that rocks were used by Orang Asli groups, such a
 
 In Singapore, stone tools were found in Tanjong Karang (now Tuas) and on Pulau Ubin. H.N. Ridley (Henry Nicholas Ridley), the director of the Botanic Gardens, first reported the discovery of a round axe at Tanjong Karang in 1891.[^12] The precise location of the stone tool was not described in publications although Ridley’s personal papers or museum records may provide further clues.[^13] Unfortunately, subsequent development work in the area means that the soil in the vicinity would have likely experienced major disturbances, making it less viable for further research.[^14] 
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image4.png)
+<div style="background-color: white;">Locations where stone tools were found: Tanjong Karang (now Tuas) on the main island of Singapore, Tanjong Tajam on Pulau Ubin, Tanjong Bunga in Johor and Kawal Darat in Bintan.</div>
+
 One estimate of the stone artefact which Ridley found dates it to 4,000 BCE, but this was based on the type of stone tool rather than a radiocarbon date.[^15] As Southeast Asia is one of the regions where stone tools continued to be used by certain segments of the indigenous population even until quite recently, the round axe could also be much younger.[^16] 
 
 In 1919, several stone implements of varying sizes were discovered in Johor’s Tanjong Bunga by Engku Abdul Aziz bin Abdul Majid, the 6th Menteri Besar of Johor.[^17] The location of Tanjong Bunga across the straits in Johor was close enough to Tanjong Karang in Singapore that Roland St John Braddell – a prominent lawyer and scholar of Malayan history – suggested in a 1936 paper in the *Journal of the Malayan Branch of the Royal Asiatic Society* that there was a “stone-age portage” between Johor and Singapore, linking the sites of Tanjong Karang in Singapore and Tanjong Bunga in Johor in 1936.[^18] This theory has yet to be tested.
