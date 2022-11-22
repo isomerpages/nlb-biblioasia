@@ -107,7 +107,7 @@ Foster, J. (2009). [_Memory: A very short introduction_](https://web-b-ebscohost
 
 Hall, S. (2012). _Theatres of memory: Past and present in contemporary culture_ (pp. 3–50). London: Verso. (Not available in NLB holdings)
 
-Hodgkin, K., & Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11944074) (pp. 1–22). London: Routledge. (Call no.: R             153.12 CON)
+Hodgkin, K., & Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
 
 
 #### **NOTES**
