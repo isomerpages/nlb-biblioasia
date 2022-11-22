@@ -159,4 +159,48 @@ But the onus is on people, not power, to remember and more importantly, react. R
 
 <div>
 <b>Dan Koh</b> is a recipient of the NUS FASS scholarship, cofounder and editor of POSKOD. SG. He co-authored *Gila Bola*! (2012) and has had his short plays staged and published. He is the producer of The *Obs* (2013) and works at Epigram Books.
-</div>
+	
+
+	
+#### **REFERENCES**
+	
+
+Barzilal, Amnon. (2004, July 16). _A deep, dark, secret love affair_. Retrieved from haaretz.com website.      
+
+
+Bieder, J. (2007). [_The Jews of Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221). Singapore: Suntree Media. (Call no.: RSING 959.57004924 BIE)
+
+Blackburn, K., & Hack, K. (2012). Memory and nation-building in Singapore (pp. 292–333). In [_War memory and the making of modern Malaysia and Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14230768). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA)
+
+Boey, K.C. (2012). [_Clear brightness: New poems_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14571507). Singapore: Epigram Books. (Call no.: RSING S821 BOE)
+
+Chan, H.C. (1984). [_A sensation of independence: A political biography of David Marshall_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241). Singapore: Oxford University Press. (Call no.: RSING 324.2092 CHA)
+
+Goldstein, J. (2004, Autumn/Summer). Singapore, Manila, and Harbin as Reference Points for Asian ‘Port Jewish’ identity. _Jewish Culture and History_, 7 (1–2), 271–295.
+
+Kamsma, T. (2010). [_The Jewish diasporascape in the Straits_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13701584). Amsterdam: VU University. (Call no.: RSING 338.04089924 KAM)
+
+Lim, W.J.D. (2013, January). The original sin of Singapore’s history. _Quarterly Literary Review Singapore_, 12 (1). Retrieved from QLRS.com website.
+
+Nathan, E. (1986). [_The history of Jews in Singapore, 1830–1945_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637). Singapore: HERBILU Editorial & Marketing Services. (Call no.: RSING 301.45192405957 NAT)
+
+National Heritage Board. (2017, December 1). _Monumental walking tours_. Retrieved from National Heritage Board website.
+
+People's Action Party (Singapore). Jurong Branch. (1996). [_Jurong journeys_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8082654). Singapore: Oracle Works. (Call no. RSING 959.57 JUR)
+
+Raman, A. \[1958\]. [_A study of the Jewish community in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202838673). Singapore: University of Malaya. (Call no.: RCLOS 305.892405957 A)
+
+Singapore Jews. (2010). _The Jewish Community of Singapore_. Retrieved from SingaporeJews.com website. 
+
+Sorkin, D. (1999, Spring). The Port Jews: Notes toward a social type. _Journal of Jewish Studies, 50_ (1), 87–97.
+
+Tan, K.Y.L. (2008). [_Marshall of Singapore: A biography_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13150329). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 TAN)
+
+United Hebrew Congregation. (2013). _United Hebrew Congregation (Singapore)_. Retrieved from United Hebrew Congregation website.
+
+Urban Redevelopment Authority (Singapore). (2010). _Mount Sophia conservation area_. Retrieved from Urban Redevelopment Authority website.
+	
+Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a political biography. _Journal of Southeast Asian Studies, 16_ (2), 304–321. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+#### **NOTES**
+	
