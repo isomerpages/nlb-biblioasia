@@ -217,7 +217,7 @@ years ago</td>
 
 [^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” *Journal of the Malayan Branch of the Royal Asiatic Society* 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^33]: Clinnick and Lim, “In Search of Prehistoric Singapore.”
+[^33]: Clinnick and Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2).”
 
 [^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s eResources website) 
 
