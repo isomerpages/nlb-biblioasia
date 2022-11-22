@@ -24,6 +24,9 @@ It is generally thought that stone tools found in this region, and around the wo
 
 There is also evidence to show that rocks were used by Orang Asli groups, such as the Temuan and Semai, as an afterbirth procedure where the heated stones were wrapped in a specific kind of leaf and placed on the body of new mothers during the three days after giving birth. In addition, stones were also used for lighting fires, as projectiles, and even as medicine or for magical purposes.[^11]  
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image2.png)
+<div style="background-color: white;">A polished stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no.A1285). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 #### **Stone Tools in 	Singapore and Johor**
 
 In Singapore, stone tools were found in Tanjong Karang (now Tuas) and on Pulau Ubin. H.N. Ridley (Henry Nicholas Ridley), the director of the Botanic Gardens, first reported the discovery of a round axe at Tanjong Karang in 1891.[^12] The precise location of the stone tool was not described in publications although Ridley’s personal papers or museum records may provide further clues.[^13] Unfortunately, subsequent development work in the area means that the soil in the vicinity would have likely experienced major disturbances, making it less viable for further research.[^14] 
