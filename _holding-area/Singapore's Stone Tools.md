@@ -177,7 +177,7 @@ years ago</td>
 
 [^12]: Tweedie, “Stone Age of Malaya,” 69; Urban Redevelopment Authority (Singapore), [*Tuas Planning Area: Planning Report 1996*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7656106) (Singapore: Urban Redevelopment Authority, 1996), 8. (From National Library, Singapore, call no. RSING 711.4095957 SIN)
 
-[^13]: Henry Nicholas Ridley, *HN Ridley's Notebooks*, vols. 2–6, 1880–1909, National Library of Australia. (From National Archives of Singapore, accession no. M771)
+[^13]: Henry Nicholas Ridley, [*HN Ridley's Notebooks*](https://www.nas.gov.sg/archivesonline/private_records/record-details/f4336b52-115b-11e3-83d5-0050568939ad), vols. 2–6, 1880–1909, National Library of Australia. (From National Archives of Singapore, accession no. M771)
 
 [^14]: War Office, “The Singapore Naval Base,” 1924–1933, The National Archives, United Kingdom, 70. (From National Archives of Singapore, accession no. WO 106/132); Chia Lin Sien, Habibullah Khan and Chou Loke Ming, *The Coastal Environmental Profile of Singapore* (Manila: International Center for Living Aquatic Resources Management, 1988), 41. (From National Library, Singapore, call no. RCLOS 333.917095957 CHI); Urban Redevelopment Authority (Singapore), *Tuas Planning Area*, 11.
 
