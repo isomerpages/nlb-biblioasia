@@ -231,7 +231,7 @@ years ago</td>
 
 [^39]: Simatupang, “Ekskavasi Dan Kajian Manajemen,” 30–31, 42.
 
-[^40]: Ryan Rabett et al, “Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam,” *Quaternary International* 239, no. 1–2 (2011): 153–69.
+[^40]: Ryan Rabett et al, “[Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam](https://doi.org/10.1016/j.quaint.2010.01.025),” *Quaternary International* 239, no. 1–2 (2011): 153–69.
 
 [^41]: Defri Elias Simatupang, “Ekskavasi Dan Kajian Manajemen,” 66.
 
