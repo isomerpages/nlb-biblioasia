@@ -215,7 +215,7 @@ years ago</td>
 
 [^31]: Tweedie, “Stone Age in Malaya,” 70; “[Raffles Museum To Go Digging for Facts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19491023-1.2.43),” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
 
-[^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” *Journal of the Malayan Branch of the Royal Asiatic Society* 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
+[^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” *Journal of the Malayan Branch of the Royal Asiatic Society* 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^33]: Clinnick and Lim, “In Search of Prehistoric Singapore.”
 
