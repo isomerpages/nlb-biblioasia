@@ -257,7 +257,7 @@ years ago</td>
 
 [^52]: The Holocene is the current geological epoch, which began at approximately 9,700 BCE. It refers to a time after the most recent Ice Age. See Pillans and Gibbard, “Quaternary Period,” 999–1000.
 
-[^53]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in *The Oxford Handbook of Early Southeast Asia*, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 126, 131. (From National Library, Singapore, call no. RSEA 959.01 OXF); Rasmi Shoocongdej, “The Hoabinhian: The Late and Post-Pleistocene Cultural Systems of Southeast Asia,” in *The Oxford Handbook of Early Southeast Asia*, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 156. (From National Library, Singapore, call no. RSEA 959.01 OXF); Jusoh, Saidin and Ramli, “Zaman Paleolitik,” 27. 
+[^53]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in [*The Oxford Handbook of Early Southeast Asia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526), ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 126, 131. (From National Library, Singapore, call no. RSEA 959.01 OXF); Rasmi Shoocongdej, “The Hoabinhian: The Late and Post-Pleistocene Cultural Systems of Southeast Asia,” in *The Oxford Handbook of Early Southeast Asia*, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 156. (From National Library, Singapore, call no. RSEA 959.01 OXF); Jusoh, Saidin and Ramli, “Zaman Paleolitik,” 27. 
 
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “Zaman Paleolitik,” 36.
 
