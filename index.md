@@ -17,8 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
+      title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
+      subtitle: Culture
+      description: Thaipusam speaks of a migratory community that carries its
+        deep-rooted cultural tradition wherever its people go.
+      button: Carrying the kavadi
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
+      alt: Thaipusam
+      image: /images/Kavadi resized.jpg
+  - infopic:
       title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
-      subtitle: Worship
+      subtitle: Culture
       description: The local Taoist pantheon includes goddesses only found in
         Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
       button: Taoist Folk Goddesses of Singapore
