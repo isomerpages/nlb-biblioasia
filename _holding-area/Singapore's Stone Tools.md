@@ -243,7 +243,7 @@ years ago</td>
 
 [^45]: “Introduction to Archaeology” and Ignacio de la Torre, “[The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution](https://doi.org/10.1098/rstb.2015.0245),” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5. 
 
-[^46]: Robin Dennell, “Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic,” *Quaternary International* 400 (May 2016): 14–22.
+[^46]: Robin Dennell, “[Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic](https://doi.org/10.1016/j.quaint.2015.09.001),” *Quaternary International* 400 (May 2016): 14–22.
 
 [^47]: Graeme Barker, Tim Reynolds and David Gilbertson, “The Human Use of Caves in Peninsular and Island Southeast Asia: Research Themes,” *Asian Perspectives* 44, no. 1 (Spring 2005): 6 (From JSTOR via NLB’s eResources website)
 
