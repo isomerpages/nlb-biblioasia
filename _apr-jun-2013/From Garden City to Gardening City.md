@@ -7,8 +7,17 @@ description: What started five decades ago as a government-led project to build
 ---
 #### What started five decades ago as a government-led project to build Singapore into a clean and green city, has today become a dialogue between the state and its citizens.
 
+
+<img style="width:50%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa.jpg">
+ <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, WIkimedia Commons, accessed 12 March 2013.</i></div>
+	
+
 A *Straits Times* photo of former Prime Minister Lee Kuan Yew launching Singapore’s first-ever tree planting campaign in 1963 best depicts how the idea of building Singapore into a Garden City first took root. As Mr Lee bent over to dig a hole with a *changkol* to plan a Mempat tree in Farrer Circus, Singaporeans stood around and watched — none of them offering a helping hand.
 
+<img style="width:50%;" src="/images/Vol%209%20Issue%201/Garden%20City/Annual%20Tree%20Planting%20Day.jpg">
+ <div style="background-color: white;">Former Prime Minister Lee Kuan Yew planting a Yellow Flame tree on the Annual Tree Planting Day in 1971. <i>Courtesy of National Archives of Singapore.</i></div>
+	
+ 
 Fast forward to 2012, and one finds a different landscape of Singapore’s Garden City. In August, a group of residents in Limau estate petitioned the government to conserve a stretch of greenery near their homes instead of selling the land for development. This was not an isolated case. In that year alone, residents in Dairy Farm, Pasir Ris and Clementi also clamoured for green plots near their estates to be preserved, using what has since become a tried-and-tested method of engaging the government: banding together to write petitions and meeting their Members of Parliament to convey their thoughts and concerns.
 
 In a span of five decades, the transformation of Singapore into a Garden City is no longer a project that only the government is concerned with. While the state dictated how Singapore was to be greened in the past — from the choice of trees and shrubs, right down to where exactly to plant them — Singaporeans now want a say too, and in response, the government’s approach has evolved, and led to more spaces for the grassroots to grow with this national initiative too.
@@ -30,6 +39,12 @@ In the 1991 Concept Plan formulated by the Urban Redevelopment Authority (URA) f
 From the beginning, the government has tried to get citizens involved in the making of the Garden City. In the second treeplanting campaign in 1964, then-Minister of Social Affairs Othman Wok told the press how the project was more than just about planting the seeds of a green city, but that of a nation too. “Each tree planted in a public cooperative effort like this operation serves as a symbol of the unbreakable bonds that united the people and the Government in their common task of nation building,”6 he said.
 
 Besides rallying people and corporations to participate in tree-planting efforts, the government tried to bring about wider community involvement in the 1970s by introducing tax reliefs for households that grew their own private gardens7 . With an increasing number of Singaporeans living in public housing by the 1980s, the government also started planting fruit trees in the estate’s common areas so that residents would maintain the gardens together and in the process develop a community spirit amongst themselves8 . This was the hope expressed by then-PM Lee, when he introduced this new stage of development for Singapore’s ambitions to be a Garden City. However, the former PM Lee also anticipated potential problems. “We have the knowledge; we have the artistic touch. We can now afford the cost. The question is, can we do it in such a way as to avoid vandalism or theft, without severe security measures which will destroy the aesthetic impact?” he asked. Adding that better fruit trees would only be planted later when higher social standards were the norm, he said, “Gradually, both at home and in the schools, we can nurture a generation that will have the social discipline to respect and share the fruits of communal property.”9
+
+
+![](/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg)
+For horizontal images: <img style="width:50%;" src="/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg">
+ <div style="background-color: white;">Students planting trees at Princess Housing Estate at Alexander Road in 1969. <i>Courtesy of National Archives of Singapore.</i></div>
+	
 
 As it turned out, Residents’ Committees who were placed in charge of the fruit trees struggled to upkeep them and were soon calling for the government to step in and maintain them instead. While some estates could not find enough manpower to harvest so many fruits10, others could not stop the theft of fruits, and fines of up to $1,000 had to be introduced11. But it was not that residents were uninterested in gardening. Many of them had been resettled from kampungs where they once lived close to nature. These residents continued to garden in their private apartments, even though high-rise housing was not the most optimal space for gardening. As residents tried to find alternative spaces in the public housing estate to garden, they found their efforts hampered. While residents could keep plants in the common corridors of their high-rise apartments, they should not cause obstruction or pose danger to others — subjective rules that led some residents to assume there was an outright ban12. When some residents in the housing estate along Boon Tiong Road began planting in the common area of their estate, they were issued notices from public housing officials to remove their “unsightly plants”.13 Residents had to come to terms with the State’s notion of what constituted a garden.
 
@@ -71,9 +86,3 @@ Citizens have become ’gardeners’ of this “City in a Garden”, where they 
 <div>
 <b>Justin Zhuang</b> writes and researches on Singapore’s visual culture, heritage and spaces under the auspices of “In Plain Words” (http://inplainwords.sg)
 </div>
-
-
-
-
-
-
