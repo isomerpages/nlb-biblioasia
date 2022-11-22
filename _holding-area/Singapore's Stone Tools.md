@@ -245,7 +245,7 @@ years ago</td>
 
 [^46]: Robin Dennell, “[Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic](https://doi.org/10.1016/j.quaint.2015.09.001),” *Quaternary International* 400 (May 2016): 14–22.
 
-[^47]: Graeme Barker, Tim Reynolds and David Gilbertson, “The Human Use of Caves in Peninsular and Island Southeast Asia: Research Themes,” *Asian Perspectives* 44, no. 1 (Spring 2005): 6 (From JSTOR via NLB’s eResources website)
+[^47]: Graeme Barker, Tim Reynolds and David Gilbertson, “The Human Use of Caves in Peninsular and Island Southeast Asia: Research Themes,” *Asian Perspectives* 44, no. 1 (Spring 2005): 6 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^48]: Adam Brumm, “The Movius Line and the Bamboo Hypothesis: Early Hominin Stone Technology in Southeast Asia,” *Lithic Technology* 35, no. 1 (Spring 2010): 8 (From JSTOR via NLB’s eResources website)
 
