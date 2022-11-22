@@ -8,13 +8,13 @@ description: What started five decades ago as a government-led project to build
 #### What started five decades ago as a government-led project to build Singapore into a clean and green city, has today become a dialogue between the state and its citizens.
 
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa.jpg">
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa.jpg">
  <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, WIkimedia Commons, accessed 12 March 2013.</i></div>
 	
 
 A *Straits Times* photo of former Prime Minister Lee Kuan Yew launching Singapore’s first-ever tree planting campaign in 1963 best depicts how the idea of building Singapore into a Garden City first took root. As Mr Lee bent over to dig a hole with a *changkol* to plan a Mempat tree in Farrer Circus, Singaporeans stood around and watched — none of them offering a helping hand.
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Garden%20City/Annual%20Tree%20Planting%20Day.jpg">
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Annual%20Tree%20Planting%20Day.jpg">
  <div style="background-color: white;">Former Prime Minister Lee Kuan Yew planting a Yellow Flame tree on the Annual Tree Planting Day in 1971. <i>Courtesy of National Archives of Singapore.</i></div>
 	
  
@@ -42,7 +42,7 @@ Besides rallying people and corporations to participate in tree-planting efforts
 
 
 
-<img style="width: 50%;" src="/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%201/Garden%20City/PrincessHousingEstate2.jpg">
  <div style="background-color: white;">Students planting trees at Princess Housing Estate at Alexander Road in 1969. <i>Courtesy of National Archives of Singapore.</i></div>
 	
 
@@ -53,7 +53,7 @@ As it turned out, Residents’ Committees who were placed in charge of the fruit
 In 1988, a civic organisation challenged this definition by showing how citizens could participate in the Garden City project besides being part of official state programmes when it convinced the government to conserve Sungei Buloh. The Malayan Nature Society’s Singapore Branch, which has since become the Nature Society of Singapore (NSS), came up with a conservation proposal for a nature site that was scheduled for development as an agro-technology park. In 1986, a member of the society, Richard Hale, had stumbled upon Sungei Buloh’s mangrove and prawn ponds and discovered it was full of birdlife. When the banker learnt of the state’s plans to develop it, he led a group of NSS members to document the richness of the site and formulate a counter-proposal. Plans submitted to the government in 1987 suggested Sungei Buloh be kept as a 318-hectare nature reserve, providing a sanctuary for birds and birdwatchers. In time, it could also become a major tourist attraction and education centre for students. To aid the cause, Hale even personally escorted former-President Wee Kim Wee, then-Deputy Prime Minister Goh Chok Tong and former-Minister of National Development S. Dhanabalan to Sungei Buloh. These efforts eventually convinced the government to conserve part of the area, and it was declared a nature park in 1988.
 
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa1.jpg">
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa1.jpg">
  <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, WIkimedia Commons, accessed 12 March 2013.</i></div>
 
 Sungei Buloh was the first post-colonial allocation of land for nature conservation14, and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal has also been seen as what became an “inescapable collaborative manner of governing”15.
