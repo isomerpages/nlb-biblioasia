@@ -185,7 +185,7 @@ years ago</td>
 
 [^16]: Ian C. Glover, “Connecting Prehistoric and Historic Cultures in Southeast Asia,” *Journal of Southeast Asian Studies* 47, no. 3 (October 2016): 507. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Rambo, “Stone Tool Use,” 116–17; Dietrich Stout, “Skill and Cognition in Stone Tool Production,” *Current Anthropology* 43, no. 5 (December 2002): 693–722. (From EBSCOhost via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^17]: Shaharom Husain, [*Sejarah Johor: Kaitannya Dengan Negeri Melayu*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7376350) (Shah Alam: Penerbit Fajar Bakti Sdn. Bhd, 1995), plate 20. (From National Library, Singapore, call no. Malay R 959.5119 SHA); Engku Abdul-Aziz, “Neoliths from Johore,” *Journal of the Malayan Branch of the Royal Asiatic Society* 10, no. 1 (113) (January 1932): 159. (From JSTOR via NLB’s eResources website)
+[^17]: Shaharom Husain, [*Sejarah Johor: Kaitannya Dengan Negeri Melayu*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7376350) (Shah Alam: Penerbit Fajar Bakti Sdn. Bhd, 1995), plate 20. (From National Library, Singapore, call no. Malay R 959.5119 SHA); Engku Abdul-Aziz, “Neoliths from Johore,” *Journal of the Malayan Branch of the Royal Asiatic Society* 10, no. 1 (113) (January 1932): 159. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^18]: Roland Braddell, “An Introduction to the Study of Ancient Times in the Malay Peninsula and the Straits of Malacca,” *Journal of the Malayan Branch of the Royal Asiatic Society* 14, no. 3 (December 1936): 36. (From JSTOR via NLB’s eResources website). 
 
