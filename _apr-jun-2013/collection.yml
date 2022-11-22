@@ -1,0 +1,6 @@
+collections:
+  apr-jun-2013:
+    output: true
+    order:
+      - From Garden City to Gardening City.md
+      - Director's Column.md

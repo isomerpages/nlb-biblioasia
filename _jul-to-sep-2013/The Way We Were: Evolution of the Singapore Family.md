@@ -7,6 +7,11 @@ description: "In conjunction with the launch of the exhibition “Roots: Tracing
 ---
 #### In conjunction with the launch of the exhibition “Roots: Tracing Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates on the question of families in Singapore.
 
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Straits%20Chinese1.jpg">
+<div style="background-color: white;">A photo of Straits Chinese, Tan Ah Boon and his family, in 1860. <i>Courtesy of National Archives Singapore.</i></div>
+
+
 At a local university, a sociology lecturer receives the following responses from her students to her question on what a typical Singapore family would look like: a nuclear family, with two children, plus a cat or a dog. Do these “educated perceptions” reflect the public imagination of the Singapore family? Or, can families be imagined or constructed in other ways? By demystifying family and the “traditional family”, we see that most idealistic notions of family are far from what we might imagine. More significantly, an overemphasis on personal responsibility for strengthening family values encourages a way of thinking that leads to moralising rather than mobilising concrete reforms.[^1] Hence, examining families in the past allows us to see the relationship of families to public policies on families.
 
 In this article, we explore how changing family structures in Singapore are a means of understanding Singapore’s history, identity formation as well as changing identities. There is no fixed definition of family as the concept is a social construct that varies across time and space. Yet, it is the most basic form of human organisation. Anthropologists have argued that all human societies are organised into some type of family. The universality of family is predicated upon certain characteristics that families are founded upon.
@@ -24,7 +29,7 @@ Some former colonial writers have described ethnic families who were early settl
 
 One of the earliest accounts of native families in Singapore relates to Malay royalty in the 17th century. In 1609, Johann Verken, a German officer of the Vereenigde Oost-Indische Compagnie (VOC) from Meissen (Germany) aboard one of the Dutch vessels under Admiral Peter Willemz Verhoeff, related:
 
-<center>\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.[^2]</center>
+\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.[^2]
 
 Demonstrating the existence of polygamous unions of the royal family in the area, the relationship between wealth, power and the means to have big families is established. Furthermore, Raja Bongsu had wives “of different appearances”. This could indicate that they were of different ethnic backgrounds, groups, age or beauty. Apart from being a sign of prestige for the kings, the wives could have been part of exchanges between kingdoms.
 
@@ -33,6 +38,11 @@ The Malays, at this point, were a harder group of people to define. Linguistic a
 #### **Arrival of the British**
 
 With the “civilising mission” as justification for colonialism, the British took an anthropological approach in their task of documenting the lifestyles and cultures of the natives. Through such understanding, the colonials hoped to colonise the natives better, inviting as little opposition as possible to their rule. The British discovered many indigenous people living in the forests or sea such as the Semangs or the Orang Laut. Indigenous families tended to live in small groups and lived wherever there was food. This small nuclear family type enabled families to move to wherever the food was.[^4] The same could also be said about the Orang Laut (meaning sea people), which was another group of indigenous people who had lived in the area for centuries,[^5] “almost the whole of their life being spent upon the water in a wretched little canoe… A man and his wife and one or two children are usually to be found in these miserable *sampans*, for subsistence they depend on their success in fishing.”[^6]
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Malay%20family1.jpg">
+<div style="background-color: white;">Photograph of a Malay family taken in 1900. <i>Courtesy of National Archives Singapore.</i></div>
+	
 
 During this period, the British classified the Malays into two classes, the native and the foreign Malays. This division was more geographical than ethnographical. According to Frank Swettenham, in *British Malaya*, the Malays are descendants of people who crossed from the south of India to Sumatra, mixed with a people already inhabiting that island, and gradually spread themselves over the most central and fertile States \[of Malaya\]. Foreign Malays came to Malaya from the borders of Kedah, Patani, Kelantan and the Southern Siamese states, including those from the seas —Acehnese, Javanese, Mandalings, Minangkabau, Palembang, Labuan, Borneo and Bugis. The native Malays are the descendants of the old Sumatran colonialists and intermarried with local aborigines and subsequent immigrants. There is an impression that the Malays live as part of the extended family,
 
@@ -48,6 +58,10 @@ Population began to increase rapidly with the great influx of immigration, despi
 
 In his report on population trends in Singapore from 1819 to 1967, Saw states that “there is reason to believe that the women enumerated in the early censuses did not come direct from China but were mixed-blooded \[Baba\] women”. In addition, Charles Buckley mentioned that in 1837 “no Chinese women had come to Singapore and from China, and the newspapers said that, in fact, only two genuine Chinese women were … small-footed ladies, who had been some years before, exhibited in England”.[^10] Even J. D. Vaughn noted as late as 1876 that he knew of “no instance of a respectable Chinese woman emigrating with her husband”.[^11] This confirms that the Chinese men came to Singapore without bringing their wives. As temporary settlers, it had been convenient to leave their wives and children in China. Furthermore, policies in China discouraged women from leaving in order to maintain ties with the overseas Chinese as well as to “ensure a flow of remittances from them”. It was only during the 20th century that a movement towards a more balanced sex ratio was observed. The relaxation of immigration laws during the 1880s and 1930s saw large-scale migration of female immigrants from China and India.[^12]
 
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Chinese%20family1.jpg">
+<div style="background-color: white;">Photograph of a Chinese family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
+
 Meanwhile, the disparity in the sex ratio for the Chinese group created the Peranakan group.[^13] The Chinese who were born in Singapore tended to mix more with other ethnic groups and there was a trend “towards inter-ethnic marriages, especially between Chinese men and Malay women”. This was clearly reflected in the existence of a group called “Babas”. It was also likely that these unions were Sino-Orang Laut unions as observed by British colonial writers.
 
 Hence, the Chinese female figure in the sex ratio that was reported by Saw is believed to be represented by Baba women. For the Chinese Peranakans during this period, the extended family was the norm.[^14]
@@ -57,6 +71,10 @@ In the beginning of the 20th century, Chinese communities in Singapore and Malay
 For Indians during this period, however, intermarriages within the different Indian language groups and between Indians and other racial groups were even rarer. The Indians would return home to marry and leave their wives with their extended patrilineal families in India. Their lives in the region were focused on employment and trade. They would bring their wives and children to Singapore or Malaya when they had children, especially sons whom they wanted to educate in Malaya and Singapore.
 
 Hence, as opposed to the Malays, Eurasians and the Peranakan Chinese who were part of large extended families, the Indians and Chinese migrants on the other hand who came from extended families in India and China respectively were forced to set up nuclear families as a result of migration.
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Indian%20family1.jpg">
+<div style="background-color: white;">Photograph of an Indian family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
 
 #### **Rise of Interethnic Adoption**
 
@@ -77,6 +95,10 @@ With the passing of the Women’s Charter in 1961, monogamy was the only legal m
 In the early years of Singapore’s independence, the government was faced with the formidable task of providing education, health services and housing to a population that was growing rapidly due to the post-war economic boom. Family planning was thus regarded as a necessary measure in order for the government to adequately tackle issues arising from planning for the national economy to welfare services for the republic’s citizens.[^22]
 
 The objective of the Singapore Family Planning and Population Board (SFPPB), created in 1966, was to exhort families to plan for smaller families. Its campaigns were aimed at less educated and lower income groups, encouraging them to have only two children so that their offspring would have a better chance in life.[^23] The benefits of a small family were widely publicised through 35,000 posters and 100,000 leaflets, as well as a range of other publicity efforts.[^24]
+
+
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Lauw%20family.jpg">
+<div style="background-color: white;">The Lauw family with their three children buck the trend of one-child families in Singapore. <i>Courtesy of the Lauw family.</i></div> 
 
 This anti-natalist stance was taken to encourage more women to join the workforce in order to increase the manpower needed for Singapore’s industrialisation needs. The birth control policies were so effective that the birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965 to 1.7 in 1992.[^25] With the two-child message entrenched, the family programme proceeded to focus its efforts on encouraging wider intervals between each birth, and dissuading young people from early marriage and parenthood.[^26]
 
@@ -110,5 +132,129 @@ We need to develop a clearer sense of how past families actually functioned and 
 
 
 <div>
-<b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. 
-</div>
+<b>Kartini Saparudin</b> is an Associate Librarian with the National Library. She has written about the history of Bidadari Muslim and Bukit Brown cemeteries, the economic history of Singapore, women’s magazines in the 1950s and 1960s and Hadhrami historiography. </div>
+	
+	
+#### **REFERENCES**	
+    
+  
+Barnard, T.P. (2007, December). Celates, Rayat-Laut, Pirates: The Orang Laut and their decline in history. _Journal of the Malaysian Branch of the Royal Asiatic Society, 80_ (2) (293), 33–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Borschberg, P. (2011). [_Hugo Grotius, the Portuguese and free trade in the East Indies_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13604401). Singapore: NUS Press. (Call no.: RSEA 341 BOR)
+
+Cartwright, H.A., & Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5230444). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
+
+Chua, B.H. (1994). [_Private ownership of public housing in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7858142). Australia: National Library of Australia. (Call no.: RCLOS q363.585 CHU)
+
+Clifford, H.C. (1897). [_In court & kampong: Being tales and sketches of native life in the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx). London: G. Richards. Retrieved from BookSG.
+
+Cook, J.A.B. (1907). [_Sunny Singapore: An account of the place and its people, with a sketch of the results of missionary work_](https://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx). London: Elliot Stock. Retrieved from BookSG.
+
+Coontz, S. (2000). [_The way we never were: American families and nostalgia trap_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797). New York, NY: Basic Books. (Call no.: R 306.85 COO)
+
+Djamour, J. (1965). [_Malay kinship and marriage in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4177777). London: Athlone Press: Humanitarian Press. (Call no.: RSING 301.42095957 DJA)
+
+Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4846221). London: Her Majesty’s Stationary Office. (Call no.: RSING 301.42 FRE)
+
+Frost, M.R. (2003, August). _Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918_ \[Asian Research Institute Working Paper Series No. 10\]. Retrieved from Nus.edu.sg. website.
+
+Gibson-Hill, C.A. (1969, July). The Orang Laut of Singapore River and the Sampan Panjang. _Journal of the Malaysian Branch of the Royal Asiatic Society, 42_ (1), 118–132. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Lyons, L. (2007). (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008). Leiden: Brill. (Call no.: RSING 305.42095957 LYO) (Cannot find year 2007 edition)
+
+Makeswary, P. (2007, October). Indian migration into Malaya and Singapore during the British Period. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 3_ (3). 4–11. Retrieved from BiblioAsia website.
+
+Marsden, w. (1812). [_A dictionary of the Malayan language, in two parts, Malayan and English, and English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx). London: Cox and Baylis. Retrieved from BookSG.
+
+Milner, A. (2008). [_The Malays_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13208713). Chinchester, Uk: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
+
+Ng, B. (1983, August 15). [Get hitched! And don’t stop at one](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.2). _The Straits Times_, p.1. Retrieved from NewspaperSG.
+
+Robson, J.H.M. (1894). [_People in native state_](https://eresources.nlb.gov.sg/printheritage/detail/c7ca9d23-e476-4c49-81f5-218bd77d249d.aspx). London: Makepeace. Retrieved from BookSG.
+
+Saw, S.W. (1969, March). Population trends in Singapore, 1819–1967. _Journal of Southeast Asian History, 10_ (1), 36–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Singapore. Department of Statistics. (2018, May 9). _Census of Population 2010. Statistical Release 2: Households and Housing_. Retrieved from Singstat.gov.sg website.
+
+Singapore Family Planning and Population Board. (1975). [_Annual report_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679). Singapore: The Board. (Call no.: RCLOS 301.426 SFPPBA)
+
+Singapore. Ministry of Community Development, Youth and Sports; National Family Council (Singapore). (2011). _State of the family report 2011_. Singapore: National Family Council and Ministrty of Community Development, Youth and Sports. (Not available in NLB holdings)
+
+Stoler, A. (2010). _[Carnal knowledge and imperial power: Race and the intimate in colonial rule](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13666496)_. Claifornia, Berkeley: University of California Press. (Call no.: R 305.8 STO)
+
+Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx). London: Richardson & Co. Retrieved from BookSG.
+
+Tibbetts, G.R. (1957). Early Muslim traders in South-East Asia. _Journal of the Malayan Branch of the Royal Asiatic Society, 30_ (1), (177), 1–45. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malaya, 1819-1911. _Journal of Southeast Asian Studies, Ethnic Chinese in Southeast Asia, 12_ (1), 62–92. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+
+#### **NOTES**	
+
+[^1]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 1992, p. 22.
+
+[^2]: [Borschberg](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13604401), 2011, p. 258.
+
+[^3]: [Milner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13208713), 2008, p. 23.
+
+[^4]: [Clifford](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx), 1897, p.172.
+
+[^5]: Barnard, 2012.
+
+[^6]: Gibson, 1969, p. 119.
+
+[^7]: [Cartwright & Wright](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5230444), 1989, p. 132.
+
+[^8]: [Thompson](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx), 1865, pp. 251—254.
+
+[^9]: Saw, 1969, p. 38.
+
+[^10]: [Buckley](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4470390), 1902, p. 43.
+
+[^11]: Saw, 1965, p. 43.
+
+[^12]: Frost, Aug 2003, p. 8; [Makeswary](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), Oct 2007, p. 9.
+
+[^13]: [Clammer](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080233), 1980, pp. 7—8.
+
+[^14]: [Clammer](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080233), 1980, p. 23.
+
+[^15]: Saw, 1965, p. 450.
+
+[^16]: Yen, Mar 1981, p. 84.
+
+[^17]: Wee, 1977, p. 294.
+
+[^18]: [Djamour](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4177777), 1952, p. 165.
+
+[^19]: [Djamour](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4177777), 1952, p. 165.
+
+[^20]: [Chua](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7858142), 1994.
+
+[^21]: [Freedman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4846221), 1957, p. 121. Freedman notes that polygamy was common among the rich Chinese without giving a figure whereas Djamour notes that polygamy marriages was noted to be less than 1 percent of Muslim marriages.
+
+[^22]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601127-1.2.5)_, 1 Nov 1960, p.1.
+
+[^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad) \[MOC\], 20 July 1972.
+
+[^24]: [Annual Report](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679), 1973, p .49.
+
+[^25]: [Lyons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008), 2004, p. 33.
+
+[^26]: [Annual report](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679), 1975, p. 49.
+
+[^27]: [Wong & Yeoh](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12100746), 2003, pp.11—12.
+
+[^28]: [Lyons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008), 2004, p. 31.
+
+[^29]: State of the Family Report 2011; Census of Population 2010, Statistical Release 2: Households and Housing.
+
+[^30]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 2000, introduction.
+
+
+
+
+
+
+
+

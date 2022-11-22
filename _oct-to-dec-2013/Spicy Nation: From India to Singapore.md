@@ -175,23 +175,46 @@ Wickramasingher, P., & Selva Rajah, C. (2002). *The food of India*. London: Murd
 Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from the Manhattan of the East*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11093999). Singapore: Periplus Editions. (Call no.: RSING 641.595957 WON)
 
 #### **NOTES**
+
+
 [^1]:Brinder, N et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent* (p. 11). Singapore: Periplus Editions. (Not available in NLB holdings)
+
 [^2]:Joshi, A., & Roberts, A. (2006). *Regional Indian cooking* (p. 8). North Clarendon, VT: Periplus. (Not available in NLB holdings)
+
 [^3]:Wickramasingher, P., & Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
+
 [^4]:Malhi, M. (2011). *Classic Indian recipes: 75 signature dishes* (p. 9). London: Hamlyn. (Not available in NLB holdings)
+
 [^5]:Wickramasingher & Selva Rajah, 2002, p. 13.
+
 [^6]:Joshi & Roberts, 2006, p. 33.
+
 [^7]:*History of Indian food*. Retrieved from Haldiram.com website.
+
 [^8]:Brinder, 2004, p. 13.
+
 [^9]:Wickramasingher & Selva Rajah, 2002, p. 17.
+
 [^10]:*Ananda Bhavan Vegetarian*. (2018). Retrieved from Anandabhavan.com website.
+
 [^11]:*The Straits Times’ annual 1974* (p. 86). Retrieved from Root.sg website. 
+
 [^12]:*The Straits Times’ annual 1974*, pp. 88–89. 
+
 [^13]:National Heritage Board. (2021, October 18). *Fish head curry*. Retrieved from Roots website. 
+
 [^14]:National Heritage Board, 18 Oct 2021. 
+
 [^15]:Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retrieved from ieatishootipost website.
+
 [^16]:Sanmugam, D., & Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (p. 36). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+
 [^17]:Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
+
 [^18]:Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tabla website.
+
 [^19]:Panickar, 19 Jul 2013, p. 14. 
+
 [^20]:Cheung, T. (2017, July 12). *Your pick: World’s 50 best foods*. Retrieved from travel.cnn.com website.
+
+
