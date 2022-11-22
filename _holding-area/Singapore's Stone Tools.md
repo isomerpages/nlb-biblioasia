@@ -247,7 +247,7 @@ years ago</td>
 
 [^47]: Graeme Barker, Tim Reynolds and David Gilbertson, “The Human Use of Caves in Peninsular and Island Southeast Asia: Research Themes,” *Asian Perspectives* 44, no. 1 (Spring 2005): 6 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^48]: Adam Brumm, “The Movius Line and the Bamboo Hypothesis: Early Hominin Stone Technology in Southeast Asia,” *Lithic Technology* 35, no. 1 (Spring 2010): 8 (From JSTOR via NLB’s eResources website)
+[^48]: Adam Brumm, “The Movius Line and the Bamboo Hypothesis: Early Hominin Stone Technology in Southeast Asia,” *Lithic Technology* 35, no. 1 (Spring 2010): 8 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^49]: A core refers to the source stone that you can remove one or more flakes from through a process called knapping (think of it as the source stone from which you can make new stone tools by chipping bits off). Platforms refer to the surface area that shows the impact of the detachment strike. See Andrefsky, *Lithics*, 254, 262.
 
