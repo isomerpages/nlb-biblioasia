@@ -56,7 +56,7 @@ In 1988, a civic organisation challenged this definition by showing how citizens
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa1.jpg">
  <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, WIkimedia Commons, accessed 12 March 2013.</i></div>
 
-Sungei Buloh was the first post-colonial allocation of land for nature conservation14, and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal has also been seen as what became an “inescapable collaborative manner of governing”.[^15]
+Sungei Buloh was the first post-colonial allocation of land for nature conservation[^14], and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal has also been seen as what became an “inescapable collaborative manner of governing”.[^15]
 
 This was reflected in the case of Chek Jawa in 2001. This wetlands on the island of Pulau Ubin was already slated for reclamation since 1992, but a chance discovery in 2000 of its rich biodiversity led a group of volunteers to follow in the footsteps of the Nature Society and come up with a report on Chek Jawa’s natural heritage and a petition to the government for the conservation of this natural habitat.
 
@@ -229,8 +229,3 @@ Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to
 [^26]: [Teo & Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4), 30 Dec 2011, p. 20.
 
 [^27]: Tan, _Celebrating & Co-Creating a Rooted Community_, 6 Mar 2012.
-
-
-
-
-
