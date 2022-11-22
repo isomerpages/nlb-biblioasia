@@ -213,7 +213,7 @@ years ago</td>
 
 [^30]: Elizabeth Moore, “[The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia](http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf),” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
-[^31]: Tweedie, “Stone Age in Malaya,” 70; “Raffles Museum To Go Digging for Facts,” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
+[^31]: Tweedie, “Stone Age in Malaya,” 70; “[Raffles Museum To Go Digging for Facts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19491023-1.2.43),” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
 
 [^32]: P.D.R. Williams-Hunt, “Recent Archaeological Discoveries in Malaya (1945–50),” *Journal of the Malayan Branch of the Royal Asiatic Society* 24, no. 1 (154) (February 1951): 191. (From JSTOR via NLB’s eResources website)
 
