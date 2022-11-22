@@ -32,8 +32,7 @@ Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy o
 
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
-Knowledge and remembering \[are\] in the hands and in the body. 
-<div style="text-align: right">— Paul Connerton[^6]</div>
+Knowledge and remembering \[are\] in the hands and in the body. — Paul Connerton[^6]
 
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
@@ -69,8 +68,7 @@ This exhibition could use objects to help to elicit and trigger memories. Often 
 
 Individual personal memories are always shaped by collective contexts. As an individual, we carry memories that we might not have experienced directly, such as memories of others learnt through family stories or school. The exhibition has been guided through this understanding of personal memories that are on one hand, personal and unique and on the other, reflective of the interconnections between generation, culture and the context of living in Singapore. “Hands” provides a platform for remembering and transmission, and is a site for interaction between the memories shared and the visitors who encounter them.
 
-Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects. 
-<div style="text-align: right">— Susan A. Crane[^9]</div>
+Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects. — Susan A. Crane [^9]
 
 <i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
 
