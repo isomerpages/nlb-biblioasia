@@ -42,7 +42,7 @@ One estimate of the stone artefact which Ridley found dates it to 4,000 BCE, but
 In 1919, several stone implements of varying sizes were discovered in Johor’s Tanjong Bunga by Engku Abdul Aziz bin Abdul Majid, the 6th Menteri Besar of Johor.[^17] The location of Tanjong Bunga across the straits in Johor was close enough to Tanjong Karang in Singapore that Roland St John Braddell – a prominent lawyer and scholar of Malayan history – suggested in a 1936 paper in the *Journal of the Malayan Branch of the Royal Asiatic Society* that there was a “stone-age portage” between Johor and Singapore, linking the sites of Tanjong Karang in Singapore and Tanjong Bunga in Johor in 1936.[^18] This theory has yet to be tested.
 
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image7.png)
-<div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website)</i></div>
+<div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website).</i></div>
 
 The artefacts at Tanjong Bunga were described as “lying on white clay within twenty feet of the bank”, and Engku Abdul Aziz had suggested that the stone tools surfaced due to beach erosion resulting from the construction of the Causeway.[^19] However, this is highly unlikely as a 2004 study highlighted that the initial Causeway construction led to low tidal energy in the Johor Strait instead; this indicates that the beach erosion would have occurred prior to 1919.[^20] 
 
@@ -131,11 +131,11 @@ All the stone tool sites described earlier were either found along coastal or in
     <td>Pleistocene</td>  
     <td>2,588,000 to 11,800 years ago
 (The most recent Ice Age)</td>  
-    <td>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] <br>  
-Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] <br>  
-Sangiran, Central Java, Indonesia: 1 million years ago[^60] <br>  
-Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] <br>  
-Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62] </td>  
+    <td><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
+<li>Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] </li>
+<li>Sangiran, Central Java, Indonesia: 1 million years ago[^60] </li>
+<li>Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] </li>  
+<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></td>  
   </tr>  
 	  <tr>  
     <td>Pliocene </td>  
@@ -171,7 +171,7 @@ years ago</td>
 
 [^9]: David Clinnick and Sharon Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2),” *Muse* SG 10, no. 2 (2018): 40.
 
-[^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian* Perspectives 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+[^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian Perspectives* 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^11]: Rambo, “Stone Tool Use,” 116–17.
 
@@ -219,9 +219,9 @@ years ago</td>
 
 [^33]: Clinnick and Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2).”
 
-[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s eResources website) 
+[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s [eResources]((https://eresources.nlb.gov.sg/main/) website) 
 
-[^35]: Defri Elias Simatupang et al., “[Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau](http://repositori.kemdikbud.go.id/18820/),” Berita *Penelitian Arkeologi* 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in [*Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462244) ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
+[^35]: Defri Elias Simatupang et al., “[Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau](http://repositori.kemdikbud.go.id/18820/),” *Berita Penelitian Arkeologi* 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in [*Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462244) ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
 
 [^36]: Ketut Wiradnyana et al., “[Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara](http://repositori.kemdikbud.go.id/8653/),” in *Berita Penelitian Arkeologi* 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34.
 
@@ -251,7 +251,7 @@ years ago</td>
 
 [^49]: A core refers to the source stone that you can remove one or more flakes from through a process called knapping (think of it as the source stone from which you can make new stone tools by chipping bits off). Platforms refer to the surface area that shows the impact of the detachment strike. See Andrefsky, *Lithics*, 254, 262.
 
-[^50]: The Pleistocene is a geological epoch that roughly corresponds with the most recent Ice Age and is dated from approximately 2.6 million years ago to 9,700 BCE. See Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in The *Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 979.
+[^50]: The Pleistocene is a geological epoch that roughly corresponds with the most recent Ice Age and is dated from approximately 2.6 million years ago to 9,700 BCE. See Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 979.
 
 [^51]: Flaked artefacts refer to a portion of rock detached from a core either by percussive flaking or pressure flaking. See Andrefsky, *Lithics*, 255.
 

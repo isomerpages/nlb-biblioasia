@@ -1,5 +1,5 @@
 ---
-title: The Divine Lance: Thaipusam and Murugan Worship in Singapore
+title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
 permalink: /vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
 description: "Thaipusam speaks of a migratory community that carries its
   deep-rooted cultural tradition wherever its people go. "

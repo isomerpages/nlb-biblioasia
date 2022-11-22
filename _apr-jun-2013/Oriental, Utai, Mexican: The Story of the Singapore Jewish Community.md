@@ -8,6 +8,9 @@ description: "Inscribed in the urban landscape of Singapore, through buildings
 ---
 #### Inscribed in the urban landscape of Singapore, through buildings such as David Elias Building and the Abdullah Shooker Welfare Home, is the story of an oft-overlooked group in Singapore’s history: the Jewish community.
 
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Maghain%20Aboth%20Synagogue.jpg">
+ <div style="background-color: white;">
+Maghain Aboth Synagogue at Waterloo Street. <i>Ronni Pinsler Collection. Courtesy of National Archives of Singapore.</i></div> 
 
 
 According to one story, the name Jurong was inspired by local Jewish magnate, Joe David, whose relative operated an open-air cinema in the area after World War II. Mr David was commonly identified as “Orang Jew” (Jewish man), a name that morphed into “Jew-Orang”, and then shortened to “Jurong”.[^1] This urban legend may be patently untrue, but it remains a romantic and telling story.[^2] The fable goes to show the small Jewish community’s outsized cultural, political, and mercantile contributions to Singapore since the early 19th century, and yet, how distinctly their ethnicity has always set them apart in Singaporeans’ minds.
@@ -20,6 +23,11 @@ Buoyed by Singapore’s new status as the Straits Settlement capital, these Jewi
 
 Community historian Eze Nathan’s *The History of Jews in Singapore* provides an important portal into their lives. Like his father, they initially spoke Arabic or Hindustani and wrote in Hebrew. Their style of dress was Arabic, they smoked the *hookah* (an Oriental tobacco pipe), and without formal accountancy training, wrote business accounts on their shirt cuffs.[^7]
 
+
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20wedding.jpg">
+ <div style="background-color: white;">Jewish wedding group photograph from 1954. <i>Courtesy of the National Archives of Singapore.</i></div>
+ 
+ 
 Even by then, Singapore was already a multi-ethnic entrepôt, hosting various Malays, Armenians, Parsees, Arabs, Chinese dialect groups, amongst others.[^8] To almost all these immigrants, Singapore was a mere commercial stopover. Jacob Tomlin, an English Christian missionary who encountered the Jewish people in 1830, found them “well acquainted with their own scriptures and…\[referring\] to the approaching restoration to their own land.[^9]
 
 Their return home to India was to be delayed, for by 1840, the Sassoon family, a pillar of the opium trade, set up shop in Singapore.[^10] Perhaps due to their influence, 1841 was to be a landmark year for the nascent Singapore Jewish community: a synagogue and cemetery were built for its 22 people, including the first four women.[^11]
@@ -28,7 +36,13 @@ Following a petition, the Governor allowed three trustees, going by the surnames
 
 The trustees were also awarded a 99- year lease for the first Jewish cemetery. Located at today’s Dhoby Ghaut MRT, the Orchard Road Cemetery, or Old Cemetery, was moulded out of “a very swampy area as is was known on the very fringe of the jungle”.[^14] It was to remain there until 1983, when the government repossessed it.
 
-With these two places, the community moved from “traders” to “settlers” of Singapore in the census and more importantly, in their self-identities. As pioneering “port Jews”[^15], they did not have to confront the choice that faced the second generation: “adapt to the Britishdominated world and succeed financially, or maintain the life they had at home”, as Joan Bieder frames it in her authoritative *The Jews of Singapore*. [^16]
+
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20cemetery.jpg">
+ <div style="background-color: white;">
+Exhumation works at the Jewish cemetery at Orchard Road. <i>Ronni Pinsler Collection. Courtesy of National Archives of Singapore.</i></div>
+	
+
+With these two places, the community moved from “traders” to “settlers” of Singapore in the census and more importantly, in their self-identities. As pioneering “port Jews”[^15], they did not have to confront the choice that faced the second generation: “adapt to the British dominated world and succeed financially, or maintain the life they had at home”, as Joan Bieder frames it in her authoritative *The Jews of Singapore*. [^16]
 
 One such person who straddled both worlds with panache was Abraham Solomon (1798–1884). Like David Sassoon in Bombay, Solomon became wealthy through opium, and served as Singapore’s Nasi, the unofficial Jewish community leader.
 
@@ -36,7 +50,7 @@ He led a British lifestyle, living away from the commercial centre in a large vi
 
 However naturalised Jewish persons like Solomon became in cosmopolitan Singapore, they stood irrevocably apart in the name of the law. “\[T\]he Singapore Jews became thoroughly anglicised”, anthropologist Tudor Parfitt notes, but “the majority of Jews were always regarded as Orientals or Asiatics”.[^19] Nathan adds that from young, he was made aware of this label: “a tone of disparagement was easily detectable” in its use.[^20] Even the official recognition of their places, but not persons[^21], Jewish people were banned from British institutions like the Tanglin Club, and more pertinently, the British Army, where their attempts to fight for their adopted country in the two World Wars were rejected.
 
-Despite this seeming hypocrisy, the Jewish community had a pressing reason to stay: money. Historian C.M. Turnbull records that by 1846, the six Jewish merchant houses outnumbered Chineseoperated ones, and were second only to the British’s. As a guarantee against the unstable opium trade, Jewish merchants had by now diversified their booming business, importing and exporting goods like coffee and timber, and moving into the stock market.[^22]
+Despite this seeming hypocrisy, the Jewish community had a pressing reason to stay: money. Historian C.M. Turnbull records that by 1846, the six Jewish merchant houses outnumbered Chinese operated ones, and were second only to the British’s. As a guarantee against the unstable opium trade, Jewish merchants had by now diversified their booming business, importing and exporting goods like coffee and timber, and moving into the stock market.[^22]
 
 Slowly, Singapore began to become theirs too, even as their thoughts turned to their ancestral villages. Like the early Chinese immigrant experience about which poet Boey Kim Cheng writes, the Jewish community was to “discover how transit has a way of lasting, the way these Chinatowns / grew out of not knowing to return or to stay, and then became home.”[^23]
 
@@ -44,7 +58,7 @@ Slowly, Singapore began to become theirs too, even as their thoughts turned to t
 
 In 1869, the Suez Canal opened, letting in a diverse Jewish community to Singapore: rich, middle-class and poor, Sephardis and Ashkenazis, all of whom carved out their own enclaves. This second generation of Singapore Jews ushered in the golden years: in 1872, the Jewish population was 172-strong and mostly Baghdadi — by 1942, it consisted of nearly 2,000 diverse Jewish people, the height of the Jewish population.[^24]
 
-For some, fortunes in both senses redoubled. Sir Manasseh Meyer, a firstgeneration Sephardic Jew, arrived early enough to take full advantage of the 1875 law awarding “aliens” like him “equal rights with the British” in property, and later, the tin and rubber boom.[^25] By 1900, he owned three-quarters of Singapore, making him the “richest Jew in the Far East” and the natural inheritor of Solomon’s Nasi role.[^26] He also established homes in the Sophia Road, Katong and Bencoolen Street areas.[^27]
+For some, fortunes in both senses redoubled. Sir Manasseh Meyer, a first generation Sephardic Jew, arrived early enough to take full advantage of the 1875 law awarding “aliens” like him “equal rights with the British” in property, and later, the tin and rubber boom.[^25] By 1900, he owned three-quarters of Singapore, making him the “richest Jew in the Far East” and the natural inheritor of Solomon’s Nasi role.[^26] He also established homes in the Sophia Road, Katong and Bencoolen Street areas.[^27]
 
 For others, migration was simply not what it used to be. Hearing tales of their rich brethren, large numbers of impoverished Baghdadi Jews began making the shorter trip to Singapore. They moved into the *Mahallah*, where most of the Jewish community now lived, and where “the gap between the rich and the poor was complete and dramatic.” These new Sephardis were clerks, pedlars of the traditional Baghdadi roti, or wholesale traders — a far cry from being landlords and opium barons. Nathan recalls passing the *Mahallah* houses, the poorest on Short Street, where “rooms were often almost bare of furniture.”[^28]
 
@@ -69,6 +83,12 @@ Hosted and supported by Meyer, Cohen spoke about the 1917 Balfour Declaration, w
 In the audience was a 14-year-old boy named David Saul Marshall. Having been expelled from St Joseph’s Institution for missing class on Yom Kippur (the holiest Jewish holiday), Einstein’s speech, appealing for the establishment of Jerusalem’s Hebrew University, must have struck a chord in the Sephardic Jew.[^39]
 
 As the first-born eldest son, Marshall parlayed this broader Jewish identity and push for social equality into *ISRAELIGHT*[^40], a magazine he edited.[^41] He wrote in his editorial, “Our community is drawn from every part of the world… We should be able to build on these cultures.”[^42] It was a considered sentiment about the multiethnic nature of Singapore life that was to underpin his political philosophy[^43] as Singapore’s first Chief Minister.
+
+
+<img style="width:50%;" src="/images/Vol%209%20Issue%201/Jewish%20community/David%20Marshall.jpg">
+ <div style="background-color: white;">David Marshall, Chief Minister of Singapore, receiving“Merdeka” Referendum.  <i>Courtesy of the National Archives of Singapore.</i></div>
+
+	
 
 #### **Surviving as Utais**
 
@@ -101,6 +121,11 @@ By the time the war ended, less than 700 Jewish people remained. Even the wealth
 In 1955, David Marshall was elected Singapore’s first Chief Minister. His victory represented, in the political sense, the rise of the Baghdadi Jewish comm-unity and its Zionist movement. In his capacity, Marshall was responsible for giving Singapore its first taste of internal self-government, setting the colony on the path to full independence.
 
 Yet, after the height of Marshall’s 1956 All-Party Constitutional Mission to Whitehall, his political career, mirroring the fate of the Baghdadi Jews, descended, ending in his loss in the 1963 General Election. By 1990, when the Baghdadi community had dwindled to a mere 180, Marshall mourned, “This remnant of a lost tribe is disappearing… We are a vanishing community.”[^55]
+
+
+<img style="width:70%;" src="/images/Vol%209%20Issue%201/Jewish%20community/David%20Elias%20Building.jpg">
+ <div style="background-color: white;">David Elias Building on Middle Road. <i>Courtesy of the National Archives of Singapore.</i></div>
+
 
 Marshall could take comfort in a few victories, at least. When Singapore achieved independence, Judaism was recognised as one of Singapore’s eight official religions. The *Mahallah* and its surrounds were gazetted in 2003 under the Mount Sophia Conservation Area[^56], and the Maghain Aboth as a national monument in 1998. And other Jewish children never again heard the taunt, “Jaudi Jew, brush my shoe, bring it back at half-past-two.” When Marshall was bullied with that racial epithet on the first day of school, he punched the boy in his face.[^57]
 
