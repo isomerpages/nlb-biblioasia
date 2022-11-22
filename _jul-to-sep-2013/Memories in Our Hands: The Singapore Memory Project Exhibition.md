@@ -111,7 +111,6 @@ Hodgkin, K., & Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of m
 
 
 #### **NOTES**
-
 [^1]: [Hodgkin & Radstone](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11944074), 2003.
 
 [^2]: Term originated by Richard Terdiman in his publication Present Past: Modernity and the Memory Crisis. See [Cateel & Climo](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734), 2002.
