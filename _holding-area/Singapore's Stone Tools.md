@@ -251,7 +251,7 @@ years ago</td>
 
 [^49]: A core refers to the source stone that you can remove one or more flakes from through a process called knapping (think of it as the source stone from which you can make new stone tools by chipping bits off). Platforms refer to the surface area that shows the impact of the detachment strike. See Andrefsky, *Lithics*, 254, 262.
 
-[^50]: The Pleistocene is a geological epoch that roughly corresponds with the most recent Ice Age and is dated from approximately 2.6 million years ago to 9,700 BCE. See Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in The *Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 979.
+[^50]: The Pleistocene is a geological epoch that roughly corresponds with the most recent Ice Age and is dated from approximately 2.6 million years ago to 9,700 BCE. See Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 979.
 
 [^51]: Flaked artefacts refer to a portion of rock detached from a core either by percussive flaking or pressure flaking. See Andrefsky, *Lithics*, 255.
 
