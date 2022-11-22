@@ -70,7 +70,7 @@ This was reflected in the case of Chek Jawa in 2001. This wetlands on the island
 &emsp;whose quest for progress<br>
 &emsp;is matched by their<br>
 &emsp;appreciation for the beauty<br>
-&emsp;of nature<br></center>
+&emsp;of nature."<br></center>
 
 
 The government surprised many by agreeing to do so, promising to leave Chek Jawa untouched for the next 10 years. After the decision was made, then-Minister of National Development Mah Bow Tan said: “Has there been any change in our thinking? No. What has changed is the environment. Over the past 10 years, people’s awareness of heritage and conservation issues has become more acute. The Government has also become more aware of the need to accommodate this... giving people a sense of belonging to Singapore.”16
