@@ -209,7 +209,7 @@ years ago</td>
 
 [^28]: H.R. van Heekeren, [*The Stone Age of Indonesia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=541252), 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “[Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat](https://doi.org/10.24832/nw.v6i1.79),” *Naditira Widya* 6, no. 1 (April 2012), 5–13.
 
-[^29]: E.g. Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “History Written in Stone: *Evolutionary Analysis of Stone Tools in Archaeology,” Evolution: Education and Outreach* 4 (2011): 435.
+[^29]: E.g. Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “History Written in Stone: *Evolutionary Analysis of Stone Tools in Archaeology,” Evolution: Education and Outreach* 4 (2011): 435.
 
 [^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “The ‘Tuan Jangot’ Is Dead,” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
