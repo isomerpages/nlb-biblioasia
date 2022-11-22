@@ -275,6 +275,6 @@ years ago</td>
 
 [^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context],” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
 
-[^62]: Zhaoyun Zhu et al., “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” *Nature* 559 (11 July 2018), 608–12.
+[^62]: Zhaoyun Zhu et al., “[Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago](https://www.nature.com/articles/s41586-018-0299-4),” *Nature* 559 (11 July 2018), 608–12.
 
 [^63]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature* 521 (May 2015), 310–15.
