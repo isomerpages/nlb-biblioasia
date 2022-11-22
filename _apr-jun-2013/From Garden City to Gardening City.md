@@ -112,3 +112,125 @@ Citizens have become ’gardeners’ of this “City in a Garden”, where they 
 <div>
 <b>Justin Zhuang</b> writes and researches on Singapore’s visual culture, heritage and spaces under the auspices of “In Plain Words” (http://inplainwords.sg)
 </div>
+
+
+#### **REFERENCES**
+
+    
+
+Ang, I. (1988, November 22). [Fruit theft a common problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881122-1.2.38.1). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
+
+[Bringing highrise residents closer to nature](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770730-1.2.89.8). (1977, July 30). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
+
+[Burst of colour to enhance garden city](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47). (1980, September 18). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+Campbell, W. (1972, April 10). [Garden city concepts gets lift](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720410-1.2.80). _The Straits Times_, p. 14. Retrieved from NewspaperSG.
+
+Chong, W.L. (1977, November 6). [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770926-1.2.76.3). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+
+Francesch-Huidobro, M. (2008). The power of persuasion: Conserving Sungei Buloh (pp. 165–220). In [_Governance, politics and the environment: A Singapore study_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13068037). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 320.58095957 FRA)
+
+[Fruit trees to nurture community spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851116-1.2.23.10). (1985, November 16). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+
+Glauberman, S. (1985, August 25). [Fruits of labour are going to waste](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850825-1.2.8.5). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+
+[Lee begins the tree campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630617-1.2.40). (1963, June 17). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+Lee, S.K. (1995). Concept of the garden city (pp. 129–147). In G.L. Ooi (Ed.), [_Environment and the city: Sharing Singapore's experience and future challenge_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7499054). Singapore: Institute of Policy Studies. (Call no.: RSING 363.70095957 ENV)
+
+Leong, C.T. (1991, September 12). [Blueprint for a city of diversity and grace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910912-1.2.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+Lim, L. (2002, January 15). [Govt open to feedback on conservation issues](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020115-1.2.31.6). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+
+National Parks Board. (2019, March 29). _Community in bloom – Singapore’s National Gardening movement_. Retrieved from National Parks Board website: https://www.nparks.gov.sg/gardening/community-in-bloom-initiative
+
+Nature Society (Singapore). (2011). _Butterfly & insect group_. Retrieved from Nature Society (Singapore) website: https://www.nss.org.sg/blog\_Butterfly\_Interest/?p=253
+
+Pang, P. (2003, December 3). [Green tax breaks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20031203-1.2.11.2). _Today_, p. 6. Retrieved from NewspaperSG.
+
+Quek, T. (2010, January 4). [How the idea of a city nature trail came about](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100124-1.2.8.17). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
+
+Saifulbahri Ismail. (2012, June 28). Decision to build Gardens By The Bay not an easy one: PM Lee. _ChannelNews Asia_. Retrieved from ChannelNews Asia website.
+
+Singapore. Parliament. [_Parliamentary Debates: Official report_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 28). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
+
+Sit, M. (1980, September 4). [Plants must go order incurs wrath of residents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800904-1.2.42). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+Tai, J. (2012, December 10). [A vote to capture the National butterfly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121210-1.2.26.5.1). _The Straits Times_, pp. 4–5. Retrieved from NewspaperSG.
+
+Tan, A. (2011, July 11). [Informal group to discuss railway land use](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
+
+Tan, C-J. (2012, March 6). _Celebrating & co-creating a rooted community_. Retrieved from Ministry of National Development website.
+
+Teo, W.G., & Toh, Y.C. (2011, December 30). [Campaign for a green corridor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4). _The Straits Times_, p. 20. Retrieved from NewspaperSG.
+
+[Three Ministers lead the tree planters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640309-1.2.35). (1964, March 9). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+Urban Redevelopment Authority (Singapore). (2012, May 12). URA establishes rail corridor partnership to explore and promote community activities along rail corridor \[Press Release\]. Retrieved from URA website: http://www.thegreencorridor.org/2012/05/02/ura-establishes-rail-corridor-partnership-to-explore-and-promote-community-activities-along-rail-corridor/
+
+Wee, C.F. (2012, March 18). [Garden scheme blooms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120318-1.2.56.1.7). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to conserve Singapore’s nature areas. [_Nature in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13367689), 41–49.
+
+
+#### **NOTES**
+
+
+[^1]: Singapore.  _[Parliamentary Debates: Official Report](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189)_, 16 Dec 1968.
+
+[^2]: [Lee](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7499054), 1995.
+
+[^3]: _[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47), 18 Sep 1980, p. 9.
+
+[^4]: [Leong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910912-1.2.2), 12 Sep 1991, p. 1.
+
+[^5]: Ismail, 28 June 2012.
+
+[^6]: _[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640309-1.2.35), 9 Mar 1964, p. 5.
+
+[^7]: [Campbell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720410-1.2.80), 10 Apr 1972, p. 14.
+
+[^8]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851116-1.2.23.10)_, 16 Nov 1985, p. 12
+
+[^9]: _[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47), 18 Sep 1980, p. 9.
+
+[^10]: [Glauberman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850825-1.2.8.5), 25 Aug 1985, p. 3.
+
+[^11]: [Ang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881122-1.2.38.1), 22 Nov 1988, p. 24.
+
+[^12]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770730-1.2.89.8)_, 30 Jul 1977, p. 15; [Chong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770926-1.2.76.3), 26 Sep 1977, p. 12.
+
+[^13]: [Sit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800904-1.2.42), 4 Sep 1980, p. 7.
+
+[^14]: [Wee & Hale](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13367689), 2008.
+
+[^15]: [Francesch-Huidobro](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13068037), 2008.
+
+[^16]: [Lim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020115-1.2.31.6), 15 Jan 2002, p. 2.
+
+[^17]: [Pang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20031203-1.2.11.2), 3 Dec 2003, 6.
+
+[^18]: National Parks Board, _Community in Bloom_, 29 Mar 2019.
+
+[^19]: [Wee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120318-1.2.56.1.7), 18 Mar 2012, p. 6.
+
+[^20]: [Wee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120318-1.2.56.1.7), 18 Mar 2012, p. 6.
+
+[^21]: Nature Society (Singapore), _Butterfly & insect group_, 2011.
+
+[^22]: [Quek](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100124-1.2.8.17), 24 Jan 2010, p. 15.
+
+[^23]: [Tai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121210-1.2.26.5.1), 10 Dec 2012, pp. 4—5.
+
+[^24]:. [Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9), 10 Jul 2011, p. 15.
+
+[^25]: Urban Redevelopment Authority (Singapore), _URA Establishes Rail Corridor Partnership to Explore and Promote Community Activities Along Rail corridor_, 12 May 2012.
+
+[^26]: [Teo & Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4), 30 Dec 2011, p. 20.
+
+[^27]: Tan, _Celebrating & Co-Creating a Rooted Community_, 6 Mar 2012.
+
+
+
+
+
