@@ -175,7 +175,7 @@ years ago</td>
 
 [^11]: Rambo, “Stone Tool Use,” 116–17.
 
-[^12]: Tweedie, “Stone Age of Malaya,” 69; Urban Redevelopment Authority (Singapore), *Tuas Planning Area: Planning Report 1996* (Singapore: Urban Redevelopment Authority, 1996), 8. (From National Library, Singapore, call no. RSING 711.4095957 SIN)
+[^12]: Tweedie, “Stone Age of Malaya,” 69; Urban Redevelopment Authority (Singapore), [*Tuas Planning Area: Planning Report 1996*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7656106) (Singapore: Urban Redevelopment Authority, 1996), 8. (From National Library, Singapore, call no. RSING 711.4095957 SIN)
 
 [^13]: Henry Nicholas Ridley, *HN Ridley's Notebooks*, vols. 2–6, 1880–1909, National Library of Australia. (From National Archives of Singapore, accession no. M771)
 
