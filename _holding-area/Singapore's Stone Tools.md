@@ -163,7 +163,7 @@ years ago</td>
 
 [^5]: M.W.F. Tweedie, “The Stone Age of Malaya,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 2 (162) (October 1953): 6–7. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); M.W.F. Tweedie, “The Malayan Neolithic,” *Journal of the Polynesian Society* 58, no. 1 (March 1949): 19–35. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). Roger Duff, [*Stone Adzes of Southeast Asia: An Illustrated Typology*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=68544) (Christchurch: Canterbury Museum Trust Board, 1970). (From National Library, Singapore, call no. RCLOS 915.903 DUF) 
 
-[^6]: Mike J.C. Walker, *Quaternary Dating Methods* (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia,” *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5. 
+[^6]: Mike J.C. Walker, [*Quaternary Dating Methods*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680597) (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia,” *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5. 
 
 [^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” *The Prehistoric Society* 32 (December 1966): 352–53. 
 
