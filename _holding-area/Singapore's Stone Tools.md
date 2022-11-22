@@ -165,7 +165,7 @@ years ago</td>
 
 [^6]: Mike J.C. Walker, [*Quaternary Dating Methods*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680597) (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “[Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia](https://journals.lib.washington.edu/index.php/BIPPA/article/view/9470/0),” *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5. 
 
-[^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” *The Prehistoric Society* 32 (December 1966): 352–53. 
+[^7]: Frederick L. Dunn, “[Radiocarbon Dating the Malayan Neolithic](https://doi.org/10.1017/S0079497X0001447X),” *The Prehistoric Society* 32 (December 1966): 352–53. 
 
 [^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15.
 
