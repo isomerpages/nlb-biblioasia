@@ -120,8 +120,8 @@ years ago</td>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/Chew_Tee_Pao.png" style="width: 100px; height: 100px;"/>
-	<b>Chew Tee Pao</b> has been with the Asian Film Archive (AFA) since 2009. As an archivist since 2014, he has overseen the restoration of over 30 films from the AFA collection.</div>
+<img src="/images/Vol%2018%20Issue%204/Authors/Foo_Shu_Tieng.png" style="width: 100px; height: 100px;"/>
+	<b>Foo Shu Tieng</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on ResearchGate.</div>
 	
 
 #### **NOTES**
