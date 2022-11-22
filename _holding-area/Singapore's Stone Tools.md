@@ -201,7 +201,7 @@ years ago</td>
 
 [^24]: Tweedie, “Stone Age in Malaya,” 69, 84–85.
 
-[^25]: Stephen Chua et al., “A New Holocene Sea-level Record for Singapore,” The *Holocene* 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore,” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523.
+[^25]: Stephen Chua et al., “[A New Holocene Sea-level Record for Singapore](https://doi.org/10.1177/09596836211019096),” The *Holocene* 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore,” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523.
 
 [^26]: Tweedie, “Stone Age in Malaya,” 85.
 
