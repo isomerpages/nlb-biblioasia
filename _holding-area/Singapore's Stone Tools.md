@@ -189,7 +189,7 @@ years ago</td>
 
 [^18]: Roland Braddell, “An Introduction to the Study of Ancient Times in the Malay Peninsula and the Straits of Malacca,” *Journal of the Malayan Branch of the Royal Asiatic Society* 14, no. 3 (December 1936): 36. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). 
 
-[^19]: Alvin Chua, “The Causeway,” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
+[^19]: Alvin Chua, “[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
 
 [^20]: Michael Bird et al., “Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore,” *Applied Geography* 24, no. 3 (2004): 184, 192.
 
