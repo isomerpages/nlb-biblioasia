@@ -7,8 +7,8 @@ description: Stone tools have been found in and around Singapore since the late
 #### Stone tools have been found in and around Singapore since the late 19th century. Much about them remains a mystery.
 By Foo Shu Tieng
 
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
-<div style="background-color: white;">Neng Yatimah and P. Ramlee in <i>Patah Hati</i> by K.M. Basker. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image1.png)
+<div style="background-color: white;">The round axe discovered at Tanjong Karang (now Tuas) in Singapore (Accession no. A1277). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Much of the archaeological research on Singapore since the 1980s – whether land-based or maritime – has focused on historic periods, particularly the era from the 14th to the 20th centuries.[^1] However, scholars have long suspected that the islands that make up Singapore might have been occupied several thousand years ago and that stone tools may provide the evidence for that period.[^2] 
 
