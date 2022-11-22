@@ -18,14 +18,17 @@ In Malaya, stone tools were found and reported during the colonial period, and w
 
 Stone tools are usually not directly dated as this would only give an indication of when the rock was formed but not necessarily when the rock was manipulated and shaped. However, organic materials such as wood or shell might be found in the same excavation pit and dated based on their relative position to the stones. This is why finding artefacts in a non-disturbed context is vital. 
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image2.png)
+<div style="background-color: white;">A polished stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no.A1285). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 That said, there are some very old sites with stone tools found in Malaysia, and their discovery also raises the question as to how old the sites in Singapore might be. In 2008, archaeologists in Lenggong Valley, Perak, uncovered tools that may date back to an astounding 1.83 million years. For reference, the oldest stone tool site in the world is in West Turkana, Kenya, which is about 3.3 million years old.[^8] 
 
 It is generally thought that stone tools found in this region, and around the world, functioned in a similar fashion to modern-day axes and were used for wood working.[^9]  In addition, we can see how stone tools are being used today to get a sense of how they might have been used in the past. Based on ethnographic literature, stone tools in Peninsular Malaysia are used in a variety of ways. Depending on their shape, stone tools could be used for root pounding, iron working, as whetstones to sharpen other tools, or as files for smoothening teeth.[^10]  Rocks are used in fires (for example, to stabilise cooking pots or to contain the fire) or for roasting grain.
 
 There is also evidence to show that rocks were used by Orang Asli groups, such as the Temuan and Semai, as an afterbirth procedure where the heated stones were wrapped in a specific kind of leaf and placed on the body of new mothers during the three days after giving birth. In addition, stones were also used for lighting fires, as projectiles, and even as medicine or for magical purposes.[^11]  
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image2.png)
-<div style="background-color: white;">A polished stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no.A1285). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image3.png)
+<div style="background-color: white;">A stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no. A1734). <i>Collection of the Asian Civilisations Museum.</i></div>
 
 #### **Stone Tools in 	Singapore and Johor**
 
