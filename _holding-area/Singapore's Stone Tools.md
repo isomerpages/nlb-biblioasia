@@ -64,7 +64,13 @@ On paper, the wide distribution would suggest that these stone tools were not ge
 
 In addition to the Tanjong Bunga and Tanjong Karang areas, stone tools have also been found on Pulau Ubin. P.D.R. Williams-Hunt, Advisor on Aborigines for the Federation of Malaya,[^30] reported the existence of several stone artefacts (more round axes and stone flakes) at a site called Tanjong Tajam on the western end of Pulau Ubin, and the find was made public in October 1949.[^31] Williams-Hunt and Collings conducted an archaeological excavatio at Tanjong Tajam in November 1949, but it was reported in 1951 that nothing of interest was found.[^32] 
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image5.png)
+<div style="background-color: white;">Artefact from Tanjong Tajam on Pulau Ubin, Singapore (Accession no. 1280). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 In 2017, archaeologist David Clinnick and Sharon Lim, an assistant curator at the National Museum of Singapore, visited the Tanjong Tajam site. Although Clinnick reported finding a possible stone tool, a peer-reviewed article on this research has yet to be published and this finding cannot be confirmed.[^33] 
+
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image6.png)
+<div style="background-color: white;">A stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no. 0533). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Stone Tools in Bintan**
 
