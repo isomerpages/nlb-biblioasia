@@ -159,7 +159,7 @@ years ago</td>
 
 [^3]: When considering what is natural or shaped by hominins, the knowledge of fracture mechanics is important. See William Andrefsky Jr., *Lithics: Macroscopic Approaches to Analysis*, 2nd ed. (Cambridge: Cambridge University Press, 2005), 11. 
 
-[^4]: Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the Hunter’ and the Sexual Division of Labor,” *Current Anthropology* 50, no. 1 (February 2009), 51. (From EBSCOHOST via NLB’s eResources website)
+[^4]: Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the Hunter’ and the Sexual Division of Labor,” *Current Anthropology* 50, no. 1 (February 2009), 51. (From EBSCOHOST via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^5]: M.W.F. Tweedie, “The Stone Age of Malaya,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 2 (162) (October 1953): 6–7. (From JSTOR via NLB’s eResources website); M.W.F. Tweedie, “The Malayan Neolithic,” *Journal of the Polynesian Society* 58, no. 1 (March 1949): 19–35. (From JSTOR via NLB’s eResources website). Roger Duff, *Stone Adzes of Southeast Asia: An Illustrated Typology* (Christchurch: Canterbury Museum Trust Board, 1970). (From National Library, Singapore, call no. RCLOS 915.903 DUF) 
 
