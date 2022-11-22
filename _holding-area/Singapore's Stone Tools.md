@@ -155,7 +155,7 @@ years ago</td>
 
 [^1]: John N. Miksic, [*Singapore & The Silk Road of the Sea: 1300–1800*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200123868) (Singapore: NUS Press and National Museum Singapore), 209–63. (From National Library, Singapore, call no. RSING 959.57 MIK-[HIS]); The last in-depth publication that discusses stone tools in Singapore is Alexandra Avieropoulou Choo, [*Archaeology: A Guide to the Collections, National Museum Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4693550), ed. Jane Puranananda (Singapore: National Museum of Singapore, 1987), 5–17. (From National Library, Singapore, call no. RSING 934.1074095957 CHO)
 
-[^2]: Miksic, *Singapore & The Silk Road*, 217–18.
+[^2]: Miksic, [*Singapore & The Silk Road*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200123868), 217–18.
 
 [^3]: When considering what is natural or shaped by hominins, the knowledge of fracture mechanics is important. See William Andrefsky Jr., *Lithics: Macroscopic Approaches to Analysis*, 2nd ed. (Cambridge: Cambridge University Press, 2005), 11. 
 
