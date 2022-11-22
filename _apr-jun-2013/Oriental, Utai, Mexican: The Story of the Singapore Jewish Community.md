@@ -7,6 +7,9 @@ description: "Inscribed in the urban landscape of Singapore, through buildings
   community."
 ---
 #### Inscribed in the urban landscape of Singapore, through buildings such as David Elias Building and the Abdullah Shooker Welfare Home, is the story of an oft-overlooked group in Singapore’s history: the Jewish community.
+
+
+
 According to one story, the name Jurong was inspired by local Jewish magnate, Joe David, whose relative operated an open-air cinema in the area after World War II. Mr David was commonly identified as “Orang Jew” (Jewish man), a name that morphed into “Jew-Orang”, and then shortened to “Jurong”.1 This urban legend may be patently untrue, but it remains a romantic and telling story.2 The fable goes to show the small Jewish community’s outsized cultural, political, and mercantile contributions to Singapore since the early 19th century, and yet, how distinctly their ethnicity has always set them apart in Singaporeans’ minds.
 
 #### **A Rich Homogeneity in Opium**
@@ -25,7 +28,7 @@ Following a petition, the Governor allowed three trustees, going by the surnames
 
 The trustees were also awarded a 99- year lease for the first Jewish cemetery. Located at today’s Dhoby Ghaut MRT, the Orchard Road Cemetery, or Old Cemetery, was moulded out of “a very swampy area as is was known on the very fringe of the jungle”.14 It was to remain there until 1983, when the government repossessed it.
 
-With these two places, the community moved from “traders” to “settlers” of Singapore in the census and more importantly, in their self-identities. As pioneering “port Jews”15, they did not have to confront the choice that faced the second generation: “adapt to the Britishdominated world and succeed financially, or maintain the life they had at home”, as Joan Bieder frames it in her authoritative T*he Jews of Singapore*. 16
+With these two places, the community moved from “traders” to “settlers” of Singapore in the census and more importantly, in their self-identities. As pioneering “port Jews”15, they did not have to confront the choice that faced the second generation: “adapt to the Britishdominated world and succeed financially, or maintain the life they had at home”, as Joan Bieder frames it in her authoritative *The Jews of Singapore*. 16
 
 One such person who straddled both worlds with panache was Abraham Solomon (1798–1884). Like David Sassoon in Bombay, Solomon became wealthy through opium, and served as Singapore’s Nasi, the unofficial Jewish community leader.
 
@@ -53,7 +56,7 @@ This new stratification in Jewish society also occurred within groups. Amidst th
 
 In 1873, Meyer began planning a new synagogue to cater for the burgeoning population. The Maghain Aboth, a simple one-storey building, was consecrated in 1878 on Waterloo Street — a second storey was later added. But the widening language and class divide followed him there. In the synagogue, there was a literal segregation among three groups: the wealthy sat on the left of the *bimah* (dais), shopkeepers and small merchants on the right, and the poor behind.33
 
-Arguments began to arise among the synagogue’s members about religious rituals and the order of service.34 To escape the rancour, Meyer simply built his own synagogue — Chesed-El — and brought in a personal *Hazan* (minister) from Baghdad. The imposing Chesed-El, incorporating Roman and Greek architecture, was opened in 1905, but its distant location on Oxley Rise made it inaccessible to the *Mahallah’s* poor.35
+Arguments began to arise among the synagogue’s members about religious rituals and the order of service.34 To escape the rancour, Meyer simply built his own synagogue — Chesed-El — and brought in a personal *Hazan* (minister) from Baghdad. The imposing Chesed-El, incorporating Roman and Greek architecture, was opened in 1905, but its distant location on Oxley Rise made it inaccessible to the *Mahallah*’s poor.35
 
 In retrospect, these divisions in the once largely homogenous Jewish community were inevitable. Besides the sudden population increase, the opium trade had been completely taken over by the British in 1910, denying newcomers a direct road to riches. All the same, the Cohens and Ballas are examples of prominent families who rose from extreme poverty, while the early 20th century was especially easy-going for middle-class Jewish people, even through the Depression. “We were all royalist,” Nathan recounts. “We were unaware of racial tension — were we not all British?”36
 
@@ -85,7 +88,7 @@ The *Utais* tried as best as they could to do so, in the face of a severe lack o
 
 Nathan recalls: 
 
-\[A Japanese official\] stopped me in the street and examined my armband closely. “You what-ka?” he asked. I answered in as firm a voice as I could muster, “I am a Jew.” To my astonishment, he grasped my hand and shook it energetically, smiling broadly. “Ah Jew!” he exclaimed. “Werry \[sic\] good! In the world three great J’s — one Japan, two Julius Caesar, three Jew!”51
+<center>\[A Japanese official\] stopped me in the street and examined my armband closely. “You what-ka?” he asked. I answered in as firm a voice as I could muster, “I am a Jew.” To my astonishment, he grasped my hand and shook it energetically, smiling broadly. “Ah Jew!” he exclaimed. “Werry \[sic\] good! In the world three great J’s — one Japan, two Julius Caesar, three Jew!”51</center>
 
 True to their unpredictability, the Japanese suddenly interned more than 100 Jewish men on 5 April 1943. They were imprisoned at Changi camp, where they were largely left to continue their way of life. No one knew why they were captured, but after the war, a story circulated that a German ship had arrived in Singapore — its officers instructed the Japanese to “do something” with the Jewish people.52
 
@@ -105,7 +108,7 @@ As a new nation, Singapore built on its Zionist links. By 1956, Francis Thomas, 
 
 In 2000, former Prime Minister Lee Kuan Yew revealed that the Israel Defence Force had helped establish the Singapore army. “To disguise their presence,” he wrote, “we called them ’Mexicans.’ They looked swarthy enough”. The secret identities of the Israeli military mission, headed by then Colonel Yaakov (Jack) Elazari, was invented “in order not to arouse suspicions among the Malay Muslims”. In less than a year, Elazari, with the assistance of the Mossad, trained 200 commanders, and wrote the founding manuals for the Singapore army and intelligence body. 60
 
-More particularly, the dispersed Jewish community presents a difficulty to urban and heritage planners. How can one identify a singular cultural enclave like Chinatown, if the places where the group worked, lived, played, and prayed are geographically scattered and in spirit, dissipated?
+<center>More particularly, the dispersed Jewish community presents a difficulty to urban and heritage planners. How can one identify a singular cultural enclave like Chinatown, if the places where the group worked, lived, played, and prayed are geographically scattered and in spirit, dissipated?</center>
 
 More recently, American, Australian and other European Jewish people have joined Singapore’s Israeli expatriates. In order to survive, the Baghdadi community found that they had to open themselves up, and through the Jewish Welfare Board, focus on cohesion between the different “blood groups” by catering to a “fuller Jewish life”. However, as with the Sephardis and Ashenazis, there remains “a social and cultural distance” between the old and new communities.61
 
@@ -132,5 +135,3 @@ But the onus is on people, not power, to remember and more importantly, react. R
 <div>
 <b>Dan Koh</b> is a recipient of the NUS FASS scholarship, cofounder and editor of POSKOD. SG. He co-authored *Gila Bola*! (2012) and has had his short plays staged and published. He is the producer of The *Obs* (2013) and works at Epigram Books.
 </div>
-
-
