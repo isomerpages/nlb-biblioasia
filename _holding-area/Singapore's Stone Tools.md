@@ -87,8 +87,8 @@ More significantly, part of a human jaw and calf bone were discovered on the eas
 
 The BKKD site gives some indication as to how stone tools continued to be in use in the area until much later. This, however, raises the important question: were the tools found in Singapore from the Neolithic period, or much later? Another question that the BKKD raises is the identity of the people who might have made these tools. Although no human remains were found in association with the stone tools unearthed in Singapore and Johor, DNA analysis of the remains from the Bintan site may provide clues as to whether the stone tools might be traced to the Orang Laut (sea people) or to an even older and unknown prehistoric community.[^42] 
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image8.png)
-<div style="background-color: white;">The Orang Seletar, one of the sub-groups of the Orang Laut, in Singapore, 1950s. DNA analysis of the shell midden site in Bintan may provide clues as to whether the stone tools might be traced to the Orang Laut (sea nomads) or to an even older and unknown prehistoric community. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image9.png)
+<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Hubert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
 
 #### **Stone tools in Southeast Asia**
 
@@ -111,6 +111,9 @@ The stone tool technology then transitioned into highly polished stone adzes, ax
 There are possibilities for further research on the stone tools discovered in Singapore, particularly in terms of the excavation notes (if any are to be found) and the research methods. Given that radiometric dating was not conducted for the sites with the artefacts, it cannot be determined whether the tools were used or made much later for their healing and magical properties. (There is ethnographic evidence to suggest that stone tools may have had a secondary use as thunderstones associated with magic rituals [Indonesian/Malay: *batu halilintar* or *batu lintar*] and this may be part of a larger global phenomenon.[^55])
 
 All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
+
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image8.png)
+<div style="background-color: white;">The Orang Seletar, one of the sub-groups of the Orang Laut, in Singapore, 1950s. DNA analysis of the shell midden site in Bintan may provide clues as to whether the stone tools might be traced to the Orang Laut (sea nomads) or to an even older and unknown prehistoric community. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
 <table style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">  
   <tr>  
