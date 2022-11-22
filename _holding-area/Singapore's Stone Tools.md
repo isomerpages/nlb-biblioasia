@@ -241,7 +241,7 @@ years ago</td>
 
 [^44]: “Introduction to Archaeology: Glossary”, Archaeological Institute of America, accessed 1 August 2022, https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/.
 
-[^45]: “Introduction to Archaeology” and Ignacio de la Torre, “The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution,” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5. 
+[^45]: “Introduction to Archaeology” and Ignacio de la Torre, “[The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution](https://doi.org/10.1098/rstb.2015.0245),” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5. 
 
 [^46]: Robin Dennell, “Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic,” *Quaternary International* 400 (May 2016): 14–22.
 
