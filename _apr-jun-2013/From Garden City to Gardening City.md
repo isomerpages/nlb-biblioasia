@@ -180,19 +180,19 @@ Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to
 
 [^2]: [Lee](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7499054), 1995.
 
-[^3]: _[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47), 18 Sep 1980, p. 9.
+[^3]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47), 18 Sep 1980, p. 9.
 
 [^4]: [Leong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910912-1.2.2), 12 Sep 1991, p. 1.
 
 [^5]: Ismail, 28 June 2012.
 
-[^6]: _[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640309-1.2.35), 9 Mar 1964, p. 5.
+[^6]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640309-1.2.35), 9 Mar 1964, p. 5.
 
 [^7]: [Campbell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720410-1.2.80), 10 Apr 1972, p. 14.
 
-[^8]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851116-1.2.23.10)_, 16 Nov 1985, p. 12
+[^8]: [The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851116-1.2.23.10)_, 16 Nov 1985, p. 12
 
-[^9]: _[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47), 18 Sep 1980, p. 9.
+[^9]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800918-1.2.47), 18 Sep 1980, p. 9.
 
 [^10]: [Glauberman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850825-1.2.8.5), 25 Aug 1985, p. 3.
 
