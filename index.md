@@ -301,4 +301,12 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
+  - infopic:
+      title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
+      subtitle: Culture
+      description: Thaipusam speaks of a migratory community that carries its
+        deep-rooted cultural tradition wherever its people go.
+      button: Carrying the kavadi
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
+      alt: Image alt text
 ---
