@@ -76,6 +76,9 @@ In 2017, archaeologist David Clinnick and Sharon Lim, an assistant curator at th
 
 Stone tools were also reported in 2012 and 2014 at the Kawal Darat shell midden on the nearby island of Bintan. Shell middens are man-made heaps where the primary component are shell remains, the result of marine resource exploitation during its site-use period.[^34] This particular shell midden is known as Bukit Kerang Kawal Darat in Indonesian (BKKD).[^35] The site consists of a group of three shell mounds near the Kawal River.[^36] 
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image10.png)
+<div style="background-color: white;">Aerial view of the Kawal Darat shell midden in Bintan. <i>Image reproduced from Taufiqurrahman Setiawan, “Melihat Kembali nilai penting Bukit Kerang Kawal Darat,” in Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia), 87. (From National Library, Singapore, call no. RSEA 959.81 DAR).</i></div>
+
 An initial radiocarbon date from one of the shell middens suggested that it was in use between the 5th and 10th centuries, making it relatively young. In comparison, the Pangkalan shell midden in Aceh in North Sumatra was utilised between 10,890 BCE and 1,780 BCE.[^37] The BKKD also existed much later than the Guar Kepah shell midden site in Penang, which dates back to between 3,800 BCE and 3,260 BCE.[^38] 
 
 In 2012, an artefact made of andesite, a fine-grained igneous rock, was reported and found at BKKD in the same layer as plain earthenware fragments and Tridacna shells (Tridacna are a type of large saltwater clam). In 2014, artefacts made from quartzite and bauxite, as well as modified mollusc shells and bones, were reported.[^39] 
