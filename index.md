@@ -308,6 +308,6 @@ sections:
         deep-rooted cultural tradition wherever its people go.
       button: Carrying the kavadi
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
-      alt: Image alt text
+      alt: Thaipusam
       image: /images/Kavadi resized.jpg
 ---
