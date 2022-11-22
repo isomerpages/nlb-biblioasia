@@ -56,7 +56,7 @@ Sungei Buloh was the first post-colonial allocation of land for nature conservat
 
 This was reflected in the case of Chek Jawa in 2001. This wetlands on the island of Pulau Ubin was already slated for reclamation since 1992, but a chance discovery in 2000 of its rich biodiversity led a group of volunteers to follow in the footsteps of the Nature Society and come up with a report on Chek Jawa’s natural heritage and a petition to the government for the conservation of this natural habitat.
 
-&emsp; As then-PM Lee outlined<br>
+<center>&emsp; As then-PM Lee outlined<br>
 &emsp;in his vision of the future<br>
 &emsp;“By the 1990s, Singapore<br>
 &emsp;can become a green, shady<br>
@@ -66,7 +66,7 @@ This was reflected in the case of Chek Jawa in 2001. This wetlands on the island
 &emsp;whose quest for progress<br>
 &emsp;is matched by their<br>
 &emsp;appreciation for the beauty<br>
-&emsp;of nature<br>
+&emsp;of nature<br></center>
 
 
 The government surprised many by agreeing to do so, promising to leave Chek Jawa untouched for the next 10 years. After the decision was made, then-Minister of National Development Mah Bow Tan said: “Has there been any change in our thinking? No. What has changed is the environment. Over the past 10 years, people’s awareness of heritage and conservation issues has become more acute. The Government has also become more aware of the need to accommodate this... giving people a sense of belonging to Singapore.”16
