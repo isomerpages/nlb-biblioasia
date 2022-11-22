@@ -294,7 +294,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^37]: Carl Vadivella Belle, [*Thaipusam in Malaysia: A Hindu Festival in the Tamil Diaspora*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049) (Singapore: ISEAS-Yusof Ishak Institute, 2017), 273. (From National Library, Singapore, call no. RSEA 294.53609595 BEL) 
 
-[^38]: Alison Arnold ed., [*The Garland Encyclopedia of World Music: South Asia: The Indian Subcontinent*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11552905) vol. 5 (New York; London: Routledge, 1998–2002), x. (From National Library, Singapore, call no. RSEA 780.9 GAR)
+[^38]: Alison Arnold ed., [*The Garland Encyclopedia of World Music: South Asia: The Indian Subcontinent*](https://safe.menlosecurity.com/https:/catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11552905) vol. 5 (New York; London: Routledge, 1998–2002), 921. (From National Library, Singapore, call no. RSEA 780.9 GAR)
 
 [^39]: A copy is available at the library of the Sri Thendayuthapani Temple. 
 
