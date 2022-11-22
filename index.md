@@ -18,7 +18,7 @@ sections:
       background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
       title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
-      subtitle: Worship
+      subtitle: Culture
       description: The local Taoist pantheon includes goddesses only found in
         Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
       button: Taoist Folk Goddesses of Singapore
