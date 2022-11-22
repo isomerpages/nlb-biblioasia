@@ -181,7 +181,7 @@ years ago</td>
 
 [^14]: War Office, “[The Singapore Naval Base](https://www.nas.gov.sg/archivesonline/private_records/record-details/e7a420ac-115b-11e3-83d5-0050568939ad),” 1924–1933, The National Archives, United Kingdom, 70. (From National Archives of Singapore, accession no. WO 106/132); Chia Lin Sien, Habibullah Khan and Chou Loke Ming, [*The Coastal Environmental Profile of Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5452351) (Manila: International Center for Living Aquatic Resources Management, 1988), 41. (From National Library, Singapore, call no. RCLOS 333.917095957 CHI); Urban Redevelopment Authority (Singapore), [*Tuas Planning Area*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7656106), 11.
 
-[^15]: Nancy Koh, “Seeing Old Singapore in a Lump of Clay,” *Straits Times*, 19 November 1987, 2. (From NewspaperSG)
+[^15]: Nancy Koh, “[Seeing Old Singapore in a Lump of Clay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871119-1.2.73.4.1),” *Straits Times*, 19 November 1987, 2. (From NewspaperSG)
 
 [^16]: Ian C. Glover, “Connecting Prehistoric and Historic Cultures in Southeast Asia,” *Journal of Southeast Asian Studies* 47, no. 3 (October 2016): 507. (From JSTOR via NLB’s eResources website); Rambo, “Stone Tool Use,” 116–17; Dietrich Stout, “Skill and Cognition in Stone Tool Production,” *Current Anthropology* 43, no. 5 (December 2002): 693–722. (From EBSCOhost via NLB’s eResources website)
 
