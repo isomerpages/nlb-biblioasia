@@ -107,19 +107,24 @@ New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Devel
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THE GENESIS OF THE MODERN FOOD COURT</b><br><br>
-	<img src="/images/vol-9-issue-3/Hawkers/H9.png">The Food Republic at Wisma Atria boasts 23 food stations and three mini restaurants in a 23,000 square foot space. <i>Image courtesy of Food Republic.</i><br><br>
+	<img src="/images/vol-9-issue-3/Hawkers/H9.png">The Food Republic at Wisma Atria boasts 23 food stations and three mini restaurants in a 23,000 square foot space. <i>Image courtesy of Food Republic.</i>
+<br><br>
+As the construction of new hawker centres came to a halt, private food operators began setting up food courts. To differentiate themselves from hawker centres, food courts were air-conditioned. The first of its kind was the well known Picnic Food Court, set up in 1985 in the basement of Scotts Shopping Centre along Scotts Road.[^41] Since then, such air-conditioned food courts have sprouted in many shopping centres, business parks, tertiary institutions and hospitals.
+<br><br>
+Other than air-conditioning, there are a number of marked differences between hawker centres and food courts. In hawker centres, the stallholders are individual tenants whereas a single operator manages the food court and rents out the stalls. Invariably, the food prices in food courts are higher too. Unfortunately, in many cases, food court fare tends to be slightly characterless thanks to the mass-produced standard recipes that these vendors use compared to rough and tumble hawker centres where one might find older hawkers who have been honing their craft for several decades using carefully guarded recipes. To be fair, however, such hawkers are a dying breed, and their children are not eager to take over the long hours and sweaty work that the job demands.
+<br><br>
+Cutlery and uniforms used in food courts also tend to be standard issue, and many food court operators employ a common design theme to brand their food court chains. Major food court operators in Singapore include Food Republic, Food Junction, Kopitiam and Koufu. Food Republic at Wisma Atria for instance has a 1960s-theme complete with old furniture and stalls operating from pushcarts; another of its outlets at Suntec City Convention Centre was designed around the concept of a White Garden.</span></div>
 
-As the construction of new hawker centres came to a halt, private food operators began setting up food courts. To differentiate themselves from hawker centres, food courts were air-conditioned. The first of its kind was the well known Picnic Food Court, set up in 1985 in the basement of Scotts Shopping Centre along Scotts Road.[^41] Since then, such air-conditioned food courts have sprouted in many shopping centres, business parks, tertiary institutions and hospitals.<br><br>
-Other than air-conditioning, there are a number of marked differences between hawker centres and food courts. In hawker centres, the stallholders are individual tenants whereas a single operator manages the food court and rents out the stalls. Invariably, the food prices in food courts are higher too. Unfortunately, in many cases, food court fare tends to be slightly characterless thanks to the mass-produced standard recipes that these vendors use compared to rough and tumble hawker centres where one might find older hawkers who have been honing their craft for several decades using carefully guarded recipes. To be fair, however, such hawkers are a dying breed, and their children are not eager to take over the long hours and sweaty work that the job demands.<br><br>
-Cutlery and uniforms used in food courts also tend to be standard issue, and many food court operators employ a common design theme to brand their food court chains. Major food court operators in Singapore include Food Republic, Food Junction, Kopitiam and Koufu. Food Republic at Wisma Atria for instance has a 1960s-theme complete with old furniture and stalls operating from pushcarts; another of its outlets at Suntec City Convention Centre was designed around the concept of a White Garden.
-</span>
-<br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
 <b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of <i>Roots: Tracing Family Histories — A Resource Guide</i>; <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010).
 </div>
 
+
+
+
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+
 
 #### **REFERENCES**
 
