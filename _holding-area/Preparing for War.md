@@ -122,13 +122,13 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^5]: [Tan Guan Chuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ebab8cb9-115d-11e3-83d5-0050568939ad-OHC000414_001/web/html5/), oral history interview by Low Lay Leng, 21 March 1984, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000414), 12–13.
 
 
-[^6]: Abdealli K Motiwalla, oral history interview by Chua Ser Koon, 19 August 1982, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000204), 1– 2.
+[^6]: [Abdealli K Motiwalla](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/331756cf-115f-11e3-83d5-0050568939ad-OHC000204_001/web/html5/), oral history interview by Chua Ser Koon, 19 August 1982, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000204), 1– 2.
 
 
-[^7]: Abdealli K. Motiwalla, oral history interview, 19 August 1982, Reel/Disc 1 of 4, 3–4.
+[^7]: [Abdealli K. Motiwalla](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/331756cf-115f-11e3-83d5-0050568939ad-OHC000204_001/web/html5/), oral history interview, 19 August 1982, Reel/Disc 1 of 4, 3–4.
 
 
-[^8]: “Singapore Will not be Evacuated in an Air Raid,” *Straits Times*, 8 May 1939, 14. (From NewspaperSG)
+[^8]: “[Singapore Will not be Evacuated in an Air Raid](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390508-1.2.96),” *Straits Times*, 8 May 1939, 14. (From NewspaperSG)
 
 
 [^9]: “Accommodation for Poorer Evacuees,” *Straits Budget*, 1 May 1941, 14. (From NewspaperSG)
