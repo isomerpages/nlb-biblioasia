@@ -125,4 +125,135 @@ This article highlights the multilayered meanings that can be embodied by archit
 The Sultan Mosque challenges such narratives and assumptions by showing that the British-Indian Indo-Saracenic style was embraced by local Muslim community leaders in Singapore for their own reasons and purposes. Their agency led to the incorporation of domes into the local idea of what a normal, modern mosque should look like, and thus created a new tradition in local architecture.
 
 <div>
-<b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural exchange in art and architecture.</div>
+<b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural 
+exchange in art and architecture.</div>
+
+#### **REFERENCES**
+
+     
+
+**Online Databases**
+
+National Library Board Newspaper SG Database
+
+National Library Board Infopedai
+
+National Archives PICAS Database
+
+**National Archives of Singapore**
+
+Building Plans Microfilm Collection
+
+**Newspapers**
+
+The Straits Times
+
+The Singapore Free Press
+
+**Books**
+
+Abdul Halim Nasir. (2004). [_Mosque architecture in the Malay world_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12383474). Bangi: Penerbit University Kebangsaan Malaysia. (Call no.: RSEA q726.20959 ABD)
+
+Alsagoff, Syed Abu Bakar. (1988). [_Mosques in Singapore 1988 = Masjid-masjid di Singapura 1408H_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12761279). Singapore: Muslim Assistance Service Publications. (Call no.: RSING 297.35095957 MOS)
+
+Buckley, C.A. (1965). [_An anecdotal history of old times in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4223465). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
+
+Cannadine, D. (2002). [_Ornamentalism: How the British saw their empire_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754). Oxford: Oxford University Press. (Call no.: R 305.52 CAN)
+
+Chattopadhyay, S. (2005). [_Representing Calcutta: Modernity, nationalism, and the colonial uncanny_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180). London: Routledge. (Call no.: RSING 954.147 CHA)
+
+Frishman, M & Khan, H-U (Eds.). [_The mosque: History, architectural development & regional diversity_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
+
+Hadijah Rahmat., et al (Eds.). (2007). [_The last kampong mosque in Singapore: The extraordinary story and legacy of Sembawang_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13006442). Singapore: Masjid Petempatan Melayu Sembawang. (Call no.: RSING 297.355957 LAS)
+
+Hobsbawn, E., & Ranger, T. (Eds.) (1983). _The invention of tradition_. Cambridge: Cambridge University Press. (Not available in NLB holdings)
+
+Lee, E. (1990). [_Historic buildings of Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572905). Singapore: Preservation of Monuments Board. (Call no.: RSING 720.95957 LEE)
+
+Masjid Sultan (Singapore). (1968). [_Sejarah ringkas Masjid Sultan Singapura_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200041045). Singapore: \[Jawatankuasa Pentadbir Masjid Sultan\]. (Call no.: RCLOS 297.351095957 SEJ)
+
+Metcalf, T.R. (1989). [_An imperial vision: Indian architecture and Britain’s Raj_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949). London: Faber and Faber. (Call no.: RART 722.44 MET)
+
+Metcalf, T.R.  (1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
+
+Mohamad Tajuddin Haji Mohamad Rasdi. (2000). [_The architectural heritage of the malay world: The traditional mosque_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10112632). Skudai, Johor Darul Ta’zim: Penerbit Universiti Teknologi Malaysia. (Call no.: RSEA 726.209595 MOH)
+
+Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, controversy and change since 1850_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5201016). New Haven: Yale University Press. (Call no.: RART 720.954 TIL)
+
+#### **NOTES**
+
+
+[^1]: [O’Neill](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7226339), 1994, p. 225.
+
+[^2]: Hobsbawn & Ranger, 1983.
+
+[^3]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 77, 84.
+
+[^4]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 55–104.
+
+[^5]: [Cannadine](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754), 2002, p. 148.
+
+[^6]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, p. 58.
+
+[^7]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, p. 80.
+
+[^8]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 77–90; [Tilloston](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5201016), 1989, pp. 46–56; [Cannadine](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754), 2002, pp. 148–149.
+
+[^9]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1998, pp. 20–23.
+
+[^10]: Current literature refers to the former mosque as the one built in 1823 or 1824. However, in 1926, a newspaper article reported that this mosque was the second building on the site. _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53)_, 4 Nov 1926, p. 11.
+
+[^11]: Sultan Mosque, 1965, pp. 107, 160.
+
+[^12]: [Mohamad Tajuddin Haji Mohamad Rasdi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10112632), 2000, pp. 53–60.
+
+[^13]: Sultan Mosque, 1965, p. 31.
+
+[^14]: Sultan Mosque, 1965, p. 32.
+
+[^15]: Haji Asmawi bin Said, Executive administrator of Sultan Mosque, personal interview with the author. Sultan Mosque, 11 Sep 2012.
+
+[^16]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 44–48, 50, 88–90.
+
+[^17]: [New Sultan Mosque at Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300101-1.2.69). (1930, January 1). _The Singapore Free Press_, p. 10. Retrieved from NewspaperSG.
+
+[^18]: Sultan Mosque, 1965, p. 33; Sarwar, H.G. (1925, June 29). [The Sultan Mosque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250629-1.2.31.1). _The Singapore Free Press_, p. 8; [Sultan Mosque repairs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480622-1.2.82). (1948, June 22). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
+
+[^19]: [New Sultan Mosque at Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19291230-1.2.64). (1929, December 30). _The Singapore Free Press_, p. 11. Retrieved from NewspaperSG; [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300101-1.2.69), 1 Jan 1930, p. 10; [The Masjid Sultan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320405-1.2.84.24). (1932, April 5). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+[^20]: [Death of M.H. Dawood](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19311125-1.2.97). (1931, November 25). _The Singapore Free Press_, p. 12; [Kampong Glam Mosque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320707-1.2.33). (1932, July 7). _The Singapore Free Press_, p. 7. Retrieved from NewspaperSG.
+
+[^21]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53), 4 Nov 1926, p. 11.
+
+[^22]: Building Pla 269/1924, National Archives of Singapore Microfilm Reel NA309.
+
+[^23]: [Meeting of Muslims](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260219-1.2.97). (1926, February 19). _The Singapore Free Press_, p. 16. Retrieved from NewspaperSG.
+
+[^24]: [Masjid Sultan, Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280702-1.2.80). (1928, July 2). _The Singapore Free Press_, p. 9. Retrieved from NewspaperSG.
+
+[^25]: [Mr Denis Santry leaves after fifteen years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340308-1.2.26.1). (1934, March 8). _The Singapore Free Press_, p. 6. Retrieved from NewspaperSG.
+
+[^26]: [The Sultan Mosque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250902-1.2.71). (1925, September 2). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+[^27]: Sultan Mosque, 11 Sep 2012.
+
+[^28]: Building Plan 128/1933, National Archives of Singapore Microfilm Reel CBS96.
+
+[^29]: National Library Board. (2018, April). [_Alkaff Kampung Melayu Mosque_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_621_2004-12-17.html) written by Herwin Mohd Nasir. Retrieved from Singapore Infopedia.
+
+[^30]: [Lee](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572905), 1990, p. 52.
+
+[^31]: [Hadijah Rahmat](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13006442), 2007.
+
+[^32]: [Abdul Halim Nasir](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12383474), 2004, p. 99.
+
+[^33]:. Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+
+[^34]: [Chattopadhyay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180), 2005, p. 9.
+
+
+
+
+
+
+
