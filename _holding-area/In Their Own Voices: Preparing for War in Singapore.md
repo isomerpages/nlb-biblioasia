@@ -75,7 +75,8 @@ Not everyone chose to evacuate, even if they had the opportunity. There were tho
 
 The recruitment of volunteers for civil defence units began in 1939. These civil defence units, which started conducting training, included the Air Raid Precautions (ARP), Medical Auxiliary Service, Observer Corps, Fire-fighting Squad and the Special Constabulary. Some 6,000 men and women volunteered.[^20] 
 
-![]()
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/7e.png)
+<div style="background-color: white;">Air Raid Precautions squad member card of Tan Geok Seng. <i>Victor Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and what precautions to take in order to minimise injuries to persons and damages to properties.”[^21] 
 
