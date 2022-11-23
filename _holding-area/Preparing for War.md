@@ -195,10 +195,10 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^31]: Kevin Blackburn and Daniel Chew Ju Ern, “Dalforce at the Fall of Singapore in 1942: An Overseas Chinese Heroic Legend,” *Journal of Chinese Overseas* 1, no. 2 (November 2005): 233–59, ResearchGate, https://www.researchgate.net/publication/233511123_Dalforce_at_the_Fall_of_Singapore_in_1942_An_Overseas_Chinese_Heroic_Legend.
 
 
-[^32]: Jack Ng Kim Boon, oral history interview by Low Lay Leng, 5 November 1983, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000362), 2–3.
+[^32]: [Jack Ng Kim Boon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea91d898-115d-11e3-83d5-0050568939ad-OHC000362_001/web/html5/), oral history interview by Low Lay Leng, 5 November 1983, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000362), 2–3.
 
 
-[^33]: Tan Wah Meng, oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 4 of 17, National Archives of Singapore (accession no. 000306), 44.
+[^33]: [Tan Wah Meng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e5061906-115d-11e3-83d5-0050568939ad-OHC000306_004/web/html5/), oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 4 of 17, National Archives of Singapore (accession no. 000306), 44.
 
 
 [^34]: Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 1 of 7, 3; Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 2 of 7, 20–21.
