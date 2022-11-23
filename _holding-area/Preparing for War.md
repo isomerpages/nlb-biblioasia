@@ -201,4 +201,4 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^33]: [Tan Wah Meng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e5061906-115d-11e3-83d5-0050568939ad-OHC000306_004/web/html5/), oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 4 of 17, National Archives of Singapore (accession no. 000306), 44.
 
 
-[^34]: Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 1 of 7, 3; Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 2 of 7, 20–21.
+[^34]: [Ang Seah San](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5dd36a4e-115f-11e3-83d5-0050568939ad-OHC000419_002/web/html5/), oral history interview, 24 March 1984, Reel/Disc 1 of 7, 3; [Ang Seah San](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5dd36a4e-115f-11e3-83d5-0050568939ad-OHC000419_002/web/html5/), oral history interview, 24 March 1984, Reel/Disc 2 of 7, 20–21.
