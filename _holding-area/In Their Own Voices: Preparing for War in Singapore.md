@@ -55,6 +55,10 @@ But barely three months later, the first bombs rained down on Singapore. Lee Tia
 
 Tan Geok Koon and his family, who were living on Thomson Road, built their own air raid shelter that could accommodate about 20 people. “There was a hill behind my house, so we dug about eight feet tall and in a semi-circle, about – five or six feet wide and in a semi-circle form. And at the top of it, [we] put a lot of planks and also sandbags and all that we did by ourselves, or rather we call a few of the Malay villages to do it, and so that is how we had the shelter.”[^13] 
 
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/3e.png)
+<div style="background-color: white;">An air raid shelter in Tiong Bahru, 1940. <i>M. Masson Collection, courtesy of National Archives of Singapore.
+</i></div>
+
 Not everyone was fortunate enough to have land for a shelter. Chu Shuen Choo (Mrs Gay Wan Guay), who was then a teacher living in Katong, had to make do with whatever available space she had. “[M]y shelter was just underneath the staircase and a table,” she recalled. “So whenever we hear the siren, I would take my flask of milk with my baby and carry her downstairs and go under the table.”[^14]
 
 #### **Evacuating Overseas**
