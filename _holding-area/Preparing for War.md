@@ -138,7 +138,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^11]: “[Why No Shelters Have Been Built In Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410913-1.2.23).”
 
 
-[^12]: Lee Tian Soo, oral history interview by Low Lay Leng, 23 April 1983, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000265), 8.
+[^12]: [Lee Tian Soo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/38aeebd2-115f-11e3-83d5-0050568939ad-OHC000265_001/web/html5/), oral history interview by Low Lay Leng, 23 April 1983, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000265), 8.
 
 [^13]: Tan Geok Koon, oral history interview by Claire Yeo, 11 August 2006, transcript and MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 003067), 3. 
 
