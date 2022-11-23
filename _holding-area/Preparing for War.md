@@ -119,7 +119,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^4]: [Tan Ban Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7e9ea71-115d-11e3-83d5-0050568939ad-OHC000392_001/web/html5/), oral history interview by Low Lay Leng, 25 January 1979, transcript and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore (accession no. 000392), 7.
 
 
-[^5]: Tan Guan Chuan, oral history interview by Low Lay Leng, 21 March 1984, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000414), 12–13.
+[^5]: [Tan Guan Chuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ebab8cb9-115d-11e3-83d5-0050568939ad-OHC000414_001/web/html5/), oral history interview by Low Lay Leng, 21 March 1984, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000414), 12–13.
 
 
 [^6]: Abdealli K Motiwalla, oral history interview by Chua Ser Koon, 19 August 1982, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000204), 1– 2.
