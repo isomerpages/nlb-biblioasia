@@ -17,6 +17,14 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
+      title: Repairing and Restoring Singapore's Reel Heritage
+      subtitle: Film and Photography
+      description: The Asian Film Archive has been restoring old classics since 2014.
+      button: Film restoration
+      url: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
+      alt: Asian Film Archive
+      image: /images/Vol 18 Issue 4/Asian Film/image9.png
+  - infopic:
       title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
       subtitle: Culture
       description: Thaipusam speaks of a migratory community that carries its
@@ -310,12 +318,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
-  - infopic:
-      title: Repairing and Restoring Singapore's Reel Heritage
-      subtitle: Film and Photography
-      description: The Asian Film Archive has been restoring old classics since 2014.
-      button: Film restoration
-      url: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
-      alt: Asian Film Archive
-      image: /images/Vol 18 Issue 4/Asian Film/image9.png
 ---
