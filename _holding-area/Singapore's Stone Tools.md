@@ -41,14 +41,14 @@ One estimate of the stone artefact which Ridley found dates it to 4,000 BCE, but
 
 In 1919, several stone implements of varying sizes were discovered in Johor’s Tanjong Bunga by Engku Abdul Aziz bin Abdul Majid, the 6th Menteri Besar of Johor.[^17] The location of Tanjong Bunga across the straits in Johor was close enough to Tanjong Karang in Singapore that Roland St John Braddell – a prominent lawyer and scholar of Malayan history – suggested in a 1936 paper in the *Journal of the Malayan Branch of the Royal Asiatic Society* that there was a “stone-age portage” between Johor and Singapore, linking the sites of Tanjong Karang in Singapore and Tanjong Bunga in Johor in 1936.[^18] This theory has yet to be tested.
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image7.png)
-<div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website).</i></div>
-
 The artefacts at Tanjong Bunga were described as “lying on white clay within twenty feet of the bank”, and Engku Abdul Aziz had suggested that the stone tools surfaced due to beach erosion resulting from the construction of the Causeway.[^19] However, this is highly unlikely as a 2004 study highlighted that the initial Causeway construction led to low tidal energy in the Johor Strait instead; this indicates that the beach erosion would have occurred prior to 1919.[^20] 
 
 No dates were attributed to the Tanjong Bunga stone tools but P.V. van Stein Callenfels (Pieter Vincent van Stein Callenfels),[^21] a well-known prehistorian, had identified the two smaller stones as “neoliths”, suggesting that they were of a later date associated with domesticated plants and the use of pottery.[^22] 
 
 M.W.F. Tweedie (Michael Wilmer Forbes Tweedie), former director of the Raffles Museum in Singapore, who published a paper in 1953 on stone tools found in Malaya, similarly described the Tanjong Bunga stone tools as “neolithic blanks” – meaning that these could be further modified further into a specific tool form. He further described two of the artefacts as “round-axes” and added that one of the two artefacts was ground at one end. Tweedie’s diagram of Collings’ Tanjong Bunga excavation site further indicates that artefacts were also found in the lower layer of peat. The discovery of artefacts in these two layers suggests two different periods of site occupation.[^23] 
+
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image7.png)
+<div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website).</i></div>
 
 H.D. Collings (Hubert Dennis Collings), who later became the Curator of Anthropology at the Raffles Museum, visited Tanjong Bunga in 1934 and 1935, and upon finding more implements, conducted an excavation at the site in 1938. This was the first archaeological excavation undertaken at the southern end of the Malay Peninsula. At Tanjong Bunga, Collings found more “small ground neolithic axes, flakes, pieces of haematite, resin and quartz microliths” approximately 90 cm below the surface.[^24] 
 
