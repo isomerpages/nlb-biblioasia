@@ -102,11 +102,4 @@ Tan Wah Meng, a volunteer for the Medical Auxiliary Service, said people burned 
 
 Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed all documents relating to the ARP so as not to leave any evidence for the Japanese. “The wardens and I… we decided to destroy all records, logbooks, uniforms, helmets in order that we could deny of any connections with the previous government… Three days after our meeting, we were told that the British army surrendered, unconditionally to the enemy... We called the meeting because we got instruction from headquarters that we have got to be disbanded.…  We advised all the other wardens that, your uniform, your uniform, your helmet all must be buried or burned away.”
 
-This destruction of records during wartime, both deliberate and accidental, underlines the importance of oral history. Through the memories of these survivors, captured on tape and now digitised for convenient access, we will be able to preserve vital aspects of Singapore’s past that would otherwise have no other trace. 
-
-
-
-
-
-
-
+This destruction of records during wartime, both deliberate and accidental, underlines the importance of oral history. Through the memories of these survivors, captured on tape and now digitised for convenient access, we will be able to preserve vital aspects of Singapore’s past that would otherwise have no other trace.
