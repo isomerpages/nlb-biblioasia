@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Preparing for War.md
       - Singapore's Stone Tools.md
       - Repairing and Restoring Singapore’s Reel Heritage.md
       - Test page.md
