@@ -115,7 +115,7 @@ All the stone tool sites described earlier were either found along coastal or in
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image8.png)
 <div style="background-color: white;">The Orang Seletar, one of the sub-groups of the Orang Laut, in Singapore, 1950s. DNA analysis of the shell midden site in Bintan may provide clues as to whether the stone tools might be traced to the Orang Laut (sea nomads) or to an even older and unknown prehistoric community. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
-<table style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">  
+<span><table style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">  
   <tr>  
     <th>Geologic Time Scale</th>  
     <th>Age</th>  
@@ -142,7 +142,7 @@ All the stone tool sites described earlier were either found along coastal or in
     <td>5,333,000 to 2,588,000
 years ago</td>  
     <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td>  
-  </tr></table>
+  </tr></table></span>
 
 <div style="background-color: white;">
 <br/>
