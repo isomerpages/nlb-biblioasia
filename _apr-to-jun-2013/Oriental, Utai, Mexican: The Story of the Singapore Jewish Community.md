@@ -201,6 +201,162 @@ United Hebrew Congregation. (2013). _United Hebrew Congregation (Singapore)_. Re
 Urban Redevelopment Authority (Singapore). (2010). _Mount Sophia conservation area_. Retrieved from Urban Redevelopment Authority website.
 	
 Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a political biography. _Journal of Southeast Asian Studies, 16_ (2), 304–321. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+	
 
 #### **NOTES**
+	
+[^1]: PAP, [Jurong Branch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8082654) , 1996, p. 30.
+
+[^2]: Jurong is possibly named after the city of Jurong in Jiangsu, China, as there are already mentions of the “Soongie Jurong” (Jurong River) in 1837.
+
+[^3]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 1, italics mine.
+
+[^4]: [Bieder](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 17—21.
+
+[^5]: [Bieder](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 19.
+
+[^6]: Goldstein, 2007, p. 3 and [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 8.
+	
+[^7]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 9.
+
+[^8]: [Raman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202838673), 1958, p. 35.
+
+[^9]: Quoted in [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 21.
+
+[^10]: [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 14.
+
+[^11]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 23.  
+
+[^12]: Also known as Jacob Saphir (1822–1885).    
+
+[^13]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 22–26; [Raman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202838673), 1958, p. 37.
+
+[^14]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 2; Orchard Road’s considerable distance from Synagogue Street made livayah difficult, which requires bodies to be carried on a bier to the cemetery. See [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 23–24.
+
+[^15]: Historian David Sorkin’s concept: “port Jews” were lucky to find themselves in ports that valued international trade. Because of their commercial utility, they gained some social acceptance and legality. In terms of identity, port Jews had lax religious observance, yet actively identified as Jewish.
+
+[^16]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 51.
+
+[^17]: That night, Solomon showed Thomson his Torah, the holy Hebrew scriptures, discussed Jewish religious law, and confessed the torture he had suffered at home. See Thomson, J.T. (1984). [_Glimpses into life in Malayan lands_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3531203). New York: Oxford University Press. (Call no.: RSING 959.5 THO)
+
+[^18]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 24–26.
+
+[^19]: Quoted in [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 51.
+
+[^20]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 58.
+
+[^21]: Theo Kamsma points out that Jews were either identified as Arabs or ’other Orientals’. “That has \[historically\] made Jews, as a separate category, almost unrecognisable.” See [_The Jewish Diasporascape in the Straits_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13701584), 2010, pp. 92–94.
+
+[^22]: Quoted in [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 14.    
+
+[^23]: [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 26.
+
+[^24]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 29, 109.
+
+[^25]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 14.
+
+[^26]: Goldstein, 2007, p. 3.
+
+[^27]: [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 15.
+
+[^28]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 26, 30, 45–46; [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 18.   
+
+[^29]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 57; [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 18.
+
+[^30]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, pp. 57–58.
+
+[^31]: [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 18.
+
+[^32]: [Chan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082241), 1984, p. 18–19.
+
+[^33]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, pp. 25–33.
+
+[^34]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 33.
+
+[^35]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 46.
+
+[^36]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 25.
+
+[^37]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, pp. 67–68.
+
+[^38]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 58–59. 
+
+[^39]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 62–63.
+
+[^40]: It would be interesting to analyse David Marshall’s early writings for their influence on his politics, like [_The Short Stories and Radio Plays of S. Rajaratnam_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13792223), 2011), though Nathan warns that “the standard was not higher than the average school magazine”, [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 82.
+
+[^41]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 88.
+
+[^42]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 82.
+
+[^43]: “I am both a Jew and an Asian,” Marshall famously pronounced. He was especially popular among the Chinese for his anti-colonial, pro-labour, and principled democratic stance. See Thum, P. (2011, June). Living Buddha: Chinese perspectives on David Marshall and his Government, 1955–1956. _Indonesia and the Malay World_, 39 (114), 245–267.
+
+[^44]: [Blackburn & Hack](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14230768), 2012, pp. 301—333.
+
+[^45]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 91–92; [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 88.
+
+[^46]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 93.  
+
+[^47]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 92–93.
+
+[^48]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 94–96, 109.
+
+[^49]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 97–98.
+
+[^50]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 99.
+
+[^51]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 109.
+
+[^52]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 101–103.   
+
+[^53]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 99.
+
+[^54]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 190–110.
+
+[^55]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 195; Yeo, Sep 1985, p. 304; Goldstein, 2007, p. 4.
+
+[^56]: Urban Redevelopment Authority, 2010.
+
+[^57]: [Tan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13150329), 2008, p. 22.
+
+[^58]: Quoted in Goldstein, 2007, p. 5.
+
+[^59]: [Kamsma](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13701584), 2010, p. 104. 
+
+[^60]: Quoted in Barzilai, 16 Jun 2004.
+
+[^61]: [Kamsma](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13701584), 2010, p. 105; [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 170. 
+
+[^62]: United Hebrew Congregation, 2013.
+
+[^63]: [Kamsma](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13701584), 2010, p. 105; Singapore Jews, 2010.
+
+[^64]: [Raman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202838673), 1958, pp. 88–89.
+
+[^65]: Quoted in Lim, 2013.
+
+[^66]: Quoted in [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 168. 
+
+[^67]: The ’Chinese, Malay, Indian, Other’ racial nomenclature was introduced in 1965, largely borrowing from British census taking. The Jewish community, along with other minorities of minorities, are reductively classed as ’Other’.
+
+[^68]: [Raman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202838673), 1958, p. 80.
+
+[^69]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 171–173.
+
+[^70]: Goldstein, 2007.
+	
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
 	
