@@ -90,7 +90,7 @@ More significantly, part of a human jaw and calf bone were discovered on the eas
 
 The BKKD site gives some indication as to how stone tools continued to be in use in the area until much later. This, however, raises the important question: were the tools found in Singapore from the Neolithic period, or much later? Another question that the BKKD raises is the identity of the people who might have made these tools. Although no human remains were found in association with the stone tools unearthed in Singapore and Johor, DNA analysis of the remains from the Bintan site may provide clues as to whether the stone tools might be traced to the Orang Laut (sea people) or to an even older and unknown prehistoric community.[^42] 
 
-#### **Stone tools in Southeast Asia**
+#### **Stone Tools in Southeast Asia**
 
 The stone tools found in and around Singapore need to be understood within the wider context of the development of stone tools in Southeast Asia. The evolution of stone tools in this region differs from that in Europe.[^43] 
 
