@@ -131,19 +131,18 @@ All the stone tool sites described earlier were either found along coastal or in
     <td>Pleistocene</td>  
     <td>2,588,000 to 11,800 years ago
 (The most recent Ice Age)</td>  
-    <td><span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
+    <td><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
 <li>Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] </li>
 <li>Sangiran, Central Java, Indonesia: 1 million years ago[^60] </li>
 <li>Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] </li>  
-<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></span></td>  
+<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></td>  
   </tr>  
 	  <tr>  
     <td>Pliocene </td>  
     <td>5,333,000 to 2,588,000
 years ago</td>  
     <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td>  
-  </tr>
-</table>
+  </tr></table>
 
 <div style="background-color: white;">
 <br/>
