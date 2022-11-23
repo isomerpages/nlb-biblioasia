@@ -285,7 +285,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^40]: It would be interesting to analyse David Marshall’s early writings for their influence on his politics, like [_The Short Stories and Radio Plays of S. Rajaratnam_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13792223), 2011), though Nathan warns that “the standard was not higher than the average school magazine”, [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 82.
 
-[^41]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 88.
+[^41]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, p. 88.
 
 [^42]: [Nathan](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080637), 1986, p. 82.
 
