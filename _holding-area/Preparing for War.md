@@ -142,7 +142,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 
 [^13]: [Tan Geok Koon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e6bae038-1160-11e3-83d5-0050568939ad-OHC003067_001/web/html5/), oral history interview by Claire Yeo, 11 August 2006, transcript and MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 003067), 3. 
 
-[^14]: Chu Shuen Choo, oral history interview by Low Lay Leng, 15 August 1985, transcript and MP3 audio, Reel/Disc 1 of 12, National Archives of Singapore (accession no. 000462), 9–10. 
+[^14]: [Chu Shuen Choo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e98a11b7-115d-11e3-83d5-0050568939ad-OHC000462_001/web/html5/), oral history interview by Low Lay Leng, 15 August 1985, transcript and MP3 audio, Reel/Disc 1 of 12, National Archives of Singapore (accession no. 000462), 9–10. 
 
 [^15]: Rajabali Jumabhoy, oral history interview by Lim How Seng, 15 July 1981, transcript and MP3 audio, Reel/Disc 11 of 37, National Archives of Singapore (accession no. 000074), 72–73.
 
