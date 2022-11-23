@@ -3,8 +3,6 @@ title: Repairing and Restoring Singapore’s Reel Heritage
 permalink: /vol18/issue-4/jan-mar-2023/asian-film-archive-restoration/
 description: The Asian Film Archive has been restoring old classics since 2014.
 ---
-
-
 #### The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 
@@ -229,7 +227,13 @@ That said, developing new negatives and prints is a costly and intricate process
 
 Heritage institutions, including archives like the Asian Film Archive (AFA), leverage the visibility of restoring significant film titles to advocate for a variety of causes. For the AFA, restorations are the means to raising awareness of the importance of film preservation, and the urgency to care for the original and/or surviving film elements that make the restorations possible. As film restoration is a costly endeavour, the preservation condition, the rarity of the film materials, and the cultural and historical meaning that the restored work would bring to audiences, are curatorial considerations that AFA makes in selecting film/s to be restored.</div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">For more on the Asian Film Archive, go to www.asianfilmarchive.org.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">    
+
+For more on the Asian Film Archive, go to [www.asianfilmarchive.org](www.asianfilmarchive.org)
+	
+  
+
+</div>
 
 <div style="background-color: white;">
 <br/>
