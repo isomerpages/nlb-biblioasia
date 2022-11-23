@@ -316,5 +316,6 @@ sections:
       description: The Asian Film Archive has been restoring old classics since 2014.
       button: Film restoration
       url: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
-      alt: Image alt text
+      alt: Asian Film Archive
+      image: /images/Vol 18 Issue 4/Asian Film/image9.png
 ---
