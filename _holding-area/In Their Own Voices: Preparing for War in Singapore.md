@@ -75,6 +75,8 @@ Not everyone chose to evacuate, even if they had the opportunity. There were tho
 
 The recruitment of volunteers for civil defence units began in 1939. These civil defence units, which started conducting training, included the Air Raid Precautions (ARP), Medical Auxiliary Service, Observer Corps, Fire-fighting Squad and the Special Constabulary. Some 6,000 men and women volunteered.[^20] 
 
+![]()
+
 Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and what precautions to take in order to minimise injuries to persons and damages to properties.”[^21] 
 
 ![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
@@ -98,7 +100,13 @@ Soh Chuan Lam, a Standard VII (equivalent to Secondary 2) student at St Joseph�
 
 Some people decided that they would learn to take up arms to fight. One option for them was to join the Singapore Volunteer Corps (SVC). 
 
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/6e.png)
+<div style="background-color: white;">Members of the Singapore Volunteer Corps in a photo taken in 1949. Before the Japanese invasion, members were trained in warfare. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 The SVC had its roots as the privately funded Singapore Volunteer Rifle Corps in 1854, before becoming a public organisation a few years later. The SVC had played an important role in quelling civil disturbances and preserving the security of the island – duties such as operating defence lights and manning harbour defences during World War I. It was known by various names, including the Singapore Volunteer Artillery and the Straits Settlements Volunteer Force.[^29] 
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/5e.png)
+<div style="background-color: white;">The Straits Settlements Volunteer Force begins compulsory training for its members, 1941. <i>©Imperial War Museum (K 114).</i></div>
 
 Prior to the Japanese invasion, large-scale training in Singapore was held for the Straits Settlements Volunteer Force, which was made up of the respective volunteer corps in Singapore (two battalions), Penang (one battalion) and Malacca (one battalion).  
 
