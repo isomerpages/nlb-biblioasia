@@ -127,6 +127,12 @@ Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed
 
 This destruction of records during wartime, both deliberate and accidental, underlines the importance of oral history. Through the memories of these survivors, captured on tape and now digitised for convenient access, we will be able to preserve vital aspects of Singapore’s past that would otherwise have no other trace.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Foo_Shu_Tieng.png" style="width: 100px; height: 100px;"/>
+	<b>Christabel Khoo</b> is an Assistant Archivist with Records Management at the National Archives of Singapore.<br><br>
+	<b>Mark Wong</b> is Senior Specialist (Oral History) at the Oral History Centre, National Archives of Singapore where he leads the oral history project on Singapore’s experiences with Covid-19. He is also Vice President of the International Oral History Association.
+</div>
 
 #### **NOTES**
 
