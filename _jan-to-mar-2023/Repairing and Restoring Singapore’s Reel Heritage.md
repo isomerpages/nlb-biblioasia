@@ -1,8 +1,10 @@
 ---
 title: Repairing and Restoring Singapore’s Reel Heritage
-permalink: /vol18/issue-4/jan-mar-2023/asian-film-archive-restoration/
+permalink: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
 description: The Asian Film Archive has been restoring old classics since 2014.
 ---
+
+
 #### The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 

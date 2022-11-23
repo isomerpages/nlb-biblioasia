@@ -1,5 +1,5 @@
 ---
-title: Preparing for War
+title: Preparing for War in Singapore
 permalink: /holding-area/test8/
 description: ""
 ---

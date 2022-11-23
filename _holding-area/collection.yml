@@ -2,6 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Preparing for War.md
+      - Preparing for War in Singapore.md
       - Singapore's Stone Tools.md
       - Test page.md

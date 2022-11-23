@@ -71,20 +71,20 @@ The mosque is elevated about 10 feet above the ground, with double staircases le
 
 #### **The Contributions of Local Agents**
 
-Unlike the Abdul Gafoor Mosque and the Friday Mosques noted previously, the Sultan Mosque is an enclosed mosque, and was reportedly one of the largest enclosed mosques in the world at the time it was built.17 Its floor area measures approximately 106 by 180 feet. The sides and back portion of the prayer hall are split to incorporate a second floor gallery. The mosque has room for 5,000 worshippers and cost about $250,000 to construct.18 The new Sultan Mosque was officially opened on 27 December 1929, the last Friday of the year, although it was completed only in 1932.19
+Unlike the Abdul Gafoor Mosque and the Friday Mosques noted previously, the Sultan Mosque is an enclosed mosque, and was reportedly one of the largest enclosed mosques in the world at the time it was built.[^17] Its floor area measures approximately 106 by 180 feet. The sides and back portion of the prayer hall are split to incorporate a second floor gallery. The mosque has room for 5,000 worshippers and cost about $250,000 to construct.[^18] The new Sultan Mosque was officially opened on 27 December 1929, the last Friday of the year, although it was completed only in 1932.[^19]
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Interior%20Sultan%20Mosque.jpg">
  <div style="background-color: white;">Interior of the Sultan Mosque viewed from the second floor gallery, looking towards the <i>mihrab</i>. <i>All images on this page are courtesy of Ten Leu-Jiun.</i></div>
  
 
-The heart and soul behind the construction of the mosque was Mahmood bin Haji Dawood, a merchant and wellrespected community leader of “Bombay origins”.20 He supervised the project from the start until his untimely death in 1931 and is remembered as the “Builder” of the Sultan Mosque. Dawood first convened a meeting on 1 January 1924 to propose the construction of a new mosque to replace the dilapidated existing building. A four-member Building Committee was established to oversee the project on this occasion.21 Besides the uncertain identity of a “Mr Ismail,” the other three members were well-known merchants and community leaders. Syed Abdur Rahman bin Shaik Alkaff, J.P. was nominated chairman; Dawood was the honorary secretary and treasurer and Shaik Salim bin Taha Mattar was made a member of the Building Committee. All three community leaders signed their names as “owners” representing the Sultan Mosque on the building plans submitted to the Municipal Commission.22
+The heart and soul behind the construction of the mosque was Mahmood bin Haji Dawood, a merchant and wellrespected community leader of “Bombay origins”.[^20] He supervised the project from the start until his untimely death in 1931 and is remembered as the “Builder” of the Sultan Mosque. Dawood first convened a meeting on 1 January 1924 to propose the construction of a new mosque to replace the dilapidated existing building. A four-member Building Committee was established to oversee the project on this occasion.[^21] Besides the uncertain identity of a “Mr Ismail,” the other three members were well-known merchants and community leaders. Syed Abdur Rahman bin Shaik Alkaff, J.P. was nominated chairman; Dawood was the honorary secretary and treasurer and Shaik Salim bin Taha Mattar was made a member of the Building Committee. All three community leaders signed their names as “owners” representing the Sultan Mosque on the building plans submitted to the Municipal Commission.[^22]
 
-This was a mosque that the Singapore Muslim community could be proud of. When funds were not forthcoming in 1926, and appeals for funding to the Sultan of Johor and the colonial government proved unsuccessful, a meeting was called by the Building Committee. Thirty-seven Committee members were elected at the meeting to represent the Muslim community of Singapore with the expectation that they would solicit funds from their respective ethnic communities. The various communities included the Arab, Bombay, Bugis, French Muslim (probably referring to Muslims originating from the French colony Pondicherry), Javanese, Madras, Malay, Pathan, Punjabi and South Indian communities.23
+This was a mosque that the Singapore Muslim community could be proud of. When funds were not forthcoming in 1926, and appeals for funding to the Sultan of Johor and the colonial government proved unsuccessful, a meeting was called by the Building Committee. Thirty-seven Committee members were elected at the meeting to represent the Muslim community of Singapore with the expectation that they would solicit funds from their respective ethnic communities. The various communities included the Arab, Bombay, Bugis, French Muslim (probably referring to Muslims originating from the French colony Pondicherry), Javanese, Madras, Malay, Pathan, Punjabi and South Indian communities.[^23]
 
-Construction of the new mosque began in 1928 after four years of initial fund raising and planning.24 The Building Committee was most likely responsible for decision-making related to the new mosque, including the approval of Irish architect Denis Santry of Swan and MacLaren to design it. Santry was active in Singapore from 1919 to 1934, and his work included the Tanjong Pagar Railway Station and the Telok Ayer Methodist Church.25 Several features in the physical design of the mosque point to a client-architect relationship that was consultative and collaborative.
+Construction of the new mosque began in 1928 after four years of initial fund raising and planning.[^24] The Building Committee was most likely responsible for decision-making related to the new mosque, including the approval of Irish architect Denis Santry of Swan and MacLaren to design it. Santry was active in Singapore from 1919 to 1934, and his work included the Tanjong Pagar Railway Station and the Telok Ayer Methodist Church.[^25] Several features in the physical design of the mosque point to a client-architect relationship that was consultative and collaborative.
 
-Viewed from the exterior, the Sultan Mosque appears to be a unitary building, but it actually contains two separate domains: the prayer hall with its auxiliary verandahs, and a royal grave within an enclosed chamber behind the *qibla* wall, on the side facing North Bridge Road. This is the grave chamber of Sultan Alauddin Alam Shah who passed away in 1891. Incorporated into the new building, the grave is located beneath the western dome, and can be accessed directly from the exterior of the building through a set of double doors facing North Bridge Road.26
+Viewed from the exterior, the Sultan Mosque appears to be a unitary building, but it actually contains two separate domains: the prayer hall with its auxiliary verandahs, and a royal grave within an enclosed chamber behind the *qibla* wall, on the side facing North Bridge Road. This is the grave chamber of Sultan Alauddin Alam Shah who passed away in 1891. Incorporated into the new building, the grave is located beneath the western dome, and can be accessed directly from the exterior of the building through a set of double doors facing North Bridge Road.[^26]
 
 When seen from North Bridge Road, the space behind the *pishtaq* motif appears to be connected with the rest of the building, but this grave chamber is in fact physically walled off from the other parts of the building. Thus, although structurally part of the overall mosque building, it is segregated spatially and is symbolically distinct, a neat solution that accommodates the resting place of the Sultan without integrating his grave into a space of worship, which is a contentious subject within Islam. Such detail would have required giving specific instructions to the Christian Denis Santry, in order to work out a design that made such spatial distinctions within one building.
 
@@ -92,17 +92,17 @@ When seen from North Bridge Road, the space behind the *pishtaq* motif appears t
  <div style="background-color: white;">The burial chamber of Sultan Alauddin Alam Shah at the Sultan Mosque is differentiated by a slight projection from the main building.</div>
 
 
-The second “tell-tale” detail of local intervention is a dark band accentuating the division between each dome and its drum support. Each band is made up of rows of glass discs, arranged around the “necks” of the two gigantic domes. Oral tradition has it that soya sauce bottles were offered to the mosque by poor people in Kampong Glam, and the Building Committee gave the bottles to the architect to see what he could do with them.27 Whether it was Santry’s or the Committee’s idea to collect the bottles, this visible and unusual intervention into the design may have fostered a sense of community ownership of the dome design. It may also be regarded as evidence of the collaborative relationship between the architect and his clients. It should be no surprise that the architect listened to suggestions by the members of the Building Committee. After all, it was they who approved the payment of the architect’s fee.
+The second “tell-tale” detail of local intervention is a dark band accentuating the division between each dome and its drum support. Each band is made up of rows of glass discs, arranged around the “necks” of the two gigantic domes. Oral tradition has it that soya sauce bottles were offered to the mosque by poor people in Kampong Glam, and the Building Committee gave the bottles to the architect to see what he could do with them.[^27] Whether it was Santry’s or the Committee’s idea to collect the bottles, this visible and unusual intervention into the design may have fostered a sense of community ownership of the dome design. It may also be regarded as evidence of the collaborative relationship between the architect and his clients. It should be no surprise that the architect listened to suggestions by the members of the Building Committee. After all, it was they who approved the payment of the architect’s fee.
 
 #### **The Dome Takes Root**
 
-The impact of the Indo-Saracenic style and its iconic dome was almost immediately felt on local mosques. The next mosques to lead the trend were the Alkaff Mosque built in 1932 and the new prayer hall of the Hajjah Fatimah Mosque designed in 1933.28 Domes were variously placed on the minaret, above the porch-like structure at the façade, and on the gate posts of the Alkaff Mosque. This mosque with a distinctive curved gable was located on Jalan Abdul Manan, off Jalan Eunos. It was demolished around 1995, when a new mosque was erected nearby to replace it.29
+The impact of the Indo-Saracenic style and its iconic dome was almost immediately felt on local mosques. The next mosques to lead the trend were the Alkaff Mosque built in 1932 and the new prayer hall of the Hajjah Fatimah Mosque designed in 1933.[^28] Domes were variously placed on the minaret, above the porch-like structure at the façade, and on the gate posts of the Alkaff Mosque. This mosque with a distinctive curved gable was located on Jalan Abdul Manan, off Jalan Eunos. It was demolished around 1995, when a new mosque was erected nearby to replace it.[^29]
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Alkaff%20Mosque%201932_5.jpg">
  <div style="background-color: white;">
 Alkaff Mosque, built in 1932, was one of the earliest Mosques in Singapore to incorporate domes into its design. <i>All rights reserved, Lee Kip Lin and National Library Board, 2009.</i></div>
 	
-The Hajjah Fatimah Mosque was built around 1845.30 When a decision was made to rebuild the prayer hall in 1933, Syed Abdul Rahman bin Taha Alsagoff, a descendent of Hajjah Fatimah, commissioned the local Chinese firm of Chung and Wong to design it in the Indo-Saracenic style. The prayer hall is dominated by a prominent dome supported by a drum lit by 12 stained glass windows. From the exterior, the pointed arches around the verandah are flanked by demi columns that rise above the edge of the roofline into full shafts topped by *chhatris*. The decision to use this style, and its design by a Chinese firm, indicate that the Indo-Saracenic design had become localised in Singapore. The Malabar Mosque on Victoria Street, opened in 1963, also used the decorative elements of monumental domes *chhatris*, and a domed minaret.
+The Hajjah Fatimah Mosque was built around 1845.[^30] When a decision was made to rebuild the prayer hall in 1933, Syed Abdul Rahman bin Taha Alsagoff, a descendent of Hajjah Fatimah, commissioned the local Chinese firm of Chung and Wong to design it in the Indo-Saracenic style. The prayer hall is dominated by a prominent dome supported by a drum lit by 12 stained glass windows. From the exterior, the pointed arches around the verandah are flanked by demi columns that rise above the edge of the roofline into full shafts topped by *chhatris*. The decision to use this style, and its design by a Chinese firm, indicate that the Indo-Saracenic design had become localised in Singapore. The Malabar Mosque on Victoria Street, opened in 1963, also used the decorative elements of monumental domes *chhatris*, and a domed minaret.
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Hajjah%20Fatimah%20Mosque.jpg">
  <div style="background-color: white;">
@@ -110,19 +110,150 @@ The Hajjah Fatimah Mosque with its 1933 Indo-Saracenic prayer hall and the iconi
 
 The roof of the former Haji Yusoff Mosque in Upper Serangoon represented a synthesis of the two roof traditions. An onion dome took the place of what would otherwise have been the uppermost pyramidal apex of a three-tier roof structure. This prominent dome rested atop a leveled-off two-tier roof. The Haji Yusoff Mosque was rebuilt in 1995.
 
-Over time, a popular two-dome scheme emerged for the design of mosques in Singapore, featuring a main dome over the mosque building and a smaller dome over the minaret. Some examples are: “Singapore’s last kampong mosque,” the Masjid Petempatan Melayu Sembawang built in 1970,31 the demolished Muhajirin Mosque in Toa Payoh built in 1977 and the 1980 Masjid An-Nur in Woodlands.
+Over time, a popular two-dome scheme emerged for the design of mosques in Singapore, featuring a main dome over the mosque building and a smaller dome over the minaret. Some examples are: “Singapore’s last kampong mosque,” the Masjid Petempatan Melayu Sembawang built in 1970,[^31] the demolished Muhajirin Mosque in Toa Payoh built in 1977 and the 1980 Masjid An-Nur in Woodlands.
 
 While better-endowed mosques were rebuilt with gleaming domes integrated into their designs, the humble kampong mosques followed suit, simply by capping a dome over an otherwise functional pitched zinc roof, such as the demolished Kampong Bedok Laut Mosque and the still standing Hussein Sulaiman Mosque on Pasir Panjang Road.
 
-The dome, idealised in the onionshape, has come to be regarded by many as an indispensable symbol of a mosque. According to Abdul Halim Nasir, writing about mosques in Malaysia, “Many people feel that a mosque is not really complete without the onion-shaped dome. This feeling has created restlessness and as a result mosques built during the precolonial and colonial period without the onion shaped domes have had the roofs radically modified so that an onion-shaped dome can be built.”32 In an interview with *The Straits Times*, Dr Y. A. Talib, an Islamic Studies expert, said that domes were not compulsory on mosques, and were placed on mosques in different parts of the world out of the owners’ preference.33 The preponderance of domed mosques in the vernacular architectural environment in Singapore is thus an indication of a popular sentiment in favour of domed mosques.
+The dome, idealised in the onionshape, has come to be regarded by many as an indispensable symbol of a mosque. According to Abdul Halim Nasir, writing about mosques in Malaysia, “Many people feel that a mosque is not really complete without the onion-shaped dome. This feeling has created restlessness and as a result mosques built during the precolonial and colonial period without the onion shaped domes have had the roofs radically modified so that an onion-shaped dome can be built.”[^32] In an interview with *The Straits Times*, Dr Y. A. Talib, an Islamic Studies expert, said that domes were not compulsory on mosques, and were placed on mosques in different parts of the world out of the owners’ preference.[^33] The preponderance of domed mosques in the vernacular architectural environment in Singapore is thus an indication of a popular sentiment in favour of domed mosques.
 
 The diffusion of the dome within the vernacular architectural environment in Singapore began in the early 20th century. This development highlights the active presence of local agents in creating meaning and significance that matched their ideals of what a mosque should look like. After all, domed mosques have long been common throughout the Islamic world, especially in the Middle East. For the trustees of the Sultan Mosque in the 1920s, the Indo-Saracenic style was a novel design that fused traditional Islamic stylistic elements originating outside of Southeast Asia with a technologically advanced structure of reinforced concrete designed in monumental proportions. The design and scale of the mosque were especially striking in an urban environment still dominated by twostorey shophouses.
 
 Post-colonial critics and architectural purists who champion regionalism might lament the proliferation of domed mosques in place of a long-time native architectural form, namely, the multitiered roof mosque. Nevertheless, the “new” architecture received the endorsement of the local Muslim community. Moreover, the new style brought regional mosque architecture stylistically closer to the *ummah* (the global Muslim community) in terms of its formal expression.
 
-This article highlights the multilayered meanings that can be embodied by architecture with hybrid features created in a colonial city. Swati Chattopadhyay has noted the “inordinate emphasis in architectural and planning scholarship on first acts and initial designs” that has helped to create narratives in which the colonisers are portrayed as “the only active agents on the scene, relegating the colonized population to the role of passive inhabitants or, at best, resistors of domination.”34
+This article highlights the multilayered meanings that can be embodied by architecture with hybrid features created in a colonial city. Swati Chattopadhyay has noted the “inordinate emphasis in architectural and planning scholarship on first acts and initial designs” that has helped to create narratives in which the colonisers are portrayed as “the only active agents on the scene, relegating the colonized population to the role of passive inhabitants or, at best, resistors of domination.”[^34]
 
 The Sultan Mosque challenges such narratives and assumptions by showing that the British-Indian Indo-Saracenic style was embraced by local Muslim community leaders in Singapore for their own reasons and purposes. Their agency led to the incorporation of domes into the local idea of what a normal, modern mosque should look like, and thus created a new tradition in local architecture.
 
 <div>
-<b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural exchange in art and architecture.</div>
+<b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural 
+exchange in art and architecture.</div>
+
+#### **REFERENCES**
+
+     
+
+**Online Databases**
+
+National Library Board Newspaper SG Database
+
+National Library Board Infopedai
+
+National Archives PICAS Database
+
+**National Archives of Singapore**
+
+Building Plans Microfilm Collection
+
+**Newspapers**
+
+The Straits Times
+
+The Singapore Free Press
+
+**Books**
+
+Abdul Halim Nasir. (2004). [_Mosque architecture in the Malay world_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12383474). Bangi: Penerbit University Kebangsaan Malaysia. (Call no.: RSEA q726.20959 ABD)
+
+Alsagoff, Syed Abu Bakar. (1988). [_Mosques in Singapore 1988 = Masjid-masjid di Singapura 1408H_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12761279). Singapore: Muslim Assistance Service Publications. (Call no.: RSING 297.35095957 MOS)
+
+Buckley, C.A. (1965). [_An anecdotal history of old times in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4223465). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
+
+Cannadine, D. (2002). [_Ornamentalism: How the British saw their empire_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754). Oxford: Oxford University Press. (Call no.: R 305.52 CAN)
+
+Chattopadhyay, S. (2005). [_Representing Calcutta: Modernity, nationalism, and the colonial uncanny_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180). London: Routledge. (Call no.: RSING 954.147 CHA)
+
+Frishman, M & Khan, H-U (Eds.). [_The mosque: History, architectural development & regional diversity_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
+
+Hadijah Rahmat., et al (Eds.). (2007). [_The last kampong mosque in Singapore: The extraordinary story and legacy of Sembawang_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13006442). Singapore: Masjid Petempatan Melayu Sembawang. (Call no.: RSING 297.355957 LAS)
+
+Hobsbawn, E., & Ranger, T. (Eds.) (1983). _The invention of tradition_. Cambridge: Cambridge University Press. (Not available in NLB holdings)
+
+Lee, E. (1990). [_Historic buildings of Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572905). Singapore: Preservation of Monuments Board. (Call no.: RSING 720.95957 LEE)
+
+Masjid Sultan (Singapore). (1968). [_Sejarah ringkas Masjid Sultan Singapura_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200041045). Singapore: \[Jawatankuasa Pentadbir Masjid Sultan\]. (Call no.: RCLOS 297.351095957 SEJ)
+
+Metcalf, T.R. (1989). [_An imperial vision: Indian architecture and Britain’s Raj_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949). London: Faber and Faber. (Call no.: RART 722.44 MET)
+
+Metcalf, T.R.  (1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
+
+Mohamad Tajuddin Haji Mohamad Rasdi. (2000). [_The architectural heritage of the malay world: The traditional mosque_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10112632). Skudai, Johor Darul Ta’zim: Penerbit Universiti Teknologi Malaysia. (Call no.: RSEA 726.209595 MOH)
+
+Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, controversy and change since 1850_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5201016). New Haven: Yale University Press. (Call no.: RART 720.954 TIL)
+
+#### **NOTES**
+
+
+[^1]: [O’Neill](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7226339), 1994, p. 225.
+
+[^2]: Hobsbawn & Ranger, 1983.
+
+[^3]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 77, 84.
+
+[^4]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 55–104.
+
+[^5]: [Cannadine](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754), 2002, p. 148.
+
+[^6]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, p. 58.
+
+[^7]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, p. 80.
+
+[^8]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 77–90; [Tilloston](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5201016), 1989, pp. 46–56; [Cannadine](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754), 2002, pp. 148–149.
+
+[^9]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1998, pp. 20–23.
+
+[^10]: Current literature refers to the former mosque as the one built in 1823 or 1824. However, in 1926, a newspaper article reported that this mosque was the second building on the site. _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53)_, 4 Nov 1926, p. 11.
+
+[^11]: Sultan Mosque, 1965, pp. 107, 160.
+
+[^12]: [Mohamad Tajuddin Haji Mohamad Rasdi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10112632), 2000, pp. 53–60.
+
+[^13]: Sultan Mosque, 1965, p. 31.
+
+[^14]: Sultan Mosque, 1965, p. 32.
+
+[^15]: Haji Asmawi bin Said, Executive administrator of Sultan Mosque, personal interview with the author. Sultan Mosque, 11 Sep 2012.
+
+[^16]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 44–48, 50, 88–90.
+
+[^17]: [New Sultan Mosque at Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300101-1.2.69). (1930, January 1). _The Singapore Free Press_, p. 10. Retrieved from NewspaperSG.
+
+[^18]: Sultan Mosque, 1965, p. 33; Sarwar, H.G. (1925, June 29). [The Sultan Mosque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250629-1.2.31.1). _The Singapore Free Press_, p. 8; [Sultan Mosque repairs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480622-1.2.82). (1948, June 22). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
+
+[^19]: [New Sultan Mosque at Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19291230-1.2.64). (1929, December 30). _The Singapore Free Press_, p. 11. Retrieved from NewspaperSG; [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300101-1.2.69), 1 Jan 1930, p. 10; [The Masjid Sultan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320405-1.2.84.24). (1932, April 5). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+[^20]: [Death of M.H. Dawood](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19311125-1.2.97). (1931, November 25). _The Singapore Free Press_, p. 12; [Kampong Glam Mosque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320707-1.2.33). (1932, July 7). _The Singapore Free Press_, p. 7. Retrieved from NewspaperSG.
+
+[^21]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53), 4 Nov 1926, p. 11.
+
+[^22]: Building Pla 269/1924, National Archives of Singapore Microfilm Reel NA309.
+
+[^23]: [Meeting of Muslims](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260219-1.2.97). (1926, February 19). _The Singapore Free Press_, p. 16. Retrieved from NewspaperSG.
+
+[^24]: [Masjid Sultan, Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280702-1.2.80). (1928, July 2). _The Singapore Free Press_, p. 9. Retrieved from NewspaperSG.
+
+[^25]: [Mr Denis Santry leaves after fifteen years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340308-1.2.26.1). (1934, March 8). _The Singapore Free Press_, p. 6. Retrieved from NewspaperSG.
+
+[^26]: [The Sultan Mosque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250902-1.2.71). (1925, September 2). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+[^27]: Sultan Mosque, 11 Sep 2012.
+
+[^28]: Building Plan 128/1933, National Archives of Singapore Microfilm Reel CBS96.
+
+[^29]: National Library Board. (2018, April). [_Alkaff Kampung Melayu Mosque_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_621_2004-12-17.html) written by Herwin Mohd Nasir. Retrieved from Singapore Infopedia.
+
+[^30]: [Lee](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572905), 1990, p. 52.
+
+[^31]: [Hadijah Rahmat](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13006442), 2007.
+
+[^32]: [Abdul Halim Nasir](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12383474), 2004, p. 99.
+
+[^33]:. Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+
+[^34]: [Chattopadhyay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180), 2005, p. 9.
+
+
+
+
+
+
+
