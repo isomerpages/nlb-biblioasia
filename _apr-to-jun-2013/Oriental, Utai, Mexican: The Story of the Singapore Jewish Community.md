@@ -159,7 +159,7 @@ But the onus is on people, not power, to remember and more importantly, react. R
 
 <div>
 <b>Dan Koh</b> is a recipient of the NUS FASS scholarship, cofounder and editor of POSKOD. SG. He co-authored *Gila Bola*! (2012) and has had his short plays staged and published. He is the producer of The *Obs* (2013) and works at Epigram Books.
-	
+</div>
 
 	
 #### **REFERENCES**
@@ -344,19 +344,3 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 [^69]: [Beider](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12944221), 2007, pp. 171–173.
 
 [^70]: Goldstein, 2007.
-	
-
-
-
-
-
-
-
-	
-	
-	
-
-
-
-
-	
