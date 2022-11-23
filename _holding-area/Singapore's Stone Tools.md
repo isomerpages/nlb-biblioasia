@@ -19,7 +19,7 @@ In Malaya, stone tools were found and reported during the colonial period, and w
 Stone tools are usually not directly dated as this would only give an indication of when the rock was formed but not necessarily when the rock was manipulated and shaped. However, organic materials such as wood or shell might be found in the same excavation pit and dated based on their relative position to the stones. This is why finding artefacts in a non-disturbed context is vital. 
 
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image2.png)
-<div style="background-color: white;">A polished stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no.A1285). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">A polished stone axe from Tanjong Tajam on Pulau Ubin, Singapore (Accession no. A1285). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 That said, there are some very old sites with stone tools found in Malaysia, and their discovery also raises the question as to how old the sites in Singapore might be. In 2008, archaeologists in Lenggong Valley, Perak, uncovered tools that may date back to an astounding 1.83 million years. For reference, the oldest stone tool site in the world is in West Turkana, Kenya, which is about 3.3 million years old.[^8] 
 
@@ -41,16 +41,19 @@ One estimate of the stone artefact which Ridley found dates it to 4,000 BCE, but
 
 In 1919, several stone implements of varying sizes were discovered in Johor’s Tanjong Bunga by Engku Abdul Aziz bin Abdul Majid, the 6th Menteri Besar of Johor.[^17] The location of Tanjong Bunga across the straits in Johor was close enough to Tanjong Karang in Singapore that Roland St John Braddell – a prominent lawyer and scholar of Malayan history – suggested in a 1936 paper in the *Journal of the Malayan Branch of the Royal Asiatic Society* that there was a “stone-age portage” between Johor and Singapore, linking the sites of Tanjong Karang in Singapore and Tanjong Bunga in Johor in 1936.[^18] This theory has yet to be tested.
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image7.png)
-<div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website).</i></div>
-
 The artefacts at Tanjong Bunga were described as “lying on white clay within twenty feet of the bank”, and Engku Abdul Aziz had suggested that the stone tools surfaced due to beach erosion resulting from the construction of the Causeway.[^19] However, this is highly unlikely as a 2004 study highlighted that the initial Causeway construction led to low tidal energy in the Johor Strait instead; this indicates that the beach erosion would have occurred prior to 1919.[^20] 
 
 No dates were attributed to the Tanjong Bunga stone tools but P.V. van Stein Callenfels (Pieter Vincent van Stein Callenfels),[^21] a well-known prehistorian, had identified the two smaller stones as “neoliths”, suggesting that they were of a later date associated with domesticated plants and the use of pottery.[^22] 
 
 M.W.F. Tweedie (Michael Wilmer Forbes Tweedie), former director of the Raffles Museum in Singapore, who published a paper in 1953 on stone tools found in Malaya, similarly described the Tanjong Bunga stone tools as “neolithic blanks” – meaning that these could be further modified further into a specific tool form. He further described two of the artefacts as “round-axes” and added that one of the two artefacts was ground at one end. Tweedie’s diagram of Collings’ Tanjong Bunga excavation site further indicates that artefacts were also found in the lower layer of peat. The discovery of artefacts in these two layers suggests two different periods of site occupation.[^23] 
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image7.png)
+<div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website).</i></div>
+
 H.D. Collings (Hubert Dennis Collings), who later became the Curator of Anthropology at the Raffles Museum, visited Tanjong Bunga in 1934 and 1935, and upon finding more implements, conducted an excavation at the site in 1938. This was the first archaeological excavation undertaken at the southern end of the Malay Peninsula. At Tanjong Bunga, Collings found more “small ground neolithic axes, flakes, pieces of haematite, resin and quartz microliths” approximately 90 cm below the surface.[^24] 
+
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image9.png)
+<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Hubert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
 
 The excavated artefacts at the site were described as being found in a stratigraphic layer between two layers of mangrove peat, and it was suggested that this soil layer might have been formed “during a slight temporary advance of the sea”. 
 
@@ -62,7 +65,7 @@ A 2018 review of the Tanjong Bunga stone tools asserted that the site bore evide
 
 On paper, the wide distribution would suggest that these stone tools were not geographically restricted. However, a visual comparison of the “round axes” depicted in published photographs from Singapore and Johor, and those suggested for Indonesia, indicates that there are quite a few differences. A more advanced technical study that investigates the life cycle of these artefacts may be more useful than the previous descriptive method of analysing these tools.[^29]
 
-In addition to the Tanjong Bunga and Tanjong Karang areas, stone tools have also been found on Pulau Ubin. P.D.R. Williams-Hunt, Advisor on Aborigines for the Federation of Malaya,[^30] reported the existence of several stone artefacts (more round axes and stone flakes) at a site called Tanjong Tajam on the western end of Pulau Ubin, and the find was made public in October 1949.[^31] Williams-Hunt and Collings conducted an archaeological excavatio at Tanjong Tajam in November 1949, but it was reported in 1951 that nothing of interest was found.[^32] 
+In addition to the Tanjong Bunga and Tanjong Karang areas, stone tools have also been found on Pulau Ubin. P.D.R. Williams-Hunt, Advisor on Aborigines for the Federation of Malaya,[^30] reported the existence of several stone artefacts (more round axes and stone flakes) at a site called Tanjong Tajam on the western end of Pulau Ubin, and the find was made public in October 1949.[^31] Williams-Hunt and Collings conducted an archaeological excavation at Tanjong Tajam in November 1949, but it was reported in 1951 that nothing of interest was found.[^32] 
 
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image5.png)
 <div style="background-color: white;">Artefact from Tanjong Tajam on Pulau Ubin, Singapore (Accession no. 1280). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
@@ -87,10 +90,7 @@ More significantly, part of a human jaw and calf bone were discovered on the eas
 
 The BKKD site gives some indication as to how stone tools continued to be in use in the area until much later. This, however, raises the important question: were the tools found in Singapore from the Neolithic period, or much later? Another question that the BKKD raises is the identity of the people who might have made these tools. Although no human remains were found in association with the stone tools unearthed in Singapore and Johor, DNA analysis of the remains from the Bintan site may provide clues as to whether the stone tools might be traced to the Orang Laut (sea people) or to an even older and unknown prehistoric community.[^42] 
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image9.png)
-<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Hubert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
-
-#### **Stone tools in Southeast Asia**
+#### **Stone Tools in Southeast Asia**
 
 The stone tools found in and around Singapore need to be understood within the wider context of the development of stone tools in Southeast Asia. The evolution of stone tools in this region differs from that in Europe.[^43] 
 
@@ -115,7 +115,7 @@ All the stone tool sites described earlier were either found along coastal or in
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image8.png)
 <div style="background-color: white;">The Orang Seletar, one of the sub-groups of the Orang Laut, in Singapore, 1950s. DNA analysis of the shell midden site in Bintan may provide clues as to whether the stone tools might be traced to the Orang Laut (sea nomads) or to an even older and unknown prehistoric community. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
-<table style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">  
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><table style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> <b/>STONE TOOL SITES BY ERAS<b> 
   <tr>  
     <th>Geologic Time Scale</th>  
     <th>Age</th>  
@@ -131,19 +131,18 @@ All the stone tool sites described earlier were either found along coastal or in
     <td>Pleistocene</td>  
     <td>2,588,000 to 11,800 years ago
 (The most recent Ice Age)</td>  
-    <td><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
+    <td><span style="background-colour: #fff6ba; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
 <li>Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] </li>
 <li>Sangiran, Central Java, Indonesia: 1 million years ago[^60] </li>
 <li>Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] </li>  
-<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></td>  
+<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></span></td>  
   </tr>  
 	  <tr>  
     <td>Pliocene </td>  
     <td>5,333,000 to 2,588,000
 years ago</td>  
     <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td>  
-  </tr>
-</table>
+  </tr></table></span>
 
 <div style="background-color: white;">
 <br/>
@@ -219,7 +218,7 @@ years ago</td>
 
 [^33]: Clinnick and Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2).”
 
-[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s [eResources]((https://eresources.nlb.gov.sg/main/) website) 
+[^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
 [^35]: Defri Elias Simatupang et al., “[Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau](http://repositori.kemdikbud.go.id/18820/),” *Berita Penelitian Arkeologi* 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in [*Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462244) ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
 
@@ -261,7 +260,7 @@ years ago</td>
 
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “[Zaman Paleolitik](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204226326),” 36.
 
-[^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science & Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–141. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “[’Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://brill.com/view/journals/jeaa/4/1/article-p293),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “[Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times](https://doi.org/10.23858/FAH34.2021.001),” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10.
+[^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science & Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “[’Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://brill.com/view/journals/jeaa/4/1/article-p293),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “[Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times](https://doi.org/10.23858/FAH34.2021.001),” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10.
 
 [^56]: Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981.
 
