@@ -44,6 +44,8 @@ While the Sultan Mosque was certainly not the first mosque in Singapore with Ind
 
 An undated photo in the Sultan Mosque’s collection, probably taken in the early 20th century, shows a four-tier pyramidal hip roof superstructure supported by a whitewashed square pillar, in a compound enclosed by white walls. This is the former Sultan Mosque, which was purported to have been completed by 1824 under the patronage of Sultan Hussein Shah.10 Sir Stamford Raffles promised the Sultan $3,000 towards its construction.11 The British had established a foothold in Singapore in 1819 through the East India Company, and Singapore was in its early stages of expansion as a British trading post. The building was of brick construction, but its architectural form still adhered to traditional Southeast Asian timber mosque architecture. The oldest existing mosque of this type in Malaya is the Kampung Laut Mosque in Kelantan, claimed by some to have been built in the 16th century.12
 
+
+
 <img style="width:80%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
 <div style="background-color: white;">
 An undated photograph of the Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i></div>	
