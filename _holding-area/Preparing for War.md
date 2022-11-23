@@ -131,11 +131,11 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^8]: “[Singapore Will not be Evacuated in an Air Raid](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390508-1.2.96),” *Straits Times*, 8 May 1939, 14. (From NewspaperSG)
 
 
-[^9]: “Accommodation for Poorer Evacuees,” *Straits Budget*, 1 May 1941, 14. (From NewspaperSG)
+[^9]: “[Accommodation for Poorer Evacuees](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19410501-1.2.67),” *Straits Budget*, 1 May 1941, 14. (From NewspaperSG)
 
-[^10]: “Why No Shelters Have Been Built In Singapore,” *Singapore Free Press and Mercantile Advertiser*, 13 September 1941, 3. (From NewspaperSG) 
+[^10]: “[Why No Shelters Have Been Built In Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410913-1.2.23),” *Singapore Free Press and Mercantile Advertiser*, 13 September 1941, 3. (From NewspaperSG) 
 
-[^11]: “Why No Shelters Have Been Built In Singapore.”
+[^11]: “[Why No Shelters Have Been Built In Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410913-1.2.23).”
 
 
 [^12]: Lee Tian Soo, oral history interview by Low Lay Leng, 23 April 1983, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000265), 8.
