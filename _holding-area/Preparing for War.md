@@ -186,10 +186,10 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^28]: [Soh Chuan Lam](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e93220dd-115d-11e3-83d5-0050568939ad-OHC000304_001/web/html5/), oral history interview by Low Lay Leng, 5 September 1983, transcript and MP3 audio, Reel/Disc 1 of 8, National Archives of Singapore (accession no. 003509), 7.
 
 
-[^29]: Alec Soong and Goh Lee Kim, “Singapore Volunteer Corps,” in *Singapore Infopedia*. National Library Board Singapore. Article published October 2021. 
+[^29]: Alec Soong and Goh Lee Kim, “[Singapore Volunteer Corps](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published October 2021. 
 
 
-[^30]: Chan Cheng Yean, oral history interview by Low Lay Leng, 8 March 1983, transcript and MP3 audio, Reel/Disc 4 of 10, National Archives of Singapore (accession no. 000248), 37–38. 
+[^30]: [Chan Cheng Yean](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c13e8c-115d-11e3-83d5-0050568939ad-OHC000248_004/web/html5/), oral history interview by Low Lay Leng, 8 March 1983, transcript and MP3 audio, Reel/Disc 4 of 10, National Archives of Singapore (accession no. 000248), 37–38. 
 
 
 [^31]: Kevin Blackburn and Daniel Chew Ju Ern, “Dalforce at the Fall of Singapore in 1942: An Overseas Chinese Heroic Legend,” *Journal of Chinese Overseas* 1, no. 2 (November 2005): 233–59, ResearchGate, https://www.researchgate.net/publication/233511123_Dalforce_at_the_Fall_of_Singapore_in_1942_An_Overseas_Chinese_Heroic_Legend.
