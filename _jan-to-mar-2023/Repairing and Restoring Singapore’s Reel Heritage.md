@@ -229,11 +229,13 @@ Heritage institutions, including archives like the Asian Film Archive (AFA), lev
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">    
 
-For more on the Asian Film Archive, go to [www.asianfilmarchive.org](www.asianfilmarchive.org)
-	
-  
+
+       
+
+For more on the Asian Film Archive, go to [www.asianfilmarchive.org](www.asianfilmarchive.org)	
 
 </div>
+
 
 <div style="background-color: white;">
 <br/>
