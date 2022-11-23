@@ -8,7 +8,7 @@ description: The typically onion-shaped Indo-Saracenic domes that crown the
 #### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late 1920s introduction to the Singapore’s architectural landscape.
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Sultan%20Mosque%20shophouses1.jpg">
+<img style="width:70%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Sultan%20Mosque%20shophouses1.jpg">
  <div style="background-color: white;">A contrasting scale: Sultan Mosque towering over the shophouses of Kampong Glam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
 
 
@@ -21,7 +21,7 @@ The present Sultan Mosque in Kampong Glam was not the first mosque on the site. 
 The most distinctive feature of the Indo-Saracenic style is its dome. This type of dome has a distinctive ogee profile and is sometimes referred to as an “onion dome.” Over time, the Indo-Saracenic dome was abstracted from the repertoire of Indo-Saracenic features and adapted to local mosques. The dome eventually turned into an identity symbol for mosques in Singapore.
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/exuberant%20roof%20decoration%20of%20the%20Sultan%20Mosque.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/exuberant%20roof%20decoration%20of%20the%20Sultan%20Mosque.jpg">
  <div style="background-color: white;">The exuberant roof decoration of the Sultan Mosque, rising above the shophouses in Kampong Glam. <i>STPB Collection, courtesy of the National Archives of Singapore.</i></div>
 	
 The Indo-Saracenic style is closely associated with British imperialism. The British created the Indo-Saracenic style in 19th century India, by combining Western architectural ideas with what they thought were the most representative features of the Hindu and Islamic architecture of India. The word “Saracenic” was used in a broad sense to denote “Islamic,” while “Indo” morphed from the word “Hindu.”3 In Singapore, the decision to build a mosque in the Indo-Saracenic style in the 1920s raises questions about how this style was viewed by the local mosque trustees. Viewed through the theoretical lens of post-colonial criticism, the Sultan Mosque becomes another product of the imperial project. However, a consideration of the details surrounding the commission of the design reveals another perspective.
@@ -44,8 +44,8 @@ While the Sultan Mosque was certainly not the first mosque in Singapore with Ind
 
 An undated photo in the Sultan Mosque’s collection, probably taken in the early 20th century, shows a four-tier pyramidal hip roof superstructure supported by a whitewashed square pillar, in a compound enclosed by white walls. This is the former Sultan Mosque, which was purported to have been completed by 1824 under the patronage of Sultan Hussein Shah.10 Sir Stamford Raffles promised the Sultan $3,000 towards its construction.11 The British had established a foothold in Singapore in 1819 through the East India Company, and Singapore was in its early stages of expansion as a British trading post. The building was of brick construction, but its architectural form still adhered to traditional Southeast Asian timber mosque architecture. The oldest existing mosque of this type in Malaya is the Kampung Laut Mosque in Kelantan, claimed by some to have been built in the 16th century.12
 
-<img style="width:50%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
- <div style="background-color: white;">
+<img style="width:80%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
+<div style="background-color: white;">
 An undated photograph of the Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i></div>	
 
 
@@ -53,8 +53,8 @@ Although the original Sultan Mosque functioned as the royal mosque of the sultan
 
 Santry may have modeled his design after the Taj Mahal.15 This Mughal mausoleum was greatly admired by British proponents of the Indo-Saracenic style.16 The four minarets at the corners of the Taj Mahal complex have been replicated at the four corners of the roof of the Sultan Mosque. The shafts of the minarets follow the same gentle tapering outline and are similarly topped with *chhatris*.
 
-<img style="width:50%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
- <div style="background-color: white;">
+<img style="width:80%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
+<div style="background-color: white;">
 The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Courtesy of Joyce Iris Zaide.	</i></div>
 	
 
@@ -71,7 +71,7 @@ The mosque is elevated about 10 feet above the ground, with double staircases le
 Unlike the Abdul Gafoor Mosque and the Friday Mosques noted previously, the Sultan Mosque is an enclosed mosque, and was reportedly one of the largest enclosed mosques in the world at the time it was built.17 Its floor area measures approximately 106 by 180 feet. The sides and back portion of the prayer hall are split to incorporate a second floor gallery. The mosque has room for 5,000 worshippers and cost about $250,000 to construct.18 The new Sultan Mosque was officially opened on 27 December 1929, the last Friday of the year, although it was completed only in 1932.19
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Interior%20Sultan%20Mosque.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Interior%20Sultan%20Mosque.jpg">
  <div style="background-color: white;">Interior of the Sultan Mosque viewed from the second floor gallery, looking towards the <i>mihrab</i>. <i>All images on this page are courtesy of Ten Leu-Jiun.</i></div>
  
 
@@ -85,7 +85,7 @@ Viewed from the exterior, the Sultan Mosque appears to be a unitary building, bu
 
 When seen from North Bridge Road, the space behind the *pishtaq* motif appears to be connected with the rest of the building, but this grave chamber is in fact physically walled off from the other parts of the building. Thus, although structurally part of the overall mosque building, it is segregated spatially and is symbolically distinct, a neat solution that accommodates the resting place of the Sultan without integrating his grave into a space of worship, which is a contentious subject within Islam. Such detail would have required giving specific instructions to the Christian Denis Santry, in order to work out a design that made such spatial distinctions within one building.
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/glass%20bottle%20dark%20band.jpg">
+<img style="width:70%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/glass%20bottle%20dark%20band.jpg">
  <div style="background-color: white;">The burial chamber of Sultan Alauddin Alam Shah at the Sultan Mosque is differentiated by a slight projection from the main building.</div>
 
 
@@ -95,13 +95,13 @@ The second “tell-tale” detail of local intervention is a dark band accentuat
 
 The impact of the Indo-Saracenic style and its iconic dome was almost immediately felt on local mosques. The next mosques to lead the trend were the Alkaff Mosque built in 1932 and the new prayer hall of the Hajjah Fatimah Mosque designed in 1933.28 Domes were variously placed on the minaret, above the porch-like structure at the façade, and on the gate posts of the Alkaff Mosque. This mosque with a distinctive curved gable was located on Jalan Abdul Manan, off Jalan Eunos. It was demolished around 1995, when a new mosque was erected nearby to replace it.29
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Alkaff%20Mosque%201932_5.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Alkaff%20Mosque%201932_5.jpg">
  <div style="background-color: white;">
 Alkaff Mosque, built in 1932, was one of the earliest Mosques in Singapore to incorporate domes into its design. <i>All rights reserved, Lee Kip Lin and National Library Board, 2009.</i></div>
 	
 The Hajjah Fatimah Mosque was built around 1845.30 When a decision was made to rebuild the prayer hall in 1933, Syed Abdul Rahman bin Taha Alsagoff, a descendent of Hajjah Fatimah, commissioned the local Chinese firm of Chung and Wong to design it in the Indo-Saracenic style. The prayer hall is dominated by a prominent dome supported by a drum lit by 12 stained glass windows. From the exterior, the pointed arches around the verandah are flanked by demi columns that rise above the edge of the roofline into full shafts topped by *chhatris*. The decision to use this style, and its design by a Chinese firm, indicate that the Indo-Saracenic design had become localised in Singapore. The Malabar Mosque on Victoria Street, opened in 1963, also used the decorative elements of monumental domes *chhatris*, and a domed minaret.
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Hajjah%20Fatimah%20Mosque.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Hajjah%20Fatimah%20Mosque.jpg">
  <div style="background-color: white;">
 The Hajjah Fatimah Mosque with its 1933 Indo-Saracenic prayer hall and the iconic minaret dating to around 1845. <i>Courtesy of the National Archives of Singapore.</i></div>
 
