@@ -144,22 +144,22 @@ This destruction of records during wartime, both deliberate and accidental, unde
 
 [^14]: [Chu Shuen Choo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e98a11b7-115d-11e3-83d5-0050568939ad-OHC000462_001/web/html5/), oral history interview by Low Lay Leng, 15 August 1985, transcript and MP3 audio, Reel/Disc 1 of 12, National Archives of Singapore (accession no. 000462), 9–10. 
 
-[^15]: Rajabali Jumabhoy, oral history interview by Lim How Seng, 15 July 1981, transcript and MP3 audio, Reel/Disc 11 of 37, National Archives of Singapore (accession no. 000074), 72–73.
+[^15]: [Rajabali Jumabhoy](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/), oral history interview by Lim How Seng, 15 July 1981, transcript and MP3 audio, Reel/Disc 11 of 37, National Archives of Singapore (accession no. 000074), 72–73.
 
-[^16]: Rajabali Jumabhoy, oral history interview, 15 July 1981, Reel/Disc 11 of 37, 72–73.
-
-
-[^17]: Michael Mukunathan, “Rajabali Jumabhoy,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016. 
+[^16]: [Rajabali Jumabhoy](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/), oral history interview, 15 July 1981, Reel/Disc 11 of 37, 72–73.
 
 
-[^18]: Rajabali Jumabhoy, oral history interview, 15 July 1981, Reel/Disc 11 of 37, 73–74.
+[^17]: Michael Mukunathan, “[Rajabali Jumabhoy](https://eresources.nlb.gov.sg/infopedia/articles/SIP_859_2004-12-27.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016. 
+
+
+[^18]: [Rajabali Jumabhoy](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/), oral history interview, 15 July 1981, Reel/Disc 11 of 37, 73–74.
 
 
 
-[^19]: Isa Ibrahim, oral history interview by Low Lay Leng, 6 January 1983, transcript and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore (accession no. 000242), 137.
+[^19]: [Isa Ibrahim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e4e19c80-115d-11e3-83d5-0050568939ad-OHC000242_011/web/html5/), oral history interview by Low Lay Leng, 6 January 1983, transcript and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore (accession no. 000242), 137.
 
 
-[^20]: Lee, *The Syonan Years*, 44.
+[^20]: Lee, [*The Syonan Years*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12661517), 44.
 
 
 [^21]: Ang Seah San, oral history interview by Low Lay Leng, 24 March 1984, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000419), 1–2.
