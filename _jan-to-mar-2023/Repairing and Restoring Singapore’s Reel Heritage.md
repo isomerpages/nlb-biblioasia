@@ -231,10 +231,14 @@ Heritage institutions, including archives like the Asian Film Archive (AFA), lev
 
 
        
+         
 
-For more on the Asian Film Archive, go to [www.asianfilmarchive.org](http://www.asianfilmarchive.org)	
+For more on the Asian Film Archive, go to 
+<a 	
+href="www.asianfilmarchive.org">	www.asianfilmarchive.org</a>. </div>
+	
 
-</div>
+
 
 
 <div style="background-color: white;">
