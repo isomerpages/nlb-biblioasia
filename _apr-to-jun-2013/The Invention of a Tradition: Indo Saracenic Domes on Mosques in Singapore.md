@@ -46,16 +46,17 @@ An undated photo in the Sultan Mosque’s collection, probably taken in the earl
 
 
 
-<img style="width:80%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
 <div style="background-color: white;">
-An undated photograph of the Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i></div>	
+An undated photograph of the Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i>
+</div>	
 
 
 Although the original Sultan Mosque functioned as the royal mosque of the sultan in early Singapore, control of the mosque eventually passed from the sultan to local Muslim community leaders. In 1879, Sultan Alauddin Alam Shah, also known as Tengku Alam, the grandson of Sultan Hussein Shah, turned the administration of the mosque over to a five-member council.13 A Board of Trustees was appointed after 1914 to oversee the mosque. The 12-member trustee system ensured representation from various ethnic communities across the board by appointing two members from each major Muslim community in Singapore to its Board of Trustees, which were the Arab, Bugis, Javanese, Malay, Northern Indian and Tamil/Southern Indian communities.14 This was the system of governance in place when the construction of a new mosque was mooted in 1924, and Denis Santry was commissioned to design the new mosque.
 
 Santry may have modeled his design after the Taj Mahal.15 This Mughal mausoleum was greatly admired by British proponents of the Indo-Saracenic style.16 The four minarets at the corners of the Taj Mahal complex have been replicated at the four corners of the roof of the Sultan Mosque. The shafts of the minarets follow the same gentle tapering outline and are similarly topped with *chhatris*.
 
-<img style="width:80%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
 <div style="background-color: white;">
 The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Courtesy of Joyce Iris Zaide.	</i></div>
 	
