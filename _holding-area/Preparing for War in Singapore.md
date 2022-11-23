@@ -3,7 +3,6 @@ title: Preparing for War in Singapore
 permalink: /holding-area/test8/
 description: ""
 ---
-
 #### Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
 By Christabel Khoo and Mark Wong
 
