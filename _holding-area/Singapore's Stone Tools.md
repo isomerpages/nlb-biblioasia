@@ -52,6 +52,9 @@ M.W.F. Tweedie (Michael Wilmer Forbes Tweedie), former director of the Raffles M
 
 H.D. Collings (Hubert Dennis Collings), who later became the Curator of Anthropology at the Raffles Museum, visited Tanjong Bunga in 1934 and 1935, and upon finding more implements, conducted an excavation at the site in 1938. This was the first archaeological excavation undertaken at the southern end of the Malay Peninsula. At Tanjong Bunga, Collings found more “small ground neolithic axes, flakes, pieces of haematite, resin and quartz microliths” approximately 90 cm below the surface.[^24] 
 
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image9.png)
+<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Hubert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
+
 The excavated artefacts at the site were described as being found in a stratigraphic layer between two layers of mangrove peat, and it was suggested that this soil layer might have been formed “during a slight temporary advance of the sea”. 
 
 Although there was no method of dating sea level changes back then, one recent study for Singapore suggested that the sea level rose to a maximum at around 3,150 BCE before falling to present levels.[^25] This new data might present the best educated guess for when the site was in use until further environmental history studies can be made near or at Tanjong Bunga itself. 
@@ -86,9 +89,6 @@ In 2012, an artefact made of andesite, a fine-grained igneous rock, was reported
 More significantly, part of a human jaw and calf bone were discovered on the eastern side of the shell midden, suggesting that there was a more complex use for the site rather than simply a depository for food waste.[^40] The researchers stated that the quartzite and bauxite artefacts were likely to be locally sourced and that the site was used as a food processing area, among other things.[^41] 
 
 The BKKD site gives some indication as to how stone tools continued to be in use in the area until much later. This, however, raises the important question: were the tools found in Singapore from the Neolithic period, or much later? Another question that the BKKD raises is the identity of the people who might have made these tools. Although no human remains were found in association with the stone tools unearthed in Singapore and Johor, DNA analysis of the remains from the Bintan site may provide clues as to whether the stone tools might be traced to the Orang Laut (sea people) or to an even older and unknown prehistoric community.[^42] 
-
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image9.png)
-<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Hubert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
 
 #### **Stone tools in Southeast Asia**
 
