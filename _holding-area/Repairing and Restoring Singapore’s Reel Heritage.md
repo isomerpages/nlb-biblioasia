@@ -148,7 +148,7 @@ The eventual digitisation of the last eight minutes, despite the hissing and sha
 Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
 <br><br>
 
-<b>Film Inspection and Identification</b><br>
+<b>Film Inspection and Identification</b><br></b><br>
 
 
 Film identification is the single most important way to date a film material and identify its technical characteristics. Information such as film type/gauge, manufacturing codes, length, and general condition are recorded to help the restorer make informed decisions on actions to be taken and to document any changes in the film’s condition from the time it was acquired to when it is next inspected.
