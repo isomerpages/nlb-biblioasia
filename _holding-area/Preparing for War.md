@@ -116,7 +116,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^3]: [Soh Guan Bee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/), oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000310), 8–9.
 
 
-[^4]: Tan Ban Cheng, oral history interview by Low Lay Leng, 25 January 1979, transcript and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore (accession no. 000392), 7.
+[^4]: [Tan Ban Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7e9ea71-115d-11e3-83d5-0050568939ad-OHC000392_001/web/html5/), oral history interview by Low Lay Leng, 25 January 1979, transcript and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore (accession no. 000392), 7.
 
 
 [^5]: Tan Guan Chuan, oral history interview by Low Lay Leng, 21 March 1984, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000414), 12–13.
