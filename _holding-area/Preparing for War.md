@@ -183,7 +183,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^27]: “[Scrap is Already Piling Up for ‘Salvage Week’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410114-1.2.68),” *Singapore Free Press and Mercantile Advertiser*, 14 January 1941, 7 (From NewspaperSG)
 
 
-[^28]: Soh Chuan Lam, oral history interview by Low Lay Leng, 5 September 1983, transcript and MP3 audio, Reel/Disc 1 of 8, National Archives of Singapore (accession no. 003509), 7.
+[^28]: [Soh Chuan Lam](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e93220dd-115d-11e3-83d5-0050568939ad-OHC000304_001/web/html5/), oral history interview by Low Lay Leng, 5 September 1983, transcript and MP3 audio, Reel/Disc 1 of 8, National Archives of Singapore (accession no. 003509), 7.
 
 
 [^29]: Alec Soong and Goh Lee Kim, “Singapore Volunteer Corps,” in *Singapore Infopedia*. National Library Board Singapore. Article published October 2021. 
