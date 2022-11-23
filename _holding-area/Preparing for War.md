@@ -103,3 +103,102 @@ Tan Wah Meng, a volunteer for the Medical Auxiliary Service, said people burned 
 Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed all documents relating to the ARP so as not to leave any evidence for the Japanese. “The wardens and I… we decided to destroy all records, logbooks, uniforms, helmets in order that we could deny of any connections with the previous government… Three days after our meeting, we were told that the British army surrendered, unconditionally to the enemy... We called the meeting because we got instruction from headquarters that we have got to be disbanded.…  We advised all the other wardens that, your uniform, your uniform, your helmet all must be buried or burned away.”[^34]
 
 This destruction of records during wartime, both deliberate and accidental, underlines the importance of oral history. Through the memories of these survivors, captured on tape and now digitised for convenient access, we will be able to preserve vital aspects of Singapore’s past that would otherwise have no other trace.
+
+
+#### **NOTES**
+
+[^1]: Lee Geok Boi, *The Syonan Years: Singapore under Japanese Rule* 1942–1945 (Singapore: National Archives of Singapore and Epigram Pte Ltd, 2005), 44. (From National Library, Singapore, call no. RSING q940.53957 LEE-[WAR])
+
+
+[^2]: Toh Mah Keong, oral history interview by Lim How Seng, 27 December 1979, transcript and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore (accession no. 000001), 18.
+
+
+[^3]: Soh Guan Bee, oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000310), 8–9.
+
+
+[^4]: Tan Ban Cheng, oral history interview by Low Lay Leng, 25 January 1979, transcript and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore (accession no. 000392), 7.
+
+
+[^5]: Tan Guan Chuan, oral history interview by Low Lay Leng, 21 March 1984, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000414), 12–13.
+
+
+[^6]: Abdealli K Motiwalla, oral history interview by Chua Ser Koon, 19 August 1982, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000204), 1– 2.
+
+
+[^7]: Abdealli K. Motiwalla, oral history interview, 19 August 1982, Reel/Disc 1 of 4, 3–4.
+
+
+[^8]: “Singapore Will not be Evacuated in an Air Raid,” *Straits Times*, 8 May 1939, 14. (From NewspaperSG)
+
+
+[^9]: “Accommodation for Poorer Evacuees,” *Straits Budget*, 1 May 1941, 14. (From NewspaperSG)
+
+[^10]: “Why No Shelters Have Been Built In Singapore,” *Singapore Free Press and Mercantile Advertiser*, 13 September 1941, 3. (From NewspaperSG) 
+
+[^11]: “Why No Shelters Have Been Built In Singapore.”
+
+
+[^12]: Lee Tian Soo, oral history interview by Low Lay Leng, 23 April 1983, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000265), 8.
+
+[^13]: Tan Geok Koon, oral history interview by Claire Yeo, 11 August 2006, transcript and MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 003067), 3. 
+
+[^14]: Chu Shuen Choo, oral history interview by Low Lay Leng, 15 August 1985, transcript and MP3 audio, Reel/Disc 1 of 12, National Archives of Singapore (accession no. 000462), 9–10. 
+
+[^15]: Rajabali Jumabhoy, oral history interview by Lim How Seng, 15 July 1981, transcript and MP3 audio, Reel/Disc 11 of 37, National Archives of Singapore (accession no. 000074), 72–73.
+
+[^16]: Rajabali Jumabhoy, oral history interview, 15 July 1981, Reel/Disc 11 of 37, 72–73.
+
+
+[^17]: Michael Mukunathan, “Rajabali Jumabhoy,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016. 
+
+
+[^18]: Rajabali Jumabhoy, oral history interview, 15 July 1981, Reel/Disc 11 of 37, 73–74.
+
+
+
+[^19]: Isa Ibrahim, oral history interview by Low Lay Leng, 6 January 1983, transcript and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore (accession no. 000242), 137.
+
+
+[^20]: Lee, *The Syonan Years*, 44.
+
+
+[^21]: Ang Seah San, oral history interview by Low Lay Leng, 24 March 1984, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000419), 1–2.
+
+
+[^22]: Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 1 of 7, 2.
+
+
+[^23]: Gay Wan Guay, oral history interview by Low Lay Leng, 17 April 1984, transcript and MP3 audio, Reel/Disc 1 of 22, National Archives of Singapore (accession no. 000374), 6–7. 
+
+
+[^24]: Lee Kip Lee, oral history interview by Cindy Chou, 13 July 1994, transcript and MP3 audio, Reel/Disc 1 of 6, National Archives of Singapore (accession no. 001532), 3. 
+
+
+[^25]: Mani Letchumanan Masillamani, oral history interview by Jesley Chua Chee Huan, 23 April 2010, transcript and MP3 audio, Reel/Disc 2 of 20, National Archives of Singapore (accession no. 003509), 41.
+
+
+[^26]: Mani Letchumanan Masillamani, oral history interview, 23 April 2010, Reel/Disc 2 of 20, 43. 
+
+
+[^27]: “Scrap is Already Piling Up for ‘Salvage Week’,” *Singapore Free Press and Mercantile Advertiser*, 14 January 1941, 7 (From NewspaperSG)
+
+
+[^28]: Soh Chuan Lam, oral history interview by Low Lay Leng, 5 September 1983, transcript and MP3 audio, Reel/Disc 1 of 8, National Archives of Singapore (accession no. 003509), 7.
+
+
+[^29]: Alec Soong and Goh Lee Kim, “Singapore Volunteer Corps,” in *Singapore Infopedia*. National Library Board Singapore. Article published October 2021. 
+
+
+[^30]: Chan Cheng Yean, oral history interview by Low Lay Leng, 8 March 1983, transcript and MP3 audio, Reel/Disc 4 of 10, National Archives of Singapore (accession no. 000248), 37–38. 
+
+
+[^31]: Kevin Blackburn and Daniel Chew Ju Ern, “Dalforce at the Fall of Singapore in 1942: An Overseas Chinese Heroic Legend,” *Journal of Chinese Overseas* 1, no. 2 (November 2005): 233–59, ResearchGate, https://www.researchgate.net/publication/233511123_Dalforce_at_the_Fall_of_Singapore_in_1942_An_Overseas_Chinese_Heroic_Legend.
+
+
+[^32]: Jack Ng Kim Boon, oral history interview by Low Lay Leng, 5 November 1983, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000362), 2–3.
+
+
+[^33]: Tan Wah Meng, oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 4 of 17, National Archives of Singapore (accession no. 000306), 44.
+
+
+[^34]: Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 1 of 7, 3; Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 2 of 7, 20–21.
