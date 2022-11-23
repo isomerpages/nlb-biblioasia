@@ -108,7 +108,7 @@ The *Utais* tried as best as they could to do so, in the face of a severe lack o
 
 Nathan recalls: 
 
-<center>\[A Japanese official\] stopped me in the street and examined my armband closely. “You what-ka?” he asked. I answered in as firm a voice as I could muster, “I am a Jew.” To my astonishment, he grasped my hand and shook it energetically, smiling broadly. “Ah Jew!” he exclaimed. “Werry \[sic\] good! In the world three great J’s — one Japan, two Julius Caesar, three Jew!”[^51]</center>
+\[A Japanese official\] stopped me in the street and examined my armband closely. “You what-ka?” he asked. I answered in as firm a voice as I could muster, “I am a Jew.” To my astonishment, he grasped my hand and shook it energetically, smiling broadly. “Ah Jew!” he exclaimed. “Werry \[sic\] good! In the world three great J’s — one Japan, two Julius Caesar, three Jew!”[^51]
 
 True to their unpredictability, the Japanese suddenly interned more than 100 Jewish men on 5 April 1943. They were imprisoned at Changi camp, where they were largely left to continue their way of life. No one knew why they were captured, but after the war, a story circulated that a German ship had arrived in Singapore — its officers instructed the Japanese to “do something” with the Jewish people.[^52]
 
