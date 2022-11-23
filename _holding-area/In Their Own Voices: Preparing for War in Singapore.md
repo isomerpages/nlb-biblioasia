@@ -4,8 +4,6 @@ permalink: /holding-area/test8/
 description: ""
 image: /images/Vol 18 Issue 4/War in Singapore/1e.png
 ---
-
-
 #### Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
 By Christabel Khoo and Mark Wong
 
@@ -18,6 +16,9 @@ This year, 2023, marks the 81st anniversary of the fall of Singapore. With each 
 Oral history is powerful. Not only can stories of the past be preserved in their factual detail, but the voices of witnesses convey complex emotions that are difficult to express in the written word.
 
 Over the last eight decades, military historians have examined how the Japanese were able to prevail against a much larger British military force. The travails of the Japanese Occupation period have also been well documented. However, one aspect of the war has not been as well studied – how people in Singapore prepared for the worst in the months prior to and even as bombs and artillery shells began to rain on the island. 
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/1e.png)
+<div style="background-color: white;">A warden of the Air Raid Precautions dousing an incendiary bomb at Raffles Place as part of a regular weekly mass demonstration to make people living in Singapore bomb conscious and informed, c.1941. <i>Courtesy of Library of Congress (04810).</i></div>
 
 This essay highlights first-person accounts from the oral history collection of the National Archives of Singapore to give an insight into life in Singapore before the first bombs fell on the island on 8 December 1941 to the British surrender on 15 February 1942.
 
@@ -40,6 +41,9 @@ Among them was Abdealli K. Motiwalla and his family, who moved out of Raffles Pl
 #### **Building Air Raid Shelters**
 
 In their Yio Chu Kang compound, Motiwalla’s family had built an underground air raid shelter made of bricks. Although originally meant for the family, they generously opened it to others. “[N]ext door people used to come also. And they had also their own shelters, different compound. They had their own, also they had made. But in my place it was quite big, so many people used to come,” recalled Motiwalla.[^7]
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/4e.png)
+<div style="background-color: white;">Civilians in an air raid shelter during a Japanese bombing raid, December 1941. <i>©Imperial War Museum (KF 102).</i></div>
 
 Across the island, many people were building their own air raid shelters. The British colonial government had initially adopted a “stay put” policy. In May 1939, they announced that “the best thing to do in an air raid would be for citizens to remain in their homes”, as shelters and evacuation camps were considered impracticable.[^8] By May 1941, owing to public pressure, the government changed their stance and published notices in newspapers informing the people that they could register for accommodation in evacuation camps. These, however, were intended for the “poorer classes among the population”.[^9] 
 
@@ -68,6 +72,9 @@ Not everyone chose to evacuate, even if they had the opportunity. There were tho
 The recruitment of volunteers for civil defence units began in 1939. These civil defence units, which started conducting training, included the Air Raid Precautions (ARP), Medical Auxiliary Service, Observer Corps, Fire-fighting Squad and the Special Constabulary. Some 6,000 men and women volunteered.[^20] 
 
 Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and what precautions to take in order to minimise injuries to persons and damages to properties.”[^21] 
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
+<div style="background-color: white;">Volunteers of the Air Raid Precautions fighting fires at the docks in Singapore, c. January 1942. <i>Courtesy of the Australian War Memorial, 012464.</i></div>
 
 Ang recalled practising air raid drills. When the air raid siren sounded, “wardens on duty were ordered to patrol the streets… householders would comply with our instructions, such as the taking of cover in the shelter and switching off the lights at night, advising pedestrians to cover, to take cover wherever possible. Vehicles travelling on the road were ordered to park by the roadside with lamps, headlamps switched off… In order that the public might be acquainted with the requirements, these exercises had been continually practised for about a month or so”.[^22]
 
