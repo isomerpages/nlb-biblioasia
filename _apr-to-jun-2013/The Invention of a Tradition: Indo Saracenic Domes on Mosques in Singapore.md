@@ -7,6 +7,11 @@ description: The typically onion-shaped Indo-Saracenic domes that crown the
 ---
 #### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late 1920s introduction to the Singapore’s architectural landscape.
 
+
+<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Sultan%20Mosque%20shophouses1.jpg">
+ <div style="background-color: white;">A contrasting scale: Sultan Mosque towering over the shophouses of Kampong Glam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
+
+
 Domes are typical features of Singapore mosques today. However, this was not always the case. In fact, domes were introduced into Southeast Asian mosque architecture only in the 19th century.1 This trend can be observed in Singapore and within the wider Malayan-Indonesian mosque landscape. This article will discuss the proliferation of domes on mosques in Singapore by considering how the IndoSaracenic dome became an “invented tradition” as a typical mosque feature on 
 the island beginning with the construction 
 of the Sultan Mosque in the late 1920s.2
@@ -15,6 +20,10 @@ The present Sultan Mosque in Kampong Glam was not the first mosque on the site. 
 
 The most distinctive feature of the Indo-Saracenic style is its dome. This type of dome has a distinctive ogee profile and is sometimes referred to as an “onion dome.” Over time, the Indo-Saracenic dome was abstracted from the repertoire of Indo-Saracenic features and adapted to local mosques. The dome eventually turned into an identity symbol for mosques in Singapore.
 
+
+<img style="width:50%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/exuberant%20roof%20decoration%20of%20the%20Sultan%20Mosque.jpg">
+ <div style="background-color: white;">The exuberant roof decoration of the Sultan Mosque, rising above the shophouses in Kampong Glam. <i>STPB Collection, courtesy of the National Archives of Singapore.</i></div>
+	
 The Indo-Saracenic style is closely associated with British imperialism. The British created the Indo-Saracenic style in 19th century India, by combining Western architectural ideas with what they thought were the most representative features of the Hindu and Islamic architecture of India. The word “Saracenic” was used in a broad sense to denote “Islamic,” while “Indo” morphed from the word “Hindu.”3 In Singapore, the decision to build a mosque in the Indo-Saracenic style in the 1920s raises questions about how this style was viewed by the local mosque trustees. Viewed through the theoretical lens of post-colonial criticism, the Sultan Mosque becomes another product of the imperial project. However, a consideration of the details surrounding the commission of the design reveals another perspective.
 
 This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s pre-eminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
@@ -38,6 +47,11 @@ An undated photo in the Sultan Mosque’s collection, probably taken in the earl
 Although the original Sultan Mosque functioned as the royal mosque of the sultan in early Singapore, control of the mosque eventually passed from the sultan to local Muslim community leaders. In 1879, Sultan Alauddin Alam Shah, also known as Tengku Alam, the grandson of Sultan Hussein Shah, turned the administration of the mosque over to a five-member council.13 A Board of Trustees was appointed after 1914 to oversee the mosque. The 12-member trustee system ensured representation from various ethnic communities across the board by appointing two members from each major Muslim community in Singapore to its Board of Trustees, which were the Arab, Bugis, Javanese, Malay, Northern Indian and Tamil/Southern Indian communities.14 This was the system of governance in place when the construction of a new mosque was mooted in 1924, and Denis Santry was commissioned to design the new mosque.
 
 Santry may have modeled his design after the Taj Mahal.15 This Mughal mausoleum was greatly admired by British proponents of the Indo-Saracenic style.16 The four minarets at the corners of the Taj Mahal complex have been replicated at the four corners of the roof of the Sultan Mosque. The shafts of the minarets follow the same gentle tapering outline and are similarly topped with *chhatris*.
+
+<img style="width:50%;" src="images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
+ <div style="background-color: white;">
+The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Courtesy of Joyce Iris Zaide.	</i></div>
+	
 
 *Chhatris* are domed circular or polygonal pavilions that became highly ornamental features in Islamic architecture in India, and were in turn absorbed into the IndoSaracenic decorative vernacular. Instead of a central and extremely monumental dome as seen on the Taj Mahal, two domes with a diameter of 40 feet each are positioned on opposite sides of the Sultan Mosque, one above the elevation facing North Bridge Road, and another over the main entrance to the mosque, facing the present Bussorah Mall. Flanking the monumental onion domes that rise above the corner minarets to 100 feet above ground level are four *chhatris*, just as four *chhatris* surround the Taj Mahal dome.
 
@@ -87,8 +101,3 @@ The Sultan Mosque challenges such narratives and assumptions by showing that the
 
 <div>
 <b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural exchange in art and architecture.</div>
-
-
-
-
-
