@@ -162,7 +162,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^20]: Lee, [*The Syonan Years*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12661517), 44.
 
 
-[^21]: Ang Seah San, oral history interview by Low Lay Leng, 24 March 1984, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000419), 1–2.
+[^21]: [Ang Seah San](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea000529-115d-11e3-83d5-0050568939ad-OHC000419_001/web/html5/), oral history interview by Low Lay Leng, 24 March 1984, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 000419), 1–2.
 
 
 [^22]: Ang Seah San, oral history interview, 24 March 1984, Reel/Disc 1 of 7, 2.
