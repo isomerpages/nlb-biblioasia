@@ -3,7 +3,7 @@ title: New Books on Singapore History
 permalink: /holding-area/test9/
 description: ""
 ---
-#### The Blue Mosque of Singapore and a Peek into the Migrant Muslim Community from Kerala
+#### **The Blue Mosque of Singapore and a Peek into the Migrant Muslim Community from Kerala**
 by Mohamed Nasim Abdul Rahim
 
 Mohamed Nasim Abdul Rahim, 204 pages
@@ -18,7 +18,7 @@ This distinctive blue mosque is prominently located at the junction of Victoria 
 
 The author pieces together information gleaned from old official records, newspaper articles, photographs and interviews to tell the little-known story of a mosque that is part of Singapore’s built heritage.
 
-#### The Comfort Women of Singapore in History and Memory
+#### **The Comfort Women of Singapore in History and Memory**
 by Kevin Blackburn
 
 NUS Press, 208 pages. <br>
@@ -30,7 +30,7 @@ Why did no former comfort women from Singapore come forward to tell their storie
 
 With care, balance and sensitivity given to a difficult subject, the author turns from history to the public presence of the comfort women in Singapore’s memory and reveals how these women became known in Singapore in the 1990s and 2000s.
 
-#### Germans in Singapore: Stories from 200 Years of Friendship in an Age of Globalisation
+#### **Germans in Singapore: Stories from 200 Years of Friendship in an Age of Globalisation**
 by Sabine Hein 
 
 Pagesetters Services, 293 pages. <br> Call no. RSING 959.5703092 HEI-[HIS]
@@ -45,7 +45,7 @@ Singapore paved the way for Germans to expand their presence in Asia. At the sam
 
 This book is in both English and German to reach out to both Singaporean and German readers.
 
-#### Singapore Street Names: A Study of Toponymics (4th edition)
+#### **Singapore Street Names: A Study of Toponymics (4th edition)**
 by Victor R. Savage and Brenda S.A. Yeoh
 
 Marshall Cavendish Editions, 
