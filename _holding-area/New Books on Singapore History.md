@@ -45,3 +45,9 @@ by Victor R. Savage and Brenda S.A. Yeoh
 Marshall Cavendish Editions, 
 592 pages. <br>
 Call no. RSING 915.9570014 SAV
+
+The current landscape of street and place names in Singapore reflects the evolving occupation of places as a result of historical, social and cultural changes.
+
+This fourth edition of *Singapore Street Names* provides a comprehensive update of the series. Organised in alphabetical order, it covers existing as well as expunged street and place names. 
+
+The book serves as a reference to the meaning and origins of street and place names in Singapore. It also provides a holistic perspective of Singapore’s development over the last two centuries since 1819 and even further back in time.
