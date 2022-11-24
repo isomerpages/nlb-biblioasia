@@ -4,6 +4,7 @@ title: The Blue Mosque of Singapore and a Peek into the Migrant Muslim Community
 permalink: /holding-area/test9/
 description: ""
 ---
+#### **The Blue Mosque of Singapore and a Peek into the Migrant Muslim Community from Kerala**
 by Mohamed Nasim Abdul Rahim
 
 Mohamed Nasim Abdul Rahim, 204 pages
