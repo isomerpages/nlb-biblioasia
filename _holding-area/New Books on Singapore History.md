@@ -25,3 +25,17 @@ Call no. RSING 940.5405082095957 BLA-[WAR]
 Why did no former comfort women from Singapore come forward to tell their stories when others across Asia began to do so publicly in the 1990s? To understand this silence, this book details the sex industry serving the Japanese military during the wartime occupation of Singapore: the comfort stations, managers, procurers, and girls and women who either volunteered or were forced into service and, in many cases, sexual slavery. 
 
 With care, balance and sensitivity given to a difficult subject, the author turns from history to the public presence of the comfort women in Singapore’s memory and reveals how these women became known in Singapore in the 1990s and 2000s.
+
+#### Germans in Singapore: Stories from 200 Years of Friendship in an Age of Globalisation
+by Sabine Hein 
+
+Pagesetters Services, 293 pages. <br> Call no. RSING 959.5703092 HEI-[HIS]
+
+The first Germans came to Singapore 200 years ago. This book chronicles the economic, political and cultural relations between Germany and Singapore from their beginnings in 1822 to the present.
+
+The contribution of Germans to Singapore is both fascinating and multi-faceted. Their role in Singapore can only be understood in terms of their interrelationship with this country. 
+
+Singapore paved the way for Germans to expand their presence in Asia. At the same time, the Germans who were here also made important contributions to Singapore. 
+
+This book is in both English and German to reach out to both Singaporean and German readers.
+
