@@ -39,3 +39,9 @@ Singapore paved the way for Germans to expand their presence in Asia. At the sam
 
 This book is in both English and German to reach out to both Singaporean and German readers.
 
+#### Singapore Street Names: A Study of Toponymics (4th edition)
+by Victor R. Savage and Brenda S.A. Yeoh
+
+Marshall Cavendish Editions, 
+592 pages. <br>
+Call no. RSING 915.9570014 SAV
