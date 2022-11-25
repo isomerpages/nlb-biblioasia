@@ -333,5 +333,6 @@ sections:
         collection.
       button: New reads
       url: /vol-18/issue-4/jan-mar-2023/new-books-singapore-history/
-      alt: Image alt text
+      alt: New books
+      image: /images/Vol 18 Issue 4/New Books/book1.png
 ---
