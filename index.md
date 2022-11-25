@@ -318,4 +318,12 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
+  - infopic:
+      title: "In Their Own Voices: Preparing for War in Singapore"
+      subtitle: War
+      description: Before the fall of Singapore in 1942, people stocked up on food,
+        built air raid shelters and volunteered in civil defence units.
+      button: Preparing for war
+      url: /vol-18/issue-4/jan-mar-2023/preparing-war-singapore/
+      alt: Image alt text
 ---
