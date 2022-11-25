@@ -19,4 +19,6 @@ Theemithi, the firewalking festival, takes place a week before Deepavali (on a S
  
  <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">The Origin Stories of Keramat Kusu</a><br>Pilgrimages to the *keramat* on Kusu Island began in the 1840s, though stories about the people associated with the shrines have changed over time. *William L. Gibson*. [(PDF)]
  
-  <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">Subaraj Rajathurai: A Voice for the Wild</a><br>A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces. *Benjamin Ho*. [(PDF)]
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">Subaraj Rajathurai: A Voice for the Wild</a><br>A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces. *Benjamin Ho*. [(PDF)]
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">“Book City” in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a><br>Chinese bookstores in Singapore underwent transformational change in the postwar period. *Lee Ching Seng*. [(PDF)]
