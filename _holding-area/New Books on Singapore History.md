@@ -48,7 +48,7 @@ This book is in both English and German to reach out to both Singaporean and Ger
 #### **Singapore Street Names: A Study of Toponymics (4th edition)**
 by Victor R. Savage and Brenda S.A. Yeoh
 
-Marshall Cavendish Editions (2022), 
+Marshall Cavendish Editions (2023), 
 592 pages <br>
 Call no. [RSING 915.9570014 SAV](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205854725)
 
