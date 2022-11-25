@@ -20,8 +20,6 @@ Oral history is powerful. Not only can stories of the past be preserved in their
 
 Over the last eight decades, military historians have examined how the Japanese were able to prevail against a much larger British military force. The travails of the Japanese Occupation period have also been well documented. However, one aspect of the war has not been as well studied – how people in Singapore prepared for the worst in the months prior to and even as bombs and artillery shells began to rain on the island. 
 
-
-
 This essay highlights first-person accounts from the oral history collection of the National Archives of Singapore to give an insight into life in Singapore before the first bombs fell on the island on 8 December 1941 to the British surrender on 15 February 1942.
 
 #### **Stockpiling Food**
@@ -82,9 +80,6 @@ The recruitment of volunteers for civil defence units began in 1939. These civil
 
 Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and what precautions to take in order to minimise injuries to persons and damages to properties.”[^21] 
 
-![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
-<div style="background-color: white;">Volunteers of the Air Raid Precautions fighting fires at the docks in Singapore, c. January 1942. <i>Courtesy of the Australian War Memorial, 012464.</i></div>
-
 Ang recalled practising air raid drills. When the air raid siren sounded, “wardens on duty were ordered to patrol the streets… householders would comply with our instructions, such as the taking of cover in the shelter and switching off the lights at night, advising pedestrians to cover, to take cover wherever possible. Vehicles travelling on the road were ordered to park by the roadside with lamps, headlamps switched off… In order that the public might be acquainted with the requirements, these exercises had been continually practised for about a month or so”.[^22]
 
 Teacher Gay Wan Guay joined the ARP soon after the war started. His job was to “tell people, especially in the outlying areas in Tuas and Jurong and Woodlands and so on, to move away from the Johor Straits as the Japanese were advancing”. But he found it difficult to persuade people to leave their farms, pigs and poultry behind.[^23]
@@ -124,6 +119,9 @@ Unfortunately, Dalforce volunteers lacked adequate training.[^31] “My impressi
 After the British surrender in February 1942, some people in Singapore destroyed traces of their past to avoid leaving behind a history of anti-Japanese activity. 
 
 Tan Wah Meng, a volunteer for the Medical Auxiliary Service, said people burned records to avoid them falling into the hands of the Japanese. His father, the chairman of the Bukit Timah and Jurong Chew Cheng Huay (Relief Fund) Committee, was one of those who got into trouble because of an incriminating photograph. “[I]t happened that somebody did not destroy a photograph of the committee. My father’s photograph [was] inside and the name inside. That’s why [the Japanese] looked [for] our family, you see. They got hold of that photograph.” Tan, his father and elder brother were later taken in for questioning by the Japanese. While Tan was released “one or two hours later”, his brother and father spent a week and a month locked up, respectively. In addition, his father suffered torture.[^33]
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
+<div style="background-color: white;">Volunteers of the Air Raid Precautions fighting fires at the docks in Singapore, c. January 1942. <i>Courtesy of the Australian War Memorial, 012464.</i></div>
 
 Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed all documents relating to the ARP so as not to leave any evidence for the Japanese. “The wardens and I… we decided to destroy all records, logbooks, uniforms, helmets in order that we could deny of any connections with the previous government… Three days after our meeting, we were told that the British army surrendered, unconditionally to the enemy... We called the meeting because we got instruction from headquarters that we have got to be disbanded.…  We advised all the other wardens that, your uniform, your uniform, your helmet all must be buried or burned away.”[^34]
 
