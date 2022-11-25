@@ -6,7 +6,7 @@ description: ""
 #### **The Blue Mosque of Singapore and a Peek into the Migrant Muslim Community from Kerala**
 by Mohamed Nasim Abdul Rahim
 
-Mohamed Nasim Abdul Rahim, 204 pages
+Mohamed Nasim Abdul Rahim (2022), 204 pages
 <br>
 Call no. RSING 297.355957 MOH
 
@@ -21,7 +21,7 @@ The author pieces together information gleaned from old official records, newspa
 #### **The Comfort Women of Singapore in History and Memory**
 by Kevin Blackburn
 
-NUS Press, 208 pages. <br>
+NUS Press (2022), 208 pages. <br>
 Call no. RSING 940.5405082095957 BLA-[WAR]
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book2.png)
@@ -33,7 +33,7 @@ With care, balance and sensitivity given to a difficult subject, the author turn
 #### **Germans in Singapore: Stories from 200 Years of Friendship in an Age of Globalisation**
 by Sabine Hein 
 
-Pagesetters Services, 293 pages. <br> Call no. RSING 959.5703092 HEI-[HIS]
+Pagesetters Services (2022), 293 pages. <br> Call no. RSING 959.5703092 HEI-[HIS]
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book3.png)
 
@@ -48,7 +48,7 @@ This book is in both English and German to reach out to both Singaporean and Ger
 #### **Singapore Street Names: A Study of Toponymics (4th edition)**
 by Victor R. Savage and Brenda S.A. Yeoh
 
-Marshall Cavendish Editions, 
+Marshall Cavendish Editions, (2022) 
 592 pages. <br>
 Call no. RSING 915.9570014 SAV
 
