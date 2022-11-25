@@ -49,7 +49,7 @@ The 35 mm and 16 mm prints were stored in a warehouse when AFA first encountered
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image4.png)
 <div style="background-color: white;"> Hand cleaning and inspecting reels of Cathay-Keris films. <i>Courtesy of Asian Film Archive.</i></div>
 
-In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNESCO Memory of the World Committee for Asia and the Pacific (MOWCAP) to be inscribed onto the Regional Register, a listing of endangered documentary heritage that represents a legacy for the world’s community. In 2014, the collection became AFA’s and Singapore’s first inscription into the MOWCAP Register. The inscription marked a significant milestone for the AFA and the collection, amplifying the value of the films, and highlighting AFA’s purpose to make the collection accessible through digitisation and restoration before further loss could happen.
+In 2013, the AFA nominated the Cathay-Keris Malay Classics Collection to the UNESCO Memory of the World Committee for Asia and the Pacific (MOWCAP) to be inscribed onto the Regional Register, a listing of endangered documentary heritage that represents a legacy for the world’s community. In 2014, the collection became AFA’s and Singapore’s first inscription into the MOWCAP Asia Pacific Regional Register. The inscription marked a significant milestone for the AFA and the collection, amplifying the value of the films, and highlighting AFA’s purpose to make the collection accessible through digitisation and restoration before further loss could happen.
 
 #### **Saving a Private Collection for the World**
 
