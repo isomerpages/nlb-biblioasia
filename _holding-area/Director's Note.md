@@ -3,8 +3,6 @@ title: Director's Note
 permalink: /holding-area/test10/
 description: ""
 ---
-
-
 Having worked as a librarian for over 15 years, I have a special place in my heart for books
 and, by extension, paper. Paper is an ideal material for conveying knowledge widely: it is
 cheap, relatively easy to make and holds ink well. But that doesn’t mean it can’t be improved.
