@@ -8,7 +8,7 @@ by Mohamed Nasim Abdul Rahim
 
 Mohamed Nasim Abdul Rahim (2022), 204 pages
 <br>
-Call no. RSING 297.355957 MOH
+Call no. [RSING 297.355957 MOH](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205824447)
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book1.png)
 
@@ -22,7 +22,7 @@ The author pieces together information gleaned from old official records, newspa
 by Kevin Blackburn
 
 NUS Press (2022), 208 pages. <br>
-Call no. RSING 940.5405082095957 BLA-[WAR]
+Call no. [RSING 940.5405082095957 BLA-[WAR]](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205703980)
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book2.png)
 
@@ -33,7 +33,7 @@ With care, balance and sensitivity given to a difficult subject, the author turn
 #### **Germans in Singapore: Stories from 200 Years of Friendship in an Age of Globalisation**
 by Sabine Hein 
 
-Pagesetters Services (2022), 293 pages. <br> Call no. RSING 959.5703092 HEI-[HIS]
+Pagesetters Services (2022), 293 pages. <br> Call no. [RSING 959.5703092 HEI-[HIS]](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205855398)
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book3.png)
 
@@ -50,7 +50,7 @@ by Victor R. Savage and Brenda S.A. Yeoh
 
 Marshall Cavendish Editions (2022), 
 592 pages. <br>
-Call no. RSING 915.9570014 SAV
+Call no. [RSING 915.9570014 SAV](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205854725)
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
 
