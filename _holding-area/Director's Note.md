@@ -9,7 +9,7 @@ In the 1950s and 1960s, we certainly weren’t party to such glitzy internationa
 
 While movies entertain us, religion provides our lives with meaning. In this issue, we look at three different manifestations of religious experience with Singaporean characteristics. William L. Gibson explores the [shrines on Kusu Island](/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/), while Ng Yi-Sheng introduces us to three [Taoist goddesses](/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/) unique to Singapore. And ahead of [Thaipusam](/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/), Nalina Gopal explains why devotees carry kavadi and how the festival has evolved since the late 1850s in Singapore.
 
-We then travel back a few more thousand years with Foo Shu Tieng’s essay on stone tools. It provides a fascinating look at what has been unearthed in our region, together with some rare photos of these artefacts – some of which might date back to 4000 BCE.
+We then travel back a few more thousand years with Foo Shu Tieng’s essay on [stone tools](/vol-18/issue-4/jan-mar-2023/stone-tools-singapore). It provides a fascinating look at what has been unearthed in our region, together with some rare photos of these artefacts – some of which might date back to 4000 BCE.
 
 That’s not all we have for you of course. You can also read about [Subaraj Rajathurai](/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/), the nature conservationist who helped save Singapore’s green spaces, and about how the [postwar Chinese bookstore](/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/) scene in Singapore has changed over the decades. 
 
