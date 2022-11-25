@@ -327,4 +327,11 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
+  - infopic:
+      title: New Books on Singapore History
+      description: A quick look at four new books available in the National Library’s
+        collection.
+      button: New reads
+      url: /vol-18/issue-4/jan-mar-2023/new-books-singapore-history/
+      alt: Image alt text
 ---
