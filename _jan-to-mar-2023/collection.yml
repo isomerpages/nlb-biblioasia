@@ -2,7 +2,6 @@ collections:
   jan-to-mar-2023:
     output: true
     order:
-      - Director's Note.md
       - "In Their Own Voices: Preparing for War in Singapore.md"
       - Repairing and Restoring Singapore’s Reel Heritage.md
       - The Divine Lance Thaipusam and Murugan Worship in Singapore.md
