@@ -17,6 +17,14 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
+      title: New Books on Singapore History
+      description: A quick look at four new books available in the National Library’s
+        collection.
+      button: New reads
+      url: /vol-18/issue-4/jan-mar-2023/new-books-singapore-history/
+      alt: New books
+      image: /images/Vol 18 Issue 4/New Books/book1.png
+  - infopic:
       title: "In Their Own Voices: Preparing for War in Singapore"
       subtitle: War
       description: Before the fall of Singapore in 1942, people stocked up on food,
@@ -327,12 +335,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
-  - infopic:
-      title: New Books on Singapore History
-      description: A quick look at four new books available in the National Library’s
-        collection.
-      button: New reads
-      url: /vol-18/issue-4/jan-mar-2023/new-books-singapore-history/
-      alt: New books
-      image: /images/Vol 18 Issue 4/New Books/book1.png
 ---
