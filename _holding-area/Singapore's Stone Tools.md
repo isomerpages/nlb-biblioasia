@@ -142,7 +142,7 @@ All the stone tool sites described earlier were either found along coastal or in
     <td>Pliocene </td>  
     <td>5,333,000 to 2,588,000
 years ago</td>  
-    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td></tr></table></span>
+    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td></tr></table>
 
 <div style="background-color: white;">
 <br/>
