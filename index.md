@@ -24,6 +24,7 @@ sections:
       url: /vol-18/issue-4/jan-mar-2023/new-books-singapore-history/
       alt: New books
       image: /images/Vol 18 Issue 4/New Books/book1.png
+      subtitle: Literature
   - infopic:
       title: "In Their Own Voices: Preparing for War in Singapore"
       subtitle: War
