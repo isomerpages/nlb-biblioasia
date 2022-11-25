@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
   - infopic:
+      title: "In Their Own Voices: Preparing for War in Singapore"
+      subtitle: War
+      description: Before the fall of Singapore in 1942, people stocked up on food,
+        built air raid shelters and volunteered in civil defence units.
+      button: Preparing for war
+      url: /vol-18/issue-4/jan-mar-2023/preparing-war-singapore/
+      alt: Preparing for war
+      image: /images/Vol 18 Issue 4/War in Singapore/4e.png
+  - infopic:
       title: Repairing and Restoring Singapore's Reel Heritage
       subtitle: Film and Photography
       description: The Asian Film Archive has been restoring old classics since 2014.
@@ -318,12 +327,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
-  - infopic:
-      title: "In Their Own Voices: Preparing for War in Singapore"
-      subtitle: War
-      description: Before the fall of Singapore in 1942, people stocked up on food,
-        built air raid shelters and volunteered in civil defence units.
-      button: Preparing for war
-      url: /vol-18/issue-4/jan-mar-2023/preparing-war-singapore/
-      alt: Image alt text
 ---
