@@ -26,3 +26,7 @@ Theemithi, the firewalking festival, takes place a week before Deepavali (on a S
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">Maiden Lim of Redhill and Her Sisters: 	Taoist Folk Goddesses of Singapore</a><br>The local Taoist pantheon includes goddesses only found in Singapore such as Lin Guniang, Lei Niangniang and Huang Guniang. *Ng Yi-Sheng*. [(PDF)]
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">The Divine Lance: Thaipusam and Murugan Worship in Singapore</a><br>The specific form of Murugan worship during Thaipusam has its roots in the story of Murugan meeting the primeval devotee Idumban. *Nalina Gopal*.[(PDF)]
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">In Their Own Voices: Preparing for War	in Singapore</a><br>Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units. *Christabel Khoo* and *Mark Wong*. [(PDF)]
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">In Their Own Voices: Preparing for War	in Singapore</a><br>Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units. *Christabel Khoo* and *Mark Wong*. [(PDF)]
