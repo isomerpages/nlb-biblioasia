@@ -3,37 +3,19 @@ title: Director's Note
 permalink: /holding-area/test10/
 description: ""
 ---
-Having worked as a librarian for over 15 years, I have a special place in my heart for books
-and, by extension, paper. Paper is an ideal material for conveying knowledge widely: it is
-cheap, relatively easy to make and holds ink well. But that doesn’t mean it can’t be improved.
+Singapore’s filmmaking industry certainly looks like it’s scaling new heights, what with drama-comedy Ajoomma (starring local actress Hong Huifang) being nominated for four Golden Horse Awards in 2022 and also being selected as Singapore’s entry to the 2023 Academy Awards in the Best International Feature Film category. 
 
-Back in the 1920s, someone came up with the idea of adding a little liquid latex into the
-paper-making process to get paper that is stronger, more flexible and more water-resistant.
-It was a good idea, at least on paper (pun intended). However, for various reasons, the
-product never caught fire. Read our cover story by Alex Teoh to find out [why rubber latex
-paper never took off](/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper).
+In the 1950s and 1960s, we certainly weren’t party to such glitzy international awards, but did you know that Singapore used to be a major centre for movie production back then? Films by Cathay-Keris and Shaw Brothers were popular in Malaya and Singapore, and these include Orang Minyak and Seniman Bujang Lapok, which have since become beloved classics. Unfortunately, it seems no one thought that preserving these films was particularly important, since reels upon reels of acetate film were left to disintegrate in dusty warehouses and forgotten storerooms over the decades. Chew Tee Pao’s account of the challenges of restoring these films is both fascinating and inspiring.
 
-Around the time when this unique paper was making waves, the Orang Seletar were
-literally riding the waves in the strait between Singapore and Johor. They lived on boats
-and harvested nature’s bounty back when borders were porous. Ilya Katrinnada speaks to
-the [Orang Seletar](/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides) of today to learn how their life has changed in the last century.
+While movies entertain us, religion provides our lives with meaning. In this issue, we look at three different manifestations of religious experience with Singaporean characteristics. William L. Gibson explores the shrines on Kusu Island, while Ng Yi-Sheng introduces us to three Taoist goddesses unique to Singapore. And ahead of Thaipusam, Nalina Gopal explains why devotees carry kavadi and how the festival has evolved since the late 1850s in Singapore.
 
-The Orang Laut are unique in being able to live off the land (and sea). Not so for the
-rest of us, who rely on supermarkets and wet markets for our produce. Speaking of [wet
-markets](/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets), the term is actually a local one of relatively recent coinage. Up until a few decades
-ago, they were simply known as markets. Join Zoe Yeo as she wanders through the aisles
-of history and shares some of her interesting finds.
+We then travel back a few more thousand years with Foo Shu Tieng’s essay on stone tools. It provides a fascinating look at what has been unearthed in our region, together with some rare photos of these artefacts – some of which might date back to 4000 BCE.
 
-One of the pleasures of the wet market is the flower stall, where you can get inexpensive
-flowers. However, while these stalls may offer a wide range, what they will not have
-are the orchid hybrids that Singapore presents to VIPs. These hybrids are bred specifically
-by the Singapore Botanic Gardens and are not available for sale anywhere. If you are an
-orchid lover, don’t miss Rebecca Tan’s essay on the roots of [orchid diplomacy](/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy) in Singapore.
+That’s not all we have for you of course. You can also read about Subaraj Rajathurai, the nature conservationist who helped save Singapore’s green spaces, and about how the postwar Chinese bookstore scene in Singapore has changed over the decades. 
 
-In this issue of BiblioAsia, we also delve into a history of the [Padang](/vol-18/issue-1/apr-to-jun-2022/history-padang), peek into the pioneering [Kamala Club](/vol-18/issue-1/apr-to-jun-2022/kamala-club), visit the old [Kandang Kerbau Hospital](/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital), examine the life of [cinema
-magnate Tan Cheng Kee](/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee), explore the streets of [Opera Estate](/vol-18/issue-1/apr-to-jun-2022/history-opera-estate), and sample the unique nature of [Chinese food](/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore) in Singapore.
+And definitely not to be missed is the story of how people in Singapore prepared for war in the days, weeks and months before Singapore fell in February 1942. This is part of a focus on Total Defence by the National Library and the National Archives – an effort that remains all the more relevant during these turbulent times. 
 
-All in all, another issue with plenty to chew on. Bon appétit!
+As we enter a new year, may this issue help you recount these lessons and experiences of the past in hopes of a brighter path ahead. 
 
 
 <div style="background-color: white;">
