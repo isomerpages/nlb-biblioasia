@@ -131,7 +131,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 <br/>
 <img src="/images/Vol%2018%20Issue%204/Authors/Christabel%20&%20Mark.png" style="width: 200px; height: 100px;"/>
 	<b>Christabel Khoo</b> is an Assistant Archivist with Records Management at the National Archives of Singapore.
-	<b>Mark Wong</b> is Senior Specialist (Oral History) at the Oral History Centre, National Archives of Singapore where he leads the oral history project on Singapore’s experiences with Covid-19. He is also Vice President of the International Oral History Association.
+	<b>Mark Wong</b> is a Senior Specialist (Oral History) with the Oral History Centre, National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with Covid-19. He is also Vice President of the International Oral History Association.
 </div>
 
 
