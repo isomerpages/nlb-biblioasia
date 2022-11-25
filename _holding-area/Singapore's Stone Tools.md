@@ -112,10 +112,11 @@ There are possibilities for further research on the stone tools discovered in Si
 
 All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/image8.png)
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/image8_edit.png)
 <div style="background-color: white;">The Orang Seletar, one of the sub-groups of the Orang Laut, in Singapore, 1950s. DNA analysis of the shell midden site in Bintan may provide clues as to whether the stone tools might be traced to the Orang Laut (sea nomads) or to an even older and unknown prehistoric community. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><table style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> <b/>STONE TOOL SITES BY ERAS<b> 
+<table style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<th colspan="3"><b>STONE TOOL SITES BY ERAS</b> 
   <tr>  
     <th>Geologic Time Scale</th>  
     <th>Age</th>  
@@ -131,18 +132,17 @@ All the stone tool sites described earlier were either found along coastal or in
     <td>Pleistocene</td>  
     <td>2,588,000 to 11,800 years ago
 (The most recent Ice Age)</td>  
-    <td><span style="background-colour: #fff6ba; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
+    <td><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
 <li>Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] </li>
 <li>Sangiran, Central Java, Indonesia: 1 million years ago[^60] </li>
 <li>Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] </li>  
-<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></span></td>  
+<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></td>  
   </tr>  
 	  <tr>  
     <td>Pliocene </td>  
     <td>5,333,000 to 2,588,000
 years ago</td>  
-    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td>  
-  </tr></table></span>
+    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td></tr></table>
 
 <div style="background-color: white;">
 <br/>

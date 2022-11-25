@@ -1,10 +1,19 @@
 ---
-title: Preparing for War in Singapore
-permalink: /holding-area/test8/
-description: ""
+title: "In Their Own Voices: Preparing for War in Singapore"
+permalink: /vol-18/issue-4/jan-mar-2023/preparing-war-singapore/
+description: Before the fall of Singapore in 1942, people prepared for the
+  imminent war by stockpiling food, building air raid shelters and volunteering
+  in civil defence units.
+image: /images/Vol 18 Issue 4/War in Singapore/1e.png
 ---
+
+
+
 #### Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
 By Christabel Khoo and Mark Wong
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/1e.png)
+<div style="background-color: white;">A warden of the Air Raid Precautions dousing an incendiary bomb at Raffles Place as part of a regular weekly mass demonstration to make people living in Singapore bomb conscious and informed, c.1941. <i>Courtesy of Library of Congress (04810).</i></div>
 
 Russia’s invasion of Ukraine is a stark reminder that even today, wars still break out. Russia’s relentless attack on Ukrainian cities also drives home the point that combat does not only involve soldiers; the civilian population also ends up suffering deeply, whether as a by-product of fighting, or as a deliberate strategy.
 
@@ -32,11 +41,17 @@ Medical doctor Tan Ban Cheng, then also 13 years old, recalled how his family’
 
 Tan Guan Chuan, who was in government service and a volunteer with the Air Raid Precautions, observed how people fled to the countryside when the first bombs fell on 8 December 1941. “You find cars running from the city all right up to the remote parts of Singapore to escape from the bombs that were dropping… everybody just [took] their families and [drove] to any relations who are staying far away from the city.”[^5] 
 
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
+<div style="background-color: white;">Volunteers of the Air Raid Precautions fighting fires at the docks in Singapore, c. January 1942. <i>Courtesy of the Australian War Memorial, 012464.</i></div>
+
 Among them was Abdealli K. Motiwalla and his family, who moved out of Raffles Place to Yio Chu Kang Road. At the time, they were living near the shop where Motiwalla was working, a shop that his grandfather had established in 1886. He recalled: “[E]verybody was running away and then people were running and people thought now the war has started, we shall have to leave the city, go outside city… people thought will be more safe because bombing will take place in the city.”[^6] Motiwalla’s family rented a bungalow in Yio Chu Kang but he continued travelling to Raffles Place every day to work at the shop until the Japanese entered Singapore.
 
 #### **Building Air Raid Shelters**
 
 In their Yio Chu Kang compound, Motiwalla’s family had built an underground air raid shelter made of bricks. Although originally meant for the family, they generously opened it to others. “[N]ext door people used to come also. And they had also their own shelters, different compound. They had their own, also they had made. But in my place it was quite big, so many people used to come,” recalled Motiwalla.[^7]
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/4e.png)
+<div style="background-color: white;">Civilians in an air raid shelter during a Japanese bombing raid, December 1941. <i>©Imperial War Museum (KF 102).</i></div>
 
 Across the island, many people were building their own air raid shelters. The British colonial government had initially adopted a “stay put” policy. In May 1939, they announced that “the best thing to do in an air raid would be for citizens to remain in their homes”, as shelters and evacuation camps were considered impracticable.[^8] By May 1941, owing to public pressure, the government changed their stance and published notices in newspapers informing the people that they could register for accommodation in evacuation camps. These, however, were intended for the “poorer classes among the population”.[^9] 
 
@@ -47,6 +62,10 @@ Instead, the notice recommended an open grassy place as the safest option, urgin
 But barely three months later, the first bombs rained down on Singapore. Lee Tian Soo, then a 16-year-old boy living in Chinatown, recounted that when the first bombs fell, people “started to rush everywhere, anywhere, those people found any ground they started to build air raid shelters, that was the time. Everybody seemed to be busy, building shelters”.[^12] 
 
 Tan Geok Koon and his family, who were living on Thomson Road, built their own air raid shelter that could accommodate about 20 people. “There was a hill behind my house, so we dug about eight feet tall and in a semi-circle, about – five or six feet wide and in a semi-circle form. And at the top of it, [we] put a lot of planks and also sandbags and all that we did by ourselves, or rather we call a few of the Malay villages to do it, and so that is how we had the shelter.”[^13] 
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/3e.png)
+<div style="background-color: white;">An air raid shelter in Tiong Bahru, 1940. <i>M. Masson Collection, courtesy of National Archives of Singapore.
+</i></div>
 
 Not everyone was fortunate enough to have land for a shelter. Chu Shuen Choo (Mrs Gay Wan Guay), who was then a teacher living in Katong, had to make do with whatever available space she had. “[M]y shelter was just underneath the staircase and a table,” she recalled. “So whenever we hear the siren, I would take my flask of milk with my baby and carry her downstairs and go under the table.”[^14]
 
@@ -63,6 +82,9 @@ Not everyone chose to evacuate, even if they had the opportunity. There were tho
 #### **Participating in Civil Defence** 
 
 The recruitment of volunteers for civil defence units began in 1939. These civil defence units, which started conducting training, included the Air Raid Precautions (ARP), Medical Auxiliary Service, Observer Corps, Fire-fighting Squad and the Special Constabulary. Some 6,000 men and women volunteered.[^20] 
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/7e.png)
+<div style="background-color: white;">Air Raid Precautions squad member card of Tan Geok Seng. <i>Victor Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and what precautions to take in order to minimise injuries to persons and damages to properties.”[^21] 
 
@@ -84,7 +106,13 @@ Soh Chuan Lam, a Standard VII (equivalent to Secondary 2) student at St Joseph�
 
 Some people decided that they would learn to take up arms to fight. One option for them was to join the Singapore Volunteer Corps (SVC). 
 
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/6e.png)
+<div style="background-color: white;">Members of the Singapore Volunteer Corps in a photo taken in 1949. Before the Japanese invasion, members were trained in warfare. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 The SVC had its roots as the privately funded Singapore Volunteer Rifle Corps in 1854, before becoming a public organisation a few years later. The SVC had played an important role in quelling civil disturbances and preserving the security of the island – duties such as operating defence lights and manning harbour defences during World War I. It was known by various names, including the Singapore Volunteer Artillery and the Straits Settlements Volunteer Force.[^29] 
+
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/5e.png)
+<div style="background-color: white;">The Straits Settlements Volunteer Force begins compulsory training for its members, 1941. <i>©Imperial War Museum (K 114).</i></div>
 
 Prior to the Japanese invasion, large-scale training in Singapore was held for the Straits Settlements Volunteer Force, which was made up of the respective volunteer corps in Singapore (two battalions), Penang (one battalion) and Malacca (one battalion).  
 
@@ -103,6 +131,18 @@ Tan Wah Meng, a volunteer for the Medical Auxiliary Service, said people burned 
 Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed all documents relating to the ARP so as not to leave any evidence for the Japanese. “The wardens and I… we decided to destroy all records, logbooks, uniforms, helmets in order that we could deny of any connections with the previous government… Three days after our meeting, we were told that the British army surrendered, unconditionally to the enemy... We called the meeting because we got instruction from headquarters that we have got to be disbanded.…  We advised all the other wardens that, your uniform, your uniform, your helmet all must be buried or burned away.”[^34]
 
 This destruction of records during wartime, both deliberate and accidental, underlines the importance of oral history. Through the memories of these survivors, captured on tape and now digitised for convenient access, we will be able to preserve vital aspects of Singapore’s past that would otherwise have no other trace.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Christabel_Khoo.png" style="width: 100px; height: 100px;"/>
+	<b>Christabel Khoo</b> is an Assistant Archivist with Records Management at the National Archives of Singapore.
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%204/Authors/Mark_Wong.png" style="width: 100px; height: 100px;"/>
+<b>Mark Wong</b> is a Senior Specialist (Oral History) with the Oral History Centre, National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with Covid-19. He is also Vice President of the International Oral History Association.
+</div>
 
 
 #### **NOTES**
