@@ -13,7 +13,7 @@ We then travel back a few more thousand years with Foo Shu Tieng’s essay on st
 
 That’s not all we have for you of course. You can also read about [Subaraj Rajathurai](/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/), the nature conservationist who helped save Singapore’s green spaces, and about how the [postwar Chinese bookstore](/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/) scene in Singapore has changed over the decades. 
 
-And definitely not to be missed is the story of how people in Singapore prepared for war in the days, weeks and months before Singapore fell in February 1942. This is part of a focus on Total Defence by the National Library and the National Archives – an effort that remains all the more relevant during these turbulent times. 
+And definitely not to be missed is the story of how [people in Singapore prepared for war](/vol-18/issue-4/jan-mar-2023/preparing-war-singapore/) in the days, weeks and months before Singapore fell in February 1942. This is part of a focus on Total Defence by the National Library and the National Archives – an effort that remains all the more relevant during these turbulent times. 
 
 As we enter a new year, may this issue help you recount these lessons and experiences of the past in hopes of a brighter path ahead. 
 
