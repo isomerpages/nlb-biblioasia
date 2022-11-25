@@ -36,6 +36,9 @@ Medical doctor Tan Ban Cheng, then also 13 years old, recalled how his family’
 
 Tan Guan Chuan, who was in government service and a volunteer with the Air Raid Precautions, observed how people fled to the countryside when the first bombs fell on 8 December 1941. “You find cars running from the city all right up to the remote parts of Singapore to escape from the bombs that were dropping… everybody just [took] their families and [drove] to any relations who are staying far away from the city.”[^5] 
 
+![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
+<div style="background-color: white;">Volunteers of the Air Raid Precautions fighting fires at the docks in Singapore, c. January 1942. <i>Courtesy of the Australian War Memorial, 012464.</i></div>
+
 Among them was Abdealli K. Motiwalla and his family, who moved out of Raffles Place to Yio Chu Kang Road. At the time, they were living near the shop where Motiwalla was working, a shop that his grandfather had established in 1886. He recalled: “[E]verybody was running away and then people were running and people thought now the war has started, we shall have to leave the city, go outside city… people thought will be more safe because bombing will take place in the city.”[^6] Motiwalla’s family rented a bungalow in Yio Chu Kang but he continued travelling to Raffles Place every day to work at the shop until the Japanese entered Singapore.
 
 #### **Building Air Raid Shelters**
@@ -119,9 +122,6 @@ Unfortunately, Dalforce volunteers lacked adequate training.[^31] “My impressi
 After the British surrender in February 1942, some people in Singapore destroyed traces of their past to avoid leaving behind a history of anti-Japanese activity. 
 
 Tan Wah Meng, a volunteer for the Medical Auxiliary Service, said people burned records to avoid them falling into the hands of the Japanese. His father, the chairman of the Bukit Timah and Jurong Chew Cheng Huay (Relief Fund) Committee, was one of those who got into trouble because of an incriminating photograph. “[I]t happened that somebody did not destroy a photograph of the committee. My father’s photograph [was] inside and the name inside. That’s why [the Japanese] looked [for] our family, you see. They got hold of that photograph.” Tan, his father and elder brother were later taken in for questioning by the Japanese. While Tan was released “one or two hours later”, his brother and father spent a week and a month locked up, respectively. In addition, his father suffered torture.[^33]
-
-![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/2e.png)
-<div style="background-color: white;">Volunteers of the Air Raid Precautions fighting fires at the docks in Singapore, c. January 1942. <i>Courtesy of the Australian War Memorial, 012464.</i></div>
 
 Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed all documents relating to the ARP so as not to leave any evidence for the Japanese. “The wardens and I… we decided to destroy all records, logbooks, uniforms, helmets in order that we could deny of any connections with the previous government… Three days after our meeting, we were told that the British army surrendered, unconditionally to the enemy... We called the meeting because we got instruction from headquarters that we have got to be disbanded.…  We advised all the other wardens that, your uniform, your uniform, your helmet all must be buried or burned away.”[^34]
 
