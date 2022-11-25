@@ -11,7 +11,7 @@ While movies entertain us, religion provides our lives with meaning. In this iss
 
 We then travel back a few more thousand years with Foo Shu Tieng’s essay on stone tools. It provides a fascinating look at what has been unearthed in our region, together with some rare photos of these artefacts – some of which might date back to 4000 BCE.
 
-That’s not all we have for you of course. You can also read about Subaraj Rajathurai, the nature conservationist who helped save Singapore’s green spaces, and about how the postwar Chinese bookstore scene in Singapore has changed over the decades. 
+That’s not all we have for you of course. You can also read about [Subaraj Rajathurai](/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/), the nature conservationist who helped save Singapore’s green spaces, and about how the postwar Chinese bookstore scene in Singapore has changed over the decades. 
 
 And definitely not to be missed is the story of how people in Singapore prepared for war in the days, weeks and months before Singapore fell in February 1942. This is part of a focus on Total Defence by the National Library and the National Archives – an effort that remains all the more relevant during these turbulent times. 
 
