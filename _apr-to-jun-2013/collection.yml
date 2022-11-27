@@ -2,9 +2,9 @@ collections:
   apr-to-jun-2013:
     output: true
     order:
-      - "Icons of Learning: The Redesign of the Modern Library.md"
       - Director's Column.md
       - From Garden City to Gardening City.md
       - "Oriental, Utai, Mexican: The Story of the Singapore Jewish Community.md"
       - "The Invention of a Tradition: Indo Saracenic Domes on Mosques in
         Singapore.md"
+      - "Icons of Learning: The Redesign of the Modern Library.md"
