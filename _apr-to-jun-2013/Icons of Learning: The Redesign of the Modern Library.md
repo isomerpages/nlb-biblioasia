@@ -11,7 +11,7 @@ description: Many have considered the digital age and technological innovation
 
 
 
-<img style="width:80%;" src="images/Vol%209%20Issue%201/Icons%20of%20Learning/BlueInTheDark2_Kraufmann-Hoerner3.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Icons%20of%20Learning/BlueInTheDark2_Kraufmann-Hoerner3.jpg">
  <div style="background-color: white;">The Stuttgart City Library was designed to act as the city’s intellectual and cultural centre of urban life.  <i>©Kraufmann & Kraufmann. City Library, Yi Architects.</i></div>
 
 
