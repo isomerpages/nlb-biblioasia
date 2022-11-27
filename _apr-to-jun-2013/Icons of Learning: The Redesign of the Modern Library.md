@@ -93,7 +93,7 @@ Libraries are also becoming social spaces that encourage interaction between peo
 
 Library design is thus important in enabling libraries to remain relevant to users. It impacts the ability of libraries to reach out to people and to promote social and creative interaction. The reconceptualisation of libraries and the reshaping of library spaces around user needs acknowledge that libraries are uniquely placed to support the development of a knowledgeable people.
 
-Library design in Singapore has already taken some steps toward the transformative and the inspirational with the creation of the National Library building in 2005,[^120] Bishan Public Library in 2006,[^21] and the recently launched Library@Chinatown in January 2013.[^22] The creative use of library space will go a step further with the opening of Library@Orchard in 2014.[^23]
+Library design in Singapore has already taken some steps toward the transformative and the inspirational with the creation of the National Library building in 2005,[^20] Bishan Public Library in 2006,[^21] and the recently launched Library@Chinatown in January 2013.[^22] The creative use of library space will go a step further with the opening of Library@Orchard in 2014.[^23]
 
 
 
@@ -249,7 +249,3 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 [^22]: Leslie Kay Lim. (2013, January 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
 
 [^23]: Sumedha Jalote (10 Jan 2013) Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.
-
-
-
-
