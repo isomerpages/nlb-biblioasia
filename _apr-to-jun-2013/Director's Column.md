@@ -25,12 +25,7 @@ of the illustrious and highly-regarded writer, Muhammad Ariff Ahmad. Finally, in
 We hope that you will be inspired by the diverse attempts by many over the course of generations to continue seeking a place of comfort and community — in essence, a room of one’s own in a wider environment sometimes too large for one to master.
 
 
-Mr Gene Tan
-
+Mr Gene Tan<br>
 Director, National Library
-
-
-
-
 
 
