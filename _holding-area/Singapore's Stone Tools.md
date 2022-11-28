@@ -122,12 +122,12 @@ Forestier, Hubert et al. “The First Lithic Industry of Mainland Southeast Asia
 <br><br>
 Harmand, Sonia et al. “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” <i>Nature</i> 521 (May 2015), 310–15, https://www.nature.com/articles/nature14464.
 <br><br>
-Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” <i>Antiquity</i> 94, no. 377, e25 (October 2020): 1, Cambridge University Press, <a href="https://doi.org/10.15184/aqy.2020.158">https://doi.org/10.15184/aqy.2020.158</a>.
+Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” <i>Antiquity</i> 94, no. 377, e25 (October 2020): 1, Cambridge University Press, https://doi.org/10.15184/aqy.2020.158.
 <br><br>
-Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, <a href="https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944">https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944</a>.
+Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944.
 <br><br>
 Pillans, Brad and Philip Leonard Gibbard. “The Quaternary Period,” in <i>The Geologic Time Scale</i> (Oxford, U.K.: Elsevier, 2012), 981, ResearchGate, <a href="https://www.researchgate.net/publication/279428084_The_Quaternary_Period">https://www.researchgate.net/publication/279428084\_The\_Quaternary\_Period</a>.<br><br>
-Simanjuntak, Truman, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” <i>Quaternary International</i> 223, no. 3 (2010): 418, ScienceDirect, <a href="http://doi.org/10.1016/j.quaint.2009.07.022">https:/[doi.org/10.1016/j.quaint.2009.07.022</a>.
+Simanjuntak, Truman, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” <i>Quaternary International</i> 223, no. 3 (2010): 418, ScienceDirect, http://doi.org/10.1016/j.quaint.2009.07.022.
 <br><br>
 Zhu, Zhaoyun et al. “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” <i>Nature</i> 559 (11 July 2018): 608–12, <a href="https://www.nature.com/articles/s41586-018-0299-4">https://www.nature.com/articles/s41586-018-0299-4</a>.<br>
 </div>
