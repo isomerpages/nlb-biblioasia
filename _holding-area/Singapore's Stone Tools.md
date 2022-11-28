@@ -115,34 +115,25 @@ There are possibilities for further research on the stone tools discovered in Si
 
 All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
 
-<table> 
-	<th colspan="3"><b>STONE TOOL SITES BY ERAS</b> </th>
-  <tr>  
-    <th>Geologic Time Scale</th>  
-    <th>Age</th>  
-    <th>Location (Note: In archaeology, the present is defined as 1950) </th>  
-  </tr>  
-  <tr>  
-    <td>Holocene </td>  
-    <td>11,800 years ago to the present
-(Post-Ice Age)</td>  
-    <td>Jenderam Hilir, Langsat Valley, Selangor, Malaysia: 3,650 years ago[^57] </td>  
-  </tr>  
-  <tr>  
-    <td>Pleistocene</td>  
-    <td>2,588,000 to 11,800 years ago
-(The most recent Ice Age)</td>  
-    <td><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
-<li>Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] </li>
-<li>Sangiran, Central Java, Indonesia: 1 million years ago[^60] </li>
-<li>Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] </li>  
-<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></td>  
-  </tr>  
-	  <tr>  
-    <td>Pliocene </td>  
-    <td>5,333,000 to 2,588,000
-years ago</td>  
-    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td></tr></table>
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/Stone_Tools_Table.png)
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>REFERENCES</b><br><br>Bulbeck, David and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526"><i>The Oxford Handbook of Early Southeast Asia</i></a>, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)<br><br>
+Chia, Stephen. “Archaeological Evidence of Early Human Occupation in Malaysia,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12875005">Austronesian Diaspora and the Ethnogeneses of People in Indonesian Archipelago</a></i>, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
+<br><br>
+Forestier, Hubert et al. “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” <i>L’Anthropologie</i> 126, no. 1 (January–March 2022), 102996: 32, ScienceDirect, <a href="https://doi.org/10.1016/j.anthro.2022.102996">https://doi.org/10.1016/j.anthro.2022.102996</a>.
+<br><br>
+Harmand, Sonia et al. “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” <i>Nature</i> 521 (May 2015), 310–15, <a href="https://www.nature.com/articles/nature14464">https://www.nature.com/articles/nature14464</a>.
+<br><br>
+Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” <i>Antiquity</i> 94, no. 377, e25 (October 2020): 1, Cambridge University Press, <a href="https://doi.org/10.15184/aqy.2020.158">https://doi.org/10.15184/aqy.2020.158</a>.
+<br><br>
+Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, <a href="https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944">https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944</a>.
+<br><br>
+Pillans, Brad and Philip Leonard Gibbard. “The Quaternary Period,” in <i>The Geologic Time Scale</i> (Oxford, U.K.: Elsevier, 2012), 981, ResearchGate, <a href="https://www.researchgate.net/publication/279428084_The_Quaternary_Period">https://www.researchgate.net/publication/279428084\_The\_Quaternary\_Period</a>.<br><br>
+Simanjuntak, Truman, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” <i>Quaternary International</i> 223, no. 3 (2010): 418, ScienceDirect, <a href="http://doi.org/10.1016/j.quaint.2009.07.022">https:/[doi.org/10.1016/j.quaint.2009.07.022</a>.
+<br><br>
+Zhu, Zhaoyun et al. “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” <i>Nature</i> 559 (11 July 2018): 608–12, <a href="https://www.nature.com/articles/s41586-018-0299-4">https://www.nature.com/articles/s41586-018-0299-4</a>.<br>
+</div>
+
 
 <div style="background-color: white;">
 <br/>
@@ -261,19 +252,3 @@ years ago</td>
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “[Zaman Paleolitik](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204226326),” 36.
 
 [^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science & Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “[’Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://brill.com/view/journals/jeaa/4/1/article-p293),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “[Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times](https://doi.org/10.23858/FAH34.2021.001),” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10.
-
-[^56]: Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981.
-
-[^57]: Leong Sau Heng, “[Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia](https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944;),” *Indo-Pacific Prehistory Association Bulletin* 10 (1991): 153; Stephen Chia, “Archaeological Evidence of Early Human Occupation in Malaysia,” in *Austronesian Diaspora and the Ethnogenesis of People in Indonesian Archipelago*, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
-
-[^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in [*The Oxford Handbook of Early Southeast Asia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526), ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
-
-[^59]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
-
-[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” *Quaternary International* 223, no. 3 (2010): 418. 
-
-[^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context],” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
-
-[^62]: Zhaoyun Zhu et al., “[Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago](https://www.nature.com/articles/s41586-018-0299-4),” *Nature* 559 (11 July 2018), 608–12.
-
-[^63]: Sonia Harmand et al., “[3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya](https://www.nature.com/articles/nature14464),” *Nature* 521 (May 2015), 310–15.
