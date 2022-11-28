@@ -252,19 +252,3 @@ Zhu, Zhaoyun et al. “Hominin Occupation of the Chinese Loess Plateau since abo
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “[Zaman Paleolitik](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204226326),” 36.
 
 [^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science & Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “[’Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://brill.com/view/journals/jeaa/4/1/article-p293),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “[Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times](https://doi.org/10.23858/FAH34.2021.001),” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10.
-
-[^56]: Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981.
-
-[^57]: Leong Sau Heng, “[Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia](https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944;),” *Indo-Pacific Prehistory Association Bulletin* 10 (1991): 153; Stephen Chia, “Archaeological Evidence of Early Human Occupation in Malaysia,” in *Austronesian Diaspora and the Ethnogenesis of People in Indonesian Archipelago*, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
-
-[^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in [*The Oxford Handbook of Early Southeast Asia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526), ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
-
-[^59]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
-
-[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” *Quaternary International* 223, no. 3 (2010): 418. 
-
-[^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context],” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
-
-[^62]: Zhaoyun Zhu et al., “[Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago](https://www.nature.com/articles/s41586-018-0299-4),” *Nature* 559 (11 July 2018), 608–12.
-
-[^63]: Sonia Harmand et al., “[3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya](https://www.nature.com/articles/nature14464),” *Nature* 521 (May 2015), 310–15.
