@@ -29,4 +29,4 @@ Theemithi, the firewalking festival, takes place a week before Deepavali (on a S
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/preparing-war-singapore/">In Their Own Voices: Preparing for War	in Singapore</a><br>Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units. *Christabel Khoo* and *Mark Wong*. [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/">New Books on Singapore History </a><br>A quick look at four new books available in the National Library’s collection.  [(PDF)]
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/new-books-singapore-history/">New Books on Singapore History </a><br>A quick look at four new books available in the National Library’s collection.  [(PDF)]
