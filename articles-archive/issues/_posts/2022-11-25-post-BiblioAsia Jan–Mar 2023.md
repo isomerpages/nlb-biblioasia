@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Theemithi, the firewalking festival, takes place a week before Deepavali (on a Sunday). In the cover story, read all about the associated cycle of rituals held over a three-month period before the festival. (to edit)
+In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that became classics. In the cover story, find out how the Asian Film Archive managed to restore some of these films.
 
 <img src="/images/Vol%2018%20Issue%204/Biblioasia_18_4_cover.png">
 

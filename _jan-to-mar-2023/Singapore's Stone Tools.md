@@ -1,8 +1,9 @@
 ---
 title: Singapore's Stone Tools
-permalink: /holding-area/test7/
+permalink: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
 description: Stone tools have been found in and around Singapore since the late
   19th century. Much about them remains a mystery.
+image: /images/Vol 18 Issue 4/Stone Tools/image1.png
 ---
 #### Stone tools have been found in and around Singapore since the late 19th century. Much about them remains a mystery.
 By Foo Shu Tieng
@@ -115,23 +116,21 @@ There are possibilities for further research on the stone tools discovered in Si
 
 All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
 
-![](/images/Vol%2018%20Issue%204/Stone%20Tools/Stone_Tools_Table.png)
-
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>REFERENCES</b><br><br>Bulbeck, David and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526"><i>The Oxford Handbook of Early Southeast Asia</i></a>, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)<br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>STONE TOOL SITES BY ERAS</b><br><br><img src="/images/Vol%2018%20Issue%204/Stone%20Tools/Stone_Tools_Table_edit2.png"><br><b>REFERENCES</b><br><br>Bulbeck, David and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526"><i>The Oxford Handbook of Early Southeast Asia</i></a>, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)<br><br>
 Chia, Stephen. “Archaeological Evidence of Early Human Occupation in Malaysia,” in <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12875005">Austronesian Diaspora and the Ethnogeneses of People in Indonesian Archipelago</a></i>, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
 <br><br>
-Forestier, Hubert et al. “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” <i>L’Anthropologie</i> 126, no. 1 (January–March 2022), 102996: 32, ScienceDirect, <a href="https://doi.org/10.1016/j.anthro.2022.102996">https://doi.org/10.1016/j.anthro.2022.102996</a>.
+Forestier, Hubert et al. “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” <i>L’Anthropologie</i> 126, no. 1 (January–March 2022), 102996: 32, ScienceDirect, https://doi.org/10.1016/j.anthro.2022.102996.
 <br><br>
-Harmand, Sonia et al. “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” <i>Nature</i> 521 (May 2015), 310–15, <a href="https://www.nature.com/articles/nature14464">https://www.nature.com/articles/nature14464</a>.
+Harmand, Sonia et al. “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” <i>Nature</i> 521 (May 2015), 310–15, https://www.nature.com/articles/nature14464.
 <br><br>
-Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” <i>Antiquity</i> 94, no. 377, e25 (October 2020): 1, Cambridge University Press, <a href="https://doi.org/10.15184/aqy.2020.158">https://doi.org/10.15184/aqy.2020.158</a>.
+Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” <i>Antiquity</i> 94, no. 377, e25 (October 2020): 1, Cambridge University Press, https://doi.org/10.15184/aqy.2020.158.
 <br><br>
-Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, <a href="https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944">https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944</a>.
+Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944.
 <br><br>
-Pillans, Brad and Philip Leonard Gibbard. “The Quaternary Period,” in <i>The Geologic Time Scale</i> (Oxford, U.K.: Elsevier, 2012), 981, ResearchGate, <a href="https://www.researchgate.net/publication/279428084_The_Quaternary_Period">https://www.researchgate.net/publication/279428084\_The\_Quaternary\_Period</a>.<br><br>
-Simanjuntak, Truman, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” <i>Quaternary International</i> 223, no. 3 (2010): 418, ScienceDirect, <a href="http://doi.org/10.1016/j.quaint.2009.07.022">https:/[doi.org/10.1016/j.quaint.2009.07.022</a>.
+Pillans, Brad and Philip Leonard Gibbard. “The Quaternary Period,” in <i>The Geologic Time Scale</i> (Oxford, U.K.: Elsevier, 2012), 981, ResearchGate, https://www.researchgate.net/publication/279428084_The_Quaternary_Period.<br><br>
+Simanjuntak, Truman, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” <i>Quaternary International</i> 223, no. 3 (2010): 418, ScienceDirect, http://doi.org/10.1016/j.quaint.2009.07.022.
 <br><br>
-Zhu, Zhaoyun et al. “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” <i>Nature</i> 559 (11 July 2018): 608–12, <a href="https://www.nature.com/articles/s41586-018-0299-4">https://www.nature.com/articles/s41586-018-0299-4</a>.<br>
+Zhu, Zhaoyun et al. “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” <i>Nature</i> 559 (11 July 2018): 608–12, https://www.nature.com/articles/s41586-018-0299-4.<br>
 </div>
 
 
