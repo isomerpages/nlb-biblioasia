@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Romusha/Hero Banner_Romusha.jpg
+      background: /images/Vol 18 Issue 3/Romusha/romusha banner.jpg
   - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
