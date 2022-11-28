@@ -127,16 +127,6 @@ sections:
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
   - infopic:
-      title: My Grandfather Was a <i>Rōmusha</i>
-      subtitle: war
-      description: "During World War II, forced civilian labourers known as
-        <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
-        "
-      button: The builders of Death Railway
-      url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
-      image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
-      alt: romusha death railway
-  - infopic:
       title: From Sarong Island with Love
       subtitle: places
       description: Before there was Sentosa, there was Sarong Island.
@@ -336,4 +326,14 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
+  - infopic:
+      title: My Grandfather Was a <i>Rōmusha</i>
+      subtitle: war
+      description: "During World War II, forced civilian labourers known as
+        <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
+        "
+      button: The builders of Death Railway
+      url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
+      image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
+      alt: romusha death railway
 ---
