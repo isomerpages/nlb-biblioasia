@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2023:
     output: true
     order:
+      - Director's Note.md
       - Singapore's Stone Tools.md
       - New Books on Singapore History.md
       - "In Their Own Voices: Preparing for War in Singapore.md"
