@@ -14,7 +14,7 @@ description: The built environment is a space that reflects the dialogue among
 	
 
 The built environment forms the backbone of any society; it is the backdrop of our lives, whether we realise it or not. As such the design of the built environment is paramount to our well-being, to our ability to connect, to interact, to evolve
-individually and collectively.
+individually and collectively.[^1]
 
 
 The built environment is a space in constant tension between public, private and political interests; as such any intervention within this forms an ethical judgement. Any decision made within the built environment will have an effect on one group over another: for example, building a road over culturally sensitive land favours the extraction of economic gains over cultural sensitivity to a group. This decision is more than a simple cost-benefit analysis; it also has a multitude of ethical considerations to it.
@@ -274,20 +274,3 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 [^39]: Manzini, E., 1994, p. 43.
 
 [^40]: Grayson & Young, 1994.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
