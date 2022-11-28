@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
-      button: Early Days of Family Planning<br>in singapore
+      url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
+      button: My Grandfather Was a <i>Rōmusha</i>
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Family Planning/family planning hero.jpg
+      background: /images/Vol 18 Issue 3/Romusha/Hero Banner_Romusha.jpg
   - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
