@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Romusha/Romusha Banner1.png
+      background: /images/Vol 18 Issue 3/Romusha/Romusha Banner2.png
   - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
@@ -337,4 +337,3 @@ sections:
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
 ---
-
