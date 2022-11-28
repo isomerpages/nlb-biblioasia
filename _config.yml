@@ -56,6 +56,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 linkedin-insights: ""
-shareicon: /images/Vol 18 Issue 3/logo-biblioasia.png
+shareicon: ""
 is_government: true
 facebook-pixel: ""
