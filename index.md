@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
-      button: My Grandfather Was a <i>Rōmusha</i>
+      button: My Grandfather Was a <br><i>Rōmusha</i>
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
