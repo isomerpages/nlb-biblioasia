@@ -128,7 +128,7 @@ Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West 
 <br><br>
 Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, <a href="https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944">https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944</a>.
 <br><br>
-Sulaiman Jeem. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640418-1.2.63.1">Pak Din – Tokoh Bangsawan Yg Ta’ Ada Tolok Banding-nya</a>,” <i>Berita Harian</i>, 18 April 1964, 7. (From NewspaperSG)<br>
+Pillans, Brad and Philip Leonard Gibbard. “The Quaternary Period,” in _The Geologic Time Scale_ (Oxford, U.K.: Elsevier, 2012), 981, ResearchGate, <a href="https://www.researchgate.net/publication/279428084_The_Quaternary_Period">https://www.researchgate.net/publication/279428084\_The\_Quaternary\_Period</a>.<br>
 </div>
 
 
