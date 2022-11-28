@@ -26,6 +26,15 @@ sections:
       image: /images/Vol 18 Issue 4/New Books/book1.png
       subtitle: Literature
   - infopic:
+      title: Singapore's Stone Tools
+      description: Stone tools have been found in and around Singapore since the late
+        19th century. Much about them remains a mystery.
+      alt: stone tool
+      url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
+      button: stone artefacts
+      subtitle: nature and environment
+      image: /images/Vol 18 Issue 4/Stone Tools/image2.png
+  - infopic:
       title: "In Their Own Voices: Preparing for War in Singapore"
       subtitle: War
       description: Before the fall of Singapore in 1942, people stocked up on food,
@@ -336,13 +345,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: Singapore's Stone Tools
-      description: Stone tools have been found in and around Singapore since the late
-        19th century. Much about them remains a mystery.
-      alt: stone tool
-      url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
-      button: stone artefacts
-      subtitle: nature and environment
-      image: /images/Vol 18 Issue 4/Stone Tools/image2.png
 ---
