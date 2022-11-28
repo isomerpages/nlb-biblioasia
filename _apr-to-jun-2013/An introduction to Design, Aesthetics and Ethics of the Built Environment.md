@@ -203,79 +203,91 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^4]: Zumthor, 2007, p. 65.
 
-5\. Spector, T, 2007, p. 35.
+[^5]: Spector, T, 2007, p. 35.
 
-6\. Eisenman & Krier, 1989, p. 7.
+[^6]: Eisenman & Krier, 1989, p. 7.
 
-7\. Benedikt, 1988, p. 52.
+[^7]: Benedikt, 1988, p. 52.
 
-8\. Kant, 1790, p. 80.
+[^8]: Kant, 1790, p. 80.
 
-9\. Kant, 1790, p. 224.
+[^9]: Kant, 1790, p. 224.
 
-10\. Zumthor, 2007, p. 65.     
+[^10]: Zumthor, 2007, p. 65.     
 
-11\. Benedikt, 1988, p. 56.
+[^11]: Benedikt, 1988, p. 56.
 
-12\. Spector, 2001; Kant, 1790.
+[^12]: Spector, 2001; Kant, 1790.
 
-13\. Spector, 2001; Benedikt, 1988.
+[^13]: Spector, 2001; Benedikt, 1988.
 
-14\. Zumthor, 2007, p. 69.
+[^14]: Zumthor, 2007, p. 69.
 
-15\. Zumthor, 2006, p. 34.
+[^15]: Zumthor, 2006, p. 34.
 
-16\. Cuthbert, 2006, p. 15.
+[^16]: Cuthbert, 2006, p. 15.
 
-17\. Grayson & Young, 1994.
+[^17]: Grayson & Young, 1994.
 
-18\. Liu, T.K. & Tan, S.A., 1979, p. 149.
+[^18]: Liu, T.K. & Tan, S.A., 1979, p. 149.
 
-19\. Lazell & Henley, 10 Oct 2008.
+[^19]: Lazell & Henley, 10 Oct 2008.
 
-20\. Lefebvre, H., 1970, p. 31.
+[^20]: Lefebvre, H., 1970, p. 31.
 
-21\. Manzini, E., 1994, pp. 37–43.
+[^21]: Manzini, E., 1994, pp. 37–43.
 
-22\. Manzini, E., 1994, p. 43.
+[^22]: Manzini, E., 1994, p. 43.
 
-23\. Buchanan, 2001, p. 38.
+[^23]: Buchanan, 2001, p. 38.
 
-24\. Komlosy, 1953.
+[^24]: Komlosy, 1953.
 
-25\. Rams, p. 25
+[^25]: Rams, p. 25
 
-26\. Durrell, 1979, p. 156.
+[^26]: Durrell, 1979, p. 156.
 
-27\. [Kriken, Enquist & Rapaport](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695), 2010, p. 134.
+[^27]: [Kriken, Enquist & Rapaport](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695), 2010, p. 134.
 
-28\. Tay, K.S., 1998.
+[^28]: Tay, K.S., 1998.
 
-29\. Cuthbert, 2006.
+[^29]: Cuthbert, 2006.
 
-30\. Burns, 2000, p. 76.
+[^30]: Burns, 2000, p. 76.
 
-31\. Urban Task Force, 1999.
+[^31]: Urban Task Force, 1999.
 
-32\. Urban Task Force, 1999.
+[^32]: Urban Task Force, 1999.
 
-33\. Jacobs, 1993.
+[^33]: Jacobs, 1993.
 
-34\. Grayson & Young, 1994.
+[^34]: Grayson & Young, 1994.
 
-35\. Langer in Burns, 2000.
+[^35]: Langer in Burns, 2000.
 
-36\. Edwards, 2000, p. 7.
+[^36]: Edwards, 2000, p. 7.
 
-37\. Manzini, E., 1994, p. 39.
+[^37]: Manzini, E., 1994, p. 39.
 
-38\. Manzini, E., 1994, p. 39.
+[^38]: Manzini, E., 1994, p. 39.
 
-39\. Manzini, E., 1994, p. 43
+[^39]: Manzini, E., 1994, p. 43.
 
-40\. Grayson & Young, 1994.
+[^40]: Grayson & Young, 1994.
 
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
