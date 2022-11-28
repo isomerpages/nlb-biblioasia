@@ -28,7 +28,7 @@ Good design within the built environment is mindful of the various tensions with
 Buildings are primary objects within the physical environment, necessarily permanent and largely impassive.2 Matters of location, design, visual impact, standards, place-making and so on are central to the experience and interpretation of the physical environment.3 Buildings become part of people’s lives;4 all architecture must be built with durability, convenience and beauty5 in mind.
 
 
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/01%20Golden%20Mile_2.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/01%20Golden%20Mile_2.jpg">
  <div style="background-color: white;">People’s Park Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
 </div>
 	
@@ -49,7 +49,7 @@ Buildings can have a beautiful silence that I associate with attributes such as 
 The powerful ideology of beauty (inherent in the majority of theories and aims of design professionals acting within the built environment) leads us to the act of “Design”. Design refers to the process that claims to improve the quality of the everyday, from objects that surround us (buildings, furniture, appliances, vehicles and gadgets) to advertising and marketing. Design within the built environment encompasses the idea of combining art, technology and society. Often-spaces have a utilitarian value and a symbolic value. The act of design is the way we plan and create the humanly shaped processes of public and private life, forming the interactions and transactions that constitute the social-environmental and economic fabric of a city, town village or country. Design offers a way of thinking about the world that is significant to addressing many of the human-created problems in contemporary culture.
 
 
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/03%20People's%20Park%20Complex_3.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/03%20People's%20Park%20Complex_3.jpg">
  <div style="background-color: white;">People’s Park Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
 </div>
 	
@@ -88,7 +88,7 @@ People are directly influenced and emotionally moved by the design of items surr
 An example of an organisation that had a very strong value system and profound effect within Singapore is the Singapore Improvement Trust (1927-1959). The Trust emphasised the need to design for people and community rather than just numbers.
 
 
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/housing%20project%20Tiong%20Bahru.jpg">
+<img style="width:100%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/housing%20project%20Tiong%20Bahru.jpg">
  <div style="background-color: white;">A great example of a resilient development at an urban level is the Singapore Improvement Trust’s first mass housing project of Tiong Bahru. Today the area is still thriving and is testament to the importance of designing within a strong value system of a peoplefocused environment, rather than a machine for living in. <i>Courtesy of Benjamin Towell.</i></div>
 	
 	
