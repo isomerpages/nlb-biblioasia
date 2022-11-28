@@ -152,6 +152,7 @@ Good design is not a fetish; good design creates the natural foci of social inte
 <div>
 <b>Benjamin Towell</b> is an Executive Manager with the Green Mark Department of the Building and Construction Authority of Singapore. Benjamin qualified as a Town (Urban) Planner from the University of Newcastle upon Tyne, UK. He studied architecture at the University of Newcastle upon Tyne, The Leeds School of Architecture and the National University of Singapore.</div>
 
+
 #### **REFERENCES**
         
 
