@@ -122,6 +122,8 @@ Chia, Stephen. “Archaeological Evidence of Early Human Occupation in Malaysia,
 <br><br>
 Forestier, Hubert et al. “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” <i>L’Anthropologie</i> 126, no. 1 (January–March 2022), 102996: 32, ScienceDirect, <a href="https://doi.org/10.1016/j.anthro.2022.102996">https://doi.org/10.1016/j.anthro.2022.102996</a>.
 <br><br>
+Harmand, Sonia et al. “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” <i>Nature</i> 521 (May 2015), 310–15, <a href="https://www.nature.com/articles/nature14464">https://www.nature.com/articles/nature14464</a>.
+	<br><br>
 Ng, Yew Peng. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449"><i>What’s in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>, 66, 108, 137, 141, 150, 154, 191, 194, 213, 280, 326, 341, 372, 404, 416, 422. Singapore: World Scientific, 2018. (From National Library, Singapore, Call no. RSING 915.9570014 NG) <br><br>Sulaiman Jeem. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640418-1.2.63.1">Pak Din – Tokoh Bangsawan Yg Ta’ Ada Tolok Banding-nya</a>,” <i>Berita Harian</i>, 18 April 1964, 7. (From NewspaperSG)<br>
 </div>
 
