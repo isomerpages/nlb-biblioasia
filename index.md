@@ -342,4 +342,6 @@ sections:
         19th century. Much about them remains a mystery.
       alt: Image alt text
       url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
+      button: stone artefacts
+      subtitle: nature and environment
 ---
