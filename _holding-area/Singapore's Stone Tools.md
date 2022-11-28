@@ -115,34 +115,11 @@ There are possibilities for further research on the stone tools discovered in Si
 
 All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
 
-<table> 
-	<th colspan="3"><b>STONE TOOL SITES BY ERAS</b> </th>
-  <tr>  
-    <th>Geologic Time Scale</th>  
-    <th>Age</th>  
-    <th>Location (Note: In archaeology, the present is defined as 1950) </th>  
-  </tr>  
-  <tr>  
-    <td>Holocene </td>  
-    <td>11,800 years ago to the present
-(Post-Ice Age)</td>  
-    <td>Jenderam Hilir, Langsat Valley, Selangor, Malaysia: 3,650 years ago[^57] </td>  
-  </tr>  
-  <tr>  
-    <td>Pleistocene</td>  
-    <td>2,588,000 to 11,800 years ago
-(The most recent Ice Age)</td>  
-    <td><ul><li>Tham Lod, northwest Thailand: 40,000 to 14,000 years ago[^58] </li>  
-<li>Kota Tampan, Lenggong Valley, Perak, Malaysia: 70,000 years ago[^59] </li>
-<li>Sangiran, Central Java, Indonesia: 1 million years ago[^60] </li>
-<li>Current proposed oldest known stone tool site in SEA: Bukit Bunuh, Lenggong Valley, Perak, Malaysia (BBH2007): 1.83 million years ago[^61] </li>  
-<li>Current oldest known stone tool site in Asia: Shangchen (上陈), Shaanxi, China: 2.1 million years ago[^62]</li></ul></td>  
-  </tr>  
-	  <tr>  
-    <td>Pliocene </td>  
-    <td>5,333,000 to 2,588,000
-years ago</td>  
-    <td>Current oldest known stone tool site: Lomekwi 3, West Turkana, Kenya: 3.3 million years ago[^63] </td></tr></table>
+![](/images/Vol%2018%20Issue%204/Stone%20Tools/Stone_Tools_Table.png)
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>REFERENCES</b><br><br>Bulbeck, David and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205657526"><i>The Oxford Handbook of Early Southeast Asia</i></a>, ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)<br><br>Hanim Mohd Saleh. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19891110-1.2.19.4">‘Estet Bangsawan’ di Opera Estate</a>,” <i>Berita Harian</i>, 10 November 1989, 8. (From NewspaperSG)<br><br>Ng, Desmond. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20020619-1.2.55">Named After Famous Operas</a>,” <i>New Paper</i>, 19 June 2002, 39. (From NewspaperSG) <br><br>Ng, Yew Peng. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449"><i>What’s in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>, 66, 108, 137, 141, 150, 154, 191, 194, 213, 280, 326, 341, 372, 404, 416, 422. Singapore: World Scientific, 2018. (From National Library, Singapore, Call no. RSING 915.9570014 NG) <br><br>Sulaiman Jeem. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640418-1.2.63.1">Pak Din – Tokoh Bangsawan Yg Ta’ Ada Tolok Banding-nya</a>,” <i>Berita Harian</i>, 18 April 1964, 7. (From NewspaperSG)<br>
+</div>
+
 
 <div style="background-color: white;">
 <br/>
