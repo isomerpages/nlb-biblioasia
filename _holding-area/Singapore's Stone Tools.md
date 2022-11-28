@@ -126,7 +126,9 @@ Harmand, Sonia et al. “3.3 Million Year-old Stone Tools from Lomekwi 3, West T
 <br><br>
 Hsiao, Mei Goh, et al. “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” <i>Antiquity</i> 94, no. 377, e25 (October 2020): 1, Cambridge University Press, <a href="https://doi.org/10.15184/aqy.2020.158">https://doi.org/10.15184/aqy.2020.158</a>.
 <br><br>
-Ng, Yew Peng. <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449"><i>What’s in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>, 66, 108, 137, 141, 150, 154, 191, 194, 213, 280, 326, 341, 372, 404, 416, 422. Singapore: World Scientific, 2018. (From National Library, Singapore, Call no. RSING 915.9570014 NG) <br><br>Sulaiman Jeem. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640418-1.2.63.1">Pak Din – Tokoh Bangsawan Yg Ta’ Ada Tolok Banding-nya</a>,” <i>Berita Harian</i>, 18 April 1964, 7. (From NewspaperSG)<br>
+Leong, Sau Heng. “Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia,” <i>Indo-Pacific Prehistory Association Bulletin</i> 10 (1991): 153, University Libraries, University of Washington, <a href="https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944">https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944</a>.
+<br><br>
+Sulaiman Jeem. “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19640418-1.2.63.1">Pak Din – Tokoh Bangsawan Yg Ta’ Ada Tolok Banding-nya</a>,” <i>Berita Harian</i>, 18 April 1964, 7. (From NewspaperSG)<br>
 </div>
 
 
