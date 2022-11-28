@@ -151,3 +151,131 @@ Good design is not a fetish; good design creates the natural foci of social inte
 
 <div>
 <b>Benjamin Towell</b> is an Executive Manager with the Green Mark Department of the Building and Construction Authority of Singapore. Benjamin qualified as a Town (Urban) Planner from the University of Newcastle upon Tyne, UK. He studied architecture at the University of Newcastle upon Tyne, The Leeds School of Architecture and the National University of Singapore.</div>
+
+#### **REFERENCES**
+        
+         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; mso-themecolor:hyperlink; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:purple; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+Benedikt, M. (1988). _For an architecture of reality_. Santa Fe: Lumen. (Not available in NLB holdings)
+
+Buchanan, R. (2001). Human dignity and human rights: Thoughts on the principles of human-centred design. _Design Issues, 17_ (3), 35–39. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Burns, A. (2000). Emotion & urban experience: Implications for design. _Design Issues, 16_ (3), 67–79. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Casanova, R.T. (1979). Land policies and practices (p. 113). In S.H.K. Yeh & Laquian (Eds.), [_Housing Asia’s millions: Problems, policies and prospects for low-cost housing in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296). Ottawa: IDRC. (Call no.: RSING 363.5095 HOU)
+
+Cuthbert, A. (2006). _The form of cities: Political economy and urban design_. Oxford: Blackwell Publishing. (Not available in NLB holdings)
+
+Durrell, L. (1969). _Spirit of place_. London: Dutton. (Not available in NLB holdings)
+
+Edwards, B. (2000). Sustainable housing: Architecture, society and professionalism (pp. 12–34). In B. Edwards & D. Turrent (Eds.), _Sustainable housing principles & practice_. Abingdon: Taylor & Francis. (Not available in NLB holdings)
+
+Eisenman, P., & Krier, L. (1989). My ideology is better than yours. _Architectural Design_, 59, 6–18, pp. 9–10. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Franklin, B. (2001). Discourses of design: Perspectives on the meaning of housing quality and “good” housing design. _Housing, Theory and Society, 18_ (1–2), 79–92. Retrieved from Taylor & Francis Online.
+
+Grayson, L., & Young, K.  (1994). _Quality of life in cities_. London: The British Library. (Not available in NLB holdings)
+
+Jacobs, J. (1993). _The death and life of great American cities_. New York: Random House. (Not available in NLB holdings)
+
+Jiven, G., & Larkham, P.J. (2003). Sense of place, authencity and character: A commentary. _Journal of Urban Design, 8_ (1), 67–81. Retrieved from Taylor & Francis Online website.
+
+Kant, I. (1786). _Groundwork of the Metaphysics of Morals_. New York: Harper & Row. (Not available in NLB holdings)
+
+Kant, I. (1790). The critique of judgement. Oxford: Clarendon Press. (Not available in NLB holdings)
+
+Komlosy, D. (1953). Working party on Queenstown: Memorandum by Chief Planning Officer, Diagnostic Survey Team Queenstown Estate – Densities. Singapore: National Heritage Board, National Archives. (cannot locate this)
+
+Kriken, J., Enquist, P. & Rapaport, R. (2010). [_City building: Nine planning principles for the twenty-first century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695). New York: Princeton Architectural Press. (Call no.: RART 711.4 KRI)
+
+Langer, P. (1984). Sociology – Four images of organised diversity: Bazaar, jungle, organism, and maching. (pp. 97–117). In L. Rodwin & R. Hollister, _Cities of the mind: Images and themes of the city in the social sciences_. New York: Plenum Press. (Not available in NLB holdings)
+
+Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the heart of Planning Bill_. Retrieved from Building Design website.
+
+#### **NOTES**
+    
+
+[^1]: [Casanova](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296), 1979, p. 113.  
+
+[^2]: Benedikt, 1988, p. 14.
+
+[^3]: Norberg-Schulz, 1980, p. 203.
+
+[^4]: Zumthor, 2007, p. 65.
+
+5\. Spector, T, 2007, p. 35.
+
+6\. Eisenman & Krier, 1989, p. 7.
+
+7\. Benedikt, 1988, p. 52.
+
+8\. Kant, 1790, p. 80.
+
+9\. Kant, 1790, p. 224.
+
+10\. Zumthor, 2007, p. 65.     
+
+11\. Benedikt, 1988, p. 56.
+
+12\. Spector, 2001; Kant, 1790.
+
+13\. Spector, 2001; Benedikt, 1988.
+
+14\. Zumthor, 2007, p. 69.
+
+15\. Zumthor, 2006, p. 34.
+
+16\. Cuthbert, 2006, p. 15.
+
+17\. Grayson & Young, 1994.
+
+18\. Liu, T.K. & Tan, S.A., 1979, p. 149.
+
+19\. Lazell & Henley, 10 Oct 2008.
+
+20\. Lefebvre, H., 1970, p. 31.
+
+21\. Manzini, E., 1994, pp. 37–43.
+
+22\. Manzini, E., 1994, p. 43.
+
+23\. Buchanan, 2001, p. 38.
+
+24\. Komlosy, 1953.
+
+25\. Rams, p. 25
+
+26\. Durrell, 1979, p. 156.
+
+27\. [Kriken, Enquist & Rapaport](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695), 2010, p. 134.
+
+28\. Tay, K.S., 1998.
+
+29\. Cuthbert, 2006.
+
+30\. Burns, 2000, p. 76.
+
+31\. Urban Task Force, 1999.
+
+32\. Urban Task Force, 1999.
+
+33\. Jacobs, 1993.
+
+34\. Grayson & Young, 1994.
+
+35\. Langer in Burns, 2000.
+
+36\. Edwards, 2000, p. 7.
+
+37\. Manzini, E., 1994, p. 39.
+
+38\. Manzini, E., 1994, p. 39.
+
+39\. Manzini, E., 1994, p. 43
+
+40\. Grayson & Young, 1994.
+
+	
+	
+	
+	
