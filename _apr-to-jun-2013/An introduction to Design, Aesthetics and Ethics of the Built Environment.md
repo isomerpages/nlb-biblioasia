@@ -8,6 +8,10 @@ description: The built environment is a space that reflects the dialogue among
 #### The built environment is a space that reflects the dialogue among private, public and political spheres. Design impacts our lives everyday and good design can transform a mere place to one imbued with life and meaning.
 
 
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/02%20People's%20Park%20Complex_5.jpg">
+<div style="background-color: white;">The Golden Mile Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
+</div>
+	
 
 The built environment forms the backbone of any society; it is the backdrop of our lives, whether we realise it or not. As such the design of the built environment is paramount to our well-being, to our ability to connect, to interact, to evolve
 individually and collectively.
@@ -23,6 +27,13 @@ Good design within the built environment is mindful of the various tensions with
 
 Buildings are primary objects within the physical environment, necessarily permanent and largely impassive.2 Matters of location, design, visual impact, standards, place-making and so on are central to the experience and interpretation of the physical environment.3 Buildings become part of people’s lives;4 all architecture must be built with durability, convenience and beauty5 in mind.
 
+
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/01%20Golden%20Mile_2.jpg">
+ <div style="background-color: white;">People’s Park Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
+</div>
+	
+	
+
 The goal of design is “mainly to conceive, realise and maintain a solid, lasting, comfortable, and possibly beautiful common world”. Fundamental aesthetic and ethical principles are considered to be “of universal value… transcending time and space, climates and civilization”.6 For example one can relate to: “The inexplicable features of old and or vernacular buildings, otherwise so straight forwardly organised, are often precisely those that attract us to inhabit them. Offering opportunity rather than giving direction”.7
 
 The design of the built environment is often attributed as an action to make it “beautiful”. A great emphasis is placed on the idea of beauty, which is incorrectly used interchangeably with “aesthetics”. Beauty is the form of finality in an object; the beautiful pleases immediately.8 Therefore aesthetic ideas “are essentially different from rational ideas of determinate ends”.9 Beautiful architecture and “positive” space creates atmospheres that kindle our emotions — “architecture is the alchemy of transforming real substances into human sensations”.10 “When we speak of the ’draw’ of a good fireplace, when we feel the pull of an empty room for us to enter and dwell there”.11
@@ -36,6 +47,12 @@ Architecture is at its most beautiful when things come into their own, when they
 Buildings can have a beautiful silence that I associate with attributes such as composure, self evidence, durability, presence, and integrity, and with warmth and sensuousness as well; a building that is being itself, being a building, not representing anything, just being, that is the definition of beauty.15
 
 The powerful ideology of beauty (inherent in the majority of theories and aims of design professionals acting within the built environment) leads us to the act of “Design”. Design refers to the process that claims to improve the quality of the everyday, from objects that surround us (buildings, furniture, appliances, vehicles and gadgets) to advertising and marketing. Design within the built environment encompasses the idea of combining art, technology and society. Often-spaces have a utilitarian value and a symbolic value. The act of design is the way we plan and create the humanly shaped processes of public and private life, forming the interactions and transactions that constitute the social-environmental and economic fabric of a city, town village or country. Design offers a way of thinking about the world that is significant to addressing many of the human-created problems in contemporary culture.
+
+
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/03%20People's%20Park%20Complex_3.jpg">
+ <div style="background-color: white;">People’s Park Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
+</div>
+	
 
 Today \[design\] incorporates spatial interests of social science, geography, cultural studies, economics, architecture, art history and other disciplines, and existential positions such as feminism, and sustainability. 16
 
@@ -70,6 +87,12 @@ People are directly influenced and emotionally moved by the design of items surr
 
 An example of an organisation that had a very strong value system and profound effect within Singapore is the Singapore Improvement Trust (1927-1959). The Trust emphasised the need to design for people and community rather than just numbers.
 
+
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/housing%20project%20Tiong%20Bahru.jpg">
+ <div style="background-color: white;">A great example of a resilient development at an urban level is the Singapore Improvement Trust’s first mass housing project of Tiong Bahru. Today the area is still thriving and is testament to the importance of designing within a strong value system of a peoplefocused environment, rather than a machine for living in. <i>Courtesy of Benjamin Towell.</i></div>
+	
+	
+	
 “To know the number of housing units, or living rooms, will give no direct clue to the amount of open space required, the number of shops to provide, or the amount of playing field space required. Living rooms or houses don’t play games or go shopping. In my view it is dangerous, and might be disastrous, to forget we are trying to plan for persons, rather than impersonal ’units’.”24
 
 Good design ethics takes a stand against “the ruthless exploitation of people’s weaknesses for visual and haptic signals”,25 which much of globalisation engages in. For example the glazed box as the sign of high quality living from London, to Abu Dhabi, New York and Singapore. The marketing of these globalised "icons" have created a myth that these provide a high-quality built environment versus a contemporary interpretation of the vernacular. The competition between cities and countries to “out-do” each other in the built form may create fashionable areas of interest, but these ultimately have shelf lives. These often do not have the daily joy that simple, humble, and thus resilient places can provide such as popular “hawker centres” and local markets.
@@ -87,6 +110,11 @@ Architects and planners see design as the art of making places for people, and b
 Similarity is important in establishing a recognisable or identifiable sense of place.27 The aesthetics of places and place-making should be linked to the climatic vernacular and regional diversity through the spatial representation of the synergies of the life of the people28, i.e. the place must reflect the climatic conditions of the area, as well as facilitate the daily interactions of the people. Places that foster a spatial representation of life are places such as hawker centres and local markets. These form a focal point in many Singaporeans’ lives; they are spaces where a great diversity of people congregate, and a local economy thrives. Hawker centres create a spatial attachment to a neighbourhood, or an area, not through their outward appearance, but through their purpose.
 
 At the urban level, Singapore followed good practice with island wide tree planting strategies to break up the increasing density of the built form. In a variety of key areas, the mix of the globalised “future” and traditional “cultural” past has been exceptionally juxtaposed, thus maintaining or, in the case of Boat Quay, enhancing an identity of place. Boat Quay, with its regenerated water front, traditional shophouses and the UOB plaza fronting the Central Business District, became recognisable as the embodiment of “Singapore”. It was instantly recognisable and globally distinctive, representing the dichotomy that is Singapore.
+
+
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/Boat%20Quay_2.jpg">
+ <div style="background-color: white;">The desire for iconic architecture, if not mediated, can break the cohesion of the urban fabric and result in a mismatch collage of forms that share no relation of scale, context, local character or sustainability. Singapore’s Boat Quay is a prime example of the successful juxtaposition of a cohesive yet iconic contemporary form of the UOB plaza, with traditional straits shophouses in the foreground.<i> Courtesy of Benjamin Towel.</i></div>
+	
 
 <center>Architecture has forgotten, or <br>simply fails to understand that<br> space is constructed out of<br> interrelations and interactions<br> of people, at various levels and<br> of various dispositions and thus<br> must engage these tensions<br> rather than ignore them.</center>
 
@@ -122,22 +150,3 @@ Good design is not a fetish; good design creates the natural foci of social inte
 
 <div>
 <b>Benjamin Towell</b> is an Executive Manager with the Green Mark Department of the Building and Construction Authority of Singapore. Benjamin qualified as a Town (Urban) Planner from the University of Newcastle upon Tyne, UK. He studied architecture at the University of Newcastle upon Tyne, The Leeds School of Architecture and the National University of Singapore.</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
