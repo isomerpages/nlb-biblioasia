@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Director's Note.md
-      - Singapore's Stone Tools.md
       - Test page.md
