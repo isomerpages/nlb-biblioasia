@@ -117,6 +117,7 @@ There are possibilities for further research on the stone tools discovered in Si
 All the stone tool sites described earlier were either found along coastal or in brackish (mangrove) waters in Singapore. This raises the question: was there inland prehistoric activity for Singapore? Rivers would have been the general travel marker during early exploratory periods and tracing the old river courses may reveal more important sites. Should anyone stumble upon such a site in Singapore, do leave the site untouched, mark its GPS location and alert the National Heritage Board immediately as the context of the find is likely to be as important as the find itself. Keep your eyes peeled: you never know what you might find.
 
 #### **Stone Tools By Eras**[^56]
+(Note: Present = 1950)
 
 **Holocene (11,800 years ago to the present; Post-Ice Age)**
 <br>
