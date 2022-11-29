@@ -118,7 +118,7 @@ All the stone tool sites described earlier were either found along coastal or in
 
 #### **Stone Tools By Eras**[^56]
 
-**Holocene (11,800 years ago to the present ; Post-Ice Age)**
+**Holocene (11,800 years ago to the present; Post-Ice Age)**
 <br>
 Example: 
 * Jenderam, Langsat Valley, Selangor, Malaysia: 3,650 years ago[^57]
