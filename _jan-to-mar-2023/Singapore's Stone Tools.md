@@ -266,7 +266,7 @@ Example:
 
 [^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “[The Paleolithic in Indonesia: Nature and Chronology](http://doi.org/10.1016/j.quaint.2009.07.022),” *Quaternary International* 223, no. 3 (2010): 418. 
 
-[^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context],” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
+[^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context](https://doi.org/10.1016/j.anthro.2022.102996),” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
 
 [^62]: Zhaoyun Zhu et al., “[Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago](https://www.nature.com/articles/s41586-018-0299-4),” *Nature* 559 (11 July 2018), 608–12.
 
