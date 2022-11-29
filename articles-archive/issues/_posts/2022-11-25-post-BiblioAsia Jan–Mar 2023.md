@@ -10,7 +10,7 @@ In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that 
 
 <img src="/images/Vol%2018%20Issue%204/Biblioasia_18_4_cover.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-to-mar-2023/director-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a><br>The Asian Film Archive has been restoring classic Malay films by Cathay-Keris and Shaw since 2014. *Chew Tee Pao*. [(PDF)]
 
