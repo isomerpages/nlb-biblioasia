@@ -1,4 +1,5 @@
 collections:
   jan-to-mar-2013:
     output: true
-    order: []
+    order:
+      - Director's Column.md
