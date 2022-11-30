@@ -22,7 +22,7 @@ Muhammad Ariff became a trainee teacher in 1940 after completing his studies in 
 In 1942, Muhammad Ariff was called up by the Japanese to learn and teach the Japanese language in a public school. From 1943 to 1944, he taught Japanese in a special Nippon-Go class for teachers and became a Japanese language instructor in a language centre in Pearls Hill School for teachers. It was here that he realised his potential as an educator. His path towards formalising his teacher training came when the British returned to Singapore. Between 1946 to 1949, Muhammad Ariff attended formal Malay teacher training at Sultan Idris Teacher Training College (SITC) in Perak, Malaysia.
 
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Taman%20Puspa.jpg">
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Taman%20Puspa.jpg">
  <div style="background-color: white;"><i>Taman Puspa</i> is a collection of poems written in 1947 that expresses the hopes and aspirations of MAS. Post cards to Masuri S.N., who was in Kajang during the Japanese Occupation, were also featured.
 </div>
 
@@ -39,7 +39,7 @@ Muhammad Ariff’s contributions as a teacher were not confined to the realm of 
 Muhammad Ariff is also one of the founding members of the Angkatan Sasterawan ’50 (ASAS ’50) a literary organisation that champions the rights of the community through the writings of its members. ASAS ’50 was established with the belief that “united we stand, divided we fall”. He commemorated the founding of ASAS’50 — 6 August 1950 — through his poem “Long-lived Unity”.
 
 
-<img style="width:50%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Seni%20untuk%20Masyarakat.jpg">
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Seni%20untuk%20Masyarakat.jpg">
  <div style="background-color: white;"><i>Seni untuk Masyarakat</i> (Arts for the People) exhibition panels.</div>
 	
 
@@ -54,7 +54,7 @@ In 1947, Muhammad Ariff completed his first novel *Menyahut Seruan Ibunda* (*Ans
 Muhammad Ariff believes that writing is his responsibility, one that allows his fellow countrymen to view life positively and lead a meaningful existence. For instance, his novelette *Sarah Pengarang Kechil*, published in 1957, exemplified his concerns on the importance of education in order for the next generation to achieve success. The novelette was adopted as a textbook for Malay literature. The novel *Mail Mau Kawin* (*Mail Wants to Wed*), published in 1976, considers the issues of the Malay community at that time. The importance of lifelong learning was subtly touched on as one of the ways to overcome the vicious cycle of poverty. Another example is the poem “Is it true?”, which gave rise to controversy when it was published in *Berita Harian* in 1974.
 
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
  <div style="background-color: white;">Works by Muhammad Ariff Ahmad, such as <i>Adam Kena Hujan, Suara Guru and Sarah Pengarang Kechil</i>, were on display at the exhibition.
 </div>
 
