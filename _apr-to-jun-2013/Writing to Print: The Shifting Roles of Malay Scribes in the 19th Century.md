@@ -87,6 +87,8 @@ Aside from the missionary presses, colonial regulations in the Dutch East Indies
 <br><br>
 <b>Noorashikin binte Zulkifli</b> joined the Malay Heritage Centre in 2010 where she was trained in arts management and interactive media. Noora has been involved in museum work since 2004 and previously worked at the Singapore Art Museum and the NUS Museum.</div>	
 
+
+
 #### **REFERENCES**
 
 **Books**
@@ -121,7 +123,10 @@ Proudfoot, I. (1997). Mass producing Houri’s moles or aesthetics and choice of
 
 van der Putten, J. (1997). Printing in Riau: Two steps towards modernity_. Bijdragen tot de Taal-,Land-en Volkenkunde, Riau in Transition_, 153 (4), 717–736. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
+
 #### **NOTES**
+
+
 
 [^1]: Coulmas, 1996.
 
