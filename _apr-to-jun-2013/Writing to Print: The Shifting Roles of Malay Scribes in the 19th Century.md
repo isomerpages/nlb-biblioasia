@@ -85,8 +85,7 @@ Aside from the missionary presses, colonial regulations in the Dutch East Indies
 <br><br>
 <b>Siti Hazariah Abu Bakar</b> graduated from the National University of Singapore (NUS) with a degree in South Asian Studies in 2011, and is currently a curatorial assistant at the Malay Heritage Centre. Her research interests include the social history of the Malays in Sri Lanka, Tamil Hindu death rituals, Indian Mughal history and Tibetan Buddhism.
 <br><br>
-<b>Noorashikin binte Zulkifli</b> joined the Malay Heritage Centre in 2010 where she was trained in arts management and interactive media. Noora has been involved in museum work since 2004 and previously worked at the Singapore Art Museum and the NUS Museum.
-</div>	
+<b>Noorashikin binte Zulkifli</b> joined the Malay Heritage Centre in 2010 where she was trained in arts management and interactive media. Noora has been involved in museum work since 2004 and previously worked at the Singapore Art Museum and the NUS Museum.</div>	
 
 #### **REFERENCES**
 
@@ -124,7 +123,6 @@ van der Putten, J. (1997). Printing in Riau: Two steps towards modernity_. Bijdr
 
 #### **NOTES**
 
- 
 [^1]: Coulmas, 1996.
 
 [^2]: Fischer, 2004, p. 12.
