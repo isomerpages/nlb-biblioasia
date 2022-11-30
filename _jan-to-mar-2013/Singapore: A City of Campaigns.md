@@ -77,3 +77,51 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
 <b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He has co-edited two books<i> Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is currently conducting research on the Eurasian community for an upcoming National Library exhibition.
 </div>
+
+
+#### **NOTES**
+    
+[^1]: Sandhu, K.S. & Wheatley, P. (1989). [_Management of success: The moulding of modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304) (p. 116). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
+
+[^2]: Langford, J.W. & Brownsey, K.L. (1988). _The changing shape of government in the Asia-Pacific region_ (pp. 134–135). Halifax, N.S.: Institute for Research on Public Policy. (Not available in NLB holdings)
+
+[^3]: Pan, H. (2005). National campaigns: A way of life (p. 104. In [_Legacy of Singapore: 40th anniversary commemorative 1965–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859). Singapore: CR Media. (Call no.: RSING q959.57 LEG)
+
+[^4]: Sam, J. (1968, October 2). ‘[Big stick’ for unresponsive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681002-1.2.71). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+
+[^5]: Ministry of Culture. (1972, July 20). [_Speech by Mr Chua Sian Chin Minister for Health at the opening ceremony of the Family Planning Campaign 1972 at the Singapore Conference Hall on Thursday, 20th July 1972 at 2000 hours_](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad). Retrieved from National Archives of Singapore website.
+
+[^6]: Singapore Family Planning and Population Board. (1973). [_Seventh annual report of the Singapore Family Planning and Population Board 1972_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679) (p. 44). Singapore: Singapore Family Planning & Population Board. (Call no.: RCLOS 301.426 SFPPBA)
+
+[^7]: [_Family planning in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=354661) (pp. 1–26). (1966). Singapore: G.P.O. (Call no.: RSING 363.96095957 FAM)
+
+[^8]: Ministry of Information, Communications and the Arts. (2009, August 18). _National Campaigns_. Retrieved from MICA website.
+
+[^9]: Nirmala, M. (1999). _[Courtesy - More than a smile](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9552461)_. Singapore: The Singapore Courtesy Council. (Call no.: RSING 395.095957 NIR)
+
+[^10]: Lee, P. (1982, May 15). [Mascot for campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820515-1.2.11). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^11]: [Lee to launch ‘use Mandarin’ campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790907-1.2.9). (1979, September 7). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^12]: Wong, May. (2010, February 2). Singapore’s productivity drive started in the 1980s. _Channel News Asia_. Retrieved from Channel News Asia website.
+
+[^13]: [Pan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859), 2005, p. 104.
+
+[^14]: [Nirmala](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9552461), 1999.
+
+[^15]: Promote Mandarin Council. (2020, December 1). _History and background_. Retrieved from Singapore Mandarin Council.
+
+[^16]: Singapore. National Productivity Board. (1991). _[The first 10 years of the productivity movement in Singapore: A review](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6110558)_. Singapore: National Productivity Board. (Call no.: RSING 338.06095957 FIR)
+
+[^17]: Singapore. National Computer Board. (1986). _[Civil service computerisation programme: Charting new directions](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5264144)_. Singapore: The Board. (Call no.: RSING 354.5957000285 CIV)
+
+[^18]: Raj, C. (1981, July 29). [The civil service may implement QC circles soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810729-1.2.105.5). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^19]: [Pan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859), 2005, pp. 105–108.
+
+[^20]: Life in Campaign city. (2007, July). [*Challenge*](https://eservice.nlb.gov.sg/itemholding.aspx?bid=7470680). Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
+
+[^21]: [Sandhu & Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 116.
+
+
+
