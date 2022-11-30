@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2013:
     output: true
     order:
+      - "Sumbangsih MAS: An Exhibition on Muhammad Ariff Ahmad.md"
       - Director's Column.md
       - From Garden City to Gardening City.md
       - "Oriental, Utai, Mexican: The Story of the Singapore Jewish Community.md"
