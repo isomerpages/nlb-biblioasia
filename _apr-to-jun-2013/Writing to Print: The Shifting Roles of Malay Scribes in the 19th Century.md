@@ -123,10 +123,7 @@ Proudfoot, I. (1997). Mass producing Houri’s moles or aesthetics and choice of
 
 van der Putten, J. (1997). Printing in Riau: Two steps towards modernity_. Bijdragen tot de Taal-,Land-en Volkenkunde, Riau in Transition_, 153 (4), 717–736. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-
 #### **NOTES**
-
-
 
 [^1]: Coulmas, 1996.
 
@@ -143,8 +140,31 @@ van der Putten, J. (1997). Printing in Riau: Two steps towards modernity_. Bijdr
 [^7]: van der Putten, 1997.
 
 [^8]: Altbach & Hoshino, 1995, p. 479.
-	
 
 
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
