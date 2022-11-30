@@ -18,7 +18,7 @@ Family planning was another major focus for campaigns in the late 1960s and 1970
 As the Singapore society became more affluent in the 1980s and 1990s, improving the qualitative values of Singaporeans became the focal point of campaigns. Leading this was the National Courtesy Campaign. Inaugurated in 1979, the aim of the campaign was to create a pleasant social environment where people were cultured, considerate and thoughtful of each other’s needs.9 The campaign was initially represented by a Smiley logo and had the slogan “Make Courtesy Our Way of Life”. This was subsequently replaced by Singa the Courtesy Lion mascot in 1982.10
 
 
-<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Smiley.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Smiley.jpg">
  <div style="background-color: white;"
 >The face of the courtesy campaign was originally Smiley before Singa the Courtesy Lion took over in 1982. <i>Kindness Movement Collection, courtesy of National Archives of Singapore.</i></div>	
 	
@@ -26,7 +26,7 @@ The Speak Mandarin Campaign was another campaign introduced to develop better qu
 	
 
 	
-<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/SpeakMandarin.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/City%20Campaigns/SpeakMandarin.jpg">
  <div style="background-color: white;">The Speak Mandarin Campaign encouraged the local population to adopt the Chinese language instead of dialects. <i>Promote Mandarin Council Collection, courtesy of National Archives of Singapore.</i>
 </div>	
 	 
@@ -34,7 +34,7 @@ The Speak Mandarin Campaign was another campaign introduced to develop better qu
 To improve the qualitative skills of Singaporeans in the workplace, the government launched the National Productivity Movement in 1982. Fronted by Teamy the Productivity Bee mascot, the campaign was aimed at raising the productivity of the labour force. The campaign was endorsed as Singapore was moving from labour-intensive activities to more highly-skilled and technology-driven work. The campaign had a positive effect on the workforce’s productivity level. Between 1981 and 1990, Singapore’s productivity growth increased by 4.8 per cent, and since then, its workforce has been assessed to be one of the best in the world.12
 
 
-<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Productivitybee.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Productivitybee.jpg">
  <div style="background-color: white;">Teamy the Productivity Bee was a familiar figure during the nation’s push to increase the productivity of the Singaporean labour force. <i>SPRING Singapore Collection, courtesy of National Archives of Singapore.</i></div>
 	
 	
@@ -52,7 +52,7 @@ Throughout the rest of the 1990s and the first decade of the new millennium, the
 Indeed, in almost every part of the island today, be it in a park, food court, building or any other public space, there is a high chance that a person will come across posters, banners, stickers or other collaterals promoting one campaign or another. With the advent of social media tools such as Facebook, Twitter, YouTube and mobile apps, it is common for Singaporeans to come across campaigns on these platforms.
 
 
-<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Poster.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Poster.jpg">
  <div style="background-color: white;">
 A poster encouraging Singaporeans to keep their surroundings clean. <i>Ministry of Environment and Water Resources Collection, courtesy of National Archives of Singapore.</i></div>
 	
