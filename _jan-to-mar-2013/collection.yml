@@ -2,5 +2,6 @@ collections:
   jan-to-mar-2013:
     output: true
     order:
+      - "Edwin Thumboo Time Travelling: A Poetry Exhibition.md"
       - Director's Column.md
       - "Singapore: A City of Campaigns.md"
