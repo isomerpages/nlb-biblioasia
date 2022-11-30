@@ -60,6 +60,14 @@ Muhammad Ariff’s many contributions to the community are a manifestation of hi
 <center>What should I become?<br> The Kiayi says: Be as complete as a<br> human can be<br> to the Creator, to others — have piety,<br> have compassion<br> so that you will get Allah’s blessings,<br> even the people will respect you<br> this will benefit you in life, even in the<br> hereafter, you will not lose anything…<br></center>
 
 
+<div>
+<b>Juffri Supa’at</b> is a Senior Librarian with the National Library. He curated the exhibition “Sumbangsih MAS” featuring works by literary pioneer, Muhammad Ariff Ahmad. Juffri compiled a selection of Muhammad Ariff Ahmad’s poetry and also put together a comprehensive bibliography of his works.</div>
+
+	
+	
+
+
+
 
 #### **REFERENCES**
 
@@ -74,13 +82,3 @@ Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (Ed.). (2005). [_Leksikon: Direktor
 Muhammad Ariff Ahmad. (2003). [_Perjalanan Mas: Memoir Muhammad Ariff Ahmad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12236487). Singapore: Angkatan Sasterawan’ 50. (Call no.: Malay RSING q499.28092 MUH)
 
 Razak Jaafar. (1974, May 12). [Janganlah jadikan taman ini medan bersenda seperti hippi dalam khayalan pil MX](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19740512-1.2.25.2). _Berita Harian_, p. 5. Retrieved from NewspaperSG.
-	
-
-
-
-
-
-
-
-
-
