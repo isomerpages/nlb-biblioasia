@@ -54,6 +54,9 @@ In 1947, Muhammad Ariff completed his first novel *Menyahut Seruan Ibunda* (*Ans
 Muhammad Ariff believes that writing is his responsibility, one that allows his fellow countrymen to view life positively and lead a meaningful existence. For instance, his novelette *Sarah Pengarang Kechil*, published in 1957, exemplified his concerns on the importance of education in order for the next generation to achieve success. The novelette was adopted as a textbook for Malay literature. The novel *Mail Mau Kawin* (*Mail Wants to Wed*), published in 1976, considers the issues of the Malay community at that time. The importance of lifelong learning was subtly touched on as one of the ways to overcome the vicious cycle of poverty. Another example is the poem “Is it true?”, which gave rise to controversy when it was published in *Berita Harian* in 1974.
 
 
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
+ <div style="background-color: white;">Works by Muhammad Ariff Ahmad, such as <i>Adam Kena Hujan, Suara Guru and Sarah Pengarang Kechil</i>, were on display at the exhibition.
+</div>
 
 “Is It True” encouraged readers to reflect and compare Truth and Falsehood. It is a simple poem but has a very deep meaning. The poem was able to provoke readers to think about life via the beauty of poetry.
 
