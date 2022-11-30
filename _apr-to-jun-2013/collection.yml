@@ -2,8 +2,6 @@ collections:
   apr-to-jun-2013:
     output: true
     order:
-      - "Writing to Print: The Shifting Roles of Malay Scribes in the 19th
-        Century.md"
       - Director's Column.md
       - From Garden City to Gardening City.md
       - "Oriental, Utai, Mexican: The Story of the Singapore Jewish Community.md"
@@ -12,3 +10,5 @@ collections:
       - "Icons of Learning: The Redesign of the Modern Library.md"
       - An introduction to Design, Aesthetics and Ethics of the Built
         Environment.md
+      - "Writing to Print: The Shifting Roles of Malay Scribes in the 19th
+        Century.md"
