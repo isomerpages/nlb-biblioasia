@@ -17,9 +17,27 @@ Family planning was another major focus for campaigns in the late 1960s and 1970
 
 As the Singapore society became more affluent in the 1980s and 1990s, improving the qualitative values of Singaporeans became the focal point of campaigns. Leading this was the National Courtesy Campaign. Inaugurated in 1979, the aim of the campaign was to create a pleasant social environment where people were cultured, considerate and thoughtful of each other’s needs.9 The campaign was initially represented by a Smiley logo and had the slogan “Make Courtesy Our Way of Life”. This was subsequently replaced by Singa the Courtesy Lion mascot in 1982.10
 
-The Speak Mandarin Campaign was another campaign introduced to develop better qualitative skills for Singaporeans, particularly the communication skills among Chinese Singaporeans.11 When the campaign was launched in 1979, it was believed that the use of dialects was hampering the bilingual educational policy for the Chinese in Singapore. As a result, the government felt that there was a need to simplify the language environment of the Chinese by encouraging them to speak Mandarin in place of dialects. The government also held the view that a strong Mandarinspeaking environment would help the Chinese better appreciate their culture and heritage.
 
+<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Smiley.jpg">
+ <div style="background-color: white;"
+>The face of the courtesy campaign was originally Smiley before Singa the Courtesy Lion took over in 1982. <i>Kindness Movement Collection, courtesy of National Archives of Singapore.</i></div>	
+	
+The Speak Mandarin Campaign was another campaign introduced to develop better qualitative skills for Singaporeans, particularly the communication skills among Chinese Singaporeans.11 When the campaign was launched in 1979, it was believed that the use of dialects was hampering the bilingual educational policy for the Chinese in Singapore. As a result, the government felt that there was a need to simplify the language environment of the Chinese by encouraging them to speak Mandarin in place of dialects. The government also held the view that a strong Mandarin speaking environment would help the Chinese better appreciate their culture and heritage.
+	
+
+	
+<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/SpeakMandarin.jpg">
+ <div style="background-color: white;">The Speak Mandarin Campaign encouraged the local population to adopt the Chinese language instead of dialects. <i>Promote Mandarin Council Collection, courtesy of National Archives of Singapore.</i>
+</div>	
+	 
+	
 To improve the qualitative skills of Singaporeans in the workplace, the government launched the National Productivity Movement in 1982. Fronted by Teamy the Productivity Bee mascot, the campaign was aimed at raising the productivity of the labour force. The campaign was endorsed as Singapore was moving from labour-intensive activities to more highly-skilled and technology-driven work. The campaign had a positive effect on the workforce’s productivity level. Between 1981 and 1990, Singapore’s productivity growth increased by 4.8 per cent, and since then, its workforce has been assessed to be one of the best in the world.12
+
+
+<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Productivitybee.jpg">
+ <div style="background-color: white;">Teamy the Productivity Bee was a familiar figure during the nation’s push to increase the productivity of the Singaporean labour force. <i>SPRING Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+	
+	
 
 #### **Past Campaign Promotion Strategies**
 
@@ -32,6 +50,12 @@ Using the civil service to set good examples was another strategy that was frequ
 Throughout the rest of the 1990s and the first decade of the new millennium, the government continued to use campaigns to communicate with the population. The many campaigns that were introduced during this period included the “Great Singapore Workout” in 1993, the “Speak Good English Movement” in 2000 and the “Romancing Singapore” campaign in 2003.19 As the frequency of campaigns grew, it was felt that Singaporeans were slowly becoming immune to the messages campaigns were conveying.20
 
 Indeed, in almost every part of the island today, be it in a park, food court, building or any other public space, there is a high chance that a person will come across posters, banners, stickers or other collaterals promoting one campaign or another. With the advent of social media tools such as Facebook, Twitter, YouTube and mobile apps, it is common for Singaporeans to come across campaigns on these platforms.
+
+
+<img style="width:70%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Poster.jpg">
+ <div style="background-color: white;">
+A poster encouraging Singaporeans to keep their surroundings clean. <i>Ministry of Environment and Water Resources Collection, courtesy of National Archives of Singapore.</i></div>
+	
 
 In order to preserve and maintain the relevance of campaigns, the government has started taking steps to revise the way campaigns are conducted.21
 
@@ -53,6 +77,3 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
 <b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He has co-edited two books<i> Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is currently conducting research on the Eurasian community for an upcoming National Library exhibition.
 </div>
-
-
-
