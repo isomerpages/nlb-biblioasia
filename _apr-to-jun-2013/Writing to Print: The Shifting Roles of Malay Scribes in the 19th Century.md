@@ -121,7 +121,7 @@ Gallop, A.T. (1990). Early malay printing: An introduction to the British Librar
 
 Proudfoot, I. (1997). Mass producing Houri’s moles or aesthetics and choice of technology in early Muslim book printing. In P.G. Riddell & T. Street (Eds.). _Islam: Essays in scripture, thought and society: A festschrift in honour of Anthony H. Johns_. Leiden: Brill. (Not available in NLB holdings)
 
-van der Putten, J. (1997). Printing in Riau: Two steps towards modernity_. Bijdragen tot de Taal-,Land-en Volkenkunde, Riau in Transition_, 153 (4), 717–736. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+van der Putten, J. (1997). Printing in Riau: Two steps towards modernity. *Bijdragen tot de Taal-,Land-en Volkenkunde, Riau in Transition*, *153* (4), 717–736. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 #### **NOTES**
 
@@ -140,31 +140,3 @@ van der Putten, J. (1997). Printing in Riau: Two steps towards modernity_. Bijdr
 [^7]: van der Putten, 1997.
 
 [^8]: Altbach & Hoshino, 1995, p. 479.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
