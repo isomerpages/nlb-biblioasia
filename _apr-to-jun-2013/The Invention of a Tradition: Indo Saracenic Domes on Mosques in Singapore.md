@@ -146,9 +146,9 @@ Building Plans Microfilm Collection
 
 **Newspapers**
 
-The Straits Times
+*The Straits Times*
 
-The Singapore Free Press
+*The Singapore Free Press*
 
 **Books**
 
@@ -250,10 +250,3 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 [^33]:. Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
 
 [^34]: [Chattopadhyay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180), 2005, p. 9.
-
-
-
-
-
-
-
