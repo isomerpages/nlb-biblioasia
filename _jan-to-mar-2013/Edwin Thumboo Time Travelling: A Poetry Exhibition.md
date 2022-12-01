@@ -11,7 +11,7 @@ description: "“Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two
 
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Main%20Exhibition.jpg">
+<img style="width:90%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Main%20Exhibition.jpg">
  <div style="background-color: white;">The Main Exhibition is a quiet induction into the creative and personal realms of our pioneer poet.
 </div>
 
@@ -29,7 +29,7 @@ In 1953, he entered the University of Malaya and majored in History and English 
 Thumboo’s undergraduate years are notorious for yet another event, his involvement with the organ of the University Socialist Club, Fajar. The journal’s anti-colonial editorial “Aggression in Asia” (published in its seventh issue in May 1954) caused its nine-member team, which included Thumboo, to be arrested by the British government.
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Rolltop%20writing%20desk.jpg">
+<img style="width:90%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Rolltop%20writing%20desk.jpg">
  <div style="background-color: white;">
 This rolltop writing desk, a donation to the National Library in 2006 as part of the Edwin Thumboo Collection, showcases books that reveal Thumboo’s early literary influences, in particular, W.B. Yeats. Thumboo saw Yeats’ struggle for Irish independence as parallel to Singapore’s fight against the residues of colonialism.	
 </div>
@@ -46,7 +46,7 @@ Thumboo’s Masters dissertation on African poetry in English was upgraded to a 
 While his earlier poetry reflected a deeply personal voice, Thumboo’s most significant work took root when he merged poetry and public concerns with the publication of *Gods Can Die* in 1977 and *Ulysses by the Merlion* in 1979. These two collections made clear his nationalist impulse and established his belief that Singaporean writers should work to shape and expound their nation’s identity.
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Table%20Talk.jpg">
+<img style="width:90%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Table%20Talk.jpg">
  <div style="background-color: white;">
 Some of Thumboo’s better known works focus on Singapore’s multiracial culture. This installation, “Table Talk” gives insight into how Thumboo's poetry approaches the question of a common national identity.
 </div>	
@@ -76,7 +76,7 @@ Thumboo has witnessed more triumphs and trials than most in his multi-faceted li
 This exhibition is part of the National Library of Singapore’s Literary Heritage Series and showcases the impressive list of contributions Thumboo has made to Singapore’s cultural landscape in his prolific career as a scholar, academic, poet and literary critic. On display are handwritten manuscripts of Thumboo’s iconic poems such as “Ulysses by the Merlion,” “The Cough of Albuquerque”, “Gods Can Die” and “The Way Ahead”. Rare photographs of the pioneer poet’s youth and family members from his private collection that give glimpses into a bygone era were also showcased.
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/colonial-era%20Singapore.jpg">
+<img style="width:90%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/colonial-era%20Singapore.jpg">
  <div style="background-color: white;">A selection of photographs showing scenes from colonial-era Singapore brings visitors down memory lane.
 </div>
 
