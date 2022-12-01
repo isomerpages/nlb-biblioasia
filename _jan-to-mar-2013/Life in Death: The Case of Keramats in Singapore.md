@@ -11,6 +11,10 @@ description: Keramats (or shrines) have endured the fast-paced changes
 
 #### Keramats (or shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
 
+
+<img style="width:70%;" src="/images/Vol%208%20issue%204/Keramats/HABIB%20NOH%20KERAMAT.jpg">
+ <div style="background-color: white;">Keramat Habib Noh located at Palmer Road is the resting place of Habib Noh bin Muhamad Al-Habshi, a highly regarded mystic. Worshippers from as far as China come here to pray to or pay their respects. <i>Courtesy of National Archives of Singapore.</i></div>
+
 It is the religious syncretism and symbolism that has been imbibed in these keramats that allow for such a relic to still remain relevant to Singaporeans in this modern era. Within the keramat are embedded the ebb and flow of Singapore’s history and its continuing evolution. In essence, the keramat is not just a monument of remembrance for the dead, but also a rallying point for the living.
 
 Despite being hidden away in the folds of Singapore’s concrete jungle, keramats and keramat-worship are far from being entrenched in the forgotten annals of history. The entrances to many of these keramats are often “invisible”, seemingly quiet, offering respite from the heat and throngs of people. What we mistake for wooden huts, serene and seemingly forgotten, belie the hopes, dreams and prayers of those who have taken a chance to lay their most personal needs and desperation in the forms of fragrant offerings at the foot of a grave of a person they have never met, much less a faith in which they do not believe.
@@ -47,8 +51,20 @@ This syncretism is also noted by renowned French scholar, Chambert-Loir, who obs
 
 The keramats at Kusu Island (previously known as Pulau Tembakul)12 provide an interesting glimpse into the hybridity that transcends both race and religion. The annual, month-long Kusu Pilgrimage to the Da Bo Gong (Tua Pek Kong) Temple and the Malay Keramat, attracts pilgrims as far away as Hong Kong.13 The latter is supposedly the tomb of Syed Abdul Rahman, an Arab traveller who, according to legend, was saved by a tortoise during a treacherous journey and brought to Kusu Island. He continued to pay respects at Kusu Island and was finally laid to rest there. The Chinese have come to worship this keramat as the native Malay equivalent of Da Bo Gong, and refer to it as Datok Kong, or Na Du Gong (Loo, 2007). The term “Datok Kong” itself is indicative of the Sino-Malay interactions entrenched in keramat-worship–“Datok” and “Kong” are both synonyms meaning “grandfather” in Malay and Chinese respectively, and is used generically for the worship of a venerated person of Malay or native origin (Cheu, 1996). Worshippers are also not limited to any specific class, and include wealthy businessmen, entrepreneurs or ordinary laymen desiring better riches and luck in life.
 
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Keramats/temple%20at%20kusu%20island1.jpeg">
+ <div style="background-color: white;">The temple at Kusu Island draws thousands of devotees and worshippers every year.  <i>Courtesy of National Archives of Singapore.</i>
+</div>
+
+
+
 Sino-Malay influences can be seen in the decoration of this keramat as well, with the juxtaposition of the emblematic green-coloured Crescent and Star indicative of the Islamic faith and the yellow banner with bold red Chinese characters that read “Na Du Gong” and hangs above the keramat. Even the donation box is inscribed with “Waatlaa \[sic\] Heng Heng Lai” (Prosper! May good luck come!). Burning joss sticks and incense adorn the front of the keramat, left behind after worshippers have made their prayers and given their due respect. Also, as a form of respect, visitors are encouraged not to bring any food or lard to the island.14 It is probably wise to note here, despite the supposed origins of this keramat, that Muslims no longer visit the Kusu Keramat. Cheu (1996) reiterates and concludes in his paper that “more and more Chinese have adopted the keramats as less and less Malays worship them in the wake of Islamic revival in the 1980s”. Kusu Keramat is relatively well-known by the generic name of “Malay Keramat” (since the supposed Syed Abdul Rahman is Arab, nothing about the shrine is Malay except its caretakers) and not tied to a known saint, indicating that this keramat has been popularised by Chinese religionists.
 
+<img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/FortCanning%20KeramatIskandarShah.jpg">
+ <div style="background-color: white;">The Keramat Sultan Iskandar Shah on Fort Canning Hill is believed to be the burial place of one of the last kings (Iskandar Shah) to rule in Singapore in the 14th century. <i>All Rights Reserved. National Library Board Singapore 2004.</i></div>
+	
+	
 <center>Although initially regarded as a rural Malay practice by colonial scholars (Winstedt 1924, Skeat 1967), other forms of such veneration, that is, ancestral and deity worship, were already practised by Chinese religionists and Hindus in British Malaya.</center>
 
 Makam15 Habib Noh, located on Mount Palmer, is another important site to consider. Quite unlike the Kusu Keramat, the Makam Habib Noh is anchored by a definite personality, the saint Habib Noh16, who is highly revered in Muslim circles and is situated within Singapore’s Central Business District. Still, worshippers to the keramat are not unlike those at Kusu. OΩerings of bananas, yellow rice, bottles of opened water (to be blessed) and burning incense are just some of the offerings found at the keramat. The variety of offerings is also denotative of the different cultures that frequent them.17
@@ -76,7 +92,3 @@ Keramats are a lived reality and a window to Singapore’s past. From a sociolog
 
 <div>
 <b>Liyana</b> is an Assistant Curator with the National Library, Exhibitions and Curation. She has recently concluded work on Yang Menulis (They Who Write), an inaugural collaboration between NLB and the Malay Heritage Centre, National Heritage Board. Yang Menulis will feature at the National Library Building, Level 10 from end March 2013 and will have a free companion publication of the same name. This is Liyana’s first contribution to <i>BiblioAsia</i>,.
-
-
-
-
