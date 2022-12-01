@@ -63,8 +63,7 @@ Though 1924 had the lowest infantile death rate in a decade, infant deaths still
 
 The large numbers of infantile deaths did not originate from the convent itself, a mission school established in 1854 by the Charitable Sisters of the Convent of the Holy Infant Jesus to “educate girls of all classes”.12 The infant deaths came from the convent orphanage, which was established simultaneously with the school. Unwanted babies, wrapped in newspapers or rags, were usually abandoned at the side gate of the convent, known as the “The Gate of Hope”.13 The Gate was ironically named – the majority of babies abandoned there perished. Prior to their deaths, the babies were baptised into the Roman Catholic faith and were given French Roman Catholic names.14 This would account for the disproportionately large numbers of Christian deaths in the census report of 1921 when the Christian population of Singapore comprised only five percent of the population.15
 
-
-<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/chij.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/Convent.jpg">
  <div style="background-color: white;">
 The Convent of the Holy Infant Jesus was also home to an orphanage. Many parents who were unable to care for their newborns left them at the Gate of Hope to be taken in by the sisters of the orphanage. <i>Courtesy of National Archives of Singapore.</i></div>
 	
