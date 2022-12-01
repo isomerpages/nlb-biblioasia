@@ -109,3 +109,134 @@ As a historical resource, the burial registers shed light on the morbidity and m
 <div>
 <b>Genevieve Wong</b> is a Senior Officer with SPRING Singapore. This article is based on her honours dissertation, <i>Grave Matters: The Burial Registers and Singapore History</i>, completed in 2011 at the Department of History, National University of Singapore.
 </div>
+
+#### **REFERENCES**
+
+      
+**Primary Sources**
+
+**Unpublished Official Records**
+
+Administration reports of the Singapore municipality, 1924.
+
+Burial registers of Bidadari Cemetery, 1918–1972.
+
+Burial registers of Bukit Brown Cemetery, 1922–1945.
+
+Burial registers of Bukit Timah Road Old Christian Cemetery, 1872–1895.
+
+Burial registers Chua Chu Kang Cemetery, 1955–1975.
+
+CO273 Straits Settlements, Blue Book, 1924.
+
+**Published Official Records**
+
+Simpson, W.J. (1907). _Report on the Sanitary condition of Singapore_. London: Waterlow and Sons. Retrieved from OneSearch catalogue.
+
+**Newspapers**
+
+_The Straits Times_, 1924–1983.
+
+**Secondary Sources**
+
+**Books**
+
+Braddell, R. (1934). [_The lights of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129) (pp. 69–90). London: Methuen & Co. (Call no.: RRARRE 959.57 BRA; Microfilm no.: NL25437)
+
+Chan., K. B. & Tong, C.K.,  (Eds.), [_Past times: A social history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570). Singapore: Times Edition. (Call no.: RSING 959.57 PAS)
+
+Cohn, B.S. (1996). [_Colonialism and its form of knowledge: The British in India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. 4.). New Jersey: Princeton University Press. (Call no.: R 954 COH)
+
+Jaschok, M., & Miers, S. (Eds.) (1994). [_Women and Chinese patriarchy: Submission, servitude and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205). Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
+
+Kong, L., & Yeoh, B.S.A. (2003). [_The politics of landscape in Singapore_: Construction of _nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279). New York: Syracuse University Press. (Call no.: RSING 320.95957 KON)
+
+Loh, K.S. & K.K. Liew, K.K. (Eds.), [_The makers & keepers of Singapore history_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770). Singapore: Ethos Books. (Call no.: RSING 959.570072 MAK)
+
+Manderson, L. (1996). [_Sickness and the State: Health and Illness in colonial Malaya, 1870–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543). New York: Cambridge University Press. (Call no.: RSEA 362.1095951 MAN)
+
+Meyers, E. (2004). [_Convent of the Holy Infant Jesus: 150 years in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12427695). Penang: The Lady Superior. (Call no.: RSING q371.07125957 MEY)
+
+Warren, J.F. (2003). [_Rickshaw coolie: A people’s history of Singapore 1880–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063). Singapore: Singapore University Press. (Call no.: RSING 388.341 WAR)
+
+Wijeysingha, E in collaboration with Reve Francis Rene Nicolas. [_Going forth: The Catholic Church in Singapore 1819–2004_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12747544) (2006). Singapore: Titular Roman Catholic Archbishop of Singapore. (Call no.: RSING 282.5957 WIJ)
+
+Yeoh, B.S.A. (2003). [_Contesting space in colonial Singapore: Power relations and the urban built environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+
+**Articles**
+
+Middleton, W.R.C. (1911, July). The working of births and deaths registration ordinance. (1911, July). [_Malaya Medical Journal_](https://eresources.nlb.gov.sg/printheritage/detail/f14a7729-d479-4f63-a5d8-bb7a25d97b99.aspx)_, 9_ (3), 45–46. (From BookSG)
+
+**Dissertations**
+
+Singh, K. (1990). [_Municipal sanitation in Singapore 1887–194_0](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172093) (p. 39). Singapore: NUS, Department of History. (Call no.: RCLOS 363.72095957 KUL)
+
+
+#### **NOTES**
+
+[^1]: 11 January 1924 was recorded to have had one of the highest rainfalls in that month.” Meteorological Observations, 1924”, _[Blue Book for the Year 1924](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201120998)_ (Singapore: G.P.O., 1925), p. 479.
+
+[^2]: Val D. Greenwood, _The Researcher’s Guide to American Genealogy_ (Maryland: Genealogical Publishing, 2000), p. 61.
+
+[^3]: James Francis Warren, _[Rickshaw Coolie: A People’s History of Singapore 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)_ (Singapore: Singapore University Press, 2003), p. 8.
+
+[^4]: Bernard S. Cohn, _[Colonialism and its Forms of Knowledge: The British in India](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745)_ (New Jersey: Princeton University Press, 1996), p. 4.
+
+[^5]: Parliamentary Debates, 7 Apr 1978, quoted in Lily Kong and Brenda S. A. Yeoh, _[The Politics of Landscape in Singapore: Constructions of “Nation”](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279)_ (New York: Syracuse University Press, 2003), p. 57.
+
+[^6]: Huang Jianli, “Walls, Gates and Locks: Reflections on Sources for Research on Student Political Activism”, in Loh Kah Seng and Liew Kai Khiun, eds. _[The Makers and Keepers of Singapore History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770)_ (Singapore: Ethos Books: Singapore Heritage Society, 2010), p. 34.
+
+[^7]: [Warren](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063), Rickshaw Coolie, p. 259.
+
+[^8]: Lenore Manderson, _[Sickness and the State: Health and Illness in Colonial Malaya, 1870 – 1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543)_ (New York: Cambridge University Press, 1996), pp. 17—18.
+
+[^9]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 4.
+
+[^10]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 27.   
+
+[^11]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 27.   
+
+[^12]: E. Wijeysingha in collaboration with Rev Fr. René Nicolas, _[Going Forth: The Catholic Church in Singapore 1819—2004](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12747544)_ (Singapore: Titular Roman Catholic Archbishop of Singapore, 2006), p. 236.
+
+[^13]: [Wijeysingha](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12747544), p. 261.
+
+[^14]: [Convent takes over 50 babies a month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480902-1.2.58). (1948, September 2). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+[^15]: Lily Kong and Tong Chee Kiong, “Believing and Belonging: Religion in Singapore”, in Chan Kwok Bun and Tong Chee Kiong, eds. _[Past Times: A Social History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)_ (Singapore: Times Edition, 2003), p. 200.
+
+[^16]: [1500 babies abandoned in colony](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500104-1.2.86). (1950, January 4). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+[^17]: Maria Jaschok and Suzanne Miers, “Women in the Chinese Patriarchal System: Submission, Servitude, Escape and Collusion” in Maria Jaschok and Suzanne Miers, eds. _[Women and Chinese Patriarchy: Submission, Servitude and Escape](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205)_ (Hong Kong: Hong Kong University Press, 1994), p. 7.
+
+[^18]: [Tragedy of Singapore’s unwanted babies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461114-1.2.93). (1946, November 14). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
+
+[^19]: Elaine Meyers, _[Convent of the Holy Infant Jesus: 150 Years in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12427695)_ (Penang: The Lady Superior, 2004), p. 62.
+
+[^20]: “Clinics”, _Administration Report of the Singapore Municipality for the year 1924_ (ARSM) (Singapore: Straits Printing Office, 1925)
+
+[^21]: “Clinics”, ARSM, 1925.
+
+[^22]: W.R.C. Middleton, “The Working of the Births and Deaths Registration Ordinance”, _[Malaya Medical Journal](https://eresources.nlb.gov.sg/printheritage/detail/f14a7729-d479-4f63-a5d8-bb7a25d97b99.aspx)_, Vol. IX, Jul 1911, Part 3 (Singapore: The Methodist Printing House, 1911), pp. 45—46.
+
+[^23]: [Child Welfare Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240425-1.2.59). (1924, April 25). _The Straits Times_, p. 9. Retrieved from NewspaperSG; [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480902-1.2.58), 2 Sep 1948, p. 5.
+
+[^24]: W. J. Simpson, _Report on the Sanitary Condition of Singapore_ (London: Waterlow and Sons, 1907), p. 13.
+
+[^25]: Kuldip Singh, _[Municipal Sanitation in Singapore, 1887—1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172093)_ (Singapore: NUS, Department of History, BA Hons. Academic Exercise, 1989/1990), p. 39.
+
+[^26]: Brenda S. A. Yeoh, _[Contesting Space in Colonial Singapore : Power Relations and the Urban Built Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)_ (Singapore: Singapore University Press, 2003), p. 141.
+
+[^27]: Convulsions and enteritis were indefinite headings that served as umbrella terms for deaths due to dietetic errors, malaria and tetanus, in “The Straits Settlement Medical Report for the year 1926”.
+
+[^28]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240227-1.2.26)_, 27 Feb 1924, p. 8.
+
+[^29]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), pp. 142—143.
+
+[^30]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), pp. 142—143.
+
+[^31]: “Clinics”, ARSM, 1924.
+
+[^32]: Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Methuen & Co. Ltd, 1934), pp. 69—70.
+
+
+
