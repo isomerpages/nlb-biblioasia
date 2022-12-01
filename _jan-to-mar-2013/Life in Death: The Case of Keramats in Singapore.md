@@ -53,7 +53,7 @@ The keramats at Kusu Island (previously known as Pulau Tembakul)12 provide an in
 
 
 
-<img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/temple%20at%20kusu%20island1.jpeg">
+<img style="width:60%;" src="/images/Vol%208%20issue%204/Keramats/temple%20at%20kusu%20island1.jpeg">
  <div style="background-color: white;">The temple at Kusu Island draws thousands of devotees and worshippers every year.  <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
