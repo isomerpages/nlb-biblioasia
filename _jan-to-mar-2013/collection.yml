@@ -2,7 +2,7 @@ collections:
   jan-to-mar-2013:
     output: true
     order:
-      - "Life in Death: The Case of Keramats in Singapore.md"
       - Director's Column.md
       - "Singapore: A City of Campaigns.md"
       - "Edwin Thumboo Time Travelling: A Poetry Exhibition.md"
+      - "Life in Death: The Case of Keramats in Singapore.md"
