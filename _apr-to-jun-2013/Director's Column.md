@@ -3,6 +3,7 @@ title: Director's Column
 permalink: /vol-9/issue-1/Apr-Jun-2013/director-column/
 description: ""
 ---
+
 “A Room of One’s Own”,Virginia Woolf’s 1929 essay, argues for the place of women in the literary tradition. The title also makes for an apt underlying theme of this issue of BiblioAsia,which explores finding one’s place and space in Singapore.
 
 With 5.3 million people living in an area of 710 square kilometres, intriguing solutions in response to finding space can emerge from sheer necessity. This issue, we celebrate the built environment: the skyscrapers, mosques, synagogues, and of course, libraries, from which stories of dialogue, strife, ambition and tradition come through even as each community attempts to find a space of its own and leave a distinct mark on where it has been and hopes to thrive.
