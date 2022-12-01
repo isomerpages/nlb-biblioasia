@@ -7,7 +7,7 @@ description: "“Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two
   and Selected Place Poems were officially launched on 29th September by Mr S
   Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd."
 ---
-#### “Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two accompanying publications, Edwin Thumboo: Time-Travelling— A Select Annotated Bibliography as well as Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems were officially launched on 29th September by Mr S Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd.
+#### “Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two accompanying publications, <i>Edwin Thumboo: Time-Travelling— A Select Annotated Bibliography</i> as well as <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> were officially launched on 29th September by Mr S Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd.
 
 
 
