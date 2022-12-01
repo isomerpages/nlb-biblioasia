@@ -5,6 +5,11 @@ description: ""
 ---
 On 11 January 1924, amidst the pouring rain, grave diggers at Bidadari Christian Cemetery lowered the bodies of Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin into their shared final resting place. As two nuns in their black habits from the Convent of the Holy Infant Jesus (CHIJ) stood silently witnessing the burial of the four infants, the oldest of whom had only been seven months old, the gravediggers started shovelling soil back into grave number 363 of the French Roman Catholic Pauper division. This was their only burial of the day and they were eager to get out of the rain.1 After all, infants from the convent orphanage seemed to die like flies. The nuns would come again tomorrow to deliver more baby corpses for burial.
 
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/bidadari%20cemetary.jpeg">
+ <div style="background-color: white;">The Bidadari Christian Cemetery. Burial registers offer a glimpse into the lives and conditions of early Singapore life. <i>Courtesy of National Archives of Singapore.</i></div>
+	
+
 Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin were individuals of no particular significance in Singapore’s history. They were, however, four of the 584 infants buried in Bidadari Christian Cemetery in 1924, a year in which the cemetery recorded a total of 960 internments. Together with death certificates, birth certificates, grave inscriptions and obituaries, the burial registers have commonly been used in tracing genealogy.2 However, the use of burial registers in writing social history has to date gone undiscovered. The astonishingly high number of infant deaths and the circumstances under which they died are but one of the fascinating stories that can be derived from the burial registers.
 
 
@@ -58,7 +63,18 @@ Though 1924 had the lowest infantile death rate in a decade, infant deaths still
 
 The large numbers of infantile deaths did not originate from the convent itself, a mission school established in 1854 by the Charitable Sisters of the Convent of the Holy Infant Jesus to “educate girls of all classes”.12 The infant deaths came from the convent orphanage, which was established simultaneously with the school. Unwanted babies, wrapped in newspapers or rags, were usually abandoned at the side gate of the convent, known as the “The Gate of Hope”.13 The Gate was ironically named – the majority of babies abandoned there perished. Prior to their deaths, the babies were baptised into the Roman Catholic faith and were given French Roman Catholic names.14 This would account for the disproportionately large numbers of Christian deaths in the census report of 1921 when the Christian population of Singapore comprised only five percent of the population.15
 
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/chij.jpg">
+ <div style="background-color: white;">
+The Convent of the Holy Infant Jesus was also home to an orphanage. Many parents who were unable to care for their newborns left them at the Gate of Hope to be taken in by the sisters of the orphanage. <i>Courtesy of National Archives of Singapore.</i></div>
+	
+	
+
 On the assumption that names were an accurate reflection of racial identity, of the 480 infantile deaths, the majority of infants (467) were Chinese, whose race could be inferred from Chinese names such as Gabrielle Wong Quek Soo, Joseph Loh Kum Hong and Therese Koo Tiong. The large numbers of Chinese infant abandonments at the convent could be due to a variety of factors, but were in all likelihood linked to cost and cultural beliefs. Chinese families who abandoned their child were usually too poor to afford funeral expenses and it was a common belief that a death in the house would bring misfortune.16 By abandoning their child at the convent, parents still had a thread of hope that their child would survive, or at the very least, be given a proper funeral. This led to the disproportionately large numbers of abandoned babies at the convent.
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/Parents%20and%20orphans,%20CHIJ,%201924.jpeg">
+ <div style="background-color: white;">Sisters and orphans at the Convent of the Holy Infant Jesus. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Within this group of 467 Chinese infants, the number of female infants doubled male infants at 311 females vis-a-vis 156 males. This was due to the Chinese cultural belief of practising preferential treatment of boys over girls.17 Because boys were regarded as more valuable, they were abandoned only when on the brink of death. This meant that while fewer male infants were abandoned, practically all male infants who were abandoned at the orphanage would die. In any case, despite the nuns’ care, most abandoned babies were “so undernourished and so ill that they \[had\] little chance of survival”.18 Though current literature records that the sisters cared for 200 children in 1892, and 400 children by 1936, the burial registers prove that the chillingly high number of 584 infant deaths in the single year of 1924 far exceeded the ones who lived.19
 
@@ -66,10 +82,23 @@ Within this group of 467 Chinese infants, the number of female infants doubled m
 
 Such findings reveal that the convent orphanage was established within the framework of colonial structures and reflected societal conditions that had necessitated a private institution for infant welfare. The colonial government evidently provided little aid in improving the environment for infants and in providing adequate healthcare. At the Administrative Records of the Singapore Municipality, the evidence gathered by the European District Visitors over a 12-year period proved that most babies were born healthy.20 However, about a quarter of them died within the first year, which meant that many of the infants had died from preventable causes.21 While infantile deaths could be ascribed to a variety of causes, such as inherited diseases, improper birth procedures, inadequate feeding and neglect, unsanitary conditions were more often than not responsible.22
 
+<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/S19172-slums-HQ.jpeg">
+ <div style="background-color: white;">
+Poor and squalid living conditions of the slums resulted in the proliferation of disease. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Health was closely intertwined with place of residence, which could determine how one lived and died. Most of the babies abandoned at the convent came from “cursed cubicle\[s\]” within “slums of Chinatown, the squatter areas in Silat Road and the poor rural areas”.23 Such cubicles were usually “dark and ill-ventilated”’ rooms that could easily be repartitioned to accommodate more tenants.24 The erection of such partitions “extended to the ceiling, cutting off even a modicum of light and air”, creating ideal conditions for the spread of respiratory diseases.25 With no proper town planning, these slums also grew haphazardly, with “numerous immense blocks of houses stretch\[ing\] from street to street, without a single lane, alley or court of any description”.26 This obstructed the construction of an effective sewage disposal system and hindered the establishment of an urban water supply, contributing to the proliferation of water-borne diseases. Such conditions are reflected in the causes of death of infants, in which premature births and convulsions numbering 139 and 117 cases accounted for the largest causes of death. Premature births and convulsions were usually due to poor health conditions or poor nutrition of the mothers and infants, in which environmental factors that encouraged the spread of diseases had a significant part to play. Enteritis, an infection caused by the consumption of contaminated food and water, and pneumonia, an infectious airborne disease easily spread in close living quarters, also claimed the lives of 82 and 58 infants respectively.27 The environment in 1924 thus created ideal conditions for diseases to befall those with weak immune systems, making pregnant mothers and infants the most susceptible.
 
-Colonialism lay at the root of the problem of overcrowded housing and the spread of diseases. The British had fundamentally changed the social landscape through colonialism, which had brought in an influx of migrants and accompanying new pathogens. However, that functioned as an alternative solution to the inadequate public healthcare system for infants. Roland Braddell, a visitor to Singapore in the 1920s, immortalised the uplifting courage of the convent nuns in caring for abandoned infants in his writing:
 
+<img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/Chinatown,%201920s%20.jpeg">
+ <div style="background-color: white;">
+The cramped and crowded streets of Chinatown in the 1930s. <i>Courtesy of National Archives of Singapore.</i></div>
+
+Colonialism lay at the root of the problem of overcrowded housing and the spread of diseases. The British had fundamentally changed the social landscape through colonialism, which had brought in an influx of migrants and accompanying new pathogens. However, they had not developed an urban infrastructure to accommodate the rapidly increasing population. Despite recognising the dire state of the housing situation in Singapore by 1910, as highlighted by Simpson’s Report on the sanitary condition of Singapore in 1907, “no real attempt \[was\] made to grapple with the problem” by 1924.28 Instead, blame was cast upon the “Asiatic ignorance and apathy” of those who were “filthy in their habits beyond all European conceptions of filthiness”.29 Even though overcrowding housing practices affected the health of the poor adversely, they lived in such conditions out of necessity and the lack of other affordable housing options. Since “neither the colonial government, the municipality, nor the private sector were prepared to shoulder the expense of providing housing for the Asian labouring classes”, the poor had to adapt through maximising the little amount of available space in the city.30
+
+Because the colonial government was unprepared to undertake expensive large-scale sanitary reforms to revamp the slums, they instead focused their efforts on the small-scale establishments of two infant welfare clinics in 1923 at the Registration and Vaccination depots at Prinsep Street and Kreta Ayer Street, which saw 5,338 consultations in 1924.31 This was a mere third of the 14,398 babies born that year, which indicated that the majority of babies had not undergone vaccinations or treatment. In the absence of mandatory health measures, the convent orphanage was a private institution that functioned as an alternative solution to the inadequate public healthcare system for infants.
+
+Roland Braddell, a visitor to Singapore in the 1920s, immortalised the uplifting courage of the convent nuns in caring for abandoned infants in his writing:
+	
 <center> A feeling of security and peace will descend upon you, with a vast respect for the courage and self-sacrifice of the quiet nuns...In the Convent unwanted babies of all races are left and are cared for...what a tremendous debt Singapore owes to the little ladies of the Convent.32</center> 
 
 Without having examined the burial registers, one might never have had cause to question the effectiveness of the orphanage in tending to these babies or the conditions of the babies at the time they were delivered to The Gate of Hope. Upon further investigation, one discovers that the convent orphanage was situated within a larger framework of colonial healthcare, housing discourses, and Chinese belief systems. Such insights are privy to the historian who analyses the burial registers over time to uncover patterns of morbidity and mortality that are unavailable from other sources. Further investigation in conjunction with the use of other sources reveals the dynamics within this discourse of health. Such everyday experiences of sickness and death as evinced from the burial registers contribute to constructing a historically richer picture of life in 1924.
@@ -81,10 +110,3 @@ As a historical resource, the burial registers shed light on the morbidity and m
 <div>
 <b>Genevieve Wong</b> is a Senior Officer with SPRING Singapore. This article is based on her honours dissertation, <i>Grave Matters: The Burial Registers and Singapore History</i>, completed in 2011 at the Department of History, National University of Singapore.
 </div>
-
-
-
-
-
-
-
