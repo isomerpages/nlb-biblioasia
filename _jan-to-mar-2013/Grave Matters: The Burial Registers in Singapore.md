@@ -98,7 +98,7 @@ Because the colonial government was unprepared to undertake expensive large-scal
 
 Roland Braddell, a visitor to Singapore in the 1920s, immortalised the uplifting courage of the convent nuns in caring for abandoned infants in his writing:
 	
-<center> A feeling of security and peace will descend upon you, with a vast respect for the courage and self-sacrifice of the quiet nuns...In the Convent unwanted babies of all races are left and are cared for...what a tremendous debt Singapore owes to the little ladies of the Convent.[^32]</center> 
+<center> A feeling of security and peace will descend upon you, with a vast respect for the courage and self-sacrifice of the quiet nuns...In the Convent unwanted babies of all races are left and are cared for...what a tremendous debt Singapore owes to the little ladies of the Convent.</center>[^32] 
 
 Without having examined the burial registers, one might never have had cause to question the effectiveness of the orphanage in tending to these babies or the conditions of the babies at the time they were delivered to The Gate of Hope. Upon further investigation, one discovers that the convent orphanage was situated within a larger framework of colonial healthcare, housing discourses, and Chinese belief systems. Such insights are privy to the historian who analyses the burial registers over time to uncover patterns of morbidity and mortality that are unavailable from other sources. Further investigation in conjunction with the use of other sources reveals the dynamics within this discourse of health. Such everyday experiences of sickness and death as evinced from the burial registers contribute to constructing a historically richer picture of life in 1924.
 
@@ -237,6 +237,3 @@ Singh, K. (1990). [_Municipal sanitation in Singapore 1887–194_0](https://eser
 [^31]: “Clinics”, ARSM, 1924.
 
 [^32]: Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Methuen & Co. Ltd, 1934), pp. 69—70.
-
-
-
