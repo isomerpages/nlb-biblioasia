@@ -175,4 +175,10 @@ Yahya. (1939, June 11). [Singapore’s Keramats: Wonder-working shrines sacred t
 
 [^17]: Please refer to Cheu (1996:11) ‘Table 1: Beliefs and Practices in Malay Keramat and Datuk Kong’ for a list of the different nuances and types of offering presented by the different cultural groups.
 
-Social Change in Pulau Kusu, 1965–2007, _New Zealand Journal of Asian Studies 11_, pp. 72—95.
+
+
+
+
+
+
+an Studies 11_, pp. 72—95.
