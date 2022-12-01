@@ -12,7 +12,7 @@ description: Keramats (or shrines) have endured the fast-paced changes
 #### Keramats (or shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
 
 
-<img style="width:70%;" src="/images/Vol%208%20issue%204/Keramats/HABIB%20NOH%20KERAMAT.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/HABIB%20NOH%20KERAMAT.jpg">
  <div style="background-color: white;">Keramat Habib Noh located at Palmer Road is the resting place of Habib Noh bin Muhamad Al-Habshi, a highly regarded mystic. Worshippers from as far as China come here to pray to or pay their respects. <i>Courtesy of National Archives of Singapore.</i></div>
 
 It is the religious syncretism and symbolism that has been imbibed in these keramats that allow for such a relic to still remain relevant to Singaporeans in this modern era. Within the keramat are embedded the ebb and flow of Singapore’s history and its continuing evolution. In essence, the keramat is not just a monument of remembrance for the dead, but also a rallying point for the living.
@@ -53,7 +53,7 @@ The keramats at Kusu Island (previously known as Pulau Tembakul)12 provide an in
 
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%204/Keramats/temple%20at%20kusu%20island1.jpeg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/temple%20at%20kusu%20island1.jpeg">
  <div style="background-color: white;">The temple at Kusu Island draws thousands of devotees and worshippers every year.  <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
