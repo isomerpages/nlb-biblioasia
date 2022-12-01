@@ -9,6 +9,13 @@ description: "“Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two
 ---
 #### “Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two accompanying publications, Edwin Thumboo: Time-Travelling— A Select Annotated Bibliography as well as Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems were officially launched on 29th September by Mr S Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd.
 
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Main%20Exhibition.jpg">
+ <div style="background-color: white;">The Main Exhibition is a quiet induction into the creative and personal realms of our pioneer poet.
+</div>
+
+
 #### **A Many-splendored Life**
 
 Edwin Nadason Thumboo was born in Singapore on 22 November 1933 to a Tamil schoolteacher and a Teochew-Peranakan homemaker. His grandfather came from Madras in the 1880s but moved to Johor, retiring eventually as Superintendent of the Public Works Department in Muar.
@@ -21,6 +28,12 @@ In 1953, he entered the University of Malaya and majored in History and English 
 
 Thumboo’s undergraduate years are notorious for yet another event, his involvement with the organ of the University Socialist Club, Fajar. The journal’s anti-colonial editorial “Aggression in Asia” (published in its seventh issue in May 1954) caused its nine-member team, which included Thumboo, to be arrested by the British government.
 
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Rolltop%20writing%20desk.jpg">
+ <div style="background-color: white;">
+This rolltop writing desk, a donation to the National Library in 2006 as part of the Edwin Thumboo Collection, showcases books that reveal Thumboo’s early literary influences, in particular, W.B. Yeats. Thumboo saw Yeats’ struggle for Irish independence as parallel to Singapore’s fight against the residues of colonialism.	
+</div>
+
 After an interrogated member resigned, the remaining eight were charged for sedition in the first of such trials conducted in Singapore. The students were later acquitted as a result of their defence by British King’s Counsel D N Pritt and his junior counsel, the young Lee Kuan Yew.
 
 
@@ -31,6 +44,13 @@ Thumboo’s Masters dissertation on African poetry in English was upgraded to a 
 #### **Spearheading Singapore’s Literary Arts Development**
 
 While his earlier poetry reflected a deeply personal voice, Thumboo’s most significant work took root when he merged poetry and public concerns with the publication of *Gods Can Die* in 1977 and *Ulysses by the Merlion* in 1979. These two collections made clear his nationalist impulse and established his belief that Singaporean writers should work to shape and expound their nation’s identity.
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Table%20Talk.jpg">
+ <div style="background-color: white;">
+Some of Thumboo’s better known works focus on Singapore’s multiracial culture. This installation, “Table Talk” gives insight into how Thumboo's poetry approaches the question of a common national identity.
+</div>	
+
 
 He also explored ways of using anthologies to raise the literary consciousness and standards in Singapore and Malaysia. His first important collection was *The Flowering Tree*, published in 1970. *Seven Poets* appeared three years later and featured Wong Phui Nam, Goh Poh Seng, Wong May, Mohammad Haji Salleh, Lee Tzu Pheng, and Thumboo as strong regional voices. In 1979, he produced *The Second Tongue*, which carried his seminal introduction to a range of emerging poets in Singapore and Malaysia.
 
@@ -55,6 +75,11 @@ Thumboo has witnessed more triumphs and trials than most in his multi-faceted li
 
 This exhibition is part of the National Library of Singapore’s Literary Heritage Series and showcases the impressive list of contributions Thumboo has made to Singapore’s cultural landscape in his prolific career as a scholar, academic, poet and literary critic. On display are handwritten manuscripts of Thumboo’s iconic poems such as “Ulysses by the Merlion,” “The Cough of Albuquerque”, “Gods Can Die” and “The Way Ahead”. Rare photographs of the pioneer poet’s youth and family members from his private collection that give glimpses into a bygone era were also showcased.
 
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/colonial-era%20Singapore.jpg">
+ <div style="background-color: white;">A selection of photographs showing scenes from colonial-era Singapore brings visitors down memory lane.
+</div>
+
 Comprising three separate showcases at different locations within the National Library Building, the poetry exhibition teases out some of the most personal, nuanced aspects of the literary titan’s life.
 
 The multi-dimensional exhibition includes a “teaser” display, a re-creation of our pioneer poet’s study, at the Lobby of the National Library Building and the Main Exhibition located within the Reading Room at Level 8, National Library, which is a quiet and subtle induction of his public persona and his private realm as a poet and as a citizen. The Main Exhibition is thought-provoking and gives visitors access to Thumboo’s life and the times he has lived through, while allowing them to savour his works in a multi-sensory presentation.
@@ -67,6 +92,12 @@ Copies of the chapbook are currently available for free to members of the public
 
 The multi-sensory installations displayed in the Main Exhibition reveal both the trials and triumphs in Thumboo’s life as a public figure and private citizen. Poems written at different stages of his life are displayed alongside the installations. The sentiments expressed in these verses mirror the turning points in Thumboo’s life and significant moments in Singapore’s history.
 
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Edwin%20Thumboo/Double%20Helix.jpg">
+ <div style="background-color: white;">This installation, “Double Helix”, contemplates Singapore’s changing landscape, identity and place in the world. Visitors can listen to poetry readings of Thumboo's poems captured on MP3 players.
+</div>
+
 Framed by the Edwin Thumboo Collection as well as the Singapore and Southeast Asian English Literature Collections, the Main Exhibition highlights Thumboo’s literary influences and the critical role he plays as a poet, critic and scholar of Singapore Literature in English, as well as promoting and developing the literary arts scene in Singapore as well as in the region.
 
 <div>
@@ -74,7 +105,3 @@ Framed by the Edwin Thumboo Collection as well as the Singapore and Southeast As
 <br><br>
 <b>Gwee Li Sui</b> is an independent researcher, literary critic, poet, and graphic artist. He is the joint editor and compiler of <i>Edwin Thumboo–Time-travelling: A Selected Annotated Bibliography.</i> He obtained his doctorate from Queen Mary, University of London, for work on 18th century European literature in 2003 and lectured full-time at the National University of Singapore until 2009.
 </div>
-
-
-
-
