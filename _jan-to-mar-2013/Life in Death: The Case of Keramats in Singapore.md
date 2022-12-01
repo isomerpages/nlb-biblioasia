@@ -6,3 +6,10 @@ description: Keramats (or shrines) have endured the fast-paced changes
   centuries, keramats have obtained a symbolic significance that transcends the
   vibrant social fabric of multiple religions and cultures.
 ---
+#### Keramats (or shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
+
+
+
+
+
+
