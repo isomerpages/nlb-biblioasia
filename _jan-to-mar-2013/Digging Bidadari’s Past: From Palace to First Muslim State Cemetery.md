@@ -63,7 +63,7 @@ Bidadari was the home of the Sultan’s second consort Cecilia Catherina Lange (
 
 Cecilia remained abroad after her father’s death. She returned to Bali in 1859 to visit his grave. She lived with a family friend for a time in India, England, France and then back East. When she returned to Singapore, she attended school in a convent and met Abu Bakar. Upon her conversion to Islam and marriage to Abu Bakar, she was known by the title and Muslim name Enche’ Besar Zubaidah binte Abdullah. She was only 20 years at that time. She bore him two children: a daughter, Mariam, who later became the first wife of the Sultan of Pahang and a son, Ibrahim, who succeeded his father upon his death in 1895 and ruled Johor as Sultan Ibrahim.17 It was established that Mariam and Ibrahim were born in the Bidadari estate in 1871 and 1873 respectively.
 
-<img style="width:70%;" src="/images/Vol%208%20issue%204/Bidadari/Sultan%20Abu%20Bakar%20dan%20Enche'%20Besar%20Zubaidah%20(2).jpg">
+<img style="width:60%;" src="/images/Vol%208%20issue%204/Bidadari/Sultan%20Abu%20Bakar%20dan%20Enche'%20Besar%20Zubaidah%20(2).jpg">
  <div style="background-color: white;">Sultan Abu Bakar & Che’ Zubaidah Besar with their first-born. <i>Courtesy of Dato’ Rahim Ramli.</i></div>
 	
 
@@ -124,7 +124,7 @@ A fee of $2 was normally charged for adult interment and half of that for a chil
 Eventually, when the exhumation exercise commenced in 1995, the Muslim section of Bidadari consisted of 78,800 burials which was more than the estimated 54,000 in the Christian section.38
 
 
-<img style="width:80%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Young%20boys.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/sidewalk%20of%20Bidadari%20Muslim%20cemetery.jpeg">
  <div style="background-color: white;">Simple tombstones lining the sidewalk of Bidadari Muslim cemetery. <i>Courtesy of Goh Si Guim.</i></div>
 
 
