@@ -5,8 +5,15 @@ description: ""
 ---
 This article is a response to a call on the dearth of literature on Muslim cemeteries especially Bidadari.1 Ironically, documentation on Bidadari is lacking compared to the contemporary Bukit Brown cemetery or even the older Fort Canning Cemetery. For the case of Fort Canning, most of the surviving headstones have been preserved, embedded in a wall that stands till today. In addition, tombstone rubbings of surviving headstones were made. For Bidadari, there was no systematic documentation, mapping or photography done of the cemetery that could at least remain a record for future reference and research.2
 
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/Another%20perspective%20of%20Bidadari.jpg">
+ <div style="background-color: white;">A perspective of Bidadari Muslim cemetery in the 1990s before the exhumation.  <i>Courtesy of Goh Si Guim.</i></div>
 
 In addition to the general lack of documentation on the Bidadari cemetery, there are limitations to reviewing a burial community such as the Muslim and/or Malay community. First, a Muslim community in the early 20th century was diverse. Second, simpler gravestones in the Muslim cemetery are not much of a textual source. This was the case for the Muslim tombstones in Bidadari cemetery, Kampong Glam’s royal cemetery and Keramat Radin Mas Ayu at Mount Faber. Most tombstones in the vicinity of the royal keramats hardly have names inscribed on them– and these were members of royalty!
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/big%20Muslim%20tombstone%20in%20Bidadari.jpg">
+ <div style="background-color: white;">
+A big Muslim tombstone in Bidadari Muslim cemetery. <i>Courtesy of Goh Si Guim.</i></div>
 
 Hence what is possible for the moment is a look into the history of the Bidadari estate and the history of its acquisition as the first Muslim state cemetery and first multi-religious cemetery. This article provides an introduction to the history of burials in the Muslim/Malay community in Singapore, and contextualises the claim Bidadari has as the first Muslim state cemetery.
 
@@ -28,6 +35,7 @@ Some of the other well-known royal keramats are Keramat Bukit Kasita at Kampong 
 
 The second category of Muslim burials is licensed burials, which can take place on either wakaf lands or state lands. A form of licensed burial takes place on wakaf lands for private or public purposes. Wakaf lands are donated to the public for charitable causes such as madrasahs (Islamic schools), mosques or Muslim burials. However, in the context of Muslim public cemeteries in Singapore, a wakaf burial plot may not be considered public cemetery land if the donor and family are buried within the same wakaf land. Many poor Muslims who were not able to reserve plots for private burials could be buried on wakaf lands. It is mentioned that “a trust of land as a wakaf for the burial of the donor or family and relatives was held not to be public charity as it was not to the benefit of the public and was therefore void”.10 Hence, wakaf burials may both be public and private. The existence of such wakaf lands prove that financially able Muslims could provide burial plots for their descendants and for poorer Muslims. 
 
+
 The highest number of Muslim burials were found on state lands. Bidadari was the first of such a state cemetery followed by Pusara Aman, Pusara Abadi I and Pusara Abadi II. The Muslim section of Bidadari was open from 1910 to 1973.11 By the time Bidadari was closed for exhumation in 1990s, there was an estimated figure of 78,800 burials for the 24-hectare Muslim section of Bidadari cemetery.12 This was more than the estimated 54,000 in the Christian section of Bidadari.
 
 The 48-ha Muslim section of Choa Chu Kang cemetery was made up of Pusara Aman I, Pusara Aman II, Pusara Abadi I and Pusara Abadi II. Pusara Aman I was a major part of the Muslim section of Choa Chu Kang. The 40-ha land was opened in 1970 and closed for burials in 1995.13 There were 45,000 burial plots in Pusara Aman I. Pusara Abadi I formed part of Pusara Aman I. Exhumed bodies from other cemetery plots which unclaimed by relatives were interred in Pusara Abadi I.
@@ -47,9 +55,17 @@ Before Bidadari was a cemetery, it was an estate owned by prominent families. He
 
 Sultan Abu Bakar of Johor acquired the two estates (Bidadari and Tyersall) from Napier and Simons respectively. Several newspaper reports from this period reveal that the Sultan was a personal friend of both Simons and Napier and hence, purchasing the estates was not out of the question. Tyersall became the palace of Sultana Fatimah and was Sultan Abu Bakar’s official residence in Singapore, when he became Sultan of Johor in 1885.
 
+<img style="width:70%;" src="/images/Vol%208%20issue%204/Bidadari/Sultan%20abu%20bakar2.jpg">
+ <div style="background-color: white;">Sultan Abu Bakar was the Sultan of Johor. The Bidadari estate was home to his second consort, Cecelia Catherina Lange. <i>Courtesy of Antiques of the Orient.</i></div>
+
+
 Bidadari was the home of the Sultan’s second consort Cecilia Catherina Lange (1848–1939), a half-Danish, half-Chinese woman who was the daughter of Mad Johansen Lange, a wellknown Danish merchant in Bali. Her mother, Teh Sang Nio, was one of two wives Lange had during his 17 years in Bali. Teh survived Lange and inherited a comfortable home in Banuwangi, Java.16
 
 Cecilia remained abroad after her father’s death. She returned to Bali in 1859 to visit his grave. She lived with a family friend for a time in India, England, France and then back East. When she returned to Singapore, she attended school in a convent and met Abu Bakar. Upon her conversion to Islam and marriage to Abu Bakar, she was known by the title and Muslim name Enche’ Besar Zubaidah binte Abdullah. She was only 20 years at that time. She bore him two children: a daughter, Mariam, who later became the first wife of the Sultan of Pahang and a son, Ibrahim, who succeeded his father upon his death in 1895 and ruled Johor as Sultan Ibrahim.17 It was established that Mariam and Ibrahim were born in the Bidadari estate in 1871 and 1873 respectively.
+
+<img style="width:70%;" src="/images/Vol%208%20issue%204/Bidadari/Sultan%20Abu%20Bakar%20dan%20Enche'%20Besar%20Zubaidah%20(2).jpg">
+ <div style="background-color: white;">Sultan Abu Bakar & Che’ Zubaidah Besar with their first-born. <i>Courtesy of Dato’ Rahim Ramli.</i></div>
+	
 
 When Sultan Abu Bakar’s title changed in 1885 from Maharaja of Johor to Sultan of Johor, Zubaidah left Singapore to stay in Johor and never left. She lived in a palace in Johor until 1930 and hardly appeared in public. Mad Lange’s Danish biographer described her as an “animated little lady, with white hair, blue eyes and aristocratic feature”.18 Cecilia was the “bidadari” (from Persian word *widadari* or beautiful nymph) who resided in the estate for a while. The estate was then left vacant for some time. When the Municipal Commission wished to acquire the land for a Christian cemetery in 1902, no one would have imagined that it would also be the first state Muslim cemetery as well as the first multi-religious state cemetery in Singapore.
 
@@ -89,6 +105,9 @@ At that time, Bidadari was the name of the Christian cemetery. The Municipal Com
 
 The Municipal Commissioners agreed that work on the Muslim cemetery would not begin until the completion of the Christian cemetery. Financial reasons were cited for this.29 Years after, the plan for the Bidadari mosque in the Muslim cemetery was approved in 1909.30 Quarters for the registrar and his coolies, as well as a mortuary, were erected.31
 
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/side%20and%20back%20of%20Bidadari%20mosque1.jpeg">
+ <div style="background-color: white;">The side and back of Bidadari mosque. <i>Courtesy of Goh Si Guim.</i></div>
+
 #### **Opening of Bidadari Muslim Cemetery**
 
 The Muslim cemetery was later opened on 14 February 1910. This brief announcement was made in a tongue-in-cheek manner, “the new Mohammedan cemetery at Bidadari, was opened on St. Valentine’s Day, but yet has no tenants”.32 This lack of response from the Muslim community is puzzling considering that the Muslims were actively petitioning for a cemetery plot in the earlier years.
@@ -103,6 +122,10 @@ There may be many reasons for this gap in numbers between Christian and Muslim b
 A fee of $2 was normally charged for adult interment and half of that for a child under 10 years of age.36 For those in the service of the British such as civil servants of the colonial government or the municipality, the interment was $1. In cases where the relatives were certified by the chief police officer or by the president of Municipal Commissioners as “too poor to pay the fees, the fee may be reduced or remitted”.37
 
 Eventually, when the exhumation exercise commenced in 1995, the Muslim section of Bidadari consisted of 78,800 burials which was more than the estimated 54,000 in the Christian section.38
+
+
+<img style="width:80%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Young%20boys.jpg">
+ <div style="background-color: white;">Simple tombstones lining the sidewalk of Bidadari Muslim cemetery. <i>Courtesy of Goh Si Guim.</i></div>
 
 
 #### **The Chinese Question**
@@ -129,6 +152,3 @@ This article is about preserving dying legacies in cemeteries. From the lessons 
 <div>
 <b>Kartini Saparudin</b> has been working for the National Library for six years. She has written on the history of Bukit Brown cemetery, the study of women’s magazines in the 1950s and 1960s and Hadhrami historiography. She compiled and edited two bibliographies <i>Sources on family history: A select bibliography</i> and <i>The Hadhrami Arabs in Southeast Asia with special reference to Singapore: An annotated bibliography.</i> Her upcoming project, a major exhibition on family history, will be launched in July 2013.
 </div>
-
-
-
