@@ -57,7 +57,7 @@ The proprietors of these death houses charged different lodging rates depending 
 In a death house, when a resident had ceased breathing, a doctor would be called in to certify the death. The corpses of those who had just passed on would have their faces covered in red or yellow paper16 and their bodies would be draped in straw mats prior to being placed in coffins, which were then sealed up and placed on the ground floor to lie in state while awaiting burial. As embalming was not a common practice then, the corpses would start to rot, giving off a stench after a day or two, particularly if there were three to four coffins placed together at a time.17
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/death%20house%20ceremony%20death%20rites%20in%20progress-HQ.jpeg">
+<img style="width:50%;" src="/images/Vol%208%20issue%204/Sago%20Lane/death%20house%20ceremony%20death%20rites%20in%20progress-HQ.jpeg">
  <div style="background-color: white;">Funeral rites in progress. <i>KF Wong Collection, courtesy of National Archives of Singapore.</i></div>
 	
 The ground floor also accommodated the critically ill and poverty-stricken residents, while those who could afford to pay more stayed on the second and third storeys. Many residents were emaciated, with some suffering vocally in pain, while others slept quietly, but all were waiting for their time to die.18
