@@ -11,7 +11,7 @@ description: "Family and friends have long had to bear with my vocal thoughts on
 ---
 #### Family and friends have long had to bear with my vocal thoughts on endless scenes of wasted death on the news. My emotive views come from what I assumed were my limitless powers of empathy. As I have read and watched the news from the comfort of a warm home in a peaceful Singapore, I thought I fully understood the pain of a husband weeping over a wife killed by cross-fire or a grieving mother whose child lay limp due to famine caused by man’s disregard for fellowman. My self-delusion ended only recently.
 
-![]
+
 <img style="width:80%;" src="/images/Vol%208%20issue%204/ThemeDeath/Records.jpg">
  <div style="background-color: white;">Extract from the records of deaths and executions in Pearl's Hill Prison during the Japanese Occupation. <i>Courtesy of National Archives of Singapore</i>
 </div>
