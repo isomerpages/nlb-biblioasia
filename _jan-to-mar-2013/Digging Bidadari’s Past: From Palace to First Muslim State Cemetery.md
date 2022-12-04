@@ -221,7 +221,7 @@ Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.n
 
 ———. (1909, February 19). [Plans for mosque for Mohamedan burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 4, col. 22). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1067—1068)
 
-———. [Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemetery (No. 43, col. 266). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
+———. [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemetery (No. 43, col. 266). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
 
 ———. (1909, August 13). [Muhammadan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. unknown, col. 41). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
 
