@@ -11,6 +11,12 @@ description: "Family and friends have long had to bear with my vocal thoughts on
 ---
 #### Family and friends have long had to bear with my vocal thoughts on endless scenes of wasted death on the news. My emotive views come from what I assumed were my limitless powers of empathy. As I have read and watched the news from the comfort of a warm home in a peaceful Singapore, I thought I fully understood the pain of a husband weeping over a wife killed by cross-fire or a grieving mother whose child lay limp due to famine caused by man’s disregard for fellowman. My self-delusion ended only recently.
 
+![]
+<img style="width:80%;" src="/images/Vol%208%20issue%204/ThemeDeath/Records.jpg">
+ <div style="background-color: white;">Extract from the records of deaths and executions in Pearl's Hill Prison during the Japanese Occupation. <i>Courtesy of National Archives of Singapore</i>
+</div>
+
+
 About four months ago, my wife chanced on a book in Bishan Public Library. It was Sebastian Barry’s *On Canaan’s Side: A Novel* (2011). I remember it well as it helped me acknowledge my inadequate empathy. I actually wrote down parts of the first chapter called “First Day without Bill”, lest I forget:
 
 <center>What is the sound of an eighty-nine-yearold heart breaking? It might not be much more than silence, and certainly a small slight sound...</center>
@@ -67,6 +73,10 @@ Singapore has however been blessed with more peace than many a country and we ha
 
 The image collection of the Archives contains, among many other things, pictures of stone rubbings of some of the earliest memorial plaques from that early Singapore cemetery at Fort Canning. The images from Fort Canning will, of course, be a reminder of a colonial past with names that are associated with our beginnings. There are epitaphs, among others, to Stephen Hallpike, who is said to have founded the first shipyard in Singapore, and William Clark Farquhar, the great grandson of William Farquhar. These epitaphs do not simply record the dates of deaths but attempt to give us an enduring insight into these men as individuals, lending them some humanity.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%204/ThemeDeath/Memorial%20Plaque.jpg">
+ <div style="background-color: white;">Memorial plaques of William Clark Farquhar embedded into the walls at Fort Canning. <i>Courtesy of National Archives of Singapore.</i></div>
+	
+
 Images of such epitaphs reminded me of a very short epitaph with deep meaning that I came across when reading *The Letters of J.R.R. Tolkein* (edited by Humphrey Carpenter with the assistance of Christopher Tolkein, 1981). Tolkein’s epitaph to his wife was, in a sense, a riddle as he was so wont to write. His letters however give an insight to an undimmed and cherished memory of young love. In a letter to Christopher Tolkien on 11 July 1972:
 
  <center> I have at last got busy about Mummy’s grave…The inscription I should like is: EDITH MARY TOLKIEN 1889– 1971 Lúthien </center> 
@@ -85,6 +95,9 @@ I have also had the opportunity to delve into records relating to burial registe
 
 Another excellent example of a record that sheds light on Singapore’s early days is the 20 February, 1905 Report of the Burials Committee appointed by the Governor. From this one record, there are at least four diverting lines of inquiry for the intrepid researcher/ historian. The first was the attempt to use access to limited cemetery plots as a reward for “services” or a potential tool of control. There was a recommendation strongly put forth and accepted by the Colonial Secretary that “the privilege of burial \[within the Municipal Limits\] be granted only in the case of Chinese who in the opinion of the Governor in Council have rendered eminent service to the Colony”.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%204/ThemeDeath/Extract%20of%20the%20Report%20of%20Burials%20Committee1.jpg">
+ <div style="background-color: white;">Extract of the Report of Burials Committee, 1905. <i>Courtesy of National Archives of Singapore.</i></div>
+	
 The second was that there was a need then for cemeteries for the Chinese to have “suitable arrangements” for the separation of clans. The third was that many of the cemeteries had other uses apart from burials – perhaps early evidence of a practical side of Singapore taking shape or the inevitability of the need to balance the needs of the living and the dead within land-scarce Singapore. As reported in the case of a burial ground “situated near 4½ miles Saranggong Road”, a good many burial grounds housed not just the dead but also squatters, “piggeries” and were sites for the cultivation of fruit trees. And finally, for those who mistakenly believe that the passion for golf was a recent development and the result of country clubs sprouting in modern Singapore, it was reported that a Hokkien burial ground “situated between Selat Road and Neil Road…is covered in innumerable graves” and “\[n\]early half the ground is in use by Sepoy Lines Golf Club”.
 
 Despite these valiant early attempts to control and manage the conduct of burials, there is evidence that a rather cavalier attitude continued apace for some time yet. One particular exchange recorded in Municipal Office files from 1924 on a “Hokkien Burial Ground Alexandra Road” stood out for me. With the distance of time, it now makes for somewhat amusing reading:
@@ -107,6 +120,11 @@ What the forty graves looked like and what stories they could have told; and who
 
 It can be noted that these newer records will contain a lot more in the form of born digital audio-visual records. Audio-visual records were not so readily available in the past but those that the Archives has preserved relating to death range from official footage of state funerals of past presidents to Berita Singapura broadcasts of Qing Ming festivals past. Other records include broadcast footage of disasters such as the collapse of Hotel New World. In an indication of the significance of cemeteries in our lives, the NAS has also produced its own video documentation of the Bidadari and Bukit Brown cemeteries.
 
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/ThemeDeath/Screen%20capture%20of%20Bidadari%20Christian%20Cemetery1.jpg">
+ <div style="background-color: white;">Screen capture of video on Bidadari Christian Cemetery produced by the National Archives of Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
+	
+	
 In this context of our increasing ability to easily make records of ourselves and our loved ones, John Miksic’s thoughtful final reflections in his chapter on *Fort Canning: An early Singapore cemetery from Spaces* of the dead are apt. He reflects on how attitudes have changed such that the “need to have large monuments at which to remember the dead, to meditate on them, and to contemplate one’s own possible demise so as to be prepared both financially and emotionally, has evaporated”.
 
 Other similar shifts in attitudes have been observed for a time. Among many insightful writings in her *Bamboo Green* (1982) series of articles, Li Lienfung wrote of the struggles faced in mourning the death of her mother, who was not religious and though “a woman born of the last century”, had left a legacy of breaking “away from…tradition”:
@@ -129,12 +147,3 @@ I give the final word to the spiritual writings of Kahlil Gibran. In *The Prophe
 
 <div>
 <b>Eric Chin</b> was appointed Director of the National Archives of Singapore on 21 July 2012. He is a lawyer by training and is a National University of Singapore alumni from the class of 1992. He has served as State Counsel with the Attorney-General’s Chambers and also as General Counsel with the National Heritage Board. Apart from law, he has had a long-standing personal interest in library and archival sciences. Towards this end, he completed a Master’s in Information Studies at the Nanyang Technological University in 2010. He loves his work as well as his wife and three boisterous children. He wishes to have a new dog (or two) since Paddy and Prudence have sadly passed on.</div>
-	
-	
-	
-	
-
-
-
-
-
