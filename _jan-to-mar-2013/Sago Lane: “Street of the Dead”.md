@@ -149,7 +149,8 @@ Part of Sago Lane was demolished for the construction of Kreta Ayer Complex in 1
 The land in front of Sago Street and Sago Lane, bound by South Bridge Road and Banda Street was left vacant until May 2005, when construction of the Buddha Tooth Relic Temple and Museum commenced, at the invitation of the Singapore Tourism Board. The temple was officially opened two years later on 30 May 2007. The $62 million, sevenstorey temple and museum occupies an area of just under 3,000 square metres, measuring 85 metres in length and 35 metres in width.[^60]
 
 <div>
-<b>Sharon Teng</b> is a Librarian with the National Library Content and Services division. She obtained her MSc (Information Studies) in 2001 and has contributed several articles to Singapore Infopedia.</div>
+<b>Sharon Teng</b> is a Librarian with the National Library Content and Services division. She obtained her MSc (Information Studies) in 2001 and has contributed several articles to Singapore Infopedia.
+</div>
 
 #### **REFERENCES**
 
@@ -167,11 +168,11 @@ Boon, C.T. (1950, September 3). [Chinatown Speakers](https://eresources.nlb.gov.
 
 Buddha Tooth Relic Temple and Museum. (n.d.). _History of Sago Lane_. Retrieved from Buddha Tooth Relic Temple and Museum website.
 
-Chan, B. (2007, May 19). [Parade, Chinatown light-up to mark Vesak](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070519-1.2.8.1). _The Straits Tim_es, p. 2. Retrieved from NewspaperSG.
+Chan, B. (2007, May 19). [Parade, Chinatown light-up to mark Vesak](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070519-1.2.8.1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
 Chan, H.C. (1999). *Death houses and hospices an autopsy of Sago Lane* \[Unpublished honours degree dissertation\]. Singapore: National University of Singapore. (Not available in NLB holdings)
 
-Chan, K.S. (1999, March 13). [No love lost for the old ‘street of the dead’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990313-1.2.103.4.7). _The Straits Ti_mes, p. 7. Retrieved from NewspaperSG.
+Chan, K.S. (1999, March 13). [No love lost for the old ‘street of the dead’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990313-1.2.103.4.7). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 Chan, K.S. (2001, October 15). [Paper chase in afterlife](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011015-1.2.65.5). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
 
