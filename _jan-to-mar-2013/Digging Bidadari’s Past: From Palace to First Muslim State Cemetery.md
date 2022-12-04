@@ -168,7 +168,8 @@ Harfield, A.G. (1988). [_Early cemeteries in Singapore_](https://eservice.nlb.go
 
 Kucinta Setia. (2002). [_The Bidadari cemeteries and their surrounding: The first format report on the Bidadari region to the historic sites units of the National Heritage Board for the proposed Bidadari Memorial Garden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11359839). Singapore: \[s.n.\]. (Call no.: RSING q363.75095957 KUC)
 
-Makepeace, W., Brooke, G.E., & Braddell, St. J. (1921). [_One hundred Years of Singapore…_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132). London: J. Murray. (Call no. RCLOS 959.51 MAK-\[RFL\])  
+Makepeace, W., Brooke, G.E., & Braddell, St. J. (1921). [_One hundred Years of Singapore…_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132). London: J. Murray. (Call no. RCLOS 959.51 MAK-\[RFL\]) 
+
 Savage, V.R., & Yeoh, B.S.A. (2004). [_Toponymics: A study of street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
 Singapore. Survey Department. (1960). [_Singapore guide and street directory and sectional maps_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197799). (1960). Singapore: Survey Dept. (Call no.: RCLOS 959.57 SIN)
@@ -191,43 +192,44 @@ Zainah Anwar. (2011). [_Legacy of honour_](https://eservice.nlb.gov.sg/item_hold
 
 Committee Regarding Burial and Burial Grounds. (1952). [_Report of the Committee regarding burial and burial grounds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585434). Singapore: G.P.O. (Call no.: RCLOS 718 SIN)
 
-Singapore. [_Administration report of the Singapore Municipality for the year 1902_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1902). Christian Cemetery. Singapore: Printed at Govt. Off. MFM No.: NL 3406.
+Singapore. [_Administration report of the Singapore Municipality for the year 1902_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1902). Christian Cemetery. Singapore: Printed at Govt. Off. (Microfilm no.: NL3406)
 
-———. (1904). [New cemetery and sale of land at the old cemetery, Bukit Timah Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. MFM No.: NL 3406.
+———. (1904). [New cemetery and sale of land at the old cemetery, Bukit Timah Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3406)
 
-———. (1906). [New Cemeteries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. MFM No.: NL 3408.
+———. (1906). [New Cemeteries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3408)
 
-———. (1925). [XVII Burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. MFM No.: NL 3411
+———. (1925). [XVII Burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3411)
 
-Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739). (1960, December 15). Budget heatlh (Vol. 14, cols. 728–729). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
+Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739). (1960, December 15). Budget heatlh (Vol. 14, cols. 728—729). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
 
-———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035-2037). Singapore: \[s. n.\]. [Straits Settlements. Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). Supplement to Straits Settlements Government Gazette. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. MFM No.: NL 1047-1048.
+———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035-2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL 1047—1048)
 
-———. (1902, October 24). [President Remarks](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (c) New Christian Cemetery (No. 61, col. 1582). Singapore: Printed at Govt. Off. MFM No.: NL 1053-1054.
+———. (1902, October 24). [President Remarks](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (c) New Christian Cemetery (No. 61, col. 1582). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1053—1054)
 
-———. (1904, May 27). [Burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 27, col. 595). Singapore: Printed at Govt. Off. MFM No.: NL1053-1054.
 
-———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 179). Singapore: Printed at Govt. Off. MFM No.: NL 1055-1056.
+———. (1904, May 27). [Burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 27, col. 595)(Microfilm nos.: NL 1047—1048)
 
-———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 291). Singapore: Printed at Govt. Off. MFM No.: NL 1055-1056.
+———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055—1056)
 
-———. (1905, September 15). [Mohamedan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 51, col. 179). Singapore: Printed at Govt. Off. MFM No.: NL 1055-1056.
+———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 291). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055—1056)
 
-———. (1906, January 19). [Bidadari Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 3, col. 179). Singapore: Printed at Govt. Off. MFM No.: NL 1059-1060.
+———. (1905, September 15). [Mohamedan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 51, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055—1056)
 
-———. (1909, July 16). [Closing Bukit Timah Road Christian Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 34, col. 207). Singapore: Printed at Govt. Off. MFM No.: NL 1066-1067.
+———. (1906, January 19). [Bidadari Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 3, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1059—1060)
 
-———. (1909, February 19). [Plans for mosque for Mohamedan burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 4, col. 22). Singapore: Printed at Govt. Off. MFM No.: NL 1067-1068.
+———. (1909, July 16). [Closing Bukit Timah Road Christian Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 34, col. 207). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1066—1067)
 
-———. [Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemetery (No. 43, col. 266). Singapore: Printed at Govt. Off. MFM No.: NL1068-1069.
+———. (1909, February 19). [Plans for mosque for Mohamedan burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 4, col. 22). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1067—1068)
 
-———. (1909, August 13). [Muhammadan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. unknown, col. 41). Singapore: Printed at Govt. Off. MFM No.: NL 1068-1069.
+———. [Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemetery (No. 43, col. 266). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
 
-———. (1909, October 15). [Additional by-laws for the regulation of burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 1075, col. 34). Singapore: Printed at Govt. Off. MFM No.: NL 1069
+———. (1909, August 13). [Muhammadan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. unknown, col. 41). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
 
-———. [Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1911, February 24). Burial grounds (No. 251, col. 36). Singapore: Printed at Govt. Off. MFM No.: NL 1073-1074.
+———. (1909, October 15). [Additional by-laws for the regulation of burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 1075, col. 34). Singapore: Printed at Govt. Off. (Microfilm no.: NL1069)
 
-———. [Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town, for the month of June 1910](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1910, August 26). Burial grounds (No. 1036, col. 30). Singapore: Printed at Govt. Off. MFM No.: NL 1072
+———. [*Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1911, February 24). Burial grounds (No. 251, col. 36). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1073—1074)
+
+———. [*Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town, for the month of June 1910*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1910, August 26). Burial grounds (No. 1036, col. 30). Singapore: Printed at Govt. Off. (Microfilm no.: NL1072)
 
 **Newpaper Articles**
 
@@ -351,17 +353,17 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^31]: [_Administration report of the Singapore Municipality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316), 1906; _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (18 February 1909). Plans for mosque for Mohamedan burial ground (No. 4, col. 22).
 
-[^32]: _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_, 18 Feb 1909, col. 22; [Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemtery (No. 43, col. 266); [Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, August 13). Muhammadan Cemetery (No. unknown, col. 41).
+[^32]: _[*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724), 18 Feb 1909, col. 22; [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/itemholding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemtery (No. 43, col. 266); [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/itemholding.aspx?bid=5289724). (1909, August 13). Muhammadan Cemetery (No. unknown, col. 41).
 
 [^33]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100225-1.2.28). (1910, February 25). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
-[^34]: Straits Settlements. Government Gazette. [Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1911, February 24). Burial grounds (No. 251, col. 36).
+[^34]: Straits Settlements. Government Gazette. [*Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1911, February 24). Burial grounds (No. 251, col. 36).
 
-[^35]: [Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724), 24 Feb 1911, col. 36; [Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town, for the month of June 1910](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1910, August 26). Burial grounds (No. 1036, col. 30).
+[^35]: _[Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_, 24 Feb 1911, col. 36; _[Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town, for the month of June 1910](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_ (1910, August 26). Burial grounds (No. 1036, col. 30).
 
 [^36]: [_Administration report of the Singapore Municipality for the year 1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1925). XVII Burial grounds.
 
-[^37]: [Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, October 15). Additional by-laws for the regulation of burial grounds (No. 1075, col. 34
+[^37]: [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, October 15). Additional by-laws for the regulation of burial grounds (No. 1075, col. 34
 
 [^38]: [_Administration report of the Singapore Municipality for the year 1904_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1904). New cemetery and sale of land at the old cemetery, Bukit Timah Road.
 
@@ -376,7 +378,3 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 [^43]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 21.
 
 [^44]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), Heritage places of Singapore, 2009, p. 178.
-
-
-
-
