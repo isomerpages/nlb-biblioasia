@@ -9,6 +9,11 @@ description: "Among the older generation of Singaporeans who have lived, grown
 ---
 #### Among the older generation of Singaporeans who have lived, grown up in or worked in Chinatown during the 1930s to 1960s, death houses bestir grim and depressing memories of the old two- to three- storey red-tiled roof houses that used to line Sago Lane, scattered intermittently among residential dwellings.
 
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/death%20house%20.jpeg">
+ <div style="background-color: white;">A wake being held outside one of the death houses on Sago Lane. <i>KF Wong Collection, courtesy of National Archives of Singapore.</i></div>
+	
+
 In modern hospices of today, qualified health care professionals, together with a pool of volunteers, provide palliative care and succour to the terminally ill to ease their suffering as they make the most of their last days on earth. These hospices also offer programmes that cater to the medical, psychological, social and even spiritual needs of their patients and the bereaved family members.
 
 In stark contrast, the death houses or “Sick Receiving Houses” at Sago Lane were the abodes of last resort for the terminally ill, aged and infirm early immigrants to spend their final days in solitude, misery and for some, in excruciating pain. “Death Houses did not assume the responsibility for the well-being of a person. They merely functioned as bed spaces for people to die”.1
@@ -22,6 +27,12 @@ In the mid-19th century, sago was a major export of Singapore. Raw sago that was
 Chinatown then was divided informally into distinct dialect enclaves, with the Cantonese residing in and around areas such as Smith Street, Sago Lane, Sago Street, Pagoda Lane, Trengganu Street, Temple Street, Club Street, Ann Siang Hill, Keong Saik Street and up to South Bridge Road and New Bridge Road.8
 
 Sago Lane gained its unsavoury reputation in Singapore, when death houses began operating in the area in the mid-19th century. Death houses were also established along Spring Street, opposite the Metropole Theatre.
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/sago%20lane.jpeg">
+ <div style="background-color: white;">By the 1980s, there was little trace of the death houses of Sago Lane.  <i>Courtesy of National Archives of Singapore.</i></div>
+	
+	
 
 #### **Death Houses**
 
@@ -71,6 +82,13 @@ Death houses thus served a practical and essential service in the densely popula
 
 Simple funeral rites were performed on the ground floor, restricted to a specific area, near to the front entrance. With six deaths occurring every day on average during the late 1940s,31 it was not uncommon for funeral ceremonies to be held for two to three corpses simultaneously, with different priests engaged by the different families. The ceremonies were also performed along the main road or outside death houses if there was insufficient space indoors.
 
+
+
+<img style="width:80%;" src="images/Vol%208%20issue%204/Sago%20Lane/Mourners%20kneeling%20.jpeg">
+ <div style="background-color: white;">Mourners along the road during a funeral. <i>ABN AMRO Collection, courtesy of National Archives of Singapore.</i></div>
+	
+	
+
 The scale of the funeral ceremonies depended on the financial circumstances of the family. For simple ceremonies, relatives would say prayers, squat outside the death houses and burn joss paper in wash basins.
 
 At around 11am daily, cacophonous music from percussion bands and wind instruments could be heard from Sago Lane, serenading the dead as they embarked on their final journies. At night, the street became an even busier hive of activity with long-drawn chanting from priests, accompanied by the steady beating of drums and gongs, the resounding clash of cymbals and the mourning cries of the bereaved. Visiting mourners and wreaths contributed to the crush of human traffic.32 As the frangipani blossom was commonly used in wreaths, the heavy scent of the flower frequently permeated the entire street.33
@@ -90,6 +108,12 @@ It was–and still is–a Chinese custom to hold a wake lasting for a duration o
 The Chinese believe that when people die, they are transported to hell to be punished for bad deeds done when the person was alive. The Chinese also believe that hell comprises 18 levels with punishments increasing in severity as one descends from one level to the next.
 
 The “breaking of hell” ceremony was performed by a Taoist priest after a person’s death to rescue the deceased from the horrors of hell by “lead\[ing\] him across the bridge that forms the link with heaven (*kor tin khew*).42 This would allow the dead to escape punishment and to be reincarnated without suffering. In Cantonese, this is called *phor tei yuk* (meaning “to conquer hell”).
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/Chinese%20funeral.jpeg">
+ <div style="background-color: white;">An elderly lady and Taoist priest prepare for Chinese funeral on Sago Lane. <i>ABN AMRO Collection, courtesy of National Archives of Singapore.</i></div>
+	
+
 
 This was an elaborate open-air ceremony that lasted several hours. The ceremony would begin around 7.30pm and end around 11pm. A fire would be set up in the middle of the road with 18 roof tiles placed in a circle on the ground. Each tile represented one of the 18 levels of hell. As the ceremony began, the priest would recite some Cantonese incantations, then jump over the fire and break one tile by stepping on it, repeating the entire sequence until all 18 tiles were broken. This signified that all the 18 levels of hell had been invaded and that the rescue attempt was a success. Occasionally, during the ceremony, the priest would also take a mouthful of spirit and blow it out onto the fire to create a more dramatic spectacle.43
 
@@ -123,7 +147,3 @@ The land in front of Sago Street and Sago Lane, bound by South Bridge Road and B
 <div>
 <b>Sharon Teng</b> is a Librarian with the National Library Content and Services division. She obtained her MSc (Information Studies) in 2001 and has contributed several articles to Singapore Infopedia.
 </div>
-
-
-
-
