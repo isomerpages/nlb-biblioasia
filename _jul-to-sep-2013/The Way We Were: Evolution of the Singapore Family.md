@@ -140,33 +140,33 @@ We need to develop a clearer sense of how past families actually functioned and 
   
 Barnard, T.P. (2007, December). Celates, Rayat-Laut, Pirates: The Orang Laut and their decline in history. _Journal of the Malaysian Branch of the Royal Asiatic Society, 80_ (2) (293), 33–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Borschberg, P. (2011). [_Hugo Grotius, the Portuguese and free trade in the East Indies_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13604401). Singapore: NUS Press. (Call no.: RSEA 341 BOR)
+Borschberg, P. (2011). [_Hugo Grotius, the Portuguese and free trade in the East Indies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13604401). Singapore: NUS Press. (Call no.: RSEA 341 BOR)
 
-Cartwright, H.A., & Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5230444). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
+Cartwright, H.A., & Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
 
-Chua, B.H. (1994). [_Private ownership of public housing in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7858142). Australia: National Library of Australia. (Call no.: RCLOS q363.585 CHU)
+Chua, B.H. (1994). [_Private ownership of public housing in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7858142). Australia: National Library of Australia. (Call no.: RCLOS q363.585 CHU)
 
 Clifford, H.C. (1897). [_In court & kampong: Being tales and sketches of native life in the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx). London: G. Richards. Retrieved from BookSG.
 
 Cook, J.A.B. (1907). [_Sunny Singapore: An account of the place and its people, with a sketch of the results of missionary work_](https://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx). London: Elliot Stock. Retrieved from BookSG.
 
-Coontz, S. (2000). [_The way we never were: American families and nostalgia trap_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797). New York, NY: Basic Books. (Call no.: R 306.85 COO)
+Coontz, S. (2000). [_The way we never were: American families and nostalgia trap_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797). New York, NY: Basic Books. (Call no.: R 306.85 COO)
 
-Djamour, J. (1965). [_Malay kinship and marriage in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4177777). London: Athlone Press: Humanitarian Press. (Call no.: RSING 301.42095957 DJA)
+Djamour, J. (1965). [_Malay kinship and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777). London: Athlone Press: Humanitarian Press. (Call no.: RSING 301.42095957 DJA)
 
-Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4846221). London: Her Majesty’s Stationary Office. (Call no.: RSING 301.42 FRE)
+Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221). London: Her Majesty’s Stationary Office. (Call no.: RSING 301.42 FRE)
 
 Frost, M.R. (2003, August). _Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918_ \[Asian Research Institute Working Paper Series No. 10\]. Retrieved from Nus.edu.sg. website.
 
 Gibson-Hill, C.A. (1969, July). The Orang Laut of Singapore River and the Sampan Panjang. _Journal of the Malaysian Branch of the Royal Asiatic Society, 42_ (1), 118–132. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Lyons, L. (2007). (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008). Leiden: Brill. (Call no.: RSING 305.42095957 LYO) (Cannot find year 2007 edition)
+Lyons, L. (2007). (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008). Leiden: Brill. (Call no.: RSING 305.42095957 LYO) (Cannot find year 2007 edition)
 
 Makeswary, P. (2007, October). Indian migration into Malaya and Singapore during the British Period. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 3_ (3). 4–11. Retrieved from BiblioAsia website.
 
 Marsden, w. (1812). [_A dictionary of the Malayan language, in two parts, Malayan and English, and English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx). London: Cox and Baylis. Retrieved from BookSG.
 
-Milner, A. (2008). [_The Malays_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13208713). Chinchester, Uk: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
+Milner, A. (2008). [_The Malays_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13208713). Chinchester, Uk: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
 
 Ng, B. (1983, August 15). [Get hitched! And don’t stop at one](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.2). _The Straits Times_, p.1. Retrieved from NewspaperSG.
 
@@ -176,11 +176,11 @@ Saw, S.W. (1969, March). Population trends in Singapore, 1819–1967. _Journal o
 
 Singapore. Department of Statistics. (2018, May 9). _Census of Population 2010. Statistical Release 2: Households and Housing_. Retrieved from Singstat.gov.sg website.
 
-Singapore Family Planning and Population Board. (1975). [_Annual report_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679). Singapore: The Board. (Call no.: RCLOS 301.426 SFPPBA)
+Singapore Family Planning and Population Board. (1975). [_Annual report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679). Singapore: The Board. (Call no.: RCLOS 301.426 SFPPBA)
 
 Singapore. Ministry of Community Development, Youth and Sports; National Family Council (Singapore). (2011). _State of the family report 2011_. Singapore: National Family Council and Ministrty of Community Development, Youth and Sports. (Not available in NLB holdings)
 
-Stoler, A. (2010). _[Carnal knowledge and imperial power: Race and the intimate in colonial rule](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13666496)_. Claifornia, Berkeley: University of California Press. (Call no.: R 305.8 STO)
+Stoler, A. (2010). _[Carnal knowledge and imperial power: Race and the intimate in colonial rule](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13666496)_. Claifornia, Berkeley: University of California Press. (Call no.: R 305.8 STO)
 
 Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx). London: Richardson & Co. Retrieved from BookSG.
 
@@ -191,9 +191,9 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 #### **NOTES**	
 
-[^1]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 1992, p. 22.
+[^1]: [Coontz](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797), 1992, p. 22.
 
-[^2]: [Borschberg](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13604401), 2011, p. 258.
+[^2]: [Borschberg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13604401), 2011, p. 258.
 
 [^3]: [Milner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13208713), 2008, p. 23.
 
@@ -250,11 +250,3 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 [^29]: State of the Family Report 2011; Census of Population 2010, Statistical Release 2: Households and Housing.
 
 [^30]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 2000, introduction.
-
-
-
-
-
-
-
-
