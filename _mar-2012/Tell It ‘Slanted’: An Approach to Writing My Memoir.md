@@ -37,7 +37,7 @@ Because an autobiography traditionally starts with the author reminiscing about 
 
 Following a chronological method may be a less-than-exciting necessity but it enables me to grasp time. I do acknowledge that I live in the present as much as I do in the past. Quite often, they are in fluid fusion or collision. So, as art organises the chaos of my life, I have tried to artfully organise my memoir in the form of a ripple. Herein lies the difference between my memoir and most of the rest: While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present.
 
-<img src="images/Vol%207%20issue%204/Vernon.jpg" style="width:80%;">
+<img src="/images/Vol%207%20issue%204/Vernon.jpg" style="width:80%;">
  <div style="background-color: white;">Left to right: Vernon Seneviratne, Renee Coelho and Kathi at extreme right.</div>
 
 
@@ -88,9 +88,3 @@ Robert Yeo</b> Poet and Playwright.</div>
 [^2]: Mohamad, M. (1970). The Malay Dilemma. Singapore: Asia Pacific Press.
 
 [^3]: Forster, E. M. (1910). Howards End. London: Edward Arnold.
-
-
-
-
-																																		
-
