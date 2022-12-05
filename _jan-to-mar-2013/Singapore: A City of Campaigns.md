@@ -119,6 +119,6 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 [^19]: [Pan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859), 2005, pp. 105–108.
 
-[^20]: Life in Campaign city. (2007, July). [*Challenge*](https://eservice.nlb.gov.sg/itemholding.aspx?bid=7470680). Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
+[^20]: Life in Campaign city. (2007, July). [_Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470680)_._ Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
 
 [^21]: [Sandhu & Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 116.
