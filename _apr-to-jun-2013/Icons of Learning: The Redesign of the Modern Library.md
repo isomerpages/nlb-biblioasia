@@ -105,20 +105,21 @@ In order to remain relevant, the re-imagining of future libraries in Singapore m
 
 <div>
 <b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of BiblioAsia, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
-<b><br>
+<br>
 
 	
 <div>
-<b>Liyana Taha</b> is an Assistant Curator with the National Library Exhibitions and Curation division. She has an MA in Cultural Studies, and is interested in the premise on which knowledge is presented.</div>
+<b>Liyana Taha</b> is an Assistant Curator with the National Library Exhibitions and Curation division. She has an MA in Cultural Studies, and is interested in the premise on which knowledge is presented.
+</div>
 
 
 #### **REFERENCES**
 	
-     
 
-[$60m donation for National Library HQ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030916-1.2.3). (2003, September 16). _The Straits Times_, p.1. Retrieved form NewspaperSG.
 
-Azizah Sidek., et al. (Eds.). (2007). [_The people’s library: 50 years of national and public library services_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12922679). Singapore: National Library Board. (Call no.: RSING 027.55957 SIN)
+[$60m donation for National Library HQ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030916-1.2.3). (2003, September 16). _The Straits Times_, p. 1. Retrieved form NewspaperSG.
+
+Azizah Sidek., et al. (Eds.). (2007). [_The people’s library: 50 years of national and public library services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922679). Singapore: National Library Board. (Call no.: RSING 027.55957 SIN)
 
 Chew, D. (2005, November 11). [A new chapter begins](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051111-1.2.75.3). _Today_, p. 60. Retrieved from NewspaperSG.
 
@@ -138,7 +139,7 @@ Halifax Public Library. (2012). Retrieved from Halifax Public Library website.
 
 Hellen Niegaard. (2011, Summer). Library space and digital challenges_. Library Trends: Library Design From Past to Present, 60_ (1), 174–189.
 
-Infocomm Media Development Authority. (n.d.). _About_. Retrieved from Infocomm Media Development Authority website: https://www.imda.gov.sg/About-IMDA/Who-We-Are
+Infocomm Media Development Authority. (n.d.). _About_. Retrieved from Infocomm Media Development Authority website.
 
 [Intelligent Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050802-1.2.91.4.5). (2005, August 2). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
@@ -146,17 +147,17 @@ Jahn, M. (n.d.). _The Joe and Rika Mansueto Library_. Retrieved from University 
 
 Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, January 22). _Library services in the digital age_. Retrieved from Pew Research Center website.
 
-Kong, L. (2011). [_Conserving the past, creating the future: Urban heritage in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13816245). Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
+Kong, L. (2011). [_Conserving the past, creating the future: Urban heritage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245). Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
 
 Koster, T. (2011, November). _The Stuttgart Library: The book cube_. Retrieved from Goethe Institut website.
 
 Lee, J. (2007, August 24). [National Library wins award](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20070824-2.2.8.10). _Today_, p. 12. Retrieved from NewspaperSG.
 
-Library 2000 Review Committee. (1994). [_Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6731571). Singapore: SNP Publishers. (Call no.: RSING 027.05957 SIN)
+Library 2000 Review Committee. (1994). [_Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571). Singapore: SNP Publishers. (Call no.: RSING 027.05957 SIN)
 
 Lim, L. (2000, March 7). [National library building to go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000307-1.2.5.8). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
-Liu, G. (1987). [_One hundred years of the National Museum: Singapore 1887–1987_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4425348). Singapore: National Museum. (Call no.: RSING 708.95957 LIU)
+Liu, G. (1987). [_One hundred years of the National Museum: Singapore 1887–1987_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348). Singapore: National Museum. (Call no.: RSING 708.95957 LIU)
 
 LJ’s New Landmark Library: Palo Verde Library/Maryvale Community Center. (2011, May 15). _Library Journal_. Retrieved from libraryjournal.com website.
 
@@ -168,21 +169,21 @@ National Library Board. (2020, October 1). [_History of the National Library_](h
 
 National Library Board. (2020, October 1). [_About the National Library Building_](https://www.nlb.gov.sg/VisitUs/NationalLibraryBuilding.aspx). Retrieved from National Library Board website.
 
-Peggy Wai-Chee Hochstadt. (Ed.). (1977). [_University library buildings in Southeast Asia: Proceedings of a workshop held in Singapore, 22-26 November, 1976: \[Abstracts\]_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1837342). Singapore: University of Singapore Library. (Call no.: RSING 022.3359 REG)
+Peggy Wai-Chee Hochstadt. (Ed.). (1977). [_University library buildings in Southeast Asia: Proceedings of a workshop held in Singapore, 22-26 November, 1976: \[Abstracts\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1837342). Singapore: University of Singapore Library. (Call no.: RSING 022.3359 REG)
 
 President’s Design Award Singapore. (2009). _Designer of the year – Look Boon Gee_. Retrieved from DesignSingapore Council website.
 
-Roger Hallowell, Carin-Isabel Knoop, Neo Boon Siong. (2001). [_Transforming Singapore’s public libraries_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10902778). Boston, Mass.: Harvard Business School. (Call no.: RSING 027.55957 SEE)
+Roger Hallowell, Carin-Isabel Knoop, Neo Boon Siong. (2001). [_Transforming Singapore’s public libraries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10902778). Boston, Mass.: Harvard Business School. (Call no.: RSING 027.55957 SEE)
 
-Seet, K.K. (1983). [_A place for the people_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082325). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
+Seet, K.K. (1983). [_A place for the people_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
 
-Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. (2010, July). IFLA. Metropolitan Libraries section survey. Retrieved from IFLA. Metropolitan Libraries website: http://ifla.countingopinions.com
+Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. (2010, July). IFLA. Metropolitan Libraries section survey. Retrieved from IFLA. Metropolitan Libraries website. 
 
-Singapore. National Library Board. (2006). [_The height of class: Singapore’s knowledge icon_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12825546). Singapore: National Library Board. (Call no.: RSING 027.55957 HEI)
+Singapore. National Library Board. (2006). [_The height of class: Singapore’s knowledge icon_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825546). Singapore: National Library Board. (Call no.: RSING 027.55957 HEI)
 
 Stuttgart City Library/Yi Architects. (2011, December 23). _ArchDaily_. Retrieved from archdaily.com website.
 
-Sumedha Jalote. (2013, January 10). Engaging citizens in development of New Library in Singapore. _Future Gov Asia_. Retrieved from Future Gov Asia website: [www.futuregov.asia/articles/2013/jan/10/engaging-citizens-development-new-library-singapore](http://www.futuregov.asia/articles/2013/jan/10/engaging-citizens-development-new-library-singapore)
+Sumedha Jalote. (2013, January 10). Engaging citizens in development of New Library in Singapore. _Future Gov Asia_. Retrieved from Future Gov Asia website. 
 
 Tan, H.Y. (1999, March 27). [National Library building will not be conserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990327-1.2.60.2). _The Straits Times_, p. 51. Retrieved from NewspaperSG.
 
@@ -203,38 +204,37 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 #### **NOTES**
 
 
+[^1]: Nan Dahlkild. (2011, Summer). The Emergence and Challenge of the Modern Library Building: Ideal Types, Model Libraries, and Guidelines, from the Enlightenment to the Experience Economy. _Library Trends: Library Design From Past to Present_, *60* (1),11—42.
 
-[^1]: Nan Dahlkild. (2011, Summer). The Emergence and Challenge of the Modern Library Building: Ideal Types, Model Libraries, and Guidelines, from the Enlightenment to the Experience Economy. _Library Trends: Library Design From Past to Present_, _60(1)_, 11-42.
-
-[^2]: Hellen Niegaard. (2011, Summer). Library Space and Digital Challenges. _Library Trends: Library Design From Past to Present, 60(1)_, 174-189.
+[^2]: Hellen Niegaard. (2011, Summer). Library Space and Digital Challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174—189.
 
 [^3]: Daniel J. Caron. (31 May 2012). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
 
-[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (Jan 2013). Library services in the digital age. Washington, DC: Pew Research Center’s Internet & American Life Project. Retrieved from Pew Research Center website.
+[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (Jan 2013). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet & American Life Project. Retrieved from Pew Research Center website.
 
-[^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October; 90(4): 437-441.
+[^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437—441.
 
-[^6]: YouMedia at the Harold Washington Library. About Us. Retrieved from Chicago Public Library website.
+[^6]: YouMedia at the Harold Washington Library. *About Us*. Retrieved from Chicago Public Library website.
 
-[^7]: Clifford A. Pearson. (Oct 2006). Palo Verde Branch Library and Maryvale Community Center. Architectural Record. Retrieved from PubMed.gov website.
+[^7]: Clifford A. Pearson. (Oct 2006). Palo Verde Branch Library and Maryvale Community Center. *Architectural Record*. Retrieved from PubMed.gov website.
 
-[^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (May 15, 2011). Library Journal. Retrieved from libraryjournal.com website.
+[^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (May 15, 2011). *Library Journal*. Retrieved from libraryjournal.com website.
 
-[^9]: In an environmentally conscious age, users are also paying attention to environmental sustainability as an aspect of library design. See Brian W. Edwards. (2011, Summer). Sustainability as a Driving Force in Contemporary Library Design. _Library Trends: Library Design From Past to Present, 60(1)_, 190-214.
+[^9]: In an environmentally conscious age, users are also paying attention to environmental sustainability as an aspect of library design. See Brian W. Edwards. (2011, Summer). Sustainability as a Driving Force in Contemporary Library Design. *Library Trends: Library Design From Past to Present, 60* (1), 190—214.
 
-[^10]: University of Chicago Library. The Joe and Rika Mansueto Library. Retrieved from University of Chicago Library website.
+[^10]: University of Chicago Library. *The Joe and Rika Mansueto Library*. Retrieved from University of Chicago Library website.
 
-[^11]: Stuttgart City Library / Yi Architects. (23 Dec 2011). ArchDaily. Retrieved from archdaily.com website.
+[^11]: Stuttgart City Library / Yi Architects. (23 Dec 2011). *ArchDaily*. Retrieved from archdaily.com website.
 
-[^12]: The Stuttgart Library. (Nov 28, 2011). Positive Magazine. Retrieved from Positive magazine website.
+[^12]: The Stuttgart Library. (Nov 28, 2011). *Positive Magazine*. Retrieved from Positive magazine website.
 
-[^13]: Thomas Köster. (Nov 2011). The Book Cube. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
+[^13]: Thomas Köster. (Nov 2011). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
 
 [^14]: Köster, Nov 2011.  
 
-[^15]: The Seattle Public Library. (Oct 2004). Metropolis Mag. Retrieved from metropolismag.com website.
+[^15]: The Seattle Public Library. (Oct 2004). *Metropolis Mag*. Retrieved from metropolismag.com website.
 
-[^16]: Lynn Becker. (2003-2006). Sleekness in Seattle. Repeat. Retrieved from lynbecker.com website.
+[^16]: Lynn Becker. (2003-2006). *Sleekness in Seattle. Repeat*. Retrieved from lynbecker.com website.
 
 [^17]: Halifax Public Library. (2012). Retrieved from Halifax Public Library website.   
 
@@ -242,7 +242,7 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^19]: Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. IFLA. (July 2010). Metropolitan Libraries Section Survey. Retrieved from IFLA. Metropolitan Libraries website.
 
-[^20]: Singapore’s new National Library. _The Arup Journal_, 2/2006, pp. 51-59. Retrieved from Arup Journal website.
+[^20]: Singapore’s new National Library. _The Arup Journal_, 2/2006, pp. 51—59. Retrieved from Arup Journal website.
 
 [^21]: President’s Design Awards 2009. (2009). Designer of the Year – Look Boon Gee. Retrieved from DesignSingapore Councl website.
 
