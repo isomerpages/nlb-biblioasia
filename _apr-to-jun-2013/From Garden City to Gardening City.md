@@ -128,7 +128,7 @@ Campbell, W. (1972, April 10). [Garden city concepts gets lift](http://eresource
 
 Chong, W.L. (1977, November 6). [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770926-1.2.76.3). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
 
-Francesch-Huidobro, M. (2008). The power of persuasion: Conserving Sungei Buloh (pp. 165–220). In [_Governance, politics and the environment: A Singapore study_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13068037). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 320.58095957 FRA)
+Francesch-Huidobro, M. (2008). The power of persuasion: Conserving Sungei Buloh (pp. 165–220). In [_Governance, politics and the environment: A Singapore study_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13068037). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 320.58095957 FRA)
 
 [Fruit trees to nurture community spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851116-1.2.23.10). (1985, November 16). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
 
