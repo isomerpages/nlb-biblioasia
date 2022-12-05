@@ -2,5 +2,5 @@ collections:
   mar-2012:
     output: true
     order:
-      - "Tell It ‘Slanted’: An Approach to Writing My Memoir.md"
       - Director's Column.md
+      - "Tell It ‘Slanted’: An Approach to Writing My Memoir.md"
