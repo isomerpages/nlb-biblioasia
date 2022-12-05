@@ -186,7 +186,7 @@ Wan, M.H. (2009). [_Heritage places of Singapore_](https://eservice.nlb.gov.sg/i
 
 Yeoh, B.S.A. (2003). [_Contesting space in colonial Singapore: Power relations and the urban built environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
 
-Zainah Anwar. (2011). [_Legacy of honour_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14050155). Kuala Lumpur: Yayasan Mohamed Noh. (Call no.: RSEA        923.2595 ZAI)
+Zainah Anwar. (2011). [_Legacy of honour_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14050155). Kuala Lumpur: Yayasan Mohamed Noh. (Call no.: RSEA 923.2595 ZAI)
 
 **Government Records**
 
@@ -202,7 +202,7 @@ Singapore. [_Administration report of the Singapore Municipality for the year 19
 
 Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739). (1960, December 15). Budget heatlh (Vol. 14, cols. 728—729). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
 
-———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035-2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL 1047—1048)
+———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035—2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL 1047—1048)
 
 ———. (1902, October 24). [President Remarks](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (c) New Christian Cemetery (No. 61, col. 1582). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1053—1054)
 
