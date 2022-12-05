@@ -11,7 +11,7 @@ Each of the campaigns that was introduced usually followed a three-stage impleme
 
 Most of the campaigns conducted in the early years after independence were designed to lay the foundation of a new nation.[^3] For example, the “Keep Singapore Clean” and “Tree Planting” campaigns launched in 1968 and 1971 respectively were to establish Singapore as a country that is clean and full of greenery. In fact, the two campaigns as well as other similar campaigns were part of a larger plan that included changes in public health laws, relocation and licensing of itinerant hawkers, the development of proper sewage systems and better disease control measures, and the creation of parks and gardens. The government believed that improving the environmental conditions of Singapore would enhance the quality of life of the population and cultivate national pride. It would also paint a better image of Singapore for foreign investors and tourists.[^4]
 
-Family planning was another major focus for campaigns in the late 1960s and 1970s. With slogans such as “Small Family: Brighter Future” and “The Second Can Wait”, these campaigns recommended the setting up of small families.[5] Initially, the campaigns did not dictate the ideal family size. But with the launch of the “Two is Enough” campaigns in the early 1970s, a two-child family norm was endorsed.[^6] The family planning campaigns came at a time when the government was faced with the formidable cost of providing education, health services, and housing to a population that was growing rapidly due to the post-war boom. Family planning was thus regarded as a necessary measure, in order for the government to slow the country’s birth rate.[^7] Furthermore, the government also rationalised that smaller families helped reduce financial expenditure in households.[^8]
+Family planning was another major focus for campaigns in the late 1960s and 1970s. With slogans such as “Small Family: Brighter Future” and “The Second Can Wait”, these campaigns recommended the setting up of small families.[^5] Initially, the campaigns did not dictate the ideal family size. But with the launch of the “Two is Enough” campaigns in the early 1970s, a two-child family norm was endorsed.[^6] The family planning campaigns came at a time when the government was faced with the formidable cost of providing education, health services, and housing to a population that was growing rapidly due to the post-war boom. Family planning was thus regarded as a necessary measure, in order for the government to slow the country’s birth rate.[^7] Furthermore, the government also rationalised that smaller families helped reduce financial expenditure in households.[^8]
 
 #### **Campaigns of the 1980s and 1990s**
 
@@ -122,6 +122,3 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 [^20]: Life in Campaign city. (2007, July). [*Challenge*](https://eservice.nlb.gov.sg/itemholding.aspx?bid=7470680). Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
 
 [^21]: [Sandhu & Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 116.
-
-
-
