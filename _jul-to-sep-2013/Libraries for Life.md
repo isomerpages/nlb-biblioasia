@@ -8,12 +8,9 @@ description: Libraries have been gateways of discovery and learning. Find out
 Over the years, libraries have evolved from simply being gatekeepers of knowledge to being gateways of discovery and learning. Libraries not only provide access to materials that support literacy but also actively facilitate an environment of innovation and creativity that is open and free to all. The positive value that libraries add to the communities they serve is one that is widely acknowledged but hard to quantify. Today, in the face of shrinking budgets and competing needs for funding, libraries, more than ever before, need to articulate how they will continue to be relevant and meaningful to the lives of the people they serve.
 
 
-
 <img style="width:50%;" src="/images/Vol%209%20Issue%202/Libraries%20for%20Life/CE%20Illo%20New-edit.jpg">
 </div>
 	
-
-
 In Singapore, libraries hold a special place in the hearts of ordinary citizens. It is a place where memories are grown and nurtured. From the time a child is born until his silver years, from exploring other worlds through storytelling and books to taking instruction in iPad and social media classes as a senior citizen, the library is like a companion who stays for life regardless of one’s background. The idea of being a companion for life is part of the National Library Board’s (nlb) vision of creating libraries for life.
 
 The challenge for us as a library is to continue to retain our value as changing media and technologies quicken the pace of the digital transformation. While we have adapted by integrating these newer technologies, from growing our eBooks collection to developing mobile technologies, we recognise that this is not enough. Beyond riding the digital trends, we have to show that libraries can offer much more to the community; we build connections where people would otherwise not find them, between streams of knowledge, between fields of interests and between people and organisations who would otherwise not have come together.
