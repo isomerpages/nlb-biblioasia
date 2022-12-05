@@ -205,7 +205,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 #### **NOTES**
 	
-[^1]: PAP, [Jurong Branch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8082654) , 1996, p. 30.
+[^1]: PAP, [J*urong Branch*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8082654) , 1996, p. 30.
 
 [^2]: Jurong is possibly named after the city of Jurong in Jiangsu, China, as there are already mentions of the “Soongie Jurong” (Jurong River) in 1837.
 
