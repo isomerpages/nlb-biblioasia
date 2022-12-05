@@ -81,14 +81,16 @@ Robert Yeo</b> Poet and Playwright.</div>
 
 #### **NOTES**
 
-    
-
 [^1]: Haley, 19A. (1976). *Roots: The saga of an American family*. New York: Doubleday.
 
 [^2]: Mohamad, M. (1970). *The Malay Dilemma*. Singapore: Asia Pacific Press.
 
-[^3]: Forster, E. M. (1910). *Howards End*. 
-London: Edward Arnold.
+[^3]: Forster, E. M. (1910). *Howards End*. London: Edward Arnold.
+
+
+
+ 
+
 
 
 
