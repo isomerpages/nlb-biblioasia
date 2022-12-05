@@ -161,39 +161,23 @@ Looking towards the future and the implementation of the new plan is both exciti
 
 #### **REFERENCES**
 
-      
-
-Caron, D.J. (2012, May 31). Finding our place on the digital shelf \[Speech delivered at the Canadian Library Association National Conference. Ottawa, Ontario\]. Retrieved from Libraries and Archives Canada website.
-
-Library 2000 Review Committee. (1994). [_Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6731571). Singapore: SNP Publishers. (Call no.: RSING q027.05957 SIN)
-
-Lim, J. (2013, April). Future public libraries: A lifestyle approach to reading and learning. (Cannot locate this)
-
-Seet, K.K. (1983). [_A place for the people_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082325). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
-
-Tan, J., & Taha, L. (2013). Icons of learning: The Redesign of the Modern Library. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 9_ (1), 24–29. Retrieved from BiblioAsia website.
-
+    
 Caron, D.J. (2012, May 31). Finding our place on the digital shelf \[Speech delivered at the Canadian Library Association National Conference. Ottawa, Ontario\]. Retrieved from Libraries and Archives Canada website.
 
 Library 2000 Review Committee. (1994). [_Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571). Singapore: SNP Publishers. (Call no.: RSING q027.05957 SIN)
 
-Lim, J. (2013, April). *Future public libraries: A lifestyle approach to reading and learning*. 
+Lim, J. (2013, April). Future public libraries: A lifestyle approach to reading and learning. (Cannot locate this)
 
 Seet, K.K. (1983). [_A place for the people_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE)
 
 Tan, J., & Taha, L. (2013). Icons of learning: The Redesign of the Modern Library. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 9_ (1), 24–29. Retrieved from BiblioAsia website.
+
 	
 
 #### **NOTES**
 
- [^1]: [Library 2000 Review Committee](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6731571), 1994.
+ [^1]: [Library 2000 Review Committee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571), 1994.
 
 [^2]: Tan and Taha. Icons of learning. _[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, Vol 9 Iss 1 and also Caron, D.J., 2012.
 
 [^3]: Lim, J, 2013.
-
-
-
-
-
-
