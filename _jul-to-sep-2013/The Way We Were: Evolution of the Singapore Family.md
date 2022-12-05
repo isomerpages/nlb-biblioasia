@@ -195,7 +195,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^2]: [Borschberg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13604401), 2011, p. 258.
 
-[^3]: [Milner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13208713), 2008, p. 23.
+[^3]: [Milner](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13208713), 2008, p. 23.
 
 [^4]: [Clifford](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx), 1897, p.172.
 
@@ -203,21 +203,21 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^6]: Gibson, 1969, p. 119.
 
-[^7]: [Cartwright & Wright](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5230444), 1989, p. 132.
+[^7]: [Cartwright & Wright](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444), 1989, p. 132.
 
 [^8]: [Thompson](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx), 1865, pp. 251—254.
 
 [^9]: Saw, 1969, p. 38.
 
-[^10]: [Buckley](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4470390), 1902, p. 43.
+[^10]: [Buckley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470390), 1902, p. 43.
 
 [^11]: Saw, 1965, p. 43.
 
 [^12]: Frost, Aug 2003, p. 8; [Makeswary](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), Oct 2007, p. 9.
 
-[^13]: [Clammer](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080233), 1980, pp. 7—8.
+[^13]: [Clammer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233), 1980, pp. 7—8.
 
-[^14]: [Clammer](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080233), 1980, p. 23.
+[^14]: [Clammer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233), 1980, p. 23.
 
 [^15]: Saw, 1965, p. 450.
 
@@ -225,28 +225,32 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^17]: Wee, 1977, p. 294.
 
-[^18]: [Djamour](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4177777), 1952, p. 165.
+[^18]: [Djamour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777), 1952, p. 165.
 
-[^19]: [Djamour](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4177777), 1952, p. 165.
+[^19]: [Djamour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777), 1952, p. 165.
 
-[^20]: [Chua](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7858142), 1994.
+[^20]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7858142), 1994.
 
-[^21]: [Freedman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4846221), 1957, p. 121. Freedman notes that polygamy was common among the rich Chinese without giving a figure whereas Djamour notes that polygamy marriages was noted to be less than 1 percent of Muslim marriages.
+[^21]: [Freedman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221), 1957, p. 121. Freedman notes that polygamy was common among the rich Chinese without giving a figure whereas Djamour notes that polygamy marriages was noted to be less than 1 percent of Muslim marriages.
 
 [^22]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601127-1.2.5)_, 1 Nov 1960, p.1.
 
 [^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad) \[MOC\], 20 July 1972.
 
-[^24]: [Annual Report](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679), 1973, p .49.
+[^24]: [*Annual Report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1973, p .49.
 
-[^25]: [Lyons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008), 2004, p. 33.
+[^25]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 33.
 
-[^26]: [Annual report](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4360679), 1975, p. 49.
+[^26]: [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1975, p. 49.
 
-[^27]: [Wong & Yeoh](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12100746), 2003, pp.11—12.
+[^27]: [Wong & Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746), 2003, pp.11—12.
 
 [^28]: [Lyons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008), 2004, p. 31.
 
 [^29]: State of the Family Report 2011; Census of Population 2010, Statistical Release 2: Households and Housing.
 
-[^30]: [Coontz](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12680797), 2000, introduction.
+[^30]: [Coontz](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797), 2000, introduction.
+
+
+
+
