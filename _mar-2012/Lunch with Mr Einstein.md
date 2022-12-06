@@ -7,6 +7,9 @@ description: "Author Meira Chand shares this unpublished chapter of her book, A
 #### Author _Meira Chand_ shares this unpublished chapter of her book, _A Different Sky_.
 
 
+<img style="width: 650px; height: 400px;" src="images/Vol%207%20issue%204/EinsteinLunch/cups3.jpg">
+<div style="background-color: white;"></div>
+
 #### **Singapore, November 1922**
 
 The main thing to remember, Becky Cohen whispered, was that Mr Einstein had fiddled with time. He had reinvented it, slowing it down, speeding it up, even making it turn corners. The children were crouched behind the banisters at the top of the stairs, peering down into the room below where the great man was at lunch. Ceiling fans turned lazily above the guests, all there to meet Mr Einstein. Beyond the open windows a view of lush Singapore greenery was seen.
@@ -107,6 +110,19 @@ The horrid things Becky had said washed about inside her. Everything that had se
 All at once she turned and began to run towards the gate where the Indian still waited, a group of nearby people looked at her askance. Then, someone came up behind her and caught her firmly by the arm.
 
 ‘Now not time for going home. Lemonade and cake is waiting. No listen to things people say,* lah*. You always be you. Cannot change. Must make yourself strong, *lah*. Like me.’ Old Ah Siew crouched down and put a stringy arm about Cynthia who turned into the amah’s slack breast and wept.
+
+
+<center>
+<br>
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%204/EinsteinLunch/meira_chand_image.jpg"><b>
+Meira Chand</b><br>Novelist.</div></center>
+
+
+
+
+
+
 
 
 
