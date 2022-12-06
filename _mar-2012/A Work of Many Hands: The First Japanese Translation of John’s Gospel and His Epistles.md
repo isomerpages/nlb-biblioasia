@@ -195,7 +195,7 @@ Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and 
 
 
 #### **NOTES**	
-   
+
 [^1]: Christianity in any form was strictly banned from Japan for 260 years from 1613. A decree prohibiting the Christian faith that was written on the Notice Boards set up on the streets was finally lifted on 24 February 1873.
 
 [^2]: The _Hojunmaru_ was one of the typical cargo ships in those days called _sengoku-bune_ because they were built to carry around _sen_ (one thousand) _koku_ of rice (one _koku_ being a little over the five bushels). They had a huge rudder at the back and only one mast-sail, for larger ships were strictly forbidden by the Tokugawa Government. They were only fit to carry goods along the coast or in the calm inland sea.
