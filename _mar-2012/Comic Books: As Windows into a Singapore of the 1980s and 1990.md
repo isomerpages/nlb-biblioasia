@@ -9,6 +9,10 @@ description: While seeming unlikely, Singapore comic books and graphic novels
 #### While seeming unlikely, Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights _Unfortunate Lives_ and _Mr Kiasu_ and unpacks what they reveal about the past two decades.
 
 
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/ComicBooks/Presentation2.jpg">
+ <div style="background-color: white;">(Left to Right)Red Robot Productions, 2002, Dreary Weary Comics, c2011 and Dave Chua & Koh Hong Teng, c2010.  All rights reserved.</div>
+
 <i>Since the 1980s, the writing of Singapore’s postwar history has been dominated by the stories of Big Men and the political struggles of the 1950s and 1960s. John Drysdale’s Struggle for Success (1984) and Dennis Bloodworth’s The Tiger and the Trojan Horse (1986), were narratives of the Singapore Story produced in the 1980s, while former Prime Minister Lee Kuan Yew published his memoirs in the late 1990s. The latest of such ventures was Men in White (2009).</i>
 
 However, there have been recent attempts to re-examine the postwar period through social and cultural lenses. Rather than being dependent on British Colonial Office records and state archival papers, works on the history of popular culture such as films (*Latent Images: Films in Singapore* by Jan Uhde and Yvonne Ng Uhde; *Singapore Cinema* by Raphael Millet) and rock music (*Legends of the Golden Venus* and *Apache Over Singapore*, both by Joseph Pereira) focus on the medium itself and they ask the question: what does a movie or a throwaway pop song tell us about ourselves and the past?[^1] Even the National Museum of Singapore in 2010 mounted an exhibition on “Singapore 1960”, using cultural artifacts and social memories to give us a sense of what lives were like back then.
@@ -23,6 +27,10 @@ By looking at two comic books (one produced in the 1980s and the other in the 19
 #### **1980s — *Unfortunate Lives***
 
 The first Singapore graphic novel comprising short stories was Eric Khoo’s *Unfortunate Lives: Urban Stories, Uncertain Tales* (1989), intended to be the first by the comics imprint of Times Books International.
+
+
+<img style="width:60%;" src="/images/Vol%207%20issue%204/ComicBooks/Unfortunatelives_1.jpg">
+ <div style="background-color: white;"> Times Books International, c1989. All rights reserved.</div>
 
 The graphic novel was positioned as part of a cultural bloom in the arts in the late 1980s. The introduction of the book described the cultural scene as “artists, musicians, writers and producers creating works, stories, new myths about our people and our environment and lifestyle. They have been exploring the history and sociology of this young country; the tensions and conflicts of life in a new age — in ways that have never before been so visible in the public media.”
 
@@ -57,6 +65,11 @@ In his introduction to Joe Sacco’s *Palestine* (Fantagraphics Books, 2002), Ed
 
 One year after Khoo’s *Unfortunate Lives* premiered at the Singapore Book Fair, Johnny Lau, James Suresh and Lim Yu Cheng released the first *Mr Kiasu* book, “Everything I Also Want”, at the same event to great success. The first print run was 3,000 and the book sold out within weeks.[^7]
 
+
+
+<img style="width:50%;" src="/images/Vol%207%20issue%204/ComicBooks/Mr%20Kiasu_1.jpg">
+ <div style="background-color: white;">Comix Factory, 1991. All Rights Reserved. </div>
+ 
 One of the main reasons for the success of the comic was that its creators struck a chord with the 1990s zeitgeist. The early 1990s was a time when money was easily made at the stock and property markets in Singapore. The mood was one of much optimism both locally and internationally. The Berlin Wall had come down. The “evil empire” that was the Soviet Union had collapsed. The international coalition force led by the United States had successfully ended Saddam Hussein’s occupation of Kuwait. In Singapore, the economy had rebounded after the 1985 recession. Lee Kuan Yew had handed over the reins of power to Goh Chok Tong. It was a smooth transition and we were all ready for The Next Lap.
 
 Mr Kiasu epitomised the typical Singaporean of the early 1990s. Short, stumpy and bespectacled (looking somewhat like its artist, Lim Yu Cheng), Mr Kiasu was brash, obnoxious and a diehard bargain hunter always on the lookout for discounts, free samples, and the best deals.
@@ -82,6 +95,8 @@ Both *Unfortunate Lives* and *Mr Kiasu* present a slice of the political and soc
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 The National Library Board started building its comics collection in 1999 with the opening of the Library@Orchard on the top floor of Ngee Ann City. The idea for starting such a collection came out of a desire to offer something different at the new library in the heart of Orchard Road, and capturing the youth market was a key consideration. Following the successful introduction of comics in the Library@Orchard, comics collections were rolled out at other public libraries islandwide and the genre has steadily risen in popularity among library users.<br><br>
 	
+<img style="width:80%;" src="/images/Vol%207%20issue%204/ComicBooks/TPPL%20comic%20collection-1a.jpg">Display of comics collection at a public library.
+	
 From 2006 to 2010, manga series such as *Ranma* by Rumiko Takahashi and *Zatch Bell*! by Makoto Raiku, and Case Closed by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as Garfield and Hellboy. However, in 2009 and 2010, English-language comics such as *The Amazing Spider-Man*, *The Mighty Avengers*, and game-based adaptations like *World of Warcraft* began appearing in the lists of popular comics.<br><br>
 	
 Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although the Library@ Orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
@@ -94,9 +109,11 @@ The author acknowledges with thanks the contributions of Associate Professor Ian
 <b>Lim Chen Tju</b><br>
 Country Editor (Singapore) International</b><br>Journal of Comic Art.
 
+
 #### **REFERENCES**
 
 Lim, C.T. (1995). [_Cartoons of lives, mirrors of our times: History of political cartoons in Singapore 1959–1995_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7679709)_._ Singapore: Department of History, National University of Singapore. (Call no.: RSING q741.595957 LIM)
+
 
 #### **NOTES**
 
@@ -124,7 +141,3 @@ Lim, C.T. (1995). [_Cartoons of lives, mirrors of our times: History of politica
 [^11]: “The World of Singapore Cartoon”.
 
 [^12]: “Mr Kiasu: Why U So Like Dat”?
-
-
-
-
