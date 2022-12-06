@@ -13,17 +13,20 @@ description: In my view, one cannot write a good memoir without reading other
 #### In my view, one cannot write a good memoir without reading other people’s memoirs and learning from them. Though I am aware of what Gore Vidal said about the difference between an autobiography and a memoir, I am going to assume in this essay that they are the same; i.e. a person writes about his personal life and at the same time involves himself as a witness to public events he/she is influenced by or had influence over. The significance of reading what others have written, then, is to see if I can do it differently. The question is, “How differently?”
 
 
-<img src="/images/Vol%207%20issue%204/The%20Yeo%20Brothers.jpg" style="width:80%;">
- <div style="background-color: white;">The Yeo Brothers, from left: Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div>
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/The%20Yeo%20Brothers.jpg">
+<div style="background-color: white;">
+The Yeo Brothers, from left: Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div>
+	
 
 
 #### **Routes and Roots**
 
 First, let me explain the title I have chosen for my memoir, Routes. I am told the American pronunciation is “routs” but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots, in that sense, and it shows in my accounts of the lives of my parents and grandparents.
 
-<img src="/images/Vol%207%20issue%204/marriage%20certificate.jpg" style="width:80%;">
- <div style="background-color: white;">My parents’ marriage certificates, in Chinese, with signatures in English.
-</div>
+<img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/marriage%20certificate.jpg">
+<div style="background-color: white;">My parents’ marriage certificates, in Chinese, with signatures in English.</div>
+
 
 At the same time, I am keen to use the title Routes to refer to the physical journeys that my grandparents made. My reading of history tells me that the ancestors of the Chinese in Southeast Asian countries came mostly from South China, namely the provinces of Fujian, Guangdong and Guangzhou.
 
@@ -37,16 +40,19 @@ Because an autobiography traditionally starts with the author reminiscing about 
 
 Following a chronological method may be a less-than-exciting necessity but it enables me to grasp time. I do acknowledge that I live in the present as much as I do in the past. Quite often, they are in fluid fusion or collision. So, as art organises the chaos of my life, I have tried to artfully organise my memoir in the form of a ripple. Herein lies the difference between my memoir and most of the rest: While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present.
 
-<img src="/images/Vol%207%20issue%204/Vernon.jpg" style="width:80%;">
- <div style="background-color: white;">Left to right: Vernon Seneviratne, Renee Coelho and Kathi at extreme right.</div>
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/Vernon.jpg">
+<div style="background-color: white;">Left to right: Vernon Seneviratne, Renee Coelho and Kathi at extreme right.</div>
 
 
 #### **The Ripple Effect**
 
 At the core of my book is the Self; the conscious Self. I start with my experience, my earliest memory and then “ripple out” to explore how the Self is shaped by events in my community, my country and the rest of the world. I am able to do this because of the life I had lived up to 1975. Born in Singapore in January 1940 as a British subject, I went through the Japanese Occupation from 1942 to 1945, self-government in 1959, independence in 1965, studies in London, England from 1966 to 1968 and work in Bangkok, Thailand from 1970 to 1971. Given the trajectory, I feel that it was inadequate to write about myself without enquiring how my life is determined by the ripples. As well, at a certain time in 1974, I felt I was in a position of not only being passively influenced by external events but also being able to directly influence events as my playwriting career prospered.
 
-<img src="/images/Vol%207%20issue%204/Datsun%20car.jpg" style="width:80%;">
- <div style="background-color: white;">The Datsun car, licence plate SX2368, that I drove to Bangkok in December 1971.</div>
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/Datsun%20car.jpg">
+<div style="background-color: white;">
+The Datsun car, licence plate SX2368, that I drove to Bangkok in December 1971.</div>
  
  
 I felt absolutely privileged that in the first half of my life so far, I had been witness to extraordinary happenings. First, how many people get a chance to witness his/her homeland’s transition from a colony to a nation? On page 166 of my memoir, I quote Lee Kuan Yew when he was taking the oath as Prime Minister of Singapore on 9 August 1965: “that as from today, the ninth day of August in the year one thousand nine hundred and sixtyfive Singapore shall be forever a sovereign, democratic and independent nation”. Two, many people get to go to London for a variety of reasons but how many actually were there at a time of glorious tumult in a world capital — when women upped their skirts and young people downed old values, smoked hash, loved freely, and all these happening while the Beatles were redefining pop music? Third, not many people in Asia, influenced by American soft power in the arts — movies, comics, jazz — got to witness the same power humiliated militarily as they pulled out of Saigon, Vietnam on 30 April 1975, thus ending the Vietnam War. These experiences have shaped my life for the better.
