@@ -193,9 +193,9 @@ Williams, S. W. (1837). Narrative of voyage of the ship Morrison, captain D. Ing
 
 Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and Missionary Journal, 7_(6), 396.
 
+
 #### **NOTES**	
    
-
 [^1]: Christianity in any form was strictly banned from Japan for 260 years from 1613. A decree prohibiting the Christian faith that was written on the Notice Boards set up on the streets was finally lifted on 24 February 1873.
 
 [^2]: The _Hojunmaru_ was one of the typical cargo ships in those days called _sengoku-bune_ because they were built to carry around _sen_ (one thousand) _koku_ of rice (one _koku_ being a little over the five bushels). They had a huge rudder at the back and only one mast-sail, for larger ships were strictly forbidden by the Tokugawa Government. They were only fit to carry goods along the coast or in the calm inland sea.
@@ -236,9 +236,7 @@ Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and 
 
 [^20]:  _Missionary Herald_ for the year 1837, p. 456–461. Report from Canton, dated 7 March 1837. The detailed description on the trip of the _Himmaleh_, see the Preface, Vol. 1, by King and Lay, 1839.
 
-[^21]: Under the ‘Report of the Mission for the Year 1837’ on the print by blocks for Chinese printing it reads: “Blocks have been prepared for the Life of Christ, of Moses, Joseph, Daniel, John, and Paul, and two or three other tracts by Mr Gutzlaff; for a revised edition of Milne’s Village Sermons, Medhurst’s Harmony of Gospels, the Gospels and Epistles of John in Japanese”… (p. 419).
-
-Harvard-Yenching Misisonary Writings in Chinese Microfims, compiled by M. Poon (January 2006), also lists the title, translator’s name, the place and the year of publication, Retrieved from Chinsci bokee website.  
+[^21]: Under the ‘Report of the Mission for the Year 1837’ on the print by blocks for Chinese printing it reads: “Blocks have been prepared for the Life of Christ, of Moses, Joseph, Daniel, John, and Paul, and two or three other tracts by Mr Gutzlaff; for a revised edition of Milne’s Village Sermons, Medhurst’s Harmony of Gospels, the Gospels and Epistles of John in Japanese”… (p. 419); Harvard-Yenching Misisonary Writings in Chinese Microfims, compiled by M. Poon (January 2006), also lists the title, translator’s name, the place and the year of publication, Retrieved from Chinsci bokee website.  
 
 [^22]: Nine copies exist outside Japan: ABCFM in Boston (3 copies, one of them used to belong to Ira Tracy, one to S.W. Williams). Harvard University Library, American Bible Society (2 copies), British Bible Society, British Library and Paris National Library. Seven copies exist in Japan: Tokyo Theological Seminary, Doshisha University (Kyoto), Japan Bible Society (2 copies), Meiji Gakuin University, Tenri Library (Nara) and one owned by an individual. The original copies of _John’s Epistles_ in Japanese exist only at two places: British Library and Paris National Library.
 	
