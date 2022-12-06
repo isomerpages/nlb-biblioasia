@@ -107,7 +107,7 @@ The author acknowledges with thanks the contributions of Associate Professor Ian
 
 <div>
 <b>Lim Chen Tju</b><br>
-Country Editor (Singapore) International</b><br>Journal of Comic Art.
+Country Editor (Singapore) International</b><br>Journal of Comic Art.</div>
 
 
 #### **REFERENCES**
