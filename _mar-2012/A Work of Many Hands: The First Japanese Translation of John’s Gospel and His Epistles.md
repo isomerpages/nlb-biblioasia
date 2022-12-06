@@ -238,12 +238,22 @@ Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and 
 [^21]: Under the ‘Report of the Mission for the Year 1837’ on the print by blocks for Chinese printing it reads: “Blocks have been prepared for the Life of Christ, of Moses, Joseph, Daniel, John, and Paul, and two or three other tracts by Mr Gutzlaff; for a revised edition of Milne’s Village Sermons, Medhurst’s Harmony of Gospels, the Gospels and Epistles of John in Japanese”… (p. 419); Harvard-Yenching Misisonary Writings in Chinese Microfims, compiled by M. Poon (January 2006), also lists the title, translator’s name, the place and the year of publication, Retrieved from Chinsci bokee website.  
 
 [^22]: Nine copies exist outside Japan: ABCFM in Boston (3 copies, one of them used to belong to Ira Tracy, one to S.W. Williams). Harvard University Library, American Bible Society (2 copies), British Bible Society, British Library and Paris National Library. Seven copies exist in Japan: Tokyo Theological Seminary, Doshisha University (Kyoto), Japan Bible Society (2 copies), Meiji Gakuin University, Tenri Library (Nara) and one owned by an individual. The original copies of _John’s Epistles_ in Japanese exist only at two places: British Library and Paris National Library.
-	
-	
-	
 
 
 
 
 
-</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
