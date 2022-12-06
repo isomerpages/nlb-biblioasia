@@ -7,7 +7,7 @@ description: "Author Meira Chand shares this unpublished chapter of her book, A
 #### Author _Meira Chand_ shares this unpublished chapter of her book, _A Different Sky_.
 
 
-<img style="width: 650px; height: 400px;" src="images/Vol%207%20issue%204/EinsteinLunch/cups3.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%207%20issue%204/EinsteinLunch/cups3.jpg">
 <div style="background-color: white;"></div>
 
 #### **Singapore, November 1922**
@@ -117,13 +117,3 @@ All at once she turned and began to run towards the gate where the Indian still 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%204/EinsteinLunch/meira_chand_image.jpg"><b>
 Meira Chand</b><br>Novelist.</div></center>
-
-
-
-
-
-
-
-
-
-
