@@ -126,8 +126,7 @@ Professor Emeritus<br> Sugiyama Jogakuen University.
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%207%20issue%204/JohnGospel/Irene.jpg" style="width: 100px; height: 100px;"/>
-<b>IIrene Lim</b><br>
-Senior Associate I<br> NL Heritage<br>National Library Board</div></center>
+<b>IIrene Lim</b><br>Senior Associate I<br> NL Heritage<br>National Library Board</div></center>
 
 	
 #### **REFERENCES**
@@ -248,6 +247,3 @@ Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and 
 
 
 </center>
-
-
-
