@@ -82,7 +82,7 @@ Both *Unfortunate Lives* and *Mr Kiasu* present a slice of the political and soc
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 The National Library Board started building its comics collection in 1999 with the opening of the Library@Orchard on the top floor of Ngee Ann City. The idea for starting such a collection came out of a desire to offer something different at the new library in the heart of Orchard Road, and capturing the youth market was a key consideration. Following the successful introduction of comics in the Library@Orchard, comics collections were rolled out at other public libraries islandwide and the genre has steadily risen in popularity among library users.<br><br>
 	
-From 2006 to 2010, manga series such as Ranma by Rumiko Takahashi and Zatch Bell! by Makoto Raiku, and Case Closed by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as Garfield and Hellboy. However, in 2009 and 2010, English-language comics such as The Amazing Spider-Man, The Mighty Avengers, and game-based adaptations like World of Warcraft began appearing in the lists of popular comics.<br><br>
+From 2006 to 2010, manga series such as *Ranma* by Rumiko Takahashi and *Zatch Bell*! by Makoto Raiku, and Case Closed by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as Garfield and Hellboy. However, in 2009 and 2010, English-language comics such as *The Amazing Spider-Man*, *The Mighty Avengers*, and game-based adaptations like *World of Warcraft* began appearing in the lists of popular comics.<br><br>
 	
 Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although the Library@ Orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
 \-- *Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board*
@@ -92,7 +92,4 @@ The author acknowledges with thanks the contributions of Associate Professor Ian
 
 <div>
 <b>Lim Chen Tju</b><br>
-Country Editor (Singapore) International</b><br>Journal of Comic Art	
-
-
-
+Country Editor (Singapore) International</b><br>Journal of Comic Art
