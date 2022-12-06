@@ -73,29 +73,26 @@ The eighth and final book of the *Mr Kiasu* series, “Everything Also Act Blur�
 
 So how does the *Mr Kiasu* series read after all these years? One thing that will strike you is that Mr Kiasu is not as hateful as the media then made him out to be. He is rather likeable, if irritating. He doesn’t win all the time and his kiasu-ness often lands him in trouble. Of course, he doesn’t learn, which makes him truly a comic book character. The books score high points in their digs at the way Singaporeans behave. The second *Mr Kiasu* book published in 1991, “Everything Also Must Grab”, made fun of the people who refused to give up their seats to the elderly on MRT trains — the “sleeping beauty”, the “absorbed” newspaper reader and the fake old man (Mr Kiasu disguises himself as one to ensure that he need not give up his seat on the train). Today we still see such antisocial behaviour on MRT trains.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">   
-
-
-The National Library Board started building its comics collection in 1999 with the opening of the Library@Orchard on the top floor of Ngee Ann City. The idea for starting such a collection came out of a desire to offer something different at the new library in the heart of Orchard Road, and capturing the youth market was a key consideration. Following the successful introduction of comics in the Library@Orchard, comics collections were rolled out at other public libraries islandwide and the genre has steadily risen in popularity among library users.<br><br>
-	
-From 2006 to 2010, manga series such as *Ranma* by Rumiko Takahashi and *Zatch Bell*! by Makoto Raiku, and *Case Closed* by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as *Garfield* and *Hellboy*. However, in 2009 and 2010, English-language comics such as T*he Amazing Spider-Man, The Mighty Avengers*, and game-based adaptations like *World of Warcraft* began appearing in the lists of popular comics.<br><br>
-
-Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although the Library@ Orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
-	
--- Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board. </div>
-
-	
-
 #### **Conclusion**
 
 If *Unfortunate Lives* represents the artistic potential of comics to reflect real lives and social concerns, issues that also characterise more recent comics like Dave Chua and Koh Hong Teng’s *Gone Case* and Troy Chin’s *The Resident Tourist*, then *Mr Kiasu* highlights the commercial viability of doing comics in Singapore. This viability is further underscored by the current success of Sonny Liew, who makes a more than decent living by drawing for DC and Marvel Comics, and also that of Otto Fong and his *Adventures in Science series*.
 
 Both *Unfortunate Lives* and *Mr Kiasu* present a slice of the political and social milieu of Singapore in the late 1980s and 1990s. The Singapore Memory Project, spearheaded by the National Library Board, was launched last year to capture and document the memories of Singapore and Singaporeans. Comic books are a natural medium to do just that.
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+The National Library Board started building its comics collection in 1999 with the opening of the Library@Orchard on the top floor of Ngee Ann City. The idea for starting such a collection came out of a desire to offer something different at the new library in the heart of Orchard Road, and capturing the youth market was a key consideration. Following the successful introduction of comics in the Library@Orchard, comics collections were rolled out at other public libraries islandwide and the genre has steadily risen in popularity among library users.<br><br>
+	
+From 2006 to 2010, manga series such as Ranma by Rumiko Takahashi and Zatch Bell! by Makoto Raiku, and Case Closed by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as Garfield and Hellboy. However, in 2009 and 2010, English-language comics such as The Amazing Spider-Man, The Mighty Avengers, and game-based adaptations like World of Warcraft began appearing in the lists of popular comics.<br><br>
+	
+Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although the Library@ Orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
+\-- *Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board*
+</div> 
+	
 The author acknowledges with thanks the contributions of Associate Professor Ian Gordon, Department of History, National University of Singapore in reviewing this article.
 
-
 <div>
-<b>Lim Cheng Tju</b><br>Country Editor (Singapore)<br>
-International Journal of Comic Art
-</div>
+<b>Lim Chen Tju</b><br>
+Country Editor (Singapore) International</b><br>Journal of Comic Art	
+
+
+
