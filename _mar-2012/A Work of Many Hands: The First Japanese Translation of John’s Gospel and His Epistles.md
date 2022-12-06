@@ -9,6 +9,10 @@ description: "The first Japanese translation of John’s Gospel and His Epistles
 ---
 #### The first Japanese translation of _John’s Gospel and His Epistles_ was printed at a small printing press in 1837 in Singapore. _Professor Emeritus Sachiko Tanaka_ and Senior Associate _Irene Lim_ trace the path it took for this book to be produced.
 
+<img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/The%20Gospel.jpg">
+ <div style="background-color: white;">The first Japanese translation of ‘The Gospel According To John’ by Dr Karl Gützlaff. (Source: The Japan Bible Society).</div>
+
+
 The essay begins in 19th century Japan where a Japanese crew that had set sail for Edo (now known as Tokyo) got shipwrecked and three surviving sailors finally washed-up in America. The following section details how the earnest efforts of American and English missionaries to repatriate the sailors were met with resolute hostility from a Japan which practised a closed-door policy, forcing them to live estranged in a country and culture vastly different from theirs. Meanwhile in Macao (now known as Macau, the ex-Portuguese colony near Hong Kong), the Japanese worked with a German missionary in his ambitious attempt to translate John’s Gospel and his Epistles into Japanese. To print the manuscript posed another challenge, for the printing capabilities of missionary societies were in their nascent stage in the first half of the 19th century (Proudfoot, 1994, p. 9).
 
 Since China then was hostile to foreigners and missionaries, the manuscript and types were sent to Singapore, where the more open socio-political climate and available printing- and press-capabilities enabled its printing. In Singapore, Chinese engravers who had no knowledge of Japanese were tasked to produce the woodcuts for printing the translation. With funding from an American mission society, the translation was finally printed, having by then utilised the competences and resources of several individuals of varying affiliations, and who were located in different cities.
@@ -19,7 +23,16 @@ Japan adopted a closed-door policy from 1638 to 1854. The opportunity for foreig
 
 In November 1832, the *Hojunmaru*2 (literally ‘treasure-followship’) had set sail for Edo from Toba Port, one of the major ports between Osaka and Edo, carrying freshly-harvested rice, pottery and other consumer goods in time for the new year. Most of its 14-member crew was from a small fishing village called Onoura, located not far from Toba across the Ise Bay on the Pacific Ocean coast. After several days at sea, the *Hojunmaru* was shipwrecked after encountering a fierce storm. Incredibly, the crew drifted east along the Japan Current and found land only after 14 months. By then the crew had been reduced to three (Haruna, 1879, p. 29–33).
 
+<img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/Hojunmaru%20ship-0.jpg">
+<div style="background-color: white;">The <i>Hojunmaru</i> was a typical Japanese cargo ship known as sengokubune. (Source: The Otokichi Society).</div>
+
+
 Sometime between the end of 1833 and the early months of 1834, the three surviving crew members were washed ashore the northwest coast of the American continent, near Cape Alva, on the Olympic Peninsula in the present state of Washington (Mihama et al, 2006, p. 3). They were Otokichi (the youngest, about 17 years old), Kyukichi (18 years old) and Iwakichi (an experienced helmsman around 30 years old) (See note 8, Haruna, 1979, p. 255). They were discovered by and lived with the Makah tribe3 in a what is now known as a ‘long house’ until May 1834, when John McLoughlin, chief factor, trader and administrator of the then Oregon Country of Hudson’s Bay Company (HBC)4 at Fort Vancouver, bought them at a high price from the tribe (Rich, 1941, p. 122).
+
+<img style="width:50%;" src="/images/Vol%207%20issue%204/JohnGospel/Otokichi-0.jpg">
+ <div style="background-color: white;">A picture of Otokichi, drawn by an unknown Japanese artist in 1849. (Source: Shiota Junan, ed. KaiboIgiho, National Archives of Japan).
+</div>
+
 
 At Fort Vancouver, the three Japanese regained their health under the care of M c L o u g h l i n , who was also a medical doctor. They found themselves surrounded by strange European faces and unfamiliar customs, and were sent to a school for the children of company workers and local *methis* (mixed blood children with white Europeans and native Indians). Methodist missionary Cyrus Shepard reported to the Boston Office of the Methodist Episcopal Church on 10 January 1835, “I have also had three Japanese under instruction … While in school, they were remarkably studious, and made very rapid improvement.”5 In Japan, the three Japanese would have attended a local temple school that taught *katakana*6 and the use of the abacus. They would also have been taught that speaking to foreigners was forbidden and that listening to a Christian message would have meant a certain death in those days. At Fort Vancouver, the three Japanese did all of that and even joined in at mealtime prayers for they saw kindness in those who gave them shelter.
 
@@ -28,6 +41,11 @@ McLoughlin, as chief administrator of the British Hudson’s Bay Company, cheris
 The six-month journey via the Cape of Good Hope brought the three Japanese to Macao in late December 1835. In Macao, they were put under the care of Gutzlaff, a German missionary who was working as a Chinese interpreter of the British Board of Trade. Gutzlaff had been in Batavia (now known as Jakarta) from 1827, and while living with W. H. Medhurst, a missionary of the London Missionary Society (LMS), he first learned Chinese and Malay. However, when he saw Medhurst’s English and Japanese Dictionary published in 1830,9 Gutzlaff, being a natural linguist, became very interested in learning Japanese.
 
 A shipwreck that left three Japanese stranded and severely homesick in a foreign land turned out to be a golden opportunity for a pioneering collaborative work. Gutzlaff enlisted the three Japanese’s help in translating John’s Gospel and his Epistles into Japanese. One of his letters from Macao (dated November 1836) tells of his daily schedule: 7–9 am, Chinese translation of the Old Testament; 9:30am–noon, Japanese translation of the New Testament with the help of two/three Japanese; 12–1pm, examination and correction of the above translation, etc. On Sundays, he conducted a Japanese service from noon to 1 pm.10
+
+
+<img style="width:50%;" src="/images/Vol%207%20issue%204/JohnGospel/gutzlaff1.jpg">
+ <div style="background-color: white;">Dr Karl Gützlaff. Journal of Three Voyages along the Coast of China in 1831, 1832, & 1833, with the notices of Siam, Corea, and the Loo-Choo Islands. 2nd version. 1834, London: Frederick Westley and A. H. Davis, Stationers’ Hall Court.
+</div>
 
 Gutzlaff also wrote to the American Bible Society in January 1837 detailing how these hours were spent: “Whilst I have the original text before me, I translate sentence by sentence asking my native assistants how they understand this; and after having ascertained that they comprehend me, they put the phraseology into good Japanese without changing the sense. One of them writes this down, and we revise it afterwards jointly…” (ABS History, Essay #16, Part III-G, , Hills, date unknown, G-2, G-3). Admittedly, it was a rudimentary attempt at translation by modern-day standards. The three Japanese must have tried hard to understand Gutzlaff’s English and the new concepts of the Gospel message, and thereafter find suitable Japanese expressions for these with their limited vocabulary. After seven to eight months of intense interactions, Gutzlaff and the three Japanese completed the manuscript of the Japanese translation of John’s Gospel and his Epistles.
 
@@ -55,6 +73,10 @@ The ABCFM also transferred Tracy from Canton to Singapore for him to take charge
 
 In Singapore, printing initiatives first began with the arrival of the LMS soon after its founding in 1819. The LMS was granted the lease EIC Lot 215 (located at the corner of Bras Basah Road and North Bridge Road where Raffles Hotel stands today) to set up a missionary chapel in 1819 (Byrd, 1970, p. 13. See Plan of Town of Singapore, 1854.) In 1823, the LMS established a modest printing press, initially located in the Mission Chapel grounds, with permission from Stamford Raffles who needed its services to run his administration (Byrd, 1970, p. 13 and O’Sullivan, 1984, p. 77).
 
+<img style="width:50%;" src="/images/Vol%207%20issue%204/JohnGospel/Plan%20of%20Town%20of%20Singapore%20and%20Environs,%201854.jpg">
+ <div style="background-color: white;">Plan of Town of Singapore and Environs, 1854. The Mission Press was located on the grounds of the Mission Chapel, where the Raffles Hotel stands today. (Source: Singapore Land Authority). 
+</div>
+
 It was Claudius Henry Thomsen (1782–1890), a missionary with the Malay missions of the LMS, who brought with him a small press and two workmen when he moved from M a l a c c a to Singapore in 1822. The press consisted of a small quantity of worn-out Malay types and old English types that could produce a four-page print. It was not able to handle regular book-printing. The two workmen composed in English and Malay. One did type-cutting and the other bookbinding (Byrd, 1970, p. 13 and O’Sullivan, 1974, p. 73). Thomsen also had the help of a missionary colleague, Samuel Milton (1788–1849), who had come to Singapore earlier in October 1819 (Milne, 1820, p. 289).
 
 While the men mentioned corresponded with the LMS in London on their printing and press needs, they also had to rely heavily on their own resourcefulness.
@@ -69,6 +91,10 @@ Besides the limited printing capabilities, the language competence of the wood-c
 
 *The Missionary Herald* (Anon, 1838, p. 419) lists books and tracts printed in Chinese including the oldest surviving Japanese translation of the Gospel and Epistles of John by Gutzlaff in his Chinese name: 約翰福音之傳 (120 pages, printed on Chinese paper) and 約翰上中 下書 (20 pages), by 善徳纂 at 新嘉坡堅夏 書院蔵板.21 The entire cost of block-cutting, printing and binding was recorded as $352.82, and was paid for by the American Bible Society from the funds handled by S. W. Williams. In total, 1,525 copies of John’s Gospel and his Epistles and about 1,400 copies of his letters were printed and carried by the *Himmaleh* to Macao and unloaded on the small island of Lintin on 15 August 1837 while the *Morrison* was sailing back from Japan with the disheartened Japanese seamen on board (Akiyama, 2006, p. 295–297). Though the books themselves do not identify the year of publication, some writings by the owners of the original copies suggest that they were printed in May 1837 (*ibid*, p. 311–314), though there are some traces of minor revisions made twice since then, probably by November 1839 (*ibid*., p. 320) when many of the missionaries were moved from Singapore to China.
 
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/Presentation2.jpg">
+ <div style="background-color: white;">The first Japanese translation of John’s Gospel and his Epistles, printed by the Mission Press in Singapore in 1837.</div>
+
 With the opening up of China in 1843, the ABCMF closed its Singapore station and gave the land and press to the LMS. The press was managed by Benjamin Peach Keasberry (1805– 1875), an LMS missionary who continued to serve in Singapore even after the LMS closed its Singapore station in 1846. After Keasberry’s death, the press was sold to John Fraser and David Chalmers Neave in 1879, who later absorbed the press into their aerated-water company, Singapore and Straits Aerated Water Co. in 1883 (Makepeace, 1908, p. 265 and Anon, 1931, p. 14).
 
 #### **Conclusion**
@@ -76,6 +102,10 @@ With the opening up of China in 1843, the ABCMF closed its Singapore station and
 Only 16 copies of the Japanese translation of John’s Gospel are known to exist around the world — in Boston, London, Paris, Tokyo, etc.22 Tracing the production of these has allowed us a glimpse into the socio-political conditions of several countries, and the resourcefulness and determination of Gutzlaff and his contemporary missionaries in managing the resources available to them in order to achieve their goals.
 
 How does the 19th century pioneering translation impact us today? It is important in several ways: Christians can learn from it how the new concepts were coined in the words that could be understood by everyone without much schooling; scholars of the Japanese language can learn from it how the language has changed (its pronunciation, vocabulary and grammar); those who study the Edo Period can learn from it because it reflects the social customs and class distinctions of the era. The translation has been reprinted five times — by Nagasaki Publishing Co. in 1941 during World War 2 and by Shinkyo Press (which incorporated Nagasaki Press) in 1976, 2000, 2009 and 2011, with each reprint carrying an accompanying commentary revised with new findings by N. Akiyama.
+
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/image_monument.jpg">
+<div style="background-color: white;">The monument in memory of First Bible Translation and Three Japanese Seamen. (Source: Sachiko Tanaka).</div>
 
 On 6 October 2011, 120 people gathered for the 50th Memorial Service commemorating the founding of the Stone Monument (on which the names of Otokichi, Kyukichi and Iwakichi are carved) for the first Japanese translation of the Bible. The monument stands by the beach, facing west towards the Ise Bay and the Pacific Ocean. Around the time of the commemoration, a copy of the reprint was sent to the National Library Board, Singapore, to be deposited for posterity.
 
