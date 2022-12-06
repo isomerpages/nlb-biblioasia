@@ -29,7 +29,7 @@ In November 1832, the *Hojunmaru*2 (literally ‘treasure-followship’) had set
 
 Sometime between the end of 1833 and the early months of 1834, the three surviving crew members were washed ashore the northwest coast of the American continent, near Cape Alva, on the Olympic Peninsula in the present state of Washington (Mihama et al, 2006, p. 3). They were Otokichi (the youngest, about 17 years old), Kyukichi (18 years old) and Iwakichi (an experienced helmsman around 30 years old) (See note 8, Haruna, 1979, p. 255). They were discovered by and lived with the Makah tribe3 in a what is now known as a ‘long house’ until May 1834, when John McLoughlin, chief factor, trader and administrator of the then Oregon Country of Hudson’s Bay Company (HBC)4 at Fort Vancouver, bought them at a high price from the tribe (Rich, 1941, p. 122).
 
-<img style="width:50%;" src="/images/Vol%207%20issue%204/JohnGospel/Otokichi-0.jpg">
+<img style="width:40%;" src="/images/Vol%207%20issue%204/JohnGospel/Otokichi-0.jpg">
  <div style="background-color: white;">A picture of Otokichi, drawn by an unknown Japanese artist in 1849. (Source: Shiota Junan, ed. KaiboIgiho, National Archives of Japan).
 </div>
 
@@ -73,7 +73,8 @@ The ABCFM also transferred Tracy from Canton to Singapore for him to take charge
 
 In Singapore, printing initiatives first began with the arrival of the LMS soon after its founding in 1819. The LMS was granted the lease EIC Lot 215 (located at the corner of Bras Basah Road and North Bridge Road where Raffles Hotel stands today) to set up a missionary chapel in 1819 (Byrd, 1970, p. 13. See Plan of Town of Singapore, 1854.) In 1823, the LMS established a modest printing press, initially located in the Mission Chapel grounds, with permission from Stamford Raffles who needed its services to run his administration (Byrd, 1970, p. 13 and O’Sullivan, 1984, p. 77).
 
-<img style="width:50%;" src="/images/Vol%207%20issue%204/JohnGospel/Plan%20of%20Town%20of%20Singapore%20and%20Environs,%201854.jpg">
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/Plan%20of%20Town%20of%20Singapore%20and%20Environs,%201854_1.jpg">
  <div style="background-color: white;">Plan of Town of Singapore and Environs, 1854. The Mission Press was located on the grounds of the Mission Chapel, where the Raffles Hotel stands today. (Source: Singapore Land Authority). 
 </div>
 
