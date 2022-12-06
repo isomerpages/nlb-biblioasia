@@ -82,7 +82,8 @@ From 2006 to 2010, manga series such as *Ranma* by Rumiko Takahashi and *Zatch B
 
 Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although the Library@ Orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
 	
-\-- Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board. </div></span> 
+-- Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board. </div>
+
 	
 
 #### **Conclusion**
