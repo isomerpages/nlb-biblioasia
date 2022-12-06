@@ -193,8 +193,7 @@ Williams, S. W. (1837). Narrative of voyage of the ship Morrison, captain D. Ing
 
 Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and Missionary Journal, 7_(6), 396.
 
-
-#### **NOTES**	
+#### **NOTES**
 
 [^1]: Christianity in any form was strictly banned from Japan for 260 years from 1613. A decree prohibiting the Christian faith that was written on the Notice Boards set up on the streets was finally lifted on 24 February 1873.
 
@@ -242,13 +241,9 @@ Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and 
 	
 	
 	
-	
-	
 
 
 
 
 
-
-
-</div></center>
+</center>
