@@ -74,10 +74,11 @@ I hope all these — including the candour of my revelations, the sensual as wel
 <i>“Camerado, this is no book. Who touches this, touches a man."</i>
 
 
+<center>
 <br>
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%204/author_Robert%20Yeo.jpg"><b>
-Robert Yeo</b> Poet and Playwright.</div>
+<img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%204/WritingMemoir/author_Robert%20Yeo.jpg"><b>
+Robert Yeo</b><br> Poet and Playwright.</div></center>
 
 #### **NOTES**
 
@@ -86,11 +87,3 @@ Robert Yeo</b> Poet and Playwright.</div>
 [^2]: Mohamad, M. (1970). *The Malay Dilemma*. Singapore: Asia Pacific Press.
 
 [^3]: Forster, E. M. (1910). *Howards End*. London: Edward Arnold.
-
-
-
- 
-
-
-
-
