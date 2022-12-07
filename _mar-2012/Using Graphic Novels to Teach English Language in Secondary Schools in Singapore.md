@@ -5,8 +5,11 @@ permalink: /vol-7/issue-4/mar-2012/graphic-novel-english-language/
 description: Novelist Clarence Lee investigates the effectiveness, plausibility
   and implications of using graphic novels in the teaching of English.
 ---
-
 #### Novelist _Clarence Lee_ investigates the effectiveness, plausibility and implications of using graphic novels in the teaching of English.
+
+
+<img style="width: 650px; height: 300px;" src="/images/Vol%207%20issue%204/GraphicNovels/comic.jpg">
+<div style="background-color: white;">A page from the graphic novel <i>Gone Case</i> by Dave Chua and Koh Hong Teng. (Reproduced with permission from Dave Chua and Koh Hong Teng.)</div>
 
 <i>In the classroom, books can be used as media for transmitting knowledge, studied as objects for their own value — as might happen in a literature lesson — or take pupils on a journey with their imagination. Educators have often debated about introducing new books into the classroom because they have different views as to which books fulfil those three roles well, and the debates often reveal what books are considered culturally or politically acceptable (Carter, 2008, pp. 52–55). Most educators have shunned graphic novels because they supposedly lack merit as a medium for knowledge or skills transmission or are unfit for study as artistic objects (ibid., pp. 49, 54). But do these assumptions have any rational basis? To see if this is the case in Singapore, a study was conducted in Singapore to look at the effectiveness of using graphic novels to teach descriptive writing in English Language lessons in a neighbourhood secondary school. </i>
 
@@ -49,9 +52,17 @@ Twenty-three male and 13 female Secondary Two pupils from the Express stream in 
 
 This pre-test was marked using a 12-mark rubric with distinct numerical grades for each fulfilment of the desired skills of descriptive writing. Rubrics contain criteria and performance scales that help pupils or assessors define the important components of a performance or product. Analytic rubrics divide the criteria into separate scoring sections, whereas holistic rubrics combine the criteria to give a general grade (Witte, 2011, p. 151). In this case, an analytic rubric was used since both the pupil as well as the assessor had to be absolutely sure which particular descriptive skills were areas of weakness or strength. The rubric was designed based on those for creative writing (Witte, 2011, p. 193; Hanson, 2009, p. 106).
 
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/GraphicNovels/Class%20handset.jpg">
+ <div style="background-color: white;">Handout given to the experiment’s Treatment group. Students were asked to answer a set of questions based on some extracts from the graphicnovel adaptation of Dave Chua’s <i>Gone Case.</i>(Images reproduced with permission from Dave Chua and Koh Hong Teng.)</div> 
+
 To satisfy the conditions for a true experimental design, we had to assign the pupils randomly to one Control and one Treatment group, and to make the groups as equivalent as possible. Stratified random sampling of the students was conducted, dividing them into the two groups using their pre-test scores so groups would have an identical mix of students with similar scores (Fraenkel & Wallen, 2006, p. 100). Therefore, it can be assumed that the samples of both groups were mechanically matched and thus equal in their proficiency in descriptive writing (ibid., p. 236).
 
 Between the pre-test and the day of the lesson which included the post-test -– which was conducted a week after the pre-test -– the pupils were not taught descriptive writing so as to reduce the risk of maturation of the pupils’ writing abilities. On the day of the intervention, the pupils were divided into their groups, with the Control group being taught texts from Dave Chua’s novel Gone Case (Chua, 2002) which received the Singapore Literature Prize Commendation Award in 1996 (Lee, 2006). The Treatment group was taught with a graphic-novel adaptation of Gone Case, also written by Dave Chua and illustrated by Koh Hong Teng (Chua & Koh, 2010). These texts were chosen because they were closely related in terms of subject matter, namely life in Housing and Development Board neighbourhoods, which incidentally were where most of the pupils lived. The local setting did not demand the knowledge of foreign slang and it engaged the interest of the students who did not have many encounters with Singaporean literature.
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/GraphicNovels/Comics_2.jpg">
+ <div style="background-color: white;">Handout given to the experiment’s Treatment group. Students were asked to answer a set of questions based on some extracts from the graphicnovel adaptation of Dave Chua’s <i>Gone Case</i>. (Images reproduced with permission from Dave Chua and Koh Hong Teng.)
+</div>
 
 Immediately after the lesson, pupils in both groups were given a post-test where they wrote brief descriptive responses to the same question given in the pre-test. They were assessed with the same rubric. A survey was conducted after the post-test to find out what the pupils thought about the lesson.
 
@@ -61,11 +72,19 @@ Using the conventional p-value of p≤0.05, a paired t-test comparing the pre-te
 
 The results of this independent t-test show that the mean for the improvement of the Control group was 0.118, while the mean for that of the Treatment group was 0.737. Considering that the highest possible score is only 12 marks, the difference of 0.619 or 5.16% is relatively large (Table 2).
 
+
+
+<img style="width: 650px; height: 300px;" src="/images/Vol%207%20issue%204/GraphicNovels/blackboard_ta.jpg">
+<div style="background-color: white;"></div>
+
 The hypothesis predicts that the Treatment group would show a greater improvement and that is why we analysed the scores using a one-tailed p-value. Although some would argue that the p score of 0.053 is slightly above the conventionally desired 0.05, it is close enough that we can reject the null hypothesis, which is that graphic novels would have no larger effect on teaching descriptive writing compared to verbal texts. To not reject the null hypothesis in a case like this would be to commit a Type II error, which is to fail to reject a null hypothesis that is false, since “there is nothing sacred about the customary .05 significance level” (Fraenkel & Wallen, 2006, p. 231). The 0.053 significance level is largely due to the small sample size and a larger sample size is expected to yield a significance level below 0.05. As our results can be considered statistically significant, we can not only accept the hypothesis that using graphic novels had indeed helped in teaching the pupils in the experiment descriptive writing skills more than using only normal verbal texts but also generalise these results to infer that using graphic novels can help students learn descriptive writing better than using verbal texts.
 
 **Qualitative Analysis of Survey Responses**
 
 The responses to the survey were summarised and analysed (Table 3).
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/GraphicNovels/Presentation7.jpg">
+ <div style="background-color: white;"></div>
 
 The survey shows that while students in both groups found the verbal text and the multimodal text from the graphic novel interesting, a larger proportion of students within the Treatment group, which used the graphic novel, agreed that the lesson helped them achieve the learning objectives of improving their descriptive writing (Questions 5, 6 and 7). The responses included, “Through pictures, I can learn better”, “I like the ‘Singapore flavour’ in the comics” and “It helped me to use imagination to include inside the novel. I now can make my novel more interesting and real”. While the survey sample is small and we cannot easily make generalisations on larger populations based on this data, we believe that it can be used to give some indication that the use of graphic novels engaged the imagination of pupils in the Treatment group and helped them improve between the pre-test and post-test more than the Control group did.
 
@@ -80,6 +99,19 @@ The findings suggest that graphic novels can be a useful tool to aid learning in
 There are implications outside of the classroom as well. Educators and public libraries have a symbiotic relationship and if public libraries stocked more graphic novels, pupils and educators would have better access to them and be able to read them for pleasure or use them in the classroom. The lack of access to graphic novels, which tend to be relatively more expensive than verbal texts, is one difficulty that educators face when trying to include graphic novels in a curriculum. Schools and libraries can also convince parents of the educational value of graphic novels and reassure them that these can help their children cultivate good reading habits as well as multimodal literacies.
 
 We often distrust the products of popular culture such as comics that children seek voluntarily and enjoy outside of the curriculum (these also include film and animation). These traditional assumptions about how certain genres or text types are useless for education must be reassessed. The research literature has shown that the graphic novel can be an effective medium for teaching knowledge and skills as well as a literary object for in-depth study. The research project at a Singapore school appears to confirm these findings. Part of the graphic novel’s effectiveness arises from its potential for engaging the interest and imagination of the reader. With the right lesson design, any text that can bring the reader on a journey can be used. If we ignore the descriptive and narrative power of graphic novels and continue to teach pupils the way our generation and theirs have always been taught (i.e. with texts showing nothing but words), then it should be no surprise if they grow up unable to effectively decipher neither pictures nor even words.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%207%20issue%204/GraphicNovels/clarencemugshotlondon.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Clarence Lee</b><br> 
+Novelist</center>
+</div>
+
+
+
+
+
 
 
 
