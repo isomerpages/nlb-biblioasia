@@ -6,7 +6,6 @@ description: Reference Librarian Wee Tong Bao sheds light on the life and
   as books, magazines and photographs – donated by his family to the National
   Library Board.
 ---
-         
 #### Reference Librarian _Wee Tong Bao_ sheds light on the life and achievements of plague fighter Dr We Lien-Teh, as well as the materials – such as books, magazines and photographs – donated by his family to the National Library Board.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/book%20cover_plague%20fighter3.jpg">
@@ -64,6 +63,10 @@ Although Wu spent 23 years in Malaya since his return from China, his contributi
 
 
 
+
+<img style="width:80%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/Presentation2.jpg">
+ <div style="background-color: white;">Wu’s personal seal ---- “伍连德印“.</div>
+
 In all, about 65 publications were donated by Wu’s family. They include books, souvenir magazines, periodicals and photographs. One of the earliest publications in this donation is *Biographies of Prominent Chinese*.6 This book, measuring 24 x 37 cm, contains 200 pages and was compiled as a result of a “growing demand for a more intimate understanding of those Chinese who contributed to the development and progress of the Chinese Republic”.7 This book was mentioned by *The Straits Times* on 15 October 2011, with the reporter writing that to-date, only two known copies exist.8 The page that introduces Wu was reproduced in a biography by his daughter, Dr Wu Yu-Lin’s *Memories of Dr Wu Lien-Teh: Plague Fighter*. 9
 
 There are more recent works among the donated items that honour Wu: a 1996 issue of London publication *British Medical Journal* that ran an announcement about the new book *Dr Wu LienTeh: The Plague Fighter*10 and the 2006 souvenir magazine of Harbin Medical University that acknowledged his contributions.11 In 2007, preparations began for a television series in Harbin to mark the 130th anniversary of his birth.12
@@ -86,6 +89,3 @@ The donated items in this collection are assigned the location code “RCLOS” 
 <img src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/author_Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
 <b>Wee Tong Bao</b><br>Reference Librarian<br>NL Heritage<br>National Library Board
 </div>
-
-
-
