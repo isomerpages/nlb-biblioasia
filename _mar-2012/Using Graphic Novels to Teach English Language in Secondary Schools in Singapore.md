@@ -11,9 +11,6 @@ description: Novelist Clarence Lee investigates the effectiveness, plausibility
 <img style="width: 650px; height: 400px;" src="/images/Vol%207%20issue%204/GraphicNovels/comic.jpg">
 <div style="background-color: white;">A page from the graphic novel <i>Gone Case</i> by Dave Chua and Koh Hong Teng. (Reproduced with permission from Dave Chua and Koh Hong Teng.)</div>
 
-<i>In the classroom, books can be used as media for transmitting knowledge, studied as objects for their own value — as might happen in a literature lesson — or take pupils on a journey with their imagination. Educators have often debated about introducing new books into the classroom because they have different views as to which books fulfil those three roles well, and the debates often reveal what books are considered culturally or politically acceptable (Carter, 2008, pp. 52–55). Most educators have shunned graphic novels because they supposedly lack merit as a medium for knowledge or skills transmission or are unfit for study as artistic objects (ibid., pp. 49, 54). But do these assumptions have any rational basis? To see if this is the case in Singapore, a study was conducted in Singapore to look at the effectiveness of using graphic novels to teach descriptive writing in English Language lessons in a neighbourhood secondary school. </i>
-
-
 Graphic novels — also popularly known as comics — comprise pictures and words.
 
 “The illustrations enrich and extend the text … readers must not only decode the words and illustrations but must also identify events between the visual sequences … Graphic novels often address the same issues that can be found in the traditional types of literature.” (Bucher & Manning, 2004, p. 67)
@@ -163,6 +160,3 @@ Moore-Hart, M.A. (2010). _Teaching writing in diverse classrooms K-8: Enhancing 
 Sadoski, M. & Paivio, A. (1994). A dual coding view of imagery and verbal processes in reading comprehension. In R.B. Ruddell, M.R. Ruddell & H. Singer. (Eds.), _Theoretical models and processes of reading_ (pp. 582—601). Newark: International Reading Association. (Not available in NLB holdings)
 
 Schwarz, G.E. (2002, November). Graphic novels for multiple literacies. _Journal of Adolescent & Adult Literacy, 46_ (3), 262–265. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-
-
-
