@@ -6,6 +6,10 @@ description: Assistant Professor Lai Chee Kien retraces the various geographies
 ---
 #### Assistant Professor _Lai Chee Kien_ retraces the various geographies and histories of Singapore’s railway lines and stations.
 
+<img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/Woodlands%20railway%20terminal%20-%20Kleingrothe%20circa%201896.jpg">
+ <div style="background-color: white;">Woodlands Railway Terminus. Source: C. J. Kleingrothe. <i>Courtesy of the Central Library, National University of Singapore.</i>
+</div>
+
 On 24 May 2010, the prime ministers of Singapore and Malaysia made a joint statement regarding the resolution of the existing railway system’s future in Singapore. The functions of the Singapore terminus were to be transferred fully to its northern Woodlands station in July 2011, and the railway land will be jointly redeveloped over the next few years. The Tanjong Pagar Railway Station was gazetted as a national monument, and the Bukit Timah Station as a conserved building in April 2011. The negotiations leading to these outcomes had been long-drawn over decades, but the decision had also directed public attention to an intertwined history between the two lands, and instantly generated nostalgia for the system’s physical structures.1 It is perhaps timely, at this interim stage, to retrace the various geographies and histories of these lines and stations.
 
 There are three discernible phases of railway history in Singapore, namely (1) the establishment of the Singapore-Kranji Railway, (2) integration with the railway in Johore and with Keppel Harbour in the south, and finally, (3) the construction of the Jurong Branch Line. The first period took place on Singapore Island, but the latter two were connected to histories of Malaya and Malaysia, respectively. The account requires our memory of the colonial city of Singapore, which was formed along the island’s southeastern shores shortly after British arrival in 1819, between two rivers. Half a century later, areas to the north of Rochore Canal and Bukit Timah Road still comprised primary or secondary forests, and were perceived to be dangerous due to their inhabitation by tigers, etc. and, in some areas, secret societies besides the pepper and gambier plantations. By mid19th century, vehicular roads to the east, north and northwest were constructed largely by Indian convict labour to reach the various villages and plantations.
@@ -45,6 +49,16 @@ Around the central hall of the station were waiting rooms, a post office with te
 The reinforced concrete of the station was finished with sand-faced plaster (also known as Shanghai plaster). The entrance portico facing the car park is formed by Jurong Branch Railway line would also connect it to the Bukit Timah Station and the previous colonial rail network for an imagined demand and supply market in peninsular Malaysia and as far north as Southern Thailand.The Malayan Railway Berhad Company (or Keretapi Tanah Melayu) was tasked with the construction and maintenance of the 24 kilometre, 5.5 million dollar rail project. The line opened on 4 March 1966 and stretches were maintained right up to the 1990s. As Singapore had separated politically from Malaysia in 1965 after just two years, the anticipated traffic volume to be conveyed on this line was not fulfilled. The band of land on both the Jurong and the existing lines thus came under the rubric of “Malaysian” land right up till February 2010.
 
 With the governmental announcements last year, the future of the lines and stations in Singapore entered a new phase that had also been evolving since World War II. Postwar, the Malayan Railway Ordinance of 1948 had seen the management of the railways transferred from FMSR to the post-war Malayan Railway Administration, and later, to Keretapi Tanah Melayu (KTM) Berhad. Under the Malaysian Railway Act of 1991, KTM was corporatised the following year and wholly owned by the Malaysian government. The MalaysiaSingapore Points of Agreement of 1990 had been signed by representatives of both countries to settle all issues related to the railway and its stations, but it is only two decades later that the resolution of those points in relation to both parties was finally made.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture<br>National University of Singapore</center> 
+</div>
+
+
+
 
 
 
