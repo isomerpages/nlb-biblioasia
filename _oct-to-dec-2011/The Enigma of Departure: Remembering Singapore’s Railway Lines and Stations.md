@@ -71,6 +71,6 @@ With the governmental announcements last year, the future of the lines and stati
 <br>
 <div style="background-color: white;">
 <br/>
-<img src="images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture<br>National University of Singapore</center> 
 </div>
