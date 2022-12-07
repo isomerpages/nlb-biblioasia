@@ -79,7 +79,7 @@ Among the donated items, one can also find Wu’s autobiography *Plague Fighter:
 
 Besides Wu, his first wife Ruth was also well-educated and had published three books in the 1920s and 1930s. During her years accompanying her husband in China, Ruth decided to write on four renowned beauties in China’s history: Yang Kuei Fei (Yang Gui Fei), Hsi Shih (Xi Shi), Chao Chun (Zhao Jun) and Tiao Chan (Diao Chan). However, Ruth only managed to publish books on the first three beauties before she passed away in 1937. With this donation, the National Library of Singapore received a copy of *Chao Chun: Beauty in Exile*,[^18] which completes the set of early publications by Ruth. Before this, the Library only had two of the first imprints: the 1924 edition of *Yang Kuei-Fei: The Most Famous Beauty of China*[^19] and *Hsi Shih: Beauty of Beauties: A Romance of Ancient China About 495–472 B.C*.[^20]
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Libray Holdings</b><br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Library Holdings</b><br><br>
 The donated items in this collection are assigned the location code “RCLOS” (Closed access materials). Readers who are interested in these publications can access them at Level 11 of the Lee Kong Chian Reference Library, Singapore. These items can be consulted upon request at the Information Counter.</span>
 
 
@@ -131,12 +131,3 @@ The donated items in this collection are assigned the location code “RCLOS” 
 [^19]: Huang, S.C.R. (1924). [_Yang Kuei-Fei: The most famous beauty of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12968932). Shanghai: Kelly & Walsh Limited. (Call no.: RCLOS 920.72 SHU)
 
 [^20]: Huang, S.C.R. (1931). [_Hsi Shih: Beauty of beauties: A romance of ancient China about 495–472 B.C_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12428129). Shanghai: Kelly & Walsh Limited. (Call no.: RCLOS 920.72 SHU)
-	
-	
-	
-	
-	
-	
-	
-	
-	
