@@ -2,6 +2,7 @@ collections:
   mar-2012:
     output: true
     order:
+      - "A Life Less Ordinary: Dr Wu Lien Teh the Plague Fighter.md"
       - Director's Column.md
       - "Tell It ‘Slanted’: An Approach to Writing My Memoir.md"
       - "A Work of Many Hands: The First Japanese Translation of John’s Gospel
