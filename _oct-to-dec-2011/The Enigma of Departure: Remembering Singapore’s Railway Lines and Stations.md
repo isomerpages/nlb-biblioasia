@@ -87,9 +87,7 @@ With the governmental announcements last year, the future of the lines and stati
 
 #### **REFERENCES**
 
-   
-
-Alias Mohamed. (Ed.). (1985). [_Malayan Railway: 100 Years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955). Kuala Lumpur: AMW Communications Management. (Call no.: RSING 385.095951 MAL)
+ Alias Mohamed. (Ed.). (1985). [_Malayan Railway: 100 Years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955). Kuala Lumpur: AMW Communications Management. (Call no.: RSING 385.095951 MAL)
 
 Chua, B.H. & Edwards, N. (Eds.). (1992). [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699). Singapore: Singapore University Press. (Call no.: RSING 711.4095957 PUB)
 
@@ -115,9 +113,7 @@ Tan, M.S.H. (2008). _The making of a garden industrial town: History, transforma
 	
 #### **NOTES**
 
- 
-
-[^1]: The account has been “brewing” in my wish-list of “_kajian_” for several years, and I would like to thank Yeo Kang Shua who shared an opportunity with me to research these railway histories more thoroughly, and to Mr Ian Tan for helping me document the Sri Pambatthi Sitthar Temple at Clementi.
+ [^1]: The account has been “brewing” in my wish-list of “_kajian_” for several years, and I would like to thank Yeo Kang Shua who shared an opportunity with me to research these railway histories more thoroughly, and to Mr Ian Tan for helping me document the Sri Pambatthi Sitthar Temple at Clementi.
 
 [^2]: From Federated Malay States Railway (1935). [_Fifty years of railways in Malaya 1885–1935_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11247432), p. 19. The Tank Road station was opposite where the Teochew Building is. Besides this line, there was a 5-mile Naval Base Railway running from Kranji to Naval Base, and a 4–mile Changi Railway built for Singapore’s War Department. These two lines have been largely expunged. C.F. Spooner, the railway engineer responsible for the line’s construction, is commemorated with a road name near the Tanjong Pagar Railway Station.
 
@@ -158,6 +154,22 @@ Tan, M.S.H. (2008). _The making of a garden industrial town: History, transforma
 [^20]: For a discussion, see Michael Tan, _The Making of a Garden Industrial Town_, pp. 1–30.
 	
 	
-	
-	
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
