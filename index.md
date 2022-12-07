@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
-      button: My Grandfather Was a Rōmusha
+      url: /vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
+      button: Union Book Stands Tall At 70
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Romusha/Romusha Banner6.png
+      background: /images/Vol 18 Issue 3/Union Book/union book banner.jpg
   - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s

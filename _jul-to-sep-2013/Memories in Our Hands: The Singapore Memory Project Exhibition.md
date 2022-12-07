@@ -98,7 +98,7 @@ Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist
 
 #### **REFERENCES**
 
-Climo, J., & Cattell, M. (2002). Introduction: Meaning in social memory and history. In J. Climo & M. Cattell (Eds.), [_Social memory and history: Anthropological perspectives_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734) (pp. 1–38). USA: Altmamira Press. (Call no.: R 153.1 SOC)
+Climo, J., & Cattell, M. (2002). Introduction: Meaning in social memory and history. In J. Climo & M. Cattell (Eds.), [_Social memory and history: Anthropological perspectives_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734) (pp. 1–38). USA: Altmamira Press. (Call no.: R 153.1 SOC)
 
 Crane, S. (Ed.). (2000). _Museums and memory_ (pp. 1–16). California: Standard University Press. (Not available in NLB holdings)
 
@@ -106,25 +106,25 @@ Foster, J. (2009). [_Memory: A very short introduction_](https://web-b-ebscohost
 
 Hall, S. (2012). _Theatres of memory: Past and present in contemporary culture_ (pp. 3–50). London: Verso. (Not available in NLB holdings)
 
-Hodgkin, K., & Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
+Hodgkin, K., & Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
 
 
 #### **NOTES**
-[^1]: [Hodgkin & Radstone](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11944074), 2003.
+[^1]: [Hodgkin & Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
 
-[^2]: Term originated by Richard Terdiman in his publication Present Past: Modernity and the Memory Crisis. See [Cateel & Climo](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734), 2002.
+[^2]: Term originated by Richard Terdiman in his publication Present Past: Modernity and the Memory Crisis. See [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
-[^3]: [Cateel & Climo](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734), 2002, p. 6.
+[^3]: [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
 
-[^4]: Nora, quoted in [Cateel & Climo](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734), 2002, p. 6.
+[^4]: Nora, quoted in [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
 
 [^5]: Crane, 2002, p. 1.
 
-[^6]: Quoted in [Cateel & Climo](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734), 2002, p. 19.
+[^6]: Quoted in [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 19.
 
 [^7]: Crane, 2002.
 
-[^8]: [Cateel & Climo](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11624734), 2002.
+[^8]: [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
 [^9]: Crane, 2002, p. 2.
 

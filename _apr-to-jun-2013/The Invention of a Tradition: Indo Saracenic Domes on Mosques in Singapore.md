@@ -152,60 +152,60 @@ Building Plans Microfilm Collection
 
 **Books**
 
-Abdul Halim Nasir. (2004). [_Mosque architecture in the Malay world_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12383474). Bangi: Penerbit University Kebangsaan Malaysia. (Call no.: RSEA q726.20959 ABD)
+Abdul Halim Nasir. (2004). [_Mosque architecture in the Malay world_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12383474). Bangi: Penerbit University Kebangsaan Malaysia. (Call no.: RSEA q726.20959 ABD)
 
-Alsagoff, Syed Abu Bakar. (1988). [_Mosques in Singapore 1988 = Masjid-masjid di Singapura 1408H_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12761279). Singapore: Muslim Assistance Service Publications. (Call no.: RSING 297.35095957 MOS)
+Alsagoff, Syed Abu Bakar. (1988). [_Mosques in Singapore 1988 = Masjid-masjid di Singapura 1408H_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761279). Singapore: Muslim Assistance Service Publications. (Call no.: RSING 297.35095957 MOS)
 
-Buckley, C.A. (1965). [_An anecdotal history of old times in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4223465). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
+Buckley, C.A. (1965). [_An anecdotal history of old times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4223465). Kuala Lumpur: University of Malaya Press. (Call no.: RCLOS 959.57 BUC)
 
-Cannadine, D. (2002). [_Ornamentalism: How the British saw their empire_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754). Oxford: Oxford University Press. (Call no.: R 305.52 CAN)
+Cannadine, D. (2002). [_Ornamentalism: How the British saw their empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11919754). Oxford: Oxford University Press. (Call no.: R 305.52 CAN)
 
-Chattopadhyay, S. (2005). [_Representing Calcutta: Modernity, nationalism, and the colonial uncanny_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180). London: Routledge. (Call no.: RSING 954.147 CHA)
+Chattopadhyay, S. (2005). [_Representing Calcutta: Modernity, nationalism, and the colonial uncanny_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12579180). London: Routledge. (Call no.: RSING 954.147 CHA)
 
-Frishman, M & Khan, H-U (Eds.). [_The mosque: History, architectural development & regional diversity_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
+Frishman, M & Khan, H-U (Eds.). [_The mosque: History, architectural development & regional diversity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
 
-Hadijah Rahmat., et al (Eds.). (2007). [_The last kampong mosque in Singapore: The extraordinary story and legacy of Sembawang_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13006442). Singapore: Masjid Petempatan Melayu Sembawang. (Call no.: RSING 297.355957 LAS)
+Hadijah Rahmat., et al (Eds.). (2007). [_The last kampong mosque in Singapore: The extraordinary story and legacy of Sembawang_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13006442). Singapore: Masjid Petempatan Melayu Sembawang. (Call no.: RSING 297.355957 LAS)
 
 Hobsbawn, E., & Ranger, T. (Eds.) (1983). _The invention of tradition_. Cambridge: Cambridge University Press. (Not available in NLB holdings)
 
-Lee, E. (1990). [_Historic buildings of Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572905). Singapore: Preservation of Monuments Board. (Call no.: RSING 720.95957 LEE)
+Lee, E. (1990). [_Historic buildings of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572905). Singapore: Preservation of Monuments Board. (Call no.: RSING 720.95957 LEE)
 
-Masjid Sultan (Singapore). (1968). [_Sejarah ringkas Masjid Sultan Singapura_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200041045). Singapore: \[Jawatankuasa Pentadbir Masjid Sultan\]. (Call no.: RCLOS 297.351095957 SEJ)
+Masjid Sultan (Singapore). (1968). [_Sejarah ringkas Masjid Sultan Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200041045). Singapore: \[Jawatankuasa Pentadbir Masjid Sultan\]. (Call no.: RCLOS 297.351095957 SEJ)
 
-Metcalf, T.R. (1989). [_An imperial vision: Indian architecture and Britain’s Raj_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949). London: Faber and Faber. (Call no.: RART 722.44 MET)
+Metcalf, T.R. (1989). [_An imperial vision: Indian architecture and Britain’s Raj_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949). London: Faber and Faber. (Call no.: RART 722.44 MET)
 
 Metcalf, T.R.  (1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
 
-Mohamad Tajuddin Haji Mohamad Rasdi. (2000). [_The architectural heritage of the malay world: The traditional mosque_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10112632). Skudai, Johor Darul Ta’zim: Penerbit Universiti Teknologi Malaysia. (Call no.: RSEA 726.209595 MOH)
+Mohamad Tajuddin Haji Mohamad Rasdi. (2000). [_The architectural heritage of the malay world: The traditional mosque_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10112632). Skudai, Johor Darul Ta’zim: Penerbit Universiti Teknologi Malaysia. (Call no.: RSEA 726.209595 MOH)
 
-Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, controversy and change since 1850_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5201016). New Haven: Yale University Press. (Call no.: RART 720.954 TIL)
+Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, controversy and change since 1850_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5201016). New Haven: Yale University Press. (Call no.: RART 720.954 TIL)
 
 #### **NOTES**
 
 
-[^1]: [O’Neill](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7226339), 1994, p. 225.
+[^1]: [O’Neill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339), 1994, p. 225.
 
 [^2]: Hobsbawn & Ranger, 1983.
 
-[^3]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 77, 84.
+[^3]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, pp. 77, 84.
 
-[^4]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 55–104.
+[^4]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, pp. 55–104.
 
-[^5]: [Cannadine](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754), 2002, p. 148.
+[^5]: [Cannadine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11919754), 2002, p. 148.
 
-[^6]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, p. 58.
+[^6]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, p. 58.
 
-[^7]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, p. 80.
+[^7]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, p. 80.
 
-[^8]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 77–90; [Tilloston](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5201016), 1989, pp. 46–56; [Cannadine](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11919754), 2002, pp. 148–149.
+[^8]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, pp. 77–90; [Tilloston](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5201016), 1989, pp. 46–56; [Cannadine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11919754), 2002, pp. 148–149.
 
-[^9]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1998, pp. 20–23.
+[^9]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1998, pp. 20–23.
 
 [^10]: Current literature refers to the former mosque as the one built in 1823 or 1824. However, in 1926, a newspaper article reported that this mosque was the second building on the site. _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53)_, 4 Nov 1926, p. 11.
 
 [^11]: Sultan Mosque, 1965, pp. 107, 160.
 
-[^12]: [Mohamad Tajuddin Haji Mohamad Rasdi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10112632), 2000, pp. 53–60.
+[^12]: [Mohamad Tajuddin Haji Mohamad Rasdi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10112632), 2000, pp. 53–60.
 
 [^13]: Sultan Mosque, 1965, p. 31.
 
@@ -213,7 +213,7 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^15]: Haji Asmawi bin Said, Executive administrator of Sultan Mosque, personal interview with the author. Sultan Mosque, 11 Sep 2012.
 
-[^16]: [Metcalf](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572949), 1989, pp. 44–48, 50, 88–90.
+[^16]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, pp. 44–48, 50, 88–90.
 
 [^17]: [New Sultan Mosque at Kampong Glam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300101-1.2.69). (1930, January 1). _The Singapore Free Press_, p. 10. Retrieved from NewspaperSG.
 
@@ -241,12 +241,28 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^29]: National Library Board. (2018, April). [_Alkaff Kampung Melayu Mosque_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_621_2004-12-17.html) written by Herwin Mohd Nasir. Retrieved from Singapore Infopedia.
 
-[^30]: [Lee](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5572905), 1990, p. 52.
+[^30]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572905), 1990, p. 52.
 
-[^31]: [Hadijah Rahmat](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13006442), 2007.
+[^31]: [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13006442), 2007.
 
-[^32]: [Abdul Halim Nasir](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12383474), 2004, p. 99.
+[^32]: [Abdul Halim Nasir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12383474), 2004, p. 99.
 
 [^33]:. Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
 
-[^34]: [Chattopadhyay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12579180), 2005, p. 9.
+[^34]: [Chattopadhyay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12579180), 2005, p. 9.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

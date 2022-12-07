@@ -105,7 +105,13 @@ Indahsah Haji Sdiek. (2010, January). Ubiquitous library: Strategizing informati
 
 Indahsah Haji Sidek. (2011, January 25). U-Library: From idea to reality. U-Library: Extending beyond traditional boundaries \[Seminar\]. Cyberjaya, Selangor.
 
-u-Pustaka Portal. Accessed at [https://www.u-library.gov.my/portal/web/guest/home](https://www.u-library.gov.my/portal/web/guest/home)
+u-Pustaka Portal.  Accessed at u-Pustaka website.
+
+
+
+
+
+
 
 
 

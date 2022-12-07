@@ -35,7 +35,6 @@ We will focus on the more prominent keramats such as Keramat Iskandar Syah, Maka
 
 The term “keramat”, derived from the Arabic term “karamah”, generally refers to the sacred nature of a person, animal, boulder, trees, etc.; but takes on different meanings when applied in different contexts (Skeat, 1984; Marsden, 1812; Wilkinson, 1959). This article specifically examines the term “keramat” as it is used on a person, to indicate and imply sacred divinity and referring to the tombs of revered and holy persons, especially the early Arabian missionaries. These keramats are not mere graves with a greater significance that applies to a wider audience beyond the individual. Whilst these sacred sites are still known as “keramat” today, the nature of keramat-worship has taken on a different facet, and will be discussed in the following sections.
 
-<center>The term “keramat”, derived from the Arabic term “karamah”, generally refers to the sacred nature of a person, animal, boulder, trees, etc.; but takes on different meanings when applied in different contexts (Skeat, 1984; Marsden, 1812; Wilkinson, 1959). This paper specifically examines the term “keramat” as it is used on a person, to indicate and imply sacred divinity and referring to the tombs of revered and holy persons, especially the early Arabian missionaries.</center>
 
 #### **Evolving Definitions of Keramat and Keramat-worship**
 
@@ -63,9 +62,6 @@ Sino-Malay influences can be seen in the decoration of this keramat as well, wit
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Keramats/FortCanning%20KeramatIskandarShah.jpg">
  <div style="background-color: white;">The Keramat Sultan Iskandar Shah on Fort Canning Hill is believed to be the burial place of one of the last kings (Iskandar Shah) to rule in Singapore in the 14th century. <i>All Rights Reserved. National Library Board Singapore 2004.</i></div>
 	
-	
-<center>Although initially regarded as a rural Malay practice by colonial scholars (Winstedt 1924, Skeat 1967), other forms of such veneration, that is, ancestral and deity worship, were already practised by Chinese religionists and Hindus in British Malaya.</center>
-
 Makam[^15] Habib Noh, located on Mount Palmer, is another important site to consider. Quite unlike the Kusu Keramat, the Makam Habib Noh is anchored by a definite personality, the saint Habib Noh[^16], who is highly revered in Muslim circles and is situated within Singapore’s Central Business District. Still, worshippers to the keramat are not unlike those at Kusu. Offerings of bananas, yellow rice, bottles of opened water (to be blessed) and burning incense are just some of the offerings found at the keramat. The variety of offerings is also denotative of the different cultures that frequent them.[^17]
 
 The scene that greeted me on my visit was pleasantly surprising, given the fact that this keramat is located within the compounds of the Haji Mohd Salleh Mosque: in the left corner, an elderly Chinese lady was kneeling in prayer with her hands clasped in fervent concentration. The grandchild she brought with her played by himself by the doors of the inner room. After she was done, she stood, placed her hands on a grave marker (<i>batu nisan </i>), and bowed before leaving. At the other end of the keramat were an Indian Muslim couple engrossed in reading the Quran. Shortly after, they stood and each took a grave marker, plastered their foreheads to it and bowed their heads, lips moving feverishly but silently. Around the keramat were a total of five opened bottles of water, fresh flowers and other offerings. I realised then, regardless of the purposes and forms of worship, that keramats are sacred precisely because they are tangible focal points in a community, a place to harbour intangible dreams. It was a place to ask, beg, and give thanks.
@@ -79,8 +75,6 @@ The keramats claim their significance and become ingrained into public conscious
 More importantly, however, these keramats exist beyond the personality that they were erected for by serving a larger audience that is not limited to any specific group. Over time, keramats absorb and incorporate the traits of the different cultures and faith that make up the social fabric of Singapore. In fact, the persona attributed to a keramat is usually that of its caretaker, who devotes his/her life in the service of the said saint or keramat.
 
 Oral and written accounts of “miracles” borne out of worshipping the keramat, or relating to keramat itself, keep them in our conscious memory. Although research in tracing the origins and documenting such keramats are still lacking, numerous scholars and individuals have begun the arduous efforts to claim these sites as historical and integral to Singapore’s pre-colonial and ethnographic history.
-
-<center>It is perhaps this fluidity in which keramat-worship is practised that has kept the keramats in existence up until today. It offers a space where different groups can engage, influence and contribute to the significance of a physical site in their own way.</center>
 
 Keramats are a lived reality and a window to Singapore’s past. From a sociological perspective, they are an oasis for varying cultures, traditions and histories to blend together and coexist, merging into different practices that revolve in and around the same physical space. Keramats are evidence of the hybridity and syncretic culture that has been the bedrock of Singaporean society from its inception even before the colonial era and showcases ground-up efforts and an understanding of faith, popular religion and real life definition of religious and racial harmony. Its underrated and non-commercial nature has proven to be the boon of its existence, yet cannot guarantee its future. In Singapore’s dense urban environment, it is difficult to justify the use of space that can neither be rationally explained nor commercially utilised. In the case of keramats, death is a starting point and a beginning of another chapter in history. It records, absorbs and bears witness to the changing practices and milieu of its surroundings. Should it finally be deemed irrelevant in the future, only then will it finally hear its death knell as the keeper of secrets to the past.
 
@@ -174,21 +168,3 @@ Yahya. (1939, June 11). [Singapore’s Keramats: Wonder-working shrines sacred t
 [^16]: For an in-depth history regarding Habib Noh and his shrine, please refer to: Muhammad Ghouse Khan Surattee (2008) _[The Grand Saint of Singapore: The Life of Habib Nuh bin Muhammad Al-Habshi.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13045642)_ Singapore: Masjid Al-‘Firdaus.
 
 [^17]: Please refer to Cheu (1996:11) ‘Table 1: Beliefs and Practices in Malay Keramat and Datuk Kong’ for a list of the different nuances and types of offering presented by the different cultural groups.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
