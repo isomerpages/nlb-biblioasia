@@ -13,9 +13,6 @@ description: In my view, one cannot write a good memoir without reading other
 #### Poet and playwright _Robert Yeo_ shares his approach to writing his memoir, choosing to “artfully organise \[it\] in the form of a ripple… While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present”.
 
 
-
-
-
 <img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/The%20Yeo%20Brothers.jpg">
 <div style="background-color: white;">
 The Yeo Brothers, from left: Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div>
