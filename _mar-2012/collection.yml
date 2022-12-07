@@ -2,11 +2,11 @@ collections:
   mar-2012:
     output: true
     order:
-      - Using Graphic Novels to Teach English Language in Secondary Schools in
-        Singapore.md
-      - "Comic Books: As Windows into a Singapore of the 1980s and 1990.md"
-      - Lunch with Mr Einstein.md
       - Director's Column.md
       - "Tell It ‘Slanted’: An Approach to Writing My Memoir.md"
       - "A Work of Many Hands: The First Japanese Translation of John’s Gospel
         and His Epistles.md"
+      - Lunch with Mr Einstein.md
+      - "Comic Books: As Windows into a Singapore of the 1980s and 1990.md"
+      - Using Graphic Novels to Teach English Language in Secondary Schools in
+        Singapore.md
