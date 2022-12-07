@@ -8,7 +8,7 @@ description: Novelist Clarence Lee investigates the effectiveness, plausibility
 #### Novelist _Clarence Lee_ investigates the effectiveness, plausibility and implications of using graphic novels in the teaching of English.
 
 
-<img style="width: 650px; height: 300px;" src="/images/Vol%207%20issue%204/GraphicNovels/comic.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%207%20issue%204/GraphicNovels/comic.jpg">
 <div style="background-color: white;">A page from the graphic novel <i>Gone Case</i> by Dave Chua and Koh Hong Teng. (Reproduced with permission from Dave Chua and Koh Hong Teng.)</div>
 
 <i>In the classroom, books can be used as media for transmitting knowledge, studied as objects for their own value — as might happen in a literature lesson — or take pupils on a journey with their imagination. Educators have often debated about introducing new books into the classroom because they have different views as to which books fulfil those three roles well, and the debates often reveal what books are considered culturally or politically acceptable (Carter, 2008, pp. 52–55). Most educators have shunned graphic novels because they supposedly lack merit as a medium for knowledge or skills transmission or are unfit for study as artistic objects (ibid., pp. 49, 54). But do these assumptions have any rational basis? To see if this is the case in Singapore, a study was conducted in Singapore to look at the effectiveness of using graphic novels to teach descriptive writing in English Language lessons in a neighbourhood secondary school. </i>
@@ -66,7 +66,7 @@ Between the pre-test and the day of the lesson which included the post-test -–
 
 Immediately after the lesson, pupils in both groups were given a post-test where they wrote brief descriptive responses to the same question given in the pre-test. They were assessed with the same rubric. A survey was conducted after the post-test to find out what the pupils thought about the lesson.
 
-#### **Data Analysis**<br>**Quantitative Analysis of Pre-test and Post-test Results**
+#### **Data Analysis**<br><br>**Quantitative Analysis of Pre-test and Post-test Results**
 
 Using the conventional p-value of p≤0.05, a paired t-test comparing the pre-test and post-test scores of the Treatment group shows a statistically significant gain (p=0.002). However, a paired t-test comparing the pretest and post-test scores of the Control group shows no statistically significant gain (p=0.348) (Table 1).
 
@@ -74,7 +74,7 @@ The results of this independent t-test show that the mean for the improvement of
 
 
 
-<img style="width: 650px; height: 300px;" src="/images/Vol%207%20issue%204/GraphicNovels/blackboard_ta.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%207%20issue%204/GraphicNovels/blackboard_ta.jpg">
 <div style="background-color: white;"></div>
 
 The hypothesis predicts that the Treatment group would show a greater improvement and that is why we analysed the scores using a one-tailed p-value. Although some would argue that the p score of 0.053 is slightly above the conventionally desired 0.05, it is close enough that we can reject the null hypothesis, which is that graphic novels would have no larger effect on teaching descriptive writing compared to verbal texts. To not reject the null hypothesis in a case like this would be to commit a Type II error, which is to fail to reject a null hypothesis that is false, since “there is nothing sacred about the customary .05 significance level” (Fraenkel & Wallen, 2006, p. 231). The 0.053 significance level is largely due to the small sample size and a larger sample size is expected to yield a significance level below 0.05. As our results can be considered statistically significant, we can not only accept the hypothesis that using graphic novels had indeed helped in teaching the pupils in the experiment descriptive writing skills more than using only normal verbal texts but also generalise these results to infer that using graphic novels can help students learn descriptive writing better than using verbal texts.
@@ -108,12 +108,61 @@ We often distrust the products of popular culture such as comics that children s
 Novelist</center>
 </div>
 
+#### **REFERENCES**
 
+      
 
+Butcher, K.T., & Manning, M.L. (2004, November–December). Bringing graphic novels into a school’s curriculum. _The clearing house: A Journal of Educational Strategies, Issues and Ideas, 78_ (2), 67–72. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
+Carter, J.B. (2007, November). Transforming English with graphic novel: Moving toward out “Optimus Prime”. _The English Journal, 97_ (2), 49–53. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
+Carter, J.B. (2008). Comics, the canon and the classroom (pp. 47–60). In N. Frey & D. Fisher. (Eds.), [_Teaching visual literacy: Using comic books, graphic novels, anime cartoons, and more to develop comprehension and thinking skills_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13122112). Thousand Oaks, CA: Corwin Press. (Call no.:  372.6044 TEA)
 
+Cheah, H.S., et al. (2011). _Advancing collaborative learning with ICT conception, cases and design_. Singapore: Ministry of Education, Educational Technology Division.
 
+Chua, D. (2002). [_Gone case_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11471774)_._ Singapore: Ethos Books. (Call no.: RSING S823 CHU)
+
+Chua, D., & Koh, H.T. (2010). [_Gone case A graphic novel. Book 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13763246)_._ Singapore: s.n. (Call no.: RSING 741.595957 CHU)
+
+Chun, C.W. (2009, October). Critical literacies and graphic novels for English language learners. Teaching Maus. _Journal of Adolescent & Adult Literacy, 53_ (2), 144–153. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Curdt-Christiansen, X.L., & Silver, R. (2011). Learning environment: The enactment of educational policies in Singapore (pp. 2–24). In C. Ward (Ed.), [_Language education: An essential for a global economy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13833649). Singapore: SEAMEO Regional Language Centre. (Call no.: RSING 418.0071 APE)
+
+Curriculum Planning and Development Division. (2010). _English language syllabus_. Singapore: Ministry of Education. (Not available in NLB holdings)
+
+Downey, E.M. (2009, Winter). Graphic novels in curriculum and instruction collections. _Reference & User Services Quarterly, 49_ (2), 181–188. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Fraenkel, J.R., & Wallen, N.E. (2000). _How to design and evaluate research in education_. New York: McGraw-Hill.
+
+Frey, N., & Fisher, D. (2004, January). Using graphic novels, anime, and the internet in an urban high school. _The English Journal, 93_ (3), 19–25. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Grainger, T., Goouch, K. & Lambirth, A. (2005). [_Creativity and writing: Developing voice and verve in the classroom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12444070). Abingdon: Routledge. (Call no.: R 372.6230440941 GRA)
+
+Hanson, A. (2009). _Brain-friendly strategies for developing student writing skills_. Thousand Oaks: Corwin Press.
+
+Harris, K.R., & Graham, S. (1996). _Making the writing process work: Strategies for composition and self-regulation_. Brookline: Brookline.
+
+Hui, M.F., & Grossman, D.L. (Eds.). (2008). Introduction. In _improving teaching education through action research_ (pp. 1—6) New York: Routledge. (Not available in NLB holdings)
+
+Jacobs, D. (2007, January). More than words: Comics as a means of teaching multiple literacies. _The English Journal 96_ (3), 19–25. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Jungck, S. (2001). How does it matter? Teacher inquiry in the traditions of social science research. In G. Burnaford, J. Fischer & D. Hobson. (Eds.), _Teachers doing research: The power of action through inquiry_ (pp. 329—324). Mahwah: Lawrence Erlbaum.
+
+Kramer-Dahl, A. (2005, Summer). Constructing adolescents differently: On the value of listening to Singapore youngsters talking popular culture texts. _Linguistics and Education_, _15_ (3), 217–241.
+
+Kress, G.R. & van Leeuwen, T. (1996). [_Reading images: The grammar of visual design_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8794160). London: Routledge. (Call no.: RART 701 KRE)
+
+Lee, G. (2006). [_Dave Chua_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1017_2007-10-18.html). Retrieved from Singapore Infopedia.
+
+Majid, S., & Tan, V. (2007, Winter). Understanding the reading habits of children in Singapore. _Journal of Education Media & Library Sciences, 45_ (2), 187–198.
+
+Malinowski, D., & Nelson, M.E. (2007). Hegemony, identity and authorship in multimoda discourse. In M. Mantaro (Ed.), _Identity and second language learning: Culture, inquiry and dialogic activity in educational contexts_ (159—187). Charlotte: Information-Age Publishing. (Not available in NLB holdings)
+
+Moore-Hart, M.A. (2010). _Teaching writing in diverse classrooms K-8: Enhancing writing through literature, real-life experiences and technology_. Boston: Pearson. (Not available in NLB holdings)
+
+Sadoski, M. & Paivio, A. (1994). A dual coding view of imagery and verbal processes in reading comprehension. In R.B. Ruddell, M.R. Ruddell & H. Singer. (Eds.), _Theoretical models and processes of reading_ (pp. 582—601). Newark: International Reading Association. (Not available in NLB holdings)
+
+Schwarz, G.E. (2002, November). Graphic novels for multiple literacies. _Journal of Adolescent & Adult Literacy, 46_ (3), 262–265. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 
 
