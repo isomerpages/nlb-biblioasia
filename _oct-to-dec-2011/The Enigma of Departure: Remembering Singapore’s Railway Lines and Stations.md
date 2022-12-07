@@ -36,6 +36,10 @@ With the opening of the Segamat to Johor Bahru stretch on July 1909, continuous 
 
 The provision of two steam ferries, named “Johore” and “Singapore”, to connect the straits had other social impacts for those on the island. Folks from Singapore would crowd the trains, especially on weekends, to travel to the new Woodlands Station and onwards to Johor Bahru for excursions and day trips.9 For most, however, it was an opportunity to change one’s fortune at the gambling farms there. As an “Old Timer” reminisced in 1925 about his earlier visits: “The Chinese at the gambling farms always refunded the two dollars spent on train fare, if the return ticket was produced. We kept both the tickets, the white half and the yellow half.”10 Such offers lured many to the farms and the newspapers of the day were replete with accounts of lost heirlooms and economic consequences for men and women involved in what was considered a “social ill”.
 
+<img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/5%20-%20Sg%20Johore%20ferry.jpg">
+ <div style="background-color: white;">The Singapore–Johore Steam Ferry Service. Postcard from the Collection of Lim Kheng Chye.</div>
+
+
 #### **Integration with Johore and Keppel Harbour**
 
 On 17 September 1923, the kilometre-long Causeway land bridge linking the island to the peninsula was opened for Freight trains. The two-track railway line and a 26-foot vehicular roadway started catering for passenger trains started on 1 October later in the year. This marked the southernmost direct connection in Malaya’s railway system under the Federated Malay States Railway (FMSR), since management of the SingaporeKranji Railway came under its fold in 1912. With the Causeway in operation, the ferry service was discontinued.
