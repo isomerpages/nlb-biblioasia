@@ -2,4 +2,6 @@ collections:
   oct-to-dec-2011:
     output: true
     order:
+      - "The Enigma of Departure: Remembering Singapore’s Railway Lines and
+        Stations.md"
       - Director's Column.md
