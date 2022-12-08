@@ -24,10 +24,3 @@ Some of the most moving memories received so far are those documenting loving ac
 This generation of Singaporeans will pass on, so it is the opportunity now for Ruth and others to construct a memory of Singapore through the eyes of its people.
 
 <b>Gene Tan</b><br>Director, Singapore Memory Project
-
-
-
-
-
-
-
