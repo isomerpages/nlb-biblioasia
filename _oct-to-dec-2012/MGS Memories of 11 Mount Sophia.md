@@ -10,7 +10,8 @@ description: Founded in 1887, the Methodist Girls’ School (MGS) is among the
 
 It was a sentimental Sunday on 3 June 2012 when MGS and the Alumnae Association jointly held an Open House Day and Remembrance Ceremony to bid a final farewell to their former school site at 11 Mount Sophia.
 
-The occasion was a bittersweet homecoming experience for the hundreds of old girls and their families who congregated in the packed hall at the basement area of the former Ellice Handy Building. Since the relocation of MGS in 1992 to 11 Blackmore Drive, succeeding occupants of 11 Sophia included churches and other schools before it was leased to Old School (http://www.oldschool.sg) in 2007. This unprecedented gathering of the MGS family was prompted by the expiration of the lease for Old School at the end of June 2012. It marked the closing of a chapter in history as the site made way for redevelopment plans under the 2008 Master Plan of the Urban Redevelopment Authority (URA).
+The occasion was a bittersweet homecoming experience for the hundreds of old girls and their families who congregated in the packed hall at the basement area of the former Ellice Handy Building. Since the relocation of MGS in 1992 to 11 Blackmore Drive, succeeding occupants of 11 Sophia included churches and other schools before it was leased to Old School <a href="http://www.oldschool.sg">
+(http://www.oldschool.sg/)</a></div> in 2007. This unprecedented gathering of the MGS family was prompted by the expiration of the lease for Old School at the end of June 2012. It marked the closing of a chapter in history as the site made way for redevelopment plans under the 2008 Master Plan of the Urban Redevelopment Authority (URA).
 
 
 #### **Remembering Roots**
@@ -55,7 +56,8 @@ Spanning approximately 140,000 sq ft, the 11 Mount Sophia site was acquired in 1
 
 #### **"Save Old School"**
 
-The “Save Old School” (SOS) campaign (http://www.facebook.com/saveoldschool) was launched by MGS alumnae Carol Tham and Lim Li-Hsien in 2011 to lobby the government to conserve the Mount Sophia campus. The Facebook site garnered 5,406 likes on Founders Day 2012. This petition to the community called for the preservation of the existing structures with its slogan “Saving old spaces and places in Singapore”. The SOS page is filled with old photographs and anecdotal accounts. Architectural historian Lai Chee Kien of the National University of Singapore and Dr Kevin Tan, Ex-officio (past President) of the Singapore Heritage Society (SHS), noted that the MGS Mount Sophia site is “historically significant as one of the first few educational institutions for girls”.14 Conservation merits that were highlighted include “historical architectural type, structural integrity and demonstration of workmanship”15 – all of which the MGS site fulfils. Architectural conservation consultant Ho Weng Hin is part of a research team commissioned by the SHS to write a book on local architectural history that will include the two-storey Sophia Blackmore Memorial Hall, with its iconic clock tower and fair-faced façade. According to him, the 1950s was an important period of Singapore’s history and such buildings commemorate local history and are integral to social memories. He said that the building was significant as it was designed by a post-war pioneer local architect, Mr Seow Eu Jin. The URA has acknowledged Mount Sophia’s heritage, but maintained that it is not always possible to conserve and retain all old buildings and former school sites.
+The “Save Old School” (SOS) campaign <a href="http://www.facebook.com/saveoldschool">
+(http://www.oldschool.sg/)</a></div> was launched by MGS alumnae Carol Tham and Lim Li-Hsien in 2011 to lobby the government to conserve the Mount Sophia campus. The Facebook site garnered 5,406 likes on Founders Day 2012. This petition to the community called for the preservation of the existing structures with its slogan “Saving old spaces and places in Singapore”. The SOS page is filled with old photographs and anecdotal accounts. Architectural historian Lai Chee Kien of the National University of Singapore and Dr Kevin Tan, Ex-officio (past President) of the Singapore Heritage Society (SHS), noted that the MGS Mount Sophia site is “historically significant as one of the first few educational institutions for girls”.14 Conservation merits that were highlighted include “historical architectural type, structural integrity and demonstration of workmanship”15 – all of which the MGS site fulfils. Architectural conservation consultant Ho Weng Hin is part of a research team commissioned by the SHS to write a book on local architectural history that will include the two-storey Sophia Blackmore Memorial Hall, with its iconic clock tower and fair-faced façade. According to him, the 1950s was an important period of Singapore’s history and such buildings commemorate local history and are integral to social memories. He said that the building was significant as it was designed by a post-war pioneer local architect, Mr Seow Eu Jin. The URA has acknowledged Mount Sophia’s heritage, but maintained that it is not always possible to conserve and retain all old buildings and former school sites.
 
 <i>“The MGS motto is ‘To Master To Grow To Serve’. When I was in primary school I asked a teacher, ‘don’t we have to grow first before we can master and serve?’. As a little girl I couldn’t imagine mastering anything without first growing up. I remember receiving a glare and being told to shush. So I responded rather defiantly ‘the school just made it this way to fit into the letters MGS!’. I received the appropriate punishment of that time - the Scotch Tape Over the Mouth. Like a Scarlet Letter, quite a few of us were ‘marked’ with a scotch tape over the mouth for various misdeeds, but most of us viewed it as a small badge of honour, and we would mostly be giggling in the corner and mumbling to fellow miscreants, exchanging opinions about whose mouth was more taped.”</i> <br>Mrs Elaine Ng \[1981\]
 
@@ -83,19 +85,3 @@ MGS Mount Sophia has left a loving legacy of school life experiences. Braving th
 
 <div>
 <b> Barbara Quek</b> is a Senior Librarian from the National Library Heritage Division. She worked in the SAFTI Military Institute Library from 1995 to 2006. Prior to that, she was an assistant editor for <i>Pointer journal</i>, editor for <i>Pioneer</i> magazine in the Ministry of Defence. She co-authored the research paper “The value of print literacy in the education of young children in Singapore” which was published in The international journal of the book*, Volume 1 (2003).</div>
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
