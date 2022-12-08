@@ -11,7 +11,7 @@ description: Singapore’s landscape is one that has undergone many changes
 #### Singapore’s landscape is one that has undergone many changes through the ages, and has come a long way from rural _kampongs_ and swaplands. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and by proxy, ourselves.
 
 
-<img style="width:50%;" src="images/Vol%208%20issue%203/Edwin/Edwin%20Thumboo.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Edwin%20Thumboo.jpg">
  <div style="background-color: white;">Courtesy of Edwin Thumboo.
 </div>
 
@@ -47,7 +47,7 @@ Think of old spaces as time machines – visiting, seeing, being in them telepor
 People attribute different memories and meanings to the same spaces. The National Library Building at Victoria Street for instance, might represent days spent with friends, studying for exams, first loves, and so on. However, this same space that is known for “browsing, research and perhaps, as a venue for casual meet-ups, it is for Thumboo and his contemporaries a hard-won fruit of their generation’s labour for independence in more hostile climes. The National Library, as a landmark, is a triumphant testimony to the virtues of life-long learning for his generation and it provides an intellectual armour against a past weakened by the shackles of a none-to odistant colonial administration.”12
 
 
-<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Hock%20Lam%20Street.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Edwin/Hock%20Lam%20Street.jpg">
 <div style="background-color: white;">Hock Lam Street with the Central Fire Station in the background, 1950s.<i>George Tricker Collection, courtesy of National Archives of Singapore.</i></div>
 	
 Thumboo’s poem, “The Sneeze”, was written about hawkers along Hock Lam Street, where Funan DigitaLife Mall now stands. His playful poem brings to life the hustle and bustle (and suspicious hygiene) of Hock Lam Street. Younger generations might not know Hock Lam Street, but through Thumboo’s poem, we are able to peer through the veil of time and experience Hock Lam Street for ourselves:
@@ -64,7 +64,7 @@ In writing about these places from his personal memory, places that have been lo
 
 Think of the names: Dhoby Ghaut,<br> Prinsep St, The three Cathays, a name the Lokes made<br>Famous: resplendent building, our tallest then;<br> Fantastic camera shop; and that popular Store<br> Where Rudy’s wife, petite, temporarily demure,<br>Quietly assessed her customers as she held her<br>Intelligence above show-cases. Two doors away,<br>Heng, increasingly called Mr, sold German cameras<br>To Japanese sailors, was en route to a partnership...
 
-<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Cathay%20Building.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Edwin/Cathay%20Building.jpg">
  <div style="background-color: white;">Cathay Building, 1942. <i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
 	
 Central to his writing are all the emotional ties and sense of belonging that come with a place. In “Bras Basah” he continues to set the scene of the area with nuances and insights: “And the bookshops full of stuff ”, “And the Rendezvous after school; affordable/ The man with the mole, ladle in hand…”, “Simon Ong’s Family shop of fishing tackle…” and “a Woodsville tram,/ Full of St Andrew boys, swings around the corner,/ Tires squealing”. In this sense, his works do what preservation of physical buildings cannot – in essence, he recreates the Bras Basah of his memories, replete with the sights, the sounds, the sense of place that is Bras Basah.
@@ -81,7 +81,7 @@ There was a time, quite recent,<br>When little Guilin had no pools.<br>Before th
 Yet high-rise and high-way,<br> The new breed in search of<br>Gleaming jobs, the computer-mind,<br>Turn memory shorter than the land’s.
 
 
-<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Bukit%20Batok%20Housing.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Edwin/Bukit%20Batok%20Housing.jpg">
  <div style="background-color: white;">Bukit Batok housing estate with HDB flats in the foreground, and the transmitting station in the background. <i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
 
 	
