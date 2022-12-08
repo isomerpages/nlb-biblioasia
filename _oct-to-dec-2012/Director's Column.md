@@ -29,8 +29,17 @@ hearts and inspire you to share your personal stories and recollections of yeste
 
 Happy reading!
 
-Ms Ngian Lek Choh
-
+<b>Ms Ngian Lek Choh</b><br>
 Director, National Library
+
+
+
+
+
+
+
+
+
+
 
 
