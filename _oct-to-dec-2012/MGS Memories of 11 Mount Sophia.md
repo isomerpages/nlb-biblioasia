@@ -8,6 +8,9 @@ description: Founded in 1887, the Methodist Girls’ School (MGS) is among the
 ---
 #### Founded in 1887, the Methodist Girls’ School (MGS) is among the oldest and most established schools in Singapore. Barbara Quek, a former MGS student, shares with us the history of the school and memories that left a deep imprint on many who passed through its doors.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Maypole%20dance.jpg">
+ <div style="background-color: white;">The Maypole dance, traditionally performed on Sports Day at 11 Mount Sophia. Courtesy of Methodist Girls’ School.</div>
+
 It was a sentimental Sunday on 3 June 2012 when MGS and the Alumnae Association jointly held an Open House Day and Remembrance Ceremony to bid a final farewell to their former school site at 11 Mount Sophia.
 
 The occasion was a bittersweet homecoming experience for the hundreds of old girls and their families who congregated in the packed hall at the basement area of the former Ellice Handy Building. Since the relocation of MGS in 1992 to 11 Blackmore Drive, succeeding occupants of 11 Sophia included churches and other schools before it was leased to Old School <a href="http://www.oldschool.sg">
@@ -35,6 +38,10 @@ The Japanese Occupation from 1942-1945 brought schooling to a halt. MGS was rena
 
 A new horizon awaited post-war MGS in 1945 when the school was reinstated and Mrs Handy became the principal, a position she helmed from 1946 to 1957 during her 51 years of service. The appointment was a historic milestone as she was the first MGS student as well as the first Asian and Singaporean principal of the school. Hers was a tall order to see through the rebuilding of the school after bombs had destroyed some buildings. The sprawling site was scarred by war, dotted with fox holes and lined with slit trenches. Under her dedicated guidance, the Mary Nind Wing was built and housed secondary classes in 1952, followed on a year later by the Sophia Blackmore Memorial Hall. The building program was completed in 1955 with the Louise McKee Wing9 , tuck shop extension and caretakers’ quarters. Mrs Handy had lasting memories of this journeying because “MGS is very dear to me, especially this hilltop on which MGS has finally established itself after many moves in her lifetime”, when “MGS was all in one place now on Mount Sophia”.10
 
+
+<img style="width:50%;" src="/images/Vol%208%20issue%203/MGS/Olson%20Building.jpg">
+ <div style="background-color: white;">Constructed in 1928, Olson Building is the only building out of the six to be conserved. <i>Courtesy of Methodist Girls’ School.</i></div>
+	
 <i>“I remember being told that at 12 midnight one would hear ‘noise’. Never one to believe such myths and tall stories, I would stay behind in school for campfires overnight and other events past midnight without giving it much thought. One night, I actually heard feet shuffling and desks being moved! Later I was told that the low brick wall in front of the main entrance where the MGS signage stood was the site of a grave. That really kept me on my guard each time we had Girl Guide camps! This story about ghosts and burial grounds at Mount Sophia was not without some history. The Japanese took over Nind Home and made it their Headquarters during the Occupation years. During that time, MGS was used to house prisoners and it was possible that those who died were buried nearby. This might account for the strange going-on at midnight!”</i><br>
 Mrs Anna Tham [1951]
 
@@ -46,9 +53,16 @@ The memories of former school girls recall rich images of unforgettable experien
 
 Linda Lim, class of 1966, recalled physical education lessons that included practising English folk dances to recorded music and the maypole dance. She wrote a vivid account of her school days in MGS with her group of friends called the Nuttes. Excerpts from her memoirs were published in Fellowship 2010 newsletter, “Vignettes of an MGS life”, in which she shared anecdotes of primary school, recess, sports day, school plays, the kacang puteh man and toilets suspected of being haunted by the Orang Minyak, or “oily man”.
 
+<img style="width:50%;" src="/images/Vol%208%20issue%203/MGS/folk%20dance.jpg">
+ <div style="background-color: white;">MGS girls enjoying a folk dance. <i>Courtesy of Methodist Girls’ School.</i></div>
+
 #### **Relics Remembered**
 
 Gone are the days of school life at Mount Sophia but relics of the past are vivid reminders of this precious heritage. Some of the artefacts housed within the MGS Archives Room at Blackmore Drive include a pair of old wooden speakers that were part of the public address system hanging from the front of each classroom, the dignified school bell, an archaic desk and chair, the metal printing block on which the school song was engraved, as well as an old hefty office safe. Handicraft works and other memorabilia have been preserved and safe-kept by Mrs Anna Tham, MGS’s longest serving principal of 17 years. Though retired, she still returns to the school to tend to these treasures as well as contribute her time to mentor the girls in various CCAs.
+
+<img style="width:50%;" src="/images/Vol%208%20issue%203/MGS/Old%20desks%20and%20chairs.jpg">
+ <div style="background-color: white;">Old desks and chairs of bygone days (1950), a set of which is housed in the Archives Room at Blackmore Drive.<i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 #### **Old School**
 
@@ -69,6 +83,7 @@ Ms Sim Ee Waun \[1984\]
 All schools laud outstanding students who have done the school proud in various ways, MGS is no exception in this regard.
 
 Among the luminaries in MGS hall of fame are personalities such as the late Madam Kwa Geok Choo, wife of former Prime Minister Lee Kuan Yew, who graduated from MGS in 1936, playwright and Professor of Law at the National University of Singapore (NUS), Eleanor Wong, national swimmer Pat Chan and acclaimed Singapore Symphony Orchestra (SSO) violinist Lynette Seah.
+
 #### **Memories Live On**
 
 At 6pm on 3 June, the school flag was marched in proudly by a colour party led by Mrs Tay Poh Imm, President of the Girls’ Brigade in Singapore and a teacher at the school since the 1970s. Addressing the crowd of more than 500, including one in her 90s and a few in their 80s, MGS Management Board Chairman Mrs Fang Ai Lian gave a short recollection of her school days there. Reverend Dr Tony Chi who presided at the commemorative service recalled his past connection to the school at Mount Sophia as the School Chaplain. In closing, he offered a thanksgiving prayer and said a benediction after a rousing rendition of the school anthem which was particularly meaningful and poignant that day, especially when the chorus of voices came together with:
