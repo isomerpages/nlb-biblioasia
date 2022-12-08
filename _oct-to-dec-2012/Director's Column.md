@@ -3,8 +3,7 @@ title: Director's Column
 permalink: /vol-8/issue-3/oct-dec-2012/director-column/
 description: ""
 ---
-Memories are powerful reminders of who we are as individuals, members of a family, and citizens of a nation. Passed down through generations, such recollections are integral to the preservation of a family’s own
-heritage and legacy.
+#### Memories are powerful reminders of who we are as individuals, members of a family, and citizens of a nation. Passed down through generations, such recollections are integral to the preservation of a family’s own heritage and legacy.
 
 When recorded and archived, they serve as remembrances of a country’s past and history. Prime Minister Lee Hsien Loong illustrated this in his National Day Rally speech on 26 Aug 2012, when he shared personal anecdotes from his youth, and spoke on the importance of accumulating and collecting individual experiences for the telling of the Singapore Story. These memories form the soul of a nation and are the emotional ties that bind and celebrate us as one people.
 
@@ -24,22 +23,9 @@ December to show the impact that Ariff has had on the local literary scene.
 We highlight two exhibitions in this issue, *Money by mail to China: Dreams and struggles of early migrants*, and *iremember magazines*. Also on display at the library is the exhibition on *Raffles’ letters: Intrigues behind the founding of Singapore* (www.facebook.com/SirStamfordRaffles), a rare collection of letters from the Bute Collection (Scotland) and the National Library, which we featured in the previous issue of
 *BiblioAsia*. Come by and view some of these unique gems, many of which are on display for the first time to the public.
 
-We hope this issue on memories will warm your
-hearts and inspire you to share your personal stories and recollections of yesteryear. You are welcome to contribute your memories to the Singapore Memory Project – a national initiative to collect 5 million memories by Singapore’s 50th year of independence in 2015.
+We hope this issue on memories will warm your hearts and inspire you to share your personal stories and recollections of yesteryear. You are welcome to contribute your memories to the Singapore Memory Project – a national initiative to collect 5 million memories by Singapore’s 50th year of independence in 2015.
 
 Happy reading!
 
 <b>Ms Ngian Lek Choh</b><br>
 Director, National Library
-
-
-
-
-
-
-
-
-
-
-
-
