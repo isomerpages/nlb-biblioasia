@@ -2,4 +2,6 @@ collections:
   oct-to-dec-2012:
     output: true
     order:
+      - "Through His Eyes: Remembering Old Singapore Through the Poems of Edwin
+        Thumboo.md"
       - Director's Column.md
