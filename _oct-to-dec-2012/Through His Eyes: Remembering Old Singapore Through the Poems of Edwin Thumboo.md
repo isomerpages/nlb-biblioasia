@@ -11,6 +11,10 @@ description: Singapore’s landscape is one that has undergone many changes
 #### Singapore’s landscape is one that has undergone many changes through the ages, and has come a long way from rural _kampongs_ and swaplands. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and by proxy, ourselves.
 
 
+<img style="width:50%;" src="images/Vol%208%20issue%203/Edwin/Edwin%20Thumboo.jpg">
+ <div style="background-color: white;">Courtesy of Edwin Thumboo.
+</div>
+
 Literature, like places, is also a recorder of history and a documentarian (however reliable) of passing time. As Mr S. Dhanabalan said, “literature is the keeper of a nation’s history for it deals with people’s lives, their small and big moments. It records their dreams, challenges, joy and pain through novels, plays and poems. Poets like Edwin Thumboo record for us permanently the people in our society and their history, their small everyday actions and the big life-changing moments, both public and personal.”1
 
 Remembering old Singapore and holding onto the spirit of old times are integral to Professor Edwin Thumboo’s poetry. Thumboo is one of Singapore’s most prominent poets and his works – in particular, his place poems – afford us glimpses into Singapore’s history.Having lived through Singapore’s pre- and post-independence days, Thumboo’s poetry brings to life our nation’s past and struggles, the atmosphere of days gone by and also showcases her progress and changing physical landscape.
@@ -42,6 +46,10 @@ Think of old spaces as time machines – visiting, seeing, being in them telepor
 
 People attribute different memories and meanings to the same spaces. The National Library Building at Victoria Street for instance, might represent days spent with friends, studying for exams, first loves, and so on. However, this same space that is known for “browsing, research and perhaps, as a venue for casual meet-ups, it is for Thumboo and his contemporaries a hard-won fruit of their generation’s labour for independence in more hostile climes. The National Library, as a landmark, is a triumphant testimony to the virtues of life-long learning for his generation and it provides an intellectual armour against a past weakened by the shackles of a none-to odistant colonial administration.”12
 
+
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Hock%20Lam%20Street.jpg">
+<div style="background-color: white;">Hock Lam Street with the Central Fire Station in the background, 1950s.<i>George Tricker Collection, courtesy of National Archives of Singapore.</i></div>
+	
 Thumboo’s poem, “The Sneeze”, was written about hawkers along Hock Lam Street, where Funan DigitaLife Mall now stands. His playful poem brings to life the hustle and bustle (and suspicious hygiene) of Hock Lam Street. Younger generations might not know Hock Lam Street, but through Thumboo’s poem, we are able to peer through the veil of time and experience Hock Lam Street for ourselves:
 
 That hawker there,<br> Selling mee and kway-teow<br> Is prosperous, round<br> Quick moving<br> With practised grace<br> He blows his nose,<br> Tweeks it dexterously, secures complete evacuation<br> Then proceeds to comply with the slogans,<br> The injunctions on the need to<br> Keep Singapore clean— <br>Keep Singapore germ-free<br> Keep Singapore…
@@ -56,6 +64,9 @@ In writing about these places from his personal memory, places that have been lo
 
 Think of the names: Dhoby Ghaut,<br> Prinsep St, The three Cathays, a name the Lokes made<br>Famous: resplendent building, our tallest then;<br> Fantastic camera shop; and that popular Store<br> Where Rudy’s wife, petite, temporarily demure,<br>Quietly assessed her customers as she held her<br>Intelligence above show-cases. Two doors away,<br>Heng, increasingly called Mr, sold German cameras<br>To Japanese sailors, was en route to a partnership...
 
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Cathay%20Building.jpg">
+ <div style="background-color: white;">Cathay Building, 1942. <i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
+	
 Central to his writing are all the emotional ties and sense of belonging that come with a place. In “Bras Basah” he continues to set the scene of the area with nuances and insights: “And the bookshops full of stuff ”, “And the Rendezvous after school; affordable/ The man with the mole, ladle in hand…”, “Simon Ong’s Family shop of fishing tackle…” and “a Woodsville tram,/ Full of St Andrew boys, swings around the corner,/ Tires squealing”. In this sense, his works do what preservation of physical buildings cannot – in essence, he recreates the Bras Basah of his memories, replete with the sights, the sounds, the sense of place that is Bras Basah.
 
 His poems give voice to the nostalgic laden, time-worn, reader. “A sense of place with all its multifarious meanings, is thus an integral element in the conceptions of history, nostalgia and heritage. As a concrete localised setting, place provides the receptacle for the outworkings of history…\[it is also\] intimately drawn into individual interpretations \[and\] social constructions…”14 Thus, in place of an actual location, Thumboo’s poetry provides the reader with a means through which to work out their own understanding of place, it gives the reader a space – within himself – to work out his own identity and history.
@@ -69,6 +80,11 @@ There was a time, quite recent,<br>When little Guilin had no pools.<br>Before th
 
 Yet high-rise and high-way,<br> The new breed in search of<br>Gleaming jobs, the computer-mind,<br>Turn memory shorter than the land’s.
 
+
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Bukit%20Batok%20Housing.jpg">
+ <div style="background-color: white;">Bukit Batok housing estate with HDB flats in the foreground, and the transmitting station in the background. <i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
+
+	
 Thumboo’s poem, “Bukit Panjang, Hill, Village, Town” (and also one of his longest in recent years), is one that succinctly surmises the evolution of Bukit Panjang from when it “Culled our season years before we/ Glimpsed your contours. You/ Rolled south to be the tip of Mother Asia,/ Picking up names like Bukit Batok. You/ Finally stopped for tectonic breath, at Mt/ Sophia…” to when it had “Small clusters of rubber, durian, Mango,/ Tembusu, pulasan, mangosteen...”. But more than just its physical evolution, Thumboo infuses his poem with history—making references to Bukit Batok during key points in Singapore’s history, mirroring the growth of Bukit Batok with that of Singapore’s: “…your last spur is Fort Canning./ Still steady stately un-stressed, you/ Our vigilant secret dragon saw your further / Than Brit radars…” and “Trying to spot Konfrontasi: a word, a fear,/ A rant…” Thumboo’s poetry is more than a recounting of the shifting cityscape of Singapore – it is a recounting of the country’s story. This is particularly pertinent in “Bukit Panjang, Hill, Village, Town” where it
 
 …is a sensitive portrayal of how the fast-changing landscapes in Singapore underpin the social, political and economic values that frame our nation-state’s rapid growth during the post-independence years. This fourpart poem personifies the familiar landmark as a “Time-traveller; master of winds…” in its imposing geology, its cultural significance as a village in the chaotic period during the Japanese occupation before it finally settles comfortably into the role of an “established” new town in the current flow of Singapore’s continuing progress as it gets “plump with amenities.” Set against the dramatic background of the restive pre- and post-colonial period, and later during the “supercharged” nation building years, the poem may well be read by researchers in the near future as one of Thumboo’s most successful blend of his public and personal voice.15
@@ -80,10 +96,3 @@ Thumboo’s poetry functions in the same vein as old places – he uses text to 
 
 <b>Stephanie Pee</b> is an executive with the National Library Arts and the Singapore Memory Project team. She was an assistant senior editor with Marshall Cavendish before joining NLB. 
 </div>
-
-
-
-
-
-
-
