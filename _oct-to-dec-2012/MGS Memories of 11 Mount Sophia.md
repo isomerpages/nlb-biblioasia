@@ -41,6 +41,9 @@ Taking its pride of place at Mount Sophia is Olson Building, the oldest in the c
 
 The story of MGS at Mount Sophia is incomplete without some tribute to Nind Home, a boarding house for girls built by the Methodist Mission, and where Sophia Blackmore had worked and stayed. In a memorable speech at the dedication service for the opening of the Ellice Handy Building, the late Mrs Ellice Handy7 shared that the top of Mount Sophia first belonged to Nind Home, “a happy family of nearly 100 girls, sometimes more, and we came from all races…Those were happy days when there was little pressure and plenty of leisure”.8 Nind Home became a part of MGS but was demolished after the war in 1947 when the structure was deemed unsafe. Built in its place was the Sophia Blackmore Memorial Hall.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Nind%20home.jpg">
+ <div style="background-color: white;">Nind Home in the 1890s, Sophia Blackmore Memorial Hall.<i>Courtesy of Methodist Girls’ School.</i></div>
+	
 With the completion of the Kenyon Building named after another principal, Carrie Kenyon, in 1933, MGS started a two session school. Before its demolition in the late 1970s, this eight-classroom block at the foot of Mount Sophia leading down to Adis Road claimed its fair share of ghost stories – especially those of haunted toilets. The sturdy monkey bars, swings and see-saws were dearly missed when it was subsequently pulled down to make way for a new multi-storey primary school complex. More memories include picking bright red saga seeds in the playfield behind this old Kenyon block.
 
 The Japanese Occupation from 1942-1945 brought schooling to a halt. MGS was renamed Mount Sophia Girls’ School and recorded its lowest attendance of 15 students and a teaching staff of 7 in 1944.
