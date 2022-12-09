@@ -2,6 +2,8 @@ collections:
   oct-to-dec-2011:
     output: true
     order:
+      - "Lived Spaces and Memories: The Indian Business Communities in Colonial
+        Singapore.md"
       - "The Enigma of Departure: Remembering Singapore’s Railway Lines and
         Stations.md"
       - Director's Column.md
