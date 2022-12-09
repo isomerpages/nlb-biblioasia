@@ -122,8 +122,6 @@ MGS Mount Sophia has left a loving legacy of school life experiences. Braving th
 
 #### **REFERENCES**
 
-         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; mso-themecolor:hyperlink; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:purple; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
 [A school expands– thanks to religion](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551001-1.2.51). (1955, October 1). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
 [American girls’ death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250921-1.2.75). (1925, September 21). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
@@ -229,6 +227,3 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 [^15]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17), 23 Oct 2011, p.
 
 [^16]: Chee, B. (2012, June 30). Annual report (July 2011–June 2012). Report presented at the 51st Annual General Meeting of the MGS Alumnae Association, Singapore.
-
-
-
