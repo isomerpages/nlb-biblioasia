@@ -31,7 +31,7 @@ From the 1960s through to the 1990s, before the implementation of the Direct Sch
 
 Tucked away from the hustle and bustle of city streets, a tranquil hilltop haven which once overlooked Eu Tong Sen’s majestic Eu Villa and the treetops of the Istana, MGS Mount Sophia was a “lovely collection of quaint old buildings, ranging from bricked bungalows and colonial structures with high ceilings, sweeping staircases and long verandahs to 1950s style classrooms with French doors covered in green glass, and bare cement floors”.[^4]
 
-<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/school%20site.jpg">
+<img style="width:100%;" src="/images/Vol%208%20issue%203/MGS/school%20site.jpg">
  <div style="background-color: white;">
 Aerial view of a historical school site at 11 Mount Sophia. <i>Courtesy of Methodist Girls’ School.</i></div>
 	
