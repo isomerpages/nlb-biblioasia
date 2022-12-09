@@ -9,7 +9,7 @@ description: Founded in 1887, the Methodist Girls’ School (MGS) is among the
 #### Founded in 1887, the Methodist Girls’ School (MGS) is among the oldest and most established schools in Singapore. Barbara Quek, a former MGS student, shares with us the history of the school and memories that left a deep imprint on many who passed through its doors.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Maypole%20dance.jpg">
- <div style="background-color: white;">The Maypole dance, traditionally performed on Sports Day at 11 Mount Sophia. Courtesy of Methodist Girls’ School.</div>
+ <div style="background-color: white;">The Maypole dance, traditionally performed on Sports Day at 11 Mount Sophia.<i> Courtesy of Methodist Girls’ School.</i></div>
 
 It was a sentimental Sunday on 3 June 2012 when MGS and the Alumnae Association jointly held an Open House Day and Remembrance Ceremony to bid a final farewell to their former school site at 11 Mount Sophia.
 
@@ -29,20 +29,19 @@ From the 1960s through to the 1990s, before the implementation of the Direct Sch
 
 Tucked away from the hustle and bustle of city streets, a tranquil hilltop haven which once overlooked Eu Tong Sen’s majestic Eu Villa and the treetops of the Istana, MGS Mount Sophia was a “lovely collection of quaint old buildings, ranging from bricked bungalows and colonial structures with high ceilings, sweeping staircases and long verandahs to 1950s style classrooms with French doors covered in green glass, and bare cement floors”.4
 
-
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/school%20site.jpg">
  <div style="background-color: white;">
 Aerial view of a historical school site at 11 Mount Sophia. <i>Courtesy of Methodist Girls’ School.</i></div>
 	
 Taking its pride of place at Mount Sophia is Olson Building, the oldest in the cluster, the “only one grand dame” that is “to be retained and integrated with new developments in the future”.5 Named after one of the school’s former principals, Mary Olson, this “old girl”, constructed in 1928, has been earmarked for conservation. Responding to queries on why the 84-year old Olson Building was so special, URA spokesman explained that it was “selected because of conservation merits such as a high-pitched tiled roof, elegant geometric masonry corbels (stone brackets), moulded concrete lattices and concrete louvred vents – all visually interesting and suited to a tropical climate”.6
 
-<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Olson%20Building.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Olson%20Building1.jpg">
  <div style="background-color: white;">Constructed in 1928, Olson Building is the only building out of the six to be conserved. <i>Courtesy of Methodist Girls’ School.</i></div>
 
 The story of MGS at Mount Sophia is incomplete without some tribute to Nind Home, a boarding house for girls built by the Methodist Mission, and where Sophia Blackmore had worked and stayed. In a memorable speech at the dedication service for the opening of the Ellice Handy Building, the late Mrs Ellice Handy7 shared that the top of Mount Sophia first belonged to Nind Home, “a happy family of nearly 100 girls, sometimes more, and we came from all races…Those were happy days when there was little pressure and plenty of leisure”.8 Nind Home became a part of MGS but was demolished after the war in 1947 when the structure was deemed unsafe. Built in its place was the Sophia Blackmore Memorial Hall.
 
-<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Nind%20home.jpg">
- <div style="background-color: white;">Nind Home in the 1890s, Sophia Blackmore Memorial Hall.<i>Courtesy of Methodist Girls’ School.</i></div>
+<img style="width:90%;" src="/images/Vol%208%20issue%203/MGS/Nind%20home.jpg">
+ <div style="background-color: white;">Nind Home in the 1890s, Sophia Blackmore Memorial Hall.<i> Courtesy of Methodist Girls’ School.</i></div>
 	
 With the completion of the Kenyon Building named after another principal, Carrie Kenyon, in 1933, MGS started a two session school. Before its demolition in the late 1970s, this eight-classroom block at the foot of Mount Sophia leading down to Adis Road claimed its fair share of ghost stories – especially those of haunted toilets. The sturdy monkey bars, swings and see-saws were dearly missed when it was subsequently pulled down to make way for a new multi-storey primary school complex. More memories include picking bright red saga seeds in the playfield behind this old Kenyon block.
 
@@ -52,7 +51,6 @@ A new horizon awaited post-war MGS in 1945 when the school was reinstated and Mr
 
 
 
-	
 <i>“I remember being told that at 12 midnight one would hear ‘noise’. Never one to believe such myths and tall stories, I would stay behind in school for campfires overnight and other events past midnight without giving it much thought. One night, I actually heard feet shuffling and desks being moved! Later I was told that the low brick wall in front of the main entrance where the MGS signage stood was the site of a grave. That really kept me on my guard each time we had Girl Guide camps! This story about ghosts and burial grounds at Mount Sophia was not without some history. The Japanese took over Nind Home and made it their Headquarters during the Occupation years. During that time, MGS was used to house prisoners and it was possible that those who died were buried nearby. This might account for the strange going-on at midnight!”</i><br>
 Mrs Anna Tham [1951]
 
@@ -62,20 +60,21 @@ The old buildings and serene setting of those schoolgirl days occupy a special p
 
 The memories of former school girls recall rich images of unforgettable experiences – especially the slippery concrete slope by the Olson Building, “polished smooth”11 by innumerable girls who slid – and also ran – down this unique slide in their bloomers and skirts, sometimes without shoes. It was a favorite pastime at every recess that elicited squeals of laughter and occasional screams in front of the staff room. Every true-bred MGS girl who passed through the gates of MGS at Mount Sophia also remembers the well-trodden “Hundred Steps” behind Cathay Building. This famed flight of steep steps with no known origins was an integral feature of the school grounds. Exactly one hundred steps, they brought back happy days of “bouncing down the steps to, perhaps, a film show \[at Cathay Cinema\]…part and parcel of life in MGS”, even though “few passers-by know about this picturesque footpath”.12 It was the convenient ‘backdoor’ to Handy Road and even truancy at times. When asked what were the most abiding memories of her schooldays in MGS, Kelvyna Chan from the class of 1972, now principal of Anglo-Chinese Junior College (ACJC), was quick to highlight the 100 steps leading up to Mount Sophia, because that “was my daily challenge. If I can overcome the 100 steps every morning at 7am, I can overcome anything”.13
 
-<img style="width:50%;" src="/images/Vol%208%20issue%203/MGS/100%20steps.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%203/MGS/100%20steps1.jpg">
  <div style="background-color: white;">The “100 steps” from Mount Sophia to Handy Road. <i>Courtesy of Methodist Girls’ School.</i></div>
 	
 Linda Lim, class of 1966, recalled physical education lessons that included practising English folk dances to recorded music and the maypole dance. She wrote a vivid account of her school days in MGS with her group of friends called the Nuttes. Excerpts from her memoirs were published in Fellowship 2010 newsletter, “Vignettes of an MGS life”, in which she shared anecdotes of primary school, recess, sports day, school plays, the kacang puteh man and toilets suspected of being haunted by the Orang Minyak, or “oily man”.
 
-<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/folk%20dance.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/folk%20dance1.jpg">
  <div style="background-color: white;">MGS girls enjoying a folk dance. <i>Courtesy of Methodist Girls’ School.</i></div>
 
 #### **Relics Remembered**
 
 Gone are the days of school life at Mount Sophia but relics of the past are vivid reminders of this precious heritage. Some of the artefacts housed within the MGS Archives Room at Blackmore Drive include a pair of old wooden speakers that were part of the public address system hanging from the front of each classroom, the dignified school bell, an archaic desk and chair, the metal printing block on which the school song was engraved, as well as an old hefty office safe. Handicraft works and other memorabilia have been preserved and safe-kept by Mrs Anna Tham, MGS’s longest serving principal of 17 years. Though retired, she still returns to the school to tend to these treasures as well as contribute her time to mentor the girls in various CCAs.
 
-<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Old%20desks%20and%20chairs.jpg">
- <div style="background-color: white;">Old desks and chairs of bygone days (1950), a set of which is housed in the Archives Room at Blackmore Drive.<i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
+
+<img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Old%20desks%20and%20chairs1.jpg">
+ <div style="background-color: white;">Old desks and chairs of bygone days (1950), a set of which is housed in the Archives Room at Blackmore Drive.<i> MICA Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 #### **Old School**
