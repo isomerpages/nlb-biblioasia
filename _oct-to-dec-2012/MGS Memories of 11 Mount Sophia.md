@@ -32,7 +32,7 @@ From the 1960s through to the 1990s, before the implementation of the Direct Sch
 Tucked away from the hustle and bustle of city streets, a tranquil hilltop haven which once overlooked Eu Tong Sen’s majestic Eu Villa and the treetops of the Istana, MGS Mount Sophia was a “lovely collection of quaint old buildings, ranging from bricked bungalows and colonial structures with high ceilings, sweeping staircases and long verandahs to 1950s style classrooms with French doors covered in green glass, and bare cement floors”.[^4]
 
 <img style="width:100%;" src="/images/Vol%208%20issue%203/MGS/school%20site.jpg">
- <div style="background-color: white;">
+<div style="background-color: white;">
 Aerial view of a historical school site at 11 Mount Sophia. <i>Courtesy of Methodist Girls’ School.</i></div>
 	
 Taking its pride of place at Mount Sophia is Olson Building, the oldest in the cluster, the “only one grand dame” that is “to be retained and integrated with new developments in the future”.[^5] Named after one of the school’s former principals, Mary Olson, this “old girl”, constructed in 1928, has been earmarked for conservation. Responding to queries on why the 84-year old Olson Building was so special, URA spokesman explained that it was “selected because of conservation merits such as a high-pitched tiled roof, elegant geometric masonry corbels (stone brackets), moulded concrete lattices and concrete louvred vents – all visually interesting and suited to a tropical climate”.[^6]
@@ -194,9 +194,9 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 
 #### **NOTES**
 
-     
+  
 
-[^1]: From the television show, The Wonder Years. (n.d.). _Welcome to The Quote Garden! Celebrating 14 years online 1998–2012_. Retrieved from [quotegarden.com](http://ww.quotegarden.com/memory.html) website.
+[^1]: From the television show, The Wonder Years. (n.d.). _Welcome to The Quote Garden! Celebrating 14 years online 1998–2012_. Retrieved from Quote garden website. 
 
 [^2]: DSA-Sec is an admission exercise to allow participating schools to select some P6 students from other schools for admission to Secondary 1 based on their achievements and talents before the PSLE results are released. Ministry of Education. Singapore. (2012). _Direct School Admission-Secondary (DSA-Sec)_. Retrieved from Ministry of Education website.
 
@@ -226,4 +226,14 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 
 [^15]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17), 23 Oct 2011, p.
 
-[^16]: Chee, B. (2012, June 30). Annual report (July 2011–June 2012). Report presented at the 51st Annual General Meeting of the MGS Alumnae Association, Singapore.
+[^16]: Chee, B. (2012, June 30). *Annual report (July 2011–June 2012)*. Report presented at the 51st Annual General Meeting of the MGS Alumnae Association, Singapore.
+
+
+
+
+
+
+
+
+
+
