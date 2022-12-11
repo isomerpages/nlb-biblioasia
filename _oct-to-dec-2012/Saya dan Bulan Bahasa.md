@@ -5,7 +5,7 @@ description: Award-winning author and Malay language expert Muhammad Ariff Ahmad
   recounts his experience and involvement in the activities of the Malay
   Language Month since 1959.
 ---
- #### Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month since 1959.
+#### Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month since 1959.
  
 Award-winning author and Malay language expert, Mr Muhammad Ariff Ahmad reminisces about his experience and involvement in the activities of the Malay Language Month since 1959. Inaugurated as the National Language Month, the campaign to promote the Malay language was initially targeted at the non-Malays. With the adoption of the bilingual education policy in 1966, Malay was taught as a second language in Singapore schools with the objective of preserving the culture and traditions of the Malay ethnic group. By the 1980s, the community leaders found it necessary to encourage Malays to use their mother tongue when interacting with one another.
 
@@ -39,7 +39,7 @@ Saya jelaskan kepada penolong pengetua sekolah apa yang sebenarnya telah saya be
 
 Di samping mengajar (pada pagi dan petang) di TTC, dan di beberapa kelas anjuran LGPD (pada waktu malamnya), selama dua tahun saya tulis skrip pelajaran bahasa Melayu/kebangsaan yang disampaikan kepada pendengar radio Singapura – pelajaran bahasa Melayu melalui bahagian Melayu, dan pelajaran bahasa kebangsaan melalui bahagian Cina. Selain itu, saya juga tulis makalah untuk ruangan “Belajar bahasa Kebangsaan” di majalah dua mingguan Mentor yang diterbitkan Singapore Teachers’ Union untuk para anggotanya.
 
-**1959—1962**
+#### **1959—1962**
 
 Selama lima tahun, saya tulis satu siri buku belajar bahasa Melayu/Kebangsaan yang saya namakan *Bahasa Negaraku*. Buku itu diterbitkan Marican & Sons memenuhi kepentingan pelajar bukan-Melayu di Singapura dan di Persekutuan Tanah Melayu (PTM).
 
@@ -55,7 +55,7 @@ Dewan Bahasa dan Kebudayaan (DBK) Singapura telah menganjurkan musyawarah penuli
 
 Penubuhan Malaysia (Persatuan NegaraNegara PTM, Singapura, Sabah dan Sarawak) pada September 1963 telah menyebabkan kegagalan pelaksanaan cadangan Jawatankuasa Ejaan Melayu/Indonesia (Melindo) itu sehingga tahun 1966 apabila Konfrontasi Indonesia terhadap Malaysia berakhir.
 
-Penubuhan Malaysia (Persatuan NegaraNegara PTM, Singapura, Sabah dan Sarawak) pada September 1963 telah menyebabkan kegagalan pelaksanaan cadangan Jawatankuasa Ejaan Melayu/Indonesia (Melindo) itu sehingga tahun 1966 apabila Konfrontasi Indonesia terhadap Malaysia berakhir.
+Penubuhan Malaysia (Persatuan Negara Negara PTM, Singapura, Sabah dan Sarawak) pada September 1963 telah menyebabkan kegagalan pelaksanaan cadangan Jawatankuasa Ejaan Melayu/Indonesia (Melindo) itu sehingga tahun 1966 apabila Konfrontasi Indonesia terhadap Malaysia berakhir.
 
 Namun, oleh sebab Singapura telah merdeka (keluar) dari Malaysia pada 9 Ogos 1965, maka Singapura tidak automatik menjadi anggota MABIM. Sebagai sebuah negara merdeka yang berdaulat, Singapura mempunyai dasar pemerintahan dan identitinya sendiri.
 
@@ -176,14 +176,3 @@ Dua anugerah, Anugerah Tun Seri Lanang dan Anumerta Tun Sri Lanang, disampaikan 
 
 <div>
 Award-winning writer, editor and former lecturer <b>Muhammad Ariff Ahmad</b> is a prominent expert and activist of the Malay language and culture in Singapore. A founding member of the esteemed Malay literary club, Asas ‘50, he has been honoured at national and regional levels, receiving Singapore’s Cultural Medallion in 1987 and the Southeast Asian Write award in 1993.</div>
-
-
-
-
-
-
-
-
-
-
-
