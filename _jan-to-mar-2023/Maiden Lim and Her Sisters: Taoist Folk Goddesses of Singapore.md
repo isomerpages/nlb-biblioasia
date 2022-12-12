@@ -142,7 +142,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 <div style="background-color: white;"> 
 <br/>
 <img src="/images/Vol%2018%20Issue%204/Authors/Ng_Yi-Sheng.png" style="width: 100px; height: 100px;"/>
-	<b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and researcher. His books include the debut poetry collections <i>last boy, A Book of Hims and Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.</div>
+	<b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and researcher. His books include the debut poetry collection <i>last boy, A Book of Hims and Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.</div>
 
 #### **NOTES**
 
