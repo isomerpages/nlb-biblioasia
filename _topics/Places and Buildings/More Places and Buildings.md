@@ -4,12 +4,18 @@ permalink: /topics/Places-and-Buildings/more/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">"Book City" in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a>
+
+Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
+
+<img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg">  
+	<hr>
+	
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">The Origin Stories of Keramat Kusu</a>
 
 Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
 
 <img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a>
