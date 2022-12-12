@@ -33,7 +33,7 @@ Kira-kira 300 orang guru Melayu yang wujud pada masa itu, tidak cukup untuk meng
 Teachers’ Training College (TTC) telah mengadakan mengadakan kelas bahasa Kebangsaan khas bagi guru-guru bukan Melayu hingga lulus ‘darjah dua’ (sukatan pelajaran pemerintah). Kepada guru-guru ini diajarkan bahasa Kebangsaan, kesusasteraan dan kebudayaan Melayu. Novelet saya *Sarah Pengarang Kecil*  yang diterbitkan Pustaka Melayu pada 1957 telah dijadikan teks kesusasteraan bagi peperiksaan Darjah 1 LGPD.
 
 
-<img style="width:60%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Pustaka%20Melayu_1.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Pustaka%20Melayu_1.jpg">
  <div style="background-color: white;">All rights reserved. Pustaka Melayu, 1960. </div>
 
 Saya telah ditugaskan mengajarkan kebudayaan di kelas darjah dua di TTC. Ketika mengajar bagaimana menyebut atau menulis nama orang Melayu, saya beritahu pelajar dikelas itu: orang Melayu menyebut atau menulis nama anaknya lengkap dengan bin atau bintinya, misalnya: Muhammad Ali bin Abu atau Salminah binti Kemat. 
@@ -80,7 +80,7 @@ Menyediakan ruang dan memberi peluang sambil menggalakkan rakyat Singapura bertu
 
 Bekerjasama dengan LTK Singapura, Kementerian Kebudayaan telah menganjurkan Minggu Bahasa Kebangsaan dan Bulan Bahasa Kebangsaan dalam tahun 1965.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Yusof%20Ishak_1.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Yusof%20Ishak_1.jpg">
  <div style="background-color: white;">Yang Di-Pertuan Negara Yusof Ishak dan Menteri Hal Ehwal Luar Negara S Rajaratnam semasa pelancaran Bulan Bahasa Kebangsaan di Dewan Peringatan Victoria, 1965. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Peristiwa Minggu Bahasa Kebangsaan diadakan pada Mei 1965 (semasa Singapura masih dalam Malaysia) dan peristiwa Bulan Bahasa Kebangsaan disempurnakan sepanjang September tahun itu (ketika Singapura baru keluar dari Malaysia).
