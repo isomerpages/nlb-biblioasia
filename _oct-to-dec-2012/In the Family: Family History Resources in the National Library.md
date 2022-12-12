@@ -41,8 +41,40 @@ The middle-class was privileged with time and money and often joined clubs, soci
 
 Although our ancestors often came with little but the clothes on their backs, some succeeded, through sheer perseverance and good luck. A number have given their wealth and time back to community and religious institutions. The philanthropist who donated generously to community causes would have had his name engraved on temple steeles or remembered in clan association records. The bibliography on the publications of the Singapore Chinese Clan Associations8 references holdings on clan associations that are in the National Library, the National Archives, the Nanyang Technological University, the National University of Singapore, among other institutions. Churches also published newsletters on the contributions of ordinary people. They include the *Methodist Message*9 , *St Andrews’ Outlook*10 and the *Diocesan Digest*. 11
 
-School records are another rich resource. These include school magazines, commemorative and souvenir publications. Besides class photographs of teachers and students, these publications also highlight the academic, sporting and leadership accomplishments of their students. The National Library has school magazines mainly from the 1960s onwards, an example of which is the *Cedar Magazine*. A school with a long history like the Raff les Institution, has magazines dating back to the 1880s.12 Many established schools also have their own archives or may even have uploaded some school records and photographs online. Schools affiliated with religious groups such as churches, temples and mosques often have descriptive accounts of school events and their participants in their respective religious publications.
+School records are another rich resource. These include school magazines, commemorative and souvenir publications. Besides class photographs of teachers and students, these publications also highlight the academic, sporting and leadership accomplishments of their students. The National Library has school magazines mainly from the 1960s onwards, an example of which is the *Cedar Magazine*. A school with a long history like the Raff les Institution, has magazines dating back to the 1880s.12 Many established schools also have their own archives or may even have uploaded some school records and photographs online. Schools affiliated with religious groups such as churches, temples and mosques often have descriptive accounts of school events and their participants in their respective religious publicaitons.
 
+
+#### **Gateway to Genealogy Research**
+
+The National Library has several reference publications that provide pointers on resources and approaches to constructing family trees. For instance, Foy’s *Family history for beginners* (2011) gives concrete yet simple steps to genealogical research while Smolenyak’s *Who do you think you are?* (2009) shows examples of actual family trees and how to go about piecing one. Skulnick’s and Moorhead’s *500 brickwall solutions to genealogy problems* (2003) along with its sister edition *More brickwall solutions to genealogy problems* (2004) written for family historians who faced brickwalls in their research, offers strategies on overcoming deadends. For a local perspective, the National Library has its own compilations and guides of materials in its holdings, ranging from the introductory resource guide entitled *Tracing your family history* (2003) which gives a good survey of key resources, to the more extensive *Sources on family history* (2008) by Kartini Saparudin which covers resource materials by genre and by key racial groups. Ng Hui Ling has also compiled an extensive library guide on Chinese genealogy research.13
+
+The internet can be a bountiful resource for the family historian. Books such as Marelli’s *@ home with your ancestors.com* (2007) and *Family history on the net* (2007) offer useful genealogy related links and websites.
+
+
+A popular first-stop for genealogy research on the web is FamilySearch,14 one of the largest genealogy services in the world, with millions of family history records available free online. FamilySearch is a service provided by The Church of Jesus Christ of Latter-day Saints. They also run over 4,500 family history centres in 70 countries including a chapter on Singapore, which may be worth a visit. Unfortunately much of the rich family history found on the net is mainly for nonAsians. However, there are some websites that serve the local community. One such site is the portal of the National Archives of Singapore at <a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>. </div>It is a gateway to the records, photographs, maps and private collections of the archives in Singapore. To get the most out of its extensive records, a visit to the National Archives is a definite must as a number of its records are not available online in full-text. Another key organisation is the newly formed Genealogy Society Singapore15 which has helped a number of Singaporeans to trace their roots all the way back to Xiamen and Hainan.
+
+
+#### **Ghosts in the Attic**
+
+Every family has skeletons and secrets – an illegitimate son, an adopted child, a criminal record, poverty or insanity. Yet these members may prove most vital to the building of one’s family tree. It is from these family members that records may be uncovered as documentation is often required for cases of adoption and insanity, or appeals for financial support.
+
+Each family has tales of bravado, tragedy and bliss waiting to be shared and retold. There are publications that guide researchers on publishing their family stories. They include Titford’s *Writing up your family history* (2003) and Carmack’s *You can write your family history* (2003).
+
+Published family histories are the nuts and bolts of genealogical research. Particularly useful for their insights into Malayan families are family histories such as Lim’s *Myth and reality* (1988) and Ong’s *Chew Boon Lay* (2002), which includes four charts on their extensive family tree. The Shepherdson family made headlines when they published their genealogy *Journey to the Straits* (2003) that spanned three centuries from their earliest known ancestor who travelled beyond the British shores to Southeast Asia. They were even featured in an exhibition on family history research at the National Library. The family followed up with another book *The great genealogical search* (2010) which records their research experience from traditional repositories such as archives and libraries as well as modern tools, in particular the internet and DNA matching. A member of the Shepherdson family also published her personal adventure of tracing one’s family in *Looking back* (2006). These three publications demonstrate the various approaches of tracing one’s family history, proven techniques and experiences, and how the interplay of memories and records reconstructed the lives of people.
+
+
+The Shepherdson story is an example of family history coming full-circle, where the research bore fruit in the form of more books and records to serve other family historians. Although the process of researching and documenting a family tree may seem never-ending, one can be encouraged by fellow sojourners and those who have found their roots through the resources at the National Library.
+
+**Acknowledgements** 
+
+<i>The author wishes to acknowledge the contributions of Mr Lai Yeen Pong, Consultant, National Library Board, and Miss Alicia Yeo, Manager, National Library Group, in reviewing this paper.</i>
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<b>Bonny Tan</b> is a Senior Librarian with the National Library Heritage division. She is the compiler of <i> A Baba bibliography</i> (2007) and <i> An orientalist’s treasure trove of Malaya and beyond: Catalogue of Gibson-Hill Collection at the National Library Singapore</i> (2008) and is a regular contributor to<i> BiblioAsia</i> and Singapore Infopedia, NLB’s online encyclopaedia on Singapore.</div>
 
 
 
