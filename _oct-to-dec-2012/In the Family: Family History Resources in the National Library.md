@@ -187,7 +187,7 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
 [^3]: Koh Seow Chuan, a retired architect and founder of DP Architects, donated his rich collection of documents and records to NLB.
 
-[4]: The March 2012 issue of BiblioAsia has a profile of Wu Lien-Teh and highlights of his collection. Wee, T. B. (2012, March). [A life less ordinary: Wu Lien-The the plague fighter](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). _BiblioAsia, 7_ (4), 34–37. Retrieved from BiblioAsia website.
+[^4]: The March 2012 issue of BiblioAsia has a profile of Wu Lien-Teh and highlights of his collection. Wee, T. B. (2012, March). [A life less ordinary: Wu Lien-The the plague fighter](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). _BiblioAsia, 7_ (4), 34–37. Retrieved from BiblioAsia website.
 
 [^5]: Zupu (族谱) and zongpu (宗璞) are terms that are used interchangeably with jiapu.
 
