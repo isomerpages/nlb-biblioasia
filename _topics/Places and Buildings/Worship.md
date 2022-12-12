@@ -1,9 +1,16 @@
 ---
 title: Worship
-permalink: /topics/Places-and-Buildings/worship
+permalink: /topics/Places-and-Buildings/worship/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">The Origin Stories of Keramat Kusu</a>
+
+Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
+
+<img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  
+<hr>
+
 #### <a href="/vol-12/issue-3/oct-dec-2016/building-faith" style="text-decoration: none; font-weight: bold;"> Building Faith: Wartime Churches in Syonan-to</a>
 <p>Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.</p> 
 <img src="/images/Vol-12-issue-3/building-faith/05-building_faith.jpg">
