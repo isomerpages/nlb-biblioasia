@@ -1,8 +1,15 @@
 ---
 title: "Nature and the Environment "
-permalink: /topics/nature
+permalink: /topics/nature/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a>
+
+A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
+
+<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/agriculture"> From Gambier to Pepper: Plantation Agriculture in Singapore</a>
 Timothy Pwee takes us on a tour through pepper, gambier, nutmeg, pineapple and rubber plantations that were once common in 19th-century Singapore.
 <img style="width:100%;" src="/images/Vol-17-issue-1/agriculture/gambierpepper.jpg">  
