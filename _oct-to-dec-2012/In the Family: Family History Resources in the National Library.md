@@ -209,8 +209,24 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
 [^14]: FamilySearch is accessible at Familysearch.org website.
 
-[^15]: This organisation’s website can be accessed at singaporegenealogy.org website.
-	
+[^15]: This organisation’s website can be be assessed at singaporegenealogy.org website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
