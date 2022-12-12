@@ -5,8 +5,8 @@ description: Award-winning author and Malay language expert Muhammad Ariff Ahmad
   recounts his experience and involvement in the activities of the Malay
   Language Month since 1959.
 ---
-#### Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month since 1959.
- 
+#### Saya diminta menulis tentang memori saya mengenai pelibatan saya dalam kegiatan dan perayaan Bulan Bahasa di Singapura. Sepanjang ingatan saya, dengan nama Bulan Bahasa, kegiatan dan perayaan melestari dan menggunakan bahasa itu di Singapura telah dimulai semenjak tahun 1959. Hanya nama bahasa itu yang berubah-ubah sesuai dengan rasa, selesa dan kuasa yang selari dengan fenomena hidup di Singapura pada masa itu: 1959 – 1966 disebut bahasa Kebangsaan; 1966 – kini disebut bahasa Kedua; 1982 – kini disebut semula bahasa Melayu, atau bahasa ibunda.[^1] Dalam tulisan ini akan saya cuba sedapat-dapatnya menyatakan pengalaman dan keterlibatan saya dalam kegiatan dan perayaan bulan-bulan bahasa itu.
+
 Award-winning author and Malay language expert, Mr Muhammad Ariff Ahmad reminisces about his experience and involvement in the activities of the Malay Language Month since 1959. Inaugurated as the National Language Month, the campaign to promote the Malay language was initially targeted at the non-Malays. With the adoption of the bilingual education policy in 1966, Malay was taught as a second language in Singapore schools with the objective of preserving the culture and traditions of the Malay ethnic group. By the 1980s, the community leaders found it necessary to encourage Malays to use their mother tongue when interacting with one another.
 
 
@@ -55,7 +55,7 @@ Dewan Bahasa dan Kebudayaan (DBK) Singapura telah menganjurkan musyawarah penuli
 
 Penubuhan Malaysia (Persatuan NegaraNegara PTM, Singapura, Sabah dan Sarawak) pada September 1963 telah menyebabkan kegagalan pelaksanaan cadangan Jawatankuasa Ejaan Melayu/Indonesia (Melindo) itu sehingga tahun 1966 apabila Konfrontasi Indonesia terhadap Malaysia berakhir.
 
-Penubuhan Malaysia (Persatuan Negara Negara PTM, Singapura, Sabah dan Sarawak) pada September 1963 telah menyebabkan kegagalan pelaksanaan cadangan Jawatankuasa Ejaan Melayu/Indonesia (Melindo) itu sehingga tahun 1966 apabila Konfrontasi Indonesia terhadap Malaysia berakhir.
+Setelah Konfrontasi berakhir, dengan alasan permutu (slogan) “biduk lalu kiambang bertaut”, Jawatankuasa Ejaan Melindo bersatu semula dengan nama barunya Majlis Kebahasaan Indonesia/Malaysia (MABIM).[^2] Tugas majlis baru itu tidak lagi setakat menyekatakan ejaan semata-mata tetapi meluas hingga ke masalah bahasa.
 
 Namun, oleh sebab Singapura telah merdeka (keluar) dari Malaysia pada 9 Ogos 1965, maka Singapura tidak automatik menjadi anggota MABIM. Sebagai sebuah negara merdeka yang berdaulat, Singapura mempunyai dasar pemerintahan dan identitinya sendiri.
 
@@ -94,7 +94,7 @@ Peserta bukan Melayu melakukan acaraacara bahasa Kebangsaan; manakala peserta Me
 Peserta bukan Melayu melakukan acaraacara bahasa Kebangsaan; manakala peserta Melayu melakukan juga acara seni budaya Melayu.
  
  
- #### **Bahasa Ibunda (Bahasa Kedua) 1966**
+#### **Bahasa Ibunda (Bahasa Kedua) 1966**
 
 Mulai tahun 1966, sistem pelajaran kebangsaan Singapura telah menetapkan bahawa bahasa Inggeris digunakan sebagai bahasa penghantar pelajaran di sekolah-sekolah dan disebut sebagai bahasa pertama; manakala bahasa-bahasa Melayu, Mandarin dan Tamil yang disebut sebagai bahasa ibunda diajarkan juga kepada anak-anak etnik penutur bahasa masing-masing.
 
@@ -108,7 +108,7 @@ Kongres telah membincangkan lakar Ejaan Melayu Baru Singapura yang dibentangkan 
 
 Kongres telah membincangkan juga tentang perkembangan bahasa dan sastera Melayu di Singapura. Beberapa kertas kerja mengenai bahasa Melayu baku; pelajaran bahasa dan kesusasteraan Melayu di kelas menengah telah dibincangkan.
 
-Saya telah mengemukakan kertas kerja mengenai pengajaran kesusasteraan di kelas kelas menengah Melayu (yang ditumpangkan di 10 buah sekolah Menengah Inggeris).3
+Saya telah mengemukakan kertas kerja mengenai pengajaran kesusasteraan di kelas kelas menengah Melayu (yang ditumpangkan di 10 buah sekolah Menengah Inggeris).[^3]
 
 #### **1997**
 
@@ -132,7 +132,7 @@ Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura telah menubuhkan Jawa
 
 Jawatankuasa yang dipengerusikan Presiden Majlis Pusat, Haji Mohd Yusof Ahmad itu dianggotai Persatuan Persuratan Pemuda Pemudi Melayu (4PM), Taman Bacaan Pemuda Pemudi Melayu Singapura, Angkatan Sasterawan 50 (Asas 50), Kesatuan Guru-Guru Melayu Singapura (KGMS) dan Angkatan Pelukis Aneka Daya (APAD).
 
-Encik Yusnor Ef ialah Setiausaha Jawatankuasa itu dan Encik Mohd Raman Daud adalah Penolong Setiausahanya. Setiausaha Parlimen Perdagangan dan Perusahaan merangkap Hal Ehwal Masyarakat, Haji Sidek Saniff dan Setiausaha Parlimen Kesihatan dan Kebudayaan, Encik Wan Hussin Haji Zoohri telah dilantik sebagai Penaung Jawatankuasa itu. Manakala Anggota Parlimen Kampung Kembangan, yang juga Setiausaha MENDAKI4 Haji Mansor Haji Sukaimi dan saya (Haji Muhammad Ariff Ahmad) telah dilantik sebagai Penasihat kepada Jawatankuasa tersebut.
+Encik Yusnor Ef ialah Setiausaha Jawatankuasa itu dan Encik Mohd Raman Daud adalah Penolong Setiausahanya. Setiausaha Parlimen Perdagangan dan Perusahaan merangkap Hal Ehwal Masyarakat, Haji Sidek Saniff dan Setiausaha Parlimen Kesihatan dan Kebudayaan, Encik Wan Hussin Haji Zoohri telah dilantik sebagai Penaung Jawatankuasa itu. Manakala Anggota Parlimen Kampung Kembangan, yang juga Setiausaha MENDAKI[^4] Haji Mansor Haji Sukaimi dan saya (Haji Muhammad Ariff Ahmad) telah dilantik sebagai Penasihat kepada Jawatankuasa tersebut.
 
 Mencari permutu untuk kempen bulan bahasa Melayu (yang pertama) yang dilaksanakan dalam bulan Ogos tahun itu, saya sarankan kalimah ajakan yang sederhana “gunakanlah bahasa Melayu”. Saya terilham oleh kalimah Jepun yang menggalakkan penduduk Syonan-to menggunakan Nipon-Go. Kata kalimah itu: *manabé, tsukaé Nipon-Go wo* (pelajari, gunakanlah bahasa Nippon). Saya tidak bermaksud memerintah supaya mereka belajar; tetapi mengajak mereka menggunakan bahasa ibunda kerana pada masa itu (dekad 1980an) bilangan orang Melayu yang mula segan berbahasa Melayu bertambah.
 
@@ -168,11 +168,48 @@ Memandangkan tugas Jawatankuasa Bahasa itu semakin luas, dalam beberapa mesyuara
 
 BBMS 1992 telah dilaksanakan dengan tema ‘Ke Arah Penyempurnaan Bahasa Melayu Baku’. Sayangnya, pada masa itu, apabila kita menyebut bahasa Melayu Baku, yang difahami umum ialah sebutan bakunya sahaja; padahal yang dikatakan bahasa baku termasukklah tatabahasanya, ejaannya, peristilahannya, dan sebutannya. Sebutan itu hanya satu sahaja daripada aspek bahasa.
 
-Dalam Simposium Sebutan Baku yang dianjurkan JBMS pada November 1992, nama Majlis Bahasa Melayu Singapura diisytihar dan dirasmikan menggantikan nama JBMS. Pada tahun itu, Majlis Bahasa Melayu telah menganjurkan seminar besar-besaran mengenai sebutan baku. Pakar-pakar sebutan baku dari Malaysia telah diundang memimpin bengkel sebutan baku bagi guru-guru bahasa Melayu di Singapura.5
+Dalam Simposium Sebutan Baku yang dianjurkan JBMS pada November 1992, nama Majlis Bahasa Melayu Singapura diisytihar dan dirasmikan menggantikan nama JBMS. Pada tahun itu, Majlis Bahasa Melayu telah menganjurkan seminar besar-besaran mengenai sebutan baku. Pakar-pakar sebutan baku dari Malaysia telah diundang memimpin bengkel sebutan baku bagi guru-guru bahasa Melayu di Singapura.[^5]
 
 MBMS telah merubah musiman bulan bahasa. Kini dilaksanakan pada tiap tahun genap bagi kegiatan-kegiatan bahasa, manakala tahun ganjil bagi kegiatan-kegiatan kesusasteraan. Pada tahun-tahun kesusasteraan disampaikan anugerah dan hadiah sastera.
 
 Dua anugerah, Anugerah Tun Seri Lanang dan Anumerta Tun Sri Lanang, disampaikan kepada para sasterawan yang dianggap layak menerimanya. Penganugerahan itu dimulai dari tahun 1993. Saya telah menerima Anugerah Tun Sri Lanang pada 1993; Masuri SN pada 1995; Abd Ghani Hamid pada 1997; Suratman Markasan pada 1999 dan diikuti lain-lain sasterawan yang diiktiraf.
 
 <div>
-Award-winning writer, editor and former lecturer <b>Muhammad Ariff Ahmad</b> is a prominent expert and activist of the Malay language and culture in Singapore. A founding member of the esteemed Malay literary club, Asas ‘50, he has been honoured at national and regional levels, receiving Singapore’s Cultural Medallion in 1987 and the Southeast Asian Write award in 1993.</div>
+Award-winning writer, editor and former lecturer <b>Muhammad Ariff Ahmad</b> is a prominent expert and activist of the Malay language and culture in Singapore. A founding member of the esteemed Malay literary club, Asas ‘50, he has been honoured at national and regional levels, receiving Singapore’s Cultural Medallion in 1987 and the Southeast Asian Write award in 1993. </div>
+
+
+#### **REFERENCES**
+     
+
+[Acara2 Bulan Bahasa siap utk Sabtu ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19820813-1.2.19). (1982, August 13). _Berita Harian_, p. 3. Retrieved from NewspaperSG.
+
+[_Bulan Bahasa ’88: Buku cenderamata: 13 Ogos–17 Sep ’88_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12925837). (1988). Singapura: Jawatankuasa Bulan Bahasa, Jawatankuasa Bahasa Melayu Singapura. (Call no.: RSING 499.28 BUL)
+
+[_Bulan Bahasa '90: 2-23 Mac '90, Singapura: Buku cenderamata_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12984734). (1990). Singapura: Jawatankuasa Bulan Bahasa. (Call no.: RCLOS 499.28 BUL)
+
+[_Bulan Bahasa '92 Singapura: 1-29 Februari 1992: \[buku cenderamata\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13065714). (1992). Singapura: Jawatankuasa Bulan Bahasa. (Call no.: RSING 499.28 BUL)
+
+[_Chenderamata Bulan Bahasa Kebangsaan, 23hb. April - 25hb Mei, 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5831021). (1965). Singapura: Dewan Bahasa dan Kebudayaan Kebangsaan. (Call no.: RCLOS 499.28 CHE)
+
+[_Kongress Bahasa Kebangsaan Singapura: Kertaskerja_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5831022). (1966). Singapura: \[Lembaga Tetap Kongress\]. (Call no.: RCLOS 499.28 KON)
+
+Mohd Raman Daud. (1988, July 24). [Bulan Bahasa: Mengisi makna ‘bahasa menunjukkan bangsa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19880724-1.2.15.5). _Berita Harian_, p. 4. Retrieved from NewspaperSG.
+
+Singapore. Ministry of Culture. Jawatankuasa Besar. (1965). [_Chenderamata Bulan Bahasa Kebangsaan, 12hb Nobember -11hb Disember, 1965 = Souvenir programme: National Language Month, 12th November - 11th December, 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4288917). Singapura: Dewan Bahasa dan Kebudayaan Kebangsaan. (Call no.: RSING 499.23 SIN)
+
+#### **NOTES**
+
+ [^1]: _Bahasa Ibunda_ ialah Bahasa yang dituturkn pelbgai etnik rakyat – Melayu: Mandarin, Tamil dsb.
+
+[^2]: Sekarang berubah menjadi MABBIM apabila Negari Brunei Darussalm menganggotai majlis itu.
+
+[^3]: Rumusan mengenai pengajaran kesuasteraan Melayu di kelas-kelas menengah – kemudian diteruskan ke Sekolah Menengah Sang Nila Utama dan Tun Sri Lanang sehingga 1979 apabila pelajaran sastera tidak lagi diajarkan melalui pelajaran Bahasa Ibunda semenjak 1979.
+
+[^4]: MENDAKI ialah Majlis Pendidikan Anah-Anak Islam.
+
+[^5]: Pelajar Bahasa ibunda Melayu di sekolah –sekolah sudah mula dilatih menggunakan sebutan baku semenjak tahun 1988.
+
+
+
+
+
