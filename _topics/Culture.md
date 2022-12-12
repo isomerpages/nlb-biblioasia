@@ -3,6 +3,14 @@ title: Culture
 permalink: /topics/culture/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">The Origin Stories of Keramat Kusu</a>
+
+Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
+
+<img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">The Divine Lance: Thaipusam and Murugan Worship in Singapore</a>
 
 Thaipusam speaks of a migratory community that carries its deep-rooted cultural tradition wherever its people go.
