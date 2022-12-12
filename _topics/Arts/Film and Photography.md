@@ -4,6 +4,13 @@ permalink: /topics/film-photography/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
+The Asian Film Archive has been restoring old classics since 2014.
+
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png">  
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 
