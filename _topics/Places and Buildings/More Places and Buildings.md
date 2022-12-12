@@ -11,7 +11,7 @@ The story of how Johor ended up at the Chicago World’s Fair is an unexpected t
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a>
-Chinese bookstore Union Book has seen many changes over the last seven decades.
+Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. 
  <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
