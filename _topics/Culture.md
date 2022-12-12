@@ -5,6 +5,7 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a>
 Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
+
 <img src="images/Vol%2018%20Issue%203/Theemithi/1_cover.png">
 <hr>
 
