@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2012:
     output: true
     order:
+      - "In the Family: Family History Resources in the National Library.md"
       - Saya dan Bulan Bahasa.md
       - Director's Column.md
       - "Through His Eyes: Remembering Old Singapore Through the Poems of Edwin
