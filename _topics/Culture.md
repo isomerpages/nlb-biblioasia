@@ -10,6 +10,10 @@ Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th 
 <img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/stone-tools-singapore/">Singapore's Stone Tools</a>
+
+Stone tools have been found in and around Singapore since the late 19th century. Much about them remains a mystery.
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">The Divine Lance: Thaipusam and Murugan Worship in Singapore</a>
 
