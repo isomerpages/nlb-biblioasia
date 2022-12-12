@@ -7,6 +7,9 @@ description: Award-winning author and Malay language expert Muhammad Ariff Ahmad
 ---
 #### Saya diminta menulis tentang memori saya mengenai pelibatan saya dalam kegiatan dan perayaan Bulan Bahasa di Singapura. Sepanjang ingatan saya, dengan nama Bulan Bahasa, kegiatan dan perayaan melestari dan menggunakan bahasa itu di Singapura telah dimulai semenjak tahun 1959. Hanya nama bahasa itu yang berubah-ubah sesuai dengan rasa, selesa dan kuasa yang selari dengan fenomena hidup di Singapura pada masa itu: 1959 – 1966 disebut bahasa Kebangsaan; 1966 – kini disebut bahasa Kedua; 1982 – kini disebut semula bahasa Melayu, atau bahasa ibunda.[^1] Dalam tulisan ini akan saya cuba sedapat-dapatnya menyatakan pengalaman dan keterlibatan saya dalam kegiatan dan perayaan bulan-bulan bahasa itu.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Bahasa_1.jpg">
+ <div style="background-color: white;">Muka surat seberang: Muhammad Ariff Ahmad, 1959. <i>Courtesy of Muhammad Ariff Ahmad.</i></div>
+
 Award-winning author and Malay language expert, Mr Muhammad Ariff Ahmad reminisces about his experience and involvement in the activities of the Malay Language Month since 1959. Inaugurated as the National Language Month, the campaign to promote the Malay language was initially targeted at the non-Malays. With the adoption of the bilingual education policy in 1966, Malay was taught as a second language in Singapore schools with the objective of preserving the culture and traditions of the Malay ethnic group. By the 1980s, the community leaders found it necessary to encourage Malays to use their mother tongue when interacting with one another.
 
 
@@ -27,7 +30,11 @@ Untuk menghidupkan bahasa kebangsaan itu, berpuluh-puluh ribu orang dewasa bukan
 
 Kira-kira 300 orang guru Melayu yang wujud pada masa itu, tidak cukup untuk mengajar di kelas-kelas bahasa Kebangsaan itu. LGPD telah mengambil banyak mata-mata (pegawai polis), kerani, juruhebah radio dan orang Melayu awam yang mampu, menjadi tenaga pengajar di kelas-kelas yang dianjurkannya.
 
-Teachers’ Training College (TTC) telah mengadakan mengadakan kelas bahasa Kebangsaan khas bagi guru-guru bukan Melayu hingga lulus ‘darjah dua’ (sukatan pelajaran pemerintah). Kepada guru-guru ini diajarkan bahasa Kebangsaan, kesusasteraan dan kebudayaan Melayu. Novelet saya *Sarah Pengarang Kecil* yang diterbitkan Pustaka Melayu pada 1957 telah dijadikan teks kesusasteraan bagi peperiksaan Darjah 1 LGPD.
+Teachers’ Training College (TTC) telah mengadakan mengadakan kelas bahasa Kebangsaan khas bagi guru-guru bukan Melayu hingga lulus ‘darjah dua’ (sukatan pelajaran pemerintah). Kepada guru-guru ini diajarkan bahasa Kebangsaan, kesusasteraan dan kebudayaan Melayu. Novelet saya *Sarah Pengarang Kecil*  yang diterbitkan Pustaka Melayu pada 1957 telah dijadikan teks kesusasteraan bagi peperiksaan Darjah 1 LGPD.
+
+
+<img style="width:60%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Pustaka%20Melayu_1.jpg">
+ <div style="background-color: white;">All rights reserved. Pustaka Melayu, 1960. </div>
 
 Saya telah ditugaskan mengajarkan kebudayaan di kelas darjah dua di TTC. Ketika mengajar bagaimana menyebut atau menulis nama orang Melayu, saya beritahu pelajar dikelas itu: orang Melayu menyebut atau menulis nama anaknya lengkap dengan bin atau bintinya, misalnya: Muhammad Ali bin Abu atau Salminah binti Kemat. 
  
@@ -73,6 +80,9 @@ Menyediakan ruang dan memberi peluang sambil menggalakkan rakyat Singapura bertu
 
 Bekerjasama dengan LTK Singapura, Kementerian Kebudayaan telah menganjurkan Minggu Bahasa Kebangsaan dan Bulan Bahasa Kebangsaan dalam tahun 1965.
 
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Yusof%20Ishak_1.jpg">
+ <div style="background-color: white;">Yang Di-Pertuan Negara Yusof Ishak dan Menteri Hal Ehwal Luar Negara S Rajaratnam semasa pelancaran Bulan Bahasa Kebangsaan di Dewan Peringatan Victoria, 1965. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
 Peristiwa Minggu Bahasa Kebangsaan diadakan pada Mei 1965 (semasa Singapura masih dalam Malaysia) dan peristiwa Bulan Bahasa Kebangsaan disempurnakan sepanjang September tahun itu (ketika Singapura baru keluar dari Malaysia).
 
 Kedua-dua peristiwa bahasa itu telah diselenggarakan LTK dengan sokongan dan bantuan Kementerian Kebudayaan. Kementerian Kebudayaan memberikan kemudahan-kemudahan kepada penggiatpenggiat melaksanakan acara; manakala LTK menyelaraskan acara-acara Minggu Bahasa dan Bulan Bahasa Kebangsaan itu.
@@ -110,7 +120,7 @@ Kongres telah membincangkan juga tentang perkembangan bahasa dan sastera Melayu 
 
 Saya telah mengemukakan kertas kerja mengenai pengajaran kesusasteraan di kelas kelas menengah Melayu (yang ditumpangkan di 10 buah sekolah Menengah Inggeris).[^3]
 
-#### **1997**
+#### **1977**
 
 Kementerian Pelajaran Singapura telah mengarahkan supaya pengajaran bahasa ibunda Melayu di sekolah-sekolah Singapura, menggunakan Ejaan Rumi Baru (ejaan baku) kaedah Malaysia yang ditetapkan MABBIM mulai awal semester persekolahan tahun 1977 setelah 5 tahun mantap dipakai di Malaysia.
 
@@ -146,7 +156,10 @@ Tugas Jawatankuasa Penyelaras Ejaan telah diperluas hingga mencakup bidang bahas
 
 #### **Bulan Bahasa Melayu 1988 dan Seterusnya**
 
-Menurut urutannya, Bulan Bahasa Melayu yang dilaksanakan pada kali ini, sebenarnya, ialah perayaan Bulan Bahasa Melayu yang kedua. Namun, oleh kerana perayaan itu diselenggarakan JBMS yang dipengerusikan Setiausaha Parlimen Kanan Kementerian Pelajaran (sekarang: Pendidikan) Haji Sidek Saniff; dan akan menjadi projek berterusan yang akan diselenggarakan tiap dua tahun sekali, maka Bulan Bahasa MElayu Singapura (BBMS) 1988 itu ditandai dengan nama BBMS pertama.
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Goh%20Chok%20Tong_1.jpg">
+ <div style="background-color: white;">Timbalan Perdana Menteri Encik Goh Chok Tong semasa pelancaran Bulan Bahasa 1988 di auditorium PUB. <i>MICA Collection, courtesy of National Archives of Singapore.</i></div>
+
+Menurut urutannya, Bulan Bahasa Melayu yang dilaksanakan pada kali ini, sebenarnya, ialah perayaan Bulan Bahasa Melayu yang kedua. Namun, oleh kerana perayaan itu diselenggarakan JBMS yang dipengerusikan Setiausaha Parlimen Kanan Kementerian Pelajaran (sekarang: Pendidikan) Haji Sidek Saniff; dan akan menjadi projek berterusan yang akan diselenggarakan tiap dua tahun sekali, maka Bulan Bahasa Melayu Singapura (BBMS) 1988 itu ditandai dengan nama BBMS pertama.
 
 8 Julai 1988, saya tulis di kolum “bahasa jiwa bangsa” *Berita Harian*:
 
@@ -162,6 +175,10 @@ BBMS 1988 itu telah diisi dengan majlismajlis ceramah; dialog mengenai ilmu baha
 
 BBMS 1990 dilaksanakan bersekali dengan Bulan Budaya Melayu. Dalam rencana menyambut 25 tahun Kemerdekaan Singapura, selaras dengan cita-cita *bahasa menjunjung budaya*, JBMS bekerjasama dengan Majlis Pusat melaksanakan bulan bahasa dan bulan budaya, dengan JBMS menyelenggarakan bulan bahasa dan Majlis Pusat menyelenggarakan bulan budaya.
 
+
+<img style="width:50%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/88_1.jpg">
+ <div style="background-color: white;"> <i>Abdul Ghani Hamid Donor Collection, National Library Board.</i> All rights reserved. Jawatankuasa Bulan Bahasa, Jawatankuasa Bahasa Melayu Singapura, 1988.</div>
+
 BBMS 1990 mula memperkenalkan sebutan baku bahasa Melayu (menyebut kekata sebagaimana dieja) menerusi majlis-majlis dialog dan ceramahnya. Usaha Jawatankuasa Bahasa Melayu semakin fokus kepada sebutan baku.
 
 Memandangkan tugas Jawatankuasa Bahasa itu semakin luas, dalam beberapa mesyuaratnya telah saya sarankan supaya nama JBMS dipinda menjadi Majlis Bahasa Melayu Singapura (MBMS).
@@ -171,6 +188,10 @@ BBMS 1992 telah dilaksanakan dengan tema ‘Ke Arah Penyempurnaan Bahasa Melayu 
 Dalam Simposium Sebutan Baku yang dianjurkan JBMS pada November 1992, nama Majlis Bahasa Melayu Singapura diisytihar dan dirasmikan menggantikan nama JBMS. Pada tahun itu, Majlis Bahasa Melayu telah menganjurkan seminar besar-besaran mengenai sebutan baku. Pakar-pakar sebutan baku dari Malaysia telah diundang memimpin bengkel sebutan baku bagi guru-guru bahasa Melayu di Singapura.[^5]
 
 MBMS telah merubah musiman bulan bahasa. Kini dilaksanakan pada tiap tahun genap bagi kegiatan-kegiatan bahasa, manakala tahun ganjil bagi kegiatan-kegiatan kesusasteraan. Pada tahun-tahun kesusasteraan disampaikan anugerah dan hadiah sastera.
+
+
+<img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Yaakob%20Ibrahim_1.jpg">
+ <div style="background-color: white;">Menteri Penerangan, Perhubungan dan Kesenian & Menteri Bertanggungjawab Bagi Ehwal Masyarakat Islam, Dr Yaacob Ibrahim di pelancaran Bulan Bahasa 2012 di Bangunan Perpustakaan Negara. <i>Courtesy of Juffri Supaat.</i></div>
 
 Dua anugerah, Anugerah Tun Seri Lanang dan Anumerta Tun Sri Lanang, disampaikan kepada para sasterawan yang dianggap layak menerimanya. Penganugerahan itu dimulai dari tahun 1993. Saya telah menerima Anugerah Tun Sri Lanang pada 1993; Masuri SN pada 1995; Abd Ghani Hamid pada 1997; Suratman Markasan pada 1999 dan diikuti lain-lain sasterawan yang diiktiraf.
 
@@ -208,8 +229,3 @@ Singapore. Ministry of Culture. Jawatankuasa Besar. (1965). [_Chenderamata Bulan
 [^4]: MENDAKI ialah Majlis Pendidikan Anah-Anak Islam.
 
 [^5]: Pelajar Bahasa ibunda Melayu di sekolah –sekolah sudah mula dilatih menggunakan sebutan baku semenjak tahun 1988.
-
-
-
-
-
