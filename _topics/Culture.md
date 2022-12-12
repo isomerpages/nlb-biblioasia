@@ -1,8 +1,14 @@
 ---
 title: Culture
-permalink: /topics/culture
+permalink: /topics/culture/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a>
+Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
+<img src="images/Vol%2018%20Issue%203/Theemithi/1_cover.png">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>
 <p>These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p> 
 <div style="background-image:url('https://biblioasia.nlb.gov.sg/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png'); width:100%; height:450px; background-position:top;">&nbsp;</div>
