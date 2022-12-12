@@ -10,11 +10,6 @@ While the Monetary Authority of Singapore was established in 1971, it only becam
 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a>
-Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. 
-<hr>
-
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-singapore-airlines">A Great Way to Fly: The Singapore Airlines Story</a>
 Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences.
 
