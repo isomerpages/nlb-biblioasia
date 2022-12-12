@@ -51,7 +51,7 @@ The National Library has several reference publications that provide pointers on
 The internet can be a bountiful resource for the family historian. Books such as Marelli’s *@ home with your ancestors.com* (2007) and *Family history on the net* (2007) offer useful genealogy related links and websites.
 
 
-A popular first-stop for genealogy research on the web is FamilySearch,14 one of the largest genealogy services in the world, with millions of family history records available free online. FamilySearch is a service provided by The Church of Jesus Christ of Latter-day Saints. They also run over 4,500 family history centres in 70 countries including a chapter on Singapore, which may be worth a visit. Unfortunately much of the rich family history found on the net is mainly for nonAsians. However, there are some websites that serve the local community. One such site is the portal of the National Archives of Singapore at <a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>. </div>It is a gateway to the records, photographs, maps and private collections of the archives in Singapore. To get the most out of its extensive records, a visit to the National Archives is a definite must as a number of its records are not available online in full-text. Another key organisation is the newly formed Genealogy Society Singapore15 which has helped a number of Singaporeans to trace their roots all the way back to Xiamen and Hainan.
+A popular first-stop for genealogy research on the web is FamilySearch,14 one of the largest genealogy services in the world, with millions of family history records available free online. FamilySearch is a service provided by The Church of Jesus Christ of Latter-day Saints. They also run over 4,500 family history centres in 70 countries including a chapter on Singapore, which may be worth a visit. Unfortunately much of the rich family history found on the net is mainly for nonAsians. However, there are some websites that serve the local community. One such site is the portal of the National Archives of Singapore at <a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>. It is a gateway to the records, photographs, maps and private collections of the archives in Singapore. To get the most out of its extensive records, a visit to the National Archives is a definite must as a number of its records are not available online in full-text. Another key organisation is the newly formed Genealogy Society Singapore15 which has helped a number of Singaporeans to trace their roots all the way back to Xiamen and Hainan.
 
 
 #### **Ghosts in the Attic**
@@ -74,8 +74,13 @@ The Shepherdson story is an example of family history coming full-circle, where 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
-<b>Bonny Tan</b> is a Senior Librarian with the National Library Heritage division. She is the compiler of <i> A Baba bibliography</i> (2007) and <i> An orientalist’s treasure trove of Malaya and beyond: Catalogue of Gibson-Hill Collection at the National Library Singapore</i> (2008) and is a regular contributor to<i> BiblioAsia</i> and Singapore Infopedia, NLB’s online encyclopaedia on Singapore.</div>
+<b>Bonny Tan</b> is a Senior Librarian with the National Library Heritage division. She is the compiler of <i> A Baba bibliography</i> (2007) and <i> An orientalist’s treasure trove of Malaya and beyond: Catalogue of Gibson-Hill Collection at the National Library Singapore</i> (2008) and is a regular contributor to<i> BiblioAsia</i> and Singapore Infopedia, NLB’s online encyclopaedia on Singapore.
+	
+	
+	
+	
 
 
 
 
+</div>
