@@ -11,6 +11,13 @@ While best known as a giant in the movie business in Malaya, Loke Wan Tho was al
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">LLoke Wan Tho: A Photo Essay</a>
+Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter of local sports, a photographer and an ornithologist.
+
+<img style="width:60%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg">  
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
 
 The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas, marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
