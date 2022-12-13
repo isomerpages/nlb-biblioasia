@@ -4,6 +4,14 @@ permalink: /topics/Places-and-Buildings/more/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">"Book City" in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a>
+
+Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
+
+<img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg">  
+	<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a>
 The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 
@@ -11,7 +19,7 @@ The story of how Johor ended up at the Chicago World’s Fair is an unexpected t
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a>
-Chinese bookstore Union Book has seen many changes over the last seven decades.
+Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. 
  <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>

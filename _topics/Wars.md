@@ -3,6 +3,11 @@ title: War
 permalink: /topics/war/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/preparing-war-singapore/">In Their Own Voices: Preparing for War in Singapore</a>
+
+Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a <i>Rōmusha</i></a>
 During World War II, forced civilian labourers known as <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
