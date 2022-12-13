@@ -2,9 +2,6 @@ collections:
   oct-to-dec-2012:
     output: true
     order:
-      - Uniquely Singaporean Memories.md
-      - "iremembermagazines: Our Love Affair With Magazines.md"
-      - NLB Saudi Arabia Cultural Mission Collaboration.md
       - Director's Column.md
       - "Through His Eyes: Remembering Old Singapore Through the Poems of Edwin
         Thumboo.md"
@@ -14,3 +11,6 @@ collections:
       - Saya dan Bulan Bahasa.md
       - "In the Family: Family History Resources in the National Library.md"
       - 新加坡民信业的起源、运作与历史.md
+      - NLB Saudi Arabia Cultural Mission Collaboration.md
+      - "iremembermagazines: Our Love Affair With Magazines.md"
+      - Uniquely Singaporean Memories.md
