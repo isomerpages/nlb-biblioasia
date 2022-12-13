@@ -8,7 +8,7 @@ description: Nearly 200 years after he set foot on Singapore to establish a
 ---
 #### Nearly 200 years after he set foot on Singapore to establish a trading post for the British East India Company, Sir Thomas Stamford Bingley Raffles (1781–1826) continues to fascinate and intrigue us. How else can you explain our penchant for naming all manners of things after him?
 
-The world’s largest flower, the *Rafflesia arnoldii*, is named after him, as is the hotel that was once the world’s tallest, Swissotel The Stamford, and the one which is Singapore’s oldest. And then, there is Ra√es Tailor, and Raffles Photographer, Stamford Canal, Raffles Boulevard, and the whole family of Raffles Schools. What about the more than a dozen biographies of the man, not to mention a forth - coming version by noted British biographer, Victoria Glendinning.
+The world’s largest flower, the *Rafflesia arnoldii*, is named after him, as is the hotel that was once the world’s tallest, Swissotel The Stamford, and the one which is Singapore’s oldest. And then, there is Raffles Tailor, and Raffles Photographer, Stamford Canal, Raffles Boulevard, and the whole family of Raffles Schools. What about the more than a dozen biographies of the man, not to mention a forth - coming version by noted British biographer, Victoria Glendinning.
 
 Even if the thousands of students force fed a National Education diet of Raffles are probably quite jaded by the mention of his name, Raffles has worn well. He has not, like some of our more modern heroes, faded like the old history books that detail his story and deeds. The same students who have not heard of Toh Chin Chye still remember Raffles from their early history lessons. Come August this year, a new exhibition at the National Library will afford us another opportunity to revisit the life and exploits of this remarkable man.
 
@@ -24,7 +24,7 @@ For a decade, Raffles enjoyed a career as a diligent, if unexceptional, cog in t
 
 In 1807, Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto and better known as Lord Minto, was appointed Governor-General of India. In Penang, Raffles and Olivia had befriended Dr John Leyden, the polyglot orientalist and naturalist who was greatly admired by Minto; it was Leyden who drew Minto’s attention to Raffles. Between 1807 and 1810, Raffles had made two trips to Melaka which had been placed under British custody by the Dutch, who feared that the French might seize the colony. Based on the intelligence he gathered there, Raffles wrote a long memorandum on how to protect British interests in the region. This he submitted to his superior, the Governor, who did nothing.
 
-Minto was anxious that the French—who now occupied Java—might have further designs in the region and this might thwart British interests. Leyden drew Minto’s attention to Raffles’ lengthy memorandum. Deeply impressed by Raffles’ memorandum, he told Leyden that he would be pleased to receive more information of this nature from Ra√es. In June 1810, Raffles visited Minto in Calcutta and was appointed the Governor-General’s Agent in the Malay States. This meant that Raffles would report directly to Minto and bypass his superiors. Not unnaturally, Raffles’ superiors grew suspicious and envious of him.
+Minto was anxious that the French—who now occupied Java—might have further designs in the region and this might thwart British interests. Leyden drew Minto’s attention to Raffles’ lengthy memorandum. Deeply impressed by Raffles’ memorandum, he told Leyden that he would be pleased to receive more information of this nature from Raffles. In June 1810, Raffles visited Minto in Calcutta and was appointed the Governor-General’s Agent in the Malay States. This meant that Raffles would report directly to Minto and bypass his superiors. Not unnaturally, Raffles’ superiors grew suspicious and envious of him.
 
 By January 1811, Minto decided that he would personally lead a British force to invade Java and get rid of the French. Sailing along with him in the June 1811 expedition were Raffles and Leyden. The conquest of Java was swift and Raffles was appointed Lieutenant Governor of Java, a post he held till 1816, when Java was returned to the Dutch at the conclusion of the Napoleonic Wars.
 
@@ -44,7 +44,7 @@ In the ensuing days, Bannerman took all steps to delay Raffles and prevent him f
 
 On 18 January, Raffles managed to escape the clutches of Bannerman when the latter told him that his mission to Aceh had been delayed. Ever the opportunist, Raffles —who had his ships prepared for this purpose—departed Penang immediately in the dead of night, informing Bannerman that since the mission to Aceh had been delayed, he would take the opportunity to catch up with Farquhar and his surveyors. Raffles, sailing on the Indiana, was not to catch up with Farquhar till 27 January 1819 at Carimon. That evening, agreeing to Captain Daniel Ross’ suggestion to next survey the island of Singapore all 7 ships in the flotilla sailed for Singapore.
 
-The rest of the story is well-known and does not bear repeating in great detail. Having ascertained from Temenggong Abdul Rahman that the Dutch had not yet established a settlement on the island, Ra√es proceeded to sign a preliminary agreement with the Temenggong to allow the British to establish a trading ‘factory’. Capitalising on a succession dispute over the throne of the Johor Sultanate between Tunku Hussein (Tunku Long) and his younger brother Tunku Abdul Rahman, Ra√es sought out Tunku Hussein, recognised him as sovereign and proceeded to sign an Agreement of Friendship and Cooperation that confirmed his earlier agreement with the Temenggong. Ra√es appointed Farquhar Resident and Commandant of Singapore and left the island for Penang on 7 February.
+The rest of the story is well-known and does not bear repeating in great detail. Having ascertained from Temenggong Abdul Rahman that the Dutch had not yet established a settlement on the island, Raffles proceeded to sign a preliminary agreement with the Temenggong to allow the British to establish a trading ‘factory’. Capitalising on a succession dispute over the throne of the Johor Sultanate between Tunku Hussein (Tunku Long) and his younger brother Tunku Abdul Rahman, Raffles sought out Tunku Hussein, recognised him as sovereign and proceeded to sign an Agreement of Friendship and Cooperation that confirmed his earlier agreement with the Temenggong. Raffles appointed Farquhar Resident and Commandant of Singapore and left the island for Penang on 7 February.
 
 Naturally, Raffles’ unilateral action infuriated Bannerman, who ordered him to get Farquhar and his troops off the island. The Dutch protested, arguing that they had a right to the island since it was part of the Johor-Riau-Lingga empire and they had an agreement with Sultan Abdul Rahman. The competing claims on the island were finally resolved with the Anglo-Dutch Treaty of 1824, under which the Dutch surrendered all claims to Singapore and handed the colony of Melaka to Britain in exchange for the ports of Batavia and Bencoolen.
 
@@ -62,6 +62,15 @@ Also on display is a copy of what is believed to be the earliest map of Singapor
 
 Raffles visited Singapore only twice more before he returned to London in August 1824. By this time he was in poor health but he continued to be active in his intellectual pursuits, founding the Zoological Society of London in 1825 as well as the London Zoo. He died at Highwood House in Mill Hill in North London a day before his 45th birthday, on 5 July 1826.
 
+
+<div>
+<b>Dr Kevin Y L Tan</b> is curator of the exhibition, <i>Letters from The Founder: Raffles’ Letters from the Bute Collection & the National Library,</i> which will open at Level 10, National Library, on 28 August 2012.
+	
+	
+	
+	
+	
+	
 
 
 
