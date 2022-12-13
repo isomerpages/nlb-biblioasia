@@ -39,7 +39,7 @@ Among those he met in London was George Canning, head of the Board of Control an
 
 In 1818, as Raffles was due to return east to assume his post as Lieutenant-Governor of Bencoolen (Bengkulu) the Court of Directors of the East India Company give him certain general advisory duties. He was tasked with reporting all happenings in the Eastern Archipelago and to ‘check Dutch influence extending beyond its true bounds’. It was in respect of these new duties that Raffles saw fit to write to Lord Moira, Marquess of Hastings, who was now Governor-General of India. The earliest letter from the Bute Archives stem from this period. Raffles urged Hastings to consider ways to stop the Dutch from reimposing their damaging trade restrictions, and once more pushed for the establishment of a new settlement in ‘the eastward’.
 
-<img style="width:50%;" src="images/Vol%208%20issue%202/Lord%20Minto.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Lord%20Minto.jpg">
  <div style="background-color: white;">Lord Moira, Marquess of Hastings. <i>Roger Griffith & R. J. Beevor, Hastings of Hastings, London, 1829.</i></div>
 
 #### **Anxious Days and the Founding of Singapore**
