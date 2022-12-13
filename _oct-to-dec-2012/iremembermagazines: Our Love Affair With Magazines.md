@@ -8,8 +8,6 @@ description: In this digital age, the love for print magazines still thrives as
 ---
 #### In this digital age, the love for print magazines still thrives as a reading format to delight readers who browse, borrow, or even buy copies of their own. Magazines appeal to readers through visuals and text, offering many hours of reading pleasure.
 
-![](/images/Vol%208%20issue%203/Iremembersg/Her%20World.jpg)
-
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Iremembersg/Her%20World.jpg">
  <div style="background-color: white;">Debut issue of <i>Her World,</i> the first locally produced woman’s magazine for Singapore readers. <i>All rights reserved. Singapore Press Holdings, 1960.</i></div>
 
@@ -42,19 +40,8 @@ The magazines on display in the four official languages are truly gems of Singap
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Legal Deposit</b>is a national library function practised in many countries to preserve a nation’s published heritage for posterity. This statutory obligation is currently mandated under the National Library Board Act – Chapter 197 No. 5 of 1995 at Part II, Section 10. It requires all publishers (individuals and organisations, commercial and non-commercial) to deposit two copies of publications that are produced and released in Singapore for sale or public distribution. Through Legal Deposit, Singapore-published materials in all formats are collected from the past, present to the future. More information is available at <a href="https://www.nlb.gov.sg/depositapp/">https://www.nlb.gov.sg/depositapp/</a>. 
 </div>
 
-<b> Acknowledgements</b> <br><br> The iremembermagazines: our love affair with magazines exhibition is generously sponsored by Singapore Press Holdings (SPH), and was launched on 10 September 2012 at the Central Public Library. Copyright to the magazine covers is owned by the respective publishing companies.
+<b> Acknowledgements</b> <br><br> <i>The iremembermagazines: our love affair with magazines exhibition is generously sponsored by Singapore Press Holdings (SPH), and was launched on 10 September 2012 at the Central Public Library. Copyright to the magazine covers is owned by the respective publishing companies.</i>
 
 
 <div>
 <b>Barbara Quek</b> is a Senior Librarian from the National Library Heritage Division. She worked in the SAFTI Military Institute Library from 1995 to 2006. Prior to that, she was an assistant editor for <i>Pointer</i> journal, editor for <i>Pioneer</i> magazine in the Ministry of Defence. She co-authored the research paper “The value of print literacy in the education of young children in Singapore” which was published in <i>The international journal of the book,</i> Volume 1 (2003).
-	
-
-	
-	
-	
-
-
-
-
-
-
