@@ -12,6 +12,9 @@ description: The town of Singapore and its architecture had always attracted
 ---
 #### The town of Singapore and its architecture had always attracted attention. Even in the earliest days of the Settlement, visitors regularly commented on the fine buildings along the Esplanade, the neat and orderly streets and tree-lined thoroughfares, and the grand colonial-style residences of the European and Asian elites. From the outset, the progress of the town and its architectural landmarks were seen, quite rightly, as a reflection of the colony's prosperity.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Singapore%20waterfront/singapore%20waterfront.jpg">
+ <div style="background-color: white;">Singapore waterfront c.1930.<i> National Archives of Singapore.</i></div>
+
 This is just as true for today’s Singapore, where the modern city-state is metonymically encapsulated by its cutting-edge architecture, designed by some of the world’s leading architects—I. M. Pei, Kenzo Tange, Kisho Kurkawa, Kevin Roche, Peter Prahn and Zaha Hadid, to name just a few. Inevitably, it is the cluster of tall buildings that constitute the Central Business District—Singapore’s mini-Manhattan—that garners the most attention. There are three favoured viewpoints for photographing this scene. The first looks across the river from the north bank—either from somewhere between the two Parliament Houses, old and new, or else from the top of the Swissotel The Stamford, which offers a splendid bird’s eye view of the metropolis. The second perspective is from a vantage point situated somewhere between the Esplanade Theatres and the ECP Bridge, while the third is from the front of the Marina Bay Sands complex, looking across the waters of Marina Bay towards Collyer Quay. A recent addition to the latter aspect is a view of the city from the skyline swimming pool on top of the casino—an image featuring a botak (bald) swimmer in goggles making waves in the foreground became an instant icon for modern Singapore when it appeared in the press in 2010.
 
 It is this vision of the city as a modern metropolis rising from the waves—or at least over the rim of an infinity pool—that I wish to consider in this essay. Not today’s image, but an earlier version from a period when Singapore first began to flex its financial muscles and emerge as a major player in the global marketplace shortly after the end of the First World War.
@@ -84,9 +87,3 @@ The comparisons with Liverpool are especially revealing because this was a time 
 
 <div>
 <b>Dr Julian Davison</b> was a Lee Kong Chian Research Fellow from 2009 to 2010. He obtained his PhD in Anthropology from the School of Oriental and African Studies, University of London. He is the author of <i>Black and white: The Singapore house, 1898—1941</i> (2006) and <i>Singapore Shophouse</i> (2010).</div>
-
-
-
-
-
-
