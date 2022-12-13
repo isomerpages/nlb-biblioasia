@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2012:
     output: true
     order:
+      - Uniquely Singaporean Memories.md
       - "iremembermagazines: Our Love Affair With Magazines.md"
       - NLB Saudi Arabia Cultural Mission Collaboration.md
       - Director's Column.md
