@@ -8,7 +8,7 @@ description: The Saudi Arabia Cultural Mission in Singapore and the National
 ---
 #### The Saudi Arabia Cultural Mission in Singapore and the National Library Board signed a Memorandum of Understanding in September 2012 to provide a framework for closer collaboration between Saudi Arabia and Singapore.
 
-<img style="width:80%;" src="images/Vol%208%20issue%203/MICA%202009.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%203/MICA%202009.jpg">
  <div style="background-color: white;">All rights reserved. Ministry of Culture and Information, 2009.</div>
 
 The Saudi Arabia Cultural Mission in Singapore was open in 2008 under the umbrella of the Royal Embassy of Saudi Arabia in Singapore to strengthen the friendly relations between Saudi Arabia and Singapore. Since its establishment, the Cultural Mission has organised more than 10 cultural visits between the two countries and supported numerous cultural and educational events by Singapore. The Cultural Mission has also facilitated joint scientific research between the universities of both countries.
@@ -35,14 +35,11 @@ The Saudi Arabia collection covers the following genres:
 
 <br><br>2 Adult fiction<br><br> The collection comprises novels which include the best in literature and fantasy.
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Folklore.jpg">
- <div style="background-color: white;">All rights reserved. Abu Hasan Publishing and Distribution House, 1995. </div>
-<br><br> 3 Autobiography and biography <br><br>These include new and bestselling works of Saudi leaders and prominent figures.
+ <div style="background-color: white;">All rights reserved. Abu Hasan Publishing and Distribution House, 1995. </div><br><br> 3 Autobiography and biography <br><br>These include new and bestselling works of Saudi leaders and prominent figures.
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/king.jpg">
- <div style="background-color: white;">All rights reserved. Ministry of Culture and Information, 2007.</div>
-<br><br> 4 Arts, culture and photography<br><br>This category consists of books on the arts, history and culture of Saudi Arabia, as well as photographic works on Saudi Arabia. 
+ <div style="background-color: white;">All rights reserved. Ministry of Culture and Information, 2007.</div><br><br> 4 Arts, culture and photography<br><br>This category consists of books on the arts, history and culture of Saudi Arabia, as well as photographic works on Saudi Arabia. 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/external.jpg">
- <div style="background-color: white;">All rights reserved. Ministry of Information and External Information, 2010.</div>
-<br><br>5 Academic journals<br><br>The journals cover topics on Science and Technology, Medicine, Political Science, Social Science, Education, Public Administration, Environment, Islam, History, Design and Architecture, Geography, Psychology, Economics, and Language & Literature.
+ <div style="background-color: white;">All rights reserved. Ministry of Information and External Information, 2010.</div><br><br>5 Academic journals<br><br>The journals cover topics on Science and Technology, Medicine, Political Science, Social Science, Education, Public Administration, Environment, Islam, History, Design and Architecture, Geography, Psychology, Economics, and Language & Literature.
 
 <i>This article is contributed by the Saudi Arabia Cultural Mission, Royal Embassy of Saudi Arabia, Singapore.</i>
