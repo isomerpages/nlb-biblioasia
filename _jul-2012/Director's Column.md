@@ -25,7 +25,3 @@ We hope you enjoy this issue of *BiblioAsia* Happy reading!
 
 <b>Ms Ngian Lek Choh</b><br>
 Director, National Library
-
-
-
-
