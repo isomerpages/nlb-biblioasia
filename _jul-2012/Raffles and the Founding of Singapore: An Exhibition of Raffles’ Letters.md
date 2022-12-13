@@ -50,7 +50,21 @@ Naturally, Raffles’ unilateral action infuriated Bannerman, who ordered him to
 
 #### **The Letters on Show**
 
-Exhibited at the National Library Singapore for the first time ever are 13 of 26 letters from the papers of Francis Edward Rawdon Hastings, the 1st Marquess of Hastings, who served as Governor-General of India from 1813 to 1823. These letters were written to Hastings (known at the time as Lord Moira) between April 1818 and October 1824. Of these, the most important ones were those written almost contemporaneously with Raffles’ efforts to establish a new settlement in the ‘eastward’
+Exhibited at the National Library Singapore for the first time ever are 13 of 26 letters from the papers of Francis Edward Rawdon Hastings, the 1st Marquess of Hastings, who served as Governor-General of India from 1813 to 1823. These letters were written to Hastings (known at the time as Lord Moira) between April 1818 and October 1824. Of these, the most important ones were those written almost contemporaneously with Raffles’ efforts to establish a new settlement in the 'eastward'.
+
+These letters are being exhibited through the generosity of John Colum Crichton Stuart, the Seventh Marquess of Bute. These letters were first brought to our attention by Dr John Bastin, the world’s leading Raffles scholar. The Hastings Papers were acquired by John Crichton-Stuart (1847–1900), Third Marquess of Bute, sometime in the late nineteenth century. The Third Marquess was an industrial magnate, antiquarian, scholar and architectural patron and grandson of the papers’ owner. His mother, Sophia Frederica Christina Rawdon-Hastings (1809– 1859) was the second daughter of Lord Moira, 1st Marquess of Hastings.
+
+Also on display is a copy of what is believed to be the earliest map of Singapore drawn after Raffles’ landing. Dated 1820, it is the result of the first survey of the island and contains details not seen in subsequent maps. This map has never been seen outside of the Bute Archives.
+
+
+#### **The End**
+
+
+Raffles visited Singapore only twice more before he returned to London in August 1824. By this time he was in poor health but he continued to be active in his intellectual pursuits, founding the Zoological Society of London in 1825 as well as the London Zoo. He died at Highwood House in Mill Hill in North London a day before his 45th birthday, on 5 July 1826.
+
+
+
+
 
 
 
