@@ -2,6 +2,8 @@ collections:
   jul-2012:
     output: true
     order:
+      - "On the Waterfront: The Making of Singapore’s First High rise Skyline,
+        1918–1928.md"
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
       - Director's Column.md
