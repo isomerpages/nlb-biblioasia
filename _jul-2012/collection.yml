@@ -2,4 +2,6 @@ collections:
   jul-2012:
     output: true
     order:
+      - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
+        Letters.md"
       - Director's Column.md
