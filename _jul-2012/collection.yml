@@ -2,10 +2,10 @@ collections:
   jul-2012:
     output: true
     order:
-      - "Sustaining City State Singapore: Exploiting Global Hinterlands, Leaving
-        Footprints Behind.md"
-      - "On the Waterfront: The Making of Singapore’s First High rise Skyline,
-        1918–1928.md"
+      - Director's Column.md
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
-      - Director's Column.md
+      - "On the Waterfront: The Making of Singapore’s First High rise Skyline,
+        1918–1928.md"
+      - "Sustaining City State Singapore: Exploiting Global Hinterlands, Leaving
+        Footprints Behind.md"
