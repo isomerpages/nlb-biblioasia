@@ -68,16 +68,14 @@ The continued preference for Classically informed buildings was not because the 
 
 It took close to three years for the Ocean Building to be completed, but the wait, it seems, was worth it. “An imposing pile,” proclaimed *The Straits Times* at the official opening on 24 March 1923, “that it is the handsomest building in town admits of no doubt.” It soon had its rivals, being followed, a year later, by the Union Building and a new Hongkong & Shanghai Bank, which replaced the old Gothic pile on the corner of Collyer Quay and Battery Road. Both these buildings were designed by Denis Santry of Messrs Swan & Maclaren, who had joined this most prestigious of architectural practices just after the end of the war. Santry had previously worked in South Africa, where he is recognised as the father of the South African Arts and Crafts Movement, but his Hongkong & Shanghai Bank was anything but Arts and Crafts in style. It was described at the time as being in the “English Renaissance” style— that is to say, Gordon’s “modern classic” style —and it was another corporate blockbuster.
 
-
-<img style="width:80%;" src="/images/Vol%208%20issue%202/Singapore%20waterfront/union%20building.jpg">
- <div style="background-color: white;">The Union Building and the Hong Kong & Shanghai Bank in 1911. <i>National Archives of Singapore.</i></div>
-
-
 The new bank building comprised a rusticated arcade at street level, surmounted by a grand colonnade of Ionic columns rising through three storeys to support an attic floor, the whole being surmounted by a rotunda and dome.13 In terms of the materials, too, this was a very lavish affair. For starters, there were four pairs of bronze entrance doors, each pair measuring 8 feet wide by 14 high, and weighing 3 tons, while the main banking hall had marble columns topped by brass capitals, as well as marble floors throughout—even the cashiers’ counters were marble. To add further to this magnificence, the space was lit from above by two domed lights, or lanterns, executed in stained glass, which, according to *The Straits Times*, created “a cathedral like effect”.14
 
 This was corporate power dressing taken to the extreme, the mercantile equivalent of ‘shock and awe’ tactics, intended to impress upon the Singapore public the Olympian stature of the Hongkong and Shanghai Banking Corporation in the world of Eastern finance. It was not the last word in ostentation on Singapore’s waterfront in the mid-1920s, however; that honour was reserved for the bank’s next-door neighbour, the Union Insurance Society of Canton.
 
 The Union Building was a one-and-a-quartermillion-dollar, seven-storey extravaganza, surmounted by a 60-foot tower, the top of which stood at 173 feet above street level. Although two storeys taller than its neighbour, the rusticated arcade on Collyer Quay matched that of the Hongkong & Shanghai Bank in scale and proportion, creating a sense of harmony at street level. The façade above was dominated by a majestic colonnade of Ionic columns, book-ended by tall panels rising through four storeys, with huge bronze medallions at the top, some 8 feet in diameter, bearing the coat of arms of the Society. A bold, dentilated cornice with a 7-foot projection—“a particularly ticklish piece of engineering work”, according to *The Straits Time*s15—completed the main façade, with a stepped-back attic storey above. The crowning glory, though, was undoubtedly the central, rotunda-like tower, surmounted by a stepped dome.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Singapore%20waterfront/union%20building.jpg">
+ <div style="background-color: white;">The Union Building and the Hong Kong & Shanghai Bank in 1911. <i>National Archives of Singapore.</i></div>
 
 Like its neighbour, it also had a pair of monumental bronze doors, measuring 15½ feet high and 8 feet wide, which opened onto a broad flight of stairs leading up to a 50-foot hall, lit from above by a glazed skylight. Huge doors—again cast in bronze— led to magnificent suites of offices on either side, with coffered ceilings 20 feet high.16
 
@@ -86,6 +84,8 @@ No expense was spared on the materials either. A feature article in *The Singapo
 …harmonious use of various coloured marbles for floors and walls on the ground floor will provide an effect of striking richness, unequalled in the country. The floor marbles will be Belgian black and dove, the skirting of the walls will be of Genoa green, the mouldings round the doors will be Swiss cippolino (striped green), while quartered panels will be of bresicated Sienna.17
 
 The final building to complete Singapore’s new-look waterfront in the 1920s was a new General Post Office, otherwise known as the Fullerton Building,18 which was erected on the site previously occupied by the old Post Office and the Exchange Building. The site was of course superb—“probably no structure in the East could have a more commanding site”19—and mindful of this, the Government decided to host an open competition to ensure that the location got the building it deserved.
+
+
 
 The competition was won by the Shanghai practice of Keys & Dowdeswell, with the eponymous partners, Major P. H. Keys, FRIBA, and Frederick Dowdeswell, ARIBA, moving to Singapore to start work on their commission in May 1920. Sketch plans and the principal elevations were displayed in the Legislative Council Chamber for a month, and approval had been given to go ahead with the working drawings, when it was suddenly decided that owing to the uncertain financial climate—this was the time of the 1920 US recession, which was accompanied by a corresponding crash in tin and rubber prices—the building should be postponed until the economy brightened.20
 
