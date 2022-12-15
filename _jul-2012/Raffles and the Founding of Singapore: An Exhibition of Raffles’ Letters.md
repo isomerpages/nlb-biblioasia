@@ -6,10 +6,10 @@ description: Nearly 200 years after he set foot on Singapore to establish a
   Raffles (1781–1826) continues to fascinate and intrigue us. How else can you
   explain our penchant for naming all manners of things after him?
 ---
-
 #### Nearly 200 years after he set foot on Singapore to establish a trading post for the British East India Company, Sir Thomas Stamford Bingley Raffles (1781–1826) continues to fascinate and intrigue us. How else can you explain our penchant for naming all manners of things after him?
 
-<img style="width:50%;" src="/images/Vol%208%20issue%202/statue%20Raffles.jpg">
+
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/Raffles%20Statue1.jpg">
  <div style="background-color: white;">Statue of Raffles by sculptor Thomas Woolner. <i>Courtesy of John Bastin.</i></div>
 
 The world’s largest flower, the *Rafflesia arnoldii*, is named after him, as is the hotel that was once the world’s tallest, Swissotel The Stamford, and the one which is Singapore’s oldest. And then, there is Raffles Tailor, and Raffles Photographer, Stamford Canal, Raffles Boulevard, and the whole family of Raffles Schools. What about the more than a dozen biographies of the man, not to mention a forth - coming version by noted British biographer, Victoria Glendinning.
@@ -40,7 +40,7 @@ Among those he met in London was George Canning, head of the Board of Control an
 
 In 1818, as Raffles was due to return east to assume his post as Lieutenant-Governor of Bencoolen (Bengkulu) the Court of Directors of the East India Company give him certain general advisory duties. He was tasked with reporting all happenings in the Eastern Archipelago and to ‘check Dutch influence extending beyond its true bounds’. It was in respect of these new duties that Raffles saw fit to write to Lord Moira, Marquess of Hastings, who was now Governor-General of India. The earliest letter from the Bute Archives stem from this period. Raffles urged Hastings to consider ways to stop the Dutch from reimposing their damaging trade restrictions, and once more pushed for the establishment of a new settlement in ‘the eastward’.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Lord%20Minto.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/Hastings1.jpg">
  <div style="background-color: white;">Lord Moira, Marquess of Hastings. <i>Roger Griffith & R. J. Beevor, Hastings of Hastings, London, 1829.</i></div>
 
 #### **Anxious Days and the Founding of Singapore**
@@ -48,6 +48,10 @@ In 1818, as Raffles was due to return east to assume his post as Lieutenant-Gove
 Hastings, now impressed with Raffles, invited him to ‘a conference’ in Calcutta. The two men met in September 1818 and Hastings signed a memorandum (most probably drafted by Raffles himself), giving Raffles leeway to act independently with respect to the establishment of a new settlement. However, he was not to tangle with the Dutch. Raffles then set sail for Penang, arriving on 29 December 1818 to meet with Governor John Alexander Bannerman, his immediate superior in the East. Though cordial, the meeting was tense. Bannerman was not keen on Raffles’ plans and was concerned that any new settlement would threaten the status of Penang.
 
 In the ensuing days, Bannerman took all steps to delay Raffles and prevent him from setting out on his mission to establish a new settlement. These were anxious days for Raffles for he knew that the Dutch were quickly taking steps to re-establish themselves in the region and to exercise suzerainty and control over the old Johor-Riau-Lingga empire, whose territory extended from Pahang to Bintan. To thwart Raffles, Bannerman appointed him envoy to Aceh to settle a royal succession dispute and hold him in Penang. In the meantime, Raffles had despatched Major William Farquhar, former Commandant and Resident of Melaka, to survey the islands at the tip of the Malay Peninsula and Johor Lama. These included the Carimon Islands (Karimun) and Singapore.
+
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/Farquhar1.jpg">
+ <div style="background-color: white;">Portrait of Major William Farquhar, c1830. Originally reproduced by permission of Mrs B. Atkinson.</div>
+
 
 On 18 January, Raffles managed to escape the clutches of Bannerman when the latter told him that his mission to Aceh had been delayed. Ever the opportunist, Raffles —who had his ships prepared for this purpose—departed Penang immediately in the dead of night, informing Bannerman that since the mission to Aceh had been delayed, he would take the opportunity to catch up with Farquhar and his surveyors. Raffles, sailing on the Indiana, was not to catch up with Farquhar till 27 January 1819 at Carimon. That evening, agreeing to Captain Daniel Ross’ suggestion to next survey the island of Singapore all 7 ships in the flotilla sailed for Singapore.
 
@@ -59,17 +63,18 @@ Naturally, Raffles’ unilateral action infuriated Bannerman, who ordered him to
 
 Exhibited at the National Library Singapore for the first time ever are 13 of 26 letters from the papers of Francis Edward Rawdon Hastings, the 1st Marquess of Hastings, who served as Governor-General of India from 1813 to 1823. These letters were written to Hastings (known at the time as Lord Moira) between April 1818 and October 1824. Of these, the most important ones were those written almost contemporaneously with Raffles’ efforts to establish a new settlement in the 'eastward'.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Letter_15%20Apr%201820.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/18200415%20Raffles%20to%20Lansdowne_040003497.jpg">
  <div style="background-color: white;">Extract of a letter dated 15 April 1820, from Raffles to Henry Petty-Fitzmaurice, the Third Marquess of Lansdowne. Raffles informs Lansdowne that there are now over 10,000 persons on the island and “no less than 173 sail of vessels of different descriptions”. <i>Courtesy of the National Library Board. All rights reserved.</i></div>
 
 These letters are being exhibited through the generosity of John Colum Crichton Stuart, the Seventh Marquess of Bute. These letters were first brought to our attention by Dr John Bastin, the world’s leading Raffles scholar. The Hastings Papers were acquired by John Crichton-Stuart (1847–1900), Third Marquess of Bute, sometime in the late nineteenth century. The Third Marquess was an industrial magnate, antiquarian, scholar and architectural patron and grandson of the papers’ owner. His mother, Sophia Frederica Christina Rawdon-Hastings (1809– 1859) was the second daughter of Lord Moira, 1st Marquess of Hastings.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Letter_20%20Jan%201823.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/18230120%20Raffles%20to%20Lansdowne_040003492.jpeg">
  <div style="background-color: white;">Extract of a letter from Raffles to Lansdowne, dated 20 January 1823, in which Raffles lists some of Singapore’s achievements to date, among these the drafting of regulations to govern the island. <i>Courtesy of the National Library Board. All rights reserved.</i></div>
 
 Also on display is a copy of what is believed to be the earliest map of Singapore drawn after Raffles’ landing. Dated 1820, it is the result of the first survey of the island and contains details not seen in subsequent maps. This map has never been seen outside of the Bute Archives.
 
-<img style="width:80%;" src="/images/Vol%208%20issue%202/survey%20map.jpg">
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Raffles/Ross'%20Survey%20of%20S'pore%20Harb1.jpg">
  <div style="background-color: white;">Captain Daniel Ross’s survey map of Singapore Harbour, believed to be the earliest map of Singapore. The map was engraved by John Batement and originally published by James Horsburgh in 1820.</div>
 
 #### **The End**
