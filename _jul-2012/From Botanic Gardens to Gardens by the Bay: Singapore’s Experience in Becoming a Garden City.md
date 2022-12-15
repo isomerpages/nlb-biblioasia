@@ -10,6 +10,9 @@ description: "Gardens by the Bay is Singapore’s spectacular new landmark. Tuck
 ---
 #### Gardens by the Bay is Singapore’s spectacular new landmark. Tucked in the heart of Marina Bay, Singapore’s new downtown, the 101ha garden is marked by two futuristic, cavernous, 38m-tall glass domes and 18 gigantic concrete-and-steel vertical gardens or Supertrees, each measuring between 25m to 50m in height.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Botanic%20Gardens/GardensbytheBay%20IMG_2320.jpg">
+ <div style="background-color: white;">An external view of the Gardens by the Bay Cloud Forest. <i>Courtesy of Jerome Lim, The Long and Winding Road.</i></div>
+
 These structures tower over the three distinctive gardens that make up Gardens by the Bay—Gardens at Marina South, Gardens at Marina East and Gardens at Marina Central —and they serve as conservatories to a diverse range of plants from different climatic zones. Collectively, Gardens by the Bay provides the experience that Singapore is more than a place to work but also a compelling destination to live and play. It also demonstrates that the boundary of garden design can be pushed beyond just landscaping and horticulture to include a multitude of disciplines ranging from architecture to structural and environmental engineering. More importantly, Gardens by the Bay is testament to Singapore’s development experience as it signifies the maturity of Singapore’s Garden City concept.
 
 Put in place by former Prime Minister Lee Kuan Yew in 1967, the Garden City concept integrates the natural environment into Singapore’s development and has been instrumental in creating a manicured environment of trees, flowers, parks and rich bio-diversity. The opening of Gardens by the Bay, however, signifies the beginning of the next phrase of garden development in Singapore. Instead of creating parks and gardens, Gardens by the Bay launches the City in a Garden vision that aims to bring parks and green spaces into people’s homes and workplaces. By journeying through the development of the various parks, gardens and green spaces in Singapore over the years, this article not only examines the dynamics behind Singapore’s Garden City development strategy but also shows how the Garden City concept has evolved into the City in a Garden vision.
@@ -26,6 +29,9 @@ The Botanic Gardens grew under the administration of botanists and horticulturis
 
 Despite the rapid expansion of the Singapore Botanic Gardens, its greening enterprise was not transferred to urban areas of Singapore. Prior to 1965, the only sizeable public parks in Singapore were the Botanic Gardens and the Esplanade.2 By contrast, the city area was devoid of trees and lush greenery could be seen only in the suburbs within the premises of large colonial bungalows. To a large extent, the absence of greenery in Singapore was because gardening was considered more of a personal pursuit and gardens.3 The colonial government did not have a declared objective of introducing greenery or creating green spaces to improve the urban environment or to enrich people’s lives. Although the colonial government had initiated Tree Planting campaigns in 1880s and established a nature reserve at Bukit Timah in 1883, public parks and gardens at the time were conceived of as isolated public recreation spaces. They were created as an afterthought on an ad hoc basis and catered mainly for passive recreation. For instance, the Esplanade, though a popular spot for the general public, was fitted with modest facilities and mostly barren with very few trees.4
 
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Botanic%20Gardens/elizabeth%20walk.jpg">
+ <div style="background-color: white;">Opened in 1953, Elizabeth Walk was one of the few public parks in Singapore prior to 1965. <i>From the Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+	
 The lack of attention to the provision of green spaces persisted until the first Master Plan was adopted in 1958. In the Master Plan, the need to create green spaces was based on a number of considerations. For instance, a green belt was proposed for the urban population and to stop the continued expansion of the central area. Land was also set aside along the coasts of Bedok, Changi and Pasir Ris and in the city area for recreational development. The Master Plan even laid out a long-term goal to increase the amount of green space in the urban area from 263ha in 1953 to 1,039 acres by 1972. 
 
 Even then, creating green spaces was still not a government priority. This was because the prevailing government policy at the time was to allocate as much resources as possible to solving chronic housing and employment problems.5 There were also no legal powers for the provision of green spaces in city planning. As a result, green spaces in most housing estates built in the late 1950s and early 1960s were kept to a minimum.6 As more such estates were developed and natural surroundings bulldozed to make way for other developments, Singapore’s urban landscape was slowly turning into a concrete jungle. Aware of this trend, the newly elected government led by the People’s Action Party (PAP) tried to inject some greenery into Singapore’s urban setting in 1963 by initiating Tree Planting Day.7 However, it was not until the housing and industrialisation programmes were progressing at a satisfactory rate in the mid-1960s that the greening of Singapore became a matter of public policy.8
@@ -51,7 +57,14 @@ As a result, parks built from the mid-1970s were different from ones built in ea
 
 Regional parks formed the first category. Ranging from 10-200ha in size, regional parks function as recreational grounds for the general population, offering all the ancillary facilities and amenities required for active and passive recreation.24 Most of the regional parks were located on reclaimed land along Singapore’s coastlines, but many could also be found in more central parts of the island, carved out from water catchment areas or from spaces bordering nature reserves. A notable early regional park is East Coast Park. Developed by the PTD and later the Parks and Recreation Department in four phases over a 12-year period from 1971 to 1983, East Coast Park was spread over a reclaimed area of 209ha and spanned more than 20km in length. The park was designed with a “Recreation for All” theme. besides its thick belt of greenery, the park has a 15km sandy beach, another 15km of jogging track, a 14km cycling track and a 4ha swimming lagoon. These facilities were complemented by other recreational developments such as holiday chalets, camping spots, barbeque pits, a fishing jetty and a recreation centre consisting of a bowling alley, a tennis centre and restaurant outlets. Other regional parks that also provided such elaborate recreational functions included Mount Faber Park, Labrador Nature Park, West Coast Park, Pasir Ris Park, Seletar Reservoir Park, MacRitchie Reservoir Park and Bedok Reservoir Park.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Botanic%20Gardens/East%20Coast.jpg">
+ <div style="background-color: white;">East Coast Park was one of the first regional parks. Developed on reclaimed land in four phases over a 12-year period from 1971 to 1983, the park was designed with a “Recreation for All” theme.<i> National Archives of Singapore.</i></div>
+
 In the second category of parks were the community or town parks. While regional parks served the general population, community parks catered to the residents of HDB housing estates. Depending on the size of the population they served, these parks ranged from 1,000m2 to 40ha in area.25 Even though community parks were smaller than regional parks, they had the full range of facilities associated with the larger parks. Among the facilities provided were jogging tracks, children’s playgrounds, playing fields, multipurpose courts, fitness corners, and landscaped areas with seats and shelters. Thick groves of trees were planted in these parks to provide shade for their users. As community parks were designed to be within walking distance for residents living close by, these parks were usually centrally located within HDB estates or in proximity to the recreational green spaces provided in HDB estates. Some of the earliest community parks were Toa Payoh Town Park, Bishan Park, Duxton Plain Park and Ang Mo Kio East and West Gardens. As it was envisaged that each HDB estate would have at least one community park, later examples of community parks can be found in HDB estates developed in the 1980s such as Woodlands and Bukit Batok. In most cases, community parks were developed either by HDB or JTC before being handed over to the Parks and Recreational Department for maintenance.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Botanic%20Gardens/woodlands%20park1.jpg">
+ <div style="background-color: white;">Community parks like this one in Woodlands were developed after the launch of the Garden City concept. <i>National Archives of Singapore. </i></div>
+
 
 Parks and open spaces in the city area made up the third category of parks. Ranging from 1,000m2 to 30ha, these parks were created by the URA and its predecessor, the Urban Development Department, under the urban redevelopment programme to beautify the cityscape and to function as “green lungs” amid the built-up city environment.26 These parks varied in type from small pocket parks and shaded plazas located between buildings to large city parks and open spaces. Regardless of their sizes, city parks and open spaces were usually designed to bring out their unique characteristics and reinforce the mood of their surrounding areas. For instance, parks near government district areas such as the Merlion Park, the Fort Canning Historic Park and the War Memorial Park were designed with a nation-building narrative. In general, parks and open spaces in the city area were used by the general public, city-dwellers and tourists as resting places or tourist spots and office workers as congenial spots for lunch.
 
@@ -67,6 +80,10 @@ Other than the Green and Blue Plan, many community partnership programmes have a
 
 In addition to the CIB programme, there are also other community programmes such as the Adopt-A-Park scheme and Park Watch Scheme.33 These programmes allow volunteers to participate in various park outreach activities such as conducting guided tours or organising cultural and artistic performances as well as other activities to attract visitors. The main objective of these programmes is to encourage members of the public to engage in activities on a personal level to help sustain parks and the Garden City concept. To further cement community participation and appreciation of the Garden City concept, NParks launched the Singapore Garden Festival in December 2006.34 The biennial festival was to bring together local gardening communities and experts as well as award-winning international garden and floral designers to exhibit their green creations.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Botanic%20Gardens/GardensbytheBay%20IMG_8702.jpg">
+ <div style="background-color: white;">The Gardens by the Bay Supertree Grove at dusk with the OCBC Skyway. <i>Courtesy of Jerome Lim, The Long and Winding Road. </i></div>
+
+
 #### **The Next Lap: City in a Garden**
 
 Even with the introduction of various programmes to enrich the Garden City concept, tree planting and the creation of parklands remains fundamental to the sustainability of the concept. For instance, Tree Planting Day has remained an annual tradition in Singapore since 1971. Today, it is an important component of a larger green programme known as Clean and Green Week. Launched in 1990, Clean and Green Week is an annual campaign aimed at maintaining the green consciousness created by Tree Planting Day as well as at increasing awareness of environmental issues such as recycling, green consumerism and creating a litter-free environment.35 In addition, in the latest Parks and Waterbodies Plan released by NParks in 2002 to lead the greening effort in Singapore for the next 10 to 20 years, the creation of new parks remains a key priority.36 The plan aims to create an additional 1,200ha of new parks and to provide greater diversity in them by capitalising on natural assets such as hills, nature areas and waterbodies. The Plan also looked at ways to develop better facilities and amenities in existing parks and to improve accessibility to parks and nature areas by extending park connectors.
@@ -77,20 +94,3 @@ Ultimately, the Parks and Waterbodies Plan aims to develop the Garden City conce
 
 <div>
 <b>Lim Tin Seng</b> is a Librarian with the National Library Heritage division. He has co-edited two books,  <i>Harmony and Development: ASEAN-China Relations </i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society </i> (2010). He is currently doing research on the Eurasian community for an upcoming National Library Board exhibition.
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
