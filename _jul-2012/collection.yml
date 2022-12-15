@@ -2,6 +2,8 @@ collections:
   jul-2012:
     output: true
     order:
+      - "From Botanic Gardens to Gardens by the Bay: Singapore’s Experience in
+        Becoming a Garden City.md"
       - Director's Column.md
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
