@@ -2,6 +2,7 @@ collections:
   jul-2012:
     output: true
     order:
+      - "ExampTiong Bahru: Exploring Singapore’s First Public Housing Estate.md"
       - Director's Column.md
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
