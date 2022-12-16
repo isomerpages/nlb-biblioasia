@@ -2,7 +2,6 @@ collections:
   jul-2012:
     output: true
     order:
-      - "Tiong Bahru: Exploring Singapore’s First Public Housing Estate.md"
       - Director's Column.md
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
@@ -12,3 +11,4 @@ collections:
         Footprints Behind.md"
       - "From Botanic Gardens to Gardens by the Bay: Singapore’s Experience in
         Becoming a Garden City.md"
+      - "Tiong Bahru: Exploring Singapore’s First Public Housing Estate.md"
