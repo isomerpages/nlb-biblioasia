@@ -8,7 +8,10 @@ description: An Anthology of English Writing from Southeast Asia is a
   of Singapore, while Isabela Banzon and Lily Rose Tope are from the University
   of the Philippines.
 ---
- #### _An Anthology of English Writing from Southeast Asia_ is a substantive achievement and its editors are to be congratulated. All four are academics – Philip Holden and Rajeev S. Patke are from the National University of Singapore, while Isabela Banzon and Lily Rose Tope are from the University of the Philippines.
+#### _An Anthology of English Writing from Southeast Asia_ is a substantive achievement and its editors are to be congratulated. All four are academics – Philip Holden and Rajeev S. Patke are from the National University of Singapore, while Isabela Banzon and Lily Rose Tope are from the University of the Philippines.
+
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Rich%20and%20Strange/image_Anthology%20book%20cover.jpg">
+ <div style="background-color: white;">Patke, R. S., Banzon, I., Holden, P. & Tope, L. R. (Eds.). (2012). <i>An Anthology of English Writing From Southeast Asia.</i> Singapore: National Library Board.</div>
 
 All, as their biographical entries tell us, have specialist interest in literatures in English from Southeast Asia.
 
@@ -29,5 +32,3 @@ When the late A.K. Ramanujan, himself a distinguished poet and translator, was a
 #### **NOTES**
 
 [^1]: Lal, P. (ed.). (1969). _Modern Indian Poetry in English_. Calcutta: Writers Workshop, p. 444.
-
-
