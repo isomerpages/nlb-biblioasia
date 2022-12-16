@@ -7,7 +7,7 @@ description: Tiong Bahru is a place of many faces. Originally known for its
   is better known for its heritage housing, skyrocketing property prices and
   popular food establishments.
 ---
- #### Tiong Bahru is a place of many faces. Originally known for its “aeroplane houses”, Singapore’s first public housing experiment once has a reputation as a haven for the mistresses of rich businessmen. These days, it is better known for its heritage housing, skyrocketing property prices and popular food establishments.
+#### Tiong Bahru is a place of many faces. Originally known for its “aeroplane houses”, Singapore’s first public housing experiment once has a reputation as a haven for the mistresses of rich businessmen. These days, it is better known for its heritage housing, skyrocketing property prices and popular food establishments.
  
  <img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/moh%20guan%20terrace1.jpg">
  <div style="background-color: white;">Block 78 Moh Guan Terrace. <i>All Rights Reserved. National Library Board Singapore 2007.</i></div>
@@ -90,10 +90,3 @@ The regeneration of Tiong Bahru from the early 2000s has led to a sense of an in
 
 <div>
 <b>Alvin Chua</b> is an independent researcher who writes on Singapore history, culture and heritage. Since 2008, he has contributed numerous articles to Singapore Infopedia, NLB’s online encyclopaedia on Singapore. He previously wrote for the <i>Today</i> paper and a number of websites.</div>
-
-
-
-
-
-
-
