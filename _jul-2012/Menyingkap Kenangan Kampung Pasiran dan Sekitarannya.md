@@ -3,3 +3,97 @@ title: Menyingkap Kenangan Kampung Pasiran dan Sekitarannya
 permalink: /vol-8/issue-2/Jul-2012/kampung-pasiran-sekitarannya/
 description: ""
 ---
+#### Traces the historical development of a village in Singapore called Kampung Pasiran and its surrounding areas using primary source materials from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
+
+The article features the historical development of a village in Singapore named Kampung Pasiran (situated at Gentle Road/Newton Road) and its surrounding areas. Deriving primary material sources from oral records of the National Archives of Singapore and interviews with surviving kampung dwellers, the article includes the kampung pioneers, life during the Japanese Occupation, the role of its savings and thrifts co-operatives, the ties between the only Malay-stream school in the area with the villagers as well as the bond forged by the prominent Alsagoff family with the villagers in facilitating economic activities through employment. The function of the mosque as a religious as well as a socio-cultural focal point is also discussed. Owing to its central strategic location, the mosque, amidst its affluent residential environment now, is likened to an ‘oasis in the desert’.
+
+#### **Latarbelakang Perkampungan Melayu di Singapura**
+
+Sebelum Sir Stamford Raffles mendarat di Singapura pada tahun 1819, telah pun wujud beberapa perkampungan di bawah penguasaan pemerintah Temenggung Abdul Rahman. Dianggarkan terdapat 1,000 penduduk iaitu kira-kira 500 Orang Kallang, 200 Orang Seletar, 150 Orang Gelam mendiami kawasan Sungai Singapura dan 200 Orang Laut di daerah Keppel Harbour.1
+
+Sebelum kedatangan Inggeris, pendatang-pendatang perlu mendapatkan izin Temenggung untuk membuka penempatan baru, berkebun atau mengusahakan hasil mahsul tanah. Kuasa Temenggung ini berterusan hingga termeterainya perjanjian 1819 dengan Kompeni Inggeris melalui Surat Perjanjian bertarikh 26 Jun, mengenai Pembahagian Hak dan Kedudukan Penduduk.2
+
+#### **Kampung di pPnggir Bandar**
+
+Professor Madya Hadijah Rahmat dalam bukunya, Kilat Senja telah menyenaraikan lebih 90 perkampungan yang pernah wujud di Singapura.3 Kebanyakan perkampungan Melayu terletak di persisiran pantai timur dan barat lantaran corak ekonomi berasas laut serta faktor kemudahan dan pengangkutan masa itu. Selain itu tersenarai juga beberapa kampung lain yang terletak di kawasan tengah Singapura seperti Kampung Cantek, Kampung Tempe, Kampung Woodleigh dan Kampung Pasiran.
+
+Generasi lama mungkin masih mengingati nama Kampung Pasiran walaupun kini yang ada hanyalah “Jalan Pasiran”. Kampung Pasiran terletak di daerah pinggir bandar Singapura berdekatan kawasan Newton/ Thomson Road. Ia pernah bertapak di kawasan mewah Gentle Road, Chancery Lane, Newton Road, Gilstead Road dan Buckley Road.
+
+Dari simpang Newton Circus ke Kampung Pasiran yang bersaiz 10 ekar tanah, perjalanan kaki mengambil masa kurang dari 5 minit sejauh lebih 1 km. Pada awal tahun-tahun 1920an terdapat dua buah kolam ternak ikan dan udang milik seorang taukeh Cina, Ah Seng.4
+
+Kampung Pasiran pernah mengandungi lebih 50 buah rumah panggung, rumah separa batu dan rumah deretan dengan lebih 100 keluarga di sepanjang jalan Gentle Road. Masjid Abdul Hamid Kampung Pasiran dan Sekolah Perempuan Melayu Bukit Tunggal (1961-1974) pula terletak di hujung simpang Gentle Road.
+
+Menurut cerita orang tua-tua dulu yang sampaikan oleh Allahyarham Haji Bahari Haji Suradi, 85 tahun ( penduduk asal kampung itu), nama Kampung Pasiran berasal daripada kata ‘Pasir’ yang diimbuh dengan akhiran ‘an’ dan lahirlah perkataan pasiran. Pasiran bermakna banyak pasir atau kawasan berpasir yang luas. Terdapat sebuah kuari (lombong) pasir berdekatan dan sebuah kolam terjadi kerana pasir putih di situ di kaut korek pengusaha bangunan untuk kerja-kerja pembinaan. Di kolam itu terdapat sampan-sampan untuk beriadah dan memancing ikan. Setelah beberapa kejadian mati lemas dan kemalangan berlaku, kolam itu kemudiannya ditimbus. Hasil daripada kuari pasir ini maka terbitlah nama ‘Kampung Pasiran’ dan ‘Jalan Pasiran’.5 Berbanding dengan kampung-kampung lain di Singapura, keistimewaan kampung ini terletak kepada asal tapak kampung yang merupakan kuari pasir itu.
+
+#### **Sejarah Kampung Pasiran**
+
+Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974-1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917- 1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
+
+Kedua-duanya Haji Abdul Latib dan Haji Abdul Hamid berasal dari Kendal di Jawa Tengah dan dipercayai berhijrah ke Singapura pada tahun 1870an. Dalam perjalanan pulang dari Mekah, mereka singgah di Singapura untuk bekerja bagi membayar hutang dengan ejen-ejen haji kerana perbelanjaan mereka ke Mekah. Tertarik dengan keadaan Singapura yang aman mantap dari segi ekonomi dan pekerjaan, lantas kedua-duanya menetap di sini dan ‘membuka’ Kampung Pasiran.
+
+Cikgu Kader Suradi, 73 tahun (cicit Haji Latib Samydin), penduduk asal kampung itu mengimbau bahawa ibunya, Hajah Siti Haji Siraj (Wak Siti) lahir di Kampung Pasiran pada tahun 1910. Dari tarikh kelahiran ini dapat dirumuskan bahawa Kampung Pasiran telah wujud sebelum awal abad ke 20 lagi.
+
+#### **Kampung Pasiran dan Keluarga Alsagoff**
+
+Di belakang perkampungan Pasiran (sekitar Chancery Lane / Novena / Thomson Road) terdapat ladang getah dan ladang kopi dalam kawasan yang dikenali sebagai Bukit Tunggal milik hartawan Arab, pemilik tanah, pemungut hutang dan syeikh haji terkenal iaitu Syed Omar bin Mohamed Alsagoff (pemilik firma S.O. Alsagoff, 1850-1927). Banglo kediamannya yang lengkap dengan stabel kuda (kereta kuda digunakan sebagai pengangkutan ketika itu) menjadi tarikan dan perhatian pendatang baru untuk mencari nafkah dan pekerjaan di situ. Banglo beliau “Omaran” ini terletak di atas Bukit Tunggal di Chancery Lane, merupakan tempat berlangsungnya pesta-pesta perayaan keluarga itu.
+
+Pada ta hun-ta hun 1920 -a n, tapa k ladang-ladang ini kemudiannya didirikan rumah-rumah kediaman pegawai kerajaan British. Ladang kopi pula diubah lanskapnya menjadi tasik persiaran dan taman riadah untuk keluarga Alsagoff. Stabel kuda dijadikan tempat penginapan pekerja-pekerjanya dan menjadi Kampung Bukit Tunggal.
+
+Salah seorang anaknya, Syed Ibrahim Omar Alsagoff (1899-1975) mengambil alih perniagaan selepas kematian bapanya. Di antara pekerja-pekerja perniagaan keluarga Alsagoff ialah Haji Abdul Latib Samydin, mandor yang mengawasi pekerja-pekerja estet di situ, Haji Siraj Mohd Noor (bapa Haji Buang) yang pernah menjadi tukang kebun di estet dan Hj Noor Abdul Hamid (anak kepada Haji Abdul Hamid Embong) yang berkerja sebagai drebar peribadi keluarga Alsagoff.
+
+Lantaran tarikan ekonomi untuk berkerja di estet keluarga Alsagoff ini, pendatang-pendatang baru dan penduduk dari kampung lain (seperti Kampung Haji Alias di Coronation Road) datang ke Kampung Pasiran dan Bukit Tunggal. Justeru, keluarga Alsagoff memainkan peranan yang penting dalam penempatan awal Kampung Pasiran kerana ia telah memberi ruang dan peluang ekonomi sekali gus membaiki taraf kehidupan orangorang kampung di kawasan itu.
+
+#### **Nostalgia Kampong Pasiran**
+
+Pada awalnya terdapat kurang dari 10 pintu rumah-rumah papan setingkat beratapkan zink didirikan di situ. Setiap unit rumah yang dapat menampung lebih 18 ahli keluarga dari 3 generasi mempunyai 3 hingga 4 bilik tidur, bilik tamu, bilik makan, dapur dan bilik air tersendiri. Penduduk kampung yang berkemampuan telah membina rumah-rumah bersebelahan rumah induk mereka dan disewakan dengan harga 5 hingga 6 dollars sebulan (termasuk kos bekalan api dan air pada tahun-tahun 1950an. Sewa rumah ini kemudian meningkat kepada $50 (sebulan di tahun-tahun 1970an).
+
+Pada awalnya terdapat kurang dari 10 pintu rumah-rumah papan setingkat beratapkan zink didirikan di situ. Setiap unit rumah yang dapat menampung lebih 18 ahli keluarga dari 3 generasi mempunyai 3 hingga 4 bilik tidur, bilik tamu, bilik makan, dapur dan bilik air tersendiri. Penduduk kampung yang berkemampuan telah membina rumah-rumah bersebelahan rumah induk mereka dan disewakan dengan harga 5 hingga 6 dollars sebulan (termasuk kos bekalan api dan air pada tahun-tahun 1950an. Sewa rumah ini kemudian meningkat kepada $50 (sebulan di tahun-tahun 1970an).
+
+Selain kaum Jawa, Boyan dan Melayu, terdapat juga keluarga-keluarga Cina, India dan Serani yang tinggal di rumah-rumah batu sebandung berdekatan Gentle Road. Sebuah pondok orang-orang Bawean dikenali sebagai; “Pakherbung” di Buckley Road merupakan jiran terdekat orang-orang Kampung Pasiran.
+
+#### **Era Pendudukan Jepun 1942-1945**
+
+Selama pendudukan Jepun, kawasan persekitaran Kampung Pasiran dijadikan kawasan kediaman askar-askar Jepun. Pegawai tinggi Jepun tinggal di Buckley Road sementara Lieutenant General Tomoyuki Yamashita (1885-1946) (yang mengetuai serangan tentera Jepun ke atas Singapura) pernah tinggal di daerah Bukit Tunggal (banglo bekas pegawaipegawai Inggeris).7
+
+Kampung Pasiran tidak menyimpan banyak peristiwa dengan askar-askar Jepun kerana hubungan baik penduduk kampung dengan askar Jepun. Askar-askar Jepun juga dikatakan sentiasa memantau kampung itu khususnya kegiatan pemuda-pemuda kampung dengan meronda kawasan itu terutama waktu malam. Ada juga penduduk Kampung Pasiran yang mempunyai pertalian keluarga di Johor telah melarikan diri kerana khuatir dijadikan buruh paksa pembinaan jalan kereta api maut di sempadan Siam-Burma. Hajah Satimah Mohd. Said, 81 tahun (bekas penduduk asal kampung) mengimbau ingatan hubungan penduduk kampung dengan askar-askar Jepun yang saling hormat menghormati walaupun tentera Jepun sering mengambil air dari perigi dan ubi kayu, keledek serta keladi atau meminta telur ayam penduduk kampung itu tidak dengan paksaan.
+
+Menurut beliau, lazimnya penghuni yang pintu rumah-rumah mereka di tampal dengan sijil penempatan keamanan (“ankyosho”— senarai ahli keluarga bagi setiap rumah) yang dikeluarkan oleh pihak Jepun, tidak akan diganggu. Begitupun kebanyakan penduduk tetap curiga dengan mendirikan kubu kecil yang boleh memuatkan hingga 8 orang. Untuk melindungi dari tentera Jepun, tanah liat ditampal di dinding luar kubu dan ditanam rumput. Kelihatan seolah-olah rumah itu bersebelahan busut kecil yang sebenarnya kubu untuk menyembunyikan diri terutama apabila siren tanda bahaya berbunyi.
+
+Menurut beliau, lazimnya penghuni yang pintu rumah-rumah mereka di tampal dengan sijil penempatan keamanan (“ankyosho”— senarai ahli keluarga bagi setiap rumah) yang dikeluarkan oleh pihak Jepun, tidak akan diganggu. Begitupun kebanyakan penduduk tetap curiga dengan mendirikan kubu kecil yang boleh memuatkan hingga 8 orang. Untuk melindungi dari tentera Jepun, tanah liat ditampal di dinding luar kubu dan ditanam rumput. Kelihatan seolah-olah rumah itu bersebelahan busut kecil yang sebenarnya kubu untuk menyembunyikan diri terutama apabila siren tanda bahaya berbunyi.
+
+
+#### **Syarikat Kerjasama Serbaguna Kampung Pasiran**
+
+Pengalaman pahit di tahun-tahun pendudukan Jepun telah membangkitkan semangat bantu diri dan kerjasama ekonomi di kalangan penduduk-penduduk Kampung Pasiran. Semangat gotong royong dan harapan untuk mempertingkatkan taraf hidup telah mencetuskan idea penubuhan Syarikat Kampung Pasiran pada 3 Disember 1946, syarikat kooperatif jimat cermat melalui simpanan tetap dari gaji ahlinya setiap bulan. Selain dapat berbangga dengan kejayaan syarikat ini meningkatkan taraf ekonomi ahlinya, ia juga merupakan di antara kooperatif kampung yang masih aktif hingga sekarang.9
+
+Di tahun-tahun lima puluhan, penduduk Kampung Pasiran terus membangun dan bersaing untuk kemajuan. Hasil peningkatan taraf pelajaran anak-anak mereka, ramai yang menjadi usahawan sendiri, berkerja sebagai guru, pegawai polis, dan pegawai pemerintah.
+
+Sementara itu suri rumah mengambil peluang berniaga kecil-kecilan dari rumah (seperti kuih muih dan kerepek pisang), membuka warung-warung makanan di tepi jalan dan menyediakan khidmat pembekal makanan untuk majlis-majlis. Mereka menjadikan usahaniaga makanan sebagai sumber pendapatan menyarai kehidupan keluarga.
+
+
+#### **Tiada Sistem Penghulu**
+
+Penduduk Kampung Pasiran hidup harmoni walaupun tiada penghulu rasmi mentadbirkan kampung. Pada awal abad ke 20, Hj Noor Hj Abdul Hamid yang menjadi imam masjid Abdul Hamid Kampung Pasiran dianggap sebagai ketua kampung ‘de facto’ bersamasama penasihat-penasihatnya seperti Cikgu Boslan Abas dan Hj Ahmad Nasir. 10
+
+
+#### **Masjid Abdul Hamid Kampung Pasiran**
+
+Lazimnya masjid berfungsi sebagai pusat masyarakat Melayu/Islam kerana peranan agama, sosio-ekonomi dan sosio budayanya. Tidak terkecuali Masjid Abdul Hamid Kampung Pasiran yang dibina dari hasil usaha dan peninggalan penduduk asal kampung itu. Ia mengambil sempena nama Haji Abdul Hamid Ahmad Marang, hartawan Marang, Terengganu yang membiayai pembinaannya. Beliau berasal dari Kampong Jagoh (Telok Blangah, Singapura).
+
+Menurut sejarahnya, beliau datang ke Kampung Pasiran pada tahun 1931 untuk membeli tanah dan berjumpa Haji Abdul Latib bin Samydin. Sejurus mengetahui niat Haji Abdul Hamid ingin mendirikan masjid di atas tapak tanah yang bakal dibelinya, Haji Abdul Latib lantas mewakafkan tanahnya yang berukuran 189,45 kaki persegi di tapak tanah nombor unit 10 dan 12, Gentle Road sebagai tapak masjid kampung itu.
+
+Masjid ini siap dibina pada tahun 1932 dan dibaik pulih beberapa kali dari tahun 1960 hingga 2002. Pada tahun 2000, kegiatan mencari dana pembangunan masjid dirancakkan melalui projek-projek seperti Teleamal, Majlis Hi-Tea, Projek Climbathon dan Jualan Nasi Amal untuk membina bangunan baru yang memerlukan S$1.7 juta. Untuk memupuk semangat “kampung”, penduduk, digalakkan bersalat jemaah serta mengadakan majlis keraian, kenduri kendara dan walimah di masjid selain majlis keagamaan seperti tahlil, maulid dan berkhatan dan lain-lain lagi.
+
+Sebagai pusat sosial selain fungsi keagamaan, Ustaz Haji Amir Rais yang pernah bertugas di masjid itu bukan sahaja mengajar ilmu agama malah mentadbirkan kelas-kelas tiusyen bagi pelajaran sekular seperti Matematik dan Bahasa Inggeris sebelum diambil alih oleh pihak MENDAKI kemudiannya.
+
+Dengan usaha lembaga pentadbir masjid dan sokongan dari Majlis Ugama Islam, masjid lama dirobohkan dan yang baru didirikan dengan perasmiannya pada 25 Oktober 2007.
+
+
+#### **Sekolah di kawasan Kampung PasiranS**
+
+
+
+
+
+
+
