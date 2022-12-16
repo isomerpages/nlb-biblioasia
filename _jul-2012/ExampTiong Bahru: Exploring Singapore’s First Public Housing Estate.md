@@ -243,23 +243,3 @@ Yeoh, B., & Kong, L. (1995). Place-making: Collective representations of social 
 [^30]: _[The News Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20060902-1.2.7.1)_, 3 Sep 2006, p. 5.
 
 [^31]: _[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20110730-1.2.35.1)_, 30 Jul 2011, pp. 2—3.
-
-
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
