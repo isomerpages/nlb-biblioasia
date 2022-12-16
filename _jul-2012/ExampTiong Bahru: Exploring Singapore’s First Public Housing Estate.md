@@ -7,7 +7,7 @@ description: Tiong Bahru is a place of many faces. Originally known for its
   is better known for its heritage housing, skyrocketing property prices and
   popular food establishments.
 ---
-#### Tiong Bahru is a place of many faces. Originally known for its “aeroplane houses”, Singapore’s first public housing experiment once has a reputation as a haven for the mistresses of rich businessmen. These days, it is better known for its heritage housing, skyrocketing property prices and popular food establishments.
+####  Tiong Bahru is a place of many faces. Originally known for its “aeroplane houses”, Singapore’s first public housing experiment once has a reputation as a haven for the mistresses of rich businessmen. These days, it is better known for its heritage housing, skyrocketing property prices and popular food establishments.
  
  <img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/moh%20guan%20terrace1.jpg">
  <div style="background-color: white;">Block 78 Moh Guan Terrace. <i>All Rights Reserved. National Library Board Singapore 2007.</i></div>
@@ -43,6 +43,9 @@ The Occupation saw a large number of new residents in Tiong Bahru, with an estim
 #### **Post-war Growth and Renewal**
 
 After the Occupation, construction continued on the housing estate. In 1948, a club was formed to manage the social, physical and cultural life and amenities of the community. By 1951, the estate had a physical centre, Singapore’s first community centre. The centre had its own civil defence group and auxiliary police force for the area.16 In 1961, the first polyclinic in Singapore opened in Tiong Bahru. Tiong Bahru flats continued to be in high demand, with thousands of applicants on the waiting list. By 1954 the SIT added another 1,258 units to the estate.17
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/CC%20at%20Tiong%20Bahru1.jpg">
+ <div style="background-color: white;">Tiong Bahru Community Centre, 1951. <i>National Archives of Singapore.</i></div>
 
 In the early 1950s, the population of Tiong Bahru stood at around 400,000. Besides those living in SIT housing, a number of attap hut villages had sprung up on uncleared burial grounds. *The Straits Times* called the area “one of the worst attap slums in Singapore… haunted by a nest of gangsters and undesirable elements”.18 The remaining slums and grave sites on the fringes of Tiong Bahru were only cleared by the mid-1970s.
 
