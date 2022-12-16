@@ -89,7 +89,61 @@ Sebagai pusat sosial selain fungsi keagamaan, Ustaz Haji Amir Rais yang pernah b
 Dengan usaha lembaga pentadbir masjid dan sokongan dari Majlis Ugama Islam, masjid lama dirobohkan dan yang baru didirikan dengan perasmiannya pada 25 Oktober 2007.
 
 
-#### **Sekolah di kawasan Kampung PasiranS**
+#### **Sekolah di Kawasan Kampung Pasiran**
+
+Sebuah sekolah yang terkenal di persekitaran itu dan kekal terpahat dalam ingatan generasi lama pada tahun-tahun 1960an hingga 1970an ialah Sekolah Rendah Perempuan Melayu Bukit Tunggal (SPMBT) yang pernah berdiri di Simpang Gilstead Road dengan Gentle Road (di tapak bangunan Revenue House).
+
+Pada tahun 1959, di bawah pemerintahan Parti Tindakan Rakyat (PAP), yang menyokong penggunaan bahasa Melayu dalam pendidikan serta ransangan politik untuk penyatuan Tanah Melayu, pendidikan aliran Melayu di Singapura menjadi penting. Ini selari pula dengan Polisi Pendidikan 1959 Pemerintah Singapura yang memberikan layanan setara pada semua pendidikan sekolah dalam empat bahasa rasmi. Sejak itu kemasukan murid-murid ke sekolah rendah aliran Melayu semakin meningkat kerana sekolah Melayu merupakan pilihan ‘pertengahan’ terbaik bagi masyarakat Melayu di antara madrasah dengan sekolah Inggeris.11
+
+Tahun-tahun 1960an menyaksikan banyak sekolah-sekolah Melayu dibuka termasuk bangunan dua tingkat Sekolah Rendah Perempuan Melayu Bukit Tunggal (SPMBT) ini yang dibina di tapak bekas kolam Kampung Pasiran dulu.
+
+Sekolah ini dibuka pada awalnya kepada penuntut-penuntut perempuan darjah satu. Pelajar-pelajar darjah 2 hingga 6 adalah yang dipindahkan dari Sekolah Perempuan Melayu Scotts Road pada 3 Januari 1961. Ia dibuka dengan rasminya pada 30 Julai 1963 oleh Setiausaha Parlimen (Pendidikan) Encik Lee Khoon Choy dan dihadiri oleh Menteri Pendidikan, Encik Yong Nyuk Lin.
+
+Di bawah kepimpinan guru besar sekolah ini, Cikgu Aishah Murkani dari tahun 1961 hingga 1974 yang dibantu oleh penolong-penolong guru besar termasuk Cikgu-cikgu Marhamah Mohd. Zain, Buang Mohd Amin, Sukinah Abu dan Jumaiyah Masbin , sekolah ini telah melahirkan ramai pelajar-pelajar perempuan cemerlang di lapangan masing-masing.
+
+Dengan sokongan barisan guru-guru berkaliber seperti Cikgu-cikgu Alimah Lob, Asmah Alsagoff, Asnah Asraf, Badariah Boslan, Hafsah Maarof, Juminah Ehsan, Kamariah Juraimi, Jamaliah Sulaiman, Joyah Jantan, Maimunah Dahlan, Maryam Zanariah Hussin, Mariam Junid, Norsiah Sujai, Warianti Kasman, Zainab Razak dan lain-lain lagi, mereka berjaya menyemai semangat yang membawa perubahan minda dan berdaya maju kepada pelajar-pelajarnya. Menurut Cikgu Kamariah Mohd Naib, 74 tahun (mantan guru SPMBT, 1961—1972) antara pelajar-pelajar SPMBT ialah Orkid Kamariah, anak perempuan Presiden Yusof Ishak (Presiden Singapura pertama, 1965—1970).
+
+#### **Keunikan SPMBT**
+
+Sejak tahun 1964, pelajaran muzik mula diperkenalkan di SPMBT dan sekolah ini merupakan satu-satunya sekolah Melayu yang terpilih sebagai “Pilot School for Music Teaching” sejak 1971. Ia turut aktif dengan pasukan padu suaranya dan telah mengambil bahagian dalam Pesta Belia Singapura, Hari Ulang Tahun Singapura ke 150 (tahun 1969) dan turut merakamkan lagu rakyat berirama Melayu di bawah bimbingan guru-guru muzik mereka Puan Ng Eng Hoe dan Cikgu Tengku Saleha Tengku A. Ghani.12 Pada tahun 1972, SPMBT telah memenangi berbagai peraduan muzik dan nyanyian padu suara di antara sekolah-sekolah rendah.13
+
+Semasa mengimbas kenangan di SPMBT, Cikgu Mariam Junid, 71 tahun (mantan guru SPMBT, 1961-1968) menerangkan tentang beberapa kegiatan luar darjah yang diminati pelajar-pelajar termasuk pasukan Brownies, Pandu Puteri, Tarian Melayu, Bahas dan Seni Lukis. Ada juga penduduk Kampung Pasiran yang berbakat menjadi sukarelawan untuk membantu guru melatih murid-murid dalam kegiatan luar darjah. Sebagai bekas penuntut sekolah ini dari tahun 1963 hingga 1967, penulis masih ingat tentang sesi lukisan bimbingan Encik Sarkasi Said, penduduk asal Kampung Pasiran dan pelukis batik terkenal kini.
+
+
+#### **Kampung Pasiran dengan SPMBT**
+
+Acara sukan tahunan SPMBT merupakan satu pesta masyarakat meriah kerana penglibatan pelajar-pelajar, guru-guru sekolah ini dengan penduduk Kampung Pasiran. Dalam acara tahunan ini, ketara sekali penggembelingan tenaga antara penduduk Kampung Pasiran dengan guru-guru dan murid-murid. Mengikut Cikgu Mariam Junid, “semasa acara sukan, pihak sekolah meminjam peralatan periuk, gelas dulang dari masjid Kampung Pasiran untuk digunakan bagi jamuan ringan untuk pelajar-pelajar dan ibubapa mereka”. Kehadiran penduduk-penduduk kampung juga dialu-alukan dalam perayaan-perayaan sekolah lain seperti Hari Penyampaian Hadiah dan Pameran Seni Lukis dan Kerja Tangan.
+
+#### **Nostalgia SPMBT**
+
+Setiap bilik darjah dilengkapkan dengan sebuah almari kecil berbentuk buku yang boleh dikatup bila tamat waktu sekolah. Ia dapat menampung hingga 40 buku yang disediakan oleh pihak sekolah serta sumbangan dari guru-guru dan pelajar-pelajar.
+
+Kantin sekolah pula sentiasa membawa nostalgia gembira kerana sesi rehat yang dimulakan dengan goyangan tangan loceng tembaga oleh pembantu sekolah amat dinantinantikan. Bau harum kuah mee sup, mee rebus, tempe goring bercalit sambal, epok-epok serta bubur kacang dan terigu yang berharga antara 5—25 sen, jualan Wak Siti dan ‘Mami’ mengundang barisan panjang pelajar-pelajar yang ingin ‘mengalas’ perut. Yang menarik, kebanyakan para penggerai kantin sekolah adalah penduduk Kampung Pasiran sendiri.
+
+Sekitar pertengahan tahun 1970-an, permintaan bagi pendidikan sekolah aliran Melayu merosot. Murid-murid terakhirnya telah dipindahkan ke Sekolah Rendah Tanglin Tinggi bermula tahun 1974. Bangunan sekolah ini kemudiannya digunakan sebagai sekolah sementara bagi Sekolah Rendah Catholic dan Spastic Children’s Association sebelum ia dirobohkan bagi pembangunan “Revenue House”.
+
+Pada 29 Mac 2003, selepas hampir 30 tahun penutupan sekolah itu, satu majlis perjumpaan “menjunjung budi guru-guru” dianjurkan di Hotel Carlton. Majlis ini berjaya menarik lebih dari 30 bekas guru-guru dan 200 alumni bertemu mesra.
+
+#### **Jalan Pasiran Dalam Kenangan**
+
+Kini yang tinggal hanya nama “Jalan Pasiran” dan “Bukit Tunggal Road” dikenali sebagai daerah mewah di pinggir bandar Singapura.
+
+Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad (Kampung Pasiran Multipurpose Co-operative Society Limited) pula masih aktif beralamatkan 10, Gentle Road, Singapura 309194.
+
+Walaupun Kampung Pasiran tidak begitu dikenali berbanding kampung-kampung Melayu yang lain, namun ia telah melahirkan ramai pendidik dan para aktivis sosial serta budayawan. Antara mereka ialah mantan ahli parlimen kawasan Kampung Kembangan (1963- 1968), Haji Mohamed Arif Suradi, Cikgu-cikgu Mohamed Noh Hj. Noor, Aman Jalal, Husin Suradi, dramatis Rubiah Suparman, pelukis batik Sarkasi Said, pemuzik Haji Adnan Jaafar dan penyanyi Rokiah Sukaimi. Di kampung ini lah juga pembuat capal, Haji Ahmad Abdul Shukur tinggal dan bertukang capal. Capal-capal buatannya banyak ditempah dan dijual di kedai-kedai di Arab Street dan Geylang Serai pada zaman itu.
+
+Pe r pi nd a h a n p e nd u d u k- p e nd u d u k kampung ini ke estet perumahan moden dan penjualan tapak dan tanah rumah pusaka untuk pembangunan rumah-rumah mewah seawal tahun-tahun 1970an telah membawa perubahan kepada kawasan dan masjid itu. Dengan penjualan rumah sebandung keluarga Melayu terakhir di situ pada tahun 2008 dengan harga $6.5 juta, maka tamatlah penempatan penduduk Melayu selama lebih seabad di Kampung Pasiran. Pembangunan kawasan berdekatan pula dirancakkan dengan terbinanya Stesen MRT Novena, Hospital Tan Tock Seng, kompleks pusat membeli belah canggih dan beberapa bangunan komersil lain.
+
+Masjid Abdul Hamid, Kampung Pasiran, yang selalu dikunjungi oleh pekerja–pekerja Islam di sekitar kawasan itu terutama pada solat Jumaat, telah menjadi satu institusi sosial yang unik kerana diandaikan sebagai “wahah di bandar” (oasis in the city) lantaran kedudukan strategiknya sebagai tempat ibadah di pinggir bandar khususnya di kawasan perumahan mewah. Ia sering menjadi tumpuan dan jaringan silaturrahim bukan saja dari penduduk kampung itu sendiri tetapi juga dari penduduk kampung lain yang berdekatan yang sering “balik kampung” untuk bersalat dan bertemu teman-teman lama terutama pada bulan Ramadan serta Hari Raya Aidil Fitri dan Aidil Adha. Dengan “semangat kekitaan” yang kental terhadap masjid itu, bekas penduduk kampung merasakan bahawa setiap pertemuan mereka di situ dapat mencetuskan rasa nostalgia segar terhadap suasana dan kehidupan kampung serta keakraban hubungan persaudaraan sesama mereka.
+
+Pastinya, Kampung Pasiran dan Bukit Tunggal kekal mewarnai sejarah masyarakat Melayu di Singapura dan kenangan kehidupan di sini akan terus tersemat dalam ingatan bekas penduduk-penduduknya di manapun kini mereka menetap. Namun begitu generasi muda bekas penduduk kampung ini diharapkan dapat melanjutkan usaha menggali dan merakamkan sejarah kampung ini dengan lebih meluas lagi agar mereka dapat mengenali jati diri masing-masing dan mengabadikan warisan generasi lama.
+
+<b>Penghargaan</b><br>
+Penulis menghargai usahasama Professor Madya. Hadijah Rahmat, National Institute of Education, Nanyang Technological University, yang mengulas makalah ini.
+
+
+<div>
+<b>Sundusia Rosdi</b> is a Senior Librarian with the National Library Board. She has written five articles on Malay community and literature for <i>BiblioAsia</i> and many book reviews for the Malay newspaper <i>Berita Harian.</i></div>
 
 
 
