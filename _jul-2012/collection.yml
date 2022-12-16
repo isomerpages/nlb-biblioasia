@@ -2,6 +2,7 @@ collections:
   jul-2012:
     output: true
     order:
+      - Menyingkap Kenangan Kampung Pasiran dan Sekitarannya.md
       - Director's Column.md
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
