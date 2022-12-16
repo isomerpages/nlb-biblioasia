@@ -2,9 +2,6 @@ collections:
   jul-2012:
     output: true
     order:
-      - "“Rich and Strange”: The Manifold Remakings of English in Southeast
-        Asian Literatures.md"
-      - Menyingkap Kenangan Kampung Pasiran dan Sekitarannya.md
       - Director's Column.md
       - "Raffles and the Founding of Singapore: An Exhibition of Raffles’
         Letters.md"
@@ -15,3 +12,6 @@ collections:
       - "From Botanic Gardens to Gardens by the Bay: Singapore’s Experience in
         Becoming a Garden City.md"
       - "Tiong Bahru: Exploring Singapore’s First Public Housing Estate.md"
+      - Menyingkap Kenangan Kampung Pasiran dan Sekitarannya.md
+      - "“Rich and Strange”: The Manifold Remakings of English in Southeast
+        Asian Literatures.md"
