@@ -5,6 +5,9 @@ description: ""
 ---
 #### Traces the historical development of a village in Singapore called Kampung Pasiran and its surrounding areas using primary source materials from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Children.jpg">
+ <div style="background-color: white;">Anak-anak Kampung Pasiran di awal tahun 1960an. <i>Foto ihsan Puan Rohaidah Mohd. Yadri.</i></div>
+
 The article features the historical development of a village in Singapore named Kampung Pasiran (situated at Gentle Road/Newton Road) and its surrounding areas. Deriving primary material sources from oral records of the National Archives of Singapore and interviews with surviving kampung dwellers, the article includes the kampung pioneers, life during the Japanese Occupation, the role of its savings and thrifts co-operatives, the ties between the only Malay-stream school in the area with the villagers as well as the bond forged by the prominent Alsagoff family with the villagers in facilitating economic activities through employment. The function of the mosque as a religious as well as a socio-cultural focal point is also discussed. Owing to its central strategic location, the mosque, amidst its affluent residential environment now, is likened to an ‘oasis in the desert’.
 
 #### **Latarbelakang Perkampungan Melayu di Singapura**
@@ -13,11 +16,15 @@ Sebelum Sir Stamford Raffles mendarat di Singapura pada tahun 1819, telah pun wu
 
 Sebelum kedatangan Inggeris, pendatang-pendatang perlu mendapatkan izin Temenggung untuk membuka penempatan baru, berkebun atau mengusahakan hasil mahsul tanah. Kuasa Temenggung ini berterusan hingga termeterainya perjanjian 1819 dengan Kompeni Inggeris melalui Surat Perjanjian bertarikh 26 Jun, mengenai Pembahagian Hak dan Kedudukan Penduduk.2
 
-#### **Kampung di pPnggir Bandar**
+#### **Kampung di Pinggir Bandar**
 
 Professor Madya Hadijah Rahmat dalam bukunya, Kilat Senja telah menyenaraikan lebih 90 perkampungan yang pernah wujud di Singapura.3 Kebanyakan perkampungan Melayu terletak di persisiran pantai timur dan barat lantaran corak ekonomi berasas laut serta faktor kemudahan dan pengangkutan masa itu. Selain itu tersenarai juga beberapa kampung lain yang terletak di kawasan tengah Singapura seperti Kampung Cantek, Kampung Tempe, Kampung Woodleigh dan Kampung Pasiran.
 
 Generasi lama mungkin masih mengingati nama Kampung Pasiran walaupun kini yang ada hanyalah “Jalan Pasiran”. Kampung Pasiran terletak di daerah pinggir bandar Singapura berdekatan kawasan Newton/ Thomson Road. Ia pernah bertapak di kawasan mewah Gentle Road, Chancery Lane, Newton Road, Gilstead Road dan Buckley Road.
+
+<img style="width:80%;" src="images/Vol%208%20issue%202/Kampung%20Pasiran/Pasiran%20map.jpg">
+ <div style="background-color: white;">Lokasi Kampong Pasiran. Sumber: Singapore street directory and sectional maps 1966, Singapore: Ministry of Culture.
+</div>
 
 Dari simpang Newton Circus ke Kampung Pasiran yang bersaiz 10 ekar tanah, perjalanan kaki mengambil masa kurang dari 5 minit sejauh lebih 1 km. Pada awal tahun-tahun 1920an terdapat dua buah kolam ternak ikan dan udang milik seorang taukeh Cina, Ah Seng.4
 
@@ -28,6 +35,9 @@ Menurut cerita orang tua-tua dulu yang sampaikan oleh Allahyarham Haji Bahari Ha
 #### **Sejarah Kampung Pasiran**
 
 Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974-1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917- 1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
+
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/encik%20hamid.jpg">
+ <div style="background-color: white;">Encik Abdul Hamid Marang. <i>Foto ihsan Cikgu Kader Suradi.</i></div>
 
 Kedua-duanya Haji Abdul Latib dan Haji Abdul Hamid berasal dari Kendal di Jawa Tengah dan dipercayai berhijrah ke Singapura pada tahun 1870an. Dalam perjalanan pulang dari Mekah, mereka singgah di Singapura untuk bekerja bagi membayar hutang dengan ejen-ejen haji kerana perbelanjaan mereka ke Mekah. Tertarik dengan keadaan Singapura yang aman mantap dari segi ekonomi dan pekerjaan, lantas kedua-duanya menetap di sini dan ‘membuka’ Kampung Pasiran.
 
@@ -50,6 +60,10 @@ Pada awalnya terdapat kurang dari 10 pintu rumah-rumah papan setingkat beratapka
 Pada awalnya terdapat kurang dari 10 pintu rumah-rumah papan setingkat beratapkan zink didirikan di situ. Setiap unit rumah yang dapat menampung lebih 18 ahli keluarga dari 3 generasi mempunyai 3 hingga 4 bilik tidur, bilik tamu, bilik makan, dapur dan bilik air tersendiri. Penduduk kampung yang berkemampuan telah membina rumah-rumah bersebelahan rumah induk mereka dan disewakan dengan harga 5 hingga 6 dollars sebulan (termasuk kos bekalan api dan air pada tahun-tahun 1950an. Sewa rumah ini kemudian meningkat kepada $50 (sebulan di tahun-tahun 1970an).
 
 Selain kaum Jawa, Boyan dan Melayu, terdapat juga keluarga-keluarga Cina, India dan Serani yang tinggal di rumah-rumah batu sebandung berdekatan Gentle Road. Sebuah pondok orang-orang Bawean dikenali sebagai; “Pakherbung” di Buckley Road merupakan jiran terdekat orang-orang Kampung Pasiran.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Penduduk%20Kampung.jpeg">
+ <div style="background-color: white;">Penduduk Kampung Pasiran (1960an). <i>Foto ihsan Cikgu Kader Suradi.
+</i></div>
 
 #### **Era Pendudukan Jepun 1942-1945**
 
@@ -82,7 +96,14 @@ Lazimnya masjid berfungsi sebagai pusat masyarakat Melayu/Islam kerana peranan a
 
 Menurut sejarahnya, beliau datang ke Kampung Pasiran pada tahun 1931 untuk membeli tanah dan berjumpa Haji Abdul Latib bin Samydin. Sejurus mengetahui niat Haji Abdul Hamid ingin mendirikan masjid di atas tapak tanah yang bakal dibelinya, Haji Abdul Latib lantas mewakafkan tanahnya yang berukuran 189,45 kaki persegi di tapak tanah nombor unit 10 dan 12, Gentle Road sebagai tapak masjid kampung itu.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201932.jpg">
+ <div style="background-color: white;">Masjid Kampung Pasiran (1932—1960).  <i>Foto ihsan Cikgu Kader Suradi.
+</i></div>
+
 Masjid ini siap dibina pada tahun 1932 dan dibaik pulih beberapa kali dari tahun 1960 hingga 2002. Pada tahun 2000, kegiatan mencari dana pembangunan masjid dirancakkan melalui projek-projek seperti Teleamal, Majlis Hi-Tea, Projek Climbathon dan Jualan Nasi Amal untuk membina bangunan baru yang memerlukan S$1.7 juta. Untuk memupuk semangat “kampung”, penduduk, digalakkan bersalat jemaah serta mengadakan majlis keraian, kenduri kendara dan walimah di masjid selain majlis keagamaan seperti tahlil, maulid dan berkhatan dan lain-lain lagi.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201961.jpg">
+ <div style="background-color: white;">Masjid Kampung Pasiran (1961—2001). <i>Foto ihsan Cikgu Kader Suradi.</i></div>
 
 Sebagai pusat sosial selain fungsi keagamaan, Ustaz Haji Amir Rais yang pernah bertugas di masjid itu bukan sahaja mengajar ilmu agama malah mentadbirkan kelas-kelas tiusyen bagi pelajaran sekular seperti Matematik dan Bahasa Inggeris sebelum diambil alih oleh pihak MENDAKI kemudiannya.
 
@@ -93,6 +114,10 @@ Dengan usaha lembaga pentadbir masjid dan sokongan dari Majlis Ugama Islam, masj
 
 Sebuah sekolah yang terkenal di persekitaran itu dan kekal terpahat dalam ingatan generasi lama pada tahun-tahun 1960an hingga 1970an ialah Sekolah Rendah Perempuan Melayu Bukit Tunggal (SPMBT) yang pernah berdiri di Simpang Gilstead Road dengan Gentle Road (di tapak bangunan Revenue House).
 
+<img style="width:80%;" src="images/Vol%208%20issue%202/Kampung%20Pasiran/Darjah%206A.jpg">
+ <div style="background-color: white;">Penuntut-penuntut Darjah 6A bersama guru-guru Sekolah Perempuan Melayu Bukit Tunggal (1962). <i>Foto ihsan penulis.</i></div>
+
+
 Pada tahun 1959, di bawah pemerintahan Parti Tindakan Rakyat (PAP), yang menyokong penggunaan bahasa Melayu dalam pendidikan serta ransangan politik untuk penyatuan Tanah Melayu, pendidikan aliran Melayu di Singapura menjadi penting. Ini selari pula dengan Polisi Pendidikan 1959 Pemerintah Singapura yang memberikan layanan setara pada semua pendidikan sekolah dalam empat bahasa rasmi. Sejak itu kemasukan murid-murid ke sekolah rendah aliran Melayu semakin meningkat kerana sekolah Melayu merupakan pilihan ‘pertengahan’ terbaik bagi masyarakat Melayu di antara madrasah dengan sekolah Inggeris.11
 
 Tahun-tahun 1960an menyaksikan banyak sekolah-sekolah Melayu dibuka termasuk bangunan dua tingkat Sekolah Rendah Perempuan Melayu Bukit Tunggal (SPMBT) ini yang dibina di tapak bekas kolam Kampung Pasiran dulu.
@@ -100,6 +125,9 @@ Tahun-tahun 1960an menyaksikan banyak sekolah-sekolah Melayu dibuka termasuk ban
 Sekolah ini dibuka pada awalnya kepada penuntut-penuntut perempuan darjah satu. Pelajar-pelajar darjah 2 hingga 6 adalah yang dipindahkan dari Sekolah Perempuan Melayu Scotts Road pada 3 Januari 1961. Ia dibuka dengan rasminya pada 30 Julai 1963 oleh Setiausaha Parlimen (Pendidikan) Encik Lee Khoon Choy dan dihadiri oleh Menteri Pendidikan, Encik Yong Nyuk Lin.
 
 Di bawah kepimpinan guru besar sekolah ini, Cikgu Aishah Murkani dari tahun 1961 hingga 1974 yang dibantu oleh penolong-penolong guru besar termasuk Cikgu-cikgu Marhamah Mohd. Zain, Buang Mohd Amin, Sukinah Abu dan Jumaiyah Masbin , sekolah ini telah melahirkan ramai pelajar-pelajar perempuan cemerlang di lapangan masing-masing.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Guru%20Perempuan.jpg">
+ <div style="background-color: white;">Guru-guru dan pekerja-perkerja Sekolah Perempuan Melayu Bukit Tunggal (1961).  <i>Foto ihsan penulis.</i></div>
 
 Dengan sokongan barisan guru-guru berkaliber seperti Cikgu-cikgu Alimah Lob, Asmah Alsagoff, Asnah Asraf, Badariah Boslan, Hafsah Maarof, Juminah Ehsan, Kamariah Juraimi, Jamaliah Sulaiman, Joyah Jantan, Maimunah Dahlan, Maryam Zanariah Hussin, Mariam Junid, Norsiah Sujai, Warianti Kasman, Zainab Razak dan lain-lain lagi, mereka berjaya menyemai semangat yang membawa perubahan minda dan berdaya maju kepada pelajar-pelajarnya. Menurut Cikgu Kamariah Mohd Naib, 74 tahun (mantan guru SPMBT, 1961—1972) antara pelajar-pelajar SPMBT ialah Orkid Kamariah, anak perempuan Presiden Yusof Ishak (Presiden Singapura pertama, 1965—1970).
 
@@ -144,10 +172,3 @@ Penulis menghargai usahasama Professor Madya. Hadijah Rahmat, National Institute
 
 <div>
 <b>Sundusia Rosdi</b> is a Senior Librarian with the National Library Board. She has written five articles on Malay community and literature for <i>BiblioAsia</i> and many book reviews for the Malay newspaper <i>Berita Harian.</i></div>
-
-
-
-
-
-
-
