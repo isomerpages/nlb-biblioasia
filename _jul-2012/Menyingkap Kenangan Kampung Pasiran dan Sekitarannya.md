@@ -113,7 +113,7 @@ Dengan usaha lembaga pentadbir masjid dan sokongan dari Majlis Ugama Islam, masj
 
 Sebuah sekolah yang terkenal di persekitaran itu dan kekal terpahat dalam ingatan generasi lama pada tahun-tahun 1960an hingga 1970an ialah Sekolah Rendah Perempuan Melayu Bukit Tunggal (SPMBT) yang pernah berdiri di Simpang Gilstead Road dengan Gentle Road (di tapak bangunan Revenue House).
 
-<img style="width:80%;" src="images/Vol%208%20issue%202/Kampung%20Pasiran/Darjah%206A.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Darjah%206A.jpg">
  <div style="background-color: white;">Penuntut-penuntut Darjah 6A bersama guru-guru Sekolah Perempuan Melayu Bukit Tunggal (1962). <i>Foto ihsan penulis.</i></div>
 
 
@@ -159,7 +159,7 @@ Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad (Kampung Pasiran Multipurpos
 
 Walaupun Kampung Pasiran tidak begitu dikenali berbanding kampung-kampung Melayu yang lain, namun ia telah melahirkan ramai pendidik dan para aktivis sosial serta budayawan. Antara mereka ialah mantan ahli parlimen kawasan Kampung Kembangan (1963—1968), Haji Mohamed Arif Suradi, Cikgu-cikgu Mohamed Noh Hj. Noor, Aman Jalal, Husin Suradi, dramatis Rubiah Suparman, pelukis batik Sarkasi Said, pemuzik Haji Adnan Jaafar dan penyanyi Rokiah Sukaimi. Di kampung ini lah juga pembuat capal, Haji Ahmad Abdul Shukur tinggal dan bertukang capal. Capal-capal buatannya banyak ditempah dan dijual di kedai-kedai di Arab Street dan Geylang Serai pada zaman itu.
 
-Pe r pi nd a h a n p e nd u d u k- p e nd u d u k kampung ini ke estet perumahan moden dan penjualan tapak dan tanah rumah pusaka untuk pembangunan rumah-rumah mewah seawal tahun-tahun 1970an telah membawa perubahan kepada kawasan dan masjid itu. Dengan penjualan rumah sebandung keluarga Melayu terakhir di situ pada tahun 2008 dengan harga $6.5 juta, maka tamatlah penempatan penduduk Melayu selama lebih seabad di Kampung Pasiran. Pembangunan kawasan berdekatan pula dirancakkan dengan terbinanya Stesen MRT Novena, Hospital Tan Tock Seng, kompleks pusat membeli belah canggih dan beberapa bangunan komersil lain.
+Perpindahan penduduk-penduduk kampung ini ke estet perumahan moden dan penjualan tapak dan tanah rumah pusaka untuk pembangunan rumah-rumah mewah seawal tahun-tahun 1970an telah membawa perubahan kepada kawasan dan masjid itu. Dengan penjualan rumah sebandung keluarga Melayu terakhir di situ pada tahun 2008 dengan harga $6.5 juta, maka tamatlah penempatan penduduk Melayu selama lebih seabad di Kampung Pasiran. Pembangunan kawasan berdekatan pula dirancakkan dengan terbinanya Stesen MRT Novena, Hospital Tan Tock Seng, kompleks pusat membeli belah canggih dan beberapa bangunan komersil lain.
 
 Masjid Abdul Hamid, Kampung Pasiran, yang selalu dikunjungi oleh pekerja–pekerja Islam di sekitar kawasan itu terutama pada solat Jumaat, telah menjadi satu institusi sosial yang unik kerana diandaikan sebagai “wahah di bandar” (oasis in the city) lantaran kedudukan strategiknya sebagai tempat ibadah di pinggir bandar khususnya di kawasan perumahan mewah. Ia sering menjadi tumpuan dan jaringan silaturrahim bukan saja dari penduduk kampung itu sendiri tetapi juga dari penduduk kampung lain yang berdekatan yang sering “balik kampung” untuk bersalat dan bertemu teman-teman lama terutama pada bulan Ramadan serta Hari Raya Aidil Fitri dan Aidil Adha. Dengan “semangat kekitaan” yang kental terhadap masjid itu, bekas penduduk kampung merasakan bahawa setiap pertemuan mereka di situ dapat mencetuskan rasa nostalgia segar terhadap suasana dan kehidupan kampung serta keakraban hubungan persaudaraan sesama mereka.
 
@@ -254,12 +254,3 @@ Temubual dengan guru-guru Sekolah Perempuan Melayu Bukit Tunggal:
  [^12]: [Aishah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413031), 1971, p. 64.
 
  [^13]: [Salma](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19720315-1.2.40), 15 Mar 1972, p. 7.
-
-
-
-
-
-
-
-
-
