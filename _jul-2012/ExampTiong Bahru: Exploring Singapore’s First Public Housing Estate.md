@@ -51,6 +51,9 @@ In the early 1950s, the population of Tiong Bahru stood at around 400,000. Besid
 
 In 1955, the SIT was dissolved and the People’s Action Party government that had come to power in 1959 instituted the Housing Development Board (HDB) in its place. The HDB announced its first five-year building plan in December 1960, including the construction of some 900 flats at Tiong Bahru for lower-income groups. From March 1965, the HDB ended the rental policy of the pre-war flats and sold a number of them to their occupants, and evicted the remaining tenants who did not take up the sale option. The post-war flats came under HDB management in 1973 and residents had their 99-year leases renewed.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/HDB%20at%20Tiong%20Bahru1.jpg">
+ <div style="background-color: white;">Housing and Development Board Area Office at Tiong Bahru, 1964. <i>National Archives of Singapore.</i></div>
+	
 In 1966, the HDB announced that as part of its second five-year plan, an S$8.5 million housing scheme for 40,000 people would be developed on Kampong Tiong Bahru, which had been the site of several major fires.
 
 #### **Fires in Tiong Bahru**
@@ -68,6 +71,9 @@ By the 1980s, Tiong Bahru was seen as an estate with a greying population and ag
 
 The iconic Tiong Bahru Market underwent a two-year, $16.8 million redevelopment, with the new building following the Art Deco architecture of the estate.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/TB%20market1.jpg">
+ <div style="background-color: white;">Tiong Bahru Market. <i>All Rights Reserved. National Library Board Singapore 2007.</i></div>
+
 In 1995, a five-hectare site opposite Tiong Bahru Plaza, including 384 flats built in 1952, was chosen for the first Selective En-Bloc Redevelopment Scheme (SERS). The scheme was for older estates consider unsuitable for upgrading, and these 16 blocks of flats were acquired by the government and redeveloped into 1,402 new flats, more than three times the previous number.20
 
 From the early 2000s, Tiong Bahru began to attract a new generation of residents. Drawn by the area’s unique architecture and heritage, the inf lux of young professionals helped rejuvenate Tiong Bahru’s community life and retail scene, with art galleries, bookstores, cafes, restaurants and specialist boutiques setting up shop.21
@@ -84,7 +90,15 @@ SIT architects involved in the design of Tiong Bahru estate included Lincoln Pag
 
 The layout of the estate incorporated plenty of open spaces, with an emphasis on small neighbourhoods. The pre-war flats were neatly laid out and circled a central communal zone. This zone included a market and hawker centre, coffee shops, a pet shop and a Chinese temple. The hawker centre housed reputed *chwee kuay* (rice cakes), pig organ soup and *pao* (bun) stalls, and the pet shop and bird-singing corner attracted both local bird lovers and tourists. The bird corner at Block 53 along Tiong Bahru Road was started in 1957, and was flagged by international travel writers as a slice of heartland Singapore in the 1970s and 1980s.26 It closed for a period of redevelopment but has since reopened on the grounds of the Link Hotel.
 
+
+
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/Flautist%20at%20Tiong%20Bahru1.jpg">
+<div style="background-color: white;">Flautist Herbie Mann performing at the Tiong Bahru bird corner, 1984. <i>National Archives of Singapore.</i></div>
+
 The pre-war flats showed the influence of the shophouse, the prevalent dwelling form among Singapore’s urban population at the time. The flats were based on a modified shophouse plan featuring courtyards, air-wells and back-lanes, but also combining the aspects of a modern apartment and designed in a way that provided a high level of privacy for individual homes.27 A new style took hold in the form post-war flats, which were slab blocks of long, narrow buildings bordered by greenery. These walk-up apartments had clean architectural facades with rounded balconies and exterior spiral staircases.28
+
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/kim%20pong%20rd.jpg">
+ <div style="background-color: white;">Kim Pong Road, 1992. It was named after Low Kim Pong, whose firm Chop Ban San was once the largest druggist in Singapore. <i>From the Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 In the first few decades following its pre-war origins, Tiong Bahru estate gained the colloquial tag of *mei ren wo* (Mandarin for “den of beauties”). This nickname came about as the estate developed a reputation for housing the mistresses of many rich men, as well as nightclub singers and hostesses working in the nearby Keong Saik Road red-light district and Great World Cabaret.29 The pre-war flats were also called *puay kee chu* or “aeroplane houses” in Hokkien, as their design resembled that of the control tower at Kallang Airport, constructed around the same time. The estate was also dubbed “the Hollywood of Singapore” by locals who had previously only seen flats in American movies.30
 
