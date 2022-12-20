@@ -32,7 +32,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 读万卷书，可以增加识度；行万里路，足于开拓 境界。几十年来，林子平到处写生，足迹遍及印度、 东南亚、欧洲、中国、加拿大等地。心中积累了千山 万壑，千树万树的创作素材。林老可说是“常年画树 画不足”，2008年的“心向系列”，就是一组以树 为对象的水墨画作，它是艺术家内在视觉之所得， 纯然是心象而非物象。他自己说过：“以前是我见我 画，现在是我思我画”3。然而，不管是我见我画， 还是我思我画，都经过因“心”造“境”，随着艺术 家的心思造境，勇于取舍，才能达致“妙造自然”。
 
-<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/附图1.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture3.jpg">
  <div style="background-color: white;">附图1: 张继《枫桥夜泊》<br> 月落乌啼霜满天，江枫渔火对愁眠。<br> 姑苏城外寒山寺，夜半钟声到客船。<br> (原作为国家图书馆许少全藏品)</div>
 
 
@@ -47,7 +47,8 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 又如《心向系列19》5盘根错节，枝亚交叉，意态奇逸的枯笔，着力纸上，产生飞白的效果。 从这两幅画我们可读到古拙、生涩、天真、淳厚的线 条与诗一般的情思，而这种传统笔法意蕴的是民族的 情态。
 
-<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/附图3.jpg">
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture4.jpg">
  <div style="background-color: white;">附图3: 张继《枫桥夜泊》<br> (原作为国家图书馆许少全藏品).</div>
 
 在一次访谈中，林子平说了以下两段话： 我的水墨画、油画、写字都共同发展。你要知道 我们都是亚洲人，在艺术上要有自己的民族特色。 中国画（水墨画）非常注重用笔，表现线条；在这些 方面与外国人比，我们会压倒他们。而西方在色彩上 用的非常好，我们比不过人家。我们要学会了解自己 的优势、民族特色才行。6
