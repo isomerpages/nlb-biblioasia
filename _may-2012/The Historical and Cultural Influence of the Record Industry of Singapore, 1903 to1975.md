@@ -89,9 +89,18 @@ Despite the existence of a few small record companies in Singapore like Horse Br
 
 It was not until 1963 that a record company decided to release a record by a Singapore pop band. The company was Philips, and the record was by the band The Crescendos. Although it has been claimed that the 1961 concert in Singapore by Cliff Richard and the Shadows inspired the emergence of the local guitar-based pop bands that have become so well known as representative of 1960s Singapore music,33 it was really the phenomenal success of the first record by the Crescendos that caused the industry to finally realise that recording local pop music had the potential to be a money-making venture.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/RecordIndustry/Capture4.jpg">
+ <div style="background-color: white;">The Crescendos’ first recording, released by Philips in 1963, was the first recording by a Singapore pop band to be released by a recording company. <i>National Archives of Singapore.</i></div>
+
 By 1965, Philips had initiated a series of local releases that eventually resulted in a very fine catalogue of local pop releases over the next few years.34 Other labels were quick to follow suit, and soon several small local labels began actively recording a wide range of local popular music. Between 1965 and 1969, over 120 different labels released local recordings in Singapore. This figure did not include the long established EMI labels (Columbia, Pathe, Parlophone, Regal, Odeon, etc.), or any of the numerous labels based in Malaysia, Indonesia, Hong Kong, Taiwan and elsewhere that were also distributed (and sometimes pressed) in Singapore, or the many British, European and US labels that released material recorded in those countries for the Singapore market.
 
-In a single decade (1965—1975), the Singapore record industry produced a huge range of recordings in a wide variety of styles. Local content included recordings in Chinese, Malay, English and other language groups ranging from traditional forms to the latest pops. The majority of recordings where in Malay or Chinese, with Mandarin and Cantonese accounting for most Chineselanguage recordings, plus some in various dialects such as Teochew or Hokkien. There were also a significant number of English-language recordings, and many instrumental recordings (ranging from Western-style R&B to Chinese songs played in the current “A-Go-Go” style).
+<img style="width:80%;" src="/images/Vol%208%20issue%201/RecordIndustry/Philips%20Phonographic%20recording.jpg">
+ <div style="background-color: white;">The recording commemorating the official opening of Philips Phonographic Industries Ltd. <i>Author.</i></div>
+
+In a single decade (1965—1975), the Singapore record industry produced a huge range of recordings in a wide variety of styles. Local content included recordings in Chinese, Malay, English and other language groups ranging from traditional forms to the latest pops. The majority of recordings where in Malay or Chinese, with Mandarin and Cantonese accounting for most Chinese language recordings, plus some in various dialects such as Teochew or Hokkien. There were also a significant number of English-language recordings, and many instrumental recordings (ranging from Western-style R&B to Chinese songs played in the current “A-Go-Go” style).
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/RecordIndustry/Workers%20Phonographic%20Limited1.jpg">
+ <div style="background-color: white;">Workers at the Phonographic Industries Limited factory at Tanglin Halt, 1967. <i>MITA.</i></div>
 
 Apart from satisfying the local market, many companies exported a significant percentage of their production, especially to Malaysia and Indonesia. One relatively small producer, Kwan Sia Record Company, reported that half of the 8,000 copies pressed of a single LP release were exported to Indonesia at a value of about $30,000.35
 
