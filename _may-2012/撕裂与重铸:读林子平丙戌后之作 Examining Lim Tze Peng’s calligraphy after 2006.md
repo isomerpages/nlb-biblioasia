@@ -7,7 +7,7 @@ Singapore veteran artist and 2003 Cultural Medallion Award winner Lim Tze Peng i
 
 In this article, Yeo Mang Thong examines the changes in Lim Tze Peng’s painting style after the year 2006, in particular the shift from “painting what one sees” to “painting from one’s heart”. In Yeo’s opinion, the *Inroads* series exhibited in 2008 was a good representation of Lim’s switch from realistic painting to works that are relatively more abstract. He observes that Lim derives his artistic inspiration from the emotions that he senses in his surroundings. Yeo also notes similar shifts in the style of Lim’s Chinese calligraphy works, from neater and cleaner pieces to those with freehand strokes, evoking a lively and vibrant aura. Yeo views this change in style as a result of Lim’s carefree life after retirement, and also Lim’s perseverance in achieving higher levels of artistic excellence.
 
-Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx">https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx</a>. </div>
+Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx">https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx</a>. 
 
 
 林子林子平是新加坡艺坛上具有强烈自我超越意识的书法家、画家。 从事艺术，必须敢于探索、勇于创新，才能掣鲸鱼于碧海。2006（农历丙戌）年，已 是耄耋之年的林子平，苦思冥想，甚至时有“不知如何下笔”的感叹！虽然如此，他 仍终日笔耕不辍，殚精竭虑，在艺术创作的道路上，摸索前进，以恢宏的气度，深厚 的传统笔法和天马行空的想象力，别开异径，创造一种迥异于之前的书画作品。
@@ -67,7 +67,3 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 <div>
 <b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists\].</div>
-
-
-
-
