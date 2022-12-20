@@ -10,7 +10,7 @@ In this article, Yeo Mang Thong examines the changes in Lim Tze Peng’s paintin
 Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx">https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx</a>. 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture.jpg">
-<div style="background-color: white;">《心向》</div>
+<div style="background-color: white;"><center>《心向》</center></div>
 
 
 林子林子平是新加坡艺坛上具有强烈自我超越意识的书法家、画家。 从事艺术，必须敢于探索、勇于创新，才能掣鲸鱼于碧海。2006（农历丙戌）年，已 是耄耋之年的林子平，苦思冥想，甚至时有“不知如何下笔”的感叹！虽然如此，他 仍终日笔耕不辍，殚精竭虑，在艺术创作的道路上，摸索前进，以恢宏的气度，深厚 的传统笔法和天马行空的想象力，别开异径，创造一种迥异于之前的书画作品。
@@ -119,15 +119,3 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 [^8]:  同注3, 页145, 146。
 
 [^9]:  见《求索》Singapore Tyler Print Institute出版, 2006) 页6。
-
-
-
-
-
-
-
-
-
-
-
-
