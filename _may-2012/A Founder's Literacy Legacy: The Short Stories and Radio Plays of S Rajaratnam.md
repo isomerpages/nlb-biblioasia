@@ -10,6 +10,9 @@ description: "One of Singapore’s founding leaders, S. Rajaratnam, is today bes
 ---
 #### One of Singapore’s founding leaders, S. Rajaratnam, is today best known for drafting the Singapore Pledge and for being the country’s first Foreign Minister. His biographer Irene Ng, who recently edited the collection The Short Stories and Radio Plays of S. Rajaratnam, reveals his little-recognised literary side and discusses its importance to Singapore.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Rajaratnam.jpg">
+ <div style="background-color: white;">Rajaratnam in his office. <i>National Archives of Singapore.</i></div>
+
 
 
 
@@ -119,12 +122,3 @@ Indeed, Rajaratnam’s early writings add depth and distinction to our literary 
 
 <div>
 <b>Irene Ng</b> is a Writer-in-Residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited  <i>The Short Stories and Radio Plays of S. Rajaratnam,</i> published in 2011. She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.
-	
-	
-
-
-
-
-
-
-
