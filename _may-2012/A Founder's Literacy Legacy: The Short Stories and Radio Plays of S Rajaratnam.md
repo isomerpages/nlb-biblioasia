@@ -27,7 +27,7 @@ His short stories were published in several journals and anthologies in the 1940
 
 By the mid-40s, Rajaratnam was billed “one of the leading Indian short story writers” in some anthologies. His reputation among the literary cognoscenti was sealed when his work appeared alongside those of the literary greats in an international anthology published in 1947. The volume was titled *A World of Great Stories: 115 Stories, The Best of Modern Literature*. The anthology also featured works by Ernest Hemingway, William Faulkner, Scott Fitzgerald, Thomas Wolfe, John Steinbeck and James Joyce, to name a few.
 
-<img style="width:80%;" src="images/Vol%208%20issue%201/Rajaratnam/Rajaratnam%20Book.jpg">
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Rajaratnam%20Book.jpg">
 <div style="background-color: white;">Rajaratnam was described as “one of the leading Indian short story writers” in <i>Modern International Short Stories,</i> published in 1947 (Left). His stories “The Locusts” and “What Has to Be” first appeared in <i>Life and Letters</i> in August 1941 (Right). <i>Courtesy of Graham Berry and the Institute of Southeast Asian Studies.</i></div>
 
 His stories addressed themes of disaster and death, oppression and injustice, and the fears and follies of man, but also coursing through them is the transformative power of the human spirit and of reason. Although most of his stories are set against South Asian and Malayan backdrops, they are not simply stories of a time or place, but a sophisticated reframing of the forces and ideas that shape the world in which we live. In his stories, we follow the fortunes of characters as they define themselves or are defined by various combinations of their past, the choices they make, and the forces that act upon them. Do characters make their fate or suffer it?
@@ -37,9 +37,6 @@ His stories are powerful in their imagination and notable for their literary qua
 His stories are powerful in their imagination and notable for their literary quality. Some of them, given their universal themes, have travelled beyond the English-speaking world and have been translated into French and German.
 
 One can find its ideological basis in the radio plays that he wrote for broadcast over Radio Malaya in 1957, two years before the People’s Action Party came into power in 1959. Then a newspaper journalist and a freelance radio scriptwriter, he animated his ideas through a picaresque group of characters for a six-part drama series *A Nation in the Making*.
-
-<img style="width:50%;" src="images/Vol%208%20issue%201/Rajaratnam/Short%20Stories%20Radio%20Plays.jpg">
- <div style="background-color: white;"><i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011) is an anthology of Rajaratnam’s early literary works. <i>Courtesy of Epigram Books.</i></div>
 
 They were broadcast over Radio Malaya at a time of political upheaval, when Singapore and the peninsula were grappling with colonialism and agitating for freedom.
 
@@ -63,6 +60,10 @@ In reading his plays, what comes across with unmistakable clarity is his prodigi
 #### **Context**
 
 The seven short stories, which I collected in the book *The Short Stories and Radio Plays of S. Rajaratnam*, were written during his transformative years in London.
+
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Rajaratnam/Short%20Stories%20Radio%20Plays.jpg">
+ <div style="background-color: white;"><i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011) is an anthology of Rajaratnam’s early literary works. <i>Courtesy of Epigram Books.</i></div>
 
 When he arrived in London to study for his law degree at King’s College in 1935, he was aged 20. He came from a sheltered background, raised in the rubber plantations of Seremban by his caste-conscious Jaffna Tamil family. They were devout Hindus.
 
