@@ -13,9 +13,6 @@ description: "One of Singapore’s founding leaders, S. Rajaratnam, is today bes
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Rajaratnam.jpg">
  <div style="background-color: white;">Rajaratnam in his office. <i>National Archives of Singapore.</i></div>
 
-
-
-
 S. Rajaratnam is perhaps best remembered for his visionary role in shaping the national ideology and framing the foreign policy of Singapore as one of its founding leaders charting a yet-unknown future. What is less recognised is the rich literary legacy he left behind. Its creation predates the independence of Singapore in 1965, and even its self-governing status in 1959.
 
 Before there was the politician and ideologue, there was the storyteller and the writer. Indeed, the conception and development of Singapore’s national ideology and foreign policy arguably owes much to the imaginative writer and creative thinker in him.
@@ -26,9 +23,12 @@ I would like to divide this essay into three parts. First, a brief introduction 
 
 It is important to recognise that Rajaratnam was not just any writer, but a great one, once acclaimed in London—the centre of the English literary scene—where he lived for 12 years from 1935 to 1947. During the bleak years of World War II, when he turned to writing to eke a living, he proved himself to be a writer of uncommon imagination and talent.
 
-His short stories were published in several journals and anthologies in the 1940s, and caught the attention of literary greats E.M. Forster and George Orwell. Forster described Rajaratnam’s debut “Famine”, published in 1941, as “touching and well-constructed” in one of his radio talks for the British Broadcasting Corporation (BBC). Orwell, who would later achieve fame for the political novels Animal Farm and *Nineteen Eighty-Four*, was working at the BBC in the early 1940s and invited Rajaratnam to write radio scripts.
+His short stories were published in several journals and anthologies in the 1940s, and caught the attention of literary greats E.M. Forster and George Orwell. Forster described Rajaratnam’s debut “Famine”, published in 1941, as “touching and well-constructed” in one of his radio talks for the British Broadcasting Corporation (BBC). Orwell, who would later achieve fame for the political novels *Animal Farm* and *Nineteen Eighty-Four*, was working at the BBC in the early 1940s and invited Rajaratnam to write radio scripts.
 
 By the mid-40s, Rajaratnam was billed “one of the leading Indian short story writers” in some anthologies. His reputation among the literary cognoscenti was sealed when his work appeared alongside those of the literary greats in an international anthology published in 1947. The volume was titled *A World of Great Stories: 115 Stories, The Best of Modern Literature*. The anthology also featured works by Ernest Hemingway, William Faulkner, Scott Fitzgerald, Thomas Wolfe, John Steinbeck and James Joyce, to name a few.
+
+<img style="width:80%;" src="images/Vol%208%20issue%201/Rajaratnam/Rajaratnam%20Book.jpg">
+<div style="background-color: white;">Rajaratnam was described as “one of the leading Indian short story writers” in <i>Modern International Short Stories,</i> published in 1947 (Left). His stories “The Locusts” and “What Has to Be” first appeared in <i>Life and Letters</i> in August 1941 (Right). <i>Courtesy of Graham Berry and the Institute of Southeast Asian Studies.</i></div>
 
 His stories addressed themes of disaster and death, oppression and injustice, and the fears and follies of man, but also coursing through them is the transformative power of the human spirit and of reason. Although most of his stories are set against South Asian and Malayan backdrops, they are not simply stories of a time or place, but a sophisticated reframing of the forces and ideas that shape the world in which we live. In his stories, we follow the fortunes of characters as they define themselves or are defined by various combinations of their past, the choices they make, and the forces that act upon them. Do characters make their fate or suffer it?
 
@@ -37,6 +37,9 @@ His stories are powerful in their imagination and notable for their literary qua
 His stories are powerful in their imagination and notable for their literary quality. Some of them, given their universal themes, have travelled beyond the English-speaking world and have been translated into French and German.
 
 One can find its ideological basis in the radio plays that he wrote for broadcast over Radio Malaya in 1957, two years before the People’s Action Party came into power in 1959. Then a newspaper journalist and a freelance radio scriptwriter, he animated his ideas through a picaresque group of characters for a six-part drama series *A Nation in the Making*.
+
+<img style="width:50%;" src="images/Vol%208%20issue%201/Rajaratnam/Short%20Stories%20Radio%20Plays.jpg">
+ <div style="background-color: white;"><i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011) is an anthology of Rajaratnam’s early literary works. <i>Courtesy of Epigram Books.</i></div>
 
 They were broadcast over Radio Malaya at a time of political upheaval, when Singapore and the peninsula were grappling with colonialism and agitating for freedom.
 
@@ -50,9 +53,12 @@ As one of his characters in the radio scripts says: “We must make an act of fa
 
 He was fearless in attacking the problems of the day, and used the radio dramas as sources of ethical instruction and political education. Reading them today, his words still seem immediate, powerful and courageous.
 
-mmediate, powerful and courageous. Reading the scripts, one is struck by the clarity and conviction with which Rajaratnam laid out the arguments against racial politics and the idea that a nation should be built on a common race, religion or language. He deployed quotes from leading thinkers, such as Ernest Renan and John Stuart Mill, to contend that the vital element that brings a nation to life is a people united by a sense of common history and common destiny—or as he quoted H.A.L. Fisher, “common sufferings, common triumphs, common achievements, common memories and common aspirations”,
+Reading the scripts, one is struck by the clarity and conviction with which Rajaratnam laid out the arguments against racial politics and the idea that a nation should be built on a common race, religion or language. He deployed quotes from leading thinkers, such as Ernest Renan and John Stuart Mill, to contend that the vital element that brings a nation to life is a people united by a sense of common history and common destiny—or as he quoted H.A.L. Fisher, “common sufferings, common triumphs, common achievements, common memories and common aspirations”,
 
 In reading his plays, what comes across with unmistakable clarity is his prodigiously imaginative flair. Their recordings, however, have disappeared into thin air. I found their scripts among Rajaratnam’s private papers in the course of my research for the biography on him. The biography, titled *The Singapore Lion: A Biography of S. Rajaratnam*, was published in early 2010. The radio scripts are now preserved in the Institute of Southeast Asian Studies Library, which houses the S. Rajaratnam Private Archives Collection.
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Rajaratnam/Necessary%20Stage.jpg">
+ <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
 
 #### **Context**
 
