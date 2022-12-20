@@ -65,9 +65,15 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 这两幅书法作品写于2008年。8林子平在落笔之 前，心中营造出诗意，书写时任情恣性，心手达情。 线条横、竖、弧形互相交错，随意性特强，充满跳跃 与动感。笔力苍劲，绝无纤弱浮滑之笔。墨色浓干并 具，间中由于运笔着力，飞白与浓墨对比，加强了作 品的节奏感。结体大小错落相参，字与字之间，行与 行之间，交叠相挤，然而它不但没予人一种窒息感， 反而是通过线条、墨色浓干，建构出不同形状、黑白 分明的几何空间，塑造出“疏可走马、密不透风”， 张弛有致，和谐统一的艺术效果。
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/《寻梦》.jpg">
+ <div style="background-color: white;">《寻梦》</div>
+
 这种“疏可走马、密不透风”的艺术结构语言与 收集在《林子平墨迹》（1991年出版）的书法是截 然不同的。它与前者既不是一贯的，也缺乏沿袭性， 是一种撕裂的；重铸的、崭新的艺术结构语言。一如 前文所述，丙戌年之后，林子平的创作观是“以前是 我见我画，现在是我思我画”，写的已经不再是物 象而是心象，并以大写意取代之前的细腻精致。这， 显然也酝酿出书法创造上的新思维。这两幅作品，笔 墨随着情性飞动，毫不造作，世俗的美丑、法度，甚 至毁誉，均抛于九霄云外，形成了一种结构天成的艺 术美。说它是重铸的，整个外貌与前期作品相比令人 耳目一新，然而内涵的笔墨还是传统的；说它是崭新 的，因为纵观新加坡第一代书法家，如施香沱、陈人 浩、黄火若、黄载灵、黄勖吾、崔大地或者颜绿等， 他们在章法的处理上，一般都服膺于传统。林子平不 甘画地为牢，力求创新。就这个意义上说，他给新加 坡的书法艺术呈现出一个不一样的风貌。这两幅书法 给人的视觉享受不在于哪一个字意态奇逸，哪一个字 精神飞动，而是整幅字中的画意，如“惟见长江天际 流”数字，给读者的视觉，恰似一江浩浩东去的春水 向天际远逝。林子平这种敢于打破传统，极力表达个 性的主观意念，应该是人书俱老，水到渠成的自然变 化。自我超越、创新，应该建立在尊重固有的艺术文 化以及自身深厚传统笔法的基础上，否则是胡搞！这 与一般标榜前卫艺术的“书画家”，以低劣的手法， 哗众取宠，蛊惑一味追逐时尚的人士，是不可同日而 言的。
 
 附图1-3这三幅是林老过渡到“疏可走马、密不 透风”的艺术语言的作品，其自我超越而摸索前进的 心路历程，从中看出端倪。
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.jpg">
+ <div style="background-color: white;">柳宗元《江雪》<br> 千山鸟飞绝，万径人踪灭。<br> 孤舟蓑笠翁，独钓寒江雪。<br> (原作为国家图书馆许少全藏品)</div>
 
 林子平这种先驱式的艺术经营手法，不是每 个书画家都敢于去冒险，去尝试。我读着林子平 的书法《江雪》，心绪随着宣纸上的笔墨舞动， 飞到多年前林老的一张照片——孤立作画，目 光凝视前方，那种执着与专注，到了浑然忘我的 “痴”境。9 细味其笔情，在撕裂与重铸的求索路上， 他，也可说是独钓“寒江”的长者。
 
@@ -89,4 +95,14 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 
 <div>
-<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists\].</div>
+<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists].</div> 
+
+
+
+	
+	
+	
+	
+	
+	
+	
