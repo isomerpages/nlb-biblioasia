@@ -95,14 +95,4 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 
 <div>
-<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists].</div> 
-
-
-
-	
-	
-	
-	
-	
-	
-	
+<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists].</div>
