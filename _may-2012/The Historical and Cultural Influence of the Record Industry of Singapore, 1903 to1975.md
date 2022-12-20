@@ -7,6 +7,9 @@ description: The Historical and Cultural Influence of the Record Industry of
 ---
 ####  Over a period of 75 years during the last century, Singapore was one of the most important centres for the record industry in Southeast Asia.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/RecordIndustry/Odeon%20Label1.jpg">
+ <div style="background-color: white;">A recording released by the Odeon label.</div>
+
 Despite its considerable economic and cultural importance, however, there has been very little published about the Singapore record industry. So far, there has not been a single book on this subject and the two journal articles that have appeared over the last 30 years1 cover only part of the story.
 
 By 1903, when the first commercial recordings made in Asia by Fred Gaisberg appeared, Singapore was already a thriving centre of trade and commerce in the region. It had already been exposed to Edison’s new invention of the phonograph in 1879,2 and in 1892 the Improved Phonograph (which was the model for the first commercially available machines) was demonstrated in Singapore by Professor Douglas Archibald,3 who had travelled from Australia where he had been giving lectures and demonstrations of the device since 1890.4 This early phonograph, which played wax cylinder records, had first been advertised in Singapore by Robinson & Co. in the same year,5 and Emile Berliner’s gramophone, which played disc records, was being sold in Singapore by John Little & Co. Ltd. in 1899.6
@@ -18,7 +21,11 @@ There are no contemporary accounts published in Singapore newspapers of Gaisberg
 Another procedure introduced by Gaisberg was that when he first arrived in Singapore in December 1902, he made arrangements for suitable artists to be available for recording when the expedition returned. It became standard practice for the local agent of a record company to arrange for the artists to be recorded to be available in Singapore when the recording engineers and equipment arrived on their periodic visits, and he also worked with them to select a suitable repertoire in advance. Artists would frequently travel from their home cities in Malaya or Java to Singapore for this purpose.8
 
 This method of arranging recording sessions in Singapore was used up until the 1950s. The planning would take place over several months so that when the recording engineer arrived, many recordings could be made in a relatively short time. In those days there were no permanent recording studios in Singapore or anywhere else in Asia. Such places only existed in the main centres of the record industry such as New York or London. In smaller or more remote locations such as Singapore, a hall or rooms in a hotel were normally rented for a few days or weeks for recording purposes as such facilities would not be needed again until the next visit of the recording engineer (which was usually only once a year at most).
+
 The earliest known published account of a Singapore recording session in 1912 refers to a “temporary recording department”,9 and the earliest known report in a Singapore newspaper of a local recording session in 1929 notes that two rooms at the YMCA “were utilised by the Columbia Gramophone Co., the local agents for whom are Messrs. Robinson Piano Co. Ltd., as a studio for recording”.10
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/RecordIndustry/Malay-Columbia.jpg">
+ <div style="background-color: white;">A Malay recording released by Columbia Phonograph Co.</div>
 
 The type of recordings that were made also remained little changed until the 1960s. The first recordings in 1903 were of Malay songs, which were followed soon after by recordings of Chinese opera and dialect songs. The record companies operated on the principal that they did not record material in one location that could easily be made in another location with a higher standard of performance. This meant that in Singapore, the most highly developed performers were those singing material unique to Southeast Asia, and English-language songs, for example, were hardly ever recorded until the 1960s since the companies could import a wide range of English-language performances by famous artists from Britain, Europe or America for those who wanted such recordings.
 
@@ -96,17 +103,3 @@ By the early 1970s the Singapore record industry had come a long way from the fi
 
 <div>
 <b>Ross Laird</b> was awarded the Lee Kong Chian Research Fellowship in 2010. This article presents his research into the history of the music recording industry in Singapore. Prior to the fellowship, Ross was a sound archivist with the National Film & Sound Archive of Australia. He is the author of <i>Sound Beginnings: The early record industry in Australia</i>  (2000).</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
