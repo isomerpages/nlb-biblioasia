@@ -7,7 +7,7 @@ description: The Historical and Cultural Influence of the Record Industry of
 ---
 ####  Over a period of 75 years during the last century, Singapore was one of the most important centres for the record industry in Southeast Asia.
 
-<img style="width:60%;" src="/images/Vol%208%20issue%201/RecordIndustry/Odeon%20Label1.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%201/RecordIndustry/Odeon%20Label1.jpg">
  <div style="background-color: white;">A recording released by the Odeon label.</div>
 
 Despite its considerable economic and cultural importance, however, there has been very little published about the Singapore record industry. So far, there has not been a single book on this subject and the two journal articles that have appeared over the last 30 years1 cover only part of the story.
@@ -81,6 +81,9 @@ A 1955 press report states that “the Singapore branch manager of The Gramophon
 
 While it is true that in the late 1950s the sales of 78 rpm records were in decline, this was not a general decline of the record industry as this decline was more than counterbalanced by increased sales of 45 rpm and LP vinyl records. Combined sales were actually increasing, and the changeover from the 78 rpm format to 45 rpm and LP discs was a normal development due to new types of records becoming available. In fact, in 1958 a new manufacturer of 78 rpm records was established in Singapore.32 This company initially pressed 78 rpm records from masters recorded in America that were issued on the Colortune and Coral labels. These were not local recordings, but it was the first company to manufacture records in Singapore, and to set up such a factory is hardly a sign that the record industry was in decline. Eventually the Colortune and Coral labels were also produced as 45 rpm vinyl pressings, and by the early 1960s the company began producing the Ruby label as 45 rpm and LP discs. All issues on Ruby were local recordings.
 
+<img style="width:80%;" src="images/Vol%208%20issue%201/RecordIndustry/Capture3.jpg">
+ <div style="background-color: white;">A 1950 advertisement promoting the Telefunken tape recorder and record player.<i> National Archives of Singapore.</i></div>
+
 During the pre-war period, all records sold in Singapore were manufactured in Britain, Europe, India or Shanghai. Since the Ruby Record Co. was a relatively small operation, the importation of records manufactured elsewhere continued well into the late 1960s, when several larger record factories were established in Singapore. During the 1950s and most of the 1960s, the majority of records sold in Singapore were manufactured in India, Britain or Australia.
 
 In the early 1960s, the record industry in Singapore was still dominated by EMI (as had been the case since the 1920s). The organisation was famously conservative when it came to signing up local talent in Asia, and the company probably saw no reason to go beyond the well established forms of local popular music such as Malay *kronchong* and Chinese opera, which it had been recording for many years.
@@ -94,7 +97,7 @@ It was not until 1963 that a record company decided to release a record by a Sin
 
 By 1965, Philips had initiated a series of local releases that eventually resulted in a very fine catalogue of local pop releases over the next few years.34 Other labels were quick to follow suit, and soon several small local labels began actively recording a wide range of local popular music. Between 1965 and 1969, over 120 different labels released local recordings in Singapore. This figure did not include the long established EMI labels (Columbia, Pathe, Parlophone, Regal, Odeon, etc.), or any of the numerous labels based in Malaysia, Indonesia, Hong Kong, Taiwan and elsewhere that were also distributed (and sometimes pressed) in Singapore, or the many British, European and US labels that released material recorded in those countries for the Singapore market.
 
-<img style="width:80%;" src="/images/Vol%208%20issue%201/RecordIndustry/Philips%20Phonographic%20recording.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%201/RecordIndustry/Philips%20Phonographic%20recording.jpg">
  <div style="background-color: white;">The recording commemorating the official opening of Philips Phonographic Industries Ltd. <i>Author.</i></div>
 
 In a single decade (1965—1975), the Singapore record industry produced a huge range of recordings in a wide variety of styles. Local content included recordings in Chinese, Malay, English and other language groups ranging from traditional forms to the latest pops. The majority of recordings where in Malay or Chinese, with Mandarin and Cantonese accounting for most Chinese language recordings, plus some in various dialects such as Teochew or Hokkien. There were also a significant number of English-language recordings, and many instrumental recordings (ranging from Western-style R&B to Chinese songs played in the current “A-Go-Go” style).
