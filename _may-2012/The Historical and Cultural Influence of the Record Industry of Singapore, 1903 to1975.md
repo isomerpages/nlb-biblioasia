@@ -7,7 +7,7 @@ description: The Historical and Cultural Influence of the Record Industry of
 ---
 ####  Over a period of 75 years during the last century, Singapore was one of the most important centres for the record industry in Southeast Asia.
 
-<img style="width:80%;" src="/images/Vol%208%20issue%201/RecordIndustry/Odeon%20Label1.jpg">
+<img style="width:60%;" src="/images/Vol%208%20issue%201/RecordIndustry/Odeon%20Label1.jpg">
  <div style="background-color: white;">A recording released by the Odeon label.</div>
 
 Despite its considerable economic and cultural importance, however, there has been very little published about the Singapore record industry. So far, there has not been a single book on this subject and the two journal articles that have appeared over the last 30 years1 cover only part of the story.
