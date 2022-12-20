@@ -57,8 +57,8 @@ Reading the scripts, one is struck by the clarity and conviction with which Raja
 
 In reading his plays, what comes across with unmistakable clarity is his prodigiously imaginative flair. Their recordings, however, have disappeared into thin air. I found their scripts among Rajaratnam’s private papers in the course of my research for the biography on him. The biography, titled *The Singapore Lion: A Biography of S. Rajaratnam*, was published in early 2010. The radio scripts are now preserved in the Institute of Southeast Asian Studies Library, which houses the S. Rajaratnam Private Archives Collection.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%201/Rajaratnam/Necessary%20Stage.jpg">
- <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Necessary%20Stage.jpg">
+ <div style="background-color: white;">During the book launch of <i>The Singapore Lion </i> on 4 February 2010, The Necessary Stage put up an adapted version of Rajaratnam’s radio plays from the series <i>A Nation in the Making. </i> It was the first time that the plays had been performed on stage. <i>Courtesy of the Institute of Southeast Asian Studies.</i></div>
 
 #### **Context**
 
