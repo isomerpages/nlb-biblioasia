@@ -9,6 +9,9 @@ In this article, Yeo Mang Thong examines the changes in Lim Tze Peng’s paintin
 
 Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx">https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx</a>. 
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture.jpg">
+<div style="background-color: white;">《心向》</div>
+
 
 林子林子平是新加坡艺坛上具有强烈自我超越意识的书法家、画家。 从事艺术，必须敢于探索、勇于创新，才能掣鲸鱼于碧海。2006（农历丙戌）年，已 是耄耋之年的林子平，苦思冥想，甚至时有“不知如何下笔”的感叹！虽然如此，他 仍终日笔耕不辍，殚精竭虑，在艺术创作的道路上，摸索前进，以恢宏的气度，深厚 的传统笔法和天马行空的想象力，别开异径，创造一种迥异于之前的书画作品。
 
@@ -17,7 +20,14 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 2008年8月，“林子平新水墨个展”，不仅让本地的艺术爱好者耳目一新，也 引起中国美术馆馆长范迪安先生的注目，认为“他在水墨语言上兼融传统与现代、 更重视现代表现的实践道路，是值得向美术界介绍”2 。不久，殷勤的青鸟为他捎 来了一封邀请信—北京中国美术馆与上海刘海粟美术馆邀请他去举行个人书画展。
 
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/王之涣%20《凉州词》.jpg">
+ <div style="background-color: white;">王之涣 《凉州词》<br> 黄河远上白云间，一片孤城万仞山。<br> 羌笛何须怨杨柳，春风不度玉门关。</div>
+
+
 林子平早年求学于中正中学。新加坡第一代书画家张丹农、叶之威、黄载灵、颜 绿、张瘦石都曾任教中正中学，春风化雨，他们为学校孕育了不少书画家。林子平并 非科班出身，也没曾拜上名师，凭自学成才。没有门户之成见，就没有包袱的压力, 也就不囿于一家之言。林老博观约取，转益多师，既 对东方传统书画技法有所继承，他激赏黄宾虹、李可 染的艺术造诣，也借鉴西方印象派、后印象派以及野 兽派勇于创新的思维和表现手法，兼收并蓄。在这样 的基础上，可以大胆发挥创造力，敢于尝试别人所不 敢尝试的事，其成就当然不是一般人所能及。
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/李白《黄鹤楼送孟浩然之广陵》.jpg">
+ <div style="background-color: white;">李白《黄鹤楼送孟浩然之广陵》<br> 故人西辞黄鹤楼，烟花三月下扬州。<br> 孤帆远影碧空尽，唯见长江天际流。</div>
 
 读万卷书，可以增加识度；行万里路，足于开拓 境界。几十年来，林子平到处写生，足迹遍及印度、 东南亚、欧洲、中国、加拿大等地。心中积累了千山 万壑，千树万树的创作素材。林老可说是“常年画树 画不足”，2008年的“心向系列”，就是一组以树 为对象的水墨画作，它是艺术家内在视觉之所得， 纯然是心象而非物象。他自己说过：“以前是我见我 画，现在是我思我画”3。然而，不管是我见我画， 还是我思我画，都经过因“心”造“境”，随着艺术 家的心思造境，勇于取舍，才能达致“妙造自然”。
 
