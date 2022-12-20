@@ -16,9 +16,9 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 林子林子平是新加坡艺坛上具有强烈自我超越意识的书法家、画家。 从事艺术，必须敢于探索、勇于创新，才能掣鲸鱼于碧海。2006（农历丙戌）年，已 是耄耋之年的林子平，苦思冥想，甚至时有“不知如何下笔”的感叹！虽然如此，他 仍终日笔耕不辍，殚精竭虑，在艺术创作的道路上，摸索前进，以恢宏的气度，深厚 的传统笔法和天马行空的想象力，别开异径，创造一种迥异于之前的书画作品。
 
 
-对衰年变法的作品，林子平发出一句豪语：“要嘛，就是最好；要嘛，就是最坏， 我不走中间路线。”1
+对衰年变法的作品，林子平发出一句豪语：“要嘛，就是最好；要嘛，就是最坏， 我不走中间路线。”[^1]
 
-2008年8月，“林子平新水墨个展”，不仅让本地的艺术爱好者耳目一新，也 引起中国美术馆馆长范迪安先生的注目，认为“他在水墨语言上兼融传统与现代、 更重视现代表现的实践道路，是值得向美术界介绍”2 。不久，殷勤的青鸟为他捎 来了一封邀请信—北京中国美术馆与上海刘海粟美术馆邀请他去举行个人书画展。
+2008年8月，“林子平新水墨个展”，不仅让本地的艺术爱好者耳目一新，也 引起中国美术馆馆长范迪安先生的注目，认为“他在水墨语言上兼融传统与现代、 更重视现代表现的实践道路，是值得向美术界介绍”.[^2]不久，殷勤的青鸟为他捎 来了一封邀请信—北京中国美术馆与上海刘海粟美术馆邀请他去举行个人书画展。
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture11.jpg">
@@ -30,7 +30,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture2.jpg">
  <div style="background-color: white;">李白《黄鹤楼送孟浩然之广陵》<br> 故人西辞黄鹤楼，烟花三月下扬州。<br> 孤帆远影碧空尽，唯见长江天际流。</div>
 
-读万卷书，可以增加识度；行万里路，足于开拓 境界。几十年来，林子平到处写生，足迹遍及印度、 东南亚、欧洲、中国、加拿大等地。心中积累了千山 万壑，千树万树的创作素材。林老可说是“常年画树 画不足”，2008年的“心向系列”，就是一组以树 为对象的水墨画作，它是艺术家内在视觉之所得， 纯然是心象而非物象。他自己说过：“以前是我见我 画，现在是我思我画”3。然而，不管是我见我画， 还是我思我画，都经过因“心”造“境”，随着艺术 家的心思造境，勇于取舍，才能达致“妙造自然”。
+读万卷书，可以增加识度；行万里路，足于开拓 境界。几十年来，林子平到处写生，足迹遍及印度、 东南亚、欧洲、中国、加拿大等地。心中积累了千山 万壑，千树万树的创作素材。林老可说是“常年画树 画不足”，2008年的“心向系列”，就是一组以树 为对象的水墨画作，它是艺术家内在视觉之所得， 纯然是心象而非物象。他自己说过：“以前是我见我 画，现在是我思我画”.[^3] 然而，不管是我见我画， 还是我思我画，都经过因“心”造“境”，随着艺术 家的心思造境，勇于取舍，才能达致“妙造自然”。
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture3.jpg">
  <div style="background-color: white;">附图1: 张继《枫桥夜泊》<br> 月落乌啼霜满天，江枫渔火对愁眠。<br> 姑苏城外寒山寺，夜半钟声到客船。<br> (原作为国家图书馆许少全藏品)</div>
@@ -42,18 +42,18 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
  <div style="background-color: white;">附图2: 罗贯中《三國演義》开篇词<br> 滚滚长江东逝水，浪花淘尽英雄.<br>是非成败转头空。<br> 青山依旧在，几度夕阳红。<br> 白发渔樵江渚上，惯看秋月春风。<br> 一壶浊酒喜相逢。 古今多少事，都付笑谈中。<br> (原作为国家图书馆许少全藏品).</div>
 
 
-《心向系列26》4以苍劲有力，曲、直与弧形线 条画出扎根土地，枝亚伸空，
+《心向系列26》[^4]以苍劲有力，曲、直与弧形线 条画出扎根土地，枝亚伸空，
 ，用干 湿表现画境的深邃。
 
-又如《心向系列19》5盘根错节，枝亚交叉，意态奇逸的枯笔，着力纸上，产生飞白的效果。 从这两幅画我们可读到古拙、生涩、天真、淳厚的线 条与诗一般的情思，而这种传统笔法意蕴的是民族的 情态。
+又如《心向系列19》[^5] 盘根错节，枝亚交叉，意态奇逸的枯笔，着力纸上，产生飞白的效果。 从这两幅画我们可读到古拙、生涩、天真、淳厚的线 条与诗一般的情思，而这种传统笔法意蕴的是民族的 情态。
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture4.jpg">
  <div style="background-color: white;">附图3: 张继《枫桥夜泊》<br> (原作为国家图书馆许少全藏品).</div>
 
-在一次访谈中，林子平说了以下两段话： 我的水墨画、油画、写字都共同发展。你要知道 我们都是亚洲人，在艺术上要有自己的民族特色。 中国画（水墨画）非常注重用笔，表现线条；在这些 方面与外国人比，我们会压倒他们。而西方在色彩上 用的非常好，我们比不过人家。我们要学会了解自己 的优势、民族特色才行。6
+在一次访谈中，林子平说了以下两段话： 我的水墨画、油画、写字都共同发展。你要知道 我们都是亚洲人，在艺术上要有自己的民族特色。 中国画（水墨画）非常注重用笔，表现线条；在这些 方面与外国人比，我们会压倒他们。而西方在色彩上 用的非常好，我们比不过人家。我们要学会了解自己 的优势、民族特色才行。[^6]
 
-绘画作品要看笔墨、章法、色彩等。如果一张画 水墨画在色彩、构图上不错，在笔墨上不行，时间长 了我们就会发现它没有什么味道。如果一张水墨画在 色彩、构图上差一点，笔墨很不错，我们还可以看下 去。当然，如果笔墨好，其他方面也好，这张画就更 好了。7
+绘画作品要看笔墨、章法、色彩等。如果一张画 水墨画在色彩、构图上不错，在笔墨上不行，时间长 了我们就会发现它没有什么味道。如果一张水墨画在 色彩、构图上差一点，笔墨很不错，我们还可以看下 去。当然，如果笔墨好，其他方面也好，这张画就更 好了。[^7]
 
 《心向系列》正是林子平特别注重民族特笔墨 的最好注脚。
 
@@ -63,7 +63,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 李白《黄鹤楼送孟浩然之广陵》“故人西辞黄鹤 楼，烟花三月下扬州。孤帆远影碧空尽，惟见长江天 际流。”送别好友，诗人心潮起伏，荡漾的诗意，正 像浩浩东去的春水，神驰繁花似锦的扬州。
 
-这两幅书法作品写于2008年。8林子平在落笔之 前，心中营造出诗意，书写时任情恣性，心手达情。 线条横、竖、弧形互相交错，随意性特强，充满跳跃 与动感。笔力苍劲，绝无纤弱浮滑之笔。墨色浓干并 具，间中由于运笔着力，飞白与浓墨对比，加强了作 品的节奏感。结体大小错落相参，字与字之间，行与 行之间，交叠相挤，然而它不但没予人一种窒息感， 反而是通过线条、墨色浓干，建构出不同形状、黑白 分明的几何空间，塑造出“疏可走马、密不透风”， 张弛有致，和谐统一的艺术效果。
+这两幅书法作品写于2008年。[^8]林子平在落笔之 前，心中营造出诗意，书写时任情恣性，心手达情。 线条横、竖、弧形互相交错，随意性特强，充满跳跃 与动感。笔力苍劲，绝无纤弱浮滑之笔。墨色浓干并 具，间中由于运笔着力，飞白与浓墨对比，加强了作 品的节奏感。结体大小错落相参，字与字之间，行与 行之间，交叠相挤，然而它不但没予人一种窒息感， 反而是通过线条、墨色浓干，建构出不同形状、黑白 分明的几何空间，塑造出“疏可走马、密不透风”， 张弛有致，和谐统一的艺术效果。
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/《寻梦》.jpg">
  <div style="background-color: white;">《寻梦》</div>
@@ -75,7 +75,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.jpg">
  <div style="background-color: white;">柳宗元《江雪》<br> 千山鸟飞绝，万径人踪灭。<br> 孤舟蓑笠翁，独钓寒江雪。<br> (原作为国家图书馆许少全藏品)</div>
 
-林子平这种先驱式的艺术经营手法，不是每 个书画家都敢于去冒险，去尝试。我读着林子平 的书法《江雪》，心绪随着宣纸上的笔墨舞动， 飞到多年前林老的一张照片——孤立作画，目 光凝视前方，那种执着与专注，到了浑然忘我的 “痴”境。9 细味其笔情，在撕裂与重铸的求索路上， 他，也可说是独钓“寒江”的长者。
+林子平这种先驱式的艺术经营手法，不是每 个书画家都敢于去冒险，去尝试。我读着林子平 的书法《江雪》，心绪随着宣纸上的笔墨舞动， 飞到多年前林老的一张照片——孤立作画，目 光凝视前方，那种执着与专注，到了浑然忘我的 “痴”境。[^9] 细味其笔情，在撕裂与重铸的求索路上， 他，也可说是独钓“寒江”的长者。
 
 近日，读林子平的新作《寻梦》，画中十来只小 舟，围绕着一艘大船，题上“寻梦”两字，他的画作 很少题字，到底“寻梦”传达了怎样的信息？既然题 上“寻梦”，其中又有何玄机？我不禁浮想联翩，并 作出以下的解读：
 
@@ -95,4 +95,39 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 
 <div>
-<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists].</div>
+<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists]. </div>
+
+
+#### **REFERENCES**
+
+  
+
+[^1]:  吴启基《林子平高龄变法》, 见《联合早报•艺苑》, 2008年8月12日。
+
+[^2]: 《范迪安《献辞》, 见《心向: 林子平水墨历程》 （新加坡: 新加坡美术馆出版2009 年4月。
+
+[^3]: 见张夏帷编《心向−−林子平新水墨》(新 加坡: Art Retreat Ltd, 2008), 页18。
+
+[^4]: 同注3, 页33。
+
+[^5]: 同注3, 页41。
+
+[^6]: 《对话“新加坡之子”林子平先生》, 见http://zj.cangcn.com/u/3068.shtml
+
+[^7]: 同注3。
+
+[^8]:  同注3, 页145, 146。
+
+[^9]:  见《求索》Singapore Tyler Print Institute出版, 2006) 页6。
+
+
+
+
+
+
+
+
+
+
+
+
