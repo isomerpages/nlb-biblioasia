@@ -8,7 +8,12 @@ third_nav_title: Places and Buildings
 
 Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
 
-<img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  
+<img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+
+Read about the painstaking process behind the restoration of the statues in St Joseph’s Church.
+![](/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg)
 <hr>
 
 #### <a href="/vol-12/issue-3/oct-dec-2016/building-faith" style="text-decoration: none; font-weight: bold;"> Building Faith: Wartime Churches in Syonan-to</a>

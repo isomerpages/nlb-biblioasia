@@ -3,37 +3,30 @@ title: Editor's Picks
 permalink: /editors-picks/
 description: ""
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/" >Theemithi: The Rituals Behind the Festival of Firewalking</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
 
-Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
+Read about the painstaking process behind the restoration of the statues in St Joseph’s Church.
 
-![](/images/Vol%2018%20Issue%203/Theemithi/2_pandaram.png)
-
+![](/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg)
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/navaratri-golu/" >Navaratri Golu: The Hindu Festival of Dolls</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/tale-of-two-churches">A Tale of Two Churches</a>
 
-Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality.
+Penang’s Armenian church was demolished in the early 1900s, while the one in Singapore still thrives. Nadia Wright looks at the vastly different fates of these two churches.
 
-![](/images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG)
+<img src="/images/Vol-13-issue-3/a-tale-of-two-churches/02_churches.jpg" style="width:50%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani" >So, What Is a Singaporean?</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/party-time-raffles">Party Time at the Raffles</a>
 
-Ethnic harmony is an important part of Singapore's national identity, says Kishore Mahbubani.
+The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days.
 
-<img style="width:100%;" src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg"> 
+![](/images/Vol-12-issue-4/party-time-with-raffles/festivemenu.jpg)
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">The Divine Lance: Thaipusam and Murugan Worship in Singapore</a>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades" >Parades, Flags and Rallies: Celebrating Singapore’s National Day</a>
-National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence.
+Thaipusam speaks of a migratory community that carries its deep-rooted cultural tradition wherever its people go.
 
-<img style="width:100%;" src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg"> 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang" >A History of The Padang</a>
-Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
-
-<img style="width:100%;" src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png"> 
+![](/images/Vol%2018%20Issue%204/Thaipusam/Image%201.png)
 <hr>
