@@ -14,7 +14,7 @@ Read about the painstaking process behind the restoration of the statues in St J
 
 Penang’s Armenian church was demolished in the early 1900s, while the one in Singapore still thrives. Nadia Wright looks at the vastly different fates of these two churches.
 
-![](/images/Vol-13-issue-3/a-tale-of-two-churches/02_churches.jpg)
+<img src="/images/Vol-13-issue-3/a-tale-of-two-churches/02_churches.jpg" style="width:50%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/party-time-raffles">Party Time at the Raffles</a>
