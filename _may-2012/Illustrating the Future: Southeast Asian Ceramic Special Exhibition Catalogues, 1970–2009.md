@@ -111,3 +111,139 @@ The author wishes to acknowledge the contributions of Ms Louise Allison Cort, Cu
 
 <div>
 <b>Sharon Wong</b> was awarded the Lee Kong Chian Research Fellowship in January 2010. She received her PhD in the Southeast Asian Studies Programme at the National University of Singapore in 2010. She obtained her MA from the School of Archaeology and Museology in Peking University, China, where she studied ceramic archaeology. Her research interests include Chinese trade ceramics, and South China and Southeast Asia interaction in pre-modern period. </div>
+	
+#### **REFERENCES**
+
+Belcher, M. (1991). _Exhibitions in museums_. Leicester: Leicester University Press.
+
+Bluett and Sons, Ltd. (1974). _The legacy of Phra Ruang: An exhibition of Thai ceramics and of ancient pottery from Ban Chieng_. London: Bluett and Sons, Ltd.
+
+Brown, R.M. (1989). Guangdong: A missing link to Southeast Asia (pp. 81–85). In R.M. Brown (Ed.), [_Guangdong ceramics from Butuan and other Philippine sites_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5421398). Manila: Oriental Ceramic Society of the Philippines. (Call no.: RART q738.074599 GUA)
+
+Brown, R.M. (2004, September). Book review: Ceramics from the Thai-Burma border. _Southeast Asian Ceramics Museum Newsletter, 1_ (1), 2.
+
+Brown, R.M. (2009). _Southeast Asian ceramics museum, Bangkok University_. Bangkok: Bangkok University Press.
+
+Brown, R.M. (2009). [_The Ming gap and shipwreck ceramics in Southeast Asia: Towards a chronology of Thai trade ware_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234782). Bangkok: The Siam Society. (Call no.: RSEA 738.09593 BRO)
+
+Chen, T.H. (2009). Recognizing Southeast Asia. In M-L. Hsieh (Ed.), _The ceramic road of Southeast Asia: Pottery villages, ancient and contemporary ceramics II_. Taipei: Taipei County Yingge Ceramics Museum.
+
+Chia, A. (2009). Preface. In J.N. Miskic (Ed.), [_Southeast Asian ceramics: New light on old pottery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945). Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.09595 SOU)
+
+Cort, L.A., Farhad, M. & Gunter, A.C. (2000). _Asian traditions in clay: The hague gifts_. Washington, D.C.: Freer Gallery of Art and Arthur M.Sackler Gallery, Smithosonian Institution.
+
+Dofflemyer, V. (1989). [_Southeast Asian ceramics from the collection of Margot and Hans ries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675). Pasadena: Paciific Asia Museum. (Call no.: RSEA 738.309593074 DOF)
+
+Drzik, A.M. (1983). [_Southeast Asian ceramics from the collection of Mr & Mrs Andrew M.Drzik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4191882). Tokyo: A.M. Drzik. (Call no.: RSING 738.0959 DRZ)
+
+Frasche, D.F. (1976). [_Southeast Asian ceramics: Ninth through seventeenth centuries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=766229). New York: The Asia Society. (Call no.: RSEA 738.0959 FRA)
+
+Fujiwara, H. (1990). [_Khmer ceramics from the Kamratåaçn collection in the Southeast Asian Ceramics Museum, Kyoto_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5641883). Singapore: Oxford University Press. (Call no.: RSEA 738.30959607452 FUJ)
+
+Groslier, B.P. (1981). Introduction to the ceramic wares of Angkor (pp. 9–40). In D. Stock (Ed.), [_Khmer ceramics 9th–14th century_](https://eresources.nlb.gov.sg/printheritage/detail/2d70310f-9c14-467e-9dbd-4732223b29e4.aspx). Singapore: Southeast Asian Ceramic Society. Retrieved from BookSG.
+
+Guy, J. (1980). [_Oriental trade ceramics in Southeast Asia, 10th to 16th century: Selected from Australian collections, including the Art Gallery of South Australia and the Bodor collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2894232). Melbourne: National Gallery of Victoria. (Call no.: RSING 738.0959 GUY)
+
+Guy, J., & Stevenson, J. (Eds.). (1997). _Vietnamese ceramics: A separate tradition_. Chicago, IL: Art Media Resources with Avery Press.
+
+Hsieh, M.L. (Ed.). (2009). _The ceramic road of Southeast Asia: Pottery villages, ancient and contemporary ceramics I_. Taipei: Taipei County Yingge Ceramics Museum.
+
+Machida City Museum. (1993). _Vietnamese ceramics_. Machida: Machida City Museum.
+
+Machida City Museum. (1996). The white and green wares excavated in the Tak area in Thailand. Machida: Machida City Museum.
+
+Miskic, J.N. (Ed.). (2009). [_Southeast Asian ceramics: New light on old pottery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945). Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.0959 SOU)
+
+Moes, R. (1975). [_Southeast Asian ceramics_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4886419). New York: Brooklyn Museum. (Call no.: RUR RSEA 738.0959074 MOE)
+
+Musee Royal de Mariemont. (1978). [_Ceramiques Vietnamiennes : Musée Royal de Mariemout, 28 Avril-15 September 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4886414). Mariemout, Belgium: Musee Royal de Mariemout. (Call no.: RUR RSEA 738.09597074 CER)
+
+Oriental Ceramic Society of Hong Kong. (1979). [_South-East Asian and Chinese trade pottery: An exhibition catalogue_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117163). Hong Kong: The Oriental Ceramic Society of Hong Kong. (Call no.: RSEA 738.20959 ORI)
+
+Ozaki, N. (Ed.). (1996). _Thai and Khmer ceramics_. Fukuoka: The Fukuoka Art Museum. (Not available in NLB holdings)
+
+Peacock, B. A. V. (1978). [_Thai ceramics through the ages_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121036). Hong Kong: Urban Council. (Call no.: RSEA 738.09593 THA)
+
+Richards, D. (Ed.). (2003). [_Lost for 500 years: Sunken treasures of Brunei Darussalam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12604668). Sydney: Art Exhibitions Australia Limited. (Call no.: RSEA q910.95955 LOS)
+
+Sabapathy, T.K.  (Ed.). (2002). Past-present: A history of the University Art Museum. In [_Past, present, beyond re-nascence of an art collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11114469). Singapore: National University of Singapore Museums. (Call no.: RSING q709.5 PAS)
+
+Southeast Asian Ceramic Society. (1971). [_Ceramic art of Southeast Asia: First annual exhibition_](https://eresources.nlb.gov.sg/printheritage/detail/4e366329-0c71-4988-bfce-31a329f9204c.aspx). Singapore: Art Museum, University of Singapore. Retrieved from BookSG.
+
+Stanford University Museum of Art. (1980). [_Ceramics of Thailand_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4680237). Stanford: Board of Trustees of the Leland Stanford Junior University. (Call no.: RSEA 738.09593 CER)
+
+Stock, D. (Ed.). (1981). [_Khmer ceramics 9th–14th century_](https://eresources.nlb.gov.sg/printheritage/detail/2d70310f-9c14-467e-9dbd-4732223b29e4.aspx). Singapore: Southeast Asian Ceramic Society. Retrieved from BookSG.
+
+The Museum Yamato Bunkakan. (1983). _Southeast Asian ceramics special exhibition: Annam, Khmer, Thai_. Nara: The Museum Yamato Bunkakan.
+
+The Shoto Museum of Art. (1993). _Thai-Vietnamese ancient ceramics_. Tokyo: The Shoto Museum of Art.
+
+Till, B. (1988). [_Ceramics of mainland Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5640826). Victoria, B.C.: Art Gallery of Greater Victoria. (Call no.: RSEA 738.30959 TIL)
+
+Tokyo National Museum. (2000). _Korean and other Asian ceramics excavated in Japan_. Tokyo: Tokyo National Museum.
+
+Ubersee-Museums und Celadon Co. Ltd. (1977). [_Keramik aus Thailand: Sukhothai & Sawankhalok_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1211892). Kuala Lupur: Ubersee-Museums und Celadon Co. Ltd. (Call no.: RUR RSEA 738.3095930740352 KER)
+
+Vancouver Society for Asian Art. (1971). [_The Vancouver Society for Asian Art presents The talking jars: An exhibition of oriental ceramic folkwares found in South East Asia, Centennial Museum, Vancouver, Canada, October-November, 1971_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1548419). Vancouver: Vancouver Society for Asian Art. (Call no.: RSEA 738.095074 VAN)
+
+White, J.C. (1982). [_Ban Chiang: Discovery of a lost bronze age: An exhibition organised by the University Museum, University of Pennsylvania, the Smithsonian Institution, Traveling Exhibition Service, the National Museums Division, Department of Fine Arts, Thailand_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622316). \[Philadelphia\]: The Museum. (Call no.: RSEA 959.302074 WHI)
+
+Wong, W.Y. (2009, September–December). A glimpse at Southeast Asian ceramics publications on Southeast Asian ceramics since the 1960s. [_SPAFA Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), _19_ (3), 5–17.
+
+Yamazaki, K. (1996). Study on the material and technique of white-glazed ware with green decoration. In H. Gakuji & K. Yamazaki. (1996). _The white and green wares excavated in the Tak area in Thailand_. Tokyo: Machida City Museum.  
+
+Young, C.M., Dupoizat, M.F. & Lane, E.W. (Eds.). (1982). [_Vietnamese ceramics: With an illustrated catalogue of the exhibition organised by the Southeast Asian Ceramic Society and held at the National Museum, Singapore in June 1982_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079901)_._ Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.09597 VIE)
+
+#### **NOTES**
+
+    
+[^1]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), 2009, p. 5. .
+
+[^2]: See Belcher, 1991, pp. 51—52 and [Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234782), 2009.
+
+[^3]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), Sep­—Dec 2009, pp. 6—7.
+
+[^4]: For example, see Guy & Stevenson, 1997
+
+[^5]: Yamazaki, 1996, p. 137. About Burmese ceramics from the Thai-Burma border, see Roxanna Brown’s book review, sep 2004, p. 2.
+
+[^6]: Some Southeast Asian ceramic exhibits were from the Art Museum of University of Singapore. See [Sabapathy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11114469) 2002, pp. 16—19.
+
+[^7]: [Dofflemyer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675), 1989, pp. vi—ix.
+
+[^8]: See Cort, et al. 2000, “Foreword” by Milo Cleveland Beach, Director, Freer Gallery of Art and Arthur M. Sackler Gallery, pp. 6—7.
+
+[^9]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, pp. 71—99.
+
+[^10]: [Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234782), 2009, pp. 17, 29; [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 59.
+
+[^11]: [White](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622316), 1982, pp. 12—21, 29.
+
+[^12]: The travelling exhibition on Sunken Treasures of Brunei Darussalam from 2003 to 2005 in Australia is an example. See [Richards](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12604668), 2003.
+
+[^13]: The Quantity of Ceramic Exhibits by Countries was based on the pre-modern ceramic exhibits mentioned in the exhibition catalogue. It may not include all the exhibits shown in the exhibition.
+
+[^14]: Chen, 2009, p. 15.
+
+[^15]: Brown, 2009, pp. 60—61.
+
+[^16]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 7.
+
+[^17]: [Chia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 7.
+
+[^18]: In 1993, the Tokyo National Museum held a special exhibition entitled Korean and Other Asian Ceramics Excavated in Japan (one quarter of the exhibits were Southeast Asian ceramics). Most of the ceramic exhibits were fragments. See Tokyo National Museum, 2000.
+
+[^19]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, pp. 49—99.
+
+[^20]: See Hsieh, 2009, vol. I, pp. 122—123; vol. II, p. 70.
+
+[^21]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 18.
+
+[^22]: Belcher, 1991, p. 66.
+
+[^23]: [Groslier](https://eresources.nlb.gov.sg/printheritage/detail/2d70310f-9c14-467e-9dbd-4732223b29e4.aspx), 1981, p. 9.
+	
+	
+	
+	
+	
