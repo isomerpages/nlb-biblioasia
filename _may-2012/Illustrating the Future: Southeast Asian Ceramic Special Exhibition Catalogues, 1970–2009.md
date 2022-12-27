@@ -9,6 +9,9 @@ description: "Exhibition catalogues are important guidebooks for ceramic
 ---
 #### Exhibition catalogues are important guidebooks for ceramic enthusiasts and researchers to understand Southeast Asian ceramics. Compared with words, images in exhibition catalogues can provide a visual representation and perceptual knowledge of the styles and forms of ceramics.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Brown%20Stoneware%20Jars.jpg">
+ <div style="background-color: white;">The dark brown glazed stoneware jars were spread over a rather wide expanse exhibition area in Taipei County Yingge Ceramic Museum, Taiwan.</div>
+
 Exhibition catalogues are also long-lasting records and sources of references on ceramic exhibits shown for specific purposes in museums so as to affect the audience in a predetermined direction. Therefore, it is one of the best tools for us to review the history of research into and future trends of Southeast Asian ceramic studies.
 
 “Southeast Asian ceramics” emerged as an independent analytical unit after World War II, when Southeast Asia became a region with clear political boundaries. The study of important long-term inter-regional cultural and technological interactions has suffered through the creation of modern political barriers. Chinese ceramic traditions are one of the major elements in the development of ceramic industries in Southeast Asia. The timeframe of this article begins with the ninth century, when Chinese trade ceramics were first imported into Southeast Asia, and ends in the sixteenth century, the period when Southeast Asian polities began to come under the political control of European empires.
@@ -57,17 +60,32 @@ The typical exhibition catalogue includes at least one essay. That essay is alwa
 
 To present a better understanding of the future study of Southeast Asian ceramics, I want to discuss two Southeast Asian ceramic special exhibitions held in Asia in recent years. *The first is The Ceramic Road of Southeast Asia: Pottery Villages, Ancient and Contemporary Ceramics* special exhibition, which was staged from 17 October 2009 to 28 February 2010 in Taipei County Yingge Ceramics Museum, Taiwan, one of the most well-known ceramic museums in Asia. About 240 ceramic works were included in the exhibition. The objective of this exhibition was to “provide the Taiwanese \[with\] a deeper understanding of Southeast Asia and better appreciation to their Southeast Asian neighbours”.14
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Ceramic%20Masterpiece.jpg">
+ <div style="background-color: white;">Southeast Asian ceramic masterpieces were exhibited on the large and low platform with the glass frames but not much protection in Taipei County Yingge Ceramic Museum, Taiwan.</div>
+
 The Southeast Asian artefacts joined collections through a variety of routes: through private collections on loan from different museums and institutes from Japan, Taiwan and Thailand or archaeological discoveries in Taiwan. I was very impressed that some selected pieces were exhibited on a large and low platform with glass frames but not much protection. Such a display would be refreshing to visitors because the ceramic objects were spread over a rather wide expanse, resulting in blank spaces. Visitors could experience a greater connection with the seemingly unprotected ceramic objects, while the glass frames served to remind visitors that although Southeast Asian ceramics are cheap and common enough compared to gold ornaments or paintings, they were still untouchable art objects. We should note also that this special exhibition adopted the “handle holes” display method from the Southeast Asian Ceramic Museum, Bangkok, and allowed visitors to touch wasters.15
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Handle%20Holes.jpg">
+<div style="background-color: white;">Southeast Asian ceramics “handle holes” in the Southeast Asian Ceramics Museum, Bangkok University, Thailand.</div>
+	
 This exhibition was apparently intended to showcase certain kinds of Southeast Asian ceramic exhibits: intact, exceptional, exquisite, exotic, glazed and preferably high-quality vessels mainly from private collections in the museums, with approximated dating, provenance and places of discovery. Unlike most previous special exhibitions, *The Ceramic Road of Southeast Asia* exhibition was surprisingly concerned with ceramics from mainland Southeast Asian countries (including Laos and Myanmar), both ancient and contemporary ceramic works, the significance of ceramic traditions, and a study on pottery villages and usage of the ceramic vessels (see table 1). Undoubtedly it would yield a broader view and generate comparatively greater interest in Southeast Asian ceramics among researchers and ceramic enthusiasts.
 
 Another special exhibition, S*outheast Asian Ceramics: New Light on Old Pottery*, organised by SEACS and NUS Museums, was displayed from 14 November 2009 until 5 September 2010 in NUS Museums. Since its establishment in 1969, SEACS has played an important role in the development of Southeast Asian ceramic studies and the transmission of the accomplishments of Southeast Asian ceramic researchers. In 1971, its pioneering exhibition catalogue *Ceramic Art of Southeast Asia: first annual exhibition* was published. The special exhibition 38 years later marked the 40th Anniversary of SEACS16 and paid tribute to the late Dr Roxanna Brown.17
+
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Night%20Light%20on%20Old%20Pottery.jpg">
+ <div style="background-color: white;">Opening ceremony of “Southeast Asian Ceramics: Night Light on Old Pottery” exhibition in NUS Museums, guests of honour (Left to Right) Mr. Ahmad bin Mashadi, Prof. Wang Gungwu, Mr. Alvin Chia, and Prof. John N.Miksic</div>
 
 Compared with the Taiwan exhibition, some ceramic exhibits were protected within three-tiered glass vitrines. These fit well in the limited exhibition space and directed visitors’ attention in particular to the ceramic objects in the upper and middle layer. The interpretive labels in front of the exhibits and stories about the discoveries on the floor panels showed that the ceramic objects were unified as a group based on the consistency of content and the kinds of materials.
 
 The exhibition focused not only on ceramic findings from mainland Southeast Asian kiln sites, but also on the fragmented, general, coarse unglazed stoneware and earthenware, tiles and brick building materials with archaeological contexts from both insular and mainland Southeast Asia. Traditionally, an intact and fine piece is selected as the major image on the front cover of an exhibition catalogue. However, in *Southeast Asian Ceramics: New Light on Old Pottery*, the editor made the bold choice of a ceramic fragment of a glazed milky-blue Sawankhalok guardian figure for the front cover. This shows that fragments were considered an important component in this exhibition.18 The essays in the exhibition catalogue provided many substantial research findings and new ideas on Southeast Asian ceramic studies, including kilns of Southeast Asia, research on ceramic trade within Southeast Asia and between Southeast Asia and China.19
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/New%20Light.jpg">
+ <div style="background-color: white;">Southeast Asian Ceramics: New Light on Old Pottery (All right reserved, Southeast Asian Ceramic Society, 2009)</div>
+
 Apparently, both exhibition organisers indicated their interest in the hot topic of the revival, protection and promotion of Southeast Asian ceramics. The *Ceramic Road of Southeast Asia* organisers intended to raise awareness of the connection between contemporary and ancient Southeast Asian ceramics. For instance, the editors separated the special exhibition catalogue into two volumes: all contemporary ceramic art works by artists in Southeast Asia were grouped in volume one, while the ancient ceramic exhibits and related essays were compiled in volume two. They also used Singaporean ceramist Swee Tuan Pang’s artwork *Ripples* to represent the ceramic road of Southeast Asia embraced by the intriguing changeable and unpredictable nature of water, and put a Si Satchanalai celadon Kinnariewer at the right bottom corner of the front cover.20 The catalogue included the study of contemporary earthenware production in various pottery villages in Southeast Asia. The contemporary earthenware traditions may provide the essential link with past technologies of Southeast Asian ceramic production. In *Southeast Asian Ceramics: New Light on Old Pottery*, the curators displayed the archaeology-inspired pots of Ng Eng Teng, the grandfather of Singapore sculpture, together with the ancient potteries in the exhibition.21 Another possible method of making the connection between contemporary and ancient ceramics is to produce replicas of ancient ceramics to help revitalise Southeast Asian ceramic production. In the meantime, it is possible to use different approaches to integrate both contemporary and ancient Southeast Asian ceramics in the same exhibition. It also indicates that systematic analysis of the link between contemporary and ancient Southeast Asian ceramics and collaboration between contemporary ceramic artists, art historians and archaeologists within the region will further increase in the near future.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Inspired%20Pots.jpg">
+ <div style="background-color: white;">Archaeologyinspired pots by the grandfather of Singapore sculpture, Ng Eng Teng in NUS Museums, Singapore</div>
 
 #### **Discussion**
 
@@ -80,9 +98,3 @@ The author wishes to acknowledge the contributions of Ms Louise Allison Cort, Cu
 
 <div>
 <b>Sharon Wong</b> was awarded the Lee Kong Chian Research Fellowship in January 2010. She received her PhD in the Southeast Asian Studies Programme at the National University of Singapore in 2010. She obtained her MA from the School of Archaeology and Museology in Peking University, China, where she studied ceramic archaeology. Her research interests include Chinese trade ceramics, and South China and Southeast Asia interaction in pre-modern period. </div>
-	
-
-	
-
-	
-	
