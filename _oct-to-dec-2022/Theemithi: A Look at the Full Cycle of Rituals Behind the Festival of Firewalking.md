@@ -154,7 +154,7 @@ Padukalam marks the last day of the Kurukshetra battle and takes place on the mo
 
 Volunteers construct five effigies made of sand mounds around the battlefield representing five fallen warriors. Volunteers playing the roles of Draupadi and Krishnan go to each of the effigies. Draupadi asks that the souls of the first three – that of Abhimanyu, Drona and Karnan – be allowed to go to heaven. She sprinkles turmeric on them and gently expunges their faces with her hand. 
 
-The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Drupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
+The fourth effigy represents Dushasanan, the one responsible for her dishonour. For this, Draupadi consigns him to hell. She kicks his effigy, breaking it down. At the last effigy, Draupadi discovers that it is Duryodanan, the one who shamed her, and she is incensed. Volunteers quickly lay a white cloth on the effigy; a volunteer lies on it and is wrapped in the cloth and carried away to the shrine of Draupadi where Duryodanan is consigned to the netherworld. 
 
 ![](/images/Vol%2018%20Issue%203/Theemithi/9_kicks.png)
 <div style="background-color: white;"> On Padukalam day, an enraged Draupadi (with Krishnan beside her) kicks the effigy of Dushasanan that is lying down on the battlefield, 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
@@ -222,7 +222,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 #### **NOTES**
 
-[^1]: [The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
+[^1]: "[The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52),” *Straits Times Weekly Issue*, 24 October 1893, 6. (From NewspaperSG)
 
 [^2]: “[Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52).”
 
@@ -264,7 +264,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^21]: Balakrishnan, interview.
 
-[^22]: “[The Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52).”
+[^22]: “[Hindoo Religious Ceremony](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18931024-1.2.52).”
 
 [^23]: Hiltebeitel, *The Cult of Draupadi Volume 1 Mythologies: From Gingee to Kurukshetra*, 440–41.
 
