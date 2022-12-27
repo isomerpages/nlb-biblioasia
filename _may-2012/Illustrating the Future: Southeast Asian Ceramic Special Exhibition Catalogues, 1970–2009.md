@@ -79,10 +79,10 @@ What are the future trends in Southeast Asian ceramic studies? Based on the abov
 The author wishes to acknowledge the contributions of Ms Louise Allison Cort, Curator for Ceramics, Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution, Washington, D.C., and Associate Professor John N. Miksic, Southeast Asian Studies Programme, National University of Singapore, in reviewing the paper.
 
 <div>
-<b>Sharon Wong</b> was awarded the Lee Kong Chian Research Fellowship in January 2010. She received her PhD in the Southeast Asian Studies Programme at the National University of Singapore in 2010. She obtained her MA from the School of Archaeology and Museology in Peking University, China, where she studied ceramic archaeology. Her research interests include Chinese trade ceramics, and South China and Southeast Asia interaction in pre-modern period.</div>
+<b>Sharon Wong</b> was awarded the Lee Kong Chian Research Fellowship in January 2010. She received her PhD in the Southeast Asian Studies Programme at the National University of Singapore in 2010. She obtained her MA from the School of Archaeology and Museology in Peking University, China, where she studied ceramic archaeology. Her research interests include Chinese trade ceramics, and South China and Southeast Asia interaction in pre-modern period. </div>
+	
 
+	
 
-
-
-
-
+	
+	
