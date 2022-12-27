@@ -117,8 +117,7 @@ By the early 1970s the Singapore record industry had come a long way from the fi
 <b>Ross Laird</b> was awarded the Lee Kong Chian Research Fellowship in 2010. This article presents his research into the history of the music recording industry in Singapore. Prior to the fellowship, Ross was a sound archivist with the National Film & Sound Archive of Australia. He is the author of <i>Sound Beginnings: The early record of industry in Australia.</i> (2000).</div>
 
 #### **REFERENCES**
-
-         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; mso-themecolor:hyperlink; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:purple; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+      
 
 [Page 2 Advertisements Column 2: Chap Singa](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370108-1.2.7.2). (1937, January 8). _The Malaya Tribune_, p. 2. Retrieved from NewspaperSG.
 
@@ -269,20 +268,3 @@ Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://er
 [^36]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62)_, 11 May 1970, p. 10.
 
 [^37]: To give just one example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The artists included Vivi Sumanti, Bing Slamet, and Tanti Josepha, and they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The group of artists were to stay for three months, recording almost every day during that period, and “cutting over 70 EPs and 25 LPs.” _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691025-1.2.57)_, 25 Oct 1969, p. 8.
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
