@@ -18,7 +18,7 @@ For many people, Sentosa is a leisure and tourist destination with a tropical ge
 &emsp;to look at beauty…<br>
 &emsp;guarded by white marble carved into<br>
 &emsp;serene eyes and silent lips,<br>
-&emsp;that speak only to our inner hearts. [^1]
+&emsp;that speak only to our inner hearts.[^1]
 
 This island was Sarong Island, a place where one could “dine, dance, watch floor shows or just sip a drink and watch a breathtaking view of Singapore harbour and the great ships that pass in and out day and night”. There, you could see “over a hundred varieties of tropical trees and flowers, many species of wild birds, occasional visits of groups of chattering monkeys… [and] the rare sight of a giant monitor lizard basking in the sun”.[^2]
 
