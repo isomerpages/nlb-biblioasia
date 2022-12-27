@@ -2,6 +2,7 @@ collections:
   may-2012:
     output: true
     order:
+      - 新加坡华文 书业历史简述 A brief history of the Chinese book industry in Singapore.md
       - Director’s Column.md
       - "A Founder's Literacy Legacy: The Short Stories and Radio Plays of S
         Rajaratnam.md"
