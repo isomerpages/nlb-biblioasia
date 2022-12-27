@@ -63,10 +63,10 @@ The typical exhibition catalogue includes at least one essay. That essay is alwa
 
 #### **LEGEND**
 
-CL: Chinese ceramics land-based excavation 
-SH: Shipwreck 
-CS: Chinese ceramics shipwrecks 
-PH: Pre-history</div>
+CL: Chinese ceramics land-based excavation<br> 
+SH: Shipwreck <br>
+CS: Chinese ceramics shipwrecks <br>
+PH: Pre-history
 
 
 #### **Visits to Southeast Asian Ceramic Exhibitions in Singapore and Taiwan**
