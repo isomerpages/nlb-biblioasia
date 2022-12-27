@@ -9,6 +9,9 @@ Although many bookstores were destroyed during World War II, the industry manage
 
 However the industry suffered a setback in the 1970s, when changes in Singapore’s education policy gave less emphasis to the Chinese language and spurred the growth of English bookstores. The closure of Nanyang University and the enforced merger of *Nanyang Siang Pau* and *Sin Chew Jit Poh* in the 1980s marked the decline of the Chinese book industry in Singapore. Though the industry today is still supported by demand from the older generation of readers, the internet has made business survival even more challenging.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%201/ChineseBook/Crowd.jpg">
+ <div style="background-color: white;">五十 至六十年代是读书风气旺盛的时代。图为1965年大减价售书时的盛况。（蒙上海书局提供）</div>
+
 新加坡是一个移民城市国家，自1819年开埠至今已 经走过一百九十多年历史。在今天500多万人口中， 超过75%的人口比例是华人。而这些华人，他们或 者是移民的后代，或者是新移民。他们将别无选择， 无从逃避地面对身为海外华人对于自己母族语言，文 化，传统，习俗的传承选择。这不是什么问题，而仅 仅是一个现实存在，一个需要面对的事实。
 
 当年新加坡华文书业的兴起，支撑了新马乃至 整个南洋地区的华文教育事业。我们很难设想，如果 没有当年华文书业源源不断提供的教科书，以及其他 各类书籍，幼童的启蒙，学校的教育，社会的进步， 文化的发展，都将从何谈起？
@@ -57,6 +60,9 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 
 • 《回忆中华书局》（上编），中华书局出版发行 （1981年），《星加坡分局史略》， （施寅佐文），第183页。
 
+<img style="width:50%;" src="/images/Vol%208%20issue%201/ChineseBook/The%20Shanghai.jpg">
+ <div style="background-color: white;">摄于1951年，新加坡上海书局创办人陈岳书（左）和王叔旸先生在 书店前留影。（蒙上海书局提供）</div>
+
 #### **起步阶段**
 1924年正兴书局创立（世界书局前身），1925年上海 书局创立，它们的创立打破了中华、商务仅售卖本版书 籍的界限。上海书局还在上海设立分局，方便选购新书 及时发往新加坡。书籍的品种变得丰富、多样和相对及 时，上海的最新出版物，在南洋几乎同步发行。
 
@@ -69,6 +75,9 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 
 二战爆发，新加坡被日军占领，进入日据时期。日本 人不仅要占有土地和人民，也要占有人们的思想和文 化，因此对于华文书业的存书等极端粗暴野蛮地加以 毁灭、摧毁。这对于刚起步不久的华文书业来说无疑 是“灭顶之灾”，损失惨重。在《南洋书局十五周年 纪念特刊》中的一段文字，让我们对当时惨烈景状或有一定了解，“日敌南侵，本局首当其冲，吉礁分局 为敌先头部队所毁，槟城分局经理殉难，仰光分局洗 劫一空，吉隆坡分局职员被戮者二人，吧城分局被敌 没收，经理职员被囚。仅存者惟星洲总局，槟城，马 六甲分局铺屋。所存图书，全部烧毁，被祸之烈，莫 可言诉。”
 
+<img style="width:50%;" src="/images/Vol%208%20issue%201/ChineseBook/SBC%20Building.jpg">
+ <div style="background-color: white;">上海书局在1929年迁至桥北路349号，自立 门市部兼做批发和代理其他书店的出版物， 更在1932年成为中国上海商务印书馆在南洋 地区的特约发行所。（蒙上海书局提供)</div>
+
 #### **迅速恢复**
 
 不过，早期从事华文书业的人不仅有坚强的意志， 更有传播华文文化的使命感。战后，百废待兴，华 文学校蓬勃发展，因此华文书业随之重振旗鼓，恢复 运作。所不同的是，由于中国内战缘故，货源受到影 响，于是本地华文书业开始组织编辑力量拓展出版业 务。1948年，由于区域以及中国局势动荡变化，本 地书业如上海书局、世界书局多在香港设立专门出版 机构，加上商务、中华早先已在香港设立分行，在一 定程度上，催生了香港出版发行行业。当时正有为数 不少的知识分子、文化界、教育界、出版界人士由上 海、广州来到香港，遂形成人才来自中国大陆、资金 来自新加坡、商业运作立足香港、分销方向包括南洋 各地的区域联合书业经营格局。
@@ -78,6 +87,9 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 #### **蓬勃发展**
 五十年代，本地渐已形成完整华文教育体系。南洋大 学在整个南洋地区享有盛誉，受到华人社会的高度重 视和极力推崇，学生汇聚，本地人口膨胀，学校教育 发展蓬勃，尤其英殖民当局拟定一套“十年教育计 划”(Ten-year Education Programme)，即政府承担 免费六年小学教育，照顾到更多学生入学。工商业发 展，就业人口增加，无论是学生还是社会人士，整个 社会非常尊重知识，重视文化和教育。
 
+<img style="width:50%;" src="/images/Vol%208%20issue%201/ChineseBook/Group%20Outside%20Shop.jpg">
+ <div style="background-color: white;">1940年上海书局热烈庆祝建店15周年纪念， 书局同仁在书店门前合影。（蒙上海书局提供</div>
+
 但由于殖民地政府对于中国出版物的限制，华 文书的主要来源遭断绝，香港台湾书籍取代中国货 源，开始在本地市场兴盛。同时，小型传统书店应运 而生，大量涌现，书店数量大大增加，如学生书店、 青年书局、南大书店、中学生书店等就在那个时代应 运而生，表现活跃。
 
 以青年书局为代表，本地书店开始大量出版本地 作家作品，产生极大社会反响，不仅满足市场迫切需 要，同时也对本地文学创作起到奠定与鼓励的作用。
@@ -85,6 +97,9 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 世界书局推出《马华新文学大系》、《中国新 文学大系》，堪称壮举。
 
 多间书店以及民间团体大量创办各类文学、时 政、综合性等杂志，各领风骚，如世界书局出版《世 界儿童》、《世界少年》、《南洋文摘》，南洋书局 出版《南洋杂志》等。
+
+<img style="width:50%;" src="/images/Vol%208%20issue%201/ChineseBook/Bombed%20Shop.jpg">
+ <div style="background-color: white;">日军南侵新加坡时，上海书局业务全部停顿，只靠售卖文具存货度日子。图为 1941年上海书局桥北路349号。旁边店址已遭日军炸毁。（蒙上海书局提供）</div>
 
 当时的新加坡是一个相对商业发达的自由港， 因此被视为南洋商业中心。书店不仅零售业兴旺，同时多有代理、邮购业务，多个书店分设出版公司，集 零售、发行、出版三者为一体，小而全，灵活而全面 发展。这一格局和态势被认为是本地华文书业的发展 成型时期，兴旺一时，甚至在后来于美芝路黄金大厦 形成又一个新的华文书业中心。
 
@@ -161,8 +176,3 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 访谈：陶先生（2007年）。于2007年 11月26日与作者访谈。新加坡。
 
 网页：作者（年份）文章名称。2010 年9月30日下载自 http://bawean.org/
-	
-	
-	
-
-
