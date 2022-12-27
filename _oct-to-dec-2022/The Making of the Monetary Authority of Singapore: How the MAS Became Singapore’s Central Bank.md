@@ -1,13 +1,11 @@
 ---
 title: "The Making of the Monetary Authority of Singapore: How the MAS Became
   Singapore’s Central Bank"
-permalink: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
+permalink: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank/
 description: While the Monetary Authority of Singapore was established in 1971,
   it only became a full-fledged central bank some 30 years later.
 image: /images/Vol 18 Issue 3/MAS/1_MASbuilding.jpg
 ---
-
-
 #### While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later. 
 By Barbara Quek
 
@@ -183,7 +181,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^19]: Lee Hsien Loong, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021,” Prime Minister’s Office Singapore, last updated 8 October 2021, https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MAS50-Partners-Appreciation-Evening.
 
-[^20]: Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” *MAS Staff Paper*, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “[The Pan-Electric Crisis](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851203-1.2.42.19.aspx),” *Straits Times*, 3 December 1985, 23; Lynette Khoo, “[1984: Taking Jardine Fleming to Task](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20160229-1.2.7.5),” *Business Times*, 29 February 2016, 4. (From NewspaperSG)
+[^20]: Mimi Ho, et al., “Case Study on Pan-Electric Crisis,” *MAS Staff Paper*, no. 32 (July 2004): 11, 15, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; “[The Pan-Electric Crisis](http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851203-1.2.42.19.aspx),” *Straits Times*, 3 December 1985, 23; Lynette Khoo, “[1984: Taking Jardine Fleming to Task](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20160229-1.2.7.5),” *Business Times*, 29 February 2016, 4. (From NewspaperSG)
 
 [^21]: Ho, et al., “Case Study on Pan-Electric Crisis”, 66.
 
@@ -193,7 +191,7 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^24]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 116–17.
 
-[^25]: L. Beckering, “[The Fall of the House of Barings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950730.2.59.5.1.aspx),” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “[Leeson Saga, and Key Role of 88888 Account](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951124.2.61.5.aspx),” *Straits Times*, 24 November 1995, 49; “[The Fateful, Frantic Hours That Broke a Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19950304-1.2.10.5.aspx),” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
+[^25]: Louis Beckering, “[The Fall of the House of Barings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950730.2.59.5.1.aspx),” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “[Leeson Saga, and Key Role of 88888 Account](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951124.2.61.5.aspx),” *Straits Times*, 24 November 1995, 49; “[The Fateful, Frantic Hours That Broke a Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19950304-1.2.10.5.aspx),” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
 
 [^26]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 165, 186.
 
