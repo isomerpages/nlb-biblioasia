@@ -169,7 +169,7 @@ More resources on Loke Wan Tho and Cathay are available [here](/vol-18/issue-3/o
 
 [^9]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 12.
 
-[^10]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 14–15; “[The Cathay Opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19391004-1.2.79),” *Morning Tribune*, 4 October, 13. (From NewspaperSG)
+[^10]: Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 14–15; “[The Cathay Opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19391004-1.2.79),” *Morning Tribune*, 4 October 1939, 13. (From NewspaperSG)
 
 [^11]: The land for Cathay Building was purchased by Loke Wan Tho’s mother. “[Movie Magic](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20060331-1.2.75.10),” *Today*, 31 March 2006, 72; “[Cathay Flats Ready Early in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19410504-1.2.30),” *Sunday Tribune*, 4 May 1941, 2. (From NewspaperSG); Lim, *[Cathay](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688)*, 15.
 
@@ -199,7 +199,7 @@ More resources on Loke Wan Tho and Cathay are available [here](/vol-18/issue-3/o
 
 [^24]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 15–16; Salim Ali, *The Fall of A Sparrow*, 127.
 
-[^25]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 22; Pelham Groom, “[Off to the Arctic with a Mosquito Net](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580519-1.2.28),” *Singapore Free Press*, 19 May 1958; “[Land of the Midnight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580820-1.2.48),” *Singapore Free Press*, 20 August 1958, 8. (From NewspaperSG)
+[^25]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 22; Pelham Groom, “[Off to the Arctic with a Mosquito Net](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580519-1.2.28),” *Singapore Free Press*, 19 May 1958, 4; “[Land of the Midnight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580820-1.2.48),” *Singapore Free Press*, 20 August 1958, 8. (From NewspaperSG)
 
 [^26]: Loke, *[A Company of Birds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4087550)*, 11.
 

@@ -6,7 +6,6 @@ description: In the post-World War II period, Singapore was a battleground for
   the United States and United Kingdom on the other.
 image: /images/Vol 18 Issue 3/Cold War/1_cover.png
 ---
-
 #### In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 By Chow Chia Yung
 
@@ -78,7 +77,7 @@ Radio broadcasts by the British Broadcasting Corporation (BBC) were another tool
 
 The BBC accepted an invitation from the United Kingdom government to establish its radio broadcasting service in Singapore and it ended up taking over the British Far Eastern Broadcasting Service. The BBC began its radio operations in Singapore in 1948 with its office and studio on Caldecott Hill. Singapore residents could tune in to local radio programmes directed by BBC personnel as well as news from London. In addition to English, the BBC radio station in Singapore also aired daily radio programmes in Mandarin and Cantonese.[^23] This was part of the BBC’s strategy to reach out to the predominantly Chinese population in Singapore. 
 
-The BBC radio station in Singapore was also used by Britain as a regional radio base to broadcast anti-communist information across Asia. As the *Straits Times* noted in 1949: “It was the intention to build a new station which was to become the Voice of Britain in Asia, radiating programmes to the entire Far East- from Japan to India… Obviously the campaign against Communism in Asia must be fought in Asia… If the radio weapon is to be of real use to Britain, and to Malaya, then the main broadcasts must have their origin in Singapore…”[^24]
+The BBC radio station in Singapore was also used by Britain as a regional radio base to broadcast anti-communist information across Asia. As the *Straits Times* noted in 1949: “It was the intention to build a new station which was to become the Voice of Britain in Asia, radiating programmes to the entire Far East       — from Japan to India… Obviously the campaign against Communism in Asia must be fought in Asia… If the radio weapon is to be of real use to Britain, and to Malaya, then the main broadcasts must have their origin in Singapore…”[^24]
 
 ![](/images/Vol%2018%20Issue%203/Cold%20War/4_Sergeant.png)
 <div style="background-color: white;"> Sergeant Danny Bulpett of the Royal Marine Commandos at the British Broadcasting Corporation studio in Singapore, where he was delivering Christmas greetings at the first live radio connection between Singapore and London, 1950. He was in Malaya on anti-riot duty during the Malayan Emergency. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
