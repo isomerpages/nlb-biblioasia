@@ -4,3 +4,5 @@ permalink: /holding-area/test1/
 description: Two remarkable athletes served up a storm to make Malaya a
   tennis  power to contend with during the interwar years.
 ---
+#### Two remarkable athletes served up a storm to make Malaya a tennispower to contend with during the interwar years.
+By Abhishek Mehrotra
