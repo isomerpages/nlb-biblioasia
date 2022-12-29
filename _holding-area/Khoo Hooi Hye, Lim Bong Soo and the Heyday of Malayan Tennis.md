@@ -109,4 +109,13 @@ Unfortunately, Singapore tennis began a gradual decline after Khoo’s passing a
 #### **Tennis Champ Turned Golfer**
 
 The game’s dying embers though, threw up a few final sparks. Ong Chew Bee, 26, became the first Singapore-born tennis player to play at Wimbledon’s hallowed lawns in 1951, losing in the first-round to Englishman G.D. Oakley in three hard-fought sets.43 
-Born in 1924, Ong had grown up when Khoo and Lim were at the peak of their fame and success but took up tennis at an unpropitious time in 1939, 
+
+Born in 1924, Ong had grown up when Khoo and Lim were at the peak of their fame and success but took up tennis at an unpropitious time in 1939, with the war looming over the horizon. Encouraged by his father, an eminent doctor, who built a tennis court at home, Ong persevered through the lack of tournaments and even a shortage of tennis balls to emerge on the other side of the war as one of the region’s most accomplished players. By 1950, Ong was striding across Malayan courts like a colossus in the mould of pre-war heroes Khoo and Lim. That year, Ong won the singles and doubles tournaments at both the Singapore Championship and the Malaya Cup. For good measure, he won the former’s mixed doubles too.44  
+
+Ong’s father rewarded him for these exploits with a trip to Wimbledon in 1951. While he was beaten in the first round, Ong would not lose to a Malayan player for the rest of the decade. By the time he hung up his racket, Ong had won eight Singapore Championships (1950, 1952–58), three Malaya Cups (1950, 1954–55) and travelled to Ceylon, the Philippines and India as a member of the Malayan Davis Cup team. There was an astonishing post-script as well. After retiring from tennis, the right-handed Ong took up golf – left-handed – and emerged as one of Singapore’s most successful amateur golfers. He was also part of the team that won the 1967 Putra Cup.45    
+
+Meanwhile, as the 20th century drew to a close, Singapore tennis had some sporadic success. The men’s team won silver in the 1981 Southeast Asian Games and two years later, national women’s champion Lim Phi Lan won bronze in the same competition.46 But when Lim Bong Soo died in 1992 at the age of 92 (birth dates in the early 20th century were unreliable so this may not be precise; for instance, a 1951 report refers to Lim as 48 years old, indicating that he was born in 1902 or 1903), independent Singapore had yet to send a player to Wimbledon, or indeed to any of the other Grand Slams. 
+
+In 2019, Singapore-born Astra Sharma did make it into the main draw of all four Grand Slams but she had moved to Australia in 2005 when she was 10 and played in these tournaments as an Australian citizen.47
+
+Sadly, the tantalising hopes of Singapore as a tennis power created by the spellbinding duo of Khoo Hooi Hye and Lim Bong Soo and then, briefly, by Ong Chew Bee, have proven to be elusive thus far. 
