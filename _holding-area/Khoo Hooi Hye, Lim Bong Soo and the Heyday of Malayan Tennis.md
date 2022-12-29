@@ -155,7 +155,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^12]: Song Ong Siang, [One Hundred Years’ History of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
 
-[^13]: “Sporting Intelligence,” Malaya Tribune, 25 November 1915, 9. (From NewspaperSG)
+[^13]: “[Sporting Intelligence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19151125-1.2.21.35),” *Malaya Tribune*, 25 November 1915, 9. (From NewspaperSG)
 
 [^14]: Singapore saw a sports club boom in the mid-1880s. The Singapore Recreation Club was formed in 1883, the Ladies Lawn Tennis Club in November 1884 and the Straits Chinese Recreation Club a month later.
 
