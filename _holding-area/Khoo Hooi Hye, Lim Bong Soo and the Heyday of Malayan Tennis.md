@@ -147,7 +147,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^8]: Nicholas G. Aplin and Quek Jin Jong, “Celestials in Touch: The Development of Sport and Exercise in Colonial Singapore,” *The International Journal of the History of Sport* 19, no. 2–3 (2002): 68, 72, NIE Digital Repository, https://repository.nie.edu.sg/handle/10497/19780.
 
-[^9]: The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “Celestial Reasoning Association,” in Singapore Infopedia. National Library Board Singapore. Article published September 2020.
+[^9]: The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “[Celestial Reasoning Association](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1366_2009-11-25.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published September 2020.
 
 [^10]: Lim Boon Keng in 1893; Song Ong Siang in 1894.
 
