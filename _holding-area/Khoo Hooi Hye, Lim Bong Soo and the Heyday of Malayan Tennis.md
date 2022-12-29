@@ -215,7 +215,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^42]: It is unclear how Lim Bong Soo, as a professional, was allowed to compete again. One possible explanation is that he had retired from coaching by then and was thus no longer considered a professional.
 
-[^43]: “[Ong Chew Bee Disappoints](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510626-1.2.119),” Singapore Free Press, 26 June 1951, 7. (From NewspaperSG)
+[^43]: “[Ong Chew Bee Disappoints](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510626-1.2.119),” *Singapore Free Press*, 26 June 1951, 7. (From NewspaperSG)
 
 [^44]: Teoh Eng Tat, “After 11 Years the Zest is Fading, Says Chew Bee,” The Straits Times, 20 July 1960, 15. (From NewspaperSG)
 
