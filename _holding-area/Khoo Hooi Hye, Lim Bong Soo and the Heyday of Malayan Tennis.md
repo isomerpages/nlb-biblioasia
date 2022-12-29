@@ -175,9 +175,9 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^22]: “[Lawn Tennis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19240405-1.2.34),” *Malayan Saturday* Post, 5 April 1924, 11. (From NewspaperSG)
 
-[^23]: “Far Eastern Olympiad,” Singapore Free Press and Mercantile Advertiser (Weekly), 7 September 1927, 151. (From NewspaperSG)
+[^23]: “[Far Eastern Olympiad](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19270907-1.2.56),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 7 September 1927, 151. (From NewspaperSG)
 
-[^24]: “Hooi Hye Beaten.”
+[^24]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69).”
 
 [^25]: “Public Amusements,” Straits Times, 27 July 1923, 10; “Untitled,”  Straits Times, 5 September 1923, 3. (From NewspaperSG) 
 
