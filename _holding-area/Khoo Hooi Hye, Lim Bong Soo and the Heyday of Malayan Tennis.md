@@ -43,4 +43,26 @@ The SCRC championships continued apace during World War I. The club even expande
 
 #### **Tennis Ace Khoo Hooi Hye**
 
-The years following World War I saw an explosion in the popularity of tennis in Singapore and Malaya. Since the sport had no umbrella body and no sponsor
+The years following World War I saw an explosion in the popularity of tennis in Singapore and Malaya. Since the sport had no umbrella body and no sponsorship, the tennis calendar was a dizzying potpourri of competitions, exhibitions and tours largely dependent on the whims of colonial administrators and wealthy philanthropists. 
+
+In its most simplified form, the season could be described thus: each of the clubs – SCC, SRC, SCRC (there were others too) – had their own in-house competitions stretching back to the late 19th century. The next rung was the Singapore Championship, inaugurated in 1921 – variously called Singapore Lawn Tennis Championship, Singapore Tennis Tournament, Singapore Open – in which all Singapore residents, irrespective of nationality, were eligible to play. Variations of this structure had also sprung up across the peninsular territories. 
+
+The highest rung was occupied by the regional tournaments where the best players from across Singapore and Malaya competed against each other. With the differentiated nature of political administration under the British (three Straits colonies and four Federated Malay States), there was an almost unlimited number of ways by which regions and players could be pitted against each other in a tournament format. 
+
+The most storied of these tournaments was the Malaya Cup, first organised in Singapore in 1921, in which the champions of the domestic tournament in Singapore, Penang, Melaka, Selangor, Perak and Negeri Sembilan faced off to determine the overall winner. It was in this milieu, with an unparalleled abundance of competitive tennis, that Khoo Hooi Hye came of age. 
+
+In the inaugural Malaya Cup, the 20-year-old Khoo, then playing for Penang, eased his way through the draw to make the final against Shunji Nakamura – an unknown Japanese resident in Singapore who had shocked all by lifting the Singapore Cup earlier that year. Both Khoo and Nakamura had beaten European opponents in the semi-finals of the peninsular competition. Of Nakamura’s victory in the semi-final, the Malaya Tribune mourned: “I think it a sad reflection on present-day tennis in Malaya that a player confining himself to such purely stonewalling tactics should be able to carry off the highest honours. [Selangor’s E.N.W.] Oliver has shown what I have said all along to be the game to beat him; and not only beat him but rout him.”19
+
+In the other semi-final match, Khoo had easily disposed of a certain J.S. Johnstone of Negeri Sembilan. A correspondent for the Malaya Tribune wrote that “Johnstone was really a much better player than the score indicates. It was merely another case of steadiness overcoming brilliant but erratic methods. Johnstone’s service was swift and hard to return, but owing probably to lack of practice he could not always pull it off”.20 (Italics added for emphasis)
+
+It was Nakamura who emerged victorious in the 1921 final. While Khoo did not win, the match was his stepping-stone to greatness. After moving to Singapore sometime in late 1922 or early 1923, Khoo won the Malaya Cup as its representative four times between 1923 and 1927 while holding his day job as an insurance agent of the Java Sea and Fire Insurance Co.21 
+
+The biggest feathers in Khoo’s cap came in 1924. He became the first ever Malayan to play Wimbledon (he lost in the second round) and to participate in the Olympics in Paris, as part of a four-member Chinese contingent.22 Three years later, in 1927, Khoo won both the singles and doubles gold while representing China at the Shanghai Far Eastern Olympic Games (a precursor to the modern Asian Games).23
+
+Apart from these tournaments, Khoo spent much of the 1920s winning accolades in Java, Manila and Hong Kong. There were also triumphs over the Calcutta and Thai singles champions and general acclaim that far from being merely steady, he was the most talented player the Straits had ever seen.24 
+
+Khoo’s success came at a time when sporting accomplishments were not only admired but feted among the Straits Chinese. Newspaper reports of some of his best matches ran into hundreds of words while dinner parties and concerts were thrown in his honour. Films capturing some of his matches were also shown in popular venues of the time.25  
+
+#### **Lim Bong Soo’s Meteoric Rise**
+
+Lim Bong Soo’s rise to prominence in the mid-1920s added further glamour to the game as he and Khoo battled it out in individual competitions while representing Singapore in team tournaments across the region. Their first meaningful encounter was the 
