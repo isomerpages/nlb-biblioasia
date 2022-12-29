@@ -179,7 +179,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^24]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69).”
 
-[^25]: “Public Amusements,” Straits Times, 27 July 1923, 10; “Untitled,”  Straits Times, 5 September 1923, 3. (From NewspaperSG) 
+[^25]: “[Public Amusements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230727-1.2.67),” *Straits Times*, 27 July 1923, 10; “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230905-1.2.6),”  Straits Times, 5 September 1923, 3. (From NewspaperSG) 
 
 [^26]: “Lawn Tennis,” Malaya Tribune, 8 January 1927, 8. (From NewspaperSG) 
 
