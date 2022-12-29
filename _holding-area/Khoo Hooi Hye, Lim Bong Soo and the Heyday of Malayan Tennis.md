@@ -139,11 +139,11 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^4]: “Khoo Hooi Hye’s Last Year,” *Straits Times*, 20 May 1930, 15. (From NewspaperSG)
 
-[^5]: “Hooi Hye Beaten.”
+[^5]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69).”
 
-[^6]: “Hooi Hye Beaten.”
+[^6]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69).”
 
-[^7]: “Hooi Hye Beaten.”
+[^7]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69).”
 
 [^8]: Nicholas G. Aplin and Quek Jin Jong, “Celestials in Touch: The Development of Sport and Exercise in Colonial Singapore,” The International Journal of the History of Sport 19, no. 2–3 (2002): 68, 72, NIE Digital Repository, https://repository.nie.edu.sg/handle/10497/19780.
 
