@@ -190,17 +190,28 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 [^29]: “Hooi Hye Champion,” Malaya Tribune, 21 June 1929, 10. (From NewspaperSG)
 
 [^30]: “Hooi Hye Champion.”  For the earlier 1921 report by the same correspondent, see “Lawn Tennis.”
-Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
-Lim, “Some Impressions of My Trip to China,” 95.
-“Chinese National Champion. Lim Bong Soo’s Success in Shanghai,” Straits Budget, 5 November 1931, 31. (From NewspaperSG)
-Leonard King, “To Serve, with Love,” Straits Times, 17 April 1983, 28. (From NewspaperSG)
-Walton Morais, “Rolling Back the Years with a Legend,”  Business Times, 8 November 1986, 7. (From NewspaperSG)
-“Singapore Lawn Tennis Association,” Malaya Tribune, 30 January 1937, 24. (From NewspaperSG) 
-“Is Bong Soo Wise to Turn Professional?,” Straits Times, 10 May 1936, 27. (From NewspaperSG)
-“Fred Perry To Be In Action Again,” Malaya Tribune, 3 May 1948, 8. (From NewspaperSG)
-“Death of Khoo Hooi Hye in Penang,” Malaya Tribune, 27 July 1936, 11. (From NewspaperSG) 
-“N.S. Wise the First European to Win Singapore Title,” Straits Times, 25 July 1925, 14. (From NewspaperSG)
-“The Big Moments and the New Stars,” Straits Times, 31 December 1951, 12. (From NewspaperSG)
+
+[^31]: Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
+
+[^32]: Lim, “Some Impressions of My Trip to China,” 95.
+
+[^33]: “Chinese National Champion. Lim Bong Soo’s Success in Shanghai,” Straits Budget, 5 November 1931, 31. (From NewspaperSG)
+
+[^34]: Leonard King, “To Serve, with Love,” Straits Times, 17 April 1983, 28. (From NewspaperSG)
+
+[^35]: Walton Morais, “Rolling Back the Years with a Legend,”  Business Times, 8 November 1986, 7. (From NewspaperSG)
+
+[^36]: “Singapore Lawn Tennis Association,” Malaya Tribune, 30 January 1937, 24. (From NewspaperSG) 
+
+[^37]: “Is Bong Soo Wise to Turn Professional?,” Straits Times, 10 May 1936, 27. (From NewspaperSG)
+
+[^38]: “Fred Perry To Be In Action Again,” Malaya Tribune, 3 May 1948, 8. (From NewspaperSG)
+
+[^39]: “Death of Khoo Hooi Hye in Penang,” Malaya Tribune, 27 July 1936, 11. (From NewspaperSG) 
+
+[^40]: “N.S. Wise the First European to Win Singapore Title,” Straits Times, 25 July 1925, 14. (From NewspaperSG)
+
+[^41]: “The Big Moments and the New Stars,” Straits Times, 31 December 1951, 12. (From NewspaperSG)
 It is unclear how Lim Bong Soo, as a professional, was allowed to compete again. One possible explanation is that he had retired from coaching by then and was thus no longer considered a professional.
 “Ong Chew Bee Disappoints,” Singapore Free Press, 26 June 1951, 7. (From NewspaperSG)
 Teoh Eng Tat, “After 11 Years the Zest is Fading, Says Chew Bee,” The Straits Times, 20 July 1960, 15. (From NewspaperSG)
