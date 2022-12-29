@@ -7,7 +7,7 @@ description: Two remarkable athletes served up a storm to make Malaya a
 #### Two remarkable athletes served up a storm to make Malaya a tennispower to contend with during the interwar years.
 By Abhishek Mehrotra
 
-![](/images/Vol%2019%20Issue%201/image1.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image1.png)
 <div style="background-color: white;">(From left) Khoo Hooi Hye and Lim Bong Soo of Singapore, and Gordon Lum and Paul Kong of China during Singapore’s 1929 tour of China. <i>Image reproduced from Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 96. (From BookSG).</i></div>
 
 The spectators seated in the pavilion looking out at the tennis courts on Hong Lim Green, home of the Straits Chinese Recreation Club (SCRC), could barely suppress their excitement. It was 24 April 1929 and two of the most talented tennis players ever seen in Malaya were about to go toe to toe in the club’s championship final.[^1] 
