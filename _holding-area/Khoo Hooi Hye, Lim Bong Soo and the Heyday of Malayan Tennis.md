@@ -131,4 +131,50 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 #### **NOTES**
 
-[^1]: Lee Geok Boi, [*The Syonan Years: Singapore under Japanese Rule 1942–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12661517) (Singapore: National Archives of Singapore and Epigram Pte Ltd, 2005), 44. (From National Library, Singapore, call no. RSING q940.53957 LEE-[WAR])
+[^1]: “Hooi Hye Beaten,” Malaya Tribune, 25 April 1929, 10. (From NewspaperSG)
+“Hooi Hye Beaten.”
+“‘Our Day’ Tennis,” Straits Echo, 18 September 1917, 3; “Golden Jubilee of Straits Chinese Recreation Club,” Malaya Tribune, 13 May 1935, 12. (From NewspaperSG)
+“Khoo Hooi Hye’s Last Year,” Straits Times, 20 May 1930, 15. (From NewspaperSG)
+“Hooi Hye Beaten.”
+“Hooi Hye Beaten.”
+“Hooi Hye Beaten.”
+Nicholas G. Aplin and Quek Jin Jong, “Celestials in Touch: The Development of Sport and Exercise in Colonial Singapore,” The International Journal of the History of Sport 19, no. 2–3 (2002): 68, 72, NIE Digital Repository, https://repository.nie.edu.sg/handle/10497/19780.
+The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “Celestial Reasoning Association,” in Singapore Infopedia. National Library Board Singapore. Article published September 2020.
+Lim Boon Keng in 1893; Song Ong Siang in 1894.
+T.B.G., “Physical Religion,” Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture 1, no.1 (March 1897): 9. (From National Library, Singapore, call no. RRARE 959.5 STR)
+Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
+“Sporting Intelligence,” Malaya Tribune, 25 November 1915, 9. (From NewspaperSG)
+Singapore saw a sports club boom in the mid-1880s. The Singapore Recreation Club was formed in 1883, the Ladies Lawn Tennis Club in November 1884 and the Straits Chinese Recreation Club a month later.
+Song, One Hundred Years’ History of the Chinese in Singapore, 216, 288.
+Song, One Hundred Years’ History of the Chinese in Singapore, 216.
+Apart from being an excellent tennis player, Ong Tek Lim was also a municipal commissioner and a Justice of the Peace. He was only 36 years old when he died of dysentery in 1912. For details, see Song, One Hundred Years’ History of the Chinese in Singapore, 481.
+“Sporting Intelligence.”
+“Lawn Tennis,” Malaya Tribune, 9 September 1921, 6. (From NewspaperSG)
+“Lawn Tennis.”
+“Nakamura’s Fine Record,” Malaya Tribune, 18 July 1922, 8; “Untitled,” Straits Times, 5 September 1923, 3. (From NewspaperSG)
+“Lawn Tennis,” Malayan Saturday Post, 5 April 1924, 11. (From NewspaperSG)
+“Far Eastern Olympiad,” Singapore Free Press and Mercantile Advertiser (Weekly), 7 September 1927, 151. (From NewspaperSG)
+“Hooi Hye Beaten.”
+“Public Amusements,” Straits Times, 27 July 1923, 10; “Untitled,”  Straits Times, 5 September 1923, 3. (From NewspaperSG) 
+“Lawn Tennis,” Malaya Tribune, 8 January 1927, 8. (From NewspaperSG) 
+“Malayan Lawn Tennis Championships,” Singapore Free Press and Mercantile Advertiser, 3 August 1927, 20. (From NewspaperSG) 
+“Malayan Meeting,” Malaya Tribune, 6 August 1929, 10. (From NewspaperSG)
+“Hooi Hye Champion,” Malaya Tribune, 21 June 1929, 10. (From NewspaperSG)
+“Hooi Hye Champion.”  For the earlier 1921 report by the same correspondent, see “Lawn Tennis.”
+Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
+Lim, “Some Impressions of My Trip to China,” 95.
+“Chinese National Champion. Lim Bong Soo’s Success in Shanghai,” Straits Budget, 5 November 1931, 31. (From NewspaperSG)
+Leonard King, “To Serve, with Love,” Straits Times, 17 April 1983, 28. (From NewspaperSG)
+Walton Morais, “Rolling Back the Years with a Legend,”  Business Times, 8 November 1986, 7. (From NewspaperSG)
+“Singapore Lawn Tennis Association,” Malaya Tribune, 30 January 1937, 24. (From NewspaperSG) 
+“Is Bong Soo Wise to Turn Professional?,” Straits Times, 10 May 1936, 27. (From NewspaperSG)
+“Fred Perry To Be In Action Again,” Malaya Tribune, 3 May 1948, 8. (From NewspaperSG)
+“Death of Khoo Hooi Hye in Penang,” Malaya Tribune, 27 July 1936, 11. (From NewspaperSG) 
+“N.S. Wise the First European to Win Singapore Title,” Straits Times, 25 July 1925, 14. (From NewspaperSG)
+“The Big Moments and the New Stars,” Straits Times, 31 December 1951, 12. (From NewspaperSG)
+It is unclear how Lim Bong Soo, as a professional, was allowed to compete again. One possible explanation is that he had retired from coaching by then and was thus no longer considered a professional.
+“Ong Chew Bee Disappoints,” Singapore Free Press, 26 June 1951, 7. (From NewspaperSG)
+Teoh Eng Tat, “After 11 Years the Zest is Fading, Says Chew Bee,” The Straits Times, 20 July 1960, 15. (From NewspaperSG)
+Lester Wong, “Obituary: 1950s Tennis Kingpin Ong Chew Bee, Later a National Golfer, Lived the Sporting Life,” Straits Times, 24 March 2018, https://www.straitstimes.com/sport/obituary-1950s-tennis-kingpin-ong-chew-bee-later-a-national-golfer-lived-the-sporting-life.
+Tan Hai Chuang, “Tennis, Anyone?,” Straits Times, 13 May 2000, 81. (From NewspaperSG)
+“Astra Sharman,” WTA Tour, accessed 22 October 2022, https://www.wtatennis.com/players/319696/astra-sharma#grandslams.
