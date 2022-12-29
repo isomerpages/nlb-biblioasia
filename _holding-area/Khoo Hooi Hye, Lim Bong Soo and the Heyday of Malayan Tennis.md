@@ -197,7 +197,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^33]: “[Chinese National Champion. Lim Bong Soo’s Success in Shanghai](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19311105-1.2.51.9),” *Straits Budget*, 5 November 1931, 31. (From NewspaperSG)
 
-[^34]: Leonard King, “To Serve, with Love,” Straits Times, 17 April 1983, 28. (From NewspaperSG)
+[^34]: Leonard King, “[To Serve, with Love](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830417-1.2.84),” *Straits Times*, 17 April 1983, 28. (From NewspaperSG)
 
 [^35]: Walton Morais, “Rolling Back the Years with a Legend,”  Business Times, 8 November 1986, 7. (From NewspaperSG)
 
