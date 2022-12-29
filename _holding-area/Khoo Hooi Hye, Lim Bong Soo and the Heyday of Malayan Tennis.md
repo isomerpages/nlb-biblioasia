@@ -41,6 +41,9 @@ Song led by example, being an avid tennis player who twice finished runner-up in
 
 Singapore’s first ever non-European club, the SCRC had been founded in late 1884 by five prominent Straits merchants and had taken swiftly to imitating its Padang peers – the European Singapore Cricket Club (SCC) and the Eurasian Singapore Recreation Club (SRC).[^14] The SCRC’s first home was at an “open plain” below Pearl Hill but it was in the grander environs of Hong Lim Green where it moved to two years later that the club established itself as a prominent local institution. From the late 1880s, the green was home to regular cricket tournaments, a Chinese New Year Sports Day and an annual intra-club tennis tournament.[^15]
 
+![](/images/Vol%2019%20Issue%201/image4.png)
+<div style="background-color: white;">The Singapore Chinese Recreation Club’s Lawn Tennis Tournament, 1928. The club was formed in 1884 for the purpose of playing tennis and cricket. <i>Courtesy of Singapore Sports Council.</i></div>
+
 Information on the club’s early years is sparse. We know that the first ever tennis tournament, held sometime between 1885 and 1890, was won by Koh Tiong Yan – a founder of the club – before another merchant called Chia Hood Teck dominated the scene for some time.[^16] During the first decade of the 20th century, Ong Tek Lim – a distinguished merchant who also served as municipal commissioner for the Central Ward – won the trophy five times.[^17] 
 
 ![](/images/Vol%2019%20Issue%201/image3.png)
