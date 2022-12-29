@@ -84,4 +84,29 @@ The conclusion of this trip also brought the curtain down on Singapore tennis’
 
 With nobody to challenge him in Malaya now, Lim scaled new peaks. He racked up six straight Singapore Lawn Tennis championships between 1930 and 1935 to equal Khoo’s record (1923, 1925–29) and won the Malaya Cup three times in a row (1931–33), once again emulating his former rival who won it in 1923, 1925–27 and again in 1929. 
 
-In an interview with the Straits Times in 1983, Lim revealed that when he was at the height of his tennis career in 1933, a wealthy philanthropist – he refused to reveal who – had offered to sponsor his trip to Wimbledon.  
+In an interview with the Straits Times in 1983, Lim revealed that when he was at the height of his tennis career in 1933, a wealthy philanthropist – he refused to reveal who – had offered to sponsor his trip to Wimbledon.
+
+“If I had gone, I might have made it to the semi-finals or even the final. Not in the first year, but maybe in the third or fourth. I was an all-rounder in tennis. I had no weakness,” he recalled wistfully.34  
+
+Back home though, the trophies kept coming and seizing on his unrivalled popularity, the storied English sports company Sykes released a line of rackets in his honour – the Lim Bong Soo Special – in 1936.35 Lim was then 33 years old but with no serious challenger on the horizon, it seemed like he was set to dominate the game for years to come.  
+
+Unfortunately, it was not to be. Tired of being unable to earn a living from the game he loved, Lim shocked the tennis world by going professional in May 1936 to take up a position as tennis coach at the Tanglin Club. (Going professional in those days meant earning a living from the sport whether as a coach or as a player.) He was instantly disqualified from defending both his Singapore and Malayan Cup titles (he had won the latter again in 1935 after missing out on the 1934 edition due to injury).
+
+“We, as an Association are primarily concerned with the Amateur game, and we cannot encourage players to turn professional,” was the Singapore Lawn Tennis Association’s disapproving reaction. “But we can thank Mr Lim Bong Soo for the many pleasures which he has given us when we watched him play, and wish him the best of luck in his new venture.”36
+
+The media was even more critical. “That professionalism should be creeping into Malayan sports is a thing the majority of us would hardly credit and it was particularly disturbing to hear that the finest tennis player in the country had decided to join the ranks of the paid last week,” sniffed the Straits Times sports correspondent. “Very often, however, one finds a person who is not quite top class a very excellent teacher. This is so at cricket and football and can also apply to lawn tennis.”37
+
+It was a churlish farewell to a sporting great, though to give a sense of the times, Fred Perry, who became Britain’s greatest tennis star, turned professional that same year, also to widespread opprobrium.38
+
+It would be 32 more years before the tennis world would allow, in 1968, those who played for prize money to compete with those who played as amateurs. 
+
+There was, however, a more poignant farewell in 1936. Khoo, who had spent the earlier part of the year playing in various exhibitions, passed away in July due to kidney complications. He was only 35 years old.39 
+
+Two days before Khoo’s death, N.S. Wise became the first ever European to lift the Singapore Lawn Tennis Championship.40 Between the two of them, Khoo and Lim had won 12 of 15 Singapore Championships and nine of the 15 Malaya Cups since both tournaments began in 1921. By keeping the Europeans at bay, they had shown the local Chinese that it was possible to not just play the colonial masters’ game but to beat them at it.
+
+Unfortunately, Singapore tennis began a gradual decline after Khoo’s passing and Lim’s turn to professionalism, a decline exacerbated by the Second World War. “Where are the young and promising?” grumbled a tennis expert in 1951 when tennis had restarted in earnest.41 The writer was reacting to the fact that, quite incredibly, Lim, now 48 years of age and still playing tennis, had made it to the semi-finals of the Singapore Championships held that year.42  
+
+#### **Tennis Champ Turned Golfer**
+
+The game’s dying embers though, threw up a few final sparks. Ong Chew Bee, 26, became the first Singapore-born tennis player to play at Wimbledon’s hallowed lawns in 1951, losing in the first-round to Englishman G.D. Oakley in three hard-fought sets.43 
+Born in 1924, Ong had grown up when Khoo and Lim were at the peak of their fame and success but took up tennis at an unpropitious time in 1939, 
