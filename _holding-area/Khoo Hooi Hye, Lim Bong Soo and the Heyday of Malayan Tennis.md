@@ -207,11 +207,11 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^38]: “[Fred Perry To Be In Action Again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480503-1.2.97),” *Malaya Tribune*, 3 May 1948, 8. (From NewspaperSG)
 
-[^39]: “Death of Khoo Hooi Hye in Penang,” Malaya Tribune, 27 July 1936, 11. (From NewspaperSG) 
+[^39]: “[Death of Khoo Hooi Hye in Penang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360727-1.2.69),” *Malaya Tribune*, 27 July 1936, 11. (From NewspaperSG) 
 
-[^40]: “N.S. Wise the First European to Win Singapore Title,” Straits Times, 25 July 1925, 14. (From NewspaperSG)
+[^40]: “[N.S. Wise the First European to Win Singapore Title](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360725-1.2.85),” *Straits Times*, 25 July 1925, 14. (From NewspaperSG)
 
-[^41]: “The Big Moments and the New Stars,” Straits Times, 31 December 1951, 12. (From NewspaperSG)
+[^41]: “[The Big Moments and the New Stars](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511231-1.2.145),” *Straits Times*, 31 December 1951, 12. (From NewspaperSG)
 
 [^42]: It is unclear how Lim Bong Soo, as a professional, was allowed to compete again. One possible explanation is that he had retired from coaching by then and was thus no longer considered a professional.
 
