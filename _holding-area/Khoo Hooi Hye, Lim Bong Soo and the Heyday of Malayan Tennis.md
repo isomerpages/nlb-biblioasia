@@ -221,6 +221,6 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^45]: Lester Wong, “Obituary: 1950s Tennis Kingpin Ong Chew Bee, Later a National Golfer, Lived the Sporting Life,” Straits Times, 24 March 2018, https://www.straitstimes.com/sport/obituary-1950s-tennis-kingpin-ong-chew-bee-later-a-national-golfer-lived-the-sporting-life.
 
-[^46]: Tan Hai Chuang, “Tennis, Anyone?,” Straits Times, 13 May 2000, 81. (From NewspaperSG)
+[^46]: Tan Hai Chuang, “Tennis, Anyone?,” *Straits Times*, 13 May 2000, 81. (From NewspaperSG)
 
 [^47]: “Astra Sharman,” WTA Tour, accessed 22 October 2022, https://www.wtatennis.com/players/319696/astra-sharma#grandslams.
