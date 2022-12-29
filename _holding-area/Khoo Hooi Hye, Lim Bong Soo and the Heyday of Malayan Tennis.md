@@ -217,7 +217,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^43]: “[Ong Chew Bee Disappoints](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510626-1.2.119),” *Singapore Free Press*, 26 June 1951, 7. (From NewspaperSG)
 
-[^44]: Teoh Eng Tat, “After 11 Years the Zest is Fading, Says Chew Bee,” The Straits Times, 20 July 1960, 15. (From NewspaperSG)
+[^44]: Teoh Eng Tat, “[After 11 Years the Zest is Fading, Says Chew Bee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600720-1.2.136),” *The Straits Times*, 20 July 1960, 15. (From NewspaperSG)
 
 [^45]: Lester Wong, “Obituary: 1950s Tennis Kingpin Ong Chew Bee, Later a National Golfer, Lived the Sporting Life,” Straits Times, 24 March 2018, https://www.straitstimes.com/sport/obituary-1950s-tennis-kingpin-ong-chew-bee-later-a-national-golfer-lived-the-sporting-life.
 
