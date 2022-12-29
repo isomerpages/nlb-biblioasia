@@ -43,6 +43,9 @@ Singapore’s first ever non-European club, the SCRC had been founded in late 18
 
 Information on the club’s early years is sparse. We know that the first ever tennis tournament, held sometime between 1885 and 1890, was won by Koh Tiong Yan – a founder of the club – before another merchant called Chia Hood Teck dominated the scene for some time.[^16] During the first decade of the 20th century, Ong Tek Lim – a distinguished merchant who also served as municipal commissioner for the Central Ward – won the trophy five times.[^17] 
 
+![](/images/Vol%2019%20Issue%201/image3.png)
+<div style="background-color: white;">Competitors of the Singapore Cricket Club’s Lawn Tennis Tournament, 1894. The club hosted the colony’s first ever tennis tournament in 1875. <i>Courtesy of Singapore Sports Council.</i></div>
+
 The SCRC championships continued apace during World War I. The club even expanded its reach, hosting Penang as well as travelling to the sister settlement to compete against its Chinese Recreation Club.[^18] However, it was only after 1918 that tennis in the Straits, especially Singapore, truly became a force to be reckoned with, thanks to men like Khoo Hooi Hye and Lim Bong Soo.
 
 #### **Tennis Ace Khoo Hooi Hye**
