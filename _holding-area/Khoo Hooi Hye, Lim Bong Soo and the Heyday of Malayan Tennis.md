@@ -135,7 +135,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^2]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69).”
 
-[^3]: “‘Our Day’ Tennis,” Straits Echo, 18 September 1917, 3; “Golden Jubilee of Straits Chinese Recreation Club,” Malaya Tribune, 13 May 1935, 12. (From NewspaperSG)
+[^3]: “[‘Our Day’ Tennis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsecho19170918-1.2.12),” Straits Echo, 18 September 1917, 3; “Golden Jubilee of Straits Chinese Recreation Club,” Malaya Tribune, 13 May 1935, 12. (From NewspaperSG)
 
 [^4]: “Khoo Hooi Hye’s Last Year,” Straits Times, 20 May 1930, 15. (From NewspaperSG)
 
