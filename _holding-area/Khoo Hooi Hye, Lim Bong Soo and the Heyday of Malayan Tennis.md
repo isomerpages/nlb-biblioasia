@@ -152,25 +152,44 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 [^10]: Lim Boon Keng in 1893; Song Ong Siang in 1894.
 
 [^11]: T.B.G., “Physical Religion,” Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture 1, no.1 (March 1897): 9. (From National Library, Singapore, call no. RRARE 959.5 STR)
-Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
-“Sporting Intelligence,” Malaya Tribune, 25 November 1915, 9. (From NewspaperSG)
-Singapore saw a sports club boom in the mid-1880s. The Singapore Recreation Club was formed in 1883, the Ladies Lawn Tennis Club in November 1884 and the Straits Chinese Recreation Club a month later.
-Song, One Hundred Years’ History of the Chinese in Singapore, 216, 288.
-Song, One Hundred Years’ History of the Chinese in Singapore, 216.
-Apart from being an excellent tennis player, Ong Tek Lim was also a municipal commissioner and a Justice of the Peace. He was only 36 years old when he died of dysentery in 1912. For details, see Song, One Hundred Years’ History of the Chinese in Singapore, 481.
-“Sporting Intelligence.”
-“Lawn Tennis,” Malaya Tribune, 9 September 1921, 6. (From NewspaperSG)
-“Lawn Tennis.”
-“Nakamura’s Fine Record,” Malaya Tribune, 18 July 1922, 8; “Untitled,” Straits Times, 5 September 1923, 3. (From NewspaperSG)
-“Lawn Tennis,” Malayan Saturday Post, 5 April 1924, 11. (From NewspaperSG)
-“Far Eastern Olympiad,” Singapore Free Press and Mercantile Advertiser (Weekly), 7 September 1927, 151. (From NewspaperSG)
-“Hooi Hye Beaten.”
-“Public Amusements,” Straits Times, 27 July 1923, 10; “Untitled,”  Straits Times, 5 September 1923, 3. (From NewspaperSG) 
-“Lawn Tennis,” Malaya Tribune, 8 January 1927, 8. (From NewspaperSG) 
-“Malayan Lawn Tennis Championships,” Singapore Free Press and Mercantile Advertiser, 3 August 1927, 20. (From NewspaperSG) 
-“Malayan Meeting,” Malaya Tribune, 6 August 1929, 10. (From NewspaperSG)
-“Hooi Hye Champion,” Malaya Tribune, 21 June 1929, 10. (From NewspaperSG)
-“Hooi Hye Champion.”  For the earlier 1921 report by the same correspondent, see “Lawn Tennis.”
+
+[^12]: Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
+
+[^13]: “Sporting Intelligence,” Malaya Tribune, 25 November 1915, 9. (From NewspaperSG)
+
+[^14]: Singapore saw a sports club boom in the mid-1880s. The Singapore Recreation Club was formed in 1883, the Ladies Lawn Tennis Club in November 1884 and the Straits Chinese Recreation Club a month later.
+
+[^15]: Song, One Hundred Years’ History of the Chinese in Singapore, 216, 288.
+
+[^16]: Song, One Hundred Years’ History of the Chinese in Singapore, 216.
+
+[^17]: Apart from being an excellent tennis player, Ong Tek Lim was also a municipal commissioner and a Justice of the Peace. He was only 36 years old when he died of dysentery in 1912. For details, see Song, One Hundred Years’ History of the Chinese in Singapore, 481.
+
+[^18]: “Sporting Intelligence.”
+
+[^19]: “Lawn Tennis,” Malaya Tribune, 9 September 1921, 6. (From NewspaperSG)
+
+[^20]: “Lawn Tennis.”
+
+[^21]: “Nakamura’s Fine Record,” Malaya Tribune, 18 July 1922, 8; “Untitled,” Straits Times, 5 September 1923, 3. (From NewspaperSG)
+
+[^22]: “Lawn Tennis,” Malayan Saturday Post, 5 April 1924, 11. (From NewspaperSG)
+
+[^23]: “Far Eastern Olympiad,” Singapore Free Press and Mercantile Advertiser (Weekly), 7 September 1927, 151. (From NewspaperSG)
+
+[^24]: “Hooi Hye Beaten.”
+
+[^25]: “Public Amusements,” Straits Times, 27 July 1923, 10; “Untitled,”  Straits Times, 5 September 1923, 3. (From NewspaperSG) 
+
+[^26]: “Lawn Tennis,” Malaya Tribune, 8 January 1927, 8. (From NewspaperSG) 
+
+[^27]: “Malayan Lawn Tennis Championships,” Singapore Free Press and Mercantile Advertiser, 3 August 1927, 20. (From NewspaperSG) 
+
+[^28]: “Malayan Meeting,” Malaya Tribune, 6 August 1929, 10. (From NewspaperSG)
+
+[^29]: “Hooi Hye Champion,” Malaya Tribune, 21 June 1929, 10. (From NewspaperSG)
+
+[^30]: “Hooi Hye Champion.”  For the earlier 1921 report by the same correspondent, see “Lawn Tennis.”
 Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
 Lim, “Some Impressions of My Trip to China,” 95.
 “Chinese National Champion. Lim Bong Soo’s Success in Shanghai,” Straits Budget, 5 November 1931, 31. (From NewspaperSG)
