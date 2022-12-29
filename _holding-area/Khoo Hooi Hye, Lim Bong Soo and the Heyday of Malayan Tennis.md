@@ -189,7 +189,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^29]: “[Hooi Hye Champion](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290621-1.2.89),” *Malaya Tribune*, 21 June 1929, 10. (From NewspaperSG)
 
-[^30]: “Hooi Hye Champion.”  For the earlier 1921 report by the same correspondent, see “Lawn Tennis.”
+[^30]: “[Hooi Hye Champion](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290621-1.2.89).”  For the earlier 1921 report by the same correspondent, see “Lawn Tennis.”
 
 [^31]: Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
 
