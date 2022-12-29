@@ -132,16 +132,26 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 #### **NOTES**
 
 [^1]: “Hooi Hye Beaten,” Malaya Tribune, 25 April 1929, 10. (From NewspaperSG)
-“Hooi Hye Beaten.”
-“‘Our Day’ Tennis,” Straits Echo, 18 September 1917, 3; “Golden Jubilee of Straits Chinese Recreation Club,” Malaya Tribune, 13 May 1935, 12. (From NewspaperSG)
-“Khoo Hooi Hye’s Last Year,” Straits Times, 20 May 1930, 15. (From NewspaperSG)
-“Hooi Hye Beaten.”
-“Hooi Hye Beaten.”
-“Hooi Hye Beaten.”
-Nicholas G. Aplin and Quek Jin Jong, “Celestials in Touch: The Development of Sport and Exercise in Colonial Singapore,” The International Journal of the History of Sport 19, no. 2–3 (2002): 68, 72, NIE Digital Repository, https://repository.nie.edu.sg/handle/10497/19780.
-The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “Celestial Reasoning Association,” in Singapore Infopedia. National Library Board Singapore. Article published September 2020.
-Lim Boon Keng in 1893; Song Ong Siang in 1894.
-T.B.G., “Physical Religion,” Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture 1, no.1 (March 1897): 9. (From National Library, Singapore, call no. RRARE 959.5 STR)
+
+[^2]: “Hooi Hye Beaten.”
+
+[^3]: “‘Our Day’ Tennis,” Straits Echo, 18 September 1917, 3; “Golden Jubilee of Straits Chinese Recreation Club,” Malaya Tribune, 13 May 1935, 12. (From NewspaperSG)
+
+[^4]: “Khoo Hooi Hye’s Last Year,” Straits Times, 20 May 1930, 15. (From NewspaperSG)
+
+[^5]: “Hooi Hye Beaten.”
+
+[^6]: “Hooi Hye Beaten.”
+
+[^7]: “Hooi Hye Beaten.”
+
+[^8]: Nicholas G. Aplin and Quek Jin Jong, “Celestials in Touch: The Development of Sport and Exercise in Colonial Singapore,” The International Journal of the History of Sport 19, no. 2–3 (2002): 68, 72, NIE Digital Repository, https://repository.nie.edu.sg/handle/10497/19780.
+
+[^9]: The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “Celestial Reasoning Association,” in Singapore Infopedia. National Library Board Singapore. Article published September 2020.
+
+[^10]: Lim Boon Keng in 1893; Song Ong Siang in 1894.
+
+[^11]: T.B.G., “Physical Religion,” Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture 1, no.1 (March 1897): 9. (From National Library, Singapore, call no. RRARE 959.5 STR)
 Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
 “Sporting Intelligence,” Malaya Tribune, 25 November 1915, 9. (From NewspaperSG)
 Singapore saw a sports club boom in the mid-1880s. The Singapore Recreation Club was formed in 1883, the Ladies Lawn Tennis Club in November 1884 and the Straits Chinese Recreation Club a month later.
