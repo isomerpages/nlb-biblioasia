@@ -181,11 +181,11 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^25]: “[Public Amusements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230727-1.2.67),” *Straits Times*, 27 July 1923, 10; “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230905-1.2.6),”  *Straits Times*, 5 September 1923, 3. (From NewspaperSG) 
 
-[^26]: “Lawn Tennis,” Malaya Tribune, 8 January 1927, 8. (From NewspaperSG) 
+[^26]: “[Lawn Tennis](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19270108-1.2.55),” *Malaya Tribune*, 8 January 1927, 8. (From NewspaperSG) 
 
-[^27]: “Malayan Lawn Tennis Championships,” Singapore Free Press and Mercantile Advertiser, 3 August 1927, 20. (From NewspaperSG) 
+[^27]: “[Malayan Lawn Tennis Championships](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19270803-1.2.129),” *Singapore Free Press and Mercantile Advertiser*, 3 August 1927, 20. (From NewspaperSG) 
 
-[^28]: “Malayan Meeting,” Malaya Tribune, 6 August 1929, 10. (From NewspaperSG)
+[^28]: “[Malayan Meeting](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290806-1.2.85),” *Malaya Tribune*, 6 August 1929, 10. (From NewspaperSG)
 
 [^29]: “Hooi Hye Champion,” Malaya Tribune, 21 June 1929, 10. (From NewspaperSG)
 
