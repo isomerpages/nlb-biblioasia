@@ -195,7 +195,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^32]: Lim, “Some Impressions of My Trip to China,” 95.
 
-[^33]: “Chinese National Champion. Lim Bong Soo’s Success in Shanghai,” Straits Budget, 5 November 1931, 31. (From NewspaperSG)
+[^33]: “[Chinese National Champion. Lim Bong Soo’s Success in Shanghai](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19311105-1.2.51.9),” *Straits Budget*, 5 November 1931, 31. (From NewspaperSG)
 
 [^34]: Leonard King, “To Serve, with Love,” Straits Times, 17 April 1983, 28. (From NewspaperSG)
 
