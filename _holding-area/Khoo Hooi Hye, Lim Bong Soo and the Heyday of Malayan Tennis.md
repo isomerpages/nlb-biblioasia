@@ -171,7 +171,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^20]: “[Lawn Tennis](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19210909-1.2.56).”
 
-[^21]: “Nakamura’s Fine Record,” Malaya Tribune, 18 July 1922, 8; “Untitled,” Straits Times, 5 September 1923, 3. (From NewspaperSG)
+[^21]: “[Nakamura’s Fine Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220718-1.2.72),” *Malaya Tribune*, 18 July 1922, 8; “Untitled,” Straits Times, 5 September 1923, 3. (From NewspaperSG)
 
 [^22]: “Lawn Tennis,” Malayan Saturday Post, 5 April 1924, 11. (From NewspaperSG)
 
