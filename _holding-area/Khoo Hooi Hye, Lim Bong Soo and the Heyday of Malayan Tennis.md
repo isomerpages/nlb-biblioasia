@@ -22,7 +22,7 @@ In the first set, Khoo was at his vintage best, mixing “terrific force” with
 
 What Lim lacked in stature though, he made up for in unrelenting accuracy, unflagging stamina and steely nerves; the diminutive southpaw roared back to 4-4 and ultimately took the second set 8-6 after saving a match point. Almost spent, Khoo simply could not keep up with his younger opponent in the third set. He went down 5-0 and even though there was a tiny flicker at the end when he won two games in a row, it was Lim who ultimately prevailed at 0-6, 8-6, 6-2.[^6]
 
-![](/images/Vol%2019%20Issue%201/image2.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image2.png)
 <div style="background-color: white;">Lim Bong Soo at the Singapore Cricket Club, c. 1930s. <i>Courtesy of Singapore Sports Council.</i></div>
 
 “Hooi Hye Beaten. Heroic Struggle with Younger Challenger,” screamed the *Malaya Tribune* the following day.[^7] Even by the rarefied standards of Singapore tennis at the time, this had been a titanic clash between two legends – one established; the other, destined. 
@@ -41,12 +41,12 @@ Song led by example, being an avid tennis player who twice finished runner-up in
 
 Singapore’s first ever non-European club, the SCRC had been founded in late 1884 by five prominent Straits merchants and had taken swiftly to imitating its Padang peers – the European Singapore Cricket Club (SCC) and the Eurasian Singapore Recreation Club (SRC).[^14] The SCRC’s first home was at an “open plain” below Pearl Hill but it was in the grander environs of Hong Lim Green where it moved to two years later that the club established itself as a prominent local institution. From the late 1880s, the green was home to regular cricket tournaments, a Chinese New Year Sports Day and an annual intra-club tennis tournament.[^15]
 
-![](/images/Vol%2019%20Issue%201/image4.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image4.png)
 <div style="background-color: white;">The Singapore Chinese Recreation Club’s Lawn Tennis Tournament, 1928. The club was formed in 1884 for the purpose of playing tennis and cricket. <i>Courtesy of Singapore Sports Council.</i></div>
 
 Information on the club’s early years is sparse. We know that the first ever tennis tournament, held sometime between 1885 and 1890, was won by Koh Tiong Yan – a founder of the club – before another merchant called Chia Hood Teck dominated the scene for some time.[^16] During the first decade of the 20th century, Ong Tek Lim – a distinguished merchant who also served as municipal commissioner for the Central Ward – won the trophy five times.[^17] 
 
-![](/images/Vol%2019%20Issue%201/image3.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image3.png)
 <div style="background-color: white;">Competitors of the Singapore Cricket Club’s Lawn Tennis Tournament, 1894. The club hosted the colony’s first ever tennis tournament in 1875. <i>Courtesy of Singapore Sports Council.</i></div>
 
 The SCRC championships continued apace during World War I. The club even expanded its reach, hosting Penang as well as travelling to the sister settlement to compete against its Chinese Recreation Club.[^18] However, it was only after 1918 that tennis in the Straits, especially Singapore, truly became a force to be reckoned with, thanks to men like Khoo Hooi Hye and Lim Bong Soo.
@@ -81,7 +81,7 @@ Later in the year, the two met yet again, this time in the semi-final of the Mal
 
 In August 1929, the duo clashed again – this time at the SCC in the Malaya Cup final. In stark contrast to the earlier April match though, this one was an anti-climax. Lim, having played the singles and doubles semi-finals earlier that same day was forced to retire due to exhaustion, handing Khoo his fifth and final Malaya Cup.[^28]
 
-![](/images/Vol%2019%20Issue%201/image5.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image5.png)
 <div style="background-color: white;">Khoo Hooi Hye (left) and Lim Bong Soo (right) before the final of the Malaya Cup held at the Singapore Cricket Club on 6 August 1929. This would be the last time the two would meet in competitions, as Khoo moved to Shanghai in 1930. <i>Image reproduced from “Malayan Lawn Tennis Championships,” Malayan Saturday Post, 10 August 1929, 17. (From NewsaperSG).</i></div>
 
 The year 1929 was one of the most memorable in Khoo’s celebrated career. Between the two contrasting clashes with Lim, he had played another match for the ages, on 20 June, in the Singapore Championship final against the Frenchman Paul Clerc.[^29]
@@ -90,7 +90,7 @@ Clerc had had Khoo’s number in the previous year’s final and when he led 6-1
 
 Such jibes notwithstanding, Khoo had overcome his April SCRC heartbreak by taking the two biggest trophies in the land – the Singapore Open and the Malaya Cup. These would be his final triumphs here. 
 
-![](/images/Vol%2019%20Issue%201/image6.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image6png)
 <div style="background-color: white;">Lim Bong Soo at the Hong Kong Open Championship with his trophies, 1929. <i>Image reproduced from Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang. (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 94. (From BookSG).</i></div>
 
 In September 1929, Aw Boon Haw – who founded the Chinese ointment brand Tiger Balm – recognised that his salve and athletic endeavours made for natural allies. He decided to sponsor Singapore’s elite tennis and swimming athletes on a trip to the Far East where they competed in a medley of competitive and exhibition matches. Lim established himself as an all-Asian force by winning the Hong Kong Open before partnering Khoo in Shanghai to win almost every match there despite playing in such cold conditions that Lim’s “ear and lips split”.[^31]  
@@ -129,7 +129,7 @@ The game’s dying embers though, threw up a few final sparks. Ong Chew Bee, 26,
 
 Born in 1924, Ong had grown up when Khoo and Lim were at the peak of their fame and success but took up tennis at an unpropitious time in 1939, with the war looming over the horizon. Encouraged by his father, an eminent doctor, who built a tennis court at home, Ong persevered through the lack of tournaments and even a shortage of tennis balls to emerge on the other side of the war as one of the region’s most accomplished players. By 1950, Ong was striding across Malayan courts like a colossus in the mould of pre-war heroes Khoo and Lim. That year, Ong won the singles and doubles tournaments at both the Singapore Championship and the Malaya Cup. For good measure, he won the former’s mixed doubles too.[^44]  
 
-![](/images/Vol%2019%20Issue%201/image7.png)
+![](/images/Vol%2019%20Issue%201/Tennis/image7.png)
 <div style="background-color: white;">At the 1950 Singapore tennis championship, Ong Chew Bee won the men’s singles, doubles (with Lim Hee Chin) and mixed doubles (with Mrs A. Greenhill) events. <i>Image reproduced from “Chew Bee Wins Triple Crown, Straits Budget, 13 July 1950, 19. (From NewspaperSG).</i></div>
 
 Ong’s father rewarded him for these exploits with a trip to Wimbledon in 1951. While he was beaten in the first round, Ong would not lose to a Malayan player for the rest of the decade. By the time he hung up his racket, Ong had won eight Singapore Championships (1950, 1952–58), three Malaya Cups (1950, 1954–55) and travelled to Ceylon, the Philippines and India as a member of the Malayan Davis Cup team. There was an astonishing post-script as well. After retiring from tennis, the right-handed Ong took up golf – left-handed – and emerged as one of Singapore’s most successful amateur golfers. He was also part of the team that won the 1967 Putra Cup.[^45]    
