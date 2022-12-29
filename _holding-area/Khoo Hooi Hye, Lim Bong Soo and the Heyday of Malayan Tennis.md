@@ -153,7 +153,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^11]: T.B.G., “Physical Religion,” [Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779) 1, no.1 (March 1897): 9. (From National Library, Singapore, call no. RRARE 959.5 STR)
 
-[^12]: Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
+[^12]: Song Ong Siang, [One Hundred Years’ History of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
 
 [^13]: “Sporting Intelligence,” Malaya Tribune, 25 November 1915, 9. (From NewspaperSG)
 
