@@ -65,4 +65,23 @@ Khoo’s success came at a time when sporting accomplishments were not only admi
 
 #### **Lim Bong Soo’s Meteoric Rise**
 
-Lim Bong Soo’s rise to prominence in the mid-1920s added further glamour to the game as he and Khoo battled it out in individual competitions while representing Singapore in team tournaments across the region. Their first meaningful encounter was the 
+Lim Bong Soo’s rise to prominence in the mid-1920s added further glamour to the game as he and Khoo battled it out in individual competitions while representing Singapore in team tournaments across the region. Their first meaningful encounter was the 1926 Singapore Championship final in which “almost every game was marked with dazzling rallies”. Even though Lim lost to Khoo by two straight sets, a perceptive correspondent observed that “with a little more experience, however, Bong Soo should find his place somewhere near the top of the Malayan lawn tennis ladder”.26
+
+Later in the year, the two met yet again, this time in the semi-final of the Malaya Cup and once again, the veteran Khoo managed to hold off his younger challenger in a close encounter.27 It would take two more years and that match on Hong Lim Green on 24 April 1929 for Lim to finally beat Khoo on the big stage. 
+
+In August 1929, the duo clashed again – this time at the SCC in the Malaya Cup final. In stark contrast to the earlier April match though, this one was an anti-climax. Lim, having played the singles and doubles semi-finals earlier that same day was forced to retire due to exhaustion, handing Khoo his fifth and final Malaya Cup.28
+The year 1929 was one of the most memorable in Khoo’s celebrated career. Between the two contrasting clashes with Lim, he had played another match for the ages, on 20 June, in the Singapore Championship final against the Frenchman Paul Clerc.29
+
+Clerc had had Khoo’s number in the previous year’s final and when he led 6-1, 5-1 within 25 minutes of the match, it was “eclipse”, as the Malaya Tribune vividly put it. But Khoo turned around this seemingly impossible situation to triumph 1-6, 8-6, 6-2. The same correspondent, nicknamed “Echo”, who had written so disparagingly about Khoo eight years ago was at it again. “Looking back on the match, it has to be conceded that Clerc ought to have won, and that he beat himself.”30
+
+Such jibes notwithstanding, Khoo had overcome his April SCRC heartbreak by taking the two biggest trophies in the land – the Singapore Open and the Malaya Cup. These would be his final triumphs here. 
+
+In September 1929, Aw Boon Haw – who founded the Chinese ointment brand Tiger Balm – recognised that his salve and athletic endeavours made for natural allies. He decided to sponsor Singapore’s elite tennis and swimming athletes on a trip to the Far East where they competed in a medley of competitive and exhibition matches. Lim established himself as an all-Asian force by winning the Hong Kong Open before partnering Khoo in Shanghai to win almost every match there despite playing in such cold conditions that Lim’s “ear and lips split”.31  
+
+The Far East trip was a roaring commercial success with thousands of people watching the talented duo in action. Lim later wrote that “in their excitement, some of the spectators interfered by blocking and shouting during the progress of the play, so that Mr. C.G. Hoh, the Secretary of the Federation, had twice to stop the game temporarily to allow excited feelings to cool down”.32
+
+The conclusion of this trip also brought the curtain down on Singapore tennis’ most storied era. In 1930, the Chinese government invited Khoo to represent China at that year’s Far Eastern Olympic Games in Tokyo – the same tournament where he had won gold for them in 1927. Khoo accepted and after the competition was over, he settled down in Shanghai. The paths of the two great friends and rivals would still cross occasionally – most notably when Lim beat Khoo in five enthralling sets in the final of the 1931 National Tennis Tournament organised by the Chinese National Amateur Athletic Foundation.33
+
+With nobody to challenge him in Malaya now, Lim scaled new peaks. He racked up six straight Singapore Lawn Tennis championships between 1930 and 1935 to equal Khoo’s record (1923, 1925–29) and won the Malaya Cup three times in a row (1931–33), once again emulating his former rival who won it in 1923, 1925–27 and again in 1929. 
+
+In an interview with the Straits Times in 1983, Lim revealed that when he was at the height of his tennis career in 1933, a wealthy philanthropist – he refused to reveal who – had offered to sponsor his trip to Wimbledon.  
