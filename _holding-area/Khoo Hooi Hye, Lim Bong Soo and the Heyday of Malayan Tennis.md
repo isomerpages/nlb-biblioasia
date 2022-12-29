@@ -165,7 +165,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^17]: Apart from being an excellent tennis player, Ong Tek Lim was also a municipal commissioner and a Justice of the Peace. He was only 36 years old when he died of dysentery in 1912. For details, see Song, [*One Hundred Years’ History of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287), 481.
 
-[^18]: “Sporting Intelligence.”
+[^18]: “[Sporting Intelligence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19151125-1.2.21.35).”
 
 [^19]: “Lawn Tennis,” Malaya Tribune, 9 September 1921, 6. (From NewspaperSG)
 
