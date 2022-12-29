@@ -90,7 +90,7 @@ Clerc had had Khoo’s number in the previous year’s final and when he led 6-1
 
 Such jibes notwithstanding, Khoo had overcome his April SCRC heartbreak by taking the two biggest trophies in the land – the Singapore Open and the Malaya Cup. These would be his final triumphs here. 
 
-![](/images/Vol%2019%20Issue%201/Tennis/image6png)
+![](/images/Vol%2019%20Issue%201/Tennis/image6.png)
 <div style="background-color: white;">Lim Bong Soo at the Hong Kong Open Championship with his trophies, 1929. <i>Image reproduced from Lim Bong Soo, “Some Impressions of My Trip to China,” in Straits Chinese Annual, 1930, ed. Song Ong Siang. (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 94. (From BookSG).</i></div>
 
 In September 1929, Aw Boon Haw – who founded the Chinese ointment brand Tiger Balm – recognised that his salve and athletic endeavours made for natural allies. He decided to sponsor Singapore’s elite tennis and swimming athletes on a trip to the Far East where they competed in a medley of competitive and exhibition matches. Lim established himself as an all-Asian force by winning the Hong Kong Open before partnering Khoo in Shanghai to win almost every match there despite playing in such cold conditions that Lim’s “ear and lips split”.[^31]  
