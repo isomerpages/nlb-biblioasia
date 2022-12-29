@@ -22,7 +22,7 @@ In the first set, Khoo was at his vintage best, mixing “terrific force” with
 
 What Lim lacked in stature though, he made up for in unrelenting accuracy, unflagging stamina and steely nerves; the diminutive southpaw roared back to 4-4 and ultimately took the second set 8-6 after saving a match point. Almost spent, Khoo simply could not keep up with his younger opponent in the third set. He went down 5-0 and even though there was a tiny flicker at the end when he won two games in a row, it was Lim who ultimately prevailed at 0-6, 8-6, 6-2.[^6]
 
-“Hooi Hye Beaten. Heroic Struggle with Younger Challenger,” screamed the Malaya Tribune the following day.[^7] Even by the rarefied standards of Singapore tennis at the time, this had been a titanic clash between two legends – one established; the other, destined. 
+“Hooi Hye Beaten. Heroic Struggle with Younger Challenger,” screamed the *Malaya Tribune* the following day.[^7] Even by the rarefied standards of Singapore tennis at the time, this had been a titanic clash between two legends – one established; the other, destined. 
 
 #### **A Question of Identity**
 
