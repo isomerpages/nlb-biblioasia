@@ -203,7 +203,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^36]: “[Singapore Lawn Tennis Association](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19370130-1.2.99),” *Malaya Tribune*, 30 January 1937, 24. (From NewspaperSG) 
 
-[^37]: “Is Bong Soo Wise to Turn Professional?,” Straits Times, 10 May 1936, 27. (From NewspaperSG)
+[^37]: “[Is Bong Soo Wise to Turn Professional?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360510-1.2.198),” *Straits Times*, 10 May 1936, 27. (From NewspaperSG)
 
 [^38]: “Fred Perry To Be In Action Again,” Malaya Tribune, 3 May 1948, 8. (From NewspaperSG)
 
