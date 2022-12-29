@@ -60,7 +60,7 @@ It was Nakamura who emerged victorious in the 1921 final. While Khoo did not win
 
 The biggest feathers in Khoo’s cap came in 1924. He became the first ever Malayan to play Wimbledon (he lost in the second round) and to participate in the Olympics in Paris, as part of a four-member Chinese contingent.[^22] Three years later, in 1927, Khoo won both the singles and doubles gold while representing China at the Shanghai Far Eastern Olympic Games (a precursor to the modern Asian Games).[^23]
 
-Apart from these tournaments, Khoo spent much of the 1920s winning accolades in Java, Manila and Hong Kong. There were also triumphs over the Calcutta and Thai singles champions and general acclaim that far from being merely steady, he was the most talented player the Straits had ever seen.[^24] 
+Apart from these tournaments, Khoo spent much of the 1920s winning accolades in Java, Manila and Hong Kong. There were also triumphs over the Calcutta and Thai singles champions and general acclaim that far from being merely *steady*, he was the most talented player the Straits had ever seen.[^24] 
 
 Khoo’s success came at a time when sporting accomplishments were not only admired but feted among the Straits Chinese. Newspaper reports of some of his best matches ran into hundreds of words while dinner parties and concerts were thrown in his honour. Films capturing some of his matches were also shown in popular venues of the time.[^25]  
 
@@ -86,7 +86,7 @@ The conclusion of this trip also brought the curtain down on Singapore tennis’
 
 With nobody to challenge him in Malaya now, Lim scaled new peaks. He racked up six straight Singapore Lawn Tennis championships between 1930 and 1935 to equal Khoo’s record (1923, 1925–29) and won the Malaya Cup three times in a row (1931–33), once again emulating his former rival who won it in 1923, 1925–27 and again in 1929. 
 
-In an interview with the Straits Times in 1983, Lim revealed that when he was at the height of his tennis career in 1933, a wealthy philanthropist – he refused to reveal who – had offered to sponsor his trip to Wimbledon.
+In an interview with the *Straits Times* in 1983, Lim revealed that when he was at the height of his tennis career in 1933, a wealthy philanthropist – he refused to reveal who – had offered to sponsor his trip to Wimbledon.
 
 “If I had gone, I might have made it to the semi-finals or even the final. Not in the first year, but maybe in the third or fourth. I was an all-rounder in tennis. I had no weakness,” he recalled wistfully.[^34]  
 
@@ -96,7 +96,7 @@ Unfortunately, it was not to be. Tired of being unable to earn a living from the
 
 “We, as an Association are primarily concerned with the Amateur game, and we cannot encourage players to turn professional,” was the Singapore Lawn Tennis Association’s disapproving reaction. “But we can thank Mr Lim Bong Soo for the many pleasures which he has given us when we watched him play, and wish him the best of luck in his new venture.”[^36]
 
-The media was even more critical. “That professionalism should be creeping into Malayan sports is a thing the majority of us would hardly credit and it was particularly disturbing to hear that the finest tennis player in the country had decided to join the ranks of the paid last week,” sniffed the Straits Times sports correspondent. “Very often, however, one finds a person who is not quite top class a very excellent teacher. This is so at cricket and football and can also apply to lawn tennis.”[^37]
+The media was even more critical. “That professionalism should be creeping into Malayan sports is a thing the majority of us would hardly credit and it was particularly disturbing to hear that the finest tennis player in the country had decided to join the ranks of the paid last week,” sniffed the *Straits Times* sports correspondent. “Very often, however, one finds a person who is not quite top class a very excellent teacher. This is so at cricket and football and can also apply to lawn tennis.”[^37]
 
 It was a churlish farewell to a sporting great, though to give a sense of the times, Fred Perry, who became Britain’s greatest tennis star, turned professional that same year, also to widespread opprobrium.[^38]
 
