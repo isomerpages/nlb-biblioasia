@@ -131,7 +131,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 #### **NOTES**
 
-[^1]: “Hooi Hye Beaten,” Malaya Tribune, 25 April 1929, 10. (From NewspaperSG)
+[^1]: “[Hooi Hye Beaten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290425-1.2.69),” *Malaya Tribune*, 25 April 1929, 10. (From NewspaperSG)
 
 [^2]: “Hooi Hye Beaten.”
 
