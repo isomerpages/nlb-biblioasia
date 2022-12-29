@@ -212,9 +212,15 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 [^40]: “N.S. Wise the First European to Win Singapore Title,” Straits Times, 25 July 1925, 14. (From NewspaperSG)
 
 [^41]: “The Big Moments and the New Stars,” Straits Times, 31 December 1951, 12. (From NewspaperSG)
-It is unclear how Lim Bong Soo, as a professional, was allowed to compete again. One possible explanation is that he had retired from coaching by then and was thus no longer considered a professional.
-“Ong Chew Bee Disappoints,” Singapore Free Press, 26 June 1951, 7. (From NewspaperSG)
-Teoh Eng Tat, “After 11 Years the Zest is Fading, Says Chew Bee,” The Straits Times, 20 July 1960, 15. (From NewspaperSG)
-Lester Wong, “Obituary: 1950s Tennis Kingpin Ong Chew Bee, Later a National Golfer, Lived the Sporting Life,” Straits Times, 24 March 2018, https://www.straitstimes.com/sport/obituary-1950s-tennis-kingpin-ong-chew-bee-later-a-national-golfer-lived-the-sporting-life.
-Tan Hai Chuang, “Tennis, Anyone?,” Straits Times, 13 May 2000, 81. (From NewspaperSG)
-“Astra Sharman,” WTA Tour, accessed 22 October 2022, https://www.wtatennis.com/players/319696/astra-sharma#grandslams.
+
+[^42]: It is unclear how Lim Bong Soo, as a professional, was allowed to compete again. One possible explanation is that he had retired from coaching by then and was thus no longer considered a professional.
+
+[^43]: “Ong Chew Bee Disappoints,” Singapore Free Press, 26 June 1951, 7. (From NewspaperSG)
+
+[^44]: Teoh Eng Tat, “After 11 Years the Zest is Fading, Says Chew Bee,” The Straits Times, 20 July 1960, 15. (From NewspaperSG)
+
+[^45]: Lester Wong, “Obituary: 1950s Tennis Kingpin Ong Chew Bee, Later a National Golfer, Lived the Sporting Life,” Straits Times, 24 March 2018, https://www.straitstimes.com/sport/obituary-1950s-tennis-kingpin-ong-chew-bee-later-a-national-golfer-lived-the-sporting-life.
+
+[^46]: Tan Hai Chuang, “Tennis, Anyone?,” Straits Times, 13 May 2000, 81. (From NewspaperSG)
+
+[^47]: “Astra Sharman,” WTA Tour, accessed 22 October 2022, https://www.wtatennis.com/players/319696/astra-sharma#grandslams.
