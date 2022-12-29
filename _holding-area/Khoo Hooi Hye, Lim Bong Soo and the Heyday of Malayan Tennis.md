@@ -140,9 +140,10 @@ In 2019, Singapore-born Astra Sharma did make it into the main draw of all four 
 
 Sadly, the tantalising hopes of Singapore as a tennis power created by the spellbinding duo of Khoo Hooi Hye and Lim Bong Soo and then, briefly, by Ong Chew Bee, have proven to be elusive thus far.
 
+
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/Mark_Wong.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2019%20Issue%201/Authors/Abhishek_Mehrotra.png" style="width: 100px; height: 100px;"/>
 <b>Mark Wong</b> is a Senior Specialist (Oral History) with the Oral History Centre, National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with Covid-19. He is also Vice President of the International Oral History Association.
 </div>
 
