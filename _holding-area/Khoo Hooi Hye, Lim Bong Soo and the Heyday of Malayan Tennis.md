@@ -159,9 +159,9 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^14]: Singapore saw a sports club boom in the mid-1880s. The Singapore Recreation Club was formed in 1883, the Ladies Lawn Tennis Club in November 1884 and the Straits Chinese Recreation Club a month later.
 
-[^15]: Song, One Hundred Years’ History of the Chinese in Singapore, 216, 288.
+[^15]: Song, [One Hundred Years’ History of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287), 216, 288.
 
-[^16]: Song, One Hundred Years’ History of the Chinese in Singapore, 216.
+[^16]: Song, [One Hundred Years’ History of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287), 216.
 
 [^17]: Apart from being an excellent tennis player, Ong Tek Lim was also a municipal commissioner and a Justice of the Peace. He was only 36 years old when he died of dysentery in 1912. For details, see Song, One Hundred Years’ History of the Chinese in Singapore, 481.
 
