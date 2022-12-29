@@ -173,7 +173,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^21]: “[Nakamura’s Fine Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220718-1.2.72),” *Malaya Tribune*, 18 July 1922, 8; “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230905-1.2.6),” *Straits Times*, 5 September 1923, 3. (From NewspaperSG)
 
-[^22]: “Lawn Tennis,” Malayan Saturday Post, 5 April 1924, 11. (From NewspaperSG)
+[^22]: “[Lawn Tennis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19240405-1.2.34),” *Malayan Saturday* Post, 5 April 1924, 11. (From NewspaperSG)
 
 [^23]: “Far Eastern Olympiad,” Singapore Free Press and Mercantile Advertiser (Weekly), 7 September 1927, 151. (From NewspaperSG)
 
