@@ -199,9 +199,9 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^34]: Leonard King, “[To Serve, with Love](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830417-1.2.84),” *Straits Times*, 17 April 1983, 28. (From NewspaperSG)
 
-[^35]: Walton Morais, “Rolling Back the Years with a Legend,”  Business Times, 8 November 1986, 7. (From NewspaperSG)
+[^35]: Walton Morais, “[Rolling Back the Years with a Legend](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19861108-1.2.21.5),”  *Business Times*, 8 November 1986, 7. (From NewspaperSG)
 
-[^36]: “Singapore Lawn Tennis Association,” Malaya Tribune, 30 January 1937, 24. (From NewspaperSG) 
+[^36]: “[Singapore Lawn Tennis Association](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19370130-1.2.99),” *Malaya Tribune*, 30 January 1937, 24. (From NewspaperSG) 
 
 [^37]: “Is Bong Soo Wise to Turn Professional?,” Straits Times, 10 May 1936, 27. (From NewspaperSG)
 
