@@ -205,7 +205,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^37]: “[Is Bong Soo Wise to Turn Professional?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360510-1.2.198),” *Straits Times*, 10 May 1936, 27. (From NewspaperSG)
 
-[^38]: “Fred Perry To Be In Action Again,” Malaya Tribune, 3 May 1948, 8. (From NewspaperSG)
+[^38]: “[Fred Perry To Be In Action Again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480503-1.2.97),” *Malaya Tribune*, 3 May 1948, 8. (From NewspaperSG)
 
 [^39]: “Death of Khoo Hooi Hye in Penang,” Malaya Tribune, 27 July 1936, 11. (From NewspaperSG) 
 
