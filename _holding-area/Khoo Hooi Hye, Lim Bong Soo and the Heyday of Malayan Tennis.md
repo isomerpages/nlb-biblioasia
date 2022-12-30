@@ -144,7 +144,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2019%20Issue%201/Authors/Abhishek_Mehrotra.png" style="width: 100px; height: 100px;"/>
-<b>Abhishek Mehrotra</b> is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2024. </div>
+<b>Abhishek Mehrotra</b> is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2024. Abhishek is a former Lee Kong Chian Research Fellow (2021–2022).</div>
 
 
 #### **NOTES**
