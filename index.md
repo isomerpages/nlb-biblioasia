@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/
-      button: Cold War Propaganda Battle<br>in 1940s–1950s
+      url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
+      button: Singapore’s Central Bank
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Cold War/cold war banner.jpg
+      background: /images/Vol 18 Issue 3/MAS/MAS hero.jpg
   - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
