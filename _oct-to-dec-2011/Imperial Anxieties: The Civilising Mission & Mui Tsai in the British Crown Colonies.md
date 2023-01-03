@@ -58,9 +58,137 @@ The author acknowledges with thanks Assistant Professor Daniel P.S. Goh from the
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%207%20issue%203/ImperialAnxieties/yyc.jpg" style="width: 100px; height: 100px;"/>
-<b>Yee Yeong Chong</b><br>Research Associate II<br>ENGAGEMENT<br>National Library</div>
 
+**Yee Yeong Chong**  
+Research Associate II  
+ENGAGEMENT  
+National Library
+</div>
+	
+#### **REFERENCES**
 
+Cheah, P. (2006). Bringing into the home a stranger far more foreign: Human rights and the global trade in domestic labour. In [_Inhuman conditions: On cosmopolitanism and human rights_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12896698) (pp. \`78—229). Cambridge, Mass.: Harvard University Press. (Call no.: R 303.482 CHE)
 
+Cohn, B.S. (1996). [_Colonialism and its forms of knowledge: The British in India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745)_._ Princeton, N.J.: Princeton University Press. (Call no.: R 954 COH)
 
+Gaw, K. (1988). [_Superior servants: The legendary Cantonese amahs of the Far East_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4773514)_._ Singapore: Oxford University Press. (Call no.: RSING 331.481640460951 GAW)
 
+Hirschman, C. (1986, Spring). The making of race in colonial Malaya: Political economy and racial ideology. _Sociological Forum, 1_ (2), 330–361. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Jaschok, M. (1988). [_Concubines and bondservants: The social history_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5037155)_._ London: Zed Books. (Call no.: R 305.420951 JAS)
+
+Jordon, A.B. (1938). [_Annual report of the secretary for Chinese affairs, Malaya for the year 1937_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980619)_._ Singapore: Malaya, Chinese Secretariat. (Call no.: RRARE 323.1595 MAL; Microfilm no.: NL9716)
+
+Lai, A.E. (1986). [_Peasants, proletariats and prostitutes: A preliminary investigation in the work of Chinese women in colonial Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4363498). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 331.409595104 LAI)
+
+Lim, J. (2004). [_Sold for silver: An autobiography of a girl sold into slavery in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12423773). Singapore: Monsoon Books. (Call no.: RSING 940.547252 LIM)
+
+Loomba, A. (1998). [_Colonialism-Postcolonialism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8877716). London; New York: Routledge. (Call no.: RCLOS 325.3 LOO)
+
+Lowrie, C. (2009). [_In service of empire: Domestic service and colonial mastery in Singapore and Darwin, 1890s to 1930s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202846830)_._ University of Wollongong thesis collection. (Call no.: RSING 331.76164046095957 LOW)
+
+Miers, S. (1994). Mus Tsai through the eyes of the victim: Janet Lim’s story of bondage and escape. In M. Jaschok & S. Miers (Eds.), [_Women and Chinese patriarchy: Submission, servitude, and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205) (pp. 108—121). Hong Kong: Hong Kong University Press. (Call no.: R 305.420951 WOM)
+
+Ong, A. (2006). A biocartography: Maids, neoslavery and NGOs. In [_Neoliberalism as exception: Mutations in citizenship and sovereignty_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12791391) (pp. 195—218). Durham, N.C.: Duke University Press. (Call no.: R 323.601 ONG)
+
+Pedersen, S. (2001, May). The maternalist moment in British colonial policy: The controversy over ‘child slavery’ in Hong Kong, 1917—1941. _Past and Present_, 171, 161–202. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Png, P-S. (1969, March). The Straits Chinese in Singapore: A case of local identity and socio-cultural accommodation. _Journal of Southeast Asian History, 10_ (1), 95–114. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Pomfet, D.M. (2008, November). ‘Child slavery’ in British and French Far Eastern colonies 1880–1945. _Past and Present,_ 201, 175—214. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Smith, C.T. (1981). The Chinese church, labour and elites and the Mui Tsai question in the 1920s. _Journal of the Hong Kong Branch of the Royal Asiatic Society, 21_, 91—113. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Stoler, A.L. (2002). _Carnal knowledge and imperial power: Race and intimate in colonial rule._ California: University of California Press.
+
+UK Parliament. (1937, June 2). _House of Commons debates_ (Vol. 324, cols. 1025—1046). Retrieved from UK Parliament website.
+
+Watson, J.L. (Ed.). (1980). Transactions in people: The Chinese market in slaves, servants, and heir. In [_Asian and African systems of slavery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1490987) (223—250). Berkeley: University of California Press. (Call no.: RSEA 306.810951 MAR)
+
+Watson, R.S. (1991). Wives, concubines and maid: Servitude and kinship in the Hong Kong regions, 1900–1940. In R.S. Watson & P.B. Ebrey (Eds.), [_Marriage and inequality in Chinese society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5495159) (pp. 231—255). Berkeley: University of California Press. (Call no.: R 306.810951 MAR)
+
+Wong, E.E.L (2005). [_Singapore, my Utopia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12677734)_._ Singapore: Excelsis Life Works. (Call no.: RSING 331.48164046095957 WON)
+
+Woods, W.W. & Wills, C.A. (1937). [_Mui tsai in Hong Kong and Malaya: Report of_ commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199) (2 vols.). London: His Majesty’s Stationery Office. (Call no.: RCLOS q306.362095125 MUI)
+
+Yuen, K. (2004, December). Theorizing the Chinese: The Mui Tsai controversy and constructions of transnational Chineseness in Hong Kong and British Malaya. _New Zealand Journal of Asian Studies, 6_ (2), 95—110.
+
+#### **NOTES**
+
+[^1]: _House of Commons Debates_, 2 June 1937.
+
+[^2]: Mui Tsai as a social category has been largely defined as “young girls who were sold or transferred for domestic servicing in return for food and shelter” ([Lai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4363498), 1986, p. 45). Once into adulthood, the mui tsai could either remain in servitude or become married off to a man of her host family’s choice. Such a definition has come under constant scrutiny and debate between reformers and the Chinese ethnic community, and accounts for much of the difficulty of setting up regulations for the registration of mui tsai in Hong Kong and Malaya.
+
+[^3]: See [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199), 1937, pp.151—155.
+
+[^4]: [Loomba](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8877716), 2005, p. 145.
+
+[^5]: The scholarship on the Mui Tsai is rich, with many accounts centered on its roots as part of the abolitionist efforts of the Haselwoods. Susan Pedersen’s lively account is of foundational importance to this article, specifically in laying out the feminist stakeholders and embedding their interactions within the “maternalist’ framing of the mui tsai problem as “child rescue”. Carl Smith’s (1981) archival research of Hong Kong also produced an incisive observation that the Chinese in Hong Kong were deeply polarised in their attitudes towards the practice of the Mui Tsai, dividing the territory between the Christians and some members of the Chinese elite. Last but not least, [James Watson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1490987)’s (1980) discussions on the slave trade in Canton as well as [Rubie Watson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5495159)’s (1991) localised accounts of Hong Kong’s domestic service economy added a fuller understanding to the literature review.
+
+[^6]: _[Report of the Mui Tsai Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199)_ (hereafter ‘Report’), p. 1.
+
+[^7]: [Bernard Cohn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (1996) has contributed immensely to the understanding of colonial categories within the frame of knowledge and rule, where architectures of documentation, cartography and ethnography helped construct ideal types of native “races” thereby cementing race as a fixed category.
+
+[^8]: [Cohn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745), 1996, pp. 5—11. Cohn identifies these “investigative modalities” as foundations on which “facts” about Britain’s colonies were collected.
+
+[^9]: Charles Hirschman (1986) has famously argued that the construction of races in colonial Malaya was partly a by-product of the penetration of colonial interventions in the realm of race relations.
+
+[^10]: Karen Yuen (2004, p. 105) has tracked the construction of colonial knowledge by sinologist E. J. Eitel on Chinese social practices in the long drawn debate over the Mui Tsai. In the 1880 report on slavery in Hong Kong, he framed the contemporary practice of mui tsai within a broad historical framework, arguing that the custom of purchasing young girls for the performance of the lighter domestic duties became the general practice of all well to do families since time immemorial. He ended his report by arguing that the practice reflected the semi developed state of Chinese culture because the Chinese civilisation was not as advanced as that of Europe, the practice of mui tsai has it legitimation ‘as the best possible form of social development under the circumstances.’
+
+[^11]: [Lowrie](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202846830), 2009, p. 205.
+
+[^12]: Carl Smith’s (1981) discussion of the contestations between the upper-middle class Anti Mui Tsai Society against Hong Kong’s Chinese Chamber of Commerce demonstrates the heterogeneity of Chinese opinion on the mui tsai issue. In Singapore, differing perceptions of cultural superiority among the upper-middle class Straits Chinese reformers polarised the receptivity towards the abolishment of the mui tsai; some associated the British with progress and advancement, while others advocated the preservation of Chinese culture and civilisation (Png, Mar 1969, p.101).
+
+[^13]: The entrenchment of the custom was discussed in the [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199), p. 162.
+
+[^14]: Churchill cited in Pomfet (Nov 2008, p. 188).
+
+[^15]: The [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199)’s full recommendations are in pp.112—119.
+
+[^16]: [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199), 1937, p. 92.
+
+[^17]: [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199), 1937, p. 103.
+
+[^18]: Ormsby-Gore, _House of Commons Debates_.
+
+[^19]: [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199), 1937, pp. 228—232.
+
+[^20]: [Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199), 1937, pp. 228—232; 247—248.
+
+[^21]: See Pedersen, May 2001, p. 182 and Pomfet, Nov 2008, pp.190—192. This stance was perhaps part of an emerging recognition by the anti-slavery movement that the “maternalist” protection of all children, and not just girls, would enhance the effectiveness of their appeals for reforms.
+
+[^22]: [Jordan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980619), 1938, p. 7.
+
+[^23]: Janet Lim’s autobiography ([Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12423773), 2005; [Miers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205), 1994) is invaluable in highlighting the treatment faced by mui tsai from a first person perspective. See also the retold biography of Eunice Wong’s (2005) own domestic servant in Singapore.
+
+[^24]: [Lai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4363498), 1986, pp. 53—54. See also Gaw’s _[Superior Servants: The Legendary Cantonese Amahs of the Far East](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4773514)_ (1988), an excellent collection of photos and commentary on the Cantonese Amahs, with chapters on the rise and decline of transnational female servitude in Canton and the Straits Settlements.
+
+[^25]: [Lowrie](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202846830), 2009, p. 205.
+
+[^26]: See for instance, [Ong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12791391) (2006) and [Pheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12896698) (2006), both of whom have focused on the biological and cultural preconditions that shape maid abuse in Asia. Drawing from Hirschman (Spring, 1986), Ong has gone further to argue that some of these features are vestiges of the colonial construction of race.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
