@@ -5,9 +5,7 @@ description: Two remarkable athletes served up a storm to make Malaya a
   tennis  power to contend with during the interwar years.
 image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
 ---
-
-
-#### Two remarkable athletes served up a storm to make Malaya a tennispower to contend with during the interwar years.
+#### Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 By Abhishek Mehrotra
 
 ![](/images/Vol%2019%20Issue%201/Tennis/image1-edit.png)
