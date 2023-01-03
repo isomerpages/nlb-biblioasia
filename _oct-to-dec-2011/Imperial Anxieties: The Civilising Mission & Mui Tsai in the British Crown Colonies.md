@@ -83,10 +83,10 @@ The author acknowledges with thanks Assistant Professor Daniel P.S. Goh from the
 <br/>
 <img src="/images/Vol%207%20issue%203/ImperialAnxieties/yyc.jpg" style="width: 100px; height: 100px;"/>
 
-<b>Yee Yeong Chong</b> <br> 
+<center><b>Yee Yeong Chong</b> <br> 
 Research Associate II <br>
 ENGAGEMENT<br> National Library
-</div>
+</div></center>
 	
 #### **REFERENCES**
 
