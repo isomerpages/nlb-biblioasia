@@ -8,6 +8,10 @@ description: Lee Kong Chian Research Fellow Setefanus Suprajitno investigates
 ---
 #### Lee Kong Chian Research Fellow _Setefanus Suprajitno_ investigates the predicament faced by Buddhism in Indonesia through studying the Chinese Indonesian Buddhist community in Surabaya.
 
+<img style="width:50%;" src="/images/Vol%207%20issue%203/CulturalReligious/Surabaya.jpg">
+ <div style="background-color: white;">Downtown Surabaya. <i>Dina Kosasih (flickr.com/photos/dinadkosasih/)
+</i></div>
+
 Travelling down Jalan Darmo — the arterial road through downtown Surabaya — you will pass by a mosque. It is not very big, but its identity can be instantly discerned from its facade. Further north, near the junction between Jalan Darmo and Jalan Polisi Istimewa, you will see a building that resembles a church. A few minutes’ journey later, you will come across the Buddhist temple, or vihara. The temple will appear to be like an ordinary building. A former shophouse, it has since been converted to a vihara. There are no outer signs that it is a vihara except for the small stupas1 on the two pillars in the sidewalls. The three places of worship above illustrate the situation Buddhism faces in Indonesia.
 
 With the exception of some Buddhist temples — especially those with a large number of non-Chinese devotees — and old Chinese temples, most Buddhist temples are originally commercial buildings or houses converted into temples. For this reason, they usually do not resemble Buddhist temples from their exteriors. The indicators that they are Buddhist temples are usually small Buddhist icons, such as stupas. Even then, there are temples that display no outer sign that they are Buddhist temples, except in their name. People may conclude that these structures present a low-profile image. However, the extent of this low-profile may be some indication of the challenges that Buddhism — a statesanctioned religion — faces, despite the Indonesian constitutional guarantee of freedom of religion.
@@ -116,5 +120,3 @@ Yi, J. (2007). [_A record of the Buddhist religion as practised in India and the
 [^1]: A _Stupa_ is a dome-shaped structure used for keeping Buddhist relics. However, in its development, it becomes a symbol of Buddhism.
 
 [^2]: _Ehipassiko_ is a Pali word which literally means “come, see and prove it”. This word refers to the Buddhist teaching that encourages people to use logic and reasoning with mindfulness in search of truth, and not to use blind faith.
-
-
