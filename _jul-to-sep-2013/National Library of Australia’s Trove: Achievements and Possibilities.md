@@ -123,7 +123,7 @@ This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Dire
 #### **NOTES**
 
 
-[^1]: Further information about trove’s aims and content are available at http://trove.Nla.Gov.Au/general/ more-about-trove/ 
+[^1]: Further information about trove’s aims and content are available at http://trove.Nla.Gov.Au/general/more-about-trove/ 
 
 [^2]:  Viva news, 216 maret 2013, http://us.Dunia. News.Viva.Co.Id/news/read/397898-begini-caraaustralia-koleksi-referensi-tentang-in 
 
@@ -149,6 +149,10 @@ This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Dire
 
 [^13]: Paul hagon’s slides are available at: http:// www.Information-online.Com.Au/pdf/tuesday\_ concurrent\_2\_1125\_hagon.Pdf 
 
-[^14]: Their recent conference paper, ‘crowdsourcing motivations in a not-for-profit glam context: the australian newspapers digitisation program’ is available at: http://dro. Deakin.Edu.Au/eserv/du:30049107/alamcrowdsourcingmotivations-2012.Pdf (and discoverable via trove at http://trove.Nla.Gov.Au/ version/188319518). 
+[^14]: Their recent conference paper, ‘crowdsourcing motivations in a not-for-profit glam context: the australian newspapers digitisation program’ is available at: http://dro. Deakin.Edu.Au/eserv/du:30049107/alamcrowdsourcingmotivations-2012.Pdf (and discoverable via trove at http://trove.Nla.Gov.Au/ version/188319518) 
 
-[^15]: Presented at the ‘inspired by trove’ seminar at the national library of australia on 28 february 2013. http://www.Projectsisu.Com/2013/03/do-youtrove/.
+
+
+
+
+
