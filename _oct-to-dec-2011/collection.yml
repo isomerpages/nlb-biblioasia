@@ -2,6 +2,8 @@ collections:
   oct-to-dec-2011:
     output: true
     order:
+      - "Imperial Anxieties: The Civilising Mission & Mui Tsai in the British
+        Crown Colonies.md"
       - Director's Column.md
       - "The Enigma of Departure: Remembering Singapore’s Railway Lines and
         Stations.md"
