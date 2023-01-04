@@ -46,3 +46,36 @@ In its lifetime, *Lianhe Zaobao* has set a number of firsts. In 1991, it became 
 和<a href="https://twitter.com/zaobaosg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">https://twitter.com/zaobaosg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</a>.</div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Para pengguna kini boleh mencari artikel <i>Berita Harian</i> yang diterbitkan antara 1970 sehingga 1979 di dalam NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>). Mereka boleh menyimpan pautan artikel untuk rujukan masa datang dan juga berkongsi maklumat melalui alat media sosial seperti <a href="https://www.facebook.com/BeritaHarianSG/">https://www.facebook.com/BeritaHarianSG/</a> dan <a href="https://twitter.com/beritahariansg?lang=en">https://twitter.com/beritahariansg?lang=en</a>.</div>
+
+<div>
+<b>Michelle Ng</b><br> Librarian<br> Lee Kong Chian Reference Library<br> National Library<br><br></div>
+	
+<div>
+<b>Ng Hui Ling</b><br> Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library<br><br></div>
+
+
+<div>
+<b>Mazelan Anuar</b> <br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library
+</div>
+
+	
+#### **REFERENCES**
+
+   
+
+杨瑞锋. (2008, 08 06). 20年交往 交织出联系大 网. Retrieved 05 19, 2011, from 联合早报: http://www.zaobao.com.sg/special/singapore/ pages4/zaobao85080906h.shtml
+
+韩咏梅. (2008, 08 06). 新闻开口 记者两栖. Retrieved 05 19, 2011, from 联合早报: http://www.zaobao.com.sg/special/singapore/ pages4/zaobao85080906bv.shtml
+
+林任君主编. (1993). 我们的七十年, 1923—1993 . 新加坡 : 新加坡报业控股华文报集团.
+
+新加坡报业控股. (n.d.). 联合早报网. Retrieved from [http://www.zaobao.com.sg/](http://www.zaobao.com.sg/)
+
+Koh, T., et al. (Eds.). (2006). _[Singapore The Encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833)_ (p. 61). Singapore: Editions Didier Millet. (Call no.: RSING 959.57003 SIN)
+
+http://www.sph.com.sg/ourproducts\_ newspaper\_beritaharian.shtml
+
+http://cyberita.asia1.com.sg/mnt/html/kenal.htm
+
+
+
