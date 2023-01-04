@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/MAS/MAS hero.jpg
   - infopic:
+      title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
+      subtitle: Sports
+      description: Two remarkable athletes served up a storm to make Malaya a tennis
+        power to contend with during the interwar years.
+      button: "Two remarkable athletes served up a storm "
+      url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
+      image: /images/Vol 19 Issue 1/Tennis/Hero_img_tennis.png
+      alt: Tennis
+  - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
         collection.

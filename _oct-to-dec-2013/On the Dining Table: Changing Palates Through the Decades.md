@@ -115,60 +115,60 @@ When given an option, will the younger members in my family choose a simple dish
 
 #### **REFERENCES**     
 
-Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10763085). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
+Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
    
 [Drive to fight harmful life styles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790923-1.2.2). (1979, September 23). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 [Home-cooked vs hawker food](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921215-1.2.32.17). (1992, December 15). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
 
-Kong, L. (2007). [_Singapore hawker centres: People, places, food_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12874730). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
+Kong, L. (2007). [_Singapore hawker centres: People, places, food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
 
-Lee, K.Y. (2000). [_From third world to first: The Singapore story, 1965–2000_: _Memoirs of Lee Kuan Yew_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9981172). Singapore: Times Editions: Singapore Press Holdings. (Call no.: RSING 959.57092 LEE)
+Lee, K.Y. (2000). [_From third world to first: The Singapore story, 1965–2000_: _Memoirs of Lee Kuan Yew_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172). Singapore: Times Editions: Singapore Press Holdings. (Call no.: RSING 959.57092 LEE)
 
 Lupton, D. (1996). _Food, the body, and the self_. Calif: Sage Publicatons. (Not available in NLB holdings)
 
-Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3691394). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
+Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3691394). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
 
-Neville, W. (1969). The distribution of population in the postwar period. In J.B. Ooi & H.D. Chiang (Eds.), [_Modern Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081919). Singapore: University of Singapore. (Call no.: RSING     959.57 OOI)
+Neville, W. (1969). The distribution of population in the postwar period. In J.B. Ooi & H.D. Chiang (Eds.), [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING     959.57 OOI)
 
 Newman, J.M. (2004). [_Food culture in China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12497546). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
-Saw, S.H. (2007). [_The population of Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12933462). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
+Saw, S.H. (2007). [_The population of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12933462). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-Seow, J.M. (2009). [_Soya & spice: Food and memories of a Straits Teochew family_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13234955). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
+Seow, J.M. (2009). [_Soya & spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
 
-Singapore. Hawkers Inquiry Commission. (1950). [_Report of the hawkers inquiry commission_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4981104). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
+Singapore. Hawkers Inquiry Commission. (1950). [_Report of the hawkers inquiry commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981104). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
 
-Singapore. Ministry of Health, Food and Nutrition Dept. (1993). [_The composition of 200 foods commonly eaten in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6872646) (p. 1). Singapore: Food and Nutrition Dept., Ministry of Health. (Call no.: RSING 641.10212 COM)
+Singapore. Ministry of Health, Food and Nutrition Dept. (1993). [_The composition of 200 foods commonly eaten in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6872646) (p. 1). Singapore: Food and Nutrition Dept., Ministry of Health. (Call no.: RSING 641.10212 COM)
 
-Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14544980). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
+Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
 
 张新民 \[Zhang, X.\]. (10 May 2013). 潮汕饮食词条 \[Chaoshan food entry\]. Retrieved from http:// wh.csfqw.com/w/csys/44122282.htm
 
 
 #### **NOTES**
 
-[^1]: Saw, S.H. (2007). [*The population of Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12933462). (p. 11). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW).
+[^1]: Saw, S.H. (2007). [*The population of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12933462). (p. 11). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW).
 
-[^2]: Neville, W. (1969). The distribution of population in the postwar period (p. 59).         postwar period (p. 59). In J.B. Ooi & H.D. Chiang (Eds.), [*Modern Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
+[^2]: Neville, W. (1969). The distribution of population in the postwar period (p. 59).         postwar period (p. 59). In J.B. Ooi & H.D. Chiang (Eds.), [*Modern Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
 
-[^3]: Singapore. Hawkers Inquiry Commission. (1950). [*Report of the hawkers inquiry commission*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4981104) (p. 69). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
+[^3]: Singapore. Hawkers Inquiry Commission. (1950). [*Report of the hawkers inquiry commission*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981104) (p. 69). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
 
-[^4]: [Singapore. Hawkers Inquiry Commission](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4981104), 1950, p. 7.
+[^4]: [Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981104), 1950, p. 7.
 
-[^5]: Lee, K.Y. (2000). [*From third world to first: The Singapore story, 1965–2000_: _Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9981172) (p. 200). Singapore: Times Editions: Singapore Press Holdings. (Call no.: RSING 959.57092 LEE)
+[^5]: Lee, K.Y. (2000). [*From third world to first: The Singapore story, 1965–2000_: _Memoirs of Lee Kuan Yew*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172) (p. 200). Singapore: Times Editions: Singapore Press Holdings. (Call no.: RSING 959.57092 LEE)
 
-[^6]: Kong, L. (2007). [*Singapore hawker centres: People, places, food*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12874730) (p. 104). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
+[^6]: Kong, L. (2007). [*Singapore hawker centres: People, places, food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730) (p. 104). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
 
 [^7]: [Drive to fight harmful life styles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790923-1.2.2). (1979, September 23). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
-[^8]: Singapore. Ministry of Health, Food and Nutrition Dept. (1993). [_The composition of 200 foods commonly eaten in Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6872646) (p. 1). Singapore: Food and Nutrition Dept., Ministry of Health. (Call no.: RSING 641.10212 COM)
+[^8]: Singapore. Ministry of Health, Food and Nutrition Dept. (1993). [_The composition of 200 foods commonly eaten in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6872646) (p. 1). Singapore: Food and Nutrition Dept., Ministry of Health. (Call no.: RSING 641.10212 COM)
 
 [^9]: [Home-cooked vs hawker food](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921215-1.2.32.17). (1992, December 15). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
 
-[^10]: Seow J.M. (2009). [_Soya & spice: Food and memories of a Straits Teochew family_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13234955) (p. 9). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
+[^10]: Seow J.M. (2009). [_Soya & spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955) (p. 9). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
 
-[^11]: Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14544980) (p. 49). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
+[^11]: Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980) (p. 49). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
 
 [^12]: [Tay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980), 2012, p. 89.
 
@@ -176,8 +176,15 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 [^14]: Lupton, 1886, p. 25.
 
-[^15]: Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10763085) (p. 2). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
+[^15]: Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085) (p. 2). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
 
-[^16]: Newman, J.M. (2004). [_Food culture in China_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
+[^16]: Newman, J.M. (2004). [_Food culture in China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
-[^17]: Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3691394) (p. 1). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
+[^17]: Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3691394) (p. 1). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
+
+
+
+
+
+
+

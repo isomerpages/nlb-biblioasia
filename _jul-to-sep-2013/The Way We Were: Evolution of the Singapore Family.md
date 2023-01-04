@@ -241,15 +241,18 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^25]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 33.
 
-[^26]: [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1975, p. 49.
+[^26]: [*Annual report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1975, p. 49.
 
 [^27]: [Wong & Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746), 2003, pp.11—12.
 
-[^28]: [Lyons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12349008), 2004, p. 31.
+[^28]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 31.
 
 [^29]: State of the Family Report 2011; Census of Population 2010, Statistical Release 2: Households and Housing.
 
 [^30]: [Coontz](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797), 2000, introduction.
+
+
+
 
 
 

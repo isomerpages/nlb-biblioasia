@@ -1,4 +1,5 @@
 collections:
   apr-to-jun-2023:
     output: true
-    order: []
+    order:
+      - Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis.md
