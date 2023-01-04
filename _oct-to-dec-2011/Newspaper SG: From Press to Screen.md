@@ -7,7 +7,7 @@ description: Librarians Michelle Heng, Ng Hui Ling and Mazelan Anuar bring us up
 ---
 #### Librarians _Michelle Heng_, _Ng Hui Ling_ and _Mazelan Anuar_ bring us up to speed on what’s new on NewspaperSG, a digital archive of Singapore and Malaya newspapers dating back to 1831.
  
- If you dread spending hours sitting in a dimly-lit room watching a stream of microfilmed newspapers flutter by on a projector screen, you might well become a fan of NewspaperSG (newspapers.nl.sg).
+ If you dread spending hours sitting in a dimly-lit room watching a stream of microfilmed newspapers flutter by on a projector screen, you might well become a fan of NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>).
  
 A collaboration by the National Library Board (NLB) and Singapore Press Holdings (SPH), the service facilitates more productive research. Where in the past, library patrons had to plough through reams of microfilmed newspapers, now a simple keyword search allows browsing of the digital archive of Singapore and Malaya newspapers published from 1831 to 2006. At present, 23 newspaper titles are available.
 
@@ -42,10 +42,7 @@ In its lifetime, *Lianhe Zaobao* has set a number of firsts. In 1991, it became 
 《联合早报》创下许多个“第 一”。1991年，它成为世界 上第一家真正全面电脑化的 华文报，从记者输入文稿到编 辑排出大版，完全通过电脑操 作；这在当时引起中国大陆、 香港和台湾报业同业的兴趣， 纷纷组团前来考察。1993年， 它又获准在中国登陆，可在北京、上海、广州等几个大城市 的五星级酒店公开售卖，成为 第一家获准在中国大陆发行的 海外华文报。1995年开启电子 版联合早报网（zaobao.com) ，通过网络将《联合早报》的 内容迅速传送到全球各角落， 成为东南亚第一家进入互联网 时代的华文报，也是全球最早 上网华文报之一。联合早报 网的点击率从每天1万，到今 天每天近500万的页览量，增 加了数百倍。进入Web2.0时 代，新加坡报业控股推出以18 岁到35岁为主要对象的双语 移动与在线平台omy（online mobile for the young，www. omy.sg），不但提供丰富的 新闻与娱乐资讯，更跨越文 字，以视频（vodcast）和音频 （podcast）呈现新闻。作为报 业控股旗下的华文报章，《联 合早报》为omy在新闻.
 
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 读者目前可通过NewspaperSG查找《联合早报》1983年至1986年的文章，也可通 过预览服务的栏目浏览《星洲日报》。同时，读者也可以把所需的资料保存到题录 信息的栏目，或通过网络社交媒体如Facebook和Twitter与朋友分享文章。
-</div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 读者目前可通过NewspaperSG查找: <a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>《联合早报》1983年至1986年的文章，也可通 过预览服务的栏目浏览《星洲日报》。同时，读者也可以把所需的资料保存到题录 信息的栏目，或通过网络社交媒体如<a href="https://zh-cn.facebook.com/zaobaosg/">https://zh-cn.facebook.com/zaobaosg/</a>
+和<a href="https://twitter.com/zaobaosg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">https://twitter.com/zaobaosg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</a>.</div>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Para pengguna kini boleh mencari artikel <i>Berita Harian</i> yang diterbitkan antara 1970 sehingga 1979 di dalam NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>). Mereka boleh menyimpan pautan artikel untuk rujukan masa datang dan juga berkongsi maklumat melalui alat media sosial seperti Facebook <a href="https://www.facebook.com/BeritaHarianSG/">https://www.facebook.com/BeritaHarianSG/</a> dan Twitter <a href="https://twitter.com/beritahariansg?lang=en">https://twitter.com/beritahariansg?lang=en</a>.</div>
-
-
-
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Para pengguna kini boleh mencari artikel <i>Berita Harian</i> yang diterbitkan antara 1970 sehingga 1979 di dalam NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>). Mereka boleh menyimpan pautan artikel untuk rujukan masa datang dan juga berkongsi maklumat melalui alat media sosial seperti <a href="https://www.facebook.com/BeritaHarianSG/">https://www.facebook.com/BeritaHarianSG/</a> dan <a href="https://twitter.com/beritahariansg?lang=en">https://twitter.com/beritahariansg?lang=en</a>.</div>
