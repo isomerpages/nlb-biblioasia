@@ -15,7 +15,7 @@ The flooding made the soil very fertile though, and the villagers would plant ve
 
 I remember the joy and colours whenever there was a wedding taking place in our village at Kaki Bukit. The whole village would come together to celebrate the occasion in the true spirit of Gotong Royong!  — *Absah Mingan*
 
-<img style="width:50%;" src="images/Vol%207%20issue%203/Iremember/HRS4_Absah_6-pola.jpg">
+<img style="width:50%;" src="/images/Vol%207%20issue%203/Iremember/HRS4_Absah_6-pola.jpg">
  <div style="background-color: white;"><i>All images courtesy of Absah Mingan. Donated at the Heritage Roadshow 2009. All rights reserved.</i></div>
 
 #### ***Gotong Royong in the Kampung Life***
