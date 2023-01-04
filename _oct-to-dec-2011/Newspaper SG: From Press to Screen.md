@@ -45,10 +45,7 @@ In its lifetime, *Lianhe Zaobao* has set a number of firsts. In 1991, it became 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 读者目前可通过NewspaperSG查找《联合早报》1983年至1986年的文章，也可通 过预览服务的栏目浏览《星洲日报》。同时，读者也可以把所需的资料保存到题录 信息的栏目，或通过网络社交媒体如Facebook和Twitter与朋友分享文章。
 </div>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Para pengguna kini boleh mencari artikel <i>Berita Harian</i> yang diterbitkan antara 1970 sehingga 1979 di dalam NewspaperSG (newspapers.nl.sg). Mereka boleh menyimpan pautan artikel untuk rujukan masa datang dan juga berkongsi maklumat melalui alat media sosial seperti Facebook dan Twitter.</div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Para pengguna kini boleh mencari artikel <i>Berita Harian</i> yang diterbitkan antara 1970 sehingga 1979 di dalam NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>). Mereka boleh menyimpan pautan artikel untuk rujukan masa datang dan juga berkongsi maklumat melalui alat media sosial seperti Facebook <a href="https://www.facebook.com/BeritaHarianSG/">https://www.facebook.com/BeritaHarianSG/</a> dan Twitter <a href="https://twitter.com/beritahariansg?lang=en">https://twitter.com/beritahariansg?lang=en</a>.</div>
 
-
-	
-	
 
 
