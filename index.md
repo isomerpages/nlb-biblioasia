@@ -21,9 +21,9 @@ sections:
       subtitle: Sports
       description: Two remarkable athletes served up a storm to make Malaya a tennis
         power to contend with during the interwar years.
-      button: "Two remarkable athletes served up a storm "
+      button: Two Tennis Champs
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
-      image: /images/Vol 19 Issue 1/Tennis/Hero_img_tennis.png
+      image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
       alt: Tennis
   - infopic:
       title: New Books on Singapore History
