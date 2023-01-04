@@ -345,4 +345,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
+      subtitle: Sports_Tennis
+      description: Two remarkable athletes served up a storm to make Malaya a tennis
+        power to contend with during the interwar years.
+      button: "Two remarkable athletes served up a storm "
+      url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
+      image: /images/Vol 19 Issue 1/Tennis/Hero_img_tennis.png
+      alt: Tennis
 ---
