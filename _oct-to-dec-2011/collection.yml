@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2011:
     output: true
     order:
+      - "iremembersg: Gotong Royong in the Kampung Life.md"
       - 悠悠百年路 漫漫世纪情 – 传统中医药文化在新加坡.md
       - "Malayan Cookery Books: The “Mems” Own Cookery Book (1929).md"
       - Director's Column.md
