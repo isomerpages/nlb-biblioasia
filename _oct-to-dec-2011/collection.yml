@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2011:
     output: true
     order:
+      - "Malayan Cookery Books: The “Mems” Own Cookery Book (1929).md"
       - Director's Column.md
       - "The Enigma of Departure: Remembering Singapore’s Railway Lines and
         Stations.md"
