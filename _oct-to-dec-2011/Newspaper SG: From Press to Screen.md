@@ -6,6 +6,10 @@ description: Librarians Michelle Heng, Ng Hui Ling and Mazelan Anuar bring us up
   Malaya newspapers dating back to 1831.
 ---
 #### Librarians _Michelle Heng_, _Ng Hui Ling_ and _Mazelan Anuar_ bring us up to speed on what’s new on NewspaperSG, a digital archive of Singapore and Malaya newspapers dating back to 1831.
+
+
+<img style="width:50%;" src="/images/Vol%207%20issue%203/NewspaperSG/straitstimes_separation.jpg">
+ <div style="background-color: white;"> <i>  The Straits Times, </i>10 August 1965. (From NewspaperSG) </div>
  
  If you dread spending hours sitting in a dimly-lit room watching a stream of microfilmed newspapers flutter by on a projector screen, you might well become a fan of NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>).
  
@@ -23,6 +27,9 @@ The recent addition of vernacular language newspapers, user-friendly features su
 
 *Berita Harian* is the only Malay newspaper published in Singapore today. First published in 1957 in Kuala Lumpur and distributed in Malaya as a rival newspaper to the *Utusan Melayu*, the edition known to Singaporeans today came into being in 1965. This new Berita Harian’s focus was news reports and discussions of issues specific to Singapore. An online version, *cyBerita*, was made available in 1996. Today, the paper is published by the Singapore Press Holdings (SPH), independent of Malaysia’s *Berita Harian*.
 
+<img style="width:50%;" src="/images/Vol%207%20issue%203/NewspaperSG/BH.jpg">
+ <div style="background-color: white;"> <i>Berita Harian,</i> 31 Disember 1976. (From NewspaperSG) </div>
+
 *Berita Harian* provides a platform for the Malay community in Singapore to voice their views and has been “a source of Malay leadership” — a number of its former journalists and editors such as Mohamad Maidin Packer, Hawazi Daipi and Zainul Abideen Rasheed have moved on to political careers.
 
 #### **Berita Harian**
@@ -32,6 +39,9 @@ The recent addition of vernacular language newspapers, user-friendly features su
 *Berita Harian* yang bertindak sebagai wadah untuk masyarakat Melayu menyuarakan pandangan mereka telah menjadi sumber melahirkan pemimpin Melayu. Antara wartawan dan penyunting Berita Harian yang kemudiannya berkecimpung dalam arena politik termasuk Encik Mohamad Maidin Packer, Hawazi Daipi dan Zainul Abideen Rasheed.
 
 With 200,000 copies published daily by Singapore Press Holdings (SPH), *Lianhe Zaobao* is the leading Chinese newspaper in Singapore. The paper is also distributed in mainland China, Hong Kong and Brunei. The result of a merger between *Nanyang Siang Pau* and *Sin Chew Jit Poh*, the paper originated as the *Nanyang Sin-Chew* *Lianhe Zaobao* (or *Lianhe Zaobao*, for short). The former two newspapers were the earliest published in Singapore, in 1923 and 1929 respectively.
+
+<img style="width:50%;" src="/images/Vol%207%20issue%203/NewspaperSG/LHZB19830316001_2.jpg">
+ <div style="background-color: white;"><i>《 联合早报》</i>, 1983年3月16日. (From NewspaperSG)</div>
 
 In its lifetime, *Lianhe Zaobao* has set a number of firsts. In 1991, it became the first Chinese newspaper in the world to implement fully computerised output typesetting and an industry wide sensation in mainland China, Hong Kong and Taiwan. Study groups of delegates visited the Singapore offices of *Lianhe Zaobao* to study this new production method from journalist input to layout. In 1993, *Lianhe Zaobao* became the first foreign newspaper to be available in mainland China, on the newsstands of five-star hotels in Beijing, Shanghai, Guangzhou and in other major cities. In 1995, *Lianhe Zaobao* launched the world’s first Chinese e-newspaper, zaobao.com, which allowed for the online proliferation of its content. It the beginning, zaobao. com received about 10,000 hits daily. This number has since increased by more than a hundred times to 5 million today. Entering the era of web2.0, SPH launched its bilingual online platform *omy*. Targeting young people between the ages of 18 and 35, this platform introduced the use of vodcasts and podcasts as new ways of presenting news. As part of the SPH stable, *Lianhe Zaobao* continues to provide strong content backing for *omy*’s news and entertainment information.
 
@@ -76,6 +86,3 @@ Koh, T., et al. (Eds.). (2006). _[Singapore The Encyclopedia](https://eservice.n
 http://www.sph.com.sg/ourproducts\_ newspaper\_beritaharian.shtml
 
 http://cyberita.asia1.com.sg/mnt/html/kenal.htm
-
-
-
