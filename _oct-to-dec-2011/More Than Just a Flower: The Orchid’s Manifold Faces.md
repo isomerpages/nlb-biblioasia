@@ -4,7 +4,7 @@ permalink: /vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/
 description: Senior Librarian Ang Seow Leng gives us a crash course in all
   things orchids and their special relationship with Singapore.
 ---
- ####  Senior Librarian _Ang Seow Leng_ gives us a crash course in all things orchids and their special relationship with Singapore.
+#### Senior Librarian _Ang Seow Leng_ gives us a crash course in all things orchids and their special relationship with Singapore.
  
 The 20th World Orchid Conference will once again be held in Singapore from 13–20 November, at the Marina Bay Sands Expo and Convention Centre. This major event is regarded as the “Olympics of Orchids”. World Orchid Conferences were initiated in 1952 by Gordon W. Dillon, from the American Orchid Society. He was also the editor for American Orchid Society Bulletin from 1943—1967, and from 1970—1973. The first conference was held at St. Louis, Missouri in October 1954. Since then, it has been held once every three years. Regarded as the most significant event in the international orchid circuit, it attracts academics, orchid breeders and enthusiasts who gather to share about the promotion, cultivation and study of orchids.
 
@@ -110,9 +110,13 @@ In 1986, the Agri-Food & Veterinary Authority of Singapore (AVA) developed agrot
 
 With the financial crisis in the recent decades and the shrinking land for orchid cultivation, the future of the orchid export industry appears to be uncertain. During 2003, the Orchid Business Cluster was established by AVA to strengthen Singapore’s position as a world-renowned exporter of tropical orchids through co-ordination of the whole value chain of orchid growers and exporters, and to develop strategic plans to move the industry forward.
 
-In a highly urbanised country, competing spaces for a myriad of uses result in the rapidly disappearing natural habitat of orchids and diminishing gardens to plant these lovely flowers. While new hybrids have been developed to suit different growing conditions for the orchids, and to meet the cut-flower market demands, it is a challenge to sustain the appreciation for orchids among people and their memories of past generations of orchid hybrids that were once the pride in people’s home gardens. The coming World Orchid Conference can be an impetus for re-introducing people to the fascinating world of orchids.
+In a highly urbanised country, competing spaces for a myriad of uses result in the rapidly disappearing natural habitat of orchids and diminishing gardens to plant these lovely flowers. While new hybrids have been developed to suit different growing conditions for the orchids, and to meet the cut-flower market demands, it is a challenge to sustain the appreciation for orchids among people and their memories of past generations of orchid hybrids that were once the pride in people’s home gardens. The coming World Orchid Conference can be an impetus for re-introducing people to the fascinating world of orchids. 
 
-
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+<b>Ang Seow Leng</b><br>Senior Librarian<br>National Library</div>
 
 
 
