@@ -67,6 +67,9 @@ a. *Artificial propagation*<br> b. *Reintroduction to habitats*<br> c. *Foundati
 
 As a result, the tiger orchid, or *Grammatophyllum speciosum*, was the first species to be reintroduced in Pulau Ubin and it has since taken root and doing well. As at 2007, four native orchid species have been re-introduced in parks and roadside trees.28 Research and conservation continue to be the main objective at the Singapore Botanic Gardens in order for future generations to enjoy the beauty of orchids and discover other uses for them.
 
+
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg"><div style="background-color: white;">A tiger orchid or <i>Grammatophyllum speciosum</i> may weigh over one ton at full maturity, making it the largest orchid plant in the world. <i>Reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens,</i> 2007.</div>
+
 #### **A Symbol of Singapore**
 
 The orchid is a well recognised symbol of Singapore, and Singaporeans should be familiar with the name of our state flower — *Vanda* Miss Joaquim. It was propelled to international prominence when it won the First Class Certificate at the London Royal Horticultural Show in 1897 and the first prize at the 1899 Flower Show in Singapore. According to Teoh Eng Soon’s *Asian Orchids*, he credited this hybrid in pioneering the Southeast Asia orchid industry.
@@ -107,6 +110,9 @@ Cultural Medallion winner in 1981 for excellence in painting orchids, Lee Hock M
 
 For Singapore, the major economic contribution of orchids is to the of cut-flower export industry. Singapore’s tropical climate enables the production of orchids all year round where as countries with four seasons have to grow their orchids in greenhouses. The Monetary Authority of Singapore announced in a 2006 press release40 that Singapore is one of ASEAN’s top producers and exporters of top quality orchid flowers, supplying about a 15% share of the world market in orchids. In 2004, Singapore exported S$29.08 million worth of orchid cut-flowers world-wide. During the 1970s and 1980s, the industry was worth as much as S$16 million per annum.41 It is a multimillion dollar industry. Today, Singapore is the third largest exporter of orchids in the world.42
 
+<img style="width:80%;" src="images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg">
+ <div style="background-color: white;">Freshly cut orchids are prepared for export, delivery and arrangement by the staff at Toh Orchids at Sungai Tengah. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
+
 Orchid exporting in Singapore began in the 1930s. The preferred orchids then were the Vanda Miss Joaquim, which was the first to be exported on a large scale, followed by the Cattleya family, including *Laelias* and *Brassavolas*. 43 Subsequently, it became more profitable to propagate orchids that flower more frequently in order to meet market demands. The ornamental value and long lasting orchid flowers made them suitable for export as cut-flowers.
 
 A typical batch of orchids to be prepared for export in the early days was described as follows:
@@ -118,6 +124,9 @@ Amateur orchid collector and grower, John Laycock, who cofounded the Malayan Orc
 The orchid flower export industry has grown from strength to strength through the increasing ease in air transport and efforts put in by the Tourism Promotion Board. In 1966, the president of Singapore Gardening Society, the late A.G. Alphonso, reported a happy problem of local florists and nurseries not being able to cope with the demands for cut-flowers from overseas, especially from European countries. The private gardens and amateur orchid growers began to find it a ‘profitable pastime’. 46
 
 The golden age of orchid exports lasted from the late 1960s till mid 1980s. During its peak from late 1970s to early 1980s, there were approximately 230 nurseries involved in this industry. In 1970, close to 71 hectares of land were used for orchid cultivation and the acreage doubled to 138 hectares in 1972.47 By 1980, it continued to increase by five-fold to 350 hectares. But it reportedly suffered decline in acreage from 1983 onwards.48
+
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg">
+ <div style="background-color: white;">A watering machine traverses the greenhouse aisles at Toh Orchids. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 In 1986, the Agri-Food & Veterinary Authority of Singapore (AVA) developed agrotechnology parks to encourage farms to embrace advanced technologies and techniques for intensive farming systems. These farms aim to optimise land use and increase productivity. There are six such parks in Singapore49 and some of these parks have orchid farms whose businesses continue to thrive.
 
