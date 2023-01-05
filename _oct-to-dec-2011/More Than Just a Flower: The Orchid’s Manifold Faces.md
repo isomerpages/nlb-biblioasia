@@ -4,9 +4,9 @@ permalink: /vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/
 description: Senior Librarian Ang Seow Leng gives us a crash course in all
   things orchids and their special relationship with Singapore.
 ---
-#### Senior Librarian _Ang Seow Leng_ gives us a crash course in all things orchids and their special relationship with Singapore.
+#### Senior Librarian&nbsp;_Ang Seow Leng_&nbsp;gives us a crash course in all things orchids and their special relationship with Singapore.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg" style="width:80%;">
  <div style="background-color: white;">The National Orchid Garden offers a permanent showcase of the largest display of tropical orchids in the world, including “hand-crafted” orchids bred by the Gardens’ horticultural staff. <i>Simon McGill.</i></div>
  
 The 20th World Orchid Conference will once again be held in Singapore from 13—20 November, at the Marina Bay Sands Expo and Convention Centre. This major event is regarded as the “Olympics of Orchids”. World Orchid Conferences were initiated in 1952 by Gordon W. Dillon, from the American Orchid Society. He was also the editor for American Orchid Society Bulletin from 1943—1967, and from 1970—1973. The first conference was held at St. Louis, Missouri in October 1954. Since then, it has been held once every three years. Regarded as the most significant event in the international orchid circuit, it attracts academics, orchid breeders and enthusiasts who gather to share about the promotion, cultivation and study of orchids.
@@ -55,7 +55,7 @@ A Tissue Culture Laboratory was established in the Gardens in the early 1970s to
 
 The Orchid Enclosure was first opened to the public in 1955. The hugely popular enclosure was expanded with time and the National Orchid Garden was opened at the end of 1995, exhibiting an extensive range of orchids. In order to cultivate and research the orchid species growing in higher altitudes and from temperate climates, the Cold House, also known as the Temperate House, was built in 1972. And in 2004, it was replaced by the Cool House Conservatory, which was constructed in the National Orchid Garden.[^23] As at 2009, Tan Wee Kiat reported that there were more than 1,000 orchid species and 2,000 hybrids in the collection.[^24] The Gardens has also registered more than 400 hybrids.[^25]
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg" style="width:80%;">
  <div style="background-color: white;">Before the three-hectare National Orchid Garden was constructed, the one-hectare Orchid Enclosure at the Singapore Botanic Gardens was home to the many varieties of orchids that were developed through the orchid breeding programme. <i>Courtesy of Singapore Tourism Board.
 </i></div>
 
@@ -68,7 +68,7 @@ a. *Artificial propagation*<br> b. *Reintroduction to habitats*<br> c. *Foundati
 As a result, the tiger orchid, or *Grammatophyllum speciosum*, was the first species to be reintroduced in Pulau Ubin and it has since taken root and doing well. As at 2007, four native orchid species have been re-introduced in parks and roadside trees.[^28] Research and conservation continue to be the main objective at the Singapore Botanic Gardens in order for future generations to enjoy the beauty of orchids and discover other uses for them.
 
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg" style="width:80%;">
 <div style="background-color: white;">A tiger orchid or <i>Grammatophyllum speciosum</i> may weigh over one ton at full maturity, making it the largest orchid plant in the world. <i>Reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens,</i> 2007.</div>
 
 #### **A Symbol of Singapore**
@@ -93,12 +93,12 @@ In summary, Orchids have been well represented in Singapore stamps and currency,
 
 #### **Orchid Diplomacy**
 
-<img style="width:50%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Mokara</i> Zhu Rongji ‘Lao An’ was created for the wife of 5th Premier of the People’s Republic of China (Zhu Rongji), Lao An. <i>Reproduced from Orchid Hybrids of Singapore, 1893–2003. All rights reserved, Orchid Society of South East Asia, 2005.</i></div>
 
 With Singapore orchids gaining fame in the world, it was adopted as an agents to promote goodwill with other nations. The Singapore Botanic Gardens started the pratice of naming of new orchid hybrids after VIPs and visiting celebrities. In 1956, *Aranthera* Anne Black became the first VIP orchid, named after Lady Black, the wife of the former Governor of Singapore, Sir Robert Brown Black.[^35] Other orchid hybrids that are named after VIPs include: *Dendrobium* Michiko, *Mokara* Zhu Rongji, *Renantanda* Prince Norodom Sihanouk, *Dendrobium* Memoria Princess Diana and *Vandaenopsis* Nelson Mandela. Some are named after celebrities, like local singer Stephanie Sun, pop music celebrity Ricky Martin and Korean actor Bae Yong Jun.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg" style="width:80%;">
  <div style="background-color: white;">(Left to Right) <i>Renanthera</i> Kalsom, <i>Oncidium</i> Gower Ramsey, <i>Spathoglottis</i> Primrose, <i>Dendrobium</i> Tay Swee Keng and <i>Vanda</i> Miss Joaquim. <i>Spathoglottis</i> Primrose reproduced from <i>Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens, 2007. Rest reproduced from A Guide to the Orchids of Singapore. All rights reserved, Singapore Science Centre,</i> 1993.</div>
 
 The orchid was also endorsed by David Marshall, Singapore’s first Ambassador to France, and subsequently, also to Spain, Portugal and Switzerland. He was well-known as the ambassador with an orchid, as he would wear an orchid on his lapel at every official function.[^36]
@@ -111,7 +111,7 @@ Cultural Medallion winner in 1981 for excellence in painting orchids, Lee Hock M
 
 For Singapore, the major economic contribution of orchids is to the of cut-flower export industry. Singapore’s tropical climate enables the production of orchids all year round where as countries with four seasons have to grow their orchids in greenhouses. The Monetary Authority of Singapore announced in a 2006 press release[^40] that Singapore is one of ASEAN’s top producers and exporters of top quality orchid flowers, supplying about a 15% share of the world market in orchids. In 2004, Singapore exported S$29.08 million worth of orchid cut-flowers world-wide. During the 1970s and 1980s, the industry was worth as much as S$16 million per annum.[^41] It is a multimillion dollar industry. Today, Singapore is the third largest exporter of orchids in the world.[^42]
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg" style="width:80%;">
  <div style="background-color: white;">Freshly cut orchids are prepared for export, delivery and arrangement by the staff at Toh Orchids at Sungai Tengah. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 Orchid exporting in Singapore began in the 1930s. The preferred orchids then were the Vanda Miss Joaquim, which was the first to be exported on a large scale, followed by the Cattleya family, including *Laelias* and *Brassavolas*.[^43] Subsequently, it became more profitable to propagate orchids that flower more frequently in order to meet market demands. The ornamental value and long lasting orchid flowers made them suitable for export as cut-flowers.
@@ -122,24 +122,220 @@ A typical batch of orchids to be prepared for export in the early days was descr
 
 Amateur orchid collector and grower, John Laycock, who cofounded the Malayan Orchid Society (the present day Orchid Society of South East Asia) with Emile Galistan and Holttum, founded the Singapore Orchids Ltd (also known as Mandai Orchid Garden[^45] in recent years) with Lee Kim Hong in 1951 to realise his vision of starting orchid cut-flower trade on a commercial basis. The company became well known and is the oldest orchid garden establishment in Singapore.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg" style="width:80%;">
  <div style="background-color: white;">Luscious orchid blooms thrived at the Mandai Orchid Gardens, which closed on 31 December 2010. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 The orchid flower export industry has grown from strength to strength through the increasing ease in air transport and efforts put in by the Tourism Promotion Board. In 1966, the president of Singapore Gardening Society, the late A.G. Alphonso, reported a happy problem of local florists and nurseries not being able to cope with the demands for cut-flowers from overseas, especially from European countries. The private gardens and amateur orchid growers began to find it a ‘profitable pastime’.[^46]
 
 The golden age of orchid exports lasted from the late 1960s till mid 1980s. During its peak from late 1970s to early 1980s, there were approximately 230 nurseries involved in this industry. In 1970, close to 71 hectares of land were used for orchid cultivation and the acreage doubled to 138 hectares in 1972.[^47] By 1980, it continued to increase by five-fold to 350 hectares. But it reportedly suffered decline in acreage from 1983 onwards.[^48]
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg" style="width:80%;">
  <div style="background-color: white;">A watering machine traverses the greenhouse aisles at Toh Orchids. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
-In 1986, the Agri-Food & Veterinary Authority of Singapore (AVA) developed agrotechnology parks to encourage farms to embrace advanced technologies and techniques for intensive farming systems. These farms aim to optimise land use and increase productivity. There are six such parks in Singapore[^49] and some of these parks have orchid farms whose businesses continue to thrive.
+In 1986, the Agri-Food &amp; Veterinary Authority of Singapore (AVA) developed agrotechnology parks to encourage farms to embrace advanced technologies and techniques for intensive farming systems. These farms aim to optimise land use and increase productivity. There are six such parks in Singapore[^49] and some of these parks have orchid farms whose businesses continue to thrive.
 
 With the financial crisis in the recent decades and the shrinking land for orchid cultivation, the future of the orchid export industry appears to be uncertain. During 2003, the Orchid Business Cluster was established by AVA to strengthen Singapore’s position as a world-renowned exporter of tropical orchids through co-ordination of the whole value chain of orchid growers and exporters, and to develop strategic plans to move the industry forward.
 
 In a highly urbanised country, competing spaces for a myriad of uses result in the rapidly disappearing natural habitat of orchids and diminishing gardens to plant these lovely flowers. While new hybrids have been developed to suit different growing conditions for the orchids, and to meet the cut-flower market demands, it is a challenge to sustain the appreciation for orchids among people and their memories of past generations of orchid hybrids that were once the pride in people’s home gardens. The coming World Orchid Conference can be an impetus for re-introducing people to the fascinating world of orchids. 
 
-<br>
+<center><br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
-<b>Ang Seow Leng</b><br>Senior Librarian<br>National Library</div>
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
+<b>Ang Seow Leng</b><br>Senior Librarian<br>National Library</div></center>
+
+#### **REFERENCES**
+      
+
+[700 to attend tomorrow’s orchid talks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631007-1.2.38). (1963, October 7). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+Ang, S.L. (2008, October). Icon of justice: Highlights of the life of David Saul Marshall (1908–1995). [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 4_ (3), 10–15. Retrieved from BiblioAsia website.
+
+Burkhill, H.M. (1963). [_The role of the Singapore Botanic Gardens in the development of orchid hybrids_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979967). Singapore: Straits Times Press. (Call no.: RCLOS 584.15 BUR)
+
+[Demand for blooms from S’pore is growing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660305-1.2.27). (1966, March 5). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+Diano Othman. (2008, June 7). [Risis orchid creator dies of heart attack](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080607-1.2.63.29). _The Straits Times,_ p. 72. Retrieved from NewspaperSG.
+
+Ee, J.W.W. (2011, January 1). [Mandai Orchid Garden to move to Kranji](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110101-1.2.38.12). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+Elliot, J. (2005). [_Orchid hybrids of Singapore: 1893–2003_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12515878). Singapore: Orchid Society of South East Asia. (Call no.: RSING q635.93440959557 ELL)
+
+Jeewan, S.J., Pankaj, K. &amp; Pangtey, Y.P.S. (2008, December 15). Ethnomedical orchids of Uttarakhand, Western Himalaya. _Ethnobotanical Leaflets_, 12, 1227–1230. Retrieved from Ethnoleaflets.com website.
+
+Khew, G.S-W. (2011, January). Forensic botany: Can we resolve the identity of Vanda Miss Joaquim’s mother? [_Gardenwise_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5814580), _36_, 8–9.
+
+Koh, S.P. (2007, January). The Singapore garden festival 2006. [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/3208b523-bfa5-4fd5-a019-8d742cc9944d.aspx), _28_, 12–15. Retrieved from BookSG.
+
+Lee, G. S. K. (2016). [_Richard Eric Holttum_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_636__2008-10-11.html). Retrieved from Singapore Infopedia.
+
+Leong, W.K. (2000, June 23). [The orchid man makes his debut](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000623-1.2.182.10.4). _The Straits Times_, p. 11. Retrieved from NewspaperSG.
+
+Lim-Ho, C.L. (1981, June 1). Experimental findings of the tissue culture of orchid hybrids at the Singapore Botanic Gardens. _The Gardens’ Bulletin, 34_ (1), 148–160.
+
+Ede, A., &amp; Ede, J. (1985). [_Living with orchids_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080284)_._ Singapore: MPH Magazines. (Call no.: RSING 635.93415 EDE)
+
+Monetary Authority of Singapore. (2006, May 28). MAS launches the 2006 Heritage Orchids of Singapore Coin set. Retrieved from http:// www.mas.gov.sg/news\_room/press\_releases/ press\_releases\_index.html
+
+Monetary Authority of Singapore. (2010, October 13). _MAS launches the 2010 Heritage Orchids of Singapore Coin set_ \[Media release\]. Retrieved from http://www.mas.gov.sg/news\_room/press\_releases/press\_releases\_index.html
+
+Ng, H.G. (1984). Commercial orchid growing in Singapore – past and present. [_Malayan Orchid Review_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042537), _18_, 41–45.
+
+Ng, S. (2005, June 26). [Fancy eating orchid?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050626-1.2.5.15) _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+Ong, C. (1998, July 23). [Orchid blooms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980723-1.2.65.4.1). _The Straits Times,_ p. 6. Retrieved from NewspaperSG.
+
+Ong, C. (1999, July 11). [Vanda’s not joking](file:///C:/Users/user/AppData/Roaming/Microsoft/Word/Vanda’s%20not%20joking). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+Orchid. (2011). _Encyclopedia Britannica_. Retrieved from http://www.britannica.com/EBchecked/topic/431285/orchid
+
+Orchid Business Cluster. In Agri-Food &amp; Veterinary Authority of Singapore, Always dependable: Annual report 2009/2010. Retrieved from [http://www.ava.gov.sg/NR/rdonlyres/0676D1EB-C401-4038-9D8D-84A01B52DD27/18268/ava0910­­\_corporate.pdf](http://www.ava.gov.sg/NR/rdonlyres/0676D1EB-C401-4038-9D8D-84A01B52DD27/18268/ava0910_corporate.pdf)
+
+[Orchid world comes to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631002-1.2.138). (1963, October 2). _The Straits Times_, p. 17. Retrieved from NewspaperSG.
+
+[Riot of colour at flower show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490401-1.2.51). (1949, April 1). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+
+Royal Horticultural Society. (2011). Retrieved from Royal Horticultural Society website.
+
+Singapore Botanic Gardens. (2020, November 20). _Hybridisation Programme_. Retrieved from Singapore Botanic Gardens website.
+
+Singapore. Primary Production Department. (1999). [_Agrotechnology parks: Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570024). Singapore: Primary Production Department, Ministry of National Development Singapore. (Call no.: RSING 631.2095957 AGRC)
+
+[_Singapore postage stamps catalogue_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12539234)_._ (2005). Singapore: CS Philatelic Agency. (Call no.: RSING 769.5695957 SPSC)
+
+Street, S. (1952, December 13). [A Malaysian notebook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19521213-1.2.91). _The Straits Times,_ p. 6. Retrieved from NewspaperSG.
+
+Tan, H.Y. (1992, October 28). [Five orchid species picked for Singapore dress fabric designs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921028-1.2.7.3). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+
+Tan, K. (2009, July–September). City in a garden. _Orchid Digest, 73_ (3), 168–171.
+
+Teoh, E-S. (1980). [_Asian orchids_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082313)_._ Singapore: Times Books International. (Call no.: RSING q584.15095 TEO)
+
+_The Orchid Society of Southeast Asia_. (2009). Retrieved from The Orchid Society of Southeast Asia website.
+
+_The Singapore Mint_. Retrieved from The Singapore Mint website.
+
+Turner, I. (2007, January). Carl Linnaeus (1707–1778) – Father of systematic biology. [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/3208b523-bfa5-4fd5-a019-8d742cc9944d.aspx)_, 28_, 6. Retrieved from BookSG.
+
+[Vanda Miss Joaquim the popular choice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810416-1.2.53). (1981, April 16). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+
+Yam, T.W. (2007, July). Deception and seduction: The secret life of orchids. [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/04615c1e-a27e-4ec6-b038-e44ec1ba7bdb.aspx), _29_, 15–17. Retrieved from BookSG.
+
+Yam, T.W. (2007). [_Orchids of the Singapore Botanic Gardens_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904)_._ Singapore: National Parks Board, Singapore Botanic Gardens. (Call no.: RSING 584.4095957 YAM)
+
+Yam, T.W., &amp; Aung, T. (2005, July). Ridley and orchids. [_Gardenwise_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5814580), _25_, 12–13.
+
+Yam, T.W. et al. (2006, July) Conservation and reintroduction of Singapore’s native orchids to Pulau Ubin. [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/094edf73-c989-47fe-a9ab-974a1b4aeb30.aspx), _27_, 10–11. Retrieved from BookSG.
+
+Yang, M.L. (1989, May 26). [Dr Lee is a many-talented ‘radical’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890526-1.2.41.2). _The Straits Times_, p. 29. Retrieved from NewspaperSG.
+
+Yeoh, B.C. (1964). [_A list of Malayan orchid hybrids, 1893–1963_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078066). Singapore: Printed by the Straits Times Press. (Call no.: RCLOS 584.1509595 YEO)
+
+&nbsp;Liu Dianjue 刘殿爵编. (1992). Kongzi jia yu zhu zi suoyin [孔子家语逐字索引](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9724462) \[A concordance to the Kong zi jia yu\]. 台北: 台湾商 务印书馆. (Call no.: Chinese R q181.112 CON)
+
+杨丹旭, 蔡秀娟. 回首植物园152年珍贵史, 我报, p. B4–B5.
+
+#### **NOTES**
+
+[^1]: [700 to attend tomorrow’s orchid talks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631007-1.2.38). _The Straits Times_, 7 October 1963, p. 6.
+
+[^2]: [Riot of colour at flower show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490401-1.2.51). _The Straits Times_, 1 April 1949, p. 3.
+
+[^3]: Koh, Soo Pei, The Singapore Garden Festival 2006. In [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/3208b523-bfa5-4fd5-a019-8d742cc9944d.aspx), vol. 28, Jan 2007, p. 15.
+
+[^4]: Royal Horticultural Society, Retrieved Sept 5, 2011 from http://www.rhs.org.uk
+
+[^5]: Orchid Society of Southeast Asia. Retrieved Sept 5, 2011 from http://www.ossea.org.sg
+
+[^6]: Teoh, Eng Soon. (1980). [_Asian orchids_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082313). Singapore: Times Books International, p. 241.
+
+[^7]: The original version can be found in this source 三国•魏•王肃《孔子家语•六本》：“与善人居，如入芝兰之室，久而不闻其香，即与之化矣。”
+
+[^8]: [Teoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082313), 1980, p. 50.
+
+[^9]: Linnaeus introduced a rigorous system of classification to list all of nature and created a hierarchical system for them. He used a two-part name that was applied to each species. “Each genus was given a one-word name, and then each species in the genus was coded by adding a separate word to the generic name, resulting in a binomial”. &nbsp;(Source: Turner, Ian. Carl Linnaeus (1707—1778) – Father of systematic biology. In [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/3208b523-bfa5-4fd5-a019-8d742cc9944d.aspx)_,_ vol. 28, Jan 2007, p. 6.)
+
+[^10]: [Teoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082313), 1980, p. 1.
+
+[^11]: Ng, Sarah. [Fancy eating orchid?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050626-1.2.5.15) _The Straits Times_, 26 June 2005, p. 9.
+
+[^12]: Orchid. (2011). _Encyclopedia Britannica_. Retrieved Sept 5, 2011 from http://www.britannica.com/EBchecked/topic/431285/orchid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[^13]: For more information, please refer to Jeewan, S.J., Pankaj, K. &amp; Pangtey, Y.P.S. (15 Dec 2008). Ethnomedical orchids of Uttarakhand, Western Himalaya. . Retrieved Sept 5, 2011 from http://www.ethnoleaflets.com/ leaflets/jalal2.htm
+
+[^14]: Burkhill, H.M. (1963). [_The role of the Singapore Botanic Gardens in the development of orchid hybrids_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979967). Singapore: Straits Times Press, 1963, p. 11.&nbsp;
+
+[^15]: Yam, Tim Wing. (2007). [_Orchids of the Singapore Botanic Gardens_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904). Singapore: National Parks Board, Singapore Botanic Gardens, p. 17.&nbsp;
+
+[^16]: [Burkhill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979967), 1963, p. 11.
+
+[^17]: Yam, Tim Wing and Aung, Thame. Ridley and orchids. In&nbsp; [_Gardenwise_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5814580), vol 25, Jul 2005, p. 12.
+
+[^18]: Elliot, John. (2005). [_Orchid hybrids of Singapore: 1893–2003_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12515878). Singapore: Orchid Society of South East Asia, p. 29.
+
+[^19]: Yam Tim Wing. (2007). [_Orchids of the Singapore Botanic Gardens_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904). Singapore: National Parks Board, Singapore Botanic Gardens, p. 23.&nbsp;
+
+[^20]: Yeoh, Bok Choon. (1964). [_A list of Malayan orchid hybrids, 1893–1963_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078066). Singapore: Printed by the Straits Times Press, p. iii.
+
+[^21]: MAS launches the 2006 Heritage Orchids of Singapore Coin set (28 May 2006). Retrieved Sept 5, 2011 from http://www.mas.gov.sg/news\_ room/press\_releases/press\_releases\_index.html
+
+[^22]: Lim-Ho, Chee Lan. Experimental findings of the tissue culture of orchid hybrids at the Singapore Botanic Gardens. In The Gardens’ Bulletin, 34(1), 1 Jun 1981, p. 148.
+
+[^23]: [Yam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904), 2007, p. 27.
+
+[^24]: Tan, Kiat. City in a garden. In Orchid Digest, Jul-Sept 2009, p. 171. Retrieved Sept 5, 2011 from http://www.20woc.com.sg/site/images/ City\_of\_Garden\_5-1.pdf
+
+[^25]: Hybridisation Programme. Retrieved Sept 5, 2011 from [http://www.sbg.org.sg/research/hybridizationprogram.asp](http://www.sbg.org.sg/research/hybridizationprogram.asp)
+
+[^26]: Yam, Tim Wing, et al. Conservation and reintroduction of Singapore’s native orchids to Pulau Ubin. In [_Gardenwise_](https://eresources.nlb.gov.sg/printheritage/detail/094edf73-c989-47fe-a9ab-974a1b4aeb30.aspx), vol 27, Jul 2006, p. 10.
+
+[^27]: [Yam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904), 2007, p. 37.
+
+[^28]: Yam, Jul 2006, p. 10.
+
+[^29]: [Vanda Miss Joaquim the popular choice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810416-1.2.53). _The Straits Times_, 16 Apr 1981, p. 12.
+
+[^30]: Khew, Gillian Su-Wen. Forensic botany: Can we resolve the identity of Vanda Miss Joaquim’s mother? [_Gardenwise_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5814580), vol. 36, Jan 2011, p. 8.
+
+[^31]: Ong, Cat. [Orchid blooms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980723-1.2.65.4.1). _The Straits Times,_ 23 Jul 1998, p. 6.
+
+[^32]: Ong, Cat. [Vanda’s not joking](file:///C:/Users/user/AppData/Roaming/Microsoft/Word/Vanda’s%20not%20joking). _The Straits Times_, 11 Jul 1999, p. 6.
+
+[^33]: More information can be found in The Singapore Mint. Retrieved Sept 5, 2011 from http://www. singaporemint.com/fact\_sgcurrency.php
+
+[^34]: MAS launches the 2010 Heritage Orchids of Singapore Coin set (13 October 2010). Retrieved Sept 5, 2011 from http://www.mas. gov.sg/news\_room/press\_releases/press\_ releases\_index.html
+
+[^35]: [Yam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904), 2007, p. 24.
+
+[^36]: Ang, Seow Leng. Icon of justice: Highlights of the life of David Saul Marshall (1908—1995). In [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_,_ 4 (3), Oct 2008, p. 13.
+
+[^37]: Yang, Mei Ling. [Dr Lee is a many-talented ‘radical’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890526-1.2.41.2). _The Straits Times_, 29 May 1989, p. 29.
+
+[^38]: Diano Othman. [Risis orchid creator dies of heart attack](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080607-1.2.63.29). _The Straits Times,_ 7 Jun 2008, p. 72.
+
+[^39]: Leong, Weng Kam. [The orchid man makes his debut](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000623-1.2.182.10.4). _The Straits Times_, 23 Jun 2000, p. 11.
+
+[^40]: Monetary Authority of Singapore, 28 May 2006.
+
+[^41]: Monetary Authority of Singapore, 13 Oct 2010.
+
+[^42]: 杨丹旭, 蔡秀娟. 回首植物园152年珍贵史, 我报, pp. B4—B5.
+
+[^43]: Street, Stanley. [A Malaysian notebook](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19521213-1.2.91). _The Straits Times,_ 13 Dec 1952, p. 6.
+
+[^44]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19521213-1.2.91), 13 Dec 1952, p. 6.
+
+[^45]: The four hectare garden has close to 50,000 orchids, including more than 100 varieties dating back more than 40 years. It has moved out of the Mandai premise in 2011 because the plot of land will become part of a 35 hectare tourist attraction. (Source: Ee, Jamie Wen Wei. [Mandai Orchid Garden to move to Kranji](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110101-1.2.38.12). _The Straits Times_, 1 Jan 2011, p. 9.)
+
+[^46]: [Demand for blooms from S’pore is growing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660305-1.2.27). _The Straits Times_, 5 Mar 1966, p. 4.
+
+[^47]: Ng, Huang Gieh. (1984). Commercial orchid growing in Singapore – past and present. [_Malayan Orchid Review_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042537), vol. 18, 1984, p. 43.
+
+[^48]: [Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042537), 1984, p. 43.
+
+[^49]: The 6 Agrotechnology Parks in Singapore are situated at Lim Chu Kang, Murai, Sungei Tengah, Mandai, Nee Soon and Loyang. (Source: (1999). [_Agrotechnology parks: Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570024). Singapore: Primary Production Department, Ministry of National Development Singapore. p. 3)
+
+
+	
+	
+	
