@@ -5,6 +5,9 @@ description: Senior Librarian Ang Seow Leng gives us a crash course in all
   things orchids and their special relationship with Singapore.
 ---
 #### Senior Librarian _Ang Seow Leng_ gives us a crash course in all things orchids and their special relationship with Singapore.
+
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg">
+ <div style="background-color: white;">The National Orchid Garden offers a permanent showcase of the largest display of tropical orchids in the world, including “hand-crafted” orchids bred by the Gardens’ horticultural staff. <i>Simon McGill.</i></div>
  
 The 20th World Orchid Conference will once again be held in Singapore from 13–20 November, at the Marina Bay Sands Expo and Convention Centre. This major event is regarded as the “Olympics of Orchids”. World Orchid Conferences were initiated in 1952 by Gordon W. Dillon, from the American Orchid Society. He was also the editor for American Orchid Society Bulletin from 1943—1967, and from 1970—1973. The first conference was held at St. Louis, Missouri in October 1954. Since then, it has been held once every three years. Regarded as the most significant event in the international orchid circuit, it attracts academics, orchid breeders and enthusiasts who gather to share about the promotion, cultivation and study of orchids.
 
@@ -52,6 +55,10 @@ A Tissue Culture Laboratory was established in the Gardens in the early 1970s to
 
 The Orchid Enclosure was first opened to the public in 1955. The hugely popular enclosure was expanded with time and the National Orchid Garden was opened at the end of 1995, exhibiting an extensive range of orchids. In order to cultivate and research the orchid species growing in higher altitudes and from temperate climates, the Cold House, also known as the Temperate House, was built in 1972. And in 2004, it was replaced by the Cool House Conservatory, which was constructed in the National Orchid Garden.23 As at 2009, Tan Wee Kiat reported that there were more than 1,000 orchid species and 2,000 hybrids in the collection.24 The Gardens has also registered more than 400 hybrids.25
 
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg">
+ <div style="background-color: white;">Before the three-hectare National Orchid Garden was constructed, the one-hectare Orchid Enclosure at the Singapore Botanic Gardens was home to the many varieties of orchids that were developed through the orchid breeding programme. <i>Courtesy of Singapore Tourism Board.
+</i></div>
+
 #### **Saving Native Orchids**
 
 More than 90% of the 221 species of Singapore’s native orchids have become endangered, vulnerable, rare or extinct.26 Since 1991, a programme was started to conserve the orchid species of Singapore. These native orchids are slowly becoming extinct due to aggressive urbanisation and diminishing natural habitats. Three main strategies are proposed:
@@ -66,9 +73,9 @@ The orchid is a well recognised symbol of Singapore, and Singaporeans should be 
 
 In 1981, it was chosen as Singapore’s national flower after a yearlong search picked from a selection of 30 other orchid hybrids, the justification was that it is a common, resilient species with year-round blooming capability.29 How this orchid hybrid came about has not yet been resolved. It was first recorded by Henry N. Ridley, then Director of the Singapore Botanic Gardens, in *The Gardener’s Chronicle* (1893) as a cross between two species of orchid, *Vanda hookeriana*, and *V. teres*. However, there was no mention of which was the male parent. To solve this mystery, the Singapore Botanic Gardens is currently conducting DNA research to ascertain the parentage of the orchid.30
 
-Designing the national dress for Singapore has always been a challenge. Should it be a creative expression of highlights in the Chinese, Malay and Indian ethnic costumes? The results of such attempts do not always leave a favourable impression on people. President Ong Teng Cheong (in office from 1 September 1993– 31 August 1999) suggested creating a national dress based on the national flower.31 This started a buzz and several new lines of fashion ranging from orchid-themed cheongsams to swimwear and gowns created by international and local designers.
+Designing the national dress for Singapore has always been a challenge. Should it be a creative expression of highlights in the Chinese, Malay and Indian ethnic costumes? The results of such attempts do not always leave a favourable impression on people. President Ong Teng Cheong (in office from 1 September 1993—31 August 1999) suggested creating a national dress based on the national flower.31 This started a buzz and several new lines of fashion ranging from orchid-themed cheongsams to swimwear and gowns created by international and local designers.
 
-In 1992, the Singapore Dress Development Committee narrowed the range of orchids as design motifs to five:* Vanda* Miss Joaquim; the *Oncidium* Gower Ramsey; *Dendrobium* Tay Swee Keng, *Renanthera* Kalsom; and *Phalaenopsis* Barbara Bush. By 1994, Vanda Miss Joaquim was made the theme of the Singapore dress collection. As quoted in the Straits Times,
+In 1992, the Singapore Dress Development Committee narrowed the range of orchids as design motifs to five: *Vanda* Miss Joaquim; the *Oncidium* Gower Ramsey; *Dendrobium* Tay Swee Keng, *Renanthera* Kalsom; and *Phalaenopsis* Barbara Bush. By 1994, Vanda Miss Joaquim was made the theme of the Singapore dress collection. As quoted in the Straits Times,
 
 "Dendrobiums may look more vibrant and golden showers more exotic but it’s been va va Vanda that’s got the voom for every designer who’s worked on Singapore dress."32
 
@@ -82,7 +89,13 @@ In summary, Orchids have been well represented in Singapore stamps and currency,
 
 #### **Orchid Diplomacy**
 
+<img style="width:50%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg">
+ <div style="background-color: white;"><i>Mokara</i> Zhu Rongji ‘Lao An’ was created for the wife of 5th Premier of the People’s Republic of China (Zhu Rongji), Lao An. <i>Reproduced from Orchid Hybrids of Singapore, 1893–2003. All rights reserved, Orchid Society of South East Asia, 2005.</i></div>
+
 With Singapore orchids gaining fame in the world, it was adopted as an agents to promote goodwill with other nations. The Singapore Botanic Gardens started the pratice of naming of new orchid hybrids after VIPs and visiting celebrities. In 1956, *Aranthera* Anne Black became the first VIP orchid, named after Lady Black, the wife of the former Governor of Singapore, Sir Robert Brown Black.35 Other orchid hybrids that are named after VIPs include: *Dendrobium* Michiko, *Mokara* Zhu Rongji, *Renantanda* Prince Norodom Sihanouk, *Dendrobium* Memoria Princess Diana and *Vandaenopsis* Nelson Mandela. Some are named after celebrities, like local singer Stephanie Sun, pop music celebrity Ricky Martin and Korean actor Bae Yong Jun.
+
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg">
+ <div style="background-color: white;">(Left to Right) <i>Renanthera</i> Kalsom, <i>Oncidium</i> Gower Ramsey, <i>Spathoglottis</i> Primrose, <i>Dendrobium</i> Tay Swee Keng and <i>Vanda</i> Miss Joaquim. <i>Spathoglottis</i> Primrose reproduced from <i>Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens, 2007. Rest reproduced from A Guide to the Orchids of Singapore. All rights reserved, Singapore Science Centre,</i> 1993.</div>
 
 The orchid was also endorsed by David Marshall, Singapore’s first Ambassador to France, and subsequently, also to Spain, Portugal and Switzerland. He was well-known as the ambassador with an orchid, as he would wear an orchid on his lapel at every official function.36
 
@@ -117,6 +130,3 @@ In a highly urbanised country, competing spaces for a myriad of uses result in t
 <br/>
 <img src="/images/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
 <b>Ang Seow Leng</b><br>Senior Librarian<br>National Library</div>
-
-
-
