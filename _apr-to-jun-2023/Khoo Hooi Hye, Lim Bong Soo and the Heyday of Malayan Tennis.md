@@ -5,8 +5,6 @@ description: Two remarkable athletes served up a storm to make Malaya a
   tennis  power to contend with during the interwar years.
 image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
 ---
-
-
 #### Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 By Abhishek Mehrotra
 
@@ -244,4 +242,4 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^46]: Tan Hai Chuang, “[Tennis, Anyone?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000513-1.2.97.11),” *Straits Times*, 13 May 2000, 81. (From NewspaperSG)
 
-[^47]: “Astra Sharman,” WTA Tour, accessed 22 October 2022, https://www.wtatennis.com/players/319696/astra-sharma#grandslams.
+[^47]: “Astra Sharma,” WTA Tour, accessed 22 October 2022, https://www.wtatennis.com/players/319696/astra-sharma#grandslams.
