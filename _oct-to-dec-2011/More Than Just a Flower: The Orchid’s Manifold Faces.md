@@ -68,7 +68,8 @@ a. *Artificial propagation*<br> b. *Reintroduction to habitats*<br> c. *Foundati
 As a result, the tiger orchid, or *Grammatophyllum speciosum*, was the first species to be reintroduced in Pulau Ubin and it has since taken root and doing well. As at 2007, four native orchid species have been re-introduced in parks and roadside trees.28 Research and conservation continue to be the main objective at the Singapore Botanic Gardens in order for future generations to enjoy the beauty of orchids and discover other uses for them.
 
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg"><div style="background-color: white;">A tiger orchid or <i>Grammatophyllum speciosum</i> may weigh over one ton at full maturity, making it the largest orchid plant in the world. <i>Reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens,</i> 2007.</div>
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg">
+<div style="background-color: white;">A tiger orchid or <i>Grammatophyllum speciosum</i> may weigh over one ton at full maturity, making it the largest orchid plant in the world. <i>Reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens,</i> 2007.</div>
 
 #### **A Symbol of Singapore**
 
@@ -110,7 +111,7 @@ Cultural Medallion winner in 1981 for excellence in painting orchids, Lee Hock M
 
 For Singapore, the major economic contribution of orchids is to the of cut-flower export industry. Singapore’s tropical climate enables the production of orchids all year round where as countries with four seasons have to grow their orchids in greenhouses. The Monetary Authority of Singapore announced in a 2006 press release40 that Singapore is one of ASEAN’s top producers and exporters of top quality orchid flowers, supplying about a 15% share of the world market in orchids. In 2004, Singapore exported S$29.08 million worth of orchid cut-flowers world-wide. During the 1970s and 1980s, the industry was worth as much as S$16 million per annum.41 It is a multimillion dollar industry. Today, Singapore is the third largest exporter of orchids in the world.42
 
-<img style="width:80%;" src="images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg">
  <div style="background-color: white;">Freshly cut orchids are prepared for export, delivery and arrangement by the staff at Toh Orchids at Sungai Tengah. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 Orchid exporting in Singapore began in the 1930s. The preferred orchids then were the Vanda Miss Joaquim, which was the first to be exported on a large scale, followed by the Cattleya family, including *Laelias* and *Brassavolas*. 43 Subsequently, it became more profitable to propagate orchids that flower more frequently in order to meet market demands. The ornamental value and long lasting orchid flowers made them suitable for export as cut-flowers.
@@ -120,6 +121,9 @@ A typical batch of orchids to be prepared for export in the early days was descr
 "The crates of light bamboo each contained 25–30 stalks, sprayed with insecticide, wrapped in damp cotton-wool and laid on a bed of banana leaves."44
 
 Amateur orchid collector and grower, John Laycock, who cofounded the Malayan Orchid Society (the present day Orchid Society of South East Asia) with Emile Galistan and Holttum, founded the Singapore Orchids Ltd (also known as Mandai Orchid Garden45 in recent years) with Lee Kim Hong in 1951 to realise his vision of starting orchid cut-flower trade on a commercial basis. The company became well known and is the oldest orchid garden establishment in Singapore.
+
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg">
+ <div style="background-color: white;">Luscious orchid blooms thrived at the Mandai Orchid Gardens, which closed on 31 December 2010. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 The orchid flower export industry has grown from strength to strength through the increasing ease in air transport and efforts put in by the Tourism Promotion Board. In 1966, the president of Singapore Gardening Society, the late A.G. Alphonso, reported a happy problem of local florists and nurseries not being able to cope with the demands for cut-flowers from overseas, especially from European countries. The private gardens and amateur orchid growers began to find it a ‘profitable pastime’. 46
 
