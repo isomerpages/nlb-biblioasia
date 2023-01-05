@@ -31,10 +31,11 @@ Lee’s Purple Marine Crab (Leelumnus radium), a bright purple marine crab cover
 	
 Discovered for the first time in Singapore, Janss’ pipefish (*Doryrhamphus janssi*) is another little pecularity. It belongs to the same family as the seahorse, which has the male of the species carry eggs in its pouch.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/BiodiversityDiscoveries/Jann%20Pipefish.jpg"> <div style="background-color: white;">
-Jann’s Pipefish can be found swimming under rocky overhangs, corals, or close to the floor of its reef habitat where it performs the role of cleaner fish. Photo: Jani Tanzil. <i>Courtesy of National Parks Board.
+<img style="width:80%;" src="/images/Vol%207%20issue%203/BiodiversityDiscoveries/Jann%20Pipefish.jpg">
+ <div style="background-color: white;">Jann’s Pipefish can be found swimming under rocky overhangs, corals, or close to the floor of its reef habitat where it performs the role of cleaner fish. Photo: Jani Tanzil. <i>Courtesy of National Parks Board.
 </i></div>
-
+	
+	
 A once-missing species, the white-spotted Cat Snake (*Boiga drapiezii*) has been recently observed at the Central Catchment Nature Reserve, over 100 years since its last sighting. However, experts believe that these endangered species, which have been rediscovered, still face the threat of extinction due to trends of habitat loss.[^2]
 
 Chanced upon during a dragonfly conservation project, a silvery and blue damselfly (*Archibasis rebeccae*) is also featured in the exhibition. This rare discovery has also led to a book on Singapore’s dragonflies, *Dragonflies of our Parks and Gardens* (2011).[^3]
@@ -87,11 +88,3 @@ Ngiam, R. (2011). [_Dragonflies of our parks and gardens_](https://eservice.nlb.
 [^6]: Scheffers, B.R. et al. (2011). The world’s rediscovered species: Back from the brin? _PLoS ONE 6_ (7). Retrieved from PLOSone.org website.
 
 [^7]: Walker, M. (2009, October 8). How cities drive plants extinct. _Earth News._ Retrieved from BBC News website.
-
-
-
-
-
-
-
-
