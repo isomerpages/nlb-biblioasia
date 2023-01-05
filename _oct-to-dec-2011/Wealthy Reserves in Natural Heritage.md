@@ -5,9 +5,12 @@ description: "Senior Librarian Sara Pek shares more about “A Decade of
   Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking
   Singapore’s commitment to biodiversity conservation. "
 ---
- #### Senior Librarian _Sara Pek_ shares more about “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking Singapore’s commitment to biodiversity conservation.
+#### Senior Librarian _Sara Pek_ shares more about “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking Singapore’s commitment to biodiversity conservation.
+
+<img style="width:80%;" src="/images/Vol%207%20issue%203/BiodiversityDiscoveries/Long%20Hanging%20Flowers.jpg">
+ <div style="background-color: white;">The long, hanging flowers of <i>Coelogyne rocchusenii.</i> Photo: Alvin Lok. <i>Courtesy of National Parks Board.</i></div>
  
- Singapore does not have grand forts, great palaces or ancient relics. But the diversity of our terrestrial and marine fauna holds clues to the millennium past; adding richness and depth to our biodiversity. Thousands of living marvels and natural heritage reside in our lush and beautiful islands, from the rocky shore creatures at Chek Jawa and Pulau Ubin to a wide variety of plants, animals and insects found at the nature reserves.
+Singapore does not have grand forts, great palaces or ancient relics. But the diversity of our terrestrial and marine fauna holds clues to the millennium past; adding richness and depth to our biodiversity. Thousands of living marvels and natural heritage reside in our lush and beautiful islands, from the rocky shore creatures at Chek Jawa and Pulau Ubin to a wide variety of plants, animals and insects found at the nature reserves.
 
 Since post independence in the 1960s, Singapore has engineered its landscapes for rapid urbanisation and industrialisation. At the same time, a policy to create a clean and green city was implemented. To keep our ecosystems balanced, government and non-profit organisations have continued to conserve the habitats and wildlife for our future generations.
 
@@ -37,11 +40,17 @@ The exhibit highlights a decade of milestones in Singapore’s preservation of b
 
 The unrelenting and persevering efforts of our nature enthusiasts, and their adventurous tastes for new discoveries has opened our eyes to the natural beauty hidden in our rainforest swamps, mangroves and shorelines. As we celebrate the International Year of the Forest in 2011, we can all learn to protect and value green spaces as both solace for wildlife, and home for us.
 
-
 <br>
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
-<b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
+<img src="/images/Vol%207%20issue%203/BiodiversityDiscoveries/Sara%20Pek.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Sara Pek</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+	
 
-
+	
+	
+	
+	
+	
+	
+	
