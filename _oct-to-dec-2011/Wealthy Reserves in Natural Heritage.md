@@ -5,3 +5,43 @@ description: "Senior Librarian Sara Pek shares more about “A Decade of
   Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking
   Singapore’s commitment to biodiversity conservation. "
 ---
+ #### Senior Librarian _Sara Pek_ shares more about “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking Singapore’s commitment to biodiversity conservation.
+ 
+ Singapore does not have grand forts, great palaces or ancient relics. But the diversity of our terrestrial and marine fauna holds clues to the millennium past; adding richness and depth to our biodiversity. Thousands of living marvels and natural heritage reside in our lush and beautiful islands, from the rocky shore creatures at Chek Jawa and Pulau Ubin to a wide variety of plants, animals and insects found at the nature reserves.
+
+Since post independence in the 1960s, Singapore has engineered its landscapes for rapid urbanisation and industrialisation. At the same time, a policy to create a clean and green city was implemented. To keep our ecosystems balanced, government and non-profit organisations have continued to conserve the habitats and wildlife for our future generations.
+
+For the past ten years, local conservationists have welcomed to Singapore’s intertidal and subtidal habitats 500 species of plants and animals new to Singapore. More than 100 new species have also been discovered.
+
+These accomplishments were unveiled at “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition to mark Singapore’s commitment to biodiversity conservation.
+
+The exhibition was launched by Tommy Koh, former chairman of National Heritage Board and the Patron of the Nature Society of Singapore at the HortPark Gallery on 21 April 2011. This amazing showcase was put together by National Parks Board (NParks) and National University of Singapore’s Raffles Museum of Biodiversity Research (RMBR). Since 4 July, the exhibition has travelled to the National Library and the public libraries.
+
+The natural world takes centre stage in wooden crates on display. Astonishing photographs of new and rediscovered species heave into view. Every species is unique. The exhibition emphasises not only what has been found but also the unknown and beyond our current understanding of life forms. A recent study1 reported that an estimated 8.7 million species exist on planet Earth; 90 percent of plant and animal species have yet to be discovered or classified. Our ecosystems are more complex and diverse than we can grasp.
+
+The gallery of images tells of Singapore’s diverse habitats and the rare and weird plants and animals which occupy them:
+
+Lee’s Purple Marine Crab (Leelumnus radium), a bright purple marine crab covered by layers of dirt, has been unnoticed on Singapore’s shoreline until this year. It has been named after the Lee Foundation.
+
+Discovered for the first time in Singapore, Janss’ pipefish (*Doryrhamphus janssi*) is another little pecularity. It belongs to the same family as the seahorse, which has the male of the species carry eggs in its pouch.
+
+A once-missing species, the white-spotted Cat Snake (*Boiga drapiezii*) has been recently observed at the Central Catchment Nature Reserve, over 100 years since its last sighting. However, experts believe that these endangered species, which have been rediscovered, still face the threat of extinction due to trends of habitat loss.2
+
+Chanced upon during a dragonfly conservation project, a silvery and blue damselfly (*Archibasis rebeccae*) is also featured in the exhibition. This rare discovery has also led to a book on Singapore’s dragonflies, *Dragonflies of our Parks and Gardens* (2011).
+
+Listed as nationally extinct, the Necklace Orchid (*Coelogyne rochussenii*) was encountered at the deep Nee Soon Swamp Forest last year.4 Another rediscovery is the stylised orchid (*Dendrobium aloifolium*), which was last spotted in 1911.5 It was first recorded in Singapore in 1889 by Sir Henry Nicholas Ridley, the first Scientific Director of the Singapore Botanic Gardens. Native orchids are hard to find due to the loss of their habitats and these orchids are rare finds from the pristine swamps.
+
+Maintaining the health of the natural environment and biodiversity is takes on even greater importance in a highly urbanised city state like Singapore. Biodiversity — the variety and interdependence of living things that exist on Earth — give us inestimable benefits and help the ecosystems adapt to changes including a wide variety of environmental threats.
+
+The exhibit highlights a decade of milestones in Singapore’s preservation of biological diversity. Some of these include: Singapore’s signing of the International Convention of Biological Diversity (an international treaty behind global conservation programmes) in 1993; the documentation of the framework on biodiversity conservation in the Singapore Green Plan launched that same year; the recommendation of nineteen nature areas in 2003; and the establishment of the National Biodiversity Reference Centre in Singapore in 2006.6 Last year, Singapore contributed to the global biodiversity conservation movement by developing the first assessment tool for cities to measure biodiversity — the Singapore index on Cities’ Biodiversity.7
+
+The unrelenting and persevering efforts of our nature enthusiasts, and their adventurous tastes for new discoveries has opened our eyes to the natural beauty hidden in our rainforest swamps, mangroves and shorelines. As we celebrate the International Year of the Forest in 2011, we can all learn to protect and value green spaces as both solace for wildlife, and home for us.
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
+
+
