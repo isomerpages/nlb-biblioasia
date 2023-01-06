@@ -41,6 +41,7 @@ A reviewer of the book even suggests that Mrs Kinsey's concluding tips on cookin
 #### **Colonial Dishes and Malayan Recipes**
 
 Mrs Kinsey's cookbook presents dishes familiar to the British colonial palate — an amalgam of Western boiled and baked cheese dishes alongside curries and kedgerees — influences from British India that had become incorporated into the British dinner menu.
+
 The 420 recipes are organised into broad categories, reflecting the main dishes eaten by expatriates: soups, fish, roasts, poultry and game, vegetables, entrees, hors d'oeuvres, potted meats, sandwiches, sauces, pickles and preserves, forcemeats, puddings, cakes and pastry. Each section lists the recipes alphabetically.
 
 Besides describing some classic dishes such as scrambled eggs (p. 90) and cheese on toast (pp. 56—57), there are also less common dishes such as turtle soup (p. 12), sheep's head broth (p. 11), pig's cheek boiled (p. 80), sheep's tongues braised (p. 90), sheep's brains on toast or with bacon (p. 165) in the book. She also provides recipes for invalids and the ill such as chicken jell and chop (p. 62). Occasionally she even gives the seasonal availability of an item, noting for the reader's benefit that "[mushrooms] may be bought at all Chinese kedais [stores] all the year round." (p. 46)
@@ -52,7 +53,9 @@ As promised, she uses many local ingredients fish such as *ikan bawal*, *ikan me
 Local names or nicknames for ingredient *kachang goring* (Malay for fried nuts) give us colloquial insights into these food items. Of interest are Mrs Kin useful tips into food preparation, much of which may be forgotten today - "Add egg shell to help clear soup and strain through muslin": Always remember when cooking celery, to leave the lid off the pan otherwise there will be a slightly bitter flavor.
 
 
-Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.21 In 1931, Mrs Kinsey published another cookbook, Next Meal Cook Book22 which was sold as a double volume with *Mems*.
+Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.21 In 1931, Mrs Kinsey published another cookbook, *Next Meal Cook Book*22 which was sold as a 
+double volume with *Mems*.
+
 
 
 
