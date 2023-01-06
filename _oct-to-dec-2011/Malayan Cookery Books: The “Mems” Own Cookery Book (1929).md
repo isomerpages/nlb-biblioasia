@@ -167,7 +167,12 @@ Tregonning, K.G. (1967). [_The Singapore Cold Storage, 1903–1966_](https://ese
 
 [^21]: Bear Brand Unsweetened Swiss Milk advertising in the month of March 1930 in _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300303-1.2.2.1)_.
 
-[^22]: Unfortunately, the Library does not hold a copy of this.
+\[^22\]: Unfortunately, the Library does not hold a copy of this.
+
+
+
+
+
 
 
 
