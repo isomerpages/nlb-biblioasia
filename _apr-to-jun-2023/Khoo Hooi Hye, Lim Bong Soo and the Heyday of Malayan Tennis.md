@@ -13,7 +13,7 @@ By Abhishek Mehrotra
 
 The spectators seated in the pavilion looking out at the tennis courts on Hong Lim Green, home of the Straits Chinese Recreation Club (SCRC), could barely suppress their excitement. It was 24 April 1929 and two of the most talented tennis players ever seen in Malaya were about to go toe to toe in the club’s championship final.[^1] 
 
-The match was a replay. A few days earlier, Khoo Hooi Hye and Lim Bong Soo had run each other into the ground; the final had been tied at one set all when, overcome with cramp in the oppressive heat, both had collapsed on court.[^2] Hong Lim Green, indeed all of Singapore, had rarely witnessed such sporing drama. Now, the two men were back at it. 
+The match was a replay. A few days earlier, Khoo Hooi Hye and Lim Bong Soo had run each other into the ground; the final had been tied at one set all when, overcome with cramp in the oppressive heat, both had collapsed on court.[^2] Hong Lim Green, indeed all of Singapore, had rarely witnessed such sporting drama. Now, the two men were back at it. 
 
 Three-time defending champion Khoo was a household name, not just in Singapore, but throughout Malaya. Born in Penang in 1901, he had risen through the ranks of the Chinese Recreation Club there while still a teenager. By the age of 16, Khoo was playing exhibition matches with other celebrated players to raise money for the Red Cross during the first World War.[^3] After dominating the Penang tennis circuit for a number of years, he moved to Singapore sometime in late 1922 or early 1923 and quickly became popular thanks to his sporting prowess and polite, unassuming ways.[^4] 
 
