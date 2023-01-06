@@ -18,6 +18,3 @@ Singapore, it's difficult not to be sentimental when you've grown up so fast. An
 And a great many more to come!
 
 <b>Ms Ngian Lek Choh</b><br> Director<br> National Library
-
-
-
