@@ -67,7 +67,3 @@ Local names or nicknames for ingredient *kachang goring* (Malay for fried nuts) 
 
 Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.21 In 1931, Mrs Kinsey published another cookbook, *Next Meal Cook Book*22 which was sold as a 
 double volume with *Mems*.
-
-
-
-
