@@ -27,7 +27,7 @@ Mrs Kinsey first published *The "Mems" Own Cookery Book* in 1920. The preface no
 The war, however, brought a new appreciation of good cooking as many young British soldiers who had served in France began to savour the richness of French cuisine and in turn, noted the lack of it in their local meals.' Improved technologies during this time allowed a wider range of food to be imported and prepared. Mrs Kinsey suggests a number of recipes using tinned foods'', a process which had long been a means of preserving food from back home. Gas cooking was introduced to Malaya as early as 19006 and was then promoted as an economical means of food preparation. However, it was refrigeration which revolutionised the kinds of dishes served in homes and restaurants. Foods previously vulnerable to the tropical climate could now remain fresh on the long sea journey to the East.
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/MalayanCookery/Mem's%20Own%20Cookery%20Book_gas%20cooker.png">
- <div style="background-color: white;">Advertising for a gas cooker (inside pages, Kinsley, 1929)</i></div>
+ <div style="background-color: white;">Advertising for a gas cooker (inside pages, Kinsley, 1929)</div>
 
 The Cold Storage, a famed supermarket chain today, was registered in 1903. Its first retail shop front along Orchard Road opened in 1905. Its first retail branch in Kuala Lumpur was opened in 1910, and soon after, in various other cities throughout the Malay States. The opening of Cold Storage meant not only easier access to frozen foods10 but also the availability of Western-style food products11 which in turn transformed the marketing habits of the expatriate wife. Now the "mems" could shop at these upmarket stores while the cooks did their marketing at the wet market. So significant were the company's products in preparing Western meals that a number of Mrs Kinsey's recipes are prefixed with the adjective "Cold Storage" such as those for bloaters, haddocks, kippers (p. 28) and pheasant (p. 37). In fact, Cold Storage is the main establishment mentioned for unique provisions such as the Cold Storage sausages in the recipes for beef and sausage roll (p. 52), stuffed galantine of fowl (pp. 69-70) and plain sausage rolls (p. 89).12 
 
@@ -67,3 +67,20 @@ Local names or nicknames for ingredient *kachang goring* (Malay for fried nuts) 
 
 Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.21 In 1931, Mrs Kinsey published another cookbook, *Next Meal Cook Book*22 which was sold as a 
 double volume with *Mems*.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Library Holdings</b><br><br><i>The “Mem’s” Own Cookery Book</i> is from the collection of rare and historical imprints at the National Library Singapore. A 2nd edition of Mem’s can be found at the Rare Book Collection on Level 13. A copy is also accessible on microfilm (NL 9852).</div>
+
+The author acknowledges with thanks Ai Ling Devadas, Editor of the Singapore Food History website for reviewing the article.
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<center><b>Bonny Tan</b><br> Senior Librarian<br> Lee Kong Chian Reference Library<br>National Library</center></div>
+
+
+
+
+
+
