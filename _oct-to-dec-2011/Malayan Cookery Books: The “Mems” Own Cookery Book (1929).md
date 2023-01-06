@@ -77,10 +77,97 @@ The author acknowledges with thanks Ai Ling Devadas, Editor of the Singapore Foo
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
-<center><b>Bonny Tan</b><br> Senior Librarian<br> Lee Kong Chian Reference Library<br>National Library</center></div>
+<center><b>Bonny Tan</b><br> Senior Librarian<br> Lee Kong Chian Reference Library<br>National Library</center>
+
+#### **REFERENCES**
+
+
+Barber, A. (2007). [_Malaysian moments: A pictorial retrospective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13957166). Kuala Lumpur: AB&A. (Call no.: RSEA 959.5 BAR)
+
+Goh, C.B. (2003). [_Serving Singapore: A hundred years of Cold Storage, 1903–2003_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11900478). Singapore: Cold Storage. (Call no.: RSING 381.148095957 GOH)
+
+[Growing popularity of Chop Suey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weeklysun19130301-1.2.43). (1913, March 1). _Weekly Sun_, p. 10. Retrieved from NewspaperSG.
+
+Humble, N. (2005). _Culinary pleasures: Cook books and the transformation of British food_. London: Faber.
+
+Leong-Salobir, C. (2011). [_Food culture in colonial Asia: A taste of empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765). Milton Park, Abingdon, Oxon: New York: Routledge. (Call no.: RSING 394.12095 LEO)
+
+[Lighter dinner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200927-1.2.74). (1920, September 27). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+
+Makan Ada. (1908, May 26). [Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3). _The Singapore Free Press and Mercantile Advertiser_, p. 1. Retrieved from NewspaperSG.
+
+[Notes of the Day: Malay chutney](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390711-1.2.46). (1939, July 11). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+
+Olver, L. (2011, July 4). _The food timeline_. Retrieved from Foodtimeline.org. website.
+
+[Page 2 Advertisements Column 1: Katz Brothers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000330-1.2.17.1). (1900, March 30). _The Singapore Free Press and Mercantile Advertiser_, p. 2. Retrieved from NewspaperSG.
+
+[Some new books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56). (1922, May 6). _The Singapore Free Press and Mercantile Advertiser_, p. 9. Retrieved from NewspaperSG.
+
+[The literary page – new books reviewed: Recipes for Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300131-1.2.105). (1930, January 31). _The Straits Times_, p. 17. Retrieved from NewspaperSG.
+
+[The slump cookery book](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220517-1.2.43). (1922, May 17). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
+
+The wanderer. (1932, April 24). [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320424-1.2.30). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+The wanderer. (1933, September 10). [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330910-1.2.27). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+Tregonning, K.G. (1967). [_The Singapore Cold Storage, 1903–1966_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078048)_._ Singapore: Cold Storage Holdings Ltd. (Call no.: RCLOS 664.02852 TRE)
+
+[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020625-1.2.42). (1902, June 25). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220505-1.2.73). (1922, May 5). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+
+[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250407-1.2.41). (1925, April 7). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
+
+[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19251009-1.2.98). (1925, October 9). _The Singapore Free Press and Mercantile Advertiser_, p. 16. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]: “The wanderer”. (1933, September 10).  [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330910-1.2.27). _The Straits Times_, p. 5.
+
+[^2]: “Mem” was a term of address used by employees of a colonial family for the lady of the house. It is a corruption of “Madam” and often used in conjunction with “Sahib” the Indian term of address for the man of the house – thus “mem” is a shortened form of “memsahib” commonly used amongst the British colonials in India.
+
+[^3]: [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19251009-1.2.98). (1925, October 9). _The Singapore Free Press_, p. 16; [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250407-1.2.41). (1925, April 7). _The Straits Times_, p. 8.
+
+[^4]: [Notes of the Day: Malay chutney](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390711-1.2.46). (1939, July 11). _The Straits Times_, p. 10
+
+[^5]: [The slump cookery book](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220517-1.2.43). (1922, May 17). _The Straits Times_, p. 8. (The National Library does not have a copy of this title).
+
+[^6]: [Europeans in the east](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19191022-1.2.45). (1919, October 22). _The Singapore Free Press and Mercantile Advertiser_, p. 12.
+
+[^7]: [Lighter dinner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200927-1.2.74). (1920, September 27). _The Straits Times_, p. 10.
+
+[^8]: For example her recipes for [tinned salmon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (p. 105) and [sardines](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (p. 110).
+
+[^9]: An advertisement of the Katz Brothers in _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000330-1.2.17.1)_ dated 30 Mar 1900 showed it offered gas stoves for sale.
+
+[^10]: Cold Storage opened in Kuala Lumpur in 1910 and in Singapore, by 1916, it was manufacturing ice. ([Leong-Salobir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765), (2011), p. 31)
+
+[^11]: [Leong-Salobir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765), (2011), p. 31.
+
+[^12]: However she does mention Messrs H. Bolter for good [French dried sausages](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (p. 105).
+
+[^13]: [Some new books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56). (1922, May 6). _The Singapore Free Press and Mercantile Advertiser_, p. 9.
+
+[^14]: The article “[Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3)” (26 May 1908) elaborates further on how new ideas, recipes and techniques can help the Hylam cook in the employ of colonial families reinvigorate the flavours and variety of dishes served in the home.
+
+[^15]: “Makan ada”. (1908, May 26). [Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3). The Singapore Free Press and Mercantile Advertiser, p. 1.
+
+[^16]: [Kinsey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525), (1929), preface.
+
+[^17]: [Growing popularity of Chop Suey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weeklysun19130301-1.2.43). (1913, March 1). _Weekly Sun_, p. 10.
+
+[^18]: [Some new books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56). (1922, May 6). _The Singapore Free Press and Mercantile Advertiser_, p. 9.
+
+[^19]: [_The Singapore Free Press and Mercantile Advertiser_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56)_,_ 6 May 1922, p. 9.
+
+[^20]: [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220505-1.2.73). (1922, May 5). _The Straits Times_, p. 10.
+
+[^21]: Bear Brand Unsweetened Swiss Milk advertising in the month of March 1930 in _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300303-1.2.2.1)_.
+
+[^22]: Unfortunately, the Library does not hold a copy of this.
 
 
 
-
-
-
+</div>
