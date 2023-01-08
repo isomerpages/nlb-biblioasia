@@ -3,7 +3,6 @@ title: "Oneness in Many: National Resilience in Singapore"
 permalink: /vol-7/issue-2/jul-2011/singapore-national-resilience-oneness/
 description: ""
 ---
-
 Vulnerable states, big or small, are largely successful because of resilience. While the debate continues as to what resilience is and what its constitutive elements are, what cannot be denied is that once a state is able to develop a special capacity to overcome innate challenges and make them part of its DNA and culture, its chances of all-round success and survival are much greater. This largely explains Singapore's ability to immunise itself against various internal and extemal challenges, and to leverage on its various strengths, manage its weaknesses and come out stronger following adversity. Unlike many other newly independent states, Singapore's approach to organising the state and its people included special efforts to ensure that national accommodation was achieved by leveraging upon its populace's diversities and imbuing a sense of 'oneness In many'. Through concerted efforts and socialisation, national resilience In Singapore is about developing an enduring capacity to cope with acute challenges and more importantly, to recover, bounce back and emerge even stronger than before.,
 
 #### **What is Resilience?**
@@ -49,7 +48,18 @@ Regardless of the fallout from a liberal immigration policy and where foreign ta
 
 #### **Resiliency and Singapore's Future**
 
-As Singapore matures as a nation and new challenges are identified, the concept of national resilience will become increasingly important in ensuing national security.16 While traditionally the government had assumed almost total responsibility for national security, with the launch of Total Defence and later, a national-resilience approach. a whole-of-society pillar has been added to the whole-of-government strategy. While the govemment can undertake the 'hardening' of critical infrastructures to ensure that key identifiable systems are protected from attacks. at the same time, by 'hardening the populace' — the 'soft anchor' of society. national resilience will be ensured. This will take a long time and every crisis successfully managed merely affirms the strengthening of national resilience as it signals that psychological, social and economic resilience has been tested and proves to be strong. The 'we can do it' aspect will be strengthened as will the 'we shall overcome' spirit. Still, national resilience, like nation building, will always be a work-in-progress. How the political elites galvanise the people will greatly impact the robustness of the society's resilience. Since independence, Singapore's national resilience has been strengthened and a sense of patriotism steadily imbued. The recognition that all are important stakeholders in this national enterprise. merely confirms that national resilience is successful in making the state that much stronger. If successfully undertaken, it would also be a powerful deterrent to anyone who may want to harm the Republic as the people's instincts to defend, self-sacrifice and recover from adversity will help to diffuse the threat of such attempts.
+As Singapore matures as a nation and new challenges are identified, the concept of national resilience will become increasingly important in ensuing national security.16 While traditionally the government had assumed almost total responsibility for national security, with the launch of Total Defence and later, a national-resilience approach. a whole-of-society pillar has been added to the whole-of-government strategy. While the govemment can undertake the 'hardening' of critical infrastructures to ensure that key identifiable systems are protected from attacks. at the same time, by 'hardening the populace' — the 'soft anchor' of society. national resilience will be ensured. This will take a long time and every crisis successfully managed merely affirms the strengthening of national resilience as it signals that psychological, social and economic resilience has been tested and proves to be strong. The 'we can do it' aspect will be strengthened as will the 'we shall overcome' spirit. Still, national resilience, like nation building, will always be a work-in-progress. How the political elites galvanise the people will greatly impact the robustness of the society's resilience. Since independence, Singapore's national resilience has been strengthened and a sense of patriotism steadily imbued. The recognition that all are important stakeholders in this national enterprise. merely confirms that national resilience is successful in making the state that much stronger. If successfully undertaken, it would also be a powerful deterrent to anyone who may want to harm the Republic as the people's instincts to defend, self-sacrifice and recover from adversity will 
+help to diffuse the threat of such attempts.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%207%20Issue%202/OnenessMany/Bilveer%20Singh_1.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Bilveeer Singh</b><br> Associate Professor<br>Department of Political Science<br>National University of Singapore</center></div>
+
+
+
+
 
 
 
