@@ -2,4 +2,5 @@ collections:
   july-2011:
     output: true
     order:
+      - "Oneness in Many: National Resilience in Singapore.md"
       - Director's Column.md
