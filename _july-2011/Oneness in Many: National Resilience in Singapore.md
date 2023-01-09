@@ -3,11 +3,17 @@ title: "Oneness in Many: National Resilience in Singapore"
 permalink: /vol-7/issue-2/jul-2011/singapore-national-resilience-oneness/
 description: ""
 ---
-Vulnerable states, big or small, are largely successful because of resilience. While the debate continues as to what resilience is and what its constitutive elements are, what cannot be denied is that once a state is able to develop a special capacity to overcome innate challenges and make them part of its DNA and culture, its chances of all-round success and survival are much greater. This largely explains Singapore's ability to immunise itself against various internal and extemal challenges, and to leverage on its various strengths, manage its weaknesses and come out stronger following adversity. Unlike many other newly independent states, Singapore's approach to organising the state and its people included special efforts to ensure that national accommodation was achieved by leveraging upon its populace's diversities and imbuing a sense of 'oneness In many'. Through concerted efforts and socialisation, national resilience In Singapore is about developing an enduring capacity to cope with acute challenges and more importantly, to recover, bounce back and emerge even stronger than before.,
+Vulnerable states, big or small, are largely successful because of resilience. While the debate continues as to what resilience is and what its constitutive elements are, what cannot be denied is that once a state is able to develop a special capacity to overcome innate challenges and make them part of its DNA and culture, its chances of all-round success and survival are much greater. This largely explains Singapore's ability to immunise itself against various internal and extemal challenges, and to leverage on its various strengths, manage its weaknesses and come out stronger following adversity. Unlike many other newly independent states, Singapore's approach to organising the state and its people included special efforts to ensure that national accommodation was achieved by leveraging upon its populace's diversities and imbuing a sense of 'oneness in many'. Through concerted efforts and socialisation, national resilience In Singapore is about developing an enduring capacity to cope with acute challenges and more importantly, to recover, bounce back and emerge even stronger than before.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/OnenessMany/Total%20Defence%201984.jpg">
+ <div style="background-color: white;">Posters from the 1984 Total Defence campaign. <i>The Singapore Armed Forces Collection. Courtesy of National Archives of Singapore.</i></div>
 
 #### **What is Resilience?**
 
-Even though the concept of resilience has been long associated with clinical science, its linkage with national serurity is a relatively new, a post-9/11 development.2 The rise in frequency and intensity of challenges, both natural and man-made, has compelled policy makers to think about how to prevent and preempt such disasters, and how best to protect societies and key infrastructures so that the state bounces back to its pre-crisis state quickly and resumes its functions in totality.3 The essence of resilience is to be prepared to respond to any threats that may eventuate. Resiliency is a multifaceted concept. It involves achieving a positive outcome in adversity, functioning effectively in adverse circumstances and recovering from a critical trauma.4 It Is about distributing risk to avoid total paralysis if a disaster——say, a terrorist threat——succeeds. It is also about absorbing natural and unnatural disturbances while preserving the functions, structures and identity of the system.5 It also encompasses the notion that while it is imperative to prevent an attack from taking place, should an attack occur, it is equally vital that the government and people continue to function, and bounce back following any tragedy.
+Even though the concept of resilience has been long associated with clinical science, its linkage with national serurity is a relatively new, a post-9/11 development.2 The rise in frequency and intensity of challenges, both natural and man-made, has compelled policy makers to think about how to prevent and preempt such disasters, and how best to protect societies and key infrastructures so that the state bounces back to its pre-crisis state quickly and resumes its functions in totality.3 The essence of resilience is to be prepared to respond to any threats that may eventuate. Resiliency is a multifaceted concept. It involves achieving a positive outcome in adversity, functioning effectively in adverse circumstances and recovering from a critical trauma.4 It Is about distributing risk to avoid total paralysis if a disaster—say, a terrorist threat—succeeds. It is also about absorbing natural and unnatural disturbances while preserving the functions, structures and identity of the system.5 It also encompasses the notion that while it is imperative to prevent an attack from taking place, should an attack occur, it is equally vital that the government and people continue to function, and bounce back following any tragedy.
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/OnenessMany/Fleeing%20Bukit%20Ho%20Swee.jpg">
+ <div style="background-color: white;">Fleeing the Bukit Ho Swee Fire on 25 May 1961. A family watch over their remaining belongings as the area is consumed by smoke. <i>Courtesy of Sng Chye Kay.</i></div>
 
 While experts continue to debate the definition of resilience, more critical is the agreement that much needs to be done to a tragedy happens, there is no paralysis, only a sense of unity and more importantly, a sense of purpose in regaining normalcy quickly. In short, resiliency is about developing a capacity and power to forestall disasters, be they natural or man made.
 
@@ -56,12 +62,3 @@ help to diffuse the threat of such attempts.
 <br/>
 <img src="/images/Vol%207%20Issue%202/OnenessMany/Bilveer%20Singh_1.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Bilveeer Singh</b><br> Associate Professor<br>Department of Political Science<br>National University of Singapore</center></div>
-
-
-
-
-
-
-
-
-
