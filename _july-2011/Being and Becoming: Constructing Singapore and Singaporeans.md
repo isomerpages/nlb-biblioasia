@@ -70,10 +70,3 @@ Singaporeans, especially the younger generation, have clearly indicated an inter
 <br/>
 <img src="/images/Vol%207%20Issue%202/BeingBecoming/Wen%20Ling(2).jpg" style="width: 100px; height: 100px;"/>
 <center><b>Chan Wen Ling</b><br>Associate Research Fellow<br>Centre of Excellence for National Security<br>S. Rajaratnam School of International Studies<br>Studies Nanyang Technological University.</center></div>
-	
-	
-
-
-
-
-
