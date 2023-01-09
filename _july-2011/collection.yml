@@ -2,5 +2,6 @@ collections:
   july-2011:
     output: true
     order:
+      - "Being and Becoming: Constructing Singapore and Singaporeans.md"
       - "Oneness in Many: National Resilience in Singapore.md"
       - Director's Column.md
