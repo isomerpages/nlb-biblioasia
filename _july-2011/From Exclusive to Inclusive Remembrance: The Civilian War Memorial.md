@@ -5,6 +5,9 @@ description: ""
 ---
 The Civilian War Memorial is a monument that commemorates those who lost their lives during the Japanese Occupation of Singapore (February 1942—September 1945). Situated in a park near the busy unction of Bras Basah Road and Beach Road in downtown Singapore, four 64.7 metres-tall obelisks were erected in the middle of a shallow pool. Their merging at their bases symbolises the collective suffering of four ethnic groups in Singapore — the Chinese, Malays, Indians and Eurasians during the Japanese Occupation.
 
+<img style="width:70%;" src="/images/Vol%207%20Issue%202/UrbanRiver/1A512514.jpg">
+ <div style="background-color: white;">Swan and Mclaren's original design of the Clivilian War Memorial was submitted by the architecture firm as an entry for the design competition for the memorial in April April 1963. <i>Sin Chew Jit Poh,</i> 31 May 1963. <i>Singapore Press Holdings. All rights reserved. Sin Chew Jit Poh, Singapore 1963.</i></div>
+
 Its is interesting to note that the Civilian War Memorial that stands today is very different from what would have resulted if the originally proposed design had been adhered to. The campaign for a war memorial was initiated by the Chinese community and intended to commemorate specifically the victims of the Sook Ching massacre, who had been predominantly Chinese.
 
 However, when the government took over the campaign, the memorial was "moulded to the cause of nation building".1 It was reshaped into one that enshines "a national ideology of Singapore being united through having undergone [a] common suffering.2
@@ -15,6 +18,9 @@ However, when the government took over the campaign, the memorial was "moulded t
 Sook Ching was a two-week mass screening operation carried out by the Japanese military on 18 February 1942— three days after the fall of Singapore - to purge anti-Japanese elements within the Chinese community. In order to Identify who these anti-Japanese Chinese might be, the military summoned all Chinese males between the age of 18 and 50 to designated screening centres for inspection. Those who passed the inspection were issued "good citizen" cards, while those who failed were detained, sent to remote locations across Singapore, and executed.3
 
 The Japanese had various methods for executing the Chinese suspected of being anti-Japanese. The first method was carried out off the shores of Tanjong Pagar, Punggol Beach and Tanah Merah Besar Beach. The Japanese would first send the suspects out Into the sea in boats. The suspects, with their hands and legs tied together, were then thrown overboard before being machine-gunned to death.4
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Mass%20Screening%20Center%20TP.jpg">
+ <div style="background-color: white;">Mass-screening center at Tanjong Pagar Police Station. It was reported that people detained in this center were executed near Blakang Mati Island (present-day Sentosa).<i> Courtesy of National Archives of Singapore.</i></div>
 
 The second method was carried out in remote areas of Singapore such as Bedok and Siglap. The Japanese would first force the suspects, herded with ropes, to march deep into the jungle before ordering them to dig large ditches. They were then instructed to line up at the edges of these ditches, and were then machine-gunned.5
 
@@ -30,6 +36,9 @@ Yap Van Hong, another Sook Ching survivor of a Changi beach massacre, narrated h
 
 The total number of Chinese killed during the Sook Ching operation varies considerably according to different reports. The Japanese put the figure at about 5,000, while the Chinese estimated it to be around 100,000. But it has been widely assumed that the number of victims was between 25,000 and 50,000.9 Furthermore, after the operation, the Chinese community had to raise M$50 million as "tribute money" to pay the Japanese so as to prove their loyalty.10
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Cheque%20Yamashita.jpg">
+ <div style="background-color: white;">The cheque that was given to General Yamashita. Raising the $50 million was a difficult task for the CCA. In the end it was only able to raise $25 million. The rest was loaned to the association by the Yokohama Special Bank. <i>Courtesy National Archives of Singapore.</i></div>
+	
 After the Japanese Occupation, the Chinese community tried to seek closure. Organisations such as the Singapore Chinese Massacred Appeal Committee as well as Tan Kah Kee's fund-raising committees, namely the China Relief Fund Committee of Singapore and the South Seas China Relief Fund Union, were among the first to attempt to determine the number of Chinese killed during the Sook Ching operation as part of the effort to press the Japanese government for monetary compensation.11 They also proposed that a war memorial for the Sook Ching victims be constructed. Despite having reported that they had secured a site for the memorial, the plan failed to materialise. A widely-cited reason for the lack of progress was the inability to locate the massacre sites In order to rebury the dead at the memortal site.12
 
 The failure to formally set up a memorial site, however, did not stop the relatives of Sook Ching victims from carrying out their own mourning rituals. Driven by the anxiety to appease the souls of their loved ones who had died violently and without a proper burial, families set up ancestral tablets for the victims in their homes so that they could tender the proper offerings to their dead. This was the least the families could do to prevent the dead from becoming "hungry ghosts."13
@@ -40,7 +49,7 @@ Chinese academia In Singapore also devised their own way of commemorating the So
 
 In February 1962, a Sook Ching mass grave was unearthed by sand-washing workers in Siglap.15 This discovery reawakened the painful collective memories of the Chinese in Singapore and triggered a strong reaction from the community.16
 
-Among the first to respond was the Singapore Chinese Chamber of Commerce (SCCC). It dispatched a team to inspect the Siglap site and to locate other mass graves. When the team returned with further discoveries in Bedok, Bukit Tilmah, Changi, East Coast and Yio Chu Kang, the SCCC set up an action committee on 1 March 1963 to manage the exhumation of the mass graves. The committee also initiated a campaign to erect a memorial. This was to provide a final resting place for the Sook Ching victims and a site for their families to carry out mourning rituals.17 To "avenge" the Sook Ching victims, the SCCC demanded that the Japanese government compensate the Chinese community for the atrocities committed against them, a gesture that the SCCC referred to as paying a "blood debt."18
+Among the first to respond was the Singapore Chinese Chamber of Commerce (SCCC). It dispatched a team to inspect the Siglap site and to locate other mass graves. When the team returned with further discoveries in Bedok, Bukit Timah, Changi, East Coast and Yio Chu Kang, the SCCC set up an action committee on 1 March 1963 to manage the exhumation of the mass graves. The committee also initiated a campaign to erect a memorial. This was to provide a final resting place for the Sook Ching victims and a site for their families to carry out mourning rituals.17 To "avenge" the Sook Ching victims, the SCCC demanded that the Japanese government compensate the Chinese community for the atrocities committed against them, a gesture that the SCCC referred to as paying a "blood debt."18
 
 The SCCC's demands, however, were refused by the Japanese government. Through its consulate in Singapore, the Japanese government issued a statement that compensation claims had already been settled in the ratification of the San Francisco Treaty in 1951. They added that furthermore, they had no reason to address the matter as the Singapore government had not lodged any such demand.19
 
@@ -62,7 +71,11 @@ The government also played a part in the design of the memoriai. After the site 
 
 Besides overseeing the building process, the government also worked with the Japanese government to resolve the matter of compensation. An agreement was reached on 25 October 1966; the Japanese government agreed to pay a total of M$50 million to the Singapore government.31 By then, the SCCC and the government had completed the exhumation of the mass graves. The remains that were exhumed from more than 50 mass graves were stored in 606 urns."32 Before they were buried on 1 November 1966, the public was invited to pay their last respects from 28 October to 31 October 1966.33
 
-On 1 November 1966. a ceremony was held to observe the interment of the 606 urns. The urns were buried on both sides of the memorial podium.34 At the end of the re-burial, Soon Peng Yam, then president of SCCC, laid a wreath at the memorial "on behalf of the Singapore people" before leading public mourners, other members of the SCCC and the action committee for the war memorial campaign to observe a three-minute silence.35 During the ceremony, an official from the SCCC extended an invitation to all religious representatives for the unveiling ceremony of the memorial the following year.36
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Black%20Urn%20Inscriptions.jpg">
+ <div style="background-color: white;">Under a black urn with lion heads in relief, the words inscribed on the white marble pedestal are "In deep and lasting sorrow this memorial is dedicated in memory of those or our civilians who were killed between February 15, 1942 and August 18, 1945 when the Japanese Armed Forces occupied Singapore." Translations in Malay and Tamil flank it on the right and left respectively. <i>Herwin M. Nasir for National Library Board Singapore. All rights reserved.</i></div>
+
+On 1 November 1966, a ceremony was held to observe the interment of the 606 urns. The urns were buried on both sides of the memorial podium.34 At the end of the re-burial, Soon Peng Yam, then president of SCCC, laid a wreath at the memorial "on behalf of the Singapore people" before leading public mourners, other members of the SCCC and the action committee for the war memorial campaign to observe a three-minute silence.35 During the ceremony, an official from the SCCC extended an invitation to all religious representatives for the unveiling ceremony of the memorial the following year.36
 
 The Civilian War Memorial was unveiled on 15 February 1967, 25 years after the fall of Singapore. The unveiling ceremony was attended by thousands of mourners from the public as well as the leaders of the Inter-Religious Council (IRO), made up of representatives from the Islamic, Buddhist, Christian, Hindu, Jewish, Sikh and Zoroastrian faiths.37
 
@@ -83,13 +96,3 @@ During the service, the SCCC's president lays a wreath at the foot of the memori
 <br/>
 <img src="/images/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
 <center><b>Lim Tin Seng</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
-
-
-
-
-
-
-
-
-
-
