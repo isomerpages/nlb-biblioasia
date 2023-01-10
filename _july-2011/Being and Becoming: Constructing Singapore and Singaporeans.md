@@ -154,7 +154,3 @@ Yeoh, B.S.A., & Huang, S. (2004). “Foreign talent” in our midst: New challen
 [^15]: Immigrants to France are expected to assimilate French national identity and relegate all other identities to the private sphere.
 
 [^16]: Joint statement by SM Goh Chok Tong and MM Lee Kuan Yew (2011, May 14). _Today_.
-
-
-
-
