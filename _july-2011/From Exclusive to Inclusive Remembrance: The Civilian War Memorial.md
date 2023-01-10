@@ -100,8 +100,115 @@ On 15 February every year, a commemorative service held at the site illustrates 
 
 During the service, the SCCC's president lays a wreath at the foot of the memorial before leading the attendees in prayer and in observing a minute of silence. The memorial has shed its original motivations as an exclusive emblem of remembrance to now become a monumental reminder of the government's vision of a multiethnic society.
 
+The author wishes to acknowledge the contributions of Dr Ernest C.T. Chew, Visiting Professorial Fellow, Institute Southeast Asian Studies, in reviewing this article.
+
 <br>
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
 <center><b>Lim Tin Seng</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+
+#### **REFERENCES**
+
+Akashi, Y. (1970, September). Japanese policy towards the Malayan Chinese, 1941–1945. _Journal of Southeast Asian Studies, 1_ (2), 61–89. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Blackburn, K. (2000, December). The collective memory of the Sook Ching massacre and the creation of the Civilian War Memorial of Singapore. _Journal of the Malaysian Branch of the Royal Asiatic Society, 73_ (2) (279), 71–90. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Chew, D., & Lim, I. (Eds.). (1992). [_Sook Ching_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605)_._ Singapore: Oral History Department. (Call no.: RSING 959.57023 SOO)
+
+Fusamaya, T. (1997). [_Memoir of Takao Fusamaya: A Japanese soldier in Malaya & Sumatra_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8799555)_._ Bangi: Penerbit Universiti Kebangsaan Malaysia. (Call no.: RSING 940.5148152 FUS)
+
+Hsu, T. (1955). Introduction of the record of Malayan Chinese victims during the Japanese Occupation. [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489)_, 11_ (1), 1–220.
+
+Knauer, L.M., & Walkowitz, D.J. (Eds.). (2004). Introduction (pp. 1–17). In _[Memory and the impact of political transformation in public space](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12428302)_. Durham, N.C.: Duke University Press. (Call no.: RART 720.103 MEM)
+
+Lim, P. (2000). War and ambivalence, monuments and memorials in Johor. In P.P.H. Lim & D. Wong (Eds.), [_War and memory in Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099)_._ Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.503 WAR)
+
+Luo, Y.H. (Ed.). (1986). _[Singapore Chinese Chamber of Commerce & Industry 80th anniversary souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006)._ Singapore: Chen Qi you. (Call no.: Chinese RSING 380.10655957 SIN)
+
+Modder, R. (2004). [_The Singapore Chinese Massacre, 18 February to 4 March 1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12410495)_._ Singapore: Horizon Books. (Call no.: RSING 940.5405095957 MOD)
+
+Ward, A.H.C. et al (Eds.). (1994). [_The memoirs of Tan Kah-Kee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029997). Singapore: Singapore University Press. (Call no.: RSING 338.04092 TAN)
+
+Zhang, L. (Ed.). (2004). _[Survey of the Chinese victims in Malaya and Singapore under Japanese occupation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12329733)_. Nanjing: Jiangsu ren min chu ban she. (Call no.: Chinese RSING 940.5425 SUR)
+
+#### **NOTES**
+
+[^1]: Blackburn, Kevin. (December 2000). The Collective Memory of the Sook Ching Massacre and the Creation of the Civilian War Memorial of Singapore. _Journal of the Malaysian Branch of the Royal Asiatic Society_, Vol. 73, No. 279, p. 73.
+
+[^2]: Blackburn, Dec 2000, p. 88.
+
+[^3]: Fusayama, Takao. (1997). _[Memoir of Takao Fusayama: A Japanese soldier in Malaya & Sumatra](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8799555)_. Bangi, Selangor: Penerbit Universiti Kebangsaan Malaysia, p. 101.
+
+[^4]: PRO: WO 235/1004, Defendants : Nishimura Takoma, Kawamura Saburo, Oishi Masayuki, Yokota Yoshitaka, Jyo Tomotatsu, Onishi Satoru, Hisahatsu Haruji.
+
+[^5]: PRO: WO 235/1004.
+
+[^6]: PRO: WO 235/1004.
+
+[^7]: Chew, D. & Lim, I. (Eds.). (1992). _[Sook Ching](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605)_. Singapore: Oral History Department, pp. 17—18.
+
+[^8]: [Chew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605), pp. 14—15.
+
+[^9]: Blackburn, Dec 2000, p. 75.
+
+[^10]: Blackburn, Dec 2000, p. 74.
+
+[^11]: Ward, A.H.C. et al (Eds.). (1994). [_The memoirs of Tan Kah-Kee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029997). Singapore: Singapore University Press, pp. 444—446.
+
+[^12]: Blackburn, Dec 2000, p. 77.
+
+[^13]: [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099), 2000, pp. 144—146.
+
+[^14]: See Hsu Yun-Tsiao. (June 1955).” Introduction of the record of Malayan Chinese victims during the Japanese Occupation,” _[Journal of the South Seas Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489), vol. 11. Part 1, pp. 1–220.
+
+[^15]: [Mass war graves found in Siglap’s ‘valley of death’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620224-1.2.20). (1962, February 24). _The Straits Times_, p. 4.
+
+[^16]: Blackburn, Dec 2000, p. 82.
+
+[^17]: [War massacre of civilians: Compensation demand](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620301-1.2.100). (1962, March 1). _The Straits Times_, p. 18.
+
+[^18]: Sin Chew Jit Poh, 1 Mar 1962.
+
+[^19]: Blackburn, Dec 2000, p. 82.
+
+[^20]: Sin Chew Jit Poh, 3 Mar 1962.
+
+[^21]: Sin Chew Jit Poh, 3 Mar 1962.
+
+[^22]: Sin Chew Jit Poh, 3 Mar 1962.
+
+[^23]: Blackburn, Dec 2000, p. 84.
+
+[^24]: Government policy on “Mass Graves” of People Massacred by Japanese. Singapore Legislative Assembly _[Debates: Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739)_. 3rd session of the first legislative assembly, part IV, Vol. 18, 14 March 1962, pp. 12–14.
+
+[^25]: Sin Chew Jit Poh, 14 Mar 1963.
+
+[^26]: Sin Chew Jit Poh, 6 Apr 1963.
+
+[^27]: Nanyang Siang Pau, 29 Mar 1963.
+
+[^28]: English version of a _[Text Speech by the Prime Minister, Mr Lee Kuan Yew, at a Meeting of the Memorial Fund Committee at the Victoria Theatre on Sunday, 21 April 1963 at 10 a.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/782e21af-115d-11e3-83d5-0050568939ad)_, in Prime Minister’s speeches, interviews, statements, etc., Singapore: Prime Minister’s Office, 1959–1980.
+
+[^29]: Sin Chew Jit Poh, 31 May 1963.
+
+[^30]: Luo, Yong Heng (Ed.). (1986). _[Singapore Chinese Chamber of Commerce & Industry 80th anniversary souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006)_. Singapore: Chen qi you, 339.
+
+[^31]: [Shiina flies in for a two day good-will visit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661025-1.2.25). (1966, October 25). _The Straits Times,_ p. 4.
+
+[^32]: Blackburn, Dec 2000, p. 81.
+
+[^33]: [Memorial re-burial of wartime victims of Japs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661024-1.2.72). (1966, October 24). _The Straits Times_, p. 9.
+
+[^34]: Lim, B.T. (1966, November 2). [Remains of massacre victims laid to rest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661102-1.2.74). _The Straits Times_, p. 11.
+
+[^35]: [Lim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661102-1.2.74), 2 Nov 1966, p. 11.
+
+[^36]: [Lim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661102-1.2.74), 2 Nov 1966, p. 11.
+
+[^37]: [War memorial is unveiled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670216-1.2.90). (1967, February 16). _The Straits Times_, p. 17.
+
+[^38]: Prime Minister’s [Speech at the _Unveiling Ceremony of Memorial to Civilian Victims of Japanese Occupation on 15 February 1967_](https://www.nas.gov.sg/archivesonline/speeches/record-details/74356a9f-115d-11e3-83d5-0050568939ad), in Prime Minister’s Speeches, Interviews, Statements, Etc.. Singapore: Prime Minister’s Office, 1959—1980.
+
+
+
