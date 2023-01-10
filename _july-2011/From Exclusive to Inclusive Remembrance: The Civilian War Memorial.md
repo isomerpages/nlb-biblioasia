@@ -58,6 +58,36 @@ On 9 April 1963, the SCCC added representatives from other ethnic groups to its 
 
 To ensure that the memorial would materialise, the government agreed to cover half of its construction cost, which was estimated to be about M$500,000. The government also facilitated the SCCC's raising of the other half of the costs by allowing them to solicit public donations.27 The Prime Minister, Mr Lee Kuan Yew, even personally supported the SCCC's fund-raising activities by attending one of Its donation drives on 21 April 1963, where he made a donation of M$100. He also took the occasion to remind the people that the process of mourning the victims of the Japanese Occupation was also about remembering the hardship that the people of Singapore had endured. He said that the government "could have built this memorial without public contributions", but decided "that the memorial will have more meaning and give more satisfaction to the thousands of people who have been so deeply hurt during the Japanese occupation if the people themselves contribute towards the memorlal".28 Lee would repeat this message in his speech at the "Breaking the Sod" ceremony for the memorial on 15 June 1963.
 
+The government also played a part in the design of the memoriai. After the site for the proposed memorial was announced, the architecture firm Swan and McClaren was commissioned to design the memorial. The design that was unveiled on 31 May 1963 featured two inverse arches rising to a point with a total of twelve water fountains at the front. It did not contain any of the multi-ethnic characteristics that we see In today's memorlal.28 In September 1965, the government requested changes to the design. Swan and McClaren was again commissioned to produce a new design.30 This resulted in the memorial that we see today.
+
+Besides overseeing the building process, the government also worked with the Japanese government to resolve the matter of compensation. An agreement was reached on 25 October 1966; the Japanese government agreed to pay a total of M$50 million to the Singapore government.31 By then, the SCCC and the government had completed the exhumation of the mass graves. The remains that were exhumed from more than 50 mass graves were stored in 606 urns."32 Before they were buried on 1 November 1966, the public was invited to pay their last respects from 28 October to 31 October 1966.33
+
+On 1 November 1966. a ceremony was held to observe the interment of the 606 urns. The urns were buried on both sides of the memorial podium.34 At the end of the re-burial, Soon Peng Yam, then president of SCCC, laid a wreath at the memorial "on behalf of the Singapore people" before leading public mourners, other members of the SCCC and the action committee for the war memorial campaign to observe a three-minute silence.35 During the ceremony, an official from the SCCC extended an invitation to all religious representatives for the unveiling ceremony of the memorial the following year.36
+
+The Civilian War Memorial was unveiled on 15 February 1967, 25 years after the fall of Singapore. The unveiling ceremony was attended by thousands of mourners from the public as well as the leaders of the Inter-Religious Council (IRO), made up of representatives from the Islamic, Buddhist, Christian, Hindu, Jewish, Sikh and Zoroastrian faiths.37
+
+During the ceremony, Lee Kuan Yew, then Prime Minister of Singapore, unveiled a plaque and laid the first wreath at the foot of memorial, before joining the guests and the crowd in a three-minute silence. He then highlighted the symbolism of the memorial in his speech:
+
+“This piece of concrete commemorates an experience which, in spite of its horrors, served as a catalyst in building a nation out of the young and unestablished community of diverse immigrants. We suffered together. It told us that we share a common destiny. And it is through sharing such common experiences that the feeling of living and being one community is established.”38
+ 
+#### **Conclusion**
+
+The government reshaped the Civilian War Memorial from one that was intended to commemorate the Sook Ching victims and the Chinese community to a memorial that honoured all the victims of the atrocities suffered during the Japanese Occupation, regardless of ethnicity.
+
+On 15 February every year, a commemorative service held at the site illustrates what the Civilian War Memorial now symbolises. The service is led by members of the government and SCCC (later renamed Singapore Chinese Chamber of Commerce and Industry). It is also attended by members of the public and representatives from religious groups, business and clan associations, and schools. Former prisoners of war from Britain, New Zealand and Australia, and also veterans of the battles of Singapore and Malaya are also frequently present.
+
+During the service, the SCCC's president lays a wreath at the foot of the memorial before leading the attendees in prayer and in observing a minute of silence. The memorial has shed its original motivations as an exclusive emblem of remembrance to now become a monumental reminder of the government's vision of a multiethnic society.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Lim_Tin_Seng.png" style="width: 100px; height: 100px;"/>
+<center><b>Lim Tin Seng</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+
+
+
+
+
 
 
 
