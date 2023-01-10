@@ -5,8 +5,8 @@ description: ""
 ---
 The Civilian War Memorial is a monument that commemorates those who lost their lives during the Japanese Occupation of Singapore (February 1942—September 1945). Situated in a park near the busy junction of Bras Basah Road and Beach Road in downtown Singapore, four 64.7 metres-tall obelisks were erected in the middle of a shallow pool. Their merging at their bases symbolises the collective suffering of four ethnic groups in Singapore — the Chinese, Malays, Indians and Eurasians during the Japanese Occupation.
 
-<img style="width:70%;" src="/images/Vol%207%20Issue%202/UrbanRiver/1A512514.jpg">
- <div style="background-color: white;">Swan and Mclaren's original design of the Clivilian War Memorial was submitted by the architecture firm as an entry for the design competition for the memorial in April April 1963. <i>Sin Chew Jit Poh,</i> 31 May 1963. <i>Singapore Press Holdings. All rights reserved. Sin Chew Jit Poh, Singapore 1963.</i></div>
+<img style="width:70%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/1A512514.jpg">
+<div style="background-color: white;">Swan and Mclaren's original design of the Clivilian War Memorial was submitted by the architecture firm as an entry for the design competition for the memorial in April April 1963. <i>Sin Chew Jit Poh,</i> 31 May 1963. <i>Singapore Press Holdings. All rights reserved. Sin Chew Jit Poh, Singapore 1963.</i></div>
 
 Its is interesting to note that the Civilian War Memorial that stands today is very different from what would have resulted if the originally proposed design had been adhered to. The campaign for a war memorial was initiated by the Chinese community and intended to commemorate specifically the victims of the Sook Ching massacre, who had been predominantly Chinese.
 
