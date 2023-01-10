@@ -31,6 +31,19 @@ The status of High Street as the retail centre of goods and services was similar
 
 Today, High Street has become a 100-metre long road. It is a relatively quiet and empty stretch of concrete and mortar, devoid of the street life as the British had envisioned. There is little activity on the street now, a stark contrast to its heyday in the early and mid-1900s. Ultimately, the vitality of High Street as a shopping destination fell as a result of the decision to depopulate the city centre into new towns, and the demarcation of Orchard Road as the high-end shopping district.
 
+#### **Chinatown**
+
+"Chinatown" is a collective term used to describe an area located in the southern part of Singapore. This area is bounded north of Cecil Street, west of Pickering Road and Church Street, east of Maxwell Road and Kreta Ayer Road, and south of New Bridge Road. Sir Stamford Raffles had planned for the Chinese communities to congregate in this enclave, and it constituted one of the many planned sites that he drew up in his town plan. Within this area lie several streets that once housed much of the Chinese population in Singapore.
+
+While each street has its own unique character, what binds them together is the fact that these streets once collectively possessed an active and vi brant street life. There was a large density of people living and working within this area; as Kaye indicated, "the average population density \[of Chinatown\] in 1947 was 230,000, or over a quarter of a million persons, per square mile". He observed that a street has "a considerable amount of social intercourse on the road and pavements of the streets themselves, such as marketing, gossiping, children playing, etc" (Kaye, 1953, pp. 6—7), and the streets of Chinatown, particularly Upper Nanking Street (his object of study) was no exception. Like High Street, the decline in the vitality of street life in Chinatown was a consequence of the resettlement policy, which effectively shifted out the bulk of the residents necessary for sustaining that level of street vitality.
+
+This lack of permanent dwellers is the primary factor in accounting for the loss of street life in Chinatown. The inhabitants of Chinatown used to live in two and three storey houses, and such structures make up the bulk of buildings in the area.2 These old shophouses were where the inhabitants lived, worked and played. These three elements were interlinked and interdependent. Depopulation effectively removed the "live" element, which is the most important as it is from this that the other two are derived, and on which they are dependent. The removal of the "live" factor impacted this delicate "ecological" system. The so-called suburbanisation of the populace meant the lack of a critical mass required for the existence of street life in Chinatown.
+
+The resettling of street hawkers had a similar impact. As Chua states, "\[c\]anopied hawkers effectively pedestrianised Chinatown's streets until 1983 when the hawkers were resettled by the Ministry of the Environmenr (1989, p. 19). Citing issues of orderliness and hygiene, the resettlement of the hawkers to "hawker centres" essentially removed the final traces of street life that were remaining in Chinatown. People had one less reason to go there; those who had done so for the food no longer came, further reducing the population density of the place, which in turn impacted street vitality. With the removal of the "live" element represented by its residents, street life in Chinatown was effectively decimated, reduced to a shadow of its former self.
+
+
+
+
 
 
 
