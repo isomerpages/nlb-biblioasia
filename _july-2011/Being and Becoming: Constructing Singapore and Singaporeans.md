@@ -125,7 +125,7 @@ Yeoh, B.S.A., & Huang, S. (2004). “Foreign talent” in our midst: New challen
 
 [^1]: Shahanaaz, H. (2011, May 3). S’poreans claim influx of foreigners hampering their livelihood. _The Star._
 
-[^2]: Goh, C.T. (1997, August 24). National Day rally speech 1997 – global city, best home. Retrieved from [http://www.moe.gov.sg/media/speeches/1997/240897.htm]
+[^2]: Goh, C.T. (1997, August 24). National Day rally speech 1997 – global city, best home. Retrieved from http://www.moe.gov.sg/media/speeches/1997/240897.htm
 
 [^3]: According to the Singapore 21 report, “The Singaporean of the 21st century is a cosmopolitan Singaporean, one who is familiar with global trends and lifestyles and feels comfortable working and living in Singapore as well as overseas”, hence Singaporeans need to be “world ready”, with the ability to “plug-and-play with confidence in the global economy”.
 
