@@ -77,8 +77,84 @@ The notion of national identity is ever fluid, as constructed myths of imagined 
 
 Singaporeans, especially the younger generation, have clearly indicated an interest in doing more than sitting at the sidelines as decisions on Singapore's future are made. Can Singaporeans do without the need for ethnicity indication in identity cards, can they do away with quota systems in HDB blocks and not gravitate towards ethnic enclaves, can they accept direction for Singapore. generation, have clearly indicated an interest in doing more than sitting at the sidelines as decisions on Singapore's future are made. Can Singaporeans do without the need for ethnicity indication in identity cards, can they do away with quota systems in HDB blocks and not gravitate towards ethnic enclaves, can they accept the irrelevance of minority representation in GRCs, and can they appreciate the freedom to learn beyond one's designated mother tongue? Perhaps now is the right time to put some thought into a sustainable and feasible direction for Singapore.
 
+The author is grateful to Dr Norman Vasu, Assistant Professor and Deputy Head of the Centre of Excellence for National Security S. Rajaratnam School of International Studies, for reviewing the paper on his otherwise perfect holiday.
+
+
 <br>
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%207%20Issue%202/BeingBecoming/Wen%20Ling(2).jpg" style="width: 100px; height: 100px;"/>
 <center><b>Chan Wen Ling</b><br>Associate Research Fellow<br>Centre of Excellence for National Security<br>S. Rajaratnam School of International Studies<br>Studies Nanyang Technological University.</center></div>
+
+#### **REFERENCES**
+
+
+Beck, U. (2006). _The cosmopolitan vision._ Cambridge: Polity Press.
+
+Chong, T. (2010). Fluid nation: The perpetual “renovation” of nation and national identities in Singapore. In T. Chong (Ed.),  [_Management of success: Singapore revisited_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13688096) (pp. 504–520). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
+
+Chong, T. (Ed.). (2010). Introduction: The role of success in Singapore’s national identity. In T. Chong Eed.),  [_Management of success: Singapore revisited_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13688096) (pp. 1–18). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
+
+Chua, B.H, (1995). [_Culture, multiracialism and national identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7404900). (Department of Sociology working papers, no. 125). Singapore: National University of Singapore. (Call no.: RSING 959.57 CHU)
+
+Kluver, R., & Weber, I. (2003, October). Patriotism and the limits of globalization: Renegotiating citizenship in Singapore. _Journal of Communication Inquiry, 27_ (4), 371–388.
+
+Koh, A. (2003, October). Global flows of foreign talent: Identity anxieties in Singapore’s ethnoscape. _Sojourn, 18_ (2), 230–256. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Kong, L. (1999, June). Globalisation and Singaporean transmigration: Re-imagining and negotiating national identity. _Political Geography,_ _18_ (5), 563–589.
+
+Low, L. (2002). Globalisation and the political economy of Singapore’s policy on foreign talent and high skills. _Journal of Education and Work, 15_ (4), 409–425. Retrieved from Taylor & Francis online website.
+
+Quah, J.S.T. (2000). Globalization and Singapore’s search for nationhood. In L. Suryadinata (Ed.), [_Nationalism and globalization: East and West_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9847136) (pp. 71–101). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 320.54 NAT)
+
+Tan, E.K.B. (2003, September). Re-engaging Chineseness: Political, economic and cultural imperatives of nation-building in Singapore. _The China Quarterly,_ (175), 751–774. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Tan, J. (2008). Pulling together amid globalization: National education in Singapore schools. In P.D. Hershock, M. Mason & J.N. Hawkins (Eds.), _Changing education: Leadership innovation and development in a globalizing Asia Pacific_ (pp. 183–197). Hong Kong: Comparative Education Research Centre. (Not available in NLB holdings)
+
+Tennesson, S., & Antlov, H. (Eds.). (1996). Asia in theories of nationalism and national identity. In [_Asian forms of the nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7908263) (pp. 1–39). Surrey: Curzon Press. (Call no.: RSING 322.42095 ASI)
+
+Velayutham, S. (2007). [_Responding to globalization: Nation, culture and identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12924605)_._ Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.80095957 VEL)
+
+Yap, M.T. (1999, April). The Singapore state’s response to migration. _Sojourn, 14_ (1), 198–211. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yeoh, B.S.A. (2004, November). Cosmopolitan and its exclusions in Singapore. _Urban Studies, 41_ (12), 2431–2445. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yeoh, B.S.A., & Huang, S. (2004). “Foreign talent” in our midst: New challenges to sense of community and ethnic relations in Singapore. In Lai Ah Eng (Ed.), [_Beyond rituals and riots: Ethnic pluralism and social cohesion in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12229788) (pp. 316–338). Singapore: Eastern Universities Press. (Call no.: RSING 305.80095957 BEY)
+
+#### **NOTES**
+
+[^1]: Shahanaaz, H. (2011, May 3). S’poreans claim influx of foreigners hampering their livelihood. _The Star._
+
+[^2]: Goh, C.T. (1997, August 24). National Day rally speech 1997 – global city, best home. Retrieved from [http://www.moe.gov.sg/media/speeches/1997/240897.htm](http://www.moe.gov.sg/media/speeches/1997/240897.htm)
+
+[^3]: According to the Singapore 21 report, “The Singaporean of the 21st century is a cosmopolitan Singaporean, one who is familiar with global trends and lifestyles and feels comfortable working and living in Singapore as well as overseas”, hence Singaporeans need to be “world ready”, with the ability to “plug-and-play with confidence in the global economy”.
+
+[^4]: Singapore is ranked the most competitive country in the world and also considered by foreign talent to be Asia’s best country to work in, according to the “IMD World Competitiveness Yearbook 2010”; the “Quality of Living Worldwide City Rankings, Mercer Survey, June 2010” ranks Singapore as the best place in Asia to live, work and play. For other related rankings, refer to the Singapore Economic Development Board website.
+
+[^5]: These “introverted forms of nationalism which oppose the ‘invasion’ of the global world by turning inwards” see those involved develop a “conscious resistance to the cosmopolization of their life-worlds, to globalization and globalisers who are perceived as threatening the local form of life of the ‘natives’” (Beck, 2006, p. 4)
+
+[^6]: Putnam shared that social capital is “the value that arises when individuals learn to trust one another, make credible commitments, and engage in cooperative activities, such as giving to charity, joining civic and political groups”. His research had found that immigration and ethnic diversity had the impact of reducing social capital. However, Putnam argues that this problem can be fixed with ‘bridging social capital’ – basically the idea of fostering social capital between different groups. Li, X., & Putnam, R. (2011, March 31). [S’pore can’t afford to stop building social capital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110331-1.2.38.4.1). _The Straits Times,_ p. 31.  
+  
+[^7]: A strong advocate of a non-ethnic concept of Singaporean, Singapore, PAP co-founder S. Rajaratnam cautioned that with the country’s search for roots drifting towards a search to strengthen Chinese, Indian, Malay and Eurasian identity, “Singaporean too could go the way of the many now disintegrating nations if the legitimate search for roots is not directed towards the strengthening of our proclaimed goal of a Singaporean Singapore”. [Whatever happened to Singaporean Singapore?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900313-1.2.41.3) (1990, March 3). _The Straits Times,_ p. 28.
+
+[^8]: The shared values include: (1) Nation before community and society above self; (2) Family as the basic unit of society; (3) Community support and respect for the individual; (4) Consensus, not conflict; and (5) Racial and religious harmony.
+
+[^9]: In the 1997 National Day Rally Speech, then Prime Minister Goh Chok Tong noted that “\[f\] or cosmopolitan Singapore to work, however, it must be anchored by the values of our three main communities – Malay, Indian and Chinese. Otherwise it will drift”.
+
+[^10]: [Don’t base national identity on speaking singlish](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070923-1.2.5.5.3). (2007, September 23). _The Straits Times_, p. 6; Nirmala, M. (2002, August 10). [Food not the way to forge strong identity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020810-1.2.7.3). _The Straits Times_, p. 4.
+
+[^11]: Wong, K.S. (2011, January 18). [Making Singaporeans feel this is home in a global city](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110118-1.2.29.2). _The Straits Times_, p. 21.
+
+[^12]: [Li & Putnam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110331-1.2.38.4.1), _The Straits Times_, 31 Mar 2011, p. 31.
+
+[^13]: [Li & Putnam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110331-1.2.38.4.1), _The Straits Times_, 31 Mar 2011, p. 31.
+
+[^14]: [Li & Putnam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110331-1.2.38.4.1), _The Straits Times_, 31 Mar 2011, p. 31.
+
+[^15]: Immigrants to France are expected to assimilate French national identity and relegate all other identities to the private sphere.
+
+[^16]: Joint statement by SM Goh Chok Tong and MM Lee Kuan Yew (2011, May 14). _Today_.
+
+
+
+
