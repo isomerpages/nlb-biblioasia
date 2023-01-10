@@ -1,8 +1,9 @@
 ---
 title: Director's Column
-permalink: /vol-7/issue-3/jul-2011/director-column/
+permalink: /vol-7/issue-2/jul-2011/director-column/
 description: ""
 ---
+
 Happy 46th Birthday, Singapore.
 
 It seems like only yesterday you were born: under harsh lights, as murmurs of worry and concern erupted around you, as did tears and fears of uncertainty as to your future. You were born into a landscape still reeling from cataclysmic change, the status of previously-drawn boundaries now irrevocably different, forever altered. But even more so, you were born from the hope for a better world for those who were there, for those who came from other shores (and still do come today).

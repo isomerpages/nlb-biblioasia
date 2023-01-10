@@ -65,7 +65,7 @@ As promised, she uses many local ingredients fish such as *ikan bawal*, *ikan me
 Local names or nicknames for ingredient *kachang goring* (Malay for fried nuts) give us colloquial insights into these food items. Of interest are Mrs Kin useful tips into food preparation, much of which may be forgotten today - "Add egg shell to help clear soup and strain through muslin": Always remember when cooking celery, to leave the lid off the pan otherwise there will be a slightly bitter flavor.
 
 
-Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.[^21] In 1931, Mrs Kinsey published another cookbook, Next Meal Cook Book[^22] which was sold as a 
+Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.[^21] In 1931, Mrs Kinsey published another cookbook, *Next Meal Cook Book*[^22] which was sold as a 
 double volume with *Mems*.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Library Holdings</b><br><br><i>The “Mem’s” Own Cookery Book</i> is from the collection of rare and historical imprints at the National Library Singapore. A 2nd edition of Mem’s can be found at the Rare Book Collection on Level 13. A copy is also accessible on microfilm (NL 9852).</div>
@@ -167,4 +167,8 @@ Tregonning, K.G. (1967). [_The Singapore Cold Storage, 1903–1966_](https://ese
 
 [^21]: Bear Brand Unsweetened Swiss Milk advertising in the month of March 1930 in _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300303-1.2.2.1)_.
 
-\[^22\]: Unfortunately, the Library does not hold a copy of this.
+[^22]: Unfortunately, the Library does not hold a copy of this.
+
+
+
+
