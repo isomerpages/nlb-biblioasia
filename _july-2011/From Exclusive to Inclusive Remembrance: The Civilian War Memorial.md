@@ -3,7 +3,7 @@ title: "From Exclusive to Inclusive Remembrance: The Civilian War Memorial"
 permalink: /vol-7/issue-2/jul-2011/civilian-war-memorial-remembrance/
 description: ""
 ---
-The Civilian War Memorial is a monument that commemorates those who lost their lives during the Japanese Occupation of Singapore (February 1942—September 1945). Situated in a park near the busy unction of Bras Basah Road and Beach Road in downtown Singapore, four 64.7 metres-tall obelisks were erected in the middle of a shallow pool. Their merging at their bases symbolises the collective suffering of four ethnic groups in Singapore — the Chinese, Malays, Indians and Eurasians during the Japanese Occupation.
+The Civilian War Memorial is a monument that commemorates those who lost their lives during the Japanese Occupation of Singapore (February 1942—September 1945). Situated in a park near the busy junction of Bras Basah Road and Beach Road in downtown Singapore, four 64.7 metres-tall obelisks were erected in the middle of a shallow pool. Their merging at their bases symbolises the collective suffering of four ethnic groups in Singapore — the Chinese, Malays, Indians and Eurasians during the Japanese Occupation.
 
 <img style="width:70%;" src="/images/Vol%207%20Issue%202/UrbanRiver/1A512514.jpg">
  <div style="background-color: white;">Swan and Mclaren's original design of the Clivilian War Memorial was submitted by the architecture firm as an entry for the design competition for the memorial in April April 1963. <i>Sin Chew Jit Poh,</i> 31 May 1963. <i>Singapore Press Holdings. All rights reserved. Sin Chew Jit Poh, Singapore 1963.</i></div>
@@ -37,10 +37,16 @@ Yap Van Hong, another Sook Ching survivor of a Changi beach massacre, narrated h
 
 "After the whistle, the machine gun(fire started\]. I took a deep breath and went underwater and I could hear the bullets ricocheting above me. I never knew what ricocheting bullets sounded like. And that was the first occasion I heard it. It went *zheeon zheeon zheeon* above the water ... If you ask me how long the firing lasted, I am not able to tell you. I only knew that It lasted for quite some time and suddenly it stopped, the firing stopped. So when the firing stopped I was telling myself, "These people will come out to find those who are still wounded to finish them off. They will not leave any wounded." And I was right. I heard the *chung chung* of a motor-boat .. . When the sound of the motor-boat came nearer to me, I stayed underwater. Immediately after that, the searchlight came on. And it was searching the sea ... When the motor-boat came out, there were a few pistol shots. That \[meant\] they must have found some wounded and finished them off . . . Eventually the searchlights (went\] off and I started to swim underwater to get away from the area as fast as I could."8
 
+
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Lim%20Boon%20Keng.jpg">
+ <div style="background-color: white;">Lim Boon Keng, President of the Overseas Chinese Association (OCA) handing over the $50 million to General Yamashita 27 June 1942.  <i>Courtesy of National Archives of  Singapore.</i></div>
+
+
 The total number of Chinese killed during the Sook Ching operation varies considerably according to different reports. The Japanese put the figure at about 5,000, while the Chinese estimated it to be around 100,000. But it has been widely assumed that the number of victims was between 25,000 and 50,000.9 Furthermore, after the operation, the Chinese community had to raise M$50 million as "tribute money" to pay the Japanese so as to prove their loyalty.10
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Cheque%20Yamashita.jpg">
- <div style="background-color: white;">The cheque that was given to General Yamashita. Raising the $50 million was a difficult task for the CCA. In the end it was only able to raise $25 million. The rest was loaned to the association by the Yokohama Special Bank. <i>Courtesy National Archives of Singapore.</i></div>
+ <div style="background-color: white;">The cheque that was given to General Yamashita. Raising the $50 million was a difficult task for the OCA. In the end it was only able to raise $25 million. The rest was loaned to the association by the Yokohama Special Bank. <i>Courtesy National Archives of Singapore.</i></div>
 	
 After the Japanese Occupation, the Chinese community tried to seek closure. Organisations such as the Singapore Chinese Massacred Appeal Committee as well as Tan Kah Kee's fund-raising committees, namely the China Relief Fund Committee of Singapore and the South Seas China Relief Fund Union, were among the first to attempt to determine the number of Chinese killed during the Sook Ching operation as part of the effort to press the Japanese government for monetary compensation.11 They also proposed that a war memorial for the Sook Ching victims be constructed. Despite having reported that they had secured a site for the memorial, the plan failed to materialise. A widely-cited reason for the lack of progress was the inability to locate the massacre sites In order to rebury the dead at the memortal site.12
 
