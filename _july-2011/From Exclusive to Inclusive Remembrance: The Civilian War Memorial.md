@@ -15,14 +15,14 @@ However, when the government took over the campaign, the memorial was "moulded t
 
 #### **The Sook Ching Massacre**
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Mass%20Screening%20Center%20JB.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Mass%20Screening%20Center%20JB.jpg">
  <div style="background-color: white;">Mass-screening center at Jalan Besar. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Sook Ching was a two-week mass screening operation carried out by the Japanese military on 18 February 1942— three days after the fall of Singapore - to purge anti-Japanese elements within the Chinese community. In order to Identify who these anti-Japanese Chinese might be, the military summoned all Chinese males between the age of 18 and 50 to designated screening centres for inspection. Those who passed the inspection were issued "good citizen" cards, while those who failed were detained, sent to remote locations across Singapore, and executed.[^3]
 
 The Japanese had various methods for executing the Chinese suspected of being anti-Japanese. The first method was carried out off the shores of Tanjong Pagar, Punggol Beach and Tanah Merah Besar Beach. The Japanese would first send the suspects out Into the sea in boats. The suspects, with their hands and legs tied together, were then thrown overboard before being machine-gunned to death.[^4]
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Mass%20Screening%20Center%20TP.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Mass%20Screening%20Center%20TP.jpg">
  <div style="background-color: white;">Mass-screening center at Tanjong Pagar Police Station. It was reported that people detained in this center were executed near Blakang Mati Island (present-day Sentosa).<i> Courtesy of National Archives of Singapore.</i></div>
 
 The second method was carried out in remote areas of Singapore such as Bedok and Siglap. The Japanese would first force the suspects, herded with ropes, to march deep into the jungle before ordering them to dig large ditches. They were then instructed to line up at the edges of these ditches, and were then machine-gunned.[^5]
@@ -37,14 +37,13 @@ Yap Van Hong, another Sook Ching survivor of a Changi beach massacre, narrated h
 
 "After the whistle, the machine gun(fire started\]. I took a deep breath and went underwater and I could hear the bullets ricocheting above me. I never knew what ricocheting bullets sounded like. And that was the first occasion I heard it. It went *zheeon zheeon zheeon* above the water ... If you ask me how long the firing lasted, I am not able to tell you. I only knew that It lasted for quite some time and suddenly it stopped, the firing stopped. So when the firing stopped I was telling myself, "These people will come out to find those who are still wounded to finish them off. They will not leave any wounded." And I was right. I heard the *chung chung* of a motor-boat .. . When the sound of the motor-boat came nearer to me, I stayed underwater. Immediately after that, the searchlight came on. And it was searching the sea ... When the motor-boat came out, there were a few pistol shots. That \[meant\] they must have found some wounded and finished them off . . . Eventually the searchlights (went\] off and I started to swim underwater to get away from the area as fast as I could."[^8]
 
-
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Lim%20Boon%20Keng.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Lim%20Boon%20Keng.jpg">
  <div style="background-color: white;">Lim Boon Keng, President of the Overseas Chinese Association (OCA) handing over the $50 million to General Yamashita 27 June 1942.  <i>Courtesy of National Archives of  Singapore.</i></div>
 
 
 The total number of Chinese killed during the Sook Ching operation varies considerably according to different reports. The Japanese put the figure at about 5,000, while the Chinese estimated it to be around 100,000. But it has been widely assumed that the number of victims was between 25,000 and 50,000.[^9] Furthermore, after the operation, the Chinese community had to raise M$50 million as "tribute money" to pay the Japanese so as to prove their loyalty.[^10]
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Cheque%20Yamashita.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Cheque%20Yamashita.jpg">
  <div style="background-color: white;">The cheque that was given to General Yamashita. Raising the $50 million was a difficult task for the OCA. In the end it was only able to raise $25 million. The rest was loaned to the association by the Yokohama Special Bank. <i>Courtesy National Archives of Singapore.</i></div>
 	
 After the Japanese Occupation, the Chinese community tried to seek closure. Organisations such as the Singapore Chinese Massacred Appeal Committee as well as Tan Kah Kee's fund-raising committees, namely the China Relief Fund Committee of Singapore and the South Seas China Relief Fund Union, were among the first to attempt to determine the number of Chinese killed during the Sook Ching operation as part of the effort to press the Japanese government for monetary compensation.[^11] They also proposed that a war memorial for the Sook Ching victims be constructed. Despite having reported that they had secured a site for the memorial, the plan failed to materialise. A widely-cited reason for the lack of progress was the inability to locate the massacre sites In order to rebury the dead at the memortal site.[^12]
@@ -79,8 +78,7 @@ The government also played a part in the design of the memoriai. After the site 
 
 Besides overseeing the building process, the government also worked with the Japanese government to resolve the matter of compensation. An agreement was reached on 25 October 1966; the Japanese government agreed to pay a total of M$50 million to the Singapore government.[^31] By then, the SCCC and the government had completed the exhumation of the mass graves. The remains that were exhumed from more than 50 mass graves were stored in 606 urns."[^32] Before they were buried on 1 November 1966, the public was invited to pay their last respects from 28 October to 31 October 1966.[^33]
 
-
-<img style="width:50%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Black%20Urn%20Inscriptions.jpg">
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Black%20Urn%20Inscriptions.jpg">
  <div style="background-color: white;">Under a black urn with lion heads in relief, the words inscribed on the white marble pedestal are "In deep and lasting sorrow this memorial is dedicated in memory of those or our civilians who were killed between February 15, 1942 and August 18, 1945 when the Japanese Armed Forces occupied Singapore." Translations in Malay and Tamil flank it on the right and left respectively. <i>Herwin M. Nasir for National Library Board Singapore. All rights reserved.</i></div>
 
 On 1 November 1966, a ceremony was held to observe the interment of the 606 urns. The urns were buried on both sides of the memorial podium.[^34] At the end of the re-burial, Soon Peng Yam, then president of SCCC, laid a wreath at the memorial "on behalf of the Singapore people" before leading public mourners, other members of the SCCC and the action committee for the war memorial campaign to observe a three-minute silence.[^35] During the ceremony, an official from the SCCC extended an invitation to all religious representatives for the unveiling ceremony of the memorial the following year.[^36]
