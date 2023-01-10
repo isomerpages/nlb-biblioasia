@@ -15,6 +15,9 @@ However, when the government took over the campaign, the memorial was "moulded t
 
 #### **The Sook Ching Massacre**
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/UrbanRiver/Mass%20Screening%20Center%20JB.jpg">
+ <div style="background-color: white;">Mass-screening center at Jalan Besar. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Sook Ching was a two-week mass screening operation carried out by the Japanese military on 18 February 1942— three days after the fall of Singapore - to purge anti-Japanese elements within the Chinese community. In order to Identify who these anti-Japanese Chinese might be, the military summoned all Chinese males between the age of 18 and 50 to designated screening centres for inspection. Those who passed the inspection were issued "good citizen" cards, while those who failed were detained, sent to remote locations across Singapore, and executed.3
 
 The Japanese had various methods for executing the Chinese suspected of being anti-Japanese. The first method was carried out off the shores of Tanjong Pagar, Punggol Beach and Tanah Merah Besar Beach. The Japanese would first send the suspects out Into the sea in boats. The suspects, with their hands and legs tied together, were then thrown overboard before being machine-gunned to death.4
