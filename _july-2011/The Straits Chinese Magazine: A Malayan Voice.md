@@ -5,6 +5,9 @@ description: ""
 ---
 #### "Hidden away in that excellent publication, the Straits Chinese Magazine, there is often a good deal of suggestive matter well deserving public attention.” (*Straits Times*, 1907, November 16, p. 6 NL 1975). “
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/StraitsChinese/dog.jpg">
+ <div style="background-color: white;">Image at notice for subscription - <i>Singapore Chinese Magazine,</i> 1879, March,1(1), p. 33. <i>All rights reserved, Koh Yew Yean Press, Singapore, 1897.</i></div>
+
 #### **Motivitation and Impetus**
 
 By the late 19 th century, there was a small but significant number of Straits Chinese, or community in the Malay Peninsula and Singapore was riding on a wave of economic success and experiencing a renaissance in knowledge and culture.
@@ -16,6 +19,11 @@ Thought it was through the administration and education systems of the British t
 It was in this context that these educated anglophile Straits Chinese began *The Straits Chinese Magazine: A quarterly journal of oriental and occidental culture*1 in 1897. The quarterly was the first English serial edited and published by Malayans.2
 
 The magazine lasted eleven years and was "a medium for the discussion of political/ social, and other matters affecting the Straits people generally" (Editorial, 1897, SCM, March, 1(1), p. 1). It became a rich collection of literary works and social commentaries including short stories by the Straits Chinese or about them3; political analysis and insights into Straits Chinese perspectives on Chinese reformation and opinions on the tumultuous events in the motherland (China): and biographical and social commentaries of the people and events in the Straits at a time when the Straits Chinese were politically and financially on the rise. The readers targeted were not just the Straits Chinese but all who were Straits-born as the articles addressed the concerns and interests of Malays, Eurasians, Indians and other races in the Straits.
+
+![](/images/Vol%207%20Issue%202/StraitsChinese/020000033.jpg)
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/StraitsChinese/020000033.jpg">
+ <div style="background-color: white;">Editors, <i>Straits Chinese Magazine</i> from <i>One hundred years of the Chinese in Singapore,</i> 1903, after p. 236. <i>All rights reserved, Murray, London, 1923.</i></div>
 
 #### **Cultural Loyalties**
 
@@ -39,7 +47,11 @@ Although the magazine was styled after similar journals of literary societies in
 
 #### **Chinese Reformation**
 
-During the span of the magazine's life (1897—1907), China was in the throes of change with conflicts within and invasions from without. The defeats suffered by China during the Opium Wars In the mid-19th century and the Sino-Japanese War in 1894 had humiliated China and revealed the weaknesses of the declining Qing Dynasty. The disaffected populace threatened the ancient royal throne with outbreaks of riots and rebellion. During this time, the young emperor, Guangxu, sought to retain his throne whilst implementing institutional reforms. With his advisors, Kang Youwel and Liang Qlchao, Guangxu began a reform movement known as the Hundred Days' Reform in 1898 which lasted 103 days before it was quashed by his adopted mother, the Empress Dowager Cixi.
+During the span of the magazine's life (1897—1907), China was in the throes of change with conflicts within and invasions from without. The defeats suffered by China during the Opium Wars In the mid-19th century and the Sino-Japanese War in 1894 had humiliated China and revealed the weaknesses of the declining Qing Dynasty. The disaffected populace threatened the ancient royal throne with outbreaks of riots and rebellion. During this time, the young emperor, Guangxu, sought to retain his throne whilst implementing institutional reforms. With his advisors, Kang Youwel and Liang Qichao, Guangxu began a reform movement known as the Hundred Days' Reform in 1898 which lasted 103 days before it was quashed by his adopted mother, the Empress Dowager Cixi.
+
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/StraitsChinese/020000467_1.jpg">
+ <div style="background-color: white;">The reform martyrs (<i>Singapore Chinese Magazine,</i> (1900, May), <i>4</i> (13),  pp. 9—10). <i>Koh Yew Hean Press, Singapore,</i> 1900.</i></div>
 
 Kang, the driving intellectual force behind the reform movement, influenced not only his countrymen at home but also those who were overseas.13 Kang's radical interpretation of Confucianism in the light of Western concepts14 was soon adopted by those in Singapore.15 Kang initiated the Confucian Revival Movement in Singapore, in partnership with the Chinese Consul-General In Singapore and with Lim Boon Keng's articulate and widely published support.16
 
@@ -78,16 +90,8 @@ The <i>Straits Chinese Magazine</i> is from the collection of rare and historica
 
 The author would like to acknowledge Assistant Professor Chua Ai Lin of the Department of History, National University of Singapore for reviewing this article.
 
-![](/images/Authors/Bonny_Tan.png)
-
 <br>
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
 <center> <b>Bonny Tan</b> <br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center>  </div>
-
-
-
-
-
-
