@@ -19,10 +19,5 @@ The barracks at Pasir Labar SAFTI \[pictured\] had a tin roof and no fans. Train
  
 I registered to be in the first batch of National Service enlistees in 1954 [the sit opposite tehe current Hai Nan Clan Association]. However, I was not accepted as the Singapore economy was doing badly at that time and there was a limit to the number of servicemen they could take in! — Ho Fook Cheong
 
-<img style="width:80%;" src="images/Vol%207%20Issue%202/DraftingNation/regiscb.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/DraftingNation/regiscb.jpg">
  <div style="background-color: white;"> <i>Courtesy of Ho Fook Cheong. Donated ate the Heritage Roadshow 2009.  All rights reserved.</i></div>
-
-
-
-
-
