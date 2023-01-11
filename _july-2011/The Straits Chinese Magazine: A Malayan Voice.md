@@ -23,8 +23,6 @@ It was in this context that these educated anglophile Straits Chinese began *The
 
 The magazine lasted eleven years and was "a medium for the discussion of political/ social, and other matters affecting the Straits people generally" (Editorial, 1897, SCM, March, 1(1), p. 1). It became a rich collection of literary works and social commentaries including short stories by the Straits Chinese or about them3; political analysis and insights into Straits Chinese perspectives on Chinese reformation and opinions on the tumultuous events in the motherland (China): and biographical and social commentaries of the people and events in the Straits at a time when the Straits Chinese were politically and financially on the rise. The readers targeted were not just the Straits Chinese but all who were Straits-born as the articles addressed the concerns and interests of Malays, Eurasians, Indians and other races in the Straits.
 
-![](/images/Vol%207%20Issue%202/StraitsChinese/020000033.jpg)
-
 <img style="width:50%;" src="/images/Vol%207%20Issue%202/StraitsChinese/020000033.jpg">
  <div style="background-color: white;">Editors, <i>Straits Chinese Magazine</i> from <i>One hundred years of the Chinese in Singapore,</i> 1903, after p. 236. <i>All rights reserved, Murray, London, 1923.</i></div>
 
