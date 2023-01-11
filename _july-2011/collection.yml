@@ -2,6 +2,7 @@ collections:
   july-2011:
     output: true
     order:
+      - "The Straits Chinese Magazine: A Malayan Voice.md"
       - Director's Column.md
       - "Oneness in Many: National Resilience in Singapore.md"
       - "Being and Becoming: Constructing Singapore and Singaporeans.md"
