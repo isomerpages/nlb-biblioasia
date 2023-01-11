@@ -100,4 +100,100 @@ The author would like to acknowledge Assistant Professor Chua Ai Lin of the Depa
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
-<center> <b>Bonny Tan</b> <br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center>  </div>
+<center> <b>Bonny Tan</b> <br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center> </div>
+
+#### **REFERENCES**
+
+Ang, S.L. (2007, January). Of towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s life and achievements. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 2_ (4), 4–9. Retrieved from BiblioAsia website.
+
+Ang, S.L., & Tan, B. (2007). [_Lim Boon Keng: A life to remember: A select annotated bibliography (1869–1957)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12836681)_._ Singapore: National Library Board. (Call no.: RSING 016.36192 LIM)
+
+Chen, M.H. (1967). [_The early Chinese newspapers of Singapore 1881–1912_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030)_._ Singapore: University of Malaya Press. (Call no.: RSING 079.5702 CHE)
+
+Frost, M.R. (2005, February). Emporium in imperio: Nanyang networks and the Straits Chinese in Singapore, 1819–1914. _Journal of Southeast Asian Studies, 36_ (1), 29–66. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Frost, M.R. (2003, August). Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918. _Working paper series, 10_. Retrieved from [http://www.ari.nus.edu.sg/publication\_details.asp?pubtypeid=WP&pubid=169](http://www.ari.nus.edu.sg/publication_details.asp?pubtypeid=WP&pubid=169)
+
+Holden, P. (2009). Colonial fiction, hybrid lives: Early Singaporean fiction in The Straits Chinese Magazine (pp. 85–97). In A. Poon, P. Holden & S.G.L. Lim, [_Writing Singapore: An historical anthology of Singapore literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645). Singapore: NUS Press: National Arts Council Singapore. (Call no.: RSING S820.8 WRI)
+
+Khor, E.H. (1958). [_The public life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980432)_._ Singapore: University of Malaya. (Call no.: RCLOS 361.924 LIM.K)
+
+Khor, J.K.N. (2007). Creating a modern identity: A study of the fictional works in the Straits Chinese Magazine. In E. Thumboo & R.I. Sayson (Eds.), [_From the inside: Asia Pacific literature in Englishes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12924003) (Vol. 1) (pp. 282–290). Singapore: Ethos Books. (Call no.: RSING 427.95 WRI)
+
+Kwee, H.K. (2000). _Enunciating “Chineseness” in late-nineteenth and early-twentieth century Singapore_ \[Unpublished Honours Thesis\]. National University of Singapore, Singapore.
+
+Lee, K.C. (2005). [_Pioneers of modern China: Understanding the inscrutable Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773)_._ Singapore: World Scientific. (Call no.: RSING 951.050922 LEE)
+
+Lee, G.K. (2006). Introduction – A Chinese journey: Lim Boon Keng & his thoughts. In W. Ching (B.K. Lim), [_The Chinese crisis from within_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12782537) (p. v). Singapore: Select Publications. (Call no.: RSING 951.04 LIM)
+
+Lim, F.N. (1995). _Aspects of Straits Chinese identity in the early twentieth century_ \[Unpublished honours thesis\]. National University of Singapore, Singapore.
+
+Rudolph, J. (1999, January 3). [The Babas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990103-1.2.34.8.4). _The Straits Times_, p. 28. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]: Henceforth identified as the Magazine or SCM.
+
+[^2]: Rudolph, Jurgen. (1999, January 3). [The Babas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990103-1.2.34.8.4). _The Straits Times_, p. 28.
+
+[^3]: Literary works published in the SCM have been analysed by [Phlip Holden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645) (2009) and [Neil Khor](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12924003) (2007).
+
+[^4]: J D Vaughan was Assistant resident of Singapore and superintendant of the Penang Police Force.
+
+[^5]: The Magazine was in fact published coincidentally in the year of the Queen’s jubilee.
+
+[^6]:This is one of the few examples of Baba Malay being published in the Magazine. On the whole, articles were written in English with a limited number of Chinese works translated into English. It is noteworthy that during this same period many of the classical Chinese narratives were being translated into Baba Malay and these had garnered a wide readership amongst the Straits Chinese. The Magazine is thus believed to have targeted a more exclusive audience amongst the Straits Chinese.
+
+[^7]: As opposed to the SVI (Straits Volunteer Infantry) and the SVR (Straits Volunteer Rifles)
+
+[^8]: The Consulate was established in 1877.
+
+[^9]: Turnbull, 1992, p. 103.
+
+[^10]: [Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030) (1967), p. 116.
+
+[^11]: [Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030) (1967), p. 115.
+
+[^12]: Speeches from other societies which Lim was a member of, like the Straits Philosophical Society, was also reproduced in the Magazine. There were 17 essays from the Straits Philosophical Society.
+
+[^13]: In many ways, the Magazines, expansive global and cultural coverage reflects the growing influence of the Chinese reformers amongst the overseas Chinese, from Southeast Asia to Europe and North America.  Shih-shan notes that at the turn of the 20th century, the Chinese in Southeast Asia and North America faced discrimination from the ruling white society. Since the Chinese “attributed their maltreatment to the Manchu government’s inability to protect her people, both at home and abroad, the logical remedy was to help make China a strong and independent nation”. (Shih-shan, pp. 8–9). This perspective invoked the strong support from overseas Chinese for the reformists.
+
+[^14]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773) (2005), p. 40.
+
+[^15]: Interest in Kang’s views on Confusianism evident in Singapore as early as 1894, a few years prior to his visit to Singapore [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773), 2005, p. 4.
+
+[^16]: Lim published his thoughts on Confucianism in the Magazine and various other serials.
+
+[^17]: Frost argues that Lim’s push for Confucianism was “not an attempt to re-Sinify’ the Straits Chinese but rather to “radically reconstruct Chinese religion and identity” so that a wider group – those who were Western educated and/or converted to Christianity – could participate in revival (Frost, 2005, p. 57)
+
+[^18]: For example the 1904 volume has a series by Lim entitled ‘The basis of Confucian ethics”’, “Confucian cosmogony and theism” and “Confucian view of human nature”.
+
+[^19]: In fact the constitution of the Singapore Chinese Girls’ School was written by Kang Youwei (Wang, 1953, p. 83)
+
+[^20]: Kwee (2000) however notes that much of the reforms recommended could only by implemented by the wealthy Chinese who could afford to break with tradition (pp. 91–92)
+
+[^21]: The traditional Chinese pigtail had been imposed by the Qing rulers as a symbol of loyalty to the Qing throne. Cutting it was considered treason and was punishable by death.
+
+[^22]: News and notes – ourselves. (1903, December). [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _7_ (4), 160.
+
+[^23]: Based on the subscription notice for volume 8, 1904. By volume 11, 1907, Hongkong had been added.
+
+[^24]: Editorial. (1904, March). [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _8_ (1), 1.
+
+[^25]: Lim was only 28 when he cofounded the Magazine.
+
+[^26]: Wu, L. (1904, March). The Straits Settlements Queen’s Scholarships. [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _8_ (1), p. 1.
+
+[^27]: S.C. Yin who later was recruited into the editorial team was also Lim’s brother-in-law by Lim’s second marriage.
+
+[^28]: [The “Straits Chinese Magazine”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030407-1.2.15). (1903, April 7). _The Straits Times_, p. 2.
+
+[^29]: Kwee (2000) does highlight the criticisms of the colonial leaders in the Magazine was often played down, as the Straits Chinese sought their favour for status and power. Instead, the authors widened the discussion “to the phenomenon of colonialism in general” (p. 72) creating a “counter-colonial narrative which challenged the Western powers’ claims of liberating, civilizing and modernising the natives”. (p. 72). Kwee then proceeds to give examples of various articles that trace out India’s and China’s struggles against British imperialism whilst the editors concurrently conveyed strong allegiance to British rule (pp. 72–79). Kwee is adamant that the writers of the SCM were an exclusive club and that their essays were written not for the good of the Straits Chinese in general but for the elevation and protection of the status of its writers and editors (pp. 91–92).
+
+[^30]: A Baba. Our nyonyas. (1903, December). [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _7_ (4), p. 130.
+
+
+
+
+
+ </div>
