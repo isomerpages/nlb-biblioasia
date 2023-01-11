@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
-      button: Singapore’s Central Bank
+      url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
+      button: SHRINES ON KUSU ISLAND
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/MAS/MAS hero.jpg
+      background: /images/Vol 18 Issue 4/Keramat Kusu/Keramat_Kusu_Hero.png
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
       subtitle: Sports
