@@ -2,4 +2,5 @@ collections:
   apr-2011:
     output: true
     order:
+      - "Drying Fish in Singapore Art: Making Sense of the Nanyang Style.md"
       - Director's Column.md
