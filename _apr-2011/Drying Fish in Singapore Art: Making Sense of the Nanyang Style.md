@@ -68,7 +68,11 @@ Studying the representations of drying fish leads to a reexamination of the Nany
 
 The writer wishes to thank Chen Cheng Mei, Chen Chi Sing, Tan Wee Lee, Cheong Leng Guat, Huang Kaiquan, Koh Nguang How, LASALLE College of the Arts, Bryan Law, Lim Tze Peng, Charmaine Oon, Sara Siew, Tay Boon Pin, Rofan Teo, Xu Qingzhao, Wang Zineng and Thomas Yeo, for their assistance.
 
-
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Yeo%20Wei%20Wei.jpg" style="width: 100px; height: 100px;"/><center> <b>Yeo Wei Wei</b><br>
+Assistant Director<br> Publications And Resource Centre<br> National Art Gallery, Singapore</center> </div> 
 
 
 
