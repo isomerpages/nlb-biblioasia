@@ -2,8 +2,8 @@ collections:
   topics:
     output: true
     order:
-      - Archeology.md
       - Editor's Picks.md
+      - Archeology.md
       - Arts/.keep
       - Arts/Arts.md
       - Arts/Film and Photography.md
