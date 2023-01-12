@@ -5,7 +5,12 @@ description: Associate Naidu Pushpalatha outlines the life and achievements of
   the late literary pioneer Masuri Salikun, and materials donated by his family
   to the National Library.
 ---
- #### Associate _Naidu Pushpalatha_ outlines the life and achievements of the late literary pioneer Masuri Salikun, and materials donated by his family to the National Library.
+#### Associate _Naidu Pushpalatha_ outlines the life and achievements of the late literary pioneer Masuri Salikun, and materials donated by his family to the National Library.
+
+
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/Masuri/Masuri%20manuscript-4.jpg">
+ <div style="background-color: white;">Believed to be the last poem Masuri wrote, this sheet was found in his typewriter after his passing.</div>
   
 
 "<b>As a teenager I was shocked and disturbed at the suffering, death and hardship of the people during the Japanese Occupation. This inspired me to write poems."</b>   —  **Masuri Salikun**
@@ -14,9 +19,18 @@ In 2006. the family of the late Masuri Salikun loaned manuscripts, monographs, p
 
 Masuri Salikun is one of Singapore's foremost literary titans. He was one of the pre¬eminent writers of Singapore and Southeast Asia who effected a change in the art of Malay poetry and is regarded as the "Father of Modern Sajak", a form of Malay poetry.
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/Masuri/Masuri%20manuscript_11.jpg">
+ <div style="background-color: white;">Drafts of Masuri Salikun's memoirs, which, constituted his poetry; the late writer had intended to title the volume "Ini Nasi Yang Kusuap.</div>
+
 He first began writing poetry at the age of 14. Even though the editors of the literary magazines at that time refused to publish his poems as their themes were anti-Japanese. and detailed military atrocities, he persevered, instead deciding to write poems about the love for one's country and defending it from foreign aggression. Eventually, on 4 September 1944. two of his poems Bunga Sakura and Ros Kupuja were published in Berita Malai, a daily newspaper published by the Japanese, which had a literary column. He was just 17 years old. This inspired Masuri to write on, and henceforth his poems were published weekly in the same paper.
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/Masuri/Masuri%20manuscript-3.jpg">
+ <div style="background-color: white;">Drafts of Masuri Salikun's memoirs, which, constituted his poetry; the late writer had intended to title the volume "Ini Nasi Yang Kusuap.</div>
+
 His early writings embody a spirit of patriotism, and a young man's relentless desire to free the nation from any form of colonialisation and occupation. The struggle to attain independence is manifest in many of these poems. Masuri also wrote short stories, essays and plays; just as in his poetry, these works highlight the lives and aspirations of the Singapore community, addressing age-old themes of tradition, social justice and spirituality in newly modem settings.
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%202/Masuri/Masuri%20manuscript_2%202.jpg">
+ <div style="background-color: white;">Drafts of Masuri Salikun's memoirs, which, constituted his poetry; the late writer had intended to title the volume "Ini Nasi Yang Kusuap.</div>
 
 Masuri held the belief that talent alone is insufficient to qualify a person as a successful writer; instead, hard work, passion and sacrifice should be key factors in any evaluation of their success. Values such as these have made him an exemplary figure for successive generations of Singaporeans, writers and non-writers alike.
 The demonstration of the spirit and mettle befitting of a literary pioneer of Singapore has shaped our appreciation of Masuri and his contributions to this very day.
@@ -37,13 +51,3 @@ Masuri Salikun passed away on 6 December 2005.
 <br/>
 <img src="/images/Authors/Pusphalatha_1.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Naidu Pusphalatha</b><br>Associate II <br>National Library Office<br>National Library</center> </div>
-
-
-
-
-
-
-
-
-
-
