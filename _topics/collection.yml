@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Editor's Picks.md
-      - Archeology.md
+      - Archaeology.md
       - Arts/.keep
       - Arts/Arts.md
       - Arts/Film and Photography.md
