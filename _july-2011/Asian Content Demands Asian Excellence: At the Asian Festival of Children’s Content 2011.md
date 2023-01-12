@@ -35,7 +35,3 @@ Bibliografi Sastera Melayu Singapura (1965 —2009) menghimpunkan senarai karya 
 <br/>
 <img src="/images/Authors/Lansell.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Lansell Taudevin</b><br> Writer/Composer</center></div>
-
-
-
-
