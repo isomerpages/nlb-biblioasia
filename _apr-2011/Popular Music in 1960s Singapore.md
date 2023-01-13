@@ -81,10 +81,43 @@ Some of these pioneers of Singapore popular music continued to make their liveli
 
 Unlike these stalwarts, however, most other musicians simply grew older, lost touch with music and faded into history. While it is difficult to say whether the once-lively music industry would have been sustainable beyond the 1960s, it is certainly true that since then, local musicians have found it difficult to achieve the same level of popularity, support and commercial success that came so readily during those golden years.
 
-**The author wishes to acknowledge the contributions of Dr Mark Emmanuel, Department of History, National University of Singapore in reviewing this article**.
+The author wishes to acknowledge the contributions of Dr Mark Emmanuel, Department of History, National University of Singapore in reviewing this article.
 
 <br>
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/JoannaTan.jpg" style="width: 100px; height: 100px;"/>
-<center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+<center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library
+</div>
+
+#### **REFERENCES**
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
