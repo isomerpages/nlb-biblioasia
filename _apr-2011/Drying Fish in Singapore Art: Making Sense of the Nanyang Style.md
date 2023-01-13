@@ -30,7 +30,8 @@ persists, and this picture was made<br>
 
 In another painting, *Fishing Village* (1981), the title in Chinese literally translates as “Happy Fishing Picture”; the first two characters “渔乐” （*yule*） have the same sound as the characters for recreation “娱乐”, a pun expressing Chen Chong Swee’s appreciation of the leisurely and relaxed pace of life in Kota Bahru. In the foreground fishes are laid out to dry.
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/Chen%20Chong%20Swee_Fishing%20Village.jpg"><div style="background-color: white;">Chen Chong Swee,<i> Fishing Village.</i> 1981. Chinese ink and colour on paper. 102 x 70 cm. Private collection.</div>
+<img style="width:50%;" src="images/Vol%207%20Issue%201/Chen%20Chong%20Swee_Fishing%20Village.jpg">
+<div style="background-color: white;">Chen Chong Swee,<i> Fishing Village.</i> 1981. Chinese ink and colour on paper. 102 x 70 cm. Private collection.</div>
 
 Born in the 1910s, 1920s and 1930s, these artists grew up knowing Singapore as part of Malaya. Scenes of drying fish were common in Malaysia, a familiar familial country, a place that was as homely as Singapore during the artists’ childhood. By the mid eighties, the appeal of the subject had begun to fade. However, the selection of Cheong Soo Pieng’s painting *Drying Salted Fish* (1978), featuring a scene from Trengganu, as part of the re-design of the Singapore fifty-dollar note in 1999 seemed to be a silent acknowledgement that Singapore had once been part of Malaya.
 
