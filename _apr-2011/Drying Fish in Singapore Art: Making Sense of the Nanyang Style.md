@@ -109,6 +109,3 @@ Yeh, C.W. (1961). Preface. _Shirenhuaji._ Singapore.
 Yeo, W.W. (Ed.). (2010). [_The story of Yeh Chi Wei_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13598384). Singapore: National Art Gallery. (Call no.: RSING 759.95957 STO)
 
 Yeo, W.W. (Ed.). (2010). [_Cheong Soo Pieng: Visions of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13677635). Singapore: National Art Gallery. (Call no.: RSING 759.95957 SOO)
-
-
-
