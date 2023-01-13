@@ -23,15 +23,27 @@ Radio was crucial in introducing these new musical influences to Singapore. By t
 
 Against this backdrop of official disapproval of popular forms of culture, Cliff Richard and The Shadows performed in Singapore in November 1961. Enthusiastic audiences of up to 20,000 turned up for the performances on 16, 19 and 20 November.
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/Artefacts.jpg">
+ <div style="background-color: white;">Artefacts from Retrospin: Sounds of Singapore, 1950s—1990s, a 1996 exhibition. Left to right: picture of Cliff Richard, programme from Cliff Richard and The Shadows’ concert, and a flyer for <i>Take Me High,</i> playing at the Rex Theatre. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Prior to this, youths in Singapore had listened to British and American music only on the radio and on records. Watching their idols perform in person excited these young fans in a way that radio had been unable to do. Other foreign acts performed in Singapore in the 1960s, but the Cliff Richard performances were considered a turning point, spawning a host of imitators as these youths began forming bands in the early 1960s.8 As Reggie Verghese of The Quests (arguably the most successful Singapore band of that decade) put it, “I was hooked. All I wanted to do was play like them, and nothing was going to stop me from playing music.”9 One of the most striking traits of these new bands was the young age of their members, often of school-going age and still in their teens. Bands were usually formed by classmates or friends with musical interest or knowledge. Initially neighbours, the four members of The Quests were between 13 and 14 years of age when the band formed in 1961. Two of the members, Jap Chong and Raymond Leong, were schoolmates at Queenstown Secondary Technical School.10 Susan Lim was 14 years old and attending the Convent of the Holy Infant Jesus when she began singing with The Crescendos in 1963. She was a friend of one of the band members’ sisters.11 Siva Choy, a pioneer blues musician, began performing with his brother James in 1957 when he was just 10 years old. They were performing as The Cyclones by the time Choy was 15.12 As Jerry Fernandez of The New Faces noted, “Bands came and went like moths. You \[were\] invited to join in a group by a classmate, friend or neighbour and you enjoyed the ride while it lasted.”13 Likewise, Vernon Cornelius, former frontman of The Trailers and The Quests, said, “We were all young and we had nothing to lose.”14
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/GoodOldSummer.jpg">
+ <div style="background-color: white;">Cover of 45 RPM EP<i> In the Good Old Summer Time</i> (1964) by The Crescendos. <i>Courtesy of National Archives of Singapore.</i></div>
 
 These bands formed on the basis of their mutual attraction to popular music rather than any notion of fame or fortune. The excitement of playing in a band was a reward in itself, even if they were not paid for the effort. Said Choy, “We were given only $50 for transport, which we didn’t always receive, but we didn’t mind. Money didn’t matter then.”15 Henry Chua, bassist of The Quests, recalled the thrill of the band’s first paid gig: “We were rewarded with the princely sum of $20 to be shared among us. We felt rich. I never had more than 20 cents in my pocket in those lean days. That was the first time in my life that I really got paid for something I did.”16
 
 Many aspiring musicians of that era did not have formal training in reading music or playing instruments; many were self-taught and picked up music skills through trial and error, imitation, practice, and experience. Chris Vadham of the Western Union Band remembered learning to play the guitar from a music book.17 Henry Chua recalled the hours that band members spent listening to records, trying to work out the individual parts of songs. He had no musical training and learned his first two guitar chords from Jap Chong. Through regular practice, he taught himself to count bars, write chord charts and, eventually, to play the bass guitar.18
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/GotLove.jpg">
+ <div style="background-color: white;">Cover of 33 RPM LP <i>We’ve Got Love</i> (1978) by Western Union Band. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Initially unable to afford musical instruments and other equipment, these young musicians had to improvise. While practising for their first paid performance, The Quests created drumsticks from oversized pencils and a guitar from a biscuit tin strung with rubber bands.19 Equipment such as amplifiers was either homemade or borrowed. Siva Choy noted, “\[In\] those days, if you had a good amplifier, the chances of being asked to join a band were very good.”20
 
 The frequent movement of members between bands meant that bands were occasionally short of someone to play a particular instrument. In keeping with the improvisational spirit of the time, many musicians were versatile and could play more than one instrument, which enabled band members to fill in for each other. When The Trailers thought to add a brass sound to their music in 1967, guitarists Victor Woo and Eric Tan did not have to spend much time learning to play the saxophone before introducing it in the song “Peter Gunn”, with Woo and Tan on saxophones while rhythm guitarist Edmund Tan filled in on the bass.21 Jerry Fernandez also recalled that members of The New Faces could “double up for one another … This versatility came in handy as it added to the quality of our show. We used to wow the audience when we suddenly switched from one instrument to the next.”22
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/PopularMusic/Trailers.jpg">
+ <div style="background-color: white;">The Trailers Postcard. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
 #### **Television and the Recording Industry**
@@ -70,7 +82,3 @@ Unlike these stalwarts, however, most other musicians simply grew older, lost to
 <br/>
 <img src="/images/Authors/JoannaTan.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library</center></div>
-
-
-
-
