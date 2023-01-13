@@ -7,6 +7,9 @@ description: The act of drying fish appears in many works of the Nanyang style.
 ---
 #### The act of drying fish appears in many works of the Nanyang style. National Art Gallery’s _Yeo Wei Wei_ explores this recurring motif suggests how it can help our understanding of “Nanyang”.
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/Chen%20Cheng%20Mei_Drying%20Fish.jpg">
+ <div style="background-color: white;">Chen Cheng Mei (Tan Seah Boey), <i>Drying Fishes,</i> Kota Bahru. 1977. Oil on canvas. 76 x 117 cm. <i>Collection of family of Chen Cheng Mei.</i></div>
+
 #### **“Nanyang”: Nostalgia and Longing**
 
 The subject of drying fish appears with remarkable frequency in the works of modern Singapore artists in the 1960s and 1970s. During that time, artists such as Chen Chong Swee, Cheong Soo Pieng, Lim Tze Peng and other members of the Ten Men Art Group, travelled to fishing villages in Trengganu, Kelantan, and Kukup. These outdoor sketching trips and the works produced in their course form part of the evolution of the Nanyang style. Finding themselves surrounded by attractive and fresh subject matter, these artists spent their days fruitfully; many sketches were the basis for full-fledged works in oil, watercolour, Chinese ink and colour, and even wood carving.
@@ -21,9 +24,18 @@ brings any good<br>The question
 persists, and this picture was made<br> 
 (Chen, 2010/Trans. Yeo, 2011)
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/Chen%20Chong%20Swee_%20Southern%20Islanders.jpg">
+ <div style="background-color: white;">Chen Chong Swee, <i>Southern Islanders.</i> 1970. Chinese ink and colour on paper. 70 x 94 cm. Private collection.
+</div>
+
 In another painting, *Fishing Village* (1981), the title in Chinese literally translates as “Happy Fishing Picture”; the first two characters “渔乐” （*yule*） have the same sound as the characters for recreation “娱乐”, a pun expressing Chen Chong Swee’s appreciation of the leisurely and relaxed pace of life in Kota Bahru. In the foreground fishes are laid out to dry.
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/Chen%20Chong%20Swee_Fishing%20Village.jpg"><div style="background-color: white;">Chen Chong Swee,<i> Fishing Village.</i> 1981. Chinese ink and colour on paper. 102 x 70 cm. Private collection.</div>
+
 Born in the 1910s, 1920s and 1930s, these artists grew up knowing Singapore as part of Malaya. Scenes of drying fish were common in Malaysia, a familiar familial country, a place that was as homely as Singapore during the artists’ childhood. By the mid eighties, the appeal of the subject had begun to fade. However, the selection of Cheong Soo Pieng’s painting *Drying Salted Fish* (1978), featuring a scene from Trengganu, as part of the re-design of the Singapore fifty-dollar note in 1999 seemed to be a silent acknowledgement that Singapore had once been part of Malaya.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/Cheong%20Soo%20Pieng_Drying%20Salted%20Fish.jpg">
+ <div style="background-color: white;">Cheong Soo Pieng, <i>Drying Salted Fish.</i> 1978. Chinese ink and watercolour on cloth. 55.5 x 88.5 cm. <i>Collection of National Heritage Board, Singapore.</i></div>
 
 #### **“Nanyang”: Phenomenology**
 
@@ -60,6 +72,9 @@ These works by Chen Chong Swee and Shui Tit Sing were the result of a group trip
 
 A shared nostalgia, a shared longing, the phenomenological experience of life and art, the individual artistic will and vision: all these layers of the Nanyang style come together in Seah Kim Joo’s Malayan Life (1968). Almost seven metres long and over two and a half metres tall, the entire work consists of five panels of batik painting, offering a visual feast of aspects of the “Nanyang”. The title is poignant. The sun had already set for Malaya, an obsolete referent in 1968 when this work was made. The dominant hue in the backdrop is a warm orange, like the light of a setting sun at dusk. It gestures, perhaps, to an analogy: the ending of a day with the ending of an era.
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/Seah%20Kim%20Joo_Malayan%20Life_1.jpg">
+ <div style="background-color: white;">Seah Kim Joo, <i>Malayan Life.</i> 1968. Batik on cloth. 5 panels. 694 x 256 cm. <i>Collection of LASALLE College of the Arts.</i></div>
+
 The phenomenological fullness of experience that is captured in art is also exemplified by the images Seah has depicted, images that relate the ways in which life captivates through much more than the sense of sight. Smell, touch, hearing — all these are evoked. The scene of drying fish stretches across the background of three of the five panels, making it probably the largest rendering of the subject around. On the second and third panels, villagers with upturned faces toward the hanging fishes seem to be inhaling deeply; three of them reach out their hands to hold or touch the fish. It is also curious that the artist includes the durian in the work, a fruit known for its overwhelming fragrance or pungent odour, the perception of which dependent on one’s preference. In the right bottom corner of the second panel, a small Malay boy has his head bent over a durian held between his palms, with an expression that resembles that of durian sellers who hold the fruit in exactly this manner and smell it to see if it is ripe.
 
 The work is a phantasmagorical amalgamation of various aspects of life in different parts of rural Malaysia. Dayaks, an indigenous people from Borneo, are represented on the fourth and fifth panels in a riverside setting. One of them plays a musical instrument while the others stalk prey with their hunting implements at the ready. Birds are found on every panel: fluttering pigeons, flying canards, egrets, a rooster, an owl. Other animals include an ox and deer. The effect is of enchantment: recognisable ordinary features of the simple rural life are transformed into jigsaw pieces that fit together in a magical narrative, a picture of humankind and nature in harmony, the teeming tuneful life when all senses are awakened, unjaded. Everything is connected, even as they maintain their distinct form and function. Culture and nature are merged. The lines on which the fish are hung extend from the fishing net lines, but they are also the lines of string that bind flying birds to villagers; they are also the lines of string that make the solitary wayang kulit figure on the first panel dance.
@@ -72,8 +87,4 @@ The writer wishes to thank Chen Cheng Mei, Chen Chi Sing, Tan Wee Lee, Cheong Le
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Yeo%20Wei%20Wei.jpg" style="width: 100px; height: 100px;"/><center> <b>Yeo Wei Wei</b><br>
-Assistant Director<br> Publications And Resource Centre<br> National Art Gallery, Singapore</center> </div> 
-
-
-
-
+Assistant Director<br> Publications And Resource Centre<br> National Art Gallery, Singapore</center> </div>
