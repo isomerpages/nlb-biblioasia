@@ -2,7 +2,7 @@ collections:
   apr-2011:
     output: true
     order:
-      - "Undiscovered Spaces: An Interview With Boo Junfeng.md"
-      - Popular Music in 1960s Singapore.md
-      - "Drying Fish in Singapore Art: Making Sense of the Nanyang Style.md"
       - Director's Column.md
+      - "Drying Fish in Singapore Art: Making Sense of the Nanyang Style.md"
+      - Popular Music in 1960s Singapore.md
+      - "Undiscovered Spaces: An Interview With Boo Junfeng.md"
