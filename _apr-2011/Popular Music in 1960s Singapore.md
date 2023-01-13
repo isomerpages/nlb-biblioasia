@@ -8,6 +8,9 @@ description: Research Associate Joanna Tan traces the growth of English popular
 ---
 #### Research Associate _Joanna Tan_ traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation building on the music scene, and its eventual decline by the early 1970s.
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/TheLoser.jpg">
+ <div style="background-color: white;">Cover of 45 RPM EP<i> I’m the Loser</i> (1966) by Naomi and The Boys. <i>Courtesy of National Archives of Singapore.</i></div>
+
 From the late 1950s to the early 1970s, Singapore experienced a period of significant political and social change. The year 1959 marked the start of self-government for Singapore and the formation of the People’s Action Party government. These political developments coincided with a flourishing English music scene that had developed with the introduction of popular music influences from abroad such as American rock ‘n’ roll and British pop. This article traces the growth of English popular music in 1960s Singapore and the formation of local bands that became famous for their versions of British and American songs as well as original compositions that featured a unique blend of Western and Asian influences. The article also outlines the impact of nation building on the music scene, and the eventual decline of the music scene by the early 1970s.
 
 #### **Influences from the West**
@@ -49,6 +52,9 @@ The frequent movement of members between bands meant that bands were occasionall
 #### **Television and the Recording Industry**
 
 In 1963, The Beatles burst onto the music scene, marking the start of what was dubbed the British Invasion, and the phenomenon of fan hysteria known as Beatlemania. Television entered Singapore homes and from the start played a significant role in promoting local music talent. By 1966, Economic Development Board chairman Hon Sui Sen estimated that one in every six households in Singapore owned a television set.23 People also had access to televisions at community centres. Television and programmes such as *Pop Inn*, which featured good local bands and singers as well as visiting acts, accelerated the popularity of these local bands. The Quests were one of the acts that appeared regularly on *Pop Inn*, which helped them to establish visibility in the public eye.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/TeaBreak.jpg">
+ <div style="background-color: white;">Cover of 45 RPM <i>Single Tea Break/Pop Inn Theme (Watch Your Step)</i> (1965) by the Quests.<i> Courtesy of National Archives of Singapore.</i></div>
 
 The recording industry in Singapore, which had been growing steadily for some years, registered significant growth during this period. A number of local bands signed contracts with recording companies and went on to release albums that did very well on the local music charts. While many albums contained cover versions of British and American songs, in some cases the cover versions outsold the original versions by foreign acts. In 1961, Susan Lim and The Crescendos signed on with Philips International, becoming the first Singapore group to sign a contract with an international record label, paving the way for other local bands. They released their first single in 1963, a cover version of “Mr Twister” that sold more than 10,000 copies on the local market, outstripping even the original version of the song by Connie Francis.24
 
