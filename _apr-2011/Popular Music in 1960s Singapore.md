@@ -112,22 +112,3 @@ Lockard, C.A. (1998). [_Dance of life: Popular music and politics in Southeast A
 Pereira, J.C. (1999). [_Legends of the golden venus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045)_._ Singapore: Times Editions. (Call no.: RSING q781.64095957 PER)
 
 Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved from Fancymag.com website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
