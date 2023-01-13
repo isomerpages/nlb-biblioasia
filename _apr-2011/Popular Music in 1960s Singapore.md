@@ -87,10 +87,9 @@ The author wishes to acknowledge the contributions of Dr Mark Emmanuel, Departme
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/JoannaTan.jpg" style="width: 100px; height: 100px;"/>
-<center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library
-</div>
+<center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
-
+	
 #### **REFERENCES**
 	
 Burhanudin Buang. (2001). [_Pop Yeh Yeh music in Singapore, 1963–1971_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842354). Singapore: National University of Singapore. (Call no.: RSING 781.629928095957 BUR)
@@ -112,3 +111,78 @@ Lockard, C.A. (1998). [_Dance of life: Popular music and politics in Southeast A
 Pereira, J.C. (1999). [_Legends of the golden venus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045)_._ Singapore: Times Editions. (Call no.: RSING q781.64095957 PER)
 
 Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved from Fancymag.com website.
+
+#### **NOTES**
+
+[^1]: [Today’s radio programme for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570729-1.2.36). (1957, July 29). _The Singapore Free Press_, p. 7; [Rock ‘n roll – this is it!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560913-1.2.3) (1956, September 13). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^2]: [Swing-and-sway rhythm starts early-morning jive session](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560917-1.2.58). (1956, September 17). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+[^3]: Turnbull, C.M. (2009). [_A history of modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047) (pp. 266, 274–277). Singapore: NUS Press. (Call no.: RSING 959.57 TUR); [One Malayan nation – the No. 1 task of the Government](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590722-1.2.11). (1959, July 22). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+
+[^4]: [Lee: We’ll breed new strain of culture](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590803-1.2.37). (1959, August 3). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+[^5]: The term “yellow culture” is a transition of the Chinese farm used to describe the decadent behaviour found in nineteenth-century China, such as corruption, opium-smoking, gambling and prostitution, which were seen as contributing to the fall of the Middle Kingdom.
+
+[^6]: [Radio: The new order](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590610-1.2.2). (1959, June 10). _The Straits Times_, p. 9; [Radio Singapore to be serious but not dull](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590617-1.2.57). (1959, June 17). _The Singapore Free Press_, p. 7; [The rock music goes off the air](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590617-1.2.106). (1959, June 17). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+[^7]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590610-1.2.2), 10 Jun 1959, p. 9; [‘Juke box ban is too drastic’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570508-1.2.25). (1957, May 8). _The Singapore Free Press_, p. 5; [Peril of pin-table culture – by Home Minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590625-1.2.4). (1959, June 25). _The Straits Times_, p. 1; [Rediffusion told us to stop all rock ‘n roll music](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600319-1.2.4). (1960, March 19). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^8]: Kannan Chandran, (1986, March 14). [Those were the days…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860314-1.2.73.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^9]: Chua, H. (2001). [_Call it Shanty: The story of The Quests_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300) (p. 167). Singapore: BigO Books. (Call no.: RSING 781.66 CHU)
+
+[^10]: Jap Chong, Raymond Leong, Henry Chua and Lim Wee Guan were neighbours living in Tiong Bahru area. The name of the band was derived from the school magazine of Queenstown Secondary Technical School (now Queenstown Secondary School).
+
+[^11]: Hammonds, K. (1963, March 3). [Spinning with cutie Susan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630303-1.2.96). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+
+[^12]: Pereira, J.C. (1999). [_Legends of the Golden Venus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045) (pp. 11–25). Singapore: Times Editions. (Call no.: RSING q781.64095957 PER)
+
+[^13]: Conceicao, R. (2009). [_To be rock but not to roll: A 40-year odyssey (1966–2006) of a Singapore pop musician, Jerry Fernandez_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13210675) (pp. 4–5). Singapore: Comdesign Associates. (Call no.: RSING 781.64092 CON)
+
+[^14]: [1965: Those were the days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900706-1.2.67.7.1). (1990, July 6). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+[^15]: [For love of the sixties](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820415-1.2.132.4). (1982, April 15). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^16]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, p. 32.
+
+[^17]: [Pereira](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045), 1999, p. 43.
+
+[^18]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 29–30.
+
+[^19]: For the actual performance for a Christmas party at the St Andrew’s Mission Hospital on 25 December 1961, the band played using guitars borrowed from friends and a drum set that once belonged to Raymond Leong’s uncle. [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 19, 31–32.
+
+[^20]: [Pereira](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045), 1999, p. 15.
+
+[^21]: Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved from Fancymag.com website.
+
+[^22]: [Conceicao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13210675), 2009, p. 17.
+
+[^23]: [One home in six has TV](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660428-1.2.98.2). (1966, April 28). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
+
+[^24]: [The Crescendos find a place in top ten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630930-1.2.32). (1963, September 30). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+[^25]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630930-1.2.32), 30 Sep 1963, p. 5.
+
+[^26]: [The Quests beat Beatles to reach top of Hit Parade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641120-1.2.46). (1964, November 20). _The Straits Times_, p. 4; [What’s new? Seven pussycats who’ve clawed their way to stardom](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670521-1.2.88). (1967, May 21). _The Straits Times_, p. 11. Retrieved from NewspaperSG.
+
+[^27]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670521-1.2.88), 21 May 1967, p. 11.
+
+[^28]: Pereira, 2005.
+
+[^29]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, p. 102.
+
+[^30]: [S’pore races against time to raise new industries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630103-1.2.134). (1963, January 3). _The Straits Times_, p. 16; [Pioneers spirit needed anew, says Lim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651214-1.2.61). (1965, December 14). _The Straits Times_, p. 10; [Vocational education important for S’pore, says Ong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670706-1.2.22). (1967, July 6). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+[^31]: De Silva, G. (1972, June 28). [Hair-cut for local musicians on police advice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.53). _The Straits Times_, p. 8; De Silva, G. (1972, August 22). [Cliff kept his locks, but EMI lost $10,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720822-1.2.85). _The Straits Times_, p. 15; Chandran, R., & Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+[^32]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 125–127.
+
+[^33]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 125–127, 166.
+
+[^34]: Pereira, 2005.
+
+[^35]: Low, J. (1970, October 24). [POP goes the band but the beat goes on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701024-1.2.77.2). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+
+
