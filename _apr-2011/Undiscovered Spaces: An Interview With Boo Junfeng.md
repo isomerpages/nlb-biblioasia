@@ -5,14 +5,21 @@ description: Research Associate Jennifer Lew interviews Sandcastles director Boo
   Junfeng about history, the National Library and the research process behind
   the making of Sandcastle.
 ---
-
-
-
 ####  Research Associate _Jennifer Lew_ interviews _Sandcastles_ director Boo Junfeng about history, the National Library and the research process behind the making of _Sandcastle_.
+
+
+<img style="width:80%;" src="images/Vol%207%20Issue%201/UndiscoveredSpaces/ss1.jpg">
+ <div style="background-color: white;">Film still from <i>Sandcastle</i> (2010). <i>All rights reserved, Zhao Wei Films.</i></div>
 
 His debut feature film *Sandcastle* premiered at the Cannes Film Festival’s 49th International Critics’ Week — a first for Singapore cinema and was the landslide winner of Best Feature Film, Best Director and the NETPAC Jury Prize at the inaugural Vietnam International Film Festival. The film was shown in Pusan, London, Chicago, Vancouver, Toronto, Hong Kong and Paris at some of the world’s most prestigious international film festivals. A retrospective of his short film works resulted in five sold-out screenings at a commercial cineplex. And that is just what filmmaker Boo Junfeng has achieved last year alone.
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/viff.jpg">
+<div style="background-color: white;"><i>Việt Nam News,</i> 22 Oct 2010</div>
+
 On 26 August 2010, *Sandcastle*, his highly anticipated first feature opened in Singapore to a warm reception from public and critics alike. The subsequent media coverage dubbed Boo as the face of a new generation of auteurs, traced the swath he cut through the film festival circuit, and paused on occasion to muse on his rare sensitivity, prolific body of work in the short film medium, and his youth.
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/jf_cannes.jpg">
+ <div style="background-color: white;">Director Boo Junfeng and actors Bobbi Chen and Joshua Tan at the 2010 Cannes Film Festival.<i> Courtesy of Cannes Film Festival, International Critics’ Week.</i></div>
 
 Lesser known, however, is the period of quiet study that marked the research that went into this history-rich cinematic work. We caught up with Boo during a brief window of time between festivals in Toronto and London, where we talked about history, the National Library and the research process behind the making of *Sandcastle*.
 
@@ -42,11 +49,15 @@ I think this show is about memory. There’s a reason why I parallel a woman’s
 
 #### **How did the National Library assist you in contextualising the historical element of the fictional works you create?**
 
-I really like working on Level 11 because of the amount of space that is there. I am someone who cannot be bound when I am thinking; I need to be in a big open space. So it was always a suitable environment for me to work in, especially when I was working on *Tanjong Rhu* \[an earlier short film\] and my accompanying thesis about the representation of gay characters in Singapore film. It so happened that the Singapore and Southeast Asian collections were on Level 11. I wrote much of the script for *Sandcastle* at Level 11, basing my research mainly on some of the publications in the Singapore and Southeast Asian collections, such as *Tangent* and T*he Scripting of A National History* by Hong Lysa and Huang Jianli. These allowed me to understand the issues that the academic community and local historians have been writing and thinking about.
+I really like working on Level 11 because of the amount of space that is there. I am someone who cannot be bound when I am thinking; I need to be in a big open space. So it was always a suitable environment for me to work in, especially when I was working on *Tanjong Rhu* \[an earlier short film\] and my accompanying thesis about the representation of gay characters in Singapore film. It so happened that the Singapore and Southeast Asian collections were on Level 11. I wrote much of the script for *Sandcastle* at Level 11, basing my research mainly on some of the publications in the Singapore and Southeast Asian collections, such as *Tangent* and *The Scripting of A National History* by Hong Lysa and Huang Jianli. These allowed me to understand the issues that the academic community and local historians have been writing and thinking about.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/Tangent.jpg">
+ <div style="background-color: white;">Left: All rights reserved, Hong Kong University Press. 2008 Right: All rights reserved, The Tangent. 2007</div>
+
 
 #### **How do you think research as a whole contributes to the creative process, which is thought of as more intuitive, and how does it mesh together for you?**
 
-We may take creative license when certain facts may not fit our creative agenda, but I always feel safer when I have enough knowledge of the subject matter. There aresubjects that are quite close to my heart, and I still have to research on them to get a better understanding, and to be able to reflect on something that is larger than my own experiences. That is why research has always been very important to me. I’m also lucky to have friends who are just a phone call away, and they are very knowledgeable about a lot of these issues that I am interested in.
+We may take creative license when certain facts may not fit our creative agenda, but I always feel safer when I have enough knowledge of the subject matter. There are subjects that are quite close to my heart, and I still have to research on them to get a better understanding, and to be able to reflect on something that is larger than my own experiences. That is why research has always been very important to me. I’m also lucky to have friends who are just a phone call away, and they are very knowledgeable about a lot of these issues that I am interested in.
 
 What is intuitive, eventually, is what I take away from all the information that I come across, and how I build characters, their lives, their relationships, the dynamics within these relationships and then the story flows from there. But the space in which this occurs in has always been factual. After *Sandcastle* was released, it sparked a lot of interest from many people in the academic communities and amongst historians. This is the first time something like that is represented in a fictional film, and one of these interested parties happened to be Hong Lysa, whose book I read while working on the film.
 
@@ -63,11 +74,3 @@ I think what the library provides is not only knowledge and information but a sp
 <br/>
 <img src="/images/Authors/Jennifer.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Jennifer Low</b><br> Research Associate<br>Government & Business Information Services<br>National Library</center></div>
-
-
-
-
-
-
-
-
