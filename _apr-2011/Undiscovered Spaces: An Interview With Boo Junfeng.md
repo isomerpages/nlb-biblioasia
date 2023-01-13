@@ -8,7 +8,7 @@ description: Research Associate Jennifer Lew interviews Sandcastles director Boo
 ####  Research Associate _Jennifer Lew_ interviews _Sandcastles_ director Boo Junfeng about history, the National Library and the research process behind the making of _Sandcastle_.
 
 
-<img style="width:80%;" src="images/Vol%207%20Issue%201/UndiscoveredSpaces/ss1.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/ss1.jpg">
  <div style="background-color: white;">Film still from <i>Sandcastle</i> (2010). <i>All rights reserved, Zhao Wei Films.</i></div>
 
 His debut feature film *Sandcastle* premiered at the Cannes Film Festival’s 49th International Critics’ Week — a first for Singapore cinema and was the landslide winner of Best Feature Film, Best Director and the NETPAC Jury Prize at the inaugural Vietnam International Film Festival. The film was shown in Pusan, London, Chicago, Vancouver, Toronto, Hong Kong and Paris at some of the world’s most prestigious international film festivals. A retrospective of his short film works resulted in five sold-out screenings at a commercial cineplex. And that is just what filmmaker Boo Junfeng has achieved last year alone.
@@ -18,7 +18,7 @@ His debut feature film *Sandcastle* premiered at the Cannes Film Festival’s 49
 
 On 26 August 2010, *Sandcastle*, his highly anticipated first feature opened in Singapore to a warm reception from public and critics alike. The subsequent media coverage dubbed Boo as the face of a new generation of auteurs, traced the swath he cut through the film festival circuit, and paused on occasion to muse on his rare sensitivity, prolific body of work in the short film medium, and his youth.
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/jf_cannes.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/jf_cannes.jpg">
  <div style="background-color: white;">Director Boo Junfeng and actors Bobbi Chen and Joshua Tan at the 2010 Cannes Film Festival.<i> Courtesy of Cannes Film Festival, International Critics’ Week.</i></div>
 
 Lesser known, however, is the period of quiet study that marked the research that went into this history-rich cinematic work. We caught up with Boo during a brief window of time between festivals in Toronto and London, where we talked about history, the National Library and the research process behind the making of *Sandcastle*.
@@ -61,11 +61,19 @@ We may take creative license when certain facts may not fit our creative agenda,
 
 What is intuitive, eventually, is what I take away from all the information that I come across, and how I build characters, their lives, their relationships, the dynamics within these relationships and then the story flows from there. But the space in which this occurs in has always been factual. After *Sandcastle* was released, it sparked a lot of interest from many people in the academic communities and amongst historians. This is the first time something like that is represented in a fictional film, and one of these interested parties happened to be Hong Lysa, whose book I read while working on the film.
 
+![](/images/Vol%207%20Issue%201/UndiscoveredSpaces/sandcastle.jpg)
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/sandcastle.jpg">
+ <div style="background-color: white;">All rights reserved, Zhao Wei Films.</div>
+
 Obviously, it is quite intimidating to meet and have a historian interview you about something you built based on your imagination of the past, but because of the research I had done, I was actually able to have a conversation with her. Much of this research lends to my credibility as a filmmaker and also to the credibility of the work, and gives it something to anchor itself onto, which is quite important.
 
 #### **Can libraries better serve the art or filmmaking community?**
 
 I have nothing to complain about since most of my needs for the purpose of research were met. It really is the researcher’s job \[to seek resources\]. I feel that what the library is doing is really good. I have friends from Korea who were very impressed that they could return a library book at any library across the island. I hope for Level 11 to be kept quiet and conducive. It will always be a place I know I can go to if I need that quiet space to think.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/Boo.jpg">
+ <div style="background-color: white;">Boo Junfeng directs a scene on the set of <i>Sandcastle. Courtesy of Boo Junfeng.</i></div>
 
 I think what the library provides is not only knowledge and information but a space. Not everyone can have a quiet apartment with a beautiful view, so what a library provides is this space. This is why people were so attached to and emotional about the old Stamford library. Every city needs a library, because every city is noisy and distracting. The library is an oasis.
 
