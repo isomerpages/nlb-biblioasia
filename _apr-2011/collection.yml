@@ -2,5 +2,6 @@ collections:
   apr-2011:
     output: true
     order:
+      - Popular Music in 1960s Singapore.md
       - "Drying Fish in Singapore Art: Making Sense of the Nanyang Style.md"
       - Director's Column.md
