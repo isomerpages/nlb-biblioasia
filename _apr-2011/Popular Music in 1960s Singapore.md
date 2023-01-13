@@ -90,8 +90,28 @@ The author wishes to acknowledge the contributions of Dr Mark Emmanuel, Departme
 <center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library
 </div>
 
+
 #### **REFERENCES**
 	
+Burhanudin Buang. (2001). [_Pop Yeh Yeh music in Singapore, 1963–1971_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842354). Singapore: National University of Singapore. (Call no.: RSING 781.629928095957 BUR)
+
+Cheong, V. (2008). _Singapore 60’s pop music hall of fame._ Retrieved from mocamborainbow.blogspot.com website.
+
+Chua, H. (2001). [_Call it Shanty: The story of The Quests_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300)_._ Singapore: BigO Books. (Call no.: RSING 781.66 CHU)
+
+Conceicao, R. (2009). [_To be rock but not to roll: A 40-year odyssey (1966–2006) of a Singapore pop musician, Jerry Fernandez_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13210675)_._ Singapore: Comdesign Associates. (Call no.: RSING 781.64092 CON)
+
+Kong. L. (1999). The invention of heritage: Popular music in Singapore. _Asian Studies Review, 23_ (1), 1–25.
+
+Lent, J.A. (Ed.). (1995). [_Asian popular culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7374855)_._ Boulder: Westview Press. (Call no.: RSING 306.095 ASI)
+
+Lockard, C.A. (1998). [_Dance of life: Popular music and politics in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8074419)_._ Honolulu, Hawaii: University of Hawaii Press. (Call no.: RSING 306.484 LOC)
+
+[_On the record \[sound recording\]: Homegrown bands from then and now_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186479)_._ (2007). Singapore: National Library Board. (Call no.: RSING 782.42161 ON)
+
+Pereira, J.C. (1999). [_Legends of the golden venus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045)_._ Singapore: Times Editions. (Call no.: RSING q781.64095957 PER)
+
+Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved from Fancymag.com website.
 
 
 
@@ -105,17 +125,7 @@ The author wishes to acknowledge the contributions of Dr Mark Emmanuel, Departme
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+	
 
 
 
