@@ -61,8 +61,6 @@ We may take creative license when certain facts may not fit our creative agenda,
 
 What is intuitive, eventually, is what I take away from all the information that I come across, and how I build characters, their lives, their relationships, the dynamics within these relationships and then the story flows from there. But the space in which this occurs in has always been factual. After *Sandcastle* was released, it sparked a lot of interest from many people in the academic communities and amongst historians. This is the first time something like that is represented in a fictional film, and one of these interested parties happened to be Hong Lysa, whose book I read while working on the film.
 
-![](/images/Vol%207%20Issue%201/UndiscoveredSpaces/sandcastle.jpg)
-
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/sandcastle.jpg">
  <div style="background-color: white;">All rights reserved, Zhao Wei Films.</div>
 
