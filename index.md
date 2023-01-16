@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/
-      button: A VOICE FOR THE WILD
+      button: A MAN OF NATURE
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
