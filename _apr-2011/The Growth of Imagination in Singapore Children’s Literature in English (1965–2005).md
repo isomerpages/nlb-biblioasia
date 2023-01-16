@@ -281,15 +281,15 @@ Veloo, R. (1990). [_Kampung chicken_](https://eservice.nlb.gov.sg/item_holding.a
 
 Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.  
 
-&emsp;Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via PublicationSG)  
-&emsp;Wee, J. (1980). [_Mooty and the satay-man_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141043). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
-&emsp;Wee, J. (1980). [_Mooty falls in love_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141050). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
-&emsp;Wee, J. (1980). [_Mooty goes to school_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141046). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
-&emsp;Wee, J. (1980). [_Mooty has a son_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141051). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+&emsp;Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via &emsp;PublicationSG)  
+&emsp;Wee, J. (1980). [_Mooty and the satay-man_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141043). Singapore: Federal Publications. (Call no.: &emsp;JRSING 428.6 WEE)  
+&emsp;Wee, J. (1980). [_Mooty falls in love_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141050). Singapore: Federal Publications. (Call no.: JRSING 428.6 &emsp;WEE)  
+&emsp;Wee, J. (1980). [_Mooty goes to school_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141046). Singapore: Federal Publications. (Call no.: JRSING &emsp;428.6 WEE)  
+&emsp;Wee, J. (1980). [_Mooty has a son_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141051). Singapore: Federal &emsp;Publications. (Call no.: &emsp;JRSING 428.6 WEE)  
 &emsp;Wee, J. (1988). [_Mooty moves out_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982465). Singapore: Federal Publications. (Available via PublicationSG)  
-&emsp;Wee, J. (1980). [_Mooty plays hide-and-seek_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141047). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
-&emsp;Wee, J. (1980). [_Mooty saves a life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141045). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
-&emsp;Wee, J. (1980). [_Mooty the space-mouse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141049). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)
+&emsp;Wee, J. (1980). [_Mooty plays hide-and-seek_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141047). Singapore: Federal Publications. (Call no.: JRSING 428.6 &emsp;WEE)  
+&emsp;Wee, J. (1980). [_Mooty saves a life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141045). Singapore: Federal Publications. (Call no.: JRSING 428.6 &emsp;WEE)  
+&emsp;Wee, J. (1980). [_Mooty the space-mouse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141049). Singapore: Federal Publications. (Call no.: JRSING &emsp;428.6 WEE)
 
 Wee, J. (1984). [_Boo!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7247900) Singapore: Educational Publications Bureau. (Call no.: RCLOS S823 WEE)
 
