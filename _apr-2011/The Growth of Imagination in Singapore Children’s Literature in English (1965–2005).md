@@ -139,7 +139,7 @@ This is also echoed by Singh (1993/94), who argued that “the years of followin
 &emsp;I am not assured that the direction we are taking is <br>
 &emsp;altogether wholesome or qualitatively better. <br>
 &emsp;There are areas in which it would behove us to be critical if <br>
-&emsp;our literature is going to make the kind of international <br> 
+&emsp;our literature is going to make the kind of international<br> 
 &emsp;impact it deserves to make. (Singh, 1993/94, p. 21)
 
 #### **The New Millennium (2000s)**
@@ -166,8 +166,3 @@ As we enter the new millennium (i.e., 2000s), better and more interesting books 
 <br/>
 <img src="/images/Authors/Nac.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian<br>Research Fellow (2010)<center> </div>
-
-
-
-
-
