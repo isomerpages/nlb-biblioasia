@@ -84,7 +84,7 @@ The adventure story was the hot favourite for all three age groups during that t
 &emsp;do appeal to all three groups, but especially the <br>
 &emsp;youngest readers. (Nair et al., 1977, p. 11)
 
-
+In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year, keep Singapore clean, bilingualism in schools, multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975).
 
 
 
