@@ -8,6 +8,9 @@ description: "Lee Kong Chian Research Fellow Noel Chia Kok Hwee’s traces the
 ---
 #### Lee Kong Chian Research Fellow _Noel Chia Kok Hwee_’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English.
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Boo.jpg">
+ <div style="background-color: white;">All rights reserved, Educational Publications Bureau. 1985.</div>
+
 My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown & Tomlinson, 2008; Tomlinson & Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels[^1] — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
 
 The term *imagination* is defined as that literary process of the mind to generate mental images of objects, states or actions not felt or experienced by the senses. Imagination is usually synonymous with “fancy, and commonly opposed to the faculty of reason, either as complementary to it or as contrary to it”.[^2] According to Sewall (1999) and Roth (2004), imagination helps bridge readers and their environment to create meaningful experiences and understanding of knowledge. It is a fundamental facility through which readers make sense of the world (Norman, 2000; Sutton-Smith, 1988) and also plays an important role in the learning process (Egan, 1992; Norman, 2000).
@@ -121,8 +124,10 @@ Despite the publication of books in the genre of imaginative children’s fictio
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation6.jpg">
  <div style="background-color: white;">(Left) All rights reserved, Longman Malaysia. 1982. (Right) All rights reserved, Longman Singapore. 1985.</div>
 
-
 However, books published in the 1980s showed marked improvements in visual presentation. Publishers explored the use of quality colours and illustrations for children’s books, such as Jessie Wee’s *Boo!* (1984), which has an attractive cover illustration. Jessie Wee, undeniably a forerunner in writing for children in Singapore, is a significant contributor to SCLE. Her series, *The Adventures of Mooty* (1980,) has been popular  from the time it was released and set a milestone in creative Singapore children’s literature. Jessie Wee’s focused attempt to write children’s stories in the context of Singapore is characteristic of her inimitable writing style.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/DSC_9065_1.jpg">
+ <div style="background-color: white;">All rights reserved, Marshall Cavendish Children. c.2009.</div>
 
 During this period, publishers would generally publish according to perceived market demand, such as catering “to the buying preference of parents for ‘useful’ reading by producing (1) folktales because these help children to learn about their culture, (2) stories with a moral so that children learn good values, and (3) supplementary readers with comprehension exercises so that children can improve their reading skills” (Khoo, 1990/91, p. 20).
 
