@@ -42,11 +42,37 @@ One of the early roadblocks to the growth of Singapore children’s literature h
 &emsp;factors, and by consciously emphasising points of<br> 
 &emsp;view more in conformity with the spirit of the times, and<br> 
 &emsp;with our national needs and aspirations. (as cited in<br> 
-&emsp;Girvin, 1976, p. 7)
+&emsp;Girvin, 1976, p. 7)</center> 
 
 A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong & Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101)
 
 I was able to identify only one trade book published during this period: Sylvia Sherry’s *Street of the Small Night Market* (1966). Others were merely basal readers such as the *Federal Supplementary Readers Third Year(Book 3)* (1961), the *Federal Readers Book 1* (1963), and *Structural English Course Reader 4* (1968). It was in a third course reader that I found an interesting story, *The King of Fishes* (1968) by Chia Meng Ann and Chia Hearn Chek. “Although the literature addressed reading discovery, it was positioned to address reading needs first and often the tone of the materials was didactic if not dull.” (National Library Board, 2005, p. 2)
+	
+#### **The Pioneering Period (1970s)**	
+
+A serious effort to promote the writing of children’s books began with the Workshop on Children’s Books “organised by the National Book Development Council of Singapore (NBDCS) to coincide with a week’s visit of Ivan Southall, an Australian children’s writer, at its invitation from 8–15 October, 1971” (Anuar, 1972, p. 3). In the opening speech, the late principal of the Teachers’ Training College, Dr Ruth Wong stressed the role of books for children:
+
+<center>&emsp;… if the individual himself has rich experience, he can<br>
+&emsp;through print ‘feel’ in his being as he reads, and be <br>
+&emsp;just as depth conscious as through the more instantly<br> 
+&emsp;tactile medium of TV. Furthermore, where \[electronic\]<br> 
+&emsp;media make for uniformity, print still enables the<br> 
+&emsp;individual to withdraw into his private sanctum where<br> 
+&emsp;he can meet himself. (Wong, 1972, p. 5)</center>
+
+In other words, books can provide a glimpse of imagination experienced by avid readers if they immerse themselves into that fictive world.
+
+Folktales, fables and basal readers dominated SCLE in the 1970s. Didacticism from the previous period was also carried over into this period. According to Nair et al. (1977), a survey study done by the National Library covering three age groups showed their reading preference in the following order of appreciation (p. 11):
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/table.jpg">
+<div style="background-color: white;"></div>
+
+The adventure story was the hot favourite for all three age groups during that time, followed by myths and legends. According to Nair,
+
+
+
+
+
 
 
 
