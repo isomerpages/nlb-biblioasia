@@ -84,7 +84,64 @@ The adventure story was the hot favourite for all three age groups during that t
 &emsp;do appeal to all three groups, but especially the <br>
 &emsp;youngest readers. (Nair et al., 1977, p. 11)
 
-In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year, keep Singapore clean, bilingualism in schools, multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975).
+In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year, keep Singapore clean, bilingualism in schools, multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975). 
+
+One reason why SCLE during this period lacked imaginativity was also partly due to children’s reading abilities and power of imagination. Mature or sophisticated readers were few. Literary genres such as fantasy, suspense and science fiction (FSSF for short) that appeal to creative imagination, curiosity or wonder had limited appeal to our young readers then (Nair et al., 1977). From the reading survey done by the Children’s Services of the National Library in 1976, the youngest group of readers in Singapore did not read books in the FSSF category at all while the other two groups showed the following preferences (Nair et al., 1977, p. 11):
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Capture2.jpg">
+<div style="background-color: white;"></div>
+
+It should be noted that titles in the science fiction category were of limited availability compared to adventure stories and myths and legends (in the ratio of 9:99). Nair et al. (1977) explained why FSSF had such poor appeal:
+
+&emsp;… both science fiction and sometimes fantasy <br>
+&emsp;demands of the reader a certain amount of <br>
+&emsp;sophisticated knowledge of science and the jargon of <br>
+&emsp;space science, and this may be lacking in most 
+&emsp;areas where there is no tradition of Western type education,<br>
+&emsp;in children of these ages. (p. 13)
+
+Another important contributing factor during the 1970s was that not all children were attending English-medium schools. This might explain why Singapore writers rarely ventured into fantasy, suspense and science fiction, and the publishers were not keen to publish books of this category.
+
+During the 1970s, important changes had been made to the primary school curriculum. The emphasis in the English syllabus was on language enrichment through storytelling, poetry, creative writing and educational drama. The new enrichment programme created excellent opportunities for the publishing of children’s literature in Singapore (Girvin, 1976).
+
+At a seminar on the role of educational materials in Singapore schools, held in 1973, the late Marie Bong, principal of Katong Convent, emphasised the urgent need for a variety of interesting books that would appeal to children so as to expose them “to the rich resources of language and stimulate them to read and write stories of their own” (as cited in Girvin, 1976, p. 6). This exposure was seen as vital and schools began to break away from the rigid textbook course of study, but success of the system, as Girvin (1976) argued, “will depend on there being sufficient supply of general literature for children to meet the demands at each level of the child’s understanding. Publishers must answer these needs.” (pp. 6–7)
+
+#### **The Emergent Period (1980s)**
+
+Strictly speaking, SCLE only emerged in the 1980s, as evidenced by two national reading surveys, one conducted in 1980 and the other in 1988. The survey findings showed an increase in readership over that period as well as changing reading habits and tastes. However, few were reading books written by Singapore writers and many simply responded with “don’t know” to the questions asked about local writers and their writings (National Book Development Council of Singapore, 1981). The *Report of the Committee on Literacy Arts* (Ministry of Community Development, 1988) pointed out that Singaporeans tended to have a utilitarian attitude towards reading. They read to increase general knowledge and to keep abreast of current affairs as well as to pass tests and examinations, not for pleasure.
+
+Despite the publication of books in the genre of imaginative children’s fiction such as T*he Friendly Malcinds* (Blair, 1982) and The Little People of Malcindia (Blair, 1985), these works often read as forced and artificial in their attempts “to create a Singaporean multi-ethnic identity by incorporating qualities from each of the three main races in Singapore” (Khoo, 1990/91, p. 21). They were still lacking the kind of real imagination (also known as imagining or fantasising), which J. S. Mill (as cited in Leavis, 1950), describes as that which enables us to voluntarily conceive the absent as if it were present, the imaginary as if it were real, and to clothe it in the feelings which, if it were indeed real, it would bring along with it. “This is the power by which one human being enters into the mind and circumstances of another” (Chia, 1991, p. 22) in somewhat a similar fashion like the main protagonist, Jake Scully, who entered into the body of an avatar in order to be in close contact with the Na’vi tribe, shown in the recent Oscar award-winning blockbuster movie Avatar and described in James Cameron’s book entitled *Avatar: The Na’vi Quest* (2009).
+
+However, books published in the 1980s showed marked improvements in visual presentation. Publishers explored the use of quality colours and illustrations for children’s books, such as Jessie Wee’s *Boo!* (1984), which has an attractive cover illustration. Jessie Wee, undeniably a forerunner in writing for children in Singapore, is a significant contributor to SCLE. Her series, *The Adventures of Mooty* (1980,) has been popular  from the time it was released and set a milestone in creative Singapore children’s literature. Jessie Wee’s focused attempt to write children’s stories in the context of Singapore is characteristic of her inimitable writing style.
+
+During this period, publishers would generally publish according to perceived market demand, such as catering “to the buying preference of parents for ‘useful’ reading by producing (1) folktales because these help children to learn about their culture, (2) stories with a moral so that children learn good values, and (3) supplementary readers with comprehension exercises so that children can improve their reading skills” (Khoo, 1990/91, p. 20).
+
+#### **The Progressive Period (1990s)**
+
+Although still very much in its infancy, the 1990s witnessed a relative boom in locally authored SCLE. According to Wee (1990/91), “it is the passionate belief that our children in Singapore need stories they can identify with, stories they can call their own” (p. 38). This is the driving force for many of the Singapore writers of children’s fiction. SCLE took on a contemporary edge with an increasing public interest and acceptance, and publishing output improved as more writers entered the scene in the 1990s.
+
+At the beginning of the 1990s there was a seminar,* In Search of a Singapore Children’s Literature*, September 6–7, 1990, organised by the National Book Development Council of Singapore (NBDCS) to create “public awareness of the need for good children’s books” (Anuar, 1990/91, p. 1). Anuar (1990/91) argued for the need to take writing for children as seriously as writing for adults, adding that “… children are part of the human race, not a separate species. And children’s literature is or should be part of a country’s literature” (Anuar, 1990/91, p. 1).
+
+A new crop of writers and publications appeared on the literary scene during this period, such as Ravi Veloo with *Kampung Chicken* (1990), Noel Chia with *Iron Pa Pa* (1993) and Ramanathan Chandran with *I Have Touched the Moon!* (1997). It is also during this period that Singapore witnessed a boom in publications of SCLE. Singh (1993/94) reported that “\[t\]he situation … seems remarkably different in terms of the quantitative progress our fiction has witnessed in the passing years. Almost every bookshop, even the mama stalls which usually stock only magazines, carries \[sic\] Singapore titles” (p. 21). There were also a number of new authors who paid out of their own pockets to publish their books rather than go through a publisher. However, the quality of these children’s fiction books (e.g., editing and illustrations) was poor and mostly in the genre of ghost and horror stories.
+
+In 1993, a reading survey conducted by the National Library found that “the percentage of literate persons who had read just one book in the last 12 months had decreased by 7% from 57% down to 50% over the last 13 years” (Butterworth, 1994, p. 5). Despite a drop in library membership, Koh (1994) reported that the fostering of the reading habit among children was being given a higher priority and had achieved some success. Figures from the National Library showed that loans of children’s books increased from 1.63 million in 1980 to 4.79 million in 1993, and “the expansion of the scheme to set up neighbourhood children’s libraries in the void decks of HDB flats … will give greater access to quality collections” (Koh, 1994, p. 4).
+
+In other words, Singapore writers had to work even harder, tapping into their inspiration, imagination and creativity to produce higher, if not superb, quality children’s books like that of Michael Ende’s *Die Unendliche Geschichte* \[Translated from German: *The Neverending Story*\] (1979) and Rick Riordan’s *Percy Jackson and the Olympians* (2008) series. Good SCLE should be able to enchant young readers into wanting more of such books; establishing quality SCLE begins the creation of the sense of one’s own literary landscape in our children (Lee, 1990/91).
+
+In other words, Singapore writers had to work even harder, tapping into their inspiration, imagination and creativity to produce higher, if not superb, quality children’s books like that of Michael Ende’s Die Unendliche Geschichte \[Translated from German: *The Neverending Story*\] (1979) and Rick Riordan’s *Percy Jackson and the Olympians* (2008) series. Good SCLE should be able to enchant young readers into wanting more of such books; establishing quality SCLE begins the creation of the sense of one’s own literary landscape in our children (Lee, 1990/91).
+
+This is also echoed by Singh (1993/94), who argued that “the years of following \[from 1993 onwards\] should see an increase in the output of ‘popular’ fiction; e.g., ghost stories, sensational stories of one description or another” (p. 21). He cautioned:
+
+&emsp;… should the trend carry on for more than<br> 
+&emsp;four or five years then we would have to <br>
+&emsp;rethink seriously the direction our writers were <br>
+&emsp;taking. In reading some of the recent fiction published <br>
+&emsp;I am not assured that the direction we are taking is <br>
+&emsp;altogether wholesome or qualitatively better. <br>
+&emsp;There are areas in which it would behove us to be critical if <br>
+&emsp;our literature is going to make the kind of international <br>
+&emsp;impact it deserves to make. (Singh, 1993/94, p. 21)
+
 
 
 
