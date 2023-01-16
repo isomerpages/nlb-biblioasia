@@ -35,7 +35,7 @@ One of the early roadblocks to the growth of Singapore children’s literature h
 &emsp;who understand the role of authorship in relation to<br>
 &emsp;the new political status and urgent social needs of <br>
 &emsp;our country. It is only local authors who could have a<br>
-&emsp;sense of social awareness, a real understanding of
+&emsp;sense of social awareness, a real understanding of<br>
 &emsp;the various aspects of the local environment and above<br>
 &emsp; all a true appreciation of the national aspirations and <br> 												&emsp;strivings of our people, and contribute by making <br>
 &emsp;appropriate references and allusions to local conditions<br> 
@@ -68,6 +68,21 @@ Folktales, fables and basal readers dominated SCLE in the 1970s. Didacticism fro
 <div style="background-color: white;"></div>
 
 The adventure story was the hot favourite for all three age groups during that time, followed by myths and legends. According to Nair,
+
+&emsp;Adventure stories are favoured way and away from<br> 
+&emsp;myths and legends, in the above 12 age group<br> 
+&emsp;but \[the latter\] share the first place with adventure <br>
+&emsp;where younger readers of the 8–10 age group are <br>
+&emsp;concerned. What is surprising is the prominence <br>
+&emsp;given to the classics by the older children, being <br>
+&emsp;fourth favoured by both groups. School stories are <br>
+&emsp;second favourite for the older children but are not <br>
+&emsp;important to the youngest readers and are only as <br>
+&emsp;important as the classics to readers in the 11–12<br>
+&emsp;group. Family stories and western and historical <br>
+&emsp;fiction are not well favoured, though animal stories <br>
+&emsp;do appeal to all three groups, but especially the <br>
+&emsp;youngest readers. (Nair et al., 1977, p. 11)
 
 
 
