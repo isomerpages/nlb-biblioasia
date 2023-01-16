@@ -8,15 +8,15 @@ description: "Lee Kong Chian Research Fellow Noel Chia Kok Hwee’s traces the
 ---
 #### Lee Kong Chian Research Fellow _Noel Chia Kok Hwee_’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English.
 
-My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown & Tomlinson, 2008; Tomlinson & Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels1 — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
+My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown & Tomlinson, 2008; Tomlinson & Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels[^1] — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
 
-The term *imagination* is defined as that literary process of the mind to generate mental images of objects, states or actions not felt or experienced by the senses. Imagination is usually synonymous with “fancy, and commonly opposed to the faculty of reason, either as complementary to it or as contrary to it”.2 According to Sewall (1999) and Roth (2004), imagination helps bridge readers and their environment to create meaningful experiences and understanding of knowledge. It is a fundamental facility through which readers make sense of the world (Norman, 2000; Sutton-Smith, 1988) and also plays an important role in the learning process (Egan, 1992; Norman, 2000).
+The term *imagination* is defined as that literary process of the mind to generate mental images of objects, states or actions not felt or experienced by the senses. Imagination is usually synonymous with “fancy, and commonly opposed to the faculty of reason, either as complementary to it or as contrary to it”.[^2] According to Sewall (1999) and Roth (2004), imagination helps bridge readers and their environment to create meaningful experiences and understanding of knowledge. It is a fundamental facility through which readers make sense of the world (Norman, 2000; Sutton-Smith, 1988) and also plays an important role in the learning process (Egan, 1992; Norman, 2000).
 
-The other term *verisimilitude* (also known as *truth-likeness*) is the semblance of truth or reality in literary works or the literary principle that requires a consistent illusion of truth to life. It encompasses both the exclusion of improbabilities (as in realism) and the careful disguising of improbabilities in nonrealistic works.3 Verisimilitude also refers to the other literary process that is “often invoked in fantasy and science fiction inviting readers to pretend such stories are true by referring to objects of the mind such as fictional books or years that do not exist apart from an imaginary world” (Roth, 2004, p. 10). This imaginary world is also known as *meta-world* (Chia, 1991).
+The other term *verisimilitude* (also known as *truth-likeness*) is the semblance of truth or reality in literary works or the literary principle that requires a consistent illusion of truth to life. It encompasses both the exclusion of improbabilities (as in realism) and the careful disguising of improbabilities in nonrealistic works.[^3] Verisimilitude also refers to the other literary process that is “often invoked in fantasy and science fiction inviting readers to pretend such stories are true by referring to objects of the mind such as fictional books or years that do not exist apart from an imaginary world” (Roth, 2004, p. 10). This imaginary world is also known as *meta-world* (Chia, 1991).
 
 By seeing the world around them in new ways and by considering ways of living other than their own, children increase their ability to think divergently. Stories often map the divergent paths that our ancestors might have taken or that our descendants might someday take. “Through the vicarious experience of entering a world different from the present one, children develop their imaginations. In addition, stories about people, both real and imaginary, can inspire children to overcome obstacles, accept different perspectives, and formulate personal goals.” (Lynch Brown & Tomlinson, 2008, p. 5)
 
-Moreover, children’s books with a high degree of *imaginativity*4 provide the highest level of *reader enchantment*, which is an endogenous process that stimulates a reader’s mind. This process throws readers into that meta-world where they can take part in any adventure, journey or exploration (Chia, 2004). It makes readers want to go on and not stop reading. In this sense, they have gone beyond automaticity. They are now a part of that story and have become either like *avatars* participating in the fantasy world, or like *morpheus* watching the events gradually unfolding. The final outcome is a sensitive awareness of imaginativity in children’s literature.
+Moreover, children’s books with a high degree of *imaginativity*[^4]provide the highest level of *reader enchantment*, which is an endogenous process that stimulates a reader’s mind. This process throws readers into that meta-world where they can take part in any adventure, journey or exploration (Chia, 2004). It makes readers want to go on and not stop reading. In this sense, they have gone beyond automaticity. They are now a part of that story and have become either like *avatars* participating in the fantasy world, or like *morpheus* watching the events gradually unfolding. The final outcome is a sensitive awareness of imaginativity in children’s literature.
 
 Promoting SCLE by encouraging reading for pleasure among our children demands special effort in translating written language or print into *meta-worlds* (or realms of fantasy) — “worlds within worlds whose reality is primarily in the mind” (Roloff, 1973). Though a meta-world is a reality only within the mental boundaries of the mind, the existence of such realms can be readily accepted by most readers (Chia, 1991, 1996). Regardless of how peculiar or remote it may seem, readers should be sufficiently convinced that the *meta-world* really exists — they must believe in it and need to suspend their disbelief (just as if they were role-playing). This is the power of imagination that good children’s literature can help promote.
 
@@ -165,4 +165,146 @@ As we enter the new millennium (i.e., 2000s), better and more interesting books 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Nac.jpg" style="width: 100px; height: 100px;"/>
-<center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian<br>Research Fellow (2010)<center> </div>
+<center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian<br>Research Fellow (2010)</center></div>
+	
+#### **REFERENCES**
+
+Anuar, H. (1972, November). Workshop on children’s books, Singapore 11–13 October 1971. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_, 3_, 3–4. (Call no.: RSING 070.5095957 SBW)  
+  
+Blair, A. (1982). [_The friendly Malcinds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4567886). Singapore: Longman Malaysia. (Call no.: RCLOS 823.01 BLA)
+
+Blair, A. (1985). [_The little people of Malcindia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4567880). Singapore: Longman. (Call No.: RCLOS 823.01 BLA)
+
+Butterworth, M. (1994). The book behind the terminal: Electronic tools help children find what they want in bookshops and libraries. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_, 24_, 5–10. (Call no.: RSING 070.5095957 SBW)
+
+Cameron, J. (2009). _Avatar: The Na’vi_ _quest_. New York, NY: HarperCollins.
+
+Chandran, R. (1997).  [_I have touched the moon!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919192) Singapore: NTUC Childcare Co-operative. (Call no. JRSING 428 SHA)
+
+Chia, N.K.H. (1991). The imaginative creation of metalworlds in the recreational reading process. _Education Today, 41_ (3), 22–25.
+
+Chia, N.K.H. (1993). [_Iron Pa Pa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6583936)_._ Singapore: Cobee Publishing House. (Call no.: JR S823 CHI)
+
+Chia, N.K.H. (1996, November/December). The Neverland of fantasy. [_Family Tree_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7667326), 14. (Call no.: RCLOS q052 FT)
+
+Chia, N.K.H. (2004). R=T(D+C)+M… and what else? [_SRL newsletter_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5260597)_, 17_ (3), 3–9. (Call no.: RSING 372.405 SRLN)
+
+Dudley, C. (2001). [_Tales from the islands of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10852772)_._ Singapore: Landmarks Books. (Call no.: RSING 398.2095957 CHI)
+
+Ende, M. (1979). _Die unendiiche geschichte_ \[_The neverending story_\]. Stuttgart, Germany: Thienemann Verlag.
+
+Egan, K. (1992). _Imagination in teaching and learning._ Chicago: University of Chicago Press.
+
+Gan, L. (2000). _A treasury of Asian folktales._ Singapore: Earlybird Books.
+
+Girvin, M. (1976). Planning, production and distribution of children’s books: The Singapore situation. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_, 7_, 6–10. (Call no.: RSING 070.5095957 SBW)  
+  
+Hassan, F. (2006, July). Beyond the readers and folktales: Observations about Singapore children’s literature. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 2_ (2), 16–19. Retrieved from BiblioAsia website.
+
+Khoo, S.L. (1990/91). Children’s literature in English. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_, 20_, 20–25. (Call no.: RSING 070.5095957 SBW)
+
+Khoo, S.L. (1992). [_A study of the problems inherent in attempting to define a literature for children_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340072). \[n.p.\]. (Call no.: RSING 809.89282 KHO)
+
+Koh, B.S. (1994, July 4). [Private sponsorship of libraries can spur the reading habit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940704-1.2.60.3.2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+Kong, L., & Tay, L. (1998). Exalting the past: Nostalgia and the construction of heritage in children’s literature. _Area, 30_ (2), 133–143. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Leavis, F.R. (1950). _Mill on Bentham and Coleridge._ London, UK: Chatto.  
+  
+Lee, T.P. (1990/91). Keynote address by Lee Tzu Pheng at the seminar: In search of a Singapore Children’s Literature, 6–7, September 1990. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_,_ _20_, 8–17. (Call no.: RSING 070.5095957 SBW)
+
+Lim, P.H.L. (Ed.). (2009). [_Chronicle of Singapore: Fifty years of headline news 1959–2009_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200134540)_._ Singapore: Editions Didier Millet & National Library Board. (Call no.: RSING 959.5705 CHR)
+
+Lynch-Brown, C., & Tomlinson, C.M. (2008). _Essentials of children’s literature._ Boston, MA: Pearson Education.  
+  
+Media Development Authority. (2005, September 15). _New publishing initiative for aspiring writers and illustrators._ Retrieved from Infocomm Media Development Authority website. Ministry of Community Development. (1988). [_Report of the committee on literary arts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5084315)_._ Singapore: Ministry of Community Development. (Call no.: RSING S820 SIN)
+
+Nair, C. et al. (1977). Common elements in books children like; The Singapore experience. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_,_ _8_, 9–18. (Call no.: RSING 070.5095957 SBW)
+
+National Book Development Council of Singapore. (1981). [_A guide to writing of children’s books: Proceedings of the writer’s workshop on children’s books_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082283) (pp. 36–42). Singapore: Educational Publications Bureau. (Call no.: RSING 808.0683 WRI)
+
+National Library Board. (2005). [_Singapore children’s literature: An annotated bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645028)_._ Singapore: National Library Board. (Call no.: RSING 015.5957 SIN)Ng, M. (2010, May 2). [Writing bestsellers for kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100502-1.2.52.1.5). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+Ng, M. (2010, March 1). [J.K Rowling of our own?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100301-1.2.60.1.6) _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+Norman, R. (2000). _Cultivating imagination_ \[Unpublished paper presented at the Adult Education Proceedings of the 41st Annual Adult Education Research, Vancouver, Canada, June 2–4\].
+
+Riordan, R (2008). [_Percy jackson and the olympians, books i-iii \[electronic resource\], books 1–3_](https://nlb.overdrive.com/search/series?query=Percy%20Jackson%20and%20the%20Olympians&sortBy=newlyadded). New York, NY; Hyperion Books for Children. Retrieved from OverDrive. (myLibrary ID is required to access this ebook)  
+  
+Roloff, L.H. (1973). _The perception and evocation of literature._ Boston, MA: Scott & Foresman.  
+  
+Roth, I. (2004). _World of the mind: Imagination_. Retrieved from answers.com website.
+
+Seow, D. (2004).  [_The littlest emperor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12270927)_._ Boston, MA: Tuttle. (Call no.: JRSING 398.2 SEO)
+
+Sewall, L. (1999, Autumn). Imagination: Creating a new reality. _Orion, 17_ (4).
+
+Singh, K. (1993/94). Singapore fiction in English: Some reflections…”. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457), _23_, 21–23. (Call no.: RSING 070.5095957 SBW)
+
+Sutton-Smith, B. (1988). In search of the imagination. In K. Egan & D. Nadaner (Eds.), _Imagination and education_ (p. 22). New York, NY: Teachers College Press.  
+  
+Tomlinson, C.M., & Lynch-Brown, C. (2010). _Essentials of young adult literature._ Boston, MA: Pearson Education.
+
+Wee, J. (1990/91). The writer’s view. Presented during session 3: The creation and distribution of children’s literature, at the Seminar: In search of a Singapore Children’s Literature, September 6–7 September, 1990. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457), _20_, 38–40. (Call no.: RSING 070.5095957 SBW)
+
+Wong, R. (1972, November). Speech by Dr Ruth Wongat the opening of the workshop on children’s books. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457), _3_, 5–6. (Call no.: RSING 070.5095957 SBW)
+
+#### **BIBLIOGRAPHY**
+
+_Active readers series._ (1970). Singapore: Federal Publications.  
+  
+Akbar, A. (1961). [_Federal supplementary readers. Third year (Book3)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200105991)_._ Singapore: Federal Publications. (Available via PublicationSG)
+
+Blair, A. (1982). [_The friendly Malcinds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4567886). Singapore: Longman Malaysia. (Call no.: RCLOS 823.01 BLA)
+
+Blair, A. (1985). [_The little people of Malcindia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4567880). Singapore: Longman. (Call no.: RCLOS 823.01 BLA)
+
+Chan, K.I. (1979). [_Ah Lee the road sweeper_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139963)_._ Singapore: Education Publications Bureau. (Call no.: RCLOS 428.6 CHA)  
+  
+Chia, H.C. (1974). [_The Redhill_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4608965) (Moongate Collection: Folktales from the Orient). Singapore: Federal-Alpha. (Available via PublicationSG)
+
+Chia, H.C. (1975). [_The Raja's crown: A Singapore folktale_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4238083) (Moongate Collection: Folktales from the Orient). Singapore: Federal-Alpha. (Available via PublicationSG)
+
+Chia, M.A., & Chia, H.C. (1968). [_The king of fishes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761654). Singapore: Donald Moore Press. (Call no.: RCLOS 428.6 CHI)  
+  
+[_Courtesy is John’s way of life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412104)_._ (1979). Singapore: Seamaster Publishers. (Call no.: JRSING 428.6 SEA)
+
+[_Federal readers. Book one_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12605026). (1963). Singapore: Federal Publications. (Call no.: RCLOS 428.6 FED)
+
+Ministry of Education. (1975). _The Singapore youth festival_. Singapore: Educational Publications Bureau. (Not available in NLB holdings)
+
+Sherry, S. (1985). [_Street of the small night market_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5392307)_._ Singapore: Times Books International. (Call no.: RSING 823.914 SHE)
+
+Tan, B.Y., & Chia, H.C. (1978). [_New way readers 1A_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200005932)_._ Singapore: Pan Pacific Book Distributors. (Available via PublicationSG)
+
+Veloo, R. (1990). [_Kampung chicken_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5407892). Singapore: Angsana Books. (Call no.: RSING S823 VEL)
+
+Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.  
+
+Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via PublicationSG)  
+Wee, J. (1980). [_Mooty and the satay-man_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141043). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+Wee, J. (1980). [_Mooty falls in love_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141050). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+Wee, J. (1980). [_Mooty goes to school_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141046). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+Wee, J. (1980). [_Mooty has a son_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141051). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+Wee, J. (1988). [_Mooty moves out_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982465). Singapore: Federal Publications. (Available via PublicationSG)  
+Wee, J. (1980). [_Mooty plays hide-and-seek_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141047). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+Wee, J. (1980). [_Mooty saves a life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141045). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+Wee, J. (1980). [_Mooty the space-mouse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141049). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)
+
+Wee, J. (1984). [_Boo!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7247900) Singapore: Educational Publications Bureau. (Call no.: RCLOS S823 WEE)
+
+#### **NOTES**
+
+[^1]: Literary processing channels, also known as fantasising (see Chia, 1991, 1996a), are unlike the literacy processing channels, which involve reading and writing processes.
+
+[^2]: See http://www.answers.com/topic/imagination
+
+[^3]: See [http://www.answers.com/topic/verisimilitude](http://www.answers.com/topic/verisimilitude)
+
+[^4]: The term imaginativity is coined here to denote the ability to reproduce mental images as a result of apprehending the textual and/or non-textual experiences by means of the senses or of the mind, or to recombine previous experiences in producing new images directed at a specific goal or aiding in solving a problem.
+
+
+
+
+
+	
