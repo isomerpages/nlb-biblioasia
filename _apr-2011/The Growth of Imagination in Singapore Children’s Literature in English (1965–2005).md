@@ -279,9 +279,9 @@ Tan, B.Y., & Chia, H.C. (1978). [_New way readers 1A_](https://eservice.nlb.gov.
 
 Veloo, R. (1990). [_Kampung chicken_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5407892). Singapore: Angsana Books. (Call no.: RSING S823 VEL)
 
-Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.<br>  
-&emsp;Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). 
-&emsp;Singapore: Federal Publications. &emsp;(Available via PublicationSG)  
+Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.<br><br>    
+&emsp;Wee, J. (1980). [_Mooty and grandma_]<br>  (https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). 
+&emsp;Singapore: Federal Publications.<br>  &emsp;(Available via PublicationSG)  
 &emsp;Wee, J. (1980). [_Mooty and the satay-man_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141043). 
 &emsp;Singapore: Federal Publications. 
 &emsp;(Call no.: JRSING 428.6 WEE)  
