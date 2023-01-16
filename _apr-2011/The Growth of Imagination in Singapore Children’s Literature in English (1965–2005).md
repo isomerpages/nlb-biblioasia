@@ -302,9 +302,3 @@ Wee, J. (1984). [_Boo!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=72479
 [^3]: See [http://www.answers.com/topic/verisimilitude](http://www.answers.com/topic/verisimilitude)
 
 [^4]: The term imaginativity is coined here to denote the ability to reproduce mental images as a result of apprehending the textual and/or non-textual experiences by means of the senses or of the mind, or to recombine previous experiences in producing new images directed at a specific goal or aiding in solving a problem.
-
-
-
-
-
-	
