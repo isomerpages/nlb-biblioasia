@@ -96,7 +96,7 @@ It should be noted that titles in the science fiction category were of limited a
 &emsp;… both science fiction and sometimes fantasy <br>
 &emsp;demands of the reader a certain amount of <br>
 &emsp;sophisticated knowledge of science and the jargon of <br>
-&emsp;space science, and this may be lacking in most 
+&emsp;space science, and this may be lacking in most<br> 
 &emsp;areas where there is no tradition of Western type education,<br>
 &emsp;in children of these ages. (p. 13)
 
