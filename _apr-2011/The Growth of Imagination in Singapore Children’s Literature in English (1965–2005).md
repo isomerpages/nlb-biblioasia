@@ -32,7 +32,17 @@ One of the early roadblocks to the growth of Singapore children’s literature h
 
 <center>&emsp;It is not only desirable but essential to have local<br>
 &emsp;authors write the books we need, especially authors<br>
-&emsp;who understand the role of authorship in relation to<br> the new political status and urgent social needs of <br>our country. It is only local authors who could have a<br> sense of social awareness, a real understanding of<br> the various aspects of the local environment and above<br> all a true appreciation of the national aspirations and <br>strivings of our people, and contribute by making <br>appropriate references and allusions to local conditions<br> and factors, and by consciously emphasising points of<br> view more in conformity with the spirit of the times, and<br> with our national needs and aspirations. (as cited in<br> Girvin, 1976, p. 7)
+&emsp;who understand the role of authorship in relation to<br>
+&emsp;the new political status and urgent social needs of <br>
+&emsp;our country. It is only local authors who could have a<br>
+&emsp;sense of social awareness, a real understanding of
+&emsp;the various aspects of the local environment and above<br>
+&emsp; all a true appreciation of the national aspirations and <br> 												&emsp;strivings of our people, and contribute by making <br>
+&emsp;appropriate references and allusions to local conditions<br> 
+&emsp;factors, and by consciously emphasising points of<br> 
+&emsp;view more in conformity with the spirit of the times, and<br> 
+&emsp;with our national needs and aspirations. (as cited in<br> 
+&emsp;Girvin, 1976, p. 7)
 
 A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong & Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101)
 
