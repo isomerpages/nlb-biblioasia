@@ -139,9 +139,33 @@ This is also echoed by Singh (1993/94), who argued that “the years of followin
 &emsp;I am not assured that the direction we are taking is <br>
 &emsp;altogether wholesome or qualitatively better. <br>
 &emsp;There are areas in which it would behove us to be critical if <br>
-&emsp;our literature is going to make the kind of international <br>
+&emsp;our literature is going to make the kind of international <br> 
 &emsp;impact it deserves to make. (Singh, 1993/94, p. 21)
 
+#### **The New Millennium (2000s)**
+
+Since the beginning of the 21st century, SCLE has taken a more international perspective as more discerning and creative writers and illustrators enter the writing and publishing industry. The biennial Singapore Writers Festival, a major literary event in Singapore since the turn of the 21st century, has gained prominence in both domestic and regional literary landscapes. The writers’ festival is now be restructured into an annual affair, attracting not only local published and aspiring writers of children’s fiction as well as adult fiction but also writers from overseas.
+
+According to Ng (2010a), “judging by sales, children’s books are a lucrative field and more Singapore writers are making their mark in it” (p. 6). Today, children’s storybooks are selling better than Singapore adult novels. For instance, James Lee’s *Mr Midnight* series of illustrated horror stories has sold more than two million copies in Asia alone, and is now on its 67th book. Other children’s storybook successes, although on a smaller scale, are by writers such as Adeline Foo, whose book *Diary of Amos Lee* (2007) is not included in this study, but has sold about forty thousand copies here.
+
+One reason for the success of local children’s literature is that parents today are more willing to spend on their children’s education and “the young ones are also more willing to give new and unknown writers a chance” (Ng, 2010a, p. 6). Besides, parents have also found an increased attraction to the Asian context of Singapore writers’ stories. Another reason is that first-time writers of children’s fiction can now seek financial assistance through the First Time Writers and Illustrators Publishing Initiative. Launched in 2005, this initiative is jointly organised by the Media Development Authority and the National Book Development Council of Singapore (NBDCS) (Media Development Authority, 2005). SCLE is still evolving slowly and gradually in terms of its quality and reader ownership. To quote Jessie Wee (1990/91), “children in Singapore need stories they can identify with, stories they can call their own” (p. 39).
+
+#### **Conclusion**
+
+Most books published in the 1960s were not trade books but basal readers whose aim was to improve the English proficiency of Singaporeans in both spoken and written forms.
+
+Hence, during the Pioneering Period (1970–79), it was an uphill task for writers of SCLE to be recognised, their creative works taken seriously by the publishers and appreciated by readers at large. SCLE only really emerged in the 1980s (Khoo, 1990/91) when more writers began to write for children. Although many of these books were badly written or poorly edited, it was a good sign that teachers and parents were beginning to take notice of locally published books for children. One big challenge during that period was that many teachers were reluctant to encourage their students to read local children’s literature because of its poor quality of written English. In fact, this problem persisted into the 1990s.
+Between the late 1980s and the beginning of the 1990s, the Singapore book market witnessed a sudden increase in the number of new books published locally by new publishers such as VJ Times and Flame of the Forest. With more new writers trying their hand at writing for children, the local book scene saw a wider range of both new children’s fiction and non-fiction titles. It was also during the period 1990–99 that more new writers had their works printed through established publishers such as Educational Publications Bureau (EPB) and Times Book International, although there were also a few others who chose to self-publish.
+
+As we enter the new millennium (i.e., 2000s), better and more interesting books are published locally, such as Linda Gan’s *A Treasury of Asian Folktales* (2000), Chandran Dudley’s T*ales from the Islands of Singapore* (2001) and David Seow’s *The Little Emperor* (2004). However, a new challenge has emerged — there are now more distractions (e.g. online and video gaming, and movies on video) than before. Claire Chiang, chairperson of the Asian Festival of Children’s Content Advisory Board, highlighted a very real and challenging issue we are facing today: “Reading habits have decreased because of new social media platforms. We need relevant and interesting books to recapture the imagination of our children” (as cited in Ng, 2010b, p. C6).
+
+**The author wishes to acknowledge the contributions of Dr Wong Meng Ee, Early Childhood and Special Needs Education, National Institute of Education, Singapore, in reviewing this article.**
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Nac.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian<br>Research Fellow (2010)<center> </div>
 
 
 
