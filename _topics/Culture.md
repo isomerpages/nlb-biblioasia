@@ -66,7 +66,8 @@ Margaret Chan examines the fascinating world of _tangki_ worship and explains 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/navaratri-golu/">Navaratri Golu: The Hindu Festival of Dolls</a>
 Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality. Anasuya Soundararajan shares with us its origins.
 
-
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/disco-fever/">When Disco Fever Raged</a>
+Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. Tan Chui Hua gives you the lowdown on the history of the disco scene in Singapore.
 
 
 
