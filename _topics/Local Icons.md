@@ -36,4 +36,11 @@ Many generations of Singaporeans have shopped in Robinsons since its founding in
 As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
 <img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg">
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel & Sembawang</a>
+Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry. Wee Beng Geok traces the colonial origins of these two companies.
+
+
+
 <hr>
