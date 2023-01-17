@@ -17,7 +17,8 @@ Singapore has planted more than two million trees in the past 50 years. Lim Tin
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/agriculture"> From Gambier to Pepper: Plantation Agriculture in Singapore</a>
 Timothy Pwee takes us on a tour through pepper, gambier, nutmeg, pineapple and rubber plantations that were once common in 19th-century Singapore.
-<img style="width:100%;" src="/images/Vol-17-issue-1/agriculture/gambierpepper.jpg">  <hr> 
+ <hr> 
+<img style="width:100%;" src="/images/Vol-17-issue-1/agriculture/gambierpepper.jpg"> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/nature"> Nature Conservation in Singapore </a>
 Balancing biodiversity conservation with urban development is a hot-button issue in land-scarce Singapore. Ang Seow Leng examines how this process has played out over the last 200 years.
