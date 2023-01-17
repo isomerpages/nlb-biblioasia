@@ -76,7 +76,14 @@ This expanse of green fringed by grand colonial edifices in the city centre is a
 The foundation stone for the Causeway was laid 100 years ago on 24 April 1920. Building it was a major engineering feat at the time.
 <hr>
 
+#### <a href="/vol-16/issue-1/apr-jun-2020/keong-saik" style="text-decoration: none; font-weight: bold;">Keong Saik Road: The Other Side of the Red-Light District</a>
+Charmaine Leung relives the sights and sounds of Keong Saik Road – where she lived in the 1970s and 80s – and says it has more to offer than its former notoriety.
+<hr>
 
+
+#### <a href="/vol-15/issue-3/oct-dec-2019/dieppe-barracks/" style="text-decoration: none; font-weight: bold;">Dieppe Barracks: “Our Little Kingdom” in Sembawang</a>
+Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says Chua Jun Yan.
+<hr>
 
 
 
