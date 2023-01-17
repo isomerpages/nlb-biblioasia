@@ -25,7 +25,8 @@ Apakah trend penerbitan buku Melayu di Singapura sejak sedekad lalu? Bersandarka
 Dengan menggunakan *Singapore National Bibliography* kita juga dapat mengesan jenis-jenis buku yang diterbitkan di Singapura. Antara 2001 dan 2008, buku untuk kegunaan pelajar di sekolah merupakan yang kedua paling banyak dihasilkan (147 judul). Buku-buku ini diterbitkan oleh atau untuk Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, menjadikan ia penerbit utama buku Melayu di Singapura.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation2.jpg">
-<div style="background-color: white;">Antara buku yang diterbitkan oleh Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, dalam tahun 2008. Hakcipta terpelihara. </div>
+<div style="background-color: white;">Antara buku yang diterbitkan oleh Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, dalam tahun 2008. Hakcipta terpelihara. 
+</div>
 
 Agensi-agensi pemerintah yang lain termasuk badanbadan berkanun seperti Lembaga Perpustakaan Negara Singapura juga menerbitkan buku-buku dalam bahasa Melayu. Selalunya buku-buku sedemikian bertujuan sebagai penerangan kepada orang ramai terhadap sesuatu perkara. Sebagai contoh, isu kesihatan oleh Lembaga Penggalak Kesihatan atau panduan bagi ibu bapa oleh Kementerian Pembangunan Masyarakat, Belia dan Sukan.
 
