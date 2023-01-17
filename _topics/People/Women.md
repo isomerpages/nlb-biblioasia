@@ -1,6 +1,6 @@
 ---
 title: Women
-permalink: /topics/women
+permalink: /topics/women/
 description: ""
 third_nav_title: People
 ---
@@ -86,3 +86,17 @@ Cookbooks offer interesting insights into the oft-overlooked domestic space of B
 Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.
 <img style="width:600px;" src="/images/Vol-16-issue-1/marjorie/Majorie-title.png"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan">Wong Din Haan: A Pioneer Educator </a>
+Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights. Patricia Lim tells us more.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/asthma">Asthma, Amahs and Amazing Food</a>
+Irene Lim recalls herbal remedies, home-cooked meals and domestic servants in this extract from her memoir, _90 Years in Singapore_.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
+A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
+
+
+
+
+
