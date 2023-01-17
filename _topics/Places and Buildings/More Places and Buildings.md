@@ -90,11 +90,13 @@ The five-footway – the equivalent to the modern-day pavement or sidewalk – w
 <hr>
 
 #### <a href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga/" style="text-decoration: none; font-weight: bold;">Mother Island: Finding Singapore's Past in Pulau Lingga</a>
-Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as Faris Joraimi reveals.<hr>
+Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as Faris Joraimi reveals.
+<hr>
 <img src="/images/vol-17-issue-4/mother-island/Lingga.jpg" style="width:100%;"> 
 
-#### <a href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga/" style="text-decoration: none; font-weight: bold;">Mother Island: Finding Singapore's Past in Pulau Lingga</a>
-
+#### <a href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga/" style="text-decoration: none; font-weight: bold;">To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage</a>
+Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. Lim Tin Seng charts the journey.
+<hr>
 
 
 
