@@ -6,8 +6,8 @@ third_nav_title: Places and Buildings
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
 Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. 
-
-<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png"><hr>
+<hr>
+<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-opera-estate" style="text-decoration: none; font-weight: bold;">Living in Harmony: The History of Opera Estate</a> 
 Asrina Tanuri traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
