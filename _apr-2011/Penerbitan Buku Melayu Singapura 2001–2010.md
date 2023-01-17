@@ -6,7 +6,7 @@ description: Librarian Mazelan bin Anuar looks at the downward trend of the
 ---
 ####  Librarian _Mazelan bin Anuar_ looks at the downward trend of the Malay book publishing industry in Singapore and suggests ways to revive it.
 
-<img style="width:100%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation.jpg">
  <div style="background-color: white;">Antara buku yang diterbitkan oleh Asas50. Hakcipta terpelihara, Angkatan Sasterawan 50, 2008 (Right) & 2009 (Left)</div>
 
 Selepas satu dekad ke dalam abad 21, bagaimanakah perkembangan penerbitan buku Melayu di Singapura? Singapura pernah menjadi pusat penerbitan buku Melayu di rantau ini tetapi rentetan sejarah menunjukkan peranan itu sudah diambil alih oleh Malaysia (dan juga Indonesia tetapi lebih kepada Bahasa Indonesia), lebih-lebih lagi selepas Singapura berpisah dengan Malaysia pada tahun 1965. Artikel ini merupakan peninjauan awal ke atas penerbitan buku Melayu di Singapura dari tahun 2001 hingga ke 2010 dengan melihat jumlah dan jenis karya yang telah dihasilkan serta juga mengenal pasti beberapa penerbit buku-buku tersebut.
@@ -19,13 +19,13 @@ Apakah trend penerbitan buku Melayu di Singapura sejak sedekad lalu? Bersandarka
 
 **Jadual 1: Jumlah buku yang didaftarkan dan diterbitkan (2001—2010)**
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture1.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture1.jpg">
  <div style="background-color: white;">Sumber : Singapore National Bibliography, June 2009. Maklumat belum diterbitkan dalam <i>Singapore National Bibliography.</i></div>
  
 Dengan menggunakan *Singapore National Bibliography* kita juga dapat mengesan jenis-jenis buku yang diterbitkan di Singapura. Antara 2001 dan 2008, buku untuk kegunaan pelajar di sekolah merupakan yang kedua paling banyak dihasilkan (147 judul). Buku-buku ini diterbitkan oleh atau untuk Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, menjadikan ia penerbit utama buku Melayu di Singapura.
 
-<img style="width:100%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation2.jpg">
- <div style="background-color: white;">Antara buku yang diterbitkan oleh Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, dalam tahun 2008. Hakcipta terpelihara.</div>
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation2.jpg">
+<div style="background-color: white;">Antara buku yang diterbitkan oleh Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, dalam tahun 2008. Hakcipta terpelihara. </div>
 
 Agensi-agensi pemerintah yang lain termasuk badanbadan berkanun seperti Lembaga Perpustakaan Negara Singapura juga menerbitkan buku-buku dalam bahasa Melayu. Selalunya buku-buku sedemikian bertujuan sebagai penerangan kepada orang ramai terhadap sesuatu perkara. Sebagai contoh, isu kesihatan oleh Lembaga Penggalak Kesihatan atau panduan bagi ibu bapa oleh Kementerian Pembangunan Masyarakat, Belia dan Sukan.
 
@@ -35,25 +35,24 @@ Selepas buku tentang Islam dan teks sekolah, buku cereka atau novel merupakan ya
 
 **Jadual 2: Jenis buku yang paling banyak diterbitkan di Singapura**
 
-<img style="width:100%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture3.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture3.jpg">
  <div style="background-color: white;">Sumber: <i>Singapore National Bibliography</i>, June 2009.</div>
  
 Jadual 3 pula menunjukkan kedudukan penerbit yang paling banyak menerbitkan buku di Singapura antara 2001 sehingga 2008. Walaupun Times merupakan penerbit ketiga terbanyak, ia tidak lagi mengeluarkan buku Melayu di Singapura sejak 2005. Sementara itu, Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, Pustaka Nasional dan Andalus terus konsisten menerbitkan buku setiap tahun sejak 2001. Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura menumpukan penerbitannya kepada buku teks sekolah.
 
-<img style="width:100%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg">(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002.
-</div>
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg">(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002.</div>
 
 Pustaka Nasional pula menerbitkan buku-buku tentang Islam dan juga sastera (novel, cerpen dan puisi/sajak) sementara Andalus pula menumpukan penerbitannya kepada buku-buku tentang Islam terutamanya untuk kanak-kanak dan remaja.
 
 **Jadual 3: Penerbit di Singapura yang paling banyak menerbitkan buku**
 
-<img style="width:100%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture5.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture5.jpg">
  <div style="background-color: white;">Sumber: <i>Singapore National Bibliography,</i>June 2009.</div>
  
 Sebagai rumusan, artikel ini merupakan tinjauan awal, namun trend penerbitan buku Melayu di Singapura perlu dikaji dengan lebih lanjut dan teliti lagi. Badanbadan seperti Persatuan Penerbit Buku Singapura dan Majlis Pembangunan Buku Nasional Singapura perlu mengumpulkan data dan menyusun maklumat tentang nilai pasaran bagi buku-buku yang diterbitkan di Singapura agar analisa yang tepat dapat dijalankan. Ini penting bagi para penerbit tuntuk melakar strategi peniagaan mereka. Kita juga harus merangkumkan maklumat bagi tahun 2009 dan 2010 sebaik sahaja ianya dapat diperolehi menerusi Singapore National Bibliography. Perbandingan juga boleh dibuat antara dekad ini dengan dekad-dekad sebelumnya untuk mendapatkan gambaran yang lebih jelas bagi industri ini. Akhir sekali, Majlis Bahasa Melayu Singapura sebagai institusi yang memelihara status bahasa Melayu dan mendukung pengembangannya mungkin perlu mengambil langkah untuk membangunkan semula penerbitan buku Melayu di Singapura melalui kerjasama dengan para penerbit, agensi pemerintah dan juga penulis setempat.
 
 
-<img style="width:100%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation6.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation6.jpg">
  <div style="background-color: white;">Antara 20 buah novel yang diterbitkan oleh Pustaka Nasional sempena Sayembara Novel Watan 2001. Hakcipta terpelihara, Pustaka Nasional, 2002.</div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> The Malay book publishing industry in Singapore has been plagued with declining readership and sales in the last decade. Preliminary research on the publication trends in Malay books in Singapore from 2001 to 2010 shows that the volume of new books published between 2001 to 2010 is low, at not more than 150 titles per year in the last 10 years. The lowest number published was 68 titles in 2006, while the highest was 144 in 2002. School textbooks, Islamic literature and fiction novels are the three most-published genres; and that the Curriculum Planning & Development Division of the Ministry of Education, and Pustaka Nasional are the publishers with the highest output of Malay books. The writer feels that action should be taken to revive the Malay book publishing industry and suggests that concerted efforts by key players such as publishers, government agencies and local writers will be necessary.<br><br>
