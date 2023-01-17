@@ -43,7 +43,7 @@ Jadual 3 pula menunjukkan kedudukan penerbit yang paling banyak menerbitkan buku
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg">
 <div style="background-color: white;">
-(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002.</div>
+(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002. </div>
 
 Pustaka Nasional pula menerbitkan buku-buku tentang Islam dan juga sastera (novel, cerpen dan puisi/sajak) sementara Andalus pula menumpukan penerbitannya kepada buku-buku tentang Islam terutamanya untuk kanak-kanak dan remaja.
 
