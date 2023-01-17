@@ -102,7 +102,8 @@ A 1946 photograph from the opening of the War Crimes Trials held in Singapore is
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
 Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation. Aishwariyaa Ramakanthan recounts her father’s harrowing journey.
 
-
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/">Civilians in the Crossfire: The Malayan Emergency Crossfire</a>
+Ronnie Tan recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
 
 
 
