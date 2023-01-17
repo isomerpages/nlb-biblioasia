@@ -1,6 +1,6 @@
 ---
 title: Food
-permalink: /topics/food
+permalink: /topics/food/
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
@@ -36,3 +36,24 @@ Foraging for food in the hills, the forests and the coastline has been carried o
   
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing">A Bite of History: Betel Chewing in Singapore</a>
  <p>Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.</p>  <hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks" >Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
+A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
