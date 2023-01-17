@@ -5,15 +5,15 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a>
 A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
-
-<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
 <hr>
+<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day"> The Blossoming of Tree Planting Day</a>
 Singapore has planted more than two million trees in the past 50 years. Lim Tin Seng traces the roots of Tree Planting Day.
-
-<img style="width:100%;" src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg"> 
 <hr>
+<img style="width:100%;" src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg"> 
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/agriculture"> From Gambier to Pepper: Plantation Agriculture in Singapore</a>
 Timothy Pwee takes us on a tour through pepper, gambier, nutmeg, pineapple and rubber plantations that were once common in 19th-century Singapore.
