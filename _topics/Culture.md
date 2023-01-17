@@ -62,8 +62,12 @@ Theemithi is much more than just the firewalking festival. It is a cycle of ritu
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
 Margaret Chan examines the fascinating world of _tangki_ worship and explains the symbolism behind its elaborate rituals.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/navaratri-golu/">Navaratri Golu: The Hindu Festival of Dolls</a>
+Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality. Anasuya Soundararajan shares with us its origins.
+
+
+
+
+
 <hr>
-
-
-
-
