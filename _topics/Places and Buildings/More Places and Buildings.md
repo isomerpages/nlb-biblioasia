@@ -85,6 +85,9 @@ Charmaine Leung relives the sights and sounds of Keong Saik Road – where she l
 Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says Chua Jun Yan.
 <hr>
 
+#### <a href="/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/" style="text-decoration: none; font-weight: bold;">Give Me Shelter: The Five-footway Story</a>
+The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Fiona Lim relives its colourful history.
+<hr>
 
 
 <hr>
