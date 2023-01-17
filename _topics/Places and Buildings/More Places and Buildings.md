@@ -102,7 +102,9 @@ Nearly 70 years have passed since a committee was set up to look into the preser
 Abigail Huang tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
 <hr>
 
-
+#### <a href="/vol-15/issue-4/jan-mar-2020/istana-turns-150/" style="text-decoration: none; font-weight: bold;">The Istana Turns 150</a>
+The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. Wong Sher Maine recounts key moments in its history.
+<hr>
 
 	
 <hr>
