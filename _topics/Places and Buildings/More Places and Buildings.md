@@ -7,9 +7,9 @@ third_nav_title: Places and Buildings
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">"Book City" in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a>
 
 Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
-
+<hr>
 <img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg">  
-	<hr>
+<hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair">Johor at the 1893 Chicago World’s Fair</a>
@@ -65,9 +65,19 @@ This expanse of green fringed by grand colonial edifices in the city centre is a
 
 #### <a href="/vol-16/issue-3/oct-dec-2020/building" style="text-decoration: none; font-weight: bold;"> Planning to Build, Building to Plan</a>
 <p>The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.</p> 
-<img src="/images/Vol-16-issue-3/building/planningbuilding-semidetachedhse.jpg" style="width:100%;">  
+<img src="/images/Vol-16-issue-3/building/planningbuilding-semidetachedhse.jpg" style="width:100%;"> 
 <hr>
 
 #### <a href="/vol-16/issue-3/oct-dec-2020/karikal" style="text-decoration: none; font-weight: bold;"> Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
 <p>William L. Gibson uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.</p> 
+
+
+#### <a href="/vol-16/issue-2/jul-sep-2020/causeway" style="text-decoration: none; font-weight: bold;">From Sea to Road: Building the Causeway</a>
+The foundation stone for the Causeway was laid 100 years ago on 24 April 1920. Building it was a major engineering feat at the time.
+<hr>
+
+
+
+
+
 <hr>
