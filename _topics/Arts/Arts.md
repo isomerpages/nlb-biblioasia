@@ -45,6 +45,15 @@ third_nav_title: Arts
 <img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
+What makes the difference between a good artist and a brilliant one? Goh Yu Mei delves into the books and artworks that have inspired a literary and artistic genius.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
+Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/contemporary-art">Groundbreaking: The Origins of Contemporary Art in Singapore</a>
+1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village. Jeffrey Say debunks this view, asserting that the contemporary art movement began earlier.
+
 
 
 
