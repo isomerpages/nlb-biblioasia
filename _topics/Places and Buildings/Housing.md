@@ -1,6 +1,6 @@
 ---
 title: Housing
-permalink: /topics/Places-and-Buildings/housing
+permalink: /topics/Places-and-Buildings/housing/
 description: ""
 third_nav_title: Places and Buildings
 ---
@@ -13,6 +13,13 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 Asrina Tanuri traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 <img src="/images/Vol%2018%20Issue%201/Opera%20Estate/01%20-%20Opera%20Estate%20sign.png">
 <hr>
+
+#### <a href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses" style="text-decoration: none; font-weight: bold;">Towkays at Home in Singapore</a> 
+Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tour of three opulent homes from the early 20th century.
+
+<img src="/images/vol-17-issue-4/towkay-house/Main-TKH.jpg">
+<hr>
+
 
 #### <a href="/vol-12/issue-3/oct-dec-2016/publichouse-pvtlives" style="text-decoration: none; font-weight: bold;"> Public Housing, Private Lives</a> 
 <p>Incredibly, people living in some of the first one-room flats had to share their toilets and kitchens with strangers. Yu-Mei Balasingamchow tells you how far public housing has come since 1960.</p> 
