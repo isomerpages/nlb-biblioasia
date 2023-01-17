@@ -57,5 +57,13 @@ Theemithi is much more than just the firewalking festival. It is a cycle of ritu
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/search-of-seven-sis/">In Search of the Seven Sisters Festival</a>
 <p>This time-honoured festival has left no tangible trace of its observance in Singapore. Tan Chui Hua pieces together oral history interviews to reconstruct its proper place in Chinese culture.</p> 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival1.JPG">
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival1.JPG"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
+Margaret Chan examines the fascinating world of _tangki_ worship and explains the symbolism behind its elaborate rituals.
+<hr>
+
+
+
+
