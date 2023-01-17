@@ -16,6 +16,12 @@ The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyda
 <img src="/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png" style="width:100%; height: 280px; object-fit: cover"> 
 <hr>
 
+#### <a href="/vol-17/issue-4/jan-to-mar-2022/early-years-substation" style="text-decoration: none; font-weight: bold;">In Their Own Words: The Early Years of The Substation</a>
+The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell Clarissa Oon how it got started.
+
+<img src="/images/vol-17-issue-4/substation/substation.png" style="width:100%; height: 280px; object-fit: cover"> 
+<hr>
+
 #### <a href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park" style="text-decoration: none; font-weight: bold;"> How Jurong Bird Park Was Hatched</a>
 <p>On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one.</p>
 <img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="width:100%; height: 280px; object-fit: cover"> 
