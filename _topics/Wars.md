@@ -105,6 +105,10 @@ Barely 13 years old then, K. Ramakanthan and his family escaped with their lives
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/">Civilians in the Crossfire: The Malayan Emergency Crossfire</a>
 Ronnie Tan recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
+In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. Umej Bhatia recreates the final moments of the mutineers as they pay the ultimate price for their actions.
+
+
 
 
 <hr>
