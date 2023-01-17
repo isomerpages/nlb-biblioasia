@@ -1,6 +1,6 @@
 ---
 title: Medicine
-permalink: /topics/medicine
+permalink: /topics/medicine/
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric"> Vaccinating a Nation</a>
@@ -28,4 +28,15 @@ description: ""
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/overseas-chinese">Singapore Men of Science and Medicine in China (1911–1949)</a>
 <p>Wayne Soon sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China’s medical institutions.</p> 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/medical-services">Doctor, Doctor!: Singapore’s Medical Services</a>
+Milestones in Singapore’s medical scene – among other subjects – are captured through fascinating oral history narratives in a new book written by Cheong Suk-Wai and published by the National Archives of Singapore.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/leprosy">Leprosy: A Story of Suffering, But Also of Hope</a>
+People struck with leprosy were shunned and forced to live in isolation at the Trafalgar Home in Yio Chu Kang. Danielle Lim tracks the history of this disfiguring disease in Singapore.
+
+
+
+
+
 <hr>
