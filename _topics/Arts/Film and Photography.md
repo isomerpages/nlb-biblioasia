@@ -123,4 +123,10 @@ The oldest known photographs of Singapore were taken by Europeans in the early 1
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography In Pre-war Singapore</a>
 The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. Zhuang Wubin revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/the-making-of-xin-ke/">The Making of Xin Ke (新客)</a>
+This 1927 silent Chinese movie is the first feature film to be made in Singapore and Malaya. Jocelyn Lau traces its genesis with researcher Toh Hun Ping and translation editor Lucien Low.
+
+
+
 <hr>
