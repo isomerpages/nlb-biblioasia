@@ -98,9 +98,9 @@ Singapore’s history is closely intertwined with that of Lingga’s. The kings 
 Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. Lim Tin Seng charts the journey.
 <hr>
 
-
-
-
+#### <a href="/vol-15/issue-1/apr-jun-2019/building-history/" style="text-decoration: none; font-weight: bold;">Building History: From Stamford Road to Canning Rise</a>
+Abigail Huang tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
+<hr>
 
 
 	
