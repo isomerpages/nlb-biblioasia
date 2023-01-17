@@ -37,11 +37,12 @@ Selepas buku tentang Islam dan teks sekolah, buku cereka atau novel merupakan ya
 **Jadual 2: Jenis buku yang paling banyak diterbitkan di Singapura**
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture3.jpg">
- <div style="background-color: white;">Sumber: <i>Singapore National Bibliography</i>, June 2009.</div>
+<div style="background-color: white;">Sumber: <i>Singapore National Bibliography</i>, June 2009.</div>
  
 Jadual 3 pula menunjukkan kedudukan penerbit yang paling banyak menerbitkan buku di Singapura antara 2001 sehingga 2008. Walaupun Times merupakan penerbit ketiga terbanyak, ia tidak lagi mengeluarkan buku Melayu di Singapura sejak 2005. Sementara itu, Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, Pustaka Nasional dan Andalus terus konsisten menerbitkan buku setiap tahun sejak 2001. Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura menumpukan penerbitannya kepada buku teks sekolah.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg"><div style="background-color: white;">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg">
+<div style="background-color: white;">
 (Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002.</div>
 
 Pustaka Nasional pula menerbitkan buku-buku tentang Islam dan juga sastera (novel, cerpen dan puisi/sajak) sementara Andalus pula menumpukan penerbitannya kepada buku-buku tentang Islam terutamanya untuk kanak-kanak dan remaja.
