@@ -28,6 +28,10 @@ Manmade climate change is usually seen as a modern phenomenon. In fact, rising t
 The 1933 Report of the Wild Animals and Wild Birds Committee represents a failed attempt to regulate the buying and selling of wildlife in pre-war Singapore, says Fiona Tan.
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/greening">Of Parks, Trees and Gardens: The Greening of Singapore</a>
+Lim Tin Seng traces the journey from the first botanical garden in 1822 to the “City in Nature” vision in 2020.
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/rain"> Cloudy with a Slight Chance of Rain: Singapore's Meteorological Service</a>
 The Met Service was officially set up in 1929, but people have been recording weather data here for the last 200 years. Lim Tin Seng has the details.
 <img style="width:100%;" src="/images/Vol-16-issue-2/rain/YangDiPertuan.jpg"> 
@@ -36,6 +40,10 @@ The Met Service was officially set up in 1929, but people have been recording we
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/mad-dogs">Mad Dogs and Englishmen: Rabies in 19th-century Singapore</a>
 Fears of the deadly disease here led to more than 22,000 dogs being killed during the 1890s. Timothy P. Barnard sniffs out the details of this long-forgotten episode.
 <img style="width:100%;" src="/images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg">  
+<hr> 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/biodiversityheritage">A Slice of Singapore in the Biodiversity Heritage Library</a>
+With climate change on the rise, access to research on biodiversity and natural history is all the more important. Lim Tin Seng tells us about the Biodiversity Heritage Library.
 <hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/">Revulsion and Reverence: Crocodiles in Singapore</a>
@@ -55,7 +63,3 @@ The reefs that fringed Singapore’s coastline and islands have served for centu
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/mangroves">Mangroves: A Tale of Survival</a>
 Mangroves are an integral part of the marine ecosystem. Ang Seow Leng explains why these hardy and resilient plants are vital for the survival of humankind.
 <hr>
-
-
-
-
