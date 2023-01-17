@@ -70,4 +70,16 @@ Zinnurain Nasir and Nasri Shah shed light on the Banjar people, a small but sign
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/raffles">Raffles Displaced</a>
 Raffles, once widely admired and revered as the founder of Singapore, has been portrayed in a more complicated light in recent years, as Ng Yi-Sheng tells us.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/tiger">The “Tiger” in Singapore: Georges Clemenceau’s Visit in 1920</a>
+This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king">The King’s Chinese: The Life of Sir Song Ong Siang</a>
+Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood. Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.
+
+
+
+
+
+
 <hr>
