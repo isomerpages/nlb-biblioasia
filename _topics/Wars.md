@@ -108,7 +108,15 @@ Ronnie Tan recounts the hardship suffered by civilians as a result of the Britis
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
 In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. Umej Bhatia recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia/">The Final Hours of the Empress of Asia</a>
+The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
 
+<img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg" style="width:70%">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/feeding-the-hungry/">Feeding the Hungry: Children in Post-War Singapore</a>
+In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. Cheryl-Ann Low has the details.
+<hr>
 
 
 <hr>
