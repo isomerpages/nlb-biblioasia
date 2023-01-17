@@ -25,7 +25,7 @@ Apakah trend penerbitan buku Melayu di Singapura sejak sedekad lalu? Bersandarka
 Dengan menggunakan *Singapore National Bibliography* kita juga dapat mengesan jenis-jenis buku yang diterbitkan di Singapura. Antara 2001 dan 2008, buku untuk kegunaan pelajar di sekolah merupakan yang kedua paling banyak dihasilkan (147 judul). Buku-buku ini diterbitkan oleh atau untuk Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, menjadikan ia penerbit utama buku Melayu di Singapura.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation2.jpg">
-<div style="background-color: white;">Antara buku yang diterbitkan oleh Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, dalam tahun 2008. Hakcipta terpelihara. 
+<div style="background-color: white;">Antara buku yang diterbitkan oleh Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, dalam tahun 2008. Hakcipta terpelihara. </div>
 
 
 Agensi-agensi pemerintah yang lain termasuk badanbadan berkanun seperti Lembaga Perpustakaan Negara Singapura juga menerbitkan buku-buku dalam bahasa Melayu. Selalunya buku-buku sedemikian bertujuan sebagai penerangan kepada orang ramai terhadap sesuatu perkara. Sebagai contoh, isu kesihatan oleh Lembaga Penggalak Kesihatan atau panduan bagi ibu bapa oleh Kementerian Pembangunan Masyarakat, Belia dan Sukan.
@@ -41,7 +41,8 @@ Selepas buku tentang Islam dan teks sekolah, buku cereka atau novel merupakan ya
  
 Jadual 3 pula menunjukkan kedudukan penerbit yang paling banyak menerbitkan buku di Singapura antara 2001 sehingga 2008. Walaupun Times merupakan penerbit ketiga terbanyak, ia tidak lagi mengeluarkan buku Melayu di Singapura sejak 2005. Sementara itu, Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura, Pustaka Nasional dan Andalus terus konsisten menerbitkan buku setiap tahun sejak 2001. Bahagian Perancangan dan Pengembangan Kurikulum, Kementerian Pendidikan Singapura menumpukan penerbitannya kepada buku teks sekolah.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg">(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002.</div>
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg"><div style="background-color: white;">
+(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002.</div>
 
 Pustaka Nasional pula menerbitkan buku-buku tentang Islam dan juga sastera (novel, cerpen dan puisi/sajak) sementara Andalus pula menumpukan penerbitannya kepada buku-buku tentang Islam terutamanya untuk kanak-kanak dan remaja.
 
