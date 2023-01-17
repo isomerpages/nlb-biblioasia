@@ -98,4 +98,12 @@ Why recall traumatic memories of war when it is painful for both perpetrators an
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial">A War Crimes Trial Snapshot</a>
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
+Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation. Aishwariyaa Ramakanthan recounts her father’s harrowing journey.
+
+
+
+
+
 <hr>
