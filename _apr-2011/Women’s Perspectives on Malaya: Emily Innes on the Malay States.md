@@ -38,7 +38,9 @@ Some of the day was got rid of by bathing two or<br>three times, and the consequ
 
 For the well-read Emily, the only recourse to fighting the boredom was turning to books but unfortunately, her attempts at obtaining reading materials were unsuccessful:
 
-We tried to get books from the Circulating Library<br> in Singapore, but failed because there were only<br> two Europeans in the districts and there was no<br> regular communication at all between Langat<br> and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or delayed for months … (pp.<br> 34—35)
+We tried to get books from the Circulating Library<br> in Singapore, but failed because there were only<br> two Europeans in the districts and there was no<br> regular communication at all between Langat<br> and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or delayed for months... (pp.<br> 34—35)
+
+
 
 
 
