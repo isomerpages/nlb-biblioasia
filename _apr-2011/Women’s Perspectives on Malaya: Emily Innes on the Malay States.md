@@ -29,8 +29,8 @@ Emily herself acknowledges the value and yet contrasting realities both authors 
 
 To those who have read Miss Bird’s most<br>interesting book, the ‘Golden Chersonese’ <br>— a book that was specially delightful to Mr<br>Innes and myself, since we felt as if we had<br> known personally every creature, every thing,<br>and almost every mosquito she mentioned<br>— it may seem curious that, notwithstanding<br>the brilliancy and attractiveness of her<br>descriptions, and the dullness and gloom of<br>mine, I can honestly say that her account is<br>perfectly and literally true. So is mine. The<br>explanation is that she and I saw the Malayan<br>country under totally different circumstances.<br>(Innes, 1885], Vol. 2, p. 242)
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/EmilyInnes/pg138.jpg">
- <div style="background-color: white;">Smoking the mosquitoes (Bird, 1883, facing p. 138)</div>
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/EmilyInnes/pg177%20(2).jpg">
+ <div style="background-color: white;">Elk horn fern (Bird, 1883, p. 177)</div>
 
 Indeed where Isabella visited the Malay States under the protection and support of government officials, “Emily Innes was … forced to endure — although with great bravado — the drudgery of swampy, lugubrious isolation, rickety atap-houses, a cretinous native society, deceitful servants and scarce food supply — not to mention a traumatic, near-fatal experience involving revolting Chinese coolies” (Wong, 1999).
 
@@ -40,12 +40,15 @@ Volume 1 describes the Inneses at Langat,[^8]their first lodgings and experience
 
 Though some have said Emily’s writings reflect “the mark of acute paranoia” (Heussler, 1981, p. 67), one must consider her dire circumstances. There was no ladies’ club or any other foreign women to commiserate with — only the intrusive locals and the overbearing sounds and sights of village life. Without children and at times, even a husband at home to occupy her, boredom was her constant companion.
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/EmilyInnes/pg177%20(2).jpg">
- <div style="background-color: white;">Elk horn fern (Bird, 1883, p. 177)</div>
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/EmilyInnes/pg328%20(2).jpg">
+ <div style="background-color: white;">Malay youth and maiden (Bird, 1883, p. 328)</div>
 	
 Though her life was painfully boring, she wrote of her experiences and encounters with the wry sense of humour peculiar to the British:
 
 Some of the day was got rid of by bathing two or<br>three times, and the consequent dressing<br>and undressing … some more time was disposed<br>of in eating and drinking — or rather in sitting<br> at the table and looking at food — for the<br> debilitating effects of the climate and want of<br>exercise did not leave us much appetite. There<br>were still many hours during which we either<br>had nothing to do, or could do nothing, from<br> heat, ennui, and mosquitoes. (Innes, 1885, pp.<br> 35—36)
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/EmilyInnes/pg138.jpg">
+ <div style="background-color: white;">Smoking the mosquitoes (Bird, 1883, facing p. 138)</div>
 
 For the well-read Emily, the only recourse to fighting the boredom was turning to books but unfortunately, her attempts at obtaining reading materials were unsuccessful:
 
