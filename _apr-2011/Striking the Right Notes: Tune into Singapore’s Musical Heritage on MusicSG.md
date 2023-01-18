@@ -25,12 +25,12 @@ As the nation’s first digital archive for music, MusicSG allows scholars or st
 
 A collaborative effort by the National Library Board (NLB) and the Composers and Authors Society of Singapore (COMPASS), MusicSG gathers a dazzling array of content on Singapore music in a bid to raise the awareness of local music, and provide resources for research and discovery.
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/Capture7.jpg">
+<img style="width:70%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/Capture7.jpg">
  <div style="background-color: white;">All rights reserved, Association of Composers (Singapore). 2009.</div>
 
 This portal is also part of a nationwide drive to preserve Singapore’s heritage. Explaining the need to capture crucial snapshots of our history, Dr Edmund Lam, Chief Executive and Director of COMPASS explained that “as time elapses, many significant moments in music history are in danger of deteriorating to the point where they would be lost forever. MusicSG aims to save these materials for the enjoyment and education of future generations.”
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/vol4.jpg">
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/vol4.jpg">
  <div style="background-color: white;">All rights reserved, Omar Md. Hashim. 2009.
 </div>
 
@@ -39,8 +39,6 @@ The Singapore music portal also aims to attract COMPASS members, music industry 
 #### **Fuss-Free Ways to Plug-and-Play**
 
 One key feature of MusicSG is its catalogue of music by recordings, albums, genres, instruments and scores. Anyone who is passionate about the local music scene can look up articles on the history and development of Singapore music, or specific music topics. Biographies of local composers, lyricists and musicians, including discographies, awards and commendations, and other related information can also be found on the site.
-
-![](/images/Vol%207%20Issue%201/MusicalHeritage/kmatthews.bmp)
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/kmatthews.bmp">
  <div style="background-color: white;">All rights reserved, Springroll. 1997.</div>
