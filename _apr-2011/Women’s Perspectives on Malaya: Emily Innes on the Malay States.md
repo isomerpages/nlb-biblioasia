@@ -10,6 +10,10 @@ description: Senior Library Bonny Tan spotlights Emily Innes’ The Chersonese
 
 <center>“I think that in most of these tropical colonies the ladies exist only on the hope of going “home!” It is a dreary, aimless life for them — scarcely life, only existence.” (Bird, 1883, p. 110)</center>
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/EmilyInnes/Chersonese.jpg">
+ <div style="background-color: white;">Emily Innes’ <i> The Chersonese with the Gilding Off,</i> Vol. I and II. 1885. <i>Rare Materials Collection, National Library Singapore.</i></div>
+
+
 #### **Emily Innes: Depicting the Chersonese**
 
 By the late 19th century, travelogues, surveys and government studies had covered much of Southeast Asia but most of these publications were written by men. The only women writers published were famed travel writers like Isabella Bird or wives of missionaries like Harriette McDougall. Emily Innes’ publication, *The Chersonese with the Gilding Off* (1883), thus stands apart from the work of her female compatriots because she wrote as the wife of a minor British official at a time when few colonial wives had their insights published.
@@ -19,6 +23,9 @@ James Innes had been appointed Collector and Magistrate at Kuala Langat in Selan
 The two-volume work however depicts more than the Inneses’ dissatisfaction with the greater government and their acrimonious relationship with the Douglases. Tin mining production in Perak and Selangor had risen spectacularly in the 1870s, with the introduction of innovative tin mining methods adapted from Chinese rice planting irrigation techniques.[^5] In fact, the lucrative tin mining business saw Chinese immigrants increasing by large numbers in the Malay States.[^6] The explosive mix of wealth, new immigrants and old Malay rulers led to wars and conflicts. The British mediated at the invitation of local rulers, profiting at the same time — a period known as the British intervention. As the Inneses had resided at the Protected Malay States just after British intervention in 1874, Emily’s book gives a contemporaneous and vivid account from the unique perspective of the first British woman living in the interiors of the Peninsula. Self-taught in Malay, Emily’s descriptions of the Malay rulers, their villages and villagers as well as their initial reaction to British presence during intervention have proved valuable to historians studying this period (Gullick, 1993, p. 170).
 
 Her publication is also interesting for its obvious play against the more famous work of Isabella Bird’s, *The Golden Chersonese* (1883).[^7] Giving the perspective of a resident instead of an acclaimed traveller, Innes wrote her piece “in contradistinction \[to Bird’s\] but with no aim of contradiction” (Doran, 2008, p. 175). Bird’s account of the Malay states was of five weeks between January and February 1879, while Emily’s is of her five-year residency from 1876 until her husband’s resignation in 1882.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/EmilyInnes/020002579_Image%20no1.jpg">
+ <div style="background-color: white;">Collector’s bungalow at Bandar Langat (Innes, 1885, Vol. 1, frontispiece)</div>
 
 Emily herself acknowledges the value and yet contrasting realities both authors portray in their writings:
 
