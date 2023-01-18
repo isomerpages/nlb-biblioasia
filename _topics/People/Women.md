@@ -68,10 +68,6 @@ Female missionaries in colonial Singapore have made their mark in areas such as 
 A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. Nadia Arianna Bte Ramli tells you more.
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks"> Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
-A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen"> Georgette Chen: Artist Extraordinaire</a>
 Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
