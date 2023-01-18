@@ -38,7 +38,7 @@ Some of the day was got rid of by bathing two or<br>three times, and the consequ
 
 For the well-read Emily, the only recourse to fighting the boredom was turning to books but unfortunately, her attempts at obtaining reading materials were unsuccessful:
 
-We tried to get books from the Circulating Library<br> in Singapore, but failed because there were only<br> two Europeans in the districts and there was no<br> regular communication at all between Langat<br> and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or 
+We tried to get books from the<br> Circulating Library in<br> Singapore, but failed because<br> there were only two Europeans<br> in the districts and there was no<br> regular communication at all between<br> Langat and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or 
 delayed for months... (pp.<br> 34—35)
 
 Unable to escape into some form of leisure, Emily turned to studying the local habits and dispassionately describing her own struggles.
@@ -51,9 +51,6 @@ The tragedy saw Emily return on home leave, followed soon after by James who had
 
 **The author wishes to acknowledge the contributions of Dr Ernest C.T. Chew, Visiting Professorial Fellow, Institute of Southeast Asian Studies, in reviewing this article.**
 
-
-
-
 <br>
 <div style="background-color: white;">
 <br/>
@@ -61,6 +58,9 @@ The tragedy saw Emily return on home leave, followed soon after by James who had
 <center><b>Bonny Tan</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center</div>
 	
 
-
+	
+	
+	
+	
 
 
