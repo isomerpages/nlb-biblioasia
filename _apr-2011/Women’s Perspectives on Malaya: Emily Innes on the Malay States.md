@@ -38,8 +38,28 @@ Some of the day was got rid of by bathing two or<br>three times, and the consequ
 
 For the well-read Emily, the only recourse to fighting the boredom was turning to books but unfortunately, her attempts at obtaining reading materials were unsuccessful:
 
-We tried to get books from the Circulating Library<br> in Singapore, but failed because there were only<br> two Europeans in the districts and there was no<br> regular communication at all between Langat<br> and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or delayed for months... (pp.<br> 34—35)
+We tried to get books from the Circulating Library<br> in Singapore, but failed because there were only<br> two Europeans in the districts and there was no<br> regular communication at all between Langat<br> and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or 
+delayed for months... (pp.<br> 34—35)
 
+Unable to escape into some form of leisure, Emily turned to studying the local habits and dispassionately describing her own struggles.
+
+Much of Volume 1 thus documents mundane activities such as her attempts at cooking a decent meal with limited and poor quality resources, the native behaviour of her Malay neighbours and the level of hygiene in the village or rather the lack of it. This volume also provides details about James Innes’ work and relationships with the locals and his colleagues, along with insights on personalities such as Bloomfield Douglas, Resident of Selangor and Tunku Dia Udin, the Viceroy of Selangor — a critical character in the history of modern Selangor. The characters are rendered from a biased perspective because of the relationship she had with each of these personalities. Even so, they present unique angles for researchers, particularly as she wrote these descriptions from the perspective of a woman, and that of a wife of a British official.
+
+Volume 2 describes the Inneses’ reluctant transfer to Durian Sabatang, the “white man’s grave”9 (Innes, p. 55), just as their more comfortable bungalow, designed by James Innes himself, was completed at Langat. A large part is devoted to an account of the tragic murder of Captain Lloyd, Superintendant of Dindings, at Pangkor and to the injuries sustained by Emily during the attack. Being new to the district and facing some discomfort, Emily had been invited to the Lloyds’ home: “I had never seen either of them, but that was of no consequence in a country where English are so rare that all are to a certain extent brothers” (Vol. 2, p. 91). In fact, the day Emily arrived, the Lloyds’ servants had not yet returned since receiving their pay and Mrs Lloyd, with three young children on hand, was in a quandary. The Lloyds’ troubles were only just beginning, as unemployed Chinese labourers in nearby Lumut saw the isolated Lloyds as a vulnerable and attractive target for a robbery. Unfortunately, Emily was a guest of the Lloyds on that fateful day such occurred. Mrs Lloyd and Emily were seriously injured in the attack on the family home but both survived the assault.
+
+The tragedy saw Emily return on home leave, followed soon after by James who had become ill due to the conditions at Durian Sabatang. Although James returned to Bandar, he resigned within two years because of continued poor relations with the Resident. James’ departure from his position in the Malay States and the resultant loss of his much desired pension gave Emily the impetus to write this explanatory autobiography commenting on the injustices the Inneses had suffered under the poor leadership of their British compatriots.10
+
+**The author wishes to acknowledge the contributions of Dr Ernest C.T. Chew, Visiting Professorial Fellow, Institute of Southeast Asian Studies, in reviewing this article.**
+
+
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<center><b>Bonny Tan</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center</div>
+	
 
 
 
