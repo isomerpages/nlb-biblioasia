@@ -115,6 +115,3 @@ Wong, Y.S. (1999, May). Bibliography: 19th century AD. _The Canadian Review of S
 [^9]: A name given for the “unhealthiness of its climate”. ([Innes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4180521), 1885, p. 55)
 
 [^10]: A note from Ernest Chew “Captain Bloomfield Douglas was succeeded as British Resident of Selangor by the youthful and more efficient Frank Swettenham, who subsequently became Resident of Perak, Resident-General of the four Federated Malay States, and finally Governor of the Straits Settlements and High Commissioner for the Malay States”.
-
-
-
