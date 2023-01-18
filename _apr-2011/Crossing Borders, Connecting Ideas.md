@@ -6,7 +6,7 @@ description: Research Associate Yee Yeong Chong presents what was shared at the
 ---
 #### Research Associate _Yee Yeong Chong_ presents what was shared at the 3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/CrossingBorders/xing%20borders_maybe%20two%20pg.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%201/CrossingBorders/xing%20borders_maybe%20two%20pg.jpg">
  <div style="background-color: white;">Beyond intellectual debate, intercultural exchange is also important in building collaborative capacities for the advancement of LIS research in the region.
 </div>
 
