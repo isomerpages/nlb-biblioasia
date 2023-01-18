@@ -22,7 +22,23 @@ Her publication is also interesting for its obvious play against the more famous
 
 Emily herself acknowledges the value and yet contrasting realities both authors portray in their writings:
 
-&emsp;To those who have read Miss Bird’s most<br>&emsp; interesting book, the ‘Golden Chersonese’ <br>&emsp— a book that was specially delightful to Mr<br>&emsp; Innes and myself, since we felt as if we had<br>&emsp; known personally every creature, every thing,<br>&emsp; and almost every mosquito she mentioned<br>&emsp; — it may seem curious that, notwithstanding<br>&emsp; the brilliancy and attractiveness of her<br>&emsp; descriptions, and the dullness and gloom of<br>&emsp; mine, I can honestly say that her account is<br>&emsp; perfectly and literally true. So is mine. The<br>&emsp; explanation is that she and I saw the Malayan<br>&emsp; country under totally different circumstances.<br>&emsp;(Innes, 1885, Vol. 2, p. 242)
+To those who have read Miss Bird’s most<br>interesting book, the ‘Golden Chersonese’ <br>— a book that was specially delightful to Mr<br>Innes and myself, since we felt as if we had<br> known personally every creature, every thing,<br>and almost every mosquito she mentioned<br>— it may seem curious that, notwithstanding<br>the brilliancy and attractiveness of her<br>descriptions, and the dullness and gloom of<br>mine, I can honestly say that her account is<br>perfectly and literally true. So is mine. The<br>explanation is that she and I saw the Malayan<br>country under totally different circumstances.<br>(Innes, 1885], Vol. 2, p. 242)
+
+Indeed where Isabella visited the Malay States under the protection and support of government officials, “Emily Innes was … forced to endure — although with great bravado — the drudgery of swampy, lugubrious isolation, rickety atap-houses, a cretinous native society, deceitful servants and scarce food supply — not to mention a traumatic, near-fatal experience involving revolting Chinese coolies” (Wong, 1999).
+
+#### **Surviving the Chersonese**
+
+Volume 1 describes the Inneses at Langat,8 their first lodgings and experiences in the Protected Malay States while Volume 2 is of their stay at Durian Sabatang. Neither posting was comfortable, with the latter worse than the former. So depressing were their circumstances that, having just arrived at their “Malay wigwam” in Langat and taken a short walk to survey their surroundings in what little civilisation there was, they “agreed aloud that if \[they\] had to remain six months in this fearful place \[they\] must either leave the service or commit suicide” (Innes, p. 19). However, the Inneses survived not just six months but six years in the Malay States.
+
+Though some have said Emily’s writings reflect “the mark of acute paranoia” (Heussler, 1981, p. 67), one must consider her dire circumstances. There was no ladies’ club or any other foreign women to commiserate with — only the intrusive locals and the overbearing sounds and sights of village life. Without children and at times, even a husband at home to occupy her, boredom was her constant companion.
+
+Though her life was painfully boring, she wrote of her experiences and encounters with the wry sense of humour peculiar to the British:
+
+Some of the day was got rid of by bathing two or<br>three times, and the consequent dressing<br>and undressing … some more time was disposed<br>of in eating and drinking — or rather in sitting<br> at the table and looking at food — for the<br> debilitating effects of the climate and want of<br>exercise did not leave us much appetite. There<br>were still many hours during which we either<br>had nothing to do, or could do nothing, from<br> heat, ennui, and mosquitoes. (Innes, 1885, pp.<br> 35—36)
+
+For the well-read Emily, the only recourse to fighting the boredom was turning to books but unfortunately, her attempts at obtaining reading materials were unsuccessful:
+
+We tried to get books from the Circulating Library<br> in Singapore, but failed because there were only<br> two Europeans in the districts and there was no<br> regular communication at all between Langat<br> and the outside world <br>.… Having failed in this direction,<br> we sent home for books and<br> newspapers. We ordered six<br> of the latter, besides several<br> magazines, to be constantly<br> sent to us, but from various<br> causes we did not reap the full <br>benefit of this arrangement.<br> Our papers, especially the<br> illustrated ones, were more<br> often than not stolen, or delayed for months … (pp.<br> 34—35)
 
 
 
