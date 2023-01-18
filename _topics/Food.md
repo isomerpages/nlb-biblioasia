@@ -39,7 +39,9 @@ Foraging for food in the hills, the forests and the coastline has been carried o
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks" >Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
-A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
+A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
+<img style="width:600px;" src="/images/vol-17-issue-4/cookbook/cookbook.png">
+<hr>
 
 
 
@@ -52,8 +54,11 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 
 
 
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
