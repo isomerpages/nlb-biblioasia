@@ -30,7 +30,7 @@ A collaborative effort by the National Library Board (NLB) and the Composers and
 
 This portal is also part of a nationwide drive to preserve Singapore’s heritage. Explaining the need to capture crucial snapshots of our history, Dr Edmund Lam, Chief Executive and Director of COMPASS explained that “as time elapses, many significant moments in music history are in danger of deteriorating to the point where they would be lost forever. MusicSG aims to save these materials for the enjoyment and education of future generations.”
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/vol4.jpg">
+<img style="width:70%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/vol4.jpg">
  <div style="background-color: white;">All rights reserved, Omar Md. Hashim. 2009.
 </div>
 
@@ -40,7 +40,7 @@ The Singapore music portal also aims to attract COMPASS members, music industry 
 
 One key feature of MusicSG is its catalogue of music by recordings, albums, genres, instruments and scores. Anyone who is passionate about the local music scene can look up articles on the history and development of Singapore music, or specific music topics. Biographies of local composers, lyricists and musicians, including discographies, awards and commendations, and other related information can also be found on the site.
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/kmatthews.bmp">
+<img style="width:70%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/kmatthews.bmp">
  <div style="background-color: white;">All rights reserved, Springroll. 1997.</div>
 
 Access to the digital depository is free-of-charge and no account registration is required. Music enthusiasts may search for the soundtracks of their choice from the multimedia stations at NLB’s network of 23 public libraries and the Lee Kong Chian Reference Library.
