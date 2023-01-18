@@ -22,11 +22,7 @@ Her publication is also interesting for its obvious play against the more famous
 
 Emily herself acknowledges the value and yet contrasting realities both authors portray in their writings:
 
-&emsp;To those who have read Miss Bird’s most<br>&emsp; interesting book, the ‘Golden Chersonese’ — a book that was specially delightful to Mr<br>&emsp; Innes and myself, since we felt as if we had<br>&emsp; known personally every creature, every thing,<br>&emsp; and almost every mosquito she mentioned&emsp; — it may seem curious that, notwithstanding&emsp; the brilliancy and attractiveness of her&emsp; descriptions, and the dullness and gloom of&emsp; mine, I can honestly say that her account is<br>&emsp; perfectly and literally true. So is mine. The<br>&emsp; explanation is that she and I saw the Malayan<br>&emsp; country under totally different circumstances.<br>&emsp; (Innes, 1885, Vol. 2, p. 242)
-
-
-
-
+&emsp;To those who have read Miss Bird’s most<br>&emsp; interesting book, the ‘Golden Chersonese’ <br>&emsp— a book that was specially delightful to Mr<br>&emsp; Innes and myself, since we felt as if we had<br>&emsp; known personally every creature, every thing,<br>&emsp; and almost every mosquito she mentioned<br>&emsp; — it may seem curious that, notwithstanding<br>&emsp; the brilliancy and attractiveness of her<br>&emsp; descriptions, and the dullness and gloom of<br>&emsp; mine, I can honestly say that her account is<br>&emsp; perfectly and literally true. So is mine. The<br>&emsp; explanation is that she and I saw the Malayan<br>&emsp; country under totally different circumstances.<br>&emsp;(Innes, 1885, Vol. 2, p. 242)
 
 
 
