@@ -18,12 +18,14 @@ Whether you are an avid fan of xinyao music (Singapore Chinese ballads) or a res
 
 As the nation’s first digital archive for music, MusicSG allows scholars or students doing research or individuals with a keen personal interest in Singapore music to access music-related works, both historical and contemporary, such as recordings, scores, articles, lyrics and album covers. With offerings from many genres ranging from classical, instrumental, jazz, pop, rock and metal, the website is a convenient one-stop portal that showcases music written in Singapore’s four official languages: English, Malay, Mandarin and Tamil.
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/sswing%20copy.bmp">
+ <div style="background-color: white;">All rights reserved, Minstry of Information, Communications & the Arts. 2009.</div>
+
 #### **An Upbeat Tempo in Preserving Singapore Music Heritage**
 
 A collaborative effort by the National Library Board (NLB) and the Composers and Authors Society of Singapore (COMPASS), MusicSG gathers a dazzling array of content on Singapore music in a bid to raise the awareness of local music, and provide resources for research and discovery.
-![](/images/Vol%207%20Issue%201/MusicalHeritage/Capture6.jpg)
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/Capture6.jpg">
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/MusicalHeritage/Capture7.jpg">
  <div style="background-color: white;">All rights reserved, Association of Composers (Singapore). 2009.</div>
 
 This portal is also part of a nationwide drive to preserve Singapore’s heritage. Explaining the need to capture crucial snapshots of our history, Dr Edmund Lam, Chief Executive and Director of COMPASS explained that “as time elapses, many significant moments in music history are in danger of deteriorating to the point where they would be lost forever. MusicSG aims to save these materials for the enjoyment and education of future generations.”
