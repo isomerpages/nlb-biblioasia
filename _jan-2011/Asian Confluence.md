@@ -25,6 +25,10 @@ However, the importance of Temasek as an emporium for the region declined over t
 
 Singapore’s fortunes revived only after Stamford Raffles, recognising Singapore’s early historical position as an emporium in the 14th century, once again restored it to the centre of trans-Oceanic trade, which flourished as the British Empire increasingly consolidated its hold on India (as an imperial power) and China (through its unequal treaty ports). Singapore became the hub of these trade exchanges, and the premier entrepot for the Southeast Asian region.4
 
+<img style="width:50%;" src="/images/Vol%206%20issue%204/AsianConfluence/a%20biography.jpg">
+ <div style="background-color: white;">All rights reserved, Didier Millet Pte Ltd, 2009.
+</div>
+
 There are other historians who also endorse a dialogical account of the birth of Singapore. In their study *Singapore: A Biography*, Mark Ravinder Frost and Yu-Mei BalasinghamChow write:
 
 Like its present day successor, 14th century Singapore was<br> also cosmopolitan … shards of excavated pottery reveal<br> that the local inhabitants shared a culture in common with<br> the people of the Riau-Lingga archipelago …. But there<br> were other distinctive groups who lived on the island. One<br> prominent group, as revealed by numerous items they left <br>behind, were Chinese merchants who had traded in the<br> region since the 11th century at least, bringing with them <br>ceramics, textiles, foodstuffs, and coins …. Other pottery<br> shards indicate the presence of Javanese, themselves a <br>trading power in the region, while a coin from Sri Lanka <br>and beads and Carnelian stones from India point to the<br> arrival of Tamils and Sinhalese …. Temasek would have<br> been much like the ports in the region during this time — a <br>vibrant emporium and a cultural melting pot.5
@@ -36,6 +40,9 @@ It is not generally appreciated that modern Singapore owes<br> its existence to 
 #### **Dialogical Histories of MODERN Science**
 
 The pioneering work that paved the way for dialogical histories of science was Joseph Needham’s monumental series *Science and Civilization in China*. 7 Needham revealed the significant contributions made by China to modern science and technology, including the inventions of gunpowder, printing, the compass and paper. Over the five decades since Needham began his study, others have been inspired to broaden the scope of his project in two different directions. Firstly, there has been increasing documentation of not just Chinese, but also Indian and Arabic-Islamic contributions to modern science.8 Secondly, this has in turn led to a greater appreciation of how philosophical, theoretical and technological contributions from China, India and the Islamic world came to interact and combine with European tradition to form what we know as modern science today. Science is now seen as profoundly shaped by intercultural dialogue.9
+
+<img style="width:50%;" src="/images/Vol%206%20issue%204/AsianConfluence/science%20and%20civilisation_1.jpg">
+ <div style="background-color: white;">All rights reserved, Cambridge University Press, 1985.</div>
 
 The Copernican Revolution, often associated with the birth of modern science, best illustrates the significance of intercultural dialogue in science. The revolution began in 1543, when Copernicus proposed that the sun, moon, and planets were not revolving around a stationary earth, but instead that the earth, moon and planets were revolving around the sun. To accommodate this heliocentric (suncentred) theory, scientists had to develop entirely new mathematics, physics and cosmology, culminating more than 140 years later in 1684 with Newton’s theory of gravitation and his laws of motion.
 
@@ -130,19 +137,3 @@ Saliba, George (2007). _Islamic Science and the Making of the European Renaissan
 [^14]: A good and influential study of these maritime silk road linkages is [Abu-Lughod](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136) (1989).
 
 [^15]: For more information see the Singapore Ministry of Education site, especially [https://www.moe.gov.sg/education-in-sg/our-programmes/national-education](https://www.moe.gov.sg/education-in-sg/our-programmes/national-education) on National Education and [https://www.moe.gov.sg/education-in-sg/desired-outcomes#:~:text=Be%20innovative%20and%20enterprising.,have%20an%20appreciation%20for%20aesthetics](https://www.moe.gov.sg/education-in-sg/desired-outcomes#:~:text=Be%20innovative%20and%20enterprising.,have%20an%20appreciation%20for%20aesthetics) on Desired Outcomes of Education
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
