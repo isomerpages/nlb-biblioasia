@@ -67,7 +67,33 @@ However, dialogical histories of both Singapore and modern science also suggest 
 
 Nurturing scientific creativity need not involve repudiating the scientific traditions in Singapore’s heritage as an Asian civilisation. After all, if modern science drew on the resources of the Chinese, Islamic and Indian cultures at its dawn, then these cultures did create reservoirs of knowledge to advance science. We could therefore ask: What can we learn about creative and innovative thinking from the different Asian cultures in their time of pioneering achievements — in the pre-modern era?
 
-Clearly, dialogical histories of Singapore and modern science suggest that we need not turn away from Singapore’s multicultural heritage to find solutions to the concerns of designing a national education curriculum that unites, and science education that nurtures creativity and innovation. We may also find solutions by studying how our different cultures — Chinese, Malay-Islamic and Indian — engaged in intercultural dialogue to produce Singapore’s successful and globalised emporium culture and the scientific tradition that drives it today.
+Clearly, dialogical histories of Singapore and modern science suggest that we need not turn away from Singapore’s multicultural heritage to find solutions to the concerns of designing a national education curriculum that unites, and science education that nurtures creativity and innovation. We may also find solutions by studying how our different cultures — Chinese, Malay-Islamic and Indian — engaged in intercultural dialogue to produce Singapore’s successful and globalised emporium culture and and the scientific tradition that drives it today.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
