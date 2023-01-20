@@ -8,7 +8,12 @@ description: Lee Kong Chian Research Fellow Tan Teng Phee examines the
 ---
 #### Lee Kong Chian Research Fellow _Tan Teng Phee_ examines the circumstances of the Tras New Village, the consequences borne by the community as a result of the assassination and its repercussions.
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/HenryGurney/DSCN3737.jpg">
+ <div style="background-color: white;">The Straits Times, 8 Nov 1951. ([https://eresources.nlb.gov.sg/newspapers/](https://eresources.nlb.gov.sg/newspapers/)newspapers.nl.sg)</div>
+
 <center><i>"The bamboo music was lively and rousing<br> How miserable Tras resettlement was<br> Here another meal with dried and salted fish<br> A deeply bitter experience we suffer in silence"<br></i> (Hakka song composed by Tras New Villagers at the Ipoh detention camp)</center>
+
+
 
 On 16 June 1948, after the murder of three European rubber estate managers in Sungai Siput, Perak, the British colonial government declared a state of emergency in Malaya. The British considered the murders to be the mark of an outbreak of armed communist insurgency; thus, the mass resettlement programme which was put in place by the British thereafter was designed to isolate and defeat the Communists, and simultaneously win the hearts and minds of the rural people. By the end of the Malayan Emergency on 31 July 1960, half a million rural dwellers had resettled into 480 New Villages, 450 of which are still scattered across the Malay Peninsula today. In 1951, Tras New Village became a focal point of British anti-Communist imperatives and the Malayan Emergency.
 
@@ -67,10 +72,14 @@ To the British, both in Whitehall (London) and Kings House (Kuala Lumpur), the a
 
 In the context of the emergency, the history of Tras is illustrative of an extreme set of circumstances. The assassination of the High Commissioner not only altered Tras’ historical trajectory; the mass detention and collective punishment further displaced and dispersed the Hakka community in Malaya. The Tras people bore the heavy costs of this tragic event, enduring family separation, considerable emotional trauma and financial hardship during the Emergency period and in the decades after.
 
-**The author wishes to acknowledge the contributions of Dr James Francis Warren, Professor of Southeast Asian Modern History, Murdoch University, in reviewing this research essay.**
+**The author wishes to acknowledge the contributions of Dr James Francis Warren, Professor of Southeast Asian Modern History, Murdoch University, in reviewing 
+this research essay.**
 
-
-
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/teng%20phee.jpg" style="width: 100px; height: 100px;"/>
+ <center><b>Tan Teng Phee</b><br>Lee Kong Chian Research Fellow (2009)<br> National Library </center></div>
 
 
 
