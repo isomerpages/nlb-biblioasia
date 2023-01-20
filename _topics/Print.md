@@ -44,6 +44,7 @@ In the second of two essays on the history of printing in mainland Southeast Asi
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/early-printing">Early Printing in the Philippines</a>
 Continuing with the series on printing in Southeast Asia, Gracie Lee explores the early history of printing and printed works in the Philippines.
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
 Chinese newspapers have been published in Singapore since the 19th century. Lee Meiyu looks at how they have evolved and examines their impact on the Chinese community here.
