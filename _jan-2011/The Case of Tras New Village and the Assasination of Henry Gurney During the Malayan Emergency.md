@@ -9,7 +9,7 @@ description: Lee Kong Chian Research Fellow Tan Teng Phee examines the
 #### Lee Kong Chian Research Fellow _Tan Teng Phee_ examines the circumstances of the Tras New Village, the consequences borne by the community as a result of the assassination and its repercussions.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/HenryGurney/DSCN3737.jpg">
- <div style="background-color: white;">The Straits Times, 8 Nov 1951. ([https://eresources.nlb.gov.sg/newspapers/](https://eresources.nlb.gov.sg/newspapers/)newspapers.nl.sg)</div>
+ <div style="background-color: white;">The Straits Times, 8 Nov 1951. ([https://eresources.nlb.gov.sg/newspapers/](https://eresources.nlb.gov.sg/newspapers/)</div>
 
 <center><i>"The bamboo music was lively and rousing<br> How miserable Tras resettlement was<br> Here another meal with dried and salted fish<br> A deeply bitter experience we suffer in silence"<br></i> (Hakka song composed by Tras New Villagers at the Ipoh detention camp)</center>
 
@@ -80,7 +80,3 @@ this research essay.**
 <br/>
 <img src="/images/Authors/teng%20phee.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Tan Teng Phee</b><br>Lee Kong Chian Research Fellow (2009)<br> National Library </center></div>
-
-
-
-
