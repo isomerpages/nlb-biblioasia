@@ -13,7 +13,6 @@ The Asian Film Archive has been restoring old classics since 2014.
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 
 <img style="width:80%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
@@ -119,7 +118,6 @@ Photographs can capture subtext that is sometimes more evocative than the intend
 The oldest known photographs of Singapore were taken by Europeans in the early 1840s. Janice Loo charts the rise of commercial photography in the former British colony.
 
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography In Pre-war Singapore</a>
