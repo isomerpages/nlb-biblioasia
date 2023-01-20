@@ -9,7 +9,7 @@ description: Lee Kong Chian Research Fellow Tan Teng Phee examines the
 #### Lee Kong Chian Research Fellow _Tan Teng Phee_ examines the circumstances of the Tras New Village, the consequences borne by the community as a result of the assassination and its repercussions.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/HenryGurney/DSCN3737.jpg">
- <div style="background-color: white;">The Straits Times, 8 Nov 1951. (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>)
+ <div style="background-color: white;">The Straits Times, 8 Nov 1951. (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/)</a>
 </div>
 
 
