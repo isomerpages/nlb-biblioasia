@@ -52,7 +52,7 @@ Theemithi is much more than just the firewalking festival. It is a cycle of ritu
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing">A Bite of History: Betel Chewing in Singapore</a>
  <p>Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.</p> 
 
- <img src="/images/vol-16-issue-3/betel/twomensellingbetel.jpg" style="width:500px;"> 
+ <img style="width:100%;" src="/images/vol-16-issue-3/betel/twomensellingbetel.jpg">
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/search-of-seven-sis/">In Search of the Seven Sisters Festival</a>
