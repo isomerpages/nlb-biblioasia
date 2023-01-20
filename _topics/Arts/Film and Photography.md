@@ -6,41 +6,38 @@ third_nav_title: Arts
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
 The Asian Film Archive has been restoring old classics since 2014.
-<hr>
 <img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
-<hr>
+
 <img style="width:80%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
 Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter of local sports, a photographer and an ornithologist.
-<hr>
-<img style="width:60%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg">  
 
+<img style="width:60%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
 
 The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas, marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
-<hr>
+
 ![](/images/Cathay/cathay-night-102.jpg)
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
-Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. 
-<hr>
+Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics.
+
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png"> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema"> The Golden Age of Malay Cinema: 1947–1972 </a>
 <p> Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. Nor Afidah Bte Abd Rahman and Michelle Heng recount its fabled history.</p> 
-<hr>
+
 <img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg">
  <hr>
  
@@ -50,7 +47,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph"> Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens </a>
 <p> Western filmmakers have always had a fascination for Singapore. Ben Slater tells you why.</p> 
-<hr>
+
  <img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg">
  <hr>
  
@@ -64,7 +61,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/"> Five Ashore in Singapore: A European Spy Film</a>
 <p>Raphaël Millet sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.</p> 
-<hr>
+
  <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
  <hr>
  
@@ -78,7 +75,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/gaston-melies"> Gaston Mèliès and His Lost Films of Singapore</a>
  <p>Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time. Raphaël Millet tells you why.</p> 
-<hr>
+
  <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg">
  <hr>
 
@@ -88,7 +85,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert">Singapore in Sepia</a>
 Photography in Singapore has a long history dating back to 1843. The earliest photographs, or daguerrotypes, captured images on metal plates. Then, in 1851, the glass plate collodion process was introduced, which allowed photographs to be easily reproduced on albumen paper. This new technology was a breakthrough as it allowed photography to take off commercially.
-<hr>
+
 <img src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
 <hr>
 
@@ -98,13 +95,13 @@ Edward Stokes reflects on Characters of Light by Marjorie Doggett, first publish
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo">From the Archives: The Work of Photographer KF Wong</a>
 K. F. Wong shot to international fame with his images of Borneo, though not without controversy. Zhuang Wubin examines Wong’s work and sees beyond their historical value.
-<hr>
+
 <img src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg">Picturing Singapore: A Visual History</a>
 Photographs are an important means to understand Singapore’s history and heritage. Janice Loo shares highlights from the National Library’s PictureSG Collection.
-<hr>
+
 <img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg">
 <hr>
 
@@ -114,13 +111,13 @@ Gretchen Liu casts the spotlight on the Lee Brothers Studio Collection. Comprisi
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/the-way-we-were">The Way We Were: The MITA Collection 1949–1969</a>
 Photographs can capture subtext that is sometimes more evocative than the intended subject, as Gretchen Liu discovered when she explored the early work of the Photo Unit.
-<hr>
+
 <img src="/images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/photography-in-sg/">Daguerreotypes to Dry plates: Photography in 19th-century Singapore</a>
 The oldest known photographs of Singapore were taken by Europeans in the early 1840s. Janice Loo charts the rise of commercial photography in the former British colony.
-<hr>
+
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
 
 <hr>
