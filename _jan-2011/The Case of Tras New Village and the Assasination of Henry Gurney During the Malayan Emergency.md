@@ -89,3 +89,71 @@ this research essay.**
 <br/>
 <img src="/images/Authors/teng%20phee.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Tan Teng Phee</b><br>Lee Kong Chian Research Fellow (2009)<br> National Library </center></div>
+
+#### **NOTES**
+
+ [^1]: [Ambush: Official Story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.3). (1951, October 8). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^2]: [Wife Stayed with Body for 45 Minutes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.5). (1951, October 8). _The Straits Times_, p. 1. [The Funeral Tomorrow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511007-1.2.4). (1951, October 7). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^3]: See [Troops search ambush area](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.2). (1951, October 8). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^4]: [No evidence of breach in security](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511009-1.2.5). (1951, October 9). The Straits Times, p. 1. Among these documents were bandit’s plans for an ambush in that area and a log of military vehicles passing on October 5 and the morning of October 6. See _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.2)_, 8 Oct 1951, p. 1
+
+ [^5]: Chin Peng. (2003). _[My Side of History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841)_ (p. 287). Singapore: Media Masters Pte Ltd. (Call no.: RSING 959.5104092 CHI)
+
+ [^6]: According to one government statement, 15 battles had occurred in the Tras area since the outset of the Emergency, leaving 20 people dead and 14 wounded. In addition, the authorities had recorded 25 cases of attempted murder. The security forces had also discovered 24 “supply dumps” and 52 “bandit camps” in the vicinity of the town over the past three years. See [Terror town to be moved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2). (1951. November 8). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^7]: Tras was reported as “a favourite haunt of the gang and police suspect that the bandits have many friends in the village and its resettlement area.” See [Killer gang slips out of the trap](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511030-1.2.9). (1951, October 18). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^8]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2)_, 8 Nov 1951, p. 1.
+
+ [^9]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2)_, 8 Nov 1951, p. 1.
+
+ [^10]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2)_, 8 Nov 1951, p. 1.
+
+ [^11]: It was said that the daughter was later deported to China. Madam Leong. (2007). Interview with the author on 2 December 2007.
+
+ [^12]: [20 Detained in Village Screening](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511109-1.2.73). (1951, November 9). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+ [^13]: [Tras Evacuation Ends: 2,000 Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511110-1.2.25). (1951, November 10). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^14]: For instance, Mr Lau, a grocery owner, asked his brother to transport his goods to the former’s grocery shop in Raub. Mrs Lau. (2007). Interview with the author on 12 December 2007. Tras. Another informant said his father asked a friend to sell his medicinal goods in Raub. His father lost a lot of money since it had to be sold in such a short time. Mrs Tang. (2007). Interview with the author on 19 October 2007.
+
+ [^15]: A newspaper reported that government agents bought $70,000 worth of rubber from the dealers at Tras. There was also about $50,000 worth of rice in storage, including bags of first-grade Siamese rice. One of the liquor shops had 62 unopened cases of brandy and showcases full of other types of liquor. Government teams also recorded $100,000 worth of textiles in the shops. [Doomed town had hoarded fortune in food, drink](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511109-1.2.76). (1951, November 9). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+ [^16]: See _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511110-1.2.25)_, 10 Nov 1951, p. 1.
+
+ [^17]: Mr Li. (2007). Interview with the author on 5 July 2007. Tras New Village. The site is now a State Stadium. I visited the spacious stadium which could accommodate three to four thousand people when it was a detention camp in 1950s.
+
+ [^18]: [37 Held from ‘Murder Village’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520313-1.2.49). (1952, March 13). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+ [^19]: Mr Tao. (2007). Interview with author on 26 November 2007. Tras New Village; Mr Lee, (2007). Interview with author on 3 December 2007.
+
+ [^20]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520313-1.2.49)_, 13 Mar 1952, p. 5.
+
+ [^21]: There were two types of houses, 60 x 60 feet and 60 x 120 feet, which still stand today in Tras New Village. It cost $2,700 and $3,700 for a small and large house, respectively. Mr Li. (2007). Interview with the author on 12 December 2007. The Federation Housing Trust also provided $500,000 in loans to enable former villagers to purchase their houses. See [Second Chance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570919-1.2.63). (1957, September 19). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+ [^22]: [‘Ghost Town’ Boom Again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580111-1.2.70). (1958, January 11). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+ [^23]: Jeffrey Francis. (1958, April 27). [Snip! Terror town Tras comes to life again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580427-1.2.31). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+
+ [^24]: [Ghost town now has 600 people](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580602-1.2.90). (1958, June 2). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+
+ [^25]: Mr Li. (2007). Interview with the author on 12 December 2007.
+
+ [^26]: [Sir Henry Gurney killed — he drew bandit fire](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511007-1.2.2). (1951, October 7). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^27]: Mr Chang. (2007). Interview with the author on 12 December 2007. Sempalit New Village. The local Chinese used to address the British High Commissioner as ‘Imperial Commissioner’ (欽差大臣).
+
+ [^28]: Author’s interview with villagers in a coffee shop in Tras New Village on 2 December 2007.
+
+ [^29]: The newly elected Prime Minister Winston Churchill sent his Colonial Secretary, Oliver Lyttelton, from United Kingdom to Malaya to assess the political situation himself.
+
+ [^30]: For instance, The Manchester Guardian questions: “Does such indiscriminate action really impress?” See Collective Punishment in Malaya, 1950–1951. (1952, December 16). Note for Secretary of State Brief, Kenya Debate, CO 1022/56.
+
+ [^31]: In fact, Tras was the 17th village to be punished under the draconian Emergency Regulation 17D. The British authorities had already applied the same regulation in 16 other places, involving almost 8,000 people since 1949. See [18th Village to get 17D Penalty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.4). (1951, November 8). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+
+ [^32]: Mr Li. (2007). Interview with the author on 12 December 2007.
+
+
