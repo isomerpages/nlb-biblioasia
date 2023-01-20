@@ -20,7 +20,7 @@ The story of how Johor ended up at the Chicago World’s Fair is an unexpected t
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a>
 Located in Bras Basah Complex, the Chinese bookstore has played an important role in the development of the Chinese literary scene. 
-
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
 Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
