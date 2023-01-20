@@ -155,5 +155,3 @@ this research essay.**
  [^31]: In fact, Tras was the 17th village to be punished under the draconian Emergency Regulation 17D. The British authorities had already applied the same regulation in 16 other places, involving almost 8,000 people since 1949. See [18th Village to get 17D Penalty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.4). (1951, November 8). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
  [^32]: Mr Li. (2007). Interview with the author on 12 December 2007.
-
-
