@@ -7,7 +7,6 @@ third_nav_title: Places and Buildings
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">"Book City" in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a>
 
 Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
-<hr>
 
 <img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg">  
 <hr>
