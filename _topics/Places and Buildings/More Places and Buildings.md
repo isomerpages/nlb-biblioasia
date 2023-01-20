@@ -71,7 +71,7 @@ This expanse of green fringed by grand colonial edifices in the city centre is a
 
 #### <a href="/vol-16/issue-3/oct-dec-2020/karikal" style="text-decoration: none; font-weight: bold;"> Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
 <p>William L. Gibson uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.</p> 
-
+<hr>
 
 #### <a href="/vol-16/issue-2/jul-sep-2020/causeway" style="text-decoration: none; font-weight: bold;">From Sea to Road: Building the Causeway</a>
 The foundation stone for the Causeway was laid 100 years ago on 24 April 1920. Building it was a major engineering feat at the time.
@@ -94,6 +94,7 @@ The five-footway – the equivalent to the modern-day pavement or sidewalk – w
 Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as Faris Joraimi reveals.
 <hr>
 <img src="/images/vol-17-issue-4/mother-island/Lingga.jpg" style="width:100%;"> 
+<hr>
 
 #### <a href="/vol-15/issue-2/jul-sep-2019/preservation-buildings/" style="text-decoration: none; font-weight: bold;">To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage</a>
 Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. Lim Tin Seng charts the journey.
