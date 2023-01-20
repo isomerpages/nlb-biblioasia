@@ -67,3 +67,19 @@ The reefs that fringed Singapore’s coastline and islands have served for centu
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/mangroves">Mangroves: A Tale of Survival</a>
 Mangroves are an integral part of the marine ecosystem. Ang Seow Leng explains why these hardy and resilient plants are vital for the survival of humankind.
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel">French Impressions: 19th Century Natural History Drawings of Singapore and Southeast Asia</a>
+<p>A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.</p>
+<hr>
+<img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg">
+
+
+
+
+
+
+
+
+
+
+<hr>
