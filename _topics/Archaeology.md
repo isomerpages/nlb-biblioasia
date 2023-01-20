@@ -15,7 +15,7 @@ Where did ancient gold come from? What was it used for and what gold discoveries
 Stone tools have been found in and around Singapore since the late 19th century. Much about them remains a mystery.
   
 <img style="width:100%;" src="/images/Vol%2018%20Issue%204/Stone%20Tools/image1.png">
-<hr>
+
 
 	
 
