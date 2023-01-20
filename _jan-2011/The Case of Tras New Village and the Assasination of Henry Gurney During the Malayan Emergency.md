@@ -6,3 +6,5 @@ description: Lee Kong Chian Research Fellow Tan Teng Phee examines the
   circumstances of the Tras New Village, the consequences borne by the community
   as a result of the assassination and its repercussions.
 ---
+#### Lee Kong Chian Research Fellow _Tan Teng Phee_ examines the circumstances of the Tras New Village, the consequences borne by the community as a result of the assassination and its repercussions.
+
