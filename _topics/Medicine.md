@@ -5,9 +5,10 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric"> Vaccinating a Nation</a>
 <p>The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.</p> 
-<hr>
+
 <img style="width: 100%;" src="/images/vol-17-issue-2/vaccination/Waitingtobevaccinated.jpg"> 
 <hr clear="left">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 <p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p> 
@@ -15,13 +16,13 @@ description: ""
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/cholera">Cholera in 19th-century Singapore</a>
 <p>The colony experienced its first cholera outbreak in 1841, and several epidemics in the decades thereafter. Bonny Tan examines how the battle against this deadly illness was won.</p> 
-<hr>
+
 <img style="width:100%;" src="/images/Vol-16-issue-2/cholera/monstrous.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/">Magic or Medicine? Malay Healing Practices</a>
 <p>Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? Nadirah Norruddin uncovers the varying perceptions of Malay medicine in colonial Malaya.</p> 
-<hr>
+
 <img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG">
 <hr>
 
