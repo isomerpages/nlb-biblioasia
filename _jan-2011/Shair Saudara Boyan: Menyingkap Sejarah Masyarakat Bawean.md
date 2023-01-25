@@ -67,11 +67,40 @@ Seperti koleksi syair-syair lain, pengarang memulakan karyanya dengan puji-pujia
 
 Pengarang syair memohon agar syairnya diberkati Allah serta dapat menghiburkan pembaca-pembacanya. Bermula bait ke 17 pula, beliau terus memulakan hal masyarakat di Pulau Bawean serta urutan catatan perantauan mereka ke Singapura. Selanjutnya, niat dan persiapan kaum Bawean untuk merantau, juga detik-detik pengalaman merentasi lautan selama sebulan sebelum sampai ke destinasi tujuan diceritakan (ms. 5).
 
-&emsp; Marilah belayar jangan berlat<br>&emsp;  Ke Singapura namanya selat<br><br>&emsp;  Pelayaran ada di dalam sebulan<br>&emsp;  Kurnia Tuhan dengan kebetulan
+&emsp; Marilah belayar jangan berlat<br>&emsp;  Ke Singapura namanya selat<br><br>&emsp;  Pelayaran ada di dalam sebulan<br>&emsp;  Kurnia Tuhan 
+dengan kebetulan
 
+#### **Penempatan Awal Masyarakat Bawean**
 
+Setibanya di Singapura, kaum lelakinya menjual tikar anyaman Bawean di Kampung Jawa (Kampung Gelam). Sejak zaman Munshi Abdullah lagi mereka tinggal di rumah-rumah sementara di daerah Kampong Kapor (di pesisir Sungai Rochor yang terletak di antara Jalan Besar dan Syed Alwi Road).13 Kawasan ini seterusnya menjadi tumpuan pendatang Bawean lantas dikenali sebagai Kampung Boyan (ms. 7—17).
 
+&emsp;Kepada Melayu dapat bercampur<br>&emsp; Berniaga Boyan di Kampong Kapor<br><br>&emsp; Mulailah ramai Boyan Singapura<br>&emsp; Di Kampong Kapor tempat ketara
 
+Khabar keselesaan hidup di Singapura memang menggamit minat rakan taulan mereka di Pulau Bawean hingga akhirnya ramai turut berhijrah pada pertengahan abad ke 19. Banci Koloni Singapura tahun 1849 mencatatkan kehadiran 763 orang Bawean (720 lelaki dan 43 perempuan). Jumlah penghijrah ini terus meningkat tetapi kemasukan mereka ke sini dihadkan selepas Perang Dunia Kedua dengan penguatkuasaan “*Citizenships Ordinance*, 1957.”14
+
+#### **Institusi Pondok Bawean**
+
+Kaum Bawean yang berhijrah ke Singapura berasal dari pelbagai desa seperti Beluluar, Dekatagung, Padekek, Pakalongan, Tachung, Teluk Jati, Sakaoneng, Sokalela dan lain-lain. Tatkala sampai ke Singapura, mereka bersatu dan disediakan naungan di kediaman yang dikenali sebagai “ponthuk” (pondok) iaitu rumah bagi pendatang baru Bawean. Konsep pondok sebagai institusi sosial unik bagi memastikan keselesaan sosial dan keselamatan moral mereka15 terutama bagi yang masih menganggur atau sakit kerana konsep pondok juga nampaknya sangat mirip dengan konsep “kongsi” bagi pendatang-pendatang Cina ke rantau ini.16
+
+Pondok selalunya merupakan rumah kedai bertingkat atau banglo dengan unit-unit bilik kecil untuk setiap keluarga, sementara ruang tamu, ruang solat, dapur serta bilik dikongsi bersama penghuni lain. Terdapat antara 10–30 buah keluarga hidup di bawah satu bumbung pondok. Nama setiap pondok di Singapura biasanya diberikan sempena desa asal di Bawean kerana kaum ini didapati amat tebal jati diri serta nilai etnosentrisme mereka. Mereka mahu dikenali sebagai orang dari desa asal mereka misalnya orang-orang Tambak, Gelam, Pakherbung dan lain-lain.
+
+Di antara tahun 1940-an hingga 1950-an, catatan taburan 138 pondok didirikan di serata Singapura,17 antaranya Pondok Teluk Dalam di Dixon Road, Pondok Dedawang di Sophia Road dan Pondok Adam di Ann Siang Hill. Pondok terakhir dikenalpasti terletak di Sungei Road dan telah dirobohkan pada tahun 1981.18
+
+Penghuni pondok dikenakan bayaran sewa bilik sebanyak $4 hingga $12 sebulan oleh Pak Lurah serta yuran keanggotaan sebanyak $1.50 sebulan.19 Sebagai imbalan, kebajikan keselamatan ahli mereka dijaga melalui sistem gotong royong sesama penghuni pondok itu.
+
+*Shair Saudara Boyan* turut menyebut nama beberapa pondok yang terkenal melalui halaman-halaman 18 hingga 28.
+
+&emsp;Baik sebuah masjid yang tentu<br>&emsp; Di Pondok Tachung tempat itu<br><br>&emsp; Ketua bernama Encik Cak Cang<br> &emsp;Semuanya Boyan di Gunong Lanceng
+
+&emsp;Ketika itu ia Pak Tarallah<br>&emsp; Pakalongan ini jadi ceritalah<br><br><br> Sakaoneng pula saya nyatakan <br>&emsp;Pondok ia di sebelah pekan
+
+Setiap pondok diketuai oleh seorang Pak Lurah yang bertindak sebagai penghulu serta penasihat ahli pondok. Oleh kerana kebolehan Pak Lurah ini, penguasa polis sebelum Perang Dunia Kedua telah memberi mereka sedikit kuasa untuk menangani sendiri ahli-ahli pondok mereka jika ada yang mengganggu ketenteraman.20
+
+Pengaruh besar seseorang Lurah pondok Bawean diakui oleh pemerintah Inggeris. Mereka dihormati kerana kebanyakannya terdiri dari golongan yang agak berada dan telah menunaikan fardhu haji.
+
+Syair ini memaparkan nama beberapa Pak Lurah antaranya Pak Lurah Dul Haris dari Pondok Tachung yang berniaga menjual tiket-tiket kapal ke Pulau Bawean. Sebagai ketua yang berdedikasi serta bersifat patriotik kepada Singapura, beliau telah dianugerahkan pangkat Jaksa Pendamai (JP) (ms. 21) :
+
+&emsp;Kesempurnaan Jawa yang dihadapi<br>&emsp;Gabenor memberi Pangkat JP
 
 
 
