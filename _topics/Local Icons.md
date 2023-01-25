@@ -36,4 +36,23 @@ Many generations of Singaporeans have shopped in Robinsons since its founding in
 As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
 <img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg">
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel & Sembawang</a>
+Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry. Wee Beng Geok traces the colonial origins of these two companies.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/oriental-emporium/">Oriental Emporium: The End of an Era</a>
+The Emporium chain of department stores entered the scene when the retail market in Singapore was still in its infancy. Kam Kit Geok takes a closer look at a much-loved shopping icon.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/">Rediffusion’s Golden Years</a>
+Singapore’s only cable radio service was an instant hit when it was launched in 1949. Barbara Quek charts the history of the pioneering broadcasting station.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/modern-by-design/">Becoming Modern By Design</a>
+The now-defunct Baharuddin Vocational Institute was Singapore’s first formal school for design. Justin Zhuang looks at how the institute laid the foundation for the design industry here.
+
+
+
 <hr>

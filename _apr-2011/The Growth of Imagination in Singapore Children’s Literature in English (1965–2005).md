@@ -8,6 +8,9 @@ description: "Lee Kong Chian Research Fellow Noel Chia Kok Hwee’s traces the
 ---
 #### Lee Kong Chian Research Fellow _Noel Chia Kok Hwee_’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English.
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Boo.jpg">
+ <div style="background-color: white;">All rights reserved, Educational Publications Bureau. 1985.</div>
+
 My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown & Tomlinson, 2008; Tomlinson & Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels[^1] — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
 
 The term *imagination* is defined as that literary process of the mind to generate mental images of objects, states or actions not felt or experienced by the senses. Imagination is usually synonymous with “fancy, and commonly opposed to the faculty of reason, either as complementary to it or as contrary to it”.[^2] According to Sewall (1999) and Roth (2004), imagination helps bridge readers and their environment to create meaningful experiences and understanding of knowledge. It is a fundamental facility through which readers make sense of the world (Norman, 2000; Sutton-Smith, 1988) and also plays an important role in the learning process (Egan, 1992; Norman, 2000).
@@ -46,6 +49,9 @@ One of the early roadblocks to the growth of Singapore children’s literature h
 
 A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong & Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101)
 
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Night%20Market.jpg">
+ <div style="background-color: white;">All rights reserved, Times Books International. 1985.</div>
+
 I was able to identify only one trade book published during this period: Sylvia Sherry’s *Street of the Small Night Market* (1966). Others were merely basal readers such as the *Federal Supplementary Readers Third Year(Book 3)* (1961), the *Federal Readers Book 1* (1963), and *Structural English Course Reader 4* (1968). It was in a third course reader that I found an interesting story, *The King of Fishes* (1968) by Chia Meng Ann and Chia Hearn Chek. “Although the literature addressed reading discovery, it was positioned to address reading needs first and often the tone of the materials was didactic if not dull.” (National Library Board, 2005, p. 2)
 	
 #### **The Pioneering Period (1970s)**	
@@ -64,7 +70,7 @@ In other words, books can provide a glimpse of imagination experienced by avid r
 
 Folktales, fables and basal readers dominated SCLE in the 1970s. Didacticism from the previous period was also carried over into this period. According to Nair et al. (1977), a survey study done by the National Library covering three age groups showed their reading preference in the following order of appreciation (p. 11):
 
-<img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/table.jpg">
+<img style="width:70%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/table.jpg">
 <div style="background-color: white;"></div>
 
 The adventure story was the hot favourite for all three age groups during that time, followed by myths and legends. According to Nair,
@@ -86,6 +92,9 @@ The adventure story was the hot favourite for all three age groups during that t
 
 In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year, keep Singapore clean, bilingualism in schools, multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975). 
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation4.jpg">
+ <div style="background-color: white;">(Left) All rights reserved, Seamaster Publishers. 1979. (Right) All rights reserved, Educational Publications Bureau. 1979.</div>
+
 One reason why SCLE during this period lacked imaginativity was also partly due to children’s reading abilities and power of imagination. Mature or sophisticated readers were few. Literary genres such as fantasy, suspense and science fiction (FSSF for short) that appeal to creative imagination, curiosity or wonder had limited appeal to our young readers then (Nair et al., 1977). From the reading survey done by the Children’s Services of the National Library in 1976, the youngest group of readers in Singapore did not read books in the FSSF category at all while the other two groups showed the following preferences (Nair et al., 1977, p. 11):
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Capture2.jpg">
@@ -96,7 +105,7 @@ It should be noted that titles in the science fiction category were of limited a
 &emsp;… both science fiction and sometimes fantasy <br>
 &emsp;demands of the reader a certain amount of <br>
 &emsp;sophisticated knowledge of science and the jargon of <br>
-&emsp;space science, and this may be lacking in most 
+&emsp;space science, and this may be lacking in most<br> 
 &emsp;areas where there is no tradition of Western type education,<br>
 &emsp;in children of these ages. (p. 13)
 
@@ -112,7 +121,13 @@ Strictly speaking, SCLE only emerged in the 1980s, as evidenced by two national 
 
 Despite the publication of books in the genre of imaginative children’s fiction such as T*he Friendly Malcinds* (Blair, 1982) and The Little People of Malcindia (Blair, 1985), these works often read as forced and artificial in their attempts “to create a Singaporean multi-ethnic identity by incorporating qualities from each of the three main races in Singapore” (Khoo, 1990/91, p. 21). They were still lacking the kind of real imagination (also known as imagining or fantasising), which J. S. Mill (as cited in Leavis, 1950), describes as that which enables us to voluntarily conceive the absent as if it were present, the imaginary as if it were real, and to clothe it in the feelings which, if it were indeed real, it would bring along with it. “This is the power by which one human being enters into the mind and circumstances of another” (Chia, 1991, p. 22) in somewhat a similar fashion like the main protagonist, Jake Scully, who entered into the body of an avatar in order to be in close contact with the Na’vi tribe, shown in the recent Oscar award-winning blockbuster movie Avatar and described in James Cameron’s book entitled *Avatar: The Na’vi Quest* (2009).
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation6.jpg">
+ <div style="background-color: white;">(Left) All rights reserved, Longman Malaysia. 1982. (Right) All rights reserved, Longman Singapore. 1985.</div>
+
 However, books published in the 1980s showed marked improvements in visual presentation. Publishers explored the use of quality colours and illustrations for children’s books, such as Jessie Wee’s *Boo!* (1984), which has an attractive cover illustration. Jessie Wee, undeniably a forerunner in writing for children in Singapore, is a significant contributor to SCLE. Her series, *The Adventures of Mooty* (1980,) has been popular  from the time it was released and set a milestone in creative Singapore children’s literature. Jessie Wee’s focused attempt to write children’s stories in the context of Singapore is characteristic of her inimitable writing style.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/DSC_9065_1.jpg">
+ <div style="background-color: white;">All rights reserved, Marshall Cavendish Children. c.2009.</div>
 
 During this period, publishers would generally publish according to perceived market demand, such as catering “to the buying preference of parents for ‘useful’ reading by producing (1) folktales because these help children to learn about their culture, (2) stories with a moral so that children learn good values, and (3) supplementary readers with comprehension exercises so that children can improve their reading skills” (Khoo, 1990/91, p. 20).
 
@@ -123,6 +138,9 @@ Although still very much in its infancy, the 1990s witnessed a relative boom in 
 At the beginning of the 1990s there was a seminar,* In Search of a Singapore Children’s Literature*, September 6–7, 1990, organised by the National Book Development Council of Singapore (NBDCS) to create “public awareness of the need for good children’s books” (Anuar, 1990/91, p. 1). Anuar (1990/91) argued for the need to take writing for children as seriously as writing for adults, adding that “… children are part of the human race, not a separate species. And children’s literature is or should be part of a country’s literature” (Anuar, 1990/91, p. 1).
 
 A new crop of writers and publications appeared on the literary scene during this period, such as Ravi Veloo with *Kampung Chicken* (1990), Noel Chia with *Iron Pa Pa* (1993) and Ramanathan Chandran with *I Have Touched the Moon!* (1997). It is also during this period that Singapore witnessed a boom in publications of SCLE. Singh (1993/94) reported that “\[t\]he situation … seems remarkably different in terms of the quantitative progress our fiction has witnessed in the passing years. Almost every bookshop, even the mama stalls which usually stock only magazines, carries \[sic\] Singapore titles” (p. 21). There were also a number of new authors who paid out of their own pockets to publish their books rather than go through a publisher. However, the quality of these children’s fiction books (e.g., editing and illustrations) was poor and mostly in the genre of ghost and horror stories.
+
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation8.jpg">
+ <div style="background-color: white;">(Left) All rights reserved, Angsana Books/Flame of the Forest, 1990. (Right) All rights reserved, Cobee Publishing House, 1993.</div>
 
 In 1993, a reading survey conducted by the National Library found that “the percentage of literate persons who had read just one book in the last 12 months had decreased by 7% from 57% down to 50% over the last 13 years” (Butterworth, 1994, p. 5). Despite a drop in library membership, Koh (1994) reported that the fostering of the reading habit among children was being given a higher priority and had achieved some success. Figures from the National Library showed that loans of children’s books increased from 1.63 million in 1980 to 4.79 million in 1993, and “the expansion of the scheme to set up neighbourhood children’s libraries in the void decks of HDB flats … will give greater access to quality collections” (Koh, 1994, p. 4).
 
@@ -156,6 +174,11 @@ Most books published in the 1960s were not trade books but basal readers whose a
 
 Hence, during the Pioneering Period (1970–79), it was an uphill task for writers of SCLE to be recognised, their creative works taken seriously by the publishers and appreciated by readers at large. SCLE only really emerged in the 1980s (Khoo, 1990/91) when more writers began to write for children. Although many of these books were badly written or poorly edited, it was a good sign that teachers and parents were beginning to take notice of locally published books for children. One big challenge during that period was that many teachers were reluctant to encourage their students to read local children’s literature because of its poor quality of written English. In fact, this problem persisted into the 1990s.
 Between the late 1980s and the beginning of the 1990s, the Singapore book market witnessed a sudden increase in the number of new books published locally by new publishers such as VJ Times and Flame of the Forest. With more new writers trying their hand at writing for children, the local book scene saw a wider range of both new children’s fiction and non-fiction titles. It was also during the period 1990–99 that more new writers had their works printed through established publishers such as Educational Publications Bureau (EPB) and Times Book International, although there were also a few others who chose to self-publish.
+
+<img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/The%20Littlest%20Emperor1.jpg">
+ <div style="background-color: white;">All rights reserved, Tuttle Publishing. 2004.</div>
+
+
 
 As we enter the new millennium (i.e., 2000s), better and more interesting books are published locally, such as Linda Gan’s *A Treasury of Asian Folktales* (2000), Chandran Dudley’s T*ales from the Islands of Singapore* (2001) and David Seow’s *The Little Emperor* (2004). However, a new challenge has emerged — there are now more distractions (e.g. online and video gaming, and movies on video) than before. Claire Chiang, chairperson of the Asian Festival of Children’s Content Advisory Board, highlighted a very real and challenging issue we are facing today: “Reading habits have decreased because of new social media platforms. We need relevant and interesting books to recapture the imagination of our children” (as cited in Ng, 2010b, p. C6).
 
@@ -279,16 +302,24 @@ Tan, B.Y., & Chia, H.C. (1978). [_New way readers 1A_](https://eservice.nlb.gov.
 
 Veloo, R. (1990). [_Kampung chicken_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5407892). Singapore: Angsana Books. (Call no.: RSING S823 VEL)
 
-Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.  
+Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.<br>
 
-Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via PublicationSG)  
+Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via PublicationSG) 
+
 Wee, J. (1980). [_Mooty and the satay-man_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141043). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+
 Wee, J. (1980). [_Mooty falls in love_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141050). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+
 Wee, J. (1980). [_Mooty goes to school_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141046). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+
 Wee, J. (1980). [_Mooty has a son_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141051). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+
 Wee, J. (1988). [_Mooty moves out_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982465). Singapore: Federal Publications. (Available via PublicationSG)  
+
 Wee, J. (1980). [_Mooty plays hide-and-seek_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141047). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+
 Wee, J. (1980). [_Mooty saves a life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141045). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
+
 Wee, J. (1980). [_Mooty the space-mouse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141049). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)
 
 Wee, J. (1984). [_Boo!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7247900) Singapore: Educational Publications Bureau. (Call no.: RCLOS S823 WEE)

@@ -12,12 +12,10 @@ Before the fall of Singapore in 1942, people prepared for the imminent war by st
 During World War II, forced civilian labourers known as <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
 <img src="/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a>
 In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
@@ -98,4 +96,29 @@ Why recall traumatic memories of war when it is painful for both perpetrators an
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial">A War Crimes Trial Snapshot</a>
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
+Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation. Aishwariyaa Ramakanthan recounts her father’s harrowing journey.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/">Civilians in the Crossfire: The Malayan Emergency Crossfire</a>
+Ronnie Tan recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
+In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. Umej Bhatia recreates the final moments of the mutineers as they pay the ultimate price for their actions.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia/">The Final Hours of the Empress of Asia</a>
+The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
+
+<img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg" style="width:70%">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/feeding-the-hungry/">Feeding the Hungry: Children in Post-War Singapore</a>
+In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. Cheryl-Ann Low has the details.
+
+
+
 <hr>

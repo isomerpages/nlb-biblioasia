@@ -6,23 +6,19 @@ third_nav_title: Arts
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
 The Asian Film Archive has been restoring old classics since 2014.
-
 <img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 
 <img style="width:80%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
 Loke Wan Tho (1915–64) had wide interests; he was a film magnate, a supporter of local sports, a photographer and an ornithologist.
 
 <img style="width:60%;" src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
@@ -33,14 +29,15 @@ The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas,
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
-Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. 
+Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics.
 
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png"> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema"> The Golden Age of Malay Cinema: 1947–1972 </a>
 <p> Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. Nor Afidah Bte Abd Rahman and Michelle Heng recount its fabled history.</p> 
- <img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg">
+
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg">
  <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema"> The Revival of Singapore Cinema: 1995–2014</a>
@@ -49,6 +46,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph"> Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens </a>
 <p> Western filmmakers have always had a fascination for Singapore. Ben Slater tells you why.</p> 
+
  <img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg">
  <hr>
  
@@ -62,6 +60,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/"> Five Ashore in Singapore: A European Spy Film</a>
 <p>Raphaël Millet sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.</p> 
+
  <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
  <hr>
  
@@ -75,6 +74,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/gaston-melies"> Gaston Mèliès and His Lost Films of Singapore</a>
  <p>Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time. Raphaël Millet tells you why.</p> 
+
  <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg">
  <hr>
 
@@ -118,9 +118,15 @@ Photographs can capture subtext that is sometimes more evocative than the intend
 The oldest known photographs of Singapore were taken by Europeans in the early 1840s. Janice Loo charts the rise of commercial photography in the former British colony.
 
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography In Pre-war Singapore</a>
 The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. Zhuang Wubin revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/the-making-of-xin-ke/">The Making of Xin Ke (新客)</a>
+This 1927 silent Chinese movie is the first feature film to be made in Singapore and Malaya. Jocelyn Lau traces its genesis with researcher Toh Hun Ping and translation editor Lucien Low.
+
+
+
 <hr>

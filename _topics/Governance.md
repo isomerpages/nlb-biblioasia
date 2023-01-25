@@ -47,3 +47,10 @@ Singapore’s diplomatic efforts may take several forms, including naming orchid
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/head-count-history/">Head Count: The History of Census-taking in Singapore</a>
 <p>The very first census here was conducted in 1824. Ang Seow Leng reveals how doing a headcount has evolved over the last 200 years.</p> 
 <hr>
+
+### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/rugged-society/">A Rugged Society: Adventure and Nation-Building</a>
+The call to create a “rugged society” in Singapore has resonated through the decades. Shaun Seah looks at how the policy shaped young people in the 1960s.
+
+
+
+<hr>

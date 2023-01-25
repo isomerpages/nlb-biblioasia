@@ -3,8 +3,9 @@ title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
 permalink: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
 description: Two remarkable athletes served up a storm to make Malaya a
   tennis  power to contend with during the interwar years.
-image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
+image: /images/Vol 19 Issue 1/Tennis/image2.png
 ---
+
 #### Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 By Abhishek Mehrotra
 
