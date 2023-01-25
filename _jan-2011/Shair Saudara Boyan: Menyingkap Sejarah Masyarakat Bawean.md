@@ -6,3 +6,72 @@ description: "Shair Saudara Boyan (Poem of the Baweanese, 1930) is a significant
   Sundusia Rosdi shows how it offers a portrait of the Baweanese community and
   sheds light on their social values and aspirations. "
 ---
+#### _Shair Saudara Boyan_ (Poem of the Baweanese, 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian _Sundusia Rosdi_ shows how it offers a portrait of the Baweanese community and sheds light on their social values and aspirations.
+
+#### **Syair Sebagai Wacana Periwaya**
+
+Kamus Dewan (2005) mendefinisikan syair sebagai “karangan bersajak yang mana tiap-tiap rangkap terdiri daripada empat baris yang sama bunyi hujungnya.”1 Menurut Teeuw (1966), kebanyakan penulis bersetuju bahawa syair terbit dari perkataan Arab *syi’r* yang bererti puisi secara umum dan makna sya’ir ialah penulis puisi atau penyairnya. Tidak diketahui pula bila dan mengapa perkataan Arab ini berubah makna menjadi syair seperti yang dimaksudkan dalam bahasa Melayu kini.2
+
+Dari tanah Arab dan Parsi, gubahan syair Melayu mula diperkenalkan oleh Hamzah Fansuri, seorang ahli sufi Aceh, pada abad ke 16 yang juga merupakan pengarang *Sha’er Perahu, Sha’er Burong Pingai* dan *Sha’ er Dagang*.3 Abdullah bin Abdul Kadir Munsyi, tokoh bapa kesusasteraan Melayu moden turut dikenali dengan *Syair Singapura Terbakar* dan *Syair Kampung Gelam Terbakar* yang termuat dalam bukunya *Hikayat Abdullah* (1849).4
+
+Gubahan-gubahan syair banyak dikumpulkan di Singapura melalui ruangan tetap di *Jawi Peranakkan* (1876—1895) iaitu akhbar mingguan terawal, kemudian oleh *Utusan Melayu* (1907—1921) hingga ke *Warta Malaya* (1930—1941) yang menyiarkan hasil kiriman pembaca. Genre syair ini terus popular dan diminati hingga menjadi sebahagian khazanah puisi masyarakat Melayu Nusantara.
+
+Lembaga Perpustakaan Negara Singapura menyenaraikan beberapa karya syair mengenai Singapura antaranya *Syair Tantangan Singapura Abad Kesembilan Belas* (1835), *Syair Singapura Terbakar* (1843), *Syair Kampung Gelam Terbakar* (1847)atau *Syair Singapura Dimakan Api* (1860), *Shair Bah Singapura* (1891), *Shair Saudara Boyan* (1930) dan lain-lain.
+
+#### **Shair Saudara Boyan**
+
+*Shair Saudara Boyan* sangat menarik perhatian penulis kerana syair itu merupakan antara sumber utama yang terdapat di dalam bahasa Melayu mengenai masyarakat Bawean di Singapura selain *Shair Kampong Boyan Dimakan Api* (1883) terbitan Persatuan Jawi Peranakkan, Singapura.
+
+*Shair Saudara Boyan* telah dikarang oleh Ahmad bin Haji Tahir. Ia mengandungi 491 rangkap dalam aksara Jawi dan dicetak oleh Malaya Press, Singapura pada tahun 1930.
+
+Buku kumpulan syair sebanyak 49 lembaran ini selesai dikarang pada 15 Ramadan 1348 Hijrah (14 Februari 1930 ). Naskhah aslinya diterima dan disimpan di British Muzium sejak 26 November 1930. Salinan mikrofilemnya terdapat di Perpustakaan Negara, Singapura dan Monash University Library, Australia.
+
+Di halaman akhir karya tersebut tercatat peringatan, “Adapun syair Boyan ini telah diregisterkan di Pejabat Kerajaan Singapura menurut Undang-Undang Straits Settlements. Oleh yang demikian tidak dibenarkan mengecap atau meniru syair ini melainkan dengan izin pengarang.”5
+
+Setelah membaca *Shair Saudara Boyan* ini, penulis merasa terpanggil untuk menelitinya kerana moyang penulis merupakan antara perantau dari Pulau Bawean dan penulis sendiri pernah menziarahi Pulau Bawean pada tahun 1993 untuk menjejak akar susur-galurnya.
+
+#### **Cabaran Transliterasi Aksara Jawi Ke Ru**
+
+Penulis akan menggunakan perkataan Bawean (bukan sebutan Boyan) kerana kaum ini berasal dari Pulau Bawean, Indonesia. Sebenarnya sebutan “Boyan” dimulakan oleh penjajah Barat, kerana pegawai-pegawai zaman kolonial itu lebih selesa untuk menyebut *Orang Bawean* sebagai *Orang Boyan*. Oleh kerana pada hakikatnya orang Eropah merupakan tuan kepada pekerja-pekerja Bawean yang tidak tahu menulis serta membaca dan ditambah lagi dengan cara hidup mereka ketika itu, mereka menerima istilah yang dianggap tidak sesuai ini tanpa ada bantahan sedikitpun.6
+
+Penulis juga mengalami masalah ketika proses mentransliterasi syair-syair ini kerana kualiti tulisan Jawi di layar mikrofilem itu kurang jelas dan amat mencabar baginya. Misalnya terdapat banyak ayat yang berbayang dan bertindan lapis dari lembaran sebelumnya. Ini menyukarkan pembacaan walaupun setelah dicetak foto dari mikrofilemnya.
+
+Terdapat perkataan-perkataan dan frasa yang sukar ditranskripkan secara langsung antaranya; “Di pondok ramai orang *Traisi*” (ms. 26) dan “Bila malam memakai *pat-pat*” (ms. 38). Masalah susunan aksara Jawinya yang kabur dan tanda-tanda seperti titik yang kurang lengkap sebagai menuruti konvensyen huruf-huruf Hijaiyah agak mengelirukan. Misalnya “Perintahlah dahulu *terluca*” (ms. 41). Di samping itu struktur barisan dari bait pertama hingga ke bait terakhir tidak dipisahkan secara berperenggan. Untuk memudahkan rujukan, penulis menomborkan setiap 1,964 baris. Bait-bait ini dikekalkan nombor halaman teks Jawi asalnya. Penulis mengatasi penguasaan bahasa Baweannya yang terhad dengan merujuk kepada saudara mara untuk menakrifkan frasa-frasa yang tidak dapat dihuraikan.
+
+#### **Focus Kajian**
+
+Penulis akan menganalisa karya syair ini dari aspek nilai-nilai yang tersirat di dalamnya, iaitu dari sudut kefahaman Islam, sosio-ekonomi dan sejarah masyarakatnya. Dan tidak lupa juga membandingkannya dengan fakta-fakta daripada penerbitanpenerbitan lain mengenai masyarakat Bawean yang terdapat di dalam Koleksi Perpustakaan Negara, Singapura.
+
+#### **Latarbelakang Kajian**
+
+Pulau Bawean terletak 120 km di utara Surabaya (Jawa Timur, Indonesia) di Laut Jawa. Keluasannya kira-kira 200 km persegi (tiga kali lebih kecil dari Singapura), terbahagi kepada dua daerah; Sangkapura dan Tambak dengan 30 kelurahan (desa) dan 143 kampung.7 Nama Bawean ini berasal dari perkataan Sanskrit yang bermakna “ada sinar matahari.”8
+
+Pulau Bawean juga dikenali sebagai Pulau Puteri kerana kebanyakan penduduknya terdiri daripada kaum wanita. Lantaran kaum puteranya pula mula merantau apabila mencecah usia remaja. Masyarakat Bawean menganggap bahawa “seseorang lelaki Bawean belum dikira dewasa sehinggalah ia merantau ke luar negeri.”9
+
+Singapura menjadi tumpuan kaum Bawean kerana menjadi pusat urusan Haji Nusantara ketika itu lantaran kemudahan pelayaran kapal wap yang membawa jemaah-jemaah haji ke Mekah. Kaum pendatang ramai ke Singapura untuk bekerja sambil mengumpulkan wang bagi menunaikan haji atau singgah ke sini dalam perjalanan pulang dari Mekah. Semasa persinggahan di Singapura, mereka bekerja untuk membayar hutang bagi perbelanjaan ke Mekah kepada ejen-ejen haji mereka.
+
+Singapura menjadi tumpuan kaum Bawean kerana menjadi pusat urusan Haji Nusantara ketika itu lantaran kemudahan pelayaran kapal wap yang membawa jemaah-jemaah haji ke Mekah. Kaum pendatang ramai ke Singapura untuk bekerja sambil mengumpulkan wang bagi menunaikan haji atau singgah ke sini dalam perjalanan pulang dari Mekah. Semasa persinggahan di Singapura, mereka bekerja untuk membayar hutang bagi perbelanjaan ke Mekah kepada ejen-ejen haji mereka.
+
+Kaum Bawean dipercayai mula merantau ke Singapura seawal tahun 1824 dengan menaiki kapal Bugis11 dan kemudian dengan kapal-kapal wap milik Belanda Koninklijke Pakketvaart Maatschappij (KPM) dan Heap Eng Moh Shipping Company (syarikat-syarikat pengendali pelayaran di kepulauan Indonesia).12
+
+#### **Analisis Kandungan Syair**
+
+Syair dimulakan dengan penceritaan tentang kehidupan kaum Bawean di Pulau Bawean sendiri dan rentetan peristiwa yang mendorong mereka merentas lautan dengan hanya menaiki perahu layar untuk merantau ke Singapura.
+
+Tiada watak utama dalam naskhah syair ini walaupun ia menyentuh beberapa personaliti dan merupakan catatan umum kehidupan mereka di Singapura. Beberapa personaliti yang telah berjaya dianggap sebagai wira sering disebut sebagai penjana semangat contohnya seperti Pak Lurah (Penghulu); Dul Haris dan Pak Tarallah. Kebanyakan watak-wataknya disentuh secara umum dan hanya beberapa watak dikisahkan secara terperinci misalnya kisah pelawak terkenal Mat Nor Gelam (sepanjang 44 baris).
+
+Seperti koleksi syair-syair lain, pengarang memulakan karyanya dengan puji-pujian kepada Allah di halaman satu:
+
+&emsp; Bismillah itu mula dikata<br>&emsp;  Alhamdullilah puji semata<br><br>
+&emsp; Telah takdir Tuhan yang satu<br>&emsp; Tiada berbanding serta bersekutu
+
+Pengarang syair memohon agar syairnya diberkati Allah serta dapat menghiburkan pembaca-pembacanya. Bermula bait ke 17 pula, beliau terus memulakan hal masyarakat di Pulau Bawean serta urutan catatan perantauan mereka ke Singapura. Selanjutnya, niat dan persiapan kaum Bawean untuk merantau, juga detik-detik pengalaman merentasi lautan selama sebulan sebelum sampai ke destinasi tujuan diceritakan (ms. 5).
+
+&emsp; Marilah belayar jangan berlat<br>&emsp;  Ke Singapura namanya selat<br><br>&emsp;  Pelayaran ada di dalam sebulan<br>&emsp;  Kurnia Tuhan dengan kebetulan
+
+
+
+
+
+
+
