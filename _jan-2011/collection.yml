@@ -2,6 +2,7 @@ collections:
   jan-2011:
     output: true
     order:
+      - "Shair Saudara Boyan: Menyingkap Sejarah Masyarakat Bawean.md"
       - The Case of Tras New Village and the Assasination of Henry Gurney During
         the Malayan Emergency.md
       - Asian Confluence.md
