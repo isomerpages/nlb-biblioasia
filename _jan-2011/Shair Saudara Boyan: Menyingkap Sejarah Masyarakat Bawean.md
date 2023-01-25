@@ -223,6 +223,120 @@ The Baweanese-Singaporeans of today owe much of their success to their ancestors
 <center><b>Sundusia Rosdi</b><br>Senior Librarian <br>Professional Services<br>National Library Board</center></div>
 
 
+#### **REFERENCES**
+
+Abdullah Baginda. (1964/67). Our Baweanese people. In _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_, _2_ (4), 15–60. Call no.: RCLOS 959.5005 INT
+
+Ahmad Haji Tahir. (1930). _[Shair Saudara Boyan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12438185)_. London: Reprographic Section, Reference Service Division, British Library. Call no.: RCLOS 305.89928 AHM
+
+Al-Attas, Muhammad Naguib, Syed. (1968). _[The origin of the Malay sha’ir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=41714)_. Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran Malaysia. Call no.: RCLOS 899.2300911 ATT
+
+Amin Sweeney (Ed.). (2006). _[Karya lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 2, Puisi dan ceretera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12787928)_. Jakarta: Kepustakaan Populer Gramedia. Call no. RCLOS 959.5 KAR
+
+Boyanese. (2006). In Koh, T. T. B., Auger, T., Yap, J. & Ng W. C. (Eds.), _[Singapore: The encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833)_ (p. 70). Singapore: Editions Didier Millet in association with the National Heritage Board. Call no.: RSING 959.57003 SIN
+
+Dhoraisingam, S. (1991). Baweanese pondok. In _[Singapore’s heritage through places of historic interest](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232)_ (pp. 45, 54–55). Singapore: Elixir Consultancy Service. Call no.: RSING 959.57 SAM
+
+_[Kamus dewan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655145)_. Edisi keempat. (c2005). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: R 499.283 KAM
+
+Hassan Ahmad. (1962, January). Sha’er. In _[Dewan bahasa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125)_, _6_ (1), pp. 20–31. Call no.: RCLOS 499.23 DB
+
+Makepeace, W., Brooke, G. E. & Braddell, R. S. J. (Eds.) (1991). _[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)_ (Vol. 1). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE
+
+Mansor bin Haji Fadzal. (1964/67). My Baweanese people. In _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_, _2_ (4), 11–14. Call no.: RCLOS 959.5005 INT
+
+Ridzwan Dzafir. (2009). _[Ridzwan Dzafir: From pondok boy to Singapore’s ‘Mr ASEAN’: An autobiography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13170309)_. Singapore: Editions Didier Millet, 2009. Call no.: RSING 352.63092 RID
+
+Roksana Bibi Abdullah. (2006). Pengalihan bahasa di kalangan masyarakat Bawean di Singapura: Sebab dan akibat. In Paitoon M. Chaiyanara … \[et al.\]. (Eds.), _[Bahasa: Memeluk akar menyuluh ke langit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994)_ (pp. 285–303). Singapore: Jabatan Bahasa dan Budaya Melayu, Institut Pendidikan Nasional, Universiti Teknologi Nanyang. Call no.: RSING 499.2809 BAH
+
+Sundusia Rosdi. (2003, July 27). [Bila lima generasi famili Bawean bertemu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030727-1.2.21). _Berita Harian_, p. 9. Retrieved from NewspaperSG.  
+
+Teeuw, A. (1966), The Malay shair: Problems of origin and tradition. _Bijdragen tot de Taal - Land-en Volkenkunde 122_ (4), 429–446. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+
+Turnbull, C. M. (1989). _[A History of Singapore: 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (pp. 23, 43) Singapore: Oxford University Press. Call no.: RSING 959.57 TUR
+
+Vredenbregt, J. (1966). Bawean migrations. _Bijdragen tot de Taal - Land-en Volkenkunde 120_ (1), 109–139. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+
+Vredenbregt, J. (1990). _[Bawean dan Islam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061)_ (A. B. Lapian, Trans.). Jakarta: INIS. Call no.: RSEA 305.89922 VRE
+
+Wright, A, & Cartwright, H. A. (Eds.). (1989). _[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444)_ (p. 126). Singapore: Graham Brash. Call no.: RSING q959.5 TWE
+
+Zulfa Usman. (1982). _Cerita rakyat dari Bawean (Jawa Timur)_. Jakarta: Grasindo.
+
+
+#### **USM Lelaman Web**
+
+Nor-Afidah Abdul Rahman & Marsita Omar (October 2020). _[The Baweanese (Boyanese)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html)_ Retrieved from Singapore Infopedia.
+
+National Heritage Board. _Pondok Peranakan Gelam Club_. Retrieved from Roots, https://www.roots.gov.sg/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club
+
+Persatuan Bawean Singapura, Facebook, (n.d.),  
+https://ms-my.facebook.com/persatuanbaweansingapura/
+
+The Baweanese Corner. Blog, Retrieved September 30, 2010, http:// endahvision.blogspot.com/
+
+#### **NOTES**
+     
+
+[^1]: _[Kamus Dewan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655145)_, 2005, p. 1557.
+
+[^2]: Teeuw, 1966, p. 433.
+
+[^3]: [Hasan Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125), Jan 1962, p. 21.
+
+[^4]: [Amin Sweeney](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12787928), 2006, p. xiv.
+
+[^5]: [Ahmad Haji Tahir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12438185), 1930, p. 50.
+
+[^6]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 11.
+
+[^7]: Vredenbregt, 1966, p. 110.
+
+[^8]: Zulfa Usman, 1982, p. 3.
+
+[^9]: [Roksana Bibi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994), 2006, p. 287.
+
+[^10]: Vredenbregt, 1966, p. 128.
+
+[^11]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.
+
+[^12]: [Vredenbregt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 91.
+
+[^13]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.
+
+[^14]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70. Di bawah “Citizenships Ordinance, 1957” kerakyatan Singapura dan Malaya diberikan kepada penduduk yang lahir di kedua-dua negeri ini pada tahun 1957.
+
+[^15]: Vredenbergt, 1966, p. 127.
+
+[^16]: [Abdullah Baginda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 32.
+
+[^17]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 12.
+
+[^18]: [Roksana Bibi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994), 2006, p. 291.
+
+[^19]: [Vrendenbergt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 99.
+
+[^20]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 2.
+
+[^21]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 11.
+
+[^22]: [Vredenbregt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 131.
+
+[^23]: [Abdullah Baginda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 47
+
+[^24]: [Vredenbregt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 106.
+
+[^25]: [Abdullah Baginda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 51.
+
+[^26]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70. Kelab Pondok Peranakan Gelam merupakan simbol keharmonian masyarakat berbilang kaum di Singapura. Semasa rusuhan kaum yang dicetuskan oleh gurila-gurila Parti Komunis Malaya (Bintang Tiga) di Singapura pada tahun 1947, masyarakat Bawean di kawasan ini dilindungi oleh jiran-jiran Cina mereka di daerah ini, https://www.roots.gov.sg/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club
+
+[^27]: Lelaman Persatuan Bawean Singapura, Facebook, (n.d.),  
+https://ms-my.facebook.com/persatuanbaweansingapura/
+
+[^28]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.  
+
+[^29]: [Nor-Afidah Abdul Rahman & Marsita Omar](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), Oct 2020.
+
 
 
 
