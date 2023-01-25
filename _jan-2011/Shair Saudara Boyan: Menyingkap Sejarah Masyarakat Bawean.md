@@ -213,8 +213,9 @@ Dalam usaha mengenal jati diri serta melestarikan bahasa dan budaya Bawean, Pers
 
 Mungkin amat sedikit sekali pembaca masa kini yang berminat membaca syair panjang dalam aksara Jawi lama terutama dari paparan gulungan filem. Namun usaha pengarangnya merakamkan cebisan kisah masyarakat Bawean Singapura ini sangat penting dan harus dihargai. Beliau amat prihatin akan kaumnya sehingga dapat mengarang kisah dalam bentuk syair iaitu suatu karya yang amat sukar dan jarang dilakukan orang lain. Usaha terpuji ini mungkin dilupakan jika tidak didokumentasi dengan sewajarnya misalnya dijadikan antara sumber kajian tentang diaspora masyarakat dan etnik Nusantara.
 
-<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/ridzwanD-new.jpg">
- <div style="background-color: white;">Pencapaian anak pondok, diabadikan. Hak cipta terpelihara, Didier Millet, 2009.</i></div>
+
+<img style="width:50%;" src="/images/Vol%206%20issue%204/Shair/ridzwan.jpg">
+ <div style="background-color: white;">Pencapaian anak pondok, diabadikan. Hak cipta terpelihara, Didier Millet, 2009.</div>
 
 Dalam konteks kesusasteraan Melayu dan sejarah Singapura umumnya, koleksi syair ini merupakan bahan nadir mengenai kaum-kaum perantau pada era 1920-an hingga sebelum Perang Dunia Kedua. Selain usia karya ini, isinya berkisar tentang keadaan sebenar masyarakat Bawean pada itu. Bentuk karya bersyair-pantun begini tentang orang Bawean boleh mengimbau nostalgia generasi lama perantau Bawean. Sementara kaum muda dapat menyusur galur salasilah mereka melalui rakaman gambaran puisi berirama.
 
