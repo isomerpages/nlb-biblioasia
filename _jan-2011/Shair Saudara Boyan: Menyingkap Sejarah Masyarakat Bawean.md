@@ -165,7 +165,32 @@ Pengarang telah menggunakan bahasa Melayu sebagai bahasa utama dalam penulisan s
 
 &emsp;Nyatalah sudah Boyan nan maju<br>&emsp;Akal pun datang semangkin laju<br><br>&emsp;Sehingga berubah pakaian baju<br>&emsp;Semua pekerjaan boleh setuju
 
-Dari sudut pemilihan perkataan, perbendaharaan bahasa pengarang sangat luas, beberapa perkataan seperti “*gelurat*” (ms. 1) dan “*geharap*” (ms. 34), tidak dapat saya tafsirkan walau setelah merujuk kepada kamus. Menarik juga bila terdapat beberapa bahasa pasar harian yang diselitkan seperti “*jotos*” (ms. 28) dan “*bini*” (ms. 8).
+Dari sudut pemilihan perkataan, perbendaharaan bahasa pengarang sangat luas, beberapa perkataan seperti “*gelurat*” (ms. 1) dan “*geharap*” (ms. 34), tidak dapat saya tafsirkan walau setelah merujuk kepada kamus. Menarik juga bila terdapat beberapa bahasa pasar harian yang diselitkan seperti “*jotos*” (
+ms. 28) dan “*bini*” (ms. 8).
+
+Pengaruh bahasa Arab ketara sekali seperti penggunaan *Alhamdulillah* (ms. 1), *Khalik-ul alam* (ms. 5) dan *Walimatulurus* (ms. 28). Pengarang juga menyelitkan ungkapan-ungkapan Inggeris berejaan Melayu misalnya: *Bersekutu dengan bandar dan market* (ms. 42), *Ke Kampong Kapor menuju target* (ms. 23) dan *Berpaip sigret asap barbus* (ms. 32).
+
+Di beberapa rangkap ala pantun turut disisipkan frasa bahasa Madura seperti *Adu ambuk* (aduh nenek) dan bahasa Bawean seperti *emok* (sibuk), *phiyeng* (ibu), serta *Tak kabesanyo’on pahi’* (terima kasih yang tidak terhingga) (ms. 28). Pengarang turut meluahkan perasaannya dengan berpantun dalam bahasa Bawean di bahagian penutup syair ini (diterjemahkan secara bebas di ms. 48).
+
+&emsp;Ka tasik ka nosa-nosa<br>&emsp;Cukok tambhen kuring aken<br>&emsp;Bule achek eka sosa sosa<br>&emsp;Syair Pebhiyan e tamat aken<br>&emsp;Ke tasik ke pulau Nusa<br>&emsp;Ikan tamban digorengkan<br>&emsp;Jangan saya di susah susah<br>&emsp;Syair Bawean akan ditamatkan
+
+#### **Nasihat, Doa dan Harapan**
+
+Semasa mengakhiri syairnya, pengarang turut menyertakan permohonan doa dan harapan agar Allah menyempurnakan dan menyelamatkan kehidupan kaum Bawean serta menghindari mereka dari kelalaian dan sentiasa maju dalam kehidupan (ms. 46 hingga 48).
+
+&emsp;Berdoa selamat kepada sekelian wali <br>&emsp;Boyan bangkit janganlah khali (lalai)<br> <br>&emsp;Ya Allah Khalik al Bokhari <br>&emsp;Dijauhkan bala kanan dan kiri <br><br>&emsp;Sempurnakan kaumku disana sini<br>&emsp;Ku doakan selamat saat berani
+
+#### **Nostalgia Kaum Ba**
+
+Zaman telah berubah, selepas lebih 80 tahun syair ini dikarang, masyarakat Bawean terus maju selari dengan arus perkembangan pesat negara Singapura. Masjid Kampong Boyan, surau di Minto Road dan pondok-pondok Bawean telah dirobohkan untuk memberi laluan kepada projek pembangunan perbandaran. Mereka telah berpindah ke rumah-rumah pangsa dan nama-nama pondok hanya tinggal kenangan kepada generasi yang pernah menghuninya sahaja. Pada tahun 2000, Lembaga Warisan Negara (NHB) telah mewartakan Pondok Peranakan Gelam (berdaftar pada 4 April 1932) iaitu satusatunya pondok di Chinatown yang beralamat 64, Club Street sebagai Bangunan Warisan Negara ke-44. Pondok rumah kedai dua tingkat ini kemudiannya dibaikpulih dan didiami oleh penyewa baru.26
+
+Kini dialek Bawean amat jarang dituturkan, kecuali sebagai ucapan khas sesama warga tua dan beberapa nama panggilan seperti *obek*, *mamang* dan sebagainya. Beberapa lagu Bawean seperti *La A Obe* (Dah Berubah) dan *Nga Lompak A Go Go* (Melompat dan ber-A Go Go) dendangan penyanyi popular 1960-an, Kassim Selamat bersama kugiran The Swallows sesekali berkumandang di radio dan terutamanya di majlis-majlis keramaian masyarakat Bawean.
+
+#### **Persatuan Bawean Singapura**
+
+Dalam usaha mengenal jati diri serta melestarikan bahasa dan budaya Bawean, Persatuan Bawean Singapura (didaftarkan pada 1946) pernah menganjurkan kegiatan-kegiatan seperti kelas-kelas bahasa Bawean pada tahun 2007 serta kelas-kelas memasak juadah tradisi Bawean. Wisata ke Pulau Bawean juga dianjurkan supaya generasi baru dapat mengenali negeri asal usul mereka. Persatuan ini turut mengiktiraf individu Bawean yang terbilang mengharumkan nama masyarakatnya dengan penganugerahan Bawean Teladan, Bawean Budiman, Bawean Jasawan dan Bawean Cemerlang.27
+
+
 
 
 
