@@ -136,7 +136,36 @@ Antara ciri paling dikenali yang berkaitan dengan masyarakat Bawean ialah kecend
 
 &emsp;Di pasar besi banyak bertempuh<br>&emsp;Dapat kelihatan gelang bersepuh<br><br>&emsp;Penuhkan paun di dalam ponjin<br>&emsp;Supaya hajat boleh ditajin (keraskan)<br><br>&emsp;Jangan lupa mencari wang<br>&emsp;Kemudian mendapat intan dan gewang (siput mutiara)
 
+#### **Penyingkapan Budaya dan Tradisi**
 
+Seterusnya syair ini menggambarkan suasana di majlis walimatulurus anak Pak Lurah Tarallah di Pondok Pakalongan (ms. 27). Semua tetamu dijamu dengan nasi samin (nasi minyak), lauk kari dan juadah lain di samping pemberian penganan juadah (berkat pengantin). Majlis turut dimeriahkan dengan permainan gendang dan rebana. Kebiasaannya majlis perkahwinan Bawean merupakan pesta meriah yang berlangsung selama tiga hingga lima hari dan persiapannya dilakukan melalui budaya bergotong-royong.24
+
+Satu hal yang menarik dalam catatan pengarang ialah istiadat keluarga pengantin melambungkan wang-wang syiling ke arah genting rumah hingga menyebabkan bunyi bising. Ini dilakukan oleh tuan rumah untuk menunjukkan kemewahan dan kemeriahan bunyi ch’ning (bejana tembaga). Ketika duit syiling dilambung jatuh bertaburan di lantai, ia menjadi rebutan sanak saudara yang memungutnya (ms. 28).
+
+&emsp;Bila datang jemputan menempuh<br>&emsp;Wang ditabur ch’ning nak repuh<br><br>&emsp;Sehingga ch’ning pontang panting<br>&emsp;Wang dilambung ke atas genting
+
+
+#### **Budaya Penghayatan Islam**
+
+Di Kampung Kapor, Weld Road pernah tersergam Masjid Boyan yang didirikan oleh hartawan Bawean pada tahun 1932. Begitu juga sebuah surau di Minto Road yang telah dibina lebih 100 tahun lalu dan dibiayai oleh masyarakat Bawean. Terkenal sebagai kaum yang patuh mengamalkan ajaran Islam, anakanak Bawean seawal empat tahun sudah dididik mengaji alQuran melalui kelas-kelas yang ada di setiap pondok. Pak Lurah sendiri menjadi imam ketika solat berjemaah. Suasana dan gaya hidup Islam terpancar dengan kegiatan-kegiatan agama antaranya, bacaan al-Quran, berzanji dan qasidah serta sambutan hari-hari kebesaran Islam (ms. 32—35).
+
+&emsp;Banyak orang pergi mengaji<br>&emsp; Sehingga ada yang naik haji<br><br>&emsp;Boyan pun sangat muliakan agama<br>&emsp;Serta mengerjakan waktu yang lima
+
+Apabila wabak melanda Kampong Kapor (ms. 42), kaum Bawean mengadakan upacara membaca bacaan berzanji dan ratib beramai-ramai kerana mereka menganggap bahawa jin dan syaitan merupakan penyebab wabak tersebut.
+
+&emsp;Perihal penyakit tiada terkira<br>&emsp;Banyaklah mati Boyan saudara<br><br>&emsp;Beratur sekelian yang mana haji<br>&emsp;Di pinggang pula kitab berzanji<br><br>&emsp;Kemenyan dikekalkan bertalam-talam<br>&emsp;Menghalau penyakit biar tenggelam<br><br>&emsp;Hilanglah jin puaka musibat<br>&emsp;Melihat ratib manusia bertobat
+
+Walaupun masyarakat Bawean ini jelas sangat kuat pegangan agama mereka, namun terdapat satu pandangan yang negatif mengenai kaum Bawean dahulu iaitu mereka sering dikaitkan sebagai pengamal ilmu hitam. Mereka dikatakan menggunakan ilmu sihir untuk menyebabkan sakit yang melarat, keguguran bayi, lemah syahwat dan kematian.25
+
+Setelah sistem pondok berakhir, *stigma* ini kekal pada sebahagian orang-orang muda Bawean kini sehingga ada yang malu mengakui bahawa mereka asal keturunan Bawean.
+
+#### **Penggunaan Bahasa dalam Syair**
+
+Pengarang telah menggunakan bahasa Melayu sebagai bahasa utama dalam penulisan syair ini dan diselang-selikan dengan bahasa-bahasa lain seperti bahasa Arab, bahasa Inggeris, bahasa Madura, serta bahasa Bawean sendiri. Gaya bahasa yang digunakan agak mudah lagi santai. Namun beberapa rangkap kelihatan indah dengan bunga-bunga bahasa dan perbandingan yang tepat (ms. 21).
+
+&emsp;Nyatalah sudah Boyan nan maju<br>&emsp;Akal pun datang semangkin laju<br><br>&emsp;Sehingga berubah pakaian baju<br>&emsp;Semua pekerjaan boleh setuju
+
+Dari sudut pemilihan perkataan, perbendaharaan bahasa pengarang sangat luas, beberapa perkataan seperti “*gelurat*” (ms. 1) dan “*geharap*” (ms. 34), tidak dapat saya tafsirkan walau setelah merujuk kepada kamus. Menarik juga bila terdapat beberapa bahasa pasar harian yang diselitkan seperti “*jotos*” (ms. 28) dan “*bini*” (ms. 8).
 
 
 
