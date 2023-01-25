@@ -190,8 +190,35 @@ Kini dialek Bawean amat jarang dituturkan, kecuali sebagai ucapan khas sesama wa
 
 Dalam usaha mengenal jati diri serta melestarikan bahasa dan budaya Bawean, Persatuan Bawean Singapura (didaftarkan pada 1946) pernah menganjurkan kegiatan-kegiatan seperti kelas-kelas bahasa Bawean pada tahun 2007 serta kelas-kelas memasak juadah tradisi Bawean. Wisata ke Pulau Bawean juga dianjurkan supaya generasi baru dapat mengenali negeri asal usul mereka. Persatuan ini turut mengiktiraf individu Bawean yang terbilang mengharumkan nama masyarakatnya dengan penganugerahan Bawean Teladan, Bawean Budiman, Bawean Jasawan dan Bawean Cemerlang.27
 
+#### **Karya Nadir Beharga**
 
+Mungkin amat sedikit sekali pembaca masa kini yang berminat membaca syair panjang dalam aksara Jawi lama terutama dari paparan gulungan filem. Namun usaha pengarangnya merakamkan cebisan kisah masyarakat Bawean Singapura ini sangat penting dan harus dihargai. Beliau amat prihatin akan kaumnya sehingga dapat mengarang kisah dalam bentuk syair iaitu suatu karya yang amat sukar dan jarang dilakukan orang lain. Usaha terpuji ini mungkin dilupakan jika tidak didokumentasi dengan sewajarnya misalnya dijadikan antara sumber kajian tentang diaspora masyarakat dan etnik Nusantara.
 
+Dalam konteks kesusasteraan Melayu dan sejarah Singapura umumnya, koleksi syair ini merupakan bahan nadir mengenai kaum-kaum perantau pada era 1920-an hingga sebelum Perang Dunia Kedua. Selain usia karya ini, isinya berkisar tentang keadaan sebenar masyarakat Bawean pada itu. Bentuk karya bersyair-pantun begini tentang orang Bawean boleh mengimbau nostalgia generasi lama perantau Bawean. Sementara kaum muda dapat menyusur galur salasilah mereka melalui rakaman gambaran puisi berirama.
+
+#### **Rumusan**
+
+Sekarang yang tinggal hanya nama bangsa Bawean yang tercatat dalam kad pengenalan dan surat lahir seramai 51,849 orang Bawean Singapura menurut laporan Banci Penduduk tahun 2000.28 Mungkinkah mereka ini yang meneruskan aspirasi generasi awal perantau-perantau yang mengharungi gelombang ombak samudera semata-mata untuk mengecap kehidupan lebih selesa?
+
+Ramai cendekiawan Bawean telah menyumbangkan kepakaran tenaga untuk kemajuan Singapura antaranya Encik Ridwan Dzafir, mantan Direktor-Jeneral, Lembaga Pembangunan Perdagangan (Trade Development Board) dan Presiden Majlis Ugama Islam Singapura (MUIS) (1986– 1989) dan Encik Hawazi Daipi, Setiausaha Parlimen Kanan, Kementerian Kesihatan dan Kementerian Tenaga Manusia.29
+
+Generasi baru masyarakat Bawean harus mengetahui dan mengenang jasa generasi nenek moyang mereka kerana wawasan dan keberanian mereka menyerantau.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>A HISTORICAL STUDY OF THE BAWEANESE COMMUNITY THROUGH THE POEM OF THE BAWEANESE (1930)</b><br><br>  
+
+Ahmad Haji Tahir wrote <i> Shair Saudara Boyan</i>  (Poem of the Baweanese) in 1930. This significant 49-page poem collection, written in Malay using Jawi script, offers a portrait of the Baweanese community and sheds light on their social values and aspirations, extending lessons which the present generation of Baweanese in Singapore may find instructive.
+	
+Through this work, one may gain insight into the history of the Baweanese (Indonesian) immigrants in Singapore.
+	
+The Baweanese-Singaporeans of today owe much of their success to their ancestors’ determination, industriousness and courage to emigrate.</div>
+
+**Penulis menghargai usahasama Dr Roksana Bibi Abdullah, Associate Professor, National Institute of Education, Nanyang Technological University, yang mengulas makalah ini**.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Sundusia Rosdi</b><br>Senior Librarian <br>Professional Services<br>National Library Board</center></div>
 
 
 
