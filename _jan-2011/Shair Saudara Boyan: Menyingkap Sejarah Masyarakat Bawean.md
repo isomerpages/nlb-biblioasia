@@ -92,7 +92,7 @@ Penghuni pondok dikenakan bayaran sewa bilik sebanyak $4 hingga $12 sebulan oleh
 
 &emsp;Baik sebuah masjid yang tentu<br>&emsp; Di Pondok Tachung tempat itu<br><br>&emsp; Ketua bernama Encik Cak Cang<br> &emsp;Semuanya Boyan di Gunong Lanceng
 
-&emsp;Ketika itu ia Pak Tarallah<br>&emsp; Pakalongan ini jadi ceritalah<br><br><br> Sakaoneng pula saya nyatakan <br>&emsp;Pondok ia di sebelah pekan
+&emsp;Ketika itu ia Pak Tarallah<br>&emsp; Pakalongan ini jadi ceritalah<br><br>&emsp;Sakaoneng pula saya nyatakan <br>&emsp;Pondok ia di sebelah pekan
 
 Setiap pondok diketuai oleh seorang Pak Lurah yang bertindak sebagai penghulu serta penasihat ahli pondok. Oleh kerana kebolehan Pak Lurah ini, penguasa polis sebelum Perang Dunia Kedua telah memberi mereka sedikit kuasa untuk menangani sendiri ahli-ahli pondok mereka jika ada yang mengganggu ketenteraman.20
 
@@ -101,6 +101,43 @@ Pengaruh besar seseorang Lurah pondok Bawean diakui oleh pemerintah Inggeris. Me
 Syair ini memaparkan nama beberapa Pak Lurah antaranya Pak Lurah Dul Haris dari Pondok Tachung yang berniaga menjual tiket-tiket kapal ke Pulau Bawean. Sebagai ketua yang berdedikasi serta bersifat patriotik kepada Singapura, beliau telah dianugerahkan pangkat Jaksa Pendamai (JP) (ms. 21) :
 
 &emsp;Kesempurnaan Jawa yang dihadapi<br>&emsp;Gabenor memberi Pangkat JP
+
+#### **Sosio-Ekonomi dan Mata Pencarian**
+
+Tradisi orang Bawean yang berperawakan kuat dan garang serta bersifat rajin diperkatakan dalam syair ini. Sifat setiakawan, gotong royong, sabar serta tidak memilih pekerjaan telah menambat hati bangsa-bangsa lain (ms. 20—30):
+
+&emsp;Banyaklah bangsa pergi datang<br>&emsp;Memuji Bawean tiada berpantang<br><br>&emsp;Wang dikumpul yang digemari<br>&emsp;Hendak dibawanya pulang ke negeri
+
+Dalam bidang ekonomi, kebanyakan mereka terlibat dalam usaha kecil-kecilan seperti menjual atap, menganyam tikar Bawean, membuat terompah kayu dan parut sebagai sumber pencarian mereka (ms. 8).
+
+&emsp;Bawean berniaga terompah dan parut<br>&emsp;Perniagaan maju tiada melorot
+
+Umumnya terdapat semacam pengkhususan jenis pekerjaan di kalangan masyarakat pondok misalnya di Pondok Telok Jati, lelakinya cekap membelah rotan dan wanitanya mahir menjahit jala. Di samping itu menjadi nelayan dan kelasi memang popular kerana mereka sudah biasa dengan laut terutama bagi kaum lelaki dari Pondok Tambak (ms. 24—26).
+
+&emsp;Separuh di laut pula dihantar<br>&emsp; Menjadi kelasi jurumudi berputar<br><br>&emsp;   Pekerjaan banyak menjadi kelasi<br>&emsp;Di kapal kecil Hailam kongsi
+
+Terdapat ramai lelaki Bawean yang menjadi pemandu kereta. Dan ini seolah-olah menjadi simbol datuk serta moyang mereka sebagai pemacu pedati kuda (ms. 24).
+
+&emsp;Tiada takut letih dan rugi<br>&emsp;Niat menjadi coachman tinggi
+
+Sebelum perang, masyarakat di Malaya dan Singapura selalu mengaitkan pengendali kuda atau joki secara automatik dengan orang Bawean.21
+
+Sehubungan itu, kaum lelaki dari Pondok Gunong Lanceng pula ramai menjadi joki kuda (ms. 24).
+
+&emsp;Pekerjaan berlumpur kepala dan kaki<br>&emsp;Sehingga ada menjadi joki
+
+Selanjutnya tentang mata pencarian orang Bawean, ada segelintir yang bekerja di industri perfileman Malaya, dalam bidang hiburan sebagai penyanyi kabaret, sebagai guru, atau dalam jawatan pemerintah. Mereka tergolong kurang dari 1/10 masyarakat Bawean.22
+
+Penglibatan kaum Bawean dalam bidang seni juga dibayangkan dalam syair seperti pelawak Mat Nor Gelam yang menjadi ahli kumpulan bangsawan (ms. 40):
+
+&emsp;Pekerjaan dia di wayang kompeni<br>&emsp;Di Din Union semasa ini
+
+Antara ciri paling dikenali yang berkaitan dengan masyarakat Bawean ialah kecenderungan mereka mengumpul emas (bukan mata wang). Kaum wanita mudah dikenali melalui perhiasan diri seperti memakai banyak gelang tangan, rantai, loket dan kerongsang emas. Di Pulau Bawean, mereka lazimnya menggunakan loket emas (paun) untuk berjual beli sawah ataupun rumah. Malah kekayaan seseorang itu diukur dengan jumlah loket emas yang dimiliki dan mereka sering berjimat untuk membeli loket emas.23 Kebiasaan wanita Bawean yang menghias diri dengan emas walau sekadar ke pasar digambarkan di halaman-halaman 11 dan 31:
+
+&emsp;Di pasar besi banyak bertempuh<br>&emsp;Dapat kelihatan gelang bersepuh<br><br>&emsp;Penuhkan paun di dalam ponjin<br>&emsp;Supaya hajat boleh ditajin (keraskan)<br><br>&emsp;Jangan lupa mencari wang<br>&emsp;Kemudian mendapat intan dan gewang (siput mutiara)
+
+
+
 
 
 
