@@ -8,6 +8,10 @@ description: "Shair Saudara Boyan (Poem of the Baweanese, 1930) is a significant
 ---
 #### _Shair Saudara Boyan_ (Poem of the Baweanese, 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian _Sundusia Rosdi_ shows how it offers a portrait of the Baweanese community and sheds light on their social values and aspirations.
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Presentation1.jpg">
+ <div style="background-color: white;">Salinan kulit buku dan beberapa rangkap penutup Shair Saudara Boyan. Hak cipta terpelihara, Reprographic Section, Reference Service Division, British Library, London.</div>
+
+
 #### **Syair Sebagai Wacana Periwaya**
 
 Kamus Dewan (2005) mendefinisikan syair sebagai “karangan bersajak yang mana tiap-tiap rangkap terdiri daripada empat baris yang sama bunyi hujungnya.”[^1] Menurut Teeuw (1966), kebanyakan penulis bersetuju bahawa syair terbit dari perkataan Arab *syi’r* yang bererti puisi secara umum dan makna sya’ir ialah penulis puisi atau penyairnya. Tidak diketahui pula bila dan mengapa perkataan Arab ini berubah makna menjadi syair seperti yang dimaksudkan dalam bahasa Melayu kini.[^2]
@@ -34,6 +38,9 @@ Setelah membaca *Shair Saudara Boyan* ini, penulis merasa terpanggil untuk menel
 
 Penulis akan menggunakan perkataan Bawean (bukan sebutan Boyan) kerana kaum ini berasal dari Pulau Bawean, Indonesia. Sebenarnya sebutan “Boyan” dimulakan oleh penjajah Barat, kerana pegawai-pegawai zaman kolonial itu lebih selesa untuk menyebut *Orang Bawean* sebagai *Orang Boyan*. Oleh kerana pada hakikatnya orang Eropah merupakan tuan kepada pekerja-pekerja Bawean yang tidak tahu menulis serta membaca dan ditambah lagi dengan cara hidup mereka ketika itu, mereka menerima istilah yang dianggap tidak sesuai ini tanpa ada bantahan sedikitpun.[^6]
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Untitled-1.jpg">
+ <div style="background-color: white;">Masyarakat Bawean Singapura, 1910. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Penulis juga mengalami masalah ketika proses mentransliterasi syair-syair ini kerana kualiti tulisan Jawi di layar mikrofilem itu kurang jelas dan amat mencabar baginya. Misalnya terdapat banyak ayat yang berbayang dan bertindan lapis dari lembaran sebelumnya. Ini menyukarkan pembacaan walaupun setelah dicetak foto dari mikrofilemnya.
 
 Terdapat perkataan-perkataan dan frasa yang sukar ditranskripkan secara langsung antaranya; “Di pondok ramai orang *Traisi*” (ms. 26) dan “Bila malam memakai *pat-pat*” (ms. 38). Masalah susunan aksara Jawinya yang kabur dan tanda-tanda seperti titik yang kurang lengkap sebagai menuruti konvensyen huruf-huruf Hijaiyah agak mengelirukan. Misalnya “Perintahlah dahulu *terluca*” (ms. 41). Di samping itu struktur barisan dari bait pertama hingga ke bait terakhir tidak dipisahkan secara berperenggan. Untuk memudahkan rujukan, penulis menomborkan setiap 1,964 baris. Bait-bait ini dikekalkan nombor halaman teks Jawi asalnya. Penulis mengatasi penguasaan bahasa Baweannya yang terhad dengan merujuk kepada saudara mara untuk menakrifkan frasa-frasa yang tidak dapat dihuraikan.
@@ -45,6 +52,9 @@ Penulis akan menganalisa karya syair ini dari aspek nilai-nilai yang tersirat di
 #### **Latarbelakang Kajian**
 
 Pulau Bawean terletak 120 km di utara Surabaya (Jawa Timur, Indonesia) di Laut Jawa. Keluasannya kira-kira 200 km persegi (tiga kali lebih kecil dari Singapura), terbahagi kepada dua daerah; Sangkapura dan Tambak dengan 30 kelurahan (desa) dan 143 kampung.[^7] Nama Bawean ini berasal dari perkataan Sanskrit yang bermakna “ada sinar matahari.”[^8]
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Pulau%20Bawean_20110114.jpg">
+ <div style="background-color: white;">Lokasi Pulau Bawean, Indonesia</div>
 
 Pulau Bawean juga dikenali sebagai Pulau Puteri kerana kebanyakan penduduknya terdiri daripada kaum wanita. Lantaran kaum puteranya pula mula merantau apabila mencecah usia remaja. Masyarakat Bawean menganggap bahawa “seseorang lelaki Bawean belum dikira dewasa sehinggalah ia merantau ke luar negeri.”[^9]
 
@@ -80,11 +90,18 @@ Setibanya di Singapura, kaum lelakinya menjual tikar anyaman Bawean di Kampung J
 
 Khabar keselesaan hidup di Singapura memang menggamit minat rakan taulan mereka di Pulau Bawean hingga akhirnya ramai turut berhijrah pada pertengahan abad ke 19. Banci Koloni Singapura tahun 1849 mencatatkan kehadiran 763 orang Bawean (720 lelaki dan 43 perempuan). Jumlah penghijrah ini terus meningkat tetapi kemasukan mereka ke sini dihadkan selepas Perang Dunia Kedua dengan penguatkuasaan “*Citizenships Ordinance*, 1957.”[^14]
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/bawean1.jpg">
+ <div style="background-color: white;">Pemandangan sawah padi di Pulau Bawean. <i>Koleksi foto penulis, 1993.</i></div>
+
+
 #### **Institusi Pondok Bawean**
 
 Kaum Bawean yang berhijrah ke Singapura berasal dari pelbagai desa seperti Beluluar, Dekatagung, Padekek, Pakalongan, Tachung, Teluk Jati, Sakaoneng, Sokalela dan lain-lain. Tatkala sampai ke Singapura, mereka bersatu dan disediakan naungan di kediaman yang dikenali sebagai “ponthuk” (pondok) iaitu rumah bagi pendatang baru Bawean. Konsep pondok sebagai institusi sosial unik bagi memastikan keselesaan sosial dan keselamatan moral mereka[^15] terutama bagi yang masih menganggur atau sakit kerana konsep pondok juga nampaknya sangat mirip dengan konsep “kongsi” bagi pendatang-pendatang Cina ke rantau ini.[^16]
 
 Pondok selalunya merupakan rumah kedai bertingkat atau banglo dengan unit-unit bilik kecil untuk setiap keluarga, sementara ruang tamu, ruang solat, dapur serta bilik dikongsi bersama penghuni lain. Terdapat antara 10—30 buah keluarga hidup di bawah satu bumbung pondok. Nama setiap pondok di Singapura biasanya diberikan sempena desa asal di Bawean kerana kaum ini didapati amat tebal jati diri serta nilai etnosentrisme mereka. Mereka mahu dikenali sebagai orang dari desa asal mereka misalnya orang-orang Tambak, Gelam, Pakherbung dan lain-lain.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Generasi%20B.jpg">
+ <div style="background-color: white;">Gambar kaum lelaki Bawean di tahun 1950-an. <i>Koleksi foto penulis</i></div>
 
 Di antara tahun 1940-an hingga 1950-an, catatan taburan 138 pondok didirikan di serata Singapura,[^17] antaranya Pondok Teluk Dalam di Dixon Road, Pondok Dedawang di Sophia Road dan Pondok Adam di Ann Siang Hill. Pondok terakhir dikenalpasti terletak di Sungei Road dan telah dirobohkan pada tahun 1981.[^18]
 
@@ -195,6 +212,9 @@ Dalam usaha mengenal jati diri serta melestarikan bahasa dan budaya Bawean, Pers
 #### **Karya Nadir Beharga**
 
 Mungkin amat sedikit sekali pembaca masa kini yang berminat membaca syair panjang dalam aksara Jawi lama terutama dari paparan gulungan filem. Namun usaha pengarangnya merakamkan cebisan kisah masyarakat Bawean Singapura ini sangat penting dan harus dihargai. Beliau amat prihatin akan kaumnya sehingga dapat mengarang kisah dalam bentuk syair iaitu suatu karya yang amat sukar dan jarang dilakukan orang lain. Usaha terpuji ini mungkin dilupakan jika tidak didokumentasi dengan sewajarnya misalnya dijadikan antara sumber kajian tentang diaspora masyarakat dan etnik Nusantara.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/ridzwanD-new.jpg">
+ <div style="background-color: white;">Pencapaian anak pondok, diabadikan. Hak cipta terpelihara, Didier Millet, 2009.</i></div>
 
 Dalam konteks kesusasteraan Melayu dan sejarah Singapura umumnya, koleksi syair ini merupakan bahan nadir mengenai kaum-kaum perantau pada era 1920-an hingga sebelum Perang Dunia Kedua. Selain usia karya ini, isinya berkisar tentang keadaan sebenar masyarakat Bawean pada itu. Bentuk karya bersyair-pantun begini tentang orang Bawean boleh mengimbau nostalgia generasi lama perantau Bawean. Sementara kaum muda dapat menyusur galur salasilah mereka melalui rakaman gambaran puisi berirama.
 
@@ -336,7 +356,3 @@ https://ms-my.facebook.com/persatuanbaweansingapura/
 [^28]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.  
 
 [^29]: [Nor-Afidah Abdul Rahman & Marsita Omar](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), Oct 2020.
-
-
-
-
