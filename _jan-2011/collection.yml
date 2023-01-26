@@ -2,6 +2,7 @@ collections:
   jan-2011:
     output: true
     order:
+      - "Women’s Perspectives on Malaya: Isabella Bird on the Chersonese.md"
       - Director's Column.md
       - Asian Confluence.md
       - The Case of Tras New Village and the Assasination of Henry Gurney During
