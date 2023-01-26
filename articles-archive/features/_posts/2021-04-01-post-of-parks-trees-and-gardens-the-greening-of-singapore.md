@@ -32,12 +32,6 @@ About two decades later, in 1859, the Agricultural and Horticultural Society set
 
 Its first superintendent, Lawrence Niven, organised flower shows and horticultural fairs in the gardens to attract more visitors. He also added many features such as the Swan Lake, Bandstand Hill and the interconnecting curving pathways.[^5]
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/greeningsg/SBG.jpg">
-The Singapore Botanic Gardens, c. 1900s. It was founded by the Agricultural and Horticultural Society in 1859 as a landscaped ornamental and leisure garden on a 23-hectare tract in Tanglin. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
-</div>
-
 After the Straits Settlements government took over the management of the gardens in 1874, it continued to grow under the stewardship of directors such as Henry James Murton (1875–80), Nathaniel Cantley (1880–88) and Henry Nicholas Ridley (1888–1912).
 
 Murton expanded the gardens with a 41-hectare northern extension in 1879. He also established the Economic Garden the same year for the research and conservation of plants with economic potential, such as coffee, sugarcane and pará rubber. In addition, Murton set up a zoo within the gardens’ compound, which at its peak between 1875 and 1878, housed around 150 animals, including leopards and a tiger.[^6]
