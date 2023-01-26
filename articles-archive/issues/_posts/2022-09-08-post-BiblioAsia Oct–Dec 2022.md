@@ -11,7 +11,7 @@ Theemithi, the firewalking festival, takes place a week before Deepavali (on a S
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-to-dec-2022/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. [(PDF)](/files/pdf/Vol%2018/Issue%203/1%20Theemithi%20—%20BA_OCT-DEC2022.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a><br>Theemithi is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months. *Nalina Gopal*. [(PDF)](/files/pdf/Vol%2018/Issue%203/1%20BiblioAsia%20v18%20iss3_Theemithi.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a><br>Asian labourers known as *rōmusha* helped to build the Thai-Burma Railway during World War II. *Shirlene Noordin*. [(PDF)](/files/pdf/Vol%2018/Issue%203/2%20Romusha%20—%20BA_OCT-DEC2022.pdf)
 
