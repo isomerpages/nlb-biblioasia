@@ -1,24 +1,11 @@
 ---
 title: "Of Parks, Trees and Gardens: The Greening of Singapore"
-permalink: /vol-17/issue-1/apr-jun-2021/greening
+permalink: /vol-17/issue-1/apr-jun-2021/greening/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "Of Parks, Trees and Gardens: The Greening of Singapore"
 third_nav_title: "Of Parks, Trees and Gardens: The Greening of Singapore"
 image: /images/Vol-17-issue-1/greeningsg/ECP.jpg
 ---
-
-<style>
-table { 
-	background-color: #fff6ba;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #fff6ba;
-}
-</style>
-
-
 #### **Lim Tin Seng** traces the journey from the first botanical garden in 1822 to the “City in Nature” vision in 2020. 
 
 <div style="background-color: white;">
@@ -44,12 +31,6 @@ In 1836, another botanic garden was created on a much smaller plot on Fort Canni
 About two decades later, in 1859, the Agricultural and Horticultural Society set up a landscaped ornamental and leisure garden on a 23-hectare tract in Tanglin. This took root and eventually became the Singapore Botanic Gardens (SBG). In 2015, it was declared a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site.
 
 Its first superintendent, Lawrence Niven, organised flower shows and horticultural fairs in the gardens to attract more visitors. He also added many features such as the Swan Lake, Bandstand Hill and the interconnecting curving pathways.[^5]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/greeningsg/SBG.jpg">
-The Singapore Botanic Gardens, c. 1900s. It was founded by the Agricultural and Horticultural Society in 1859 as a landscaped ornamental and leisure garden on a 23-hectare tract in Tanglin. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
-</div>
 
 After the Straits Settlements government took over the management of the gardens in 1874, it continued to grow under the stewardship of directors such as Henry James Murton (1875–80), Nathaniel Cantley (1880–88) and Henry Nicholas Ridley (1888–1912).
 
