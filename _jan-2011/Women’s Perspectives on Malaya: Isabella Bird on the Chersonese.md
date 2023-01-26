@@ -6,6 +6,9 @@ description: "Senior Librarian Bonny Tan takes a closer look at Isabella Bird’
 ---
 #### Senior Librarian _Bonny Tan_ takes a closer look at Isabella Bird’s book _The Golden Chersonese_, which captures her travels through Malaya.
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/chersonese%20020.jpg">
+ <div style="background-color: white;">A first edition of The Golden Chersonese (1883). Rare Materials Collection, National Library Singapore.</div>
+ 
 <center>“There is not very much comfort when one leaves the beaten tracks of travel,<br> but any loss is far more than made up for by the intense enjoyment.”<br> (Bird, 1883, p. 216)</center>
 
 #### **Isabella Bird: The Accidental Tourist**
@@ -20,6 +23,9 @@ Bird made her first journey at the age of 23 to North America to visit her relat
 Bird travelled more widely in her middle age after the death of her mother, she traversed the wide expanse of the Americas, Australia and New Zealand and through the wild lands of Asia such as China, Korea, Malaya and the Middle East. In total, she travelled for more than nine years, though there were long periods when she stayed home. Age did not mellow her venturesome spirit and she chose to explore harsher lands and take on more challenging adventures even as she entered her 70s.
 
 Most of Bird’s early books were based on letters she had written to her only sibling, Henrietta. “In writing to my sister my first aim was accuracy, and my next to make her see what I saw ….” (Bird, 1883, p. viii) However, Henrietta was not just a home-bound shrinking violet who merely received her adventurous sister’s letters. In fact, she was considered the more academic of the two,[^3] having a fluency in classical languages such as Greek and Latin.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/Presentation1.jpg">
+ <div style="background-color: white;">(Left) Henrietta Amelia Bird (Stoddart, 1908,  p. 122)<br> (Centre) Isabella Bird (Stoddart, 1908, Frontispiece)<br> (Right) Dr John Bishop (Stoddart, 1908, p. 118)</div>
 
 It was Henrietta who had suggested titling Bird’s Malayan travels *The Golden Chersonese*, based on her knowledge of Ptolemaic history and its mention in Milton’s poems. There has been speculation that Henrietta had literally co-written much of Isabella’s earlier books.[^4] Bird herself had acknowledged her sister as “\[her\] intellect, the inspiration of all \[her\] literary work.”[^5] For *The Chersonese*, Bird acknowledged that “\[Henrietta’s\] able and careful criticism, as well as loving interest, accompanied \[her\] former volumes through the press.” (Bird, 1883, Preface, p. vii). *The Chersonese*, however was Bird’s last book based on her letters to Henrietta. Henrietta died in 1880 soon after Bird returned from Malaya. Bird expressed her sense of loss noting that the book was written “under the heavy shadow of the loss of the beloved and only sister” (ibid., Preface, p. vii) and dedicated *The Chersonese* to her: “To a beloved memory, this volume is earnestly and sorrowfully dedicated.” Henrietta’s death not only affected Bird emotionally, but likely also her writings. While researching for *The Chersonese*, Bird had appealed several times to John Murray, her publisher, to provide materials to pad up her limited knowledge on Malaya — something which Chubbuck believes Henrietta, if alive, would have invariably supplied to her sister.[^6]
 
@@ -51,6 +57,9 @@ Indeed, her descriptions of people seem to favour the locals over her own compat
 
 Stoddart noted that “as a traveler, Mrs Bishop’s outstanding merit is that she nearly always conquered her territories alone; that she faced the wilderness almost single-handed\[ly\] …” (Stoddart, 1908, p. vi). That was how she travelled when she first took off to explore the Malay States. She boarded a small Chinese-owned boat, the *Rainbow*, to Malacca — being the only European and female traveller onboard. However, Bird was not always alone in her Malayan adventures. On much of the journey inland, she was accompanied by Babu, a native butler of sorts, the governor’s two young daughters and up to 11 other workers.
 
+<img style="width:50%;" src="/images/Vol%206%20issue%204/WomenPerspective/A%20Kling.jpg">
+ <div style="background-color: white;">A Kling (Bird, 1883, p. 254)</div>
+ 
 As a woman, Bird was privileged to see the more intimate side of Malayan life. She was sometimes invited to meet locals of the fairer sex and their children and she often took pains to describe the women, their dress and appearances as well as the children. In one instance, she was invited to meet a Sikh guard’s family, whom her male companions comprising officials in high leadership positions had not met before. Upon seeing the guard’s wife, Bird exclaimed in awe:
 
 &emsp;&emsp;&emsp;&emsp;She is very beautiful, and<br>&emsp;&emsp;&emsp;&emsp;has an exquisite figure,<br>&emsp;&emsp;&emsp;&emsp;but was overloaded<br>&emsp;&emsp;&emsp;&emsp;with jewellery …. She<br>&emsp;&emsp;&emsp;&emsp;had an infant boy … in<br>&emsp;&emsp;&emsp;&emsp;her arms, clothed only<br>&emsp;&emsp;&emsp;&emsp;in a silver hoop, and<br>&emsp;&emsp;&emsp;&emsp;the father took him and<br>&emsp;&emsp;&emsp;&emsp;presented him to me<br>&emsp;&emsp;&emsp;&emsp;with much pride. It was<br>&emsp;&emsp;&emsp;&emsp;a pleasant family group.<br>&emsp;&emsp;&emsp;&emsp;(Bird, 1883, p. 291)
@@ -60,6 +69,9 @@ As a woman, Bird was privileged to see the more intimate side of Malayan life. S
 &emsp;&emsp;&emsp;&emsp;A man on whose word one may implicitly rely. Brought up<br>&emsp;&emsp;&emsp;&emsp;among Malays, and speaking their language idiomatically,<br>&emsp;&emsp;&emsp;&emsp;he not only likes them, but takes the trouble to understand<br>&emsp;&emsp;&emsp;&emsp;them and enter into their ideas and feelings …. I have the<br>&emsp;&emsp;&emsp;&emsp;very pleasant feeling regarding him that he is the right man<br>&emsp;&emsp;&emsp;&emsp;in the right place. (ibid., pp. 285—286)
 
 She then continued to describe the convivial repartee over dinner between Maxwell, Captain Walker and Major Swineburne, her travel companions, doubting that “such an argument could have been got up in moist, hot Singapore, or steamy Malacca! … That it should be possible shows what an invigorating climate this must be.” (ibid., p. 286)
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/An%20equatorial%20jungle%20stream.jpg">
+ <div style="background-color: white;">An equatorial jungle stream (Bird, 1883, facing p. 227)</div>
 
 #### **The Golden Chersonese: Romance or Realism?**
 
@@ -72,6 +84,9 @@ The adverse circumstances, however, brought out Bird’s resourcefulness. She de
 &emsp;&emsp;&emsp;&emsp;I wear a straw hat with the sides and low crown<br>&emsp;&emsp;&emsp;&emsp;thickly wadded. I also have a strip four inches<br>&emsp;&emsp;&emsp;&emsp;broad of three thicknesses of wadding, sewn<br>&emsp;&emsp;&emsp;&emsp;into the middle of the back of my jacket,<br>&emsp;&emsp;&emsp;&emsp;and usually wear in addition a coarse<br>&emsp;&emsp;&emsp;&emsp;towel wrung out in water, folded on top of my head, and<br>&emsp;&emsp;&emsp;&emsp;hanging down the back of my neck. (ibid., p. 253)
 
 When her elephant ride from Larut to Kwala Kangsar \[sic\] did not materialise due to some miscommunication, and she had to walk the four miles through quagmire and jungle, she recognised that she “could not have done the half of it had \[she\] not had \[her\] ‘mountain dress’ on …” (ibid., p. 293). She finally meets her elephant, which had “nothing grand about him but his ugliness” (ibid., p. 298).
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/first%20ride%20.jpg">
+ <div style="background-color: white;">Isabella Bird's first ride in Perak (Bird, 1883, frontispiece)</div>
 
 Even in the midst of these challenges, she was able to contemplate the uniqueness of her circumstances, sometimes describing them in such wondrous tones despite the apparent dangers and discomforts she faced. Here, she gave the context to her elephant ride:
 
