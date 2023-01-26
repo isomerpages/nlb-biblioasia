@@ -5,7 +5,6 @@ description: Two remarkable athletes served up a storm to make Malaya a
   tennis  power to contend with during the interwar years.
 image: /images/Vol 19 Issue 1/Tennis/image2.png
 ---
-
 #### Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 By Abhishek Mehrotra
 
@@ -41,7 +40,7 @@ The duo, taking their sporting cues from the West rather than the East, exhorted
 
 Song led by example, being an avid tennis player who twice finished runner-up in the SCRC tennis championship in 1906 and 1909.[^12] And while there is scant evidence of Lim Boon Keng having played the game seriously, the good doctor was certainly an admirer. “Tennis might seem foolish to those who did not understand its science and art, but it was not so to experienced men,”[^13] he said during the presentation ceremony following the 1915 SCRC final.
 
-Singapore’s first ever non-European club, the SCRC had been founded in late 1884 by five prominent Straits merchants and had taken swiftly to imitating its Padang peers – the European Singapore Cricket Club (SCC) and the Eurasian Singapore Recreation Club (SRC).[^14] The SCRC’s first home was at an “open plain” below Pearl Hill but it was in the grander environs of Hong Lim Green where it moved to two years later that the club established itself as a prominent local institution. From the late 1880s, the green was home to regular cricket tournaments, a Chinese New Year Sports Day and an annual intra-club tennis tournament.[^15]
+Singapore’s first ever non-European club, The SCRC had been founded in late 1884 by five prominent Straits merchants and had taken swiftly to imitating its Padang peers – the European Singapore Cricket Club (SCC) and the Eurasian Singapore Recreation Club (SRC).[^14] The SCRC’s first home was at an “open plain” below Pearl Hill but it was in the grander environs of Hong Lim Green where it moved to two years later that the club established itself as a prominent local institution. From the late 1880s, the green was home to regular cricket tournaments, a Chinese New Year Sports Day and an annual intra-club tennis tournament.[^15]
 
 ![](/images/Vol%2019%20Issue%201/Tennis/image4.png)
 <div style="background-color: white;">The Singapore Chinese Recreation Club’s Lawn Tennis Tournament, 1928. The club was formed in 1884 for the purpose of playing tennis and cricket. <i>Courtesy of Singapore Sports Council.</i></div>
@@ -59,7 +58,7 @@ The years following World War I saw an explosion in the popularity of tennis in 
 
 In its most simplified form, the season could be described thus: each of the clubs – SCC, SRC, SCRC (there were others too) – had their own in-house competitions stretching back to the late 19th century. The next rung was the Singapore Championship, inaugurated in 1921 – variously called Singapore Lawn Tennis Championship, Singapore Tennis Tournament, Singapore Open – in which all Singapore residents, irrespective of nationality, were eligible to play. Variations of this structure had also sprung up across the peninsular territories. 
 
-The highest rung was occupied by the regional tournaments where the best players from across Singapore and Malaya competed against each other. With the differentiated nature of political administration under the British (three Straits colonies and four Federated Malay States), there was an almost unlimited number of ways by which regions and players could be pitted against each other in a tournament format. 
+The highest rung was occupied by the regional tournaments where the best players from across Singapore and Malaya competed against each other. With the differentiated nature of political administration under the British (three Straits Settlements territories and four Federated Malay States), there was an almost unlimited number of ways by which regions and players could be pitted against each other in a tournament format. 
 
 The most storied of these tournaments was the Malaya Cup, first organised in Singapore in 1921, in which the champions of the domestic tournament in Singapore, Penang, Melaka, Selangor, Perak and Negeri Sembilan faced off to determine the overall winner. It was in this milieu, with an unparalleled abundance of competitive tennis, that Khoo Hooi Hye came of age. 
 
@@ -119,7 +118,7 @@ It was a churlish farewell to a sporting great, though to give a sense of the ti
 
 It would be 32 more years before the tennis world would allow, in 1968, those who played for prize money to compete with those who played as amateurs. 
 
-There was, however, a more poignant farewell in 1936. Khoo, who had spent the earlier part of the year playing in various exhibitions, passed away in July due to kidney complications. He was only 35 years old.[^39] 
+There was, however, a more poignant farewell in 1936. Khoo, who had spent the earlier part of the year playing in various exhibitions, died in July due to kidney complications. He was only 35 years old.[^39] 
 
 Two days before Khoo’s death, N.S. Wise became the first ever European to lift the Singapore Lawn Tennis Championship.[^40] Between the two of them, Khoo and Lim had won 12 of 15 Singapore Championships and nine of the 15 Malaya Cups since both tournaments began in 1921. By keeping the Europeans at bay, they had shown the local Chinese that it was possible to not just play the colonial masters’ game but to beat them at it.
 
