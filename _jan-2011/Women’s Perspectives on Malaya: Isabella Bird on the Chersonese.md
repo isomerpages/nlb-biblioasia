@@ -45,7 +45,52 @@ Details accompany Bird’s descriptions, but they are neither dogmatic nor borin
 
 Indeed, her descriptions of people seem to favour the locals over her own compatriots sometimes taking a potshot at the latter’s apparent condescension toward native people and their customs. This is vividly seen in her contrasting descriptions of the local Indian women and the upper crust European ladies in the town:
 
-&emsp;&emsp;&emsp;&emsp;A tall, graceful Kling woman … gliding along the pavement,<br>&emsp;&emsp;&emsp;&emsp;her statuesque figure, the perfection of graceful ease, a dark<br>&emsp;&emsp;&emsp;&emsp;pitcher on her head, just touched by the beautiful hand,<br>&emsp;&emsp;&emsp;&emsp;showing the finely moulded arm, is a beautiful object,<br>&emsp;&emsp;&emsp;&emsp;classical in form, exquisite in movement, and artistic in<br>&emsp;&emsp;&emsp;&emsp;colouring, a creation of the tropic sun. What thinks she,<br>&emsp;&emsp;&emsp;&emsp;I wonder, if she thinks at all, of the pale European, paler<br>&emsp;&emsp;&emsp;&emsp;for want of exercise and engrossing occupation, who steps<br>&emsp;&emsp;&emsp;&emsp;out of her carriage in front of her, an ungraceful heap of<br>&emsp;&emsp;&emsp;&emsp;poufs and frills, tottering painfully on high heels, in tight<br>&emsp;&emsp;&emsp;&emsp;boots, her figure distorted into the shape of a Japanese<br>&emsp;&emsp;&emsp;&emsp;sake bottle, every movement a struggle or a jerk, the<br>&emsp;&emsp;&emsp;&emsp;clothing utterly unsuited to this or any climate, impeding<br>&emsp;&emsp;&emsp;&emsp;motion, and affecting health, comfort, and beauty alike?<br>&emsp;&emsp;&emsp;&emsp;(ibid., p. 117)
+&emsp;&emsp;&emsp;&emsp;A tall, graceful Kling woman … gliding along the pavement,<br>&emsp;&emsp;&emsp;&emsp;her statuesque figure, the perfection of graceful ease, a dark<br>&emsp;&emsp;&emsp;&emsp;pitcher on her head, just touched by the beautiful hand,<br>&emsp;&emsp;&emsp;&emsp;showing the finely moulded arm, is a beautiful object,<br>&emsp;&emsp;&emsp;&emsp;classical in form, exquisite in movement, and artistic in<br>&emsp;&emsp;&emsp;&emsp;colouring, a creation of the tropic sun. What thinks she,<br>&emsp;&emsp;&emsp;&emsp;I wonder, if she thinks at all, of the pale European, paler<br>&emsp;&emsp;&emsp;&emsp;for want of exercise and engrossing occupation, who steps<br>&emsp;&emsp;&emsp;&emsp;out of her carriage in front of her, an ungraceful heap of<br>&emsp;&emsp;&emsp;&emsp;poufs and frills, tottering painfully on high heels, in tight<br>&emsp;&emsp;&emsp;&emsp;boots, her figure distorted into the shape of a Japanese<br>&emsp;&emsp;&emsp;&emsp;sake bottle, every movement a struggle or a jerk, the<br>&emsp;&emsp;&emsp;&emsp;clothing utterly unsuited to this or any climate, impeding<br>&emsp;&emsp;&emsp;&emsp;motion, and affecting health, comfort, and beauty alike<br>&emsp;&emsp;&emsp;&emsp;(ibid., p. 117)
+
+#### **The Malayans: A Woman’s Perspective**
+
+Stoddart noted that “as a traveler, Mrs Bishop’s outstanding merit is that she nearly always conquered her territories alone; that she faced the wilderness almost single-handed\[ly\] …” (Stoddart, 1908, p. vi). That was how she travelled when she first took off to explore the Malay States. She boarded a small Chinese-owned boat, the *Rainbow*, to Malacca — being the only European and female traveller onboard. However, Bird was not always alone in her Malayan adventures. On much of the journey inland, she was accompanied by Babu, a native butler of sorts, the governor’s two young daughters and up to 11 other workers.
+
+As a woman, Bird was privileged to see the more intimate side of Malayan life. She was sometimes invited to meet locals of the fairer sex and their children and she often took pains to describe the women, their dress and appearances as well as the children. In one instance, she was invited to meet a Sikh guard’s family, whom her male companions comprising officials in high leadership positions had not met before. Upon seeing the guard’s wife, Bird exclaimed in awe:
+
+&emsp;&emsp;&emsp;&emsp;She is very beautiful, and<br>&emsp;&emsp;&emsp;&emsp;has an exquisite figure,<br>&emsp;&emsp;&emsp;&emsp;but was overloaded<br>&emsp;&emsp;&emsp;&emsp;with jewellery …. She<br>&emsp;&emsp;&emsp;&emsp;had an infant boy … in<br>&emsp;&emsp;&emsp;&emsp;her arms, clothed only<br>&emsp;&emsp;&emsp;&emsp;in a silver hoop, and<br>&emsp;&emsp;&emsp;&emsp;the father took him and<br>&emsp;&emsp;&emsp;&emsp;presented him to me<br>&emsp;&emsp;&emsp;&emsp;with much pride. It was<br>&emsp;&emsp;&emsp;&emsp;a pleasant family group.<br>&emsp;&emsp;&emsp;&emsp;(Bird, 1883, p. 291)
+
+*The Chersonese* not only offers a peek into the communities of the newly formed Malay States, but it also gives anecdotal accounts of the people who led the Protected Malay States. In fact, “the individuals Bird’s narrative sketches are almost entirely British administrators, the empire builders engaged in the great work of creating British Malaya. They turn out to be people who were then in the process of developing extensive reputations in England, and who would, in the three decades following the publication of Bird’s book, reach enormous fame.”10 One such individual was William Edward Maxwell, whom Bird met in Perak. He was then a newly appointed Assistant Resident, but soon rose to become the Acting Resident Councillor of Penang (1887—1889) and Acting Governor (1891—1895). She described Maxwell thus:
+
+&emsp;&emsp;&emsp;&emsp;A man on whose word one may implicitly rely. Brought up<br>&emsp;&emsp;&emsp;&emsp;among Malays, and speaking their language idiomatically,<br>&emsp;&emsp;&emsp;&emsp;he not only likes them, but takes the trouble to understand<br>&emsp;&emsp;&emsp;&emsp;them and enter into their ideas and feelings …. I have the<br>&emsp;&emsp;&emsp;&emsp;very pleasant feeling regarding him that he is the right man<br>&emsp;&emsp;&emsp;&emsp;in the right place. (ibid., pp. 285—286)
+
+She then continued to describe the convivial repartee over dinner between Maxwell, Captain Walker and Major Swineburne, her travel companions, doubting that “such an argument could have been got up in moist, hot Singapore, or steamy Malacca! … That it should be possible shows what an invigorating climate this must be.” (ibid., p. 286)
+
+#### **The Golden Chersonese: Romance or Realism?**
+
+Though some have criticised Bird for romanticising her description of the Malay States, she did not censor her more negative impressions of the Peninsula or gloss over the challenges she faced. Indeed, she sometimes seemed to relish the more horrid experiences and observations. Such was the case when she first arrived in Selangor, where she described the squalid conditions of the village by the river — “Slime was everywhere oozing, bubbling, smelling putrid in the sun, all glimmering, shining, and iridescent, breeding fever and horrible life ….” (ibid., p. 243)
+
+Though some have criticised Bird for romanticising her description of the Malay States, she did not censor her more negative impressions of the Peninsula or gloss over the challenges she faced. Indeed, she sometimes seemed to relish the more horrid experiences and observations. Such was the case when she first arrived in Selangor, where she described the squalid conditions of the village by the river — “Slime was everywhere oozing, bubbling, smelling putrid in the sun, all glimmering, shining, and iridescent, breeding fever and horrible life ….” (ibid., p. 243)
+The adverse circumstances, however, brought out Bird’s resourcefulness. She devised an innovative approach to protect herself from the heat of the sun:
+
+&emsp;&emsp;&emsp;&emsp;I wear a straw hat with the sides and low crown<br>&emsp;&emsp;&emsp;&emsp;thickly wadded. I also have a strip four inches<br>&emsp;&emsp;&emsp;&emsp;broad of three thicknesses of wadding, sewn<br>&emsp;&emsp;&emsp;&emsp;into the middle of the back of my jacket,<br>&emsp;&emsp;&emsp;&emsp;and usually wear in addition a coarse<br>&emsp;&emsp;&emsp;&emsp;towel wrung out in water, folded on top of my head, and<br>&emsp;&emsp;&emsp;&emsp;hanging down the back of my neck. (ibid., p. 253)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
