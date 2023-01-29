@@ -8,6 +8,10 @@ description: "Librarian Juffri bin Supa’at examines the growth and development
 
 <i>&emsp;&emsp;&emsp;&emsp;
 “Sudahkah para penulis kita mengambil dan merakamkan isu-isu<br>&emsp;&emsp;&emsp;&emsp;
- atau masalah-masalah masyarakat yang paling penting dan hangat?<br> Adakah para penulis kita digerakkan oleh permasalahan dan<br> &emsp;&emsp;&emsp;&emsp;
-penderitaan masyarakatnya?”</i><br>&emsp;&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, 
-Kumpulan esei & wawancara, ms. 137
+ atau masalah-masalah masyarakat yang paling penting dan hangat?<br>&emsp;&emsp;&emsp;&emsp;Adakah para penulis kita digerakkan oleh permasalahan dan<br> &emsp;&emsp;&emsp;&emsp;
+penderitaan masyarakatnya?”</i><br>&emsp;&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
+
+
+
+
+
