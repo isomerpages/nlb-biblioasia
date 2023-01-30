@@ -67,7 +67,17 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 |_Singapore Chin Kang Huay Kuan Collection, National Library Singapore._|
 
+|<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Hokkien%20Huay%20Kuan.png">|
 
+|**新加坡福建会馆珍藏****:** **天福宫二战期间产业登记****, 1942–1948  |
+\[Singapore Hokkien Huay Kuan Collection: Thian Hock Keong House Rent & Ground Rent Register, 1942–1948\]**|
+
+  
+|Call no.: RRARE 369.25957 XJP-\[HHK\]|
+
+|This document provides insights into the currency issued by the Japanese military government during the Japanese Occupation in Singapore and Malaya. The currency was known as “banana money”. When the British reoccupied Malaya in September 1945, the Malayan dollar was in use once again.|
+
+|_Singapore Hokkien Huay Kuan Collection, National Library Singapore._|
 
   
 
