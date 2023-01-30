@@ -52,4 +52,16 @@ Finally, the founder of the Centre for Digital Storytelling (storymapping.org), 
 
 #### **Final Thoughts**
 
-The conference was a useful platform for delegates to deliberate on strategies and approaches in the design and planning of memory initiatives. It also inspired the attendees to renew their commitment towards the preservation of national memories.
+The conference was a useful platform for delegates to deliberate on strategies and approaches in the design and planning of memory initiatives. It also inspired the attendees to renew their commitment towards the preservation of national 
+memories.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Gracie%20Lee.jpg" style="width: 100px; height: 100px;"/>
+ <center><b>Gracie Lee</b><br>Senior Librarian<br>Professional Services<br>National Library </center></div>
+
+
+
+
+
