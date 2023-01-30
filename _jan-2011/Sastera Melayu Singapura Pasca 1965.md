@@ -9,9 +9,9 @@ description: "Librarian Juffri bin Supa’at examines the growth and development
 <img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Friday,%20Dec%2009,%202005%20(5a).jpg">
  <div style="background-color: white;">Contoh karya dalam bentuk stensilan, 1977.</div>
 
-<i><b>&emsp;&emsp;&emsp;&emsp;
-“Sudahkah para penulis kita mengambil dan merakamkan isu-isu<br>&emsp;&emsp;&emsp;&emsp;
- atau masalah-masalah masyarakat yang paling penting dan hangat?<br>&emsp;&emsp;&emsp;&emsp;Adakah para penulis kita digerakkan oleh permasalahan dan<br> &emsp;&emsp;&emsp;&emsp;penderitaan masyarakatnya?”</i></b><br>&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
+<b>&emsp;&emsp;&emsp;&emsp;
+“*Sudahkah para penulis kita mengambil dan merakamkan isu-isu*<br>&emsp;&emsp;&emsp;&emsp;
+ *atau masalah-masalah masyarakat yang paling penting dan hangat?*<br>&emsp;&emsp;&emsp;&emsp;*Adakah para penulis kita digerakkan oleh permasalahan dan*<br> &emsp;&emsp;&emsp;&emsp;*penderitaan masyarakatnya?*”</b><br>&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
 
 Singapura pernah menjadi pusat perkembangan sastera Melayu moden. Ini dapat dilakukan dengan begitu berkesan sekali kerana Singapura ketika itu juga berfungsi sebagai pusat penerbitan dengan terdapatnya alat-alat percetakan moden yang dibawa masuk dari barat. Secara tidak langsung, menjadi daya tarikan kepada bakat-bakat dari seluruh rantau ini yang bercita-cita untuk mengembangkan dan meluaskan peluang penulisan mereka.
 
