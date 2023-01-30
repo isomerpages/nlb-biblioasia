@@ -2,6 +2,7 @@ collections:
   jan-2011:
     output: true
     order:
+      - "新加坡华文文学的 滥觞与进程: 馆藏华文文学史料选介.md"
       - Sastera Melayu Singapura Pasca 1965.md
       - "Women’s Perspectives on Malaya: Isabella Bird on the Chersonese.md"
       - Director's Column.md
