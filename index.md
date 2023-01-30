@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/
-      button: '"Book City" in Two Streets'
+      url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
+      button: Taoist Folk Goddesses of Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Chinese Bookstores_Chinese/View of North
-        Bridge Road.jpg
+      background: /images/Vol 18 Issue 4/Maiden Lim/MaidenLim_Hero.jpg
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
       subtitle: Sports

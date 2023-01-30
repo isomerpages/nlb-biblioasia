@@ -121,7 +121,7 @@ Indeed, biologist Joseph Arditti, a strong supporter of the discovery myth, note
 
 #### **The Plot Thickens**
 
-It has been suggested that Agnes Joaquim would not have known how to germinate seeds and that successful methods of germination had been developed only after her death. This is far from true. In fact, *Vanda* Miss Joaquim was one of 106 artificial hybrids created in Britain in 1893. Joaquim’s achievement was not an anomaly – she was doing in Singapore what others were already doing in Britain and elsewhere.
+It has been suggested that Agnes Joaquim would not have known how to germinate seeds and that successful methods of germination had been developed only after her death. This is far from true. In fact, *Vanda* Miss Joaquim was one of 106 artificial hybrids created in 1893. Joaquim’s achievement was not an anomaly – she was doing in Singapore what others were already doing in Britain and elsewhere.
 
 Information on germination was readily available in books as well as in horticultural journals. Besides, it has been suggested that Joaquim had sown the seeds onto a base of coconut dust, from where they germinated.[^28] Curiously, it was inferred that if the pollination was done by a bee, then the seeds could germinate, but if the pollination was done by Joaquim, the seeds could not have done so.
 
