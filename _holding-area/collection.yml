@@ -2,5 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - The Singapore Chinese Community During the Japanese OccupationTitle.md
+      - The Singapore Chinese Community During the Japanese Occupation.md
       - Test page.md
