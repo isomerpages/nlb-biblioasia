@@ -42,7 +42,18 @@ Among the donated materials are personal documents and publications relating to 
 
 These invaluable archival documents offer insights into the daily lives of people during the occupation years.
 
+|<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Syonan%20To.png">
 
+|**昭南岛新生一年间**|
+
+|**\[Syonan-to in a Year\]**|
+
+  
+|Call no.: RRARE 959.57 CNJ|
+
+|To promote the Greater East Asia Co-Prosperity Sphere and the superiority of Japanese culture, the Syonan Publishing House published this Chinese compilation in 1943 which celebrates the development and achievements of Singapore after a year of rule by the Japanese military government.|
+
+|_Ya Yin Kwan Collection, National Library Singapore._|
 
 
 
