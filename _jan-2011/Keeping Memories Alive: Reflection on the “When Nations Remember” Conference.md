@@ -7,6 +7,9 @@ description: "Senior Library Gracie Lee shares her reflections on “When Nation
 ---
 #### Senior Library _Gracie Lee_ shares her reflections on “When Nations Remember”, a two-day international conference on national memory and its preservation, display and access held in October 2009.
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/MemoriesAlive/wnr_axeoil.jpg">
+ <div style="background-color: white;">One of the parallel sessions designed was "Experiences on Singapore Brands", which included a visit to the Axe Oil Company</div>
+
 In October 2009, over 300 local and foreign delegates thronged the Carlton Hotel in Singapore for "When Nations Remember", a two-day international conference on national memory and its preservation, display and access. The National Library organised the conference in the hope that similar memory initiatives worldwide might cross borders and benefit from the sharing of each others’ knowledge, passion and 
 insight.
 
@@ -21,6 +24,9 @@ Last, but not least, the conference programme offered a curated selection of “
 John van Oudenaren, Director of the World Digital Library (wdl.org), gave a presentation on the history and development of the initiative as well as the Library of Congress’ American Memory (memory.loc.gov). In American Memory, public domain materials that had mass appeal were digitised and made available on CD-ROM.
 
 The content management challenges faced by the American Memory team were great learning experiences, and the World Digital Library, facilitated by the Library of Congress, embarked on a different and more comprehensive approach. Users can browse the collection by place, time, topic, institution, and type on the web. The web interface also supports seven languages and Web 2.0 features, in an effort to invite users and guests from all walks of life.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/MemoriesAlive/Penny.jpg">
+ <div style="background-color: white;">(Left) Penny Carnaby speaks on “Delivering a new generation National Library of New Zealand”<br>  (Right) John van Oudenaren introducing the audience to the WDL and the Library of Congress’ American Memory</div>
 
 Penny Carnaby, National Librarian and Chief Executive of the National Library of New Zealand, opened up the conversation to the important role national libraries play in preserving and making heritage materials accessible. She outlined the country’s national information infrastructure and library initiatives such as NZ-GOAL (e.govt.nz/policy/nzgoal), the National Digital Heritage Archive (natlib.govt.nz/about-us/ current-initiatives/ndha) and the Aotearoa People’s Network Kaharoa (aotearoapeoplesnetwork.org). These programmes address issues faced in the course of long-term digital preservation, repurposing of information, and the collection of national memories. Citing the Christchurch earthquake, she stressed the importance of vigilance on the part of a national library during disasters or upheaval. A good example of this was the National Library of New Zealand’s readiness to collect materials when the disaster struck.
 
@@ -41,8 +47,3 @@ Finally, the founder of the Centre for Digital Storytelling (storymapping.org), 
 #### **Final Thoughts**
 
 The conference was a useful platform for delegates to deliberate on strategies and approaches in the design and planning of memory initiatives. It also inspired the attendees to renew their commitment towards the preservation of national memories.
-
-
-
-
-
