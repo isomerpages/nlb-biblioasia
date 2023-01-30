@@ -109,6 +109,18 @@ The meeting minutes are photographs of the original documents taken by Hsu Yun T
 
 |_Hsu Yun Tsiao Collection, National Library Singapore._|
 
+|<img src= "/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/History%20of%20Formation%20of%20Chinese%20Clans.png">|
+
+|**五千万元奉纳金勒索始末**|
+
+|**\[History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya\]**|
+
+|Call no.: RDTYS 940.53109595 TAN|
+
+|Republished in 1947 by Tan Yeok Seong, the secretary of the Syonan-to Overseas Chinese Association, the article states the reasons for the establishment of the association and the detailed process in raising the $50 million to be donated to the Japanese military government. The election of representatives from each dialect group, the amount of money borne by each Malayan state and the loan agreement signed with the Yokohama Specie Bank are also mentioned.|
+
+|_Ya Yin Kuan Collection, National Library Singapore._|
+
 
 
   
