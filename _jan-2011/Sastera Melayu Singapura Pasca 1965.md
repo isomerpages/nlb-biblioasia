@@ -6,10 +6,9 @@ description: "Librarian Juffri bin Supa’at examines the growth and development
 ---
 #### Librarian _Juffri bin Supa’at_ examines the growth and development of Singapore Malay Literature after 1965.
 
-<i>&emsp;&emsp;&emsp;&emsp;
+<i><b>&emsp;&emsp;&emsp;&emsp;
 “Sudahkah para penulis kita mengambil dan merakamkan isu-isu<br>&emsp;&emsp;&emsp;&emsp;
- atau masalah-masalah masyarakat yang paling penting dan hangat?<br>&emsp;&emsp;&emsp;&emsp;Adakah para penulis kita digerakkan oleh permasalahan dan<br> &emsp;&emsp;&emsp;&emsp;
-penderitaan masyarakatnya?”</i><br>&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
+ atau masalah-masalah masyarakat yang paling penting dan hangat?<br>&emsp;&emsp;&emsp;&emsp;Adakah para penulis kita digerakkan oleh permasalahan dan<br> &emsp;&emsp;&emsp;&emsp;penderitaan masyarakatnya?”</i></b><br>&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
 
 Singapura pernah menjadi pusat perkembangan sastera Melayu moden. Ini dapat dilakukan dengan begitu berkesan sekali kerana Singapura ketika itu juga berfungsi sebagai pusat penerbitan dengan terdapatnya alat-alat percetakan moden yang dibawa masuk dari barat. Secara tidak langsung, menjadi daya tarikan kepada bakat-bakat dari seluruh rantau ini yang bercita-cita untuk mengembangkan dan meluaskan peluang penulisan mereka.
 
@@ -57,11 +56,10 @@ Although differing from other bodies of Malay literature in the region, Singapor
 <br>
 <div style="background-color: white;">
 <br/>
-<img src="/images/Authors/juffri.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Authors/Photo2_Juffri_small.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Juffri Bin Supa’at</b><br> Librarian<br>Lee Kong Chian Reference Library<br>National Library</center> </div>
 
 #### **RUJUKAN**
-
 
 
 A. R. Kemalawati. (1984, March 29). [Singapura main peranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840329-1.2.87.11). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
@@ -107,5 +105,3 @@ Mohd Latiff Mohd. (1982, November 30). [Hasil karya sastera Melayu lepas 1965](h
 Mohd Rafi Abu Bakar. (1994). [_Nazri Aswandi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029732). Kuala Lumpure: Dewan Bahasa. Call no.: RSING S899.2305 MOH
 
 Singapore. Perpustakaan Negara. Cawangan Toa Payoh. Sudut Penulis. (1985). [_Gema Pustaka 5_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5278228). (1985). Singapura: Perpustakaan Negara Singapura. Call no.: RSING qS899.23008105 GEM
-
-
