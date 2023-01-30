@@ -20,5 +20,15 @@ Hsu vividly described the Japanese air raids, the desolate scene of the ruins af
 
 ![](/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Spore%20Federation%20Chinese.png)
 
+|**新加坡宗乡会馆联合总会许云樵馆藏****:** **许云樵教授日记册**|
 
+|**\[Singapore Federation of Chinese Clan Associations Hsu Yun Tsiao Collection: Diary of Professor Hsu Yun Tsiao\]**|
+
+|Call no.: RRARE C818.8 XYQ-\[HYT\]|
+
+|In the fifth volume of his diary, Hsu Yun Tsiao recorded his experience of the mass screening exercise in Chinatown on 22 February 1942.|
+
+|"Brought water bottle and biscuits and went to Chinatown for registration, which in fact was an inspection. ... at the street intersection, I saw people squatting on the street waiting for inspection, and there was a long queue at the back. I also squatted at the side of the street.  After that, I followed the crowds and entered a shop for inspection. I was stamped on the front of my clothes and walked out of the shop after being asked a few questions. From what I heard, there were quite a number who were driven away in trucks by soldiers yesterday, but the reason given was unknown.”|
+
+|_Hsu Yun Tsiao Collection, National Library Singapore._|
 
