@@ -182,11 +182,11 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 <div style="background-color: white;">
 <br>
 <img style="width: 200px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Lee%20Meiyu%20and%20Seow%20Peck%20Ngiam.png">
-	<b>李梅瑜</b> (Lee Meiyu, left)是新加坡国家图书馆新加坡与东南亚馆藏部的高级图书馆员。她的研究兴趣包括新加坡华人社群。她也是2012年《家书抵万金：新加坡侨批文化展》以及2013年《根：追溯家族历史展览指南》的作者之一。同为新加坡与东南亚馆藏部的高级图书馆员、共同撰稿员<b>萧碧莹</b> (Seow Peck Ngiam, right)的职责包括馆藏建设和管理，如许云樵馆藏。她也为图书馆杂志撰写馆藏介绍和研究心得。
+	<b>李梅瑜</b> (Lee Meiyu, left)是新加坡国家图书馆新加坡与东南亚馆藏部的高级图书馆员。她的研究兴趣包括新加坡华人社群。她也是2012年《家书抵万金：新加坡侨批文化展》以及2013年《根：追溯家族历史展览指南》的作者之一。同为新加坡与东南亚馆藏部的高级图书馆员、共同撰稿员<b>萧碧莹</b> (Seow Peck Ngiam, right)的职责包括馆藏建设和管理，如Notes许云樵馆藏。她也为图书馆杂志撰写馆藏介绍和研究心得。
 </div>
-  
 
-* * *
+#### **NOTES**
+ 
 
 [\[1\]](#_ftnref1) Cai Shijun蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
 
