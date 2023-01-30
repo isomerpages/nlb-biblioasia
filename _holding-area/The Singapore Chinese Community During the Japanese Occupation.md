@@ -200,3 +200,23 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 [\[2\]](#_ftnref2) Lee Geok Boi李玉梅, _Zhaonan: Xinjiapo zai riběn tongzhi xia, 1942–1945_ &nbsp;[昭南: 新加坡在日本统治下, 一九四二年至一九四五](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582) \[Syonan: Singapore under the Japanese 1942–1945\] (Singapore: Xinjiapo chuantong xiehui chuban 新加坡传统协会出版, 1993), 86. (From National Library, Singapore, call no. Chinese RSING 959.57023 LGB-\[HIS\]).
 
 [\[3\]](#_ftnref3) Chen, [_Ri zhi shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514), 125–26.
+
+\[1\] Cai Shijun蔡史君, “Erzhan qi jian riben zhanling xia de xīnjiapo” 二战期间日本占领下的新加坡 \[Singapore during the Japanese Occupation in World War II\], _Yí hé shìjì_ [怡和世纪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12303283) 24 (October 2014–January 2015): 93. (From National Library, Singapore, call no. Chinese RSING 369.25957 OPEHHC); Li Yeling李业霖, ed., _Feng na jin ziliao xuanbian_ [奉纳金资料选编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) \[[Selected resources about _Fengnajin_\] (Kuala Lumpur, Malaysia: Hua she yanjiu zhongxin华社研究中心, 2000), 8.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSEA 959.5703 FNJ-\[HIS\])
+
+  Li, Feng na jin ziliao xuanbian,  54.
+  Li, Feng na jin ziliao xuanbian, 8–10.
+  Cai, “Erzhan qi jian riben zhanling xia de xīnjiapo”, 93.
+	
+\[1\] Cai Shijun蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
+
+\[1\] Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489) 6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
+
+\[1\] The mass exhumation of the remains of the war dead was mainly led by the Singapore Chinese Chamber of Commerce in the 1960s. After exhumation work ended in October 1966, the Chinese Chamber of Commerce published the book, _Record on the Memorial to the People Who Died During the Japanese Occupation_ in 1969. It recorded in detail the entire process, from the exhumation work to the establishment of the Civilian War Memorial.
+
+\[1\] “Dong hai an qili ban da shangu xia wajue chu ershiyi nian qian bei rijun shahai zhe shigu” [东海岸七里半大山谷下挖掘出二十一年前被日军杀害者尸骨](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19620219-1.2.26.4) \[The remains of a man killed by the Japanese 21 years ago have been unearthed at the valley at seven-and-a-half-mile East Coast\], _Nanyang Siang Pau_南洋商报, 19 February 1962, 5. (From NewspaperSG)
+
+\[1\] Chinese Chamber of Commerce中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_[日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
+
+\[1\] Chinese Chamber of Commerce, [_Riben zhanling shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653), 3–4,31; “The Civilian War Memorial,” Singapore Tourism Board, accessed 27 January 2023, https://www.visitsingapore.com.cn/see-do-singapore/history/memorials/civilian-war-memorial/.
+
+\[1\] Li Chengli李成利, _Lianghouzhou yu lin cuo gang_ [梁后宙与林厝港 \[Neo Tiew and Lim Chu Kang\] (Singapore: 新加坡南安会馆艺文社, 2015), 6, 97,100, 102, 105.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196) (From National Library, Singapore, call no. Chinese RSING 305.8951 LCL)
