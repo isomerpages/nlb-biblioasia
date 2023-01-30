@@ -6,6 +6,9 @@ description: "Librarian Juffri bin Supa’at examines the growth and development
 ---
 #### Librarian _Juffri bin Supa’at_ examines the growth and development of Singapore Malay Literature after 1965.
 
+<img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Friday,%20Dec%2009,%202005%20(5a).jpg">
+ <div style="background-color: white;">Contoh karya dalam bentuk stensilan, 1977.</div>
+
 <i><b>&emsp;&emsp;&emsp;&emsp;
 “Sudahkah para penulis kita mengambil dan merakamkan isu-isu<br>&emsp;&emsp;&emsp;&emsp;
  atau masalah-masalah masyarakat yang paling penting dan hangat?<br>&emsp;&emsp;&emsp;&emsp;Adakah para penulis kita digerakkan oleh permasalahan dan<br> &emsp;&emsp;&emsp;&emsp;penderitaan masyarakatnya?”</i></b><br>&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
@@ -15,6 +18,10 @@ Singapura pernah menjadi pusat perkembangan sastera Melayu moden. Ini dapat dila
 Gelombang kesusasteraan Melayu ini menjadi begitu terkesan terutama dengan tertubuhnya Angkatan Sasterawan ’50 (ASAS ’50) pada 6 Ogos 1950 yang dianggotai oleh para penulis muda ketika itu seperti Masuri S.N., Muhammad Ariff Ahmad, Keris Mas dan Asraf yang berperanan sebagai pemacu gerakan sastera di rantau ini ketika itu.
 
 Akan tetapi, selepas tahun 1965, tahun Singapura berpisah dengan Malaysia dan menjadi sebuah negara merdeka, ramai orang beranggapan bahawa dunia kesusasteraan Melayu Singapura seakan-akan mengalami kelesuan. Anggapan ini dikukuhkan lagi apabila perpisahan ini mengakibatkan ramai penulis Melayu seperti Usman Awang dan Keris Mas yang “berhijrah ke Singapura kembali ke kampung halaman mereka masing-masing” dan “dengan sendirinya pusat perkembangan sastera Melayu berpindah dengan pulangnya para penulis Melayu yang berasal dari Tanah Melayu ke tanahairnya” (A. R. Kemalawati, 1984).
+
+<img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Friday,%20Dec%2009,%202005%20(4).jpg">
+ <div style="background-color: white;">Karya Masuri S.N. dalam bentuk stensilan, 1977.</div>
+
 Meskipun ramai yang bertanggapan begitu, sastera Melayu di Singapura tetap berkembang. Walaupun perkembangan tersebut tidak serancak sebelum perpisahan tetapi “malangnya perkembangan kesusasteraan Melayu Singapura selepas peristiwa ini tidak banyak diketahui dan tidak banyak diperkatakan orang” (Mohd Latiff Mohd, 1982).
 
 Masih terdapat karya-karya sastera yang masih terus dilahirkan walaupun menurut Masuri (1983), kebanyakan karya sastera Melayu di Singapura, terutama yang dihasilkan pada tahun 1965–1969 masih lagi terikat dan terkait dengan sastera Melayu di Malaysia. Hal ini berlaku kerana pada tahun-tahun awal perpisahan ini para penulis karya kreatif di Singapura “masih terus merasakan bahawa mereka adalah sebahagian dari masyarakat penulis di Malaysia” kerana penggunaan bahasa dan media yang sama. Oleh itu, kegiatan penulisan ini masih lagi diteruskan “secara sebadan dan senyawa dengan perkembangan sastera Melayu dalam erti yang seluas-luasnya.”
@@ -22,6 +29,9 @@ Masih terdapat karya-karya sastera yang masih terus dilahirkan walaupun menurut 
 Selain pengaruh bahasa, budaya dan hubungan Singapura dan Malaysia yang masih terkait, kehadiran para penulis seperti Masuri, Harun Aminurashid (Har) dan Muhammad Ariff Ahmad (Mas) daripada generasi awal masih terus mempengaruhi lapangan kesusasteraan tanahair. Oleh itu, corak identiti sastera Singapura masih tidak banyak perbezaan. Antara karya sastera yang dihasilkan pada masa ini ialah drama *Adam Kena Hujan* oleh Mas, kumpulan puisi *Bunga Pahit* oleh Masuri S.N. dan novel *Sultan Mahmud Shah Melaka* dan *Peristiwa Laksamana Cheng Ho ka-Melaka* oleh Har.
 
 Novel *Mail Mau Kawin* yang terbit pada tahun 1976 merupakan novel yang pertama ditulis oleh penulis Singapura selepas tahun 1965 dan mempunyai tema dan latar berkisar kehidupan moden di Singapura. Novel *Mail Mau Kawin* tulisan Mas telah menyentuh kehidupan generasi muda Singapura yang cuba mencari tempat dalam arus pesat perbandaran dalam mengejar impian mereka. Tema yang sedemikan mungkin sebagai cerminan keadaan pada tahun 70-an; tahun-tahun pembangunan bandar. Pada masa yang sama, masyarakat Melayu cuba menyesuaikan diri dengan keadaan hidup yang berbeza; perpindahan dari kampung ke rumah pangsa serta perubahan lanskap ekonomi Singapura ketika itu yang bergerak ke arah perindustrian.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Hak%20cipta.jpg">
+ <div style="background-color: white;">(Left) Hak cipta terpelihara, Pustaka Nasional, 1976. <br>(Right) Hak cipta terpelihara, Pustaka Nasional, 1996.</div>
 
 Pada tahun-tahun 70-an juga muncul kumpulan penulispenulis muda seperti Mohamed Latiff Mohamed, Djamal Tukimin, Haron Abdul Majid, Noor Hidayat, Bahri Rajib dan Ajaki yang melahirkan karya-karya yang agak berbeza dengan penulis-penulis generasi sebelumnya.
 
@@ -31,11 +41,20 @@ Pada masa itu juga, kebanyakan penerbitan sastera tersiar di suratkhabar, surat 
 
 Sekumpulan penulis-penulis muda sudut penulis Perpustakaan Toa Payoh pula telah menerbitkan siri *Gema Pustaka*. Siri ini memuatkan tulisan ahli kumpulan tersebut menjadi wadah untuk mengasah “bakat ahli-ahli yang masih berada di tahap percubaan” (A Rahim Basri, 1985).
 
+<img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/gema%20pustaka1.jpg">
+ <div style="background-color: white;"><i> Gema Pustaka 5</i> . Hak cipta terpelihara. Sudut Penulis Perpustakaan Cawangan Toa Payoh, 1985.</div>
+
 Pada akhir tahun-tahun 80-an dan 90-an, perkembangan yang menarik berlaku dengan kemunculan ramai penulis muda yang kebanyakannya dilahirkan selepas tahun 1965. Selain terlibat dengan kegiatan-kegiatan persuratan melalui pertubuhan yang sedia ada, tumbuh juga kumpulan-kumpulan seperti Kupuja (Kumpulan Pemuisi Remaja) yang juga merupakan anggota muda ASAS ’50 dan KAMUS (Kumpulan Angkatan Muda Sastera).
 
 Pada tahun 1994, terbit beberapa buah novel yang dihasilkan daripada bengkel penulisan sastera remaja yang diadakan di Singapura pada November 1992 dan Februari 1993 anjuran Badan Kesenian Melayu Singapura, Mendaki dan Dewan Bahasa dan Pustaka, Malaysia. Antaranya ialah *Nazri Aswandi* dan *Rindu Emilia* tulisan Mohd Rafi Abu Bakar dan Junaidah Mohd Sali. Tema novel-novel ini berkisar kehidupan remaja seperti konflik dalam persekolahan dan cinta yang berlatarkan kehidupan di kota Singa ketika itu.
 
+<img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/nazri.jpg">
+ <div style="background-color: white;">Hak cipta terpelihara, Dewan Bahasa dan Pustaka, 1994.</div>
+
 Pada dekad ini juga beberapa orang penulis yang mula bergiat pada awal 80-an telah mula mengorak langkah dan memperlihatkan ketajaman mata pena mereka. Dua orang penulis daripada mereka ialah Isa Kamari dan Johar Buang. Isa Kamari membina tapak karya-karyanya bersandarkan sejarah yang mempunyai daya penceritaan tersendiri melalui novel-novelnya seperti *Satu Bumi*, *Atas Nama Cinta* dan *Memeluk Gerhana*. Johar Buang pula menjadi pengorak sastera berbentuk sufi melalui cerpen dan puisinya. Antara karya beliau termasuklah *Kisah seorang zahid* dan *Perahu Melayu di lautan Khulzum*.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Nazri_1.jpg">
+ <div style="background-color: white;">(Left) Hak cipta terpelihara, Pustaka Melayu Publisher, 1998.<br>  (Right) Hak cipta terpelihara, Jahabersa, 2006.</div>
 
 Sayembara sastera yang sering dianjurkan pada dekaddekad kebelakangan ini juga merupakan satu dorongan untuk menggalakkan penghasilan karya seperti Sayembara Watan I & II serta Sayembara Novel Temasik. Novel-novel yang dihasilkan telah memaparkan berbagai isu masa kini yang menyentuh keadaan masyarakat, pendidikan dan ekonomi. Sayembara Novel Watan umpamanya telah menghasilkan lebih daripada 20 buah novel. Antara karyakarya yang ialah *Kesal* oleh Mohd Ikhlash Abdullah dan *Kuman* oleh Dehliez.
 
