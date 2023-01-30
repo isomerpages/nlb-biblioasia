@@ -178,6 +178,12 @@ The National Archives of Singapore (NAS) has oral history interviews from people
   Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin" lang="ZH-CN">从国家图书馆文献窥看日本占领时期的新加坡华社</span><span style="font-size:12.0pt;line-height:150%">.</span><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US"> <span lang="EN-US">Click </span></span><a href="https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection/"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US" lang="EN-US">here</span></a><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US" lang="EN-US"> to read the original essay in Chinese.</span></p></td></tr></tbody></table>
+	
+<div style="background-color: white;">
+<br>
+<img style="width: 200px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Lee%20Meiyu%20and%20Seow%20Peck%20Ngiam.png">
+	<b>李梅瑜</b> (Lee Meiyu, left)是新加坡国家图书馆新加坡与东南亚馆藏部的高级图书馆员。她的研究兴趣包括新加坡华人社群。她也是2012年《家书抵万金：新加坡侨批文化展》以及2013年《根：追溯家族历史展览指南》的作者之一。同为新加坡与东南亚馆藏部的高级图书馆员、共同撰稿员<b>萧碧莹</b> (Seow Peck Ngiam, right)的职责包括馆藏建设和管理，如许云樵馆藏。她也为图书馆杂志撰写馆藏介绍和研究心得。
+</div>
   
 
 * * *
