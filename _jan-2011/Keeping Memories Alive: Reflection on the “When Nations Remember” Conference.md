@@ -32,11 +32,17 @@ Penny Carnaby, National Librarian and Chief Executive of the National Library of
 
 Dr J.S.M. Savenjie, Director General of the National Library of the Netherlands, brought up more challenges faced by libraries in their national digitisation programmes. The Memory of the Netherlands (geheugenvannederland.nl) incorporated materials from libraries, archives and museums and had to overcome the unique difficulties posed by the widely varying approaches to collection organisation that each cultural institution had. He also highlighted the complex process of archiving enriched publications (containing both text and moving images).
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/MemoriesAlive/Joie.jpg">
+ <div style="background-color: white;">(Left) Joie Springer on protecting and promoting international documentary heritage<br> (Right) Dr J.S.M. Savenjie discussing The Memory of the Netherlands project</div>
+
 Finally, Joie Springer from UNESCO talked about the Memory of the World Programme (unesco.org/webworld/mdm) and one of its key initiatives — the Memory of the World Register. This initiative invites anyone around the world to nominate a documentary heritage of exceptional value for inscription, without legal obligation on the part of a participating country. By raising the standing of a document, fundraising for preservation is also boosted. In this way, memories can be commemorated and related on a global stage.
 
 #### **Community Perspectives**
 
 For Lam Chun See, his nostalgic blog, Good Morning Yesterday (goodmorningyesterday.blogspot.com), is a virtual kopitiam where people of his generation can gather to swap memories and stories. Speaking with deep personal conviction of his belief in archiving and passing down the older generation’s memories, he urged the audience to record and share their stories with others. He also spoke about using blogging as a tool to pique the interest of the younger generation in Singapore history.
+
+<img style="width:80%;" src="/images/Vol%206%20issue%204/MemoriesAlive/Smith%20and%20South.jpg">
+ <div style="background-color: white;">Then (Left) Smith Street in 1960. <i>Courtesy of National Archives of Singapore</i><br>Now (Right) Smith Street in 2008. <i>Char Lee.</i></div>
 
 His co-presenter, Char Lee of Second Shot (2ndshot. blogspot.com) had a different strategy for engaging the public to think about the past. Lee is a photographer working in the medium of “precision heritage photography”. This means that Lee tries to identify the exact locations where selected old photographs were taken. He then takes a “second shot” of the place now. The images chronicle the changes in Singapore’s landscape over time.
 
