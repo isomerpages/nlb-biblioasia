@@ -95,6 +95,20 @@ Two primary documents in the Hsu Yun Tsiao Collection and Ya Yin Kwan Collection
 
 The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945._[\[1\]](#_ftn1) The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the South Seas Society._[\[2\]](#_ftn2)
 
+|<img src= "/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Minutes%20of%20Syonan%20To.png">|
+
+|**昭南岛华侨协会会议录**|
+
+|**\[Minutes of Meetings of Syonan-to Overseas Chinese Association\]**|
+
+|Call no.: RCLOS 305.895105957 MIN-\[HYT\]|
+
+|The minutes of the Syonan-to Overseas Chinese Association’s first meeting held at the Goh Loo Club on 2 March 1942 recorded the establishment of the association. Lim Boon Keng was its president. The minutes of the last meeting, dated 23 August 1945, documented the work to be done in preparation for the closure of the association following the Japanese surrender.|
+
+|The minutes recorded the organisation’s structure and activities, and included the names of members, the allocated amount of money to be donated to the Japanese military government borne by each Malayan state, the reasons for the inability to raise the requisite sum, the bank loan to meet the target, and survey statistics relating to food planting activities.|
+
+|_Hsu Yun Tsiao Collection, National Library Singapore._|
+
   
 
 * * *
