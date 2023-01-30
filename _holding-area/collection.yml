@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Example The Singapore Chinese Community During the Japanese
+        OccupationTitle.md
       - Test page.md
