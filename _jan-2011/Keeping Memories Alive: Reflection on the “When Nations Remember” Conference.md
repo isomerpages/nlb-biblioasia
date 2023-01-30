@@ -21,7 +21,7 @@ Last, but not least, the conference programme offered a curated selection of “
 
 #### **National Perspectives**
 
-John van Oudenaren, Director of the World Digital Library (wdl.org), gave a presentation on the history and development of the initiative as well as the Library of Congress’ American Memory (memory.loc.gov). In American Memory, public domain materials that had mass appeal were digitised and made available on CD-ROM.
+John van Oudenaren, Director of the World Digital Library (<a href="wdl.org">wsdl.org</a>), gave a presentation on the history and development of the initiative as well as the Library of Congress’ American Memory (<a href="memory.loc.gov">memory.loc.gov</a>). In American Memory, public domain materials that had mass appeal were digitised and made available on CD-ROM.
 
 The content management challenges faced by the American Memory team were great learning experiences, and the World Digital Library, facilitated by the Library of Congress, embarked on a different and more comprehensive approach. Users can browse the collection by place, time, topic, institution, and type on the web. The web interface also supports seven languages and Web 2.0 features, in an effort to invite users and guests from all walks of life.
 
@@ -41,7 +41,7 @@ Finally, Joie Springer from UNESCO talked about the Memory of the World Programm
 
 For Lam Chun See, his nostalgic blog, Good Morning Yesterday (goodmorningyesterday.blogspot.com), is a virtual kopitiam where people of his generation can gather to swap memories and stories. Speaking with deep personal conviction of his belief in archiving and passing down the older generation’s memories, he urged the audience to record and share their stories with others. He also spoke about using blogging as a tool to pique the interest of the younger generation in Singapore history.
 
-<img style="width:80%;" src="/images/Vol%206%20issue%204/MemoriesAlive/Smith%20and%20South.jpg">
+<img style="width:100%;" src="/images/Vol%206%20issue%204/MemoriesAlive/Smith%20and%20South.jpg">
  <div style="background-color: white;">Then (Left) Smith Street in 1960. <i>Courtesy of National Archives of Singapore</i><br>Now (Right) Smith Street in 2008. <i>Char Lee.</i></div>
 
 His co-presenter, Char Lee of Second Shot (2ndshot. blogspot.com) had a different strategy for engaging the public to think about the past. Lee is a photographer working in the medium of “precision heritage photography”. This means that Lee tries to identify the exact locations where selected old photographs were taken. He then takes a “second shot” of the place now. The images chronicle the changes in Singapore’s landscape over time.
@@ -60,8 +60,3 @@ memories.
 <br/>
 <img src="/images/Authors/Gracie%20Lee.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Gracie Lee</b><br>Senior Librarian<br>Professional Services<br>National Library </center></div>
-
-
-
-
-
