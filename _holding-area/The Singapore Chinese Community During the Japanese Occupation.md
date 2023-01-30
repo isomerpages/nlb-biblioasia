@@ -31,3 +31,27 @@ Hsu vividly described the Japanese air raids, the desolate scene of the ruins af
 |"Brought water bottle and biscuits and went to Chinatown for registration, which in fact was an inspection. ... at the street intersection, I saw people squatting on the street waiting for inspection, and there was a long queue at the back. I also squatted at the side of the street.  After that, I followed the crowds and entered a shop for inspection. I was stamped on the front of my clothes and walked out of the shop after being asked a few questions. From what I heard, there were quite a number who were driven away in trucks by soldiers yesterday, but the reason given was unknown.”|
 
 |_Hsu Yun Tsiao Collection, National Library Singapore._|
+
+**Life During the Japanese Occupation**
+
+Following the fall of Singapore, the Japanese military government immediately launched campaigns promoting Japanese culture as a model of excellence, progress and prosperity as part of the Greater East Asia Co-Prosperity Sphere ideology.[\[1\]](#_ftn1) Teachers had to learn the Japanese language so that they could in turn teach their students. With rewards given out to those who learned Japanese well, Japanese classes became popular in night schools.[\[2\]](#_ftn2)
+
+The occupation years were marked by shortages in food and daily necessities. As all food import and export businesses were taken over by Japanese companies, local wholesalers and retailers had to obtain approval from the Japanese military government to continue operation. Food was rationed, and adding to the woes, the amount that one could buy was greatly reduced as supplies became more limited.[\[3\]](#_ftn3)
+
+Among the donated materials are personal documents and publications relating to the Japanese Occupation as well as items produced by the Japanese military government.
+
+These invaluable archival documents offer insights into the daily lives of people during the occupation years.
+
+
+
+
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Chen Mingluan陈鸣鸾, _Ri zhi shiqi 1942–1945: Cong tupian yi zhan shi de xin_[日治时期1942–1945: 从图片忆战时的新加坡](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514) \[The Japanese Occupation, 1942–1945: A pictorial record of Singapore during the War\] (Singapore: Shibao chuban gongsi时报出版公司, 1996), 107\. (From National Library, Singapore, call no. Chinese RSING 940.5425 CML-\[WAR\]
+
+[\[2\]](#_ftnref2) Lee Geok Boi李玉梅, _Zhaonan: Xinjiapo zai riběn tongzhi xia, 1942–1945_  [昭南: 新加坡在日本统治下, 一九四二年至一九四五](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582) \[Syonan: Singapore under the Japanese 1942–1945\] (Singapore: Xinjiapo chuantong xiehui chuban 新加坡传统协会出版, 1993), 86. (From National Library, Singapore, call no. Chinese RSING 959.57023 LGB-\[HIS\]).
+
+[\[3\]](#_ftnref3) Chen, [_Ri zhi shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514), 125–26.
