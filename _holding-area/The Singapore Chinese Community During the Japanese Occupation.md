@@ -55,7 +55,25 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 |_Ya Yin Kwan Collection, National Library Singapore._|
 
+|<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Chin%20Kang%20Huay%20Kuan.png">|
 
+|**新加坡晋江会馆珍藏****:** **会馆资料文件**|
+
+|**\[Chin Kang Huay Kuan Collection: Ephemera of Chin Kang Huay Kuan\]**|
+
+|Call no.: Chinese RCLOS 369.25957 CHI|
+
+|This collection includes a “Census taking list” (户口调查票), which superseded the Good Citizen Certificate (安居证) issued by the Japanese military government. To ensure that food items were correctly allocated to families, the document lists the members in each household so that one could obtain the relevant number of food ration cards based on the number of family members.[\[1\]](#_ftn1)|
+
+|_Singapore Chin Kang Huay Kuan Collection, National Library Singapore._|
+
+
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Lee, [_Zhaonan_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582), 65, 69.
 
   
 
