@@ -183,7 +183,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 <div style="background-color: white;">
 <br>
 <img style="width: 200px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Lee%20Meiyu%20and%20Seow%20Peck%20Ngiam.png">
-	<b>Lee Meiyu</b> (李梅瑜, left) is a senior librarian with the National Library, Singapore. Her research interest lies in the Singapore Chinese community. She is one of the writers behind the 2012 exhibition guide, *Money by Mail to China: Dreams and Struggles of Early Migrants*, and _Roots: Tracing Family Histories – A Resource Guide_, in 2013. <b>Seow Peck Ngiam</b> (萧碧莹, right) is a senior librarian with the National Library, Singapore. Her responsibilities include collection development and management of donor collections such as the Hsu Yun Tsiao Collection. She also conducts research and writes on collection highlights for the library.</div>
+	<b>Lee Meiyu</b> (李梅瑜, left) is a senior librarian with the National Library, Singapore. Her research interest lies in the Singapore Chinese community. She is one of the writers behind the 2012 exhibition guide, Money by Mail to China: Dreams and Struggles of Early Migrants, and _Roots: Tracing Family Histories – A Resource Guide_, in 2013. <b>Seow Peck Ngiam</b> (萧碧莹, right) is a senior librarian with the National Library, Singapore. Her responsibilities include collection development and management of donor collections such as the Hsu Yun Tsiao Collection. She also conducts research and writes on collection highlights for the library.</div>
 
 #### **NOTES**
  
