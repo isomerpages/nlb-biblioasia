@@ -4,9 +4,6 @@ permalink: /holding-area/permalink/
 description: ""
 ---
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
-
-(请点击[这里](https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/)，阅读英文翻译文章。To read this essay in English, click [here](https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/).)
-
 By Lee Meiyu and Seow Peck Ngiam
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Foo%20Chin%20Hua.png">|
@@ -203,7 +200,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^9] Cai Shijun 蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
 
-[^10] Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489) 6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
+[^10] Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489)  6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
 
 [^11] The mass exhumation of the remains of the war dead was mainly led by the Singapore Chinese Chamber of Commerce in the 1960s. After exhumation work ended in October 1966, the Chinese Chamber of Commerce published the book, _Record on the Memorial to the People Who Died During the Japanese Occupation_ in 1969. It recorded in detail the entire process, from the exhumation work to the establishment of the Civilian War Memorial.
 
