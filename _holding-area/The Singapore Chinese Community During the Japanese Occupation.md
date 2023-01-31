@@ -79,7 +79,7 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 |_Singapore Hokkien Huay Kuan Collection, National Library Singapore._|
 
-****Syonan-to Overseas Chinese Association****
+**Syonan-to Overseas Chinese Association**
 
 Under the direction of the Japanese military administration, the Syonan-to Overseas Chinese Association was established in Singapore (renamed Syonan-to, which means “Light of the South Island” during the Japanese Occupation) in March 1942. Its original purpose was to mediate between the Japanese authorities and the local Chinese community. However, the association became a tool for the Japanese military authorities to extort $50 million from the Malayan Chinese community as a “donation” through the various overseas Chinese associations located in Syonan-to and other states in Malaya. [^5] 
 
