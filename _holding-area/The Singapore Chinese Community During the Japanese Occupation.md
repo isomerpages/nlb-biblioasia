@@ -34,9 +34,9 @@ Hsu vividly described the Japanese air raids, the desolate scene of the ruins af
 
 **Life During the Japanese Occupation**
 
-Following the fall of Singapore, the Japanese military government immediately launched campaigns promoting Japanese culture as a model of excellence, progress and prosperity as part of the Greater East Asia Co-Prosperity Sphere ideology.[\[1\]](#_ftn1) Teachers had to learn the Japanese language so that they could in turn teach their students. With rewards given out to those who learned Japanese well, Japanese classes became popular in night schools.[\[2\]](#_ftn2)
+Following the fall of Singapore, the Japanese military government immediately launched campaigns promoting Japanese culture as a model of excellence, progress and prosperity as part of the Greater East Asia Co-Prosperity Sphere ideology.[^1] Teachers had to learn the Japanese language so that they could in turn teach their students. With rewards given out to those who learned Japanese well, Japanese classes became popular in night schools.[^2]
 
-The occupation years were marked by shortages in food and daily necessities. As all food import and export businesses were taken over by Japanese companies, local wholesalers and retailers had to obtain approval from the Japanese military government to continue operation. Food was rationed, and adding to the woes, the amount that one could buy was greatly reduced as supplies became more limited.[\[3\]](#_ftn3)
+The occupation years were marked by shortages in food and daily necessities. As all food import and export businesses were taken over by Japanese companies, local wholesalers and retailers had to obtain approval from the Japanese military government to continue operation. Food was rationed, and adding to the woes, the amount that one could buy was greatly reduced as supplies became more limited.[^3]
 
 Among the donated materials are personal documents and publications relating to the Japanese Occupation as well as items produced by the Japanese military government.
 
@@ -63,7 +63,7 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 |Call no.: Chinese RCLOS 369.25957 CHI|
 
-|This collection includes a “Census taking list” (户口调查票), which superseded the Good Citizen Certificate (安居证) issued by the Japanese military government. To ensure that food items were correctly allocated to families, the document lists the members in each household so that one could obtain the relevant number of food ration cards based on the number of family members.[\[1\]](#_ftn1)|
+|This collection includes a “Census taking list” (户口调查票), which superseded the Good Citizen Certificate (安居证) issued by the Japanese military government. To ensure that food items were correctly allocated to families, the document lists the members in each household so that one could obtain the relevant number of food ration cards based on the number of family members.[^4]|
 
 |_Singapore Chin Kang Huay Kuan Collection, National Library Singapore._|
 
@@ -81,19 +81,19 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 ****Syonan-to Overseas Chinese Association****
 
-Under the direction of the Japanese military administration, the Syonan-to Overseas Chinese Association was established in Singapore (renamed Syonan-to, which means “Light of the South Island” during the Japanese Occupation) in March 1942. Its original purpose was to mediate between the Japanese authorities and the local Chinese community. However, the association became a tool for the Japanese military authorities to extort $50 million from the Malayan Chinese community as a “donation” through the various overseas Chinese associations located in Syonan-to and other states in Malaya.  
+Under the direction of the Japanese military administration, the Syonan-to Overseas Chinese Association was established in Singapore (renamed Syonan-to, which means “Light of the South Island” during the Japanese Occupation) in March 1942. Its original purpose was to mediate between the Japanese authorities and the local Chinese community. However, the association became a tool for the Japanese military authorities to extort $50 million from the Malayan Chinese community as a “donation” through the various overseas Chinese associations located in Syonan-to and other states in Malaya. [^5] 
 
 To raise the money, the Syonan-to Overseas Chinese Association appointed representatives to coordinate within their own dialect groups and screened the assets of the other dialect groups. For instance, the assets of the Teochews were screened by the Hainanese, while those of the Hokkiens were checked by the Hainanese. 
 
-The Japanese military government also provided detailed information concerning personal assets through records from the Land Authority, the Registry of Companies and the Income Tax Authority to facilitate the screening work. The Chinese who had assets of less than $3,000 were exempted from taxation, while those who owned assets worth more than $3,000 were taxed 8 percent. 
+The Japanese military government also provided detailed information concerning personal assets through records from the Land Authority, the Registry of Companies and the Income Tax Authority to facilitate the screening work. The Chinese who had assets of less than $3,000 were exempted from taxation, while those who owned assets worth more than $3,000 were taxed 8 percent. [^6}
 
-The deadline for presenting the $50 million to the Japanese authorities was 20 April 1942, although this was first extended to 20 May and then to 25 June. However, the full amount could not be raised on time, and the shortfall had to be made up with a loan from the Yokohama Specie Bank at an interest rate of 6 percent per annum, which had to be repaid within a year. 
+The deadline for presenting the $50 million to the Japanese authorities was 20 April 1942, although this was first extended to 20 May and then to 25 June. However, the full amount could not be raised on time, and the shortfall had to be made up with a loan from the Yokohama Specie Bank at an interest rate of 6 percent per annum, which had to be repaid within a year. [^7]
 
-Subsequently, the responsibilities of the Syonan-to Overseas Chinese Association were expanded to execute policies implemented by the Japanese military government. These include assisting in the recruitment of labourers; helping the Japanese military government to restore social order; recruiting workers and Chinese police officers; encouraging the Chinese to clear and develop land and plant food grains; increasing the production of substitute products during the shortage of daily necessities; soliciting donations; and assisting in the large-scale resettlement of the Chinese to Endau in Johor to establish the New Syonan Model Farm. 
+Subsequently, the responsibilities of the Syonan-to Overseas Chinese Association were expanded to execute policies implemented by the Japanese military government. These include assisting in the recruitment of labourers; helping the Japanese military government to restore social order; recruiting workers and Chinese police officers; encouraging the Chinese to clear and develop land and plant food grains; increasing the production of substitute products during the shortage of daily necessities; soliciting donations; and assisting in the large-scale resettlement of the Chinese to Endau in Johor to establish the New Syonan Model Farm. [^8]
 
 Two primary documents in the Hsu Yun Tsiao Collection and Ya Yin Kwan Collection shed light on the role of the Syonan-to Overseas Chinese Association: the “Minutes of Meetings of Syonan-to Overseas Chinese Association”, and the “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya”. 
 
-The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945._[\[1\]](#_ftn1) The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._[\[2\]](#_ftn2)
+The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945._[^9] The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._ [^10]
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Minutes%20of%20Syonan%20To.png">|
 
@@ -121,14 +121,15 @@ The meeting minutes are photographs of the original documents taken by Hsu Yun T
 
 |_Ya Yin Kuan Collection, National Library Singapore._|
 
-**Exhumation of War Victims and Construction of the Civilian War Memorial**
+**Exhumation of War Victims and Construction of the Civilian War Memorial** [^11]
 
-On 19 February 1962, the Nanyang Siang Pau Chinese newspaper reported that the remains of war victims from the Japanese Occupation were found in a valley at seven and a half miles, East Coast Road.  This prompted the Singapore Chinese Chamber of Commerce (now known as Singapore Chinese Chamber of Commerce and Industry) to set up the Disposal of Remains Committee on 28 February to undertake surveys, exhumations, burials and other remedial work. The committee also appealed to witnesses to provide information on the locations of other massacre sites, and subsequently, more remains in Changi, Bukit Timah and other parts of Singapore were found. 
+On 19 February 1962, the Nanyang Siang Pau Chinese newspaper reported that the remains of war victims from the Japanese Occupation were found in a valley at seven and a half miles, East Coast Road. [^12]  This prompted the Singapore Chinese Chamber of Commerce (now known as Singapore Chinese Chamber of Commerce and Industry) to set up the Disposal of Remains Committee on 28 February to undertake surveys, exhumations, burials and other remedial work. The committee also appealed to witnesses to provide information on the locations of other massacre sites, and subsequently, more remains in Changi, Bukit Timah and other parts of Singapore were found. 
 
-The exhumation work began in March 1963, and by December, a total of 27 places had been exhumed, with the remains filling 155 urns. In February 1966, exhumation was carried out again, and in October, exhumation was completed for all identified sites throughout the island. During this second exercise, another 12 locations were exhumed, and the remains filled 452 urns. All unearthed belongings from the war dead were handed over to the Sun Yat Sen Nanyang Memorial Hall for safekeeping. 
+The exhumation work began in March 1963, and by December, a total of 27 places had been exhumed, with the remains filling 155 urns. In February 1966, exhumation was carried out again, and in October, exhumation was completed for all identified sites throughout the island. During this second exercise, another 12 locations were exhumed, and the remains filled 452 urns. All unearthed belongings from the war dead were handed over to the Sun Yat Sen Nanyang Memorial Hall for safekeeping. [^13]
 
-In March 1963, the Singapore Chinese Chamber of Commerce set up a fundraising committee for the establishment of a memorial to remember the civilians who had died during the Japanese Occupation. In May 1965, they jointly formed the Memorial Building Fund Committee with the government to undertake all work related to the construction of the Civilian War Memorial. It was inaugurated by Prime Minister Lee Kuan Yew on the east side of the Padang on Beach Road on 15 February 1967. The memorial is made up of four pillars to symbolise the four ethnic races in Singapore (Chinese, Malay, Indian and Eurasian). A symbolic bronze urn was placed under the four pillars, while the unidentified remains of the war dead from the various sites were buried beneath the memorial. 
-The Singapore Lam Ann Association Collection consists of letters written by the public to the Chinese Chamber of Commerce on the locations of the massacre sites. Among these is a letter written by Neo Tiew recounting the death of 35 family members during the Japanese Occupation. Neo is known for developing Lim Chu Kang, and he also led the Singapore branch of the Kuomintang Youth League of the Three People’s Principles and the Overseas Chinese Anti-Japanese Army. Because of his anti-Japanese activities, Neo and one of his sons were evacuated from Singapore on 13 February 1942, at the request of the British. Unfortunately, the family members who remained behind were tortured and killed by the Japanese. 
+In March 1963, the Singapore Chinese Chamber of Commerce set up a fundraising committee for the establishment of a memorial to remember the civilians who had died during the Japanese Occupation. In May 1965, they jointly formed the Memorial Building Fund Committee with the government to undertake all work related to the construction of the Civilian War Memorial. It was inaugurated by Prime Minister Lee Kuan Yew on the east side of the Padang on Beach Road on 15 February 1967. The memorial is made up of four pillars to symbolise the four ethnic races in Singapore (Chinese, Malay, Indian and Eurasian). A symbolic bronze urn was placed under the four pillars, while the unidentified remains of the war dead from the various sites were buried beneath the memorial. [^14]
+
+The Singapore Lam Ann Association Collection consists of letters written by the public to the Chinese Chamber of Commerce on the locations of the massacre sites. Among these is a letter written by Neo Tiew recounting the death of 35 family members during the Japanese Occupation. Neo is known for developing Lim Chu Kang, and he also led the Singapore branch of the Kuomintang Youth League of the Three People’s Principles and the Overseas Chinese Anti-Japanese Army. Because of his anti-Japanese activities, Neo and one of his sons were evacuated from Singapore on 13 February 1942, at the request of the British. Unfortunately, the family members who remained behind were tortured and killed by the Japanese. [^15]
 
 The Foo Chin Hwa Collection documents the exhumation of the remains of the war dead through photographs, which can be accessed from the National Library’s digital image database.
 
@@ -182,47 +183,36 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 <div style="background-color: white;">
 <br>
 <img style="width: 200px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Lee%20Meiyu%20and%20Seow%20Peck%20Ngiam.png">
-	<b>李梅瑜</b> (Lee Meiyu, left)是新加坡国家图书馆新加坡与东南亚馆藏部的高级图书馆员。她的研究兴趣包括新加坡华人社群。她也是2012年《家书抵万金：新加坡侨批文化展》以及2013年《根：追溯家族历史展览指南》的作者之一。同为新加坡与东南亚馆藏部的高级图书馆员、共同撰稿员<b>萧碧莹</b> (Seow Peck Ngiam, right)的职责包括馆藏建设和管理，如Notes许云樵馆藏。她也为图书馆杂志撰写馆藏介绍和研究心得。
-</div>
+	<b>Lee Meiyu</b> (李梅瑜, left) is a senior librarian with the National Library, Singapore. Her research interest lies in the Singapore Chinese community. She is one of the writers behind the 2012 exhibition guide, _Money by Mail to China: Dreams and Struggles of Early Migrants_, and _Roots: Tracing Family Histories – A Resource Guide_, in 2013. <b>Seow Peck Ngiam</b> (萧碧莹, right) is a senior librarian with the National Library, Singapore. Her responsibilities include collection development and management of donor collections such as the Hsu Yun Tsiao Collection. She also conducts research and writes on collection highlights for the library.</div>
 
 #### **NOTES**
  
+[^1] Chen Mingluan陈鸣鸾, _Ri zhi shiqi 1942–1945: Cong tupian yi zhan shi de xin_[日治时期1942–1945: 从图片忆战时的新加坡](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514) \[The Japanese Occupation, 1942–1945: A pictorial record of Singapore during the War\] (Singapore: Shibao chuban gongsi时报出版公司,&nbsp;1996), 107\. (From National Library, Singapore, call no. Chinese RSING 940.5425 CML-\[WAR\]
 
-[\[1\]](#_ftnref1) Cai Shijun蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
+[^2] Lee Geok Boi李玉梅, _Zhaonan: Xinjiapo zai riběn tongzhi xia, 1942–1945_ &nbsp;[昭南: 新加坡在日本统治下, 一九四二年至一九四五](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582) \[Syonan: Singapore under the Japanese 1942–1945\] (Singapore: Xinjiapo chuantong xiehui chuban 新加坡传统协会出版, 1993), 86. (From National Library, Singapore, call no. Chinese RSING 959.57023 LGB-\[HIS\]).
 
-[\[2\]](#_ftnref2) Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the&nbsp;South Seas&nbsp;Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489) 6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
-  
+[^3] Chen, [_Ri zhi shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514), 125–26.
 
-* * *
+[^4] Lee, [_Zhaonan_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582), 65, 69.
 
-[\[1\]](#_ftnref1) Lee, [_Zhaonan_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582), 65, 69.
+[^5] Cai Shijun蔡史君, “Erzhan qi jian riben zhanling xia de xīnjiapo” 二战期间日本占领下的新加坡 \[Singapore during the Japanese Occupation in World War II\], _Yí hé shìjì_ [怡和世纪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12303283) 24 (October 2014–January 2015): 93. (From National Library, Singapore, call no. Chinese RSING 369.25957 OPEHHC); Li Yeling李业霖, ed., _Feng na jin ziliao xuanbian_ [奉纳金资料选编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) \[[Selected resources about _Fengnajin_\] (Kuala Lumpur, Malaysia: Hua she yanjiu zhongxin华社研究中心, 2000), 8.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSEA 959.5703 FNJ-\[HIS\])
 
-  
+[^6] Li, [_Feng na jin ziliao xuanbian_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660),  54.
 
-* * *
+[^7] Li, [_Feng na jin ziliao xuanbian_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660), 8–10.
 
-[\[1\]](#_ftnref1) Chen Mingluan陈鸣鸾, _Ri zhi shiqi 1942–1945: Cong tupian yi zhan shi de xin_[日治时期1942–1945: 从图片忆战时的新加坡](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514) \[The Japanese Occupation, 1942–1945: A pictorial record of Singapore during the War\] (Singapore: Shibao chuban gongsi时报出版公司,&nbsp;1996), 107\. (From National Library, Singapore, call no. Chinese RSING 940.5425 CML-\[WAR\]
+[^8] Cai, “Erzhan qi jian riben zhanling xia de xīnjiapo”, 93.
 
-[\[2\]](#_ftnref2) Lee Geok Boi李玉梅, _Zhaonan: Xinjiapo zai riběn tongzhi xia, 1942–1945_ &nbsp;[昭南: 新加坡在日本统治下, 一九四二年至一九四五](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582) \[Syonan: Singapore under the Japanese 1942–1945\] (Singapore: Xinjiapo chuantong xiehui chuban 新加坡传统协会出版, 1993), 86. (From National Library, Singapore, call no. Chinese RSING 959.57023 LGB-\[HIS\]).
+[^9] Cai Shijun蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
 
-[\[3\]](#_ftnref3) Chen, [_Ri zhi shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84514514), 125–26.
+[^10] Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489) 6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
 
-\[1\] Cai Shijun蔡史君, “Erzhan qi jian riben zhanling xia de xīnjiapo” 二战期间日本占领下的新加坡 \[Singapore during the Japanese Occupation in World War II\], _Yí hé shìjì_ [怡和世纪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12303283) 24 (October 2014–January 2015): 93. (From National Library, Singapore, call no. Chinese RSING 369.25957 OPEHHC); Li Yeling李业霖, ed., _Feng na jin ziliao xuanbian_ [奉纳金资料选编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) \[[Selected resources about _Fengnajin_\] (Kuala Lumpur, Malaysia: Hua she yanjiu zhongxin华社研究中心, 2000), 8.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSEA 959.5703 FNJ-\[HIS\])
+[^11] The mass exhumation of the remains of the war dead was mainly led by the Singapore Chinese Chamber of Commerce in the 1960s. After exhumation work ended in October 1966, the Chinese Chamber of Commerce published the book, _Record on the Memorial to the People Who Died During the Japanese Occupation_ in 1969. It recorded in detail the entire process, from the exhumation work to the establishment of the Civilian War Memorial.
 
-  Li, Feng na jin ziliao xuanbian,  54.
-  Li, Feng na jin ziliao xuanbian, 8–10.
-  Cai, “Erzhan qi jian riben zhanling xia de xīnjiapo”, 93.
-	
-\[1\] Cai Shijun蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
+[^12] “Dong hai an qili ban da shangu xia wajue chu ershiyi nian qian bei rijun shahai zhe shigu” [东海岸七里半大山谷下挖掘出二十一年前被日军杀害者尸骨](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19620219-1.2.26.4) \[The remains of a man killed by the Japanese 21 years ago have been unearthed at the valley at seven-and-a-half-mile East Coast\], _Nanyang Siang Pau_南洋商报, 19 February 1962, 5. (From NewspaperSG)
 
-\[1\] Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489) 6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
+[^13] Chinese Chamber of Commerce中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_[日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
 
-\[1\] The mass exhumation of the remains of the war dead was mainly led by the Singapore Chinese Chamber of Commerce in the 1960s. After exhumation work ended in October 1966, the Chinese Chamber of Commerce published the book, _Record on the Memorial to the People Who Died During the Japanese Occupation_ in 1969. It recorded in detail the entire process, from the exhumation work to the establishment of the Civilian War Memorial.
+[^14] Chinese Chamber of Commerce, [_Riben zhanling shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653), 3–4,31; “The Civilian War Memorial,” Singapore Tourism Board, accessed 27 January 2023, https://www.visitsingapore.com.cn/see-do-singapore/history/memorials/civilian-war-memorial/.
 
-\[1\] “Dong hai an qili ban da shangu xia wajue chu ershiyi nian qian bei rijun shahai zhe shigu” [东海岸七里半大山谷下挖掘出二十一年前被日军杀害者尸骨](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19620219-1.2.26.4) \[The remains of a man killed by the Japanese 21 years ago have been unearthed at the valley at seven-and-a-half-mile East Coast\], _Nanyang Siang Pau_南洋商报, 19 February 1962, 5. (From NewspaperSG)
-
-\[1\] Chinese Chamber of Commerce中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_[日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
-
-\[1\] Chinese Chamber of Commerce, [_Riben zhanling shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653), 3–4,31; “The Civilian War Memorial,” Singapore Tourism Board, accessed 27 January 2023, https://www.visitsingapore.com.cn/see-do-singapore/history/memorials/civilian-war-memorial/.
-
-\[1\] Li Chengli李成利, _Lianghouzhou yu lin cuo gang_ [梁后宙与林厝港 \[Neo Tiew and Lim Chu Kang\] (Singapore: 新加坡南安会馆艺文社, 2015), 6, 97,100, 102, 105.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196) (From National Library, Singapore, call no. Chinese RSING 305.8951 LCL)
+[^15] Li Chengli李成利, _Lianghouzhou yu lin cuo gang_ [梁后宙与林厝港 \[Neo Tiew and Lim Chu Kang\] (Singapore: 新加坡南安会馆艺文社, 2015), 6, 97,100, 102, 105.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196) (From National Library, Singapore, call no. Chinese RSING 305.8951 LCL)
