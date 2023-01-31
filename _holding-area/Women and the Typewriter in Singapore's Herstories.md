@@ -36,3 +36,42 @@ Industrial strikes and labour disputes were part of Singapore’s politically tu
 #### **The Electrifying 1970s**
 
 When Singapore gained internal self-government in 1959 under the People’s Action Party (PAP), the typewriter was still out of reach for much of Singapore’s populace. However, by the 1970s, typewriters were in great demand in offices.[^17] By the mid-1970s, Singapore was importing around 70,000 typewriters per year, with many growing increasingly sophisticated with memory chips and computer functions.[^18]
+
+With the extensive provision of education opportunities to the general populace by the new PAP government, a more educated women workforce emerged.[^19] Collectively, these women provided additional labour to the government’s industrialisation drive to power the burgeoning local economy in the 1970s.[^20]
+
+Between 1970 and 1980, a radical spike was recorded in the women workforce: from 761,356, or 24.6 percent of a total of 1.9 million workers to 981,235, or 39.3 percent. In the fastest-growing industries of manufacturing, finance, business and trade, women – mostly single – registered a growth of over 120 percent within the same decade, exceeding the number of men.[^21]
+
+These changes were also reflected in the shifting demographics in women’s educational levels and participation in the labour force.[^22] The 1970 population census registered 56,939 men versus 26,002 women in the clerical sector. A decade later, the numbers reversed, with 65,931 men to 101,524 women, with the latter seeing a quadruple jump.[^23] Many women entered the workforce as typists and secretaries, becoming the first to handle increasingly sophisticated typewriters in new business environments.
+
+#### **“We Are Women, Not IBM Machines”**
+
+By 1978, Singapore had an estimated 14,800 employees under the category of “office support service”. Secretaries became highly sought after. Compared to the monthly salary of $323 and $560 for typists and stenographers respectively, secretaries commanded a higher monthly salary of almost $1,500.[^24]
+
+Embodying this desire to use a typewriter as a springboard was 22-year-old Nancy Khoo, a private secretary at a foreign bank, who was featured in the _Straits Times_ in August 1970. After leaving school, Khoo worked in a food and beverage company as a telephonist-cum-receptionist. Attracted by what she perceived as the growing prestige of secretaries, Khoo enrolled in evening shorthand and typing courses and became a qualified secretary.
+
+She told the _Straits Times_: “I was then earning $200 a month, now I’m getting more than $600. I also get an annual bonus. In four years’ time I will have a chance to travel on company expense, because after six years’ service we are supposed to pay head office in Manila a visit. I will like to do a managerial job next.” Her aspirations reflected a more promising career prospect that the typewriter had facilitated.[^25]
+
+However, such prospects were also premised upon the recognition of the contributions of the mainly female secretaries. As another secretary told the _Straits Times_ in August 1970: “[W]e are women, and not IBM machines. Once in a while when we have done a job well we’d like to receive a compliment. We want to feel we are contributing towards the company. We want to take on some responsibility, to get involved and to use our initiative.”[^26]
+
+The growing visibility of the typewriting profession was reflected in the formation of two female-centric associations in the early 1970s. They were the Typists’ Branch from the main trade union, the Amalgamated Union of Public Employees, and the Singapore Association of Personal and Executive Secretaries (SAPES).[^27] These organisations aimed to provide more active support and representation of secretaries in Singapore.
+
+What we know of the Typists’ Branch comes mainly from its short-lived newsletter, The Typist Voice, produced in 1975 to circulate information to its increasing membership, who were mainly women as reflected in their dominance in the branch committee.[^28] 
+
+SAPES, on the other hand, began to find resonance with a new generation of female secretaries and executives. Starting with around 50 members and with the support of the Stamford Group of Colleges that provided typewriting courses, SAPES’s prominence in the 1970s came with the hosting of the Asian Congress of Secretaries in 1978.[^29] By then, the association’s membership had increased to 400 comprising mainly women.[^30] According to the assistant secretary of the organisation, Chua Lee Hua, “they were clearly tired of the stock image of secretaries as nothing more than wooly-headed dolly birds who sit on bosses laps and make coffee”.[^31]
+
+Following its inception in 1971, SAPES started organising annual public contests in search of the “ideal secretary”. These included the “Ideal Secretary Quest” in 1974 and “Queen of the Keys” in 1981.[^32] Qualities such as “good human and public relations attitudes”, having good “secretarial skills” and a “charming personality” were extolled.[^33] The association also celebrated International Secretary Week, organising international conferences and participating in trade exhibitions of office equipment.[^34] Its public inputs and endorsement became important to distributors of office equipment in the competitive industry.
+
+The typewriter entered its twilight years in the 1980s as the era of microcomputers dawned.[^35] Over time, everyone who worked in an office was given a personal computer for their use. The job of stenographer and typist vanished, and typing pools dried up. And with everyone sending out their own emails these days, secretaries no longer take memos and type out letters. Instead, they have evolved to become personal assistants.
+
+Typewriters and electronic word processors can no longer be found in offices. But even if their absence is little mourned today, they deserve to be remembered for their role in providing women with avenues for entering the workforce and, in the process, helping to write, or rather type out, herstory.
+
+<div style="background-color: white;">
+<br/>
+<img src="insert here" style="width: 100px; height: 100px;" />
+<b>Dr Liew Kai Khiun</b> has been researching Singapore’s history for the past two decades. He is currently an assistant professor with the School of Arts and Social Sciences at the Hong Kong Metropolitan University, and a former Lee Kong Chian Research Fellow (2021–2022).
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
+#### **NOTES**
+
+
