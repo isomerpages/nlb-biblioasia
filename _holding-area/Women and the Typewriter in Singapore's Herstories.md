@@ -84,13 +84,23 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^5]: ‘’Katakana and Kanzi Typewriters Will Soon Be Fashion Here,” _Syonan Shimbun_, 24 July 1942, 4; “Of Interest to Women,” _Syonan Shimbun Fortnightly_, 5 June 1945, 6. (From NewspaperSG)
 
-[^6]: “‘Commercials’ Are Big Draw for Better Jobs,” Singapore Free Press, 6 March 1957, 5. (From NewspaperSG)
+[^6]: “‘Commercials’ Are Big Draw for Better Jobs,” _Singapore Free Press_, 6 March 1957, 5. (From NewspaperSG)
 
-[^7]: “War Over Clerks,” Singapore Free Press, 10 December 1946, 4. (From NewspaperSG)
+[^7]: “War Over Clerks,” _Singapore Free Press_, 10 December 1946, 4. (From NewspaperSG)
 
-[^8]: “Problem Number One for Mr. Yong Is All About Women: Postal Pay Arbitration Opens,” Straits Times, 10 April 1953, 7. (From NewspaperSG)
+[^8]: “Problem Number One for Mr. Yong Is All About Women: Postal Pay Arbitration Opens,” _Straits Times_, 10 April 1953, 7. (From NewspaperSG)
 
-[^9]: “A Demonstration of Teleprinters,” Malayan Tribune, 24 May 1933, 5. (From NewspaperSG)
+[^9]: “A Demonstration of Teleprinters,” _Malayan Tribune_, 24 May 1933, 5. (From NewspaperSG)
 
-[^10]: “Typing Letters Across Malaya at 60 Words a Minute,” Straits Times,
+[^10]: “Typing Letters Across Malaya at 60 Words a Minute,” _Straits Times_,
 19 March 1933, 9. (From NewspaperSG)
+
+[^11]: “Problem Number One for Mr. Yong Is All About Women.”
+
+[^12]: “Mr Yong Gives Clerks $500: Arbitration Award,” _Straits Budget_, 16 April 1953, 15. (From NewspaperSG). In a subsequent Industrial Arbitration Court ruling in 1965, the salary scale for teleprinter typists was increased from $137.50–$332.50 to $145–347.50, while the salary of teleprinter supervisors was raised from $400 to $425. See “Clerks Get a $15 Rise: Arbitration Award,” _Straits Times_, 17 October 1965. 9. (From NewspaperSG)
+
+[^13]: “The Tougher Sex,” _Straits Times_, 29 August 1956, 6. (From NewspaperSG)
+
+[^14]: “The Tougher Sex.”
+
+[^15]: “53 May Go on Strike Because Pretty Doris Is Under Notice,” _Singapore Standard_, 18 August 1956, 3. (From NewspaperSG)
