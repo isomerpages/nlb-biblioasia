@@ -85,7 +85,7 @@ Under the direction of the Japanese military administration, the Syonan-to Overs
 
 To raise the money, the Syonan-to Overseas Chinese Association appointed representatives to coordinate within their own dialect groups and screened the assets of the other dialect groups. For instance, the assets of the Teochews were screened by the Hainanese, while those of the Hokkiens were checked by the Hainanese. 
 
-The Japanese military government also provided detailed information concerning personal assets through records from the Land Authority, the Registry of Companies and the Income Tax Authority to facilitate the screening work. The Chinese who had assets of less than $3,000 were exempted from taxation, while those who owned assets worth more than $3,000 were taxed 8 percent. [^6}
+The Japanese military government also provided detailed information concerning personal assets through records from the Land Authority, the Registry of Companies and the Income Tax Authority to facilitate the screening work. The Chinese who had assets of less than $3,000 were exempted from taxation, while those who owned assets worth more than $3,000 were taxed 8 percent. [^6]
 
 The deadline for presenting the $50 million to the Japanese authorities was 20 April 1942, although this was first extended to 20 May and then to 25 June. However, the full amount could not be raised on time, and the shortfall had to be made up with a loan from the Yokohama Specie Bank at an interest rate of 6 percent per annum, which had to be repaid within a year. [^7]
 
@@ -93,7 +93,7 @@ Subsequently, the responsibilities of the Syonan-to Overseas Chinese Association
 
 Two primary documents in the Hsu Yun Tsiao Collection and Ya Yin Kwan Collection shed light on the role of the Syonan-to Overseas Chinese Association: the “Minutes of Meetings of Syonan-to Overseas Chinese Association”, and the “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya”. 
 
-The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945._[^9] The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._ [^10]
+The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945. [^9]_The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the Journal of the&nbsp;South Seas&nbsp;Society._ [^10]
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Minutes%20of%20Syonan%20To.png">|
 
