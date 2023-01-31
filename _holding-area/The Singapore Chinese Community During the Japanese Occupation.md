@@ -206,8 +206,8 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^12] “Dong hai an qili ban da shangu xia wajue chu ershiyi nian qian bei rijun shahai zhe shigu” [东海岸七里半大山谷下挖掘出二十一年前被日军杀害者尸骨](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19620219-1.2.26.4) \[The remains of a man killed by the Japanese 21 years ago have been unearthed at the valley at seven-and-a-half-mile East Coast\], *Nanyang Siang Pau* 南洋商报, 19 February 1962, 5. (From NewspaperSG)
 
-[^13] Chinese Chamber of Commerce中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_[日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
+[^13] Chinese Chamber of Commerce 中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_[日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
 
 [^14] Chinese Chamber of Commerce, [_Riben zhanling shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653), 3–4,31; “The Civilian War Memorial,” Singapore Tourism Board, accessed 27 January 2023, https://www.visitsingapore.com.cn/see-do-singapore/history/memorials/civilian-war-memorial/.
 
-[^15] Li Chengli李成利, _Lianghouzhou yu lin cuo gang_ [梁后宙与林厝港 \[Neo Tiew and Lim Chu Kang\] (Singapore: 新加坡南安会馆艺文社, 2015), 6, 97,100, 102, 105.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196) (From National Library, Singapore, call no. Chinese RSING 305.8951 LCL)
+[^15] Li Chengli 李成利, _Lianghouzhou yu lin cuo gang_ [梁后宙与林厝港 \[Neo Tiew and Lim Chu Kang\] (Singapore: 新加坡南安会馆艺文社, 2015), 6, 97,100, 102, 105.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196) (From National Library, Singapore, call no. Chinese RSING 305.8951 LCL)
