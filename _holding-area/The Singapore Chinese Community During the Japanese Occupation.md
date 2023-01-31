@@ -3,8 +3,6 @@ title: The Singapore Chinese Community During the Japanese Occupation
 permalink: /holding-area/national-library-japanese-occupation-collection-english/
 description: ""
 ---
-
-
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
 By Lee Meiyu and Seow Peck Ngiam
 
