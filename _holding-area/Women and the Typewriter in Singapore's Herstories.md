@@ -67,11 +67,30 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 <div style="background-color: white;">
 <br/>
-<img src="insert here" style="width: 100px; height: 100px;" />
-<b>Dr Liew Kai Khiun</b> has been researching Singapore’s history for the past two decades. He is currently an assistant professor with the School of Arts and Social Sciences at the Hong Kong Metropolitan University, and a former Lee Kong Chian Research Fellow (2021–2022).
+<img src="" style="width: 100px; height: 100px;" />
+<b>Dr Liew Kai Khiun</b> has been researching Singapore’s history for the past two decades. He is currently an assistant professor with the School of Arts and Social Sciences at the Hong Kong Metropolitan University, and a former Lee Kong Chian Research Fellow (2021–2022).</div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **NOTES**
 	
-[^1] In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen.” See “Page 2 Advertisements Column 4,” Daily Advertiser, 7 December 1891, 2. (From NewspaperSG)
+[^1]: In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen.” See “Page 2 Advertisements Column 4,” _Daily Advertiser_, 7 December 1891, 2. (From NewspaperSG)
+	
+[^2]: “Shorthand for Girls,” _Singapore Free Press and Mercantile Advertiser_, 16 April 1908, 10. (From NewspaperSG)
+
+[^3]: Sharon Lee, “Female Immigrants and Labour in Colonial Malaya: 1860–1947,” _International Migration Review_ 23, no. 2 (June 1989): 309–31. (From JSTOR via NLB’s eResources website)
+
+[^4]: According to M.R. Menon, since the YMCA School of Commerce opened in 1928, out of around 400 students enrolled, 60 were women and all of them ethnic Chinese. See “More Chinese Girls Work in Singapore Offices,” _Straits Budget_, 27 July 1939, 8. (From NewspaperSG)
+
+[^5]: ‘’Katakana and Kanzi Typewriters Will Soon Be Fashion Here,” _Syonan Shimbun_, 24 July 1942, 4; “Of Interest to Women,” _Syonan Shimbun Fortnightly_, 5 June 1945, 6. (From NewspaperSG)
+
+[^6]: “‘Commercials’ Are Big Draw for Better Jobs,” Singapore Free Press, 6 March 1957, 5. (From NewspaperSG)
+
+[^7]: “War Over Clerks,” Singapore Free Press, 10 December 1946, 4. (From NewspaperSG)
+
+[^8]: “Problem Number One for Mr. Yong Is All About Women: Postal Pay Arbitration Opens,” Straits Times, 10 April 1953, 7. (From NewspaperSG)
+
+[^9]: “A Demonstration of Teleprinters,” Malayan Tribune, 24 May 1933, 5. (From NewspaperSG)
+
+[^10]: “Typing Letters Across Malaya at 60 Words a Minute,” Straits Times,
+19 March 1933, 9. (From NewspaperSG)
