@@ -103,7 +103,7 @@ Subsequently, the responsibilities of the Syonan-to Overseas Chinese Association
 
 Two primary documents in the Hsu Yun Tsiao Collection and Ya Yin Kwan Collection shed light on the role of the Syonan-to Overseas Chinese Association: the “Minutes of Meetings of Syonan-to Overseas Chinese Association”, and the “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya”. 
 
-The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945. [^9]The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._ [^10]
+The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945. [^9] The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._ [^10]
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Minutes%20of%20Syonan%20To.png">|
 
