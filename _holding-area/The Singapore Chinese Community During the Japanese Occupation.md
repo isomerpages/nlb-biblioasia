@@ -4,6 +4,9 @@ permalink: /holding-area/permalink/
 description: ""
 ---
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
+
+(请点击[这里](https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/)，阅读英文翻译文章。To read this essay in English, click [here](https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/).)
+
 By Lee Meiyu and Seow Peck Ngiam
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Foo%20Chin%20Hua.png">|
