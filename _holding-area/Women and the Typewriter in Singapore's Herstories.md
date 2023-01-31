@@ -35,3 +35,4 @@ Industrial strikes and labour disputes were part of Singapore’s politically tu
 
 #### **The Electrifying 1970s**
 
+When Singapore gained internal self-government in 1959 under the People’s Action Party (PAP), the typewriter was still out of reach for much of Singapore’s populace. However, by the 1970s, typewriters were in great demand in offices.[^17] By the mid-1970s, Singapore was importing around 70,000 typewriters per year, with many growing increasingly sophisticated with memory chips and computer functions.[^18]
