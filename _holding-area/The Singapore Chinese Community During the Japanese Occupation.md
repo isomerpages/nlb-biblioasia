@@ -79,7 +79,8 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Hokkien%20Huay%20Kuan.png">|
 
-|**新加坡福建会馆珍藏:天福宫二战期间产业登记**, **1942–1948**|  
+|**新加坡福建会馆珍藏: 天福宫二战期间产业登记, 1942–1948**|
+
 |**\[Singapore Hokkien Huay Kuan Collection: Thian Hock Keong House Rent & Ground Rent Register, 1942-1948\]**|
 
   
