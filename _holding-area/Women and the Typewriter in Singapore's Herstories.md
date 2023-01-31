@@ -3,3 +3,15 @@ title: Women and the Typewriter in Singapore's Herstories
 permalink: /holding-area/women/
 description: ""
 ---
+#### The humble typewriter helped women become better educated, enter the workforce and contribute to society. 
+
+Mechanical to electric, manual to automated, ubiquitous to ornamental. Since it first entered commercial production in the 1870s, what is now seen as the humble typewriter has played a significant role in the history of the 20th century. Less well known is the fact that the typewriter was also a key force in shaping herstory in the same period. Women’s progress through the formal economy has been closely intertwined with the typewriter. Women typists, stenographers and secretaries bore witness to the technological, socio-economic and political changes from the 1900s to the tumultuous 1950s, and later the “electrifying” 1970s.
+
+#### **Women Typists in Prewar Singapore**
+
+In colonial Malaya, advertisements for typewriters began appearing in English-language broadsheets from the late 1890s.[^1] In the early days, companies in Malaya did not seem to hire many female typists. A letter to the Singapore Free Press and Mercantile
+Advertiser in 1908 notes that the “lady shorthand typist is a rare personage within the walls of commercial houses”, reflecting the general absence of women in this emerging trade.[^2]
+
+Female literacy rate was low in Singapore in the prewar period and women’s employment was largely confined to the informal sector.[^3] However, as attitudes toward women’s education changed, interest in secretarial skills like shorthand and typing became heightened. As M.R. Menon, the principal of the Young Men’s Christian Association’s (YMCA) School of Commerce, noted: “With the social advancement of womanhood, the Chinese girl labours under no false modesty. She is no longer content to sweep the floor and open the windows of the house and to do the cooking. Education has fired her with an ambition to do something.”[^4] The typewriter was to be part of the education and progress of women.
+
+Shorthand and typing courses continued even during the period of the Japanese Occupation of Singapore (1942–45). Among the propaganda showcases were initiatives encouraging the progress of women through typewriting courses. Accounts in the English-language Syonan Shimbun (the 
