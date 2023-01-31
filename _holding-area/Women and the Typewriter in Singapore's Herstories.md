@@ -121,26 +121,26 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^23]: Khoo, _Census of Population_, 1980, 14–15.
 
-[^24]: “Bouquet for the Personal Secretary,” _Business Times_, 6 March 1978, 14. (From NewspaperSG). Evidence of the growing recognition of the secretarial profession was already evident in the early 1970s, with pay grades based on academic qualifications, certification and experience. This ranged from $350 for those with just a Senior Cambridge Certificate and no prior working experience, to $1,400 for secretaries with university degrees working in multinational corporations. Judith Wong, “The Girls the Bosses Must Pamper,” _Straits Times_, 2 August 1970, 12. (From NewspaperSG)
+[^24]: “[Bouquet for the Personal Secretary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19780306-1.2.52),” _Business Times_, 6 March 1978, 14. (From NewspaperSG). Evidence of the growing recognition of the secretarial profession was already evident in the early 1970s, with pay grades based on academic qualifications, certification and experience. This ranged from $350 for those with just a Senior Cambridge Certificate and no prior working experience, to $1,400 for secretaries with university degrees working in multinational corporations. Judith Wong, “[The Girls the Bosses Must Pamper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700802-1.2.89),” _Straits Times_, 2 August 1970, 12. (From NewspaperSG)
 
-[^25]: Wong, “The Girls the Bosses Must Pamper.” 
+[^25]: Wong, “[The Girls the Bosses Must Pamper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700802-1.2.89).” 
 
-[^26]: Wong, “The Girls the Bosses Must Pamper.” 
+[^26]: Wong, “[The Girls the Bosses Must Pamper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700802-1.2.89).” 
 
-[^27]: “No Longer on Their Own…”, _New Nation_, 20 March 1972, 3 (From NewspaperSG) 
+[^27]: “[No Longer on Their Own…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720320-1.2.27)”, _New Nation_, 20 March 1972, 3 (From NewspaperSG) 
 
-[^28]: _The Typist Voice_ 1 no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG). Other than several volumes found in the collection of the National Library Board, there remains scant information about the Typists’ Branch. Since the 1950s, typists in the public sector were placed in Division IV, alongside office boys and drivers with limited prospects. See “Division 4 Officers”, _New Nation_, 27 May 1974, 6. (From NewspaperSG)
+[^28]: [<i>The Typist Voice</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077238) 1 no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG). Other than several volumes found in the collection of the National Library Board, there remains scant information about the Typists’ Branch. Since the 1950s, typists in the public sector were placed in Division IV, alongside office boys and drivers with limited prospects. See “[Division 4 Officers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740527-1.2.32.4.5)”, _New Nation_, 27 May 1974, 6. (From NewspaperSG)
 
-[^29]: “Upgrading Skills to Meet Challenges of the ‘Eighties,” _Straits Times_, 6 March 1978, 12. (From NewspaperSG). For details of the event, see Singapore Association of Personal and Executive Secretaries, _Welcome to Third Asian Congress of Secretaries, Hyatt Singapore Hotel, 5–11 March 1978_ (Singapore: The Association, 1978). (From PublicationSG). SAPES was renamed the Singapore Association of Administrative Professionals (SAAP) in 2005. It still exists today. See “About SAAP,” Singapore Association of Administrative Professionals, accessed 9 July 2022, https://saap.org.sg/index.php/about-us/history-logo-vision-mission.
+[^29]: “[Upgrading Skills to Meet Challenges of the ‘Eighties](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780306-1.2.62),” _Straits Times_, 6 March 1978, 12. (From NewspaperSG). For details of the event, see Singapore Association of Personal and Executive Secretaries, [<i>Welcome to Third Asian Congress of Secretaries, Hyatt Singapore Hotel, 5–11 March 1978</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200084940) (Singapore: The Association, 1978). (From PublicationSG). SAPES was renamed the Singapore Association of Administrative Professionals (SAAP) in 2005. It still exists today. See “About SAAP,” Singapore Association of Administrative Professionals, accessed 9 July 2022, https://saap.org.sg/index.php/about-us/history-logo-vision-mission.
 
 [^30]: “About SAAP.”
 
-[^31]: “Just Fed Up,” _New Nation_, 14 January 1975, 10–11. (From NewspaperSG)
+[^31]: “[Just Fed Up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750114-1.2.21.4),” _New Nation_, 14 January 1975, 10–11. (From NewspaperSG)
 
-[^32]: _The Nine to Five Secretary_, May 1981 (Singapore: Sterling Communications, 1981–), 52. (From PublicationSG)
+[^32]: [<i>The Nine to Five Secretary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079626), May 1981 (Singapore: Sterling Communications, 1981–), 52. (From PublicationSG)
 
-[^33]: “Out to Prove Who Is the Best,” _New Nation_, 8 February 1974, 2. (From NewspaperSG)
+[^33]: “[Out to Prove Who Is the Best](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740208-1.2.15.1),” _New Nation_, 8 February 1974, 2. (From NewspaperSG)
 
-[^34]: In conjunction with the Asian Congress of Secretaries in 1978, SAPES also organised an exhibition of the latest office equipment at the Hyatt Hotel showcasing new products like the IBM Copier III, the IBM selectric typewriter 82C, IBM microsystems, videotype CRT screens from Videotron Singapore, Rank Xerox machines and telephone apparatus from Northeastern Telecom (Asia). See “Latest Office Equipment on Display,” _Straits Times_, 6 March 1978, 12. (From NewspaperSG)
+[^34]: In conjunction with the Asian Congress of Secretaries in 1978, SAPES also organised an exhibition of the latest office equipment at the Hyatt Hotel showcasing new products like the IBM Copier III, the IBM selectric typewriter 82C, IBM microsystems, videotype CRT screens from Videotron Singapore, Rank Xerox machines and telephone apparatus from Northeastern Telecom (Asia). See “[Latest Office Equipment on Display](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780306-1.2.67),” _Straits Times_, 6 March 1978, 12. (From NewspaperSG)
 
-[^35]: Ilene Aleshire, “Computers Start to Put the Bite on Companies,” _Straits Times_, 27 May 1984, 19. (From NewspaperSG)
+[^35]: Ilene Aleshire, “[Computers Start to Put the Bite on Companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840527-1.2.73),” _Straits Times_, 27 May 1984, 19. (From NewspaperSG)
