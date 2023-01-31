@@ -74,52 +74,52 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 #### **NOTES**
 	
-[^1]: In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen.” See “Page 2 Advertisements Column 4,” _Daily Advertiser_, 7 December 1891, 2. (From NewspaperSG)
+[^1]: In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen.” See “[Page 2 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18911207-1.2.6.4),” _Daily Advertiser_, 7 December 1891, 2. (From NewspaperSG)
 	
-[^2]: “Shorthand for Girls,” _Singapore Free Press and Mercantile Advertiser_, 16 April 1908, 10. (From NewspaperSG)
+[^2]: “[Shorthand for Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19080416-1.2.67),” _Singapore Free Press and Mercantile Advertiser_, 16 April 1908, 10. (From NewspaperSG)
 
-[^3]: Sharon Lee, “Female Immigrants and Labour in Colonial Malaya: 1860–1947,” _International Migration Review_ 23, no. 2 (June 1989): 309–31. (From JSTOR via NLB’s eResources website)
+[^3]: Sharon Lee, “Female Immigrants and Labour in Colonial Malaya: 1860–1947,” _International Migration Review_ 23, no. 2 (June 1989): 309–31. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^4]: According to M.R. Menon, since the YMCA School of Commerce opened in 1928, out of around 400 students enrolled, 60 were women and all of them ethnic Chinese. See “More Chinese Girls Work in Singapore Offices,” _Straits Budget_, 27 July 1939, 8. (From NewspaperSG)
+[^4]: According to M.R. Menon, since the YMCA School of Commerce opened in 1928, out of around 400 students enrolled, 60 were women and all of them ethnic Chinese. See “[More Chinese Girls Work in Singapore Offices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19390727-1.2.19),” _Straits Budget_, 27 July 1939, 8. (From NewspaperSG)
 
-[^5]: ‘’Katakana and Kanzi Typewriters Will Soon Be Fashion Here,” _Syonan Shimbun_, 24 July 1942, 4; “Of Interest to Women,” _Syonan Shimbun Fortnightly_, 5 June 1945, 6. (From NewspaperSG)
+[^5]: ‘’[Katakana and Kanzi Typewriters Will Soon Be Fashion Here](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420724-1.2.22),” _Syonan Shimbun_, 24 July 1942, 4; “[Of Interest to Women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonanshimbun19450605-1.2.14),” _Syonan Shimbun Fortnightly_, 5 June 1945, 6. (From NewspaperSG)
 
-[^6]: “‘Commercials’ Are Big Draw for Better Jobs,” _Singapore Free Press_, 6 March 1957, 5. (From NewspaperSG)
+[^6]: “[‘Commercials’ Are Big Draw for Better Jobs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570306-1.2.30),” _Singapore Free Press_, 6 March 1957, 5. (From NewspaperSG)
 
-[^7]: “War Over Clerks,” _Singapore Free Press_, 10 December 1946, 4. (From NewspaperSG)
+[^7]: “[War Over Clerks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19461210-1.2.4.3),” _Singapore Free Press_, 10 December 1946, 4. (From NewspaperSG)
 
-[^8]: “Problem Number One for Mr. Yong Is All About Women: Postal Pay Arbitration Opens,” _Straits Times_, 10 April 1953, 7. (From NewspaperSG)
+[^8]: “[Problem Number One for Mr. Yong Is All About Women: Postal Pay Arbitration Opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530410-1.2.90),” _Straits Times_, 10 April 1953, 7. (From NewspaperSG)
 
-[^9]: “A Demonstration of Teleprinters,” _Malayan Tribune_, 24 May 1933, 5. (From NewspaperSG)
+[^9]: “[A Demonstration of Teleprinters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330524-1.2.24),” _Malayan Tribune_, 24 May 1933, 5. (From NewspaperSG)
 
-[^10]: “Typing Letters Across Malaya at 60 Words a Minute,” _Straits Times_,
+[^10]: “[Typing Letters Across Malaya at 60 Words a Minute](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330319-1.2.56),” _Straits Times_,
 19 March 1933, 9. (From NewspaperSG)
 
-[^11]: “Problem Number One for Mr. Yong Is All About Women.”
+[^11]: “[Problem Number One for Mr. Yong Is All About Women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530410-1.2.90).”
 
-[^12]: “Mr Yong Gives Clerks $500: Arbitration Award,” _Straits Budget_, 16 April 1953, 15. (From NewspaperSG). In a subsequent Industrial Arbitration Court ruling in 1965, the salary scale for teleprinter typists was increased from $137.50–$332.50 to $145–347.50, while the salary of teleprinter supervisors was raised from $400 to $425. See “Clerks Get a $15 Rise: Arbitration Award,” _Straits Times_, 17 October 1965. 9. (From NewspaperSG)
+[^12]: “[Mr Yong Gives Clerks $500: Arbitration Award](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19530416-1.2.92),” _Straits Budget_, 16 April 1953, 15. (From NewspaperSG). In a subsequent Industrial Arbitration Court ruling in 1965, the salary scale for teleprinter typists was increased from $137.50–$332.50 to $145–347.50, while the salary of teleprinter supervisors was raised from $400 to $425. See “[Clerks Get a $15 Rise: Arbitration Award](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651017-1.2.31.3),” _Straits Times_, 17 October 1965. 9. (From NewspaperSG)
 
-[^13]: “The Tougher Sex,” _Straits Times_, 29 August 1956, 6. (From NewspaperSG)
+[^13]: “[The Tougher Sex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560829-1.2.99),” _Straits Times_, 29 August 1956, 6. (From NewspaperSG)
 
-[^14]: “The Tougher Sex.”
+[^14]: “[The Tougher Sex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560829-1.2.99).”
 
-[^15]: “53 May Go on Strike Because Pretty Doris Is Under Notice,” _Singapore Standard_, 18 August 1956, 3. (From NewspaperSG)
+[^15]: “[53 May Go on Strike Because Pretty Doris Is Under Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560818-1.2.35),” _Singapore Standard_, 18 August 1956, 3. (From NewspaperSG)
 
-[^16]: “Doris (The Girl Who Nearly Caused a Strike) Gets ‘Windfall’,” _Singapore Standard_, 6 September 1956, 4. (From NewspaperSG)
+[^16]: “[Doris (The Girl Who Nearly Caused a Strike) Gets ‘Windfall’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560906-1.2.57),” _Singapore Standard_, 6 September 1956, 4. (From NewspaperSG)
 
-[^17]: “Local Companies Join the Technological Era,” _New Nation_, 31 August 1971, 10. (From NewspaperSG). Reflecting the transformation of offices in the 1970s, the sale of office equipment in the first quarter of 1970 was $5,874,632 compared to $16,189,261 for the whole of 1968. See Anthony Ramasamy, “Clearing the Desks for Action,” _Singapore Trade and Industry_, March 1971 (Singapore: Straits Times Press, 1961–1976), 8. (From National Library, Singapore, call no. RSING 381.095957 SIN)
+[^17]: “[Local Companies Join the Technological Era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710831-1.2.45.4),” _New Nation_, 31 August 1971, 10. (From NewspaperSG). Reflecting the transformation of offices in the 1970s, the sale of office equipment in the first quarter of 1970 was $5,874,632 compared to $16,189,261 for the whole of 1968. See Anthony Ramasamy, “Clearing the Desks for Action,” [<i>Singapore Trade and Industry</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5054318), March 1971 (Singapore: Straits Times Press, 1961–1976), 8. (From National Library, Singapore, call no. RSING 381.095957 SIN)
 
-[^18]: “Latest Machines to Help Firms to Increase Output and Efficiency,” _Straits Times_, 24 August, 1975, 20. (From NewspaperSG)
+[^18]: “[Latest Machines to Help Firms to Increase Output and Efficiency](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626),” _Straits Times_, 24 August, 1975, 20. (From NewspaperSG)
 
-[^19]: Linda Lim and Pang Eng Fong, _Trade, Employment and Industrialisation in Singapore_ (Geneva: International Labour Organisation, 1986), 59–61. (From National Library, Singapore, call no. RSING 330.95957 LIM)
+[^19]: Linda Lim and Pang Eng Fong, [<i>Trade, Employment and Industrialisation in Singapore</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204139357) (Geneva: International Labour Organisation, 1986), 59–61. (From National Library, Singapore, call no. RSING 330.95957 LIM)
 
-[^20]: Dick Wilson, “Singapore Is Poised for a Major Economic Breakthrough,” _Singapore Trade and Industry_, February 1970 (Singapore: Straits Times Press, 1961–1976), 33. (From National Library, Singapore, call no. RSING 381.095957 SIN)
+[^20]: Dick Wilson, “Singapore Is Poised for a Major Economic Breakthrough,” [<i>Singapore Trade and Industry</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5054318), February 1970 (Singapore: Straits Times Press, 1961–1976), 33. (From National Library, Singapore, call no. RSING 381.095957 SIN)
 
-[^21]: Khoo Chian Kim, _Census of Population 1980: Release No.4. Economic Characteristics_ (Singapore: Department of Statistics, 1981), 2, 12. (From National Library, Singapore, call no. RSING 312.095957 CEN)
+[^21]: Khoo Chian Kim, [<i>Census of Population 1980: Release No.4. Economic Characteristics</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626) (Singapore: Department of Statistics, 1981), 2, 12. (From National Library, Singapore, call no. RSING 312.095957 CEN)
 
-[^22]: Janice Loo, “A Quiet Revolution: Women and Work in Industrialising Singapore,” _Biblioasia_ 10, no. 2 (July–September 2014): 28–33. 
+[^22]: Janice Loo, “[A Quiet Revolution: Women and Work in Industrialising Singapore](https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore),” _Biblioasia_ 10, no. 2 (July–September 2014): 28–33. 
 
-[^23]: Khoo, _Census of Population_, 1980, 14–15.
+[^23]: Khoo, [<i>Census of Population, 1980</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626), 14–15.
 
 [^24]: “[Bouquet for the Personal Secretary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19780306-1.2.52),” _Business Times_, 6 March 1978, 14. (From NewspaperSG). Evidence of the growing recognition of the secretarial profession was already evident in the early 1970s, with pay grades based on academic qualifications, certification and experience. This ranged from $350 for those with just a Senior Cambridge Certificate and no prior working experience, to $1,400 for secretaries with university degrees working in multinational corporations. Judith Wong, “[The Girls the Bosses Must Pamper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700802-1.2.89),” _Straits Times_, 2 August 1970, 12. (From NewspaperSG)
 
