@@ -174,6 +174,9 @@ The library also has issues of the Chinese edition of the [_Syonan Shimbun_](htt
 
 The National Archives of Singapore (NAS) has oral history interviews from people who lived through the war, sketches left behind by prisoners-of-war, and personal documents issued during the Japanese Occupation. These resources are available for viewing at the National Archives at Canning Rise. Those interested can email NAS at nas@nlb.gov.sg.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> This is an edited and translated version of 从国家图书馆文献窥看日本占领时期的新加坡华社. Click <a href="https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection/">here</a> to read the original piece.</div>
+
+
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:432.35pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576"><p style="margin-bottom:0cm;line-height:150%" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US" lang="EN-US">This is an edited and translated version of</span><span style="font-size:12.0pt;line-height:150%;font-family:DengXian;mso-ascii-font-family:
