@@ -190,7 +190,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^4] Lee, [_Zhaonan_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488582), 65, 69.
 
-[^5] Cai Shijun 蔡史君, “Erzhan qi jian riben zhanling xia de xīnjiapo” 二战期间日本占领下的新加坡 \[Singapore during the Japanese Occupation in World War II\], _Yí hé shìjì_ [怡和世纪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12303283) 24 (October 2014–January 2015): 93. (From National Library, Singapore, call no. Chinese RSING 369.25957 OPEHHC); Li Yeling 李业霖, ed., _Feng na jin ziliao xuanbian_ [奉纳金资料选编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) \[[Selected resources about _Fengnajin_\] (Kuala Lumpur, Malaysia: Hua she yanjiu zhong xin华社研究中心, 2000), 8.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSEA 959.5703 FNJ-\[HIS\])
+[^5] Cai Shijun 蔡史君, “Erzhan qi jian riben zhanling xia de xīnjiapo” 二战期间日本占领下的新加坡 \[Singapore during the Japanese Occupation in World War II\], _Yí hé shìjì_ [怡和世纪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12303283) 24 (October 2014–January 2015): 93. (From National Library, Singapore, call no. Chinese RSING 369.25957 OPEHHC); Li Yeling 李业霖, ed., _Feng na jin ziliao xuanbian_ [奉纳金资料选编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) \[[Selected resources about _Fengnajin_\] (Kuala Lumpur, Malaysia: Hua she yanjiu zhong xin 华社研究中心, 2000), 8.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSEA 959.5703 FNJ-\[HIS\])
 
 [^6] Li, [_Feng na jin ziliao xuanbian_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660),  54.
 
@@ -206,7 +206,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^12] “Dong hai an qili ban da shangu xia wajue chu ershiyi nian qian bei rijun shahai zhe shigu” [东海岸七里半大山谷下挖掘出二十一年前被日军杀害者尸骨](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19620219-1.2.26.4) \[The remains of a man killed by the Japanese 21 years ago have been unearthed at the valley at seven-and-a-half-mile East Coast\], *Nanyang Siang Pau* 南洋商报, 19 February 1962, 5. (From NewspaperSG)
 
-[^13] Chinese Chamber of Commerce 中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_[日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
+[^13] Chinese Chamber of Commerce 中华总商会经济资料室, _Riben zhanling shiqi sinan renmin jinianbei zhi xinglu_ [日本占领时期死难人民纪念碑徵信录](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653) \[Record on the memorial to the people who died during the Japanese Occupation\] (Singapore: Chinese Chamber of Commerce, 1969), 18–20. (From National Library, Singapore, call no. Chinese RCLOS 725.94 CHI)
 
 [^14] Chinese Chamber of Commerce, [_Riben zhanling shiqi_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84493653), 3–4,31; “The Civilian War Memorial,” Singapore Tourism Board, accessed 27 January 2023, https://www.visitsingapore.com.cn/see-do-singapore/history/memorials/civilian-war-memorial/.
 
