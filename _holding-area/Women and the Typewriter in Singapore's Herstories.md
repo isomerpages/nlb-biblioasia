@@ -39,6 +39,9 @@ Prejudice against teleprinter typists continued. Three years after the court rul
 
 De Silva wrote: “As for soft supervisors and ‘Crying Allowance’, it might enlighten your artist to learn that some supervisors have earned the reputation as strict disciplinarians, the respectful title of ‘the tiger’, the ‘hawk,’ etc.”. Below the published letter was the editor’s remark, seemingly contrite: “The joke, apparently, is on us.”[^14]
 
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Classroom.png)
+<div style="background-color: white;">An evening typing class, 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 More than a week before De Silva’s letter was published on 29 August 1956, the _Singapore Standard_ had reported on 18 August that 53 staff from the Union Insurance Company of Canton had threatened a walkout after the company sacked one of its stenographers, Doris Phua, allegedly for “unsatisfactory” work.[^15] Phua was subsequently reinstated to her position, with an additional three months’ salary as compensation.[^16] 
 
 Industrial strikes and labour disputes were part of Singapore’s politically tumultuous landscape in the 1950s. While their numbers were small, women typists played a part during the period of decolonisation and self-determination.
@@ -46,6 +49,9 @@ Industrial strikes and labour disputes were part of Singapore’s politically tu
 #### **The Electrifying 1970s**
 
 When Singapore gained internal self-government in 1959 under the People’s Action Party (PAP), the typewriter was still out of reach for much of Singapore’s populace. However, by the 1970s, typewriters were in great demand in offices.[^17] By the mid-1970s, Singapore was importing around 70,000 typewriters per year, with many growing increasingly sophisticated with memory chips and computer functions.[^18]
+
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Smith_premier_typewriters.png)
+<div style="background-color: white;">Advertisement for a Smith Premier typewriter. <i>Image reproduced from “Page 2 Advertisements Column 3,” Singapore Free Press and Mercantile Advertiser, 3 June 1899, 2. (From NewspaperSG).</i></div>
 
 With the extensive provision of education opportunities to the general populace by the new PAP government, a more educated women workforce emerged.[^19] Collectively, these women provided additional labour to the government’s industrialisation drive to power the burgeoning local economy in the 1970s.[^20]
 
