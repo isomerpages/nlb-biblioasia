@@ -71,11 +71,19 @@ However, such prospects were also premised upon the recognition of the contribut
 
 The growing visibility of the typewriting profession was reflected in the formation of two female-centric associations in the early 1970s. They were the Typists’ Branch from the main trade union, the Amalgamated Union of Public Employees, and the Singapore Association of Personal and Executive Secretaries (SAPES).[^27] These organisations aimed to provide more active support and representation of secretaries in Singapore.
 
-What we know of the Typists’ Branch comes mainly from its short-lived newsletter, The Typist Voice, produced in 1975 to circulate information to its increasing membership, who were mainly women as reflected in their dominance in the branch committee.[^28] 
+What we know of the Typists’ Branch comes mainly from its short-lived newsletter, The Typist Voice, produced in 1975 to circulate information to its increasing membership, who were mainly women as reflected in their dominance in the branch committee.[^28]
+
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typist_voice.png)
+<div style="background-color: white;"> The Typists’ Branch of the Amalgamated Union of Public Employees published The Typist Voice newsletter. <i>Image reproduced from The Typist Voice 1, no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG).</i></div>
 
 SAPES, on the other hand, began to find resonance with a new generation of female secretaries and executives. Starting with around 50 members and with the support of the Stamford Group of Colleges that provided typewriting courses, SAPES’s prominence in the 1970s came with the hosting of the Asian Congress of Secretaries in 1978.[^29] By then, the association’s membership had increased to 400 comprising mainly women.[^30] According to the assistant secretary of the organisation, Chua Lee Hua, “they were clearly tired of the stock image of secretaries as nothing more than wooly-headed dolly birds who sit on bosses laps and make coffee”.[^31]
 
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/News_article.png)<div style="background-color: white;">A trade exhibition of computers and office equipment held in 1969.<i> Image reproduced from IBM News: Singapore and Malaysia 2, no. 1 (Jan–Feb 1969): 1. (From National Library, Singapore, call no. RCLOS 651.26 IBMWTC).</i></div>
+
 Following its inception in 1971, SAPES started organising annual public contests in search of the “ideal secretary”. These included the “Ideal Secretary Quest” in 1974 and “Queen of the Keys” in 1981.[^32] Qualities such as “good human and public relations attitudes”, having good “secretarial skills” and a “charming personality” were extolled.[^33] The association also celebrated International Secretary Week, organising international conferences and participating in trade exhibitions of office equipment.[^34] Its public inputs and endorsement became important to distributors of office equipment in the competitive industry.
+
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Competition_entry_form.png)
+<div style="background-color: white;">One of the contests organised by the Singapore Association of Personal and Executive Secretaries in search of the “ideal secretary” was “Queen of the Keys” in 1981. <i>Image reproduced from The Nine to Five Secretary, May 1981 (Singapore: Sterling Communications, 1981–), 52. (From PublicationSG).</i></div>
 
 The typewriter entered its twilight years in the 1980s as the era of microcomputers dawned.[^35] Over time, everyone who worked in an office was given a personal computer for their use. The job of stenographer and typist vanished, and typing pools dried up. And with everyone sending out their own emails these days, secretaries no longer take memos and type out letters. Instead, they have evolved to become personal assistants.
 
