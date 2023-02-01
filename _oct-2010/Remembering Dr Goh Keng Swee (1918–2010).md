@@ -82,4 +82,28 @@ Remembering Dr Goh is not an objective task of merely compiling sources from the
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Kwa%20Chong%20Guan.jpg" style="width: 100px; height: 100px;"/>
-<center><b>Kwa Chong Guan</b><br>Head of External Programmes<br> S. Rajaratnam School of International Studies<br> Nanyang Technological University</center></div>
+<center><b>Kwa Chong Guan</b><br>Head of External Programmes<br> S. Rajaratnam School of International Studies<br> Nanyang Technological 
+University</center></div>
+
+#### **NOTES**
+
+[^1]: Chan, Chin Bock, _[Heart Work](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11606576)_ ed. Koh Buck Song (Singapore: Singapore Economic Development Board, 2002), p. 23. (Call no.: RSING 338.95957 HEA)
+
+[^2]: Dr Goh, in his justification for the establishment of an Oral History Centre to interview and record personal accounts of this “largely unrecorded” fight between the PAP and the Communists, quoted in Kwa Chong Guan, “desultory reflections on the Oral History Centre at twenty-five,” in [_Reflections and interpretations_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524142) ed. D. Chew & F. Hu (Singapore: Oral History Centre, National Archives of Singapore, National Heritage Board, 2005), pp. 6—7. (Call no.: RSING 907.2 REF)
+
+[^3]: See Peebles, G., & Wilson, P., [_Economic growth and development in Singapore: Past and future_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11302682) (Cheltenham, UK: Edward Elgar, 2002). (Call no.: RSING 338.95957 PEE).  For the outline of the issues and challenges.
+
+[^4]: Kwok, Kian-Woon, “The social architect: Goh Keng Swee,” in Lam and Tan, eds., [_Lee’s Lieutenants_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9515549) (St Leonards, N.S.W.: Allen & Unwin, 1999), pp. 45—69. (Call no.: RSING 320.95957 LEE)
+
+[^5]: Goh, Keng Swee, [_The economics of modernization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12440197) (Singapore: Marshall Cavendish 2004; Reprint of 1972 edition), p. xi. (Call no.: RSING 330.95957 GOH)
+
+[^6]: Goh, Keng Swee, [_The practice of economic growth_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12282668) (Singapore: Marshall Cavendish Academic, 2004; Reprint of 1977 edition). (Call no.: RSING 330.95957 GOH)
+
+[^7]: Goh, Keng Swee, [_Wealth of East Asian nations_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12282683) (Singapore: Marshall Cavendish Academic, 2004). (Call no.: RSING 330.95957 GOH)
+
+[^8]: Chew, Melanie. [_Leaders of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7647597) (Singapore: Resource Press, 1996). (Call no.: RSING q920.05957 CHE). The book is a series of 38 life histories of persons Melanie Chew considers to have led Singapore in the post-1945 years. Most of the life histories are reflected as transcripts of oral history interviews with the leaders themselves, except for four early leaders who had passed on. As such, their life histories were reconstructed from interviews with those who knew them.
+
+[^9]: In this context, what we are reading in Chew’s transcript of her interview with Dr Goh is not Dr Goh’s inability to recall what happened in the weeks leading up to 9 August 1965, but a sieving and shifting of his memories to make moral choices and political judgments of what he believes should be revealed for a revision of Singapore’s history. Lee Kuan Yew in his memoirs and funeral oration for Dr Goh also recalls that he, Dr Goh and Tun Razak were key actors in the move to separate Singapore from Malaysia. In doing this, Lee is also reshaping and reworking his memories from his present vantage point. The oral history interview is therefore not a passive retrieval of information from the interviewee’s memory, but an active process of challenging the interviewee to review, and if necessary, reconfigure his memories of his past from the vantage point of his present.
+
+
+
