@@ -91,7 +91,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 <div style="background-color: white;">
 <br/>
-<img src="" style="width: 100px; height: 100px;" />
+<img src="/images/Authors/Liew_Kai_Khiun.png" style="width: 100px; height: 100px;" />
 <b>Dr Liew Kai Khiun</b> has been researching Singapore’s history for the past two decades. He is currently an assistant professor with the School of Arts and Social Sciences at the Hong Kong Metropolitan University, and a former Lee Kong Chian Research Fellow (2021–2022).</div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
