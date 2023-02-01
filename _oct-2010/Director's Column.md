@@ -3,7 +3,7 @@ title: Director's Column
 permalink: /vol-6/issue-3/oct-2010/director-column/
 description: ""
 ---
- #### Implicit in the recording of human experiences has always been the paradox of the public and the private.
+#### Implicit in the recording of human experiences has always been the paradox of the public and the private.
  
 The desire to note down the particularities of our experiences or to find similarity or otherness in the experiences of others is one that crosses all temporal and cultural boundaries to locate itself at the centre of the human condition.
 
@@ -21,7 +21,3 @@ Happy reading!
 
 
 <b>Ms Ngian Lek Choh</b><br> Director<br> National Library
-
-
-
-
