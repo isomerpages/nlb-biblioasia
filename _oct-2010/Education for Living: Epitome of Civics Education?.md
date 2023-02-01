@@ -92,7 +92,13 @@ Like the Goh Report, the Ong Report was more critical of the secondary schools�
 
 &emsp;&emsp;It has insufficient content on the teaching of moral<br>&emsp;&emsp;values. It includes too many varied subjects which<br>&emsp;&emsp;have little or nothing to do with morality …<br> &emsp;&emsp;unnecessarily detailed descriptions of trivial topics<br>&emsp;&emsp;tend to take up an inordinate amount of time at<br>&emsp;&emsp;the expense of other more important areas … key<br>&emsp;&emsp;issues such as good citizenry, the need for national<br>&emsp;&emsp;service and the inculcation of desirable moral<br>&emsp;&emsp;values are not given sufficient coverage and emphasis.<br><br>&emsp;&emsp;The subjects and topics are repeated at each<br>&emsp;&emsp;level from secondary one to four without any substantial<br>&emsp;&emsp;changes or graduation of depth of treatment.<br>&emsp;&emsp;This makes the lessons uninteresting and boring … .<br><br>Some subjects are far too advanced and are<br>&emsp;&emsp;therefore beyond the comprehension of the<br>&emsp;&emsp;students, e.g. topics like the constitution, legislation<br>&emsp;&emsp;and international relations (which are introduced<br>&emsp;&emsp;as early as Secondary one and two) (ibid., p. 4).
 
+As for the Civics textbooks, they were found to be “generally dull and somewhat factual and dogmatic … . There is also insufficient illustration of the desired moral values … through the use of stories … . Where this is done, it is … boring and unimaginative” (ibid., p. 5).
 
+In short, the Ong Report criticised “\[t\]he present moral education programme \[to be\] inadequate and ineffective, particularly in the case of the Civics programme in the secondary schools” (ibid., p. 8). The only saving grace lay with the objectives for EFL and Civics, which were deemed “appropriate and relevant” (ibid., p. 4). In the light of the strong criticisms from the Moral Education Committee, its recommendation came as no surprise:
+
+It is recommended that the present EFL and Civics programme be scrapped and replaced by one single programme covering both the primary and secondary levels under the charge of a single subject standing committee. The subject should be called “Moral Education” and it should confine itself to moral education and discipline training of the child (ibid., p. 8).
+
+Thereafter, the affective aspect of civics and citizenship would be imparted by moral education, while the more cognitive domains would be covered in social studies and history.
 
 
 
