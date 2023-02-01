@@ -3,7 +3,6 @@ title: Women and the Typewriter in Singapore's Herstories
 permalink: /holding-area/women-typewriter-singapore/
 description: ""
 ---
-
 #### The humble typewriter helped women become better educated, enter the workforce and contribute to society. 
 By Liew Kai Khiun
 
