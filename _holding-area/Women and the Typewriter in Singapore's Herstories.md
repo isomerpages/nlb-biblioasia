@@ -71,10 +71,10 @@ However, such prospects were also premised upon the recognition of the contribut
 
 The growing visibility of the typewriting profession was reflected in the formation of two female-centric associations in the early 1970s. They were the Typists’ Branch from the main trade union, the Amalgamated Union of Public Employees, and the Singapore Association of Personal and Executive Secretaries (SAPES).[^27] These organisations aimed to provide more active support and representation of secretaries in Singapore.
 
-What we know of the Typists’ Branch comes mainly from its short-lived newsletter, The Typist Voice, produced in 1975 to circulate information to its increasing membership, who were mainly women as reflected in their dominance in the branch committee.[^28]
+What we know of the Typists’ Branch comes mainly from its short-lived newsletter, _The Typist Voice_, produced in 1975 to circulate information to its increasing membership, who were mainly women as reflected in their dominance in the branch committee.[^28]
 
 ![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typist_voice.png)
-<div style="background-color: white;"> The Typists’ Branch of the Amalgamated Union of Public Employees published The Typist Voice newsletter. <i>Image reproduced from The Typist Voice 1, no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG).</i></div>
+<div style="background-color: white;"> The Typists’ Branch of the Amalgamated Union of Public Employees published _The Typist Voice_ newsletter. <i>Image reproduced from The Typist Voice 1, no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG).</i></div>
 
 SAPES, on the other hand, began to find resonance with a new generation of female secretaries and executives. Starting with around 50 members and with the support of the Stamford Group of Colleges that provided typewriting courses, SAPES’s prominence in the 1970s came with the hosting of the Asian Congress of Secretaries in 1978.[^29] By then, the association’s membership had increased to 400 comprising mainly women.[^30] According to the assistant secretary of the organisation, Chua Lee Hua, “they were clearly tired of the stock image of secretaries as nothing more than wooly-headed dolly birds who sit on bosses laps and make coffee”.[^31]
 
