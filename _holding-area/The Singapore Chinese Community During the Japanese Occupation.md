@@ -198,7 +198,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^8]: Cai, “Erzhan qi jian riben zhanling xia de xīnjiapo”, 93.
 
-[^9]: Cai Shijun 蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[[Malayan Chinese resistance to Japan 1937–1945\] (Singapore: 文史出版公司, 1984), 375–416.](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
+[^9]: Cai Shijun 蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[Malaysian Chinese resistance to Japan 1937-1945\] (Sigapore: 文史出版公司, 1984), 375-416. (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
 
 [^10]: Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489)  6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
 
