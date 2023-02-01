@@ -2,5 +2,6 @@ collections:
   oct-2010:
     output: true
     order:
+      - "Education for Living: Epitome of Civics Education?.md"
       - Remembering Dr Goh Keng Swee (1918–2010).md
       - Director's Column.md
