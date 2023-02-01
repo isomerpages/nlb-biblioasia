@@ -96,9 +96,16 @@ As for the Civics textbooks, they were found to be “generally dull and somewha
 
 In short, the Ong Report criticised “\[t\]he present moral education programme \[to be\] inadequate and ineffective, particularly in the case of the Civics programme in the secondary schools” (ibid., p. 8). The only saving grace lay with the objectives for EFL and Civics, which were deemed “appropriate and relevant” (ibid., p. 4). In the light of the strong criticisms from the Moral Education Committee, its recommendation came as no surprise:
 
-It is recommended that the present EFL and Civics programme be scrapped and replaced by one single programme covering both the primary and secondary levels under the charge of a single subject standing committee. The subject should be called “Moral Education” and it should confine itself to moral education and discipline training of the child (ibid., p. 8).
+&emsp;&emsp;It is recommended that the present EFL and Civics<br>&emsp;&emsp;programme be scrapped and replaced by one single<br>&emsp;&emsp;programme covering both the primary and secondary<br>&emsp;&emsp;levels under the charge of a single subject standing<br>&emsp;&emsp;committee. The subject should be called “Moral Education”<br>&emsp;&emsp;and it should confine itself to moral<br>&emsp;&emsp;education and discipline training of the child (ibid., p. 8).
 
-Thereafter, the affective aspect of civics and citizenship would be imparted by moral education, while the more cognitive domains would be covered in social studies and history.
+Thereafter, the affective aspect of civics and citizenship would be imparted by moral education, while the more cognitive domains would be covered in social studies 
+and history.
+
+#### **Conclusion**
+
+Introduced with much promise, the EFL programme was initiated with the objective of combining history, geography and civics, in addition to imparting moral values. However, it was eventually scrapped since the government was more concerned with instilling strong moral ideals rather than offering theoretical lessons in civics and democratic values. Another reason for the programme’s failure was the fact that EFL lessons were used to teach Chinese — since the booklets and the accompanying teachers’ manuals were published in Chinese. EFL was the epitome of civics education in Singapore in the 1970s, but only for a very short time.
+
+**The author wishes to acknowledge the contributions of Dr Ting-Hong Wong, Institute of Sociology, Academia Sinica, Taiwan, in reviewing the paper.**
 
 
 
