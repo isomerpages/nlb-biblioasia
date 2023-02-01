@@ -117,8 +117,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^9]: “[A Demonstration of Teleprinters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330524-1.2.24),” _Malayan Tribune_, 24 May 1933, 5. (From NewspaperSG)
 
-[^10]: “[Typing Letters Across Malaya at 60 Words a Minute](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330319-1.2.56),” _Straits Times_,
-19 March 1933, 9. (From NewspaperSG)
+[^10]: “[Typing Letters Across Malaya at 60 Words a Minute](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330319-1.2.56),” _Straits Times_, 19 March 1933, 9. (From NewspaperSG)
 
 [^11]: “[Problem Number One for Mr. Yong Is All About Women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530410-1.2.90).”
 
