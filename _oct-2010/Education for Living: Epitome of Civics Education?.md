@@ -22,4 +22,57 @@ The objectives of EFL were as follows:
 
 It is interesting to note that while the EFL syllabus aimed to introduce students to the best of Eastern and Western values, there was to be a shift in orientation towards the end of the 1970s wherein the west was demonised and the east valorised.
 
-Like Civics, EFL was taught in the mother tongue. The government believed that “Asian moral and social values, and the attitudes such as closeness in family ties, filial duties and loyalty (could) be conveyed and understood better in Asian languages”, and that pupils would become more aware of their cultural roots and develop a stronger sense of nationhood “if they knew their own language” (Gopinathan, 1991, p. 279). Christine Han (1996) challenged this assumption:
+Like Civics, EFL was taught in the mother tongue. The government believed that “Asian moral and social values, and the attitudes such as closeness in family ties, filial duties and loyalty (could) be conveyed and understood better in Asian languages”, and that pupils would become more aware of their cultural roots and develop a stronger sense of nationhood “if they knew their own language” (Gopinathan, 1991, p. 279). Christine Han (1996) challenged this 
+assumption:
+
+&emsp;&emsp;The insistence for moral and civic values to be taught in
+<br>&emsp;&emsp;the mother tongue raises questions, first, as to whether
+<br>&emsp;&emsp;there is a necessary link between language and values
+<br>&emsp;&emsp;and, second, as to whether there is a conflict between
+<br>&emsp;&emsp;attempts to build a nation and the fostering of ethnic
+<br>&emsp;&emsp;culture and identity through an emphasis on ethnic values
+<br>&emsp;&emsp;and languages.1
+
+Introduced to all primary schools in 1974, the instructional materials for EFL came in the form of 12 textbooks, which worked out to two textbooks per grade level, with accompanying teacher’s guides. The themes covered in the syllabus included the following: our family, our life, our school, our culture, our environment, how our people earn a living, our public services, our (role) models, our society, our community, our country, our world, and our moral attitude. The chapters in the textbooks were written in the form of short passages, like previous civics textbooks, with questions for discussion at the end of each passage. Although the EFL syllabus was organised more systematically than the previous primary school civics syllabus, it covered most of the contents of the previous syllabus, including topics associated with history and geography.
+
+Dr Lee Chiaw Meng, the Education Minister went to great lengths to explain why “the teaching of civics and moral education” was not “an examination subject”. This was because “\[Singapore’s\] examination system is … too examination-oriented. By adding another subject, we could make matters worse. They might learn it by heart without really wanting to know why certain things ought to be done” (*Parliamentary Debates*, 34, 26 March 1975: Col 1000). Moreover, the subject matter of the EFL syllabus was rather extensive since it incorporated the study of civics, history and geography.
+
+It was clear that the MOE intended EFL to be the epitome of the civics curriculum. This was clearly indicated in the MOE’s Addendum to the Presidential Address at the opening of the Fourth Parliament:
+
+&emsp;&emsp;Moral and civics education is mainly taught through the
+<br>&emsp;&emsp;subject Education for Living (which is a combination of
+<br>&emsp;&emsp;Civics, History and Geography) in the pupils’ mother
+<br>&emsp;&emsp;tongue. The aim of the subject is to inculcate social
+<br>&emsp;&emsp;discipline and national identity and to imbue in pupils
+<br>&emsp;&emsp;moral and civic values (ibid., 36, 8 February 1977
+<br>&emsp;&emsp;: Col. 40).
+
+The addendum conveniently ignored the presence of the existing civics syllabus for secondary schools, giving the impression that the subject was only taught at the primary level.
+
+Therefore, it came as no surprise when a Member of Parliament suggested that the MOE extend “Education for Living to the secondary schools and that the historical development of Singapore, in particular, the periods of crises and hardships be included in the curriculum … \[and\] should be taught as a compulsory subject in the secondary schools” (ibid., Col. 90). The Senior Minister of State for Education responded to this by stating that subjects like Civics, History and Geography assumed the role of EFL by imparting values to students at the secondary school level (ibid., 23 February 1977: Col. 390—1).
+
+By 1976, MPs were beginning to raise concerns with EFL during the annual budget and Committee of Supply debates. Chang Hai Ding, who advocated the teaching of history in schools, while acknowledging that “\[patriotism\] is … included in our *Education for Living*” (ibid., 37, 20 March 1978: Col. 1226), argued that “the misbegotten subject *Education For Living*” was unable to inculcate patriotism amongst students (ibid., 36, 14 February 1977: Col. 68). Another MP criticised EFL for developing into “neither a civics lesson, nor an Education for Living lesson but in many schools, it has become a second language lesson”, and called it “a failure” (ibid., 23 March 1976: Col. 830). There was a call for “*Education for Living* \[to\] be taught by Educationfor-living teachers, not by second language teachers” (ibid., 35, 23 March 1976: Col. 821). One MP sarcastically even referred to it as “Education for the Living” (ibid., 15 March 1976: Col. 292). The Senior Minister of State for Education did not address the criticisms of EFL in his reply. He merely reiterated the aims of EFL, “to inculcate moral and ethical values in our young pupils” (ibid., 23 March 1976: Col. 855), and gave an overview of the EFL topics.
+
+The criticisms of EFL by MPs were echoed by Leong in his study on youths in the army, where he argued that the teaching of EFL in Chinese essentially became a second-language lesson rather than a civic one. Students in the English stream of the English-medium schools would be more focused on deciphering the language rather than contemplating the message of the lesson because of their predilection towards English learning. Another reason for the ineffectiveness of the teaching of EFL in Chinese is that only teachers proficient in Chinese could teach it, which could result in the concepts of being taught within a language lesson framework instead of through a civics lesson paradigm (Leong, 1978, p. 9).2 In short, Leong was highly critical of EFL, contending that “the explanation of aims is couched in generalities”, of which “\[s\]ome of the generalities are nebulous in character” (ibid., p, 8).
+
+#### **Demise of EFL and Civics**
+
+Leong’s criticisms of EFL found resonance with the report published by the Education Study team, more popularly known as the Goh Report, as the team was chaired by Dr Goh Keng Swee, then Deputy Prime Minister and Minister for Defence:
+
+&emsp;&emsp;Much of the material in the EFL text books, particularly<br>&emsp;&emsp;those for lower primary classes, are useful in<br>&emsp;&emsp;inculcating useful attitudes such as respect for honesty,<br>&emsp;&emsp;hard work, care for parents and so on. A good deal of it,<br>&emsp;&emsp;however, is irrelevant and useless. Subjects such as the use<br>&emsp;&emsp;of community centres, functions of government outpatient<br>&emsp;&emsp;clinics are of little value in inculcating moral beliefs<br>&emsp;&emsp;in children (Goh, 1979, I—5).
+
+The Goh Report’s observations on the secondary schools’ civics syllabus were even more scathing:
+
+&emsp;&emsp;Much of the material taught relates to information,<br>&emsp;&emsp;some useful, others of little permanent value. For<br>&emsp;&emsp;instance, it seems pointless to teach secondary school<br>&emsp;&emsp;children the details of the Republic’s constitution, much<br>&emsp;&emsp;of which is not even known to Members of Parliament. It<br>&emsp;&emsp;is better that children are taught simple ideas about what<br>&emsp;&emsp;a democratic state is, how it differs from other systems<br>&emsp;&emsp;of Government and what the rights and responsibilities of<br>&emsp;&emsp;citizens of a democratic state are (ibid.)
+
+In 1978, the Prime Minister commissioned the Education Study Team to conduct a major review of the problems faced by Singapore's education system. A reading of Singapore’s Parliamentary Hansard in the 1970s revealed that many aspects of Singapore’s education system were heavily criticised by the MPs during the annual Committee of Supply debates — the criticisms of EFL were but one of many items over which the MPs took issue with the MOE. What prompted the review was the high drop-out rate following the implementation of mandatory bilingual education, which the Goh Report termed as “educational wastage”. The major recommendation of the study team was the streaming of students at the Primary Three level according to English language ability. This was to have major implications on Singapore’s educational landscape in the years to come. The resultant education structure was referred to as the “New Education System”.3
+
+While the Goh Report commented on EFL and the civics syllabus, the teaching of civics was not the primary focus of the Education Study Team. The Prime Minister’s open letter to the Education Study Team, which was published in the Goh Report, reflected his thinking on the role of education in general, and on civics and citizenship education in particular. In his letter, the Prime Minister pointed out that he Goh Report didnot touch upon moral and civics education. He regarded a good citizen to be “guided by moral principles” and imbued with “basic common norms of social behaviour, social values, and moral precepts which make up the rounded Singaporeans of tomorrow” (Goh, 1979, pp. iv-v). Thus, “\[t\]he best features of our different ethnic, cultural, linguistic, and religious groups must be retained…. No child should leave school after 9 years without having the ‘soft-ware’ of his culture programmed into his sub-conscious” (ibid., p. v). This is reminiscent of a speech he delivered in November 1966 where he decried the lack of social and civic responsibility in school children. The Prime Minister’s main concern was evidently based on the importance of instilling a sound moral upbringing in students, and not so much on teaching the theoretical aspects of civics and democratic values. Moreover, he apparently found the existing civics education programmes wanting in the teaching of moral values.
+
+not touch upon moral and civics education. He regarded a good citizen to be “guided by moral principles” and imbued with “basic common norms of social behaviour, social values, and moral precepts which make up the rounded Singaporeans of tomorrow” (Goh, 1979, pp. iv-v). Thus, “\[t\]he best features of our different ethnic, cultural, linguistic, and religious groups must be retained…. No child should leave school after 9 years without having the ‘soft-ware’ of his culture programmed into his sub-conscious” (ibid., p. v). This is reminiscent of a speech he delivered in November 1966 where he decried the lack of social and civic responsibility in school children. The Prime Minister’s main concern was evidently based on the importance of instilling a sound moral upbringing in students, and not so much on teaching the theoretical aspects of civics and democratic values. Moreover, he apparently found the existing civics education programmes wanting in the teaching of moral values.
+
+
+
+
+
+
