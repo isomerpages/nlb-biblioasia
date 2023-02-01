@@ -19,6 +19,8 @@ Shorthand and typing courses continued even during the period of the Japanese Oc
 
 Demand for typewriters grew significantly after the war. The trend started from the disruption of women’s education during the occupation years when many found themselves either too old or economically disadvantaged to continue with their education. Instead, these women attended commercial classes like typewriting and shorthand.[^6] Jobs that required such skills saw acute demand with the reestablishment of the civil service after the war.[^7]
 
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typist_voice.png)
+
 Just the ability to type alone was not always valued by employers though. In April 1953, there was a salary dispute played out in the Industrial Arbitration Court between the Singapore Government Administrative and Clerical Services Union and the Singapore Post and Telegraph Workers’ Union (SPTWU), and the Telecommunications Department. One of the key points of contention was the call for women teleprinter operators to receive the same salary as women postal clerks.[^8]
 
 Teleprinters were introduced in 1932 in the postal offices of Malaya – a milestone in communication technology.[^9] Also known as “typewriting by wire”, teleprinting entailed telegraphic instruments receiving printed messages via telephone cables and radio relay systems. The Posts and Telegraphs Department had affered teleprinter work to women typists “as an experiment” and “‘a different kind of job’ for the fair sex”.[^10]
