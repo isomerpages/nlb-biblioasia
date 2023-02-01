@@ -98,7 +98,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **NOTES**
-	
+
 [^1]: In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen.” See “[Page 2 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18911207-1.2.6.4),” _Daily Advertiser_, 7 December 1891, 2. (From NewspaperSG)
 	
 [^2]: “[Shorthand for Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19080416-1.2.67),” _Singapore Free Press and Mercantile Advertiser_, 16 April 1908, 10. (From NewspaperSG)
