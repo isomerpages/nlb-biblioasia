@@ -4,6 +4,10 @@ permalink: /holding-area/women/
 description: ""
 ---
 #### The humble typewriter helped women become better educated, enter the workforce and contribute to society. 
+By Liew Kai Khiun
+
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typewriter.png)
+<div style="background-color: white;">A Remington typewriter, 1900s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Mechanical to electric, manual to automated, ubiquitous to ornamental. Since it first entered commercial production in the 1870s, what is now seen as the humble typewriter has played a significant role in the history of the 20th century. Less well known is the fact that the typewriter was also a key force in shaping herstory in the same period. Women’s progress through the formal economy has been closely intertwined with the typewriter. Women typists, stenographers and secretaries bore witness to the technological, socio-economic and political changes from the 1900s to the tumultuous 1950s, and later the “electrifying” 1970s.
 
@@ -18,8 +22,6 @@ Shorthand and typing courses continued even during the period of the Japanese Oc
 #### **The Tumultuous 50s**
 
 Demand for typewriters grew significantly after the war. The trend started from the disruption of women’s education during the occupation years when many found themselves either too old or economically disadvantaged to continue with their education. Instead, these women attended commercial classes like typewriting and shorthand.[^6] Jobs that required such skills saw acute demand with the reestablishment of the civil service after the war.[^7]
-
-![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typist_voice.png)
 
 Just the ability to type alone was not always valued by employers though. In April 1953, there was a salary dispute played out in the Industrial Arbitration Court between the Singapore Government Administrative and Clerical Services Union and the Singapore Post and Telegraph Workers’ Union (SPTWU), and the Telecommunications Department. One of the key points of contention was the call for women teleprinter operators to receive the same salary as women postal clerks.[^8]
 
