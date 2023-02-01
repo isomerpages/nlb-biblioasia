@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2022:
     output: true
     order:
+      - The Singapore Chinese Community During the Japanese Occupation.md
       - Director's Note.md
       - "A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the
         Bugis to Singapore.md"
