@@ -2,7 +2,6 @@ collections:
   jul-to-sep-2022:
     output: true
     order:
-      - The Singapore Chinese Community During the Japanese Occupation.md
       - Director's Note.md
       - "A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the
         Bugis to Singapore.md"
@@ -10,6 +9,7 @@ collections:
         Underground in the City State.md"
       - "They Died for All Free Men: Stories from Kranji War Cemetery.md"
       - 从国家图书馆文献窥看日本占领时期的新加坡华社.md
+      - The Singapore Chinese Community During the Japanese Occupation.md
       - "This Was Once Singapore’s Largest Planned Housing Development: A
         History of Sennett Estate.md"
       - "Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar
