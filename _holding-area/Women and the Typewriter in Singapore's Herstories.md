@@ -6,14 +6,16 @@ description: ""
 #### The humble typewriter helped women become better educated, enter the workforce and contribute to society. 
 By Liew Kai Khiun
 
-![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typewriter.png)
-<div style="background-color: white;">A Remington typewriter, 1900s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 
 Mechanical to electric, manual to automated, ubiquitous to ornamental. Since it first entered commercial production in the 1870s, what is now seen as the humble typewriter has played a significant role in the history of the 20th century. Less well known is the fact that the typewriter was also a key force in shaping herstory in the same period. Women’s progress through the formal economy has been closely intertwined with the typewriter. Women typists, stenographers and secretaries bore witness to the technological, socio-economic and political changes from the 1900s to the tumultuous 1950s, and later the “electrifying” 1970s.
 
 #### **Women Typists in Prewar Singapore**
 
 In colonial Malaya, advertisements for typewriters began appearing in English-language broadsheets from the late 1890s.[^1] In the early days, companies in Malaya did not seem to hire many female typists. A letter to the _Singapore Free Press and Mercantile Advertiser_ in 1908 notes that the “lady shorthand typist is a rare personage within the walls of commercial houses”, reflecting the general absence of women in this emerging trade.[^2]
+
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Smith_premier_typewriters.png)
+<div style="background-color: white;">Advertisement for a Smith Premier typewriter. <i>Image reproduced from “Page 2 Advertisements Column 3,” Singapore Free Press and Mercantile Advertiser, 3 June 1899, 2. (From NewspaperSG).</i></div>
 
 Female literacy rate was low in Singapore in the prewar period and women’s employment was largely confined to the informal sector.[^3] However, as attitudes toward women’s education changed, interest in secretarial skills like shorthand and typing became heightened. As M.R. Menon, the principal of the Young Men’s Christian Association’s (YMCA) School of Commerce, noted: “With the social advancement of womanhood, the Chinese girl labours under no false modesty. She is no longer content to sweep the floor and open the windows of the house and to do the cooking. Education has fired her with an ambition to do something.”[^4] The typewriter was to be part of the education and progress of women.
 
@@ -50,8 +52,8 @@ Industrial strikes and labour disputes were part of Singapore’s politically tu
 
 When Singapore gained internal self-government in 1959 under the People’s Action Party (PAP), the typewriter was still out of reach for much of Singapore’s populace. However, by the 1970s, typewriters were in great demand in offices.[^17] By the mid-1970s, Singapore was importing around 70,000 typewriters per year, with many growing increasingly sophisticated with memory chips and computer functions.[^18]
 
-![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Smith_premier_typewriters.png)
-<div style="background-color: white;">Advertisement for a Smith Premier typewriter. <i>Image reproduced from “Page 2 Advertisements Column 3,” Singapore Free Press and Mercantile Advertiser, 3 June 1899, 2. (From NewspaperSG).</i></div>
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Typewriter.png)
+<div style="background-color: white;">A Remington typewriter, 1900s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 With the extensive provision of education opportunities to the general populace by the new PAP government, a more educated women workforce emerged.[^19] Collectively, these women provided additional labour to the government’s industrialisation drive to power the burgeoning local economy in the 1970s.[^20]
 
