@@ -42,3 +42,11 @@ Municipal Engineer W.T. Carrington’s report on the Singapore River on 4 Octobe
 #### **New Bathhouses**
 
 In 1878, the new municipal engineer, Thomas Cargill, was instructed to solve the perennial problem of public bathing.[^14] After decades of planning and construction, the Impounding Reservoir finally became operational that year. This meant that Cargill could plan a new public bathing system that used piped municipal water, rather than relying on water boats or natural sources.
+
+It seemed that the reservoir would bypass all of the concerns about water hygiene that had plagued the municipal commissioners in recent years, which had led them to outlaw bathing in places that drinking water could be collected and consider plans for filling the polluted canals adjacent to the Singapore River.[^15]
+
+Cargill’s proposal for a new kind of public bathhouse was approved in December 1878. The first would be constructed at Ellenborough Market, replacing an older bath from 1874 that relied on water delivered by boats.[^16] The Municipality also planned a second bathhouse at Upper Cross Street, going so far as to accept construction tenders for it in 1879, before realising that the government had already reserved the land for police accommodation.[^17] The municipal commissioners would have to find another site for their second bathhouse, but in the meantime, the one at Ellenborough Market went ahead.
+
+The Ellenborough Market bathhouse was opened to the public at the beginning of 1880. In February that year, its manager, Low How Chuan, asked for two gas lamps to be installed “for the convenience of persons bathing after sunset”.[^18]
+
+The municipal commissioners quickly took issue with the amount of water that bathers at this bathhouse were using though. There were an estimated 1,126 people using the bathhouse daily, each of whom used 17 gallons of water, or about 77 litres.[^19] The town water service only ran 12 hours a day to conserve water.[^20] Now that bathing water came from the municipality’s own underperforming reservoir, frugality needed to be enforced and a bathhouse watchman was hired to prevent wastage. This proved effective and by July 1880, water usage at the Ellenborough Market bathhouse had been reduced from 554,800 gallons in May to 414,400 gallons in June.[^21]
