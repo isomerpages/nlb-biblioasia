@@ -39,3 +39,6 @@ Not all sanctioned bathing places were in the town though. There was one in Sele
 
 Municipal Engineer W.T. Carrington’s report on the Singapore River on 4 October 1875 noted 42 public baths along the banks of this river alone, with the Rochor Canal and Kallang River also having their own official bathing places.[^12] And whether these were at wells, canals or in specialised tanks, the laws regulating public washing also made each of these places the responsibility of the municipal commissioners; by 1876, the town was paying $5,000 annually to maintain them.[^13]
 
+#### **New Bathhouses**
+
+In 1878, the new municipal engineer, Thomas Cargill, was instructed to solve the perennial problem of public bathing.[^14] After decades of planning and construction, the Impounding Reservoir finally became operational that year. This meant that Cargill could plan a new public bathing system that used piped municipal water, rather than relying on water boats or natural sources.
