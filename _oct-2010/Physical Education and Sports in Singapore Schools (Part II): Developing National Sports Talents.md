@@ -184,6 +184,9 @@ Youth Olympic Games bid book – Singapore 2010 candidature file, Volume 1 & 2.
 
 #### **NOTES**
 
+ [^1]: Singapore’s first involvement in the Olympics was in 1948 when, Lloyd Valberg, a 25-year old Eurasian represented Singapore in the long jump event (_[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480131-1.2.78)_, 31 Jan 1948, p. 11).
+
+[^2]: Singapore’s sports administration scene lost this visionary leader in Sports education on 16 March 2010. “[Sports School’s founding principal dies of cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100317-1.2.35.8)”, _The Straits Times_, 17 March 2010, p. 6.
 
 
 
