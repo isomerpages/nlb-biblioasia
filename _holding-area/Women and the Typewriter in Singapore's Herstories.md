@@ -101,7 +101,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 #### **NOTES**
 
-[^1]: In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen.” See “[Page 2 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18911207-1.2.6.4),” _Daily Advertiser_, 7 December 1891, 2. (From NewspaperSG)
+[^1]: In an advertisement for the Remington typewriter by A.R Carbbe, the sole importer for the Straits Settlements, the device is described as “an investment that will pay. Saves time, money and labour. The use of the machine can be learned in 30 minutes… Writes four times as quick as the pen". See “[Page 2 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18911207-1.2.6.4),” _Daily Advertiser_, 7 December 1891, 2. (From NewspaperSG)
 	
 [^2]: “[Shorthand for Girls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19080416-1.2.67),” _Singapore Free Press and Mercantile Advertiser_, 16 April 1908, 10. (From NewspaperSG)
 
@@ -141,7 +141,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^20]: Dick Wilson, “Singapore Is Poised for a Major Economic Breakthrough,” [<i>Singapore Trade and Industry</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5054318), February 1970 (Singapore: Straits Times Press, 1961–1976), 33. (From National Library, Singapore, call no. RSING 381.095957 SIN)
 
-[^21]: Khoo Chian Kim, [<i>Census of Population 1980: Release No.4. Economic Characteristics</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626) (Singapore: Department of Statistics, 1981), 2, 12. (From National Library, Singapore, call no. RSING 312.095957 CEN)
+[^21]: Khoo Chian Kim, [<i>Census of Population 1980: Release No. 4. Economic Characteristics</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626) (Singapore: Department of Statistics, 1981), 2, 12. (From National Library, Singapore, call no. RSING 312.095957 CEN)
 
 [^22]: Janice Loo, “[A Quiet Revolution: Women and Work in Industrialising Singapore](https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore),” _Biblioasia_ 10, no. 2 (July–September 2014): 28–33. 
 
@@ -155,7 +155,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^27]: “[No Longer on Their Own…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720320-1.2.27)”, _New Nation_, 20 March 1972, 3 (From NewspaperSG) 
 
-[^28]: [<i>The Typist Voice</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077238) 1 no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG). Other than several volumes found in the collection of the National Library Board, there remains scant information about the Typists’ Branch. Since the 1950s, typists in the public sector were placed in Division IV, alongside office boys and drivers with limited prospects. See “[Division 4 Officers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740527-1.2.32.4.5)”, _New Nation_, 27 May 1974, 6. (From NewspaperSG)
+[^28]: [<i>The Typist Voice</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200077238) 1, no. 1 (Singapore: Typists’ Branch, Amalgamated Union of Public Employees, 1975–). (From PublicationSG). Other than several volumes found in the collection of the National Library Board, there remains scant information about the Typists’ Branch. Since the 1950s, typists in the public sector were placed in Division IV, alongside office boys and drivers with limited prospects. See “[Division 4 Officers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740527-1.2.32.4.5)”, _New Nation_, 27 May 1974, 6. (From NewspaperSG)
 
 [^29]: “[Upgrading Skills to Meet Challenges of the ‘Eighties](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780306-1.2.62),” _Straits Times_, 6 March 1978, 12. (From NewspaperSG). For details of the event, see Singapore Association of Personal and Executive Secretaries, [<i>Welcome to Third Asian Congress of Secretaries, Hyatt Singapore Hotel, 5–11 March 1978</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200084940) (Singapore: The Association, 1978). (From PublicationSG). SAPES was renamed the Singapore Association of Administrative Professionals (SAAP) in 2005. It still exists today. See “About SAAP,” Singapore Association of Administrative Professionals, accessed 9 July 2022, https://saap.org.sg/index.php/about-us/history-logo-vision-mission.
 
