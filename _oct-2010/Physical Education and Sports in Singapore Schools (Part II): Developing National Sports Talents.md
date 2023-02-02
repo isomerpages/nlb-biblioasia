@@ -8,9 +8,16 @@ description: "Librarian Wee Tong Bao traces the journeys that schools embarked
 ---
 #### Librarian _Wee Tong Bao_ traces the journeys that schools embarked upon to re-establish inter-school sporting events after World War II, and comments on the initial forays into the international sporting arena.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/Archery.jpg">
+ <div style="background-color: white;">An archery competition for girls. <i>Ministry of Education, Annual Report, 1952.</i></div>
+
 #### **Recovery and Revival**
+
 The re-establishment of schools and the education system after World War II was a slow process that gradually gained momentum over time. Similarly, sporting activities in schools also took time to recover. The first part of this article, published in the July 2010 issue, discussed the creation of a national physical education curriculum. This essay will trace the journeys that schools embarked upon to reestablish inter-school sporting events, as well as comment on the initial forays into the international sporting arena.
 By 1947, athletic sports started again in schools — “\[s\]ixteen English schools held School Sports and more than 2,000 pupils from English, Malay and Chinese schools took part in various inter-school competitions” (AR, 1947, p. 62). By 1950, the number of schools holding sports meets increased to 43 (AR, 1950, p. 86), involving all Government and aided schools (37) (ibid., p. 89). From 1953, other inter-school competitions were added to the schools sports calendars. There were the inter-school Chinese swimming championships and inter-school football, swimming, athletics and netball competitions for the junior schools (AR, 1953, p. 51). By 1957, the Malay Schools Sports Council also organised the first annual inter-school netball for Malay schools. Around that period, the Singapore Combined Schools Sports Council (primary and secondary) also organised inter-district competitions, providing students with another arena to compete in besides the inter-school sport meets.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/Netball.jpg">
+ <div style="background-color: white;">Malay girls practising netball during PE (physical education) lesson. <i>Ministry of Education, Annual Report, 1946.</i></div>
 
 The participation of students in events organised outside Singapore was part of the recovery and revival of sports in schools. After excelling at the school level, students went on to compete in national and regional arenas. In 1950, two girls from Chinese schools represented Singapore at the Malayan Amateur Athletic Championships (AR, 1950, p. 89). Another student from a girls’ school was the Singapore Women’s Badminton Champion for 1950 (ibid., p. 89). Such participation was repeated the following year, and more achievements in other areas were added. The Education Department proudly noted that “a schoolboy swimmer holds four Colony swimming records.” At the 1951 Malayan Athletic Championships in Kuala Lumpur, senior pupils from Singapore schools won five events and created three Malayan records (AR, 1951, p. 89). The best athletes from Singapore Chinese schools also competed against their Malayan counterparts in the Malayan Chinese Athletic Championship Meeting.
 
@@ -44,11 +51,17 @@ The administration of sports in schools received a boost in 1970, when Mr Ong Pa
 
 Previously, sports had been conducted as a subject or extra-curricular activity outside the core syllabus in schools. This changed when a full-fledged sports school was set up. As early as 2000, a Committee on Sporting Singapore (CoSS) was formed to “review and make strategic recommendations” (Report of the Committee on Sporting Singapore, 2001, p. 10) on how to further develop sports in Singapore. One of their recommendations was to set up a Sports School “to allow … those who have the inclination for and ability in sports to pursue their athletic goals without sacrificing quality academic education” (Report of the Committee on Sporting Singapore, 2001, p. 10). In April 2000, the Ministry of Community Development and Sports (MCDS) appointed a Sports School Taskforce to explore the possibility of setting up such a School (Singapore Sports School, 2004, p. 18).
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/SingaporeSportsSchool.jpg">
+ <div style="background-color: white;">The Singapore Sports School, a specialised independent school providing training for teenagers aspiring to be sports athletes. <i>Courtesy of Singapore Sports School</i></div>
+
 In November 2000, the Taskforce submitted a concept paper, which recommended proceeding with the setting up of a Sports School. A seven-hectare site in Woodlands was picked for the school. The groundbreaking ceremony took place on 11 November 2002. Mr Moo Soon Chong, was named the head of the Sports School in July 2002 (“PM spells out 3 sports goals”, *The Straits Times*, 2 July 2001, p. 1). He was the principal of Anglican High before he headed the Singapore Sports School and a firm believer that “academic and sports excellence can — and indeed, should mix” (“Paper chase: Flexibility yes, compromising quality, no”. *The Straits Times*, 2 July 2001, p. 2). He retired in January 2008 (“It’s Singapore 2010”, *The Straits Times*, 22 February 2008, p. 1).2 The creation of the Singapore Sports School was fully supported by the Ministry of Education, which was prepared to fund the School, as it would have any other secondary school. Further collaboration between the two ministries led to the co-organisation of the first Youth Olympic Games (YOG), held in Singapore from 14 to 26 August 2010.
 
 As far back as mid-2007, the Ministry of Community Development, Youth and Sports led the bid to host the first YOG. As the first Olympic games for youth athletics, it was pitched as a game “for young people, by young people” (Singapore 2010, vol. 1, p. 6). The concept that guided the design and implementation of the Games was to “stage a youth-focused Games that has Olympism at its heart, with integrated sport, educational and cultural programmes” (Singapore 2010, vol. 1, p. 3). The Games was not just for the participating youth athletes but youth in Singapore and other parts of the world (Singapore 2010, vol. 1, p. 4).
 
 After it was announced on 21 February 2008 that Singapore had won the bid to host the first YOG, the Ministry of Education came up with Resource Packs for primary schools, secondary schools and junior colleges. Titled *Living Olympism*, these were to "connect students to the Olympic movement". (*Living Olympism*, p. 1 & “Olympic Education Programme launched”, *The Straits Times*, 30 December 2008, p. B10).
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/LivingOlympism.jpg">
+ <div style="background-color: white;"><i>Living Olympism for Pre-University.</i> All rights reserved, Ministry of Education, 2008.</div>
 
 The objective of these resource packs was to help staff and students “in the study of the history, values and traditions related to the Olympic Games”. Each of these packs covered six areas, namely: History of the Olympic Movement; Olympism & Olympic Values; Well-being & Healthy Lifestyle; Social Responsibility, Involving Youth (Careers related to Sports); Sports Context (Career Management); and Risks in Sports. Some schools had in fact implemented their own Olympic education programmes even before the YOG bid was announced in July 2007 (“Getting schools involved”, *The Straits Times*, 24 Feb 2008, p. 38). This purpose of these educational programmes was to encourage fair play, integrity and team spirit.
 
@@ -56,13 +69,22 @@ As part of the preparation for the YOG, MOE put in place initiatives for schools
 
 MOE’s efforts in encouraging sports and improving the standard of physical education does not stop at winning the bid to host the Games. In May this year, the ministry inaugurated a Youth Sports Conference and announced a new physical education and sports development framework that covers mass participation programmes, specialised sports programmes and talent development programmes for its students. Its mass participation programmes aim to instil knowledge and the right attitudes in students towards sports so that they will continue to lead healthy lifestyles even after they graduate. The specialised sports programmes are intended to develop students’ interests in either coaching, sports science or sports administration, to which they can contribute in future. The last initiative in this framework is to groom potential sportspersons who can represent Singapore internationally (“Sports for youth”, *The Straits Times*, 26 May 2010, p. B10). 
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/17236501%20-%2019_08_2010.jpg">
+ <div style="background-color: white;">Abdud Dayyan bin Mohamed Jaffar in action during the mixed team bronze medal archery match against Spain. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
+
 #### **Conclusion**
 
 Since the first physical education lessons were conducted in our schools, the seeds of sportsmanship and the goal of “*Citius*, *Altius*, *Fortius*” (Olympic motto in Latin, “Faster, Higher, Stronger”) have been planted. The success of the bid to host the Youth Olympic Games is not solely owed to the bidding committee's efforts, nor is it merely due to Singapore’s present economic political stability. The long road that Singapore has journeyed to prepare its people to earn the privilege to host the Games can be traced to the inception of sports and games in schools, and to Singaporean's determination to excel.
 
 In the years preceding Singapore’s independence, the progress of physical education and sports training in schools had been slow. It was only after independence that a national agenda made it mandatory for all schools to follow a formal Physical Education curriculum. As a result, schools became centres of sports and games development. In some instances, school teams and sportspersons also represented the country on its national team. This historical symbiotic relationship between physical education and sports training in schools, and the national sporting scene has been underscored by the Ministry of Education’s involvement in the Youth Olympic Games. In this context, the National Library is privileged to have in its collection many of the curricula text and teachers’ guides on Physical Education and programmes for sporting meets. Collectively, they form a documented memory of Singapore’s sporting and education history.
 
-**The author wishes to acknowledge the contributions of Tim Yap Fuan, Principal Librarian, Central Library, National University of Singapore, in reviewing this article.**
+**The author wishes to acknowledge the contributions of Tim Yap Fuan, Principal Librarian, Central Library, National University of Singapore, in reviewing thi
+s article.**
 
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Tong%20Bao%20.jpg" style="width: 100px; height: 100px;"/><center><b>Wee Tong Bao</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 
