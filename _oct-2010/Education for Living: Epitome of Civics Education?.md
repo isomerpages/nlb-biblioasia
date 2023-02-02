@@ -74,7 +74,10 @@ The Goh Report’s observations on the secondary schools’ civics syllabus were
 
 In 1978, the Prime Minister commissioned the Education Study Team to conduct a major review of the problems faced by Singapore's education system. A reading of Singapore’s Parliamentary Hansard in the 1970s revealed that many aspects of Singapore’s education system were heavily criticised by the MPs during the annual Committee of Supply debates — the criticisms of EFL were but one of many items over which the MPs took issue with the MOE. What prompted the review was the high drop-out rate following the implementation of mandatory bilingual education, which the Goh Report termed as “educational wastage”. The major recommendation of the study team was the streaming of students at the Primary Three level according to English language ability. This was to have major implications on Singapore’s educational landscape in the years to come. The resultant education structure was referred to as the “New Education System”.3
 
-While the Goh Report commented on EFL and the civics syllabus, the teaching of civics was not the primary focus of the Education Study Team. The Prime Minister’s open letter to the Education Study Team, which was published in the Goh Report, reflected his thinking on the role of education in general, and on civics and citizenship education in particular. In his letter, the Prime Minister pointed out that he Goh Report didnot touch upon moral and civics education. He regarded a good citizen to be “guided by moral principles” and imbued with “basic common norms of social behaviour, social values, and moral precepts which make up the rounded Singaporeans of tomorrow” (Goh, 1979, pp. iv—v). Thus, “\[t\]he best features of our different ethnic, cultural, linguistic, and religious groups must be retained…. No child should leave school after 9 years without having the ‘soft-ware’ of his culture programmed into his sub-conscious” (ibid., p. v). This is reminiscent of a speech he delivered in November 1966 where he decried the lack of social and civic responsibility in school children. The Prime Minister’s main concern was evidently based on the importance of instilling a sound moral upbringing in students, and not so much on teaching the theoretical aspects of civics and democratic values. Moreover, he apparently found the existing civics education programmes wanting in the teaching of moral values.
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationLiving/S'pore%20new%20education%20system1.jpg">
+ <div style="background-color: white;">All rights reserved, Institute of Southeast Asian Studies, 1988.</div>
+
+While the Goh Report commented on EFL and the civics syllabus, the teaching of civics was not the primary focus of the Education Study Team. The Prime Minister’s open letter to the Education Study Team, which was published in the Goh Report, reflected his thinking on the role of education in general, and on civics and citizenship education in particular. In his letter, the Prime Minister pointed out that he Goh Report did not touch upon moral and civics education. He regarded a good citizen to be “guided by moral principles” and imbued with “basic common norms of social behaviour, social values, and moral precepts which make up the rounded Singaporeans of tomorrow” (Goh, 1979, pp. iv—v). Thus, “\[t\]he best features of our different ethnic, cultural, linguistic, and religious groups must be retained…. No child should leave school after 9 years without having the ‘soft-ware’ of his culture programmed into his sub-conscious” (ibid., p. v). This is reminiscent of a speech he delivered in November 1966 where he decried the lack of social and civic responsibility in school children. The Prime Minister’s main concern was evidently based on the importance of instilling a sound moral upbringing in students, and not so much on teaching the theoretical aspects of civics and democratic values. Moreover, he apparently found the existing civics education programmes wanting in the teaching of moral values.
 
 In response to the Prime Minister’s concerns on moral education, in October 1978, the Deputy Prime Minister appointed Mr Ong Teng Cheong, the Minister for Communications and Acting Minister for Culture, to head a team of parliamentarians to “examine the existing moral education programme in schools” (Ong, 1979, p. i). The objectives of this Committee were as follows:
 
@@ -82,7 +85,13 @@ In response to the Prime Minister’s concerns on moral education, in October 19
 
 Unlike the Education Study team, which had no terms of reference, the Moral Education Committee had specific guidelines. First, it had to determine the best ways in which to instill within students desirable moral values (honesty, industry, respect for family, cleanliness and thrift). Next, it had to reassess the existing Education for Living Program in primary schools and the Civics syllabus in secondary schools. The Committee also had to make recommendations on how to select teachers who could teach the moral education program in schools (ibid.). 
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/EducationLiving/1%20v2.jpg">
+ <div style="background-color: white;">Press Conference on Moral Education, 1972. <i>Collection of Ong Teng Cheong, courtesy of National Archives of Singapore</i></div>
+
 In July 1979, the Moral Education Committee released its report, popularly referred to as the Ong Teng Cheong Report or Ong Report. The report observed that “Civics and EFL are two different and distinct programmes handled by two different subject committees”, resulting in a lack of continuity and reinforcement of “the inculcation of desirable moral and social attitudes in Primary and Secondary Schools” (Ong, 1979, p. 4). This was because “each committee works on its own, each with a different approach and emphasis” (ibid.).
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationLiving/Report%20on%20Moral%20Education%20v2_1.jpg">
+ <div style="background-color: white;">All rights reserved, Ministry of Education, Singapore, 1979.</div>
 
 The Moral Education Committee found the EFL syllabus to be “on the whole quite appropriate and acceptable”, apart from these shortcomings:
 
@@ -118,9 +127,3 @@ Taiwan, in reviewing the paper.**
 <br/>
 <img src="/images/Authors/Chia%20Yeow%20Tong_photo.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Chia Yeow Tong</b><br>Lee Kong Chian Research Fellow (2010)<br> National Library </center></div>
-
-
-
-
-
-
