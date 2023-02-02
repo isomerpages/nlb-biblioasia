@@ -110,5 +110,17 @@ Cargill’s public bathhouses are only part of a wider story about how people in
 
 The municipal bathhouse programme produced only three defined structures, and the fact that they lasted little more than a decade shows them as a transitional feature in Singapore’s history of water access. These bathhouses came from a time when public and open bathing was common, where racial and colonial discourse maligned the sight of the naked poor who tried to clean themselves. The bathhouses were part of a longer policy that tried to obscure public washing, and which fused morality with ideas of hygiene to try to permanently separate and classify the functions of different bodies of water.
 
-Municipal bathhouses also brought early access to the town’s reservoir, which aimed to provide centralised water distribution. But as the reservoir scheme gradually succeeded and more homes were connected to the town supply, these municipal bathhouses became less important. By the mid-1890s, Singapore’s public bathhouses had faded into oblivion. 
+Municipal bathhouses also brought early access to the town’s reservoir, which aimed to provide centralised water distribution. But as the reservoir scheme gradually succeeded and more homes were connected to the town supply, these municipal bathhouses became less important. By the mid-1890s, Singapore’s public bathhouses had faded into oblivion.
 
+#### **NOTES**
+
+[^1]: “[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18660111-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1866, 2. (From NewspaperSG)
+
+[^2]: Nemo, “[A Growler](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18760711-1.2.4.2),” _Straits Observer_, 11 July 1876, 2. (From NewspaperSG)
+
+[^3]: “[To Correspondents](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18431019-1.2.8),” _Singapore Free Press and Mercantile Advertiser_, 19 October 1843, 2; “[The Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18490419-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 19 April 1849, 2; “[The Grand Jury’s Presentment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18490425-1.2.13),” _Straits Times_, 25 April 1849, 3. (From NewspaperSG)
+
+[^4]: “[Tuesday 10th January](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710118-1.2.10.5),” _Straits Times Overland Journal_, 18 January 1871, 5. (From NewspaperSG)
+
+[^5]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18660111-1.2.4),” Singapore Free Press and Mercantile Advertiser, 
+11 January 1866, 2. (From NewspaperSG)
