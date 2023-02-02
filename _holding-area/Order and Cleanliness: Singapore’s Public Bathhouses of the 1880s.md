@@ -70,3 +70,14 @@ The contractor for the Clyde Terrace bathhouse was Cheah Keow (also spelt as Che
 Superintendent of Works J.H. Callcott also suspected that the supporting struts were removed early so that they could be used for another job, further weakening the structure. While the coroner reprimanded Cheah for this, he eventually ruled the deaths an accident.[^29]
 
 There was much unhappiness over the verdict. Discussions surrounding the evidence and the potentially conflicting roles of people involved continued in the press and in municipal meetings.[^30] One letter to the newspaper thought that the accounts given by Cargill and his deputy were incongruous, suggesting they had neglected their public duty to safety.[^31]
+
+While the Clyde Terrace bathhouse was eventually finished in December 1881 and Cheah bore the additional costs for completing it, some members of the public were increasingly questioning if Cargill and his assistant were really to blame for the tragedy.[^32] Cargill eventually sued two writers of the _Straits Intelligence_ for libel in February 1883, shortly before leaving his position in August that year.[^33] He did, however, remain in Singapore, establishing a civil engineering office and going on to contribute to the design and construction of the third Coleman Bridge in 1886.[^34]
+
+#### **A Decade of Decline**
+
+The three bathhouses designed by Cargill were in use for another decade, but newspapers made no announcements of new bathhouses after the Clyde Terrace inquest.
+
+Throughout the 1880s, these bathhouses drew attention because of the amount of water they used, or because of the occasional tensions between the municipality and the bathhouse operators. When completed, the right to manage these places was contracted out. The bathhouse operator then had rights to charge a fixed entry fee and run the place as a business, but he also had to pay agreed rates for town water. The role was re-tendered
+each year.[^35]
+
+In April 1881, Seng Yong Cheng, who managed the bathhouses at Ellenborough Market and Canton Street, asked to have his water rates reduced but was rejected.[^36] Although he claimed a loss on the business, the Municipality argued that there was disparity in the water used between the two bathhouses. In the previous month, Ellenborough Market attracted 15,339 bathers, who each used 16 gallons, while Canton Street drew only 3,687 people, each using 24 gallons.[^37] The municipal commissioners argued that if bathers at Canton Street could be encouraged to only use as much water as those at Ellenborough Market, then the business would begin to turn a profit. The town was keen not to lose any revenue on their very expensive water system.
