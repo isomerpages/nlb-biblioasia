@@ -129,15 +129,15 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^7]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18701025-1.2.9.12),” _Singapore Free Press and Mercantile Advertiser_, 1 February 1849, 3. (From NewspaperSG)
 
-[^8]: C.M. Turnbull, _A History of Modern Singapore 1819–2005_ (Singapore: NUS Press, 2009), 83. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
+[^8]: C.M. Turnbull, [<i>A History of Modern Singapore 1819–2005</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047) (Singapore: NUS Press, 2009), 83. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
 
-[^9]: “Municipal Commissioners,” _Straits Times_, 16 December 1856, 5. (From NewspaperSG)
+[^9]: “[Municipal Commissioners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18561216-1.2.17),” _Straits Times_, 16 December 1856, 5. (From NewspaperSG)
 
-[^10]: “Municipal Commissioners,” _Singapore Free Press and Mercantile Advertiser_, 1 April 1858, 3; “Municipal Commissioners,” _Singapore Free Press and Mercantile Advertiser_, 20 May 1858, 3. (From NewspaperSG)
+[^10]: “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18580401-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 1 April 1858, 3; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18580520-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 20 May 1858, 3. (From NewspaperSG)
 
-[^11]: “Untitled,” _Straits Times_, 31 December 1870, 2. (From NewspaperSG); Eugen von Ransonnet, “Bathing Place Near Selita,” chromolithograph, 45.4 × 49 cm, 1869, National Museum of Singapore, last updated 2 April 2021, https://www.roots.gov.sg/Collection-Landing/listing/1149079.
+[^11]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18701231-1.2.15.20),” _Straits Times_, 31 December 1870, 2. (From NewspaperSG); Eugen von Ransonnet, “Bathing Place Near Selita,” chromolithograph, 45.4 × 49 cm, 1869, National Museum of Singapore, last updated 2 April 2021, https://www.roots.gov.sg/Collection-Landing/listing/1149079.
 
-[^12]: “Municipal Engineer’s Office,” _Straits Observer_, 8 October 1875, 3. (From NewspaperSG)
+[^12]: “[Municipal Engineer’s Office](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18751008-1.2.9),” _Straits Observer_, 8 October 1875, 3. (From NewspaperSG)
 
 [^13]: “Municipal Commissioners,” _Straits Times_, 29 July 1876, 2. (From NewspaperSG)
 
