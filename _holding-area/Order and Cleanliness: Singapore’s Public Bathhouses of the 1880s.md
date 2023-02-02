@@ -139,8 +139,8 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^12]: “[Municipal Engineer’s Office](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18751008-1.2.9),” _Straits Observer_, 8 October 1875, 3. (From NewspaperSG)
 
-[^13]: “Municipal Commissioners,” _Straits Times_, 29 July 1876, 2. (From NewspaperSG)
+[^13]: “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18760729-1.2.12),” _Straits Times_, 29 July 1876, 2. (From NewspaperSG)
 
-[^14]: “The Municipality,” _Straits Times_, 26 October 1878, 1. (From NewspaperSG)
+[^14]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18781026-1.2.6),” _Straits Times_, 26 October 1878, 1. (From NewspaperSG)
 
-[^15]: “Legislative Council,” _Straits Times Overland Journal_, 29 June1872, 6; “Municipal Commissioners’ Office,” _Straits Times Overland Journal_, 2 June 1878, 4. (From NewspaperSG)
+[^15]: “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18720629-1.2.19),” _Straits Times Overland Journal_, 29 June1872, 6; “[Municipal Commissioners’ Office](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18780602-1.2.11),” _Straits Times Overland Journal_, 2 June 1878, 4. (From NewspaperSG)
