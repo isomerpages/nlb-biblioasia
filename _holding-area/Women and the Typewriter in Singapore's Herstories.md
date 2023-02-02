@@ -21,7 +21,7 @@ Female literacy rate was low in Singapore in the prewar period and women’s emp
 
 Shorthand and typing courses continued even during the period of the Japanese Occupation of Singapore (1942–45). Among the propaganda showcases were initiatives encouraging the progress of women through typewriting courses. Accounts in the English-language _Syonan Shimbun_ (the newspaper that replaced the _Straits Times_ during the occupation years) featured local Malay women undertaking typing courses as well as the introduction of the Kanji typewriter (which uses traditional Chinese characters).[^5]
 
-![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Students.png)
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Yusof_Ishak.png)
 <div style="background-color: white;">Yang Di-Pertuan Negara Yusof Ishak (with glasses) at a typing class at the Malay Craft Centre, 1962. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Tumultuous 50s**
