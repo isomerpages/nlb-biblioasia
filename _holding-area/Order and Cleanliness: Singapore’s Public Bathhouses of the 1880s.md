@@ -84,6 +84,9 @@ At the inquest on 25 August 1881, Cargill was called to explain and defend his d
 
 The contractor for the Clyde Terrace bathhouse was Cheah Keow (also spelt as Cheah Kiow), who had also built the Ellenborough Market and Canton Street bathhouses. Cheah had installed most of the roofing tiles at the bathhouse before planning to finish the building’s side framing. This was his usual practice, he said, so that there would be shelter while the works were underway. Ultimately, this is what made the building unable to withstand the storm.[^28]
 
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Blueprint.png)
+<div style="background-color: white;">Floorplan of a private bathhouse on Newton Road, 1905. It is similar to earlier examples of private bathhouses, but different from the municipal examples in that it is open on one side and has a separate bathing area and well. <i>Building Control Division Collection, courtesy of National Archives of Singapore (8012/1905).</i></div>
+
 Superintendent of Works J.H. Callcott also suspected that the supporting struts were removed early so that they could be used for another job, further weakening the structure. While the coroner reprimanded Cheah for this, he eventually ruled the deaths an accident.[^29]
 
 There was much unhappiness over the verdict. Discussions surrounding the evidence and the potentially conflicting roles of people involved continued in the press and in municipal meetings.[^30] One letter to the newspaper thought that the accounts given by Cargill and his deputy were incongruous, suggesting they had neglected their public duty to safety.[^31]
