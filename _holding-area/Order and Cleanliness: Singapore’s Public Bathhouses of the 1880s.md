@@ -144,3 +144,31 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 [^14]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18781026-1.2.6),” _Straits Times_, 26 October 1878, 1. (From NewspaperSG)
 
 [^15]: “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18720629-1.2.19),” _Straits Times Overland Journal_, 29 June1872, 6; “[Municipal Commissioners’ Office](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18780602-1.2.11),” _Straits Times Overland Journal_, 2 June 1878, 4. (From NewspaperSG)
+
+[^16]: “Untitled,” _Straits Times_, 21 December 1878, 5; “Municipal Commissioners,” _Straits Times_, 21 February 1874, 2; “Municipal Commissioners,” _Straits Times_, 21 March 1874, 2. (From NewspaperSG)
+
+[^17]: “The Municipality,” _Singapore Daily Times_, 26 May 1879, 3; “The Municipality,” _Singapore Daily Times_, 22 July 1879, 3. (From NewspaperSG)
+
+[^18]: “The Municipality,” _Singapore Daily Times_, 19 February 1880, 2. (From NewspaperSG)
+
+[^19]: “The Municipality,” _Singapore Daily Times_, 18 March 1880, 2. (From NewspaperSG)
+
+[^20]: Brenda S.A. Yeoh, _Contesting Space in Colonial Singapore: Power Relations and the Built Environment_ (Singapore: Singapore University Press, 2003), 178. (From National Library, Singapore, call no. RSING 307.76095957 YEO)
+
+[^21]: “Municipal Engineers Office,” _Singapore Daily Times_, 19 February 1880, 3; “The Municipality,” _Singapore Daily Times_, 3 August 1880, 3. (From NewspaperSG)
+
+[^22]: “The Municipality,” _Singapore Daily Times_, 4 August 1880, 2. (From NewspaperSG)
+
+[^23]: “Wednesday 2nd February,” _Straits Times Overland Journal_, 9 February 1881, 7. (From NewspaperSG)
+
+[^24]: “The Municipality,” _Singapore Daily Times_, 15 December 1880, 2; “Municipal Engineer’s Office “The Municipality,” _Singapore Daily Times_, 14 March 1881, 3; “The Municipality,” _Singapore Daily Times_, 14 May 1881, 2. (From NewspaperSG)
+
+[^25]: “The Municipality,” _Singapore Daily Times_, 10 June 1881, 2. (From NewspaperSG)
+
+[^26]: “Untitled,” _Straits Times Overland Journal_, 25 August 1881, 6; “The Fallen Bathing House: The Inquest,” _Singapore Daily Times_, 26 August 1881, 2. (From NewspaperSG)
+
+[^27]: “The Fallen Bathing House: The Inquest.”
+
+[^28]: “The Fallen Bathing House: The Inquest.”
+
+[^29]: “The Fallen Bathing House: The Inquest.”
