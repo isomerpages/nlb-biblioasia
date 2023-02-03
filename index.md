@@ -61,15 +61,6 @@ sections:
       alt: Asian Film Archive
       image: /images/Vol 18 Issue 4/Asian Film/image9.png
   - infopic:
-      title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
-      subtitle: Culture
-      description: Thaipusam speaks of a migratory community that carries its
-        deep-rooted cultural tradition wherever its people go.
-      button: Carrying the <i>kavadi</i>
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
-      alt: Thaipusam
-      image: /images/Kavadi resized.jpg
-  - infopic:
       title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
       subtitle: Culture
       description: The local Taoist pantheon includes goddesses only found in
@@ -144,6 +135,15 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
+  - infopic:
+      title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
+      subtitle: Culture
+      description: Thaipusam speaks of a migratory community that carries its
+        deep-rooted cultural tradition wherever its people go.
+      button: Carrying the <i>kavadi</i>
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
+      alt: Thaipusam
+      image: /images/Kavadi resized.jpg
   - infopic:
       title: From Sarong Island with Love
       subtitle: places
