@@ -37,6 +37,9 @@ These regulations were partly driven by the European community’s ideas of mora
 
 However, the municipal commissioners soon realised that the number of bathing places initially approved were too few, and asked the surveyor general to look into the matter in 1858. He advised establishing new bathing sites at Telok Ayer, Havelock Road, Government Hill (now Fort Canning), Orchard Road, Rochor Canal and South Bridge Road.[^10] This was not a provision of new water sources but rather a reclassification of water, along with the construction of some new modesty barriers.
 
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Buffalos.png)
+<div style="background-color: white;">The Rochor River was a commonly used and approved bathing place, 1880. <i>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.</i></div>
+
 Not all sanctioned bathing places were in the town though. There was one in Seletar, illustrated in a print by the Austrian painter Eugen von Ransonnet in 1869 when he stayed nearby, and one in Bedok that was washed away in heavy rains in December 1870.[^11] But bathing spots were determined by the concentration of people, so most were found in the town where they could also be most easily regulated.
 
 Municipal Engineer W.T. Carrington’s report on the Singapore River on 4 October 1875 noted 42 public baths along the banks of this river alone, with the Rochor Canal and Kallang River also having their own official bathing places.[^12] And whether these were at wells, canals or in specialised tanks, the laws regulating public washing also made each of these places the responsibility of the municipal commissioners; by 1876, the town was paying $5,000 annually to maintain them.[^13]
