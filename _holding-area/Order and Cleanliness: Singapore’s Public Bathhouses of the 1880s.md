@@ -4,7 +4,6 @@ permalink: /holding-area/public-bathhouses-singapore/
 description: ""
 ---
 #### Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century.
-
 By Jesse O’Neill
 
 In late 19th-century Singapore, people had few options for getting the water they needed for washing themselves. They might have wells in their home to draw water, or they would use public ones. Those with the means could pay the _tukang air_ (Malay for water carrier) to deliver water, while others might venture out to nearby streams. Obtaining water was difficult and required effort, and there were noted distinctions in water access between the wealthy and the poor.
@@ -111,6 +110,11 @@ Cargill’s public bathhouses are only part of a wider story about how people in
 The municipal bathhouse programme produced only three defined structures, and the fact that they lasted little more than a decade shows them as a transitional feature in Singapore’s history of water access. These bathhouses came from a time when public and open bathing was common, where racial and colonial discourse maligned the sight of the naked poor who tried to clean themselves. The bathhouses were part of a longer policy that tried to obscure public washing, and which fused morality with ideas of hygiene to try to permanently separate and classify the functions of different bodies of water.
 
 Municipal bathhouses also brought early access to the town’s reservoir, which aimed to provide centralised water distribution. But as the reservoir scheme gradually succeeded and more homes were connected to the town supply, these municipal bathhouses became less important. By the mid-1890s, Singapore’s public bathhouses had faded into oblivion.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+	<b>Dr Jesse O’Neill</b> is a design historian and senior lecturer at the Chelsea College of Arts, University of the Arts London. His research focuses on the materiality of modernising lifestyles in the former British colonies of Southeast Asia. He has previously written on Singapore’s postwar swimming pools, garden city planning, design promotions and colonial pavilions at the British Empire Exhibition.</div>
 
 #### **NOTES**
 
