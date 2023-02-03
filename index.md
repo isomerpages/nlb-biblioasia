@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
   - infopic:
+      title: Women and the Typewriter in Singapore’s Herstories
+      subtitle: Women
+      description: The humble typewriter helped women become better educated, enter
+        the workforce and contribute to society.
+      button: "Women and the Typewriter "
+      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
+      image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
+        Typewriter_Home page.jpg
+      alt: Women Typewriters
+  - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
       subtitle: Sports
       description: Two remarkable athletes served up a storm to make Malaya a tennis
@@ -354,14 +364,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: Women and the Typewriter in Singapore’s Herstories
-      subtitle: Women
-      description: The humble typewriter helped women become better educated, enter
-        the workforce and contribute to society.
-      button: "Women and the Typewriter "
-      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
-        Typewriter_Home page.jpg
-      alt: Women Typewriters
 ---
