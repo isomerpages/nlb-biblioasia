@@ -180,11 +180,11 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^32]: “[From the Daily Times, 28th December](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811231-1.2.11),” _Straits Times Overland Journal_, 31 December 1881, 3; “[The Fallen Bathing House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811008-1.2.29),” _Straits Times Overland Journal_, 8 October 1881, 10. (From NewspaperSG)
 
-[^33]: “Supreme Court,” _Straits Times Weekly Issue_, 26 February 1883, 6; “Testimonial to the Municipal Engineer,” _Straits Times_, 27 August 1883, 2. (From NewspaperSG)
+[^33]: “[Supreme Court](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18830226-1.2.4.12),” _Straits Times Weekly Issue_, 26 February 1883, 6; “[Testimonial to the Municipal Engineer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18830827-1.2.11),” _Straits Times_, 27 August 1883, 2. (From NewspaperSG)
 
-[^34]: “The Municipality,” _Straits Times_, 5 November 1886, 3; “The Municipality,” _Straits Times Weekly Issue_, 15 November 1886, 8. (From NewspaperSG)
+[^34]: “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18861105-1.2.28),” _Straits Times_, 5 November 1886, 3; “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18861115-1.2.34),” _Straits Times Weekly Issue_, 15 November 1886, 8. (From NewspaperSG)
 
-[^35]: “The Municipality,” _Singapore Daily Times_, 16 December 1879, 3; “The Municipality,” _Singapore Daily Times_, 19 February 1880, 2; “The Municipality,” _Straits Times_, 17 January 1884, 3; “Municipal Notice,” _Straits Times_, 22 November 1884, 122. (From NewspaperSG)
+[^35]: “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18791216-1.2.19.4),” _Singapore Daily Times_, 16 December 1879, 3; “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18800219-1.2.15.3),” _Singapore Daily Times_, 19 February 1880, 2; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18840117-1.2.22),” _Straits Times_, 17 January 1884, 3; “[Municipal Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18841122-1.2.3.2),” _Straits Times_, 22 November 1884, 122. (From NewspaperSG)
 
 [^36]: “The Municipality,” _Singapore Daily Times_, 5 April 1881, 3; “The Municipality,” _Singapore Daily Times_, 14 April 1881, 3. (From NewspaperSG)
 
@@ -199,6 +199,3 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 [^41]: “The Municipality,” _Singapore Daily Times_, 19 February 1880, 2. (From NewspaperSG)
 
 [^42]: “The Municipality,” _Singapore Daily Times_, 26 May 1879, 3; “The Municipality,” _Singapore Daily Times_, 14 September 1880, 2. (From NewspaperSG)
-
-
-
