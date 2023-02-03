@@ -161,8 +161,7 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^4]: “[Tuesday 10th January](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710118-1.2.10.5),” _Straits Times Overland Journal_, 18 January 1871, 5. (From NewspaperSG)
 
-[^5]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18660111-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 
-11 January 1866, 2. (From NewspaperSG))
+[^5]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18660111-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1866, 2. (From NewspaperSG))
 
 [^6]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860617-1.2.10),” _Straits Times Weekly Issue_, 17 June 1886, 2. (From NewspaperSG)
 
@@ -212,8 +211,7 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^29]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
 
-[^30]: “[Friday 26th August](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810901-1.2.16),” _Straits Times Overland Journal_, 1 September 1881, 7; “[From the Daily Times, 4th October](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811008-1.2.13),” _Straits Times Overland Journal_, 
-8 October 1881, 4. (From NewspaperSG)
+[^30]: “[Friday 26th August](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810901-1.2.16),” _Straits Times Overland Journal_, 1 September 1881, 7; “[From the Daily Times, 4th October](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811008-1.2.13),” _Straits Times Overland Journal_, 8 October 1881, 4. (From NewspaperSG)
 
 [^31]: “[The Fallen Bathing House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810909-1.2.14.2),” _Straits Times Overland Journal_, 9 September 1881, 5. (From NewspaperSG)
 
