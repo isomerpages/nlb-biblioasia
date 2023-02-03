@@ -84,8 +84,3 @@ This essay attempts to map out the interconnectivity among educational movements
 This study reacts to two dominant approaches in present scholarship on the subject. It distorts the conventional perspective that the Nanyang Chinese uncritically and unconditionally supported the Chinese state. This romanticised view has been questioned by more recent studies that emphasise the autonomy of the Nanyang Chinese ambitions that were separate from China’s. Moreover, it illustrates weaknesses of both unidirectional approaches mentioned above. By using Chinese, Dutch, English and Malay sources, this essay concludes that visions of diasporic Chinese were continuously shaped by the dynamic relationship between educational movements in the Dutch Indies, Straits Settlements and China.
 
 **The author would like to acknowledge the contributions of Professor Eric Tagliacozzo, Associate Professor, Department of History, Cornell University, USA, in reviewing this research essay.**
-
-
-
-
-
