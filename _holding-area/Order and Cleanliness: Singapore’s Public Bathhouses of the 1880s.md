@@ -173,12 +173,12 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^29]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
 
-[^30]: “Friday 26th August,” _Straits Times Overland Journal_, 1 September 1881, 7; “From the Daily Times, 4th October,” _Straits Times Overland Journal_, 
+[^30]: “[Friday 26th August](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810901-1.2.16),” _Straits Times Overland Journal_, 1 September 1881, 7; “[From the Daily Times, 4th October](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811008-1.2.13),” _Straits Times Overland Journal_, 
 8 October 1881, 4. (From NewspaperSG)
 
-[^31]: “The Fallen Bathing House,” _Straits Times Overland Journal_, 9 September 1881, 5. (From NewspaperSG)
+[^31]: “[The Fallen Bathing House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810909-1.2.14.2),” _Straits Times Overland Journal_, 9 September 1881, 5. (From NewspaperSG)
 
-[^32]: “From the Daily Times, 28th December,” _Straits Times Overland Journal_, 31 December 1881, 3; “The Fallen Bathing House,” _Straits Times Overland Journal_, 8 October 1881, 10. (From NewspaperSG)
+[^32]: “[From the Daily Times, 28th December](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811231-1.2.11),” _Straits Times Overland Journal_, 31 December 1881, 3; “[The Fallen Bathing House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18811008-1.2.29),” _Straits Times Overland Journal_, 8 October 1881, 10. (From NewspaperSG)
 
 [^33]: “Supreme Court,” _Straits Times Weekly Issue_, 26 February 1883, 6; “Testimonial to the Municipal Engineer,” _Straits Times_, 27 August 1883, 2. (From NewspaperSG)
 
@@ -192,8 +192,13 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^38]: “Page 2 Advertisements Column 4,” _Singapore Daily Times_, 4 June 1878, 2. (From NewspaperSG)
 
+[^39]: “An Unknown Club,” _Singapore Daily Times_, 17 May 1878, 3. (From NewspaperSG)
 
+[^40]: “From the Daily Times, 4th October.”
 
+[^41]: “The Municipality,” _Singapore Daily Times_, 19 February 1880, 2. (From NewspaperSG)
+
+[^42]: “The Municipality,” _Singapore Daily Times_, 26 May 1879, 3; “The Municipality,” _Singapore Daily Times_, 14 September 1880, 2. (From NewspaperSG)
 
 
 
