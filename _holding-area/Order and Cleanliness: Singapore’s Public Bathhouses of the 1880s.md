@@ -116,6 +116,10 @@ By the end of the 1880s, the profits of municipal bathhouses were diminishing; p
 
 In 1890, bathhouse operator Tan Beng Wan asked the commissioners why he was facing decreased revenue. The response was that more members of the “coolie class” now had piped water for washing at home.[^44] That he even asked this question suggests that Tan was not pleased about having bought into a failing endeavor, but both he and the Municipality were then facing a change in public attitude that was finally starting to accept reservoir supply and the payment of water bills. 
 
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Women.png)
+<div style="background-color: white;">This studio image by Lambert & Co. is of three local women preparing to bathe, 1890. However, it is a heavily stylised European image of the activity. <i>Image reproduced from G.R. Lambert, Fotoalbum Singapur. (From BookSG).
+</i></div>
+
 The Clyde Terrace bathhouse was better utilised by the public, so Municipal Engineer James MacRitchie suggested closing the two at Ellenborough Market and Canton Street. However, the municipal commissioners preferred keeping them a while longer. The bathhouse on Canton Street would be repaired while the one at Ellenborough Market would be maintained for at least another year; it was going to be demolished when the market was rebuilt anyway.[^45] The municipal commissioners were gradually accepting that, as the _Straits Times_ reported, “in the heart of the town it was now impossible to make bathing-houses pay”.[^46]
 
 There were no further press references to the bathhouses after this. An 1893 map of Singapore town shows the bathhouses at Canton Street and Clyde Terrace Market, but not the one at Ellenborough Market.[^47] Unfortunately, there were no further town surveys of Singapore in the 19th century, so it is unknown when precisely the remaining bathhouses were removed. It is clear that both were being left to deteriorate before their removal; most likely, both were gone by 1895 at the latest.
