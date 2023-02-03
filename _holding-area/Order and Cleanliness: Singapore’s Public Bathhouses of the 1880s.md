@@ -112,6 +112,9 @@ The Clyde Terrace bathhouse was better utilised by the public, so Municipal Engi
 
 There were no further press references to the bathhouses after this. An 1893 map of Singapore town shows the bathhouses at Canton Street and Clyde Terrace Market, but not the one at Ellenborough Market.[^47] Unfortunately, there were no further town surveys of Singapore in the 19th century, so it is unknown when precisely the remaining bathhouses were removed. It is clear that both were being left to deteriorate before their removal; most likely, both were gone by 1895 at the latest.
 
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Map.png)
+<div style="background-color: white;">Map showing the public bathhouse at Clyde Terrace Market, 1893. <i>Image reproduced from Survey Department, Singapore, Plan of Singapore Town Showing Topographical Detail and Municipal Numbers, map, 1893. (From National Archives of Singapore, accession number SP002988).</i></div>
+
 From 1892, as municipal bathhouses were in their final decline, the press began once more paying increased attention to illegal public bathing, with cases being reported on Hill Street, Selegie Road, Anson Road and elsewhere on the island.[^48] In March 1896, the _Mid-day Herald_ reported that there was a need for a bathhouse near Telok Ayer Market to prevent the common practices of informal public bathing.[^49] This harks back to the kind of language used in the press before the introduction of municipal bathhouses, and suggests that by this time, bathing options had been significantly reduced.
 
 By the mid-1890s, the Municipality also uncovered more places using public water to operate illegal bathhouses. Tap water was charged on fixed rates then, so there were no additional costs for keeping it running. Most of these were coolie lodging houses or rickshaw depots, where large groups of men lived or congregated.[^50]
