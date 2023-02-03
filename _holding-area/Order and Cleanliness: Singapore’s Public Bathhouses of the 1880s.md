@@ -199,3 +199,27 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 [^41]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18800219-1.2.15.3),” _Singapore Daily Times_, 19 February 1880, 2. (From NewspaperSG)
 
 [^42]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18790526-1.2.14.4.6),” _Singapore Daily Times_, 26 May 1879, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18800914-1.2.10.4),” _Singapore Daily Times_, 14 September 1880, 2. (From NewspaperSG)
+
+[^43]: “Municipal Commissioners,” _Straits Times_, 9 May 1889, 3. (From NewspaperSG)
+
+[^44]: “Municipal Commission,” _Straits Times Weekly Issue_, 18 February 1890, 4. (From NewspaperSG)
+
+[^45]: “Municipal Commissioners”; “The Municipal President’s Progress Report for May 1889,” _Straits Times Weekly Issue_, 20 June 1889, 5. (From NewspaperSG)
+
+[^46]: “Municipal Commission.”
+
+[^47]: Survey Department, Singapore, _Plan of Singapore Town Showing Topographical Detail and Municipal Numbers_, map, 1893. (From National Archives of Singapore, accession no. SP002988)
+
+[^48]: “Correspondence,” _Daily Advertiser_, 10 August 1892, 3; “Local and General,” _Mid-day Herald_, 11 May 1895, 3; “Long Shore and Nautical Chat,” _Straits Times_, 25 September 1895, 3; “The Daily Advertiser Monday Aug. 1, 1892,” _Daily Advertiser_, 1 August 1892, 3. (From NewspaperSG)
+
+[^49]: “A Standing Nuisance,” _Mid-day Herald_, 31 March 1896, 2. (From NewspaperSG)
+
+[^50]: “Municipal Commission,” _Singapore Free Press and Mercantile Advertiser_, 7 May 1896, 3. (From NewspaperSG)
+	
+[^51]: Yeoh, _Contesting Space in Colonial Singapore_, 183.
+
+[^52]: See Lim Tin Seng, “Four Taps: The Story of Singapore Water,” _BiblioAsia_ 14, no. 1 (April–June 2018), 50–57.
+
+[^53]: “The Municipality,” _Singapore Daily Times_, 17 November 1880, 3; “The Singapore Canal,” _Singapore Daily Times_, 18 March 1881, 2; “Municipal Engineer’s Office,” _Straits Times Weekly Issue_, 28 June 1883, 12; “Notes from the Kampong,” _Singapore Free Press and Mercantile Advertiser_, 26 June 1886, 380. (From NewspaperSG)
+
+[^54]: For examples, see “Correspondence,” _Singapore Daily Times_, 11 May 1881, 3; “Before N.B. Dennys, Esq. Second Magistrate,” _Straits Times Weekly Issue_, 16 April 1883, 1; “Municipal Engineer’s Office,” _Straits Times Weekly Issue_, 28 June 1883, 12; “Local and General,” _Straits Times Weekly Issue_, 17 June 1886, 2; “Local and General,” _Straits Eurasian Advocate_, 28 April 1888, 6. (From NewspaperSG)
