@@ -172,3 +172,23 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 [^28]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
 
 [^29]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
+
+[^30]: “Friday 26th August,” _Straits Times Overland Journal_, 1 September 1881, 7; “From the Daily Times, 4th October,” _Straits Times Overland Journal_, 
+8 October 1881, 4. (From NewspaperSG)
+
+[^31]: “The Fallen Bathing House,” _Straits Times Overland Journal_, 9 September 1881, 5. (From NewspaperSG)
+
+[^32]: “From the Daily Times, 28th December,” _Straits Times Overland Journal_, 31 December 1881, 3; “The Fallen Bathing House,” _Straits Times Overland Journal_, 8 October 1881, 10. (From NewspaperSG)
+
+[^33]: “Supreme Court,” _Straits Times Weekly Issue_, 26 February 1883, 6; “Testimonial to the Municipal Engineer,” _Straits Times_, 27 August 1883, 2. (From NewspaperSG)
+
+
+
+
+
+
+
+
+
+
+
