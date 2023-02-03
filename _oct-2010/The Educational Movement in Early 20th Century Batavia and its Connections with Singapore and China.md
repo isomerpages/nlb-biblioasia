@@ -10,7 +10,7 @@ description: "Lee Kong Chian Research Fellow Oiyan Liu explores how movements of
 ---
 #### Lee Kong Chian Research Fellow _Oiyan Liu_ explores how movements of people, their thoughts and activities across Dutch-ruled Batavia, British-ruled Singapore and China were related to one another and how educational exchanges mutually shaped the political visions of diasporic Chinese.
 
-&emsp;&emsp;&emsp;***“I have observed that in the near future there will spring up one new<br>&emsp;&emsp;&emsp;independent country, the Malay Peninsula, the Straits Settlements. The<br>&emsp;&emsp;&emsp;masters of this new political division will certainly be Chinese … Now is the<br>&emsp;&emsp;&emsp;time for you students to build up your political ability, because the future<br>&emsp;&emsp;&emsp;masters of the Malay Peninsula are you students of this College.” ***  [^1]
+&emsp;&emsp;&emsp;***“I have observed that in the near future there will spring up one new***<br>&emsp;&emsp;&emsp;***independent country, the Malay Peninsula, the Straits Settlements.*** ***The***<br>&emsp;&emsp;&emsp;***masters of this new political division will certainly be Chinese … Now is the***<br>&emsp;&emsp;&emsp;***time for you students to build up your political ability, because the future***<br>&emsp;&emsp;&emsp;***masters of the Malay Peninsula are you students of this College.”***   [^1]
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Growing%20Pains.jpg">
  <div style="background-color: white;">All rights reserved, Yayasan Cipta Loka Caraka, 2002.</div>
