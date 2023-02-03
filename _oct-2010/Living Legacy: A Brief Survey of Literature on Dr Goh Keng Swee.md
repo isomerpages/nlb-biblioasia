@@ -54,4 +54,79 @@ It is hoped that this brief survey of published material on Dr Goh will prove a 
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">For further information or assistance, please contact the National Library’s enquiry service, Reference Point (<a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>) or visit us in person at the National Library Building on Victoria Street (11th floor, 10 am to 9 pm daily). </div>
 
-**The author wishes to acknowledge the contributions of Azizah Sidek, Principal Librarian, National Library, in reviewing this article.**
+**The author wishes to acknowledge the contributions of Azizah Sidek, Principal Librarian, National Library, in reviewing th
+is article.**
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Timothy%20Pwee.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Timothy Pwee</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
+
+
+#### **REFERENCES**
+
+
+Asad-ul, Iqbal Latiff. (2009). [_Lim Kim San: A builder of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13368871). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 363.585092 ASA
+
+Austin, Ian Patrick. (2004). [_Goh Keng Swee and Southeast Asian governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12304872). Singapore: Marshall Cavendish Academic. Call no.: RSING 338.95957 AUS
+
+Campbell, Colin. (1982, May 20). Singapore plans to revive study of Confucianism_. The New York Times._ Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Chew, Melanie. (1996). Goh Keng Swee. In [_Leaders of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7647597), pp. 141—150. Singapore: Resource Press. Call no.: RSING 920.05957 CHE
+
+Chua, Mui Hoong. (2010). [_Pioneers once more: The Singapore public service 1959–2009_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13559920)_._ Singapore: Public Service Division & Straits Times Press. Call no.: RSING 351.5957 CHU
+
+CQ transcriptions. (2008, March 5). _Congressional Testimony._ Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+[Dr Goh on ‘secret’ visit to Israel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590130-1.2.45). (1959, January 30). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+
+Goh, Keng Swee. (1995). [_Wealth of East Asian nations: Speeches and writings_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7490669)_._ Singapore: Federal Publications. Call no.: RSING 330.95957 GOH
+
+Goh, Keng Swee. (1977). [_The practice of economic growth_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082082)_._ Singapore: Federal Publications. Call no.: RSING 330.95957 GOH
+
+Goh, Keng Swee. (1972). [_The economics of modernization and other essays_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081636)_._ Singapore: Asia Pacific Press. Call no.: RSING 330.95957 GOH
+
+Goh, Keng Swee. (1967, 13 March). [_Parliamentary debates: Official report_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189), Vol. 25, cols. 1158—1165.  Singapore: Govt. Printer. Call no.: RSING 328.5957 SIN
+
+Goh, Keng Swee. (1960). [_This is how your money is spent_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981164)_._ Singapore: Ministry of Finance. Call no.: RCLOS 354.595700722 SIN
+
+Goh, Keng Swee. (1956). [_Urban incomes & Housing: A report on the social survey of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078476)_._ Singapore: Department of Social Welfare. Call no.: RCLOS 309.15957 GOH
+
+Goh, Keng Swee. (1940). [_The economic front: From a Malayan point of view_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4194597)_._ Singapore: Government Printers. Call no.: RRARE 330.19355 GOH; Microfilm no.: NL9715
+
+Goh, Keng Swee. (1931, June). My ambitions. [_The ACS magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5383088)_, 6_ (1), 55. Microfilm no.: NL7044
+
+Goh, Keng Swee. & The Education Study Team. (1979). [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172)_._ Singapore: Education Team. Call no.: RCLOS 370.95957 SIN
+
+Hanna, Willard. A. (1964). [_Go-ahead at Goh’s folly: Singapore’s gamble with industrial expansion_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4378988)_._ New York: American Universities Field Staff Inc. Call no.: RCLOS 338.95951 HAN
+
+Hon, Joan. (1984). [_Relatively speaking_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080147)_._ Singapore: Times Books International. Call no.: RSING 320.95957 HON
+
+Kuah, Adrian. (2007). [_Unchartered territory: Goh Keng Swee and the ST engineering story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12935032)_._ Singapore: ST Engineering. Call no.: RSING 338.7623095957 KUA
+
+Lam, Peng Er & Kevin Y.L. (eds.). (1999). [_Lee’s lieutenants: Singapore’s old guard_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9515549)_._ St Leonards, N.S.W.: Allen & Unwin. Call no.: RSING 320.95957 LEE
+
+Lee, Edwin. (2008). [_Singapore: The unexpected nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13068783)_._ Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.57 LEE
+
+Lee Hsien Loong. (2010, 23 May). _[Eulogy by prime minister Lee Hsien Loong at the state funeral service for the late Dr Goh Keng Swee at Singapore Conference Hall, Sunday 23 May 2010](https://www.nas.gov.sg/archivesonline/speeches/record-details/80b96253-115d-11e3-83d5-0050568939ad)_. Retrieved from National Archives of Singapore website.
+
+Nair, Shailaja. (2008). [_The master sculptor: Goh Keng Swee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12946841)_._ Singapore: SNP Editions. Call no.: RSING 959.5705092 NAI
+
+Ooi, Kee Beng. (2010, May 17). [Dr Goh, the pragmatic intellectual](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100517-1.2.13.1). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+
+People’s Action Party. (1959). [_The tasks ahead: PAP’s five-year plan, 1959–1964_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980815)_._ Singapore: Petir. Call no.: RCLOS 329.95957 PEO
+
+Silcock, Thomas. (1985). [_A history of economics teaching & graduates: Raffles College and the University of Malaya in Singapore 1935–1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080083)_._ Singapore: Department of Economics & Statistics, National University of Singapore. Call no.: RSING 378.5957 SIL
+
+Singapore. Ministry of Culture. (1977–2002). [_Speeches: A monthly collection of ministerial speeches_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183701). Singapore: Publicity Division, Ministry of Culture & Information Division, Ministry of Communications & Information. Call no.: RSING 354.5957035 S
+
+Tan, Siok Sun. (2007). [_Goh Keng Swee: A portrait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12899011)_._ Singapore: Editions Didier Miller. Call no.: RSING 959.5704092 TAN
+
+Turnbull, C. Mary. (2009). [_A history of modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204080111)_._ Singapore: NUS Press. Call no.: RSING 959.57 TUR
+
+Yap, Sonny, Richard Lim & Leong, Wei Kam. (2010). [_Men in white: The untold story of Singapore’s ruling political party_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13231750)_._ Singapore: Straits Times Press. Call no.: RSING 324.25957 YAP
+
+陈.剑. (2006). [浪尖逐梦 : 余柱业口述历史档案](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12798269). Petaling Jaya: 策略资讯研究中心. Call no.: Chinese RSING 959.5704 LJZ
+
+
