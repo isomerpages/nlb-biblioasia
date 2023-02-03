@@ -162,7 +162,7 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^4]: “[Tuesday 10th January](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710118-1.2.10.5),” _Straits Times Overland Journal_, 18 January 1871, 5. (From NewspaperSG)
 
-[^5]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18660111-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1866, 2. (From NewspaperSG))
+[^5]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18660111-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1866, 2. (From NewspaperSG)
 
 [^6]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860617-1.2.10),” _Straits Times Weekly Issue_, 17 June 1886, 2. (From NewspaperSG)
 
