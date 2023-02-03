@@ -113,8 +113,10 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2019%20Issue%201/Authors/Jessie_O'Neill.png" style="width: 100px; height: 100px;"/>
 	<b>Dr Jesse O’Neill</b> is a design historian and senior lecturer at the Chelsea College of Arts, University of the Arts London. His research focuses on the materiality of modernising lifestyles in the former British colonies of Southeast Asia. He has previously written on Singapore’s postwar swimming pools, garden city planning, design promotions and colonial pavilions at the British Empire Exhibition.</div>
+	
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **NOTES**
 
