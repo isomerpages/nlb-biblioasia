@@ -200,21 +200,21 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^42]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18790526-1.2.14.4.6),” _Singapore Daily Times_, 26 May 1879, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18800914-1.2.10.4),” _Singapore Daily Times_, 14 September 1880, 2. (From NewspaperSG)
 
-[^43]: “Municipal Commissioners,” _Straits Times_, 9 May 1889, 3. (From NewspaperSG)
+[^43]: “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18890509-1.2.26),” _Straits Times_, 9 May 1889, 3. (From NewspaperSG)
 
-[^44]: “Municipal Commission,” _Straits Times Weekly Issue_, 18 February 1890, 4. (From NewspaperSG)
+[^44]: “[Municipal Commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18900218-1.2.30),” _Straits Times Weekly Issue_, 18 February 1890, 4. (From NewspaperSG)
 
-[^45]: “Municipal Commissioners”; “The Municipal President’s Progress Report for May 1889,” _Straits Times Weekly Issue_, 20 June 1889, 5. (From NewspaperSG)
+[^45]: “[Municipal Commissioners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18890509-1.2.26)”; “[The Municipal President’s Progress Report for May 1889](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18890620-1.2.51),” _Straits Times Weekly Issue_, 20 June 1889, 5. (From NewspaperSG)
 
-[^46]: “Municipal Commission.”
+[^46]: “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18900218-1.2.30).”
 
-[^47]: Survey Department, Singapore, _Plan of Singapore Town Showing Topographical Detail and Municipal Numbers_, map, 1893. (From National Archives of Singapore, accession no. SP002988)
+[^47]: Survey Department, Singapore, [<i>Plan of Singapore Town Showing Topographical Detail and Municipal Numbers</i>](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f986ee6a-115c-11e3-83d5-0050568939ad), map, 1893. (From National Archives of Singapore, accession no. SP002988)
 
-[^48]: “Correspondence,” _Daily Advertiser_, 10 August 1892, 3; “Local and General,” _Mid-day Herald_, 11 May 1895, 3; “Long Shore and Nautical Chat,” _Straits Times_, 25 September 1895, 3; “The Daily Advertiser Monday Aug. 1, 1892,” _Daily Advertiser_, 1 August 1892, 3. (From NewspaperSG)
+[^48]: “[Correspondence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18920810-1.2.7),” _Daily Advertiser_, 10 August 1892, 3; “[Local and General](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18950511-1.2.9),” _Mid-day Herald_, 11 May 1895, 3; “[Long Shore and Nautical Chat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18950925-1.2.8.2),” _Straits Times_, 25 September 1895, 3; “[The Daily Advertiser Monday Aug. 1, 1892](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18920801-1.2.6),” _Daily Advertiser_, 1 August 1892, 3. (From NewspaperSG)
 
-[^49]: “A Standing Nuisance,” _Mid-day Herald_, 31 March 1896, 2. (From NewspaperSG)
+[^49]: “[A Standing Nuisance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18960331-1.2.4),” _Mid-day Herald_, 31 March 1896, 2. (From NewspaperSG)
 
-[^50]: “Municipal Commission,” _Singapore Free Press and Mercantile Advertiser_, 7 May 1896, 3. (From NewspaperSG)
+[^50]: “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960507-1.2.18),” _Singapore Free Press and Mercantile Advertiser_, 7 May 1896, 3. (From NewspaperSG)
 	
 [^51]: Yeoh, _Contesting Space in Colonial Singapore_, 183.
 
