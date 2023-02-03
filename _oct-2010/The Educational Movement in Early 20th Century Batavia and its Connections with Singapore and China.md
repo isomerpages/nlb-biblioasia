@@ -12,6 +12,8 @@ description: "Lee Kong Chian Research Fellow Oiyan Liu explores how movements of
 
 &emsp;&emsp;&emsp;***“I have observed that in the near future there will spring up one new<br>&emsp;&emsp;&emsp;independent country, the Malay Peninsula, the Straits Settlements. The<br>&emsp;&emsp;&emsp;masters of this new political division will certainly be Chinese … Now is the<br>&emsp;&emsp;&emsp;time for you students to build up your political ability, because the future<br>&emsp;&emsp;&emsp;masters of the Malay Peninsula are you students of this College.” ***  1
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Growing%20Pains.jpg">
+ <div style="background-color: white;">All rights reserved, Yayasan Cipta Loka Caraka, 2002.</div>
 
 The above quote is an extract from Juin Li’s lecture entitled *Chinese Emigrants and their Political Ability* which was delivered at Jinan College in Nanjing, China, on 8 February 1922. Jinan, established in 1906, was the first institution for higher education that was especially opened for overseas Chinese. Functioning under China’s central government, the school aimed at integrating the Chinese from Southeast Asia and trained Nanyang Chinese to become agents who would then spread China’s political influence overseas. The school, which was established after the educational movements in the Dutch East Indies and British Malaya had been initiated, first approached advocates of the educational movement in Java for institutional integration. Soon thereafter, Jinan also started to recruit students from British Malaya, particularly Singapore.
 
@@ -48,6 +50,9 @@ Connections with political activists from China such as the reformer Kang Youwei
 
 The first batch of students at Jinan came from Java.19 The Qing Empire and THHK had existing educational exchanges prior to the establishment of Jinan. By way of the Department of Education, it allowed THHK to request qualified teachers with certification from China to teach in Java.20 The THHK committee also selected students who would be sent to China.21 In China, these students received further education under the auspices of the Chinese government. The purpose was to nourish ties of Indies born Chinese towards “the motherland”, and to keep China’s national enterprises running. The press reported that the Chinese in the Indies were “stepchildren” who were abandoned by the Dutch Indies government but who were awakened and recognised by their own father (i.e., China) who had been previously “dormant”.22 It would be incorrect, however, to assume that the Nanyang Chinese enthusiastically embraced the Chinese government. It was noted that the Indies Chinese reacted to Qing’s outreach to Java with suspicion. One source reported “at first, our association \[THHK\] did not think of sending our kids to China, because we did not know if we could count on the Chinese state.”23 Questioning the accountability and reliability of the Qing state was understandable, for until 1893 Chinese subjects who left Qing territory without imperial approval were considered traitors of the Chinese state.24
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Jinan%20University.jpg">
+ <div style="background-color: white;">All rights reserved, Chi-nan Alumni Association, 2006.</div>
+
 On 21 February 1907, the first 21 students went to Nanjing.25 The Chinese court expanded its educational integration with other Chinese communities in maritime Southeast Asia in the second round of student recruitments. In 1908, Jinan recruited 38 students from Java and 54 students from Singapore, Kuala Lumpur and Penang. From 1908 onwards, the Qing regime requested that 45 Straits Chinese be sent to Jinan annually.26 The first students from Singapore include Lee Kong Chian, who had studied at Jinan for two years before furthering his studies at Qinghua Xuetang.27 Based on the curricula of Jinan, it can be concluded that the school not only aimed at nourishing national consciousness, but also training students to become leaders in the fields of finance, commerce and education — fields that were considered crucial by both China and Nanyang Chinese in order to compete with the Western imperial powers.
 
 #### ***Jinan: 1917—later 1920s***
@@ -62,6 +67,9 @@ Although organisational problems and the increasing desire for autonomy among ov
 
 The Dutch implemented counter-integrative measures a decade earlier than the British. At the beginning of the 20th century, the Dutch were already aware of the political indoctrination of the Indies Chinese through their connections with the Straits Chinese and Jinan. In 1909, Van Sandick reported that “\[t\]he most pressing issue of this private education \[i.e., THHK\] for Chinese children is not the instruction of the mandarin-language, not history, nor geography, but ideas. Ideas that indoctrinated into the mind of the Chinese youth.”32 The spread of ideas was described as the “yellow peril”. Borel, renowned specialist on Chinese matters in the Dutch Indies, expressed the feeling that the National Chinese Reader used in Chinese schools was completely filled with modern ideas and evoked nationalist consciousness. Yellow peril, therefore, does not refer to supremacy of military power, but refers to the threat of modern ideas. He expressed concern, and estimated that by the end of the first decade approximately 5,000 students were influenced by these ideas.33 It was during this period that the Dutch feared losing their authority over the Indies Chinese. The Dutch press expressed concern that Chinese movements in the Indies would endanger Dutch sovereignty in the Indies, mainly because these movements were nurtured from outside forces, particularly from China. Some Dutch authorities suggested revising the laws to secure political legitimacy over the Chinese. The Dutch were concerned with attracting the loyalty of Chinese settlers because they were regarded as the most industrious residents in the colony.34
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Chinese%20among.jpg">
+ <div style="background-color: white;">All rights reserved, Rowman & Littlefield, 2008.</div>
+
 Dutch paranoia of losing its political authority over its subjects made the colonial government modify its policies. In order for the Dutch to maintain political support of the Indies Chinese settlers, the colonial government competed with the Chinese government to provide state-sponsored education. In 1908, just about one year after pioneering students from Java sailed off to Jinan, the Dutch government established the “Hollandsche Chineesche School” (HCS, Dutch Chinese School) so as to create a setback for the Indies Chinese integrative tendencies towards aligning itself with China. Dutch motives for opening HCS were to compete with THHK and the Chinese government on controlling education. HCS’s curriculum aimed at “dutchifying” the Indies Chinese while THHK’s curricula promoted sinification.
 
 HCS’s foundation helped roll back the integrative process with China but was never successful in completely erasing the impact of Chinese schools on the political orientation of the Indies Chinese. A report on detained and expelled instructors reveals that Dutch paranoia of the threat of Chinese schools still persisted two decades after the establishment of HCS. The document *Huaqiao xuexiao jiaozhiyuan chujing ji beibubiao* reveals that in 1929 the Dutch punished 33 instructors.35 The list of names included mostly teachers from Java. All instructors were punished for political reasons, including teaching political ideologies (such as Sun Yat-sen’s *Three Principles of the People*) and using political tutorials.
@@ -74,6 +82,9 @@ Instructors were mostly expelled from the Indies. In a few cases instructors wer
 #### **Ambiguous Missions**
 
 What caused this colonial paranoia to emerge? What visions did institutional exchanges create? In 1927, Jinan released a public announcement, which stated that it wanted to prevent any misunderstanding with the imperial powers. The school stated that its mission followed Sun Yat-sen’s political framework that aimed at nourishing generations of Nanyang Chinese with good personalities, knowledge, interest and the capacity to survive. Jinan claimed that its task was to ensure that Chinese settlers and sojourners who were subject to colonial rule would obtain equal political status and economic treatment. Jinan stated: “We want to prevent misunderstanding of colonial governments, that is: we do not want them to think that Jinan’s national establishment is aimed at constituting a type of statism or imperialism. We do not want colonial powers to think that we instil students with thoughts of invading territories of others. We do not want them to think that once our students graduate and return to Nanyang, they will disrupt the authority of colonial rule and stir revolutions against colonial governments with indigenous inhabitants.”37
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Chinese%20Schools%20.jpg">
+ <div style="background-color: white;">All rights reserved, South Seas Society, 2006.</div>
 
 This document, written in Chinese, was presumably mainly targeted at Chinese communities in Southeast Asia. Instead of employing nationalistic terms that Jinan used in its foundational years, Jinan now used imperialistic vocabulary and attempted to distort its imperialistic tendencies by differentiating the Chinese government from Western imperialist powers. Instead of having imperialist and nationalist ambitions, Jinan claimed that the Guomindang’s goal was simply to achieve freedom and equality of China and have its *huaqiao* enjoy freedom in international settings. They urged the colonial powers to allow Chinese in Southeast Asia to manage Nanyang society in an autonomous manner.38
 
@@ -100,51 +111,3 @@ This study reacts to two dominant approaches in present scholarship on the subje
 <center><b>Oiyan Liu</b><br>Lee Kong Chian Research Fellow (2008)<br>National Library</center></div>
 
 #### **REFERENCES**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
