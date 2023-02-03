@@ -182,10 +182,15 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^33]: “Supreme Court,” _Straits Times Weekly Issue_, 26 February 1883, 6; “Testimonial to the Municipal Engineer,” _Straits Times_, 27 August 1883, 2. (From NewspaperSG)
 
+[^34]: “The Municipality,” _Straits Times_, 5 November 1886, 3; “The Municipality,” _Straits Times Weekly Issue_, 15 November 1886, 8. (From NewspaperSG)
 
+[^35]: “The Municipality,” _Singapore Daily Times_, 16 December 1879, 3; “The Municipality,” _Singapore Daily Times_, 19 February 1880, 2; “The Municipality,” _Straits Times_, 17 January 1884, 3; “Municipal Notice,” _Straits Times_, 22 November 1884, 122. (From NewspaperSG)
 
+[^36]: “The Municipality,” _Singapore Daily Times_, 5 April 1881, 3; “The Municipality,” _Singapore Daily Times_, 14 April 1881, 3. (From NewspaperSG)
 
+[^37]: “Municipal Engineer’s Office,” _Singapore Daily Times_, 14 April 1881, 3. (From NewspaperSG)
 
+[^38]: “Page 2 Advertisements Column 4,” _Singapore Daily Times_, 4 June 1878, 2. (From NewspaperSG)
 
 
 
