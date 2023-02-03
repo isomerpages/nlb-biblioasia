@@ -15,6 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
+      background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam.png
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
       subtitle: Sports
