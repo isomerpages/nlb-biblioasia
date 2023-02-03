@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
-      button: CARRYING THE  <I>KAVADI</I>
+      button: CARRYING<br>THE  <I>KAVADI</I>
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
