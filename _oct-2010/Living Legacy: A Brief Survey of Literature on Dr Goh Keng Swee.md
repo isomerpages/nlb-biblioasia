@@ -48,42 +48,10 @@ Many of Dr Goh’s other speeches and papers can be found on the National Archiv
 
 Many of Dr Goh’s other speeches and papers can be found on the National Archives’ a2o website. Significant speeches have been published separately as is the case with many budget speeches such as his 1960 speech, descriptively titled This is How Your Money is Spent; or in the government publication Speeches: A Monthly Collection of Ministerial Speeches. His speeches in Parliament can be found within the voluminous official Parliamentary record: Parliamentary Debates Singapore: Official Record. One of his most interesting speeches in the Debates was made on 13 March 1967 during the second reading of the 1967 Bill making National Service compulsory. Unfortunately, a search of these sources has not yet uncovered the paper Noah’s Ark Progresses Through the SAF, referred to by Prime Minister Lee Hsien Loong in his eulogy at Dr Goh's state Funeral on 23 May 2010 (Lee, 2010).
 
-Finally, yet another significant source of information is the newspapers. The most convenient and accessible source of these happens to be The Straits Times as it has been digitised and put online by the National Library at the NewspaperSG (newspapers.nl.sg) website. However, NewspaperSG coverage ends in 2006, and the twoweek-outpouring of news articles in The Straits Times starting with Dr Goh's passing on 14 May 2010 is not yet available. For that, one can either use the National Library's microfilm record of the newspapers or depend on the Factiva news database. Factiva is also useful for locating articles published in the foreign press over the past two to three decades.
+Finally, yet another significant source of information is the newspapers. The most convenient and accessible source of these happens to be The Straits Times as it has been digitised and put online by the National Library at the NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>) website. However, NewspaperSG coverage ends in 2006, and the twoweek-outpouring of news articles in The Straits Times starting with Dr Goh's passing on 14 May 2010 is not yet available. For that, one can either use the National Library's microfilm record of the newspapers or depend on the Factiva news database. Factiva is also useful for locating articles published in the foreign press over the past two to three decades.
 
 It is hoped that this brief survey of published material on Dr Goh will prove a useful starting point for researchers seeking to comprehend the legacy left by Dr Goh.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">For further information or assistance, please contact the National Library’s enquiry service, Reference Point (<a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>) or visit us in person at the National Library Building on Victoria Street (11th floor, 10 am to 9 pm daily). </div>
 
 **The author wishes to acknowledge the contributions of Azizah Sidek, Principal Librarian, National Library, in reviewing this article.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
