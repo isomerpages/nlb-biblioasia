@@ -22,7 +22,10 @@ The imagined necessity of racial segregation while bathing exaggerated these pro
 
 Widespread racial distinction in water access and the resulting complaints of Europeans finally prompted the Municipality to adopt a new programme of public bathhouses for the poor and labouring classes, aided by the new infrastructure of the town’s Impounding Reservoir (now known as MacRitchie Reservoir).
 
-This resulted in three public bathhouses being built by the Municipality in the 1880s. Located at Ellenborough Market, Canton Street and Clyde Terrace, these bathhouses relied on water piped in from the town’s reservoir. While these bathhouses were only in use for about a decade, they offer an interesting glimpse into a little-known slice of Singapore’s history. 
+This resulted in three public bathhouses being built by the Municipality in the 1880s. Located at Ellenborough Market, Canton Street and Clyde Terrace, these bathhouses relied on water piped in from the town’s reservoir. While these bathhouses were only in use for about a decade, they offer an interesting glimpse into a little-known slice of Singapore’s history.
+
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Bathhouse_map.png)
+<div style="background-color: white;">Detail from a map showing the locations of the Ellenborough Market and Canton Street bathhouses. <i>Images reproduced from Map of Singapore Town, Shewing Building Allotments & Registered Numbers of Crown Leases, sheet 2 (Singapore: Surveyor General’s Office, 1881). (From National Library, Singapore, call no. RRARE 912.5957 MAP-[LKL]).</i></div>
 
 #### **Regulations and Restrictions**
 
