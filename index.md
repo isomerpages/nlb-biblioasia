@@ -9,13 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
-      button: Taoist Folk Goddesses of Singapore
+      url: /vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
+      button: Thaipusam and Murugan<br> Worship in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Maiden Lim/MaidenLim_Hero.jpg
+      background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
+  - infopic:
+      title: Women and the Typewriter in Singapore’s Herstories
+      subtitle: Women
+      description: The humble typewriter helped women become better educated, enter
+        the workforce and contribute to society.
+      button: "Women and the Typewriter "
+      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
+      image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
+        Typewriter_Home page.jpg
+      alt: Women Typewriters
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
       subtitle: Sports
@@ -60,15 +70,6 @@ sections:
       url: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
       alt: Asian Film Archive
       image: /images/Vol 18 Issue 4/Asian Film/image9.png
-  - infopic:
-      title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
-      subtitle: Culture
-      description: Thaipusam speaks of a migratory community that carries its
-        deep-rooted cultural tradition wherever its people go.
-      button: Carrying the <i>kavadi</i>
-      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
-      alt: Thaipusam
-      image: /images/Kavadi resized.jpg
   - infopic:
       title: "Maiden Lim and Her Sisters: Taoist Folk Goddesses of S'pore"
       subtitle: Culture
@@ -144,6 +145,15 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
       image: /images/Loke Wan Tho portrait.jpg
       alt: Loke Wan Tho
+  - infopic:
+      title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
+      subtitle: Culture
+      description: Thaipusam speaks of a migratory community that carries its
+        deep-rooted cultural tradition wherever its people go.
+      button: Carrying the <i>kavadi</i>
+      url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
+      alt: Thaipusam
+      image: /images/Kavadi resized.jpg
   - infopic:
       title: From Sarong Island with Love
       subtitle: places
