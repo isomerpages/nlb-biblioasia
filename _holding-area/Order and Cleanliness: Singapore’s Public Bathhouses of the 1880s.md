@@ -163,12 +163,12 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^24]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18801215-1.2.6.3),” _Singapore Daily Times_, 15 December 1880, 2; “Municipal Engineer’s Office “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810314-1.2.8.4),” _Singapore Daily Times_, 14 March 1881, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810514-1.2.7.5),” _Singapore Daily Times_, 14 May 1881, 2. (From NewspaperSG)
 
-[^25]: “The Municipality,” _Singapore Daily Times_, 10 June 1881, 2. (From NewspaperSG)
+[^25]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810610-1.2.10.4),” _Singapore Daily Times_, 10 June 1881, 2. (From NewspaperSG)
 
-[^26]: “Untitled,” _Straits Times Overland Journal_, 25 August 1881, 6; “The Fallen Bathing House: The Inquest,” _Singapore Daily Times_, 26 August 1881, 2. (From NewspaperSG)
+[^26]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810825-1.2.8),” _Straits Times Overland Journal_, 25 August 1881, 6; “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3),” _Singapore Daily Times_, 26 August 1881, 2. (From NewspaperSG)
 
-[^27]: “The Fallen Bathing House: The Inquest.”
+[^27]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
 
-[^28]: “The Fallen Bathing House: The Inquest.”
+[^28]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
 
-[^29]: “The Fallen Bathing House: The Inquest.”
+[^29]: “[The Fallen Bathing House: The Inquest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810826-1.2.9.3).”
