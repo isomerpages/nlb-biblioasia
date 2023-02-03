@@ -44,7 +44,8 @@ In 1848, Singapore’s first Municipal Committee was established in an attempt t
 
 These regulations were partly driven by the European community’s ideas of morality, which saw public bathing as a nuisance, but which also responded to newer ideas about public hygiene. It was increasingly recognised that bathing bodies would contaminate drinking water and that it was similarly unhealthy to wash in polluted commercial waterways. The problem was intermingling water functions, and so the town sought to unpack and categorise Singapore’s waterbodies based on principles that merged and confused views on hygiene and morality. From this point, Singapore’s water sources were not all equal, and bathing was legally separated from other uses of water.
 
-![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/River_scene_and_huts.png)<div style="background-color: white;">A kampong in Singapore, early 20th century. People used the same water source to clean themselves, do the laundry, wash vegetables and rear poultry. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/River_scene_and_huts.png)
+<div style="background-color: white;">A kampong in Singapore, early 20th century. People used the same water source to clean themselves, do the laundry, wash vegetables and rear poultry. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 However, the municipal commissioners soon realised that the number of bathing places initially approved were too few, and asked the surveyor general to look into the matter in 1858. He advised establishing new bathing sites at Telok Ayer, Havelock Road, Government Hill (now Fort Canning), Orchard Road, Rochor Canal and South Bridge Road.[^10] This was not a provision of new water sources but rather a reclassification of water, along with the construction of some new modesty barriers.
 
