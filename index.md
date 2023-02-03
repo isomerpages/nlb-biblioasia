@@ -22,7 +22,7 @@ sections:
       description: The humble typewriter helped women become better educated, enter
         the workforce and contribute to society.
       button: "Women and the Typewriter "
-      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
+      url: https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
       image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
         Typewriter_Home page.jpg
       alt: Women Typewriters
