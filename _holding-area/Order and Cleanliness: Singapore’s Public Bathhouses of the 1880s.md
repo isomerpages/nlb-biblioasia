@@ -141,6 +141,9 @@ The municipal bathhouse programme produced only three defined structures, and th
 
 Municipal bathhouses also brought early access to the town’s reservoir, which aimed to provide centralised water distribution. But as the reservoir scheme gradually succeeded and more homes were connected to the town supply, these municipal bathhouses became less important. By the mid-1890s, Singapore’s public bathhouses had faded into oblivion.
 
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Plants.png)
+<div style="background-color: white;">A now-defunct well in the inner courtyard of an 1860s shophouse in Tanjong Pagar, 2022. <i>Photo by Jesse O’Neill.</i></div>
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2019%20Issue%201/Authors/Jessie_O'Neill.png" style="width: 100px; height: 100px;"/>
