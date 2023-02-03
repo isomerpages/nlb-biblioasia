@@ -53,6 +53,9 @@ The writing style of *The Economics of Modernization* also happens to be the mos
 
 Dr Goh’s first official report, *Urban Incomes & Housing* (1956), was completed while he was working in the Social Welfare Department. His next was a People’s Action Party policy document: *The Tasks Ahead: P.A.P.’s Five-year Plan, 1959—1964* (1959). Another significant report written by him is the *Report on the Ministry of Education 1978*. There are many more reports Dr Goh commissioned, such as the *Report on Moral Education 1979* whose committee was headed by Ong Teng Cheong; or the 1947 *A Social Survey of Singapore* on which he was a committee member.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/LivingLegacy/New%20PeoplesActionParty1959.jpg">
+ <div style="background-color: white;">All rights reserved, Petir, 1959.</div>
+
 Those interested in tracing the early developments in Dr Goh’s life can look to *The Economic Front*, published in 1940 just before the Japanese invasion of Malaya. This was his first academic paper (Silcock, p. 39). Another notable piece is his 1956 London School of Economics PhD thesis, *Techniques of National Income Estimation in Underdeveloped Territories, with Special Reference to Asia and Africa*. Though the original is owned by the London School of Economics, a microfilm copy resides with the National University of Singapore Library.
 
 However, the earliest known published work by Dr Goh comes from an earlier time: a simple essay written when he was a Standard Five Anglo-Chinese School student who wanted nothing more than “to become an engineer” because “China needs engineers, scientists, inventors and sailors badly ... to help her become one of the best nations in the world.” (Goh, *My ambitions*, 1931).
