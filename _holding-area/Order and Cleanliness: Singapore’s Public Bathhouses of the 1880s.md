@@ -72,6 +72,9 @@ There were two key distinctions between these structures and earlier municipal b
 
 Although the proposal to build a bathhouse on Jalan Sultan was soon abandoned, plans for a third bathhouse went ahead, and in 1881, the municipal commissioners requested government land at Clyde Terrace, next to the police station and close to the market.[^24] The land was granted in May 1881 and construction began soon after.[^25]
 
+![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Trishaw.png)
+<div style="background-color: white;">Clyde Terrace Market, c.1900. A bathhouse was built beside it in 1881. <i>Collection of Children’s Museum Singapore.</i></div>
+
 Unfortunately, an incident occurred during the building works, which damaged Cargill’s reputation. During a violent storm in August 1881, the half-finished Clyde Terrace bathhouse structure collapsed, killing two men who sheltered there from the rain. On hearing the crash, Sergeant Ramsamy ran from the neighbouring police station and saw Ngeo Tin, a revenue officer, pinned under heavy beams. He also saw an unnamed Malay fruit-seller lying nearby. Ramsamy lifted the beams from the Chinese man and discovered that he was dead. The Malay man was sent to hospital but died from head trauma 10 minutes after admission.[^26]
 
 At the inquest on 25 August 1881, Cargill was called to explain and defend his design and construction methods. He argued that this building used the same materials and techniques as did many other houses and municipal buildings across the town.[^27]
