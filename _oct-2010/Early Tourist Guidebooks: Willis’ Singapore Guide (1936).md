@@ -8,6 +8,9 @@ description: Senior Librarian Bonny Tan examines the Willis’ Singapore Guide, 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“*There is much that is interesting, novel and exotic to be&emsp;<br>&emsp;&emsp;&emsp;&emsp;seen by the intelligent visitor…”*<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Willis, 1936, p. 83)
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/StreetVendor.jpg">
+ <div style="background-color: white;">A cigarette vendor (Willis, 1936, p. 39).</div>
+
 First published in April 1934, *Willis’ Singapore Guide*[^1] seemed to fly off the printing press, running into three editions within the first year of its publication.[^2] By its 6th edition in 1936, it had colour illustrations and was printed on art paper.[^3] Its cost invariably increased from 40 cents to a dollar. Each subsequent edition offered new insights into Singapore and its way of life. The fact that it was being distributed for free to visiting merchant ships by the chaplains for The Missions to Seamen certainly helped boost its circulation. A newspaper article promised that this budget guide to Singapore will introduce the “stranger to the city … what to see, where to go, and what is more, the cheapest way to do it.”[^4] Certainly, its tips for budget stays, cheap travel outside Singapore and local eats made it “the answer to the tourist’s desire for finding his way around town.”[^5] Unlike other turn of the century guides that were often targeted at the wealthy traveller, *Willis’ Singapore Guide* was written especially for the well-travelled but less well-to-do sailors to the East.
 
 #### **The Sailor’s Welfare: The Missions to Seamen**
@@ -15,6 +18,9 @@ First published in April 1934, *Willis’ Singapore Guide*[^1] seemed to fly off
 In the 1930s, Singapore was already considered one of the world’s largest ports with its role primarily as a clearing station. It served as an important coaling centre with nearly all of its coal used to fuel visiting ships (Willis, 1936, p. 79). Despite the large number of sailors passing through Singapore on various merchant ships, the welfare of seamen was not always a priority.
 
 In 1926, The Missions to Seamen[^6] also known as Flying Angel was established in Singapore, headed by Rev. G. G. Elliot. It sought to become a home away from home for these itinerant seamen, providing everything from a roof over one’s head and a warm meal, to attending to stranded, ill or distressed sailors. John Ashley, an Anglican priest, founded the movement in 1837. When he was holidaying off Bristol, Ashley’s child inquired as to who ministered to the islanders across the Bristol Channel. The question led the priest to minister to the fishermen on the island and, subsequently, to the sailors on passing ships. In 1858, an Anglican entity named The Missions to Seamen was set up through an amalgamation of various ministries to seamen in Britain. Within six months, a request was made by concerned residents in Singapore for a Chaplain to minister to the spiritual needs of passing sailors.[^7] Although there were various forms of institutions and groups that served these sailors across several decades, it was more than half a century later, in 1926, when a monetary gift from a pilot’s widow for a Chaplain’s salary enabled The Missions to Seamen to take formal shape here.[^8]
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/The%20Missions%20to%20Seamen.jpg">
+ <div style="background-color: white;">The Missions to Seaman (Willis, 1936, p. 96)</div>
 
 By 1935, 10,245 sailors had visited The Missions to Seamen.[^9] This was because the visits The Missions made to ships totalled 1,310, displaying a more than three-fold increase against 1927 when only 391 ships were visited.[^10] Initially, in 1927, attendance for entertainment was 1,500, but the numbers had risen to 10,245 in 1935, portraying close to a ten-fold increase.[^11] In 1932, despite the world’s trade being “at a phenomenally low level”, the chaplain still visited 800 vessels that year.[^12]
 
@@ -28,11 +34,17 @@ Under his able and fun-loving leadership, there was a “glut of games”[^18] a
 
 Since Willis began work at the Marine Hostel in 1929, he had taken sailors around for tours of the city and beyond Singapore’s boundaries.[^22] At Johore they would visit pineapple farms, the Gunong Pulai water falls and Pontian Ketchil reservoir.[^23] In the 1930s, sometimes as many as a few hundred sailors would take the tour organised by the Seamen’s Institute.[^24] For example, in 1936, Willis took 700 American sailors from the United States Asiatic Fleet on tour through Singapore and beyond to Johore, Kota Tinggi and Pelepah Valley.[^25] Even as late as 1941, he accompanied sailors to Kota Tinggi where enroute, they stopped by pineapple plantations and rubber factories as well as tin mines.[^26] Willis’ passion and keen interest in travelling around Singapore and the Malay Peninsula gave shape to the *Guide* which he published on his own account.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/Kota%20Tinggi%20Waterfalls.jpg">
+ <div style="background-color: white;">Kota Tinggi Waterfalls (Willis, 1936, p. 156)</div>
+
 #### **A sailor's Insight**
 
 The guide begins with a brief historical prelude and proceeds to focus on the nuts and bolts of travel through Singapore and Malaya. Besides presenting tedious but essential details for the traveller, such as exchange rates and bank locations, Willis does offer details that are unique to the era and to the appetite of a sailor. It was, after all, written with the visiting seaman in mind, presenting the city to his interests and for his budget.
 
 For example, he highlights the services provided and the role of the authorities that initially board the ship upon berthing. The police are the first to enter and inspect passports. They are followed by Indian money changers whom Willis suggests give better rates than those on shore. Then come hotel runners and baggage porters who offer to take one’s luggage safely to one’s preferred residence or hotel for a charge of merely 10 cents for each piece of luggage carried off the ship and an added 10 cents to accompany it to its destination.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/Presentation1.jpg">
+ <div style="background-color: white;">(Left) Baggage service advertisement (Willis, 1936, p. 156)<br> (Right) Sunnyside boarding house advertisement (Willis, 1936, p. 36) </div>
 
 Again, with deference to the seaman’s perspective and budget, besides a listing of well-known hotels, the guide also recommends several boarding houses like Sunnyside on Oxley Road, Whitehall on Cairnhill Road and Morningside on River Valley. Advertisements of these quaint boarding houses are accompanied by photographs and further details of their proprietors and the services they provide.
 
@@ -43,6 +55,9 @@ Woven through his descriptions of places, Willis, ever the connoisseur of local 
 Local food is also highlighted as he recommends the Oi Mee hotel for its good Chinese dinner (Willis, 1936, p. 40).
 
 An entire chapter is dedicated to the Satai (Satay) Club, located along Beach Road between the Singapore Drill Hall and the Marlborough Picture Theatre (Shaw Towers). That it is mentioned in Willis’ 1936 guide quashes the commonly held belief that the Beach Road Satay Club was set up in post-war Singapore. This assumption may have arisen when the club relocated to Dhoby Ghaut in the 1950s because of frequent accidents occurring at the nearby Tay Koh Yat Bus Co terminus but poor business at that location led the Satay Club to return to Hai How Road (no longer in existence) where it had originally begun.[^27]
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/Satai.jpg">
+ <div style="background-color: white;">Satai at the docks (Willis, 1936, p. 149)</div>
 
 Satay was already a popular snack, offered by itinerant vendors.[^28] Willis suggests that the term “satae” and the snack itself are of Chinese origin, the term believed to mean “three pieces of meat” in a Chinese dialect (Willis, 1936, p. 145), although at the Satay Club it is mainly Malays who whip up this dish from a simple wooden box. The box carries the ingredients for the dish — sticks of partly cooked chicken, beef or mutton which are then grilled over a charcoal fire. An unending round of satay is dished out until the patron asks to stop. The top of the box is used as a tray with three stools strewn around it. Spicy sauce and a relish with onions accompany the barbecued sticks of meat. Willis gives details of how *satay* is popularly consumed by westerners in these humble circumstances. “After the cinema or when hotels are closed, it is not an uncommon sight to see European ladies and gentlemen in evening dress sitting around these ‘Satai’ stalls on the open road.” (Willis, 1936, p. 147). “When you have finished eating, the Malay (cook) will collect the sticks which have been used, and charge you two cents for each. And when I tell you that I have known people to eat as many as forty, and even sixty sticks of Satai’ — and that’s a good pound of meat — at one sitting, you will understand that the dish is a popular one amongst Europeans, as well as others.” (Willis, 1936, p. 148).
 
@@ -59,6 +74,9 @@ Traffic was controlled manually and it was a hot and difficult task. Willis cons
 “A large number of people complain when they go ashore, that Singapore is an expensive place to go round. That is not altogether true; every port of the world is expensive to move about in, especially if it should happen to be your first visit.” (Willis, 1936, p. 39).
 
 In keeping with the budgetary needs of his fellow sailors, Willis advises against the norm of travelling by rental cars and taxis and instead suggests travel by trolley buses as “the cheapest way to travel about” (Willis, 1936, p. 39). Besides tramcars, Willis also believes a rickshaw ride gives a good perspective to street life in Singapore although this does not beat the advantages of walking around the city.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/First%20Trolley.jpg">
+ <div style="background-color: white;">Singapore's first trolley bus in service... 1926 (Willis, 1936, p. 92)</div>
 
 For the seamen keen on experiencing “a cheap, comfortable, and very convenient way of seeing a good part of the City.” (Willis, 1936, p. 93), Willis promotes the tram route for No. 1 Trolleybus. The journey begins at Keppel Harbour and continues along the main line of the harbour, passing through the railway station, the Tanjong Pagar Police Station, key commercial offices such as that of F&N and Tiger Beer, and the all-important Sailors’ Institute at Anson Road for these seamen tourists, before it heads down Collyer Quay past banks and offices through the Anderson Bridge past the Victoria Memorial Hall to River Valley Road. Willis draws the tourist’s attention to the location of what once was the Singapore Railway Goods Terminus “long since dismantled and beyond the memory of most people. It is interesting to note that this valuable plot of land is being considered as a site for the proposed Aquarium” (Willis, 1936, p. 105). This was possibly the seed of an idea which would later become the Van Cleef Aquarium. Passing by the Tank Road Hindu Temple, which Willis calls the Chettiar Temple, he describes the “gruesome” spectacle of the annual Thaipusam in some detail, with the main attraction being a “man who trails a car behind him attached to his body by cords, on the end of which are hooks piercing the flesh.” (Willis, 1936, p. 105).
 
@@ -214,8 +232,3 @@ Wong, A.Y. (1997, March 9). [Satay clubs in the past](http://eresources.nlb.gov.
 [^31]: [The sights — for seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76). (1949, April 7). _The Straits Times_, p. 7.
 
 [^32]: [The seaman’s friend dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89). (1951, January 20). _The Straits Times_, p. 5.
-
-
-
-
-
