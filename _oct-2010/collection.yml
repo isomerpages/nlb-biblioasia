@@ -2,6 +2,7 @@ collections:
   oct-2010:
     output: true
     order:
+      - "Early Tourist Guidebooks: Willis’ Singapore Guide (1936).md"
       - "Living Legacy: A Brief Survey of Literature on Dr Goh Keng Swee.md"
       - Director's Column.md
       - Remembering Dr Goh Keng Swee (1918–2010).md
