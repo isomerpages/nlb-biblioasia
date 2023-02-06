@@ -36,3 +36,14 @@ Another unique and exciting resource for those interested in the Chinese Diaspor
 The far reach of these online resources is clearly demonstrated by the fact that the CIC Databank was accessed 18,958 times by users from 136 different countries between January 2009 and January 2010, according to data gathered by Google Analytics. For many these databases open doors to a wide variety of rich historical resources.
 
 **Individuals who would like additional information on any of the databases mentioned in this article may contact Jeffrey Ferrier, Curator of the Center for International Collections, Ohio University Libraries, at <a href="https://www.ohio.edu/cis/profile/ferrier">https://www.ohio.edu/cis/profile/ferrier</a>.**
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Photojferrier%20orig%20v2.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Jeffrey L. Ferrier</b><br>Curator<br> Center for International Collections<br> Ohio University Libraries</center></div>
+
+
+
+
+
