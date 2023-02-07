@@ -12,10 +12,3 @@ description: "Through news reports run in Singapore Daily Times, Lee Kong Chian
 
                              - *Singapore Daily Times*,
 														 26 December 1872
-
-                           
-															
-
-
-
-
