@@ -1,0 +1,6 @@
+collections:
+  jul-2010:
+    output: true
+    order:
+      - "Journey: A story About the Past and Future.md"
+      - Director's Column.md

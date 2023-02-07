@@ -3,9 +3,6 @@ title: The Singapore Chinese Community During the Japanese Occupation
 permalink: /jul-to-sep-2022/national-library-japanese-occupation-collection-english/
 description: ""
 ---
-
-
-
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
 By Lee Meiyu and Seow Peck Ngiam
 
@@ -106,7 +103,7 @@ Subsequently, the responsibilities of the Syonan-to Overseas Chinese Association
 
 Two primary documents in the Hsu Yun Tsiao Collection and Ya Yin Kwan Collection shed light on the role of the Syonan-to Overseas Chinese Association: the “Minutes of Meetings of Syonan-to Overseas Chinese Association”, and the “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya”. 
 
-The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication Malayan Chinese Resistance to Japan 1937–1945.[^9] The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._[^10]
+The meeting minutes are photographs of the original documents taken by Hsu Yun Tsiao. The full text of the meeting minutes is also found in the publication <i>Malayan Chinese Resistance to Japan 1937–1945.</i>[^9] The “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya” is an English article written by the secretary of the association, Tan Yeok Seong, and first published in September 1946 in the _Journal of the&nbsp;South Seas&nbsp;Society._[^10]
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Minutes%20of%20Syonan%20To.png">|
 
@@ -144,7 +141,7 @@ In March 1963, the Singapore Chinese Chamber of Commerce set up a fundraising co
 
 The Singapore Lam Ann Association Collection consists of letters written by the public to the Chinese Chamber of Commerce on the locations of the massacre sites. Among these is a letter written by Neo Tiew recounting the death of 35 family members during the Japanese Occupation. Neo is known for developing Lim Chu Kang, and he also led the Singapore branch of the Kuomintang Youth League of the Three People’s Principles and the Overseas Chinese Anti-Japanese Army. Because of his anti-Japanese activities, Neo and one of his sons were evacuated from Singapore on 13 February 1942, at the request of the British. Unfortunately, the family members who remained behind were tortured and killed by the Japanese.[^15]
 
-The Foo Chin Hwa Collection documents the exhumation of the remains of the war dead through photographs, which can be accessed from the National Library’s digital image database.
+The Foo Chin Hwa Collection documents the exhumation of the remains of the war dead through photographs, which can be accessed from the National Library’s digital image database, [PictureSG](https://eresources.nlb.gov.sg/pictures).
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Verification%20of%20Victims%20remains.png">|
 
