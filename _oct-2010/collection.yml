@@ -2,6 +2,7 @@ collections:
   oct-2010:
     output: true
     order:
+      - Business and Personal Credit Advisory Services at the National Library.md
       - "The Berita Database: An Online Treasury on Brunei, Malaysia and
         Singapore.md"
       - Director's Column.md
