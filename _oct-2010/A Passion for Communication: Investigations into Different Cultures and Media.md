@@ -16,7 +16,7 @@ Although not consciously planned, in retrospect, my career has always revolved a
 
 About 20 years ago, I had the opportunity to combine my library skills with my interest in music when I was offered a position with the Australian National Film & Sound Archive in Canberra. I worked there as a sound archivist until I retired in 2006. During that time, I wrote a history of the early Australian record industry titled *Sound Beginnings*.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/CulturesMedia/Ross%20Laird%20Image%201.jpg">
+<img style="width:50%;" src="/images/Vol%206%20Issue%203/CulturesMedia/Ross%20Laird%20Image%201.jpg">
  <div style="background-color: white;">All rights reserved, Currency Press, 2000.
 </div>
 
@@ -39,9 +39,3 @@ In the last ten years I have expanded my research to include the history and dev
 <br/>
 <img src="/images/Authors/Ross.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Ross Laird</b><br>Lee Kong Chian Research Fellow (2010)<br> National Library</center></div>
-
-
-
-
-
-
