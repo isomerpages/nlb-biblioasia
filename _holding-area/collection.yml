@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s.md"
       - Test page.md
