@@ -10,7 +10,7 @@ description: "Through news reports run in Singapore Daily Times, Lee Kong Chian
 
 "*A very serious affray occurred last night at a tavern called the ‘Fortune of War,’ on the corner of Tanjong Pagar and New Harbour roads, between some men of the 80th Regiment from the steamer Scotland, and some sailors belonging to that vessel.… a patrol of soldiers, with sidearms, was sent out from the ship to look for stragglers, but the attractions of the tavern, and the fact of it being Christmas, proved too great for them, and the patrol remained there, drinking with the sailors and others, until a late hour, when, as usual when sailors and soldiers meet at a drinking bout, the entertainment wound up with a fight. The soldiers used their bayonets, and the sailors their knives and anything else they could get hold of. One of the sailors was killed, we believe with a bayonet wound in the abdomen, and there were several wounded on both sides*. …"
 
-&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;-_Singapore Daily Times_,<br>&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp&emsp;&emsp;26 December 1872
+&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;-_Singapore Daily Times_,<br>&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;26 December 1872
 
 While exploring the history of public celebrations in colonial Singapore, I happened to find an account of a Christmas celebration in 1872 which sadly degenerated into a tragic and violent incident. By piecing together the news reports that appeared over several months in the pages of the *Singapore Daily Times*, it is possible to reconstruct an account of violence and bloodshed in a tavern and its judicial aftermath, as well as certain aspects of the social and criminal context within which this story played out.
 
@@ -27,9 +27,3 @@ The work of prominent historians on the social history of Singapore and Malaya h
 The lives of Chinese immigrant labourers, including their experiences in China which motivated them to leave their homeland, the process of emigration and the social problems which they experienced in Singapore and Malaya, have been vividly depicted by Yen Ching-hwang in *A Social History of the Chinese in Singapore and Malaya 1800—1911*.9 While Chinese immigrant labourers comprised the bulk of the labouring-class population of Singapore in the 19th and early 20th centuries, we should not forget the other, less numerous sections of the working-class population, including those who were from Europe.
 
 #### **Yuletide Celebration and  Tragedy**
-
-
-
-
-
-
