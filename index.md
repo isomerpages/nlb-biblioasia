@@ -364,4 +364,14 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: Singapore’s Public Bathhouses of the 1880s
+      subtitle: Place & Buildings
+      description: Three public bathhouses at Ellenborough Market, Canton Street and
+        Clyde Terrace were built by the Municipality in the late 19th century.
+      button: "Singapore’s Public Bathhouses "
+      url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
+      image: /images/Vol 19 Issue 1/Public Bathhouses/Public Bathhouse_Tree and
+        lake.png
+      alt: Image alt text
 ---
