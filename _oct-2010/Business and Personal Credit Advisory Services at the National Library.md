@@ -26,4 +26,8 @@ This initiative supports the development of vibrant and globally competitive Sin
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Ronnie.jpg" style="width: 100px; height: 100px;"/>
- <center><b>Ronnie Tan</b><br>Senior Research Associate I <br>Govt & Business Information Services<br> National Library <center></div>
+ <center><b>Ronnie Tan</b><br>Senior Research Associate I <br>Govt & Business Information Services<br> National Library </center></div>
+
+
+
+
