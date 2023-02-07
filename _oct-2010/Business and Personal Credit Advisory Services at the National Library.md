@@ -6,7 +6,7 @@ description: Newly launched at the National Library are business and personal
   with DP Bureau Pte Ltd and Credit Bureau Singapore Pte Ltd. Senior Research
   Associate Ronnie Tan explains.
 ---
- #### Newly launched at the National Library are business and personal credit advisory services offered by the National Library Board in partnership with DP Bureau Pte Ltd and Credit Bureau Singapore Pte Ltd. Senior Research Associate _Ronnie Tan_ explains.
+#### Newly launched at the National Library are business and personal credit advisory services offered by the National Library Board in partnership with DP Bureau Pte Ltd and Credit Bureau Singapore Pte Ltd. Senior Research Associate _Ronnie Tan_ explains.
  
  <img style="width:80%;" src="/images/Vol%206%20Issue%203/CreditAdvisory/NEW%20CBS_edited%20v2.jpg">
  <div style="background-color: white;">Personal credit advisory service by Credit Bureau Singapore.</div>
@@ -27,9 +27,3 @@ This initiative supports the development of vibrant and globally competitive Sin
 <br/>
 <img src="/images/Authors/Ronnie.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Ronnie Tan</b><br>Senior Research Associate I <br>Govt & Business Information Services<br> National Library <center></div>
-
-
-	 
-	 
-	 
-	 
