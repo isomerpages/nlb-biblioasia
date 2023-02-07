@@ -20,32 +20,3 @@ Featured in this issue are three collections of the National Library – the Env
 Happy reading! We look forward to receiving your comments and feedback.
 
 <b>Ms Ngian Lek Choh</b><br> Director<br> National Library
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
