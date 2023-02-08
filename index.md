@@ -374,4 +374,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: The Chinese Community During the Japanese Occupation
+      subtitle: War
+      description: Featuring items from the Chinese community relating to the Japanese
+        Occupation, which are available in the Natonal Library of Singapore.
+      button: The Chinese and World War II
+      url: https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/
+      image: /images/Vol 18 Issue 2/S'pore Chinese_Japanese/Hokkien Huay Kuan.png
+      alt: Chinese in WWII
 ---
