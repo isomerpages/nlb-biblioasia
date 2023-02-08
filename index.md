@@ -49,7 +49,7 @@ sections:
       title: The Chinese Community During the Japanese Occupation
       subtitle: War
       description: Featuring items from the Chinese community relating to the Japanese
-        Occupation, which are available in the Natonal Library of Singapore.
+        Occupation. These are available in the Natonal Library of Singapore.
       button: The Chinese and World War II
       url: https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/
       image: /images/Vol 18 Issue 2/S'pore Chinese_Japanese/Hokkien Huay Kuan.png
