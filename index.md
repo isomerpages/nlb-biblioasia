@@ -46,6 +46,16 @@ sections:
       image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
       alt: Tennis
   - infopic:
+      title: The Chinese Community During the Japanese Occupation
+      subtitle: War
+      description: A showcase of items from the Chinese community relating to the
+        Japanese Occupation. These are from the collection of the National
+        Library of Singapore.
+      button: The Chinese and World War II
+      url: https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/
+      image: /images/Vol 18 Issue 2/S'pore Chinese_Japanese/Hokkien Huay Kuan.png
+      alt: Chinese in WWII
+  - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
         collection.
