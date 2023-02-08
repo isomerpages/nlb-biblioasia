@@ -5,9 +5,15 @@ description: An edited transcript of Minister George Yeo’s opening speech at t
   launch of the exhibition and conference “Rihlah – Arabs in Southeast Asia”
   held on 10 April 2010.
 ---
- #### An edited transcript of Minister George Yeo’s opening speech at the launch of the exhibition and conference “Rihlah – Arabs in Southeast Asia” held on 10 April 2010.
- 
+#### An edited transcript of Minister George Yeo’s opening speech at the launch of the exhibition and conference “Rihlah – Arabs in Southeast Asia” held on 10 April 2010.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/Journey/Minister%20Yeo.jpg">
+ <div style="background-color: white;">Minister Yeo... this is a story, not only about the past, but also about the future.</div>
+
 Good morning, dear friends. I am delighted to be here to join all of you for the launch of an exhibition and a conference on the Arabs in Southeast Asia. In fact, I have been looking forward to it. The theme is Rihlah – “Journey”. This is a story, not only about the past, but also about the future.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/Journey/Launch.jpg">
+ <div style="background-color: white;">Ms Yeoh Chee Yan (Chairman of NLB), Minister George Yeo, Dr N Varaprasad (CE of NLB & Chairman for Rihlah Steering Committee) and Assoc. Prof Syed Farid Alatas (Co-chairman for Rihlah Steering Committee & Head of the Department of Malay Studies, National University of Singapore) officiating the launch of the Rihlah Exhibition and Conference.</div>
 
 Dr N Varaprasad (Chief Executive, National Library Board) talked about the Omani dhow, which is setting sail from Cochin to Singapore this weekend. It set sail from Muscat in mid-February – a replica of an ancient dhow, which sank about 500 miles to the south of Singapore, near Belitung, in shallow waters and so quickly got covered and protected by sand. On board, there were over sixty thousand pieces of porcelain from many kilns in China, mostly Changsha. The motifs were Chinese, Buddhist, Taoist, central Asian, Arabic, because that was the Age of Tang, of Buddhist Sriwijaya, of Nalanda, of the Abbasids.
 
@@ -16,6 +22,9 @@ In mid-March, it arrived in Cochin. As it approached the continental shelf, a bi
 Throughout history, different groups have been plying this coastline, from Europe, all the way to China and Japan, to pre-Islamic days – in fact, probably to the beginning of history, when the sea was the original Internet, linking people together. It is a story about the Arabs, it is a story about the Indians, the Malabaris and the Cholas. It is the story about Bugis and Acehnese peoples, a story about the southern Chinese, about the Chettiar merchants, about Koreans and Japanese. And in this century, this story will be retold in a much bigger way.
 
 A few years ago, we celebrated the 600th anniversary of the first voyage of the Ming admiral, Zheng He, himself a Muslim eunuch, who travelled all the way to the Hejaz, and went to Mecca. Each can tell the story from a different perspective, and each has learnt from the other in ways that they sometimes are less conscious of themselves. I spoke to the MFA (Ministry of Foreign Affairs) officer who was on the Jewel of Muscat, and he told me that when they arrived in Cochin, what they saw first were the Chinese fishing nets. And along the Malabari coast, there are many things in their kitchen, in their daily lives, which they ascribe to what they have learnt from China. And Zheng He’s own voyages to the Indian Ocean would not have been possible without knowledge he had gleaned from the Arabs, about conditions in that part of the world, and tricks in navigation.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/Journey/Perfume.jpg">
+ <div style="background-color: white;">Minister George Yeo receiving a drop of perfume on the back of his hand by two Hadhrami teenagers. The application of perfume is a Hadhrami tradition to welcome and show respect to their guests.</div>
 
 When Raffles came to Singapore, Singapore was his second best choice. During the Napoleonic wars, the British had occupied Java, and he stayed there for five years. He was a great scholar, and he saw that in every major Javanese town, there were Arabs communities that supported the trading networks. He told London that the British should never give up Java. But, with the Congress of Vienna, there was no choice. So he retreated to Calcutta, from where he plotted to establish an alternative base. When he founded Singapore in 1819, one of the first things he did was to persuade Hadhrami families to come here. Syed Mohammed Harun Aljunied and Syed Omar Aljunied from Palembang were given a warm welcome, and from that time on, Singapore became the centre of the Hadhrami network in Southeast Asia – a network which goes back a long time. But because Singapore was the trading hub, and the Hadhramis being trading people, this became their centre. And then Singapore’s own entanglement with the history of the Hadhramaut began.
 
@@ -43,6 +52,9 @@ Vali Nasr used this little episode to illustrate an aspect of Islam which we oft
 
 But the Arabs who came here were mostly traders and religious teachers. And because they were traders, they wanted peace, they wanted diplomatic relations, they wanted trade routes to be opened. And they welcomed diversity because they saw in diversity opportunities. Unless we are diverse, why should we be trading? And sometimes the greater the diversity, the greater the trading opportunities. So we have an opportunity in Asia to tell a different story about Islam, very different from that story told from a Western perspective. And as the region rises, and as this story is told in fresh ways, I hope, maybe, that it will also have an influence on the way the West conducts its own relations with the world of Arabia, the world of Islam.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/Journey/Artefact.jpg">
+ <div style="background-color: white;">Mr Mazelan Anuar (Librarian, Lee Kong Chian Reference Library) shows Minister George Yeo an artefact from the exhibition.</div>
+
 I think it is wonderful how the National Library Board, not just providing reference and lending services, has also taken upon itself the telling of stories, stories about different groups who have plied these waterways from the beginning of time, and whose activities are what makes Singapore what it is today. Thank you.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>“Rihlah - Arabs in Southeast Asia” exhibition</b><br><br>On public display for the first time are photographs and artefacts such as treasures from ancient shipwrecks in the region, to rare musical instruments and personal documents telling the story of the migrations of Arabs of Southeast Asia.
@@ -53,8 +65,3 @@ Commentaries on the two publications released in conjunction with the exhibition
 </div>
 
 **We would like to thank S. Zahra Aljunied, Senior Librarian, National Library Board, for transcribing this speech.**
-
-
-
-
-

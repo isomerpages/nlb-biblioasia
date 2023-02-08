@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
   - infopic:
+      title: Singapore’s Public Bathhouses of the 1880s
+      subtitle: Leisure
+      description: Three public bathhouses at Ellenborough Market, Canton Street and
+        Clyde Terrace were built by the Municipality in the late 19th century.
+      button: "Singapore’s Public Bathhouses "
+      url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
+      image: /images/Vol 19 Issue 1/Public Bathhouses/Public Bathhouse_Tree and
+        lake.png
+      alt: Image alt text
+  - infopic:
       title: Women and the Typewriter in Singapore’s Herstories
       subtitle: Women
       description: The humble typewriter helped women become better educated, enter

@@ -1,8 +1,12 @@
 ---
 title: "Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s"
-permalink: /holding-area/public-bathhouses-singapore/
+permalink: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
 description: ""
+image: /images/Vol 19 Issue 1/Public Bathhouses/Children.png
 ---
+
+
+
 #### Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century.
 By Jesse O’Neill
 
@@ -200,7 +204,7 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 
 [^23]: “[Wednesday 2nd February](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810209-1.2.25),” _Straits Times Overland Journal_, 9 February 1881, 7. (From NewspaperSG)
 
-[^24]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18801215-1.2.6.3),” _Singapore Daily Times_, 15 December 1880, 2; “Municipal Engineer’s Office “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810314-1.2.8.4),” _Singapore Daily Times_, 14 March 1881, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810514-1.2.7.5),” _Singapore Daily Times_, 14 May 1881, 2. (From NewspaperSG)
+[^24]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18801215-1.2.6.3),” _Singapore Daily Times_, 15 December 1880, 2; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810314-1.2.8.4),” _Singapore Daily Times_, 14 March 1881, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810514-1.2.7.5),” _Singapore Daily Times_, 14 May 1881, 2. (From NewspaperSG)
 
 [^25]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18810610-1.2.10.4),” _Singapore Daily Times_, 10 June 1881, 2. (From NewspaperSG)
 
