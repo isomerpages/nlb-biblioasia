@@ -66,3 +66,13 @@ Crime was rare as Neo had his own methods of dealing with offenders. Repeat and 
 That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter and photographer from the Straits Times decided to visit Neo at Thong Hoe Village.
 
 “We stopped our car by the roadside, and asked where the headman was. ‘He is waiting for you,’ said the man, pointing to a big house in the centre of the village. We were startled. We had arrived unannounced. We walked into the house, followed by three silent men and were challenged by a grey haired man, who stared at us with silent hostility,” wrote the reporter. “‘I am Neo Tiew, and I own this village. Who are you, and what do you want with me?’ he asked.”[^24]
+
+When the reporter reached into his pocket for his press card, Neo immediately grabbed the pistol that hung from his hip. Introductions made, Neo explained his caution. “Forgive me, but I have many enemies. I do not intend to get caught off guard by strangers. I am a wanted man.”[^25]
+
+Threats to his safety did not dilute Neo’s concern for the welfare of the villagers. He was called “The Big Boss” by residents, and was regarded with affection and admiration. Neo was someone they could turn to for help and advice.[^26] In November 1952, he donated a generator to provide Thong Hoe Village with basic electricity supply.[^27]
+
+Neo’s work and contributions were recognised when he was awarded a knighthood and admitted as a Member of the Most Excellent Order of the British Empire (MBE) by Queen Elizabeth II in June 1954.[^28] Neo Tiew Road was also named in his honour.[^29]
+
+In the 1950s, the colonial government expanded its efforts in developing the island. From 1952, the government began acquiring land to resettle squatters and develop Singapore’s agricultural sector.[^30]
+
+Handicapped by a limited budget and high land costs, land acquisition did not take place on a large scale. Regardless, the government launched Operation 
