@@ -172,15 +172,15 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^27]: “Lianghouzhou zi zhi fa dianji tong he cun da fang guangming wei dazhong fuwu sui kuishi yi buzu xi” 梁後宙自置發電機通和村大放光明為大眾服務雖虧蝕亦不足惜 [Liang Houzhou’s self-built generator, Tonghe Village, shines brightly to serve the public, even if it loses money, it is not a pity], _Nanyang Siang Pau_ 南洋商报, 25 November 1952, 5. (From NewspaperSG)
 
-[^28]: “The Queen Makes Three Malayans Knights,” _Straits Budget_, 17 June 1954, 8. (From NewspaperSG)
+[^28]: “[The Queen Makes Three Malayans Knights](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19540617-1.2.22),” _Straits Budget_, 17 June 1954, 8. (From NewspaperSG)
 
 [^29]: “Detail Maps for 1954,” Singapore OneMap, accessed 8 October 2023, https://www.onemap.gov.sg/hm/. Neo Tiew Road appears as early as the 1954 edition. We can surmise that the road was named sometime in the early 1950s.
 
-[^30]: “Government to Buy Land for Squatters,” _Straits Times_, 16 July 1952, 1. (From NewspaperSG)
+[^30]: “[Government to Buy Land for Squatters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520716-1.2.22),” _Straits Times_, 16 July 1952, 1. (From NewspaperSG)
 
-[^31]: “Square Deal for Squatter Farmers,” _Straits Times_, 12 July 1956, 9; “Govt. Opens Up New Resettlement Area for Farmers,” _Singapore Free Press_, 30 November 1961, 15. (From NewspaperSG)
+[^31]: “[Square Deal for Squatter Farmers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560712-1.2.121),” _Straits Times_, 12 July 1956, 9; “[Govt. Opens Up New Resettlement Area for Farmers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19611130-1.2.114),” _Singapore Free Press_, 30 November 1961, 15. (From NewspaperSG)
 
-[^32]: Lee Kuan Yew, “The Opening of Minto Road Community Centre,” speech, Minto Road Community Centre, 9 January 1960, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19600109)
+[^32]: Lee Kuan Yew, “[The Opening of Minto Road Community Centre](https://www.nas.gov.sg/archivesonline/speeches/record-details/73fb19ad-115d-11e3-83d5-0050568939ad),” speech, Minto Road Community Centre, 9 January 1960, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19600109)
 
 [^33]: “[Priority for Power in the Kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630323-1.2.22),” _Straits Times_, 23 March 1963, 4. (From NewspaperSG)
 
