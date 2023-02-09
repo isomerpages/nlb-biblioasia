@@ -25,3 +25,18 @@ With an advance party of eight men, Neo brought along boatloads of building mate
 
 It took five years for the men to clear the land and reach the upper tributaries of Kranji River where Neo decided to build a jetty to take advantage of the river as a communications artery. They also planted large numbers of coconut trees, pineapple plants and later, rubber trees. (Neo’s methodical and systematic land clearance drew the attention of businessman Mirza Mohamed Ali Namazie, who approached Neo to clear 900 acres of his land in the area as well.[^7])
 
+#### **Building Lim Chu Kang**
+
+This was when Neo’s business took off. Together with Cashin’s gift of 60 acres of land, Neo expanded his own land to 200 acres, centred around Nam Hoe Village and the jetty he built. (The village was named after its most prominent landmark, the Nam Hoe provision shop that Neo had opened.[^8])
+
+The Kranji River was Nam Hoe Village’s only connection to the outside world. To get to Woodlands Road, which was the most direct route to the town, one would first have to traverse by boat down the river and disembark at Jalan Nam Huat. This inaccessibility also cut the area off from the growing traffic that came when the Causeway opened in 1923.[^9]
+
+Neo lobbied the colonial government to build a road to connect the Lim Chu Kang area to the rest of the island.[^10] The government insisted on a co-payment model and left Neo to canvass and raise funds for this project. In total, more than $30,000 was raised for the 8-kilometre-long road.
+
+On 4 October 1930, the Public Works Department opened a tender for the construction of “earthwork formation for new road at Lim Chu Kang”.[^11] By 1932, Lim Chu Kang Road was “open to within 1½ miles of the Johore Straits”.[^12]
+
+The new road provided the impetus for the founding of another village, Thong Hoe, which was named after yet another provision shop owned by Neo.[^13]
+
+Lim Chin Sei, who used to be a farmer in Lim Chu Kang, recalled in his oral history interview that the provision shop was the centre of village life, a meeting point and the place where Neo arbitrated and resolved disputes and quarrels. According to Lim, Neo loved to regale his audience with stories – there were no airs about him despite his wealth – and he frequently attended weddings and funerals, keeping his pulse on things. When it came to crime though, Neo was firm and no-nonsense, and the village thugs were afraid of him.[^14]
+
+Seeing that Lim Chu Kang needed a proper school, Neo donated five acres of land and a sum of money to set up Kay Wah School (present-day Qihua Primary School) in 1938. Subsequently, Kay Wah School opened branches in Nam Hoe Village and the nearby Ama Keng Village (named after a temple 
