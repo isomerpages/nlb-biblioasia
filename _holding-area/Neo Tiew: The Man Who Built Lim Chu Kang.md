@@ -137,3 +137,6 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^10]: Han, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_, 151.
 
+[^11]: “Page 7 Advertisements Column 2: Government Notification,” _Malaya Tribune_, 8 October 1930, 7. (From NewspaperSG). The tender notice was issued by Deputy Colonial Engineer R.I. Nunn.
+
+[^12]: “The Rural Board’s Work,” _Singapore Free Press_, 10 April 1931, 12; “The Annual Report,” _Singapore Free Press_, 10 March 1932, 7. (From NewspaperSG)
