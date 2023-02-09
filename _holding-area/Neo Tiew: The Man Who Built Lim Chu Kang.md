@@ -79,12 +79,12 @@ Handicapped by a limited budget and high land costs, land acquisition did not ta
 
 #### **Development and Resettlement**
 
-After Singapore attained self-government in 1959, the government began implementing infrastructure development programmes. In 1960, Prime Minister Lee Kuan Yew announced that a community centre – a modest, simple structure costing about $15,000 each – would be built at Thong Hoe Village, among other places.32
+After Singapore attained self-government in 1959, the government began implementing infrastructure development programmes. In 1960, Prime Minister Lee Kuan Yew announced that a community centre – a modest, simple structure costing about $15,000 each – would be built at Thong Hoe Village, among other places.[^32]
 
-In May 1963, a new maternal and children’s health clinic was opened in Thong Hoe Village to some fanfare. Life further improved with the arrival of electricity. In March 1963, the Public Utilities Board announced its rural electrification programme at a cost of $1.4 million, covering 42 kampongs, rural roads and benefiting 2,000 homes.33
+In May 1963, a new maternal and children’s health clinic was opened in Thong Hoe Village to some fanfare. Life further improved with the arrival of electricity. In March 1963, the Public Utilities Board announced its rural electrification programme at a cost of $1.4 million, covering 42 kampongs, rural roads and benefiting 2,000 homes.[^33]
 
 As farming villages across Singapore emptied out in the 1980s, this spelled the end of a unique way of life in Lim Chu Kang. Bennett Neo, Neo Tiew’s oldest grandson, grew up in Thong Hoe village in the 1970s. Bennett was born in in 1969 and lived in the village with his grandparents, uncles and their families. “We had a shop and I remember selling drinks and candy there,” he recalled. “We also operated a cinema with both open-air and sheltered seats.”
 
 Bennett said that the family was quite self-sufficient as “we kept our own pigs and chickens and we also had fruit trees”. His grandfather may have been Neo Tiew the headman, but as they were living in rural Singapore, they had to use coconut husks as fuel for the kitchen stove.
 
-As a child, Bennett enjoyed the carefree existence afforded by living in a rural area. He spent his time climbing trees and catching fish. His childhood 
+As a child, Bennett enjoyed the carefree existence afforded by living in a rural area. He spent his time climbing trees and catching fish. His childhood
