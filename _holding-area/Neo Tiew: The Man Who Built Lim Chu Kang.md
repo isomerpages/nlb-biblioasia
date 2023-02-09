@@ -3,7 +3,8 @@ title: "Neo Tiew: The Man Who Built Lim Chu Kang"
 permalink: /holding-area/neo-tiew/
 description: ""
 ---
-#### Neo Tiew: The Man Who Built Lim Chu Kang
+#### The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
+by Alvin Tan
 
 Neo Tiew Estate is a small housing estate in Lim Chu Kang.[^1] It consists of three low-rise blocks of vacant flats, a disused market and food centre, and an abandoned children’s playground. The residents were resettled in the late 1990s and early 2000s and the estate is now used for training by the Singapore Armed Forces.
 
