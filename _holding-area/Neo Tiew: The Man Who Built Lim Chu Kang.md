@@ -100,3 +100,17 @@ In a further twist of fate, the Covid-19 pandemic has given Lim Chu Kang a new l
 The plan attained a new urgency after the pandemic was declared and supply chains became severely disrupted. For a country that imports 90 percent of its food, the “30 by 30” goal was now a strategic imperative.
 
 In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be transformed into a “high-tech agri-food cluster” to strengthen Singapore’s food security and create jobs for Singaporeans. The food cluster is expected to “produce more than three times its current food production when completed” and development works are slated to start in 2024.[^39] Far from fading into irrelevance in increasingly urbanised Singapore, rural Lim Chu Kang is now poised for a bright new future. It appears that Neo Tiew’s efforts over a century ago are still bearing fruit.
+
+#### **NEO TIEW'S PHOTOGRAPHS AND PERSONAL DOCUMENTS**
+
+The National Library of Singapore’s Peng Lee Er Collection, Hsu Yun Tsiao Collection and Singapore Lam Ann Association Collection contain photographs and personal documents relating to Neo Tiew. These include photographs of the medals and certificates of honour awarded to Neo by the Chinese Kuomintang government and the British colonial government for his help defending Singapore during World War II and the Malayan Emergency as well as his contributions in developing Lim Chu Kang.
+
+There are also photographs of the scenery and amenities in Lim Chu Kang such as Kay Wah School (now Qihua Primary School) and the Nam Hoe provision shop. Other photographs include those of Neo’s family and friends, his funeral in 1975 and the epitaph presented to him in 1946 by the Kuomintang government in memory of the massacre of 35 of his family members during the Japanese Occupation.
+
+A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
+
+Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
+
+* 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (Call no. RCLOS 305.8951 PLE; Accession no. B29487728C)
+* 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (Call no. RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D)
+* 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (Call no. RCLOS 959.5703 XJP; Accession no. B32427005A)
