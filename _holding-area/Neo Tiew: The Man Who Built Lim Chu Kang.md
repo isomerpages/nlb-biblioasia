@@ -182,11 +182,11 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^32]: Lee Kuan Yew, “The Opening of Minto Road Community Centre,” speech, Minto Road Community Centre, 9 January 1960, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19600109)
 
-[^33]: “Priority for Power in the Kampongs,” _Straits Times_, 23 March 1963, 4. (From NewspaperSG)
+[^33]: “[Priority for Power in the Kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630323-1.2.22),” _Straits Times_, 23 March 1963, 4. (From NewspaperSG)
 
 [^34]: Bennett Neo, email interview, 26 February 2022 and 13 March 2022.
 
-[^35]: Nur Syahiidah Zainal, “Abandoned, But Memories Still Linger On,” _Straits Times_, 20 April 2015, 10–11. (From Newslink via NLB’s eResources website); “RSAF Jets in First Road Runway Exercise,” _Straits Times_, 17 April 1986, 10. (From NewspaperSG). Two A-4 Skyhawks and two F-5E Tigers aircraft were involved in this exercise.
+[^35]: Nur Syahiidah Zainal, “Abandoned, But Memories Still Linger On,” _Straits Times_, 20 April 2015, 10–11. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); “[RSAF Jets in First Road Runway Exercise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860417-1.2.24.13),” _Straits Times_, 17 April 1986, 10. (From NewspaperSG). Two A-4 Skyhawks and two F-5E Tigers aircraft were involved in this exercise.
 
 [^36]: Lee Hsien Loong, “Prime Minister Lee Hsien Loong’s National Day Rally 2013 (English),” speech, Prime Minister’s Office Singapore, 18 August 2013, https://www.pmo.gov.sg/Newsroom/prime-minister-lee-hsien-loongs-national-day-rally-2013-english; Rachel Au-Yong, “Graves, Farms to Make Way For Larger Tengah Base,” _Straits Times_, 19 July 2017, https://www.straitstimes.com/singapore/graves-farms-to-make-way-for-larger-tengah-base.
 
