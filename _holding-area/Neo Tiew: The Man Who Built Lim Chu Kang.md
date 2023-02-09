@@ -178,3 +178,19 @@ Readers can make a request to view the following materials from the Reference Co
 [^30]: “Government to Buy Land for Squatters,” _Straits Times_, 16 July 1952, 1. (From NewspaperSG)
 
 [^31]: “Square Deal for Squatter Farmers,” _Straits Times_, 12 July 1956, 9; “Govt. Opens Up New Resettlement Area for Farmers,” _Singapore Free Press_, 30 November 1961, 15. (From NewspaperSG)
+
+[^32]: Lee Kuan Yew, “The Opening of Minto Road Community Centre,” speech, Minto Road Community Centre, 9 January 1960, transcript, Ministry of Culture. (From National Archives of Singapore, document no. lky19600109)
+
+[^33]: “Priority for Power in the Kampongs,” _Straits Times_, 23 March 1963, 4. (From NewspaperSG)
+
+[^34]: Bennett Neo, email interview, 26 February 2022 and 13 March 2022.
+
+[^35]: Nur Syahiidah Zainal, “Abandoned, But Memories Still Linger On,” _Straits Times_, 20 April 2015, 10–11. (From Newslink via NLB’s eResources website); “RSAF Jets in First Road Runway Exercise,” _Straits Times_, 17 April 1986, 10. (From NewspaperSG). Two A-4 Skyhawks and two F-5E Tigers aircraft were involved in this exercise.
+
+[^36]: Lee Hsien Loong, “Prime Minister Lee Hsien Loong’s National Day Rally 2013 (English),” speech, Prime Minister’s Office Singapore, 18 August 2013, https://www.pmo.gov.sg/Newsroom/prime-minister-lee-hsien-loongs-national-day-rally-2013-english; Rachel Au-Yong, “Graves, Farms to Make Way For Larger Tengah Base,” _Straits Times_, 19 July 2017, https://www.straitstimes.com/singapore/graves-farms-to-make-way-for-larger-tengah-base.
+
+[^37]: Au-Yong, “Graves, Farms to Make Way For Larger Tengah Base.”
+
+[^38]: Chang Ai-Lien, “Singapore Sets 30% Goal for Home Grown Food by 2030,” _Straits Times_, 8 March 2019, https://www.straitstimes.com/singapore/spore-sets-30-goal-for-home-grown-food-by-2030.
+
+[^39]: Cindy Co, “Lim Chu Kang to be Transformed into High-Tech Agri-Food Sector under SFA Master Plan,” _Channel NewsAsia_, 20 October 2020, https://www.channelnewsasia.com/singapore/lim-chu-kang-be-transformed-high-tech-agri-food-cluster-under-sfa-master-plan-730821.
