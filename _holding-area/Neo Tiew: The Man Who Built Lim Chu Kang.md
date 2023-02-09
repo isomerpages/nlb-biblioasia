@@ -44,7 +44,7 @@ Seeing that Lim Chu Kang needed a proper school, Neo donated five acres of land 
 
 At Neo’s behest, the government eventually opened a maternal clinic, staffed by a matron trained in midwifery, in the village in 1940. As a result, Neo no longer had to drive in the dark of night to send a woman in labour to the nearest hospital, which was what he used to have to do.[^16]
 
-In 1937, the Nanyang Siang Pau newspaper described the Lim Chu Kang area as a well-equipped model village of 5,000 that had acquired a distinctive character and atmosphere under Neo’s astute direction and hard work.[^17] Neo’s philanthropy, tucked away in remote Lim Chu Kang, might have lacked prominence but its impact on the lives of the villagers, most of whom were farmers, was immense.
+In 1937, the _Nanyang Siang Pau_ newspaper described the Lim Chu Kang area as a well-equipped model village of 5,000 that had acquired a distinctive character and atmosphere under Neo’s astute direction and hard work.[^17] Neo’s philanthropy, tucked away in remote Lim Chu Kang, might have lacked prominence but its impact on the lives of the villagers, most of whom were farmers, was immense.
 
 Lim Chu Kang’s agrarian character began to change in the 1930s. In 1934, the government acquired 54 acres in Lim Chu Kang for the Royal Air Force (RAF) to build RAF Tengah. By December 1935, the airbase - which occupied 130 acres and had “one of the longest runways of any aerodrome in the Empire” – was declared ready for load testing. On 2 November 1936, the aerodrome was declared open after four aircraft, led by Air Commodore S.W. Smith, Commander of the RAF Far East, landed at 10 am.[^18]
 
@@ -56,15 +56,15 @@ In 1940, Neo was appointed by Chiang to head the Singapore branch of the KMT You
 
 On 13 February 1942, with the imminent fall of Singapore to the Japanese, Neo and one of his sons were evacuated to India and thereafter to China. The following day, tragedy befell Neo when his entire family of 35 left behind in Singapore was massacred by the Japanese.[^20]
 
-While in China, Neo enrolled in Chiang’s “anti-bandit army and was instrumental in persuading many of the lawless to lay down their arms”. Neo said he enjoyed a close friendship with Chiang. “When General Chiang died, I was invited to attend his funeral, but I sent my son as a representative,” he told the New Nation newspaper in 1975. “We were in the same unit of the Chinese Army before the Cultural Revolution and Chiang was my junior.”[^21]
+While in China, Neo enrolled in Chiang’s “anti-bandit army and was instrumental in persuading many of the lawless to lay down their arms”. Neo said he enjoyed a close friendship with Chiang. “When General Chiang died, I was invited to attend his funeral, but I sent my son as a representative,” he told the _New Nation_ newspaper in 1975. “We were in the same unit of the Chinese Army before the Cultural Revolution and Chiang was my junior.”[^21]
 
 When the Japanese Occupation ended, Neo returned to Singapore and found out that his entire family had been killed. He rebuilt his life, remarried and settled down in Lim Chu Kang. However, the Malayan Emergency (1948–60) brought new problems and a price of $15,000 was reportedly put on his head. Neo was supposedly unperturbed by this and remarked that “[his] flesh is very expensive indeed”.
 
 Neo had good reason to be confident because he commanded the Singapore Rural Board (Western Region) Volunteer Police – which the government equipped with both arms and uniforms – for the Lim Chu Kang area. Neo was given six pairs of handcuffs and 14 shotguns, although the shotguns were more for dealing with tigers than criminals.[^22]
 
-Crime was rare as Neo had his own methods of dealing with offenders. Repeat and serious offenders were turned over to the government and repatriated to China, according to a Straits Times report. Those caught gambling had to buy and distribute biscuits to every household with an apology, while caught stealing were made to wear a huge paper hat with the words “I am a thief” and made to parade from house to house.[^23]
+Crime was rare as Neo had his own methods of dealing with offenders. Repeat and serious offenders were turned over to the government and repatriated to China, according to a _Straits Times_ report. Those caught gambling had to buy and distribute biscuits to every household with an apology, while caught stealing were made to wear a huge paper hat with the words “I am a thief” and made to parade from house to house.[^23]
 
-That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter and photographer from the Straits Times decided to visit Neo at Thong Hoe Village.
+That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter and photographer from the _Straits Times_ decided to visit Neo at Thong Hoe Village.
 
 “We stopped our car by the roadside, and asked where the headman was. ‘He is waiting for you,’ said the man, pointing to a big house in the centre of the village. We were startled. We had arrived unannounced. We walked into the house, followed by three silent men and were challenged by a grey haired man, who stared at us with silent hostility,” wrote the reporter. “‘I am Neo Tiew, and I own this village. Who are you, and what do you want with me?’ he asked.”[^24]
 
