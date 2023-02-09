@@ -172,3 +172,9 @@ Readers can make a request to view the following materials from the Reference Co
 [^27]: “Lianghouzhou zi zhi fa dianji tong he cun da fang guangming wei dazhong fuwu sui kuishi yi buzu xi” 梁後宙自置發電機通和村大放光明為大眾服務雖虧蝕亦不足惜 [Liang Houzhou’s self-built generator, Tonghe Village, shines brightly to serve the public, even if it loses money, it is not a pity], _Nanyang Siang Pau_ 南洋商报, 25 November 1952, 5. (From NewspaperSG)
 
 [^28]: “The Queen Makes Three Malayans Knights,” _Straits Budget_, 17 June 1954, 8. (From NewspaperSG)
+
+[^29]: “Detail Maps for 1954,” Singapore OneMap, accessed 8 October 2023, https://www.onemap.gov.sg/hm/. Neo Tiew Road appears as early as the 1954 edition. We can surmise that the road was named sometime in the early 1950s.
+
+[^30]: “Government to Buy Land for Squatters,” _Straits Times_, 16 July 1952, 1. (From NewspaperSG)
+
+[^31]: “Square Deal for Squatter Farmers,” _Straits Times_, 12 July 1956, 9; “Govt. Opens Up New Resettlement Area for Farmers,” _Singapore Free Press_, 30 November 1961, 15. (From NewspaperSG)
