@@ -134,13 +134,13 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^8]: Neo also leased 60 acres from Cashin. See Han Sanyuan 韩山远, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_ 威扬林厝港本地传奇人物梁后宙 [The legend who reigned over Lim Chu Kang – Neo Ao Tiew] in Singapore Lam Ann Association Committee 新加坡南安会馆委会, _Xinjiapo nan’an xianxian zhuan_ 新加坡南安先贤传 [Stories of Lam Ann Pioneers in Singapore], vol. 1 (Singapore: Singapore Nan An Association, 1998), 141–43 (From National Library, Singapore, call no. Chinese R959.570099 XJP-[HIS]). The naming of the village after the provision shop was a common practice that E.H.G. Dobby documented in his 1940 survey piece. See E.H.G. Dobby, “Singapore: Town and Country,” _Geographical Review_ 30, no. 1 (January 1940): 84–109. (From JSTOR via NLB’s eResources website)
 
-[^9]: Han, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_, 151.
+[^9]: Han, [<i>Wei yang lin cuo gang bendi chuanqi renwu lianghozhou</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84524456), 151.
 
-[^10]: Han, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_, 151.
+[^10]: Han, [<i>Wei yang lin cuo gang bendi chuanqi renwu lianghozhou</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84524456), 151.
 
-[^11]: “Page 7 Advertisements Column 2: Government Notification,” _Malaya Tribune_, 8 October 1930, 7. (From NewspaperSG). The tender notice was issued by Deputy Colonial Engineer R.I. Nunn.
+[^11]: “[Page 7 Advertisements Column 2: Government Notification](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301008-1.2.25.2),” _Malaya Tribune_, 8 October 1930, 7. (From NewspaperSG). The tender notice was issued by Deputy Colonial Engineer R.I. Nunn.
 
-[^12]: “The Rural Board’s Work,” _Singapore Free Press_, 10 April 1931, 12; “The Annual Report,” _Singapore Free Press_, 10 March 1932, 7. (From NewspaperSG)
+[^12]: “[The Rural Board’s Work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310410-1.2.69),” _Singapore Free Press_, 10 April 1931, 12; “[The Annual Report](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320310-1.2.21.2),” _Singapore Free Press_, 10 March 1932, 7. (From NewspaperSG)
 
 [^13]: Han, [<i>Wei yang lin cuo gang bendi chuanqi renwu lianghozhou</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84524456), 151; Li, [<i>Lianghouzhou yu lin cuo gang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196), 84–87. The village was officially named Thong Hoe in 1949. See Ah Dan 啊丹, “You shanghao de ming de jiedao yu xiangcun” [由商号得名的街道与乡村](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840128-1.2.9.4.1) [Streets and villages named after the business], _Lianhe Wanbao_ 联合晚报, 28 January 1984, 2. (From NewspaperSG)
 
