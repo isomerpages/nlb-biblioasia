@@ -118,17 +118,17 @@ Readers can make a request to view the following materials from the Reference Co
 
 #### **NOTES**
 
-[^1]: Jean Lim, “Farmlands in Lim Chu Kang,” in _Singapore Infopedia_. National Library Board Singapore. Article published 2009.
+[^1]: Jean Lim, “[Farmlands in Lim Chu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1611_2009-11-30.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2009.
 
 [^2]: Also known as Neo Ao Tiew (梁后宙).
 
-[^3]: Alexander W. Cashin was the son of Joseph William Cashin. At the time of his death, Joseph William Cashin was the managing director of the Opium and Liquor Farms of Singapore and had a “large financial interest” in them. He was also known to have made a fortune in land speculation “some years ago”, prior to his death. See “Death of Mr. J.W. Cashin,” _Singapore Free Press_, 8 August 1907, 8. (From NewspaperSG)
+[^3]: Alexander W. Cashin was the son of Joseph William Cashin. At the time of his death, Joseph William Cashin was the managing director of the Opium and Liquor Farms of Singapore and had a “large financial interest” in them. He was also known to have made a fortune in land speculation “some years ago”, prior to his death. See “[Death of Mr. J.W. Cashin](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070808-1.2.44),” _Singapore Free Press_, 8 August 1907, 8. (From NewspaperSG)
 
-[^4]: Li Chengli 李成利, _Lianghouzhou yu lin cuo gang_ 梁后宙与林厝港 [Neo Ao Tiew and Lim Chu Kang] (Singapore: Singapore Nan’an Association Arts and Culture Club, 2015), 41, 42. (From National Library Nan’an, Singapore, call no. Chinese RSING 305.8951 LCL)
+[^4]: Li Chengli 李成利, _Lianghouzhou yu lin cuo gang_ [梁后宙与林厝港](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196) [Neo Ao Tiew and Lim Chu Kang] (Singapore: Singapore Nan’an Association Arts and Culture Club, 2015), 41, 42. (From National Library Nan’an, Singapore, call no. Chinese RSING 305.8951 LCL)
 
-[^5]: Fang Baicheng 方百成 and Du Nanfa 杜南发, eds., _Shijie fujian mingren lu. Xinjiapo bian_ 世界福建名人录. 新加坡编 [Prominent Figures of the World Fujian Communities: Singapore] (Singapore: Singapore Hokkien Huay Kuan, 2012), 265. (From National Library, Singapore, call no. Chinese RSING 920.05957 PRO)
+[^5]: Fang Baicheng 方百成 and Du Nanfa 杜南发, eds., _Shijie fujian mingren lu. Xinjiapo bian_ [世界福建名人录. 新加坡编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200125706) [Prominent Figures of the World Fujian Communities: Singapore] (Singapore: Singapore Hokkien Huay Kuan, 2012), 265. (From National Library, Singapore, call no. Chinese RSING 920.05957 PRO)
 
-[^6]: Li, _Lianghouzhou yu lin cuo gang_, 43.
+[^6]: Li, [<i>Lianghouzhou yu lin cuo gang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196), 43.
 
 [^7]: Mirza Mohamed Ali Namazie was the founder of the firm M.A. Namazie and Sons. He was a Justice of the Peace and a member of the Singapore Municipal Commission for several years. He commissioned and financed the construction of Capitol Building.
 
