@@ -156,11 +156,11 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^19]: National Museum of Singapore, National Heritage Board, “KMT Certificate of Appointment Bestowed Upon Neo Tiew by the Overseas Chinese Affairs Commission,” 1951, Roots, https://www.roots.gov.sg/Collection-Landing/listing/1269454.
 
-[^20]: Douglas Chan, “The Big Boss” _New Nation_, 23 November 1975, 5. (From NewspaperSG); Li, _Lianghouzhou yu lin cuo gang_, 96–97. Neo’s involvement and role in anti-Japanese activities such as the China Relief Fund is not documented in extant English-language scholarship.
+[^20]: Douglas Chan, “[The Big Boss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751123-1.2.20)” _New Nation_, 23 November 1975, 5. (From NewspaperSG); Li, [<i>Lianghouzhou yu lin cuo gang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196), 96–97. Neo’s involvement and role in anti-Japanese activities such as the China Relief Fund is not documented in extant English-language scholarship.
 
-[^21]: Chan, “The Big Boss”; Peter Ong, “A Grand Man Recalls His Past...,” _New Nation_, 22 April 1975, 4. (From NewspaperSG)
+[^21]: Chan, “[The Big Boss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751123-1.2.20)”; Peter Ong, “[A Grand Man Recalls His Past...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750422-1.2.7.8),” _New Nation_, 22 April 1975, 4. (From NewspaperSG)
 
-[^22]: _Singapore Rural Board (Western Region) Volunteer Police_, 1950s, photograph, National Museum of Singapore, National Heritage Board, https://www.roots.gov.sg/Collection-Landing/listing/1265464; Chan, “The Big Boss.”
+[^22]: _Singapore Rural Board (Western Region) Volunteer Police_, 1950s, photograph, National Museum of Singapore, National Heritage Board, https://www.roots.gov.sg/Collection-Landing/listing/1265464; Chan, “[The Big Boss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751123-1.2.20).”
 
 [^23]: Low Mei Mei, “[When Tigers Roamed Free and Thieves Got Paraded](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861209-1.2.31.2),” _Straits Times_, 9 December 1986, 18. (From NewspaperSG); Chan, “[The Big Boss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751123-1.2.20).”
 
