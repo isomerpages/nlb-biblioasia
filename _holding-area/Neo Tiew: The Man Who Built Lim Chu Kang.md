@@ -39,10 +39,27 @@ The new road provided the impetus for the founding of another village, Thong Hoe
 
 Lim Chin Sei, who used to be a farmer in Lim Chu Kang, recalled in his oral history interview that the provision shop was the centre of village life, a meeting point and the place where Neo arbitrated and resolved disputes and quarrels. According to Lim, Neo loved to regale his audience with stories – there were no airs about him despite his wealth – and he frequently attended weddings and funerals, keeping his pulse on things. When it came to crime though, Neo was firm and no-nonsense, and the village thugs were afraid of him.[^14]
 
-Seeing that Lim Chu Kang needed a proper school, Neo donated five acres of land and a sum of money to set up Kay Wah School (present-day Qihua Primary School) in 1938. Subsequently, Kay Wah School opened branches in Nam Hoe Village and the nearby Ama Keng Village (named after a temple dedicated to Mazu, goddess of the sea, which was built in the area in 1900).15
+Seeing that Lim Chu Kang needed a proper school, Neo donated five acres of land and a sum of money to set up Kay Wah School (present-day Qihua Primary School) in 1938. Subsequently, Kay Wah School opened branches in Nam Hoe Village and the nearby Ama Keng Village (named after a temple dedicated to Mazu, goddess of the sea, which was built in the area in 1900).[^15]
 
-At Neo’s behest, the government eventually opened a maternal clinic, staffed by a matron trained in midwifery, in the village in 1940. As a result, Neo no longer had to drive in the dark of night to send a woman in labour to the nearest hospital, which was what he used to have to do.16
+At Neo’s behest, the government eventually opened a maternal clinic, staffed by a matron trained in midwifery, in the village in 1940. As a result, Neo no longer had to drive in the dark of night to send a woman in labour to the nearest hospital, which was what he used to have to do.[^16]
 
-In 1937, the Nanyang Siang Pau newspaper described the Lim Chu Kang area as a well-equipped model village of 5,000 that had acquired a distinctive character and atmosphere under Neo’s astute direction and hard work.17 Neo’s philanthropy, tucked away in remote Lim Chu Kang, might have lacked prominence but its impact on the lives of the villagers, most of whom were farmers, was immense.
+In 1937, the Nanyang Siang Pau newspaper described the Lim Chu Kang area as a well-equipped model village of 5,000 that had acquired a distinctive character and atmosphere under Neo’s astute direction and hard work.[^17] Neo’s philanthropy, tucked away in remote Lim Chu Kang, might have lacked prominence but its impact on the lives of the villagers, most of whom were farmers, was immense.
 
-Lim Chu Kang’s agrarian character began to change in the 1930s. In 1934, the government acquired 54 acres in Lim Chu Kang for the Royal Air Force (RAF) to build RAF Tengah. By December 1935, the airbase - which occupied 130 acres and had “one of the longest runways of any aerodrome in the Empire” – was declared ready for load testing. On 2 November 1936, the aerodrome was declared open after four aircraft, led by Air Commodore S.W. Smith, Commander of the RAF Far East, landed at 10 am.18
+Lim Chu Kang’s agrarian character began to change in the 1930s. In 1934, the government acquired 54 acres in Lim Chu Kang for the Royal Air Force (RAF) to build RAF Tengah. By December 1935, the airbase - which occupied 130 acres and had “one of the longest runways of any aerodrome in the Empire” – was declared ready for load testing. On 2 November 1936, the aerodrome was declared open after four aircraft, led by Air Commodore S.W. Smith, Commander of the RAF Far East, landed at 10 am.[^18]
+
+#### **The War Years**
+
+World War II brought immense tragedy to Neo, who was deeply involved in anti-Japanese resistance activities from 1937. A key figure in the fundraising efforts, Neo was also a staunch supporter of Chiang Kai-shek’s Kuomintang (KMT; Chinese Nationalist Party), with its capital in Chongqing in Sichuan, China.
+
+In 1940, Neo was appointed by Chiang to head the Singapore branch of the KMT Youth League of the Three Principles of the People (三民主义青年团).19
+
+One of his missions was said to consist of setting up two clandestine wireless transmission stations in his coconut estates to provide intelligence to Chongqing.
+
+On 13 February 1942, with the imminent fall of Singapore to the Japanese, Neo and one of his sons were evacuated to India and thereafter to China. The following day, tragedy befell Neo when his entire family of 35 left behind in Singapore was massacred by the Japanese.20
+
+While in China, Neo enrolled in Chiang’s “anti-bandit army and was instrumental in persuading many of the lawless to lay down their arms”. Neo said he enjoyed a close friendship with Chiang. “When General Chiang died, I was invited to attend his funeral, but I sent my son as a representative,” he told the New Nation newspaper in 1975. “We were in the same unit of the Chinese Army before the Cultural Revolution and Chiang was my junior.”21
+
+When the Japanese Occupation ended, Neo returned to Singapore and found out that his entire family had been killed. He rebuilt his life, remarried and settled down in Lim Chu Kang. However, the Malayan Emergency (1948–60) brought new problems and a price of $15,000 was reportedly put on his head. Neo was supposedly unperturbed by this and remarked that “[his] flesh is very expensive indeed”.
+Neo had good reason to be confident because he commanded the Singapore Rural Board (Western Region) Volunteer Police – which the government equipped with both arms and uniforms – for the Lim Chu Kang area. Neo was given six pairs of handcuffs and 14 shotguns, although the shotguns were more for dealing with tigers than criminals.22
+Crime was rare as Neo had his own methods of dealing with offenders. Repeat and serious offenders were turned over to the government and repatriated to China, according to a Straits Times report. Those caught gambling had to buy and distribute biscuits to every household with an apology, while caught stealing were made to wear a huge paper hat with the words “I am a thief” and made to parade from house to house.23 
+That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter 
