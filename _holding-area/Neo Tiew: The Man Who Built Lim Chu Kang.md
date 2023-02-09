@@ -170,3 +170,5 @@ Readers can make a request to view the following materials from the Reference Co
 [^26]: Chan, “The Big Boss."
 
 [^27]: “Lianghouzhou zi zhi fa dianji tong he cun da fang guangming wei dazhong fuwu sui kuishi yi buzu xi” 梁後宙自置發電機通和村大放光明為大眾服務雖虧蝕亦不足惜 [Liang Houzhou’s self-built generator, Tonghe Village, shines brightly to serve the public, even if it loses money, it is not a pity], _Nanyang Siang Pau_ 南洋商报, 25 November 1952, 5. (From NewspaperSG)
+
+[^28]: “The Queen Makes Three Malayans Knights,” _Straits Budget_, 17 June 1954, 8. (From NewspaperSG)
