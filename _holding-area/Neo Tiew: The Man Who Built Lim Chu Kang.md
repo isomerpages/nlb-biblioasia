@@ -63,4 +63,6 @@ Neo had good reason to be confident because he commanded the Singapore Rural Boa
 
 Crime was rare as Neo had his own methods of dealing with offenders. Repeat and serious offenders were turned over to the government and repatriated to China, according to a Straits Times report. Those caught gambling had to buy and distribute biscuits to every household with an apology, while caught stealing were made to wear a huge paper hat with the words “I am a thief” and made to parade from house to house.[^23]
 
-That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter
+That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter and photographer from the Straits Times decided to visit Neo at Thong Hoe Village.
+
+“We stopped our car by the roadside, and asked where the headman was. ‘He is waiting for you,’ said the man, pointing to a big house in the centre of the village. We were startled. We had arrived unannounced. We walked into the house, followed by three silent men and were challenged by a grey haired man, who stared at us with silent hostility,” wrote the reporter. “‘I am Neo Tiew, and I own this village. Who are you, and what do you want with me?’ he asked.”[^24]
