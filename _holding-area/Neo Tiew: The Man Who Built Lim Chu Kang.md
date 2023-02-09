@@ -140,3 +140,5 @@ Readers can make a request to view the following materials from the Reference Co
 [^11]: “Page 7 Advertisements Column 2: Government Notification,” _Malaya Tribune_, 8 October 1930, 7. (From NewspaperSG). The tender notice was issued by Deputy Colonial Engineer R.I. Nunn.
 
 [^12]: “The Rural Board’s Work,” _Singapore Free Press_, 10 April 1931, 12; “The Annual Report,” _Singapore Free Press_, 10 March 1932, 7. (From NewspaperSG)
+
+[^13]: Han, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_, 151; Li, _Lianghouzhou yu lin cuo gang_, 84–87. The village was officially named Thong Hoe in 1949. See Ah Dan 啊丹, “You shanghao de ming de jiedao yu xiangcun” 由商号得名的街道与乡村 [Streets and villages named after the business], _Lianhe Wanbao_ 联合晚报, 28 January 1984, 2. (From NewspaperSG)
