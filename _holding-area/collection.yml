@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "Neo Tiew: The Man Who Built Lim Chu Kang.md"
       - Test page.md
