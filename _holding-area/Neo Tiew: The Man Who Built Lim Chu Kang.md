@@ -161,4 +161,12 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^22]: _Singapore Rural Board (Western Region) Volunteer Police_, 1950s, photograph, National Museum of Singapore, National Heritage Board, https://www.roots.gov.sg/Collection-Landing/listing/1265464; Chan, “The Big Boss.”
 
-[^23]: 
+[^23]: Low Mei Mei, “When Tigers Roamed Free and Thieves Got Paraded,” _Straits Times_, 9 December 1986, 18. (From NewspaperSG); Chan, “The Big Boss.”
+
+[^24]: “Man with Hand of Iron Rules the Village of No Crime.”
+
+[^25]: “Man with Hand of Iron Rules the Village of No Crime.”
+
+[^26]: Chan, “The Big Boss."
+
+[^27]: “Lianghouzhou zi zhi fa dianji tong he cun da fang guangming wei dazhong fuwu sui kuishi yi buzu xi” 梁後宙自置發電機通和村大放光明為大眾服務雖虧蝕亦不足惜 [Liang Houzhou’s self-built generator, Tonghe Village, shines brightly to serve the public, even if it loses money, it is not a pity], _Nanyang Siang Pau_ 南洋商报, 25 November 1952, 5. (From NewspaperSG)
