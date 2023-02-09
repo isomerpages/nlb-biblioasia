@@ -142,17 +142,17 @@ Readers can make a request to view the following materials from the Reference Co
 
 [^12]: “The Rural Board’s Work,” _Singapore Free Press_, 10 April 1931, 12; “The Annual Report,” _Singapore Free Press_, 10 March 1932, 7. (From NewspaperSG)
 
-[^13]: Han, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_, 151; Li, _Lianghouzhou yu lin cuo gang_, 84–87. The village was officially named Thong Hoe in 1949. See Ah Dan 啊丹, “You shanghao de ming de jiedao yu xiangcun” 由商号得名的街道与乡村 [Streets and villages named after the business], _Lianhe Wanbao_ 联合晚报, 28 January 1984, 2. (From NewspaperSG)
+[^13]: Han, [<i>Wei yang lin cuo gang bendi chuanqi renwu lianghozhou</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84524456), 151; Li, [<i>Lianghouzhou yu lin cuo gang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196), 84–87. The village was officially named Thong Hoe in 1949. See Ah Dan 啊丹, “You shanghao de ming de jiedao yu xiangcun” [由商号得名的街道与乡村](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840128-1.2.9.4.1) [Streets and villages named after the business], _Lianhe Wanbao_ 联合晚报, 28 January 1984, 2. (From NewspaperSG)
 
-[^14]: Lim Chin Sei, oral history interview by Jesley Chua Chee Huan, 20 April 1987, MP3 audio, Reel/Disc 3 of 9, 30:11, National Archives of Singapore (accession no. 000766-3). [Note: Interview is in Hokkien]
+[^14]: [Lim Chin Sei](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56fe84a0-1160-11e3-83d5-0050568939ad), oral history interview by Jesley Chua Chee Huan, 20 April 1987, MP3 audio, Reel/Disc 3 of 9, 30:11, National Archives of Singapore (accession no. 000766-3). [Note: Interview is in Hokkien]
 
-[^15]: Li, _Lianghouzhou yu lin cuo gang_, 90; “About Us,” Qihua Primary School, accessed 27 March 2022, https://qihuapri.moe.edu.sg/about-us/school-profile/school-profile/. Today, Kay Wah School is known as Qihua Primary School and is located at Woodlands Street 81.
+[^15]: Li, [<i>Lianghouzhou yu lin cuo gang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196), 90; “About Us,” Qihua Primary School, accessed 27 March 2022, https://qihuapri.moe.edu.sg/about-us/school-profile/school-profile/. Today, Kay Wah School is known as Qihua Primary School and is located at Woodlands Street 81.
 
-[^16]: Li, _Lianghouzhou yu lin cuo gang_, 89.
+[^16]: Li, [<i>Lianghouzhou yu lin cuo gang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202522196), 89.
 
-[^17]: “Tan dao xing zhou mofan cun” 談到星洲模範村 [Speaking of Sin Chew Model Village], _Nanyang Siang Pau_ 南洋商报, 13 February 1937, 5. (From NewspaperSG)
+[^17]: “Tan dao xing zhou mofan cun” [談到星洲模範村](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370213-1.2.40.1) [Speaking of Sin Chew Model Village], _Nanyang Siang Pau_ 南洋商报, 13 February 1937, 5. (From NewspaperSG)
 
-[^18]: “How the Money Goes,” _Malaya Tribune_, 5 October 1931, 3; “As I Was Saying,” _Singapore Free Press_, 11 June 1934, 8; “New Service Aerodrome Ready,” _Straits Times_, 1 December 1935, 5; “Tengah Drome Under Test,” _Singapore Free Press_, 2 December 1935, 6; “Landing at New Aerodrome,” _Malaya Tribune_, 2 November 1936, 12. (From NewspaperSG)
+[^18]: “[How the Money Goes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19311005-1.2.14),” _Malaya Tribune_, 5 October 1931, 3; “[As I Was Saying](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340611-1.2.73),” _Singapore Free Press_, 11 June 1934, 8; “[New Service Aerodrome Ready](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351201-1.2.50),” _Straits Times_, 1 December 1935, 5; “[Tengah Drome Under Test](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351202-1.2.42),” _Singapore Free Press_, 2 December 1935, 6; “[Landing at New Aerodrome](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19361102-1.2.97),” _Malaya Tribune_, 2 November 1936, 12. (From NewspaperSG)
 
 [^19]: National Museum of Singapore, National Heritage Board, “KMT Certificate of Appointment Bestowed Upon Neo Tiew by the Overseas Chinese Affairs Commission,” 1951, Roots, https://www.roots.gov.sg/Collection-Landing/listing/1269454.
 
