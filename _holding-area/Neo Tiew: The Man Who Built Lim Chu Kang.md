@@ -87,4 +87,16 @@ As farming villages across Singapore emptied out in the 1980s, this spelled the 
 
 Bennett said that the family was quite self-sufficient as “we kept our own pigs and chickens and we also had fruit trees”. His grandfather may have been Neo Tiew the headman, but as they were living in rural Singapore, they had to use coconut husks as fuel for the kitchen stove.
 
-As a child, Bennett enjoyed the carefree existence afforded by living in a rural area. He spent his time climbing trees and catching fish. His childhood
+As a child, Bennett enjoyed the carefree existence afforded by living in a rural area. He spent his time climbing trees and catching fish. His childhood friends included Malays and Indians, who could speak Hokkien. The highlight of the year for Bennett was the Hungry Ghost Festival. It was “most memorable as there would be an elaborate celebration with a getai show, an auction and a big dinner”.34
+
+The area received a minor boost when the HDB built Neo Tiew Estate at the junction of Lim Chu Kang Road and Neo Tiew Road in 1979. The estate provided neighbourhood amenities to people living around that part of Lim Chu Kang for about two decades until the estate was selected for the Selective En-bloc Redevelopment Scheme in 1998.35 In 2002, the estate was taken over by the Singapore Armed Forces and turned into an urban warfare training facility that simulated fighting in a built-up environment.
+
+The area’s physical transformation was, however, far from complete. At the National Day Rally in 2013, Prime Minister Lee Hsien Loong unveiled plans to transform Paya Lebar with the relocation of Paya Lebar Air Base. This would free up 800 hectares of land for “new homes, new offices, new factories, new parks, new living environments, new communities” – in effect, a blank slate in a choice site in the heart of the island.36
+
+While this was welcome news to many, the new policy had a knock-on effect on Lim Chu Kang. In 2017, it was announced that Lim Chu Kang Road would be realigned for the expansion of Tengah Air Base to accommodate the relocation of assets from Paya Lebar Air Base. Six farms had to be cleared and the Choa Chu Kang Chinese Cemetery was to be reduced by one-third of its current size.37
+
+In a further twist of fate, the Covid-19 pandemic has given Lim Chu Kang a new lease of life. In March 2019, just months before the coronavirus first emerged, the government announced a “30 by 30” goal to produce 30 percent of Singapore’s food needs locally by 2030.38
+
+The plan attained a new urgency after the pandemic was declared and supply chains became severely disrupted. For a country that imports 90 percent of its food, the “30 by 30” goal was now a strategic imperative.
+
+In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be transformed into a “high-tech agri-food cluster” to strengthen Singapore’s food security and create jobs for Singaporeans. The food cluster is expected to “produce more than three times its current food production when completed” and development works are slated to start in 2024.39 Far from fading into irrelevance in increasingly urbanised Singapore, rural Lim Chu Kang is now poised for a bright new future. It appears that Neo Tiew’s efforts over a century ago are still bearing fruit.
