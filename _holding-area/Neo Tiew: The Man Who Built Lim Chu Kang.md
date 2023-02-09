@@ -75,4 +75,16 @@ Neo’s work and contributions were recognised when he was awarded a knighthood 
 
 In the 1950s, the colonial government expanded its efforts in developing the island. From 1952, the government began acquiring land to resettle squatters and develop Singapore’s agricultural sector.[^30]
 
-Handicapped by a limited budget and high land costs, land acquisition did not take place on a large scale. Regardless, the government launched Operation 
+Handicapped by a limited budget and high land costs, land acquisition did not take place on a large scale. Regardless, the government launched Operation Clean-up on 12 July 1956. With a budget of $5.5 million, more than 5,000 acres of old rubber plantations, swamp and scrubland in areas such as Lim Chu Kang, Kranji and Choa Chu Kang were cleared for resettlement. Within five years, 20 resettlement areas opened up and 2,000 people were relocated.[^31]
+
+#### **Development and Resettlement**
+
+After Singapore attained self-government in 1959, the government began implementing infrastructure development programmes. In 1960, Prime Minister Lee Kuan Yew announced that a community centre – a modest, simple structure costing about $15,000 each – would be built at Thong Hoe Village, among other places.32
+
+In May 1963, a new maternal and children’s health clinic was opened in Thong Hoe Village to some fanfare. Life further improved with the arrival of electricity. In March 1963, the Public Utilities Board announced its rural electrification programme at a cost of $1.4 million, covering 42 kampongs, rural roads and benefiting 2,000 homes.33
+
+As farming villages across Singapore emptied out in the 1980s, this spelled the end of a unique way of life in Lim Chu Kang. Bennett Neo, Neo Tiew’s oldest grandson, grew up in Thong Hoe village in the 1970s. Bennett was born in in 1969 and lived in the village with his grandparents, uncles and their families. “We had a shop and I remember selling drinks and candy there,” he recalled. “We also operated a cinema with both open-air and sheltered seats.”
+
+Bennett said that the family was quite self-sufficient as “we kept our own pigs and chickens and we also had fruit trees”. His grandfather may have been Neo Tiew the headman, but as they were living in rural Singapore, they had to use coconut husks as fuel for the kitchen stove.
+
+As a child, Bennett enjoyed the carefree existence afforded by living in a rural area. He spent his time climbing trees and catching fish. His childhood 
