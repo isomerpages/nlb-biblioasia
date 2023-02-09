@@ -152,3 +152,13 @@ Readers can make a request to view the following materials from the Reference Co
 [^17]: “Tan dao xing zhou mofan cun” 談到星洲模範村 [Speaking of Sin Chew Model Village], _Nanyang Siang Pau_ 南洋商报, 13 February 1937, 5. (From NewspaperSG)
 
 [^18]: “How the Money Goes,” _Malaya Tribune_, 5 October 1931, 3; “As I Was Saying,” _Singapore Free Press_, 11 June 1934, 8; “New Service Aerodrome Ready,” _Straits Times_, 1 December 1935, 5; “Tengah Drome Under Test,” _Singapore Free Press_, 2 December 1935, 6; “Landing at New Aerodrome,” _Malaya Tribune_, 2 November 1936, 12. (From NewspaperSG)
+
+[^19]: National Museum of Singapore, National Heritage Board, “KMT Certificate of Appointment Bestowed Upon Neo Tiew by the Overseas Chinese Affairs Commission,” 1951, Roots, https://www.roots.gov.sg/Collection-Landing/listing/1269454.
+
+[^20]: Douglas Chan, “The Big Boss” _New Nation_, 23 November 1975, 5. (From NewspaperSG); Li, _Lianghouzhou yu lin cuo gang_, 96–97. Neo’s involvement and role in anti-Japanese activities such as the China Relief Fund is not documented in extant English-language scholarship.
+
+[^21]: Chan, “The Big Boss”; Peter Ong, “A Grand Man Recalls His Past...,” _New Nation_, 22 April 1975, 4. (From NewspaperSG)
+
+[^22]: _Singapore Rural Board (Western Region) Volunteer Police_, 1950s, photograph, National Museum of Singapore, National Heritage Board, https://www.roots.gov.sg/Collection-Landing/listing/1265464; Chan, “The Big Boss.”
+
+[^23]: 
