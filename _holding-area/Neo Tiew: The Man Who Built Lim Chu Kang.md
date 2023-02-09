@@ -114,3 +114,21 @@ Readers can make a request to view the following materials from the Reference Co
 * 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (Call no. RCLOS 305.8951 PLE; Accession no. B29487728C)
 * 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (Call no. RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D)
 * 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (Call no. RCLOS 959.5703 XJP; Accession no. B32427005A)
+
+#### **NOTES**
+
+[^1]: Jean Lim, “Farmlands in Lim Chu Kang,” in _Singapore Infopedia_. National Library Board Singapore. Article published 2009.
+
+[^2]: Also known as Neo Ao Tiew (梁后宙).
+
+[^3]: Alexander W. Cashin was the son of Joseph William Cashin. At the time of his death, Joseph William Cashin was the managing director of the Opium and Liquor Farms of Singapore and had a “large financial interest” in them. He was also known to have made a fortune in land speculation “some years ago”, prior to his death. See “Death of Mr. J.W. Cashin,” _Singapore Free Press_, 8 August 1907, 8. (From NewspaperSG)
+
+[^4]: Li Chengli 李成利, _Lianghouzhou yu lin cuo gang_ 梁后宙与林厝港 [Neo Ao Tiew and Lim Chu Kang] (Singapore: Singapore Nan’an Association Arts and Culture Club, 2015), 41, 42. (From National Library Nan’an, Singapore, call no. Chinese RSING 305.8951 LCL)
+
+[^5]: Fang Baicheng 方百成 and Du Nanfa 杜南发, eds., _Shijie fujian mingren lu. Xinjiapo bian_ 世界福建名人录. 新加坡编 [Prominent Figures of the World Fujian Communities: Singapore] (Singapore: Singapore Hokkien Huay Kuan, 2012), 265. (From National Library, Singapore, call no. Chinese RSING 920.05957 PRO)
+
+[^6]: Li, _Lianghouzhou yu lin cuo gang_, 43.
+
+[^7]: Mirza Mohamed Ali Namazie was the founder of the firm M.A. Namazie and Sons. He was a Justice of the Peace and a member of the Singapore Municipal Commission for several years. He commissioned and financed the construction of Capitol Building.
+
+[^8]: Neo also leased 60 acres from Cashin. See Han Sanyuan 韩山远, _Wei yang lin cuo gang bendi chuanqi renwu lianghozhou_ 威扬林厝港本地传奇人物梁后宙 [The legend who reigned over Lim Chu Kang – Neo Ao Tiew] in Singapore Lam Ann Association Committee 新加坡南安会馆委会, _Xinjiapo nan’an xianxian zhuan_ 新加坡南安先贤传 [Stories of Lam Ann Pioneers in Singapore], vol. 1 (Singapore: Singapore Nan An Association, 1998), 141–43 (From National Library, Singapore, call no. Chinese R959.570099 XJP-[HIS]). The naming of the village after the provision shop was a common practice that E.H.G. Dobby documented in his 1940 survey piece. See E.H.G. Dobby, “Singapore: Town and Country,” _Geographical Review_ 30, no. 1 (January 1940): 84–109. (From JSTOR via NLB’s eResources website)
