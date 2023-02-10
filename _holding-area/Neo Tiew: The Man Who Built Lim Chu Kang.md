@@ -36,9 +36,6 @@ It took five years for the men to clear the land and reach the upper tributaries
 
 This was when Neo’s business took off. Together with Cashin’s gift of 60 acres of land, Neo expanded his own land to 200 acres, centred around Nam Hoe Village and the jetty he built. (The village was named after its most prominent landmark, the Nam Hoe provision shop that Neo had opened.[^8])
 
-![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Thong_Hoe_Village.png)
-<div style="background-color: white;">Thong Hoe Village in Lim Chu Kang was named after one of the provision shops that Neo Tiew owned. He was also the headman of the village. Photo taken in 1975. <i>Image reproduced from 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (From National Library, Singapore, call no.: RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D).</i></div>
-
 The Kranji River was Nam Hoe Village’s only connection to the outside world. To get to Woodlands Road, which was the most direct route to the town, one would first have to traverse by boat down the river and disembark at Jalan Nam Huat. This inaccessibility also cut the area off from the growing traffic that came when the Causeway opened in 1923.[^9]
 
 Neo lobbied the colonial government to build a road to connect the Lim Chu Kang area to the rest of the island.[^10] The government insisted on a co-payment model and left Neo to canvass and raise funds for this project. In total, more than $30,000 was raised for the 8-kilometre-long road.
@@ -46,6 +43,9 @@ Neo lobbied the colonial government to build a road to connect the Lim Chu Kang 
 On 4 October 1930, the Public Works Department opened a tender for the construction of “earthwork formation for new road at Lim Chu Kang”.[^11] By 1932, Lim Chu Kang Road was “open to within 1½ miles of the Johore Straits”.[^12]
 
 The new road provided the impetus for the founding of another village, Thong Hoe, which was named after yet another provision shop owned by Neo.[^13]
+
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Thong_Hoe_Village.png)
+<div style="background-color: white;">Thong Hoe Village in Lim Chu Kang was named after one of the provision shops that Neo Tiew owned. He was also the headman of the village. Photo taken in 1975. <i>Image reproduced from 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (From National Library, Singapore, call no.: RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D).</i></div>
 
 Lim Chin Sei, who used to be a farmer in Lim Chu Kang, recalled in his oral history interview that the provision shop was the centre of village life, a meeting point and the place where Neo arbitrated and resolved disputes and quarrels. According to Lim, Neo loved to regale his audience with stories – there were no airs about him despite his wealth – and he frequently attended weddings and funerals, keeping his pulse on things. When it came to crime though, Neo was firm and no-nonsense, and the village thugs were afraid of him.[^14]
 
@@ -97,6 +97,10 @@ After Singapore attained self-government in 1959, the government began implement
 In May 1963, a new maternal and children’s health clinic was opened in Thong Hoe Village to some fanfare. Life further improved with the arrival of electricity. In March 1963, the Public Utilities Board announced its rural electrification programme at a cost of $1.4 million, covering 42 kampongs, rural roads and benefiting 2,000 homes.[^33]
 
 As farming villages across Singapore emptied out in the 1980s, this spelled the end of a unique way of life in Lim Chu Kang. Bennett Neo, Neo Tiew’s oldest grandson, grew up in Thong Hoe village in the 1970s. Bennett was born in in 1969 and lived in the village with his grandparents, uncles and their families. “We had a shop and I remember selling drinks and candy there,” he recalled. “We also operated a cinema with both open-air and sheltered seats.”
+
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Provision_Shop.png)
+<div style="background-color: white;">The Nam Hoe provision shop owned by Neo Tiew in Nam Hoe Village (undated). <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).
+</i></div>
 
 Bennett said that the family was quite self-sufficient as “we kept our own pigs and chickens and we also had fruit trees”. His grandfather may have been Neo Tiew the headman, but as they were living in rural Singapore, they had to use coconut husks as fuel for the kitchen stove.
 
