@@ -149,6 +149,9 @@ The National Library of Singapore’s Peng Lee Er Collection, Hsu Yun Tsiao Coll
 
 There are also photographs of the scenery and amenities in Lim Chu Kang such as Kay Wah School (now Qihua Primary School) and the Nam Hoe provision shop. Other photographs include those of Neo’s family and friends, his funeral in 1975 and the epitaph presented to him in 1946 by the Kuomintang government in memory of the massacre of 35 of his family members during the Japanese Occupation.
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends.png)
+<div style="background-color: white;">Mrs Neo Tiew (2nd from left), Neo Tiew (3rd from left), and their good friends, Mr and Mrs Peng Song Toh (undated). Peng Song Toh was a famous journalist and editor of several Chinese newspapers, including the <i>Nanyang Siang Pau</i>, from the 1950s to the 1970s. In 2021, Mdm Peng Lee Er, the daughter of Peng Song Toh, donated her father’s collection of items relating to Neo Tiew to the National Library. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
+
 A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
 
 Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
