@@ -76,6 +76,9 @@ On 13 February 1942, with the imminent fall of Singapore to the Japanese, Neo an
 
 While in China, Neo enrolled in Chiang’s “anti-bandit army and was instrumental in persuading many of the lawless to lay down their arms”. Neo said he enjoyed a close friendship with Chiang. “When General Chiang died, I was invited to attend his funeral, but I sent my son as a representative,” he told the _New Nation_ newspaper in 1975. “We were in the same unit of the Chinese Army before the Cultural Revolution and Chiang was my junior.”[^21]
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Chinese_Military_Uniform.png)
+<div style="background-color: white;">Neo Tiew in a Chinese military uniform, 1910s. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
+
 When the Japanese Occupation ended, Neo returned to Singapore and found out that his entire family had been killed. He rebuilt his life, remarried and settled down in Lim Chu Kang. However, the Malayan Emergency (1948–60) brought new problems and a price of $15,000 was reportedly put on his head. Neo was supposedly unperturbed by this and remarked that “[his] flesh is very expensive indeed”.
 
 Neo had good reason to be confident because he commanded the Singapore Rural Board (Western Region) Volunteer Police – which the government equipped with both arms and uniforms – for the Lim Chu Kang area. Neo was given six pairs of handcuffs and 14 shotguns, although the shotguns were more for dealing with tigers than criminals.[^22]
