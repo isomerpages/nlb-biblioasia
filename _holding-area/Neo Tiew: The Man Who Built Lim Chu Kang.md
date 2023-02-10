@@ -71,6 +71,9 @@ In 1940, Neo was appointed by Chiang to head the Singapore branch of the KMT You
 
 On 13 February 1942, with the imminent fall of Singapore to the Japanese, Neo and one of his sons were evacuated to India and thereafter to China. The following day, tragedy befell Neo when his entire family of 35 left behind in Singapore was massacred by the Japanese.[^20]
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Calligraphy_Scroll.png)
+<div style="background-color: white;">Calligraphy scroll in memory of the massacre of 35 members of Neo Tiew’s family during the Japanese Occupation, 1969. The scroll was signed by Gao Xin, chairman of the Chinese Government Overseas Chinese Affairs Committee, Republic of China. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Neo Ah Chap.</i></div>
+
 While in China, Neo enrolled in Chiang’s “anti-bandit army and was instrumental in persuading many of the lawless to lay down their arms”. Neo said he enjoyed a close friendship with Chiang. “When General Chiang died, I was invited to attend his funeral, but I sent my son as a representative,” he told the _New Nation_ newspaper in 1975. “We were in the same unit of the Chinese Army before the Cultural Revolution and Chiang was my junior.”[^21]
 
 When the Japanese Occupation ended, Neo returned to Singapore and found out that his entire family had been killed. He rebuilt his life, remarried and settled down in Lim Chu Kang. However, the Malayan Emergency (1948–60) brought new problems and a price of $15,000 was reportedly put on his head. Neo was supposedly unperturbed by this and remarked that “[his] flesh is very expensive indeed”.
