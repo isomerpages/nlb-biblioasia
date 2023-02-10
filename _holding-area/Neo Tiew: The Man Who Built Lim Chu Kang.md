@@ -6,6 +6,9 @@ description: ""
 #### The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 by Alvin Tan
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png)
+<div style="background-color: white;">Neo Tiew with his medals, 1975. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
+
 Neo Tiew Estate is a small housing estate in Lim Chu Kang.[^1] It consists of three low-rise blocks of vacant flats, a disused market and food centre, and an abandoned children’s playground. The residents were resettled in the late 1990s and early 2000s and the estate is now used for training by the Singapore Armed Forces.
 
 Neo Tiew Estate, and the nearby Neo Tiew Road, Neo Tiew Crescent and Neo Tiew Lanes 1, 2 and 3 are named after a remarkable man by the name of Neo Tiew (梁宙; 1884–1975).[^2] Neo played an instrumental role in the development of Lim Chu Kang. It is thanks to his energy and vision that the area was cleared and became used as farmland. While agriculture is no longer a large part of Singapore’s economy today, the Lim Chu Kang area has an important role to play in the country’s plans to become more self-sufficient in food. A century after Neo first began clearing the area, the impact of his work is still being felt.
