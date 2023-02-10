@@ -98,6 +98,10 @@ Threats to his safety did not dilute Neo’s concern for the welfare of the vill
 
 Neo’s work and contributions were recognised when he was awarded a knighthood and admitted as a Member of the Most Excellent Order of the British Empire (MBE) by Queen Elizabeth II in June 1954.[^28] Neo Tiew Road was also named in his honour.[^29]
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Elizabeth_the_Second.png)
+<div style="background-color: white;">Medal with the accompanying certificate for the Most Excellent Order of the British Empire (MBE) awarded by Queen Elizabeth II to Neo Tiew, 1954. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Neo Ah Chap.
+</i></div>
+
 ![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Road.png)
 <div style="background-color: white;">Neo Tiew and the road named after him, 1975. <i>Image reproduced from 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (From National Library, Singapore, call no.: RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D).</i></div>
 
