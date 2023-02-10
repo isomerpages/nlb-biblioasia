@@ -140,6 +140,9 @@ The plan attained a new urgency after the pandemic was declared and supply chain
 
 In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be transformed into a “high-tech agri-food cluster” to strengthen Singapore’s food security and create jobs for Singaporeans. The food cluster is expected to “produce more than three times its current food production when completed” and development works are slated to start in 2024.[^39] Far from fading into irrelevance in increasingly urbanised Singapore, rural Lim Chu Kang is now poised for a bright new future. It appears that Neo Tiew’s efforts over a century ago are still bearing fruit.
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Estate.png)
+<div style="background-color: white;">Neo Tiew Estate consisted of three low-rise blocks of flats, a disused market and food centre, and a children’s playground. The estate is now used for training by the Singapore Armed Forces. <i>Photo by Jimmy Yap.</i></div>
+
 #### **NEO TIEW'S PHOTOGRAPHS AND PERSONAL DOCUMENTS**
 
 The National Library of Singapore’s Peng Lee Er Collection, Hsu Yun Tsiao Collection and Singapore Lam Ann Association Collection contain photographs and personal documents relating to Neo Tiew. These include photographs of the medals and certificates of honour awarded to Neo by the Chinese Kuomintang government and the British colonial government for his help defending Singapore during World War II and the Malayan Emergency as well as his contributions in developing Lim Chu Kang.
