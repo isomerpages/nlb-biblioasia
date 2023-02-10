@@ -77,6 +77,9 @@ When the Japanese Occupation ended, Neo returned to Singapore and found out that
 
 Neo had good reason to be confident because he commanded the Singapore Rural Board (Western Region) Volunteer Police – which the government equipped with both arms and uniforms – for the Lim Chu Kang area. Neo was given six pairs of handcuffs and 14 shotguns, although the shotguns were more for dealing with tigers than criminals.[^22]
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Group_photo.png)
+<div style="background-color: white;">Neo Tiew with the Singapore Rural Board (Western Region) Volunteer Police, c. 1950s. Neo Tiew helped establish this police force during the Malayan Emergency. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Neo Ah Chap.</i></div>
+
 Crime was rare as Neo had his own methods of dealing with offenders. Repeat and serious offenders were turned over to the government and repatriated to China, according to a _Straits Times_ report. Those caught gambling had to buy and distribute biscuits to every household with an apology, while caught stealing were made to wear a huge paper hat with the words “I am a thief” and made to parade from house to house.[^23]
 
 That said, Neo did not take his safety for granted as was demonstrated in March 1953 when a reporter and photographer from the _Straits Times_ decided to visit Neo at Thong Hoe Village.
