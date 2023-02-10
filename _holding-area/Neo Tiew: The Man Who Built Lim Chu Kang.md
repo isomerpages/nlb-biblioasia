@@ -157,7 +157,8 @@ There are also photographs of the scenery and amenities in Lim Chu Kang such as 
 
 A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
 
-
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Letters_combined.png)
+<div style="background-color: white;">The letter written by Neo Tiew to the Singapore Chinese Chamber of Commerce during the exhumation of war victims in Singapore on 24 March 1962, which describes the torture and killing of 35 of his family members. The letter was addressed to Ng Aik Huan, who headed the Disposal of Remains Committee established by the chamber to locate, exhume and rebury the remains of war victims. <i>Image reproduced from 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (From National Library, Singapore, call no. Lee Kong Chian Reference Library level 11, RCLOS 959.5703 XJP).</i></div>
 
 Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
 
