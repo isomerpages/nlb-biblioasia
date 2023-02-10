@@ -157,6 +157,8 @@ There are also photographs of the scenery and amenities in Lim Chu Kang such as 
 
 A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
 
+
+
 Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
 
 * 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (Call no. RCLOS 305.8951 PLE; Accession no. B29487728C)
