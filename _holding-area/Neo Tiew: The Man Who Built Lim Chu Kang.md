@@ -166,6 +166,11 @@ Readers can make a request to view the following materials from the Reference Co
 * 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (Call no. RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D)
 * 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (Call no. RCLOS 959.5703 XJP; Accession no. B32427005A)
 
+<div style="background-color: white;"> 
+<br/>
+<b>Alvin Tan</b> is an independent researcher and writer focusing on
+Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+
 #### **NOTES**
 
 [^1]: Jean Lim, “[Farmlands in Lim Chu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1611_2009-11-30.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2009.
