@@ -36,6 +36,9 @@ It took five years for the men to clear the land and reach the upper tributaries
 
 This was when Neo’s business took off. Together with Cashin’s gift of 60 acres of land, Neo expanded his own land to 200 acres, centred around Nam Hoe Village and the jetty he built. (The village was named after its most prominent landmark, the Nam Hoe provision shop that Neo had opened.[^8])
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Thong_Hoe_Village.png)
+<div style="background-color: white;">Thong Hoe Village in Lim Chu Kang was named after one of the provision shops that Neo Tiew owned. He was also the headman of the village. Photo taken in 1975. <i>Image reproduced from 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (From National Library, Singapore, call no.: RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D).</i></div>
+
 The Kranji River was Nam Hoe Village’s only connection to the outside world. To get to Woodlands Road, which was the most direct route to the town, one would first have to traverse by boat down the river and disembark at Jalan Nam Huat. This inaccessibility also cut the area off from the growing traffic that came when the Causeway opened in 1923.[^9]
 
 Neo lobbied the colonial government to build a road to connect the Lim Chu Kang area to the rest of the island.[^10] The government insisted on a co-payment model and left Neo to canvass and raise funds for this project. In total, more than $30,000 was raised for the 8-kilometre-long road.
