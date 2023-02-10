@@ -13,6 +13,9 @@ Neo Tiew Estate is a small housing estate in Lim Chu Kang.[^1] It consists of th
 
 Neo Tiew Estate, and the nearby Neo Tiew Road, Neo Tiew Crescent and Neo Tiew Lanes 1, 2 and 3 are named after a remarkable man by the name of Neo Tiew (梁宙; 1884–1975).[^2] Neo played an instrumental role in the development of Lim Chu Kang. It is thanks to his energy and vision that the area was cleared and became used as farmland. While agriculture is no longer a large part of Singapore’s economy today, the Lim Chu Kang area has an important role to play in the country’s plans to become more self-sufficient in food. A century after Neo first began clearing the area, the impact of his work is still being felt.
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo%20Tiew%20map.png)
+<div style="background-color: white;">A map of Lim Chu Kang, with its network of roads named after Neo Tiew.</div>
+
 #### **A Meeting of Minds**
 
 It was 1914 and businessman Alexander W. Cashin (1876–1947) owned 800 acres of land in Lim Chu Kang that he wanted to develop.[^3] He needed someone honest and trustworthy, and with experience in land clearance and plantation management. He found that man in the person of Neo Tiew.[^4]
