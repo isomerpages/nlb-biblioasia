@@ -53,6 +53,9 @@ Seeing that Lim Chu Kang needed a proper school, Neo donated five acres of land 
 
 At Neo’s behest, the government eventually opened a maternal clinic, staffed by a matron trained in midwifery, in the village in 1940. As a result, Neo no longer had to drive in the dark of night to send a woman in labour to the nearest hospital, which was what he used to have to do.[^16]
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Medical_Services.png)
+<div style="background-color: white;">Medical services by the Ama Keng Maternity and Child Welfare Clinic, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 In 1937, the _Nanyang Siang Pau_ newspaper described the Lim Chu Kang area as a well-equipped model village of 5,000 that had acquired a distinctive character and atmosphere under Neo’s astute direction and hard work.[^17] Neo’s philanthropy, tucked away in remote Lim Chu Kang, might have lacked prominence but its impact on the lives of the villagers, most of whom were farmers, was immense.
 
 Lim Chu Kang’s agrarian character began to change in the 1930s. In 1934, the government acquired 54 acres in Lim Chu Kang for the Royal Air Force (RAF) to build RAF Tengah. By December 1935, the airbase - which occupied 130 acres and had “one of the longest runways of any aerodrome in the Empire” – was declared ready for load testing. On 2 November 1936, the aerodrome was declared open after four aircraft, led by Air Commodore S.W. Smith, Commander of the RAF Far East, landed at 10 am.[^18]
