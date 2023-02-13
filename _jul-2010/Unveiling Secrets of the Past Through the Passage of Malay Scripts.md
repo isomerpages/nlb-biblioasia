@@ -134,5 +134,41 @@ Zalila Sharif & Jamilah Haji Ahmad. (1993). _[Kesusasteraan Melayu tradisional](
 
 \*Images reproduced from Supa’at, J. & Gopaul, N. (Eds). (2009). _Aksara menjejaki tulisan Melayu = Aksara the passage of Malay scripts_. All rights reserved, National Library Board, 2009. Kota Kapur Stone. Source: replica from the Museum National Indonesia. Jawi Peranakan. Source: National Library Board. Surat Buluh Manuscript. Source: National Library of Indonesia. Tanjung Tanah Manuscript. Source: Dr Uli Kozok, University of Hawai’i.
 
+#### **NOTES**    
+
+[^1]: [Braginsky](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 2004, p. 1.
+
+[^2]: [Tham](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515), 1977, p. 16
+
+[^3]: Following an exhibition by the National Library Board in 2007 that traces the evolution and transformation of the Malay writing system.
+
+[^4]: “Aksara” means script in Malay. It is a Sanskrit word absorbed into Malay vocabulary.
+
+[^5]: Noriah (1998:58–60) explained that the archaic Malay language had 157 Malay words or Austronesia language in its natural form.
+
+[^6]: Mohamed Pitchay Gani’s thesis (2004) produced the six stages of Malay language evolution of which the most contemporary level is the Internet language. Prior to this finding, Abdullah Hassan (1994:7–9) identified four stages of evolution. Mohamed Pitchay has added Indonesia language and the Internet language as two more important stages of evolution to the Malay language.
+
+[^7]: [Hashim Musa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 2003, p. 27.
+
+[^8]: SITC is the first teacher training college in Malaya proposed by Deputy Director of Malay Schools, Sir R.O Winstead. Before SITC, there was the Malay Training College in Telok Belanga (Singapore) in 1878, relocated to Telok Ayer in 1884 and closed in 1895. There was also a Malay Training College in Malacca (1900) and Perak (1913). These two colleges were amalgamated to form SITC. It was designed to provide teacher training and education to only the highest achieving Malay students in pre- independent Malaya. In 1997, it was upgraded to become the Sultan Idris Education University.
+
+[^9]: Casparis ([Hashim Musa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 2003:29) classified the scripts found in the Srivijaya manuscripts as the later type of Pallava scripts and much more developed compared with the earlier scripts. As such, it is also classified as the Bahasa Melayu Tua or the ancient Malay language.
+
+[^10]: [Winstead](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057), 1969, p. 1.
+
+[^11]: [Syed Muhammad Naquib al-Attas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357), 1988, pp. 6–8
+
+[^12]: Roff, 1974, p. 451.
+
+[^13]: [Othman Puteh & Ramli Isin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972), 2003, p. 3.
+
+[^14]: [Mohd Thani, Sadon & Suhaimi Haji Muhammad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 2005, p. 163.
+
+[^15]: [Mohd Thani, Sadon & Suhaimi Haji Muhammad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 2005, p. 80.
+
+[^16]: It is believed to be the oldest existing Malay manuscript because it is written in the later Kawi scripts. The manuscript is a legal code of 34 pages completely written in Malay except for the first and last few sentences, which are written in Sanskrit. The material the text is written on is bark paper produced from the bark of the mulberry tree, and the script is an Indian-derived script, which developed locally in Sumatra. Kozok found the manuscript in 2002. It had been kept in a private collection in a remote part of Sumatra where villagers regard it to be a sacred heirloom with calamity befalling the village should it be removed.
+
+[^17]: [Braginsky](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 2004, p. 1.
+
 
 
