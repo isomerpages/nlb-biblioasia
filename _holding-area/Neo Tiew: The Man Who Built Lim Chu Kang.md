@@ -148,13 +148,13 @@ In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be 
 The National Library of Singapore’s Peng Lee Er Collection, Hsu Yun Tsiao Collection and Singapore Lam Ann Association Collection contain photographs and personal documents relating to Neo Tiew. These include photographs of the medals and certificates of honour awarded to Neo by the Chinese Kuomintang government and the British colonial government for his help defending Singapore during World War II and the Malayan Emergency as well as his contributions in developing Lim Chu Kang.
 <br><br>
 <img
-src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Medals_and_Certificates.png">
+src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Medals_and_Certificates_2.png">
 <div>Neo Tiew with his medals and certificates of honour, 1975. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 
 There are also photographs of the scenery and amenities in Lim Chu Kang such as Kay Wah School (now Qihua Primary School) and the Nam Hoe provision shop. Other photographs include those of Neo’s family and friends, his funeral in 1975 and the epitaph presented to him in 1946 by the Kuomintang government in memory of the massacre of 35 of his family members during the Japanese Occupation.
 <br><br>
 <img
-src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends.png">
+src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends_2.png">
 <div>Mrs Neo Tiew (2nd from left), Neo Tiew (3rd from left), and their good friends, Mr and Mrs Peng Song Toh (undated). Peng Song Toh was a famous journalist and editor of several Chinese newspapers, including the <i>Nanyang Siang Pau</i>, from the 1950s to the 1970s. In 2021, Mdm Peng Lee Er, the daughter of Peng Song Toh, donated her father’s collection of items relating to Neo Tiew to the National Library. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 
 A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
