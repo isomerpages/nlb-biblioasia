@@ -22,7 +22,7 @@ Physical education in schools in the pre-war period was pretty dismal as physica
 
 Other obstacles that prevented physical exercises from being more widely conducted then included the lack of interest on the part of teachers who did not recognise the “value of drill”. It was also noted that “the sarong which often gets very loose round the waist while the boy is drilling is quite unsuitable for this type of exercise” (Ibid, p. 260).
 
-This poor state of physical exercises and activities in schools was addressed at the 1918 Education Conference held in Kuala Lumpur. The conference encouraged more games to be played in schools and implored educators to improve the overall state of physical education. For this to happen, two conditions had to be met – changing the attitude of schools’ administrators towards games and physical education and making available space for such activities. The conference advocated the organising of “inter-school and inter-state competitions” (SSAR, 1918, p. 601). Following this, “a very successful meeting (inter-school sports)”…was held on the Singapore Cricket Club grounds” in 1920 (SSAR, 1920, p. 260). The vision conceived at the 1918 conference also prompted private organisations to offer their assistance and facilities. The Young Men’s Christian Association (YMCA) also opened its swimming pool to schools. By 1920, 2,117 boys had swum in that pool. The Physical Education Director of the YMCA, J.W. Jefferson, also conducted a drill class for teachers “based on the 1919 Syllabus of Physical Exercises issued by the English Board of Education” (Ibid.). From the 1920s, School Swimming Championships were held and more organised games were introduced to the schools: volleyball, basketball, football and cricket. By 1921, it was noted that classes for physical training had become “part of the regular curriculum” in some schools (*SSAR*, 1921, p. 206).
+This poor state of physical exercises and activities in schools was addressed at the 1918 Education Conference held in Kuala Lumpur. The conference encouraged more games to be played in schools and implored educators to improve the overall state of physical education. For this to happen, two conditions had to be met – changing the attitude of schools’ administrators towards games and physical education and making available space for such activities. The conference advocated the organising of “inter-school and inter-state competitions” (*SSAR*, 1918, p. 601). Following this, “a very successful meeting (inter-school sports)”…was held on the Singapore Cricket Club grounds” in 1920 (*SSAR*, 1920, p. 260). The vision conceived at the 1918 conference also prompted private organisations to offer their assistance and facilities. The Young Men’s Christian Association (YMCA) also opened its swimming pool to schools. By 1920, 2,117 boys had swum in that pool. The Physical Education Director of the YMCA, J.W. Jefferson, also conducted a drill class for teachers “based on the 1919 Syllabus of Physical Exercises issued by the English Board of Education” (Ibid.). From the 1920s, School Swimming Championships were held and more organised games were introduced to the schools: volleyball, basketball, football and cricket. By 1921, it was noted that classes for physical training had become “part of the regular curriculum” in some schools (*SSAR*, 1921, p. 206).
 
 In addition to the swimming championships, more interschool competitions were starting to be organised. In August 1922, an Inter-School Athletic Meeting was organised and vernacular schools took part for the first time in the Sir Arthur Young Cup (*SSAR*, 1922, p. 212). In fact, interschool competitions continued to gain more attention in the following year. In the swimming championship, a cup was presented by A. E. Braddeley. Inter-school matches included football and volleyball. Considering that the two sports were introduced to schools only in 1921, it was noteworthy that it had reached a competitive standard within the span of two years (*SSAR*, 1923, p. 111). By 1924, additional school competitions had been introduced, such as Drill and Organised Games Competition, Inter-school Sports and an Inter-school Swimming Carnival (*SSAR*, 1924, p. 189).
 
@@ -77,6 +77,13 @@ Fundamental changes occurred in the 1950s. In 1951, the Education Department awa
 #### ***To be continued in the next issue***
 
 Part 2 will cover the national syllabus for physical education and specialist training for teaching staff and administrators. In addition, the role of various agencies in promoting competitive sports and encouraging students to participate in regional and international events since independence will be covered.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Wee Tong Bao</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+
 
 #### **REFERENCES**
 
@@ -138,6 +145,3 @@ Singapore Sports Council. (1981). _National physical fitness award (Primary): Yo
  赵竹光编著. (1947).《我们的 球戏》. 上海: 商务印书馆.
 
 *MOE Heritage Centre collection Note: for items with location code “RCLOS”, user can request for them at the Information Counter on Level 11 of the Lee Kong Chian Reference Library*
-
-
-
