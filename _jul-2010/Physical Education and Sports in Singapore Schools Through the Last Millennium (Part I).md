@@ -5,7 +5,7 @@ permalink: /vol-6/issue-2/jul-2010/Singapore-school-physical-education-sports/
 description: "Librarian Wee Tong Bao traces the development of physical
   education and sports in Singapore from colonial times. "
 ---
- #### Librarian _Wee Tong Bao_ traces the development of physical education and sports in Singapore from colonial times.
+#### Librarian _Wee Tong Bao_ traces the development of physical education and sports in Singapore from colonial times.
  
  #### **Introduction**
  
@@ -137,8 +137,7 @@ Singapore Sports Council. (1981). _National physical fitness award (Primary): Yo
 
  赵竹光编著. (1947).《我们的 球戏》. 上海: 商务印书馆.
 
-_MOE Heritage Centre collection Note: for items with location code “RCLOS”, user can request for them at the Information Counter on Level 11 of the Lee Kong Chian Reference Librar_y
-
+*MOE Heritage Centre collection Note: for items with location code “RCLOS”, user can request for them at the Information Counter on Level 11 of the Lee Kong Chian Reference Library*
 
 
 
