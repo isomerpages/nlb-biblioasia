@@ -46,6 +46,9 @@ By 1929, almost all schools made time for “at least three twenty minutes perio
 
 A female Supervisor of Physical Education was added to the Education Department in 1930. She was tasked to oversee the physical training in girls’ schools (namely, the English and Malay girls’ schools) (*SSAR*, 1930, p. 768). Thus, with the Assistant Superintendent of Physical Education and the new female Supervisor of Physical Education, the department was able to conduct regular training courses for trained teachers as well as normal class students (*SSAR*, 1930, p.763—764).
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%201%20-%20Current%20Legislation%20on%20Education,%20China,%201930.jpg">
+ <div style="background-color: white;">Current Rules on Education. <i>All rights reserved, Ministry of Education, China, 1930.</i></div>
+
 Similarly, some teachers in Chinese vernacular schools attended a post-primary physical training course at the Nanyang Physical Training School (*SSAR*, 1930, p. 767). The Chinese vernacular schools in Singapore at times continued to look towards China for curricular support. As early as 1930, China’s Ministry of Education issued a syllabus on education, covering various aspects such as overseas Chinese education, syllabus for physical training, attire, etc (Ministry of Education, China, 1930). Textbooks on physical training were also published for schools in and outside China, for example,《初中学生文库课 外运动田径》(Track and Field for Lower Secondary Students). In contrast, English schools still did not have any centralised institutions for physical training at this point (*SSAR*, 1931, p. 833), although teachers of English schools could attend “refresher courses” organised by the Education Department (*SSAR*, 1932, p. 778).
 
 #### **Difficulties & Developments in the 1930s**
