@@ -10,7 +10,7 @@ description: "Librarian Wee Tong Bao traces the development of physical
 <img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/BK%20PE%20Lesson.jpg">
  <div style="background-color: white;">Pupils from Bukit Panjang Government School attending a Physical Education (PE) lesson (1950). <i>Courtesy of National Archives of Singapore.</i></div>
  
- #### **Introduction**
+ #### Introduction
  
 The year 2010 marks a significant milestone in Singapore’s sports calendar, in particular, youth sports, as Singapore will be hosting the first Youth Olympic Games in August. Though a young nation state, the development of its physical education and sports in Singapore has come a long way 
 since colonial times.
