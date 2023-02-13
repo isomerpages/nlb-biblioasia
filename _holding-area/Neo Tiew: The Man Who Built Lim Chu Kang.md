@@ -130,6 +130,9 @@ As a child, Bennett enjoyed the carefree existence afforded by living in a rural
 
 The area received a minor boost when the Housing and Development Board built Neo Tiew Estate at the junction of Lim Chu Kang Road and Neo Tiew Road in 1979. The estate provided neighbourhood amenities to people living around that part of Lim Chu Kang for about two decades until the estate was selected for the Selective En-bloc Redevelopment Scheme in 1998.[^35] In 2002, the estate was taken over by the Singapore Armed Forces and turned into an urban warfare training facility that simulated fighting in a built-up environment.
 
+![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Estate.png)
+<div style="background-color: white;">Neo Tiew Estate consisted of three low-rise blocks of flats, a disused market and food centre, and a children’s playground. The estate is now used for training by the Singapore Armed Forces. <i>Photo by Jimmy Yap.</i></div>
+
 The area’s physical transformation was, however, far from complete. At the National Day Rally in 2013, Prime Minister Lee Hsien Loong unveiled plans to transform Paya Lebar with the relocation of Paya Lebar Air Base. This would free up 800 hectares of land for “new homes, new offices, new factories, new parks, new living environments, new communities” – in effect, a blank slate in a choice site in the heart of the island.[^36]
 
 While this was welcome news to many, the new policy had a knock-on effect on Lim Chu Kang. In 2017, it was announced that Lim Chu Kang Road would be realigned for the expansion of Tengah Air Base to accommodate the relocation of assets from Paya Lebar Air Base. Six farms had to be cleared and the Choa Chu Kang Chinese Cemetery was to be reduced by one-third of its current size.[^37]
@@ -139,9 +142,6 @@ In a further twist of fate, the Covid-19 pandemic has given Lim Chu Kang a new l
 The plan attained a new urgency after the pandemic was declared and supply chains became severely disrupted. For a country that imports 90 percent of its food, the “30 by 30” goal was now a strategic imperative.
 
 In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be transformed into a “high-tech agri-food cluster” to strengthen Singapore’s food security and create jobs for Singaporeans. The food cluster is expected to “produce more than three times its current food production when completed” and development works are slated to start in 2024.[^39] Far from fading into irrelevance in increasingly urbanised Singapore, rural Lim Chu Kang is now poised for a bright new future. It appears that Neo Tiew’s efforts over a century ago are still bearing fruit.
-
-![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Estate.png)
-<div style="background-color: white;">Neo Tiew Estate consisted of three low-rise blocks of flats, a disused market and food centre, and a children’s playground. The estate is now used for training by the Singapore Armed Forces. <i>Photo by Jimmy Yap.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 <b>NEO TIEW'S PHOTOGRAPHS AND PERSONAL DOCUMENTS</b><br><br>
