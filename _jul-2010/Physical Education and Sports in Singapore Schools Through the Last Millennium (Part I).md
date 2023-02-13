@@ -83,6 +83,9 @@ In 1947, among the textbooks available outlining lesson plans for physical train
 
 Fundamental changes occurred in the 1950s. In 1951, the Education Department awarded a scholarship to Joseph David to study at the Loughborough Physical Education College (AR, 1951, p. 90). He returned from his studies in 1954 and became one of the first of many specialists in the field. It was important for the professionalisation of the teaching of physical education to have properly trained and certified teachers to plan, organise and administer a properly developed curriculum. In 1955, physical education was finally offered as a subject in the Teachers’ Training College (established in 1950). In the triennial survey of the Ministry of Education, it was reported that there were six specialists in physical education in Singapore – four were based at the Teachers’ Training College while the remaining two were attached to the Education Inspectorate (Triennal Survey, 1955—57, p. 141). A new syllabus was also issued in 1957 to replace the one that had been in use for some time. It outlined 56 lesson plans for primary schools, including guides to teachers and the equipment required. A Chinese edition of this syllabus was made available in 1959.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/Syllabus.jpg">
+ <div style="background-color: white;">Syllabus for physical education for all primary schools in Chinese. <i>All rights reserved, Ministry of Education, 1959.</i></div>
+
 #### ***To be continued in the next issue***
 
 Part 2 will cover the national syllabus for physical education and specialist training for teaching staff and administrators. In addition, the role of various agencies in promoting competitive sports and encouraging students to participate in regional and international events since independence will be covered.
