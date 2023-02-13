@@ -146,21 +146,22 @@ In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 <b>NEO TIEW'S PHOTOGRAPHS AND PERSONAL DOCUMENTS</b><br><br>
 The National Library of Singapore’s Peng Lee Er Collection, Hsu Yun Tsiao Collection and Singapore Lam Ann Association Collection contain photographs and personal documents relating to Neo Tiew. These include photographs of the medals and certificates of honour awarded to Neo by the Chinese Kuomintang government and the British colonial government for his help defending Singapore during World War II and the Malayan Emergency as well as his contributions in developing Lim Chu Kang.
-
 <br><br>
 <img
 src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Medals_and_Certificates.png">
 <div>Neo Tiew with his medals and certificates of honour, 1975. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 
 There are also photographs of the scenery and amenities in Lim Chu Kang such as Kay Wah School (now Qihua Primary School) and the Nam Hoe provision shop. Other photographs include those of Neo’s family and friends, his funeral in 1975 and the epitaph presented to him in 1946 by the Kuomintang government in memory of the massacre of 35 of his family members during the Japanese Occupation.
-
-![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends.png)
-<div style="background-color: white;">Mrs Neo Tiew (2nd from left), Neo Tiew (3rd from left), and their good friends, Mr and Mrs Peng Song Toh (undated). Peng Song Toh was a famous journalist and editor of several Chinese newspapers, including the <i>Nanyang Siang Pau</i>, from the 1950s to the 1970s. In 2021, Mdm Peng Lee Er, the daughter of Peng Song Toh, donated her father’s collection of items relating to Neo Tiew to the National Library. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
+<br><br>
+<img
+src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends.png">
+<div>Mrs Neo Tiew (2nd from left), Neo Tiew (3rd from left), and their good friends, Mr and Mrs Peng Song Toh (undated). Peng Song Toh was a famous journalist and editor of several Chinese newspapers, including the <i>Nanyang Siang Pau</i>, from the 1950s to the 1970s. In 2021, Mdm Peng Lee Er, the daughter of Peng Song Toh, donated her father’s collection of items relating to Neo Tiew to the National Library. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 
 A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
-
-![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Letters_combined.png)
-<div style="background-color: white;">The letter written by Neo Tiew to the Singapore Chinese Chamber of Commerce during the exhumation of war victims in Singapore on 24 March 1962, which describes the torture and killing of 35 of his family members. The letter was addressed to Ng Aik Huan, who headed the Disposal of Remains Committee established by the chamber to locate, exhume and rebury the remains of war victims. <i>Image reproduced from 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (From National Library, Singapore, call no. Lee Kong Chian Reference Library level 11, RCLOS 959.5703 XJP).</i></div>
+<br><br>
+<img
+src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Letters_combined.png">
+<div>The letter written by Neo Tiew to the Singapore Chinese Chamber of Commerce during the exhumation of war victims in Singapore on 24 March 1962, which describes the torture and killing of 35 of his family members. The letter was addressed to Ng Aik Huan, who headed the Disposal of Remains Committee established by the chamber to locate, exhume and rebury the remains of war victims. <i>Image reproduced from 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (From National Library, Singapore, call no. Lee Kong Chian Reference Library level 11, RCLOS 959.5703 XJP).</i></div>
 
 Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
 
@@ -168,10 +169,14 @@ Readers can make a request to view the following materials from the Reference Co
 * 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (Call no. RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D)
 * 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (Call no. RCLOS 959.5703 XJP; Accession no. B32427005A)
 
+</div>
+	
 <div style="background-color: white;"> 
 <br/>
 <b>Alvin Tan</b> is an independent researcher and writer focusing on
 Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+
+
 
 #### **NOTES**
 
