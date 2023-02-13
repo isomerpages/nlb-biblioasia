@@ -226,7 +226,7 @@ Singapore history, heritage and society. He is the author of <i>Singapore: A Ver
 
 [^23]: Low Mei Mei, “[When Tigers Roamed Free and Thieves Got Paraded](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861209-1.2.31.2),” _Straits Times_, 9 December 1986, 18. (From NewspaperSG); Chan, “[The Big Boss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751123-1.2.20).”
 
-[^24]: “[Man with Hand of Iron Rules the Village of No Crime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530308-1.2.28).”
+[^24]: “[Man with Hand of Iron Rules the Village of No Crime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530308-1.2.28),” _Straits Times_, 8 March 1953, 3. (From NewspaperSG)
 
 [^25]: “[Man with Hand of Iron Rules the Village of No Crime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530308-1.2.28).”
 
