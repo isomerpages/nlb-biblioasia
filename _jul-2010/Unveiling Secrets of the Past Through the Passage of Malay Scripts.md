@@ -61,7 +61,23 @@ Interestingly, the pioneers in Malay journalism, publication and research were m
 
 In 1920 Nor Ibrahim13 wrote the earliest Malay short story *Kecelakaan Pemalas* \[Curse of the Lazy One\] which was published in the *Majalah Pengasoh* \[*Pengasuh* Magazine\]. The first Malay novel *Kawan Benar* \[True Friend\] (1927)14 was written by Ahmad Rashid Talu. The father and pioneer of modern Malay journalism was Abdul Rahim Kajai.15
 
-#### **Penyingkapan Budaya dan Tradisi**
+#### **Unveiling Gatekeepers of the Scripts**
 
+A cosmopolitan city, Singapore embraces modernity and a globalised city outlook, and yet is also an abode for ancient scripts. Apparently, there are many individuals who have preserved the scripts that may have been passed on to them by their forefathers. These include manuscripts such as the 18th century Qur’an; a 1921 Power of Attorney document; 1951 Jawi dictionary; 1958- 86 school textbooks and 1957-64 story books. The Aksara documents not only the history of Malay scripts but also individuals who have developed their own archives of these priceless antique literary materials. It soon becomes evident that many individuals in Singapore hold such valuable sources of knowledge and history. Among them are Ahmad Sondhaji Muhamad, Harun Aminurashid, Ahmad Murad, Ahmad Lutfi, Imam Syed Hassan Bin Muhammad Al-Attas (Ba’alwie Mosque), Koh Seow Chuan and Mahmud Ahmad. Aksara has become a modern-day index not only for artefacts but its sources as well, which include the National Library of Indonesia, Vietnam History Museum, Singapore National Library Board, National Library of Malaysia, Bodleian Library, University of Oxford, National Museum of Singapore, British Library and the Malay Heritage Centre Singapore.
+
+#### **Conclusion**
+
+Aksara endeavours to be the most contemporary reference while documenting classics. This is very much the case in its listing of the Dr Uli Kozok treasure from University of Hawai’i. Known as the Tanjong Tanah Manuscript, it is the oldest Malay manuscript in the world found in 2002 in Jambi, Indonesia by Dr Uli Kozok. It was written in the later Kawi scripts16 on the bark of a mulberry tree.
+
+According to Kozok, the translation of the manuscript, and the analysis of the language it is written in will provide new insights into the early Malay legal system, the political relationship between the coastal Malay maritime kingdoms with the upstream communities in the Bukit Barisan mountain range, as well as into the development of the Malay language since this is the oldest existing substantial body of text available in the Malay language.
+
+The Malay civilisation may not have left behind majestic monuments or fascinating artefacts, but its heritage continues to be relayed on to our generation through its enchanting and spellbinding aksara (scripts) in more than 10,000 manuscripts17 to be deciphered and interpreted to unveil secrets of the past.
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Mohamed%20Pitchay.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Mohamed Pitchay Gani Bin Mohamed Abdul Aziz</b><br>Teaching Fellow I <br>National Institute of Education<br> Nanyang Technological University</center></div>
 
 
