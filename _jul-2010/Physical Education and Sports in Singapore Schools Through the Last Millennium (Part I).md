@@ -6,10 +6,13 @@ description: "Librarian Wee Tong Bao traces the development of physical
   education and sports in Singapore from colonial times. "
 ---
 #### Librarian _Wee Tong Bao_ traces the development of physical education and sports in Singapore from colonial times.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/BK%20PE%20Lesson.jpg">
+ <div style="background-color: white;">Pupils from Bukit Panjang Government School attending a Physical Education (PE) lesson (1950). <i>Courtesy of National Archives of Singapore.</i></div>
  
  #### **Introduction**
  
- The year 2010 marks a significant milestone in Singapore’s sports calendar, in particular, youth sports, as Singapore will be hosting the first Youth Olympic Games in August. Though a young nation state, the development of its physical education and sports in Singapore has come a long way 
+The year 2010 marks a significant milestone in Singapore’s sports calendar, in particular, youth sports, as Singapore will be hosting the first Youth Olympic Games in August. Though a young nation state, the development of its physical education and sports in Singapore has come a long way 
 since colonial times.
 
 The laissez faire arrangements of the early years that left schools to determine their own programmes for physical education changed in the years following independence when there was greater emphasis on physical training in schools leading to the creation of a national physical education syllabus.
@@ -35,6 +38,9 @@ One of the practices started by the new Superintendent of Physical Education was
 In 1927, the post of Superintendent of Physical Education was upgraded to Chief Superintendent of Physical Education (Straits Settlements). In 1928, classes were conducted by the Assistant Superintendent of Physical Education for students-teachers and certified teachers in English schools (*SSAR*, 1928, p. 225). A training class was also started for the students in the normal class. Overall, “distinct improvement was noted in both boys’ and girls’ schools” (Ibid, p. 229) and this was due to the change in the mindset of school principals who started showing greater interest in the arrangement of outdoor activities for students (Ibid, p. 230).
 
 By the late 1920s, it was common for schools to conduct organised physical exercises and games. In the girls’ schools and Malay vernacular schools, folk dancing gained popularity. Five out of six girls’ schools offered it as part of their physical training. In the Malay vernacular boys’ schools, “Malay folk games were taught and played daily in the lowest classes of all schools” (Ibid, p. 238) and “Rhythmic Exercises were practiced by these pupils … \[who used the\] … adaptation of *pantun* or Malay lullaby” to accompany their physical activities (Ibid, p. 238). The Assistant Supervisor in Singapore also provided simple Swedish exercises for use in the Malay girls’ schools (Ibid.).
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/MS%20Sports%20Day.jpg">
+ <div style="background-color: white;">A sports day at Malay Girls' School (1950). <i>Ministry of Information and The Arts (MITA), courtesy of National Archives of Singapore.</i></div>
 
 By 1929, almost all schools made time for “at least three twenty minutes periods of Physical Instruction in the course of a week for each class” (*SSAR*, 1929, p. 913). The perseverance of the Superintendent of Physical Education and his assistant in conducting lessons paid off as “nearly all the teachers, men and women, had qualified themselves to teach physical exercises and were putting into practice fairly satisfactorily the general principles which they have been taught” (*SSAR*, 1929, p. 913). By this time, four of the girls’ schools were holding their own sporting meets (Ibid, p. 922). It is believed that the “house” system instituted in the girls’ schools at this point played a role in enhancing the level of enthusiasm for sports among the students. From 1930, daily Physical Education lesson plans were available in Malay boys’ schools during break time (*SSAR*, 1930, p.740).
 
@@ -66,6 +72,9 @@ One of the first measures taken at this point to reinstate Physical Education in
 
 At this time, help and guidance for vernacular schools came in the form of demonstration classes conducted by the staff of the Education Department and a simple syllabus given to Tamil schools which had the least resources (Ibid, p. 62). By 1949, despite the language barrier, the former European female Superintendent of Physical Education was asked to conduct classes for women teachers in Chinese schools. A new training syllabus was used for these classes (AR, 1949, p. 107). An example of such a syllabus issued by the Education Department was the《华校小学体育教材》(Lesson Plans for Chinese Primary Schools) published by the Inspectorate of Chinese Education (马来亚联合邦：华文副提学司公署发行). A more substantive syllabus in Tamil was also prepared in 1949 (Ibid, p. 108).
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%20a_3.jpg">
+ <div style="background-color: white;">Lesson plans for indoor and outdoor games. <i>All rights reserved, The Commercial Press (Shanghai), 1947.</i></div>
+	
 The use of a physical education curriculum in vernacular schools had been largely left to their own discretion. As a result, the development of the physical education curricula among schools had been uneven in the early years. Chinese schools, for example, had benefited from the wider publishing tradition of Chinese school textbooks which included physical education materials. However, this was not the same for Tamil schools.
 
 In 1947, among the textbooks available outlining lesson plans for physical training were《团体游戏》(Group Games);《我们的球戏》(Our Ball Games);《户内外游戏》 (Indoor & Outdoor games);《几种球类运动》(Some Ball Games);《几种技巧运动》(Some Gymnastics Moves);《我们的 田径运动》(Our Track and Field Sports);《国术讲话》(Lessons on Martial Arts);《运动会》(Sports Meets). In 1953, the Nanyang Siang Pau Press printed《实用体育行政》(Practical Physical Training Administration).
