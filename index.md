@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
-      button: Thaipusam and Murugan<br> Worship in Singapore
+      url: /vol-18/issue-4/jan-mar-2023/preparing-war-singapore/
+      button: Preparing for War
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
+      background: /images/Vol 18 Issue 4/War in Singapore/Preparing_for_War_Hero_img.png
   - infopic:
       title: Singapore’s Public Bathhouses of the 1880s
       subtitle: Leisure
