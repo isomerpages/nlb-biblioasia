@@ -8,6 +8,9 @@ description: Kriser Professor of Middle Eastern and Islamic Studies at New York
 ---
 #### Kriser Professor of Middle Eastern and Islamic Studies at New York University _Michael Gilsenan_ provides his thoughts on the Bibliography on the Hadhrami Arabs in Southeast Asia with Special Reference to Singapore.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/HadhramiArabs/bibliocover2.jpg">
+ <div style="background-color: white;">All rights reserved, National Library Board, 2010.</div>
+
 The intensive study of different patterns of Hadhrami migrations all around the Indian Ocean, the Persian Gulf and into Southeast Asia is a relatively recent phenomenon. As Hadhrami family and business links spread in Europe and America as well as parts of the Middle East, the complexity of our studies continues to grow with the constant branching of Hadhrami migrations and the expansion of research on new aspects of their worlds from new perspectives. Given the immense social and cultural diversity of societies such as those in Indonesia, for example, societies in very different areas of which people of Hadhrami origin have established themselves in different ways over sometimes long historical periods, the possibilities for scholarly research are as great as the topics of inquiry are many and 
 the difficulties daunting.
 
@@ -33,7 +36,3 @@ Scholars always have to travel in pursuit of sources of whose existence they may
 <br/>
 <img src="/images/Authors/Michael%20Gilsenan.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Michael Gilsenan</b><br>Kriser Professor of Middle Eastern and Islamic Studies<br>New York University </center></div>
-
-
-
-
