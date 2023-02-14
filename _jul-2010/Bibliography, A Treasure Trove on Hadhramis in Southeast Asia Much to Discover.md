@@ -118,3 +118,100 @@ Apart from the publishing efforts by the Hadhrami communities in Southeast Asia,
 We hope scholars and heritage seekers interested in the Hadhramis in the Indian Ocean and Southeast Asia can benefit from this bibliography. In time, a more comprehensive, more organised, well-indexed and extensive bibliography may better reflect the true breadth and depth of works written on the subject.
 
 *This article was first published in the above mentioned bilbliography*.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Kartini.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Kartini Saparudin</b><br>Librarian<br> Lee Kong Chian Reference<br> Library National Library </center> </div>
+
+#### **NOTES**
+
+[^1]: The author would like to thank the following for their feedback on this article: Michelle Heng, Timothy Pwee, Noryati Abdul Samad, Syed Farid Alatas and Bouchaib Slim.
+
+[^2]: Ahmad, Hisyam. (1981). _Bibliografi studi masyarakat Arab di Indonesia_ \[Microform\]. Bandung: Dokumentasi, Lembaga Kebudayaan, Universitas Padjadjaran.
+
+[^3]: See Roff, William R. (1972). _[Bibliography of Malay and Arabic periodicals published in the Straits Settlements and Peninsular Malay States 1876–1941: With an annotated union list of holdings in Malaysia, Singapore and the United Kingdom](https://eservice.nlb.gov.sg/item_holding.aspx?bid=542243)_. London: Oxford University Press. Call no.: RCLOS 016.0599923 ROF; Lim, Patricia Pui Huen. (Ed.). (1992). _[Singapore, Malaysian and Brunei newspapers: An international union list](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6376441)_. Singapore: Institute of Southeast Asian Studies. Call no.: RSING 016.0795957 LIM
+
+[^4]: Mobini-Kesheh, Natalie. (1996). The Arab periodicals of the Netherlands East Indies, 1914–1942. _Bijdragen Tot de Taal-, Land- en Volkenkunde, 152_ (2), 236–256. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+
+[^5]: Arai, Kazuhiro. (2002). “Arab” periodicals in the first half of the twentieth century in Southeast Asia. _The Journal of Sophia Asian Studies_, 20, 63–73, https://dept.sophia.ac.jp/is/iac/en/publish/asia/20.html
+
+[^6]: There are many listings of periodicals in Malaya, Singapore and Indonesia. These are written in the Malay language.
+
+[^7]: Hirsch, David. (2005, August 26–28). Hadrami-Arabic press in Southeast Asia: A historical survey. Proceedings of the International Conference on Yemeni- Hadramis in Southeast Asia: Identity Maintenance or Assimilation? (pp. 363–373). Kuala Lumpur: International Islamic University Malaysia. Hirsch admits that the list and thus, the collection at UCLA are not exhaustive as many of the Hadhrami émigré materials are still in private hands.
+
+[^8]: Examples are Ahmed Ibrahim Abushouk & Hassan Ahmed Ibrahim. (Eds.). (2009). _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ Boston: Brill. Call no.: RSEA 305.89275335 HAD; Eric Tagliacozzo. (Ed.). (2009). _[Southeast Asia and the Middle East: Islam, movement, and the longue durée](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13095573)_. Singapore: NUS Press. Call no.: RSING 303.48259056 SOU; Ulrike Freitag. (2003). _[Indian Ocean migrants and state formation in Hadhramaut: Reforming the homeland](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12548459)_. Leiden: Brill. Call no.: R 953.35 FRE; Huub de Jonge & N. J. G. Kaptein. (Eds.). (2002). _[Transcending borders: Arabs, politics, trade and Islam in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543)_. Leiden: KITLV Press. Call no.: RSING 305.8927059 TRA and finally, Ulrike Freitag & W. G. Clarence-Smith. (Eds.). (1997). _[Hadrami traders, scholars, and statesmen in the Indian Ocean, 1750s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804)_. Leiden: Brill. Call no.: RSEA 304.809533 HAD
+
+[^9]: O’ Fahey, R. S & M. I. Abu Salim. (1992, November–1993, March). A Sundanese in Indonesia: A note on Ahmad Muhammad Surkitti. _[Indonesia Circle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5032474)_, 59–60, p. viii. Call no.: RSEA 959.8 IC
+
+[^10]: Abushouk, Ahmed Ibrahim. (2009). Al-Manar and the Hadhrami elite in the Malay-Indonesian world: Challenge and response in Ahmed Ibrahim Abushouk & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (pp. 159–189). Leiden; Boston: Brill, footnote 3 of p. 2. Call no.: RSEA 305.89275335 HAD; For more explanations on the Hadhrami identity in connection with Ibn Khaldun’s concept of ‘asabiyya, see Alatas, Farid, Syed. (1997). Hadhramaut and the Hadhrami diaspora: Problems in theoretical history in _[Hadrami traders, scholars, and statesmen in the Indian Ocean, 1750s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804)_ (pp. 19–34). Leiden: Brill. Call no.: RSEA 304.809533 HAD
+
+[^11]: Omar Farouk Bajunid. (n.d). The dynamics of Islamic, Arabisation and localization in the Malay World, Malay Studies: Working paper series, Ctoria University of Wellington, 1–32, 7.
+
+[^12]: Mobini-Kesheh, Natalie. (1999). _[The Hadrami awakening: Community and identity in the Netherlands East Indies, 1900–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9846683)_. Ithaca, N.Y: Southeast Asia Program Publications, Southeast Asia Program, Cornell University. Call no.: RSING 959.8022 MOB; Sharifah Zaleha Syed Hassan. (2005, August 26–28). History and the indigenization of the Arabs in Kedah, Malaysia. Proceedings of the International Conference on Yemeni-Hadramis in Southeast Asia: Identity Maintenance or Assimilation? (pp. 40–67). Kuala Lumpur: International Islamic University Malaysia; Omar Farouk Bajunid. (1978). The Arabs in Penang. _Malaysia in History, 21_ (2), 1–16.
+
+[^13]: Muhammad Hasan Al-Aydrus reinforces this in his 1996 work Penyebaran Islam di Asia Tenggara: Asyraf Hadramaut dan peranannya. Al-Aydrus’ confident assertion that Islamisation in Southeast Asia, especially in Indonesia happen through the original nine wali or saints of Islam through the progeny of Ahmad bin Isa, who are mostly Hadhramis. Drewes makes this a subject of his study by looking at classical Indonesian texts.
+
+[^14]: Arai, Kazuhiro. (2002).
+
+[^15]: Y. A. Talib (Yusof A. Talib). (1974). Les Hadrami et le monde Malais: Essai de bibliographique critique des ouvrages europeens sur l’emigration hadhramite aux XIXe et XXe siecles. _[Archipel](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967127), 7_, 41–68. Call no.: RSING 959.005 A
+
+[^16]: Tibbetts, G. R. (1956, August). Pre-Islamic Arabia and South East Asia. _Journal of the Malayan Branch of the Royal Asiatic Society, 29_ (3), 182–208. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Al-Najdi, Ahmad ibn Majid, & Tibbetts, G. R. (1971). _[Arab navigation in the Indian Ocean before the coming of the Portuguese: Being a translation of ‘Kitab Al-Faw a’id fi us ul al-bahr wa’l-qaw a’id’ of Ahmad b. Majid Al- Najdi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4135272)_. London: Royal Asiatic Society of Great Britain and Ireland. Call no.: RCLOS 527.09165 NAJ; Tibbetts, G. R. (1956, April). Arabic works relating to South-East Asia. _[Newsletter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042440),_ Malayan Library Group, _1_ (4), 79–86. Call no.: RCLOS 020.5 MLG
+
+[^17]: Abushouk, Ahmed Ibrahim. (2009). Introduction. In Ahmed Ibrahim Abushouk & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (p. 17). Leiden: Brill. Call no.: RSEA 305.89275335 HAD.
+
+[^18]: Abdul Rahman Tang Abdullah. (2009). Arab Hadhramis in Malaysia: Their origins and assimilation in Malay society. In Ibrahim Abushouk Ahmed & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (pp. 45–56). Leiden: Brill. Call no.: RSEA 305.89275335 HAD.
+
+[^19]: See section 2.5 of the bibliography for the works.
+
+[^20]: Rinkes, Douwe Adolf. (1996). _[Nine saints of Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8816560)_. Kuala Lumpur: Malaysian Sociological Research Institute. Call no.: RSEA 297.092 RIN
+
+[^21]: [Alatas, Farid & Syed](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804), 1997, p. 33.
+
+[^22]: The Persians were mostly traders. Some of them were Christian missionaries who were in the Philippines and the areas of the Malay Archipelago such as Java, Sumatra, Sunda and Maluku.
+
+[^23]: [Alatas, Farid & Syed](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804), 1997, p. 32.
+
+[^24]: Berg, Lodewijk Willem Christiaan van den. (1886). _[Le Hadhramout et les colonies arabes dans l’archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_. Batavia: Impr. Du gouvernement. Call no.: RRARE 325.25309598 BER; Microfilm no.: NL7400
+
+[^25]: Kaptein, N. J. G. (2009). Arabophobia and Terekat: How Sayyid Uthman became advisor to the Netherlands colonial administration. In Ahmed Ibrahim Abushouk & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (p. 38). Leiden: Brill. Call no.: RSEA 305.89275335 HAD.
+
+[^26]: Most of the British archival records are available in the India Office Record (IO) in the India and Oriental Office in the British Library, London and Public Record Office (PRO) in Kew, London. These are records of the British administration in Aden and correspondences of the Colonial Office and the Foreign Office. For Dutch sources, the documents are in the Collectie G. A. J. Hazeu (Hazeu Collection) and Collectie R. A. Kern (Kern Collection) in KITLV, Leiden, Netherlands and the Oriental Collection of the Leiden University. Some of the other colonial sources on Hadhrami exist in Seiyun Archives (SMA).
+
+[^27]: Nurfadzilah Yahaya. (2009). Tea and company: Interactions between the Arab elite and the British in cosmopolitan Singapore. In Ahmed Ibrahim Abushouk & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (p. 71). Leiden: Brill. Call no.: RSEA 305.89275335 HAD
+
+[^28]: See (86). Serjeant, R. B. (Robert Bertram). (1981). The Saiyids of Hadramawt. In _Studies in Arabian history and civilization_ (Section VIII). London: Variorum Reprints.
+
+[^29]: See Abushouk, Ahmed Ibrahim. (2007, July). Al-Manar and the Hadhrami elite in the Malay-Indonesian world: Challenge and response. _Journal of the Royal Asiatic Society, 17_ (3), 301–322. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. Non-sayyid Hadhramis were thought to have descended from Quraysh tribes.
+
+[^30]: See Serjeant, R. B. (1962. June). Historians and historiography of Hadramawt. _Bulletin of the School of Oriental and African Studies, 25_ (2), 239–261. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+
+[^31]: See Reid, Anthony. (1969, December). Indonesian diplomacy: A documentary study of Atjehnese foreign policy in the reign of Sultan Mahmud, 1870–1874. _Journal of the Malaysian Branch of the Royal Asiatic Society, 42_ (2), 74–114. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Kathirithamby-Wells, J. (2009, October). ‘Strangers’ and ‘stranger-kings’: The sayyid in eithteenth-century maritime Southeast Asia. _Journal of Southeast Asian Studies, 40_ (3), pp. 567–591. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Khoo, Salma Nasution. (1990). The legacy of Tengku Syed Hussain. _Pulau Pinang, 2_ (2), 12–14, 16–17. Winstedt, Richard Olof, Sir. (1932, January). The early ruler of Perak, Pahang and Aceh. _Journal of the Malayan Branch of the Royal Asiatic Society, 10_ (1), 32–44. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Winstedt, Richard Olof, Sir. (1932, January). The Temengongs of Muar. _Journal of the Malayan Branch of the Royal Asiatic Society, 10_ (1), 30–31. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+
+[^32]: See section 3.3. The first use of the term “Pan-Islamism” was by Franz von Werner in Turkische Skizzen (1877). For more on literature on the term, see footnote 1 of Mohammad Redzuan Othman. (1996). Pan-Islamic appeal and political patronate: The Malay perspective and the Ottoman response. _Sejarah, 4_, 97–108.
+
+[^33]: See 3.5 of bibliography.
+
+[^34]: Algadri, Hamid. (1984). _C. Snouck Hurgronje: Politik Belanda terhadap Islam dan keturunan Arab_. Jakarta: Sinar Harapan Agape Press; Algadri, Hamid. (1994). _[Dutch policy against Islam and Indonesians of Arab descent in Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7977652)_. Jakarta: Pustaka LP3ES Indonesia. Call no.: RSEA 305.6970598 ALG; Algadri, Hamid. (1996). _[Islam dan keturunan Arab: Dalam pemberontakan melawan Belanda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8778300)_. Bandung: Penerbit Mizan Anggota IKAPI. Call no.: Malay R 959.802 ALG; Algadri, Hamid. (1999) _Mengarungi Indonesia: Memoar perintis kemerdekaan Mr Hamid Algadri_. Jakarta Lentera.
+
+[^35]: See Section 4.
+
+[^36]: See footnote 9 of this article.
+
+[^37]: See section 3.2 of the bibliography.
+
+[^38]: See f. (2009). p. 10. For the Alkaff family’s use of their wealth to finance charitable activities and other political and social reforms, see Aljunied, Syed Muhd. Khairudin. (2009). Hadhramis within Malay activism: The role of Al-Saqqaf(s) in post-war Singapore. In Ibrahim Abushouk Ahmed & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (pp. 225–244). Leiden: Brill. Call no.: RSEA 305.89275335 HAD.
+
+[^39]: Brown, Rajeswary Ampalavanar. (2008). Capitalism and Islam: Arab business groups and capital flows in South East Asia. In Chris Smith, Brendan McSweeney, & Robert Fitzgerald. (Eds.), _[Remaking management: Between global and local](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13126261)_ (pp. 217–250). Cambridge; New York: Cambridge University Press. Call no.: RBUS 658 REM; Brown; Rajeswary Ampalavanar. (2008, November). Islamic endowments and the land economy in Singapore: The genesis of an ethical capitalism, 1830–2007. _South East Asia Research, 16_ (3), 343–403. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Brown, Rajeswary Ampalavanar. (2009). The decline of Arab capitalism in Southeast Asia. In Ibrahim Abushouk Ahmed & Hassan Ahmed Ibrahim (Eds.), _[The Hadhrami diaspora in Southeast Asia: Identity maintenance or assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ (pp. 109–133). Leiden: Brill. Call no.: RSEA 305.89275335 HAD.
+
+[^40]: See [Alatas, Farid & Syed](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804), 1997, p. 25.
+
+[^41]: A. Samad Ismail (1992, September). Sudut pandangan: Melayu versus Arab. _[Dewan Budaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4126789), 14_ (9), 20–21. Call no.: RCLOS q301.205 DB
+
+[^42]: Kratoska, Paul H. (Compiler). (1990). _[Index to British Colonial files pertaining to British Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6429470)_ (Vols. 1–12). Kuala Lumpur: Arkib Negara Malaysia. Call no. RSING 016.9595106 KRA
+
+[^43]: Priestland, Jane. (Ed.). (2004). _[Records of Islam 1908–1972: British documentary sources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13202626)_ (Vols. 1–12). Slough: Archive Editions. Call no.: RSEA 320.557 REC
+
+
+
