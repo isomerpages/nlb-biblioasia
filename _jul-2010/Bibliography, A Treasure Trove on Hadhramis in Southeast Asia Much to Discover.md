@@ -8,6 +8,9 @@ description: "Librarian Kartini Saparudin highlights resources held by the Lee
 ---
 #### Librarian _Kartini Saparudin_ highlights resources held by the Lee Kong Chian Reference Library as well as the Institute of Southeast Asian Studies (ISEAS) library and the Central Library of the National University of Singapore (NUS) on the Hadhrami Arabs in Southeast Asia.[^1]
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/TreasureTrove/Hadhrami_tea.jpg">
+ <div style="background-color: white;">Hadhrami tea set</div>
+
 #### **Introduction**
 
 Although there has been increasing interest in the Hadhrami communities of Southeast Asia, there has yet to be a single bibliography dedicated to this subject. Therefore, two years ago, a team comprising of librarians and library officers from the National Library, Singapore embarked on a project to compile a bibliography on the Hadhrami Arabs in Southeast Asia. Initially, we thought that literature on the subject would be limited but we were in for a surprise when we found a vast though scattered literature on the subject. It was then that we saw the value this bibliography could bring to researchers and scholars in the field.
@@ -40,6 +43,9 @@ One of the key challenges in the compilation of this bibliography was defining t
 
 The second challenge was defining the subject categories for the bibliography. No amount of planning or conceiving “standard” categories can replace the arduous process of reading and rereading the annotations for a more systematic, effective and meaningful way of grouping the literature on the subject. The parameters we have used to define the Hadhrami community for the purpose of this bibliography include perspectives from both the academic and the community. Such perspectives are merely guidelines to primarily frame and organise the materials selected for this bibliography. For this reason, we hope others find these subject categories useful.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/TreasureTrove/commemorative%20publication1.jpg">
+ <div style="background-color: white;">All rights reserved, National Library Board, 2010.</div>
+
 The next challenge is maintaining consistencies in the spelling of Arabic terms, especially Arabic names in English. Apart from the terms used by authors and editors in the titles, we attempted to standardise these names and terms as much as possible. The different names and terms that were derived reflect the varying transliterations used in numerous time periods and various colonial experiences of Southeast Asian places and civilisations during the *longue durée*. Annotations follow the spellings that authors employed in their writings. For this, we seek our readers’ indulgence in the inconsistencies they may come across.
 
 #### **Bibliographic Survey**
@@ -60,6 +66,9 @@ A Hadhrami Arab is a person who belongs to a sub-grouping within the wider race 
 There is a general consensus among scholars that permanent overseas Hadhrami emigration into Southeast Asia was a fairly recent phenomenon in the 19th and 20th centuries. However, for Yusof A. Talib, who wrote a comprehensive bibliographical essay in French reviewing European writings on Hadhrami emigration, the occurrence of Hadhrami emigration into parts of the Indian Ocean such as the islands of Zanzibar, Madagascar, Comores and the Malay Archipelago, was not a recent trend.[^15]
 
 However, this hypothesis remains to be established because of a lack of statistical data and the impermanence of small-scale Hadhrami movements. In addition, even if small migration occurred before the 19th century, the very scale would not warrant this human movement as a historical event or prominent enough to be recorded in the history books. G. R. Tibbetts posits such human movements as “semipermanent settlements \[that\] were established by roving merchant populations.”[^16]
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/TreasureTrove/eric.jpg">
+ <div style="background-color: white;">All rights reserved, Brill, 2009.</div>
 
 Tibbetts’ own life-long work strengthens this hypothesis as he acknowledges the Arabs’ presence and trade in Southeast Asia was as early as in the 5th and 7th centuries. Gleaning from Arab and Chinese sources documentary evidence proved that there were conclusive trade relations between “South Arabia” and China via the sea route. While Tibbetts establishes the presence of Muslim settlements in Southeast Asia, he remains doubtful that permanent Arab colonies were set up in Southeast Asia for trade or missionary work. Instead, he posits that these were semi-permanent settlements. Without going into the argument of Islamisation of Southeast Asia here, the foundation of Tibbetts’ work, which was largely based on Arabic and Chinese sources, proved that there were other alternatives to European sources. These sources pinpoint Arabs’ existence in Southeast Asia pre–19th century.
 
@@ -96,6 +105,9 @@ After the emergence of Southeast Asian independent nationstates, the Hadhrami id
 Islam plays a major in the Hadhramis’ assimilation in the communities they reside in. In the past, the Hadhrami elites were looked upon as custodians of Islam. However, after the evolution of the nation-states, Hadhramis shared this important role with other Muslim groups.[^35] Sources that deal with the establishment of Muslim bodies and Islamic leadership within the state reflect such power dynamics between Muslims within a state.
 
 The status of the Arabs in the communities differs from state to state. In Malaya, and later Malaysia, the Hadhramis are recognised as *bumiputeras* (indigenous people of Malaysia) and enjoy the same privileges conferred upon Malays under the Federal Constitution. Similarly, in Indonesia and Brunei where Hadhramis still qualify for special privileges under the respective constitutions. In Singapore, however, Singapore Hadhramis maintain their special position in the republic’s social landscape but are not accorded the same rights as the Malays based on its policies of meritocracy, positive discrimination and multiculturalism.[^36] Several debates were held through the Singapore media in the 1980s that saw Arabs positioning themselves apart from the Malay community in Singapore.[^37]
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/TreasureTrove/jacobsen1.jpg">
+ <div style="background-color: white;">All rights reserved, Routledge, 2009.</div>
 
 Nevertheless, the contributions of the Arabs towards their “host societies” have been tremendous. This has paved the way for further assimilation of the Arabs into the different communities. The economic impact of the Arabs on Hadhramaut was once tremendous; Ingrams estimated in 1934 that the total remittances pouring into Hadhramaut from abroad annually was a staggering total of 630,000 pounds sterling (equivalent to SGD 1.3 million). It was said that Hadhramaut became dependent on remittances from the diasporas, particularly from Southeast Asia.[^38]
 
@@ -212,6 +224,3 @@ We hope scholars and heritage seekers interested in the Hadhramis in the Indian 
 [^42]: Kratoska, Paul H. (Compiler). (1990). _[Index to British Colonial files pertaining to British Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6429470)_ (Vols. 1–12). Kuala Lumpur: Arkib Negara Malaysia. Call no. RSING 016.9595106 KRA
 
 [^43]: Priestland, Jane. (Ed.). (2004). _[Records of Islam 1908–1972: British documentary sources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13202626)_ (Vols. 1–12). Slough: Archive Editions. Call no.: RSEA 320.557 REC
-
-
-
