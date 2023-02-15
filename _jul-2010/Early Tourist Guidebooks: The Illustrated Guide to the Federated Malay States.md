@@ -5,3 +5,36 @@ description: Senior Librarian Bonny Tan examines the Illustrated Guide to the
   Federated Malay States, an early tourist guidebook available at the National
   Library.
 ---
+#### Senior Librarian _Bonny Tan_ examines the _Illustrated Guide to the Federated Malay States_, an early tourist guidebook available at the National Library.
+
+&*emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“We travel nowadays far more often and far further than our ancestors,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we do not, as they say they did, hanker for hardship.<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;We like to see new countries, new people and new ways of living,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we like a little 
+comfort hereto...”* 1
+
+#### **The Audience: Early 20th Century**
+
+By the first decade of the 20th century, round-the-world tours had become popular especially among wealthy Americans. These globetrotters often made a pit-stop at Singapore where they fueled up on Western luxuries and tasted aspects of Malayan life, travelling by train as far up as Johore’s plantations before proceeding to the more exotic Far East. 
+
+To attract these tourists to stay on longer, government agencies in the region began publishing travel guides, lauding the attractions of their respective colonies and opening up sites for visits. In 1908, *Java: The wonderland* was released by the Java Tourist Association2 and at about the same time the famed Cook tourist agency included Java in its world-tour itinerary.3 By 1909, strong colonial support led to the opening of the Angkor ruins to tourists.
+
+The Federated Malay States, however, had yet to become a priority for Western tourists although the Straits Settlements remained convenient stopovers. The only known guides to the Malay Peninsula were the *Jennings’ Guides* (1900), offering descriptions of Singapore, Penang, Malacca and the Malay States, published by the Singapore Passenger and Tourist Agency.4
+
+Even as late as 1929, it was still felt that tourists pouring into the region had little knowledge of it nor desire to explore it, only because of a lack of information and incentive rather than the country’s lack of beauty: “As a country we don’t advertise as much as we ought to do. We are even foolish enough to think that we have nothing to advertise – that if we inveigle people into visiting this country merely as sightseers we shall be taking their money by false pretences. And yet visitor after visitor is astonished by the picturesqueness of the scenery, the attractions offered by the sight of many races mingling in a busy and more or less thriving community, and the real pleasantness of life here.”5
+
+#### **The Context: The Federated  Malay States**
+
+*The Illustrated Guide to the Federated Malay States* was one such attempt to promote the attractions of the peninsula, proving to be as much a window into the politics and people of the newly cobbled Federated Malay States as it was a guide for tourist travel.
+
+The Malay Peninsula in the late 19th century was then a patchwork of colonial rule and control, with initially only the Straits Settlements directly under British wings. Wild animals, wild men and wild habits still prevailed in interior Malaya. Author and editor of the guide, C. W. Harrison highlights the fact that “\[u\]p to some thirty years ago those of the Native States of the Malay Peninsula which are now the Federated Malay States, had little or no dealings with the civilizations lying east and west of them. They were unknown to history, scarce visited by other races, except the Chinese, heard of only as the wild lands forming the hinterland of Penang, Malacca and Singapore….In the Straits Settlements they were known certainly as places somewhat unsafe to visit, but for treachery and bloodthirstiness they were never comparable to the islands further south from which the sea-rovers came. Merely they were shockingly misgoverned by rulers perpetually infirm of purpose...” (Harrison, 1910, pp. 4–5)
+
+Tin mining and rubber plantations, however, were quickly transforming the landscape and society of Malaya. The guide offers details of the labour-intensive task of open-cast mining and of the Chinese coolies who worked them. “Roughly 40 percent of the world’s tin comes from the Federated Malay States. ‘Imagination boggles at the thought’ that from this little more that (sic) twentyfive thousand square miles of country, two-thirds of which are unexplored or unworked, there should be won in a year tin worth £12,244,000…and it is primarily the revenue so derived which has made the country the wealthy land it now is, and will yet make it wealthier” (Harrison, 1910, pp. 78–79). But conflicts concerning this growing wealth began to get out of hand and the ruling sultans sought the British to alleviate this problem.
+
+When on 1 July 1896, Pahang, Perak, Selangor and Negri Sembilan signed a treaty to form the Federated Malay States under British advisors, the British gained control over these rich industries in return for ensuring good governance and mediation over riotous conflicts which invariably arose where great wealth and anarchy were present. Meanwhile, Malayans began to taste the benefits of British influence in the development of modern infrastructure such as roads and railways as well as a strong government. 
+
+In the 1920 edition of the guide, it states that the Federated Malay States had “732 miles of railway and 2,344 miles of motor road. This makes them easy to visit, either from Penang or from Singapore… Certainly it is 8,000 miles or more overseas and takes three weeks from Marseilles, but it comes just in the middle of the grand tour between Ceylon and China or Japan and you ought not to miss it. You can rush through it in 24 hours by rail… or take the inside of a fortnight over it… ” (Harrison, 1910, pp. 25 –26)
+
+#### **The Writers and  Illustrators: Products of an Empire**
+
+
+
+
+
