@@ -138,5 +138,3 @@ Stockwell, A. J. (1993). Early tourism in Malaya (pp. 258–270). In Michael Hit
 [^12]: _A Malayan outpost_, May 1926, p. 27.
 
 [^13]: [Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61). (1910, December 17). _The Straits Times_, p. 7.
-
-
