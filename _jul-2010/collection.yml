@@ -2,12 +2,6 @@ collections:
   jul-2010:
     output: true
     order:
-      - "Early Tourist Guidebooks: The Illustrated Guide to the Federated Malay
-        States.md"
-      - Bibliography on The Hadhrami Arabs in Southeast Asia With Special
-        Reference to Singapore.md
-      - Bibliography, A Treasure Trove on Hadhramis in Southeast Asia Much to
-        Discover.md
       - Director's Column.md
       - "Journey: A story About the Past and Future.md"
       - "1872: The Fortune of War Tragedy: A Christmas Celebration in Tanjong
@@ -15,3 +9,9 @@ collections:
       - Physical Education and Sports in Singapore Schools Through the Last
         Millennium (Part I).md
       - Unveiling Secrets of the Past Through the Passage of Malay Scripts.md
+      - Bibliography, A Treasure Trove on Hadhramis in Southeast Asia Much to
+        Discover.md
+      - Bibliography on The Hadhrami Arabs in Southeast Asia With Special
+        Reference to Singapore.md
+      - "Early Tourist Guidebooks: The Illustrated Guide to the Federated Malay
+        States.md"
