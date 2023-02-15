@@ -7,7 +7,7 @@ description: Senior Librarian Bonny Tan examines the Illustrated Guide to the
 ---
 #### Senior Librarian _Bonny Tan_ examines the _Illustrated Guide to the Federated Malay States_, an early tourist guidebook available at the National Library.
 
-&*emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“We travel nowadays far more often and far further than our ancestors,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we do not, as they say they did, hanker for hardship.<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;We like to see new countries, new people and new ways of living,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we like a little 
+*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“We travel nowadays far more often and far further than our ancestors<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we do not, as they say they did, hanker for hardship.<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;We like to see new countries, new people and new ways of living,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we like a little 
 comfort hereto...”* 1
 
 #### **The Audience: Early 20th Century**
@@ -63,6 +63,3 @@ In 1910, the Malay States Information Agency was established with the primary ob
 One of its first publications was the guide, printed in 1910, the same year the agency was established. Since it was released by the agency, the guide‘s contents were “officially revised and sanctioned…(and thus) regarded as a completely ‘authorised version’ of matters Malayan.”13 By the time the publication was in its fourth impression in 1923, the agency had become a well-respected institution, receiving several thousand visitors a year, offering lectures, brochures and other resources for visitors and potential investors.
 
 In 1985, the guide was republished by Oxford University Press and it remains a vital reference for insights into the beginnings of the Federated Malay States and its growth. Copies from the first issue of 1910 to the more current reprints are available at the National Library on microfilm.
-
-
-
