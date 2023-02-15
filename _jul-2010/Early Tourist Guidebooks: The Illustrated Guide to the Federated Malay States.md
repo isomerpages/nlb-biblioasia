@@ -61,6 +61,9 @@ The Malays he characterises as “senang” – a quality he sees as a strength.
 
 In chapter three, Robson describes a fascinating 11-day journey by motorcar down the peninsula, beginning at Penang, traversing through Ipoh to Kuala Lumpur and ending at Malacca via Seremban, followed by a short train ride to Singapore. This pioneer motorist who was one of the first to drive a car in Malaya,[^9] gives practical advice such as the appropriate type of cars to use, loading cars onto ships and trains, hiring Malay drivers and paying them.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Elephants.jpg">
+ <div style="background-color: white;">Elephants carrying panniers.<i> An illustrated guide to the Federated Malay States,</i> 1910, p. 70.</div>
+
 A whole chapter of more than 20 pages on big game shooting is given by Hubback, a veteran hunter himself and who was later appointed Chief Game Warden of the FMS. Hubback advises that leopards and tigers, though fairly numerous, were less easy to hunt in the dense jungles. Instead elephants, seladang and rhinoceros made for better targets. Though Hubback advocates hunting to attract the Western traveller, he was a strong conserver of wild life in Malaya. Besides his involvement in drafting the game laws, he was the first to pursue the setting up of game reserves, with the Krau and Gunong Tahan Game Reserves in Pahang credited to his dogged determination in this matter.
 
 Robinson, Director of the F. M. S. Museums and Fisheries, solicited the help of I. H. N. Evans and C. Boden Kloss to write on the Perak and Selangor Museums respectively, giving interesting insights into the zoological as well as ethnographic collections.
