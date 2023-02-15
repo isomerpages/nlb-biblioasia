@@ -45,7 +45,7 @@ In the 1920 edition of the guide, it states that the Federated Malay States had 
 
 Harrison, along with the other writers of the guide, J. H. Robson, T. R. Hubback, H. C. Robinson and F. J. B. Dykes, had all joined the Federated Malayan Civil Service around the time of the federation.[^6] They were recognised as pioneers of the Federated Malay States, forging its shape while serving in more than one of the Malay States or holding a post in the main FMS government. Their writing carries the weight of personal experiences and the insights from their executive positions.[^7]
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/British%20High%20Commisioner.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/British%20High%20Commisioner.jpg">
  <div style="background-color: white;">The British High Commissioner’s residence and the Malay Council Chamber, Kuala Kangsar. <i>An illustrated guide to the Federated Malay States,</i> 1910, p. 64.</div>
 
 The guide thus goes beyond giving functional descriptions of places and providing a practical itinerary. Harrison’s style particularly recalls that of travelogue writers a generation prior, with anecdotal descriptions which are spiced with saucy details, frank opinions and romanticised landscapes. An early review of the book notes that a “guide book is not as a rule a production which can be described as literary. If it gives accurate information it generally accomplishes all that it claims to do, and the reader looks for nothing more. The F. M. S. therefore, is particularly fortunate in having at its service a writer of the ability of Mr Harrison, who has made his guide a book which can be enjoyed for its literary qualities alone.”[^8]
