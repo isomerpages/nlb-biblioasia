@@ -7,7 +7,7 @@ description: Senior Librarian Bonny Tan examines the Illustrated Guide to the
 ---
 #### Senior Librarian _Bonny Tan_ examines the _Illustrated Guide to the Federated Malay States_, an early tourist guidebook available at the National Library.
 
-*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“We travel nowadays far more often and far further than our ancestors<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we do not, as they say they did, hanker for hardship.<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;We like to see new countries, new people and new ways of living,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we like a little 
+*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“We travel nowadays far more often and far further than our <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ancestors but we do not, as they say they did, hanker for hardship.<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;We like to see new countries, new people and new ways of living,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we like a little 
 comfort hereto...”* 1
 
 #### **The Audience: Early 20th Century**
