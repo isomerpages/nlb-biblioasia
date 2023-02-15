@@ -69,3 +69,74 @@ In 1985, the guide was republished by Oxford University Press and it remains a v
 <br/>
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
 <center><b>Bonny Tan</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+
+#### **REFERENCES**
+
+[Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34). (1929, May 4). _The Malayan Saturday Post_, p. 20. From NewspaperSG.
+
+Falconer, J. (2009). Introduction. In Kleingrothe, C. J[_. Malay Peninsula: Straits Settlements & Federated Malay States_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13312942). Kuala Lumpur: Jugra. Call no.: RSING 959.51 KLE
+
+[Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61). (1910, December 17). _The Straits Times_, p. 7. From NewspaperSG.
+
+Han, M. L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. [_Sojourn_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4401203)_, 18_ (2), pp. 257–278. Call no.: RSING 300.5 SSISA
+
+Harrison, C. W. (Ed.). (1910). [_An illustrated guide to the Federated Malay States_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873405). London: Malay States Information Agency. Call no.: RRARE 959.5 ILL; Microfilm no.: NL25918
+
+Hall, Nan. (1956, June 17). [The tall boy who came back with an album](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98). _The Straits Times_, p. 1. From NewspaperSG.  
+
+[_Java: The wonderland_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4890575). (1900). Weltevreden, Java: Official Tourist Bureau. Call no.: RSEA 915.98204 JAV
+
+[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29). (1900, February 16). _The Straits Times_, p. 2. From NewspaperSG.
+
+Kratoska, P. (1985). Introduction. In Harrison, C. W. (Ed.). [_An illustrated guide to the Federated Malay States_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079906). Singapore: Oxford University Press. Call no.: RSING 959.5 ILL (NL 7461)
+
+[A literary guide – Mr C. W. Harrison’s account of the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74). (1920, July 17). _The Straits Times_, p. 10. From NewspaperSG.
+
+[Lost in the jungle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19081130-1.2.56). (1908, November 30). _The Straits Times_, p. 6. From NewspaperSG.
+
+Malayan outpost: The work of the Malay States Information Agency. (1926, May). _British Malaya Magazine: Magazine of the Association of British Malaya_, pp. 27–28. Microfilm no.: NL 7599 (1926–30)
+
+[The passenger agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50). (1899, November 10). _The Straits Times_, p. 3. From NewspaperSG
+
+[Pioneering days of motoring in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330202-1.2.119). (1933, February 2). _The Straits Times_, p. 16. From NewspapeSG.
+
+Stockwell, A. J. (1993). Early tourism in Malaya (pp. 258–270). In Michael Hitchcock et. al (Eds.). [_Tourism in South-East Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6399592). London: Routledge. Call no.: RSING 338.4791590453 TOU
+
+[The story of Malayan journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340805-1.2.31). (1934, August 5). _The Straits Times_, p. 5. From NewspaperSG.
+
+[Tourist tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74). (1908, July 13). _The Straits Times_, p. 7. From NewspaperSG.
+
+[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200524-1.2.24). (1920, May 24). _The Straits Times_, p. 8. From NewspaperSG.
+
+[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50). (1908, August 18). _The Straits Times_, p. 6. From NewspaperSG.
+
+#### **NOTES**
+        
+
+[^1]: [Harrison](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873405), 1920, p. 2.
+
+[^2]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50). (1908, August 18). _The Straits Times_, p. 6.
+
+[^3]: [Tourist tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74). (1908, July 13). _The Straits Times_, p. 7.
+
+[^4]: [Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29). (1900, February 16). _The Straits Times_, p. 2. It was compiled by F. K. Jennings who had established the agency at 3 Finlayson Green in 1899 – [The passenger agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50). (1899, November 10). _The Straits Times_, p. 3.
+
+[^5]: [Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34). (1929, May 4). _The Malayan Saturday Post_, p. 20.
+
+[^6]: Harrison in 1897, Robson in 1889, Hubback in 1895 and Dykes in 1892. It is uncertain when H. C. Robinson arrived in Malaya.
+
+[^7]: Harrison had been Secretary to the Residents of Selangor (1919) and Perak (1921) as well as Commissioner of Lands of the FMS (1923). Robson was a member of the Federal Council (1909) and founder and editor of the Malay Mail (1896). Hubback became Chief Game Warden of the FMS in 1933 while Robinson was Director of Museums, FMS since 1908. Dykes was appointed Senior Warden of Mines for FMS in 1903.
+
+[^8]: [A literary guide – Mr C. W. Harrison’s account of the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74). (1920, July 17). _The Straits Times_, p. 10.
+
+[^9]: Namely a 6 h.p. de Dion-Bouton in 1903 – [The story of Malayan journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340805-1.2.31). (1934, August 5). _The Straits Times_, p. 5.
+
+[^10]: Hall, Nan. (1956, June 17). [The tall boy who came back with an album](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98). _The Straits Times_, p. 13.
+
+[^11]: G. R. Lambert, well-known for his black- and-white photographs of Singapore and the Malay Peninsula was a contemporary of Kleingrothe. Kleingrothe had in fact begun his career in Southeast Asia as manager of the Deli branch of G. R. Lambert and Company.
+
+[^12]: _A Malayan outpost_, May 1926, p. 27.
+
+[^13]: [Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61). (1910, December 17). _The Straits Times_, p. 7.
+
+
