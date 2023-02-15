@@ -10,6 +10,9 @@ description: Senior Librarian Bonny Tan examines the Illustrated Guide to the
 *&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“We travel nowadays far more often and far further than our <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ancestors but we do not, as they say they did, hanker for hardship.<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;We like to see new countries, new people and new ways of living,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;but we like a little 
 comfort hereto...”*[^1]
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Malay%20Houseboats.jpg">
+ <div style="background-color: white;">Malay houseboats on Pahang River at Kuala Lipis. <i>An illustrated guide to the Federated Malay States, 1910, p. 84.</i></div>
+
 #### **The Audience: Early 20th Century**
 
 By the first decade of the 20th century, round-the-world tours had become popular especially among wealthy Americans. These globetrotters often made a pit-stop at Singapore where they fueled up on Western luxuries and tasted aspects of Malayan life, travelling by train as far up as Johore’s plantations before proceeding to the more exotic Far East. 
