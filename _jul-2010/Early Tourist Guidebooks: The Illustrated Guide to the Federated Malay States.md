@@ -63,3 +63,13 @@ In 1910, the Malay States Information Agency was established with the primary ob
 One of its first publications was the guide, printed in 1910, the same year the agency was established. Since it was released by the agency, the guide‘s contents were “officially revised and sanctioned…(and thus) regarded as a completely ‘authorised version’ of matters Malayan.”13 By the time the publication was in its fourth impression in 1923, the agency had become a well-respected institution, receiving several thousand visitors a year, offering lectures, brochures and other resources for visitors and potential investors.
 
 In 1985, the guide was republished by Oxford University Press and it remains a vital reference for insights into the beginnings of the Federated Malay States and its growth. Copies from the first issue of 1910 to the more current reprints are available at the National Library on microfilm.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<center><b>Bonny Tan</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+
+
+
+
