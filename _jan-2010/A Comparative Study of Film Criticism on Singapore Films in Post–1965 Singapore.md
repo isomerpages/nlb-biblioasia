@@ -102,8 +102,3 @@ Critical essays and reviews of Singapore films examine both art and commercial f
 <br/>
 <img src="/images/Authors/Tan%20Chee%20Lay.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Tan Chee Lay</b><br>Lee Kong China Research Fellow<br>National Library</center> </div>
-
-
-
-
-
