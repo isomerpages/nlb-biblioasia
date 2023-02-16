@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Example Title.md
       - "Neo Tiew: The Man Who Built Lim Chu Kang.md"
       - Test page.md
