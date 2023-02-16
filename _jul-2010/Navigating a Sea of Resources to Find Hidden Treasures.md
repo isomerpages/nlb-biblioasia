@@ -24,13 +24,13 @@ I enjoyed myself when I was a student in Singapore. Almost every year, I spend m
 The Lee Kong Chian Research Fellowship is also helping me to develop myself professionally. It enriches me as I gain a better understanding of the topic I am investigating through researching and studying the resources of the National Library of Singapore, especially the Lee Kong Chian Reference Library collection, which houses extensive resources on Southeast Asia. The National Library is like a sea of resources. Those who navigate it find hidden treasure. And I believe, the hidden treasure in this library will help materialise my hope, that is, to contribute to the development of Southeast Asian studies, especially the study of the Chinese in Indonesia.
 
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Setefanus Suprajitno and Dr Phyllis Chew were each awarded the Lee Kong Chian Research Fellowship on 2nd March and 6th May 2010 respectively.<br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Setefanus Suprajitno and Dr Phyllis Chew were each awarded the Lee Kong Chian Research Fellowship on 2nd March and 6th May 2010 respectively.<br><br>
 	
-Suprajitno has an M.A. in Anthropology and his research topic focuses on “The Buddhist identities of the Chinese in Indonesia after Reformasi”.<br>
+Suprajitno has an M.A. in Anthropology and his research topic focuses on “The Buddhist identities of the Chinese in Indonesia after Reformasi”.<br><br>
 	
-Dr Chew has a Ph.D in Linguistics and her research topic is on “Multiculturalism in pre - and colonial Singapore: the sociolinguistics of early Singapore”.<br>
+Dr Chew has a Ph.D in Linguistics and her research topic is on “Multiculturalism in pre - and colonial Singapore: the sociolinguistics of early Singapore”.<br><br>
 	
-For more information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br> Email: LKCRF@nlb.gov.sg<br> Tel: 6332 3348<br> Fax: 6333 7990</div>
+For more information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>Email: LKCRF@nlb.gov.sg<br> Tel: 6332 3348<br> Fax: 6333 7990</div>
 
 <br>
 <div style="background-color: white;">
