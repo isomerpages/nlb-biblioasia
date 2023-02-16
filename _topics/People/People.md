@@ -4,6 +4,12 @@ permalink: /topics/people/
 description: ""
 third_nav_title: People
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis</a>
+Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
+
+<img src="/images/Vol%2019%20Issue%201/Tennis/image1-edit.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a>
 
 A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
