@@ -129,21 +129,8 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^6]: Ronald Daus, *Portuguese Eurasian Communities in Southeast Asia* (Singapore: Institute of Southeast Asian Studies, 1989). (From National Library, Singapore, call no. RSING 305.869059 DAU); John Byrne, “The Luso-Asians and Other Eurasians: Their Domestic and Diasporic Identities,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 1, The Making of the Luso-Asian World: Intricacies of Engagement*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2011). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
-[^7]:
+[^7]: Hugo Cardoso, “O Português em Contacto na Ásia e no Pacífico,” in *Manual de Linguística Portuguesa*, ed. Ana Maria Martins and Ernestina Carrilho (Berlin: De Gruyter, 2016), https://library.oapen.org/handle/20.500.12657/23870; Hugo Cardoso, “Contact and Portuguese-Lexified Creoles,” in *The Handbook of Language Contact*, 2nd ed., ed. Raymond Hickey (Hoboken: John Wiley & Sons, 2020), https://www.wiley.com/en-sg/The+Handbook+of+Language+Contact%2C+ 2nd+Edition-p-9781119485056.)
 
+[^8]: Stefanie Pillai, Wen-Yi Soh and Angela S. Kajita, “Family Language Policy and Heritage Language Maintenance of Malacca Portuguese Creole,” *Language & Communication* 37 (July 2014): 75–87, ScienceDirect, https://doi.org/10.1016/j.langcom.2013.12.003.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^9]: 
