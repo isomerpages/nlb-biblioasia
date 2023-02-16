@@ -137,4 +137,37 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^10]: Alan N. Baxter, *A Grammar of Kristang (Malacca Creole Portuguese)* (Camberra: The Australian National University, 1988), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/007130472; Alan N. Baxter and Patrick de Silva, *A Dictionary of Kristang (Malacca Creole Portuguese): With an English-Kristang Finderlist* (Canberra: Pacific Linguistics, 2004). (From National Library, Singapore, call no. RSEA 469.79321 BAX)
 
-[^11]: 
+[^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+
+[^12]: Ian Burnet, *Archipelago: A Journey Across Indonesia* (Kenthurst, NSW: Rosenberg Publishing Pty Ltd, 2015), 29–30. (From National Library, Singapore, call no. RSEA 959.804 BUR)
+
+[^13]: Kevin Martens Wong, “Kodrah Kristang: The Initiative to Revitalize the Kristang Language in Singapore,” *Language Documentation & Conservation Special Publication*, no. 19 (December 2019): 35–121, https://scholarspace.manoa.hawaii.edu/bitstream/10125/24906/1/ldc-sp19-wong.pdf. See also Kodrah Kristang facebook, accessed 5 December 2022, https://www.facebook.com/kodrahkristang/; Keep Kristang Alive facebook, accessed 5 December 2022, https://www.facebook.com/KristangKL/; and Yo Falah Linggu Kristang, accessed 5 December 2022, https://www.facebook.com/yofalah.linggukristang.
+
+[^14]: Valerie Scully and Catherine Zuzarte, *The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang* Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
+
+[^15]: Scully and Zuzarte, *Most Comprehensive Eurasian Heritage Dictionary*, 28. 
+
+[^16]: Philippe Maurer, *The Former Portuguese Creole of Batavia and Tugu (Indonesia)* (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
+
+[^17]: Barbara Dix Grimes, “The Development and Use of Ambonese Malay,” in *Papers in Austronesian Linguistics*, vol. 1 (Canberra: Australian National University, 1991), https://www.sil.org/resources/archives/37426; Eeva Sippola, *Una gramática descriptiva del chabacano de Ternate* (Helsinki: University of Helsinki, 2011), https://helda.helsinki.fi/handle/10138/28255.
+
+[^18]: Maria Alice Marques Viola, *Presença histórica “portuguesa” em Larantuka (séculos XVI e XVII) e suas implicações na contemporaneidade* (PhD diss., Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, 2013); Alice M. Viola, “Presenças históricas portuguesas em Larantuka (Indonésia Oriental)” in *As Lições de Jill Dias: Antropologia, História, África e Academia*, ed. Maria Cardeira and Clara Saraiva (Lisboa: Etnográfica Press, 2013), https://www.academia.edu/8821423/Presenças_históricas_portuguesas_em_Larantuka.
+
+[^19]: Alan N. Baxter, “Notes on the Creole Portuguese of Bidau, East Timor,” *Journal of Pidgins and Creole Languages* 5, no. 1 (1990): 1–38, John Benjamins e-Platform, https://doi.org/10.1075/jpcl.5.1.02bax.
+
+[^20]: Rita Bernardes de Carvalho, “A ‘Snapshot’ of a Portuguese Community in Southeast Asia: The Bandel of Siam, 1684–86,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+
+[^21]: Vicente Paulino, “Remembering the Portuguese Presence in Timor and Its Contribution to the Making of Timor’s National and Cultural Identity,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+
+[^22]: Zuzana Greksásová, *Tetun in Timor-Leste: The Role of Language Contact in Its Development* (PhD diss., Universidade de Coimbra, 2018).
+
+[^23]: Michel Cahen, Dejanirah Couto, Peter Ronald Dsouza, Louis Marrou and Alito Siqueira, “Issues of Asian Portuguese-Speaking Spaces and Lusotopias,” *Lusotopie* 7 (2000): 148–157, https://www.persee.fr/doc/luso_1257-0273_2000_num_7_1_1366.
+
+
+
+
+
+
+
+
+
