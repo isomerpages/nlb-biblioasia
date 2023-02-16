@@ -133,4 +133,8 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^8]: Stefanie Pillai, Wen-Yi Soh and Angela S. Kajita, “Family Language Policy and Heritage Language Maintenance of Malacca Portuguese Creole,” *Language & Communication* 37 (July 2014): 75–87, ScienceDirect, https://doi.org/10.1016/j.langcom.2013.12.003.
 
-[^9]: 
+[^9]: Margaret Sarkissian, *D’Alburquerque’s Children: Performing Tradition in Malaysia’s Portuguese Settlement* (Chicago: The University of Chicago Press, 2000), https://press.uchicago.edu/ucp/books/book/chicago/D/bo3623368.html.
+
+[^10]: Alan N. Baxter, *A Grammar of Kristang (Malacca Creole Portuguese)* (Camberra: The Australian National University, 1988), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/007130472; Alan N. Baxter and Patrick de Silva, *A Dictionary of Kristang (Malacca Creole Portuguese): With an English-Kristang Finderlist* (Canberra: Pacific Linguistics, 2004). (From National Library, Singapore, call no. RSEA 469.79321 BAX)
+
+[^11]: 
