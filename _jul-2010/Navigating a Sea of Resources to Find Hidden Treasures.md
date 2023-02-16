@@ -37,8 +37,3 @@ For more information on the Lee Kong Chian Research Fellowship, please contact t
 <br/>
 <img src="/images/Authors/Setefanus%20Suprajitno.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Setefanus Suprajitno</b><br> Lee Kong Chian Research Fellow (2010)<br>National Library</center></div>
- 
-
-
-
-
