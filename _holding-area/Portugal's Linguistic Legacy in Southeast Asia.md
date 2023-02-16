@@ -137,7 +137,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^10]: Alan N. Baxter, *A Grammar of Kristang (Malacca Creole Portuguese)* (Camberra: The Australian National University, 1988), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/007130472; Alan N. Baxter and Patrick de Silva, *A Dictionary of Kristang (Malacca Creole Portuguese): With an English-Kristang Finderlist* (Canberra: Pacific Linguistics, 2004). (From National Library, Singapore, call no. RSEA 469.79321 BAX)
 
-[^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+[^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
 [^12]: Ian Burnet, [<i>Archipelago: A Journey Across Indonesia</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202205339) (Kenthurst, NSW: Rosenberg Publishing Pty Ltd, 2015), 29–30. (From National Library, Singapore, call no. RSEA 959.804 BUR)
 
