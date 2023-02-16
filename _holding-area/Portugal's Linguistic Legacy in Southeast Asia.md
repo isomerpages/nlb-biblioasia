@@ -33,3 +33,16 @@ Dalgado also recorded Portuguese loanwords in Asian dialects of European languag
 A more interesting phenomenon is the creation of contact languages. As its name suggests, a contact language emerges when two or more different languages come into contact with one another and get lexically and structurally intertwined, forming what is called creoles. In the colonial context, such languages often consist of the vocabulary from the language of the coloniser (superstrate) and some lexical and grammatical influence from the language(s) of the colonised (substrate). Portuguese-based creoles are creoles whose main vocabulary consists of Portuguese words.
 
 Portuguese-based contact languages in Asia arose when Portuguese men, such as traders and venturers (*casados*; literally “married”), married local women or took them as concubines. The offspring of these liaisons came to be known as Eurasian, who developed specific linguistic and cultural traits.[^6]
+
+There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Melaka; Batavia and Tugu creole in Java; Flores creole in the Flores and Solor islands; the Moluccas creole; Burma creole in Myanmar and Siam creole in Thailand.[^7] With the exception of Papia Kristang, most of the other creoles have become extinct, or are now very close to it.
+
+#### Papia Kristang
+
+The first Portuguese contacts with Melaka began in 1509 and intensified after Afonso de Albuquerque conquered Melaka two years later. The most common name of the Portuguese-based creole of Melaka, Papia Kristang (“Christian speech”), and the local Portuguese settlement, Padri Sa-chang (“land of the priest”), show the deep connection between language, religion, territory and identity.
+
+Today, Papia Kristang is considered an important identity marker but with little social prestige.[^8] The people remaining in the Portuguese Settlement (in Malay, Kampung Portugis) in Melaka consists of a small group of poor fishermen who are an anthropological curiosity and a tourist attraction. As Papia Kristang is the only surviving Portuguese-based creole in Southeast Asia, it has attracted interest from both Kristang scholars[^9] and other academics.[^10]
+
+Over time, Papia Kristang spread geographically as groups of Portuguese Eurasians moved around the region. Following the capture of Portuguese Melaka by the Dutch in 1641, some Eurasians fled to other places in the region such as Makassar. Subsequently, when the Dutch attacked Makassar in 1660, it led to an exodus of the Eurasians to Larantuka on Flores island. These migratory patterns spread Kristang to other areas outside of Melaka.
+
+While the Dutch conquered Melaka from the Portuguese in 1641, and subsequently ruled it until 1825, they could not dethrone the Portuguese-based creole in Melaka. Many Dutch men ended up marrying Creole-speaking Eurasians and had Creole-speaking slaves of Portuguese descent.[^11] Despite being unrelated to the Portuguese, these slaves were known as Black Portuguese (*Zwarte Portugueesen*) and later Mardijkers (from Malay *merdeka*, which means “free men”, as they were “free” from taxes. The word *merdeka* is in turn derived from *marhardika*, Sanskrit for “freedom”).[^12] 
+
