@@ -30,7 +30,7 @@ Suprajitno has an M.A. in Anthropology and his research topic focuses on “The 
 	
 Dr Chew has a Ph.D in Linguistics and her research topic is on “Multiculturalism in pre - and colonial Singapore: the sociolinguistics of early Singapore”.<br><br>
 	
-For more information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>Email: LKCRF@nlb.gov.sg<br> Tel: 6332 3348<br> Fax: 6333 7990</div>
+For more information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>Email: <a href="LKCRF@nlb.gov.sg">LKCRF@nlb.gov.sg</a><br> Tel: 6332 3348<br> Fax: 6333 7990</div>
 
 <br>
 <div style="background-color: white;">
