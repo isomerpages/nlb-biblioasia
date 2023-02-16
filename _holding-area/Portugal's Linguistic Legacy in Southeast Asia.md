@@ -27,3 +27,9 @@ We often hear of purists who insist on keeping the traditions of their languages
 Mainly relying on dictionaries, Dalgado identified Portuguese loanwords in Southeast Asian languages such as Burmese (seven), Khmer (25), Thai (35), southern Vietnamese (15), northern Vietnamese (eight), Malay (431), Acehnese (51), Batak (29), Sundanese (100), Betawi (10), Javanese (104), Madurese (48), Balinese (21), Dayak (41), Makassarese (101), Buginese (122), Ambon Malay (16), Nicobarese (27), Tetum (774) and Galoli (429). (Dalgado did not know Malay/Indonesian and the extent of the influence of Portuguese on these two languages has been updated since Dalgado’s book, as scholars have published more recent papers and books on the subject.[^3])
 
 Dalgado also recorded Portuguese loanwords in Asian dialects of European languages: Anglo-Indian (173),[^4] Indian French (62) and Chinese Pidgin English (15). (The last was used in the ports of South China.[^5])
+
+#### Contact Languages, Syncretic Cultures
+
+A more interesting phenomenon is the creation of contact languages. As its name suggests, a contact language emerges when two or more different languages come into contact with one another and get lexically and structurally intertwined, forming what is called creoles. In the colonial context, such languages often consist of the vocabulary from the language of the coloniser (superstrate) and some lexical and grammatical influence from the language(s) of the colonised (substrate). Portuguese-based creoles are creoles whose main vocabulary consists of Portuguese words.
+
+Portuguese-based contact languages in Asia arose when Portuguese men, such as traders and venturers (*casados*; literally “married”), married local women or took them as concubines. The offspring of these liaisons came to be known as Eurasian, who developed specific linguistic and cultural traits.[^6]
