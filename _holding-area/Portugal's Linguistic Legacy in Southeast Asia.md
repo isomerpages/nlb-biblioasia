@@ -157,17 +157,8 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^20]: Rita Bernardes de Carvalho, “A ‘Snapshot’ of a Portuguese Community in Southeast Asia: The Bandel of Siam, 1684–86,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
-[^21]: Vicente Paulino, “Remembering the Portuguese Presence in Timor and Its Contribution to the Making of Timor’s National and Cultural Identity,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+[^21]: Vicente Paulino, “Remembering the Portuguese Presence in Timor and Its Contribution to the Making of Timor’s National and Cultural Identity,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
 [^22]: Zuzana Greksásová, *Tetun in Timor-Leste: The Role of Language Contact in Its Development* (PhD diss., Universidade de Coimbra, 2018).
 
 [^23]: Michel Cahen, Dejanirah Couto, Peter Ronald Dsouza, Louis Marrou and Alito Siqueira, “Issues of Asian Portuguese-Speaking Spaces and Lusotopias,” *Lusotopie* 7 (2000): 148–157, https://www.persee.fr/doc/luso_1257-0273_2000_num_7_1_1366.
-
-
-
-
-
-
-
-
-
