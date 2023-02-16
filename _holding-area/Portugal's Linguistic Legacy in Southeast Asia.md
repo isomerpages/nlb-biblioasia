@@ -53,3 +53,21 @@ The arrival of the British into the region was the impetus for more migratory wa
 Linguistically, the British were more successful than the Dutch as British colonial rule in the Straits Settlements (comprising Singapore, Melaka and Penang) led to the dominance of English in these territories, eventually displacing Kristang for the Portuguese Eurasians. As evidence, consider the fact that after the Second World War, Portuguese Eurasians who migrated out of Southeast Asia chose to settle down in English-speaking countries. Those who moved to Portugal were mainly from East Timor.
 
 Among those who remained, Kristang continued to decline in the face of other languages like Malay (in Malaysia). In Singapore, Kristang has been supplanted by English, Malay, Tamil and Chinese, although there have been efforts to keep the language and culture alive. The Portuguese-Eurasian community has been promoting pedagogical and cultural activities to revitalise the Kristang language.[^13]
+
+In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in Singapore because they wanted to “to help all those interested in this fascinating language learn more about it, and thereby remember our roots”. Interestingly, in their acknowledgements, they noted that, as children, they had been “discouraged from using Kristang for fear that we would not be able to master the English language that was taught in schools”.[^14]
+
+To give a flavour of the language, the dictionary contains several poems and songs printed alongside the English translations. One poem, titled “Singapore River”, goes:
+
+Na pertu Riu di Singapura yo andah,
+Olah klai bunitu seu, ta bakah dia,
+Jenti, jenti tanu ta beng naki,
+Bebeh kon kumi
+Tudu ta buskah.
+
+Or in English:
+
+By the Singapore River I walk,
+Admiring the sunset,
+Lots of people are coming, 
+In search of something
+To eat and drink.[^15]
