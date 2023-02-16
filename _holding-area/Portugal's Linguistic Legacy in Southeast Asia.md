@@ -20,7 +20,7 @@ Portugal has always been a small and relatively powerless state, except for a pe
 
 The extent of Portugal’s linguistic and cultural legacy in this region can be seen from different angles. Portuguese loanwords have entered local languages and become part of the local lexicon, as we see in the case of Bahasa Indonesia. Where the level of cultural intermingling has been deeper, it resulted in the creation of contact languages (also known as creole languages) such as Papia Kristang in Melaka, as well as new cultures that reflect the hybridisation. There also exists the seemingly unique situation of Timor Leste (formerly East Timor), where Portuguese (rather than a creole) continues to be used as a working language. 
 
-#### Portuguese Loanwords
+#### **Portuguese Loanwords**
 
 We often hear of purists who insist on keeping the traditions of their languages and do not want them “contaminated” by other languages. Nevertheless, as human cultures do not exist in a bubble, languages have always integrated borrowings (also called loanwords) from neighbouring as well as distant languages. In 1913, Sebastião Rodolfo Dalgado unearthed Portuguese loanwords in more than 50 Asian languages in his book, *Influência do Vocabulário Português em Línguas Asiáticas*.[^1] A skilled and encyclopaedic missionary and linguist from Goa, Dalgado used his skills to recreate an imagined Portuguese empire and to inflate the influence of the Portuguese language and culture in Asia, as he felt that the linguistic and religious legacy of the Portuguese in Asia was evidence of the superiority of Portuguese civilisation.[^2]
 
@@ -28,7 +28,7 @@ Mainly relying on dictionaries, Dalgado identified Portuguese loanwords in South
 
 Dalgado also recorded Portuguese loanwords in Asian dialects of European languages: Anglo-Indian (173),[^4] Indian French (62) and Chinese Pidgin English (15). (The last was used in the ports of South China.[^5])
 
-#### Contact Languages, Syncretic Cultures
+#### **Contact Languages, Syncretic Cultures**
 
 A more interesting phenomenon is the creation of contact languages. As its name suggests, a contact language emerges when two or more different languages come into contact with one another and get lexically and structurally intertwined, forming what is called creoles. In the colonial context, such languages often consist of the vocabulary from the language of the coloniser (superstrate) and some lexical and grammatical influence from the language(s) of the colonised (substrate). Portuguese-based creoles are creoles whose main vocabulary consists of Portuguese words.
 
@@ -36,7 +36,7 @@ Portuguese-based contact languages in Asia arose when Portuguese men, such as tr
 
 There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Melaka; Batavia and Tugu creole in Java; Flores creole in the Flores and Solor islands; the Moluccas creole; Burma creole in Myanmar and Siam creole in Thailand.[^7] With the exception of Papia Kristang, most of the other creoles have become extinct, or are now very close to it.
 
-#### Papia Kristang
+#### **Papia Kristang**
 
 The first Portuguese contacts with Melaka began in 1509 and intensified after Afonso de Albuquerque conquered Melaka two years later. The most common name of the Portuguese-based creole of Melaka, Papia Kristang (“Christian speech”), and the local Portuguese settlement, Padri Sa-chang (“land of the priest”), show the deep connection between language, religion, territory and identity.
 
@@ -72,7 +72,7 @@ Lots of people are coming,
 In search of something
 To eat and drink.[^15]
 
-#### Batavia and Tugu Creole
+#### **Batavia and Tugu Creole**
 
 Between the 17th and 20th centuries, Batavia (now Jakarta) was the centre of Dutch power in Asia. Batavia came under Dutch control in 1619, but had never been ruled by the Portuguese. However, many people who had lived under Portuguese influence (soldiers, slaves and Eurasian families from South India, Ceylon, Melaka and various Southeast Asian islands) converged there. For that reason, a Portuguese creole came to be used as a means of communication between European and Asian groups.
 
@@ -80,14 +80,14 @@ As in Singapore, the Eurasians in Batavia were just below the Dutch in the socia
 
 In Tugu, a village near Batavia, the Portuguese language (via a Portuguese creole) was spoken. Unlike most other Eurasian communities, the people in this village converted to Calvinism. The Tugu community began to decline during the Japanese Occupation when the “Portuguese” were perceived as colonialists. Jacob Quiko, the mayor of Tugu who died in 1978, was one of the last creole speakers who actively promoted the language. His grandson Guido Quiko continues his legacy today, as he and his community still organise events celebrating their Eurasian heritage.[^16]
 
-#### Moluccas Creole
+#### **Moluccas Creole**
 
 Another creole arose after the Portuguese founded Kota Ambon in 1521 in the Spice Islands (known today as the Moluccas or the Maluku Islands), and the building of Fort Kastela in Ternate in 1522. As in Melaka, Portuguese men married local women and their descendants were also called Eurasians and spoke a creole. When the Ternatans successfully seized the fortress in 1575, Eurasian families fled to Ambon.
 
 In Maluku, the creole later shifted to Ambonese Malay, a local variety of Malay that still retains several Portuguese words. Subsequently, when the Spanish established a garrison in the Maluku Islands in the 17th century, Eurasian families migrated to the Philippines where they founded a town called Ternate in Luzon. There, the creole was relexified as a Spanish-based creole. Today, the language – known as Ternate Chabacano – is no longer recognised by the local Eurasian community as having Portuguese origins. It is only through linguistic and historical research that its Portuguese roots have been identified.[^17]
 
 
-#### Flores Creole
+#### **Flores Creole**
 
 In the 16th century, Portuguese merchants and missionaries began settling in the islands of Flores, Adonara and Solor. The merchant community later split from the missionary community and relocated to Larantuka in Flores. However, these two groups subsequently reunited after Dutch attacks on Solor.
 
@@ -97,4 +97,20 @@ In 1702, as they tried to flee from Dutch influence, the Portuguese community in
 
 The Portuguese subsequently settled in Dili, on Timor, in 1769. To ensure their safety, in 1859, the Portuguese sold their nominal rights over their other settlements in Flores and Solor in exchange for the Dutch recognition of East Timor as belonging to Portugal. This agreement led to a new wave of migration. *Moradores* (inhabitants) from Flores settled in Sikka while those from Solor moved to Bidau, in the suburbs of Dili. Each spoke its own variant of Portuguese creole, although only the latter is documented. As these creoles came into contact with local languages such as Tetum or with more normative versions of Portuguese, they were gradually phased out. The Solor variant was similar to Papia Kristang and Macanese creole (the creole that developed in Macau), which suggests that it was either derived from one of them or from a common ancestor.[^19]
 
+#### **Burma and Siam Creoles**
 
+Little is known about the Burma creole in Myanmar and the Siam creole in Thailand. There are no surviving examples of the two creoles, only European accounts that these existed.
+
+In Burma (now Myanmar), the Eurasian community lived in the southern region of Tanintharyi.They were called the Bayingyi, a derivation of the Arabic *Feringi* (anglicised as “Frank”), which means “foreigner”. Their descendants, who now mainly reside in the Sagaing region in northern Myanmar, are culturally Burmese and are only distinguished by their religion– Catholicism.
+
+In Thailand, the creole is supposed to have emerged in Ayutthaya and, after its fall in 1767, in present-day Bangkok. As in Burma, the people of Portuguese descent became integrated into Thai society.[^20]
+
+#### **Timor Leste**
+
+The linguistic situation in Timor Leste today is complex and understudied. The territory has 31 ethno-linguistic groups and 46 “kingdoms”.[^21] Timor Leste represents an exception to the decline of Portuguese influence in Southeast Asia. Here, the Portuguese language (not a creole), as well as Catholicism, was used by educated elites to resist the annexation by Indonesia in 1974. After Timor Leste gained independence in 2002, both the Portuguese language and Catholicism were used as a means for fostering national unity among the many loose and decentralised ethnic groups and languages.
+
+Besides Portuguese, the other official language of East Timor is Tetum. Tetum is not usually considered to be a creole; like Malay, it is categorised as an Austronesian language. It has, however, been largely influenced by the Portuguese lexicon and grammar, although Tetum itself has great internal variation.[^22] For historical reasons, Tetum Prasa (“Tetum of the City”), the variety spoken in Díli, is heavily influenced by Portuguese, both lexically and structurally. The written version of Tetum Prasa, used in newspapers, is known as Tetunguês (a portmanteau of “Tetum” and “Portuguese”).
+
+As this brief survey demonstrates, while Portugal’s legacy in Southeast Asia most clearly manifests in language, there are also other vestiges. The development of different Eurasian groups and the situation in Timor Leste show that Portugal’s social and cultural legacy, which transcends language and involves other important identity traits, sometimes matters even more.[^23]
+
+Like all other European colonial conquests, the Portuguese venture into Southeast Asia was often a violent and unethical one. The legacies of colonialism, imperialism, euro-centrism and the “universal” values of Enlightenment have been interrogated in postcolonial studies. However, we cannot change history; we can only learn from past mistakes and work towards a better and more ethical present and future. In a world that is becoming increasingly globalised, culturally homogeneous and, at the same time, politically polarised, it is important that we celebrate diversity and do not let the past die out.
