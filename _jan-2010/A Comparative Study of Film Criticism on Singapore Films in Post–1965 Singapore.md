@@ -102,3 +102,54 @@ Critical essays and reviews of Singapore films examine both art and commercial f
 <br/>
 <img src="/images/Authors/Tan%20Chee%20Lay.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Tan Chee Lay</b><br>Lee Kong China Research Fellow<br>National Library</center> </div>
+
+#### **REFERENCES**
+
+ Lee, S. (2003, August 4). [Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8). _The Straits Times_, p. 6. From NewspaperSG.
+
+Millet, R. (2006). [_Singapore cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044). Singapore: Editions Didier Millet Pte Ltd. Call no.: RSING q791.43095957 MIL
+
+Ong, S.F. (2003, October 22). [Short cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16). _The Straits Times_, p. 6. From NewspaperSG.
+
+Toh, C. (2008, February 27). [A big leap of faith](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2). _Today_, p. 37. From NewspaperSG.
+
+Uhde, J. & Uhde Y.N. (2000). [_Latent images: Films in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634). Singapore: Oxford University Press. Call no.: RSING 384.8095957 UHD
+
+洪铭铧. (2006, January 1). 《[小孩不笨2》摆明是教育片](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1), _联合早报_, p. 15. From NewspapeSG.
+
+洪铭铧. (2006, March 7). [人生如戏戏不如人生?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1) _联合早报_, p. 40. From NewspaperSG.
+
+林十五. (2003, May 13). 《[15》少了一个巴掌](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3). _联__合早__报_, p. 31. From NewspaperSG.  
+
+李亦筠. (2008, March 1). 影艺新电图推介. _联合早_ _报_.
+
+易水.《[马来亚化华语电影问题](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)》. 新加坡: 南洋印刷社, 1959. Call no.: Chinese RCLOS 791.4301 IXS
+
+#### **NOTES**
+
+1 [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 115.  
+
+2 [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 114.
+
+3 One of the thrusts of Media 21, as set by Singapore’s Media Development Authority with the aim of turning Singapore into a global media hub, is to increase the export of Made-by-Singapore products.
+
+4 [Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8), 4 August 2003, p. 6.
+
+5 [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 95.
+
+6 [Uhde & Uhde](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634), 2000, p. 2.
+
+7 [易水](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985), 1959, p. 123.
+
+8 李亦筠, 1 Mar 2008; [洪铭铧](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1), 7 Mar 2008, p. 40.
+
+9 [Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2), 27 Feb 2008, p. 37.
+
+10 [洪铭铧](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1), 28 Jan 1006, p. 15.
+
+11 [Ong](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16), 22 Oct 2003, p. 6.
+
+12 [林十五](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3), 13 May 2003, p. 31.
+
+
+
