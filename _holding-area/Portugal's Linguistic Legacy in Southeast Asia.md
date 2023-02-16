@@ -147,7 +147,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^15]: Scully and Zuzarte, *Most Comprehensive Eurasian Heritage Dictionary*, 28. 
 
-[^16]: Philippe Maurer, *The Former Portuguese Creole of Batavia and Tugu (Indonesia)* (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
+[^16]: Philippe Maurer, [<i>The Former Portuguese Creole of Batavia and Tugu (Indonesia)</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14495821) (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
 
 [^17]: Barbara Dix Grimes, “The Development and Use of Ambonese Malay,” in *Papers in Austronesian Linguistics*, vol. 1 (Canberra: Australian National University, 1991), https://www.sil.org/resources/archives/37426; Eeva Sippola, *Una gramática descriptiva del chabacano de Ternate* (Helsinki: University of Helsinki, 2011), https://helda.helsinki.fi/handle/10138/28255.
 
@@ -155,7 +155,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^19]: Alan N. Baxter, “Notes on the Creole Portuguese of Bidau, East Timor,” *Journal of Pidgins and Creole Languages* 5, no. 1 (1990): 1–38, John Benjamins e-Platform, https://doi.org/10.1075/jpcl.5.1.02bax.
 
-[^20]: Rita Bernardes de Carvalho, “A ‘Snapshot’ of a Portuguese Community in Southeast Asia: The Bandel of Siam, 1684–86,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+[^20]: Rita Bernardes de Carvalho, “A ‘Snapshot’ of a Portuguese Community in Southeast Asia: The Bandel of Siam, 1684–86,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
 [^21]: Vicente Paulino, “Remembering the Portuguese Presence in Timor and Its Contribution to the Making of Timor’s National and Cultural Identity,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
