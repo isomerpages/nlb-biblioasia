@@ -18,7 +18,7 @@ There were no casinos in Singapore then. I accompanied my mother Lee Poh Tin (19
 
 It was the custom for some families to assign the care of the child to a Cantonese maid and Ah Sun featured prominently in my baby photographs. However, she left shortly for the hairdressing trade just before I entered Primary One and I was assigned to the care of my maternal grandmother, Ang Lee Neo (1888–1962). Grandma was a niece of “Ah Kim”, a daughter of entrepreneur Wee Boon Teck (1850–1888). Ah Kim had arranged that she would be the second wife of her husband Lee Choon Guan (1868–1924) following the custom of the time. Hence, at aged 11, my grandmother arrived as a child bride from Amoy to perform the teaceremony to her parents-in-law, Mr and Mrs Lee Chay Yan (1841–1911). Unfortunately for her, Ah Kim would die shortly from childbirth. She being too young to manage the extended household, her in-laws arranged for Choon Guan to marry socialite Tan Teck Neo, an older woman who was deemed more able to assume the management of the big household. Unfortunately the two wives did not get along and, in later years, my grandmother left “the big house” with her three children to set up her own separate residence in Kampong Bahru. My interest in history and story-telling stemmed from listening to her elaborate tales of conspiracy and intrigue involving wives, concubines and *mui tsai* (young girls working as domestic servants) in ancestral houses through the lively medium of Malay, Hokkien, Teochew and Cantonese.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/ChildhoodMemories/Mother%20family.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/ChildhoodMemories/Mother%20family.jpg">
  <div style="background-color: white;">The author’s mother’s family. Her mother is seated on the extreme right.</div>
 
 My father, Chew Keow Seong (1912–1995), worked as an accountant in the family ship-handling firm along Robinson Road, which catered mainly to KPM and P&O liners. Visiting my father at lunchtime, I was immersed in the lively babble there – Malay to the staff who were mostly Indians including the burly Sikh watchman who placed his charpoy (a type of bed made from ropes) right across the office door each night, English or Dutch to the Caucasians, and Hokkien and a host of Chinese dialects to the ship-riggers.
@@ -44,37 +44,3 @@ Song, Ong Siang ( 1902). _One hundred years’ history of the Chinese in Singap
 <br/>
 <img src="/images/Authors/Phyllis%20Ghim.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Phyllis Ghim-Lian Chew</b><br>Lee Kong Chian Research Fellow (2010)<br>National Library </center></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
