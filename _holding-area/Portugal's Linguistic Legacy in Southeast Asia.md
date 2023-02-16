@@ -71,3 +71,30 @@ Admiring the sunset,
 Lots of people are coming, 
 In search of something
 To eat and drink.[^15]
+
+#### Batavia and Tugu Creole
+
+Between the 17th and 20th centuries, Batavia (now Jakarta) was the centre of Dutch power in Asia. Batavia came under Dutch control in 1619, but had never been ruled by the Portuguese. However, many people who had lived under Portuguese influence (soldiers, slaves and Eurasian families from South India, Ceylon, Melaka and various Southeast Asian islands) converged there. For that reason, a Portuguese creole came to be used as a means of communication between European and Asian groups.
+
+As in Singapore, the Eurasians in Batavia were just below the Dutch in the social hierarchy, which conferred them political advantages. However, with the passage of time, as the influence of the Portuguese waned and was replaced by more powerful groups, the same happened with their linguistic and cultural influences.
+
+In Tugu, a village near Batavia, the Portuguese language (via a Portuguese creole) was spoken. Unlike most other Eurasian communities, the people in this village converted to Calvinism. The Tugu community began to decline during the Japanese Occupation when the “Portuguese” were perceived as colonialists. Jacob Quiko, the mayor of Tugu who died in 1978, was one of the last creole speakers who actively promoted the language. His grandson Guido Quiko continues his legacy today, as he and his community still organise events celebrating their Eurasian heritage.[^16]
+
+#### Moluccas Creole
+
+Another creole arose after the Portuguese founded Kota Ambon in 1521 in the Spice Islands (known today as the Moluccas or the Maluku Islands), and the building of Fort Kastela in Ternate in 1522. As in Melaka, Portuguese men married local women and their descendants were also called Eurasians and spoke a creole. When the Ternatans successfully seized the fortress in 1575, Eurasian families fled to Ambon.
+
+In Maluku, the creole later shifted to Ambonese Malay, a local variety of Malay that still retains several Portuguese words. Subsequently, when the Spanish established a garrison in the Maluku Islands in the 17th century, Eurasian families migrated to the Philippines where they founded a town called Ternate in Luzon. There, the creole was relexified as a Spanish-based creole. Today, the language – known as Ternate Chabacano – is no longer recognised by the local Eurasian community as having Portuguese origins. It is only through linguistic and historical research that its Portuguese roots have been identified.[^17]
+
+
+#### Flores Creole
+
+In the 16th century, Portuguese merchants and missionaries began settling in the islands of Flores, Adonara and Solor. The merchant community later split from the missionary community and relocated to Larantuka in Flores. However, these two groups subsequently reunited after Dutch attacks on Solor.
+
+Later, the two communities also settled in Wureh and Konga, both also in Flores. Their descendants, the local Eurasians, which also included deserters from the Dutch East India Company, became known as Larantuqueiros, or “people from Larantuka”.[^18]
+
+In 1702, as they tried to flee from Dutch influence, the Portuguese community in Flores resettled in Lifau, Timor. Nonetheless, Portuguese linguistic and cultural elements remained in Larantuka. In Larantuka, Portuguese was used liturgically, in the same way Latin continued to be used in European churches long after vernacular languages had replaced Latin as a language of daily communication. The linguistic influence of Portuguese in Christian liturgy in Larantuka remains to this day.
+
+The Portuguese subsequently settled in Dili, on Timor, in 1769. To ensure their safety, in 1859, the Portuguese sold their nominal rights over their other settlements in Flores and Solor in exchange for the Dutch recognition of East Timor as belonging to Portugal. This agreement led to a new wave of migration. *Moradores* (inhabitants) from Flores settled in Sikka while those from Solor moved to Bidau, in the suburbs of Dili. Each spoke its own variant of Portuguese creole, although only the latter is documented. As these creoles came into contact with local languages such as Tetum or with more normative versions of Portuguese, they were gradually phased out. The Solor variant was similar to Papia Kristang and Macanese creole (the creole that developed in Macau), which suggests that it was either derived from one of them or from a common ancestor.[^19]
+
+
