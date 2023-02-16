@@ -96,3 +96,14 @@ It is hoped that this study has successfully highlighted the various characteris
  <div style="background-color: white;">All rights reserved, National Library Board, 2006.</div>
 
 Critical essays and reviews of Singapore films examine both art and commercial films, and the researches of these writings are crucial and essential in promoting Singapore films. It is also one of the ways to show appreciation and give recognition to films producers, directors, individual critics, etc., whose works have greatly inspired the lives of Singaporean and international audiences, writers and readers. It is the hope that this report will not only highlight the special characteristics and merits of Singapore films and film criticism, but will also aid in recognising film and film criticism as an important make-up of our cultural identity and literary heritage.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Tan%20Chee%20Lay.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Tan Chee Lay</b><br>Lee Kong China Research Fellow<br>National Library</center> </div>
+
+
+
+
+
