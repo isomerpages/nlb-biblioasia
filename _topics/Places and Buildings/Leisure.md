@@ -8,7 +8,7 @@ third_nav_title: Places and Buildings
 
 Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century.
 
-<img src="![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Public%20Bathhouse_Tree%20and%20lake.png)/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%202.png">
+<img src="/images/Vol%2019%20Issue%201/Public%20Bathhouses/Public%20Bathhouse_Tree%20and%20lake.png">
 
 <hr>
 
