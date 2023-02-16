@@ -127,4 +127,23 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^5]: Robert A. Hall, Jr., “Chinese Pidgin English Grammar and Texts,” *Journal of the American Oriental Society* 64, no. 3 (July–September 1944): 95–113. (From JSTOR via NLB’s eResources website); Umberto Ansaldo Stephen Matthews and Geoff Smith, “China Coast Pidgin: Texts and Contexts,” *Journal of Pidgin and Creole Languages* 25, no. 1 (March 2010): 63–94, https://www.researchgate.net/publication/233595288_China_Coast_Pidgin_Texts_and_contexts.
 
+[^6]: Ronald Daus, *Portuguese Eurasian Communities in Southeast Asia* (Singapore: Institute of Southeast Asian Studies, 1989). (From National Library, Singapore, call no. RSING 305.869059 DAU); John Byrne, “The Luso-Asians and Other Eurasians: Their Domestic and Diasporic Identities,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 1, The Making of the Luso-Asian World: Intricacies of Engagement*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2011). (From National Library, Singapore, call no. RSING 305.869105 POR)
+
+[^7]:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
