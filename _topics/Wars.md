@@ -40,6 +40,15 @@ The 1970s are often remembered as a time of rapid economic transformation and pr
 2022 marks the 80th anniversary of the Fall of Singapore. The National Library's collection has items from the Chinese community relating to the Japanese Occupation of Singapore.
 <hr>
 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/national-library-japanese-occupation-collection-english/">The Chinese Community During the Japanese Occupation</a>
+
+A showcase of items from the Chinese community relating to the Japanese Occupation. These are from the collection of the National Library of Singapore.
+
+<img src="/images/Vol 18 Issue 2/S'pore Chinese_Japanese/Spore Federation Chinese.png">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
 Desperate times call for desperate measures. Lee Geok Boi trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 
