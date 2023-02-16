@@ -139,7 +139,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in *Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities*, ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
-[^12]: Ian Burnet, *Archipelago: A Journey Across Indonesia* (Kenthurst, NSW: Rosenberg Publishing Pty Ltd, 2015), 29–30. (From National Library, Singapore, call no. RSEA 959.804 BUR)
+[^12]: Ian Burnet, [<i>Archipelago: A Journey Across Indonesia</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202205339) (Kenthurst, NSW: Rosenberg Publishing Pty Ltd, 2015), 29–30. (From National Library, Singapore, call no. RSEA 959.804 BUR)
 
 [^13]: Kevin Martens Wong, “Kodrah Kristang: The Initiative to Revitalize the Kristang Language in Singapore,” *Language Documentation & Conservation Special Publication*, no. 19 (December 2019): 35–121, https://scholarspace.manoa.hawaii.edu/bitstream/10125/24906/1/ldc-sp19-wong.pdf. See also Kodrah Kristang facebook, accessed 5 December 2022, https://www.facebook.com/kodrahkristang/; Keep Kristang Alive facebook, accessed 5 December 2022, https://www.facebook.com/KristangKL/; and Yo Falah Linggu Kristang, accessed 5 December 2022, https://www.facebook.com/yofalah.linggukristang.
 
