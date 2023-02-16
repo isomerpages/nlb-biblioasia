@@ -114,3 +114,17 @@ Besides Portuguese, the other official language of East Timor is Tetum. Tetum is
 As this brief survey demonstrates, while Portugal’s legacy in Southeast Asia most clearly manifests in language, there are also other vestiges. The development of different Eurasian groups and the situation in Timor Leste show that Portugal’s social and cultural legacy, which transcends language and involves other important identity traits, sometimes matters even more.[^23]
 
 Like all other European colonial conquests, the Portuguese venture into Southeast Asia was often a violent and unethical one. The legacies of colonialism, imperialism, euro-centrism and the “universal” values of Enlightenment have been interrogated in postcolonial studies. However, we cannot change history; we can only learn from past mistakes and work towards a better and more ethical present and future. In a world that is becoming increasingly globalised, culturally homogeneous and, at the same time, politically polarised, it is important that we celebrate diversity and do not let the past die out.
+
+#### **NOTES**
+
+[^1]: Sebastião Rodolfo Dalgado, *Influência do Vocabulário Português em Línguas Asiáticas (Abrangendo Cerca de Cinquenta Idiomas)* (Coimbra: Imprensa da Universidade, 1913), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/001054188.
+
+[^2]: Rosa Ribeiro Fernando, “Revisiting Creoles and Other Languages in the Lusophone Indian Ocean,” in *The Portuguese in the Creole Indian Ocean: Essays in Historical Cosmopolitanism* (Basingstoke: Palgrave Macmillan, 2015). (From National Library, Singapore, call no. RSEA 305.80091712469091824 ROS)
+
+[^3]: Manuel Teixeira, “The Influence of Portuguese on the Malay Language,” *Journal of the Malayan Branch of the Royal Asiatic Society* 35, no. 1 (1962): 95–107. (From JSTOR via NLB’s eResources website); Russell Jones, Carstairs Douglas and Thomas Barclay, eds., *Loan-words in Indonesian and Malay* (Leiden: KITLV, 2007). (From National Library, Singapore, call no. RSEA 499.22124 LOA)
+
+[^4]: Henry Yule and A.C. Burnell, *Hobson-Jobson: The Anglo-Indian Dictionary* (Ware: Wordsworth Reference, 1996). (From National Library, Singapore, call no. RDET 427.95403 YUL)
+
+[^5]: Robert A. Hall, Jr., “Chinese Pidgin English Grammar and Texts,” *Journal of the American Oriental Society* 64, no. 3 (July–September 1944): 95–113. (From JSTOR via NLB’s eResources website); Umberto Ansaldo Stephen Matthews and Geoff Smith, “China Coast Pidgin: Texts and Contexts,” *Journal of Pidgin and Creole Languages* 25, no. 1 (March 2010): 63–94, https://www.researchgate.net/publication/233595288_China_Coast_Pidgin_Texts_and_contexts.
+
+
