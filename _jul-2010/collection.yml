@@ -2,8 +2,6 @@ collections:
   jul-2010:
     output: true
     order:
-      - Navigating a Sea of Resources to Find Hidden Treasures.md
-      - "Childhood Memories: Growing Up in the 1950s and 60s.md"
       - Director's Column.md
       - "Journey: A story About the Past and Future.md"
       - "1872: The Fortune of War Tragedy: A Christmas Celebration in Tanjong
@@ -19,3 +17,5 @@ collections:
         States.md"
       - 温故而知新 – 纪念新中建交二十周年.md
       - 中国著名作家王蒙先生莅临我馆参观.md
+      - "Childhood Memories: Growing Up in the 1950s and 60s.md"
+      - Navigating a Sea of Resources to Find Hidden Treasures.md
