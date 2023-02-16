@@ -7,7 +7,11 @@ description: Lee Kong Chian Research Fellow Tan Chee Lay investigates the both
 ---
 #### Lee Kong Chian Research Fellow _Tan Chee Lay_ investigates the both the macro and micro aspects of film criticism published in English and Chinese newspapers and journals.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Singapore%20Cinema.jpg">
+ <div style="background-color: white;">All rights reserved, Editions Didier Millet Pte Ltd, 2006.</div>
+
 #### **Introduction**
+
 Film criticism plays a role in contributing to the growth of the film industry, as well as to the cultural, educational and even social fields. Film criticism in different languages and contexts, be it journalistic criticism that appears regularly in newspapers or magazines, or scholarly criticism in academic journals, can in fact serve as important and sometimes indispensible platforms to evaluate, promote and even influence films and film productions.
 
 The aim of this bilingual study is to comparatively investigate both the macro and micro aspects of film criticism published in English and Chinese newspapers and journals. The research concentrates on the critical essays and reviews on Singapore films that were published after 1965. Various aspects of film criticism in both English and Chinese languages will be examined, as well as their content. In addition to promoting interaction between English and Chinese films and critical writing communities as well as international English and Chinese readers, this bilingual study also hopes to reach out to international performing arts in both the East and West. The bilingual aspect of the study also further enhances the distinctive culture identity of the multicultural and multilingual Singapore society, and thus plays a role in laying the foundation for progress towards a more artistically dynamic nation.
@@ -22,11 +26,14 @@ However, the film industry declined significantly after Singapore’s independen
 
 Revival of the Singapore film industry came gradually, with Singapore’s government recognising the need to revitalise the film industry during the late eighties. After the long hiatus, the first Singapore feature film was produced in 1991; it was *Medium Rare*, which unfortunately was not very well received, partially due to the director being British and the lead actors being American. The industry started picking up only in 1995, with the release of Eric Khoo’s *Mee Pok Man*. Since 1995, there has been a constant production of local films. The revived Singapore cinema from the 1990s was characterised by short and feature films, shot predominantly in Chinese and occasionally in English. These films are deeply rooted in reflecting the urban lifestyle, with a strong focus on life in public housing.2 Names such as Eric Khoo, Jack Neo and Royston Tan became synonymous with Singapore films. From Table 1, it is clear that the Singapore film industry has seen a significant revival.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Table%201.jpg">
+ <div style="background-color: white;"></div>
+
 The rise in local film production took a dip before making a gradual increase. A strong upward trend took place from 1994/1995 onwards. Notably, 1998 saw another surge in the number of local films produced. This could be attributed to the box office success of Jack Neo’s *Money No Enough*, which could be considered to be a great confidence booster for local filmmakers.
 
 #### **Definition of a Singapore Film**
 
-Defining a Singapore film has always been a tricky issue. One would expect Singapore cinema to be locally rooted, to reflect the various ethnicities and languages of Singapore and capture the different themes of local lifestyles. However, since the birth of Singapore’s film industry, a key characteristic of the film industry is the use of talents from different countries and cultural backgrounds. Both Shaw and Cathay-Keris’ early films featured casts and crews of talents recruited from China and India. Recent films have once again proved that “home-grown” or local films might not necessarily be filmed, produced or performed by locals. This is a situation that is fast becoming the norm in a rapidly globalised world. “Made-by-Singapore”3 films are defined as “made with Singapore talent, financing and expertise but not necessarily entirely made in Singapore or made for the Singapore audience only”4 . Though it was commented that “none of these films, however, contributed to having a Singapore identity on screen”5 , these co-productions have allowed Singapore to be placed on the global stage of the cinematic industry. Moreover, such international co-productions which involve several countries are increasing worldwide, and it has become increasingly difficult to draw a clear line as to which country a film should be credited. Film historiographers are “witnessing a weakening, if not the demise, of the traditional concept of ‘national cinema’, defined by territory, language and a homogenous culture.”6
+Defining a Singapore film has always been a tricky issue. One would expect Singapore cinema to be locally rooted, to reflect the various ethnicities and languages of Singapore and capture the different themes of local lifestyles. However, since the birth of Singapore’s film industry, a key characteristic of the film industry is the use of talents from different countries and cultural backgrounds. Both Shaw and Cathay-Keris’ early films featured casts and crews of talents recruited from China and India. Recent films have once again proved that “home-grown” or local films might not necessarily be filmed, produced or performed by locals. This is a situation that is fast becoming the norm in a rapidly globalised world. “Made-by-Singapore”3 films are defined as “made with Singapore talent, financing and expertise but not necessarily entirely made in Singapore or made for the Singapore audience only”4 . Though it was commented that “none of these films, however, contributed to having a Singapore identity on screen,”5 these co-productions have allowed Singapore to be placed on the global stage of the cinematic industry. Moreover, such international co-productions which involve several countries are increasing worldwide, and it has become increasingly difficult to draw a clear line as to which country a film should be credited. Film historiographers are “witnessing a weakening, if not the demise, of the traditional concept of ‘national cinema’, defined by territory, language and a homogenous culture.”6
 
 While it may not even occur to most local audiences that the films they are watching are “Made-by-Singapore” films, such films are imperative for Singapore to move towards gaining international exposure and recognition. Besides, Singapore companies learn and benefit through their experiences of working with established overseas film production companies. Thus, this study will include film criticism on films that were produced locally, and “Made-by-Singapore” films. As 1991 marks the revival of Singapore’s film industry (refer to Table 1), it comes as no surprise that film criticisms and articles have increased significantly since then, and which are reflected in the data collected below.
 
@@ -35,6 +42,7 @@ While it may not even occur to most local audiences that the films they are watc
 This analysis is based on various local film reviews collected mainly from both local English and Chinese newspapers, and to a lesser degree, local journals.
 
 This study comprises a comprehensive list of Singapore feature films. Short, non-commercial films with limited or no release, digital films or other non-theatrical films are excluded, as well as the various reviews in Chinese and English on feature films. However, there are some limitations in this collection.
+
 First, not all films have both Chinese and English commentaries, thus it is impossible to perform an exact film-tofilm comparison. Second, during the period of data collection, two new newspapers – *My Paper and Today* – have surfaced, and their form of writing and critique are very different in style compared with the traditional ones found in *Lianhe Zaobao* or *The Straits Times*, hence affecting the comparability of data collated. Third, I have chosen to implement a general trend analysis instead of a film-by-film analysis for this report. This is because a general trend analysis will allow us to identify the evolving trends and mitigate the fact that different films have different numbers of reviews, or may lack either Chinese or English reviews. Fourth, although a number of newspapers/journals rate films, I have chosen not to take these ratings into consideration when comparing the reviews. This is because these ratings are based on varying grading scales. In addition, there are many newspapers that do not carry any ratings. Lastly, there are a larger number of English reviews than Chinese reviews, simply because there are more English newspapers and journals than Chinese ones.
 
 In total, this report focuses on the data of 89 feature films starting from 1991 to 2008. Correspondingly, there are a total of 237 reviews collected and researched; of these, 69 are Chinese films reviews and 168 are English reviews.
@@ -43,6 +51,9 @@ In total, this report focuses on the data of 89 feature films starting from 1991
 ***English Film Reviews Appear to be More Encouraging than Chinese Film Reviews***
 
 In general, both Chinese and English reviewers have, over the years and especially after the 1990s, given Singapore films rather negative reviews. However, English film reviewers appear to be relatively more encouraging than Chinese films reviewers. Interestingly, many of the Chinese film reviews before 1965, in comparison, were more encouraging in nature as they sympathised with local filmmakers while acknowledging the difficult filmmaking circumstances.7 This may explain why some readers may still hold the perception that Chinese film criticism is more forgiving or positive.
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Latent%20Images.jpg">
+ <div style="background-color: white;">All rights reserved, Oxford University Press, 2000.</div>
 
 An example is the film *The Leap Years*. Two *Lianhe Zaobao* reviewers on the film unanimously gave it bad reviews.8 The review published in the Today new paper, however, was not good but still encouraging. It ended off with “Nice effort, hope to see more good - if not better - work in the future”.9 The effort in producing the film has been clearly acknowledged, although the results may speak otherwise.
 
@@ -62,6 +73,9 @@ Chinese film reviewers tend to stress more on moral-related themes brought up by
 
 A recent example of such an emphasis can be seen in the differing Chinese and English film criticism and reviews on Royston Tan’s 15. The English reviewers for this film focused on character development, Tan’s filming techniques and effort.11 However, the Chinese critics for this film went a step further to discuss the injustice in our society in general. One article even commented on how society needed to improve its treatment of marginalised teenagers and how the education system could improve to cater to these teens,12 turning the review into an educational doctrine and a social commentary as well as a film criticism.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/15%20poster.jpg">
+ <div style="background-color: white;">All rights reserved, Royston Tan, 2003.</div>
+
 The above example illustrates the trend of Chinese film reviews focusing more on moral values than English film reviews, a phenomenon that runs parallel to the Chinese tradition of *wen yi zai dao* (the text is the carrier of the *Way*, or the moral values).
 
 #### **Conclusion**
@@ -78,12 +92,7 @@ Another interesting trend to note, which is outside the scope of this paper, wou
 
 It is hoped that this study has successfully highlighted the various characteristics of English and Chinese film reviews. With this success, we would achieve the aim of better understanding the concerns of various local film critics and the trends of local film criticism. Equipped with a stronger understanding, we would be able to read between the lines when perusing film reviews of both languages, taking in consideration the fact that the standpoints behind varying film reviews differ from time to time. Only in understanding these varying stands and backgrounds would we be able to obtain a comprehensive understanding of the film itself. In addition, different standpoints help us interpret the films in different ways. Understanding and highlighting the special characteristics and merits of Singapore film criticism will also act as cultural ballast in our nation-building efforts, which hopefully has been shown in this research, as a true appreciation of our literary heritage would strengthen Singaporeans’ sense of national identity and belonging.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Cultural%20Heritage%20.jpg">
+ <div style="background-color: white;">All rights reserved, National Library Board, 2006.</div>
+
 Critical essays and reviews of Singapore films examine both art and commercial films, and the researches of these writings are crucial and essential in promoting Singapore films. It is also one of the ways to show appreciation and give recognition to films producers, directors, individual critics, etc., whose works have greatly inspired the lives of Singaporean and international audiences, writers and readers. It is the hope that this report will not only highlight the special characteristics and merits of Singapore films and film criticism, but will also aid in recognising film and film criticism as an important make-up of our cultural identity and literary heritage.
-
-
-
-
-
-
-
-
