@@ -135,7 +135,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^9]: Margaret Sarkissian, *D’Alburquerque’s Children: Performing Tradition in Malaysia’s Portuguese Settlement* (Chicago: The University of Chicago Press, 2000), https://press.uchicago.edu/ucp/books/book/chicago/D/bo3623368.html.
 
-[^10]: Alan N. Baxter, *A Grammar of Kristang (Malacca Creole Portuguese)* (Camberra: The Australian National University, 1988), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/007130472; Alan N. Baxter and Patrick de Silva, *A Dictionary of Kristang (Malacca Creole Portuguese): With an English-Kristang Finderlist* (Canberra: Pacific Linguistics, 2004). (From National Library, Singapore, call no. RSEA 469.79321 BAX)
+[^10]: Alan N. Baxter, *A Grammar of Kristang (Malacca Creole Portuguese)* (Camberra: The Australian National University, 1988), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/007130472; Alan N. Baxter and Patrick de Silva, [<i>A Dictionary of Kristang (Malacca Creole Portuguese): With an English-Kristang Finderlist</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12761651) (Canberra: Pacific Linguistics, 2004). (From National Library, Singapore, call no. RSEA 469.79321 BAX)
 
 [^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
