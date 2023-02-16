@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Sports.md
       - Editor's Picks.md
       - Archaeology.md
       - Arts/.keep
@@ -27,4 +26,5 @@ collections:
       - People/People.md
       - People/Women.md
       - Print.md
+      - Sports.md
       - Wars.md
