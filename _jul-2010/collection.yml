@@ -2,6 +2,7 @@ collections:
   jul-2010:
     output: true
     order:
+      - Navigating a Sea of Resources to Find Hidden Treasures.md
       - "Childhood Memories: Growing Up in the 1950s and 60s.md"
       - Director's Column.md
       - "Journey: A story About the Past and Future.md"
