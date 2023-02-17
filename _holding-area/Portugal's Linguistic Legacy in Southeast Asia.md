@@ -48,6 +48,10 @@ Today, Papia Kristang is considered an important identity marker but with little
 
 Over time, Papia Kristang spread geographically as groups of Portuguese Eurasians moved around the region. Following the capture of Portuguese Melaka by the Dutch in 1641, some Eurasians fled to other places in the region such as Makassar. Subsequently, when the Dutch attacked Makassar in 1660, it led to an exodus of the Eurasians to Larantuka on Flores island. These migratory patterns spread Kristang to other areas outside of Melaka.
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Map.png)
+<div style="background-color: white;">There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Melaka; Batavia and Tugu creole in Java; Flores creole in the Flores and Solor islands; the Moluccas creole; Burma creole  in Myanmar and Siam creole in Thailand.
+</div>
+
 While the Dutch conquered Melaka from the Portuguese in 1641, and subsequently ruled it until 1825, they could not dethrone the Portuguese-based creole in Melaka. Many Dutch men ended up marrying Creole-speaking Eurasians and had Creole-speaking slaves of Portuguese descent.[^11] Despite being unrelated to the Portuguese, these slaves were known as Black Portuguese (*Zwarte Portugueesen*) and later Mardijkers (from Malay *merdeka*, which means “free men”, as they were “free” from taxes. The word *merdeka* is in turn derived from *marhardika*, Sanskrit for “freedom”).[^12]
 
 ![](/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png)
