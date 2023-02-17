@@ -66,6 +66,10 @@ Linguistically, the British were more successful than the Dutch as British colon
 
 Among those who remained, Kristang continued to decline in the face of other languages like Malay (in Malaysia). In Singapore, Kristang has been supplanted by English, Malay, Tamil and Chinese, although there have been efforts to keep the language and culture alive. The Portuguese-Eurasian community has been promoting pedagogical and cultural activities to revitalise the Kristang language.[^13]
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Eurasian_family.png)
+<div style="background-color: white;">Studio photograph of a Eurasian family in Singapore, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
+</div>
+
 In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in Singapore because they wanted to “to help all those interested in this fascinating language learn more about it, and thereby remember our roots”. Interestingly, in their acknowledgements, they noted that, as children, they had been “discouraged from using Kristang for fear that we would not be able to master the English language that was taught in schools”.[^14]
 
 To give a flavour of the language, the dictionary contains several poems and songs printed alongside the English translations. One poem, titled “Singapore River”, goes:
