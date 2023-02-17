@@ -40,6 +40,10 @@ There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Me
 
 The first Portuguese contacts with Melaka began in 1509 and intensified after Afonso de Albuquerque conquered Melaka two years later. The most common name of the Portuguese-based creole of Melaka, Papia Kristang (“Christian speech”), and the local Portuguese settlement, Padri Sa-chang (“land of the priest”), show the deep connection between language, religion, territory and identity.
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Portuguese_fort.png)
+<div style="background-color: white;">The surviving gateway of A Famosa, the Portuguese fort in Melaka, 2015. The fort was built by the Portuguese after they conquered the city in 1511. Today, the only parts of the fort remaining are the Porta de Santiago gateway and the restored Middelburg Bastion, which was added on by the Dutch in 1660. <i>Photo by Chongkian. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0).</i>
+</div>
+
 Today, Papia Kristang is considered an important identity marker but with little social prestige.[^8] The people remaining in the Portuguese Settlement (in Malay, Kampung Portugis) in Melaka consists of a small group of poor fishermen who are an anthropological curiosity and a tourist attraction. As Papia Kristang is the only surviving Portuguese-based creole in Southeast Asia, it has attracted interest from both Kristang scholars[^9] and other academics.[^10]
 
 Over time, Papia Kristang spread geographically as groups of Portuguese Eurasians moved around the region. Following the capture of Portuguese Melaka by the Dutch in 1641, some Eurasians fled to other places in the region such as Makassar. Subsequently, when the Dutch attacked Makassar in 1660, it led to an exodus of the Eurasians to Larantuka on Flores island. These migratory patterns spread Kristang to other areas outside of Melaka.
