@@ -138,10 +138,11 @@ As this brief survey demonstrates, while Portugal’s legacy in Southeast Asia m
 
 Like all other European colonial conquests, the Portuguese venture into Southeast Asia was often a violent and unethical one. The legacies of colonialism, imperialism, euro-centrism and the “universal” values of Enlightenment have been interrogated in postcolonial studies. However, we cannot change history; we can only learn from past mistakes and work towards a better and more ethical present and future. In a world that is becoming increasingly globalised, culturally homogeneous and, at the same time, politically polarised, it is important that we celebrate diversity and do not let the past die out.
 
+
 <div style="background-color: white;">
 <br/>
-<img src=""/>
-	<b>Dr João Oliveira</b> is a linguist and an academic in the field of cultural studies, focusing on Asian languages, narratives and religions.</div>
+<img src="/images/Vol%2019%20Issue%201/Authors/Joao_Oliveira.png" style="width: 100px; height: 100px;" />
+<b>Dr João Oliveira</b> is a linguist and an academic in the field of cultural studies, focusing on Asian languages, narratives and religions.</div>
 
 #### **NOTES**
 
