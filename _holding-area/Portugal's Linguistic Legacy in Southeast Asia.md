@@ -46,6 +46,10 @@ Over time, Papia Kristang spread geographically as groups of Portuguese Eurasian
 
 While the Dutch conquered Melaka from the Portuguese in 1641, and subsequently ruled it until 1825, they could not dethrone the Portuguese-based creole in Melaka. Many Dutch men ended up marrying Creole-speaking Eurasians and had Creole-speaking slaves of Portuguese descent.[^11] Despite being unrelated to the Portuguese, these slaves were known as Black Portuguese (*Zwarte Portugueesen*) and later Mardijkers (from Malay *merdeka*, which means “free men”, as they were “free” from taxes. The word *merdeka* is in turn derived from *marhardika*, Sanskrit for “freedom”).[^12]
 
+![](/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png)
+<div style="background-color: white;">A Mardijker couple in Batavia. Mardijkers were the descendants of freed slaves of the Portuguese in India, Africa and the Malay Peninsula. They spoke a Portuguese-based creole. <i>Courtesy of Ian Burnet.</i>
+</div>
+
 Many Mardijkers hailed from places in Southeast Asia where Portuguese-based creoles were spoken. The Dutch also recruited native Christian soldiers from the Indian coast who spoke a Portuguese-based creole, which further cemented the creole as a lingua franca. As a result, the presence of Portuguese-based creole solidified in Melaka during more than 180 years of Dutch rule.
 
 The arrival of the British into the region was the impetus for more migratory waves of Portuguese Eurasians out of Melaka. Many settled in Penang after the British colonised it in 1786. The Portuguese Eurasians were also among the first to settle in Singapore after a trading port was set up here in 1819. In the colonial race hierarchy, Eurasians occupied the social stratum below Europeans but above Asians. As a result, being Eurasian became desirable, though more for political power than for cultural reasons.
