@@ -102,6 +102,9 @@ Another creole arose after the Portuguese founded Kota Ambon in 1521 in the Spic
 
 In Maluku, the creole later shifted to Ambonese Malay, a local variety of Malay that still retains several Portuguese words. Subsequently, when the Spanish established a garrison in the Maluku Islands in the 17th century, Eurasian families migrated to the Philippines where they founded a town called Ternate in Luzon. There, the creole was relexified as a Spanish-based creole. Today, the language – known as Ternate Chabacano – is no longer recognised by the local Eurasian community as having Portuguese origins. It is only through linguistic and historical research that its Portuguese roots have been identified.[^17]
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Religious_festival.png)
+<div style="background-color: white;">Religious festivals are a part of life in the predominantly Catholic Eurasian community of Melaka’s Portuguese Settlement. Pictured here is the celebration of Festa San Pedro, or Saint Peter’s Festival. Saint Peter is the patron saint of fishermen.  <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i>
+</div>
 
 #### **Flores Creole**
 
