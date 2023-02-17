@@ -128,6 +128,10 @@ In Thailand, the creole is supposed to have emerged in Ayutthaya and, after its 
 
 The linguistic situation in Timor Leste today is complex and understudied. The territory has 31 ethno-linguistic groups and 46 “kingdoms”.[^21] Timor Leste represents an exception to the decline of Portuguese influence in Southeast Asia. Here, the Portuguese language (not a creole), as well as Catholicism, was used by educated elites to resist the annexation by Indonesia in 1974. After Timor Leste gained independence in 2002, both the Portuguese language and Catholicism were used as a means for fostering national unity among the many loose and decentralised ethnic groups and languages.
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Church.png)
+<div style="background-color: white;">The Immaculate Conception Metropolitan Cathedral in Dili is the main church of the Roman Catholic Archdiocese of Dili, Timor Leste. <i>Photo by Torbenbrinker. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0). </i>
+</div>
+
 Besides Portuguese, the other official language of East Timor is Tetum. Tetum is not usually considered to be a creole; like Malay, it is categorised as an Austronesian language. It has, however, been largely influenced by the Portuguese lexicon and grammar, although Tetum itself has great internal variation.[^22] For historical reasons, Tetum Prasa (“Tetum of the City”), the variety spoken in Díli, is heavily influenced by Portuguese, both lexically and structurally. The written version of Tetum Prasa, used in newspapers, is known as Tetunguês (a portmanteau of “Tetum” and “Portuguese”).
 
 As this brief survey demonstrates, while Portugal’s legacy in Southeast Asia most clearly manifests in language, there are also other vestiges. The development of different Eurasian groups and the situation in Timor Leste show that Portugal’s social and cultural legacy, which transcends language and involves other important identity traits, sometimes matters even more.[^23]
