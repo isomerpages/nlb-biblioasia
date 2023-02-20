@@ -64,12 +64,13 @@ The drive to capture spies in the MCP created cracks in the movement as some cam
 
 From the discussion, women do have their own “space” in war history whether as fighters, spies, wives, daughters and warvictims. In the case of the guerilla movements in Malaya/Malaysia and Singapore, while the war broke down the boundaries between men and women as they had to fight for survival and victory, womanhood was never totally suppressed from the female comrades. To be in love and to be loved that often ended in unwanted pregnancies, the sadness of being detached from motherhood as they were not allowed to raise children in the camps, and missing out on the “outside world” which led many to escape, were among the issues that had appeared within camp life in the jungle. This perspective offers a new insight with regards to women involvement in the guerilla movement in Malaya, and is different from Khoo’s *Life as the River Flows* which is more concerned with the “voices” of these women collected through interviews without in-depth analysis.
 
-**The author wishes to thank Dr Cheah Boon Kheng, Honorary Editor, *Journal of Malaysian Branch of the Royal Asiatic Society* (JMBRAS), for his constructive comments on an earlier draft of the paper**.
+**The author wishes to thank Dr Cheah Boon Kheng, Honorary Editor, *Journal of Malaysian Branch of the Royal Asiatic Society* (JMBRAS), for his constructive comments on an earlier draft of the 
+paper**.
 
-
-
-
-
-
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Mahani%20Musa.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Mahani Awang</b><br>Lee Kong Chian Research Fellow<br>National Library</center> </div>
 
 
