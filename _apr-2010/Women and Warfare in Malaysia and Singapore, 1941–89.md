@@ -22,12 +22,12 @@ This paper explores the involvement of women in warfare in Malaya and Singapore 
 
 #### **Myriad Facets of Women in War**
 
-History has shown the involvement of women in war in a myriad facets ranging from warriors, fighters and spies to women as wives, daughters, lovers and war-victims (including internees). In Southeast Asia, the Japanese Occupation during World War II saw women entering the war zone as fighters, internees and war-victims and some were involved indirectly by providing various assistance to the anti-Japanese guerillas without their entry into the war zone, such as in the case of two famous war heroines of Malaya and Singapore – Sybil Kathigasu and Elizabeth Choy.1 Across Asia more than 100,000 women became victims of enforced prostitution and were known as “comfort women”; it took more than half a century after the war had ended for the victims to come forward and reveal their painful past (Hicks, 1995).2 Following the fall of Singapore, there were 2,800 civilian (mostly Europeans) internees at Changi prison; out of this, 430 were women and the number increased to 700 the following year. This number was actually small compared with the 7,000 women and children and 35,000 men interned in prison camps in Indonesia. Leaving the memory of pampered life behind, these internees lived under very harsh condition - the women and children were separated from their loved ones (except those interned in mixed family camps). They were no strangers to hunger, diseases, lack of medical supplies and a stressful life that resulted in recurring and sometimes violent bouts of despair and melancholy, with a few having gone mad and committed suicide (Allan, 2004).
+History has shown the involvement of women in war in a myriad facets ranging from warriors, fighters and spies to women as wives, daughters, lovers and war-victims (including internees). In Southeast Asia, the Japanese Occupation during World War II saw women entering the war zone as fighters, internees and war-victims and some were involved indirectly by providing various assistance to the anti-Japanese guerillas without their entry into the war zone, such as in the case of two famous war heroines of Malaya and Singapore – Sybil Kathigasu and Elizabeth Choy.[^1] Across Asia more than 100,000 women became victims of enforced prostitution and were known as “comfort women”; it took more than half a century after the war had ended for the victims to come forward and reveal their painful past (Hicks, 1995).[^2] Following the fall of Singapore, there were 2,800 civilian (mostly Europeans) internees at Changi prison; out of this, 430 were women and the number increased to 700 the following year. This number was actually small compared with the 7,000 women and children and 35,000 men interned in prison camps in Indonesia. Leaving the memory of pampered life behind, these internees lived under very harsh condition - the women and children were separated from their loved ones (except those interned in mixed family camps). They were no strangers to hunger, diseases, lack of medical supplies and a stressful life that resulted in recurring and sometimes violent bouts of despair and melancholy, with a few having gone mad and committed suicide (Allan, 2004).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Elizabeth%20Choy.jpg">
  <div style="background-color: white;">All rights reserved, Landmark Books, 1995.</div>
 
-Despite the negative impact the war had on their lives, recent research on the “forgotten” or relatively neglected captives of war found that the lives of women and children internees in mixed family camps as “full of energy, industry, creativity, fun and freedom” (Archer, 2008). The women organised birthday parties, schools, cooking lessons, concerts, sports, dances, religious sessions as well as singing and music which helped sustain them while in captivity (Colijn, 1995). The women internees in the Changi prison even published a camp newspaper called *POW WOW* which appeared from 1 April 1942 to 15 October 1943 (Michiko, 2008). Researchers believed internment had totally changed the women’s attitude towards life -- from always depending on others to becoming more independent, strong and capable. Their life seemed much better than those of the offspring of Japanese-Indisch.3 The mothers of these children insisted on covering up the Japanese origin of their children by “deliberately silencing and hiding it” as they could not endure the shame and fear of societal rejection for engaging in a relationship with the enemy (Buccheim, 2008). As a result these mothers took their secret to the grave.
+Despite the negative impact the war had on their lives, recent research on the “forgotten” or relatively neglected captives of war found that the lives of women and children internees in mixed family camps as “full of energy, industry, creativity, fun and freedom” (Archer, 2008). The women organised birthday parties, schools, cooking lessons, concerts, sports, dances, religious sessions as well as singing and music which helped sustain them while in captivity (Colijn, 1995). The women internees in the Changi prison even published a camp newspaper called *POW WOW* which appeared from 1 April 1942 to 15 October 1943 (Michiko, 2008). Researchers believed internment had totally changed the women’s attitude towards life -- from always depending on others to becoming more independent, strong and capable. Their life seemed much better than those of the offspring of Japanese-Indisch.[^3] The mothers of these children insisted on covering up the Japanese origin of their children by “deliberately silencing and hiding it” as they could not endure the shame and fear of societal rejection for engaging in a relationship with the enemy (Buccheim, 2008). As a result these mothers took their secret to the grave.
 
 Overall, Malayan women, irrespective of their background, race or religion, suffered and endured dire hardship during the Japanese Occupation in 1942–45. Rapes had taken place before the eyes of their own family. Many survived the ordeal by disguising themselves as men and smearing their faces with mud and charcoal to make themselves unattractive to the Japanese soldiers (Sybil, 1983).
 
@@ -39,15 +39,15 @@ However, besides being war-victims, women did not distance themselves from the r
 
 Unknown to Khoo, many women had joined or followed their husbands, friends, relatives or lovers to join the guerillas without themselves having any understanding of the communist objectives/ ideologies, but who nevertheless were impressed with the MCP leaders who always harped on British bias and discrimination against the poor and women. Some of them, especially those who had joined after the MCP relocated to the Malaysia-Thai border in 1953 (referred here as the second generation), did so due to poverty; they believed life would be much better if they joined the guerillas because everything was provided for. After the relocation, which was made due to security reasons, access to food sources, which was the major problem for the MCP guerillas during the Emergency, had improved considerably because there was support from the local villagers (Ibrahim Chik, 2004). Undoubtedly, some were coerced to do so (Xiulan, 1983). There were cases in which women were kidnapped and taken to the jungle, such as the case of the 84-year-old Rosimah Alang bin Mat Yen from Kampong Gajah, Perak. Rosimah had spent 52 years of her life living with the communists after she was kidnapped while working on the padi field in Changkat Jering in Manjong district, Perak, at the age of 17 (*Utusan Melayu*, 30 May 2009)
 
-The understanding of communist ideology and military struggle was more discernible among the first batch of women guerillas (those who had joined before the MCP withdrawal to south Thailand) who were born during the British colonial period and had witnessed the colonial domination in Malaya. The earliest involvement of Malayan women in the anti-colonial movement had taken place in the 1930s. The Japanese invasion of China in 1937 led the MCP to mobilise the Chinese regardless of gender into the anti-Japanese movement which became more organised during 1941-45. The women specially targeted were those with education; they were then subjected to the occasional communist propaganda (Suriani, 2006). Initially the Chinese women became underground members of the MCP or the Malayan People’s Anti-Japanese Army (MPAJA), acting as couriers, assisting the communists in their propaganda work, purchasing food for its armed forces and carrying out subversive activities. Chapman, during three-and-a-half years of living with the guerillas in the Malayan jungle as liason officer with the MCP, dubbed the MPAJA girls as great fighters who were committed to fighting the Japanese and were never afraid to hold guns. He related one case: when the Japanese ambushed MCP leaders during a meeting near Kuala Lumpur; a girl emerged as an unlikely heroine firing at the Japanese with her tommygun to enable the men to escape until she was shot (Chapman, 1963). By the end of the Japanese Occupation, MCP propaganda had succeeded in bringing about the involvement of women into their armed forces and to continue the struggle against British colonial rule. Through educated Chinese women comrades, the MPAJA and MCP struggles were extended to the Malay villages where the anti-Japanese feeling was strong (Abdullah C.D, 2005).
+The understanding of communist ideology and military struggle was more discernible among the first batch of women guerillas (those who had joined before the MCP withdrawal to south Thailand) who were born during the British colonial period and had witnessed the colonial domination in Malaya. The earliest involvement of Malayan women in the anti-colonial movement had taken place in the 1930s. The Japanese invasion of China in 1937 led the MCP to mobilise the Chinese regardless of gender into the anti-Japanese movement which became more organised during 1941–45. The women specially targeted were those with education; they were then subjected to the occasional communist propaganda (Suriani, 2006). Initially the Chinese women became underground members of the MCP or the Malayan People’s Anti-Japanese Army (MPAJA), acting as couriers, assisting the communists in their propaganda work, purchasing food for its armed forces and carrying out subversive activities. Chapman, during three-and-a-half years of living with the guerillas in the Malayan jungle as liason officer with the MCP, dubbed the MPAJA girls as great fighters who were committed to fighting the Japanese and were never afraid to hold guns. He related one case: when the Japanese ambushed MCP leaders during a meeting near Kuala Lumpur; a girl emerged as an unlikely heroine firing at the Japanese with her tommygun to enable the men to escape until she was shot (Chapman, 1963). By the end of the Japanese Occupation, MCP propaganda had succeeded in bringing about the involvement of women into their armed forces and to continue the struggle against British colonial rule. Through educated Chinese women comrades, the MPAJA and MCP struggles were extended to the Malay villages where the anti-Japanese feeling was strong (Abdullah C.D, 2005).
 
 Compared with the Chinese community – which put kinship relations and friendship network above everything – that provided family members or close friends who had joined the guerilla movement with all kinds of support (Stubbs, 2004), the majority of Malays viewed Malay involvement in the radical movement as against Islam and many stayed away. Families which had members openly involved in such activities were often looked at with deep suspicion. In the end, many did join secretively the guerilla movement. Many Malay women who joined the guerilla movement were former members of the Angkatan Wanita Sedar (AWAS), the women wing of the Malay Nationalist Party (MNP). These women had their own philosophy and were pursuing aggressively the liberation of women from feudal oppression and negative social practices (Ahmad Boestamam, 2004). When the British banned all radical and leftist movements like MNP, Pembela Tanahair (PETA), Angkatan Pemuda Insaf (API) and AWAS in 1948, most of the radical Malays joined the MCP guerillas, including Shamsiah Fakeh and Zainab Mahmud, the leader and secretary of AWAS, respectively. This benefited the MCP enormously as these women were then widely accepted as “heroine” (srikandi) with their fluent and confident articulation, educational (religious) background, strong fighting spirit and unfazed by guns (Shamsiah, 2004).
 
 #### **Women Comrades at Work**
 
-History has shown that each guerilla war has its own specific characteristics. However, a comparison among different guerilla wars shows that these wars do share some common traits. Like the Communist Party of the Philippines (CPP), female MCP cadres generally occupied a lower position in most of the military actions orchestrated by the party. Combat operations were normally handled by men and this became an impediment for women to climb to higher positions in the party hierarchy as combat experience was often taken into consideration for promotion (Hilsdon, 1995). The belief among female comrades that only those who were brave and intelligent could climb the ladder of success within the organisation was quite prevalent. This statement is quite true if we look at the “success” story of well known MCP women leaders like Shamsiah Fakeh and Suriani Abdullah or Eng Ming Ching before her marriage to Abdullah C. D., the commander of the Malay Regiment in the MCP – the 10th Regiment – in 1955. Starting as an MCP member in Ipoh in 1940, the urban-educated Suriani, who had fought for the liberation of Malaya (from the British) and also for the liberation of women, began the rapid climb in the MCP when she was entrusted to lead a propaganda team in Ipoh, and later in Singapore, and was directly responsible for the relocation of the 10th Regiment from Pahang to the Malaya-Thai border in 1953-54. The highest position Suriani had held was that of central committee member of the MCP (Suriani, 2006). Her charismatic way in handling the tasks and settling the problems given to her and her wide experience in wartime had led her to hold many important appointments within the MCP (Rashid Maidin, 2005). In other words, her marriage to the regimental commander was a mere coincidence. For Shamsiah, although it was not clear what her rank was within the MCP, her leadership was groomed by leaders of the 10th Regiment who were also former colleagues from the MNP, with the aim to attract more Malay women to join the movement (*Dewan Masyarakat*, August 1991).
+History has shown that each guerilla war has its own specific characteristics. However, a comparison among different guerilla wars shows that these wars do share some common traits. Like the Communist Party of the Philippines (CPP), female MCP cadres generally occupied a lower position in most of the military actions orchestrated by the party. Combat operations were normally handled by men and this became an impediment for women to climb to higher positions in the party hierarchy as combat experience was often taken into consideration for promotion (Hilsdon, 1995). The belief among female comrades that only those who were brave and intelligent could climb the ladder of success within the organisation was quite prevalent. This statement is quite true if we look at the “success” story of well known MCP women leaders like Shamsiah Fakeh and Suriani Abdullah or Eng Ming Ching before her marriage to Abdullah C. D., the commander of the Malay Regiment in the MCP – the 10th Regiment – in 1955. Starting as an MCP member in Ipoh in 1940, the urban-educated Suriani, who had fought for the liberation of Malaya (from the British) and also for the liberation of women, began the rapid climb in the MCP when she was entrusted to lead a propaganda team in Ipoh, and later in Singapore, and was directly responsible for the relocation of the 10th Regiment from Pahang to the Malaya-Thai border in 1953–54. The highest position Suriani had held was that of central committee member of the MCP (Suriani, 2006). Her charismatic way in handling the tasks and settling the problems given to her and her wide experience in wartime had led her to hold many important appointments within the MCP (Rashid Maidin, 2005). In other words, her marriage to the regimental commander was a mere coincidence. For Shamsiah, although it was not clear what her rank was within the MCP, her leadership was groomed by leaders of the 10th Regiment who were also former colleagues from the MNP, with the aim to attract more Malay women to join the movement (*Dewan Masyarakat*, August 1991).
 
-Before the MCP relocated to south Thailand, women comrades, although their exact number was not known, formed an important part of the fighting strength of the MCP, with a few heading platoons and fighting units. Interestingly, Abdullah C.D. (2007) viewed those women who had perished in the anti-colonial struggle as “*Srikandi bangsa*” (flowers of the nation), a label that was never accorded at the time by any other Malayan political movement to their women wing. They were also involved in the “long march” towards the Malaya-Thai border in 1953 which many MCP members dubbed the highest struggle when they had to march from one place to another through thick jungle and mountainous terrain, often at the risk of ambush by colonial forces, handicapped by shortage of arms, ammunition and food, and without the support of the Orang Asli and Chinese squatters who were moved to “New Villages” following the implementation of the “Briggs Plan” in 1950.5 The journey itself took a year and six months to complete (A*pa khabar Orang Kampong / Village People Radio Show*, 2007). For female comrades, they suffered more especially those who were pregnant, such as the case of Zainab Mahmud (Musa Ahmad’s wife)6 who was at an early stage of pregnancy when the long march began (Aloysius, 1995). During this testing period, all hygienic needs during birth or menstruation were secondary with jungle plants used widely to stop or delay this biological process while some women stopped menstruating due to the hardship. These plants were also used to facilitate abortion or to prevent hunger.7
+Before the MCP relocated to south Thailand, women comrades, although their exact number was not known, formed an important part of the fighting strength of the MCP, with a few heading platoons and fighting units. Interestingly, Abdullah C.D. (2007) viewed those women who had perished in the anti-colonial struggle as “*Srikandi bangsa*” (flowers of the nation), a label that was never accorded at the time by any other Malayan political movement to their women wing. They were also involved in the “long march” towards the Malaya-Thai border in 1953 which many MCP members dubbed the highest struggle when they had to march from one place to another through thick jungle and mountainous terrain, often at the risk of ambush by colonial forces, handicapped by shortage of arms, ammunition and food, and without the support of the Orang Asli and Chinese squatters who were moved to “New Villages” following the implementation of the “Briggs Plan” in 1950.[^5] The journey itself took a year and six months to complete (A*pa khabar Orang Kampong / Village People Radio Show*, 2007). For female comrades, they suffered more especially those who were pregnant, such as the case of Zainab Mahmud (Musa Ahmad’s wife)[^6] who was at an early stage of pregnancy when the long march began (Aloysius, 1995). During this testing period, all hygienic needs during birth or menstruation were secondary with jungle plants used widely to stop or delay this biological process while some women stopped menstruating due to the hardship. These plants were also used to facilitate abortion or to prevent hunger.[^7]
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Apa%20Khabar%20Orang%20Kampung1.jpg">
  <div style="background-color: white;">All rights reserved, Objectifs Films, 2007.</div>
@@ -90,3 +90,135 @@ paper**.
 <br/>
 <img src="/images/Authors/Mahani%20Musa.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Mahani Awang</b><br>Lee Kong Chian Research Fellow<br>National Library</center> </div>
+
+
+#### **REFERENCES**
+
+**Primary Sources**
+
+Political Situation Reports From Singapore (Secret). CO 1022/206
+
+Political Situation Reports From Singapore (Secret). CO 1022/207
+
+Monthly Emergency and Political Reports on the Federation of Malaya and Singapore Prepared by S.E.A Department (Secret). CO 1022/208
+
+Anti-Yellow Campaign (Confidential). PRO 27 330/56
+
+**Books and Articles**
+
+Abdullah C. D. (2005). [_Memoir Abdullah C. D.: Zaman pergerakan sehingga 1948_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12730006). (Vol. 1). Petaling Jaya: Strategic Information Research Development. Call no.: R 959.503 ABD
+
+Abdullah C. D. (2007). _Memoir Abdullah C. D: Penaja dan pemimpin rejimen ke-10_ (Part 2). Petaling Jaya: SIRD.
+
+Ahmad Boestamam. (2004). [_Memoir Ahmad Boestamam: Merdeka dengan darah dalam API_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12285217). Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: RSEA 959.50923 AHM
+
+Allan, S. (2004). [_Diary of a girl in Changi, 1941–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12588700). (3rd ed.). New South Wales: Kangaroo Press. Call no.: RSING 940.547252092 ALL
+
+Archer, B. (2008). Internee voices: Women and children’s experience of being Japanese captives. In K. Blackburn and K. Hack (Eds.), [_Forgotten captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996) (pp. 224–242). London: Routledge. Call no.: RSING 940.547252095 FOR
+
+Beckett, I. F. W. (1999). _Encyclopedia of guerrilla warfare_. Santa Barbara: ABC-CLIO, Inc.
+
+Bei Ma Ju Po Huo Di Jian Zheng Xiang \[The truth behind the detention of spies by the Northern Peninsular Department\] (1999). Thailand: The Committee of Kao Nam Khang Historical Tunnel, Sadao.
+
+Buchheim, E. (2008). Hide and seek: Children of Japanese-Indisch parents. In K. Blackburn and K. Hack (Eds.), [_Forgotten captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996) (pp. 260–277). London: Routledge. Call no.: RSING 940. 547252095 FOR
+
+Carey, A. T. (1976). [_Orang asli: The aboriginal tribes of Peninsular Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806). Kuala Lumpur: Oxford University Press. Call no.: RCLOS 301.209595 CAR
+
+Chapman, S. F. (1963). [_The jungle is neutral_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842548). London: Chatto & Windus. Call no.: RCLOS 940.53595 CHA
+
+Cheah, B. K. (1987). [_Red star over Malaya: Resistance and social conflict during and after the Japanese Occupation, 1941–1946_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082363). Singapore: Singapore University Press. Call no.: RSING 959.5103 CHE
+
+Chin, A. (1995). [_The Communist Party of Malaya: The inside story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7221955). Kuala Lumpur: Vinpress. Call no.: RSING 959.51 CHI
+
+Chin, C. C. & Hack, K. (Eds.) (2004). [_Dialogue with Chin Peng: New light on the Malayan Communist Party_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12283021). Singapore: Singapore University Press. Call no.: RSING 959.5104 DIA
+
+Chin, P. (2003). [_My side of history as told to Ian Ward & Norma Miraflor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841). Singapore: Media Masters. Call no.: RSING 959.5104092 CHI
+
+Colijn, H. (1995). [_Song of survival: Women interned_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7595014). Ashland: White Cloud Press. Call no.: RSING 940.547252 COL
+
+Harper, T. N. (1999). [_The end of empire and the making of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8664450). Cambridge: Cambridge University Press. Call no.: RSING 959.5105 HAR
+
+Hicks, G. (1995). [_The comfort women: Sex slaves of the Japanese imperial forces_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7667608). Singapore: Heinemann Asia. Call no.: RSING 364.138 HIC
+
+Hilsdon, A. M. (1995). [_Madonnas and martyrs: Militarism and violence in the Philippines_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919256). Australia: Allen & Unwin. Call no.: RSEA 305.409599 HIL
+
+Huie, S. P. (1992). [_The forgotten ones: Women and children under Nippon_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6335236). Pymble, N.S.W.: Angus & Robertson Publishers. Call no.: RSEA 940.547252 HUI
+
+Ibrahim Chik. (2004). _[Memoir Ibrahim Chik: Dari API ke rejimen ke-10](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437462)_. Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: RSEA 355.0092 IBR
+
+Jan, R. O. (1994). _[50 years of silence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471243)_. Sydney: Editions Tom Thompson. Call no.: R 364.153 RUF
+
+Kathigasu, S. (1983). _[No dram of mercy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831)_. Singapore: Oxford University Press. Call no.: RSEA 940.547252 KAT
+
+Khoo, A. (2004). _[Life as the river flows: Women in the Malayan anticolonial struggle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12360845)_. Petaling Jaya: SIRD. Call no.: RSING 959.5105 LIF
+
+Macdonald, S. (1987). Drawing the lines – Gender, peace and war: An introduction. In S. Macdonald, P. Holden and S. Ardener (Eds.), _Images of women in peace and war: Crosscultural and historical perspectives_. London: Macmillan Education.
+
+Michiko, N. (2008). The civilian women’s internment camp in Singapore: The world of POW WOW.  In _[Akashi Yoji and Yoshimura (Eds.), New perspectives on the Japanese occupation in Malaya and Singapore, 1941–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736)_. Singapore: NUS Press, 2008. Call no.: RSING 940.5337 NEW
+
+Pierson, R. R. (1987). Did your mother wear army boots?: Feminist theory and women’s relation to war, peace and revolution. In S. Macdonald, P. Holden and S. Ardener (Eds.). _Images of women in peace and war: Crosscultural and historical perspectives_ (pp. 205–27). London: Macmillan Education.
+
+Rashid Maidin. (2005). _[Memoir Rashid Maidin: Daripada perjuangan bersenjata kepada perdamaian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12744481)_. Petaling Jaya: Strategic Information Research Development. Call no.: R 323.04209595 RAS
+
+Shamsiah Fakeh. (2004). _[Memoir Shamsiah Fakeh: Dari AWAS ke rejimen ke-10](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437467)_. Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: RSEA 923.2595 SHA
+
+Short, A. (1975). _[The communist insurrection in Malaya 1948–60](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4167242)_. London: Frederick Muller. Call no.: RSING 959.5104 SHO
+
+Stubbs, R. (2004). _[Heart and minds in Guerilla warfare: the Malayan emergency, 1948–1960](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284306)_. Singapore: Eastern Universities Press. Call no.: RSING 959.504 STU
+
+Suriani Abdullah. (2006). _[Memoir Suriani Abdullah: Setengah abad dalam perjuangan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12886676)_. Petaling Jaya: Strategic Information Research Development (SIRD). Call no.: R 322.4209595 SUR
+
+Swee, L. (2008). _[Tears of a teenage comfort women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_. Singapore: Horizon Books. Call no.: RSING 940.5405092 SWE
+
+Tan, A. (Summer 2008). The forgotten women warriors of the Malayan Communist Party. _IIAS Newsletter_, No. 48, https://www.iias.asia/sites/iias/files/nwl\_article/2019-05/IIAS\_NL48\_1213.pdf
+
+Tanaka, Y. (1999). Introduction. In M.R. Henson, _[Comfort women: A Filipina’s story of prostitution and slavery under the Japanese Military](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354)_. Lanham: Rowman & Littlefield Publishers. Call no.: RSEA 940.5405092 HEN
+
+Turner-Gottschang, K. & Phan, T. H. (1998). _[Even the women must fight: Memories of war from North Vietnam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8695311)_. New York: John Wiley & Sons. Call no.: RSEA 959.70430922 TUR
+
+Xiulan. (1983). _[I want to live: A personal account of one woman’s futile armed struggle for the Reds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3412854)_. Petaling Jaya: Star Publications. Call no.: RU RCLOS 322.4209595 XIU
+
+Yoji, A. & Mako, Y. (Eds.) (2008). _[New perspectives on the Japanese occupation in Malaya and Singapore, 1941–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736)_. Singapore: National University Press. Call no.: RSING 940.5337 NEW
+
+Zhou, M (1995). _[Elizabeth Choy: More than a war heroine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_. Singapore: Landmark Books. Call no.: RSING 371.10092 ZHO
+
+**Newspapers & Magazines**
+
+_[Dewan Masyarakat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4149192)_, 1991, February–August. Call no.: RCLOS q059.9923 DM
+
+_Straits Echo and Times of Malaya_, 1949–1951
+
+_Utusan Malaysia_ (2009, May 30).
+
+**Videorecording/CD-ROM**
+
+Amir Muhammad. (Writer & Director) (2007). _[Apa khabar orang kampong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13201368)_ \[Village people radio show\] \[videorecording\]. Singapore: Objectifs Films. Call no.: RAV 791.437 APA
+
+Amir Muhammd. (Producer & Director) (2006). _[The last commununist](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804580)_ \[videorecording\]. Singapore: Comstar Entertainment. Call no.: RSEA 959.5104092
+
+Chan, K. M., Len, C., Ho, C.H., Lau, E., Wang, E. E. (Directors) (2006). _[I love Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909117)_ \[videorecording\]. Singapore: Objectifs Films. Call no.: RSING 320.53209225951
+
+**Interviews**
+
+Aishah @ Suti, personal communication, January 7, 1998.
+
+A’Ling @ A’Yu, personal communication, March 11, 2009.
+
+A’Por @ Wun Jun Yin, personal communication, March 11, 2009.
+
+Chang Li Li, personal communication, January 1, 2009.
+
+Khadijah Daud @ Mama, personal communication, February 25, 2009.
+
+Leong Yee Seng @ Hamitt, personal communication, March 14, 2009.
+
+Maimunah @ Khamsiah, personal communication, February 25, 2009.
+
+Muna or Mek Pik, personal communication, March 14, 2009.
+
+Shiu Yin, personal communication, March 14, 2009.
+
+Ya Mai, personal communication, January 1, 2009.
+
+
+
