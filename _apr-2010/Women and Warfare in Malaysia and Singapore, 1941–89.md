@@ -73,6 +73,9 @@ The accusation of killing her son (in the case of Shamsiah Fakeh) is probably th
 
 Spies (including women spies) who had infiltrated the MCP had caused considerable chaos among party members at the end of the 1960s. In its effort to eliminate sabotage the MCP conducted a rectification campaign to identify and capture spies. Orchestrating these efforts were a few leading figures of the North Malaya Bureau, including a female leader by the name of Ah Yen who admitted to using torture to get the truth from those arrested. This campaign saw many women caught and punished on suspicion of being spies (*Bei Ma Ju Po Huo Di Jian Zheng Xiang*, 1999). In 1968, the rectification campaign in the 12th Regiment saw 35 members massacred, 200 others “exposed and criticised” and another 70 sacked from the party. The same drive was targeted at the 8th regiment.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Stairs%20in%20Khao%20Nam%20Khang%20Tunnel.jpg">
+ <div style="background-color: white;">The stairs inside the Khao Nam Khang tunnel which was used as an escape route. <i>Courtesy of Mahani Awang.</i></div>
+
 The drive to capture spies in the MCP created cracks in the movement as some camp leaders claimed many combatants had become victims of unproven accusations. The rectification campaign, which affected every new recruit and later the veterans, brought about a major split in the MCP into factions, including the MCP central faction, 12th Regiment breakaway faction, the MCP (Marxist-Leninist) faction which was formed in August 1974 and the MCP revolutionary faction (formerly the 8th Regiment).
 
 #### **Conclusion**
