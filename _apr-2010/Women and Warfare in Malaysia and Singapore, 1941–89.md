@@ -8,9 +8,15 @@ description: "Lee Kong Chian Research Fellow Mahani Awang explores the
 ---
 #### Lee Kong Chian Research Fellow _Mahani Awang_ explores the involvement of women in warfare in Malaya and Singapore from 1941 until the 1989 Hat Yai Peace Accord. She also considers how women differ from men in various activities connected to war.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Members%20of%20the%208th%20Regiment.jpg">
+ <div style="background-color: white;">Members of the 8th Regiment. <i>Courtesy of Mahani Awang.</i></div>
+
 #### **Introduction**
 
-Much has been written about warfare – conquest and revolution, heroes and enemies. Yet women’s experience in warfare remains an uncharted area in Southeast Asian history. The paucity of records was partly rooted in patriarchal bias and ignorance on the part of historians when constructing new “autonomous” national histories after independence which sidelined those (including women) who did not fit into the new emerging national narratives, and was often cited as the main reason for this unfavourable situation. This led to misconceptions about women’s involvement in war. In the case of the Vietnam war, women soldiers remained invisible to most Americans and to the public gaze despite their contributions to the war and despite being an important facet of the most photographed war in history. With regards Malaya (including Singapore before their separation in 1965), the groundbreaking study on former Malayan Communist Party (MCP) women guerillas by Agnes Khoo (2004) in Life as the River Flows remains unchallenged, although there were efforts to compile stories on the life of former guerillas through video documentary.
+Much has been written about warfare – conquest and revolution, heroes and enemies. Yet women’s experience in warfare remains an uncharted area in Southeast Asian history. The paucity of records was partly rooted in patriarchal bias and ignorance on the part of historians when constructing new “autonomous” national histories after independence which sidelined those (including women) who did not fit into the new emerging national narratives, and was often cited as the main reason for this unfavourable situation. This led to misconceptions about women’s involvement in war. In the case of the Vietnam war, women soldiers remained invisible to most Americans and to the public gaze despite their contributions to the war and despite being an important facet of the most photographed war in history. With regards Malaya (including Singapore before their separation in 1965), the groundbreaking study on former Malayan Communist Party (MCP) women guerillas by Agnes Khoo (2004) in *Life as the River Flows* remains unchallenged, although there were efforts to compile stories on the life of former guerillas through video documentary.
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Life%20as%20the%20river%20flows1.jpg">
+ <div style="background-color: white;">All rights reserved, Strategic Information Research Development, 2004.</div>
 
 This paper explores the involvement of women in warfare in Malaya and Singapore (also in south Thailand after the relocation of the MCP to the Malaya-Thai border in 1953) since 1941 until the 1989 Hat Yai Peace Accord. Using both historical method and gender as analytical tools, the study attempts to see how women differ from men in various activities connected to war.
 
@@ -72,5 +78,3 @@ paper**.
 <br/>
 <img src="/images/Authors/Mahani%20Musa.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Mahani Awang</b><br>Lee Kong Chian Research Fellow<br>National Library</center> </div>
-
-
