@@ -51,7 +51,16 @@ Green is now mainstream. A National Geographic survey, Greendex8 shows that cons
 
 However, media experts9 warn that marketing strategies dubbed “greenwashing” could be leading the eco-conscious astray as more companies are making false or misleading green marketing claim.
 
-With pressing interest in green economy, organisations are adapting to new environmental policy and regulations. Others are developing strategies for sustainable business or “green” their operation. Policy makers and business stakeholders wondering how policy decisions come about can be better informed from books such as Environmental policy analysis and practice (Greenberg, 2007). The author explains clearly how all policy considerations are broken down and tools that are widely used in policy analysis.
+With pressing interest in green economy, organisations are adapting to new environmental policy and regulations. Others are developing strategies for sustainable business or “green” their operation. Policy makers and business stakeholders wondering how policy decisions come about can be better informed from books such as *Environmental policy analysis and practice* (Greenberg, 2007). The author explains clearly how all policy considerations are broken down and tools that are widely used in policy analysis.
+
+The Singapore government has been a key driver for environmental change since independence. After 40 years of dedicated green and clean programmes, the country has won numerous international accolades. Readers interested to trace the remarkable transformation of Singapore can refer to books about Singapore’s experience with environmental management and pollution control.
+
+Energy-efficient buildings are universally recognised to reduce greenhouse gas emission. A Singapore Green Building Council (SGBC) was set up to drive the green-buildings movement in Singapore.10 The Building and Construction Authority (BCA) has announced ambitious efforts to have 80% of Singapore‘s buildings attain minimum green-certified standards by 2030. The “green collar” sector is expected to grow by leaps and bounds. There will be strong demand for manpower in the development, design, construction, operation and maintenance of green buildings.
+
+Environmental planners, consultants and plant operators looking for references on energy efficient buildings, green architecture and ecocity will find many new titles on the topics, for example, *The green building bottom line: The real cost of sustainable building* (Melaver & Mueller, 2009), *Ecomasterplanning* (Yeang, 2009) and *Green architecture now!* (Jodidio, 2009).
+
+Green vehicles will soon hit the roads in Singapore. A multiagency taskforce led by the Energy Market Authority (EMA) and Land Transport Authority (LTA) has embarked on national electric vehicles (EVs) test-bedding programme.11 It will allow testing of different EV prototypes and charging technologies and research into vehicle-to-grid (V2G) power. Anyone interested to know the technology and issues behind EV can refer to books such as *Future cars: Bio fuel, hybrid, electric, hydrogen, fuel economy in all sizes and shapes* (Bethscheider-Kieser, 2008) and *Plug-in electric vehicles: What role for Washington?* (Sandalow, 2009).
+
 
 
 
