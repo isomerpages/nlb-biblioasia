@@ -72,6 +72,9 @@ Numbering 14,853 in 1881, Cantonese were the third largest dialect group after H
 
 Cantonese were involved in a wide variety of occupations. Seah Eu Chin (1848) observed in 1848 that Cantonese and Hakkas were predominantly artisans. Similarly, William Pickering, who later became the First Protector of Chinese in Singapore, wrote in 1876 that most Cantonese and Hakkas in the Straits Settlements were miners and artisans. The Cantonese in Singapore were known to work as bricklayers, carpenters, cabinet-makers, woodcutters and goldsmiths. Cantonese women from San Sui (Three Rivers), in particular, were noted for their contribution to Singapore’s construction industry in the 1950s and 1960s (Tan, 1990). The Cantonese also opened a number of restaurants and herbal medical stores in Singapore during the late 19th century (Mak, 1995).
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/TCM%20shop.jpg">
+ <div style="background-color: white;">Traditional Chinese medicine shop. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 53. All rights reserved, Opinion Books, 1990.</div>
+
 Vice was another trade that was reportedly linked to Cantonese (Mak, 1995). The Superintendent of Census remarked that most prostitutes were of Cantonese origin, and newspapers of that period reported that there were a few thousand prostitutes in the Kreta Ayer region, an area that was predominantly occupied by Cantonese. Although there were also Hokkien and Teochew brothels, their numbers decreased due to pressure from Hokkien leaders to close down Hokkien brothels in a bid to undo the shame brought to their dialect group, as well as a ban on the emigration of Teochew women from Chaozhou in the 1880s.
 
 The trades engaged by Cantonese were mainly craft-based and were small in scale. Such trades, when compared to the import and export businesses dominated by Hokkiens, generated much less income and 
