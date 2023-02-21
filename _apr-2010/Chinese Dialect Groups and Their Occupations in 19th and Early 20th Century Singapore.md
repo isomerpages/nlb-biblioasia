@@ -44,6 +44,9 @@ Hokkiens’ strong economic position allowed them to accumulate capital, which i
 
 Another well-documented trade specialisation among Hokkiens (specifically those who came from Anxi of Quanzhou prefecture) was the *chap he tiam* business, otherwise known as the “mixed goods” store or retail provision store business (Chou & Lim, 1990). Well-known Hokkien personalities like Tan Kah Kee and Lee Kong Chian were also involved in the pineapple-canning business (Tan, 1999). All in all, Hokkiens dominated the more lucrative trades and had a lion’s share in the following fields: banking, finance, insurance, shipping, manufacturing, import and export trade in Straits produce, ship-handling, textiles, realty and even building and construction (Cheng, 1985).
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Chap%20he%20tiam.jpg">
+ <div style="background-color: white;">A <i>chap he tiam</i> in China Street stocked with dried goods and Chinese produce. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 24. All rights reserved, Opinion Books, 1990.</div>
+
 Hokkiens were and continue to be the largest Chinese dialect group in Singapore, accounting for more than 40% of the overall Chinese population (Leow, 2001).
 
 ***Teochews***
@@ -58,6 +61,10 @@ As gambier and pepper produce was transported to town via waterways, Teochews te
 Unfortunately, gambier cultivation declined in Singapore from 1850 as a result of soil exhaustion. This led many Teochews to move their base to Johore (Makepeace, et al, 1921). In addition, as chemicals increasingly replaced gambier as a dye, Teochews’ economic strength dwindled further.
 
 Another group of Teochews was recorded to have settled in Punggol and Kangkar, along the northern coastal fringes of the island (Chou, 1990). Living close to the sea, they became experienced fishermen, boatmen, fishmongers and fish wholesalers. Their livelihood as fishermen was badly affected, however, when the Singapore government decided to phase out *kelongs* (the largest form of fish trap) in favour of fish farms in 1981.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Kelong.jpg">
+ <div style="background-color: white;">A kelong. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 39. All rights reserved, Opinion Books, 1990.</div>
+
 
 ***Cantonese***
 
