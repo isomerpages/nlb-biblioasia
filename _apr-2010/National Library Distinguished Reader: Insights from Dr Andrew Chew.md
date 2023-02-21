@@ -70,6 +70,10 @@ AC: When we talk about civil servants, don’t forget there is a total range: fr
 This country is not run by just people at the top. Many are contributing at the lower levels. Let’s not allow them to feel they are losing out on the quality of life.
 
 
-
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Joseph%20Dawes.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Joseph Dawes</b><br>Research Associate I<br>Publishing and Research Services<br>National Library</center> </div>
 
 
