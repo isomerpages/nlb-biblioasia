@@ -59,7 +59,6 @@ To support the information needs of this rapidly emerging field, the library has
 <img style="width:80%;" src="/images/Vol%206%20Issue%201/GreenMatters/Presentation1.jpg">
  <div style="background-color: white;">(Left) All rights reserved. John Wiley & Sons, 2009. <br>  (Right) All rights reserved, Collins Business, 2008.</div>
 
-
 The push for environmental and water technologies (EWT) industry has also thrown up new and exciting challenges for those in the engineering fields. Job seekers and practicing engineers looking to strengthen their career prospects can refer to titles like *Alternative energy systems and application* (Hodge, 2010) and *Energy systems engineering: Evaluation and implementation* (Vanek & Albright, 2008), *The Yaws handbook of properties for environmental and green engineering* (Yaws, 2008) and *Handbook of environmental engineering calculations* (Lee & Lin, 2007).
 
 Online databases,[^7] such as IEEE/IET electronic library, SpringerLink, Nature.com and Proquest Science offer, premium content from international journals and reports. Library users can access these resources at the library or at home. Some of the periodicals available are *Energy Design Update*, *Energy Compass*, *Energy Engineering*, *Energy Intelligence*, *The Energy Journal*, *The Journal of Energy Markets*, *Water & Wastewater International, Water Environment Research and Journal of Water Resource and Protection*.
@@ -76,6 +75,9 @@ The Singapore government has been a key driver for environmental change since in
 Energy-efficient buildings are universally recognised to reduce greenhouse gas emission. A Singapore Green Building Council (SGBC) was set up to drive the green-buildings movement in Singapore.[^10] The Building and Construction Authority (BCA) has announced ambitious efforts to have 80% of Singapore‘s buildings attain minimum green-certified standards by 2030. The “green collar” sector is expected to grow by leaps and bounds. There will be strong demand for manpower in the development, design, construction, operation and maintenance of green buildings.
 
 Environmental planners, consultants and plant operators looking for references on energy efficient buildings, green architecture and ecocity will find many new titles on the topics, for example, *The green building bottom line: The real cost of sustainable building* (Melaver & Mueller, 2009), *Ecomasterplanning* (Yeang, 2009) and *Green architecture now!* (Jodidio, 2009).
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Green%20Building%20Bottomline.jpg">
+<div style="background-color: white;">All rights reserved, John Wiley & Sons, c2010.</div>
 
 Green vehicles will soon hit the roads in Singapore. A multi-agency taskforce led by the Energy Market Authority (EMA) and Land Transport Authority (LTA) has embarked on national electric vehicles (EVs) test-bedding programme.[^11] It will allow testing of different EV prototypes and charging technologies and research into vehicle-to-grid (V2G) power. Anyone interested to know the technology and issues behind EV can refer to books such as *Future cars: Bio fuel, hybrid, electric, hydrogen, fuel economy in all sizes and shapes* (Bethscheider-Kieser, 2008) and *Plug-in electric vehicles: What role for Washington?* (Sandalow, 2009).
 
