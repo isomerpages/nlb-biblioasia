@@ -71,3 +71,86 @@ It is currently believed that science and technology can provide effective solut
 <br/>
 <img src="/images/Authors/Sara%20Pek.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Sara Pek</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library </center></div>
+
+#### **REFERENCES**
+
+ 
+Bethscheider-Kieser, U. (2008). _[Future cars: Bio fuel, hybrid, electric, hydrogen, fuel economy in all sizes and shapes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13149411)_. Ludwigsburg: Avedition. Call no.: R 629.229 BET
+
+Carson, R. (1994). _Silent spring_. Boston: Houghton Mifflin.
+
+Friedman, T. L. (2008). _[Hot, flat, and crowded: Why we need a green revolution – and how it can renew America](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13092394)_. New York: Farrar, Straus and Giroux. Call no.: R 363.705250973 FRI
+
+Friend, G., Kordesch, N. & Privitt, B. (2009). _[The truth about green business](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13182253)_. Upper Saddle River, N.J.: FT Press. Call no.: RBUS 658.4083 FRI
+
+Gore, A. (2009). _[Our choice: A plan to solve the climate crisis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13312231)_. London: Bloomsbury. Call no.: R 363.73874 GOR
+
+Goudie, A. & Cuff, D. J. (Eds.). (2009). _[The Oxford companion to global change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13162554)_. New York: Oxford University Press. Call no.: R 363.7 OXF
+
+Greenberg, M. R. (2007). _[Environmental policy analysis and practice](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13005109)_. New Brunswick, N.J.: Rutgers University Press. Call no.: R 363.700973 GRE
+
+_[Harvard business review on green business strategy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944604)_. (2007). Boston, Mass.: Harvard Business School Pub. Call no.: RBUS 658.4083 HAR
+
+Hodge, B. K. (2010). _[Alternative energy systems and applications](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167932)_. Hoboken, NJ: John Wiley & Sons. Call no.: R 621.042 HOD
+
+Humes, E. (2009). _[Eco barons: The dreamers, schemers, and millionaires who are saving our planet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13173948)_. New York: Ecco. Call no.: R 363.70092273 HUM
+
+Jodidio, P. (2009). _[Grüne Architektur heute! = L’architecture verte d’aujourd’hui!](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220846)_ \[Green architecture now!\]. Cologne: \[Germany\]: Taschen. Call no.: RART 720.47 JOD
+
+Larsson, M. (2009). _[Global energy transformation: Four necessary steps to make clean energy the next success story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229157)_. New York: Palgrave Macmillan. Call no.: R 333.79 LAR
+
+Lee, C. C. & Lin, S. (Eds.) (2007). _[Handbook of environmental engineering calculations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909666)_. New York: McGraw Hill. Call no.: R 628 HAN
+
+Makower, J. & Pike, C. (2009). _[Strategies for the green economy: Opportunities and challenges in the new world of business](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13056642)_. New York: McGraw-Hill. Call no.: RBUS 658.4083 MAK
+
+Melaver, M. & Mueller, P. (Eds.) (2009). _[The green building bottom line: The real cost of sustainable building](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13112840)_. New York: McGraw-Hill. Call no.: R 690.8047 GRE
+
+Newman, P., Beatley, T. & Boyer, H. (2009). _[Resilient cities: Responding to peak oil and climate change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101977)_. Washington, D.C.: Island Press. Call no.: R 307.76 NEW
+
+Ooi, G. L. & Yuen, B. (Eds.) (2010). _[World cities: Achieving liveability and vibrancy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13219134)_. Singapore: World Scientific. Call no.: RSING 338.927 WOR
+
+Orr, D. W. (2004). _[Earth in mind: On education, environment, and the human prospect](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12444585)_. Washington, D.C.: Island Press. Call no.: R 363.70071 ORR
+
+Pernick, R. & Wilder, C. (2008). _[The clean tech revolution: Discover the top trends, technologies, and companies to watch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13071606)_. New York: Collins Business. Call no.: R 333.794 PER
+
+Rolston, H. & Light, A. (2003). _[Environmental ethics: An anthology](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11541830)_. Oxford: Blackwell. Call no.: R 179.1 ENV
+
+Rubino, J. A. (2009). _[Clean money: Picking winners in the green-tech boom](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13053340)_. Hoboken, N.J.: John Wiley & Sons. Call no.: RBUS 332.6 RUB
+
+Sandalow, D. B. (Ed). (2009). _[Plug-in electric vehicles: What role for Washington?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13178919)_ Washington, D.C.: Brookings Institution Press. Call no.: R 388.32 PLU
+
+Stern, N. H. (2007). _[The economics of climate change: The Stern Review](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12845998)_. Cambridge, UK: Cambridge University Press. Call no.: R 363.73874 GRE
+
+Vanek, F. M. & Albright, L. D. (2008). _[Energy systems engineering: Evaluation and implementation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13133245)_. New York: McGraw-Hill. Call no.: R 621.4 VAN
+
+Wesson, L. P. (2009). _Green reads: Best environmental resources for youth, K-12_. Santa Barbara, Calif.: Libraries Unlimited/ABC-CLIO.
+
+Yaws, C. L. (2008). _[The Yaws handbook of properties for environmental and green engineering](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100386)_. Houston, Tex.: Gulf Pub. Co. Call no.: R 660 YAW
+
+Yeang, K. (2009). _[Ecomasterplanning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13188044)_. Hoboken, N.J.: Chichester. Call no.: RSEA 720.47 YEA
+
+#### **NOTES**
+
+[^1]: Commissioners face waste disposal crisis. (2007, August 30). _The Frederick News Post Online_.
+
+[^2]: Global Humanitarian Forum. (2009). _Human impact report: Climate change - The anatomy of a silent crisis_. Retrieved January, 18, 2010 from https://gsdrc.org/document-library/human-impact-report-climate-change-the-anatomy-of-a-silent-crisis/#:~:text=This%20report%20documents%20the%20devastation,people%20are%20at%20extreme%20risk.
+
+[^3]: Obama, B. (2009, December 8). Remarks by the President on job creation and economic growth. The White House. The Brookings Institution, Washington, D.C. Retrieved January 18, 2010 from https://obamawhitehouse.archives.gov/the-press-office/remarks-president-job-creation-and-economic-growth
+
+4 International Energy Agency. (2009). _World energy outlook 2009_. Paris: Washington, D.C.: Organisation for Economic Co-operation and Development.
+
+5 Breakthrough Institute and the Information Technology and Innovation Foundation. (2009, November). Rising tigers, sleeping giant: Asian nations set to dominate the clean energy race by out-investing the United States. Retrieved January 18, 2010 from https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/blog/Rising\_Tigers.pdf
+
+6 Chee, K. G. (March 11, 2009). _High hopes for Singapore cleantech_. Retrieved from Cleantech website.
+
+7 National Library Board (2009). _eResources_. Retrieved January 18, 2010 from [http://eresources.nlb.gov.sg/](http://eresources.nlb.gov.sg/)
+
+8 GreenDex: Survey of Sustainable Consumption. (2009). _National Geographic_.
+
+9 France-Presse, A. (December 5, 2009_). Beware the great “greenwashing” con, experts warn_. Retrieved from lifestyle.sg website.
+
+10 Singapore Green Building Council (2009). _A strategic plan_. Retrieved from Singapore Green Building Council website.
+
+11 Energy Market Authority. (2009). _Electric vehicles test bedding_. Retrieved January 18, 2010 from https://www.ema.gov.sg/Electric\_Vehicles\_Test\_Bed.aspx
+
+
