@@ -61,7 +61,9 @@ Environmental planners, consultants and plant operators looking for references o
 
 Green vehicles will soon hit the roads in Singapore. A multiagency taskforce led by the Energy Market Authority (EMA) and Land Transport Authority (LTA) has embarked on national electric vehicles (EVs) test-bedding programme.11 It will allow testing of different EV prototypes and charging technologies and research into vehicle-to-grid (V2G) power. Anyone interested to know the technology and issues behind EV can refer to books such as *Future cars: Bio fuel, hybrid, electric, hydrogen, fuel economy in all sizes and shapes* (Bethscheider-Kieser, 2008) and *Plug-in electric vehicles: What role for Washington?* (Sandalow, 2009).
 
+#### **Conclusion**
 
+It is currently believed that science and technology can provide effective solutions to most environmental problems. However, efforts to conserve natural resources and preserve the wilderness and even local culture should not be overlooked to ensure a healthy environment for all living beings on Earth. To quote a recent ad from The Singapore Environmental Council (SEC), “It starts with their lives. It ends with yours.” Humans and animals are all affected by global warming. Go, read green and live green.
 
 
 
