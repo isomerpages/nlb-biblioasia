@@ -8,6 +8,9 @@ description: "Research Associate Joseph Dawes interviews Dr Andrew Chew, one of
 
 Dr Andrew Chew is one of the National Library’s Distinguished Readers. The National Library Distinguished Readers Initiative was launched in April 2006 with the aim to honour and pay tribute to prominent and learned Singaporeans whose leadership and professional success in their respective fields have propelled Singapore as a key player on the global stage, whether in government, business, academia or the arts. The National Library interviews Dr Chew on his insights.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/AndrewChew/Andrew%20Chew%202.jpg">
+ <div style="background-color: white;">Dr Chew... multiplier effect.</div>
+
 National Library: You have said you found the most satisfaction in finding ways to create a multiplier effect. You extolled teaching and teachers (in any profession) as being able to create that multiplier effect. How can libraries be part of that landscape in teaching and learning to multiply the talent base in Singapore?
 
 Dr Andrew Chew: Libraries are important because they keep the population informed. Our library is unique and I have not seen an equivalent anywhere else. Even libraries have changed as the world has changed in terms of technology and the Internet. I trust the Wikipedia to a large extent even though some may have reservations. As the world has changed in terms of technology, probably the type of user has changed as well. Yet, I still like reading from a book or magazine rather than a computer screen, despite the Internet and its technologies. Individuals read selectively. For some, a trip to the library is a family affair, and different members are in different sections of the library. So libraries are still very useful, but it has different purposes for different individuals. If an individual enjoys his experience in the library, he is bound to draw in others he knows as well, and that creates the multiplier effect. What the libraries in Singapore have done is make everybody comfortable and people know what and where to get anything they want easily. Today, it is really wonderful that libraries here are a connected network rather than operating as single entities.
@@ -75,5 +78,3 @@ This country is not run by just people at the top. Many are contributing at the 
 <br/>
 <img src="/images/Authors/Joseph%20Dawes.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Joseph Dawes</b><br>Research Associate I<br>Publishing and Research Services<br>National Library</center> </div>
-
-
