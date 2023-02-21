@@ -10,7 +10,10 @@ description: Librarian Jaclyn Teo draws on published English resources from the
 ---
 ####  Librarian _Jaclyn Teo_ draws on published English resources from the Lee Kong Chian Reference Library, and explores why certain Chinese dialect groups in Singapore, such as Hokkiens, Teochews, Cantonese, Hakkas and Hainanese, seemed to have specialised in specific trades and occupations, particularly during the early colonial period until the 1950s.
 
-&emsp;&emsp;&emsp;*“The Teochews are reputed for making fine kuayteow,*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the Hokkiens for their mee*,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the Hainanese for their coffee,*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*and the Cantonese for their pee”.*[^1]<br>&emsp;&emsp;&emsp;&emsp;&emsp;Li Yih Yuan, Yige Yizhi de Shizhen&emsp;&emsp;&emsp;&emsp;&emsp;<br>\[一个移殖的市镇: 马来亚华人市镇生活的调查研究\]
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“The Teochews are reputed for making fine kuayteow,*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the Hokkiens for their mee*,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the Hainanese for their coffee,*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*and the Cantonese for their pee”.*[^1]<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;Li Yih Yuan, Yige Yizhi de Shizhen&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>\[一个移殖的市镇: 马来亚华人市镇生活的调查研究\]
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Presentation1.jpg">
+ <div style="background-color: white;">(Left) All rights reserved, Opinion Books, 1990.<br>(Right) All rights reserved, Singapore Society of Asian Studies, 1995.</div>
 
 The above ditty is a common saying indicative of social stereotyping among Chinese dialect groups observed in Muar, Johore, in the 1950s. In fact, as far back as the 19th and early 20th century, there were already studies in Singapore highlighting the relationship between the occupations held by Chinese immigrants and their dialect origins (Braddell, 1855; Seah, 1848; Vaughan, 1874). Hokkiens and Teochews, being early settlers on the island, were known to dominate the more lucrative businesses, while later immigrants and minority dialect groups like Hainanese and Foochows were frequently regarded as occupying a lower position in the economic standings (Tan, 1990). Drawing on published English resources available in the Lee Kong Chian Reference Library, this article aims to explore why certain Chinese dialect groups in Singapore, such as Hokkiens, Teochews, Cantonese, Hakkas and Hainanese, seem to have specialised in specific trades and occupations, particularly during the early colonial period until the 1950s. It also posits some reasons why dialect group identities are no longer as dominant and obvious now as they used to be.
 
@@ -172,6 +175,3 @@ Yen, C. H. (1986). [_A social history of the Chinese in Singapore and Malaya 180
 [^1]: Pee: a crude slang implying a lady’s genitals.
 
 [^2]: [Cheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (1985) claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
-
-
-
