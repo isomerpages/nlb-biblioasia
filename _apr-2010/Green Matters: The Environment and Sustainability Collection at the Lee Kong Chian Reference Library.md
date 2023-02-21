@@ -42,6 +42,10 @@ A deluge of eco-literature has been coming to the library shelves. Some books ca
 
 Some of these green books include: *Our choice: A plan to solve the climate crisis* (Gore, 2009), *Hot, flat, and crowded: Why we need a green revolution – and how it can renew America* (Friedman, 2008), *Earth in mind: On education, environment, and the human* (Orr, 2004) and *Eco barons: The dreamers, schemers, and millionaires who are saving our planet* (Humes, 2009).
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Hot,%20Flat%20and%20Crowded.jpg">
+ <div style="background-color: white;">All rights reserved, Farrar, Straus & Giroux, c2008.</div>
+
+
 #### **Global Race for Clean Resources**
 
  &emsp;&emsp;&emsp;*“Because our economic future depends on our leadership<br>&emsp;&emsp;&emsp;in the industries of the future, we are investing in basic applied <br>&emsp;&emsp;&emsp;research... We know the nation that leads in clean energy<br>&emsp;&emsp;&emsp;will be the nation that leads the world.”*<br>&emsp;&emsp;&emsp;*United States President Barack Obama’s speech[^3] on the economy<br>&emsp;&emsp;&emsp;and job creation ideas on 8 December 2009.*
@@ -51,6 +55,10 @@ The benefits of producing clean and sustainable power from renewable energy sour
 Since identifying clean technology as a strategic part of a sustainable economy, the Singapore government has committed $700 million[^6] for R&D and manpower training to grow the sector. Clean technology or “clean-tech” is applied in a broad range of industries, including energy, water, manufacturing, advanced materials and transportation. Examples of clean-tech are solar and wind energy, water filtration and electric vehicles.
 
 To support the information needs of this rapidly emerging field, the library has built a collection of key publications on market trends, investment, technological and economic aspects of renewable energy. Recent titles include: *Global energy transformation: Four necessary steps to make clean energy the next success story* (Larson, 2009), *Clean money: Picking winners in the green tech boom* (Rubino, 2009) and *The clean tech revolution: Discover the top trends, technologies, and companies to watch* (Pernick & Wilder, 2008).
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/GreenMatters/Presentation1.jpg">
+ <div style="background-color: white;">(Left) All rights reserved. John Wiley & Sons, 2009. <br>  (Right) All rights reserved, Collins Business, 2008.</div>
+
 
 The push for environmental and water technologies (EWT) industry has also thrown up new and exciting challenges for those in the engineering fields. Job seekers and practicing engineers looking to strengthen their career prospects can refer to titles like *Alternative energy systems and application* (Hodge, 2010) and *Energy systems engineering: Evaluation and implementation* (Vanek & Albright, 2008), *The Yaws handbook of properties for environmental and green engineering* (Yaws, 2008) and *Handbook of environmental engineering calculations* (Lee & Lin, 2007).
 
