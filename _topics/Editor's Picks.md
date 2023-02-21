@@ -3,30 +3,35 @@ title: Editor's Picks
 permalink: /editors-picks/
 description: ""
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith">Building Faith: Wartime Churches in Syonan-to</a>
+Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
 
-Read about the painstaking process behind the restoration of the statues in St Joseph’s Church.
-
-![](/images/vol-17-issue-3/st-joseph/St%20Agnes2.jpg)
+<img style="width:100%;" src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/tale-of-two-churches">A Tale of Two Churches</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">The Final Hours of the Empress of Asia</a>
+The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
 
-Penang’s Armenian church was demolished in the early 1900s, while the one in Singapore still thrives. Nadia Wright looks at the vastly different fates of these two churches.
-
-<img src="/images/Vol-13-issue-3/a-tale-of-two-churches/02_churches.jpg" style="width:50%;">
+<img style="width:100%;" src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/party-time-raffles">Party Time at the Raffles</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery</a>
+Remembering those who died while fighting the Japanese during World War II.
 
-The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days.
-
-![](/images/Vol-12-issue-4/party-time-with-raffles/festivemenu.jpg)
+<img style="width:100%;" src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">The Divine Lance: Thaipusam and Murugan Worship in Singapore</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/beastly-business">A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore</a>
+The 1933 Report of the Wild Animals and Wild Birds Committee represents a failed attempt to regulate the buying and selling of wildlife in pre-war Singapore, says Fiona Tan.
 
-Thaipusam speaks of a migratory community that carries its deep-rooted cultural tradition wherever its people go.
-
-![](/images/Vol%2018%20Issue%204/Thaipusam/Image%201.png)
+<img style="width:100%;" src="/images/Vol-17-issue-1/beastly/manintrishaw.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/nature">Nature Conservation in Singapore</a>
+Balancing biodiversity conservation with urban development is a hot-button issue in land-scarce Singapore. Ang Seow Leng examines how this process has played out over the last 200 years.
+
+<img style="width:100%;" src="/images/Vol-17-issue-1/nature/pangolin.jpg">
+<hr>
+
+
+
