@@ -1,0 +1,80 @@
+---
+title: "National Library Distinguished Reader: Insights from Dr Andrew Chew"
+permalink: /vol-6/issue-1/Apr-2010/Andrew-Chew-Library-Reader/
+description: "Research Associate Joseph Dawes interviews Dr Andrew Chew, one of
+  the National Library’s Distinguished Readers. "
+---
+#### Research Associate _Joseph Dawes_ interviews Dr Andrew Chew, one of the National Library’s Distinguished Readers.
+
+Dr Andrew Chew is one of the National Library’s Distinguished Readers. The National Library Distinguished Readers Initiative was launched in April 2006 with the aim to honour and pay tribute to prominent and learned Singaporeans whose leadership and professional success in their respective fields have propelled Singapore as a key player on the global stage, whether in government, business, academia or the arts. The National Library interviews Dr Chew on his insights.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/AndrewChew/Andrew%20Chew%202.jpg">
+ <div style="background-color: white;">Dr Chew... multiplier effect.</div>
+
+National Library: You have said you found the most satisfaction in finding ways to create a multiplier effect. You extolled teaching and teachers (in any profession) as being able to create that multiplier effect. How can libraries be part of that landscape in teaching and learning to multiply the talent base in Singapore?
+
+Dr Andrew Chew: Libraries are important because they keep the population informed. Our library is unique and I have not seen an equivalent anywhere else. Even libraries have changed as the world has changed in terms of technology and the Internet. I trust the Wikipedia to a large extent even though some may have reservations. As the world has changed in terms of technology, probably the type of user has changed as well. Yet, I still like reading from a book or magazine rather than a computer screen, despite the Internet and its technologies. Individuals read selectively. For some, a trip to the library is a family affair, and different members are in different sections of the library. So libraries are still very useful, but it has different purposes for different individuals. If an individual enjoys his experience in the library, he is bound to draw in others he knows as well, and that creates the multiplier effect. What the libraries in Singapore have done is make everybody comfortable and people know what and where to get anything they want easily. Today, it is really wonderful that libraries here are a connected network rather than operating as single entities.
+
+NL: What is your favourite book or discourse? Why do you like it and would you recommend it to others?
+
+AC: It could be something I could have enjoyed years ago, and yet go back to it again to enjoy it. But I do not read very lengthy things. I had a visitor from Texas who asked for books that would describe Singapore. I said there were many books written by Singaporeans, but I gave him a book by a man who stayed here for 10 years and since migrated to Australia. The author is Neil Humphreys whose latest publication is Complete Notes from Singapore – Omnibus Edition. That is one of my ways to share about Singapore.
+
+I also enjoy books that teach you what to do. My interest in National Geographic over the years has triggered and sustained my interest in maps. For example, my granddaughter who is at McMurdo (or Mac Town) in the Antarctica for research, studying various periods of the Ice Age in the south, has posted pictures of different places there on her blog. As long as I am interested in that, I have got to find out where exactly Mac Town is! So my interest in maps has remained intact over the years and is tied up with my interest in the National Geographic magazine. And wherever I held office, I had a lot of detailed maps. Looking at a map is fascinating as the orientation to the place is different from that if I were to have just read about it.
+
+Interest is developed as you go along. One does not need to tell others to develop an interest. Reading as many sources as possible provides you with a way to pick and choose what is interesting for yourself. I do, from time to time, share what I have read with others and even recommend it. For example, if I find an interesting read on doing business in India, I print out a copy of the article and pass it on to someone who may need it. That is my way of passing on information that is useful.
+
+NL: The knowledge economy requires leadership that operates on different resources and premises from those that succeeded in the industrial economy. How do you think Singapore can enhance its human capital investments in the knowledge economy?
+
+AC: Per capita income of families has gone up, which is good. Parents can now afford to give their children more. They have given them access to modern electronic equipment, which is very important. In the old days, parents would say, “Why should we spoil these kids and waste their time by giving them games when they should be studying.” But we find now that their ability to send SMSes (short message service) or punch keys is going to serve them well in the office and, more importantly, in the SAF (Singapore Armed Forces). From that point, we should not stop them from picking up and keeping these skills. Today, our youngsters have a very good knowledge of what is available. Modern instrumentation has made all this possible.
+
+Modern armies have also changed. Look at how the Americans fought the war in Afghanistan and in Iraq. These are soldiers with brains. And that’s what our third-generation SAF has to be. We want soldiers who can make use of robotic equipment and in the enemy territory, without getting themselves exposed. Even if you have the money, but if you don’t have the basic knowledge, you can’t make it. The way we see it, our youngsters in the SAF are going to be top-notch soldiers.
+
+When it comes to mathematics, Indians are very strong. If you look at the graduates from the neighbouring countries, most are from the arts and social sciences and not the hard sciences. We have a balance of both.
+
+So IT (information technology) is something we must push very hard and we must continue to do so though we are doing okay. Today, we can do a surgical procedure with modern IT equipment making very small punctures in the body and getting the job done. You can develop the skills. So it’s about education. I’m glad we spend about 6% of our national budget on defence, and a little over 4% on education. Think about some countries that spend about 50% on defence, but their economy is not that great. So the rest of the country is living very poorly.
+
+NL: You have noted that progress tends to come in spurts and yet there is a tendency to want to accomplish things so fast that some in the public may feel marginalised or flat footed. How can libraries remain relevant or even become touchstones of new forms of learning without alienating some in the public?
+
+AC: It’s a fact that those who are fortunate can get a lot and can get it very quickly. So there is this difference in society already. We cannot run away from this: there will always be the rich and there will always be the poor. But we try to even out as much as we can. Fortunately for us in this country, we have a thick base of middle-class. That’s very important. And that, of course, helps to maintain a stable government and country. To keep pace with advances, scientific libraries will provide that direction. But in the overall education of the public, libraries will continue to be important.
+
+In Singapore we have an educated population that can respond to the progress of the libraries. Censorship is something that we can’t run away from. I don’t believe in the so-called total freedom that some advocate. The way the Americans practise democracy is a bit extreme and I would not like it for this country. We come from a different part of the world and we find their way a bit strange. Total freedom is only good when a person can exercise 100% responsibility. In any population, that cannot be guaranteed. Not every individual is trustworthy. So there will always be a need for caution and modification.
+
+NL: What are some of your cherished memories of the libraries in Singapore or around the world?
+
+AC: In Australia, there are libraries in townships and counties, but not to the extent we have here. My own experience of libraries is that they are specific to the place I study or work. Both as an undergraduate and as a post-graduate, I visited the medical library quite often. Libraries must also be easily accessible and this promotes use of the library, and people take advantage of the proximity. There was a library in Siglap Community Centre, which was just 200 metres from my home. I used to visit that place many days a week. I borrowed books, read and returned them and borrowed again. I really enjoyed it. Then the library moved to Marine Parade. I found I was visiting the library less after that. But I still visited.
+
+I am not a user of libraries in other parts of the world though I have visited them. In Singapore, of course, libraries are useful for me when I have a need for something. I used the medical library very often even 25 years ago. Today I don’t access library facilities like I once used to though there are other ways and means I get the information I want.
+
+NL: How would you describe your experiences sitting in on Cabinet meetings across two prime ministerships?
+
+AC: As Head of Civil Service I served the first and second Prime Ministers. As Chairman of the Public Service Commission I liaised closely with the second and third Prime Ministers.
+
+Of course, when they had private matters to discuss, we would not be inside for the meeting. We would be there only for the weekly Cabinet meetings during which proper papers were presented.
+
+One very good thing I noted was that a decision once made was said to have consensus. There was no such thing as someone saying, “Please write down that I have made an objection.” The decisions were fairly straightforward. Consensus is how the government has worked and it has been very good. A lot would have been decided even before the meeting is held. But controversial issues would have to be sorted out first, involving two or three ministries putting their heads together even before the meeting, or else it wouldn’t be brought up.
+
+Preparations for Cabinet meetings were very carefully carried out. It also showed that ministries could not just work on their own. They must liaise with one another. There was a time when two ministers couldn’t agree on some financial issues and the government swapped their portfolios just to help them see the other’s need. You know best when you are inside it, not when you see it from the outside! So both the prime ministers were cautious and careful and the ministries worked as a team, which was wonderful.
+
+NL: What were the changes taking place in outlook and aspirations of young Singaporeans during the period when you chaired the PSC (Public Service Commission) since you had interviewed so many of them for scholarships?
+
+AC: Actually, the changes occurred well before that. We could see that quite clearly. Even when I worked at different ministries, there were scholars who wanted to break their bonds. I would speak to them as I wanted to know their reasons. For example, one said the family business needed him, and you could understand his needs. But at the same time I took the approach, “the door is always open, please come back when you think you want to come back.” We had conveyed a very bad impression that once you’ve left, you cannot come back, which was wrong. I had always made it a point not to leave a bitter taste in their mouth. Their reasons for breaking the bond as they saw it, seemed right to them, even though it might not seem so to me. But that did not mean they were wrong. There were president’s scholars who said, “I will never get a chance to work in this American law firm if I do not take it up now.” So we said, “We’ll meet you half way. One year? Two years? Then come back?” They said, “No, they want me for many more years.” Then, if the parents were willing to pay the bond, they were free to leave. A few factors needed to be taken into consideration: No longer were scholarships sought after because the applicants were poor. Some could afford them and still wanted the scholarships, so we gave them on merit.
+
+At that time we knew the number of “A” level students who applied for scholarships and realised not all eligible ones applied. Their parents could afford their education. So you can see that patterns have changed because the per capita income has gone up. Sometimes the families may prefer them not to take up the scholarship. Sometimes the youngsters may not want the scholarship. We want good scholars, so we sell. But we sell in such a way that we don’t lose dignity in the process. We try to make it clear that we view them as persons who can fill leadership positions in the civil service. Even as undergraduates, they will be exposed to areas that we will arrange to make them realise that we are serious. In this way, it is a very clear and open way to show that we know their concerns and that we also have our concerns, but let us do it this way. I have spoken to the prime ministers on this and they have said to continue to give as many scholarships as we can. But we make sure they know that this is something special and not treat it as a run-ofthe-mill offer. And there is no quota. This year if there are only 100 eligible, so be it. And next year if there are 150, every one 
+of them must get it.
+
+But scholars also have changed. Some have been given local scholarships, and they ask to go overseas. We did that for a long time with the medical scholars; we never gave scholarships to study overseas. But the market changes. As I said, parents can afford it. So I decided before I finished my term of office, that I should reverse the trend and I gave them scholarships to study medicine in the United Kingdom.
+
+But we still have scholars who want to study in Singapore and they have their reasons. Maybe they want to remain close to their families, or some other reason. There was a time when only the medical faculty received president scholars. Then science, engineering and all the other faculties asked why they didn’t receive president scholars. But actually, most of the president scholars wanted to study abroad.
+
+NL: As the head of the civil service once yourself, and now a user of civil service products, what do you think are the new skills and mindset that civil servants need to serve Singapore well?
+
+AC: When we talk about civil servants, don’t forget there is a total range: from the top man to the one who serves you across the counter. I think of myself today as a user of services and I go to the counter. We have provided the training skills at that level to enable them to serve the public. As far as I am concerned this has been reasonably well fulfilled. I have had occasions when I was a little upset - not necessarily encountering another civil servant, but even in the private sector. These are things you have to accept. And I don’t think you want to use a very coarse instrument against everybody. So if you ask me what we need to do, there so many levels - each one must ensure that each level functions well. Not only horizontal integration, but a little bit of vertical integration as well. When I talk about vertical integration I am not talking about the 10 layers. I am talking about only two layers. It’s impractical to talk about the top.
+
+This country is not run by just people at the top. Many are contributing at the lower levels. Let’s not allow them to feel they are losing out on the quality of life.
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Joseph%20Dawes.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Joseph Dawes</b><br>Research Associate I<br>Publishing and Research Services<br>National Library</center> </div>
