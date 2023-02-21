@@ -7,9 +7,10 @@ description: "Senior Librarian Sara Pek shares highlights from the Environment
 ---
 #### Senior Librarian _Sara Pek_ shares highlights from the Environment and Sustainability Collection at the Lee Kong Chian Reference Library.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"*We are living in this planet as if we had another one to go to.*”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paul Connett<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Professor Emeritus of Chemistry <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;St Lawrence University, Canton, NY1
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"*We are living in this planet as if we had another one to go to.*”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paul Connett<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Professor Emeritus of Chemistry <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;St Lawrence University, Canton, NY[^1]
 
-The first major study2 on the full impact of climate change on human life warns that the world is in the throes of a “silent crisis”. Published in June 2009, it claims that more than 300 million people are seriously affected by global warming today and that number will double by 2030.
+The first major study[^2] on the full impact of climate change on human life warns that the world is in the throes of a “silent crisis”. Published in June 2009, it claims that more than 300 million people are seriously affected by global warming today and that number will double by 2030.
+
 We face many environmental challenges such as water shortages, pollution, global warming and consequent rising sea levels. As citizens of the planet Earth, we can and should take responsibility to save the environment. The Environment and Sustainability collection at the Lee Kong Chian Reference Library aims to inform and provide insights and ideas on a broad spectrum of resources on major environmental trends and issues such as climate change, global warming, sustainable development, green business and buildings and clean technology. This article highlights selected publications from the collection.
 
 #### **Environment101**
@@ -64,3 +65,11 @@ Green vehicles will soon hit the roads in Singapore. A multiagency taskforce led
 #### **Conclusion**
 
 It is currently believed that science and technology can provide effective solutions to most environmental problems. However, efforts to conserve natural resources and preserve the wilderness and even local culture should not be overlooked to ensure a healthy environment for all living beings on Earth. To quote a recent ad from The Singapore Environmental Council (SEC), “It starts with their lives. It ends with yours.” Humans and animals are all affected by global warming. Go, read green and live green.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Sara%20Pek.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Sara Pek</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library </center></div>
+
+
