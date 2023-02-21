@@ -34,7 +34,32 @@ Some of these green books include: *Our choice: A plan to solve the climate cris
 
 #### **Global Race for Clean Resources**
 
-*“Because our economic future depends on our leadership<br> in the industries of the future, we are investing in basic applied<br> research... We know the nation that leads in clean energy<br> will be the nation that leads the world.”*<br> *United States President Barack Obama’s speech3 on the economy<br> and job creation ideas on 8 December 2009*.
+*“Because our economic future depends on our leadership<br> in the industries of the future, we are investing in basic applied<br> research... We know the nation that leads in clean energy<br> will be the nation that leads the world.”*<br> *United States President Barack Obama’s speech3 on the economy<br> and job creation ideas on 8 December 2009.
+
+The benefits of producing clean and sustainable power from renewable energy sources have received growing attention worldwide, including in Singapore. The International Energy Agency (IEA) reports4 that nations must invest US$37 trillion in energy technologies by 2030 to avoid climate catastrophe and meet energy needs. Asia’s rising “clean technology tigers”5 – China, Japan and South Korea – are poised to win the clean energy race with their hefty investment in clean energy infrastructure and technology.
+
+Since identifying clean technology as a strategic part of a sustainable economy, the Singapore government has committed $700 million6 for R&D and manpower training to grow the sector. Clean technology or “clean-tech” is applied in a broad range of industries, including energy, water, manufacturing, advanced materials and transportation. Examples of clean-tech are solar and wind energy, water filtration and electric vehicles.
+
+To support the information needs of this rapidly emerging field, the library has built a collection of key publications on market trends, investment, technological and economic aspects of renewable energy. Recent titles include: Global energy transformation: Four necessary steps to make clean energy the next success story (Larson, 2009), Clean money: Picking winners in the green tech boom (Rubino, 2009) and The clean tech revolution: Discover the top trends, technologies, and companies to watch (Pernick & Wilder, 2008).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
