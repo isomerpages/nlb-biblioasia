@@ -9,19 +9,28 @@ description: "Senior Librarian Sara Pek shares highlights from the Environment
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"*We are living in this planet as if we had another one to go to.*”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paul Connett<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Professor Emeritus of Chemistry <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;St Lawrence University, Canton, NY[^1]
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Oxford%20companion%20to%20global%20change.jpg">
+ <div style="background-color: white;">All rights reserved, Oxford University Press, 2009.</div>
+
 The first major study[^2] on the full impact of climate change on human life warns that the world is in the throes of a “silent crisis”. Published in June 2009, it claims that more than 300 million people are seriously affected by global warming today and that number will double by 2030.
 
 We face many environmental challenges such as water shortages, pollution, global warming and consequent rising sea levels. As citizens of the planet Earth, we can and should take responsibility to save the environment. The Environment and Sustainability collection at the Lee Kong Chian Reference Library aims to inform and provide insights and ideas on a broad spectrum of resources on major environmental trends and issues such as climate change, global warming, sustainable development, green business and buildings and clean technology. This article highlights selected publications from the collection.
 
 #### **Environment101**
 
-Environmental awareness is a hot topic today. To increase youth’s awareness of the living surroundings, schools are integrating environmental concepts into their curriculum. One useful resource that can help teachers, librarians, environmental educators and parents find authoritative information on building a library of environmental books, curriculum planning and story-time activities is Green reads: *Best environmental resources for youth, K-12* (Wesson, 2009). More than 450 current fiction and non-fiction titles about the environment, including digital media, are covered. 
+Environmental awareness is a hot topic today. To increase youth’s awareness of the living surroundings, schools are integrating environmental concepts into their curriculum. One useful resource that can help teachers, librarians, environmental educators and parents find authoritative information on building a library of environmental books, curriculum planning and story-time activities is *Green reads: Best environmental resources for youth, K-12* (Wesson, 2009). More than 450 current fiction and non-fiction titles about the environment, including digital media, are covered. 
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Green%20Reads.jpg">
+ <div style="background-color: white;">All rights reserved, Libraries Unlimited/ABC-CLIO, 2009.</div>
 
 Students and professionals seeking to understand the environmental sciences can refer to a range of references on the topics. *The Oxford companion to global change* (Goudie & Cuff, 2009) is a well-balanced coverage of the Earth systems and human factors. It examines key environmental events, trends and issues related to global change. The 2007 *report of the Intergovernmental Panel on Climate Change (IPCC)*, which assesses the scientific, technical, environmental, economic and social aspects of climate change, is discussed.
 
 Numerous heroes of the environment have cared intensely about the environment. Works on these prominent environmental leaders and visionaries, activists, scientists, innovators and entrepreneurs such as Rachel Carson, Aldo Leopold, Jane Goodall, John Muir, David Attenborough, Al Gore, Tim Flannery, Lester Brown and Henry David Thoreau can be found in the library.
 
 One book that many considered as the most important environmental book of the 20th century is Rachel Carson’s *Silent spring* (Carson, 1962, 1994 reprint). Carson alerts readers on the widespread use of chemical pesticides destroying wildlife and posing serious threat to public health. The brave woman faced condemnation and strikes by the chemical industry to ban the book. In the end, she succeeded in creating public awareness of the environment, which led to changes in government policy and inspired the modern ecological movement.
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Silent%20Spring.jpg">
+ <div style="background-color: white;">All rights reserved, Houghton Mifflin, 1994.</div>
 
 Earth Day is celebrated every year. It is a special day to appreciate the planet Earth and be environmentally conscious. The first Earth Day in 1970 was often thought as one of the factors leading to the field of environmental ethics. A good introduction to this increasingly urgent topic is *Environmental ethics: An anthology* (Rolston & Light, 2003). This text is compilation of classical and contemporary essays on key environmental debates and issues.
 
