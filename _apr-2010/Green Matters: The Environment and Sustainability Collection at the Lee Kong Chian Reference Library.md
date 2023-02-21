@@ -137,20 +137,18 @@ Yeang, K. (2009). _[Ecomasterplanning](https://eservice.nlb.gov.sg/item_holding.
 
 [^3]: Obama, B. (2009, December 8). Remarks by the President on job creation and economic growth. The White House. The Brookings Institution, Washington, D.C. Retrieved January 18, 2010 from https://obamawhitehouse.archives.gov/the-press-office/remarks-president-job-creation-and-economic-growth
 
-4 International Energy Agency. (2009). _World energy outlook 2009_. Paris: Washington, D.C.: Organisation for Economic Co-operation and Development.
+[^4]: International Energy Agency. (2009). _World energy outlook 2009_. Paris: Washington, D.C.: Organisation for Economic Co-operation and Development.
 
-5 Breakthrough Institute and the Information Technology and Innovation Foundation. (2009, November). Rising tigers, sleeping giant: Asian nations set to dominate the clean energy race by out-investing the United States. Retrieved January 18, 2010 from https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/blog/Rising\_Tigers.pdf
+[^5]: Breakthrough Institute and the Information Technology and Innovation Foundation. (2009, November). Rising tigers, sleeping giant: Asian nations set to dominate the clean energy race by out-investing the United States. Retrieved January 18, 2010 from https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/blog/Rising\_Tigers.pdf
 
-6 Chee, K. G. (March 11, 2009). _High hopes for Singapore cleantech_. Retrieved from Cleantech website.
+[^6]: Chee, K. G. (March 11, 2009). _High hopes for Singapore cleantech_. Retrieved from Cleantech website.
 
-7 National Library Board (2009). _eResources_. Retrieved January 18, 2010 from [http://eresources.nlb.gov.sg/](http://eresources.nlb.gov.sg/)
+[^7]: National Library Board (2009). _eResources_. Retrieved January 18, 2010 from [http://eresources.nlb.gov.sg/](http://eresources.nlb.gov.sg/)
 
-8 GreenDex: Survey of Sustainable Consumption. (2009). _National Geographic_.
+[^8]: GreenDex: Survey of Sustainable Consumption. (2009). _National Geographic_.
 
-9 France-Presse, A. (December 5, 2009_). Beware the great “greenwashing” con, experts warn_. Retrieved from lifestyle.sg website.
+[^9]: France-Presse, A. (December 5, 2009_). Beware the great “greenwashing” con, experts warn_. Retrieved from lifestyle.sg website.
 
-10 Singapore Green Building Council (2009). _A strategic plan_. Retrieved from Singapore Green Building Council website.
+[^10]: Singapore Green Building Council (2009). _A strategic plan_. Retrieved from Singapore Green Building Council website.
 
-11 Energy Market Authority. (2009). _Electric vehicles test bedding_. Retrieved January 18, 2010 from https://www.ema.gov.sg/Electric\_Vehicles\_Test\_Bed.aspx
-
-
+[^11]: Energy Market Authority. (2009). _Electric vehicles test bedding_. Retrieved January 18, 2010 from https://www.ema.gov.sg/Electric\_Vehicles\_Test\_Bed.aspx
