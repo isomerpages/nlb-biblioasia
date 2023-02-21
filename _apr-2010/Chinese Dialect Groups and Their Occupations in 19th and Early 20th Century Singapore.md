@@ -29,3 +29,60 @@ Despite originating from the same country, the Chinese community in Singapore wa
 How then did the trade specialisations based on dialect groupings come about? Cheng (1985) posited that the concentration of each dialect group in specific areas on the island provided a geographical and socioeconomic base for starting a trade. As more and more people of the same dialect group moved into the same area, the trade that was initially started by some would become increasingly established and entrenched. This was especially so because new migrants to Singapore tended to turn to their relatives (usually of the same dialect group) for jobs. Indeed, an early immigrant, Ang Kian Teck, confirmed this point. He related that “when you first arrive in Singapore, you find out what your relatives are doing and you follow suit. If your relatives are rickshaw pullers, then you too would become one. My elder brother was already in Singapore working as *chap he tiam* shopkeeper, so I joined him.” (quoted in Chou & Lim, 1990, p. 28). It was also natural for experienced migrants, such as fishermen, artisans and traders, to continue with their specialised trades when they resettled. Factors such as the physical environment, as well as the intervention of secret societies, also contributed to the dominance of particular dialect groups in certain trades (Mak, 1981).
 
 Mak (1995) puts forth several reasons to explain why such occupational patterns continued to persist. First, businesses which were capital-intensive, by the very fact that they required large amounts of resources, tended to exclude the poorer dialect groups. Close network ties within communities similarly prevented other dialect groups from participating in the same trades. The way trade groups were organised, and the formation of occupational guilds and the apprenticeship system, were successful in keeping businesses within certain dialect groups. Occupational guilds helped to contain the supply of materials and information required for the trade within the dialect group. For example, the Singapore Cycle and Motor Traders’ Association, dominated by Henghuas, ensured that the continuation of trade stayed within the same dialect group by encouraging members to take over the retiring businesses of fellow clansmen (Cheng, 1985). The apprenticeship system, which entails the passing of skills from one to another, was more effective when employers and trainees understood each other. Hence, the employer who was looking for an apprentice would tend to choose someone from the same dialect origin. Over time, the acquired reputation of a dialect group in a particular trade might also prevent other dialect groups from competing in the same trade successfully.
+
+All the above factors reinforced one another and strengthen the dialect group’s position in that trade. As a result, the “consequence of dialect trade specialisation is that the particular dialect becomes the language of the trade. Dialect incomprehensibility among different dialect groups, dialect patronage, and trade associations are mutually influencing and reinforcing; and together they form a barrier by excluding members of other dialect groups from entry or effective participation. Thus, unless the conditions for dialect trade are disrupted, the trend of development is towards further consolidation and expansion.” (Cheng, 1985, p. 90).
+
+#### **Dominant Trades for Major Dialect Groups**
+***Hokkiens***
+
+Among the various dialect groups, Hokkiens were among the earliest to arrive in Singapore. It was recorded that the first groups of Chinese to arrive in Singapore had come from Malacca and most of these early migrants were believed to be Hokkiens, then known as Malacca–born Chinese (Seah, 1848). Subsequently, Hokkiens from Quanzhou, Zhangzhou, Yongchun and Longyan prefectures of Fujian province also migrated to Singapore (Cheng, 1985). With a long history of junk trade involvement in Southeast Asia, it was natural for Hokkiens to continue to be active in commerce, working as shopkeepers, general agriculturalists, manufacturers, boatmen, porters, fishermen and bricklayers, according to an estimate made in 1848 (Braddell, 1855). In fact, Braddell noted that the Hokkien Malaccan Chinese, who were Western educated and had prior interactions with European merchants, had “a virtual monopoly of trade at Singapore” in the 1850s (p. 115). Raffles also noted in a letter to European officials that the more respectable traders were found among the Hokkiens (Tan, 1986). The Hokkiens congregated and settled in Telok Ayer Street, which was near the seacoast, and this gave them an added advantage for coastal trade. All these propelled the Hokkiens to successfully establish a strong commercial footing on the island (Cheng, 1985).
+
+Hokkiens’ strong economic position allowed them to accumulate capital, which in turn gave them a higher chance of venturing into new businesses like rubber planting when the economy grew (Cheng, 1985). Hokkien capitalists were the first pioneers to invest in rubber planting, which was considered to be a riskier and more capital-intensive venture than gambier planting, as rubber could be tapped only after many years, and was also subjected to violent price fluctuations. The rubber boom during World War I and the Korean War strengthened Hokkiens’ economic position further and Hokkiens went on to control the speculative coffee and spice trade, as well as a number of banks, including the Ho Hong Bank (1917), OverseaChinese Banking Corporation (1932), United Overseas Bank (1935), Bank of Singapore (1954), and Tat Lee Bank (1975), to name a few (Cheng, 1985).
+
+Another well-documented trade specialisation among Hokkiens (specifically those who came from Anxi of Quanzhou prefecture) was the *chap he tiam* business, otherwise known as the “mixed goods” store or retail provision store business (Chou & Lim, 1990). Well-known Hokkien personalities like Tan Kah Kee and Lee Kong Chian were also involved in the pineapple-canning business (Tan, 1999). All in all, Hokkiens dominated the more lucrative trades and had a lion’s share in the following fields: banking, finance, insurance, shipping, manufacturing, import and export trade in Straits produce, ship-handling, textiles, realty and even building and construction (Cheng, 1985).
+
+Hokkiens were and continue to be the largest Chinese dialect group in Singapore, accounting for more than 40% of the overall Chinese population (Leow, 2001).
+
+***Teochews***
+
+Teochews, who are sometimes known as the “Swatow People”, formed the second largest dialect group in Singapore (Tan, 1990), and originated largely from 
+the Chaozhou prefecture in Guangdong province.
+
+Teochews were inclined towards agriculture, and their economic prowess was anchored in the planting and marketing of gambier and pepper (Tan, 1990). Records have shown that even before the arrival of the British in Singapore, some Teochew farmers and their gambier plantations were already on the island (Bartley, 1933). The first Teochews to arrive on the British colony were believed to have come from the Riau Islands (Cheng, 1985), which had a large Teochew settlement, and was a centre for gambier trade. With a free port status offering a gateway to international markets, Singapore soon replaced Riau as the preferred gambier trading centre for many Teochew traders. Before long, the gambier and pepper trades in Singapore were dominated by Teochews, and in the 1840s, they made up more than 95% of the Chinese gambier and pepper planters and coolies (Braddell, 1855). Seah Eu Chin, a Teochew, was said to be the first Chinese to initiate the large-scale planting of gambier and pepper on the island and his plantation “stretched for eight to ten miles from the upper end of River Valley Road to Bukit Timah and Thomson Road” (Song, 1923, p. 20).
+
+As gambier and pepper produce was transported to town via waterways, Teochews tended to settle along the middle portion of the Singapore River. It was said that Teochews on the left bank of the Singapore River were mainly involved in gambier, pepper and other tropical produce while Teochews on the right bank of the Singapore River virtually dominated the sundry goods and textile trades (Phua, 1950). Teochews were also involved in the boat trade with Siam, Hong Kong, Shantou, Vietnam and West Borneo (Hodder, 1953), and had a dominant share in the trading of rice, chinaware, and glassware as well (Cheng, 1985). The establishment of the Four Seas Communications Bank by leading Teochews in 1907 marked the peak of their economic strength.
+
+Unfortunately, gambier cultivation declined in Singapore from 1850 as a result of soil exhaustion. This led many Teochews to move their base to Johore (Makepeace, et al, 1921). In addition, as chemicals increasingly replaced gambier as a dye, Teochews’ economic strength dwindled further.
+
+Another group of Teochews was recorded to have settled in Punggol and Kangkar, along the northern coastal fringes of the island (Chou, 1990). Living close to the sea, they became experienced fishermen, boatmen, fishmongers and fish wholesalers. Their livelihood as fishermen was badly affected, however, when the Singapore government decided to phase out *kelongs* (the largest form of fish trap) in favour of fish farms in 1981.
+
+***Cantonese***
+
+Numbering 14,853 in 1881, Cantonese were the third largest dialect group after Hokkiens and Teochews.2 Cantonese originated from the Pearl River Delta region, particularly from the Guangzhou and Zhaoqing prefectures in Guangdong province. They were sometimes labelled as “Macaus” as they had used Macau as their main port of emigration prior to the opening up of Hong Kong in 1842 (Tan, 1990). The first Cantonese to arrive in Singapore was believed to be Chow Ah Chi, who arrived in Singapore together with Sir Stamford Raffles in 1819. One source mentioned that he was a carpenter from Penang (Cheng, 1985), while another source claimed that he was in fact the cook named Ts’ao Ah Chih on board Raffles’ ship (Tan, 1990). Cantonese were among the first to arrive in Singapore, and they settled in the Kreta Ayer region as they preferred the elevated inland areas to the swampy waterfront district (Cheng, 1985).
+
+Cantonese were involved in a wide variety of occupations. Seah Eu Chin (1848) observed in 1848 that Cantonese and Hakkas were predominantly artisans. Similarly, William Pickering, who later became the First Protector of Chinese in Singapore, wrote in 1876 that most Cantonese and Hakkas in the Straits Settlements were miners and artisans. The Cantonese in Singapore were known to work as bricklayers, carpenters, cabinet-makers, woodcutters and goldsmiths. Cantonese women from San Sui (Three Rivers), in particular, were noted for their contribution to Singapore’s construction industry in the 1950s and 1960s (Tan, 1990). The Cantonese also opened a number of restaurants and herbal medical stores in Singapore during the late 19th century (Mak, 1995).
+
+Vice was another trade that was reportedly linked to Cantonese (Mak, 1995). The Superintendent of Census remarked that most prostitutes were of Cantonese origin, and newspapers of that period reported that there were a few thousand prostitutes in the Kreta Ayer region, an area that was predominantly occupied by Cantonese. Although there were also Hokkien and Teochew brothels, their numbers decreased due to pressure from Hokkien leaders to close down Hokkien brothels in a bid to undo the shame brought to their dialect group, as well as a ban on the emigration of Teochew women from Chaozhou in the 1880s.
+
+The trades engaged by Cantonese were mainly craftbased and were small in scale. Such trades, when compared to the import and export businesses dominated by Hokkiens, generated much less income and wealth. Thus, Cantonese were generally regarded as less economically well-off than Hokkiens and Teochews.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
