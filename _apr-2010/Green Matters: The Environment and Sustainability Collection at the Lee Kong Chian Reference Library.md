@@ -40,27 +40,18 @@ The benefits of producing clean and sustainable power from renewable energy sour
 
 Since identifying clean technology as a strategic part of a sustainable economy, the Singapore government has committed $700 million6 for R&D and manpower training to grow the sector. Clean technology or “clean-tech” is applied in a broad range of industries, including energy, water, manufacturing, advanced materials and transportation. Examples of clean-tech are solar and wind energy, water filtration and electric vehicles.
 
-To support the information needs of this rapidly emerging field, the library has built a collection of key publications on market trends, investment, technological and economic aspects of renewable energy. Recent titles include: Global energy transformation: Four necessary steps to make clean energy the next success story (Larson, 2009), Clean money: Picking winners in the green tech boom (Rubino, 2009) and The clean tech revolution: Discover the top trends, technologies, and companies to watch (Pernick & Wilder, 2008).
+To support the information needs of this rapidly emerging field, the library has built a collection of key publications on market trends, investment, technological and economic aspects of renewable energy. Recent titles include: *Global energy transformation: Four necessary steps to make clean energy the next success story* (Larson, 2009), *Clean money: Picking winners in the green tech boom* (Rubino, 2009) and *The clean tech revolution: Discover the top trends, technologies, and companies to watch* (Pernick & Wilder, 2008).
 
+The push for environmental and water technologies (EWT) industry has also thrown up new and exciting challenges for those in the engineering fields. Job seekers and practicing engineers looking to strengthen their career prospects can refer to titles like *Alternative energy systems and application* (Hodge, 2010) and *Energy systems engineering: Evaluation and implementation* (Vanek & Albright, 2008), *The Yaws handbook of properties for environmental and green engineering* (Yaws, 2008) and *Handbook of environmental engineering calculations* (Lee & Lin, 2007).
 
+Online databases7 , such as IEEE/IET electronic library, SpringerLink, Nature.com and Proquest Science offer, premium content from international journals and reports. Library users can access these resources at the library or at home. Some of the periodicals available are *Energy Design Update*, *Energy Compass*, *Energy Engineering*, *Energy Intelligence*, *The Energy Journal*, *The Journal of Energy Markets*, *Water & Wastewater International, Water Environment Research and Journal of Water Resource and Protection*.
 
+#### **Going Green**
+Green is now mainstream. A National Geographic survey, Greendex8 shows that consumers are buying more green products even during the economic crisis of 2008. Companies are introducing new greener products. Books on green marketing and green business like *The truth about green business* (Friend & Kordesch & Privitt, 2009), *Harvard Business Review on green business strategy* (Harvard business review, 2007) and *Strategies for the green economy: Opportunities and challenges in the new world of business* (Makower & Pike, 2009) are relevant to this segment of readers.
 
+However, media experts9 warn that marketing strategies dubbed “greenwashing” could be leading the eco-conscious astray as more companies are making false or misleading green marketing claim.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+With pressing interest in green economy, organisations are adapting to new environmental policy and regulations. Others are developing strategies for sustainable business or “green” their operation. Policy makers and business stakeholders wondering how policy decisions come about can be better informed from books such as Environmental policy analysis and practice (Greenberg, 2007). The author explains clearly how all policy considerations are broken down and tools that are widely used in policy analysis.
 
 
 
