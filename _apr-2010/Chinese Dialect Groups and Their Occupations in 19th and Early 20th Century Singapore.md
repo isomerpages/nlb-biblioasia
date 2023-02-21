@@ -124,12 +124,11 @@ The early Chinese settlers who migrated to Singapore in the 19th and early 20th 
 
 Today, dialect groupings no longer play such an important role in occupational choice. While employers in the past tended to hire based on similar dialect origin, such clan affiliations are no longer as important in today’s recruitment scene, and have given way to other employment considerations such as educational qualifications and suitable skill sets instead.
 
-
 <br>
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
-<b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
+<img src="/images/Authors/Jaclyn%20Teo.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Jaclyn Teo</b><br> Librarian<br>Lee Kong Chian Reference Library<br>National Library Board</center></div>
 
 #### **REFERENCES**
 
