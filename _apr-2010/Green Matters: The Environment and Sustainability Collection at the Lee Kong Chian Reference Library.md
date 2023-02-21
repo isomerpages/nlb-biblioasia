@@ -7,7 +7,7 @@ description: "Senior Librarian Sara Pek shares highlights from the Environment
 ---
 #### Senior Librarian _Sara Pek_ shares highlights from the Environment and Sustainability Collection at the Lee Kong Chian Reference Library.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"*We are living in this planet as if we had another one to go to.*”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paul Connett<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Professor Emeritus of Chemistry <br>St Lawrence University, Canton, NY1
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"*We are living in this planet as if we had another one to go to.*”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paul Connett<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Professor Emeritus of Chemistry <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;St Lawrence University, Canton, NY1
 
 The first major study2 on the full impact of climate change on human life warns that the world is in the throes of a “silent crisis”. Published in June 2009, it claims that more than 300 million people are seriously affected by global warming today and that number will double by 2030.
 We face many environmental challenges such as water shortages, pollution, global warming and consequent rising sea levels. As citizens of the planet Earth, we can and should take responsibility to save the environment. The Environment and Sustainability collection at the Lee Kong Chian Reference Library aims to inform and provide insights and ideas on a broad spectrum of resources on major environmental trends and issues such as climate change, global warming, sustainable development, green business and buildings and clean technology. This article highlights selected publications from the collection.
@@ -34,7 +34,7 @@ Some of these green books include: *Our choice: A plan to solve the climate cris
 
 #### **Global Race for Clean Resources**
 
-*“Because our economic future depends on our leadership<br> in the industries of the future, we are investing in basic applied<br> research... We know the nation that leads in clean energy<br> will be the nation that leads the world.”*<br> *United States President Barack Obama’s speech3 on the economy<br> and job creation ideas on 8 December 2009.
+ &emsp;&emsp;&emsp;*“Because our economic future depends on our leadership<br>&emsp;&emsp;&emsp;in the industries of the future, we are investing in basic applied <br>&emsp;&emsp;&emsp;research... We know the nation that leads in clean energy<br>&emsp;&emsp;&emsp;will be the nation that leads the world.”*<br>&emsp;&emsp;&emsp;*United States President Barack Obama’s speech3 on the economy<br>&emsp;&emsp;&emsp;and job creation ideas on 8 December 2009.*
 
 The benefits of producing clean and sustainable power from renewable energy sources have received growing attention worldwide, including in Singapore. The International Energy Agency (IEA) reports4 that nations must invest US$37 trillion in energy technologies by 2030 to avoid climate catastrophe and meet energy needs. Asia’s rising “clean technology tigers”5 – China, Japan and South Korea – are poised to win the clean energy race with their hefty investment in clean energy infrastructure and technology.
 
@@ -64,6 +64,3 @@ Green vehicles will soon hit the roads in Singapore. A multiagency taskforce led
 #### **Conclusion**
 
 It is currently believed that science and technology can provide effective solutions to most environmental problems. However, efforts to conserve natural resources and preserve the wilderness and even local culture should not be overlooked to ensure a healthy environment for all living beings on Earth. To quote a recent ad from The Singapore Environmental Council (SEC), “It starts with their lives. It ends with yours.” Humans and animals are all affected by global warming. Go, read green and live green.
-
-
-
