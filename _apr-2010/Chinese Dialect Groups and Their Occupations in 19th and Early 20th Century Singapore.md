@@ -64,24 +64,48 @@ Cantonese were involved in a wide variety of occupations. Seah Eu Chin (1848) ob
 
 Vice was another trade that was reportedly linked to Cantonese (Mak, 1995). The Superintendent of Census remarked that most prostitutes were of Cantonese origin, and newspapers of that period reported that there were a few thousand prostitutes in the Kreta Ayer region, an area that was predominantly occupied by Cantonese. Although there were also Hokkien and Teochew brothels, their numbers decreased due to pressure from Hokkien leaders to close down Hokkien brothels in a bid to undo the shame brought to their dialect group, as well as a ban on the emigration of Teochew women from Chaozhou in the 1880s.
 
-The trades engaged by Cantonese were mainly craftbased and were small in scale. Such trades, when compared to the import and export businesses dominated by Hokkiens, generated much less income and wealth. Thus, Cantonese were generally regarded as less economically well-off than Hokkiens and Teochews.
+The trades engaged by Cantonese were mainly craftbased and were small in scale. Such trades, when compared to the import and export businesses dominated by Hokkiens, generated much less income and 
+Hokkiens and Teochews.
+
+***Hakkas***
+
+Unlike the other dialect groups which were based in one or two prefectures, the presence of Hakkas was extensive throughout China. Known as the nomads of China, the southward migration to Southeast Asia was a natural progression for the community. The term “Hakka” is actually a Cantonese translation for “guest family”, or “ke jia” in Mandarin.
+
+In Singapore, it was documented that Hakkas had settled in South Bridge Road, North Bridge Road and the Lorong Tai Seng area in Paya Lebar (Tan, 1990), while Cheng (1985) also suggested that they had largely settled in Pasir Panjang, Lim Chu Kang, Chua Chu Kang, Kampong Bahru and Jurong.
+
+Like Cantonese, Hakkas were involved in a wide range of craft-related occupations such as shoemaking, garment manufacturing , tailoring and jewellery making. Estimating the numbers and occupations of Chinese in Singapore in 1848, Braddell (1855) recorded that there were about 1,000 Hakkas working as house carpenters, 800 involved as woodcutters, 600 as shopkeepers and traders, 500 as blacksmiths, 400 as tailors and shoemakers, 200 as cabinet makers, 100 as goldsmiths and 100 as barbers. Hakkas (together with the Cantonese) in the Straits Settlements were also recognised by Pickering in 1876 as miners and artisans. Mak (1995) suggested that Hakkas did not seem to like sea-related work, as there was no evidence of any Hakkas working in or near the sea although there were records of Hokkien longshore men, Cantonese boat-builders, and Teochew fishermen.
+
+and Teochew fishermen. Two trades engaged by Hakkas warrant special mention. Pawnbroking was one of them. Regarded as the “poor man’s bank”, pawnshops had more than one hundred years of history in Singapore (Cheng, 1985). Pawnbroking was a service that the poor could utilise to get quick cash in return for a pledge of their valuables. According to Tan and Chua (1990), Hakkas seemed to have dominated this trade right from its beginning. In 1880, Singapore did not have any pawnshops, but the British government subsequently decided to kick start the industry by issuing pawnshop licences to applicants who were willing to pay a fee of $200 per annum. A Dabu Hakka, Mr Ho Yuen Oh, pioneered this industry by successfully obtaining the licences to operate the first eight pawnshops in Singapore. Since then, Hakkas have dominated this trade.
+
+Another trade worth noting was Hakkas’ participation in the textile trade. The textile trade was initially dominated by Teochews and Hokkiens, but Hakkas managed to compete and gain a slice of the market share by directing their textile exports to Johore Bahru, Malacca, Ipoh and some parts of Indonesia, all of which were not covered by the other two dialect groups (Cheng, 1985).
+
+***Hainanese***
+
+Hainanese originated from Hainan Island, which was under the jurisdiction of Guangdong province. Most Hainanese in Singapore had come from either the Wencheng or Qiongzhou districts of Hainan Island (Tan, 1990). Some Hainanese still address themselves as “Kheng Chew Nang” (people of Kheng Chew), the old name for Hainan Island. Currently, Hainanese are the fifth largest dialect group in Singapore, constituting 6.69% of the Chinese population (Leow, 2001).
+Hainanese migrated to Singapore much later than the other dialect groups, mainly because of the late opening of Hainan Island to foreign trade when Hankou was made a treaty port in 1870. Cheng (1985) noted that there was a lack of Hainanese presence in Singapore in the first 20 years after the island’s founding, and the first Hainanese association in Singapore was established only in 1857. This late migration affected Hainanese economically and left them with few employment choices as early settlers such as Hokkiens and Teochews had by then established a firm foundation in the more lucrative businesses like commerce, trade and agriculture. With no business contacts, and possessing a dialect that was not comprehensible to most other groups, Hainanese found it difficult to break into the commercial sector. They eventually carved a niche for themselves in the service industries, dominating a range of occupations largely associated with food and beverages, such as coffee stall holders and assistants, bakers, as well as barmen and waiters in local hotels and restaurants (Yap, 1990). In fact, the signature local concoction ”Singapore Sling” was said to be created by Ngiam Tong Boon, a Hainanese bartender who worked at Raffles Hotel (Conceicao, 2009). Many Hainaneses also found jobs as domestic servants or cooks for European families and rich Peranakan households. It was not unusual for a British family to hire a Hainanese couple with the husband taking charge of both the cook’s and butler’s responsibilities while the wife would assume the role of a housekeeper (Yap, 1990). The experience of working for these European and Peranakan families equipped Hainanese with the culinary skills they are known for even today – Western food and Nyonya cuisine. Due to their jobs in European households and the military bases, clusters of Hainanese could be found in the Bukit Timah, Tanglin, Changi and Nee Soon areas (Tan, 1990).
+
+Hainanese influence could also be found in the areas around Beach Road and Seah Street. These places were peppered with Hainanese coffee shops, a trade which the Hainanese dominated until the 1930s (Yap, 1990). Hainanese chose to enter the food trade as it did not require a large amount of capital investment. They were able to set up simple coffee stalls with just a few pieces of furniture by the roadside serving coffee to the masses. From such humble beginnings, Hainanese eventually progressed and moved their businesses to better locations in shop houses when the rentals for shop houses fell during the Depression years. However, Hainanese dominance in the coffee shop trade waned in the 1930s and gave way to Foochows instead, who operated bigger ventures, were better able to cooperate and were more willing to take advantage of bank loans (Yap, 1990).
+
+***Other Dialect Groups***
+
+Other dialect groups that existed in Singapore included Foochows (who dominate the coffee shop trade after the 1930s), Henghuas and Hokchias (who specialised in the rickshaw and bicycle trades) and Shanghainese (otherwise known as the Waijiangren or Sanjiangren) who were involved in the tailoring, leather goods, antiques, cinema entertainment and sundry goods businesses (Cheng, 1985).
 
 
+#### **Erosion of Dialect Group Identity**
+
+In the past, dialect group identity played an important role in the choice of occupational specialisation among the early Chinese immigrant society. However, the same cannot be said for today. Mak (1995) had, in fact, commented that dialect group identity was by now a “social reality of the past” (p. 189).
+
+There are a number of factors that have brought about this change, one of which could be occupational differentiation. When the island was first founded, the jobs available to the new immigrants were labour-intensive ones that were mostly associated with the primary sectors. The requirements for jobs were similar and employers tended to hire based on similar dialect origins, which also guaranteed similar language, culture and a certain level of trust (Mak, 1995). As the economy advanced and grew, jobs grew in complexity and required different skill sets. As a result, employers began to hire according to one’s skills or education rather than dialect group association. The presence of job placement and training agencies also perpetuated the importance of skills in a successful job search.
+
+A second reason for dialect group erosion could be the decreasing need to maintain ties with clansmen (Tan, 1986). Early immigrants felt a need to band together within similar dialect groups for security and support in a new environment. However, generations later, there is a much lower sense of cultural affinity to China, and a greater focus on nation-building in a multicultural Singapore instead.
+
+Another important factor that contributed to the erosion of dialect group identity would be the “Speak Mandarin” campaign launched in 1979, which promoted the use of Mandarin as a common language in a bid to unify the Chinese of different dialect groups.
 
 
+#### **Conclusion**
+The early Chinese settlers who migrated to Singapore in the 19th and early 20th centuries banded together in their respective dialect groupings for security and support in a new environment, which reinforced the occupational specialisations associated with special dialect groups. Hokkiens, being early arrivals, had gained a lion’s share in lucrative trades like commerce, banking, shipping, and manufacturing, while Teochews were mostly agriculturalists and their financial strength was anchored in the planting and marketing of gambier and pepper. Cantonese dominated the crafts-related trades, Hakkas in pawnbroking, and Hainanese featured prominently in the services sector. While patterns could be observed between the types of occupations and dialect groups, it should be pointed out that the situation of “one dialect group one occupation” never existed and could only be regarded as a myth (Mak, 1995). Hence, even when a dialect group dominated a particular trade, there might still exist minority members from other dialect groups who were involved in the same trade.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Today, dialect groupings no longer play such an important role in occupational choice. While employers in the past tended to hire based on similar dialect origin, such clan affiliations are no longer as important in today’s recruitment scene, and have given way to other employment considerations such as educational qualifications and suitable skill sets instead.
 
 
 
