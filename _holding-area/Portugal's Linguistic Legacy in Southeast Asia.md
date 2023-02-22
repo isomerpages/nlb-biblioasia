@@ -79,25 +79,25 @@ In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in
 To give a flavour of the language, the dictionary contains several poems and songs printed alongside the English translations. One poem, titled “Singapore River”, goes:
 
 Na pertu Riu di Singapura yo andah,
-<b>
+<br>
 Olah klai bunitu seu, ta bakah dia,
-<b>
+<br>
 Jenti, jenti tanu ta beng naki,
-<b>
+<br>
 Bebeh kon kumi
-<b>
+<br>
 Tudu ta buskah.
 
 Or in English:
 
 By the Singapore River I walk,
-<b>
+<br>
 Admiring the sunset,
-<b>
+<br>
 Lots of people are coming, 
-<b>
+<br>
 In search of something
-<b>
+<br>
 To eat and drink.[^15]
 
 #### **Batavia and Tugu Creole**
