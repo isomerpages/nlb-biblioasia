@@ -3,8 +3,6 @@ title: "Neo Tiew: The Man Who Built Lim Chu Kang"
 permalink: /vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/
 description: ""
 ---
-
-
 #### The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 by Alvin Tan
 
@@ -166,7 +164,7 @@ src="/images/Vol%2019%20Issue%201/Neo%20Tiew/combined%20letters.png">
 <div>The letter written by Neo Tiew to the Singapore Chinese Chamber of Commerce during the exhumation of war victims in Singapore on 24 March 1962, which describes the torture and killing of 35 of his family members. The letter was addressed to Ng Aik Huan, who headed the Disposal of Remains Committee established by the chamber to locate, exhume and rebury the remains of war victims. <i>Image reproduced from 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (From National Library, Singapore, call no. Lee Kong Chian Reference Library level 11, RCLOS 959.5703 XJP).</i></div>
 <br>
 Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
-<br>
+<br><br>
 
 * 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (Call no. RCLOS 305.8951 PLE; Accession no. B29487728C)
 <br>
