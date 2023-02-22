@@ -384,4 +384,14 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: "Neo Tiew: The Man Who Built Lim Chu Kang"
+      subtitle: People
+      description: The opening up of Lim Chu Kang owes much to the efforts of Neo
+        Tiew, who helped clear the land and later became the headman of the
+        area.
+      button: Neo Tiew’s Legacy
+      url: /vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/
+      image: /images/Vol 19 Issue 1/Neo Tiew/Neo Tiew_Landscape.jpg
+      alt: Image alt text
 ---
