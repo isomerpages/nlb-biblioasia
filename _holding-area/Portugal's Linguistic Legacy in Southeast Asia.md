@@ -50,6 +50,10 @@ The first Portuguese contacts with Melaka began in 1509 and intensified after Af
 
 Today, Papia Kristang is considered an important identity marker but with little social prestige.[^8] The people remaining in the Portuguese Settlement (in Malay, Kampung Portugis) in Melaka consists of a small group of poor fishermen who are an anthropological curiosity and a tourist attraction. As Papia Kristang is the only surviving Portuguese-based creole in Southeast Asia, it has attracted interest from both Kristang scholars[^9] and other academics.[^10]
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Religious_festival.png)
+<div style="background-color: white;">Religious festivals are a part of life in the predominantly Catholic Eurasian community of Melaka’s Portuguese Settlement. Pictured here is the celebration of Festa San Pedro, or Saint Peter’s Festival. Saint Peter is the patron saint of fishermen.  <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i>
+</div>
+
 Over time, Papia Kristang spread geographically as groups of Portuguese Eurasians moved around the region. Following the capture of Portuguese Melaka by the Dutch in 1641, some Eurasians fled to other places in the region such as Makassar. Subsequently, when the Dutch attacked Makassar in 1660, it led to an exodus of the Eurasians to Larantuka on Flores island. These migratory patterns spread Kristang to other areas outside of Melaka.
 
 ![](/images/Vol%2019%20Issue%201/Portuguese/Portuguese_fort.png)
@@ -110,10 +114,6 @@ Another creole arose after the Portuguese founded Kota Ambon in 1521 in the Spic
 
 In Maluku, the creole later shifted to Ambonese Malay, a local variety of Malay that still retains several Portuguese words. Subsequently, when the Spanish established a garrison in the Maluku Islands in the 17th century, Eurasian families migrated to the Philippines where they founded a town called Ternate in Luzon. There, the creole was relexified as a Spanish-based creole. Today, the language – known as Ternate Chabacano – is no longer recognised by the local Eurasian community as having Portuguese origins. It is only through linguistic and historical research that its Portuguese roots have been identified.[^17]
 
-![](/images/Vol%2019%20Issue%201/Portuguese/Religious_festival.png)
-<div style="background-color: white;">Religious festivals are a part of life in the predominantly Catholic Eurasian community of Melaka’s Portuguese Settlement. Pictured here is the celebration of Festa San Pedro, or Saint Peter’s Festival. Saint Peter is the patron saint of fishermen.  <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i>
-</div>
-
 #### **Flores Creole**
 
 In the 16th century, Portuguese merchants and missionaries began settling in the islands of Flores, Adonara and Solor. The merchant community later split from the missionary community and relocated to Larantuka in Flores. However, these two groups subsequently reunited after Dutch attacks on Solor.
@@ -123,6 +123,10 @@ Later, the two communities also settled in Wureh and Konga, both also in Flores.
 In 1702, as they tried to flee from Dutch influence, the Portuguese community in Flores resettled in Lifau, Timor. Nonetheless, Portuguese linguistic and cultural elements remained in Larantuka. In Larantuka, Portuguese was used liturgically, in the same way Latin continued to be used in European churches long after vernacular languages had replaced Latin as a language of daily communication. The linguistic influence of Portuguese in Christian liturgy in Larantuka remains to this day.
 
 The Portuguese subsequently settled in Dili, on Timor, in 1769. To ensure their safety, in 1859, the Portuguese sold their nominal rights over their other settlements in Flores and Solor in exchange for the Dutch recognition of East Timor as belonging to Portugal. This agreement led to a new wave of migration. *Moradores* (inhabitants) from Flores settled in Sikka while those from Solor moved to Bidau, in the suburbs of Dili. Each spoke its own variant of Portuguese creole, although only the latter is documented. As these creoles came into contact with local languages such as Tetum or with more normative versions of Portuguese, they were gradually phased out. The Solor variant was similar to Papia Kristang and Macanese creole (the creole that developed in Macau), which suggests that it was either derived from one of them or from a common ancestor.[^19]
+	
+![](/images/Vol%2019%20Issue%201/Portuguese/Church.png)
+<div style="background-color: white;">The Immaculate Conception Metropolitan Cathedral in Dili is the main church of the Roman Catholic Archdiocese of Dili, Timor Leste. <i>Photo by Torbenbrinker. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0). </i>
+</div>
 
 #### **Burma and Siam Creoles**
 
@@ -135,10 +139,6 @@ In Thailand, the creole is supposed to have emerged in Ayutthaya and, after its 
 #### **Timor Leste**
 
 The linguistic situation in Timor Leste today is complex and understudied. The territory has 31 ethno-linguistic groups and 46 “kingdoms”.[^21] Timor Leste represents an exception to the decline of Portuguese influence in Southeast Asia. Here, the Portuguese language (not a creole), as well as Catholicism, was used by educated elites to resist the annexation by Indonesia in 1974. After Timor Leste gained independence in 2002, both the Portuguese language and Catholicism were used as a means for fostering national unity among the many loose and decentralised ethnic groups and languages.
-
-![](/images/Vol%2019%20Issue%201/Portuguese/Church.png)
-<div style="background-color: white;">The Immaculate Conception Metropolitan Cathedral in Dili is the main church of the Roman Catholic Archdiocese of Dili, Timor Leste. <i>Photo by Torbenbrinker. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0). </i>
-</div>
 
 Besides Portuguese, the other official language of East Timor is Tetum. Tetum is not usually considered to be a creole; like Malay, it is categorised as an Austronesian language. It has, however, been largely influenced by the Portuguese lexicon and grammar, although Tetum itself has great internal variation.[^22] For historical reasons, Tetum Prasa (“Tetum of the City”), the variety spoken in Díli, is heavily influenced by Portuguese, both lexically and structurally. The written version of Tetum Prasa, used in newspapers, is known as Tetunguês (a portmanteau of “Tetum” and “Portuguese”).
 
