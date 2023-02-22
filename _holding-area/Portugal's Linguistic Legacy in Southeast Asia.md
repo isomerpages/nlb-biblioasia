@@ -166,7 +166,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^6]: Ronald Daus, [<i>Portuguese Eurasian Communities in Southeast Asia</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5196987) (Singapore: Institute of Southeast Asian Studies, 1989). (From National Library, Singapore, call no. RSING 305.869059 DAU); John Byrne, “The Luso-Asians and Other Eurasians: Their Domestic and Diasporic Identities,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 1, The Making of the Luso-Asian World: Intricacies of Engagement</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14267679), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2011). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
-[^7]: Hugo Cardoso, “O Português em Contacto na Ásia e no Pacífico,” in *Manual de Linguística Portuguesa*, ed. Ana Maria Martins and Ernestina Carrilho (Berlin: De Gruyter, 2016), https://library.oapen.org/handle/20.500.12657/23870; Hugo Cardoso, “Contact and Portuguese-Lexified Creoles,” in *The Handbook of Language Contact*, 2nd ed., ed. Raymond Hickey (Hoboken: John Wiley & Sons, 2020), https://www.wiley.com/en-sg/The+Handbook+of+Language+Contact%2C+ 2nd+Edition-p-9781119485056.)
+[^7]: Hugo Cardoso, “O Português em Contacto na Ásia e no Pacífico,” in *Manual de Linguística Portuguesa*, ed. Ana Maria Martins and Ernestina Carrilho (Berlin: De Gruyter, 2016), https://library.oapen.org/handle/20.500.12657/23870; Hugo Cardoso, “Contact and Portuguese-Lexified Creoles,” in *The Handbook of Language Contact*, 2nd ed., ed. Raymond Hickey (Hoboken: John Wiley & Sons, 2020), https://www.wiley.com/en-sg/The+Handbook+of+Language+Contact%2C+ 2nd+Edition-p-9781119485056.
 
 [^8]: Stefanie Pillai, Wen-Yi Soh and Angela S. Kajita, “Family Language Policy and Heritage Language Maintenance of Malacca Portuguese Creole,” *Language & Communication* 37 (July 2014): 75–87, ScienceDirect, https://doi.org/10.1016/j.langcom.2013.12.003.
 
@@ -180,7 +180,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^13]: Kevin Martens Wong, “Kodrah Kristang: The Initiative to Revitalize the Kristang Language in Singapore,” *Language Documentation & Conservation Special Publication*, no. 19 (December 2019): 35–121, https://scholarspace.manoa.hawaii.edu/bitstream/10125/24906/1/ldc-sp19-wong.pdf. See also Kodrah Kristang facebook, accessed 5 December 2022, https://www.facebook.com/kodrahkristang/; Keep Kristang Alive facebook, accessed 5 December 2022, https://www.facebook.com/KristangKL/; and Yo Falah Linggu Kristang, accessed 5 December 2022, https://www.facebook.com/yofalah.linggukristang.
 
-[^14]: Valerie Scully and Catherine Zuzarte, [<i>The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507) Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
+[^14]: Valerie Scully and Catherine Zuzarte, [<i>The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507) (Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
 [^15]: Scully and Zuzarte, [<i>Most Comprehensive Eurasian Heritage Dictionary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507), 28. 
 
@@ -188,7 +188,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^17]: Barbara Dix Grimes, “The Development and Use of Ambonese Malay,” in *Papers in Austronesian Linguistics*, vol. 1 (Canberra: Australian National University, 1991), https://www.sil.org/resources/archives/37426; Eeva Sippola, *Una gramática descriptiva del chabacano de Ternate* (Helsinki: University of Helsinki, 2011), https://helda.helsinki.fi/handle/10138/28255.
 
-[^18]: Maria Alice Marques Viola, *Presença histórica “portuguesa” em Larantuka (séculos XVI e XVII) e suas implicações na contemporaneidade* (PhD diss., Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, 2013); Alice M. Viola, “Presenças históricas portuguesas em Larantuka (Indonésia Oriental)” in *As Lições de Jill Dias: Antropologia, História, África e Academia*, ed. Maria Cardeira and Clara Saraiva (Lisboa: Etnográfica Press, 2013), https://www.academia.edu/8821423/Presenças_históricas_portuguesas_em_Larantuka.
+[^18]: Maria Alice Marques Viola, *Presença Histórica “Portuguesa” em Larantuka (Séculos XVI e XVII) e Suas Implicações na Contemporaneidade* (PhD diss., Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, 2013); Alice M. Viola, “Presenças Históricas Portuguesas em Larantuka (Indonésia Oriental)” in *As Lições de Jill Dias: Antropologia, História, África e Academia*, ed. Maria Cardeira and Clara Saraiva (Lisboa: Etnográfica Press, 2013), https://www.academia.edu/8821423/Presenças_históricas_portuguesas_em_Larantuka.
 
 [^19]: Alan N. Baxter, “Notes on the Creole Portuguese of Bidau, East Timor,” *Journal of Pidgins and Creole Languages* 5, no. 1 (1990): 1–38, John Benjamins e-Platform, https://doi.org/10.1075/jpcl.5.1.02bax.
 
