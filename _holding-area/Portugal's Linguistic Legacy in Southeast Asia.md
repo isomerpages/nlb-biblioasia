@@ -6,6 +6,10 @@ description: ""
 #### While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others.
 By João Oliveira
 
+![](/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png)
+<div style="background-color: white;">A Mardijker couple in Batavia. Mardijkers were the descendants of freed slaves of the Portuguese in India, Africa and the Malay Peninsula. They spoke a Portuguese-based creole. <i>Courtesy of Ian Burnet.</i>
+</div>
+
 Learning a new language opens your mind to new experiences. Sometimes, though, it can open your mind to old ones as well. I began learning Bahasa Indonesia a few years ago, first on my own, and then later under a teacher. Along the way, I kept encountering Indonesian words that sounded a lot like Portuguese words, mainly because those Portuguese words had entered the Indonesian language.
 
 An Indonesian person wakes up in the morning when the sun comes through the *jendela* (from the Portuguese *janela*, or “window”). He gets out of bed, and after completing his morning routine, he takes his business *kemeja* (*camisa*; “shirt”) out of his *almari* (*armário*; “closet”) and gets changed for work.
@@ -36,27 +40,23 @@ Portuguese-based contact languages in Asia arose when Portuguese men, such as tr
 
 There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Melaka; Batavia and Tugu creole in Java; Flores creole in the Flores and Solor islands; the Moluccas creole; Burma creole in Myanmar and Siam creole in Thailand.[^7] With the exception of Papia Kristang, most of the other creoles have become extinct, or are now very close to it.
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Map.png)
+<div style="background-color: white;">There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Melaka; Batavia and Tugu creole in Java; Flores creole in the Flores and Solor islands; the Moluccas creole; Burma creole  in Myanmar and Siam creole in Thailand.
+</div>
+
 #### **Papia Kristang**
 
 The first Portuguese contacts with Melaka began in 1509 and intensified after Afonso de Albuquerque conquered Melaka two years later. The most common name of the Portuguese-based creole of Melaka, Papia Kristang (“Christian speech”), and the local Portuguese settlement, Padri Sa-chang (“land of the priest”), show the deep connection between language, religion, territory and identity.
-
-![](/images/Vol%2019%20Issue%201/Portuguese/Portuguese_fort.png)
-<div style="background-color: white;">The surviving gateway of A Famosa, the Portuguese fort in Melaka, 2015. The fort was built by the Portuguese after they conquered the city in 1511. Today, the only parts of the fort remaining are the Porta de Santiago gateway and the restored Middelburg Bastion, which was added on by the Dutch in 1660. <i>Photo by Chongkian. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0).</i>
-</div>
 
 Today, Papia Kristang is considered an important identity marker but with little social prestige.[^8] The people remaining in the Portuguese Settlement (in Malay, Kampung Portugis) in Melaka consists of a small group of poor fishermen who are an anthropological curiosity and a tourist attraction. As Papia Kristang is the only surviving Portuguese-based creole in Southeast Asia, it has attracted interest from both Kristang scholars[^9] and other academics.[^10]
 
 Over time, Papia Kristang spread geographically as groups of Portuguese Eurasians moved around the region. Following the capture of Portuguese Melaka by the Dutch in 1641, some Eurasians fled to other places in the region such as Makassar. Subsequently, when the Dutch attacked Makassar in 1660, it led to an exodus of the Eurasians to Larantuka on Flores island. These migratory patterns spread Kristang to other areas outside of Melaka.
 
-![](/images/Vol%2019%20Issue%201/Portuguese/Map.png)
-<div style="background-color: white;">There have been Portuguese-based creoles in Southeast Asia: Papia Kristang in Melaka; Batavia and Tugu creole in Java; Flores creole in the Flores and Solor islands; the Moluccas creole; Burma creole  in Myanmar and Siam creole in Thailand.
+![](/images/Vol%2019%20Issue%201/Portuguese/Portuguese_fort.png)
+<div style="background-color: white;">The surviving gateway of A Famosa, the Portuguese fort in Melaka, 2015. The fort was built by the Portuguese after they conquered the city in 1511. Today, the only parts of the fort remaining are the Porta de Santiago gateway and the restored Middelburg Bastion, which was added on by the Dutch in 1660. <i>Photo by Chongkian. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0).</i>
 </div>
 
 While the Dutch conquered Melaka from the Portuguese in 1641, and subsequently ruled it until 1825, they could not dethrone the Portuguese-based creole in Melaka. Many Dutch men ended up marrying Creole-speaking Eurasians and had Creole-speaking slaves of Portuguese descent.[^11] Despite being unrelated to the Portuguese, these slaves were known as Black Portuguese (*Zwarte Portugueesen*) and later Mardijkers (from Malay *merdeka*, which means “free men”, as they were “free” from taxes. The word *merdeka* is in turn derived from *marhardika*, Sanskrit for “freedom”).[^12]
-
-![](/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png)
-<div style="background-color: white;">A Mardijker couple in Batavia. Mardijkers were the descendants of freed slaves of the Portuguese in India, Africa and the Malay Peninsula. They spoke a Portuguese-based creole. <i>Courtesy of Ian Burnet.</i>
-</div>
 
 Many Mardijkers hailed from places in Southeast Asia where Portuguese-based creoles were spoken. The Dutch also recruited native Christian soldiers from the Indian coast who spoke a Portuguese-based creole, which further cemented the creole as a lingua franca. As a result, the presence of Portuguese-based creole solidified in Melaka during more than 180 years of Dutch rule.
 
@@ -75,17 +75,25 @@ In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in
 To give a flavour of the language, the dictionary contains several poems and songs printed alongside the English translations. One poem, titled “Singapore River”, goes:
 
 Na pertu Riu di Singapura yo andah,
+<b>
 Olah klai bunitu seu, ta bakah dia,
+<b>
 Jenti, jenti tanu ta beng naki,
+<b>
 Bebeh kon kumi
+<b>
 Tudu ta buskah.
 
 Or in English:
 
 By the Singapore River I walk,
+<b>
 Admiring the sunset,
+<b>
 Lots of people are coming, 
+<b>
 In search of something
+<b>
 To eat and drink.[^15]
 
 #### **Batavia and Tugu Creole**
