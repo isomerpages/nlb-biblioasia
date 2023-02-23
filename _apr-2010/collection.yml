@@ -2,6 +2,8 @@ collections:
   apr-2010:
     output: true
     order:
+      - "Early Tourist Guidebooks to Singapore: The Handbook to Singapore
+        (1892).md"
       - "Green Matters: The Environment and Sustainability Collection at the Lee
         Kong Chian Reference Library.md"
       - "National Library Distinguished Reader: Insights from Dr Andrew Chew.md"
