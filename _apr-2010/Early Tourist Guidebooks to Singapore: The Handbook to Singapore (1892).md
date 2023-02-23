@@ -10,6 +10,9 @@ description: "The opening of the Suez Canal in 1869 along with advances in
 
 &emsp;&emsp;&emsp;&emsp;&emsp;*“No part of the world is now to be sacred from the intrusive foot of the tourist*<br>&emsp;&emsp;&emsp;&emsp;*and where the traveler goes, guide-books will ultimately follow….”*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;G. M. Reith, Padre in partibus, p. 1.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/TouristGuidebooks/Handbook%20to%20Singapore.jpg">
+ <div style="background-color: white;">Inside page to <i>Handbook to Singapore</i> (Reith, 1892)</div>
+
 Travellers from Europe saw their journey to the East cut down by as much as half when the Suez Canal opened in 1869. Steamships, helped along with advances in their engine development, were preferred over sailing ships as they proved faster and more efficient. Beginning as mail services dispatching post, ships from companies like the Peninsular and Oriental Steam Navigation Company soon became vessels for ferrying passengers. In turn, travelogues written by the adventurous sojourner who happened to be sailor, civil servant or missionary soon evolved into travel guides published by travel companies for the paying tourist seeking a leisurely but safe journey to the mystical but demystified Far East.
 
 #### **A Useful Vade-Mecum**
@@ -20,12 +23,20 @@ At a time when guidebooks for the Western hemisphere were being churned out by s
 
 This “useful vade-mecum” (Reith, 1892, p. iii) or ready reference was designed to help visitors who had merely a few hours to a few days in the town. In contrast, earlier guides that had preceded it, namely, *The Stranger’s guide to Singapore* (1890) by B. E. D’ Aranjo and *Picturesque and busy Singapore* (1887) by T. J. Keaghran had proved too “limited” in their “scope” (Aranjo’s) (Reith, 1892, p. iii) or “too general to be of practical value” (Keaghran’s) (Reith, 1892, p. iii).
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/TouristGuidebooks/Stranger's%20guide%20to%20Singapore1.jpg">
+ <div style="background-color: white;">Inside page to <i>The Stranger’s Guide to Singapore,</i> 1914.</div>
+
 Segmented into 15 chapters, the guide starts off with a condensed historical overview of Singapore beginning with its founding in 1819 by Stamford Raffles[^2] and giving insightful details of events prior to 1900. Reith’s historical overview is based on Buckley’s articles in the *Singapore Free Press* entitled *Anecdotal history of Singapore* which later was to be published as an important text on Singapore’s history.
 
+
 #### **Descriptions of the Environs**
+
 Following this is a general description of the town and its environs, walking tours or drives, descriptions of buildings and landmarks as well as places of worship and hospitals. Reith does not merely describe landscape and landmark, but waxes lyrical over scenery and the island’s natural beauty. For example in describing the approach to Singapore from the west, he notes:
 
 &emsp;&emsp;&emsp;*“The scenery has a quiet beauty that impresses every <br> spectator; and as the water in the channel is generally smooth,<br>  all are able to enjoy the prospect. Every now and then the<br>  ship startles a gar-fish that skips nimbly over the surface of<br>  the water to a safe distance. Occasionally a golden-coloured<br> watersnake may be seen hurrying away from the bows.”*<br>  (Reith, 1892, p. 26).
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/TouristGuidebooks/Harbour1.jpg">
+ <div style="background-color: white;">View of the Harbour (<i>Souvenir of Singapore,</i> 1914, p. 6).</div>
 
 He highlights details which set off the unusual beauty surrounding the island. For example, in the same passage he points to a common optical illusion in which the distant southern islands seem to be suspended above the sea.
 
