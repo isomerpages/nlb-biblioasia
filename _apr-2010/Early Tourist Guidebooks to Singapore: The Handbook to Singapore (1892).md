@@ -18,5 +18,12 @@ At a time when guidebooks for the Western hemisphere were being churned out by s
 
  &emsp;&emsp;&emsp;*“It is intended to supply a felt want in Singapore; to give in a <br> handy form some notes historical, descriptive, scientific, &c, <br> in regard to the town and island; to afford what information is necessary <br> to guide visitors during their stay, and to obviate some <br> of the difficulties which travelers always encounter in a strange  <br>place.”* (Reith, 1892, p. iii).
 
+This “useful vade-mecum” (Reith, 1892, p. iii) or ready reference was designed to help visitors who had merely a few hours to a few days in the town. In contrast, earlier guides that had preceded it, namely, *The Stranger’s guide to Singapore* (1890) by B. E. D’ Aranjo and *Picturesque and busy Singapore* (1887) by T. J. Keaghran had proved too “limited” in their “scope” (Aranjo’s) (Reith, 1892, p. iii) or “too general to be of practical value” (Keaghran’s) (Reith, 1892, p. iii).
+
+Segmented into 15 chapters, the guide starts off with a condensed historical overview of Singapore beginning with its founding in 1819 by Stamford Raffles2 and giving insightful details of events prior to 1900. Reith’s historical overview is based on Buckley’s articles in the *Singapore Free Press* entitled *Anecdotal history of Singapore* which later was to be published as an important text on Singapore’s history.
+
+#### **Descriptions of the Environs**
+Following this is a general description of the town and its environs, walking tours or drives, descriptions of buildings and landmarks as well as places of worship and hospitals. Reith does not merely describe landscape and landmark, but waxes lyrical over scenery and the island’s natural beauty. For example in describing the approach to Singapore from the west, he notes:
+
 
 
