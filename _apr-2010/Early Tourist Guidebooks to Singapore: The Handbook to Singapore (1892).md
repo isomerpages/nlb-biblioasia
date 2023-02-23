@@ -27,7 +27,10 @@ Following this is a general description of the town and its environs, walking to
 
 &emsp;&emsp;&emsp;*“The scenery has a quiet beauty that impresses every <br> spectator; and as the water in the channel is generally smooth,<br>  all are able to enjoy the prospect. Every now and then the<br>  ship startles a gar-fish that skips nimbly over the surface of<br>  the water to a safe distance. Occasionally a golden-coloured<br> watersnake may be seen hurrying away from the bows.”*<br>  (Reith, 1892, p. 26).
 
+He highlights details which set off the unusual beauty surrounding the island. For example, in the same passage he points to a common optical illusion in which the distant southern islands seem to be suspended above the sea.
+In Chapter Four, he gives directions for four tours around and beyond the town, each one accommodating a tourist’s length of stay which could vary from a few hours to half a day. The tours skirt around the wharves through the town to locations such as the Botanical Gardens, the Impounding Reservoir (MacRitchie Reservoir), a climb up Mount Faber, and a carriage ride to Johore Bahru. In delineating the journeys, Reith also paints a three-dimensional picture of Singapore town in the late 19th century, highlighting familiar locations and landmarks now long forgotten, and capturing the leisurely lifestyle of the expatriate along with the labouring duties of the natives.
 
+&emsp;&emsp;&emsp;*“(There) lies the Esplanade (Padang Besar) a large plain, <br> encircled by a well-laid-out carriage drive. The Singapore <br> Cricket Club, and the Singapore Recreation Club divide the <br> plain between them for the purpose of cricket, tennis, bowls, <br> and other athletic sports, and in the centre stands a fine statue <br> of Sir T. Stamford Raffles, erected in 1887. A large part of  <br>the Esplanade occupies ground recently reclaimed from the <br> sea; and it is now a favourite afternoon resort of the residents. <br>On the landward side are the Hotel de l’Europe (Punchaus Besar) <br> and St. Andrew’s Cathedral (Greja Besar)…”* (Reith, 1892, p. 36).
 
 
 
