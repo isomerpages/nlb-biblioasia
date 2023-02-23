@@ -82,6 +82,9 @@ Reith had taken some pains to ensure that the published information was accurate
 Mary Turnbull, in her review of the 1985 reprint summarises the handbook’s value succinctly, thus accounting for its repeated reprints across almost a century:
 
  &emsp;&emsp;&emsp;*“Designed for the days of leisurely sea travel, the Handbook is more informative than more modern counterparts, assuming an intelligent interest in government and civic matters. It thus provides the modern reader with a clear picture of some aspects of Singapore life at the turn of the century, although heavily slanted towards the expatriate minority.”* (Turnbull, 1988, p. 302).
+ 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/TouristGuidebooks/Local%20people1.jpg">
+ <div style="background-color: white;">The local people (<i>Souvenir of Singapore,</i> p. 8).</div>
 
 Kratoska, in his introduction to the 1985 reprint of the handbook, notes that “Something of the character of the late Victorian traveler can be seen from the information Reith provides and the sights he recommends. The attraction was not Asia but European activities and accomplishments in Asia, and the city’s main points of interest were the fruit of the Public Works Department’s art.” (Reith, 1985, pp. v–vi). Turnbull, however, counters Kratoska’s criticism of the text as being Europeancentric by pointing out that “the guide was enterprising for its day in recommending strolls through the “native quarters” and shopping forays into the “Thieves Market” in Rochor (Turnbull, 1988, p. 302).
 
