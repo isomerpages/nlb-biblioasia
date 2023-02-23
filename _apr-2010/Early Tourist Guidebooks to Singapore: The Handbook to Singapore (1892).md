@@ -68,5 +68,13 @@ Reith seemed aware of the cultural tightrope he walked when writing his guides a
 
  &emsp;&emsp;&emsp;*“If offence has been given by some of my remarks <br> and criticisms, I am heartily sorry; none was intended:<br>  but in this age one cannot put pen to paper without unwittingly <br> wounding somebody’s sensibilities, especially when the manners<br>  and customs of other nations are involved… Nations very<br>  naturally feel hurt when they are taken at anything lower than<br>  their own estimate, or described in terms which do not correspond<br>  with their own glorified ideas of themselves. But the description <br> that startles and hurts them does not mean envy or<br>  malice in the describer – at least not usually; it is sometimes<br>  done with the best intentions.”* (Reith, 1897, p. ii)
 
+And then as if to explain both why such offence is likely to be made by one especially from the British Isles, and how the Briton can sustain similar criticisms, he says:
+
+&emsp;&emsp;&emsp;*“The Briton seems to be the only person in the world who  <br> can take the prick of a foreign free-lance with a laugh and a <br>  careless shrug of the shoulders. This no doubt is due to <br>  the invulnerable vanity and insufferable arrogance of the Anglo-Saxon, <br>  about which other nations are in a chronic state of eloquence… <br>  Most of our countrymen, however, live in healthy  <br> and blissful ignorance of what their neighbours think and say of <br>  them: and it is well that they should be so.”* (Reith, 1897, p. ii)
+
+Both Kratoska and Turnbull agree that the handbook is a child of its time – “a competent guide to a colonial city and a colonial way of life” (Reith, 1985, p. x) as well as offering “a justifiable pride in showing off the settlement to visitors” (Turnbull, 1988, p. 302). It was after all written from a British perspective for the Western tourist and we must read it with a Scotsman’s sense of humour!
+
+The guidebook can be read online at the Singapore Pages at http://sgebooks.nl.sg/details/020000003.html. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at http://sgebooks.nl.sg/details/020000029.html
+
 
 
