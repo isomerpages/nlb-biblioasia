@@ -25,5 +25,9 @@ Segmented into 15 chapters, the guide starts off with a condensed historical ove
 #### **Descriptions of the Environs**
 Following this is a general description of the town and its environs, walking tours or drives, descriptions of buildings and landmarks as well as places of worship and hospitals. Reith does not merely describe landscape and landmark, but waxes lyrical over scenery and the island’s natural beauty. For example in describing the approach to Singapore from the west, he notes:
 
+&emsp;&emsp;&emsp;*“The scenery has a quiet beauty that impresses every <br> spectator; and as the water in the channel is generally smooth,<br>  all are able to enjoy the prospect. Every now and then the<br>  ship startles a gar-fish that skips nimbly over the surface of<br>  the water to a safe distance. Occasionally a golden-coloured<br> watersnake may be seen hurrying away from the bows.”*<br>  (Reith, 1892, p. 26).
+
+
+
 
 
