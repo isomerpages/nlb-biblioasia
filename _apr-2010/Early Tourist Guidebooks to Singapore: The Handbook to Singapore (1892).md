@@ -121,6 +121,13 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
 
 • Wen, C. \[pseud\], Reith, G. M. (Ed.). (1901). _[The Chinese crisis from within](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12664635)_. London: Grant Richards. \[Call no.: RRARE 951.04 LIM; Microfilm no.: NL24331\]
 
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<center> <b>Bonny Tan</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
+
+
 #### **REFERENCES**
 
 Buckley, C. B. (1902). _An anecdotal history of old times in Singapore: (with portraits and illustrations) from the foundation of the settlement ... on February 6th, 1819 to the transfer to the Colonial Office ... on April 1st, 1867_. (Vol. [1](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) & [2](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx)). Singapore: Fraser & Neave. From BookSG; Call no.: RRARE 959.57 BUC; Microfilm no.: NL269
@@ -190,7 +197,3 @@ Turnbull, C. M. (1988). Reviewed work(s): 1907 Handbook to Singapore by G. M. Re
 [^3]: Davison’s and Ridley’s articles are found in chapter 13, but Davison’s is an abridged version of the original.
 
 [^4]: Reith argued against labour on Sunday despite the increase in wages. The matter was being discussed at the Colonial Office particularly among shipping firms, docks and mariners. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37)_, (1891, September 21), p. 2.
-
-
-
-
