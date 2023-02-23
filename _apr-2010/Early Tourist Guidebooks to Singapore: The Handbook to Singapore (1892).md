@@ -14,13 +14,13 @@ Travellers from Europe saw their journey to the East cut down by as much as half
 
 #### **A Useful Vade-Mecum**
 
-At a time when guidebooks for the Western hemisphere were being churned out by such publishers as Murray and Badaeker, Rev. George Murray Reith, resident minister of the local Presbyterian Church, took it upon himself to write a handy guide to Singapore for visitors to the town.
+At a time when guidebooks for the Western hemisphere were being churned out by such publishers as Murray and Badaeker, Rev. George Murray Reith, resident minister of the local Presbyterian Church, took it upon himself to write a handy guide to Singapore for visitors to the town.[^1]
 
  &emsp;&emsp;&emsp;*“It is intended to supply a felt want in Singapore; to give in a <br> handy form some notes historical, descriptive, scientific, &c, <br> in regard to the town and island; to afford what information is necessary <br> to guide visitors during their stay, and to obviate some <br> of the difficulties which travelers always encounter in a strange  <br>place.”* (Reith, 1892, p. iii).
 
 This “useful vade-mecum” (Reith, 1892, p. iii) or ready reference was designed to help visitors who had merely a few hours to a few days in the town. In contrast, earlier guides that had preceded it, namely, *The Stranger’s guide to Singapore* (1890) by B. E. D’ Aranjo and *Picturesque and busy Singapore* (1887) by T. J. Keaghran had proved too “limited” in their “scope” (Aranjo’s) (Reith, 1892, p. iii) or “too general to be of practical value” (Keaghran’s) (Reith, 1892, p. iii).
 
-Segmented into 15 chapters, the guide starts off with a condensed historical overview of Singapore beginning with its founding in 1819 by Stamford Raffles2 and giving insightful details of events prior to 1900. Reith’s historical overview is based on Buckley’s articles in the *Singapore Free Press* entitled *Anecdotal history of Singapore* which later was to be published as an important text on Singapore’s history.
+Segmented into 15 chapters, the guide starts off with a condensed historical overview of Singapore beginning with its founding in 1819 by Stamford Raffles[^2] and giving insightful details of events prior to 1900. Reith’s historical overview is based on Buckley’s articles in the *Singapore Free Press* entitled *Anecdotal history of Singapore* which later was to be published as an important text on Singapore’s history.
 
 #### **Descriptions of the Environs**
 Following this is a general description of the town and its environs, walking tours or drives, descriptions of buildings and landmarks as well as places of worship and hospitals. Reith does not merely describe landscape and landmark, but waxes lyrical over scenery and the island’s natural beauty. For example in describing the approach to Singapore from the west, he notes:
@@ -28,6 +28,7 @@ Following this is a general description of the town and its environs, walking to
 &emsp;&emsp;&emsp;*“The scenery has a quiet beauty that impresses every <br> spectator; and as the water in the channel is generally smooth,<br>  all are able to enjoy the prospect. Every now and then the<br>  ship startles a gar-fish that skips nimbly over the surface of<br>  the water to a safe distance. Occasionally a golden-coloured<br> watersnake may be seen hurrying away from the bows.”*<br>  (Reith, 1892, p. 26).
 
 He highlights details which set off the unusual beauty surrounding the island. For example, in the same passage he points to a common optical illusion in which the distant southern islands seem to be suspended above the sea.
+
 In Chapter Four, he gives directions for four tours around and beyond the town, each one accommodating a tourist’s length of stay which could vary from a few hours to half a day. The tours skirt around the wharves through the town to locations such as the Botanical Gardens, the Impounding Reservoir (MacRitchie Reservoir), a climb up Mount Faber, and a carriage ride to Johore Bahru. In delineating the journeys, Reith also paints a three-dimensional picture of Singapore town in the late 19th century, highlighting familiar locations and landmarks now long forgotten, and capturing the leisurely lifestyle of the expatriate along with the labouring duties of the natives.
 
 &emsp;&emsp;&emsp;*“(There) lies the Esplanade (Padang Besar) a large plain, <br> encircled by a well-laid-out carriage drive. The Singapore <br> Cricket Club, and the Singapore Recreation Club divide the <br> plain between them for the purpose of cricket, tennis, bowls, <br> and other athletic sports, and in the centre stands a fine statue <br> of Sir T. Stamford Raffles, erected in 1887. A large part of  <br>the Esplanade occupies ground recently reclaimed from the <br> sea; and it is now a favourite afternoon resort of the residents. <br>On the landward side are the Hotel de l’Europe (Punchaus Besar) <br> and St. Andrew’s Cathedral (Greja Besar)…”* (Reith, 1892, p. 36).
@@ -38,7 +39,7 @@ He also gives an interesting perspective on the Raffles Library’s standing dur
 
 Chapter Five offers descriptions of public buildings and places of interest, listing them alphabetically, many of which are no longer extant. They include the gaol which used to stand at the Sepoy Lines, Boustead Institute and the Chinese Protectorate. Others are of large spaces like Bukit Timah hill, the dockyards and the esplanade. Many of them are of government buildings and civic locations although he does highlight unusual local buildings and sights such as the Shrine of Iskandar Khan and the Shrine of Habib Noor along with Whampoa’s garden.
 
-Other useful information such as a listing of clubs, societies, banks, consulates, religious buildings, hospitals, hotels and shops are also compiled in subsequent chapters. Of pragmatic importance are the rates for hiring private and hackney carriages, listed with tables of distance and relevant fares. The principal steamship lines and agents along with a listing of ports are given in a separate chapter. Statistical details of population, imports, exports, shipping and even weather conditions reflect the dynamics between trade and people in Singapore at the turn of the century. There is even a chapter on the fauna, flora and geology of the island. He credits W. Davison of the Raffles Library and Museum for his work on the fauna, and H. N. Ridley for his piece on the flora and geology of Singapore, both of which were published in his handbook.3
+Other useful information such as a listing of clubs, societies, banks, consulates, religious buildings, hospitals, hotels and shops are also compiled in subsequent chapters. Of pragmatic importance are the rates for hiring private and hackney carriages, listed with tables of distance and relevant fares. The principal steamship lines and agents along with a listing of ports are given in a separate chapter. Statistical details of population, imports, exports, shipping and even weather conditions reflect the dynamics between trade and people in Singapore at the turn of the century. There is even a chapter on the fauna, flora and geology of the island. He credits W. Davison of the Raffles Library and Museum for his work on the fauna, and H. N. Ridley for his piece on the flora and geology of Singapore, both of which were published in his handbook.[^3]
 
 #### **Colloquial Expressions**
 
@@ -85,7 +86,7 @@ The eldest son of Dr Archibald Reith, George Murray obtained his MA at Aberdeen 
 
 #### **Presbyterian Minister**
 
-He was the eighth minister appointed to the Presbyterian church since the founding of the local church in 1856. It came under the jurisdiction of the Presbytery of London (North) as many of the merchants who attended this church would retire to London. However, the church was always associated with the Scots who had formed the first congregation. The church building at Stamford Road was established more than a decade earlier in 1878 prior to Reith’s arrival. Ministers stayed between four and six years, so Reith’s term of about seven years was considered long. He preached at the Presbyterian church as well as the Boustead Institute each Sunday. Besides this, he also conducted monthly lectures on Church history and Biblical Criticism along with special classes on the background to Scotland. He was unafraid to engage the authorities in controversial matters such as labouring on Sundays4 and the problems of gambling at the races. Nicknamed the Presbyterian padre, likely after his publication Padre in partibus (1897), he was succeeded by Rev S. Stephen Walker in 1896 after which Reith returned to Edinburgh in Scotland.
+He was the eighth minister appointed to the Presbyterian church since the founding of the local church in 1856. It came under the jurisdiction of the Presbytery of London (North) as many of the merchants who attended this church would retire to London. However, the church was always associated with the Scots who had formed the first congregation. The church building at Stamford Road was established more than a decade earlier in 1878 prior to Reith’s arrival. Ministers stayed between four and six years, so Reith’s term of about seven years was considered long. He preached at the Presbyterian church as well as the Boustead Institute each Sunday. Besides this, he also conducted monthly lectures on Church history and Biblical Criticism along with special classes on the background to Scotland. He was unafraid to engage the authorities in controversial matters such as labouring on Sundays[^4] and the problems of gambling at the races. Nicknamed the Presbyterian padre, likely after his publication Padre in partibus (1897), he was succeeded by Rev S. Stephen Walker in 1896 after which Reith returned to Edinburgh in Scotland.
 
 #### **Community Contributions**
 
@@ -181,8 +182,3 @@ _[The traveller’s Malay pronouncing hand-book: For the use of travelers and ne
 Turnbull, C. M. (1988). Reviewed work(s): 1907 Handbook to Singapore by G. M. Reith. _The China Quarterly_, 114, 301–302. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 #### **NOTES**
-
-
-
-
-
