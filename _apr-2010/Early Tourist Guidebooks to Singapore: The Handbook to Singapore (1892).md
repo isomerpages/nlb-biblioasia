@@ -44,7 +44,29 @@ Other useful information such as a listing of clubs, societies, banks, consulate
 
 Throughout the text, Reith gives the colloquial place names mainly in Malay of colonial buildings and landmarks with footnotes giving pronunciation as well as English translations. A longer listing of Malay place names alongside their English names are given in Chapter 9, revealing how the locals viewed some of these colonial landmarks. For example, the Masonic Hall was known familiarly as “Rumah Hantu” (Reith, 1892, p. 90) or “Haunted House” and so the Methodist Episcopal Church that had just been established beside it was known as “Greja dekat Rumah Hantu” (Reith, 1892, p. 90) or the “church near by the Haunted House”. Also listed are Malay terms for giving directions to hackney carriage drivers such as “Turn the Carriage” – “Pusing kreta”, “Light the lamps” – “Pasang pelita (or Lampo)”, “Too much” – “Banyak chukup” and “Off with you!” – “Pulang!” (Reith, 1892, p. 92-93). He concludes with advice to purchase the *Malay pronouncing handbook*, published in 1886, to better equip the visitor in communicating with the locals.
 
-A full chapter, the last in the book, focuses on the Malay language and literature and was commended by Paul Kratoska in the introduction to the 1985 reprint as “a competent summary of the then current views on the Malay language” (Reith, 1985, p.v). Here, Reith reveals his appreciation for the poetic nuances found in local expressions:
+A full chapter, the last in the book, focuses on the Malay language and literature and was commended by Paul Kratoska in the introduction to the 1985 reprint as “a competent summary of the then current views on the Malay language” (Reith, 1985, p. v). Here, Reith reveals his appreciation for the poetic nuances found in local expressions:
+
+&emsp;&emsp;&emsp;*“Many of the common words and phrases of ordinary life <br> are, from a Western point of view, highly poetical, owing to the <br> childlike, but artistic combination of ideas that are not naturally <br> connected. The Malay, for example, calls the <br> sun Mata-hari, “the eye of day,” he speaks of  <br>a brook as anak sungei, “the son of a river,” when <br> he is sorrowful or angry he says he is sakit hati, <br> “sick at heart”…”* (Reith, 1892, p. 130)
+
+Reith also introduces the reader to the wealth of Malay literature ranging from its dramatic legends to the profound truths found in *pantuns* or poems while lamenting the loss of “a valuable collection of Malay manuscripts, made by Sir Stamford Raffles” (Reith, 1892, p. 133) when his ship went up in flames.
+
+#### **Illustrations and Advertisements**
+
+Although there are no sketches, photographs or illustrations, there is a useful map of Singapore with an accompanying index. Interestingly, a plan of the Botanical Gardens is also the only other illustrated panel in this publication. Unfortunately, the Library’s copy lacks the town map and plan of the gardens. Eleven pages of text-based advertisements end off the guide and show some aspects of the early companies and agencies that helped fuel the tourist trade.
+
+#### **Reprints, Reviews and Remiss**
+
+Reith had taken some pains to ensure that the published information was accurate although in the late 19th century, this had proved difficult. Even so, Reith had pre-empted a reprint of the guide saying: “… it is hoped that future editions… will correct the errors that may have crept into this edition” (Reith, 1892, p. iii). Indeed, some 15 years later, Walter Makepeace would help update the guide, adding an extra chapter on the Federated Malay States and photographic plates of landmarks and sights in Singapore by G. R. Lambert, besides providing the most current statistical and informative data for 1907. This version of the guide remained highly valued with a reprint made in 1985 by Oxford Press with an insightful introduction by Paul Kratoska.
+
+Mary Turnbull, in her review of the 1985 reprint summarises the handbook’s value succinctly, thus accounting for its repeated reprints across almost a century:
+
+ &emsp;&emsp;&emsp;*“Designed for the days of leisurely sea travel, the Handbook is more informative than more modern counterparts, assuming an intelligent interest in government and civic matters. It thus provides the modern reader with a clear picture of some aspects of Singapore life at the turn of the century, although heavily slanted towards the expatriate minority.”* (Turnbull, 1988, p. 302).
+
+Kratoska, in his introduction to the 1985 reprint of the handbook, notes that “Something of the character of the late Victorian traveler can be seen from the information Reith provides and the sights he recommends. The attraction was not Asia but European activities and accomplishments in Asia, and the city’s main points of interest were the fruit of the Public Works Department’s art.” (Reith, 1985, pp. v–vi). Turnbull, however, counters Kratoska’s criticism of the text as being Europeancentric by pointing out that “the guide was enterprising for its day in recommending strolls through the “native quarters” and shopping forays into the “Thieves Market” in Rochor (Turnbull, 1988, p. 302).
+
+Reith seemed aware of the cultural tightrope he walked when writing his guides and travelogues, and had published an open apology for any offence inadvertently made which he published in his subsequent book, *Padre* (1897):
+
+ &emsp;&emsp;&emsp;*“If offence has been given by some of my remarks <br> and criticisms, I am heartily sorry; none was intended:<br>  but in this age one cannot put pen to paper without unwittingly <br> wounding somebody’s sensibilities, especially when the manners<br>  and customs of other nations are involved… Nations very<br>  naturally feel hurt when they are taken at anything lower than<br>  their own estimate, or described in terms which do not correspond<br>  with their own glorified ideas of themselves. But the description <br> that startles and hurts them does not mean envy or<br>  malice in the describer – at least not usually; it is sometimes<br>  done with the best intentions.”* (Reith, 1897, p. ii)
 
 
 
