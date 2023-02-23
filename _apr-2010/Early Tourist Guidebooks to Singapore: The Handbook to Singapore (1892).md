@@ -74,8 +74,8 @@ And then as if to explain both why such offence is likely to be made by one espe
 
 Both Kratoska and Turnbull agree that the handbook is a child of its time – “a competent guide to a colonial city and a colonial way of life” (Reith, 1985, p. x) as well as offering “a justifiable pride in showing off the settlement to visitors” (Turnbull, 1988, p. 302). It was after all written from a British perspective for the Western tourist and we must read it with a Scotsman’s sense of humour!
 
-The guidebook can be read online at the Singapore Pages at http://sgebooks. nl.sg/details/020000657.html">
- http://sgebooks. nl.sg/details/020000657.html</a>) The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at http://sgebooks. nl.sg/details/020000657.html">http://sgebooks.nl.sg/details/020000657.html</a>
+The guidebook can be read online at the Singapore Pages at  <a href="http://sgebooks.nl.sg/details/020000657.html">http://sgebooks.nl.sg/details/020000657.html</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at  <a href="http://sgebooks.nl.sg/details/020000657.html">http://sgebooks.nl.sg/details/020000657.html</a>
+
 
 
 
