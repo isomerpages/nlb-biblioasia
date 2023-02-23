@@ -182,3 +182,15 @@ _[The traveller’s Malay pronouncing hand-book: For the use of travelers and ne
 Turnbull, C. M. (1988). Reviewed work(s): 1907 Handbook to Singapore by G. M. Reith. _The China Quarterly_, 114, 301–302. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 #### **NOTES**
+
+[^1]: Library’s bibliographic record indicates “Imperfect copy”.
+
+[^2]: It does however touch on early references to the island in Malay legend found in the _Sejarah Melayu_ and in the _Lusiad_ of Cameon – a Portuguese epic.
+
+[^3]: Davison’s and Ridley’s articles are found in chapter 13, but Davison’s is an abridged version of the original.
+
+[^4]: Reith argued against labour on Sunday despite the increase in wages. The matter was being discussed at the Colonial Office particularly among shipping firms, docks and mariners. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37)_, (1891, September 21), p. 2.
+
+
+
+
