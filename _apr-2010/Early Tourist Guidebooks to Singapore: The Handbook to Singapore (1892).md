@@ -44,11 +44,17 @@ In Chapter Four, he gives directions for four tours around and beyond the town, 
 
 &emsp;&emsp;&emsp;*“(There) lies the Esplanade (Padang Besar) a large plain, <br> encircled by a well-laid-out carriage drive. The Singapore <br> Cricket Club, and the Singapore Recreation Club divide the <br> plain between them for the purpose of cricket, tennis, bowls, <br> and other athletic sports, and in the centre stands a fine statue <br> of Sir T. Stamford Raffles, erected in 1887. A large part of  <br>the Esplanade occupies ground recently reclaimed from the <br> sea; and it is now a favourite afternoon resort of the residents. <br>On the landward side are the Hotel de l’Europe (Punchaus Besar) <br> and St. Andrew’s Cathedral (Greja Besar)…”* (Reith, 1892, p. 36).
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/TouristGuidebooks/Buidings%20&%20landmarks%20Esplanade1.jpg">
+ <div style="background-color: white;">Buildings and landmarks around the Esplanade (<i>Souvenir of Singapore,</i> 1914, p. 12).</div>
+
 He also gives an interesting perspective on the Raffles Library’s standing during that era with an interesting emphasis on J. R. Logan’s collection of philological works:
 
 &emsp;&emsp;&emsp;*“The Raffles Library and Museum (Tempat Kitab)… <br>  is well worth a visit, for the Library is one of the largest  <br> and most comprehensive in the East, and the Museum, which  <br> is being daily enriched by zoological, mineralogical, ethnological <br>  and archaeological collections from the Peninsula and the <br>  Archipelago, promises to be, in time, one of the finest exhibitions <br>  of its kind in Asia…There is a valuable collection of Oriental <br>  literature, called the Logan Library, access to which may be <br>  obtained by special permission from the Secretary.”* (Reith, 1892, pp. 36–37).
 
 Chapter Five offers descriptions of public buildings and places of interest, listing them alphabetically, many of which are no longer extant. They include the gaol which used to stand at the Sepoy Lines, Boustead Institute and the Chinese Protectorate. Others are of large spaces like Bukit Timah hill, the dockyards and the esplanade. Many of them are of government buildings and civic locations although he does highlight unusual local buildings and sights such as the Shrine of Iskandar Khan and the Shrine of Habib Noor along with Whampoa’s garden.
+
+<img style="width:80%;" src="images/Vol%206%20Issue%201/TouristGuidebooks/Hotel%20dining%20room1.jpg">
+ <div style="background-color: white;">The dining room of a hotel (<i>Souvenir of Singapore,</i> 1914).</div>
 
 Other useful information such as a listing of clubs, societies, banks, consulates, religious buildings, hospitals, hotels and shops are also compiled in subsequent chapters. Of pragmatic importance are the rates for hiring private and hackney carriages, listed with tables of distance and relevant fares. The principal steamship lines and agents along with a listing of ports are given in a separate chapter. Statistical details of population, imports, exports, shipping and even weather conditions reflect the dynamics between trade and people in Singapore at the turn of the century. There is even a chapter on the fauna, flora and geology of the island. He credits W. Davison of the Raffles Library and Museum for his work on the fauna, and H. N. Ridley for his piece on the flora and geology of Singapore, both of which were published in his handbook.[^3]
 
