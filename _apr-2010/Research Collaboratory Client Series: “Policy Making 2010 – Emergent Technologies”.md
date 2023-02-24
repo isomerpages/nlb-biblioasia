@@ -8,6 +8,9 @@ description: "How will emergent technologies shape policy making? Research
 ---
 #### How will emergent technologies shape policy making? Research Associate Samuel Sng shares insights gleaned from the 2010 Research Collaboratory Client Series.
 
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/EmergentTechnologies/RC%20client%20series%2018%20Dec%20(1).jpg">
+ <div style="background-color: white;">Participants listening with rapt attention to the speakers.</div>
+
 How will emergent technologies shape policy making? This theme was pertinent enough to attract more than 100 representatives from mostly government agencies to the inaugural Research Collaboratory Client Series in December last year at the National Library Building. Hosted by the Publishing and Research Services (PRS) of the National Library Board (NLB), this public forum showcased divergent perspectives of experts from various disciplines.
 
 In her welcome speech, NLB’s Deputy Chief Executive, Ms Ngian Lek Choh, said that with the ubiquitous acceptance of Web 2.0, policymakers and institutions can benefit from this environment by interchanging the role of proponent and recipient.
@@ -43,8 +46,3 @@ The day’s proceedings culminated with an insightful panel discussion by the sp
 **Q: What will be considered the “sexiest” jobs in the next five years?**
 
 *Games developer, new generation social worker, statistician, data visualiser and librarian.*
-
-
-
-
-
