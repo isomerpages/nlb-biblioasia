@@ -30,7 +30,19 @@ The Chinese and Indian diaspora in children’s fiction has grown in importance 
 
 From the author who wrote the novel *Bend It Like Beckham*, *Bindi Babes* focuses on the life episodes of three sisters – Amber, Jazz and Geena – who get a surprise visit from an “unhappening” aunt from India. This story centres on how the sisters deal with their intrusive aunt. In *Bhangra Babes*, a sequel to the *Bindi Babes*, Amber, Jazz and Geena face another set of problems, but this time the trouble is at school.
 
-An example of the Chinese diaspora in children’s literature would be the Mo’s Mischief series, which centres on the 
+An example of the Chinese diaspora in children’s literature would be the Mo’s Mischief series, which centres on the mischievous life of a Chinese boy in primary school called, Mo Shen Ma, with his four friends, Hippo, Penguin, Monkey and Bat Ears. In the third series, *Pesky Monkeys*, Mo goes to his grandma’s house for the summer holidays and teaches his grandma’s pig to roller-skate.
+
+*The Stone Goddess*, a story on the Cambodian diaspora, is a touching tale of a 12-year-old Nakri and her elder sister’s attempts to maintain their hope as well as their classical dancing skills in the midst of their struggle to survive after the communist takeover Cambodia and her family is torn from their city life. Nakri’s family begins life anew in America after Cambodia is liberated.
+
+*1001 Cranes*, a story of the Japanese diaspora, is an engaging tale of a valued Japanese American custom that transforms the life of a lost 12–year old Japanese American girl, Angela Michiko. With her parents on the verge of separating, she spends the summer in Los Angeles with her grandparents, when she folds paper cranes into wedding displays, becomes involved with a young skateboarder, and learns how complicated relationships can be.
+
+*Slant*, a story about the Korean diapora, is a charming tale of 13–year–old Lauren, a Korean-American adoptee, who is tired of being called “slant” and “gook,” and longs to have plastic surgery on her eyes. However, after she convinces her father to agree to the surgery, Lauren starts to question some of her own assumptions when she learns a long-kept secret about her mother’s death.
+
+Escape from Saigon, a story about the Vietnamese diaspora, depicts the experiences of an orphaned Amerasian boy, Long – the son of an American father and a Vietnamese mother – from his birth and early childhood in Saigon (now Ho Chi Minh City), through his departure from Vietnam in the 1975 Operation Babylift and his subsequent life as the adopted son of an American family in Ohio.
+
+Given the diversity of topics of interest available in the Asian children’s Collection, this treasure trove of a collection is an important and valuable resource for the local library scene. The collection will continue to be developed with the aim to present some of the most excellent children’s publications from across Asia and to showcase the richness of Asian classical stories and fables as well as attractive illustrations for reference and research purposes.
+
+
 
 
 
