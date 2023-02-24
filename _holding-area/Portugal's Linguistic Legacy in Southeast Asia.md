@@ -204,7 +204,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^14]: Valerie Scully and Catherine Zuzarte, [<i>The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507) (Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
-[^15]: Scully and Zuzarte, [<i>Most Comprehensive Eurasian Heritage Dictionary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507), 28. 
+[^15]: Scully and Zuzarte, [<i>Most Comprehensive Eurasian Heritage Dictionary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507), 30. 
 
 [^16]: Philippe Maurer, [<i>The Former Portuguese Creole of Batavia and Tugu (Indonesia)</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14495821) (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
 
