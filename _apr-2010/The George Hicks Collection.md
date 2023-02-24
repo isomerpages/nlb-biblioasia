@@ -7,6 +7,9 @@ description: Visiting Senior Research Fellow Geoff Wade spotlights the National
   rare and contemporary volumes.
 ---
 #### Visiting Senior Research Fellow _Geoff Wade_ spotlights the National Library’s George Hicks Collection, generously donated by George Lyndon Hicks. Comprising books from his personal library, the collection has more than 3,000 rare and contemporary volumes.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/GeorgeHicks/George%20Hicks%20award.jpg">
+ <div style="background-color: white;">Dr N Varaprasad, Chief Executive, National Library Board, presenting the Distinguished Patron of National Library award to Mr George Hicks on 26 February 2009.</div>
 	
 In an age when the printed word is being rapidly transformed into a digital signal and the page into an electronic image, it is always pleasing to meet people for whom the book is still a treasured object. While books may not necessarily still be today what Charles William Elliot, the long-standing president of Harvard University, called “the most accessible and wisest of counselors,” bibliophiles generally see them as the most aesthetic and collectable carriers of information and ideas.	
 Those who have amassed personal libraries value their books both for their content and for the beauty inherent in their physical production, and some collectors try to ensure that the contents of their libraries will be available to future generations for decades or centuries to come by donating their collections to public institutions.
@@ -27,7 +30,10 @@ Japan was the next destination in the 1970s, where again he pursued economic res
 
 The two decades which the Hicks family spent in Hong Kong from the 1970s to the 1980s saw George’s business interests, as well as his scholarly interests and library, expanding greatly. Many of the China-related books which were acquired during this sojourn are included in the collection donated to the NLB, as are works he drew on in writing his frequent contributions to the *International Herald Tribune*, the *Far Eastern Economic Review* and *the Asian Wall Street Journal*. The economic studies he had conducted regionally in the previous decades provided Mr Hicks with a powerful context and basis on which the rapid development of the region during this period could be analysed and described.
 
-After coming to reside in Singapore in the 1990s, Mr Hicks continued to travel (and purchase books) widely throughout other parts of Asia, and began to increasingly concern himself with Japanese denial – described as either amnesia or concealment – of Word War II atrocities. He subsequently spent five years of his life researching and writing his famous study *The Comfort Women: Sex Slaves of the Japanese Imperial Forces* (Singapore: Heinemann Asia, 1995).	
+After coming to reside in Singapore in the 1990s, Mr Hicks continued to travel (and purchase books) widely throughout other parts of Asia, and began to increasingly concern himself with Japanese denial – described as either amnesia or concealment – of Word War II atrocities. He subsequently spent five years of his life researching and writing his famous study *The Comfort Women: Sex Slaves of the Japanese Imperial Forces* (Singapore: Heinemann Asia, 1995).
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GeorgeHicks/Comfort%20Women1.jpg">
+ <div style="background-color: white;"><i>The Comfort Women: Sex Slaves of the Japanese Imperial Forces</i> by George Hicks. All rights reserved, Heinemann Asia, 1995.</div>
 
 Over the same period he was also engaged in publishing, through Select Books in Singapore, a range of studies on the Chinese in Southeast Asia prior to World War II – *Overseas Chinese Remittances from Southeast Asia 1910–1940* (1993), Fukuda Shozo’s *With Sweat and Abacus: Economic Roles of Southeast Asian Chinese on the Eve of World War II* (1995) and *Chinese Organisations in Southeast Asia in the 1930s* (1995). He also published *A Bibliography of Japanese Works on the Overseas Chinese in Southeast Asia, 1914–1945* (Asia Research Service, Hong Kong, 1992). The wide range of books he procured to assist in these various writing and editing projects, a large number of which are rather scarce works relating to the Chinese communities in Southeast Asia prior to the Pacific War, further enhance the value of the Hicks Collection.
 
@@ -44,7 +50,3 @@ Selected titles from the George Hicks Collection are on display at the Donors Ga
 <br/>
 <img src="/images/Authors/Geoff%20Wade.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Geoff Wade</b><br>Visiting Senior Research Fellow<br>Institute of Southeast Asian Studies</center></div>
-
-
-
-
