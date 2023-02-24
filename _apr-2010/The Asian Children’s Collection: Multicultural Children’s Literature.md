@@ -72,7 +72,7 @@ Given the diversity of topics of interest available in the Asian children’s Co
 <img src="/images/Authors/Norasyikin.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Norasyikin Binte Ahmad Ismail</b><br>Librarian <br>National Reference & Special Libraries<br> National Library </center></div>
  
- #### **REFERENCES**
+#### **REFERENCES**
  
 Bainbridge, J. M., Pantaleo, S. & Ellis, M. (1999). Multicultural picture books: Perspectives from Canada. _The Social Studies, 90_ (4), 183–188.
 
