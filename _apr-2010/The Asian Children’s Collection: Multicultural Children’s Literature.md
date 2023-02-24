@@ -5,3 +5,32 @@ description: "Senior Librarian Panna Kantilal and Librarian Norasyikin binte
   Ahmad Ismail share about the importance and highlights of the Asian Children’s
   Collection. "
 ---
+####  Senior Librarian _Panna Kantilal_ and Librarian _Norasyikin binte Ahmad Ismail_ share about the importance and highlights of the Asian Children’s Collection.
+
+The Asian Children’s Collection on Level 10 of the Lee Kong Chian Reference Library (LKCRL) started at a time when children’s literature was predominantly of British/American origin. The core aim of establishing this collection of works written for children pertaining to Asia and its people was to present the concept and raise the awareness and understanding of Asiancentric children’s literature compared with that of Anglo-Saxon children’s literature. Since its inception in the early 1960s when it had fewer than 200 books, the collection has with time evolved into a unique resource of more than 20,000 materials for research relating to Asian 
+Children’s literature.
+
+The collection is targeted towards researchers interested in the origins of Asian-oriented children’s books and the influences and attitudes affecting the pattern and stages of their development. The target audience would include the educationist, writer, illustrator, publisher, student and librarian interested in the use and production of children’s reading and learning materials from an Asian perspective and an Asian identity.
+
+This collection covers literary materials for children up to 14 years of age in the four official languages – English, Malay, Chinese and Tamil – and selectively in other Asian languages with English translations. It comprises fiction books, picture books, folk/fairy tales, myths and legends and select non-fiction materials in children’s literature (largely materials that depict the customs, culture and mores of Asian society, such as poetry, social beliefs, religion, etc) as well as reference materials such as guides, bibliographies and studies on Asian Children’s literature.
+
+Comprising primarily children’s materials, it provides the user with a multicultural experience and at the same time exposes the user to the richness and variety of Asian customs and civilisations. Moreover, the materials in the Asian Children’s Collection also promote a thoughtful understanding of the Asian way of life and values. This is crucial since there is usually a greater exposure to Anglo-Saxon literature which predominates the publishing market and which inadvertently projects values, customs, traditions, way of life and culture that are somewhat different from those found in Asia.
+
+The importance of this collection stems from the fact that it was developed with the aim to interest researchers to delve into the study of children’s literature with an Asian theme and setting or with an Asian protagonist. Since the “publishing industry categorises all books with non-white characters as multicultural” (Hill, 1998), the Asian Children’s Collection can be classified as multicultural literature since it contains children’s literature covering the following geographical regions: Southeast Asia, South Asia, East Asia, Central Asia and South West Asia.
+
+Research in this field has shown multicultural literature as a vehicle that encourages tolerance and understanding among children (Bainbridge, 1999). This is achieved because multicultural literature is “literature about racial or ethnic minority groups that are culturally and socially different from the white Anglo-Saxon majority” (Norton, 1999). As Bainbridge (1999) says “multicultural literature is literature that depicts and explores the lives of individuals who belong to a wide range of diverse groups” and hence it encourages positive attitudes towards difference. “If literature is a mirror that reflects human life, then all children who read or are read to need to see themselves reflected as part of humanity” (Loh, 2006).
+
+Therefore, it is important for children to read and be exposed to materials depicting their own culture and minority cultures. This is so because “books can be a powerful tool for promoting cultural understanding” and “reading about diverse perspectives enhances multicultural awareness” (Loh, 2006) as it supplies the reader with images, ideas and models that they can relate to. Moreover, it is crucial that children’s literature reflects the reality of our pluralistic society (Higgins, 2002) so that children are then better able to see themselves and their lives reflected in the books they read (Aoki, 1992; Slapin & Seale, 1992).
+
+A number of multicultural children’s literature is about the Asian diaspora, the dispersion of people from their original homeland (Free Dictionary). Originally this word was used for the dispersion of Jewish people outside their Holy Land, but now it has taken on a broader meaning connoting issues of social and cultural significance such as displacement, loss of a shared identity, shared values and customs. Hence issues of hybridism arise, mainly “the notion that there are no pure identities” (Clammer, 2002) and this is especially so in post-colonial societies.
+
+Diaspora in children’s literature would be one topic of interest, especially to students and researchers of Asian literature. Below are some highlights of Asian diaspora – Cambodian, Chinese, Indian, Japanese, Korean, Vietnamese – in the LKCRL Asian Children’s Collection.
+
+The Chinese and Indian diaspora in children’s fiction has grown in importance socially, culturally, politically and economically in recent years, especially in Singapore. Consequently, it has become relevant to see how the different cultures have diversified and how the Indian and Chinese characters are represented in non-Asian settings around the world. Narinder Dhamis’s *Bindi Babes* (2003) and *Bhangra Babes* (2005) are examples of the Indian diaspora literature housed in the Asian Children’s Collection.
+
+From the author who wrote the novel *Bend It Like Beckham*, *Bindi Babes* focuses on the life episodes of three sisters – Amber, Jazz and Geena – who get a surprise visit from an “unhappening” aunt from India. This story centres on how the sisters deal with their intrusive aunt. In *Bhangra Babes*, a sequel to the *Bindi Babes*, Amber, Jazz and Geena face another set of problems, but this time the trouble is at school.
+
+An example of the Chinese diaspora in children’s literature would be the Mo’s Mischief series, which centres on the 
+
+
+
