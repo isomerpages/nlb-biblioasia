@@ -28,6 +28,10 @@ The late 1960s saw Mr Hicks move to the Philippines to pursue further studies on
 
 Japan was the next destination in the 1970s, where again he pursued economic research as well as conducted a study of the Korean minority in Japan, which was subsequently published as *Japan’s Hidden Apartheid: The Korean Minority and the Japanese* (Ashgate, 1997). A wide range of Japan- and Korea-related books, on both economic and cultural history, can thus be found in the Hicks Collection.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/GeorgeHicks/Hall%20of%20Heavenly%20Records.jpg">
+ <div style="background-color: white;"><i>The Hall of Heavenly Records: Korean Astronomical Instruments and Clocks, 1380–1780</i>  by Joseph Needham, Lu Gwei-Djen, John H. Combridge and John S. Major. All rights reserved, Cambridge University Press, 1986. The George Hicks Collection comprises a collection of publications by Joseph Needham.</div>
+
+
 The two decades which the Hicks family spent in Hong Kong from the 1970s to the 1980s saw George’s business interests, as well as his scholarly interests and library, expanding greatly. Many of the China-related books which were acquired during this sojourn are included in the collection donated to the NLB, as are works he drew on in writing his frequent contributions to the *International Herald Tribune*, the *Far Eastern Economic Review* and *the Asian Wall Street Journal*. The economic studies he had conducted regionally in the previous decades provided Mr Hicks with a powerful context and basis on which the rapid development of the region during this period could be analysed and described.
 
 After coming to reside in Singapore in the 1990s, Mr Hicks continued to travel (and purchase books) widely throughout other parts of Asia, and began to increasingly concern himself with Japanese denial – described as either amnesia or concealment – of Word War II atrocities. He subsequently spent five years of his life researching and writing his famous study *The Comfort Women: Sex Slaves of the Japanese Imperial Forces* (Singapore: Heinemann Asia, 1995).
