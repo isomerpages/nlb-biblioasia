@@ -55,3 +55,15 @@ The day’s proceedings culminated with an insightful panel discussion by the sp
 **Q: What will be considered the “sexiest” jobs in the next five years?**
 
 *Games developer, new generation social worker, statistician, data visualiser and librarian.*
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Samuel%20Sng.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Samuel Sng</b><br>Research Associate I<br> Publishing and Research Services<br> National Library</center></div>
+
+
+
+
+
+
