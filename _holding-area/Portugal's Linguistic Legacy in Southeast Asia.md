@@ -76,29 +76,51 @@ Among those who remained, Kristang continued to decline in the face of other lan
 
 In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in Singapore because they wanted to “to help all those interested in this fascinating language learn more about it, and thereby remember our roots”. Interestingly, in their acknowledgements, they noted that, as children, they had been “discouraged from using Kristang for fear that we would not be able to master the English language that was taught in schools”.[^14]
 
-To give a flavour of the language, the dictionary contains several poems and songs printed alongside the English translations. One poem, titled “Singapore River”, goes:
+To give a flavour of the language, the dictionary contains poems, songs and prayers. The prayer “Our Father” is known in Kristang as “Nos Sa Pai”. It goes:
 
-Na pertu Riu di Singapura yo andah,
+Nos sa Pai ki teng na seu,
 <br>
-Olah klai bunitu seu, ta bakah dia,
+Santah fikadu bos a nomi,
 <br>
-Jenti, jenti tanu ta beng naki,
+\[Bos sa reinu beng\]
 <br>
-Bebeh kon kumi
+Bos sa bontadi kumpridu,
 <br>
-Tudu ta buskah.
+Na terra asi kema na seu,
+<br>
+Dah nos sa pang di kada dia.
+<br>
+Peduah nos sa pekadu,
+<br>
+Asi nos peduah
+<br>
+Nos sa inimigu.
+<br>
+Nang desah nos teng mal intentasang,
+<br>
+Mas librah kon no di tudu mal, Amen.[^15]
 
-Or in English:
+A comparison with the prayer in modern Portuguese shows distinct similarities:
 
-By the Singapore River I walk,
+Pai nosso, que estais no céu,
 <br>
-Admiring the sunset,
+Santificado seja o Vosso nome.
 <br>
-Lots of people are coming, 
+Venha a nós o Vosso reino.
 <br>
-In search of something
+Seja feita a Vossa vontade,
 <br>
-To eat and drink.[^15]
+Assim na terra como no céu.
+<br>
+O pão nosso de cada dia nos dai hoje.
+<br>
+Perdoai-nos as nossas ofensas
+<br>
+Assim como nós perdoamos a quem nos tem ofendido.
+<br>
+Não nos deixeis cair em tentação,
+<br>
+Mas livrai-nos do mal, Amén.
 
 #### **Batavia and Tugu Creole**
 
