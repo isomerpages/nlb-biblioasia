@@ -38,3 +38,13 @@ However, the gems of the Hicks Collection are undoubtedly a range of very rare w
 The Hicks Collection is as fine as it is extensive, and the areas selected for comment above are only a very key foci of this outstanding donation. The books are now in the perpetual care of the National Library of Singapore. The donor is pleased that these works provide to the people of Singapore some resources previously unavailable, but at the same time also hopes that they will help to engender, particularly among the young, a love of the book and that they will help visitors to the library, in the words of Henry Fielding, “read in order to live.”
 
 Selected titles from the George Hicks Collection are on display at the Donors Gallery, Level 10, Lee Kong Chian Reference Library. Please approach the Information Counter at Level 11 for any queries on the collection.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Geoff%20Wade.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Geoff Wade</b><br>Visiting Senior Research Fellow<br>Institute of Southeast Asian Studies</center></div>
+
+
+
+
