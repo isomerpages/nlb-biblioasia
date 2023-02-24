@@ -2,12 +2,6 @@ collections:
   apr-2010:
     output: true
     order:
-      - "Lee Kong Chian Research Fellowship: Three New Research Fellows
-        Awarded.md"
-      - "Research Collaboratory Client Series: “Policy Making 2010 – Emergent
-        Technologies”.md"
-      - The George Hicks Collection.md
-      - "The Asian Children’s Collection: Multicultural Children’s Literature.md"
       - Director's Column.md
       - சிங்கப்பூரில் தமிழ் இலக்கிய வளர்ச்சி.md
       - A Comparative Study of Film Criticism on Singapore Films in Post–1965
@@ -20,3 +14,9 @@ collections:
         Kong Chian Reference Library.md"
       - "Early Tourist Guidebooks to Singapore: The Handbook to Singapore
         (1892).md"
+      - "The Asian Children’s Collection: Multicultural Children’s Literature.md"
+      - The George Hicks Collection.md
+      - "Research Collaboratory Client Series: “Policy Making 2010 – Emergent
+        Technologies”.md"
+      - "Lee Kong Chian Research Fellowship: Three New Research Fellows
+        Awarded.md"
