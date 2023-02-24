@@ -7,6 +7,9 @@ description: "Senior Librarian Panna Kantilal and Librarian Norasyikin binte
 ---
 ####  Senior Librarian _Panna Kantilal_ and Librarian _Norasyikin binte Ahmad Ismail_ share about the importance and highlights of the Asian Children’s Collection.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/bhangra%20babes(1).jpg">
+ <div style="background-color: white;">All Rights Reserved, Corgi Yearling Books, 2005.</div>
+
 The Asian Children’s Collection on Level 10 of the Lee Kong Chian Reference Library (LKCRL) started at a time when children’s literature was predominantly of British/American origin. The core aim of establishing this collection of works written for children pertaining to Asia and its people was to present the concept and raise the awareness and understanding of Asiancentric children’s literature compared with that of Anglo-Saxon children’s literature. Since its inception in the early 1960s when it had fewer than 200 books, the collection has with time evolved into a unique resource of more than 20,000 materials for research relating to Asian 
 Children’s literature.
 
@@ -28,21 +31,33 @@ Diaspora in children’s literature would be one topic of interest, especially t
 
 The Chinese and Indian diaspora in children’s fiction has grown in importance socially, culturally, politically and economically in recent years, especially in Singapore. Consequently, it has become relevant to see how the different cultures have diversified and how the Indian and Chinese characters are represented in non-Asian settings around the world. Narinder Dhamis’s *Bindi Babes* (2003) and *Bhangra Babes* (2005) are examples of the Indian diaspora literature housed in the Asian Children’s Collection.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/bindi%20babes(1).jpg">
+ <div style="background-color: white;">All Rights Reserved, Corgi Yearling Books, 2003.</div>
+
 From the author who wrote the novel *Bend It Like Beckham*, *Bindi Babes* focuses on the life episodes of three sisters – Amber, Jazz and Geena – who get a surprise visit from an “unhappening” aunt from India. This story centres on how the sisters deal with their intrusive aunt. In *Bhangra Babes*, a sequel to the *Bindi Babes*, Amber, Jazz and Geena face another set of problems, but this time the trouble is at school.
 
 An example of the Chinese diaspora in children’s literature would be the Mo’s Mischief series, which centres on the mischievous life of a Chinese boy in primary school called, Mo Shen Ma, with his four friends, Hippo, Penguin, Monkey and Bat Ears. In the third series, *Pesky Monkeys*, Mo goes to his grandma’s house for the summer holidays and teaches his grandma’s pig to roller-skate.
 
+![](/images/Vol%206%20Issue%201/ChildrenLiterature/pesky%20monkeys(1).jpg)
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/pesky%20monkeys(1).jpg">
+ <div style="background-color: white;">All Rights Reserved, HarperCollins Children’s Books, 2008.</div>
+
 *The Stone Goddess*, a story on the Cambodian diaspora, is a touching tale of a 12-year-old Nakri and her elder sister’s attempts to maintain their hope as well as their classical dancing skills in the midst of their struggle to survive after the communist takeover Cambodia and her family is torn from their city life. Nakri’s family begins life anew in America after Cambodia is liberated.
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/stone%20goddess(1).jpg">
+ <div style="background-color: white;">All Rights Reserved, Scholastic, 2005.</div>
 
 *1001 Cranes*, a story of the Japanese diaspora, is an engaging tale of a valued Japanese American custom that transforms the life of a lost 12–year old Japanese American girl, Angela Michiko. With her parents on the verge of separating, she spends the summer in Los Angeles with her grandparents, when she folds paper cranes into wedding displays, becomes involved with a young skateboarder, and learns how complicated relationships can be.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/1001%20cranes(1).jpg">
+ <div style="background-color: white;">All Rights Reserved, Delacorte Press, 2008.</div>
+
 *Slant*, a story about the Korean diapora, is a charming tale of 13–year–old Lauren, a Korean-American adoptee, who is tired of being called “slant” and “gook,” and longs to have plastic surgery on her eyes. However, after she convinces her father to agree to the surgery, Lauren starts to question some of her own assumptions when she learns a long-kept secret about her mother’s death.
 
-Escape from Saigon, a story about the Vietnamese diaspora, depicts the experiences of an orphaned Amerasian boy, Long – the son of an American father and a Vietnamese mother – from his birth and early childhood in Saigon (now Ho Chi Minh City), through his departure from Vietnam in the 1975 Operation Babylift and his subsequent life as the adopted son of an American family in Ohio.
+*Escape from Saigon*, a story about the Vietnamese diaspora, depicts the experiences of an orphaned Amerasian boy, Long – the son of an American father and a Vietnamese mother – from his birth and early childhood in Saigon (now Ho Chi Minh City), through his departure from Vietnam in the 1975 Operation Babylift and his subsequent life as the adopted son of an American family in Ohio.
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/escape%20from%20saigon(1).jpg">
+ <div style="background-color: white;">All Rights Reserved, Farrar, Straus and Giroux, 2008.</div>
 
 Given the diversity of topics of interest available in the Asian children’s Collection, this treasure trove of a collection is an important and valuable resource for the local library scene. The collection will continue to be developed with the aim to present some of the most excellent children’s publications from across Asia and to showcase the richness of Asian classical stories and fables as well as attractive illustrations for reference and research purposes.
-
-
-
-
-
