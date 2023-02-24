@@ -123,8 +123,8 @@ Later, the two communities also settled in Wureh and Konga, both also in Flores.
 In 1702, as they tried to flee from Dutch influence, the Portuguese community in Flores resettled in Lifau, Timor. Nonetheless, Portuguese linguistic and cultural elements remained in Larantuka. In Larantuka, Portuguese was used liturgically, in the same way Latin continued to be used in European churches long after vernacular languages had replaced Latin as a language of daily communication. The linguistic influence of Portuguese in Christian liturgy in Larantuka remains to this day.
 
 The Portuguese subsequently settled in Dili, on Timor, in 1769. To ensure their safety, in 1859, the Portuguese sold their nominal rights over their other settlements in Flores and Solor in exchange for the Dutch recognition of East Timor as belonging to Portugal. This agreement led to a new wave of migration. *Moradores* (inhabitants) from Flores settled in Sikka while those from Solor moved to Bidau, in the suburbs of Dili. Each spoke its own variant of Portuguese creole, although only the latter is documented. As these creoles came into contact with local languages such as Tetum or with more normative versions of Portuguese, they were gradually phased out. The Solor variant was similar to Papia Kristang and Macanese creole (the creole that developed in Macau), which suggests that it was either derived from one of them or from a common ancestor.[^19]
-	
-![](/images/Vol%2019%20Issue%201/Portuguese/Church.png)
+
+![](/images/Vol%2019%20Issue%201/Portuguese/Chuch_uncropped.png)
 <div style="background-color: white;">The Immaculate Conception Metropolitan Cathedral in Dili is the main church of the Roman Catholic Archdiocese of Dili, Timor Leste. <i>Photo by Torbenbrinker. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0). </i>
 </div>
 
