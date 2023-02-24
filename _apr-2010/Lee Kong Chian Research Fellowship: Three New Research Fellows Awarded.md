@@ -4,7 +4,7 @@ permalink: /vol-6/issue-1/Apr-2010/Lee-Kong-Chian-research-fellowship/
 description: "Meet our three new Lee Kong Chian Research Fellows Sharon Wong Wai
   Wee, Tan Teng Phee and Dr Noel Chia Kok Hwee. "
 ---
- #### Meet our three new Lee Kong Chian Research Fellows _Sharon Wong Wai Wee_, _Tan Teng Phee_ and _Dr Noel Chia Kok Hwee_.
+#### Meet our three new Lee Kong Chian Research Fellows _Sharon Wong Wai Wee_, _Tan Teng Phee_ and _Dr Noel Chia Kok Hwee_.
  
 The Lee Kong Chian Research Fellowship welcomes three new research fellows: Sharon Wong Wai Wee (Hong Kong), Tan Teng Phee (Malaysia) and Dr Noel Chia Kok Hwee (Singapore). They were awarded their fellowships by Judy Ng, Deputy Director, National Reference and Special Libraries on 12 January.
 
@@ -27,6 +27,3 @@ Dr Chia says of himself:
 *“I am a board-certified educational therapist registered with the Association of Educational Therapists, United States, as well as a board-certified special education professional registered with the American Academy of Special Education Professionals. Besides, I am a registered professional counsellor with the Australian Institute of Professional Counsellors. Currently, I am an assistant professor with the Early Childhood & Special Needs Education Academic Group at the National Institute of Education/Nanyang Technological University. I spend most of my free time reading and writing not only academic papers but also stories and poems for children. Together with my daughter, Grace, I love creating imaginary tales along the line of fantasy and science fiction. I like humour and enjoy cracking jokes to make myself look silly! I have always been passionate about promoting Singapore children’s literature in English. Here I am … on this Lee Kong Chian Research Fellowship to research on the topic closest to my heart: imagination in children’s literature…”*
 
 The Lee Kong Chian Research Fellowship invites scholars, practitioners and librarians to undertake collectionrelated research and publish on the National Library of Singapore’s donor and prized collections. The fellowship aims to position the National Library Board as the first stop for Asian collection services. It is open to both local and foreign applicants, who should preferably have an established record of achievement in their chosen field of research and the potential to excel further. For information on the Lee Kong Chian Research Fellowship, please contact the Administrator at: <br> Email: LKCRF@nlb.gov.sg  <br> Tel: 6332 3348 <br>  Fax: 6333 7990
-
-
-
