@@ -38,8 +38,6 @@ From the author who wrote the novel *Bend It Like Beckham*, *Bindi Babes* focuse
 
 An example of the Chinese diaspora in children’s literature would be the Mo’s Mischief series, which centres on the mischievous life of a Chinese boy in primary school called, Mo Shen Ma, with his four friends, Hippo, Penguin, Monkey and Bat Ears. In the third series, *Pesky Monkeys*, Mo goes to his grandma’s house for the summer holidays and teaches his grandma’s pig to roller-skate.
 
-![](/images/Vol%206%20Issue%201/ChildrenLiterature/pesky%20monkeys(1).jpg)
-
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/pesky%20monkeys(1).jpg">
  <div style="background-color: white;">All Rights Reserved, HarperCollins Children’s Books, 2008.</div>
 
@@ -61,3 +59,50 @@ An example of the Chinese diaspora in children’s literature would be the Mo’
  <div style="background-color: white;">All Rights Reserved, Farrar, Straus and Giroux, 2008.</div>
 
 Given the diversity of topics of interest available in the Asian children’s Collection, this treasure trove of a collection is an important and valuable resource for the local library scene. The collection will continue to be developed with the aim to present some of the most excellent children’s publications from across Asia and to showcase the richness of Asian classical stories and fables as well as attractive illustrations for reference and research purposes.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Panna.jpg" style="width: 100px; height: 100px;"/>
+ <center><b>Panna Kantilal</b><br>Senior Librarian <br>Professional Services<br> National Library </center></div>
+ 
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Norasyikin.jpg" style="width: 100px; height: 100px;"/>
+ <center><b>Norasyikin Binte Ahmad Ismail</b><br>Librarian <br>National Reference & Special Libraries<br> National Library </center></div>
+ 
+ #### **REFERENCES**
+ 
+Bainbridge, J. M., Pantaleo, S. & Ellis, M. (1999). Multicultural picture books: Perspectives from Canada. _The Social Studies, 90_ (4), 183–188.
+
+Clammer, J. (2002). [_Diaspora and identity: The sociology of culture in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11297989). Malaysia: Pelanduk Publications. Call no.: RSEA 306.0959 CLA
+
+Dhami, N. (2003). _Bindi babes_. London: Corgi Yearling Books.
+
+Dhami, N. (2005). _Bhangra babes_. London: Corgi Yearling Books. 
+
+Higgins, J. J. (2002). _Multicultural children’s literature: Creating and applying an evaluation tool in response to the needs of urban educators_. New Horizons for Learning.
+
+Hill, T. J. (1998, March). Multicultural children’s books: An American fairy tale. _Publishing Research Quarterly, 14_ (1), 36–46.
+
+Hirahara, N. (2008). _[1001 cranes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13111115)_. New York: Delacorte Press. Call no.: RAC 813.54 HIR
+
+Ho, M. (2005). _[The stone goddess](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12499007)_. New York: Scholastic. Call no.: RAC 813.54 HO
+
+Loh, V. S. (Fall 2006). Quantity and quality: The need for culturally authentic trade books in Asian American young adult literature. _The ALAN Review, 34_ (1), 44–61, https://scholar.lib.vt.edu/ejournals/ALAN/v34n1/loh.pdf
+
+Ang, S. L., et al. (2005). _[Asian renaissance: The Singapore and Southeast Asian & Asian Children Collection Guide](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419)_. Singapore: National Library Board. Call no.: RSING 025.21095957 ASI
+
+Norton, D. E. (2005). _[Multicultural children’s literature: Through the eyes of many children](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655350)_. (2nd ed.) Upper Saddle River, N.J. Pearson Prentice Hall. Call no.: R 810.9928208693 NOR
+
+Warren, A. (2008). _Escape from Saigon_. New York: Farrar, Straus and Giroux.
+
+Williams, L. E. (2008). _Slant_. Minneapolis, Minn.: Milkweed Editions.
+
+Yang, H. (2008). _Mo’s mischief: Pesky monkeys_. London: HarperCollins Children’s Books.
+
+ 
+
+
+
