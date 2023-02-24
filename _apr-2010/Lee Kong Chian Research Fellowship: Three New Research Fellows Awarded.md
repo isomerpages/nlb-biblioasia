@@ -5,6 +5,9 @@ description: "Meet our three new Lee Kong Chian Research Fellows Sharon Wong Wai
   Wee, Tan Teng Phee and Dr Noel Chia Kok Hwee. "
 ---
 #### Meet our three new Lee Kong Chian Research Fellows _Sharon Wong Wai Wee_, _Tan Teng Phee_ and _Dr Noel Chia Kok Hwee_.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/ResearchFellowhsip/LKC%20Fellows%20signing.jpg">
+ <div style="background-color: white;">(From left): Ms Angie Ng Gek Tee, witness for Dr Chia; Dr Chia; Dr Mahani Awang, witness for Ms Wong; Ms Wong; Mrs Kornphanat Tungkeunkunt, witness for Mr Tan, and Mr Tan.</div>
  
 The Lee Kong Chian Research Fellowship welcomes three new research fellows: Sharon Wong Wai Wee (Hong Kong), Tan Teng Phee (Malaysia) and Dr Noel Chia Kok Hwee (Singapore). They were awarded their fellowships by Judy Ng, Deputy Director, National Reference and Special Libraries on 12 January.
 
