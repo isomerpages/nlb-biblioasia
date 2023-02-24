@@ -22,6 +22,10 @@ As technology evolves from Web 2.0 to cloud computing, barriers have been lifted
 Mr Nicholas Aaron Khoo, co-founder of Cybersports and Online Gaming Association (SCOGA), revealed that Singapore boasted 1.37 million online gamers in 2009. With a large proportion of these online gamers being children and youths, SCOGA has been using outreach events in helping parents to bridge the digital divide and grapple with the challenges that gaming poses. Some of these outreach programmes include: the Singapore Arcade Showdown (November 2008), the MDA Media Fiesta 2009 Gamer’ Forum, Licence2Play and National Family Celebrations 2009.
 
 In its quest to transform Singapore into a knowledge-based economy, NLB has been one of the key agents of knowledge creation. Mr Samuel Sng, a research associate, showed how PRS can benefit organisations through research and consultancy. In line with NLB’s role to facilitate knowledge creation, PRS would be launching the Research Collaboratory platform in early 2010. Aptly called “Ideapolis”, this online site provides researchers with the latest domainspecific information, social networking tools, a directory of researchers, project spaces and a document repository.
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%201/EmergentTechnologies/Ramesh.jpg">
+ <div style="background-color: white;">Mr Panicker…skills for an uncertain world.</div>
+
 After the recent economic crisis, corporate leaders require a new management compass to steer their organisations through uncharted waters. Mr Ramesh Panicker, regional creative director of Soundview and Executive Resources (S) Pte Ltd, expounded on the “10 new leadership skills for an uncertain world”. These attributes are: (1) maker instinct, (2) clarity, (3) dilemma flipping, (4) immersive learning ability, (5) bio-empathy, (6) constructive depolarisation, (7) quiet transparency, (8) rapid prototyping, (9) smart mob organising, and (10) commons creating.
 
 Social media has become a powerful business tool for enhancing public relations, customer service, product development, brand awareness, marketing and competitive analysis. Ms Daniela La Marca, co-founder and managing director of MediaBUZZ Pte Ltd and editor of Asian eMarketing, revealed that a recent consumer survey has shown that 78% of respondents trusted peer recommendations more than advertisements (14%). She also delved into the 5 Ws (why, what, who, where and when) of social media policy and championed the need for a code of ethics to regulate the use of social media.
@@ -29,6 +33,11 @@ Social media has become a powerful business tool for enhancing public relations,
 In a lively floor exchange with Dr Leong Mun Kew, Deputy Chief Information Officer of NLB, the audience brainstormed and voted on the 10 most critical information needs in 2010. The top three areas identified were: (1) quality of information, (2) performance measurement, and (3) striking a balance between information sharing and security.
 
 As information grows, so will the opportunity to find answers to fundamental questions. Ms Cheryl Fung from the FuturesGroup (Ministry of Trade and Industry) argued how Singapore could use data to gain a competitive edge for its economy. In the next decade, creative economies must not only be able to process, comprehend and extract value from data, they must also be able to visualise and communicate it effectively. She cited case studies from America and Singapore to illustrate how these two countries were able to use data creatively to improve society and the economy.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%201/EmergentTechnologies/Panel%20discussion.jpg">
+<div style="background-color: white;">The speakers (From left): Ms La Marca, Prof Gandel, Ms Fung, Mr Lim and Mr Khoo during the panel discussion… insightful.
+</div>
+
 The day’s proceedings culminated with an insightful panel discussion by the speakers, moderated by Dr Leong. Here are excerpts from four questions posed by the audience:
 
 **Q: It appears that social data is not easily available. This poses a problem for social policy-making. What can be done about this?**
