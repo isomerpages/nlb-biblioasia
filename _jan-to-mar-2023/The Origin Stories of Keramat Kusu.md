@@ -49,7 +49,7 @@ The *keramat* was especially popular with couples seeking to have children and f
 More early details about the pilgrims who visited Kusu come courtesy of a report dated 16 October 1894 in the Baba Malay newspaper *Bintang Timor*. It reads: “*Smalam dan hari Anam, banyak umbok umbok, baba baba dan orang Melayu dan segala bangsa ada pergi Koosoo bayar niat. Dia orang kata ini kramat ada banyak betol, dan dia slalu kasi apa dia orang minta.*"[^8] [“Yesterday and on Saturday, many Peranakan women (*umbok*) and men (*baba*), Malays and people of all races went to Kusu to offer *niat* (supplication). People say that the *keramat* is honest and true and will give you what you ask for.”] 
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image10.png)
-<div style="background-color: white;">The earliest known photograph of the keramat, c. 1930. The white-washed brick-and-mortar pillars seen here survived the 2022 fire. <i>Photo by Lim Lam San (Oct 1902–Sep 1990). Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">The earliest known photograph of the *keramat*, c. 1930. The white-washed brick-and-mortar pillars seen here survived the 2022 fire. <i>Photo by Lim Lam San (Oct 1902–Sep 1990). Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image4.png)
 <div style="background-color: white;">A Chinese couple at the shrine of Dato Syed Abdul Rahman, 1990. They are standing at the same spot as the group in the c.1930 photograph above. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
