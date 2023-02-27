@@ -8,6 +8,9 @@ description: Senior Librarian Sundusia Rosdi explores the contributions of
 ---
 #### Senior Librarian _Sundusia Rosdi_ explores the contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s.
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Transcending%20borders.jpg">
+ <div style="background-color: white;">Antara buku-buku rujukan mengenai pendatang-pendatang Arab di Nusantara. All rights reserved, KITLV Press, 2002.</div>
+
 #### **Dari Hadhramaut dan Mekah ke Nusantara**
 
 Sebahagian besar pendatang-pendatang Arab ke rantau ini berasal dari Hadhramaut, Yemen atau Mekah, Saudi Arabia. Mereka telah dahulu merantau ke kepulauan Indonesia sebelum ke Singapura. Antara yang terawal tiba dari Palembang, Sumatra ialah dua orang pedagang kaya; Syed Mohamed bin Harun Aljunied dan anak saudaranya, Syed Omar bin Ali Aljunied.[^1] Kedua-duanya kemudian menjadi peniaga-peniaga terkemuka dan dihormati masyarakat tempatan dan pemerintah Inggeris. Sir Stamford Raffles sendiri, yang tiba di Singapura pada 1819, telah menggalak pendatang Arab yang mahir berdagang untuk meneruskan kegiatan mereka di Singapura.
@@ -24,11 +27,17 @@ Menjelang abad ke 20, ramai orang-orang Arab telah dapat bergaul dengan masyarak
 
 Hakikat ini menyebabkan, golongan cendekiawan Arab merasa bertanggung jawab untuk membangunkan masyarakat Melayu yang dikatakan mundur berbanding masyarakat lain. Mereka melihat keperluan menyediakan satu media untuk penyebaran idea reformasi dan sebagai wadah bagi tuntutantuntutan kepada pemerintah British. Justeru bertujuan untuk membimbing dan memberi petunjuk kepada orang Melayu, Syed Sheikh al-Hadi bersama-sama beberapa cendekiawan Arab dan reformis Melayu telah mengasaskan akhbar *Al-Imam* (1906–1908) sebagai medan untuk melaungkan aspirasi masyarakat Melayu.
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Al-Imam.jpg">
+ <div style="background-color: white;">Rujukan tentang akhbar <i>Al-Imam.</i> All rights reserved, Pustaka Antara, 1991.</div>
+
 Terbitnya akhbar pertama reformis Melayu ini merupakan titik-tolak peranan penting cendekiawan Arab dalam evolusi penyebaran penulisan berkaitan reformasi berpengaruh Islam. Ia diserapi dan dialirkan di kalangan orang-orang celik-huruf Melayu yang mula peka tentang persuratan dan ehwal Melayu. *Al-Imam* turut melahirkan kekesalan pada kedudukan bahasa Melayu yang digunakan ramai orang Islam tetapi masih tidak mempunyai buku tentang sejarah Islam sebagai panduan dan teladan atau rujukan.[^6]
 
 Meskipun *Al-Imam* dianggap membosankan kerana bersifat terlalu didaktik membincang kepincangan masyarakat, namun ia telah berjaya mencetus satu fenomena sastera dan kewartawanan dengan penglahiran bibit-bibit daya fikir yang serius tentang isu kemunduran bangsa beserta huraiannya.
 
 #### **Syed Sheikh Ahmad al-Hadi (1867–1934)**
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Shaykh%20al-Hady.jpg">
+ <div style="background-color: white;">Syed Sheikh Ahmad al-Hadi bersama anaknya Syed Alwi al-Hadi semasa kecil. All rights reserved, Malaysian Sociological Research Insititute, 1999.</div>
 
 Lahir di Melaka pada 22 November 1867, keluarganya berasal dari Hadhramaut, Yemen. Beliau pernah menuntut di Universiti Al-Azhar, Mesir yang banyak mempengaruhinya dengan idea-idea tokoh reformis Mesir, Muhammad Abduh (1849– 1905).
 
@@ -279,6 +288,3 @@ Zulkipli bin Mahmud. (1979). [_Warta Malaya, penyambung lidah bangsa Melayu, 193
 [^28]: [Syed Muhd Khairudin Aljunied](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), 2009, p. 240.
 
 [^29]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg), Jan 2009, p. 29.
-
-
-
