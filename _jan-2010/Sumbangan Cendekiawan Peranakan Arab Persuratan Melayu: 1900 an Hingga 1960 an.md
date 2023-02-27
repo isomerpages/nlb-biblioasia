@@ -53,7 +53,10 @@ Wajarlah nama Syed Syeikh al-Hadi, yang meninggal dunia pada 20 Februari 1934 di
 
 #### **Syed Alwi al-Hadi (1893– 1970)**
 
-Anak Syed Sheikh Ahmad al-Hadi ini adalah seorang wartawan serta penyunting akhbar-akhbar *Saudara* (1930, 1934– 1935), *Warta Malaya* (1933) dan *Lembaga Malaya* (1936–1941). Beliau lahir di Melaka pada tahun 1893 serta mendapat pendidikan Melayu di Riau and Sekolah Kampong Gelam di Singapura dan kemudian melanjutkan pelajarannya di sekolah Inggeris, Victoria Bridge School sebelum menyambung pelajarannya di Beirut dan Syria.
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Warta%20Malaya.jpg">
+ <div style="background-color: white;">Sumbangan akhbar <i>Warta Malaya</i> dicatatkan. All rights reserved, Universiti Kebangsaan Malaysia, 1979.</div>
+
+Anak Syed Sheikh Ahmad al-Hadi ini adalah seorang wartawan serta penyunting akhbar-akhbar *Saudara* (1930, 1934–1935), *Warta Malaya* (1933) dan *Lembaga Malaya* (1936–1941). Beliau lahir di Melaka pada tahun 1893 serta mendapat pendidikan Melayu di Riau and Sekolah Kampong Gelam di Singapura dan kemudian melanjutkan pelajarannya di sekolah Inggeris, Victoria Bridge School sebelum menyambung pelajarannya di Beirut dan Syria.
 
 Beliau bukan seorang reformis tetapi meneruskan ideologi ayahandanya. Sebagai penyunting akhbar Saudara, pembaca diberi peluang menulis di ruangan *“Halaman Sahabat Pena”* nya untuk bertukar fikiran sambil menambah pengetahuan.
 
@@ -64,6 +67,8 @@ Ahmat Adam (1994) merumuskan bahawa *“…Syed Alwi alHadi memandangnya \[Sahab
 Sebagai pencinta bahasa dan budaya Melayu, Syed Alwi al-Hadi turut menghasilkan beberapa buku termasuk *Adat Resam dan ‘Adat Istiadat Melayu* (1960) (buku pertama diterbitkan mengenai adat istiadat masyarakat Melayu) serta *Panduan Meshuarat* (1956) dan *Panduan Berucap* (1963).
 
 #### **Syed Hussein Ali Alsagoff (1903–1976)**
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Hussein%20Ali%20Alsagoff%20photo.jpg">
+ <div style="background-color: white;">Gambar Syed Hussein Ali Alsagoff dalam Aktivis Melayu/Islam di Singapura. All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.</div>
 
 Era 1920-an menyaksikan kesinambungan peranan penting yang diterajui oleh golongan cendekiawan Arab dalam bidang penerbitan dan persuratan Melayu. Mengimbau pencapaian mereka di Singapura ketika itu, Turnbull (2009) mengulas *“… during the 1930s Singapore’s Malay-language press was controlled by the Arab community. The Alsagoff family launched the Warta Malaya, which was published daily from 1930 to 1941 and initially edited by Onn bin Jaafar. In 1934, Onn with Arab financial backing founded and edited Lembaga Malaya, which was published in Singapore until 1937, after which it moved to Johor Bahru…”*.[^15] Roff (2009) menganggarkan antara tahun 1925 hingga 1939 sebanyak 16 akhbar Melayu telah dipimpin oleh golongan Arab.[^16]
 
