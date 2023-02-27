@@ -34,7 +34,7 @@ Lahir di Melaka pada 22 November 1867, keluarganya berasal dari Hadhramaut, Yeme
 
 Selain menjadi penyunting terawal akhbar *Al-Imam*, Syed Sheikh al-Hadi turut menerajui penerbitan akhbar, *Al-Ikhwan* (1926–1931) yang membicarakan isu Islam, emansipasi wanita serta pendidikan anak-anak. Beliau menubuhkan syarikat percetakannya sendiri *Jelutong Press* di Pulau Pinang (1927–1932). Akhbar lain terbitannya; *Saudara* (1928–1941) menjurus kepada berita dan komen umum agama. Syed Sheikh al-Hadi juga pernah menjadi pembimbing pada wartawanwartawan muda seperti Abdul Rahim Kajai dan Ahmad bin Mohamed Rashid Talu. Roff (1993) berpendapat bahawa dalam bidang penulisan sumbangan Syed al-Hadi menerusi akhbar ini telah berupaya membawa pusat reformasi pemikiran, persuratan dan kesusasteraan Melayu dari Singapura beralih ke Pulau Pinang disekitar 1920–an. 7
 
-Walaupun novel pertamanya, H*ikayat Faridah Hanum (Hikayat Setia Asyik kepada Maashok-nya)* (1926) merupakan karya saduran dari novel Mesir, Zainal Abidin Ahmad (Za’ba) (1941) menganggapnya sebagai perintis Melayu bagi genre novel “… *Syed Syeikh’s tales at least point the way for new tales to be written on similar lines or even on more native lines. He was the first Malay writer in the Peninsula to introduce novel, and in consequence the rising generating are taking up story writing, while generally avoiding his Arabisms…”* 8. Pengkritik sastera, *Yahaya Ismail “… hanya menerima Hikayat Faridah Hanum sebagai karya yang menjadi pembuka jalan ke arah penciptaan novel Melayu yang asli, iaitu tidak lagi dalam bentuk saduran ataupun terjemahan.”* 9
+Walaupun novel pertamanya, *Hikayat Faridah Hanum (Hikayat Setia Asyik kepada Maashok-nya)* (1926) merupakan karya saduran dari novel Mesir, Zainal Abidin Ahmad (Za’ba) (1941) menganggapnya sebagai perintis Melayu bagi genre novel “… *Syed Syeikh’s tales at least point the way for new tales to be written on similar lines or even on more native lines. He was the first Malay writer in the Peninsula to introduce novel, and in consequence the rising generating are taking up story writing, while generally avoiding his Arabisms…”* 8. Pengkritik sastera, *Yahaya Ismail “… hanya menerima Hikayat Faridah Hanum sebagai karya yang menjadi pembuka jalan ke arah penciptaan novel Melayu yang asli, iaitu tidak lagi dalam bentuk saduran ataupun terjemahan.”* 9
 
 Pembaca Melayu memberi sambutan hebat kepada novel ini kerana berasa terkesan dengan tema baru yang segar lagi kreatif serta menyimpang dari isu terdahulu tentang agama dan sastera klasik. Maka bermulalah satu tahap penting dalam perkembangan sastera Melayu moden kerana aspek perwatakan yang berlatarbelakangkan kehidupan sebenar masyarakat Islam Mesir. Kepopularan novel ini telah memberangsangkan penulisnya, lantas lahirlah karya-karya lainnya seperti *Hikayat Chinta Berahi* (1928) serta siri *Mata-Mata Gelap Rokambol*.
 
@@ -44,7 +44,7 @@ Wajarlah nama Syed Syeikh al-Hadi, yang meninggal dunia pada 20 Februari 1934 di
 
 #### **Syed Alwi al-Hadi (1893– 1970)**
 
-Anak Syed Sheikh Ahmad al-Hadi ini adalah seorang wartawan serta penyunting akhbar-akhbar *Saudara* (1930, 1934– 1935), *Warta Malaya* (1933) dan* Lembaga Malaya* (1936–1941). Beliau lahir di Melaka pada tahun 1893 serta mendapat pendidikan Melayu di Riau and Sekolah Kampong Gelam di Singapura dan kemudian melanjutkan pelajarannya di sekolah Inggeris, Victoria Bridge School sebelum menyambung pelajarannya di Beirut dan Syria.
+Anak Syed Sheikh Ahmad al-Hadi ini adalah seorang wartawan serta penyunting akhbar-akhbar *Saudara* (1930, 1934– 1935), *Warta Malaya* (1933) dan *Lembaga Malaya* (1936–1941). Beliau lahir di Melaka pada tahun 1893 serta mendapat pendidikan Melayu di Riau and Sekolah Kampong Gelam di Singapura dan kemudian melanjutkan pelajarannya di sekolah Inggeris, Victoria Bridge School sebelum menyambung pelajarannya di Beirut dan Syria.
 
 Beliau bukan seorang reformis tetapi meneruskan ideologi ayahandanya. Sebagai penyunting akhbar Saudara, pembaca diberi peluang menulis di ruangan *“Halaman Sahabat Pena”* nya untuk bertukar fikiran sambil menambah pengetahuan.
 
@@ -124,8 +124,3 @@ Sememangnya masyarakat Melayu Malaya umumnya, amat berhutang budi atas jasa golo
 #### **Contributions of Arab Intellectuals to Malay Literature**
 
 This article discusses the great contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s. Arabs first came to Singapore in 1819 and had since been playing a prominent role in various trades. Owing to their economic status and educational accomplishments, they were able to start their own printing companies to publish newspapers, magazines, religious books and novels, which helped to develop the Malay language and literature in Malaya. The roles played by five prominent Arab personalities — Syed Sheikh Ahmad al-Hadi, Syed Alwi al-Hadi, Syed Hussein Ali Alsagoff, Syed Abdullah bin Abdul Hamid al-Edrus (Ahmad Lutfi) and Syed Omar Alsagoff — in spurring intellectual thinking of the Malays were significant. Likewise, their efforts in encouraging the reading interest among the Malays through their writings and publications are commendable.
-
-
-
-
-
