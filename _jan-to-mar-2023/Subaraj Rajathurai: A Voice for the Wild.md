@@ -202,7 +202,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^26]: “Bukit Timah Nature Reserve Restoration Works – Limited Access to Ensure Public Safety,” National Parks Board, 1 June 2014, https://www.nparks.gov.sg/news/2014/6/bukit-timah-nature-reserve-restoration-works-limited-access-to-ensure-public-safety.
 
-[^27]: Grace Chua, “Look Out for Rare Bird at New Park,” Straits Times, 6 September 2009, 2. (From Newslink via NLB’s eResources website)
+[^27]: Grace Chua, “Look Out for Rare Bird at New Park,” Straits Times, 6 September 2009, 2. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^28]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 34, 45.
 
