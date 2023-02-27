@@ -238,7 +238,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^9]: Zvelebil, *Tiru Murugan*, 30.
 
-[^10]: Carl Vadivella Belle, “Thaipusam in Malaysia: A Hindu Festival Misunderstood?” (PhD Thesis, Deakin University, Victoria, 2004), 71, https://dro.deakin.edu.au/eserv/DU:30023239/belle-thaipusaminmalaysia-2004.pdf.
+[^10]: Carl Vadivella Belle, “Thaipusam in Malaysia: A Hindu Festival Misunderstood?” (PhD Thesis, Deakin University, Victoria, 2004), 71.
 
 [^11]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 90. 
 
