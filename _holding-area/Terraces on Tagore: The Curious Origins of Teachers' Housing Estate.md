@@ -80,3 +80,8 @@ Over time, as with other housing estates around Singapore, some of the original 
 One of the original residents of the estate, Abdul Qayyum, paid $26,500 for a 3,200 sq ft (297 sq m) corner terrace house in 1969. By 1995, it had appreciated to about $1.4 million but he firmly declared that he had no intention of selling. “Many of us know each other as neighbours, and as colleagues. I’m so used to this place, I don’t intend to move anywhere else,” he said.(39) According to a property website, a 2,700 sq ft (250 sq m) four-bedroom house on Omar Khayyam Avenue is currently on the market for $4.2 million.(40)
 
 In 2004, it was announced that Teachers’ Estate would be upgraded under the Estate Upgrading Programme; upgrading works began on 10 October 2004. The $1.16-million facelift included the creation of a new poetry gallery, a new staircase, new estate signage and refurbishment of parks.(41) A new 7.6-hectare park planned for the estate is due to be completed by 2024.(42)
+
+<div style="background-color: white;">
+<br/>
+<img src=""/>
+	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
