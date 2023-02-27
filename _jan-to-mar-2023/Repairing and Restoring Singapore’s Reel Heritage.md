@@ -4,7 +4,6 @@ permalink: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
 description: The Asian Film Archive has been restoring old classics since 2014.
 image: /images/Vol 18 Issue 4/Asian Film/image14.png
 ---
-
 #### The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 
@@ -88,7 +87,7 @@ The restoration of both films took over six months, and the restored films were 
 
 One of the last films produced by Cathay-Keris is *Aku Mahu Hidup*. Written by Rajendra Gour, a pioneer of early independent short filmmaking in Singapore, the film’s adoption and sensitive treatment of the then controversial subject of prostitution portrays the progressive social consciousness of 1970s Malay cinema.
 
-Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural creature dripping in shiny black grease who abducts young women at night, predated Shaw Brothers’ MFP’s *Sumpah Orang Minyak* (1958, P. Ramlee) by a couple of weeks, demonstrating the competition between the two film studios for audiences. L. Krishnan was one of the first Indian directors employed to produce the earliest Malay films by Shaw Brothers and Cathay-Keris the early 1950s.
+Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural creature dripping in shiny black grease who abducts young women at night, predated Shaw Brothers’ MFP’s *Sumpah Orang Minyak* (1958, P. Ramlee) by a couple of weeks, demonstrating the competition between the two film studios for audiences. L. Krishnan was one of the first Indian directors employed to produce the earliest Malay films by Shaw Brothers and Cathay-Keris in the early 1950s.
 
 *Dang Anom* and *Chinta Kaseh Sayang* are two of the 13 films directed by Cathay-Keris’ star director Hussein Haniff. Unfortunately, he had a short career  and died at the age of 32. However, he is regarded today as an auteur of classic Malay Cinema. 
 
@@ -100,7 +99,7 @@ Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural 
 
 In 2020, the AFA restored *Mat Magic*, the only title in the Cathay-Keris collection jointly directed by iconic comedian Mat Sentol, and the American magician and film actor John Calvert. It marked an early creative collaboration between Singapore and Hollywood, and was the concluding film of the Mat series produced by Cathay-Keris. The restored film made its world premiere at the 50th International Film Festival Rotterdam in 2021. In the same year, AFA also restored *Dara-Kula*, a horror film by Mat Sentol, illustrating his move away from the comedy genre for his last work during his time at Cathay-Keris. 
 
-#### **Shaw Brothers’s Malay Film Productions**
+#### **Shaw Brothers’ Malay Film Productions**
 
 Unlike the Cathay-Keris Malay Classics Collection that the AFA has been preserving since 2007, very few titles from Shaw Brothers’ MFP have survived on film. 
 

@@ -76,29 +76,51 @@ Among those who remained, Kristang continued to decline in the face of other lan
 
 In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in Singapore because they wanted to “to help all those interested in this fascinating language learn more about it, and thereby remember our roots”. Interestingly, in their acknowledgements, they noted that, as children, they had been “discouraged from using Kristang for fear that we would not be able to master the English language that was taught in schools”.[^14]
 
-To give a flavour of the language, the dictionary contains several poems and songs printed alongside the English translations. One poem, titled “Singapore River”, goes:
+To give a flavour of the language, the dictionary contains poems, songs and prayers. The prayer “Our Father” is known in Kristang as “Nos Sa Pai”. It goes:
 
-Na pertu Riu di Singapura yo andah,
+Nos sa Pai ki teng na seu,
 <br>
-Olah klai bunitu seu, ta bakah dia,
+Santah fikadu bos a nomi,
 <br>
-Jenti, jenti tanu ta beng naki,
+\[Bos sa reinu beng\]
 <br>
-Bebeh kon kumi
+Bos sa bontadi kumpridu,
 <br>
-Tudu ta buskah.
+Na terra asi kema na seu,
+<br>
+Dah nos sa pang di kada dia.
+<br>
+Peduah nos sa pekadu,
+<br>
+Asi nos peduah
+<br>
+Nos sa inimigu.
+<br>
+Nang desah nos teng mal intentasang,
+<br>
+Mas librah kon no di tudu mal, Amen.[^15]
 
-Or in English:
+A comparison with the prayer in modern Portuguese shows distinct similarities:
 
-By the Singapore River I walk,
+Pai nosso, que estais no céu,
 <br>
-Admiring the sunset,
+Santificado seja o Vosso nome.
 <br>
-Lots of people are coming, 
+Venha a nós o Vosso reino.
 <br>
-In search of something
+Seja feita a Vossa vontade,
 <br>
-To eat and drink.[^15]
+Assim na terra como no céu.
+<br>
+O pão nosso de cada dia nos dai hoje.
+<br>
+Perdoai-nos as nossas ofensas
+<br>
+Assim como nós perdoamos a quem nos tem ofendido.
+<br>
+Não nos deixeis cair em tentação,
+<br>
+Mas livrai-nos do mal, Amén.
 
 #### **Batavia and Tugu Creole**
 
@@ -123,8 +145,8 @@ Later, the two communities also settled in Wureh and Konga, both also in Flores.
 In 1702, as they tried to flee from Dutch influence, the Portuguese community in Flores resettled in Lifau, Timor. Nonetheless, Portuguese linguistic and cultural elements remained in Larantuka. In Larantuka, Portuguese was used liturgically, in the same way Latin continued to be used in European churches long after vernacular languages had replaced Latin as a language of daily communication. The linguistic influence of Portuguese in Christian liturgy in Larantuka remains to this day.
 
 The Portuguese subsequently settled in Dili, on Timor, in 1769. To ensure their safety, in 1859, the Portuguese sold their nominal rights over their other settlements in Flores and Solor in exchange for the Dutch recognition of East Timor as belonging to Portugal. This agreement led to a new wave of migration. *Moradores* (inhabitants) from Flores settled in Sikka while those from Solor moved to Bidau, in the suburbs of Dili. Each spoke its own variant of Portuguese creole, although only the latter is documented. As these creoles came into contact with local languages such as Tetum or with more normative versions of Portuguese, they were gradually phased out. The Solor variant was similar to Papia Kristang and Macanese creole (the creole that developed in Macau), which suggests that it was either derived from one of them or from a common ancestor.[^19]
-	
-![](/images/Vol%2019%20Issue%201/Portuguese/Church.png)
+
+![](/images/Vol%2019%20Issue%201/Portuguese/Chuch_uncropped.png)
 <div style="background-color: white;">The Immaculate Conception Metropolitan Cathedral in Dili is the main church of the Roman Catholic Archdiocese of Dili, Timor Leste. <i>Photo by Torbenbrinker. Retrieved from Wikimedia Commons (Creative Commons Attribution-ShareAlike 4.0 International; CC BY-SA 4.0). </i>
 </div>
 
@@ -182,7 +204,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^14]: Valerie Scully and Catherine Zuzarte, [<i>The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507) (Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
-[^15]: Scully and Zuzarte, [<i>Most Comprehensive Eurasian Heritage Dictionary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507), 28. 
+[^15]: Scully and Zuzarte, [<i>Most Comprehensive Eurasian Heritage Dictionary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507), 30. 
 
 [^16]: Philippe Maurer, [<i>The Former Portuguese Creole of Batavia and Tugu (Indonesia)</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14495821) (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
 

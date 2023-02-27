@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "Terraces on Tagore: The Curious Origins of Teachers' Housing Estate.md"
       - Portugal's Linguistic Legacy in Southeast Asia.md
       - Test page.md

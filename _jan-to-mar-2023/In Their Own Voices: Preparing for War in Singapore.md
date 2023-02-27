@@ -6,9 +6,6 @@ description: Before the fall of Singapore in 1942, people prepared for the
   in civil defence units.
 image: /images/Vol 18 Issue 4/War in Singapore/1e.png
 ---
-
-
-
 #### Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
 By Christabel Khoo and Mark Wong
 
@@ -86,7 +83,7 @@ The recruitment of volunteers for civil defence units began in 1939. These civil
 ![](/images/Vol%2018%20Issue%204/War%20in%20Singapore/7e.png)
 <div style="background-color: white;">Air Raid Precautions squad member card of Tan Geok Seng. <i>Victor Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
-Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and what precautions to take in order to minimise injuries to persons and damages to properties.”[^21] 
+Ang Seah San, a bookkeeper at Lexus Borneo Motors Limited, was chosen by his company to attend Passive Defence Services training in the beginning of 1941. He attended a crash course in firefighting and first aid. He also learned how to manage public behaviour and "what precautions to take in order to minimise injuries to persons and damages to properties”.[^21] 
 
 Ang recalled practising air raid drills. When the air raid siren sounded, “wardens on duty were ordered to patrol the streets… householders would comply with our instructions, such as the taking of cover in the shelter and switching off the lights at night, advising pedestrians to cover, to take cover wherever possible. Vehicles travelling on the road were ordered to park by the roadside with lamps, headlamps switched off… In order that the public might be acquainted with the requirements, these exercises had been continually practised for about a month or so”.[^22]
 

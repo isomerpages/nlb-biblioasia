@@ -195,7 +195,7 @@ Example:
 
 [^24]: Tweedie, “Stone Age in Malaya,” 69, 84–85.
 
-[^25]: Stephen Chua et al., “[A New Holocene Sea-level Record for Singapore](https://doi.org/10.1177/09596836211019096),” The *Holocene* 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “[An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore](https://doi.org/10.1016/j.ecss.2006.07.004),” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523.
+[^25]: Stephen Chua et al., “[A New Holocene Sea-level Record for Singapore](https://doi.org/10.1177/09596836211019096),” *The Holocene* 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “[An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore](https://doi.org/10.1016/j.ecss.2006.07.004),” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523.
 
 [^26]: Tweedie, “Stone Age in Malaya,” 85.
 
@@ -203,7 +203,7 @@ Example:
 
 [^28]: H.R. van Heekeren, [*The Stone Age of Indonesia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=541252), 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “[Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat](https://doi.org/10.24832/nw.v6i1.79),” *Naditira Widya* 6, no. 1 (April 2012), 5–13.
 
-[^29]: E.g. Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “[History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology](https://doi.org/10.1007/s12052-011-0344-3),” *Evolution: Education and Outreach* 4 (2011): 435.
+[^29]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “[History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology](https://doi.org/10.1007/s12052-011-0344-3),” *Evolution: Education and Outreach* 4 (2011): 435.
 
 [^30]: Elizabeth Moore, “[The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia](http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf),” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 

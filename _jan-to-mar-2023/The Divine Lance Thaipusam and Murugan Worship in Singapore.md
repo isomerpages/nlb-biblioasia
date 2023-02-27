@@ -91,7 +91,7 @@ Guhan, Muruga, the guardian of Singapore[^12]
 <p align="right">– A line from hymn 88 in the <em>Singai Nagar Antati</em></p>
 	
 	
-The celebration of Thaipusam in Singapore can be traced to the Nattukottai Chettiars, who became an influential diaspora of private financiers in Southeast Asia in the 19th century.[^13] They adopted Murugan as their patron deity in their diasporic homes and as a partner in their business ventures, and their settlement pattern typically involved the construction of Murugan temples. When boarding a ship, the pioneering migrants carried the vel of Murugan, transferring their burden of worry for safe passage to the deity with the words “Murugan *tunai*” (“Murugan protects us”).[^14]
+The celebration of Thaipusam in Singapore can be traced to the Nattukottai Chettiars, who became an influential diaspora of private financiers in Southeast Asia in the 19th century.[^13] They adopted Murugan as their patron deity in their diasporic homes and as a partner in their business ventures, and their settlement pattern typically involved the construction of Murugan temples. When boarding a ship, the pioneering migrants carried the *vel* of Murugan, transferring their burden of worry for safe passage to the deity with the words “Murugan *tunai*” (“Murugan protects us”).[^14]
 
 In 1858, Nattukottai Chettiars installed the *vel* of Murugan beneath a pipal tree, beside a water tank, at the foot of a hill at the junction of Tank Road and Clemenceau Avenue.[^15] (According to collective memory, the *vel* was worshipped for around 30 years before the establishment of their temple.[^16]) By 1859, the Sri Thendayuthapani Temple was built nearby on land obtained from Thomas Oxley, with its design and layout based on the Murugan temple in Penang, an architectural template that would be adopted across the region by the merchant bankers.[^17] 
 
@@ -151,7 +151,7 @@ The offering of milk or honey, usually incorporated into vessels ensconced withi
 
 Penitents carry the *kavadi* to fulfil their vow of devotion for protection during a time of great tribulation. While the *kavadi* is strongly associated with Thaipusam, it is not exclusive to the festival. The firewalking festival of Theemithi, dedicated to the mother goddess as well as Panguni Uttiram, a festival celebrating Murugan’s celestial wedding, have also seen devotees engaging in a worship ritual involving the *kavadi*.[^29]  
 
-The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi* is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^30]  relating to the practice of self-mortification. 
+The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi*  (beautiful sharp-edged _kavadi_) is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^30]  relating to the practice of self-mortification. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%206.png)
 <div style="background-color: white;"> A child with a <i>thol kavadi</i>, which is carried on the shoulder, 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
@@ -238,7 +238,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^9]: Zvelebil, *Tiru Murugan*, 30.
 
-[^10]: Carl Vadivella Belle, “Thaipusam in Malaysia: A Hindu Festival Misunderstood?” (PhD Thesis, Deakin University, Victoria, 2004), 71, https://dro.deakin.edu.au/eserv/DU:30023239/belle-thaipusaminmalaysia-2004.pdf.
+[^10]: Carl Vadivella Belle, “Thaipusam in Malaysia: A Hindu Festival Misunderstood?” (PhD Thesis, Deakin University, Victoria, 2004), 71.
 
 [^11]: Clothey, “Pilgrimage Centers in the Tamil Cultus of Murukan,” 90. 
 
@@ -282,7 +282,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^31]: “More Than 10,000 Devotees Take Part in Thaipusam,” *Straits Times*, 3 February 2015, https://www.straitstimes.com/singapore/more-than-10000-devotees-take-part-in-thaipusam. 
 
-[^32]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009,  https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20090213-121728.html. 
+[^32]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009.
 
 [^33]: Prabhavathi Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1),” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
 
@@ -310,4 +310,4 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^45]: “[Miracle, He Said, So Mr. Lim Joins Kavadi Bearers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660205-1.2.103?ST=1&AT=search&k=chinese%20kavadi&QT=chinese,kavadi&oref=article),” *Straits Times*, 5 February 1966, 20. (From NewspaperSG)
 
-[^46]: Belle, [*Thaipusam in Malaysia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 246
+[^46]: Belle, [*Thaipusam in Malaysia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202821049), 246.

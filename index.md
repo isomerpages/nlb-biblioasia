@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
-      button: The Asian Film Archive
+      url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
+      button: Stone Tools found in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Asian Film/Asian_Film_Hero_image_v3.png
+      background: /images/Vol 18 Issue 4/Stone Tools/Stone Tools_Hero_img.png
   - infopic:
       title: "Neo Tiew: The Man Who Built Lim Chu Kang"
       subtitle: People
