@@ -151,7 +151,7 @@ The offering of milk or honey, usually incorporated into vessels ensconced withi
 
 Penitents carry the *kavadi* to fulfil their vow of devotion for protection during a time of great tribulation. While the *kavadi* is strongly associated with Thaipusam, it is not exclusive to the festival. The firewalking festival of Theemithi, dedicated to the mother goddess as well as Panguni Uttiram, a festival celebrating Murugan’s celestial wedding, have also seen devotees engaging in a worship ritual involving the *kavadi*.[^29]  
 
-The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi* is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^30]  relating to the practice of self-mortification. 
+The *kavadi* can take many forms. A simple *thol kavadi* has semi-circular wooden poles decorated with peacock feathers and a cloth canopy carried on the shoulder. An *alagu kavadi*  (beautiful sharp-edged _kavadi_) is a more elaborate form including a stainless steel or aluminium framework bedecked with peacock feathers and other colourful materials, supported by a belt and shoulder pads,[^30]  relating to the practice of self-mortification. 
 
 ![](/images/Vol%2018%20Issue%204/Thaipusam/Image%206.png)
 <div style="background-color: white;"> A child with a <i>thol kavadi</i>, which is carried on the shoulder, 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
