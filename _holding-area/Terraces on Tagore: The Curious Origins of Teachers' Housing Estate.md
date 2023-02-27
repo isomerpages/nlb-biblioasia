@@ -6,7 +6,7 @@ description: ""
 #### The Singapore Teachers’ Union wanted a clubhouse. They ended up building a housing estate. 
 By Sharon Teng
 
-![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers_housing_estate.png)
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_housing_estate.png)
 <div style="background-color: white;">A view of the Teachers’ Housing Estate from the bustop on Yio Chu Kang Road. <i>Photo by Sharon Teng.</i>
 </div>
 
@@ -67,6 +67,8 @@ In 1973, Tan Wee Kiat, the president of the Residents’ Association, noted that
 With the estate built, the STU embarked on plans to build a clubhouse, which would also serve as the union’s headquarters.[^28] The original plans for the clubhouse were expansive: it included facilities such as a library, a kindergarten, a hostel, a restaurant, a swimming pool, tennis courts, a multipurpose hall and a field with a 400-metre running track. The clubhouse was projected to cost half a million dollars to build. However, in 1971, the STU only had $80,562 from its building fund and a further $160,000 from the estate developer as commission for the housing project.[^29]
 
 To raise money, the STU launched a series of fundraising activities from October 1972. The aim was to raise $150,000 (30 percent of the estimated cost for phase one) for the clubhouse, which would be called the Teachers’ Centre.[^30] One of the activities in February 1973 was a “trishawthon”, which raised $34,671.[^31] The STU also appealed to teachers to donate to the clubhouse fund and over 300 teachers pledged a total of $35,540. In 1973, the union received a $100,000 loan from the government.[^32]
+
+
 
 The Teachers’ Centre was finally completed in the second half of 1973, and on 19 October 1974, the STU held its anniversary celebrations at the centre for the very first time. However, not all facilities had been built. The swimming pool was completed in 1975, the tennis court in 1978, and two squash courts were only added 10 years later.[^33]
 
