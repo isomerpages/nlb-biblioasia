@@ -158,7 +158,7 @@ Ismail Hussein. (November 1959). _Singapura sa-bagai pusat kesusasteraan Melayu 
 
 Kamal Shukri Abdullah Sani. (2003). Syed Syeikh al-Hadi: Peranannya dalam perkembangan Bahasa Melayu (Era Kolonial 1867–1934). In [_Suhaimi Abdul Aziz (Ed.), Syed Syeikh al-Hadi: Cendekia dan Sasterawan Ulung_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906). Pulau Pinang: Penerbit Universiti Sains Malaysia. Call no. Malay R 899.28092 SYE
 
-Kartini Saparudin. (2009). Malay women’s and men’s magazines of the 1950’s in Singapore and Malaya. [_BiblioAsia_](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf)_, 4_ 4, 25–30.
+Kartini Saparudin. (2009). Malay women’s and men’s magazines of the 1950’s in Singapore and Malaya. [_BiblioAsia_](https://biblioasia.nlb.gov.sg)_, 4_ 4, 25–30.
 
 Khoo, K. K. (Ed.) (2006). [_Malays/Muslims in Singapore: Selected readings in history, 1819–1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12760647). Subang Jaya: Pelandok Publication. Call no.: RSING 305.899205957 MAL
 
@@ -272,13 +272,13 @@ Zulkipli bin Mahmud. (1979). [_Warta Malaya, penyambung lidah bangsa Melayu, 193
 
 [^25]: [Shahrom Hussain](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184002), 1963, p. 271.
 
-[^26]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf), Jan 2009, p. 29.
+[^26]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg), Jan 2009, p. 29.
 
 [^27]: [Talib Samat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345007), 2002, p. 6–7.
 
 [^28]: [Syed Muhd Khairudin Aljunied](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), 2009, p. 240.
 
-[^29]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf), Jan 2009, p. 29.
+[^29]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg), Jan 2009, p. 29.
 
 
 
