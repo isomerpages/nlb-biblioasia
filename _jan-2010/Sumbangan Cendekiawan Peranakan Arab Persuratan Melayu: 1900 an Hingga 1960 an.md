@@ -124,3 +124,15 @@ Sememangnya masyarakat Melayu Malaya umumnya, amat berhutang budi atas jasa golo
 #### **Contributions of Arab Intellectuals to Malay Literature**
 
 This article discusses the great contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s. Arabs first came to Singapore in 1819 and had since been playing a prominent role in various trades. Owing to their economic status and educational accomplishments, they were able to start their own printing companies to publish newspapers, magazines, religious books and novels, which helped to develop the Malay language and literature in Malaya. The roles played by five prominent Arab personalities — Syed Sheikh Ahmad al-Hadi, Syed Alwi al-Hadi, Syed Hussein Ali Alsagoff, Syed Abdullah bin Abdul Hamid al-Edrus (Ahmad Lutfi) and Syed Omar Alsagoff — in spurring intellectual thinking of the Malays were significant. Likewise, their efforts in encouraging the reading interest among the Malays through their writings and publications are commendable.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;"/>
+ <center><b>Sundusia Rosdi</b><br>Senior Librarian<br> Professional Services<br> National Library </center></div>
+ 
+ 
+
+
+
+
