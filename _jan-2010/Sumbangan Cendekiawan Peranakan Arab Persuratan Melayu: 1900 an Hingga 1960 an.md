@@ -111,6 +111,21 @@ Majalah hiburan terbitan *Geliga Press* ternyata sangat popular di kalangan masy
 
 Dermawan yang juga aktif dalam kegiatan kemasyarakatan ini telah kembali ke rahmatullah pada 9 Mei 1991.
 
+#### **Rumusan**
+
+Selepas Perang Dunia Kedua, generasi muda dari golongan asal Arab dapat menerima Malaya sebagai negara mereka, akibatnya penghayatan terhadap budaya asal Arab semakin meluntur di kalangan mereka . Sebilangan besarnya menganggap diri mereka sebagai kaum Melayu dan lebih selesa berbahasa Melayu serta mengamalkan gaya hidup seharian Melayu. Lebih istimewa bila masyarakat Melayu mempercayai dan menghormati mereka sebagai pemimpin kerana kemurahan hati dan kebijaksanaan golongan peranakan Arab ini.
+
+Sumbangan mereka dalam menjana sifat berfikir, peningkatan intelek serta pemikiran kritikal orang Melayu telah meningkatkan tahap literasi dan kebangkitan semangat sosiopolitik masyarakat Melayu tempatan.
+
+Justeru selama lebih enam dekad, golongan cendekiawan Arab telah mewarnai lanskap persuratan Melayu dengan mempelopori dan menerajui ehwal penerbitan, penulisan serta pembacaan masyarakat Melayu. Selain menyediakan wadah suara orang Melayu, ruang liputan berita dan rekod dokumen ehwal orang Melayu, peranan mereka mendedahkan pemikiran baru serta mengenalkan gaya penulisan moden khususnya, tidak sekali-kali dapat dipertikaikan dan sejarah telah membuktikannya.
+
+Sememangnya masyarakat Melayu Malaya umumnya, amat berhutang budi atas jasa golongan pedagang dan cendekiawan peranakan Arab ini.
+
+#### **Contributions of Arab Intellectuals to Malay Literature**
+
+This article discusses the great contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s. Arabs first came to Singapore in 1819 and had since been playing a prominent role in various trades. Owing to their economic status and educational accomplishments, they were able to start their own printing companies to publish newspapers, magazines, religious books and novels, which helped to develop the Malay language and literature in Malaya. The roles played by five prominent Arab personalities — Syed Sheikh Ahmad al-Hadi, Syed Alwi al-Hadi, Syed Hussein Ali Alsagoff, Syed Abdullah bin Abdul Hamid al-Edrus (Ahmad Lutfi) and Syed Omar Alsagoff — in spurring intellectual thinking of the Malays were significant. Likewise, their efforts in encouraging the reading interest among the Malays through their writings and publications are commendable.
+
+
 
 
 
