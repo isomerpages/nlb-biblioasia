@@ -151,24 +151,24 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 [^31]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 2, no. 10 (March 1973) (Singapore: Singapore Teachers’ Union, 1971–), 1, 6–7. (From National Library, Singapore, RSING 331.881137 M); *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 8; Maureen Chua, “[Teachers Brave the Rain for Fund-raising Trishawthon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730226-1.2.31),” *Straits Times*, 26 February 1973, 7. (From NewspaperSG)
 
-[^32]: *Mentor* vol. 5, no. 1, 2, 8; “$100,000 Loan for Teachers’ Union,” *Straits Times*, 19 March 1973, 6. (From NewspaperSG)
+[^32]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 2, 8; “[$100,000 Loan for Teachers’ Union](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730319-1.2.33),” *Straits Times*, 19 March 1973, 6. (From NewspaperSG)
 
-[^33]: *Mentor* vol. 4, no. 5 (December 1974) (Singapore: Singapore Teachers’ Union, 1971–), 1. (From National Library, Singapore, RSING 331.881137 M); Singapore Teachers’ Union, *The Challenge of Change*, 63.
+[^33]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 4, no. 5 (December 1974) (Singapore: Singapore Teachers’ Union, 1971–), 1. (From National Library, Singapore, RSING 331.881137 M); Singapore Teachers’ Union, *[The Challenge of Change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)*, 63.
 
-[^34]: Yeoh, oral history interview, Reel/Disc 7 of 14.
+[^34]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 7 of 14.
 
-[^35]: Leow Peng Kui, “Looking Back and Ahead”, *Mentor* (April-June 2009) (Singapore: Singapore Teachers’ Union, 1971–), 17. (From National Library, Singapore, RSING 331.881137 M)
+[^35]: Leow Peng Kui, “Looking Back and Ahead”, *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* (April-June 2009) (Singapore: Singapore Teachers’ Union, 1971–), 17. (From National Library, Singapore, RSING 331.881137 M)
 
-[^36]: *Mentor* vol. 5, no. 1, 13; “Teachers Housing Estate”, Singapore Land Authority – Integrated Land Information Service, accessed 3 February 2023, https://app1.sla.gov.sg/inlis/#/.
+[^36]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 13; “Teachers Housing Estate”, Singapore Land Authority – Integrated Land Information Service, accessed 3 February 2023, https://app1.sla.gov.sg/inlis/#/.
 
-[^37]: “Longer Wait for a Teachers’ Housing Estate,” *Singapore Monitor*, 6 March 1984, 3. (From NewspaperSG)
+[^37]: “[Longer Wait for a Teachers’ Housing Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840306-1.2.6.5),” *Singapore Monitor*, 6 March 1984, 3. (From NewspaperSG)
 
-[^38]: TJ, “Touring Teacher’s Housing Estate: The Cheapest and Most Spacious Freehold Landed Estate (D26),” Stackedhomes, 26 December 2021, https://stackedhomes.com/editorial/touring-teachers-housing-estate/#gs.7mbvhw; Tan, “Peace Now Reigns at ‘Whistling Estate’.”
+[^38]: TJ, “Touring Teacher’s Housing Estate: The Cheapest and Most Spacious Freehold Landed Estate (D26),” Stackedhomes, 26 December 2021, https://stackedhomes.com/editorial/touring-teachers-housing-estate/#gs.7mbvhw; Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
 
-[^39]: Chua, “The Story Behind Teachers’ Estate.”
+[^39]: Chua, “[The Story Behind Teachers’ Estate.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950922-1.2.45.2)”
 
 [^40]: “Teachers’ Housing Estate,” PropertyGuru, accessed 6 February 2023, https://www.propertyguru.com.sg/listing/24320544/for-sale-teacher-s-housing-estate.
 
-[^41]: “Facelift for Teacher’s Estate,” *Today*, 16 October 2004, 8; “EUP Set for Sunday,” *Today*, 9 October 2004, 33. (From NewspaperSG)
+[^41]: “[Facelift for Teacher’s Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20041016-1.2.9.9.3),” *Today*, 16 October 2004, 8; “[EUP Set for Sunday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20041009-1.2.24.6.5),” *Today*, 9 October 2004, 33. (From NewspaperSG)
 
-[^42]: Ng Keng Gene, “$315m to Expand and Enhance Parks, Park Connector Network and Recreational Route,” *Straits Times*, 4 March 2021. (From Newslink via NLB’s eResources website); “NParks to Develop Singapore’s Longest Cross-island Trail and 3 New Recreational Routes,” *Channel NewsAsia*, 4 March 2021. (From Factiva via NLB’s eResources website)
+[^42]: Ng Keng Gene, “$315m to Expand and Enhance Parks, Park Connector Network and Recreational Route,” *Straits Times*, 4 March 2021. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); “NParks to Develop Singapore’s Longest Cross-island Trail and 3 New Recreational Routes,” *Channel NewsAsia*, 4 March 2021. (From Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
