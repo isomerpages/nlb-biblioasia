@@ -129,3 +129,156 @@ This article discusses the great contributions of several Arab immigrants in the
 <br/>
 <img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;"/>
  <center><b>Sundusia Rosdi</b><br>Senior Librarian<br> Professional Services<br> National Library </center></div>
+
+#### **REFERENCES**
+
+A. M. Iskandar Ahmad. (1980). [_Persuratkhabaran Melayu, 1876–1968_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2467010). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay RCLOS 079.595 AMI
+
+Abdullah bin Haji Jaafar. (1980). Al-Imam. In Khoo K. K. (Ed.), [_Lembaran akhbar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4095629) (pp. 7–32). Kuala Lumpur: Persatuan Sejarah Malaysia. Call no.: Malay RSING 070.9595 LEM
+
+Abdullah bin Haji Jaafar. (1985). Al-Imam. In Khoo K. K. (Ed.), [_Sejarah masyarakat Melayu moden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6392248) (pp. 85–103). Kuala Lumpur: Jabatan Penerbitan Universiti Malaya. Call no.: Malay R 959.5 SEJ
+
+Abu Bakar Hamzah. (1991). _Al-Imam, its role in a Malay society, 1906–1908_. Kuala Lumpur: Pustaka Antara.
+
+Ahmad Saleh. (April 1962). Peranan surat khabar dalam perkembangan sastera Melayu. [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309), 164–169. Call no.: Malay RSEA 499.23 DB
+
+Ahmat Adam. (1994). [_Isu bahasa dan pembentukan bangsa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7423054). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay RSEA 499.23 AHM
+
+[_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194). (1997). Diselenggarakan oleh Sulaiman Jeem dan Abdul Ghani Hamid. Singapura: Persatuan Wartawan Singapura. Call no.: Malay RSING 305.89928 AKT
+
+Freitag, U. (2002). Arab merchants in Singapore: Attempt of a collective biography. In H. de Jonge & N.J.G. Kaptein (Eds.), [_Transcending borders: Arabs, politics, trade and Islam in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543) (pp. 109–141). Leiden: KITLV Press. Call no.: RSING 305.8927059 TRA
+
+Gordon, A. (Ed.). (1999). [_The real cry of Syed Shaykh al-Hady: With selections of his writings by his son Syed Alwi Al-Hady_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9756432). Kuala Lumpur: Malaysian Sociological Research Institute. Call no.: RSEA 291.61 REA
+
+Hafiz Zakariya. (2002). Sayyid Shaykh Ahmad Al-Hadi’s contributions to Islamic reformism in Malaya. In H. de Jonge & N.J.G. Kaptein (Eds.), [_Transcending borders: Arabs, politics, trade and Islam in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543) (pp. 203–223). Leiden: KITLV Press. Call no.: RSING 305.8927059 TRA
+
+Ismail Hussein. (1959). [_Pengarang-pengarang Melayu di-Singapura Selepas Perang_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4367423). Singapura: Jabatan Pengajian Melayu, Universiti Malaya. Call no.: Malay RSING 899.1092 ISM
+
+Ismail Hussein. (November 1959). _Singapura sa-bagai pusat kesusasteraan Melayu sa-lepas perang_. [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309), 539–552. Call no.: Malay RSEA 499.23 DB
+
+Kamal Shukri Abdullah Sani. (2003). Syed Syeikh al-Hadi: Peranannya dalam perkembangan Bahasa Melayu (Era Kolonial 1867–1934). In [_Suhaimi Abdul Aziz (Ed.), Syed Syeikh al-Hadi: Cendekia dan Sasterawan Ulung_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906). Pulau Pinang: Penerbit Universiti Sains Malaysia. Call no. Malay R 899.28092 SYE
+
+Kartini Saparudin. (2009). Malay women’s and men’s magazines of the 1950’s in Singapore and Malaya. [_BiblioAsia_](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf)_, 4_ 4, 25–30.
+
+Khoo, K. K. (Ed.) (2006). [_Malays/Muslims in Singapore: Selected readings in history, 1819–1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12760647). Subang Jaya: Pelandok Publication. Call no.: RSING 305.899205957 MAL
+
+Li, C. S. (1972). [_Ikhtisar sejarah kesusasteraan Melayu baru, 1830–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153). Kuala Lumpur: Penerbitan Pustaka Antara. Call no.: Malay RSING 899.23008104 LI
+
+Lim, L. S. (1987). _The Arabs of Singapore: A sociographic study of their place in the Muslim and Malay world of Singapore_. Singapore: Academic Exercise, Department of Sociology, National University of Singapore.
+
+Makepeace, W., Brooke, G. E. & Roland St. J. (Eds.). (1921). [_One hundred years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132) (Vols. 1 & 2). London: John Murray. Call no.: RCLOS 959.51 MAK
+
+Men of property: The enterprising Alsagoffs of Singapore. (1992). In [_Singapore days of old_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6367343) (pp. 56–57). Hong Kong: Illustrated Magazine Pub. Call no.: RSING 959.57 SIN
+
+Mohamed Saleeh Rohamad. (2005). [_Pencerekaan dalam novel sejarah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12507098). Kuala Lumpur: Penerbit Universiti Malaya. Call no.: Malay R 899.28309 MOH
+
+Nik Ahmad Nik Hassan. (May 1963). The Malay press_. Journal of the Malaysian Branch Royal Asiatic Society, 36_ (201), 37–61. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website
+
+Philanthrophic calls: The pioneering Aljunieds. (1992). In [_Singapore days of old_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6367343)  (pp. 54–55). Hong Kong: Illustrated Magazine Pub. Call no.: RSING 959.57 SIN
+
+Proudfoot, I. (1992). [_Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO
+
+Roff, W. R. (November 1964). The Malayo Muslim world of Singapore at the close of the nineteenth century. _Journal of Asian Studies, 24_ (1), 75–90. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Roff, W. R. (1967). [_Sejarah surat-surat khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289). Pulau Pinang: Saudara Sinaran Berhad. Call no.: Malay RCLOS 079.595 ROF
+
+Roff, W. R. (1994). [_The origins of Malay nationalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266) (2nd ed.). Kuala Lumpur: Oxford University Press. Call no: RSING 320.54 ROF
+
+Roff, W. R. (2002). Murder as an aid to social history: The Arabs in Singapore in the early twentieth century. In H. de Jonge & N.J.G. Kaptein (Eds.), [_Transcending borders: Arabs, politics, trade and Islam in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543) (pp. 91–108). Leiden: KITLV Press. Call no.: RSING 305.8927059 TRA
+
+Roff, W. R. (2009). In and outs of Hadhrami journalism in Malaya, 1900–1941: assimilation or identity maintenance? In Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim, [_Hadhrami diaspora in Southeast Asia: identity maintenance or assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077) (pp. 191–204). Leiden: Brill. Call no.: RSEA 305.89275335 HAD
+
+Samat Buang. (1993). Perkembangan akhbar dan majalah (1901–1925), [_Pelita Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5417403)_, 5_ (5), 38-41. Call no.: Malay RCLOS 499.23005 PB
+
+[_Sejarah kesusasteraan Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12695536). (2006). Diselenggarakan oleh Safian Hussain, Mohd. Thani Ahmad, Johan Jaaffar. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: R 899.230009 SEJ
+
+Shahrom Hussain. (1963). [_Antara pengarang-pengarang novel Melayu dan karyanya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184002). Singapura: Pustaka Melayu. Call no.: Malay RCLOS 899.23009303 SHA
+
+Sohaimi Abdul Aziz. (2003). [_Syed Syeikh alHadi: Cendekia dan sasterawan ulung_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906). Pulau Pinang; Penerbit Universiti Sains Malaysia. Call no.: Malay R 899.28092 SYE
+
+Syed Alwi bin Sheikh Al-Hadi. (1960). [_Adat resam Melayu dan adat istiadat_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4119154). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay RCLOS 390.09595 HAD
+
+Syed Muhd. Khairudin Aljunied. (2007). The role of Hadramis in post-Second World War Singapore – A reinterpretation. _Immigrants & Minorities, 25_ (2), 163–183.
+
+Syed Muhd. Khairudin Aljunied. (2009). Hadhramis within Malay activism: The role of Al-Saqqaf(s) in post-war Singapore (1945-–1965). In Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Eds.), [_Hadhrami Diaspora in Southeast Asia: Identity maintenance or assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077) (pp. 225–243). Leiden: Brill Call no.: RSEA 305.89275335 HAD
+
+Talib, Ameen Ali. (November 1995). _Hadramis in Singapore_, https://al-bab.com/hadramis-singapore
+
+Talib Samat. (2002). [_Ahmad Lutfi: Penulis, penerbit dan pendakwah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345007). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28092 TAL
+
+Trekker, P. (November 1995). The Arab pioneers of Singapore. _Beam: Official magazine of the British European Association_, 10–11.
+
+Turnbull, C. M. (1977). [_A History of Singapore, 1819–1975_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5255580). Kuala Lumpur: Oxford University Press. Call no.: RDLKL 959.57 TUR
+
+Turnbull, C. M. (2009). [_A History of modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047). Singapore: National University of Singapore Press. Call no.: RSING 959.57 TUR
+
+Ungku Maimunah Mohd. Tahir. (1987) [_Modern Malay literary culture: A historical perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4769138). Singapore: ISEAS. Call no.: RSING M899.24009305 MAI
+
+Yahaya Ismail. (November 1974). Syed Sheikh Al-Hadi: Pembuka zaman baru dalam bidang novel. [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309), 18, 549–576. Call no.: Malay RSEA 499.23 DB
+
+Zainal Abidin Ahmad. (October 1941). Modern development of Malay literature. _Journal of the Malayan Branch of the Royal Society,_ _19_ (2), 244–250. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website; Also published in: Abdullah Hussain. (2000). [_Pendeta Za’ba dalam kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (pp. 242–270). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 499.2800924 ABD
+
+Zulkipli bin Mahmud. (1979). [_Warta Malaya, penyambung lidah bangsa Melayu, 1930–1941_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2303498). Bangi: Jabatan Sejarah, Universiti Kebangsaan Malaysia. Call no.: Malay R 079.595 ZUL
+
+#### **NOTES**
+
+[^1]: [Turnbull](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 2009, p. 34.
+
+[^2]: Lim Lu Sia, 1987, p. 23.
+
+[^3]: Roff, Nov 1964, p. 82.
+
+[^4]: [Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6392248), 1985, p. 86.
+
+[^5]: Sheikh (Syed) Mohd. Salim al-Kalali merupakan teman seperjuangan Syed Sheikh Ahmad al Hadi dan Sheikh Tahir Jalaludin yang menganjurkan dan mendokong penerbitan alImam. Mereka digelar “Kaum Muda” dan bergiat menyebarkan fahaman baru tentang Islam. Al-Imam diterbitkan dalam tulisan Jawi sebanyak 31 keluaran dari 23 Julai 1906 hingga bulan Disember 1908 di Singapura. Menurut Proudfoot (1992), al-Imam pernah dicetak sebanyak 5,000 naskah iaini jumlah pencapaian percetakan tertinggi oleh akhbar Melayu sebelum Perang Dunia ke Dua.
+
+[^6]: [Khoo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4095629), 1980, p. 12.
+
+[^7]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 82.
+
+[^8]: Zainal Abidin Ahmad, Oct 1941, p. 262.
+
+[^9]: [_Sejarah Kesusasteraan Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12695536), 2006, p. 138.
+
+[^10]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 63.
+
+[^11]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153), 1972, p. 80.
+
+[^12]: [Kamal Shukri Abdullah Sani](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906), 2003, p. 150.
+
+[^13]: [Ahmat Adam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7423054), 1994, p. 53.
+
+[^14]: [Kamal Shukri Abdullah Sani](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906), 2003, p.148.
+
+[^15]: [Turnbull](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 2009, p. 154.
+
+[^16]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), 2009, p. 197.
+
+[^17]: [Samat Buang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5417403), 1993, p. 43.
+
+[^18]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153), 1972, p. 101.
+
+[^19]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153), 1972, p. 101.
+
+[^20]: [Zulkipli Mahmud](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2303498), 1979, p. 4.
+
+[^21]: [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194), 1997, p. 404.
+
+[^22]: [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194), 1997, p. 406.
+
+[^23]: [Ismail Hussein](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309), Nov 1959, p. 547.
+
+[^24]: [Talib Samat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345007), 2002, p.13.
+
+[^25]: [Shahrom Hussain](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184002), 1963, p. 271.
+
+[^26]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf), Jan 2009, p. 29.
+
+[^27]: [Talib Samat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345007), 2002, p. 6–7.
+
+[^28]: [Syed Muhd Khairudin Aljunied](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), 2009, p. 240.
+
+[^29]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf), Jan 2009, p. 29.
+
+
+
