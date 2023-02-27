@@ -282,7 +282,7 @@ The festival of Thaipusam is a phenomenon tying together source and diasporic co
 
 [^31]: “More Than 10,000 Devotees Take Part in Thaipusam,” *Straits Times*, 3 February 2015, https://www.straitstimes.com/singapore/more-than-10000-devotees-take-part-in-thaipusam. 
 
-[^32]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009,  https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20090213-121728.html. 
+[^32]: Tamilavel, “Tall Order for this Kavadi Carrier,” *Tabla!*, 13 February 2009.
 
 [^33]: Prabhavathi Nair, “[The Two Faces of Thaipusam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900202-1.2.62.9.1),” *Straits Times*, 2 February 1990, 8. (From NewspaperSG)
 
