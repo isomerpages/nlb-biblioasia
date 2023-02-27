@@ -4,7 +4,6 @@ permalink: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
 description: The Asian Film Archive has been restoring old classics since 2014.
 image: /images/Vol 18 Issue 4/Asian Film/image14.png
 ---
-
 #### The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 
@@ -88,7 +87,7 @@ The restoration of both films took over six months, and the restored films were 
 
 One of the last films produced by Cathay-Keris is *Aku Mahu Hidup*. Written by Rajendra Gour, a pioneer of early independent short filmmaking in Singapore, the film’s adoption and sensitive treatment of the then controversial subject of prostitution portrays the progressive social consciousness of 1970s Malay cinema.
 
-Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural creature dripping in shiny black grease who abducts young women at night, predated Shaw Brothers’ MFP’s *Sumpah Orang Minyak* (1958, P. Ramlee) by a couple of weeks, demonstrating the competition between the two film studios for audiences. L. Krishnan was one of the first Indian directors employed to produce the earliest Malay films by Shaw Brothers and Cathay-Keris the early 1950s.
+Cathay-Keris’ *Orang Minyak*, based on traditional folklore of a supernatural creature dripping in shiny black grease who abducts young women at night, predated Shaw Brothers’ MFP’s *Sumpah Orang Minyak* (1958, P. Ramlee) by a couple of weeks, demonstrating the competition between the two film studios for audiences. L. Krishnan was one of the first Indian directors employed to produce the earliest Malay films by Shaw Brothers and Cathay-Keris in the early 1950s.
 
 *Dang Anom* and *Chinta Kaseh Sayang* are two of the 13 films directed by Cathay-Keris’ star director Hussein Haniff. Unfortunately, he had a short career  and died at the age of 32. However, he is regarded today as an auteur of classic Malay Cinema. 
 
