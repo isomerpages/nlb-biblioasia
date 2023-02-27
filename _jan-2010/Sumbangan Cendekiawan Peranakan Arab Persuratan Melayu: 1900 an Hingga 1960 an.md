@@ -88,6 +88,9 @@ Sebagai menghargai sumbangan Syed Hussein Ali Alsagoff terhadap persuratan Melay
 
 #### **Syed Abdullah bin Abdul Hamid al-Edrus (Ahmad Lutfi) (1911–1969)**
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Ahmad%20Lufti.jpg">
+ <div style="background-color: white;">Perjuangan Ahmad Lutfi dibukukan. All rights reserved, Dewan Bahasa dan Pustaka, 2002.</div>
+
 Syed Abdullah bin Abdul Hamid al-Edrus atau Ahmad Lutfi yang lahir 11 Julai 1911 di Banjarmasin, Indonesia ialah pemilik syarikat percetakan *Qalam Press Limited* sebuah syarikat percetakan paling produktif menerbitkan pelbagai genre persuratan Melayu pada akhir tahun 1940-an. Ahmad Lutfi terdorong untuk ke Singapura yang merupakan pusat suratkhabar, komunikasi dan intelektual Melayu waktu itu. Dia bermula sebagai pelatih pengatur huruf dan semasa menjadi penyunting di akhbar *Warta Malaya*, beliau mendalami teknik penulisan dan penerbitan melalui bimbingan wartawanwartawan veteran seperti Abdul Rahim Kajai, Dato’ Onn Jaafar Syed Alwi al-Hadi dan Ishak Haji Muhammad.
 
 Peka dengan isu semasa, Ahmad Lutfi menggarap kepincangan masyarakat melalui karyanya yang menggunakan beberapa nama pena seperti “alEdrus” dan “Cemeti al-Farouk”. Beliau dikatakan pengarang novel yang prolifik dengan menghasilkan 24 buah novel di antara tahun 1948 hingga 1951.[^23]
@@ -111,6 +114,9 @@ Ahmad Lutfi melalui nama samarannya; ‘Cemeti al-Farouk’ lantang mengkritik a
 Karya-karya Ahmad Lutfi juga dinilai Taib Samat (2002) sebagai *“…kelihatan Ahmad Lutfi meneruskan usaha Syed Syeikh al-Hadi dalam menerbitkan novelnovel saduran yang bernada romantik. Novel-novel seperti ini mudah mendapat pasaran. Ada persamaan antara perjuangan Ahmad Lutfi dengan Syed Syeikh al-Hadi. Tidak dapat ditolak kemungkinan bahawa Ahmad Lutfi menjadikan Syed Syeikh Al-Hadi sebagai model dalam perjuangannya dalam dunia kesusasteraan Melayu khususnya bidang novel…”*. [^27] Ahmad Lutfi meninggal dunia pada 20 Oktober 1969 dan *Qalam Press Limited* terpaksa ditutup.
 
 #### **Syed Omar Abdul Rahman Alsagoff (1932–1991)**
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Omar%20Alsagoff%20photo.jpg">
+ <div style="background-color: white;">Gambar Syed Omar Alsagoff dalam Aktivis Melayu/Islam di Singapura. All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.</div>
 
 Seorang lagi cendekiawan yang bergiat dalam persuratan Melayu selepas Perang Dunia Kedua ialah Syed Omar bin Abdul Rahman Alsagoff. Lahir di Singapura pada 8 Oktober 1932 dan terdidik di Madrasah Aljunied serta Sekolah Monk’s Hill dan Victoria School, Singapura.
 
