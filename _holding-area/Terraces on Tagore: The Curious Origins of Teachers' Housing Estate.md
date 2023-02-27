@@ -89,7 +89,7 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 <div style="background-color: white;">
 <br/>
-<img src=""/>
+<img src="images/Authors/Sharon%20Teng.png" style="width: 100px; height: 100px;"/>
 	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 	
 #### **NOTES**
