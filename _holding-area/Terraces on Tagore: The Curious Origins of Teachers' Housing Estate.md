@@ -141,15 +141,15 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 [^26]: Khoo, “[Friendly Estate… Shining Example of Neighbourliness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730828-1.2.17.2)”; Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
 
-[^27]: Khoo, “Friendly Estate… Shining Example of Neighbourliness.”
+[^27]: Khoo, “[Friendly Estate… Shining Example of Neighbourliness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730828-1.2.17.2).”
 
-[^28]: “Teachers Plan Big Multi-purpose Complex,” *Straits Times*, 22 October 1967, 13. (From NewspaperSG)
+[^28]: “[Teachers Plan Big Multi-purpose Complex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671022-1.2.17.59),” *Straits Times*, 22 October 1967, 13. (From NewspaperSG)
 
-[^29]: *Mentor* vol. 5, no. 1, 8–9; Singapore Teachers’ Union, The Challenge of Change, 62.
+[^29]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 8–9; Singapore Teachers’ Union, [The Challenge of Change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561), 62.
 
-[^30]: *Mentor* vol. 2, no. 4 (September 1972) (Singapore: Singapore Teachers’ Union, 1971–), 12. (From National Library, Singapore, call no. RSING 331.881137 M); *Mentor* vol. 5, no. 1, 2; “STU Drive for Funds,” New Nation, 20 December 1971, 2; “Drive to Raise $150,000 for Teachers’ Centre,” *Straits Times*, 26 September 1972, 5. (From NewspaperSG)
+[^30]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 2, no. 4 (September 1972) (Singapore: Singapore Teachers’ Union, 1971–), 12. (From National Library, Singapore, call no. RSING 331.881137 M); *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 2; “[STU Drive for Funds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711220-1.2.14),” New Nation, 20 December 1971, 2; “[Drive to Raise $150,000 for Teachers’ Centre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720926-1.2.53),” *Straits Times*, 26 September 1972, 5. (From NewspaperSG)
 
-[^31]: *Mentor* vol. 2, no. 10 (March 1973) (Singapore: Singapore Teachers’ Union, 1971–), 1, 6–7. (From National Library, Singapore, RSING 331.881137 M); *Mentor* vol. 5, no. 1, 8; Maureen Chua, “Teachers Brave the Rain for Fund-raising Trishawthon,” *Straits Times*, 26 February 1973, 7. (From NewspaperSG)
+[^31]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 2, no. 10 (March 1973) (Singapore: Singapore Teachers’ Union, 1971–), 1, 6–7. (From National Library, Singapore, RSING 331.881137 M); *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 8; Maureen Chua, “[Teachers Brave the Rain for Fund-raising Trishawthon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730226-1.2.31),” *Straits Times*, 26 February 1973, 7. (From NewspaperSG)
 
 [^32]: *Mentor* vol. 5, no. 1, 2, 8; “$100,000 Loan for Teachers’ Union,” *Straits Times*, 19 March 1973, 6. (From NewspaperSG)
 
