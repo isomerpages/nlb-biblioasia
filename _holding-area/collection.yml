@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Terraces on Tagore.md
       - Portugal's Linguistic Legacy in Southeast Asia.md
       - Test page.md
