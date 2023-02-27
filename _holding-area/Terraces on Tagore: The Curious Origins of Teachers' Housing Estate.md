@@ -85,3 +85,90 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 <br/>
 <img src=""/>
 	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
+	
+#### **NOTES**
+
+[^1]: Betty L. Khoo, “[Friendly Estate… Shining Example of Neighbourliness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730828-1.2.17.2),” *New Nation*, 28 August 1973, 4. (From NewspaperSG)
+
+[^2]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1 (1975) (Singapore: Singapore Teachers’ Union, 1971–), 8. (From National Library, Singapore, call no. RSING 331.881137 M)
+
+[^3]: Yeoh Beng Cheow, “Report on the Teachers’ Housing Estate,” in *[Teachers’ Forum](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5865164)*, no. 1 (April–May 1968) (Singapore: Singapore Teachers’ Union, 1968), 12. (From National Library, Singapore, call no. RCLOS 331.88113711 TF); [Yeoh Beng Cheow](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview by Jason Lim, 25 April 2010, MP3 audio, Reel/ Disc 7 of 14, National Archives of Singapore (accession no. 003463); “Our Story,” Singapore Teachers’ Union, accessed 30 January 2023, https://stu.org.sg/wp-content/uploads/2021/02/STU_75_Corp-Video.mp4.
+
+[^4]: Chua Mui Hoong, “[The Story Behind Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950922-1.2.45.2),” *Straits Times*, 22 September 1995, 34. (From NewspaperSG)
+
+[^5]: [Yeoh Beng Cheow](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview by Jason Lim, 25 April 2010, MP3 audio, Reel/ Disc 6 of 14, 18:00–20.02. National Archives of Singapore (accession no. 003463)
+
+[^6]: Lim How Seng and Lim Guan Hock, eds. 林孝胜, 林源福 主编 , [*义顺社区发展史* / The Development of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84459386) (Xinjiapo *新加坡*: Yishun qu ji ceng zu zhi, guo jia dang an guan, kou shu li shi guan *义顺区基层组织*, *国家档案馆*, *口述历史馆*, 1987), 36, 198, 200, 202–203. (From National Library, Singapore, call no. RSING 959.57 DEV);
+*[A Pictorial History of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200063229)* (Singapore: The Grassroots Organisations of Nee Soon Constituency; National Archives; Oral History Department, 1987), 23. (From National Library, Singapore, call no. RSING 959.57 PIC)
+
+[^7]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 8; Singapore Teachers’ Union, *[The Challenge of Change: The Modernisation of the STU 1968–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)* (Singapore: STU, 1989), 62. (From National Library, Singapore, call no. RCLOS 331.881137 SIN)
+
+[^8]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/ Disc 6 of 14, 23:33–24.00.
+
+[^9]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/ Disc 6 of 14.; Yeoh Beng Cheow, “[Report Never Gave One Man Credit for Development of Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951002-1.2.60.2),” *Straits Times*, 2 October 1995, 44. (From NewspaperSG) 
+
+[^10]: Yeoh, “Report on the Teachers’ Housing Estate”; [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 6 of 14; M. Nirmala, “Going to School Was Like Going to Heaven,” *Straits Times*, 13 October 2000, 60. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website); “[$1m Teachers’ Clubhouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681004-1.2.35),” *Straits Times*, 4 October 1968, 6. (From NewspaperSG)
+
+[^11]: Pang Gek Choo, “[Indomitable Kim San: A Man of Integrity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961129-1.2.54.20),” *Straits Times*, 29 November 1996, 56. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website); “[Union to Celebrate 25th Anniversary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710928-1.2.17),” *Straits Times*, 28 September 1971, 2. (From NewspaperSG); Lim Kim San, “[Speech by Mr. Lim Kim San, Minister for Education at the Opening of Teachers’ Park and Foundation Stone Laying Ceremony on 19 October 1971 at 7.00pm](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b5640b5-115d-11e3-83d5-0050568939ad),” 12 ½ milestone Yio Chu Kang Road, 19 October 1971. 
+
+[^12]: Yeoh, “Report on the Teachers’ Housing Estate,” 14–15; Chua, “[The Story Behind Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950922-1.2.45.2).” Transcript. Ministry of Culture. (From National Archives of Singapore document no. PressR19711019a)
+
+[^13]: Singapore Teachers’ Union, *[The Challenge of Change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)*, 62.
+
+[^14]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 7 of 14; Yeoh, “Report on the Teachers’ Housing Estate,” 15; Yeoh, “[Report Never Gave One Man Credit for Development of Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951002-1.2.60.2)”; “[$1m Teachers’ Clubhouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681004-1.2.35).”
+
+[^15]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 7 of 14; Ying Cheok Ping, “[Teachers’ Estate Built by Many, Not Just One Man](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950926-1.2.44.4),” *Straits Times*, 26 September 1995, 30. (From NewspaperSG); Yeoh, “Report on the Teachers’ Housing Estate,” 14.
+
+[^16]: Khoo, “[Friendly Estate… Shining Example of Neighbourliness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730828-1.2.17.2)”; Chua, “[The Story Behind Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950922-1.2.45.2).”
+
+[^17]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 6 of 14; Yeoh, “Report on the Teachers’ Housing Estate,” 12.
+
+[^18]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 6 of 14; Yeoh, “Report on the Teachers’ Housing Estate,” 12.
+
+[^19]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 2 no. 2 (May 1972) (Singapore: Singapore Teachers’ Union, 1971–), 10. (From National Library, Singapore, call no. RSING 331.881137 M)
+
+[^20]: Lim, “Opening of Teachers’ Park and Foundation Stone Laying Ceremony”; “[Union to Celebrate 25th Anniversary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710928-1.2.17).”
+
+[^21]: Florence Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1),” *New Nation*, 28 December 1974, 9. (From NewspaperSG)
+
+[^22]: Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
+
+[^23]: Francis Rozario, “[Thugs Move into Housing Estates in the Suburbs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691026-1.2.13.52),” *Straits Times*, 26 October 1969, 11. (From NewspaperSG); Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
+
+[^24]: Khoo, “[Friendly Estate… Shining Example of Neighbourliness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730828-1.2.17.2)”; Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
+
+[^25]: Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
+
+[^26]: Khoo, “[Friendly Estate… Shining Example of Neighbourliness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730828-1.2.17.2)”; Tan, “[Peace Now Reigns at ‘Whistling Estate’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741228-1.2.18.1).”
+
+[^27]: Khoo, “Friendly Estate… Shining Example of Neighbourliness.”
+
+[^28]: “Teachers Plan Big Multi-purpose Complex,” *Straits Times*, 22 October 1967, 13. (From NewspaperSG)
+
+[^29]: *Mentor* vol. 5, no. 1, 8–9; Singapore Teachers’ Union, The Challenge of Change, 62.
+
+[^30]: *Mentor* vol. 2, no. 4 (September 1972) (Singapore: Singapore Teachers’ Union, 1971–), 12. (From National Library, Singapore, call no. RSING 331.881137 M); *Mentor* vol. 5, no. 1, 2; “STU Drive for Funds,” New Nation, 20 December 1971, 2; “Drive to Raise $150,000 for Teachers’ Centre,” *Straits Times*, 26 September 1972, 5. (From NewspaperSG)
+
+[^31]: *Mentor* vol. 2, no. 10 (March 1973) (Singapore: Singapore Teachers’ Union, 1971–), 1, 6–7. (From National Library, Singapore, RSING 331.881137 M); *Mentor* vol. 5, no. 1, 8; Maureen Chua, “Teachers Brave the Rain for Fund-raising Trishawthon,” *Straits Times*, 26 February 1973, 7. (From NewspaperSG)
+
+[^32]: *Mentor* vol. 5, no. 1, 2, 8; “$100,000 Loan for Teachers’ Union,” *Straits Times*, 19 March 1973, 6. (From NewspaperSG)
+
+[^33]: *Mentor* vol. 4, no. 5 (December 1974) (Singapore: Singapore Teachers’ Union, 1971–), 1. (From National Library, Singapore, RSING 331.881137 M); Singapore Teachers’ Union, *The Challenge of Change*, 63.
+
+[^34]: Yeoh, oral history interview, Reel/Disc 7 of 14.
+
+[^35]: Leow Peng Kui, “Looking Back and Ahead”, *Mentor* (April-June 2009) (Singapore: Singapore Teachers’ Union, 1971–), 17. (From National Library, Singapore, RSING 331.881137 M)
+
+[^36]: *Mentor* vol. 5, no. 1, 13; “Teachers Housing Estate”, Singapore Land Authority – Integrated Land Information Service, accessed 3 February 2023, https://app1.sla.gov.sg/inlis/#/.
+
+[^37]: “Longer Wait for a Teachers’ Housing Estate,” *Singapore Monitor*, 6 March 1984, 3. (From NewspaperSG)
+
+[^38]: TJ, “Touring Teacher’s Housing Estate: The Cheapest and Most Spacious Freehold Landed Estate (D26),” Stackedhomes, 26 December 2021, https://stackedhomes.com/editorial/touring-teachers-housing-estate/#gs.7mbvhw; Tan, “Peace Now Reigns at ‘Whistling Estate’.”
+
+[^39]: Chua, “The Story Behind Teachers’ Estate.”
+
+[^40]: “Teachers’ Housing Estate,” PropertyGuru, accessed 6 February 2023, https://www.propertyguru.com.sg/listing/24320544/for-sale-teacher-s-housing-estate.
+
+[^41]: “Facelift for Teacher’s Estate,” *Today*, 16 October 2004, 8; “EUP Set for Sunday,” *Today*, 9 October 2004, 33. (From NewspaperSG)
+
+[^42]: Ng Keng Gene, “$315m to Expand and Enhance Parks, Park Connector Network and Recreational Route,” *Straits Times*, 4 March 2021. (From Newslink via NLB’s eResources website); “NParks to Develop Singapore’s Longest Cross-island Trail and 3 New Recreational Routes,” *Channel NewsAsia*, 4 March 2021. (From Factiva via NLB’s eResources website)
