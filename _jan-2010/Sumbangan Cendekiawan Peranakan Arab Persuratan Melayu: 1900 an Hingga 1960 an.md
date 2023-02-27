@@ -94,13 +94,22 @@ Majalah hiburannya *Aneka Warna* (1954–1959) juga mendapat sambutan. Menurut K
 
 Ahmad Lutfi melalui nama samarannya; ‘Cemeti al-Farouk’ lantang mengkritik atau menyindir isu-isu sosial masyarakat Melayu Islam. Beliau mengupas kepincangan masyarakat serta memerangi pengamal fahaman khurafat melalui majalah Qalam. Sebagai pendakwah dan menggunakan nama al-Edrus, buku-buku agamanya: *Cerita-Cerita Sejarah* (1958) dan *Sejarah Ringkas Nabi Muhammad* (1959) diterbitkan tetapi tidak pula mendapat sambutan.
 
-Karya-karya Ahmad Lutfi juga dinilai Taib Samat (2002) sebagai *“…kelihatan Ahmad Lutfi meneruskan usaha Syed Syeikh al-Hadi dalam menerbitkan novelnovel saduran yang bernada romantik. Novel-novel seperti ini mudah mendapat pasaran. Ada persamaan antara perjuangan Ahmad Lutfi dengan Syed Syeikh al-Hadi. Tidak dapat ditolak kemungkinan bahawa Ahmad Lutfi menjadikan Syed Syeikh Al-Hadi sebagai model dalam perjuangannya dalam dunia kesusasteraan Melayu khususnya bidang novel…”* 27 Ahmad Lutfi meninggal dunia pada 20 Oktober 1969 dan *Qalam Press Limited* terpaksa ditutup.
+Karya-karya Ahmad Lutfi juga dinilai Taib Samat (2002) sebagai *“…kelihatan Ahmad Lutfi meneruskan usaha Syed Syeikh al-Hadi dalam menerbitkan novelnovel saduran yang bernada romantik. Novel-novel seperti ini mudah mendapat pasaran. Ada persamaan antara perjuangan Ahmad Lutfi dengan Syed Syeikh al-Hadi. Tidak dapat ditolak kemungkinan bahawa Ahmad Lutfi menjadikan Syed Syeikh Al-Hadi sebagai model dalam perjuangannya dalam dunia kesusasteraan Melayu khususnya bidang novel…”* 27 Ahmad Lutfi meninggal dunia pada 20 Oktober 1969 dan *Qalam Press 
+Limited* terpaksa ditutup.
 
+#### **Syed Omar Abdul Rahman Alsagoff (1932–1991)**
 
+Seorang lagi cendekiawan yang bergiat dalam persuratan Melayu selepas Perang Dunia Kedua ialah Syed Omar bin Abdul Rahman Alsagoff. Lahir di Singapura pada 8 Oktober 1932 dan terdidik di Madrasah Aljunied serta Sekolah Monk’s Hill dan Victoria School, Singapura.
 
+Pada awalnya, beliau menceburi bidang politik dan pernah dilantik sebagai Naib Presiden Parti Liberal Sosial, minatnya beralih ke bidang sastera setelah kalah dalam Pillihan Raya Konsul Bandaran tahun 1957. Syed Muhd. Khairudin (2009) mencatatkan; *“…Umar was, however more known for his contribution to literay efforts. His own house at Number 16 Nassim Road, Singapore became an established meeting place for literary activist and organisations in the 1950s and 1960s. Amongst these organisations were Persatuan PenerbitPenerbit Melayu (Association of Malay Publishers), ASAS 50 and the Majlis Pelajaran Melayu (Malay Education Council, also known as the MEC)…”*. 28
 
+Di era 1950-an, menyaksikan masyarakat Melayu Singapura begitu aktifdalam aktiviti persuratan dan budaya di samping agama dan politik. Ini menjadikan Singapura sebagai pusat kegiatan sastera yang juga menjana karya kreatif Malaya seperti tertubuhnya berbagai persatuan-persatuan persuratan. Melalui persatuan-persatuan beginilah Syed Omar menyumbangkan harta, masa dan tenaganya dan selaku seorang cendekiawan yang berkedudukan dalam Dewan Perniagaan Melayu serta dikuatkan lagi oleh jaringan ramai kenalan, beliau sering menjadi Bendahari dalam beberapa persatuan persuratan dan kerap membiayai aktiviti–aktiviti mereka.
 
+Lanjutan daripada minatnya terhadap bahasa dan budaya Melayu, beliau telah menubuhkan syarikat percetakan; *Geliga Press* (1956) yang menerbitkan buku-buku teks, majalah, komik serta novel tulisan kebanyakan penulis Singapura seperti Buyong Adil, Mahmud Ahmad dan anggota-anggota ASAS ‘50 termasuk Hamzah Hussein, Abdullah Hussein dan Masuri S. N.. Geliga Press dianggap syarikat besar di Singapura yang terkenal dalam dunia sastera Melayu-Indonesia di era itu.
 
+Majalah hiburan terbitan *Geliga Press* ternyata sangat popular di kalangan masyarakat Melayu seperti yang dijelaskan Kartini Saparudin (2009); *“… The more popular men’s magazines in the 1950s were “Aneka Warna”, “Asmara”, “Album Asmara” and “Album Bintang”. Syed Omar Alsagof published “Album Asmara” on behalf of Geliga Publication Bureau (at 430 Orchard Road). This was a yearly edition for “Asmara”. “Album Asmara” saw its inaugural print in 1955 and its final print in 1959…”* 29
+
+Dermawan yang juga aktif dalam kegiatan kemasyarakatan ini telah kembali ke rahmatullah pada 9 Mei 1991.
 
 
 
