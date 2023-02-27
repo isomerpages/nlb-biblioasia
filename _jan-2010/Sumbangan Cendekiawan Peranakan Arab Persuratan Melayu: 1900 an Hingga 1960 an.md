@@ -70,7 +70,36 @@ Sementara itu syarikat penerbitan Syed Hussain Ali Alsagoff, *Warta Malaya Limit
 
 Pendudukan tentera Jepun telah menamatkan penerbitan *Warta Malaya*. Syed Hussain Ali Alsagoff kemudiannya berkhidmat bersama *Qalam Press Limited* (1953) sebelum terlibat dalam penerbitan akhbar *Melayu Semenanjung* (1958) dan majalah Lembaga Islam terbitan S.I.O Alsagoff. Pengalamannya yang luas, menjadikannya seperti seorang “mentor” kepada wartawanwartawan muda kerana *”…hasil bimbingan dan tunjuk ajar beliau melalui penerbitan-penerbitan tadi, berjaya melahirkan ramai wartawan Melayu terkemuka kemudiannya. Kebanyakan pula yang memegang berbagai jawatan penting dalam perkembangan bahasa dan persuratan Melayu dan jabatan-jabatan pemerintah…”*21
 
-Sebagai menghargai sumbangan Syed Hussein Ali Alsagoff terhadap persuratan Melayu, Sultan Johor ketika itu, MejarGeneral Sir Ibrahim telah menganugerahkan keanggotaan Persatuan Persuratan Melayu Diraja Johor.22 Syed Hussein Ali Alsagoff yang dikenali dengan gelaran “Cik gu” meninggal dunia di Mekah pada tahun 1976.
+Sebagai menghargai sumbangan Syed Hussein Ali Alsagoff terhadap persuratan Melayu, Sultan Johor ketika itu, Mejar-General Sir Ibrahim telah menganugerahkan keanggotaan Persatuan Persuratan Melayu Diraja Johor.22 Syed Hussein Ali Alsagoff yang dikenali dengan gelaran “Cik gu” meninggal dunia di Mekah pada tahun 1976.
+
+#### **Syed Abdullah bin Abdul Hamid al-Edrus (Ahmad Lutfi) (1911–1969)**
+
+Syed Abdullah bin Abdul Hamid al-Edrus atau Ahmad Lutfi yang lahir 11 Julai 1911 di Banjarmasin, Indonesia ialah pemilik syarikat percetakan *Qalam Press Limited* sebuah syarikat percetakan paling produktif menerbitkan pelbagai genre persuratan Melayu pada akhir tahun 1940-an. Ahmad Lutfi terdorong untuk ke Singapura yang merupakan pusat suratkhabar, komunikasi dan intelektual Melayu waktu itu. Dia bermula sebagai pelatih pengatur huruf dan semasa menjadi penyunting di akhbar *Warta Malaya*, beliau mendalami teknik penulisan dan penerbitan melalui bimbingan wartawanwartawan veteran seperti Abdul Rahim Kajai, Dato’ Onn Jaafar Syed Alwi al-Hadi dan Ishak Haji Muhammad.
+
+Peka dengan isu semasa, Ahmad Lutfi menggarap kepincangan masyarakat melalui karyanya yang menggunakan beberapa nama pena seperti “alEdrus” dan “Cemeti al-Farouk”. Beliau dikatakan pengarang novel yang prolifik dengan menghasilkan 24 buah novel di antara tahun 1948 hingga 1951.23
+
+Ahmad Lutfi dianggap pengarang dan penerbit yang pintar kerana menggunakan isu-isu kontemporari dalam karyanya seperti yang berjudul *Malayan Union* (1946) ditulis sewaktu isu Malayan Union hangat diperkatakan. Dalam pemilihan tema, beliau menepati cita rasa pembaca dengan menggunakan judul-judul sensasi yang berjaya melariskan penjualan.
+
+Novel-novel erotik karyanya yang beberapa kali diulang cetak hanya dalam jangka masa yang singkat telah menjadi sasaran pengkritik misalnya *Geylang Serai Karam* (1949) dan *Pelayan* (1949) yang berlatarkan kejadian sebenar masyarakat tempatan.
+
+Namun dalam karya-karyanya, Ahmad Lutfi turut menyelitkan unsur-unsur agama dalam gaya bersyarah dan komen khusus mengkritik watak-wataknya yang telah melanggar batas-batas kesusilaan dan budaya Timur, dengan maksud agar akhlak pembacanya dapat diperbaiki. Kendatipun demikian pada tahun 1949, dua novelnya; *Janda* (1949) dan *Empat Kali Haram* (1949) telah diharamkan oleh Mufti Johor, Syed Alwi bin Tahir al-Hadad kerana tema yang dipertikaikan. 24
+
+Terdapat novel-novel dengan tema patriotik dan umum yang dihasilkan seperti B*angkai Bernyawa* (1949) dan dua buku bimbingan menulis; *Surat Menyurat Jawi* (1958) dan *Surat Menyurat Rumi* (1960).
+
+Shahrom Hussein (1963) pula berpandangan *“…Ahmad Lutfi ialah pengarang, pengurus dan tuan punya syarikat akhbar dan terjumlah sebagai seorang daripada wartawan, pengarang, pengkritik dan ahli kebudayaan Islam yang terkenal dan pujangga kita yang tidak kurang khidmat baktinya terhadap aliran perkembangan bahasa dan kesusasteraan Melayu di akhir kurun ke dua puluh ini …”* 25
+
+Ahmad Lutfi juga mengasaskan majalah bulanan, *Qalam* (1950 –1968) yang menggunakan aksara Jawi. Kandungannya mencakup berbagai tema agama, budaya, sastera serta politik dan penggunaan tulisan Jawi menjadi berkembang di kalangan pembaca Melayu. Penerbitan lain termasuklah akhbar *Warta Masyarakat* (1954), akhbar *Warta* (1953 –1955) dan majalah *Kanak-Kanak* (1953) yang agak pendek umur penerbitannya di masa itu.
+
+Majalah hiburannya *Aneka Warna* (1954–1959) juga mendapat sambutan. Menurut Kartini Saparudin (2009) *“…due to its popularity, Aneka Warna managed to save Qalam Press from financial troubles. These financial troubles were incurred due to a political disagreement with Tengku Abdul Rahman. The editor, al-Edrus or known by him pen name Ahmad Lutfi reacted critically to the Tengku burning copies of Warta Masyarakat and Qalam in Johor Bahru (both his productions) by writing an angry piece in a December 1953 issue. He had to close his newspapers as a result Aneka Warna saved Qalam Press...”* 26
+
+Ahmad Lutfi melalui nama samarannya; ‘Cemeti al-Farouk’ lantang mengkritik atau menyindir isu-isu sosial masyarakat Melayu Islam. Beliau mengupas kepincangan masyarakat serta memerangi pengamal fahaman khurafat melalui majalah Qalam. Sebagai pendakwah dan menggunakan nama al-Edrus, buku-buku agamanya: *Cerita-Cerita Sejarah* (1958) dan *Sejarah Ringkas Nabi Muhammad* (1959) diterbitkan tetapi tidak pula mendapat sambutan.
+
+Karya-karya Ahmad Lutfi juga dinilai Taib Samat (2002) sebagai *“…kelihatan Ahmad Lutfi meneruskan usaha Syed Syeikh al-Hadi dalam menerbitkan novelnovel saduran yang bernada romantik. Novel-novel seperti ini mudah mendapat pasaran. Ada persamaan antara perjuangan Ahmad Lutfi dengan Syed Syeikh al-Hadi. Tidak dapat ditolak kemungkinan bahawa Ahmad Lutfi menjadikan Syed Syeikh Al-Hadi sebagai model dalam perjuangannya dalam dunia kesusasteraan Melayu khususnya bidang novel…”* 27 Ahmad Lutfi meninggal dunia pada 20 Oktober 1969 dan *Qalam Press Limited* terpaksa ditutup.
+
+
+
+
+
 
 
 
