@@ -56,9 +56,11 @@ Sebagai pencinta bahasa dan budaya Melayu, Syed Alwi al-Hadi turut menghasilkan 
 
 #### **Syed Hussein Ali Alsagoff (1903–1976)**
 
+Era 1920-an menyaksikan kesinambungan peranan penting yang diterajui oleh golongan cendekiawan Arab dalam bidang penerbitan dan persuratan Melayu. Mengimbau pencapaian mereka di Singapura ketika itu, Turnbull (2009) mengulas *“… during the 1930s Singapore’s Malay-language press was controlled by the Arab community. The Alsagoff family launched the Warta Malaya, which was published daily from 1930 to 1941 and initially edited by Onn bin Jaafar. In 1934, Onn with Arab financial backing founded and edited Lembaga Malaya, which was published in Singapore until 1937, after which it moved to Johor Bahru…”* 15 Roff (2009) menganggarkan antara tahun 1925 hingga 1939 sebanyak 16 akhbar Melayu telah dipimpin oleh golongan Arab.16
 
+Nama Syed Hussain Ali Alsagoff, penguasa *Anglo-Asiatic Press* (1930) dan *Warta Malaya Press Limited* (1934) yang juga pengasas harian *Warta Malaya* tidak harus dipinggirkan bila memperkatakan tentang akhbar Melayu. Beliau lahir di Mekah pada Oktober 1903 dan berhijrah ke Singapura ketika berumur tujuh tahun. Pendidikan Arab, Melayu dan Inggeris dari Madrasah Alsagoff dan Raffles Institution, Singapura melayakkan beliau memegang jawatan-jawatan penting sebagai ketua pengarang akhbar-akhbar terbitan syarikatnya; *Warta Malaya* (1938 – 1941), *Warta Ahad* (1935) dan *Warta Jenaka* (1936).
 
-
+*Warta Malaya* (Januari 1930 hingga 1941) yang memperjuangkan pengembalian kekuasaan politik Melayu telah menyokong tuntutan agar Melayu diberi tempat dalam kerusi pemerintahan. Menurut Samat Buang (1993) *“…orang Melayu melihat kelahiran akhbar ini sebagai satu detik baru dalam kegiatan akhbar Melayu kerana ia merupakan akhbar pertama yang bebas daripada pengaruh kerajaan penjajah Inggeris …”* 17
 
 
 
