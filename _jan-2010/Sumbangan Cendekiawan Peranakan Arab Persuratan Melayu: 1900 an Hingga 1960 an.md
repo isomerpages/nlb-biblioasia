@@ -62,5 +62,17 @@ Nama Syed Hussain Ali Alsagoff, penguasa *Anglo-Asiatic Press* (1930) dan *Warta
 
 *Warta Malaya* (Januari 1930 hingga 1941) yang memperjuangkan pengembalian kekuasaan politik Melayu telah menyokong tuntutan agar Melayu diberi tempat dalam kerusi pemerintahan. Menurut Samat Buang (1993) *“…orang Melayu melihat kelahiran akhbar ini sebagai satu detik baru dalam kegiatan akhbar Melayu kerana ia merupakan akhbar pertama yang bebas daripada pengaruh kerajaan penjajah Inggeris …”* 17
 
+Persaingan antara akhbar dan majalah begitu hebat ketika itu dan penggunaan bahasa kewartawanan menjadi urusan persendirian. Masing-masing membentuk kata istilah dan ungkapan baru untuk memodenkan bahasa Melayu menerusi penerbitan mereka. Kepelbagaian bahasa ini telah mengelirukan pembaca dan atas inisiatif akhbar *Warta Malaya*, beberapa wartawan terkemuka antaranya Za’ba, telah membentuk senarai daftar istilah sebagai usaha penyelarasan kerja-kerja penterjemahan kekata asing ke bahasa Melayu. Disinilah timbulnya istilah ‘kapal perang penjelajah’ bagi *destroyer*, ‘tetuang udara’ bagi *radio*, ‘kereta kebal’ bagi *tank* dan lain-lain lagi.18
+
+Hubungan sesama wartawan Melayu pula diteruskan dengan *Warta Malaya* mempengerusikan satu pertemuan pertama di Singapura dalam pertengahan tahun 1938. Sungguhpun kongres ini tidak berjaya melahirkan sebuah persatuan wartawan, ia telah memberi peluang dan ruang bagi wartawan-wartawan Malaya untuk bertemu serta bertukar-tukar fikiran.19
+
+Sementara itu syarikat penerbitan Syed Hussain Ali Alsagoff, *Warta Malaya Limited Press* turut menerbitkan hasil-hasil tulisan terjemahan dari bahasa Inggeris ke bahasa Melayu ataupun sebaliknya dan mengambil upah menjilid kitab-kitab agama disamping menerbitkan akhbar-akhbar.20
+
+Pendudukan tentera Jepun telah menamatkan penerbitan *Warta Malaya*. Syed Hussain Ali Alsagoff kemudiannya berkhidmat bersama *Qalam Press Limited* (1953) sebelum terlibat dalam penerbitan akhbar *Melayu Semenanjung* (1958) dan majalah Lembaga Islam terbitan S.I.O Alsagoff. Pengalamannya yang luas, menjadikannya seperti seorang “mentor” kepada wartawanwartawan muda kerana *”…hasil bimbingan dan tunjuk ajar beliau melalui penerbitan-penerbitan tadi, berjaya melahirkan ramai wartawan Melayu terkemuka kemudiannya. Kebanyakan pula yang memegang berbagai jawatan penting dalam perkembangan bahasa dan persuratan Melayu dan jabatan-jabatan pemerintah…”*21
+
+Sebagai menghargai sumbangan Syed Hussein Ali Alsagoff terhadap persuratan Melayu, Sultan Johor ketika itu, MejarGeneral Sir Ibrahim telah menganugerahkan keanggotaan Persatuan Persuratan Melayu Diraja Johor.22 Syed Hussein Ali Alsagoff yang dikenali dengan gelaran “Cik gu” meninggal dunia di Mekah pada tahun 1976.
+
+
+
 
 
