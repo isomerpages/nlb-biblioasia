@@ -14,6 +14,10 @@ Private residential estates like Opera Estate and Sennett Estate end up developi
 
 Located at the junction of Upper Thomson Road and Yio Chu Kang Road, Teachers’ Housing Estate came about thanks to the efforts of the Singapore Teachers’ Union (STU). The estate has a somewhat curious history: the primary reason for building it was because the union wanted to have a clubhouse for its members.
 
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Housing_map.png)
+<div style="background-color: white;"> Map of the Teacher’s Housing Estate, showing the roads and various amenities.
+</div>
+
 Work on the 20-acre site began in the late 1960s. When the estate was officially opened in 1971, about 70 percent of the 256 homes in the estate were owned by teachers. The clubhouse was built a few years later. 
 
 #### **An Estate for Teachers**
