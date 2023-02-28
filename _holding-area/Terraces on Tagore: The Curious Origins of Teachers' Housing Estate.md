@@ -34,6 +34,11 @@ Then Minister for Finance Lim Kim San agreed to release $5 million for teachers 
 
 The STU appointed Lian Hup Construction Company as the developer. As Yeoh recalled in 1995: “I was in my early 30s then, full of fire and drive. Yes, we had no technical background. So we found a developer, and told him: You buy the land, build the houses. We will arrange for buyers and financing. I gave him quite tough terms: We pay you 10 per cent downpayment, 90 per cent on completion. This way, it was in his interest to complete the project fast.”[^12]
 
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Housing_advertisement.png)
+<div style="background-color: white;"> An advertisement for houses in Teachers’ Housing Estate, priced from $24,500 and up. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 7 October 1967, 6. (From NewspaperSG).</i>
+</div>
+
+
 #### **Building Homes**
 
 Under the STU’s arrangement with Lian Hup, the developer agreed to give the union a piece of land of about 90,000 sq ft (8,361.3 sq m) for free which would be used for the clubhouse.[^13] 
