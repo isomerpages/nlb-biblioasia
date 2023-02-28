@@ -86,7 +86,7 @@ To raise money, the STU launched a series of fundraising activities from October
 
 The Teachers’ Centre was finally completed in the second half of 1973, and on 19 October 1974, the STU held its anniversary celebrations at the centre for the very first time. However, not all facilities had been built. The swimming pool was completed in 1975, the tennis court in 1978, and two squash courts were only added 10 years later.[^33]
 
-![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers_centre.png)
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_Centre.png)
 <div style="background-color: white;">The Teachers’ Centre, 1975. <i>Image reproduced from Mentor vol. 5, no. 1 (1975) (Singapore: Singapore Teachers’ Union, 1971–), 10. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
 </div>
 
