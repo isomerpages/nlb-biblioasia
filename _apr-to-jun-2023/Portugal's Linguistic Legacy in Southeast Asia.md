@@ -1,8 +1,10 @@
 ---
 title: Portugal's Linguistic Legacy in Southeast Asia
-permalink: /holding-area/portuguese-legacy-southeast-asia/
+permalink: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
 description: ""
 ---
+
+
 #### While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others.
 By João Oliveira
 
@@ -76,13 +78,13 @@ Among those who remained, Kristang continued to decline in the face of other lan
 
 In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in Singapore because they wanted to “to help all those interested in this fascinating language learn more about it, and thereby remember our roots”. Interestingly, in their acknowledgements, they noted that, as children, they had been “discouraged from using Kristang for fear that we would not be able to master the English language that was taught in schools”.[^14]
 
-To give a flavour of the language, the dictionary contains poems, songs and prayers. The prayer “Our Father” is known in Kristang as “Nos Sa Pai”. It goes:
+To give a flavour of the language, the dictionary contains poems, songs and prayers. The Lord’s Prayer in Kristang goes:
 
 Nos sa Pai ki teng na seu,
 <br>
-Santah fikadu bos a nomi,
+Santah fikadu bos sa nomi,
 <br>
-\[Bos sa reinu beng\]
+Bos sa reinu beng
 <br>
 Bos sa bontadi kumpridu,
 <br>
@@ -92,13 +94,11 @@ Dah nos sa pang di kada dia.
 <br>
 Peduah nos sa pekadu,
 <br>
-Asi nos peduah
-<br>
-Nos sa inimigu.
+Asi nos peduah nos sa inimigu.
 <br>
 Nang desah nos teng mal intentasang,
 <br>
-Mas librah kon no di tudu mal, Amen.[^15]
+Mas librah kon nos di tudu mal, Amen.[^15]
 
 A comparison with the prayer in modern Portuguese shows distinct similarities:
 
@@ -121,6 +121,10 @@ Assim como nós perdoamos a quem nos tem ofendido.
 Não nos deixeis cair em tentação,
 <br>
 Mas livrai-nos do mal, Amén.
+
+![](/images/Vol%2019%20Issue%201/Portuguese/Eurasian%20Association%20Contingent%20at%20Chingay%20Parade%202010-crop.jpg)
+
+<div style="background-color: white;">The Eurasian Association contingent at the Chingay parade, 2010. <i>Courtesy of the Eurasian Association, Singapore.</i></div>
 
 #### **Batavia and Tugu Creole**
 
@@ -204,7 +208,7 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^14]: Valerie Scully and Catherine Zuzarte, [<i>The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507) (Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
-[^15]: Scully and Zuzarte, [<i>Most Comprehensive Eurasian Heritage Dictionary</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507), 30. 
+[^15]: Valerie Scully and Catherine Zuzarte, [<i>The Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202923102), 2nd ed. (Singapore: Straits Times Press Pte Ltd, \[2017\]), 34. (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
 [^16]: Philippe Maurer, [<i>The Former Portuguese Creole of Batavia and Tugu (Indonesia)</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14495821) (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
 

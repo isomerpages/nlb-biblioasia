@@ -1,7 +1,7 @@
 ---
 title: "A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the
   Bugis to Singapore"
-permalink: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+permalink: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/
 description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
   to a terrible misunderstanding that would change the course of history in Riau
   and Singapore. "

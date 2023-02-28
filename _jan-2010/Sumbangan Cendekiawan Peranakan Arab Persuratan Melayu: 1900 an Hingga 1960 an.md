@@ -53,7 +53,10 @@ Wajarlah nama Syed Syeikh al-Hadi, yang meninggal dunia pada 20 Februari 1934 di
 
 #### **Syed Alwi al-Hadi (1893– 1970)**
 
-Anak Syed Sheikh Ahmad al-Hadi ini adalah seorang wartawan serta penyunting akhbar-akhbar *Saudara* (1930, 1934– 1935), *Warta Malaya* (1933) dan *Lembaga Malaya* (1936–1941). Beliau lahir di Melaka pada tahun 1893 serta mendapat pendidikan Melayu di Riau and Sekolah Kampong Gelam di Singapura dan kemudian melanjutkan pelajarannya di sekolah Inggeris, Victoria Bridge School sebelum menyambung pelajarannya di Beirut dan Syria.
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Warta%20Malaya.jpg">
+ <div style="background-color: white;">Sumbangan akhbar <i>Warta Malaya</i> dicatatkan. All rights reserved, Universiti Kebangsaan Malaysia, 1979.</div>
+
+Anak Syed Sheikh Ahmad al-Hadi ini adalah seorang wartawan serta penyunting akhbar-akhbar *Saudara* (1930, 1934–1935), *Warta Malaya* (1933) dan *Lembaga Malaya* (1936–1941). Beliau lahir di Melaka pada tahun 1893 serta mendapat pendidikan Melayu di Riau and Sekolah Kampong Gelam di Singapura dan kemudian melanjutkan pelajarannya di sekolah Inggeris, Victoria Bridge School sebelum menyambung pelajarannya di Beirut dan Syria.
 
 Beliau bukan seorang reformis tetapi meneruskan ideologi ayahandanya. Sebagai penyunting akhbar Saudara, pembaca diberi peluang menulis di ruangan *“Halaman Sahabat Pena”* nya untuk bertukar fikiran sambil menambah pengetahuan.
 
@@ -64,6 +67,8 @@ Ahmat Adam (1994) merumuskan bahawa *“…Syed Alwi alHadi memandangnya \[Sahab
 Sebagai pencinta bahasa dan budaya Melayu, Syed Alwi al-Hadi turut menghasilkan beberapa buku termasuk *Adat Resam dan ‘Adat Istiadat Melayu* (1960) (buku pertama diterbitkan mengenai adat istiadat masyarakat Melayu) serta *Panduan Meshuarat* (1956) dan *Panduan Berucap* (1963).
 
 #### **Syed Hussein Ali Alsagoff (1903–1976)**
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Hussein%20Ali%20Alsagoff%20photo.jpg">
+ <div style="background-color: white;">Gambar Syed Hussein Ali Alsagoff dalam Aktivis Melayu/Islam di Singapura. All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.</div>
 
 Era 1920-an menyaksikan kesinambungan peranan penting yang diterajui oleh golongan cendekiawan Arab dalam bidang penerbitan dan persuratan Melayu. Mengimbau pencapaian mereka di Singapura ketika itu, Turnbull (2009) mengulas *“… during the 1930s Singapore’s Malay-language press was controlled by the Arab community. The Alsagoff family launched the Warta Malaya, which was published daily from 1930 to 1941 and initially edited by Onn bin Jaafar. In 1934, Onn with Arab financial backing founded and edited Lembaga Malaya, which was published in Singapore until 1937, after which it moved to Johor Bahru…”*.[^15] Roff (2009) menganggarkan antara tahun 1925 hingga 1939 sebanyak 16 akhbar Melayu telah dipimpin oleh golongan Arab.[^16]
 
@@ -82,6 +87,9 @@ Pendudukan tentera Jepun telah menamatkan penerbitan *Warta Malaya*. Syed Hussai
 Sebagai menghargai sumbangan Syed Hussein Ali Alsagoff terhadap persuratan Melayu, Sultan Johor ketika itu, Mejar-General Sir Ibrahim telah menganugerahkan keanggotaan Persatuan Persuratan Melayu Diraja Johor.[^22] Syed Hussein Ali Alsagoff yang dikenali dengan gelaran “Cik gu” meninggal dunia di Mekah pada tahun 1976.
 
 #### **Syed Abdullah bin Abdul Hamid al-Edrus (Ahmad Lutfi) (1911–1969)**
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Ahmad%20Lufti.jpg">
+ <div style="background-color: white;">Perjuangan Ahmad Lutfi dibukukan. All rights reserved, Dewan Bahasa dan Pustaka, 2002.</div>
 
 Syed Abdullah bin Abdul Hamid al-Edrus atau Ahmad Lutfi yang lahir 11 Julai 1911 di Banjarmasin, Indonesia ialah pemilik syarikat percetakan *Qalam Press Limited* sebuah syarikat percetakan paling produktif menerbitkan pelbagai genre persuratan Melayu pada akhir tahun 1940-an. Ahmad Lutfi terdorong untuk ke Singapura yang merupakan pusat suratkhabar, komunikasi dan intelektual Melayu waktu itu. Dia bermula sebagai pelatih pengatur huruf dan semasa menjadi penyunting di akhbar *Warta Malaya*, beliau mendalami teknik penulisan dan penerbitan melalui bimbingan wartawanwartawan veteran seperti Abdul Rahim Kajai, Dato’ Onn Jaafar Syed Alwi al-Hadi dan Ishak Haji Muhammad.
 
@@ -106,6 +114,9 @@ Ahmad Lutfi melalui nama samarannya; ‘Cemeti al-Farouk’ lantang mengkritik a
 Karya-karya Ahmad Lutfi juga dinilai Taib Samat (2002) sebagai *“…kelihatan Ahmad Lutfi meneruskan usaha Syed Syeikh al-Hadi dalam menerbitkan novelnovel saduran yang bernada romantik. Novel-novel seperti ini mudah mendapat pasaran. Ada persamaan antara perjuangan Ahmad Lutfi dengan Syed Syeikh al-Hadi. Tidak dapat ditolak kemungkinan bahawa Ahmad Lutfi menjadikan Syed Syeikh Al-Hadi sebagai model dalam perjuangannya dalam dunia kesusasteraan Melayu khususnya bidang novel…”*. [^27] Ahmad Lutfi meninggal dunia pada 20 Oktober 1969 dan *Qalam Press Limited* terpaksa ditutup.
 
 #### **Syed Omar Abdul Rahman Alsagoff (1932–1991)**
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Omar%20Alsagoff%20photo.jpg">
+ <div style="background-color: white;">Gambar Syed Omar Alsagoff dalam Aktivis Melayu/Islam di Singapura. All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.</div>
 
 Seorang lagi cendekiawan yang bergiat dalam persuratan Melayu selepas Perang Dunia Kedua ialah Syed Omar bin Abdul Rahman Alsagoff. Lahir di Singapura pada 8 Oktober 1932 dan terdidik di Madrasah Aljunied serta Sekolah Monk’s Hill dan Victoria School, Singapura.
 
