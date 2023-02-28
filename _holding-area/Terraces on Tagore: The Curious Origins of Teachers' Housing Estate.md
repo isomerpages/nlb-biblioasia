@@ -7,7 +7,7 @@ description: ""
 By Sharon Teng
 
 ![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_housing_estate.png)
-<div style="background-color: white;">A view of the Teachers’ Housing Estate from the bustop on Yio Chu Kang Road. <i>Photo by Sharon Teng.</i>
+<div style="background-color: white;">A view of the Teachers’ Housing Estate from the bus stop on Yio Chu Kang Road. <i>Photo by Sharon Teng.</i>
 </div>
 
 Private residential estates like Opera Estate and Sennett Estate end up developing a strong sense of camaraderie over time as neighbours became friends. In Teachers’ Housing Estate, the special bond among residents was established quickly because most of the original homeowners in the area shared a similar profession – they were, as the name of the estate implies, teachers.[^1]
@@ -68,6 +68,9 @@ With the estate built, the STU embarked on plans to build a clubhouse, which wou
 
 To raise money, the STU launched a series of fundraising activities from October 1972. The aim was to raise $150,000 (30 percent of the estimated cost for phase one) for the clubhouse, which would be called the Teachers’ Centre.[^30] One of the activities in February 1973 was a “trishawthon”, which raised $34,671.[^31] The STU also appealed to teachers to donate to the clubhouse fund and over 300 teachers pledged a total of $35,540. In 1973, the union received a $100,000 loan from the government.[^32]
 
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Trishawton.png)
+<div style="background-color: white;">The "trishawthon” event helped raise funds for building the Teachers’ Centre, 1973. <i>Image reproduced from Mentor vol. 5, no. 1 (1975) (Singapore: Singapore Teachers’ Union, 1971–), 14. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
+</div>
 
 
 The Teachers’ Centre was finally completed in the second half of 1973, and on 19 October 1974, the STU held its anniversary celebrations at the centre for the very first time. However, not all facilities had been built. The swimming pool was completed in 1975, the tennis court in 1978, and two squash courts were only added 10 years later.[^33]
