@@ -76,6 +76,9 @@ To raise money, the STU launched a series of fundraising activities from October
 The Teachers’ Centre was finally completed in the second half of 1973, and on 19 October 1974, the STU held its anniversary celebrations at the centre for the very first time. However, not all facilities had been built. The swimming pool was completed in 1975, the tennis court in 1978, and two squash courts were only added 10 years later.[^33]
 
 ![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers_centre.png)
+<div style="background-color: white;">The Teachers’ Centre, 1975. <i>Image reproduced from Mentor vol. 5, no. 1 (1975) (Singapore: Singapore Teachers’ Union, 1971–), 10. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
+</div>
+
 
 In 2010, the STU leased out the land that the centre had occupied to a private developer and the union relocated to Serangoon Road that same year.[^34] In a 2009 piece in the STU’s *Mentor* publication, Leow Peng Kui, a trustee of the union, wrote that the decision to move was not taken lightly and was made “after much thought and consultation”. “The re-current [sic] cost of maintaining the present Union Centre in tip top condition is prohibitive,” he wrote. “Furthermore, the facilities are under-utilised.” He noted that while there were “a lot of sentiments” associated with the place as it had been there for several decades, change was necessary. “[I]f we do not move ahead because of sentiment, we may compound the problems we will face in future,” he added.[^35]
 
