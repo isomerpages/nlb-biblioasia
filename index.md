@@ -24,8 +24,7 @@ sections:
         places more than others.
       button: PORTUGUESE CREOLES IN SOUTHEAST ASIA
       url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
-      image: /images/Vol 19 Issue 1/Portuguese/Eurasian Association Contingent at
-        Chingay Parade 2010-crop.jpg
+      image: /images/Vol 19 Issue 1/Portuguese/Mardjiker2.jpg
       alt: Image alt text
   - infopic:
       title: "Neo Tiew: The Man Who Built Lim Chu Kang"
