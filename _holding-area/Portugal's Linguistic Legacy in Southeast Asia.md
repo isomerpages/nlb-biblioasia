@@ -120,6 +120,10 @@ Não nos deixeis cair em tentação,
 <br>
 Mas livrai-nos do mal, Amén.
 
+![](/images/Vol%2019%20Issue%201/Portuguese/Eurasian%20Association%20Contingent%20at%20Chingay%20Parade%202010-crop.jpg)
+
+<div style="background-color: white;">The Eurasian Association contingent at the Chingay parade, 2010. <i>Courtesy of the Eurasian Association, Singapore.</i></div>
+
 #### **Batavia and Tugu Creole**
 
 Between the 17th and 20th centuries, Batavia (now Jakarta) was the centre of Dutch power in Asia. Batavia came under Dutch control in 1619, but had never been ruled by the Portuguese. However, many people who had lived under Portuguese influence (soldiers, slaves and Eurasian families from South India, Ceylon, Melaka and various Southeast Asian islands) converged there. For that reason, a Portuguese creole came to be used as a means of communication between European and Asian groups.
