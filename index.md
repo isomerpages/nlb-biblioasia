@@ -394,4 +394,15 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: Portugal's Linguistic Legacy in Southeast Asia
+      subtitle: Culture
+      description: While Portugal may not have had a large presence in this region,
+        remnants of the Portuguese language continue to linger on, in some
+        places more than others.
+      button: PORTUGUESE CREOLES IN SOUTHEAST ASIA
+      url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
+      image: /images/Vol 19 Issue 1/Portuguese/Eurasian Association Contingent at
+        Chingay Parade 2010-crop.jpg
+      alt: Image alt text
 ---
