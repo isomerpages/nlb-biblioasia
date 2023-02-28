@@ -27,6 +27,8 @@ The STU mooted the idea of building a Teachers’ Estate with its own clubhouse 
 In a 1995 interview with the *Straits Times*, Yeoh said that the union had planned to build a clubhouse for several years but nothing was done, so he and his colleagues decided that the STU committee would do so. Unfortunately, there were problems. “The union could not afford to buy a centrally sited piece of land large enough for a clubhouse and for outdoor facilities,” according to the news report. The union considered a site further from the city which would be cheaper. However, being further away would not be convenient for members. “In the end, the committee came up with a novel plan: develop a housing estate around the clubhouse,” the paper reported.[^4]
 
 ![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Construction_site.png)
+<div style="background-color: white;"> Teachers visiting the Teachers’ Centre construction site, 1972. <i>Image reproduced from Mentor vol. 2, no. 6 (October 1972) (Singapore: Singapore Teachers’ Union, 1971–), 6. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
+</div>
 
 Yeoh recalled in his 2010 oral history interview: “At that time, we had no money for a clubhouse. There was a fund of about $80,000 set aside, too small for anything. With that, we could probably buy a house somewhere and turn it into a clubhouse. But in my view, that was unacceptable because the house would eventually degenerate into a mahjong house and that would tarnish the image of the profession. An idea struck me one day, that STU [Singapore Teachers’ Union] should develop a housing estate and acquire the land within the estate for a clubhouse.”[^5]
 
