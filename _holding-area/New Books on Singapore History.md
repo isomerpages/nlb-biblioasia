@@ -28,24 +28,19 @@ by Jiat-Hwee Chang and
 Justin Zhuang; photographs by
 Darren Soh 
 
-Pagesetters Services (2022), 293 pages <br> Call no. [RSING 959.5703092 HEI-[HIS]](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205855398)
+NUS Press, 2022, 352 pages <br>
+Call no.: RSING 720.959570904 CHA
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book3.png)
 
-The first Germans came to Singapore 200 years ago. This book chronicles the economic, political and cultural relations between Germany and Singapore from their beginnings in 1822 to the present.
+Through the lens of social and architectural histories, the book uncovers the many untold stories of Singapore’s modernisation, from the rise of heroic skyscrapers, such as the Pearl Bank Apartments, to the spread of utilitarian typologies like the multistorey car park.
 
-The contribution of Germans to Singapore is both fascinating and multi-faceted. Their role in Singapore can only be understood in terms of their interrelationship with this country. 
+#### **Hinduism in Singapore and the Hindu Endowments Board **
 
-Singapore paved the way for Germans to expand their presence in Asia. At the same time, the Germans who were here also made important contributions to Singapore. 
+edited by Lavanya Balachandran and Sylvia Koh
 
-This book is in both English and German to reach out to both Singaporean and German readers.
-
-#### **Singapore Street Names: A Study of Toponymics (4th edition)**
-by Victor R. Savage and Brenda S.A. Yeoh
-
-Marshall Cavendish Editions (2023), 
-592 pages <br>
-Call no. [RSING 915.9570014 SAV](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205854725)
+Hindu Endowments Board, 2022, 313 pages <br>
+From PublicationSG
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
 
