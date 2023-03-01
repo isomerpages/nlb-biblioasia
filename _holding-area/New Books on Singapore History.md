@@ -35,14 +35,14 @@ Call no.: RSING 720.959570904 CHA
 
 Through the lens of social and architectural histories, the book uncovers the many untold stories of Singapore’s modernisation, from the rise of heroic skyscrapers, such as the Pearl Bank Apartments, to the spread of utilitarian typologies like the multistorey car park.
 
-#### **Hinduism in Singapore and the Hindu Endowments Board **
+#### **Hinduism in Singapore and the Hindu Endowments Board**
 
 edited by Lavanya Balachandran and Sylvia Koh
 
 Hindu Endowments Board, 2022, 313 pages <br>
 From PublicationSG
 
-![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
+![](/images/Vol%2019%20Issue%201/New%20Books/Hinduism.png)
 
 This book tells the stories of early Indian and Hindu settlers to Singapore, the colonial-era culture and architecture, the impact of an administrative Hindu board, and the many festive traditions celebrated at local temples.
 
@@ -55,6 +55,6 @@ Pagesetters Services Pte Ltd, 2022,
 261 pages <br>
 Call no.: RSING 796.334095957 THI
 
-![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
+![](/images/Vol%2019%20Issue%201/New%20Books/ROAR_front%20cover.png)
 
 This book documents 100 years of football history from the colonial era to the present day, tracing the development of football in Singapore. It features commentaries by A. Thiyaga Raju on his most memorable moments in Singapore football history.
