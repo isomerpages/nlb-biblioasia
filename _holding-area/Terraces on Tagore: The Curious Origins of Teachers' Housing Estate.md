@@ -180,11 +180,11 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 [^32]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 2, 8; “[$100,000 Loan for Teachers’ Union](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730319-1.2.33),” *Straits Times*, 19 March 1973, 6. (From NewspaperSG)
 
-[^33]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 4, no. 5 (December 1974) (Singapore: Singapore Teachers’ Union, 1971–), 1. (From National Library, Singapore, RSING 331.881137 M); Singapore Teachers’ Union, *[The Challenge of Change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)*, 63.
+[^33]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 4, no. 5 (December 1974) (Singapore: Singapore Teachers’ Union, 1971–), 1. (From National Library, Singapore, call no. RSING 331.881137 M); Singapore Teachers’ Union, *[The Challenge of Change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)*, 63.
 
 [^34]: [Yeoh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 7 of 14.
 
-[^35]: Leow Peng Kui, “Looking Back and Ahead”, *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* (April-June 2009) (Singapore: Singapore Teachers’ Union, 1971–), 17. (From National Library, Singapore, RSING 331.881137 M)
+[^35]: Leow Peng Kui, “Looking Back and Ahead”, *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* (April-June 2009) (Singapore: Singapore Teachers’ Union, 1971–), 17. (From National Library, Singapore, call no. RSING 331.881137 M)
 
 [^36]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 13; “Teachers Housing Estate”, Singapore Land Authority – Integrated Land Information Service, accessed 3 February 2023, https://app1.sla.gov.sg/inlis/#/.
 
