@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - New Books on Singapore History.md
       - "Terraces on Tagore: The Curious Origins of Teachers' Housing Estate.md"
       - Test page.md

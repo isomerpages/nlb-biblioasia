@@ -14,6 +14,10 @@ Private residential estates like Opera Estate and Sennett Estate end up developi
 
 Located at the junction of Upper Thomson Road and Yio Chu Kang Road, Teachers’ Housing Estate came about thanks to the efforts of the Singapore Teachers’ Union (STU). The estate has a somewhat curious history: the primary reason for building it was because the union wanted to have a clubhouse for its members.
 
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Housing_map.png)
+<div style="background-color: white;"> Map of the Teacher’s Housing Estate, showing the roads and various amenities.
+</div>
+
 Work on the 20-acre site began in the late 1960s. When the estate was officially opened in 1971, about 70 percent of the 256 homes in the estate were owned by teachers. The clubhouse was built a few years later. 
 
 #### **An Estate for Teachers**
@@ -21,6 +25,10 @@ Work on the 20-acre site began in the late 1960s. When the estate was officially
 The STU mooted the idea of building a Teachers’ Estate with its own clubhouse in 1967.[^2]  Yeoh Beng Cheow, a teacher at Bartley Secondary school and the union’s deputy general secretary in 1968, was involved in the conception and development of Teachers’ Housing Estate, along with then STU president Karim Bagoo.[^3]
 
 In a 1995 interview with the *Straits Times*, Yeoh said that the union had planned to build a clubhouse for several years but nothing was done, so he and his colleagues decided that the STU committee would do so. Unfortunately, there were problems. “The union could not afford to buy a centrally sited piece of land large enough for a clubhouse and for outdoor facilities,” according to the news report. The union considered a site further from the city which would be cheaper. However, being further away would not be convenient for members. “In the end, the committee came up with a novel plan: develop a housing estate around the clubhouse,” the paper reported.[^4]
+
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Construction_site.png)
+<div style="background-color: white;"> Teachers visiting the Teachers’ Centre construction site, 1972. <i>Image reproduced from Mentor vol. 2, no. 6 (October 1972) (Singapore: Singapore Teachers’ Union, 1971–), 6. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
+</div>
 
 Yeoh recalled in his 2010 oral history interview: “At that time, we had no money for a clubhouse. There was a fund of about $80,000 set aside, too small for anything. With that, we could probably buy a house somewhere and turn it into a clubhouse. But in my view, that was unacceptable because the house would eventually degenerate into a mahjong house and that would tarnish the image of the profession. An idea struck me one day, that STU [Singapore Teachers’ Union] should develop a housing estate and acquire the land within the estate for a clubhouse.”[^5]
 
@@ -33,6 +41,11 @@ In 1967, a committee for the housing project was formed, headed by Bagoo as comm
 Then Minister for Finance Lim Kim San agreed to release $5 million for teachers who needed housing loans.[^10] As he explained at the opening of the estate on 19 October 1971 (by which time he was the education minister): “When Devan [Nair] first approached me regarding a Government loan to help members of the Teachers’ Union to build their own homes, I had no doubts about the benefit of such a scheme. We were then in the midst of encouraging our citizens to become home-owners through the Housing and Development Board home-ownership scheme, and the plan of the STU ties in beautifully with the overall plan to make Singapore a home-owning democracy.”[^11]
 
 The STU appointed Lian Hup Construction Company as the developer. As Yeoh recalled in 1995: “I was in my early 30s then, full of fire and drive. Yes, we had no technical background. So we found a developer, and told him: You buy the land, build the houses. We will arrange for buyers and financing. I gave him quite tough terms: We pay you 10 per cent downpayment, 90 per cent on completion. This way, it was in his interest to complete the project fast.”[^12]
+
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Housing_advertisement.png)
+<div style="background-color: white;"> An advertisement for houses in Teachers’ Housing Estate, priced from $24,500 and up. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 7 October 1967, 6. (From NewspaperSG).</i>
+</div>
+
 
 #### **Building Homes**
 
@@ -75,7 +88,7 @@ To raise money, the STU launched a series of fundraising activities from October
 
 The Teachers’ Centre was finally completed in the second half of 1973, and on 19 October 1974, the STU held its anniversary celebrations at the centre for the very first time. However, not all facilities had been built. The swimming pool was completed in 1975, the tennis court in 1978, and two squash courts were only added 10 years later.[^33]
 
-![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers_centre.png)
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_Centre.png)
 <div style="background-color: white;">The Teachers’ Centre, 1975. <i>Image reproduced from Mentor vol. 5, no. 1 (1975) (Singapore: Singapore Teachers’ Union, 1971–), 10. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
 </div>
 
@@ -97,7 +110,7 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 <div style="background-color: white;">
 <br/>
-<img src="images/Authors/Sharon%20Teng.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Authors/Sharon%20Teng.png" style="width: 100px; height: 100px;"/>
 	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 	
 #### **NOTES**
@@ -112,8 +125,7 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 [^5]: [Yeoh Beng Cheow](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/db72f69e-1161-11e3-83d5-0050568939ad), oral history interview by Jason Lim, 25 April 2010, MP3 audio, Reel/ Disc 6 of 14, 18:00–20.02. National Archives of Singapore (accession no. 003463)
 
-[^6]: Lim How Seng and Lim Guan Hock, eds. 林孝胜, 林源福 主编 , [*义顺社区发展史* / The Development of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84459386) (Xinjiapo *新加坡*: Yishun qu ji ceng zu zhi, guo jia dang an guan, kou shu li shi guan *义顺区基层组织*, *国家档案馆*, *口述历史馆*, 1987), 36, 198, 200, 202–203. (From National Library, Singapore, call no. RSING 959.57 DEV);
-*[A Pictorial History of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200063229)* (Singapore: The Grassroots Organisations of Nee Soon Constituency; National Archives; Oral History Department, 1987), 23. (From National Library, Singapore, call no. RSING 959.57 PIC)
+[^6]: Lim How Seng and Lim Guan Hock, eds. 林孝胜, 林源福 主编 , [*义顺社区发展史* / The Development of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84459386) (Xinjiapo *新加坡*: Yishun qu ji ceng zu zhi, guo jia dang an guan, kou shu li shi guan *义顺区基层组织*, *国家档案馆*, *口述历史馆*, 1987), 36, 198, 200, 202–203. (From National Library, Singapore, call no. RSING 959.57 DEV);*[A Pictorial History of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200063229)* (Singapore: The Grassroots Organisations of Nee Soon Constituency; National Archives; Oral History Department, 1987), 23. (From National Library, Singapore, call no. RSING 959.57 PIC)
 
 [^7]: *[Mentor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082193)* vol. 5, no. 1, 8; Singapore Teachers’ Union, *[The Challenge of Change: The Modernisation of the STU 1968–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)* (Singapore: STU, 1989), 62. (From National Library, Singapore, call no. RCLOS 331.881137 SIN)
 
