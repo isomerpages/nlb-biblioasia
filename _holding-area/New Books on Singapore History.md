@@ -4,7 +4,7 @@ permalink: /holding-area/new-books/
 description: ""
 ---
 #### **A Reverent Journey: Masjid Omar Kampong Melaka**
-Edited by Sharifah Zahra Aljunied and Syed Abdullah Abdul Rahman Aljunied 
+edited by Sharifah Zahra Aljunied and Syed Abdullah Abdul Rahman Aljunied 
 
 Masjid Omar Kampong Melaka, 2022, 267 pages <br>
 Call no.: RSING 297.355957 REV
@@ -14,19 +14,19 @@ Call no.: RSING 297.355957 REV
 Founded in 1820 by Arab philanthropist Syed Omar Ali Aljunied, Masjid Omar Kampong Melaka is Singapore’s oldest mosque. The book traces Syed Omar’s travels from Yemen to Palembang and finally to Singapore, where he built a *surau* (prayer hall). Sharing their stories in this book are the community of Muslims, the founder’s family, Singapore’s leaders and town planners, and heritage buffs.  
 
 #### **Albert Winsemius and Singapore: Here It Is Going to Happen**
-By Euston Quah, with Luke Nursultan Iuldashov and Zach Lee
+by Euston Quah, with Luke Nursultan Iuldashov and Zach Lee
 
 World Scientific, 2022, 966 pages <br>
 Call no.: RSING 330.092 QUA
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book2.png)
 
-Why did no former comfort women from Singapore come forward to tell their stories when others across Asia began to do so publicly in the 1990s? To understand this silence, this book details the sex industry serving the Japanese military during the wartime occupation of Singapore: the comfort stations, managers, procurers, and girls and women who either volunteered or were forced into service and, in many cases, sexual slavery. 
+In 1960, Dr Albert Winsemius (1910–96) led the United Nations Development Programme’s first mission to Singapore to advise the government on industrialisation. The book examines his affinity with Singapore, his contributions to the nation’s economic development, his legacy, and his influence on past, current and future economic planners.
 
-With care, balance and sensitivity given to a difficult subject, the author turns from history to the public presence of the comfort women in Singapore’s memory and reveals how these women became known in Singapore in the 1990s and 2000s.
-
-#### **Germans in Singapore: Stories from 200 Years of Friendship in an Age of Globalisation**
-by Sabine Hein 
+#### **Everyday Modernism: Architecture and Society in Singapore**
+by Jiat-Hwee Chang and
+Justin Zhuang; photographs by
+Darren Soh 
 
 Pagesetters Services (2022), 293 pages <br> Call no. [RSING 959.5703092 HEI-[HIS]](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205855398)
 
