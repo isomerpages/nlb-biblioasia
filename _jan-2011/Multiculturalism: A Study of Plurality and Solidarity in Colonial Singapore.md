@@ -19,6 +19,9 @@ Yet, instead of celebrating this dynamic multiculturalism in Singapore food, Lai
 
 #### **A Three-Generation Model: The Plurality-Solidarity Cline**
 
+<img style="width:80%;" src="/images/Vol%206%20issue%204/PluralitySolidarity/KENGLE.jpg">
+ <div style="background-color: white;">Staff of a Chinese firm, Keng Lee & Company, 1937. Note the multiracial composition of the staff, comprising Chinese, Malay and Indian people.<i> Courtesy of Phyllis Chew.</i></div>
+
 Our acculturation-assimilation continuum begins with plurality at one end, and solidarity at the other. While plurality conjures images of dissent and divisiveness, solidarity connotes cooperation and peaceful exchange.
 
 Both acculturation and assimilation are degrees in the process of cultural integration. While acculturation sees cultural groups remaining as distinct entities, assimilation, which is found further along the cline, is a condition where the distinction among the groups becomes indistinguishable. To illustrate, we may place a first generation Chinese *coolie* (labourer) on one end of the cline and the second or third generation equivalent in the middle or far end of the cline. Where a newcomer is concerned, he is likely to speak in only his mother tongue, eat the cheapest of meals, and wear his ethnic (Chinese) clothes. Somewhere along the middle of the cline, we have the second or third generation, probably speaking native Malay, eating meals cooked with local ingredients such as tamarind and lemongrass, and wearing a Malayan outfit instead of traditional Chinese costume.
