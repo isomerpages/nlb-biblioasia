@@ -72,7 +72,7 @@ In the arena of sports, Chinese and Indian subjects acquired a British preferenc
 
 Cultural blending is observed in marriage ceremonies too. For example, in a Chetty household, the Hindu rites and practices include the observance of the “tray-gift” ceremony and “dip for the ring”, which entails the newlyweds plunging their hands into the pot three times to retrieve either a knife, a shell or a ring, the “tying of the *thaali”* (a nuptial thread) by the groom for the bride, and the exchange of mini toe rings between the bride and groom.
 
-<img style="width:80%;" src="images/Vol%206%20issue%204/PluralitySolidarity/Food%20Items.jpg">
+<img style="width:80%;" src="/images/Vol%206%20issue%204/PluralitySolidarity/Food%20Items.jpg">
  <div style="background-color: white;">Food items prepared for a Malay engagement ceremony. <i>Courtesy of National Archives of Singapore.</i></div>
 
 On the other hand, in a Malay wedding ceremony, the Malay *chongkak* (the game set consists of a wooden board and 98 pieces of cowry shells), a *baju kebaya* and *bunga rampai* are items prepared for the tray-gift ceremony, along with Malay desserts, Indian spices and sweets placed on large trays (Thiyagaraj, 1998, p. 86). More evidence of cultural blending in the marriage ceremony can be seen in mixing of language in terms such as *kasi maalai* (to give the garland away), where *kasi* is a Malay word referring to the act of giving and *maalai* is a Tamil word that refers to the garland.
