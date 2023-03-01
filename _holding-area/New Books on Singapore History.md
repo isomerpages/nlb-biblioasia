@@ -6,18 +6,18 @@ description: ""
 #### **A Reverent Journey: Masjid Omar Kampong Melaka**
 Edited by Sharifah Zahra Aljunied and Syed Abdullah Abdul Rahman Aljunied 
 
-Masjid Omar Kampong Melaka, 2022, 267 pages
+Masjid Omar Kampong Melaka, 2022, 267 pages <br>
 Call no.: RSING 297.355957 REV
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book1.png)
 
 Founded in 1820 by Arab philanthropist Syed Omar Ali Aljunied, Masjid Omar Kampong Melaka is Singapore’s oldest mosque. The book traces Syed Omar’s travels from Yemen to Palembang and finally to Singapore, where he built a *surau* (prayer hall). Sharing their stories in this book are the community of Muslims, the founder’s family, Singapore’s leaders and town planners, and heritage buffs.  
 
-#### **The Comfort Women of Singapore in History and Memory**
-by Kevin Blackburn
+#### **Albert Winsemius and Singapore: Here It Is Going to Happen**
+By Euston Quah, with Luke Nursultan Iuldashov and Zach Lee
 
-NUS Press (2022), 208 pages <br>
-Call no. [RSING 940.5405082095957 BLA-[WAR]](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205703980)
+World Scientific, 2022, 966 pages <br>
+Call no.: RSING 330.092 QUA
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book2.png)
 
