@@ -42,9 +42,6 @@ Then Minister for Finance Lim Kim San agreed to release $5 million for teachers 
 
 The STU appointed Lian Hup Construction Company as the developer. As Yeoh recalled in 1995: “I was in my early 30s then, full of fire and drive. Yes, we had no technical background. So we found a developer, and told him: You buy the land, build the houses. We will arrange for buyers and financing. I gave him quite tough terms: We pay you 10 per cent downpayment, 90 per cent on completion. This way, it was in his interest to complete the project fast.”[^12]
 
-![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Housing_advertisement.png)
-<div style="background-color: white;"> An advertisement for houses in Teachers’ Housing Estate, priced from $24,500 and up. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 7 October 1967, 6. (From NewspaperSG).</i>
-</div>
 
 
 #### **Building Homes**
@@ -52,6 +49,10 @@ The STU appointed Lian Hup Construction Company as the developer. As Yeoh recall
 Under the STU’s arrangement with Lian Hup, the developer agreed to give the union a piece of land of about 90,000 sq ft (8,361.3 sq m) for free which would be used for the clubhouse.[^13] 
 
 For each house built by Lian Hup, the STU paid the developer $24,000. The union then sold the houses and used the difference to fund the building of the clubhouse. These were priced from $24,500 for an intermediate double-storey terrace house to $30,000 for a corner double-storey terrace unit with a basement.[^14] The STU offered housing loans that ranged from $13,800 to $24,000, with the repayment period between six and 12 years.[^15]
+
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Housing_advertisement.png)
+<div style="background-color: white;"> An advertisement for houses in Teachers’ Housing Estate, priced from $24,500 and up. <i>Image reproduced from “Page 6 Advertisements Column 1,” Straits Times, 7 October 1967, 6. (From NewspaperSG).</i>
+</div>
 
 However, the initial reaction by teachers was lukewarm. There were other options, prices of houses elsewhere were comparable, and many considered the estate to be too rural; the site had dirt tracks leading to it and was surrounded by farmland.[^16] Potential homebuyers also had reservations about whether the STU could complete the project, given that this was not something the union had done before. In addition, there were concerns about flooding in the estate as it was lower than Yio Chu Kang Road.[^17]
 
