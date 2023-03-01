@@ -138,7 +138,7 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 [^11]: Pang Gek Choo, “[Indomitable Kim San: A Man of Integrity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961129-1.2.54.20),” *Straits Times*, 29 November 1996, 56. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/Main/) website); “[Union to Celebrate 25th Anniversary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710928-1.2.17),” *Straits Times*, 28 September 1971, 2. (From NewspaperSG); Lim Kim San, “[Speech by Mr. Lim Kim San, Minister for Education at the Opening of Teachers’ Park and Foundation Stone Laying Ceremony on 19 October 1971 at 7.00pm](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b5640b5-115d-11e3-83d5-0050568939ad),” 12 ½ milestone Yio Chu Kang Road, 19 October 1971. Transcript. Ministry of Culture. (From National Archives of Singapore document no. PressR19711019a)
 
-[^12]: Yeoh, “Report on the Teachers’ Housing Estate,” 14–15; Chua, “[The Story Behind Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950922-1.2.45.2).” Transcript. Ministry of Culture. (From National Archives of Singapore document no. PressR19711019a)
+[^12]: Yeoh, “Report on the Teachers’ Housing Estate,” 14–15; Chua, “[The Story Behind Teachers’ Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950922-1.2.45.2).” 
 
 [^13]: Singapore Teachers’ Union, *[The Challenge of Change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5305561)*, 62.
 
