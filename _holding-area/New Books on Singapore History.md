@@ -44,8 +44,17 @@ From PublicationSG
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
 
-The current landscape of street and place names in Singapore reflects the evolving occupation of places as a result of historical, social and cultural changes.
+This book tells the stories of early Indian and Hindu settlers to Singapore, the colonial-era culture and architecture, the impact of an administrative Hindu board, and the many festive traditions celebrated at local temples.
 
-This fourth edition of *Singapore Street Names* provides a comprehensive update of the series. Organised in alphabetical order, it covers existing as well as expunged street and place names. 
+#### **ROAR: Football Legends of Singapore**
 
-The book serves as a reference to the meaning and origins of street and place names in Singapore. It also provides a holistic perspective of Singapore’s development over the last two centuries since 1819 and even further back in time.
+by A. Thiyaga Raju; edited by
+Gary Koh
+
+Pagesetters Services Pte Ltd, 2022,
+261 pages <br>
+Call no.: RSING 796.334095957 THI
+
+![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
+
+This book tells the stories of early Indian and Hindu settlers to Singapore, the colonial-era culture and architecture, the impact of an administrative Hindu board, and the many festive traditions celebrated at local temples.
