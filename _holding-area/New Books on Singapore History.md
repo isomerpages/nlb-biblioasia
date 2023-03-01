@@ -57,4 +57,4 @@ Call no.: RSING 796.334095957 THI
 
 ![](/images/Vol%2018%20Issue%204/New%20Books/book4.png)
 
-This book tells the stories of early Indian and Hindu settlers to Singapore, the colonial-era culture and architecture, the impact of an administrative Hindu board, and the many festive traditions celebrated at local temples.
+This book documents 100 years of football history from the colonial era to the present day, tracing the development of football in Singapore. It features commentaries by A. Thiyaga Raju on his most memorable moments in Singapore football history.
