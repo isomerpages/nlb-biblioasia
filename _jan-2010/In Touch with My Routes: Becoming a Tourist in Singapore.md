@@ -4,3 +4,6 @@ permalink: /vol-5/issue-4/Jan-2010/Singapore-tourist-touch-routes/
 description: "Lee Kong Chian Research Fellow Desmond Wee ponders the Singaporean
   identity while being a tourist in Singapore. "
 ---
+ ####  Lee Kong Chian Research Fellow _Desmond Wee_ ponders the Singaporean identity while being a tourist in Singapore.
+ 
+ 
