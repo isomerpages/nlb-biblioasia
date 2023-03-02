@@ -109,7 +109,7 @@ One of the original residents of the estate, Abdul Qayyum, paid $26,500 for a 3,
 
 In 2004, it was announced that Teachers’ Estate would be upgraded under the Estate Upgrading Programme; upgrading works began on 10 October 2004. The $1.16-million facelift included the creation of a new poetry gallery, a new staircase, new estate signage and refurbishment of parks.[^41] A new 7.6-hectare park planned for the estate is due to be completed by 2024.[^42]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=medium"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
 
 <ul>	
