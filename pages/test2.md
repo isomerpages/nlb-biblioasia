@@ -9,4 +9,8 @@ ff
 <ul>	
 <li><b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.</li>
 </ul>
+	
+<b>REFERENCES</b> <br>  
+Dunlop, Peter K.G. <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722"><i>Street Names of Singapore</i></a>. Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br>  
+	
 </div>
