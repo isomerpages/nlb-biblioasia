@@ -64,3 +64,29 @@ A rarity in an age of franchise chains, Chin Mee Chin remains a traditional fami
 “We’re one of the few, if not the only one surviving, that still sells all these communityinfluenced (food items). These items are unique to Joo Chiat and to the Peranakan and Serani (Malay word for Eurasian, derived from the Arab word ‘nasrani’ meaning Nazarene or Christian) community. It is where the Nonya, Eurasian and Westernised middle-class would daily converge for these colonial-style cakes ... the shop is what it is today because of the influences of these different communities. By that I mean, it’s a living thing and we adapt our food to our customers’ tastes.”
 
 And with a steady stream of customers queuing for kaya toast and cream puffs, Chin Mee Chin’s legacy is firmly set against today’s fast-changing patchwork of new-fangled eateries and cafes.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Michelle%20Heng.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Michelle Heng</b><br>Independent Researcher<br> National Library</center></div>
+
+#### **REFERENCES**
+
+Braga-Blake, M. (Ed.). (1992). _[Singapore Eurasians: Memories and hopes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_. Singapore: Times Editions. Call no.: RSING 305.80405957 SIN
+
+Holmberg, J. (1993, August 9). [Heart of Katong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930809-1.2.100.13). _The Straits Times_, p. 16. From NewspaperSG.
+
+James, J. (2001, February 28). [End of an era for trade of old times?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010228-1.2.35.3) _The Straits Times_, p. 2. From NewspaperSG.
+
+Khoo, J. E. (1996). _[The Straits Chinese: A cultural history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7492531)_. Amsterdam: Pepin Press Call no.: RSING 305.895105951 KHO
+
+Koh, Tommy T. B. (1966). _[Rent control in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4836470)_. \[s.n.\]: \[n.p\]. Call no.: RCLOS 346.04344 KOH
+
+Kong, L. and Chang, T.C. (2001). _[Joo Chiat: A living legacy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10354011)_. Singapore: Joo Chiat Citizens' Consultative Committee in association with National Archives of Singapore Call no.: RSING 959.57 KON
+
+Phua, Roy Y.K. & Kong, L. (1995). “Exploring local cultures”. In Kong, L., and Yeoh, Brenda. S.A. (Eds). _[Portraits of places: History, community, and identity in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347)_. Singapore: Times Editions. Call no.: RSING 959.57 POR
+
+Urban Redevelopment Authority (Singapore). (1992). _[Procedures for recovering possession of rent-controlled premises](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6368062)_. Singapore: Urban Redevelopment Authority. Call no.: RSING 346.595704344 PRO
+
+
