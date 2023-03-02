@@ -3,7 +3,7 @@ title: test2
 permalink: /testinging2/
 description: ""
 ---
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size: medium"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
 	<p style="font-size:4px">
 <ul>	
