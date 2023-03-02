@@ -120,9 +120,9 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 * <b>Tu Fu Avenue</b> – Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.<br>
 * <b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.<br>
 * Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.<br>
-</ul>
+ 
 	
-**REFERENCES**  
+<b>REFERENCES</b>
 
 Dunlop, Peter K.G. 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722"><i>Street Names of Singapore</i></a>. Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br>  
