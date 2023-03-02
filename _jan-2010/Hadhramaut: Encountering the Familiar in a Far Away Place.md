@@ -49,24 +49,23 @@ Despite the language barrier, we tried to communicate with each other. We talked
 
 After that, they showed us around their house; we happily scampered up the narrow stairways which opened out to small rooms, some of which were unoccupied. A UNESCO World Heritage site, Shibam is famous for its towers of tall houses and is also referred to as “the Manhattan of the desert”12 and “the New York of Hadhramaut”.13 The tallest house rises 29.15 metres above its entrance on street level, and the average number of storeys is five.14 We counted seven storeys in this house, atop of which was a cool, airy rooftop.
 
+#### **Spiced Rice, *Sambal Belachan* and Sarong**
 
+The food in Hadhramaut was extremely familiar. The Hadhramis who migrated to Southeast Asia and maintained close links with Hadhramaut introduced some of the dishes of the host country to the motherland. Thus, we had rice, sauted vegetables and gravied meats similar to curry, accompanied by *sambal belachan*. Van der Meulen and Von Wissman noted during their travel through Hadhramaut in 1931 that the cooking in Tarim and Seiyun was very much influenced by Singapore and Java.15 They further noted then that Javanese and Chinese were sought after as cooks and housekeepers in Hadhramaut.16 Just as they observed then the presence of dried or tinned foods imported from Java, I enjoyed *keropok* in Tarim which Zahra informed me was from Indonesia.
 
+Van der Meulen and Von Wissman were served yellow-coloured spiced rice with dishes of mutton and gravy. They deduced that the practice of spicing the rice and meat was introduced from Java and India.17 Like them, I also ate spiced rice. It tasted very much like *nasi briyani* to me.
 
+There was one particularly unforgettable meal with spiced rice. This was a lunch we had at Do’an. We passed a truckload of camels as our car neared the eatery. Being women, Zahra and I were obliged to enter the eatery by a secondary entrance near the kitchen. On our way, our guide urged us to look down into the kitchen where we saw a man cooking a large pot of meat. The food we were served consisted of a platter of saffron-coloured spiced rice, a plate of camel meat and a dish of chilli sauce. Our guide explained that that was the eatery’s specialty, and the only food it served. I ate a lot of the rice with copious amounts of chilli sauce, focusing on how much it tasted like *nasi briyani*, and tried hard not to think about the camels and the kitchen outside. I chewed and swallowed some of the meat in great haste.
 
+The food was not all that was familiar to me in Hadhramaut. It was common for men there to don sarongs and shirts. This was the preferred attire of our guide. Our gentle, kindly driver also regularly wore a shirt over a singlet, and a sarong. We were told that the singlet was called *baju panas* in Hadhramaut.
 
+#### **Treading Where Migrants Walked**
 
+On 8 and 9 March, we visited the port cities of Shihr and Mukalla. These are the two main ports from where Hadhramis migrated. Shihr was the main port until Mukalla superseded it in the late 19th century.18 These two ports are significant in the lives of the migrants not only because they were the places of departure. Some Hadhramis spent a year or more working in these cities to earn their onward fare, and those deciding on their migration destinations would talk to sailors and returned emigrants in these ports.19
 
+We were taken on a walking tour of Shihr which included visiting the building which used to house the immigration offices. As we walked past the building, a briny aroma wafted by, bringing to mind images of the sea. Shortly after, some men came trundling by with a wheelbarrow filled with huge fish! The men told us through the guide that it was a fresh catch, and obligingly waited while we took photographs.
 
-
-
-
-
-
-
-
-
-
-
+We visited Mukalla the next day. I was told it is the centre of Hadhramaut’s fishing industry. As I feasted on the delectable fish with rice at a restaurant with Zahra, our host and our guide, I wondered how many Hadhrami migrants, who passed through Shihr and Mukalla, had missed the briny smell of the sea and fresh fish of these ports while in their host countries. By then, I had been away from home for more than a week and was starting to miss our tropical landscape and balmy evenings.
 
 
 
