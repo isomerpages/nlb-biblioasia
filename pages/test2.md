@@ -8,5 +8,5 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 ff
 <ul>	
 <li><b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.</li>
-</ul><
+</ul>
 </div>
