@@ -120,7 +120,7 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 <li> <b>Iqbal Avenue</b> – Named after the Indian poet and philosopher, Muhammad Iqbal (1877–1938), who was a staunch advocate for the creation of a separate Muslim state.</li>
 <li> <b>Tu Fu Avenue</b> – Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.</li>
 <li><b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.</li>
-<li>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.</li>
+<li><b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.</li>
  </ul>	
 	
 <b>REFERENCES</b> <br>  
