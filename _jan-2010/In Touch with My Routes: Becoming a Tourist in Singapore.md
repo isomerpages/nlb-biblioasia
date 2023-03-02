@@ -75,5 +75,72 @@ By looking at how tourist performance “affords” local performance, this pape
 
 ***The author wishes to acknowledge the contributions of Dr Philip Long, Principal Research Fellow, Centre for Tourism and Cultural Change, Faculty of Arts and Society, Leeds Metropolitan University, in reviewing the paper***.
 
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Desmond%20Wee.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Desmond Wee</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div> 
+
+#### **REFERENCES**
+
+Baerenholdt, J., et al. (2004). [_Performing tourist places_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12401422). Aldershot: Ashgate. Call no.: RBUS 338.4791 PER
+
+Alfian Sa’at (1998). [_One fierce hour_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9125373). Singapore: Landmark Books. Call no.: RSING S821 SAA
+
+Boh, J. (Photographer). (2009). No title. \[Online Image\]. Retrieved on July 15, 2009 from OnAsia. (Image Number: jbo00131)
+
+Chua, B. H., & Kuo, E. K. Y. (1991). [_The making of a new nation: Cultural construction and national identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6003128). Singapore: Department of Sociology, National University of Singapore. Call no.: RSING 959.57 CHU
+
+Clifford, J. (1997). _Routes: Travel and translation in the late twentieth century_. Cambridge, MA: Harvard University Press.
+
+Cohen, E. (1979). A phenomenology of tourist experiences. _Sociology, 13_ (2), 179–202.
+
+Crouch, D., Aronsson, L. and Wahlström, L. (2001). The tourist encounter. _Tourist Studies, 1_ (3), 253–270.
+
+Danzer, E. (Photographer). (2006). No title. \[Online Image\]. Retrieved on July 15, 2009 from OnAsia. (Image Number: eda00484)
+
+Devan, E. A. (2006, November 22). _Questioning evolution and progress_.
+
+Duggleby, L. (Photographer). (2006). No title. \[Online Image\]. Retrieved on July 15, 2009 from OnAsia. (Image Number: ldu03821)
+
+Edensor, T. (2001). Performing tourism, staging tourism: (Re)producing tourist space and practice. _Tourist Studies, 1_ (1), 59-–81.
+
+Gilroy, P. (1994). _Black music, ethnicity, and the challenge of a changing same_. London: Verso.
+
+Urban Redevelopment Authority (Singapore). (2003). [_Rediscover Singapore: An explorer’s guide to funky finds, fab fun and fantastic food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11895049). Singapore: Published for the Urban Redevelopment Authority by Media Corp Publishing Pte Ltd. Call no.: RSING 959.57 RED
+
+Hall. S. (1996). Who needs identity? In S. Hall and P. du Gay (Eds.), Questions of cultural identity. London: Sage.
+
+Kellner, D. (1992). Popular culture and the construction of postmodern identities. In S.Lash and J. Friedman (Eds.), _Modernity and identity_. Oxford: Blackwell.
+
+Lanfant, M. F., Allcock, J. B. and Bruner, E. M. (Eds.). (1995). [_International tourism: Identity and change_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7497834). London: Sage. Call no.: RBUS 338.4791 INT
+
+Lee, P. (2004). [_Singapore, tourism and me_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284302). Singapore: Pamelia Lee Pte Ltd. Call no.: RSING 338.47915957 LEE
+
+Lengkeek. J. (2002). A love affair with elsewhere: Love as a metaphor and paradigm for tourist longing. In G. Dann (Ed.) _The tourist as a metaphor for the social world_ (pp.189–208). Wallingford: CABI Publishing.
+
+McCabe, S. (2002). The tourist experience and everyday life. In G. Dann (Ed.), _The tourist as a metaphor for the social world_ (pp. 1–18). Wallingford: CABI Publishing.
+
+Relph, E. (1976). _Place and placelessness_. London: Pion.
+
+Schoppert, P. (2005). The Merlion & other monsters: Some notes on Singapore’s moving monuments. In Lim, T-C, [_Mike_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655140). Singapore: National Arts Council & Singapore Art Museum. Call no.: RSING q731.86 LIM
+
+Sheller, M., Urry, J. (Eds.) (2004). [_Tourism mobilities: Places to play, places in play_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382203). London: Routledge. Call no.: RBUS 338.4791 TOU
+
+Simpson, K. (2001). Strategic planning and community involvement as contributors to sustainable tourism development. _Current Issues in Tourism, 1_ (4), 3–41.
+
+Singapore Tourism Board. (2006, July 18). “_Beyond words”. The next phase of uniquely Singapore brand campaign, breaks new ground_. From Singapore Tourism Board website.
+
+Smith, V. (Ed.) (1977). _Hosts and guests: The anthropology of tourism_. Philadelphia: University of Philadelphia Press.
+
+Su, E. (Photographer) (2007). No title. \[Online Image\]. Retrieved on July 15, 2009 from OnAsia. (Image Number: esu00181)
+
+Thumboo, E. (1979). [_Ulysses by the Merlion_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078045). Singapore: Heinemann Educational Books. Call no.: RSING 828.995957 THU
+
+Wee, D. (2009). Singapore language enhancer: Identity included. _Language and Intercultural Communication, 9_ (1), 15–23.
+
+
+
+
 
 
