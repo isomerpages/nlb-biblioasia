@@ -137,7 +137,7 @@ Dunlop, Peter K.G.<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10
 
 Ng, Yew Peng.<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)<br><br>
 
-Savage, Victor R., and Brenda S.A. Yeoh,<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850"><i>Singapore Street Names: A Study of Toponymics</i><a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)<br>
+Savage, Victor R., and Brenda S.A. Yeoh,<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850"><i>Singapore Street Names: A Study of Toponymics</i><a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)<br><br>
 </div>
 
 	
