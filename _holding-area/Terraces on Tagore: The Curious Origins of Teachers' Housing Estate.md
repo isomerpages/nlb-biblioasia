@@ -138,7 +138,7 @@ Dunlop, Peter K.G. [_Street Names of Singapore_](http://eservice.nlb.gov.sg/item
 Ng, Yew Peng. [_What's in the Name? How the Streets and Villages in Singapore Got Their Names_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202924449). Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)
 
 Savage, Victor R., and Brenda S.A. Yeoh, [_Singapore Street Names: A Study of Toponymics_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850). Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)
-<br>
+<br><br>
 </div>
 
 <div style="background-color: white;">
