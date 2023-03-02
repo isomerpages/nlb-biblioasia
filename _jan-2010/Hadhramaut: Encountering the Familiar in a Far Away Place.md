@@ -7,6 +7,9 @@ description: "Senior Research Associate Cheryl-Ann Low travels with colleague
 ---
 #### Senior Research Associate _Cheryl-Ann Low_ travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbrick%20mould.jpg">
+ <div style="background-color: white;">Putting mud mixture into the mould</div>
+
 Most Singaporean Arabs originated from, or had close family ties with, Hadhramaut[^1] at the southern part of the Arabian Peninsula, in present-day Yemen. In March this year, my colleague Zahra Aljunied and I visited Hadhramaut with the purpose of finding materials alluding to the links between Hadhramaut and Southeast Asia, particularly Singapore.
 
 Descended from Hadhramis Syed Mohammed Bin Harun Aljunied and his nephew Syed Omar Aljunied who came to Singapore via Palembang in the early 19th Century,[^2] Zahra’s family still has strong ties with Hadhramaut.
