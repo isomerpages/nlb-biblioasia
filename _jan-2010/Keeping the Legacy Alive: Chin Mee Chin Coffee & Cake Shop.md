@@ -6,6 +6,10 @@ description: Researcher Michelle Heng contemplates the legacy and future of Chin
 ---
 #### Researcher _Michelle Heng_ contemplates the legacy and future of Chin Mee Chin Coffee & Cake Shop famed for its _kaya_ and pastries.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/ChinMeeChin/CMC%20facade.jpg">
+ <div style="background-color: white;">Located at 204 East Coast Road, Chin Mee Chin Coffee & Cake Shop is a nondescript-looking corner shop house that still pulls in crowds, especially on weekends.
+</div>
+
 The next time you pop into Chin Mee Chin Coffee & Cake Shop for a crusty toast flavoured with *kaya* and melt-in-your-mouth butter, you won't be seeing the familiar sight of an old Hainanese uncle brewing coffee at the back of the shop. Mr Tan Joon Ling, 87, passed away on 25 July 2009, says his son, William Tan Chiew Duan, 49.
 
 With the demise of its second-generation proprietor, the landmark coffee shop in Katong witnessed the passing of an era. Its story, like the many-splendoured spread behind the decadesold glass showcase in this fabled shop, is a colourful tapestry of living history. A landmark eatery along laid-back Katong, Chin Mee Chin’s gastronomic history is woven from the variegated skeins of traditional eating habits among the predominantly Peranakan (descendants of immigrants who were born in Malaya and Indonesia — a Malay word that applies to those who are native by birth, the term stems from the Malay root ‘anak’ for child or children) and Eurasian communities residing in the vicinity.
@@ -44,9 +48,9 @@ And like most old-school businessmen, Tan Joon Ling resisted the call to change 
 
 A rarity in an age of franchise chains, Chin Mee Chin remains a traditional family-run Hainanese coffee shop today. While the original wide array of delicacies have been whittled down due to a lack of manpower and the challenge of replacing ageing staff looms larger with each passing year, William Tan is confident that the present generation of staff at Chin Mee Chin will keep its heritage alive.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/ChinMeeChin/cakes.jpg">
+ <div style="background-color: white;">The coffee shop boasts a delectable spread of Peranakan, Serani and Western colonial community-influenced cakes and pastries that are special to the Joo Chiat area.</div>
+
 “We’re one of the few, if not the only one surviving, that still sells all these communityinfluenced (food items). These items are unique to Joo Chiat and to the Peranakan and Serani (Malay word for Eurasian, derived from the Arab word ‘nasrani’ meaning Nazarene or Christian) community. It is where the Nonya, Eurasian and Westernised middle-class would daily converge for these colonial-style cakes ... the shop is what it is today because of the influences of these different communities. By that I mean, it’s a living thing and we adapt our food to our customers’ tastes.”
 
 And with a steady stream of customers queuing for kaya toast and cream puffs, Chin Mee Chin’s legacy is firmly set against today’s fast-changing patchwork of new-fangled eateries and cafes.
-
-
-
