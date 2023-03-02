@@ -46,7 +46,13 @@ In their heyday during the 1950s to 1970s, popular bakeries in the Katong distri
 
 With almost no skilled bakers and the barest of working experience in the coffee shop trade, Tan Joon Ling built Chin Mee Chin from scratch with true grit and a relentless drive to prove naysayers wrong, recalls his son. Following in his father’s footsteps, Tan Joon Ling, with the support of his extended family and clansmen who stayed in the shop house’s living quarters, added to the confectionery’s repertoire of cakes, pastries and buns. Fired by the zeal to survive and thrive, Tan Joon Ling and his staff at Chin Mee Chin created their own makeshift urn and oven using bricks and a metal sheet at the back of the coffee shop. From a small brick furnace, a steady supply of bread and cakes soon filled the shop with inviting aromas.
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/ChinMeeChin/CMC%20kitchen.jpg">
+ <div style="background-color: white;">Buttery fumes waft from the bright interiors of the coffee shop's expansive kitchen - this landmark eatery has come a long way since its humble beginnings as a bread distribution service in the 1920s.</div>
+
 A typical day started at 4.30a.m. when he would start the charcoal fire, boil water and prepare baking ingredients in time for the first customers who came by for their breakfast when the shop’s shutters went up at 6.30a.m. The shop closed at 6p.m., but Tan Joon Ling would linger at the shop front to do the accounts with the help of his young cousin, or hone his baking skills by improving on existing recipes or experimenting with exotic creations such as decorating tiered wedding cakes.
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/ChinMeeChin/CMC%20people.jpg">
+ <div style="background-color: white;">Madam Audrey Wee Soo Cheng, wife of the third-generation proprietor, and a co-worker carry on her father-in-law's fine tradition of painstakingly making the coffee shop's popular pastries and bread rolls from scratch</div>
 
 And like most old-school businessmen, Tan Joon Ling resisted the call to change his mode of operating the family-run business despite rumblings from younger family members for a more systematic and modern business approach.
 
