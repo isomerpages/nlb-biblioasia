@@ -114,7 +114,7 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 
 * 	<b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.
 
-	<p style\="font-size:8px"\>
+	<p style\="font-size:6px"\>
 <ul>	
 <li><b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.</li>
 <li><b>Kalidasa Avenue</b> – Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.</li>
