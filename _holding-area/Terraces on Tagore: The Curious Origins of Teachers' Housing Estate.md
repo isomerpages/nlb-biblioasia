@@ -112,15 +112,14 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
 
-<ul>	
-<li><b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.</li>
-<li><b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.</li>
-<li><b>Kalidasa Avenue</b> – Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.</li>
-<li><b>Tagore Avenue</b> – Named after Rabindranath Tagore (1861–1941), a Bengali poet who won the Nobel Prize for Literature in 1913 and was knighted in England in 1914.</li>
-<li><b>Iqbal Avenue</b> – Named after the Indian poet and philosopher, Muhammad Iqbal (1877–1938), who was a staunch advocate for the creation of a separate Muslim state.</li>
-<li><b>Tu Fu Avenue</b> – Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.</li>
-<li><b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.</li>
-<li><b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.</li><br><br>
+*<b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.<br>
+* <b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.<br>
+* <b>Kalidasa Avenue</b> – Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.<br>
+* <b>Tagore Avenue</b> – Named after Rabindranath Tagore (1861–1941), a Bengali poet who won the Nobel Prize for Literature in 1913 and was knighted in England in 1914.<br>
+* <b>Iqbal Avenue</b> – Named after the Indian poet and philosopher, Muhammad Iqbal (1877–1938), who was a staunch advocate for the creation of a separate Muslim state.<br>
+* <b>Tu Fu Avenue</b> – Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.<br>
+* <b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.<br>
+* Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.<br>
 </ul>
 	
 **REFERENCES**  
