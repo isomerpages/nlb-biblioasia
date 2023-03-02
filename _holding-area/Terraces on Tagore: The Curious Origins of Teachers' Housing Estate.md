@@ -124,9 +124,9 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 	
 **REFERENCES**  
 
-Dunlop, Peter K.G. [_Street Names of Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722). Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  
-  
-Ng, Yew Peng. [_What's in the Name? How the Streets and Villages in Singapore Got Their Names_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202924449). Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)  
+Dunlop, Peter K.G. 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722">Street Names of Singapore</a>. Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br>  
+Ng, Yew Peng. [_What's in the Name? How the Streets and Villages in Singapore Got Their Names_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202924449). Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)  <br>
   
 Savage, Victor R., and Brenda S.A. Yeoh. [_Singapore Street Names: A Study of Toponymics_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200123850). Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)
 </div>
