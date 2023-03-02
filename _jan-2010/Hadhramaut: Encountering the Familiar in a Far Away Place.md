@@ -74,6 +74,9 @@ The food was not all that was familiar to me in Hadhramaut. It was common for me
 On 8 and 9 March, we visited the port cities of Shihr and Mukalla. These are the two main ports from where Hadhramis migrated. Shihr was the main port until Mukalla superseded it in the late 19th century.[^18]
 These two ports are significant in the lives of the migrants not only because they were the places of departure. Some Hadhramis spent a year or more working in these cities to earn their onward fare, and those deciding on their migration destinations would talk to sailors and returned emigrants in these ports.[^19]
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Immigration%20Shihr.jpg">
+ <div style="background-color: white;">Building which housed immigration offices, Shihr.</div>
+
 We were taken on a walking tour of Shihr which included visiting the building which used to house the immigration offices. As we walked past the building, a briny aroma wafted by, bringing to mind images of the sea. Shortly after, some men came trundling by with a wheelbarrow filled with huge fish! The men told us through the guide that it was a fresh catch, and obligingly waited while we took photographs.
 
 We visited Mukalla the next day. I was told it is the centre of Hadhramaut’s fishing industry. As I feasted on the delectable fish with rice at a restaurant with Zahra, our host and our guide, I wondered how many Hadhrami migrants, who passed through Shihr and Mukalla, had missed the briny smell of the sea and fresh fish of these ports while in their host countries. By then, I had been away from home for more than a week and was starting to miss our tropical landscape and balmy evenings.
