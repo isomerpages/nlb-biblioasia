@@ -111,8 +111,10 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
+
+* 	<b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.
+
 <ul>	
-<li><b><b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.
 <li><b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.</li>
 <li><b>Kalidasa Avenue</b> – Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.</li>
 <li><b>Tagore Avenue</b> – Named after Rabindranath Tagore (1861–1941), a Bengali poet who won the Nobel Prize for Literature in 1913 and was knighted in England in 1914.</li>
