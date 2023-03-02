@@ -124,7 +124,7 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Sharon%20Teng.png" style="width: 100px; height: 100px;"/>
-	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
+<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 	
 #### **NOTES**
 
