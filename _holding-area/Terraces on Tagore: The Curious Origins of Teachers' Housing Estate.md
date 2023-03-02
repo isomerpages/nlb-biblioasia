@@ -131,11 +131,13 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 
 <li><b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.</li>
 
- <b>REFERENCES</b><br><br>Dunlop, Peter K.G. [_Street Names of Singapore_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10074722)_._ Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)
+ <b>REFERENCES</b><br>
+	
+Dunlop, Peter K.G.<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10074722"><i>Street Names of Singapore</i></a> Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)<br><br>
 
-Ng, Yew Peng. [_What's in the Name? How the Streets and Villages in Singapore Got Their Names_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202924449). Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)
+Ng, Yew Peng.<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)<br><br>
 
-Savage, Victor R., and Brenda S.A. Yeoh, [_Singapore Street Names: A Study of Toponymics_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850). Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)<br>
+Savage, Victor R., and Brenda S.A. Yeoh,<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850"><i>Singapore Street Names: A Study of Toponymics</i><a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)<br>
 </div>
 
 	
