@@ -67,9 +67,13 @@ We were taken on a walking tour of Shihr which included visiting the building wh
 
 We visited Mukalla the next day. I was told it is the centre of Hadhramaut’s fishing industry. As I feasted on the delectable fish with rice at a restaurant with Zahra, our host and our guide, I wondered how many Hadhrami migrants, who passed through Shihr and Mukalla, had missed the briny smell of the sea and fresh fish of these ports while in their host countries. By then, I had been away from home for more than a week and was starting to miss our tropical landscape and balmy evenings.
 
+#### **Last Day in Hadhramaut**
 
+My last day in Hadhramaut was 12 March. As my flight was in the afternoon, we started the day by visiting a mudbrick factory. Buildings in Hadhramaut are traditionally constructed from mud-bricks and the centuries-old technology of making mud-bricks has remained largely unchanged.20 The mud-bricks are made in large outdoor yards. Soil is wetted and chopped straw is mixed in. The mixture is smoothed into a pre-wetted wooden mould, edges defined with a tool or finger, and the mould removed. The bricks are then sun-dried for about a week before they are ready for use.21 Although concrete buildings have sprung up in Hadhramaut, mud-brick structures continue to be built.
 
+In the afternoon, I boarded the plane at Seiyun for Sana’a where I would spend two days before catching the homeward international flight back. By then, I had acquired some ability to communicate with kindred spirits who spoke a different language. I helped an over-laden lady carry her bag; she showed me how to get to the front of the crowd to board the plane. Together, we hurried on board and she negotiated for us to sit next to each other. Pointing and gesturing at the in-flight magazine, she recommended that I visit Socotra — a small archipelago of islands south of the Arabian Peninsula — the next time. The illustrations in the magazine showed it was a spectacular place with unique flora.
 
+As the plane soared over the mountainous plateaus and values, I mused that I would have some interesting things to share with friends back home over a meal accompanied by *sambal belachan*.
 
 
 
