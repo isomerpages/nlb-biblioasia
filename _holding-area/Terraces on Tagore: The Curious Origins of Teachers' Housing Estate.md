@@ -111,13 +111,9 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 	
- <b>REFERENCES</b><br><br>Dunlop, Peter K.G. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=10074722"><i>Street Names of Singapore</i></a> Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)<br><br>Ng, Yew Peng. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)<br><br>Savage, Victor R., and Brenda S.A. Yeoh. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=200123850"><i>Singapore Street Names: A Study of Toponymics</i></a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)<br><br>
-
-              </div>
+ <b>REFERENCES</b><br><br>Dunlop, Peter K.G. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=10074722"><i>Street Names of Singapore</i></a> Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)<br><br>Ng, Yew Peng. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)<br><br>Savage, Victor R., and Brenda S.A. Yeoh. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=200123850"><i>Singapore Street Names: A Study of Toponymics</i></a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)<br><br></div>
 	
 	
-	</div>
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/Sharon%20Teng.png" style="width: 100px; height: 100px;"/>
