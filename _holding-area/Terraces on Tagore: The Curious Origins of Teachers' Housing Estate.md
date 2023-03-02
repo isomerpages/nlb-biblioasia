@@ -114,6 +114,7 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 
 * 	<b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.
 
+	<p style\="font-size:8px"\>
 <ul>	
 <li><b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.</li>
 <li><b>Kalidasa Avenue</b> – Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.</li>
@@ -122,7 +123,7 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 <li><b>Tu Fu Avenue</b> – Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.</li>
 <li><b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.</li>
 <li><b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.</li><br><br>
-</ul>	
+</ul>	</p>
 	
 <b>REFERENCES</b><br><br>Dunlop, Peter K.G. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=10074722"><i>Street Names of Singapore</i></a> Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)<br><br>Ng, Yew Peng. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)<br><br>Savage, Victor R., and Brenda S.A. Yeoh. <a href="https://eservice.nlb.gov.sg/item\\\_holding\\\_s.aspx?bid=200123850"><i>Singapore Street Names: A Study of Toponymics</i></a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)</div>
 	
