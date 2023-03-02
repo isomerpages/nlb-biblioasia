@@ -79,9 +79,15 @@ These two ports are significant in the lives of the migrants not only because th
 
 We were taken on a walking tour of Shihr which included visiting the building which used to house the immigration offices. As we walked past the building, a briny aroma wafted by, bringing to mind images of the sea. Shortly after, some men came trundling by with a wheelbarrow filled with huge fish! The men told us through the guide that it was a fresh catch, and obligingly waited while we took photographs.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Fish%20Shihr.jpg">
+ <div style="background-color: white;">Fresh fish in Shihr.</div>
+
 We visited Mukalla the next day. I was told it is the centre of Hadhramaut’s fishing industry. As I feasted on the delectable fish with rice at a restaurant with Zahra, our host and our guide, I wondered how many Hadhrami migrants, who passed through Shihr and Mukalla, had missed the briny smell of the sea and fresh fish of these ports while in their host countries. By then, I had been away from home for more than a week and was starting to miss our tropical landscape and balmy evenings.
 
 #### **Last Day in Hadhramaut**
+
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbricks%20stacking.jpg">
+ <div style="background-color: white;">Stacking dried mud-bricks.</div>
 
 My last day in Hadhramaut was 12 March. As my flight was in the afternoon, we started the day by visiting a mudbrick factory. Buildings in Hadhramaut are traditionally constructed from mud-bricks and the centuries-old technology of making mud-bricks has remained largely unchanged.[^20] The mud-bricks are made in large outdoor yards. Soil is wetted and chopped straw is mixed in. The mixture is smoothed into a pre-wetted wooden mould, edges defined with a tool or finger, and the mould removed. The bricks are then sun-dried for about a week before they are ready for use.[^21] Although concrete buildings have sprung up in Hadhramaut, mud-brick structures continue to be built.
 
