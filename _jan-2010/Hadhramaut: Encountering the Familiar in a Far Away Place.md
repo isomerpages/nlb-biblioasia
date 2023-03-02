@@ -23,7 +23,7 @@ Hadhramaut is an arid environment, isolated by desert and mountains from the res
 
 During a visit to a Hadhrami gentleman, Zahra and I would come across a correspondence relating to the 1940s famine. A drought that started in 1943 (and lasted three years) caused harvest failures in Hadhramaut.[^8] The situation was exacerbated by the halting of monetary remittances from relatives in Malaya and Indonesia following the Japanese Occupation, hence leading to the loss of an important source of income to pay for food imports.[^9]
 
-It was evening as we neared Tarim; the mountainous views gave way to stretches of sandy roads punctuated by clusters of angular mud-brick buildings and groves of date palms. The car window framed these scenes, like a pretty series of tableaux as we passed. One could not help but marvel at the stark differences between the landscapes of Hadhramaut and tropical Southeast Asia, and it is no wonder that a Hadhrami migrant in Indonesia lauded in a poem the date palms of his homeland.10
+It was evening as we neared Tarim; the mountainous views gave way to stretches of sandy roads punctuated by clusters of angular mud-brick buildings and groves of date palms. The car window framed these scenes, like a pretty series of tableaux as we passed. One could not help but marvel at the stark differences between the landscapes of Hadhramaut and tropical Southeast Asia, and it is no wonder that a Hadhrami migrant in Indonesia lauded in a poem the date palms of his homeland.[^10]
 
 The sun had set by the time we arrived at Uncle Aljunied’s house. As we entered the house and were warmly greeted by the womenfolk, Zahra managed to explain to me that we would seldom be using that entrance as the menfolk might be around that part of the house. The house was designed such that men and women could live separately from each other. Throughout my stay there, I saw Zahra’s gentlemen relatives only once — when we briefly exchanged greetings on the day of our arrival. 
 
@@ -147,6 +147,3 @@ Old Walled City of Shibam. (n.d.). From UNESCO World Heritage website, http://wh
 [^20]: Jerome, Chiari and Borelli, “The Architecture of Mud,” p. 41.
 
 [^21]: Jerome, Chiari and Borelli, “The Architecture of Mud,” pp. 41–42.
-
-
-
