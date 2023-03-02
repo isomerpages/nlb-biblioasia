@@ -50,6 +50,9 @@ Another lively visit we had was with a family in Shibam. We sat with the wife of
 
 Despite the language barrier, we tried to communicate with each other. We talked about how beautiful Shibam was, told them that we also like to eat melon seeds in Singapore, and asked them how they coloured their melon seeds so attractively. The host’s daughter was in her early teens, and had a very friendly disposition. We both smiled immediately at each other when we met. At an awkward moment when we ran out of words, I started playing with the colourful melon seed kernels, arranging them into a pattern on the carpeted floor in front of me. The daughter was intrigued and smiled knowingly when she realised what I was trying to represent with the seed kernels — the colourful buildings of Shibam. In response, she arranged her melon seed kernels into a flower and looked at me with a huge grin.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/IMG_0790.jpg">
+ <div style="background-color: white;">Shibam, a UNESCO World Heritage site</div>
+
 After that, they showed us around their house; we happily scampered up the narrow stairways which opened out to small rooms, some of which were unoccupied. A UNESCO World Heritage site, Shibam is famous for its towers of tall houses and is also referred to as “the Manhattan of the desert”[^12] and “the New York of Hadhramaut”.[^13] The tallest house rises 29.15 metres above its entrance on street level, and the average number of storeys is five.[^14] We counted seven storeys in this house, atop of which was a cool, airy rooftop.
 
 #### **Spiced Rice, *Sambal Belachan* and Sarong**
@@ -59,6 +62,10 @@ The food in Hadhramaut was extremely familiar. The Hadhramis who migrated to Sou
 Van der Meulen and Von Wissman were served yellow-coloured spiced rice with dishes of mutton and gravy. They deduced that the practice of spicing the rice and meat was introduced from Java and India.[^17] Like them, I also ate spiced rice. It tasted very much like *nasi briyani* to me.
 
 There was one particularly unforgettable meal with spiced rice. This was a lunch we had at Do’an. We passed a truckload of camels as our car neared the eatery. Being women, Zahra and I were obliged to enter the eatery by a secondary entrance near the kitchen. On our way, our guide urged us to look down into the kitchen where we saw a man cooking a large pot of meat. The food we were served consisted of a platter of saffron-coloured spiced rice, a plate of camel meat and a dish of chilli sauce. Our guide explained that that was the eatery’s specialty, and the only food it served. I ate a lot of the rice with copious amounts of chilli sauce, focusing on how much it tasted like *nasi briyani*, and tried hard not to think about the camels and the kitchen outside. I chewed and swallowed some of the meat in great haste.
+
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Spiced%20rice%20&%20camel%20meat.jpg">
+ <div style="background-color: white;">Spiced rice with camel meat and chilli sauce</div>
+
 
 The food was not all that was familiar to me in Hadhramaut. It was common for men there to don sarongs and shirts. This was the preferred attire of our guide. Our gentle, kindly driver also regularly wore a shirt over a singlet, and a sarong. We were told that the singlet was called *baju panas* in Hadhramaut.
 
