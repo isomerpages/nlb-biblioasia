@@ -92,8 +92,9 @@ According to the *Annual Report of the Fisheries Department* for 1950 and 1951, 
 Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abundant with these shrimps. This was a popular spot for villagers looking to catch and sell the shrimps fresh or to make them into *belacan*. However, this place no longer exists due to land reclamation. Over time, the *belacan* industry in Tampines declined not only due to reclamation, but also because people moved away from the area. By 1986, more than half of the villagers had moved into flats in new housing estates like Bedok, Hougang and Tampines.[^27]
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-	<b>THE FILM RESTORATION PROCESS</b><br><br>
-Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
+	<b>RECIPE FOR BELACAN</b><br><br>
+	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
+	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later.
 <br><br>
 
 </div>
