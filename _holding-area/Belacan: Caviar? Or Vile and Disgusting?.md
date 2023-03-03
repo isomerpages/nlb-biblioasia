@@ -144,13 +144,13 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^18]: David G. Stead, *General Report Upon the Fisheries of British Malaya With Recommendations for Future Development* (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
 
-[^19]: Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” *Journal of Southeast Asian Studies* 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s eResources website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” Indonesia no. 62 (October 1996), 90–121. (From JSTOR via NLB’s eResources website)
+[^19]: Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” *Journal of Southeast Asian Studies* 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s eResources website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” *Indonesia* no. 62 (October 1996), 90–121. (From JSTOR via NLB’s eResources website)
 
-[^20]: T.W. Burdon, The Fishing Industry of Singapore (Singapore: Donald Moore, 1955), 46. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR) 
+[^20]: T.W. Burdon, *The Fishing Industry of Singapore* (Singapore: Donald Moore, 1955), 46. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR) 
 
 [^21]: Toffa Abdul Wahed, “Caviar of the East: Shrimp Paste in the Food and Foodways of Southeast Asia” (BA Thesis, National University of Singapore, 2013), 47–49, https://scholarbank.nus.edu.sg/handle/10635/191487.
 
-[^22]: T.W. Burdon, Annual Report of the Fisheries Department, 1950 (Singapore: Fisheries Department, 1951), 58; T.W. Burdon, Annual Report of the Fisheries Department, 1951 (Singapore: Fisheries Department, 1952), 69. (From National Library, Singapore, call no. RCLOS 639.2 SIN); Burdon, Fishing Industry of Singapore, 48.
+[^22]: T.W. Burdon, *Annual Report of the Fisheries Department, 1950* (Singapore: Fisheries Department, 1951), 58; T.W. Burdon, Annual Report of the Fisheries Department, 1951 (Singapore: Fisheries Department, 1952), 69. (From National Library, Singapore, call no. RCLOS 639.2 SIN); Burdon, Fishing Industry of Singapore, 48.
 
 [^23]: Toffa Abdul Wahed, “Caviar of the East,” 21.
 
