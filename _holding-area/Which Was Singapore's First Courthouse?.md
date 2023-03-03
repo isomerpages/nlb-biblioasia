@@ -120,31 +120,31 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 #### **NOTES**
 
-[^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, An Anecdotal History of Old Times in Singapore, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
+[^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *An Anecdotal History of Old Times in Singapore*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
 
-[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, The Law of the Straits Settlements: A Commentary (Singapore: Kelly & Walsh, 1915), 148–150.(From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, An Anecdotal History of Old Times in Singapore, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
+[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *The Law of the Straits Settlements: A Commentary* (Singapore: Kelly & Walsh, 1915), 148–150.(From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *An Anecdotal History of Old Times in Singapore*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
 
 [^3]: This estimate is based on the fact that the 12-pounder smooth-bore British cannons of the early 19th century had a range of about 1.2 km, and Article 1 of the treaty stipulated that the jurisdiction extended “as far as the range of cannon shot, all around the factory”.
 
-[^4]: Buckley, An Anecdotal History of Old Times in Singapore, 39.
+[^4]: Buckley, *An Anecdotal History of Old Times in Singapore*, 39.
 
-[^5]: Buckley, An Anecdotal History of Old Times in Singapore, 39.
+[^5]: Buckley, *An Anecdotal History of Old Times in Singapore*, 39.
 
-[^6]: Buckley, An Anecdotal History of Old Times in Singapore, 39.
+[^6]: Buckley, *An Anecdotal History of Old Times in Singapore*, 39.
 
 [^7]: “Arrangements Made for the Government of Singapore in June 1819”. See Buckley, An Anecdotal History of Old Times in Singapore, 58.
 
-[^8]: Article 1. See Buckley, An Anecdotal History of Old Times in Singapore, 58. 
+[^8]: Article 1. See Buckley, *An Anecdotal History of Old Times in Singapore*, 58. 
 
-[^9]: Buckley, An Anecdotal History of Old Times in Singapore, 58–59.
+[^9]: Buckley, *An Anecdotal History of Old Times in Singapore*, 58–59.
 
-[^10]: Raffles Museum and Library, “Farquhar to Raffles, 2 November 1819,” L10: Singapore: Letters to Bencoolen, Straits Settlements Records, 188–190. (From National Archives of Singapore)
+[^10]: Raffles Museum and Library, “Farquhar to Raffles, 2 November 1819,” *L10: Singapore: Letters to Bencoolen*, Straits Settlements Records, 188–190. (From National Archives of Singapore)
 
-[^11]: Raffles Museum and Library, “Raffles to Farquhar, 20 March 1820,” L10: Singapore: Letters to Bencoolen, Straits Settlements Records, 319. (From National Archives of Singapore)
+[^11]: Raffles Museum and Library, “Raffles to Farquhar, 20 March 1820,” L10: *Singapore: Letters to Bencoolen*, Straits Settlements Records, 319. (From National Archives of Singapore)
 
-[^12]: Raffles Museum and Library, “Farquhar to Hull, 22 March 1823,” L13: Raffles: Letters from Singapore, Straits Settlements Records, 283–87. (From National Archives of Singapore, microfilm no. NL58)
+[^12]: Raffles Museum and Library, “Farquhar to Hull, 22 March 1823,” *L13: Raffles: Letters from Singapore*, Straits Settlements Records, 283–87. (From National Archives of Singapore, microfilm no. NL58)
 
-[^13]: H.F. Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 1 (161) (July 1953): 54. (From JSTOR via NLB’s eResources website). This site used to lay a short distance from the seafront as the Padang – then known as The Esplanade – was only half its current width. See Kevin YL Tan, “A History of the Padang,” BiblioAsia 18 no. 1 (April–June 2022). Farquhar’s Residency buildings were eventually abandoned. In 1827, Lieutenant Jackson reported that the old Residency area was “still covered with the decayed attap buildings belonging to Colonel Farquhar”. See Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” 55.
+[^13]: H.F. Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 1 (161) (July 1953): 54. (From JSTOR via NLB’s eResources website). This site used to lay a short distance from the seafront as the Padang – then known as The Esplanade – was only half its current width. See Kevin YL Tan, “A History of the Padang,” *BiblioAsia* 18 no. 1 (April–June 2022). Farquhar’s Residency buildings were eventually abandoned. In 1827, Lieutenant Jackson reported that the old Residency area was “still covered with the decayed attap buildings belonging to Colonel Farquhar”. See Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” 55.
 
 [^14]: Chan Gaik Ngoh, “The Kapitan Cina System in the Straits Settlements,” Malaya in History 25 (1982): 74; Wong Choon San, A Gallery of Chinese Kapitans (Singapore: Dewan Bahasa dan Kebudayaan Kebangsaan, 1963). (From National Library, Singapore, call no. RSING 325.25109595 WON); Mona Lohanda, The Kapitan China of Batavia, 1837–1942 (PhD diss., School of Oriental and African Studies, University of London, 1994)
 
