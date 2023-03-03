@@ -23,7 +23,7 @@ In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countrie
 
 “[A] condiment made of prawns, sardines, and other small fish, pounded and pickled. The proper Malay word is bâlachan [*belacan*], the Javanese trasi [*terasi*], and the Philippine bagon [*bagoong*]. This article is of universal use as a condiment, and one of the largest articles of native consumption throughout both the Malay and Philippine Archipelago. It is not confined, indeed, as a condiment to the Asiatic islanders, but is also largely used by the Birmese [Burmese], the Siamese, and Cochin-Chinese. It is, indeed, in great measure essentially the same article known to the Greeks and Romans under the name of garum, the produce of a Mediterranean fish.”[^3]
 
-Today, the Malay term belacan is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called kapi, which is borrowed from the term ngapi (literally “pressed fish”) used in Myanmar, while it is referred to as mắm tôm or mắm ruốc in Vietnam.
+Today, the Malay term *belacan* is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called *kapi*, which is borrowed from the term *ngapi* (literally “pressed fish”) used in Myanmar, while it is referred to as *mắm tôm* or* mắm ruốc* in Vietnam.
 
 Because it is rich in glutamates and nucleotides, belacan imparts savouriness to any dish, what is often described as “umami”. Other foods that are rich in umami include fish sauce, soya sauce, kimchi, mushroom, ripe tomato, anchovy and cheese.
 
