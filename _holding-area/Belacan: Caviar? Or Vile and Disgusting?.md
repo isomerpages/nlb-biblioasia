@@ -98,7 +98,8 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 <br><br>
 	<b>Ingredients:</b><br>
 	Use a Chinese tea cup as a measure.<br>
-	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.
+	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.<br><br>
+	<b>Method:</b><br>
 	
 </div>
 
