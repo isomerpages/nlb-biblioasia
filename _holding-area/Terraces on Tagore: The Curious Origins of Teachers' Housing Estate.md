@@ -119,12 +119,12 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
  <img
 src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_Teachers'%20Estate2.jpg">
 <div style="background-color: #fff6ba;">The roads in Teachers’ Housing Estate are named after famous writers and poets. <i>Photo by Sharon Teng.</i>
-</div>
+</div><br>
 	
 	
-	<img			src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate.jpg">
+<img			src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate1.jpg">
 <div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
-</div>
+</div><br>
 
 	
 * <b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.<br><br>
