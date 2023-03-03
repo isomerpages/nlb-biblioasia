@@ -196,7 +196,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^15]: “[Government Notification](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/pinangazette18560823-1.2.2),” *Pinang Gazette and Straits Chronicle, 23 August 1856*, 1; “[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960731-1.2.34),” *Straits Times*, 31 July 1896, 3. (From NewspaperSG). Even though the section pertaining to *belacan* was only passed in 1896, *belacan* businesses had to register and pay for licences before that. See “[Page 3 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18910114-1.2.10.2),” *Daily Advertiser*, 14 January 1891, 3. (From NewspaperSG)
 
-[^16]: “Wednesday, 8th December,” *Straits Budget*, 14 December 1897, 5. (From NewspaperSG)
+[^16]: “[Wednesday, 8th December](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget18971214-1.2.30),” *Straits Budget*, 14 December 1897, 5. (From NewspaperSG)
 
 [^17]: Thomas John Newbold, *Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*, vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 
