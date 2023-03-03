@@ -141,16 +141,29 @@ While belacan production still endures in other parts of Southeast Asia today, s
 [^16]: “Wednesday, 8th December,” Straits Budget, 14 December 1897, 5. (From NewspaperSG)
 
 [^17]: Thomas John Newbold, Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca, vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
-David G. Stead, General Report Upon the Fisheries of British Malaya With Recommendations for Future Development (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
-Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” Journal of Southeast Asian Studies 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s eResources website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” Indonesia no. 62 (October 1996), 90–121. (From JSTOR via NLB’s eResources website)
-T.W. Burdon, The Fishing Industry of Singapore (Singapore: Donald Moore, 1955), 46. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR) 
-Toffa Abdul Wahed, “Caviar of the East: Shrimp Paste in the Food and Foodways of Southeast Asia” (BA Thesis, National University of Singapore, 2013), 47–49, https://scholarbank.nus.edu.sg/handle/10635/191487.
-T.W. Burdon, Annual Report of the Fisheries Department, 1950 (Singapore: Fisheries Department, 1951), 58; T.W. Burdon, Annual Report of the Fisheries Department, 1951 (Singapore: Fisheries Department, 1952), 69. (From National Library, Singapore, call no. RCLOS 639.2 SIN); Burdon, Fishing Industry of Singapore, 48.
-Toffa Abdul Wahed, “Caviar of the East,” 21.
-For example, Survey Department, Singapore, Singapore. Kalang Mukim (Kallang Mukim), and Town Subdivision Number XVII, 1937. (From National Archives of Singapore, accession no. SP006035). [Note: The map was originally produced in 1932. Markings in pencil and red ink were added in later years and the last amendments were made in 1937.]
-Burdon, Annual Report of the Fisheries Department, 1950, 58; Burdon, Annual Report of the Fisheries Department, 1951, 69.
-Udang geragau is also used to make cincalok, another fermented shrimp product. A Dictionary of the Economic Products of the Malay Peninsula, first published in 1935, mentions udang geragau, udang rebon, udang pepai and sanggugu (also spelt as senggugu) as the recorded Malay names for Acetes, a genus of small shrimp that resembles krill. The species Acetes erythraeus Nobili was one of those used in belacan production in Singapore. See I.H. Burkill, A Dictionary of the Economic Products of the Malay Peninsula, vol. 1 (Kuala Lumpur: Published on Behalf of the Governments of Malaysia and Singapore by the Ministry of Agriculture and Co-operatives, 1966), 684. (From National Library, Singapore, call no. RSING 634.909595 BUR)
-“Kisah di Sebalik Nama2 Menarik di Kg Elias,” Berita Harian, 9 July 1986, 3. (From NewspaperSG)
-Ali Salim, Kampong Keranji 1948–1973: Sebuah Memoir (Singapore: IQrak Publication & Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “Jaminan Menteri Abd. Aziz Ishak,” Berita Harian, 4 October 1960, 4. (From NewspaperSG)
-T.W. Burdon, Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore (Singapore: Printed at the Government Printing Office, 1959), 103–104, 145. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB])
-“Mak Piah dan Laut Seperti Lagu dan Irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG)
+
+[^18]: David G. Stead, General Report Upon the Fisheries of British Malaya With Recommendations for Future Development (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
+
+[^19]: Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” Journal of Southeast Asian Studies 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s eResources website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” Indonesia no. 62 (October 1996), 90–121. (From JSTOR via NLB’s eResources website)
+
+[^20]: T.W. Burdon, The Fishing Industry of Singapore (Singapore: Donald Moore, 1955), 46. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR) 
+
+[^21]: Toffa Abdul Wahed, “Caviar of the East: Shrimp Paste in the Food and Foodways of Southeast Asia” (BA Thesis, National University of Singapore, 2013), 47–49, https://scholarbank.nus.edu.sg/handle/10635/191487.
+
+[^22]: T.W. Burdon, Annual Report of the Fisheries Department, 1950 (Singapore: Fisheries Department, 1951), 58; T.W. Burdon, Annual Report of the Fisheries Department, 1951 (Singapore: Fisheries Department, 1952), 69. (From National Library, Singapore, call no. RCLOS 639.2 SIN); Burdon, Fishing Industry of Singapore, 48.
+
+[^23]: Toffa Abdul Wahed, “Caviar of the East,” 21.
+
+[^24]: For example, Survey Department, Singapore, Singapore. Kalang Mukim (Kallang Mukim), and Town Subdivision Number XVII, 1937. (From National Archives of Singapore, accession no. SP006035). [Note: The map was originally produced in 1932. Markings in pencil and red ink were added in later years and the last amendments were made in 1937.]
+
+[^25]: Burdon, Annual Report of the Fisheries Department, 1950, 58; Burdon, Annual Report of the Fisheries Department, 1951, 69.
+
+[^26]: Udang geragau is also used to make cincalok, another fermented shrimp product. A Dictionary of the Economic Products of the Malay Peninsula, first published in 1935, mentions udang geragau, udang rebon, udang pepai and sanggugu (also spelt as senggugu) as the recorded Malay names for Acetes, a genus of small shrimp that resembles krill. The species Acetes erythraeus Nobili was one of those used in belacan production in Singapore. See I.H. Burkill, A Dictionary of the Economic Products of the Malay Peninsula, vol. 1 (Kuala Lumpur: Published on Behalf of the Governments of Malaysia and Singapore by the Ministry of Agriculture and Co-operatives, 1966), 684. (From National Library, Singapore, call no. RSING 634.909595 BUR)
+
+[^27]: “Kisah di Sebalik Nama2 Menarik di Kg Elias,” Berita Harian, 9 July 1986, 3. (From NewspaperSG)
+
+[^28]: Ali Salim, Kampong Keranji 1948–1973: Sebuah Memoir (Singapore: IQrak Publication & Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “Jaminan Menteri Abd. Aziz Ishak,” Berita Harian, 4 October 1960, 4. (From NewspaperSG)
+
+[^29]: T.W. Burdon, Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore (Singapore: Printed at the Government Printing Office, 1959), 103–104, 145. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB])
+
+[^30]: “Mak Piah dan Laut Seperti Lagu dan Irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG)
