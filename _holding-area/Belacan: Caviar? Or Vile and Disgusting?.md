@@ -91,7 +91,12 @@ According to the *Annual Report of the Fisheries Department* for 1950 and 1951, 
 
 Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abundant with these shrimps. This was a popular spot for villagers looking to catch and sell the shrimps fresh or to make them into *belacan*. However, this place no longer exists due to land reclamation. Over time, the *belacan* industry in Tampines declined not only due to reclamation, but also because people moved away from the area. By 1986, more than half of the villagers had moved into flats in new housing estates like Bedok, Hougang and Tampines.[^27]
 
-<div></div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+	<b>THE FILM RESTORATION PROCESS</b><br><br>
+Before the start of any film restoration, we need to assess the appropriateness of the film materials on hand to ascertain if the “best” surviving source materials are complete and available. A single print may not represent the best surviving source material. Extensive research is carried out to determine if other sources of restorable film materials exist and are residing outside one’s own holdings.
+<br><br>
+
+</div>
 
 The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
 
