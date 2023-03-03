@@ -146,15 +146,15 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 [^13]: H.F. Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 1 (161) (July 1953): 54. (From JSTOR via NLB’s eResources website). This site used to lay a short distance from the seafront as the Padang – then known as The Esplanade – was only half its current width. See Kevin YL Tan, “A History of the Padang,” *BiblioAsia* 18 no. 1 (April–June 2022). Farquhar’s Residency buildings were eventually abandoned. In 1827, Lieutenant Jackson reported that the old Residency area was “still covered with the decayed attap buildings belonging to Colonel Farquhar”. See Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” 55.
 
-[^14]: Chan Gaik Ngoh, “The Kapitan Cina System in the Straits Settlements,” Malaya in History 25 (1982): 74; Wong Choon San, A Gallery of Chinese Kapitans (Singapore: Dewan Bahasa dan Kebudayaan Kebangsaan, 1963). (From National Library, Singapore, call no. RSING 325.25109595 WON); Mona Lohanda, The Kapitan China of Batavia, 1837–1942 (PhD diss., School of Oriental and African Studies, University of London, 1994)
+[^14]: Chan Gaik Ngoh, “The Kapitan Cina System in the Straits Settlements,” *Malaya in History* 25 (1982): 74; Wong Choon San, *A Gallery of Chinese Kapitans* (Singapore: Dewan Bahasa dan Kebudayaan Kebangsaan, 1963). (From National Library, Singapore, call no. RSING 325.25109595 WON); Mona Lohanda, *The Kapitan China of Batavia*, 1837–1942 (PhD diss., School of Oriental and African Studies, University of London, 1994)
 
-[^15]: Raffles Museum and Library, “Farquhar to Raffles, 5 May 1820,” L10: Singapore: Letters to Bencoolen, Straits Settlements Records, 368–73. (From National Archives of Singapore)
+[^15]: Raffles Museum and Library, “Farquhar to Raffles, 5 May 1820,” *L10: Singapore: Letters to Bencoolen*, Straits Settlements Records, 368–73. (From National Archives of Singapore)
 
 [^16]: India Office Factory Records, IOR/G/34/Subseries G/34/153/File 154, “Singapore Diary, 11 May 1827” (p. 65, image 59), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824111293/view.
 
 [^17]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 154, “Singapore Diary, 25 May 1827” (pp. 151–53, images 102–03), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824120459/view
 
-[^18]: “Extract for a letter from the Honorable the Governor in Council, to the Recorder dated Fort Cornwallis 2d January, 1828” in Minutes and Official Correspondence Between the Government and Sir John Thomas Claridge, Recorder of the Honorable Court of Judicature, Prince of Wales Island, Malacca and Singapore, Commencing in April 1827 and Terminating in September 1829 (Penang: The Government Press, 1830), 13, Google Books, accessed 3 February 2023, https://books.google.com.sg/books?id=2j9pAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
+[^18]: “Extract for a letter from the Honorable the Governor in Council, to the Recorder dated Fort Cornwallis 2d January, 1828” in *Minutes and Official Correspondence Between the Government and Sir John Thomas Claridge, Recorder of the Honorable Court of Judicature, Prince of Wales Island, Malacca and Singapore, Commencing in April 1827 and Terminating in September 1829* (Penang: The Government Press, 1830), 13, Google Books, accessed 3 February 2023, https://books.google.com.sg/books?id=2j9pAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
 
 [^19]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 7 January 1828” (image 2), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824199118/view.
 
@@ -162,14 +162,14 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 [^21]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 25 February 1828” (p. 98, image 125), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824198985/view.
 
-[^22]: James William Norton-Kyshe, A Judicial History of the Straits Settlements 1786–1890 (Singapore: Faculty of Law, University of Singapore, 1969), 99. (From National Library, Singapore, call no. RCLOS 347.5957 NOR); “Singapore,” Singapore Chronicle and Commercial Register, 5 June 1828, 1. (From NewspaperSG)
+[^22]: James William Norton-Kyshe, *A Judicial History of the Straits Settlements 1786–1890* (Singapore: Faculty of Law, University of Singapore, 1969), 99. (From National Library, Singapore, call no. RCLOS 347.5957 NOR); “Singapore,” *Singapore Chronicle and Commercial Register*, 5 June 1828, 1. (From NewspaperSG)
 
-[^23]: “Notification,” Singapore Chronicle and Commercial Register, 22 May 1828, 1. (From NewspaperSG)
+[^23]: “Notification,” *Singapore Chronicle and Commercial Register*, 22 May 1828, 1. (From NewspaperSG)
 
-[^24]: Norton-Kyshe, A Judicial History of the Straits Settlements, 99; “Singapore”.
+[^24]: Norton-Kyshe, *A Judicial History of the Straits Settlements*, 99; “Singapore”.
 
-[^25]: Norton-Kyshe, A Judicial History of the Straits Settlements, 99; “Singapore”.
+[^25]: Norton-Kyshe, *A Judicial History of the Straits Settlements*, 99; “Singapore”.
 
-[^26]: “In the Court of Judicature of Prince of Wales Island, Singapore and Malacca,” Singapore Chronicle and Commercial Register, 28 August 1828, 1. (From NewspaperSG)
+[^26]: “In the Court of Judicature of Prince of Wales Island, Singapore and Malacca,” *Singapore Chronicle and Commercial Register*, 28 August 1828, 1. (From NewspaperSG)
 
-[^27]: “The Ministry,” Singapore Chronicle and Commercial Register, 20 November 1828, 1. (From NewspaperSG)
+[^27]: “The Ministry,” *Singapore Chronicle and Commercial Register*, 20 November 1828, 1. (From NewspaperSG)
