@@ -186,7 +186,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^10]: Henry O. Forbes, [*A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883*](https://eresources.nlb.gov.sg/printheritage/detail/08a1900b-229e-4fdd-857a-eb267c839f64.aspx) (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
 
-[^11]: William T. Hornaday, *Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations* (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
+[^11]: William T. Hornaday, [*Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4256842) (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
 
 [^12]: Ambeth R. Ocampo, “Rizal’s Morga and Views of *Philippine History*,” Philippine Studies 46, no. 2 (1998): 184. (From JSTOR via NLB’s eResources website)
 
