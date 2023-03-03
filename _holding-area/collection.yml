@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Example Title.md
       - Which Was Singapore's First Courthouse?.md
       - New Books on Singapore History.md
       - "Terraces on Tagore: The Curious Origins of Teachers' Housing Estate.md"
