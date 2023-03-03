@@ -7,8 +7,6 @@ description: Senior Librarian Eunice Low unpacks the Jamshed & Parvati Fozdar
 ---
 #### Senior Librarian _Eunice Low_ unpacks the Jamshed & Parvati Fozdar Collection, an outstanding compilation of the personal memoirs and chronicles of the Fozdar family in the Asia-Pacific region.
 
-![](/images/Vol%205%20Issue%204/Jamshed/Bahai%20newsletter1.jpg)
-
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Jamshed/Bahai%20newsletter1.jpg">
  <div style="background-color: white;">Monthly newsletter of the Bahá’í community in Vietnam dated 1964. <i>Jamshed & Parvati Fozdar Collection.</i></div>
 
@@ -20,7 +18,7 @@ The chronicles lead us over a period of more than 60 years covering the Asia-Pac
 
 The Fozdar family began its pioneering efforts for the Bahá’í Faith with Dr Khodadad Fozdar, a medical doctor from India, arriving in Singapore in May 1950. He was soon followed by his wife, Mrs Shirin Fozdar, in September 1950. She immediately started a strong crusade for the emancipation of women, addressing concubinage and polygamy in particular. Mrs Fozdar was also a tireless contender for women’s rights across Asia. She was the founder of the Singapore Council of Women’s Organisations (SCWO) in 1952 and her efforts contributed significantly to the establishment of the Syariah Court and then the Women’s Charter which was passed by Singapore’s Legislative Assembly in 1961.
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%204/Jamshed/Gandhi%20letter1.jpg">
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Jamshed/Gandhi%20letter1.jpg">
  <div style="background-color: white;">A letter from Mahatma Gandhi to Shirin Fozdar dated 18 July 1941. <i>Jamshed & Parvati Fozdar Collection.</i></div>
 
 Her achievements are extensively compiled in the volume entitled *Shirin Fozdar*. Highlights include some letters addressed to Shirin Fozdar, from Mahatma Gandhi in 1941. In these, Gandhi also expresses personal concern for Mrs Fozdar’s fractured arm and writes of his happiness over her trip to Ahmedabad where she was tasked by him to reach out to the “untouchables” and bridge Muslim-Hindu tensions through the teachings of the Bahá’í Faith. Gandhi signs off as “Bapu” (meaning “Father”). Besides the many historical documents of interest, one is the certificate and medal of honour “Satrei Vatthana” (National Women’s Champion) bestowed on Shirin Fozdar by King Norodom Sihanouk, the former monarch of Cambodia in 1964. This medal was the first ever bestowed upon any woman by the kingdom of Cambodia.
@@ -57,6 +55,3 @@ For general donations, please contact the Library Officer, Gifts and Exchange Se
 <br/>
 <img src="/images/Authors/Eunice%20Low.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Eunice Low</b><br>Senior Librarian<br> Heritage Collection Development<br>National Library</center></div>
-
-
-
