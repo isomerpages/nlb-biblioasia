@@ -57,7 +57,7 @@ In 1885, Scottish ornithologist Henry O. Forbes, wrote about his encounter with 
 
 ‘Have *I* been eating it?’
 
-‘Certainly, master; it is most excellent (enak sekali).’
+‘Certainly, master; it is *most* excellent (*enak sekali*).’
 
 ‘You born fool! Do you wish to poison me and to die yourself?’
 
