@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2023:
     output: true
     order:
+      - "Terraces on Tagore: The Curious Origins of Teachers' Housing Estate.md"
       - Portugal's Linguistic Legacy in Southeast Asia.md
       - "Neo Tiew: The Man Who Built Lim Chu Kang.md"
       - "Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s.md"

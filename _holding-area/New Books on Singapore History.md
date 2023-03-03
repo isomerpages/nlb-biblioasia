@@ -6,7 +6,7 @@ description: ""
 #### **A Reverent Journey: Masjid Omar Kampong Melaka**
 edited by Sharifah Zahra Aljunied and Syed Abdullah Abdul Rahman Aljunied 
 
-Masjid Omar Kampong Melaka, 2022, 267 pages <br>
+Masjid Omar Kampong Melaka (2022), 267 pages <br>
 Call no.: RSING 297.355957 REV
 
 ![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png)
@@ -16,7 +16,7 @@ Founded in 1820 by Arab philanthropist Syed Omar Ali Aljunied, Masjid Omar Kampo
 #### **Albert Winsemius and Singapore: Here It Is Going to Happen**
 by Euston Quah, with Luke Nursultan Iuldashov and Zach Lee
 
-World Scientific, 2022, 966 pages <br>
+World Scientific (2022), 966 pages <br>
 Call no.: RSING 330.092 QUA
 
 ![](/images/Vol%2019%20Issue%201/New%20Books/12081_Highres%20copy.png)
@@ -28,7 +28,7 @@ by Jiat-Hwee Chang and
 Justin Zhuang; photographs by
 Darren Soh 
 
-NUS Press, 2022, 352 pages <br>
+NUS Press (2022), 352 pages <br>
 Call no.: RSING 720.959570904 CHA
 
 ![](/images/Vol%2019%20Issue%201/New%20Books/everyday_modernism.png)
@@ -39,7 +39,7 @@ Through the lens of social and architectural histories, the book uncovers the ma
 
 edited by Lavanya Balachandran and Sylvia Koh
 
-Hindu Endowments Board, 2022, 313 pages <br>
+Hindu Endowments Board (2022), 313 pages <br>
 From PublicationSG
 
 ![](/images/Vol%2019%20Issue%201/New%20Books/Hinduism.png)
@@ -51,7 +51,7 @@ This book tells the stories of early Indian and Hindu settlers to Singapore, the
 by A. Thiyaga Raju; edited by
 Gary Koh
 
-Pagesetters Services Pte Ltd, 2022,
+Pagesetters Services Pte Ltd (2022),
 261 pages <br>
 Call no.: RSING 796.334095957 THI
 
