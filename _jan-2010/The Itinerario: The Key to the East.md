@@ -123,7 +123,73 @@ Suarez, T. (1999). _[Early mapping of Southeast Asia](https://eservice.nlb.gov.s
 
 #### **NOTES**
 
+[^1]: From a letter by Linschoten from Goa dated 1584 cited in the introduction by P. A. Tiele in [Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829), 1885, p. xxiv.
 
+[^2]: His family is believed to have originated from a village in Utrecht named Linschoten. His parents Huych Joosten and Maertgen Hendrics lived in Schoonhoven which was a short distance away from Linschoten. (From the introduction by P. A. Tiele in [Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829), 1885, p. xxiii.
+
+[^3]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 1.
+
+[^4]: A number of sources indicate the year as 1579.
+
+[^5]: Goor, 2004, pp. 51–52.
+
+[^6]: Goor, 2004, p. 52.
+
+[^7]: Found in the original publication in Chapter 20 ([Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598).
+
+[^8]: [Moreland](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391644), 1934, p. 104 in [Gibson-Hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), “Singapore – notes on the history of the Old Strait, 1580–1850”. JMBRAS, 27(1), 165, 167.
+
+[^9]: The archbishop died while journeying to Lisbon in 1587, and Jan received the news of his death only in September 1588 ([Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829), 1885, p. xxvii).
+
+[^10]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 172.
+
+[^11]: Often translated as “Seavoyage of Jan Huygen van Linschoten to the East or Portuguese Indies”. In the Dutch version it is Book I.
+
+[^12]: Translated as “Travel accounts of Portuguese navigation in the Orient” also sometimes known as “a seaman’s guidebook to India and Far Eastern navigation” or “Pilot’s guide.” It was originally Book II in the 1595 Dutch imprint but in the English version, it is Book III.
+
+[^13]: However, the copy at the library’s holdings only has 16 views and eight maps or topographical drawings.
+
+[^14]: “What among human affairs can seem great to him who knows eternity and the whole of the universe?”
+
+[^15]: Thus the Reysgheschrift was released a year prior to Book I – the Itinerario.
+
+[^16]: It had just been established in 1594.
+
+[^17]: Early mapping of Southeast Asia, [Thomas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 1999, p. 180.
+
+[^18]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 31.
+
+[^19]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 31.
+
+[^20]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 31.
+
+[^21]: [Boogaart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938), 2003, p. 54.
+
+[^22]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 93.
+
+[^23]: For example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
+
+[^24]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 95.
+
+[^25]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 95.
+
+[^26]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, in Chapter 57.
+
+[^27]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 102.
+
+[^28]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, p. 103.
+
+[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario (_[Singapore: Old Strait & New Harbour,1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)_, Introduction, p. 11).
+
+[^30]: [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx), 1598, Chapter 20 from page 336 of Book III.
+
+[^31]: [Gibson-Hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 1954, p. 165.
+
+[^32]: Gibson-Hill actually questions W. D. Barnes’ analysis based on the French edition of Linschoten which he published in JSBRAS in 1911 for going about it in such a convoluted fashion when the English version had already been reprinted in the Singapore Free Press.
+
+[^33]: [Gibson-Hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 1954, Introduction, p. 11.
+
+[^34]: The digital copy is available at <a href=" http://sgebooks.nl.sg/details/020003072.html "> http:// sgebooks.nl.sg/details/020003072.html </a>)
 
 
 
