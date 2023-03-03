@@ -96,7 +96,10 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
 	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later.
 <br><br>
-
+	<b>Ingredients:</b><br>
+	Use a Chinese tea cup as a measure.<br>
+	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.
+	
 </div>
 
 The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
