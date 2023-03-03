@@ -117,7 +117,7 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
 
  <img
-src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_Teachers'%20Estate3.jpg">
+src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_Teachers'%20Estate4.jpg">
 <div style="background-color: #fff6ba;">The roads in Teachers’ Housing Estate are named after famous writers and poets. <i>Photo by Sharon Teng.</i>
 </div><br>
 	
