@@ -33,17 +33,17 @@ A 17th-century account gives a remarkably detailed description of making *belaca
 
 “To make it, they throw the Mixture of Shrimps and small Fish into a sort of weak pickle made with Salt and Water, and put into a tight earthen Vessel or Jar. The Pickle being thus weak, it keeps not the Fish firm and hard, neither is it probably so designed, for the Fish are never gutted. Therefore in a short time they turn all into a mash in the Vessel; and when they have lain thus a good while, so that the Fish is reduced to a pap, they then draw off the liquor into fresh Jars, and preserve it for use. The masht Fish that remains behind is called *Balachaun*, and the liquor pour’d off is called *Nuke-Mum*.”[^4]
 
-While some versions of belacan use fish, it is held that the best ones are made from shrimp. In 1783, the Irish orientalist William Marsden, who worked for the East India Company in Bencoolen (now Bengkulu), wrote about the differences between black and red blachang in his book, The History of Sumatra:
+While some versions of *belacan* use fish, it is held that the best ones are made from shrimp. In 1783, the Irish orientalist William Marsden, who worked for the East India Company in Bencoolen (now Bengkulu), wrote about the differences between black and red *blachang* in his book, *The History of Sumatra*:
 
-“Blachang [belacan]… is a species of cavear, and is extremely offensive and disgusting to persons who are not accustomed to it, particularly the black kind, which is the most common. The best sort, or the red blachang, is made of the spawn of shrimps, or of the shrimps themselves, which they take about the mouths of rivers... The black sort, used by the lower class, is made of small fish, prepared in the same manner.”[^5]
+“Blachang [*belacan*]… is a species of cavear, and is extremely offensive and disgusting to persons who are not accustomed to it, particularly the black kind, which is the most common. The best sort, or the red blachang, is made of the spawn of shrimps, or of the shrimps themselves, which they take about the mouths of rivers... The black sort, used by the lower class, is made of small fish, prepared in the same manner.”[^5]
 
-Fish and shrimp pastes have a very long history in Southeast Asia. Researchers believe that the techniques of fermenting fish most likely arose in areas on mainland Southeast Asia inhabited by communities who practised irrigated rice farming, had access to salt and faced seasonality in their fish stocks, which made preservation imperative. These techniques were then applied to the preservation of other raw ingredients such as shrimp and shellfish. They would later drift southwards throughout the rest of Southeast Asia.[^6] A Mon stone inscription from the first century CE provides the earliest record of the importance of ngapi in the Burmese diet. Ngapi manufacturers were also found in the list of occupations on a 12th-century stone inscription and a 15th-century marble monument from Myanmar.[^7] Inhabitants of the coastal cities of Pattani and Nakhon Si Thammarat (in present-day southern Thailand) used shrimp paste in their cooking as far back as the eighth century. These cities were then ruled by the Malay kingdom of Srivijaya from the island of Sumatra.[^8]
+Fish and shrimp pastes have a very long history in Southeast Asia. Researchers believe that the techniques of fermenting fish most likely arose in areas on mainland Southeast Asia inhabited by communities who practised irrigated rice farming, had access to salt and faced seasonality in their fish stocks, which made preservation imperative. These techniques were then applied to the preservation of other raw ingredients such as shrimp and shellfish. They would later drift southwards throughout the rest of Southeast Asia.[^6] A Mon stone inscription from the first century CE provides the earliest record of the importance of *ngapi* in the Burmese diet. *Ngapi* manufacturers were also found in the list of occupations on a 12th-century stone inscription and a 15th-century marble monument from Myanmar.[^7] Inhabitants of the coastal cities of Pattani and Nakhon Si Thammarat (in present-day southern Thailand) used shrimp paste in their cooking as far back as the eighth century. These cities were then ruled by the Malay kingdom of Srivijaya from the island of Sumatra.[^8]
 
 #### **“Evil”, “Nauseating”, “Noxious”**
 
-The smell associated with the making of belacan was noted by many observers. In the 1830s, the teacher, interpreter and writer Munshi Abdullah (Abdullah bin Abdul Kadir) visited a village market in Terengganu where he encountered what he perceived as a variety of “makanan yang busuk-busuk” (smelly, unwholesome foods), including tempoyak (fermented durian), different kinds of salted and fermented seafood products, petai (stink bean) and many types of sambal belacan. He criticised the lack of what he perceived as “makanan yang mulia” (wholesome foods) such as meat, ghee, eggs, butter and milk.[^9]
+The smell associated with the making of *belacan* was noted by many observers. In the 1830s, the teacher, interpreter and writer Munshi Abdullah (Abdullah bin Abdul Kadir) visited a village market in Terengganu where he encountered what he perceived as a variety of “makanan yang busuk-busuk” (smelly, unwholesome foods), including *tempoyak* (fermented durian), different kinds of salted and fermented seafood products, *petai* (stink bean) and many types of *sambal belacan*. He criticised the lack of what he perceived as “makanan yang mulia” (wholesome foods) such as meat, ghee, eggs, butter and milk.[^9]
 
-In 1885, Scottish ornithologist Henry O. Forbes, wrote about his encounter with terasi and discovers, to his horror, that he had been eating it unknowingly for some time:
+In 1885, Scottish ornithologist Henry O. Forbes, wrote about his encounter with *terasi* and discovers, to his horror, that he had been eating it unknowingly for some time:
 
 “Having got up rather late one Sunday morning… I was discomfited by the terrific and unwonted odour of decomposition. ‘My birds have begun to stink, confound it!’ I exclaimed to myself. Hastily fetching down the box in which they were stored, I minutely examined and sniffed over every skin... but all of them seemed in perfect condition. In the neighbouring jungle, though I diligently searched half the morning, I could find no dead carcase, and nothing in the ‘kitchen-midden,’... but at last in the kitchen itself I ran it to ground in a compact parcel done up in a banana leaf.
 
@@ -51,11 +51,11 @@ In 1885, Scottish ornithologist Henry O. Forbes, wrote about his encounter with 
 
 ‘Oh! Master, that is trassi.’
 
-‘Trassi? What is trassi, in the name of goodness!’
+‘*Trassi*? What is trassi, in the name of goodness!’
 
 ‘Good for eating, master; –in stew.’
 
-‘Have I been eating it?’
+‘Have *I* been eating it?’
 
 ‘Certainly, master; it is most excellent (enak sekali).’
 
