@@ -120,13 +120,13 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^6]: Kenneth Ruddle and Naomichi Ishige, “On the Origins, Diffusion and Cultural Context of Fermented Fish Products in Southeast Asia,” in *Globalization, Food and Social Identities in the Asia-Pacific Region*, reissued edition, ed. James Farrer (Tokyo: Sophia University Institute of Comparative Culture, 2021), 28–45, https://www.academia.edu/391558/On_the_Origins_Diffusion_and_Cultural_Context_of_Fermented_Fish_Products_in_Southeast_Asia. Fermented shrimp paste is also made and consumed in countries outside of Southeast Asia like Korea, China and Bangladesh.
 
-[^7]: Myo Thant Tyn, “Industrialization of Myanmar Fish Paste and Sauce Fermentation” in Industrialization of Indigenous Fermented Foods, 2nd edition, ed. Keith Steinkraus (New York; Basel: Marcel Denker, Inc., 2004), 739, https://doi.org/10.1201/9780203022047.
+[^7]: Myo Thant Tyn, “Industrialization of Myanmar Fish Paste and Sauce Fermentation” in* Industrialization of Indigenous Fermented Foods*, 2nd edition, ed. Keith Steinkraus (New York; Basel: Marcel Denker, Inc., 2004), 739, https://doi.org/10.1201/9780203022047.
 
-[^8]: Su-Mei Yu, “A Lamentation for Shrimp Paste,” Gastronomica 9, no. 3 (2009), https://gastronomica.org/2009/08/05/a-lamentation-for-shrimp-paste/.
+[^8]: Su-Mei Yu, “A Lamentation for Shrimp Paste,” *Gastronomica* 9, no. 3 (2009), https://gastronomica.org/2009/08/05/a-lamentation-for-shrimp-paste/.
 
-[^9]: Amin Sweeney, Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1 (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
+[^9]: Amin Sweeney, *Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1* (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
 
-[^10]: Henry O. Forbes, A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883 (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
+[^10]: Henry O. Forbes, *A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883* (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
 
 [^11]: William T. Hornaday, Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
 
