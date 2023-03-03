@@ -109,22 +109,38 @@ While belacan production still endures in other parts of Southeast Asia today, s
 #### **NOTES**
 
 [^1]: “PM Lee Expresses Appreciation to Malaysia’s Queen for ‘Royal’ Sambal Belacan,” Today, 29 October 2019, https://www.todayonline.com/singapore/pm-lee-expresses-appreciation-permaisuri-agong-royal-sambal-belacan.
-Hugh Clifford, In Court & Kampong: Being Tales & Sketches of Native Life in the Malay Peninsula (London: Grant Richards, 1897), 137. (From BookSG)
-John Crawfurd, A Descriptive Dictionary of the Indian Islands & Adjacent Countries (London: Bradbury & Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “Crawfurd on Southeast Asia,” BiblioAsia 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
-William Dampier, Voyages and Descriptions: Vol.II. In Three Parts, Viz. I. A Supplement of the Voyage Round the World, ... 2. Two Voyages to Campeachy; ... 3. A Discourse of Trade-winds, Breezes, Storms, ... By Capt. William Dampier. Illustrated with Particular Maps and Draughts. To Which Is Added, a General Index to Both Volumes (London: Printed for James Knapton, 1699), 28, Internet Archive, https://archive.org/details/voyagesdescripti00damp/page/n7/mode/2up.
-William Marsden, The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, with a Description of the Natural Production, and a Relation of the Ancient Political State of that Island (London: William Marsden, 1783), 57–58. (From BookSG)
-Kenneth Ruddle and Naomichi Ishige, “On the Origins, Diffusion and Cultural Context of Fermented Fish Products in Southeast Asia,” in Globalization, Food and Social Identities in the Asia-Pacific Region, reissued edition, ed. James Farrer (Tokyo: Sophia University Institute of Comparative Culture, 2021), 28–45, https://www.academia.edu/391558/On_the_Origins_Diffusion_and_Cultural_Context_of_Fermented_Fish_Products_in_Southeast_Asia. Fermented shrimp paste is also made and consumed in countries outside of Southeast Asia like Korea, China and Bangladesh.
-Myo Thant Tyn, “Industrialization of Myanmar Fish Paste and Sauce Fermentation” in Industrialization of Indigenous Fermented Foods, 2nd edition, ed. Keith Steinkraus (New York; Basel: Marcel Denker, Inc., 2004), 739, https://doi.org/10.1201/9780203022047.
-Su-Mei Yu, “A Lamentation for Shrimp Paste,” Gastronomica 9, no. 3 (2009), https://gastronomica.org/2009/08/05/a-lamentation-for-shrimp-paste/.
-Amin Sweeney, Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1 (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
-Henry O. Forbes, A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883 (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
-William T. Hornaday, Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
-Ambeth R. Ocampo, “Rizal’s Morga and Views of Philippine History,” Philippine Studies 46, no. 2 (1998): 184. (From JSTOR via NLB’s eResources website)
-Alice Hart, Picturesque Burma, Past and Present (London: J.M. Dent and Co, 1897), 188. (From National Library, Singapore, call no. RSEA 959.1 HAR)
-Hart, Picturesque Burma, Past and Present, 188.
-“Government Notification,” Pinang Gazette and Straits Chronicle, 23 August 1856, 1; “Legislative Council,” Straits Times, 31 July 1896, 3. (From NewspaperSG). Even though the section pertaining to belacan was only passed in 1896, belacan businesses had to register and pay for licences before that. See “Page 3 Advertisements Column 2,” Daily Advertiser, 14 January 1891, 3. (From NewspaperSG)
-“Wednesday, 8th December,” Straits Budget, 14 December 1897, 5. (From NewspaperSG)
-Thomas John Newbold, Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca, vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
+
+[^2]: Hugh Clifford, In Court & Kampong: Being Tales & Sketches of Native Life in the Malay Peninsula (London: Grant Richards, 1897), 137. (From BookSG)
+
+[^3]: John Crawfurd, A Descriptive Dictionary of the Indian Islands & Adjacent Countries (London: Bradbury & Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “Crawfurd on Southeast Asia,” BiblioAsia 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
+
+[^4]: William Dampier, Voyages and Descriptions: Vol.II. In Three Parts, Viz. I. A Supplement of the Voyage Round the World, ... 2. Two Voyages to Campeachy; ... 3. A Discourse of Trade-winds, Breezes, Storms, ... By Capt. William Dampier. Illustrated with Particular Maps and Draughts. To Which Is Added, a General Index to Both Volumes (London: Printed for James Knapton, 1699), 28, Internet Archive, https://archive.org/details/voyagesdescripti00damp/page/n7/mode/2up.
+
+[^5]: William Marsden, The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, with a Description of the Natural Production, and a Relation of the Ancient Political State of that Island (London: William Marsden, 1783), 57–58. (From BookSG)
+
+[^6]: Kenneth Ruddle and Naomichi Ishige, “On the Origins, Diffusion and Cultural Context of Fermented Fish Products in Southeast Asia,” in Globalization, Food and Social Identities in the Asia-Pacific Region, reissued edition, ed. James Farrer (Tokyo: Sophia University Institute of Comparative Culture, 2021), 28–45, https://www.academia.edu/391558/On_the_Origins_Diffusion_and_Cultural_Context_of_Fermented_Fish_Products_in_Southeast_Asia. Fermented shrimp paste is also made and consumed in countries outside of Southeast Asia like Korea, China and Bangladesh.
+
+[^7]: Myo Thant Tyn, “Industrialization of Myanmar Fish Paste and Sauce Fermentation” in Industrialization of Indigenous Fermented Foods, 2nd edition, ed. Keith Steinkraus (New York; Basel: Marcel Denker, Inc., 2004), 739, https://doi.org/10.1201/9780203022047.
+
+[^8]: Su-Mei Yu, “A Lamentation for Shrimp Paste,” Gastronomica 9, no. 3 (2009), https://gastronomica.org/2009/08/05/a-lamentation-for-shrimp-paste/.
+
+[^9]: Amin Sweeney, Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1 (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
+
+[^10]: Henry O. Forbes, A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883 (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
+
+[^11]: William T. Hornaday, Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
+
+[^12]: Ambeth R. Ocampo, “Rizal’s Morga and Views of Philippine History,” Philippine Studies 46, no. 2 (1998): 184. (From JSTOR via NLB’s eResources website)
+
+[^13]: Alice Hart, Picturesque Burma, Past and Present (London: J.M. Dent and Co, 1897), 188. (From National Library, Singapore, call no. RSEA 959.1 HAR)
+
+[^14]: Hart, Picturesque Burma, Past and Present, 188.
+
+[^15]: “Government Notification,” Pinang Gazette and Straits Chronicle, 23 August 1856, 1; “Legislative Council,” Straits Times, 31 July 1896, 3. (From NewspaperSG). Even though the section pertaining to belacan was only passed in 1896, belacan businesses had to register and pay for licences before that. See “Page 3 Advertisements Column 2,” Daily Advertiser, 14 January 1891, 3. (From NewspaperSG)
+
+[^16]: “Wednesday, 8th December,” Straits Budget, 14 December 1897, 5. (From NewspaperSG)
+
+[^17]: Thomas John Newbold, Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca, vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 David G. Stead, General Report Upon the Fisheries of British Malaya With Recommendations for Future Development (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
 Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” Journal of Southeast Asian Studies 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s eResources website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” Indonesia no. 62 (October 1996), 90–121. (From JSTOR via NLB’s eResources website)
 T.W. Burdon, The Fishing Industry of Singapore (Singapore: Donald Moore, 1955), 46. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR) 
