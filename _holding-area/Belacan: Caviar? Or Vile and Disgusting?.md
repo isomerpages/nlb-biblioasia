@@ -142,7 +142,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Sharon%20Teng.png">
-<b>Sharon Teng</b>&nbsp;is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
+	<b>Toffa Abdul Wahed</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.</div>
 	
 #### **NOTES**
 
