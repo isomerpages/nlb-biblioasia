@@ -198,7 +198,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^16]: “[Wednesday, 8th December](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget18971214-1.2.30),” *Straits Budget*, 14 December 1897, 5. (From NewspaperSG)
 
-[^17]: Thomas John Newbold, *Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*, vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
+[^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 
 [^18]: David G. Stead, *General Report Upon the Fisheries of British Malaya With Recommendations for Future Development* (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
 
