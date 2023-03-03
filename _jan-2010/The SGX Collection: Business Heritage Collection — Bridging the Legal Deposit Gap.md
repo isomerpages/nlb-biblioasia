@@ -6,8 +6,8 @@ description: "Librarian Chris Tang highlights the SGX Collection and tells us
   what we can find. "
 ---
 #### Librarian _Chris Tang_ highlights the SGX Collection and tells us what we can find.
-
-
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/SGX/Study%20of%20Securities%20Mkt%20in%20Spore%20Msia.jpg">
+ <div style="background-color: white;"><i>A Study of the Securities Market in Singapore & Malaysia</i> by George M. Ferris Jr. All rights reserved, Govt. Print. Off., 1970.</div>
 
 In 2007, the Singapore Exchange Ltd (SGX) donated more than 21,000 volumes of publications and CD-Roms from its Information Resource Centre to the National Library Board (NLB). They collectively became the SGX Collection.
 
@@ -126,6 +126,3 @@ The history of share trading. (1997, September 1). _The Edge_. Retrieved from Fa
 Thompson, P. (2001, January 12). [KepLand, Gul Tech win awards for annual reports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010112-1.2.11.1). _Business Times_, p. 4. From NewspaperSG.
 
 Treadwell, D., & Treadwell, J. B. (2005_[). Public relations writing: Principles in practice](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583395)_. California: SAGE Publications. Call no.: RBUS 659.2 TRE
-
-
-
