@@ -17,6 +17,10 @@ In 2019, Prime Minister Lee Hsien Loong conveyed his thanks to the Malaysian que
 
 *Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan Chinese meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
 
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_2.png)
+<div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
+</div>
+
 Hugh Clifford, who served as Governor of the Straits Settlements between 1927 and 1929, referred to *belacan* as “that evil-smelling condiment which [had] been so ludicrously misnamed the Malayan Caviare” in his 1897 account of the Malay Peninsula. He wrote that the coasts reeked of “rank odours” as a result of women villagers “labouring incessantly in drying and salting the fish which [had] been taken by the men, or pounding prawns into *blâchan*” throughout the fishing season. The stench was so strong that “all the violence of the fresh, strong, monsoon winds” would only “partially purge” the villages of it.[^2]
 
 In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* (1856), John Crawfurd, the former Resident of Singapore, describes balachong (*belacan*) as:
