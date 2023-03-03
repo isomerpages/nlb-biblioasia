@@ -9,6 +9,9 @@ description: Senior Librarian Bonny Tan explores Itinerario, a book by Dutchman
 
 &emsp;&emsp;&emsp;&emsp;&emsp;*“There is no time more wasted than when a young fellow<br> &emsp;&emsp;&emsp;hangs bout his mother’s kitchen like a baby, neither knowing<br> &emsp;&emsp;&emsp;what poverty is, nor luxury, nor what is found in the world,<br> &emsp;&emsp;&emsp;an ignorance which is often the cause of his ruin.”*[^1] <br> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;Jan Huygen van Linschoten
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Itinerario/Itinerario.jpg">
+ <div style="background-color: white;">The title page of the 1598 English edition of the <i>Itinerario</i> from the copy at the National Library, Singapore.</div>
+
 Since Vasco de Gama sailed to India in 1498, the Portuguese dominated trade between Asia and Europe for almost a century until their rivals, the Dutch and the English, found the key that unlocked the secret passageway to the East. That key was a book — the *Itinerario*, published in 1596 by Dutchman Jan Huygen van Linschoten. His publication remains a valued work not only for its detailed description of sea roads and conditions in Asia, but also for its beautiful engravings, early modern maps and insights into the cultures and commodities of the region.
 
 #### **Linschoten — Life at the Confluence**
@@ -40,6 +43,9 @@ Linschoten’s return coincided with the liberation and independence of Holland 
 
 Linschoten’s famed publication is popularly known as the *Itinerario*, but this is merely the title of the first of its four books. The *Itinerario*, *voyage ofte schipvaert van Jan Huyghen van Linschoten near Oost ofte Portugails Indien*[^11] is book one, capturing Linschoten’s voyage to the East Indies, with primarily a description of the landscape and life in India plus an additional mention of the history of Malacca, the produce and people of Java and the route to China. The second book gives descriptions of the landscape from Guinea to Angola, with details of the discovery of Madagascar. It is the third book, the *Reysgheshrift van de navigatein der Portugaloysers in Orienten*[^12] which was instrumental in opening the East Indies to the Dutch and the English as it gives details of sea routes to the region, particularly to Malacca, Java, Sunda, China and Japan. It also gives a description of the West Indies as well as of Brazil. The last book gives highlights of the rents, tolls and profits taken along the journey by their sponsors. 
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Itinerario/3rd%20book%20.jpg">
+ <div style="background-color: white;">Illustrated detailing for the third book.</div>
+
 Interwoven through Linschoten's narrative are parallel texts on the same subject, published as italicised texts. These were interpolations by physician Bernard ten Broecke, also known by his Latin name, Paludanus. His knowledge was derived from his own travels as well as interviews with other sojourners. Native to Holland, he had taken his university degree at Padua and had then journeyed to Syria and Egypt. He took treasures from these travels back to his residence in Enkhuizen and became known for his intriguing collection of oddities. He was recognised for his intellectual prowess so much so that he was given the position of professorship at the University of Leyden in 1591, but did not accept the appointment and chose instead to remain in Enkhuizen. His reputation remains that of having co-authored this famed publication with Linschoten. His contribution to the publication, however, is not considered highly factual or close to reality.
 
 **The Illustrations**
@@ -51,6 +57,9 @@ The views mostly stretch across two-pages and are mainly of Goa and its region, 
 For the first time the people and products of the Malay Archipelago were shown in the greatest detail, scope and variety. So important were the illustrations that in 1604, the Dutch publisher Claesz republished the illustrated plates as *Icones, habitus gestusque Indorum ac Lusitanorum per Indiam viventium*; but this can rarely be found today.
 
 **The Maps**
+
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Itinerario/Typus%20Orbis%20.jpg">
+ <div style="background-color: white;">Typus Orbis Terrarum - Abraham Ortelius’s world map renowned as being one of the earliest modern maps depicting most of the continents accurately.</div>
 
 The maps are recognised for their unprecedented accuracy and detail. Many were copied from Portuguese pilots (published descriptions of navigational directions) and the works of famed cartographers such as Fernao Vaz Dourado, and most were redrawn by Dutch cartographer Petrus Plancius in the Dutch editions. Plancius’ world map shows the evolution of map drawing from the illuminated style of the Portuguese to the finely designed Dutch copperplate prints. However, the English edition replaced Plancius’ map with the oval world map of Abraham Ortelius, the great Flemish cartographer who produced some of the earliest modern maps for the atlas *Theatrum orbis terrarium* (1570). Below the map is a quotation in Latin by Cicero “Quid ei potest videri magnum in rebus humanis, cui aeternitas omnis, totiusque mundi nota sit magnitude”.[^14] The “Typus orbis terrarum” incorporates recent navigational findings, showing a corrected west coast of South America and adding the Solomon Islands to Ortelius’ original. The Malay Peninsula and Malacca are clearly marked out in Linschoten’s English version.
 
@@ -77,11 +86,18 @@ In the *Icones*, Linschoten illustrated and described the Malays in Malacca as f
 
 Throughout the first book, descriptions of Malaccan fruits, their plant, taste and uses, are given in lucid detail. In chapter 51, the mangos of the East as found in India, Myanmar (Pegu) and Malacca are described. The locals considered it a heaty fruit as it was believed to cause “Carbuncles, hotte burning Feavers, and swellings…” Linschoten notes how it “is eaten with wines… (and) preserved … either in Sugar, Vinegar, Oyle or Salt, like Olives in Spain, and being a little opened with a Knife, they are stuffed with green Ginger, headed Garlic, Mustard or such like, they are sometimes eaten only with Salt, and sometimes sodden with Rice, as we doe Olives, and being thus conserved and sodden, are brought to sell in the market.”[^22] Some 500 years later, the fruit seems to still be consumed and preserved in similar ways in Southeast Asia.[^23]
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Itinerario/Fruits%20Itinerario.jpg">
+ <div style="background-color: white;">Southeast Asian fruits and their plants - Left to right (top) Jambus, Mangos, Cashews, Nangkas (Jackfruit); left to right (bottom) Nanas (Pineapple), Gambier.</div>
+
 It is the Jambos (jambu or rose apple) that Linschoten sings praise of for its “pleasant taste, smell, and medicinable virtue”.[^24] It was believed to have been taken to India via Malacca. He describes two types of jambu fruits, “one a browne red… most part without stones, and more savory then the other which is palered, or a pale purple colour, with a lively smell of Roses…”.[^25] The fruit is usually eaten as an appetiser or to quench one’s thirst.
 
 The king of fruits is not forgotten and there is a full chapter on the Duryoen[^26] or durian. Considered peculiar to Malacca, the fruit was even at that time thought to be incomparable in “taste or goodness” to any other fruit — “and yet when it is first opened, it smelleth like rotten onions, but in the taste the sweetnes and daintinesse thereof is tried”.[^27] He also notes the strange effect that the betel leaf has on the durian. He describes how a shipload or even a shopful of durians can turn bad by merely being in contact with a few leaves of the betel. The betel is so able to counteract the durian’s heatiness that inflammation of the (mouth) caused by overeating durians can easily be cured by eating a few leaves of betel. This was an important fact since “men can never be satisfied with them (the durians)”.[^28]
 
 **Singapore**
+
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Map%20.jpg">
+ <div style="background-color: white;">Sumatra Insula - Shows Singapore (Sinca pura) in the upper centre of the map with Malacca identified not too far from it.
+</div>
 
 Carl Alexander Gibson-Hill, director of the Raffles Museum between 1957 and 1963, was well-known for his encyclopaedic knowledge of Malaya. One of his many articles published in the respectable *Journal of the Malayan Branch of the Royal Asiatic Society*, entitled *Singapore: Notes on the Old Strait (1580–1850)* (1956),[^29] noted how the *Straight of Sincapura* (the Strait of Singapore) was already described in detail in Linschoten’s *Resygheschrift*.[^30] Gibson-Hill believed the Portuguese had known of the strait since their earliest occupation of Malacca. Gibson-Hill suggests the value of Linschoten’s description is in the fact that “the routes described are not compromises between the pilot’s preferences and the run of wind and weather. They represent, in fact, the considered opinions of experienced men over the 15 to 20 or more years before Linschoten left Goa”.[^31] 
 
@@ -190,6 +206,3 @@ Suarez, T. (1999). _[Early mapping of Southeast Asia](https://eservice.nlb.gov.s
 [^33]: [Gibson-Hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 1954, Introduction, p. 11.
 
 [^34]: The digital copy is available at <a href=" http://sgebooks.nl.sg/details/020003072.html "> http:// sgebooks.nl.sg/details/020003072.html </a>)
-
-
-
