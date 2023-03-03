@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 4/Stone Tools/Stone Tools_Hero_img.png
   - infopic:
+      title: "Terraces on Tagore: The Curious Origins of Teachers' Estate"
+      subtitle: Places and Buildings
+      description: The Singapore Teachers’ Union wanted a clubhouse. They ended up
+        building a housing estate.
+      button: HOUSES FOR TEACHERS
+      url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
+      image: /images/Vol 19 Issue 1/Teacher's Housing Estate/THE_13 view of estate
+        from Yio Chu Kang bustop1.jpg
+      alt: Image alt text
+  - infopic:
       title: Portugal's Linguistic Legacy in Southeast Asia
       subtitle: Culture
       description: While Portugal may not have had a large presence in this region,
@@ -404,14 +414,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: "Terraces on Tagore: The Curious Origins of Teachers' Estate"
-      subtitle: Places and Buildings
-      description: The Singapore Teachers’ Union wanted a clubhouse. They ended up
-        building a housing estate.
-      button: HOUSES FOR TEACHERS
-      url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
-      image: /images/Vol 19 Issue 1/Teacher's Housing Estate/THE_13 view of estate
-        from Yio Chu Kang bustop1.jpg
-      alt: Image alt text
 ---
