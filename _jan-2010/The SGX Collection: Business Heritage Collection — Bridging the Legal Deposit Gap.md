@@ -81,7 +81,9 @@ This was about as far back as the SGX Collection went. The first sanctioned secu
 
 If NLB could make a donation wish list on what other documents it wished to collect in order to make the history of local shares trading more complete, it would be to procure official publications and reports from these earlier associations. These documents and the SGX Collection will serve as an important reminder to Singaporeans of our local business history as well as our long and rich historical and economic links with Malaysia.
 
-*As the spirit of the MoU was to encourage investor access for research, materials discussed in this article have been processed either for the National Library’s Repository Used Collection, the Legal Deposit Collection or the Lee Kong Chian Reference Library Collection. Due to the large volume of items donated, the SGX Collection is still in the midst of assignment, processing and cataloguing by our Library Supply Centre. Readers can find out more about our Legal Deposit and Donation guidelines and policies from our website at <a href="https://www.nlb.gov.sg/depositapp/">https://www.nlb.gov.sg/depositapp/</a>
+*As the spirit of the MoU was to encourage investor access for research, materials discussed in this article have been processed either for the National Library’s Repository Used Collection, the Legal Deposit Collection or the Lee Kong Chian Reference Library Collection. Due to the large volume of items donated, the SGX Collection is still in the midst of assignment, processing and cataloguing by our Library Supply Centre. Readers can find out more about our Legal Deposit and Donation guidelines and policies from our website at <a href="https://www.nlb.gov.sg/depositapp/">https://www.nlb.gov.sg/depositapp/</a>*
+
+
 
 
 
