@@ -166,4 +166,4 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^29]: T.W. Burdon, *Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore* (Singapore: Printed at the Government Printing Office, 1959), 103–104, 145. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB])
 
-[^30]: “Mak Piah dan Laut Seperti Lagu dan Irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG)
+[^30]: “Mak Piah dan Laut Seperti Lagu dan Irama,” *Berita Harian*, 9 July 1986, 3. (From NewspaperSG)
