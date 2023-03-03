@@ -107,8 +107,9 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 	<li>Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.</li>
 	<li>When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry.  </li>
 	<li><i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. </li>
-	
-</ol>  
+</ol><br>
+	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
+	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).
 </div>
 
 The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
