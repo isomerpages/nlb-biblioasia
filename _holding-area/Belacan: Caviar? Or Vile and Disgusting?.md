@@ -109,7 +109,20 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 	<li><i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. </li>
 </ol><br>
 	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
-	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).
+	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).<br><br>
+<b>Ingredients:</b><br>
+	10g <i>belacan</i> <br>
+7 red chillies<br>
+3 red bird’s-eye chillies<br>
+Salt to taste<br>
+Sugar to taste<br>
+2 limes, juice extracted, zest thinly sliced
+	<br><br>
+<b>Method:</b><br><ol>
+	<li>Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.</li>
+	<li>Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.</li>
+	  <li> Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.</li>
+	</ol><br>
 </div>
 
 The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
