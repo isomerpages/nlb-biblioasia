@@ -116,7 +116,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^4]: William Dampier, *Voyages and Descriptions: Vol.II. In Three Parts, Viz. I. A Supplement of the Voyage Round the World, ... 2. Two Voyages to Campeachy; ... 3. A Discourse of Trade-winds, Breezes, Storms, ... By Capt. William Dampier. Illustrated with Particular Maps and Draughts. To Which Is Added, a General Index to Both Volumes* (London: Printed for James Knapton, 1699), 28, Internet Archive, https://archive.org/details/voyagesdescripti00damp/page/n7/mode/2up.
 
-[^5]: William Marsden, The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, with a Description of the Natural Production, and a Relation of the Ancient Political State of that Island (London: William Marsden, 1783), 57–58. (From BookSG)
+[^5]: William Marsden, *The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, with a Description of the Natural Production, and a Relation of the Ancient Political State of that Island* (London: William Marsden, 1783), 57–58. (From BookSG)
 
 [^6]: Kenneth Ruddle and Naomichi Ishige, “On the Origins, Diffusion and Cultural Context of Fermented Fish Products in Southeast Asia,” in Globalization, Food and Social Identities in the Asia-Pacific Region, reissued edition, ed. James Farrer (Tokyo: Sophia University Institute of Comparative Culture, 2021), 28–45, https://www.academia.edu/391558/On_the_Origins_Diffusion_and_Cultural_Context_of_Fermented_Fish_Products_in_Southeast_Asia. Fermented shrimp paste is also made and consumed in countries outside of Southeast Asia like Korea, China and Bangladesh.
 
