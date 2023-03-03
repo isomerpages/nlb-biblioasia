@@ -25,11 +25,11 @@ In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countrie
 
 Today, the Malay term *belacan* is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called *kapi*, which is borrowed from the term *ngapi* (literally “pressed fish”) used in Myanmar, while it is referred to as *mắm tôm* or* mắm ruốc* in Vietnam.
 
-Because it is rich in glutamates and nucleotides, belacan imparts savouriness to any dish, what is often described as “umami”. Other foods that are rich in umami include fish sauce, soya sauce, kimchi, mushroom, ripe tomato, anchovy and cheese.
+Because it is rich in glutamates and nucleotides, *belacan* imparts savouriness to any dish, what is often described as “umami”. Other foods that are rich in umami include fish sauce, soya sauce, kimchi, mushroom, ripe tomato, anchovy and cheese.
 
 #### **Making Belacan**
 
-A 17th-century account gives a remarkably detailed description of making belacan. In 1688, the English privateer William Dampier encountered people making a paste of small fish and shrimps called balachaun during his visit to Tonkin (North Vietnam). He saw how this process produced nuke-mum or nước mắm (fish sauce) as well. His account, published in 1699, provides one of the earliest Western descriptions of making fish/shrimp paste: 
+A 17th-century account gives a remarkably detailed description of making *belacan*. In 1688, the English privateer William Dampier encountered people making a paste of small fish and shrimps called *balachaun* during his visit to Tonkin (North Vietnam). He saw how this process produced *nuke-mum* or *nước mắm* (fish sauce) as well. His account, published in 1699, provides one of the earliest Western descriptions of making fish/shrimp paste: 
 
 “To make it, they throw the Mixture of Shrimps and small Fish into a sort of weak pickle made with Salt and Water, and put into a tight earthen Vessel or Jar. The Pickle being thus weak, it keeps not the Fish firm and hard, neither is it probably so designed, for the Fish are never gutted. Therefore in a short time they turn all into a mash in the Vessel; and when they have lain thus a good while, so that the Fish is reduced to a pap, they then draw off the liquor into fresh Jars, and preserve it for use. The masht Fish that remains behind is called Balachaun, and the liquor pour’d off is called Nuke-Mum.”[^4]
 
