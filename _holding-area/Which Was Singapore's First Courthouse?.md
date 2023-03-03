@@ -119,6 +119,8 @@ The Court of Oyer and Terminer and Gaol Delivery was not to convene again in Sin
 
 In view of history, it may said that while Maxwell’s House was the first “official” courthouse, the Court of Judicature having sat for the very first time in that building in May 1828, it was actually the fourth building in Singapore to have been used as one.
 
+
+
 #### **NOTES**
 
 [^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *An Anecdotal History of Old Times in Singapore*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
