@@ -190,7 +190,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^12]: Ambeth R. Ocampo, “Rizal’s Morga and Views of *Philippine History*,” Philippine Studies 46, no. 2 (1998): 184. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^13]: Alice Hart, *Picturesque Burma, Past and Present* (London: J.M. Dent and Co, 1897), 188. (From National Library, Singapore, call no. RSEA 959.1 HAR)
+[^13]: Alice Hart, [*Picturesque Burma, Past and Present*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4219081) (London: J.M. Dent and Co, 1897), 188. (From National Library, Singapore, call no. RSEA 959.1 HAR)
 
 [^14]: Hart, *Picturesque Burma, Past and Present*, 188.
 
