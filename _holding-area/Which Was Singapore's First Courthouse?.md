@@ -119,7 +119,10 @@ The Court of Oyer and Terminer and Gaol Delivery was not to convene again in Sin
 
 In view of history, it may said that while Maxwell’s House was the first “official” courthouse, the Court of Judicature having sat for the very first time in that building in May 1828, it was actually the fourth building in Singapore to have been used as one.
 
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Kevin_tan.png" style="width: 100px; height: 100px;"/>
+<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Senior Fellow at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 60 books on the law, history and politics of Singapore.</div>
 
 #### **NOTES**
 
