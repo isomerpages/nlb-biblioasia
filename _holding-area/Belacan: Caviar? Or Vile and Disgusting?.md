@@ -130,7 +130,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^11]: William T. Hornaday, *Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations* (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
 
-[^12]: Ambeth R. Ocampo, “Rizal’s Morga and Views of Philippine History,” Philippine Studies 46, no. 2 (1998): 184. (From JSTOR via NLB’s eResources website)
+[^12]: Ambeth R. Ocampo, “Rizal’s Morga and Views of *Philippine History*,” Philippine Studies 46, no. 2 (1998): 184. (From JSTOR via NLB’s eResources website)
 
 [^13]: Alice Hart, Picturesque Burma, Past and Present (London: J.M. Dent and Co, 1897), 188. (From National Library, Singapore, call no. RSEA 959.1 HAR)
 
