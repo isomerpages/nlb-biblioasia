@@ -212,7 +212,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^23]: Toffa Abdul Wahed, “Caviar of the East,” 21.
 
-[^24]: For example, Survey Department, Singapore, *Singapore. Kalang Mukim (Kallang Mukim), and Town Subdivision Number XVII*, 1937. (From National Archives of Singapore, accession no. SP006035). [Note: The map was originally produced in 1932. Markings in pencil and red ink were added in later years and the last amendments were made in 1937.]
+[^24]: For example, Survey Department, Singapore, [*Singapore. Kalang Mukim (Kallang Mukim), and Town Subdivision Number XVII*](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac2f23d-115c-11e3-83d5-0050568939ad), 1937. (From National Archives of Singapore, accession no. SP006035). [Note: The map was originally produced in 1932. Markings in pencil and red ink were added in later years and the last amendments were made in 1937.]
 
 [^25]: Burdon, *Annual Report of the Fisheries Department, 1950*, 58; Burdon, *Annual Report of the Fisheries Department, 1951*, 69.
 
