@@ -182,7 +182,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^8]: Su-Mei Yu, “A Lamentation for Shrimp Paste,” *Gastronomica* 9, no. 3 (2009), https://gastronomica.org/2009/08/05/a-lamentation-for-shrimp-paste/.
 
-[^9]: Amin Sweeney, *Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1* (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
+[^9]: Amin Sweeney, [*Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12729835) (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
 
 [^10]: Henry O. Forbes, *A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883* (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
 
