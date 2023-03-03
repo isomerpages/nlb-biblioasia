@@ -124,8 +124,8 @@ Sugar to taste<br>
 	  <li> Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.</li>
 	</ol><br>
 	<b> REFERENCES</b><br><br>
-	“Making Belacan Is Hard Work,” New Nation, 10 August 1978, 12. (From NewspaperSG)<br><br>
-Rita Zahara, Malay Heritage Cooking (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
+	“Making Belacan Is Hard Work,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
+Rita Zahara, <i>Malay Heritage Cooking</i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
 Sa’adon Ismail, “Belacan Yang Dijual di Sini Ada Ramuan Rhodamine B,” <i>Berita Harian</i>, 9 August 1973, 12. (From NewspaperSG)<br><br>
 Salim Osman, “‘Racun Dlm Belacan’ Disiasat,” <i>Berita Harian</i>, 3 July 1973, 1. (From NewspaperSG)<br><br>
 	Salma Semono, “Penggunaan Belacan Kurang Sejak Julai Lalu,” <i>Berita Harian</i>, 15 March 1974, 3. (From NewspaperSG)
