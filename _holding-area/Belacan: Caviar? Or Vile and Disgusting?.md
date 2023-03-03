@@ -220,7 +220,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^27]: “[Kisah di Sebalik Nama2 Menarik di Kg Elias](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860709-1.2.23.3),” *Berita Harian*, 9 July 1986, 3. (From NewspaperSG)
 
-[^28]: Ali Salim, [*Kampong Keranji 1948–1973: Sebuah Memoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205423966) (Singapore: IQrak Publication & Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “Jaminan Menteri Abd. Aziz Ishak,” *Berita Harian*, 4 October 1960, 4. (From NewspaperSG)
+[^28]: Ali Salim, [*Kampong Keranji 1948–1973: Sebuah Memoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205423966) (Singapore: IQrak Publication & Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “[Jaminan Menteri Abd. Aziz Ishak](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19601004-1.2.53),” *Berita Harian*, 4 October 1960, 4. (From NewspaperSG)
 
 [^29]: T.W. Burdon, *Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore* (Singapore: Printed at the Government Printing Office, 1959), 103–104, 145. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB])
 
