@@ -116,16 +116,18 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
 
-<img
+ <img
 src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_Teachers'%20Estate1.jpg">
 <div style="background-color: #fff6ba;">The roads in Teachers’ Housing Estate are named after famous writers and poets. <i>Photo by Sharon Teng.</i>
+</div><br>
+	
+	<img			src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate.jpg">
+<div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
 </div><br>
 
 * <b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.<br><br>
 	
-<img			src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate.jpg">
-<div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
-</div><br>
+
 
 * <b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.<br><br>
 
