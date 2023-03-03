@@ -99,8 +99,16 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 	<b>Ingredients:</b><br>
 	Use a Chinese tea cup as a measure.<br>
 	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.<br><br>
-	<b>Method:</b><br>
+<b>Method:</b><br><ol>
+  <li>Do not wash the shrimps unless it is with fresh seawater. Sort through the shrimp to remove small fish, seaweed or other foreign matter.</li>
+  <li>Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry</li>
+  <li>Pound the shrimp. The shrimps will still be moist and will easily bind into a paste. Shape into small cakes, the size of an egg and flatten. </li>
+	  <li>Dry these in the sun for at least two days. Pound once more to get a finer paste. Re-shape into cakes and dry in the sun for two more days or more depending on the sunshine. </li>
+	<li>Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.</li>
+	<li>When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry.  </li>
+	<li><i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. </li>
 	
+</ol>  
 </div>
 
 The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
