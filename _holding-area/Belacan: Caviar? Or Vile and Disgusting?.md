@@ -218,7 +218,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^26]: *Udang geragau* is also used to make *cincalok*, another fermented shrimp product. *A Dictionary of the Economic Products of the Malay Peninsula*, first published in 1935, mentions *udang geragau*, *udang rebon*, *udang pepai* and *sanggugu* (also spelt as *senggugu*) as the recorded Malay names for *Acetes*, a genus of small shrimp that resembles krill. The species *Acetes erythraeus* Nobili was one of those used in *belacan* production in Singapore. See I.H. Burkill, [*A Dictionary of the Economic Products of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4121249), vol. 1 (Kuala Lumpur: Published on Behalf of the Governments of Malaysia and Singapore by the Ministry of Agriculture and Co-operatives, 1966), 684. (From National Library, Singapore, call no. RSING 634.909595 BUR)
 
-[^27]: “Kisah di Sebalik Nama2 Menarik di Kg Elias,” *Berita Harian*, 9 July 1986, 3. (From NewspaperSG)
+[^27]: “[Kisah di Sebalik Nama2 Menarik di Kg Elias](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860709-1.2.23.3),” *Berita Harian*, 9 July 1986, 3. (From NewspaperSG)
 
 [^28]: Ali Salim, *Kampong Keranji 1948–1973: Sebuah Memoir* (Singapore: IQrak Publication & Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “Jaminan Menteri Abd. Aziz Ishak,” *Berita Harian*, 4 October 1960, 4. (From NewspaperSG)
 
