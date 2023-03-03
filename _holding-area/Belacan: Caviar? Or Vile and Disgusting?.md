@@ -150,13 +150,13 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^21]: Toffa Abdul Wahed, “Caviar of the East: Shrimp Paste in the Food and Foodways of Southeast Asia” (BA Thesis, National University of Singapore, 2013), 47–49, https://scholarbank.nus.edu.sg/handle/10635/191487.
 
-[^22]: T.W. Burdon, *Annual Report of the Fisheries Department, 1950* (Singapore: Fisheries Department, 1951), 58; T.W. Burdon, *Annual Report of the Fisheries Department*, 1951 (Singapore: Fisheries Department, 1952), 69. (From National Library, Singapore, call no. RCLOS 639.2 SIN); Burdon, *Fishing Industry of Singapore*, 48.
+[^22]: T.W. Burdon, *Annual Report of the Fisheries Department, 1950* (Singapore: Fisheries Department, 1951), 58; T.W. Burdon, *Annual Report of the Fisheries Department, 1951* (Singapore: Fisheries Department, 1952), 69. (From National Library, Singapore, call no. RCLOS 639.2 SIN); Burdon, *Fishing Industry of Singapore*, 48.
 
 [^23]: Toffa Abdul Wahed, “Caviar of the East,” 21.
 
 [^24]: For example, Survey Department, Singapore, *Singapore. Kalang Mukim (Kallang Mukim), and Town Subdivision Number XVII*, 1937. (From National Archives of Singapore, accession no. SP006035). [Note: The map was originally produced in 1932. Markings in pencil and red ink were added in later years and the last amendments were made in 1937.]
 
-[^25]: Burdon, Annual Report of the Fisheries Department, 1950, 58; Burdon, Annual Report of the Fisheries Department, 1951, 69.
+[^25]: Burdon, *Annual Report of the Fisheries Department, 1950*, 58; Burdon, *Annual Report of the Fisheries Department, 1951*, 69.
 
 [^26]: Udang geragau is also used to make cincalok, another fermented shrimp product. A Dictionary of the Economic Products of the Malay Peninsula, first published in 1935, mentions udang geragau, udang rebon, udang pepai and sanggugu (also spelt as senggugu) as the recorded Malay names for Acetes, a genus of small shrimp that resembles krill. The species Acetes erythraeus Nobili was one of those used in belacan production in Singapore. See I.H. Burkill, A Dictionary of the Economic Products of the Malay Peninsula, vol. 1 (Kuala Lumpur: Published on Behalf of the Governments of Malaysia and Singapore by the Ministry of Agriculture and Co-operatives, 1966), 684. (From National Library, Singapore, call no. RSING 634.909595 BUR)
 
