@@ -99,7 +99,7 @@ Despite ongoing urban redevelopment and reclamation, there was still a cottage i
 
 The widow started making belacan as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
 
-While belacan production still endures in other parts of Southeast Asia today, scenes of people catching udang geragau with their sondong and making belacan are long gone from Singapore. The shores are now void of the smell of drying fish and belacan, although one can still catch the aromatic whiff of belacan being toasted from homes and eateries.
+While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
 
 <div style="background-color: white;">
 <br>
