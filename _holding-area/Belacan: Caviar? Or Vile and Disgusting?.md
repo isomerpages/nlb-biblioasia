@@ -93,8 +93,6 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 	<b>RECIPE FOR BELACAN</b><br><br>
-<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
-	<div><i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
 	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later.
 <br><br>
@@ -125,6 +123,8 @@ Sugar to taste<br>
 	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
 	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
 	</ol><br>
+<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
+	<div><i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
 	“Making Belacan Is Hard Work,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
 Rita Zahara, <i>Malay Heritage Cooking</i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
