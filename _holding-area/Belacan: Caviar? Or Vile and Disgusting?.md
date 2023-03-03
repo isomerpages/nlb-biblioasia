@@ -17,15 +17,15 @@ In 2019, Prime Minister Lee Hsien Loong conveyed his thanks to the Malaysian que
 
 *Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan Chinese meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
 
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_2.png)
-<div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
-</div>
-
 Hugh Clifford, who served as Governor of the Straits Settlements between 1927 and 1929, referred to *belacan* as “that evil-smelling condiment which [had] been so ludicrously misnamed the Malayan Caviare” in his 1897 account of the Malay Peninsula. He wrote that the coasts reeked of “rank odours” as a result of women villagers “labouring incessantly in drying and salting the fish which [had] been taken by the men, or pounding prawns into *blâchan*” throughout the fishing season. The stench was so strong that “all the violence of the fresh, strong, monsoon winds” would only “partially purge” the villages of it.[^2]
 
 In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* (1856), John Crawfurd, the former Resident of Singapore, describes balachong (*belacan*) as:
 
 “[A] condiment made of prawns, sardines, and other small fish, pounded and pickled. The proper Malay word is bâlachan [*belacan*], the Javanese trasi [*terasi*], and the Philippine bagon [*bagoong*]. This article is of universal use as a condiment, and one of the largest articles of native consumption throughout both the Malay and Philippine Archipelago. It is not confined, indeed, as a condiment to the Asiatic islanders, but is also largely used by the Birmese [Burmese], the Siamese, and Cochin-Chinese. It is, indeed, in great measure essentially the same article known to the Greeks and Romans under the name of garum, the produce of a Mediterranean fish.”[^3]
+
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_2.png)
+<div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
+</div>
 
 Today, the Malay term *belacan* is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called *kapi*, which is borrowed from the term *ngapi* (literally “pressed fish”) used in Myanmar, while it is referred to as *mắm tôm* or* mắm ruốc* in Vietnam.
 
@@ -128,7 +128,7 @@ Sugar to taste<br>
 	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
 	</ol><br>
 <img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
-	<div><i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
+	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
 	“Making Belacan Is Hard Work,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
 Rita Zahara, <i>Malay Heritage Cooking</i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
@@ -138,6 +138,10 @@ Salim Osman, “‘Racun Dlm Belacan’ Disiasat,” <i>Berita Harian</i>, 3 Jul
 </div>
 
 The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
+
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_3.png)
+<div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
+</div>
 
 Despite ongoing urban redevelopment and reclamation, there was still a cottage industry of five households producing *belacan* in Kampong Tampines in the 1980s. In an interview with the *Berita Harian* newspaper in 1986, village resident 72-year-old Sapiah Osman, better known as Mak Piah, said that she had been catching shrimps since she was 35. 
 
