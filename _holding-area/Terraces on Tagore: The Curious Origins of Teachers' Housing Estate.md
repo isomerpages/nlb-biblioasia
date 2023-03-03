@@ -141,7 +141,7 @@ src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_
 
 * <b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.<br><br>
 
-* <b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.<br><br>
+* <b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.<br><br><br>
 	
 <b>REFERENCES</b><br><br>  
 Dunlop, Peter K.G. <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722"><i>Street Names of Singapore</i></a>. Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br><br>
