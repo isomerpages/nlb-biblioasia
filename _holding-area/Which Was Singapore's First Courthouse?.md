@@ -58,36 +58,37 @@ The Residency was, from 1819 to 1823, the focal point of the settlement, and vis
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">    
 
-<b>Maxwell's House and the Supreme Court</b>
+<b>Maxwell's House and the Supreme Court</b><br><br>
 
-Maxwell’s House was used as the Court of Judicature and other government offices until 1839 when a separate single-storey building was erected on the side of the original building for the sole use of the court. Unfortunately, it was too noisy, being close to the adjoining shipbuilding yard. However, nothing was done until 1864 when a new building was built nearby to house the court. This building, which was completed in 1867,  forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. This was Singapore’s first purpose-built courthouse.
+Maxwell’s House was used as the Court of Judicature and other government offices until 1839 when a separate single-storey building was erected on the side of the original building for the sole use of the court. Unfortunately, it was too noisy, being close to the adjoining shipbuilding yard. However, nothing was done until 1864 when a new building was built nearby to house the court. This building, which was completed in 1867,  forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. This was Singapore’s first purpose-built courthouse.<br><br>
 
-In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.
+In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.<br><br>
 
-In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.
-After the Supreme Court moved out, Maxwell’s House was used as a government storehouse and as government offices before being renovated in the mid-1950s to become the Legislative Assembly House.
-
-From 1965 to 1999, it was known as Parliament House until Parliament moved into its current location at 1 Parliament Place. Maxwell’s house was reopened in 2004 as an arts venue known as The Arts House. Both the main building and annex were gazetted as national monuments in 1992.
-
-The Supreme Court, meanwhile, occupied the building at the junction of St Andrew’s Road and High Street until 2005 when it moved to its current location at 1 Supreme Court Lane. The old Supreme Court building, together with the former City Hall building next to it, now house National Gallery Singapore.
-
-REFERENCES
-
-Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s eResources website)
+In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.<br><br>
 	
-“Dignified Pageantry at Opening of New Supreme Court,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)
+After the Supreme Court moved out, Maxwell’s House was used as a government storehouse and as government offices before being renovated in the mid-1950s to become the Legislative Assembly House.<br><br>
 
-“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s eResources website)
+From 1965 to 1999, it was known as Parliament House until Parliament moved into its current location at 1 Parliament Place. Maxwell’s house was reopened in 2004 as an arts venue known as The Arts House. Both the main building and annex were gazetted as national monuments in 1992.<br><br>
 
-Faizah Zakaria, “Supreme Court,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.
+The Supreme Court, meanwhile, occupied the building at the junction of St Andrew’s Road and High Street until 2005 when it moved to its current location at 1 Supreme Court Lane. The old Supreme Court building, together with the former City Hall building next to it, now house National Gallery Singapore.<br><br>
 
-Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s eResources website)
+REFERENCES<br><br>
 
-Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i>One Hundred Years of Singapore</i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS]) 
+Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s eResources website)<br><br>
+	
+“Dignified Pageantry at Opening of New Supreme Court,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
 
-“Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, https://artshouselimited.sg/tah-about#section-id-1643460266223.
+“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s eResources website)<br><br>
 
-Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s eResources website)
+Faizah Zakaria, “Supreme Court,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
+
+Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s eResources website)<br><br>
+
+Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i>One Hundred Years of Singapore</i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS])<br><br>
+
+“Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, https://artshouselimited.sg/tah-about#section-id-1643460266223.<br><br>
+
+Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s eResources website)<br><br>
 </div>
 
 #### **The Second Charter of Justice in Singapore**
