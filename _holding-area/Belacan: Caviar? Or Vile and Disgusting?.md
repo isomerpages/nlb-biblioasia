@@ -194,7 +194,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^14]: Hart, [*Picturesque Burma, Past and Present*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4219081), 188.
 
-[^15]: “[Government Notification](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/pinangazette18560823-1.2.2),” *Pinang Gazette and Straits Chronicle, 23 August 1856*, 1; “Legislative Council,” *Straits Times*, 31 July 1896, 3. (From NewspaperSG). Even though the section pertaining to *belacan* was only passed in 1896, *belacan* businesses had to register and pay for licences before that. See “Page 3 Advertisements Column 2,” *Daily Advertiser*, 14 January 1891, 3. (From NewspaperSG)
+[^15]: “[Government Notification](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/pinangazette18560823-1.2.2),” *Pinang Gazette and Straits Chronicle, 23 August 1856*, 1; “[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960731-1.2.34),” *Straits Times*, 31 July 1896, 3. (From NewspaperSG). Even though the section pertaining to *belacan* was only passed in 1896, *belacan* businesses had to register and pay for licences before that. See “Page 3 Advertisements Column 2,” *Daily Advertiser*, 14 January 1891, 3. (From NewspaperSG)
 
 [^16]: “Wednesday, 8th December,” *Straits Budget*, 14 December 1897, 5. (From NewspaperSG)
 
