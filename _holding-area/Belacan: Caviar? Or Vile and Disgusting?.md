@@ -4,8 +4,8 @@ permalink: /holding-area/shrimp-paste-belacan/
 description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
   though it takes some getting used to.
 ---
-#### The Singapore Teachers’ Union wanted a clubhouse. They ended up building a housing estate. 
-By Sharon Teng
+#### Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. 
+By Toffa Abdul Wahed
 
 ![](/images/Vol%2019%20Issue%201/Balacan/balacan_1.png)
 <div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
