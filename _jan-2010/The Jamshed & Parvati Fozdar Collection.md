@@ -7,6 +7,11 @@ description: Senior Librarian Eunice Low unpacks the Jamshed & Parvati Fozdar
 ---
 #### Senior Librarian _Eunice Low_ unpacks the Jamshed & Parvati Fozdar Collection, an outstanding compilation of the personal memoirs and chronicles of the Fozdar family in the Asia-Pacific region.
 
+![](/images/Vol%205%20Issue%204/Jamshed/Bahai%20newsletter1.jpg)
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Jamshed/Bahai%20newsletter1.jpg">
+ <div style="background-color: white;">Monthly newsletter of the Bahá’í community in Vietnam dated 1964. <i>Jamshed & Parvati Fozdar Collection.</i></div>
+
 #### **About the Collection**
 
 The Jamshed & Parvati Fozdar Collection is an outstanding compilation of the personal memoirs and chronicles of the Fozdar family in the Asia-Pacific region. The collection comprises 15 volumes of documents, photographs, news articles, personal letters and other correspondence organised in three broad themes: the development of the Bahá'í Faith in Singapore and Southeast Asia, World Religion Day events in Singapore and Sri Lanka, and four volumes comprising memories of two prominent personalities in Singapore — the late Shirin Fozdar, pioneer of the women’s movement in Singapore, and the late former President Wee Kim Wee.
@@ -46,3 +51,12 @@ The National Library seeks contributions towards the documentary heritage and na
 
 For general donations, please contact the Library Officer, Gifts and Exchange Section at tel: 6546 7275, fax: 6546 7262 or email: gifts\_exchanges@nlb.gov.sg. For more details, please refer to the Deposit website at 
 <a href="https://www.nlb.gov.sg/depositapp/">https://www.nlb.gov.sg/depositapp/</a>
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Eunice%20Low.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Eunice Low</b><br>Senior Librarian<br> Heritage Collection Development<br>National Library</center></div>
+
+
+
