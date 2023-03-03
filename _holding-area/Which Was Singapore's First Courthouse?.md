@@ -56,6 +56,8 @@ This cluster of buildings was located at what is now the junction of High Street
 
 The Residency was, from 1819 to 1823, the focal point of the settlement, and visitors would typically land at the Resident’s Steps and then proceed to the Residency compound. The Resident appointed “Captains” or “Chiefs” – prominent and respected community leaders – for the various ethnic groups and entrusted each with the preservation of peace and settlement of minor disputes.[^14] In 1820, there was a captain for the Chinese (who was assisted by two deputies), and one captain each for the Bugis, Malay and Chulia populations.[^15]
 
+
+
 #### **The Second Charter of Justice in Singapore**
 
 Following the signing of the Anglo-Dutch Treaty on 17 March 1824, Singapore’s second Resident, John Crawfurd, succeeded in purchasing outright the whole of Singapore island from the Sultan and the Temenggong. This meant that the British now had jurisdiction over the entire island, and not just the settlement. For all intents and purposes, the Rooma Bechara ceased to exist since there was no further need to involve the Malay rulers in the administration of justice.
