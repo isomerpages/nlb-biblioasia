@@ -24,3 +24,15 @@ The rest of the volumes chronicle the efforts of eldest son Jamshed Fozdar and h
 There are also details of the activities of the InterReligious Organisation (IRO) and World Religion Day events in Singapore and Sri Lanka. Highlights of the collection include: the story of the issuance of a set of three postage stamps in 1999, the first inter-faith stamps in Singapore’s history commemorating the 50th anniversary of IRO in Singapore, and earlier in 1985, the first inter-faith postage stamps in history issued by the government of Sri Lanka commemorating World Religion Day.
 
 This collection can be accessed through the Donors Gallery website at <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/">https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/</a>
+
+#### **How to Donate**
+
+The National Library seeks contributions towards the documentary heritage and national memory of Singapore. They include materials on significant events, monographs, maps, manuscripts, documents, letters and photographs that contribute towards developing Singapore’s unique identity and enable research to be carried out on our social history. Donations are reviewed in accordance with the National Library's collection policies, and the terms and conditions discussed.
+
+For general donations, please contact the Library Officer, Gifts and Exchange Section at tel: 6546 7275, fax: 6546 7262 or email: gifts\_exchanges@nlb.gov.sg. For more details, please refer to the Deposit website at 
+<a href="https://www.nlb.gov.sg/depositapp/">https://www.nlb.gov.sg/depositapp/</a>
+
+
+
+
+
