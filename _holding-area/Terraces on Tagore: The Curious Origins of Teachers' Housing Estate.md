@@ -123,7 +123,7 @@ src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_
 
 * <b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.<br><br>
 	
-![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate.jpg)
+<img			src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate.jpg">
 <div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
 </div>
 
