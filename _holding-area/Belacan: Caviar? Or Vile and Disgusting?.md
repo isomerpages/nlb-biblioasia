@@ -7,8 +7,8 @@ description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
 #### The Singapore Teachers’ Union wanted a clubhouse. They ended up building a housing estate. 
 By Sharon Teng
 
-![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_housing_estate.png)
-<div style="background-color: white;">A view of the Teachers’ Housing Estate from the bus stop on Yio Chu Kang Road. <i>Photo by Sharon Teng.</i>
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_1.png)
+<div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
 </div>
 
 While there is friendly rivalry between Singapore and Malaysia over who makes better food, for one notable family in Singapore, the best *sambal belacan* (a spicy condiment made from shrimp paste) indisputably comes from Malaysia, though only from a very special source. 
