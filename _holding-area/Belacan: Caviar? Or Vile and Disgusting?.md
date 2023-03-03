@@ -99,14 +99,14 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 	<b>Ingredients:</b><br>
 	Use a Chinese tea cup as a measure.<br>
 	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.<br><br>
-<b>Method:</b><br><ol>
-  <li>Do not wash the shrimps unless it is with fresh seawater. Sort through the shrimp to remove small fish, seaweed or other foreign matter.</li>
-  <li>Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry</li>
-  <li>Pound the shrimp. The shrimps will still be moist and will easily bind into a paste. Shape into small cakes, the size of an egg and flatten. </li>
-	  <li>Dry these in the sun for at least two days. Pound once more to get a finer paste. Re-shape into cakes and dry in the sun for two more days or more depending on the sunshine. </li>
-	<li>Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.</li>
-	<li>When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry.  </li>
-	<li><i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. </li>
+<b>Method:</b><br>
+1. Do not wash the shrimps unless it is with fresh seawater. Sort through the shrimp to remove small fish, seaweed or other foreign matter.<br>
+2. Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry<br>
+3. Pound the shrimp. The shrimps will still be moist and will easily bind into a paste. Shape into small cakes, the size of an egg and flatten. <br>
+4. Dry these in the sun for at least two days. Pound once more to get a finer paste. Re-shape into cakes and dry in the sun for two more days or more depending on the sunshine. <br>
+5. Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.<br>
+6. When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry. <br>
+7. <i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. <br>
 </ol><br>
 	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
 	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).<br><br>
@@ -118,10 +118,10 @@ Salt to taste<br>
 Sugar to taste<br>
 2 limes, juice extracted, zest thinly sliced
 	<br><br>
-<b>Method:</b><br><ol>
-	<li>Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.</li>
-	<li>Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.</li>
-	  <li> Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.</li>
+<b>Method:</b><br>
+	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
+	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
+	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
 	</ol><br>
 	<b> REFERENCES</b><br><br>
 	“Making Belacan Is Hard Work,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
