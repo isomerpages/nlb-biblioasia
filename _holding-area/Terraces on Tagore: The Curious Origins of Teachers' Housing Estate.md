@@ -62,6 +62,10 @@ Subsequently though, when bookings for the estate were offered to other governme
 
 All 256 houses in Teachers’ Estate were completed by June 1969.[^19] The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in the estate be named after poets or people well known in the education or literary fields. The proposal was accepted. Roads include Munshi Abdullah Avenue, Tagore Avenue and Tung Po Avenue.
 
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_12%20row%20of%203%20storey%20terrace%20Omar%20Khayyam%20Ave_Teachers'%20Estate.jpg)
+<div style="background-color: white;"> A row of colourful three-storey terrace houses along Tagore Avenue. <i>Photo by Sharon Teng.</i>
+</div>
+
 In 1971, when the estate was officially opened, 180 of the homes were owned by teachers.[^20] Neighbourhood amenities were slowly added. By 1974, the estate had a grocery shop, a tailor’s shop, a hairdressing salon, a bakery, a small church, and a bus terminus with buses to town and Jurong. However, residents had to travel to Nee Soon and Thomson Road for the nearest wet markets.[^21]
 
  “Although the estate is a bit way out, I don’t mind,” said one resident in 1974. “It is really quite convenient. We have the fishmonger, the egg woman and the newspaper man making their rounds to the homes every morning.” She did wish that more hawkers would come by though.[^22]
