@@ -161,7 +161,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Sharon%20Teng.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Toffa_Abdul_Wahed.png">
 	<b>Toffa Abdul Wahed</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.</div>
 	
 #### **NOTES**
