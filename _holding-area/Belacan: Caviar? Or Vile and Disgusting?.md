@@ -112,7 +112,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^2]: Hugh Clifford, *In Court & Kampong: Being Tales & Sketches of Native Life in the Malay Peninsula* (London: Grant Richards, 1897), 137. (From BookSG)
 
-[^3]: John Crawfurd, *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* (London: Bradbury & Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “Crawfurd on Southeast Asia,” BiblioAsia 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
+[^3]: John Crawfurd, *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* (London: Bradbury & Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “Crawfurd on Southeast Asia,” *BiblioAsia* 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger,* The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World* (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
 [^4]: William Dampier, Voyages and Descriptions: Vol.II. In Three Parts, Viz. I. A Supplement of the Voyage Round the World, ... 2. Two Voyages to Campeachy; ... 3. A Discourse of Trade-winds, Breezes, Storms, ... By Capt. William Dampier. Illustrated with Particular Maps and Draughts. To Which Is Added, a General Index to Both Volumes (London: Printed for James Knapton, 1699), 28, Internet Archive, https://archive.org/details/voyagesdescripti00damp/page/n7/mode/2up.
 
