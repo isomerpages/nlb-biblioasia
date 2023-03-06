@@ -5,7 +5,6 @@ description: Singapore’s former Parliament building, known today as The Arts
   House, was used as a courthouse from 1828 to 1939. Prior to that, legal
   hearings were held in at least three other venues.
 ---
-
 #### Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse from 1828 to 1939. Prior to that, legal hearings were held in at least three other venues.
 By Kevin Y.L. Tan
 
@@ -129,9 +128,9 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 #### **NOTES**
 
-[^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *An Anecdotal History of Old Times in Singapore*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
+[^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
 
-[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *The Law of the Straits Settlements: A Commentary* (Singapore: Kelly & Walsh, 1915), 148–150.(From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *An Anecdotal History of Old Times in Singapore*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
+[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *[The Law of the Straits Settlements: A Commentary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4367158)* (Singapore: Kelly & Walsh, 1915), 148–150.(From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
 
 [^3]: This estimate is based on the fact that the 12-pounder smooth-bore British cannons of the early 19th century had a range of about 1.2 km, and Article 1 of the treaty stipulated that the jurisdiction extended “as far as the range of cannon shot, all around the factory”.
 
