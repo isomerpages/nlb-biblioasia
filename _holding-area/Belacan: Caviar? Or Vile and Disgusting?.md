@@ -122,7 +122,7 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 5. Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.<br>
 6. When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry. <br>
 7. <i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. 
-</ol><br><br>
+<br><br>
 	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
 	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).<br><br>
 <b>Ingredients:</b><br>
@@ -136,7 +136,7 @@ Sugar to taste<br>
 <b>Method:</b><br>
 	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
 	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
-	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.</ol><br><br>
+	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
 	<br>
 <img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
 	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
