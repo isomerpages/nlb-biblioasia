@@ -170,9 +170,9 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 [^21]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 25 February 1828” (p. 98, image 125), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824198985/view.
 
-[^22]: James William Norton-Kyshe, *A Judicial History of the Straits Settlements 1786–1890* (Singapore: Faculty of Law, University of Singapore, 1969), 99. (From National Library, Singapore, call no. RCLOS 347.5957 NOR); “Singapore,” *Singapore Chronicle and Commercial Register*, 5 June 1828, 1. (From NewspaperSG)
+[^22]: James William Norton-Kyshe, *[A Judicial History of the Straits Settlements 1786–1890](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7480656)* (Singapore: Faculty of Law, University of Singapore, 1969), 99. (From National Library, Singapore, call no. RCLOS 347.5957 NOR); “[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280605-1.2.5),” *Singapore Chronicle and Commercial Register*, 5 June 1828, 1. (From NewspaperSG)
 
-[^23]: “Notification,” *Singapore Chronicle and Commercial Register*, 22 May 1828, 1. (From NewspaperSG)
+[^23]: “[Notification](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280522-1.2.2),” *Singapore Chronicle and Commercial Register*, 22 May 1828, 1. (From NewspaperSG)
 
 [^24]: Norton-Kyshe, *A Judicial History of the Straits Settlements*, 99; “Singapore”.
 
