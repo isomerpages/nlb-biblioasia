@@ -24,9 +24,7 @@ Call no.: RSING 330.092 QUA
 In 1960, Dr Albert Winsemius (1910–96) led the United Nations Development Programme’s first mission to Singapore to advise the government on industrialisation. The book examines his affinity with Singapore, his contributions to the nation’s economic development, his legacy, and his influence on past, current and future economic planners.
 
 #### **Everyday Modernism: Architecture and Society in Singapore**
-By Jiat-Hwee Chang and
-Justin Zhuang; photographs by
-Darren Soh 
+By Jiat-Hwee Chang and Justin Zhuang; photographs by Darren Soh 
 
 NUS Press (2023), 352 pages <br>
 Call no.: RSING 720.959570904 CHA
@@ -47,8 +45,7 @@ This book tells the stories of early Indian and Hindu settlers to Singapore, the
 
 #### **ROAR: Football Legends of Singapore**
 
-By A. Thiyaga Raju; edited by
-Gary Koh
+By A. Thiyaga Raju; edited by Gary Koh
 
 Pagesetters Services Pte Ltd (2022),
 261 pages <br>
