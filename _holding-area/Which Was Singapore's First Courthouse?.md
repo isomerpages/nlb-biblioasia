@@ -141,7 +141,9 @@ John Francis, proprietor of the Singapore Hotel, saw an opportunity and offered 
 By the time Fullerton and his retinue arrived in Singapore on 8 May 1828, Maxwell’s House was already completed. Fullerton was greeted by the customary salutes. Sitting with Kenneth Murchison, the Resident Councillor, Fullerton opened the first criminal hearing (known as the session of Oyer and Terminer and Gaol Delivery), and presided over the first-ever Court of Judicature of the Prince of Wales Island (Penang), Singapore and Melaka in Singapore on 22 May 1828.[^22] Notice of the first General Quarter Session of the court, to be held in Singapore on 2 June 1828, was published in the local newspapers.[^23] 
 
 ![](/images/Vol%2019%20Issue%201/Courthouse/Robert_fullerton.png)
-<div style="background-color: white;"> Map of the Teacher’s Housing Estate, showing the roads and various amenities.
+<div style="background-color: white;">Portrait of Robert Fullerton, Governor of the Straits Settlements,
+by George Chinnery, early 19th century. Fullerton opened the first criminal hearing (session of Oyer and Terminer and Gaol Delivery) and presided over the first-ever Court of Judicature of the Prince of Wales Island (Penang), Singapore and Melaka held in Singapore
+on 22 May 1828. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
 </div>
 
 Fullerton and Murchison completed the first session, hearing 27 indictments brought by the Grand Jury. Six accused were found guilty of murder, one for manslaughter, and the rest for assault and offences against property. Two persons were sentenced to death, while two other persons indicted for piracy had to be released for the court's want of admiralty jurisdiction.[^24]  
