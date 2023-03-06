@@ -80,3 +80,37 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 #### **The Lee Kim Long Collection**
 
 This article is an introduction to the life and works of Professor Lee Kim Long as well as the highlights of his donation to the library. Prominent Chinese physician Lee Kim Long passed away in 2008 at the age of 73. He specialised in acupuncture and was a respected physician in the medical circle. In more than 30 years of his practice, Professor Lee had published more than 50 medical-related books, including books that traced the history of traditional Chinese medicine in Southeast Asia. He led numerous medical trips to impoverished countries in Southeast Asia to provide free medical services to the poor and nurtured many in the new generation of local Chinese physicians. Professor Lee was also a prolific writer, having published a substantial collection of prose and fables with a local flavour. He was awarded the prestigious “Bing Xin Literature Prize” in China for his outstanding collection of Chinese fables in 2007. Professor Lee’s family donated the books that he had collected and published to the National Library. A total of 300 titles of this collection is available for public viewing at the Donors’ Gallery on Level 10 of the National Library. The public is welcome to browse and read his collection in the library.
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/LimKimChar.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Lim Kim Char</b><br> Principal Librarian<br> Professional Services<br> National Library</center>
+</div>
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Ivy%20Lee.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Ivy Lee Huey Shin</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br> National Library</center></div>
+
+#### **REFERENCES**
+
+区如柏 \[Au Rubai\]. (2000年12月18日). [李金龙旅游世界不忘收集 五百种中文报章将在总商会展览](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20001218-1.2.21.1.1) \[Li Jinlong travels the world and does not forget to collect 500 kinds of Chinese newspapers to be exhibited at the General Chamber of Commerce\], _联合早报_, _Lianhe Zaoba_o, p. 13. From NewspaperSG.
+
+何文欣 \[He Wenxin\]. (2002年7月29日). [本地中医师善心义诊民丹贫民感受丝丝情](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20020729-1.2.11.8) \[Local TCM physicians kindly treat the poor in Bintan and feel a little bit of love\], _联合早报_ _Lianhe Zaoba_o, p. 6. From NewspaperSG.
+
+邹文学, & 黄丽容 \[Zou Wenxue & Huang Lirong\]. (2008年1月6日). [怀念本报义诊顾问李金龙医师新加坡的白求恩哪里需要哪里去](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080106-1.2.5.18) \[Ask Dr. Li Jinlong where Bethune in Singapore needs to go\], _联合晚报_ _Lianhe Wanbao_, p. 10. From NewspaperSG.
+
+李金菊 \[Li Jinju\]. (2008年1月8日). [安息吧, 老师!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080108-1.2.14.1.3.1) \[Rest in peace, teacher!\], _联合晚报_ _Lianhe Wanbao_, p. 14. From NewspaperSG.
+
+方水双 \[Fang Shuishuang\]. (2008年1月11日). [忆好友李金龙教授](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080111-1.2.31.5.1) \[Recalling my friend Professor Li Jinlong\],   _联合早报_ _Lianhe Zaoba_o, p. 18. From NewspaperSG.
+
+陈美娥 \[Chen Mei'e\], (2009年3月12日). [缅怀李金龙教授](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20090312-1.2.36.3.1) \[Remembering Professor Li Jinlong\], _联合早报_ _Lianhe Zaoba_o, p. 3. From NewspaperSG.
+
+张曦娜 \[Zhang Xina\]. (2008年3月14日). [忆新加坡 “义诊之父”李金龙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080314-1.2.59.5) \[Recalling Singapore's "Father of Free Clinic" Li Jinlong\], _联合早报_ _Lianhe Zaoba_o, p. 8. From NewspaperSG.
+
+吴淑贤 \[Wu Shuxian\]. (2008年3月17日). [300名中医界人事与公众追念李金龙医师可贵医德](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080317-1.2.10.11) \[300 TCM personnel and the general public commemorate Dr. Li Jinlong's valuable medical ethics\], _联合早报_ _Lianhe Zaobao, p. 7. From NewspaperSG.
+
+
+
