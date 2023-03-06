@@ -33,7 +33,7 @@ Call no.: RSING 720.959570904 CHA
 
 Through the lens of social and architectural histories, the book uncovers the many untold stories of Singapore’s modernisation, from the rise of heroic skyscrapers, such as the Pearl Bank Apartments, to the spread of utilitarian typologies like the multistorey car park.
 
-#### **Hinduism in Singapore and the Hindu Endowments Board**
+#### **[Hinduism in Singapore and the Hindu Endowments Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205912025)**
 Edited by Lavanya Balachandran and Sylvia Koh
 
 Hindu Endowments Board (2022), 313 pages <br>
