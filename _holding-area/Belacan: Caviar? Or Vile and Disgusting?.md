@@ -156,7 +156,7 @@ The *udang geragau* were caught using *sondong* (push-net), also known as *selan
 
 Despite ongoing urban redevelopment and reclamation, there was still a cottage industry of five households producing *belacan* in Kampong Tampines in the 1980s. In an interview with the *Berita Harian* newspaper in 1986, village resident 72-year-old Sapiah Osman, better known as Mak Piah, said that she had been catching shrimps since she was 35. 
 
-The widow started making belacan as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
+The widow started making *belacan* as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
 
 While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
 
@@ -179,7 +179,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^6]: Kenneth Ruddle and Naomichi Ishige, “On the Origins, Diffusion and Cultural Context of Fermented Fish Products in Southeast Asia,” in *Globalization, Food and Social Identities in the Asia-Pacific Region*, reissued edition, ed. James Farrer (Tokyo: Sophia University Institute of Comparative Culture, 2021), 28–45, https://www.academia.edu/391558/On_the_Origins_Diffusion_and_Cultural_Context_of_Fermented_Fish_Products_in_Southeast_Asia. Fermented shrimp paste is also made and consumed in countries outside of Southeast Asia like Korea, China and Bangladesh.
 
-[^7]: Myo Thant Tyn, “Industrialization of Myanmar Fish Paste and Sauce Fermentation” in* Industrialization of Indigenous Fermented Foods*, 2nd edition, ed. Keith Steinkraus (New York; Basel: Marcel Denker, Inc., 2004), 739, https://doi.org/10.1201/9780203022047.
+[^7]: Myo Thant Tyn, “Industrialization of Myanmar Fish Paste and Sauce Fermentation” in *Industrialization of Indigenous Fermented Foods*, 2nd edition, ed. Keith Steinkraus (New York; Basel: Marcel Denker, Inc., 2004), 739, https://doi.org/10.1201/9780203022047.
 
 [^8]: Su-Mei Yu, “A Lamentation for Shrimp Paste,” *Gastronomica* 9, no. 3 (2009), https://gastronomica.org/2009/08/05/a-lamentation-for-shrimp-paste/.
 
