@@ -81,9 +81,9 @@ The Residency was, from 1819 to 1823, the focal point of the settlement, and vis
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">    
 
-<b>Maxwell's House and the Supreme Court</b><br><br>
+<b>Maxwell's House and the Supreme Court</b><br>
 	
-![](/images/Vol%2019%20Issue%201/Courthouse/Old_supreme_court.png)
+<img src="/images/Vol%2019%20Issue%201/Courthouse/Old_supreme_court.png">
 <div> The old Supreme Court building, which was built in 1939, now forms part of National Gallery Singapore. <i>Photo by Jimmy Yap.</i></div>
 <br>
 Maxwell’s House was used as the Court of Judicature and other government offices until 1839 when a separate single-storey building was erected on the side of the original building for the sole use of the court. Unfortunately, it was too noisy, being close to the adjoining shipbuilding yard. However, nothing was done until 1864 when a new building was built nearby to house the court. This building, which was completed in 1867,  forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. This was Singapore’s first purpose-built courthouse.<br><br>
