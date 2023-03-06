@@ -174,10 +174,10 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 [^23]: “[Notification](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280522-1.2.2),” *Singapore Chronicle and Commercial Register*, 22 May 1828, 1. (From NewspaperSG)
 
-[^24]: Norton-Kyshe, *A Judicial History of the Straits Settlements*, 99; “Singapore”.
+[^24]: Norton-Kyshe, *[A Judicial History of the Straits Settlements](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7480656)*, 99; “[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280605-1.2.5)”.
 
-[^25]: Norton-Kyshe, *A Judicial History of the Straits Settlements*, 99; “Singapore”.
+[^25]: Norton-Kyshe, *[A Judicial History of the Straits Settlements](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7480656)*, 99; “[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280605-1.2.5)”.
 
-[^26]: “In the Court of Judicature of Prince of Wales Island, Singapore and Malacca,” *Singapore Chronicle and Commercial Register*, 28 August 1828, 1. (From NewspaperSG)
+[^26]: “[In the Court of Judicature of Prince of Wales Island, Singapore and Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280828-1.2.2),” *Singapore Chronicle and Commercial Register*, 28 August 1828, 1. (From NewspaperSG)
 
-[^27]: “The Ministry,” *Singapore Chronicle and Commercial Register*, 20 November 1828, 1. (From NewspaperSG)
+[^27]: “[The Ministry](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18281120-1.2.7),” *Singapore Chronicle and Commercial Register*, 20 November 1828, 1. (From NewspaperSG)
