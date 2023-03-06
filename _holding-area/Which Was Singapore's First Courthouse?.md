@@ -103,13 +103,17 @@ The Supreme Court, meanwhile, occupied the building at the junction of St Andrew
 
 <b>REFERENCES</b><br><br>
 
-Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
+Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s <a 	
+href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 	
-“[Dignified Pageantry at Opening of New Supreme Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390804-1.2.79.aspx),” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
+“<a 	
+href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390804-1.2.79.aspx">Dignified Pageantry at Opening of New Supreme Court</a>,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
 
-“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
+“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s <a 	
+href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 
-Faizah Zakaria, “[Supreme Court](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1770_2011-04-05.html),” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
+Faizah Zakaria, “<a 	
+href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1770_2011-04-05.html">Supreme Court</a>,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
 
 Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
 
