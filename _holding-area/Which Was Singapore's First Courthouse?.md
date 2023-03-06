@@ -134,21 +134,21 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 [^3]: This estimate is based on the fact that the 12-pounder smooth-bore British cannons of the early 19th century had a range of about 1.2 km, and Article 1 of the treaty stipulated that the jurisdiction extended “as far as the range of cannon shot, all around the factory”.
 
-[^4]: Buckley, *An Anecdotal History of Old Times in Singapore*, 39.
+[^4]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
 
-[^5]: Buckley, *An Anecdotal History of Old Times in Singapore*, 39.
+[^5]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
 
-[^6]: Buckley, *An Anecdotal History of Old Times in Singapore*, 39.
+[^6]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
 
-[^7]: “Arrangements Made for the Government of Singapore in June 1819”. See Buckley, An Anecdotal History of Old Times in Singapore, 58.
+[^7]: “Arrangements Made for the Government of Singapore in June 1819”. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58.
 
-[^8]: Article 1. See Buckley, *An Anecdotal History of Old Times in Singapore*, 58. 
+[^8]: Article 1. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58. 
 
-[^9]: Buckley, *An Anecdotal History of Old Times in Singapore*, 58–59.
+[^9]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58–59.
 
-[^10]: Raffles Museum and Library, “Farquhar to Raffles, 2 November 1819,” *L10: Singapore: Letters to Bencoolen*, Straits Settlements Records, 188–190. (From National Archives of Singapore)
+[^10]: Raffles Museum and Library, “Farquhar to Raffles, 2 November 1819,” *[L10: Singapore: Letters to Bencoolen](https://www.nas.gov.sg/archivesonline/private_records/record-details/b544bcee-e33b-11e9-b18a-001a4a5ba61b)*, Straits Settlements Records, 188–190. (From National Archives of Singapore)
 
-[^11]: Raffles Museum and Library, “Raffles to Farquhar, 20 March 1820,” L10: *Singapore: Letters to Bencoolen*, Straits Settlements Records, 319. (From National Archives of Singapore)
+[^11]: Raffles Museum and Library, “Raffles to Farquhar, 20 March 1820,” *[L10: Singapore: Letters to Bencoolen](https://www.nas.gov.sg/archivesonline/private_records/record-details/b544bcee-e33b-11e9-b18a-001a4a5ba61b)*, Straits Settlements Records, 319. (From National Archives of Singapore)
 
 [^12]: Raffles Museum and Library, “Farquhar to Hull, 22 March 1823,” *L13: Raffles: Letters from Singapore*, Straits Settlements Records, 283–87. (From National Archives of Singapore, microfilm no. NL58)
 
