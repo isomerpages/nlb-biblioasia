@@ -20,6 +20,9 @@ Official records establish that Singapore’s first courthouse was located in a 
 In this sense, it would be correct to say that Maxwell’s House was Singapore’s first courthouse. 
 
 ![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_house.png)
+<div style="background-color: white;">The Supreme Court remained in Maxwell’s House (pictured) until
+1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
+</div>
 
 However, this would imply that no courts had sat in Singapore between the time of Stamford Raffles’ arrival in January 1819 and May 1828, a period of close to 10 years. This is certainly not the case. In fact, the building at Empress Place is the fourth building in Singapore to have been used as a courthouse.
 
@@ -75,10 +78,12 @@ The Residency was, from 1819 to 1823, the focal point of the settlement, and vis
 
 <b>Maxwell's House and the Supreme Court</b><br><br>
 	
-	![](/images/Vol%2019%20Issue%201/Courthouse/Old_supreme_court.png)
+![](/images/Vol%2019%20Issue%201/Courthouse/Old_supreme_court.png)
 
 Maxwell’s House was used as the Court of Judicature and other government offices until 1839 when a separate single-storey building was erected on the side of the original building for the sole use of the court. Unfortunately, it was too noisy, being close to the adjoining shipbuilding yard. However, nothing was done until 1864 when a new building was built nearby to house the court. This building, which was completed in 1867,  forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. This was Singapore’s first purpose-built courthouse.<br><br>
 
+![](/images/Vol%2019%20Issue%201/Courthouse/First_purpose-built_courthouse.png)
+	
 In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.<br><br>
 
 In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.<br><br>
@@ -127,6 +132,8 @@ A note in the Resident Councillor’s diary dated 19 December 1827 suggests that
 John Francis, proprietor of the Singapore Hotel, saw an opportunity and offered to lease his house to the authorities for use as a courthouse at 300 Sicca Rupees per month.[^19] The offer was left to the governor to decide. A month later, on 28 February 1828, it is recorded that the New Tavern (also run by Francis) at Commercial Square had been “engaged as a temporary Court house” and as “sundry furniture and records, connected with the Judicial Office” were “deposited therein”, the Commanding Officer of the Troops was requested to station a small military guard post there until further notice.[^20] In the meantime, the godown space beneath the Resident’s Office, which had hitherto served as a courthouse, was to be converted into a temporary jail for prisoners committed to stand trial.[^21] The New Tavern, another temporary location, thus operated as Singapore’s third courthouse, albeit, for a very short while.
 
 By the time Fullerton and his retinue arrived in Singapore on 8 May 1828, Maxwell’s House was already completed. Fullerton was greeted by the customary salutes. Sitting with Kenneth Murchison, the Resident Councillor, Fullerton opened the first criminal hearing (known as the session of Oyer and Terminer and Gaol Delivery), and presided over the first-ever Court of Judicature of the Prince of Wales Island (Penang), Singapore and Melaka in Singapore on 22 May 1828.[^22] Notice of the first General Quarter Session of the court, to be held in Singapore on 2 June 1828, was published in the local newspapers.[^23] 
+
+![](/images/Vol%2019%20Issue%201/Courthouse/Robert_fullerton.png)
 
 Fullerton and Murchison completed the first session, hearing 27 indictments brought by the Grand Jury. Six accused were found guilty of murder, one for manslaughter, and the rest for assault and offences against property. Two persons were sentenced to death, while two other persons indicted for piracy had to be released for the court's want of admiralty jurisdiction.[^24]  
 
