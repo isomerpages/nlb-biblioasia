@@ -5,7 +5,6 @@ description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
   though it takes some getting used to.
 image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
 ---
-
 #### Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. 
 By Toffa Abdul Wahed
 
@@ -26,7 +25,7 @@ In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countrie
 “[A] condiment made of prawns, sardines, and other small fish, pounded and pickled. The proper Malay word is bâlachan [*belacan*], the Javanese trasi [*terasi*], and the Philippine bagon [*bagoong*]. This article is of universal use as a condiment, and one of the largest articles of native consumption throughout both the Malay and Philippine Archipelago. It is not confined, indeed, as a condiment to the Asiatic islanders, but is also largely used by the Birmese [Burmese], the Siamese, and Cochin-Chinese. It is, indeed, in great measure essentially the same article known to the Greeks and Romans under the name of garum, the produce of a Mediterranean fish.”[^3]
 
 ![](/images/Vol%2019%20Issue%201/Balacan/balacan_2.png)
-<div style="background-color: white;">Different types of shrimp paste from Indonesia, Malaysia, Myanmar, Thailand, the Philippines and Vietnam. <i>Photo by Jimmy Yap.</i>
+<div style="background-color: white;">Belacan sold in a market in Malaysia, 2007. Photo by Yun Huang Yong. <i>Image reproduced from flickr (Creative Commons Attribution-ShareAlike 2.0 Generic; CC BY-SA 2.0).</i>
 </div>
 
 Today, the Malay term *belacan* is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called *kapi*, which is borrowed from the term *ngapi* (literally “pressed fish”) used in Myanmar, while it is referred to as *mắm tôm* or* mắm ruốc* in Vietnam.
