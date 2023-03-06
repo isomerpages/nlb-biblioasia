@@ -28,7 +28,7 @@ In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countrie
 <div style="background-color: white;">Belacan sold in a market in Malaysia, 2007. Photo by Yun Huang Yong. <i>Image reproduced from flickr (Creative Commons Attribution-ShareAlike 2.0 Generic; CC BY-SA 2.0).</i>
 </div>
 
-Today, the Malay term *belacan* is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called *kapi*, which is borrowed from the term *ngapi* (literally “pressed fish”) used in Myanmar, while it is referred to as *mắm tôm* or* mắm ruốc* in Vietnam.
+Today, the Malay term *belacan* is commonly used in Singapore, Malaysia, Brunei and parts of Indonesia to refer typically to shrimp paste. In Thailand, Laos and Cambodia, it is called *kapi*, which is borrowed from the term *ngapi* (literally “pressed fish”) used in Myanmar, while it is referred to as *mắm tôm* or *mắm ruốc* in Vietnam.
 
 Because it is rich in glutamates and nucleotides, *belacan* imparts savouriness to any dish, what is often described as “umami”. Other foods that are rich in umami include fish sauce, soya sauce, kimchi, mushroom, ripe tomato, anchovy and cheese.
 
