@@ -7,6 +7,9 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 ---
 #### Principal Librarian _Lim Kim Char_ and Senior Library _Ivy Lee_ introduce the life and works of Professor Lee Kim Long as well as the highlights of his donation to the library.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/Lee%20Kim%20Long%20and%20Lim%20Kim%20Char.jpg">
+ <div style="background-color: white;">李金龙教授与本文作者李金菊医师于2007年民丹岛义诊。</div>
+
 #### **简介李金龙医师(1936–2008)**
 
 李金龙医师是新加坡资深中医师,行医30余年，临床经验丰 富，擅长针灸科、中医男科、中医眼科及中医脑科，也是东南 亚的中医药史学家，作家与寓言作家。他是一位令人敬佩的 医师,不幸于2008年1月1日逝世，享年73 岁。
@@ -111,6 +114,3 @@ This article is an introduction to the life and works of Professor Lee Kim Long 
 张曦娜 \[Zhang Xina\]. (2008年3月14日). [忆新加坡 “义诊之父”李金龙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080314-1.2.59.5) \[Recalling Singapore's "Father of Free Clinic" Li Jinlong\], _联合早报_ _Lianhe Zaoba_o, p. 8. From NewspaperSG.
 
 吴淑贤 \[Wu Shuxian\]. (2008年3月17日). [300名中医界人事与公众追念李金龙医师可贵医德](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080317-1.2.10.11) \[300 TCM personnel and the general public commemorate Dr. Li Jinlong's valuable medical ethics\], _联合早报_ _Lianhe Zaobao, p. 7. From NewspaperSG.
-
-
-
