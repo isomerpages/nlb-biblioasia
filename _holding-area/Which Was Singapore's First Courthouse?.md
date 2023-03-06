@@ -8,6 +8,13 @@ description: Singapore’s former Parliament building, known today as The Arts
 #### Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse from 1828 to 1939. Prior to that, legal hearings were held in at least three other venues.
 By Kevin Y.L. Tan
 
+![](/images/Vol%2019%20Issue%201/Courthouse/Former_courthouse.png)
+<div style="background-color: white;">Singapore’s former courthouse off High Street, 1925–35. It was
+originally built in 1827 as a home for the Scottish merchant, John
+Argyle Maxwell. The building is known as The Arts House today. <i>Lim
+Kheng Chye Collection, courtesy of National Archives of Singapore.</i>
+</div>
+
 Official records establish that Singapore’s first courthouse was located in a building at Empress Place, off High Street, known today as The Arts House. While it was built for Scottish merchant John Argyle Maxwell in 1827, he never used it for his residence, and the building was leased to the government as a courthouse. On 22 May 1828, it was used for the first-ever session of the Court of Judicature of the Prince of Wales Island (Penang), Singapore and Melaka held in Singapore.
 
 In this sense, it would be correct to say that Maxwell’s House was Singapore’s first courthouse. 
