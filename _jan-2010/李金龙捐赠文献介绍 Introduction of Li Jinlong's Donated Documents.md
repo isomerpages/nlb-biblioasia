@@ -84,6 +84,9 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 
 #### **易经研究**
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/Lee%20Kim%20Long%20bk%206.jpg">
+ <div style="background-color: white;">«李松寓言»收录了李金龙医师500则寓言作 品,并于2007年荣获 "冰心文学奖"。 All rights reserved, Singapore Literature Society, 2002.</div>
+
 李医师曾经在上 海复旦大学中文 系钻研过《易经》 ，因 此他 的收 藏 里面也包含了多 本与《易经》有关 的书籍。他甚至將 他对《易经》的理 解，深入浅出地编 写成一本书，为的 就是让普通的读 者了解《易经》。 《易经》的寓言作 品是世界上最早的 寓言作品，也是中 国寓言文学的开 山鼻祖。李医师在 2006年创作并出版了《周易寓言》.
 
 #### **寓言故事**
