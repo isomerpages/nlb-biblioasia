@@ -31,9 +31,7 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 
 李金龙医师小时候家境贫穷，导致他小时的学习是以断断 续续，半工半读的方式完成。但是他勤奋好学，加上他丰富 的生活经历，所以毕生出版的著作非常多样化。李医师的著 作基本上可以划分为三大类：
 
-• 医学文章 <br>  
-• 文学作品<br> 
-• 寓言故事 
+• 医学文章 <br>  • 文学作品<br> • 寓言故事 
 
 我们在这里大略將李医师的作品给予介绍。
 
@@ -82,8 +80,3 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 #### **The Lee Kim Long Collection**
 
 This article is an introduction to the life and works of Professor Lee Kim Long as well as the highlights of his donation to the library. Prominent Chinese physician Lee Kim Long passed away in 2008 at the age of 73. He specialised in acupuncture and was a respected physician in the medical circle. In more than 30 years of his practice, Professor Lee had published more than 50 medical-related books, including books that traced the history of traditional Chinese medicine in Southeast Asia. He led numerous medical trips to impoverished countries in Southeast Asia to provide free medical services to the poor and nurtured many in the new generation of local Chinese physicians. Professor Lee was also a prolific writer, having published a substantial collection of prose and fables with a local flavour. He was awarded the prestigious “Bing Xin Literature Prize” in China for his outstanding collection of Chinese fables in 2007. Professor Lee’s family donated the books that he had collected and published to the National Library. A total of 300 titles of this collection is available for public viewing at the Donors’ Gallery on Level 10 of the National Library. The public is welcome to browse and read his collection in the library.
-
-
-
-
-
