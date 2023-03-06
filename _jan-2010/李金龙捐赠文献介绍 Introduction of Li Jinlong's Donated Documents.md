@@ -61,6 +61,27 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 
 李金龙捐赠文献 大约可分为以下几 类： <br> • 医学书籍 <br> • 儒家思想  <br>• 易经研究  <br>• 寓言故事
 
+#### **医学书籍**
+
+身为医师，李金龙 收藏也反映出他对 工作的热忱。医学 书籍在他的丛书里 占大多数，内容非 常广泛。即使已是 资深医师，他还是 参考大量的针灸、 经 穴 、脑 病 、癫 痫、精神病、癌症 等各类疾病的治 疗参考书籍。
+
+#### **儒家思想**
+
+李医师一生的行为、思想，都堪受儒家深深的影响。除了从 他积极向上，充满人生哲理的文学作品看得出这一点以外， 他平时爱看的书籍也透露了他偏爱儒家伦理的原因。他丰 富的收藏当中就有许多本与儒学经典有关的书籍，如《礼 记》、《荀子》、《庄子》、《孔子》、《孟子》、《论语》等多部 作品。
+
+#### **易经研究**
+
+李医师曾经在上 海复旦大学中文 系钻研过《易经》 ，因 此他 的收 藏 里面也包含了多 本与《易经》有关 的书籍。他甚至將 他对《易经》的理 解，深入浅出地编 写成一本书，为的 就是让普通的读 者了解《易经》。 《易经》的寓言作 品是世界上最早的 寓言作品，也是中 国寓言文学的开 山鼻祖。李医师在 2006年创作并出版了《周易寓言》.
+
+#### **寓言故事**
+
+身为本地寓言专家，李医师的藏书当中当然少不了别的作家 写的寓言作品。 他不单只阅读中国寓言，也爱看外国寓言； 如古希腊的《伊索寓言》、《拉封丹寓言》、土耳其的《阿凡 提寓言》、《童话寓言》等等。
+
+李金龙捐赠书籍展示在李光前参考图书馆十楼捐赠厅。欢 迎公众前往参观与浏览。
+
+#### **The Lee Kim Long Collection**
+
+This article is an introduction to the life and works of Professor Lee Kim Long as well as the highlights of his donation to the library. Prominent Chinese physician Lee Kim Long passed away in 2008 at the age of 73. He specialised in acupuncture and was a respected physician in the medical circle. In more than 30 years of his practice, Professor Lee had published more than 50 medical-related books, including books that traced the history of traditional Chinese medicine in Southeast Asia. He led numerous medical trips to impoverished countries in Southeast Asia to provide free medical services to the poor and nurtured many in the new generation of local Chinese physicians. Professor Lee was also a prolific writer, having published a substantial collection of prose and fables with a local flavour. He was awarded the prestigious “Bing Xin Literature Prize” in China for his outstanding collection of Chinese fables in 2007. Professor Lee’s family donated the books that he had collected and published to the National Library. A total of 300 titles of this collection is available for public viewing at the Donors’ Gallery on Level 10 of the National Library. The public is welcome to browse and read his collection in the library.
 
 
 
