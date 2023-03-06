@@ -116,13 +116,13 @@ Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abu
 	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.<br><br>
 <b>Method:</b><br>
 1. Do not wash the shrimps unless it is with fresh seawater. Sort through the shrimp to remove small fish, seaweed or other foreign matter.<br>
-2. Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry<br>
+2. Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry.<br>
 3. Pound the shrimp. The shrimps will still be moist and will easily bind into a paste. Shape into small cakes, the size of an egg and flatten. <br>
 4. Dry these in the sun for at least two days. Pound once more to get a finer paste. Re-shape into cakes and dry in the sun for two more days or more depending on the sunshine. <br>
 5. Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.<br>
 6. When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry. <br>
-7. <i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. <br>
-</ol><br>
+7. <i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. 
+</ol><br><br>
 	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
 	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).<br><br>
 <b>Ingredients:</b><br>
@@ -136,8 +136,8 @@ Sugar to taste<br>
 <b>Method:</b><br>
 	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
 	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
-	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
-	</ol><br>
+	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.</ol><br><br>
+	<br>
 <img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
 	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
