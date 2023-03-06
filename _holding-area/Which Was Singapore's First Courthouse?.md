@@ -19,6 +19,8 @@ Official records establish that Singapore’s first courthouse was located in a 
 
 In this sense, it would be correct to say that Maxwell’s House was Singapore’s first courthouse. 
 
+![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_house.png)
+
 However, this would imply that no courts had sat in Singapore between the time of Stamford Raffles’ arrival in January 1819 and May 1828, a period of close to 10 years. This is certainly not the case. In fact, the building at Empress Place is the fourth building in Singapore to have been used as a courthouse.
 
 #### **British Jurisdiction in Early Singapore**
@@ -57,17 +59,23 @@ Article 4 established the Rooma Bechara (“Rumah Bicara” in its modern-day sp
 
 … the Court or *Bechara*, consisting of the Sultan, Temenggong & British Resident, which assembles at present usually every Monday morning to hear and decide in whatever courses or complaints may be brought before it, be in future, assisted by an executive officer or agent of the Court, to be a British gentleman, appointed & paid by Government, whose duty it will be to take examination in conjunction with the Captains or Native Chiefs on the first instance, into all complaints, civil or criminal, which may be brought before him, & to present a written record in English & Malays to the Court or Bechara, at which, all parties & witnesses must attend to undergo such further examination, as may be deemed necessary; a Native Writer & a few Peons to be assigned to the Agent of the Court of Bechara for the police duties of the Settlement.[^10]
 
+![](/images/Vol%2019%20Issue%201/Courthouse/Rooma_Bechara.png)
+
 Farquhar recommended appointing David S. Napier to the post of Assistant or Agent in the Police Department at a monthly salary of 150 Spanish dollars to assist in the court’s work. So while we have no record of the kinds of cases brought before the Rooma Bechara each Monday morning, there would have been sufficient work to warrant such a request from Farquhar. What Farquhar had proposed was a more formalised mode of recording witness accounts and cross-examinations by appointing Napier as something akin to a registrar of the court. Raffles, however, turned down Farquhar’s request and ordered that “all the duties of police” and the court be “conducted by the Resident himself until further orders”.[^11]
 
 Where was this Rooma Bechara located? From the records, we know that the Bechara met at what was then known as “the Residency” – a cluster of wood and attap “bungalows and outhouses” that Farquhar erected and kept “in repair” for his accommodation as Resident, and which were also used as a treasury, public office, courthouse and church.[^12]
 
 This cluster of buildings was located at what is now the junction of High Street and St Andrew’s Road, where the old Supreme Court building (it is today part of the National Gallery Singapore, along with the former City Hall building) stands.[^13] The structures making up the Residency can be seen in the shaded portion of the well-known sketch “Singapore from the Sea, 1823” by Assistant Engineer and Surveyor of Public Lands Lieutenant Philip Jackson. It is, however, impossible to identify exactly which of these buildings was used as the Rooma Bechara, but this would have been the location of Singapore’s very first courthouse.
 
+![](/images/Vol%2019%20Issue%201/Courthouse/Front_elevation.png)
+
 The Residency was, from 1819 to 1823, the focal point of the settlement, and visitors would typically land at the Resident’s Steps and then proceed to the Residency compound. The Resident appointed “Captains” or “Chiefs” – prominent and respected community leaders – for the various ethnic groups and entrusted each with the preservation of peace and settlement of minor disputes.[^14] In 1820, there was a captain for the Chinese (who was assisted by two deputies), and one captain each for the Bugis, Malay and Chulia populations.[^15]
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">    
 
 <b>Maxwell's House and the Supreme Court</b><br><br>
+	
+	![](/images/Vol%2019%20Issue%201/Courthouse/Old_supreme_court.png)
 
 Maxwell’s House was used as the Court of Judicature and other government offices until 1839 when a separate single-storey building was erected on the side of the original building for the sole use of the court. Unfortunately, it was too noisy, being close to the adjoining shipbuilding yard. However, nothing was done until 1864 when a new building was built nearby to house the court. This building, which was completed in 1867,  forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. This was Singapore’s first purpose-built courthouse.<br><br>
 
