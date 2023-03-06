@@ -23,7 +23,7 @@ Call no.: RSING 330.092 QUA
 
 In 1960, Dr Albert Winsemius (1910–96) led the United Nations Development Programme’s first mission to Singapore to advise the government on industrialisation. The book examines his affinity with Singapore, his contributions to the nation’s economic development, his legacy, and his influence on past, current and future economic planners.
 
-#### **Everyday Modernism: Architecture and Society in Singapore**
+#### **[Everyday Modernism: Architecture and Society in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205839178)**
 By Jiat-Hwee Chang and Justin Zhuang; photographs by Darren Soh 
 
 NUS Press (2023), 352 pages <br>
