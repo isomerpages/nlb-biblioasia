@@ -56,7 +56,7 @@ In 1885, Scottish ornithologist Henry O. Forbes, wrote about his encounter with 
 
 ‘Oh! Master, that is trassi.’
 
-‘*Trassi*? What is trassi, in the name of goodness!’
+‘Trassi? What is *trassi*, in the name of goodness!’
 
 ‘Good for eating, master; –in stew.’
 
