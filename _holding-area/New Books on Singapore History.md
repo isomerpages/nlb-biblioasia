@@ -13,7 +13,7 @@ Call no.: RSING 297.355957 REV
 
 Founded in 1820 by Arab philanthropist Syed Omar Ali Aljunied, Masjid Omar Kampong Melaka is Singapore’s oldest mosque. The book traces Syed Omar’s travels from Yemen to Palembang and finally to Singapore, where he built a *surau* (prayer hall). Sharing their stories in this book are the community of Muslims, the founder’s family, Singapore’s leaders and town planners, and heritage buffs.  
 
-#### **Albert Winsemius and Singapore: Here It Is Going to Happen**
+#### **[Albert Winsemius and Singapore: Here It Is Going to Happen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205707585)**
 By Euston Quah, with Luke Nursultan Iuldashov and Zach Lee
 
 World Scientific (2022), 966 pages <br>
