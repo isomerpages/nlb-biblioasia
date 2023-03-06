@@ -89,7 +89,8 @@ The Residency was, from 1819 to 1823, the focal point of the settlement, and vis
 Maxwell’s House was used as the Court of Judicature and other government offices until 1839 when a separate single-storey building was erected on the side of the original building for the sole use of the court. Unfortunately, it was too noisy, being close to the adjoining shipbuilding yard. However, nothing was done until 1864 when a new building was built nearby to house the court. This building, which was completed in 1867,  forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. This was Singapore’s first purpose-built courthouse.<br><br>
 
 ![](/images/Vol%2019%20Issue%201/Courthouse/First_purpose-built_courthouse.png)
-	
+<div> Singapore’s first purpose-built courthouse at Empress Place, 1860–99. This building forms the oldest section of the Asian Civilisations Museum today, nearest to Cavenagh Bridge. <i>The National Archives of the UK, ref. CO1069-484 (92).</i></div>
+<br>
 In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.<br><br>
 
 In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.<br><br>
