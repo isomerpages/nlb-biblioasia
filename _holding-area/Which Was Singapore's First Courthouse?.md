@@ -150,7 +150,7 @@ In view of history, it may said that while Maxwell’s House was the first “of
 
 [^11]: Raffles Museum and Library, “Raffles to Farquhar, 20 March 1820,” *[L10: Singapore: Letters to Bencoolen](https://www.nas.gov.sg/archivesonline/private_records/record-details/b544bcee-e33b-11e9-b18a-001a4a5ba61b)*, Straits Settlements Records, 319. (From National Archives of Singapore)
 
-[^12]: Raffles Museum and Library, “Farquhar to Hull, 22 March 1823,” *L13: Raffles: Letters from Singapore*, Straits Settlements Records, 283–87. (From National Archives of Singapore, microfilm no. NL58)
+[^12]: Raffles Museum and Library, “Farquhar to Hull, 22 March 1823,” *[L13: Raffles: Letters from Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/45048eea-0a73-11e9-9481-001a4a5ba61b)*, Straits Settlements Records, 283–87. (From National Archives of Singapore, microfilm no. NL58)
 
 [^13]: H.F. Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 1 (161) (July 1953): 54. (From JSTOR via NLB’s eResources website). This site used to lay a short distance from the seafront as the Padang – then known as The Esplanade – was only half its current width. See Kevin YL Tan, “A History of the Padang,” *BiblioAsia* 18 no. 1 (April–June 2022). Farquhar’s Residency buildings were eventually abandoned. In 1827, Lieutenant Jackson reported that the old Residency area was “still covered with the decayed attap buildings belonging to Colonel Farquhar”. See Pearson, “Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch Attributed to Lt. Phillip Jackson,” 55.
 
