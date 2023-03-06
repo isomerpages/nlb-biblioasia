@@ -39,8 +39,14 @@ Now I am looking forward very much to my six months at the National Library as a
 
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Dr Julian Davison was awarded the Lee Kong Chian Research Fellowship by Ms Ngian Lek Choh, Director, National Library at a signing ceremony held on 14 October 2009. He has a PhD in Anthropology from the School of Oriental and African Studies, University of London. His research topic is Singapore in 1920s & 1930s/Early Modern.<br><br>The Lee Kong Chian Research Fellowship invites scholars, practitioners and librarians to undertake collection-related research and publish on the National Library of Singapore's donor and prized collections. The fellowship aims to position the National Library Board as the first stop for Asian collection services. It is open to both local and foreign applicants, who should preferably have an established record of achievement in their chosen field of research and the potential to excel further.<br><br>For information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>
-
 Email: LKCRF@nlb.gov.sg<br> Tel: 6332 3348<br> Fax: 6333 7990<br></div>
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Julian%20Davision1.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Bonny Tan</b> <br> Lee Kong Chian Research Fellow <br>  National Library</center></div>
+
 
 
 
