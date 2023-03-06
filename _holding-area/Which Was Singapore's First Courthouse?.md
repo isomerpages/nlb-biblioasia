@@ -122,9 +122,10 @@ Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i><a
 href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718">	One
 Hundred Years of Singapore</a></i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS])<br><br>
 
-“Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, [https://artshouselimited.sg/tah-about#section-id-1643460266223](https://artshouselimited.sg/tah-about#section-id-1643460266223).<br><br>
+“Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, https://artshouselimited.sg/tah-about#section-id-1643460266223.<br><br>
 
-Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
+Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s <a 	
+href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 </div>
 
 #### **The Second Charter of Justice in Singapore**
