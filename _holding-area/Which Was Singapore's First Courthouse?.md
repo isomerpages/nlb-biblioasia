@@ -101,23 +101,23 @@ From 1965 to 1999, it was known as Parliament House until Parliament moved into 
 
 The Supreme Court, meanwhile, occupied the building at the junction of St Andrew’s Road and High Street until 2005 when it moved to its current location at 1 Supreme Court Lane. The old Supreme Court building, together with the former City Hall building next to it, now house National Gallery Singapore.<br><br>
 
-REFERENCES<br><br>
+<b>REFERENCES</b><br><br>
 
-Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s eResources website)<br><br>
+Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
 	
-“Dignified Pageantry at Opening of New Supreme Court,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
+“[Dignified Pageantry at Opening of New Supreme Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390804-1.2.79.aspx),” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
 
-“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s eResources website)<br><br>
+“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
 
-Faizah Zakaria, “Supreme Court,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
+Faizah Zakaria, “[Supreme Court](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1770_2011-04-05.html),” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
 
-Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s eResources website)<br><br>
+Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
 
-Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i>One Hundred Years of Singapore</i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS])<br><br>
+Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i>[One Hundred Years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)</i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS])<br><br>
 
-“Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, https://artshouselimited.sg/tah-about#section-id-1643460266223.<br><br>
+“Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, [https://artshouselimited.sg/tah-about#section-id-1643460266223](https://artshouselimited.sg/tah-about#section-id-1643460266223).<br><br>
 
-Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s eResources website)<br><br>
+Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)<br><br>
 </div>
 
 #### **The Second Charter of Justice in Singapore**
