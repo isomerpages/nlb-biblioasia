@@ -141,8 +141,8 @@ Sugar to taste<br>
 <img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
 	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
-	“Making Belacan Is Hard Work,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
-Rita Zahara, <i>Malay Heritage Cooking</i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
+	“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780810-1.2.56.1">Making Belacan Is Hard Work</a>,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
+Rita Zahara, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14231775">Malay Heritage Cooking</a></i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
 Sa’adon Ismail, “Belacan Yang Dijual di Sini Ada Ramuan Rhodamine B,” <i>Berita Harian</i>, 9 August 1973, 12. (From NewspaperSG)<br><br>
 Salim Osman, “‘Racun Dlm Belacan’ Disiasat,” <i>Berita Harian</i>, 3 July 1973, 1. (From NewspaperSG)<br><br>
 	Salma Semono, “Penggunaan Belacan Kurang Sejak Julai Lalu,” <i>Berita Harian</i>, 15 March 1974, 3. (From NewspaperSG)
