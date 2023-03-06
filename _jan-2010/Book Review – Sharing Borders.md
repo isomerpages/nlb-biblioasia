@@ -26,13 +26,13 @@ The value of such literary criticism that assesses and evaluates our literary he
 
 The editors have expressed their hope to see others build on this work by addressing research gaps such as the anthologising process and a survey on the available body of literary criticism. This reviewer would like to add to the list: a study on the writings of Singaporean and Malaysian diasporic or “globalised” writers such Wena Poon, Fiona Cheong, Lydia Kwa, Tash Aw, Rani Manicka, Tan Twan Eng and Preeta Samarasan, and how they craft their “Singapore” or “Malaysia” from the borders.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <i> Sharing Borders: Studies in Contemporary SingaporeanMalaysian Literature (I & II) </i>, published by the National Library Board (NLB) in partnership with the National Arts Council (NAC), was launched at The Arts House on 26 October 2009.<br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <i> Sharing Borders: Studies in Contemporary SingaporeanMalaysian Literature (I & II) </i>, published by the National Library Board (NLB) in partnership with the National Arts Council (NAC), was launched at The Arts House on 26 October 2009.<br><br>
 	
-This publication is part of the National Library’s efforts to preserve the nation's literary heritage and to promote a better appreciation of Singaporean literature in English. It also gives insights into the origins of literary works by Singaporean and Malaysian writers and help readers understand how our local literature has evolved. It is hoped that this publication will initiate scholarly research and collaboration between Singapore-based academics and their counterparts from the region.<br>
+This publication is part of the National Library’s efforts to preserve the nation's literary heritage and to promote a better appreciation of Singaporean literature in English. It also gives insights into the origins of literary works by Singaporean and Malaysian writers and help readers understand how our local literature has evolved. It is hoped that this publication will initiate scholarly research and collaboration between Singapore-based academics and their counterparts from the region.<br><br>
 	
-NAC believes that this important publication will help generate a deeper and broader understanding of the dialogue between two countries which have shared their social and cultural histories, and lead to a greater synergy and richness of our national literatures.<br>
+NAC believes that this important publication will help generate a deeper and broader understanding of the dialogue between two countries which have shared their social and cultural histories, and lead to a greater synergy and richness of our national literatures.<br><br>
 	
-The launch event was officiated by Mr Edmund Cheng, Chairman, NAC; Mr Benson Phua, Chief Executive Officer, NAC; Dr N Varaprasad, Chief Executive, NLB; and Ms Ngian Lek Choh, Deputy Chief Executive, NLB.<br>
+The launch event was officiated by Mr Edmund Cheng, Chairman, NAC; Mr Benson Phua, Chief Executive Officer, NAC; Dr N Varaprasad, Chief Executive, NLB; and Ms Ngian Lek Choh, Deputy Chief Executive, NLB.<br><br>
 	
 <i>Sharing Borders</i> is available for sale at $40.00 (paperback) and $50.00 (hardcover) for each volume at local bookstores (prices are before GST). Copies are also available for reference and loan at the National Library and network of Public Libraries (Call no.: RSING S820.9 SHA)</div>
 
@@ -42,7 +42,3 @@ The launch event was officiated by Mr Edmund Cheng, Chairman, NAC; Mr Benson Phu
 <br/>
 <img src="/images/Authors/Gracie%20Lee.jpg" style="width: 100px; height: 100px;"/>
 <center><b>Gracie Lee</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
-
-
-
-
