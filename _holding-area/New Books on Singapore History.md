@@ -43,7 +43,7 @@ From PublicationSG
 
 This book tells the stories of early Indian and Hindu settlers to Singapore, the colonial-era culture and architecture, the impact of an administrative Hindu board, and the many festive traditions celebrated at local temples.
 
-#### **ROAR: Football Legends of Singapore**
+#### **[ROAR: Football Legends of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205824750)**
 
 By A. Thiyaga Raju; edited by Gary Koh
 
