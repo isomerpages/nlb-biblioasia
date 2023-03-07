@@ -20,7 +20,7 @@ Official records establish that Singapore’s first courthouse was located in a 
 
 In this sense, it would be correct to say that Maxwell’s House was Singapore’s first courthouse. 
 
-![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_house.png)
+![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_House.png)
 <div style="background-color: white;">The Supreme Court remained in Maxwell’s House (pictured) until
 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
 </div>
