@@ -128,10 +128,10 @@ In the meantime, Maxwell’s House was becoming overcrowded by the various gover
 
 In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.<br><br>
 	
-![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_House.png)
+<img src="/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_House.png">
 <div> The Supreme Court remained in Maxwell’s House (pictured) until
 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
-</div>
+</div><br>
 	
 After the Supreme Court moved out, Maxwell’s House was used as a government storehouse and as government offices before being renovated in the mid-1950s to become the Legislative Assembly House.<br><br>
 
