@@ -1,10 +1,12 @@
 ---
 title: Women and the Typewriter in Singapore's Herstories
 permalink: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-description: ""
+description: The humble typewriter helped women become better educated, enter
+  the workforce and contribute to society.
 image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
   Typewriter_Home page.jpg
 ---
+
 
 
 

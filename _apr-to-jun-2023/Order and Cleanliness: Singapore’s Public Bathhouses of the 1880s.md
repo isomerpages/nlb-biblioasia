@@ -1,9 +1,11 @@
 ---
 title: "Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s"
 permalink: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
-description: ""
-image: /images/Vol 19 Issue 1/Public Bathhouses/Children.png
+description: Three public bathhouses at Ellenborough Market, Canton Street and
+  Clyde Terrace were built by the Municipality in the late 19th century.
+image: /images/Vol 19 Issue 1/Public Bathhouses/Trees_and_lake.png
 ---
+
 
 
 

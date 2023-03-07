@@ -1,8 +1,12 @@
 ---
 title: Portugal's Linguistic Legacy in Southeast Asia
 permalink: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
-description: ""
+description: While Portugal may not have had a large presence in this region,
+  remnants of the Portuguese language continue to linger on, in some places more
+  than others.
+image: /images/Vol 19 Issue 1/Portuguese/People_in_village.png
 ---
+
 #### While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others.
 By João Oliveira
 

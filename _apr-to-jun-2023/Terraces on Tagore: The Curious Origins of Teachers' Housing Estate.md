@@ -1,10 +1,10 @@
 ---
 title: "Terraces on Tagore: The Curious Origins of Teachers' Housing Estate"
 permalink: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
-description: ""
+description: The Singapore Teachers’ Union wanted a clubhouse. They ended up
+  building a housing estate.
+image: /images/Vol 19 Issue 1/Teacher's Housing Estate/Teachers_housing_estate.png
 ---
-
-
 #### The Singapore Teachers’ Union wanted a clubhouse. They ended up building a housing estate. 
 By Sharon Teng
 
@@ -27,6 +27,12 @@ Work on the 20-acre site began in the late 1960s. When the estate was officially
 The STU mooted the idea of building a Teachers’ Estate with its own clubhouse in 1967.[^2]  Yeoh Beng Cheow, a teacher at Bartley Secondary school and the union’s deputy general secretary in 1968, was involved in the conception and development of Teachers’ Housing Estate, along with then STU president Karim Bagoo.[^3]
 
 In a 1995 interview with the *Straits Times*, Yeoh said that the union had planned to build a clubhouse for several years but nothing was done, so he and his colleagues decided that the STU committee would do so. Unfortunately, there were problems. “The union could not afford to buy a centrally sited piece of land large enough for a clubhouse and for outdoor facilities,” according to the news report. The union considered a site further from the city which would be cheaper. However, being further away would not be convenient for members. “In the end, the committee came up with a novel plan: develop a housing estate around the clubhouse,” the paper reported.[^4]
+
+ <img style="width: 80%;"
+src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Site%20of%20Teachers'%20Estate.jpg">
+<div style="background-color: white;">The construction site of Teachers’ Housing Estate, 1968. <i>Image reproduced from Yeoh Beng Cheow, “Report on the Teachers’ Housing Estate,” Teachers’ Forum no. 1 (April– May 1968) (Singapore: Singapore Teachers’ Union, 1968), 12. (From National Library, Singapore, call no. RCLOS 331.88113711 TF).</i>
+</div>
+
 
 ![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Construction_site.png)
 <div style="background-color: white;"> Teachers visiting the Teachers’ Centre construction site, 1972. <i>Image reproduced from Mentor vol. 2, no. 6 (October 1972) (Singapore: Singapore Teachers’ Union, 1971–), 6. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
@@ -92,6 +98,9 @@ To raise money, the STU launched a series of fundraising activities from October
 <div style="background-color: white;">The "trishawthon” event helped raise funds for building the Teachers’ Centre, 1973. <i>Image reproduced from Mentor vol. 5, no. 1 (1975) (Singapore: Singapore Teachers’ Union, 1971–), 14. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
 </div>
 
+![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Trishawton_Mentor.jpg)
+<div style="background-color: white;">Staff unions of other organisations also participated in the “trishawthon”. <i>Image reproduced from Mentor vol. 2, no. 10 (March 1973) (Singapore: Singapore Teachers’ Union, 1971–), 6. (From National Library, Singapore, call no. RSING 331.881137 M).</i>
+</div>
 
 The Teachers’ Centre was finally completed in the second half of 1973, and on 19 October 1974, the STU held its anniversary celebrations at the centre for the very first time. However, not all facilities had been built. The swimming pool was completed in 1975, the tennis court in 1978, and two squash courts were only added 10 years later.[^33]
 

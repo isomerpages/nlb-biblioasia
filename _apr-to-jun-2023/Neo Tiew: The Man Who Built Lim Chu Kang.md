@@ -1,8 +1,11 @@
 ---
 title: "Neo Tiew: The Man Who Built Lim Chu Kang"
 permalink: /vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/
-description: ""
+description: The opening up of Lim Chu Kang owes much to the efforts of Neo
+  Tiew, who helped clear the land and later became the headman of the area.
+image: /images/Vol 19 Issue 1/Neo Tiew/Neo_Tiew.png
 ---
+
 #### The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 by Alvin Tan
 
