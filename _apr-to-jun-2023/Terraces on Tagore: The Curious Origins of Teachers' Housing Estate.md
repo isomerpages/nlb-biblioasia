@@ -28,6 +28,11 @@ The STU mooted the idea of building a Teachers’ Estate with its own clubhouse 
 
 In a 1995 interview with the *Straits Times*, Yeoh said that the union had planned to build a clubhouse for several years but nothing was done, so he and his colleagues decided that the STU committee would do so. Unfortunately, there were problems. “The union could not afford to buy a centrally sited piece of land large enough for a clubhouse and for outdoor facilities,” according to the news report. The union considered a site further from the city which would be cheaper. However, being further away would not be convenient for members. “In the end, the committee came up with a novel plan: develop a housing estate around the clubhouse,” the paper reported.[^4]
 
+ <img style="width: 80%;"
+src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Site%20of%20Teachers'%20Estate.jpg">
+<div style="background-color: #fff6ba;">The construction site of Teachers’ Housing Estate, 1968. <i>Image reproduced from Yeoh Beng Cheow, “Report on the Teachers’ Housing Estate,” Teachers’ Forum no. 1 (April– May 1968) (Singapore: Singapore Teachers’ Union, 1968), 12. (From National Library, Singapore, call no. RCLOS 331.88113711 TF).</i>
+</div><br>
+
  ![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Site%20of%20Teachers'%20Estate.jpg)
 <div style="background-color: white;"> The construction site of Teachers’ Housing Estate, 1968. <i>Image reproduced from Yeoh Beng Cheow, “Report on the Teachers’ Housing Estate,” Teachers’ Forum no. 1 (April– May 1968) (Singapore: Singapore Teachers’ Union, 1968), 12. (From National Library, Singapore, call no. RCLOS 331.88113711 TF).</i>
 </div>
