@@ -20,11 +20,6 @@ Official records establish that Singapore’s first courthouse was located in a 
 
 In this sense, it would be correct to say that Maxwell’s House was Singapore’s first courthouse. 
 
-![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_House.png)
-<div style="background-color: white;">The Supreme Court remained in Maxwell’s House (pictured) until
-1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
-</div>
-
 However, this would imply that no courts had sat in Singapore between the time of Stamford Raffles’ arrival in January 1819 and May 1828, a period of close to 10 years. This is certainly not the case. In fact, the building at Empress Place is the fourth building in Singapore to have been used as a courthouse.
 
 #### **British Jurisdiction in Early Singapore**
@@ -95,6 +90,11 @@ Maxwell’s House was used as the Court of Judicature and other government offic
 In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.<br><br>
 
 In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.<br><br>
+	
+![](/images/Vol%2019%20Issue%201/Courthouse/Maxwell's_House.png)
+<div> The Supreme Court remained in Maxwell’s House (pictured) until
+1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
+</div>
 	
 After the Supreme Court moved out, Maxwell’s House was used as a government storehouse and as government offices before being renovated in the mid-1950s to become the Legislative Assembly House.<br><br>
 
