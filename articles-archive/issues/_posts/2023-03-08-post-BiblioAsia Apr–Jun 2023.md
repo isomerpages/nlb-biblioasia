@@ -26,9 +26,9 @@ In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/singapores-first-courthouse/">Which Was Singapore’s First Courthouse?</a><br>Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse between 1828 and 1939. But before 1828, legal hearings in Singapore were conducted in at least three other venues. *Kevin Y.L. Tan*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_MaidenLim.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">Women and the Typewriter in
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Women and the Typewriter in
 Singapore’s Herstories</a><br>The humble typewriter helped women become better educated, enter the workforce and contribute to society. *Liew Kai Khiun*.[(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Thaipusam.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Terraces on Tagore: The Curious Origins of Teachers’ Housing Estate</a><br>Built by the Singapore Teachers’ Union in the 1960s, this estate still retains some of its rustic charm and sense of neighbourliness. *Sharon Teng*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_PreparingForWar.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/">Terraces on Tagore: The Curious Origins of Teachers’ Housing Estate</a><br>Built by the Singapore Teachers’ Union in the 1960s, this estate still retains some of its rustic charm and sense of neighbourliness. *Sharon Teng*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_PreparingForWar.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/new-books-singapore-history/">New Books on Singapore History </a><br>New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_NewBook.pdf)
