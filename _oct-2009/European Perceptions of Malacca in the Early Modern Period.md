@@ -22,7 +22,7 @@ During Portuguese control of the city, the references became more common, both i
 
 The overlap in usage between Malacca and Golden Chersonese is discussed in this 1604 text:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“Is it not easie to find Molaco in ancient bookes, which*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*they called the golden Chersonese: the Cape of Comori,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*which was called the Promontorie of Coci; & that great &* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*famous Iland of Sumatra, so well knowne by the ancient*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emsp;&emsp;&emsp;*name of Taprobana.”*[^3]
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“Is it not easie to find Molaco in ancient bookes, which*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*they called the golden Chersonese: the Cape of Comori,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*which was called the Promontorie of Coci; & that great &* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*famous Iland of Sumatra, so well knowne by the ancient*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*name of Taprobana.”*[^3]
 
 The “great & famous illand” description also demonstrates a growing level of assumed knowledge in Europe about the East Indies, and how much they had even by this stage (the English East India Company’s first mission was in 1601) become part of the mental map projected from Europe.
 
@@ -172,6 +172,3 @@ Victor R. Savage, [_Western Impressions of Nature and Landscape in Southeast Asi
 [^15]: Andaya, “[_Malacca Under the Dutch_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636), 206.
 
 [^16]: Huet, _Memoirs of the Dutch Trade_, 212.
-
-
-
