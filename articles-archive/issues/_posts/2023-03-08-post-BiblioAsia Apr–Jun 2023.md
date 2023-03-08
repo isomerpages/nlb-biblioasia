@@ -26,7 +26,8 @@ In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Which Was Singapore’s First Courthouse?</a><br>Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse between 1828 and 1939. But before 1828, legal hearings in Singapore were conducted in at least three other venues. *Kevin Y.L. Tan*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_MaidenLim.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">The Divine Lance: Thaipusam and Murugan Worship in Singapore</a><br>The specific form of Murugan worship during Thaipusam has its roots in the story of Murugan meeting the primeval devotee Idumban. *Nalina Gopal*.[(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Thaipusam.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/">Women and the Typewriter in
+Singapore’s Herstories</a><br>The humble typewriter helped women become better educated, enter the workforce and contribute to society. *Liew Kai Khiun*.[(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Thaipusam.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/preparing-war-singapore/">In Their Own Voices: Preparing for War	in Singapore</a><br>Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units. *Christabel Khoo* and *Mark Wong*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_PreparingForWar.pdf)
 
