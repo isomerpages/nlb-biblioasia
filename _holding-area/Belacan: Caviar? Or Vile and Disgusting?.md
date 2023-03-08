@@ -1,6 +1,6 @@
 ---
 title: "Belacan: Caviar? Or Vile and Disgusting?"
-permalink: /holding-area/shrimp-paste-belacan/
+permalink: /holding-area/vol-19/issue-1/jan-mar-2023/shrimp-paste-belacan/
 description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
   though it takes some getting used to.
 image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
@@ -16,7 +16,7 @@ While there is friendly rivalry between Singapore and Malaysia over who makes be
 
 In 2019, Prime Minister Lee Hsien Loong conveyed his thanks to the Malaysian queen for regularly sending over her *sambal belacan* to his family. “Thank you for your warmth and kindness, sending my father (and me) your special sambal belacan all these years!” he tweeted on 28 October 2019. “I hope you enjoy making it as much as we enjoy eating it!” A few days before, Raja Permaisuri Agong Tunku Hajah Azizah Aminah Maimunah Iskandariah had shared on her Instagram account a letter written in July 2009 by former Prime Minister Lee Kuan Yew. He wrote that the six packets of *sambal belacan* she had given him were delicious. “I shared them with my two sons. They have all been consumed. It is the best chilli belacan we have tasted. Can my family have a few more?”[^1] Since then, she has been regularly sending her *sambal belacan* across the Causeway.
 
-*Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan Chinese meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
+*Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan  meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
 
 Hugh Clifford, who served as Governor of the Straits Settlements between 1927 and 1929, referred to *belacan* as “that evil-smelling condiment which [had] been so ludicrously misnamed the Malayan Caviare” in his 1897 account of the Malay Peninsula. He wrote that the coasts reeked of “rank odours” as a result of women villagers “labouring incessantly in drying and salting the fish which [had] been taken by the men, or pounding prawns into *blâchan*” throughout the fishing season. The stench was so strong that “all the violence of the fresh, strong, monsoon winds” would only “partially purge” the villages of it.[^2]
 
@@ -72,7 +72,7 @@ Notwithstanding these vehement assurances, I made it disappear in the depths of 
 
 Detailed written accounts like this provide insights into people’s attitudes towards *belacan* as well as the people who consume and produce it. A similarly degrading account came from the American naturalist William Hornaday. In his 1885 book, *Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo*, Hornaday remarked how the Chinese fishermen in a village at Sungei Bulu (most probably referring to Sungai Buloh), Selangor, “were engaged in catching prawns and making them up into a stinking paste called *blachang*”. He wrote: “Every house in the village is tumble-down, rickety and dirty beyond description, and the village smells even worse than it looks. The Chinamen live more like hogs than human beings; and, for my part, I would rather take up quarters in a respectable pig-sty than in such house as those are.”[^11]
 
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_4.png)
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_4_edit.png)
 <div style="background-color: white;"><i>Cincalok</i> in a Chinese soup spoon. <i>Cincalok</i> is a fermented shrimp product made from the same tiny shrimp (Acetes spp.) used in <i>belacan</i>. <i>Photo by Jimmy Yap.</i>
 </div>
 
@@ -85,9 +85,6 @@ Hart also wrote that Catholic priests in Mandalay tested the theory that leprosy
 #### **The Belacan Trade**
 
 In 1856, with the passing of the Conservancy Act, trades carried out within the municipality that were defined as offensive and dangerous (including melting tallow, boiling offal or blood, sago manufacture, running brick, pottery or lime kilns, and storing hay, straw, wood or coal) had to be registered and licensed. The new law did not affect the *belacan* trade for four decades, but the Legislative Council of the Straits Settlements amended it in 1896 to include the “drying and sorting of fish, and the drying or sorting or storing of *blachan*”. With that, the owner of a belacan factory or store would need to register for an annual licence as it was a “manufactory or place of business from which offensive or unwholesome smells arise”.[^15] There were reports in Singapore of people being fined for storing *belacan* for trade in buildings without a licence within the municipality. For instance, in December 1897, a Chinese man named Lee Pow was fined 50 dollars for storing 280 bags of *belacan* in a house on Cecil Street without a licence.[^16]
-
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
-<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Image reproduced from “Mak Piah dan laut seperti lagu dan irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG).</i></div>
 
 Although the *belacan* industry in Singapore and Malaya might not have been as economically important as the rubber, tin or even dried and salted fish trades, it was still significant. *Belacan* was a cheap provision for tin miners living in the major tin-mining areas such as Perak, Selangor and Sungei Ujong (now known as Seremban). They ate it with rice to make the meal more flavourful. The traveller and orientalist Thomas J. Newbold wrote in 1839 that Melaka traded items like *belacan*, salted fish, opium, specie, fish roe and tobacco for rice, tin, gold dust, ivory and ebony with states located in the interior. He also noted that Melaka exported a “considerable quantity of *blachang*” along with other commodities like hides, pepper, bricks and tiles as well as some ebony and ivory to Singapore.[^17]
 
@@ -105,6 +102,21 @@ In 1900, there were 36 registered *belacan* factories within Singapore's Municip
 According to the *Annual Report of the Fisheries Department* for 1950 and 1951, the production of *belacan* in Singapore was negligible and much of the supply was imported from Malaya. The Federation of Malaya provided 600 tons of *belacan* for consumption within Singapore in 1950 alone.[^25] Even so, Tampines had a thriving *belacan* industry in the early 1950s that catered to local demand. Sungai Tampines and Sungai Api Api, two rivers that flow through Tampines and Pasir Ris and into the Strait of Johor, were rich in fish and *udang geragau* (small shrimps used to make *belacan*) at high tide.[^26]
 
 Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abundant with these shrimps. This was a popular spot for villagers looking to catch and sell the shrimps fresh or to make them into *belacan*. However, this place no longer exists due to land reclamation. Over time, the *belacan* industry in Tampines declined not only due to reclamation, but also because people moved away from the area. By 1986, more than half of the villagers had moved into flats in new housing estates like Bedok, Hougang and Tampines.[^27]
+
+The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
+
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_3.png)
+<div style="background-color: white;">A fisherman with his <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps). <i>Image reproduced from T.W. Burdon, Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore (Singapore: Printed at the Government Printing Office, 1959), unpaginated (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB]).</i>
+</div>
+
+Despite ongoing urban redevelopment and reclamation, there was still a cottage industry of five households producing *belacan* in Kampong Tampines in the 1980s. In an interview with the *Berita Harian* newspaper in 1986, village resident 72-year-old Sapiah Osman, better known as Mak Piah, said that she had been catching shrimps since she was 35. 
+
+The widow started making *belacan* as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
+
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
+<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Image reproduced from “Mak Piah dan laut seperti lagu dan irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG).</i></div>
+
+While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 	<b>RECIPE FOR BELACAN</b><br><br>
@@ -137,8 +149,7 @@ Sugar to taste<br>
 	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
 	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
 	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
-	<br>
-<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
+<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7_edit.png"><br>
 	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
 	“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780810-1.2.56.1">Making Belacan Is Hard Work</a>,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
@@ -147,18 +158,6 @@ Sa’adon Ismail, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/
 Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19730703-1.2.2">‘Racun Dlm Belacan’ Disiasat</a>,” <i>Berita Harian</i>, 3 July 1973, 1. (From NewspaperSG)<br><br>
 	Salma Semono, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19740315-1.2.22.1">Penggunaan Belacan Kurang Sejak Julai Lalu</a>,” <i>Berita Harian</i>, 15 March 1974, 3. (From NewspaperSG)
 </div>
-
-The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
-
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_3.png)
-<div style="background-color: white;">A fisherman with his <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps). <i>Image reproduced from T.W. Burdon, Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore (Singapore: Printed at the Government Printing Office, 1959), unpaginated (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB]).</i>
-</div>
-
-Despite ongoing urban redevelopment and reclamation, there was still a cottage industry of five households producing *belacan* in Kampong Tampines in the 1980s. In an interview with the *Berita Harian* newspaper in 1986, village resident 72-year-old Sapiah Osman, better known as Mak Piah, said that she had been catching shrimps since she was 35. 
-
-The widow started making *belacan* as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
-
-While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
 
 <div style="background-color: white;">
 <br>
@@ -201,7 +200,7 @@ While *belacan* production still endures in other parts of Southeast Asia today,
 
 [^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 
-[^18]: David G. Stead, [*General Report Upon the Fisheries of British Malaya With Recommendations for Future Development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183923) (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
+[^18]: David G. Stead, [*General Report Upon the Fisheries of British Malaya With Recommendations for Future Development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183923) (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; microfilm no. NL26000)
 
 [^19]: Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” *Journal of Southeast Asian Studies* 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” *Indonesia* no. 62 (October 1996), 90–121. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 

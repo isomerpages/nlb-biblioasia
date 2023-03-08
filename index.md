@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
-      button: Stone Tools found in Singapore
+      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
+      button: To celebrate International Women’s Day on 8 March
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Stone Tools/Stone Tools_Hero_img.png
+      background: /images/Vol 19 Issue 1/Women Typewriter/Hero_img_Women Typewriters.png
   - infopic:
       title: "Terraces on Tagore: The Curious Origins of Teachers' Estate"
       subtitle: Places and Buildings

@@ -1,8 +1,9 @@
 ---
 title: New Books on Singapore History
-permalink: /holding-area/new-books/
+permalink: /holding-area/vol-19/issue-1/jan-mar-2023/new-books-singapore-history/
 description: ""
 ---
+
 #### **[A Reverent Journey: Masjid Omar Kampong Melaka](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&type=bid)**
 Edited by Sharifah Zahra Aljunied and Syed Abdullah Abdul Rahman Aljunied 
 

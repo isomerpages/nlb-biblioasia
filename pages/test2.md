@@ -14,3 +14,8 @@ ff
 Dunlop, Peter K.G. <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722"><i>Street Names of Singapore</i></a>. Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br>  
 	
 </div>
+
+
+ <img src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Site%20of%20Teachers'%20Estate.jpg" width="260" height="360">
+<div style="background-color: white;">The construction site of Teachers’ Housing Estate, 1968. <i>Image reproduced from Yeoh Beng Cheow, “Report on the Teachers’ Housing Estate,” Teachers’ Forum no. 1 (April– May 1968) (Singapore: Singapore Teachers’ Union, 1968), 12. (From National Library, Singapore, call no. RCLOS 331.88113711 TF).</i>
+</div>
