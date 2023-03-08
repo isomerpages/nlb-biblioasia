@@ -5,7 +5,6 @@ description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
   though it takes some getting used to.
 image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
 ---
-
 #### Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. 
 By Toffa Abdul Wahed
 
@@ -17,7 +16,7 @@ While there is friendly rivalry between Singapore and Malaysia over who makes be
 
 In 2019, Prime Minister Lee Hsien Loong conveyed his thanks to the Malaysian queen for regularly sending over her *sambal belacan* to his family. “Thank you for your warmth and kindness, sending my father (and me) your special sambal belacan all these years!” he tweeted on 28 October 2019. “I hope you enjoy making it as much as we enjoy eating it!” A few days before, Raja Permaisuri Agong Tunku Hajah Azizah Aminah Maimunah Iskandariah had shared on her Instagram account a letter written in July 2009 by former Prime Minister Lee Kuan Yew. He wrote that the six packets of *sambal belacan* she had given him were delicious. “I shared them with my two sons. They have all been consumed. It is the best chilli belacan we have tasted. Can my family have a few more?”[^1] Since then, she has been regularly sending her *sambal belacan* across the Causeway.
 
-*Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan Chinese meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
+*Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan  meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
 
 Hugh Clifford, who served as Governor of the Straits Settlements between 1927 and 1929, referred to *belacan* as “that evil-smelling condiment which [had] been so ludicrously misnamed the Malayan Caviare” in his 1897 account of the Malay Peninsula. He wrote that the coasts reeked of “rank odours” as a result of women villagers “labouring incessantly in drying and salting the fish which [had] been taken by the men, or pounding prawns into *blâchan*” throughout the fishing season. The stench was so strong that “all the violence of the fresh, strong, monsoon winds” would only “partially purge” the villages of it.[^2]
 
