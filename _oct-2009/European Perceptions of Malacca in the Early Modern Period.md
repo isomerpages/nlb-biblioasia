@@ -28,7 +28,38 @@ The “great & famous illand” description also demonstrates a growing level of
 
 A more detailed description of Malacca was given by Pierre d’Avity, translated into English in 1615:
 
-“*Malaca is seated upon the river of Gaza, and is a good* <br>  *faire Towne, having in circuit neere twentie miles. The* <br>  *originarie or first inhabitants of this place report, that the* <br>  *beginning came of six or seven fishermen, which came to* <br> *dwell there, but their number increased, by the arrivall of* <br>  *other fishermen of Siam, Pegu, and Bengola, who built a* <br>  *towne, and framed a particular language, taking all the* <br>  *best kind of speech from other nations. They named their* <br>  *towne Malaca, which is growne so rich and mightie in a* <br>  *short time by reason of her situation, as she contends* <br>  *for precedence with the greatest townes, yea with some* <br>  *realmes thereabouts*. <br>  *The Countrie people sleepe upon trees for feare of* <br>  *Tygers, whereof there are so many as they will come* <br>  *into the towne for a prey. The Portugals who tooke this* <br>  *towne from a king of the Moores, found the scituation so* <br>  *commodious, as they have made it in a manner the Center* <br>  *of all the merchandise and trafficke of the East, and the* <br>  *head of a kingdome, which extends from Sincapura to* <br>  *Pullo, and Cambilan*;” 4
+“*Malaca is seated upon the river of Gaza, and is a good* <br>  *faire Towne, having in circuit neere twentie miles. The* <br>  *originarie or first inhabitants of this place report, that the* <br>  *beginning came of six or seven fishermen, which came to* <br> *dwell there, but their number increased, by the arrivall of* <br>  *other fishermen of Siam, Pegu, and Bengola, who built a* <br>  *towne, and framed a particular language, taking all the* <br>  *best kind of speech from other nations. They named their* <br>  *towne Malaca, which is growne so rich and mightie in a* <br>  *short time by reason of her situation, as she contends* <br>  *for precedence with the greatest townes, yea with some* <br>  *realmes thereabouts*. <br>  *The Countrie people sleepe upon trees for feare of* <br>  *Tygers, whereof there are so many as they will come* <br>  *into the towne for a prey. The Portugals who tooke this* <br>  *towne from a king of the Moores, found the scituation so* <br>  *commodious, as they have made it in a manner the Center* <br>*of all the merchandise and trafficke of the East, and the*<br> *head of a kingdome, which extends from Sincapura to*<br> *Pullo, and Cambilan*;” 4
+
+Here we see two elements emerging in the description: One is the wealth and success of the town, and the other its position as a central gathering place for traders from different regions, as what might be termed proto-multiculturalism.
+
+In Portuguese literature (the city is mentioned in the *Lusiad*, of 1572, an epic poem by Luis Vaz de Camoes, depicting Portuguese history and the events of the discovery of India as blessed by mythological figures) demonstrating even at this stage its role — and that of colonialism in general — in Portuguese national culture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
