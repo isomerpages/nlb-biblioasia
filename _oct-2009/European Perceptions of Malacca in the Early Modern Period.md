@@ -22,44 +22,20 @@ During Portuguese control of the city, the references became more common, both i
 
 The overlap in usage between Malacca and Golden Chersonese is discussed in this 1604 text:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“Is it not easie to find Molaco in ancient bookes, which*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*they called the golden Chersonese: the Cape of Comori,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*which was called the Promontorie of Coci; & that great &* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*famous Iland of Sumatra, so well knowne by the ancient* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emsp;&emsp;&emsp;*name of Taprobana.”* 3
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“Is it not easie to find Molaco in ancient bookes, which*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*they called the golden Chersonese: the Cape of Comori,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*which was called the Promontorie of Coci; & that great &* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*famous Iland of Sumatra, so well knowne by the ancient*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emsp;&emsp;&emsp;<br>*name of Taprobana.”* 3
 
 The “great & famous illand” description also demonstrates a growing level of assumed knowledge in Europe about the East Indies, and how much they had even by this stage (the English East India Company’s first mission was in 1601) become part of the mental map projected from Europe.
 
 A more detailed description of Malacca was given by Pierre d’Avity, translated into English in 1615:
 
-“*Malaca is seated upon the river of Gaza, and is a good* <br>  *faire Towne, having in circuit neere twentie miles. The* <br>  *originarie or first inhabitants of this place report, that the* <br>  *beginning came of six or seven fishermen, which came to* <br> *dwell there, but their number increased, by the arrivall of* <br>  *other fishermen of Siam, Pegu, and Bengola, who built a* <br>  *towne, and framed a particular language, taking all the* <br>  *best kind of speech from other nations. They named their* <br>  *towne Malaca, which is growne so rich and mightie in a* <br>  *short time by reason of her situation, as she contends* <br>  *for precedence with the greatest townes, yea with some* <br>  *realmes thereabouts*. <br>  *The Countrie people sleepe upon trees for feare of* <br>  *Tygers, whereof there are so many as they will come* <br>  *into the towne for a prey. The Portugals who tooke this* <br>  *towne from a king of the Moores, found the scituation so* <br>  *commodious, as they have made it in a manner the Center* <br>*of all the merchandise and trafficke of the East, and the*<br> *head of a kingdome, which extends from Sincapura to*<br> *Pullo, and Cambilan*;” 4
+“*Malaca is seated upon the river of Gaza, and is a good* <br>  *faire Towne, having in circuit neere twentie miles. The* <br>  *originarie or first inhabitants of this place report, that the* <br>  *beginning came of six or seven fishermen, which came to* <br> *dwell there, but their number increased, by the arrivall of* <br>  *other fishermen of Siam, Pegu, and Bengola, who built a* <br>  *towne, and framed a particular language, taking all the* <br>  *best kind of speech from other nations. They named their* <br>  *towne Malaca, which is growne so rich and mightie in a* <br>  *short time by reason of her situation, as she contends* <br>  *for precedence with the greatest townes, yea with some* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *realmes thereabouts*. <br>  *The Countrie people sleepe upon trees for feare of* <br>  *Tygers, whereof there are so many as they will come* <br>  *into the towne for a prey. The Portugals who tooke this* <br>  *towne from a king of the Moores, found the scituation so* <br>  *commodious, as they have made it in a manner the Center* <br>*of all the merchandise and trafficke of the East, and the*<br> *head of a kingdome, which extends from Sincapura to*<br>&emsp;&emsp;&emsp;&emsp;&emsp;*Pullo, and Cambilan*;” 4
 
 Here we see two elements emerging in the description: One is the wealth and success of the town, and the other its position as a central gathering place for traders from different regions, as what might be termed proto-multiculturalism.
 
 In Portuguese literature (the city is mentioned in the *Lusiad*, of 1572, an epic poem by Luis Vaz de Camoes, depicting Portuguese history and the events of the discovery of India as blessed by mythological figures) demonstrating even at this stage its role — and that of colonialism in general — in Portuguese national culture.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Malacca is mentioned in Book X, verse 44:
+Nor *Him* shalt *Thou* (though potent) scape, and flye, <br>  (Though sheltred in the Bosome of the *Morn*)  <br> MALACCA (and the Apple of her Eye) <br>  Prowd of thy wealthy Dow’r as her *first-born*. <br>  Thy *poyson’d Arrows*, those *Auxiliary*  <br> CRYSES I see (thy *Pay* That do not scorn) <br>  MALACCANS amorous, valiant JAVANS, <br>  Shall all obey the LUSITANIANS.
 
 
 
