@@ -50,7 +50,7 @@ We also see the direct Biblical link being used. Malacca was being firmly situat
 
 Under the heading “Manners of the People”, the residents were described by Pierre d’ Avity as follows:
 
-
+&emsp;&emsp;&emsp;&emsp;&emsp;“*There are in this place about a hundred families of* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*Portugals, which live after the manner of their countrie,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*with a Bishop, and a Colledge of Jesuits, besides the* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *Castell. They that are borne in this place weare long haire,* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *they have malitious spirits, and take delight to commit* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*murders in the night, to the end the authors may not be* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *known. Both men and women make love alike, and thinke* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *that there is not any Nation can mannage it so well: they* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *make amarous songs and rimes, and doe wonderfully* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *commend the power of love in their verses, which are* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *wittie, well composed, and of a good grace. They have the* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *nearest, and most elegant language of all the East: and*<br>&emsp;&emsp;&emsp;&emsp;&emsp;*therefore many at the Indies doe use it; as in England,* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *Germanie, and the Low-countries they use* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the French tongue*.” 6
 
 
 
