@@ -8,6 +8,9 @@ description: A major site of intra-Asia trade between India and China, Malacca
 ---
 #### A major site of intra-Asia trade between India and China, Malacca was also an important site in European expansion into Asia. Lee Kong Chian Research Fellow _Katrina Gulliver_ examines the importance of Malacca to Europe, and how the city developed with European influence.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1Rebuilding%20fort.jpg">
+ <div style="background-color: white;">Some foundations of the fort were recently discovered and a section is being rebuilt to demonstrate how it would have looked during this time. <i>Courtesy of Katrina Gulliver.</i></div>
+
 Malacca was controlled by European powers for more than 400 years – by the Portuguese in 1511, the Dutch in 1641, and the British, first temporarily in 1795, then from 1824 as part of the Anglo-Dutch Treaty, in which the city was exchanged for Bengkulu in Sumatra.
 
 Malacca held an important role in the European expansionist imagination. Tomé Pires said: “Whoever is lord of Malacca has his hand on the throat of Venice”. English texts from the 16th century onwards demonstrate a desire to capture the port, and the cultural position its name held as a symbol of wealth and the exotic. This paper looks at how Malacca was used, and how it demonstrates changing attitudes towards colonisation and the idea of the city.
@@ -63,6 +66,9 @@ The second approach to colonial cities is a presumed intention of replication of
 #### **Under the Portuguese**
 
 The built environment at Malacca was shaped by the Portuguese, most famously in their construction of the fort.
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1afamosagate.jpg">
+ <div style="background-color: white;">The remaining gate of the fort.<i> Courtesy of Katrina Gulliver</i></div>
 
 The fort was constructed with a thick heavy wall and was obviously designed to protect the city from attack. However, this creates a very strong separation of the city from the hinterland of the surrounding regions. And it was significant particularly when the city was ruled by foreigners. It had no strong relationship with the regions outside the city and this accelerated the development within Malacca of a distinct Malaccan city urban identity quite detached from the region around. The strength of the fort also suggests permanence to the Portuguese settlement.
 
