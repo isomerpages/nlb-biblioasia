@@ -11,7 +11,7 @@ While life in prewar Singapore was hard, residents here managed to find time to 
 
 We take plenty of things for granted today but back in the 1880s, even something as basic as having a bath was a problem. If you lived in the city before water was delivered by pipes from the reservoir, taking a bath might mean washing oneself in a river or canal, in full view of anyone passing by. Jesse O’Neill’s history of [public bathhouses](/vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/) in late 19th-century Singapore is an unsanitised look at how the Municipality attempted to solve a very human problem.
 
-In addition, don’t miss the story on [Portugal’s linguistic legacy](/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/) in Southeast Asia, an interesting hunt for Singapore’s earliest courthouses, a jaunt through offices of old to see how typewriters liberated women and a trip to a [unique housing estate](/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/) that was set up by the Singapore Teachers’ Union.
+In addition, don’t miss the story on [Portugal’s linguistic legacy](/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/) in Southeast Asia, an interesting hunt for Singapore’s earliest courthouses, a jaunt through offices of old to see how [typewriters liberated women](/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/) and a trip to a [unique housing estate](/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/) that was set up by the Singapore Teachers’ Union.
 
 Singapore may be a small country, but as you can see, its history is nothing to sniff at.
 
