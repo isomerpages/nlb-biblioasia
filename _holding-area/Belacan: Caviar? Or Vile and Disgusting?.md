@@ -72,7 +72,7 @@ Notwithstanding these vehement assurances, I made it disappear in the depths of 
 
 Detailed written accounts like this provide insights into people’s attitudes towards *belacan* as well as the people who consume and produce it. A similarly degrading account came from the American naturalist William Hornaday. In his 1885 book, *Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo*, Hornaday remarked how the Chinese fishermen in a village at Sungei Bulu (most probably referring to Sungai Buloh), Selangor, “were engaged in catching prawns and making them up into a stinking paste called *blachang*”. He wrote: “Every house in the village is tumble-down, rickety and dirty beyond description, and the village smells even worse than it looks. The Chinamen live more like hogs than human beings; and, for my part, I would rather take up quarters in a respectable pig-sty than in such house as those are.”[^11]
 
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_4.png)
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_4_edit.png)
 <div style="background-color: white;"><i>Cincalok</i> in a Chinese soup spoon. <i>Cincalok</i> is a fermented shrimp product made from the same tiny shrimp (Acetes spp.) used in <i>belacan</i>. <i>Photo by Jimmy Yap.</i>
 </div>
 
@@ -149,8 +149,7 @@ Sugar to taste<br>
 	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
 	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
 	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
-	<br>
-<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7.png"><br>
+<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7_edit.png"><br>
 	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
 	“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780810-1.2.56.1">Making Belacan Is Hard Work</a>,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
