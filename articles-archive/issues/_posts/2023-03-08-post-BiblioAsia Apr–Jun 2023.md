@@ -20,7 +20,7 @@ In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that 
  
  <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis </a><br>Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years. *Abhishek Mehrotra*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_KeramaKusu.pdf)
  
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s</a><br>Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century. *Jesse O’Neill*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Subaraj.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/">Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s</a><br>Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century. *Jesse O’Neill*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Subaraj.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">“Portugal’s Linguistic Legacy in Southeast Asia </a><br>While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others. *João Oliveira*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_BookCity.pdf)
 
