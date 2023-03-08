@@ -68,6 +68,9 @@ The fort was constructed with a thick heavy wall and was obviously designed to p
 
 The fort did not really replicate something that was in Portugal although it followed the building styles there. It has a fairly organic shape, responsive to the natural geography of the hill. The lack of a grand design for the city is an indication of several things about the Portuguese, one being that they did not know how long they would stay. And it is evident from Portuguese documents of the time that their goals towards the city were somewhat conflicted. Building forts was something that the Portuguese tended to focus on in their colonial efforts in other parts of the world, and a clear resemblance can be seen between the Malacca fort and those at Mombasa, Goa and elsewhere.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1Malacca%201630.jpg">
+ <div style="background-color: white;">This map of 1630 shows the shape of the fort.<i> Image reproduced from Livro das Plantas das Fortalezas, Cidades e Povoações do Estado da Índia Orienta, p. 105. All rights reserved, Instituto de Investigação Científica Tropical, 1991.</i></div>
+
 It is problematic to apply the notion of colony and the attendant philosophies to refer to the time when the Portuguese captured Malacca. The Portuguese did not establish a large settlement of civilians and they did not hold much territory beyond the borders of the city itself. However their fortifications at least hinted at plans for permanence extending further than simply a factory. Nonetheless, their attitude towards the Malay Peninsula seemed ambivalent.
 
 The idea of conversion to Catholicism was clearly part of the rhetoric of the Portuguese expansion. Nonetheless, the missions set up by the Jesuits, while endorsed by the Portuguese, were not really part of the official expansion nor were they something that the Portuguese crown invested in. It was very convenient to promote the idea of converting the Malay world from Islam to Christianity for audiences in Europe, particularly the Vatican, but in practice the Portuguese showed little interest in actually pursuing this.
@@ -90,9 +93,15 @@ Again, Malacca was not an economic success, as described in this account:
 
 The Dutch built the State House and other administrative buildings, as well as private housing. But their arrival did not signal a rapid overhaul of the city, rather a slower evolution. The Dutch reuse of the fort demonstrated this continuity.[^13]
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/Malacca%201679.jpg">
+ <div style="background-color: white;">This print of Malacca in 1679 shows the centre of the town with Dutch-style buildings within the Portuguese fort.<i> Image reproduced from Hoyt, S.A. (1993). Old Malacca, p. 53. All rights reserved, Oxford University Press, 1993.</i></div>
+
 Malacca was unique in the region for not relying on an agrarian hinterland, due to its “unusually favourable position”.[^14] This position depended on supplies from outside, and a level of trade to maintain them, which did not always hold under the Dutch.
 
 Under the Dutch, there was a small European population. There was not much work for artisans and tradesmen,[^15] which meant that the European influence on material culture was less than in other colonies. Chinese and Indian artisans were often involved in construction and design. This led to the development of a unique visual idiom and these elements also helped to give the city (and its citizens) a particular identity.
+
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/St%20John's%20Fort.jpg">
+ <div style="background-color: white;">St. John’s Fort. <i>Courtesy of Katrina Gulliver.</i></div>
 
 The Dutch construction included St John’s Fort, which was sited for inland defence rather than defence against attack from the sea. As well as a demonstration of the politics involved, such an element of the built environment serves to imply a level of visual hostility to the surrounding area, and to reinforce insularity to the city.
 
