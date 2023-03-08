@@ -103,6 +103,21 @@ According to the *Annual Report of the Fisheries Department* for 1950 and 1951, 
 
 Lubuk Gantang, the confluence of three Sungai Tampines tributaries, was once abundant with these shrimps. This was a popular spot for villagers looking to catch and sell the shrimps fresh or to make them into *belacan*. However, this place no longer exists due to land reclamation. Over time, the *belacan* industry in Tampines declined not only due to reclamation, but also because people moved away from the area. By 1986, more than half of the villagers had moved into flats in new housing estates like Bedok, Hougang and Tampines.[^27]
 
+The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
+
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_3.png)
+<div style="background-color: white;">A fisherman with his <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps). <i>Image reproduced from T.W. Burdon, Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore (Singapore: Printed at the Government Printing Office, 1959), unpaginated (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB]).</i>
+</div>
+
+Despite ongoing urban redevelopment and reclamation, there was still a cottage industry of five households producing *belacan* in Kampong Tampines in the 1980s. In an interview with the *Berita Harian* newspaper in 1986, village resident 72-year-old Sapiah Osman, better known as Mak Piah, said that she had been catching shrimps since she was 35. 
+
+The widow started making *belacan* as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
+
+![](/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
+<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Image reproduced from “Mak Piah dan laut seperti lagu dan irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG).</i></div>
+
+While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 	<b>RECIPE FOR BELACAN</b><br><br>
 	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
@@ -144,21 +159,6 @@ Sa’adon Ismail, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/
 Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19730703-1.2.2">‘Racun Dlm Belacan’ Disiasat</a>,” <i>Berita Harian</i>, 3 July 1973, 1. (From NewspaperSG)<br><br>
 	Salma Semono, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19740315-1.2.22.1">Penggunaan Belacan Kurang Sejak Julai Lalu</a>,” <i>Berita Harian</i>, 15 March 1974, 3. (From NewspaperSG)
 </div>
-
-The *udang geragau* were caught using *sondong* (push-net), also known as *selandang* and *sungkor*.[^28] These used to be a familiar sight in nearshore areas like Siglap, Changi, Tampines and Seletar. Part-time or subsistence fishermen, including small boys, would typically use a smaller type of push-net. The *Fisheries Survey Report* (1959) describes the *sondong* as a net that is carried between two light wooden poles approximately five metres in length. “Shoes” made out of hardwood or coconut husk are attached to one end of the poles. The fisherman operates the *sondong* by standing between the poles and lowering the net into the water until the “shoes” reach the bottom. He then pushes it slowly along the seabed and lifts it after some time. With a few shakes, the catch goes into the bag-like end of the net. Longer poles were used by some fishermen who operated the net from boats in deep water.[^29]
-
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_3.png)
-<div style="background-color: white;">A fisherman with his <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps). <i>Image reproduced from T.W. Burdon, Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore (Singapore: Printed at the Government Printing Office, 1959), unpaginated (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB]).</i>
-</div>
-
-Despite ongoing urban redevelopment and reclamation, there was still a cottage industry of five households producing *belacan* in Kampong Tampines in the 1980s. In an interview with the *Berita Harian* newspaper in 1986, village resident 72-year-old Sapiah Osman, better known as Mak Piah, said that she had been catching shrimps since she was 35. 
-
-The widow started making *belacan* as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
-
-![](/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
-<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Image reproduced from “Mak Piah dan laut seperti lagu dan irama,” Berita Harian, 9 July 1986, 3. (From NewspaperSG).</i></div>
-
-While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
 
 <div style="background-color: white;">
 <br>
