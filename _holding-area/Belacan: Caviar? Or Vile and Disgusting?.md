@@ -201,7 +201,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 
-[^18]: David G. Stead, [*General Report Upon the Fisheries of British Malaya With Recommendations for Future Development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183923) (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; Microfilm no. NL26000)
+[^18]: David G. Stead, [*General Report Upon the Fisheries of British Malaya With Recommendations for Future Development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183923) (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; microfilm no. NL26000)
 
 [^19]: Anthony Medrano, “The Edible Tide: How Estuaries and Migrants Transformed the Straits of Melaka, 1870–1940,” *Journal of Southeast Asian Studies* 51, issue 4 (December 2020): 585–86. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website). For more discussion on Bagan Si Api Api, see John G. Butcher, “The Salt Farm and the Fishing Industry of Bagan Si Api Api,” *Indonesia* no. 62 (October 1996), 90–121. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
