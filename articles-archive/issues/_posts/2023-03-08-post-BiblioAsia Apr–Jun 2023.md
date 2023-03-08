@@ -6,21 +6,21 @@ layout: post
 description: ""
 image: ""
 ---
-
 In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that became classics. In the cover story, find out how the Asian Film Archive managed to restore some of these films.
 
 <img src="/images/Vol%2018%20Issue%204/Biblioasia_18_4_cover.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-to-mar-2023/director-note/">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-to-jun-2023/director-note/">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a><br>The Asian Film Archive has been restoring classic Malay films by Cathay-Keris and Shaw since 2014. *Chew Tee Pao*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_AsianFilm.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Belacan: Caviar? Or Vile and Disgusting? 
+</a><br>Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_AsianFilm.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/stone-tools-singapore">Singapore’s Stone Tools </a><br>Stone tools have been found in and around Singapore since the late 19th century. *Foo Shu Tieng*.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/stone-tools-singapore">Neo Tiew: The Man Who Built Lim Chu Kang </a><br>The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area. *Alvin Tan*.
  [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_StoneTools.pdf)
  
- <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">The Origin Stories of Keramat Kusu</a><br>Pilgrimages to the *keramat* on Kusu Island began in the 1840s, though stories about the people associated with the shrines have changed over time. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_KeramaKusu.pdf)
+ <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis </a><br>Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years. *Abhishek Mehrotra*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_KeramaKusu.pdf)
  
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a><br>A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces. *Benjamin Ho*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Subaraj.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s</a><br>Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century. *Jesse O’Neill*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Subaraj.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">“Book City” in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a><br>Chinese bookstores in Singapore underwent transformational change in the postwar period. *Lee Ching Seng*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_BookCity.pdf)
 
