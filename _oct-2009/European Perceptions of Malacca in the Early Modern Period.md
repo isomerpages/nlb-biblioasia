@@ -37,6 +37,20 @@ In Portuguese literature (the city is mentioned in the *Lusiad*, of 1572, an epi
 Malacca is mentioned in Book X, verse 44:
 Nor *Him* shalt *Thou* (though potent) scape, and flye, <br>  (Though sheltred in the Bosome of the *Morn*)  <br> MALACCA (and the Apple of her Eye) <br>  Prowd of thy wealthy Dow’r as her *first-born*. <br>  Thy *poyson’d Arrows*, those *Auxiliary*  <br> CRYSES I see (thy *Pay* That do not scorn) <br>  MALACCANS amorous, valiant JAVANS, <br>  Shall all obey the LUSITANIANS.
 
+And verse 57:
+
+Great *Actions* in the *Kingdom* of BINTAN<br> Thou shalt perform, MALACCA’S Foe: her *score*<br> Of *Ills* in one day *paying*, which *That* ran<br> Into, for many a hundred year before.
+With patient courage, more then of a man, <br>*Dangers*, and *Toyles*, sharp *Spikes*, *Hills* always hoare,<br> *Spears*, *Arrows*, *Trenches*, *Bulwarks*, *Fire and Sword*,<br> That thou shalt break, and quell, I pass my word.<br> (This text is from Richard Fanshawe’s 1655 translation; the work has been translated a number of times into English.)
+
+By the 17th century, Malacca was making a more regular appearance in literature written in English. As well as its inclusion in guides of the world, guides to spices and general histories, it was again featured in poetry. David Dickson was a Scottish preacher and his *Truth’s Victory over Error*, or, *An abridgement of the chief controversies in religion which since the apostles days to this time, have been, and are in agitation, between those of the Orthodox faith, and all adversaries whatsoever*… was a translation into English of Dickson’s sermons given in Latin. It is relevant that by this stage the city of Malacca was being specified rather than the more vague “Golden Cherson”.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;“As Ophirs Gold, which from Malacca came,<br>&emsp;&emsp;&emsp;&emsp;&emsp;Made Solomon on Earth the richest Man.<br>&emsp;&emsp;&emsp;&emsp;&emsp;So will this Book make rich thy heart and mind,<br>&emsp;&emsp;&emsp;&emsp;&emsp;With Divine Wisdom, Knowledge of all kind.<br>&emsp;&emsp;&emsp;&emsp;&emsp;Thee richer make than Croesus of great name,<br>&emsp;&emsp;&emsp;&emsp;&emsp;Thee wiser make than Solon of great fame. <br>&emsp;&emsp;&emsp;&emsp;&emsp;Than all the seven wise Sages, Greeces Glory,<br>&emsp;&emsp;&emsp;&emsp;&emsp; I do protest it’s true, and is no Story.” 5
+
+We also see the direct Biblical link being used. Malacca was being firmly situated in the cultural geography of Europe in texts such as this. Being already “familiar” and linked to Biblical and classical references, the city developed an identity in European culture through these depictions. This also links to the Portuguese use of religious justification for colonisation.
+
+Under the heading “Manners of the People”, the residents were described by Pierre d’ Avity as follows:
+
+
 
 
 
