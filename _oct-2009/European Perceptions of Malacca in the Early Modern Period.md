@@ -22,7 +22,7 @@ During Portuguese control of the city, the references became more common, both i
 
 The overlap in usage between Malacca and Golden Chersonese is discussed in this 1604 text:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“Is it not easie to find Molaco in ancient bookes, which*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*they called the golden Chersonese: the Cape of Comori,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*which was called the Promontorie of Coci; & that great &* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*famous Iland of Sumatra, so well knowne by the ancient*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emsp;&emsp;&emsp;<br>*name of Taprobana.”* 3
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“Is it not easie to find Molaco in ancient bookes, which*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*they called the golden Chersonese: the Cape of Comori,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*which was called the Promontorie of Coci; & that great &* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*famous Iland of Sumatra, so well knowne by the ancient*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emsp;&emsp;&emsp;*name of Taprobana.”* 3
 
 The “great & famous illand” description also demonstrates a growing level of assumed knowledge in Europe about the East Indies, and how much they had even by this stage (the English East India Company’s first mission was in 1601) become part of the mental map projected from Europe.
 
@@ -86,7 +86,7 @@ When the Dutch took possession of Malacca, they did not attempt to do what they 
 
 Again, Malacca was not an economic success, as described in this account:
 
-&emsp;&emsp;&emsp;“*The conquerors found a fort, which, like all the works of*<br>&emsp;&emsp;&emsp;*the Portuguese, was built with a degree of strength, which*<br>&emsp;&emsp;&emsp;*has never since been imitated by any nation. They found*<br>&emsp;&emsp;&emsp;*the climate very healthy, though hot and moist; but the*<br>&emsp;&emsp;&emsp;*trade there was entirely decayed; the continual exactions*<br>&emsp;&emsp;&emsp;*having deterred all nations from resorting thither. It has*<br>&emsp;&emsp;&emsp;*not been revived by the company, either on account of*<br>&emsp;&emsp;&emsp;*some insuperable difficulties, or the want of moderation*<br>&emsp;&emsp;&emsp;*or the fear of injuring Batavia. The business is confined at*<br>&emsp;&emsp;&emsp;*present to the sale of a small quantity of opium, and a few*<br>&emsp;&emsp;&emsp;*blue linens, and to the purchase of elephants teeth, calin*,<br>&emsp;&emsp;&emsp;*which cofts 70 livres a hundred weight, and a \[end p. 166\]*<br>&emsp;&emsp;&emsp;emsp;&emsp;*small quantity of gold at 180 livres a mark*.” 12
+&emsp;&emsp;&emsp;“*The conquerors found a fort, which, like all the works of*<br>&emsp;&emsp;&emsp;*the Portuguese, was built with a degree of strength, which*<br>&emsp;&emsp;&emsp;*has never since been imitated by any nation. They found*<br>&emsp;&emsp;&emsp;*the climate very healthy, though hot and moist; but the*<br>&emsp;&emsp;&emsp;*trade there was entirely decayed; the continual exactions*<br>&emsp;&emsp;&emsp;*having deterred all nations from resorting thither. It has*<br>&emsp;&emsp;&emsp;*not been revived by the company, either on account of*<br>&emsp;&emsp;&emsp;*some insuperable difficulties, or the want of moderation*<br>&emsp;&emsp;&emsp;*or the fear of injuring Batavia. The business is confined at*<br>&emsp;&emsp;&emsp;*present to the sale of a small quantity of opium, and a few*<br>&emsp;&emsp;&emsp;*blue linens, and to the purchase of elephants teeth, calin*,<br>&emsp;&emsp;&emsp;*which cofts 70 livres a hundred weight, and a \[end p. 166\]<br>&emsp;&emsp;&emsp;emsp;&emsp;*small quantity of gold at 180 livres a mark*.” 12
 
 The Dutch built the State House and other administrative buildings, as well as private housing. But their arrival did not signal a rapid overhaul of the city, rather a slower evolution. The Dutch reuse of the fort demonstrated this continuity.13
 
@@ -101,7 +101,3 @@ MALACA, <br>  Which is a Town belonging to the Company, <br>  and was taken from
 Once again, we see a return to the standard descriptions of Malacca, that even in an account of its economic failure, it is referred to as the “magazine of the east” and in positive terms. Malacca’s ability to retain a positive image in European minds even as it was a poor investment merits further investigation, which I hope to pursue later.
 
 ***The author wishes to acknowledge the contributions of Dr Merennage Radin Fernando, Senior Fellow, Humanities & Social Studies Education, National Institute of Education, Nanyang Technological University, in reviewing the paper***.
-
-
-
-
