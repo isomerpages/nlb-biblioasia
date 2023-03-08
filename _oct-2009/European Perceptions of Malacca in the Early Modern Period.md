@@ -52,6 +52,38 @@ Under the heading “Manners of the People”, the residents were described by P
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“*There are in this place about a hundred families of* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*Portugals, which live after the manner of their countrie,* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*with a Bishop, and a Colledge of Jesuits, besides the* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *Castell. They that are borne in this place weare long haire,* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *they have malitious spirits, and take delight to commit* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*murders in the night, to the end the authors may not be* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *known. Both men and women make love alike, and thinke* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *that there is not any Nation can mannage it so well: they* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *make amarous songs and rimes, and doe wonderfully* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *commend the power of love in their verses, which are* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *wittie, well composed, and of a good grace. They have the* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *nearest, and most elegant language of all the East: and*<br>&emsp;&emsp;&emsp;&emsp;&emsp;*therefore many at the Indies doe use it; as in England,* <br>&emsp;&emsp;&emsp;&emsp;&emsp; *Germanie, and the Low-countries they use* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the French tongue*.” 6
 
+He draws a clear distinction between the Christian Portuguese residents and the local community. The exoticism of the Malays in this description, as both murderers and passionate authors of romantic songs and poems is an interesting juxtaposition. It is particularly relevant that the Malays, or “they that are borne in this place” are not described as Muslims.
+
+#### **Influencing the City**
+
+There are two major themes in colonial historiography that are often applied to city sites: one is that colonisers took the opportunity to create “ideal” cities, often based on the Renaissance vision of the perfect city with straight streets and boulevards and a central square marked by visual symmetry and balance. The idea of building the ideal city from scratch was appealing because it was something that could not be done in Europe where most of the cities had developed organically over hundreds of years without central planning. These neoclassical ideas were brought in to, for instance, city planning by the Spanish in the Americas. It was also seen in some of the towns built by the British in India, which were built to appeal to an aesthetic of Oriental classicism, rather than resembling architecture in Britain.
+
+The second approach to colonial cities is a presumed intention of replication of the metropolis. More than simply utilising known construction techniques and plans, this vision is aimed at recreating the *experience* of living in Europe.
+
+#### **Under the Portuguese**
+
+The built environment at Malacca was shaped by the Portuguese, most famously in their construction of the fort.
+
+The fort was constructed with a thick heavy wall and was obviously designed to protect the city from attack. However, this creates a very strong separation of the city from the hinterland of the surrounding regions. And it was significant particularly when the city was ruled by foreigners. It had no strong relationship with the regions outside the city and this accelerated the development within Malacca of a distinct Malaccan city urban identity quite detached from the region around. The strength of the fort also suggests permanence to the Portuguese settlement.
+
+The fort did not really replicate something that was in Portugal although it followed the building styles there. It has a fairly organic shape, responsive to the natural geography of the hill. The lack of a grand design for the city is an indication of several things about the Portuguese, one being that they did not know how long they would stay. And it is evident from Portuguese documents of the time that their goals towards the city were somewhat conflicted. Building forts was something that the Portuguese tended to focus on in their colonial efforts in other parts of the world, and a clear resemblance can be seen between the Malacca fort and those at Mombasa, Goa and elsewhere.
+
+It is problematic to apply the notion of colony and the attendant philosophies to refer to the time when the Portuguese captured Malacca. The Portuguese did not establish a large settlement of civilians and they did not hold much territory beyond the borders of the city itself. However their fortifications at least hinted at plans for permanence extending further than simply a factory. Nonetheless, their attitude towards the Malay Peninsula seemed ambivalent.
+
+The idea of conversion to Catholicism was clearly part of the rhetoric of the Portuguese expansion. Nonetheless, the missions set up by the Jesuits, while endorsed by the Portuguese, were not really part of the official expansion nor were they something that the Portuguese crown invested in. It was very convenient to promote the idea of converting the Malay world from Islam to Christianity for audiences in Europe, particularly the Vatican, but in practice the Portuguese showed little interest in actually pursuing this.
+
+The pre-existing town was sizeable, described thus in 1510: “In Malacca, there are approximately ten thousand homes, which are located along the sea and river. Those who live further away from the sea are at a distance of a little more than a cross-bow’s shot.” 7 This assumes a population of at least 40,000, in housing clustered close to the sea.
+
+Economically, the city was not a great success for the Portuguese. They were unable to regain the city’s prosperity when it was under the sultan. The Portuguese did act in accordance with their Christian expansionist plans to the extent that they limited Muslim trade in the town, 8 which reduced profitability.
+
+Macau’s duties paid to Malacca and Goa sustained Malacca. 9 The true scale of the economy cannot be established, as much of it was unofficial, either held by private individuals or on the side (illegally) by agents of the state; aided by the loss of documents, and the fact that much of the empire “was created and functioned in the prestatistical age”. 10
+
+According to Victor Savage, Malacca was in the 16th century, as Ayuthia was in the 17th, a “comfortable and beautiful city for Western residents”. 11 While Malacca might have been beautiful, it was not precisely a city on European lines. The largest reminders of the Portuguese were the fort and the church, which were reused by the Dutch. Savage’s description also hints at the evolving European taste for the exotic, in listing the destinations of luxury for European residents and the temporal/geographic shift around Asia.
+
+#### **Under the Dutch**
+
+When the Dutch took possession of Malacca, they did not attempt to do what they had initially done in Batavia (Jakarta today) — replicating a Dutch city. Likewise, they were not taking large numbers of civilian settlers to Malacca either. So it developed as an Asian city under European jurisdiction rather than a European city in the tropics. Direct European influence on architecture during the colonial period did not extend past official buildings.
+
 
 
 
