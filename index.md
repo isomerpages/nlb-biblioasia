@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      button: To celebrate International Women’s Day on 8 March
+      button: THE TYPEWRITER AND HERSTORIES
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
