@@ -87,5 +87,98 @@ Nonetheless, despite the failure of most Southeast Asian states to remove their 
 
 ***The author wishes to acknowledge the contributions of Professor Alan Smart, Department of Anthropology, University of Calgary, in reviewing the paper***.
 
+#### **REFERENCES**
+
+Asef Bayat, “Globalisation and the Politics of the Informals in the Global South,” in _Urban Informality: Transnational Perspectives from the Middle East, Latin America, and South Asia_, ed. Ananya Roy and Nezar AlSayyad (Lanham: Lexington Books, 2004), 79–104.
+
+Alan Choe, “Urban Renewal,” in [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919), ed. Ooi Jin-Bee and Chiang Hai Ding (Singapore: University of Singapore, 1969), 161–70. (Call no. RSING 959.57 OOI)
+
+Alan James Christian Mayne, _Representing the Slum: Popular Journalism in a Late Nineteenth Century City_ (Melbourne: University of Melbourne, 1991)  
+
+Alan Smart, “Impeded Self-Help: Toleration and the Proscription of Housing Consolidation in Hong Kong’s Squatter Areas,” _Habitat International_, 27, no. 2 (June 2003), 205–25.
+
+Alan Smart, _The Shek Kip Mei Myth: Squatters, Fires and Colonial Rulers in Hong Kong_ (Hong Kong: Hong Kong University Press, 2006)
+
+Antonio Gramsci, _Prison Notebooks_ (New York: Columbia University Press, 1992) (Edited with an introduction by Joseph A. Buttigieg)
+
+Aprodicio A. Laquian, [_The City in Nation-Building: Politics and Administration in Metropolitan Manila_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=312872) (Manila: School of Public Administration, 1966). (Call no. RCLOS 320.99141 LAQ)
+
+Aprodicio A. Laquian, [_Slums Are for People: The Barrio Magsaysay Pilot Project in Urban Community Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4178314) (Manila: Local Government Center, 1969). (Call no. RUR SEA 301.3609599 LAQ)
+
+Aprodicio A. Laquian, “Slums and Squatters in South and Southeast Asia,” in [_Urbanisation and National Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=467809), ed. Leo Jakobson and Ved Prakas (Beverly Hills: Sage Publications, 1971), 183–204. (Call no. RCLOS 301.3630959 JAK)
+
+Ceinwen Giles, “The Autonomy of Thai Housing Policy,” _Habitat International_, 27, no. 2 (June 2003), 227–44.
+
+Centre for Social Action (Bangalore, India), _India’s Growing Slums_ (Bangalore: Centre for Social Action, 2000)
+
+Charles Abraham, _The City Is the Frontier_ (New York: Harper and Row, 1965)
+
+Charles Abrams, [_Housing in the Modern World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=26090) (London: Faber, 1966). (Call no. RUR 331.833 ABR STK)
+
+Charles Abrams, “Slums,” in [_Slums and Urbanization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=76631), ed. A. R. Desai and S. Devadas Pillai (Bombay: Popular Prakashan, 1970), 9–14. (Call no. RUR SEA 711.59 DES)
+
+Charles Abrams, “Squatting in the Philippines,” in [_Slums and Urbanization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=76631), ed. A. R. Desai and S. Devadas Pillai (Bombay: Popular Prakashan, 1970), 141–3. (Call no. RUR SEA 711.59 DES)
+
+D. J. Dwyer, [_People and Housing in Third World Cities: Perspectives on the Problem of Spontaneous Settlements_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=466072) (London: Longman, 1975). (Call no. RUR 01.54091724 DWY)
+
+D. J. Dwyer, “The Problem of in Migration and Squatter Settlement in Asian Cities: Two Case Studies, Manila and Victoria Kowloon,” in [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076), ed. Y. M. Yeung & C. P. Lo (Singapore: Oxford University Press, 1976), 131–41. (Call no. RSING 301.3630959 CHA)
+
+Gregory Clancey, “Towards a Spatial History of Emergency: Notes From Singapore,” in [_Beyond Description: Singapore Space Historicity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654), ed. Ryan Bishop, John Phillips and Wei-Wei Yeo (London: Routledge, 2004), 30–60. (Call no. RSING 307.1216095957 BEY)
+
+H. Gurney to Sir T. Lloyd, 8 October 1948, Enclosure “Groups in the Chinese community in Malaya”. (From Britain Colonial Office file no. CO 537/3758)
+
+Hamzah Sendut, “Contemporary Urbanisation in Malaysia,” in [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076), ed. Y. M. Yeung & C. P. Lo (Singapore: Oxford University Press, 1976), 76–81. (Call no. RSING 301.3630959 CHA)
+
+Housing Committee, Singapore, _[Report, 1947](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982364)_ (Singapore: Government Printing House, 1948). (Call no. RCLOS 711.4095951 SIN; microfilm NL10187)
+
+Howard W. Dick, [_Surabaya, City of Work: A Socioeconomic History, 1900–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11956522) (Singapore: Singapore University Press, 2003). (Call no. RSING 330.95982 DIC)
+
+Kementerian Penerangan, Malaysia [_Squatters in Kuala Lumpur_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5017180) (Kuala Lumpur: Jabatan Penerangan, 1971). (Call no. RUR SEA 711.5909595132.K8 MAL)
+
+James C. Scott, _[Weapons of the Weak: Everyday Forms of Peasant Resistance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3773278)_ (New Haven: Yale University Press, 1985). Call no.: RCLOS 301.444309595 SCO
+
+James C. Scott, _Domination and the Arts of Resistance: Hidden Transcripts_ (New Haven: Yale University Press, 1990)
+
+James C. Scott, _[Seeing Like a State: How Certain Schemes To Improve the Human Condition Have Failed](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8694878)_ (New Haven: Yale University Press, 1998). (Call no. RBUS 338.9 SCO)
+
+Janice E. Perlman, _The Myth of Marginality: Urban Poverty and Politics in Rio de Janeiro_ (Berkeley: University of California, 1976)
+
+Land Clearance and Resettlement Working Party (Singapore), [_Report of the Land Clearance and Resettlement Working Party_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981112) (Singapore: Government Printing Office, 1956). (Call no. RCLOS 711.4095951 SIN)
+
+Loh Kah Seng, “The Politics of Fires in Post–1950s Singapore and the Making of a High Modernist Nation-State,” in [_Reframing Singapore: Memory, Identity and Trans-Regionalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13193908), ed. Derek Heng and Syed Muhd Khairudin Aljunied (Amsterdam: Amsterdam University Press, 2009). (Call no. RSING 959.57 REF)
+
+M. Castells, L. Goh, and R. Y.-W. Kwok, [_The Shek Kip Mei Syndrome: Economic Development and Public Housing in Hong Kong and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5344432) (London: Pion, 1990). (Call no. RSING 363.556095125 CAS)
+
+Manuel Castells, _The City and the Grassroots: A Cross-Cultural Theory of Urban Social Movements_ (California: University of California Press, 1983)
+
+Mary Douglas, [_Mary Douglas: Collected Works_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11643015), 2 (London: Routledge Classics, 2003). (Call no. R 301 DOU)
+
+Matias Echanove and Rahul Srivastava, “Taking the Slum Out of ‘Slumdog’,” _New York Times_, 21 February 2009, A21.
+
+Michael Johnstone, “The Evolution of Squatter Settlements in Peninsular Malaysian Cities,” _Journal of Southeast Asian Studies_, 12, no. 2 (September 1981), 364–80. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Michael Johnstone, “Urban Squatting and migration in Peninsula Malaysia,” _International Migration Review_, 17, no, 2 (Summer 1983), 291–322. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Morris Juppenlatz, [_Cities in Transformation: The Urban Squatter Problem of the Developing World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=66790) (St. Lucia: University of Queensland Press, 1970). (Call no. RUR SEA 301.363091724 JUP)
+
+Richard L. Stone, _[Philippine Urbanization: The Politics of Public and Private Property in Greater Manila](https://eservice.nlb.gov.sg/item_holding.aspx?bid=332931)_ (DeKalb: Northern Illinois University, 1973) (Call no.: RCLOS 346.59904 STO)
+
+Samuel P. Huntington, “The Bases of Accommodation,” _Foreign Affairs_. 46, no. 4 (July 1968), 642–56. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Sicat, G. M. (1979). “Housing Finance,” in _[Housing Asia’s Millions: Problems, Policies, and Prospects for Low-Cost Housing in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296)_, ed. Stephen H. K. Yeh and A. A. Laquian (Ottawa: International Development Research Centre, 1979), 81–91. (Call no. RSING 363.5095 HOU)
+
+Singapore Improvement Trust, “[Notes for Discussion on Housing by Commissioner of Lands](https://www.nas.gov.sg/archivesonline/government_records/record-details/67fb091e-1159-11e3-83d5-0050568939ad),” government records, 13 June 1947. (From National Archives of Singapore record no. SIT 475–47)
+
+T. N. Harper, [_The End of Empire and the Making of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8664450) (New York: Cambridge University Press, 1999). (Call no. RSING 959.5105 HAR)
+
+T. G. McGee, [_The Southeast Asian City: A Social Geography of the Primate Cities of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4179206) (London: G. Bell and Sons, 1967). (Call no. RCLOS 301.3630959 MAC)
+
+T. G. McGee, “Squatter Settlements in Southeast Asian Cities,” in [_Slums and Urbanization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=76631), ed. A. R. Desai and S. Devadas Pillai (Bombay: Popular Prakashan, 1970), 123–8. (Call no. RUR SEA 711.59 DES)
+
+United Nations. _Tropical Housing Mission, Low Cost Housing in South and South-East Asia Report of Mission of Experts, 22 November 1950–23 January 1951_, no. ST/SOA/3/Add.1 (New York: United Nations, Dept. of Social Affairs, 1951).
+
+United Nations. Ad Hoc Group of Experts on Housing and Urban Development, _Report_ (New York: U. N. Ad Hoc Group of Experts on Housing and Urban Development, 1962)
+
+Y. M. Yeung and C. P. Lo, eds. [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076) (Singapore: Oxford University Press, 1976). (Call no. RSING 301.3630959 CHA)
 
 
