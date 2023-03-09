@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-In the 1950s and 1960s, Cathay-Keris and Shaw Brothers produced many films that became classics. In the cover story, find out how the Asian Film Archive managed to restore some of these films.
+_Belacan. Terasi. Kapi. Bagoong_. These are some of the names to refer to shrimp paste in Southeast Asia. In the cover story, find out how early Europeans to the region were repulsed by it, although the locals swear that the condiment gives a kick to any dish.
 
 <img src="/images/Vol%2018%20Issue%204/Biblioasia_18_4_cover.png">
 
