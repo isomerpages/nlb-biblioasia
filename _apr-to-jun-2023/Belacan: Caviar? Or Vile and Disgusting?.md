@@ -5,8 +5,6 @@ description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
   though it takes some getting used to.
 image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
 ---
-
-
 #### Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. 
 By Toffa Abdul Wahed
 
@@ -93,7 +91,9 @@ Although the *belacan* industry in Singapore and Malaya might not have been as e
 In his 1923 report, marine biologist David G. Stead states that *belacan* was “of very large importance” in the fish trade in many parts of Malaya. Stead had travelled along the Malayan coasts in the early 1920s to survey local fisheries and come up with recommendations for developing the industry. He explained that the fisheries in Province Wellesley (now known as Seberang Perai, a city in the state of Penang) and along the coasts of Perak and Selangor produced large quantities of *belacan*, whereas the growing fishery in Johor’s Kukup produced considerable amounts. He highlighted Bagan Luar, a fishing village located across from Penang Island, as the most important place in Malaya in terms of *belacan* manufacture and export. The other major site along the Strait of Malacca was Bagan Si Api Api.[^18] This town, which developed in the rich estuary where Sumatra’s Rokan River meets the Strait of Malacca, was home to an industrial fishery that produced a yearly average of nearly 30 million kilograms of fish and *belacan* between 1898 and 
 1928.[^19]
 
-![](/images/Vol%2019%20Issue%201/Balacan/Scooping%20for%20shrimps1.jpg)<div style="background-color: white;">“Scooping for Shrimps” by Ong Seng Chew (undated). Silver gelatin print, 40.6 × 30.5 cm. Gift of the artist.<i>Collection of National Gallery Singapore. Courtesy of National Heritage Board.</i></div>
+![](/images/Vol%2019%20Issue%201/Balacan/Scooping%20for%20shrimps1.jpg)
+<div style="background-color: white;">“Scooping for Shrimps” by Ong Seng Chew (undated). Silver gelatin print, 40.6 × 30.5 cm. Gift of the artist.<i>Collection of National Gallery Singapore. Courtesy of National Heritage Board.</i>
+</div>
 
 
 #### **Belacan in Singapore**
