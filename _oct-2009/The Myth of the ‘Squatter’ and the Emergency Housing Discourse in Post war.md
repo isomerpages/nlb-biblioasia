@@ -50,6 +50,9 @@ The discursive vocabulary of “squatters” was common in official statements o
 
 Abrams and other Western urban planners such as Morris Juppenlatz frequently advised Southeast Asian governments on housing and urban planning after the war. Juppenlatz was a United Nations town planner who had worked in post-war Manila, Hong Kong and Rio de Janeiro. Drawing from the stark, powerful metaphors of disease and contagion, he represented informal housing as “a plague” and an “urban sickness”. Juppenlatz reveals his highly modernist mind in expressing his distaste for the physical appearance of informal settlements, where “\[t\]he outward appearance of the malady, the urban squatter colonies, when viewed from the air, from a helicopter, is that of a fungus attached to and growing out from the carapace of the city”.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/MythSquatters/Cities%20in%20transformation_p111.jpg">
+ <div style="background-color: white;">Informal housing built on both sides of a railway line in North Harbour, Manila, Philippines. <i>Image reproduced from Juppenlatz, M. (1970). Cities in Transformation: The Urban Squatter Problem of the Developing World, p. 111. All rights reserved, University of Queensland Press, 1970.</i></div>
+
 He blamed many of the cholera outbreaks in Philippine cities on the physical environment of the informal settlements and the social habits of their residents. The basic solution, Juppenlatz urged, was to organise the residents’ integration into the state as tax-paying citizens. In this, the government’s role was pivotal and needed to be “based on the scientific method and planned urban development throughout the entire nation” (Juppenlatz 1970, 1–5, 41, 104, 212). Abrams had also warned that the “diseases of housing rival those in pathology” (Abrams 1965, 40).
 
 
