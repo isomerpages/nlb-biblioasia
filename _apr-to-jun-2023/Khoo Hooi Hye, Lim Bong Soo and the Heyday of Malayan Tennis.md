@@ -83,7 +83,7 @@ Later in the year, the two met yet again, this time in the semi-final of the Mal
 In August 1929, the duo clashed again – this time at the SCC in the Malaya Cup final. In stark contrast to the earlier April match though, this one was an anti-climax. Lim, having played the singles and doubles semi-finals earlier that same day was forced to retire due to exhaustion, handing Khoo his fifth and final Malaya Cup.[^28]
 
 ![](/images/Vol%2019%20Issue%201/Tennis/image5.png)
-<div style="background-color: white;">Khoo Hooi Hye (left) and Lim Bong Soo (right) before the final of the Malaya Cup held at the Singapore Cricket Club on 6 August 1929. This would be the last time the two would meet in competitions, as Khoo moved to Shanghai in 1930. <i>Image reproduced from “Malayan Lawn Tennis Championships,” Malayan Saturday Post, 10 August 1929, 17. (From NewsaperSG).</i></div>
+<div style="background-color: white;">Khoo Hooi Hye (left) and Lim Bong Soo (right) before the final of the Malaya Cup held at the Singapore Cricket Club on 6 August 1929. This would be the last time the two would meet in competitions, as Khoo moved to Shanghai in 1930. <i>Source: Malayan Saturday Post, 10 August 1929. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The year 1929 was one of the most memorable in Khoo’s celebrated career. Between the two contrasting clashes with Lim, he had played another match for the ages, on 20 June, in the Singapore Championship final against the Frenchman Paul Clerc.[^29]
 
