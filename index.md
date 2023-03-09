@@ -414,4 +414,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: Which Was Singapore's First Courthouse?
+      subtitle: Places and Buildings
+      description: "Singapore’s former Parliament building, known today as The Arts
+        House, was used as a courthouse from 1828 to 1939. "
+      button: SINGAPORE’S COURTHOUSES
+      url: /vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell
+      image: /images/Vol 19 Issue 1/Courthouse/Spore Courthouse.jpg
+      alt: Image alt text
 ---
