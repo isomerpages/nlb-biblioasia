@@ -423,4 +423,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: "Belacan: Caviar? Or Vile and Disgusting?"
+      subtitle: Food
+      description: "Fermented shrimp is a staple in many cuisines of Southeast Asia,
+        though it takes some getting used to. "
+      button: ALSO KNOWN AS BAGOONG, KAPI AND TERASI
+      url: /vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/
+      image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
+      alt: Image alt text
 ---
