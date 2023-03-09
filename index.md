@@ -23,7 +23,7 @@ sections:
         House, was used as a courthouse from 1828 to 1939. "
       button: SINGAPORE’S COURTHOUSES
       url: /vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell
-      image: /images/Vol 19 Issue 1/Courthouse/Spore Courthouse2.jpg
+      image: /images/Vol 19 Issue 1/Courthouse/Spore Courthouse3.jpg
       alt: Image alt text
   - infopic:
       title: "Terraces on Tagore: The Curious Origins of Teachers' Estate"
