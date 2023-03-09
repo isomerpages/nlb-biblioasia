@@ -6,11 +6,6 @@ description: Singapore’s former Parliament building, known today as The Arts
   hearings were held in at least three other venues.
 image: /images/Vol 19 Issue 1/Courthouse/Former_courthouse.png
 ---
-
-
-
-
-
 #### Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse from 1828 to 1939. Prior to that, legal hearings were held in at least three other venues.
 By Kevin Y.L. Tan
 
@@ -145,6 +140,12 @@ From 1965 to 1999, it was known as Parliament House until Parliament moved into 
 
 The Supreme Court, meanwhile, occupied the building at the junction of St Andrew’s Road and High Street until 2005 when it moved to its current location at 1 Supreme Court Lane. The old Supreme Court building, together with the former City Hall building next to it, now house National Gallery Singapore.<br><br>
 
+<img style= "width: 85%;"
+src="/images/Vol%2019%20Issue%201/Courthouse/New%20Supreme%20Court.jpg">
+<div>The new Supreme Court building with the former courthouse on the right. <i>Photo by Jimmy Yap.</i>
+</div>
+<br>
+	
 <b>REFERENCES</b><br><br>
 Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s <a 	
 href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
