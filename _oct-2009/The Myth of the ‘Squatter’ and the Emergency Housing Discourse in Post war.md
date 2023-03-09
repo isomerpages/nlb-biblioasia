@@ -180,5 +180,3 @@ United Nations. _Tropical Housing Mission, Low Cost Housing in South and South-E
 United Nations. Ad Hoc Group of Experts on Housing and Urban Development, _Report_ (New York: U. N. Ad Hoc Group of Experts on Housing and Urban Development, 1962)
 
 Y. M. Yeung and C. P. Lo, eds. [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076) (Singapore: Oxford University Press, 1976). (Call no. RSING 301.3630959 CHA)
-
-
