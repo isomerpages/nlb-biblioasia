@@ -92,7 +92,7 @@ In his 1923 report, marine biologist David G. Stead states that *belacan* was �
 1928.[^19]
 
 ![](/images/Vol%2019%20Issue%201/Balacan/Scooping%20for%20shrimps1.jpg)
-<div style="background-color: white;">“Scooping for Shrimps” by Ong Seng Chew (undated). Silver gelatin print, 40.6 × 30.5 cm. Gift of the artist.<i>Collection of National Gallery Singapore. Courtesy of National Heritage Board.</i>
+<div style="background-color: white;">“Scooping for Shrimps” by Ong Seng Chew (undated). Silver gelatin print, 40.6 × 30.5 cm. Gift of the artist. <i>Collection of National Gallery Singapore. Courtesy of National Heritage Board.</i>
 </div>
 
 
