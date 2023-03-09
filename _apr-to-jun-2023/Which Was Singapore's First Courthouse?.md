@@ -141,7 +141,7 @@ From 1965 to 1999, it was known as Parliament House until Parliament moved into 
 The Supreme Court, meanwhile, occupied the building at the junction of St Andrew’s Road and High Street until 2005 when it moved to its current location at 1 Supreme Court Lane. The old Supreme Court building, together with the former City Hall building next to it, now house National Gallery Singapore.<br><br>
 
 <img style= "width: 85%;"
-src="/images/Vol%2019%20Issue%201/Courthouse/New%20Supreme%20Court.jpg">
+src="/images/Vol%2019%20Issue%201/Courthouse/New%20Supreme%20Court1.jpg">
 <div>The new Supreme Court building with the former courthouse on the right. <i>Photo by Jimmy Yap.</i>
 </div>
 <br>
