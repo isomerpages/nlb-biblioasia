@@ -25,7 +25,7 @@ This island was Sarong Island, a place where one could “dine, dance, watch flo
 Sarong Island was a piece of land about the size of three football fields (190,575-square-foot; 1.8 ha) that used to sit just off the northern coast of Sentosa. The island was near the former Sentosa Ferry Terminal before it was reclaimed and merged with Sentosa. Dubbed “Singapore’s first tourist isle”, Sarong Island was given its name by its former owner, the late Christina Lee (1923–2009), and was even referred to as the “Shangri-La” of Singapore.[^3]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland_edit.jpg)
-<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Image reproduced from “Page 5 Advertisements Column 1,” Straits Times, 14 October 1967, 5. (From NewspaperSG).</i></div>
+<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Source: The_ _Straits Times, 14 October 1967. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
 #### **An Island for Sale**
@@ -70,7 +70,7 @@ According to Lee, Law and National Development Minister E.W. Barker helped her t
 Sarong Island was declared open on 22 September 1967 by Barker, an event that was witnessed by several hundred guests. They arrived by sampan to the island amid “brilliant lighting effects” from Clifford Pier and Jardine Steps, and were “entertained to a dinner of local dishes” and “a multi-racial show”.[^15]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening_edit2.jpg)
-<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Image reproduced from R. Chandran, “All Set for Opening of Sarong Island,” Straits Times, 20 September 1967, 7. (From NewspaperSG).</i>
+<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Source: The_ _Straits Times, 20 September 1967. © SPH Media Limited. Permission required for reproduction.</i>
 </div>
 
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.

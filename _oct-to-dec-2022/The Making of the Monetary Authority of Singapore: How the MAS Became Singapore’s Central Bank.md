@@ -83,7 +83,7 @@ On 30 November 1985, Pan-Electric Industries Limited, a company listed on the St
 In an unprecedented move, the stock exchange was closed for trading from 2 to 4 December 1985 in a bid to stabilise the market and mitigate against any contagion effect and fallout on the heavily leveraged stockbroking firms. The closure was considered a drastic move and in doing so, “Singapore had to pay the price in terms of economic, reputational and social costs”.[^21]
 
 ![](/images/Vol%2018%20Issue%203/MAS/5_SESarticle.jpg)
-<div style="background-color: white;">Following the Pan-Electric Industries crisis, the Singapore Stock Exchange was closed for two days to prevent panic selling by shareholders. <i>Image reproduced from Conrad Raj, “SES Suspends All Trading,” Straits Times, 2 December 1985, 1. (From NewspaperSG). </i></div>
+<div style="background-color: white;">Following the Pan-Electric Industries crisis, the Singapore Stock Exchange was closed for two days to prevent panic selling by shareholders. <i>Source: The Straits Times, 2 December 1985. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The MAS stepped in with a bail-out plan by setting up an emergency “lifeboat” fund consisting of a $180-million line of credit underwritten by the “Big Four” local banks, accompanied by a three-month moratorium on the recall of loans to stockbrokers. The fund was designed to prevent the wholesale and systemic collapse of the stockbroking industry, and to restore public confidence.[^22]
 
@@ -96,7 +96,7 @@ Following the incident, the MAS “restricted the trading of forward contracts a
 A decade later, MAS had to deal with the collapse of Barings Bank, Britain’s oldest merchant bank, triggered by events in Singapore. Nicholas William Leeson, better known as Nick Leeson, was a derivatives trader and the general manager of Barings Futures Singapore. His excessive trading in Nikkei index futures chalked up great losses and saddled the bank with a huge debt. By the time of the bank’s collapse on 26 February 1995, it had accumulated losses amounting to $2.2 billion.[^25]
 
 ![](/images/Vol%2018%20Issue%203/MAS/6_NickLeeson.jpg)
-<div style="background-color: white;">Nick Leeson was extradited from Frankfurt to Singapore on 23 November 1995. He pleaded guilty to two charges of fraud and forgery, and was sentenced to six-and-a-half years in prison in Singapore. <i>Image reproduced from Alphonso Chan, “Nick Leeson Back to Face Charges of Fraud and Forgery,” Straits Times, 24 November 1995, 1. (From NewspaperSG). </i></div>
+<div style="background-color: white;">Nick Leeson was extradited from Frankfurt to Singapore on 23 November 1995. He pleaded guilty to two charges of fraud and forgery, and was sentenced to six-and-a-half years in prison in Singapore. <i>Source: The Straits Times, 24 November 1995. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The MAS was alerted and immediately swung into action by clearing the trades and closing up positions to safeguard the reputation of the Singapore International Monetary Exchange (SIMEX) and to restore public confidence in Singapore’s standing in the market. This became an internationally high-profile case that dominated headlines around the world. Fortunately, the losses incurred by Barings Futures Singapore and the consequent collapse of its parent bank in London did not have an adverse effect on the reputation of Singapore’s financial sector.[^26]
 

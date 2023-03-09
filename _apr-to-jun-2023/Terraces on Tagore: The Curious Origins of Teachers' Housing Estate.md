@@ -5,7 +5,7 @@ description: The Singapore Teachers’ Union wanted a clubhouse. They ended up
   building a housing estate.
 image: /images/Vol 19 Issue 1/Teacher's Housing Estate/Teachers_housing_estate.png
 ---
-#### The Singapore Teachers’ Union wanted a clubhouse. They ended up building a housing estate. 
+#### The Singapore Teachers’ Union wanted a clubhouse. It ended up building a housing estate. 
 By Sharon Teng
 
 ![](/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_housing_estate.png)
