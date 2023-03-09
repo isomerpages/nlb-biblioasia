@@ -8,7 +8,7 @@ description: "Lee Kong Chian Research Fellow Loh Kah Seng unpacks the myths and
 #### Lee Kong Chian Research Fellow _Loh Kah Seng_ unpacks the myths and metaphors of informal housing in Southeast Asia and its associated post-war representations.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/MythSquatters/YoungCommunity.jpg">
- <div style="background-color: white;">A young community in Klong Toey, Bangkok, Thailand Image reproduced from Chira Sakornpan et al. (1971). <i>Klong Toey: A Social Work Survey of a Squatter Slum,</i> p. 9. All rights reserved, Thailand Thammasat University, 1971.</div>
+ <div style="background-color: white;">A young community in Klong Toey, Bangkok, Thailand. <i>Image reproduced from Chira Sakornpan et al. (1971). Klong Toey: A Social Work Survey of a Squatter Slum,p. 9. All rights reserved, Thailand Thammasat University, 1971.</i></div>
 
 Before anger was expressed over “slum” in Danny Boyle’s popular, multi-Oscar winning movie *Slumdog Millionaire* (*New York Times*, 21 February 2009), representations of informal housing (otherwise known as “squatter” housing) played a much more prominent role in Southeast Asia and Hong Kong after World War II. Boyle’s film depicted the dwellers of an Indian slum to be both criminal and cosmopolitan, although critics focused on the former.
 
@@ -19,7 +19,7 @@ The very nature of informal housing was inimical to the states of Southeast Asia
 The classic informal settlement in post-war Southeast Asia and Hong Kong was anything but that. They were the unplanned products of a massive population boom and various forms of transnational, rural-urban and intra-urban migration of low-income families after the war (Yeung and Lo 1976, xviii). By 1961, there were an estimated 750,000 informal dwellers in Jakarta (constituting 25% of the city’s population), 320,000 in Manila (23%), 250,000 in Singapore (26%), and 100,000 in Kuala Lumpur (25%) (McGee 1970, 123).
 
 <img style="width:80%;" src="/images/Vol%205%20Issue%203/MythSquatters/Informal%20Dwellers.jpg">
- <div style="background-color: white;">Informal dwellers living in boats in Hong Kong Image reproduced from Golger, O. J. (1966).<i> Squatters and Resettlement: Symptoms of an Urban Crisis: Environmental Conditions of Low-standard Housing in Hong Kong.</i> All rights reserved, Wiesbaden, O. Harrassowitz, 1972.</div>
+ <div style="background-color: white;">Informal dwellers living in boats in Hong Kong. <i>Image reproduced from Golger, O. J. (1966). Squatters and Resettlement: Symptoms of an Urban Crisis: Environmental Conditions of Low-standard Housing in Hong Kong. All rights reserved, Wiesbaden, O. Harrassowitz, 1972.</i></div>
 
 The informal house was typically built without planning approval and with light semipermanent materials such as wood, attap and zinc. The numbers of such housing grew rapidly after the war at the physical and administrative margins of the city: in war-damaged sectors; on steep hillsides, unused cemeteries and rooftops of existing shop houses; along railway tracks, dried up riverbanks and canals; in boats, foreshore areas and parks; and over swampy ground, disused mining land and rubbish dump sites (Sendut 1976, Johnstone 1981, McGee 1967, Dwyer 1976, Giles 2003, Dick 2003, Laquian 1969, Stone 1973). The peripheral locations of informal settlements caused the state much anxiety. They were spaces where official control was weakest and where, as the state feared, any social change could profoundly alter the character of society (Douglas 2002, 150).
 
