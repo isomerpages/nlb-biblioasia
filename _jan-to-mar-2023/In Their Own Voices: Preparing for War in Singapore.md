@@ -204,7 +204,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^22]: [Ang Seah San](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea000529-115d-11e3-83d5-0050568939ad-OHC000419_001/web/html5/), oral history interview, 24 March 1984, Reel/Disc 1 of 7, 2.
 
 
-[^23]: [Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/95387ecb-1160-11e3-83d5-0050568939ad-OHC000374_001/web/html5/), oral history interview by Low Lay Leng, 17 April 1984, transcript and MP3 audio, Reel/Disc 1 of 22, National Archives of Singapore (accession no. 000374), 6–7. 
+[^23]: Gay Wan Guay, oral history interview by Low Lay Leng, 17 April 1984, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/95387ecb-1160-11e3-83d5-0050568939ad-OHC000374_001/web/html5/) and MP3 audio, Reel/Disc 1 of 22, National Archives of Singapore ([accession no. 000374](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000374)), 6–7. 
 
 
 [^24]: [Lee Kip Lee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d2e1d031-115f-11e3-83d5-0050568939ad-OHC001532_001/web/html5/), oral history interview by Cindy Chou, 13 July 1994, transcript and MP3 audio, Reel/Disc 1 of 6, National Archives of Singapore (accession no. 001532), 3. 
