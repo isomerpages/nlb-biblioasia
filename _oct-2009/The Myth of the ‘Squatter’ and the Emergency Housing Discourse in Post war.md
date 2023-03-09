@@ -95,7 +95,7 @@ In the Philippines, informal dwellers, local politicians and senior administrato
 
 tlements, gained a reputation for being responsible for much of the crime in the city (Cited in McGee 1967, 159).
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/MythSquatters/Tondo.jpg">
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/MythSquatters/Tondo.jpg">
  <div style="background-color: white;">Informal housing in Tondo, Manila, Philippines. <i>Image reproduced from Aprodicio A. L. (1983). Basic Housing: Policies for Urban Sites, Services, and Shelter in Developing Countries, p. 103. All rights reserved, Canadian International Development Research Centre, c1983.</i></div>
 
 In Manila, both national and local politicians were bound up in a mutually beneficial relationship: both needed each other to win elections. They also aligned themselves with informal dwellers to win votes, while the residents themselves made use of such patronage to resist eviction and win lawful tenure of their occupation from the state (Laquian 1966, 54, 118). The result of these complicated tangles of state-society relations was that most Southeast Asian states usually embarked on limited, shortterm and visible “prestige projects”. T. G. McGee has observed that “national prestige, more than national concern for the social welfare of squatters, has been the most active force leading to their shift in these two cases”, but this, in the final analysis, merely maintained the status quo (McGee 1967, 169–70).
