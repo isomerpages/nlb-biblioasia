@@ -147,10 +147,10 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^1]: Lee Geok Boi, [*The Syonan Years: Singapore under Japanese Rule 1942–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12661517) (Singapore: National Archives of Singapore and Epigram Pte Ltd, 2005), 44. (From National Library, Singapore, call no. RSING q940.53957 LEE-[WAR])
 
 
-[^2]: [Toh Mah Keong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/), oral history interview by Lim How Seng, 27 December 1979, transcript and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore (accession no. 000001), 18.
+[^2]: [Toh Mah Keong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/), oral history interview by Lim How Seng, 27 December 1979, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/) and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore ([accession no. 000001](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000001)), 18.
 
 
-[^3]: [Soh Guan Bee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/), oral history interview by Low Lay Leng, 17 August 1983, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 000310), 8–9.
+[^3]: [Soh Guan Bee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/), oral history interview by Low Lay Leng, 17 August 1983, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/) and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore ([accession no. 000310](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000310)), 8–9.
 
 
 [^4]: [Tan Ban Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7e9ea71-115d-11e3-83d5-0050568939ad-OHC000392_001/web/html5/), oral history interview by Low Lay Leng, 25 January 1979, transcript and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore (accession no. 000392), 7.
