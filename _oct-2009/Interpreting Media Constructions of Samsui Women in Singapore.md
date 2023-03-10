@@ -6,7 +6,7 @@ description: Lee Kong Chian Research Fellow Kelvin EY Low considers the
   constructions found in examples such as newspaper reports and popular history
   books.
 ---
-#### Lee Kong Chian Research Fellow _Kelvin EY Low_ considers the different means through which _samsui_ women are remembered vis-à-vis media constructions found in examples such as newspaper reports and popular history books.
+#### Lee Kong Chian Research Fellow _Kelvin EY Low_ considers the different means through which _samsui_ women are remembered vis-a-vis media constructions found in examples such as newspaper reports and popular history books.[^1]
 
 #### **Introduction**
 
@@ -47,7 +47,7 @@ Their link to feminism has also received a nod from former Nominated Member of P
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“Singaporean women like to think we’ve achieved much<br>&emsp;&emsp;&emsp;&emsp;&emsp;in the past 30 years. But the samsui women set our<br>&emsp;&emsp;&emsp;&emsp;&emsp;direction when they came here 100 years ago (sic). I<br>&emsp;&emsp;&emsp;&emsp;&emsp;salute them as the original Asian feminists.”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(*The Straits Times*, 5 February 2002)
 
-Similarly, *samsui* women have also been mentioned by another former Nominated Member of Parliament, Braema Mathiaparanam, who urged that some form of commemoration of these women should be carried out on National Day in order to remember their contributions. 2
+Similarly, *samsui* women have also been mentioned by another former Nominated Member of Parliament, Braema Mathiaparanam, who urged that some form of commemoration of these women should be carried out on National Day in order to remember their contributions.[^2]
 
 Apparently, the term “*samsui* women” hangs easily with those who talk about them as “pioneers” or “feminists”. Yet, such passing reverence or remembrances of these women are but limited glimpses of what we know about them and their life experiences. I discuss this further below, where I point out the utilisation of these terms upon the women by both the state and other institutions in furthering certain aims and goals.
 
@@ -62,13 +62,13 @@ The other *samsui* woman is Di Jie, who was three years younger:
 &emsp;&emsp;&emsp;&emsp;&emsp;“Di Jie was temporarily staying at the Old People’s<br>&emsp;&emsp;&emsp;&emsp;&emsp; Home. As her application to the subsidy from the<br>&emsp;&emsp;&emsp;&emsp;&emsp;government and the daughter of her sister could no<br> &emsp;&emsp;&emsp;&emsp;&emsp;longer support her lodging fee of S$300 per month, Di<br>&emsp;&emsp;&emsp;&emsp;&emsp; Jie was trapped in a situation where no one could take<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 care of her anymore…” (2006, p. 57)
 
-It is clear from Koo’s description of these two *samsui* ladies that she frames their current situation in a helpless and hapless manner, iterating their transition from being sturdy female construction workers to physically challenged elderly with little or no support. 3
+It is clear from Koo’s description of these two *samsui* ladies that she frames their current situation in a helpless and hapless manner, iterating their transition from being sturdy female construction workers to physically challenged elderly with little or no support.[^3]
 
 Similarly, in a local newspaper article, another *samsui* woman was mentioned as a recipient of home care help from a local organisation:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“She was once a robust *samsui* woman who could carry<br>&emsp;&emsp;&emsp;&emsp;&emsp;heavy loads effortlessly. But at the age of 89, just<br> &emsp;&emsp;&emsp;&emsp;&emsp;moving from her bed to her wheelchair is a challenge for<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Madam Heun Lin Yow.” (Chan, 2003)
 
-Additionally, *samsui* women have often been highlighted in the media as recipients of aid in various forms from charitable associations, receiving free medical checkups, being treated to Lunar New Year dinners and other special functions, among others (see Kee, 1996; Luo, 2005; Ramesh, 2006). 4 In spite of their frailty, which is clearly a marked contrast from their earlier years, these women have often been presented as always incorporated into and remembered or noted and honoured for their contributions by society through such events as the Lunar New Year festivities, when special meals were provided for them.
+Additionally, *samsui* women have often been highlighted in the media as recipients of aid in various forms from charitable associations, receiving free medical checkups, being treated to Lunar New Year dinners and other special functions, among others (see Kee, 1996; Luo, 2005; Ramesh, 2006).[^4] In spite of their frailty, which is clearly a marked contrast from their earlier years, these women have often been presented as always incorporated into and remembered or noted and honoured for their contributions by society through such events as the Lunar New Year festivities, when special meals were provided for them.
 
 #### **Overlapping Identities**
 
@@ -92,7 +92,7 @@ Finally, in the conclusion of the article, the women are recognised for their co
 
 These quotes point to a combination of varying identities of *samsui* women in media memory-making. Similar issues concerning their reasons for migrating, struggling against a series of hardships, eking out a living in Singapore as construction workers and, finally, retiring on social welfare, become generalisations of how the history and memory of *samsui* women as a collective are remembered. However, many other experiences of *samsui* women are left unheard.
 
-My research, which includes volunteer work with *samsui* women and other elderly, archival research, as well as speaking with (the adopted) kin of these women (see Low, 2007b), indicate that they were more than just Chinese female migrants who toiled at construction sites and either went back to China to retire, or remained in Singapore. Some *samsui* women also worked in other occupations, as rubber factory workers and domestic helpers, while others also adopted children, or got married. Other experiences of the women — including difficult times during the Japanese occupation of Singapore in the early 1940s, travelling back to *Samsui* for a visit after a few decades (Lim, 1996), among others — remain untapped and allocated to the background of popular memorialisation processes. Similar experiences and narratives of a few *samsui* women 5 may be gleaned below:
+My research, which includes volunteer work with *samsui* women and other elderly, archival research, as well as speaking with (the adopted) kin of these women (see Low, 2007b), indicate that they were more than just Chinese female migrants who toiled at construction sites and either went back to China to retire, or remained in Singapore. Some *samsui* women also worked in other occupations, as rubber factory workers and domestic helpers, while others also adopted children, or got married. Other experiences of the women — including difficult times during the Japanese occupation of Singapore in the early 1940s, travelling back to *Samsui* for a visit after a few decades (Lim, 1996), among others — remain untapped and allocated to the background of popular memorialisation processes. Similar experiences and narratives of a few *samsui* women[^5] may be gleaned below:
 
  &emsp;&emsp;&emsp;“Tough, but of course! Knee-deep high water also <br> &emsp;&emsp;&emsp;must go in. Now got machines to use. At that time, we <br> &emsp;&emsp;&emsp;carried \[cement and bricks\] by ourselves. Four, five <br> &emsp;&emsp;&emsp;storeys, seven storeys also carry up like that. <br> &emsp;&emsp;&emsp;Just a few cents only! We had to endure from morning <br> &emsp;&emsp;&emsp;till night. Even if our shoulders were bruised, we still had <br> &emsp;&emsp;&emsp;to climb up twelve storeys high. <br>&emsp;&emsp;&emsp;My life was not good. Had to remit money to brothers <br>&emsp;&emsp;&emsp;and sisters. Eat less lor, I only spend one cent on food <br>&emsp;&emsp;&emsp;a day. One cent worth of food to eat for a day. Ate <br>&emsp;&emsp;&emsp;peanuts, salted turnip, string beans…ate these kind of <br>&emsp;&emsp;&emsp;stuff! You think got fish and meat to eat ah? Don’t have <br>&emsp;&emsp;&emsp;ah, don’t even get to eat chicken on festive occasions at <br>&emsp;&emsp;&emsp;that time. Also couldn’t afford salted fish. Sometimes we <br>&emsp;&emsp;&emsp;ate pig’s blood fried with beansprouts, to eat for a day. <br>&emsp;&emsp;&emsp;\[Was\] expensive, would set us back by two cents. <br>&emsp;&emsp;&emsp;Our lives went by like that. What can we hope for? <br>&emsp;&emsp;&emsp;No family here. Cannot regret…already came here. <br>&emsp;&emsp;&emsp;No regrets, once we made up our minds to come.”
  
@@ -104,7 +104,7 @@ Such selective presentation of *samsui* women brings about limiting representati
 
 &emsp;&emsp;&emsp;“Nostalgia for images of…samsui women are certainly <br>&emsp;&emsp;&emsp;romanticised and shorn of the painful realities that <br>&emsp;&emsp;&emsp;usually attend real events…Most of the lives of the <br>&emsp;&emsp;&emsp;samsui women were also very painful, marked by <br>&emsp;&emsp;&emsp;backbreaking labour, meagre salaries and exploitative <br>&emsp;&emsp;&emsp;employers. (2005, p. 278)
 
-Presenting *samsui* women as pioneers is one issue. But framing them as feminists then becomes an appropriation of them as icons of female independence, hence adding favourably towards championing women’s rights and causes. I would also propose that such framing does not necessarily reflect upon all experiences of the women. As I have mentioned earlier, some of these women, for instance, were married and had children and grandchildren in Singapore. 6
+Presenting *samsui* women as pioneers is one issue. But framing them as feminists then becomes an appropriation of them as icons of female independence, hence adding favourably towards championing women’s rights and causes. I would also propose that such framing does not necessarily reflect upon all experiences of the women. As I have mentioned earlier, some of these women, for instance, were married and had children and grandchildren in Singapore.[^6]
 
 
 #### **Concluding Remarks**
@@ -187,9 +187,3 @@ Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Tr
  “[Yusheng Lunch for 400 Senior Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6),” _Straits Times_, 31 January 1997, 3. (From NewspaperSG)
  
 #### **NOTES**
-
-
-
-
-
-
