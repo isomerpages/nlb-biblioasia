@@ -99,9 +99,23 @@ My research, which includes volunteer work with *samsui* women and other elderly
 Other than these varied experiences which have not been substantively interpreted, it is also pertinent to probe into the various aims that motivate selective identity-representations  of *samsui* women. For example, state remembrance of *samsui* women as pioneers and feminists reveal “claims” over these women in order to produce a heritage that Singaporeans can relate to. I discuss elsewhere, how *samsui* women have been appropriated in various ways through what I term “pioneer narratives”:
  
 &emsp;&emsp;&emsp;“Dissemination of knowledge concerning these Chinese <br>&emsp;&emsp;&emsp;female migrants framed within the discourse of *samsui*  <br>&emsp;&emsp;&emsp;women as pioneers, can be better understood within <br>&emsp;&emsp;&emsp;what I refer to as ‘pioneer narratives’ – a form of <br>&emsp;&emsp;&emsp;‘historical recall script’ employed by the state in order <br>&emsp;&emsp;&emsp;to manage and perpetuate a sense of heritage and <br> &emsp;&emsp;&emsp;therefore collective identity. More importantly, virtues <br>&emsp;&emsp;&emsp;of hard work, thrift, resilience and perseverance are <br>&emsp;&emsp;&emsp;often highlighted in accounts of the *samsui* women, <br> &emsp;&emsp;&emsp;adding on to the list of ‘desirable values’ which the state <br>&emsp;&emsp;&emsp;often emphasises upon for its citizens. These pioneer <br>&emsp;&emsp;&emsp; narratives therefore form as media of heritage for <br>&emsp;&emsp;&emsp; purposes of instilling collective identities and therefore <br>&emsp;&emsp;&emsp;a sense of belonging to a ‘common past’.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Low, 2007a, p. 6)
- 
- 
- 
+
+Such selective presentation of *samsui* women brings about limiting representations of their experiences, as Chang and Huang contend:
+
+&emsp;&emsp;&emsp;“Nostalgia for images of…samsui women are certainly <br>&emsp;&emsp;&emsp;romanticised and shorn of the painful realities that <br>&emsp;&emsp;&emsp;usually attend real events…Most of the lives of the <br>&emsp;&emsp;&emsp;samsui women were also very painful, marked by <br>&emsp;&emsp;&emsp;backbreaking labour, meagre salaries and exploitative <br>&emsp;&emsp;&emsp;employers. (2005, p. 278)
+
+Presenting *samsui* women as pioneers is one issue. But framing them as feminists then becomes an appropriation of them as icons of female independence, hence adding favourably towards championing women’s rights and causes. I would also propose that such framing does not necessarily reflect upon all experiences of the women. As I have mentioned earlier, some of these women, for instance, were married and had children and grandchildren in Singapore. 6
+
+
+#### **Concluding Remarks**
+
+It may be right to suggest that the direction of media constructions of *samsui* women has, as its template, the four identity-categories which appear to be presented as unchanging and permanent. In other words, the production of knowledge on *samsui* women seems to centre mainly on their pioneering contributions, right up to their present situation as elderly women in need of help. Beyond these constructions, it is important to consider other ways in which we remember or know about their experiences. Were there other points in their lives which brought about relocation or permanent settlement in Singapore? For example, the opportunity to return to *Samsui* at various points of their lives may have been a good or less desirable awakening, either in the form of a desire to return to their country of origin, or to realise, upon their return, that they no longer fit in with their familial members back in China. Keeping in mind these varying queries, it is thus crucial to manoeuvre ourselves beyond the four identity-categories and not to regard them as ideal representations of *samsui* women.
+
+While some writings have emerged in recent years which provide a more in-depth engagement with the everyday life experiences of *samsui* women (for example, Low, 2005; Koo, 2006), more work of this nature needs to be produced in order to expand our knowledge concerning the life trajectories and experiences of *samsui* women.
+
+
+
+
 
 
 
