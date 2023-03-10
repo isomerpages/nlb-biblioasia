@@ -24,7 +24,7 @@ The *samsui* female labourer was easily recognised and singled out by her distin
 
 *Samsui* women migrated to Singapore in the 1920s and 1930s. Some of them remained in Singapore, while others either passed on or returned to *Samsui*. In order to interpret media constructions of samsui women, the ensuing section will elucidate upon the ways through which these women are remembered vis-a-vis media memory-making channels.
 
-#### **Cantonese/*Samsui* Womeni**
+#### **Cantonese/*Samsui* Women**
 
 Hailing from the *Samsui* province located in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from *Samsui*. For instance, Chin and Singam note:
 
@@ -187,3 +187,20 @@ Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Tr
  “[Yusheng Lunch for 400 Senior Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6),” _Straits Times_, 31 January 1997, 3. (From NewspaperSG)
  
 #### **NOTES**
+
+[^1]: This paper forms a part of my ongoing Ph.D. research on social memory and historiography of samsui women in Singapore, and is a preliminary article written for general readership. I would like to thank Kevin Blackburn for his constructive comments on an earlier draft of the paper
+
+[^2]: Parliament of Singapore, _[Parliamentary Debates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12500659)_, 2004.
+
+[^3]: In an article on Singapore’s greying community, samsui women were also described as “shrivelled and grey” (see _[Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950503-1.2.64.3.1)_, 3 May 1995, 2).
+
+[^4]: See also, _[Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4)_, 3 Feb 1997 and _[Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6)_, 31 Jan 1997, 3 in which samsui women were reported to have received red packets and food parcels from voluntary welfare associations, and been invited to a Lunar New Year Yusheng lunch hosted by the American International Assurance.
+
+[^5]: These quotes are taken from a documentary produced in 1995 titled “An immigrant’s story: With sweat, tears and toil – The Samsui Women” (Mediacorp News and Channel News Asia, Singapore).
+
+[^6]: A filmlet based on a samsui woman has recently been produced in conjunction with the 2007 National Day celebrations of Singapore’s 42nd anniversary of independence. In that clip, samsui woman Loke Tai Hoe was featured as having come from China in 1936, and after having worked for 42 years, her “efforts have finally paid off”, and she was seen sitting in the centre of a family portrait with her children and grandchildren.
+
+
+
+
+
