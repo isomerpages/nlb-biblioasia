@@ -28,8 +28,7 @@ The *samsui* female labourer was easily recognised and singled out by her distin
 
 Hailing from the *Samsui* province located in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from *Samsui*. For instance, Chin and Singam note:
 
-
-
+&emsp;&emsp;&emsp;&emsp;&emsp;“Indeed, it has become <br>&emsp;&emsp;&emsp;&emsp;&emsp;common for English <br>&emsp;&emsp;&emsp;&emsp;&emsp;speakers to refer to all <br>&emsp;&emsp;&emsp;&emsp;&emsp;still-surviving, old, single, <br>&emsp;&emsp;&emsp;&emsp;&emsp;immigrant Cantonese <br>&emsp;&emsp;&emsp;&emsp;&emsp;women as Samsui women. <br>&emsp;&emsp;&emsp;&emsp;&emsp;This lumps together, quite <br>&emsp;&emsp;&emsp;&emsp;&emsp;incorrectly, women from <br>&emsp;&emsp;&emsp;&emsp;&emsp;many districts — each <br>&emsp;&emsp;&emsp;&emsp;&emsp;distinct in sub-dialect and <br>&emsp;&emsp;&emsp;&emsp;&emsp;self-image.” <br> (2004, p.106)
 
 
 
