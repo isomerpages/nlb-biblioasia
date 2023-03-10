@@ -28,9 +28,9 @@ The *samsui* female labourer was easily recognised and singled out by her distin
 
 Hailing from the *Samsui* province located in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from *Samsui*. For instance, Chin and Singam note:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;“Indeed, it has become <br>&emsp;&emsp;&emsp;&emsp;&emsp;common for English <br>&emsp;&emsp;&emsp;&emsp;&emsp;speakers to refer to all <br>&emsp;&emsp;&emsp;&emsp;&emsp;still-surviving, old, single, <br>&emsp;&emsp;&emsp;&emsp;&emsp;immigrant Cantonese <br>&emsp;&emsp;&emsp;&emsp;&emsp;women as Samsui women. <br>&emsp;&emsp;&emsp;&emsp;&emsp;This lumps together, quite <br>&emsp;&emsp;&emsp;&emsp;&emsp;incorrectly, women from <br>&emsp;&emsp;&emsp;&emsp;&emsp;many districts — each <br>&emsp;&emsp;&emsp;&emsp;&emsp;distinct in sub-dialect and <br>&emsp;&emsp;&emsp;&emsp;&emsp;self-image.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2004, p. 106)
+&emsp;&emsp;&emsp;&emsp;&emsp;“Indeed, it has become <br>&emsp;&emsp;&emsp;&emsp;&emsp;common for English <br>&emsp;&emsp;&emsp;&emsp;&emsp;speakers to refer to all <br>&emsp;&emsp;&emsp;&emsp;&emsp;still-surviving, old, single, <br>&emsp;&emsp;&emsp;&emsp;&emsp;immigrant Cantonese <br>&emsp;&emsp;&emsp;&emsp;&emsp;women as Samsui women. <br>&emsp;&emsp;&emsp;&emsp;&emsp;This lumps together, quite <br>&emsp;&emsp;&emsp;&emsp;&emsp;incorrectly, women from <br>&emsp;&emsp;&emsp;&emsp;&emsp;many districts — each <br>&emsp;&emsp;&emsp;&emsp;&emsp;distinct in sub-dialect and <br>&emsp;&emsp;&emsp;&emsp;&emsp;self-image.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2004, p. 106)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;“Not all *Samsui* women <br>&emsp;&emsp;&emsp;&emsp;&emsp; came from the *Samsui* <br>&emsp;&emsp;&emsp;&emsp;&emsp; village in the Guangdong <br>&emsp;&emsp;&emsp;&emsp;&emsp; Province in China. <br>&emsp;&emsp;&emsp;&emsp;&emsp; But because of the <br>&emsp;&emsp;&emsp;&emsp;&emsp; preponderance of these <br>&emsp;&emsp;&emsp;&emsp;&emsp; women from *Samsui*, the <br> &emsp;&emsp;&emsp;&emsp;&emsp;term *Samsui* women has <br>&emsp;&emsp;&emsp;&emsp;&emsp; been used to describe <br>&emsp;&emsp;&emsp;&emsp;&emsp; all the Chinese women <br>&emsp;&emsp;&emsp;&emsp;&emsp;in similar occupations.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2006, p. 40)
+&emsp;&emsp;&emsp;&emsp;&emsp;“Not all *Samsui* women <br>&emsp;&emsp;&emsp;&emsp;&emsp; came from the *Samsui* <br>&emsp;&emsp;&emsp;&emsp;&emsp; village in the Guangdong <br>&emsp;&emsp;&emsp;&emsp;&emsp; Province in China. <br>&emsp;&emsp;&emsp;&emsp;&emsp; But because of the <br>&emsp;&emsp;&emsp;&emsp;&emsp; preponderance of these <br>&emsp;&emsp;&emsp;&emsp;&emsp; women from *Samsui*, the <br> &emsp;&emsp;&emsp;&emsp;&emsp;term *Samsui* women has <br>&emsp;&emsp;&emsp;&emsp;&emsp; been used to describe <br>&emsp;&emsp;&emsp;&emsp;&emsp; all the Chinese women <br>&emsp;&emsp;&emsp;&emsp;&emsp;in similar occupations.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2006, p. 40)
 
 A more interesting point to note with regard to *samsui* women is their membership in the dialect group of the Cantonese. Framed as a “different and markedly independent category of Chinese women from the south” (Chin & Singam 2004, p. 105), Cantonese women were known to be highly independent and feisty, and refused to, or rarely married (Chiang, 1994; Gaw, 1988; Samuel, 1991; Stockard, 1989; Tan, 1990; Topley, 1959).
 
@@ -67,5 +67,24 @@ It is clear from Koo’s description of these two *samsui* ladies that she frame
 Similarly, in a local newspaper article, another *samsui* woman was mentioned as a recipient of home care help from a local organisation:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“She was once a robust *samsui* woman who could carry<br>&emsp;&emsp;&emsp;&emsp;&emsp;heavy loads effortlessly. But at the age of 89, just<br> &emsp;&emsp;&emsp;&emsp;&emsp;moving from her bed to her wheelchair is a challenge for<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Madam Heun Lin Yow.” (Chan, 2003)
+
+Additionally, *samsui* women have often been highlighted in the media as recipients of aid in various forms from charitable associations, receiving free medical checkups, being treated to Lunar New Year dinners and other special functions, among others (see Kee, 1996; Luo, 2005; Ramesh, 2006). 4 In spite of their frailty, which is clearly a marked contrast from their earlier years, these women have often been presented as always incorporated into and remembered or noted and honoured for their contributions by society through such events as the Lunar New Year festivities, when special meals were provided for them.
+
+#### **Overlapping Identities**
+
+In the preceding three sections, I have demonstrated how *samsui* women are presented through the categories of Cantonese migrant women, pioneers and feminists, and elderly in need of help. I indicate here a combination of some if not all of these categories to illustrate how their identity has been presented in the media as a kind of template which has been developed and put together from the previous three categories of identity production.
+
+In a chapter on “Older Women: Planning for the Golden Years” included in *A Woman’s Place: The Story of Singapore Women* (Wong & Leong, 1993), *samsui* women have been described as follows:
+
+&emsp;&emsp;&emsp;“These women worked hard and were regarded to be <br>&emsp;&emsp;&emsp;almost as good as the men, not just in the way they <br>&emsp;&emsp;&emsp;worked, but also in their ability to save and send money <br>&emsp;&emsp;&emsp;home. Working women in those days might have worked <br>&emsp;&emsp;&emsp;in humble jobs that younger workers today shun, but <br>&emsp;&emsp;&emsp;they remained fiercely independent and took great pride <br>&emsp;&emsp;&emsp;in the fact that, not only did they support themselves, <br>&emsp;&emsp;&emsp;they even supported their families back in their <br>&emsp;&emsp;&emsp;homeland.” (1993, p. 61–62)
+
+Similar descriptions can be found in another piece of writing produced by the *Singapore Contractors Association Ltd* (SCAL), titled “Tribute to our History”:
+
+&emsp;&emsp;&emsp;“As restrictions were once imposed on male immigrants<br>&emsp;&emsp;&emsp;from poverty-stricken China, the women came instead<br>&emsp;&emsp;&emsp;to take on the heavy work. The women, clothed in black<br>&emsp;&emsp;&emsp;*samfoo* and a headgear, worked at construction sites<br>&emsp;&emsp;&emsp;from dawn to dusk seven days a week, moving from<br>&emsp;&emsp;&emsp;project to project, chipping stones, mixing cement,<br>&emsp;&emsp;&emsp;mortar, carrying heavy loads, sweeping and cleaning.”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(1997, p. 17)
+
+After having been praised for the work that they did, these women were further described as elderly in need and receipt of social assistance in contemporary times:
+
+
+
 
 
