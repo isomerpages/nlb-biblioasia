@@ -62,7 +62,10 @@ The other *samsui* woman is Di Jie, who was three years younger:
 &emsp;&emsp;&emsp;&emsp;&emsp;“Di Jie was temporarily staying at the Old People’s<br>&emsp;&emsp;&emsp;&emsp;&emsp; Home. As her application to the subsidy from the<br>&emsp;&emsp;&emsp;&emsp;&emsp;government and the daughter of her sister could no<br> &emsp;&emsp;&emsp;&emsp;&emsp;longer support her lodging fee of S$300 per month, Di<br>&emsp;&emsp;&emsp;&emsp;&emsp; Jie was trapped in a situation where no one could take<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 care of her anymore…” (2006, p. 57)
 
+It is clear from Koo’s description of these two *samsui* ladies that she frames their current situation in a helpless and hapless manner, iterating their transition from being sturdy female construction workers to physically challenged elderly with little or no support. 3
 
+Similarly, in a local newspaper article, another *samsui* woman was mentioned as a recipient of home care help from a local organisation:
 
+&emsp;&emsp;&emsp;&emsp;&emsp;“She was once a robust *samsui* woman who could carry<br>&emsp;&emsp;&emsp;&emsp;&emsp;heavy loads effortlessly. But at the age of 89, just<br> &emsp;&emsp;&emsp;&emsp;&emsp;moving from her bed to her wheelchair is a challenge for<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Madam Heun Lin Yow.” (Chan, 2003)
 
 
