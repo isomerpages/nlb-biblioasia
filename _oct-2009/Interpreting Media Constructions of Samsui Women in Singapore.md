@@ -32,6 +32,17 @@ Hailing from the *Samsui* province located in southern China, the women who typi
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“Not all *Samsui* women <br>&emsp;&emsp;&emsp;&emsp;&emsp; came from the *Samsui* <br>&emsp;&emsp;&emsp;&emsp;&emsp; village in the Guangdong <br>&emsp;&emsp;&emsp;&emsp;&emsp; Province in China. <br>&emsp;&emsp;&emsp;&emsp;&emsp; But because of the <br>&emsp;&emsp;&emsp;&emsp;&emsp; preponderance of these <br>&emsp;&emsp;&emsp;&emsp;&emsp; women from *Samsui*, the <br> &emsp;&emsp;&emsp;&emsp;&emsp;term *Samsui* women has <br>&emsp;&emsp;&emsp;&emsp;&emsp; been used to describe <br>&emsp;&emsp;&emsp;&emsp;&emsp; all the Chinese women <br>&emsp;&emsp;&emsp;&emsp;&emsp;in similar occupations.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2006, p. 40)
 
+A more interesting point to note with regard to *samsui* women is their membership in the dialect group of the Cantonese. Framed as a “different and markedly independent category of Chinese women from the south” (Chin & Singam 2004, p. 105), Cantonese women were known to be highly independent and feisty, and refused to, or rarely married (Chiang, 1994; Gaw, 1988; Samuel, 1991; Stockard, 1989; Tan, 1990; Topley, 1959).
+
+Along the lines of highlighting their Cantonese origin (see also, Kong et al., 1996), *samsui* women are also typically presented as emerging triumphant from hardships back in China, toiling in the fields, dealing with useless, opium-addicted husbands who were match-made to them in their teens, and being singled out as “strong-willed” (Lim, 2005, p. 141) or resilient (Chin & Singam, 2004). Having framed *samsui* women as a group of independent Cantonese womenfolk, this approach becomes a useful resource for another level of representation, that of presenting them as “pioneers” and “feminists”, which I address next.
+
+#### **“Pioneers” and “Feminists”**
+
+Given the atypical work position of *samsui* women who toiled alongside men in the construction industry (and in other occupations), these women are often lauded and highlighted for their contributions to the physical infrastructure of Singapore’s built-up environment, so that “they are not forgotten as the early builders of our nation” (Chan, 2005, p. 59). Their roles in construction work see them involved in constructing landmark buildings such as, among others, Alexandra Hospital (Partridge, 1998), Meritus Mandarin Hotel, and Singapore Conference Hall, the last of which “is a site they helped erect way back in the 1960s” (Tan, 2003). Related to their pioneer status is that of claiming them as “Singapore’s first Asian feminist” (Tan, 2003), or “alpha women of yesteryear” (Yip, 2006, p. 41). Tan notes:
+
+“It is not just the obvious
+role she has played in the
+
 
 
 
