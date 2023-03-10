@@ -48,6 +48,10 @@ testified by school
 textbooks and local soap
 operas. It is what she
 has come to stand for, as
+Singapore’s first
+Asian feminist.” (2003)
+
+
 
 
 
