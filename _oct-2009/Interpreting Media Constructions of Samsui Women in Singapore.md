@@ -18,7 +18,16 @@ This paper discusses the different means through which these women are remembere
 
 *Samsui* women, or hong tou jin — translated literally as “red headscarf” (Lim, 2002) — came from peasant families in the *Samsui* area of the coastal province of Canton (Guangdong today) in China (Tang, 1960). These women often helped out and toiled in the fields at a very young age, and hence were able to find work at construction sites in Singapore when they left their homeland. This was primarily a result of the Alien Ordinance imposed on Singapore (then part of the Straits Settlements) by the British, which saw many *samsui* women migrating to Singapore in the 1930s (Lim, 2002). A quota was imposed on the numbers of male migrants entering Malaya, whereas no restrictions were enforced upon female migrants.
 
-*Samsui* women went through a *sui haak* (middlemen) before securing a job in the building and construction industry overseas. One *samsui* woman for instance, paid 30 dollars to a *sui haak* to help her make the necessary arrangements to work overseas, which covered the fare for her journey, food and other migration procedures (Lim, 2002, p. 231). Tang (1960) estimates that between 1934 and1938, about 190,000 women from China migrated to Malaya, and *samsui* women formed part of this wave of female migrants.
+*Samsui* women went through a *sui haak* (middlemen) before securing a job in the building and construction industry overseas. One *samsui* woman for instance, paid 30 dollars to a *sui haak* to help her make the necessary arrangements to work overseas, which covered the fare for her journey, food and other migration procedures (Lim, 2002, p. 231). Tang (1960) estimates that between 1934 and 1938, about 190,000 women from China migrated to Malaya, and *samsui* women formed part of this wave of female migrants.
+
+The *samsui* female labourer was easily recognised and singled out by her distinctive red cloth headgear, black tunics and black pants (*samfoo*) which she wore to work every day (Lim, 2002, p. 230). Although the exact reason for donning the headgear is hitherto debatable, it is surmised that the first woman to wear it was Su Tong Po’s mistress in the Hakka district of China, by the name of Chao Yun (Lim, 2002). Through the passing of time, the headgear was adopted as the traditional headgear of Hakka women, who took along this tradition with them as they migrated south from China. Working alongside these Hakka women, *samsui* women also began to put on the red headgear to work. However, Lim (2002) points out that this account remains contested, and that the real reason and motivation for wearing the headgear is still not known.
+
+*Samsui* women migrated to Singapore in the 1920s and 1930s. Some of them remained in Singapore, while others either passed on or returned to *Samsui*. In order to interpret media constructions of samsui women, the ensuing section will elucidate upon the ways through which these women are remembered vis-a-vis media memory-making channels.
+
+#### **Cantonese/*Samsui* Womeni**
+
+Hailing from the *Samsui* province located in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from *Samsui*. For instance, Chin and Singam note:
+
 
 
 
