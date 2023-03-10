@@ -111,8 +111,82 @@ Presenting *samsui* women as pioneers is one issue. But framing them as feminist
 
 It may be right to suggest that the direction of media constructions of *samsui* women has, as its template, the four identity-categories which appear to be presented as unchanging and permanent. In other words, the production of knowledge on *samsui* women seems to centre mainly on their pioneering contributions, right up to their present situation as elderly women in need of help. Beyond these constructions, it is important to consider other ways in which we remember or know about their experiences. Were there other points in their lives which brought about relocation or permanent settlement in Singapore? For example, the opportunity to return to *Samsui* at various points of their lives may have been a good or less desirable awakening, either in the form of a desire to return to their country of origin, or to realise, upon their return, that they no longer fit in with their familial members back in China. Keeping in mind these varying queries, it is thus crucial to manoeuvre ourselves beyond the four identity-categories and not to regard them as ideal representations of *samsui* women.
 
-While some writings have emerged in recent years which provide a more in-depth engagement with the everyday life experiences of *samsui* women (for example, Low, 2005; Koo, 2006), more work of this nature needs to be produced in order to expand our knowledge concerning the life trajectories and experiences of *samsui* women.
+While some writings have emerged in recent years which provide a more in-depth engagement with the everyday life experiences of *samsui* women (for example, Low, 2005; Koo, 2006), more work of this nature needs to be produced in order to expand our knowledge concerning the life trajectories and experiences of *samsui* 
+women.
 
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Loh%20Kah%20Seng.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Kelvin E.Y. Low</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
+
+#### **REFERENCES**
+
+A. Yip, “Samsui Women (Heroines in Construction),” _Asian Geographic_ 37, no. 4 (2006), 36–41.
+
+Aline Wong and Leong Wai Kum, eds. _A Woman’s Place: The Story of Singapore Women_ (Singapore: The PAP Women’s Wing, 1993). (Call no. RSING 305.42095957 WOM)
+
+Allison Lim, “[Samsui Women Return After Emotional Trip to China To Meet Friends and Relatives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961027-1.2.38.8),” _Straits Times_, 27 October 1996, 31. (From NewspaperSG)
+
+Audrey Chin and Constance Singam, [_Singapore Women Re-Presented_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12427651) (Singapore: Landmark Books, 2004). (Call no. RSING 305.4095957 CHI)
+
+C. H. Tang, “The Cantonese Women Building Labourers: A Study of a Group of Sam-Sui Women in the Building Trade,” \[Unpublished research paper, Department of Social Studies, University of Malaya in Singapore, 1960\]
+
+C. L. Low, “40 Cents Rich,” in _[Singapore Life Lines](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583818)_ (Singapore: Singapore Press Holdings, 2005), 8–15. (Call no. RSING q179.6 SIN)
+
+Chan Kwee Sung, [_One More Story To Tell: Memories of Singapore, 1930s–1980s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12460547) (Singapore: Landmark Books, 2005). (Call no. RSING 959.5705092 CHA)
+
+Chan Seet Fun, “[She Ain’t Heavy\* She’s My Mum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20030812-1.2.30.6.1),” _Today_, 12 August 2003, 24. (From NewspaperSG)
+
+Claire Chiang, “Female Migrants in Singapore: Towards a Strategy of Pragmatism and Coping,” in [_Women and Chinese Patriarchy: Submission, Servitude, and Escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205), ed. Maria Jaschok and Suzanne Miers (Hong Kong: Hong Kong University Press, 1994), 238–263. (Call no. RSING 305.420951 WOM)
+
+Dhoraisingam S. Samuel, _[Singapore’s Heritage: Through Places of Historical Interest](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232)_ (Singapore: Elixir Consultancy Service, 1991). (Call no. RSING 959.57 SAM)
+
+E. P. Koo, “Stories of Two Samsui Women,” _[Nagapuspa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12712458)_ 6 (September–October 2006), 52–57. (Call no. RSING 294.305 N)
+
+“[Hongbao on Wheels Help Spread Festive Cheer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4),” _Straits Times_, 3 February 1997, 3. (From NewspaperSG)
+
+Janice E. Stockard, _Daughters of the Canton Delta: Marriage Patterns and Economic Strategies in South China, 1860–1930_ (California: Stanford University Press, 1989)  
+
+Jeff Partridge, _[Alexandra Hospital: From British Military to Civilian Institution 1938–1998](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9173104)_ (Singapore: The Hospital, 1998). (Call no. RSING 362.11095957 PAR)
+
+Julie Kee, “[New Welfare Home To Be Training Centre Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961012-1.2.38.17),” _Straits Times_, 12 October 1996, 31. (From NewspaperSG)
+
+Kelvin E. Y. Low, “From Migrants to Pioneers: Heritage Appropriation and the Samsui Women in Singapore,” \[Paper presented at Mobile City Singapore, organised by the Asia Research Institute, and Faculty of Arts and Social Sciences, National University of Singapore, March 2007\]
+
+Kelvin E. Y. Low, “Moral Gatekeeping and Social Responsibility: Reflections on Doing Samsui Women Research,” _Tangent_ 6, no. 2 (2007), 93–105.
+
+Kenneth Gaw, _[Superior Servants: The Legendary Cantonese Amahs of the Far East](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4773514)_ (Singapore: Oxford University Press, 1988). (Call no. RSING 331.481640460951 GAW)
+
+L. C. Lim, “Samsui Women: Women With a Will Stronger Than Iron,” in _[Down Memory Lane in Clogs: Growing Up in Chinatown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11472149)_, ed. Si Jing (Singapore: Asiapac Books, 2002), 225–337. (Call no. RSING 920.72 SI)
+
+Lily Kong, Brenda Yeoh and Peggy Teo, “Singapore and the Experience of Place in Old Age,” _Geographical Review_ 86, no. 4 (October 1996), 529–549. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Lim Yin Luen, “[Loneliness in the Twilight Years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950503-1.2.64.3.1),” _Straits Times_, 3 May 1995, 2. (From NewspaperSG)
+
+Majorie Topley, “Immigrant Chinese Female Servants and Their Hostels in Singapore,” _Man_ 59 (December 1959), 213–15. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Parliament of Singapore, _[Singapore Parliament Reports. Volume 77 (5th January 2004 to 19th May 2004)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12500659)_ (Singapore: Parliament, 2004). (Call no. RSING 328.595702 SIN)
+
+S. Ramesh, “Elderly Citizens Fight Loneliness With Community Walkathon,” _Channel NewsAsia_, 2006.
+
+“[Samsui Women’s New Year Treat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020205-1.2.25.9),” _Straits Times_, 5 February 2002, 3. (From NewspaperSG)
+
+Serene Luo, “[1st NDP Treat for Samsui Woman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050806-1.2.70.33),” _Straits Times_, 6 August 2005, 13. (From NewspaperSG)
+
+Singapore Contractors Association, “Tribute to Our History,” _[Contractor](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079474)_, 14, no. 2 (March–April 1997), 7. (Call no. RSING 692.805 C)
+
+Suchen Christine Lim, _[Stories of the Chinese Overseas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12278215)_ (Singapore: SNP editions, 2005). (Call no. RSING q909.04951 LIM)
+
+T. C. Chang and Shirlena Huang, “Recreating place, replacing memory: Creative destruction at the Singapore River,” [_Asia Pacific Viewpoint_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7806320), 46, no. 3 (December 2005), 267–280. (Call no. RSEA 950.05 APV)
+
+Tan Shzr Ee, “[We Built This City](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031214-1.2.56.2.1),” _Straits Times_, 14 December 2003, 2. (From NewspaperSG)
+
+Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Trades,” in _[Chinese Dialect Groups: Traits and Trades](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946)_ (Singapore: Opinion Books, 1990), 1–20. (Call no. RSING 305.8951095957 CHI)
+
+ “[Yusheng Lunch for 400 Senior Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6),” _Straits Times_, 31 January 1997, 3. (From NewspaperSG)
+ 
+#### **NOTES**
 
 
 
