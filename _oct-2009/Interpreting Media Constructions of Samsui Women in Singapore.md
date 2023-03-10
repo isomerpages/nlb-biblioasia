@@ -42,8 +42,12 @@ Given the atypical work position of *samsui* women who toiled alongside men in t
 
 “It is not just the obvious
 role she has played in the
-
-
+building of Singapore’s
+physical history, as
+testified by school
+textbooks and local soap
+operas. It is what she
+has come to stand for, as
 
 
 
