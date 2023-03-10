@@ -40,18 +40,16 @@ Along the lines of highlighting their Cantonese origin (see also, Kong et al., 1
 
 Given the atypical work position of *samsui* women who toiled alongside men in the construction industry (and in other occupations), these women are often lauded and highlighted for their contributions to the physical infrastructure of Singapore’s built-up environment, so that “they are not forgotten as the early builders of our nation” (Chan, 2005, p. 59). Their roles in construction work see them involved in constructing landmark buildings such as, among others, Alexandra Hospital (Partridge, 1998), Meritus Mandarin Hotel, and Singapore Conference Hall, the last of which “is a site they helped erect way back in the 1960s” (Tan, 2003). Related to their pioneer status is that of claiming them as “Singapore’s first Asian feminist” (Tan, 2003), or “alpha women of yesteryear” (Yip, 2006, p. 41). Tan notes:
 
-“It is not just the obvious
-role she has played in the
-building of Singapore’s
-physical history, as
-testified by school
-textbooks and local soap
-operas. It is what she
-has come to stand for, as
-Singapore’s first
-Asian feminist.” (2003)
+ &emsp;&emsp;&emsp;&emsp;&emsp;“It is not just the obvious<br>&emsp;&emsp;&emsp;&emsp;&emsp;role she has played in the<br>&emsp;&emsp;&emsp;&emsp;&emsp;building of Singapore’s<br>&emsp;&emsp;&emsp;&emsp;&emsp;physical history, as<br>&emsp;&emsp;&emsp;&emsp;&emsp;testified by school<br>&emsp;&emsp;&emsp;&emsp;&emsp;textbooks and local soap<br>&emsp;&emsp;&emsp;&emsp;&emsp;operas. It is what she<br>&emsp;&emsp;&emsp;&emsp;&emsp;has come to stand for, as<br>&emsp;&emsp;&emsp;&emsp;&emsp;
+Singapore’s first<br>&emsp;&emsp;&emsp;&emsp;&emsp;Asian feminist.” (2003)
 
+Their link to feminism has also received a nod from former Nominated Member of Parliament, Dr Kanwaljit Soin, who praised samsui women at a Lunar New Year lunch:
 
+“Singaporean women like to think we’ve achieved much
+in the past 30 years. But the samsui women set our
+direction when they came here 100 years ago (sic). I
+salute them as the original Asian feminists.”
+(*The Straits Times*, 5 February 2002)
 
 
 
