@@ -432,4 +432,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: A History of The Padang
+      subtitle: Places and Buildings
+      description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
+        front of the former City Hall building so special.
+      button: A NATIONAL MONUMENT
+      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
+      image: /images/Vol 18 Issue 1/The Padang/padang12.png
+      alt: Image alt text
 ---
