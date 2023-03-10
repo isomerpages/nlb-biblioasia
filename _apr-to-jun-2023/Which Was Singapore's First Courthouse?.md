@@ -128,7 +128,7 @@ Maxwell’s House was used as the Court of Judicature and other government offic
 <img src="/images/Vol%2019%20Issue%201/Courthouse/Fisrt%20Purpose%20built%20Courthouse.jpg">
 <div>The first purpose-built courthouse, much renovated, as it looks today. It now houses the Asian Civilisations Museum. <i>Photo by Jimmy Yap.</i></div><br>
 	
-In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.<br><br>
+In the meantime, Maxwell’s House was becoming overcrowded by the various government departments contained within. As a result, it was decided that a swap be made. The court, which had been reconstituted as the Supreme Court of the Straits Settlements in 1867, returned to Maxwell’s House as the sole occupant in 1872 while the government departments moved to the former court building.<br>
 
 In 1901, Maxwell’s House was completely renovated and extended to its current dimensions to accommodate an ever-enlarging court establishment. The Supreme Court remained in Maxwell’s House until 1939 when it moved to the newly built Supreme Court building at the junction of St Andrew’s Road and High Street.<br><br>
 	
