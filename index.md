@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Women Typewriter/Hero_img_Women Typewriters.png
   - infopic:
+      title: A History of The Padang
+      subtitle: Places and Buildings
+      description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
+        front of the former City Hall building so special.
+      button: A NATIONAL MONUMENT
+      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
+      image: /images/Vol 18 Issue 1/The Padang/padang12.png
+      alt: Image alt text
+  - infopic:
       title: "Belacan: Caviar? Or Vile and Disgusting?"
       subtitle: Food
       description: "Fermented shrimp is a staple in many cuisines of Southeast Asia,

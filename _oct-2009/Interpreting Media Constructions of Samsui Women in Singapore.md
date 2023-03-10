@@ -45,11 +45,27 @@ Singapore’s first<br>&emsp;&emsp;&emsp;&emsp;&emsp;Asian feminist.” (2003)
 
 Their link to feminism has also received a nod from former Nominated Member of Parliament, Dr Kanwaljit Soin, who praised samsui women at a Lunar New Year lunch:
 
-“Singaporean women like to think we’ve achieved much
-in the past 30 years. But the samsui women set our
-direction when they came here 100 years ago (sic). I
-salute them as the original Asian feminists.”
-(*The Straits Times*, 5 February 2002)
+&emsp;&emsp;&emsp;&emsp;&emsp;“Singaporean women like to think we’ve achieved much<br>&emsp;&emsp;&emsp;&emsp;&emsp;in the past 30 years. But the samsui women set our<br>&emsp;&emsp;&emsp;&emsp;&emsp;direction when they came here 100 years ago (sic). I<br>&emsp;&emsp;&emsp;&emsp;&emsp;salute them as the original Asian feminists.”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(*The Straits Times*, 5 February 2002)
 
+Similarly, *samsui* women have also been mentioned by another former Nominated Member of Parliament, Braema Mathiaparanam, who urged that some form of commemoration of these women should be carried out on National Day in order to remember their contributions. 2
+
+Apparently, the term “*samsui* women” hangs easily with those who talk about them as “pioneers” or “feminists”. Yet, such passing reverence or remembrances of these women are but limited glimpses of what we know about them and their life experiences. I discuss this further below, where I point out the utilisation of these terms upon the women by both the state and other institutions in furthering certain aims and goals.
+
+#### **Elderly Women**
+
+Koo’s article, written based on two *samsui* women, tells of the women’s current position in their later years. Their frailty, vulnerability and helplessness are highlighted. The first *samsui* woman is Gui Jie, who was 92 at the time of the interview with Koo. She describes Gui Jie:
+
+ &emsp;&emsp;&emsp;&emsp;&emsp;“Dressed in a grey blouse with flowers printed and black<br>&emsp;&emsp;&emsp;&emsp;&emsp;pants, her grey hair was short and tidy; her small frame<br> &emsp;&emsp;&emsp;&emsp;&emsp;somehow made the wheelchair appear to have plenty of<br> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;room.” (2006, p. 56)
+ 
+The other *samsui* woman is Di Jie, who was three years younger:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;“Di Jie was temporarily staying at the Old People’s<br>&emsp;&emsp;&emsp;&emsp;&emsp; Home. As her application to the subsidy from the<br>&emsp;&emsp;&emsp;&emsp;&emsp;government and the daughter of her sister could no<br> &emsp;&emsp;&emsp;&emsp;&emsp;longer support her lodging fee of S$300 per month, Di<br>&emsp;&emsp;&emsp;&emsp;&emsp; Jie was trapped in a situation where no one could take<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+care of her anymore…” (2006, p. 57)
+
+It is clear from Koo’s description of these two *samsui* ladies that she frames their current situation in a helpless and hapless manner, iterating their transition from being sturdy female construction workers to physically challenged elderly with little or no support. 3
+
+Similarly, in a local newspaper article, another *samsui* woman was mentioned as a recipient of home care help from a local organisation:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;“She was once a robust *samsui* woman who could carry<br>&emsp;&emsp;&emsp;&emsp;&emsp;heavy loads effortlessly. But at the age of 89, just<br> &emsp;&emsp;&emsp;&emsp;&emsp;moving from her bed to her wheelchair is a challenge for<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Madam Heun Lin Yow.” (Chan, 2003)
 
 
