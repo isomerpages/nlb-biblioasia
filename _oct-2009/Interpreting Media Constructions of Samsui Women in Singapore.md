@@ -64,7 +64,7 @@ Apparently, the term “*samsui* women” hangs easily with those who talk about
 
 Koo’s article, written based on two *samsui* women, tells of the women’s current position in their later years. Their frailty, vulnerability and helplessness are highlighted. The first *samsui* woman is Gui Jie, who was 92 at the time of the interview with Koo. She describes Gui Jie:
 
- &emsp;&emsp;&emsp;&emsp;&emsp;“Dressed in a grey blouse with flowers printed and black<br>&emsp;&emsp;&emsp;&emsp;&emsp;pants, her grey hair was short and tidy; her small frame<br> &emsp;&emsp;&emsp;&emsp;&emsp;somehow made the wheelchair appear to have plenty of<br> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;room.” (2006, p. 56)
+&emsp;&emsp;&emsp;&emsp;&emsp;“Dressed in a grey blouse with flowers printed and black<br>&emsp;&emsp;&emsp;&emsp;&emsp;pants, her grey hair was short and tidy; her small frame<br> &emsp;&emsp;&emsp;&emsp;&emsp;somehow made the wheelchair appear to have plenty of<br> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;room.” (2006, p. 56)
  
 The other *samsui* woman is Di Jie, who was three years younger:
 
@@ -82,6 +82,9 @@ Additionally, *samsui* women have often been highlighted in the media as recipie
 #### **Overlapping Identities**
 
 In the preceding three sections, I have demonstrated how *samsui* women are presented through the categories of Cantonese migrant women, pioneers and feminists, and elderly in need of help. I indicate here a combination of some if not all of these categories to illustrate how their identity has been presented in the media as a kind of template which has been developed and put together from the previous three categories of identity production.
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/woman's%20place.jpg">
+ <div style="background-color: white;">All rights reserved, PAP Women’s Wing, c1993.</div>
 
 In a chapter on “Older Women: Planning for the Golden Years” included in *A Woman’s Place: The Story of Singapore Women* (Wong & Leong, 1993), *samsui* women have been described as follows:
 
@@ -119,6 +122,9 @@ Presenting *samsui* women as pioneers is one issue. But framing them as feminist
 #### **Concluding Remarks**
 
 It may be right to suggest that the direction of media constructions of *samsui* women has, as its template, the four identity-categories which appear to be presented as unchanging and permanent. In other words, the production of knowledge on *samsui* women seems to centre mainly on their pioneering contributions, right up to their present situation as elderly women in need of help. Beyond these constructions, it is important to consider other ways in which we remember or know about their experiences. Were there other points in their lives which brought about relocation or permanent settlement in Singapore? For example, the opportunity to return to *Samsui* at various points of their lives may have been a good or less desirable awakening, either in the form of a desire to return to their country of origin, or to realise, upon their return, that they no longer fit in with their familial members back in China. Keeping in mind these varying queries, it is thus crucial to manoeuvre ourselves beyond the four identity-categories and not to regard them as ideal representations of *samsui* women.
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Singapore%20Life%20Lines.jpg">
+ <div style="background-color: white;">All rights reserved, Singapore Press Holdings, c2005.</div>
 
 While some writings have emerged in recent years which provide a more in-depth engagement with the everyday life experiences of *samsui* women (for example, Low, 2005; Koo, 2006), more work of this nature needs to be produced in order to expand our knowledge concerning the life trajectories and experiences of *samsui* 
 women.
