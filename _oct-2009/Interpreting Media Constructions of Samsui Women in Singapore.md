@@ -43,6 +43,9 @@ Hailing from the *Samsui* province located in southern China, the women who typi
 
 A more interesting point to note with regard to *samsui* women is their membership in the dialect group of the Cantonese. Framed as a “different and markedly independent category of Chinese women from the south” (Chin & Singam 2004, p. 105), Cantonese women were known to be highly independent and feisty, and refused to, or rarely married (Chiang, 1994; Gaw, 1988; Samuel, 1991; Stockard, 1989; Tan, 1990; Topley, 1959).
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Stories%20of%20Chinese%20Overseas.jpg">
+ <div style="background-color: white;">All rights reserved, SNP Editions, c2005.</div>
+
 Along the lines of highlighting their Cantonese origin (see also, Kong et al., 1996), *samsui* women are also typically presented as emerging triumphant from hardships back in China, toiling in the fields, dealing with useless, opium-addicted husbands who were match-made to them in their teens, and being singled out as “strong-willed” (Lim, 2005, p. 141) or resilient (Chin & Singam, 2004). Having framed *samsui* women as a group of independent Cantonese womenfolk, this approach becomes a useful resource for another level of representation, that of presenting them as “pioneers” and “feminists”, which I address next.
 
 #### **“Pioneers” and “Feminists”**
