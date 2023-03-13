@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      button: THE TYPEWRITER AND HERSTORIES
+      url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
+      button: The Curious Origins of Teachers' Estate
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Women Typewriter/Hero_img_Women Typewriters.png
+      background: /images/Vol 19 Issue 1/Teacher's Housing
+        Estate/Trishawton_Mentor_hero_img.jpg
   - infopic:
       title: A History of The Padang
       subtitle: Places and Buildings
