@@ -22,13 +22,13 @@ This paper discusses the different means through which these women are remembere
 
 The *samsui* female labourer was easily recognised and singled out by her distinctive red cloth headgear, black tunics and black pants (*samfoo*) which she wore to work every day (Lim, 2002, p. 230). Although the exact reason for donning the headgear is hitherto debatable, it is surmised that the first woman to wear it was Su Tong Po’s mistress in the Hakka district of China, by the name of Chao Yun (Lim, 2002). Through the passing of time, the headgear was adopted as the traditional headgear of Hakka women, who took along this tradition with them as they migrated south from China. Working alongside these Hakka women, *samsui* women also began to put on the red headgear to work. However, Lim (2002) points out that this account remains contested, and that the real reason and motivation for wearing the headgear is still not known.
 
-*Samsui* women migrated to Singapore in the 1920s and 1930s. Some of them remained in Singapore, while others either passed on or returned to *Samsui*. In order to interpret media constructions of samsui women, the ensuing section will elucidate upon the ways through which these women are remembered vis-a-vis media memory-making channels.
+*Samsui* women migrated to Singapore in the 1920s and 1930s. Some of them remained in Singapore, while others either passed on or returned to *Samsui*. In order to interpret media constructions of *samsui* women, the ensuing section will elucidate upon the ways through which these women are remembered vis-a-vis media memory-making channels.
 
 #### **Cantonese/*Samsui* Women**
 
 Hailing from the *Samsui* province located in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from *Samsui*. For instance, Chin and Singam note:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;“Indeed, it has become <br>&emsp;&emsp;&emsp;&emsp;&emsp;common for English <br>&emsp;&emsp;&emsp;&emsp;&emsp;speakers to refer to all <br>&emsp;&emsp;&emsp;&emsp;&emsp;still-surviving, old, single, <br>&emsp;&emsp;&emsp;&emsp;&emsp;immigrant Cantonese <br>&emsp;&emsp;&emsp;&emsp;&emsp;women as Samsui women. <br>&emsp;&emsp;&emsp;&emsp;&emsp;This lumps together, quite <br>&emsp;&emsp;&emsp;&emsp;&emsp;incorrectly, women from <br>&emsp;&emsp;&emsp;&emsp;&emsp;many districts — each <br>&emsp;&emsp;&emsp;&emsp;&emsp;distinct in sub-dialect and <br>&emsp;&emsp;&emsp;&emsp;&emsp;self-image.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2004, p. 106)
+&emsp;&emsp;&emsp;&emsp;&emsp;“Indeed, it has become <br>&emsp;&emsp;&emsp;&emsp;&emsp;common for English <br>&emsp;&emsp;&emsp;&emsp;&emsp;speakers to refer to all <br>&emsp;&emsp;&emsp;&emsp;&emsp;still-surviving, old, single, <br>&emsp;&emsp;&emsp;&emsp;&emsp;immigrant Cantonese <br>&emsp;&emsp;&emsp;&emsp;&emsp;women as *Samsui *women. <br>&emsp;&emsp;&emsp;&emsp;&emsp;This lumps together, quite <br>&emsp;&emsp;&emsp;&emsp;&emsp;incorrectly, women from <br>&emsp;&emsp;&emsp;&emsp;&emsp;many districts — each <br>&emsp;&emsp;&emsp;&emsp;&emsp;distinct in sub-dialect and <br>&emsp;&emsp;&emsp;&emsp;&emsp;self-image.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2004, p. 106)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;“Not all *Samsui* women <br>&emsp;&emsp;&emsp;&emsp;&emsp; came from the *Samsui* <br>&emsp;&emsp;&emsp;&emsp;&emsp; village in the Guangdong <br>&emsp;&emsp;&emsp;&emsp;&emsp; Province in China. <br>&emsp;&emsp;&emsp;&emsp;&emsp; But because of the <br>&emsp;&emsp;&emsp;&emsp;&emsp; preponderance of these <br>&emsp;&emsp;&emsp;&emsp;&emsp; women from *Samsui*, the <br> &emsp;&emsp;&emsp;&emsp;&emsp;term *Samsui* women has <br>&emsp;&emsp;&emsp;&emsp;&emsp; been used to describe <br>&emsp;&emsp;&emsp;&emsp;&emsp; all the Chinese women <br>&emsp;&emsp;&emsp;&emsp;&emsp;in similar occupations.” <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2006, p. 40)
 
@@ -43,9 +43,9 @@ Given the atypical work position of *samsui* women who toiled alongside men in t
  &emsp;&emsp;&emsp;&emsp;&emsp;“It is not just the obvious<br>&emsp;&emsp;&emsp;&emsp;&emsp;role she has played in the<br>&emsp;&emsp;&emsp;&emsp;&emsp;building of Singapore’s<br>&emsp;&emsp;&emsp;&emsp;&emsp;physical history, as<br>&emsp;&emsp;&emsp;&emsp;&emsp;testified by school<br>&emsp;&emsp;&emsp;&emsp;&emsp;textbooks and local soap<br>&emsp;&emsp;&emsp;&emsp;&emsp;operas. It is what she<br>&emsp;&emsp;&emsp;&emsp;&emsp;has come to stand for, as<br>&emsp;&emsp;&emsp;&emsp;&emsp;
 Singapore’s first<br>&emsp;&emsp;&emsp;&emsp;&emsp;Asian feminist.” (2003)
 
-Their link to feminism has also received a nod from former Nominated Member of Parliament, Dr Kanwaljit Soin, who praised samsui women at a Lunar New Year lunch:
+Their link to feminism has also received a nod from former Nominated Member of Parliament, Dr Kanwaljit Soin, who praised *samsui* women at a Lunar New Year lunch:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;“Singaporean women like to think we’ve achieved much<br>&emsp;&emsp;&emsp;&emsp;&emsp;in the past 30 years. But the samsui women set our<br>&emsp;&emsp;&emsp;&emsp;&emsp;direction when they came here 100 years ago (sic). I<br>&emsp;&emsp;&emsp;&emsp;&emsp;salute them as the original Asian feminists.”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(*The Straits Times*, 5 February 2002)
+&emsp;&emsp;&emsp;&emsp;&emsp;“Singaporean women like to think we’ve achieved much<br>&emsp;&emsp;&emsp;&emsp;&emsp;in the past 30 years. But the *samsui* women set our<br>&emsp;&emsp;&emsp;&emsp;&emsp;direction when they came here 100 years ago (sic). I<br>&emsp;&emsp;&emsp;&emsp;&emsp;salute them as the original Asian feminists.”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(*The Straits Times*, 5 February 2002)
 
 Similarly, *samsui* women have also been mentioned by another former Nominated Member of Parliament, Braema Mathiaparanam, who urged that some form of commemoration of these women should be carried out on National Day in order to remember their contributions.[^2]
 
@@ -124,7 +124,7 @@ women.
 
 A. Yip, “Samsui Women (Heroines in Construction),” _Asian Geographic_ 37, no. 4 (2006), 36–41.
 
-Aline Wong and Leong Wai Kum, eds. _A Woman’s Place: The Story of Singapore Women_ (Singapore: The PAP Women’s Wing, 1993). (Call no. RSING 305.42095957 WOM)
+Aline Wong and Leong Wai Kum, eds. _[A Woman’s Place: The Story of Singapore Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442223)_ (Singapore: The PAP Women’s Wing, 1993). (Call no. RSING 305.42095957 WOM)
 
 Allison Lim, “[Samsui Women Return After Emotional Trip to China To Meet Friends and Relatives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961027-1.2.38.8),” _Straits Times_, 27 October 1996, 31. (From NewspaperSG)
 
@@ -199,8 +199,3 @@ Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Tr
 [^5]: These quotes are taken from a documentary produced in 1995 titled “An immigrant’s story: With sweat, tears and toil – The Samsui Women” (Mediacorp News and Channel News Asia, Singapore).
 
 [^6]: A filmlet based on a samsui woman has recently been produced in conjunction with the 2007 National Day celebrations of Singapore’s 42nd anniversary of independence. In that clip, samsui woman Loke Tai Hoe was featured as having come from China in 1936, and after having worked for 42 years, her “efforts have finally paid off”, and she was seen sitting in the centre of a family portrait with her children and grandchildren.
-
-
-
-
-
