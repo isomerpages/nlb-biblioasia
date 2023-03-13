@@ -63,6 +63,9 @@ Similarly, *samsui* women have also been mentioned by another former Nominated M
 
 Apparently, the term “*samsui* women” hangs easily with those who talk about them as “pioneers” or “feminists”. Yet, such passing reverence or remembrances of these women are but limited glimpses of what we know about them and their life experiences. I discuss this further below, where I point out the utilisation of these terms upon the women by both the state and other institutions in furthering certain aims and goals.
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Women%20&%20Chinese%20Patriarchy.jpg">
+ <div style="background-color: white;">All rights reserved, Hong Kong University Press: Zed Books, 1994.</div>
+
 #### **Elderly Women**
 
 Koo’s article, written based on two *samsui* women, tells of the women’s current position in their later years. Their frailty, vulnerability and helplessness are highlighted. The first *samsui* woman is Gui Jie, who was 92 at the time of the interview with Koo. She describes Gui Jie:
