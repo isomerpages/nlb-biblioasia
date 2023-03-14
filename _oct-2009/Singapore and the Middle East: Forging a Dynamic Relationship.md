@@ -46,6 +46,9 @@ Education is the conduit that connects the leadership of a modern nation-state t
 
 #### **Dynamic Governance**
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Lee%20Kuan%20Yew.jpg">
+ <div style="background-color: white;">All rights reserved, Times Editions, c2000.</div>
+
 This paper suggests that economic development is the yardstick by which the success of any state is determined. Economic development promotes social and political stability. Although there may be no worldwide unanimous agreement on the criteria for achieving good governance, it is clear that good governance has the ability to transform societies and promote development, as well as social stability and peace. In the case of Singapore, the good governance provided by its leadership has transformed this nation from a Third World country to a First World success story. The combination of courage, determination, commitment, character and ability on the part of its leaders have ensured their people’s willingness to follow their leadership.[^13]
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Dynamic%20Governance.jpg">
