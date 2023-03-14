@@ -69,7 +69,8 @@ Indeed, the background scenes in the illustrations include coconut trees and ban
 
 At Pasar Sia Sia (Vanity Fair), a detailed scene of the local Chinese congregating at a marketplace, shows a vignette of the 20th century Malayan Chinese community in its complex social world. Many were likely part of the influx of immigrants who had journeyed from China since the 1880s. In fact, Singapore’s Chinese population had almost doubled its numbers from 87,0000 in 1881 to 164,0000 by the 1900s.[^10]
 
-
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/BabaMalay/Vanity%20Fair%20.jpg">
+ <div style="background-color: white;">Vanity Fair.<i> Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 125. All rights reserved, American Mission Press, 1905.</i></div>
 
 On the extreme right of the picture is a tea house located in a typical Straits Chinese house. Beside it, a letter writer reads a letter while a crowd of patrons await his services. Scenes from the wet market show vegetables sold on the dirt floor while chicks roam at the feet of men having their hair cleaned off lice, all showing Bradley’s keen eye for detail. At the foot of a *wayang* performance are food stalls where Chinese men eat while squatting on their chairs. Among the sea of fair-skinned men are a few Malays and turbaned Indians.
 
