@@ -103,48 +103,52 @@ The World Bank, _Middle East and North Africa Region 2007: Economic Developments
 
 #### **NOTES**
 
-1 Whitaker, "Centuries in the House of Wisdom."
+[^1]: Whitaker, "Centuries in the House of Wisdom."
       
-2 The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 1, 6.
+[^2]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 1, 6.
 
-3 The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 83.
+[^3]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 83.
 
-4 Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 83.
+[^4]: Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 83.
 
-5 Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 36.
+[^5]: Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 36.
 
-6 The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 144.
+[^6]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 144.
 
-7 Goh, “[Opening Session](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad).”
+[^7]: Goh, “[Opening Session](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad).”
 
-8 The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 148.
+[^8]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 148.
 
-9 Kavoossi, [_Globalization of Business and the Middle East_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623), 146.
+[^9]: Kavoossi, [_Globalization of Business and the Middle East_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623), 146.
 
-10 Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
+[^10]: Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
 
-11 Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
+[^11]: Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
 
-12\. Singaporean companies have been very active in various business sectors in the Middle East, including petrochemical distribution, hotel development, water desalination, investment in petrochemical olefin projects, food manufacturing, e-government projects (for example, e-judiciary and e-trade projects), the sale of automotive parts, stationery and printing consumables, oil and gas parts and automotive parts, as well as oil and the petrochemical trade. “SBF Launches Middle East Business Group To Boost Business Ties Between Singapore and the Middle East.”
+[^12]: Singaporean companies have been very active in various business sectors in the Middle East, including petrochemical distribution, hotel development, water desalination, investment in petrochemical olefin projects, food manufacturing, e-government projects (for example, e-judiciary and e-trade projects), the sale of automotive parts, stationery and printing consumables, oil and gas parts and automotive parts, as well as oil and the petrochemical trade. “SBF Launches Middle East Business Group To Boost Business Ties Between Singapore and the Middle East.”
 
-13 Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 737.
+[^13]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 737.
 
-14 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 30.
+[^14]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 30.
 
-15 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 32.
+[^15]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 32.
 
-16 Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 736.
+[^16]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 736.
 
-17 Lord, _Modern Prince_, 104.
+[^17]: Lord, _Modern Prince_, 104.
 
-18 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 37–38.
+[^18]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 37–38.
 
-19 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 40.
+[^19]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 40.
 
-20 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+[^20]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
 
-21 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+[^21]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
 
-22 The World Bank, _Middle East and North Africa Region._
+[^22]: The World Bank, _Middle East and North Africa Region._
 
-23 Berg, [_Le Hadhramout_, 104.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)
+[^23]: Berg, [_Le Hadhramout_, 104.](https://eservice.nlb.
+
+
+
+gov.sg/item_holding.aspx?bid=3231501)
