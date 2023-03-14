@@ -35,6 +35,9 @@ As Singapore’s Senior Minister Goh Chok Tong has rightly observed, the Middle 
 
 Serious engagement between Singapore and the Middle East began in 2004, when Mr Goh made several official visits to the Middle East.[^10] These visits were soon followed by Singapore’s hosting of the inaugural Asia-Middle East Dialogue (AMED) in June 2005, which offered an opportunity for Middle Eastern representatives and their counterparts from other Asian countries to discuss issues of mutual concern.[^11] AMED enabled policymakers, intellectuals and businessmen to discover a wide range of opportunities for cooperation, and led to several bilateral agreements between their countries.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Shaikh%20Salman%20bin%20Hamad.jpg">
+ <div style="background-color: white;">His Highness Shaikh Salman bin Hamad Al-Khalifa, Crown Prince of the Kingdom of Bahrain, delivering his address at the launch of the SBF Middle East Business Group Knowledge Partners Programme, 16 September 2008, Singapore. <i>Courtesy of the Singapore Business Federation.</i></div>
+
 As a follow-up, the Singapore Business Federation (SBF) launched the Middle East Business Group in March 2007, which set out with two primary objectives: to foster strong ties between business chambers and companies from both sides, and to provide consultations for local companies with business interests in the Middle East.[^12] Even so, the options for economic cooperation between Singapore and the Middle East have been relatively few, regardless of the opportunities. One reason for this could be the Western-centric approach of Singapore’s foreign policy. Recent events, such as the 11 September 2001 attacks on the United States of America, have resulted in a shift towards the promotion of a more intensive Asia-Middle Eastern engagement.
 
 #### **Knowledge is Power**
