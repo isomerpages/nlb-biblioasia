@@ -47,7 +47,7 @@ The Press and his translation work took much of his time, but Shellabear had to 
 
 Shellabear had already made the acquaintance of the unique hybrid community of Chinese in Singapore, many of whom traced their genealogy to the Malaccan Straits Chinese. This included prominent community member, Tan Keong Keng, who was one of the early Straits Chinese to adopt the thoroughly Western idea of having his daughters educated.[^3] Thus he persuaded the Shellabears to establish a school for girls in Malacca. Tan’s home at Heeren Street in Malacca was given to Emma Shellabear and Ada Pugh to start the institution — a task most suited to Shellabear’s wife Emma who had already been active in the Methodist girls’ school in Singapore.
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%203/BabaMalay/Interpreter's%20home.jpg">
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/BabaMalay/Interpreter's%20house.jpg">
  <div style="background-color: white;">Interpreter’s home. <i>Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 33. All rights reserved, American Mission Press, 1905.</i></div>
 
 Meanwhile, Tan sent his only son, Tan Cheng Poh, to Shellabear to learn how to type and practise English. With little to translate to English, Emma considered having him translate a children’s version of *Pilgrim’s Progress* into Baba Malay instead. The exercise was Shellabear’s first introduction to Baba Malay and he became fascinated with its “distinct dialect of Malay, with very definite idioms and rules of its own.”[^4] Another Baba, Chin Cheng Yong, was recruited to help in verifying the accuracy of the translation; but little is known of him.
