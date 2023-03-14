@@ -7,6 +7,13 @@ collection_name: past-issues
 Note: When accessing older issues, you may be directed to an archived version.
 
 
+#### Volume 19
+
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![BiblioAsia 19-1 cover](/images/covers/BiblioAsia_19_1_Cover%20(Lowres).jpg)[Apr–Jun 2023](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-jun-2022/)<br>[Apr–Jun 2023 (PDF)]([](/files/pdf/BiblioAsia_Apr-Jun%202023%20(below%205MB).pdf) ||![BiblioAsia 18-2 cover](/images/covers/ba18-2v2.jpg)[Jul–Sep 2022](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/)<br>[Jul-Sep 2022 (PDF)](/files/pdf/BiblioAsia%20JUL-SEP%202022%20Spread%20(Below%205MB).pdf)|
+
+
 #### Volume 18
 
 |                                                              |                                                              |
