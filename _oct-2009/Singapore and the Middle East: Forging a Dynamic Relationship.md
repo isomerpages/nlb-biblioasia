@@ -62,7 +62,7 @@ According to the *World Bank report Middle East and North Africa Region 2007: Ec
 
 #### **Conclusion**
 
-Recent political, economic and social developments all forecast a revival of the Silk Road. History was always present in theestablishment of connections between the different regions of Asia, as demonstrated by the trading links between the Middle East and Southeast Asia via Arab traders.[^23] These established networks wield the power to enable Singapore and the Middle East to enhance their patterns of cooperation and exchange, and to move towards a more vital and dynamic relationship. To be sure, Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
+Recent political, economic and social developments all forecast a revival of the Silk Road. History was always present in the establishment of connections between the different regions of Asia, as demonstrated by the trading links between the Middle East and Southeast Asia via Arab traders.[^23] These established networks wield the power to enable Singapore and the Middle East to enhance their patterns of cooperation and exchange, and to move towards a more vital and dynamic relationship. To be sure, Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
 
 Singapore’s experience is also attracting the attention of other Asian states, including China and Taiwan, as well as many countries in Eastern Europe. It is unjust to narrow Singapore’s success to just a few factors. What has made Singapore what it is today is a system of policies, taking into consideration all aspects of life in this country, including the economy, education, research and development, and good governance. These policies have created an efficient government, effective leaders, successful citizens, an excellent educational system and a thriving economy.
 
@@ -148,9 +148,3 @@ The World Bank, _Middle East and North Africa Region 2007: Economic Developments
 [^22]: The World Bank, _Middle East and North Africa Region._
 
 [^23]: Berg, [_Le Hadhramout_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501), 104.
-
-
-
-
-
-
