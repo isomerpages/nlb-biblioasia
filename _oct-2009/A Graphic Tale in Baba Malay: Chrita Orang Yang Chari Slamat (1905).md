@@ -85,7 +85,45 @@ Chrita Orang Yang Chari Slamat is part of the Rare Book Collection in the Nation
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
 <center><b>Bonny Tan</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
+#### **REFERENCES**
 
+Anak Singapura, “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341212-1.2.38),” _Straits Times_, 12 December 1934, 10. (From NewspaperSG)
+
+C. M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford Press, 1989). (Call no. RSING 959.57 TUR)
+
+John Bunyan, _[Chrita Orang Yang Chari Slamat](https://eresources.nlb.gov.sg/printheritage/detail/152ef51f-0ad6-4647-ba6c-d4d207373799.aspx)_ (Singapore: American Mission Press, 1905). (From BookSG; call no. Malay RRARE 823.4 BUN; microfilm NL8790)
+
+Robert Hunt, “The Life of William Shellabear,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 66, no. 2 (1993), 37–72. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+Robert Hunt, _[William Shellabear: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7855335)_  (Kuala Lumpur: University of Malaya Press, 1996). (Call no. RSING 266.0095957 HUN)
+
+ “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16),” _Straits Times_, 11 July 1887, 2. (From NewspaperSG)
+
+W. G. Shellabear, “Baba Malay: An Introduction to the Language of the Straits-Born Chinese,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 65 (December 1913), 49–63. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+
+W. G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annotated Robert Hunt. (Unpublished)
+
+#### **NOTES**
+       
+[^1]: Singapura, “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341212-1.2.38).”
+
+[^2]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16).”  
+
+[^3]: Song, p. 529
+
+[^4]: Shellabear, _Reverend W. G. Shellabear,_ 37.
+
+[^5]: Shellabear, _Reverend W. G. Shellabear,_ 37.
+
+[^6]: I was unable to find the translation by Keasberry or the earlier Javanese translations.
+
+[^7]: Shellabear, introduction; Bunyan, _[Chrita Orang Yang Chari Slamat](https://eresources.nlb.gov.sg/printheritage/detail/152ef51f-0ad6-4647-ba6c-d4d207373799.aspx)_.
+
+[^8]: Shellabear was well aware of the use of these Hokkien terms and actually explained the different usage in both Baba Malay and vernacular Malay in his article Shellabear, “Baba Malay.”
+
+[^9]: Shellabear, _Reverend W. G. Shellabear,_ 37.
+
+[^10]: Turnbull, _[History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_, 95.
 
 
 
