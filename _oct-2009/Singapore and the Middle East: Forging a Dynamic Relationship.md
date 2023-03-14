@@ -7,6 +7,9 @@ description: "Researcher Bouchaib Silm considers the relationship between
   reconnecting the Middle East with the rest of Asia. "
 ---
 #### Researcher _Bouchaib Silm_ considers the relationship between Singapore and the Middle East, how they can move towards a more vital and dynamic relationship, and how Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
+
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Prince%20Sultan%20&%20SM%20Goh1.jpg">
+ <div style="background-color: white;">The 28th Singapore Lecture by HRH Prince Sultan Bin Abdul Aziz Al-Saud, Crown Prince, Deputy Premier, Minister of Defence and Aviation and Inspector General, Kingdom of Saudi Arabia HRH Prince Sultan Bin Abdul Aziz Al-Saud (left) and Senior Minister Goh Chok Tong (right). <i>Courtesy of Ministry of Foreign Affairs, Singapore.</i></div>
  
 While Singapore’s system of governance has proved its efficiency and sustainability, there are serious concerns about whether successful stories such as Singapore’s can serve to stimulate change in other countries, including those in the Arab world. Unfortunately, Arab societies tend to be conservative, and therefore lag behind in global integration.
 
