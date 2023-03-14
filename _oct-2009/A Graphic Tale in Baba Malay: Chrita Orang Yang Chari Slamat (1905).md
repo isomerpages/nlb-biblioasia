@@ -6,12 +6,18 @@ description: "Senior Librarian Bonny Tan shines the spotlight on Chrita Orang
   Progress. "
 ---
 #### Senior Librarian _Bonny Tan_ shines the spotlight on _Chrita Orang Yang Chari Slamat_, the Baba Malay translation of classic _The Pilgrim’s Progress_.
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/BabaMalay/Chrita%20Orang%20book%20cover.jpg">
+ <div style="background-color: white;"><i>Chrita Orang Yang Chari Slamat</i> by John Bunyan; translated by William G. Shellabear. All rights reserved, American Mission Press, 1905.</div>
  
 #### **Introduction**
 
 Before J.R.R. Tolkien there was John Bunyan. *Pilgrim’s Progress* was a 17th century bestseller based on an allegorical world of the Christian faith’s journey.
 
 Bunyan was an unschooled tinker from an impoverished family who was inspired by his faith to share the gospel with others. While imprisoned for conducting religious service outside the official church, Bunyan penned the now immortal *Pilgrim’s Progress*. First published in 1678, it traces the journey of Christian, the everyman of faith, from the City of Destruction to the Celestial City.
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/BabaMalay/Christian%20leaves%20his%20home1.jpg">
+ <div style="background-color: white;">Christian leaves his home Image reproduced from Bunyan, J. (1905).<i> Chrita orang yang chari slamat.</i> All rights reserved, American Mission Press, 1905.</div>
 
 Caricatures representing spiritual encounters and transformation, culled from Biblical parables and various scriptural references, show that the adventure could very well have been Bunyan’s own spiritual autobiography. Bunyan conveyed the convert’s life of faith so simply yet vividly through the allegorical sojourn that it soon became a bestseller in England. It was then carried beyond the English shore by missionaries who fanned out to the outposts of the colonised world.
 
@@ -62,6 +68,8 @@ In the introduction, Shellabear praised Bradley for his accurate depiction of th
 Indeed, the background scenes in the illustrations include coconut trees and banana clumps typically found in tropical Malaya. The familiar facades of the Malayan shop house and its interiors are also sketched. However, it is noteworthy that Si Kristian (Christian) is depicted as a typical Qing Chinese, complete with queue and Chinese clogs. However, when he encounters Tuan Pandai-chari-dunia (Mr Worldly-wise), the wealthy man rides a modern horse-drawn carriage driven by what appears to be young barefoot Malays wearing Turkish hats. The wealthy Chinese dons a mix of oriental and modern Western clothes topped with an English hat. Interestingly, Si Kristian acquires these Western trappings — a top hat and shoes — soon after his burden of sin falls away at the foot of the cross. It is uncertain if the Western costumes represent the Baba dress at the turn of the century since many of the drawings seem mainly of generic Chinese that had come to Malaya. Nonyas in kebayas and Babas of yore in their hybridised costumes are not really reflected in Bradley’s illustrations.
 
 At Pasar Sia Sia (Vanity Fair), a detailed scene of the local Chinese congregating at a marketplace, shows a vignette of the 20th century Malayan Chinese community in its complex social world. Many were likely part of the influx of immigrants who had journeyed from China since the 1880s. In fact, Singapore’s Chinese population had almost doubled its numbers from 87,0000 in 1881 to 164,0000 by the 1900s.[^10]
+
+
 
 On the extreme right of the picture is a tea house located in a typical Straits Chinese house. Beside it, a letter writer reads a letter while a crowd of patrons await his services. Scenes from the wet market show vegetables sold on the dirt floor while chicks roam at the feet of men having their hair cleaned off lice, all showing Bradley’s keen eye for detail. At the foot of a *wayang* performance are food stalls where Chinese men eat while squatting on their chairs. Among the sea of fair-skinned men are a few Malays and turbaned Indians.
 
@@ -124,6 +132,3 @@ W. G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annot
 [^9]: Shellabear, _Reverend W. G. Shellabear,_ 37.
 
 [^10]: Turnbull, _[History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_, 95.
-
-
-
