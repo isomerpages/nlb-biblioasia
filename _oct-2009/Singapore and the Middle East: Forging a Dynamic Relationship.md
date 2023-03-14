@@ -65,3 +65,93 @@ According to the *World Bank report Middle East and North Africa Region 2007: Ec
 Recent political, economic and social developments all forecast a revival of the Silk Road. History was always present in theestablishment of connections between the different regions of Asia, as demonstrated by the trading links between the Middle East and Southeast Asia via Arab traders.[^23] These established networks wield the power to enable Singapore and the Middle East to enhance their patterns of cooperation and exchange, and to move towards a more vital and dynamic relationship. To be sure, Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
 
 Singapore’s experience is also attracting the attention of other Asian states, including China and Taiwan, as well as many countries in Eastern Europe. It is unjust to narrow Singapore’s success to just a few factors. What has made Singapore what it is today is a system of policies, taking into consideration all aspects of life in this country, including the economy, education, research and development, and good governance. These policies have created an efficient government, effective leaders, successful citizens, an excellent educational system and a thriving economy.
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Bouchaib%20Silm.jpg" style="width: 100px; height: 100px;"/>
+<center><b>Bouchaib Silm</b><br>Researcher<br> National Library</center> </div>
+
+#### **REFERENCES**
+
+
+Brian Whitaker, “Centuries in the House of Wisdom: Iraq’s Golden Age of Science Brought Us Algebra, Optics, Windmills and Much More,” accessed 13 July 2009, [https://www.theguardian.com/education/2004/sep/23/research.highereducation1](https://www.theguardian.com/education/2004/sep/23/research.highereducation1)
+
+Cames Lord, _The Modern Prince: What the Leaders Need To Know Now_ (New Haven: Yale University Press, 2003)
+
+Goh Chok Tong, “[The Opening Session of the Inaugural Asia-Middle East Dialogue (AMED)](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad),” Shangri La Hotel, Island Ballroom, Singapore, 21 June 2005, transcript, Ministry of Information, Communications and the Arts (From National Archives of Singapore document no. 20050621989)
+
+Hossein Askari, [_Middle East Oil Exporters: What Happened to Economic Development?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338) (Cheltenham: Edward Elgar, 2006). (Call no. RBUS 338.956 ASK)
+
+L. W. C. van den Berg, [_Le Hadhramout Et Les Colonies Arabes Dans l’Archipel Indien_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501) (Batavia, Impr. du gouvernement, 1886). (Call no. RRARE 325.25309598 BER; microfilm NL7400)
+
+Lee Kuan Yew, [_From Third World to First: The Singapore Story, 1965–2000: Singapore and the Asian Economic Boom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172) (Singapore: Times Editions, 2000). (Call no. RSING 959.57092 LEE)
+
+Masoud Kavoossi, [_The Globalization of Business and the Middle East: Opportunities and Constraints_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623) (Westport, Conn.: Quorum Books, 2000). (Call no. RBUS 337.56 KAV)
+
+Ministry of Foreign Affairs, Singapore, “Bilateral Relations: Middle East,” accessed 17 July 2009,  
+[https://www.mfa.gov.sg/](https://www.mfa.gov.sg/)
+
+Neo Boon Siong and Geraldine Chen, [_Dynamic Governance: Embedding Culture, Capabilities and Change in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893) (Singapore: World Scientific, 2007). (Call no. RSING 351.5957 NEO)
+
+The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role in Realizing Change in the Arab World_ (Abu Dhabi: Emirates Center For Strategic Studies And Research, 2007) (See remarks above)
+
+The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_ (Abu Dhabi: Emirates Center for Strategic Studies, 2004). (See remarks above)
+
+The World Bank, _Middle East and North Africa Region 2007: Economic Developments and Prospects_ (Washington: The International Bank for Reconstruction and Development, 2007)
+
+#### **NOTES**
+
+         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; mso-themecolor:hyperlink; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:purple; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+1 Whitaker, “Centuries in the House of Wisdom.”
+
+2 The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 1, 6.
+
+3 The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 83.
+
+4 Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 83.
+
+5 Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 36.
+
+6 The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 144.
+
+7 Goh, “[Opening Session](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad).”
+
+8 The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 148.
+
+9 Kavoossi, [_Globalization of Business and the Middle East_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623), 146.
+
+10 Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
+
+11 Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
+
+12\. Singaporean companies have been very active in various business sectors in the Middle East, including petrochemical distribution, hotel development, water desalination, investment in petrochemical olefin projects, food manufacturing, e-government projects (for example, e-judiciary and e-trade projects), the sale of automotive parts, stationery and printing consumables, oil and gas parts and automotive parts, as well as oil and the petrochemical trade. “SBF Launches Middle East Business Group To Boost Business Ties Between Singapore and the Middle East.”
+
+13 Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 737.
+
+14 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 30.
+
+15 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 32.
+
+16 Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 736.
+
+17 Lord, _Modern Prince_, 104.
+
+18 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 37–38.
+
+19 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 40.
+
+20 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+
+21 Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+
+22 The World Bank, _Middle East and North Africa Region._
+
+23 Berg, [_Le Hadhramout_, 104.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)
+
+
+
+
+
