@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2023:
     output: true
     order:
+      - New Books on Singapore History.md
       - "Belacan: Caviar? Or Vile and Disgusting?.md"
       - Which Was Singapore's First Courthouse?.md
       - "Terraces on Tagore: The Curious Origins of Teachers' Housing Estate.md"
