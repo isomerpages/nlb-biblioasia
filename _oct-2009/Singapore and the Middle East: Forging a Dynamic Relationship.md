@@ -147,8 +147,10 @@ The World Bank, _Middle East and North Africa Region 2007: Economic Developments
 
 [^22]: The World Bank, _Middle East and North Africa Region._
 
-[^23]: Berg, [_Le Hadhramout_, 104.](https://eservice.nlb.
+[^23]: Berg, [_Le Hadhramout_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501), 104.
 
 
 
-gov.sg/item_holding.aspx?bid=3231501)
+
+
+
