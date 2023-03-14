@@ -103,6 +103,7 @@ The World Bank, _Middle East and North Africa Region 2007: Economic Developments
 
 #### **NOTES**
 
+1 Whitaker, "Centuries in the House of Wisdom."
       
 2 The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 1, 6.
 
