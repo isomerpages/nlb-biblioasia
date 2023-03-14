@@ -5,7 +5,7 @@ description: "Senior Librarian Bonny Tan shines the spotlight on Chrita Orang
   Yang Chari Slamat, the Baba Malay translation of classic The Pilgrim’s
   Progress. "
 ---
- #### Senior Librarian _Bonny Tan_ shines the spotlight on _Chrita Orang Yang Chari Slamat_, the Baba Malay translation of classic _The Pilgrim’s Progress_.
+#### Senior Librarian _Bonny Tan_ shines the spotlight on _Chrita Orang Yang Chari Slamat_, the Baba Malay translation of classic _The Pilgrim’s Progress_.
  
 #### **Introduction**
 
@@ -27,7 +27,17 @@ The story of the Pilgrim was already much alive among the local community at the
 
 In the Malay Archipelago, the tale had had several translations and versions. One of the earliest translations was done in Jawi some time in the 1880s; it was then followed by a Dutch romanised Malay version. In the Malay Peninsula, Benjamin Keasberry, a missionary serving under the London Missionary Society and father of Malaya’s early printing press, brought out one of the first Malay versions.
 
-Shellabear’s translation however was unique in the Malay
+Shellabear’s translation however was unique in the Malay Peninsula as it was in Baba Malay and published especially for the Straits Chinese community. Shellabear makes reference to one of these earlier publications and his reasons for publishing a version for the Straits Chinese in the introduction to his book:
+
+*“Ada brapa puloh tahun dhulu satu tuan yang pandai skali sudah pindahkan ini chrita dalam bhasa orang Mlayu: ttapi sbab dia pakai perkata’an yang dalam-dalam, terlampon susah orang China peranakan mngerti, dan sbab itu kita bharu pindahkan ini chrita dalam bhasa Mlayu peranakan, spaya smoa orang China dan nonya-nonya yang chakap Mlayu boleh mngerti baik baik.”*
+
+(“Several decades ago, an intelligent gentleman translated this tale to Malay. However, as he used complex terms, the Chinese Peranakans found it difficult to understand. Because of this, we have translated this tale into Peranakan Malay so all Chinese and their women folk who speak Malay will be able to better understand it.”)
+
+Slightly more than a decade after Keasberry passed away, Shellabear came to Singapore in 1887, not as a missionary but as a military man in the British Royal Engineers, assigned to build Singapore’s defence. He fell in love with the Malay soldiers under his command and sought to take the gospel story to them. Thus his passion turned him to translating religious works into Malay and, conversely, translating Malay classical mythology into English. Leaving the military, he joined the Methodist Missions and established the Methodist Mission Press in Singapore which brought out various publications in Malay along with invaluable language tools such as English-Malay dictionaries and grammars, still highly regarded even today.
+
+The Press and his translation work took much of his time, but Shellabear had to return to England in 1894 on account of his wife Fanny’s ill-health. She unfortunately passed away and Shellabear returned to Singapore and later married Emma Ferris in 1897, an active Methodist missionary whose work had crossed paths with his. By 1904, the Shellabears’ base for missionary work had moved to Malacca, the heartland of the Straits Chinese. It was here that Shellabear would translate *Pilgrim’s Progress*.
+
+#### **The Use of Baba Malay**
 
 
 
