@@ -24,6 +24,17 @@ Sports professionals who are coaches, fitness instructors, personal trainers, ph
 
 The sports collection at the Lee Kong Chian Reference Library caters to this information need with its range of materials on a broad spectrum of sports and exercise science topics:
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Clinical Sports Nutrition</b><br>Burke, L. & Deakin, V. (Eds.) <br> Sydney: McGraw-Hill, c2006.<br> Call no. R 613.2088796 CLI 
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Clinical%20Sports.jpg">
+Written for sports nutritionists, coaches, athletes and sport science professionals, this book provides a comprehensive coverage on topics such as nutrition for competition, recovery foods, weight loss, eating disorders in athletes, sports supplements and recommendations for athletes with special needs such as those with diabetes and gastrointestinal disorders.
+
+
+
+</div>
+<br>
+
+<br>
+
 With greater attention placed on the sports industry in Singapore, more companies are showing a keen interest in sports sponsorship as a social responsibility in their corporate objectives. Veteran sports sponsor Nestle, widely acknowledged as Singapore’s patron of sports, has been active in Singapore’s sports development since 1950, and has spent millions sponsoring sports events at inter-school and nationwide levels as well as meeting the nutritional needs of athletes at events such as the 2002 Sheares Bridge Run and the 2002 Eco-Challenge in Fiji. Singapore Pools, The Singapore Sports Council’s “partner in sports”, is another organisation that has been closely associated with sports sponsorship for a long time, from providing funds for National Sports Association programmes, to contributing to the Sporting Singapore Fund, and sending athletes overseas for tournaments.
 
 Newcomers to the sports sponsorship scene have also been generous in their support of sports-related causes that aim to benefit under-privileged groups in Singapore. For example, document production and equipment processing company Fuji Xerox Singapore organised the inaugural Singapore Open Water Swimming in 2006 and 2007, with funds raised by participants through pledge card going to the Singapore Children’s Cancer Foundation. In August 2008, local property company UOL Group Ltd sponsored 12 undergraduates to undertake a 1,000- mile charity cycling expedition, “Ride from the Heart”, from Phuket to Singapore, to raise funds for The Straits Times School Pocket Money Fund.
@@ -62,5 +73,3 @@ Singapore Sports Council, _[National Sports Participation Survey 2005](https://e
 
 “Sports Corporate – Home,” Singapore Sports Council, accessed 21 August 2009,  
 https://www.sportsingapore.gov.sg/
-
-
