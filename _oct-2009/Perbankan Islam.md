@@ -9,6 +9,9 @@ description: "Associate Librarian Juffri bin Supa’at highlights some of the
 #### Associate Librarian _Juffri bin Supa’at_ highlights some of the characteristics of the Islamic financial and banking system and its differences vis-a-vis the conventional system, as well as resources available at the Lee Kong Chian Reference Library.
 
  &emsp;&emsp;&emsp;&emsp;&emsp;“*Oleh sebab kesemua sumber yang berada di tangan manusia* <br>  &emsp;&emsp;&emsp;&emsp;&emsp;*telah dikurniakan oleh Tuhan, maka manusia sebagai khalifah* <br> &emsp;&emsp;&emsp;&emsp;&emsp;*Tuhan bukanlah pemilik utamanya. Manusia hanyalah* <br> &emsp;&emsp;&emsp;&emsp;&emsp;*pemegang amanah terhadap sumber-sumber tersebut*.” <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Islam dan cabaran ekonomi, hlm 250)
+ 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Presentation1.jpg">
+ <div style="background-color: white;">(Left) All rights reserved, Dewan Bahasa dan Pustaka, 2005.<br>(Right) All rights reserved, Jabatan Mufti Kerajaan, Jabatan Perdana Menteri, 2000.</div>
 
 Perbankan Islam telah menjadi tajuk perbincangan yang semakin rancak akhir-akhir ini dan menarik minat orang ramai. Dengan tercetusnya krisis kewangan sejagat yang menjejas banyak negara dan institusi-institusi kewangan dan ekonomi utama dunia, kini tumpuan diberikan kepada sistem perbankan Islam sebagai sistem kewangan alternatif. Ia tidak lagi hanya wujud di negara-negara Islam sahaja, bahkan telah berkembang ke banyak negara yang mengamalkan sistem ekonomi sekular atau konvensional seperti Singapura dan Hong Kong. Di Singapura umpamanya, Penguasa Kewangan Singapura (MAS), telahpun melakarkan polisi dan perundangan yang memudahkan institusiinstitusi kewangan untuk memulakan operasi sedemikian di negara ini.
 
@@ -16,13 +19,31 @@ Usaha-usaha ini telah menampakkan hasil apabila banyak sistem kewangan utama di 
 
 Perbankan Islam adalah suatu sistem perbankan yang didirikan bersandarkan hukum agama Islam. Ia didasari oleh beberapa undang-undang syariah seperti larangan memungut atau mengambil riba atau meminjam dengan mengenakan wang bunga. Ia juga melarang para pelabur untuk melibatkan diri dalam kegiatankegiatan yang dikira haram umpamanya di syarikat-syarikat yang menyediakan atau mengeluarkan makanan atau minuman yang haram seperti arak, mahupun syarikat yang berkaitan atau mengendalikan perjudian. Di dalam sistem kewangan Islam, para pelabur tidak dibenarkan untuk terlibat dengan perkara-perkara yang mempunyai unsur-unsur spekulatif atau gharar, yakni sesuatu yang kurang jelas kerana ia bersifat perjudian.
 
-#### **PerBezaan PerBankan IslaM dan PerBankan KonvensIonal**
+#### **PerBezaan PerBankan Islam dan PerBankan Konvensional**
 
 Sistem ekonomi syariah sangat jauh berbeza dengan ekonomi kapitalis sosialis mahupun komunis. Namun, masih ramai yang masih belum dapat memahami sepenuhnya diantara produk dan perkhidmatan Perbankan Islam dengan Perbankan konvensional. Hal ini disentuh di dalam buku “Wang, Anda dan Islam” (2008), yang memberikan perincian yang jelas tentang ciri-ciri yang membezakan kedua sistem perbankan itu.
 
 Antara ciri dasar perbezaannya ialah sistem perbankan Islam bersandarkan kepada syariah menurut Al-Quran dan As-Sunnah. Dalam produk pelaburannya, bank Islam mengenalkan sistem perkongsian risiko dan untung di antara para pelabur dan pengurus pelaburan. Oleh itu, tiada perjanjian untuk memberikan sebarang kadar tetap keuntungan. Tapi, bagi sistem perbankan konvensional, terdapat kegiatan pinjam-meminjam yang mempunyai perjanjian untuk memberikan kadar faedah tetap yang berbentuk riba kepada para pelabur. Jadi, keuntungan dibahagikan tidak berdasarkan keuntungan yang sebenarnya.
 
 Natijahnya, sistem perbankan konvensional mendapat pendapatan melalui kadar faedah tetap yang dikenakan kepada pelanggan tetapi sistem perbankan Islam mendapat pendapatan mengikut landas perkongsian, sama ada untung atau rugi bersama pelanggannya. Oleh itu, pihak bank dan pelanggan mempunyai hubungan sebagai penjual, pembeli dan juga rakan kongsi.
+
+#### **Bahan-Bahan Rujukan Berkenaan PerBankan Islam**
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"><b>Bank Syariah: Suatu Pengenalan Umum</b><br>Muhammad Syafi’i Antonio. Jakarta: Tazkia Institute, 2000. Call no. Malay R 332.12 ANT<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture6.jpg">
+Mengandungi tiga belas bab, dimulakan dengan Islam sebagai agama yang lengkap dan meliputi segalanya tentang riba dalam tafsiran Islam, sejarah dan ekonomi serta penerangan mengenai produk-produk bank Islam yang ditawarkan seperti Al Wadiah, Al Musyarakah, Al Mudharabah dan lain-lain lagi.<br><br>
+<b>Bank Syariah: Dari Teori Ke Praktik</b><br>Muhammad Syafi’i Antonio. Jakarta: Gema Insani, 2001. Call no. Malay R 332.10917671 ANT<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Bank%20Syariah.jpg">Buku ini antara lain membincangkan tentang perkembangan sistem perbankan Islam, isu riba dan bunga, perbezaan antara bank Islam dan bank konvensional, serta menerangkan dengan terperinci prinsip-prinsip perbankan Islam.
+
+
+
+
+</div>
+
+
+
+</div>
+<br><br>
 
 #### **Islamic Banking**
 
@@ -53,9 +74,3 @@ Norhaiza Hashim, “[Rangsangan Baru Bagi Perbankan Islam](http://eresources.nlb
 Norhaiza Hashim, “[Tawaran Sukuk Tiga Negara Dijangka Capai AS$1.3b](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20090508-1.2.12.5),” _Berita Harian_, 8 Mei 2009, hlm. 6. (From NewspaperSG)
 
 Zaharuddin Rahman, _[Wang, Anda Dan Islam: Halal Dan Haram Dalam Kewangan Dan Perbankan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13097621)_ (\[Kuala Lumpur\]: Truewealth Publishing, 2008). (Call no. Malay RBUS 332.091767 ZAH)
-
-
-
- 
-
-
