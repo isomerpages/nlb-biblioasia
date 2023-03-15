@@ -27,13 +27,14 @@ The sports collection at the Lee Kong Chian Reference Library caters to this inf
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Clinical Sports Nutrition</b><br>Burke, L. & Deakin, V. (Eds.) <br> Sydney: McGraw-Hill, c2006.<br> Call no. R 613.2088796 CLI 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Clinical%20Sports.jpg">
 Written for sports nutritionists, coaches, athletes and sport science professionals, this book provides a comprehensive coverage on topics such as nutrition for competition, recovery foods, weight loss, eating disorders in athletes, sports supplements and recommendations for athletes with special needs such as those with diabetes and gastrointestinal disorders.
-
-
-
 </div>
-<br>
+<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>Clinical Sports Nutrition</b><br>Burke, L. & Deakin, V. (Eds.) <br> Sydney: McGraw-Hill, c2006.<br> Call no. R 613.2088796 CLI <br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Clinical%20Sports.jpg">Written for sports nutritionists, coaches, athletes and sport science professionals, this book provides a comprehensive coverage on topics such as nutrition for competition, recovery foods, weight 
 
-<br>
+</span>
+
 
 With greater attention placed on the sports industry in Singapore, more companies are showing a keen interest in sports sponsorship as a social responsibility in their corporate objectives. Veteran sports sponsor Nestle, widely acknowledged as Singapore’s patron of sports, has been active in Singapore’s sports development since 1950, and has spent millions sponsoring sports events at inter-school and nationwide levels as well as meeting the nutritional needs of athletes at events such as the 2002 Sheares Bridge Run and the 2002 Eco-Challenge in Fiji. Singapore Pools, The Singapore Sports Council’s “partner in sports”, is another organisation that has been closely associated with sports sponsorship for a long time, from providing funds for National Sports Association programmes, to contributing to the Sporting Singapore Fund, and sending athletes overseas for tournaments.
 
