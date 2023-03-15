@@ -18,7 +18,7 @@ sections:
       background: /images/Vol 19 Issue 1/Teacher's Housing
         Estate/Row_of_terrace_houses_hero_img.jpg
   - infopic:
-      title: New Books on Singapore History [April 23]
+      title: New Books on Singapore History (Apr 2023)
       subtitle: Literature
       description: A quick look at four new books available in the National Library’s
         collection.
