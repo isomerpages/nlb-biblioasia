@@ -7,6 +7,13 @@ collection_name: past-issues
 Note: When accessing older issues, you may be directed to an archived version.
 
 
+#### Volume 19
+
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![BiblioAsia 19-1 cover](/images/covers/Cover%20BA_19-1%20v5.jpg)[Apr–Jun 2023]<br>[Apr–Jun 2023 (PDF)](/files/pdf/BiblioAsia_Apr-Jun%202023%20(below%205MB).pdf) |![BiblioAsia 18-2 cover](/images/covers/1Blank%20Cover.jpg)|
+
+
 #### Volume 18
 
 |                                                              |                                                              |
