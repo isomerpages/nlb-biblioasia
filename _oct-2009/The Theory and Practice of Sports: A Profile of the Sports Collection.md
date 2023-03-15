@@ -47,9 +47,20 @@ Reference Point, a remote enquiry service accessible by e-mail, mail, fax, SMS a
 
 All are welcome to browse and feed on the rich content in our sports collection available at the Lee Kong Chian Reference Library for leisure reading and professional research.
 
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Sharon%20Teng.png" style="width: 100px; height: 100px;"/>
+<center><b>Sharon Teng</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
+#### **REFERENCES**
 
+Koh Yizhe and Les Tan, “The Singapore Sports Industry Was Worth Over S$1 Billion in 2008,” _Red Sports_, 11 January 2009,  
+https://www.redsports.sg/2009/01/11/
 
+Singapore Sports Council, _[National Sports Participation Survey 2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12709405)_ (Singapore: Market Probe-Precision Research Pte Ltd., 2006). (Call no. RSING 796.095957 NAT)
 
+“Sports Corporate – Home,” Singapore Sports Council, accessed 21 August 2009,  
+https://www.sportsingapore.gov.sg/
 
 
