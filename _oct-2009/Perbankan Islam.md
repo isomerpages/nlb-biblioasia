@@ -33,17 +33,15 @@ Natijahnya, sistem perbankan konvensional mendapat pendapatan melalui kadar faed
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture6.jpg">
 Mengandungi tiga belas bab, dimulakan dengan Islam sebagai agama yang lengkap dan meliputi segalanya tentang riba dalam tafsiran Islam, sejarah dan ekonomi serta penerangan mengenai produk-produk bank Islam yang ditawarkan seperti Al Wadiah, Al Musyarakah, Al Mudharabah dan lain-lain lagi.<br><br>
 <b>Bank Syariah: Dari Teori Ke Praktik</b><br>Muhammad Syafi’i Antonio. Jakarta: Gema Insani, 2001. Call no. Malay R 332.10917671 ANT<br><br>
-<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Bank%20Syariah.jpg">Buku ini antara lain membincangkan tentang perkembangan sistem perbankan Islam, isu riba dan bunga, perbezaan antara bank Islam dan bank konvensional, serta menerangkan dengan terperinci prinsip-prinsip perbankan Islam.
-
-
-
-
-</div>
-
-
-
-</div>
-<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Bank%20Syariah.jpg">Buku ini antara lain membincangkan tentang perkembangan sistem perbankan Islam, isu riba dan bunga, perbezaan antara bank Islam dan bank konvensional, serta menerangkan dengan terperinci prinsip-prinsip perbankan Islam.<br><br>
+<b>Ke Arah 20% Pasaran Perbankan Menjelang 2010: Strategi Sistem Perbankan Islam.</b><br>Kuala Lumpur: Institut Kefahaman Islam Malaysia, [2002]. Call no. Malay R 340.5909595 MUZ<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture11.jpg">	
+Kumpulan tujuh kertas kerja yang dihasilkan untuk seminar anjuran Institut Kefahaman Islam Malaysia dan Persatuan Institusi-Institusi Perbankan Islam Malaysia pada March 2002.<br><br>
+<b>Perbankan Syariah: Prinsip, Pratik, Dan Prospek.</b><br>Mervyn K. Lewis dan Latifa M. Algaoud. Jakarta: Serambi Ilmu Semesta, 2004. Call no. Malay R 332.10917671 LEW	<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture11.jpg">Buku ini diterjemahkan daripada karya asalnya berjudul “Islamic Banking”, terbitan Edward Elgar, Massachusetts, 2001. Dibahagi pada sembilan bab dan salah satu bab yang menarik ialah mengenai sikap Islam dan Kristian terhadap riba dan dan perbandingan dilakukan terhadap ajaran kedua agama tersebut.<br><br>
+<b>Menyoal Bank Syariah: Kritik Atas Interpretasi Bunga Bank Kaum Neo Revivalis</b><br>Abdullah Saeed. Jakarta: Paramadina, 2004. Call no. Malay R 332.10917671 SAE<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture2.jpg">
+Mempersoalkan tentang kaedah bunga di dalam sistem perbankan Islam yang menurut penulis tidak boleh dihapuskan tetapi hanya diragamkan dengan pelbagai nama dan samaran.</div>
 
 #### **Islamic Banking**
 
