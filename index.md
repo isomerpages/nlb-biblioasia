@@ -24,7 +24,7 @@ sections:
         collection.
       button: New Reads
       url: /vol-19/issue-1/apr-jun-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 1/New Books/New Book_Reverent Journey.jpg
+      image: /images/Vol 19 Issue 1/New Books/New Book_Reverent Journey v2.jpg
       alt: Image alt text
   - infopic:
       title: A History of The Padang
