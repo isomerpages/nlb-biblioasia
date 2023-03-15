@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: New Books on Singapore History (Apr 2023)
       subtitle: Literature
-      description: A quick look at four new books available in the National Library’s
+      description: A quick look at five new books available in the National Library’s
         collection.
       button: New Reads
       url: /vol-19/issue-1/apr-jun-2023/new-books-singapore-history/
