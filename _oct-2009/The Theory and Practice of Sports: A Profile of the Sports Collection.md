@@ -24,13 +24,12 @@ Sports professionals who are coaches, fitness instructors, personal trainers, ph
 
 The sports collection at the Lee Kong Chian Reference Library caters to this information need with its range of materials on a broad spectrum of sports and exercise science topics:
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Clinical Sports Nutrition</b><br>Burke, L. & Deakin, V. (Eds.). Sydney: McGraw-Hill, 2006. Call no. R 613.2088796 CLI 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Clinical Sports Nutrition</b><br>Burke, L. & Deakin, V. (Eds.). Sydney: McGraw-Hill, 2006. Call no. R 613.2088796 CLI <br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Clinical%20Sports.jpg">
 Written for sports nutritionists, coaches, athletes and sport science professionals, this book provides a comprehensive coverage on topics such as nutrition for competition, recovery foods, weight loss, eating disorders in athletes, sports supplements and recommendations for athletes with special needs such as those with diabetes and gastrointestinal disorders.<br><br>
-<b>The Biophysical Foundations of Human Movement.</b><br> Abernathy, B. et al. Champaign, Ill.: Human Kinetics, 2005. Call no. R q612.76 BIO
+<b>The Biophysical Foundations of Human Movement.</b><br> Abernathy, B. et al. Champaign, Ill.: Human Kinetics, 2005. Call no. R q612.76 BIO<br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Foundations%20of%20Human%20Movement.jpg">	Divided into five sections, this authoritative text on human movement studies covers functional anatomy, biomechanics, exercise physiology, motor control and sport and exercise psychology. Diagrams, graphs, illustrations and references for further reading are included in each chapter for more comprehensive learning.<br><br>
-<b>Dynamic Physical Education for Secondary School Students.</b><br>Darst, P. and Pangrazi R. San Francisco: Pearson/Benjamin Cummings, 2006. Call no. R 613.70712 DAR
-
+<b>Dynamic Physical Education for Secondary School Students.</b><br>Darst, P. and Pangrazi R. San Francisco: Pearson/Benjamin Cummings, 2006. Call no. R 613.70712 DAR<br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Physical%20Education.jpg">Targeted at physical education trainee teachers and current professionals, this book is a useful guide for planning, developing and implementing a physical education programme in schools for students between 12 and 18 years of age. Instructional activities are recommended in the last section of the book, focusing on sports, lifestyle and outdoor adventure activities. References for further reading and a list of web sites are appended at the end of each chapter.</div>
 
 With greater attention placed on the sports industry in Singapore, more companies are showing a keen interest in sports sponsorship as a social responsibility in their corporate objectives. Veteran sports sponsor Nestle, widely acknowledged as Singapore’s patron of sports, has been active in Singapore’s sports development since 1950, and has spent millions sponsoring sports events at inter-school and nationwide levels as well as meeting the nutritional needs of athletes at events such as the 2002 Sheares Bridge Run and the 2002 Eco-Challenge in Fiji. Singapore Pools, The Singapore Sports Council’s “partner in sports”, is another organisation that has been closely associated with sports sponsorship for a long time, from providing funds for National Sports Association programmes, to contributing to the Sporting Singapore Fund, and sending athletes overseas for tournaments.
@@ -47,12 +46,12 @@ The sports collection’s offering provides an additional source of information 
 
 Besides the theoretical and scientific aspect of sports, a major portion of the collection comprises books on specific indoor recreational games and outdoor sports such as the following:
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Sport in South Asian Society: Past and Present.</b><br>Majumdar, B. and Mangan, J. A. (Eds.). London: Routledge, 2005. Call no. R 306.4830954 SPO
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Sport in South Asian Society: Past and Present.</b><br>Majumdar, B. and Mangan, J. A. (Eds.). London: Routledge, 2005. Call no. R 306.4830954 SPO<br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Sport%20in%20Asian%20Society.jpg">This collection of essays explores the role and significance of sports in Asian countries such as Sri Lanka, Japan, India, China, Singapore, Korea, Iran, Indonesia and Taiwan, from the 19th to the 21st centuries.<br><br>
-<b>Athlete First: A History of the Paralympic Movement.</b><br>Bailey, S. England: John Wiley & Sons, 2008. Call no. R 796.0874 BAI
+<b>Athlete First: A History of the Paralympic Movement.</b><br>Bailey, S. England: John Wiley & Sons, 2008. Call no. R 796.0874 BAI<br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Athelete%20First.jpg">This book traces the history of the Paralympic Movement over the past 50 years, charts its milestones and accomplishments decade by decade, discusses the formation of The International Paralympic Committee (IPC) and highlights significant contributions of key individuals and groups involved in furthering the work of IPC.<br><br>
 	
-<b>The Official History of the Olympic Games and the IOC: Athens to Beijing, 1894–2008.</b><br> Miller, D. Edinburgh: Mainstream, 2008. Call no. R 796.4809 MIL
+<b>The Official History of the Olympic Games and the IOC: Athens to Beijing, 1894–2008.</b><br> Miller, D. Edinburgh: Mainstream, 2008. Call no. R 796.4809 MIL<br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/History%20of%20Olympic%20Games1.jpg">
 This beautifully illustrated volume tells the story of the first Olympics held in Athens in 1894 to the most recent one held in Beijing last year, including the disastrous 1936 Nazi Games, the terrorist massacre of Israeli athletes at the 1972 Munich Games and the Ben Johnson drug debacle in 1988. Legendary Olympians such as Sebastian Coe, Jesse Owens, Alexander Popov, Nadia Comaneci and Michael Phelps are also featured.</div>
 	
