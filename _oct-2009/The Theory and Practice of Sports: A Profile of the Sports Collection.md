@@ -6,6 +6,9 @@ description: Librarian Sharon Teng gives us the rundown of what we can find in
 ---
 #### Librarian _Sharon Teng_ gives us the rundown of what we can find in the Sports Collection at the Lee Kong Chian Reference Library
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/Sports/Presentation2.jpg">
+ <div style="background-color: white;"></div>
+
 Sports in Singapore have garnered a great deal of media attention in recent years, with several high profile international events in the pipeline. These include hosting of the inaugural Asian Youth Games and Men’s Junior Hockey World Cup held this year, the first Youth Olympics in 2010, the Netball World Championship, and the completion of the Sports Hub in 2011.
 
 The number of Singaporeans who actively participate in sports has also risen substantially over the last five years. According to the 2005 National Sports Participation Survey, almost 50% of Singaporeans engage in sports at least once a week, up from only 38% in 2002.
