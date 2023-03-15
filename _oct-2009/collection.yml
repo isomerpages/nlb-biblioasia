@@ -2,9 +2,6 @@ collections:
   oct-2009:
     output: true
     order:
-      - "The Theory and Practice of Sports: A Profile of the Sports
-        Collection.md"
-      - "A Graphic Tale in Baba Malay: Chrita Orang Yang Chari Slamat (1905).md"
       - Director’s Column.md
       - 苏州工业园开发 建设15周年资料展.md
       - European Perceptions of Malacca in the Early Modern Period.md
@@ -13,3 +10,6 @@ collections:
       - Interpreting Media Constructions of Samsui Women in Singapore.md
       - "Singapore and the Middle East: Forging a Dynamic Relationship.md"
       - இந்திய – சிங்கப்பூர் பல்நோக்கு உறவு.md
+      - "A Graphic Tale in Baba Malay: Chrita Orang Yang Chari Slamat (1905).md"
+      - "The Theory and Practice of Sports: A Profile of the Sports
+        Collection.md"
