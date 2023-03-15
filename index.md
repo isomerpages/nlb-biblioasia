@@ -18,6 +18,15 @@ sections:
       background: /images/Vol 19 Issue 1/Teacher's Housing
         Estate/Row_of_terrace_houses_hero_img.jpg
   - infopic:
+      title: New Books on Singapore History (Apr 2023)
+      subtitle: Literature
+      description: A quick look at four new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-1/apr-jun-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 1/New Books/New Book_Reverent Journey v2.jpg
+      alt: Image alt text
+  - infopic:
       title: A History of The Padang
       subtitle: Places and Buildings
       description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
