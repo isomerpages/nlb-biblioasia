@@ -16,7 +16,7 @@ sections:
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Teacher's Housing
-        Estate/Row_of_terrace_houses_hero_img.jpg
+        Estate/Trishawton_Mentor_hero_img.jpg
   - infopic:
       title: New Books on Singapore History (Apr 2023)
       subtitle: Literature
