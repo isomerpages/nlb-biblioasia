@@ -38,7 +38,7 @@ Mengandungi tiga belas bab, dimulakan dengan Islam sebagai agama yang lengkap da
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture11.jpg">	
 Kumpulan tujuh kertas kerja yang dihasilkan untuk seminar anjuran Institut Kefahaman Islam Malaysia dan Persatuan Institusi-Institusi Perbankan Islam Malaysia pada March 2002.<br><br>
 <b>Perbankan Syariah: Prinsip, Pratik, Dan Prospek.</b><br>Mervyn K. Lewis dan Latifa M. Algaoud. Jakarta: Serambi Ilmu Semesta, 2004. Call no. Malay R 332.10917671 LEW	<br><br>
-<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture11.jpg">Buku ini diterjemahkan daripada karya asalnya berjudul “Islamic Banking”, terbitan Edward Elgar, Massachusetts, 2001. Dibahagi pada sembilan bab dan salah satu bab yang menarik ialah mengenai sikap Islam dan Kristian terhadap riba dan dan perbandingan dilakukan terhadap ajaran kedua agama tersebut.<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture8.jpg">Buku ini diterjemahkan daripada karya asalnya berjudul “Islamic Banking”, terbitan Edward Elgar, Massachusetts, 2001. Dibahagi pada sembilan bab dan salah satu bab yang menarik ialah mengenai sikap Islam dan Kristian terhadap riba dan dan perbandingan dilakukan terhadap ajaran kedua agama tersebut.<br><br>
 <b>Menyoal Bank Syariah: Kritik Atas Interpretasi Bunga Bank Kaum Neo Revivalis</b><br>Abdullah Saeed. Jakarta: Paramadina, 2004. Call no. Malay R 332.10917671 SAE<br><br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/PerbankanIslam/Capture2.jpg">
 Mempersoalkan tentang kaedah bunga di dalam sistem perbankan Islam yang menurut penulis tidak boleh dihapuskan tetapi hanya diragamkan dengan pelbagai nama dan samaran.</div>
