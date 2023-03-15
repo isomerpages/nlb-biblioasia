@@ -47,6 +47,15 @@ The sports collection’s offering provides an additional source of information 
 
 Besides the theoretical and scientific aspect of sports, a major portion of the collection comprises books on specific indoor recreational games and outdoor sports such as the following:
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Sport in South Asian Society: Past and Present.</b><br>Majumdar, B. and Mangan, J. A. (Eds.). London: Routledge, 2005. Call no. R 306.4830954 SPO
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Sport%20in%20Asian%20Society.jpg">This collection of essays explores the role and significance of sports in Asian countries such as Sri Lanka, Japan, India, China, Singapore, Korea, Iran, Indonesia and Taiwan, from the 19th to the 21st centuries.<br><br>
+<b>Athlete First: A History of the Paralympic Movement.</b><br>Bailey, S. England: John Wiley & Sons, 2008. Call no. R 796.0874 BAI
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Athelete%20First.jpg">This book traces the history of the Paralympic Movement over the past 50 years, charts its milestones and accomplishments decade by decade, discusses the formation of The International Paralympic Committee (IPC) and highlights significant contributions of key individuals and groups involved in furthering the work of IPC.<br><br>
+	
+<b>The Official History of the Olympic Games and the IOC: Athens to Beijing, 1894–2008.</b><br> Miller, D. Edinburgh: Mainstream, 2008. Call no. R 796.4809 MIL
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/History%20of%20Olympic%20Games1.jpg">
+This beautifully illustrated volume tells the story of the first Olympics held in Athens in 1894 to the most recent one held in Beijing last year, including the disastrous 1936 Nazi Games, the terrorist massacre of Israeli athletes at the 1972 Munich Games and the Ben Johnson drug debacle in 1988. Legendary Olympians such as Sebastian Coe, Jesse Owens, Alexander Popov, Nadia Comaneci and Michael Phelps are also featured.</div>
+	
 Besides print materials, the Lee Kong Chian Reference Library subscribes to many electronic databases that provide sports statistics, research data, news and analyses. One full-text sports database, in particular, is EBSCOHost SportsDiscus, with more than 700,000 articles of up-to-date information and the latest research findings from more than 400 sports science and sports medicine journals. All these databases are accessible at NLB libraries and some also from home through the National Library Board eResources website
 <a href="http://eresources.nlb.gov.sg/index.aspx">http://eresources.nlb.gov.sg/index.aspx</a>
 
