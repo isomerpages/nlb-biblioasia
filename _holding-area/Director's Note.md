@@ -19,5 +19,5 @@ Singapore may be a small country, but as you can see, its history is nothing to 
 <div style="background-color: white;">
 <br>
 <img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;" />
-<center><b>Ms Alicia Yeo</b><br>Director<br>National Library</center>
+<center><b>Alicia Yeo</b><br>Director<br>National Library, Singapore</center>
 </div>
