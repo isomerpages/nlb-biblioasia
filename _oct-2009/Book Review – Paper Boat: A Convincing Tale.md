@@ -7,6 +7,9 @@ description: "Executive Director of the National Book Development Council of
 ---
 #### Executive Director of the National Book Development Council of Singapore _R Ramachandran_ gives a thoughtful and detailed review of _Paper Boat_ by Rajat Das.
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%203/PaperBoat/Paper%20boat1.jpg">
+ <div style="background-color: white;"><i>Paper Boat</i> by Rajat Das. All rights reserved, Angsana Books, 2009.</div>
+
 #### **Introduction**
 
 I just wish to comment on two aspects of the book:<br>  i) My experience of reading *Paper Boat*; and<br> ii)The significance of *Paper Boat* in Singapore’s publishing scene.
@@ -50,6 +53,3 @@ Rajat Das, married with three children, invested a lifetime designing and develo
 "Honestly, back even in school, Nalini had <br>  begun to realise that right from her birth a <br>  predestinating hand was guiding her. She <br>  was a paper boat, in the rough and rapid <br>  river of life, built by a chubby Godchild for his <br>  coarse amusement in heavy rain. She was the <br>  eponymous heroine of an adventure story. <br>  This boat would set sail with ease, complete <br>  a journey, enjoy thrills on the way, assimilate <br>  maritime knowledge, use that knowledge to <br>  work the next journey, and in this manner yaw <br>  and turn, to go on and on, smash, rise, smash, <br>  and up then again. <br> 
 This trip might perhaps be another of <br>  the treacherously exhilarating sojourns she would <br>  experience for a time, in ways few experienced <br>  them, and move on, only to fetch up at the next <br>  port of call. The divine beings up there had <br>  conjured up perhaps a legion of spare boats to <br>  hand; what if the cause-and-effect hull sprang a <br>  leak now and then?" <br>(Extracted from page 483–484, Paper
 Boat)
-
-
-
