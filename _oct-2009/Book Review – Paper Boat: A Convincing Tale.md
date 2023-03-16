@@ -46,7 +46,7 @@ This is because Singapore serves as a hub for commerce, petrochemicals, transpor
 
 It has been said that bad writing is unreadable and good writing is unread. In the case of Rajat’s *Paper Boat*, it is good writing that compels anyone who turns the first page to read on until the last line on page 782. And what’s more, it makes publishing history in Singapore that is bound to position the city-state as one of the key centres of Asian fiction.
 
-*Paper Boat* is available for reference and loan at the National Library and its branches (Call no.: RSING/SING DAS).
+*Paper Boat* is available for reference and loan at the National Library and its branches (Call no. RSING/SING S823 DAS).
 
 
 #### **About the Author of Paper Boat**
