@@ -28,7 +28,7 @@ _Belacan. Terasi. Kapi. Bagoong_. These are some of the names to refer to shrimp
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/">Which Was Singapore’s First Courthouse?</a><br>Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse between 1828 and 1939. But before 1828, legal hearings in Singapore were conducted in at least three other venues. *Kevin Y.L. Tan*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Shrimp-paste.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Women and the Typewriter in
-Singapore’s Herstories</a><br>The humble typewriter helped women become better educated, enter the workforce and contribute to society. *Liew Kai Khiun*.[(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Shrimp-paste.pdf)
+Singapore’s Herstories</a><br>The humble typewriter helped women become better educated, enter the workforce and contribute to society. *Liew Kai Khiun*.[(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Women-and-Typewriter-in-Singapore-Her-stories.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/">Terraces on Tagore: The Curious Origins of Teachers’ Housing Estate</a><br>The Singapore Teachers’ Union wanted a clubhouse. It ended up building a housing estate. *Sharon Teng*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Teachers-Estate.pdf)
 
