@@ -72,13 +72,10 @@ Rajat Das, married with three children, invested a lifetime designing and develo
 &emsp;&emsp;&emsp;&emsp;&emsp;conjured up perhaps a legion of spare boats to <br> 
  &emsp;&emsp;&emsp;&emsp;&emsp;hand; what if the cause-and-effect hull sprang a <br>
  &emsp;&emsp;&emsp;&emsp;&emsp;leak now and then?" <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Extracted from page 483–484, Paper Boat)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Extracted from page 483–484, *Paper Boat*)
 
 <br>
 <div style="background-color: white;">
 <br/>
 <img src="/images/Authors/R%20Ramachandran.jpg" style="width: 100px; height: 100px;"/>
 	<center><b>R Ramachandran</b><br>Executive Director<br> National Book Development Council of Singapore.</center></div>
-
-
-
