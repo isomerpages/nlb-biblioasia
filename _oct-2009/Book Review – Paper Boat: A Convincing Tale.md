@@ -44,7 +44,6 @@ This is because Singapore serves as a hub for commerce, petrochemicals, transpor
 <img style="width:80%;" src="/images/Vol%205%20Issue%203/PaperBoat/1_Paper%20boat%20signing.jpg">
  <div style="background-color: white;">Autograph signing session by Rajat at Books Kinokuniya Singapore Main Store on 16 May 2009.</div>
 
-
 It has been said that bad writing is unreadable and good writing is unread. In the case of Rajat’s *Paper Boat*, it is good writing that compels anyone who turns the first page to read on until the last line on page 782. And what’s more, it makes publishing history in Singapore that is bound to position the city-state as one of the key centres of Asian fiction.
 
 *Paper Boat* is available for reference and loan at the National Library and its branches (Call no.: RSING/SING DAS).
@@ -54,8 +53,7 @@ It has been said that bad writing is unreadable and good writing is unread. In t
 
 Rajat Das, married with three children, invested a lifetime designing and developing heuristic tools of learning before embarking on *Paper Boat*. He grew up in India. A Singapore citizen, he lives with his wife Serene Choo and son Shomir. He’s an avid tennis and pool player.
 
-
- &emsp;&emsp;&emsp;&emsp;&emsp;"Honestly, back even in school, Nalini had <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;"Honestly, back even in school, Nalini had <br>
  &emsp;&emsp;&emsp;&emsp;&emsp;begun to realise that right from her birth a <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;predestinating hand was guiding her. She <br>
 &emsp;&emsp;&emsp;&emsp;&emsp; was a paper boat, in the rough and rapid <br>
@@ -75,3 +73,12 @@ Rajat Das, married with three children, invested a lifetime designing and develo
  &emsp;&emsp;&emsp;&emsp;&emsp;hand; what if the cause-and-effect hull sprang a <br>
  &emsp;&emsp;&emsp;&emsp;&emsp;leak now and then?" <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Extracted from page 483–484, Paper Boat)
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/R%20Ramachandran.jpg" style="width: 100px; height: 100px;"/>
+	<center><b>R Ramachandran</b><br>Executive Director<br> National Book Development Council of Singapore.</center></div>
+
+
+
