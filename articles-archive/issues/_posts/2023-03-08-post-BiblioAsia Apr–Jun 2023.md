@@ -30,6 +30,6 @@ _Belacan. Terasi. Kapi. Bagoong_. These are some of the names to refer to shrimp
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Women and the Typewriter in
 Singapore’s Herstories</a><br>The humble typewriter helped women become better educated, enter the workforce and contribute to society. *Liew Kai Khiun*.[(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_Thaipusam.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/">Terraces on Tagore: The Curious Origins of Teachers’ Housing Estate</a><br>Built by the Singapore Teachers’ Union in the 1960s, this estate still retains some of its rustic charm and sense of neighbourliness. *Sharon Teng*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_PreparingForWar.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/">Terraces on Tagore: The Curious Origins of Teachers’ Housing Estate</a><br>The Singapore Teachers’ Union wanted a clubhouse. It ended up building a housing estate. *Sharon Teng*. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_PreparingForWar.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/new-books-singapore-history/">New Books on Singapore History </a><br>New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2018/Issue%204/BiblioAsia_18_4_FA_NewBook.pdf)
