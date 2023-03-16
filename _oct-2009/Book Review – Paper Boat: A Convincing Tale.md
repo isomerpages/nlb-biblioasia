@@ -41,6 +41,10 @@ This is because Singapore serves as a hub for commerce, petrochemicals, transpor
 
 #### **A Good Read**
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/PaperBoat/1_Paper%20boat%20signing.jpg">
+ <div style="background-color: white;">Autograph signing session by Rajat at Books Kinokuniya Singapore Main Store on 16 May 2009.</div>
+
+
 It has been said that bad writing is unreadable and good writing is unread. In the case of Rajat’s *Paper Boat*, it is good writing that compels anyone who turns the first page to read on until the last line on page 782. And what’s more, it makes publishing history in Singapore that is bound to position the city-state as one of the key centres of Asian fiction.
 
 *Paper Boat* is available for reference and loan at the National Library and its branches (Call no.: RSING/SING DAS).
@@ -71,5 +75,3 @@ Rajat Das, married with three children, invested a lifetime designing and develo
  &emsp;&emsp;&emsp;&emsp;&emsp;hand; what if the cause-and-effect hull sprang a <br>
  &emsp;&emsp;&emsp;&emsp;&emsp;leak now and then?" <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Extracted from page 483–484, Paper Boat)
-
-
