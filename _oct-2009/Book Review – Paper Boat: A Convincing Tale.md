@@ -50,6 +50,26 @@ It has been said that bad writing is unreadable and good writing is unread. In t
 
 Rajat Das, married with three children, invested a lifetime designing and developing heuristic tools of learning before embarking on *Paper Boat*. He grew up in India. A Singapore citizen, he lives with his wife Serene Choo and son Shomir. He’s an avid tennis and pool player.
 
-"Honestly, back even in school, Nalini had <br>  begun to realise that right from her birth a <br>  predestinating hand was guiding her. She <br>  was a paper boat, in the rough and rapid <br>  river of life, built by a chubby Godchild for his <br>  coarse amusement in heavy rain. She was the <br>  eponymous heroine of an adventure story. <br>  This boat would set sail with ease, complete <br>  a journey, enjoy thrills on the way, assimilate <br>  maritime knowledge, use that knowledge to <br>  work the next journey, and in this manner yaw <br>  and turn, to go on and on, smash, rise, smash, <br>  and up then again. <br> 
-This trip might perhaps be another of <br>  the treacherously exhilarating sojourns she would <br>  experience for a time, in ways few experienced <br>  them, and move on, only to fetch up at the next <br>  port of call. The divine beings up there had <br>  conjured up perhaps a legion of spare boats to <br>  hand; what if the cause-and-effect hull sprang a <br>  leak now and then?" <br>(Extracted from page 483–484, Paper
-Boat)
+
+ &emsp;&emsp;&emsp;&emsp;&emsp;"Honestly, back even in school, Nalini had <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;begun to realise that right from her birth a <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;predestinating hand was guiding her. She <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; was a paper boat, in the rough and rapid <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;river of life, built by a chubby Godchild for his <br>&emsp;&emsp;&emsp;&emsp;&emsp; coarse amusement in heavy rain. She was the <br>&emsp;&emsp;&emsp;&emsp;&emsp; eponymous heroine of an adventure story. <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;This boat would set sail with ease, complete <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;a journey, enjoy thrills on the way, assimilate <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;maritime knowledge, use that knowledge to <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;work the next journey, and in this manner yaw <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;and turn, to go on and on, smash, rise, smash, <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;and up then again. <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;This trip might perhaps be another of <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;the treacherously exhilarating sojourns she would <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;experience for a time, in ways few experienced <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;them, and move on, only to fetch up at the next <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;port of call. The divine beings up there had <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;conjured up perhaps a legion of spare boats to <br> 
+ &emsp;&emsp;&emsp;&emsp;&emsp;hand; what if the cause-and-effect hull sprang a <br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;leak now and then?" <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Extracted from page 483–484, Paper Boat)
+
+
