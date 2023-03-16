@@ -5,6 +5,9 @@ description: "Meet new Lee Kong Chian Research Fellow Dr Mahani Binti Awang. "
 ---
 #### Meet new Lee Kong Chian Research Fellow _Dr Mahani Binti Awang_.
 
+<img style="width:80%;" src="/images/Vol%205%20Issue%203/Mahani/LKCRF%20Signing1.jpg">
+ <div style="background-color: white;">Dr Mahani was awarded the Lee Kong Chian Research Fellowship by Ms Ngian Lek Choh, Director, National Library, at a signing ceremony held on 29 July. <br>  (From left to right) Ms Isabel Kam, Senior Manager, Publishing and Research Services; Mr Johnson Paul, Deputy Director, Publishing and Research Servics; Ms Ngian Lek Choh; Dr Mahani; Mr Chia Yeow Tong, Lee Kong Chian Research Fellow and witness for Dr Mahani; Ms Kartini Binte Saparudin, AssociateLibrarian, Lee Kong Chian Reference Library; and Ms Masamah Ahmad, Senior Library Officer, Publishing and Research Services.</div>
+
 Although born in Kelantan, I spent most of my childhood in the neighbouring state of Terengganu where my father worked at a land scheme, and received my early education in Kuala Berang in Terengganu. Kuala Berang is a humble rural town, but has an important and ancient local history. It is famously known as the place where the Terengganu Stone was found. The stone which has an inscription dated 1303 A.D. is commonly accepted as archival evidence of the early arrival of Islam to the Malay Peninsula.
 
 In addition to this, Kuala Berang also goes down in history as the first royal town in Terengganu when the first sultan of Terengganu, Sultan Zainal Abidin I, made Kuala Berang his home. The importance of Kuala Berang in the history of Malaya is evident during the colonial period when it became one of the strongholds of the famous Terengganu Peasant Uprising (against the British) in 1928, led by the religious leader Haji Abdul Rahman Limbong.
@@ -26,6 +29,3 @@ An avid believer of peace, justice and respect for all, I fervently hope that al
 <br/>
 <img src="/images/Authors/Mahani%20Musa.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Mahani Awang</b><br>Lee Kong Chian Research Fellow<br>National Library</center> </div>
-
-
-
