@@ -3,8 +3,6 @@ title: Director's Note
 permalink: /vol-18/issue-4/jan-to-mar-2023/director-note/
 description: ""
 ---
-
-
 Singapore’s filmmaking industry certainly looks like it’s scaling new heights, what with drama-comedy Ajoomma (starring local actress Hong Huifang) being nominated for four Golden Horse Awards in 2022 and also being selected as Singapore’s entry to the 2023 Academy Awards in the Best International Feature Film category. 
 
 In the 1950s and 1960s, we certainly weren’t party to such glitzy international awards, but did you know that Singapore used to be a major centre for movie production back then? Films by Cathay-Keris and Shaw Brothers were popular in Malaya and Singapore, and these include *Orang Minyak* and *Seniman Bujang Lapok*, which have since become beloved classics. Unfortunately, it seems no one thought that preserving these films was particularly important, since reels upon reels of acetate film were left to disintegrate in dusty warehouses and forgotten storerooms over the decades. Chew Tee Pao’s account of the [challenges of restoring these films](/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/) is both fascinating and inspiring.

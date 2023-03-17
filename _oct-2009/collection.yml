@@ -2,8 +2,6 @@ collections:
   oct-2009:
     output: true
     order:
-      - "Book Review – Paper Boat: A Convincing Tale.md"
-      - Perbankan Islam.md
       - Director’s Column.md
       - 苏州工业园开发 建设15周年资料展.md
       - European Perceptions of Malacca in the Early Modern Period.md
@@ -15,3 +13,7 @@ collections:
       - "A Graphic Tale in Baba Malay: Chrita Orang Yang Chari Slamat (1905).md"
       - "The Theory and Practice of Sports: A Profile of the Sports
         Collection.md"
+      - Perbankan Islam.md
+      - "Book Review – Paper Boat: A Convincing Tale.md"
+      - National Library Singapore Celebrates Customer Appreciation Day.md
+      - "Lee Kong Chian Research Fellow: Dr Mahani Binti Awang.md"
