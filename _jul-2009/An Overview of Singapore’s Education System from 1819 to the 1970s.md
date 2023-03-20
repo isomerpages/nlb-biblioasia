@@ -208,11 +208,9 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 
 [^13]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5.
 
+[^14]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 9.
 
-
-[^14: nistry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 9.
-
-15 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5–9.
+[^1:15 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5–9.
 
 16 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 6.
 
@@ -239,6 +237,3 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 27 Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608), preface.
 
 28 See Appendix for a select list of educational policies and papers mentioned in this article.
-
-
-
