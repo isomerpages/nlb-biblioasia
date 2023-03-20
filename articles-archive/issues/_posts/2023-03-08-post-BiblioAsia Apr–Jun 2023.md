@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-_Belacan. Terasi. Kapi. Bagoong_. These are some of the names to refer to shrimp paste in Southeast Asia. In the cover story, find out how early Europeans to the region were repulsed by it, although the locals swear that the condiment gives a kick to any dish.
+_Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shrimp paste in Southeast Asia. In the cover story, find out how early Europeans to the region were repulsed by it, although the locals swear that the condiment gives a kick to any dish.
 
 
 <img src="/images/Vol%2019%20Issue%201/Biblioasia_19_1_cover.png">
