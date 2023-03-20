@@ -85,6 +85,11 @@ Even in his 90s, Abisheganaden continued to have an unbridled enthusiasm for mus
 
 Bernard Tan Tiong Gie, a critically acclaimed Singaporean composer and professor of physics at NUS describes Abisheganaden as the “ quintessential musician’s musician – always young at heart and ever generous with his immense talents”.[^3]
 
+Abisheganaden died peacefully at St Luke’s Hospital on 17 March 2023, aged 97.[^4] He is survived by his wife Eileen, and his children Jacinta, the singer and actress, and Peter. 
+
+(Note: This essay was updated on 20 March 2023.)
+
+
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>THE ABISHEGANADEN COLLECTION HIGHLIGHTS</b>
 <br><br>
 Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on <a href="http://eresources.nlb.gov.sg/music">MusicSG</a> – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
