@@ -262,3 +262,6 @@ Tsang, S. (1996, September 29). [They strike a chord in each other](http://ereso
 [^2]:Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
 
 [^3]:Email correspondence with Bernard Tan Tiong Gie, a prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+[^4]:Clement Yong and Charmaine Lim, “‘Good Night, Uncle Alex’: Father of Singapore Guitar Alex Abisheganaden Dies at 97,” Straits Times, 17 March 2023, 
+https://www.straitstimes.com/life/arts/good-night-uncle-alex-father-of-singapore-guitar-alex-abisheganaden-dies-97.
