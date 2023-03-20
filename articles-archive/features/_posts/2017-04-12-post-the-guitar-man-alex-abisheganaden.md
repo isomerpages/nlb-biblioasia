@@ -11,7 +11,7 @@ layout: post
 
 Alexander S. Abisheganaden, more popularly known as Alex Abisheganaden, was an accomplished Singaporean musician who was conferred the Cultural Medallion in 1988. The award honours individuals who have achieved excellence in the fields of literary arts, performing arts, visual arts and film, and have contributed to the city’s cultural environment.
 
-Often referred to as the “Father of the Guitar”, Abisheganaden was regarded by many in the music circle as Singapore’s first home-grown classical guitarist and double bassist – an affable and generous musician who has dedicated much of his life educating and popularising the performance of music on the guitar.
+Often referred to as the “Father of the Guitar”, Abisheganaden was regarded by many in the music circle as Singapore’s first home-grown classical guitarist and double bassist – an affable and generous musician who dedicated much of his life educating and popularising the performance of music on the guitar.
 
 In 2015, Abisheganaden donated his collection of handwritten scores, notes and books on the double bass, guitar ensemble and choral singing to the National Library, Singapore. A total of 158 items have since been placed on the shelves of the Lee Kong Chian Reference Library at Victoria Street and the Library@Esplanade.
 
