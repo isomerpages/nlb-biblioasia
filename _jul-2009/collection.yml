@@ -2,4 +2,5 @@ collections:
   jul-2009:
     output: true
     order:
+      - An Overview of Singapore’s Education System from 1819 to the 1970s.md
       - Director's Column.md
