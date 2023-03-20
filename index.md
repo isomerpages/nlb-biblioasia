@@ -18,15 +18,6 @@ sections:
       background: /images/Vol 19 Issue 1/Teacher's Housing
         Estate/Row_of_terrace_houses_hero_img.jpg
   - infopic:
-      title: New Books on Singapore History (Apr 2023)
-      subtitle: Literature
-      description: A quick look at five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-19/issue-1/apr-jun-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 1/New Books/New Book_Reverent Journey v2.jpg
-      alt: Image alt text
-  - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
       description: Cultural Medallion recipient Alex Abisheganaden died on 17 March,
@@ -35,6 +26,15 @@ sections:
       button: FATHER OF THE GUITAR
       url: /vol-13/issue-1/apr-jun-2017/guitar-man
       image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
+      alt: Image alt text
+  - infopic:
+      title: New Books on Singapore History (Apr 2023)
+      subtitle: Literature
+      description: A quick look at five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-1/apr-jun-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 1/New Books/New Book_Reverent Journey v2.jpg
       alt: Image alt text
   - infopic:
       title: A History of The Padang
