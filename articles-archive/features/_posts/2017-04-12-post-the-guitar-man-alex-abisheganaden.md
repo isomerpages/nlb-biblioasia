@@ -1,11 +1,11 @@
 ---
 title: "The Guitar Man: Alex Abisheganaden"
 date: 2017-04-12
-permalink: /vol-13/issue-1/apr-jun-2017/guitar-man
+permalink: /vol-13/issue-1/apr-jun-2017/guitar-man/
 image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
 layout: post
 ---
-#### Hailed as the “Father of the Guitar”, this pioneer musician has spent the last 50 years championing the classical guitar movement in Singapore. **Joy Loh** charts his illustrious career.
+#### Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar. **Joy Loh** charts his illustrious career.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg">Alex Abisheganaden teaching a young boy how to play the guitar (undated). <i>All rights reserved, Eric Foo Chee Meng 1979–2001, Courtesy of National Arts Council.</i></div>
 
