@@ -238,14 +238,60 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 
 [^28]: See Appendix for a select list of educational policies and papers mentioned in this article.
 
+#### **APPENDIX: A Select List of Education Policies and Papers from 1819 to the 1970s**
+     
 
+**1870:** Report of the Select Committee of the Legislative Council To Inquire Into the State of Education in the Colony (Woolley Report)
 
+**1894:** Report of the Committee Appointed To Inquire Into the System of Vernacular Education in the Colony (Isemonger Report)
 
+**1902:** Report of the Commission of Enquiry Into the System of English Education in the Colony (Kynnerseley Report)
 
+**1917:** Report on Vernacular and Industrial Education in the Netherlands East Indies and the Philippines, by R.O. Winstedt
 
+**1919:** Report by the Committee Appointed by His Excellency the Governor To Advise As to a Scheme for the Advancement of Education Preparatory to a University in Singapore (Firmstone Report)
 
+**1919:** Report of the Committee on Technical and Industrial Education in the Federated Malay States (Lemon Report)
 
+**1922:** Report of the Committee Appointed by His Excellency the Government and High Commissioner To Consider the Working of the System of Education Grants-inAid Introduced in 1920 in the Straits Settlements and the Federated Malay States (Wolff Report)
 
+**1925:** Report of the Technical Education Committee (Winstedt Report)
+
+**1927:** Report of the Committee Appointed To Draw Up a Scheme for a School of Agriculture as a Joint Institution for the Federated Malay States and Straits Settlement (Elles Report)
+
+**1928:** Proceedings of the Committee Appointed by His Excellency the Governor and High Commissioner To Report on the Question of Medical Research Throughout Malaya. (Command Paper – Straits Settlements. Legislative Council; No. 13 of 1929)
+
+**1932:** Report of the Committee to Consider the System of Grants-in-Aid to Schools in the Straits Settlements and the Federated Malay States (Morten Report) (Command paper - Straits Settlements. Legislative Council; no. 103 of 1932)
+
+**1938:** Report on Vocational Education in Malay, by H. R. Cheeseman
+
+**1939:** Report of the Commission Appointed by the Secretary of State for the Colonies on Higher Education in Malaya (McLean Report)
+
+**1947–1949:** Educational Policy in the Colony of Singapore: Ten Years Programme (Vol. 1) and Supplement to the Ten-Year Programme: Data and Interim Proposals (Vol. 2)
+
+**1951:** Report of the Committee on Malay Education (Barnes Report)
+
+**1951:** Chinese Schools and the Education of Chinese Malayans: The Report of a Mission Invited by the Federation Government To Study the Problem of the Education of Chinese in Malaya (Fenn Report)
+
+**1951:** Report on the Barnes Report on Malay Education and the Fenn-Wu Report on Chinese Education
+
+**1953:** Chinese Schools - Bilingual Education and Increased Aid (Command Paper - Singapore. Legislative Council; Cmd. 81 of 1953)
+
+1953: Report of the Committee on a Polytechnic Institute for Singapore
+
+**1956:** Singapore Chinese Middle Schools Students’ Union (Command Paper - Singapore. Legislative Assembly; Cmd. 53 of 1956)
+
+**1956:** Report of the All-Party Committee of the Singapore Legislative Assembly on Chinese education (Led by Chew Swee Kee)
+
+**1956:** White Paper on Education Policy (Command Paper – Legislative Assembly; Cmd. 15 of 1956)
+
+**1961:** Report of the Commission of Inquiry into Vocational and Technical Education in Singapore (Chan Chieu Kiat Commission)
+
+**1962:** Interim Report on the Six-Day Week – Commission of Inquiry Into Education (Lim Tay Boh Commission)
+
+**1964:** Final Report – Commission of Inquiry Into Education (Lim Tay Boh Commission)
+
+**1979:** Report on the Ministry of Education 1978 (Prepared by Goh Keng Swee and the Education Study Team)
 
 
 
