@@ -210,30 +210,33 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 
 [^14]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 9.
 
-[^1:15 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5–9.
+[^15]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5–9.
 
-16 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 6.
+[^16]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 6.
 
-17 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 2.
+[^17]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 2.
 
-18 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 4.
+[^18]: Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 4.
 
-19 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 7.
+[^19]: Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 7.
 
-20 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 10.
+[^20]: Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 10.
 
-21 Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 61.
+[^21]: Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 61.
 
-22 Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 38–46.
+[^22]: Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 38–46.
 
-23 Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 60.
+[^23]: Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 60.
 
-24 Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), x.
+[^24]: Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), x.
 
-25 Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), 97.
+[^25]: Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), 97.
 
-26 Goh and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172), ii.
+[^26]: Goh and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172), ii.
 
-27 Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608), preface.
+[^27]: Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608), preface.
 
-28 See Appendix for a select list of educational policies and papers mentioned in this article.
+[^28]: See Appendix for a select list of educational policies and papers mentioned in this article.
+
+
+
