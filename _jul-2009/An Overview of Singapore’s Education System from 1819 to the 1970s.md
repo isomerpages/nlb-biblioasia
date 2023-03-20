@@ -226,7 +226,7 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 
 [^22]: Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 38–46.
 
-[^23]: Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 60.
+[23]: Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 60.
 
 [^24]: Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), x.
 
@@ -237,6 +237,15 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 [^27]: Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608), preface.
 
 [^28]: See Appendix for a select list of educational policies and papers mentioned in this article.
+
+
+
+
+
+
+
+
+
 
 
 
