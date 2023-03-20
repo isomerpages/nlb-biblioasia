@@ -74,3 +74,13 @@ Through the official reports and policies, one can see that the attempts by the 
 It was not till the 1957 Registration of School Ordinance that we see another attempt by the government to consolidate the numerous “micro-systems” that existed within Singapore’s education system. The main shift away from policies with communal considerations to those stressing national concerns took place after self-rule was attained. Some of these developments were captured in the 1961 “Commission of Inquiry into Vocational and Technical Education in Singapore” (Chan Chieu Kiat Commission) and in the 1962 “Commission of Inquiry into Education” (Lim Tay Boh Commission). The 1978 Goh Keng Swee Report recommended the merger of all four language-stream schools into a common English-stream system. All schools were transformed into “English medium schools” by 1984. By then, it was no longer necessary to address educational issues peculiar to ethnicity and language stream as all policies and reviews subsequently applied to all Singapore schools.
 
 If readers wish to explore the subject further, I recommended David Chelliah’s *A History of the Educational Policy of the Straits Settlements with Recommendations for a New System Based on Vernaculars* (1940) and Saravanna Gopinathan’s *Towards a National System of Education in Singapore, 1945–1973* (1974). Both authors also consulted the resources that I have referred to in my article. Their works are available at Level 12 of the Lee Kong Chian Reference Library, National Library.
+
+
+
+<br>
+<div style="background-color: white;">
+<br/>
+<img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
+<center> <b>Wee Tong Bao</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
+
+
