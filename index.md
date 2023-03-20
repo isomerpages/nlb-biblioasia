@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
-      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March,
+      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
         2023. In his memory, we are republishing this essay on him from 2017,
         which has been updated.
       button: FATHER OF THE GUITAR
