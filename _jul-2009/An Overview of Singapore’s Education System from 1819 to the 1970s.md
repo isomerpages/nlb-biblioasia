@@ -180,7 +180,7 @@ T. R. Doraisamy et al., [_150 Years of Education_](https://eservice.nlb.gov.sg/i
 
 Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Origins and Outcome,” (Bachelor’s Thesis, National University of Singapore, 1990, https://scholarbank.nus.edu.sg/handle/10635/166959
 
-#### **NOTES**
+
 
 [^1]: Raffles, [_Memoir of the Life and Public Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277), appendix and 38.
 
@@ -292,6 +292,8 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 **1964:** Final Report – Commission of Inquiry Into Education (Lim Tay Boh Commission)
 
 **1979:** Report on the Ministry of Education 1978 (Prepared by Goh Keng Swee and the Education Study Team)
+
+#### **NOTES**
 
 
 
