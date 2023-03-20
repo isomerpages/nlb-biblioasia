@@ -1,17 +1,17 @@
 ---
 title: "The Guitar Man: Alex Abisheganaden"
 date: 2017-04-12
-permalink: /vol-13/issue-1/apr-jun-2017/guitar-man
+permalink: /vol-13/issue-1/apr-jun-2017/guitar-man/
 image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
 layout: post
 ---
-#### Hailed as the “Father of the Guitar”, this pioneer musician has spent the last 50 years championing the classical guitar movement in Singapore. **Joy Loh** charts his illustrious career.
+#### Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar. **Joy Loh** charts his illustrious career.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg">Alex Abisheganaden teaching a young boy how to play the guitar (undated). <i>All rights reserved, Eric Foo Chee Meng 1979–2001, Courtesy of National Arts Council.</i></div>
 
-Alexander S. Abisheganaden, more popularly known as Alex Abisheganaden, is an accomplished Singaporean musician who was conferred the Cultural Medallion in 1988. The award honours individuals who have achieved excellence in the fields of literary arts, performing arts, visual arts and film, and have contributed to the city’s cultural environment.
+Alexander S. Abisheganaden, more popularly known as Alex Abisheganaden, was an accomplished Singaporean musician who was conferred the Cultural Medallion in 1988. The award honours individuals who have achieved excellence in the fields of literary arts, performing arts, visual arts and film, and have contributed to the city’s cultural environment.
 
-Often referred to as the “Father of the Guitar”, Abisheganaden is regarded by many in the music circle as Singapore’s first home-grown classical guitarist and double bassist – an affable and generous musician who has dedicated much of his life educating and popularising the performance of music on the guitar.
+Often referred to as the “Father of the Guitar”, Abisheganaden was regarded by many in the music circle as Singapore’s first home-grown classical guitarist and double bassist – an affable and generous musician who dedicated much of his life educating and popularising the performance of music on the guitar.
 
 In 2015, Abisheganaden donated his collection of handwritten scores, notes and books on the double bass, guitar ensemble and choral singing to the National Library, Singapore. A total of 158 items have since been placed on the shelves of the Lee Kong Chian Reference Library at Victoria Street and the Library@Esplanade.
 
@@ -39,7 +39,7 @@ After World War II, Abisheganaden completed his Senior Cambridge examination and
 
 Abisheganaden met his future wife, Eileen Wong, at the Teachers’ Training College in the 1950s. Both shared a common interest in music and attended the same church. Brought up by strict Christian Cantonese parents in a traditional household, Eileen was the eldest child and her parents had high expectations of her. Marrying outside of one’s race in those days was uncommon and often frowned upon by society.
 
-Despite the challenges the couple faced during their early courtship days, the determined Abisheganaden was clearly not to be deterred from marrying Eileen. Unable to receive neither his father-in-law’s permission nor blessing, the couple sought the help of Eileen’s uncle, Lee Swee Cheng, a prominent individual in Singapore’s business circles, to give the bride away in place of her father. Sixty-one years later, the couple is still happily married with two children, Jacintha, 60, and Peter, 57.
+Despite the challenges the couple faced during their early courtship days, the determined Abisheganaden was clearly not to be deterred from marrying Eileen. Unable to receive neither his father-in-law’s permission nor blessing, the couple sought the help of Eileen’s uncle, Lee Swee Cheng, a prominent individual in Singapore’s business circles, to give the bride away in place of her father. The couple was happily married for more than 65 years and had two children, Jacinta and Peter.
 
 Abisheganaden’s children, too, grew up in an environment filled with music during their formative years. His wife was also musically talented, and often sang and played the piano at home. Aisheganaden’s brother, Paul, had established the Singapore Junior Symphony Orchestra (later known as the Singapore Chamber Ensemble) in the 1950s, and Jacintha reveals that her home was often used as a rehearsal venue. Jacintha has fond memories of how she often “met fabulous people, listened up close to the most intrepid classical music and every day was a party”.[^2]
 
@@ -63,15 +63,15 @@ The widespread use of recreational drugs among Singaporean youths in the early 1
 
 Abisheganaden was commissioned by then Minister for Education Goh Keng Swee to produce 26 episodes of the TV programme, *Music Making with the Guitar*, which was broadcast on MOE’s Educational Television Service for two years from 1970 to 1971. He also wrote the two textbooks that accompanied the series. The programme not only helped to raise the profile and popularity of the classical guitar, it also established Abisheganaden as the master of the classical guitar in Singapore.
 
-In 1981, Abisheganaden founded the National University of Singapore Guitar Ensemble (GENUS) at the university’s Centre for Musical Activities. Beginning as a guitar class with fewer than 10 enthusiasts, GENUS has now grown into a 50-member strong ensemble with a wide repertoire and is recognised as one of Singapore’s premier guitar ensembles. Its annual public concerts often feature Abisheganaden’s original compositions and music that he has transcribed for the guitar.
+In 1981, Abisheganaden founded the National University of Singapore Guitar Ensemble (GENUS) at the university’s Centre for Musical Activities. Beginning as a guitar class with fewer than 10 enthusiasts, GENUS has now grown into a 50-member strong ensemble with a wide repertoire and is recognised as one of Singapore’s premier guitar ensembles. Its annual public concerts often feature Abisheganaden’s original compositions and music that he had transcribed for the guitar.
 
-These works reflect Abisheganaden’s personality and musical style: he enjoys taking a popular ASEAN song, arranging it into a style suitable for the guitar ensemble, and then teaching it to his students. Some notable examples include the Tagalog song “Anak” written by Filipino musician Freddie Aguilar; “The Pursuit” composed by local music legend Dick Lee and popularised by the late Cantopop singer Leslie Cheung; and “Jingli Nona” (or Jinkli Nona, which means “Fair Maiden”), one of the most popular Portuguese Eurasian folk songs. It was often sung and performed at Eurasian weddings, and the dance movements are somewhat similar to the Malay *joget*.
+These works reflect Abisheganaden’s personality and musical style: he enjoyed taking a popular ASEAN song, arranging it into a style suitable for the guitar ensemble, and then teaching it to his students. Some notable examples include the Tagalog song “Anak” written by Filipino musician Freddie Aguilar; “The Pursuit” composed by local music legend Dick Lee and popularised by the late Cantopop singer Leslie Cheung; and “Jingli Nona” (or Jinkli Nona, which means “Fair Maiden”), one of the most popular Portuguese Eurasian folk songs. It was often sung and performed at Eurasian weddings, and the dance movements are somewhat similar to the Malay *joget*.
 
 Abisheganaden also composed works for the guitar – including original pieces and transcriptions of popular songs – for didactic purpose as a means to train and improve playing techniques of the guitar orchestra. Iconic works include the 16-bar long “Katong Blues,” a short work composed in 1971 for the TV programme *Music Making with the Guitar*, which derived its name from the east coast district in Singapore, and “Huan Yin-Vanakam”, a double concerto Abisheganaden composed in 1995 for the sitar, erhu and guitar orchestra.
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/the-guitar-man/03a_guitarman.jpg">Parts of a classical guitar. <i>All rights reserved, Abisheganaden, A. (1970). Music Making with the Guitar (Vol. 1) (p.6). Singapore: ETV Service.</i></div>
 
-“Huan Yin-Vanakam” combines elements of Indian and Chinese folk music – musical traditions that Abisheganaden has kept close to his heart. The concerto blends sinuous Chinese folk melodies with the rhythmic tempo of songs sung by Indian foreign workers that Abisheganaden remembered from his childhood days. Together with the inclusion of Chinese and Indian musical instruments as well as Western classical influences, the work has distinguished itself as a singularly important example of world music.
+“Huan Yin-Vanakam” combines elements of Indian and Chinese folk music – musical traditions that Abisheganaden kept close to his heart. The concerto blends sinuous Chinese folk melodies with the rhythmic tempo of songs sung by Indian foreign workers that Abisheganaden remembered from his childhood days. Together with the inclusion of Chinese and Indian musical instruments as well as Western classical influences, the work has distinguished itself as a singularly important example of world music.
 
 “Gela Nexus” is another important work for the guitar orchestra by Abisheganaden. Composed in 1995, the title is an amalgamation of GENUS, the NUS Guitar Ensemble, and Abisheganaden’s first name “Alex”, symbolising his feelings of pride and achievement with the ensemble he founded. “Huan Yin-Vanakam” and “Gela Nexus” were first performed in January 1996 by GENUS, and again in 2007 in Singapore. Additionally, “Gela Nexus” was performed by GENUS in a guitar orchestra competition in Germany in 2007. It became one of the first local works of this genre to be performed overseas.
 
@@ -81,9 +81,14 @@ Abisheganaden also composed works for the guitar – including original pieces a
 
 In 2007, Abisheganaden received the Cultural Medallion grant which he used to present popular ASEAN folk songs as well as his original compositions. During GENUS’s 25th anniversary concert – organised as part of the NUS Arts Festival – on 23 March 2007, Abisheganaden’s compositions were performed by an ensemble of more than 50 guitarists from GENUS in honour of its founder. In the years that followed, Abisheganaden continued to score church hymns and teach classical guitar at various schools. He even explored teaching the ukulele.
 
-Now in his 90s, Abisheganaden continues to have an unbridled enthusiasm for music and life. His generous spirit and winsome personality endear him to many, and his legacy and generosity remain etched in the hearts of the numerous lives he has touched, many of whom still make the effort to keep in contact with the legend. Having taught and nurtured generations of students, his protégés continue to keep the flame of guitar-playing and his love for music alive.
+Even in his 90s, Abisheganaden continued to have an unbridled enthusiasm for music and life. His generous spirit and winsome personality endeared him to many, and his legacy and generosity remain etched in the hearts of the numerous lives he had touched, many of whom made the effort to keep in contact with the legend. Having taught and nurtured generations of students, his protégés continue to keep the flame of guitar-playing and his love for music alive.
 
 Bernard Tan Tiong Gie, a critically acclaimed Singaporean composer and professor of physics at NUS describes Abisheganaden as the “ quintessential musician’s musician – always young at heart and ever generous with his immense talents”.[^3]
+
+Abisheganaden died peacefully at St Luke’s Hospital on 17 March 2023, aged 97.[^4] He is survived by his wife Eileen, and his children Jacinta, the singer and actress, and Peter. 
+
+(Note: This essay was updated on 20 March 2023.)
+
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>THE ABISHEGANADEN COLLECTION HIGHLIGHTS</b>
 <br><br>
@@ -257,3 +262,5 @@ Tsang, S. (1996, September 29). [They strike a chord in each other](http://ereso
 [^2]:Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
 
 [^3]:Email correspondence with Bernard Tan Tiong Gie, a prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+[^4]:Clement Yong and Charmaine Lim, “‘Good Night, Uncle Alex’: Father of Singapore Guitar Alex Abisheganaden Dies at 97,” _Straits Times_, 17 March 2023, https://www.straitstimes.com/life/arts/good-night-uncle-alex-father-of-singapore-guitar-alex-abisheganaden-dies-97.
