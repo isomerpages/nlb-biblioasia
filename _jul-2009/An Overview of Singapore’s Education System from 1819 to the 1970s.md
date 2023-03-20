@@ -103,3 +103,142 @@ If readers wish to explore the subject further, I recommended David Chelliah’s
 <br/>
 <img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
 <center> <b>Wee Tong Bao</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
+
+#### **REFERENCES**
+ 
+All-Party Committee on Singapore Chinese Middle Schools Students' Union, Singapore, [_Singapore Chinese Middle Schools Students’ Union_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981001) (Singapore Legislative Assembly Command Paper Cmd. 53 of 1956) (Singapore: Printed at the Govt. Print. Off., 1956). (Call no. RCLOS 371.83 SIN; microfilm NL9547)
+
+All Party Committee on Chinese Education, Singapore, [_Report of the All-Party Committee of the Singapore Legislative Assembly on Chinese Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4752089) (Singapore: Govt. Printer, 1956). (Call no. RCLOS 371.9795105957 SIN)
+
+C. M. Turnbull, [_A History of Singapore, 1819–1988_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825) (Singapore: Oxford University Press, 1989. (Call no. RSING 959.57 TUR)
+
+Central Advisory Committee on Education, Malaya, [_Report on the Barnes Report on Malay Education and the Fenn-Wu Report on Chinese Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315885) \[Kuala Lumpur: Govt. Press, 1951) (Call no. RDTYS 371.979920595 MAL)
+
+Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission of Inquiry Into Vocational and Technical Education in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028) (Singapore: Govt. Print. Off., 1961). (Call no. RCLOS 371.426 SIN; microfilm NL11766)
+
+Committee on a Polytechnic Institute for Singapore, Singapore, [_Committee on a Polytechnic Institute for Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315917) (Singapore: Government Printing Office, 1953). (Call no. RCLOS 378.5951 SIN)
+
+Committee on Malay Education, Malaya, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316064) (Kuala Lumpur: Govt. Press, 1951). (Call no. RCLOS 371.979920595 MAL; microfilm NL9546)
+
+F. J Morten and Straits Settlements, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982392) (Straits Settlements. Legislative Council Command Paper no. 103 of 1932) (Singapore: Printed at the Govt. Print. Off., 1932). (Call no. RRARE q379.12; microfilm NL7596)
+
+Francis H. K. Wong and Gwee Yee Hean, [_Official Reports on Education: Straits Settlements and the Federated Malay States, 1870–1939_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082297) (Singapore: Pan Pacific Book Distributors, 1980). (Call no. RCLOS 370.95957 WON)
+
+Goh Keng Swee and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172) (Singapore: Printed by Singapore National Printers, 1979) (Call no. RSING 370.95957 SIN)
+
+H. R. Cheeseman, [_Report on Vocational Education in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980006) (Singapore: Printed at the Govt. Print. Off., 1938). (Call no. RRARE 371.42 CHE; microfilm NL9821)
+
+Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149) (Singapore Legislative Assembly Command Paper Cmd. 15 of 1956). (Singapore: Legislative Assembly, 1956). (Call no. RCLOS q370.95951 SIN; microfilm NL9547)
+
+Legislative Council, Straits Settlement, [_Straits Settlements, Proceedings of the Legislative Council of the Straits Settlements (With Appendices) for …_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621) (Singapore: Government Microfilm Unit, 31 May 1921). (Microfilm NL1120)
+
+Lee Kuan Yew, [_New Bearings in Our Education System: An Address … to Principals of Schools in Singapore on August 29, 1966_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077958) (Singapore: Ministry of Culture, 1966). (Call no. RCLOS 370.95951 LEE; microfilm NL9547)
+
+Lee Ting Hui, [_Chinese Schools in British Malaya: Policies and Politics_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648) (Singapore: South Seas Society, 2006). (Call no. RSING 371.82995105951 LEE)
+
+Lim Tay Boh, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593) (Singapore: Govt. Printer, 1964). (Call no. RCLOS 370.95957 SIN; microfilm NL15271)
+
+Lim Tay Boh, [_Interim Report on the Six-Day Week_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500027) (Singapore: Govt. Printer, 1962). (Call no. RCLOS 370.95957 SIN; microfilm NL9547)
+
+Malaya, [_Memorandum on Chinese Education in the Federation of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315926) (Kuala Lumpur: Art Printing Works, 1954). (Call no. RCLOS 371.979510595 MAL; microfilm NL9546)
+
+Member for Education, Malaya, [_Annual Report … on the Education Ordinance, 1952_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5032426) (Malaya Federal Legislative Council Command Paper no. 29 of 1954) \[S. l.: s. n., 1954\]. (Call no. RCLOS 370.9595 MMEAR-\[RFL\]; microfilm NL9546)
+
+Ministry of Education, Singapore, [_Annual Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326) (Singapore: Printed at the Govt. Print. Off., 1946–1967). (Call no. RCLOS 370.95951 SIN; microfilm NL9335)
+
+Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608) (Singapore: Education Statistics Section, Computer Services Branch, Planning & Review Division, 1982–1984). (Call no. RSING 371.00255957 DSI)
+
+Ministry of Education, Singapore, [_Educational Policy in the Colony of Singapore: Ten Years Programme_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202) (Singapore: Ministry of Education, 1947–1949). (Call no. RCLOS 370.95951 SIN; microfilm NL4083)
+
+Ministry of Education, Singapore, [_ETV Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411397) (Singapore: Ministry of Education, 1966–1979). (Call no. RCLOS 370.95957 SIN)
+
+Ministry of Education, Singapore, [_Singapore, Educational Policy in the Colony of Singapore: Supplement to the Ten-Year Programme: Data and Interim Proposals_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5643875) (Singapore: Ministry of Education, 1949). (Call no. RCLOS 370.95951 SIN)
+
+Ministry of Education, Singapore, [_Singapore Government Press Statement_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5283457) (Singapore: Ministry of Education, 1966–1976). (Call no. RCLOS 370.95957 SIN)
+
+Mission Invited by the Federation Government to Study the Problem of the Education of Chinese in Malaya, Malaya, [_Chinese Schools and the Education of Chinese Malayans: The Report of a Mission Invited by the Federation Government To Study the Problem of the Education of Chinese in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315917) (Kuala Lumpur: Govt. Press, 1951).  (Call no. RCLOS 371.979510595 MAL)
+
+Public Relations Office, [_Singapore, Education Week, May 8th–13th, 1950: The Steps to Success_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982371) (Singapore: Published by Public Relations Office for the Dept. of Education, 1950). (Call no. RDTYS 370.95951 SIN)
+
+Robert L. Jarman ed., [_Annual Reports of the Straits Settlements 1855–1941_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9276660) (\[Slough, UK\]: Archive Editions, 1998). (Call no. RSING 959.51 STR-\[AR\])
+
+Saravanan Gopinathan, [_Towards a National System of Education in Singapore, 1945–1973_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081865) (Singapore: Oxford University Press, 1974). (Call no. RSING 379.5957 GOP)
+
+Singapore, [_Chinese Schools – Bilingual Education and Increased Aid_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980988) (Singapore: Govt. Print. Off., 1953). (Call no. RCLOS 371.9795105957 SIN)
+
+Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277) (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57021092 RAF)
+
+Straits Settlements, [_Annual Departmental Reports_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981645) (Singapore: Printed at the Govt. Print. Off., 1891–1938). (Call no. RRARE 354.595 SSADR; microfilm NL2927, NL2928, NL 25412)
+
+Straits Settlements, [_Straits Settlements Government Gazettes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (Singapore: Mission Press, 1858–1942). (Call no. RCLOS 959.51 SGG)
+
+Straits Settlements, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982393) (Straits Settlements. Legislative Council Command Paper no. 45 of 1922) (Singapore: Printed at the Govt. Print. Off., 1922). (Call no. RRARE q379.12 STR; microfilm NL7548)
+
+Straits Settlements. Technical Education Committee, [_Report, 1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5091093) (Singapore: Technical Education Committee, 1925). (Call no. RRARE 607.5951 STR; microfilm NL7596)
+
+T. R. Doraisamy et al., [_150 Years of Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082032) (Singapore: TTC Publications Board, Teachers Training College, 1969). (Call no. RSING 370.95957 TEA)
+
+Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Origins and Outcome,” (Bachelor’s Thesis, National University of Singapore, 1990, https://scholarbank.nus.edu.sg/handle/10635/166959
+
+#### **NOTES**
+
+[^1]: Raffles, [_Memoir of the Life and Public Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277), appendix and 38.
+
+[^2]: Doraisamy, [_150 Years of Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082032), 26.
+
+[^3]: Doraisamy, [_150 Years of Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082032), 26.
+
+[^4]: Wong and Gwee, [_Official Reports on Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082297), 66.
+
+[^5]: Wong and Gwee, [_Official Reports on Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082297), 66.
+
+[^6]: Straits Settlements. Technical Education Committee, [_Report, 1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5091093)
+
+[^7]: Cheeseman, [_Report on Vocational Education in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980006)_._
+
+[^8]: Legislative Council, Straits Settlement, [_Proceedings of the Legislative Council_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621).
+
+[^9]: Yeo, “Registration of Schools Ordinance,” 32–34.
+
+[^10]: Lee, [_Chinese Schools in British Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648), 89–104.
+
+[^11]: Straits Settlements, [_Straits Settlements Government Gazettes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724), no. 21 (29 Oct 1920), sections 10, 11, 18 and 19.
+
+[^12]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5.
+
+[^13]: Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5.
+
+
+
+[^14: nistry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 9.
+
+15 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 5–9.
+
+16 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 6.
+
+17 Ministry of Education, Singapore, [_Educational Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202), 2.
+
+18 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 4.
+
+19 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 7.
+
+20 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149), 10.
+
+21 Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 61.
+
+22 Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 38–46.
+
+23 Commission of Inquiry into Vocational and Technical Education in Singapore, Singapore, [_Report of the Commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981028), 60.
+
+24 Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), x.
+
+25 Lim, [_Final Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081593), 97.
+
+26 Goh and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172), ii.
+
+27 Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608), preface.
+
+28 See Appendix for a select list of educational policies and papers mentioned in this article.
+
+
+
