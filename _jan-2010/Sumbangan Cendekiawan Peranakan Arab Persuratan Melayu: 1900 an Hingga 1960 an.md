@@ -244,7 +244,7 @@ Zulkipli bin Mahmud, [_Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941
 
 [^1]: Turnbull, [_History of Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 34.
 
-[^2]: Lim, “Arabs of Singapore.” 23.
+[^2]: Lim, “Arabs of Singapore,” 23.
 
 [^3]: Roff, “Malayo Muslim World of Singapore.”
 
