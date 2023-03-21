@@ -315,5 +315,3 @@ Zulkipli bin Mahmud, [_Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941
 
 
 
-
-[^29]: [Kartini Saparudin](https://biblioasia.nlb.gov.sg), Jan 2009, p. 29.
