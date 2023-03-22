@@ -16,7 +16,7 @@ sections:
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Teacher's Housing Estate/Teachers'
-        Estate_hero_img.jpg
+        Estate_hero_img2.jpg
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
