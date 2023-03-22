@@ -106,23 +106,40 @@ If NLB could make a donation wish list on what other documents it wished to coll
 
 #### **REFERENCES**
    
+“[Direct Trunk Line for Stock Exchange](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621022-1.2.93),” _Straits Times_, 22 October 1962, 10. (From NewspaperSG)
 
-Chellapandi, S. (2009). Legal deposit showcase heightens public awareness. _[BiblioAsia](https://biblioasia.nlb.gov.sg/), 5_ (2), 42–43.
+Donald Treadwell and Jill B. Treadwell, [_Public Relations Writing: Principles in Practice_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583395) (California: SAGE Publications, 2005). (Call no. RBUS 659.2 TRE)
 
-[Direct trunk line for stock exchange](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19621022-1.2.93). (1962, October 22). _The Straits Times_, p. 10. From NewspaperSG.
+George M. Ferris, [_A Study of the Securities Market in Singapore & Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081863) (Singapore: Printed by the Govt. Print. Off., 1970). (Call no. RCLOS 332.63 FER)
 
-Ferris, G. M. J. (1970). _[A study of the securities market in Singapore & Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081863)_. Singapore: Printed by the Govt. Print. Off. Call no.: RCLOS 332.63 FER
+“[Goh Opens New Trading Room](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610219-1.2.41),” _Straits Times_, 19 February 1961, 5. (From NewspaperSG)
 
-[Goh opens new trading room](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610219-1.2.41). (1961, February 19). _The Straits Times_, p. 5. From NewspaperSG.
+Malayan Stock Exchange Committee, [_Annual Report 1962_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13236824) (Singapore: Malayan Stock Exchange, 1963). (Call no. RCLOS 332.64209595 MSEAR)
 
-Malayan Stock Exchange Committee. (1963). _[Annual report 1962](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13236824)_. Singapore: Malayan Stock Exchange. Call no.: RCLOS 332.64209595 MSEAR
+Paul Thompson, “[KepLand, Gul Tech Win Awards for Annual Reports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010112-1.2.11.1),” _Business Times_, 12 January 2001, 4. (From NewspaperSG)
 
-Phua, H. (April 2006). Initial public offers: Always read the prospectus. _Pulses_, 40–41. Call no.: RSING 332.64205 P
+Phua H., “Initial Public Offers: Always Read the Prospectus,” _Pulses_ (April 2006), 40–41. (Call no. RSING 332.64205 P)
 
-Tan, C. H. (2005). _[Financial markets and institutions in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12487641)_. Singapore: Singapore University Press. Call no.: RSING 332.1095957 TAN
+Sharmini Chellapandi, “Legal Deposit Showcase Heightens Public Awareness,” [_BiblioAsia_](https://biblioasia.nlb.gov.sg/) 5, no. 2 (July 2009), 42–43.
 
-The history of share trading. (1997, September 1). _The Edge_. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website
+Tan Chwee Huat, [_Financial Markets and Institutions in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12487641) (Singapore: Singapore University Press, 2005). (Call no. RSING 332.1095957 TAN)
 
-Thompson, P. (2001, January 12). [KepLand, Gul Tech win awards for annual reports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010112-1.2.11.1). _Business Times_, p. 4. From NewspaperSG.
 
-Treadwell, D., & Treadwell, J. B. (2005_[). Public relations writing: Principles in practice](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583395)_. California: SAGE Publications. Call no.: RBUS 659.2 TRE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

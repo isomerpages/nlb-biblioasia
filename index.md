@@ -15,8 +15,8 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Teacher's Housing
-        Estate/Row_of_terrace_houses_hero_img.jpg
+      background: /images/Vol 19 Issue 1/Teacher's Housing Estate/Teachers'
+        Estate_hero_img.jpg
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People

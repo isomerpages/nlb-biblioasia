@@ -73,18 +73,20 @@ And with a steady stream of customers queuing for kaya toast and cream puffs, Ch
 
 #### **REFERENCES**
 
-Braga-Blake, M. (Ed.). (1992). _[Singapore Eurasians: Memories and hopes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_. Singapore: Times Editions. Call no.: RSING 305.80405957 SIN
+Josephine James, “[End of an Era for Trade of Old Times?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010228-1.2.35.3)” _Straits Times_, 28 February 2001, 2. (From NewspaperSG)
 
-Holmberg, J. (1993, August 9). [Heart of Katong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930809-1.2.100.13). _The Straits Times_, p. 16. From NewspaperSG.
+Judith Holmberg, “[Heart of Katong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930809-1.2.100.13),” _Straits Times_, 9 August 1993, 16. (From NewspaperSG)
 
-James, J. (2001, February 28). [End of an era for trade of old times?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010228-1.2.35.3) _The Straits Times_, p. 2. From NewspaperSG.
+Khoo Joo Ee, [_The Straits Chinese: A Cultural History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7492531) (Amsterdam: Pepin Press, 1996). (Call no.: RSING 305.895105951 KHO)
 
-Khoo, J. E. (1996). _[The Straits Chinese: A cultural history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7492531)_. Amsterdam: Pepin Press Call no.: RSING 305.895105951 KHO
+Lily Kong and T. C. Chang, [_Joo Chiat: A Living Legacy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10354011) (Singapore: Joo Chiat Citizens' Consultative Committee in association with National Archives of Singapore, 2001). (Call no. RSING 959.57 KON)
 
-Koh, Tommy T. B. (1966). _[Rent control in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4836470)_. \[s.n.\]: \[n.p\]. Call no.: RCLOS 346.04344 KOH
+Myrna Braga-Blake, ed., [_Singapore Eurasians: Memories and Hopes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425) (Singapore: Times Editions, 1922). (Call no. RSING 305.80405957 SIN)
 
-Kong, L. and Chang, T.C. (2001). _[Joo Chiat: A living legacy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10354011)_. Singapore: Joo Chiat Citizens' Consultative Committee in association with National Archives of Singapore Call no.: RSING 959.57 KON
+Roy Y. K Phua and Lily Kong, “Exploring Local Cultures,” in [_Portraits of places: History, community, and identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), ed. Brenda S. A. Yeoh and Lily Kong (Singapore: Times Editions, 1995). (Call no. RSING 959.57 POR)
 
-Phua, Roy Y.K. & Kong, L. (1995). “Exploring local cultures”. In Kong, L., and Yeoh, Brenda. S.A. (Eds). _[Portraits of places: History, community, and identity in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347)_. Singapore: Times Editions. Call no.: RSING 959.57 POR
+T. T. B Koh, [_Rent Control in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4836470) (\[s.n.\]: \[n.p\], 1966). (Call no. RCLOS 346.04344 KOH)
 
-Urban Redevelopment Authority (Singapore). (1992). _[Procedures for recovering possession of rent-controlled premises](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6368062)_. Singapore: Urban Redevelopment Authority. Call no.: RSING 346.595704344 PRO
+Urban Redevelopment Authority (Singapore), [_Procedures for Recovering Possession of Rent-Controlled Premises_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6368062) (Singapore: Urban Redevelopment Authority, 1992). (Call no. RSING 346.595704344 PRO)
+
+
