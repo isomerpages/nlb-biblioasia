@@ -55,7 +55,7 @@ In general, both Chinese and English reviewers have, over the years and especial
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Latent%20Images.jpg">
  <div style="background-color: white;">All rights reserved, Oxford University Press, 2000.</div>
 
-An example is the film *The Leap Years*. Two *Lianhe Zaobao* reviewers on the film unanimously gave it bad reviews.[^8] The review published in the Today new paper, however, was not good but still encouraging. It ended off with “Nice effort, hope to see more good - if not better - work in the future”.9 The effort in producing the film has been clearly acknowledged, although the results may speak otherwise.
+An example is the film *The Leap Years*. Two *Lianhe Zaobao* reviewers on the film unanimously gave it bad reviews.[^8] The review published in the Today new paper, however, was not good but still encouraging. It ended off with “Nice effort, hope to see more good - if not better - work in the future”.[^9]  The effort in producing the film has been clearly acknowledged, although the results may speak otherwise.
 
 One explanation for such a difference in treatment by English and Chinese reviewers may be the difference in cultures between the West and the East, or correspondingly, the English-speaking and Chinese-speaking communities in Singapore. In the West, failure or occasional mistakes seem to be more acceptable and thus people are more encouraging towards failures. However, in the East, mistake or failure is more often frowned upon.
 
@@ -150,9 +150,3 @@ Yi Shui 易水, Ma lai ya hua huayu dianying wenti《[马来亚化华语电影�
 [^11]: Ong, “[Short Cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16).”
 
 [^12]: Lin, “[15” Shaole yige ba zhang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3).”
-
-
-
-
-
-
