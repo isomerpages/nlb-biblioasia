@@ -132,59 +132,82 @@ Today, dialect groupings no longer play such an important role in occupational c
 
 #### **REFERENCES**
 
-Bartley, W. (December 1933). Population of Singapore in 1819. _Journal of the Malaysian Branch of the Royal Asiatic Society_, _11_ (2), 177. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+B. W. Hodder, “Racial Groupings in Singapore,” [_The Journal of Tropical Geography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=909965) 1 (1953), 25–36. (Call no. RCLOS 910.0913 JTG; microflm NL10327)
 
-Braddell, T. (1854). Notices of Singapore. [_Journal of Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604)_, 8_ (4), 101–110. Call no.: RRARE 950.05 JOU; Microfilm no.: NL25796
+Bonny Tan and Jane Wee, “[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html),” _Singapore Infopedia_, published 2016.
 
-Braddell, T. (1855). Notes on the Chinese in the Straits of Malacca. [_Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604)_, 9_ (2), 109–124. Call no.: RRARE 950.05 JOU; Microfilm no.: NL25797
+Cheng Lim-Keak, [_Social Change and the Chinese in Singapore: A Socio-Economic Geography With Special Reference To Bang Structure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (Singapore: Singapore University Press, 1985). (Call no. RSING 369.25957 CHE)
 
-Cheng, L. K. (1985). [_Social change and the Chinese in Singapore: A socio-economic geography with special reference to bang structure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374). Singapore: Singapore University Press. Call no.: RSING 369.25957 CHE
+Cynthia Chou, “Teochews in the Kelong Industry,” in [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946), ed. Thomas T.W. Tan (Singapore: Opinion Books, 1990), 38–50. (Call no. RSING 305.8951095957 CHI)
 
-Chou, C. (1990). Teochews in the kelong industry. In T. Tan (Ed.), [_Chinese dialect groups: Traits and trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946) (pp. 38–50). Singapore: Opinion Books. Call no.: RSING 305.8951095957 CHI
+Cynthia Chou and Lim Puay Yin, “Hokkiens in the Provision Shop Business,” in [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946), ed. Thomas T.W. Tan (Singapore: Opinion Books, 1990), 21–37. (Call no. RSING 305.8951095957 CHI)
 
-Chou, C., & Lim, P. Y. (1990). Hokkiens in the provision shop business. In T. Tan (Ed.), [_Chinese dialect groups: Traits and trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946) (pp. 21–37). Singapore: Opinion Books. Call no.: RSING 305.8951095957 CHI
+J. D. Vaughan, [_The Manners and Customs of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340458) (Singapore: Oxford University Press, 1974). (Call no. RSING 390.0951 VAU)
 
-Conceicao, J. L. (2009). [_Hainanese community_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1492_2009-03-25.html). From Singapore Infopedia.
+Jeanne Louise Conceicao, “[Hainanese Community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1492_2009-03-25.html),” _Singapore Infopedia_, published 2009.
 
-Freedman, M. (October 1960). Immigrants and associations: Chinese in nineteenth century Singapore. _Comparative Studies in Society and History, 3_ (1), 25–48. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Leow Bee Geok, [_Census of Population 2000: Demographic Characteristics. Statistical Release 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10405142) (Singapore: Department of Statistics, Ministry of Trade and Industry, 2001). (Call no. RSING q304. 6021095957 LEO)
 
-Hodder, B. W. (1953). Racial groupings in Singapore_._ [_The Journal of Tropical Geography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=909965)_, 1_, 25–36. Call no.: RCLOS 910.0913 JTG; Microflm no.: NL10327
+Li Y. Y., _Yige yi zhi de shi zhen: Ma lai ya huaren shi zhen shenghuo de diaocha yanjiu_ 一個移殖的市鎮：馬來亞華人市鎮生活的調查研究 \[An immigrant town: Life in a Chinese immigrant community in Southern Malaya\] (Taipei: Institute of Ethnology, Academemia Sinica, 1970)
 
-Leow, B. G. (2001). [_Census of population 2000: Demographic characteristics. Statistical release 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10405142). Singapore: Department of Statistics, Ministry of Trade and Industry. Call no.: RSING q304. 6021095957 LEO
+Mak Lau Fong, [_The Sociology of Secret Societies: A Study of Chinese Secret Societies in Singapore and Peninsula Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622166) (New York: Oxford University Press, 1981). (Call no. RSING 366.095957 MAK)
 
-Li, Y. Y. (1970). Yige yizhi de shizen \[An immigrant town: Life in a Chinese immigrant community in Southern Malaya\]. Taipei: Institute of Ethnology, Academemia Sinica.
+Mak Lau Fong, [_The Dynamics of Chinese Dialect Groups in Early Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470230)  (Singapore: Singapore Society of Asian Studies, 1995). (Call no. RSING 305.89510595 MAK)
 
-Mak, L. F. (1981). [_The sociology of secret societies: A study of Chinese secret societies in Singapore and Peninsula Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622166). Kuala Lumpur; New York: Oxford University Press. Call no.: RSING 366.095957 MAK
+Maurice Freedman, “Immigrants and Associations: Chinese in Nineteenth Century Singapore,” _Comparative Studies in Society and History_ 3, no. 1 (October 1960), 25–48. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-Mak, L. F. (1995). [_The dynamics of Chinese dialect groups in early Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470230). Singapore: Singapore Society of Asian Studies. Call no.: RSING 305.89510595 MAK
+Pan Xingnong, _Ma lai ya chao qiao tong jian_ [马来亚潮侨通鉴](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84480460) \[The Teochews in Malaya\] (Singapore: South Island Publisher, 1950). (Call no. RCLOS. 305.895105951 PXN)
 
-Makepeace, W., Gilbert E. Brooke, G. E. & Braddell, St. J. R. (1921). [_One hundred years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132) (Vol.1). London: John Murray. Call no.: 959.57 ONE
+Saw Swee-Hock, [_Singapore Population in Transition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=36310) (Philadelphia: University of Pennsylvania Press, 1970). (Call no. RCLOS 301.3295957 SAW)
 
-Phua, C. L. (1950). _Ma lai ya chao qiao tong jian_ [马来亚潮侨通鉴](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84480460) \[The Teochews in Malaya\]. Singapore: South Island Publisher. Call no.: RCLOS. 305.895105951 PXN
+Seah U. C., “The Chinese in Singapore,” [_Journal of the Indian Archipelago and Eastern Asia_](https://eresources.nlb.gov.sg/printheritage/detail/7ac284a7-ac54-4fff-ad21-789cbb55df54.aspx) 2, no. 9 (1848), 283–89. (From BookSG; RRARE 950.05 JOU; microfilm NL25790)
 
-Pickering, W. A. (October 1876). The Chinese in the Straits of Malacca. _Fraser’s Magazine_, 440.
+Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: Murray, 1923). (From BookSG; call no. RRARE 959.57 SON; microfilm NL3280)
 
-Saw, S. H. (1970). [_Singapore population in transition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=36310). Philadelphia: University of Pennsylvania Press. Call no.: RCLOS 301.3295957 SAW
+Thomas Braddell, “Notices of Singapore,” [_Journal of Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 8, no. 4 (1854), 101–10. (Call no. RRARE 950.05 JOU; microfilm NL25796)
 
-Seah, U. C. (1848). The Chinese in Singapore. [_Journal of the Indian Archipelago and Eastern Asia_](https://eresources.nlb.gov.sg/printheritage/detail/7ac284a7-ac54-4fff-ad21-789cbb55df54.aspx)_, 2_ (9), 283–289. From BookSG; RRARE 950.05 JOU; Microfilm no.: NL25790
+Thomas Braddell, “Notes on the Chinese in the Straits of Malacca,” [_Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 9, no. 2 (1855), 109–24. (Call no. RRARE 950.05 JOU; microfilm NL25797)
 
-Song, O. S. (1923). [_One hundred years’ history of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx). London: Murray. From BookSG.
+Thomas T. W. Tan, ed., [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946) (Singapore: Opinion Books, 1990). (Call no. RSING 305.8951095957 CHI)
 
-Tan, B. & Wee, J. (2016). [_Tan Kah Kee_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html). From Singapore Infopedia.
+Thomas Tsu-Wee Tan, (Singapore: Times Books International, 1986). (Call no. RSING 301.451951 TAN)
 
-Tan, T. (1986). [_Your Chinese roots: The overseas Chinese story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182192). Singapore: Times Books International. Call no.: RSING 301.451951 TAN
+W. A. Pickering, “The Chinese in the Straits of Malacca,” _Fraser’s Magazine_ (October 1876), 440.
 
-Tan, T. (Ed.). (1990). [_Chinese dialect groups: Traits and trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946). Singapore: Opinion Books. Call no.: RSING 305.8951095957 CHI
+W. Bartley, “Population of Singapore in 1819,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 11, no. 2 (December 1933), 177. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-Vaughan, J. D. (1974). [_The manners and customs of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340458). Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU
+Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), vol. 1. (London: John Murray, 1921). (Call no. RCLOS 959.57 ONE)
 
-Yap, M. T. (1990). Hainanese in the restaurant and catering business. . In T. Tan (Ed.), [_Chinese dialect groups: Traits and trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946) (pp. 78–90). Singapore: Opinion Books. Call no.: RSING 305.8951095957 CHI
+Yap M. T., “Hainanese in the Restaurant and Catering Business,” in [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946), ed. Thomas T.W. Tan (Singapore: Opinion Books, 1990), 78–90. (Call no. RSING 305.8951095957 CHI)
 
-Yen, C. H. (1986). [_A social history of the Chinese in Singapore and Malaya 1800–1911_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182822). Singapore: Oxford University Press. Call no.: RSING 301. 45195105957 YE
+Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800–1911_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182822) (Singapore: Oxford University Press, 1986). (Call no. RSING 301.45195105957 YE)
 
 #### **NOTES**
 
-    
 [^1]: Pee: a crude slang implying a lady’s genitals.
 
-[^2]: [Cheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (1985) claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
+[^2]: Cheng, [_Social Change and the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
