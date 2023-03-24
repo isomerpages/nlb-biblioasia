@@ -198,50 +198,69 @@ Amir Muhammd, [_The Last Commununist_](https://eservice.nlb.gov.sg/item_holding.
 
 Chan Kah Mei, et al., [_I Love Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909117), Objectifs Films, 2006, videorecording. (Call no. RSING 320.5320922595 I)
 
-
-
-Amir Muhammad. (Writer & Director) (2007). _[Apa khabar orang kampong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13201368)_ \[Village people radio show\] \[videorecording\]. Singapore: Objectifs Films. Call no.: RAV 791.437 APA
-
-Amir Muhammd. (Producer & Director) (2006). _[The last commununist](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804580)_ \[videorecording\]. Singapore: Comstar Entertainment. Call no.: RSEA 959.5104092
-
-Chan, K. M., Len, C., Ho, C.H., Lau, E., Wang, E. E. (Directors) (2006). _[I love Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909117)_ \[videorecording\]. Singapore: Objectifs Films. Call no.: RSING 320.53209225951
-
 **Interviews**
 
-Aishah @ Suti, personal communication, January 7, 1998.
+Aishah @ Suti, personal communication, 7 January 1998.
 
-A’Ling @ A’Yu, personal communication, March 11, 2009.
+A’Ling @ A’Yu, personal communication, 11 March 2009.
 
-A’Por @ Wun Jun Yin, personal communication, March 11, 2009.
+A’Por @ Wun Jun Yin, personal communication, 11 March 2009.
 
-Chang Li Li, personal communication, January 1, 2009.
+Chang Li Li, personal communication, 1 January 2009.
 
-Khadijah Daud @ Mama, personal communication, February 25, 2009.
+Khadijah Daud @ Mama, personal communication, 25 February 2009.
 
-Leong Yee Seng @ Hamitt, personal communication, March 14, 2009.
+Leong Yee Seng @ Hamitt, personal communication, 14 March 2009.
 
-Maimunah @ Khamsiah, personal communication, February 25, 2009.
+Maimunah @ Khamsiah, personal communication, 25 February 2009.
 
-Muna or Mek Pik, personal communication, March 14, 2009.
+Muna or Mek Pik, personal communication, 14 March 2009.
 
-Shiu Yin, personal communication, March 14, 2009.
+Shiu Yin, personal communication, 14 March 2009.
 
-Ya Mai, personal communication, January 1, 2009.
+Ya Mai, personal communication, 1 January 2009.
 
 #### **NOTES**
 
-[^1]: See, Sybil Kathigasu. (1983). _[No Dram of Mercy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831)_ (with Introduction by Sir Richard Winstedt and Preface by Cheah Boon Kheng). Singapore: Oxford University Press; Zhou Mei. (1995). _[Elizabeth Choy: More than A War Heroine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_. Singapore: Landmark Books. Sybil and Elizabeth suffered direct physical and psychological torture in the hands of the Japanese kempeitai (military police). Sybil died in June 1949 due to the torture.
+[^1]: See, Kathigasu, [_No Dram of Mercy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831), with Introduction by Sir Richard Winstedt and Preface by Cheah Boon Kheng; Zhou, [_Elizabeth Choy: More than A War Heroine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319). Sybil and Elizabeth suffered direct physical and psychological torture in the hands of the Japanese kempeitai (military police). Sybil died in June 1949 due to the torture.
 
-[^2]: The revelation was made through the publication of memoirs by victims. See, for instance, Maria Rosa Henson. (1999). _[Comfort Women: A Filipina’s Story of Prostitution and Slavery under the Japanese Military](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354)_. Lanbam: Rowman & Littlefield Publishers; Swee Lian. (2008). _[Tears of a Teen-age Comfort Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_. Singapore: Horizontal Books; Jan Huff O’Herne. (1994). _[50 Years of Silence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_. Sydney: Editions Tom Thompson.
+[^2]: The revelation was made through the publication of memoirs by victims. See, for instance, Henson, [_Comfort Women_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354); Swee, [_Tears of a Teenage_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995); O’Herne, [_50 Years of Silence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995).
 
 [^3]: ‘Indisch’ denotes both European and Eurasian who had settled in the Netherlands East Indies. They were born through the intimate relationship of their mothers with Japanese soldiers.
 
 [^4]: This information was based on interviews with former female MCP guerillas now residing in Betong, south Thailand, between January 2009 and March 2009.
 
-[^5]: Iskandar Carey. (1976). _[Orang Asli: The Aboriginal Tribes of Peninsular Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806)_. Kuala Lumpur: Oxford University Press, p. 311. It was reported that by 1953, 30,000 Orang Asli were already under communist influence.
+[^5]: Carey, [_Orang Asli_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806), 311. It was reported that by 1953, 30,000 Orang Asli were already under communist influence.
 
 [^6]: Musa Ahmad was one of the important leaders in the 10th Regiment.
 
 [^7]: This information was provided by Leong Yee Seng, the former members of the 8th Regiment who managed the Khao Nam Khang Historical Tunnel in the Natawee District of Songkhla Province during an interview on 14 March 2009. The Khao Nam Khang Historical Tunnel was formerly a main base for the 8th Regiment.
 
 [^8]: Ibrahim Chik, Abdullah C.D. and Suriani Abdullah were among MCP leaders who had first-hand experienced of sabotage through poisoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
