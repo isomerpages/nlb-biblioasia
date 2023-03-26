@@ -157,8 +157,7 @@ Ulrich Bethscheider-Kieser, [_Future Cars: Bio Fuel, Hybrid, Electric, Hydrogen,
 
 [^4]: “World Energy Outlook 2009,” International Energy Agency, November 2009, https://www.iea.org/reports/world-energy-outlook-2009
 
-[^5]: Breakthrough Institute and the Information Technology and Innovation Foundation, “Rising Tigers, Sleeping Giant: Asian Nations Set To Dominate the Clean Energy Race by Out-Investing the United States,” published November 2009,  
-https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/blog/Rising\_Tigers.pdf
+[^5]: Breakthrough Institute and the Information Technology and Innovation Foundation, “Rising Tigers, Sleeping Giant: Asian Nations Set To Dominate the Clean Energy Race by Out-Investing the United States,” published November 2009,  https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/blog/Rising\_Tigers.pdf
 
 [^6]: Chee K. G, “High Hopes for Singapore Cleantech,” _Cleantech_, published1 March 2009.
 
@@ -171,5 +170,3 @@ https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/blog/Risin
 [^10]: “A Strategic Plan,” Singapore Green Building Council, accessed 2009.
 
 [^11]: “Electric Vehicles Test Bedding,” Energy Market Authority, accessed 2009, https://www.ema.gov.sg/Electric\_Vehicles\_Test\_Bed.aspx
-
-
