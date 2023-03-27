@@ -136,9 +136,9 @@ G. M. Reith, <i><a>A Padre in Partibus:Being Notes and Impressions of a Brief Ho
 
 G. M. Reith, <i><a>Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
 	  
-G. M. Reith, <a> “The Opium Problem in the Straits Settlements,”</a> <i>Transactions of the Straits Philosophical Society]</i> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
+G. M. Reith,  “The Opium Problem in the Straits Settlements,”<a><i>Transactions of the Straits Philosophical Society</i></a> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
 
-G. M Reith, <i>The Breezy Pentlands</a> (Edinburgh: T. and N Foulis, 1910)<br><br>
+G. M Reith, <i>The Breezy Pentlands</i> (Edinburgh: T. and N Foulis, 1910)<br><br>
 
 G. M. Reith, <i>Reminiscences of the United Free Church General Assembly (1900–1929)</i> (London: The Moray Press, 1933)<br><br>
 
