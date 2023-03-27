@@ -106,85 +106,85 @@ Anti-Yellow Campaign (Confidential). PRO 27 330/56
 
 **Books and Articles**
 
-Abdullah C. D. (2005). [_Memoir Abdullah C. D.: Zaman pergerakan sehingga 1948_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12730006). (Vol. 1). Petaling Jaya: Strategic Information Research Development. Call no.: R 959.503 ABD
+Abdullah C. D., [_Memoir Abdullah C. D.: Zaman Pergerakan Sehingga 1948_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12730006), vol. 1 (Petaling Jaya: Strategic Information Research Development, 2005). (Call no. R 959.503 ABD)
 
-Abdullah C. D. (2007). _Memoir Abdullah C. D: Penaja dan pemimpin rejimen ke-10_ (Part 2). Petaling Jaya: SIRD.
+Abdullah C. D., _Memoir Abdullah C. D: Penaja Dan Pemimpin Rejimen Ke-10_, part 2 (Petaling Jaya: SIRD, 2007)
 
-Ahmad Boestamam. (2004). [_Memoir Ahmad Boestamam: Merdeka dengan darah dalam API_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12285217). Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: RSEA 959.50923 AHM
+Agnes Khoo, [_Life As the River Flows: Women in the Malayan Anticolonial Struggle_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12360845) (Petaling Jaya: SIRD, 2004). (Call no. RSING 959.5105 LIF)
 
-Allan, S. (2004). [_Diary of a girl in Changi, 1941–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12588700). (3rd ed.). New South Wales: Kangaroo Press. Call no.: RSING 940.547252092 ALL
+Ahmad Boestamam, [_Memoir Ahmad Boestamam: Merdeka Dengan Darah Dalam API_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12285217) (Bangi: Penerbit Universiti Kebangsaan Malaysia, 2004). (Call no. RSEA 959.50923 AHM)
 
-Archer, B. (2008). Internee voices: Women and children’s experience of being Japanese captives. In K. Blackburn and K. Hack (Eds.), [_Forgotten captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996) (pp. 224–242). London: Routledge. Call no.: RSING 940.547252095 FOR
+Akashi Yoji and Yoshimura Mako, eds., [_New Perspectives on the Japanese Occupation in Malaya and Singapore, 1941–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736) (Singapore: National University Press, 2008). (Call no. RSING 940.5337 NEW)
 
-Beckett, I. F. W. (1999). _Encyclopedia of guerrilla warfare_. Santa Barbara: ABC-CLIO, Inc.
+Aloysius Chin, [_The Communist Party of Malaya: The Inside Story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7221955) (Kuala Lumpur: Vinpress, 1995). (Call no. RSING 959.51 CHI)
 
-Bei Ma Ju Po Huo Di Jian Zheng Xiang \[The truth behind the detention of spies by the Northern Peninsular Department\] (1999). Thailand: The Committee of Kao Nam Khang Historical Tunnel, Sadao.
+Andrianna Tan, “The Forgotten Women Warriors of the Malayan Communist Party,” _IIAS Newsletter_, no. 48 (Summer 2008), https://www.iias.asia/sites/iias/files/nwl\_article/2019-05/IIAS\_NL48\_1213.pdf
 
-Buchheim, E. (2008). Hide and seek: Children of Japanese-Indisch parents. In K. Blackburn and K. Hack (Eds.), [_Forgotten captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996) (pp. 260–277). London: Routledge. Call no.: RSING 940. 547252095 FOR
+Anne-Marie Hilsdon, [_Madonnas and Martyrs: Militarism and Violence in the Philippines_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919256) (Australia: Allen & Unwin, 1995). (Call no. RSEA 305.409599 HIL)
 
-Carey, A. T. (1976). [_Orang asli: The aboriginal tribes of Peninsular Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806). Kuala Lumpur: Oxford University Press. Call no.: RCLOS 301.209595 CAR
+Anthony Short, [_The Communist Insurrection in Malaya 1948–60_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4167242) (London: Frederick Muller, 1975). (Call no. RSING 959.5104 SHO)
 
-Chapman, S. F. (1963). [_The jungle is neutral_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842548). London: Chatto & Windus. Call no.: RCLOS 940.53595 CHA
+Bei Ma Ju Po Huo Di Jian Zheng Xiang \[The truth behind the detention of spies by the Northern Peninsular Department\] (Thailand: The Committee of Kao Nam Khang Historical Tunnel, Sadao, 1999)
 
-Cheah, B. K. (1987). [_Red star over Malaya: Resistance and social conflict during and after the Japanese Occupation, 1941–1946_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082363). Singapore: Singapore University Press. Call no.: RSING 959.5103 CHE
+Bernice Archer, “Internee Voices: Women and Children’s Experience of Being Japanese Captives,” in [_Forgotten Captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996), ed. Karl Hack and Kevin Blackburn (London: Routledge, 2008), 224–42. (Call no. RSING 940.547252095 FOR)
 
-Chin, A. (1995). [_The Communist Party of Malaya: The inside story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7221955). Kuala Lumpur: Vinpress. Call no.: RSING 959.51 CHI
+C. C. Chin and Karl Hack, eds., [_Dialogue With Chin Peng: New Light on the Malayan Communist Party_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12283021) (Singapore: Singapore University Press, 2004). (Call no. RSING 959.5104 DIA)
 
-Chin, C. C. & Hack, K. (Eds.) (2004). [_Dialogue with Chin Peng: New light on the Malayan Communist Party_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12283021). Singapore: Singapore University Press. Call no.: RSING 959.5104 DIA
+Cheah Boon Kheng, [_Red Star Over Malaya: Resistance and Social Conflict During and After the Japanese Occupation, 1941–1946_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082363) (Singapore: Singapore University Press, 1987). (Call no. RSING 959.5103 CHE)
 
-Chin, P. (2003). [_My side of history as told to Ian Ward & Norma Miraflor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841). Singapore: Media Masters. Call no.: RSING 959.5104092 CHI
+Chin Peng, [_My Side of History As Told to Ian Ward & Norma Miraflor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841)  (Singapore: Media Masters, 2003). (Call no. RSING 959.5104092 CHI)
 
-Colijn, H. (1995). [_Song of survival: Women interned_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7595014). Ashland: White Cloud Press. Call no.: RSING 940.547252 COL
+Evelyn Buchheim, “Hide and Seek: Children of Japanese-Indisch Parents,” in [_Forgotten Captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996), ed. Karl Hack and Kevin Blackburn (London: Routledge, 2008), 260–77. (Call no. RSING 940.547252095 FOR)
 
-Harper, T. N. (1999). [_The end of empire and the making of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8664450). Cambridge: Cambridge University Press. Call no.: RSING 959.5105 HAR
+F. Spencer Chapman, [_The Jungle Is Neutral_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842548) (London: Chatto & Windus, 1963). (Call no. RCLOS 940.53595 CHA)
 
-Hicks, G. (1995). [_The comfort women: Sex slaves of the Japanese imperial forces_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7667608). Singapore: Heinemann Asia. Call no.: RSING 364.138 HIC
+F. W. Beckett, _Encyclopedia of Guerrilla Warfare_ (Santa Barbara: ABC-CLIO, Inc., 1999)
 
-Hilsdon, A. M. (1995). [_Madonnas and martyrs: Militarism and violence in the Philippines_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919256). Australia: Allen & Unwin. Call no.: RSEA 305.409599 HIL
+George Hicks, [_The Comfort Women: Sex Slaves of the Japanese Imperial Forces_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7667608) (Singapore: Heinemann Asia, 1995). (Call no. RSING 364.138 HIC)
 
-Huie, S. P. (1992). [_The forgotten ones: Women and children under Nippon_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6335236). Pymble, N.S.W.: Angus & Robertson Publishers. Call no.: RSEA 940.547252 HUI
+Helen Colijn, [_Song of Survival: Women Interned_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7595014) (Ashland: White Cloud Press, 1995). (Call no. RSING 940.547252 COL)
 
-Ibrahim Chik. (2004). _[Memoir Ibrahim Chik: Dari API ke rejimen ke-10](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437462)_. Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: RSEA 355.0092 IBR
+Ibrahim Chi, [_Memoir Ibrahim Chik: Dari API Ke Rejimen Ke-10_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437462) (Bangi: Penerbit Universiti Kebangsaan Malaysia, 2004). (Call no. RSEA 355.0092 IBR)
 
-Jan, R. O. (1994). _[50 years of silence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471243)_. Sydney: Editions Tom Thompson. Call no.: R 364.153 RUF
+Iskander Carey, [_Orang Asli: The Aboriginal Tribes of Peninsular Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806) (Kuala Lumpur: Oxford University Press, 1976). (Call no. RCLOS 301.209595 CAR)
 
-Kathigasu, S. (1983). _[No dram of mercy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831)_. Singapore: Oxford University Press. Call no.: RSEA 940.547252 KAT
+Jan Ruff-O'Herne, [_50 Years of Silence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471243) (Sydney: Editions Tom Thompson, 1994). (Call no. R 364.153 RUF)
 
-Khoo, A. (2004). _[Life as the river flows: Women in the Malayan anticolonial struggle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12360845)_. Petaling Jaya: SIRD. Call no.: RSING 959.5105 LIF
+Karen Gottschang Turner with Phan Thanh Hao, [_Even the Women Must Fight: Memories of War From North Vietnam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8695311) (New York: John Wiley & Sons, 1998). (Call no. RSEA 959.70430922 TUR)
 
-Macdonald, S. (1987). Drawing the lines – Gender, peace and war: An introduction. In S. Macdonald, P. Holden and S. Ardener (Eds.), _Images of women in peace and war: Crosscultural and historical perspectives_. London: Macmillan Education.
+Michiko Nakahara, “The Civilian Women’s Internment Camp in Singapore: The World of POW WOW,” in _[New Perspectives on the Japanese Occupation in Malaya and Singapore, 1941–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736)_ (Singapore: NUS Press, 2008) (Call no. RSING 940.5337 NEW)
 
-Michiko, N. (2008). The civilian women’s internment camp in Singapore: The world of POW WOW.  In _[Akashi Yoji and Yoshimura (Eds.), New perspectives on the Japanese occupation in Malaya and Singapore, 1941–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736)_. Singapore: NUS Press, 2008. Call no.: RSING 940.5337 NEW
+Rashid Maidin, [_Memoir Rashid Maidin: Daripada Perjuangan Bersenjata Kepada Perdamaian_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12744481) (Petaling Jaya: Strategic Information Research Development, 2005). (Call no. R 323.04209595 RAS)
 
-Pierson, R. R. (1987). Did your mother wear army boots?: Feminist theory and women’s relation to war, peace and revolution. In S. Macdonald, P. Holden and S. Ardener (Eds.). _Images of women in peace and war: Crosscultural and historical perspectives_ (pp. 205–27). London: Macmillan Education.
+Richard Stubbs, [_Heart and Minds in Guerilla Warfare: The Malayan Emergency, 1948–1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284306) (Singapore: Eastern Universities Press, 2004). (Call no. RSING 959.504 STU)
 
-Rashid Maidin. (2005). _[Memoir Rashid Maidin: Daripada perjuangan bersenjata kepada perdamaian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12744481)_. Petaling Jaya: Strategic Information Research Development. Call no.: R 323.04209595 RAS
+Ruth Roach Pierson, “Did Your Mother Wear Army Boots?: Feminist Theory and Women’s Relation to War, Peace and Revolution,” in _Images of Women in Peace and War: Cross-cultural and Historical Perspectives_, ed. Sharon Macdonald and Peter Holden (London: Macmillan Education, 1987), 205–27.
 
-Shamsiah Fakeh. (2004). _[Memoir Shamsiah Fakeh: Dari AWAS ke rejimen ke-10](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437467)_. Bangi: Penerbit Universiti Kebangsaan Malaysia. Call no.: RSEA 923.2595 SHA
+Shamsiah Fakeh, [_Memoir Shamsiah Fakeh: Dari AWAS Ke Rejimen Ke-10_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437467) (Bangi: Penerbit Universiti Kebangsaan Malaysia, 2004). (Call no. RSEA 923.2595 SHA)
 
-Short, A. (1975). _[The communist insurrection in Malaya 1948–60](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4167242)_. London: Frederick Muller. Call no.: RSING 959.5104 SHO
+Sharon Macdonald, “Drawing the Lines – Gender, Peace and War: An Introduction,” in _Images of Women in Peace and War: Cross-cultural and Historical Perspectives_, ed. Sharon Macdonald and Peter Holden (London: Macmillan Education, 1987)
 
-Stubbs, R. (2004). _[Heart and minds in Guerilla warfare: the Malayan emergency, 1948–1960](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284306)_. Singapore: Eastern Universities Press. Call no.: RSING 959.504 STU
+Sheila Allan, [_Diary of a Girl in Changi, 1941–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12588700), 3rd ed. (New South Wales: Kangaroo Press, 2004). (Call no. RSING 940.547252092 ALL)
 
-Suriani Abdullah. (2006). _[Memoir Suriani Abdullah: Setengah abad dalam perjuangan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12886676)_. Petaling Jaya: Strategic Information Research Development (SIRD). Call no.: R 322.4209595 SUR
+Shirley Fenton Huie, [_The Forgotten Ones: Women and Children Under Nippon_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6335236) (N.S.W.: Angus & Robertson Publishers, 1992). (Call no. RSEA 940.547252 HUI)
 
-Swee, L. (2008). _[Tears of a teenage comfort women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_. Singapore: Horizon Books. Call no.: RSING 940.5405092 SWE
+Suriani Abdullah, [_Memoir Suriani Abdullah: Setengah Abad Dalam Perjuangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12886676) (Petaling Jaya: Strategic Information Research Development (SIRD), 2006). (Call no. R 322.4209595 SUR)
 
-Tan, A. (Summer 2008). The forgotten women warriors of the Malayan Communist Party. _IIAS Newsletter_, No. 48, https://www.iias.asia/sites/iias/files/nwl\_article/2019-05/IIAS\_NL48\_1213.pdf
+Swee Lian, [_Tears of a Teenage Comfort Women_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995) (Singapore: Horizon Books, 2008). (Call no. RSING 940.5405092 SWE)
 
-Tanaka, Y. (1999). Introduction. In M.R. Henson, _[Comfort women: A Filipina’s story of prostitution and slavery under the Japanese Military](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354)_. Lanham: Rowman & Littlefield Publishers. Call no.: RSEA 940.5405092 HEN
+Sybil Kathigasu, [_No Dram of Mercy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831) (Singapore: Oxford University Press, 1983). (Call no. RSEA 940.547252 KAT)
 
-Turner-Gottschang, K. & Phan, T. H. (1998). _[Even the women must fight: Memories of war from North Vietnam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8695311)_. New York: John Wiley & Sons. Call no.: RSEA 959.70430922 TUR
+T. N. Harper, [_The End of Empire and the Making of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8664450) (Cambridge: Cambridge University Press, 1999). (Call no. RSING 959.5105 HAR)
 
-Xiulan. (1983). _[I want to live: A personal account of one woman’s futile armed struggle for the Reds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3412854)_. Petaling Jaya: Star Publications. Call no.: RU RCLOS 322.4209595 XIU
+Xiulan, [_I Want To Live: A Personal Account of One Woman’s Futile Armed Struggle for the Reds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3412854) (Petaling Jaya: Star Publications, 1983). (Call no. RU RCLOS 322.4209595 XIU)
 
-Yoji, A. & Mako, Y. (Eds.) (2008). _[New perspectives on the Japanese occupation in Malaya and Singapore, 1941–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736)_. Singapore: National University Press. Call no.: RSING 940.5337 NEW
+Yuki Tanaka, “Introduction,” in Maria Rosa Henson, [_Comfort Women: A Filipina’s Story of Prostitution and Slavery Under the Japanese Military_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354) (Lanham: Rowman & Littlefield Publishers, 1999). (Call no. RSEA 940.5405092 HEN)
 
-Zhou, M (1995). _[Elizabeth Choy: More than a war heroine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_. Singapore: Landmark Books. Call no.: RSING 371.10092 ZHO
+Zhou Mei, [_Elizabeth Choy: More Than a War Heroine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319) (Singapore: Landmark Books, 1995). (Call no. RSING 371.10092 ZHO)
 
 **Newspapers & Magazines**
 
-_[Dewan Masyarakat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4149192)_, 1991, February–August. Call no.: RCLOS q059.9923 DM
+_[Dewan Masyarakat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4149192)_ (February–August, 1991). (Call no. RCLOS q059.9923 DM)
 
 _Straits Echo and Times of Malaya_, 1949–1951
 
@@ -192,51 +192,73 @@ _Utusan Malaysia_ (2009, May 30).
 
 **Videorecording/CD-ROM**
 
-Amir Muhammad. (Writer & Director) (2007). _[Apa khabar orang kampong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13201368)_ \[Village people radio show\] \[videorecording\]. Singapore: Objectifs Films. Call no.: RAV 791.437 APA
+Amir Muhammad, [_Apa Khabar Orang Kampong_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13201368) \[Village people radio show\], Objectifs Films, 2004, videorecording. (Call no. RAV 791.437 APA)
 
-Amir Muhammd. (Producer & Director) (2006). _[The last commununist](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804580)_ \[videorecording\]. Singapore: Comstar Entertainment. Call no.: RSEA 959.5104092
+Amir Muhammd, [_The Last Commununist_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804580), Comstar Entertainment, 2006, videorecording. (Call no. RSEA 959.5104092)
 
-Chan, K. M., Len, C., Ho, C.H., Lau, E., Wang, E. E. (Directors) (2006). _[I love Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909117)_ \[videorecording\]. Singapore: Objectifs Films. Call no.: RSING 320.53209225951
+Chan Kah Mei, et al., [_I Love Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909117), Objectifs Films, 2006, videorecording. (Call no. RSING 320.5320922595 I)
 
 **Interviews**
 
-Aishah @ Suti, personal communication, January 7, 1998.
+Aishah @ Suti, personal communication, 7 January 1998.
 
-A’Ling @ A’Yu, personal communication, March 11, 2009.
+A’Ling @ A’Yu, personal communication, 11 March 2009.
 
-A’Por @ Wun Jun Yin, personal communication, March 11, 2009.
+A’Por @ Wun Jun Yin, personal communication, 11 March 2009.
 
-Chang Li Li, personal communication, January 1, 2009.
+Chang Li Li, personal communication, 1 January 2009.
 
-Khadijah Daud @ Mama, personal communication, February 25, 2009.
+Khadijah Daud @ Mama, personal communication, 25 February 2009.
 
-Leong Yee Seng @ Hamitt, personal communication, March 14, 2009.
+Leong Yee Seng @ Hamitt, personal communication, 14 March 2009.
 
-Maimunah @ Khamsiah, personal communication, February 25, 2009.
+Maimunah @ Khamsiah, personal communication, 25 February 2009.
 
-Muna or Mek Pik, personal communication, March 14, 2009.
+Muna or Mek Pik, personal communication, 14 March 2009.
 
-Shiu Yin, personal communication, March 14, 2009.
+Shiu Yin, personal communication, 14 March 2009.
 
-Ya Mai, personal communication, January 1, 2009.
+Ya Mai, personal communication, 1 January 2009.
 
 #### **NOTES**
 
-[^1]: See, Sybil Kathigasu. (1983). _[No Dram of Mercy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831)_ (with Introduction by Sir Richard Winstedt and Preface by Cheah Boon Kheng). Singapore: Oxford University Press; Zhou Mei. (1995). _[Elizabeth Choy: More than A War Heroine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_. Singapore: Landmark Books. Sybil and Elizabeth suffered direct physical and psychological torture in the hands of the Japanese kempeitai (military police). Sybil died in June 1949 due to the torture.
+[^1]: See, Kathigasu, [_No Dram of Mercy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831), with Introduction by Sir Richard Winstedt and Preface by Cheah Boon Kheng; Zhou, [_Elizabeth Choy: More than A War Heroine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319). Sybil and Elizabeth suffered direct physical and psychological torture in the hands of the Japanese kempeitai (military police). Sybil died in June 1949 due to the torture.
 
-[^2]: The revelation was made through the publication of memoirs by victims. See, for instance, Maria Rosa Henson. (1999). _[Comfort Women: A Filipina’s Story of Prostitution and Slavery under the Japanese Military](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354)_. Lanbam: Rowman & Littlefield Publishers; Swee Lian. (2008). _[Tears of a Teen-age Comfort Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_. Singapore: Horizontal Books; Jan Huff O’Herne. (1994). _[50 Years of Silence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_. Sydney: Editions Tom Thompson.
+[^2]: The revelation was made through the publication of memoirs by victims. See, for instance, Henson, [_Comfort Women_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354); Swee, [_Tears of a Teenage_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995); O’Herne, [_50 Years of Silence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995).
 
 [^3]: ‘Indisch’ denotes both European and Eurasian who had settled in the Netherlands East Indies. They were born through the intimate relationship of their mothers with Japanese soldiers.
 
 [^4]: This information was based on interviews with former female MCP guerillas now residing in Betong, south Thailand, between January 2009 and March 2009.
 
-[^5]: Iskandar Carey. (1976). _[Orang Asli: The Aboriginal Tribes of Peninsular Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806)_. Kuala Lumpur: Oxford University Press, p. 311. It was reported that by 1953, 30,000 Orang Asli were already under communist influence.
+[^5]: Carey, [_Orang Asli_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806), 311. It was reported that by 1953, 30,000 Orang Asli were already under communist influence.
 
 [^6]: Musa Ahmad was one of the important leaders in the 10th Regiment.
 
 [^7]: This information was provided by Leong Yee Seng, the former members of the 8th Regiment who managed the Khao Nam Khang Historical Tunnel in the Natawee District of Songkhla Province during an interview on 14 March 2009. The Khao Nam Khang Historical Tunnel was formerly a main base for the 8th Regiment.
 
 [^8]: Ibrahim Chik, Abdullah C.D. and Suriani Abdullah were among MCP leaders who had first-hand experienced of sabotage through poisoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

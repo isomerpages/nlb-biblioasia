@@ -55,7 +55,7 @@ In general, both Chinese and English reviewers have, over the years and especial
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Latent%20Images.jpg">
  <div style="background-color: white;">All rights reserved, Oxford University Press, 2000.</div>
 
-An example is the film *The Leap Years*. Two *Lianhe Zaobao* reviewers on the film unanimously gave it bad reviews.[^8] The review published in the Today new paper, however, was not good but still encouraging. It ended off with “Nice effort, hope to see more good - if not better - work in the future”.9 The effort in producing the film has been clearly acknowledged, although the results may speak otherwise.
+An example is the film *The Leap Years*. Two *Lianhe Zaobao* reviewers on the film unanimously gave it bad reviews.[^8] The review published in the Today new paper, however, was not good but still encouraging. It ended off with “Nice effort, hope to see more good - if not better - work in the future”.[^9]  The effort in producing the film has been clearly acknowledged, although the results may speak otherwise.
 
 One explanation for such a difference in treatment by English and Chinese reviewers may be the difference in cultures between the West and the East, or correspondingly, the English-speaking and Chinese-speaking communities in Singapore. In the West, failure or occasional mistakes seem to be more acceptable and thus people are more encouraging towards failures. However, in the East, mistake or failure is more often frowned upon.
 
@@ -105,48 +105,48 @@ Critical essays and reviews of Singapore films examine both art and commercial f
 
 #### **REFERENCES**
 
- Lee, S. (2003, August 4). [Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8). _The Straits Times_, p. 6. From NewspaperSG.
+Christopher Toh, “[A Big Leap of Faith](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2),” _Today_, 27 February 2008, 37. (From NewspaperSG)
 
-Millet, R. (2006). [_Singapore cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044). Singapore: Editions Didier Millet Pte Ltd. Call no.: RSING q791.43095957 MIL
+Hong Minghua 洪铭铧, “Xiaohai bu ben 2” bai ming shi jiaoyu pian” 《[小孩不笨2》摆明是教育片](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1) \[Children are not stupid 2" is clearly an educational film\], _Lianhe Zaobao_ _联合早报_, 1 January 2006, 15. (From NewspaperSG)
 
-Ong, S.F. (2003, October 22). [Short cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16). _The Straits Times_, p. 6. From NewspaperSG.
+Hong Minghua 洪铭铧, “Rensheng ru xi xi buru rensheng?” [人生如戏戏不如人生?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1) \[is life not as good as a play?\], _Lianhe Zaobao_ _联合早报_, 7 March 2008, 40. (From NewspaperSG)
 
-Toh, C. (2008, February 27). [A big leap of faith](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2). _Today_, p. 37. From NewspaperSG.
+Jan Uhde and Yvonne Ng Uhde, [_Latent Images: Films in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634) (Singapore: Oxford University Press, 2000). (Call no. RSING 384.8095957 UHD)
 
-Uhde, J. & Uhde Y.N. (2000). [_Latent images: Films in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634). Singapore: Oxford University Press. Call no.: RSING 384.8095957 UHD
+Lin Shiwu 林十五, “15” Shaole yige ba zhang” 《[15》少了一个巴掌](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3) \[15" one less slap\], _Lianhe Zaobao_ _联合早报_, 13 May 2003, 31. (From NewspaperSG)
 
-洪铭铧. (2006, January 1). 《[小孩不笨2》摆明是教育片](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1), _联合早报_, p. 15. From NewspapeSG.
+Li Yijun 李亦筠, “Ying yi xin dian tu tuijie” 影艺新电图推介 \[film arts new digital illustration promotion\], _Lianhe Zaobao_ _联__合早__报_, 1 March 2008.
 
-洪铭铧. (2006, March 7). [人生如戏戏不如人生?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1) _联合早报_, p. 40. From NewspaperSG.
+Ong Sor Fern, “[Short Cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16),” _Straits Times_, 22 October 2003, 6. (From NewspaperSG)
 
-林十五. (2003, May 13). 《[15》少了一个巴掌](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3). _联__合早__报_, p. 31. From NewspaperSG.  
+Raphael Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044) (Singapore: Editions Didier Millet Pte Ltd., 2006). (Call no. RSING q791.43095957 MIL)
 
-李亦筠. (2008, March 1). 影艺新电图推介. _联合早_ _报_.
+Samuel Lee, “[Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8),” _Straits Times_, 4 August 2003, 6. (From NewspaperSG)
 
-易水.《[马来亚化华语电影问题](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)》. 新加坡: 南洋印刷社, 1959. Call no.: Chinese RCLOS 791.4301 IXS
+Yi Shui 易水, Ma lai ya hua huayu dianying wenti《[马来亚化华语电影问题](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)\[Malayanization of chinese-language films\] (Xinjiapo Singapore: Nanyang yinshua she Nanyang Printing House, 1959). (Call no. Chinese RCLOS 791.4301 IXS)
 
 #### **NOTES**
 
-[^1]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 115.  
+[^1]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 115.  
 
-[^2]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 114.
+[^2]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 114.  
 
 [^3]: One of the thrusts of Media 21, as set by Singapore’s Media Development Authority with the aim of turning Singapore into a global media hub, is to increase the export of Made-by-Singapore products.
 
-[^4]: [Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8), 4 August 2003, p. 6.
+[^4]: Lee, “[Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8).”
 
-[^5]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 95.
+[^5]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 95.  
 
-[^6]: [Uhde & Uhde](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634), 2000, p. 2.
+[^6]: Uhde and Uhde, [_Latent Images_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634), 2.
 
-[^7]: [易水](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985), 1959, p. 123.
+[^7]: Yi, _[Ma lai ya hua huayu dianying wenti](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)_, 123.
 
-[^8]: 李亦筠, 1 Mar 2008; [洪铭铧](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1), 7 Mar 2008, p. 40.
+[^8]: Li, “Ying yi xin dian tu tuijie”; Hong, “[Rensheng ru xi xi buru rensheng?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1)”
 
-[^9]: [Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2), 27 Feb 2008, p. 37.
+[^9]: Toh, “[Big Leap of Faith](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2).”
 
-[^10]: [洪铭铧](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1), 28 Jan 1006, p. 15.
+[^10]: Hong, “‘[Xiaohai bu ben 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1)’.”
 
-[^11]: [Ong](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16), 22 Oct 2003, p. 6.
+[^11]: Ong, “[Short Cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16).”
 
-[^12]: [林十五](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3), 13 May 2003, p. 31.
+[^12]: Lin, “[15” Shaole yige ba zhang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3).”

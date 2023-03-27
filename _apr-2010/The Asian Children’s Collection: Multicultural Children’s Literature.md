@@ -74,30 +74,33 @@ Given the diversity of topics of interest available in the Asian children’s Co
  
 #### **REFERENCES**
  
-Bainbridge, J. M., Pantaleo, S. & Ellis, M. (1999). Multicultural picture books: Perspectives from Canada. _The Social Studies, 90_ (4), 183–188.
+Andrea Warren, _Escape From Saigon_ (New York: Farrar, Straus and Giroux, 2008)
 
-Clammer, J. (2002). [_Diaspora and identity: The sociology of culture in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11297989). Malaysia: Pelanduk Publications. Call no.: RSEA 306.0959 CLA
+Ang Seow Leng et al., [_Asian Renaissance: The Singapore and Southeast Asian & Asian Children Collection Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419) (Singapore: National Library Board, 2005). (Call no. RSING 025.21095957 ASI)
 
-Dhami, N. (2003). _Bindi babes_. London: Corgi Yearling Books.
+Donna E. Norton, [_Multicultural Children’s Literature: Through the Eyes of Many Children_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655350), 2nd ed. (N.J.: Pearson Prentice Hall, 2005). (Call no. R 810.9928208693 NOR)
 
-Dhami, N. (2005). _Bhangra babes_. London: Corgi Yearling Books. 
+Ho Mingfong, [_The Stone Goddess_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12499007) (New York: Scholastic, 2005). (Call no. RAC 813.54 HO)
 
-Higgins, J. J. (2002). _Multicultural children’s literature: Creating and applying an evaluation tool in response to the needs of urban educators_. New Horizons for Learning.
+Jennifer Johnson Higgins, _Multicultural Children’s Literature: Creating and Applying an Evaluation Tool in Response to the Needs of Urban Educators_ (New Horizons for Learning, 2006)
 
-Hill, T. J. (1998, March). Multicultural children’s books: An American fairy tale. _Publishing Research Quarterly, 14_ (1), 36–46.
+John Clammer, [_Diaspora and Identity: The Sociology of Culture in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11297989) (Malaysia: Pelanduk Publications, 2002). (Call no. RSEA 306.0959 CLA)
 
-Hirahara, N. (2008). _[1001 cranes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13111115)_. New York: Delacorte Press. Call no.: RAC 813.54 HIR
+Joyce M. Bainbridge, Sylvia Pantaleo and Monica Ellis, “Multicultural Picture Books: Perspectives From Canada,” _The Social Studies_ 90, no. 4 (1999), 183–88.
 
-Ho, M. (2005). _[The stone goddess](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12499007)_. New York: Scholastic. Call no.: RAC 813.54 HO
+Laura Williams, _Slant_ (Minneapolis, Minn.: Milkweed Editions, 2008)
 
-Loh, V. S. (Fall 2006). Quantity and quality: The need for culturally authentic trade books in Asian American young adult literature. _The ALAN Review, 34_ (1), 44–61, https://scholar.lib.vt.edu/ejournals/ALAN/v34n1/loh.pdf
+Naomi Hirahara, [_1001 Cranes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13111115) (New York: Delacorte Press, 2008). (Call no. RAC 813.54 HIR)
 
-Ang, S. L., et al. (2005). _[Asian renaissance: The Singapore and Southeast Asian & Asian Children Collection Guide](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419)_. Singapore: National Library Board. Call no.: RSING 025.21095957 ASI
+Narinder Dhami, _Bindi Babes_ (London: Corgi Yearling Books, 2003)
 
-Norton, D. E. (2005). _[Multicultural children’s literature: Through the eyes of many children](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655350)_. (2nd ed.) Upper Saddle River, N.J. Pearson Prentice Hall. Call no.: R 810.9928208693 NOR
+Narinder Dhami, _Bhangra Babes_ (London: Corgi Yearling Books, 2005)
 
-Warren, A. (2008). _Escape from Saigon_. New York: Farrar, Straus and Giroux.
+Twyla J. Hill, “Multicultural Children’s Books: An American Fairy Tale,” _Publishing Research Quarterly_ 14 (no. 1) (March 1998), 36–46.
 
-Williams, L. E. (2008). _Slant_. Minneapolis, Minn.: Milkweed Editions.
+Virginia Loh, “Quantity and Quality: The Need for Culturally Authentic Trade Books in Asian American Young Adult Literature,” _The ALAN Review_ 34, no, 1 (Fall 2006), 44–61, https://scholar.lib.vt.edu/ejournals/ALAN/v34n1/loh.pdf
 
-Yang, H. (2008). _Mo’s mischief: Pesky monkeys_. London: HarperCollins Children’s Books.
+Yang Hongying, _Mo’s Mischief: Pesky Monkeys_ (London: HarperCollins Children’s Books, 2018)
+
+
+
