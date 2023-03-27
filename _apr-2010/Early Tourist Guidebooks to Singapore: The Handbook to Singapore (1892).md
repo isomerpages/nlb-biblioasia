@@ -134,17 +134,16 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
     
 G. M. Reith, <i><a>A Padre in Partibus:Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
 
-G. M. Reith, <i><a>Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i>(Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
-	
-	(https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx) 
+G. M. Reith, <i><a>Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
+	  
+G. M. Reith, <a> “The Opium Problem in the Straits Settlements,”</a> <i>Transactions of the Straits Philosophical Society]</i> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
 
-G. M. Reith, “The Opium Problem in the Straits Settlements,” _[Transactions of the Straits Philosophical Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047111)_ 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
+G. M Reith, <i>The Breezy Pentlands</a> (Edinburgh: T. and N Foulis, 1910)<br><br>
 
-G. M Reith, _The Breezy Pentlands_ (Edinburgh: T. and N Foulis, 1910)<br><br>
+G. M. Reith, <i>Reminiscences of the United Free Church General Assembly (1900–1929)</i> (London: The Moray Press, 1933)<br><br>
 
-G. M. Reith, _Reminiscences of the United Free Church General Assembly (1900–1929)_. (London: The Moray Press, 1933)<br><br>
-
-Wen, C. \[pseud\] and G. M. Reith, ed. [_The Chinese Crisis from Within_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12664635) (London: Grant Richards, 1901). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
+Wen, C. \[pseud\] and G. M. Reith, ed. <i><a>The Chinese Crisis from Within</a></i>
+(London: Grant Richards, 1901). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
 
 <br>
 <div style="background-color: white;">
