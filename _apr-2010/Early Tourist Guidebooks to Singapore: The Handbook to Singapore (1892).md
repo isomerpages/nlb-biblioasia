@@ -132,12 +132,11 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LIST OF  PUBLICATIONS</b><br><br>
     
-G. M. Reith, <i><a>A Padre in Partibus:Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i>
-	
-	
-	G. M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
+G. M. Reith, <i><a>A Padre in Partibus:Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
 
-G. M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_](https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx) (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
+G. M. Reith, <i><a>Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i>(Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
+	
+	(https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx) 
 
 G. M. Reith, “The Opium Problem in the Straits Settlements,” _[Transactions of the Straits Philosophical Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047111)_ 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
 
