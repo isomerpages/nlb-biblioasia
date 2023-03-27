@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
-      button: The Curious Origins of Teachers' Estate
+      url: /vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/
+      button: "Belacan: Caviar? Or Vile and Disgusting"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Teacher's Housing Estate/Teachers'
-        Estate_hero_img2.jpg
+      background: /images/Vol 19 Issue 1/Balacan/Belachan_Hero_img.jpg
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
