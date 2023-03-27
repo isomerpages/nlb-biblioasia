@@ -98,7 +98,8 @@ And then as if to explain both why such offence is likely to be made by one espe
 
 Both Kratoska and Turnbull agree that the handbook is a child of its time – “a competent guide to a colonial city and a colonial way of life” (Reith, 1985, p. x) as well as offering “a justifiable pride in showing off the settlement to visitors” (Turnbull, 1988, p. 302). It was after all written from a British perspective for the Western tourist and we must read it with a Scotsman’s sense of humour!
 
-The guidebook can be read online at the Singapore Pages at  <a href="http://sgebooks.nl.sg/details/020000657.html">http://sgebooks.nl.sg/details/020000657.html</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at  <a href="http://sgebooks.nl.sg/details/020000657.html">http://sgebooks.nl.sg/details/020000657.html</a>
+The guidebook can be read online at the Singapore Pages at  <a href="http://sgebooks.nl.sg/details/020000657.html">http://sgebooks.nl.sg/details/020000657.html</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at  <a href="BookSG">BookSG</a>
+
 
 #### **About George Murray Reith (b.1863, Aberdeen Scotland–d.1948, February 27, Edinburgh)**
 
@@ -131,15 +132,15 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LIST OF  PUBLICATIONS</b><br><br>
     
-G. M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)
+G. M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
 
-G. M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_](https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx) (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)
+G. M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_](https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx) (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
 
-G. M. Reith, “The Opium Problem in the Straits Settlements,” _[Transactions of the Straits Philosophical Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047111)_ 1 (12 August 1893), 94. (Microfilm NL5718)
+G. M. Reith, “The Opium Problem in the Straits Settlements,” _[Transactions of the Straits Philosophical Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047111)_ 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
 
-G. M Reith, _The Breezy Pentlands_ (Edinburgh: T. and N Foulis, 1910)
+G. M Reith, _The Breezy Pentlands_ (Edinburgh: T. and N Foulis, 1910)<br><br>
 
-G. M. Reith, _Reminiscences of the United Free Church General Assembly (1900–1929)_. (London: The Moray Press, 1933)
+G. M. Reith, _Reminiscences of the United Free Church General Assembly (1900–1929)_. (London: The Moray Press, 1933)<br><br>
 
 Wen, C. \[pseud\] and G. M. Reith, ed. [_The Chinese Crisis from Within_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12664635) (London: Grant Richards, 1901). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
 
@@ -213,22 +214,8 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 
 [^1]: Library’s bibliographic record indicates “Imperfect copy”.
 
-[2]: It does however touch on early references to the island in Malay legend found in the _Sejarah Melayu_ and in the _Lusiad_ of Cameon – a Portuguese epic.
+[^2]: It does however touch on early references to the island in Malay legend found in the _Sejarah Melayu_ and in the _Lusiad_ of Cameon – a Portuguese epic.
 
 [^3]: Davison’s and Ridley’s articles are found in chapter 13, but Davison’s is an abridged version of the original.
 
 [^4]: Reith argued against labour on Sunday despite the increase in wages. The matter was being discussed at the Colonial Office particularly among shipping firms, docks and mariners. “[The Rev. Mr. Reith - Sunday Labour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37).”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
