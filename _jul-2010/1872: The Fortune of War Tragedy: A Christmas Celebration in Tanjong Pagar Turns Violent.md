@@ -74,8 +74,6 @@ Most of the Europeans who set foot on Singapore soil during the colonial era mus
 
 Only when they disgraced themselves and dishonoured their professions by committing crimes did they find their way into the newspapers – but even then, their activities and their presence were apparently, for the most part at least, deemed too unimportant or unremarkable to deserve attention in historical accounts, with a few notable exceptions, such as the excellent recent military history of Singapore entitled *Between Two Oceans* [^20] and the personal memoirs of armed forces personnel who served here during World War II.
 
-![](/images/Vol%206%20Issue%202/War%20Tragedy/Between%20two%20oceans1.jpg)
-
 <img style="width:50%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/Between%20two%20oceans1.jpg">
  <div style="background-color: white;">All rights reserved, Marshall Cavendish Academic, 2004.</div>
 
