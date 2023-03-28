@@ -12,6 +12,9 @@ description: "Through news reports run in Singapore Daily Times, Lee Kong Chian
 
 &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;-_Singapore Daily Times_,<br>&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;26 December 1872
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/British%20in%20Malaya.jpg">
+ <div style="background-color: white;">All rights reserved, Oxford University Press, 1979.</div>
+
 While exploring the history of public celebrations in colonial Singapore, I happened to find an account of a Christmas celebration in 1872 which sadly degenerated into a tragic and violent incident. By piecing together the news reports that appeared over several months in the pages of the *Singapore Daily Times*, it is possible to reconstruct an account of violence and bloodshed in a tavern and its judicial aftermath, as well as certain aspects of the social and criminal context within which this story played out.
 
 It is a story which reads like something out of the lore of the Wild West of the American frontier, rather than what one might expect to find in the history of Singapore, which is today a city-state that is internationally renowned for its orderliness and safety. This forgotten tragedy in 1872 provides insights into a little-known aspect of the social history of colonial Singapore, namely: the lifestyle and recreational activities of European soldiers and sailors, their presence on this island, the nature of their criminal activities, and the responses of the colonial authorities and the local press. These insights may help to provide a more balanced view of the society of colonial Singapore, and help to clear up some possible misconceptions about this society that may exist in the present day.
@@ -22,13 +25,22 @@ Likewise, when we think of rioting or other violence in colonial Singapore, we m
 
 The respectable side of the Western presence in the Settlement has been conspicuously commemorated in the statue of Raffles, in the names of Raffles Place and Raffles Hotel,[^3] in all the other streets and places which were named after prominent Westerners, and in the mansions which were the homes of wealthy Europeans, some of which still stand today. However, the involvement of some Westerners on the disreputable side of life in colonial Singapore was, quite naturally, never commemorated with monuments, for obvious reasons.[^4] There was evidently a belief among the British elites in the colonial era that the presence of poor or unemployed Europeans in Singapore and Malaya was an embarrassment which posed a threat to European prestige. Moreover, they felt that their prestige had to be sustained at all times, since it was regarded as essential to the colonial system here.[^5] John Butcher has explored this topic in detail in his book *The British in Malaya, 1880—1941: The Social History of a European Community in Colonial South-East Asia*.[^6] Nevertheless, there was a presence of working-class Europeans in colonial Singapore, and it is the task of the social historian to explore such forgotten elements of this society, in order to achieve a better understanding of the social history of this place.
 
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/Rickshaw%20Coolie.jpg">
+ <div style="background-color: white;">All rights reserved, Oxford University Press, 1986.</div>
+
 The work of prominent historians on the social history of Singapore and Malaya has inspired this exploration of celebration, crime and death in Tanjong Pagar in 1872. James Francis Warren has shown how historical research can recover and retrieve the experiences and lives of largely forgotten people[^7] in his classic studies of the social history of rickshaw pullers and prostitutes: *Rickshaw Coolie: A People’s History of Singapore (1880—1940)* and *Ah Ku and Karayuki-san: Prostitution in Singapore 1870—1940*. John Butcher has described the situation of non-elite Europeans in Malaya, including working-class train drivers and unemployed rubber planters, and also analysed the significance of a well-known European murder case, in his book *The British in Malaya, 1880—1941: The Social History of a European Community in Colonial South-East Asia*.[^8]
+
+<img style="width:50%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/ah%20ku1.jpg">
+ <div style="background-color: white;">All rights reserved, Oxford University Press, 1993.</div>
 
 The lives of Chinese immigrant labourers, including their experiences in China which motivated them to leave their homeland, the process of emigration and the social problems which they experienced in Singapore and Malaya, have been vividly depicted by Yen Ching-hwang in *A Social History of the Chinese in Singapore and Malaya 1800—1911*.[^9] While Chinese immigrant labourers comprised the bulk of the labouring-class population of Singapore in the 19th and early 20th centuries, we should not forget the other, less numerous sections of the working-class population, including those who were from Europe.
 
 #### **Yuletide Celebration and  Tragedy**
 
 The setting of the bloodshed on Christmas Day in 1872 was a tavern called the “Fortune of War” in Tanjong Pagar, in an insalubrious swampy locality near the harbour, which seemed to have been devoted at least in part to the refreshment of seafarers. We can imagine what this area was like in the 1870s, thanks to a description of the place written by a visitor who landed here five years after the deadly Yuletide brawl. When the American naturalist William Hornaday arrived in Singapore on 20 May 1878, he described a stinking creek of slime along the road between the harbour and Chinatown, and he noted several taverns with nautical names in this area.[^10] The imagery of Tanjong Pagar in the 1870s that Hornaday thus bequeathed to us – an image of seafarers’ taverns and a slimy, reeking stream – sets the stage for the picture of holiday celebration and deadly violence that emerges from the microfilmed pages of the *Singapore Daily Times*.
+
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/photo%20street%20scene%20of%20Tg%20Pagar%20Rd1.jpg">
+ <div style="background-color: white;">Street Scene At Tanjong Pagar Road (1890).<i> Gretchen Liu Collection, courtesy of National Archives of Singapore.</i></div>
 
 The first of several reports on the bloodshed at the Fortune of War tavern on the night of Christmas in 1872 appeared in the *Singapore Daily Times* on the following day. This account explains how the soldiers and sailors happened to engage in what seemed to have been a friendly Christmas celebration together, complete with alcoholic refreshments, before the party turned ugly. The report goes on to recount how the men in the tavern attacked and wounded a European police officer when he tried to stop the brawl, and how reinforcements finally arrived and brought the situation under control.
 
@@ -151,6 +163,3 @@ _The Straits Calendar and Directory_ (Singapore: Commercial Press, 1873)
 [^20]: Malcolm H. Murfett, John N. Miksic, Brian P. Farrell, and Chiang Ming Shun, [_Between Two Oceans: A Military History of Singapore From First Settlement to Final British Withdrawal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9310557) (Singapore: Oxford University Press, 1999), 95. (Call no. RSING 355.0095957 BET)
 
 [^21]: See the report on the census of Singapore Island taken on 3 April 1871, in _Singapore Daily Times_, 16 May 1873, 4.
-
-
-
