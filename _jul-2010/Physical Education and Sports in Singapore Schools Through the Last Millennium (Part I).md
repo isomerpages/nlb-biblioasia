@@ -102,61 +102,60 @@ Part 2 will cover the national syllabus for physical education and specialist tr
 
 #### **REFERENCES**
 
-Aplin, N. (Ed.). (2009). _[Perspectives on physical education and sports science in Singapore: An eye on the Youth Olympic Games 2010](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13171768)_. Singapore: McGraw-Hill Education. Call no.: RSING 613.707105957 PER
+Fang Wanbang 方万邦编, Chuzhong xuesheng wenku kewai yundong tianjing 方万邦编著 \[junior high student library extracurricular sports athletics\] (Shanghai 上海: Zhonghua shuju 中华书局, 1936). MOE Heritage Centre collection
 
-Chia, M., et al. (2003). _[The nexus of hours of computer use, physical activity and physical fitness of pupils in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12275894)_. Singapore: National Institute of Education, Nanyang Technological University. Call no.: RSING q613.7095957 NEX
+Federated Malay States, [_Annual Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053919) (Kuala Lumpur: Federated Malay States Govt. Print. Off., 1938). (Call no. RRARE 370.9595 MAL; microfilm NL7366).\*1938 includes reports for the Straits Settlements
 
-Education Department. (various years before 1938). _Annual report_. Straits Settlements. Microfilm no.: NL390, NL393–NL397, NL620–NL622, NL1132–1137, NL2920–NL2930
+Hua xiao xiaoxue tiyu jiaocai 华校小学 体育教材 \[Chinese School Primary School Physical Education Textbook\] (Ma lai ya lianhe bang 马来亚联合邦:Huawen fu ti xue si gongshu faxing, n.d.). MOE Heritage Centre collection
 
-Federated Malay States. (1938). _[Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053919)_. Kuala Lumpur: Federated Malay States Govt. Print. Off. Call no.: RRARE 370.9595 MAL Microfilm no.: NL7366  
-\*1938 includes reports for the Straits Settlements
+“[Inter-School Sports](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360801-1.2.91),” _Strait Times_, 1 August 1936, 15. (From NewspaperSG)
 
-[Inter-School Sports](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360801-1.2.91). (1936, August 1). _The Strait Times_, p. 15. From NewspaperSG.
+Ke Wen 柯文编著, Xin xiaoxue wenku di yi jituan ti youxi 新小学文库第 一集团体游戏 \[The first group game of the new elementary school library\] (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947). MOE Heritage Centre collection
 
-Koh, T. H. M. & Tan, E. K. H. (Eds.). (2006). _[Introduction to physical education](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801057)_. Singapore: Pearson Education South Asia Pte Ltd. Call no.: RSING 613.7071 INT
+Lun Chor Yee and Dudley de Souza, eds., [_IExperience: The First Ten Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081010) (Singapore: Institute of Education, 1983). (Call no. RSING 370.73095957 IEX)
 
-Lun, C. Y. & Souza, D. (Eds.). (1983). _[IExperience: The first ten years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081010)_. Singapore: Institute of Education. Call no.: RSING 370.73095957 IEX
+Michael Chia et al., [_The Nexus of Hours of Computer Use, Physical Activity and Physical Fitness of Pupils in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12275894) (Singapore: National Institute of Education, Nanyang Technological University, 2003). (Call no. RSING q613.7095957 NEX)
 
-Ministry of Education. (various years). _[Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326)_. Singapore. Ministry of Education. (\*1954-56 reports published by Singapore. Department of Education. Reports also known by other titles) Call no.: RCLOS 370.95951 SIN (also available on microfilms)
+Michael Koh Teik Hin and Harry Tan Eng Kwang, eds., [_Introduction to Physical Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801057) (Singapore: Pearson Education South Asia Pte Ltd., 2006).  (Call no. RSING 613.7071 INT)
 
-Ministry of Education. (1957). _[Syllabus for physical education in all primary schools](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981217)_. Singapore: Ministry of Education. Call no.: RCLOS 371.73 SIN; Microfilm no.: NL11903
+Ministry of Education, Singapore, [_Annual Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326) (Singapore. Ministry of Education, various years). (\*1954–56 reports published by Singapore. Department of Education. Reports also known by other titles). (Call no. RCLOS 370.95951 SIN; (also available on microfilms)
 
-Singapore Schools Sports Council. (2009). _[Celebrating 50 years of school sports](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13349298)_. Singapore: Singapore Schools Sports Council. Call no.: RSING 796.07105957 CEL
+Ministry of Education, Singapore, [_Syllabus for Physical Education in All Primary Schools_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981217) (Singapore: Ministry of Education, 1957). (Call no. RCLOS 371.73 SIN; microfilm NL11903)
 
-Singapore Sports Council. (1981). _National physical fitness award (Secondary & Pre-University): Your test of overall physical fitness_. Singapore: The Council. MOE Heritage Centre collection
+Ministry of Education 教育部, Xianxing zhongyao jiaoyu faling huibian 现行重要教育法 令汇编 \[A compilation of important current educational laws and regulations\] (Zhongguo 中国: Jiaoyu bu 教育部, 1930). MOE Heritage Centre collection
 
-Singapore Sports Council. (1977). _[National fitness through physical education and sports. Papers presented at the Physical Education Seminar, 29th & 30th July 1977](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181465)_. Singapore: Singapore Sports Council. Call no.: RSING 613.7 PHY
+Ministry of Education, Singapore 教育部, 新加坡, Xiaoxuexiao yong tiyu kecheng biaozhun [小学校 用体育课程标准](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496450) \[elementary school physical education curriculum standards\] (Xinjiapo 新加坡: \[Gāi bù\] \[该部\], 1959). (Call no. Chinese RCLOS 372.86043 SIN)
 
-Singapore Sports Council. (1977). _[Papers presented at the seminar on national fitness through physical education and sports](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982591)_. Singapore: Singapore Sports Council. Call no.: RSING 613.7 SEM
+Nick Aplin, ed., [_Perspectives on Physical Education and Sports Science in Singapore: An Eye on the Youth Olympic Games 2010_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13171768) (Singapore: McGraw-Hill Education, 2009). (Call no. RSING 613.707105957 PER)
 
-Singapore Sports Council. (1978). _[A report on the Physical Education Seminar held on 11th and 12th August 1978 at the National Stadium](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4652927)_. Singapore: The Council. Call no.: RSING 613.7 SIN
+Ruan Liangbian 阮良编著, Hu neiwai youxi 户内外游戏 \[indoor and outdoor games, 1947). (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947). MOE Heritage Centre collection
 
-Singapore Sports Council. (1981). _National physical fitness award (Primary): Your test of overall physical fitness_. Singapore: The Council. MOE Heritage Centre collection
+Shen Wenbing 沈文炳, ed., Shi yong ti yu xing zheng [实用体育行 政](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84473737) \[Practical Sports Administration\] (Xinjiapo 新加坡: Nanyang shang baoshe 南洋商报社, 1953). (Call no. Chinese RCLOS 371.7 SWP)
 
-方万邦编著. (1936).《初中学生文 库课外运动田径》. 上海: 中华书局. MOE Heritage Centre collection
+Singapore Schools Sports Council, [_Celebrating 50 Years of School Sports_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13349298)  (Singapore: Singapore Schools Sports Council, 2009). (Call no. RSING 796.07105957 CEL)
 
-教育部. (1930).《现行重要教育法 令汇编》. 中国: 教育部. MOE Heritage Centre collection
+Singapore Sports Council, N_ational Physical Fitness Award (Secondary & Pre-University): Your Test of Overall Physical Fitness_ (Singapore: The Council, 1981). MOE Heritage Centre collection
 
-柯文编著. (1947). 《新小学文库第 一集团体游戏》五年级体育科. 上海: 商务印书馆. MOE Heritage Centre collection
+Singapore Sports Council, [_National Fitness Through Physical Education and Sports. Papers Presented at the Physical Education Seminar, 29th & 30th July 1977_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181465) (Singapore: Singapore Sports Council, 1977). (Call no. RSING 613.7 PHY)
 
-钱柏士编. (年代不详).《华校小学 体育教材》.马来亚联合邦：华文 副提学司公署发行. MOE Heritage Centre collection
+Singapore Sports Council, [_Papers Presented at the Seminar on National Fitness Through Physical Education and Sports_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982591) (Singapore: Singapore Sports Council, 1977). (Call no. RSING 613.7 SEM)
 
-阮良编著. (1947). 《户内外游戏》. 上海: 商务印书馆. MOE Heritage Centre collection
+Singapore Sports Council,  [_A Report on the Physical Education Seminar Held on 11th and 12th August 1978 at the National Stadium_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4652927) (Singapore: The Council, 1978). (Call no. RSING 613.7 SIN)
 
-沈文炳. (1953). 《[实用体育行 政](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84473737)》.新加坡: 南洋商报社. Call no.: RCLOS 371.7 SWP
+Singapore Sports Council, _National Physical Fitness Award (Primary): Your Test of Overall Physical Fitness_ (Singapore: The Council, 1981). MOE Heritage Centre collection
 
-王庚编著. (1947). 《几种技 巧动》. 上海: 商务印书馆. MOE Heritage Centre collection
+Straits Settlements. Education Department. (various years before 1938). _Annual Report_ (Straits Settlements, various years before 1938). (Microfilm NL390, NL393–NL397, NL620–NL622, NL1132–1137, NL2920–NL2930)
 
-王庚编著. (1947).《几种球类运 动》新小学文库，第一集，六年级 体育课 上海: 商务印书馆. MOE Heritage Centre collection
+Wang Geng 王庚, ed., Ji zhong jiqiao dong 几种技 巧动 \[several tricks\] (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947). MOE Heritage Centre collection
 
-新加坡. 教育部. (1959). 《 [小学校 用体育课程标准](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496450) 》. 新加坡: \[该部\]. Call no.: RCLOS 372.86043 SIN
+Wang Geng 王庚编著, ed., Ji zhong qiu lei yundong 几种球类运 动 \[several ball games\], 新小学文库，第一集，六年级 体育课 (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947). MOE Heritage Centre collection
 
-赵竹光编著. (1947).《国术讲话》. 上海: 商务印书馆. MOE Heritage Centre collection
+Zhao Cui 赵夐, ed., “Yundonghui” you tong wenku di yi ji tiyu lei “运动会”幼童文 库 第一集体育类 \["sports games" children's library, the first episode of sports\] (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1948). MOE Heritage Centre collection
 
-赵夐编. (1948). 《运动会》幼童文 库第一集体育类. 上海: 商务印书馆. MOE Heritage Centre collection
+Zhao Yuguang 赵宇光, ed., Women de tianjing yundong 我们的田 径运动 \[our athletics\] (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947)
 
-赵宇光编著. (1947).《我们的田 径运动》. 上海: 商务印书馆.
+Zhao Yuguang 赵宇光, ed., Women de qiu xi 我们的 球戏 \[our ball game\] (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947)
 
- 赵竹光编著. (1947).《我们的 球戏》. 上海: 商务印书馆.
+Zhao Zhuguang 赵竹光, ed., Guoshu jianghua 国术讲话 \[guoshu speech\] (Shanghai 上海: Shangwu yin shuguan 商务印书馆, 1947). MOE Heritage Centre collection
 
 *MOE Heritage Centre collection Note: for items with location code “RCLOS”, user can request for them at the Information Counter on Level 11 of the Lee Kong Chian Reference Library*
