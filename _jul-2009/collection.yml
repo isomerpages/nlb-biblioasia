@@ -2,5 +2,7 @@ collections:
   jul-2009:
     output: true
     order:
-      - An Overview of Singapore’s Education System from 1819 to the 1970s.md
+      - "In Search of the Child: Children’s Books Depicting World War II in
+        Singapore.md"
       - Director's Column.md
+      - An Overview of Singapore’s Education System from 1819 to the 1970s.md
