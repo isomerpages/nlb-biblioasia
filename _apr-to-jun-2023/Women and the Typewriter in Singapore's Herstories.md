@@ -6,10 +6,6 @@ description: The humble typewriter helped women become better educated, enter
 image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
   Typewriter_Home page.jpg
 ---
-
-
-
-
 #### The humble typewriter helped women become better educated, enter the workforce and contribute to society. 
 By Liew Kai Khiun
 
@@ -17,6 +13,9 @@ By Liew Kai Khiun
 <div style="background-color: white;">Yang Di-Pertuan Negara Yusof Ishak (with glasses) at a typing class at the Malay Craft Centre, 1962. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Mechanical to electric, manual to automated, ubiquitous to ornamental. Since it first entered commercial production in the 1870s, what is now seen as the humble typewriter has played a significant role in the history of the 20th century. Less well known is the fact that the typewriter was also a key force in shaping herstory in the same period. Women’s progress through the formal economy has been closely intertwined with the typewriter. Women typists, stenographers and secretaries bore witness to the technological, socio-economic and political changes from the 1900s to the tumultuous 1950s, and later the “electrifying” 1970s.
+
+![](/images/Vol%2019%20Issue%201/Women%20Typewriter/Woman%20Typewriter.jpg)
+<div style="background-color: white;">A Peranakan girl using the typewriter, late 19th to mid-20th centuries. <i>Collection of Peranakan Museum. Gift of Mr and Mrs Lee Kip Lee.</i></div>
 
 #### **Women Typists in Prewar Singapore**
 
