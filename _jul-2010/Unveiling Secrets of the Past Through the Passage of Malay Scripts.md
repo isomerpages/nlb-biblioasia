@@ -5,9 +5,9 @@ description: Teaching Fellow Mohamed Pitchay Gani Bin Mohamed Abdul Aziz
   explores the heritage of the rich Malay civilisation through its enchanting
   and spellbinding aksara, or scripts.
 ---
-#### Teaching Fellow _Mohamed Pitchay Gani Bin Mohamed Abdul Aziz_ explores the heritage of the rich Malay civilisation through its enchanting and spellbinding _aksara_, or scripts.
+#### Teaching Fellow&nbsp;_Mohamed Pitchay Gani Bin Mohamed Abdul Aziz_&nbsp;explores the heritage of the rich Malay civilisation through its enchanting and spellbinding&nbsp;_aksara_, or scripts.
 
-*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“They neither built pyramids of copper,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nor tombstones of bronze for themselves \[…\],<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;But they left their heritage in their writings,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In the exhortations that they composed.”*<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;From the ancient Egyptian ‘Praise to the scribes’[^1]
+*        “They neither built pyramids of copper,<br>        Nor tombstones of bronze for themselves \[…\],<br>        But they left their heritage in their writings,<br>        In the exhortations that they composed.”*<br><br>      From the ancient Egyptian ‘Praise to the scribes’[^1]
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%202/UnveilingSecrets/script3%20copy.jpg">
  <div style="background-color: white;">Tanjung Tanah Manuscript, 14th century. Believed to be the oldest existing Malay manuscript in the world, recording the legal system of the Kerinci people in Sumatra. (Aksara, p. 55)</div>
@@ -58,7 +58,7 @@ The establishment of the British port in Singapore led to its development as an 
 
 Another interesting observation is that Munsyi Abdullah, a Muslim, together with Rev. Claudius Henry Thomsen, who arrived in Singapore in 1815, translated the bible into Malay. Further research into the prominent Muslim figure Munsyi Abdullah will indeed be beneficial in understanding the link between religion and secularism. Inter-faith collaborations and intellectual pursuit were nothing new to Singapore when it became the centre of Malay films and publications. Entertainment magazines written in Jawi script such as *Majalah Hiboran* and *Mastika* flooded the market from 1956 onwards, together with novels such as *Pelayan* \[Hostess\] (1948) and *Tidaklah Saya Datang ke Mari* \[Nor would I be here\] (1952) also written in Jawi script. This is on top of text books published in Jawi for educational purposes.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/UnveilingSecrets/Hiboran%20&%20Mastika%20mags%20.jpg">
+<img style="width:80%;" src="/images/Vol%206%20Issue%202/UnveilingSecrets/Hiboran%20&amp;%20Mastika%20mags%20.jpg">
 <div style="background-color: white;">The <i>Hiboran</i> and <i>Mastika</i> entertainment magazines were very popular as they fulfilled the needs of various categories of readers. These reflected the trends, fads and fashion during that period. (Aksara, p.220)</div>
 
 During the early years of Malay civilisation, documents were passed and preserved through oral tradition as Winstead[^10] has noted: “literature strictly came into being with the art of writing, but long before letters were shaped, there existed material of literature, words spoken in verse to wake emotion by beauty of sounds and words spoken in prose to appeal to reason by beauty of sense.” Prior to 1600, there was no collection of Malay writing in the world. According to Syed Muhammad Naquib al-Attas,[^11] the earliest Malay manuscript was a translated work written in 1590, Aqaid al-Nasafi. Legends, myths and folklore were constructed orally and presented through story tellers or *penglipur lara*. With the coming of the colonial masters and advent of the printing machine, such genres were successfully printed into story books known as *hikayat*, *kisah* or *cerita*, all of which relate to stories and popular narratives.
@@ -72,7 +72,7 @@ The first Malay newspaper to be published in Malaya was *Jawi Peranakan* (1876�
 <img style="width:80%;" src="/images/Vol%206%20Issue%202/UnveilingSecrets/Jawi%20Peranakan%20copy.jpg">
  <div style="background-color: white;">Jawi Peranakan, the earliest Malay newspaper published in the region. (Aksara, p. 200)</div>
 
-Interestingly, the pioneers in Malay journalism, publication and research were mainly non-Malays. In fact, the early dictionaries on Malay language were researched and produced by colonial masters such as the Dutchman Herman von de Wall who researched and published the Malay-Dutch dictionary: *Maleisch- Nederlandsch Woordenboak* Volumes 1 & 2 in 1877-84 Dictionary of the Malayan Language, in two parts, Malayan and English and English and Malayan by William Marsden in 1812 Malay-French dictionary: *Dictionnaire Malais-Francais* Volumes 1 & 2 by Pierre Etienne Lazare Favre in 1873, 1875. An Arab, Syed Sheikh Al-Hadi, wrote and published the first novel in Malay titled *Hikayat Faridah Hanum* \[Story of Faridah Hanum\] in 1925. However, it is considered an adaptation from a Cairo publication rather than an authentic Malay novel.[^12]
+Interestingly, the pioneers in Malay journalism, publication and research were mainly non-Malays. In fact, the early dictionaries on Malay language were researched and produced by colonial masters such as the Dutchman Herman von de Wall who researched and published the Malay-Dutch dictionary: *Maleisch- Nederlandsch Woordenboak* Volumes 1 &amp; 2 in 1877-84 Dictionary of the Malayan Language, in two parts, Malayan and English and English and Malayan by William Marsden in 1812 Malay-French dictionary: *Dictionnaire Malais-Francais* Volumes 1 &amp; 2 by Pierre Etienne Lazare Favre in 1873, 1875. An Arab, Syed Sheikh Al-Hadi, wrote and published the first novel in Malay titled *Hikayat Faridah Hanum* \[Story of Faridah Hanum\] in 1925. However, it is considered an adaptation from a Cairo publication rather than an authentic Malay novel.[^12]
 
 In 1920 Nor Ibrahim[^13] wrote the earliest Malay short story *Kecelakaan Pemalas* \[Curse of the Lazy One\] which was published in the *Majalah Pengasoh* \[*Pengasuh* Magazine\]. The first Malay novel *Kawan Benar* \[True Friend\] (1927)[^14] was written by Ahmad Rashid Talu. The father and pioneer of modern Malay journalism was Abdul Rahim Kajai.[^15]
 
@@ -91,69 +91,68 @@ The Malay civilisation may not have left behind majestic monuments or fascinatin
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Mohamed%20Pitchay.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Mohamed%20Pitchay.jpg" style="width: 100px; height: 100px;">
 <center><b>Mohamed Pitchay Gani Bin Mohamed Abdul Aziz</b><br>Teaching Fellow I <br>National Institute of Education<br> Nanyang Technological 
 University</center></div>
 
 #### **REFERENCES**
 
-Asmah Omar. (2008). _[Ensiklopedia bahasa Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13159593)_. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay RSEA 499.2803 ASM
+Asmah Omar, [_Ensiklopedia Bahasa Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13159593) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2008). (Call no. Malay RSEA 499.2803 ASM)
 
-Braginsky, V. I. (2004). _[The heritage of traditional Malay literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154)_. Singapore: Institute of South East Asian Studies. Call no.: RSEA 899.28 BRA
+D. G. E. Hall, [_A History of SouthEast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1621803) (New York: St. Martin’s Press, 1955). (Call no. RCLOS 959 HAL)
 
-de Casparis, J. G. (1975). _[Indonesian palaeography: A history of writing Indonesia from the beginning to C.A.D. 1500](https://eservice.nlb.gov.sg/item_holding.aspx?bid=786404)_. Leiden: Brill Call no.: RCLOS 499.2017 CAS
+David Crystal, _The Cambridge Encyclopedia of Language_ (USA: Cambridge, 1993)
 
-Crystal, D. (1993). _The Cambridge encyclopedia of language_. USA: Cambridge.
+George Quinn, [_The Learner’s Dictionary of Today’s Indonesian_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9394827) (St. Leonards, N.S.W.: Allen &amp; Unwin, 2001). (Call no. R 499.221321 QUI)
 
-Gwee, T. H. (1993). _[Mas sepuloh: Baba conversational gems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6433093)_. Singapore: Armour Publishing. Call no.: RSING 499.23107 GWE
+Hashim Musa, [_Epigrafi Melayu: Sejarah Sistem Dalam Tulisan Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2003). (Call no. Malay RSING 499.2811 HAS)
 
-Hall, D.G.E. (1955). _[A history of SouthEast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1621803)_. New York: St. Martin’s Press. Call no.: RCLOS 959 HAL
+J. G. de Casparis, [_Indonesian Palaeography: A History of Writing Indonesia From the Beginning to C.A.D. 1500_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=786404) (Leiden: Brill, 1975). (Call no. RCLOS 499.2017 CAS)
 
-Hashim Musa. (2003). _[Epigrafi Melayu: Sejarah sistem dalam tulisan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567)_. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay RSING 499.2811 HAS
+Juffri Supa'at and Nazeerah Gopaul, eds., [_Aksara Menjejaki Tulisan Melayu = Aksara the Passage of Malay Scripts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990) (Singapore: National Library Board, 2009). (Call no. Malay RSING 499.2811 AKS)
 
-Juffri Supa'at & Nazeerah Gopaul (Eds.). (2009). _[Aksara menjejaki tulisan Melayu = Aksara the passage of Malay scripts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990)_. Singapore: National Library Board. Call no.: Malay RSING 499.2811 AKS
+Li Chuan Siu, [_Ikthisar Sejarah Kesusasteraan Melayu Baru 1830–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118152) \[History of modern Malay literature 1830­–1945\] (Kuala Lumpur: Penerbit Pustaka Antara, 1966). (Call no. Malay R 899.23008104 LI)
 
-Li, C. S. (1966). _[Ikthisar sejarah kesusasteraan Melayu baru 1830—1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118152)_ \[History of modern Malay literature 1830—1945\]. Kuala Lumpur: Penerbit Pustaka Antara. Call no. Malay R 899.23008104 LI
+Mohamed Pitchay Gani Bin Mohamed Abdul Aziz, “E-Kultur Dan Evolusi Bahasa Melayu Di Singapura” \[E-culture and the evolution of Malay language in Singapore\] (master’s thesis, National Institute of Education, Nanyang Technological University, 2004)
 
-Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (2004). _E-Kultur dan evolusi bahasa Melayu di Singapura_. (E-culture and the evolution of Malay language in Singapore). (Masters Thesis, National Institute of Education, Nanyang Technological University).
+Mohamed Pitchay Gani Bin Mohamed Abdul Aziz, [_Evolusi Bahasa Melayu 2000 Tahun Dari Zaman Purba Ke Budaya Elektronik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12988759) (Perak: Universiti Pendidikan Sultan Idris, 2007). (Call no. Malay RSING 499.2809 MOH)
 
-Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (2007). _[Evolusi bahasa Melayu 2000 tahun dari zaman purba ke budaya elektronik](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12988759)_. Tanjong Malim, Perak: Universiti Pendidikan Sultan Idris. Call no.: Malay RSING 499.2809 MOH
+Nicholas Ostler, [_Empires of the World: A Language History of the World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11844199) (London. Harper Perennial, 2006). (Call no. R 409 OST)
 
-Mohd Thani, Sadon & Suhaimi Haji Muhammad. (2005). _[Wajah: Biografi penulis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600)_ (3rd ed.). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: R 899.2809 WAJ
+Noriah Mohamed, [_Sosiolinguistik Bahasa Melayu Lama_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10076804)&nbsp; (Pulau Pinang: Universiti Sains Malaysia bagi pihak Pusat Pengajian Ilmu Kemanusiaan, 1999). (Call no. Malay R 499.2809 NOR)
 
-Noriah Mohamed. (1999). _[Sosiolinguistik bahasa Melayu lama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10076804)_. Pulau Pinang: Universiti Sains Malaysia bagi pihak Pusat Pengajian Ilmu Kemanusiaan. Call no.: Malay R 499.2809 NOR
+Othman Puteh and Ramli Isnin, [_Sejarah Kesusasteraan Melayu Moden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2003). (Call no. Malay R 899.28309 OTH)
 
-Ostler, N. (2006). _[Empires of the world: A language history of the world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11844199)_. London. Harper Perennial. Call no.: R 409 OST
+Richard Windstedt, [_A History of Classical Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057) (Kuala Lumpur: Oxford University Press, 1969). (Call no. RSEA 899.23 WIN)
 
-Othman Puteh & Ramli Isnin. (2003). _[Sejarah kesusasteraan Melayu moden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972)_. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.28309 OTH
+Shamsuddin Jaafar, comp., [_Wajah: Biografi Penulis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 3rd ed. (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2005). (Call no. Malay R 899.2809 WAJ)
 
-Quinn, G. (2001). _[The learner’s dictionary of today’s Indonesian](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9394827)_. St. Leonards, N.S.W.: Allen & Unwin. Call no.: R 499.221321 QUI
+Syed Muhammad Naquib al-Attas, [_The Oldest Known Manuscript: A 16th Century Malay Translation of the Aqaid of Al-Nasafi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357) (Kuala Lumpur: Dept. of Publications, University of Malaya, 1988). (Call no. RSING 091 ATT)
 
-Roff. W. R. (1974). The mystery of the first Malay novel (and who was Rokambul). _Bijdragen tot de Taal-, Land-en Volkenkunde_, _130_ (4), 450—464.
+Teuku Iskandar, [_Kesusasteraan Klasik Melayu Sepanjang Abad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203803515) (Brunei: Universiti Brunei Darussalam, 1995). (Call no. Malay RCLOS 899.2309 ISK)
 
-From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+Tham Seong Chee, [_A Study of the Evolution of the Malay Language: Social Change and Cognitive Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515) (Singapore: Singapore University Press, 1990). (Call no. RSING 306.44089992 THA)
 
-Syed Muhammad Naquib al-Attas. (1988). _[The oldest known manuscript: A 16th century Malay translation of the Aqaid of al-Nasafi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357)_. Kuala Lumpur: Dept. of Publications, University of Malaya. Call no.: RSING 091 ATT
+“UH Manoa Professor Confirms Oldest Known Malay Manuscript: Discovery Leads to International Academic Partnerships; Scholars To Gather in Jakarta in December To Attempt Translation,” University of Hawaii, 8 November 2004, https://manoa.hawaii.edu/news/article.php?aId=942
 
-Teuku Iskandar. (1995). _[Kesusasteraan klasik Melayu sepanjang abad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203803515)_. Brunei: Universiti Brunei Darussalam. Call no.: Malay RCLOS 899.2309 ISK
+Vladimir Braginsky, [_The Heritage of Traditional Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154) (Singapore: Institute of South East Asian Studies, 2004). (Call no. RSEA 899.28 BRA)
 
-Tham, S. C. (1990). _[A study of the evolution of the Malay language: Social change and cognitive development](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515)_. Singapore: Singapore University Press. Call no.: RSING 306.44089992 THA
+William Gwee Thian Hock, [_Mas Sepuloh: Baba Conversational Gems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6433093) (Singapore: Armour Publishing, 1993). (Call no. RSING 499.23107 GWE)
 
-University of Hawaii. (2004). _UH Manoa Professor Confirms Oldest Known Malay Manuscript: Discovery leads to international academic partnerships; scholars to gather in Jakarta in December to attempt translation_. Retrieved January  
-11, 2010, https://manoa.hawaii.edu/news/article.php?aId=942
+William R. Roff, “The Mystery of the First Malay Novel (and Who Was Rokambul),”
 
-Winstead, R. O. (1969). _[A history of classical Malay literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057)_. Kuala Lumpur: Oxford University Press. Call no.: RSEA 899.23 WIN
+_Bijdragen tot de Taal-, Land-en Volkenkunde_ 130, no. 4 (1974): 450–64. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
-Zalila Sharif & Jamilah Haji Ahmad. (1993). _[Kesusasteraan Melayu tradisional](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6549986)_. Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: Malay R 899.2300901 KES
+Zalila Sharif and Jamilah Haji Ahmad, [_Kesusasteraan Melayu Tradisional_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6549986) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1993). (Call no. Malay R 899.2300901 KES)
 
-\*Images reproduced from Supa’at, J. & Gopaul, N. (Eds). (2009). _Aksara menjejaki tulisan Melayu = Aksara the passage of Malay scripts_. All rights reserved, National Library Board, 2009. Kota Kapur Stone. Source: replica from the Museum National Indonesia. Jawi Peranakan. Source: National Library Board. Surat Buluh Manuscript. Source: National Library of Indonesia. Tanjung Tanah Manuscript. Source: Dr Uli Kozok, University of Hawai’i.
+Images reproduced from Juffri Supa'at and Nazeerah Gopaul, eds., [_Aksara Menjejaki Tulisan Melayu = Aksara the Passage of Malay Scripts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990) (Singapore; National Library Board, 2009). (Call no. Malay 499.2811 AKS). All rights reserved, National Library Board. Kota Kapur Stone. Source: replica from the Museum National Indonesia. Jawi Peranakan. Source: National Library Board. Surat Buluh Manuscript. Source: National Library of Indonesia. Tanjung Tanah Manuscript. Source: Dr Uli Kozok, University of Hawai’i.
 
-#### **NOTES**    
+#### **NOTES**   
 
-[^1]: [Braginsky](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 2004, p. 1.
+[^1]: Braginsky, [_Heritage of Traditional Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 1.
 
-[^2]: [Tham](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515), 1977, p. 16
+[^2]: Tham, [_Study of the Evolution of the Malay Language_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515), 16.
 
 [^3]: Following an exhibition by the National Library Board in 2007 that traces the evolution and transformation of the Malay writing system.
 
@@ -161,26 +160,31 @@ Zalila Sharif & Jamilah Haji Ahmad. (1993). _[Kesusasteraan Melayu tradisional](
 
 [^5]: Noriah (1998:58–60) explained that the archaic Malay language had 157 Malay words or Austronesia language in its natural form.
 
-[^6]: Mohamed Pitchay Gani’s thesis (2004) produced the six stages of Malay language evolution of which the most contemporary level is the Internet language. Prior to this finding, Abdullah Hassan (1994:7–9) identified four stages of evolution. Mohamed Pitchay has added Indonesia language and the Internet language as two more important stages of evolution to the Malay language.
+[^6]: Mohamed Pitchay Gani’s “E-Kultur Dan Evolusi Bahasa Melayu,” produced the six stages of Malay language evolution of which the most contemporary level is the Internet language. Prior to this finding, Abdullah Hassan (1994:7–9) identified four stages of evolution. Mohamed Pitchay has added Indonesia language and the Internet language as two more important stages of evolution to the Malay language.
 
-[^7]: [Hashim Musa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 2003, p. 27.
+[^7]: Musa, [_Epigrafi Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 27.
 
 [^8]: SITC is the first teacher training college in Malaya proposed by Deputy Director of Malay Schools, Sir R.O Winstead. Before SITC, there was the Malay Training College in Telok Belanga (Singapore) in 1878, relocated to Telok Ayer in 1884 and closed in 1895. There was also a Malay Training College in Malacca (1900) and Perak (1913). These two colleges were amalgamated to form SITC. It was designed to provide teacher training and education to only the highest achieving Malay students in pre- independent Malaya. In 1997, it was upgraded to become the Sultan Idris Education University.
 
-[^9]: Casparis ([Hashim Musa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 2003:29) classified the scripts found in the Srivijaya manuscripts as the later type of Pallava scripts and much more developed compared with the earlier scripts. As such, it is also classified as the Bahasa Melayu Tua or the ancient Malay language.
+[^9]: Casparis (Musa, [_Epigrafi Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 29) classified the scripts found in the Srivijaya manuscripts as the later type of Pallava scripts and much more developed compared with the earlier scripts. As such, it is also classified as the Bahasa Melayu Tua or the ancient Malay language.
 
-[^10]: [Winstead](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057), 1969, p. 1.
+[^10]: Windstedt, [_History of Classical Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057), 1.
 
-[^11]: [Syed Muhammad Naquib al-Attas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357), 1988, pp. 6–8
+[^11]: Syed Muhammad Naquib al-Attas, [_Oldest Known Manuscript_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357), 6–8.
 
-[^12]: Roff, 1974, p. 451.
+[^12]: Roff, “Mystery of the First Malay Novel,” 451.  
+  
+[^13]: Puteh and Isnin, [_Sejarah Kesusasteraan Melayu Moden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972), 3.
 
-[^13]: [Othman Puteh & Ramli Isin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972), 2003, p. 3.
+[^14]: Jaafar, [_Wajah: Biografi Penulis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 163.
 
-[^14]: [Mohd Thani, Sadon & Suhaimi Haji Muhammad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 2005, p. 163.
-
-[^15]: [Mohd Thani, Sadon & Suhaimi Haji Muhammad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 2005, p. 80.
+[^15]: Jaafar, [_Wajah: Biografi Penulis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 80.
 
 [^16]: It is believed to be the oldest existing Malay manuscript because it is written in the later Kawi scripts. The manuscript is a legal code of 34 pages completely written in Malay except for the first and last few sentences, which are written in Sanskrit. The material the text is written on is bark paper produced from the bark of the mulberry tree, and the script is an Indian-derived script, which developed locally in Sumatra. Kozok found the manuscript in 2002. It had been kept in a private collection in a remote part of Sumatra where villagers regard it to be a sacred heirloom with calamity befalling the village should it be removed.
+
+
+
+
+
 
 [^17]: [Braginsky](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 2004, p. 1.

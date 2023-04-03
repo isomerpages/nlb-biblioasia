@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/
-      button: "Belacan: Caviar? Or Vile and Disgusting"
+      url: /vol-12/issue-3/oct-dec-2016/building-faith
+      button: Wartime Churches in Syonan-to
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Balacan/Belachan_Hero_img.jpg
+      background: /images/Vol-12-issue-3/building-faith/Wartime Church in Syonan_Hero
+        Image.jpg
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
