@@ -204,47 +204,47 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
  [^10]: Yen, “Confucian Revival Movement,” 33–57; Song, [_One Hundred Years’ History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335), 235–36.
 
-11 Govaars, [_Dutch Colonial Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915), 55
+ [^11]: Govaars, [_Dutch Colonial Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915), 55
 
-12 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 251.
+ [^12]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 251.
 
-13 “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
+ [^13]: “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
 
-14 Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, 1; “[Our Batavia letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53; “Lee, _Shijie Huaqiao Huaren Cidian_, 377; Chua, “Bendi yinghua shuyuan”; Chua, “ “[Lee Who?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13)
+ [^14]: Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, 1; “[Our Batavia letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53; “Lee, _Shijie Huaqiao Huaren Cidian_, 377; Chua, “Bendi yinghua shuyuan”; Chua, “ “[Lee Who?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13)
 
-15 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252.
+ [^15]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252.
 
-16 Before the opening of its school, The Straits Chinese Magazine announced that THHK-school would be offering Dutch language courses. After its establishment THHK decided to offer English courses instead of Dutch. See: [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 4, no. 16 (December 1900); “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
+ [^16]: Before the opening of its school, The Straits Chinese Magazine announced that THHK-school would be offering Dutch language courses. After its establishment THHK decided to offer English courses instead of Dutch. See: [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 4, no. 16 (December 1900); “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
 
-17 Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 424.
+ [^17]: Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 424.
 
-18 邢济众, _[Jinan daxue bainian huayan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)_, 1.
+ [^18]: 邢济众, _[Jinan daxue bainian huayan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)_, 1.
 
-19 Ma, “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
+ [^19]: Ma, “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
 
-20 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 251.
+ [^20]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 251.
 
-21 “Our Java Letter”, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 11, no. 1 (March 1907), 34.
+ [^21]: “Our Java Letter”, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 11, no. 1 (March 1907), 34.
 
-22 Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 425.
+ [^22]: Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 425.
 
-23 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252.
+ [^23]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252.
 
-24 For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in [_Chinese Among Others_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434), 241–43.
+ [^24]: For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in [_Chinese Among Others_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434), 241–43.
 
-25 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252–53.
+ [^25]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252–53.
 
-26 On 5 October 1908, 38 other boys from several schools in Java went to Nanjing. In 1909, the number of students from Java since the first dispatching to Jinan totalled 111. See van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252–54; Ma, “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
+ [^26]: On 5 October 1908, 38 other boys from several schools in Java went to Nanjing. In 1909, the number of students from Java since the first dispatching to Jinan totalled 111. See van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252–54; Ma, “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
 
-27 Lee Kong Chian: Entrepreneur, philanthropist, educator. He was head of Singapore ‘Zhonghua zhongshanghui’ (in Chinese) and head of ‘Xingma zhonghua Shanghui lianhehui’ (In Chinese). He was founder of certain Huaqiao schools and hospitals in Singapore. In the 1930s when Tan Kah Kee’s experienced difficulties in his business. Lee Kong Chian donated money to Xiamen University. In the 1930s–40s, Lee also established many primary schools and Guoguang High School in his home province, Fujian. He established the Lee Foundation that supports education.
+ [^27]: Lee Kong Chian: Entrepreneur, philanthropist, educator. He was head of Singapore ‘Zhonghua zhongshanghui’ (in Chinese) and head of ‘Xingma zhonghua Shanghui lianhehui’ (In Chinese). He was founder of certain Huaqiao schools and hospitals in Singapore. In the 1930s when Tan Kah Kee’s experienced difficulties in his business. Lee Kong Chian donated money to Xiamen University. In the 1930s–40s, Lee also established many primary schools and Guoguang High School in his home province, Fujian. He established the Lee Foundation that supports education.
 
-28 Yuan Shikai, president of republican China at the time was reluctant to re-open the school out of fear that the Guomindang opposition would thrive at Jinan where most students had participated in the 1911 Revolution. Lee, [_Chinese Schools in British Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648), 28.
+ [^28]: Yuan Shikai, president of republican China at the time was reluctant to re-open the school out of fear that the Guomindang opposition would thrive at Jinan where most students had participated in the 1911 Revolution. Lee, [_Chinese Schools in British Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648), 28.
 
-29 Liu, “[Preface](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265),” 1–3, 3, 570–71.
+ [^29]: Liu, “[Preface](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265),” 1–3, 3, 570–71.
 
-30 Liu, “[Preface](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265),” 1–3.
+ [^30]: Liu, “[Preface](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265),” 1–3.
 
-31 Lee Ting Hui, “Proceedings of the Legislative Council of the Straits Settlements 1920,” B78–79.
+ [^31]: Lee Ting Hui, “Proceedings of the Legislative Council of the Straits Settlements 1920,” B78–79.
 
 32 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255. Emphasis added.
 
