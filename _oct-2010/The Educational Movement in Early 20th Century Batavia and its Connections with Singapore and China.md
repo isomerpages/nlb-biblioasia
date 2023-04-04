@@ -188,21 +188,21 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
  [^2]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255. All translations are mine unless otherwise noted.
 
-3\. “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100.
+ [^3]: “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100.
 
-4\. “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 88; “[THHK” School](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 168.
+ [^4]: “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 88; “[THHK” School](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 168.
 
-5 See for instance; Kwee, [_Origins of the Modern Chinese Movement_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984); Coppel, [_Studying Ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046).
+ [^5]: See for instance; Kwee, [_Origins of the Modern Chinese Movement_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984); Coppel, [_Studying Ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046).
 
-6 This is based on primary sources I used. See for instance, “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100. The article states: “The Dutch Government has been advised to grant the Chinese the privilege of forming literary societies. Their purpose is to collect funds and to bring the blessings of education within the reach of every Chinese childe, male, or female.”
+ [^6]: This is based on primary sources I used. See for instance, “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100. The article states: “The Dutch Government has been advised to grant the Chinese the privilege of forming literary societies. Their purpose is to collect funds and to bring the blessings of education within the reach of every Chinese childe, male, or female.”
 
-7 Lea, [_Overseas Chinese Nationalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336).
+ [^7]: Lea, [_Overseas Chinese Nationalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336).
 
-8 Fromberg, [_De Chineesche Beweging Op Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123772), 1—65.
+ [^8]: Fromberg, [_De Chineesche Beweging Op Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123772), 1—65.
 
-9 “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100.
+ [^9]: “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100.
 
-10 Yen, “Confucian Revival Movement,” 33–57; Song, [_One Hundred Years’ History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335), 235–36.
+ [^10]: Yen, “Confucian Revival Movement,” 33–57; Song, [_One Hundred Years’ History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335), 235–36.
 
 11 Govaars, [_Dutch Colonial Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915), 55
 
