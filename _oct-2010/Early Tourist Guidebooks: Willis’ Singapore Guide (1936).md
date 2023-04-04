@@ -4,9 +4,9 @@ permalink: /vol-6/issue-3/oct-2010/Singapore-willis-tourist-guide/
 description: Senior Librarian Bonny Tan examines the Willis’ Singapore Guide, an
   early tourist guidebook available at the National Library.
 ---
-#### Senior Librarian _Bonny Tan_ examines the _Willis’ Singapore Guide_, an early tourist guidebook available at the National Library.
+#### Senior Librarian&nbsp;_Bonny Tan_&nbsp;examines the&nbsp;_Willis’ Singapore Guide_, an early tourist guidebook available at the National Library.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;“*There is much that is interesting, novel and exotic to be&emsp;<br>&emsp;&emsp;&emsp;&emsp;seen by the intelligent visitor…”*<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Willis, 1936, p. 83)
+     “*There is much that is interesting, novel and exotic to be <br>    seen by the intelligent visitor…”*<br>         (Willis, 1936, p. 83)
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/StreetVendor.jpg">
  <div style="background-color: white;">A cigarette vendor (Willis, 1936, p. 39).</div>
@@ -78,7 +78,7 @@ In keeping with the budgetary needs of his fellow sailors, Willis advises agains
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/First%20Trolley.jpg">
  <div style="background-color: white;">Singapore's first trolley bus in service... 1926 (Willis, 1936, p. 92)</div>
 
-For the seamen keen on experiencing “a cheap, comfortable, and very convenient way of seeing a good part of the City.” (Willis, 1936, p. 93), Willis promotes the tram route for No. 1 Trolleybus. The journey begins at Keppel Harbour and continues along the main line of the harbour, passing through the railway station, the Tanjong Pagar Police Station, key commercial offices such as that of F&N and Tiger Beer, and the all-important Sailors’ Institute at Anson Road for these seamen tourists, before it heads down Collyer Quay past banks and offices through the Anderson Bridge past the Victoria Memorial Hall to River Valley Road. Willis draws the tourist’s attention to the location of what once was the Singapore Railway Goods Terminus “long since dismantled and beyond the memory of most people. It is interesting to note that this valuable plot of land is being considered as a site for the proposed Aquarium” (Willis, 1936, p. 105). This was possibly the seed of an idea which would later become the Van Cleef Aquarium. Passing by the Tank Road Hindu Temple, which Willis calls the Chettiar Temple, he describes the “gruesome” spectacle of the annual Thaipusam in some detail, with the main attraction being a “man who trails a car behind him attached to his body by cords, on the end of which are hooks piercing the flesh.” (Willis, 1936, p. 105).
+For the seamen keen on experiencing “a cheap, comfortable, and very convenient way of seeing a good part of the City.” (Willis, 1936, p. 93), Willis promotes the tram route for No. 1 Trolleybus. The journey begins at Keppel Harbour and continues along the main line of the harbour, passing through the railway station, the Tanjong Pagar Police Station, key commercial offices such as that of F&amp;N and Tiger Beer, and the all-important Sailors’ Institute at Anson Road for these seamen tourists, before it heads down Collyer Quay past banks and offices through the Anderson Bridge past the Victoria Memorial Hall to River Valley Road. Willis draws the tourist’s attention to the location of what once was the Singapore Railway Goods Terminus “long since dismantled and beyond the memory of most people. It is interesting to note that this valuable plot of land is being considered as a site for the proposed Aquarium” (Willis, 1936, p. 105). This was possibly the seed of an idea which would later become the Van Cleef Aquarium. Passing by the Tank Road Hindu Temple, which Willis calls the Chettiar Temple, he describes the “gruesome” spectacle of the annual Thaipusam in some detail, with the main attraction being a “man who trails a car behind him attached to his body by cords, on the end of which are hooks piercing the flesh.” (Willis, 1936, p. 105).
 
 Once past the Hindu Temple, Willis recommends leaving the tram car and taking a walking tour instead, past Government House and down Orchard Road. He offers few details, such as the reasonably priced yet excellent meals served at Capitol Theatre and the music shop run by D’Souza Bros, near the Adelphi Hotel, where one can find everything from gramophone records to musical instruments and even a Gents Outfitting Department (Willis, 1936, p. 107). At North Bridge Road, Willis points out Yamada and Company, a Japanese curio shop and Jhamatmal Gubamall, a popular silk shop, although High Street boasts a string of highly recommended silk shops too. High Street also offers a good stationery shop, Mohd. Dulfakirs Stationers Shop with an excellent stock of papers and periodicals from England and America. Shahab and Co has great reptile skins while Singapore Photo Co. attends to the photographic needs of the tourist. Café de Luxe, both well-decorated and welllocated, is the final rest point before hopping back onto tram car No. 1 to one’s ship.
 
@@ -113,68 +113,66 @@ The guide is not merely a textual description of sights but also a visual feast 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/Plan.jpg">
  <div style="background-color: white;">Plans showing roads from the dock to Raffles Place (Willis, 1936, p. 9)</div>
 
-The publication also has photographs of places and peoples, capturing images of tradesmen, village and town life, and classical buildings now demolished. Although Willis does offer a standard acknowledgement, no credit is given for the photography and individual photographers are unknown. However, his concluding page indicates that the photographs can be purchased from two Japanese companies — Nakajima & Co. and Kawa Studios. The photographs demonstrate the keen eye that these Japanese had for prewar Singapore. For illustrations, the guide proves to be a treasured showcase of merchandise, businesses and shops in pre-war Singapore. Interestingly, advertisements often mirrored Willis’ text where a shop, service or invention he writes about has a parallel advertising poster printed on the next page. The guide also has an index of these business advertisements for easy reference. These may have been a clever marketing ploy Willis engaged in in order to self-publish the guide. Nevertheless, it makes the guide the perfect time capsule for an insight to businesses catering to the visitor in the 1930s. Shopfronts, long gone, have details of their services, proprietors and opening hours emblazoned in their advertisements. Long standing institutions and businesses such as John Little, Haig whisky and MPH portray art noveau perspectives of themselves in the 1930s.
+The publication also has photographs of places and peoples, capturing images of tradesmen, village and town life, and classical buildings now demolished. Although Willis does offer a standard acknowledgement, no credit is given for the photography and individual photographers are unknown. However, his concluding page indicates that the photographs can be purchased from two Japanese companies — Nakajima &amp; Co. and Kawa Studios. The photographs demonstrate the keen eye that these Japanese had for prewar Singapore. For illustrations, the guide proves to be a treasured showcase of merchandise, businesses and shops in pre-war Singapore. Interestingly, advertisements often mirrored Willis’ text where a shop, service or invention he writes about has a parallel advertising poster printed on the next page. The guide also has an index of these business advertisements for easy reference. These may have been a clever marketing ploy Willis engaged in in order to self-publish the guide. Nevertheless, it makes the guide the perfect time capsule for an insight to businesses catering to the visitor in the 1930s. Shopfronts, long gone, have details of their services, proprietors and opening hours emblazoned in their advertisements. Long standing institutions and businesses such as John Little, Haig whisky and MPH portray art noveau perspectives of themselves in the 1930s.
 
-The guide continued to be published past the war period with as many as 5,000 copies published in 1949.[^31] By the time Willis passed away in early 1951, he was known as “a good friend of merchant seamen passing through Singapore.”[^32] His legacy remains his Guide, which continues to speak to many travellers, both seamen of the past as well as today’s curious time travellers. The guide is part of the Rare Book Collection and can be accessed online on Singapore Pages at <a href=" http://sgebooks. nl.sg/details/020000657.html">
+The guide continued to be published past the war period with as many as 5,000 copies published in 1949.[^31] By the time Willis passed away in early 1951, he was known as “a good friend of merchant seamen passing through Singapore.”[^32] His legacy remains his Guide, which continues to speak to many travellers, both seamen of the past as well as today’s curious time travellers. The guide is part of the Rare Book Collection and can be accessed online on Singapore Pages at <a href="http://sgebooks. nl.sg/details/020000657.html">
  http://sgebooks. nl.sg/details/020000657.html</a>
  
 **The author wishes to acknowledge the contributions of Dr Ernest C.T. Chew, Visiting Professorial Fellow, Institute of Southeast Asian Studies, in reviewing this article.**
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <center><b>Bonny Tan</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 #### **REFERENCES**
 
-[Air for judge, jury, barristers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390802-1.2.151.22). (1939, August 2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+A. C. Willis, [_Willis’s Singapore Guide_](https://eresources.nlb.gov.sg/printheritage/detail/f605bb37-0e57-471e-bc20-0a8dc05cb3c9.aspx) (Singapore: Alfred Charles Willis., 1936). (From BookSG; call no. RRARE 959.57 WIL)
 
-[Clergyman’s tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28). (1934, February 8). _The Straits Budget_, p. 8. Retrieved from NewspaperSG.
+“[A New Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102),” _Straits Times_, 30 May 1934, 13. (From NewspaperSG)
 
-[Dangers faced by men of Merchant Navy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94). (1941, June 21). _The Straits Times_, p. 11. Retrieved from NewspaperSG.
+“[Air for Judge, Jury, Barristers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390802-1.2.151.22),” _Straits Times_, 2 August 1939, 4. (From NewspaperSG)
 
-[Dutch sailors see Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82). (1940, June 20). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+[Clergyman’s Tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28), _Straits Budget_, 8 February 1934, 8. (From NewspaperSG)
 
-[Furnishings set high standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390802-1.2.151.20). (1939, August 2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+“[Dangers Faced by Men of Merchant Navy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94),” _Straits Times_, 21 June 1941, 11. (From NewspaperSG)
 
-[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4). (1933, May 11). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+“[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82),” _Straits Times_, 20 June 1940, 12. (From NewspaperSG)
 
-[Housing conditions in the S. S.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360827-1.2.107) (1936, August 27). _The Straits Times_, p. 16. Retrieved from NewspaperSG.
+“[Furnishings Set High Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390802-1.2.151.20),” _Straits Times_, 2 August 1939, 4. (From NewspaperSG)
 
-[Impressive new building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109). (1935, September 5). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
+“[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4),” _Straits Times_, 11 May 1933, 3. (From NewspaperSG)
 
-[The men who helped to build the new Supreme Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390806-1.2.80). (1939, August 6). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
+“[Housing Conditions in the S. S.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360827-1.2.107),” _Straits Times_, 27 August 1936, 16. (From NewspaperSG)
 
-[Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91). (1936, April 21). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+“[Impressive New Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109),” _Straits Times_, 5 September 1935, 15. (From NewspaperSG)
 
-Moore, M. E. (2006). _[Eighty years: Caring for seafarers: The Singapore Branch of The Mission to Seafarers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881)_. Singapore: Singapore Branch of The Mission to Seafarers. Call no.: RSING 266.35957 MOO
+Mervyn E. Moore, [_Eighty Years: Caring for Seafarers: The Singapore Branch of The Mission to Seafarers_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881) (Singapore: Singapore Branch of The Mission to Seafarers, 2006). (Call no. RSING 266.35957 MOO)
 
-[Naval ratings on trip to Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400129-1.2.53). (1940, January 29). _The Straits Times_, p. 10. Retrieved from NewspaperSG.  
+“[Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91),” _Straits Times_, 21 April 1936, 12. (From NewspaperSG)
 
-[A new guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102). (1934, May 30). _The Straits Times_, p. 13. Retrieved from NewspaperSG.
+“[Notes of the Day – The Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370118-1.2.65),” _Straits Times_, 18 January 1937, 10. (From NewspaperSG)
 
-[Notes of the day – the Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370118-1.2.65). (1937, January 18). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+“[Notes of the Day – Willis’s Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41),” _Straits Times_, 17 January 1936, 10. (From NewspaperSG)
 
-[Notes of the day – Willis’s guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41). (1936, January 17). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+“[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85),” _Straits Times_, 24 January 1947, 5. (From NewspaperSG)
 
-[The seaman’s friend dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89). (1951, January 20). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+“[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227),” _Straits Times_, 10 April 1938, 32. (From NewspaperSG)
 
-[Seamen’s hostel is second home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85). (1947, January 24). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+“[Singapore Outing for Merchant Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87),” _Straits Times_, 8 April 1941, 12. (From NewspaperSG)
 
-[The sights — for seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76). (1949, April 7). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+“[S’pore Zoo Starts from Scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461020-1.2.61),” _Straits Times_, 20 October 1946, 5. (From NewspaperSG)
 
-[Singapore outing for merchant seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87). (1941, April 8). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+“[The Men Who Helped to Build the New Supreme Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390806-1.2.80),” _Straits Times_, 6 August 1939, 8. (From NewspaperSG)
 
-[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227). (1938, April 10). _The Straits Times_, p. 32. Retrieved from NewspaperSG.
+“[The Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89),” _Straits Times_, 20 January 1951, 5. (From NewspaperSG)
 
-[S’pore zoo starts from scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461020-1.2.61). (1946, October 20). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+&nbsp;“[The Sights — for Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76),” _Straits Times_, 7 April 1949, 7. (From NewspaperSG)
 
-[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76). (1936, November 25). _The Straits Times_, p. 13. Retrieved from NewspaperSG.
+“[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76),” _Straits Times_, 25 November 1936, 13. (From NewspaperSG)
 
-Willis, A. C. (1936). _[Willis’s Singapore guide](https://eresources.nlb.gov.sg/printheritage/detail/f605bb37-0e57-471e-bc20-0a8dc05cb3c9.aspx)_. Singapore: Alfred Charles Willis. Retrieved from BookSG; Call no.: RRARE 959.57 WIL
-
-Wong, A.Y. (1997, March 9). [Satay clubs in the past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+Wong Ah Yoke, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3),” _Straits Times_, 9 March 1997, 6. (From NewspaperSG)
 
 #### **NOTES**
 
@@ -182,62 +180,65 @@ Wong, A.Y. (1997, March 9). [Satay clubs in the past](http://eresources.nlb.gov.
 
 [^2]: The book was published in June, July and September of 1934
 
-[^3]: [Notes of the day – Willis’s guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41). (1936, January 17). _The Straits Times_, p. 10.
+[^3]:  “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).”
 
-[^4]: [A new guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102). (1934, May 30). _The Straits Times_, p. 13.
+[^4]:  “[New Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102).”
 
-[^5]: [Notes of the day – Willis’s guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41). (1936, January 17). _The Straits Times_, p. 10.
+[^5]: “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).”
 
 [^6]: It was renamed The Mission to Seafarers in 2001
 
-[^7]: [Moore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881), 2006, p. 2.
+[^7]: Moore, [_Eighty Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881), 2.
 
-[^8]: [Moore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881), 2006, p. 3.
+[^8]: Moore, [_Eighty Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881), 3.
 
-[^9]: [Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91). (1936, April 21). _The Straits Times_, p. 12.
+[^9]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).” &nbsp;
 
-[^10]: [Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91). (1936, April 21). _The Straits Times_, p. 12.
+[^10]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).” &nbsp;&nbsp;
 
-[^11]: [Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91). (1936, April 21). _The Straits Times_, p. 12.
+[^11]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).” &nbsp;
 
-[^12]: [Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4). (1933, May 11). _The Straits Times_, p. 3.
+[^12]: “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4).”
 
-[^13]: [Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227). (1938, April 10). _The Straits Times_, p. 32.
+[^13]: “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227).”
 
-[^14]: [Seamen’s hostel is second home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85). (1947, January 24). _The Straits Times_, p. 5.
+[^14]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
 
-[^15]: [Seamen’s hostel is second home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85). (1947, January 24). _The Straits Times_, p. 5.
+[^15]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
 
-[^16]: Rev A. V. Wardle as cited in [Dangers faced by men of Merchant Navy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94). (1941, June 21). _The Straits Times_, p. 11. Also detailed in [Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227). (1938, April 10). _The Straits Times_, p. 32.
+[^16]: Rev A. V. Wardle as cited in “[Dangers Faced by Men](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94)”; Also detailed in “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227).” &nbsp;
 
-[^17]: [Seamen’s hostel is second home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85). (1947, January 24). _The Straits Times_, p. 5.
+[^17]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
 
-[^18]: [Clergyman’s tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28). (1934, February 1). _The Straits Times_, p. 34.
+[^18]: “[Clergyman’s Tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28).” &nbsp;
 
-[^19]: [Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4). (1933, May 11). _The Straits Times_, p. 3.
+[^19]: “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4).”
 
-[^20]: [Dutch sailors see Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82). (1940, June 20). _The Straits Times_, p. 12.
+[^20]: “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82).” &nbsp;
 
-[^21]: [Notes of the day – Willis’s guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41). (1936, January 17). _The Straits Times_, p. 10.
+[^21]: “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).” &nbsp;
 
-[^22]: [Dutch sailors see Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82). (1940, June 20). _The Straits Times_, p. 12.
+[^22]: “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82).”
 
-[^23]: [Naval ratings on trip to Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400129-1.2.53). (1940, January 29). _The Straits Times_, p. 10 and [The seaman’s friend dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89). (1951, January 20)._The Straits Times_, p. 5.
+[^23]: “[Naval Ratings on Trip to Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400129-1.2.53)”; “[Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89).” 
 
-[^24]: [250 sailors go to Kota Tinggi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361118-1.2.67). (1936, November 18). _The Straits Times_, p. 12.
+[^24]: “[250 Sailors Go to Kota Tinggi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361118-1.2.67),” _Straits Times_, 18 November 1936, 12. (From NewspaperSG)
 
-[^25]: [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76). (1936, November 25). _The Straits Times_, p. 13.
+[^25]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76).” &nbsp;
 
-[^26]: [Singapore outing for merchant seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87). (1941, April 8). _The Straits Times_, p. 12.
+[^26]: “[Singapore Outing for Merchant Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87).”
 
-[^27]: Wong, Ah Yoke. (1997, March 9). [Satay clubs in the past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3). _The Straits Times_, p. 6.
+[^27]: Wong, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3).”
 
 [^28]: Satay hawkers were featured on local picture postcards since the early 1900s.
 
-[^29]: [Notes of the day – the Ponggol Zoo](Notes%20of%20the%20day%20–%20the%20Ponggol%20Zoo). (1937, January 18). _The Straits Times_, p. 10.
+[^29]: “[The Ponggol Zoo](Notes%20of%20the%20day%20–%20the%20Ponggol%20Zoo).” &nbsp;
 
-[^30]: [Impressive new building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109). (1935, September 5). _The Straits Times_, p. 15.
+[^30]: “[Impressive New Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109).” &nbsp;
 
-[^31]: [The sights — for seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76). (1949, April 7). _The Straits Times_, p. 7.
+[^31]: “[The Sights](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76).” &nbsp;
 
-[^32]: [The seaman’s friend dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89). (1951, January 20). _The Straits Times_, p. 5.
+[^32]: “[Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89).”
+
+
+
