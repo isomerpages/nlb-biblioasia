@@ -265,6 +265,3 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 [^40]: NAS, MBPI, no. 8 (1 October 1922), section 41. Emphasis added.
 
 [^41]: NAS, MBPI (1 April 1925), 22–25.
-
-
-
