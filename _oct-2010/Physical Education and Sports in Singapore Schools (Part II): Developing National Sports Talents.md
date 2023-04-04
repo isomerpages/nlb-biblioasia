@@ -6,7 +6,7 @@ description: "Librarian Wee Tong Bao traces the journeys that schools embarked
   upon to re-establish inter-school sporting events after World War II, and
   comments on the initial forays into the international sporting arena. "
 ---
-#### Librarian _Wee Tong Bao_ traces the journeys that schools embarked upon to re-establish inter-school sporting events after World War II, and comments on the initial forays into the international sporting arena.
+#### Librarian&nbsp;_Wee Tong Bao_&nbsp;traces the journeys that schools embarked upon to re-establish inter-school sporting events after World War II, and comments on the initial forays into the international sporting arena.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/Archery.jpg">
  <div style="background-color: white;">An archery competition for girls. <i>Ministry of Education, Annual Report, 1952.</i></div>
@@ -27,7 +27,7 @@ Outstanding students went on to pit their skills against the best on the interna
 
 The attainment of self-rule and independence also meant that a national curriculum for physical education that supported nation building was to become the central agenda. Just as technical education was promoted in schools to support the national industrialisation initiative, a structured physical education syllabus was conceived for the purpose of developing a robust nation.
 
-Examples of the national physical education syllabus that are available at the Lee Kong Chian Reference Library collection include *Free Hand Exercise for Primary Schools* (1961) and *Syllabus for Physical Education in Secondary Schools* (1961). In the latter publication, the introduction states “this is a syllabus of Physical Education common for Malay, Chinese, English and Tamil Secondary Schools in Singapore.” Such standardisation could also be observed in the *Syllabus & Guidelines for Physical Education Primary 1 and 2* (1971), Syllabus & Guidelines for *Physical Education Primary 3 and 4* (1971).
+Examples of the national physical education syllabus that are available at the Lee Kong Chian Reference Library collection include *Free Hand Exercise for Primary Schools* (1961) and *Syllabus for Physical Education in Secondary Schools* (1961). In the latter publication, the introduction states “this is a syllabus of Physical Education common for Malay, Chinese, English and Tamil Secondary Schools in Singapore.” Such standardisation could also be observed in the *Syllabus &amp; Guidelines for Physical Education Primary 1 and 2* (1971), Syllabus &amp; Guidelines for *Physical Education Primary 3 and 4* (1971).
 
 Training sessions and seminars were conducted to assist the teachers in keeping up with the latest syllabus. As two distinct language systems still existed in Singapore at that time, the Ministry of Education organised a “Chinese Schools Women Teachers Physical Education Training Class” in 1962 with the objective of standardising teaching in all primary schools. The first class saw a total of 500 teachers from 180 Chinese-medium schools participating (*Singapore Women Physical Education Teachers Society*, 1983, p. 29). At the suggestion of the then Minister for Education, Ong Pang Boon, to allow female teachers from non-Chinese-medium schools to benefit from such training as well, the organisation changed its name to the “Singapore Women Physical Education Teachers Society” in 1968.
 
@@ -40,7 +40,7 @@ This series of seminars led to the genesis of the Singapore Physical Education A
 The achievements in sports competitions and higher standards in physical education would not have been possible without the developments in the administrative structures. The English, Malay and Chinese Schools Sports Councils were already formed before World War II. On 20 May 1947, more than fifty representatives from various sporting associations in Singapore met to deliberate on the founding of a Singapore Olympic and Sports Council (SOSC) (*The Straits Times*, 21 May 1947, p. 8). The Singapore Olympic and Sports Council was officially formed on 27 May 1947 (“Olympic Council is Formed Today”, *The Straits Times*, 27 May 1947, p. 12). This was Singapore’s first step towards participating in the Olympics.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/Physical%20Fitness.jpg">
- <div style="background-color: white;">Guidelines for physical fitness scoring and award for primary, secondary & pre-university levels. <i>All rights reserved, Singapore Sports Council, 1981.</i></div>
+ <div style="background-color: white;">Guidelines for physical fitness scoring and award for primary, secondary &amp; pre-university levels. <i>All rights reserved, Singapore Sports Council, 1981.</i></div>
 
 In 1957, the Indian Schools Sports Council was finally established (AR, 1955—57, p. 34). Immediately, the Council planned the first Inter-Indian Schools Football Competition and the first Inter-Indian Schools Athletics Meet in 1958 (AR, 1957, p. 34). In November 1959, when the Education Advisory Council was set up (AR, 1959, p. 2), one of the standing committees formed was the Committee on Physical Education. Another milestone that occurred that year, was the founding of the Singapore Combined Schools Sports Council (SCSSC, Lembaga Sukan Sekolah-Sekolah Menengah Singapura) with Mr Joseph David, appointed as its first advisor (SSSC, *Celebrating*, p. 16).
 
@@ -61,12 +61,12 @@ In November 2000, the Taskforce submitted a concept paper, which recommended pro
 
 As far back as mid-2007, the Ministry of Community Development, Youth and Sports led the bid to host the first YOG. As the first Olympic games for youth athletics, it was pitched as a game “for young people, by young people” (Singapore 2010, vol. 1, p. 6). The concept that guided the design and implementation of the Games was to “stage a youth-focused Games that has Olympism at its heart, with integrated sport, educational and cultural programmes” (Singapore 2010, vol. 1, p. 3). The Games was not just for the participating youth athletes but youth in Singapore and other parts of the world (Singapore 2010, vol. 1, p. 4).
 
-After it was announced on 21 February 2008 that Singapore had won the bid to host the first YOG, the Ministry of Education came up with Resource Packs for primary schools, secondary schools and junior colleges. Titled *Living Olympism*, these were to "connect students to the Olympic movement". (*Living Olympism*, p. 1 & “Olympic Education Programme launched”, *The Straits Times*, 30 December 2008, p. B10).
+After it was announced on 21 February 2008 that Singapore had won the bid to host the first YOG, the Ministry of Education came up with Resource Packs for primary schools, secondary schools and junior colleges. Titled *Living Olympism*, these were to "connect students to the Olympic movement". (*Living Olympism*, p. 1 &amp; “Olympic Education Programme launched”, *The Straits Times*, 30 December 2008, p. B10).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/LivingOlympism.jpg">
  <div style="background-color: white;"><i>Living Olympism for Pre-University.</i> All rights reserved, Ministry of Education, 2008.</div>
 
-The objective of these resource packs was to help staff and students “in the study of the history, values and traditions related to the Olympic Games”. Each of these packs covered six areas, namely: History of the Olympic Movement; Olympism & Olympic Values; Well-being & Healthy Lifestyle; Social Responsibility, Involving Youth (Careers related to Sports); Sports Context (Career Management); and Risks in Sports. Some schools had in fact implemented their own Olympic education programmes even before the YOG bid was announced in July 2007 (“Getting schools involved”, *The Straits Times*, 24 Feb 2008, p. 38). This purpose of these educational programmes was to encourage fair play, integrity and team spirit.
+The objective of these resource packs was to help staff and students “in the study of the history, values and traditions related to the Olympic Games”. Each of these packs covered six areas, namely: History of the Olympic Movement; Olympism &amp; Olympic Values; Well-being &amp; Healthy Lifestyle; Social Responsibility, Involving Youth (Careers related to Sports); Sports Context (Career Management); and Risks in Sports. Some schools had in fact implemented their own Olympic education programmes even before the YOG bid was announced in July 2007 (“Getting schools involved”, *The Straits Times*, 24 Feb 2008, p. 38). This purpose of these educational programmes was to encourage fair play, integrity and team spirit.
 
 As part of the preparation for the YOG, MOE put in place initiatives for schools and students to get more involved with the event. Students were roped in as volunteers and buddies to the young athletes from the other countries. In addition, a “twinning programme”, where schools were paired up with all the 205 National Olympic Committees present was initiated (“Schools on track to ensure student support for YOG”, *The Straits Times*, 1 Feb 2010, p. B6).
 
@@ -87,103 +87,110 @@ s article.**
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Tong%20Bao%20.jpg" style="width: 100px; height: 100px;"/><center><b>Wee Tong Bao</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+<br>
+<img src="/images/Authors/Tong%20Bao%20.jpg" style="width: 100px; height: 100px;"><center><b>Wee Tong Bao</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 #### **REFERENCES**
 
-   
-Curriculum Planning & Development Division, Ministry of Education & Singapore Olympic Academy. (2008).    
+Bukit Timah District Primary Schools Sports Council 15th Annual Inter-District Athletic Championship Meet. (1974)
 
-     _[Living Olympism for primary schools](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185181)_. Singapore 2010 Youth Olympic Games.
+Curriculum Planning &amp; Development Division, Ministry of Education &amp; Singapore Olympic Academy, [_Living Olympism for Primary Schools_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185181) (Singapore: Curriculum Planning &amp; Development Division, Ministry of Education, 2008). (Call no. RSING 613.707105957 LIV)
 
-     _[Living Olympism for secondary schools](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185168)_. Singapore 2010 Youth Olympic Games.
+Curriculum Planning &amp; Development Division, Ministry of Education &amp; Singapore Olympic Academy, [_Living Olympism for Secondary Schools_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185168) (Singapore: Curriculum Planning &amp; Development Division, Ministry of Education, 2008). (Call no. RSING 613.707105957 LIV)
 
-     _[Living Olympism for pre-university](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185169)_. Singapore 2010 Youth Olympic Games.
+Curriculum Planning &amp; Development Division, Ministry of Education &amp; Singapore Olympic Academy, [_Living Olympism for Pre-University_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13185169) (Singapore: Curriculum Planning &amp; Development Division, Ministry of Education, 2008). (Call no. RSING 613.707105957 LIV)
 
-Singapore: Curriculum Planning & Development Division, Ministry of Education. (Call no.: RSING 613.707105957 LIV)
+Ministry of Education, Singapore, [_Annual Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326) (Singapore: Ministry of Education, 19--) (\*1954–56 reports published by Singapore. Department of Education. Reports also known by other titles) (Call no. RCLOS 370.95951 SIN; available on microfilms)
 
-Ministry of Education. (19—). _[Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326)_. Singapore. Ministry of Education. (\*1954—56 reports published by Singapore. Department of Education. Reports also known by other titles) (Call no.: RCLOS 370.95951 SIN; available on microfilms)
+Ministry of Education, Singapore, _Free Hand Exercise for Primary Schools_ (Singapore: Ministry of Education, 1961)
 
-Ministry of Education. (1961). _Free hand exercise for primary schools._ Singapore: Ministry of Education.
+Ministry of Education, Singapore, [_Physical Education: Syllabus. Primary 1–2_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619) (Singapore: Ministry of Education, 1971). (Call no. RSING 372.86 SMEPE)
 
-Ministry of Education. (1971). [_Physical education: Syllabus. Primary 1–2_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619)_._ Singapore: Ministry of Education. (Call no.: RSING 372.86 SMEPE)
+Ministry of Education, Singapore, [_Physical Education: Syllabus. Primary 3–4_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619) (Singapore: Ministry of Education, 1971). (Call no. RSING 372.86 SMEPE)
 
-Ministry of Education. (1971). [_Physical education: Syllabus. Primary 3–4_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619)_._ Singapore: Ministry of Education. (Call no.: RSING 372.86 SMEPE)
+Ministry of Education, Singapore, [_Physical Education: Syllabus. Primary 1–2_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619) (Singapore: Ministry of Education, 1971). (Call no. RSING 372.86 SMEPE)
 
-Ministry of Education. (1971). [_Physical education: Syllabus. Primary 1–2_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619)_._ Singapore: Ministry of Education. (Call no.: RSING 372.86 SMEPE)
+Ministry of Education, Singapore, [_Physical Education: Syllabus. Primary 3–4_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619) (Singapore: Ministry of Education, 1971). (Call no. RSING 372.86 SMEPE)
 
-Ministry of Education. (1971). [_Physical education: Syllabus. Primary 3–4_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053619)_._ Singapore: Ministry of Education. (Call no.: RSING 372.86 SMEPE)
+Ministry of Education, Singapore, [_Syllabus for Physical Education in Secondary Schools_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981219) (Singapore: G.P.O., 1961). (Call no. RCLOS 371.7323 SIN)
 
-Ministry of Education. (1961). [_Syllabus for physical education in secondary schools_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981219)_._ Singapore: G.P.O. (Call no.: RCLOS 371.7323 SIN)
+Singapore Catholic Secondary School 新加坡公教中学, _Xinjiapo gongjiao zhongxue yijiuliusan niandu zhong xiaoxue lianhe yundonghui zhixu ce_ 新加坡公 教中学一九六三年度中小学联合运动会秩 序册 \[Order Book of the 1963 Combined Primary and Secondary Sports Games of Singapore Catholic Secondary Schools\] (Xinjiapo 新加坡: Gongjiao zhongxue 公教中学, 1963)
 
-Singapore Physical Education Association. (1994–). [_SPEA news: A publication of the Singapore Physical Association_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7496641)_._ Singapore: The Association. (Call no.: RSING 613.70705957 SPEAN)
+Singapore Chongfu Love School (Student) Friendship Association 新加坡崇福爱同校(学)友会 , &nbsp;(1959). _Xinjiapo chong fu ai tong xiao (xue) you hui lianhe tiyu biaoyan dahui jinian tekan_ [新加坡崇福爱同校(学)友会联合体育表演大会纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12891818) \[Singapore Chongfu Ai School (Student) Friendship Association Joint Sports Performance Conference Commemorative Special Issue\] (Xinjiapo 新加坡: Xinjiapo Chong fu Ai tong xiao (xue) you hui&nbsp; 新加坡崇福爱同校(学)友会, 1959). (Call no. Chinese RCLOS 796.095957 XJP)
 
-Singapore Schools Sports Council. (2009). [_Celebrating 50 years of school sports_](13349298)_._ Singapore: Singapore Schools Sports Council. (Call no.: RSING 796.07105957 CEL)
+Singapore Combined Secondary Schools’ Sports Council 6th Annual Inter-District Athletic Championship Meet. (1965)
 
-Singapore Sports Council. (1981).
+Singapore Female Physical Education Teachers Association 新加坡女体育教师会, _Xinjiapo nu tiyu jiaoshi hui chuang hui nian nian_ 新加 坡女体育教师会创会廿年 \[The 20th anniversary of the founding of the Singapore Female Physical Education Teachers Association\] (Xinjiapo 新加坡: Nu ti yu jiaoshi hui女体育教师会, 1983)
 
-     _National physical fitness award (Primary): Your test of overall physical fitness._ Singapore:
+Singapore MCA Games 新加坡马华运动大会, _Di liu jie mahua yundong dahui_ 第六届 马华运动大会 \[The Sixth Malayan Chinese Athletic Championship Meeting, 1965). (Xinjiapo 新加坡: Mahua yundong dahui, 1965)
 
-    _National physical fitness award (Secondary & Pre-University): Your test of overall physical      
-    fitness._
+Singapore Physical Education Association, [_SPEA news: A Publication of the Singapore Physical Association_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7496641) (Singapore: Singapore Physical Education Association, 1994–). (Call no. RSING 613.70705957 SPEAN)
 
-Singapore: The Council.
+Singapore Schools Sports Council, [_Celebrating 50 Years of School Sports_](13349298) (Singapore: Singapore Schools Sports Council, 2009). (Call no. RSING 796.07105957 CEL)
 
-South-East Asia Peninsula Games. (1969). [_Fifth South-East Asia Peninsula games (SEAP games): Official report Rangoon 1969_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117316)_._ \[Rangoon: s.n.\]. (Call no.: RCLOS 796 SOU)
+Singapore Sports Council, _National Physical Fitness Award (Primary): Your Test of Overall Physical Fitness_ (Singapore: Sports Council, 1981)
 
-South East Asia Peninsula Games. (1973). _[7th SEAP Games \[information on events\]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5070321)_. Singapore: South East Asia Peninsula Games. (Call no.: RCLOS 796 SOU) (14 vols.)
+Singapore Sports Council, _National Physical Fitness Award (Secondary &amp; Pre-University): Your Test of Overall Physical Fitness._ (Singapore: Sports Council, 1981)
 
-South-East Asia Peninsula Games. (1973). [_Record of results_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982385). Singapore: South-East Asia Peninsula Games. (Call no.: RSING 796)
+South-East Asia Peninsula Games, [_Fifth South-East Asia Peninsula Games (SEAP Games): Official Report Rangoon 1969_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117316) (\[Rangoon: s.n.\], 1969). (Call no. RCLOS 796 SOU)
 
-Singapore Chongfu Love School (Student) Friendship Association 新加坡崇福爱同校(学)友会 . (1959). _Xinjiapo chong fu ai tong xiao (xue) you hui lianhe tiyu biaoyan dahui jinian tekan_ [新加坡崇福爱同校(学)友会联合体育表演大会纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12891818) \[Singapore Chongfu Ai School (Student) Friendship Association Joint Sports Performance Conference Commemorative Special Issue\] (Call no.: Chinese RCLOS 796.095957 XJP)
+South East Asia Peninsula Games, [_7th SEAP Games \[Information on Events\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5070321) (Singapore: South East Asia Peninsula Games, 1973). (Call no. RCLOS 796 SOU) (14 vols.)
 
-_Bukit Timah District Primary Schools Sports Council 15th annual inter-district athletic championship meet_. (1974).
+South-East Asia Peninsula Games, [_Record of Results_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982385) (Singapore: South-East Asia Peninsula Games, 1973). (Call no. RSING 796 SOU)
 
-_Singapore combined secondary schools’ sports council 6th annual inter-district athletic championship meet_. (1965).
+Victoria School Annual Athletic Sports. (1966).
 
-_Victoria school annual athletic sports_. (1966).
-
-立化.华义政府华文中学联合运动会 (1975).《立化.华义政府华文中学联合运 动会—第三届(立化第十五届、华义第十 八届)》. 新加坡《立化.华义政府华文中 学》
-
-新加坡公教中学 (1963). 《新加坡公 教中学一九六三年度中小学联合运动会秩 序册》. 新加坡: 公教中学.
-
-新加坡马华运动大会 (1965).《第六届 马华运动大会》(The Sixth Malayan Chinese Athletic Championship Meeting). 新加坡:马华运动大会.
-
-新加坡女体育教师会 (1983). 《新加 坡女体育教师会创会廿年》. 新加坡: 女体育教师会.
+立化, 华义政府华文中学联合运动会&nbsp; 华义政府华文中学联合运动会 (1975).《立化.华义政府华文中学联合运 动会—第三届(立化第十五届、华义第十 八届)》. 新加坡《立化.华义政府华文中 学》
 
 #### **NEWSPAPERS**
 
-Chan, T.C. (2001, July 2). [PM spells out 3 sports goals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010702-1.2.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+Carl Skadian, “[It’s Singapore 2010](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080222-1.2.2),” _Straits Times_, 24 February 2008, 1. (From NewspaperSG)
 
-Chan, T.C. (2001, July 2). [Paper chase: Flexibility yes, comprising quality, no](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010702-1.2.60.6). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+Chan Tse Chueen, “[PM Spells Out 3 Sports Goals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010702-1.2.2),” _Straits Times_, 2 July 2001, 1. (From NewspaperSG)
 
-Dorai, J., & M. Rahman. (1965, December 16). [Swim ‘golds’ for Tan and Pat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651216-1.2.119). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
+Chan Tse Chueen, [Paper Chase: Flexibility Yes, Comprising Quality, No](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010702-1.2.60.6),” _Straits Times_, 2 July 2001, 2. (From NewspaperSG)
 
-Emmanuel, F. (1965, December 17). [‘Golden Girl’ Patricia!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651217-1.2.123.1) _The Straits Times_, p. 24. Retrieved from NewspaperSG.
+F. Emmanuel, “[‘Golden Girl’ Patricia!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651217-1.2.123.1)” _Straits Times_, 17 December 1965, 24. (From NewspaperSG)
 
-Leow, S.W. & Tan, A. (2010, February 1). [Schools on track to ensure student support for YOG](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100201-2.2.27.10). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+Joe Dorai and M. Rahman, “[Swim ‘Golds’ for Tan and Pat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651216-1.2.119),” _Straits Times_, 16 December 1965, 24. (From NewspaperSG)
 
-Liaw, W-C. (2007, January 27). [School sports boost in new scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070127-1.2.67.10). (2007, January 27). _The Straits Times_, p. 60. Retrieved from NewspaperSG.
+Leow Si Wan and Amelia Tan, “[Schools on Track To Ensure Student Support for YOG](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100201-2.2.27.10),” _Straits Times_, 1 February 2010, 6. (From NewspaperSG)
 
-Lim, L. (2010, May 26). [Sports for youth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100526-1.2.53.2). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+Leonard Lim, “[Sports for Youth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100526-1.2.53.2),” _Straits Times_, 26 May 2010, 10. (From NewspaperSG)
 
-Lin, X., & Wong, D. (2008, December 30). [Olympic education programme launched](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20081230-1.2.37.9). _The Straits Times_, p. 30. Retrieved from NewspaperSG.
+Liaw Wy-Cin, “[School Sports Boost in New Scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070127-1.2.67.10),” _Straits Times_, 27 January 2007, 60. (From NewspaperSG)
 
-Skadian, C. (2008, February 24). [It’s Singapore 2010](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080222-1.2.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+Lin Xinyi and Daniel Wong, “[Olympic Education Programme Launched](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20081230-1.2.37.9),” _Straits Times_, 30 December 2008, 30. (From NewspaperSG)
 
-[Swimming programme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651215-1.2.100.5). (1965, December 15). _The Straits Times_, p. 23. Retrieved from NewspaperSG.
+&nbsp;“[Swimming Programme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651215-1.2.100.5),” _Straits Times_, 15 December 1965, 23. (From NewspaperSG)
 
-Teo, C.W. (2008, February 24). [Getting schools involved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080224-1.2.38.4). _The Straits Times_, p. 37. Retrieved from NewspaperSG.
+Teo Cheng Wee, “[Getting Schools Involved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080224-1.2.38.4),” _Straits Times_, 24 February 2008, 37. (From NewspaperSG)
 
-Yeo, S.L. (2010, March 17). [Sports school’s founding principal dies of cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100317-1.2.35.8). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+Yeo Shang Long, “[Sports School’s Founding Principal Dies of Cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100317-1.2.35.8),” _Straits Times_, 17 March 2010, 6. (From NewspaperSG)
 
 #### **WEBSITE**
 
-Youth Olympic Games bid book – Singapore 2010 candidature file, Volume 1 & 2.
+Youth Olympic Games Bid Book – Singapore 2010 candidature file, Volume 1 &amp; 2.
 
 #### **NOTES**
 
- [^1]: Singapore’s first involvement in the Olympics was in 1948 when, Lloyd Valberg, a 25-year old Eurasian represented Singapore in the long jump event (_[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480131-1.2.78)_, 31 Jan 1948, p. 11).
+[^1]: Singapore’s first involvement in the Olympics was in 1948 when, Lloyd Valberg, a 25-year old Eurasian represented Singapore in the long jump event (S. E. Nelson, “[Singapore's Olympic Hope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480131-1.2.78),” _Straits Times_, 31 January 1948, 11. (From NewspaperSG)
 
-[^2]: Singapore’s sports administration scene lost this visionary leader in Sports education on 16 March 2010. “[Sports School’s founding principal dies of cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100317-1.2.35.8)”, _The Straits Times_, 17 March 2010, p. 6.
+ [^2]: Singapore’s sports administration scene lost this visionary leader in Sports education on 16 March 2010. Yeo, “[Sports School’s Founding Principal Dies of Cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100317-1.2.35.8).”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

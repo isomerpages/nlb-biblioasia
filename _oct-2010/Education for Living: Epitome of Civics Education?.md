@@ -5,7 +5,7 @@ description: Lee Kong Chian Research Fellow Chia Yeow Tong examines the reasons
   for the emergence of Education for Living, regarded as the de facto civics
   education programme in 1970s Singapore, and why it was subsequently abandoned.
 ---
-#### Lee Kong Chian Research Fellow _Chia Yeow Tong_ examines the reasons for the emergence of Education for Living, regarded as the de facto civics education programme in 1970s Singapore, and why it was subsequently abandoned.
+#### Lee Kong Chian Research Fellow&nbsp;_Chia Yeow Tong_&nbsp;examines the reasons for the emergence of Education for Living, regarded as the de facto civics education programme in 1970s Singapore, and why it was subsequently abandoned.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/EducationLiving/20060000425-0011a.jpg">
  <div style="background-color: white;">Students of Tanjong Rhu Integrated primary school attending an Education for Living class, 1974. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
@@ -19,22 +19,22 @@ Developed for the purpose of imparting social and moral education, EFL integrate
 
 The objectives of EFL were as follows:
 
-&emsp;&emsp;To help pupils become aware of the purpose and<br>&emsp;&emsp;importance of nation building and their duties as<br>&emsp;&emsp;loyal, patriotic, responsible and law-abiding citizens.<br>
-&emsp;&emsp;To enable pupils to obtain a better understanding of<br> &emsp;&emsp;how \[Singapore\] developed and of \[its\] geographical<br>&emsp;&emsp;environment<br><br>&emsp;&emsp;To help pupils to understand and appreciate<br>&emsp;&emsp;the desirable elements of Eastern and Western<br>&emsp;&emsp;traditions<br><br>
-&emsp;&emsp;To guide pupils to perceive the relationship between<br>&emsp;&emsp;man and society and in turn, between society and<br>&emsp;&emsp;the world, so that they would be able to live in a<br>&emsp;&emsp;multi-racial and multi-cultural society in peace and<br>&emsp;&emsp;harmony. (Ong, 1979, p. 3)
+  To help pupils become aware of the purpose and<br>  importance of nation building and their duties as<br>  loyal, patriotic, responsible and law-abiding citizens.<br>
+  To enable pupils to obtain a better understanding of<br>   how \[Singapore\] developed and of \[its\] geographical<br>  environment<br><br>  To help pupils to understand and appreciate<br>  the desirable elements of Eastern and Western<br>  traditions<br><br>
+  To guide pupils to perceive the relationship between<br>  man and society and in turn, between society and<br>  the world, so that they would be able to live in a<br>  multi-racial and multi-cultural society in peace and<br>  harmony. (Ong, 1979, p. 3)
 
 It is interesting to note that while the EFL syllabus aimed to introduce students to the best of Eastern and Western values, there was to be a shift in orientation towards the end of the 1970s wherein the west was demonised and the east valorised.
 
 Like Civics, EFL was taught in the mother tongue. The government believed that “Asian moral and social values, and the attitudes such as closeness in family ties, filial duties and loyalty (could) be conveyed and understood better in Asian languages”, and that pupils would become more aware of their cultural roots and develop a stronger sense of nationhood “if they knew their own language” (Gopinathan, 1991, p. 279). Christine Han (1996) challenged this 
 assumption:
 
-&emsp;&emsp;The insistence for moral and civic values to be taught in
-<br>&emsp;&emsp;the mother tongue raises questions, first, as to whether
-<br>&emsp;&emsp;there is a necessary link between language and values
-<br>&emsp;&emsp;and, second, as to whether there is a conflict between
-<br>&emsp;&emsp;attempts to build a nation and the fostering of ethnic
-<br>&emsp;&emsp;culture and identity through an emphasis on ethnic values
-<br>&emsp;&emsp;and languages.[^1]
+  The insistence for moral and civic values to be taught in
+<br>  the mother tongue raises questions, first, as to whether
+<br>  there is a necessary link between language and values
+<br>  and, second, as to whether there is a conflict between
+<br>  attempts to build a nation and the fostering of ethnic
+<br>  culture and identity through an emphasis on ethnic values
+<br>  and languages.[^1]
 
 Introduced to all primary schools in 1974, the instructional materials for EFL came in the form of 12 textbooks, which worked out to two textbooks per grade level, with accompanying teacher’s guides. The themes covered in the syllabus included the following: our family, our life, our school, our culture, our environment, how our people earn a living, our public services, our (role) models, our society, our community, our country, our world, and our moral attitude. The chapters in the textbooks were written in the form of short passages, like previous civics textbooks, with questions for discussion at the end of each passage. Although the EFL syllabus was organised more systematically than the previous primary school civics syllabus, it covered most of the contents of the previous syllabus, including topics associated with history and geography.
 
@@ -42,13 +42,13 @@ Dr Lee Chiaw Meng, the Education Minister went to great lengths to explain why �
 
 It was clear that the MOE intended EFL to be the epitome of the civics curriculum. This was clearly indicated in the MOE’s Addendum to the Presidential Address at the opening of the Fourth Parliament:
 
-&emsp;&emsp;Moral and civics education is mainly taught through the
-<br>&emsp;&emsp;subject Education for Living (which is a combination of
-<br>&emsp;&emsp;Civics, History and Geography) in the pupils’ mother
-<br>&emsp;&emsp;tongue. The aim of the subject is to inculcate social
-<br>&emsp;&emsp;discipline and national identity and to imbue in pupils
-<br>&emsp;&emsp;moral and civic values (ibid., 36, 8 February 1977
-<br>&emsp;&emsp;: Col. 40).
+  Moral and civics education is mainly taught through the
+<br>  subject Education for Living (which is a combination of
+<br>  Civics, History and Geography) in the pupils’ mother
+<br>  tongue. The aim of the subject is to inculcate social
+<br>  discipline and national identity and to imbue in pupils
+<br>  moral and civic values (ibid., 36, 8 February 1977
+<br>  : Col. 40).
 
 The addendum conveniently ignored the presence of the existing civics syllabus for secondary schools, giving the impression that the subject was only taught at the primary level.
 
@@ -66,11 +66,11 @@ The criticisms of EFL by MPs were echoed by Leong in his study on youths in the 
 
 Leong’s criticisms of EFL found resonance with the report published by the Education Study team, more popularly known as the Goh Report, as the team was chaired by Dr Goh Keng Swee, then Deputy Prime Minister and Minister for Defence:
 
-&emsp;&emsp;Much of the material in the EFL text books, particularly<br>&emsp;&emsp;those for lower primary classes, are useful in<br>&emsp;&emsp;inculcating useful attitudes such as respect for honesty,<br>&emsp;&emsp;hard work, care for parents and so on. A good deal of it,<br>&emsp;&emsp;however, is irrelevant and useless. Subjects such as the use<br>&emsp;&emsp;of community centres, functions of government outpatient<br>&emsp;&emsp;clinics are of little value in inculcating moral beliefs<br>&emsp;&emsp;in children (Goh, 1979, I—5).
+  Much of the material in the EFL text books, particularly<br>  those for lower primary classes, are useful in<br>  inculcating useful attitudes such as respect for honesty,<br>  hard work, care for parents and so on. A good deal of it,<br>  however, is irrelevant and useless. Subjects such as the use<br>  of community centres, functions of government outpatient<br>  clinics are of little value in inculcating moral beliefs<br>  in children (Goh, 1979, I—5).
 
 The Goh Report’s observations on the secondary schools’ civics syllabus were even more scathing:
 
-&emsp;&emsp;Much of the material taught relates to information,<br>&emsp;&emsp;some useful, others of little permanent value. For<br>&emsp;&emsp;instance, it seems pointless to teach secondary school<br>&emsp;&emsp;children the details of the Republic’s constitution, much<br>&emsp;&emsp;of which is not even known to Members of Parliament. It<br>&emsp;&emsp;is better that children are taught simple ideas about what<br>&emsp;&emsp;a democratic state is, how it differs from other systems<br>&emsp;&emsp;of Government and what the rights and responsibilities of<br>&emsp;&emsp;citizens of a democratic state are (ibid.)
+  Much of the material taught relates to information,<br>  some useful, others of little permanent value. For<br>  instance, it seems pointless to teach secondary school<br>  children the details of the Republic’s constitution, much<br>  of which is not even known to Members of Parliament. It<br>  is better that children are taught simple ideas about what<br>  a democratic state is, how it differs from other systems<br>  of Government and what the rights and responsibilities of<br>  citizens of a democratic state are (ibid.)
 
 In 1978, the Prime Minister commissioned the Education Study Team to conduct a major review of the problems faced by Singapore's education system. A reading of Singapore’s Parliamentary Hansard in the 1970s revealed that many aspects of Singapore’s education system were heavily criticised by the MPs during the annual Committee of Supply debates — the criticisms of EFL were but one of many items over which the MPs took issue with the MOE. What prompted the review was the high drop-out rate following the implementation of mandatory bilingual education, which the Goh Report termed as “educational wastage”. The major recommendation of the study team was the streaming of students at the Primary Three level according to English language ability. This was to have major implications on Singapore’s educational landscape in the years to come. The resultant education structure was referred to as the “New Education System”.[^3]
 
@@ -81,7 +81,7 @@ While the Goh Report commented on EFL and the civics syllabus, the teaching of c
 
 In response to the Prime Minister’s concerns on moral education, in October 1978, the Deputy Prime Minister appointed Mr Ong Teng Cheong, the Minister for Communications and Acting Minister for Culture, to head a team of parliamentarians to “examine the existing moral education programme in schools” (Ong, 1979, p. i). The objectives of this Committee were as follows:
 
-&emsp;&emsp;To identify the weakness and strengths of the<br>&emsp;&emsp;existing moral education programmes in schools.<br><br>&emsp;&emsp;To make recommendations on the content of moral<br>&emsp;&emsp;education programmes and teaching methods to<br>&emsp;&emsp;be used in both primary and secondary schools.<br>&emsp;&emsp;To make recommendations on the selection of<br>&emsp;&emsp;suitable teachers to carry out moral instructions in<br>&emsp;&emsp;schools (ibid., p. 1).
+  To identify the weakness and strengths of the<br>  existing moral education programmes in schools.<br><br>  To make recommendations on the content of moral<br>  education programmes and teaching methods to<br>  be used in both primary and secondary schools.<br>  To make recommendations on the selection of<br>  suitable teachers to carry out moral instructions in<br>  schools (ibid., p. 1).
 
 Unlike the Education Study team, which had no terms of reference, the Moral Education Committee had specific guidelines. First, it had to determine the best ways in which to instill within students desirable moral values (honesty, industry, respect for family, cleanliness and thrift). Next, it had to reassess the existing Education for Living Program in primary schools and the Civics syllabus in secondary schools. The Committee also had to make recommendations on how to select teachers who could teach the moral education program in schools (ibid.). 
 
@@ -95,21 +95,21 @@ In July 1979, the Moral Education Committee released its report, popularly refer
 
 The Moral Education Committee found the EFL syllabus to be “on the whole quite appropriate and acceptable”, apart from these shortcomings:
 
-&emsp;&emsp;Since EFL combines the teaching of Civics, History and<br> &emsp;&emsp;Geography, some of the so-called social studies topics and<br>&emsp;&emsp;concepts such as the public services and the history<br>&emsp;&emsp;and geography of Singapore are irrelevant to moral instruction.<br><br>&emsp;&emsp;There is not sufficient emphasis on the more important<br>&emsp;&emsp;moral concepts and values.<br><br>&emsp;&emsp;Some of the moral concepts dealt with at the lower<br>&emsp;&emsp;primary level such as concepts of "love for the<br>&emsp;&emsp;school”, “service” and “duty”, are highly abstract and may<br>&emsp;&emsp;pose difficulties for the six-year olds conceptually.<br>&emsp;&emsp;They should be deferred to a later stage.
+  Since EFL combines the teaching of Civics, History and<br>   Geography, some of the so-called social studies topics and<br>  concepts such as the public services and the history<br>  and geography of Singapore are irrelevant to moral instruction.<br><br>  There is not sufficient emphasis on the more important<br>  moral concepts and values.<br><br>  Some of the moral concepts dealt with at the lower<br>  primary level such as concepts of "love for the<br>  school”, “service” and “duty”, are highly abstract and may<br>  pose difficulties for the six-year olds conceptually.<br>  They should be deferred to a later stage.
 
-&emsp;&emsp;It was also too early to introduce situations involving<br>&emsp;&emsp;moral conflict situations at the primary school level in the<br>&emsp;&emsp;manner adopted in the EFL textbooks. It will<br>&emsp;&emsp;probably be more effective to tell stories of<br>&emsp;&emsp;particular instances of moral conflicts with particular<br>&emsp;&emsp;solution or solutions, leaving generalisations to a later <br>&emsp;&emsp;stage in the child’s intellectual development (ibid.,<br>&emsp;&emsp;pp. 4—5).
+  It was also too early to introduce situations involving<br>  moral conflict situations at the primary school level in the<br>  manner adopted in the EFL textbooks. It will<br>  probably be more effective to tell stories of<br>  particular instances of moral conflicts with particular<br>  solution or solutions, leaving generalisations to a later <br>  stage in the child’s intellectual development (ibid.,<br>  pp. 4—5).
 
 With regard to the EFL textbooks, the committee found that at the lower primary level, EFL textbooks are adequate, although some lessons ought to be replaced with more suitable ones. In particular, more lessons in the form of traditional stories or well-known folk tales should be included in the text to convey the desired moral values and concepts. At the upper primary level, the textbooks are dull and unimaginative, and it is doubtful that they can arouse the interest of the pupils. The link between the moral concepts being conveyed and their relevance in terms of the pupils' experience is tenuous (ibid., p. 5).
 
 Like the Goh Report, the Ong Report was more critical of the secondary schools’ civics syllabus:
 
-&emsp;&emsp;It has insufficient content on the teaching of moral<br>&emsp;&emsp;values. It includes too many varied subjects which<br>&emsp;&emsp;have little or nothing to do with morality …<br> &emsp;&emsp;unnecessarily detailed descriptions of trivial topics<br>&emsp;&emsp;tend to take up an inordinate amount of time at<br>&emsp;&emsp;the expense of other more important areas … key<br>&emsp;&emsp;issues such as good citizenry, the need for national<br>&emsp;&emsp;service and the inculcation of desirable moral<br>&emsp;&emsp;values are not given sufficient coverage and emphasis.<br><br>&emsp;&emsp;The subjects and topics are repeated at each<br>&emsp;&emsp;level from secondary one to four without any substantial<br>&emsp;&emsp;changes or graduation of depth of treatment.<br>&emsp;&emsp;This makes the lessons uninteresting and boring … .<br><br>&emsp;&emsp;Some subjects are far too advanced and are<br>&emsp;&emsp;therefore beyond the comprehension of the<br>&emsp;&emsp;students, e.g. topics like the constitution, legislation<br>&emsp;&emsp;and international relations (which are introduced<br>&emsp;&emsp;as early as Secondary one and two) (ibid., p. 4).
+  It has insufficient content on the teaching of moral<br>  values. It includes too many varied subjects which<br>  have little or nothing to do with morality …<br>   unnecessarily detailed descriptions of trivial topics<br>  tend to take up an inordinate amount of time at<br>  the expense of other more important areas … key<br>  issues such as good citizenry, the need for national<br>  service and the inculcation of desirable moral<br>  values are not given sufficient coverage and emphasis.<br><br>  The subjects and topics are repeated at each<br>  level from secondary one to four without any substantial<br>  changes or graduation of depth of treatment.<br>  This makes the lessons uninteresting and boring … .<br><br>  Some subjects are far too advanced and are<br>  therefore beyond the comprehension of the<br>  students, e.g. topics like the constitution, legislation<br>  and international relations (which are introduced<br>  as early as Secondary one and two) (ibid., p. 4).
 
 As for the Civics textbooks, they were found to be “generally dull and somewhat factual and dogmatic … . There is also insufficient illustration of the desired moral values … through the use of stories … . Where this is done, it is … boring and unimaginative” (ibid., p. 5).
 
 In short, the Ong Report criticised “\[t\]he present moral education programme \[to be\] inadequate and ineffective, particularly in the case of the Civics programme in the secondary schools” (ibid., p. 8). The only saving grace lay with the objectives for EFL and Civics, which were deemed “appropriate and relevant” (ibid., p. 4). In the light of the strong criticisms from the Moral Education Committee, its recommendation came as no surprise:
 
-&emsp;&emsp;It is recommended that the present EFL and Civics<br>&emsp;&emsp;programme be scrapped and replaced by one single<br>&emsp;&emsp;programme covering both the primary and secondary<br>&emsp;&emsp;levels under the charge of a single subject standing<br>&emsp;&emsp;committee. The subject should be called “Moral Education”<br>&emsp;&emsp;and it should confine itself to moral<br>&emsp;&emsp;education and discipline training of the child (ibid., p. 8).
+  It is recommended that the present EFL and Civics<br>  programme be scrapped and replaced by one single<br>  programme covering both the primary and secondary<br>  levels under the charge of a single subject standing<br>  committee. The subject should be called “Moral Education”<br>  and it should confine itself to moral<br>  education and discipline training of the child (ibid., p. 8).
 
 Thereafter, the affective aspect of civics and citizenship would be imparted by moral education, while the more cognitive domains would be covered in social studies 
 and history.
@@ -124,39 +124,35 @@ Taiwan, in reviewing the paper.**
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Chia%20Yeow%20Tong_photo.jpg" style="width: 100px; height: 100px;"/><center><b>Chia Yeow Tong</b><br>Lee Kong Chian Research Fellow (2010)<br> National Library </center></div>
+<br>
+<img src="/images/Authors/Chia%20Yeow%20Tong_photo.jpg" style="width: 100px; height: 100px;"><center><b>Chia Yeow Tong</b><br>Lee Kong Chian Research Fellow (2010)<br> National Library </center></div>
 
 #### **REFERENCES**
-      
-Bokhorst-Heng, W.D. (1998). [_Language and imagining the nation in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12088159)_._ Toronto: University of Toronto. (Call no.: RSING 306.44095957 BOK)
 
-Chew, J.O.A. (1988). _Moral education in a Singapore secondary school_ \[Unpublished doctoral dissertation, Monash University\]
+Christine Mui Neo Han, “Education for Citizenship in a Plural Society: With Special Application to Singapore,” (PhD diss., Oxford University, 1996)
 
-Goh, K.S. & The Education Study Team. (1979). [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172)_._ Singapore: Ministry of Education. (Call no.: RSING 370.95957 SIN)
+Goh Keng Swee and The Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172) (Singapore: Ministry of Education, 1979). (Call no. RSING 370.95957 SIN)
 
-Gopinathan, S. (1991). Education. In E.C.T. Chew & E. Lee (Eds.), [_A history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5914108) (pp. 268—287). Oxford: Singapore University Press. (Call no.: RSING 959.57 HIS)
+Joy Ooni Ai Chew, _Moral Education in a Singapore Secondary School_ (Monash: Monash University, 1988)
 
-Han, C. (1996). _Education for citizenship in a plural society: With special application to Singapore_ \[Unpublished Doctoral dissertation, Oxford University\].
+Leong Choon Cheong, [_Youth in the Army_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081983) (Singapore: Federal Publications, 1978). (Call no. RSING 155.532095957 LEO)
 
-Leong, C.C. (1978). [_Youth in the army_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081983)_._ Singapore: Federal Publications. (Call no.: RSING 155.532095957 LEO)
+Ong Teng Cheong and \[the\] Moral Education Committee, [_Report on Moral Education 1979_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082117) (Singapore: Ministry of Education, 1979). (Call no. RSING 375.17 SIN)
 
-Ong, T.C. & Moral Education Committee. (1979). [_Report on moral education 1979_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082117)_._ Singapore: Ministry of Education. (Call no.: RSING 375.17 SIN)
+Parliament of Singapore, [_Parliamentary Debates: Official Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189) (Singapore: Government Printer, 1965–). (Call no. RSING 328.5957 SIN) (various volumes)
 
-Singapore. Parliament. (1965–). [_Parliamentary debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). Singapore: Government Printer. (Call no.: RSING 328.5957 SIN) (various volumes)
+S. Gopinathan, “Education,” in [_A History of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5914108), ed. Ernest C.T. Chew and Edwin Lee (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57 HIS)
 
-Soon, T.W. (1988). [_Singapore’s new education system: Education reform and national development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590421). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 370.95957 SOO)
+Soon Teck Wong, [_Singapore’s New Education System: Education Reform and National Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590421) (Singapore: Institute of Southeast Asian Studies, 1988). (Call no. RSING 370.95957 SOO)
 
+Wendy D. Bokhorst-Heng, [_Language and Imagining the Nation in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12088159) &nbsp;(Toronto: University of Toronto, 1998). (Call no. RSING 306.44095957 BOK)
+			
 #### **NOTES**
 
-   
-[^1]: This assumption continues to this day. See also [Bokhorst-Heng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12088159) (1998)
+[^1]: This assumption continues to this day. See also Bokhorst-Heng, [_Language and Imagining_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12088159).
 
 [^2]: Leong was examining the problems faced by the conscript soldiers, and found that the failure of bilingual education was one of the contributing factors. Leong’s criticism of EFL meant also that bilingual education was not working as well as it should.
 
-[^3]: For an explanation of streaming and the New Education System, see [Soon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590421) (1988).
-
-
-
+[^3]: For an explanation of streaming and the New Education System, see Soon, [_Singapore’s New Education System_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590421).
 
 

@@ -5,12 +5,11 @@ description: The opening up of Lim Chu Kang owes much to the efforts of Neo
   Tiew, who helped clear the land and later became the headman of the area.
 image: /images/Vol 19 Issue 1/Neo Tiew/Neo_Tiew.png
 ---
-
 #### The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 by Alvin Tan
 
 ![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png)
-<div style="background-color: white;">Neo Tiew with his medals, 1975. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
+<div style="background-color: white;">Neo Tiew with his medals, 1975.&nbsp;<i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 
 Neo Tiew Estate is a small housing estate in Lim Chu Kang.[^1] It consists of three low-rise blocks of vacant flats, a disused market and food centre, and an abandoned children’s playground. The residents were resettled in the late 1990s and early 2000s and the estate is now used for training by the Singapore Armed Forces.
 
@@ -20,7 +19,7 @@ Neo Tiew Estate is a small housing estate in Lim Chu Kang.[^1] It consists of th
 Neo Tiew Estate, and the nearby Neo Tiew Road, Neo Tiew Crescent and Neo Tiew Lanes 1, 2 and 3 are named after a remarkable man by the name of Neo Tiew (梁宙; 1884–1975).[^2] Neo played an instrumental role in the development of Lim Chu Kang. It is thanks to his energy and vision that the area was cleared and became used as farmland. While agriculture is no longer a large part of Singapore’s economy today, the Lim Chu Kang area has an important role to play in the country’s plans to become more self-sufficient in food. A century after Neo first began clearing the area, the impact of his work is still being felt.
 
 ![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Road.png)
-<div style="background-color: white;">Neo Tiew and the road named after him, 1975. <i>Image reproduced from 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (From National Library, Singapore, call no.: RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D).</i></div>
+<div style="background-color: white;">Neo Tiew and the road named after him, 1975.&nbsp;<i>Image reproduced from 新加坡宗乡会馆联合总会许云樵馆藏: 梁后宙生前照片 (From National Library, Singapore, call no.: RCLOS 305.8951 XJP-[HYT]; Accession no. B27705320D).</i></div>
 
 #### **A Meeting of Minds**
 
@@ -105,7 +104,7 @@ When the reporter reached into his pocket for his press card, Neo immediately gr
 
 Threats to his safety did not dilute Neo’s concern for the welfare of the villagers. He was called “The Big Boss” by residents, and was regarded with affection and admiration. Neo was someone they could turn to for help and advice.[^26] In November 1952, he donated a generator to provide Thong Hoe Village with basic electricity supply.[^27]
 
-Neo’s work and contributions were recognised when he was awarded a knighthood and admitted as a Member of the Most Excellent Order of the British Empire (MBE) by Queen Elizabeth II in June 1954.[^28] Neo Tiew Road was also named in his honour.[^29]
+Neo’s work and contributions were recognised when he was admitted as a Member of the Most Excellent Order of the British Empire (MBE) by Queen Elizabeth II in June 1954.[^28] Neo Tiew Road was also named in his honour.[^29]
 
 ![](/images/Vol%2019%20Issue%201/Neo%20Tiew/Elizabeth_the_Second.png)
 <div style="background-color: white;">Medal with the accompanying certificate for the Most Excellent Order of the British Empire (MBE) awarded by Queen Elizabeth II to Neo Tiew, 1954. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Neo Ah Chap.
@@ -150,20 +149,17 @@ In October 2020, the Singapore Food Agency announced that Lim Chu Kang would be 
 <b>NEO TIEW'S PHOTOGRAPHS AND PERSONAL DOCUMENTS</b><br><br>
 The National Library of Singapore’s Peng Lee Er Collection, Hsu Yun Tsiao Collection and Singapore Lam Ann Association Collection contain photographs and personal documents relating to Neo Tiew. These include photographs of the medals and certificates of honour awarded to Neo by the Chinese Kuomintang government and the British colonial government for his help defending Singapore during World War II and the Malayan Emergency as well as his contributions in developing Lim Chu Kang.
 <br><br>
-<img
-src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Medals_and_Certificates_2.png">
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Medals_and_Certificates_2.png">
 <div>Neo Tiew with his medals and certificates of honour, 1975. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 <br>
 There are also photographs of the scenery and amenities in Lim Chu Kang such as Kay Wah School (now Qihua Primary School) and the Nam Hoe provision shop. Other photographs include those of Neo’s family and friends, his funeral in 1975 and the epitaph presented to him in 1946 by the Kuomintang government in memory of the massacre of 35 of his family members during the Japanese Occupation.
 <br><br>
-<img
-src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends_2.png">
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew_Friends_2.png">
 <div>Mrs Neo Tiew (2nd from left), Neo Tiew (3rd from left), and their good friends, Mr and Mrs Peng Song Toh (undated). Peng Song Toh was a famous journalist and editor of several Chinese newspapers, including the <i>Nanyang Siang Pau</i>, from the 1950s to the 1970s. In 2021, Mdm Peng Lee Er, the daughter of Peng Song Toh, donated her father’s collection of items relating to Neo Tiew to the National Library. <i>Image reproduced from 彭丽儿珍藏: 梁后宙生前照片、底片和治丧文件 (From National Library, Singapore, call no.: RCLOS 305.8951 PLE; Accession no. B29487728C).</i></div>
 <br>
 A letter written by Neo to the Chinese Chamber of Commerce during the exhumation of war victims in Singapore in 1962 describes the torture and killing of his family members.
 <br><br>
-<img
-src="/images/Vol%2019%20Issue%201/Neo%20Tiew/combined%20letters.png">
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/combined%20letters.png">
 <div>The letter written by Neo Tiew to the Singapore Chinese Chamber of Commerce during the exhumation of war victims in Singapore on 24 March 1962, which describes the torture and killing of 35 of his family members. The letter was addressed to Ng Aik Huan, who headed the Disposal of Remains Committee established by the chamber to locate, exhume and rebury the remains of war victims. <i>Image reproduced from 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (From National Library, Singapore, call no. Lee Kong Chian Reference Library level 11, RCLOS 959.5703 XJP).</i></div>
 <br>
 Readers can make a request to view the following materials from the Reference Counter at Level 11 of the Lee Kong Chian Reference Library, National Library Building.
@@ -174,7 +170,7 @@ Readers can make a request to view the following materials from the Reference Co
 * 新加坡南安会馆珍藏: 新加坡中华总商会鸣冤委员会文件及其他信件 (Call no. RCLOS 959.5703 XJP; Accession no. B32427<br>
 </div>
 <div style="background-color: white;"> 
-<br/>
+<br>
 <b>Alvin Tan</b> is an independent researcher and writer focusing on
 Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
 
