@@ -6,7 +6,6 @@ description: While Portugal may not have had a large presence in this region,
   than others.
 image: /images/Vol 19 Issue 1/Portuguese/People_in_village.png
 ---
-
 #### While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others.
 By João Oliveira
 
@@ -80,9 +79,9 @@ Among those who remained, Kristang continued to decline in the face of other lan
 
 In 2004, Valerie Scully and Catherine Zuzarte published a Kristang dictionary in Singapore because they wanted to “to help all those interested in this fascinating language learn more about it, and thereby remember our roots”. Interestingly, in their acknowledgements, they noted that, as children, they had been “discouraged from using Kristang for fear that we would not be able to master the English language that was taught in schools”.[^14]
 
-To give a flavour of the language, the dictionary contains poems, songs and prayers. The Lord’s Prayer in Kristang goes:
+To give a flavour of the language, the dictionary contains poems, songs and prayers.&nbsp;The Lord’s Prayer in Kristang goes:
 
-Nos sa Pai ki teng na seu,
+<i>Nos sa Pai ki teng na seu,
 <br>
 Santah fikadu bos sa nomi,
 <br>
@@ -96,15 +95,15 @@ Dah nos sa pang di kada dia.
 <br>
 Peduah nos sa pekadu,
 <br>
-Asi nos peduah nos sa inimigu.
+Asi nos peduah&nbsp;nos sa inimigu.
 <br>
 Nang desah nos teng mal intentasang,
 <br>
-Mas librah kon nos di tudu mal, Amen.[^15]
+Mas librah kon nos di tudu mal, Amen.</i>[^15]
 
-A comparison with the prayer in modern Portuguese shows distinct similarities:
+A comparison with the prayer in modern&nbsp;Portuguese&nbsp;shows distinct similarities:
 
-Pai nosso, que estais no céu,
+<i>Pai nosso, que estais no céu,
 <br>
 Santificado seja o Vosso nome.
 <br>
@@ -122,7 +121,7 @@ Assim como nós perdoamos a quem nos tem ofendido.
 <br>
 Não nos deixeis cair em tentação,
 <br>
-Mas livrai-nos do mal, Amén.
+Mas livrai-nos do mal, Amén.</i>
 
 ![](/images/Vol%2019%20Issue%201/Portuguese/Eurasian%20Association%20Contingent%20at%20Chingay%20Parade%202010-crop.jpg)
 
@@ -176,8 +175,8 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2019%20Issue%201/Authors/Joao_Oliveira.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol%2019%20Issue%201/Authors/Joao_Oliveira.png" style="width: 100px; height: 100px;">
 <b>Dr João Oliveira</b> is a linguist and an academic in the field of cultural studies, focusing on Asian languages, narratives and religions.</div>
 
 #### **NOTES**
@@ -194,23 +193,23 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^6]: Ronald Daus, [<i>Portuguese Eurasian Communities in Southeast Asia</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5196987) (Singapore: Institute of Southeast Asian Studies, 1989). (From National Library, Singapore, call no. RSING 305.869059 DAU); John Byrne, “The Luso-Asians and Other Eurasians: Their Domestic and Diasporic Identities,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 1, The Making of the Luso-Asian World: Intricacies of Engagement</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14267679), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2011). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
-[^7]: Hugo Cardoso, “O Português em Contacto na Ásia e no Pacífico,” in *Manual de Linguística Portuguesa*, ed. Ana Maria Martins and Ernestina Carrilho (Berlin: De Gruyter, 2016), https://library.oapen.org/handle/20.500.12657/23870; Hugo Cardoso, “Contact and Portuguese-Lexified Creoles,” in *The Handbook of Language Contact*, 2nd ed., ed. Raymond Hickey (Hoboken: John Wiley & Sons, 2020), https://www.wiley.com/en-sg/The+Handbook+of+Language+Contact%2C+ 2nd+Edition-p-9781119485056.
+[^7]: Hugo Cardoso, “O Português em Contacto na Ásia e no Pacífico,” in *Manual de Linguística Portuguesa*, ed. Ana Maria Martins and Ernestina Carrilho (Berlin: De Gruyter, 2016), https://library.oapen.org/handle/20.500.12657/23870; Hugo Cardoso, “Contact and Portuguese-Lexified Creoles,” in *The Handbook of Language Contact*, 2nd ed., ed. Raymond Hickey (Hoboken: John Wiley &amp; Sons, 2020), https://www.wiley.com/en-sg/The+Handbook+of+Language+Contact%2C+ 2nd+Edition-p-9781119485056.
 
-[^8]: Stefanie Pillai, Wen-Yi Soh and Angela S. Kajita, “Family Language Policy and Heritage Language Maintenance of Malacca Portuguese Creole,” *Language & Communication* 37 (July 2014): 75–87, ScienceDirect, https://doi.org/10.1016/j.langcom.2013.12.003.
+[^8]: Stefanie Pillai, Wen-Yi Soh and Angela S. Kajita, “Family Language Policy and Heritage Language Maintenance of Malacca Portuguese Creole,” *Language &amp; Communication* 37 (July 2014): 75–87, ScienceDirect, https://doi.org/10.1016/j.langcom.2013.12.003.
 
 [^9]: Margaret Sarkissian, *D’Alburquerque’s Children: Performing Tradition in Malaysia’s Portuguese Settlement* (Chicago: The University of Chicago Press, 2000), https://press.uchicago.edu/ucp/books/book/chicago/D/bo3623368.html.
 
 [^10]: Alan N. Baxter, *A Grammar of Kristang (Malacca Creole Portuguese)* (Camberra: The Australian National University, 1988), Hathi Trust Digital Library, https://catalog.hathitrust.org/Record/007130472; Alan N. Baxter and Patrick de Silva, [<i>A Dictionary of Kristang (Malacca Creole Portuguese): With an English-Kristang Finderlist</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12761651) (Canberra: Pacific Linguistics, 2004). (From National Library, Singapore, call no. RSEA 469.79321 BAX)
 
-[^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+[^11]: Dennis De Witt, “Enemies, Friends, and Relations: Portuguese Eurasians During Malacca’s Dutch Era and Beyond,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities &amp; Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
 [^12]: Ian Burnet, [<i>Archipelago: A Journey Across Indonesia</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202205339) (Kenthurst, NSW: Rosenberg Publishing Pty Ltd, 2015), 29–30. (From National Library, Singapore, call no. RSEA 959.804 BUR)
 
-[^13]: Kevin Martens Wong, “Kodrah Kristang: The Initiative to Revitalize the Kristang Language in Singapore,” *Language Documentation & Conservation Special Publication*, no. 19 (December 2019): 35–121, https://scholarspace.manoa.hawaii.edu/bitstream/10125/24906/1/ldc-sp19-wong.pdf. See also Kodrah Kristang facebook, accessed 5 December 2022, https://www.facebook.com/kodrahkristang/; Keep Kristang Alive facebook, accessed 5 December 2022, https://www.facebook.com/KristangKL/; and Yo Falah Linggu Kristang, accessed 5 December 2022, https://www.facebook.com/yofalah.linggukristang.
+[^13]: Kevin Martens Wong, “Kodrah Kristang: The Initiative to Revitalize the Kristang Language in Singapore,” *Language Documentation &amp; Conservation Special Publication*, no. 19 (December 2019): 35–121, https://scholarspace.manoa.hawaii.edu/bitstream/10125/24906/1/ldc-sp19-wong.pdf. See also Kodrah Kristang facebook, accessed 5 December 2022, https://www.facebook.com/kodrahkristang/; Keep Kristang Alive facebook, accessed 5 December 2022, https://www.facebook.com/KristangKL/; and Yo Falah Linggu Kristang, accessed 5 December 2022, https://www.facebook.com/yofalah.linggukristang.
 
 [^14]: Valerie Scully and Catherine Zuzarte, [<i>The Most Comprehensive Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12264507) (Singapore: SNP International, 2004). (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
-[^15]: Valerie Scully and Catherine Zuzarte, [<i>The Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202923102), 2nd ed. (Singapore: Straits Times Press, 2017), 34. (From National Library, Singapore, call no. RSING 306.0890403 SCU)
+[^15]: Valerie Scully and Catherine Zuzarte,&nbsp;[<i>The Eurasian Heritage Dictionary: Kristang-English, English-Kristang</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202923102), 2nd ed.&nbsp;(Singapore:&nbsp;Straits Times Press, 2017), 34. (From National Library, Singapore, call no. RSING 306.0890403 SCU)
 
 [^16]: Philippe Maurer, [<i>The Former Portuguese Creole of Batavia and Tugu (Indonesia)</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14495821) (London: Battlebridge Publications, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU); Raan-Hann Tan, *Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia* (PhD diss., Instituto Universitário de Lisboa, 2016).
 
@@ -220,9 +219,9 @@ Like all other European colonial conquests, the Portuguese venture into Southeas
 
 [^19]: Alan N. Baxter, “Notes on the Creole Portuguese of Bidau, East Timor,” *Journal of Pidgins and Creole Languages* 5, no. 1 (1990): 1–38, John Benjamins e-Platform, https://doi.org/10.1075/jpcl.5.1.02bax.
 
-[^20]: Rita Bernardes de Carvalho, “A ‘Snapshot’ of a Portuguese Community in Southeast Asia: The Bandel of Siam, 1684–86,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+[^20]: Rita Bernardes de Carvalho, “A ‘Snapshot’ of a Portuguese Community in Southeast Asia: The Bandel of Siam, 1684–86,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities &amp; Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
-[^21]: Vicente Paulino, “Remembering the Portuguese Presence in Timor and Its Contribution to the Making of Timor’s National and Cultural Identity,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities & Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
+[^21]: Vicente Paulino, “Remembering the Portuguese Presence in Timor and Its Contribution to the Making of Timor’s National and Cultural Identity,” in [<i>Portuguese and Luso-Asian Legacies in Southeast Asia, 1511–2011, Vol. 2, Culture and Identity in the Luso-Asian World: Tenacities &amp; Plasticities</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14332048), ed. Laura Jarnagin (Singapore: Institute of Southeast Asian Studies, 2012). (From National Library, Singapore, call no. RSING 305.869105 POR)
 
 [^22]: Zuzana Greksásová, *Tetun in Timor-Leste: The Role of Language Contact in Its Development* (PhD diss., Universidade de Coimbra, 2018).
 
