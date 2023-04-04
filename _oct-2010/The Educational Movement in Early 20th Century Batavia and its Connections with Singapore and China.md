@@ -246,107 +246,25 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
  [^31]: Lee Ting Hui, “Proceedings of the Legislative Council of the Straits Settlements 1920,” B78–79.
 
-32 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255. Emphasis added.
+ [^32]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255. Emphasis added.
 
-33 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255.
+ [^33]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255.
 
-34 Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 431.
+ [^34]: Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 431.
 
-35 This report also contained information about punishments by the Siamese government. Dutch and Siamese governments punished 52 Chinese instructors, out of which 19 instructors were penalised by the Siamese government. Generally speaking, Siamese punishments were more severe than Dutch punishments. See huaqiao xuexiao zhiyuan chujing ji beibubiao in [_Nanyang huaqiao xuexiao zhi diaocha yu tongji_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), ed. Qian He. Shanghai: Shanghai Dahua yinshua gongsi, 1930. Call no.: Chinese RDYTS 370.959 CNH
+ [^35]: This report also contained information about punishments by the Siamese government. Dutch and Siamese governments punished 52 Chinese instructors, out of which 19 instructors were penalised by the Siamese government. Generally speaking, Siamese punishments were more severe than Dutch punishments. See huaqiao xuexiao zhiyuan chujing ji beibubiao in [_Nanyang huaqiao xuexiao zhi diaocha yu tongji_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), ed. Qian He. Shanghai: Shanghai Dahua yinshua gongsi, 1930. Call no.: Chinese RDYTS 370.959 CNH
 
-36 This fascinating list releases names of detainees and “colonial violators”. It also reveals the names of schools where these instructors were employed, their punishments, and reasons and dates for punishment. [_Nanyang huaqiao xuexiao zhi diaocha yu tongji_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), ed. Qian He (Shanghai: Shanghai Dahua yinshua gongsi, 1930) (Call no. Chinese RDYTS 370.959 CNH)
+ [^36]: This fascinating list releases names of detainees and “colonial violators”. It also reveals the names of schools where these instructors were employed, their punishments, and reasons and dates for punishment. [_Nanyang huaqiao xuexiao zhi diaocha yu tongji_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), ed. Qian He (Shanghai: Shanghai Dahua yinshua gongsi, 1930) (Call no. Chinese RDYTS 370.959 CNH)
 
-37 Cai Yuan Pei, 國立暨南學校改革計劃 意見晝. Minguo 16 (1927). Shanghai Archives #Q240–1–270 (7)
-
-38 Cai, 1927. All translations are mine unless otherwise noted.
-
-39 NAS, _MBP_I (1 April 1925), 22–25.
-
-40 NAS, _MBPI_, no. 8 (1 October 1922), section 41. Emphasis added.
-
-41 NAS, _MBPI_ (1 April 1925), 22–25.
-
-
-
-
-[^1]: NAS, _MBPI_, (1922, October 1), section 41.
-
-[^2]: L.H.W. van Sandick, [_Chineezen Buiten China: hunne beteekenis voor de ontwikkeling van Zuid-Oost-Azie, special van Nederlandsch-Indie_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918) (‘s-Gravenhage: Van der Beek, 1909), p. 255. Call no.: RSEA 959.8004951 SAN. All translations are mine unless otherwise noted.
-
-[^3]: “Chinese Schools in Java”, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol 10, no. 2 June 1906, p. 100.
-
-[^4]: “Our Batavia Letter”, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 22, June 1902, p. 88; “THHK” school, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 24, December 1902, p. 168.
-
-[^5]: See for instance; Kwee Tek Hoay, [_The origins of the modern Chinese movement in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984) (Ithaca, NY: Cornell Southeast Asia Program, 1969). Call no: RCLOS 301.4519510598 KWE; Charles A. Coppel, [_Studying ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046) (Singapore: Singapore Society of Asian Studies, 2002). Call no.: RCLOS 305.89510598 COP
-
-[^6]: This is based on primary sources I used. See for instance, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), “Chinese Schools in Java”, Vol 10, no. 2 June 1906, p. 100. The article states: “The Dutch Government has been advised to grant the Chinese the privilege of forming literary societies. Their purpose is to collect funds and to bring the blessings of education within the reach of every Chinese childe, male, or female.”
-
-[^7]: Lea E. Williams, [_Overseas Chinese nationalism; the genesis of the PanChinese movement in Indonesia, 1900—1916_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336) (Glencoe: Ill., Free press, 1960). Call no.: RDTYS 325.25109598 WIL
-
-[^8]: Mr P.H. Fromberg, [_De Chineesche beweging op Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123772) (Amsterdam: Elsevier, 1911), pp. 1—65. Call no.: RSEA 301.45195105 FRO
-
-[^9]: [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), June 1906, p. 100.
-
-[^10]: Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaya, 1899—1911”, _Journal of Southeast Asian Studies_, Vol. 7, No. 1 (Mar., 1976), pp. 33—57. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Song Ong Siang, [_One hundred years’ history of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335) (Singapore: University Malaya Press), pp. 235—236 Call no: RCLOS 959.57 SON
-
-[^11]: Ming Govaars-Tjia, [_Dutch colonial education: the Chinese experience in Indonesia, 1900–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915) (Singapore: Chinese Heritage Centre, 2005), p. 55
-
-[^12]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 251.
-
-[^13]: “Our Batavia Letter” (written on 14 March 1902), [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 21 March 1902, p. 53.
-
-[^14]: Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, p. 1; [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 21 March 1902, p. 53; “Lee Teng Hui, 1872—1947” _Shijie Huaqiao Huaren Cidian_ (Beijing: Beijing University Press, 1990), p. 377; &nbsp;Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”, _Lianhe zaobao_, 19 June 2008, p. 5; “[Lee who? A Chinese intellectual worthy of study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13)”, in _The Straits Times_, 22 June 2008, p. 32.
-
-[^15]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 252.
-
-[^16]: Before the opening of its school, The Straits Chinese Magazine announced that THHK-school would be offering Dutch language courses. After its establishment THHK decided to offer English courses instead of Dutch. See: [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 4, No. 16, December 1900; Vol. 6, No. 21 March 1902.
-
-[^17]: [Fromberg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 1926, p. 424.
-
-[^18]: 邢济众, [暨南大学百年华诞, 新加坡校友会六十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292), 2006, p. 1.
-
-[^19]: Ma Xingzhong, “暨南大学與新加坡” (Jinan University and Singapore)” in 新加 坡暨南校友会出版委员会 ed. [暨南大学 百年华诞, 新加坡校友会六十五周年纪 念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292), 2006, pp. 30—33 Call no.: Chinese RSING 378.51 JND
-
-[^20]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 251.
-
-[^21]: “Our Java Letter”, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 11, No. 1, March 1907, p. 34.
-
-[^22]: [Fromberg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 1926, p. 425.
-
-[^23]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 252.
-
-[^24]: For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in _[Chinese among others: Emigration in Modern Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)_ (Lanham: Rowman &amp; Littlefield, 2008) pp. 241— 243. Call no.: RSEA 304.80951 KUH
-
-[^25]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, pp. 252–253.
-
-[^26]: On 5 October 1908, 38 other boys from several schools in Java went to Nanjing. In 1909, the number of students from Java since the first dispatching to Jinan totalled 111. See [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, pp. 252–254; [Ma Xingzhong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292), 2006, pp. 30—33.
-
-[^27]: Lee Kong Chian: Entrepreneur, philanthropist, educator. He was head of Singapore ‘Zhonghua zhongshanghui’ (in Chinese) and head of ‘Xingma zhonghua Shanghui lianhehui’ (In Chinese). He was founder of certain Huaqiao schools and hospitals in Singapore. In the 1930s when Tan Kah Kee’s experienced difficulties in his business. Lee Kong Chian donated money to Xiamen University. In the 1930s–40s, Lee also established many primary schools and Guoguang High School in his home province, Fujian. He established the Lee Foundation that supports education.
-
-[^28]: Yuan Shikai, president of republican China at the time was reluctant to re-open the school out of fear that the Guomindang opposition would thrive at Jinan where most students had participated in the 1911 Revolution. Lee Ting Hui, _[Chinese schools in British Malaya: policies and politics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648)_ (Singapore: South Seas Society, 2006), p. 28. Call no.: RSING 371.82995105951 LEE
-
-[^29]: Liu Shimu (preface), (Jinan University, 1930), _[Nanyang Huaqiao xuexiao zhi diaocha yu tongji](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265)_ (Qian He ed), pp. 1–3; Qian He (ed.), _[Nanyang Huaqiao xuexiao zhi diaocha yu tongji](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265)_, pp. 3; 570–571. Call no.: Chinese RDTYS 370.959 CNH
-
-[^30]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), 1930, pp. 1–3.
-
-[^31]: Lee Ting Hui, “Proceedings of the Legislative Council of the Straits Settlements 1920,” pp. B78–79.
-
-[^32]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 255. Emphasis added.
-
-[^33]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 255.
-
-[^34]: [Fromberg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 1926, p. 431.
-
-[^35]: This report also contained information about punishments by the Siamese government. Dutch and Siamese governments punished 52 Chinese instructors, out of which 19 instructors were penalised by the Siamese government. Generally speaking, Siamese punishments were more severe than Dutch punishments. See huaqiao xuexiao zhiyuan chujing ji beibubiao in _[Nanyang huaqiao xuexiao zhi diaocha yu tongji](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265)_, ed. Qian He. Shanghai: Shanghai Dahua yinshua gongsi, 1930. Call no.: Chinese RDYTS 370.959 CNH
-
-[^36]: This fascinating list releases names of detainees and “colonial violators”. It also reveals the names of schools where these instructors were employed, their punishments, and reasons and dates for punishment. _[Nanyang huaqiao xuexiao zhi diaocha yu tongji](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265)_, ed. Qian He. Shanghai: Shanghai Dahua yinshua gongsi, 1930. Call no.: Chinese RDYTS 370.959 CNH
-
-[^37]: Cai Yuan Pei, 國立暨南學校改革計劃 意見晝. Minguo 16 (1927). Shanghai Archives #Q240—1—270 (7)
+[^37]: Cai Yuan Pei, 國立暨南學校改革計劃 意見晝. Minguo 16 (1927). Shanghai Archives #Q240–1–270 (7)
 
 [^38]: Cai, 1927. All translations are mine unless otherwise noted.
 
-[^39]: NAS, _MBP_I (1 April 1925), pp. 22—25.
+[^39]: NAS, MBPI (1 April 1925), 22–25. 
 
-[^40]: NAS, _MBPI_, no. 8 (1 October 1922), section 41. Emphasis added.
+[^40]: NAS, MBPI, no. 8 (1 October 1922), section 41. Emphasis added.
 
-[^41]: NAS, _MBPI_ (1 April 1925), pp. 22—25.
+[^41]: NAS, MBPI (1 April 1925), 22–25.
+
+
+
