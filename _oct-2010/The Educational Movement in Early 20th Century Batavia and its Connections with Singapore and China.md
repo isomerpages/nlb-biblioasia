@@ -8,9 +8,9 @@ description: "Lee Kong Chian Research Fellow Oiyan Liu explores how movements of
   educational exchanges mutually shaped the political visions of diasporic
   Chinese. "
 ---
-#### Lee Kong Chian Research Fellow _Oiyan Liu_ explores how movements of people, their thoughts and activities across Dutch-ruled Batavia, British-ruled Singapore and China were related to one another and how educational exchanges mutually shaped the political visions of diasporic Chinese.
+#### Lee Kong Chian Research Fellow&nbsp;_Oiyan Liu_&nbsp;explores how movements of people, their thoughts and activities across Dutch-ruled Batavia, British-ruled Singapore and China were related to one another and how educational exchanges mutually shaped the political visions of diasporic Chinese.
 
-&emsp;&emsp;&emsp;***“I have observed that in the near future there will spring up one new***<br>&emsp;&emsp;&emsp;***independent country, the Malay Peninsula, the Straits Settlements.*** ***The***<br>&emsp;&emsp;&emsp;***masters of this new political division will certainly be Chinese … Now is the***<br>&emsp;&emsp;&emsp;***time for you students to build up your political ability, because the future***<br>&emsp;&emsp;&emsp;***masters of the Malay Peninsula are you students of this College.”***   [^1]
+   ***“I have observed that in the near future there will spring up one new***<br>   ***independent country, the Malay Peninsula, the Straits Settlements.*** ***The***<br>   ***masters of this new political division will certainly be Chinese … Now is the***<br>   ***time for you students to build up your political ability, because the future***<br>   ***masters of the Malay Peninsula are you students of this College.”***   [^1]
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Growing%20Pains.jpg">
  <div style="background-color: white;">All rights reserved, Yayasan Cipta Loka Caraka, 2002.</div>
@@ -21,7 +21,7 @@ In this essay, I seek to understand how movements of people, their thoughts and 
 
 #### **The Educational Movement in Batavia**
 
-&emsp;&emsp;&emsp;“China is so much … larger than Japan! How great could<br>&emsp;&emsp;&emsp;we become if the great China reorganises! We could<br>&emsp;&emsp;&emsp;become the most powerful nation in the world, but first we<br>&emsp;&emsp;&emsp;need education to reach that goal.”[^2]
+   “China is so much … larger than Japan! How great could<br>   we become if the great China reorganises! We could<br>   become the most powerful nation in the world, but first we<br>   need education to reach that goal.”[^2]
 
 This quote is taken from the notes of L.H.W. van Sandick, an inspector at the Domestic Governance Department of the Dutch colonial government, who investigated essays that were written by students of the Tiong Hoa Hwee Koan school in Batavia. Dating back to 1909, this source reveals that during that period, Indies Chinese students felt that they were and wanted to be part of China. They positioned the status of China and the Chinese, including those residing overseas, and envisioned (by comparing themselves with Japan as inspiration) China becoming the most powerful entity in the world through education.
 
@@ -68,7 +68,7 @@ Although organisational problems and the increasing desire for autonomy among ov
 The Dutch implemented counter-integrative measures a decade earlier than the British. At the beginning of the 20th century, the Dutch were already aware of the political indoctrination of the Indies Chinese through their connections with the Straits Chinese and Jinan. In 1909, Van Sandick reported that “\[t\]he most pressing issue of this private education \[i.e., THHK\] for Chinese children is not the instruction of the mandarin-language, not history, nor geography, but ideas. Ideas that indoctrinated into the mind of the Chinese youth.”[^32] The spread of ideas was described as the “yellow peril”. Borel, renowned specialist on Chinese matters in the Dutch Indies, expressed the feeling that the National Chinese Reader used in Chinese schools was completely filled with modern ideas and evoked nationalist consciousness. Yellow peril, therefore, does not refer to supremacy of military power, but refers to the threat of modern ideas. He expressed concern, and estimated that by the end of the first decade approximately 5,000 students were influenced by these ideas.[^33] It was during this period that the Dutch feared losing their authority over the Indies Chinese. The Dutch press expressed concern that Chinese movements in the Indies would endanger Dutch sovereignty in the Indies, mainly because these movements were nurtured from outside forces, particularly from China. Some Dutch authorities suggested revising the laws to secure political legitimacy over the Chinese. The Dutch were concerned with attracting the loyalty of Chinese settlers because they were regarded as the most industrious residents in the colony.[^34]
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%203/EducationBatavia/Chinese%20among.jpg">
- <div style="background-color: white;">All rights reserved, Rowman & Littlefield, 2008.</div>
+ <div style="background-color: white;">All rights reserved, Rowman &amp; Littlefield, 2008.</div>
 
 Dutch paranoia of losing its political authority over its subjects made the colonial government modify its policies. In order for the Dutch to maintain political support of the Indies Chinese settlers, the colonial government competed with the Chinese government to provide state-sponsored education. In 1908, just about one year after pioneering students from Java sailed off to Jinan, the Dutch government established the “Hollandsche Chineesche School” (HCS, Dutch Chinese School) so as to create a setback for the Indies Chinese integrative tendencies towards aligning itself with China. Dutch motives for opening HCS were to compete with THHK and the Chinese government on controlling education. HCS’s curriculum aimed at “dutchifying” the Indies Chinese while THHK’s curricula promoted sinification.
 
@@ -90,7 +90,7 @@ This document, written in Chinese, was presumably mainly targeted at Chinese com
 
 Despite attempts by the Chinese authorities to invalidate Jinan’s imperialist and nationalist tendencies, British intelligence reports revealed that Jinan did stir up anti-colonialist sentiments among its students. The institution was particularly against Britain, which was considered the greatest colonial power at the time. The British government confiscated correspondence between Nanyang and China. Secret letters from a teacher at Jinan, who previously taught in Batavia, complained that “school registration in Malaya and the ‘cruel rules’ of the Dutch in Java are examples of foreign oppression which will destroy the foundation of China.”[^39] Intelligence reports also revealed that Jinan nurtured students with visions of a future government that would be ruled by the Nanyang Chinese. On 8 February 1922, Juin Li, lecturer at Jinan University, expressed the following:
 
-&emsp;&emsp;&emsp;“Look at the map of Asia; I have observed that in the near<br>&emsp;&emsp;&emsp;future there will spring up one new independent country, the<br>&emsp;&emsp;&emsp;Malay Peninsula, the Straits Settlements. The masters of this<br>&emsp;&emsp;&emsp;new political division will certainly be Chinese. The British<br>&emsp;&emsp;&emsp;power in Egypt and India is crumbling, so the tide of revolt<br>&emsp;&emsp;&emsp;will spread to the East, and the Malay Peninsula will be<br>&emsp;&emsp;&emsp;the first to catch its new influence.... I do not advise you to revolt<br>&emsp;&emsp;&emsp;against the British authority at once, because first you must<br>&emsp;&emsp;&emsp;be prepared yourself to organise a government and conduct<br>&emsp;&emsp;&emsp;political affairs, otherwise even if the British authority should<br>&emsp;&emsp;&emsp;be overthrown, you will be helpless. Now is the time for<br>&emsp;&emsp;&emsp;you students to build up your political ability, because the<br>&emsp;&emsp;&emsp;future masters of the Malay Peninsula are you students of<br>&emsp;&emsp;&emsp;this college.” [^40]
+   “Look at the map of Asia; I have observed that in the near<br>   future there will spring up one new independent country, the<br>   Malay Peninsula, the Straits Settlements. The masters of this<br>   new political division will certainly be Chinese. The British<br>   power in Egypt and India is crumbling, so the tide of revolt<br>   will spread to the East, and the Malay Peninsula will be<br>   the first to catch its new influence.... I do not advise you to revolt<br>   against the British authority at once, because first you must<br>   be prepared yourself to organise a government and conduct<br>   political affairs, otherwise even if the British authority should<br>   be overthrown, you will be helpless. Now is the time for<br>   you students to build up your political ability, because the<br>   future masters of the Malay Peninsula are you students of<br>   this college.” [^40]
 
 This shows that educators at Jinan encouraged and prepared its students to become pioneers of anti-colonialism in Southeast Asia. Contrary to its public claim that it did not encourage overseas Chinese to challenge colonial rule, it is evident that Jinan did stimulate anti-colonialism. By the 1920s, this institution intensified its anti-British attitudes and claimed that the Chinese were the first people that developed Malaya before the British took over. Jinan stated that “the Chinese were better off in Malaya before the English came.… We Chinese opened Malaya — it ought to be ours.”[^41]
 
@@ -106,79 +106,168 @@ This study reacts to two dominant approaches in present scholarship on the subje
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Liu%20Oi%20Yan.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Liu%20Oi%20Yan.jpg" style="width: 100px; height: 100px;">
 <center><b>Oiyan Liu</b><br>Lee Kong Chian Research Fellow (2008)<br>National Library</center></div>
 
 #### **REFERENCES**
-   
-Adam, A. (1995). [_The vernacular press and the emergence of modern Indonesian consciousness (1855–1913)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7558060)_._ Ithaca: Cornell SEAP Publications. Call no.: RSEA 079.598 ADA
 
-Cai, Y. (1927). Guoli Jinan xuexiao gaige jihua yijianshu. Shanghai Archives #Q240-1-270 (7).
+Ahmat Adam, [_The Vernacular Press and the Emergence of ModernIndonesian Consciousness (1855–1913)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7558060) (Ithaca: Cornell SEAP Publications, 1995). (Call no. RSEA 079.598 ADA)
 
-Chua, L.K. (2008, June 19). Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue. _Lianhe Zaobao,_ p. 5.
+Anthony Reid, [_Sojourners and Settlers: Histories of Southeast Asia and the Chinese: In Honour of Jennifer Cushman_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8022454) (St Leonards, NSW: Allen &amp; Unwin, 1996). (Call no. RSING 959.004951 SOJ)
 
-Chua, L.K. (2008, June 22). [Lee who? A Chinese intellectual worthy of study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13). _The Straits Times_, p. 32. Retrieved from NewspaperSG.
+Benny G. Setiono, [_Tionghoa Dalam Pusaran Politik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221247) (Jakarta: Elkasa, 2003). (Call no. Malay R 305.89510598 SET)
 
-Coppel, C.A. (2002). [_Studying ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046). Singapore: Singapore Society of Asian Studies. Call no.: RCLOS 305.89510598 COP
+Cai, Y. (1927). Guoli Jinan xuexiao gaige jihua yijianshu. Shanghai Archives #Q240–1–270 (7)
 
-Fromberg, P. H. (1911). _[De Chineesche beweging op Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123772)_. Amsterdam: Elsevier. Call no.: RSEA 301.45195105982 FRO
+Charles A. Coppel, [_Studying Ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046) (Singapore: Singapore Society of Asian Studies, 2002). (Call no. RCLOS 305.89510598 COP)
 
-Fromberg, P.H. (1926). [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316). Leiden: Leidsche Uitgeversmaatschappij. Call no.: RDTYS 349.598 FRO
+Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”&nbsp; 本迪英华书院小友李登辉汇英复旦大学 \[Bendi Yinghua College student Li Denghui
 
-Govaars-Tjia, M.T.N. (2005). [_Dutch colonial education: The Chinese experience in Indonesia, 1900–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915)_._ Singapore: Chinese Heritage Centres. Call no.: RSEA 370.95980904 GOV
+Chua Leong Kian, “[Lee Who? A Chinese Intellectual Worthy of Study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13),” _Straits Times_, 22 June 2008, 32. (From NewspaperSG)
 
-暨南大学 \[Jinan, D.\]. (Ed.). (1930). [南洋华侨教育会议报告](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84572300) \[_Nanyang Huaqio Jiaoyu Huiyi Baogao_\]_._ 上海 : \[出版社缺\]. Call no.: Chinese RDTYS 370.959 CNT
+He Qian 何倩, ed., _Nanyang xuexiao zhi diaocha yu tongji_ [南洋华侨学校调查与统计](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265) \[Nanyang Overseas Chinese School Survey and Statistics\] (Shanghai 上海：Shanghai Dahua yinshua gongsi 上海大华银画公司, 1930). (Call no. Chinese RDYTS 370.959 CNH)
 
-Kuhn, P.A. (2008). [_Chinese among others: Emigration in modern times_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)_._ Lanham: Rowman & Littlehead. Call no.: RSEA 304.80951 KUH
+Ji nan da xue 暨南大学, _Nan yang hua qiao jiao yu hui yi bao gao_ [南洋华侨教育会议报告](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84572300) \[Nanyang Overseas Chinese Education Conference Report\] (Shanghai 上海: \[Chuban she que\] \[出版社缺\], 1930). (Call no. Chinese RDTYS 370.959 CNT)
 
-Kwee, T.H. (1969). [_The origins of the modern Chinese movement in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984)_._ Ithaca: Cornell Southeast Asia Program. Call no.: RCLOS 301.4519510598 KWE
+_Jinan daxue bainian huayan, Xinjiapo xiaoyouhui liushiwu nian zhounian jinian te kan_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [暨南大学百年华诞, 新加坡校友会六十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292) \[The 100th anniversary of Jinan University and the 65th anniversary of the Singapore Alumni Association\] (Xīnjiapo 新加坡: Xīnjiapo jinan xiaoyou hui chuban weiyuanhui 新加坡暨南校友会出版委员会, 2006). (Call no. Chinese RSING 378.51 JND)
 
-Lee, T.H. (2006). [_Chinese schools in British Malaya: Policies and politics_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648)_._ Singapore: South Seas Society. Call no.: RSING 371.82995105951 LEE
+Kwee Tek Hoay, [_The Origins of the Modern Chinese Movement in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984) (Ithaca: Cornell Southeast Asia Program, 1969). (Call no. RCLOS 301.4519510598 KWE)
 
-梁啟超 \[Liang, Q.\]. (2005). ["飮冰室合集"集外文](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12784583) \["Yin bing shi he ji" ji wai wen\] \[Xia Xiaohong ji\]. (Orignally published in Chenzhong, 12–13 Jan 1917, republished in _Yinbingshi heji: Ji wai wen,_ Vol. 2), pp. 666–674. Peking University Press. Call no.: Chinese R C814.3008 LQC
+L.H.W. van Sandick, [_Chineezen Buiten China: Hunne Beteekenis Voor De Ontwikkeling Van Zuid-Oost-Azie, special Van Nederlandsch-Indie_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918) (‘s-Gravenhage: M.van der Beek’s Hofboekhandel, 1909). (Call no. RUR RSEA 959.80044951 SAN)
 
-Liu, S. (1930). Preface (pp. 1–3). In h. Qian (Ed.), _Nanyang huaqiao xuexial zhi diaoccha yu tongji_. Shanghai: Shanghai Dahua yinshua gongsi.
+Lea E. Williams, [_Overseas Chinese Nationalism: The Genesis of the Pan-Chinese Movement in Indonesia, 1900–1916_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336) (Glencoe: Ill, Free Press, 1960). (Call no. RDTYS 325.25109598 WIL)
 
-Lohanda, M. (2002). [_Growing pains: The Chinese and the Dutch in colonial Java, 1890–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11825888)_._ Jakarta: Yayasan Cipta Loka Caraka. Call no.: RSEA 959.82004951 LOH
+Lee Ting Hui, [_Chinese Schools in British Malaya: Policies and Politics_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648) (Singapore: South Seas Society, 2006). (Call no. RSING 371.82995105951 LEE)
 
-_Malayan Bulletin of political intelligence_ (MBPI)
+Leo Suryadinata, ed., [_Political Thinking of the Indonesian Chinese, 1900–1995: A Sourcebook_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8011462) (Singapore: Singapore University Press, 1997). (Call no. RSING 305.89510598 POL)
 
-Nio, J.L. (1952). [_Tiongkok sepandjang abad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500799)_._ Jakarta: Balai Pustaka. Call no.: RU RSEA 951 NIO
+Leo Suryadinata, ed., [_Prominent Indonesian Chinese: Biographical Sketches_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7455993) (Singapore: Institute of Southeast Asian Studies, 1995). (Call no. RSING 959.8004951 SUR)
 
-Ong, H.H. (2005). Sejaraj pengajaran minoritas Tionghoa (pp. 89–103). In H.H., Ong. [_Riwayat Tionghoa Peranakan di Jawa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714569). Depok: Komunitas Bambu. Call no.: Malay R 305.89510598 ONG
+Liang Qichao 梁啟超, “_Yin bing shi he ji" ji wai wen_ ["飮冰室合集"集外文](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12784583) \[Foreign languages ​​of "the collection of ice room"\] \[Xia Xiaohong ji\]. (Orignally published in Chenzhong, 12–13 Jan 1917, republished in _Yinbingshi heji: Ji wai wen,_ vol. 2), 666–74. (Peking University Press, 2005), 666–74. (Call no. Chinese R C814.3008 LQC)
 
-Qian, H. (Ed.). (1930). [南洋华侨学校调查与统计](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265) \[Nanyang xuexiao zhi diaocha yu tongji\]. Shanghai: Shanghai Dahua yinshua gongsi. Call no.: Chinese RDYTS 370.959 CNH
+Liang Qichao 梁啟超, “_Yin bing shi he ji" ji wai wen_ ["飮冰室合集"集外文](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12784583) \[Foreign languages ​​of "the collection of ice room"\] \[Xia Xiaohong ji\]. (Orignally published in Chenzhong, 12–13 Jan 1917, republished in _Yinbingshi heji: Ji wai wen,_ vol. 2), 666–74. (Peking University Press, 2005), 666–74. (Call no. Chinese R C814.3008 LQC)
 
-Reid, A. (1996). [_Sojourners and settlers: Histories of Southeast Asia and the Chinese: In honour of Jennifer Cushman_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8022454)_._ St Leonards, NSW: Allen & Unwin.(Call no.: RSING 959.004951 SOJ
+Liu S., “Preface,” in “Nanyang huaqiao xuexial zhi diaoccha yu tongji” 南阳花桥大学学报母鸡与同济 \[Journal of Nanyang Huaqiao University Henji and Tongji\], ed. Qian H (Shanghai: Shanghai Dahua yinshua gongsi, 1930), 1–3.
 
-van Sandick, L.H.W. (1909). [_Chineezen Buiten China: Hunne beteekenis voor de ontwikkeling van Zuid-Oost-Azie, special van Nederlandsch-Indie_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918). ‘s-Gravenhage: M.van der Beek’s Hofboekhandel. Call no.: RUR RSEA 959.80044951 SAN
+_Malayan Bulletin of Political Intelligence_ (MBPI)
 
-Setiono, B.G. (2003). [_Tionghoa dalam pusaran politik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221247)_._ Jakarta: Elkasa. Call no.: Malay R 305.89510598 SET
+Ming Govaars, [_Dutch Colonial Education: The Chinese Experience in Indonesia, 1900–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915) (Singapore: Chinese Heritage Centres, 2005). (Call no. RSEA 370.95980904 GOV)
 
-_Shijie Huaqiao Huaren Cidian_. (1990). Beijing: Beijing University Press.
+Mona Lohanda, [_Growing Pains: The Chinese and the Dutch in Colonial Java, 1890–_1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11825888) (Jakarta: Yayasan Cipta Loka Caraka, 2002). (Call no. RSEA 959.82004951 LOH)
 
-Song, S.O. (1967). [_One hundred years’ history of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335)_._ Singapore: University Malaya Press. Call no.: RCLOS 959.57 SON
+Nio Joe Lan, [_Tiongkok Sepandjang Abad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500799) (Jakarta: Balai Pustaka, 1952). (Call no. RU RSEA 951 NIO)
 
-Suryadinata, L. (Ed.). (1997). [_Political thinking of the Indonesian Chinese, 1900–1995: A sourcebook_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8011462)_._ Singapore: Singapore University Press. Call no.: RSING 305.89510598 POL
+Ong Hok Ham, “Sejaraj Pengajaran Minoritas Tionghoa,” in [_Riwayat Tionghoa Peranakan di Jawa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714569) (Depok: Komunitas Bambu, 2005), 89–103. (Call no. Malay R 305.89510598 ONG)
 
-Suryadinata, L. (Ed.). (1995). [_Prominent Indonesian Chinese: Biographical sketches_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7455993)_._ Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.8004951 SUR
+Philip A. Kuhn, [_Chinese Among Others: Emigration in Modern Times_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434) (Lanham: Rowman &amp; Littlehead, 2008). (Call no. RSEA 304.80951 KUH)
 
-[_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779)_._
+Pieter Hendrik Fromberg, [_De Chineesche Beweging Op Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123772) (Amsterdam: Elsevier, 1911). (Call no. RSEA 301.45195105982 FRO)
 
-_[Jinan daxue bainian huayan, Xinjiapo xiaoyouhui liushiwu nian zhounian jinian te kan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)_. (2006). Xinjiapo Jinan Xiaoyouhui Chuban Weiyuanhui Call no.: R Chinese 378.51 JND
+Pieter Hendrik Fromberg, [_Mr. P.H. Fromberg's Verspreide Geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316) (Leiden: Leidsche Uitgeversmaatschappij, 1926). (Call no. RDTYS 349.598 FRO)
 
-Wang, G. (1991). [_China and the Chinese overseas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5810044)_._ Singapore: Times Academic Press. Call no.: RSING 327.51059 WAN
+_Shijie Huaqiao Huaren Cidian_ 世纪华侨华人瓷店 \[Century overseas chinese porcelain store\] (Beijing: Beijing University Press, 1990)
 
-Wee, T.B. (2001). _The development of modern Chinese vernacular education in Singapore – society, politics & policies, 1905–1941_ \[MA Thesis, Department of History, National University of Singapore) Wen, G. (Ed.). (1985). _Yindunixiya Huaqiao shi._ Beijing: Haiyang chuban.
+Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335) (Singapore: University Malaya Press, 1967). (Call no. RCLOS 959.57 SON)
 
-Williams, L.E. (1960). [_Overseas Chinese nationalism: The genesis of the pan-Chinese movement in Indonesia, 1900–1916_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336)_._ Glencoe: Ill, Free Press. Call no.: RDTYS 325.25109598 WIL
+[_The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) (Singapore: Koh Yew Hean Press, 1897–1907). (Call no. RRARE 959.5 STR; microfilm NL267; NL268)
 
-Yen, C-H. (1976, March). The Confucian revival movement in Singapore and Malaya, 1899–1911_._ _Journal of Southeast Asian Studies, 7_ (1), 33–57. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Wang Gungwu, [_China and the Chinese Overseas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5810044) (Singapore: Times Academic Press, 1991). (Call no. RSING 327.51059 WAN)
 
-Yen, C-H. (1976). [_The overseas Chinese and the 1911 revolution, with special reference to Singapore and Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=863880)_._ Kuala Lumpur & New York: Oxford University Press. Call no.: RSING 301.451951095957 YEN
+Wee Tong Bao, “The Development of Modern Chinese Vernacular Education in Singapore – Society, Politics &amp; Policies, 1905–1941” (master’s thesis, National University of Singapore, 2001)
+
+Wen Guanyi 文冠义, ed., _Yindunixiya Huaqiao shi_ 银都妮西亚华侨城 \[Yindu Nisia Overseas Chinese Town\] (Beijing 北京: Haiyang chuban 海阳出版, 1985)
+
+Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaya, 1899–1911,” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976), 33–57. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Reference to Singapore and Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=863880) (New York: Oxford University Press, 1976). (Call no. RSING 301.451951095957 YEN)
 
 #### **NOTES**
+
+ [^1]: NAS, _MBPI_, (1922, October 1), section 41.
+
+ [^2]: van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255. All translations are mine unless otherwise noted.
+
+3\. “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100.
+
+4\. “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 88; “[THHK” School](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 168.
+
+5 See for instance; Kwee, [_Origins of the Modern Chinese Movement_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984); Coppel, [_Studying Ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046).
+
+6 This is based on primary sources I used. See for instance, “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100. The article states: “The Dutch Government has been advised to grant the Chinese the privilege of forming literary societies. Their purpose is to collect funds and to bring the blessings of education within the reach of every Chinese childe, male, or female.”
+
+7 Lea, [_Overseas Chinese Nationalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336).
+
+8 Fromberg, [_De Chineesche Beweging Op Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123772), 1—65.
+
+9 “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100.
+
+10 Yen, “Confucian Revival Movement,” 33–57; Song, [_One Hundred Years’ History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335), 235–36.
+
+11 Govaars, [_Dutch Colonial Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645915), 55
+
+12 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 251.
+
+13 “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
+
+14 Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, 1; “[Our Batavia letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53; “Lee, _Shijie Huaqiao Huaren Cidian_, 377; Chua, “Bendi yinghua shuyuan”; Chua, “ “[Lee Who?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13)
+
+15 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252.
+
+16 Before the opening of its school, The Straits Chinese Magazine announced that THHK-school would be offering Dutch language courses. After its establishment THHK decided to offer English courses instead of Dutch. See: [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 4, no. 16 (December 1900); “[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
+
+17 Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 424.
+
+18 邢济众, _[Jinan daxue bainian huayan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)_, 1.
+
+19 Ma, “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
+
+20 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 251.
+
+21 “Our Java Letter”, [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 11, no. 1 (March 1907), 34.
+
+22 Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 425.
+
+23 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252.
+
+24 For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in [_Chinese Among Others_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434), 241–43.
+
+25 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252–53.
+
+26 On 5 October 1908, 38 other boys from several schools in Java went to Nanjing. In 1909, the number of students from Java since the first dispatching to Jinan totalled 111. See van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 252–54; Ma, “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
+
+27 Lee Kong Chian: Entrepreneur, philanthropist, educator. He was head of Singapore ‘Zhonghua zhongshanghui’ (in Chinese) and head of ‘Xingma zhonghua Shanghui lianhehui’ (In Chinese). He was founder of certain Huaqiao schools and hospitals in Singapore. In the 1930s when Tan Kah Kee’s experienced difficulties in his business. Lee Kong Chian donated money to Xiamen University. In the 1930s–40s, Lee also established many primary schools and Guoguang High School in his home province, Fujian. He established the Lee Foundation that supports education.
+
+28 Yuan Shikai, president of republican China at the time was reluctant to re-open the school out of fear that the Guomindang opposition would thrive at Jinan where most students had participated in the 1911 Revolution. Lee, [_Chinese Schools in British Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648), 28.
+
+29 Liu, “[Preface](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265),” 1–3, 3, 570–71.
+
+30 Liu, “[Preface](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265),” 1–3.
+
+31 Lee Ting Hui, “Proceedings of the Legislative Council of the Straits Settlements 1920,” B78–79.
+
+32 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255. Emphasis added.
+
+33 van Sandick, [_Chineezen Buiten China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 255.
+
+34 Fromberg, [_Mr. P.H. Fromberg's Verspreide geschriften_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12986316), 431.
+
+35 This report also contained information about punishments by the Siamese government. Dutch and Siamese governments punished 52 Chinese instructors, out of which 19 instructors were penalised by the Siamese government. Generally speaking, Siamese punishments were more severe than Dutch punishments. See huaqiao xuexiao zhiyuan chujing ji beibubiao in [_Nanyang huaqiao xuexiao zhi diaocha yu tongji_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), ed. Qian He. Shanghai: Shanghai Dahua yinshua gongsi, 1930. Call no.: Chinese RDYTS 370.959 CNH
+
+36 This fascinating list releases names of detainees and “colonial violators”. It also reveals the names of schools where these instructors were employed, their punishments, and reasons and dates for punishment. [_Nanyang huaqiao xuexiao zhi diaocha yu tongji_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265), ed. Qian He (Shanghai: Shanghai Dahua yinshua gongsi, 1930) (Call no. Chinese RDYTS 370.959 CNH)
+
+37 Cai Yuan Pei, 國立暨南學校改革計劃 意見晝. Minguo 16 (1927). Shanghai Archives #Q240–1–270 (7)
+
+38 Cai, 1927. All translations are mine unless otherwise noted.
+
+39 NAS, _MBP_I (1 April 1925), 22–25.
+
+40 NAS, _MBPI_, no. 8 (1 October 1922), section 41. Emphasis added.
+
+41 NAS, _MBPI_ (1 April 1925), 22–25.
+
+
+
 
 [^1]: NAS, _MBPI_, (1922, October 1), section 41.
 
@@ -206,7 +295,7 @@ Yen, C-H. (1976). [_The overseas Chinese and the 1911 revolution, with special r
 
 [^13]: “Our Batavia Letter” (written on 14 March 1902), [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 21 March 1902, p. 53.
 
-[^14]: Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, p. 1; [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 21 March 1902, p. 53; “Lee Teng Hui, 1872—1947” _Shijie Huaqiao Huaren Cidian_ (Beijing: Beijing University Press, 1990), p. 377;  Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”, _Lianhe zaobao_, 19 June 2008, p. 5; “[Lee who? A Chinese intellectual worthy of study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13)”, in _The Straits Times_, 22 June 2008, p. 32.
+[^14]: Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, p. 1; [_The Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), Vol. 6, No. 21 March 1902, p. 53; “Lee Teng Hui, 1872—1947” _Shijie Huaqiao Huaren Cidian_ (Beijing: Beijing University Press, 1990), p. 377; &nbsp;Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”, _Lianhe zaobao_, 19 June 2008, p. 5; “[Lee who? A Chinese intellectual worthy of study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13)”, in _The Straits Times_, 22 June 2008, p. 32.
 
 [^15]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 252.
 
@@ -226,7 +315,7 @@ Yen, C-H. (1976). [_The overseas Chinese and the 1911 revolution, with special r
 
 [^23]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, p. 252.
 
-[^24]: For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in _[Chinese among others: Emigration in Modern Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)_ (Lanham: Rowman & Littlefield, 2008) pp. 241— 243. Call no.: RSEA 304.80951 KUH
+[^24]: For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in _[Chinese among others: Emigration in Modern Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)_ (Lanham: Rowman &amp; Littlefield, 2008) pp. 241— 243. Call no.: RSEA 304.80951 KUH
 
 [^25]: [van Sandick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918), 1909, pp. 252–253.
 
@@ -261,7 +350,3 @@ Yen, C-H. (1976). [_The overseas Chinese and the 1911 revolution, with special r
 [^40]: NAS, _MBPI_, no. 8 (1 October 1922), section 41. Emphasis added.
 
 [^41]: NAS, _MBPI_ (1 April 1925), pp. 22—25.
-
-
-
-
