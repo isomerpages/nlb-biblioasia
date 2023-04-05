@@ -9,7 +9,7 @@ description: What started five decades ago as a government-led project to build
 
 
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa.jpg">
- <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, WIkimedia Commons, accessed 12 March 2013.</i></div>
+ <div style="background-color: white;">Chek Jawa are wetlands located off the Southeastern tip of Pulau Ubin. <i>Credit: Sengkang, Wikimedia Commons, accessed 12 March 2013.</i></div>
 	
 
 A *Straits Times* photo of former Prime Minister Lee Kuan Yew launching Singapore’s first-ever tree planting campaign in 1963 best depicts how the idea of building Singapore into a Garden City first took root. As Mr Lee bent over to dig a hole with a *changkol* to plan a Mempat tree in Farrer Circus, Singaporeans stood around and watched — none of them offering a helping hand.
@@ -24,7 +24,7 @@ In a span of five decades, the transformation of Singapore into a Garden City is
 
 #### **The Seeds of a Garden City**
 
-Although the tree-planting campaign was started in 1963, it was only five years later that a more fleshed-out concept to turn Singapore into a green environment was introduced. In 1968, the idea of the Garden City was first announced by the then-Minister for Health Chua Sian Chin, who said during the second reading of the Environmental Public Health Bill: “The improvement in the quality of our urban environment and the transformation of Singapore into a garden city —  a clean and green city — is the declared objective of the Government.”[^1]
+Although the tree-planting campaign was started in 1963, it was only five years later that a more fleshed-out concept to turn Singapore into a green environment was introduced. In 1968, the idea of the Garden City was first announced by the then-Minister for Health Chua Sian Chin, who said during the second reading of the Environmental Public Health Bill: “The improvement in the quality of our urban environment and the transformation of Singapore into a garden city — &nbsp;a clean and green city — is the declared objective of the Government.”[^1]
 
 In those early years, the government tried to soften the impact of concrete development as a result of Singapore’s modernisation. It became the lead designer to turn Singapore into a Garden City, starting with an initial plan that was simple: to camouflage the concrete in a blanket of green, using the most efficient and cost-effective methods to ensure life in this up-and-coming tropical city was both shady and cool.[^2] Trees were planted everywhere, along roads and at open spaces, and species such as the angsana and pong pong were favoured because they grew fast and to heights that matched the rapid pace of urbanisation.
 
@@ -60,17 +60,17 @@ Sungei Buloh was the first post-colonial allocation of land for nature conservat
 
 This was reflected in the case of Chek Jawa in 2001. This wetlands on the island of Pulau Ubin was already slated for reclamation since 1992, but a chance discovery in 2000 of its rich biodiversity led a group of volunteers to follow in the footsteps of the Nature Society and come up with a report on Chek Jawa’s natural heritage and a petition to the government for the conservation of this natural habitat.
 
-<center>&emsp; As then-PM Lee outlined<br>
-&emsp;in his vision of the future<br>
-&emsp;“By the 1990s, Singapore<br>
-&emsp;can become a green, shady<br>
-&emsp;city filled with fruits and<br>
-&emsp;flowers, a city worthy of<br>
-&emsp;an industrious people<br>
-&emsp;whose quest for progress<br>
-&emsp;is matched by their<br>
-&emsp;appreciation for the beauty<br>
-&emsp;of nature."<br></center>
+<center>  As then-PM Lee outlined<br>
+ in his vision of the future<br>
+ “By the 1990s, Singapore<br>
+ can become a green, shady<br>
+ city filled with fruits and<br>
+ flowers, a city worthy of<br>
+ an industrious people<br>
+ whose quest for progress<br>
+ is matched by their<br>
+ appreciation for the beauty<br>
+ of nature."<br></center>
 
 
 The government surprised many by agreeing to do so, promising to leave Chek Jawa untouched for the next 10 years. After the decision was made, then-Minister of National Development Mah Bow Tan said: “Has there been any change in our thinking? No. What has changed is the environment. Over the past 10 years, people’s awareness of heritage and conservation issues has become more acute. The Government has also become more aware of the need to accommodate this... giving people a sense of belonging to Singapore.”[^16]
@@ -98,13 +98,13 @@ It is also interesting to note that most calls by citizens have been for the pre
 
 Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices — from citizens, non-governmental organisations and even corporations — that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
 
-<center>&emsp; Citizens have become<br>
-&emsp;of this “City in<br>
-&emsp;a Garden”, where they are<br>
-&emsp;not passive consumers of a<br>
-&emsp;landscape defined by someone<br>
-&emsp;landscape defined by someone<br>
-&emsp;shaping it.<br></center>
+<center>  Citizens have become<br>
+ of this “City in<br>
+ a Garden”, where they are<br>
+ not passive consumers of a<br>
+ landscape defined by someone<br>
+ landscape defined by someone<br>
+ shaping it.<br></center>
 
 
 Citizens have become ’gardeners’ of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it.
@@ -144,7 +144,7 @@ Lim, L. (2002, January 15). [Govt open to feedback on conservation issues](http:
 
 National Parks Board. (2019, March 29). _Community in bloom – Singapore’s National Gardening movement_. Retrieved from National Parks Board website.
 
-Nature Society (Singapore). (2011). _Butterfly & insect group_. Retrieved from Nature Society (Singapore) website.
+Nature Society (Singapore). (2011). _Butterfly &amp; insect group_. Retrieved from Nature Society (Singapore) website.
 
 Pang, P. (2003, December 3). [Green tax breaks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20031203-1.2.11.2). _Today_, p. 6. Retrieved from NewspaperSG.
 
@@ -152,7 +152,7 @@ Quek, T. (2010, January 4). [How the idea of a city nature trail came about](htt
 
 Saifulbahri Ismail. (2012, June 28). Decision to build Gardens By The Bay not an easy one: PM Lee. _ChannelNews Asia_. Retrieved from ChannelNews Asia website.
 
-Singapore. Parliament. [_Parliamentary Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 28). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
+Singapore. Parliament.&nbsp;[_Parliamentary Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 28). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
 
 Sit, M. (1980, September 4). [Plants must go order incurs wrath of residents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800904-1.2.42). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
@@ -160,9 +160,9 @@ Tai, J. (2012, December 10). [A vote to capture the National butterfly](http://e
 
 Tan, A. (2011, July 11). [Informal group to discuss railway land use](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
 
-Tan, C-J. (2012, March 6). _Celebrating & co-creating a rooted community_. Retrieved from Ministry of National Development website.
+Tan, C-J. (2012, March 6). _Celebrating &amp; co-creating a rooted community_. Retrieved from Ministry of National Development website.
 
-Teo, W.G., & Toh, Y.C. (2011, December 30). [Campaign for a green corridor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4). _The Straits Times_, p. 20. Retrieved from NewspaperSG.
+Teo, W.G., &amp; Toh, Y.C. (2011, December 30). [Campaign for a green corridor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4). _The Straits Times_, p. 20. Retrieved from NewspaperSG.
 
 [Three Ministers lead the tree planters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640309-1.2.35). (1964, March 9). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
 
@@ -170,13 +170,13 @@ Urban Redevelopment Authority (Singapore). (2012, May 12). URA establishes rail 
 
 Wee, C.F. (2012, March 18). [Garden scheme blooms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120318-1.2.56.1.7). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
-Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to conserve Singapore’s nature areas. [_Nature in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13367689), 41—49.
+Wee, Y.C., &amp; Hale, R. (2008). The Nature Society (Singapore) and the struggle to conserve Singapore’s nature areas. [_Nature in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13367689), 41—49.
 
 
 #### **NOTES**
 
 
-[^1]: Singapore.  _[Parliamentary Debates: Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)_, 16 Dec 1968.
+[^1]: Singapore. &nbsp;_[Parliamentary Debates: Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)_, 16 Dec 1968.
 
 [^2]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7499054), 1995.
 
@@ -202,7 +202,7 @@ Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to
 
 [^13]: [Sit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800904-1.2.42), 4 Sep 1980, p. 7.
 
-[^14]: [Wee & Hale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13367689), 2008.
+[^14]: [Wee &amp; Hale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13367689), 2008.
 
 [^15]: [Francesch-Huidobro](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13068037), 2008.
 
@@ -216,7 +216,7 @@ Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to
 
 [^20]: [Wee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120318-1.2.56.1.7), 18 Mar 2012, p. 6.
 
-[^21]: Nature Society (Singapore), _Butterfly & insect group_, 2011.
+[^21]: Nature Society (Singapore), _Butterfly &amp; insect group_, 2011.
 
 [^22]: [Quek](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100124-1.2.8.17), 24 Jan 2010, p. 15.
 
@@ -226,7 +226,7 @@ Wee, Y.C., & Hale, R. (2008). The Nature Society (Singapore) and the struggle to
 
 [^25]: Urban Redevelopment Authority (Singapore), _URA Establishes Rail Corridor Partnership to Explore and Promote Community Activities Along Rail corridor_, 12 May 2012.
 
-[^26]: [Teo & Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4), 30 Dec 2011, p. 20.
+[^26]: [Teo &amp; Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4), 30 Dec 2011, p. 20.
 
 
-[^27]: Tan, _Celebrating & Co-Creating a Rooted Community_, 6 Mar 2012.
+[^27]: Tan, _Celebrating &amp; Co-Creating a Rooted Community_, 6 Mar 2012.
