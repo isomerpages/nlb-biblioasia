@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-3/oct-dec-2016/building-faith
-      button: Wartime Churches in Syonan-to
+      url: /vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/
+      button: Singapore’s First Courthouse
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/building-faith/Wartime Church in Syonan_Hero
-        Image.jpg
+      background: /images/Vol 19 Issue 1/Courthouse/Courthouse_Hero_img.jpg
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
