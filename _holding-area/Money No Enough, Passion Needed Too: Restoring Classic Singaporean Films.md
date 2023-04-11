@@ -70,19 +70,19 @@ The process of recovering original film elements of supposedly lost or forgotten
 
 #### **NOTES**
 
-[^1]: Yip Wai Yee, “Mass-Appeal Movie-maker,” *Straits Times*, 20 December 2012, 4–5. (From Newslink via NLB’s eResources website)
+[^1]: Yip Wai Yee, “Mass-Appeal Movie-maker,” *Straits Times*, 20 December 2012, 4–5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main)website)
 
 [^2]: “Singapore Classics Reignited,” Asian Film Archive, accessed 26 January 2023, https://www.asianfilmarchive.org/event-calendar/singapore-classics-reignited/. 
 
-[^3]: Yip Wai Yee, “Money No Enough, 20 Years On: The Singapore Movie That Made History,” Straits Times, 7 November 2018, https://www.straitstimes.com/lifestyle/entertainment/money-no-enough-brought-the-entire-singapore-film-industry-to-a-whole-new.
+[^3]: Yip Wai Yee, “Money No Enough, 20 Years On: The Singapore Movie That Made History,” *Straits Times*, 7 November 2018, https://www.straitstimes.com/lifestyle/entertainment/money-no-enough-brought-the-entire-singapore-film-industry-to-a-whole-new.
 
 [^4]: “Biography,” Cleopatra Wong, last accessed 25 January 2023, http://www.cleopatrawong.com/Biography.htm.
 
-[^5]: Geoffrey Eu, “Smash! Bang! Pow!,” Business Times, 1 July 2005, 30. (From Newslink via NLB’s eResources website)
+[^5]: Geoffrey Eu, “Smash! Bang! Pow!,” *Business Times*, 1 July 2005, 30. (From Newslink via NLB’s eResources website)
 
-[^6]: Sandi Tan, “Cleopatra’s Back in Action,” Straits Times, 9 March 1997, 5. (From Newslink via NLB’s eResources website)
+[^6]: Sandi Tan, “Cleopatra’s Back in Action,” *Straits Times*, 9 March 1997, 5. (From Newslink via NLB’s eResources website)
 
-[^7]: Ong Sor Fern, “Tarantino Thrills First Blood,” Straits Times, 22 October 2003, 2. (From Newslink via NLB’s eResources website)
+[^7]: Ong Sor Fern, “Tarantino Thrills First Blood,” *Straits Times*, 22 October 2003, 2. (From Newslink via NLB’s eResources website)
 
 [^8]: “Restored: They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://asianfilmarchive.org/event-calendar/restored-they-call-her-cleopatra-wong-1978/.
 
