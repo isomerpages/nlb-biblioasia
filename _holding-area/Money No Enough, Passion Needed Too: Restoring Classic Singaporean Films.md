@@ -70,7 +70,7 @@ The process of recovering original film elements of supposedly lost or forgotten
 
 #### **NOTES**
 
-[^1]: Yip Wai Yee, “Mass-Appeal Movie-maker,” *Straits Times*, 20 December 2012, 4–5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main)website)
+[^1]: Yip Wai Yee, “Mass-Appeal Movie-maker,” *Straits Times*, 20 December 2012, 4–5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^2]: “Singapore Classics Reignited,” Asian Film Archive, accessed 26 January 2023, https://www.asianfilmarchive.org/event-calendar/singapore-classics-reignited/. 
 
