@@ -68,6 +68,7 @@ The restoration of *They Call Her… Cleopatra Wong* took two years and was comp
 
 The process of recovering original film elements of supposedly lost or forgotten works is a long-drawn out one and frequently involves serendipity. And this would not be possible without the persevering work of film archives around the world.
 
+
 #### **NOTES**
 
 [^1]: Yip Wai Yee, “Mass-Appeal Movie-maker,” *Straits Times*, 20 December 2012, 4–5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
