@@ -67,3 +67,23 @@ The restoration of *They Call Her… Cleopatra Wong* took two years and was comp
 *They Call Her…Cleopatra Wong* serves as an interesting restoration case study for the AFA in how variants of the same film obtained from different sources can be pieced together to culminate in a meaningful result. It is also interesting to look at why these variants existed, and why the film was edited and distributed differently. These could be for a combination of reasons – like the accidental loss of frames from re-splicing and re-editing the film to suit a specific market or, possibly, censorship.
 
 The process of recovering original film elements of supposedly lost or forgotten works is a long-drawn out one and frequently involves serendipity. And this would not be possible without the persevering work of film archives around the world.
+
+#### **NOTES**
+
+[^1]: Yip Wai Yee, “Mass-Appeal Movie-maker,” *Straits Times*, 20 December 2012, 4–5. (From Newslink via NLB’s eResources website)
+
+[^2]: “Singapore Classics Reignited,” Asian Film Archive, accessed 26 January 2023, https://www.asianfilmarchive.org/event-calendar/singapore-classics-reignited/. 
+
+[^3]: Yip Wai Yee, “Money No Enough, 20 Years On: The Singapore Movie That Made History,” Straits Times, 7 November 2018, https://www.straitstimes.com/lifestyle/entertainment/money-no-enough-brought-the-entire-singapore-film-industry-to-a-whole-new.
+
+[^4]: “Biography,” Cleopatra Wong, last accessed 25 January 2023, http://www.cleopatrawong.com/Biography.htm.
+
+[^5]: Geoffrey Eu, “Smash! Bang! Pow!,” Business Times, 1 July 2005, 30. (From Newslink via NLB’s eResources website)
+
+[^6]: Sandi Tan, “Cleopatra’s Back in Action,” Straits Times, 9 March 1997, 5. (From Newslink via NLB’s eResources website)
+
+[^7]: Ong Sor Fern, “Tarantino Thrills First Blood,” Straits Times, 22 October 2003, 2. (From Newslink via NLB’s eResources website)
+
+[^8]: “Restored: They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://asianfilmarchive.org/event-calendar/restored-they-call-her-cleopatra-wong-1978/.
+
+[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.
