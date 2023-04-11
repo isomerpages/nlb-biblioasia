@@ -6,7 +6,7 @@ description: ""
 #### *Money No Enough, Forever Fever* and *The Teenage Textbook Movie* kickstarted a new era in Singaporean cinema, making them prime candidates for restoration. 
 By Chew Tee Pao
 
-Film restoration is often thought of as a process that is necessary for older films, perhaps like those produced in the 1950s and 1960s by Cathay-Keris Films and the Shaw Brothers’ Malay Film Productions. When films such as Patah Hati (1952) and Seniman Bujang Lapok (1961) were made, they were regarded simply as commercial entertainment and little effort was made to store them well. Today, they are considered classics and much time and effort has been spent to restore these prints and preserve them for posterity.
+Film restoration is often thought of as a process that is necessary for older films, perhaps like those produced in the 1950s and 1960s by Cathay-Keris Films and the Shaw Brothers’ Malay Film Productions. When films such as *Patah Hati* (1952) and *Seniman Bujang Lapok* (1961) were made, they were regarded simply as commercial entertainment and little effort was made to store them well. Today, they are considered classics and much time and effort has been spent to restore these prints and preserve them for posterity.
 
 However, even films of a more recent vintage are candidates for restoration. Often, a movie is seen as a commercial enterprise, made with an eye towards ensuring relatively quick returns for investors. It is only with the passage of time that some of these movies become classics and end up as candidates for restoration. 
 
