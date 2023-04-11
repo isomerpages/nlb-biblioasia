@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "Money No Enough, Passion Needed Too: Restoring Classic Singaporean
+        Films.md"
       - Test page.md
