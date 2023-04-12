@@ -121,7 +121,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^12]: “Page 9 Advertisements Column 1,” *Straits Times*, 26 April 1970, 9. (From NewspaperSG)
 
-[^13]: 
+[^13]: “Rows of Shops Make Way for Luxurious Complexes,” Straits Times, 5 September 1971, 18. (From NewspaperSG)
 
 [^14]: 
 
