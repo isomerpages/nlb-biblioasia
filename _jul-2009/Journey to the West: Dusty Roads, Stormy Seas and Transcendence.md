@@ -5,3 +5,5 @@ description: Lee Kong Chian Research Fellow Prasani Weerawardane traces the
   perilous journey from China to India over land and sea undertaken by Chinese
   Buddhist monks in search of the Buddhist Tripitaka.
 ---
+#### Lee Kong Chian Research Fellow _Prasani Weerawardane_ traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist monks in search of the Buddhist Tripitaka.
+
