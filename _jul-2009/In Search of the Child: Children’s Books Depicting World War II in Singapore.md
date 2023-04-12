@@ -101,6 +101,75 @@ She also warned that if “a country of a culture lacks such mirrors it has no w
 
 ***The author wishes to acknowledge the contributions of Dr Sandra Williams, Senior Lecturer, School of Education, University of Brighton, in reviewing the paper***.
 
+#### **REFERENCES**
+
+         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; mso-themecolor:hyperlink; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:purple; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:35.4pt; mso-footer-margin:35.4pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+Aisha Akbar, [_Aisha Bee at War: A Very Frank Memoir_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5441635) (Singapore: Landmark Books, 1990). (Call no. RSING 959.57022 AIS)
+
+Andrew Tan Chee Khoon, _[Papa as a Little Boy Named Ah Khoon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13141198)_ (Singapore: Ring of Light Publishers, 2007). (Call no. RSING 959.5704092 TAN)
+
+Ang Seow Leng et al., [_Asian Renaissance: The Singapore and Southeast Asian &amp; Asian Children’s Collection Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419) (Singapore: National Library Board, Publishing &amp; Research Services, 2005). (Call no. RSING 025.21095957 ASS)
+
+Anne Frank, _The Diary of a Young Girl_, trans. Susan Massotty (London: Penguin Books, 1997)
+
+Diana Wong, ed., “Introduction,” in _[War and Memory in Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099)_, ed. P. Lim Pui Huen and Diana Wong (Singapore: Institute of Southeast Asian Studies, 2000), 1–8. (Call no. RSING 959.503 WAR)
+
+Edward Phua, [_Sunny Days of an Urchin_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7845179) (Singapore: Federal Publications, 1996). (Call no. RSING 959.5704 PHU)
+
+Fauziah Hassan et al., [_Singapore Children’s Literature: An Annotated Bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645028) (Singapore: National Library Board, 2005). (Call no. RAC 015.5957 SIN)
+
+Geoffrey Tan, _[Escape From Battambang: A Personal WWII Experience](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10293943)_ (Singapore: Armour Publishing, 2001). (Call no. RSING 940.54815957 TAN)
+
+Harriet Ziefert, _[A New Coat for Anna](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9515542)_ (New York: Dragonfly Books, 1986). (Call no. ZIE)
+
+Ian Serraillier, _The Silver Sword_ (London: Heinemann Educational Books, 1957). (Original work published 1956)
+
+James Riordan, _Escape From War_ (London: Kingfisher, 2005)
+
+Jerry Kerr, _When Hitler Stole Pink Rabbit_ (London: Collins, 1998). (Original work published 1971)
+
+Joan Yap, _[Son of an Immigrant](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12897334)_ (Singapore: Joan Yap, 2007). (Call no. YAP)
+
+Johanna Reiss, _The Upstairs Room_ (England: Puffin Books, 1979). (Original work published 1972)
+
+Lee Geok Boi, [_The Syonan Years: Singapore Under Japanese Rule 1942–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517) &nbsp;(Singapore: National Archives of Singapore and Epigram, 2005). (Call no. RSING q940.53957 LEE)
+
+Lois Lowry, [_Number the Stars_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5059192) (Boston: Houghton Mifflin Co., 1989). (Call no. J LOW)
+
+Maisie Duncan, [_A Cloistered War: Behind the Convent Walls During the Japanese Occupation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12302913) (Singapore: Times Editions, 2004). (Call no. RSING 940.5425092 DUN)
+
+Margaret Atwood, _Survival: A Thematic Guide to Canadian Literature_ (Toronto: Anansi, 1972)
+
+Michael Morpurgo, _Friend or Foe_ (London: Egmont Books, 2001). (Original work published 1977)
+
+Michael Morpugo, _Waiting for Anya_ (London: Egmont Books, 2001). (Original work published 1990)
+
+Patricia Lim Pui Huen, “Memoirs of War in Malaya,” in [_Malaya and Singapore During the Japanese Occupation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7644322), ed. Paul H. Kratoska (Singapore: Journal of Southeast Asian Studies, 1995). (Call no. RSING 940.5425 MAL)
+
+Patricia Polacco, _The Butterfly_ (New York: Philomel Books, 2000)
+
+Peter H.L. Wee, _[From Farm &amp; Kampong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5421407)_ (Singapore: Graham Brash, 1989). (Call no. RSING 959.57 WEE)  
+  
+Rosalind Sharbanee Meyer, [_Rosie’s War: Escape From Singapore 1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12880557) (NSW: Sydney Jewish Museum, 2007). (Call no. RSING 959.5704092 SHA)
+
+Rudy Mosbergen, [_In the Grip of a Crisis: The Experiences of a Teenager During the Japanese Occupation of Singapore, 1942–45_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12910980) (Singapore: Printed by Seng City Trading, 2007). (Call no. RSING 940.54815957 MOS)
+
+Sheila Allan, [_Diary of a Girl in Changi, 1941–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12588700), 3rd ed (N.S.W.: Kangaroo Press, 2004). (Call no. RSING 940.547252092 ALL)
+
+Si Hoe Sing Leng, _[A Young Girl’s Wartime Diary: The Journal of a Teenager Written During the Japanese Occupation of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12974483)_ (Singapore: Lingzi Media, 2007). (Call no. RSING 959.5703 SIT)
+
+Wang Gungwu, “Memories of War: World War II in Asia,” in _[War and Memory in Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099)_, ed. P. Lim Pui Huen and Diana Wong (Singapore: Institute of Southeast Asian Studies, 2000), 11–22. (Call no. RSING 959.503 WAR)
+
+Yankev Glatshteyn, _Emil and Karl_, trans. Jeffrey Shandler (Connecticut: Roaring Book Press, 2006). (Original work published in Yiddish 1940)
+
+Yoshiko Uchida, _Journey to Topaz: A Story of the Japanese-American Evacuation_ (Berkeley, California: Heyday Books, 1971)
+
+Yoshiko Uchida, _Journey Home_ (New York: Aladdin Paperbacks, 1978)
+
+Yoshiko Uchida, _Desert Exile_ (Seattle: University of Washington Press, 1982)
+
+Yoshiko Uchida, _The Invisible Thread_ (New York: Beechtree, 1991)
 
 
 
