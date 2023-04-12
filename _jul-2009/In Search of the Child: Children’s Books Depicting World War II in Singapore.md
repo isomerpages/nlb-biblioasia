@@ -23,7 +23,14 @@ Within these two categories, the books set in Europe cover an impressive range, 
 
 What is especially interesting is that there are also well-crafted picture books set during the war, which could be appreciated by younger children.
 
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Butterfly.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>The Butterfly by Patricia Polacco All rights reserved, Philomel Books, 2000.
+</i></div>
+
 In *The Butterfly* by Patricia Polacco (2000), Monique, a young girl living in Nazi-occupied France, discovers that her mother has been sheltering a little Jewish girl in their house. The eventual discovery of the Jewish girl by the next-door neighbour leads to a dangerous journey at night to take her to another refuge. Polacco’s illustrations are hauntingly evocative, and capture the emotion of her young protagonists clearly. The book could easily be read to a child as young as six years old.
+
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/new%20coat%20for%20Anna.jpg" style="width:50%;">
+<div style="background-color: white;"><i>A New Coat For Anna by Harriet Ziefert; illustrated by Anita Lobel All rights reserved, Dragonfly Books, 1986.</i></div>
 
 *A New Coat for Anna*, written by Harriet Ziefert and illustrated by Anita Lobel (1986), would appeal to an even younger child. The war has ended but people still have to cope with the shortage of food and goods of any kind. When Anna needs a coat for the winter, her mother uses her ingenuity to exchange various treasured items to obtain first the wool, and then the workmanship for the coat. It is a moving story of a mother’s love and perseverance during the difficult post-war period.
 
@@ -174,6 +181,3 @@ Yoshiko Uchida, _The Invisible Thread_ (New York: Beechtree, 1991)
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Khoo%20Sim%20Lyn.jpg">
  <center><b>Khoo Sim Lyn</b><br>Lee Kong Chian Research Fellow <br> National Library </center></div>
-
-
-
