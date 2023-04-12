@@ -2,6 +2,7 @@ collections:
   jul-2009:
     output: true
     order:
+      - "Journey to the West: Dusty Roads, Stormy Seas and Transcendence.md"
       - "In Search of the Child: Children’s Books Depicting World War II in
         Singapore.md"
       - Director's Column.md
