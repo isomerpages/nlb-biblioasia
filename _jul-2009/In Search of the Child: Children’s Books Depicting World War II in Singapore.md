@@ -6,8 +6,8 @@ description: Lee Kong Chian Research Fellow Khoo Sim Lyn sets out to discover
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Khoo Sim Lyn_&nbsp;sets out to discover children’s books written in English, which depict World War II in Singapore.
 
-<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Papa%20as%20a%20little%20boy.jpg" style="width:50%;">
- <div style="background-color: white;"><i>Papa As A Little Boy Named Ah Koon by Andrew Tan All rights reserved, Ring of Light Publishers, 2007.</i></div>
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/young%20girl's%20wartime%20diary.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>A Young Girl’s Wartime Diary by Si Hoe Sing Leng All rights reserved, Lingzi Media, 2007.</i></div>
  
 #### **Introduction**
 
