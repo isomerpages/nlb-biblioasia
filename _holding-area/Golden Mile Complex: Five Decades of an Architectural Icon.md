@@ -99,9 +99,9 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^1]: Singapore. Housing and Development Board, Annual Report 1965 (Singapore: Housing and Development Board, 1966), 12. (From PublicationSG); Yap Cheng Tong, “Opens Today: First of the Golden Mile Projects,” *Straits Times*, 28 January 1972, 20. (From NewspaperSG)
 
-[^2]: Chia Poteik, “$90m Plan for a New Look Singapore,” Straits  Times, 16 June 1967, 5; “Fire! – By Order,” Straits Times, 1 August 1967, 20; “‘Golden Mile’ to Oust a Community Centre,” Straits Times, 26 June 1967, 7. (From NewspaperSG)
+[^2]: Chia Poteik, “$90m Plan for a New Look Singapore,” *Straits  Times*, 16 June 1967, 5; “Fire! – By Order,” *Straits Times*, 1 August 1967, 20; “‘Golden Mile’ to Oust a Community Centre,” *Straits Times*, 26 June 1967, 7. (From NewspaperSG)
 
-[^3]: 
+[^3]: Chia, “$90m Plan for a New Look Singapore.”
 
 [^4]: 
 
