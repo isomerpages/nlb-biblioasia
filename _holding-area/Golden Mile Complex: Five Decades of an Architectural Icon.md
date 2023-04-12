@@ -101,11 +101,11 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^2]: Chia Poteik, “[$90m Plan for a New Look Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670616-1.2.30),” *Straits  Times*, 16 June 1967, 5; “[Fire! – By Order](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670801-1.2.124),” *Straits Times*, 1 August 1967, 20; “[‘Golden Mile’ to Oust a Community Centre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670626-1.2.52),” *Straits Times*, 26 June 1967, 7. (From NewspaperSG)
 
-[^3]: Chia, “$90m Plan for a New Look Singapore.”
+[^3]: Chia, “[$90m Plan for a New Look Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670616-1.2.30).”
 
 [^4]: H. Koon Wee, “An Incomplete Megastructure: The Golden Mile Complex, Global Planning Education, and the Pedestrianised City,” *The Journal of Architecture* 25, no. 4 (May 2020): 472–506, ResearchGate, https://www.researchgate.net/publication/342952630_An_incomplete_megastructure_the_Golden_Mile_Complex_global_planning_education_and_the_pedestrianised_city.
 
-[^5]: “The Future of Asian Cities,” in *Singapore Planning and Urban Research Group 1965–1967* (Singapore: Singapore Planning and Urban Research Group, 1968), 8. (From National Library, Singapore, call no. RSING 307.1216095957 SIN)
+[^5]: “The Future of Asian Cities,” in *[Singapore Planning and Urban Research Group 1965–1967](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4348493)* (Singapore: Singapore Planning and Urban Research Group, 1968), 8. (From National Library, Singapore, call no. RSING 307.1216095957 SIN)
 
 [^6]: Rem Koolhaas, “Singapore Songlines: Portrait of a Potemkin Metropolis... or Thirty Years of Tabula Rasa,” in *S,M,L,XL*, ed. Jennifer Sigler (The Monacelli Press, 1995), 1011–87. (The National Library, Singapore, has the second edition published in 1998, call no. RART 720.92 SMA.) 
 
