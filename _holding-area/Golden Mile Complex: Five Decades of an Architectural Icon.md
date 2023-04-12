@@ -123,7 +123,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^13]: “Rows of Shops Make Way for Luxurious Complexes,” *Straits Times*, 5 September 1971, 18. (From NewspaperSG)
 
-[^14]: “Page 23 Advertisements Column 6,” *Straits Times*, 9 January 1972, 23; “Page 27 Advertisements Column 1,” *Straits Times*, 16 May 1972, 27; “Page 9 Advertisements Column 2,” *New Nation*, 15 January 1972, 9; “Photography – the Easy Way Out,” *New Nation*, 29 August 1972, 10; “Keep the Kids Happy and Out of Your Way,” *New Nation*, 18 April 1972, 9; “Page 14 Advertisements Column 4,” *New Nation*, 11 May 1972, 14; “Page 15 Advertisements Column 1,” New Nation, 22 June 1972, 15; “Golden Rajah Lounge for Fine Cuisine, Service,” Straits Times, 7 May 1973, 33, “Big Three Opens for Business,” Straits Times, 8 January 1972, 11. (From NewspaperSG)
+[^14]: “Page 23 Advertisements Column 6,” *Straits Times*, 9 January 1972, 23; “Page 27 Advertisements Column 1,” *Straits Times*, 16 May 1972, 27; “Page 9 Advertisements Column 2,” *New Nation*, 15 January 1972, 9; “Photography – the Easy Way Out,” *New Nation*, 29 August 1972, 10; “Keep the Kids Happy and Out of Your Way,” *New Nation*, 18 April 1972, 9; “Page 14 Advertisements Column 4,” *New Nation*, 11 May 1972, 14; “Page 15 Advertisements Column 1,” *New Nation*, 22 June 1972, 15; “Golden Rajah Lounge for Fine Cuisine, Service,” Straits Times, 7 May 1973, 33, “Big Three Opens for Business,” Straits Times, 8 January 1972, 11. (From NewspaperSG)
 
 
 [^15]: 
