@@ -137,21 +137,21 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^20]: Lito Gutierrez and Wong Kwai Chow, “Little Bangkok at the Golden Mile,” *Straits Times*, 6 January 1985, 3. (From NewspaperSG); Ho, “Where Thais Meet and Watch the World Go By.”
 
-[^21]: Annie Low, “Business at Its Sunday Best,” Straits Times, 25 April 1988, 11. (From Newslink via NLB’s eResources website); “Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 Lianhe Zaobao, 2 March 1988, 9; “Page 6 Advertisements Column 1,” Timezone Central, 15 February 1990, 6. (From NewspaperSG)
+[^21]: Annie Low, “Business at Its Sunday Best,” Straits Times, 25 April 1988, 11. (From Newslink via NLB’s eResources website); “Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 *Lianhe Zaobao*, 2 March 1988, 9; “Page 6 Advertisements Column 1,” *Timezone Central*, 15 February 1990, 6. (From NewspaperSG)
 
-[^22]: 
+[^22]: Luo Guowei 罗国威, “Hehe dasha nei xiao xiyuan zhuan fang taiyu pian” 和合大厦内小戏院专放泰语片 [The small theatre in Woh Hup Complex exclusively screens Thai-language films], 联合晚报 *Lianhe Zaobao*, 26 August 1990, 7; “B-Grade Heaven at Beach Road,” *Straits Times*, 16 September 1990, 15. (From NewspaperSG)
 
-[^23]: 
+[^23]: Ho, “Where Thais Meet and Watch the World Go By.”
 
-[^24]: 
+[^24]: K.F. Tang, “What Price Foreign Workers?,” *Straits Times*, Sunday Plus, 21 February 1988, 1. (From NewspaperSG)
 
-[^25]: 
+[^25]: Sharon Lim, “370 Suspected Thai Illegal Immigrants Held at Beach Road,” *Straits Times*, 13 March 1989, 1. (From NewspaperSG)
 
-[^26]: 
+[^26]: Koolhaas, “Singapore Songlines,” 1061.
 
-[^27]: 
+[^27]: Parvathi Nayar, “Script Writer of a Different Kind,” Business Times, 17 December 2005, 5. (From Newslink via NLB’s eResources website)
 
-[^28]: 
+[^28]: Danny Yeo, “Old Shopping Centres Need More Than a Facelift to Survive,” Business Times, 31 August 1993,  54. (From NewspaperSG)
 
 [^29]: 
 
