@@ -119,7 +119,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^11]: Chua, “Strata Megastructure,” 170.
 
-[^12]: “Page 9 Advertisements Column 1,” *Straits Times*, 26 April 1970, 9. (From NewspaperSG)
+[^12]: “[Page 9 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700426-1.2.70.1),” *Straits Times*, 26 April 1970, 9. (From NewspaperSG)
 
 [^13]: “Rows of Shops Make Way for Luxurious Complexes,” *Straits Times*, 5 September 1971, 18. (From NewspaperSG)
 
