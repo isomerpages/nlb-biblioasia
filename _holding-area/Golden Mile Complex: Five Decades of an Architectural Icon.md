@@ -78,3 +78,5 @@ The local architecture fraternity pushed back against Png’s comments. In Augus
 “The architectural thesis that GMC [Golden Mile Complex] represented was revolutionary – not just for Singapore but globally, too. It stood as a concrete realisation of the architects’ vision of a futuristic city-within-a-building that offered a whole, new integrated way of living in a modern, tropical, urban Asian context,” he wrote.[^34]
 
 In November the same year, a collective of architects, designers and artists known as FARM launched “Save the Modern Building Series”, a lineup of talks to raise awareness of the complex and other pioneering modern buildings such as Pearl Bank Apartments.[^35] In November 2007, the inaugural architecture festival, Singapore ArchiFest 07 – organised by the Singapore Institute of Architects to celebrate Singapore’s built environment – featured tours of the complex conducted by architecture students from the National University of Singapore.[^36]
+
+#### **A Landmark Saved, a Community Lost**
