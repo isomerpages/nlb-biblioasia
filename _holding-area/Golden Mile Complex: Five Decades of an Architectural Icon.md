@@ -111,7 +111,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^7]: “Page 6 Advertisements Column 1,” *Straits Times*, 29 January 1970, 6; “Page 6 Advertisements Column 1,” *Straits Times*, 26 February 1970, 6. (From NewspaperSG)
 
-[^8]: 
+[^8]: Brutalist buildings are characterised by minimalist constructions that expose the bare building materials – such as concrete, brick, glass and steel – and other structural elements in favour of design. These buildings are usually huge and block-like concrete structures. Other examples of Brutalist buildings in Singapore include People’s Park Complex, OCBC Centre and 111 Somerset. 
 
 [^9]: 
 
