@@ -177,7 +177,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^40]: Yunita Ong, “Golden Mile Complex May Stay – Even with En Bloc,” *Business Times*, 31 October 2018, https://www.businesstimes.com.sg/property/golden-mile-complex-may-stay-even-en-bloc.
 
-[^41]: Wong Pei Ting, “Conservation Clause in Golden Mile Complex En Bloc a Tough Sell: Analysts,” Today, 27 March 2019, https://www.todayonline.com/singapore/conservation-clause-golden-mile-complex-en-bloc-tough-sell-analysts; Grace Leong, “Conserved Landmark Golden Mile Complex Up for En Bloc Sale Again at $800m,” Business Times, 1 December 2021, https://www.straitstimes.com/business/property/conserved-landmark-golden-mile-complex-up-for-en-bloc-sale-again-at-800m.
+[^41]: Wong Pei Ting, “Conservation Clause in Golden Mile Complex En Bloc a Tough Sell: Analysts,” *Today*, 27 March 2019, https://www.todayonline.com/singapore/conservation-clause-golden-mile-complex-en-bloc-tough-sell-analysts; Grace Leong, “Conserved Landmark Golden Mile Complex Up for En Bloc Sale Again at $800m,” *Business Times*, 1 December 2021, https://www.straitstimes.com/business/property/conserved-landmark-golden-mile-complex-up-for-en-bloc-sale-again-at-800m.
 
 [^42]: 
 
