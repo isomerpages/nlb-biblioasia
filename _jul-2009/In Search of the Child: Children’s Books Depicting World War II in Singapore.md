@@ -16,8 +16,8 @@ Thus, the focus of my research fellowship at the National Library of Singapore i
 
 The books that portray WWII can be divided into two main categories:
 
-  books that portray the war from the autobiographical or biographical point of view; and  <br> <br>
-  books written as fiction set during the war years.
+books that portray the war from the autobiographical or biographical point of view; and  <br> <br>
+books written as fiction set during the war years.
 
 Within these two categories, the books set in Europe cover an impressive range, from books suitable for older children to picture books for young children. Moving from older to younger children, autobiographical books include Anne Frank’s *The Diary of a Young Girl* (first published in 1947), *The Upstairs Room* by Johanna Reiss (1972) and *When Hitler Stole Pink Rabbit* by Judith Kerr (1971). Many good fiction books have been written, and continue to be written. These include Robert Westall’s *The Machine-Gunners* (1975), which won the Carnegie Medal, Michelle Magorian’s *Goodnight Mister Tom* (1981), which won the 1982 Guardian Fiction Award, and *Number the Stars* (1989), which won the 1990 Newbery Award. Other notable books include *Friend or Foe* (1977) and *Waiting for Anya* (1990) by Michael Morpugo, and James Riordan’s *Escape from War* (2005).
 
@@ -43,11 +43,11 @@ While these books are certainly valuable accounts of the war years, they may not
 
 In *Rosie’s War*, the narrator is an adult recalling how she felt as a child, and her reminiscences are coloured by her adult reflections on her childhood feelings and experiences. Recalling the home she lived in before the war, she comments that:
 
-   “Sometimes it is better to keep the memories intact,<br>   safe, buried deep in the heart, to pull out occasionally to savour<br>   and polish. Somehow the older I get, the more I appreciate<br>   those happy times before the war, even though it was after<br>   that we became what I termed ‘well off’. . .” (p. 56).
+   “*Sometimes it is better to keep the memories intact*,<br>   *safe, buried deep in the heart, to pull out occasionally to savour*<br>   *and polish. Somehow the older I get, the more I appreciate*<br>   *those happy times before the war, even though it was after*<br>   *that we became what I termed ‘well off’*. . .” (p. 56).
 
 This is the adult Rosie trying to make sense of her childhood experiences. In contrast, there is no sense of the intrusion of the adult self upon the child protagonist in *The Upstairs Room*. The writer returns to the time when she was a child, and tells the story through the voice of Annie, the child narrator, who has just begun to realise what having to be confined to a tiny room for an indefinite period of time will entail:
 
-   “Unhappily I looked out of the window. ‘You’re lucky you<br>   can stay in today,’ Dini said. ‘It’s awful out. I wish I could<br>   stay up here with you.’ But right after she said that she<br>   left — to go to school. I’d even go to school and like it, if I<br>        could get out.“ (p. 47)
+   “*Unhappily I looked out of the window. ‘You’re lucky you*<br>   *can stay in today,’ Dini said. ‘It’s awful out. I wish I could*<br>   *stay up here with you.’ But right after she said that she*<br>   *left — to go to school. I’d even go to school and like it, if I*<br>        *could get out*.“ (p. 47)
 
 The viewpoint is that of Annie the child, for whom the frustration of being cooped up overshadows the danger of discovery. It would appear that Johanna Reiss made a conscious decision to write her story for children, even as Rosalind Sharbanee Meyer chose to write hers for the general reader.
 
@@ -67,7 +67,7 @@ Aisha Akbar shows an awareness of her intended child audience, stating in her pr
 
 She writes about the war in a factual, unsentimental way, sometimes finding humour even in dark situations. She recalls the somewhat surrealistic response of her neighbours to the bombing of Singapore:
 
-   “I hung about the fringe of the crowd, trying to determine <br>   what was going on, but I soon realised that they knew no <br>   more than I did. . . . The word I heard most often was ‘war’, <br>   and it seemed strange to me that if they really did believe <br> we were at ‘war’ no one had thought of turning off the <br>   lights. The whole of Singapore was lit as for a carnival, and <br>   the atmosphere was electric with excitement.” (p. 74)
+   “*I hung about the fringe of the crowd, trying to determine* <br>   *what was going on, but I soon realised that they knew no* <br>   *more than I did. . . . The word I heard most often was ‘war’*, <br>   *and it seemed strange to me that if they really did believe* <br> *we were at ‘war’ no one had thought of turning off the* <br>   *lights. The whole of Singapore was lit as for a carnival, and* <br>   *the atmosphere was electric with excitement*.” (p. 74)
 
 *A Young Girl’s Wartime Diary* contains the diary entries of the writer from 1942 to 1945. However, as the writer chooses to arrange her entries thematically rather than chronologically, her account lacks narrative strength, and the reader has to piece together the overall picture of the events unfolding in the book. There is also a rather jarring shift in perspective from the adult authorial introduction to each section and the subsequent diary entries of the young author. Nevertheless, the book gives a genuine glimpse into the thoughts and feelings of a girl living in Singapore during the war.
 
@@ -75,7 +75,7 @@ Edward Phua’s Sunny Days of an Urchin has a stronger narrative. Although the s
 
 Similarly, Peter Wee’s *From Farm &amp; Kampong* testifies to the resilience shown by the local population in coping with the sudden changes to their lifestyles. Peter Wee speaks appreciatively of his father’s readiness to buckle down to farm work:
 
-   “Work was hard and harsh, rest was a luxury, but Dad <br>   accepted his spartan life with calm fortitude. Any other <br>   man from Katong would perhaps have found it impossible <br>   to sustain such a life for any length of time, but the <br>   necessity of feeding six mouths maintained Dad’s resolve. <br>      He did not give up.” (p. 21)
+   “*Work was hard and harsh, rest was a luxury, but Dad* <br>   a*ccepted his spartan life with calm fortitude. Any other* <br>   *man from Katong would perhaps have found it impossible* <br>   *to sustain such a life for any length of time, but the* <br>   *necessity of feeding six mouths maintained Dad’s resolve*. <br>      *He did not give up*.” (p. 21)
 
 For the whole family, life soon changed from the “cultured, middle-class and English-educated urban ways” to the “harsh exigencies of farm life” (p. 23). However, Peter Wee also notes that their farm life did have its own rewards: he and his brothers soon became much more acquainted with nature (p. 25).
 
@@ -85,6 +85,17 @@ Similarly, *Papa As A Little Boy Named Ah Khoon* includes blackand-white illustr
 
 #### **The Lack of Fiction**
 
+While there are a handful of noteworthy autobiographies for children set during the war, there does not seem to be any book of fiction. The closest example would be the fictionalised biography, *Son of an Immigrant* (2007) by Joan Yap, which is based on the real life story of a barrister, Mr Lui Boon Poh. However, the part set during the war takes place in Batu Pahat, in then Malaya. The story shifts to Singapore only when the narrator, Ah Di, leaves Batu Pahat to find work in Singapore. It is an inspiring story about having the courage to pursue one’s dreams, with the war setting only occupying six of its 28 chapters.
+
+While the book would have benefited from better editing, as there are numerous grammatical errors in the book, overall, Joan Yap has done an admirable job of trying to “bridge the sobriety of history with the fun of fiction”.
+
+Indeed, the marriage of both history and fiction is an area with much potential for exploration in story books for children in Singapore.
+
+#### **Conclusion**
+
+One of the obvious conclusions that can be drawn is that while some efforts have made to capture true experiences during WWII in autobiographies for children, little effort has been made to write children’s fiction set during this period. Similarly, little effort has been made to cater to the young child, as the books were written for children with fairly good reading stamina. It is hoped that with time, greater effort will be made to write fiction for children depicting this period of history, as well as other significant periods in the history of this region. Well-known Singapore writers like Lee Tzu Pheng and Edwin Thumboo have noted that there is a need for more support for Singaporean Literature in English. The need is not just for suitably talented Singaporeans to write literature for Singaporeans, but also for other Singaporeans to read their efforts, so as to bring about “a literature of our own of such quality and significance that we regard it as a substantial part of our national identity.” (Lee, T. P., as cited in National Library, 2005b, p. 2). The need for a national literature was eloquently expressed by Margaret Atwood in 1972 in *Survival: A Thematic Guide to Canadian Literature*:
+
+“Literature is not only a mirror; it is also a map, a geography of the mind. Our literature is one such map, if we can learn to read it as our literature, as the product of who and where we have been. We need such a map desperately, we need to know about here, because here is where we live. For the members of a country or a culture, shared knowledge of their place, their here, is not a luxury but a necessity.” (p. 19)
 
 
 
