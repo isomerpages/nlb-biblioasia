@@ -185,4 +185,4 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^44]: Leong, “Conserved Landmark Golden Mile Complex Up for En Bloc Sale Again at $800m.”
 
-[^45]:Isabelle Liew, “Golden Mile Complex Sold for $700m, Developers to Restore Building,” Straits Times, 6 May 2022, https://www.straitstimes.com/business/property/golden-mile-complex-sold-for-700m-developers-to-restore-building.
+[^45]:Isabelle Liew, “Golden Mile Complex Sold for $700m, Developers to Restore Building,” *Straits Times*, 6 May 2022, https://www.straitstimes.com/business/property/golden-mile-complex-sold-for-700m-developers-to-restore-building.
