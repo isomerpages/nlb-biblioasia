@@ -107,9 +107,9 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^5]: “The Future of Asian Cities,” in *Singapore Planning and Urban Research Group 1965–1967* (Singapore: Singapore Planning and Urban Research Group, 1968), 8. (From National Library, Singapore, call no. RSING 307.1216095957 SIN)
 
-[^6]: 
+[^6]: Rem Koolhaas, “Singapore Songlines: Portrait of a Potemkin Metropolis... or Thirty Years of Tabula Rasa,” in *S,M,L,XL*, ed. Jennifer Sigler (The Monacelli Press, 1995), 1011–87. (The National Library, Singapore, has the second edition published in 1998, call no. RART 720.92 SMA.) 
 
-[^7]: 
+[^7]: “Page 6 Advertisements Column 1,” *Straits Times*, 29 January 1970, 6; “Page 6 Advertisements Column 1,” *Straits Times*, 26 February 1970, 6. (From NewspaperSG)
 
 [^8]: 
 
