@@ -6,6 +6,9 @@ description: ""
 #### *Money No Enough, Forever Fever* and *The Teenage Textbook Movie* kickstarted a new era in Singaporean cinema, making them prime candidates for restoration. 
 By Chew Tee Pao
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/money_no_have_poster.png)
+<div style="background-color: white;">In <i>Money No Enough</i> (1998), three friends with financial problems start a car polishing business together. <i>Courtesy of J Team Productions and Asian Film Archive.</i></div>
+
 Film restoration is often thought of as a process that is necessary for older films, perhaps like those produced in the 1950s and 1960s by Cathay-Keris Films and the Shaw Brothers’ Malay Film Productions. When films such as *Patah Hati* (1952) and *Seniman Bujang Lapok* (1961) were made, they were regarded simply as commercial entertainment and little effort was made to store them well. Today, they are considered classics and much time and effort has been spent to restore these prints and preserve them for posterity.
 
 However, even films of a more recent vintage are candidates for restoration. Often, a movie is seen as a commercial enterprise, made with an eye towards ensuring relatively quick returns for investors. It is only with the passage of time that some of these movies become classics and end up as candidates for restoration. 
@@ -21,6 +24,9 @@ The restored work was screened at the 26th Singapore International Film Festival
 #### **The Iconic 90s Trio**
 
 In 2017, the AFA embarked on the hunt for surviving film elements of three other iconic Singaporean films – *Money No Enough* (Tay Teck Lock, 1998), *Forever Fever* (Glen Goei, 1998) and *The Teenage Textbook Movie* (Phillip Lim, 1998) – that were released in local theatres in 1998. These films were instrumental to the revival of Singapore cinema in the late 1990s. 
+
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/money_no_enough.png)
+<div style="background-color: white;"><i>Money No Enough</i> features the use of Hokkien and Singlish. Starring (from left) Jack Neo (who wrote the screenplay), Mark Lee and Henry Thia, the film earned over $5.8 million in box office sales. <i>Courtesy of J Team Productions and Asian Film Archive.</i></div>
 
 Written by comedian and film director Jack Neo, *Money No Enough* is about three friends with financial problems who start a car polishing business together. In Mandarin, English and Hokkien, it was the all-time highest-grossing Singaporean film for more than a decade until the record was broken by Neo’s own directorial work, *Ah Boys to Men*, in 2012.[^1]
 
