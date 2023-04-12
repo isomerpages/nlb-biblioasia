@@ -153,31 +153,31 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^28]: Danny Yeo, “Old Shopping Centres Need More Than a Facelift to Survive,” *Business Times*, 31 August 1993,  54. (From NewspaperSG)
 
-[^29]: 
+[^29]: Evelyn Yap, “Not Quite the Golden Mile, But There’s Hope,” *Sunday Times*, 14 April 1996, 3. (From Newslink via NLB’s eResources website)
 
-[^30]: 
+[^30]: Singapore Parliament, “Parliamentary Debates Singapore Official Report Tenth Parliament Part II of Second Session,” 6 March 2006, Budget, https://sprs.parl.gov.sg/search/#/topic?reportid=006_20060306_S0004_T0005.
 
-[^31]: 
+[^31]: Wong Yunn Chii, et al., *Singapore 1:1 City: A Gallery of Architecture & Urban Design* (Singapore: Urban Redevelopment Authority, 2005), 162. (From National Library, Singapore, call no. RART 720.95957 WON)
 
-[^32]: 
+[^32]: Clarence Chang, “It’s So Unlike Orderly S’pore,” New Paper, 7 March 2006, 4. (From Newslink via NLB’s eResources website)
 
-[^33]: 
+[^33]: Desmond Ng and Esther Huang, “National Disgrace? But the View Is Great,” *New Paper*, 7 March 2006, 4. (From Newslink via NLB’s eResources website)
 
-[^34]: 
+[^34]: Calvin Low, “Golden Mile Still Shines,” *Straits Times*, 5 August 2006, 13. (From NewspaperSG)
 
-[^35]: 
+[^35]: David Chew, “Fighting for Our Landmarks,” *Today*, 11 November 2006, 58. (From NewspaperSG)
 
-[^36]: 
+[^36]: Tay Suan Chiang, “Tours Down Memory Lane,” Straits Times, 1 November 2007, 16. (From Newslink via NLB’s eResources website) 
 
-[^37]: 
+[^37]: Justin Zhuang, “Saving Pearl Bank Apartments,” *BiblioAsia* 12, no. 3 (October–December 2016): 12–16. 
 
-[^38]: 
+[^38]: Melody Zaccheus, “Golden Mile Complex Gets More Than 80 Per Cent Votes from Owners to Launch En Bloc Sale,” *Straits Times*, 11 August 2018,  https://www.straitstimes.com/singapore/golden-mile-complex-gets-more-than-80-per-cent-votes-from-owners-to-launch-en-bloc-sale.
 
-[^39]: 
+[^39]: Desmond Ng and Lam Shushan, “From the Occult to a Derelict Pool: 12 Things About Golden Mile Complex You Didn’t Know,” *CNA*, 30 September 2018, https://www.channelnewsasia.com/cnainsider/golden-mile-complex-occult-pool-conservation-brutalist-800971; Melody Zaccheus, “Farewell Golden Mile Complex? Residents Open Up About Their Love-Hate Relationship with the Landmark,” *Straits Times*, 22 September 2018, https://www.straitstimes.com/singapore/farewell-golden-mile-complex-residents-open-up-about-their-love-hate-relationship-with-the.
 
-[^40]: 
+[^40]: Yunita Ong, “Golden Mile Complex May Stay – Even with En Bloc,” *Business Times*, 31 October 2018, https://www.businesstimes.com.sg/property/golden-mile-complex-may-stay-even-en-bloc.
 
-[^41]: 
+[^41]: Wong Pei Ting, “Conservation Clause in Golden Mile Complex En Bloc a Tough Sell: Analysts,” Today, 27 March 2019, https://www.todayonline.com/singapore/conservation-clause-golden-mile-complex-en-bloc-tough-sell-analysts; Grace Leong, “Conserved Landmark Golden Mile Complex Up for En Bloc Sale Again at $800m,” Business Times, 1 December 2021, https://www.straitstimes.com/business/property/conserved-landmark-golden-mile-complex-up-for-en-bloc-sale-again-at-800m.
 
 [^42]: 
 
