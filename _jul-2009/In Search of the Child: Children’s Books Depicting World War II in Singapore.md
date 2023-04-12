@@ -97,7 +97,10 @@ She writes about the war in a factual, unsentimental way, sometimes finding humo
 
 *A Young Girl’s Wartime Diary* contains the diary entries of the writer from 1942 to 1945. However, as the writer chooses to arrange her entries thematically rather than chronologically, her account lacks narrative strength, and the reader has to piece together the overall picture of the events unfolding in the book. There is also a rather jarring shift in perspective from the adult authorial introduction to each section and the subsequent diary entries of the young author. Nevertheless, the book gives a genuine glimpse into the thoughts and feelings of a girl living in Singapore during the war.
 
-Edward Phua’s Sunny Days of an Urchin has a stronger narrative. Although the style of writing is not as elegant as in Aishabee at War, the book is peppered with interesting details of the author’s childhood. His account testifies to the sheer ingenuity shown by his family members in creating ways to cope with the shortages of food and basic necessities during the war. This included devising ways to grow padi in their backyard and to harvest the rice.
+Edward Phua’s *Sunny Days of an Urchin* has a stronger narrative. Although the style of writing is not as elegant as in Aishabee at War, the book is peppered with interesting details of the author’s childhood. His account testifies to the sheer ingenuity shown by his family members in creating ways to cope with the shortages of food and basic necessities during the war. This included devising ways to grow padi in their backyard and to harvest the rice.
+
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Sunny%20days%20of%20an%20urchin.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Sunny Days of an Urchin by Edward Phua All rights reserved, Federal Publications, 1996.</i></div>
 
 Similarly, Peter Wee’s *From Farm &amp; Kampong* testifies to the resilience shown by the local population in coping with the sudden changes to their lifestyles. Peter Wee speaks appreciatively of his father’s readiness to buckle down to farm work:
 
@@ -107,9 +110,15 @@ For the whole family, life soon changed from the “cultured, middle-class and E
 
 Peter Wee has thoughtfully included black-and-white drawings of the two villages he lived in which are especially helpful as one of the villages no longer exists, while the other has changed substantially.
 
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Papa%20as%20a%20little%20boy.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Papa As A Little Boy Named Ah Koon by Andrew Tan All rights reserved, Ring of Light Publishers, 2007.</i></div>
+
 Similarly, *Papa As A Little Boy Named Ah Khoon* includes blackand-white illustrations which help the reader of today to bridge the gap between the Singapore of the 1940s and 1950s and the Singapore of today. As in Peter Wee’s book, the war occupies the first part of Andrew Tan’s book, which is a record of the author’s childhood from 1943 to 1953.
 
 #### **The Lack of Fiction**
+
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Son%20of%20an%20immigrant.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Son of An Immigrant by Joan Yap All rights reserved, Joan Yap, 2007.</i></div>
 
 While there are a handful of noteworthy autobiographies for children set during the war, there does not seem to be any book of fiction. The closest example would be the fictionalised biography, *Son of an Immigrant* (2007) by Joan Yap, which is based on the real life story of a barrister, Mr Lui Boon Poh. However, the part set during the war takes place in Batu Pahat, in then Malaya. The story shifts to Singapore only when the narrator, Ah Di, leaves Batu Pahat to find work in Singapore. It is an inspiring story about having the courage to pursue one’s dreams, with the war setting only occupying six of its 28 chapters.
 
