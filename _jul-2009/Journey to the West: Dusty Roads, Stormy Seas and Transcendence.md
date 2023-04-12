@@ -35,9 +35,10 @@ Despite the large number of Chinese monks who embarked on this adventure, only t
 It should be noted that these texts are translations of the original accounts, and published many centuries after the travels had been completed. The veracity of these translated works must therefore be questioned, as highlighted by Jack Sewell:
 
    “*We have to remember when we look back at the ancient* <br>   *past that histories were often written by those who* <br>   *sometimes were burdened by the times they lived in*.”2
+	 
+Added to this is the tendency to romanticise the events of such ancient travels, and emphasise the exotic and wondrous sights and feats. Yet, as religious accounts, the writers were also bound by a responsibility to truth.
 
-
-
+So while we may express some degree of scepticism when reading about threatening dragons and demons, or accounts of extraordinary miracles, we should not discount the real physical dangers and challenges that the monks had to endure throughout their journeys. Difficult terrains, shipwrecks, thirst and hunger were all genuine threats to the completion of their pilgrimages.
 
 
 
