@@ -16,8 +16,8 @@ Thus, the focus of my research fellowship at the National Library of Singapore i
 
 The books that portray WWII can be divided into two main categories:
 
-books that portray the war from the autobiographical or biographical point of view; and  <br> <br>
-books written as fiction set during the war years.
+  books that portray the war from the autobiographical or biographical point of view; and  <br> <br>
+  books written as fiction set during the war years.
 
 Within these two categories, the books set in Europe cover an impressive range, from books suitable for older children to picture books for young children. Moving from older to younger children, autobiographical books include Anne Frank’s *The Diary of a Young Girl* (first published in 1947), *The Upstairs Room* by Johanna Reiss (1972) and *When Hitler Stole Pink Rabbit* by Judith Kerr (1971). Many good fiction books have been written, and continue to be written. These include Robert Westall’s *The Machine-Gunners* (1975), which won the Carnegie Medal, Michelle Magorian’s *Goodnight Mister Tom* (1981), which won the 1982 Guardian Fiction Award, and *Number the Stars* (1989), which won the 1990 Newbery Award. Other notable books include *Friend or Foe* (1977) and *Waiting for Anya* (1990) by Michael Morpugo, and James Riordan’s *Escape from War* (2005).
 
@@ -33,7 +33,7 @@ Sadly, the search for books set during the war in Singapore indicates that this 
 
 #### **The Historian's Viewpoint**
 
-The lack of interest in WWII is not new to historians, who have noted that when compared with Europe, there was “a relative absence of public commemoration of the war in this region” (Wong, 2000, p. 1). Not surprisingly then, while WW II was well-documented in Europe, the situation was quite different in Asia. Historian Wang Gungwu found that “some dramatic personal experiences did go on record, and some novels and short stories were set during periods of Japanese Occupation, but they were few” (p. 11, 2000). P. Lim Pui Huen found that 50 years after the war, only about “50 odd volumes” (p.121, 1995) of autobiographies and memoirs of the war had been written by members of the local population of Peninsular Malaysia and Singapore. While more autobiographies have surfaced from the intervening years, there has not been a significant increase.
+The lack of interest in WWII is not new to historians, who have noted that when compared with Europe, there was “a relative absence of public commemoration of the war in this region” (Wong, 2000, p. 1). Not surprisingly then, while WW II was well-documented in Europe, the situation was quite different in Asia. Historian Wang Gungwu found that “some dramatic personal experiences did go on record, and some novels and short stories were set during periods of Japanese Occupation, but they were few” (p. 11, 2000). P. Lim Pui Huen found that 50 years after the war, only about “50 odd volumes” (p. 121, 1995) of autobiographies and memoirs of the war had been written by members of the local population of Peninsular Malaysia and Singapore. While more autobiographies have surfaced from the intervening years, there has not been a significant increase.
 
 #### **Intended Audience**
 
@@ -56,6 +56,34 @@ The viewpoint is that of Annie the child, for whom the frustration of being coop
 To further illustrate this point, let’s briefly look at the books of Japanese-American writer, Yoshiko Uchida. During WWII, although she was an American citizen, Yoshiko Uchida was interned together with other Japanese-Americans because of their Japanese ancestry. She wrote about this experience in an autobiography entitled *Desert Exile: The Uprooting of a Japanese American Family* (1982), writing as an adult looking back upon her life, but in *The Invisible Thread* (1991), she writes for children, beginning with the time when she was a sixyear-old until the time she was incarcerated during WWII. Thus, Yoshiko Uchida chose to write about her experiences for two separate audiences, and tailored her stories accordingly.
 
 Similarly, in her fiction for children, the decision to speak through a child protagonist is clearly a conscious one. Although she was an adult when she was interned, in order to write for children about her experiences, she created the character of 11-year-old Yuki Sakane in *Journey to Topaz* (1971) and the follow-up book, *Journey Home* (1978). The story is told through the eyes of Yuki, the child protagonist.
+
+#### **Intended Audience: The Child Reader**
+
+There are, however, only a handful of autobiographies set in Singapore during WWII that are written specifically for children. These include *Aishabee at War* by Aisha Akbar (1990), *From Farm &amp; Kampong* by Dr Peter H.L. Wee (1989), *A Young Girl’s Wartime Diary* by Si Hoe Sing Leng (2007), *Sunny Days of an Urchin* by Edward Phua (1996), and *Papa as a Little Boy named Ah Khoon* by Andrew Tan Chee Khoon (2007).
+
+Of these, *Aishabee at War* is arguably the most successful. It is a lively account of the author’s life between 1935 and 1945, filledwith details that a child growing up into a teenager would note. On the one hand, her account is of a childhood much like any other. She writes, for instance, of her struggle to establish a place for herself as the youngest member of a large family, and how she found solace in reading and music. On the other hand, it is a fascinating account of a child living in unusual times. The details of history are woven into the fabric of the story, and revealed through the story, rather than through authorial intrusion.
+
+Aisha Akbar shows an awareness of her intended child audience, stating in her preface that her autobiography “is a true account, as far as I can remember, of the events before the war, and up till 1945, as seen through the eyes of a child.”
+
+She writes about the war in a factual, unsentimental way, sometimes finding humour even in dark situations. She recalls the somewhat surrealistic response of her neighbours to the bombing of Singapore:
+
+   “I hung about the fringe of the crowd, trying to determine <br>   what was going on, but I soon realised that they knew no <br>   more than I did. . . . The word I heard most often was ‘war’, <br>   and it seemed strange to me that if they really did believe <br> we were at ‘war’ no one had thought of turning off the <br>   lights. The whole of Singapore was lit as for a carnival, and <br>   the atmosphere was electric with excitement.” (p. 74)
+
+*A Young Girl’s Wartime Diary* contains the diary entries of the writer from 1942 to 1945. However, as the writer chooses to arrange her entries thematically rather than chronologically, her account lacks narrative strength, and the reader has to piece together the overall picture of the events unfolding in the book. There is also a rather jarring shift in perspective from the adult authorial introduction to each section and the subsequent diary entries of the young author. Nevertheless, the book gives a genuine glimpse into the thoughts and feelings of a girl living in Singapore during the war.
+
+Edward Phua’s Sunny Days of an Urchin has a stronger narrative. Although the style of writing is not as elegant as in Aishabee at War, the book is peppered with interesting details of the author’s childhood. His account testifies to the sheer ingenuity shown by his family members in creating ways to cope with the shortages of food and basic necessities during the war. This included devising ways to grow padi in their backyard and to harvest the rice.
+
+Similarly, Peter Wee’s *From Farm &amp; Kampong* testifies to the resilience shown by the local population in coping with the sudden changes to their lifestyles. Peter Wee speaks appreciatively of his father’s readiness to buckle down to farm work:
+
+   “Work was hard and harsh, rest was a luxury, but Dad <br>   accepted his spartan life with calm fortitude. Any other <br>   man from Katong would perhaps have found it impossible <br>   to sustain such a life for any length of time, but the <br>   necessity of feeding six mouths maintained Dad’s resolve. <br>      He did not give up.” (p. 21)
+
+For the whole family, life soon changed from the “cultured, middle-class and English-educated urban ways” to the “harsh exigencies of farm life” (p. 23). However, Peter Wee also notes that their farm life did have its own rewards: he and his brothers soon became much more acquainted with nature (p. 25).
+
+Peter Wee has thoughtfully included black-and-white drawings of the two villages he lived in which are especially helpful as one of the villages no longer exists, while the other has changed substantially.
+
+Similarly, *Papa As A Little Boy Named Ah Khoon* includes blackand-white illustrations which help the reader of today to bridge the gap between the Singapore of the 1940s and 1950s and the Singapore of today. As in Peter Wee’s book, the war occupies the first part of Andrew Tan’s book, which is a record of the author’s childhood from 1943 to 1953.
+
+#### **The Lack of Fiction**
 
 
 
