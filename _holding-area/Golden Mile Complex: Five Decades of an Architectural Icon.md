@@ -129,7 +129,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^16]: Peter Keys, “Where Architects Go for Lunch,” *Straits Times*, 21 April 1984, 5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^17]: Ang Peng Hwa, “Angry Petition by Golden Mile Complex Residents,” *Singapore Monitor*, 31 July 1983, 45; “Zoulang laji yue ji yue duo” 走廊垃圾越积越多 [Corridor litter piles up], 新明日报 *Shin Min Daily*, 1 December 1983, 23; “Mei feng xia dayu wuding bi loushui” 每逢下大雨屋顶必漏水 [Whenever it rains heavily, the roof will leak], 联合早报 *Lianhe Zaobao*, 11 May 1983, 5; “Tenants Fume Over the Heat,” *Straits Times*, 16 August 1984, 14. (From NewspaperSG)
+[^17]: Ang Peng Hwa, “[Angry Petition by Golden Mile Complex Residents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830731-1.2.42.26),” *Singapore Monitor*, 31 July 1983, 45; “[Zoulang laji yue ji yue duo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19831201-1.2.16.35)” 走廊垃圾越积越多 [Corridor litter piles up], 新明日报 *Shin Min Daily*, 1 December 1983, 23; “[Mei feng xia dayu wuding bi loushui](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19830511-1.2.12.18)” 每逢下大雨屋顶必漏水 [Whenever it rains heavily, the roof will leak], 联合早报 *Lianhe Zaobao*, 11 May 1983, 5; “[Tenants Fume Over the Heat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840816-1.2.21.23),” *Straits Times*, 16 August 1984, 14. (From NewspaperSG)
 
 [^18]: Choo Ai Leng, “City Developments Sits on Solid Base,” *Business Times*, 7 May 1981, 11. (From NewspaperSG)
 
