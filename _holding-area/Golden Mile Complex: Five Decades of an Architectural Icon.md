@@ -131,9 +131,9 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^17]: Ang Peng Hwa, “Angry Petition by Golden Mile Complex Residents,” *Singapore Monitor*, 31 July 1983, 45; “Zoulang laji yue ji yue duo” 走廊垃圾越积越多 [Corridor litter piles up], 新明日报 *Shin Min Daily*, 1 December 1983, 23; “Mei feng xia dayu wuding bi loushui” 每逢下大雨屋顶必漏水 [Whenever it rains heavily, the roof will leak], 联合早报 *Lianhe Zaobao*, 11 May 1983, 5; “Tenants Fume Over the Heat,” *Straits Times*, 16 August 1984, 14. (From NewspaperSG)
 
-[^18]: 
+[^18]: Choo Ai Leng, “City Developments Sits on Solid Base,” *Business Times*, 7 May 1981, 11. (From NewspaperSG)
 
-[^19]: 
+[^19]: May Ho, “Where Thais Meet and Watch the World Go By,” *Straits Times*, 21 August 1986, 2. (From Newslink via NLB’s eResources website); May Ho, “Like a Street Corner in Haadyai,” *Straits Times*, 21 August 1986, 2. (From NewspaperSG)
 
 [^20]: 
 
