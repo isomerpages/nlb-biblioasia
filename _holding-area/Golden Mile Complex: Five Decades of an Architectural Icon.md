@@ -109,7 +109,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^6]: Rem Koolhaas, “Singapore Songlines: Portrait of a Potemkin Metropolis... or Thirty Years of Tabula Rasa,” in *S,M,L,XL*, ed. Jennifer Sigler (The Monacelli Press, 1995), 1011–87. (The National Library, Singapore, has the [second edition](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12444346) published in 1998, call no. RART 720.92 SMA.) 
 
-[^7]: “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700129-1.2.53.1),” *Straits Times*, 29 January 1970, 6; “Page 6 Advertisements Column 1,” *Straits Times*, 26 February 1970, 6. (From NewspaperSG)
+[^7]: “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700129-1.2.53.1),” *Straits Times*, 29 January 1970, 6; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700226-1.2.46.1),” *Straits Times*, 26 February 1970, 6. (From NewspaperSG)
 
 [^8]: Brutalist buildings are characterised by minimalist constructions that expose the bare building materials – such as concrete, brick, glass and steel – and other structural elements in favour of design. These buildings are usually huge and block-like concrete structures. Other examples of Brutalist buildings in Singapore include People’s Park Complex, OCBC Centre and 111 Somerset. 
 
