@@ -46,6 +46,9 @@ The lack of interest in WWII is not new to historians, who have noted that when 
 
 Among this relatively small number of autobiographies, few were written with the child reader in mind. Most were written for the general public. Many of the writers, who were children at the time of the war, wrote about their childhood memories of the war as adults looking back upon their childhood, so that the child protagonist is seen through the eyes of the adult narrator. Most writers who expressed the hope that their memoirs would enable young readers to better understand this period of Singapore’s history appear to have written for readers of approximately 14 and above. This is seen in *Diary of a Girl in Changi* (1941–1945) by Sheila Allan (1994, 2004), *Rosie’s War: Escape from Singapore* 1942 by Rosalind Sharbanee Meyer (2007), *In the Grip of a Crisis* by Rudy Mosbergen (2007), *A Cloistered War: Behind the Convent Walls During the Japanese Occupation* by Maisie Duncan (2004), and *Escape from Battambang: A Personal World War II Experience* by Geoffrey Tan (2001).
 
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Rosie%20war.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Roise’s War by Rosalind Sharbanee Meyer All rights reserved, Jewish Museum, 2007.</i></div>
+
 While these books are certainly valuable accounts of the war years, they may not be books that the child reader would choose to read simply because the intended audience is not the child reader. Who the author writes for will naturally affect the way the story is told. Hence, there is a clear difference between the intended audience of *The Upstairs Room* and *Rosie’s War*. Both books were based on the true experiences of their writers, Jewish girls who had to flee their homes during the war, and both are first-person narratives.
 
 In *Rosie’s War*, the narrator is an adult recalling how she felt as a child, and her reminiscences are coloured by her adult reflections on her childhood feelings and experiences. Recalling the home she lived in before the war, she comments that:
@@ -62,7 +65,14 @@ The viewpoint is that of Annie the child, for whom the frustration of being coop
 
 To further illustrate this point, let’s briefly look at the books of Japanese-American writer, Yoshiko Uchida. During WWII, although she was an American citizen, Yoshiko Uchida was interned together with other Japanese-Americans because of their Japanese ancestry. She wrote about this experience in an autobiography entitled *Desert Exile: The Uprooting of a Japanese American Family* (1982), writing as an adult looking back upon her life, but in *The Invisible Thread* (1991), she writes for children, beginning with the time when she was a sixyear-old until the time she was incarcerated during WWII. Thus, Yoshiko Uchida chose to write about her experiences for two separate audiences, and tailored her stories accordingly.
 
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Journey%20to%20Topaz.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Journey to Topaz by Yoshiko Uchida All rights reserved, Heyday Books, 1971.</i></div>
+
 Similarly, in her fiction for children, the decision to speak through a child protagonist is clearly a conscious one. Although she was an adult when she was interned, in order to write for children about her experiences, she created the character of 11-year-old Yuki Sakane in *Journey to Topaz* (1971) and the follow-up book, *Journey Home* (1978). The story is told through the eyes of Yuki, the child protagonist.
+
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/A%20Journey%20Home.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Journey Home by Yoshiko Uchida All rights reserved, Aladdin Paperbacks, 1978
+.</i></div>
 
 #### **Intended Audience: The Child Reader**
 
