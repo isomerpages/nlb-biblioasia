@@ -149,9 +149,9 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^26]: Koolhaas, “Singapore Songlines,” 1061.
 
-[^27]: Parvathi Nayar, “Script Writer of a Different Kind,” Business Times, 17 December 2005, 5. (From Newslink via NLB’s eResources website)
+[^27]: Parvathi Nayar, “Script Writer of a Different Kind,” *Business Times*, 17 December 2005, 5. (From Newslink via NLB’s eResources website)
 
-[^28]: Danny Yeo, “Old Shopping Centres Need More Than a Facelift to Survive,” Business Times, 31 August 1993,  54. (From NewspaperSG)
+[^28]: Danny Yeo, “Old Shopping Centres Need More Than a Facelift to Survive,” *Business Times*, 31 August 1993,  54. (From NewspaperSG)
 
 [^29]: 
 
