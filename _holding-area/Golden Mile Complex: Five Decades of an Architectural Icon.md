@@ -179,10 +179,10 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^41]: Wong Pei Ting, “Conservation Clause in Golden Mile Complex En Bloc a Tough Sell: Analysts,” *Today*, 27 March 2019, https://www.todayonline.com/singapore/conservation-clause-golden-mile-complex-en-bloc-tough-sell-analysts; Grace Leong, “Conserved Landmark Golden Mile Complex Up for En Bloc Sale Again at $800m,” *Business Times*, 1 December 2021, https://www.straitstimes.com/business/property/conserved-landmark-golden-mile-complex-up-for-en-bloc-sale-again-at-800m.
 
-[^42]: 
+[^42]: “Supporting the Conservation and Commercial Viability of Golden Mile Complex,” Urban Redevelopment Authority, 9 October 2020, https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr20-28.
 
-[^43]: 
+[^43]: Davina Tham, “Golden Mile Complex Gazetted as Conserved Building,” *CNA*, 22 October 2021, https://www.channelnewsasia.com/singapore/golden-mile-complex-conserved-building-gazetted-2261896.
 
-[^44]: 
+[^44]: Leong, “Conserved Landmark Golden Mile Complex Up for En Bloc Sale Again at $800m.”
 
-[^45]:
+[^45]:Isabelle Liew, “Golden Mile Complex Sold for $700m, Developers to Restore Building,” Straits Times, 6 May 2022, https://www.straitstimes.com/business/property/golden-mile-complex-sold-for-700m-developers-to-restore-building.
