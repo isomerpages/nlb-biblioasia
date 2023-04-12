@@ -49,10 +49,13 @@ This is the adult Rosie trying to make sense of her childhood experiences. In co
 
    “Unhappily I looked out of the window. ‘You’re lucky you<br>   can stay in today,’ Dini said. ‘It’s awful out. I wish I could<br>   stay up here with you.’ But right after she said that she<br>   left — to go to school. I’d even go to school and like it, if I<br>        could get out.“ (p. 47)
 
+The viewpoint is that of Annie the child, for whom the frustration of being cooped up overshadows the danger of discovery. It would appear that Johanna Reiss made a conscious decision to write her story for children, even as Rosalind Sharbanee Meyer chose to write hers for the general reader.
 
+#### **The Voice of the Child**
 
+To further illustrate this point, let’s briefly look at the books of Japanese-American writer, Yoshiko Uchida. During WWII, although she was an American citizen, Yoshiko Uchida was interned together with other Japanese-Americans because of their Japanese ancestry. She wrote about this experience in an autobiography entitled *Desert Exile: The Uprooting of a Japanese American Family* (1982), writing as an adult looking back upon her life, but in *The Invisible Thread* (1991), she writes for children, beginning with the time when she was a sixyear-old until the time she was incarcerated during WWII. Thus, Yoshiko Uchida chose to write about her experiences for two separate audiences, and tailored her stories accordingly.
 
-
+Similarly, in her fiction for children, the decision to speak through a child protagonist is clearly a conscious one. Although she was an adult when she was interned, in order to write for children about her experiences, she created the character of 11-year-old Yuki Sakane in *Journey to Topaz* (1971) and the follow-up book, *Journey Home* (1978). The story is told through the eyes of Yuki, the child protagonist.
 
 
 
