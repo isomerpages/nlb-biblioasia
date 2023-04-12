@@ -168,3 +168,13 @@ Yoshiko Uchida, _Journey Home_ (New York: Aladdin Paperbacks, 1978)
 Yoshiko Uchida, _Desert Exile_ (Seattle: University of Washington Press, 1982)
 
 Yoshiko Uchida, _The Invisible Thread_ (New York: Beechtree, 1991)
+
+![](/images/Authors/Khoo%20Sim%20Lyn.jpg)
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Khoo%20Sim%20Lyn.jpg">
+<b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
+
+
