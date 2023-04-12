@@ -113,7 +113,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^8]: Brutalist buildings are characterised by minimalist constructions that expose the bare building materials – such as concrete, brick, glass and steel – and other structural elements in favour of design. These buildings are usually huge and block-like concrete structures. Other examples of Brutalist buildings in Singapore include People’s Park Complex, OCBC Centre and 111 Somerset. 
 
-[^9]: 
+[^9]: “A Winner Puts His Stamp on Creative Design,” *Singapore Herald*, 8 October 1970, 5. (From Newslink via NLB’s eResources website)
 
 [^10]: 
 
