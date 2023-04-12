@@ -115,7 +115,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^9]: “A Winner Puts His Stamp on Creative Design,” *Singapore Herald*, 8 October 1970, 5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^10]: Calvin Chua, “Strata Megastructure: Architecture of Flexibility and Enterprise,” in *The Impossibility of Mapping* (Urban Asia), ed. Ute Meta Bauer, Khim Ong and Roger Nelson (Singapore: NTU Centre for Contemporary Art Singapore and World Scientific Publishing, 2020), 164–77. (From National Library, Singapore, call no. RSING 720.9590904 IMP)
+[^10]: Calvin Chua, “Strata Megastructure: Architecture of Flexibility and Enterprise,” in *[The Impossibility of Mapping* (Urban Asia)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204371344), ed. Ute Meta Bauer, Khim Ong and Roger Nelson (Singapore: NTU Centre for Contemporary Art Singapore and World Scientific Publishing, 2020), 164–77. (From National Library, Singapore, call no. RSING 720.9590904 IMP)
 
 [^11]: Chua, “Strata Megastructure,” 170.
 
