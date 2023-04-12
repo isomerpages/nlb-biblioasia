@@ -76,7 +76,13 @@ Similarly, in her fiction for children, the decision to speak through a child pr
 
 #### **Intended Audience: The Child Reader**
 
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/From%20farm%20to%20kampong.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>From Farm &amp; Kampong by Dr Peter H.L. Wee All rights reserved, Graham Brash, 1989.</i></div>
+
 There are, however, only a handful of autobiographies set in Singapore during WWII that are written specifically for children. These include *Aishabee at War* by Aisha Akbar (1990), *From Farm &amp; Kampong* by Dr Peter H.L. Wee (1989), *A Young Girl’s Wartime Diary* by Si Hoe Sing Leng (2007), *Sunny Days of an Urchin* by Edward Phua (1996), and *Papa as a Little Boy named Ah Khoon* by Andrew Tan Chee Khoon (2007).
+
+<img src="/images/Vol%205%20Issue%202/ChildrenBooks/Aishabee%20At%20War.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Aishabee at War by Aisha Akbar All rights reserved, Landmark Books, 1990.</i></div>
 
 Of these, *Aishabee at War* is arguably the most successful. It is a lively account of the author’s life between 1935 and 1945, filledwith details that a child growing up into a teenager would note. On the one hand, her account is of a childhood much like any other. She writes, for instance, of her struggle to establish a place for herself as the youngest member of a large family, and how she found solace in reading and music. On the other hand, it is a fascinating account of a child living in unusual times. The details of history are woven into the fabric of the story, and revealed through the story, rather than through authorial intrusion.
 
