@@ -162,7 +162,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^18]: Choo Ai Leng, “[City Developments Sits on Solid Base](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810507-1.2.40.1),” *Business Times*, 7 May 1981, 11. (From NewspaperSG)
 
-[^19]: May Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1),” *Straits Times*, 21 August 1986, 2. (From Newslink via NLB’s eResources website); May Ho, “Like a Street Corner in Haadyai,” *Straits Times*, 21 August 1986, 2. (From NewspaperSG)
+[^19]: May Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1),” *Straits Times*, 21 August 1986, 2. (From Newslink via NLB’s eResources website); May Ho, “[Like a Street Corner in Haadyai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.2),” *Straits Times*, 21 August 1986, 2. (From NewspaperSG)
 
 [^20]: Lito Gutierrez and Wong Kwai Chow, “Little Bangkok at the Golden Mile,” *Straits Times*, 6 January 1985, 3. (From NewspaperSG); Ho, “Where Thais Meet and Watch the World Go By.”
 
