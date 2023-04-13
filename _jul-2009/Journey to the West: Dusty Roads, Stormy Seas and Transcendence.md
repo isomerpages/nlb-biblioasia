@@ -87,7 +87,16 @@ Although his contemporaries at Nalanda tried to dissuade him from going back to 
 
 At the request of Emperor Taizong (626- 49 A.D.), Xuanzang wrote his travelogue, and this remains one of his most important legacies. It documented the period of Buddhism in a state of decline in India, and gave a background to the passing of an age. In the early 20th century, Aurel Stein, a renowned archaeologist, rediscovered some of the kingdoms that Xuanzang visited and validated Xuanzang’s accounts.5 Xuanzang has achieved iconic status in Chinese Buddhism and is also immortalised as a folkhero in literature.6
 
-#### **Penyingkapan Budaya dan Tradisi**
+#### **Yijing (c. 635–713 A.D.)**
+
+Yijing’s text can be described as a geographical travelogue as well as an account of the state of Buddhism in India and Southeast Asia. Yijing was born in 635 A.D. during the reign of the Tang Emperor Taizong. He made the decision to travel to India when he was 18 years old and was ordained two years later. He was a great admirer of Faxian and Xuanzang, and embarked on his journey from Guangdong in 671 A.D., sailing in a Persian ship. Yijing was possibly the first Chinese traveller to describe the maritime route from China to India:
+
+   “*Cutting through the immense*<br>   *abyss, the great swells of water lie*,<br>  &amp;emsp*;like a mountain, on the sea*. Joining<br>   *sideways with a vast gulf-stream*,<br>   *the massive waves, like clouds*, dash<br>     *against the sky*.”
+
+
+
+
+
 
 
 
