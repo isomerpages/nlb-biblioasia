@@ -97,7 +97,28 @@ He reached Srivijaya (present-day Sumatra) after 20 days, and studied Sanskrit t
 
 They reached Nalanda the next day, and Yijing remained there for 10 years. He was a great observer, and his detailed accounts of the monastic life and rituals at Nalanda are unparalleled. Yijing’s records provide us with a comprehensive picture of what it was like to be a Buddhist monk in the great Indian monastic centres.
 
-Yijing’s geographical descriptions of the region, particularly Southeast Asia, also focus on the role of Buddhism in those kingdoms. The predominant form of Buddhism in Srivijaya was of the Hinayana (Theravada) tradition. His descriptions of the Malay Peninsula showed that it had many trade centres and a thriving maritime network. Other kingdoms in Southeast Asia such as Dvaravati and Langasuka in Thailand and Prome in Burma, were also described or alluded to. All these accounts add to the current state of Southeast Asia’s historical knowledge.
+Yijing’s geographical descriptions of the region, particularly Southeast Asia, also focus on the role of Buddhism in those kingdoms. The predominant form of Buddhism in Srivijaya was of the Hinayana (Theravada) tradition. His descriptions of the Malay Peninsula showed that it had many trade centres and a thriving maritime network. Other kingdoms in Southeast Asia such as Dvaravati and Langasuka in Thailand and Prome in Burma, were also described or alluded to. All these accounts add to the current state of Southeast Asi
+a’s historical knowledge.
+
+Yijing wrote another treatise called “Monks of the Buddhist Faith who went to the Western Country under the Tang Dynasty.” In it, he detailed the accounts of 51 monks from China who travelled to India during the Tang period and described the hardships and privations borne by them as well as their admirable spirit and desire for learning.
+
+Yijing left India for China in 685 A.D. by ship but disembarked at Srivijaya instead, where he spent his time translating 400 Sanskrit works that he had taken with him. 
+
+He finally returned to China only in 695 A.D. Before his final passing in 713 A.D., he had with the help of nine Indian monks completed 56 translations in 230 volumes.
+
+#### **Contributions**
+
+The three accounts described the great Buddhist monasteries of India such as Nalanda, Vickramasila, Valabhi and Somapura. Nalanda in Bihar was one of the most famous institutions of learning in the Buddhist world from the seventh century until its destruction by Turushka invaders. All three monks documented the Buddhist monasteries as centres of learning with libraries of manuscripts. Xuanzang described the libraries of the Jetavana monastery at Buddhagaya as “richly furnished, not only with orthodox literature but also with Vedic and other non-Buddhistic works, and with treatises on the arts and sciences taught in India at the time.”
+
+All three travellers also gave a broad spectrum of perspectives on the different aspects of Buddhism, from its evolution to its decline in India. They also gave invaluable insights into the states and kingdoms of those times, and many of these kingdoms now remain only in such accounts.
+
+Archaeology may have unveiled some of the mysteries of these ancient kingdoms, such as Karashar and Kizil in the Gobi, or Borobodur in Java, but we can only imagine the days of their glory as the monks saw and described them.
+
+With Yijing’s passing, the era of travel writing ended and would not become popular again until the arrival of Marco Polo and other travellers from the West. Even so, these new visitors were not like the Chinese monks, who were bound by faith and belief in the Dharma.
+
+From Faxian to Yijing, the travel accounts spanned a period of almost three centuries and gave a glimpse of the ages long removed by the sweep of history. Through their personalities and vivid descriptions, these writers have helped to bring those ages back to life. Perhaps more than anything else, they bring to us, at the beginning of the 21st century, the awareness of a rich and diverse Asian cultural heritage that has transcended time and place.
+
+***The author wishes to acknowledge the contributions of Dr Robert Knox, Former Keeper, Oriental &amp; Islamic Antiquities, The British Museum, in reviewing the paper***.
 
 
 
