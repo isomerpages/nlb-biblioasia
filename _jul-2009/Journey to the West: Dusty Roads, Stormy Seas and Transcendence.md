@@ -8,6 +8,9 @@ image: /images/Vol 5 Issue 2/JourneyWest/map of ghandara.JPG
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Prasani Weerawardane_&nbsp;traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist mdonks in search of the Budhist Tripitaka.
 
+<img src="/images/Vol%205%20Issue%202/JourneyWest/map%20of%20ghandara.JPG" style="width:80%;">
+ <div style="background-color: white;"><i>Map of Gandhara, Seattle Silk Roads Project Source: <a href="https://news.osu.edu/huntington-archive/">https://news.osu.edu/huntington-archive/</a>. Courtesy of Dr John C. Huntington.</i></div>
+
 This is a story of some of the greatest explorations of all time, journeys that resonate in the Asian cultural imagination. The road was the path from China to India, and the timeline stretches from the first century until the seventh century. Those who undertook this trip were Chinese Buddhist monks, looking to return with copies of the Buddhist Tripitaka.[^1] The term “road” is partly a misnomer, as it could also be a voyage by sea, via the merchant ships that ploughed the southern seas. Both land and maritime modes of travel were fraught with hazards, and could take the best part of a year to complete.
 
 By land, one path followed the Silk Road west to Parthia and beyond, while another led southwest through a number of small central Asian states in uneven stages of civilisation. The hazards of both roads included the trackless desert wastelands of the Gobi and the high plateaus of central Asia, the tenuous and slippery mountain passes through the Himalayas, extreme weather conditions ranging from blistering heat to sub-zero temperatures, and encounters with unfriendly locals and bandits.
