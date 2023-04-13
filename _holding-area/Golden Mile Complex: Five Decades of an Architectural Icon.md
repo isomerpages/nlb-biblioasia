@@ -119,6 +119,11 @@ The owners relaunched an en bloc sale in December that year at the same price of
 
 At the point of publishing this essay, the new owners have yet to reveal how they plan to redevelop Golden Mile Complex, though it is unlikely that any of the former tenants will return. The battle to conserve Golden Mile Complex has, ironically, cost the community who kept it alive when others moved on to swankier new buildings. But all, however, is not lost. The redevelopment of Golden Mile Complex could serve as a model for how other similar buildings in Singapore can be conserved in the future.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/justin_zhuang.png">
+	<b>Justin Zhuang</b> is an observer of the designed world and its impact on everyday life. He is the author of several books on architecture and design in Singapore. His latest book (co-authored with JiatHwee Chang) is <i>Everyday Modernism: Architecture &amp; Society in Singapore</i> (2023), the first comprehensive documentation of Singapore’s modern built environment through the lens of social cultural and architectural histories.</div>
+
 #### **NOTES**
 
 [^1]: Singapore. Housing and Development Board, *[Annual Report 1965](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986)* (Singapore: Housing and Development Board, 1966), 12. (From PublicationSG); Yap Cheng Tong, “[Opens Today: First of the Golden Mile Projects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720128-1.2.189.2),” *Straits Times*, 28 January 1972, 20. (From NewspaperSG)
