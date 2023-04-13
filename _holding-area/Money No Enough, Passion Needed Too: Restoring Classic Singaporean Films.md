@@ -66,6 +66,11 @@ The restoration process allows audiences today to experience the films as they w
 
 Sometimes, in the midst of getting the different film elements together, other treasures are uncovered as well. While restoring *The Teenage Textbook Movie*, the AFA came across a collection of paraphernalia and production-related materials that provided insights into the making of the film. This included the Nokia 5110 advertisement that featured the stars of the film posing snazzily. There was also a limited-edition original movie soundtrack on CD, which fans at the time could buy for just $7.90 with any purchase at Burger King.
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/burger_king_promotion.png)
+When <i>The Teenage Textbook Movie</i> was screened in cinemas in 1998, one
+could get a copy of the limited-edition original movie soundtrack at a special price
+of $7.90 with any purchase at Burger King. <i>Courtesy of Vue Networks</i>.
+
 #### **The Forgotten Femme Fatale**
 
 These films from the 1990s are vital milestones in Singapore’s filmmaking history as they represent a new era in moviemaking here after the Shaw Brothers’ Malay Film Productions and Cathay-Keris Films ceased operations in the late 1960s and early 1970s respectively. For close to 30 years, the local film industry had been largely dormant until *Mee Pok Man* showed the way forward.
