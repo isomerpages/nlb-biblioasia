@@ -114,6 +114,9 @@ Almost one year after the two failed collective sales, the URA announced in Octo
 
 The owners relaunched an en bloc sale in December that year at the same price of $800 million.[^44] This time, the sale was successful and the complex was sold in May 2022 to a consortium comprising Far East Organization, Sino Land and Perennial Holdings. Although their bid was $100 million lower than the reserve price, the owners agreed to the sale within “a record time of 15 days”.[^45]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
+<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
+
 At the point of publishing this essay, the new owners have yet to reveal how they plan to redevelop Golden Mile Complex, though it is unlikely that any of the former tenants will return. The battle to conserve Golden Mile Complex has, ironically, cost the community who kept it alive when others moved on to swankier new buildings. But all, however, is not lost. The redevelopment of Golden Mile Complex could serve as a model for how other similar buildings in Singapore can be conserved in the future.
 
 #### **NOTES**
