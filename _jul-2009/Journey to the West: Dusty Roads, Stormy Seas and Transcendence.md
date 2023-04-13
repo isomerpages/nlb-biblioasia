@@ -94,6 +94,9 @@ Xuanzang spent 15 years studying and travelling throughout India. The highlight 
 
 Although his contemporaries at Nalanda tried to dissuade him from going back to China, Xuanzang returned in 645 A.D., and devoted the rest of his life to the study and translation of the texts he had obtained. He had taken back a treasure trove of texts to China, a total of 657 titles, packed into 520 cases.
 
+<img src="/images/Vol%205%20Issue%202/JourneyWest/buddhism%20in%20india.JPG" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Munshiram Manoharlal Publishers Pvt. Ltd, 1983.</i></div>
+
 At the request of Emperor Taizong (626–49 A.D.), Xuanzang wrote his travelogue, and this remains one of his most important legacies. It documented the period of Buddhism in a state of decline in India, and gave a background to the passing of an age. In the early 20th century, Aurel Stein, a renowned archaeologist, rediscovered some of the kingdoms that Xuanzang visited and validated Xuanzang’s accounts.[^5] Xuanzang has achieved iconic status in Chinese Buddhism and is also immortalised as a folkhero in literature.[^6]
 
 #### **Yijing (c. 635–713 A.D.)**
@@ -103,6 +106,9 @@ Yijing’s text can be described as a geographical travelogue as well as an acco
    “*Cutting through the immense*<br>   *abyss, the great swells of water lie*,<br>    *;like a mountain, on the sea*. Joining<br>   *sideways with a vast gulf-stream*,<br>   *the massive waves, like clouds*, dash<br>     *against the sky*.”
 
 He reached Srivijaya (present-day Sumatra) after 20 days, and studied Sanskrit there for six months. From Srivijaya, he went to Tamralipiti, a port in Bengal, where he met Dachengdeng, a disciple of Xuanzang. Together with some merchants, they went on foot towards Bihar. Along the way, however, Yijing fell ill and lagged behind the others and was attacked by robbers who took all his clothes and left him naked. Covering himself with mud and leaves, Yijing continued walking through the night and was able to rest only when he reached the village where the rest of his party stopped.
+
+<img src="/images/Vol%205%20Issue%202/JourneyWest/buddhist%20monks%20&amp;%20monastries.JPG" style="width:50%;">
+<div style="background-color: white;"><i>All rights reserved, Motilal Banarsidass Publishers Pte Ltd, 2000.</i></div>
 
 They reached Nalanda the next day, and Yijing remained there for 10 years. He was a great observer, and his detailed accounts of the monastic life and rituals at Nalanda are unparalleled. Yijing’s records provide us with a comprehensive picture of what it was like to be a Buddhist monk in the great Indian monastic centres.
 
@@ -118,6 +124,9 @@ He finally returned to China only in 695 A.D. Before his final passing in 713 A.
 #### **Contributions**
 
 The three accounts described the great Buddhist monasteries of India such as Nalanda, Vickramasila, Valabhi and Somapura. Nalanda in Bihar was one of the most famous institutions of learning in the Buddhist world from the seventh century until its destruction by Turushka invaders. All three monks documented the Buddhist monasteries as centres of learning with libraries of manuscripts. Xuanzang described the libraries of the Jetavana monastery at Buddhagaya as “richly furnished, not only with orthodox literature but also with Vedic and other non-Buddhistic works, and with treatises on the arts and sciences taught in India at the time.”
+
+<img src="/images/Vol%205%20Issue%202/JourneyWest/chasing%20the%20monk%20shadow.JPG" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Penguin, Viking, 2005.</i></div>
 
 All three travellers also gave a broad spectrum of perspectives on the different aspects of Buddhism, from its evolution to its decline in India. They also gave invaluable insights into the states and kingdoms of those times, and many of these kingdoms now remain only in such accounts.
 
