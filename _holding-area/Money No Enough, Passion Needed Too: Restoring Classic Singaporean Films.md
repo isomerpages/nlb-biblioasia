@@ -87,6 +87,9 @@ These films from the 1990s are vital milestones in Singapore’s filmmaking hist
 
 The industry did display minor flickers of life in the decades between these two eras though. There was at least one important film that was partly made in Singapore: a 91-minute movie by BAS Film Productions in 1978 titled *They Call Her… Cleopatra Wong*. 
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/cleopatra_wong_flyer.png)
+<div style="background-color: white;"><i>They Call Her… Cleopatra Wong</i> (1978) stars Singaporean Doris Young, who went by the stage name Marrie Lee. The film was restored and presented by Asian Film Archive in 2021. <i>Courtesy of Crystalsky Multimedia Marketing, Inc. and Doris Young.</i></div>
+
 Inspired by the films of Bruce Lee, *They Call Her… Cleopatra Wong* incorporated elements from both Western spy and Asian martial arts genres. The film was directed by the late Bobby A. Suarez (1942–2010), a Filipino filmmaker who went by the pseudonym George Richardson. It was a multinational production involving producers from Hong Kong, Singapore and the Philippines. 
 
 The film stars a then 18-year-old Singaporean, Doris Young – who went by the stage name Marrie Lee – in the titular role as a sexy Interpol secret agent, who did many of her own stunts.[^4] (Marrie Lee was created to capitalise on the fame of the late Bruce Lee; some people even thought she was Bruce Lee’s younger sister.[^5]) Dubbed a “female James Bond” by the Asian press, Cleopatra Wong teams up with her Filipino counterpart to bust a counterfeit currency syndicate.[^6] 
