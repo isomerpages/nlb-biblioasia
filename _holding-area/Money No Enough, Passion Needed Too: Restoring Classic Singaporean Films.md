@@ -45,7 +45,7 @@ Meanwhile, *The Teenage Textbook Movie* is a lighthearted look at the lives and 
 
 The AFA already had the 35 mm exhibition prints of these films in its collection and the intention was to restore the films using the original negatives. The original negative is of great value since it is the earliest generation of the finished film and contains the image in the highest quality. The challenge was that many local films that used 35 mm film stock and were theatrically screened in the 1990s had their negatives processed and printed in overseas film laboratories in Australia, India or Thailand. Filmmakers and production companies neglected to retrieve these negatives from the laboratories; over time, the original negatives and prints were either discarded or lost.
 
-![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/still_before_restoration.png)![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/still_after_restoration.png)
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/comparison1.jpg)
 <div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Money No Enough.</i> The burnt-in English and Chinese titles and subtitles were retained as removing them would require an astronomical amount of manhours and cost. <i>Courtesy of J Team Productions and Asian Film Archive.</i></div>
 
 Despite being merely 25 years old, the picture and sound negatives of *Money No Enough* could no longer be found, and the restoration had to be carried out using two 35 mm release prints from the AFA’s collection. Both sets of prints that were donated to the AFA in 2008 were affected by physical wear such as scratches and torn frames, and had contaminants like dirt and dust. The restorer inspected both prints and utilised the copy that was in a relatively better condition for the digitisation. Some 215 hours were spent on digital restoration that included scratch removal, image stabilising, deflickering and colour correction.
@@ -102,8 +102,7 @@ In 2017, the AFA decided to see if other prints could be found. The film had tra
 
 The call uncovered the existence of several prints residing in the film archives of Austria, Denmark, Italy and Switzerland. In consultation with the organisations caring for these materials, the AFA decided to digitise a 16 mm print with burnt-in Danish subtitles with the original English soundtrack loaned from the Danish Film Institute, and a German-dubbed 35 mm release print loaned from Filmarchiv Austria.
 
-![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/german_title.png)
-![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/english_title.png)
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/comparison2.jpg)
 <div style="background-color: white;">The German title of the film from the 35 mm scans was digitally removed and a new English title was recreated using the original scans of the 16 mm as a reference. The 16 mm print was also used to fill in what was missing from the 35 mm print, including the entire end credits. <i>Courtesy of Crystalsky Multimedia Marketing, Inc.</i></div>
 
 The restoration was laborious as the colour for both sets of prints had faded greatly and were also affected by shrinkage and heavy scratches. But the greatest challenge was discovered when the prints were compared with the existing video copy of the film. The AFA realised that there were frames missing from the 35 mm print that it had planned to use. Fortunately, the 16 mm print came in handy for recreating the missing frames and shots. 
