@@ -57,7 +57,13 @@ With *Forever Fever*, the issues were different. The film laboratory that had pr
 
 The film that presented the biggest challenge was *The Teenage Textbook Movie*. The film negatives had been stored in less-than-ideal conditions. As a result, they accumulated a considerable amount of moisture, and the emulsion of every reel was stuck to the next wound base, creating stains and marks. Broken perforations and scratches were exhibited throughout the print, which had to be repaired before the scanning process. Of the three, *The Teenage Textbook Movie* took the longest to restore: over 1,000 hours were spent on digital restoration, including scratch removal, stabilising, deflickering and colour correction.
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/the_teenage_textbook_movie_still.png)
+<div style="background-color: white;">Actress and host Melody Chen (right) made her debut feature lead performance in <i>The Teenage Textbook Movie</i> (1998) as Mui Ee. The film also stars Caleb Goh (left), who coincidentally made his debut performance in <i>Forever Fever</i> in the same year. <i>Courtesy of Vue Networks and Asian Film Archive.</i></div>
+
 All three films – *Money No Enough*, *Forever Fever* and *The Teenage Textbook Movie* – were restored in tandem by different film restoration laboratories. After months of hard work, the films were presented in November 2018 at the Cathay Cineplex in partnership, and with support from, the Singapore Film Commission at “Singapore Classics Reignited”, as part of the Singapore Media Festival.[^2]    The films were screened in their intended aspect ratio of 1.85:1 through digital cinematic projection for the first time, 20 years after their releases in 1998. 
+
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/polaroids.png)
+<div style="background-color: white;">The producer of <i>The Teenage Textbook Movie</i> donated an extensive collection of related materials that include the original shooting script, continuity Polaroids, production call sheets and posters to the Asian Film Archive. <i>Courtesy of Vue Networks.</i></div>
 
 The restoration process allows audiences today to experience the films as they were first shown. But there are other benefits as well. Jack Neo told the *Straits Times* in 2018 that he was moved to tears while watching the restored version of *Money No Enough*. “Some of my good friends who were featured in the movie have since passed on,” he said. “But I also cried because it brought back so many memories. Just look at all those huge mobile phones that we used in the movie – I would call this a period film.”[^3]
 
