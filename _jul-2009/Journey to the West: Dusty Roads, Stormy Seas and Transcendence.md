@@ -39,3 +39,18 @@ It should be noted that these texts are translations of the original accounts, a
 Added to this is the tendency to romanticise the events of such ancient travels, and emphasise the exotic and wondrous sights and feats. Yet, as religious accounts, the writers were also bound by a responsibility to truth.
 
 So while we may express some degree of scepticism when reading about threatening dragons and demons, or accounts of extraordinary miracles, we should not discount the real physical dangers and challenges that the monks had to endure throughout their journeys. Difficult terrains, shipwrecks, thirst and hunger were all genuine threats to the completion of their pilgrimages.
+
+#### **Faxian (c. 337–422 A.D.)**
+
+Faxian was a Buddhist monk from Shanxi, and his travel account (399-414 A.D.) is the oldest among the Chinese monks to have survived. Of the few monks who journeyed before him, very little information remains of their travels.
+
+Orphaned at an early age, Faxian spent much of his life in Buddhist monasteries. He went to Chang’an (present-day Xi’an) to study Buddhism, but could not find sufficient materials on the Disciplinary Rules (vinaya) to help him. In 399 A.D., he left for India with his friends, Huiking, Daoching, Huiying and Huiwei, to obtain a complete set of the Tripitaka. Together, they went to the Gobi desert, a place often described as treacherous:
+
+   *In this desert there are a great many evil spirits and* <br>   *also hot winds; those who encounter them perish to a* <br>   *man. There are neither birds above nor beasts below*. <br>   *Gazing on all sides as far as the eye can reach in order to* <br>   *mark the track, no guidance is to be obtained save from* <br>   *the rotting bones of dead men, which point the way*.” <br>     (A record of Buddhistic kingdoms, 1886)
+
+It took them 17 days to cross the Gobi to Shenshen, a state now believed to be close to Lop Nor in Xinjiang. It is estimated that Faxian and his companions would have had to cover more than 40 kilometres a day in order to make the crossing in 17 days. He recorded that there were about 4,000 Buddhist monks of the Hinayana tradition in Shenshen. From there, Faxian and his companions went on to Khotan, a famous oasis city and district southwest of the Gobi, which was a very important Buddhist centre. They stayed in Khotan for three months before proceeding to Kashgar, another oasis city located in the Tarim Basin.
+
+
+
+
+
