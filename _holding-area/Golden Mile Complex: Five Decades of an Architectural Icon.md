@@ -63,6 +63,9 @@ By the mid-1980s, many of the building professionals had moved their offices els
 
 After work, particularly on Sundays and public holidays, homesick Thai workers thronged Golden Mile Complex to drink Singha beer, catch up on news back home by reading Thai newspapers, and listen to Thai music on cassette tapes. The draw for most was the various eateries selling Thai food at reasonable prices on the ground floor. Not only did these establishments serve food just like home, they served them on tables and chairs “scattered in front of food shops” or along the corridors and the concourse – just “[like] a street corner in Haadyai or Bangkok”.[^19]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_flower_shop.png)
+<div style="background-color: white;">A Thai shop selling flowers and other items for worship and prayers, 2023. <i>Photo by Jimmy Yap.</i></div>
+
 Golden Mile Complex was also the terminal for tour buses plying the Singapore-Haadyai route operated by travel agencies located in the complex and the neighbouring Golden Mile Tower. As the Thai clientele in the complex grew, it became referred to as “Little Bangkok” and “Little Thailand”.[^20] The Thai community injected new life into what was then a rapidly ageing Golden Mile Complex, and attracted even more shops to serve the community. A tailor in the complex reportedly expanded from one shop to seven to sell all things Thai, while a “100% genuine Thai style” disco named Pattaya opened in 1988 on the second floor.[^21] There was even a 50-seat “cinema” that screened kick-boxing specials and Thai features at $3 a ticket.[^22]
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha_statue.png)
