@@ -8,7 +8,7 @@ image: /images/Vol 5 Issue 2/JourneyWest/map of ghandara.JPG
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Prasani Weerawardane_&nbsp;traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist monks in search of the Buddhist Tripitaka.
 
-This is a story of some of the greatest explorations of all time, journeys that resonate in the Asian cultural imagination. The road was the path from China to India, and the timeline stretches from the first century until the seventh century. Those who undertook this trip were Chinese Buddhist monks, looking to return with copies of the Buddhist Tripitaka.1 The term “road” is partly a misnomer, as it could also be a voyage by sea, via the merchant ships that ploughed the southern seas. Both land and maritime modes of travel were fraught with hazards, and could take the best part of a year to complete.
+This is a story of some of the greatest explorations of all time, journeys that resonate in the Asian cultural imagination. The road was the path from China to India, and the timeline stretches from the first century until the seventh century. Those who undertook this trip were Chinese Buddhist monks, looking to return with copies of the Buddhist Tripitaka.[^1] The term “road” is partly a misnomer, as it could also be a voyage by sea, via the merchant ships that ploughed the southern seas. Both land and maritime modes of travel were fraught with hazards, and could take the best part of a year to complete.
 
 By land, one path followed the Silk Road west to Parthia and beyond, while another led southwest through a number of small central Asian states in uneven stages of civilisation. The hazards of both roads included the trackless desert wastelands of the Gobi and the high plateaus of central Asia, the tenuous and slippery mountain passes through the Himalayas, extreme weather conditions ranging from blistering heat to sub-zero temperatures, and encounters with unfriendly locals and bandits.
 
@@ -34,7 +34,7 @@ Despite the large number of Chinese monks who embarked on this adventure, only t
 
 It should be noted that these texts are translations of the original accounts, and published many centuries after the travels had been completed. The veracity of these translated works must therefore be questioned, as highlighted by Jack Sewell:
 
-   “*We have to remember when we look back at the ancient* <br>   *past that histories were often written by those who* <br>   *sometimes were burdened by the times they lived in*.”2
+   “*We have to remember when we look back at the ancient* <br>   *past that histories were often written by those who* <br>   *sometimes were burdened by the times they lived in*.”[^2]
 	 
 Added to this is the tendency to romanticise the events of such ancient travels, and emphasise the exotic and wondrous sights and feats. Yet, as religious accounts, the writers were also bound by a responsibility to truth.
 
@@ -42,7 +42,7 @@ So while we may express some degree of scepticism when reading about threatening
 
 #### **Faxian (c. 337–422 A.D.)**
 
-Faxian was a Buddhist monk from Shanxi, and his travel account (399-414 A.D.) is the oldest among the Chinese monks to have survived. Of the few monks who journeyed before him, very little information remains of their travels.
+Faxian was a Buddhist monk from Shanxi, and his travel account (399–414 A.D.) is the oldest among the Chinese monks to have survived. Of the few monks who journeyed before him, very little information remains of their travels.
 
 Orphaned at an early age, Faxian spent much of his life in Buddhist monasteries. He went to Chang’an (present-day Xi’an) to study Buddhism, but could not find sufficient materials on the Disciplinary Rules (vinaya) to help him. In 399 A.D., he left for India with his friends, Huiking, Daoching, Huiying and Huiwei, to obtain a complete set of the Tripitaka. Together, they went to the Gobi desert, a place often described as treacherous:
 
@@ -69,7 +69,7 @@ However, a common criticism of Faxian’s account is its lack of objectivity, un
 
 #### **Xuanzang (c. 602–64 A.D.)**
 
-Xuanzang, the greatest and most famous of all the monks who journeyed to the west, was from the illustrious Tang dynasty of the seventh century.3 The Tang period was a watershed in Chinese cultural history, and gave rise to a flowering of literary culture and artistic expression. Xuanzang, born in this period, entered the White Horse monastery in Luoyang when he was 12, and received ordination as a monk in 622 A.D.4 He spent the next eight years studying and debating the doctrine, and realised that the imperfect translations of the original Sanskrit texts were impeding his understanding of Buddhism. Hence, he made a resolution to travel to the source of the religion.
+Xuanzang, the greatest and most famous of all the monks who journeyed to the west, was from the illustrious Tang dynasty of the seventh century.[^3] The Tang period was a watershed in Chinese cultural history, and gave rise to a flowering of literary culture and artistic expression. Xuanzang, born in this period, entered the White Horse monastery in Luoyang when he was 12, and received ordination as a monk in 622 A.D.[^4] He spent the next eight years studying and debating the doctrine, and realised that the imperfect translations of the original Sanskrit texts were impeding his understanding of Buddhism. Hence, he made a resolution to travel to the source of the religion.
 
 Even though there was an imperial proscription forbidding any travel abroad, Xuanzang was not deterred. In 630 A.D., he had a dream that he climbed Mount Sumeru, the holy mountain home of the gods, and that furthered convinced him to journey to India. Xuanzang, then 26 years old, began his journey from Suzhou. He was allowed to proceed as the governor, being a pious man, ignored an arrest order placed on him. However, his guide deserted him and Xuanzang was left to travel alone. The road west began with a dangerous river crossing as he would have to circumvent the guards at the Jade Gate that stood on the opposite bank as well as at five watch towers strategically located in the northwest direction. Moreover, “in the space between them there is neither water nor herb; beyond the five towers stretches the desert, (the Taklamakan) on the frontiers of the kingdom called I-gu.”
 
@@ -85,7 +85,7 @@ Xuanzang spent 15 years studying and travelling throughout India. The highlight 
 
 Although his contemporaries at Nalanda tried to dissuade him from going back to China, Xuanzang returned in 645 A.D., and devoted the rest of his life to the study and translation of the texts he had obtained. He had taken back a treasure trove of texts to China, a total of 657 titles, packed into 520 cases.
 
-At the request of Emperor Taizong (626- 49 A.D.), Xuanzang wrote his travelogue, and this remains one of his most important legacies. It documented the period of Buddhism in a state of decline in India, and gave a background to the passing of an age. In the early 20th century, Aurel Stein, a renowned archaeologist, rediscovered some of the kingdoms that Xuanzang visited and validated Xuanzang’s accounts.5 Xuanzang has achieved iconic status in Chinese Buddhism and is also immortalised as a folkhero in literature.6
+At the request of Emperor Taizong (626–49 A.D.), Xuanzang wrote his travelogue, and this remains one of his most important legacies. It documented the period of Buddhism in a state of decline in India, and gave a background to the passing of an age. In the early 20th century, Aurel Stein, a renowned archaeologist, rediscovered some of the kingdoms that Xuanzang visited and validated Xuanzang’s accounts.[^5] Xuanzang has achieved iconic status in Chinese Buddhism and is also immortalised as a folkhero in literature.[^6]
 
 #### **Yijing (c. 635–713 A.D.)**
 
@@ -125,10 +125,3 @@ From Faxian to Yijing, the travel accounts spanned a period of almost three cent
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/prasani1.jpg">
 <center><b>Prasani Weerawardane</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
-
-
-	
-	
-	
-
-
