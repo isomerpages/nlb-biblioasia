@@ -61,6 +61,9 @@ All three films – *Money No Enough*, *Forever Fever* and *The Teenage Textbook
 
 The restoration process allows audiences today to experience the films as they were first shown. But there are other benefits as well. Jack Neo told the *Straits Times* in 2018 that he was moved to tears while watching the restored version of *Money No Enough*. “Some of my good friends who were featured in the movie have since passed on,” he said. “But I also cried because it brought back so many memories. Just look at all those huge mobile phones that we used in the movie – I would call this a period film.”[^3]
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/nokia_advertisement.png)
+<div style="background-color: white;">The Nokia 5110 advertisement featuring the stars of <i>The Teenage Textbook Movie</i>. <i>Courtesy of Vue Networks.</i></div>
+
 Sometimes, in the midst of getting the different film elements together, other treasures are uncovered as well. While restoring *The Teenage Textbook Movie*, the AFA came across a collection of paraphernalia and production-related materials that provided insights into the making of the film. This included the Nokia 5110 advertisement that featured the stars of the film posing snazzily. There was also a limited-edition original movie soundtrack on CD, which fans at the time could buy for just $7.90 with any purchase at Burger King.
 
 #### **The Forgotten Femme Fatale**
