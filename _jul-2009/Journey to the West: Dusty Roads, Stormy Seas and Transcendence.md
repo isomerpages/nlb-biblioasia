@@ -81,6 +81,9 @@ Even though there was an imperial proscription forbidding any travel abroad, Xua
 
 Xuanzang’s piety and determination impressed the guards at the watch towers, some of whom even provided him with advice on the best routes to take. Even so, while crossing the Taklamakan desert, he lost his water supply, and wandered around for the next five days without water. During those difficult times, he invoked the Heart Sutra, meant for those in dire straits, and was rewarded by a dream, which revived him. He soon found water and survived.
 
+<img src="/images/Vol%205%20Issue%202/JourneyWest/map%20of%20tarim%20basin.JPG" style="width:80%;">
+<div style="background-color: white;"><i>Map of Tarim Basin, Seattle Silk Roads Project Source: <a href="https://news.osu.edu/huntington-archive/">https://news.osu.edu/huntington-archive/</a>.Courtesy of Huntington Photographic Archive of Asian Art.</i></div>
+
 Xuanzang’s journey took him to Turfan in the Tarim Basin, as well as Yanqi and Kucha, kingdoms in northern Xinjiang. Crossing the Oxus River, he then made his way to Bactria (in Afghanistan). He described Balkh, the capital, as having about 3,000 Buddhist monks of the Theravada school, and many sacred relics of the Buddha. Further on at Bamiyan, he saw the two famous standing colossi of the Buddha, and a 1,000 feet-long reclining statue. When Xuanzang visited it, Bamiyan was an outstanding centre of the Gandharan school of Buddhist art.
 
 Gandhara was famous for its Buddhist traditions and for producing eminent Buddhist scholars. At its capital, Purushapura (Peshawar), Xuanzang saw a stupa built by Kanishka, the great Kushan king, and a tower which held the Buddha’s alms-bowl.
