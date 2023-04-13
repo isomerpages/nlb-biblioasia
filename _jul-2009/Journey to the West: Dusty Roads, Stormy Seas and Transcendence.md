@@ -16,7 +16,7 @@ By sea, the dangers included leaking ships, raging storms, sudden squalls and ty
 
 How many Chinese monks made this journey, and how many fell by the wayside? How many actually returned safely to China with the precious texts they went in search of? In a survey carried out in 1949, a Chinese historian delved through Indian archives and produced the following analysis of these travellers:
 
-<img src="/images/Vol%205%20Issue%202/JourneyWest/capture2.JPG" style="width:80%;">
+<img src="/images/Vol%205%20Issue%202/JourneyWest/diagram2.jpg" style="width:80%;">
  <div style="background-color: white;">Chinese Sources for Indian History in Indian Archives. Vol. III nos. 1–4. (1949). <i>National Archives of India.</i></div>
  
  According to translated documents from the Bureau of Canonical Translations (Jan, 1966), a survey conducted during the Sung era also revealed that at least 183 monks made this journey back to China by the year 1035.
@@ -39,9 +39,3 @@ It should be noted that these texts are translations of the original accounts, a
 Added to this is the tendency to romanticise the events of such ancient travels, and emphasise the exotic and wondrous sights and feats. Yet, as religious accounts, the writers were also bound by a responsibility to truth.
 
 So while we may express some degree of scepticism when reading about threatening dragons and demons, or accounts of extraordinary miracles, we should not discount the real physical dangers and challenges that the monks had to endure throughout their journeys. Difficult terrains, shipwrecks, thirst and hunger were all genuine threats to the completion of their pilgrimages.
-
-
-
-
-
-
