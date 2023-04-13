@@ -65,7 +65,13 @@ After work, particularly on Sundays and public holidays, homesick Thai workers t
 
 Golden Mile Complex was also the terminal for tour buses plying the Singapore-Haadyai route operated by travel agencies located in the complex and the neighbouring Golden Mile Tower. As the Thai clientele in the complex grew, it became referred to as “Little Bangkok” and “Little Thailand”.[^20] The Thai community injected new life into what was then a rapidly ageing Golden Mile Complex, and attracted even more shops to serve the community. A tailor in the complex reportedly expanded from one shop to seven to sell all things Thai, while a “100% genuine Thai style” disco named Pattaya opened in 1988 on the second floor.[^21] There was even a 50-seat “cinema” that screened kick-boxing specials and Thai features at $3 a ticket.[^22]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha_statue.png)
+<div style="background-color: white;">Statue of the Four-Faced Buddha outside Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
+
 In 1986, the Straits Times reported that Golden Mile Complex “would be a ghost town but for the office workers, who appear at lunch time, and the Thais, who have made it their haunt”. Dorothy, a secretary working in an architecture firm in the complex, told the Straits Times: “Before the Thais started coming here about four years ago, the place was very dead. Now, it’s sometimes so noisy that you get a headache.” Because fights would occasionally break out, she was not a fan of the place. “For Thai food, I’d rather go to Joo Chiat,” she added.[^23] Her sentiments were shared by many other Singaporeans who avoided Golden Mile Complex on Sundays. 
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_food_store.png)
+<div style="background-color: white;">A store selling Thai food items, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 As one shopowner explained: “Our Sunday business has been hit. Some customers stay away because of the Thai character of the place.” A food stall operator added: “The Thais linger for hours, drinking beer and eating their favourite beef noodles. Sometimes, they fight among themselves over a few drinks.”[^24]
 
