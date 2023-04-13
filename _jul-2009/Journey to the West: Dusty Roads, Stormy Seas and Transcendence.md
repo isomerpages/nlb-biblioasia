@@ -123,5 +123,51 @@ From Faxian to Yijing, the travel accounts spanned a period of almost three cent
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/prasani1.jpg">
+<img style="width: 100px; height: 100px;" src="/images/Authors/prasani1.jpg">]
 <center><b>Prasani Weerawardane</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
+
+#### **REFERENCES**
+
+Dilip K. Chakrabarti, “Buddhist Sites Across South Asia As Influenced by Political and Economic Forces,” _World Archaeology_ 27, no. 2. (October 1995), 185–202. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Faxian, [_A Record of Buddhistic Kingdoms: Being an Account by the Chinese Monk Fa-Hien of His Travels in India and Ceylon (A.D. 399–414) in Search of the Buddhist Books of Discipline_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6354666), trans. James Legge (Islamabad: Lok Virsa, 1886). (Call no. R 294.3438 FAH)
+
+Hans-J. Klimkeit, “Buddhism in Turkish Central Asia.” _Numen_ 3, no. 1 (June 1990), 53–69. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Jan Yun-Hua, “Buddhist Relations Between India and Sung China,” _History of Religions_ 6, no. 2 (November 1966), 135–68. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Kanai Lal Hazra, [_Buddhism in India As Described by the Chinese Pilgrims, AD 399–689_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125504) (New Delhi: Munshiram Manoharlal, 1983). (Call no. RUR 294.30954 HAZ)
+
+Mishi Saran, _Chasing the Monk’s Shadow: Journey in the Footsteps of Xuanzang_ (New Delhi: Penguin Viking, 2005)
+
+Rekha Daswani, [_Buddhist Monasteries and Monastic Life in Ancient India: From the Third Century BC to the Seventh Century AD_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12896293) (New Delhi: Aditya Prakashan, 2006). (Call no. R 294.36570954 DAS)
+
+Richard B. Mather, “ Chinese and Indian Perceptions of Each Other Between the First and Seventh Centuries,” _Journal of the American Oriental Society_ 112, no. 1 (January–March 1992), 1–8. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Sukumar Dutt, [_Buddhist Monks and Monasteries of India: Their History and Their Contribution to Indian Culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2335537) (London: G. Allen &amp; Unwin, 1963). (Call no. RUR 294.3657 DUT)
+
+_The Life of Xuanzang_, trans. S. B. K. Paul (London: Trench, Trubner &amp; Co., 1911)
+
+Walter Liebenthal, “Chinese Buddhism During the 4th and 5th Centuries,” _Monumenta Nipponica_ 2, no. 1 (1955), 44–83. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Xuan Zang, [_Si-Yu-Ki: Buddhist Records of the Western World : Translated From the Chinese of Hiuen Tsiang (A.D. 629)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4119229), trans. Samuel Beal (London: Routledge, 2000). (original work published 1884) (Call no. R 954.02 SIY)
+
+Yijing, [_A Record of the Buddhist Religion As Practiced in India and the Malay Archipelago (A.D. 671–695)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12896697), trans. J. Takakusus. (New Delhi: Asian Educational Services, 2005). (Original work published 1896) (Call no. R 294.363 YIJ)
+
+#### **NOTES**
+
+[^1]: Sukumar Dutt, “The Collection of Buddhist Texts in China Translated from Sanskrit,” in [_Buddhist Monks and Monasteries of India: Their History and Their Contribution to Indian Culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345438) (Delhi: Motilal Banarsidas, 2000)
+
+[^2]: Jack Sewell, “Semi-Classical Sculpture Created During 2–5CE in Pakistan/ Afghanistan. First Representations of the Buddha in Human Form,” in Gandharan Art, _The Art Institute of Chicago Quarterly_ 54, no. 3 (September 1960), 10. &nbsp;(From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^3]: Mishi Saran, “The Glorious Tang Dynasty Which Lasted for Three Centuries, and Heralded a Golden Age of High Culture in China From 626CE,” in _Chasing the Monk’s Shadow: Journey in the Footsteps of Xuanzang_ (New Delhi: Penguin Viking, 2005)
+
+[^4]: “The White Horse Monastery, where Buddhism is supposed to have begun in China was built by the Han Emperor in 67CE: many famous names were associated with Loyang, such as the Indian monk Bodhiruci, who arrived here in 508CE to translate texts, and Paramartha, another Indian monk who translated key Mahayanist texts” in Saran, Chasing the Monk’s Shadow, 563–67; Dutt, [_Buddhist Monks and Monasteries of India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345438).
+
+[^5]: “One of the greatest and most controversial names in Central Asian archaeology of the early 20th century. Hungarian by birth, British by inclination, Stein followed Xuanzang’s tracks across the Gobi, alluding to the monk as his mentor. In doing so, Stein validated much of Xuanzang’s travelogue, excavated diligently and rediscovered hidden treasures, such as the cave complex at Dunhuang, which yielded enormous quantities of scripts, paintings and scrolls, which are still being researched. There is now an international Dunhuang Project at the British Library, which is online, with many images digitised. This database utilises Stein’s and other materials from Central Asia” in International Dunhuang Project, British Library, http://idp.bl.uk/.
+
+[^6]: Mishi Saran. See author’s notes. “In the sixteenth century, Wu Chengen created a mythical journey titled Journey to the West, incorporating a monkey king, based on Xuanzang’s epic trip. This account has now entered Chinese folklore with many in China confusing Xuanzang and the fictional monk. There was a translation by Arthur Waley into English in the 20th century, and the story has been serialised many times in cinema, TV and animation,” in _Chasing the Monk’s Shadow_.
+
+
+
+
