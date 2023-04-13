@@ -48,7 +48,24 @@ Orphaned at an early age, Faxian spent much of his life in Buddhist monasteries.
 
    *In this desert there are a great many evil spirits and* <br>   *also hot winds; those who encounter them perish to a* <br>   *man. There are neither birds above nor beasts below*. <br>   *Gazing on all sides as far as the eye can reach in order to* <br>   *mark the track, no guidance is to be obtained save from* <br>   *the rotting bones of dead men, which point the way*.” <br>     (A record of Buddhistic kingdoms, 1886)
 
-It took them 17 days to cross the Gobi to Shenshen, a state now believed to be close to Lop Nor in Xinjiang. It is estimated that Faxian and his companions would have had to cover more than 40 kilometres a day in order to make the crossing in 17 days. He recorded that there were about 4,000 Buddhist monks of the Hinayana tradition in Shenshen. From there, Faxian and his companions went on to Khotan, a famous oasis city and district southwest of the Gobi, which was a very important Buddhist centre. They stayed in Khotan for three months before proceeding to Kashgar, another oasis city located in the Tarim Basin.
+It took them 17 days to cross the Gobi to Shenshen, a state now believed to be close to Lop Nor in Xinjiang. It is estimated that Faxian and his companions would have had to cover more than 40 kilometres a day in order to make the crossing in 17 days. He recorded that there were about 4,000 Buddhist monks of the Hinayana tradition in Shenshen. From there, Faxian and his companions went on to Khotan, a famous oasis city and district southwest of the Gobi, which was a very important Buddhist centre. They stayed in Khotan for three months before proceeding to Kashgar, another oasis city located in the Tarim 
+Basin.
+
+From Kashgar, Faxian went southwest towards the valley of the Indus River, where “the way was difficult and rugged, running along a bank exceedingly precipitous, which rose up there, a hilllike wall of rock. When one approached the edge of it, his eyes became unsteady. And if he wished to go forward in the same direction, there was no place on which he could place his foot; and beneath were the waters of the river called the Indus.”
+
+After crossing the river, Faxian and his companions entered Udyana, or Swat, in northern Pakistan, where Buddhism flourished. From there they travelled to Gandhara and Taxila, and continued on to Purushapura (now Peshawar, the capital of the North-West Frontier province of Pakistan). Of the Karakoram Range, it was reported that “the snow rests on them both winter and summer. There are also among them venomous dragons, which, when provoked, spit forth poisonous winds, and cause showers of snow and storms of sand and gravel. Not one in ten thousand of those who encounter these dangers escapes with his life.”
+
+At Purushapura, Faxian lost his friend Huiying, who fell ill and passed away. Another companion, Huiking, died in a cold, windy mountain pass on the way to Bannu in Punjab. Still, Faxian pushed on, and arrived on the plains of Madura in central India. Buddhism was flourishing in Madura, with many monasteries and monks. Faxian had an idealised dream of India, and his account is a vivid record of what he saw in Majjhima-desa (Middle Country in Pali):
+
+   “*The people are prosperous and happy, with no household* <br>   *registration and official regulations. It is only those* <br>   *who cultivate the king’s land who pay a tax on the profit they make* <br>   *from it. Those who wish to stay, stay; and those who wish to* <br>   *depart, depart. In ruling, the king does not use punishment or* <br>   *imprisonment. If there are any who commit crimes, they are* <br>   *only fined in money, lightly or heavily, according to what they* <br>   *did. The population as a whole refrains from killing living* <br>   *beings and drinking liquor, and from eating onions or garlic*. <br>   *In the markets there are no butcher stalls or wine shops. For* <br>   *money they use cowrie shells*.”
+
+Faxian travelled alone within India, learning Sanskrit and transcribing manuscripts, while his friend Daoching remained in the Middle Country. He travelled for 14 days on a merchant ship from Tamralipti, a port in western Bengal, and arrived at Lanka, where he spent the next two years. The capital of Lanka was Anuradhapura and Faxian extolled in detail the richness of the Buddhist influence in the city, as shown in their monasteries, a giant Jade statue of the Buddha, and their celebration of the holy tooth relic festival. He eventually returned to China by sea in 414 A.D. and took back with him many Buddhist texts.
+
+Another of Faxian’s legacies is the valuable historical documentation of the Gupta empire under Chandragupta II (c.375–415 A.D.). Considering that Faxian was nearing 60 years old when he left for India, his achievement is remarkable:
+
+
+
+
 
 
 
