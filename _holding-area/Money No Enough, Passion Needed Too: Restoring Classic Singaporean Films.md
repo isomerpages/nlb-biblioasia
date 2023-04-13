@@ -65,10 +65,10 @@ The film that presented the biggest challenge was *The Teenage Textbook Movie*. 
 
 All three films – *Money No Enough*, *Forever Fever* and *The Teenage Textbook Movie* – were restored in tandem by different film restoration laboratories. After months of hard work, the films were presented in November 2018 at the Cathay Cineplex in partnership, and with support from, the Singapore Film Commission at “Singapore Classics Reignited”, as part of the Singapore Media Festival.[^2]    The films were screened in their intended aspect ratio of 1.85:1 through digital cinematic projection for the first time, 20 years after their releases in 1998. 
 
+The restoration process allows audiences today to experience the films as they were first shown. But there are other benefits as well. Jack Neo told the *Straits Times* in 2018 that he was moved to tears while watching the restored version of *Money No Enough*. “Some of my good friends who were featured in the movie have since passed on,” he said. “But I also cried because it brought back so many memories. Just look at all those huge mobile phones that we used in the movie – I would call this a period film.”[^3]
+
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/polaroids.png)
 <div style="background-color: white;">The producer of <i>The Teenage Textbook Movie</i> donated an extensive collection of related materials that include the original shooting script, continuity Polaroids, production call sheets and posters to the Asian Film Archive. <i>Courtesy of Vue Networks.</i></div>
-
-The restoration process allows audiences today to experience the films as they were first shown. But there are other benefits as well. Jack Neo told the *Straits Times* in 2018 that he was moved to tears while watching the restored version of *Money No Enough*. “Some of my good friends who were featured in the movie have since passed on,” he said. “But I also cried because it brought back so many memories. Just look at all those huge mobile phones that we used in the movie – I would call this a period film.”[^3]
 
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/nokia_advertisement.png)
 <div style="background-color: white;">The Nokia 5110 advertisement featuring the stars of <i>The Teenage Textbook Movie</i>. <i>Courtesy of Vue Networks.</i></div>
