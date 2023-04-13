@@ -77,7 +77,7 @@ The restoration process allows audiences today to experience the films as they w
 Sometimes, in the midst of getting the different film elements together, other treasures are uncovered as well. While restoring *The Teenage Textbook Movie*, the AFA came across a collection of paraphernalia and production-related materials that provided insights into the making of the film. This included the Nokia 5110 advertisement that featured the stars of the film posing snazzily. There was also a limited-edition original movie soundtrack on CD, which fans at the time could buy for just $7.90 with any purchase at Burger King.
 
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/burger_king_promotion.png)
-When <i>The Teenage Textbook Movie</i> was screened in cinemas in 1998, one
+<div style="background-color: white;">When <i>The Teenage Textbook Movie</i> was screened in cinemas in 1998, one
 could get a copy of the limited-edition original movie soundtrack at a special price
 of $7.90 with any purchase at Burger King. <i>Courtesy of Vue Networks</i>.
 
@@ -139,4 +139,4 @@ the archive’s collection.</div>
 
 [^8]: “Restored: They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://asianfilmarchive.org/event-calendar/restored-they-call-her-cleopatra-wong-1978/.
 
-[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.
+[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.</div>
