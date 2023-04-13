@@ -6,7 +6,7 @@ description: Lee Kong Chian Research Fellow Prasani Weerawardane traces the
   Buddhist monks in search of the Buddhist Tripitaka.
 image: /images/Vol 5 Issue 2/JourneyWest/map of ghandara.JPG
 ---
-#### Lee Kong Chian Research Fellow&nbsp;_Prasani Weerawardane_&nbsp;traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist monks in search of the Buddhist Tripitaka.
+#### Lee Kong Chian Research Fellow&nbsp;_Prasani Weerawardane_&nbsp;traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist mdonks in search of the Budhist Tripitaka.
 
 This is a story of some of the greatest explorations of all time, journeys that resonate in the Asian cultural imagination. The road was the path from China to India, and the timeline stretches from the first century until the seventh century. Those who undertook this trip were Chinese Buddhist monks, looking to return with copies of the Buddhist Tripitaka.[^1] The term “road” is partly a misnomer, as it could also be a voyage by sea, via the merchant ships that ploughed the southern seas. Both land and maritime modes of travel were fraught with hazards, and could take the best part of a year to complete.
 
@@ -123,7 +123,7 @@ From Faxian to Yijing, the travel accounts spanned a period of almost three cent
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/prasani1.jpg">]
+<img style="width: 100px; height: 100px;" src="/images/Authors/prasani1.jpg">
 <center><b>Prasani Weerawardane</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
 
 #### **REFERENCES**
@@ -167,7 +167,3 @@ Yijing, [_A Record of the Buddhist Religion As Practiced in India and the Malay 
 [^5]: “One of the greatest and most controversial names in Central Asian archaeology of the early 20th century. Hungarian by birth, British by inclination, Stein followed Xuanzang’s tracks across the Gobi, alluding to the monk as his mentor. In doing so, Stein validated much of Xuanzang’s travelogue, excavated diligently and rediscovered hidden treasures, such as the cave complex at Dunhuang, which yielded enormous quantities of scripts, paintings and scrolls, which are still being researched. There is now an international Dunhuang Project at the British Library, which is online, with many images digitised. This database utilises Stein’s and other materials from Central Asia” in International Dunhuang Project, British Library, http://idp.bl.uk/.
 
 [^6]: Mishi Saran. See author’s notes. “In the sixteenth century, Wu Chengen created a mythical journey titled Journey to the West, incorporating a monkey king, based on Xuanzang’s epic trip. This account has now entered Chinese folklore with many in China confusing Xuanzang and the fictional monk. There was a translation by Arthur Waley into English in the 20th century, and the story has been serialised many times in cinema, TV and animation,” in _Chasing the Monk’s Shadow_.
-
-
-
-
