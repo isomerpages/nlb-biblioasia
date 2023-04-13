@@ -102,6 +102,10 @@ In 2017, the AFA decided to see if other prints could be found. The film had tra
 
 The call uncovered the existence of several prints residing in the film archives of Austria, Denmark, Italy and Switzerland. In consultation with the organisations caring for these materials, the AFA decided to digitise a 16 mm print with burnt-in Danish subtitles with the original English soundtrack loaned from the Danish Film Institute, and a German-dubbed 35 mm release print loaned from Filmarchiv Austria.
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/german_title.png)
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/english_title.png)
+<div style="background-color: white;">The German title of the film from the 35 mm scans was digitally removed and a new English title was recreated using the original scans of the 16 mm as a reference. The 16 mm print was also used to fill in what was missing from the 35 mm print, including the entire end credits. <i>Courtesy of Crystalsky Multimedia Marketing, Inc.</i></div>
+
 The restoration was laborious as the colour for both sets of prints had faded greatly and were also affected by shrinkage and heavy scratches. But the greatest challenge was discovered when the prints were compared with the existing video copy of the film. The AFA realised that there were frames missing from the 35 mm print that it had planned to use. Fortunately, the 16 mm print came in handy for recreating the missing frames and shots. 
 
 The restoration of *They Call Her… Cleopatra Wong* took two years and was completed in 2019. However, due to the Covid-19 restrictions for theatres in Singapore, the AFA was only able to present the restored work in September 2021.[^8] It was finally screened at the Oldham Theatre in the National Archives of Singapore, with Doris Young in attendance. (There was also a second run in July 2022.[^9]) The multiple runs saw sold-out screenings and a renewed interest in the actress and the character she played.
