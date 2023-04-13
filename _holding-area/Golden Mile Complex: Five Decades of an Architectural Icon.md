@@ -164,7 +164,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^19]: May Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1),” *Straits Times*, 21 August 1986, 2. (From Newslink via NLB’s eResources website); May Ho, “[Like a Street Corner in Haadyai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.2),” *Straits Times*, 21 August 1986, 2. (From NewspaperSG)
 
-[^20]: Lito Gutierrez and Wong Kwai Chow, “Little Bangkok at the Golden Mile,” *Straits Times*, 6 January 1985, 3. (From NewspaperSG); Ho, “Where Thais Meet and Watch the World Go By.”
+[^20]: Lito Gutierrez and Wong Kwai Chow, “[Little Bangkok at the Golden Mile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850106-1.2.9.8),” *Straits Times*, 6 January 1985, 3. (From NewspaperSG); Ho, “Where Thais Meet and Watch the World Go By.”
 
 [^21]: Annie Low, “Business at Its Sunday Best,” Straits Times, 25 April 1988, 11. (From Newslink via NLB’s eResources website); “Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 *Lianhe Zaobao*, 2 March 1988, 9; “Page 6 Advertisements Column 1,” *Timezone Central*, 15 February 1990, 6. (From NewspaperSG)
 
