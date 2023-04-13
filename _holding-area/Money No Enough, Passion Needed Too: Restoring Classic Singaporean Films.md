@@ -15,15 +15,15 @@ However, even films of a more recent vintage are candidates for restoration. Oft
 
 #### **Mee Pok Man**
 
+When it first hit local screens in 1995, few people probably recognised the importance of *Mee Pok Man*, the seminal debut feature of Singaporean director Eric Khoo. The film stars Joe Ng who runs a fishball noodle stall, and Michelle Goh, who plays Bunny, a prostitute. Among the many notable things about the film are its scenes of necrophilia. Significantly, *Mee Pok Man* helped local filmmakers believe that it was possible to make movies.
+
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/mee_pok_man_poster.png)
 <div style="background-color: white;">The poster of <i>Mee Pok Man</i> designed for its 20th anniversary in 2015. <i>Courtesy of Zhao Wei Films and Asian Film Archive.</i></div>
 
-When it first hit local screens in 1995, few people probably recognised the importance of *Mee Pok Man*, the seminal debut feature of Singaporean director Eric Khoo. The film stars Joe Ng who runs a fishball noodle stall, and Michelle Goh, who plays Bunny, a prostitute. Among the many notable things about the film are its scenes of necrophilia. Significantly, *Mee Pok Man* helped local filmmakers believe that it was possible to make movies.
+In 2015, the Asian Film Archive (AFA), with support from the Singapore Film Commission, carried out the restoration of *Mee Pok Man*. As the film elements were originally processed in a laboratory in Australia, the camera and sound negatives were kept there. These were subsequently brought back to Singapore, and *Mee Pok Man* became AFA’s first restored local film from the 1990s revival era. 
 
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/mee_pok_man.png)
 <div style="background-color: white;"><i>Mee Pok Man</i> was filmed at a coffee shop called Hua Bee Restaurant on Moh Guan Terrace in Tiong Bahru. <i>Courtesy of Zhao Wei Films.</i></div>
-
-In 2015, the Asian Film Archive (AFA), with support from the Singapore Film Commission, carried out the restoration of *Mee Pok Man*. As the film elements were originally processed in a laboratory in Australia, the camera and sound negatives were kept there. These were subsequently brought back to Singapore, and *Mee Pok Man* became AFA’s first restored local film from the 1990s revival era. 
 
 The restored work was screened at the 26th Singapore International Film Festival in 2015, during the film’s 20th anniversary, in the presence of many cast and crew members. The restoration of *Mee Pok Man* became the catalyst for the AFA to search for the film elements of other Singaporean works made in the 1990s.
 
