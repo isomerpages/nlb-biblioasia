@@ -55,6 +55,10 @@ Despite being merely 25 years old, the picture and sound negatives of *Money No 
 
 With *Forever Fever*, the issues were different. The film laboratory that had processed the film had been bought over and all the original film, video and audio elements of the film were stored in multiple locations around Australia. The verification, consolidation and coordination of sending all these materials to Singapore took more than a year. The original film negatives exhibited physical wear and contained emulsion defects, glue marks and light scratches, but were overall in reasonably fair condition as they had been kept in a proper storage facility. More than 200 hours were spent on digital restoration, including stabilisation and de-warping.
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/damaged_negatives.png)
+<div style="background-color: white;">Due to the less-than-ideal film storage conditions, the negatives of <i>The Teenage Textbook Movie</i> accumulated a considerable amount of moisture, and the emulsion of every reel was stuck to the next wound base, creating stains and marks. Broken perforations and scratches were exhibited throughout the print. <i>Courtesy of Asian Film Archive.</i></div>
+
+
 The film that presented the biggest challenge was *The Teenage Textbook Movie*. The film negatives had been stored in less-than-ideal conditions. As a result, they accumulated a considerable amount of moisture, and the emulsion of every reel was stuck to the next wound base, creating stains and marks. Broken perforations and scratches were exhibited throughout the print, which had to be repaired before the scanning process. Of the three, *The Teenage Textbook Movie* took the longest to restore: over 1,000 hours were spent on digital restoration, including scratch removal, stabilising, deflickering and colour correction.
 
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/the_teenage_textbook_movie_still.png)
