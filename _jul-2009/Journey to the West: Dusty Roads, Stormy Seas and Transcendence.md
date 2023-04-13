@@ -63,11 +63,31 @@ Faxian travelled alone within India, learning Sanskrit and transcribing manuscri
 
 Another of Faxian’s legacies is the valuable historical documentation of the Gupta empire under Chandragupta II (c.375–415 A.D.). Considering that Faxian was nearing 60 years old when he left for India, his achievement is remarkable:
 
+   ”*When I look back on what I have gone through, my heart* <br>   *is involuntarily moved, and the perspiration flows forth*. <br>   *That I encountered danger and trod the most perilous* <br>   *places, without thinking or sparing myself, was because* <br>   *I had a definite aim, and thought of nothing but to do my* <br>   *best in my simplicity and straightforwardness*.“
 
+However, a common criticism of Faxian’s account is its lack of objectivity, unlike the texts of the other monks who travelled later. Although he is often seen as lacking the intellectual rigour of Xuanzang or Yijing, we cannot deny that his faith was unshakeable. In all, Faxian spent 15 years on his extraordinary journey, and passed away at the age of 88 at the Xin monastery of Jingzhou.
 
+#### **Xuanzang (c. 602–64 A.D.)**
 
+Xuanzang, the greatest and most famous of all the monks who journeyed to the west, was from the illustrious Tang dynasty of the seventh century.3 The Tang period was a watershed in Chinese cultural history, and gave rise to a flowering of literary culture and artistic expression. Xuanzang, born in this period, entered the White Horse monastery in Luoyang when he was 12, and received ordination as a monk in 622 A.D.4 He spent the next eight years studying and debating the doctrine, and realised that the imperfect translations of the original Sanskrit texts were impeding his understanding of Buddhism. Hence, he made a resolution to travel to the source of the religion.
 
+Even though there was an imperial proscription forbidding any travel abroad, Xuanzang was not deterred. In 630 A.D., he had a dream that he climbed Mount Sumeru, the holy mountain home of the gods, and that furthered convinced him to journey to India. Xuanzang, then 26 years old, began his journey from Suzhou. He was allowed to proceed as the governor, being a pious man, ignored an arrest order placed on him. However, his guide deserted him and Xuanzang was left to travel alone. The road west began with a dangerous river crossing as he would have to circumvent the guards at the Jade Gate that stood on the opposite bank as well as at five watch towers strategically located in the northwest direction. Moreover, “in the space between them there is neither water nor herb; beyond the five towers stretches the desert, (the Taklamakan) on the frontiers of the kingdom called I-gu.”
 
+Xuanzang’s piety and determination impressed the guards at the watch towers, some of whom even provided him with advice on the best routes to take. Even so, while crossing the Taklamakan desert, he lost his water supply, and wandered around for the next five days without water. During those difficult times, he invoked the Heart Sutra, meant for those in dire straits, and was rewarded by a dream, which revived him. He soon found water and survived.
+
+Xuanzang’s journey took him to Turfan in the Tarim Basin, as well as Yanqi and Kucha, kingdoms in northern Xinjiang. Crossing the Oxus River, he then made his way to Bactria (in Afghanistan). He described Balkh, the capital, as having about 3,000 Buddhist monks of the Theravada school, and many sacred relics of the Buddha. Further on at Bamiyan, he saw the two famous standing colossi of the Buddha, and a 1,000 feet-long reclining statue. When Xuanzang visited it, Bamiyan was an outstanding centre of the Gandharan school of Buddhist art.
+
+Gandhara was famous for its Buddhist traditions and for producing eminent Buddhist scholars. At its capital, Purushapura (Peshawar), Xuanzang saw a stupa built by Kanishka, the great Kushan king, and a tower which held the Buddha’s alms-bowl.
+
+In Kashmir, Buddhism was flourishing and there were about 5,000 monks. Xuanzang spent two years there studying Buddhist philosophy and transcribing sutras and texts to be taken back to China. From Kashmir, he then made his way to Mathura, where he saw the same stupas that Faxian had witnessed earlier.
+
+Xuanzang spent 15 years studying and travelling throughout India. The highlight of his stay was his time at Nalanda, the famous Buddhist University at Bihar. Xuanzang first stayed at Nalanda for 15 months, studying philosophy and Sanskrit. After travelling within India extensively, he returned to Nalanda and studied there for many years, where he gained fame as a skilled debater and logician with his comprehensive knowledge of the Dharma.
+
+Although his contemporaries at Nalanda tried to dissuade him from going back to China, Xuanzang returned in 645 A.D., and devoted the rest of his life to the study and translation of the texts he had obtained. He had taken back a treasure trove of texts to China, a total of 657 titles, packed into 520 cases.
+
+At the request of Emperor Taizong (626- 49 A.D.), Xuanzang wrote his travelogue, and this remains one of his most important legacies. It documented the period of Buddhism in a state of decline in India, and gave a background to the passing of an age. In the early 20th century, Aurel Stein, a renowned archaeologist, rediscovered some of the kingdoms that Xuanzang visited and validated Xuanzang’s accounts.5 Xuanzang has achieved iconic status in Chinese Buddhism and is also immortalised as a folkhero in literature.6
+
+#### **Penyingkapan Budaya dan Tradisi**
 
 
 
