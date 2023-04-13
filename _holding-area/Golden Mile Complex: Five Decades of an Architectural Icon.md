@@ -22,6 +22,9 @@ Officially opened on 28 January 1972, Golden Mile Complex was an urban renewal p
 
 In June 1967, then Minister for Law and National Development E.W. Barker announced that the area would be one of 14 urban redevelopment projects which would be transformed – resulting in modern skyscrapers, luxury apartments, hotels and shops – to give rise to a “new look Singapore”. These projects would involve the participation of private enterprises.[^3]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/beach_road_redevelopment.png)
+<div style="background-color: white;">Redevelopment of the Beach Road area for projects such as the Golden Mile Complex, 1967. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
 Singapura Developments won the tender for the three-acre site that would eventually host Golden Mile Complex with a proposal for a building by the architecture firm Design Partnership (now known as DP Architects), which was then helmed by William S.W. Lim, Tay Kheng Soon and Koh Seow Chuan. The three men had convinced Singapura Developments to bid for the site in May 1969, offering the unusual proposition for a single building that would integrate shops, offices and apartments. Although the concept differed sharply from the government’s original proposal for luxury apartments on the plot, Lim, Tay and another architect, Gan Eng Oon, proved their design could work with an economic feasibility study that included precisely calculated land and sale prices.[^4]
 
 The all-in-one design of Golden Mile Complex marked a significant shift from how city planners in Singapore then traditionally segregated areas into different zones for “live, work, play”. In fact, it embodied Lim’s vision for “megastructures” that would contain all the functions of a city within a building, which he believed to be the future of Asian cities.
