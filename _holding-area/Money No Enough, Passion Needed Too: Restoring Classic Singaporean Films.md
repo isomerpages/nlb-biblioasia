@@ -79,7 +79,7 @@ Sometimes, in the midst of getting the different film elements together, other t
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/burger_king_promotion.png)
 <div style="background-color: white;">When <i>The Teenage Textbook Movie</i> was screened in cinemas in 1998, one
 could get a copy of the limited-edition original movie soundtrack at a special price
-of $7.90 with any purchase at Burger King. <i>Courtesy of Vue Networks</i>.
+of $7.90 with any purchase at Burger King. <i>Courtesy of Vue Networks</i>.</div>
 
 #### **The Forgotten Femme Fatale**
 
@@ -139,4 +139,4 @@ the archive’s collection.</div>
 
 [^8]: “Restored: They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://asianfilmarchive.org/event-calendar/restored-they-call-her-cleopatra-wong-1978/.
 
-[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.</div>
+[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.
