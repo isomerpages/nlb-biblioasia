@@ -9,6 +9,9 @@ By Justin Zhuang
 
 Acclaimed Dutch architect Rem Koolhaas described it a masterpiece of experimental architecture. Singaporeans were drawn to it for its atmosphere and the abundance of cheap Thai food. For Thais living in Singapore, it was a home away from home. 
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex.png)
+<div style="background-color: white;">Golden Mile Complex with its unique stepped terraced design as seen from Nicoll Highway, 2022. The building next to it is Golden Mile Tower. <i>Photo by Darren Soh.</i></div>
+
 Golden Mile Complex, also known as Little Thailand, was sold in 2021 to a consortium which will redevelop the building. As it has been gazetted as a conserved building by the Urban Redevelopment Authority, its physical structure is likely to be preserved. However, the same cannot be said for its unique character. Its tenants – a mix of inexpensive Thai eateries, seedy bars and tiny shops selling Thai perishables – were given until May 2023 to move out. Now that they have dispersed, they are unlikely to return.
 
 As an era in the building’s history ends, it is timely to look back at its history, which goes back five decades. 
@@ -157,7 +160,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^30]: Singapore Parliament, “Parliamentary Debates Singapore Official Report Tenth Parliament Part II of Second Session,” 6 March 2006, Budget, https://sprs.parl.gov.sg/search/#/topic?reportid=006_20060306_S0004_T0005.
 
-[^31]: Wong Yunn Chii, et al., *Singapore 1:1 City: A Gallery of Architecture & Urban Design* (Singapore: Urban Redevelopment Authority, 2005), 162. (From National Library, Singapore, call no. RART 720.95957 WON)
+[^31]: Wong Yunn Chii, et al., *Singapore 1:1 City: A Gallery of Architecture &amp; Urban Design* (Singapore: Urban Redevelopment Authority, 2005), 162. (From National Library, Singapore, call no. RART 720.95957 WON)
 
 [^32]: Clarence Chang, “It’s So Unlike Orderly S’pore,” New Paper, 7 March 2006, 4. (From Newslink via NLB’s eResources website)
 
