@@ -114,6 +114,12 @@ The restoration of *They Call Her… Cleopatra Wong* took two years and was comp
 
 The process of recovering original film elements of supposedly lost or forgotten works is a long-drawn out one and frequently involves serendipity. And this would not be possible without the persevering work of film archives around the world.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/chew_tee_pao.png">
+	<b>Chew Tee Pao</b> is an archivist with the Asian Film Archive. Since
+2014, he has overseen the restoration of more than 30 films from
+the archive’s collection.</div>
 
 #### **NOTES**
 
