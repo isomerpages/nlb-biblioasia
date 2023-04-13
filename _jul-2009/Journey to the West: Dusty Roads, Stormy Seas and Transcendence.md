@@ -120,7 +120,15 @@ From Faxian to Yijing, the travel accounts spanned a period of almost three cent
 
 ***The author wishes to acknowledge the contributions of Dr Robert Knox, Former Keeper, Oriental &amp; Islamic Antiquities, The British Museum, in reviewing the paper***.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/prasani1.jpg">
+<center><b>Prasani Weerawardane</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
 
 
+	
+	
+	
 
 
