@@ -43,6 +43,9 @@ Written by comedian and film director Jack Neo, *Money No Enough* is about three
 
 Meanwhile, *The Teenage Textbook Movie* is a lighthearted look at the lives and loves of a group of students from the fictitious Paya Lebar Junior College in Singapore. It was adapted from *The Teenage Textbook* and its sequel, *The Teenage Workbook*, two bestselling local books by Singaporean lawyer Adrian Tan. The movie topped the Singapore box office for weeks and was the first English-language local film to feature an all-Singaporean written soundtrack.
 
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/the_teenage_textbook_movie.png)
+<div style="background-color: white;"><i>The Teenage Textbook Movie</i> (1998) was adapted from <i>The Teenage Textbook</i> and its sequel, <i>The Teenage Workbook</i>, two bestsellers by Singaporean lawyer Adrian Tan, who was then an undergraduate at the National University of Singapore. <i>Courtesy of Vue Networks and Asian Film Archive.</i></div>
+
 The AFA already had the 35 mm exhibition prints of these films in its collection and the intention was to restore the films using the original negatives. The original negative is of great value since it is the earliest generation of the finished film and contains the image in the highest quality. The challenge was that many local films that used 35 mm film stock and were theatrically screened in the 1990s had their negatives processed and printed in overseas film laboratories in Australia, India or Thailand. Filmmakers and production companies neglected to retrieve these negatives from the laboratories; over time, the original negatives and prints were either discarded or lost.
 
 ![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/comparison1.jpg)
