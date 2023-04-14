@@ -185,7 +185,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^28]: Danny Yeo, “[Old Shopping Centres Need More Than a Facelift to Survive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19930831-1.2.80.11),” *Business Times*, 31 August 1993,  54. (From NewspaperSG)
 
-[^29]: Evelyn Yap, “Not Quite the Golden Mile, But There’s Hope,” *Sunday Times*, 14 April 1996, 3. (From Newslink via NLB’s eResources website)
+[^29]: Evelyn Yap, “Not Quite the Golden Mile, But There’s Hope,” *Sunday Times*, 14 April 1996, 3. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^30]: Singapore Parliament, “Parliamentary Debates Singapore Official Report Tenth Parliament Part II of Second Session,” 6 March 2006, Budget, https://sprs.parl.gov.sg/search/#/topic?reportid=006_20060306_S0004_T0005.
 
