@@ -199,7 +199,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^35]: David Chew, “[Fighting for Our Landmarks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20061111-1.2.53.1),” *Today*, 11 November 2006, 58. (From NewspaperSG)
 
-[^36]: Tay Suan Chiang, “Tours Down Memory Lane,” Straits Times, 1 November 2007, 16. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
+[^36]: Tay Suan Chiang, “Tours Down Memory Lane,” *Straits Times*, 1 November 2007, 16. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
 [^37]: Justin Zhuang, “[Saving Pearl Bank Apartments](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt),” *BiblioAsia* 12, no. 3 (October–December 2016): 12–16. 
 
