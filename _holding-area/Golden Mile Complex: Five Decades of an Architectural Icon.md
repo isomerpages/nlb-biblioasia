@@ -175,7 +175,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^23]: Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1).”
 
-[^24]: K.F. Tang, “What Price Foreign Workers?,” *Straits Times*, Sunday Plus, 21 February 1988, 1. (From NewspaperSG)
+[^24]: K.F. Tang, “[What Price Foreign Workers?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880221-1.2.71.3.1),” *Straits Times*, Sunday Plus, 21 February 1988, 1. (From NewspaperSG)
 
 [^25]: Sharon Lim, “370 Suspected Thai Illegal Immigrants Held at Beach Road,” *Straits Times*, 13 March 1989, 1. (From NewspaperSG)
 
