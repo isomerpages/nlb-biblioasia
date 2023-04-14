@@ -189,19 +189,19 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^30]: Singapore Parliament, “Parliamentary Debates Singapore Official Report Tenth Parliament Part II of Second Session,” 6 March 2006, Budget, https://sprs.parl.gov.sg/search/#/topic?reportid=006_20060306_S0004_T0005.
 
-[^31]: Wong Yunn Chii, et al., *Singapore 1:1 City: A Gallery of Architecture &amp; Urban Design* (Singapore: Urban Redevelopment Authority, 2005), 162. (From National Library, Singapore, call no. RART 720.95957 WON)
+[^31]: Wong Yunn Chii, et al., *[Singapore 1:1 City: A Gallery of Architecture &amp; Urban Design](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12643381)* (Singapore: Urban Redevelopment Authority, 2005), 162. (From National Library, Singapore, call no. RART 720.95957 WON)
 
-[^32]: Clarence Chang, “It’s So Unlike Orderly S’pore,” New Paper, 7 March 2006, 4. (From Newslink via NLB’s eResources website)
+[^32]: Clarence Chang, “It’s So Unlike Orderly S’pore,” New Paper, 7 March 2006, 4. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^33]: Desmond Ng and Esther Huang, “National Disgrace? But the View Is Great,” *New Paper*, 7 March 2006, 4. (From Newslink via NLB’s eResources website)
+[^33]: Desmond Ng and Esther Huang, “National Disgrace? But the View Is Great,” *New Paper*, 7 March 2006, 4. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^34]: Calvin Low, “Golden Mile Still Shines,” *Straits Times*, 5 August 2006, 13. (From NewspaperSG)
+[^34]: Calvin Low, “[Golden Mile Still Shines](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060805-1.2.94.14.1),” *Straits Times*, 5 August 2006, 13. (From NewspaperSG)
 
-[^35]: David Chew, “Fighting for Our Landmarks,” *Today*, 11 November 2006, 58. (From NewspaperSG)
+[^35]: David Chew, “[Fighting for Our Landmarks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20061111-1.2.53.1),” *Today*, 11 November 2006, 58. (From NewspaperSG)
 
-[^36]: Tay Suan Chiang, “Tours Down Memory Lane,” Straits Times, 1 November 2007, 16. (From Newslink via NLB’s eResources website) 
+[^36]: Tay Suan Chiang, “Tours Down Memory Lane,” Straits Times, 1 November 2007, 16. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
-[^37]: Justin Zhuang, “Saving Pearl Bank Apartments,” *BiblioAsia* 12, no. 3 (October–December 2016): 12–16. 
+[^37]: Justin Zhuang, “[Saving Pearl Bank Apartments](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt),” *BiblioAsia* 12, no. 3 (October–December 2016): 12–16. 
 
 [^38]: Melody Zaccheus, “Golden Mile Complex Gets More Than 80 Per Cent Votes from Owners to Launch En Bloc Sale,” *Straits Times*, 11 August 2018,  https://www.straitstimes.com/singapore/golden-mile-complex-gets-more-than-80-per-cent-votes-from-owners-to-launch-en-bloc-sale.
 
