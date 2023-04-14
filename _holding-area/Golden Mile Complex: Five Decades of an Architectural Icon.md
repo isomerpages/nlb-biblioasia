@@ -173,7 +173,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^22]: Luo Guowei 罗国威, “[Hehe dasha nei xiao xiyuan zhuan fang taiyu pian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900826-1.2.13.19)” 和合大厦内小戏院专放泰语片 [The small theatre in Woh Hup Complex exclusively screens Thai-language films], 联合晚报 *Lianhe Zaobao*, 26 August 1990, 7; “[B-Grade Heaven at Beach Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900916-1.2.51.21.4),” *Straits Times*, 16 September 1990, 15. (From NewspaperSG)
 
-[^23]: Ho, “Where Thais Meet and Watch the World Go By.”
+[^23]: Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1).”
 
 [^24]: K.F. Tang, “What Price Foreign Workers?,” *Straits Times*, Sunday Plus, 21 February 1988, 1. (From NewspaperSG)
 
