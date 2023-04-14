@@ -183,7 +183,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^27]: Parvathi Nayar, “Script Writer of a Different Kind,” *Business Times*, 17 December 2005, 5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^28]: Danny Yeo, “Old Shopping Centres Need More Than a Facelift to Survive,” *Business Times*, 31 August 1993,  54. (From NewspaperSG)
+[^28]: Danny Yeo, “[Old Shopping Centres Need More Than a Facelift to Survive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19930831-1.2.80.11),” *Business Times*, 31 August 1993,  54. (From NewspaperSG)
 
 [^29]: Evelyn Yap, “Not Quite the Golden Mile, But There’s Hope,” *Sunday Times*, 14 April 1996, 3. (From Newslink via NLB’s eResources website)
 
