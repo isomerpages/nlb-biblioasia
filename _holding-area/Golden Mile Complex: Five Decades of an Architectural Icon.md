@@ -177,7 +177,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^24]: K.F. Tang, “[What Price Foreign Workers?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880221-1.2.71.3.1),” *Straits Times*, Sunday Plus, 21 February 1988, 1. (From NewspaperSG)
 
-[^25]: Sharon Lim, “370 Suspected Thai Illegal Immigrants Held at Beach Road,” *Straits Times*, 13 March 1989, 1. (From NewspaperSG)
+[^25]: Sharon Lim, “[370 Suspected Thai Illegal Immigrants Held at Beach Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890313-1.2.3),” *Straits Times*, 13 March 1989, 1. (From NewspaperSG)
 
 [^26]: Koolhaas, “Singapore Songlines,” 1061.
 
