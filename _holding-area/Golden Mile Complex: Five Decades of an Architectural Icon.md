@@ -191,7 +191,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^31]: Wong Yunn Chii, et al., *[Singapore 1:1 City: A Gallery of Architecture &amp; Urban Design](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12643381)* (Singapore: Urban Redevelopment Authority, 2005), 162. (From National Library, Singapore, call no. RART 720.95957 WON)
 
-[^32]: Clarence Chang, “It’s So Unlike Orderly S’pore,” New Paper, 7 March 2006, 4. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+[^32]: Clarence Chang, “It’s So Unlike Orderly S’pore,” *New Paper*, 7 March 2006, 4. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^33]: Desmond Ng and Esther Huang, “National Disgrace? But the View Is Great,” *New Paper*, 7 March 2006, 4. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
