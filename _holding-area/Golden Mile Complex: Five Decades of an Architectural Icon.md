@@ -169,9 +169,9 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^20]: Lito Gutierrez and Wong Kwai Chow, “[Little Bangkok at the Golden Mile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850106-1.2.9.8),” *Straits Times*, 6 January 1985, 3. (From NewspaperSG); Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1).”
 
-[^21]: Annie Low, “Business at Its Sunday Best,” Straits Times, 25 April 1988, 11. (From Newslink via NLB’s eResources website); “Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 *Lianhe Zaobao*, 2 March 1988, 9; “Page 6 Advertisements Column 1,” *Timezone Central*, 15 February 1990, 6. (From NewspaperSG)
+[^21]: Annie Low, “Business at Its Sunday Best,” Straits Times, 25 April 1988, 11. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); “[Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880302-1.2.15.7)” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 *Lianhe Zaobao*, 2 March 1988, 9; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/timeszone19900215-1.2.15.1),” *Timezone Central*, 15 February 1990, 6. (From NewspaperSG)
 
-[^22]: Luo Guowei 罗国威, “Hehe dasha nei xiao xiyuan zhuan fang taiyu pian” 和合大厦内小戏院专放泰语片 [The small theatre in Woh Hup Complex exclusively screens Thai-language films], 联合晚报 *Lianhe Zaobao*, 26 August 1990, 7; “B-Grade Heaven at Beach Road,” *Straits Times*, 16 September 1990, 15. (From NewspaperSG)
+[^22]: Luo Guowei 罗国威, “[Hehe dasha nei xiao xiyuan zhuan fang taiyu pian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900826-1.2.13.19)” 和合大厦内小戏院专放泰语片 [The small theatre in Woh Hup Complex exclusively screens Thai-language films], 联合晚报 *Lianhe Zaobao*, 26 August 1990, 7; “[B-Grade Heaven at Beach Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900916-1.2.51.21.4),” *Straits Times*, 16 September 1990, 15. (From NewspaperSG)
 
 [^23]: Ho, “Where Thais Meet and Watch the World Go By.”
 
