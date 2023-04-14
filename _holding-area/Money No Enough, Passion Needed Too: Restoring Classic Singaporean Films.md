@@ -34,7 +34,8 @@ The restored work was screened at the 26th Singapore International Film Festival
 
 In 2017, the AFA embarked on the hunt for surviving film elements of three other iconic Singaporean films – *Money No Enough* (Tay Teck Lock, 1998), *Forever Fever* (Glen Goei, 1998) and *The Teenage Textbook Movie* (Phillip Lim, 1998) – that were released in local theatres in 1998. These films were instrumental to the revival of Singapore cinema in the late 1990s. 
 
-![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/money_no_have_poster.png)
+
+![](/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/money_no_enough_poster.png)
 <div style="background-color: white;">In <i>Money No Enough</i> (1998), three friends with financial problems start a car polishing business together. <i>Courtesy of J Team Productions and Asian Film Archive.</i></div>
 
 Written by comedian and film director Jack Neo, *Money No Enough* is about three friends with financial problems who start a car polishing business together. In Mandarin, English and Hokkien, it was the all-time highest-grossing Singaporean film for more than a decade until the record was broken by Neo’s own directorial work, *Ah Boys to Men*, in 2012.[^1]
