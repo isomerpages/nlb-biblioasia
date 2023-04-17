@@ -1,4 +1,6 @@
 collections:
   jul-to-sep-2023:
     output: true
-    order: []
+    order:
+      - "Money No Enough, Passion Needed Too: Restoring Classic Singaporean
+        Films.md"
