@@ -18,14 +18,14 @@ sections:
       background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
         img.jpg
   - infopic:
-      title: "The Guitar Man: Alex Abisheganaden"
-      subtitle: People
-      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
-        2023. In his memory, we are republishing this essay on him from 2017,
-        which has been updated.
-      button: FATHER OF THE GUITAR
-      url: /vol-13/issue-1/apr-jun-2017/guitar-man
-      image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
+      title: Restoring Classic Singaporean Films
+      subtitle: Film and Photography
+      description: "<i>Money No Enough, Forever Fever</i> and <i>The Teenage Textbook
+        Movie</i> are prime candidates for restoration. "
+      button: Passion for Film Restoration
+      url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
+      image: /images/Vol 19 Issue 2/Restoring SG
+        Films/restore_classic_singapore_films_homepage_image.jpg
       alt: Image alt text
   - infopic:
       title: New Books on Singapore History (Apr 2023)
@@ -461,4 +461,14 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: "The Guitar Man: Alex Abisheganaden"
+      subtitle: People
+      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
+        2023. In his memory, we are republishing this essay on him from 2017,
+        which has been updated.
+      button: FATHER OF THE GUITAR
+      url: /vol-13/issue-1/apr-jun-2017/guitar-man
+      image: /images/Vol-13-issue-1/the-guitar-man/alex and boy (from nac).jpg
+      alt: Image alt text
 ---

@@ -13,19 +13,19 @@ By Lim Tin Seng
 
 For many people, Sentosa is a leisure and tourist destination with a tropical getaway vibe (indeed, it now bills itself as “Singapore’s Island Getaway”). However, before there was Sentosa, Singapore had another tourist isle that was marketed as a getaway from the busy city. A print advertisement from 1967 beckoned people to:
 
-&emsp; “Come to the island…<br>
-&emsp;across calm and moonlit waters,<br>
-&emsp;to look at beauty…<br>
-&emsp;guarded by white marble carved into<br>
-&emsp;serene eyes and silent lips,<br>
-&emsp;that speak only to our inner hearts.[^1]
+  “Come to the island…<br>
+ across calm and moonlit waters,<br>
+ to look at beauty…<br>
+ guarded by white marble carved into<br>
+ serene eyes and silent lips,<br>
+ that speak only to our inner hearts.[^1]
 
 This island was Sarong Island, a place where one could “dine, dance, watch floor shows or just sip a drink and watch a breathtaking view of Singapore harbour and the great ships that pass in and out day and night”. There, you could see “over a hundred varieties of tropical trees and flowers, many species of wild birds, occasional visits of groups of chattering monkeys… [and] the rare sight of a giant monitor lizard basking in the sun”.[^2]
 
 Sarong Island was a piece of land about the size of three football fields (190,575-square-foot; 1.8 ha) that used to sit just off the northern coast of Sentosa. The island was near the former Sentosa Ferry Terminal before it was reclaimed and merged with Sentosa. Dubbed “Singapore’s first tourist isle”, Sarong Island was given its name by its former owner, the late Christina Lee (1923–2009), and was even referred to as the “Shangri-La” of Singapore.[^3]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/2_FromSarongIsland_edit.jpg)
-<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Source: The_ _Straits Times, 14 October 1967. © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;"> A poem extolling the beauty of Sarong Island was published in the press. <i>Source: The Straits Times, 14 October 1967.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
 
 
 #### **An Island for Sale**
@@ -70,7 +70,7 @@ According to Lee, Law and National Development Minister E.W. Barker helped her t
 Sarong Island was declared open on 22 September 1967 by Barker, an event that was witnessed by several hundred guests. They arrived by sampan to the island amid “brilliant lighting effects” from Clifford Pier and Jardine Steps, and were “entertained to a dinner of local dishes” and “a multi-racial show”.[^15]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening_edit2.jpg)
-<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Source: The_ _Straits Times, 20 September 1967. © SPH Media Limited. Permission required for reproduction.</i>
+<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Source: The Straits Times, 20 September 1967.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i>
 </div>
 
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.
@@ -111,7 +111,7 @@ In 1971, the government issued a notice in the Government Gazette that it would 
 After acquiring Sarong Island, the government combined it with Sentosa via a land reclamation scheme. Announced in 1978, this $7 million project, which also included the nearby Selegu Island, took about two years to complete and added some 170,000 sq m (17 ha) of land to Sentosa.[^27] Today, Hard Rock Hotel Singapore occupies the land where Sarong Island once stood.[^28]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/8_Sentosamap.jpg)
-<div style="background-color: white;"> Detail from a 1992 nautical chart shows that both Sarong Island and Pulau Selegu are now part of Sentosa. The two islands were reclaimed in the late 1970s. <i>Singapore. Nautical Chart 60 “Keppel Harbour and Cruise Bay”, 18/03/1992, HC000490, Maritime and Port Authority of Singapore, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;"> Detail from a 1992&nbsp;nautical&nbsp;chart shows that both Sarong Island and Pulau Selegu are now part of Sentosa. The two islands were reclaimed in the late 1970s.&nbsp;<i>Singapore. Nautical Chart 60 “Keppel Harbour and Cruise Bay”,&nbsp;18/03/1992,&nbsp;HC000490,&nbsp;Maritime and Port Authority of Singapore, courtesy of National Archives of Singapore.</i>
 </div>
 
 Although Sarong Island no longer exists, the island and Sentosa once shared the same destiny as a “tourist isle of Singapore”. In fact, back in the 1960s, Lee already had an inkling that her island would inspire the transformation of Pulau Blakang Mati into the island resort of Sentosa. “I had gardeners who looked after [my island] very well. In fact, somebody told me that when Lee Kuan Yew [then the prime minister of Singapore] visited Blakang Mati, he found that it was overgrown with grass… he looked across and said, ‘What is that?’ They said, ‘Oh that is Sarong Island.’ He said, ‘It is so beautifully kept so why can’t we do it?’”[^29]
@@ -124,14 +124,14 @@ While these provide evidence that Sarong Island and Pulau Selegu were not the sa
 In 1978, Law, Environment, and Science and Technology Minister E.W. Barker asked Parliament to approve a $7 million reclamation plan to link Sarong Island and Pulau Selegu to Sentosa, thus showing a distinction between the two islands. “The area proposed for reclamation is an eyesore at low tide when muddy flats, mangrove swamps and flotsam are exposed. The reclamation will join up Pulau Selegu and Sarong Island with Sentosa Island which will not only improve the visual impact on visitors, but will also create more land for future development,” he said.<br><br>
 The reclamation works that merged Pulau Selegu and Sarong Island with Sentosa were completed in 1980.<br><br>	<b>REFERENCES</b><br><br>Dunlop, Peter K.G. 
 British Royal Air Force, <i><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/e552b0e9-9580-11e4-859c-0050568939ad">Aerial Photographs from South-east to North-west Showing Pulau Blakang Mati, Pasir Panjang Wharf</a></i>, 22 November 1949, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 258513) <br><br>“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570316-1.2.51">For Sale: Isle Dream Home</a>,” <i>Straits Times</i>, 16 March 1957, 5 (From NewspaperSG) <br><br>
-Parliament of Singapore, <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189"><i>Reclamation at Sentosa Island</i></a>, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
-Republic of Singapore, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826186">Government Gazette. Extraordinary</a></i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
+Parliament of Singapore, <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4826189"><i>Reclamation at Sentosa Island</i></a>, vol. 37 of Parliamentary Debates: Official Report, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)<br><br>
+Republic of Singapore, <i><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4826186">Government Gazette. Extraordinary</a></i>, 27 February 1971, G.N. 594, p. 641. (From National Library, Singapore, call no. RSING 959.57 SGG)<br><br>
 Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/21098619-b150-11e6-9af5-0050568939ad">Topographical Map of Central and Southern Singapore, and Singapore City</a></i>, 1966, map. (From National Archives of Singapore, accession no. M2016_000173_SD)<br><br>
 Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49b331-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands, and Mukim Number 1: Telok Blangah</a></i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004294)<br><br> Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa49c797-115c-11e3-83d5-0050568939ad">Mukim Number XXXIV: Other Islands</a></i>, 19 June 1979, map. (From National Archives of Singapore, accession no. SP004295)<br><br>
 “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780202-1.2.125">Two Islands to Link with Sentosa,</a>” <i>Straits Times</i>, 2 February 1978, 28. (From NewspaperSG)<br><br></div>
 
 <div style="background-color: white;">
-<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%203/Authors/LimTinSeng.jpg" style="width: 100px; height: 100px;">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
 #### **NOTES**
@@ -168,7 +168,7 @@ Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/
 
 [^16]: R. Chandran, “[All Set for Opening of Sarong Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670920-1.2.31),” *Straits Times*, 20 September 1967, 7; “[Page 6 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671118-1.2.50.2),” *Straits Times*, 18 November 1967, 6 (From NewspaperSG); “[Brilliant Backdrop Sets Mood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670923-1.2.61).”
 
-[^17]: [Mrs Santha Baskar](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b9e0760c-1161-11e3-83d5-0050568939ad-OHC003390_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1), oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
+[^17]: [Mrs Santha Baskar](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b9e0760c-1161-11e3-83d5-0050568939ad-OHC003390_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1), oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
 
 [^18]: [Daniel Koh Yew Bin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e9434feb-d77c-11e4-859c-0050568939ad), oral history interview by Mark Wong, 24 March 2015, MP3 audio, Reel/Disc 6 of 13, 39:19, National Archives of Singapore (accession no. 004011).
 
@@ -188,7 +188,7 @@ Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/
 
 [^26]: “[Mrs. Stone ‘Still in Shock’ Over Govt Take-over of Tourist Isle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710303-1.2.30).”
 
-[^27]: Parliament of Singapore, [Reclamation at Sentosa Island](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4826189), vol. 37 of *Parliamentary Debates: Official Report*, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
+[^27]: Parliament of Singapore, [Reclamation at Sentosa Island](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4826189), vol. 37 of *Parliamentary Debates: Official Report*, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
 
 [^28]: “Hard Rock Hotel Singapore Opens at Resorts World Sentosa,” Hard Rock International, 27 January 2010, https://www.prnewswire.com/news-releases/hard-rock-hotel-singapore-opens-at-resorts-world-sentosa-82773492.html.
 
