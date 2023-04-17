@@ -22,3 +22,15 @@ Pantun merupakan salah satu ciptaan asli masyarakat Melayu. Dalam kajiannya, Fra
 Pantun boleh dibahagikan kepada dua bahagian iaitu pembayang dan maksud pantun. Kebiasaannya, pembayang maksud diambil dari pemerhatian sumber alam, sebagai pemula bicara sebelum penyampaian maksud pantun tersebut. Menurut Daillie, pembayang yang digunakan menggambarkan secara langsung kehidupan masyarakat Melayu yang akrab dengan bidangbidang pertanian dan kelautan, manakala, maksud pantun menepati penyampaian hasrat dan luahan pemikiran Melayu. Sebagai contoh,
 
 *Bukan kacang sebarang kacang*,<br>   *Kacang melilit kayu jati;*<br> *Bukan datang sebarang datang*,<br>   *Datang melihat jantung hati*
+
+Pantun bermula sebagai sastera lisan, sama seperti sasterasastera Melayu yang lain. Namun, menurut Omardin, (1960), ia tidak dijumpai di dalam hikayat-hikayat lama seperti Hikayat Seri Rama, Hikayat Seri Panji atau Hikayat Pandawa Jawa. Pantun mula tercatit di dalam buku sastera di abad kelima belas. Menurut Liaw Yock Fang (1975:285),
+
+“*pantun pertama kali muncul dalam Sejarah Melayu dan hikayathikayat popular yang sezaman. Pantun juga disisipkan dalam syairsyair seperti Syair Ken Tambuhan*.”
+
+Antaranya ialah pantun yang menceritakan tentang kisah Singapura dilanggar todak seperti berikut,
+
+Carik baju raja, Dilompati todak; Bukan di sahaja, Sebab akal budak. Telur itik dari Senggora, Pandan terletak dilangkahi; Darahnya titik di Singapura, Badannya terlantar di Langkawi. (Kesusasteraan Melayu lama, hlm 84)
+
+
+
+
