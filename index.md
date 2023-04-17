@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/
-      button: Singapore’s First Courthouse
+      url: / vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
+      button: Qur’an Made in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Courthouse/Courthouse_Hero_img.jpg
+      background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
+        img.jpg
   - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
