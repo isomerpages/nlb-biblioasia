@@ -20,8 +20,8 @@ sections:
   - infopic:
       title: Restoring Classic Singaporean Films
       subtitle: Film and Photography
-      description: <i>Money No Enough, Forever Fever and The Teenage Textbook
-        Movie</i> kickstarted a new era in Singaporean cinema, making them prime
+      description: <i>Money No Enough, Forever Fever & The Teenage Textbook Movie</i>
+        kickstarted a new era in Singaporean cinema, making them prime
         candidates for restoration.
       button: Passion for Film Restoration
       url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
