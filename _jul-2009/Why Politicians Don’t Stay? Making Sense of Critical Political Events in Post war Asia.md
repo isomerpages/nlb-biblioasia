@@ -8,6 +8,9 @@ image: /images/Vol 5 Issue 2/PoliticalParties/akward.JPG
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Tay Thiam Chye_&nbsp;presents a framework to understanding complex Asian politics.
 
+<img src="/images/Vol%205%20Issue%202/PoliticalParties/akward.JPG" style="width:50%;">
+ <div style="background-color: white;"></div>
+
 Critical political events are high-impact events that will change the political trajectory of a nation. Asia comprises nations with a range of political systems with different political dynamics. Some nations experience frequent changes of political party control of the government while other nations have the same political party controlling the government for decades. The latter refers mainly to dominant party systems whereby one dominant party dominates many aspects of a nation’s political life for decades.
 
 Recurrent news of factional crises or conflicts between key politicians within ruling political parties often sparks speculations of possible significant political changes. Nevertheless, these events have no great political impact unless a faction defects from the ruling party. This renegade faction can subsequently ally with the opposition parties to gain control of the government. Yet, such defections are rare events because factions face huge disincentives to defect from a ruling party. Factional leaders and members have to face huge political risks by giving up most of the prerogatives of ruling party members. This political risk is even greater in a dominant party system.
