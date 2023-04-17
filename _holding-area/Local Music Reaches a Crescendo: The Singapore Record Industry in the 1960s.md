@@ -22,7 +22,7 @@ It was not until 1963 that a new multinational record company would set up opera
 
 The Crescendos started out in early 1961 as an all-male three-piece guitar band, and made their first public appearance at the Radio Singapore Talentime Quest in January that year.1 According to press reports,2 John Chee, the leader of The Crescendos, “discovered” 15-year-old Susan Lim just before the start of the 1962 Talentime Quest competition and decided to feature her as the lead vocalist. In reality, Lim had been performing publicly since she was around 12 and was already a seasoned performer by the time she joined the band.3
 
-The Crescendos’ first record, Mr Twister, was announced in February 1963,4 and by October had sold more than 10,000 copies. “Local dealers of Philips records confirmed that since the arrival of The Crescendos’ disc, a similar song by [famous American singer] Connie Francis on another label was ‘dropped’ by buyers who showed a marked preference for The Crescendos.”5 
+The Crescendos’ first record, *Mr Twister*, was announced in February 1963,4 and by October had sold more than 10,000 copies. “Local dealers of Philips records confirmed that since the arrival of The Crescendos’ disc, a similar song by [famous American singer] Connie Francis on another label was ‘dropped’ by buyers who showed a marked preference for The Crescendos.”5 
 
 Within 18 months of the success of the first Crescendos release, there was a definite increase in activity within the local record industry. The Singapore branch of Philips began signing local acts quite aggressively and, in the mid-1960s, initiated a series of local records that developed into an exceptionally fine catalogue of Singapore pop releases.6
 
@@ -38,7 +38,7 @@ By the end of the 1960s, there were hundreds of labels in Singapore catering to 
 
 Apart from supplying the Singapore market, many companies exported a significant percentage of their production, especially to Malaysia and Indonesia. One relatively small producer, Kwan Sia Record Company, which produced the Swan and Star Swan labels, reported that half of its 8,000 copies pressed from a single LP release was exported to Indonesia at a value of about $30,000.8
 
-By early 1967, Singapore was producing a total of 2.45 million records annually. According to the Straits Times in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.9
+By early 1967, Singapore was producing a total of 2.45 million records annually. According to the *Straits Times* in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.9
 
 By 1970, there were at least four record manufacturers in Singapore that pressed records for their own labels as well as for other companies.There were likely other small-scale manufacturers as well, so exact figures are not available, but according to newspaper reports of the time, record production at these four major pressing plants had reached one million discs per month.10
 
