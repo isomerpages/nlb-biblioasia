@@ -70,7 +70,7 @@ According to Lee, Law and National Development Minister E.W. Barker helped her t
 Sarong Island was declared open on 22 September 1967 by Barker, an event that was witnessed by several hundred guests. They arrived by sampan to the island amid “brilliant lighting effects” from Clifford Pier and Jardine Steps, and were “entertained to a dinner of local dishes” and “a multi-racial show”.[^15]
 
 ![](/images/Vol%2018%20Issue%203/Sarong%20Island/4_opening_edit2.jpg)
-<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Source: The_ _Straits Times, 20 September 1967.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i>
+<div style="background-color: white;"> Sarong Island opened on 22 September 1967. <i>Source: The Straits Times, 20 September 1967.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i>
 </div>
 
 The Sarong Island of 1967 was a scaled-down version of Lee’s original vision. The main focus was the restaurant (the White House), though it also had an open-air amphitheatre for dance performances, an outdoor patio to hold events, a gift shop, a proper pier, and artworks from Lee’s private collection adorning the flight of steps leading from the jetty to the restaurant. The entire island was also wired for music and lighting.
