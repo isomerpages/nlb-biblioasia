@@ -32,7 +32,7 @@ One of the most important factors for dominant party longevity is the power asym
 
 **Table 1:** Power Disparity between Dominant Party and Opposition Parties (Lower House)[^1]
 
-<img src="/images/Vol%205%20Issue%202/PoliticalParties/table%201%202.jpg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%205%20Issue%202/PoliticalParties/table%201%202.jpg">
  <div style="background-color: white;">* Barisan Nasional is an UMNO-led coalition</div>
 
 By using the political party as the unit of analysis, the dominant party split can be attributed to a multitude of factors in the political, economic, and social arenas. The main argument is that exogenous macro-level factors create dire conditions at the national level thereby reducing the dominant party’s ruling legitimacy. The macro-level factors include ideology (Sasaki 1999); democratisation (Giliomee and Simkins 1999; Jayasuriya and Rodan 2007); party system changes (Boucek 1998); voter realignment (Reed 1999); changes of socioeconomic composition of the party’s support base (Pempel 1998); entry of new parties (Greene 2008); and/or changes in the values of the voters (Mair and Tomokazu 1998). Nevertheless, the focus on exogenous factors ignores the dominant party’s intra-party dynamics and its adaptability. This being so, examining the cause of dominant party split at the macro-level provides only the context but not the precise causes and timing of party split.
@@ -67,7 +67,7 @@ Three hypotheses are derived from the game theoretic model:
 **Background**
 
 **Table 2:** Cases for Analysis
-<img src="/images/Vol%205%20Issue%202/PoliticalParties/table%202%201.jpg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%205%20Issue%202/PoliticalParties/table%202%201.jpg">
  <div style="background-color: white;">
 </div>
 
@@ -84,6 +84,12 @@ INC dominated Indian politics continuously from 1947 to 1977. The faction, led b
 **Findings**
 
 All the hypotheses have been validated. A dominant party’s seat share does not have a definite impact on factional defection (hypothesis 1). The marginalisation of the faction in the intra-party arena (hypothesis 2) and the high expectation of reduced coordination failure with the opposition party in the inter-party arena (hypothesis 3) cause factional defection. This being so, based on hypotheses 2 and 3, this paper concludes that factional defection will occur only when the factions are marginalised in the factional competition and perceive an opportunity of political survival outside the dominant party.
+
+Table 3: Strength of Dominant Parties[^7]
+
+<img style="width:80%;" src="/images/Vol%205%20Issue%202/PoliticalParties/table%203%201.jpg">
+ <div style="background-color: white;">
+
 
 Hypothesis 1 is validated because a dominant party’s seat share does not have a definite impact on a dominant party faction’s decision to defect. In all the cases, the dominant party remained firmly in power with more than 50% of the Lower House seat share based on the results from the two most recent elections. There was a sharp decline in the dominant party’s Lower House seat share in two of the cases: the Gandhi case (1969) and Hau case (1993). The dominant party experienced only a slight drop in the Lower House seat share in the Razaleigh case (1989), the Hata case (1993) and the Soong case (2000). Only INC in the Ram case (1977) experienced an increase in the Lower House seat share.
 
@@ -114,7 +120,7 @@ In short, understanding critical political events helps to shed light on the dyn
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/tay%20thiam%20chye.JPG">
+<img src="/images/Authors/tay%20thiam%20chye.JPG" style="width: 100px; height: 100px;">
 <center><b>Tay Thiam Chye</b><br>Lee Kong Chian Research Fellow<br>National Library</center></div>
 
 #### **REFERENCES**
@@ -147,4 +153,4 @@ T. J. Pempel, ed., _Uncommon Democracies: The One Party Dominant Regimes_ (Ithac
 
 Takeshi Sasaki, _Seiji Kaikau: 1800 Nichi No Shinjisu_ \[Political reform: the record of the 1800 days\]. (Tokyo: Kodansha, 1999)
 
-Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynamics of Factional Defection in Post-War Japan (1945–2003)” (master’s thesis, National University of Singapore, 2010), http://aunilo.uum.edu.my/Find/Record/sg-nus-scholar.10635-15528
+Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynamics of Factional Defection in Post-War Japan (1945–2003)” (master’s thesis, National University of Singapore, 2010), http://aunilo.uum.edu.my/Find/Record/sg-nus-scholar.10635-15528</div>
