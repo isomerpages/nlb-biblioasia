@@ -9,6 +9,7 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex.png
 #### The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that had developed there. 
 
 By Justin Zhuang 
+
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex.png)
 <div style="background-color: white;">Golden Mile Complex with its unique stepped terraced design as seen from Nicoll Highway, 2022. The building next to it is Golden Mile Tower. <i>Photo by Darren Soh.</i></div>
 
