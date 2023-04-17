@@ -45,3 +45,34 @@ Para pengkaji telah mengelompokkan pantun kepada pantun kanak-kanak, pantun oran
 (a)   pantun kanak-kanak, pantun cinta dan kasih sayang, <br>
 (b)   pantun tentang cara hidup masyarakat dan hidup bermasyarakat seperti pantun budi, pantun nasihat dan pantun adat bagi upacara-upacara tertentu seperti majlis perkahwinan, dan sebagainya, serta<br>
 (c)   pantun berkenaan alam sekitar masyarakat Melayu.
+
+#### **Pantun kanak-kanak**
+
+Antara rangkap-rangkap pantun yang disasarkan kepada kanakkanak ialah:
+
+*Timang tinggi-tinggi*,<br>
+*Sampai cucur atap*;<br>
+*Belum tumbuh gigi*,<br>
+*Sudah pandai baca kitab*.
+
+Pantun-pantun sebegini sering dinyanyikan atau didodoikan oleh ibu atau keluarga kepada anak-anak. Ia bukan sekadar dendangan untuk menghiburkan si anak, bahkan mengandungi doa dan hasrat supaya anak itu akan menjadi seorang yang berilmu, yakni, sudah boleh membaca kitab walaupun belum lagi tumbuh gigi.
+
+Apabila anak itu sudah ke peringkat yang seterusnya, terdapat pantun seperti
+
+*Cempedak di luar pagar*,<br>
+*Ambil galah tolong jolokkan*;<br>
+*Saya budak baharu belajar*,<br>
+*Kalau salah tolong tunjukkan*.
+
+Namun, terdapat juga kanak-kanak yang kurang bersungguhsungguh hingga terungkap pantun ini:
+
+*Sorong papan tarik papan*,<br>
+*Buah keranji di dalam perahu*;<br>
+*Suruh makan saya makan*,<br> 
+*Suruh mengaji saya tak tahu*.<br> 
+(Pantun, hlm. 22)
+
+
+
+
+
