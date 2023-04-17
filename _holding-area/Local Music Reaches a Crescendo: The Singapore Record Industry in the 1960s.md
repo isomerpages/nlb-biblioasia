@@ -62,4 +62,10 @@ Apart from the many one-off concerts held in various halls, there were also regu
 
 Other important platforms for local performers were the regular Talentime competitions and thematic contests such as “Ventures of Singapore Competition”. In some cases, the winning artistes were offered an opportunity to make a record as part of their prize. Talentime and similar competitions had existed since 1949, but during the 1960s they became ever more popular and many winners went on to have significant careers as performers and recording artistes.
 
-One novel event organised in the 1960s was the series of “Pool Parties” held at the Chinese Swimming Club. Everyone came in their swimsuit and could take a dip in the pool whenever they needed to cool off or in between dancing to the music of live bands.
+One novel event organised in the 1960s was the series of “Pool Parties” held at the Chinese Swimming Club. Everyone came in their swimsuit and could take a dip in the pool whenever they needed to cool off or in between dancing to the music of live bands. 
+
+It is possible to see connections between these modern live music performances and earlier forms of public entertainment such as Chinese street opera (wayang) and Malay opera (bangsawan) performed by travelling opera troupes on open-air stages, and even the relatively more recent getai (literally meaning “song stage”) performances associated with the Chinese Hungry Ghost festival.12
+
+Other outlets for popular music performances in the 1960s were radio and television broadcasts, charity concerts and shows at British military establishments (which despite the more restricted audience reach were important venues for live music). Private parties also provided additional avenues for bands and vocalists to perform on the entertainment circuit.
+
+Taken together, these opportunities to perform publicly encouraged many musically inclined younger Singaporeans to form their own bands or become singers. This, in turn, fuelled the Singapore music scene in the 1960s, as evidenced by the large number and variety of performers who were recorded here.13
