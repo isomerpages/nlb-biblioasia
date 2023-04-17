@@ -9,11 +9,10 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex.png
 #### The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that had developed there. 
 
 By Justin Zhuang 
-
-Acclaimed Dutch architect Rem Koolhaas described it a masterpiece of experimental architecture. Singaporeans were drawn to it for its atmosphere and the abundance of cheap Thai food. For Thais living in Singapore, it was a home away from home. 
-
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex.png)
 <div style="background-color: white;">Golden Mile Complex with its unique stepped terraced design as seen from Nicoll Highway, 2022. The building next to it is Golden Mile Tower. <i>Photo by Darren Soh.</i></div>
+
+Acclaimed Dutch architect Rem Koolhaas described it a masterpiece of experimental architecture. Singaporeans were drawn to it for its atmosphere and the abundance of cheap Thai food. For Thais living in Singapore, it was a home away from home. 
 
 Golden Mile Complex, also known as Little Thailand, was sold in 2021 to a consortium which will redevelop the building. As it has been gazetted as a conserved building by the Urban Redevelopment Authority, its physical structure is likely to be preserved. However, the same cannot be said for its unique character. Its tenants – a mix of inexpensive Thai eateries, seedy bars and tiny shops selling Thai perishables – were given until May 2023 to move out. Now that they have dispersed, they are unlikely to return.
 
@@ -23,19 +22,19 @@ As an era in the building’s history ends, it is timely to look back at its his
 
 Officially opened on 28 January 1972, Golden Mile Complex was an urban renewal project by the government to “redevelop and rejuvenate the slum-ridden areas in the Singapore city centre”.[^1] In the 1960s, the site was home to squatter settlements, small-time furniture and rattan makers, and the Kampong Glam Community Centre.[^2]
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/beach_road_redevelopment.png)
-<div style="background-color: white;">Redevelopment of the Beach Road area for projects such as the Golden Mile Complex, 1967. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
-
 In June 1967, then Minister for Law and National Development E.W. Barker announced that the area would be one of 14 urban redevelopment projects which would be transformed – resulting in modern skyscrapers, luxury apartments, hotels and shops – to give rise to a “new look Singapore”. These projects would involve the participation of private enterprises.[^3]
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/concept_sketch.png)
-<div style="background-color: white;">A concept sketch of a megastructure by the Singapore Planning and Urban Research Group (which included William Lim and the other designers of Golden Mile Complex) published in Asia Magazine in 1966. It resembles what Golden Mile Complex looks like (facing Beach Road). <i>Image reproduced from Singapore Planning and Urban Research Group 1965–1967 (Singapore: Singapore Planning and Urban Research Group, 1968). 4. (From National Library, Singapore, call no. RSING 307.1216095957 SIN).</i></div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/beach_road_redevelopment.png)
+<div style="background-color: white;">Redevelopment of the Beach Road area for projects such as the Golden Mile Complex, 1967. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Singapura Developments won the tender for the three-acre site that would eventually host Golden Mile Complex with a proposal for a building by the architecture firm Design Partnership (now known as DP Architects), which was then helmed by William S.W. Lim, Tay Kheng Soon and Koh Seow Chuan. The three men had convinced Singapura Developments to bid for the site in May 1969, offering the unusual proposition for a single building that would integrate shops, offices and apartments. Although the concept differed sharply from the government’s original proposal for luxury apartments on the plot, Lim, Tay and another architect, Gan Eng Oon, proved their design could work with an economic feasibility study that included precisely calculated land and sale prices.[^4]
 
 The all-in-one design of Golden Mile Complex marked a significant shift from how city planners in Singapore then traditionally segregated areas into different zones for “live, work, play”. In fact, it embodied Lim’s vision for “megastructures” that would contain all the functions of a city within a building, which he believed to be the future of Asian cities.
 
 “We must reject outdated planning principles that seek to segregate man’s activities into arbitrary zones, no matter how attractive it may look in ordered squares on a land use map. We must reject arbitrary standards laid down that limit the intensive use of land,” said Lim and Tay as part of an essay for the Singapore Planning and Urban Research Group that was published in Asia Magazine in 1966.[^5] This vision was realised in Golden Mile Complex: a concrete megastructure that became one of the earliest mixed-use developments in Singapore and Asia.[^6]
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/concept_sketch.png)
+<div style="background-color: white;">A concept sketch of a megastructure by the Singapore Planning and Urban Research Group (which included William Lim and the other designers of Golden Mile Complex) published in Asia Magazine in 1966. It resembles what Golden Mile Complex looks like (facing Beach Road). <i>Image reproduced from Singapore Planning and Urban Research Group 1965–1967 (Singapore: Singapore Planning and Urban Research Group, 1968). 4. (From National Library, Singapore, call no. RSING 307.1216095957 SIN).</i></div>
 
 In January 1970, Singapura Developments began marketing the property and declared that “The Golden Mile Race Is On”. All 64 apartments were snapped up within a month, and most of the offices and shops were sold by the time building works commenced in May 1970.[^7]
 
@@ -109,6 +108,9 @@ In August 2018, news broke that more than 80 percent of the owners of units in t
 
 Although architects and academics petitioned for Golden Mile Complex to be conserved, residents were in two minds about it. The complex’s long-time residents confessed they could no longer keep up with the building’s maintenance needs. “The problem is that it’s an old building, and when it rains, the water seeps through some of the walls. The building has water-proofing issues,” said Ponno Kalastree, who had lived and worked there since 1989. He was among those who had voted for the sale and was planning to downgrade to a Housing and Development Board flat, but admitted that he would miss the place.[^39]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
+<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
+
 To the surprise of many, the Urban Redevelopment Authority (URA) told the *Business Times* in October 2018 that they have “assessed the building to have heritage value, and is in the process of engaging the stakeholders to explore options to facilitate conservation”. “Modern architecture, dating from our recent past, is a significant aspect of our built heritage, and we have selectively conserved a number of such buildings. Where there is strong support and merits for conservation, we will work with the relevant stakeholders to facilitate the process,” said the URA. This meant that the existing building could be retained while a new block would be added next to it.[^40]
 
 The tender closed in January the following year without any offer, and a second tender launched just two months later with the same terms and price tag of $800 million suffered the same fate.[^41]
@@ -116,9 +118,6 @@ The tender closed in January the following year without any offer, and a second 
 Almost one year after the two failed collective sales, the URA announced in October 2020 that it was officially proposing Golden Mile Complex to be conserved in light of its historical and architectural significance.[^42] When it was gazetted a year later in October 2021, Golden Mile Complex became the “first modern, large-scale strata-titled development to be conserved in Singapore”.[^43]
 
 The owners relaunched an en bloc sale in December that year at the same price of $800 million.[^44] This time, the sale was successful and the complex was sold in May 2022 to a consortium comprising Far East Organization, Sino Land and Perennial Holdings. Although their bid was $100 million lower than the reserve price, the owners agreed to the sale within “a record time of 15 days”.[^45]
-
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
-<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
 
 At the point of publishing this essay, the new owners have yet to reveal how they plan to redevelop Golden Mile Complex, though it is unlikely that any of the former tenants will return. The battle to conserve Golden Mile Complex has, ironically, cost the community who kept it alive when others moved on to swankier new buildings. But all, however, is not lost. The redevelopment of Golden Mile Complex could serve as a model for how other similar buildings in Singapore can be conserved in the future.
 
