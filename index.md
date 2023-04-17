@@ -28,16 +28,6 @@ sections:
         Films/restore_classic_singapore_films_homepage_image.jpg
       alt: Image alt text
   - infopic:
-      title: "The Guitar Man: Alex Abisheganaden"
-      subtitle: People
-      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
-        2023. In his memory, we are republishing this essay on him from 2017,
-        which has been updated.
-      button: FATHER OF THE GUITAR
-      url: /vol-13/issue-1/apr-jun-2017/guitar-man
-      image: /images/Vol-13-issue-1/the-guitar-man/alex and boy (from nac).jpg
-      alt: Image alt text
-  - infopic:
       title: New Books on Singapore History (Apr 2023)
       subtitle: Literature
       description: A quick look at five new books available in the National Library’s
@@ -471,4 +461,14 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: "The Guitar Man: Alex Abisheganaden"
+      subtitle: People
+      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
+        2023. In his memory, we are republishing this essay on him from 2017,
+        which has been updated.
+      button: FATHER OF THE GUITAR
+      url: /vol-13/issue-1/apr-jun-2017/guitar-man
+      image: /images/Vol-13-issue-1/the-guitar-man/alex and boy (from nac).jpg
+      alt: Image alt text
 ---
