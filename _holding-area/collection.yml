@@ -2,5 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Local Music Reaches a Crescendo: The Singapore Record Industry in the
+        1960s.md"
       - "Golden Mile Complex: Five Decades of an Architectural Icon.md"
       - Test page.md
