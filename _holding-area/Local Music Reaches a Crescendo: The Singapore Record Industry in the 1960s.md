@@ -84,4 +84,6 @@ Another new development was sponsored radio programmes devoted to pop music. Cos
 
 By the late 1960s, local popular music was deemed important enough to be treated seriously, with regular columns appearing in daily newspapers and other print media. The lure of a much larger market in Malaysia and Indonesia also gave rise to Malay-language pop music publications that were based in Singapore.16  
 
-Many amateur bands and singers were able to develop a following via fan clubs and attracted regular 
+Many amateur bands and singers were able to develop a following via fan clubs and attracted regular patrons at their performances, even if some of their careers were short-lived. Local record companies were just as eager to tap into these markets as they were in recording the more established performers. Almost every amateur band aspired to record, and although many never did so, there were many more opportunities to cut a record in Singapore during the 1960s than ever before.
+
+Finally, the increasing availability of relatively cheap and reliable air travel within Southeast Asia in the 1960s meant that Singapore bands could frequently tour places like Sarawak, Brunei, Bangkok and Saigon (now Ho Chi Minh City). A few Singapore bands (such as The Quests and The Phantoms) were booked for lengthy appearances in Hong Kong, and even recorded there. On the other hand, bands from Indonesia, Malaysia, Sarawak, Brunei and the Philippines also came to Singapore to perform at hotels and nightclubs or to record in Singapore.17
