@@ -29,8 +29,17 @@ Pantun bermula sebagai sastera lisan, sama seperti sasterasastera Melayu yang la
 
 Antaranya ialah pantun yang menceritakan tentang kisah Singapura dilanggar todak seperti berikut,
 
-Carik baju raja, Dilompati todak; Bukan di sahaja, Sebab akal budak. Telur itik dari Senggora, Pandan terletak dilangkahi; Darahnya titik di Singapura, Badannya terlantar di Langkawi. (Kesusasteraan Melayu lama, hlm 84)
+*Carik baju raja*, <br> *Dilompati todak*; <br> *Bukan di sahaja*, <br> *Sebab akal budak*. <br> <br> *Telur itik dari Senggora*, <br> *Pandan terletak dilangkahi*; <br> *Darahnya titik di Singapura*, <br> *Badannya terlantar di Langkawi*. <br> (Kesusasteraan Melayu lama, hlm 84)
 
+Terdapat pantun bagi setiap fasa kehidupan masyarakat Melayu, yakni dari pantun kanak-kanak, dewasa hingga ke tua. Maka tidak keterlaluan jika dikatakan bahawa pantun merupakan salah satu rujukan sosiobudaya masyarakat Melayu kerana ia merakam berbagai aspek kehidupan dan merangkumi pelbagai peringkat usia.
+
+Selain daripada digunakan atau dipersembahkan di dalam majlis-majlis rasmi atau digunakan di upacara-upacara tertentu, pantun juga telah mendarah daging di dalam kehidupan seharian masyarakat Melayu. Ia telah menjadi wahana untuk menyampaikan “hajat dan hasrat, melahirkan ucap selamat, sanjung dan puji, di samping menjadi “penghibur, alat berjenaka dan bergurau senda” serta “menguji ketajaman akal, menyindir dan menasihati”. Bahkan pantun dengan masyarakat Melayu “tidak akan terpisah, umpama irama dan lagu” (Noriah 2006: 48).
+
+Para pengkaji telah mengelompokkan pantun kepada pantun kanak-kanak, pantun orang muda dan pantun orang tua, namun untuk tujuan esei ini, kita boleh mengelompokkan pantun kepada beberapa aspek berikut untuk melihat dampak pantun dalam setiap ruang sosial dan budaya masyarakat Melayu seperti:
+
+(a)   pantun kanak-kanak, pantun cinta dan kasih sayang, <br>
+(b)   pantun tentang cara hidup masyarakat dan hidup bermasyarakat seperti pantun budi, pantun nasihat dan pantun adat bagi upacara-upacara tertentu seperti majlis perkahwinan, dan sebagainya, serta<br>
+(c)   pantun berkenaan alam sekitar masyarakat Melayu.
 
 
 
