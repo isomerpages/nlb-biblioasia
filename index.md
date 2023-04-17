@@ -36,7 +36,7 @@ sections:
         which has been updated.
       button: FATHER OF THE GUITAR
       url: /vol-13/issue-1/apr-jun-2017/guitar-man
-      image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
+      image: /images/Vol-13-issue-1/the-guitar-man/alex and boy (from nac).jpg
       alt: Image alt text
   - infopic:
       title: New Books on Singapore History (Apr 2023)
