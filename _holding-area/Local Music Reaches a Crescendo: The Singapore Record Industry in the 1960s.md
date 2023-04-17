@@ -107,6 +107,4 @@ Despite the many new developments in the entertainment scene and the dramatic sp
 As the local press devoted more space to its coverage of popular music, we have a more accurate picture of 1960s popular culture in Singapore compared to previous decades. Clearly, the youth culture and the dynamism of the 1960s made this period an especially fascinating one in the development of Singapore’s musical culture.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-	<b>RECIPE FOR BELACAN</b><br><br>
-	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
-	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later. </div>
+This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985,</i> by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
