@@ -35,4 +35,7 @@ What is interesting, and has often been overlooked, is that this prolific burst 
 #### **Further Developments**
 
 By the end of the 1960s, there were hundreds of labels in Singapore catering to every taste, of which about 140 of these labels released local recordings (a majority being independent companies based here). 
-Apart from supplying the Singapore market, many companies exported a significant percentage of 
+
+Apart from supplying the Singapore market, many companies exported a significant percentage of their production, especially to Malaysia and Indonesia. One relatively small producer, Kwan Sia Record Company, which produced the Swan and Star Swan labels, reported that half of its 8,000 copies pressed from a single LP release was exported to Indonesia at a value of about $30,000.8
+
+By early 1967, Singapore was producing a total of 2.45 million records annually. According to the Straits Times in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.9
