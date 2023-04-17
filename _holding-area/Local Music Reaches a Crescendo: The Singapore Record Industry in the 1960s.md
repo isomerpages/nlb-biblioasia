@@ -104,4 +104,9 @@ Like almost everywhere else in the world, Singapore was influenced by 1960s pop 
 
 Despite the many new developments in the entertainment scene and the dramatic spike in record industry activity, other aspects of the Singapore music scene were not that much different from what they had been in the 1950s. While there was still a limited number of professional bands and singers, there was a large pool of undiscovered amateur talent who appeared in Talentime quests and other similar events, charity concerts, parties, and occasionally professional concerts or dances.
 
-As the local press devoted more space to its coverage of popular music, we have a more accurate picture of 1960s popular culture in Singapore compared to previous decades. Clearly, the youth culture and the dynamism of the 1960s made this period an especially fascinating one in the development of Singapore’s musical culture. 
+As the local press devoted more space to its coverage of popular music, we have a more accurate picture of 1960s popular culture in Singapore compared to previous decades. Clearly, the youth culture and the dynamism of the 1960s made this period an especially fascinating one in the development of Singapore’s musical culture.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+	<b>RECIPE FOR BELACAN</b><br><br>
+	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
+	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later. </div>
