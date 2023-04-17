@@ -105,7 +105,41 @@ In short, understanding critical political events helps to shed light on the dyn
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/tay%20thiam%20chye.JPG">
-<center><b>Tay Thiam Chye</b><br>Lee Kong Chian Research Fellow<br>National Library<center></center></center></div>
+<center><b>Tay Thiam Chye</b><br>Lee Kong Chian Research Fellow<br>National Library</center></div>
+
+#### **REFERENCES**
+
+Dorothy J. Solinger, “Ending One-Party Dominance: Korea, Taiwan, Mexico,” _Journal of Democracy_ 12, no. 1 (January 2001), 30–42.
+
+Francoise Boucek, “Electoral and Parliamentary Aspects of Dominant Party Systems,” in _Comparing Party System Change_, ed. Paul Pennings and Jan-Erik Lane (New York: Routledge, 1998), 103–24. &nbsp;
+
+Gary W&nbsp;Cox and Frances&nbsp;Rosenbluth, “Anatomy of a Split: The Liberal Democrats of Japan,” _Electoral Studies_ 14, no. 4 (December 1995), 355–76.
+
+Hermann Giliomee and Charles Simkins, [_The Awkward Embrace: One-Party Domination and Democracy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9755563) (Australia: Harwood Academic Publishers, 1999). (Call no. R 321.9 AWK)
+
+Horiuchi and Tay Thiam Chye, “Dynamics of Inter-Party and Intra Party Coalition Building: A Nested-Game Interpretation of Legislator Defection From a Dominant Political Party in Japan,” Policy and Governance Discussion Papers 04–02, Australian National University, September 2004, https://www.academia.edu/67237125/Dynamics\_of\_inter\_party\_and\_intra\_party\_coalition\_building\_a\_nested\_game\_interpretation\_of\_legislator\_defection\_from\_a\_dominant\_political\_party\_in\_Japan.
+
+Kanishka Jayasuriya and Garry Rodan, “Beyond Hybrid Regimes: More Participation, Less Contestation in Southeast Asia,” _Democratization_ 14, no. 5 (2007), 773–94.
+
+Kenneth F. Greene, “Dominant Party Strategy and Democratization,” _American Journal of Political Science_ 52, no. 1 (January 2008), 16–31. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Maurice Duverger, _Political Parties_ (London: Methuen, 1954)
+
+Nassim Nicholas Taleb, _[The Black Swan: The Impact of the Highly Improbable](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12900504)_ (New York: Random House, 2007). (Call no. R 003.54 TAL)
+
+Peter Mair and Tomokazu Sakano, _Nihon Ni Okeru Sekai Saihen No Hoko_ \[Japanese political realignment in perspective: Change or restoration\], _Leviathan_ 22 (1998), 12–23.
+
+Steven R. Reed, “Political Reform in Japanese: Combining Scientific and Historical Analysis,” _Social Science of Japan Journal_ 2, no. 2 (October 1999), 177–93. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+T. J. Pempel, _Regime Shift: Comparative Dynamics of the Japanese Political Economy_ (Ithaca, NY: Cornell University Press, 1998)
+
+T. J. Pempel, ed., _Uncommon Democracies: The One Party Dominant Regimes_ (Ithaca: Cornell University Press, 1990)
+
+Takeshi Sasaki, _Seiji Kaikau: 1800 Nichi No Shinjisu_ \[Political reform: the record of the 1800 days\]. (Tokyo: Kodansha, 1999)
+
+Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynamics of Factional Defection in Post-War Japan (1945–2003)” (master’s thesis, National University of Singapore, 2010), http://aunilo.uum.edu.my/Find/Record/sg-nus-scholar.10635-15528
+
+
 
 
 
