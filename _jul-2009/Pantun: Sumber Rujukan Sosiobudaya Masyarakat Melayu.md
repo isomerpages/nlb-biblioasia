@@ -40,6 +40,3 @@ Para pengkaji telah mengelompokkan pantun kepada pantun kanak-kanak, pantun oran
 (a)   pantun kanak-kanak, pantun cinta dan kasih sayang, <br>
 (b)   pantun tentang cara hidup masyarakat dan hidup bermasyarakat seperti pantun budi, pantun nasihat dan pantun adat bagi upacara-upacara tertentu seperti majlis perkahwinan, dan sebagainya, serta<br>
 (c)   pantun berkenaan alam sekitar masyarakat Melayu.
-
-
-
