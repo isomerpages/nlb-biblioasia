@@ -39,3 +39,23 @@ By the end of the 1960s, there were hundreds of labels in Singapore catering to 
 Apart from supplying the Singapore market, many companies exported a significant percentage of their production, especially to Malaysia and Indonesia. One relatively small producer, Kwan Sia Record Company, which produced the Swan and Star Swan labels, reported that half of its 8,000 copies pressed from a single LP release was exported to Indonesia at a value of about $30,000.8
 
 By early 1967, Singapore was producing a total of 2.45 million records annually. According to the Straits Times in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.9
+
+By 1970, there were at least four record manufacturers in Singapore that pressed records for their own labels as well as for other companies.There were likely other small-scale manufacturers as well, so exact figures are not available, but according to newspaper reports of the time, record production at these four major pressing plants had reached one million discs per month.10
+
+#### **New Markets**
+
+The 1960s saw the development of new markets because of economic and social developments as well as an emerging new youth market. While a similar demographic for popular music had existed in Singapore in the 1950s, the youth market then was relatively smaller and almost entirely focused on a diet of imported records by foreign artistes.
+
+In contrast, young people of the 1960s had the funds to purchase records on a larger scale than ever before, and were willing consumers of a local pop culture that was targeted specifically at them. Press coverage and advertisements published on an almost daily basis point to a seemingly endless line-up of concerts, dances, stage shows and live music activities catering to this market.
+
+There was also a rise in the standard of living in 1960s Singapore that led to the creation of a rising middle class who could afford to spend a bigger portion of their income on discretionary items like records and other luxuries. This rising affluence in turn resulted in an unprecedented volume of records of all kinds produced or distributed in Singapore in the 1960s to meet the demands of a growing market.
+
+#### **New Venues**
+
+New music and entertainment venues specifically aimed at the youth demographic were added to existing cabarets, nightclubs and dance halls. Some of these older venues also adapted and innovated in order to take advantage of the new group of potential customers. For instance, before the war, on-stage live performances took place before film screenings at the cinemas, but in the 1960s, these performances took the form of pop concerts, especially when they were held in conjunction with films featuring pop stars or had themes relating to pop culture.
+Another example was “The Early Bird Show”, which was also held in a cinema, but at an early hour of the morning (hence its name), and not in conjunction with a film screening. “The ‘Early Bird Show’ has played to packed houses at Singapore’s Odeon Cinema. Starting at 8.45 a.m. each week, the show looks like being [sic] with us a long time yet, as it will continue as long as the fans respond,” reported Radio Weekly in July 1967.11
+In addition, there were live concerts such as “A Night of Blue Beats”, “Pop Stars on Parade ’66”, “Top Talents ’66”, “What’s Up in Pops” and “Seven Sounds of Soul”. These featured all-star line-ups that differed from conventional concerts usually showcasing a single performer accompanied by one or two supporting artistes.
+Apart from the many one-off concerts held in various halls, there were also regular concert series, including “The Early Bird Show” at the Odeon Cinema (1967–70) and “Musical Express” at the Capitol (1967–68). 
+Other important platforms for local performers were the regular Talentime competitions and thematic contests such as “Ventures of Singapore Competition”. In some cases, the winning artistes were offered an opportunity to make a record as part of their prize. Talentime and similar competitions had existed since 1949, but during the 1960s they became ever more popular and many winners went on to have significant careers as performers and recording artistes.
+One novel event organised in the 1960s was the series of “Pool Parties” held at the Chinese Swimming Club. Everyone came in their swimsuit and could take a dip in the pool whenever they needed to cool off or in between dancing to the music of live bands.
+
