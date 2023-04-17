@@ -33,7 +33,7 @@ One of the most important factors for dominant party longevity is the power asym
 **Table 1:** Power Disparity between Dominant Party and Opposition Parties (Lower House)[^1]
 
 <img src="/images/Vol%205%20Issue%202/PoliticalParties/table%201%202.jpg" style="width:80%;">
- <div style="background-color: white;">\* Barisan Nasional is an UMNO-led coalition</div>
+ <div style="background-color: white;">* Barisan Nasional is an UMNO-led coalition</div>
 
 By using the political party as the unit of analysis, the dominant party split can be attributed to a multitude of factors in the political, economic, and social arenas. The main argument is that exogenous macro-level factors create dire conditions at the national level thereby reducing the dominant party’s ruling legitimacy. The macro-level factors include ideology (Sasaki 1999); democratisation (Giliomee and Simkins 1999; Jayasuriya and Rodan 2007); party system changes (Boucek 1998); voter realignment (Reed 1999); changes of socioeconomic composition of the party’s support base (Pempel 1998); entry of new parties (Greene 2008); and/or changes in the values of the voters (Mair and Tomokazu 1998). Nevertheless, the focus on exogenous factors ignores the dominant party’s intra-party dynamics and its adaptability. This being so, examining the cause of dominant party split at the macro-level provides only the context but not the precise causes and timing of party split.
 
@@ -65,6 +65,11 @@ Three hypotheses are derived from the game theoretic model:
 **Hypothesis 3:** A dominant party faction is likely to defect from a dominant party when the expectation of reduced coordination failure with the opposition party is high.[^6]
 
 **Background**
+
+**Table 2:** Cases for Analysis
+<img src="/images/Vol%205%20Issue%202/PoliticalParties/table%202%201.jpg" style="width:80%;">
+ <div style="background-color: white;">
+</div>
 
 Narratives from historical events are used to test the model’s validity. As factional defections are rare political events, there are only seven party defection cases in the six decades of Asia’s political history since the end of World War II in 1945 (Table 2). These cases cover four dominant parties, LDP (Japan), INC (India), UMNO (Malaysia), and KMT (Taiwan). With the exception of Japan’s Hata factional defection, there is no systematic and comparative study of these rare but significant events.
 
