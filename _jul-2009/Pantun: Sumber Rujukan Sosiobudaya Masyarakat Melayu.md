@@ -9,7 +9,7 @@ image: /images/Vol 5 Issue 2/Pantun/pantun melayu.jpg
 ---
 #### Associate Librarian Juffri bin Supa’at shares how the pantun, the traditional Malay verse or quatrain, is not just a manifestation of an aesthetical art form but also encapsulates and reflects the philosophy and way of life of the Malays.
 
-KALAU PANTUN MENGANDUNG SYARAK,<br>SAMPAI KIAMAT IANYA TEGAK<br><br>KALAU PANTUN MENGANDUNG SUNAH<br>SAMPAI KIAMAT TAKKAN PUNAH.<br><br>KALAU PANTUN MENGANDUNG ADAT,<br>ZAMAN-BERZAMAN IA MELEKAT.<br><br>   KALAU PANTUN MENGANDUNG PETUAH,<br>ZAMAN-BERZAMAN IA BERFAEDAH.<br><br>KALAU PANTUN MENGANDUNG NASIHAT,<br>TURUN-TEMURAN MEMBERI MANFAAT.<br><br>KALAU PANTUN MENGANDUNG AMANAH,<br>SEPANJANG MASA IA BERTANAH.<br>    (Khazanah Pantun Melayu Riau, lvii)
+KALAU PANTUN MENGANDUNG SYARAK,<br>SAMPAI KIAMAT IANYA TEGAK<br><br>KALAU PANTUN MENGANDUNG SUNAH<br>SAMPAI KIAMAT TAKKAN PUNAH.<br><br>KALAU PANTUN MENGANDUNG ADAT,<br>ZAMAN-BERZAMAN IA MELEKAT.<br><br>KALAU PANTUN MENGANDUNG PETUAH,<br>ZAMAN-BERZAMAN IA BERFAEDAH.<br><br>KALAU PANTUN MENGANDUNG NASIHAT,<br>TURUN-TEMURAN MEMBERI MANFAAT.<br><br>KALAU PANTUN MENGANDUNG AMANAH,<br>SEPANJANG MASA IA BERTANAH.<br>    (Khazanah Pantun Melayu Riau, lvii)
 
 Pantun merupakan sastera rakyat yang telah digunakan dengan agak luas di dalam masyarakat Melayu. Ia juga mengandungi falsafah hidup masyarakat Melayu serta merupakan salah satu wadah yang penting dalam meluahkan dan menyampaikan hasrat serta manifestasi pemikiran mereka. Oleh itu bertepatanlah pandangan Omardin, (1960), bahawa sekiranya “bahasa itu jiwa bangsa”, maka pantun adalah salah satu daripada urat sarafnya.
 
@@ -29,7 +29,12 @@ Pantun bermula sebagai sastera lisan, sama seperti sasterasastera Melayu yang la
 
 Antaranya ialah pantun yang menceritakan tentang kisah Singapura dilanggar todak seperti berikut,
 
-*Carik baju raja*, <br> *Dilompati todak*; <br> *Bukan di sahaja*, <br> *Sebab akal budak*. <br> <br> *Telur itik dari Senggora*, <br> *Pandan terletak dilangkahi*; <br> *Darahnya titik di Singapura*, <br> *Badannya terlantar di Langkawi*. <br> (Kesusasteraan Melayu lama, hlm 84)
+*Carik baju raja*, <br> 
+*Dilompati todak*; <br> 
+*Bukan di sahaja*, <br> 
+*Sebab akal budak*. <br> <br> 
+*Telur itik dari Senggora*, <br> 
+*Pandan terletak dilangkahi*; <br> *Darahnya titik di Singapura*, <br> *Badannya terlantar di Langkawi*. <br> (Kesusasteraan Melayu lama, hlm 84)
 
 Terdapat pantun bagi setiap fasa kehidupan masyarakat Melayu, yakni dari pantun kanak-kanak, dewasa hingga ke tua. Maka tidak keterlaluan jika dikatakan bahawa pantun merupakan salah satu rujukan sosiobudaya masyarakat Melayu kerana ia merakam berbagai aspek kehidupan dan merangkumi pelbagai peringkat usia.
 
