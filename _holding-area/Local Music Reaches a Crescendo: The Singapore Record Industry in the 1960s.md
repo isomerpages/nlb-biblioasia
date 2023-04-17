@@ -95,3 +95,12 @@ One reason why multinational companies such as EMI were able to monopolise the r
 In the 1950s, however, record production was revolutionised with the introduction of lightweight vinyl records and, by the 1960s, the cost of equipment needed to produce such records was within the reach of even relatively small record companies. Also, the extensive use of tape recording machines in recording studios by the early 1960s not only reduced the cost of making recordings but simplified the process as well. In addition, record companies in Singapore now had access to privately owned recording studios such as Kinetex and Rediffusion, where they could record material without having to hire EMI’s facilities or set up their own.
 
 All these factors meant that independent record labels were now able to record and produce their own discs at a much lower cost. This alone was a major factor in the surge of record companies in Singapore during the second half of the 1960s.
+
+#### **The Legacy of the 1960s**
+
+It is clear that the combination of a number of factors created a unique situation in the 1960s, which saw the Singapore record industry reach unprecedented levels of activity. As many of these factors actually began emerging in the 1950s or earlier, it is essential to view the developments that took place in the 1960s as the outcome of several different processes that fortuitously came together during this decade.
+
+Like almost everywhere else in the world, Singapore was influenced by 1960s pop culture and garage bands (instrumental groups formed by teenagers who played more for fun than anything else) that became part of the local scene. In the 1960s, it was still possible to achieve a level of success and even make records without turning professional. This was why many recording artistes chose not to make music their full-time occupations. For instance, the Singapore all-girl band The Vampires started in 1965 when all its members were still in school.
+
+Despite the many new developments in the entertainment scene and the dramatic spike in record industry activity, other aspects of the Singapore music scene were not that much different from what they had been in the 1950s. While there was still a limited number of professional bands and singers, there was a large pool of undiscovered amateur talent who appeared in Talentime quests and other similar events, charity concerts, parties, and occasionally professional concerts or dances.
+As the local press devoted more space to its coverage of popular music, we have a more accurate 
