@@ -91,8 +91,7 @@ All the hypotheses have been validated. A dominant party’s seat share does not
 Table 3: Strength of Dominant Parties[^7]
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%202/PoliticalParties/table%203%201.jpg">
- <div style="background-color: white;">
-
+ <div style="background-color: white;"></div>
 
 Hypothesis 1 is validated because a dominant party’s seat share does not have a definite impact on a dominant party faction’s decision to defect. In all the cases, the dominant party remained firmly in power with more than 50% of the Lower House seat share based on the results from the two most recent elections. There was a sharp decline in the dominant party’s Lower House seat share in two of the cases: the Gandhi case (1969) and Hau case (1993). The dominant party experienced only a slight drop in the Lower House seat share in the Razaleigh case (1989), the Hata case (1993) and the Soong case (2000). Only INC in the Ram case (1977) experienced an increase in the Lower House seat share.
 
@@ -156,4 +155,25 @@ T. J. Pempel, ed., _Uncommon Democracies: The One Party Dominant Regimes_ (Ithac
 
 Takeshi Sasaki, _Seiji Kaikau: 1800 Nichi No Shinjisu_ \[Political reform: the record of the 1800 days\]. (Tokyo: Kodansha, 1999)
 
-Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynamics of Factional Defection in Post-War Japan (1945–2003)” (master’s thesis, National University of Singapore, 2010), http://aunilo.uum.edu.my/Find/Record/sg-nus-scholar.10635-15528</div>
+Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynamics of Factional Defection in Post-War Japan (1945–2003)” (master’s thesis, National University of Singapore, 2010), http://aunilo.uum.edu.my/Find/Record/sg-nus-scholar.10635-15528
+
+#### **NOTES**
+
+[^1]:  The figures are based on the average seat share won by the dominant parties in the Lower House elections within the specified period when the dominant parties were in power.
+
+[^2]: The Janata Party, created from four main opposition parties, temporarily broke INC’s uninterrupted dominance of Indian politics by winning the 1977 elections.
+
+[^3]: Indicators of key faction are that it has enough legislators to form a factional coalition to gain power within a dominant party and deprive the dominant party of its ruling majority in the parliament.
+
+[^4]: Factional defection in this work differs from the more commonly occurring party defections from the opposition parties and minority ruling parties.
+
+[^5]: Mainstream factions are groups within the dominant party, which mainly control the mechanisms of the dominant party while the non-mainstream factions are the opposing group of factions within the dominant party. For details of the model and research design, see (Horiuchi and Tay 2004; Tay 2005).
+
+[^6]: Coordination failure can be failure to form a coalition or the failure to agree on a common prime minister candidate among the opposition parties. Generally, parliaments need to hold a vote to choose the prime minister after the elections.
+
+[^7]: Election 1 refers to the last election that the dominant party has participated while Election 2 refers to the previous election the dominant party has participated.
+
+
+
+
+
