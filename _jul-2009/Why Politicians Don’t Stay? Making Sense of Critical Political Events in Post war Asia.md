@@ -101,7 +101,11 @@ For the latter, future research should extend the model to explain other types o
 
 In short, understanding critical political events helps to shed light on the dynamics of Asian politics. Thus, use this simple model as a framework to make sense of complex Asian politics.
 
-
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/tay%20thiam%20chye.JPG">
+<center><b>Tay Thiam Chye</b><br>Lee Kong Chian Research Fellow<br>National Library<center></center></center></div>
 
 
 
