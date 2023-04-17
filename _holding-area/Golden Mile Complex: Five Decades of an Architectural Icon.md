@@ -124,7 +124,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/justin_zhuang.png">
-	<b>Justin Zhuang</b> is an observer of the designed world and its impact on everyday life. He is the author of several books on architecture and design in Singapore. His latest book (co-authored with JiatHwee Chang) is <i>Everyday Modernism: Architecture &amp; Society in Singapore</i> (2023), the first comprehensive documentation of Singapore’s modern built environment through the lens of social cultural and architectural histories.</div>
+	<b>Justin Zhuang</b> is an observer of the designed world and its impact on everyday life. He is the author of several books on architecture and design in Singapore. His latest book (co-authored with Jiat-Hwee Chang) is <i>Everyday Modernism: Architecture &amp; Society in Singapore</i> (2023), the first comprehensive documentation of Singapore’s modern built environment through the lens of social cultural and architectural histories.</div>
 
 #### **NOTES**
 
