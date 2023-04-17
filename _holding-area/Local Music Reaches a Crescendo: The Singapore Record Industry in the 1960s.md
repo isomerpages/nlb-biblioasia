@@ -74,11 +74,11 @@ Taken together, these opportunities to perform publicly encouraged many musicall
 
 Many new groups formed every year in Singapore in the 1960s. There were over 200 local bands or vocalists who were at a sufficiently professional level to be paid to perform at nightclubs, dance halls, concerts and similar events. Many more were amateur groups or artistes who held full-time jobs and pursued their musical interests after work. While older forms of entertainment such as cabaret-style vocalists were still popular in the 1960s, it was the newer emerging styles such as guitar-driven rhythm-and-blues bands that dominated youth-oriented venues like concerts and tea dances.
 
-A 1967 article in the Sunday Times said: 
+A 1967 article in the *Sunday Times* said: 
 
 Pop music is today a very potent force in Malaysia and Singapore.... The latest beat or sound emanating from Britain and America is heard here within weeks and even days later. Local fans take a remarkably short time to catch on to the latest trends or beat in the pops.... Every new craze is bound to make its way to Singapore and Malaysia where local guitar-twanging groups are ready always to imitate new styles...14  
 
-From the mid-1960s onwards, even the conservative Radio Weekly began devoting several pages in each issue to the latest trends in pop music. 
+From the mid-1960s onwards, even the conservative *Radio Weekly* began devoting several pages in each issue to the latest trends in pop music. 
 
 Another new development was sponsored radio programmes devoted to pop music. Cosdel Record Company, for example, promoted two radio shows: “Your Record Shop” on Radio Singapore and “Cosdel Pop Shop” on Rediffusion. These programmes played local records on the Cosdel label as well as imported labels that were distributed by Cosdel.15
 
