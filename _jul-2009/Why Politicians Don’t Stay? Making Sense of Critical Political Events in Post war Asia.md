@@ -105,7 +105,7 @@ The rest of the cases belong to the second category. There were successful disse
 
 #### **So What?**
 
-This paper has shown how critical political events in Asian politics and dominant party[^7] factional defections can be understood with a simple model. Using a simple model substantiated by narratives, this paper argues that factional defection occurs only when the key factions within the dominant party are marginalised and expect to form the next government with the opposition parties. While this model explains only factional defection from dominant parties, its logic can be extended as a framework to make sense of Asian politics: to identify the key political actors (i.e., factions) and examine their cost-benefit calculations in the intra-dominant party and inter-party arenas.
+This paper has shown how critical political events in Asian politics and dominant party factional defections can be understood with a simple model. Using a simple model substantiated by narratives, this paper argues that factional defection occurs only when the key factions within the dominant party are marginalised and expect to form the next government with the opposition parties. While this model explains only factional defection from dominant parties, its logic can be extended as a framework to make sense of Asian politics: to identify the key political actors (i.e., factions) and examine their cost-benefit calculations in the intra-dominant party and inter-party arenas.
 
 For the public, the model provides a simple framework for making sense of complex Asian politics by examining the political actors’ (e.g., factions and politicians) strategic calculations in the inter-party and intra-party arenas. While news reports may highlight the idiosyncrasies of intra-party tensions and personality clashes between key politicians and/or highlight scenarios of the fall of a ruling party, a critical reader should make sense of Asian politics by examining the intra-party and inter-party dynamics simultaneously. For the former type of reports on political bickering, one has to identify if the renegade politician is a leader of a strong faction within the party. Without such political strength, the impact of such political bickering may be limited. In inter-party reports, one should assess if the parliamentary seat share difference between the ruling party and opposition parties is too great for any defection threats by a politician or faction to be credible.
 
@@ -172,8 +172,3 @@ Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynam
 [^6]: Coordination failure can be failure to form a coalition or the failure to agree on a common prime minister candidate among the opposition parties. Generally, parliaments need to hold a vote to choose the prime minister after the elections.
 
 [^7]: Election 1 refers to the last election that the dominant party has participated while Election 2 refers to the previous election the dominant party has participated.
-
-
-
-
-
