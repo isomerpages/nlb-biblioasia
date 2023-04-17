@@ -108,3 +108,24 @@ As the local press devoted more space to its coverage of popular music, we have 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985,</i> by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Toffa_Abdul_Wahed.png">
+	<b>Toffa Abdul Wahed</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.</div>
+	
+#### **NOTES**
+
+[^1]: These events, and the growing popularity of The Crescendos, took place well before British group The Shadows performed in Singapore in November 1961. Writer Joseph C. Pereira states that the rise of Singaporean guitar bands was sparked by The Shadows’ 1961 performances in Singapore. See Joseph C. Pereira, Apache Over Singapore: The Story of Singapore Sixties Music, Volume One (Singapore: Select Publishing, 2011), 1. (From National Library, Singapore, call no. RSING 781.64095957 PER)
+
+For example, see Ken Hammonds, “Spinning With Cutie Susan,” Straits Times, 3 March 1963, 9. (From NewspaperSG)
+
+“The Three ‘Jay Walkers’ of Katong Convent,” Singapore Free Press, 17 May 1960, 5; “Popular Young Trio Had Audience Cheering at a Christmas Concert,” Singapore Free Press, 7 January 1961, 8. (From NewspaperSG)
+
+“Crescendos Make First Record,” Radio Weekly, 18 February 1963, 1. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
+
+“Crescendos’ Disc Sales Top the 10,000 Mark,” Radio Weekly, 7 October 1963, 1. (From National Library, Singapore, call no. RCLOS 791.44095957 RW) 
+
+Philips was the first multinational record company to establish a record pressing plant in Singapore. It officially opened on 24 November 1967.
+
+One cannot directly compare Singapore’s record industry with that of Indonesia’s as there are several important differences between the two countries (Indonesia, for instance, had a relatively small middle class at the time despite its much larger population). During the 1960s, most record labels 
