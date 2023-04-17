@@ -69,3 +69,7 @@ It is possible to see connections between these modern live music performances a
 Other outlets for popular music performances in the 1960s were radio and television broadcasts, charity concerts and shows at British military establishments (which despite the more restricted audience reach were important venues for live music). Private parties also provided additional avenues for bands and vocalists to perform on the entertainment circuit.
 
 Taken together, these opportunities to perform publicly encouraged many musically inclined younger Singaporeans to form their own bands or become singers. This, in turn, fuelled the Singapore music scene in the 1960s, as evidenced by the large number and variety of performers who were recorded here.13
+
+#### **New Bands and Genres**
+
+Many new groups formed every year in Singapore in the 1960s. There were over 200 local bands or vocalists who were at a sufficiently professional level to be paid to perform at nightclubs, dance halls, concerts and similar events. Many more were amateur groups or artistes who held full-time jobs and pursued their musical interests after work. While older forms of entertainment such as cabaret-style vocalists were still popular in the 1960s, it was the newer emerging styles such as guitar-driven rhythm-and-blues bands that dominated youth-oriented venues like concerts and tea dances.
