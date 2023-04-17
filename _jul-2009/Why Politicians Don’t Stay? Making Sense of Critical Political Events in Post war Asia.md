@@ -90,7 +90,7 @@ All the hypotheses have been validated. A dominant party’s seat share does not
 
 Table 3: Strength of Dominant Parties[^7]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%202/PoliticalParties/table%203%201.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%202/PoliticalParties/table%203%201.jpg">
  <div style="background-color: white;">
 
 
