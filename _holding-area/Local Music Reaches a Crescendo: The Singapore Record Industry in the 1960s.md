@@ -31,3 +31,8 @@ Other labels were quick to follow suit, and new startups such as Cosdel (support
 From the mid-1960s onwards, the record industry in Singapore developed rapidly, and between 1965 and 1969 alone, over 120 different labels released local recordings. 
 
 What is interesting, and has often been overlooked, is that this prolific burst of record industry activity in the 1960s was unique to Singapore. Although Hong Kong was a similar market in many ways, it did not have the same diversity of record labels. Until the late 1960s, no major record labels had recording or pressing facilities in Malaysia, so Singapore also catered to that market. Additionally, there was a big demand for Singapore pressings in Indonesia. Although the latter had a much larger population, no international record companies had set up branches there and only a handful of Indonesian record companies existed.7
+
+#### **Further Developments**
+
+By the end of the 1960s, there were hundreds of labels in Singapore catering to every taste, of which about 140 of these labels released local recordings (a majority being independent companies based here). 
+Apart from supplying the Singapore market, many companies exported a significant percentage of 
