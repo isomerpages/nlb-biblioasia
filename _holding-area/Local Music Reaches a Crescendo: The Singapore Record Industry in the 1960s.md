@@ -64,7 +64,7 @@ Other important platforms for local performers were the regular Talentime compet
 
 One novel event organised in the 1960s was the series of “Pool Parties” held at the Chinese Swimming Club. Everyone came in their swimsuit and could take a dip in the pool whenever they needed to cool off or in between dancing to the music of live bands. 
 
-It is possible to see connections between these modern live music performances and earlier forms of public entertainment such as Chinese street opera (*wayang*) and Malay opera (*bangsawan*) performed by travelling opera troupes on open-air stages, and even the relatively more recent getai (literally meaning “song stage”) performances associated with the Chinese Hungry Ghost festival.12
+It is possible to see connections between these modern live music performances and earlier forms of public entertainment such as Chinese street opera (*wayang*) and Malay opera (*bangsawan*) performed by travelling opera troupes on open-air stages, and even the relatively more recent *getai* (literally meaning “song stage”) performances associated with the Chinese Hungry Ghost festival.12
 
 Other outlets for popular music performances in the 1960s were radio and television broadcasts, charity concerts and shows at British military establishments (which despite the more restricted audience reach were important venues for live music). Private parties also provided additional avenues for bands and vocalists to perform on the entertainment circuit.
 
