@@ -18,6 +18,17 @@ sections:
       background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
         img.jpg
   - infopic:
+      title: Restoring Classic Singaporean Films
+      subtitle: Film and Photography
+      description: Money No Enough, Forever Fever and The Teenage Textbook Movie
+        kickstarted a new era in Singaporean cinema, making them prime
+        candidates for restoration.
+      button: Passion for Film Restoration
+      url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
+      image: /images/Vol 19 Issue 2/Restoring SG
+        Films/restore_classic_singapore_films_homepage_image.jpg
+      alt: Image alt text
+  - infopic:
       title: "The Guitar Man: Alex Abisheganaden"
       subtitle: People
       description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
@@ -461,15 +472,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: Restoring Classic Singaporean Films
-      subtitle: Film and Photography
-      description: Money No Enough, Forever Fever and The Teenage Textbook Movie
-        kickstarted a new era in Singaporean cinema, making them prime
-        candidates for restoration.
-      button: Passion for Film Restoration
-      url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
-      image: /images/Vol 19 Issue 2/Restoring SG
-        Films/restore_classic_singapore_films_homepage_image.jpg
-      alt: Image alt text
 ---
