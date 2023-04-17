@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: / vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
+      url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
       button: Qur’an Made in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
