@@ -78,6 +78,24 @@ Bercinta dan berkasih sayang adalah fitrah kehidupan manusia. Maka tidak menjadi
 *Limau purut lebat ke pangkal*, <br>  *Batang selaseh condong uratnya*; <br>*Angin ribut dapat di tangkal*, <br>  *Hati kasih apa ubatnya*. <br> <br>
 *Dari mana punai melayang*,<br>  *Dari sawah turun ke padi*;<br>*Dari mana datangnya sayang*,<br>  *Dari mata turun ke hati*.<br>  (Pantun, hlm. 21)
 
+Namun, apabila kedua insan yang sedang berkasih sayang ini terpaksa berpisah, maka terungkaplah pantun,
+
+*Tanjung Katong airnya biru*,<br>  *Tempat orang bermandi-manda*;<br>*Sedang sekampung lagikan rindu*,<br>  *Inikan pula jauh di mata*.<br>  (Mendekati puisi Melayu tradisional, hlm. 22)<br><br>  
+*Tuai padi antara masak*,<br>  *Esok jangan layu-layuan*;<br>   *Intai kami antara nampak*,<br>  *Esok jangan rindu-rinduan*.<br><br>  
+*Dari mana hendak ke mana*,<br>  *Tinggi perumpun dari padi*,<br> *Hati mana bulan yang mana*,<br>  *Kita berjumpa bertemu lagi*.<br>  (Petua mengarang pantun Melayu, hlm. 8)
+
+Selain itu terdapat juga perlakuan yang sumbang seperti yang digambarkan melalui pantun sebegini:
+
+*Ke teluk sudah, ke Siam sudah*, <br>  *Ke Melaka sahaja aku yang belum*; <br>*Kupeluk sudah, kucium sudah*,<br>  *Nikah sahaja aku yang belum*. <br>  (Pantun, hlm. 21)
+
+#### **Masyarakat Dan Hidup Bermasyarakat**
+
+Di dalam masyarakat Melayu, pantun mempunyai tempat yang istimewa dan sering ditonjolkan dalam kegiatan rasmi dan juga upacara adat dan tradisi. Penggunaan yang luas dan menyeluruh dalam kehidupan masyarakat Melayu sudah termaktub dan tercatat melalui pantun nasihat, pantun budi dan pantun adat dan agama yang menyampaikan nilai-nilai hidup bermasyarakat. Ia jelas tergambar melalui contoh-contoh pantun nasihat dan pantun budi berikut:
+
+Pantun Nasihat<br>  *Elok kayu kerana daunnya*,<br>  *Daun lebat tempat berteduh*<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun adat tempat bersuluh*.<br><br>  
+*Elok kayu kerana daunnya*<br>  *Dahannya tinggi batangnya besar*;<br>  *Elok Melayu kerana pantunnya*,<br>  P*antun berisi tunjuk ajar*.<br>  (Pantun nasehat, hlm. 15)
+
+Teritip di tepi kota, Mari dikayu sampan pengail; Imam khatib lagi berdosa, Bertambah pula kita yang jahil. (A history of Classical Malay Literature, hlm 197)
 
 
 
