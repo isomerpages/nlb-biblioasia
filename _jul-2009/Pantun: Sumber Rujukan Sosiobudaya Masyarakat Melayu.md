@@ -93,14 +93,25 @@ Selain itu terdapat juga perlakuan yang sumbang seperti yang digambarkan melalui
 Di dalam masyarakat Melayu, pantun mempunyai tempat yang istimewa dan sering ditonjolkan dalam kegiatan rasmi dan juga upacara adat dan tradisi. Penggunaan yang luas dan menyeluruh dalam kehidupan masyarakat Melayu sudah termaktub dan tercatat melalui pantun nasihat, pantun budi dan pantun adat dan agama yang menyampaikan nilai-nilai hidup bermasyarakat. Ia jelas tergambar melalui contoh-contoh pantun nasihat dan pantun budi berikut:
 
 Pantun Nasihat<br>  *Elok kayu kerana daunnya*,<br>  *Daun lebat tempat berteduh*<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun adat tempat bersuluh*.<br><br>  
-*Elok kayu kerana daunnya*<br>  *Dahannya tinggi batangnya besar*;<br>  *Elok Melayu kerana pantunnya*,<br>  P*antun berisi tunjuk ajar*.<br>  (Pantun nasehat, hlm. 15)<br><br>  
+*Elok kayu kerana daunnya*<br>  *Dahannya tinggi batangnya besar*;<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun berisi tunjuk ajar*.<br>  (Pantun nasehat, hlm. 15)<br><br>  
 *Teritip di tepi kota*, <br>   *Mari dikayu sampan pengail*; <br> *Imam khatib lagi berdosa*, <br>  *Bertambah pula kita yang jahil*. <br>  (A history of Classical Malay Literature, hlm 197)<br><br>  
-Pantun Budi <br> *Tinggi bukit gilang gemilang*,<br>  *Nampak dari si Tanjung Jati*,<br>  *Budi sedikit masakan hilang*,<br>  T*etap dikenang sampai mati*.<br><br>
+Pantun Budi <br> *Tinggi bukit gilang gemilang*,<br>  *Nampak dari si Tanjung Jati*,<br>  *Budi sedikit masakan hilang*,<br>  *Tetap dikenang sampai mati*.<br><br>
 *Budak-budak menumbuk padi*,<br>  *Padi huma dari Palembang*,<br> *Kalau hidup tidak berbudi*,<br>  *Tentu hina dipandang orang*.<br>  (1000 pantun dondang sayang, hlm 27)
 
 *Pulau Pandan jauh ke tengah*, <br>  *Di balik Pulau Angsa Dua*; <br>  *Hancur badan dikandung tanah*, <br>  *Budi yang baik dikenang jua*. <br>  (A History of Classical Malay Literature, hlm 197)
 
 Perkataan budi mempunyai berbagai lapisan makna di dalam masyarakat Melayu. Makna yang lazim ialah sumbangan seseorang itu kepada orang lain atau masyarakat umum. Seorang yang menabur budi atau mempunyai jasa dianggap sebagai seorang yang diberkati kerana seringkali budi tidak menuntut balasan. Pantun budi memberi tunjuk ajar dan nasihat tentang cara bagaimana seseorang itu harus melayari kehidupan kerana walaupun badan hancur dikandung tanah, apabila seseorang itu sudah meninggalkan dunia ini, budi yang baik akan tetap dikenang jua.
+
+#### **Pantun Adat dan Agama**
+
+Adat dan agama memainkan peranan utama dalam kehidupan masyarakat Melayu. Oleh itu, pantun-pantun berkenaan adat dan agama termaktub sebagai garis pandu yang membantu mengurus dan mengatur juga memahami falsafah kehidupan masyarakat Melayu umpamanya pantun berikut,
+
+*Lebat daun bunga tanjung*,<br>  *Berbau harum bunga cempaka*; <br>*Adat dijaga pusaka dijunjung*,<br>  *Baru terpelihara adat pusaka*.<br>  (Kumpulan pantun Melayu, hlm 44) <br> <br> 
+*Banyak bulan perkara bulan*,<br>  *Tidak semulia bulan puasa*<br> *Banyak Tuhan perkara Tuhan*<br>  *Tidak semulia Tuhan yang Esa*<br>  Kumpulan pantun Melayu, hlm 60)<br> <br> 
+*Hari ini hari Khamis*,<br>  *Besok hari Jumaat*; <br>*Barang siapa senyum dan manis*,<br>  *Itulah tanda umat Muhammad*.<br>  (Kumpulan pantun Melayu, hlm 61)
+
+Pantun-pantun ini menjelaskan peranan pantun sebagai wahana untuk “berpesan-pesan nilai-nilai luhur agama, budaya dan normanorma sosial masyarakatnya” (Tenas Effendy, 2005) dan “pembawa doa, hajat, harapan, nasihat, didikan, ajaran” (Muhammad Ariff Ahmad, 2004).
+
 
 
 
