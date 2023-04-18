@@ -26,6 +26,20 @@ Tan Yeok Seong and his friends set up the Nanyang Book Company in 1935. It was a
 
 #### **The Yan Yin Kwan Collection**
 
+Tan Yeok Seong started his library collection from his university days in Amoy. After the manner of Chinese scholars, he named this collection the Ya Yin Kwan (Palm Shade Pavilion) Collection. It covers a myriad subjects such as philosophy, education, economics, archaeology, ceramics, geography, history and culture. Chinese titles take up more than half of the total collection. The rest of the collection comprises largely English titles, with a small number of titles in Malay, Japanese and European languages.9
+
+This collection was an accumulation of years of active collection of titles related to Southeast Asian history, through contacts with rare book dealers, and exchange of titles with scholars. Thus it can be regarded as a collection of important reference titles before Singapore’s pre-Independence days.
+Leafing through the pages in this collection, one can get a glimpse of various writers’ perspectives on Southeast Asia and the Chinese overseas from the 18th century to the mid-1960s. Tan Yeok Seong not only collected the publications but also used them in his research and meticulously added newspaper cuttings on the relevant topics in some books. One can also find autographed publications from authors who gave their publications as gifts to him.
+
+Researchers looking for trends on Southeast Asian studies before the 1970s can refer to some of the titles in the Ya Yin Kwan Collection. These include *Survey of Chinese-language Materials on Southeast Asia in the Hoover Institute and Library, Stanford University, 1952*; *A Survey of Bibliographies in Western Languages Concerning East and Southeast Asian Studies*; *Historians of South East Asia, and Research in Southeast Asian Studies in Singapore*.
+
+There is also a wide range of titles in the collection on the Chinese in Southeast Asia. For a good overview, Jonas Daniel Vaughan’s *The Manners and Customs of the Chinese of the Straits Settlements* (1879) gives an account of the social lives of the Chinese in the Straits Settlements. George William Skinner, an American anthropologist, wrote a *Report on the Chinese in Southeast Asia, December 1950* (1951) and more than a decade later, Charles Patrick Fitzgerald, an Australian scholar, published T*he Third China: The Chinese Communities in South-East Asia* (1969). The Ya Yin Kwan Collection also has other English and Chinese titles on Chinese communities in other Southeast Asian countries.
+
+In particular, the Ya Yin Kwan Collection has quite a number of Japanese titles that were published in the 1930s and 1940s. These focus mainly on the Chinese in Southeast Asia and Southeast Asian studies. In one of the Chinese articles written by him, Tan Yeok Seong gave a very comprehensive overview of early Japanese studies on the Chinese in Southeast Asia. He also mentioned that some of the Japanese titles in the Ya Yin Kwan collection could no longer be easily found in Japan.10
+
+These titles are just a drop in the ocean of information waiting to be rediscovered in the Ya Yin Kwan Collection. Members of the public may view the Ya Yin Kwan Collection located on Level 10 of the Lee Kong Chian Reference Library, National Library, during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter on Level 11. The collection is to be used within the library’s premises.
+
+Researchers interested in this collection can also request for a copy of the *Catalogue of the Ya Yin Kwan Collection* in the Lee Kong Chian Reference Library from the Level 11 Information Counter.
 
 
 
