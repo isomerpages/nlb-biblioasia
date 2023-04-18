@@ -138,8 +138,7 @@ Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
-<b>Juffri Supaat</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
-
+<b>Juffri Supaat</b>Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library  </div>
 
 
 
