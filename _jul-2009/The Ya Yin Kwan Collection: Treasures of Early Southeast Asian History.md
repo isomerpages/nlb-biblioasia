@@ -7,7 +7,9 @@ image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
 ---
 #### Senior Librarian&nbsp;_Ang Seow Leng_&nbsp;provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection.
 
-“*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                *Tan Yeok Seong*<br>                              *Ya Yin Kwan*<br>*22 July 1964*.
+“*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                           *Tan Yeok Seong <br>
+                 *Ya Yin Kwan*<br>
+                 *22 July 1964*.
 
 In a published note on the presentation of the Ya Yin Kwan Collection to the National Library in 1964, Tan Yeok Seong generously donated his collection of books, accumulated over a lifetime, with the hope that this collection would benefit generations of scholars in their research.
 
@@ -68,5 +70,3 @@ Researchers interested in this collection can also request for a copy of the *Ca
 [^9]: For a Chinese write-up please refer to Jane Wee, “Chenyusong xiansheng yu ye yin guan guancang,” 陈育崧先生与椰阴馆馆藏 \[Mr. Chen Yusong and the Yeyin Museum Collection\], [_BiblioAsia_](https://biblioasia.nlb.gov.sg/files/pdf/vol-2/issue-1/v2-issue1_Chinese.pdf) no. 1 (April 2006), 22–23.
 
 [^10]: Chen Yusong 陈育崧, “日本的华侨研究螽测, 自陈育崧,” in _Ye yin guan wen cun_ [椰阴馆文存](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496634) \[Collected writings from the Yayin studio\] (Xinjiapo 新加坡: Nan yang xue hui 南洋学会, 1983), 205–11. (Call no. Chinese RSING 959.008 TYS)
-
-
