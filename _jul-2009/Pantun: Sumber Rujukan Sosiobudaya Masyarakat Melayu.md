@@ -140,6 +140,43 @@ Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai
 <img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
 <center><b>Juffri Supaat</b><br>Associate Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
+#### **RUJUKAN**
+
+Abdul Halim Ali, [_Mendekati Puisi Melayu Tradisional_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12886713) (Tanjung Malim: Profesional Baharu, 2006). (Call no. Malay RSEA 899.28109 ABD)
+
+Ahmad Babji, [_Pantun Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5816853) (\[Singapura\]: Geliga, 1959). (Call no. Malay RCLOS 899.2300812 AHM)
+
+Francois-Rene Daillie, [_Alam Pantun Melayu: Studies on the Malay Pantun_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982458) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1988). (Call no. RSEA 899.2305 DAI)
+
+Harun Mat Piah, [_Pantun Melayu: Bingkisan Permata_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11549052) (Kuala Lumpur: Yayasan Karyawan, 2001). (Call no. Malay R899.281 HAR)
+
+Liaw Yock Fang, [_Sejarah Kesusastraan Melayu Klassik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4557892) (Singapura: Pustaka Nasional, 1975). (Call no. Malay RSING 899.2300902 LIA)
+
+Madulara, [_1000 Pantun Dondang Sayang_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12916460) (Kuala Lumpur: Kementerian Kebudayaan, Kesenian dan Warisan Malaysia, 2004). (Call no. Malay R 899.281 SER)
+
+Mohd Taib Osman, [_Kesusasteraan Melayu Lama_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4509280) (Kuala Lumpur: Federal Pub., 1974). (Call no. Malay RSING 899.2300901 MUH)
+
+Muhammad Ariff Ahmad, [_Mari Kita Berpantun (Suatu Petunjuk)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4509280) (Singapura: Majlis Bahasa Melayu Singapura, 2004). (Call no. Malay RSING 899.281 MUH
+
+Muhammad Haji Husain, [_Petua Mengarang Pantun Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118562) (Penang: Sinaran Bros, 1957). (Call no. Malay RCLOS 899.230081 MUH)
+
+Muhd Mansur Abdullah, [_Puisi Melayu Klasik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5817505) (Petaling Jaya: Oscar Book International, 1991). (Call no. RUR 899.23008102 PUI)
+
+Noriah Mohamed, [_Sentuhan Rasa Dan Fikir Dalam Puisi Melayu Tradisional_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804994) &nbsp;(Bangi: Penerbit Universiti Kebangsaan Malaysia, 2006). (Call no. Malay R 899.28109 NOR)
+
+Omardin Haji Asha’ari, [_Kajian Pantun Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078292) (Singapura: Malaya Pub. House, 1961). (Call no. Malay RCLOS 899.2300912 OMA)
+
+R.J. Wilkinson dan R.O. Winstedt, [_Pantun Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4522288), cetakan keempat. (Singapura: Malaya Publishing House Limited, 1961). (Call no. Malay RCLOS 899.2300812 Wil)
+
+Richard Winstedt, [_A History of Classical Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057) (Singapore: Oxford University Press, 1969). (Call no. RSEA 899.23 WIN)
+
+S. Othman Kelantan, “Merenung Peradaban Dan Tamadun Melalui Karya Sastera,” dalam [_Dalam Sastera Dan Kemanusiaan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12523630) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2005). (Call no. Malay R 899.2809 SAS)
+
+Tenas Effendy, [_Pantun Nasehat_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773382) (Jakarta: Adi Cita, 2005). (Call no. Malay R 899.281 EFF)
+
+Tenas Effendy, [_Khazanah Pantun Melayu Riau_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13046108) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2007). (Call no. Malay R 899.281 EFF)
+
+Zainal Abidin Bakar, [_Kumpulan Pantun Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3204876) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran, Malaysia, 1983). (Call no. Malay R 899.2300812 KUM)
 
 
 
