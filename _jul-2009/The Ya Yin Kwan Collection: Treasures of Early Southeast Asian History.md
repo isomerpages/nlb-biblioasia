@@ -41,5 +41,14 @@ These titles are just a drop in the ocean of information waiting to be rediscove
 
 Researchers interested in this collection can also request for a copy of the *Catalogue of the Ya Yin Kwan Collection* in the Lee Kong Chian Reference Library from the Level 11 Information Counter.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
+<center> <b>Ang Seow Leng</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library.</center> </div>
+
+
+
+
 
 
