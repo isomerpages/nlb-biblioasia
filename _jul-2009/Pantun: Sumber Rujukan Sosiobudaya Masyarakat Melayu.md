@@ -80,6 +80,9 @@ Namun, terdapat juga kanak-kanak yang kurang bersungguhsungguh hingga terungkap 
 
 #### **Pantun Cinta Dan Kasih Sayang**
 
+<img src="/images/Vol%205%20Issue%202/Pantun/pantun.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Malaya Publishing House Limited, Singapura, 1960.</i></div>
+
 Bercinta dan berkasih sayang adalah fitrah kehidupan manusia. Maka tidak menjadi suatu kehairanan jika terdapat banyak pantun-pantun bercorak demikian di dalam koleksi pantun-pantun tradisional. Umpamanya seperti contoh pantun berikut yang menggambarkan luahan perasaan tersebut.
 
 *Limau purut lebat ke pangkal*, <br>  *Batang selaseh condong uratnya*; <br>*Angin ribut dapat di tangkal*, <br>  *Hati kasih apa ubatnya*. <br> <br>
@@ -109,6 +112,9 @@ Pantun Budi <br> *Tinggi bukit gilang gemilang*,<br>  *Nampak dari si Tanjun
 
 Perkataan budi mempunyai berbagai lapisan makna di dalam masyarakat Melayu. Makna yang lazim ialah sumbangan seseorang itu kepada orang lain atau masyarakat umum. Seorang yang menabur budi atau mempunyai jasa dianggap sebagai seorang yang diberkati kerana seringkali budi tidak menuntut balasan. Pantun budi memberi tunjuk ajar dan nasihat tentang cara bagaimana seseorang itu harus melayari kehidupan kerana walaupun badan hancur dikandung tanah, apabila seseorang itu sudah meninggalkan dunia ini, budi yang baik akan tetap dikenang jua.
 
+<img src="/images/Vol%205%20Issue%202/Pantun/history%20of%20classical%20malay%20literature.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Oxford University Press, 1969.</i></div>
+
 #### **Pantun Adat dan Agama**
 
 Adat dan agama memainkan peranan utama dalam kehidupan masyarakat Melayu. Oleh itu, pantun-pantun berkenaan adat dan agama termaktub sebagai garis pandu yang membantu mengurus dan mengatur juga memahami falsafah kehidupan masyarakat Melayu umpamanya pantun berikut,
@@ -135,6 +141,10 @@ Pantun bukan sahaja mempunyai nilai seni yang indah bahkan merupakan sumber ruju
 Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai ilmu tentang lingkungan sosial dan budaya masyarakat Melayu. Maka bertepatanlah catatan ungkapan oleh Pak Tenas (2005) ini,
 
    *Apa guna pantun dikaji*, <br>   *di dalamnya ada tuntunan budi*. <br>   *Pegangan hidup pedoman mati* <br>      *Meluruskan akan* <br>      *membersihkan hati* <br>      *Membaikkan akhlak* <br>      *mengelokkan pekerti* <br>     *supaya hidup tidak terkeji* <br>     *Bila mati rahmat menanti*. <br>     (Pantun Nasehat, hlm 58)
+
+<img src="/images/Vol%205%20Issue%202/Pantun/mari%20kita%20berpantun.JPG" style="width:50%;">
+ <div style="background-color: white;"> <i>All rights reserved, Majlis Bahasa Melayu Singapura, 2004.</i></div>
+
 
 #### **Summary**
 
