@@ -177,7 +177,3 @@ Tenas Effendy, [_Pantun Nasehat_](https://eservice.nlb.gov.sg/item_holding.aspx?
 Tenas Effendy, [_Khazanah Pantun Melayu Riau_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13046108) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2007). (Call no. Malay R 899.281 EFF)
 
 Zainal Abidin Bakar, [_Kumpulan Pantun Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3204876) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran, Malaysia, 1983). (Call no. Malay R 899.2300812 KUM)
-
-
-
-
