@@ -116,7 +116,7 @@ This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record
 	
 #### **NOTES**
 
-[^1]: These events, and the growing popularity of The Crescendos, took place well before British group The Shadows performed in Singapore in November 1961. Writer Joseph C. Pereira states that the rise of Singaporean guitar bands was sparked by The Shadows’ 1961 performances in Singapore. See Joseph C. Pereira, Apache Over Singapore: The Story of Singapore Sixties Music, Volume One (Singapore: Select Publishing, 2011), 1. (From National Library, Singapore, call no. RSING 781.64095957 PER)
+[^1]: These events, and the growing popularity of The Crescendos, took place well before British group The Shadows performed in Singapore in November 1961. Writer Joseph C. Pereira states that the rise of Singaporean guitar bands was sparked by The Shadows’ 1961 performances in Singapore. See Joseph C. Pereira, [*Apache Over Singapore: The Story of Singapore Sixties Music, Volume One*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601) (Singapore: Select Publishing, 2011), 1. (From National Library, Singapore, call no. RSING 781.64095957 PER)
 
 [^2]: For example, see Ken Hammonds, “Spinning With Cutie Susan,” Straits Times, 3 March 1963, 9. (From NewspaperSG)
 
