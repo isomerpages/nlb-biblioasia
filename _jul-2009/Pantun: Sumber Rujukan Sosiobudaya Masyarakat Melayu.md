@@ -138,7 +138,9 @@ Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
-<b>Juffri Supaat</b>Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library  </div>
+<center><b>Juffri Supaat</b><br>Associate Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+
+
 
 
 
