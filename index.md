@@ -478,4 +478,5 @@ sections:
       button: Hari Raya greeting cards
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Image alt text
+      image: /images/Hari Raya Cards/hari raya greeting cards.jpg
 ---
