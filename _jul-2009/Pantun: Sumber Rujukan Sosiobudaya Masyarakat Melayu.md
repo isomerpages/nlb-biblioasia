@@ -136,5 +136,3 @@ Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai
 
 
 
-
-
