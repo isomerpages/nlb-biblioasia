@@ -9,7 +9,6 @@ image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
 
 “*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                *Tan Yeok Seong*<br>                              *Ya Yin Kwan*<br>*22 July 1964*.
 
-
 In a published note on the presentation of the Ya Yin Kwan Collection to the National Library in 1964, Tan Yeok Seong generously donated his collection of books, accumulated over a lifetime, with the hope that this collection would benefit generations of scholars in their research.
 
 This was to be the first public donation of a collection of high research value. At a time when 19th and early 20th century Southeast Asia histories and cultures were written mostly by the Europeans, Tan Yeok Seong wanted more Southeast Asian scholars to write their own history. He regarded the National Library as a centre for Southeast Asian studies and believed that a rich collection of information resources could encourage more people to become interested in Southeast Asian history. In his presentation speech, he expressed concerns that with the growing prominence of Southeast Asia as a geographical region in the world, Russia, Japan, America and China had started setting up Southeast Asia research centres. Therefore, Singapore should step up in this area.[^1]
@@ -46,3 +45,28 @@ Researchers interested in this collection can also request for a copy of the *Ca
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
 <center> <b>Ang Seow Leng</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library.</center> </div>
+
+
+#### **NOTES**
+
+[^1]: “Guojia tushu guan kuochong zhong: Dongnanya ziliao guan kaimu” 国家图书馆扩充中: 东南亚 资料馆开幕 \[National Library expanding: Opening of Southeast Asian archives\], _Sin Chew Daily_ _星洲日__报_, 29 December 1964, 8.
+
+[^2]: For more details, please refer to article Alex Tan T. H., “The Life of Tan Yeok Seong,” in [_Catalogue of the Ya Yin Kwan Collection in the Lee Kong Chian Reference Library_](https://eresources.nlb.gov.sg/printheritage/detail/7e489d7a-9570-45b2-bd0b-1d6ea70e4bdb.aspx) (Singapore: National Library Board, 2006), 13–19. (From BookSG)
+
+[^3]: This is a collection of more than one hundred articles on history, education, personalities, forewords for books and poetry, written by Tan Yeok Seong. Majority of them are in Chinese, with a small number in English.
+
+[^4]: “Wei wenhua jiaoyu gongxian xinli – ji chenyusong xiansheng,” [为文化教育贡献心力 – 记陈育崧先生](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19840405-1.2.17.8) \[Contribute to culture and education – in memory of Mr. Chen Yuk-sung\], _Lianhe Zaobao_ _联__合早__报_, 5 April 1984, 3. (From NewspaperSG)
+
+[^5]: “[Old China That Tells a Story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690815-1.2.34),” _Straits Times_, 15 August 1969, 6. (From NewspaperSG)
+
+[^6]: “[Islamic Porcelain Unique to This Region](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810630-1.2.130.3),” _Straits Times_, 30 June 1981, 1. (From NewspaperSG)
+
+[^7]: Victor Sim, ed., [_Biographies of Prominent Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4983065) (Singapore: Nan Kok Pub., 1952), 62. (Call no. RCLOS 920.05957 SIM)
+
+[^8]: Teo, Han Wue, “[History Lives for Him](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840405-1.2.90.5.3),” _Straits Times_, 5 April 1984, 2. (From NewspaperSG)
+
+[^9]: For a Chinese write-up please refer to Jane Wee, “Chenyusong xiansheng yu ye yin guan guancang,” 陈育崧先生与椰阴馆馆藏 \[Mr. Chen Yusong and the Yeyin Museum Collection\], [_BiblioAsia_](https://biblioasia.nlb.gov.sg/files/pdf/vol-2/issue-1/v2-issue1_Chinese.pdf) no. 1 (April 2006), 22–23.
+
+[^10]: Chen Yusong 陈育崧, “日本的华侨研究螽测, 自陈育崧,” in _Ye yin guan wen cun_ [椰阴馆文存](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496634) \[Collected writings from the Yayin studio\] (Xinjiapo 新加坡: Nan yang xue hui 南洋学会, 1983), 205–11. (Call no. Chinese RSING 959.008 TYS)
+
+
