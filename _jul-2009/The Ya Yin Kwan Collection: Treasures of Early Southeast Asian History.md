@@ -7,7 +7,7 @@ image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
 ---
 #### Senior Librarian&nbsp;_Ang Seow Leng_&nbsp;provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection.
 
-<img src="/images/Vol%205%20Issue%202/YaYinKwan/ya%20yin%20kwan%20sign.jpg" style="width:80%;">
+<img src="/images/Vol%205%20Issue%202/YaYinKwan/ya%20yin%20kwan%20sign.jpg" style="width:100%;">
  <div style="background-color: white;"><i>Calligraphy by Tan Yeok Seong on the donation of his Ya Yin Kwan Collection to the National Library, South East Asia Room.</i></div>
 
 “*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                           *Tan Yeok Seong <br>
@@ -18,7 +18,7 @@ In a published note on the presentation of the Ya Yin Kwan Collection to the Nat
 
 This was to be the first public donation of a collection of high research value. At a time when 19th and early 20th century Southeast Asia histories and cultures were written mostly by the Europeans, Tan Yeok Seong wanted more Southeast Asian scholars to write their own history. He regarded the National Library as a centre for Southeast Asian studies and believed that a rich collection of information resources could encourage more people to become interested in Southeast Asian history. In his presentation speech, he expressed concerns that with the growing prominence of Southeast Asia as a geographical region in the world, Russia, Japan, America and China had started setting up Southeast Asia research centres. Therefore, Singapore should step up in this area.[^1]
 
-<img src="/images/Vol%205%20Issue%202/YaYinKwan/tan%20yeok%20seong%20photo.jpg" style="width:80%;">
+<img src="/images/Vol%205%20Issue%202/YaYinKwan/tan%20yeok%20seong%20photo.jpg" style="width:50%;">
  <div style="background-color: white;">Tan Yeok Seong (1903–84). <i>Photo courtesy of Alex Tan T.H.Y.</i></div>
 
 Tan Yeok Seong (1903–84) devoted his life and time to the research of Southeast Asian history.[^2] He received both English and Chinese education and graduated from Amoy University in 1926. His grounding in history and effective bi-lingualism allowed him to indulge in his pursuit of interesting topics, for example, the names Singapore used to be known by during pre-colonial times, authenticity of Gong Zhen’s Records of Foreign Countries in the Western Ocean, and Singapore’s earliest Chinese school, just to name a few. He wrote numerous articles and published several books on the history of Singapore and Malaysia, and the Chinese overseas.
@@ -31,6 +31,9 @@ In the foreword to the publication *Collected Writings from the Ya-yin Studio*,[
 Besides actively collecting books, Tan Yeok Seong was also a collector of historical artefacts. In 1969, he organised an exhibition at the National Museum through the South Seas Society. The exhibition featured more than 200 pieces of Chinese porcelain dating back to the Ming and Qing dynasties. These pieces, some of which belonged to Tan Yeok Seong, were on display as evidences of Chinese influence in Singapore and the region five centuries before 1819.[^5] A catalogue titled *Chinese Islamic Wares in the Collection of Muzium Negara* was published in Malaysia, according to The Straits Times dated 30 June 1981. Among the 28 pieces of Islamic wares listed, some of them used to belong to Tan Yeok Seong but had been bought over by the museum.[^6] The British Museum also listed 11 Hindu religious artefacts that were collected by Tan Yeok Seong.
 
 Tan Yeok Seong participated in various social and cultural establishments. Victor Sim’s *Biographies of Prominent Chinese in Singapore* gave a brief outline of his involvement.[^7] In 1935, he cofounded the Anthropological Museum of Amoy with Professor Lim Hui Siang. This museum is still in existence today and boasts of being the first anthropological museum in China. In 1938, Tan Yeok Seong represented Malaya at the Third Congress of Far Eastern Prehistorians. Although Tan Yeok Seong was not a founder of the South Seas Society, he was an active member. He became president of the society in 1940. In 1950, he became president of the Chinese Study Group, which studied Chinese affairs and culture in English.
+
+<img src="/images/Vol%205%20Issue%202/YaYinKwan/yyk%20nanyang%20book%20co.jpg" style="width:50%;">
+ <div style="background-color: white;">Nanyang Book Co. Ltd. at 20, North Bridge Road, Singapore.<i> Reproduced from 南洋书局十五周年纪念特刊 = Nanyang Book Co., Ltd. 1935–50 All rights reserved, 南洋书局, [1950].</i></div>
 
 Tan Yeok Seong and his friends set up the Nanyang Book Company in 1935. It was a major supplier of textbooks with Malayan content for Chinese children. Business soon flourished and branches were set up in major cities in Southeast Asia. Unfortunately, the onset of World War II severely crippled the business. While running a business, Tan Yeok Seong never neglected his reading and research. According to Teo Han Wue, Tan Yeok Seong was so passionate about history and sharing his knowledge of history, that his “business associates had to bear with him when he went on about his historical research”.[^8]
 
