@@ -55,9 +55,9 @@ These titles are just a drop in the ocean of information waiting to be rediscove
 Researchers interested in this collection can also request for a copy of the *Catalogue of the Ya Yin Kwan Collection* in the Lee Kong Chian Reference Library from the Level 11 Information Counter.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>THE YAN YIN KWAN COLLLECTION</b><br><br>
-<b>Japanese Titles Related to Southeast Asian Chinese</b> (From left to right)
-	<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20titles%204.jpg">(lEFT) Tōa kyōeiken to Nan\`yō Kakyō = Greater East Asia Co-Prosperity Sphere and the Southeast Asian Chinese Overseas. All rights reserved, Tōkō Shoin, Shōwa 16 [1941];  <br> 
-(Right) Nan’yō to Kakyō = Southeast Asia and the Chinese overseas All rights reserved, Sanseidō, Shōwa 18 [1943]	</div>
+<b>Japanese Titles Related to Southeast Asian Chinese</b> 
+	
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/presentation1%201.jpg">(Left) Tōa kyōeiken to Nan\`yō Kakyō = Greater East Asia Co-Prosperity Sphere and the Southeast Asian Chinese Overseas. All rights reserved, Tōkō Shoin, Shōwa 16 [1941]; (Right) Nan’yō to Kakyō = Southeast Asia and the Chinese overseas All rights reserved, Sanseidō, Shōwa 18 [1943]	</div>
 <br><br>
 
 
