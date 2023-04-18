@@ -93,9 +93,16 @@ Selain itu terdapat juga perlakuan yang sumbang seperti yang digambarkan melalui
 Di dalam masyarakat Melayu, pantun mempunyai tempat yang istimewa dan sering ditonjolkan dalam kegiatan rasmi dan juga upacara adat dan tradisi. Penggunaan yang luas dan menyeluruh dalam kehidupan masyarakat Melayu sudah termaktub dan tercatat melalui pantun nasihat, pantun budi dan pantun adat dan agama yang menyampaikan nilai-nilai hidup bermasyarakat. Ia jelas tergambar melalui contoh-contoh pantun nasihat dan pantun budi berikut:
 
 Pantun Nasihat<br>  *Elok kayu kerana daunnya*,<br>  *Daun lebat tempat berteduh*<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun adat tempat bersuluh*.<br><br>  
-*Elok kayu kerana daunnya*<br>  *Dahannya tinggi batangnya besar*;<br>  *Elok Melayu kerana pantunnya*,<br>  P*antun berisi tunjuk ajar*.<br>  (Pantun nasehat, hlm. 15)
+*Elok kayu kerana daunnya*<br>  *Dahannya tinggi batangnya besar*;<br>  *Elok Melayu kerana pantunnya*,<br>  P*antun berisi tunjuk ajar*.<br>  (Pantun nasehat, hlm. 15)<br><br>  
+*Teritip di tepi kota*, <br>   *Mari dikayu sampan pengail*; <br> *Imam khatib lagi berdosa*, <br>  *Bertambah pula kita yang jahil*. <br>  (A history of Classical Malay Literature, hlm 197)<br><br>  
+Pantun Budi <br> *Tinggi bukit gilang gemilang*,<br>  *Nampak dari si Tanjung Jati*,<br>  *Budi sedikit masakan hilang*,<br>  T*etap dikenang sampai mati*.<br><br>
+*Budak-budak menumbuk padi*,<br>  *Padi huma dari Palembang*,<br> *Kalau hidup tidak berbudi*,<br>  *Tentu hina dipandang orang*.<br>  (1000 pantun dondang sayang, hlm 27)
 
-Teritip di tepi kota, Mari dikayu sampan pengail; Imam khatib lagi berdosa, Bertambah pula kita yang jahil. (A history of Classical Malay Literature, hlm 197)
+*Pulau Pandan jauh ke tengah*, <br>  *Di balik Pulau Angsa Dua*; <br>  *Hancur badan dikandung tanah*, <br>  *Budi yang baik dikenang jua*. <br>  (A History of Classical Malay Literature, hlm 197)
+
+Perkataan budi mempunyai berbagai lapisan makna di dalam masyarakat Melayu. Makna yang lazim ialah sumbangan seseorang itu kepada orang lain atau masyarakat umum. Seorang yang menabur budi atau mempunyai jasa dianggap sebagai seorang yang diberkati kerana seringkali budi tidak menuntut balasan. Pantun budi memberi tunjuk ajar dan nasihat tentang cara bagaimana seseorang itu harus melayari kehidupan kerana walaupun badan hancur dikandung tanah, apabila seseorang itu sudah meninggalkan dunia ini, budi yang baik akan tetap dikenang jua.
+
+
 
 
 
