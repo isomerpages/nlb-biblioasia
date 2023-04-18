@@ -7,6 +7,9 @@ image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
 ---
 #### Senior Librarian&nbsp;_Ang Seow Leng_&nbsp;provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection.
 
+<img src="/images/Vol%205%20Issue%202/YaYinKwan/ya%20yin%20kwan%20sign.jpg" style="width:80%;">
+ <div style="background-color: white;"><i>Calligraphy by Tan Yeok Seong on the donation of his Ya Yin Kwan Collection to the National Library, South East Asia Room.</i></div>
+
 “*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                           *Tan Yeok Seong <br>
                  *Ya Yin Kwan*<br>
                  *22 July 1964*.
@@ -15,7 +18,10 @@ In a published note on the presentation of the Ya Yin Kwan Collection to the Nat
 
 This was to be the first public donation of a collection of high research value. At a time when 19th and early 20th century Southeast Asia histories and cultures were written mostly by the Europeans, Tan Yeok Seong wanted more Southeast Asian scholars to write their own history. He regarded the National Library as a centre for Southeast Asian studies and believed that a rich collection of information resources could encourage more people to become interested in Southeast Asian history. In his presentation speech, he expressed concerns that with the growing prominence of Southeast Asia as a geographical region in the world, Russia, Japan, America and China had started setting up Southeast Asia research centres. Therefore, Singapore should step up in this area.[^1]
 
-Tan Yeok Seong (1903-84) devoted his life and time to the research of Southeast Asian history.[^2] He received both English and Chinese education and graduated from Amoy University in 1926. His grounding in history and effective bi-lingualism allowed him to indulge in his pursuit of interesting topics, for example, the names Singapore used to be known by during pre-colonial times, authenticity of Gong Zhen’s Records of Foreign Countries in the Western Ocean, and Singapore’s earliest Chinese school, just to name a few. He wrote numerous articles and published several books on the history of Singapore and Malaysia, and the Chinese overseas.
+<img src="/images/Vol%205%20Issue%202/YaYinKwan/tan%20yeok%20seong%20photo.jpg" style="width:80%;">
+ <div style="background-color: white;">Tan Yeok Seong (1903–84) <i>Photo courtesy of Alex Tan T.H.Y.</i></div>
+
+Tan Yeok Seong (1903–84) devoted his life and time to the research of Southeast Asian history.[^2] He received both English and Chinese education and graduated from Amoy University in 1926. His grounding in history and effective bi-lingualism allowed him to indulge in his pursuit of interesting topics, for example, the names Singapore used to be known by during pre-colonial times, authenticity of Gong Zhen’s Records of Foreign Countries in the Western Ocean, and Singapore’s earliest Chinese school, just to name a few. He wrote numerous articles and published several books on the history of Singapore and Malaysia, and the Chinese overseas.
 
 In the foreword to the publication *Collected Writings from the Ya-yin Studio*,[^3] Dr Gwee Yee Hean praised Tan Yeok Seong as an amateur historian who enjoyed extensive contacts with academics and had attained more achievements than many professional historians. When the commissioner-general for the United Kingdom in Southeast Asia, Malcolm MacDonald, came to Singapore in the early 1950s, he visited Tan Yeok Seong to learn more about Southeast Asia from him.[^4]
 
