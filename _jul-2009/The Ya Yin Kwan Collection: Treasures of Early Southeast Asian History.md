@@ -8,7 +8,7 @@ image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
 #### Senior Librarian&nbsp;_Ang Seow Leng_&nbsp;provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection.
 
 <img src="/images/Vol%205%20Issue%202/YaYinKwan/ya%20yin%20kwan%20sign.jpg" style="width:100%;">
- <div style="background-color: white;"><i>Calligraphy by Tan Yeok Seong on the donation of his Ya Yin Kwan Collection to the National Library, South East Asia Room.</i></div>
+<i>Calligraphy by Tan Yeok Seong on the donation of his Ya Yin Kwan Collection to the National Library, South East Asia Room.</i>
 
 “*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                           *Tan Yeok Seong <br>
                  *Ya Yin Kwan*<br>
@@ -53,6 +53,13 @@ In particular, the Ya Yin Kwan Collection has quite a number of Japanese titles 
 These titles are just a drop in the ocean of information waiting to be rediscovered in the Ya Yin Kwan Collection. Members of the public may view the Ya Yin Kwan Collection located on Level 10 of the Lee Kong Chian Reference Library, National Library, during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter on Level 11. The collection is to be used within the library’s premises.
 
 Researchers interested in this collection can also request for a copy of the *Catalogue of the Ya Yin Kwan Collection* in the Lee Kong Chian Reference Library from the Level 11 Information Counter.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>THE YAN YIN KWAN COLLLECTION</b><br><br>
+<b>Japanese Titles Related to Southeast Asian Chinese</b> (From left to right)
+	<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20titles%204.jpg">(lEFT) Tōa kyōeiken to Nan\`yō Kakyō = Greater East Asia Co-Prosperity Sphere and the Southeast Asian Chinese Overseas. All rights reserved, Tōkō Shoin, Shōwa 16 [1941];  <br> 
+(Right) Nan’yō to Kakyō = Southeast Asia and the Chinese overseas All rights reserved, Sanseidō, Shōwa 18 [1943]	</div>
+<br><br>
+
 
 <br>
 <div style="background-color: white;">
