@@ -62,14 +62,12 @@ Researchers interested in this collection can also request for a copy of the *Ca
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20title%202.jpg"><i>Japanese title published in Singapore Reproduced from Jawa no genzai to kagayaku hōjin = Present Day of Java &amp; Japanese All rights reserved, Nan’yō Jidaisha, 1932.</i><br><br>
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%201%201.jpg"><i>Autographed by 连士升, Lien Shih-Sheng, author of 西方英雄谱. Lien was a prolific writer and Chinese newspapers editor. He was actively involved in the arts, education and cultural organisations in Singapore from the late 1940s to the early 1970s. For more information, please refer to website: <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/">https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/</a>. Reproduced from 西方英雄谱. All rights reserved, 南洋商报社, 1953.</i><br><br>
-	
-	
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%204%204.jpg"><i>	Autographed by Leon Comber, author of Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900 Reproduced from Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900 All rights reserved, Association for Asian Studies by J.J. Augustin, [1959].<br><br>
 
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/sea%20studies%201%201.jpg"><i>Handbook of the Netherlands East-Indies, 1920 All rights reserved, Netherlands East Indies. Dept. of Agriculture, Industry and Commerce, 1920–1930.<i><br><br>
 
-</div>
-<br><br>
-
+<img style="width:50%;" src="images/Vol%205%20Issue%202/YaYinKwan/sea%20studies%202%201.jpg"><i>Malaya: Economic and Commercial Conditions in the Federation of Malaya and Singapore, March 1951 All rights reserved, H.M.S.O, 1952.</i></i></i></i></div><i><i>
 
 <br>
 <div style="background-color: white;">
@@ -98,4 +96,4 @@ Researchers interested in this collection can also request for a copy of the *Ca
 
 [^9]: For a Chinese write-up please refer to Jane Wee, “Chenyusong xiansheng yu ye yin guan guancang,” 陈育崧先生与椰阴馆馆藏 \[Mr. Chen Yusong and the Yeyin Museum Collection\], [_BiblioAsia_](https://biblioasia.nlb.gov.sg/files/pdf/vol-2/issue-1/v2-issue1_Chinese.pdf) no. 1 (April 2006), 22–23.
 
-[^10]: Chen Yusong 陈育崧, “日本的华侨研究螽测, 自陈育崧,” in _Ye yin guan wen cun_ [椰阴馆文存](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496634) \[Collected writings from the Yayin studio\] (Xinjiapo 新加坡: Nan yang xue hui 南洋学会, 1983), 205–11. (Call no. Chinese RSING 959.008 TYS)
+[^10]: Chen Yusong 陈育崧, “日本的华侨研究螽测, 自陈育崧,” in _Ye yin guan wen cun_ [椰阴馆文存](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496634) \[Collected writings from the Yayin studio\] (Xinjiapo 新加坡: Nan yang xue hui 南洋学会, 1983), 205–11. (Call no. Chinese RSING 959.008 TYS)</i></i>
