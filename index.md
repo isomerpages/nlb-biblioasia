@@ -471,4 +471,11 @@ sections:
       url: /vol-13/issue-1/apr-jun-2017/guitar-man
       image: /images/Vol-13-issue-1/the-guitar-man/alex and boy (from nac).jpg
       alt: Image alt text
+  - infopic:
+      title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
+      subtitle: Infopic Subtitle
+      description: Unique greeting cards collected by a giant in the Malay literary scene.
+      button: Hari Raya greeting cards
+      url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
+      alt: Image alt text
 ---
