@@ -473,7 +473,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
-      subtitle: Infopic Subtitle
+      subtitle: Culture
       description: Unique greeting cards collected by a giant in the Malay literary scene.
       button: Hari Raya greeting cards
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
