@@ -30,11 +30,11 @@ Pantun bermula sebagai sastera lisan, sama seperti sasterasastera Melayu yang la
 Antaranya ialah pantun yang menceritakan tentang kisah Singapura dilanggar todak seperti berikut,
 
 *Carik baju raja*, <br> 
-*Dilompati todak*; <br> 
+  *Dilompati todak*; <br> 
 *Bukan di sahaja*, <br> 
-*Sebab akal budak*. <br> <br> 
+  *Sebab akal budak*. <br> <br> 
 *Telur itik dari Senggora*, <br> 
-*Pandan terletak dilangkahi*; <br> *Darahnya titik di Singapura*, <br> *Badannya terlantar di Langkawi*. <br> (Kesusasteraan Melayu lama, hlm 84)
+  *Pandan terletak dilangkahi*; <br> *Darahnya titik di Singapura*, <br>   *Badannya terlantar di Langkawi*. <br>  (Kesusasteraan Melayu lama, hlm 84)
 
 Terdapat pantun bagi setiap fasa kehidupan masyarakat Melayu, yakni dari pantun kanak-kanak, dewasa hingga ke tua. Maka tidak keterlaluan jika dikatakan bahawa pantun merupakan salah satu rujukan sosiobudaya masyarakat Melayu kerana ia merakam berbagai aspek kehidupan dan merangkumi pelbagai peringkat usia.
 
@@ -51,23 +51,33 @@ Para pengkaji telah mengelompokkan pantun kepada pantun kanak-kanak, pantun oran
 Antara rangkap-rangkap pantun yang disasarkan kepada kanakkanak ialah:
 
 *Timang tinggi-tinggi*,<br>
-*Sampai cucur atap*;<br>
+  *Sampai cucur atap*;<br>
 *Belum tumbuh gigi*,<br>
-*Sudah pandai baca kitab*.
+  *Sudah pandai baca kitab*.
 
 Pantun-pantun sebegini sering dinyanyikan atau didodoikan oleh ibu atau keluarga kepada anak-anak. Ia bukan sekadar dendangan untuk menghiburkan si anak, bahkan mengandungi doa dan hasrat supaya anak itu akan menjadi seorang yang berilmu, yakni, sudah boleh membaca kitab walaupun belum lagi tumbuh gigi.
 
 Apabila anak itu sudah ke peringkat yang seterusnya, terdapat pantun seperti
 
 *Cempedak di luar pagar*,<br>
-*Ambil galah tolong jolokkan*;<br>
+  *Ambil galah tolong jolokkan*;<br>
 *Saya budak baharu belajar*,<br>
-*Kalau salah tolong tunjukkan*.
+  *Kalau salah tolong tunjukkan*.
 
 Namun, terdapat juga kanak-kanak yang kurang bersungguhsungguh hingga terungkap pantun ini:
 
 *Sorong papan tarik papan*,<br>
-*Buah keranji di dalam perahu*;<br>
+  *Buah keranji di dalam perahu*;<br>
 *Suruh makan saya makan*,<br> 
-*Suruh mengaji saya tak tahu*.<br> 
-(Pantun, hlm. 22)
+  *Suruh mengaji saya tak tahu*.<br>  (Pantun, hlm. 22)
+
+#### **Pantun Cinta Dan Kasih Sayang**
+
+Bercinta dan berkasih sayang adalah fitrah kehidupan manusia. Maka tidak menjadi suatu kehairanan jika terdapat banyak pantun-pantun bercorak demikian di dalam koleksi pantun-pantun tradisional. Umpamanya seperti contoh pantun berikut yang menggambarkan luahan perasaan tersebut.
+
+*Limau purut lebat ke pangkal*, <br>  *Batang selaseh condong uratnya*; <br>*Angin ribut dapat di tangkal*, <br>  *Hati kasih apa ubatnya*. <br> <br>
+*Dari mana punai melayang*,<br>  *Dari sawah turun ke padi*;<br>*Dari mana datangnya sayang*,<br>  *Dari mata turun ke hati*.<br>  (Pantun, hlm. 21)
+
+
+
+
