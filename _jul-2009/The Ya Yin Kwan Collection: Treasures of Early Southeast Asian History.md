@@ -55,12 +55,14 @@ These titles are just a drop in the ocean of information waiting to be rediscove
 Researchers interested in this collection can also request for a copy of the *Catalogue of the Ya Yin Kwan Collection* in the Lee Kong Chian Reference Library from the Level 11 Information Counter.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>THE YAN YIN KWAN COLLLECTION</b><br><br>
-<b>Japanese Titles Related to Southeast Asian Chinese</b> <br>
-	
+ 	
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/presentation1%201.jpg">(Left) <i>Tōa kyōeiken to Nan\`yō Kakyō = Greater East Asia Co-Prosperity Sphere and the Southeast Asian Chinese Overseas. All rights reserved, Tōkō Shoin, Shōwa 16 [1941] </i>;<br>
 (Right) <i> Nan’yō to Kakyō = Southeast Asia and the Chinese overseas All rights reserved, Sanseidō, Shōwa 18 [1943] </i>
 <br><br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20title%202.jpg"><i>Japanese title published in Singapore Reproduced from Jawa no genzai to kagayaku hōjin = Present Day of Java &amp; Japanese All rights reserved, Nan’yō Jidaisha, 1932.</i><br><br>
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%201%201.jpg"><i>Autographed by 连士升, Lien Shih-Sheng, author of 西方英雄谱. Lien was a prolific writer and Chinese newspapers editor. He was actively involved in the arts, education and cultural organisations in Singapore from the late 1940s to the early 1970s. For more information, please refer to website: <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/">https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/</a>. Reproduced from 西方英雄谱. All rights reserved, 南洋商报社, 1953.</i><br><br>
+	
 	
 
 
