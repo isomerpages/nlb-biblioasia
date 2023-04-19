@@ -7,6 +7,9 @@ description: Lee Kong Chian Research Fellow Chiam Ching Leen shares her
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Chiam Ching Leen_&nbsp;shares her findings, insights, and thoughts on the nature of knowledge sharing in post-secondary institutions in Singapore.
 
+<img src="/images/Vol%205%20Issue%201/knowledge%20management%20in%20education.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Jossey-Bass, 2001.</i></div>
+
 #### **Contextual Background**
 
 The knowledge-based economy has ushered in a new era in which knowledge is at the center of productivity and economic growth. Against this backdrop, what is striking is that public post-secondary institutions, whose purpose is ostensibly for preparing our young people, who are essential to our nation’s competitiveness and continuity, have now come under greater pressure to become more relevant in instilling knowledge sharing (Fullan, 2001; Organisation for Economic Co-operation and Development, 2004). Knowledge sharing has been promoted as a vehicle for greater knowledge productivity (Fullan, 2001; Hargreaves, 2000, Sallis, 2002). Notwithstanding this, evidence to date suggests that public postsecondary educational institutions are lagging behind in terms of knowledge sharing. A sense of this is revealed in Hargreaves’ (2000) presentation at the OECD *de la Muette*, in which Hargreaveas has highlighted the dire lack of knowledge sharing in schools. Hargreaves reported, based on his anecdotal experience, that the principals he had engaged with admitted to having staff with several centuries of professional experience and yet only about 5 to 15 percent of their collective knowledge was shared by all the teachers. It was learnt that most of the teachers’ professional knowledge is acquired through trial and error learning alone, in the isolated classroom, and therefore locked into their individual heads.
