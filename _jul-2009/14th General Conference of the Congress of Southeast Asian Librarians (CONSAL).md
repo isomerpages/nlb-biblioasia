@@ -8,6 +8,9 @@ image: /images/Vol 5 Issue 2/CONSAL/handover of flag (consal).JPG
 ---
 #### Research Associates&nbsp;_Akshata Patkar_&nbsp;and&nbsp;_Sri Asrina Tanuri_&nbsp;give us a snapshot of what was shared at the 14th General Conference of the Congress of Southeast Asian Librarians.
 
+<img src="/images/Vol%205%20Issue%202/CONSAL/signing%20ceremony%20(consal).JPG" style="width:80%;">
+ <div style="background-color: white;">The signing ceremony of CONSAL 14th Resolution.<i> Photo courtesy of Elizabeth Lam.</i></div>
+
 The Congress of Southeast Asian Librarians (CONSAL) was formed in Singapore in 1970 to establish, maintain and strengthen networks among libraries in the region; promote cooperation and provide assistance in the development of libraries and information services; and provide a platform for sharing information and experiences on issues in librarianship and information sciences. Today CONSAL has grown to include 10 member countries: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam.
 
 This year, the 14th CONSAL General Conference was held on 21–22 April 2009 at the Melia Hotel in Hanoi, Vietnam, with the theme “Towards Dynamic Libraries and Information Services in Southeast Asian Countries”. More than 800 librarians and information professionals from 24 countries participated in and attended the conference.
@@ -19,6 +22,9 @@ Vietnamese Minister of Culture, Sports, and Tourism, Mr Hoang Anh Tuan, in his o
 In her keynote address, Professor Ching-Chih Chen from the Graduate School of Library and Information Sciences, Simmons College, Boston, highlighted her cutting-edge technology application in presenting multilingual information and photographic resources on the 878 World Heritage Sites from 145 countries.
 
 Dr Patricia G. Oyler, also from Simmons College, spoke about the influence and impact on the developments in libraries in one part of the world by libraries in another part. She outlined five such developments that would impact Southeast Asian libraries — shortage of qualified personnel; marketing and advocacy of the role of libraries; change of scholarly communications from print to electronic with the increasing use of technology; adopting common standards by libraries the world over; and recognition of the role of libraries in the preservation of cultural heritage and archival materials. Dr Oyler stressed that education played a key role in tackling the issue, for example, educating librarians to provide excellent service, educating stakeholders such as government officials and university administrators in providing funding and educating users on how the information available at the libraries could add value to their lives.
+
+<img src="/images/Vol%205%20Issue%202/CONSAL/n%20varaprasad%20award%20(consal).JPG" style="width:80%;">
+ <div style="background-color: white;">Dr N. Varaprasad receiving his medal from Mr Hoang Anh Tuan, the Minister of Culture, Sports and Tourism.<i> Photo courtesy of Elizabeth Lam.</i></div>
 
 Dr N. Varaprasad, Chief Executive, National Library Board Singapore, spoke on leveraging on volunteers for sustainable library services. Library services in the CONSAL countries are usually manpower-intensive, resulting in difficulties in scaling up due to staffing limitations. Dr Varaprasad introduced the volunteer management strategy implemented by Public Libraries Singapore for the recruitment, selection, training, deployment, monitoring, motivation and recognition of volunteers as a self-sustaining force for libraries. Libraries could then implement additional programmes without burdening their existing staff.
 
