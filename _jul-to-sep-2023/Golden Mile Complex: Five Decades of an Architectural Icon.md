@@ -48,6 +48,9 @@ The next six floors housed 210 offices and studios to complete the tower that wa
 
 Completing the facilities was a four-storey residential car park at one end of the building that was topped with an open-air swimming pool overlooking the former Crawford Park. All these different functions were connected by corridors, including a “street” that ran through the podium of shops. The result was an interiorised environment designed to “encourage human interaction and intensify public life”.[^10]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
+<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **A Hub of Modernity**
 
 Woh Hup Complex was part of a pioneering wave of shopping centres to open in Singapore in the early 1970s, along with People’s Park Complex in Chinatown and Tanglin Shopping Centre and Specialists’ Centre in the Orchard Road area. 
@@ -78,7 +81,7 @@ After work, particularly on Sundays and public holidays, homesick Thai workers t
 Golden Mile Complex was also the terminal for tour buses plying the Singapore-Haadyai route operated by travel agencies located in the complex and the neighbouring Golden Mile Tower. As the Thai clientele in the complex grew, it became referred to as “Little Bangkok” and “Little Thailand”.[^20] The Thai community injected new life into what was then a rapidly ageing Golden Mile Complex, and attracted even more shops to serve the community. A tailor in the complex reportedly expanded from one shop to seven to sell all things Thai, while a “100% genuine Thai style” disco named Pattaya opened in 1988 on the second floor.[^21] There was even a 50-seat “cinema” that screened kick-boxing specials and Thai features at $3 a ticket.[^22]
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/shops%20selling%20thai%20food%20.jpg)
-<div style="background-color: white;">Shops selling Thai food items, 2023. <i>Photos by Jimmy Yap.</i></div>
+<div style="background-color: white;">Shops selling Thai food items and fruits, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 In 1986, the *Straits Times* reported that Golden Mile Complex “would be a ghost town but for the office workers, who appear at lunch time, and the Thais, who have made it their haunt”. Dorothy, a secretary working in an architecture firm in the complex, told the *Straits Times*: “Before the Thais started coming here about four years ago, the place was very dead. Now, it’s sometimes so noisy that you get a headache.” Because fights would occasionally break out, she was not a fan of the place. “For Thai food, I’d rather go to Joo Chiat,” she added.[^23] Her sentiments were shared by many other Singaporeans who avoided Golden Mile Complex on Sundays. 
 
@@ -114,9 +117,6 @@ In November the same year, a collective of architects, designers and artists kno
 In August 2018, news broke that more than 80 percent of the owners of units in the complex had agreed to put the building up for an en bloc sale at $800 million. This came hot on the heels of the sale of another modernist icon, Pearl Bank Apartments,[^37] just six months earlier. Heritage and architectural experts were dismayed at the news. “It will be a tragedy and a great loss to Singapore if the en-bloc sale results in the demolition and redevelopment of such an important urban landmark with such high architectural and social significance,” said heritage conservation expert Ho Weng Hin.[^38]
 
 Although architects and academics petitioned for Golden Mile Complex to be conserved, residents were in two minds about it. The complex’s long-time residents confessed they could no longer keep up with the building’s maintenance needs. “The problem is that it’s an old building, and when it rains, the water seeps through some of the walls. The building has water-proofing issues,” said Ponno Kalastree, who had lived and worked there since 1989. He was among those who had voted for the sale and was planning to downgrade to a Housing and Development Board flat, but admitted that he would miss the place.[^39]
-
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
-<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
 
 To the surprise of many, the Urban Redevelopment Authority (URA) told the *Business Times* in October 2018 that they have “assessed the building to have heritage value, and is in the process of engaging the stakeholders to explore options to facilitate conservation”. “Modern architecture, dating from our recent past, is a significant aspect of our built heritage, and we have selectively conserved a number of such buildings. Where there is strong support and merits for conservation, we will work with the relevant stakeholders to facilitate the process,” said the URA. This meant that the existing building could be retained while a new block would be added next to it.[^40]
 
