@@ -2,5 +2,6 @@ collections:
   jul-to-sep-2023:
     output: true
     order:
+      - "Golden Mile Complex: Five Decades of an Architectural Icon.md"
       - "Money No Enough, Passion Needed Too: Restoring Classic Singaporean
         Films.md"
