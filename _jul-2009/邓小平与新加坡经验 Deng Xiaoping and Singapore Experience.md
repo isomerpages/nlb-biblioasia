@@ -57,7 +57,11 @@ image: /images/Vol 5 Issue 2/Deng Xiaopeng/leekuanyew3.jpg
 
 Many library patrons have expressed interest in obtaining information concerning Deng Xiaoping and his visit to Singapore in 1978. This article seeks to address this by highlighting some of the books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection. For further enquiries, please email Reference Point at <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a> or send an SMS to 91787792. Reference Point is a remote reference enquiry service provided by the National Library Singapore.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>EXHIBITION DETAILS</b>  </div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>CHINESE COLLECTION OF BOOKS AND RESOURCES ON CHINESE LEADER DENG XIAO PING</b><br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/Deng%20Xiaopeng/deng%20xiao%20pin014%201.jpg"><i>版权所有: 中国言实出版社, 1998.</i><br><br>
+
+
+</div>
 <br><br>
 
 
