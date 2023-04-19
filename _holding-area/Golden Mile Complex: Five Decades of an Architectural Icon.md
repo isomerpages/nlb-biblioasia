@@ -19,6 +19,9 @@ Golden Mile Complex, also known as Little Thailand, was sold in 2021 to a consor
 
 As an era in the building’s history ends, it is timely to look back at its history, which goes back five decades. 
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture15.jpg)
+<div style="background-color: white;">Golden Mile Complex from Beach Road, 2023. <i>Photo by Jimmy Yap.</i></div>
+
 #### **The Rise of Golden Mile Complex**
 
 Officially opened on 28 January 1972, Golden Mile Complex was an urban renewal project by the government to “redevelop and rejuvenate the slum-ridden areas in the Singapore city centre”.[^1] In the 1960s, the site was home to squatter settlements, small-time furniture and rattan makers, and the Kampong Glam Community Centre.[^2]
