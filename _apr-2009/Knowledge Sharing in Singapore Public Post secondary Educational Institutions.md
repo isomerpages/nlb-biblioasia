@@ -19,7 +19,7 @@ First, the changing demographic of the teaching workforce, in which a large pool
 
 Second, there are clear indicators that regional countries have closed the gap with Singapore in terms of knowledge competitiveness (Bhaskaran, Khanna, &amp; Giap, 2003, Huggins, Izushi &amp; Davies, 2005). Singapore cannot afford to remain indifferent to such competition as the small nation has limited natural resources and that makes her vulnerable to world economic competition. Besides, there are stronger reasons for educational institutions in Singapore to promote knowledge sharing to remain competitive. The prospects of knowledge sharing in improving knowledge capacity, capability and competency seem much more possible in Singapore than elsewhere due to her “extra-educational” contexts and conditions, “because of scale of the system, because of concerted government and private sector and community commitment to education, because of synergies between ministries and sectors of the community” (Luke, 2003, p. 2).
 
-Third, an examination of published articles retrieved from relevant databases1 shows that no multi-institutional studies on knowledge sharing at the post-secondary (pre-university) have been undertaken.
+Third, an examination of published articles retrieved from relevant databases[^1] shows that no multi-institutional studies on knowledge sharing at the post-secondary (pre-university) have been undertaken.
 
 There is so much riding on the need for knowledge sharing and that variations are likely across institutional contexts. Thus, the importance of an exploratory study, contextually-grounded in the naturalistic setting of post-secondary institutions to investigate how knowledge sharing is instantiated in Singapore’s post-secondary educational institutions cannot be undermined. It is through continuing efforts at discussion, education, and demonstration that the necessary support for knowledge sharing studies in educational institutions can be obtained.
 
@@ -96,6 +96,40 @@ reviewing the paper, and Koh Kok Tin, a freelance editor, for editing the paper*
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/chiam%20ching%20leen.jpg">
 <center><b>Chiam Ching Leen</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
+
+#### **REFERENCES**
+
+Allan Luke, “The Future of Educational Research: Pragmatism, Alignment, Multidisciplinarity,” _NIE Researcher_ 3, no. 1 (2003), 1–3.
+
+Bent Flyvbjerg, “Five Misunderstandings About Case-Study Research,” _Qualitative Inquiry_ 12, no. 2 (April 2006), 219–45.
+
+David Hargreaves, “The Production, Mediation and Use of Professional Knowledge Among Teachers and Doctors: A Comparative Analysis,” in _[Knowledge Management in the Learning Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10094269)_ (Paris: Organisation for Economic Co-operation and Development, 2000), 219–38. (Call no. RBUS q658.4038 KNO)
+
+Edward Sallis and Gary Jones, _Knowledge Management in Education: Enhancing Learning &amp; Education_ (UK: Kogan Page, 2002) &nbsp;
+
+Gary A. Cziko, “Unpredictability and Indeterminism in Human Behavior: Arguments and Implications for Educational Research,” _Educational Researcher_ 18, no. 3 (April 1989), 17–25. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Manu Bhaskaran, Vikram Khanna and Tan Khee Giap, _[Report of The First Singapore Economic Roundtable, 2 September 2003](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12271926)_ (Singapore: SNP Reference, 2004). (Call no. RSING 338.95957 SIN)
+
+Michael Fullan, Leading in a Culture of Change (San Francisco: Jossey-Bass, 2001)
+
+Organisation for Economic Co-operation and Development, _[Knowledge Management in the Learning Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10094269)_ (Paris: Organisation for Economic Co-operation and Development, 2000), 219–38. (Call no. RBUS q658.4038 KNO)
+
+“Presentation by Professor David Hargreaves”, Cambridge University (paper presented at the OECD de la Muette, Paris, 24 March 2004)
+
+Robert Huggins, Hiro Izushi and Will Davies, _World Knowledge Competitiveness Index 2005_ (UK: Robert Huggins Associates, 2005)
+
+Robert K. Yin, _Case Study Research: Design and Methods_, 5, 2nd ed. (London: Sage, 1994)
+
+Robert K. Yin, _Applications of Case Study Research_, 34, 2nd ed. (Thousand Oaks: Sage, 2003)
+
+“Statistics Digest Online,” Ministry of Education, accessed 8 May 2005, https://www.moe.gov.sg/.
+
+#### **NOTES**
+
+         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+[^1]: The following databases were accessed: Academic Search Premier (via EbscoHOST), Australian Education Index, British Education Index, ERIC (via EbscoHOST), Education Research Complete (via EbscoHOST), Singapore’s National Institute of Education’s Dissertations and Theses Abstracts, ProQuest Dissertations and Theses, and ProQuest Education Journals.
 
 
 
