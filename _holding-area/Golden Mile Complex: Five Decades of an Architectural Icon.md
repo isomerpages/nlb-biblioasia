@@ -56,6 +56,9 @@ Like many of the complexes built then, Woh Hup Complex was also a strata-titled 
 
 Woh Hup Complex offered shop lots in various sizes, starting from a 144-square-foot lot for just $16,500.[^12] The prices were lower compared to other shopping centres because the complex was at the city centre fringe. But its developer remained bullish about its prospects. “We offer easy parking, no frayed nerves while coming up here,” said T.M. Yong, a director at Singapura Developments. “Our shop owners will most probably be able to offer goods at lower prices.”[^13] The earliest tenants in the complex were an eclectic mix of shoe retailers, beauty salons, photo studios, furniture suppliers, travel agents, eateries, restaurants and nightclubs.[^14]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture12a.jpg)
+<div style="background-color: white;">The ground floor atrium of Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
+
 As one of the first buildings to offer modern office spaces in Singapore, Woh Hup Complex attracted many businesses too. Singapura Developments and its parent company Woh Hup as well as Design Partnership set up offices in the building.[^15] The complex also became known for its many architecture and engineering firms, including OD Architects who were conceiving the masterplan for the National University of Singapore’s Kent Ridge campus, Cardew and Rider Engineers who were working with Design Partnership on Marina Square, and several engineering firms involved in the construction of Singapore’s up-and-coming Mass Rapid Transit network.[^16]
 
 But a decade after the complex opened, there were complaints of interrupted water supply, faulty air-conditioning and lifts, leaking roofs, rotting ceiling boards, rubbish piling up along the corridors, and broken or missing lights.[^17] These were reported after Woh Hup exited the property market and sold Singapura Developments along with its properties to City Developments in 1981.[^18] Woh Hup Complex was then renamed Golden Mile Complex.
@@ -64,8 +67,8 @@ But a decade after the complex opened, there were complaints of interrupted wate
 
 By the mid-1980s, many of the building professionals had moved their offices elsewhere and Golden Mile Complex became better known as the haunt of foreign construction workers, specifically those from Thailand. 
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_eateries%20(straightened).png)
-<div style="background-color: white;">The many Thai eateries on the ground floor in Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_eateries%20(straightened).png)<br>![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture22.jpg)
+<div style="background-color: white;">The many Thai eateries on the ground floor in Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 After work, particularly on Sundays and public holidays, homesick Thai workers thronged Golden Mile Complex to drink Singha beer, catch up on news back home by reading Thai newspapers, and listen to Thai music on cassette tapes. The draw for most was the various eateries selling Thai food at reasonable prices on the ground floor. Not only did these establishments serve food just like home, they served them on tables and chairs “scattered in front of food shops” or along the corridors and the concourse – just “[like] a street corner in Haadyai or Bangkok”.[^19]
 
@@ -74,8 +77,8 @@ After work, particularly on Sundays and public holidays, homesick Thai workers t
 
 Golden Mile Complex was also the terminal for tour buses plying the Singapore-Haadyai route operated by travel agencies located in the complex and the neighbouring Golden Mile Tower. As the Thai clientele in the complex grew, it became referred to as “Little Bangkok” and “Little Thailand”.[^20] The Thai community injected new life into what was then a rapidly ageing Golden Mile Complex, and attracted even more shops to serve the community. A tailor in the complex reportedly expanded from one shop to seven to sell all things Thai, while a “100% genuine Thai style” disco named Pattaya opened in 1988 on the second floor.[^21] There was even a 50-seat “cinema” that screened kick-boxing specials and Thai features at $3 a ticket.[^22]
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_food_store.png)
-<div style="background-color: white;">A shop selling Thai food items, 2023. <i>Photo by Jimmy Yap.</i></div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/shops%20selling%20thai%20food%20.jpg)
+<div style="background-color: white;">Shops selling Thai food items, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 In 1986, the *Straits Times* reported that Golden Mile Complex “would be a ghost town but for the office workers, who appear at lunch time, and the Thais, who have made it their haunt”. Dorothy, a secretary working in an architecture firm in the complex, told the *Straits Times*: “Before the Thais started coming here about four years ago, the place was very dead. Now, it’s sometimes so noisy that you get a headache.” Because fights would occasionally break out, she was not a fan of the place. “For Thai food, I’d rather go to Joo Chiat,” she added.[^23] Her sentiments were shared by many other Singaporeans who avoided Golden Mile Complex on Sundays. 
 
@@ -83,8 +86,8 @@ As one shopowner explained: “Our Sunday business has been hit. Some customers 
 
 It did not help that migrant workers and the complex were often in the news for the wrong reasons. As part of the government’s massive crackdown on illegal migrants in March 1989, 370 suspected Thai undocumented workers at Golden Mile Complex were nabbed in a single operation.[^25]
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha_statue.png)
-<div style="background-color: white;">Statue of the Four-Faced Buddha outside Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha%20worship%20site.jpg)
+<div style="background-color: white;">Statue of the Four-Faced Buddha outside Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 #### **National Icon or National Disgrace?**
 
