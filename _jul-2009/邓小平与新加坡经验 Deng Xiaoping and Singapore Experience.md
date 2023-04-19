@@ -5,3 +5,4 @@ description: Senior Library Vicky Gao highlights books and resources available
   at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader
   Deng Xiao Ping and his 1978 visit to Singapore.
 ---
+#### Senior Library _Vicky Gao_ highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.
