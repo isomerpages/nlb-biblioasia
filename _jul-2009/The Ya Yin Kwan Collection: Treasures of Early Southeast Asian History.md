@@ -10,9 +10,10 @@ image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
 <img src="/images/Vol%205%20Issue%202/YaYinKwan/ya%20yin%20kwan%20sign.jpg" style="width:100%;">
 <i>Calligraphy by Tan Yeok Seong on the donation of his Ya Yin Kwan Collection to the National Library, South East Asia Room.</i>
 
-“*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>                           *Tan Yeok Seong <br>
-                 *Ya Yin Kwan*<br>
-                 *22 July 1964*.
+“*Knowledge is public property and must be shared by all. South East Asia*<br>  i*s situated at the crossroads of the world. In the founding of a new*<br>  s*tate one needs to ponder deeply, and all existing knowledge must be*<br>  *assimilated and collated, before an authentic history can be prepared for*<br>  *posterity to extend the glory of past days*.”<br>
+*Tan Yeok Seong <br>
+*Ya Yin Kwan*<br>
+*22 July 1964*.
 
 In a published note on the presentation of the Ya Yin Kwan Collection to the National Library in 1964, Tan Yeok Seong generously donated his collection of books, accumulated over a lifetime, with the hope that this collection would benefit generations of scholars in their research.
 
