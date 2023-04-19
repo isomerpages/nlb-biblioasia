@@ -112,7 +112,7 @@ This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Toffa_Abdul_Wahed.png">
-	<b>Toffa Abdul Wahed</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.</div>
+	<b>Ross Laird</b> is the author of <i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985</i>. He was formerly with the Australian National Film and Sound Archive in Canberra. In 2010, he was a Lee Kong Chian Research Fellow at the National Library, Singapore. He currently resides in Brisbane, Australia, with his wife Dao and cat Mimi..</div>
 	
 #### **NOTES**
 
