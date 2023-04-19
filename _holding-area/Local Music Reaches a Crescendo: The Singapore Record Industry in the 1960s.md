@@ -97,6 +97,9 @@ From the mid-1960s onwards, even the conservative *Radio Weekly* began devoting 
 
 Another new development was sponsored radio programmes devoted to pop music. Cosdel Record Company, for example, promoted two radio shows: “Your Record Shop” on Radio Singapore and “Cosdel Pop Shop” on Rediffusion. These programmes played local records on the Cosdel label as well as imported labels that were distributed by Cosdel.[^15]
 
+![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image7.png)
+<div style="background-color: white;">A Cosdel advertisement promoting its radio shows, “Your Record Shop” and “Cosdel Pop Shop”, 1967. <i>Image reproduced from “Page 12 Advertisements Column 2,” Straits Times, 21 May 1967, 12. (From NewspaperSG)</i></div>
+
 By the late 1960s, local popular music was deemed important enough to be treated seriously, with regular columns appearing in daily newspapers and other print media. The lure of a much larger market in Malaysia and Indonesia also gave rise to Malay-language pop music publications that were based in Singapore.[^16]  
 
 Many amateur bands and singers were able to develop a following via fan clubs and attracted regular patrons at their performances, even if some of their careers were short-lived. Local record companies were just as eager to tap into these markets as they were in recording the more established performers. Almost every amateur band aspired to record, and although many never did so, there were many more opportunities to cut a record in Singapore during the 1960s than ever before.
