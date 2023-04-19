@@ -159,7 +159,7 @@ This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record
 
 [^10]: Lawrence Wee, “[Singapore’s Recording Firms Hit Happy Note](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62),” *Straits Times*, 11 May 1970, 10. (From NewspaperSG)
 
-[^11]: “The Early Bird Show,” [Radio Weekly](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 24 July 1967, 3. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
+[^11]: “The Early Bird Show,” [*Radio Weekly*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 24 July 1967, 3. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
 
 [^12]: *Getai* are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “[Getai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html),” in Singapore *Infopedia*. National Library Board Singapore. Article published 25 February 2015.
 
