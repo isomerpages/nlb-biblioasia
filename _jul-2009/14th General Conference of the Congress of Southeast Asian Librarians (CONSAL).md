@@ -43,7 +43,7 @@ The CONSAL flag was then handed over to Indonesia, the next host country for the
 
 Besides the conference, delegates were also given the opportunity to learn and experience firsthand the culture and hospitality of the Vietnamese people. The “Gala Night” held at the Hanoi Opera House showcased cultural dance and music performances by the Opera House troupe. The delegates also got a glimpse of the cultures of their fellow delegates through the short dance, song and drama performances put up by these delegates during “Gala Night”.
 
-<img src="/images/Vol%205%20Issue%202/CONSAL/gala%20night%20(consal).jpg" style="width:50%;">
+<img src="/images/Vol%205%20Issue%202/CONSAL/gala%20night%20(consal).jpg" style="width:80%;">
  <div style="background-color: white;">A cultural dance performance by the Opera House troupe during Gala Night.A cultural dance performance by the Opera House troupe during Gala Night.<i> Photo courtesy of Elizabeth Lam Photo courtesy of Elizabeth Lam.</i></div>
 
 After the two-day conference, the delegates were taken on a tour to Halong Bay, a UNESCO World Heritage site; the Ho Chi Minh Mausoleum; Ho Chi Minh Museum and the Ethnology Museum, which provided the delegates with a deeper insight into the history, culture and people of Vietnam.
