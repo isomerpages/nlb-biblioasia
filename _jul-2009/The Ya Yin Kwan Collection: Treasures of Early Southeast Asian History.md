@@ -60,11 +60,11 @@ Researchers interested in this collection can also request for a copy of the *Ca
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/presentation1%201.jpg">(Left) <i>Tōa kyōeiken to Nan\`yō Kakyō = Greater East Asia Co-Prosperity Sphere and the Southeast Asian Chinese Overseas. All rights reserved, Tōkō Shoin, Shōwa 16 [1941] </i>;<br>
 (Right) <i> Nan’yō to Kakyō = Southeast Asia and the Chinese overseas. All rights reserved, Sanseidō, Shōwa 18 [1943] </i>
 <br><br>
-<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20title%202.jpg"><i>Japanese title published in Singapore. Reproduced from Jawa no genzai to kagayaku hōjin = Present Day of Java &amp; Japanese All rights reserved, Nan’yō Jidaisha, 1932.</i><br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20title%202.jpg"><i>Japanese title published in Singapore. Reproduced from Jawa no genzai to kagayaku hōjin = Present Day of Java &amp; Japanese. All rights reserved, Nan’yō Jidaisha, 1932.</i><br><br>
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%201%201.jpg"><i>Autographed by 连士升, Lien Shih-Sheng, author of 西方英雄谱. Lien was a prolific writer and Chinese newspapers editor. He was actively involved in the arts, education and cultural organisations in Singapore from the late 1940s to the early 1970s. For more information, please refer to website: <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/">https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/</a>. Reproduced from 西方英雄谱. All rights reserved, 南洋商报社, 1953.</i><br><br>
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%204%204.jpg"><i>	Autographed by Leon Comber, author of Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900. Reproduced from Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900 All rights reserved, Association for Asian Studies by J.J. Augustin, [1959].<br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%204%204.jpg"><i>	Autographed by Leon Comber, author of Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900. Reproduced from Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900. All rights reserved, Association for Asian Studies by J.J. Augustin, [1959].<br><br>
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/sea%20studies%201%201.jpg"><i>Handbook of the Netherlands East-Indies, 1920. All rights reserved, Netherlands East Indies. Dept. of Agriculture, Industry and Commerce, 1920–1930.<i><br><br>
 
