@@ -2,4 +2,6 @@ collections:
   apr-2009:
     output: true
     order:
+      - Knowledge Sharing in Singapore Public Post secondary Educational
+        Institutions.md
       - Director Column.md
