@@ -2,12 +2,6 @@ collections:
   jul-2009:
     output: true
     order:
-      - 14th General Conference of the Congress of Southeast Asian Librarians
-        (CONSAL).md
-      - 邓小平与新加坡经验 Deng Xiaoping and Singapore Experience.md
-      - "The Ya Yin Kwan Collection: Treasures of Early Southeast Asian
-        History.md"
-      - "Pantun: Sumber Rujukan Sosiobudaya Masyarakat Melayu.md"
       - Director's Column.md
       - An Overview of Singapore’s Education System from 1819 to the 1970s.md
       - "In Search of the Child: Children’s Books Depicting World War II in
@@ -15,3 +9,9 @@ collections:
       - "Journey to the West: Dusty Roads, Stormy Seas and Transcendence.md"
       - Why Politicians Don’t Stay? Making Sense of Critical Political Events in
         Post war Asia.md
+      - "Pantun: Sumber Rujukan Sosiobudaya Masyarakat Melayu.md"
+      - "The Ya Yin Kwan Collection: Treasures of Early Southeast Asian
+        History.md"
+      - 邓小平与新加坡经验 Deng Xiaoping and Singapore Experience.md
+      - 14th General Conference of the Congress of Southeast Asian Librarians
+        (CONSAL).md
