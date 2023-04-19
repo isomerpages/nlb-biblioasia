@@ -41,6 +41,9 @@ By the end of the 1960s, there were hundreds of labels in Singapore catering to 
 
 Apart from supplying the Singapore market, many companies exported a significant percentage of their production, especially to Malaysia and Indonesia. One relatively small producer, Kwan Sia Record Company, which produced the Swan and Star Swan labels, reported that half of its 8,000 copies pressed from a single LP release was exported to Indonesia at a value of about $30,000.[^8]
 
+![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image3.png)
+<div style="background-color: white;">(Left) <i>Hala A’ Go-go</i>, a record released under the Swan label for Charlie &amp; His Go-Go Boys, 1967. Record companies like Kwang Sia Record Company (which produced the Swan label) also exported part of their production to overseas markets such as Malaysia and Indonesia. <i>Courtesy of National Archives of Singapore</i>.<br>(Right) <i>O.B. A Go Go</i>, a record released by Cosdel for The Trailers in 1967. This was a local band popular with teenagers in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
+
 By early 1967, Singapore was producing a total of 2.45 million records annually. According to the *Straits Times* in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.[^9]
 
 By 1970, there were at least four record manufacturers in Singapore that pressed records for their own labels as well as for other companies.There were likely other small-scale manufacturers as well, so exact figures are not available, but according to newspaper reports of the time, record production at these four major pressing plants had reached one million discs per month.[^10]
