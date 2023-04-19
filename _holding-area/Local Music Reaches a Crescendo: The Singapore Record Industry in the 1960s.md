@@ -7,7 +7,7 @@ description: In this extract from the book From Keroncong to Xinyao, the author
 #### In this extract from the book _From Keroncong to Xinyao_, the author looks at why the record industry in Singapore took off in the 1960s.
 
 By Ross Laird
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex.png)
+![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image1.png)
 <div style="background-color: white;">Golden Mile Complex with its unique stepped terraced design as seen from Nicoll Highway, 2022. The building next to it is Golden Mile Tower. <i>Photo by Darren Soh.</i></div>
 
 Despite the significant changes that had taken place in Singapore’s record industry in the 1950s, few could have predicted the even more dramatic transformations to come in the 1960s. At the start of the decade, the record industry in Singapore was still dominated by EMI (as it had been since the 1930s). The few independent record labels that existed were relatively insignificant in market terms, and no other multinational record company had yet shown an interest in establishing a presence in Singapore.
