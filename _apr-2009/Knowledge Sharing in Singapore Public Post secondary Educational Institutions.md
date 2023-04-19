@@ -89,9 +89,3 @@ As the insights gained showed that knowledge sharing is effectively a complex so
 In this paper, I have attempted to present my rendering of the nature of knowledge sharing, grounded in the accounts of academic staff and students from three selected public post-secondary institutions in Singapore. Documenting the thoughts of these participants provides a window into the complex social negotiations in operation in knowledge sharing practices in Singapore’s educational institutions. The insights found from these participants’ account from differing institutional types provide a good staging ground of the influences on using student assessment in promoting/constraining knowledge sharing practices in their institutions. The insights from the study also provide a first small step towards understanding why knowledge sharing works for some educational institutional types, but not for others. This could be useful in informing curriculum designers, planners and developers about the crucial enactment aspects of the curriculum and its relations to knowledge sharing practices. The challenge then is in creating educational institutions context that are capable of optimally structuring the knowledge flow so that development from knowledge sharing can occur.
 
 ***The author wishes to acknowledge the contributions of Dr Jeanette Bopry in reviewing the paper, and Koh Kok Tin, a freelance editor, for editing the paper***.
-
-
-
-
-
-
