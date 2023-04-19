@@ -118,34 +118,34 @@ This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record
 
 [^1]: These events, and the growing popularity of The Crescendos, took place well before British group The Shadows performed in Singapore in November 1961. Writer Joseph C. Pereira states that the rise of Singaporean guitar bands was sparked by The Shadows’ 1961 performances in Singapore. See Joseph C. Pereira, [*Apache Over Singapore: The Story of Singapore Sixties Music, Volume One*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601) (Singapore: Select Publishing, 2011), 1. (From National Library, Singapore, call no. RSING 781.64095957 PER)
 
-[^2]: For example, see Ken Hammonds, “Spinning With Cutie Susan,” Straits Times, 3 March 1963, 9. (From NewspaperSG)
+[^2]: For example, see Ken Hammonds, “[Spinning With Cutie Susan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630303-1.2.96),” *Straits Times*, 3 March 1963, 9. (From NewspaperSG)
 
-[^3]: “The Three ‘Jay Walkers’ of Katong Convent,” Singapore Free Press, 17 May 1960, 5; “Popular Young Trio Had Audience Cheering at a Christmas Concert,” Singapore Free Press, 7 January 1961, 8. (From NewspaperSG)
+[^3]: “[The Three ‘Jay Walkers’ of Katong Convent](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600517-1.2.58),” *Singapore Free Press*, 17 May 1960, 5; “[Popular Young Trio Had Audience Cheering at a Christmas Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610107-1.2.73),” *Singapore Free Press*, 7 January 1961, 8. (From NewspaperSG)
 
-[^4]: “Crescendos Make First Record,” Radio Weekly, 18 February 1963, 1. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
+[^4]: “Crescendos Make First Record,” [*Radio Weekly*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 18 February 1963, 1. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
 
-[^5]: “Crescendos’ Disc Sales Top the 10,000 Mark,” Radio Weekly, 7 October 1963, 1. (From National Library, Singapore, call no. RCLOS 791.44095957 RW) 
+[^5]: “Crescendos’ Disc Sales Top the 10,000 Mark,” [*Radio Weekly*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 7 October 1963, 1. (From National Library, Singapore, call no. RCLOS 791.44095957 RW) 
 
 [^6]: Philips was the first multinational record company to establish a record pressing plant in Singapore. It officially opened on 24 November 1967.
 
 [^7]: One cannot directly compare Singapore’s record industry with that of Indonesia’s as there are several important differences between the two countries (Indonesia, for instance, had a relatively small middle class at the time despite its much larger population). During the 1960s, most record labels in Indonesia were produced by a few large corporate entities. There was a government-owned record label called Lokananta, which had a few subsidiaries, and almost all the other labels were owned by Indonesian Music Co. Irama Ltd. (Irama), Republic Manufacturing Co. Ltd. (Remaco, Bali, Diamond, Mutiara, etc.), Dimita Moulding Industries Ltd. (Mesra) and El Shinta Broadcasting System (El Shinta, Jasmine). EMI had no direct presence in Indonesia (except through imports) and Philips also had limited access to that market except under licence or later (from 1968) through imports from Singapore.
 
-[^8]: “Local Made ‘Pop’ Records Go to Indonesia,” Straits Times, 24 May 1968, 14. (From NewspaperSG)
+[^8]: “[Local Made ‘Pop’ Records Go to Indonesia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680524-1.2.102.4),” *Straits Times*, 24 May 1968, 14. (From NewspaperSG)
 
-[^9]: Chan Bong Soo, “Gramophone Record Industry in S’pore Big Business,” Straits Times, 19 May 1967, 12. (From NewspaperSG)
+[^9]: Chan Bong Soo, “[Gramophone Record Industry in S’pore Big Business](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670519-1.2.108),” *Straits Times*, 19 May 1967, 12. (From NewspaperSG)
 
-[^10]: Lawrence Wee, “Singapore’s Recording Firms Hit Happy Note,” Straits Times, 11 May 1970, 10. (From NewspaperSG)
+[^10]: Lawrence Wee, “[Singapore’s Recording Firms Hit Happy Note](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62),” *Straits Times*, 11 May 1970, 10. (From NewspaperSG)
 
-[^11]: “The Early Bird Show,” Radio Weekly, 24 July 1967, 3. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
+[^11]: “The Early Bird Show,” [Radio Weekly](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 24 July 1967, 3. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
 
-[^12]: Getai are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “Getai,” in Singapore Infopedia. National Library Board Singapore. Article published 25 February 2015.
+[^12]: *Getai* are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “[Getai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html),” in Singapore *Infopedia*. National Library Board Singapore. Article published 25 February 2015.
 
 [^13]: The author estimates that there were over 1,500 singers or bands who recorded in Singapore during the 1960s. Some of these were artistes from Malaysia and Indonesia who came here to record and were not residents (although many took the opportunity to perform publicly while they were here).
 
-[^14]: Yeo Toon Joo, “Fanomania,” Straits Times, 21 May 1967, 10. (From NewspaperSG)
+[^14]: Yeo Toon Joo, “[Fanomania](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670521-1.2.86),” *Straits Times*, 21 May 1967, 10. (From NewspaperSG)
 
-[^15]: “Page 12 Advertisements Column 2,” Straits Times, 21 May 1967, 12. (From NewspaperSG)
+[^15]: “[Page 12 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670521-1.2.94.2),” *Straits Times*, 21 May 1967, 12. (From NewspaperSG)
 
-[^16]: In 1969, Radio Weekly was discontinued and replaced by a new entertainment magazine called Fanfare, which featured regular articles on new groups and trends in popular music. There was also a Malay-language magazine titled Bintang dan Lagu, which began publication in 1966 and ran until at least 1967, with well-illustrated articles on current groups and listings of new record releases. By 1967, even Malay film magazines such as Purnama Filem were featuring articles on the latest pop bands.
+[^16]: In 1969, *Radio Weekly* was discontinued and replaced by a new entertainment magazine called *Fanfare*, which featured regular articles on new groups and trends in popular music. There was also a Malay-language magazine titled *Bintang dan Lagu*, which began publication in 1966 and ran until at least 1967, with well-illustrated articles on current groups and listings of new record releases. By 1967, even Malay film magazines such as *Purnama Filem* were featuring articles on the latest pop bands.
 
-[^17]: For example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The newspaper article does not indicate the organiser of this event but states that the artistes included Vivi Sumanti, Bing Slamet and Tanti Josepha, and that they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The unnamed organiser was in fact Philips record company, and the recordings appeared on their PopSound label for sale in Indonesia (although the label was also distributed in Singapore, Malaysia and probably elsewhere). The article also states that the artistes would stay in Singapore for three months, recording almost every day and “cutting over 70 EPs and 25 LPs”. See Maureen Peters, “S’pore May Soon Become the Recording Centre for all South-east Asia,” Straits Times, 25 October 1969, 8. (From NewspaperSG)
+[^17]: For example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The newspaper article does not indicate the organiser of this event but states that the artistes included Vivi Sumanti, Bing Slamet and Tanti Josepha, and that they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The unnamed organiser was in fact Philips record company, and the recordings appeared on their PopSound label for sale in Indonesia (although the label was also distributed in Singapore, Malaysia and probably elsewhere). The article also states that the artistes would stay in Singapore for three months, recording almost every day and “cutting over 70 EPs and 25 LPs”. See Maureen Peters, “[S’pore May Soon Become the Recording Centre for all South-east Asia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691025-1.2.55),” *Straits Times*, 25 October 1969, 8. (From NewspaperSG)
