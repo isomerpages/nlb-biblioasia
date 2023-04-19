@@ -71,7 +71,7 @@ But a decade after the complex opened, there were complaints of interrupted wate
 By the mid-1980s, many of the building professionals had moved their offices elsewhere and Golden Mile Complex became better known as the haunt of foreign construction workers, specifically those from Thailand. 
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_eateries%20(straightened).png)<br>![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture22.jpg)
-<div style="background-color: white;">The many Thai eateries on the ground floor in Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
+<div style="background-color: white;">The many Thai eateries on the ground floor of Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 After work, particularly on Sundays and public holidays, homesick Thai workers thronged Golden Mile Complex to drink Singha beer, catch up on news back home by reading Thai newspapers, and listen to Thai music on cassette tapes. The draw for most was the various eateries selling Thai food at reasonable prices on the ground floor. Not only did these establishments serve food just like home, they served them on tables and chairs “scattered in front of food shops” or along the corridors and the concourse – just “[like] a street corner in Haadyai or Bangkok”.[^19]
 
