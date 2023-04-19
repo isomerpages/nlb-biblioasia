@@ -62,6 +62,9 @@ New music and entertainment venues specifically aimed at the youth demographic w
 
 Another example was “The Early Bird Show”, which was also held in a cinema, but at an early hour of the morning (hence its name), and not in conjunction with a film screening. “The ‘Early Bird Show’ has played to packed houses at Singapore’s Odeon Cinema. Starting at 8.45 a.m. each week, the show looks like being [sic] with us a long time yet, as it will continue as long as the fans respond,” reported *Radio Weekly* in July 1967.[^11]
 
+![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image5.png)
+<div style="background-color: white;">A local band (name not known) who was featured in “The Early Bird Show” at Odeon Cinema. The band members followed Western fashion trends, from their long hair to the bell-bottom pants. <i>Courtesy of National Archives of Singapore.</i></div>
+
 In addition, there were live concerts such as “A Night of Blue Beats”, “Pop Stars on Parade ’66”, “Top Talents ’66”, “What’s Up in Pops” and “Seven Sounds of Soul”. These featured all-star line-ups that differed from conventional concerts usually showcasing a single performer accompanied by one or two supporting artistes.
 
 Apart from the many one-off concerts held in various halls, there were also regular concert series, including “The Early Bird Show” at the Odeon Cinema (1967–70) and “Musical Express” at the Capitol (1967–68). 
