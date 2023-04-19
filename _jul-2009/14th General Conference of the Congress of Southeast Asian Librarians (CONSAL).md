@@ -6,7 +6,7 @@ description: Research Associates Akshata Patkar and Sri Asrina Tanuri give us a
   Southeast Asian Librarians.
 image: /images/Vol 5 Issue 2/CONSAL/handover of flag (consal).JPG
 ---
-#### Research Associates _Akshata Patkar_ and _Sri Asrina Tanuri_ give us a snapshot of what was shared at the 14th General Conference of the Congress of Southeast Asian Librarians.
+#### Research Associates&nbsp;_Akshata Patkar_&nbsp;and&nbsp;_Sri Asrina Tanuri_&nbsp;give us a snapshot of what was shared at the 14th General Conference of the Congress of Southeast Asian Librarians.
 
 The Congress of Southeast Asian Librarians (CONSAL) was formed in Singapore in 1970 to establish, maintain and strengthen networks among libraries in the region; promote cooperation and provide assistance in the development of libraries and information services; and provide a platform for sharing information and experiences on issues in librarianship and information sciences. Today CONSAL has grown to include 10 member countries: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam.
 
@@ -14,7 +14,7 @@ This year, the 14th CONSAL General Conference was held on 21–22 April 2009 at 
 
 At the opening ceremony, guests and delegates were entertained with beautiful dance and music performances by Vietnamese children, reflecting the rich and vibrant Vietnamese culture. Delegates from the 10-member countries were introduced as representatives marched in with the flags of their respective nations. After the Vietnamese national anthem and ASEAN anthem were played, Vietnam’s Vice President Professor Dr Nguyen Thi Doan welcomed the delegates.
 
-Vietnamese Minister of Culture, Sports, and Tourism, Mr Hoang Anh Tuan, in his opening speech, emphasised that knowledge and information were a decisive force in the development of a modern society, and libraries and information centres played an essential role in the advancement of their country and the whole of humankind. Welcome speeches were also made by Dr Susanne Ornager, Adviser for Communication and Information in Asia, United Nations Educational, Scientific and Cultural Organization (UNESCO); Ms Jan Fullerton, Director-General of the National Library of Australia, representing the Conference of Directors of National Libraries of Asia and Oceania (CDNLAO), and Ms Deborah Jacobs, Deputy Director of Global Libraries, Bill & Melinda Gates Foundation.
+Vietnamese Minister of Culture, Sports, and Tourism, Mr Hoang Anh Tuan, in his opening speech, emphasised that knowledge and information were a decisive force in the development of a modern society, and libraries and information centres played an essential role in the advancement of their country and the whole of humankind. Welcome speeches were also made by Dr Susanne Ornager, Adviser for Communication and Information in Asia, United Nations Educational, Scientific and Cultural Organization (UNESCO); Ms Jan Fullerton, Director-General of the National Library of Australia, representing the Conference of Directors of National Libraries of Asia and Oceania (CDNLAO), and Ms Deborah Jacobs, Deputy Director of Global Libraries, Bill &amp; Melinda Gates Foundation.
 
 In her keynote address, Professor Ching-Chih Chen from the Graduate School of Library and Information Sciences, Simmons College, Boston, highlighted her cutting-edge technology application in presenting multilingual information and photographic resources on the 878 World Heritage Sites from 145 countries.
 
@@ -41,6 +41,17 @@ The 14th CONSAL General Conference had successfully achieved its objectives. It 
 We look forward to the next conference in 2012.
 
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/akshata%20patkar.jpg">
+<center><b>Akshata Patka</b><br>Research associates l<br> Publishing and Research Services<br> National Library</center>
+	
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/asrina%20tanuri.jpg">
+<center><b>Asrina Tanuri</b><br>Research associates l<br> Publishing and Research Services<br> National Library</center>.</div>
 
 
-
+</div>
