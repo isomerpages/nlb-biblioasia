@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: /images/vol-11-issue-4/a-singapore-made-quran/Q1.JPG
 ---
+To mark Hari Raya Puasa, we are resurfacing this article that was first published in 2016.
+
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201341424"> Lithographed Qur’an </a><br>
 <b>Copyist:</b> Tengku Yusof bin Tengku Ibrahim<br>
