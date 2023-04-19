@@ -67,6 +67,9 @@ Another example was “The Early Bird Show”, which was also held in a cinema, 
 
 In addition, there were live concerts such as “A Night of Blue Beats”, “Pop Stars on Parade ’66”, “Top Talents ’66”, “What’s Up in Pops” and “Seven Sounds of Soul”. These featured all-star line-ups that differed from conventional concerts usually showcasing a single performer accompanied by one or two supporting artistes.
 
+![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image4.png)
+<div style="background-color: white;">An advertisement promoting the “Top Talents ‘66” live concert, featuring popular local bands such as The Quests and Naomi &amp; the Boys. <i>Image reproduced from “Page 4 Advertisements Column 3,” Straits Times, 2 April 1966, 4. (From NewspaperSG).</i></div>
+
 Apart from the many one-off concerts held in various halls, there were also regular concert series, including “The Early Bird Show” at the Odeon Cinema (1967–70) and “Musical Express” at the Capitol (1967–68). 
 
 Other important platforms for local performers were the regular Talentime competitions and thematic contests such as “Ventures of Singapore Competition”. In some cases, the winning artistes were offered an opportunity to make a record as part of their prize. Talentime and similar competitions had existed since 1949, but during the 1960s they became ever more popular and many winners went on to have significant careers as performers and recording artistes.
