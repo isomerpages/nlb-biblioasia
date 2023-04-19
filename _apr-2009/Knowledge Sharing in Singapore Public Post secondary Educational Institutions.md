@@ -5,3 +5,4 @@ description: Lee Kong Chian Research Fellow Chiam Ching Leen shares her
   findings, insights, and thoughts on the nature of knowledge sharing in
   post-secondary institutions in Singapore.
 ---
+ #### Lee Kong Chian Research Fellow _Chiam Ching Leen_ shares her findings, insights, and thoughts on the nature of knowledge sharing in post-secondary institutions in Singapore.
