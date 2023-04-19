@@ -1,15 +1,16 @@
 ---
 title: "Golden Mile Complex: Five Decades of an Architectural Icon"
-permalink: /holding-area/permalink/test-2/
+permalink: /vol-19/issue-2/jul-sep-2023/golden-mile-complex/
 description: The collective sale and conservation of Golden Mile Complex will
   restore a visionary building designed for a “new look Singapore” 50 years ago.
   But it also means the loss of a unique community that had developed there.
-image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex.png
+image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 ---
 #### The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that had developed there. 
 
 By Justin Zhuang 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex.png)
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex_3.png)
 <div style="background-color: white;">Golden Mile Complex with its unique stepped terraced design as seen from Nicoll Highway, 2022. The building next to it is Golden Mile Tower. <i>Photo by Darren Soh.</i></div>
 
 Acclaimed Dutch architect Rem Koolhaas described it a masterpiece of experimental architecture. Singaporeans were drawn to it for its atmosphere and the abundance of cheap Thai food. For Thais living in Singapore, it was a home away from home. 
@@ -17,6 +18,9 @@ Acclaimed Dutch architect Rem Koolhaas described it a masterpiece of experimenta
 Golden Mile Complex, also known as Little Thailand, was sold in 2021 to a consortium which will redevelop the building. As it has been gazetted as a conserved building by the Urban Redevelopment Authority, its physical structure is likely to be preserved. However, the same cannot be said for its unique character. Its tenants – a mix of inexpensive Thai eateries, seedy bars and tiny shops selling Thai perishables – were given until May 2023 to move out. Now that they have dispersed, they are unlikely to return.
 
 As an era in the building’s history ends, it is timely to look back at its history, which goes back five decades. 
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture15.jpg)
+<div style="background-color: white;">Golden Mile Complex from Beach Road, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 #### **The Rise of Golden Mile Complex**
 
@@ -31,10 +35,10 @@ Singapura Developments won the tender for the three-acre site that would eventua
 
 The all-in-one design of Golden Mile Complex marked a significant shift from how city planners in Singapore then traditionally segregated areas into different zones for “live, work, play”. In fact, it embodied Lim’s vision for “megastructures” that would contain all the functions of a city within a building, which he believed to be the future of Asian cities.
 
-“We must reject outdated planning principles that seek to segregate man’s activities into arbitrary zones, no matter how attractive it may look in ordered squares on a land use map. We must reject arbitrary standards laid down that limit the intensive use of land,” said Lim and Tay as part of an essay for the Singapore Planning and Urban Research Group that was published in Asia Magazine in 1966.[^5] This vision was realised in Golden Mile Complex: a concrete megastructure that became one of the earliest mixed-use developments in Singapore and Asia.[^6]
+“We must reject outdated planning principles that seek to segregate man’s activities into arbitrary zones, no matter how attractive it may look in ordered squares on a land use map. We must reject arbitrary standards laid down that limit the intensive use of land,” said Lim and Tay as part of an essay for the Singapore Planning and Urban Research Group that was published in _Asia Magazine_ in 1966.[^5] This vision was realised in Golden Mile Complex: a concrete megastructure that became one of the earliest mixed-use developments in Singapore and Asia.[^6]
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/concept_sketch.png)
-<div style="background-color: white;">A concept sketch of a megastructure by the Singapore Planning and Urban Research Group (which included William Lim and the other designers of Golden Mile Complex) published in Asia Magazine in 1966. It resembles what Golden Mile Complex looks like (facing Beach Road). <i>Image reproduced from Singapore Planning and Urban Research Group 1965–1967 (Singapore: Singapore Planning and Urban Research Group, 1968). 4. (From National Library, Singapore, call no. RSING 307.1216095957 SIN).</i></div>
+<div style="background-color: white;">A concept sketch of a megastructure by the Singapore Planning and Urban Research Group (which included William Lim and the other designers of Golden Mile Complex) published in <i>Asia Magazine</i> in 1966. It resembles what Golden Mile Complex looks like (facing Beach Road). <i>Image reproduced from Singapore Planning and Urban Research Group 1965–1967 (Singapore: Singapore Planning and Urban Research Group, 1968). 4. (From National Library, Singapore, call no. RSING 307.1216095957 SIN).</i></div>
 
 In January 1970, Singapura Developments began marketing the property and declared that “The Golden Mile Race Is On”. All 64 apartments were snapped up within a month, and most of the offices and shops were sold by the time building works commenced in May 1970.[^7]
 
@@ -44,6 +48,9 @@ The next six floors housed 210 offices and studios to complete the tower that wa
 
 Completing the facilities was a four-storey residential car park at one end of the building that was topped with an open-air swimming pool overlooking the former Crawford Park. All these different functions were connected by corridors, including a “street” that ran through the podium of shops. The result was an interiorised environment designed to “encourage human interaction and intensify public life”.[^10]
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
+<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **A Hub of Modernity**
 
 Woh Hup Complex was part of a pioneering wave of shopping centres to open in Singapore in the early 1970s, along with People’s Park Complex in Chinatown and Tanglin Shopping Centre and Specialists’ Centre in the Orchard Road area. 
@@ -51,6 +58,9 @@ Woh Hup Complex was part of a pioneering wave of shopping centres to open in Sin
 Like many of the complexes built then, Woh Hup Complex was also a strata-titled development. This form of property ownership was introduced by the government in 1968 to allow individual owners to have a share of a land. It allowed property developers to quickly recoup their investment by tapping on a pool of buyers, and also enabled individuals to participate in the on-going modernisation of Singapore.[^11]
 
 Woh Hup Complex offered shop lots in various sizes, starting from a 144-square-foot lot for just $16,500.[^12] The prices were lower compared to other shopping centres because the complex was at the city centre fringe. But its developer remained bullish about its prospects. “We offer easy parking, no frayed nerves while coming up here,” said T.M. Yong, a director at Singapura Developments. “Our shop owners will most probably be able to offer goods at lower prices.”[^13] The earliest tenants in the complex were an eclectic mix of shoe retailers, beauty salons, photo studios, furniture suppliers, travel agents, eateries, restaurants and nightclubs.[^14]
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture12a.jpg)
+<div style="background-color: white;">The ground floor atrium of Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 As one of the first buildings to offer modern office spaces in Singapore, Woh Hup Complex attracted many businesses too. Singapura Developments and its parent company Woh Hup as well as Design Partnership set up offices in the building.[^15] The complex also became known for its many architecture and engineering firms, including OD Architects who were conceiving the masterplan for the National University of Singapore’s Kent Ridge campus, Cardew and Rider Engineers who were working with Design Partnership on Marina Square, and several engineering firms involved in the construction of Singapore’s up-and-coming Mass Rapid Transit network.[^16]
 
@@ -60,27 +70,27 @@ But a decade after the complex opened, there were complaints of interrupted wate
 
 By the mid-1980s, many of the building professionals had moved their offices elsewhere and Golden Mile Complex became better known as the haunt of foreign construction workers, specifically those from Thailand. 
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_eateries%20(straightened).png)
-<div style="background-color: white;">The many Thai eateries on the ground floor in Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_eateries%20(straightened).png)<br>![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/picture22.jpg)
+<div style="background-color: white;">The many Thai eateries on the ground floor of Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 After work, particularly on Sundays and public holidays, homesick Thai workers thronged Golden Mile Complex to drink Singha beer, catch up on news back home by reading Thai newspapers, and listen to Thai music on cassette tapes. The draw for most was the various eateries selling Thai food at reasonable prices on the ground floor. Not only did these establishments serve food just like home, they served them on tables and chairs “scattered in front of food shops” or along the corridors and the concourse – just “[like] a street corner in Haadyai or Bangkok”.[^19]
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_flower_shop.png)
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/flower_shop.png)
 <div style="background-color: white;">A Thai shop selling flowers and other items for worship and prayers, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 Golden Mile Complex was also the terminal for tour buses plying the Singapore-Haadyai route operated by travel agencies located in the complex and the neighbouring Golden Mile Tower. As the Thai clientele in the complex grew, it became referred to as “Little Bangkok” and “Little Thailand”.[^20] The Thai community injected new life into what was then a rapidly ageing Golden Mile Complex, and attracted even more shops to serve the community. A tailor in the complex reportedly expanded from one shop to seven to sell all things Thai, while a “100% genuine Thai style” disco named Pattaya opened in 1988 on the second floor.[^21] There was even a 50-seat “cinema” that screened kick-boxing specials and Thai features at $3 a ticket.[^22]
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha_statue.png)
-<div style="background-color: white;">Statue of the Four-Faced Buddha outside Golden Mile Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/shops%20selling%20thai%20food%20.jpg)
+<div style="background-color: white;">Shops selling Thai food items and fruits, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 In 1986, the *Straits Times* reported that Golden Mile Complex “would be a ghost town but for the office workers, who appear at lunch time, and the Thais, who have made it their haunt”. Dorothy, a secretary working in an architecture firm in the complex, told the *Straits Times*: “Before the Thais started coming here about four years ago, the place was very dead. Now, it’s sometimes so noisy that you get a headache.” Because fights would occasionally break out, she was not a fan of the place. “For Thai food, I’d rather go to Joo Chiat,” she added.[^23] Her sentiments were shared by many other Singaporeans who avoided Golden Mile Complex on Sundays. 
-
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/thai_food_store.png)
-<div style="background-color: white;">A store selling Thai food items, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 As one shopowner explained: “Our Sunday business has been hit. Some customers stay away because of the Thai character of the place.” A food stall operator added: “The Thais linger for hours, drinking beer and eating their favourite beef noodles. Sometimes, they fight among themselves over a few drinks.”[^24]
 
 It did not help that migrant workers and the complex were often in the news for the wrong reasons. As part of the government’s massive crackdown on illegal migrants in March 1989, 370 suspected Thai undocumented workers at Golden Mile Complex were nabbed in a single operation.[^25]
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha%20worship%20site.jpg)
+<div style="background-color: white;">Statue of the Four-Faced Buddha outside Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
 
 #### **National Icon or National Disgrace?**
 
@@ -92,7 +102,7 @@ The disconnect between Golden Mile Complex’s celebrated architecture and its d
 
 “The appearance of Golden Mile Complex appals me whenever I drive along Nicoll Highway. It must create a terrible impression on foreign visitors arriving from the airport. How can we be a world-class city in a garden? The Golden Mile Complex is just the most extreme of how a strata-title property can deteriorate,” he said.[^30]
 
-This came just after Golden Mile Complex was featured in ISingapore 1:1 – CityI, a publication showcasing significant architecture and urban design in the city-state.[^31] “That’s a real joke!,” said Png. “Can you imagine if that thing was standing on the Singapore River between OCBC Building and UOB Centre?” He added: “It just gives me goosebumps. It’s so close to the city, yet it’s so unlike Singapore – orderly, tidy, everything neat. It’ll drag us down.”[^32]
+This came just after Golden Mile Complex was featured in _Singapore 1:1 – City_, a publication showcasing significant architecture and urban design in the city-state.[^31] “That’s a real joke!” said Png. “Can you imagine if that thing was standing on the Singapore River between OCBC Building and UOB Centre?” He added: “It just gives me goosebumps. It’s so close to the city, yet it’s so unlike Singapore – orderly, tidy, everything neat. It’ll drag us down.”[^32]
 
 Not everyone agreed with his criticism. Retiree Evelyn Ong, who moved into the complex in 2005, immediately booked her 11-storey apartment after seeing the breathtaking views. She said: “Once I stepped in and saw the view, I said book, book, must book.” She bought her 1,000-square-foot apartment for about $310,000, and spent about $70,000 on renovations to make it look like a holiday resort. “I think I’m very lucky. It’s so difficult to find such a nice view. Every day, I sit here (at my balcony) and I can see the beautiful lights at night.” She agreed that more could be done to spruce up the building though.[^33]
 
@@ -107,9 +117,6 @@ In November the same year, a collective of architects, designers and artists kno
 In August 2018, news broke that more than 80 percent of the owners of units in the complex had agreed to put the building up for an en bloc sale at $800 million. This came hot on the heels of the sale of another modernist icon, Pearl Bank Apartments,[^37] just six months earlier. Heritage and architectural experts were dismayed at the news. “It will be a tragedy and a great loss to Singapore if the en-bloc sale results in the demolition and redevelopment of such an important urban landmark with such high architectural and social significance,” said heritage conservation expert Ho Weng Hin.[^38]
 
 Although architects and academics petitioned for Golden Mile Complex to be conserved, residents were in two minds about it. The complex’s long-time residents confessed they could no longer keep up with the building’s maintenance needs. “The problem is that it’s an old building, and when it rains, the water seeps through some of the walls. The building has water-proofing issues,” said Ponno Kalastree, who had lived and worked there since 1989. He was among those who had voted for the sale and was planning to downgrade to a Housing and Development Board flat, but admitted that he would miss the place.[^39]
-
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/swimming_pool.png)
-<div style="background-color: white;">The now-defunct swimming pool at Golden Mile Complex, 1980–99. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
 
 To the surprise of many, the Urban Redevelopment Authority (URA) told the *Business Times* in October 2018 that they have “assessed the building to have heritage value, and is in the process of engaging the stakeholders to explore options to facilitate conservation”. “Modern architecture, dating from our recent past, is a significant aspect of our built heritage, and we have selectively conserved a number of such buildings. Where there is strong support and merits for conservation, we will work with the relevant stakeholders to facilitate the process,” said the URA. This meant that the existing building could be retained while a new block would be added next to it.[^40]
 
@@ -130,7 +137,7 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^1]: Singapore. Housing and Development Board, *[Annual Report 1965](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986)* (Singapore: Housing and Development Board, 1966), 12. (From PublicationSG); Yap Cheng Tong, “[Opens Today: First of the Golden Mile Projects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720128-1.2.189.2),” *Straits Times*, 28 January 1972, 20. (From NewspaperSG)
 
-[^2]: Chia Poteik, “[$90m Plan for a New Look Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670616-1.2.30),” *Straits  Times*, 16 June 1967, 5; “[Fire! – By Order](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670801-1.2.124),” *Straits Times*, 1 August 1967, 20; “[‘Golden Mile’ to Oust a Community Centre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670626-1.2.52),” *Straits Times*, 26 June 1967, 7. (From NewspaperSG)
+[^2]: Chia Poteik, “[$90m Plan for a New Look Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670616-1.2.30),” *Straits  Times*, 16 June 1967, 5; “[Fire!—By Order](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670801-1.2.124),” *Straits Times*, 1 August 1967, 20; “[‘Golden Mile’ to Oust a Community Centre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670626-1.2.52),” *Straits Times*, 26 June 1967, 7. (From NewspaperSG)
 
 [^3]: Chia, “[$90m Plan for a New Look Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670616-1.2.30).”
 
@@ -164,11 +171,11 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 [^18]: Choo Ai Leng, “[City Developments Sits on Solid Base](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810507-1.2.40.1),” *Business Times*, 7 May 1981, 11. (From NewspaperSG)
 
-[^19]: May Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1),” *Straits Times*, 21 August 1986, 2. (From Newslink via NLB’s eResources website); May Ho, “[Like a Street Corner in Haadyai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.2),” *Straits Times*, 21 August 1986, 2. (From NewspaperSG)
+[^19]: May Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1),” *Straits Times*, 21 August 1986, 2. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); May Ho, “[Like a Street Corner in Haadyai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.2),” *Straits Times*, 21 August 1986, 2. (From NewspaperSG)
 
 [^20]: Lito Gutierrez and Wong Kwai Chow, “[Little Bangkok at the Golden Mile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850106-1.2.9.8),” *Straits Times*, 6 January 1985, 3. (From NewspaperSG); Ho, “[Where Thais Meet and Watch the World Go By](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860821-1.2.60.4.1).”
 
-[^21]: Annie Low, “Business at Its Sunday Best,” *Straits Times*, 25 April 1988, 11. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); “[Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880302-1.2.15.7)” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 *Lianhe Zaobao*, 2 March 1988, 9; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/timeszone19900215-1.2.15.1),” *Timezone Central*, 15 February 1990, 6. (From NewspaperSG)
+[^21]: Annie Low, “Business at Its Sunday Best,” *Straits Times*, 25 April 1988, 11. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); “[Ba di ya wuting yezonghui kaimu zhi qing youdai jia bin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880302-1.2.15.7)” 芭堤雅舞厅夜总会开幕志庆优待嘉宾 [Pattaya ballroom nightclub opening celebration with special guests], 联合晚报 *Lianhe Zaobao*, 2 March 1988, 9; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/timeszone19900215-1.2.15.1),” *Timeszone Central*, 15 February 1990, 6. (From NewspaperSG)
 
 [^22]: Luo Guowei 罗国威, “[Hehe dasha nei xiao xiyuan zhuan fang taiyu pian](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19900826-1.2.13.19)” 和合大厦内小戏院专放泰语片 [The small theatre in Woh Hup Complex exclusively screens Thai-language films], 联合晚报 *Lianhe Zaobao*, 26 August 1990, 7; “[B-Grade Heaven at Beach Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900916-1.2.51.21.4),” *Straits Times*, 16 September 1990, 15. (From NewspaperSG)
 

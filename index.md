@@ -18,6 +18,15 @@ sections:
       background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
         img.jpg
   - infopic:
+      title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
+      subtitle: Culture
+      description: Unique greeting cards collected by a giant in the Malay literary
+        scene. (From the National Library’s Blog on Medium).
+      button: Hari Raya greeting cards
+      url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
+      alt: Greeting Card
+      image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
       title: Restoring Classic Singaporean Films
       subtitle: Film and Photography
       description: "<i>Money No Enough, Forever Fever</i> and <i>The Teenage Textbook
@@ -461,14 +470,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: "The Guitar Man: Alex Abisheganaden"
-      subtitle: People
-      description: Cultural Medallion recipient Alex Abisheganaden died on 17 March
-        2023. In his memory, we are republishing this essay on him from 2017,
-        which has been updated.
-      button: FATHER OF THE GUITAR
-      url: /vol-13/issue-1/apr-jun-2017/guitar-man
-      image: /images/Vol-13-issue-1/the-guitar-man/alex and boy (from nac).jpg
-      alt: Image alt text
 ---
