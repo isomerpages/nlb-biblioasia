@@ -27,8 +27,8 @@ This edition of the Qur’an in the National Library is unique because it is one
 modified Arabic script), along with the address of the printer –Lorong Masjid Sultan Ali Iskandar – in the Kampong Gelam area, is indicated in the colophon or publisher’s imprint, at the end of the book. In addition, the colophon also contains the name of 
 the printer (Haji Muhammad Nuh bin Haji Ismail) and the copyist (Tengku Yusof bin Tengku Ibrahim).
 
-Pre-20th-century Southeast Asian Qur’ans, whether handwritten or printed, are generally scarce because the region’s tropi cal climate is not conducive tothe preserva tion of paper-based materials. Colophons especially, if they are even included in the book, do not often survive as they undergo much wear and tear due to their placement at the front or end pages. This rare copy 
-of the Qur’an is a product of the pioneer ing phase (1860–80) of Muslim[^1] publishing in Singapore.
+Pre-20th-century Southeast Asian Qur’ans, whether handwritten or printed, are generally scarce because the region’s tropical climate is not conducive to the preservation of paper-based materials. Colophons especially, if they are even included in the book, do not often survive as they undergo much wear and tear due to their placement at the front or end pages. This rare copy 
+of the Qur’an is a product of the pioneering phase (1860–80) of Muslim[^1] publishing in Singapore.
 
 The book begins with instructions on *tajwid* (rules on the recitation of the Qur’an) before the Qur’anic text begins. It contains three decorated double-spread pages in the beginning, middle and end. The designs found on the double-spreads at the beginning and the end are exactly the same, although they been coloured differently. On closer inspection, the blue, green, yellow (likely imitating gold) and red inks have been applied rather clumsily. In terms of design, this Qu’ran is reminiscent 
 of the highly prized and ornate manuscript Qur’ans produced in Terengganu,[^2] in the east coast of the Malay Peninsula.
