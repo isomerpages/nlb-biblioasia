@@ -5,7 +5,7 @@ description: Lee Kong Chian Research Fellow Chiam Ching Leen shares her
   findings, insights, and thoughts on the nature of knowledge sharing in
   post-secondary institutions in Singapore.
 ---
-#### Lee Kong Chian Research Fellow _Chiam Ching Leen_ shares her findings, insights, and thoughts on the nature of knowledge sharing in post-secondary institutions in Singapore.
+#### Lee Kong Chian Research Fellow&nbsp;_Chiam Ching Leen_&nbsp;shares her findings, insights, and thoughts on the nature of knowledge sharing in post-secondary institutions in Singapore.
 
 #### **Contextual Background**
 
@@ -17,7 +17,7 @@ There are at least three reasons reinforcing the need for such a study in Singap
 
 First, the changing demographic of the teaching workforce, in which a large pool of Singapore’s most experienced teachers will retire in the next five years (Ministry of Education Singapore, 2005) highlights the need to make available the knowledge which is the legacy of these experienced teachers.
 
-Second, there are clear indicators that regional countries have closed the gap with Singapore in terms of knowledge competitiveness (Bhaskaran, Khanna, & Giap, 2003, Huggins, Izushi & Davies, 2005). Singapore cannot afford to remain indifferent to such competition as the small nation has limited natural resources and that makes her vulnerable to world economic competition. Besides, there are stronger reasons for educational institutions in Singapore to promote knowledge sharing to remain competitive. The prospects of knowledge sharing in improving knowledge capacity, capability and competency seem much more possible in Singapore than elsewhere due to her “extra-educational” contexts and conditions, “because of scale of the system, because of concerted government and private sector and community commitment to education, because of synergies between ministries and sectors of the community” (Luke, 2003, p. 2).
+Second, there are clear indicators that regional countries have closed the gap with Singapore in terms of knowledge competitiveness (Bhaskaran, Khanna, &amp; Giap, 2003, Huggins, Izushi &amp; Davies, 2005). Singapore cannot afford to remain indifferent to such competition as the small nation has limited natural resources and that makes her vulnerable to world economic competition. Besides, there are stronger reasons for educational institutions in Singapore to promote knowledge sharing to remain competitive. The prospects of knowledge sharing in improving knowledge capacity, capability and competency seem much more possible in Singapore than elsewhere due to her “extra-educational” contexts and conditions, “because of scale of the system, because of concerted government and private sector and community commitment to education, because of synergies between ministries and sectors of the community” (Luke, 2003, p. 2).
 
 Third, an examination of published articles retrieved from relevant databases1 shows that no multi-institutional studies on knowledge sharing at the post-secondary (pre-university) have been undertaken.
 
@@ -88,4 +88,16 @@ As the insights gained showed that knowledge sharing is effectively a complex so
 #### **Conclusion**
 In this paper, I have attempted to present my rendering of the nature of knowledge sharing, grounded in the accounts of academic staff and students from three selected public post-secondary institutions in Singapore. Documenting the thoughts of these participants provides a window into the complex social negotiations in operation in knowledge sharing practices in Singapore’s educational institutions. The insights found from these participants’ account from differing institutional types provide a good staging ground of the influences on using student assessment in promoting/constraining knowledge sharing practices in their institutions. The insights from the study also provide a first small step towards understanding why knowledge sharing works for some educational institutional types, but not for others. This could be useful in informing curriculum designers, planners and developers about the crucial enactment aspects of the curriculum and its relations to knowledge sharing practices. The challenge then is in creating educational institutions context that are capable of optimally structuring the knowledge flow so that development from knowledge sharing can occur.
 
-***The author wishes to acknowledge the contributions of Dr Jeanette Bopry in reviewing the paper, and Koh Kok Tin, a freelance editor, for editing the paper***.
+***The author wishes to acknowledge the contributions of Dr Jeanette Bopry in 
+reviewing the paper, and Koh Kok Tin, a freelance editor, for editing the paper***.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/chiam%20ching%20leen.jpg">
+<center><b>Chiam Ching Leen</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
+
+
+
+
+
