@@ -8,6 +8,10 @@ image: /images/Vol 5 Issue 2/Deng Xiaopeng/leekuanyew3.jpg
 ---
 #### Senior Library&nbsp;_Vicky Gao_&nbsp;highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.
 
+<img src="/images/Vol%205%20Issue%202/Deng%20Xiaopeng/leekuanyew3.jpg" style="width:80%;">
+ <div style="background-color: white;"><i>1978年11月， 中国副总理邓小平莅临新加坡访问， 李光耀总理亲自到巴耶利峇机场迎接。 资料来源: 《庆祝新加坡-中国建交十周年纪念特刊》 版权所有: 新加坡新中友好协会, 中国中新友好协会, 2000.</i></div>
+
+
 #### **前言**
 
 不同的时期, 中国领导人对于新加坡经验和新加坡模式有 不同的侧重点。 从1978年邓小平访问新加坡, 标志着中 国领导层与新加坡交流取经的开始, 1992年邓小平南巡提 到的借鉴新加坡管理经验, 到江泽民、 胡锦涛接任后所 关注的廉洁高效的行政管理体制和城市建设等课题, 多 年来, 新加坡经验备受中国关注, 大批的中高级官员源 源不断地被派到新加坡考察、 学习和培训。
