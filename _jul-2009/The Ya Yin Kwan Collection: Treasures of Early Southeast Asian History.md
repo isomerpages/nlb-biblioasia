@@ -68,7 +68,7 @@ Researchers interested in this collection can also request for a copy of the *Ca
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/sea%20studies%201%201.jpg"><i>Handbook of the Netherlands East-Indies, 1920 All rights reserved, Netherlands East Indies. Dept. of Agriculture, Industry and Commerce, 1920–1930.<i><br><br>
 
-<img style="width:50%;" src="images/Vol%205%20Issue%202/YaYinKwan/sea%20studies%202%201.jpg"><i>Malaya: Economic and Commercial Conditions in the Federation of Malaya and Singapore, March 1951 All rights reserved, H.M.S.O, 1952.</i></i></i></i></div><i><i>
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/sea%20studies%202%201.jpg"><i>Malaya: Economic and Commercial Conditions in the Federation of Malaya and Singapore, March 1951 All rights reserved, H.M.S.O, 1952.</i></i></i></i></div><i><i>
 
 <br>
 <div style="background-color: white;">
