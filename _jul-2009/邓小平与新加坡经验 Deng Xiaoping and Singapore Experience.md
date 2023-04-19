@@ -36,18 +36,13 @@ image: /images/Vol 5 Issue 2/Deng Xiaopeng/leekuanyew3.jpg
 
 #### **结束语**
 
-读者若想进一步了解当代中国在社会、 经济、 政治、 文化等方面的发展, 可 到位于李光前参考图书馆九楼的中文资 料馆藏部参阅最新出版的参考书及期 刊。 为了方便读者,新加坡国家图书馆也 提供中文参考咨询服务,协助读者检索各 类中文资料。 有兴趣的读者,可将问题电 邮到 a href="https://reference.nlb.gov.sg/"&gt;https://reference.nlb.gov.sg/. 或发送手机简讯 到 91787792。
+读者若想进一步了解当代中国在社会、 经济、 政治、 文化等方面的发展, 可 到位于李光前参考图书馆九楼的中文资 料馆藏部参阅最新出版的参考书及期 刊。 为了方便读者,新加坡国家图书馆也 提供中文参考咨询服务,协助读者检索各 类中文资料。 有兴趣的读者,可将问题电 邮到 <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>. 或发送手机简讯 到 91787792。
 
 #### **Summary**
 
-Many library patrons have expressed interest in obtaining information concerning Deng Xiaoping and his visit to Singapore in 1978. This article seeks to address this by highlighting some of the books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection. For further enquiries, please email Reference Point at a href="https://reference.nlb.gov.sg/"&gt;https://reference.nlb.gov.sg/ or send an SMS to 91787792. Reference Point is a remote reference enquiry service provided by the National Library Singapore.
+Many library patrons have expressed interest in obtaining information concerning Deng Xiaoping and his visit to Singapore in 1978. This article seeks to address this by highlighting some of the books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection. For further enquiries, please email Reference Point at <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a> or send an SMS to 91787792. Reference Point is a remote reference enquiry service provided by the National Library Singapore.
 <br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Vicky%20Gao.jpg">
 <center><b>Vicky Gao</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
-
-
-
-
-
