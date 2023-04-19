@@ -59,11 +59,8 @@ Many library patrons have expressed interest in obtaining information concerning
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>CHINESE COLLECTION OF BOOKS AND RESOURCES ON CHINESE LEADER DENG XIAO PING</b><br><br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/Deng%20Xiaopeng/deng%20xiao%20pin014%201.jpg"><i>版权所有: 中国言实出版社, 1998.</i><br><br>
-
-
-</div>
-<br><br>
-
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/Deng%20Xiaopeng/dengxiaopeng1.jpg"><i>版权所有: 中共中央党史研究室第三 研究部, 2005.</i><br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/Deng%20Xiaopeng/dang%20he%20guo%20jia%201.jpg"><i>版权所有: 红旗出版社, 1998.</i></div>
 
 <br>
 <div style="background-color: white;">
