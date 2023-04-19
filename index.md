@@ -18,6 +18,14 @@ sections:
       background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
         img.jpg
   - infopic:
+      title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
+      subtitle: Culture
+      description: Unique greeting cards collected by a giant in the Malay literary scene.
+      button: Hari Raya greeting cards
+      url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
+      alt: Greeting Card
+      image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
       title: Restoring Classic Singaporean Films
       subtitle: Film and Photography
       description: "<i>Money No Enough, Forever Fever</i> and <i>The Teenage Textbook
@@ -461,12 +469,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
-      subtitle: Culture
-      description: Unique greeting cards collected by a giant in the Malay literary scene.
-      button: Hari Raya greeting cards
-      url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
-      alt: Greeting Card
-      image: /images/Hari Raya Cards/hari raya greeting card.jpg
 ---
