@@ -25,5 +25,8 @@ description: With the en bloc sale of Golden Mile Complex in 2021, the tenants
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/ads%20in%20thai.jpg)
 <div style="background-color: white;">Ads in Thai above an eatery, 2022.</div>
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/ads%20in%20thai.jpg)
-<div style="background-color: white;">Ads in Thai above an eatery, 2022.</div>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/street%20food.jpg)
+<div style="background-color: white;">Street food freshly made just inside the entrance of the Thai supermarket, 2022.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/street%20food.jpg)
+<div style="background-color: white;">Street food freshly made just inside the entrance of the Thai supermarket, 2022.</div>
