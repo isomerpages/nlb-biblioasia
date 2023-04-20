@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "Saving a Landmark But Losing a Community: Golden Mile Complex.md"
       - "Local Music Reaches a Crescendo: The Singapore Record Industry in the
         1960s.md"
       - Test page.md
