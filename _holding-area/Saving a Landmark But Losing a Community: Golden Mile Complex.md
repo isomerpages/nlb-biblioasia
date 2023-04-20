@@ -9,3 +9,21 @@ description: With the en bloc sale of Golden Mile Complex in 2021, the tenants
 #### With the en bloc sale of Golden Mile Complex in 2021, the tenants of the shopping centre have had to vacate the place by May 2023. These photos by Jimmy Yap capture the final months of what has come to be known as Little Thailand.
 
 (To read the essay on Golden Mile Complex, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex/).)
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201.jpg)
+<div style="background-color: white;">From Nicoll Highway, Golden Mile Complex, with its unique stepped terraced design, resembles a giant typewriter, 2023.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/from%20beach%20road.jpg)
+<div style="background-color: white;">From Beach Road however, Golden Mile Complex looks a little different, 2022.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/portholes.jpg)
+<div style="background-color: white;">The distinctive portholes on the front of Golden Mile Complex, 2022.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/ground%20floor%20atrium.jpg)
+<div style="background-color: white;">The ground floor atrium, 2022.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/ads%20in%20thai.jpg)
+<div style="background-color: white;">Ads in Thai above an eatery, 2022.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/ads%20in%20thai.jpg)
+<div style="background-color: white;">Ads in Thai above an eatery, 2022.</div>
