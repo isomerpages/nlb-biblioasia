@@ -34,3 +34,6 @@ description: With the en bloc sale of Golden Mile Complex in 2021, the tenants
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/hairdressing.jpg)
 <div style="background-color: white;">A hairdressing salon aimed at Thai customers, 2022.</div>
 
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/people%20waiting.jpg)
+<div style="background-color: white;">People waiting for coaches to take them to destinations in Malaysia, 2022.</div>
+
