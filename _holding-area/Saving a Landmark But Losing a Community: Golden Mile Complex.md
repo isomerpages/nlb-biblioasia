@@ -39,3 +39,7 @@ description: With the en bloc sale of Golden Mile Complex in 2021, the tenants
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/a%20close%20up.jpg)
 <div style="background-color: white;">A close-up of the Four-Faced Buddha shrine, 2022.</div>
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%201.jpg)<br>
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%202.jpg)
+<div style="background-color: white;">Animal statues stand guard in front of the Four-Faced Buddha shrine, 2022.</div>
