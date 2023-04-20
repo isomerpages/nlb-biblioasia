@@ -36,7 +36,7 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 <div style="background-color: white;">A hairdressing salon aimed at Thai customers, 2022.</div>
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/people%20waiting.jpg)
-<div style="background-color: white;">People waiting for coaches to take them to destinations in Malaysia, 2022.</div>
+<div style="background-color: white;">People waiting for coaches to take them across the border, mainly to different destinations in Malaysia, but also southern Thailand as well, 2022.</div>
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/a%20close%20up.jpg)
 <div style="background-color: white;">A close-up of the Four-Faced Buddha shrine, 2022.</div>
