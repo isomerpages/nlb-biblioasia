@@ -161,7 +161,7 @@ This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record
 
 [^11]: “The Early Bird Show,” [*Radio Weekly*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 24 July 1967, 3. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
 
-[^12]: *Getai* are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “[Getai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html),” in Singapore *Infopedia*. National Library Board Singapore. Article published 25 February 2015.
+[^12]: *Getai* are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “[Getai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 25 February 2015.
 
 [^13]: The author estimates that there were over 1,500 singers or bands who recorded in Singapore during the 1960s. Some of these were artistes from Malaysia and Indonesia who came here to record and were not residents (although many took the opportunity to perform publicly while they were here).
 
