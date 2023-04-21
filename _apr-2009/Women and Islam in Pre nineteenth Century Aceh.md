@@ -24,7 +24,7 @@ These ‘waves’ of Islamic adoption, reformism, and renewal had profound conse
 
 #### **Patterns in the Adoption of Islam and Their Consequences to Gender Relations**
 
-Following the patterns of intensification and weakening of Islamic influence in Aceh, it is not surprising to encounter observations like those made by Francois Martin, who wrote in 1602 of women who could walk about openly with breasts exposed, or had ears adorned, heads uncovered, and who were even able to bathe naked in the river without fear of being accosted. Adultery received a high penalty — execution or the cutting off of body parts. By 1621, Augustin de Beaulieu noted that caning, a ubiquitous Islamic practice, was also a popular way to administer punishment (Reid (Ed.), 1995, pp. 57–60 & 66–67). Yet, Martin also recorded that sexual promiscuity appeared to have been acceptable in the early 17th century (Reid (Ed.) 1995, p. 58). This was corroborated in the 19th century by Hurgronje, who, even while stressing the social importance of a bride’s virginity before marriage, also noted that there existed “comparative freedom of intercourse between the sexes in Aceh” (1906, pp. 328–346).
+Following the patterns of intensification and weakening of Islamic influence in Aceh, it is not surprising to encounter observations like those made by Francois Martin, who wrote in 1602 of women who could walk about openly with breasts exposed, or had ears adorned, heads uncovered, and who were even able to bathe naked in the river without fear of being accosted. Adultery received a high penalty — execution or the cutting off of body parts. By 1621, Augustin de Beaulieu noted that caning, a ubiquitous Islamic practice, was also a popular way to administer punishment (Reid (Ed.), 1995, pp. 57–60 &amp; 66–67). Yet, Martin also recorded that sexual promiscuity appeared to have been acceptable in the early 17th century (Reid (Ed.) 1995, p. 58). This was corroborated in the 19th century by Hurgronje, who, even while stressing the social importance of a bride’s virginity before marriage, also noted that there existed “comparative freedom of intercourse between the sexes in Aceh” (1906, pp. 328–346).
 
 The early to mid-17th century was characterised by behaviours that may not have been acceptable to a more legalistic and scriptural interpretation of Islam. There prevailed a relatively permissive environment where ‘hermaphrodites’ abounded and prostitution was tolerated. The king of Aceh could keep more than 300 concubines, and women could literally venture into the masculine ‘outside’ world of commerce and trade. This kind of behaviour was not condoned among the elite classes, however, as notions of morality in their circles would certainly have been much higher.
 
@@ -74,7 +74,137 @@ Islam is shown to have flourished in Aceh’s urban areas. Thus, it is not surpr
 
 ***The author wishes to acknowledge the contributions of Professor Anthony Reid, Asia Research Institute, National University of Singapore in reviewing the paper***.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/ma%20theresa%20milallos1.jpg">
+<center> <b>Ma. Theresa R. Milallos</b><br>Lee Kong Chian Research Fellow<br> National Library</center> </div>
 
+#### **REFERENCES**
+    
+[_Adat Atjeeh: Reproduced in Facsimile From a Manuscript in the India Office Library_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5992) (‘s-Gravenhage, Martinus Nijhoff, 1958). (Call no. RCLOS 991 VITLV)
+
+A. H. Johns, “Islam in Southeast Asia: Problems of Perspective,” in [_Southeast Asian history and historiography, essays presented to D.G.E. Hall_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=740409), ed. C. D. Cowan and O. W. Wolters (Ithaca: Cornell University Press, 1976), 304–20. (Call no. RSEA 959 SOU)
+
+Aihwa Ong and Michael G. Peletz, eds., “Introduction,” in [_Bewitching Women, Pious Men: Gender and Body Politics in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7185551) (Berkeley: University of California Press, 1995), 1–18. (Call no. RSING 305.30959 BEW)
+
+Amirul Hadi, [_Islam and State in Sumatra: A Study of Seventeenth-Century Aceh_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12279655) (Leiden: Bill, 2004). (Call no. RSEA 322.1095981 HAD)
+
+Anthony Reid, “Female Roles in Pre-Colonial Southeast Asia,” _Modern Asian Studies_ 22, no. 3 (1988), 629–45. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+Anthony Reid, ed., “Islamization and Christianization in Southeast Asia: The Critical Phase, 1550–1650,” in _[Southeast Asia in the Early Modern Era: Trade, Power, and Belief](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6561835)_ (Ithaca: Cornell University Press, 1993), 151–79. (Call no. RSING 959 SOU)
+
+Anthony Reid, _[Southeast Asia in the Age of Commerce 1450–1680, vol. two: Expansion and Crisis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4305251)_ (New Haven: Yale University Press, 1993). (Call no. RSEA 959 REI)
+
+Anthony Reid, ed., _[Witnesses to Sumatra: A Travellers’ Anthology](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7066752)_ (Kuala Lumpur: Oxford University Press, 1995). (Call no. RSEA 915.998104 WIT-\[TRA\]
+
+Anthony Reid, _[Charting the Shape of Modern Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655872)_ (Singapore: Institute of Southeast Asian Studies, 2000). (Call no. RSEA 959 REI)
+
+Anthony Reid, _[An Indonesian Frontier: Acehnese and Other Histories of Sumatra](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12479666)_ (Singapore: Singapore University Press, 2005). (Call no. RSEA 959.81 REI)
+
+Anthony Reid, ed., “Introduction,” in [_Verandah of Violence: The Background to the Aceh Problem_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714223) (Singapore: Singapore University Press, 2006), 1–21. (Call no. RSING 959.81 VER)
+
+Anthony Reid, ed., “The Pre-Modern Sultanate’s View of Its Place in the World,” in [_Verandah of Violence: The Background to the Aceh Problem_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714223) (Singapore: Singapore University Press, 2006), 52–71. (Call no. RSING 959.81 VER)
+
+Anthony Reid, “Introduction,” in _[Islamic Legitimacy in a Plural Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12970086)_, ed. Anthony Reid and Michael Gilsenan (London: Routledge, 2007), 1–13. (Call no. R 297.272095 ISL)
+
+Anzib Lamnyong, “Seri Informasi Aceh Th v No. 2. Dari Satu Manuscript India Office Library,” _Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde_, 24 (1981)
+
+Ayse Saktanber, _Living Islam: Women, Religion and the Politicization of Culture in Turkey_ (London: IB Tauris Publishers, 2002)
+
+Azyumardi Azra, [_The Origins of Islamic Reformism in Southeast Asia: Networks of Malay-Indonesian and Middle Eastern ‘Ulama’ in the Seventeenth and Eighteenth Centuries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12112567) (NSW: Asian Studies Association of Australia in association with Allen &amp; Unwin and University of Hawaii Press, 2004). (Call no. RSEA 297.60959 AZR)
+
+Barbara Watson Andaya, “Delineating Female Space: Seclusion and the State in Pre-Modern Island Southeast Asia,” in [_Other Pasts: Women, Gender and History in Early Modern Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10309885) (Honolulu: Center for Southeast Asian Studies, 2000), 231–53. (Call no. RUR 305.420959 OTH)
+
+Barbara Watson Andaya, [_The Flaming Womb: Repositioning Women in Early Modern Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830145) (Honolulu: University of Hawai’i Press, 2006). (Call no. RSEA 305.409590903 AND)
+
+Denys Lombard, [_Kerajaan Aceh: Jaman Sultan Iskandar Muda (1607–1636)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9717028), trans. Winarsih Arifin (Jakarta: Balai Pustaka, 1991). (Call no. RSEA 958.8021 LOM)
+
+Edriana Noerdin, “Customary Institutions, Syariah Law and the Marginalization of Indonesian Women,” in [_Women in Indonesia: Gender, Equity and Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11038385), ed. Kathryn Robinson and Sharon Bessell (Singapore: Institute of Southeast Asian Studies, 2002), 179–86. (Call no. RSING 305.4209598 WOM)
+
+Edwards E. McKinnon, “Indian and Indonesian Elements in Early North Sumatra,” in [_Verandah of Violence: The Background to the Aceh Problem_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714223), ed. Anthony Reid (Singapore: Singapore University Press, 2006), 22–37. (Call no. RSING 959.81 VER)
+
+Fatima Mernissi, [_The Forgotten Queens of Islam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7586454), trans. Mary Jo Lakeland (Cambridge: Polity Press, 1993) (Original work published 1990) (Call no. RUR 920.00917671 MER)
+
+George Coedes, [_The Indianized States of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=678446), trans. Susan Brown Cowing (Honolulu: University of Hawaii Press, 1968). (Call no. RSING 959 COE)
+
+Giovanni Francesco Gemelli Careri, “A Voyage Round the World,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 12, no. 2 (119) (August 1934), 94–107. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+H. M. Zainuddin, _Srikandi Atjeh_ (Medan: Pustaka Iskandar Muda, 1966)
+
+Jacqueline Aquino Siapno, _[Gender, Islam, Nationalism and the State in Aceh: The Paradox of Power, Co-Optation and Resistance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10264457)_ (London: RoutledgeCurzon, 2002). (Call no. RUR 305.40958 SIA)
+
+James T. Siegel, _[The Rope of God](https://eservice.nlb.gov.sg/item_holding.aspx?bid=34747)_ (Berkeley: University of California Press, 1969). (Call no. RUR SEA 301.2095981 SIE)
+
+John Davys, “[_The Voyages and Works of John Davis, the Navigator_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=555783),” (New York: Burt Franklin, 1970). (Call no. R 910.45 DAV)
+
+Kamala Chandrakirana and Chuzaifah Yuniyanti, “The Battle Over a “New” Indonesia: Religious Extremism, Democratization and Women’s Agency in a Plural Society,” in [_Muslim Women and the Challenge of Islamic Extremism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12760180), ed. Norani Othman (Kuala Lumpur: Sisters in Islam, 2005), 49–77. (Call no. RSING 305.48697 MUS)
+
+Kenneth Hall, “Economic History of Early Southeast Asia,” in [_The Cambridge History of Southeast Asia, vol. 1: From Early Times to c. 1800_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6019745), ed. Nicholas Tarling (Cambridge: Cambridge University Press, 1992), 183–272. (Call no. RSING 959 CAM)
+
+Khalid Hussain, [_Taj Us-Salatin_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4508702) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1966). (Call no. Malay RCLOS 899.2302 TAJ)
+
+Liaw Yock Fang, [_Undang-Undang Melaka: The Laws of Melaka_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=872059) (The Hague: M. Nijhoff, 1976). (Call no. RCLOS 340.09595141 LIA)
+
+Linda Rae Bennett, [_Women, Islam and Modernity: Single Women, Sexuality and Reproductive Health in Contemporary Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12511795) (London: Routledge Curzon, 2005). (Call no. RSEA 305.4869709598 BEN)
+
+Lugina Setyawati, “Adat, Islam and Womanhood in the Reconstruction of Riau Malay Identity,” in _[Indonesian Islam in a New Era: How Women Negotiate Their Muslim Identities](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13031533)_, ed. Susan Blackburn, Bianca J. Smith and Siti Syamsiyatun (Clayton: Monash University Press, 2008), 69–93. (Call no. RSEA 305.4869709598 IN)
+
+Ma Huan and Ying-Yai Sheng-Lan, [_The Overall Survey of the Ocean’s Shores \[1433\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=52279), trans. Feng Chʻeng-Chun (Cambridge: Published for the Hakluyt Society at the University Press, 1970). (Call no. RCLOS 910.8 HAK)
+
+Ma. Theresa R. Milallos, “Muslim Veil As Politics: Political Autonomy, Women and Syariah Islam in Aceh,” _Contemporary Islam_ 1, no. 3 (December 2007)
+
+Masdar F. Masʼudi, [_Islam and Women’s Reproductive Rights_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12842958) (Malaysia: Sisters in Islam, 1970). (Call no. RSEA 305.48697 MAS)
+
+Michael G. Peletz, [_Reason and Passion: Representations of Gender in a Malay Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7394500) (Berkeley: University of California Press, 1996). (Call no. RSEA 305.3095951 PEL)
+
+Moehammad Hoesin, [_Adat Atjeh_](https://www.jstor.org/stable/41559513?seq=24) (Banda Atjeh: Dinas Pendidikan dan Kebudajaan Propinsi Daerah Istimewa Atjeh, 1970). (Call no. RUR 390.095981 HOE)
+
+Nik Noriani Nik Badlishsh, ed., [_Islamic Family Law and Justice for Muslim Women_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12149554) (Kuala Lumpur: Sisters in Islam, 2003). (Call no. RSEA 346.0150917671 ISL)
+
+Noor Aisha Abdul Rahman, [_Colonial Image of Malay Adat Laws: A Critical Appraisal of Studies on Adat Laws in the Malay Peninsula During the Colonial Era and Some Continuities_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873610) (Leiden: Brill, 2006). (Call no. RSEA 340.52595 NOO)
+
+Norani Othman, ed. [_Muslim Women and the Challenges of Islamic Extremism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12760180) (Kuala Lumpur: Sisters in Islam, 2005). (Call no. RSING 305.48697 MUS)
+
+Nur al-din al-Raniri, [_Bustanu’s-Salatin, Bab II, Fasal 13_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4124367) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1966). (Call no. Malay RSEA 992.1 NUR)
+
+P.A. Leupe, [_The Siege and Capture of Malacca From the Portuguese in 1640–1641: Extracts From the Archives of the Dutch East India Company_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7359212), trans. Mac Hacobian (Singapore: Printers Limited, 1936), 128–429. (Call no. RCLOS 959.5118 LEU; microfilm NL1578)
+
+Patricio Cuevas, [_Still Standing Tall: Addressing Gender Issues in Banda Aceh_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12796484) (Banda Aceh: World Vision Indonesia Tsunami Response, 2006). (Call no. RSING 305.42095981 CUE)
+
+Peter Riddell, “Aceh in the Sixteenth and Seventeenth Centuries: ’Serambi Mekkah” and Identity,” in [_Verandah of Violence: The Background to the Aceh Problem_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714223), ed. Anthony Reid (Singapore: Singapore University Press, 2006), 38–51. (Call no. RSING 959.81 VER)
+
+Raden Hoesein Djajadiningrat, [_Kesultanan Aceh: (Suatu Pembahasan Atas Bahan-Bahan Yang Tertera Dalam Karya Melayu Tentang Sejarah Kesultanan Aceh)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4124743), trans. Teuku Hamild (Banda Aceh: Proyek Rehabilitisi dan Perluasan Museum Daerah Istimewa Aceh, 1979). (Call no. RUR RSEA 959.801 DJA)
+
+Richard Winstedt and Y. A. Talib, ed., _[A History of Classical Malay Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6325253)_ (Kuala Lumpur: Malayan Branch of the Royal Asiatic Society., 1989). (Call no. RSEA 899.2302 WIN)
+
+S. White, “Gender and the Family,” in _[Voices of Islam in Southeast Asia: A Contemporary Sourcebook](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12736410)_, ed. Greg Fealy and Virginia Hooker (Singapore: Institute of Southeast Asian Studies, 2006), 273–74. (Call no. RSING 297.0959 VOI)
+
+Shelly Errington, “Recasting Sex, Gender and Power: A Theoretical and Regional Overview,” in [_Power and Difference: Gender in Island Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5425106), ed. Jane Monnig Atkinson and Shelly Errington (Stanford, CA: Stanford University Press, 1990), 1–58. (Call no. RSING 305.30959 POW)
+
+Snouck Hurgronje C., [_The Achehnese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4384750), trans. A.W.S. O'Sullivan, 1 (Holland: E.J. Brill, 1906). (Call no.: RCLOS 959.81 SNO)
+
+Susan Blackburn, “Introduction,” in [_Indonesian Islam in a New Era: How Women Negotiate Their Muslim Identities_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13031533), ed. Susan Blackburn, Bianca J. Smith and Siti Syamsiyatun (Clayton: Monash Asia Institute Press, 2008), 1–21. (Call no. RSEA 305.4869709598 IND)
+
+Syafiq Hasyim, [_Understanding Women in Islam: An Indonesian Perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12730157) (International Center for Islam and Pluralism, 2006). (Call no. RSEA 305.409598 HAS)
+
+Tabitha Frith, [_Constructing Malay Muslim Womanhood in Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11675459) (Australia: Centre of Southeast Asian Studies, 2002). (Call no. RSEA 305.486971 FRI)
+
+Takeshi Ito, “Why Did Nuruddin Ar-Raniri Leave Aceh in 1054 A.H?” _Bijdragen tot deTaal-, Land-en Volkenkunde_ 134, no. 4 (1978), 489–91. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+Teuku Iskandar, [_Hikayat Aceh_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12220599) (Kuala Lumpur: Yayasan Karyawan, 2001). (Call no. Malay R 959.81 ISK)
+
+_[The Ship of Sulaiman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4134437)_, trans. John O'Kane (London: Routledge, 1972). (Call no. RSEA 959.302 SHI)
+
+Thomas Bowrey and Richard Carnac Temple, eds., [_A Geographical Account of Countries Round the Bay of Bengal, 1669 to 1679_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202643254) (Cambridge: Printed for the Hakluyt Society, 1905). (Call no. RRARE 915.4 BOW; accession no. B29265182B)
+
+Tome Pires, [_The Suma Oriental of Tome Pires and the Book of Francisco Rodrigues, Rutter of a Voyage in the Red Sea, Nautical Rules, Almanack and Maps, Written and Drawn in the East Before 1515_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2818205). Translated From the Portuguese Ms in the Bibliothèque de la Chambre Des Députés, Paris, and Edited by Armando Cortesão (London, Hakluyt Society, 1944). (Call no. RRARE 910.8 HAK; microfilm NL14208 (vol. 1); NL26012 (vol. 2))
+
+Wazir Jahan Karim, _[Women and Culture: Between Malay Adat and Islam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6251187)_ (Colo: Westview Press, 1992). (Call no. RSEA 305.309595 WAZ)
+
+William Foster, [_The Voyages of Sir James Lancaster to Brazil and the East Indies, 1591– 1603_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2779677) (London: Printed for the Hakluyt Society, 1940). (Call no. RCLOS 910.8 HAK–\[RFL\])
+
+#### **NOTES**
 
 
 
