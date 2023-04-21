@@ -30,8 +30,8 @@ There is so much riding on the need for knowledge sharing and that variations ar
 
 This study begins with the effort in investigating and documenting portrayals of academic staff’ and students’ accounts of knowledge sharing experience at three public post-secondary institutions. The institutions were purposively selected to represent the three areas of Singapore’s public post-secondary educational processes (i.e., the public polytechnic, junior college and vocational school level). Readers may refer to Table 1 for a summary of the three researchsettings information. As the three post-secondary institutions cater to different groups of students and employ different educational strategies, it seems logical to expect that their requirements for knowledge will differ and so will their practices in sharing knowledge.
 
-<img src="/images/Vol%205%20Issue%201/table%201_summary.JPG" style="width:80%;">
- <div style="background-color: white;"></div>
+<img src="/images/Vol%205%20Issue%201/KnowledgeSharing/table%201_summary%201.jpg" style="width:100%;"><div style="background-color: white;"></div>
+
 
 Since the focus is to obtain an understanding about the nature of knowledge sharing processes itself, as it is instantiated at three selected post-secondary institutions, case studies were deemed most appropriate (Yin, 1994, 2003), with the premise that knowledge sharing practice (a human affair that is tied to human behaviour) is a “complex instance,” multi-dimensional and open-ended, often typified by multiple perspectives and competing judgments. Besides, underlying this is the recognition that human behaviours cannot be meaningfully understood simply as rule-governed acts; and that concrete, context-dependent knowledge is more valuable than the vain search for predictive theories and universals (Cziko, April 1989; Flyvbjerg, 2006).
 
