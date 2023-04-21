@@ -38,12 +38,12 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/people%20waiting.jpg">
 <div style="background-color: white;">People waiting for coaches to take them across the border, mainly to different destinations in Malaysia, but also southern Thailand as well, 2022.</div><br>
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/a%20close%20up.jpg)
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/a%20close%20up.jpg">
 <div style="background-color: white;">A close-up of the Four-Faced Buddha shrine, 2022.</div><br>
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%201.jpg)<br>
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%202.jpg)
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%201.jpg"><br>
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%202.jpg">
 <div style="background-color: white;">Animal statues stand guard in front of the Four-Faced Buddha shrine, 2022.</div><br>
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/the%20last%20tenant.jpg)
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/the%20last%20tenant.jpg">
 <div style="background-color: white;">The last tenants of Golden Mile Complex, 2022.</div>
