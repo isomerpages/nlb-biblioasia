@@ -11,7 +11,7 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 
 (To read the essay on Golden Mile Complex, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex/).)
 
-![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201%2080pct.jpg)
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201.jpg">
 <div style="background-color: white;">From Nicoll Highway, Golden Mile Complex, with its unique stepped terraced design, resembles a giant typewriter, 2023.</div>
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/from%20beach%20road.jpg)
