@@ -33,7 +33,6 @@ This study begins with the effort in investigating and documenting portrayals of
 <img src="/images/Vol%205%20Issue%201/KnowledgeSharing/capture1.jpg" style="width:80%;">
  <div style="background-color: white;"></div>
 
-
 Since the focus is to obtain an understanding about the nature of knowledge sharing processes itself, as it is instantiated at three selected post-secondary institutions, case studies were deemed most appropriate (Yin, 1994, 2003), with the premise that knowledge sharing practice (a human affair that is tied to human behaviour) is a “complex instance,” multi-dimensional and open-ended, often typified by multiple perspectives and competing judgments. Besides, underlying this is the recognition that human behaviours cannot be meaningfully understood simply as rule-governed acts; and that concrete, context-dependent knowledge is more valuable than the vain search for predictive theories and universals (Cziko, April 1989; Flyvbjerg, 2006).
 
 Each site constitutes a single case. The main data was collected from semi-structured interviews and supplemented with findings obtained from surveys, classroom observations, archival paper clippings on the institutions, community records and documents, institutional and governmental publications. A total of 65 interviews (average 40 minutes/interview) were conducted (although only 40 interviewees agreed to have their data published), and surveys were collected from 177 students and 49 staff. Fifteen classroom observations were made across the three sites. Findings from each case are used to determine if there exists a common set of institutionalised patterns across the different post-secondary educational settings. This blended approach is useful in providing fine-grained, detailed descriptions of classroom behaviours to generate more general assertions about ways staff can foster good habits of knowledge sharing. Emergent themes were called into question or strengthened through triangulation.
@@ -44,7 +43,7 @@ The findings yielded some individual differences as well as common features acro
 
 It was also evident across the survey findings from the three cases, that “knowledge from the reflections of other colleagues” and “knowledge about parents’ expectations” were deemed to be less significant in terms of its importance (see Table 2). This finding provided empirical support to Hargreaves’ anecdotal observations.
 
-<img src="/images/Vol%205%20Issue%201/table%202_summary.JPG" style="width:80%;">
+<img src="/images/Vol%205%20Issue%201/KnowledgeSharing/table%202_summary.JPG" style="width:80%;">
  <div style="background-color: white;"></div>
 
 In triangulation of data, no instances in interview data contradicted the data from surveys, observations and documentations collected. Rather, interviewees’ examples supported and clarified positions described by the survey evidence. Findings from the study clearly articulated participants’ concerns with the assessors’ influence and norms of the institutions (the persistence of educational “traditions”).
