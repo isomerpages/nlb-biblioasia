@@ -8,6 +8,12 @@ image: /images/Vol 5 Issue 1/WomenIslam/acheh_03 .JPG
 ---
 #### _Ma. Theresa R. Milallos_, a Lee Kong Chian Research Fellow, explores how gender relations in Aceh have changed and continue to be transformed by the dynamism of Islam’s interpretation in Aceh.
 
+![](/images/Vol%205%20Issue%201/WomenIslam/acheh_03%20.JPG)
+
+
+<img src="/images/Vol%205%20Issue%201/WomenIslam/acheh_03%20.JPG" style="width:80%;">
+ <div style="background-color: white;">Note the relative ease of gender intermixing in this late 19th century photo.<i> Photo reproduced from C. Snouck Hurgronje. 1906. The Atjehnese. All rights reserved, Leyden: E.J. Brill, 1906.</i></div>
+
 #### **Introduction**
 
 The discourse on gender in Aceh has always been a site of tension. This paper seeks to understand how gender relations have changed and continue to be transformed by the dynamism of Islam’s interpretation in Aceh. Considerable research[^1] has already shown that women in Southeast Asia, including those in Aceh, enjoyed a higher level of economic autonomy and personal freedom prior to the colonisation period compared to those from West, East and South Asia. After the December 2004 tsunami however the discourse included how women may have been responsible for the disaster,[^2] and consequently how they should be controlled. How is it possible to rationalise these seemingly incongruent facts? In what ways and to what extent can this ‘high status’ of women be observed in Aceh historically and at present?
@@ -51,6 +57,9 @@ As for their impact on women, Wazir (1992) believes that the major difference be
 The diversity of female roles in pre-19th century Aceh reflects the relatively active participation of women in society. Andaya (2006, p. 48) emphasised the role of wives and even concubines, not only in perpetuating royal bloodlines, but also in legitimating rule and brokering peace through intermarriages.[^13] Unlike Melaka, however, where the wives of sultans were clearly supplied by the *bendaraha* line (Wazir, 1992, pp. 38–43), there is no clear indication about the origins of royal wives and even concubines in Aceh. Nonetheless, women’s involvement in palace intrigues, 
 rebellions and conspiracies have been numerous. The queens themselves are far 
 from being mere figureheads. Indeed, the longevity of the reigns of the queens (Safiyyat al-Din ruled for 35 years, and both Zakiyyat al-Din and Kamalat Syah for 11 years each), with the exception of Nakiat adDin (1676–8), is comparable to the long reigns of earlier Acehnese sultans (see *Adat Aceh*, 1958).
+
+<img src="/images/Vol%205%20Issue%201/WomenIslam/acheh_05%20.JPG" style="width:80%;">
+ <div style="background-color: white;">Women and young girls in late 19th century Aceh.<i> Photo reproduced from C. Snouck Hurgronje. 1906. The Atjehnese. All rights reserved, Leyden: E.J. Brill, 1906.</i></div>
 
 Like other kings in Southeast Asia, notably Sultan Agung of Mataram and the king of Angkor, the sultans of Aceh have followed the practice of surrounding themselves with many women (Reid, 1988, p. 637). These women have played the roles of royal entertainers who were ”not usually seene of any but such as the king will greatly honour” (Foster, 1940, p. 93, 131), “ambassadors of goodwill”,[^14] and guards. Women guards and attendants certainly enjoyed a reputation as being more loyal and trustworthy than men, and less likely to conspire against the king. Some sultans also observed the practice of giving away these women as ‘partners’ to their favourite allies.[^15]
 
@@ -241,5 +250,3 @@ William Foster, [_The Voyages of Sir James Lancaster to Brazil and the East Indi
 [^17]: Kenneth Hall, “Economic History of Early Southeast Asia,” in [_The Cambridge History of Southeast Asia, vol. 1: From Early Times to c. 1800_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6019745), ed. Nicholas Tarling (Cambridge: Cambridge University Press, 1992), 183–272 (Call no. RSING 959 CAM) points to the existence of abundant land and demand for additional labour, regardless of gender, as possible reasons. Religious and socio-cultural customs, traditions and practices must have mirrored prevailing social realities, and vice versa. Nonetheless, while women may have actively participated in agriculture, home, trade, diplomacy, warfare, entertainment, literature, and even statecraft (surely including those in early Lamri/Aceh), epigraphic records of female roles in early times are limited (Hall, [_Cambridge History of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6019745), 190)
 
 [^18]: Cuevas, [_Still Standing Tall_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12796484) presents data from focus group
-
-
