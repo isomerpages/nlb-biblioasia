@@ -8,9 +8,6 @@ image: /images/Vol 5 Issue 1/WomenIslam/acheh_03 .JPG
 ---
 #### _Ma. Theresa R. Milallos_, a Lee Kong Chian Research Fellow, explores how gender relations in Aceh have changed and continue to be transformed by the dynamism of Islam’s interpretation in Aceh.
 
-![](/images/Vol%205%20Issue%201/WomenIslam/acheh_03%20.JPG)
-
-
 <img src="/images/Vol%205%20Issue%201/WomenIslam/acheh_03%20.JPG" style="width:80%;">
  <div style="background-color: white;">Note the relative ease of gender intermixing in this late 19th century photo.<i> Photo reproduced from C. Snouck Hurgronje. 1906. The Atjehnese. All rights reserved, Leyden: E.J. Brill, 1906.</i></div>
 
