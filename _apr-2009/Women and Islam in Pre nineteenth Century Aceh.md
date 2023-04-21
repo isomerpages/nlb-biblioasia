@@ -5,3 +5,5 @@ description: Ma. Theresa R. Milallos, a Lee Kong Chian Research Fellow, explores
   how gender relations in Aceh have changed and continue to be transformed by
   the dynamism of Islam’s interpretation in Aceh
 ---
+#### _Ma. Theresa R. Milallos_, a Lee Kong Chian Research Fellow, explores how gender relations in Aceh have changed and continue to be transformed by the dynamism of Islam’s interpretation in Aceh.
+
