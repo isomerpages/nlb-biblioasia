@@ -27,6 +27,15 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
+      title: The Singapore Record Industry in the 1960s
+      subtitle: Film, Sound and Photography
+      description: In this extract from the book From Keroncong to Xinyao, the author
+        looks at why the record industry in Singapore took off in the 1960s.
+      button: "RECORDING MUSIC "
+      url: https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s
+      image: /images/Vol 19 Issue 2/SG Record Industry/image2.png
+      alt: Image alt text
+  - infopic:
       title: "Golden Mile Complex: Five Decades of an Architectural Icon"
       subtitle: Architecture
       description: "The collective sale and conservation of Golden Mile Complex will
@@ -480,13 +489,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: The Singapore Record Industry in the 1960s
-      subtitle: Film, Sound and Photography
-      description: In this extract from the book From Keroncong to Xinyao, the author
-        looks at why the record industry in Singapore took off in the 1960s.
-      button: "RECORDING MUSIC "
-      url: https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s
-      image: /images/Vol 19 Issue 2/SG Record Industry/image2.png
-      alt: Image alt text
 ---
