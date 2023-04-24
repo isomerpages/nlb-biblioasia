@@ -29,8 +29,9 @@ sections:
   - infopic:
       title: The Singapore Record Industry in the 1960s
       subtitle: Film, Sound and Photography
-      description: In this extract from the book From Keroncong to Xinyao, the author
-        looks at why the record industry in Singapore took off in the 1960s.
+      description: In this extract from the book <i>From Keroncong to Xinyao</i>, the
+        author looks at why the record industry in Singapore took off in the
+        1960s.
       button: "RECORDING MUSIC "
       url: https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s
       image: /images/Vol 19 Issue 2/SG Record Industry/image2.png
