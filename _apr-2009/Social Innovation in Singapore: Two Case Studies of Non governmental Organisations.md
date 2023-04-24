@@ -43,6 +43,19 @@ At the Lee Clan General Association’s 86th Anniversary Dinner on 28 October 19
 
 #### **The Revival of Chinese Clan Associations**
 
+Since the late 1970s, Chinese clan associations faced many obstacles in sustaining their existence. The associations tried to keep up with the changing practical and psychological needs of their members while adjusting to the growth of the nation-state and the changing sociopolitical environment. “Interestingly, the government suggested that clansmen organisations should take up a role in reinforcing Chinese values, ‘Asian values’ and Asian identity. Clansmen associations are viewed as the roots of Chinese culture and tradition, which in the government’s view should be cultivated and preserved” (Selina Ching Chan 2003:79). Clan associations therefore were a good medium through which the nation could revive Chinese traditions and reinforce the Chinese identity.
+
+In 1978, China started implementing economic reforms which resulted in rapid economic development, which in turn attracted the attention of the world. The revival of Chinese culture and traditions in Singapore became important at that juncture. The Singapore Federation of Chinese Clan Associations (SFCCA) was formed in 1986, and marked a major turning point in the history of the clan associations.
+
+In recent years, numerous clansmen fellowship meetings have taken place one after another in various countries around the world. The conventions have moved from their original emphases on clan ties and ancestral roots to cultural, economic, trade and academic exchanges. Cooperation between clan associations in Singapore and other overseas Chinese voluntary associations has also revitalised links with China, and networks have been reconstructed for investment and economic purposes (Liu Hong 1998).4
+
+The changing social functions of Chinese clan associations reflect the corresponding changes in Singapore society, which was experiencing a new awareness of a Chinese cultural identity. This evolution more importantly demonstrates the resilience of cultural systems and their ability to respond to the changing needs of their members and the state.
+
+#### **CASE STUDY 2: GRASSROOTS ORGANISTIONS**
+#### **The Emergence of Grassroots Organisations**
+
+Grassroots organisations (GROs) are uniquely Singaporean forms of NGOs that are guided and supported by the government and hence represent social innovation as a vehicle for government-people cooperation and feedback. When self-government was attained in 1959, the Singapore government had to overcome serious political, economic and communal problems to survive.
+
 
 
 
