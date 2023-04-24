@@ -6,3 +6,5 @@ description: Lee Kong Chian Research Fellow Zhang Liyan examines the phenomenon
   and role of social innovation in Singapore’s historical and post-independence
   development through Chinese clan associations and grassroots organisations.
 ---
+#### Lee Kong Chian Research Fellow _Zhang Liyan_ examines the phenomenon and role of social innovation in Singapore’s historical and post-independence development through Chinese clan associations and grassroots organisations.
+
