@@ -68,7 +68,7 @@ Another example was “The Early Bird Show”, which was also held in a cinema, 
 
 In addition, there were live concerts such as “A Night of Blue Beats”, “Pop Stars on Parade ’66”, “Top Talents ’66”, “What’s Up in Pops” and “Seven Sounds of Soul”. These featured all-star line-ups that differed from conventional concerts usually showcasing a single performer accompanied by one or two supporting artistes.
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image4.png)
+![](/images/Vol%2019%20Issue%202/SG%20Record%20Industry/top%20talents%2066.jpg)
 <div style="background-color: white;">An advertisement promoting the “Top Talents ‘66” live concert, featuring popular local bands such as The Quests and Naomi &amp; the Boys. <i>Image reproduced from “Page 4 Advertisements Column 3,” Straits Times, 2 April 1966, 4. (From NewspaperSG).</i></div>
 
 Apart from the many one-off concerts held in various halls, there were also regular concert series, including “The Early Bird Show” at the Odeon Cinema (1967–70) and “Musical Express” at the Capitol (1967–68). 
@@ -92,7 +92,7 @@ Many new groups formed every year in Singapore in the 1960s. There were over 200
 
 A 1967 article in the *Sunday Times* said: 
 
-Pop music is today a very potent force in Malaysia and Singapore.... The latest beat or sound emanating from Britain and America is heard here within weeks and even days later. Local fans take a remarkably short time to catch on to the latest trends or beat in the pops.... Every new craze is bound to make its way to Singapore and Malaysia where local guitar-twanging groups are ready always to imitate new styles...[^14]  
+"Pop music is today a very potent force in Malaysia and Singapore.... The latest beat or sound emanating from Britain and America is heard here within weeks and even days later. Local fans take a remarkably short time to catch on to the latest trends or beat in the pops.... Every new craze is bound to make its way to Singapore and Malaysia where local guitar-twanging groups are ready always to imitate new styles..."[^14]  
 
 From the mid-1960s onwards, even the conservative *Radio Weekly* began devoting several pages in each issue to the latest trends in pop music. 
 
