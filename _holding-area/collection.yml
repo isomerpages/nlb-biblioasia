@@ -2,6 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "Local Music Reaches a Crescendo: The Singapore Record Industry in the
-        1960s.md"
       - Test page.md

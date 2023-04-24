@@ -1,6 +1,6 @@
 ---
 title: "Local Music Reaches a Crescendo: The Singapore Record Industry in the 1960s"
-permalink: /holding-area/test3/
+permalink: /vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/
 description: In this extract from the book From Keroncong to Xinyao, the author
   looks at why the record industry in Singapore took off in the 1960s.
 image: /images/Vol 19 Issue 2/SG Record Industry/image1.png
@@ -68,7 +68,7 @@ Another example was “The Early Bird Show”, which was also held in a cinema, 
 
 In addition, there were live concerts such as “A Night of Blue Beats”, “Pop Stars on Parade ’66”, “Top Talents ’66”, “What’s Up in Pops” and “Seven Sounds of Soul”. These featured all-star line-ups that differed from conventional concerts usually showcasing a single performer accompanied by one or two supporting artistes.
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image4.png)
+<img style="width:70%;" src="/images/Vol%2019%20Issue%202/SG%20Record%20Industry/top%20talents%2066.jpg">
 <div style="background-color: white;">An advertisement promoting the “Top Talents ‘66” live concert, featuring popular local bands such as The Quests and Naomi &amp; the Boys. <i>Image reproduced from “Page 4 Advertisements Column 3,” Straits Times, 2 April 1966, 4. (From NewspaperSG).</i></div>
 
 Apart from the many one-off concerts held in various halls, there were also regular concert series, including “The Early Bird Show” at the Odeon Cinema (1967–70) and “Musical Express” at the Capitol (1967–68). 
@@ -92,7 +92,7 @@ Many new groups formed every year in Singapore in the 1960s. There were over 200
 
 A 1967 article in the *Sunday Times* said: 
 
-Pop music is today a very potent force in Malaysia and Singapore.... The latest beat or sound emanating from Britain and America is heard here within weeks and even days later. Local fans take a remarkably short time to catch on to the latest trends or beat in the pops.... Every new craze is bound to make its way to Singapore and Malaysia where local guitar-twanging groups are ready always to imitate new styles...[^14]  
+"Pop music is today a very potent force in Malaysia and Singapore.... The latest beat or sound emanating from Britain and America is heard here within weeks and even days later. Local fans take a remarkably short time to catch on to the latest trends or beat in the pops.... Every new craze is bound to make its way to Singapore and Malaysia where local guitar-twanging groups are ready always to imitate new styles..."[^14]  
 
 From the mid-1960s onwards, even the conservative *Radio Weekly* began devoting several pages in each issue to the latest trends in pop music. 
 
@@ -130,7 +130,7 @@ As the local press devoted more space to its coverage of popular music, we have 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 <img src="/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image9.png"><br>
-This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985,</i> by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
+This is an edited chapter from the book, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499&quot;"><i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985</i></a>, by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
 
 <div style="background-color: white;">
 <br>
@@ -161,7 +161,7 @@ This is an edited chapter from the book, <i>From Keroncong to Xinyao: The Record
 
 [^11]: “The Early Bird Show,” [*Radio Weekly*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655892), 24 July 1967, 3. (From National Library, Singapore, call no. RCLOS 791.44095957 RW)
 
-[^12]: *Getai* are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “[Getai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html),” in Singapore *Infopedia*. National Library Board Singapore. Article published 25 February 2015.
+[^12]: *Getai* are performances of songs staged during the seventh month of the lunar calendar. See Jamie Koh and Stephanie Ho, “[Getai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 25 February 2015.
 
 [^13]: The author estimates that there were over 1,500 singers or bands who recorded in Singapore during the 1960s. Some of these were artistes from Malaysia and Indonesia who came here to record and were not residents (although many took the opportunity to perform publicly while they were here).
 
