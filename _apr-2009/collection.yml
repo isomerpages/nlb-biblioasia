@@ -2,6 +2,8 @@ collections:
   apr-2009:
     output: true
     order:
+      - "Social Innovation in Singapore: Two Case Studies of Non governmental
+        Organisations.md"
       - Director Column.md
       - Knowledge Sharing in Singapore Public Post secondary Educational
         Institutions.md
