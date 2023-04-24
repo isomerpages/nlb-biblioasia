@@ -27,7 +27,7 @@ Most of the early Chinese migrants arrived in Singapore virtually penniless and 
 In 2005, the Singapore Federation of Chinese Clan Associations published a book entitled *History of Clan Associations in Singapore*.2 This book documented 200 Chinese clan associations, comprising 116 kinship clan associations and 84 locality clan associations. More than 90% of these clan associations were set up before 1960. Table 1 provides information on the founding of some Chinese clan associations.
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%201/SocialInnovation/capture3.jpg">
- <div style="background-color: white;">
+ <div style="background-color: white;"></div>
  
 The development of Chinese clan associations was at least partly a result of colonial policy. Within the colonial structure, the British administration left the various ethnic communities alone to handle their own social, culture, economic and political affairs, seldom intervening at all. The non-interventionist policy of the British colonial government thus led to the necessity for and development of Chinese clan associations.
 
@@ -37,6 +37,13 @@ The clan associations also provided help to those in financial need. Early migra
 
 As the Chinese immigrant population grew, education, cultural and other social needs also had to be met. From the late 19th century onwards, these clan associations not only helped newly arrived people in their community to settle down, but also financed schools and scholarships for the children of migrant families.
 
+#### **The Decline of Chinese Clan Associations**
+
+At the Lee Clan General Association’s 86th Anniversary Dinner on 28 October 1992, Brigadier-General Lee Hsien Loong said: “Since independence in 1965, many of the services the clan used to provide have been taken over by the Government and other civic organisations…the government took over the running of schools and public services. Thus the Chinese clan started to lose its appeal and purpose towards the community and thus they experienced a dwindling membership.” 3 Furthermore, English was being taught as the first language in schools. This weakened the link between the clan associations and the younger generations. By the end of the 1970s, Singapore’s housing and urban renewal programme resettled people in new public housing estates, and this further eroded the connectedness of the Chinese community. This was a major factor that led to the decline of Chinese clan associations, some of which became inactive or dormant.
+
+#### **The Revival of Chinese Clan Associations**
 
 
-</div>
+
+
+
