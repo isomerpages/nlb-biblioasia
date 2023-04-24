@@ -130,7 +130,7 @@ As the local press devoted more space to its coverage of popular music, we have 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 <img src="/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image9.png"><br>
-This is an edited chapter from the book, <i>[From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499)</i>, by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
+This is an edited chapter from the book, <i>[*From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499)</i>, by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
 
 <div style="background-color: white;">
 <br>
