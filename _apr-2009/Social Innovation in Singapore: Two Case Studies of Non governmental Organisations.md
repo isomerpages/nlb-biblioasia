@@ -9,6 +9,9 @@ image: /images/Vol 5 Issue 1/SocialInnovation/voluntary organization.jpg
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Zhang Liyan_&nbsp;examines the phenomenon and role of social innovation in Singapore’s historical and post-independence development through Chinese clan associations and grassroots organisations.
 
+<img src="/images/Vol%205%20Issue%201/SocialInnovation/leekuanyew.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Shing Lee Publishers Pte Ltd, 2000.</i></div>
+
 #### **Abstract**
 
 Non-governmental organisations (NGOs) have long been a force for social innovation in Singapore society. Along with the government and the private sector, they have been an important part of the “Singapore model” that has built a prosperous, just and caring society with a high quality of life that is the envy of the world. This paper concentrates on two types of NGOs: Chinese clan associations and grassroots organisations (GROs), both of which are extremely important from the specific standpoint of social innovation in Singapore. The influence of Chinese clan associations was at its peak in the colonial period when Singapore was an underdeveloped society with an immigrant Chinese majority. Grassroots organisations became important during the post-independence period of nation-building, in tandem with rapid economic development.
@@ -16,6 +19,9 @@ Non-governmental organisations (NGOs) have long been a force for social innovati
 ***Key Words:** Social Innovation, NGOs, Chinese Clan Association, Grassroots Organisation*
 
 In this paper, I examine the phenomenon and role of social innovation in Singapore’s historical and post-independence development by analysing two types of NGOs – Chinese clan associations and grassroots organisations. I chose to focus on these two types of NGOs for two reasons. First, the Chinese clan associations were the NGOs that affected the most people in Singapore during most of the colonial period, since the Chinese constituted the majority of the population then. Second, the GROs deserve special attention because they are the first community-based NGOs which represented the entire population of Singapore, and also because they have provided a unique platform for cooperation and feedback on social and economic development between the people and the PAP government. Using these two case studies, I will examine the role NGOs played in the social innovation of Singapore.
+
+<img src="/images/Vol%205%20Issue%201/SocialInnovation/state%20&amp;%20ngos.jpg" style="width:50%;">
+ <div style="background-color: white;"> <i>All rights reserved, Sasakawa Peace Foundation, Tokyo, 2002.</i></div>
 
 #### **CASE STUDY 1: CHINESE CLAN ASSOCIATIONS** 
 #### **The Emergence of Chinese Clan Associations**
@@ -51,7 +57,7 @@ In recent years, numerous clansmen fellowship meetings have taken place one afte
 
 The changing social functions of Chinese clan associations reflect the corresponding changes in Singapore society, which was experiencing a new awareness of a Chinese cultural identity. This evolution more importantly demonstrates the resilience of cultural systems and their ability to respond to the changing needs of their members and the state.
 
-#### **CASE STUDY 2: GRASSROOTS ORGANISTIONS**
+#### **CASE STUDY 2: GRASSROOTS ORGANISATIONS**
 #### **The Emergence of Grassroots Organisations**
 
 Grassroots organisations (GROs) are uniquely Singaporean forms of NGOs that are guided and supported by the government and hence represent social innovation as a vehicle for government-people cooperation and feedback. When self-government was attained in 1959, the Singapore government had to overcome serious political, economic and communal problems to survive.
@@ -74,7 +80,7 @@ The GROs were structured hierarchically. At the constituency level, there was a 
 
 Since independence, the Singapore government believed that community issues needed to be managed by the community members themselves, and transferred some of the powers of the government agencies to the grassroots organisations, which formed the bases of the GROs’ system. Grassroots organisations became pillars of the PAP government and part of PAP’s political strategy. Over the years, many national movements, such as the National Courtesy Campaign-and National Clean-up Campaign, were successfully implemented with the help of GROs. GROs drew on the traditional attitudes of community leaders and the assistance of community volunteers to form a network of organisations, and offered accessible venues and facilities for interaction and community services.
 
-#### **The Institutionalisation of Grassroots Organisationsi**
+#### **The Institutionalisation of Grassroots Organisations**
 
 Most of the challenges facing the communities required locallydriven and creative solutions rather than a heavy-handed top-down approach of traditional government bureaucracies and programmes. GROs were community-based NGOs that were closely linked to the government. The GRO volunteers were residents who were energetic, passionate and proposed activities, initiatives, services and processes to address the social and economic challenges faced by their communities.
 
@@ -141,6 +147,3 @@ Yayoi Tanaka, “Singapore: Subtle NGO Control by a Developmentalist Welfare Sta
 [^10]: People’s Association Neighbourhood Committee Rules and Regulations (amended, 15 September 2007), https://www.onepa.gov.sg/rules-and-regulations
 
 [^11]: Note: In Singapore, Members of Parliament hold MPS every month, to help citizens resolve any problems they had. For example, at Potong Pasir, MPS is held every Thursday at 7.30pm at the void deck of Block 108 void deck. Help provided by the MPs takes many forms, ranging from suggesting solutions to family discord, obtaining financial support in cases of emergency, to helping people obtain employment. The MPs explain government policies to the people as well, gather feedback, and channel the people’s concerns to political leaders. MPs also visit people’s homes regularly to see if they can offer any help and find out how they live. Grassroots organisations’ network is supported by the PA, and is an important part of the PAP administrative system. MPS is organised by PAP and not by any grassroots organisation.
-
-
-
