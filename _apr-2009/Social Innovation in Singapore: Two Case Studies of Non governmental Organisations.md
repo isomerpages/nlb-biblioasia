@@ -87,10 +87,60 @@ The two types of NGOs discussed in this paper successfully carried out their goa
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="images/Authors/zhang%20liyan1.jpg">
- <center><b>Zhang Liyan</b><br> Lee Kong Chian Research Fellow <br>National Library <center></center></center></div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/zhang%20liyan1.jpg">
+ <center><b>Zhang Liyan</b><br> Lee Kong Chian Research Fellow <br>National Library </center></div>
 
-	
+#### **REFERENCES**
+
+Edgar Wickberg, “Overseas Chinese Adaptive Organizations, Past and Present,” in Reluctant Exiles: Migration From Hong Kong and the New Overseas Chinese, ed. Ronald Skeldon (Hong Kong: Hong Kong University Press, 1994), 68–86.
+
+Hong Liu, “Old Linkages, New Networks: The Globalization of Overseas Chinese Voluntary Associations and Its Implications,” _China Quarterly_ no. 155 (September 1998), 582–609. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+K. E. Kuah-Pearce, “The Cultural Politics of Clan Associations in Contemporary Singapore,” in [_Voluntary Organizations in the Chinese Diaspora_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), ed. Khun Eng Kuah-Pearce and Evelyn Hu-Dehart (Hong Kong: Hong Kong University Press, 2006), 53–76. (Call no. RSING 366.0089951 VOL)
+
+Kersty Hobson, “Considering “Green” Practices: NGOs and Singapore’s Emergent Environmental-Political Landscape,” _Journal of Social Issues in Southeast Asia_ 20, no. 2 (October 2005), 155–76. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+Mark Goldenberg, “Social Innovation in Canada: How the Non-Profit Sector Serves Canadians … and How It Can Serve Them Better,” (Research Report, CPRN Discussion Paper, November 2004)
+
+Maurice Freedman, [_Chinese Family and Marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221) (London: Her Majesty’s Stationery Office, 1957). (Call no. RSING 301.42 FRE)
+
+Nancy Macduff, “Engaging Ad Hoc Volunteers: A Guide for Non-profit Organizations,” adapted from _Episodic Volunteering: Organizing and Managing the Short-Term Volunteer Program_ (Singapore: National Volunteer &amp; Philanthropy Centre, 2004)
+
+Oral History Department, Singapore 口述历史馆, _Xinjiapo huaren huiguan yange shi_ [新加坡华人会馆沿革史](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84488556) History of Singapore Chinese Associations (Xinjiapo 新加坡: Xinjiapo xin wen yu chu ban gong si 新加坡新闻与出版公司, 1986). (Call no. RSING Chinese 369.25957 HIS)
+
+S. Vasoo, Winnie Tang and Ng Guat Tin, [_A Manual on Community Work in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080924), 2nd ed. (Singapore: Singapore Council of Social Service, 1983). (Call no. RSING 361.95957 MAN)
+
+Salamon, Lester M. and Helmut K. Anheier. "The International Classification of Nonprofit Organizations: ICNPO-Revision 1, 1996." (Working Papers of the Johns Hopkins Comparative Non-profit Sector Project, no. 19, 1996)
+
+Selena Ching Chang, “Interpreting Chinese Tradition: A Clansmen Organization in Singapore,” _New Zealand Journal of Asian Studies_ 5, no. 1 (June 2003), 72–90.
+
+Wu Jungang and Li Xiaolin 吴俊刚 and 李小林, _Li guang yao yu ji ceng zu zhi_ [李光耀与基层组织](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9846610)&nbsp;\[Lee Kuan Yew and Grassroots Organizations\] (Xin jia po 新加坡: Sheng li chu ban gong si 胜利出版公司, 2000). (Call no. Chinese RSING 307.095957 WJG)
+
+Yayoi Tanaka, “Singapore: Subtle NGO Control by a Developmentalist Welfare State,” in [_The State and NGOs: Perspective From Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10950930), ed. Shinichi Shigetomi (Singapore: Institute of Southeast Asian Studies, 2002), 200–21. (Call no. RSING 068.5 STA)
+
+#### **NOTES**
+
+[^1]: Oral History Department, Singapore 口述历史馆, _Xinjiapo huaren huiguan yange shi_ [新加坡华人会馆沿革史](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84488556) History of Singapore Chinese Associations (Xinjiapo 新加坡: Xinjiapo xin wen yu chu ban gong si 新加坡新闻与出版公司, 1986), 20. (Call no. RSING Chinese 369.25957 HIS)
+
+[^2]: This book’s coverage of clan associations is not comprehensive, being limited to the Federation’s members. However, since the Federation included most of the active associations, the information provided in this book is relevant. According to Ms Lim Boon Tan, Executive Director of the Singapore Federation of Chinese Clan Associations, there are currently around 300 clan associations registered under the law. However, less than 100 of these are currently active. (I interviewed Ms Lim Boon Tan on 2 July 2008 at the Singapore Federation of Chinese Clan Association).
+
+[^3]: “Teochew Poit Ip Huay Kuan,” accessed 20 June 2008, http://en.wikipedia.org/wiki/Teochew\_Poit\_ Ip\_Huay\_Kuan
+
+[^4]: Hong Liu, “Old Linkages, New Networks: The Globalization of Overseas Chinese Voluntary Associations and Its Implications,” _China Quarterly_ no. 155 (September 1998), 582–609. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+[^5]: Cited from the mission statement of the People’s Association, https://www.pa.gov.sg/about-us/about-pa/
+
+[^6]: According to Mr Tan Kim Kee, the system of grassroots organisations in Singapore consisted mainly of CCCs, CCs/CCMCs and RCs/NCs. This system was initiated and supported by the PA. Therefore, although these NGOs could plan and organise activities by themselves, they had to follow the basic rules set by the PA. Residents of different races were welcome to participate in all activities, which had to be non-religious and non-political. Each grassroots organisation either organises activities by itself or cooperated with other organisations (On 17 July 2008, I interviewed Mr Tan Kim Kee, Group Director of Grassroots, at the PA).
+
+[^7]: Note: In the 1960s and 1970s, conflicts between different racial groups, especially between the Chinese and the Malays were a problem in Singapore. Leaders and members of the CCC were usually residents with influence in the society. Therefore, CCCs played an important role in promoting racial harmony and helping the poor. They took the initiative to volunteer and donate resources, and others followed suit.
+
+[^8]: Note: According to Mr Tan Kim Kee, the NCs were formed in 1998.
+
+[^9]: Note: PA staff worked at the CCs.
+
+[^10]: People’s Association Neighbourhood Committee Rules and Regulations (amended, 15 September 2007), https://www.onepa.gov.sg/rules-and-regulations
+
+[^11]: Note: In Singapore, Members of Parliament hold MPS every month, to help citizens resolve any problems they had. For example, at Potong Pasir, MPS is held every Thursday at 7.30pm at the void deck of Block 108 void deck. Help provided by the MPs takes many forms, ranging from suggesting solutions to family discord, obtaining financial support in cases of emergency, to helping people obtain employment. The MPs explain government policies to the people as well, gather feedback, and channel the people’s concerns to political leaders. MPs also visit people’s homes regularly to see if they can offer any help and find out how they live. Grassroots organisations’ network is supported by the PA, and is an important part of the PAP administrative system. MPS is organised by PAP and not by any grassroots organisation.
 
 
 
