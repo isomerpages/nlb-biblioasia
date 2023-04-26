@@ -49,3 +49,8 @@ The nearby Golden Palace Holiday Resort, which opened in 1969, was another popul
 The resort wound up in 1971 after a petition by one of the directors over alleged mismanagement by the company’s chairman. In 1973, the government acquired the resort for $870,000, with plans for it to be used for fish-breeding experiments. Today, the resort’s former site forms part of Pasir Ris Park. The pond was converted into a commercial saltwater fishing pond, which opened to the public in October 1990.[^17]
 
 While Pasir Ris Hotel and Golden Palace Holiday Resort targeted a more affluent clientele, the People’s Association Holiday Flats offered affordable rentals that became popular among local families. A three-storey block comprising 30 holiday flats was officially opened by then Minister for the Environment Lim Kim San on 11 November 1973.[^18]
+
+These flats were intended to serve the “average wage-earners” and provide a beach holiday “at a cost within their means”. The daily rate was $7 for a two-room unit and $10 for a three-room unit. Each flat came with a living and dining room, and kitchen facilities.[^19] Noraini Anastasi, who stayed there in 1988, recalled that “\[t\]he seaside scenery is super. My only complaint: mosquitoes. We should have brought mosquito coils but, alamak, we forgot”.[^20]
+
+In addition to the holiday flats, the People’s Association built a sea sports centre to cater to water sports enthusiasts. The Pasir Ris Sea Sports Centre on Elias Road opened in August 1987 “for Singaporeans who love the sun-and-sea type of sports”. Today, the centre is known as PAssion WaVe @ Pasir Ris and offers activities such as dinghy sailing, kayaking, abseiling and sports climbing.[^21]
+
