@@ -39,8 +39,3 @@ Libraries are our gateways; libraries are our bridges; they are depositories of 
 A shared platform is the key to the delivery of socio-cultural freedoms in the region. May I challenge libraries in the region to create this shared platform for regional integration in the knowledge sector. Knowledge strengthens the region and libraries serve as the cradle of this new renaissance that is emerging in Asia. Knowledge has the power to integrate and aggregate.
 
 The ASEAN Secretariat looks forward to working actively with libraries and cultural institutions - The British Library included, to build the ASEAN sociocultural community, and that will be a solid foundation for our ASEAN with a big “C” Community by 2015.
-
-
-
-
-
