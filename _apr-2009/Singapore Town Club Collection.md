@@ -19,6 +19,15 @@ Other items of notable interest are two sets of photographs taken of Singapore T
 This collection will complement other significant National Library collections of early and pre-independent Singapore and will be made available through the National Library website (
 <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a><a>) and at the Donors Gallery, Level 10, Lee Kong Chian Reference Library, National Library Building.
 	
-The National Library is interested in receiving donations of heritage materials - both published and unpublished - on Singapore and Southeast Asia that will help enhance the Library’s collections. These could include manuscripts, photographs, genealogical records, documents, letters as well as materials printed during the Japanese Occupation (1942–1945) or earlier. If you have a collection you wish to donate to the National Library, please email: </a><a href="LKCRF@nlb.gov.sg">LKCRF@nlb.gov.sg</a>	
+The National Library is interested in receiving donations of heritage materials - both published and unpublished - on Singapore and Southeast Asia that will help enhance the Library’s collections. These could include manuscripts, photographs, genealogical records, documents, letters as well as materials printed during the Japanese Occupation (1942–1945) or earlier. If you have a collection you wish to donate to the National Library, please email: </a><a href="LKCRF@nlb.gov.sg">LKCRF@nlb.gov.sg</a>
+	
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Eunice%20Low.jpg">
+ <center><b>Eunice Low</b> <br>Senior Librarian <br> Heritage Department Collection <br> National Library</center></div>
+	
+	
+
 
 
