@@ -20,3 +20,15 @@ It is not surprising that the producers of this lightweight comedy would have ch
 
 These days, Pasir Ris is no longer quite as quiet and remote. Over 100,000 people live in bustling Pasir Ris town, which is well connected to the rest of Singapore thanks to the MRT (it is a speedy 33-minute train ride from City Hall MRT station). Downtown East, which styles itself as a premier lifestyle, recreational and entertainment hub, draws large crowds on weekends and school holidays. And although it still boasts sandy beaches, if you mention “white sands”, you are more likely to be directed to the six-storey shopping mall next to Pasir Ris MRT station.
 
+#### **An Idyllic Enclave**
+
+One of the earliest mentions of Pasir Ris is in an 1844 map by John Turnbull Thomson, the Government Surveyor for the Straits Settlements. In that map, the area was labelled as Passeir Rice. Other 19th century maps use variant spellings such as Passir Ris and Passir Risa. Charles Burton Buckley’s 1902 book, _An Anecdotal History of Old Times in Singapore_, refers to the place as Passier Reis.[^3]
+
+The origin of the name Pasir Ris is unknown though. According to a study by H.T. Haughton published in the _Journal of the Straits Branch of the Royal Asiatic Society_ in 1889, the name could have been derived from a combination of the Malay words _pasir_ (sand) and _hiris_ (shred).[^4]
+
+Pasir Ris was once a low-lying and undeveloped area.[^5] Maps from the 1950s to 1970s show that Pasir Ris was then occupied mainly by coconut and rubber plantations, mangrove swamps and ponds, and dotted with Malay kampongs and Chinese villages. The kampongs in the area included Kampong Loyang, Kampong Pasir Ris, Kampong Elias, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar. Two waterways, Sungei Api Api and Sungei Tampines, used to flow through the area.[^6]
+
+Apart from rubber tapping and fishing as their livelihoods, the Malay villagers also produced _belacan_ (fermented shrimp paste) made from _udang geragau_ (small shrimps) caught at Sungei Api Api and Sungei Tampines during high tide. Kampong Tampines, located on Jalan Guan Choon and Tampines Road, was a popular filming location in the 1950s and 1960s for Malay films such as _Hantu Jerangkong_ (_The Skeleton Ghost_), _Antara Dua Darjat_ (_Between Two Classes_) and _Batu Belah Batu Bertangkup_ (_The Devouring Rock_).[^7]
+
+Interestingly, Pasir Ris was used as a film location very early on. In 1913, French filmmaker Gaston Méliès shot _The Poisoned Darts_ in the area. An advertisement that ran in _Moving Picture World_ magazine proudly proclaimed that it was “produced in the jungles of Passir Riz \[Pasir Ris\], a suburb of Singapore, Strait Settlements, Asia, employing natives in many of the roles”.[^8] Author and film director Raphaël Millet, who directed a documentary on Méliès, noted that based on the surviving footage of this film, the actors were most likely inhabitants of Malay villages in Pasir Ris.[^9]
+
