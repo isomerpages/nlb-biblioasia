@@ -59,8 +59,31 @@ The art journal has much more flexibility than the art book. It does not incur t
 
 The local newspaper is another source that can be relied upon to have some mention of regional contemporary artists, if they are actively showing their works. There are a couple of challenges to such sources of information, however. Firstly, they may require a competent reading knowledge of languages other than English. Secondly, news reports are intended to be brief and, regardless of the knowledge and authority of the author, can at best have time for only a cursory treatment of the topic. There are a few exceptions in newspapers with regular arts columns and dedicated critics, but, even in large markets like the United States, newspaper coverage of art is declining (Plagens, 2007). More significantly, there are difficulties in finding a suitable voice and a stable readership for such works. Columnists seem to be not entirely sure who is reading it and why, and it is not clear whether the situation calls for a critical voice, a marketing pitch, or a neutral description. While a worthwhile and often necessary resource, newspaper art coverage remains difficult to use for research purposes.
 
+#### **Art on the Web**
+
+*“Print publications have dwindled across the region over the last couple of years, magazines such as Singapore’s Focas and Vehicle; transit and Art Manila Quarterly in the Philippines, and Malaysia’s art corridor and TanpaTajuk. Increasingly, they have been replaced by artist websites, blogs and on-line publishing. One wonders what will become of the permanency of the printed voice as it is replaced by virtual dialogue?” (Fairley, 2006)*.
+
+Freely available information on the Internet has two main drawbacks: it is chronically disorganised, and rigorous accuracy is not guaranteed. Nevertheless, it is often the only - and sometimes even the best - tool to find information on Southeast Asian contemporary artists.
+
+Websites with good track records for authoritative information on art and artists are ones with reputations to build and protect, such as national galleries and art museums. These aim to attract discerning visitors, including scholars and writers, and accuracy is important. For the researcher who is unable to visit regularly in person, websites with catalogues of works online are invaluable. Examples of digital collections include the *Balai Seni Lukis Negara* (National Art Gallery Malaysia) and *Ateneo Art Gallery* in the Philippines. Other organisations such as the *Asia Art Archive* (<a href="https://www.aaa.org.hk">https://www.aaa.org.hk</a>) create online projects like their current feature on international Biennials.
+
+Other useful web resources, which may be called “e-magazines”, have emerged and remain active. For example, *The Substation magazine* (<a href="https://www.substation.org/">https://www.substation.org/</a><a>), though updated sporadically, is one of the very few currently active sources for in-depth investigation of contemporary art in Singapore. Another example is *Kakiseni* (</a><a href="www.kakiseni.com">www.kakiseni.com</a><a>), a portal of all manner of contemporary arts-related news and concerns in Malaysia, which also includes a searchable archive of about 800 articles and interviews with artists.
+
+Artists themselves may have created their own websites, and these, at their best, can serve a purpose similar to personal journals or scrapbooks. Artists may also use the web as a simple shop front to promote and sell artworks, which is potentially 	useful for the collector but less so for the researcher. Online shop fronts of galleries sometimes yield important information, for example, the *Thavibu Gallery website* (</a><a href="https://www.thavibu.com">https://www.thavibu.com</a><a>) provides links to articles on Thai, Vietnamese and Burmese art, including ones from reputable print publications. The underlying purpose, of course, is to promote certain artworks and artists.
+	
+The internet also provides a platform for the amateur historian and critic via blogs, wikis, and informal information collectives. These sources are the most difficult to assess in terms of authority and informativeness. It requires the researcher to know the subject well already, and be able to sift through possibly irrelevant or erroneous information to find useful areas to investigate further. It also requires the researcher to be familiar with local languages, dialects, and cultural references. An interesting example of an informal information collective is the *Singapore Art website* (</a><a href="http://www.singaporeart.org/">http://www.singaporeart.org/</a><a>), which introduces itself as follows:	
+	
+*“SingaporeArt.org emerged from an artist who realized that an online art resource would be appreciated by the Singapore Arts Community, because a significant proportion of electronically posted articles and press releases were deleted over time.” (Singaporeart.org, 2007)*.	
+	
+This type of web community effort is useful for information leads, but unfortunately for the researcher, its anonymous nature makes the cross-checking of information much more difficult.
+	
+Despite its shortcomings, it is undeniable that web-based information is shifting the balance of power from printed to digital sources.
+
+#### **The Future of Southeast Asian Art Writing &amp; Publishing**	
+	
+
+	
+	
 
 
-
-
-
+</a>
