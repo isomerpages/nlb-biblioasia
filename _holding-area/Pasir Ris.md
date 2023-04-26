@@ -54,3 +54,22 @@ These flats were intended to serve the “average wage-earners” and provide a 
 
 In addition to the holiday flats, the People’s Association built a sea sports centre to cater to water sports enthusiasts. The Pasir Ris Sea Sports Centre on Elias Road opened in August 1987 “for Singaporeans who love the sun-and-sea type of sports”. Today, the centre is known as PAssion WaVe @ Pasir Ris and offers activities such as dinghy sailing, kayaking, abseiling and sports climbing.[^21]
 
+With its proximity to the sea, water skiing was a popular sport in Pasir Ris back in the day. In February 1955, Pasir Ris Hotel hosted the Malayan Waterski Association’s first water skiing gala, which saw the construction of a 30-foot-long wooden ramp raised four feet above the water. The hundreds of spectators were entertained by the “spectacular tumbles” from the contestants. Pasir Ris was chosen “because it is safe for families to bring along children and also because there is plenty of parking space”, according to the event spokesperson, A.C. Cooper.[^22]
+
+From the late 1960s to 1970s, Pasir Ris was also home to two tourist attractions – Villa Saujana and Dari Laut – located at Jalan Loyang Besar. Dari Laut, which means “from the sea” in Malay, was a museum showcasing 10,000 species of corals, seashells, fishes and other wildlife specimens.
+
+Founded by beachcomber Johnny Johnson and marine enthusiasts John Langham and Jack Fisher, the museum was officially opened by then Finance Minister Goh Keng Swee in December 1969. It was initially accessible only to American troops on rest and recreation here from Vietnam. When the programme ceased a couple of years later, Dari Laut was opened to all tourists. Johnson eventually closed the museum and went on to supervise the establishment of the Coralarium at Sentosa with Fisher in 1974.[^23]
+
+Dari Laut’s neighbour was Villa Saujana, the seaside residence of Englishman Ernest Smith, who was the former assistant manager at Raffles Hotel. (“Saujana” is a variation of _suasana_, Malay for “pleasant environment and view”.) Smith had opened his home, which had a Malay kampong atmosphere, to tourists at $30 a head, inclusive of dinner, cultural shows and drinks. In the early 1970s, Villa Saujana was said to be one of the top tourist attractions in Singapore.[^24]
+
+#### **A Park for All**
+
+In 1956, the Singapore Rural Board announced plans to develop 14.5 acres of land in Pasir Ris to provide more facilities for beachgoers. The plan included clearing coconut trees; building an access road, changing rooms and shower facilities; and repairing the seawall. Works were completed in 1958, and Pasir Ris beach park was officially opened on 17 August 1958 by then Chief Minister Lim Yew Hock.[^25]
+
+From the late 1970s, Pasir Ris beach underwent further developments, which included 44 hectares of land reclamation. Landscape and park specialists from Japan were engaged to develop the park. It would have a pond, flower gardens, jogging and cycling tracks, an area for nature walks and boating, a camp site, chalets, a children’s playground, cafeterias and a sports complex.[^26]
+
+In 1984, the Parks and Recreation Department (today’s National Parks Board) embarked on a project to build an 80-hectare regional park stretching from Pasir Ris beach park to Sungei Loyang, making it the second-biggest park in Singapore after East Coast Park.[^27]
+
+Today, the 70-hectare park – which stretches over 3.2 kilometres – provides pony rides, bicycle and barbecue pit rentals, camping sites and water sports facilities. A highlight of the park is the preserved mangrove forest with a mangrove boardwalk and a three-storey tower for birdwatching.[^28]
+
+Nature lovers can also visit Lorong Halus Wetland, a former landfill along the eastern bank of Serangoon Reservoir. Officially opened in March 2011, the wetland protects the reservoir water from contaminants caused by landfill waste. Spanning Serangoon Reservoir is the Lorong Halus Red Bridge, a great place to catch the sunset and popular with Instagrammers.[^29]
