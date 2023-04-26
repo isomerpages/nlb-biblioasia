@@ -1,9 +1,36 @@
 ---
 title: "Knowledge Economy: Linchpin of Asean Integration"
 permalink: /vol-5/issue1/apr-2009/knowledge-economy-linchpin-asean-integration/
-description: "The keynote speech delivered by Dr Surin Pitsuwan,
+description: The keynote speech delivered by Dr Surin Pitsuwan,
   Secretary-General of ASEAN, on 17 October 2008 (Day Two) at the “Bridging
   Worlds 2008 Conference”, organised by the National Library Board of Singapore
   and the NGO Learning Summit, in collaboration with the Asia Dialogue Society.
-  "
 ---
+#### The keynote speech delivered by _Dr Surin Pitsuwan_, Secretary-General of ASEAN, on 17 October 2008 (Day Two) at the “Bridging Worlds 2008 Conference”, organised by the National Library Board of Singapore and the NGO Learning Summit, in collaboration with the Asia Dialogue Society.
+
+We celebrated the 40th anniversary of ASEAN last year here in this island state of Singapore with the inauguration of the ASEAN Charter. In December of 2008 we will celebrate the full ratification of the ASEAN Charter by all 10 member states. The Charter represents a new threshold of collective and collaborative integration on three definite fronts: the Socio Cultural Community; the Security Community and the Economic Community. In the last 40 years, ASEAN, driven by the exigencies of regional political and security circumstances, had focused on the security and economic community. The economic front gained momentum in the latter half of the last century and the better half of this decade, culminating in the ASEAN Economic Integration Roadmap. This meeting, which has brought the community of librarians, foundations and the NGOs together, is therefore timely. Let me congratulate the National Library Board of Singapore and the Asian Dialogue Society for this initiative.
+
+The economic integration plans, however, will face several challenges given the current global financial crises. While we will weather this crisis together with the rest of the world, the one thing that remains a constant for ASEAN and Southeast Asia is their sociocultural heritage. The soul of ASEAN rests on this pillar and unmistakeably tops the Secretariat’s agenda going forward. ASEAN is working towards developing a blueprint, and I believe this conference would contribute significantly in terms of ideas, inspiration and inputs into this blueprint.
+
+ASEAN’s perspective of the socio-cultural pillar is closely intertwined with the Security and Economic community and mutually reinforcing. To illustrate the intertwining or converging worlds of politics, economics and socio-cultural axis, allow me to highlight the issue of youth employment in ASIA and more specifically ASEAN. The Asia Development Outlook 2008 analysed that India, Indonesia, Philippines and Thailand, together, account for close to half the young population in Asia — 33% from India and 12% from Indonesia, Philippines and Thailand combined. ASEAN’s “Youth Bulge” provides an opportunity to reap a long term “demographic dividend” which is expected to peak in 2010. It can be a demographic curse if the vitality of the youth is not garnered for regional integration. By and large Southeast Asian countries have been slow to capitalise on engaging the youth productively in their own economies, and this opportunity will soon close its doors on Indonesia, Philippines and Thailand. Countries can only yield demographic dividends when their young people are productively employed and as they grow older, accumulate assets and reinvest, thereby generating higher national income. But the enabling factors are not in place in many Southeast Asian countries.
+
+The “Youth Bulge” can have negative consequences for governments that are largely administered by silver-haired politicians who maybe less sensitive to the changing demand patterns on the ground. ASEAN youth are more exposed today than before, but are less culturally integrated with their immediate neighbours compared to their predecessors. Each is living in isolation from the other. ASEAN’s stability in 2010 will be contingent on socialcultural freedoms and not on economic freedoms alone. We need to urgently inculcate this in our younger citizenry. 2010 is not far away. Sociocultural connectivity lags behind communication leaps in the region. My son recently shared that he had gone out for dinner with some of his friends and no sooner did he realise that all of them were SMSing and communicating with their friends on the other end of the world instead of communicating with each other while seated at the same table waiting for dinner to be served. The Singapore-led digitisation model in the region will have a social impact that needs to be balanced with community bonding initiatives of libraries.
+
+I am glad that ASEAN is in the business of bridging worlds. ASEAN aspires to create an “operating system” for the region and we propose to build the region as a social compact premised on sound policies, strong political and social interrelatedness with people connectivity. What do we mean by socio-cultural freedoms?
+
+While economic freedom and sovereignty defines the scope of economic and security community outcomes, socio-cultural freedoms underpin all three domains of economy, security and culture. How do we conceive of socio-cultural freedoms or what environment does it presuppose? May I propose some initial thoughts?
+
+In my mind, socio-cultural freedoms can be exercised in an environment that bridges diversity. ASEAN’s ability to embrace diversity has been a key determinant of our social and economic success as a region. The region in itself is a melting pot of a myriad of cultures, crusted by waves of religious and political influences from all over the world. The wider world’s footprint is found in this single region with ASEAN as the paramount architect of ASIA’s peace and security. ASEAN has created a platform for emerging and existing powers to dialogue and network, understand and collaborate with others while maintaining our rich diversity and savouring our differences. The region needs to regenerate its cultural creativity to compete with the larger continents. While we value diversity, we also need to bridge diversity. Tolerance enables a stable and peaceful ASEAN. ASEAN Cultural Exchanges, the ASEAN Virtual Museum Network and ASEAN INFO NET are early attempts at bridging diversity.
+
+On this bedrock of diversity, the region needs to create an environment where human potential can be enhanced. The human development agenda is of primary concern to ASEAN at this point in time.
+
+Socio-cultural freedoms can only be exercised in the context of a participatory environment. A strong participatory framework championed by civic institutions, NGO’s and Foundations will enhance the ASEAN Secretariat’s efforts to bridge the region’s resources with its aspirations. Developing close ties between the governed and the governing, talent and capital, business-academia-government creates a networked impact fostering greater participation and ownership to the region. ASEAN citizens need to be stakeholders in this new enterprise and invest in their destiny. The participatory environment is best fostered through a networked secretariat where responsibility and accountability are devolved from the power centre in Jakarta to its constituencies in all 10 ASEAN countries. You the custodians of knowledge, the depositories of cultures, are one such constituency that we want to and must work with.
+
+#### **Knowledge as Strategy**
+
+
+
+
+
+
+
