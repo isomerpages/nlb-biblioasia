@@ -53,10 +53,16 @@ Modern art in Thailand: Nineteenth And Twentieth Centuries (1992) <br>  Soul, Sp
 
 #### **Biographical Dictionaries**
 
+<img src="/images/Vol%205%20Issue%201/BuildingMosaic/faithcity.jpg" style="width:50%;">
+ <div style="background-color: white;"> <i>All rights reserved, Valentine Willie Fine Art, 2000.</i></div>
+
 Biographical dictionaries focus on artists of a particular country or region. They contain a brief biography, often a resume of sorts, as well as a quote or short interview, and some samples of the artist’s works. The emphasis here is primarily on documenting the biographical details of the individual artists, and the authors/ contributors seldom draw parallels between the artists or works: <br> 
 Southeast Asian Art Today (1996) <br>  Masterpieces Of Contemporary Indonesian Painters (1997) <br>  Singapore Artists Speak (1998) <br>Faith + The City: A Survey Of Contemporary Filipino Art (2000)
 
 #### **A ‘Story’ of Southeast Asian Contemporary Art?**
+
+<img src="/images/Vol%205%20Issue%201/BuildingMosaic/modernitybeyond.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Singapore Art Museum, 1996.</i></div>
 
 As with thematic books, the chapters in these publications are still devoted to a single country, but certain trans-national themes may emerge. However, given that there are usually different authors for each chapter, a lack of a unified voice may result. Even so, a few books do come close to providing an overview of Southeast Asian modern/contemporary art: <br>
 Modernity and Beyond: Themes in Southeast Asian art (1996) <br> South East Asian Art: A New Spirit (1997) <br> Visual Arts in ASEAN: Continuity and Change (2001) <br> Art and Social Change: Contemporary Art in Asia and the Pacific (2004)  <br>Art and AsiaPacific Almanac (2006)
