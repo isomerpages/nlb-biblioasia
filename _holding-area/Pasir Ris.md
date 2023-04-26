@@ -133,3 +133,7 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 [^12]: Wendy Hutton, “[Spend a Quiet Day at a Beach Hotel with Charming Atmosphere...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710529-1.2.22),” _New Nation,_ 29 May 1971, 4; “[Beach Hotel Now an RAF Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590507-1.2.81),” _Straits Times,_ 7 May 1959, 7; Sam Ran, “[Hotel Shuts Doors for the Last Time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831231-1.2.19.20),” _Straits Times,_ 31 December 1983, 12. (From NewspaperSG)
 
 [^13]: Hutton, “[Spend a Quiet Day at a Beach Hotel with Charming Atmosphere...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710529-1.2.22)”
+
+[^14]: Sam Ran, “[Hotel Shuts Doors for the Last Time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831231-1.2.19.20).”
+
+[^15]:&nbsp;“[Page 3 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690208-1.2.20.2),” _Straits Times,_ 8 February 1969, 3; “[Boating and Fishing for the Water-loving Tourist](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19690212-1.2.34),” _Eastern Sun,_ 12 February 1969, 3. (From NewspaperSG)
