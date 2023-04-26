@@ -2,6 +2,8 @@ collections:
   apr-2009:
     output: true
     order:
+      - "Building the Mosaic: In Search of Southeast Asian Contemporary Art
+        Writing and Publications.md"
       - "Social Innovation in Singapore: Two Case Studies of Non governmental
         Organisations.md"
       - Director Column.md
