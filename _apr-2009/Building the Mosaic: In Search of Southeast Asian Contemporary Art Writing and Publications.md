@@ -48,6 +48,17 @@ Southeast Asian Art Today (1996) <br>  Masterpieces Of Contemporary Indonesian P
 
 #### **A ‘Story’ of Southeast Asian Contemporary Art?**
 
+As with thematic books, the chapters in these publications are still devoted to a single country, but certain trans-national themes may emerge. However, given that there are usually different authors for each chapter, a lack of a unified voice may result. Even so, a few books do come close to providing an overview of Southeast Asian modern/contemporary art: <br>
+Modernity and Beyond: Themes in Southeast Asian art (1996) <br> South East Asian Art: A New Spirit (1997) <br> Visual Arts in ASEAN: Continuity and Change (2001) <br> Art and Social Change: Contemporary Art in Asia and the Pacific (2004)  <br>Art and AsiaPacific Almanac (2006)
+
+#### **The Art Journals and Newspapers**
+
+Some of the best barometers of the contemporary art world are journals, a number of which have existed for decades or longer, while others appear for as few as one issue and then disappear.
+
+The art journal has much more flexibility than the art book. It does not incur the same investment risks as printing a book, it can position itself at any point in a continuum between art-as-entertainment and serious art scholarship, and it can employ writers with a variety of credentials. Asian art is permeating the contemporary art world in North America and Europe, a fact that is apparent in journals like *Art and AsiaPacific quarterly*, which is a valiant effort to chart the highlights of the rapidly changing Asian art scene and situate it in the international art world. Another example is *AsianArtNews*, which is a similar tour of Asian art happenings and personalities. Both publications are filled with gallery advertisements, and the critical content, though present, is sometimes hard to spot. In terms of writing style, these publications are more akin to newspaper arts coverage than to scholarly journals.
+
+The local newspaper is another source that can be relied upon to have some mention of regional contemporary artists, if they are actively showing their works. There are a couple of challenges to such sources of information, however. Firstly, they may require a competent reading knowledge of languages other than English. Secondly, news reports are intended to be brief and, regardless of the knowledge and authority of the author, can at best have time for only a cursory treatment of the topic. There are a few exceptions in newspapers with regular arts columns and dedicated critics, but, even in large markets like the United States, newspaper coverage of art is declining (Plagens, 2007). More significantly, there are difficulties in finding a suitable voice and a stable readership for such works. Columnists seem to be not entirely sure who is reading it and why, and it is not clear whether the situation calls for a critical voice, a marketing pitch, or a neutral description. While a worthwhile and often necessary resource, newspaper art coverage remains difficult to use for research purposes.
+
 
 
 
