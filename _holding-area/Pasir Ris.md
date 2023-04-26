@@ -73,3 +73,11 @@ In 1984, the Parks and Recreation Department (today’s National Parks Board) em
 Today, the 70-hectare park – which stretches over 3.2 kilometres – provides pony rides, bicycle and barbecue pit rentals, camping sites and water sports facilities. A highlight of the park is the preserved mangrove forest with a mangrove boardwalk and a three-storey tower for birdwatching.[^28]
 
 Nature lovers can also visit Lorong Halus Wetland, a former landfill along the eastern bank of Serangoon Reservoir. Officially opened in March 2011, the wetland protects the reservoir water from contaminants caused by landfill waste. Spanning Serangoon Reservoir is the Lorong Halus Red Bridge, a great place to catch the sunset and popular with Instagrammers.[^29]
+
+#### **A Residential Town**
+
+One of the earliest housing developments in Pasir Ris was the 57-hectare Pasir Ris Beach Park Estate. The private residential area, developed by property developer Kong Joo in the early 1970s, comprised 328 bungalows, semi-detached houses and terrace houses located near the former Pasir Ris Hotel site. Residents likened it to living in a kampong, and even harvested shrimps from the sea to make their own _belacan_ and _cincalok_ (fermented shrimp product).30
+
+Happy Tay, president of the Pasir Ris Beach Park Residents’ Association, told the _Straits Times_ in 1988: “The atmosphere in this place is just like a kampung. Even if there is a disagreement, we try to solve it in a friendly manner and no one takes offence if we point out their mistakes. And people genuinely like to help each other.”31 Several of these houses today are owned by the government and private corporations as holiday bungalows for their employees.32
+
+The Housing and Development Board (HDB) announced plans for the development of Pasir Ris New Town in its 1984/85 annual report, with construction slated to begin in 1986. The government had acquired land to build the new housing estate from Bukit Sembawang Rubber Company, Shaw Brothers and a number of private individuals in 1983. To attract potential buyers to the far-flung location, the HDB highlighted amenities such as the MRT system that would take residents to Orchard Road in 30 minutes and the new Pasir Ris Park. “Better-quality flats with better finish and better designs” in Pasir Ris were also cited to boost the estate’s appeal.33
