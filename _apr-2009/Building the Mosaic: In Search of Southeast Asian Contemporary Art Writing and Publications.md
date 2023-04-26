@@ -90,10 +90,13 @@ For Southeast Asian contemporary art, a critical mass of information in a fairly
 Secondly, all organisations producing art writing can make a concerted effort to consolidate these writings in a durable format, and deposit copies with libraries or archives. Worldwide, art libraries face similar challenges in documenting contemporary art. In 2005, the Asia Art Archive organised an international workshop entitled “Archiving the contemporary”, the results of which parallel concerns of art library associations in North America, the United Kingdom and elsewhere. Multifarious formats make it challenging to build collections, though at the same time they also make the collection richer and more balanced, when taken in its entirety. Despite the difficulties, libraries and archives can and do take on the uphill task of preserving these art forms, and make room for them within limited budgets.
 
 Together, these two strategies focus on improving access to information, by improving the quality of the materials themselves and by making them easily available to readers. As Southeast Asian contemporary art writing and publishing evolves over time, access to this information will remain the key to its continued survival.
-	
-	
 
-	
-	
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/roberta%20balagopal.JPG">
+<center><b>Roberta Balagopal</b><br> Senior Librarian<br>  Lee Kong Chian Reference Library<br>  National Library</center>
+
+
+
+
 
 
