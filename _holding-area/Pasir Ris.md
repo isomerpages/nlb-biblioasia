@@ -128,4 +128,8 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 
 [^10]: “[Hotelier Building Seaside Resort on 130-acre Site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520415-1.2.30),” _Singapore Standard,_ 15 April 1952, 2; “[4 Lawyers in Will Dispute](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510531-1.2.114),” _Straits Times,_ 31 May 1951, 8. (From NewspaperSG)
 
-[^11]: 
+[^11]: “[Page 11 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520516-1.2.160.1),” _Straits Times,_ 16 May 1952, 11; “[Hotelier Building Seaside Resort on 130-acre Site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520415-1.2.30)”; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520517-1.2.36.2),” _Straits Times,_ 17 May 1952, 2; “[New Hotel by the Sea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520518-1.2.33),” _Straits Times,_ 18 May 1952, 3. (From NewspaperSG)
+
+[^12]: Wendy Hutton, “[Spend a Quiet Day at a Beach Hotel with Charming Atmosphere...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710529-1.2.22),” _New Nation,_ 29 May 1971, 4; “[Beach Hotel Now an RAF Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590507-1.2.81),” _Straits Times,_ 7 May 1959, 7; Sam Ran, “[Hotel Shuts Doors for the Last Time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831231-1.2.19.20),” _Straits Times,_ 31 December 1983, 12. (From NewspaperSG)
+
+[^13]: Hutton, “[Spend a Quiet Day at a Beach Hotel with Charming Atmosphere...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710529-1.2.22)”
