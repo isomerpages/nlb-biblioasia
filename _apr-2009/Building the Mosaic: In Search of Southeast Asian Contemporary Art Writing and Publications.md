@@ -21,6 +21,7 @@ Few would dispute the importance of gathering and preserving information on cont
 Scholarly art publishing has a limited market at best, and even the more accessible ‘coffee-table’ genre of books, if produced well, are expensive to make. Items published in conjunction with an exhibition feature prominently, and have a high degree of authoritativeness by virtue of their panels of guest expert writers. Museum exhibits, however, have a national agenda, and the subject matter of these books, as they accumulate over the years, will reflect that. Private and school galleries also produce such catalogue-books, but the distribution is limited to their audiences and seldom reaches beyond.
 
 #### **Who Is Reading It?**
+
 Without a clear knowledge of who is interested in reading such works, writers, publishers and collectors are working blind. Researchers will read on a needs-basis, as will curators, and probably a portion of art critics. Whether other artists read history and criticism regularly is less clear, though some certainly do. Two other groups of readers remain on the sidelines: student artists and interested laypersons. Student artists are apprentice artists in the process of acquiring skills and observing role models. The interested layperson is someone who knows something either of the region or of art in general. He or she may also have had some exposure to modern/postmodern art elsewhere in the world, but would be interested to obtain some regional context in terms of styles, movements and cross-border influences. These are the cross-disciplinary readers, or the informed non-specialists. It is via the readership of the above groups that interest in art is vitalised, publicised, and brought to the attention of those with the economic power to sustain it.
 
 #### **The Art Book**
@@ -37,9 +38,15 @@ While works that provide comprehensive overviews of the region’s art scene are
 
 #### **Books on Individual Artists**
 
+<img src="/images/Vol%205%20Issue%201/BuildingMosaic/hendra%20.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, Archipelago Press, 2001.</i></div>
+
 These are beginning to emerge, as with the passing of first generation pioneer modern artists of the 1930s–1950s, there are compelling reasons to document their lives and works. While not primarily biographies, artist retrospectives also appear at intervals, often sponsored by galleries and museums to accompany a show of recently donated materials. This type of publication is especially common for painters from Indonesia and the Philippines, and is gradually expanding to Thailand, Vietnam, Singapore and elsewhere in the region. Examples of such retrospectives include: <br> Edades: National Artist (1979) <br> Hendra Gunawan: A Great Modern Indonesian Painter (2001) <br> Convergences: Chen Wen Hsi Centennial Exhibition (2006)
 
 #### **Thematic Books**
+
+<img src="/images/Vol%205%20Issue%201/BuildingMosaic/soul%20spirit1.jpg" style="width:50%;">
+ <div style="background-color: white;"> <i>All rights reserved, Penerbit Fajar Bakti, 1994.</i></div>
 
 These books focus on recurring themes or subjects in a country’s art, often incorporated into a survey of the country’s ‘modern era’. Themes can encompass social or spiritual concerns, or notions of aesthetics and style. It can also serve as an expression of a country’s cultural history as told through art. Such thematic books rarely make comparative studies of issues across nations, although parallels with other Southeast Asian countries do exist and are sometimes briefly acknowledged. Some examples of thematic works include: <br> 
 Modern art in Thailand: Nineteenth And Twentieth Centuries (1992) <br>  Soul, Spirit, and Mountain: Preoccupations Of Contemporary Indonesian Painters (1994) <br> Protest/Revolutionary Art In Philippines, 1970–1990 (2001)
