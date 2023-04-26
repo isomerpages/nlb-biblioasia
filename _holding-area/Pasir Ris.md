@@ -123,3 +123,9 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 [^7]: “[Mak Piah dan Laut Seperti Lagu dan Irama](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860709-1.2.23.4),” _Berita Harian,_ 9 July 1986, 3; “[Kisah Di Sebalik Nama2 Menarik di Kg Elias](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860709-1.2.23.3),” _Berita Harian,_ 9 July 1986, 3; “[Kampung Jadi Tumpuan Pengeluar Filem Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19850803-1.2.41.2),” _Berita Harian,_ 3 August 1985, 7. (From NewspaperSG)
 
 [^8]: “Advertisement: Méliès ‘Round the World’ Films,” _Moving Picture World_ 17, no. 3 (19 July 1913): 379. Internet Archive, https://archive.org/details/movingpicturewor17newy.
+
+[^9]: Raphaël Millet, “[Gaston Mèliès and His Lost Films of Singapore](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/gaston-melies),” _BiblioAsia_ 11, no. 1 (April–June 2016): 11–15.
+
+[^10]: “[Hotelier Building Seaside Resort on 130-acre Site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520415-1.2.30),” _Singapore Standard,_ 15 April 1952, 2; “[4 Lawyers in Will Dispute](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510531-1.2.114),” _Straits Times,_ 31 May 1951, 8. (From NewspaperSG)
+
+[^11]: 
