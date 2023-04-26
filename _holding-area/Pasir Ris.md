@@ -84,5 +84,24 @@ The Housing and Development Board (HDB) announced plans for the development of P
 
 The town welcomed its first residents in 1988 and was dubbed a “yuppie neighbourhood with high expectations” by its Member of Parliament Charles Chong, as most of the residents were mainly young families.[^34] Airline relations manager Nur Aireen Abdullah and her family moved into a five-bedroom flat in Pasir Ris Drive 6 in June 1989. She recalled: “There were limited bus services that plied the new neighbourhood at the time. There were no amenities or facilities. However, we were still thrilled to be able to walk to the beach from our home in under 10 minutes. Some evenings, my mother would pack our food, and we would eat by the beach. My siblings and I also enjoyed exploring the maze and spotting mudskippers at the mangrove swamp.”[^35]
 
+Former chief of Mercy Relief Hassan Ahmad, who moved to an executive flat in Pasir Ris in 2006, said that the “proximity to nature” drew him to the estate. “We do a lot of cycling around here, my kids also love the beach at Pasir Ris Park. There are a lot of big open spaces,” he told the _Straits Times_ in June 2015.[^36]
 
+Over the years, more facilities and amenities were added to the estate. Pasir Ris Bus Interchange and Pasir Ris MRT station opened in December 1989, while Loyang Primary School and Loyang Secondary School were the first schools established there. (Both schools no longer exist as they have merged with other schools due to declining enrolments.)[^37]
 
+Some notable religious landmarks in the estate include Tibetan Buddhist temple Sakya Tenphel Ling, Pentecost Methodist Church, Church of Divine Mercy and Masjid Al-Istighfar.
+
+In November 2011, the Pasir Ris Sports Centre was officially opened. The centre houses an indoor sports hall, swimming pools, futsal and tennis courts, a gym, food outlets and sporting goods shops.[^38] Next to it is the estate’s first hawker centre, Pasir Ris Central Hawker Centre, which opened in November 2017.[^39] Shopping malls such as White Sands, Loyang Point, Elias Mall and Pasir Ris West Plaza cater to residents’ shopping and dining needs.[^40]
+
+#### **A Recreational and Entertainment Hub**
+
+Downtown East – a lifestyle, leisure and entertainment hub located at Pasir Ris Close – is one of Pasir Ris’ most recognisable landmarks. It was formerly known as NTUC Pasir Ris Resort, and was officially opened in 1988. The 14.7-hectare site offered chalets, swimming pools, a discotheque, squash and tennis courts, and play areas for children.[^41]
+
+The resort was redeveloped and renamed Downtown East in 2000. New amenities included Escape Theme Park, an outdoor theme park, which opened in May 2000, and water theme park Wild Wild Wet, which began operations four years later. Both parks became highly popular among Singaporeans and tourists.[^42]
+
+In 2008, E!hub, a new five-storey one-stop leisure and entertainment centre – comprising a cinema, a family play centre, gaming arcades, a bowling centre as well as retail and dining outlets – opened in Downtown East. Although Escape Theme Park closed in 2011, D’Resort @ Downtown East opened on its site and welcomed its first guests in July 2015. Wild Wild Wet was also enlarged in 2016.[^43]
+
+Today, Pasir Ris continues to be well loved by residents and is a popular retreat spot for Singaporeans. On weekends and public holidays, families and groups of young people continue to fill the rooms of the holiday chalets at Downtown East. Some pitch tents by the sea while others gather for beachside picnics or barbecue sessions.
+
+In 2017, the HDB announced that Pasir Ris would be rejuvenated under the Remaking Our Heartland programme. In the works are new flats, more retail outlets, a town plaza for community activities and a mixed-use development integrated with a bus interchange. A key feature of the facelift is a 1.2-kilometre-long Central Greenway, where an elevated section of the greenway will enable residents to walk from Pasir Ris MRT station to Pasir Ris Park in 10 minutes.[^44]
+
+Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks forward to a refreshed neighbourhood when the works are completed. “I will probably not move out from Pasir Ris. I love it here as it holds the memories of my happy childhood and there are plenty of things to do here. I look forward to exploring the new recreational facilities and community spaces with my family,” she said.[^45]
