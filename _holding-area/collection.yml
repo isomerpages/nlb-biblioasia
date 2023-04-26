@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - Pasir Ris.md
       - Test page.md
