@@ -9,6 +9,9 @@ image: /images/Vol 5 Issue 1/BuildingMosaic/contemporary indonesian painters.jpg
 ---
 #### Senior Librarian and Lee Kong Chian Research Fellow&nbsp;_Roberta Balagopal_&nbsp;considers the dearth of critical published information on Southeast Asian contemporary visual art and artists and how to fill in that gap.
 
+<img src="/images/Vol%205%20Issue%201/BuildingMosaic/visualarts%20.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>All rights reserved, ASEAN Committee on Culture and Information, 2001.</i></div>
+
 Southeast Asian contemporary visual art, despite its vibrancy and visibility, suffers from a dearth of useful published information with which to interpret it. It is a challenge to find art criticism, biographies and histories of reasonable depth on the subject, requiring lengthy and skilled research.
 
 Few would dispute the importance of gathering and preserving information on contemporary Southeast Asian artists. This is what forms the core of art scholarship – having a body of literature to draw upon and discuss. Currently, the information on Southeast Asian art is scattered, of varying authority and degrees of accessibility (both physical and linguistic). This is the difficulty, to some extent, of all contemporary art. The information being produced is great in volume and often of an ephemeral nature, and the only way for art critics and art historians writing in their separate echelons to have a meaningful exchange and move forward together is for everyone to read everything, or at least to read something from every genre (Elkins, 2003). For Southeast Asian contemporary art, the challenge is exacerbated by the lack of regularly published journals that focus on the region, and a simple lack of art historians and knowledgeable critics. The scattered bits that do get recorded are collected with varying regularity by museums, curators, academics, and other bodies such as archives and libraries.
@@ -159,6 +162,3 @@ _[South East Asian Art: A New Spirit](https://eservice.nlb.gov.sg/item_holding.a
 Thavibu Gallery: Contemporary Art from Thailand, Vietnam and Burma (1998–), accessed 16 March 2007, https://www.thavibu.com/index.php.
 
 _The Substation Magazine_ (2007), accessed 16 March 2007, http://www.substation. org/mag/.
-
-
-
