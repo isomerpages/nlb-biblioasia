@@ -32,3 +32,8 @@ Apart from rubber tapping and fishing as their livelihoods, the Malay villagers 
 
 Interestingly, Pasir Ris was used as a film location very early on. In 1913, French filmmaker Gaston Méliès shot _The Poisoned Darts_ in the area. An advertisement that ran in _Moving Picture World_ magazine proudly proclaimed that it was “produced in the jungles of Passir Riz \[Pasir Ris\], a suburb of Singapore, Strait Settlements, Asia, employing natives in many of the roles”.[^8] Author and film director Raphaël Millet, who directed a documentary on Méliès, noted that based on the surviving footage of this film, the actors were most likely inhabitants of Malay villages in Pasir Ris.[^9]
 
+#### **A Seaside Getaway**
+
+Pasir Ris was known for its recreational amenities that attracted local holidaymakers and tourists. Pasir Ris Hotel, the location for the song “Bila Mama Pakai Celana” was a pioneer in beachfront development in Pasir Ris.[^10]
+
+A _Straits Times_ advertisement on 16 May 1952 described the hotel as “Singapore’s Premier Pleasure Resort” that offered “the clearest, beautiful, palm-fringed beaches, swimming, boating and lawn tennis”. Officially opened on 17 May, the hotel comprised 35 fully furnished rooms fitted with modern sanitation, and provided amenities such as a dance hall, tennis courts and an enclosed swimming _pagar_ (fenced-in pool; _pagar_ means “fence” in Malay).11
