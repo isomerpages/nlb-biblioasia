@@ -2,13 +2,13 @@ collections:
   apr-2009:
     output: true
     order:
-      - "Building the Mosaic: In Search of Southeast Asian Contemporary Art
-        Writing and Publications.md"
-      - "Social Innovation in Singapore: Two Case Studies of Non governmental
-        Organisations.md"
       - Director Column.md
       - Knowledge Sharing in Singapore Public Post secondary Educational
         Institutions.md
       - Selected British Colonial Era Overseas Chinese Personalities and Their
         Links to  to Communities.md
       - Women and Islam in Pre nineteenth Century Aceh.md
+      - "Social Innovation in Singapore: Two Case Studies of Non governmental
+        Organisations.md"
+      - "Building the Mosaic: In Search of Southeast Asian Contemporary Art
+        Writing and Publications.md"
