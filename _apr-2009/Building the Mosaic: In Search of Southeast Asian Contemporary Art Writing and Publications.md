@@ -96,7 +96,69 @@ Together, these two strategies focus on improving access to information, by impr
 <center><b>Roberta Balagopal</b><br> Senior Librarian<br>  Lee Kong Chian Reference Library<br>  National Library</center>
 
 
+#### **REFERENCES**
 
+“A Foot in the Malaysian Arts Scene!” _Kakiseni_ (2001–), [http://www.kakiseni.com/](http://www.kakiseni.com/).
+
+Abdul Ghani Haji Bujang et al., _[Visual Arts in ASEAN: Continuity and Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11327885)_ (Kuala Lumpur: ASEAN Committee on Culture and Information, 2001). (Call no. RSING 709.59 VIS)
+
+Agus Dermawan T. and Astri Wright, [_Hendra Gunawan: A Great Modern Indonesian Painter_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10745625) (Singapore: Archipelago Press, 2001). (Call no. RSING q759.9598 AGU)
+
+Alice G. Guillermo, _[Protest/Revolutionary Art in Philippines, 1970–1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11060992)_ (Philippines: University of the Philippines Press, 2001). (Call no. RSEA 700.9599 GUI)
+
+Apinan Poshyananda, _[Modern Art in Thailand: Nineteenth and Twentieth Centuries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6339133)_ (Singapore: Oxford University Press, 1992). (Call no. RSEA 709.593 API)
+
+[_Art and AsiaPacific Almanac_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12676493) (New York: Art AsiaPacific Pub., 2006). (Call no. RART 709.5 AAPA)
+
+[_Art and AsiaPacific Quarterly Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6581536) (1993–). (Call no. RART 709.5 AAQJ)
+
+_Asia Art Archive_, (n.d.), accessed 16 March 2007, [http://www.aaa.org.hk/](http://www.aaa.org.hk/).
+
+_[AsianArtNews](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11017630)_ (1991–2020). (Call no. RART 709.505 AAN)
+
+Astri Wright, _[Soul, Spirit, and Mountain: Preoccupations of Contemporary Indonesian Painters](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6902940)_ (Malaysia: Penerbit Fajar Bakti, 1994). (Call no. RSEA 759.95980904 WRI)
+
+Ateneo Art Gallery, n.d. accessed 16 March 2007, https://ateneoartgallery.com/.
+
+Balai Seni Lukis Negara \[National Gallery of Art\], n.d., accessed 16 March 2007, http://www.artgallery. gov.my/.
+
+Caroline Turner, ed., _[Art and Social Change: Contemporary Art in Asia and the Pacific](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12590417)_ (Canberra: Pandanus Books, 2004). (Call no. RART 701.03095 ART)
+
+Catherine M. Soussloff, “Publishing Paradigms in Art History,” _Art Journal_ 65, no. 4 (Winter 2006), 37–38. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+Chen Wenxi, _[Convergences: Chen Wen Hsi Centennial Exhibition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12829865)_ (Singapore: Singapore Art Museum, 2006). (Call no. RSING 759.95957 CHE)
+
+Christopher Lyon, “Art Book’s Last Stand?” _[Art in America](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4195497)_ 94, no. 8 (September 2006), 49–50. (Call no. RART 705 AA)
+
+Emmanuel Torres, Ana Labrador and Jessica Zafra, _[Faith + the City: A Survey of Contemporary Filipino Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10817027)_ (Kuala Lumpur: Valentine Willie Fine Art, 2000). (Call no. RSEA 759.9599 TOR)
+
+Esmeralda Bollansee and Marc Bollansee, _[Masterpieces of Contemporary Indonesian Painting](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8607605)_ (Singapore: Times Editions, 1997). (Call no. RART 759.9598 BOL)
+
+Gina Fairley, “Art Without Prejudice,” sentAp! no. 3 (April–June 2006), https://universes.art/en/nafas/articles/2006/sentap.
+
+James Elkins, _[Stories of Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11389612)_ (London: Routledge, 2002). (Call no. RART 707.22 ELK)
+
+James Elkins, _[What Happened to Art Criticism?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12719630)_ (Chicago, Ill.: Prickly Paradigm Press, 2003). (Call no. RART 701.18 ELK)
+
+Joyce van Fenema et al., _[Southeast Asian Art Today](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7861253)_ (Singapore: G and B Arts International, 1996). (Call no. RART 709.5909045 SOU)
+
+P. Plagens, “Contemporary Art, Uncovered,” _[Art in America](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4195497)_ 95, no. 2 (2007), 45. (Call no. RART 705 AA)
+
+Peter Timms, _[What’s Wrong With Contemporary Art?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12299371)_ (Sydney: UNSW Press, 2004). (Call no. RART 709.05 TIM)
+
+Purita Kalaw-Ledesma and Amadis Ma. Guerrero, _[Edades: National Artist](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117439)_ (Manila: Filipinas Foundation, 1979). (Call no. RSEA 759.9599 EDA)
+
+Richard Lim, ed., _[Singapore Artists Speak](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9080579)_ (Singapore: Raffles Editions, 1998). (Call no. RART 709.5957 SIN)
+
+Singapore Art (n.d.)., accessed 16 March 2007, [http://www.singaporeart.org/](http://www.singaporeart.org/).
+
+Singapore Art Museum, _[Modernity and Beyond: Themes in Southeast Asia Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8709048)_ (Singapore: Singapore Art Museum, 1996). (Call no. RART 709.59 MOD)
+
+_[South East Asian Art: A New Spirit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8758756)_ (Singapore: Art &amp; Artist Speak, 1997). (Call no. RART 709.59 SOU)
+
+Thavibu Gallery: Contemporary Art from Thailand, Vietnam and Burma (1998–), accessed 16 March 2007, https://www.thavibu.com/index.php.
+
+_The Substation Magazine_ (2007), accessed 16 March 2007, http://www.substation. org/mag/.
 
 
 
