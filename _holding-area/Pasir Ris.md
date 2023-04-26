@@ -105,3 +105,11 @@ Today, Pasir Ris continues to be well loved by residents and is a popular retrea
 In 2017, the HDB announced that Pasir Ris would be rejuvenated under the Remaking Our Heartland programme. In the works are new flats, more retail outlets, a town plaza for community activities and a mixed-use development integrated with a bus interchange. A key feature of the facelift is a 1.2-kilometre-long Central Greenway, where an elevated section of the greenway will enable residents to walk from Pasir Ris MRT station to Pasir Ris Park in 10 minutes.[^44]
 
 Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks forward to a refreshed neighbourhood when the works are completed. “I will probably not move out from Pasir Ris. I love it here as it holds the memories of my happy childhood and there are plenty of things to do here. I look forward to exploring the new recreational facilities and community spaces with my family,” she said.[^45]
+
+#### **Notes**
+
+[^1]: “Saudagar Minyak Urat / Love Crazy (1959),” Singapore Film Locations Archive, 2 February 2015, https://sgfilmlocations.com/2015/02/02/saudagar-minyak-urat-love-crazy-1959/.
+
+[^2]: “[Hotelier Building Seaside Resort on 130-acre Site](eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520415-1.2.30),” _Singapore Standard_, 15 April 1952, 2; “[4 Lawyers in Will Dispute](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510531-1.2.114),” _Straits Times_, 31 May 1951, 8; Lesley Koh, “[Hidden Treasure](eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921204-1.2.141.2),” _Straits Times_, 4 December 1992, 1. (From NewspaperSG); Victor R. Savage and Brenda S.A. Yeoh, _[Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?id=205854725&amp;type=bid)_ (Singapore: Marshall Cavendish Editions, 2023), 147. (From National Library, Singapore, call no. RSING 915.9570014 SAV-\[TRA\])
+
+[^3]: 
