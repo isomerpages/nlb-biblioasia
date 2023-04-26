@@ -36,4 +36,10 @@ Interestingly, Pasir Ris was used as a film location very early on. In 1913, Fre
 
 Pasir Ris was known for its recreational amenities that attracted local holidaymakers and tourists. Pasir Ris Hotel, the location for the song “Bila Mama Pakai Celana” was a pioneer in beachfront development in Pasir Ris.[^10]
 
-A _Straits Times_ advertisement on 16 May 1952 described the hotel as “Singapore’s Premier Pleasure Resort” that offered “the clearest, beautiful, palm-fringed beaches, swimming, boating and lawn tennis”. Officially opened on 17 May, the hotel comprised 35 fully furnished rooms fitted with modern sanitation, and provided amenities such as a dance hall, tennis courts and an enclosed swimming _pagar_ (fenced-in pool; _pagar_ means “fence” in Malay).11
+A _Straits Times_ advertisement on 16 May 1952 described the hotel as “Singapore’s Premier Pleasure Resort” that offered “the clearest, beautiful, palm-fringed beaches, swimming, boating and lawn tennis”. Officially opened on 17 May, the hotel comprised 35 fully furnished rooms fitted with modern sanitation, and provided amenities such as a dance hall, tennis courts and an enclosed swimming _pagar_ (fenced-in pool; _pagar_ means “fence” in Malay).[^11]
+
+However, seven years later, the hotel was converted into a transit accommodation for the personnel of the British Royal Air Force and their families. Although the hotel subsequently reopened to the public in 1966, it never regained its former glory and struggled to attract guests.[^12]
+
+In May 1971, _New Nation_ reporter Wendy Hutton described the hotel as a “faded gentlewoman, now reduced to taking in paying guests, who occasionally dreams of the days of her youth and beauty when young men sipped champagne from her dancing slippers”.[^13]
+
+The hotel hung on for another decade before finally shuttering on 31 December 1983. Speaking to the _Straits Times_ that year, Robin Tan, the assistant front manager, recalled the hotel in its heyday. “I remember coming to this place when I was a little boy and seeing only _ang mohs_ (Caucasians) around. It was very exclusive, somewhat like the Singapore Cricket Club. And the sea came right up to the hotel’s doorsteps.”[^14]
