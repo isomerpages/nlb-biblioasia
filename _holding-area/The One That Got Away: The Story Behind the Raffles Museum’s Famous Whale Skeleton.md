@@ -153,7 +153,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^24]: “Labuan’s Century-old Whale,” *Daily Express Sabah*, 30 December 2006,  https://rafflesmuseumnews.wordpress.com/2007/01/20/labuans-century-old-whale/.
 
-[^25]: Make No Bones, About It, “Whale of a Loss,” *Straits Times*, 9 May 1974, 10. (From NewspaperSG) 
+[^25]: Make No Bones, About It, “[Whale of a Loss](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740509-1.2.72.4),” *Straits Times*, 9 May 1974, 10. (From NewspaperSG) 
 
 [^26]: “The Loss of Those Exhibits…,” *New Nation*, 23 May 1974, 6. (From NewspaperSG)
 
