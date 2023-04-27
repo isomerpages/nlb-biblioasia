@@ -101,7 +101,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/ross_laird.png">
-	<b>Ross Laird</b> is the author of <i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985</i>. He was formerly with the Australian National Film and Sound Archive in Canberra. In 2010, he was a Lee Kong Chian Research Fellow at the National Library, Singapore. He currently resides in Brisbane, Australia, with his wife Dao and cat Mimi.</div>
+	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
 	
 #### **NOTES**
 
