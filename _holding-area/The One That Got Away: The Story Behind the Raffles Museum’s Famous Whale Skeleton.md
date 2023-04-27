@@ -157,11 +157,11 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^26]: “[The Loss of Those Exhibits…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740523-1.2.21.1),” *New Nation*, 23 May 1974, 6. (From NewspaperSG)
 
-[^27]: R.S. Bhathal, “No Place for Whale,” *New Nation*, 10 June 1974, 6. (From NewspaperSG)
+[^27]: R.S. Bhathal, “[No Place for Whale](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740610-1.2.20.3.2),” *New Nation*, 10 June 1974, 6. (From NewspaperSG)
 
-[^28]: Irene Hoe, “Nostalgia Theme of Bash,” *Straits Times*, 17 September 1987, 16; K.F. Tang, “Museum Brings Its Skeletons Out of the Closet,” *Straits Times*, 4 October 1987, 11. (From NewspaperSG)
+[^28]: Irene Hoe, “[Nostalgia Theme of Bash](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870917-1.2.35.13),” *Straits Times*, 17 September 1987, 16; K.F. Tang, “[Museum Brings Its Skeletons Out of the Closet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871004-1.2.73.10.5.1),” *Straits Times*, 4 October 1987, 11. (From NewspaperSG)
 
-[^29]: Liu, *One Hundred Years of the National Museum Singapore*, 1887–1987.
+[^29]: Liu, [*One Hundred Years of the National Museum Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348), 1887–1987.
 
 [^30]: Irene Hoe, “Museum’s Past Recorded for Posterity,” *Straits Times*, 3 October 1987, 32. (From NewspaperSG)
 
