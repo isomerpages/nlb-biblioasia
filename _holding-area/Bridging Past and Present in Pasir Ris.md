@@ -92,6 +92,8 @@ Happy Tay, president of the Pasir Ris Beach Park Residents’ Association, told 
 
 The Housing and Development Board (HDB) announced plans for the development of Pasir Ris New Town in its 1984/85 annual report, with construction slated to begin in 1986. The government had acquired land to build the new housing estate from Bukit Sembawang Rubber Company, Shaw Brothers and a number of private individuals in 1983. To attract potential buyers to the far-flung location, the HDB highlighted amenities such as the MRT system that would take residents to Orchard Road in 30 minutes and the new Pasir Ris Park. “Better-quality flats with better finish and better designs” in Pasir Ris were also cited to boost the estate’s appeal.[^33]
 
+<p style="color: red;"> <b> Flat image </b> </p>
+
 The town welcomed its first residents in 1988 and was dubbed a “yuppie neighbourhood with high expectations” by its Member of Parliament Charles Chong, as most of the residents were mainly young families.[^34] Airline relations manager Nur Aireen Abdullah and her family moved into a five-bedroom flat in Pasir Ris Drive 6 in June 1989. She recalled: “There were limited bus services that plied the new neighbourhood at the time. There were no amenities or facilities. However, we were still thrilled to be able to walk to the beach from our home in under 10 minutes. Some evenings, my mother would pack our food, and we would eat by the beach. My siblings and I also enjoyed exploring the maze and spotting mudskippers at the mangrove swamp.”[^35]
 
 Former chief of Mercy Relief Hassan Ahmad, who moved to an executive flat in Pasir Ris in 2006, said that the “proximity to nature” drew him to the estate. “We do a lot of cycling around here, my kids also love the beach at Pasir Ris Park. There are a lot of big open spaces,” he told the _Straits Times_ in June 2015.[^36]
@@ -105,6 +107,8 @@ In November 2011, the Pasir Ris Sports Centre was officially opened. The centre 
 #### **A Recreational and Entertainment Hub**
 
 Downtown East – a lifestyle, leisure and entertainment hub located at Pasir Ris Close – is one of Pasir Ris’ most recognisable landmarks. It was formerly known as NTUC Pasir Ris Resort, and was officially opened in 1988. The 14.7-hectare site offered chalets, swimming pools, a discotheque, squash and tennis courts, and play areas for children.[^41]
+
+<p style="color: red;"> <b> Downtown East Image </b> </p>
 
 The resort was redeveloped and renamed Downtown East in 2000. New amenities included Escape Theme Park, an outdoor theme park, which opened in May 2000, and water theme park Wild Wild Wet, which began operations four years later. Both parks became highly popular among Singaporeans and tourists.[^42]
 
