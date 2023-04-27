@@ -133,16 +133,23 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^14]: “Rambles in Raffles Museum,” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 February 1910, 4. (From NewspaperSG) 
 
-[^15]:* “Raffles Museum,” Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “Life in the Sea,” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
+[^15]: *“Raffles Museum,” Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “Life in the Sea,” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
 
-Lydia Aroozoo, “‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum,” Singapore Free Press, 24 September 1960, 6. (NewspaperSG)
-Annual Report on the Raffles Museum and Library for the Year 1928 (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
-Aroozoo, “‘Redeeming’ Malayan History.”
-Alvin Chua, “Lee Kong Chian Natural History Museum,” in Singapore Infopedia. From National Library Board. Article published 15 July 2020. 
-Timothy P. Barnard, ed., Nature Contained: Environmental Histories of Singapore (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
-Tan Sai Siong, “No Gimmicks Please, Just the Whole Singapore Story,” Straits Times, 31 October 1997, 6. (From NewspaperSG)
-Chua, “Lee Kong Chian Natural History Museum.”
-“A Whale of a Gift for Malaysian National Museum,” Straits Times, 6 May 1974, 8. (From NewspaperSG)
+[^16]: Lydia Aroozoo, “‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum,” *Singapore Free Press*, 24 September 1960, 6. (NewspaperSG)
+
+[^17]: *Annual Report on the Raffles Museum and Library for the Year 1928* (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
+
+[^18]: Aroozoo, “‘Redeeming’ Malayan History.”
+
+[^19]: Alvin Chua, “Lee Kong Chian Natural History Museum,” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
+
+[^20]: Timothy P. Barnard, ed., *Nature Contained: Environmental Histories of Singapore* (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in *Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure* (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
+
+[^21]: Tan Sai Siong, “No Gimmicks Please, Just the Whole Singapore Story,” *Straits Times*, 31 October 1997, 6. (From NewspaperSG)
+
+[^22]: Chua, “Lee Kong Chian Natural History Museum.”
+
+[^23]: “A Whale of a Gift for Malaysian National Museum,” *Straits Times*, 6 May 1974, 8. (From NewspaperSG)
 “Labuan’s Century-old Whale,” Daily Express Sabah, 30 December 2006,  https://rafflesmuseumnews.wordpress.com/2007/01/20/labuans-century-old-whale/.
 Make No Bones, About It, “Whale of a Loss,” Straits Times, 9 May 1974, 10. (From NewspaperSG) 
 “The Loss of Those Exhibits…,” New Nation, 23 May 1974, 6. (From NewspaperSG)
