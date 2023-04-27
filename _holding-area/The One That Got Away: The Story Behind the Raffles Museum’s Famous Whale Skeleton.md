@@ -76,4 +76,24 @@ An outpouring of grief and regret followed the announcement. “It is like a per
 
 The New Nation made the accusation that “local bodies were apparently not offered the opportunity to purchase the exhibits. Instead foreign organisations abroad were approached. The result is that a great section of the natural history collection which would have been the pride of any national museum is now out of the country… No amount of money can surely replace the sentimental attachment Singaporeans have for the items of historic importance”.[^26]
 
-The assistant director of the Science Centre, R.S. Bhathal, wasted no time in offering a sharp rebuke. He clarified that the complete zoological collection, minus the whale, remained in the country. 
+The assistant director of the Science Centre, R.S. Bhathal, wasted no time in offering a sharp rebuke. He clarified that the complete zoological collection, minus the whale, remained in the country.
+
+“The whale skeleton is not a pre-historic fossil which would be of great value to scientists who study pre-history…,” said Bhathal. “[It] does not lend itself to the Centre’s exhibits programmes [sic] and furthermore, there is just not the necessary space (which is needed so badly for the new exhibits)… to accommodate it… Eventually the Museum Negara approached the Science Centre for the whale skeleton. The Science Centre agreed to donate it to the Museum Negara in the spirit of goodwill and scientific co-operation.”27
+
+#### **Of Celebrations and Cetaceans**
+
+In 1987, the National Museum celebrated its centenary. To mark this milestone occasion, a selection of “historic fauna” like the crocodile, orang utan and leatherback turtle, all of which once called the museum home, were brought back for three weeks from 29 September to 18 October. To the disappointment of many, the returning zoological exhibits did not include the blue whale. Richard Poh, who was then the museum’s director explained: “Many people remember and ask about it, but unfortunately we can’t bring it back for the exhibition as it is in Kuala Lumpur.”28
+
+The book, One Hundred Years of the National Museum, by Gretchen Liu was also produced to commemorate the museum’s rich history.29 In reviewing the publication, Irene Hoe of the Straits Times recounted: “As a child, I remember going to the museum – as often as I could persuade anyone to take me – to see ‘my whale’, ‘my tiger’, and ‘my snake’, among other treasures of natural history which packed the place… ‘My whale’, for instance,… sat in storage until a European taxidermist assembled it, suspended it from the ceiling with a steel rope and set it in my memory indelibly.”30 
+
+A groundswell of public interest for a proper museum dedicated to Singapore’s natural history was materialising. In 1998, NUS established the Raffles Museum of Biodiversity Research to formally manage the Zoological Reference Collection. This institution, however, was more of a research centre with public display galleries.31
+
+In May 2009, the museum set a record single-day turnout when it welcomed over 3,000 visitors during an event held in conjunction with International Museum Day. This prompted calls for a larger facility that could accommodate not only more people, but also the entirety of the museum’s showcase. That same year, NUS revealed plans for a full-fledged natural history museum that would replace the existing research centre.32
+
+#### **Coming Full Circle**
+
+The Lee Kong Chian Natural History Museum opened its doors on 18 April 2015. However, even after having departed these shores for over 40 years, the old whale exhibit had not been forgotten. Claire Chiang, the senior vice-president of Banyan Tree Holdings, had donated a handsome sum to the museum. She spoke fondly of her visits to the National Museum as a child. “Of course, there was no air-conditioning then, but I remember the gorilla, the whale. It was such a fantasy place filled with many cabinets of curiosities. There was always something to explore. And I missed that when the museum changed.”33
+
+The new museum was clearly still missing something: Jubi Lee’s debut in local waters a few months later could not have been more serendipitous. 
+
+“Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.34 A fitting ending to a whale of a story. 
