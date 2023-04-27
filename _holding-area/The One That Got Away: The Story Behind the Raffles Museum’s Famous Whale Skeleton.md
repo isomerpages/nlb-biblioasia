@@ -141,7 +141,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^18]: Aroozoo, “[‘Redeeming’ Malayan History](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600924-1.2.46).”
 
-[^19]: Alvin Chua, “Lee Kong Chian Natural History Museum,” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
+[^19]: Alvin Chua, “[Lee Kong Chian Natural History Museum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1689_2010-07-15.html),” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
 
 [^20]: Timothy P. Barnard, ed., *Nature Contained: Environmental Histories of Singapore* (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in *Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure* (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
 
