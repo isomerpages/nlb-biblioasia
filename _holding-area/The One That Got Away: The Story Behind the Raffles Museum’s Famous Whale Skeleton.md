@@ -97,3 +97,12 @@ The Lee Kong Chian Natural History Museum opened its doors on 18 April 2015. How
 The new museum was clearly still missing something: Jubi Lee’s debut in local waters a few months later could not have been more serendipitous. 
 
 “Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.[^34] A fitting ending to a whale of a story.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/ross_laird.png">
+	<b>Ross Laird</b> is the author of <i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985</i>. He was formerly with the Australian National Film and Sound Archive in Canberra. In 2010, he was a Lee Kong Chian Research Fellow at the National Library, Singapore. He currently resides in Brisbane, Australia, with his wife Dao and cat Mimi.</div>
+	
+#### **NOTES**
+
+[^1]: These events, and the growing popularity of The Crescendos, took place well before British group The Shadows performed in Singapore in November 1961. Writer Joseph C. Pereira states that the rise of Singaporean guitar bands was sparked by The Shadows’ 1961 performances in Singapore. See Joseph C. Pereira, [*Apache Over Singapore: The Story of Singapore Sixties Music, Volume One*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601) (Singapore: Select Publishing, 2011), 1. (From National Library, Singapore, call no. RSING 781.64095957 PER)
