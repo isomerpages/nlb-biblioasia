@@ -39,3 +39,17 @@ Countless negotiations and debates ensued over the next several years. At last, 
 Thereafter, “a massive reorganisation was undertaken”, during which time the natural history specimens were refurbished and the large central gallery on the upper floor was designated as the home of the new zoological collection. Coinciding with the start of the Lunar New Year, the Raffles Museum reopened its doors to an “over-flowing by dense masses” of visitors on 13 February 1907.[^9]
 
 One particular exhibit stole the limelight. After years spent tucked away, the enormous skeleton of the beached whale finally made its public debut.
+
+#### **Whale Skeleton Reels in Visitors**
+
+Fitted with steel ropes, the skeleton hung proudly from the ceiling of the newly refurbished natural history room at the Raffles Museum. Assembling and mounting it was no easy task, and Hanitsch credited the ingenuity and hard work of the museum’s chief taxidermist Valentine Knight, his assistant Percy de Fontaine and their staff for finding workarounds in the process. The specimen had a couple of missing bones, including a scapula, the “hands”, and various vertebrae and ribs.10
+
+With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the Madras Museum, the Raffles Museum team took measurements and drawings of existing whale specimens and used them to model these missing bones in papier-mâché. Only then was the full skeleton made available for viewing.11
+
+Because this occurred before the advent of DNA technology, it took Hanitsch and his team several years before they could accurately identify the mammal. In an earlier report, Hanitsch had originally suspected the specimen to be that of a humpback whale, or Megaptera boops (Van Beneden &amp; Gervais, 1880), but his subsequent morphological analyses would have been at odds with this earlier study. Further work allowed him to correctly identify the specimen as belonging to Balaenoptera indica (Blyth, 1859), which has since been synonymised as B. musculus (Linnaeus, 1758), more commonly known as the blue whale.12
+
+The whale skeleton sparked significant interest and excitement among visitors. When the exhibit was being set up, an elderly Malay man came by and offered a first-hand account of the beaching of the whale. “Bukan satu kapal. Satu ikan!” (“Not a boat. A fish!”). He was, however, wrong on both counts – it was neither a boat nor a fish.13
+
+The whale spawned a tale that was peppered with riveting detail. “Malays…  told their boys the true story of the monster whale whose skeleton hangs suspended near the turtles. How the poor beast was stranded near Malacca and a pagar built promptly around him when for three days his bull-like roars terrified the neighbourhood, then silence and in seven days a corpse.”14
+
+The giant skeleton also attracted international visitors from the wider scientific community. These included William Brigham, the American botanist and ethnologist and founding director of the Bernice P. Bishop Museum in Honolulu. Brigham, who had been on an inspection tour around the world, stopped by the Raffles Museum in 1912. He wrote about the whale in a “handsomely illustrated report”. Australian fisheries expert David Stead delivered a lecture titled 
