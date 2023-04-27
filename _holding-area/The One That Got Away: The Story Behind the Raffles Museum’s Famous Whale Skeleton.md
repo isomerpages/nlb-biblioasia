@@ -127,13 +127,13 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^11]: “The Singapore Free Press,” Singapore Free Press and Mercantile Advertiser, 16 December 1907, 4. (From NewspaperSG)
 
-[^12]: Annual Report on the Raffles Museum and Library for the Year 1905, 3–4; Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
+[^12]: *Annual Report on the Raffles Museum and Library for the Year 1905*, 3–4; *Annual Report on the Raffles Museum and Library for the Year 1907*, 4–5.
 
-[^13]: “Sporting Trophies,” Straits Times, 16 January 1908, 7. (From NewspaperSG)
+[^13]: “Sporting Trophies,” *Straits Times*, 16 January 1908, 7. (From NewspaperSG)
 
-[^14]: “Rambles in Raffles Museum,” Singapore Free Press and Mercantile Advertiser (Weekly), 17 February 1910, 4. (From NewspaperSG) 
+[^14]: “Rambles in Raffles Museum,” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 February 1910, 4. (From NewspaperSG) 
 
-[^15]: “Raffles Museum,” Singapore Free Press and Mercantile Advertiser, 15 February 1916, 1; “Life in the Sea,” Malaya Tribune, 14 March 1922, 4. (NewspaperSG)
+[^15]:* “Raffles Museum,” Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “Life in the Sea,” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
 
 Lydia Aroozoo, “‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum,” Singapore Free Press, 24 September 1960, 6. (NewspaperSG)
 Annual Report on the Raffles Museum and Library for the Year 1928 (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
