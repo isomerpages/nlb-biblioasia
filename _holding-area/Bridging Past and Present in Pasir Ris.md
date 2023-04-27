@@ -162,4 +162,18 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 
 [^27]: Ilene Aleshire, “[Pasir Ris Park to Be Second Largest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841207-1.2.22.26),” _Straits Times,_ 7 December 1984, 16. (From NewspaperSG)
 
-[^28]:
+[^28]: Mardiana Abu Bakar, “[Fun for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920222-1.2.67.3.14),” _Straits Times,_ 22 February 1992, 7. (From NewspaperSG); “Pasir Ris Park,” National Parks Board, last updated 14 March 2023, &nbsp;https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park.
+
+[^29]: “Lorong Halus Wetland,” Public Utilities Board, last updated 27 July 2021, [https://www.pub.gov.sg/abcwaters/explore/loronghaluswetland](https://www.pub.gov.sg/abcwaters/explore/loronghaluswetland); Ong Dai Lin, “[From Former Landfill to Wetland…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20110305-1.2.9.8),” _Today,_ 5 March 2011, 3. (From NewspaperSG)
+
+[^30]: “[Another Estate at Pasir Ris Beach](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740824-1.2.218),” _Straits Times,_ 24 August 1974, 28; Rohaniah Saini, “[Kampung-style Living and Spirit in Pasir Ris Park](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880614-1.2.33.3),” _Straits Times,_ 14 June 1988, 19. (From NewspaperSG)
+
+[^31]: Rohaniah Saini, “[Kampung-style Living and Spirit in Pasir Ris Park](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880614-1.2.33.3).”
+
+[^32]: Wong Kim Hoh, “A Self-contained Community Amid Nature,” _Straits Times,_ 10 June 2015, 5. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+
+[^33]: Mathew Yap, “[Pasir Ris: A New Town by the Sea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851028-1.2.4),” _Straits Times,_ 28 October 1985, 1; “[Land Acquired for New Housing Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19830309-1.2.3),” _Business Times,_ 9 March 1983, 1. (From NewspaperSG)
+
+[^34]: “[Young Town, Vocal Residents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950122-1.2.35.11),” _Straits Times,_ 22 January 1995, 24. (From NewspaperSG)
+
+[^35]: Nur Aireen Abdullah, interview, 1 November 2022.
