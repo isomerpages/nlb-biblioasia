@@ -147,7 +147,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^21]: Tan Sai Siong, “[No Gimmicks Please, Just the Whole Singapore Story](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971031-1.2.92.8?),” *Straits Times*, 31 October 1997, 6. (From NewspaperSG)
 
-[^22]: Chua, “Lee Kong Chian Natural History Museum.”
+[^22]: Chua, “[Lee Kong Chian Natural History Museum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1689_2010-07-15.html).”
 
 [^23]: “A Whale of a Gift for Malaysian National Museum,” *Straits Times*, 6 May 1974, 8. (From NewspaperSG)
 
