@@ -16,6 +16,8 @@ In the film, actor Aziz Sattar sings this song – whose title roughly translate
 
 Produced by the Shaw Brothers’ Malay Film Productions, this particular scene was shot on the grounds of a beachside hotel in Pasir Ris.[^1] The now largely forgotten Pasir Ris Hotel on Elias Road was owned by well-known hotelier Ho Meng Quee. Before he took over the place in the 1950s, the building had been the beachfront holiday residence of wealthy Jewish entrepreneur Joseph Aaron Elias, who was also a Justice of the Peace (he and his brother Ezra Aaron Elias gave Elias Road its name).[^2]
 
+<p style="color: red;"> <b> Black and white beach side hotel image </b> </p>
+
 It is not surprising that the producers of this lightweight comedy would have chosen Pasir Ris to capture a laidback beach vibe. For much of Singapore’s postwar years, the white sands of Pasir Ris drew city folk looking for a quiet, peaceful respite. At one time, Pasir Ris boasted two seaside resorts and even had a museum of corals and seashells. Its remote location added to its allure, in the way that holidaymakers today seek out beach holidays in Bintan, Tioman and Phuket.
 
 These days, Pasir Ris is no longer quite as quiet and remote. Over 100,000 people live in bustling Pasir Ris town, which is well connected to the rest of Singapore thanks to the MRT (it is a speedy 33-minute train ride from City Hall MRT station). Downtown East, which styles itself as a premier lifestyle, recreational and entertainment hub, draws large crowds on weekends and school holidays. And although it still boasts sandy beaches, if you mention “white sands”, you are more likely to be directed to the six-storey shopping mall next to Pasir Ris MRT station.
@@ -28,9 +30,13 @@ The origin of the name Pasir Ris is unknown though. According to a study by H.T.
 
 Pasir Ris was once a low-lying and undeveloped area.[^5] Maps from the 1950s to 1970s show that Pasir Ris was then occupied mainly by coconut and rubber plantations, mangrove swamps and ponds, and dotted with Malay kampongs and Chinese villages. The kampongs in the area included Kampong Loyang, Kampong Pasir Ris, Kampong Elias, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar. Two waterways, Sungei Api Api and Sungei Tampines, used to flow through the area.[^6]
 
+<p style="color: red;"> <b> Map image </b> </p>
+
 Apart from rubber tapping and fishing as their livelihoods, the Malay villagers also produced _belacan_ (fermented shrimp paste) made from _udang geragau_ (small shrimps) caught at Sungei Api Api and Sungei Tampines during high tide. Kampong Tampines, located on Jalan Guan Choon and Tampines Road, was a popular filming location in the 1950s and 1960s for Malay films such as _Hantu Jerangkong_ (_The Skeleton Ghost_), _Antara Dua Darjat_ (_Between Two Classes_) and _Batu Belah Batu Bertangkup_ (_The Devouring Rock_).[^7]
 
 Interestingly, Pasir Ris was used as a film location very early on. In 1913, French filmmaker Gaston Méliès shot _The Poisoned Darts_ in the area. An advertisement that ran in _Moving Picture World_ magazine proudly proclaimed that it was “produced in the jungles of Passir Riz \[Pasir Ris\], a suburb of Singapore, Strait Settlements, Asia, employing natives in many of the roles”.[^8] Author and film director Raphaël Millet, who directed a documentary on Méliès, noted that based on the surviving footage of this film, the actors were most likely inhabitants of Malay villages in Pasir Ris.[^9]
+
+<p style="color: red;"> <b> The black and white film image </b> </p>
 
 #### **A Seaside Getaway**
 
@@ -47,6 +53,8 @@ The hotel hung on for another decade before finally shuttering on 31 December 19
 The nearby Golden Palace Holiday Resort, which opened in 1969, was another popular spot for holidaymakers. The 20-acre resort at the now-expunged Jalan Ang Siang Kong off Tampines Road was touted as an “ideal retreat for fishing, boating, picnics and parties” with a “beautiful panoramic scenery”. It had chalets, pavilions, restaurants and a nightclub. One of the resort’s key offerings was its boating and fishing pond, which was once a sand quarry.[^15] According to Pasir Ris resident Law Yap Teck, who visited the resort when he was in his 20s, “\[it\] was a place where people came for an eye-opening experience. To have fun, row boats and stay in the holiday resort”.[^16]
 
 The resort wound up in 1971 after a petition by one of the directors over alleged mismanagement by the company’s chairman. In 1973, the government acquired the resort for $870,000, with plans for it to be used for fish-breeding experiments. Today, the resort’s former site forms part of Pasir Ris Park. The pond was converted into a commercial saltwater fishing pond, which opened to the public in October 1990.[^17]
+
+<p style="color: red;"> <b> Golden something resort image </b> </p>
 
 While Pasir Ris Hotel and Golden Palace Holiday Resort targeted a more affluent clientele, the People’s Association Holiday Flats offered affordable rentals that became popular among local families. A three-storey block comprising 30 holiday flats was officially opened by then Minister for the Environment Lim Kim San on 11 November 1973.[^18]
 
@@ -71,6 +79,8 @@ From the late 1970s, Pasir Ris beach underwent further developments, which inclu
 In 1984, the Parks and Recreation Department (today’s National Parks Board) embarked on a project to build an 80-hectare regional park stretching from Pasir Ris beach park to Sungei Loyang, making it the second-biggest park in Singapore after East Coast Park.[^27]
 
 Today, the 70-hectare park – which stretches over 3.2 kilometres – provides pony rides, bicycle and barbecue pit rentals, camping sites and water sports facilities. A highlight of the park is the preserved mangrove forest with a mangrove boardwalk and a three-storey tower for birdwatching.[^28]
+
+<p style="color: red;"> <b> Park image </b> </p>
 
 Nature lovers can also visit Lorong Halus Wetland, a former landfill along the eastern bank of Serangoon Reservoir. Officially opened in March 2011, the wetland protects the reservoir water from contaminants caused by landfill waste. Spanning Serangoon Reservoir is the Lorong Halus Red Bridge, a great place to catch the sunset and popular with Instagrammers.[^29]
 
