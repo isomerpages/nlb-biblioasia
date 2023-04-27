@@ -57,7 +57,8 @@ The nearby Golden Palace Holiday Resort, which opened in 1969, was another popul
 
 The resort wound up in 1971 after a petition by one of the directors over alleged mismanagement by the company’s chairman. In 1973, the government acquired the resort for $870,000, with plans for it to be used for fish-breeding experiments. Today, the resort’s former site forms part of Pasir Ris Park. The pond was converted into a commercial saltwater fishing pond, which opened to the public in October 1990.[^17]
 
-<p style="color: red;"> <b> Golden something resort image </b> </p>
+![GoldenPalaceHoliday](/images/Vol%2019%20Issue%202/Pasir%20Ris/golden%20palace%20holiday.jpg)
+<div style="background-color: white;">The Golden Palace Holiday Resort at Jalan Ang Siang Kong, 1969. Its fishing and boating pond was later converted into a commercial saltwater fishing pond. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 While Pasir Ris Hotel and Golden Palace Holiday Resort targeted a more affluent clientele, the People’s Association Holiday Flats offered affordable rentals that became popular among local families. A three-storey block comprising 30 holiday flats was officially opened by then Minister for the Environment Lim Kim San on 11 November 1973.[^18]
 
@@ -83,7 +84,8 @@ In 1984, the Parks and Recreation Department (today’s National Parks Board) em
 
 Today, the 70-hectare park – which stretches over 3.2 kilometres – provides pony rides, bicycle and barbecue pit rentals, camping sites and water sports facilities. A highlight of the park is the preserved mangrove forest with a mangrove boardwalk and a three-storey tower for birdwatching.[^28]
 
-<p style="color: red;"> <b> Park image </b> </p>
+![Park](/images/Vol%2019%20Issue%202/Pasir%20Ris/pasir%20ris%20park.jpg)
+<div style="background-color: white;">Pasir Ris Park is a popular camping spot, especially on weekends and public holidays, 2023. <i>Photo by Asrina Tanuri</i></div>
 
 Nature lovers can also visit Lorong Halus Wetland, a former landfill along the eastern bank of Serangoon Reservoir. Officially opened in March 2011, the wetland protects the reservoir water from contaminants caused by landfill waste. Spanning Serangoon Reservoir is the Lorong Halus Red Bridge, a great place to catch the sunset and popular with Instagrammers.[^29]
 
@@ -111,7 +113,8 @@ In November 2011, the Pasir Ris Sports Centre was officially opened. The centre 
 
 Downtown East – a lifestyle, leisure and entertainment hub located at Pasir Ris Close – is one of Pasir Ris’ most recognisable landmarks. It was formerly known as NTUC Pasir Ris Resort, and was officially opened in 1988. The 14.7-hectare site offered chalets, swimming pools, a discotheque, squash and tennis courts, and play areas for children.[^41]
 
-<p style="color: red;"> <b> Downtown East Image </b> </p>
+![DE](/images/Vol%2019%20Issue%202/Pasir%20Ris/downtown%20east.jpg)
+<div style="background-color: white;">Downtown East is a lifestyle, leisure and entertainment hub. It is one of Pasir Ris’ most recognisable landmarks. <i>Courtesy of National Heritage Board</i></div>
 
 The resort was redeveloped and renamed Downtown East in 2000. New amenities included Escape Theme Park, an outdoor theme park, which opened in May 2000, and water theme park Wild Wild Wet, which began operations four years later. Both parks became highly popular among Singaporeans and tourists.[^42]
 
