@@ -129,9 +129,9 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^12]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 3–4; [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 4–5.
 
-[^13]: “Sporting Trophies,” *Straits Times*, 16 January 1908, 7. (From NewspaperSG)
+[^13]: “[Sporting Trophies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080116-1.2.70),” *Straits Times*, 16 January 1908, 7. (From NewspaperSG)
 
-[^14]: “Rambles in Raffles Museum,” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 February 1910, 4. (From NewspaperSG) 
+[^14]: “[Rambles in Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100217-1.2.17),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 February 1910, 4. (From NewspaperSG) 
 
 [^15]: *“Raffles Museum,” Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “Life in the Sea,” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
 
