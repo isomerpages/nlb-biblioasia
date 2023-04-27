@@ -151,24 +151,24 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^23]: “A Whale of a Gift for Malaysian National Museum,” *Straits Times*, 6 May 1974, 8. (From NewspaperSG)
 
-[^24]: “Labuan’s Century-old Whale,” Daily Express Sabah, 30 December 2006,  https://rafflesmuseumnews.wordpress.com/2007/01/20/labuans-century-old-whale/.
+[^24]: “Labuan’s Century-old Whale,” *Daily Express Sabah*, 30 December 2006,  https://rafflesmuseumnews.wordpress.com/2007/01/20/labuans-century-old-whale/.
 
-[^25]: Make No Bones, About It, “Whale of a Loss,” Straits Times, 9 May 1974, 10. (From NewspaperSG) 
+[^25]: Make No Bones, About It, “Whale of a Loss,” *Straits Times*, 9 May 1974, 10. (From NewspaperSG) 
 
-[^26]: “The Loss of Those Exhibits…,” New Nation, 23 May 1974, 6. (From NewspaperSG)
+[^26]: “The Loss of Those Exhibits…,” *New Nation*, 23 May 1974, 6. (From NewspaperSG)
 
-[^27]: R.S. Bhathal, “No Place for Whale,” New Nation, 10 June 1974, 6. (From NewspaperSG)
+[^27]: R.S. Bhathal, “No Place for Whale,” *New Nation*, 10 June 1974, 6. (From NewspaperSG)
 
-[^28]: Irene Hoe, “Nostalgia Theme of Bash,” Straits Times, 17 September 1987, 16; K.F. Tang, “Museum Brings Its Skeletons Out of the Closet,” Straits Times, 4 October 1987, 11. (From NewspaperSG)
+[^28]: Irene Hoe, “Nostalgia Theme of Bash,” *Straits Times*, 17 September 1987, 16; K.F. Tang, “Museum Brings Its Skeletons Out of the Closet,” *Straits Times*, 4 October 1987, 11. (From NewspaperSG)
 
-[^29]: Liu, One Hundred Years of the National Museum Singapore, 1887–1987.
+[^29]: Liu, *One Hundred Years of the National Museum Singapore*, 1887–1987.
 
-[^30]: Irene Hoe, “Museum’s Past Recorded for Posterity,” Straits Times, 3 October 1987, 32. (From NewspaperSG)
+[^30]: Irene Hoe, “Museum’s Past Recorded for Posterity,” *Straits Times*, 3 October 1987, 32. (From NewspaperSG)
 
-[^31]: Tan, Of Whales and Dinosaurs, 182–83.
+[^31]: Tan, *Of Whales and Dinosaurs*, 182–83.
 
-[^32]: Tan Dawn Wei, “Let’s Have a Natural History Museum for Singapore,” Straits Times, 14 June 2009, 26. (From NewspaperSG)
+[^32]: Tan Dawn Wei, “Let’s Have a Natural History Museum for Singapore,” *Straits Times*, 14 June 2009, 26. (From NewspaperSG)
 
-[^33]: Deepika Shetty, “Giving Back to the Museums,” Straits Times, 28 April 2015, 2–3. (From NewspaperSG)
+[^33]: Deepika Shetty, “Giving Back to the Museums,” *Straits Times*, 28 April 2015, 2–3. (From NewspaperSG)
 
 [^34]: Tan, “A Whale of an Exhibit.”
