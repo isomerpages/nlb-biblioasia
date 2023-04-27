@@ -157,3 +157,9 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 [^24]: Betty L. Khoo, “[A Villa That Ernest Built…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741016-1.2.19.2),” _New Nation_, 16 October 1974, 11. (From NewspaperSG); Har, “[How to Play Tourist and Enjoy it All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700926-1.2.54).”
 
 [^25]: “[Pasir Ris for Picnics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560428-1.2.116),” _Singapore Standard,_ 28 April 1956, 8. (From NewspaperSG); P.H. Meadows, “[Opening of Pasir Ris Beach Resort on Sunday, Aug 17](https://www.nas.gov.sg/archivesonline/speeches/record-details/88436677-bcf7-11e6-b045-0050568939ad),” speech, Pasir Ris Beach Resort, 17 August 1958, transcript. (From National Archives of Singapore, document no. phm19580817001); Lim Yew Hock, “[Opening of the Pasir Ris Beach Resort on Sunday, August 17, 1958, At 11.30 A.M](https://www.nas.gov.sg/archivesonline/speeches/record-details/8d49c73d-bcf7-11e6-b045-0050568939ad).,” speech, Pasir Ris Beach Resort, 17 August 1958, transcript. (From National Archives of Singapore, document no. lyh19580817001)
+
+[^26]: “[2 Japanese Help in Park Design](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780628-1.2.13),” _New Nation,_ 28 June 1978, 2. (From NewspaperSG)
+
+[^27]: Ilene Aleshire, “[Pasir Ris Park to Be Second Largest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841207-1.2.22.26),” _Straits Times,_ 7 December 1984, 16. (From NewspaperSG)
+
+[^28]: 
