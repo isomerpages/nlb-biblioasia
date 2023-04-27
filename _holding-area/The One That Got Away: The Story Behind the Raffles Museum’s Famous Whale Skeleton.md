@@ -29,3 +29,13 @@ On 25 June 1892, the *Singapore Free Press* reported that the British steamer Be
 The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the *Straits Times Weekly Issue*, the “fish of monstrous size (*ikan besar skali*)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
 
 D.F.A. Hervey, the resident councillor of Melaka, presented the local *penghulu* (chieftain) with a *hadiah* (gift) in exchange for the whale remains, which Hervey decided to preserve and convey to Singapore. A *pagar* (barrier) had been constructed around the carcass to “prevent it from getting washed back into the sea while the labourers worked” to dissect and prepare the remains for transportation.[^7]
+
+These arrived in Singapore later that year and was acquired by the Raffles Library and Museum (now the National Museum of Singapore) on Stamford Road. While the whale skeleton would go on to become one of the museum’s most iconic exhibits, it took 15 more years for it to see the light of day.
+
+Owing to a lack of space in the building, the whale skeleton was locked up in a shed behind the museum compound before it was displayed. Knowledge about its origin and biology was at the time comparably obscure, admitted Karl R. Hanitsch, the museum’s curator and first director. Hanitsch and his staff quickly recognised that “more room” and “a number of much-needed alterations” were essential.[^8]
+
+Countless negotiations and debates ensued over the next several years. At last, a compromise was reached in 1904. The existing museum building was to be extended, with construction works commencing the same year and wrapping up in 1906.
+
+Thereafter, “a massive reorganisation was undertaken”, during which time the natural history specimens were refurbished and the large central gallery on the upper floor was designated as the home of the new zoological collection. Coinciding with the start of the Lunar New Year, the Raffles Museum reopened its doors to an “over-flowing by dense masses” of visitors on 13 February 1907.[^9]
+
+One particular exhibit stole the limelight. After years spent tucked away, the enormous skeleton of the beached whale finally made its public debut.
