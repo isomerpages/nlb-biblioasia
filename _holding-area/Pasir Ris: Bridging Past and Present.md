@@ -162,4 +162,4 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 
 [^27]: Ilene Aleshire, “[Pasir Ris Park to Be Second Largest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841207-1.2.22.26),” _Straits Times,_ 7 December 1984, 16. (From NewspaperSG)
 
-[^28]: 
+[^28]:
