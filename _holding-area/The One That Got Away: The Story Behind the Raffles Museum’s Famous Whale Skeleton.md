@@ -137,7 +137,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^16]: Lydia Aroozoo, “[‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600924-1.2.46),” *Singapore Free Press*, 24 September 1960, 6. (NewspaperSG)
 
-[^17]: *Annual Report on the Raffles Museum and Library for the Year 1928* (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
+[^17]: [*Annual Report on the Raffles Museum and Library for the Year 1928*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
 
 [^18]: Aroozoo, “‘Redeeming’ Malayan History.”
 
