@@ -163,7 +163,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^29]: Liu, [*One Hundred Years of the National Museum Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348), 1887–1987.
 
-[^30]: Irene Hoe, “Museum’s Past Recorded for Posterity,” *Straits Times*, 3 October 1987, 32. (From NewspaperSG)
+[^30]: Irene Hoe, “[Museum’s Past Recorded for Posterity](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871003-1.2.62.4.2),” *Straits Times*, 3 October 1987, 32. (From NewspaperSG)
 
 [^31]: Tan, *Of Whales and Dinosaurs*, 182–83.
 
