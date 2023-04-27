@@ -123,9 +123,9 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^9]: Gretchen Liu, [*One Hundred Years of the National Museum Singapore, 1887–1987*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348) (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “[Raffles Museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080306-1.2.83)” *Straits Times*, 6 March 1908, 8. (From NewspaperSG)
 
-[^10]: *Annual Report on the Raffles Museum and Library for the Year 1907*, 4–5.
+[^10]: [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 4–5.
 
-[^11]: “The Singapore Free Press,” *Singapore Free Press and Mercantile Advertiser*, 16 December 1907, 4. (From NewspaperSG)
+[^11]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071216-1.2.13),” *Singapore Free Press and Mercantile Advertiser*, 16 December 1907, 4. (From NewspaperSG)
 
 [^12]: *Annual Report on the Raffles Museum and Library for the Year 1905*, 3–4; *Annual Report on the Raffles Museum and Library for the Year 1907*, 4–5.
 
