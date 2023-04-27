@@ -149,7 +149,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^22]: Chua, “[Lee Kong Chian Natural History Museum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1689_2010-07-15.html).”
 
-[^23]: “A Whale of a Gift for Malaysian National Museum,” *Straits Times*, 6 May 1974, 8. (From NewspaperSG)
+[^23]: “[A Whale of a Gift for Malaysian National Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740506-1.2.51),” *Straits Times*, 6 May 1974, 8. (From NewspaperSG)
 
 [^24]: “Labuan’s Century-old Whale,” *Daily Express Sabah*, 30 December 2006,  https://rafflesmuseumnews.wordpress.com/2007/01/20/labuans-century-old-whale/.
 
