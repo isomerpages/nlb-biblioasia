@@ -64,10 +64,10 @@ After Singapore achieved internal self-government in 1959, the government saw th
 
 The Singapore Science Centre, which began construction in 1971, inherited the natural history collection from the National Museum. However, the organisation’s mandate never covered taxonomic collection and identification. Members of its advisory board began searching for viable storage options for the over 126,000 zoological specimens, including that of the blue whale, which they found too large to accommodate. Indeed, these exhibits were “not only exposed to the risk of considerable material loss or damage” but were also “in danger of being disposed of and relegated to other institutions”.[^20]
 
-Whale Skeleton’s Fate Sealed
+#### **Whale Skeleton’s Fate Sealed**
 
 The authorities had to confront the fact that the whale, which had made the Raffles Museum famous, represented “little of Singapore’s own past”. In the early 1970s, the fate of the blue whale, which had enthralled visitors at the old Raffles Museum for over six decades, was more or less sealed.[^21]
 
 In 1972, the Science Centre donated what remained of the natural history collection to the Department of Zoology at the University of Singapore (now the National University of Singapore; NUS), where it was named as the Zoological Reference Collection. Over the next 15 years, the specimens were moved to various locations, including a storage facility at Ayer Rajah, different departments in the university and Nanyang University, before ending up at its permanent home at the science faculty of NUS in 1987.[^22]
 
-On 6 May 1974, the Straits Times announced that the Science Centre would be gifting the whale skeleton to the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur. In return, the 
+On 6 May 1974, the Straits Times announced that the Science Centre would be gifting the whale skeleton to the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur. In return, the
