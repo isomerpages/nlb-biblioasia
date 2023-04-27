@@ -24,7 +24,7 @@ About eight months later, on 15 March 2016, Jubi Lee (thus named because she had
 
 #### **Ikan Besar Skali**
 
-On 25 June 1892, the *Singapore Free Press* reported that the British steamer Bengkalis had spotted “a large whale” that was “stranded on the beach near the Kesang River, nine miles to the north of Muar”.[^5]
+On 25 June 1892, the *Singapore Free Press* reported that the British steamer *Bengkalis* had spotted “a large whale” that was “stranded on the beach near the Kesang River, nine miles to the north of Muar”.[^5]
 
 The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the *Straits Times Weekly Issue*, the “fish of monstrous size (*ikan besar skali*)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
 
@@ -50,7 +50,7 @@ Because this occurred before the advent of DNA technology, it took Hanitsch and 
 
 The whale skeleton sparked significant interest and excitement among visitors. When the exhibit was being set up, an elderly Malay man came by and offered a first-hand account of the beaching of the whale. “Bukan satu kapal. Satu ikan!” (“Not a boat. A fish!”). He was, however, wrong on both counts – it was neither a boat nor a fish.[^13]
 
-The whale spawned a tale that was peppered with riveting detail. “Malays…  told their boys the true story of the monster whale whose skeleton hangs suspended near the turtles. How the poor beast was stranded near Malacca and a pagar built promptly around him when for three days his bull-like roars terrified the neighbourhood, then silence and in seven days a corpse.”[^14]
+The whale spawned a tale that was peppered with riveting detail. “Malays…  told their boys the true story of the monster whale whose skeleton hangs suspended near the turtles. How the poor beast was stranded near Malacca and a *pagar* built promptly around him when for three days his bull-like roars terrified the neighbourhood, then silence and in seven days a corpse.”[^14]
 
 The giant skeleton also attracted international visitors from the wider scientific community. These included William Brigham, the American botanist and ethnologist and founding director of the Bernice P. Bishop Museum in Honolulu. Brigham, who had been on an inspection tour around the world, stopped by the Raffles Museum in 1912. He wrote about the whale in a “handsomely illustrated report”. Australian fisheries expert David Stead delivered a lecture titled “Life in the Sea” in 1922 to members of the Singapore Natural History Society, where he spoke passionately about whales and the biodiversity in the waters surrounding Singapore.[^15]
 
@@ -58,7 +58,7 @@ The Raffles Museum gained an international reputation in the decades that follow
 
 In 1924, the museum underwent upgrading works, and the whale exhibit, which had been in the public gallery, was temporarily removed. Museum staff took the opportunity to refurbish and bleach the specimen before it was shifted to a new location. Now hanging from the ceiling right above the museum’s staircase on the second storey, the whale skeleton would remain at this spot for half a century, until the early 1970s.[^17]
 
-By 1948, a quarter of a million people had visited the Raffles Museum annually. It was slowly but surely emerging as a “historical landmark” far greater than the sum of its individual collections. “[T]he importance of [the] Raffles Museum stands out clearly when Singapore is the centre of a region which is, ethnologically and zoologically, one of the most intriguing in the world”, wrote the Singapore Free Press in 1960.[^18]
+By 1948, a quarter of a million people had visited the Raffles Museum annually. It was slowly but surely emerging as a “historical landmark” far greater than the sum of its individual collections. “[T]he importance of [the] Raffles Museum stands out clearly when Singapore is the centre of a region which is, ethnologically and zoologically, one of the most intriguing in the world”, wrote the *Singapore Free Press* in 1960.[^18]
 
 After Singapore achieved internal self-government in 1959, the government saw the opportunity to mobilise the Raffles Museum to serve the island’s broader nation-building vision. Hence, in 1960, the existing institution was renamed the National Museum. While it inherited all the collections belonging to the old Raffles Museum, including the natural history exhibits, the new National Museum’s focus was instead on Singapore’s heritage and culture.[^19]
 
@@ -72,9 +72,9 @@ In 1972, the Science Centre donated what remained of the natural history collect
 
 On 6 May 1974, the *Straits Times* announced that the Science Centre would be gifting the whale skeleton to the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur. In return, the Malaysians would train Singapore’s museum staff on the “finer points of modelling and casting of exhibition specimens”. “The specimen will be one of the main exhibits at our museum and we expect it to become a main attraction,” said Syed Jamaluddin, then curator of Muzium Negara.[^23] (Presently, the whale specimen sits as the centrepiece in the Labuan Marine Museum, off Sabah, since its transfer there in 2003.[^24])
 
-An outpouring of grief and regret followed the announcement. “It is like a personal loss to me. For as a child I never failed to look at it whenever I visited the museum. I have seen children looking at the vast structure with awe. It was one of the museum’s finest and most impressive exhibits,” wrote a reader to the Straits Times.[^25]
+An outpouring of grief and regret followed the announcement. “It is like a personal loss to me. For as a child I never failed to look at it whenever I visited the museum. I have seen children looking at the vast structure with awe. It was one of the museum’s finest and most impressive exhibits,” wrote a reader to the *Straits Times*.[^25]
 
-The New Nation made the accusation that “local bodies were apparently not offered the opportunity to purchase the exhibits. Instead foreign organisations abroad were approached. The result is that a great section of the natural history collection which would have been the pride of any national museum is now out of the country… No amount of money can surely replace the sentimental attachment Singaporeans have for the items of historic importance”.[^26]
+The *New Nation* made the accusation that “local bodies were apparently not offered the opportunity to purchase the exhibits. Instead foreign organisations abroad were approached. The result is that a great section of the natural history collection which would have been the pride of any national museum is now out of the country… No amount of money can surely replace the sentimental attachment Singaporeans have for the items of historic importance”.[^26]
 
 The assistant director of the Science Centre, R.S. Bhathal, wasted no time in offering a sharp rebuke. He clarified that the complete zoological collection, minus the whale, remained in the country.
 
@@ -84,7 +84,7 @@ The assistant director of the Science Centre, R.S. Bhathal, wasted no time in of
 
 In 1987, the National Museum celebrated its centenary. To mark this milestone occasion, a selection of “historic fauna” like the crocodile, orang utan and leatherback turtle, all of which once called the museum home, were brought back for three weeks from 29 September to 18 October. To the disappointment of many, the returning zoological exhibits did not include the blue whale. Richard Poh, who was then the museum’s director explained: “Many people remember and ask about it, but unfortunately we can’t bring it back for the exhibition as it is in Kuala Lumpur.”[^28]
 
-The book,* One Hundred Years of the National Museum*, by Gretchen Liu was also produced to commemorate the museum’s rich history.[^29] In reviewing the publication, Irene Hoe of the *Straits Times* recounted: “As a child, I remember going to the museum – as often as I could persuade anyone to take me – to see ‘my whale’, ‘my tiger’, and ‘my snake’, among other treasures of natural history which packed the place… ‘My whale’, for instance,… sat in storage until a European taxidermist assembled it, suspended it from the ceiling with a steel rope and set it in my memory indelibly.”[^30] 
+The book, *One Hundred Years of the National Museum*, by Gretchen Liu was also produced to commemorate the museum’s rich history.[^29] In reviewing the publication, Irene Hoe of the *Straits Times* recounted: “As a child, I remember going to the museum – as often as I could persuade anyone to take me – to see ‘my whale’, ‘my tiger’, and ‘my snake’, among other treasures of natural history which packed the place… ‘My whale’, for instance,… sat in storage until a European taxidermist assembled it, suspended it from the ceiling with a steel rope and set it in my memory indelibly.”[^30] 
 
 A groundswell of public interest for a proper museum dedicated to Singapore’s natural history was materialising. In 1998, NUS established the Raffles Museum of Biodiversity Research to formally manage the Zoological Reference Collection. This institution, however, was more of a research centre with public display galleries.[^31]
 
