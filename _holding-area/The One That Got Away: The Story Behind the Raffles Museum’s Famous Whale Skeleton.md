@@ -119,7 +119,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^7]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, [*Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201152734) (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
 
-[^8]: *Annual Report on the Raffles Museum and Library for the Year 1905*, 3–4.
+[^8]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 3–4.
 
 [^9]: Gretchen Liu, *One Hundred Years of the National Museum Singapore, 1887–1987* (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); *Annual Report on the Raffles Museum and Library for the Year 1907* (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “Raffles Museum” Straits Times, 6 March 1908, 8. (From NewspaperSG)
 
