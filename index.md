@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
-      button: Qur’an Made in Singapore
+      url: /vol-10/issue-2/jul-sep-2014/nation-building-women-singapore
+      button: "A Quiet Revolution: Women and Work in Industrialising Singapore "
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
-        img.jpg
+      background: /images/vol-10-issue-2/women/may day hero img4.jpg
   - infopic:
       title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
       subtitle: Culture
