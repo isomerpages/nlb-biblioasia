@@ -143,7 +143,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^19]: Alvin Chua, “[Lee Kong Chian Natural History Museum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1689_2010-07-15.html),” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
 
-[^20]: Timothy P. Barnard, ed., *Nature Contained: Environmental Histories of Singapore* (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in *Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure* (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
+[^20]: Timothy P. Barnard, ed., [*Nature Contained: Environmental Histories of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148897) (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in *Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure* (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
 
 [^21]: Tan Sai Siong, “No Gimmicks Please, Just the Whole Singapore Story,” *Straits Times*, 31 October 1997, 6. (From NewspaperSG)
 
