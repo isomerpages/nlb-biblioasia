@@ -24,8 +24,8 @@ About eight months later, on 15 March 2016, Jubi Lee (thus named because she had
 
 #### **Ikan Besar Skali**
 
-On 25 June 1892, the Singapore Free Press reported that the British steamer Bengkalis had spotted “a large whale” that was “stranded on the beach near the Kesang River, nine miles to the north of Muar”.[^5]
+On 25 June 1892, the *Singapore Free Press* reported that the British steamer Bengkalis had spotted “a large whale” that was “stranded on the beach near the Kesang River, nine miles to the north of Muar”.[^5]
 
-The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the Straits Times Weekly Issue, the “fish of monstrous size (ikan besar skali)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
+The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the *Straits Times Weekly Issue*, the “fish of monstrous size (*ikan besar skali*)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
 
-D.F.A. Hervey, the resident councillor of Melaka, presented the local penghulu (chieftain) with a hadiah (gift) in exchange for the whale remains, which Hervey decided to preserve and convey to Singapore. A pagar (barrier) had been constructed around the carcass to “prevent it from getting washed back into the sea while the labourers worked” to dissect and prepare the remains for transportation.[^7]
+D.F.A. Hervey, the resident councillor of Melaka, presented the local *penghulu* (chieftain) with a *hadiah* (gift) in exchange for the whale remains, which Hervey decided to preserve and convey to Singapore. A *pagar* (barrier) had been constructed around the carcass to “prevent it from getting washed back into the sea while the labourers worked” to dissect and prepare the remains for transportation.[^7]
