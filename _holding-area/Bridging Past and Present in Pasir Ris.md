@@ -177,3 +177,23 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 [^34]: “[Young Town, Vocal Residents](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950122-1.2.35.11),” _Straits Times,_ 22 January 1995, 24. (From NewspaperSG)
 
 [^35]: Nur Aireen Abdullah, interview, 1 November 2022.
+
+[^36]: Wong, “[A Self-contained Community Amid Nature](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150610-1.2.33.9).”
+
+[^37]: “[3 Stations Open Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891216-1.2.33.21.2),” _Straits Times,_ 16 December 1989, 30; “[Pasir Ris and Eunos Interchanges to Open on Sunday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891207-1.2.26.3),” _Straits Times,_ 7 December 1989, 18. (From NewspaperSG); “Our Story,” Casuarina Primary School, last updated on 9 March 2023, https://www.casuarinapri.moe.edu.sg/caps-connection/CAPS-Open-House/Our-Story/; Loyang Secondary School, [_20 LYSS_](https://eresources.nlb.gov.sg/printheritage/detail/b06b6c83-24e2-4bfa-af1d-a49fc4011d47.aspx) (Singapore: Loyang Secondary School, 2009). (From BookSG)
+
+[^38]: Wayne Chan, “[DPM Opens Sports Centre in Pasir Ris](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20111107-1.2.19.1),” _Today,_ 7 November 2011, 16. (From NewspaperSG)
+
+[^39]: Siau Ming En, “[Traditional Meets Hipster at New Pasir Ris Hawker Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20170907-1.2.20.3.3),” _Today_, 7 September 2017. 16. (From NewspaperSG)
+
+[^40]:&nbsp;Ngiau Chean Fei, “[Smiling Dolphins Greet Shoppers at White Sands](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19961206-1.2.3.2),” _Weekend East,_ 6 December 1996, 5; Cephah Tan, “[3 New Shopping Centres for Pasir Ris](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19941023-1.2.59.18),” _Straits Times,_ 23 October 1994, 25. (From NewspaperSG)
+
+[^41]:&nbsp;“[PM Opens $38m Pasir Ris Holiday Resort for Workers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19881105-1.2.7.25),” _Straits Times,_ 5 November 1988, 6. (From NewspaperSG)
+
+[^42]: “Our Milestones,” NTUC Club, last accessed 22 March 2023, https://www.ntucclub.com/about-us/our-milestones.
+
+[^43]: “Our Milestones.”
+
+[^44]: Audrey Tan, “[Remake to Boost Access to Charms of Pasir Ris](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170430-1.2.5.3),” _Straits Times,_ 30 April 2017, 2–3; Audrey Tan, “[Rejuvenating Pasir Ris](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170430-1.2.5.2),” _Straits Times,_ 30 April 2017, 2–3. (From NewspaperSG)
+
+[^45]: Nur Aireen Abdullah, interview, 1 November 2022.
