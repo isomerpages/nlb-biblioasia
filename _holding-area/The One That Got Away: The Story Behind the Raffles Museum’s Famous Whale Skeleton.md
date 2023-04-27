@@ -105,27 +105,27 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 	
 #### **NOTES**
 
-[^1]: Audrey Tan, “A Whale of an Exhibit,” Straits Times, 15 March 2016, 1. (From NewspaperSG)
+[^1]: Audrey Tan, “A Whale of an Exhibit,” *Straits Times*, 15 March 2016, 1. (From NewspaperSG)
 
 [^2]: Lim Yaohui, “Whale of a Find in Singapore,” Straits Times, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
 
 [^3]: Tan, “A Whale of an Exhibit.” 
 
-[^4]: Kate Pocklington and Iffah Iesa, A Whale Out of Water: The Salvage of Singapore’s Sperm Whale (Singapore: Lee Kong Chian Natural History Museum, 2016). (From National Library, Singapore, call no. RSING 599.5470752 POC)
+[^4]: Kate Pocklington and Iffah Iesa, *A Whale Out of Water: The Salvage of Singapore’s Sperm Whale* (Singapore: Lee Kong Chian Natural History Museum, 2016). (From National Library, Singapore, call no. RSING 599.5470752 POC)
 
-[^5]: “Correspondence,” Singapore Free Press and Mercantile Advertiser, 25 June 1892, 2. (From NewspaperSG)
+[^5]: “Correspondence,” *Singapore Free Press and Mercantile Advertiser*, 25 June 1892, 2. (From NewspaperSG)
 
-[^6]: R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “Muar News,” Straits Times Weekly Issue, 29 June 1892, 9. (From NewspaperSG)
+[^6]: R. Hanitsch, *Guide to the Zoological Collections of the Raffles Museum, Singapore* (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “Muar News,” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
 
-[^7]: Annual Report on the Raffles Museum and Library for the Year 1905 (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
+[^7]: *Annual Report on the Raffles Museum and Library for the Year 1905* (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, *Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum* (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
 
-[^8]: Annual Report on the Raffles Museum and Library for the Year 1905, 3–4.
+[^8]: *Annual Report on the Raffles Museum and Library for the Year 1905*, 3–4.
 
-[^9]: Gretchen Liu, One Hundred Years of the National Museum Singapore, 1887–1987 (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); Annual Report on the Raffles Museum and Library for the Year 1907 (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “Raffles Museum” Straits Times, 6 March 1908, 8. (From NewspaperSG)
+[^9]: Gretchen Liu, *One Hundred Years of the National Museum Singapore, 1887–1987* (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); *Annual Report on the Raffles Museum and Library for the Year 1907* (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “Raffles Museum” Straits Times, 6 March 1908, 8. (From NewspaperSG)
 
-[^10]: Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
+[^10]: *Annual Report on the Raffles Museum and Library for the Year 1907*, 4–5.
 
-[^11]: “The Singapore Free Press,” Singapore Free Press and Mercantile Advertiser, 16 December 1907, 4. (From NewspaperSG)
+[^11]: “The Singapore Free Press,” *Singapore Free Press and Mercantile Advertiser*, 16 December 1907, 4. (From NewspaperSG)
 
 [^12]: *Annual Report on the Raffles Museum and Library for the Year 1905*, 3–4; *Annual Report on the Raffles Museum and Library for the Year 1907*, 4–5.
 
