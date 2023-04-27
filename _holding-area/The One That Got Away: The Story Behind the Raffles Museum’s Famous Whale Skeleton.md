@@ -155,7 +155,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^25]: Make No Bones, About It, “[Whale of a Loss](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740509-1.2.72.4),” *Straits Times*, 9 May 1974, 10. (From NewspaperSG) 
 
-[^26]: “The Loss of Those Exhibits…,” *New Nation*, 23 May 1974, 6. (From NewspaperSG)
+[^26]: “[The Loss of Those Exhibits…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740523-1.2.21.1),” *New Nation*, 23 May 1974, 6. (From NewspaperSG)
 
 [^27]: R.S. Bhathal, “No Place for Whale,” *New Nation*, 10 June 1974, 6. (From NewspaperSG)
 
