@@ -118,14 +118,23 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 [^6]: R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “Muar News,” Straits Times Weekly Issue, 29 June 1892, 9. (From NewspaperSG)
 
 [^7]: Annual Report on the Raffles Museum and Library for the Year 1905 (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
-Annual Report on the Raffles Museum and Library for the Year 1905, 3–4.
-Gretchen Liu, One Hundred Years of the National Museum Singapore, 1887–1987 (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); Annual Report on the Raffles Museum and Library for the Year 1907 (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “Raffles Museum” Straits Times, 6 March 1908, 8. (From NewspaperSG)
-Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
-“The Singapore Free Press,” Singapore Free Press and Mercantile Advertiser, 16 December 1907, 4. (From NewspaperSG)
-Annual Report on the Raffles Museum and Library for the Year 1905, 3–4; Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
-“Sporting Trophies,” Straits Times, 16 January 1908, 7. (From NewspaperSG)
-“Rambles in Raffles Museum,” Singapore Free Press and Mercantile Advertiser (Weekly), 17 February 1910, 4. (From NewspaperSG) 
-“Raffles Museum,” Singapore Free Press and Mercantile Advertiser, 15 February 1916, 1; “Life in the Sea,” Malaya Tribune, 14 March 1922, 4. (NewspaperSG)
+
+[^8]: Annual Report on the Raffles Museum and Library for the Year 1905, 3–4.
+
+[^9]: Gretchen Liu, One Hundred Years of the National Museum Singapore, 1887–1987 (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); Annual Report on the Raffles Museum and Library for the Year 1907 (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “Raffles Museum” Straits Times, 6 March 1908, 8. (From NewspaperSG)
+
+[^10]: Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
+
+[^11]: “The Singapore Free Press,” Singapore Free Press and Mercantile Advertiser, 16 December 1907, 4. (From NewspaperSG)
+
+[^12]: Annual Report on the Raffles Museum and Library for the Year 1905, 3–4; Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
+
+[^13]: “Sporting Trophies,” Straits Times, 16 January 1908, 7. (From NewspaperSG)
+
+[^14]: “Rambles in Raffles Museum,” Singapore Free Press and Mercantile Advertiser (Weekly), 17 February 1910, 4. (From NewspaperSG) 
+
+[^15]: “Raffles Museum,” Singapore Free Press and Mercantile Advertiser, 15 February 1916, 1; “Life in the Sea,” Malaya Tribune, 14 March 1922, 4. (NewspaperSG)
+
 Lydia Aroozoo, “‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum,” Singapore Free Press, 24 September 1960, 6. (NewspaperSG)
 Annual Report on the Raffles Museum and Library for the Year 1928 (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
 Aroozoo, “‘Redeeming’ Malayan History.”
