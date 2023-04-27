@@ -78,7 +78,7 @@ The New Nation made the accusation that “local bodies were apparently not offe
 
 The assistant director of the Science Centre, R.S. Bhathal, wasted no time in offering a sharp rebuke. He clarified that the complete zoological collection, minus the whale, remained in the country.
 
-“The whale skeleton is not a pre-historic fossil which would be of great value to scientists who study pre-history…,” said Bhathal. “[It] does not lend itself to the Centre’s exhibits programmes [sic] and furthermore, there is just not the necessary space (which is needed so badly for the new exhibits)… to accommodate it… Eventually the Museum Negara approached the Science Centre for the whale skeleton. The Science Centre agreed to donate it to the Museum Negara in the spirit of goodwill and scientific co-operation.”27
+“The whale skeleton is not a pre-historic fossil which would be of great value to scientists who study pre-history…,” said Bhathal. “[It] does not lend itself to the Centre’s exhibits programmes [sic] and furthermore, there is just not the necessary space (which is needed so badly for the new exhibits)… to accommodate it… Eventually the Museum Negara approached the Science Centre for the whale skeleton. The Science Centre agreed to donate it to the Museum Negara in the spirit of goodwill and scientific co-operation.”[^27]
 
 #### **Of Celebrations and Cetaceans**
 
@@ -96,4 +96,4 @@ The Lee Kong Chian Natural History Museum opened its doors on 18 April 2015. How
 
 The new museum was clearly still missing something: Jubi Lee’s debut in local waters a few months later could not have been more serendipitous. 
 
-“Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.34 A fitting ending to a whale of a story. 
+“Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.34 A fitting ending to a whale of a story.
