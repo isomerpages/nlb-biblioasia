@@ -169,6 +169,6 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^32]: Tan Dawn Wei, “[Let’s Have a Natural History Museum for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090614-1.2.34.1),” *Straits Times*, 14 June 2009, 26. (From NewspaperSG)
 
-[^33]: Deepika Shetty, “Giving Back to the Museums,” *Straits Times*, 28 April 2015, 2–3. (From NewspaperSG)
+[^33]: Deepika Shetty, “[Giving Back to the Museums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150428-1.2.51.1.1),” *Straits Times*, 28 April 2015, 2–3. (From NewspaperSG)
 
-[^34]: Tan, “A Whale of an Exhibit.”
+[^34]: Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1).”
