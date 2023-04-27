@@ -105,4 +105,37 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 	
 #### **NOTES**
 
-[^1]: These events, and the growing popularity of The Crescendos, took place well before British group The Shadows performed in Singapore in November 1961. Writer Joseph C. Pereira states that the rise of Singaporean guitar bands was sparked by The Shadows’ 1961 performances in Singapore. See Joseph C. Pereira, [*Apache Over Singapore: The Story of Singapore Sixties Music, Volume One*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601) (Singapore: Select Publishing, 2011), 1. (From National Library, Singapore, call no. RSING 781.64095957 PER)
+[^1]: Audrey Tan, “A Whale of an Exhibit,” Straits Times, 15 March 2016, 1. (From NewspaperSG)
+Lim Yaohui, “Whale of a Find in Singapore,” Straits Times, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
+Tan, “A Whale of an Exhibit.” 
+Kate Pocklington and Iffah Iesa, A Whale Out of Water: The Salvage of Singapore’s Sperm Whale (Singapore: Lee Kong Chian Natural History Museum, 2016). (From National Library, Singapore, call no. RSING 599.5470752 POC)
+“Correspondence,” Singapore Free Press and Mercantile Advertiser, 25 June 1892, 2. (From NewspaperSG)
+R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “Muar News,” Straits Times Weekly Issue, 29 June 1892, 9. (From NewspaperSG)
+Annual Report on the Raffles Museum and Library for the Year 1905 (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
+Annual Report on the Raffles Museum and Library for the Year 1905, 3–4.
+Gretchen Liu, One Hundred Years of the National Museum Singapore, 1887–1987 (Singapore: National Museum, 1987), 30. (From National Library, Singapore, call no. RSING 708.95957 LIU); Annual Report on the Raffles Museum and Library for the Year 1907 (Singapore: Government Printing Office, 1908), 4–5. (From National Library, Singapore, call no. RRARE 027.55957 RAF); “Raffles Museum” Straits Times, 6 March 1908, 8. (From NewspaperSG)
+Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
+“The Singapore Free Press,” Singapore Free Press and Mercantile Advertiser, 16 December 1907, 4. (From NewspaperSG)
+Annual Report on the Raffles Museum and Library for the Year 1905, 3–4; Annual Report on the Raffles Museum and Library for the Year 1907, 4–5.
+“Sporting Trophies,” Straits Times, 16 January 1908, 7. (From NewspaperSG)
+“Rambles in Raffles Museum,” Singapore Free Press and Mercantile Advertiser (Weekly), 17 February 1910, 4. (From NewspaperSG) 
+“Raffles Museum,” Singapore Free Press and Mercantile Advertiser, 15 February 1916, 1; “Life in the Sea,” Malaya Tribune, 14 March 1922, 4. (NewspaperSG)
+Lydia Aroozoo, “‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum,” Singapore Free Press, 24 September 1960, 6. (NewspaperSG)
+Annual Report on the Raffles Museum and Library for the Year 1928 (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
+Aroozoo, “‘Redeeming’ Malayan History.”
+Alvin Chua, “Lee Kong Chian Natural History Museum,” in Singapore Infopedia. From National Library Board. Article published 15 July 2020. 
+Timothy P. Barnard, ed., Nature Contained: Environmental Histories of Singapore (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
+Tan Sai Siong, “No Gimmicks Please, Just the Whole Singapore Story,” Straits Times, 31 October 1997, 6. (From NewspaperSG)
+Chua, “Lee Kong Chian Natural History Museum.”
+“A Whale of a Gift for Malaysian National Museum,” Straits Times, 6 May 1974, 8. (From NewspaperSG)
+“Labuan’s Century-old Whale,” Daily Express Sabah, 30 December 2006,  https://rafflesmuseumnews.wordpress.com/2007/01/20/labuans-century-old-whale/.
+Make No Bones, About It, “Whale of a Loss,” Straits Times, 9 May 1974, 10. (From NewspaperSG) 
+“The Loss of Those Exhibits…,” New Nation, 23 May 1974, 6. (From NewspaperSG)
+R.S. Bhathal, “No Place for Whale,” New Nation, 10 June 1974, 6. (From NewspaperSG)
+Irene Hoe, “Nostalgia Theme of Bash,” Straits Times, 17 September 1987, 16; K.F. Tang, “Museum Brings Its Skeletons Out of the Closet,” Straits Times, 4 October 1987, 11. (From NewspaperSG)
+Liu, One Hundred Years of the National Museum Singapore, 1887–1987.
+Irene Hoe, “Museum’s Past Recorded for Posterity,” Straits Times, 3 October 1987, 32. (From NewspaperSG)
+Tan, Of Whales and Dinosaurs, 182–83.
+Tan Dawn Wei, “Let’s Have a Natural History Museum for Singapore,” Straits Times, 14 June 2009, 26. (From NewspaperSG)
+Deepika Shetty, “Giving Back to the Museums,” Straits Times, 28 April 2015, 2–3. (From NewspaperSG)
+Tan, “A Whale of an Exhibit.”
