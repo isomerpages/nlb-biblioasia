@@ -139,7 +139,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^17]: [*Annual Report on the Raffles Museum and Library for the Year 1928*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1929), 3. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
 
-[^18]: Aroozoo, “‘Redeeming’ Malayan History.”
+[^18]: Aroozoo, “[‘Redeeming’ Malayan History](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600924-1.2.46).”
 
 [^19]: Alvin Chua, “Lee Kong Chian Natural History Museum,” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
 
