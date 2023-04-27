@@ -96,4 +96,4 @@ The Lee Kong Chian Natural History Museum opened its doors on 18 April 2015. How
 
 The new museum was clearly still missing something: Jubi Lee’s debut in local waters a few months later could not have been more serendipitous. 
 
-“Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.34 A fitting ending to a whale of a story.
+“Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.[^34] A fitting ending to a whale of a story.
