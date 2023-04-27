@@ -109,9 +109,9 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^2]: Lim Yaohui, “[Whale of a Find in Singapore](https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore),” Straits Times, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
 
-[^3]: Tan, “A Whale of an Exhibit.” 
+[^3]: Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1).” 
 
-[^4]: Kate Pocklington and Iffah Iesa, *A Whale Out of Water: The Salvage of Singapore’s Sperm Whale* (Singapore: Lee Kong Chian Natural History Museum, 2016). (From National Library, Singapore, call no. RSING 599.5470752 POC)
+[^4]: Kate Pocklington and Iffah Iesa, [*A Whale Out of Water: The Salvage of Singapore’s Sperm Whale*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202956515) (Singapore: Lee Kong Chian Natural History Museum, 2016). (From National Library, Singapore, call no. RSING 599.5470752 POC)
 
 [^5]: “Correspondence,” *Singapore Free Press and Mercantile Advertiser*, 25 June 1892, 2. (From NewspaperSG)
 
