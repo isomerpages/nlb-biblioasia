@@ -16,6 +16,9 @@ In the film, actor Aziz Sattar sings this song – whose title roughly translate
 
 Produced by the Shaw Brothers’ Malay Film Productions, this particular scene was shot on the grounds of a beachside hotel in Pasir Ris.[^1] The now largely forgotten Pasir Ris Hotel on Elias Road was owned by well-known hotelier Ho Meng Quee. Before he took over the place in the 1950s, the building had been the beachfront holiday residence of wealthy Jewish entrepreneur Joseph Aaron Elias, who was also a Justice of the Peace (he and his brother Ezra Aaron Elias gave Elias Road its name).[^2]
 
+![Pasir_Ris_hotel](/images/Vol%2019%20Issue%202/Pasir%20Ris/pasir%20ris%20hotel.jpg)
+<div style="background-color: white;">Pasir Ris Hotel had its own swimming pagar, 1957–59. The building was formerly wealthy Jewish entrepreneur Joseph Aaron Elias’ beachfront holiday bungalow before it was redeveloped in 1952. <i>RAF Seletar Association Collection, courtesy of National Archives of Singapore.</i></div>
+
 <p style="color: red;"> <b> Black and white beach side hotel image </b> </p>
 
 It is not surprising that the producers of this lightweight comedy would have chosen Pasir Ris to capture a laidback beach vibe. For much of Singapore’s postwar years, the white sands of Pasir Ris drew city folk looking for a quiet, peaceful respite. At one time, Pasir Ris boasted two seaside resorts and even had a museum of corals and seashells. Its remote location added to its allure, in the way that holidaymakers today seek out beach holidays in Bintan, Tioman and Phuket.
