@@ -97,7 +97,8 @@ Happy Tay, president of the Pasir Ris Beach Park Residents’ Association, told 
 
 The Housing and Development Board (HDB) announced plans for the development of Pasir Ris New Town in its 1984/85 annual report, with construction slated to begin in 1986. The government had acquired land to build the new housing estate from Bukit Sembawang Rubber Company, Shaw Brothers and a number of private individuals in 1983. To attract potential buyers to the far-flung location, the HDB highlighted amenities such as the MRT system that would take residents to Orchard Road in 30 minutes and the new Pasir Ris Park. “Better-quality flats with better finish and better designs” in Pasir Ris were also cited to boost the estate’s appeal.[^33]
 
-<p style="color: red;"> <b> Flat image </b> </p>
+![DE](/images/Vol%2019%20Issue%202/Pasir%20Ris/light%20turrets.jpg)
+<div style="background-color: white;">The design of the flats in Pasir Ris took inspiration from its history as a seaside resort. These flats at Pasir Ris Street 11 feature lighthouse-shaped turrets. <i>Courtesy of National Heritage Board.</i></div>
 
 The town welcomed its first residents in 1988 and was dubbed a “yuppie neighbourhood with high expectations” by its Member of Parliament Charles Chong, as most of the residents were mainly young families.[^34] Airline relations manager Nur Aireen Abdullah and her family moved into a five-bedroom flat in Pasir Ris Drive 6 in June 1989. She recalled: “There were limited bus services that plied the new neighbourhood at the time. There were no amenities or facilities. However, we were still thrilled to be able to walk to the beach from our home in under 10 minutes. Some evenings, my mother would pack our food, and we would eat by the beach. My siblings and I also enjoyed exploring the maze and spotting mudskippers at the mangrove swamp.”[^35]
 
