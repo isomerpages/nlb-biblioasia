@@ -11,7 +11,7 @@ By Asrina Tanuri
 ![](/images/Vol%2019%20Issue%202/Pasir%20Ris/lorong%20halus%20red%20bridge%20(stb).jpg)
 <div style="background-color: white;">The Lorong Halus Red Bridge across Serangoon Reservoir. Photo by Allen Chun. <i>Courtesy of Singapore Tourism Board.</i></div>
 
-Sun, sand, sea and sax – the popular Malay song “Bila Mama Pakai Celana” had it all. Set to a cha-cha beat, the song was written by actor, musician and filmmaker P. Ramlee and featured in the 1959 film _Saudagar Minyak Urat (Love Crazy)._
+Sun, sand, sea and sax – the popular Malay song “Bila Mama Pakai Celana” had it all. Set to a cha-cha beat, the song was written by actor, musician and filmmaker P. Ramlee and featured in the 1959 film _Saudagar Minyak Urat_ (_Love Crazy_).
 
 In the film, actor Aziz Sattar sings this song – whose title roughly translates as “When Mother Wore Pants” – on a beach surrounded by a bevy of ladies in swimsuits who are gyrating their hips as they twirl hula hoops. A saxophone dangles around his neck, which he holds occasionally but never seems to actually use.
 
