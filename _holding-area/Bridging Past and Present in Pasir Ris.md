@@ -17,7 +17,7 @@ In the film, actor Aziz Sattar sings this song – whose title roughly translate
 
 Produced by the Shaw Brothers’ Malay Film Productions, this particular scene was shot on the grounds of a beachside hotel in Pasir Ris.[^1] The now largely forgotten Pasir Ris Hotel on Elias Road was owned by well-known hotelier Ho Meng Quee. Before he took over the place in the 1950s, the building had been the beachfront holiday residence of wealthy Jewish entrepreneur Joseph Aaron Elias, who was also a Justice of the Peace (he and his brother Ezra Aaron Elias gave Elias Road its name).[^2]
 
-![Pasir_Ris_hotel](/images/Vol%2019%20Issue%202/Pasir%20Ris/pasir%20ris%20hotel.jpg)
+![Pasir_Ris_hotel](/images/Vol%2019%20Issue%202/Pasir%20Ris/pasir%20ris%20hotel%203.jpg)
 <div style="background-color: white;">Pasir Ris Hotel had its own swimming <i>pagar</i>, 1957–59. The building was formerly wealthy Jewish entrepreneur Joseph Aaron Elias’ beachfront holiday bungalow before it was redeveloped in 1952. <i>RAF Seletar Association Collection, courtesy of National Archives of Singapore.</i></div>
 
 It is not surprising that the producers of this lightweight comedy would have chosen Pasir Ris to capture a laidback beach vibe. For much of Singapore’s postwar years, the white sands of Pasir Ris drew city folk looking for a quiet, peaceful respite. At one time, Pasir Ris boasted two seaside resorts and even had a museum of corals and seashells. Its remote location added to its allure, in the way that holidaymakers today seek out beach holidays in Bintan, Tioman and Phuket.
@@ -32,7 +32,7 @@ The origin of the name Pasir Ris is unknown though. According to a study by H.T.
 
 Pasir Ris was once a low-lying and undeveloped area.[^5] Maps from the 1950s to 1970s show that Pasir Ris was then occupied mainly by coconut and rubber plantations, mangrove swamps and ponds, and dotted with Malay kampongs and Chinese villages. The kampongs in the area included Kampong Loyang, Kampong Pasir Ris, Kampong Elias, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar. Two waterways, Sungei Api Api and Sungei Tampines, used to flow through the area.[^6]
 
-![map](/images/Vol%2019%20Issue%202/Pasir%20Ris/topographic%20map%201.jpg)
+![map](/images/Vol%2019%20Issue%202/Pasir%20Ris/topographic%20map%202.jpg)
 <div style="background-color: white;">Detail from a 1961 topographic map showing Pasir Ris Hotel (circled in red) and the kampongs in Pasir Ris such as Kampong Loyang, Kampong Pasir Ris, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar (circled in white). <i>Singapore, 1961, TM001090, Singapore Land Authority, courtesy of National Archives of Singapore</i></div>
 
 Apart from rubber tapping and fishing as their livelihoods, the Malay villagers also produced _belacan_ (fermented shrimp paste) made from _udang geragau_ (small shrimps) caught at Sungei Api Api and Sungei Tampines during high tide. Kampong Tampines, located on Jalan Guan Choon and Tampines Road, was a popular filming location in the 1950s and 1960s for Malay films such as _Hantu Jerangkong_ (_The Skeleton Ghost_), _Antara Dua Darjat_ (_Between Two Classes_) and _Batu Belah Batu Bertangkup_ (_The Devouring Rock_).[^7]
@@ -98,12 +98,12 @@ Happy Tay, president of the Pasir Ris Beach Park Residents’ Association, told 
 
 The Housing and Development Board (HDB) announced plans for the development of Pasir Ris New Town in its 1984/85 annual report, with construction slated to begin in 1986. The government had acquired land to build the new housing estate from Bukit Sembawang Rubber Company, Shaw Brothers and a number of private individuals in 1983. To attract potential buyers to the far-flung location, the HDB highlighted amenities such as the MRT system that would take residents to Orchard Road in 30 minutes and the new Pasir Ris Park. “Better-quality flats with better finish and better designs” in Pasir Ris were also cited to boost the estate’s appeal.[^33]
 
-![DE](/images/Vol%2019%20Issue%202/Pasir%20Ris/light%20turrets.jpg)
-<div style="background-color: white;">The design of the flats in Pasir Ris took inspiration from its history as a seaside resort. These flats at Pasir Ris Street 11 feature lighthouse-shaped turrets. <i>Courtesy of National Heritage Board.</i></div>
-
 The town welcomed its first residents in 1988 and was dubbed a “yuppie neighbourhood with high expectations” by its Member of Parliament Charles Chong, as most of the residents were mainly young families.[^34] Airline relations manager Nur Aireen Abdullah and her family moved into a five-bedroom flat in Pasir Ris Drive 6 in June 1989. She recalled: “There were limited bus services that plied the new neighbourhood at the time. There were no amenities or facilities. However, we were still thrilled to be able to walk to the beach from our home in under 10 minutes. Some evenings, my mother would pack our food, and we would eat by the beach. My siblings and I also enjoyed exploring the maze and spotting mudskippers at the mangrove swamp.”[^35]
 
 Former chief of Mercy Relief Hassan Ahmad, who moved to an executive flat in Pasir Ris in 2006, said that the “proximity to nature” drew him to the estate. “We do a lot of cycling around here, my kids also love the beach at Pasir Ris Park. There are a lot of big open spaces,” he told the _Straits Times_ in June 2015.[^36]
+
+![DE](/images/Vol%2019%20Issue%202/Pasir%20Ris/light%20turrets%202.jpg)
+<div style="background-color: white;">The design of the flats in Pasir Ris took inspiration from its history as a seaside resort. These flats at Pasir Ris Street 11 feature lighthouse-shaped turrets. <i>Courtesy of National Heritage Board.</i></div>
 
 Over the years, more facilities and amenities were added to the estate. Pasir Ris Bus Interchange and Pasir Ris MRT station opened in December 1989, while Loyang Primary School and Loyang Secondary School were the first schools established there. (Both schools no longer exist as they have merged with other schools due to declining enrolments.)[^37]
 
