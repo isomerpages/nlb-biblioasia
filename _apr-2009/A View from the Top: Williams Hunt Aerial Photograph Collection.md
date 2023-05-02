@@ -62,6 +62,10 @@ Most of the aerial photographs of Malaysia were taken by the British during the 
 
 #### **Details of Singapore Photographs**
 
+
+<img src="/images/Vol%205%20Issue%201/WilliamsHunt/waterfront%20building.jpg" style="width:80%;">
+ <div style="background-color: white;">View of the waterfront buildings at the city centre which include Clifford Pier, Fullerton Building, Victoria Memorial Hall, Hongkong and Shanghai Bank, Union Building and Ocean Building.<i> Copyright Williams-Hunt Collection, SOAS.</i></div>
+
 The aerial photographs on Singapore were mainly taken between 1947 and 1948 and are “all obliques”. (McGregor, 1996, p. 208) The Singapore images depict aerial views of various parts of the island, including coastlines, waterfront areas, ports, warehouses, airfields, rural and suburban areas, and government, commercial and residential buildings.
 
 The inventory listing that accompanied the Singapore photographs is based on the list Dr Moore created to sort the photographs in the Collection. A sample is provided below to show how the photographs were organised within the list.
@@ -82,7 +86,7 @@ On the whole, the Williams-Hunt collection of Southeast Asian aerial photographs
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/makeswary%20periasamy.JPG">
-<center><b>Makeswary Periasamy</b><br>Senior Librarian Professional <br>Services National Library. </center></div>
+<center><b>Makeswary Periasamy</b><br>Senior Librarian<br> Professional Services<br> National Library </center></div>
 
 #### **REFERENCES**
 
