@@ -160,7 +160,7 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 
 [^15]:&nbsp;“[Page 3 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690208-1.2.20.2),” _Straits Times,_ 8 February 1969, 3; “[Boating and Fishing for the Water-loving Tourist](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19690212-1.2.34),” _Eastern Sun,_ 12 February 1969, 3. (From NewspaperSG)
 
-[^16]: SG HeritageFest, “Hello Pasir Ris! Mini Series – A Holiday Resort Town (Ep 1),” video, 2:05, 27 June 2020, Youtube, [https://www.youtube.com/watch?v=lUrRaNLjs1g](https://www.youtube.com/watch?v=lUrRaNLjs1g).
+[^16]: SG HeritageFest, “Hello Pasir Ris! Mini Series – A Holiday Resort Town (Ep 1),” video, 2:05, 27 June 2020, Youtube, https://www.youtube.com/watch?v=lUrRaNLjs1g
 
 [^17]: “[Court Orders Winding-up of Entertainment Complex](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710427-1.2.72),” _Straits Times,_ 27 April 1971, 8; “[Govt Buys Golden Palace Holiday Resort](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730318-1.2.25),” _Straits Times,_ 18 March 1973, 5; “[Salt Water Fish Pond to Open](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19901025-1.2.4),” _Weekend East,_ 25 October 1990, 2. (From NewspaperSG)
 
@@ -186,7 +186,7 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 
 [^28]: Mardiana Abu Bakar, “[Fun for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920222-1.2.67.3.14),” _Straits Times,_ 22 February 1992, 7. (From NewspaperSG); “Pasir Ris Park,” National Parks Board, last updated 14 March 2023, &nbsp;https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park.
 
-[^29]: “Lorong Halus Wetland,” Public Utilities Board, last updated 27 July 2021, [https://www.pub.gov.sg/abcwaters/explore/loronghaluswetland](https://www.pub.gov.sg/abcwaters/explore/loronghaluswetland); Ong Dai Lin, “[From Former Landfill to Wetland…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20110305-1.2.9.8),” _Today,_ 5 March 2011, 3. (From NewspaperSG)
+[^29]: “Lorong Halus Wetland,” Public Utilities Board, last updated 27 July 2021, https://www.pub.gov.sg/abcwaters/explore/loronghaluswetland; Ong Dai Lin, “[From Former Landfill to Wetland…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20110305-1.2.9.8),” _Today,_ 5 March 2011, 3. (From NewspaperSG)
 
 [^30]: “[Another Estate at Pasir Ris Beach](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740824-1.2.218),” _Straits Times,_ 24 August 1974, 28; Rohaniah Saini, “[Kampung-style Living and Spirit in Pasir Ris Park](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880614-1.2.33.3),” _Straits Times,_ 14 June 1988, 19. (From NewspaperSG)
 
