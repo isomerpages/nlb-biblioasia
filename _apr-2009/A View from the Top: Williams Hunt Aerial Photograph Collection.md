@@ -71,7 +71,13 @@ Most of the aerial photographs of Malaysia were taken by the British during the 
 
 The aerial photographs on Singapore were mainly taken between 1947 and 1948 and are “all obliques”. (McGregor, 1996, p. 208) The Singapore images depict aerial views of various parts of the island, including coastlines, waterfront areas, ports, warehouses, airfields, rural and suburban areas, and government, commercial and residential buildings.
 
+<img src="/images/Vol%205%20Issue%201/WilliamsHunt/kallang%20airfield.jpg" style="width:80%;">
+ <div style="background-color: white;">View of the Kallang Airfield looking toward the city centre.<i> Copyright Williams-Hunt Collection,SOAS.</i></div>
+
 The inventory listing that accompanied the Singapore photographs is based on the list Dr Moore created to sort the photographs in the Collection. A sample is provided below to show how the photographs were organised within the list.
+
+<img src="/images/Vol%205%20Issue%201/WilliamsHunt/changi%20airfiled.jpg" style="width:80%;">
+ <div style="background-color: white;">View of the Royal Air Force Changi Airfield and the Selarang Barracks.<i> Copyright Williams-Hunt Collection, SOAS.</i></div>
 
 The above list shows a broad organisation of the photographs by major locations in Singapore. Further investigation and research are required to identify the numerous details of Singapore landscapes evident in the images and to compare them with the current Singapore landscapes.
 
