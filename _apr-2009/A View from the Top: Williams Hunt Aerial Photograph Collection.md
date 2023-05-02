@@ -6,7 +6,7 @@ description: Senior Library Makeswary Periasamy introduces aerial photographs
   Royal Air Force during and after World War II.
 image: /images/Vol 5 Issue 1/WilliamsHunt/back fullerton building.jpg
 ---
-#### Senior Library _Makeswary Periasamy_ introduces aerial photographs gathered by P.D.R Williams-Hunt, an aerial photograph interpreter for the Royal Air Force during and after World War II.
+#### Senior Library&nbsp;_Makeswary Periasamy_&nbsp;introduces aerial photographs gathered by P.D.R Williams-Hunt, an aerial photograph interpreter for the Royal Air Force during and after World War II.
 
 #### **Introduction**
 
@@ -18,13 +18,13 @@ This article is a brief introduction to the aerial photographs that Williams-Hun
 
 #### **Background**
 
-Many of the photographs in the Williams-Hunt collection were taken by the Allied Photographic Interpretation Service (A.P.I.S.). (Lertlum & Moore, \[198–?\], p. 3) It was a unit within the Royal Air Force that specialised in gathering photographic intelligence. A few of the photographs were taken by Williams-Hunt himself, who also had an avid interest in archaeology and anthropology.
+Many of the photographs in the Williams-Hunt collection were taken by the Allied Photographic Interpretation Service (A.P.I.S.). (Lertlum &amp; Moore, \[198–?\], p. 3) It was a unit within the Royal Air Force that specialised in gathering photographic intelligence. A few of the photographs were taken by Williams-Hunt himself, who also had an avid interest in archaeology and anthropology.
 
-Before his untimely death in 1953, Williams-Hunt had passed his aerial photographs collection to his colleague and friend, John Bradford in 1951. The collection was housed at the Pitt Rivers Museum. The Museum subsequently passed the collection over to the University of London, where the photographs were scanned to create negatives. Currently, these photographs are held at the University’s School of Oriental and African Studies (SOAS). (Lertlum & Moore, \[198–?\], p. 1–2)
+Before his untimely death in 1953, Williams-Hunt had passed his aerial photographs collection to his colleague and friend, John Bradford in 1951. The collection was housed at the Pitt Rivers Museum. The Museum subsequently passed the collection over to the University of London, where the photographs were scanned to create negatives. Currently, these photographs are held at the University’s School of Oriental and African Studies (SOAS). (Lertlum &amp; Moore, \[198–?\], p. 1–2)
 
-Dr Elizabeth Moore from SOAS found out about the collection when she was researching for her doctoral thesis on Northeast Thailand. Previously unorganised and without any explanatory data, Dr Moore helped to organise the photographs by the various major locations in Southeast Asia and came up with a database to identify and inventorise the photographs. (Lertlum & Moore, \[198–?\], p. 1)
+Dr Elizabeth Moore from SOAS found out about the collection when she was researching for her doctoral thesis on Northeast Thailand. Previously unorganised and without any explanatory data, Dr Moore helped to organise the photographs by the various major locations in Southeast Asia and came up with a database to identify and inventorise the photographs. (Lertlum &amp; Moore, \[198–?\], p. 1)
 
-The Center for Southeast Asia Studies (CSEAS) at the University of Kyoto has digitised the whole collection, making it accessible via a digital archive. (Lertlum & Moore, \[198–?\], p. 3). The digital archive, known as the “Geo-spatial Digital Archive for the Southeast Asia” is a collaborative effort between CSEAS, SOAS, the Chulachomklao Royal Military Academy (CRMA) and the Inter-University Network of Thailand (UniNet). Such efforts in inventorying and digitising have facilitated access to the rich trove of information available within these images.
+The Center for Southeast Asia Studies (CSEAS) at the University of Kyoto has digitised the whole collection, making it accessible via a digital archive. (Lertlum &amp; Moore, \[198–?\], p. 3). The digital archive, known as the “Geo-spatial Digital Archive for the Southeast Asia” is a collaborative effort between CSEAS, SOAS, the Chulachomklao Royal Military Academy (CRMA) and the Inter-University Network of Thailand (UniNet). Such efforts in inventorying and digitising have facilitated access to the rich trove of information available within these images.
 
 #### **Williams-Hunt, 1919–1953**
 
@@ -38,7 +38,7 @@ The plight and suffering of the Malayan aborigines during the war went largely u
 
 Williams-Hunt is often cited for his pioneering work in locating both archaeological and ethnological sites from the air in Malaysia, Thailand and Australia. Although he had written only nine articles from 1946 to 1952 and mostly brief ones, he was regarded as a pioneer of scientific air photography. (Fagg, 1953, p. 8; Moore, 1984, p. 99)
 
-Williams-Hunt was appointed as the Adviser on Aborigines and later as acting Director of Museums for the Federation of Malaya. (Bradford, 1953, p. 175). Interestingly, he had helped the British Museum collect aboriginal material culture, and had sent rare orchids to the Singapore Botanical Gardens and zoological specimens to the Raffles Museum. He had also assisted in the re-construction of the Kuala Lumpur National Museum that was demolished during the war. (Fagg, 1953, p. 8; Moore, 1984, p. 99 & 100; *The Straits Times*, June 13, 1953, p. 1)
+Williams-Hunt was appointed as the Adviser on Aborigines and later as acting Director of Museums for the Federation of Malaya. (Bradford, 1953, p. 175). Interestingly, he had helped the British Museum collect aboriginal material culture, and had sent rare orchids to the Singapore Botanical Gardens and zoological specimens to the Raffles Museum. He had also assisted in the re-construction of the Kuala Lumpur National Museum that was demolished during the war. (Fagg, 1953, p. 8; Moore, 1984, p. 99 &amp; 100; *The Straits Times*, June 13, 1953, p. 1)
 
 On June 3, 1953, Williams-Hunt was in Tapah, Perak to attend the wedding of his wife’s sister when he met with a fatal accident. He was crossing a wooden bridge when a rotten timber gave way and he fell. The bamboo pole supporting the bridge pierced him. Eight days after the accident, he passed away in Batu Gajah hospital, leaving behind a wife and three-week-old son named Anthony. (Moore, 1984, p. 100). The man who endeared himself to the aborigines and who was known affectionately among them as “Tuan Jangot” (Mr Beard) was buried in his wife’s jungle village near Tapah, according to Semai rites. (*The Straits Times*, June 13, 1953, p. 1; *The Straits Times*, June 15, 1953, p. 1)
 
@@ -47,6 +47,32 @@ On June 3, 1953, Williams-Hunt was in Tapah, Perak to attend the wedding of his 
 The Williams-Hunt collection at SOAS comprises the aerial photographs of the RAF gathered by P.D.R. Williams-Hunt, including some of his documents as well as maps and flight plans.
 
 The main Southeast Asian countries represented by the photographs are Singapore, Myanmar, Peninsular Malaysia, Thailand and Cambodia. Majority of the photographs in the Collection are vertical aerial images while “about 20 percent...\[are\]...lower-level oblique photographs (notably of Bangkok, Ayutthaya, Singapore and Saigon).” (McGregor, 1996, p. 208)
+
+Table 1 highlights the geographical coverage and major timelines of the photographs in the Collection, based on the inventory and description done by Dr Elizabeth Moore.
+
+The largest portion of the photographs is on Peninsular Malaysia, shot between 1947 and 1949. The earliest photographs will be those of Myanmar, shot between 1943 and 1944. Interestingly, almost “300 photographs exist of Japanese-occupied Rangoon.”
+
+Most of the aerial photographs of Malaysia were taken by the British during the Malayan Emergency in order to discover “possible activity of Communist insurgents.” The aerial photographs are a “good record of land use, but are difficult to locate in the absence of flight plans and recognisable settlements or transport arteries.” (McGregor, 1996, p. 208)
+
+#### **Details of Singapore Photographs**
+
+The aerial photographs on Singapore were mainly taken between 1947 and 1948 and are “all obliques”. (McGregor, 1996, p. 208) The Singapore images depict aerial views of various parts of the island, including coastlines, waterfront areas, ports, warehouses, airfields, rural and suburban areas, and government, commercial and residential buildings.
+
+The inventory listing that accompanied the Singapore photographs is based on the list Dr Moore created to sort the photographs in the Collection. A sample is provided below to show how the photographs were organised within the list.
+
+The above list shows a broad organisation of the photographs by major locations in Singapore. Further investigation and research are required to identify the numerous details of Singapore landscapes evident in the images and to compare them with the current Singapore landscapes.
+
+The National Archives of Singapore (NAS) holds a similar collection of Royal Air Force aerial photographs transferred to them by the Ministry of Defence, Singapore. These photographs span the period from 1946 to 1968. In their book, *Over Singapore 50 years Ago*, Brenda Yeoh and Theresa Wong researched on the aerial photographs taken between 1957 and 1958. They meticulously identified the places and buildings portrayed within these images, as they existed then in the 50s. The authors have also added a current map of each of the areas studied, to better understand the changes that have occurred. (Yeoh &amp; Wong, 2007, p. 7)
+
+#### **Conclusion**
+
+The aerial photographs of Singapore offer unique insights into how the island looked in the 1940s and 50s, and a view of the buildings that are long gone. They serve as a testimony to how Singapore’s landscape has changed over the years. Though originally taken for reconnaissance purposes, the aerial photographs provide an important visual study of the historical and socioeconomic development of Singapore.
+
+On the whole, the Williams-Hunt collection of Southeast Asian aerial photographs has been useful in researching into land utilisation in Southeast Asia, especially with the use of GIS technology. It has also proved useful for archaeological, anthropological and environmental studies. It is a unique and remarkable collection and “represents the oldest known freely available regional aerial photographic record of South-East Asia.”.(McGregor, 1996, p. 208)
+
+***The author would like to acknowledge the following people for their assistance with this article:*** <br>  ***Ms Azizah Sidek, Lee Kong Chian Reference Library, National Library Board; Associate Professor Robert J. Madden, Keene State College; Professor Brenda Yeoh, National University of Singapore; Ms Yvonne Chan, National Archives of Singapore; Ms Hayati bte Abdul, Central Library, National University of Singapore; Lim Ah Eng, Aodhfionn Quinn, Tony Lim Buck Chye, Malena Abdul Manaf &amp; Rahmah Abdullah Bamadhaj, National Library Board for their assistance in interpreting the aerial photographs on Singapore; Dr Elizabeth Moore, School of Oriental and African Studies, University of London, for providing information and images readily***.
+
+
 
 
 
