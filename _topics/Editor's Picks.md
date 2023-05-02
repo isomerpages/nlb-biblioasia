@@ -3,6 +3,31 @@ title: Editor's Picks
 permalink: /editors-picks/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
+The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
+
+<img style="width:100%;" src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image1.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting?</a>
+Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to.
+
+<img style="width:100%;" src="/images/Vol%2019%20Issue%201/Balacan/balacan_1.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08">The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff Ahmad</a>
+
+<img src="/images/Hari%20Raya%20Cards/hari%20raya%20greeting%20cards.jpg">
+<hr>
+
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith">Building Faith: Wartime Churches in Syonan-to</a>
 Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
 
@@ -32,6 +57,3 @@ Balancing biodiversity conservation with urban development is a hot-button issue
 
 <img style="width:100%;" src="/images/Vol-17-issue-1/nature/pangolin.jpg">
 <hr>
-
-
-
