@@ -18,7 +18,6 @@ Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes
 #### <a href="/https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08/">
 #### **The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff Ahmad**
 
-
 <img style="width:60%;" src="/images/Hari%20Raya%20Cards/hari%20raya%20greeting%20cards.jpg">
 <hr>
 
