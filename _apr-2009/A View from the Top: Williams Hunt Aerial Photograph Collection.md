@@ -6,7 +6,7 @@ description: Senior Library Makeswary Periasamy introduces aerial photographs
   Royal Air Force during and after World War II.
 image: /images/Vol 5 Issue 1/WilliamsHunt/back fullerton building.jpg
 ---
-#### Senior Library&nbsp;_Makeswary Periasamy_&nbsp;introduces aerial photographs gathered by P.D.R Williams-Hunt, an aerial photograph interpreter for the Royal Air Force during and after World War II.
+#### Senior Librarian Makeswary Periasamy introduces aerial photographs gathered by P.D.R Williams-Hunt, an aerial photograph interpreter for the Royal Air Force during and after World War II.
 
 #### **Introduction**
 
@@ -71,8 +71,3 @@ The aerial photographs of Singapore offer unique insights into how the island lo
 On the whole, the Williams-Hunt collection of Southeast Asian aerial photographs has been useful in researching into land utilisation in Southeast Asia, especially with the use of GIS technology. It has also proved useful for archaeological, anthropological and environmental studies. It is a unique and remarkable collection and “represents the oldest known freely available regional aerial photographic record of South-East Asia.”.(McGregor, 1996, p. 208)
 
 ***The author would like to acknowledge the following people for their assistance with this article:*** <br>  ***Ms Azizah Sidek, Lee Kong Chian Reference Library, National Library Board; Associate Professor Robert J. Madden, Keene State College; Professor Brenda Yeoh, National University of Singapore; Ms Yvonne Chan, National Archives of Singapore; Ms Hayati bte Abdul, Central Library, National University of Singapore; Lim Ah Eng, Aodhfionn Quinn, Tony Lim Buck Chye, Malena Abdul Manaf &amp; Rahmah Abdullah Bamadhaj, National Library Board for their assistance in interpreting the aerial photographs on Singapore; Dr Elizabeth Moore, School of Oriental and African Studies, University of London, for providing information and images readily***.
-
-
-
-
-
