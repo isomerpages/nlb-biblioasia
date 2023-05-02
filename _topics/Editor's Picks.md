@@ -16,7 +16,7 @@ Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes
 <hr>
 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08/https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08/">The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff </a>
+#### <a style="text-decoration: none; font-weight: bold;" href="https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08/https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08/">The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff </a>
 These days, sending festive greetings to friends and family is only a click away on our phones. However, a physical card conveys so much more. Librarian Toffa Abdul Wahed&nbsp;gives us a peek at a unique collection of greeting cards collected by one of Singapore’s literary giants.
 
 <img style="width:60%;" src="/images/Hari%20Raya%20Cards/hari%20raya%20greeting%20cards.jpg">
