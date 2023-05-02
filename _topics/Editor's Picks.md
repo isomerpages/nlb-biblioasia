@@ -15,13 +15,16 @@ Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes
 <img style="width:100%;" src="/images/Vol%2019%20Issue%201/Balacan/balacan_1.png">
 <hr>
 
-<a href="https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08/">https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08</a>
+
+<a href="The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff Ahmad">The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff Ahmad</a><a>
+	
+
 #### **The Hari Raya Puasa Greeting Cards Collection of Muhammad Ariff Ahmad**
 
 <img style="width:60%;" src="/images/Hari%20Raya%20Cards/hari%20raya%20greeting%20cards.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
+#### </a><a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
 During World War II, forced civilian labourers known as&nbsp;_rōmusha_&nbsp;were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
 <img style="width:100%;" src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg">
