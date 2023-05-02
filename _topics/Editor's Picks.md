@@ -9,7 +9,7 @@ The local Taoist pantheon includes goddesses only found in Singapore, such as Li
 <img style="width:100%;" src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image1.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">[https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway)Belacan: Caviar? Or Vile and Disgusting?</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting?</a>
 Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to.
 
 <img style="width:100%;" src="/images/Vol%2019%20Issue%201/Balacan/balacan_1.png">
@@ -31,11 +31,3 @@ Three large murals used to grace the walls of Paya Lebar Airport, depicting scen
 
 <img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">
 <hr>
-
-
-
-
-
-
-
-
