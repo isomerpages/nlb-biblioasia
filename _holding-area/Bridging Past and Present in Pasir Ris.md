@@ -128,6 +128,11 @@ In 2017, the HDB announced that Pasir Ris would be rejuvenated under the Remakin
 
 Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks forward to a refreshed neighbourhood when the works are completed. “I will probably not move out from Pasir Ris. I love it here as it holds the memories of my happy childhood and there are plenty of things to do here. I look forward to exploring the new recreational facilities and community spaces with my family,” she said.[^45]
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/asrina_tanuri.png">
+	<b>Asrina Tanuri</b> is a Librarian (Research) with the National Library, Singapore. She is part of the Statutory Functions and Research team and is involved in content development, and reference and research services.</div>
+
 #### **Notes**
 
 [^1]: “Saudagar Minyak Urat / Love Crazy (1959),” Singapore Film Locations Archive, 2 February 2015, https://sgfilmlocations.com/2015/02/02/saudagar-minyak-urat-love-crazy-1959/.
