@@ -71,3 +71,50 @@ The aerial photographs of Singapore offer unique insights into how the island lo
 On the whole, the Williams-Hunt collection of Southeast Asian aerial photographs has been useful in researching into land utilisation in Southeast Asia, especially with the use of GIS technology. It has also proved useful for archaeological, anthropological and environmental studies. It is a unique and remarkable collection and “represents the oldest known freely available regional aerial photographic record of South-East Asia.”.(McGregor, 1996, p. 208)
 
 ***The author would like to acknowledge the following people for their assistance with this article:*** <br>  ***Ms Azizah Sidek, Lee Kong Chian Reference Library, National Library Board; Associate Professor Robert J. Madden, Keene State College; Professor Brenda Yeoh, National University of Singapore; Ms Yvonne Chan, National Archives of Singapore; Ms Hayati bte Abdul, Central Library, National University of Singapore; Lim Ah Eng, Aodhfionn Quinn, Tony Lim Buck Chye, Malena Abdul Manaf &amp; Rahmah Abdullah Bamadhaj, National Library Board for their assistance in interpreting the aerial photographs on Singapore; Dr Elizabeth Moore, School of Oriental and African Studies, University of London, for providing information and images readily***.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/makeswary%20periasamy.JPG">
+<center><b>Makeswary Periasamy</b><br>Senior Librarian Professional <br>Services National Library. </center></div>
+
+#### **REFERENCES**
+
+“Aborigine Burial of Mr Williams-Hunt: Jungle Rites,” _The Times_, 15 June 1953, 5.&nbsp;
+
+Brenda Yeoh and Theresa Wong, [_Over Singapore 50 Years Ago: An Aerial View in the 1950s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12823429) (Singapore: Editions Didier Millet in association with National Archives of Singapore, 2007). (Call no. RSING 779.995957 YEO)
+
+Cultural Affairs Division, Ministry of Culture, [_Singapore 1870s–1940s in Pictures_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077981) (Singapore: Ministry of Culture, Cultural Affairs Division, 1980). (Call no. RSING 779.995957 SIN)
+
+D. McGregor et al., “Mapping the Environment in South-East Asia: The Use of Remote Sensing and Geographical Information Systems, in [_Environmental Change in SouthEast Asia: People, Politics and Sustainable Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8860855), ed. Michael J.G. Parnwell and Raymond L. Bryant (London: Routledge, 1996). (Call no. RSEA 304.20959 ENV)
+
+Elizabeth Moore, “Peter Williams-Hunt Remembered,” _Purba (Journal of Persatuan Muzium Malaysia)_ 3 (1984), 98–103.
+
+Elizabeth Moore, _Inventory of Williams-Hunt Collection of Aerial Photographs of Mainland Southeast Asia_ (London: Institute of Archaeology of the University of London, 1986)
+
+F. M. Underhill, “Obituary: Mr. P. D. R. Williams-Hunt: Devoted Worker Among Malayan Aborigines,” _The Times_, 16 June 1953, 8.
+
+“Geo-Spatial Digital Archive for the Southeast Asia,” accessed 5 February 2009, https://intriguing-history.com/geo-spatial-digital-archive-se-asia/
+
+Gretchen Liu, [_Singapore: A Pictorial History 1819–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (Singapore: Archipelago Press in association with the National Heritage Board, 1999). (Call no. RSING 959.57 LIU)
+
+Ian Lloyd and Irene Hoe, [_Singapore From the Air_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079990) (Singapore: Times Editions, 1985). (Call no. RSING 779.995957 LLO)
+
+John Bradford, “Peter WilliamsHunt: 1918–1953,” _Man_ 53 (November 1953), 175–76. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+“Mr P. D. R. Williams-Hunt,” _The Times_, 13 June 1953, 8.
+
+“Mr Williams-Hunt Memorial,” _The Times_, 12 October 1953, 7.
+
+Surat Lertlum and EliZabeth Moore, “WilliamsHunt Aerial Photograph Collection,” accessed 2 February 2009, http://www-archive.cseas.kyoto-u.ac.jp/www/2016/wp-content/uploads/2013/02/Williams-Hunt\_collection.pdf.
+
+“[The “Tuan Jangot” Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” _Straits Times_, 13 June 1953, 1. (From NewspaperSG)
+
+&nbsp;“[The Sakais Weep](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530615-1.2.17),” _Straits Times_, 15 June 1953, 1. (From NewspaperSG)
+
+William Fagg, “Obituary: Mr. P. D. R. Williams-Hunt: Devoted Worker Among Malayan Aborigines,” _The Times_, 16 June 1953, 8.
+
+
+
+
+
