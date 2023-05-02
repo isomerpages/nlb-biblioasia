@@ -67,6 +67,9 @@ The Raffles Museum gained an international reputation in the decades that follow
 
 In 1924, the museum underwent upgrading works, and the whale exhibit, which had been in the public gallery, was temporarily removed. Museum staff took the opportunity to refurbish and bleach the specimen before it was shifted to a new location. Now hanging from the ceiling right above the museum’s staircase on the second storey, the whale skeleton would remain at this spot for half a century, until the early 1970s.[^17]
 
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image4.png)
+<div style="background-color: white;">Workers at the National Museum dismantling the blue whale skeleton in preparation for its transfer to the National Museum of Malaysia as a gift, 1974. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
 By 1948, a quarter of a million people had visited the Raffles Museum annually. It was slowly but surely emerging as a “historical landmark” far greater than the sum of its individual collections. “[T]he importance of [the] Raffles Museum stands out clearly when Singapore is the centre of a region which is, ethnologically and zoologically, one of the most intriguing in the world”, wrote the *Singapore Free Press* in 1960.[^18]
 
 After Singapore achieved internal self-government in 1959, the government saw the opportunity to mobilise the Raffles Museum to serve the island’s broader nation-building vision. Hence, in 1960, the existing institution was renamed the National Museum. While it inherited all the collections belonging to the old Raffles Museum, including the natural history exhibits, the new National Museum’s focus was instead on Singapore’s heritage and culture.[^19]
