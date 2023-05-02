@@ -2,6 +2,7 @@ collections:
   apr-2009:
     output: true
     order:
+      - "A View from the Top: Williams Hunt Aerial Photograph Collection.md"
       - Singapore Town Club Collection.md
       - "Knowledge Economy: Linchpin of Asean Integration.md"
       - Director Column.md
