@@ -17,9 +17,6 @@ In the film, actor Aziz Sattar sings this song – whose title roughly translate
 
 Produced by the Shaw Brothers’ Malay Film Productions, this particular scene was shot on the grounds of a beachside hotel in Pasir Ris.[^1] The now largely forgotten Pasir Ris Hotel on Elias Road was owned by well-known hotelier Ho Meng Quee. Before he took over the place in the 1950s, the building had been the beachfront holiday residence of wealthy Jewish entrepreneur Joseph Aaron Elias, who was also a Justice of the Peace (he and his brother Ezra Aaron Elias gave Elias Road its name).[^2]
 
-![Pasir_Ris_hotel](/images/Vol%2019%20Issue%202/Pasir%20Ris/pasir%20ris%20hotel%203.jpg)
-<div style="background-color: white;">Pasir Ris Hotel had its own swimming <i>pagar</i>, 1957–59. The building was formerly wealthy Jewish entrepreneur Joseph Aaron Elias’ beachfront holiday bungalow before it was redeveloped in 1952. <i>RAF Seletar Association Collection, courtesy of National Archives of Singapore.</i></div>
-
 It is not surprising that the producers of this lightweight comedy would have chosen Pasir Ris to capture a laidback beach vibe. For much of Singapore’s postwar years, the white sands of Pasir Ris drew city folk looking for a quiet, peaceful respite. At one time, Pasir Ris boasted two seaside resorts and even had a museum of corals and seashells. Its remote location added to its allure, in the way that holidaymakers today seek out beach holidays in Bintan, Tioman and Phuket.
 
 These days, Pasir Ris is no longer quite as quiet and remote. Over 100,000 people live in bustling Pasir Ris town, which is well connected to the rest of Singapore thanks to the MRT (it is a speedy 33-minute train ride from City Hall MRT station). Downtown East, which styles itself as a premier lifestyle, recreational and entertainment hub, draws large crowds on weekends and school holidays. And although it still boasts sandy beaches, if you mention “white sands”, you are more likely to be directed to the six-storey shopping mall next to Pasir Ris MRT station.
@@ -47,6 +44,9 @@ Interestingly, Pasir Ris was used as a film location very early on. In 1913, Fre
 Pasir Ris was known for its recreational amenities that attracted local holidaymakers and tourists. Pasir Ris Hotel, the location for the song “Bila Mama Pakai Celana” was a pioneer in beachfront development in Pasir Ris.[^10]
 
 A _Straits Times_ advertisement on 16 May 1952 described the hotel as “Singapore’s Premier Pleasure Resort” that offered “the clearest, beautiful, palm-fringed beaches, swimming, boating and lawn tennis”. Officially opened on 17 May, the hotel comprised 35 fully furnished rooms fitted with modern sanitation, and provided amenities such as a dance hall, tennis courts and an enclosed swimming _pagar_ (fenced-in pool; _pagar_ means “fence” in Malay).[^11]
+
+![Pasir_Ris_hotel](/images/Vol%2019%20Issue%202/Pasir%20Ris/pasir%20ris%20hotel%203.jpg)
+<div style="background-color: white;">Pasir Ris Hotel had its own swimming <i>pagar</i>, 1957–59. The building was formerly wealthy Jewish entrepreneur Joseph Aaron Elias’ beachfront holiday bungalow before it was redeveloped in 1952. <i>RAF Seletar Association Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, seven years later, the hotel was converted into a transit accommodation for the personnel of the British Royal Air Force and their families. Although the hotel subsequently reopened to the public in 1966, it never regained its former glory and struggled to attract guests.[^12]
 
