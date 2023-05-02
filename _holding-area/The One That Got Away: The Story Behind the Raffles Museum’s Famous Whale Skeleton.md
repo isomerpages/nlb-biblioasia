@@ -9,8 +9,8 @@ description: The skeleton of a blue whale took pride of place at the former
 #### The skeleton of a blue whale took pride of place at the former Raffles Museum for more than 60 years before it was gifted to the National Museum of Malaysia in 1974.
 By Nathaniel Soon
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image1.png)
-<div style="background-color: white;">Following its establishment in Singapore, Philips recorded local band The Crescendos, whose first record in 1963, <i>Mr Twister</i>, was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image1.png)
+<div style="background-color: white;">The skeleton of the blue whale hanging from the ceiling of the Raffles Museum’s natural history room. <i>Image reproduced from R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: The Straits Times Press, Limited, 1908), Plate VII. (From BookSG).</i></div>
 
 Step into the Lee Kong Chian Natural History Museum and one of the first things that will catch your eye is a 10.6-metre-long skeleton of an adult female sperm whale, *Physeter macrocephalus* (Linnaeus, 1758), taking centre stage at the museum’s gallery.
 
