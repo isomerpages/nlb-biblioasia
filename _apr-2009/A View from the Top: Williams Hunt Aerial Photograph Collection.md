@@ -20,6 +20,9 @@ This article is a brief introduction to the aerial photographs that Williams-Hun
 
 Many of the photographs in the Williams-Hunt collection were taken by the Allied Photographic Interpretation Service (A.P.I.S.). (Lertlum &amp; Moore, \[198–?\], p. 3) It was a unit within the Royal Air Force that specialised in gathering photographic intelligence. A few of the photographs were taken by Williams-Hunt himself, who also had an avid interest in archaeology and anthropology.
 
+<img src="/images/Vol%205%20Issue%201/WilliamsHunt/sembawang%20airfield.jpg" style="width:80%;">
+ <div style="background-color: white;">View of the Royal Air Force Sembawang Airfield. <i>Copyright Williams-Hunt Collection, SOAS.</i></div>
+
 Before his untimely death in 1953, Williams-Hunt had passed his aerial photographs collection to his colleague and friend, John Bradford in 1951. The collection was housed at the Pitt Rivers Museum. The Museum subsequently passed the collection over to the University of London, where the photographs were scanned to create negatives. Currently, these photographs are held at the University’s School of Oriental and African Studies (SOAS). (Lertlum &amp; Moore, \[198–?\], p. 1–2)
 
 Dr Elizabeth Moore from SOAS found out about the collection when she was researching for her doctoral thesis on Northeast Thailand. Previously unorganised and without any explanatory data, Dr Moore helped to organise the photographs by the various major locations in Southeast Asia and came up with a database to identify and inventorise the photographs. (Lertlum &amp; Moore, \[198–?\], p. 1)
@@ -27,6 +30,9 @@ Dr Elizabeth Moore from SOAS found out about the collection when she was researc
 The Center for Southeast Asia Studies (CSEAS) at the University of Kyoto has digitised the whole collection, making it accessible via a digital archive. (Lertlum &amp; Moore, \[198–?\], p. 3). The digital archive, known as the “Geo-spatial Digital Archive for the Southeast Asia” is a collaborative effort between CSEAS, SOAS, the Chulachomklao Royal Military Academy (CRMA) and the Inter-University Network of Thailand (UniNet). Such efforts in inventorying and digitising have facilitated access to the rich trove of information available within these images.
 
 #### **Williams-Hunt, 1919–1953**
+
+<img src="/images/Vol%205%20Issue%201/WilliamsHunt/williamshunt.jpg" style="width:50%;">
+ <div style="background-color: white;">P. D. R. Williams-Hunt. <i>Reproduced with permission. Copyright Williams-Hunt Collection, SOAS.</i></div>
 
 Williams-Hunt was born in Caversham, Berkshire on 2 July 1919 as Peter Darrell WilliamsHunt. He was interested in archaeology from a young age. While in his teens, he joined the Berkshire Archaeological Society and was actively involved in their fieldwork activities. By 1940, his name on the Society’s membership list was indicated as “P.D. Rider Williams-Hunt, Royal Fusiliers, Hounslow”. (Moore, 1984, p. 98–99). John Bradford notes that “Peter Williams-Hunt, F.S.A., F.R.A.I., A.M.A.” was “self-trained in observation and recording” and his early experience with field archaeology in Berkshire proved useful when he was in Southeast Asia after the Second World War. (Bradford, 1953, p. 175). For his obituary, F. M. Underhill wrote that Williams-Hunt was admired for his “acute powers of observation as an archaeologist.” (Underhill, 1953, p. 8)
 
@@ -113,8 +119,3 @@ Surat Lertlum and EliZabeth Moore, “WilliamsHunt Aerial Photograph Collection,
 &nbsp;“[The Sakais Weep](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530615-1.2.17),” _Straits Times_, 15 June 1953, 1. (From NewspaperSG)
 
 William Fagg, “Obituary: Mr. P. D. R. Williams-Hunt: Devoted Worker Among Malayan Aborigines,” _The Times_, 16 June 1953, 8.
-
-
-
-
-
