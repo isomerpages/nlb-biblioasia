@@ -111,6 +111,9 @@ The Lee Kong Chian Natural History Museum opened its doors on 18 April 2015. How
 
 The new museum was clearly still missing something: Jubi Lee’s debut in local waters a few months later could not have been more serendipitous. 
 
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image7.png)
+<div style="background-color: white;">The skeleton of Jubi Lee at the Lee Kong Chian Natural History Museum, 2016. The 10.6-metre-long skeleton is exhibited in a diving pose with her skull just a metre off the ground. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
+
 “Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.[^34] A fitting ending to a whale of a story.
 
 <div style="background-color: white;">
