@@ -116,9 +116,10 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 “Jubi Lee is even better than the whale we gave away because it was found in our waters, because it belongs to a species seldom found in our waters, and because the skeleton is in perfect order,” said Ambassador-at-Large Tommy Koh.[^34] A fitting ending to a whale of a story.
 
+
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/ross_laird.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
 	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
 	
 #### **NOTES**
