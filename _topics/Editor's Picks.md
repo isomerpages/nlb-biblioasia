@@ -9,7 +9,7 @@ The local Taoist pantheon includes goddesses only found in Singapore, such as Li
 <img style="width:100%;" src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image1.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting?</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">[https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway)Belacan: Caviar? Or Vile and Disgusting?</a>
 Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to.
 
 <img style="width:100%;" src="/images/Vol%2019%20Issue%201/Balacan/balacan_1.png">
@@ -20,40 +20,22 @@ Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes
 <img src="/images/Hari%20Raya%20Cards/hari%20raya%20greeting%20cards.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="//vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway">My Grandfather Was a Rōmusha</a>
+During World War II, forced civilian labourers known as&nbsp;_rōmusha_&nbsp;were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
-
-
-
-
-
-
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith">Building Faith: Wartime Churches in Syonan-to</a>
-Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
-
-<img style="width:100%;" src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg">
+<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">The Final Hours of the Empress of Asia</a>
-The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals">The Forgotten Murals of Paya Lebar Airport</a>
+Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia.&nbsp;Dahlia Shamsuddin&nbsp;has the inside story of how they came to be.
 
-<img style="width:100%;" src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
+<img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery</a>
-Remembering those who died while fighting the Japanese during World War II.
 
-<img style="width:100%;" src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
-<hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/beastly-business">A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore</a>
-The 1933 Report of the Wild Animals and Wild Birds Committee represents a failed attempt to regulate the buying and selling of wildlife in pre-war Singapore, says Fiona Tan.
 
-<img style="width:100%;" src="/images/Vol-17-issue-1/beastly/manintrishaw.jpg">
-<hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/nature">Nature Conservation in Singapore</a>
-Balancing biodiversity conservation with urban development is a hot-button issue in land-scarce Singapore. Ang Seow Leng examines how this process has played out over the last 200 years.
 
-<img style="width:100%;" src="/images/Vol-17-issue-1/nature/pangolin.jpg">
-<hr>
+
+
