@@ -19,7 +19,7 @@ Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes
 
 These days, sending festive greetings to friends and family is only a click away on our phones. However, a physical card conveys so much more. Librarian Toffa Abdul Wahed&nbsp;gives us a peek at a unique collection of greeting cards collected by one of Singapore’s literary giants.
 
-<img style="width:60%;" src="/images/Hari%20Raya%20Cards/hari%20raya%20greeting%20cards.jpg">
+<img style="width:60%;" src="/images/Hari%20Raya%20Cards/card_hari%20raya.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
