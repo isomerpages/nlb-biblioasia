@@ -35,7 +35,7 @@ Pasir Ris was once a low-lying and undeveloped area.[^5] Maps from the 1950s to 
 Apart from rubber tapping and fishing as their livelihoods, the Malay villagers also produced _belacan_ (fermented shrimp paste) made from _udang geragau_ (small shrimps) caught at Sungei Api Api and Sungei Tampines during high tide. Kampong Tampines, located on Jalan Guan Choon and Tampines Road, was a popular filming location in the 1950s and 1960s for Malay films such as _Hantu Jerangkong_ (_The Skeleton Ghost_), _Antara Dua Darjat_ (_Between Two Classes_) and _Batu Belah Batu Bertangkup_ (_The Devouring Rock_).[^7]
 
 ![](/images/Vol%2019%20Issue%202/Pasir%20Ris/flats%20pasir%20ris%20drive%206.jpg)
-<div style="background-color: white;">Housing and Development Board flats along Sungei Api Api, 2023. Before the development of Pasir Ris, kampongs &nbsp;were once found by the banks of the river. <i>Photo by Asrina Tanuri.</i></div>
+<div style="background-color: white;">Housing and Development Board flats along Sungei Tampines, 2023. Before the development of Pasir Ris, kampongs &nbsp;were once found by the banks of the river. <i>Photo by Asrina Tanuri.</i></div>
 
 Interestingly, Pasir Ris was used as a film location very early on. In 1913, French filmmaker Gaston Méliès shot _The Poisoned Darts_ in the area. An advertisement that ran in _Moving Picture World_ magazine proudly proclaimed that it was “produced in the jungles of Passir Riz \[Pasir Ris\], a suburb of Singapore, Strait Settlements, Asia, employing natives in many of the roles”.[^8] Author and film director Raphaël Millet, who directed a documentary on Méliès, noted that based on the surviving footage of this film, the actors were most likely inhabitants of Malay villages in Pasir Ris.[^9]
 
