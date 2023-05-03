@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2023:
     output: true
     order:
+      - Bridging Past and Present in Pasir Ris.md
       - "Local Music Reaches a Crescendo: The Singapore Record Industry in the
         1960s.md"
       - "Saving a Landmark But Losing a Community: Golden Mile Complex.md"
