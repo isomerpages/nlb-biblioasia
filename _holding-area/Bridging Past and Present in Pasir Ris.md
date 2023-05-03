@@ -34,6 +34,9 @@ Pasir Ris was once a low-lying and undeveloped area.[^5] Maps from the 1950s to 
 
 Apart from rubber tapping and fishing as their livelihoods, the Malay villagers also produced _belacan_ (fermented shrimp paste) made from _udang geragau_ (small shrimps) caught at Sungei Api Api and Sungei Tampines during high tide. Kampong Tampines, located on Jalan Guan Choon and Tampines Road, was a popular filming location in the 1950s and 1960s for Malay films such as _Hantu Jerangkong_ (_The Skeleton Ghost_), _Antara Dua Darjat_ (_Between Two Classes_) and _Batu Belah Batu Bertangkup_ (_The Devouring Rock_).[^7]
 
+![](/images/Vol%2019%20Issue%202/Pasir%20Ris/flats%20pasir%20ris%20drive%206.jpg)
+<div style="background-color: white;">Housing and Development Board flats along Sungei Api Api, 2023. Before the development of Pasir Ris, kampongs &nbsp;were once found by the banks of the river. <i>Photo by Asrina Tanuri.</i></div>
+
 Interestingly, Pasir Ris was used as a film location very early on. In 1913, French filmmaker Gaston Méliès shot _The Poisoned Darts_ in the area. An advertisement that ran in _Moving Picture World_ magazine proudly proclaimed that it was “produced in the jungles of Passir Riz \[Pasir Ris\], a suburb of Singapore, Strait Settlements, Asia, employing natives in many of the roles”.[^8] Author and film director Raphaël Millet, who directed a documentary on Méliès, noted that based on the surviving footage of this film, the actors were most likely inhabitants of Malay villages in Pasir Ris.[^9]
 
 ![poisoneddarts](/images/Vol%2019%20Issue%202/Pasir%20Ris/the%20poisoned%20darts.jpg)
@@ -59,11 +62,14 @@ The nearby Golden Palace Holiday Resort, which opened in 1969, was another popul
 The resort wound up in 1971 after a petition by one of the directors over alleged mismanagement by the company’s chairman. In 1973, the government acquired the resort for $870,000, with plans for it to be used for fish-breeding experiments. Today, the resort’s former site forms part of Pasir Ris Park. The pond was converted into a commercial saltwater fishing pond, which opened to the public in October 1990.[^17]
 
 ![GoldenPalaceHoliday](/images/Vol%2019%20Issue%202/Pasir%20Ris/golden%20palace%20holiday.jpg)
-<div style="background-color: white;">The Golden Palace Holiday Resort at Jalan Ang Siang Kong, 1969. Its fishing and boating pond was later converted into a commercial saltwater fishing pond. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">The Golden Palace Holiday Resort at Jalan Ang Siang Kong, 1969. Its fishing and boating pond was later converted into a commercial saltwater fishing pond. <i>Lim Kheng Chye Collection, courtesy of the National Archives of Singapore.</i></div>
 
 While Pasir Ris Hotel and Golden Palace Holiday Resort targeted a more affluent clientele, the People’s Association Holiday Flats offered affordable rentals that became popular among local families. A three-storey block comprising 30 holiday flats was officially opened by then Minister for the Environment Lim Kim San on 11 November 1973.[^18]
 
 These flats were intended to serve the “average wage-earners” and provide a beach holiday “at a cost within their means”. The daily rate was $7 for a two-room unit and $10 for a three-room unit. Each flat came with a living and dining room, and kitchen facilities.[^19] Noraini Anastasi, who stayed there in 1988, recalled that “\[t\]he seaside scenery is super. My only complaint: mosquitoes. We should have brought mosquito coils but, alamak, we forgot”.[^20]
+
+![](/images/Vol%2019%20Issue%202/Pasir%20Ris/19980002747%20-%20img0060.jpg)
+<div style="background-color: white;">The People’s Association Holiday Flats offered affordable beachfront accommodation by the sea, 1973. _Ministry of Information and the Arts Collection, <i>courtesy of the National Archives of Singapore.</i></div>
 
 In addition to the holiday flats, the People’s Association built a sea sports centre to cater to water sports enthusiasts. The Pasir Ris Sea Sports Centre on Elias Road opened in August 1987 “for Singaporeans who love the sun-and-sea type of sports”. Today, the centre is known as PAssion WaVe @ Pasir Ris and offers activities such as dinghy sailing, kayaking, abseiling and sports climbing.[^21]
 
@@ -89,6 +95,9 @@ Today, the 70-hectare park – which stretches over 3.2 kilometres – provides 
 <div style="background-color: white;">Pasir Ris Park is a popular camping spot, especially on weekends and public holidays, 2023. <i>Photo by Asrina Tanuri</i></div>
 
 Nature lovers can also visit Lorong Halus Wetland, a former landfill along the eastern bank of Serangoon Reservoir. Officially opened in March 2011, the wetland protects the reservoir water from contaminants caused by landfill waste. Spanning Serangoon Reservoir is the Lorong Halus Red Bridge, a great place to catch the sunset and popular with Instagrammers.[^29]
+
+![](/images/Vol%2019%20Issue%202/Pasir%20Ris/lorong%20halus%20wetland%20(stb)%20v2.jpg)
+<div style="background-color: white;">Lorong Halus Wetland is a good spot for birdwatching. This is a former landfill turned into a wetland as part of the Public Utilities Board’s Active, Beautiful and Clean Waters Programme. <i>Courtesy of the Singapore Tourism Board.</i></div>
 
 #### **A Residential Town**
 
