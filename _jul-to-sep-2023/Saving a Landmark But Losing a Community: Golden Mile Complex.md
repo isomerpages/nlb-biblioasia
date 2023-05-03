@@ -39,11 +39,11 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 <div style="background-color: white;text-align:center">People waiting for coaches to take them across the border, mainly to different destinations in Malaysia, but also southern Thailand as well, 2022.</div><br>
 
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/a%20close%20up.jpg">
-<div style="background-color: white;text-align:center">A close-up of the Four-Faced Buddha shrine, 2022.</div><br>
+<div style="background-color: white;text-align:center">A close-up of the statue of Phra Phrom, or four-faced Brahma, 2022. In Thailand, the god is prayed to for good fortune and protection. This statue is mistakenly referred to as four-faced Buddha in Singapore.</div><br>
 
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%201.jpg"><br>
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/animal%20statues%202.jpg">
-<div style="background-color: white;text-align:center">Animal statues stand guard in front of the Four-Faced Buddha shrine, 2022.</div><br>
+<div style="background-color: white;text-align:center">Animal statues stand guard in front of the statue of Phra Phrom, 2022.</div><br>
 
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/the%20last%20tenant.jpg">
 <div style="background-color: white;text-align:center">The last tenants of Golden Mile Complex, 2022.</div>
