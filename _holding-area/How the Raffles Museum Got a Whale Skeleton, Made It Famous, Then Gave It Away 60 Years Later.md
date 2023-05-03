@@ -128,7 +128,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^1]: Audrey Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1),” *Straits Times*, 15 March 2016, 1. (From NewspaperSG)
 
-[^2]: Lim Yaohui, “[Whale of a Find in Singapore](https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore),” Straits Times, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
+[^2]: Lim Yaohui, “[Whale of a Find in Singapore](https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore),” *Straits Times*, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
 
 [^3]: Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1).” 
 
