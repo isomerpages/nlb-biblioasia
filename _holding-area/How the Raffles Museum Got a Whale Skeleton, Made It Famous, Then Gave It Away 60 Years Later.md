@@ -34,8 +34,6 @@ The whale was presumed to have washed ashore somewhere around Sebatu, about 30 k
 
 D.F.A. Hervey, the resident councillor of Melaka, presented the local *penghulu* (chieftain) with a *hadiah* (gift) in exchange for the whale remains, which Hervey decided to preserve and convey to Singapore. A *pagar* (barrier) had been constructed around the carcass to “prevent it from getting washed back into the sea while the labourers worked” to dissect and prepare the remains for transportation.[^7]
 
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image2.png)
-<div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
 
 These arrived in Singapore later that year and was acquired by the Raffles Library and Museum (now the National Museum of Singapore) on Stamford Road. While the whale skeleton would go on to become one of the museum’s most iconic exhibits, it took 15 more years for it to see the light of day.
 
@@ -52,6 +50,9 @@ One particular exhibit stole the limelight. After years spent tucked away, the e
 Fitted with steel ropes, the skeleton hung proudly from the ceiling of the newly refurbished natural history room at the Raffles Museum. Assembling and mounting it was no easy task, and Hanitsch credited the ingenuity and hard work of the museum’s chief taxidermist Valentine Knight, his assistant Percy de Fontaine and their staff for finding workarounds in the process. The specimen had a couple of missing bones, including a scapula, the “hands”, and various vertebrae and ribs.[^10]
 
 With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the Madras Museum, the Raffles Museum team took measurements and drawings of existing whale specimens and used them to model these missing bones in papier-mâché. Only then was the full skeleton made available for viewing.[^11]
+
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image2.png)
+<div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3.png)
 <div style="background-color: white;">A check of vertebral positions and accuracy of accompanying labels before moving the bones of the sperm whale to the Lee Kong Chian Natural History Museum, 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore..</i></div>
