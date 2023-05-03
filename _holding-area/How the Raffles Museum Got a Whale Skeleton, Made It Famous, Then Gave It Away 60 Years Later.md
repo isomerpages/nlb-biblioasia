@@ -55,7 +55,7 @@ With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the
 <div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3.png)
-<div style="background-color: white;">A check of vertebral positions and accuracy of accompanying labels before moving the bones of the sperm whale to the Lee Kong Chian Natural History Museum, 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore..</i></div>
+<div style="background-color: white;">A check of vertebral positions and accuracy of accompanying labels before moving the bones of the sperm whale to the Lee Kong Chian Natural History Museum, 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
 
 Because this occurred before the advent of DNA technology, it took Hanitsch and his team several years before they could accurately identify the mammal. In an earlier report, Hanitsch had originally suspected the specimen to be that of a humpback whale, or *Megaptera boops* (Van Beneden &amp; Gervais, 1880), but his subsequent morphological analyses would have been at odds with this earlier study. Further work allowed him to correctly identify the specimen as belonging to *Balaenoptera indica* (Blyth, 1859), which has since been synonymised as *B. musculus* (Linnaeus, 1758), more commonly known as the blue whale.[^12]
 
