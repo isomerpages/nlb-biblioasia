@@ -19,6 +19,9 @@ She had been found drifting off the coast of Jurong Island in July 2015. Accordi
 
 Divers from the Maritime and Port Authority of Singapore first secured the enormous specimen with ropes, before towing it carefully across the West Johor Strait to the Tuas Marine Transfer Station. There, museum scientists commenced the arduous process of examination, dissection and recovery of the whale for eventual display.[^2]
 
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image2.png)
+<div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
+
 About eight months later, on 15 March 2016, Jubi Lee (thus named because she had been found the same year that the nation was celebrating its golden jubilee) was officially introduced to the public at the museum.
 
 “As an older Singaporean, I am overjoyed by the return of a whale to our natural history museum,” declared Ambassador-at-Large Tommy Koh who was at the official launch.[^3] What Koh, who was the museum’s chairman, was alluding to was the fact that Jubi Lee’s skeleton is not the first whale skeleton to be exhibited in a museum in Singapore. Between 1907 and 1974, a 13-metre-long skeleton of a blue whale had been a popular attraction at the Raffles Museum (later renamed the National Museum).[^4]
@@ -33,7 +36,6 @@ On 25 June 1892, the *Singapore Free Press* reported that the British steamer *B
 The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the *Straits Times Weekly Issue*, the “fish of monstrous size (*ikan besar skali*)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
 
 D.F.A. Hervey, the resident councillor of Melaka, presented the local *penghulu* (chieftain) with a *hadiah* (gift) in exchange for the whale remains, which Hervey decided to preserve and convey to Singapore. A *pagar* (barrier) had been constructed around the carcass to “prevent it from getting washed back into the sea while the labourers worked” to dissect and prepare the remains for transportation.[^7]
-
 
 These arrived in Singapore later that year and was acquired by the Raffles Library and Museum (now the National Museum of Singapore) on Stamford Road. While the whale skeleton would go on to become one of the museum’s most iconic exhibits, it took 15 more years for it to see the light of day.
 
@@ -51,8 +53,6 @@ Fitted with steel ropes, the skeleton hung proudly from the ceiling of the newly
 
 With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the Madras Museum, the Raffles Museum team took measurements and drawings of existing whale specimens and used them to model these missing bones in papier-mâché. Only then was the full skeleton made available for viewing.[^11]
 
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image2.png)
-<div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3.png)
 <div style="background-color: white;">A check of vertebral positions and accuracy of accompanying labels before moving the bones of the sperm whale to the Lee Kong Chian Natural History Museum, 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
