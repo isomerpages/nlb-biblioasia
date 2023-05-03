@@ -30,7 +30,7 @@ The origin of the name Pasir Ris is unknown though. According to a study by H.T.
 Pasir Ris was once a low-lying and undeveloped area.[^5] Maps from the 1950s to 1970s show that Pasir Ris was then occupied mainly by coconut and rubber plantations, mangrove swamps and ponds, and dotted with Malay kampongs and Chinese villages. The kampongs in the area included Kampong Loyang, Kampong Pasir Ris, Kampong Elias, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar. Two waterways, Sungei Api Api and Sungei Tampines, used to flow through the area.[^6]
 
 ![map](/images/Vol%2019%20Issue%202/Pasir%20Ris/topographic%20map%202.jpg)
-<div style="background-color: white;">Detail from a 1961 topographic map showing Pasir Ris Hotel (circled in red) and the kampongs in Pasir Ris such as Kampong Loyang, Kampong Pasir Ris, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar (circled in white). <i>Singapore, 1961, TM001090, Singapore Land Authority, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Detail from a 1961 topographic map showing Pasir Ris Hotel (circled in red) and the kampongs in Pasir Ris such as Kampong Loyang, Kampong Pasir Ris, Kampong Teban, Kampong Beremban and Kampong Sungei Blukar (circled in white). <i>Singapore, 1961, TM001090, Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i></div>
 
 Apart from rubber tapping and fishing as their livelihoods, the Malay villagers also produced _belacan_ (fermented shrimp paste) made from _udang geragau_ (small shrimps) caught at Sungei Api Api and Sungei Tampines during high tide. Kampong Tampines, located on Jalan Guan Choon and Tampines Road, was a popular filming location in the 1950s and 1960s for Malay films such as _Hantu Jerangkong_ (_The Skeleton Ghost_), _Antara Dua Darjat_ (_Between Two Classes_) and _Batu Belah Batu Bertangkup_ (_The Devouring Rock_).[^7]
 
@@ -69,7 +69,7 @@ While Pasir Ris Hotel and Golden Palace Holiday Resort targeted a more affluent 
 These flats were intended to serve the “average wage-earners” and provide a beach holiday “at a cost within their means”. The daily rate was $7 for a two-room unit and $10 for a three-room unit. Each flat came with a living and dining room, and kitchen facilities.[^19] Noraini Anastasi, who stayed there in 1988, recalled that “\[t\]he seaside scenery is super. My only complaint: mosquitoes. We should have brought mosquito coils but, alamak, we forgot”.[^20]
 
 ![](/images/Vol%2019%20Issue%202/Pasir%20Ris/19980002747%20-%20img0060.jpg)
-<div style="background-color: white;">The People’s Association Holiday Flats offered affordable beachfront accommodation by the sea, 1973. _Ministry of Information and the Arts Collection, <i>courtesy of the National Archives of Singapore.</i></div>
+<div style="background-color: white;">The People’s Association Holiday Flats offered affordable beachfront accommodation by the sea, 1973. <i>Ministry of Information and the Arts Collection, courtesy of the National Archives of Singapore.</i></div>
 
 In addition to the holiday flats, the People’s Association built a sea sports centre to cater to water sports enthusiasts. The Pasir Ris Sea Sports Centre on Elias Road opened in August 1987 “for Singaporeans who love the sun-and-sea type of sports”. Today, the centre is known as PAssion WaVe @ Pasir Ris and offers activities such as dinghy sailing, kayaking, abseiling and sports climbing.[^21]
 
