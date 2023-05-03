@@ -6,7 +6,7 @@ description: The collective sale and conservation of Golden Mile Complex will
   But it also means the loss of a unique community that had developed there.
 image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 ---
-#### The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that had developed there. 
+#### The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that has developed there. 
 
 By Justin Zhuang 
 
@@ -87,7 +87,7 @@ As one shopowner explained: “Our Sunday business has been hit. Some customers 
 It did not help that migrant workers and the complex were often in the news for the wrong reasons. As part of the government’s massive crackdown on illegal migrants in March 1989, 370 suspected Thai undocumented workers at Golden Mile Complex were nabbed in a single operation.[^25]
 
 ![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/buddha%20worship%20site.jpg)
-<div style="background-color: white;">Statue of the Four-Faced Buddha outside Golden Mile Complex, 2023. <i>Photos by Jimmy Yap.</i></div>
+<div style="background-color: white;">Statue of Phra Phrom, or four-faced Brahma, outside Golden Mile Complex, 2023.&nbsp;In Thailand, the god is prayed to for good fortune and protection. This statue is mistakenly referred to as four-faced Buddha in Singapore. <i>Photos by Jimmy Yap.</i></div>
 
 #### **National Icon or National Disgrace?**
 

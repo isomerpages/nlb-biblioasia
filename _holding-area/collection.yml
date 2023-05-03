@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "The One That Got Away: The Story Behind the Raffles Museum’s Famous
-        Whale Skeleton.md"
-      - Pasir Ris.md
+      - How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Gave
+        It Away 60 Years Later.md
       - Test page.md

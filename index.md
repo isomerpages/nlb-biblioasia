@@ -26,6 +26,15 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
+      title: Bridging Past and Present in Pasir Ris
+      subtitle: Places and Buildings
+      description: Once dotted with plantations and mangrove swamps, Pasir Ris is
+        today a bustling residential town with modern facilities and amenities.
+      button: A Town in the East
+      url: /vol-19/issue-2/jul-sep-2023/history-pasir-ris/
+      image: /images/Vol 19 Issue 2/Pasir Ris/lorong halus red bridge (stb).jpg
+      alt: Image alt text
+  - infopic:
       title: The Singapore Record Industry in the 1960s
       subtitle: Film, Sound and Photography
       description: In this extract from the book <i>From Keroncong to Xinyao</i>, the
