@@ -154,7 +154,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^14]: “[Rambles in Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100217-1.2.17),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 February 1910, 4. (From NewspaperSG) 
 
-[^15]: “*[Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160215-1.2.3?),*” *Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “[Life in the Sea](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220314-1.2.13),” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
+[^15]: “[Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160215-1.2.3?),” *Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “[Life in the Sea](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220314-1.2.13),” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
 
 [^16]: Lydia Aroozoo, “[‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600924-1.2.46),” *Singapore Free Press*, 24 September 1960, 6. (NewspaperSG)
 
