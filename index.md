@@ -489,4 +489,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: Bridging Past and Present in Pasir Ris
+      subtitle: Places and Buildings
+      description: Once dotted with plantations and mangrove swamps, Pasir Ris is
+        today a bustling residential town with modern facilities and amenities.
+      button: A Town in the East
+      url: /vol-19/issue-2/jul-sep-2023/history-pasir-ris/
+      image: /images/Vol 19 Issue 2/Pasir Ris/lorong halus red bridge (stb).jpg
+      alt: Image alt text
 ---
