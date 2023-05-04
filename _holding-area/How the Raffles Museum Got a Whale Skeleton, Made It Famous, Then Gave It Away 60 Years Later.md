@@ -68,9 +68,6 @@ The Raffles Museum gained an international reputation in the decades that follow
 
 In 1924, the museum underwent upgrading works, and the whale exhibit, which had been in the public gallery, was temporarily removed. Museum staff took the opportunity to refurbish and bleach the specimen before it was shifted to a new location. Now hanging from the ceiling right above the museum’s staircase on the second storey, the whale skeleton would remain at this spot for half a century, until the early 1970s.[^17]
 
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image4.png)
-<div style="background-color: white;">Workers at the National Museum dismantling the blue whale skeleton in preparation for its transfer to the National Museum of Malaysia as a gift, 1974. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
-
 By 1948, a quarter of a million people had visited the Raffles Museum annually. It was slowly but surely emerging as a “historical landmark” far greater than the sum of its individual collections. “[T]he importance of [the] Raffles Museum stands out clearly when Singapore is the centre of a region which is, ethnologically and zoologically, one of the most intriguing in the world”, wrote the *Singapore Free Press* in 1960.[^18]
 
 After Singapore achieved internal self-government in 1959, the government saw the opportunity to mobilise the Raffles Museum to serve the island’s broader nation-building vision. Hence, in 1960, the existing institution was renamed the National Museum. While it inherited all the collections belonging to the old Raffles Museum, including the natural history exhibits, the new National Museum’s focus was instead on Singapore’s heritage and culture.[^19]
@@ -84,6 +81,9 @@ The authorities had to confront the fact that the whale, which had made the Raff
 In 1972, the Science Centre donated what remained of the natural history collection to the Department of Zoology at the University of Singapore (now the National University of Singapore; NUS), where it was named as the Zoological Reference Collection. Over the next 15 years, the specimens were moved to various locations, including a storage facility at Ayer Rajah, different departments in the university and Nanyang University, before ending up at its permanent home at the science faculty of NUS in 1987.[^22]
 
 On 6 May 1974, the *Straits Times* announced that the Science Centre would be gifting the whale skeleton to the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur. In return, the Malaysians would train Singapore’s museum staff on the “finer points of modelling and casting of exhibition specimens”. “The specimen will be one of the main exhibits at our museum and we expect it to become a main attraction,” said Syed Jamaluddin, then curator of Muzium Negara.[^23] (Presently, the whale specimen sits as the centrepiece in the Labuan Marine Museum, off Sabah, since its transfer there in 2003.[^24])
+
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image4.png)
+<div style="background-color: white;">Workers at the National Museum dismantling the blue whale skeleton in preparation for its transfer to the National Museum of Malaysia as a gift, 1974. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image5-6.png)
 <div style="background-color: white;">The blue whale skeleton that had been in Singapore for nearly a century and later gifted to the National Museum of Malaysia in 1974 is now on display at the Labuan Marine Museum, off Sabah. <i>Courtesy of Shih Hsi-Te. Images reproduced from Martyn E.Y. Low and Kate Pocklington, 200: Points in Singapore’s Natural History (Singapore: Lee Kong Chian Natural History Museum, 2019), 478–79. (From National Library, Singapore, call no. RSING 508.5957 LOW).</i></div>
