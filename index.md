@@ -498,4 +498,14 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: How a Whale Skeleton Made the Raffles Museum Famous
+      subtitle: Nature and the Environment
+      description: A blue whale skeleton took centre stage at the former Raffles
+        Museum for more than 60 years before it was gifted to the National
+        Museum of Malaysia in 1974.
+      button: A WHALE OF A STORY
+      url: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums
+      image: /images/Vol 19 Issue 2/Whale Skeleton/image1-edit.png
+      alt: Image alt text
 ---
