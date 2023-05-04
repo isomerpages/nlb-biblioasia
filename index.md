@@ -26,6 +26,16 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
+      title: The Famous Whale Skeleton At The Raffles Museum
+      subtitle: Nature and the Environment
+      description: A blue whale skeleton took centre stage at the former Raffles
+        Museum for more than 60 years before it was gifted to the National
+        Museum of Malaysia in 1974.
+      button: A WHALE OF A STORY
+      url: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums
+      image: /images/Vol 19 Issue 2/Whale Skeleton/image1-edit.png
+      alt: Image alt text
+  - infopic:
       title: Bridging Past and Present in Pasir Ris
       subtitle: Places and Buildings
       description: Once dotted with plantations and mangrove swamps, Pasir Ris is

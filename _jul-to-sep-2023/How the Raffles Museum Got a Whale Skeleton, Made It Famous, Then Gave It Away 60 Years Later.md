@@ -1,7 +1,7 @@
 ---
 title: How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Gave It
   Away 60 Years Later
-permalink: /holding-area/test6/
+permalink: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/
 description: The skeleton of a blue whale took pride of place at the former
   Raffles Museum for more than 60 years before it was gifted to the National
   Museum of Malaysia in 1974.
@@ -11,7 +11,7 @@ image: /images/Vol 19 Issue 2/Whale Skeleton/image1.png
 By Nathaniel Soon
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image1-edit.png)
-<div style="background-color: white;">The skeleton of the blue whale hanging from the ceiling of the Raffles Museum’s natural history room. <i>Image reproduced from R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: The Straits Times Press, Limited, 1908), Plate VII. (From BookSG).</i></div>
+<div style="background-color: white;">The skeleton of the blue whale hanging from the ceiling of the Raffles Museum’s natural history room. <i>Image reproduced from R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: The Straits Times Press, Limited, 1908), Plate VII. (From BookSG; accession no. B02806775B).</i></div>
 
 Step into the Lee Kong Chian Natural History Museum and one of the first things that will catch your eye is a 10.6-metre-long skeleton of an adult female sperm whale, *Physeter macrocephalus* (Linnaeus, 1758), taking centre stage at the museum’s gallery.
 
@@ -34,7 +34,7 @@ About eight months later, on 15 March 2016, Jubi Lee (thus named because she had
 On 25 June 1892, the *Singapore Free Press* reported that the British steamer *Bengkalis* had spotted “a large whale” that was “stranded on the beach near the Kesang River, nine miles to the north of Muar”.[^5]
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3b.png)
-<div style="background-color: white;">On 25 June 1892, the Singapore Free Press reported a sighting by the steamer <i>Bengkalis</i> of a large whale stranded on the beach near the Kesang River. <i>Image reproduced from The <i>Singapore Free Press</i> and Mercantile Advertiser, 25 June 1892, 2. (From NewspaperSG). Source: The Singapore Free Press and Mercantile Advertiser, 25 June 1892 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">On 25 June 1892, the <i>Singapore Free Press</i> reported a sighting by the steamer <i>Bengkalis</i> of a large whale stranded on the beach near the Kesang River. <i>Source: The Singapore Free Press and Mercantile Advertiser, 25 June 1892 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the *Straits Times Weekly Issue*, the “fish of monstrous size (*ikan besar skali*)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
 
@@ -68,10 +68,7 @@ The Raffles Museum gained an international reputation in the decades that follow
 
 In 1924, the museum underwent upgrading works, and the whale exhibit, which had been in the public gallery, was temporarily removed. Museum staff took the opportunity to refurbish and bleach the specimen before it was shifted to a new location. Now hanging from the ceiling right above the museum’s staircase on the second storey, the whale skeleton would remain at this spot for half a century, until the early 1970s.[^17]
 
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image4.png)
-<div style="background-color: white;">Workers at the National Museum dismantling the blue whale skeleton in preparation for its transfer to the National Museum of Malaysia as a gift, 1974. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
-
-By 1948, a quarter of a million people had visited the Raffles Museum annually. It was slowly but surely emerging as a “historical landmark” far greater than the sum of its individual collections. “[T]he importance of [the] Raffles Museum stands out clearly when Singapore is the centre of a region which is, ethnologically and zoologically, one of the most intriguing in the world”, wrote the *Singapore Free Press* in 1960.[^18]
+By 1948, a quarter of a million people had visited the Raffles Museum annually. It was slowly but surely emerging as a “historical landmark” far greater than the sum of its individual collections. “[T]he importance of [the] Raffles Museum stands out clearly when Singapore is the centre of a region which is, ethnologically and zoologically, one of the most intriguing in the world,” wrote the *Singapore Free Press* in 1960.[^18]
 
 After Singapore achieved internal self-government in 1959, the government saw the opportunity to mobilise the Raffles Museum to serve the island’s broader nation-building vision. Hence, in 1960, the existing institution was renamed the National Museum. While it inherited all the collections belonging to the old Raffles Museum, including the natural history exhibits, the new National Museum’s focus was instead on Singapore’s heritage and culture.[^19]
 
@@ -84,6 +81,9 @@ The authorities had to confront the fact that the whale, which had made the Raff
 In 1972, the Science Centre donated what remained of the natural history collection to the Department of Zoology at the University of Singapore (now the National University of Singapore; NUS), where it was named as the Zoological Reference Collection. Over the next 15 years, the specimens were moved to various locations, including a storage facility at Ayer Rajah, different departments in the university and Nanyang University, before ending up at its permanent home at the science faculty of NUS in 1987.[^22]
 
 On 6 May 1974, the *Straits Times* announced that the Science Centre would be gifting the whale skeleton to the National Museum of Malaysia (Muzium Negara) in Kuala Lumpur. In return, the Malaysians would train Singapore’s museum staff on the “finer points of modelling and casting of exhibition specimens”. “The specimen will be one of the main exhibits at our museum and we expect it to become a main attraction,” said Syed Jamaluddin, then curator of Muzium Negara.[^23] (Presently, the whale specimen sits as the centrepiece in the Labuan Marine Museum, off Sabah, since its transfer there in 2003.[^24])
+
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image4.png)
+<div style="background-color: white;">Workers at the National Museum dismantling the blue whale skeleton in preparation for its transfer to the National Museum of Malaysia as a gift, 1974. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image5-6.png)
 <div style="background-color: white;">The blue whale skeleton that had been in Singapore for nearly a century and later gifted to the National Museum of Malaysia in 1974 is now on display at the Labuan Marine Museum, off Sabah. <i>Courtesy of Shih Hsi-Te. Images reproduced from Martyn E.Y. Low and Kate Pocklington, 200: Points in Singapore’s Natural History (Singapore: Lee Kong Chian Natural History Museum, 2019), 478–79. (From National Library, Singapore, call no. RSING 508.5957 LOW).</i></div>
@@ -127,7 +127,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^1]: Audrey Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1),” *Straits Times*, 15 March 2016, 1. (From NewspaperSG)
 
-[^2]: Lim Yaohui, “[Whale of a Find in Singapore](https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore),” *Straits Times*, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
+[^2]: Lim Yaohui, “Whale of a Find in Singapore,” *Straits Times*, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
 
 [^3]: Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1).” 
 
@@ -135,7 +135,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^5]: “[Correspondence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18920625-1.2.3),” *Singapore Free Press and Mercantile Advertiser*, 25 June 1892, 2. (From NewspaperSG)
 
-[^6]: R. Hanitsch, [*Guide to the Zoological Collections of the Raffles Museum, Singapore*](https://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d056ddf9-9a39-4cbc-b43c-45378d70438a) (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “[Muar News](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920629-1.2.65?),” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
+[^6]: R. Hanitsch, [*Guide to the Zoological Collections of the Raffles Museum, Singapore*](https://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d056ddf9-9a39-4cbc-b43c-45378d70438a) (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG; accession no. B02806775B); “[Muar News](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920629-1.2.65?),” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
 
 [^7]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, [*Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201152734) (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
 
