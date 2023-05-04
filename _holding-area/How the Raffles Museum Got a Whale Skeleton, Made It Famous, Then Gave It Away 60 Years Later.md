@@ -135,7 +135,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^5]: “[Correspondence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18920625-1.2.3),” *Singapore Free Press and Mercantile Advertiser*, 25 June 1892, 2. (From NewspaperSG)
 
-[^6]: R. Hanitsch, [*Guide to the Zoological Collections of the Raffles Museum, Singapore*](https://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d056ddf9-9a39-4cbc-b43c-45378d70438a) (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “[Muar News](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920629-1.2.65?),” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
+[^6]: R. Hanitsch, [*Guide to the Zoological Collections of the Raffles Museum, Singapore*](https://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d056ddf9-9a39-4cbc-b43c-45378d70438a) (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG;&nbsp;accession no. B02806775B); “[Muar News](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920629-1.2.65?),” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
 
 [^7]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, [*Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201152734) (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
 
