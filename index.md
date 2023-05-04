@@ -499,7 +499,7 @@ sections:
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
   - infopic:
-      title: How a Whale Skeleton Made the Raffles Museum Famous
+      title: The Famous Whale Skeleton At The Raffles Museum
       subtitle: Nature and the Environment
       description: A blue whale skeleton took centre stage at the former Raffles
         Museum for more than 60 years before it was gifted to the National
