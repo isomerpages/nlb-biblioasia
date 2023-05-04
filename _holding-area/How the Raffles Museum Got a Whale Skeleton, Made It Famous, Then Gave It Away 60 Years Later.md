@@ -19,6 +19,12 @@ She had been found drifting off the coast of Jurong Island in July 2015. Accordi
 
 Divers from the Maritime and Port Authority of Singapore first secured the enormous specimen with ropes, before towing it carefully across the West Johor Strait to the Tuas Marine Transfer Station. There, museum scientists commenced the arduous process of examination, dissection and recovery of the whale for eventual display.[^2]
 
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image2.png)
+<div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
+
+![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3.png)
+<div style="background-color: white;">A check of vertebral positions and accuracy of accompanying labels before moving the bones of the sperm whale to the Lee Kong Chian Natural History Museum, 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
+
 About eight months later, on 15 March 2016, Jubi Lee (thus named because she had been found the same year that the nation was celebrating its golden jubilee) was officially introduced to the public at the museum.
 
 “As an older Singaporean, I am overjoyed by the return of a whale to our natural history museum,” declared Ambassador-at-Large Tommy Koh who was at the official launch.[^3] What Koh, who was the museum’s chairman, was alluding to was the fact that Jubi Lee’s skeleton is not the first whale skeleton to be exhibited in a museum in Singapore. Between 1907 and 1974, a 13-metre-long skeleton of a blue whale had been a popular attraction at the Raffles Museum (later renamed the National Museum).[^4]
@@ -28,14 +34,11 @@ About eight months later, on 15 March 2016, Jubi Lee (thus named because she had
 On 25 June 1892, the *Singapore Free Press* reported that the British steamer *Bengkalis* had spotted “a large whale” that was “stranded on the beach near the Kesang River, nine miles to the north of Muar”.[^5]
 
 ![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3b.png)
-<div style="background-color: white;">On 25 June 1892, the Singapore Free Press reported a sighting by the steamer <i>Bengkalis</i> of a large whale stranded on the beach near the Kesang River. <i>Image reproduced from The Singapore Free Press and Mercantile Advertiser, 25 June 1892, 2. (From NewspaperSG). Source: The Singapore Free Press and Mercantile Advertiser, 25 June 1892 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">On 25 June 1892, the Singapore Free Press reported a sighting by the steamer <i>Bengkalis</i> of a large whale stranded on the beach near the Kesang River. <i>Image reproduced from The <i>Singapore Free Press</i> and Mercantile Advertiser, 25 June 1892, 2. (From NewspaperSG). Source: The Singapore Free Press and Mercantile Advertiser, 25 June 1892 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The whale was presumed to have washed ashore somewhere around Sebatu, about 30 kilometres south of Melaka, eight days prior. It ultimately drew its last breath on 23 June 1892. According to the *Straits Times Weekly Issue*, the “fish of monstrous size (*ikan besar skali*)” was found to have measured 44 feet (13.4 metres) long and was “rather offensive and swollen with gases from decomposition”. The locals who encountered the specimen could not “call to mind ever having seen such a creature before”.[^6]
 
 D.F.A. Hervey, the resident councillor of Melaka, presented the local *penghulu* (chieftain) with a *hadiah* (gift) in exchange for the whale remains, which Hervey decided to preserve and convey to Singapore. A *pagar* (barrier) had been constructed around the carcass to “prevent it from getting washed back into the sea while the labourers worked” to dissect and prepare the remains for transportation.[^7]
-
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image2.png)
-<div style="background-color: white;">Removing the blubber from the carcass of the female sperm whale that was found drifting off the coast of Jurong Island in July 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore.</i></div>
 
 These arrived in Singapore later that year and was acquired by the Raffles Library and Museum (now the National Museum of Singapore) on Stamford Road. While the whale skeleton would go on to become one of the museum’s most iconic exhibits, it took 15 more years for it to see the light of day.
 
@@ -52,9 +55,6 @@ One particular exhibit stole the limelight. After years spent tucked away, the e
 Fitted with steel ropes, the skeleton hung proudly from the ceiling of the newly refurbished natural history room at the Raffles Museum. Assembling and mounting it was no easy task, and Hanitsch credited the ingenuity and hard work of the museum’s chief taxidermist Valentine Knight, his assistant Percy de Fontaine and their staff for finding workarounds in the process. The specimen had a couple of missing bones, including a scapula, the “hands”, and various vertebrae and ribs.[^10]
 
 With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the Madras Museum, the Raffles Museum team took measurements and drawings of existing whale specimens and used them to model these missing bones in papier-mâché. Only then was the full skeleton made available for viewing.[^11]
-
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image3.png)
-<div style="background-color: white;">A check of vertebral positions and accuracy of accompanying labels before moving the bones of the sperm whale to the Lee Kong Chian Natural History Museum, 2015. <i>Courtesy of Lee Kong Chian Natural History Museum, Faculty of Science, National University of Singapore..</i></div>
 
 Because this occurred before the advent of DNA technology, it took Hanitsch and his team several years before they could accurately identify the mammal. In an earlier report, Hanitsch had originally suspected the specimen to be that of a humpback whale, or *Megaptera boops* (Van Beneden &amp; Gervais, 1880), but his subsequent morphological analyses would have been at odds with this earlier study. Further work allowed him to correctly identify the specimen as belonging to *Balaenoptera indica* (Blyth, 1859), which has since been synonymised as *B. musculus* (Linnaeus, 1758), more commonly known as the blue whale.[^12]
 
@@ -127,7 +127,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^1]: Audrey Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1),” *Straits Times*, 15 March 2016, 1. (From NewspaperSG)
 
-[^2]: Lim Yaohui, “[Whale of a Find in Singapore](https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore),” Straits Times, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
+[^2]: Lim Yaohui, “[Whale of a Find in Singapore](https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore),” *Straits Times*, 16 July 2015, https://www.straitstimes.com/singapore/whale-of-a-find-in-singapore/.
 
 [^3]: Tan, “[A Whale of an Exhibit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160315-1.2.27.1).” 
 
@@ -135,7 +135,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^5]: “[Correspondence](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18920625-1.2.3),” *Singapore Free Press and Mercantile Advertiser*, 25 June 1892, 2. (From NewspaperSG)
 
-[^6]: R. Hanitsch, [*Guide to the Zoological Collections of the Raffles Museum, Singapore*](https://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d056ddf9-9a39-4cbc-b43c-45378d70438a) (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “Muar News,” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
+[^6]: R. Hanitsch, [*Guide to the Zoological Collections of the Raffles Museum, Singapore*](https://eservice.nlb.gov.sg/CMSResolver/OpenContent.aspx?uuid=d056ddf9-9a39-4cbc-b43c-45378d70438a) (Singapore: Straits Times Press, Limited, 1908), 13–14. (From BookSG); “[Muar News](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920629-1.2.65?),” *Straits Times Weekly Issue*, 29 June 1892, 9. (From NewspaperSG)
 
 [^7]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247) (Singapore: Government Printing Office, 1906), 3–4. (From National Library, Singapore, call no. RRARE 027.55957 RAF); Kelvin Y.L. Tan, [*Of Whales and Dinosaurs: The Story of Singapore’s Natural History Museum*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201152734) (Singapore: NUS Press, 2016), 48–50. (From National Library, Singapore, call no. RSING 508.0745957 TAN)
 
@@ -153,7 +153,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^14]: “[Rambles in Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19100217-1.2.17),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 17 February 1910, 4. (From NewspaperSG) 
 
-[^15]: “*[Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160215-1.2.3?),*” *Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “[Life in the Sea](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220314-1.2.13),” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
+[^15]: “[Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160215-1.2.3?),” *Singapore Free Press and Mercantile Advertiser*, 15 February 1916, 1; “[Life in the Sea](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220314-1.2.13),” *Malaya Tribune*, 14 March 1922, 4. (NewspaperSG)
 
 [^16]: Lydia Aroozoo, “[‘Redeeming’ Malayan History… Its Intriguing Work at Raffles Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600924-1.2.46),” *Singapore Free Press*, 24 September 1960, 6. (NewspaperSG)
 
@@ -181,7 +181,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^28]: Irene Hoe, “[Nostalgia Theme of Bash](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870917-1.2.35.13),” *Straits Times*, 17 September 1987, 16; K.F. Tang, “[Museum Brings Its Skeletons Out of the Closet](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871004-1.2.73.10.5.1),” *Straits Times*, 4 October 1987, 11. (From NewspaperSG)
 
-[^29]: Liu, [*One Hundred Years of the National Museum Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348), 1887–1987.
+[^29]: Liu, [*One Hundred Years of the National Museum Singapore, 1887–1987*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4425348).
 
 [^30]: Irene Hoe, “[Museum’s Past Recorded for Posterity](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871003-1.2.62.4.2),” *Straits Times*, 3 October 1987, 32. (From NewspaperSG)
 
