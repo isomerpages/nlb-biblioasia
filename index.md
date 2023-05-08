@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-10/issue-2/jul-sep-2014/nation-building-women-singapore
-      button: "A Quiet Revolution: Women and Work in Industrialising Singapore "
+      url: /vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/
+      button: "Globetrotting Mums: Then and Now "
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-10-issue-2/women/may day hero img4.jpg
+      background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
   - infopic:
       title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
       subtitle: Culture
