@@ -5,10 +5,6 @@ description: Three public bathhouses at Ellenborough Market, Canton Street and
   Clyde Terrace were built by the Municipality in the late 19th century.
 image: /images/Vol 19 Issue 1/Public Bathhouses/Trees_and_lake.png
 ---
-
-
-
-
 #### Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century.
 By Jesse O’Neill
 
@@ -22,7 +18,7 @@ As one European resident noted in the _Singapore Free Press and Mercantile Adver
 Because of the limited water supply system on the island at the time, it was common for many to bathe publicly in the open, making this a source of contention. Throwing ideas of race, hygiene and morality into the mix, the Municipality had to intervene, which only made accessing public washing places more difficult.
 
 ![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Children_in_river.png)
-<div style="background-color: white;">People bathing in a stream in a kampong, c.1905. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A postcard from the early 20th century with the caption “Singapore: Natives bathing”, c.1905. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 The imagined necessity of racial segregation while bathing exaggerated these problems of access. When it was suggested that merchant Cheang Hong Lim might extend his philanthropy by building a new public bathing place in Singapore in 1876, a reader wrote to the _Straits Observer_ that this should involve separate baths, “some for Europeans, some for Eurasians and some for Natives”.[^2]
 
@@ -31,7 +27,7 @@ Widespread racial distinction in water access and the resulting complaints of Eu
 This resulted in three public bathhouses being built by the Municipality in the 1880s. Located at Ellenborough Market, Canton Street and Clyde Terrace, these bathhouses relied on water piped in from the town’s reservoir. While these bathhouses were only in use for about a decade, they offer an interesting glimpse into a little-known slice of Singapore’s history.
 
 ![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Map_1.png)
-<div style="background-color: white;">Detail from a map showing the locations of the Ellenborough Market and Canton Street bathhouses. <i>Images reproduced from Map of Singapore Town, Shewing Building Allotments & Registered Numbers of Crown Leases, sheet 2 (Singapore: Surveyor General’s Office, 1881). (From National Library, Singapore, call no. RRARE 912.5957 MAP-[LKL]).</i></div>
+<div style="background-color: white;">Detail from a map showing the locations of the Ellenborough Market and Canton Street bathhouses. <i>Images reproduced from Map of Singapore Town, Shewing Building Allotments &amp; Registered Numbers of Crown Leases, sheet 2 (Singapore: Surveyor General’s Office, 1881). (From National Library, Singapore, call no. RRARE 912.5957 MAP-[LKL]).</i></div>
 
 #### **Regulations and Restrictions**
 
@@ -124,7 +120,7 @@ By the end of the 1880s, the profits of municipal bathhouses were diminishing; p
 In 1890, bathhouse operator Tan Beng Wan asked the commissioners why he was facing decreased revenue. The response was that more members of the “coolie class” now had piped water for washing at home.[^44] That he even asked this question suggests that Tan was not pleased about having bought into a failing endeavor, but both he and the Municipality were then facing a change in public attitude that was finally starting to accept reservoir supply and the payment of water bills. 
 
 ![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Women_2.png)
-<div style="background-color: white;">This studio image by Lambert & Co. is of three local women preparing to bathe, 1890. However, it is a heavily stylised European image of the activity. <i>Image reproduced from G.R. Lambert, Fotoalbum Singapur. (From BookSG).
+<div style="background-color: white;">This studio image by Lambert &amp; Co. is of three local women preparing to bathe, 1890. However, it is a heavily stylised European image of the activity. <i>Image reproduced from G.R. Lambert, Fotoalbum Singapur. (From BookSG).
 </i></div>
 
 The Clyde Terrace bathhouse was better utilised by the public, so Municipal Engineer James MacRitchie suggested closing the two at Ellenborough Market and Canton Street. However, the municipal commissioners preferred keeping them a while longer. The bathhouse on Canton Street would be repaired while the one at Ellenborough Market would be maintained for at least another year; it was going to be demolished when the market was rebuilt anyway.[^45] The municipal commissioners were gradually accepting that, as the _Straits Times_ reported, “in the heart of the town it was now impossible to make bathing-houses pay”.[^46]
@@ -152,8 +148,8 @@ Municipal bathhouses also brought early access to the town’s reservoir, which 
 <div style="background-color: white;">A now-defunct well in the inner courtyard of an 1860s shophouse in Tanjong Pagar, 2022. <i>Photo by Jesse O’Neill.</i></div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2019%20Issue%201/Authors/Jessie_O'Neill.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2019%20Issue%201/Authors/Jessie_O'Neill.png" style="width: 100px; height: 100px;">
 	<b>Dr Jesse O’Neill</b> is a design historian and senior lecturer at the Chelsea College of Arts, University of the Arts London. His research focuses on the materiality of modernising lifestyles in the former British colonies of Southeast Asia. He has previously written on Singapore’s postwar swimming pools, garden city planning, design promotions and colonial pavilions at the British Empire Exhibition.</div>
 	
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
