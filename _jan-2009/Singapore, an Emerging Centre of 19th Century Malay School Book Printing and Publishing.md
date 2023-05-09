@@ -86,6 +86,15 @@ In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, bu
  <div style="background-color: white;">Notes: According to the <i>Annual Report on the Administration of the Straits Settlements</i> from 1859 to 1864 there were mixed enrolments of boys and girls. Sources: ¹Buckley, 1965, p. 322;² Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.
 </div>
 
+#### **Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%204.JPG" style="width:100%;">
+ <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</div>
+ 
+#### **Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
+ <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370,  522, 640, 744.</div>
 
 
 
