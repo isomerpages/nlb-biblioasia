@@ -54,7 +54,43 @@ Rev Samuel Milton went to Singapore in October 1819 to establish a mission, and 
 
 #### **Second Phase: Missionary Printing and the Malay Classes at the Singapore Institution, 1817–1846**
 
-#### ***The LMS and the Malay Classes at the Singapore Institution, 1817–1846***
+#### ***The LMS and the Malay Classes at the Singapore Institution, 1817–1846
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
