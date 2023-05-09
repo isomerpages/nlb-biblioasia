@@ -26,5 +26,33 @@ In 1786, the East India Company took possession of Penang. From 1786 to 1805, th
 
 #### **Raffles and the Manuscript Tradition**
 
+In 1810, Raffles was appointed Agent to the Governor-General of the Malay States by Governor-General Minto in Calcutta. Subsequently, Raffles set up a base in Malacca in December the same year to prepare for the invasion of Java in 1811 (Bastin, 1969, pp. 9–10). During this period, Raffles employed Ibrahim, Tambi Ahmad bin Nina Merikan, Munshi Abdullah, his uncle Ismail Lebai and his younger brother Mohammed as copyists of Malay “letters and texts” (Hill, 1955, p. 72).
+
+#### **The Founding of Singapore in 1819: The Singapore Institution and the First Printing Presses**
+
+After Raffles founded Singapore in 1819, immigrants from Malacca, China, India and the neighbouring islands of the Netherlands East Indies flocked to the island (Saw, 1969, pp. 37–38). In 1824, the immigrant Malays made up about 43 per cent of the total population of Singapore. By 1860, the percentage dropped to about 15 per cent, as shown in Table 1. Chinese immigrants formed the largest racial group, at about 61 per cent in 1901. Malays were the largest minority race, compared with the Indians and Europeans.
+
+#### **Raffles’ Education Policies for the New Settlement**
+
+Education was recognised by Raffles as one of the first needs of his new settlement (Neilson, n.d., p. 1). In 1819, Raffles wrote the first education policy for the island:<br>
+
+1\. To educate the sons of higher order of natives and others; <br> 2. To afford the means of instruction in the native languages to such of the Company’s servants and others as may desire it;<br>  3. To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people (Raffles 1991, p. 33).
+
+Reverend Robert Morrison, the distinguished Chinese scholar and first Protestant missionary to China, then read a paper suggesting that the London Missionary Society (LMS) sponsored Anglo Chinese College (1815 –1843) (Harrison 1979, pp. xi–xii) in Malacca be removed to Singapore and amalgamated with the proposed Singapore Institution (Philips 1908, p. 269). The modified proposed Singapore Institution was to consist of three departments:<br>
+
+I. A scientific department for the common advantage of the several College that may be established.II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br>II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br>III. A literary and moral department for the Siamese, Malay, &amp; c., which will be provided for by the Malayan College (Raffles 1991, p. 75)
+
+Raffles’ accounts of his educational schemes - one dated 1819, on the establishment of the Malay College at Singapore (Raffles 1991, pp. 23–38), and one dated 1823, describing the foundation and policy of the Singapore Institution (Raffles 1991, pp. 77–86), was intended for the whole region, the Malay Peninsula, Singapore and the Indonesian Archipelago. His educational schemes therefore were designed to include not only the principal peoples of the Malay Peninsula, but also the Javanese, the Bugis, the Siamese and other people from the surrounding islands (Hough, 1933, p. 166).
+
+The second minute, dated 1823 at the meeting of the trustees, gave an account of the foundation and policy of the Singapore Institution. A proposed plan of the building drawn by Lieutenant Jackson was approved, and plans were made to purchase printing presses with “English, Malayan, and Siamese founts of types”, “and also to employ, on the account of the Institution”, a printer. LMS missionary Samuel Milton was appointed to take charge of the presses and superintend the printing. Mr John Argyle Maxwell, Secretary to the Institution, was requested to take charge of the Library and Museum of the Institution, and to act as the Librarian (Raffles, 1991, p. 83).
+
+As a collector of Malay manuscripts, Raffles would have known that he would need to translate European texts into Malay, and to convert Malay manuscripts into books for his proposed Singapore Institution. He also knew the importance of having printing presses, and would have known that the LMS missionaries brought the printing presses to Malacca to print the first Malay books as well as Chinese books (Ibrahim Ismail, 1982, pp. 193–195).
+
+#### **First Phase: First Printing in Malay in 1822**
+
+
+
+
+
 
 
