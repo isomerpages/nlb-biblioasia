@@ -62,7 +62,8 @@ According to the Annual Reports of the Singapore Institution (1834–1837) and t
 
 #### **<center>Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**</center>
 
-
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
+ <div style="background-color: white;">Crawfurd, 1839, p. 375; Newbold, 1839, p. 285; Braddell, 1861, p. 3.</div>
 
 
 
