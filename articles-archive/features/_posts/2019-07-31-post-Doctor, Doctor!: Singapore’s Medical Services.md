@@ -1,6 +1,6 @@
 ---
 title: "Doctor, Doctor!: Singapore’s Medical Services"
-permalink: /vol-15/issue-2/jul-sep-2019/medical-services
+permalink: /vol-15/issue-2/jul-sep-2019/medical-services/
 date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/singapore-medical-services/Doctor2.JPG

@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /vol-17/issue-1/apr-jun-2021/director-note
+permalink: /vol-17/issue-1/apr-jun-2021/director-note/
 date: 2021-04-01T00:00:00.000Z
 third_nav_title: Director's Note
 

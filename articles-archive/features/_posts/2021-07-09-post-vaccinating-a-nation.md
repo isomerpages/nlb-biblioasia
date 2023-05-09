@@ -1,7 +1,7 @@
 ---
 title: Vaccinating a Nation
 date: 2021-07-09
-permalink: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
+permalink: /vol-17/issue-2/jul-sep-2021/vaccinating-nation/
 image: /images/vol-17-issue-2/vaccination/Vaccination%20-%20Main2.jpg
 layout: post
 ---

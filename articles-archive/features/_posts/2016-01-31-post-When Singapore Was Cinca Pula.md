@@ -1,6 +1,6 @@
 ---
 title: When Singapore Was Cinca Pula
-permalink: /vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola
+permalink: /vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola/
 date: 2016-01-31
 layout: post
 description: ""

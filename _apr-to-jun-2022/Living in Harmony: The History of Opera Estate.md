@@ -1,6 +1,6 @@
 ---
 title: "Living in Harmony: The History of Opera Estate"
-permalink: /vol-18/issue-1/apr-to-jun-2022/history-opera-estate
+permalink: /vol-18/issue-1/apr-to-jun-2022/history-opera-estate/
 description: ""
 image: /images/Vol 18 Issue 1/Opera Estate/Jalan Bintang Tiga (2020) (orig).png
 ---

@@ -1,6 +1,6 @@
 ---
 title: Director's Column
-permalink: /vol-6/issue-1/Apr-2010/director-column/
+permalink: /vol-6/issue-1/apr-2010/director-column/
 description: ""
 ---
 &emsp;&emsp;&emsp;&emsp;&emsp;The eagerly awaited exhibition Rihlah – Arabs in<br>&emsp;&emsp;&emsp;&emsp;&emsp; Southeast Asia (*Rihlah means journey in Arabic*)<br>&emsp;&emsp;&emsp;&emsp;&emsp; was launched at the National Library on 10 April.

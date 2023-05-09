@@ -1,7 +1,7 @@
 ---
 title: Searching for Singapore in  Old Maps and Sea Charts
 date: 2015-04-01
-permalink: /vol-11/issue-1/apr-jun-2015/search-sg-old-map
+permalink: /vol-11/issue-1/apr-jun-2015/search-sg-old-map/
 image: /images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 title: "From the Archives: The Work of Photographer KF Wong"
-permalink: /vol-15/issue-2/jul-sep-2019/wong-ken-foo
+permalink: /vol-15/issue-2/jul-sep-2019/wong-ken-foo/
 date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/from-the-archives/Archives1.JPG

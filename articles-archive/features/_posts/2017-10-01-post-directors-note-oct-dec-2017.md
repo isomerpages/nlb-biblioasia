@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Oct - Dec 2017)
 date: 2017-10-01
-permalink: /vol-13/issue-3/oct-dec-2017/directors-note
+permalink: /vol-13/issue-3/oct-dec-2017/directors-note/
 layout: post
 ---
 “A nation’s culture resides in the hearts and in the soul of its people,” said the great Mahatma Gandhi, who led India’s nationalist movement against British colonial rule.

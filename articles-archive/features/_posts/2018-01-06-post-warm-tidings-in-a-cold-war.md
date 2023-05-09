@@ -1,7 +1,7 @@
 ---
 title: Warm Tidings in a Cold War
 date: 2018-01-06
-permalink: /vol-13/issue-4/jan-mar-2018/warmtidingsincoldwar
+permalink: /vol-13/issue-4/jan-mar-2018/warmtidingsincoldwar/
 image: /images/Vol-13-issue-4/warm-tidings-in-a-cold-war/01_warmtiding.jpg
 layout: post
 ---

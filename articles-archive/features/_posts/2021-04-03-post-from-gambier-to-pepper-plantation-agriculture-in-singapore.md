@@ -1,6 +1,6 @@
 ---
 title: "From Gambier to Pepper: Plantation Agriculture in Singapore"
-permalink: /vol-17/issue-1/apr-jun-2021/agriculture
+permalink: /vol-17/issue-1/apr-jun-2021/agriculture/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 third_nav_title: "From Gambier to Pepper: Plantation Agriculture in Singapore"

@@ -1,7 +1,7 @@
 ---
 title: Raffles Hotel & the Romance of Travel
 date: 2014-10-01
-permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history
+permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history/
 image: /images/vol-10-issue-3/raffles/cover.jpg
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Chaplin in Singapore
 date: 2017-04-02
-permalink: /vol-13/issue-1/apr-jun-2017/chaplininsingapore
+permalink: /vol-13/issue-1/apr-jun-2017/chaplininsingapore/
 image: /images/Vol-13-issue-1/chaplin-in-singapore/02_charliechaplin.jpg
 layout: post
 ---

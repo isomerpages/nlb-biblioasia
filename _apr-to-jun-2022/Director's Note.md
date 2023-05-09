@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /vol-18/issue-1/apr-to-jun-2022/directors-note
+permalink: /vol-18/issue-1/apr-to-jun-2022/directors-note/
 description: ""
 ---
 

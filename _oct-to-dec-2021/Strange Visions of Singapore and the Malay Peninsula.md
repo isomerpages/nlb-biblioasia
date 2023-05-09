@@ -1,6 +1,6 @@
 ---
 title: Strange Visions of Singapore and the Malay Peninsula
-permalink: /vol-17/issue-3/oct-dec-2021/strangevision
+permalink: /vol-17/issue-3/oct-dec-2021/strangevision/
 image: /images/vol-17-issue-3/strange-vision/Opening%20Map.jpg
 description: ""
 ---

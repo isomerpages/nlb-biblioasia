@@ -1,6 +1,6 @@
 ---
 title: "G.H. Cafe: A Dining Landmark On Battery Road"
-permalink: /vol-16/issue-2/jul-sep-2020/ghcafe
+permalink: /vol-16/issue-2/jul-sep-2020/ghcafe/
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: G.H. Cafe
 third_nav_title: "G.H. Cafe: A Dining Landmark On Battery Road"

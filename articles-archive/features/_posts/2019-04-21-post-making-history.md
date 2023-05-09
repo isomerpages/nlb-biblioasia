@@ -1,7 +1,7 @@
 ---
 title: Making History
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/making-history
+permalink: /vol-15/issue-1/apr-jun-2019/making-history/
 image: /images/Vol-15-issue-1/making-history/01_history.png
 layout: post
 ---

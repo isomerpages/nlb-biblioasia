@@ -1,6 +1,6 @@
 ---
 title: Sports
-permalink: /topics/Sports/
+permalink: /topics/sports/
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis</a>

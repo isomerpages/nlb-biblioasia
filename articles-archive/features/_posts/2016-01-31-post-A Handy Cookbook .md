@@ -1,6 +1,6 @@
 ---
 title: "A Handy Cookbook "
-permalink: /vol-11/issue-4/jan-mar-2016/my-favourite-recipes-ellice-handy
+permalink: /vol-11/issue-4/jan-mar-2016/my-favourite-recipes-ellice-handy/
 date: 2016-01-31
 layout: post
 description: ""

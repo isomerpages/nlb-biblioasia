@@ -1,6 +1,6 @@
 ---
 title: Director's Column
-permalink: /vol-8/issue-4/Jan-Mar-2013/director-column/
+permalink: /vol-8/issue-4/jan-mar-2013/director-column/
 description: ""
 ---
 **In Mr S Dhanabalan’s speech to open the exhibition at the National Library celebrating the life and work of Professor Edwin Thumboo, he dwelt on “Exile” – a poem by Professor Thumboo about migration. He mused that its poignancy “\[could\] only be appreciated by those of us who know that time in our history when our sense of a nation was an embryo.”**

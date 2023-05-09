@@ -1,7 +1,7 @@
 ---
 title: Exploring My Own Backyard
 date: 2014-10-01
-permalink: /vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories
+permalink: /vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories/
 image: /images/vol-10-issue-3/backyard/temple_trotting.jpg
 layout: post
 description: ""

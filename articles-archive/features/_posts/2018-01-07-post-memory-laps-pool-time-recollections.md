@@ -1,7 +1,7 @@
 ---
 title: "Memory Laps: Pool-time Recollections"
 date: 2018-01-07
-permalink: /vol-13/issue-4/jan-mar-2018/memory-laps
+permalink: /vol-13/issue-4/jan-mar-2018/memory-laps/
 layout: post
 ---
 #### Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use. **Jocelyn Lau** speaks to people who remember these pools.

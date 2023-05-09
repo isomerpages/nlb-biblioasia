@@ -1,7 +1,7 @@
 ---
 title: A War Crimes Trial Snapshot
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial
+permalink: /vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial/
 image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 description: ""

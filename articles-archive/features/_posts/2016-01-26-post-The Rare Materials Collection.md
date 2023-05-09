@@ -1,6 +1,6 @@
 ---
 title: The Rare Materials Collection
-permalink: /vol-11/issue-4/jan-mar-2016/rare-materials
+permalink: /vol-11/issue-4/jan-mar-2016/rare-materials/
 date: 2016-01-26
 layout: post
 description: ""

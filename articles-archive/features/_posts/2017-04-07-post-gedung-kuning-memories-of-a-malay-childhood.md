@@ -1,7 +1,7 @@
 ---
 title: "Gedung Kuning: Memories of a Malay Childhood"
 date: 2017-04-07
-permalink: /vol-13/issue-1/apr-jun-2017/gedung-kuning
+permalink: /vol-13/issue-1/apr-jun-2017/gedung-kuning/
 image: /images/Vol-13-issue-1/gedung-kuning/01a_gedungkuning.png
 layout: post
 ---

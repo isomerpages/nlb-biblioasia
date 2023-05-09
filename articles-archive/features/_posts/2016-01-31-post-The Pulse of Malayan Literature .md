@@ -1,6 +1,6 @@
 ---
 title: "The Pulse of Malayan Literature "
-permalink: /vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu
+permalink: /vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/
 date: 2016-01-31
 layout: post
 description: ""

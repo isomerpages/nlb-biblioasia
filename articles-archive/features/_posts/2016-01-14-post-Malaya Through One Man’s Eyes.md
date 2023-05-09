@@ -1,7 +1,7 @@
 ---
 title: Malaya Through One Man’s Eyes
 date: 2016-01-14
-permalink: /vol-11/issue-4/jan-mar-2016/british-malaya-swettenham
+permalink: /vol-11/issue-4/jan-mar-2016/british-malaya-swettenham/
 image: /images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg
 layout: post
 description: ""

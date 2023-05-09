@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /vol-11/issue-3/oct-dec-2015/director-note
+permalink: /vol-11/issue-3/oct-dec-2015/director-note/
 date: 2015-10-01T00:00:00.000Z
 third_nav_title: Director's Note
 ---

@@ -1,7 +1,7 @@
 ---
 title: An Expat’s Impressions of Singapore
 date: 2016-01-18
-permalink: /vol-11/issue-4/jan-mar-2016/history-singapore-buckley
+permalink: /vol-11/issue-4/jan-mar-2016/history-singapore-buckley/
 image: /images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg
 layout: post
 description: ""

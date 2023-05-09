@@ -1,6 +1,6 @@
 ---
 title: A Colonial Cookbook
-permalink: /vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey
+permalink: /vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey/
 date: 2016-01-31
 layout: post
 description: ""

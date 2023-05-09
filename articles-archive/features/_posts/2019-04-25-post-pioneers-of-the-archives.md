@@ -1,7 +1,7 @@
 ---
 title: Pioneers of the Archives
 date: 2019-04-25
-permalink: /vol-15/issue-1/apr-jun-2019/pioneers-of-archives
+permalink: /vol-15/issue-1/apr-jun-2019/pioneers-of-archives/
 image: /images/Vol-15-issue-1/pioneers-of-the-archives/01_pioneers.jpg
 layout: post
 ---

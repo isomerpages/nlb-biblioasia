@@ -1,6 +1,6 @@
 ---
 title: Nature Conservation in Singapore
-permalink: /vol-17/issue-1/apr-jun-2021/nature
+permalink: /vol-17/issue-1/apr-jun-2021/nature/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: Nature Conservation in Singapore
 third_nav_title: Nature Conservation in Singapore

@@ -1,6 +1,6 @@
 ---
 title: "Flower Power: Singapore's Orchid Diplomacy"
-permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/
 description: ""
 image: /images/Vol 18 Issue 1/Orchid Diplomacy/Sealara Nelson Mandela (credit
   NParks).png

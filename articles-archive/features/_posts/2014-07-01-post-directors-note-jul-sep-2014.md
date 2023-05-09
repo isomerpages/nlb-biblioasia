@@ -1,7 +1,7 @@
 ---
 title: Director's Note (Jul-Sep) 2014
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/director-note
+permalink: /vol-10/issue-2/jul-sep-2014/director-note/
 layout: post
 ---
 <p>1986. Singapore’s 21st birthday and the year the rousing “Count On Me Singapore” was introduced to the public. As darkness shrouded the National Stadium where the National Day Parade was underway, the beats of Chinese, Malay and Indian drums reverberated through the night sky for the performance “Unity in Rhythm”. In that magical instant, the parade came alive and a palpable excitement swept like a whirlwind through the 50,000-strong crowd. It’s hard not to use a well-worn cliché, but that was the first time I felt a tingle down my spine while watching the parade.</p>

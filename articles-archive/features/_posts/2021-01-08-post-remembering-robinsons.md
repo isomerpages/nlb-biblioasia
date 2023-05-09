@@ -1,6 +1,6 @@
 ---
 title: Remembering Robinsons
-permalink: /vol-16/issue-4/jan-mar-2021/robinsons
+permalink: /vol-16/issue-4/jan-mar-2021/robinsons/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Remembering Robinsons
 third_nav_title: Remembering Robinsons

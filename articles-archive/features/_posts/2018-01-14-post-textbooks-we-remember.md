@@ -1,7 +1,7 @@
 ---
 title: Textbooks We Remember
 date: 2018-01-14
-permalink: /vol-13/issue-4/jan-mar-2018/textbooks-we-remember
+permalink: /vol-13/issue-4/jan-mar-2018/textbooks-we-remember/
 layout: post
 ---
 #### **Shereen Tay** pores through the National Library’s collection of old primary school English textbooks, and uncovers some classics in the process.

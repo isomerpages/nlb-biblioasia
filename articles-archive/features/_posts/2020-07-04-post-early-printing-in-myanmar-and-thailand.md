@@ -1,6 +1,6 @@
 ---
 title: Early Printing in Myanmar and Thailand
-permalink: /vol-16/issue-2/jul-sep-2020/earlyprinting
+permalink: /vol-16/issue-2/jul-sep-2020/earlyprinting/
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: Early Printing in Myanmar and Thailand
 third_nav_title: Early Printing in Myanmar and Thailand

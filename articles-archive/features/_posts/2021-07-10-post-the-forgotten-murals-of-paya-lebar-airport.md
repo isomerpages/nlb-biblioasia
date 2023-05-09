@@ -1,7 +1,7 @@
 ---
 title: The Forgotten Murals of Paya Lebar Airport
 date: 2021-07-10
-permalink: /vol-17/issue-2/jul-sep-2021/murals
+permalink: /vol-17/issue-2/jul-sep-2021/murals/
 image: /images/vol-17-issue-2/murals/Mural_Main2.jpg
 layout: post
 ---

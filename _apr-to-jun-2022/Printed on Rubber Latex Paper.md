@@ -1,6 +1,6 @@
 ---
 title: Printed on Rubber Latex Paper
-permalink: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
+permalink: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper/
 description: ""
 image: /images/Vol 18 Issue 1/Rubber Latex Paper/covers_editted.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tapioca Tales
-permalink: /videos/tapioca-tales
+permalink: /videos/tapioca-tales/
 description: Can wartime food be delicious? Find out as cookbook author Lee Geok
   Boi whips up two dishes using only wartime ingredients. Coming on 14 April.
 third_nav_title: From Book to Cook

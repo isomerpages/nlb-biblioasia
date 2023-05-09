@@ -1,7 +1,7 @@
 ---
 title: "Soft Hands But Steely Hearts: Women and Their Art"
 date: 2016-10-05
-permalink: /vol-12/issue-3/oct-dec-2016/softhands-steelyheart
+permalink: /vol-12/issue-3/oct-dec-2016/softhands-steelyheart/
 image: /images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg
 layout: post
 ---

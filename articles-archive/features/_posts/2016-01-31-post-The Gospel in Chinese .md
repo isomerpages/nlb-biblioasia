@@ -1,6 +1,6 @@
 ---
 title: "The Gospel in Chinese "
-permalink: /vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff
+permalink: /vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/
 date: 2016-01-31
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Crawfurd on Southeast Asia
 date: 2016-01-26
-permalink: /vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd
+permalink: /vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd/
 image: /images/vol-11-issue-4/crawfurd-on-sea/02_crawfurd.jpg
 layout: post
 description: ""

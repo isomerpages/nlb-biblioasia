@@ -1,7 +1,7 @@
 ---
 title: "Making the Invisible Visible: Restoring the Statues of St Joseph’s
   Church on Victoria Street"
-permalink: /vol-17/issue-3/oct-dec-2021/stjosephchurch
+permalink: /vol-17/issue-3/oct-dec-2021/stjosephchurch/
 image: /images/vol-17-issue-3/st-joseph/St%20Joseph2.jpg
 description: Alvin Tan documents the painstaking process behind the restoration
   of the statues in St Joseph’s Church.

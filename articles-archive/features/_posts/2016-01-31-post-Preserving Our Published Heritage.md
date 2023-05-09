@@ -1,6 +1,6 @@
 ---
 title: Preserving Our Published Heritage
-permalink: /vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit
+permalink: /vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit/
 date: 2016-01-31
 layout: post
 description: ""

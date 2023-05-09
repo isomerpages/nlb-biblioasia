@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Jul-Sep 2015)
 date: 2015-07-01
-permalink: /vol-11/issue-2/jul-sep-2015/director-note
+permalink: /vol-11/issue-2/jul-sep-2015/director-note/
 image: /vol-11/issue-2/jul-sep-2015/sg-sport-great
 layout: post
 ---

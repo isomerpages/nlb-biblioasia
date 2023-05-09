@@ -1,6 +1,6 @@
 ---
 title: Director’s Column
-permalink: /vol-8/issue-1/May-2012/director-column/
+permalink: /vol-8/issue-1/may-2012/director-column/
 description: ""
 ---
 ####  To be human is to be creative—to write, to paint and to make music that records our thoughts and dreams. Such artistic endeavours capture the spirit of the times and places in which they were created, transmitting to succeeding generations the hopes and fears of visionaries of the past.

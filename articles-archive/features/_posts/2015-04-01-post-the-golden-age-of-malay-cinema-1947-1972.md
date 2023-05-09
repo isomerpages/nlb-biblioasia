@@ -1,7 +1,7 @@
 ---
 title: "The Golden Age of Malay  Cinema: 1947–1972"
 date: 2015-04-01
-permalink: /vol-11/issue-1/apr-jun-2015/ga-malay-cinema
+permalink: /vol-11/issue-1/apr-jun-2015/ga-malay-cinema/
 image: /images/vol-11-issue-1/malaycinema/bg3_re.jpg
 layout: post
 ---

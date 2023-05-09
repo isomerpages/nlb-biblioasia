@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Apr - Jun 2017)
 date: 2017-04-01
-permalink: /vol-13/issue-1/apr-jun-2017/directors-note
+permalink: /vol-13/issue-1/apr-jun-2017/directors-note/
 layout: post
 ---
 “Like everyone else I am what I am: an individual, unique and different… a history of dreams, desires, and of special experiences, all of which I am the sum total.”

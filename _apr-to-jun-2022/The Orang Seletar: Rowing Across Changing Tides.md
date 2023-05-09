@@ -1,6 +1,6 @@
 ---
 title: "The Orang Seletar: Rowing Across Changing Tides"
-permalink: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
+permalink: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides/
 description: ""
 image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
 ---

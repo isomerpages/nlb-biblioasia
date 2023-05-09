@@ -1,6 +1,6 @@
 ---
 title: "The Itinerario: The Key to the East"
-permalink: /vol-5/issue-4/Jan-2010/East-Itinenario-Key/
+permalink: /vol-5/issue-4/jan-2010/east-itinenario-key/
 description: Senior Librarian Bonny Tan explores Itinerario, a book by Dutchman
   Jan Huygen van Linschoten that opened the secret passageway to the east for
   the Dutch and English.

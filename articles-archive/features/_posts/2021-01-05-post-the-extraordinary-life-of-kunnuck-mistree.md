@@ -1,6 +1,6 @@
 ---
 title: The Extraordinary Life of Kunnuck Mistree
-permalink: /vol-16/issue-4/jan-mar-2021/kunnuck
+permalink: /vol-16/issue-4/jan-mar-2021/kunnuck/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: The Extraordinary Life of Kunnuck Mistree
 third_nav_title: The Extraordinary Life of Kunnuck Mistree

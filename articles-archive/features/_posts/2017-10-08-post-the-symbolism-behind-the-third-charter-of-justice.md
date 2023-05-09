@@ -1,7 +1,7 @@
 ---
 title: The Symbolism Behind the Third Charter of Justice
 date: 2017-10-08
-permalink: /vol-13/issue-3/oct-dec-2017/third-charter-justice
+permalink: /vol-13/issue-3/oct-dec-2017/third-charter-justice/
 image: /images/Vol-13-issue-3/the-third-charter-of-justice/01a_justice.jpg
 layout: post
 ---

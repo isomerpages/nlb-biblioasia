@@ -1,6 +1,6 @@
 ---
 title: Nasi Lemak Istimewa
-permalink: /videos/nasi-lemak
+permalink: /videos/nasi-lemak/
 description: "Is it heresy to make nasi lemak with bay leaves instead of pandan?
   Join librarian Toffa Abdul Wahed on 21 April to find out. "
 third_nav_title: From Book to Cook

@@ -1,6 +1,6 @@
 ---
 title: "The Nature of Poetry: An Odyssey Across Time"
-permalink: /vol-17/issue-1/apr-jun-2021/poetry
+permalink: /vol-17/issue-1/apr-jun-2021/poetry/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "The Nature of Poetry: An Odyssey Across Time"
 third_nav_title: "The Nature of Poetry: An Odyssey Across Time"

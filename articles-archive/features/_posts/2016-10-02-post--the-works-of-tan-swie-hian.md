@@ -1,7 +1,7 @@
 ---
 title: "悲悯人生: 陈瑞献的文艺创作 (The Works of Tan Swie Hian)"
 date: 2016-10-02
-permalink: /vol-12/issue-3/oct-dec-2016/tansiewhian-painting
+permalink: /vol-12/issue-3/oct-dec-2016/tansiewhian-painting/
 image: /images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Singapore’s First School
 date: 2016-01-18
-permalink: /vol-11/issue-4/jan-mar-2016/singapore-institution-school-stamford-raffles
+permalink: /vol-11/issue-4/jan-mar-2016/singapore-institution-school-stamford-raffles/
 image: /images/vol-11-issue-4/singapore-first-school/01_firstschool.jpg
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Unravelling the Mystery of Ubin's German Girl Shrine
-permalink: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine
+permalink: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/
 image: /images/vol-17-issue-3/ubin-shrine/Cover.jpg
 description: What is the truth behind the German girl shrine on Pulau Ubin?
   William L. Gibson investigates the history of Pulau Ubin to uncover the origin

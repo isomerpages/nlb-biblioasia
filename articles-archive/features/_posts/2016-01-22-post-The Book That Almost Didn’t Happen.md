@@ -1,7 +1,7 @@
 ---
 title: The Book That Almost Didn’t Happen
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor
+permalink: /vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor/
 image: /images/vol-11-issue-4/book-that-almost-didnt-happen/01_bookdidnthappen.jpg
 layout: post
 description: ""

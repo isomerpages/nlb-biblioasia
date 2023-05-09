@@ -1,6 +1,6 @@
 ---
 title: Stories From the Stacks
-permalink: /vol-16/issue-4/jan-mar-2021/stacks
+permalink: /vol-16/issue-4/jan-mar-2021/stacks/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Stories From the Stacks
 third_nav_title: Stories From the Stacks

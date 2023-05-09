@@ -1,6 +1,6 @@
 ---
 title: A History of The Padang
-permalink: /vol-18/issue-1/apr-to-jun-2022/history-padang
+permalink: /vol-18/issue-1/apr-to-jun-2022/history-padang/
 description: ""
 image: /images/Vol 18 Issue 1/The Padang/padang8.png
 ---

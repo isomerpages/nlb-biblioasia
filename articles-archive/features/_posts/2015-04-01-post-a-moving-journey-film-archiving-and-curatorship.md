@@ -1,7 +1,7 @@
 ---
 title: "A Moving Journey: Film,  Archiving and Curatorship"
 date: 2015-04-01
-permalink: /vol-11/issue-1/apr-jun-2015/moving-journey
+permalink: /vol-11/issue-1/apr-jun-2015/moving-journey/
 image: /images/vol-11-issue-1/movingjourney/OXY9173_111.jpg
 layout: post
 ---

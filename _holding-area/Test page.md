@@ -1,6 +1,6 @@
 ---
 title: Test page
-permalink: /testpage3
+permalink: /testpage3/
 description: ""
 ---
 

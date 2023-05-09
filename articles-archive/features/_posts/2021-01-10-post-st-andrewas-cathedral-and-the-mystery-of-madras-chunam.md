@@ -1,6 +1,6 @@
 ---
 title: 'St Andrew’s Cathedral and the Mystery of Madras Chunam'
-permalink: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral
+permalink: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: 'St Andrew’s Cathedral'
 third_nav_title: 'St Andrew’s Cathedral and the Mystery of Madras Chunam'

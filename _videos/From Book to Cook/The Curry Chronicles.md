@@ -1,6 +1,6 @@
 ---
 title: The Curry Chronicles
-permalink: /videos/curry-chronicles
+permalink: /videos/curry-chronicles/
 description: ""
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/devagi%20makes%20mrs%20kinseys%20rendang%202.png

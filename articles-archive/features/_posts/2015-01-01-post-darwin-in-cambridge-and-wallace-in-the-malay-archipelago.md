@@ -1,7 +1,7 @@
 ---
 title: "Darwin in Cambridge & Wallace in the Malay Archipelago "
 date: 2015-01-01
-permalink: /vol-10/issue-4/jan-march-2015/darwin-and-wallace
+permalink: /vol-10/issue-4/jan-march-2015/darwin-and-wallace/
 image: /images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg
 layout: post
 ---

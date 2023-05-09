@@ -1,7 +1,7 @@
 ---
 title: "Wartime Victuals: Surviving the Japanese Occupation"
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/wartime-victuals
+permalink: /vol-15/issue-1/apr-jun-2019/wartime-victuals/
 image: /images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg
 layout: post
 ---

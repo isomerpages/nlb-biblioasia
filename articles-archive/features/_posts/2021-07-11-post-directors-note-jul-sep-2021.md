@@ -1,7 +1,7 @@
 ---
 title: Director's Note (Jul-Sep 2021)
 date: 2021-07-11
-permalink: /vol-17/issue-2/jul-sep-2021/director-note
+permalink: /vol-17/issue-2/jul-sep-2021/director-note/
 layout: post
 ---
 I believe my first encounter with public art was at the old Plaza Singapura – “Wealth” and “Contentment”, two sculptures by local artist Ng Eng Teng. I remember being awed by the voluminous female figures soaring above me (both sculptures have since been relocated to a spot outside the University Cultural Centre). 

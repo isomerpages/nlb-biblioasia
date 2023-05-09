@@ -1,7 +1,7 @@
 ---
 title: Raffles' Political Manoeuvres
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/letter-stamford-raffles-john-tayler
+permalink: /vol-11/issue-4/jan-mar-2016/letter-stamford-raffles-john-tayler/
 image: /images/vol-11-issue-4/anglo-dutch-political/01_political.jpg
 layout: post
 description: ""

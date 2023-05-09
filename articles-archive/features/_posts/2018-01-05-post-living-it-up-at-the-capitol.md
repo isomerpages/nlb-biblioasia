@@ -1,7 +1,7 @@
 ---
 title: Living it Up at the Capitol
 date: 2018-01-05
-permalink: /vol-13/issue-4/jan-mar-2018/living-up-at-capitol
+permalink: /vol-13/issue-4/jan-mar-2018/living-up-at-capitol/
 image: /images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg
 layout: post
 ---

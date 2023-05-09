@@ -1,6 +1,6 @@
 ---
 title: In Aid of the Motherland
-permalink: /vol-11/issue-4/jan-mar-2016/tong-seok-association-charity-shantung-relief-fund
+permalink: /vol-11/issue-4/jan-mar-2016/tong-seok-association-charity-shantung-relief-fund/
 date: 2016-01-31
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Maps
-permalink: /topics/maps
+permalink: /topics/maps/
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a>

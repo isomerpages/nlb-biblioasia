@@ -1,7 +1,7 @@
 ---
 title: How Jurong Bird Park was Hatched
 date: 2021-07-02
-permalink: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
+permalink: /vol-17/issue-2/jul-sep-2021/jurong-bird-park/
 image: /images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg
 layout: post
 ---

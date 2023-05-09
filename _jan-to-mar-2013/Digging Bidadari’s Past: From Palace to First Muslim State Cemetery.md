@@ -1,6 +1,6 @@
 ---
 title: "Digging Bidadari’s Past: From Palace to First Muslim State Cemetery"
-permalink: /vol-8/issue-4/Jan-Mar-2013/muslim-bidadari-cemetery/
+permalink: /vol-8/issue-4/jan-mar-2013/muslim-bidadari-cemetery/
 description: ""
 ---
 This article is a response to a call on the dearth of literature on Muslim cemeteries especially Bidadari.[^1] Ironically, documentation on Bidadari is lacking compared to the contemporary Bukit Brown cemetery or even the older Fort Canning Cemetery. For the case of Fort Canning, most of the surviving headstones have been preserved, embedded in a wall that stands till today. In addition, tombstone rubbings of surviving headstones were made. For Bidadari, there was no systematic documentation, mapping or photography done of the cemetery that could at least remain a record for future reference and research.[^2]

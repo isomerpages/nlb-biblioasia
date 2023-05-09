@@ -1,6 +1,6 @@
 ---
 title: About the Series
-permalink: /videos/Stories-from-BiblioAsia/
+permalink: /videos/stories-from-biblioasia/
 description: In this series, we take some fascinating essays and turn them into
   compelling video stories. Comprising three documentaries and one docu-drama,
   this series brings stories of Singapore to life.

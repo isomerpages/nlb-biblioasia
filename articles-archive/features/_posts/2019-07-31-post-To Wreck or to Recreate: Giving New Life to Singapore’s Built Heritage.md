@@ -1,6 +1,6 @@
 ---
 title: "To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage"
-permalink: /vol-15/issue-2/jul-sep-2019/preservation-buildings
+permalink: /vol-15/issue-2/jul-sep-2019/preservation-buildings/
 date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG

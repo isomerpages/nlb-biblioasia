@@ -1,6 +1,6 @@
 ---
 title: The Borobudur, Mysterious Gold Plates and Singing Maps
-permalink: /vol-16/issue-3/oct-dec-2020/borobudur
+permalink: /vol-16/issue-3/oct-dec-2020/borobudur/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: The Borobudur
 image: /images/Vol-16-issue-3/borobudur/theborobudur-buddha.jpg

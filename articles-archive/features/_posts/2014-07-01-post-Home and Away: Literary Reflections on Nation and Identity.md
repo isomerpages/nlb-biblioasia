@@ -1,7 +1,7 @@
 ---
 title: "Home and Away: Literary Reflections on Nation and Identity"
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/singapore-literature-identity-history
+permalink: /vol-10/issue-2/jul-sep-2014/singapore-literature-identity-history/
 image: /images/vol-10-issue-2/homeandaway/bg.jpg
 layout: post
 description: ""

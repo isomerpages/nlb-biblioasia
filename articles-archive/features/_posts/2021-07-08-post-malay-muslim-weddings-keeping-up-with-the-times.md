@@ -1,7 +1,7 @@
 ---
 title: "Malay-Muslim Weddings: Keeping Up with the Times"
 date: 2021-07-08
-permalink: /vol-17/issue-2/jul-sep-2021/malay-weddings
+permalink: /vol-17/issue-2/jul-sep-2021/malay-weddings/
 image: /images/vol-17-issue-2/malayweddings/MalayWedding-Main.jpg
 layout: post
 ---

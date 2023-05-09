@@ -1,6 +1,6 @@
 ---
 title: Singapore Storytellers
-permalink: /videos/singapore-storytellers
+permalink: /videos/singapore-storytellers/
 description: ""
 ---
 ### From Our Collections Come Your Stories

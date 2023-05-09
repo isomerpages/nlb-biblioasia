@@ -1,7 +1,7 @@
 ---
 title: Baring Mind and Soul – Tan Swie Han
 date: 2016-10-01
-permalink: /vol-12/issue-3/oct-dec-2016/baring-mind-soul
+permalink: /vol-12/issue-3/oct-dec-2016/baring-mind-soul/
 image: /images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg
 layout: post
 ---

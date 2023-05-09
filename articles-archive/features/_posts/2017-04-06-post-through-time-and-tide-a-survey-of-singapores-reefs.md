@@ -1,7 +1,7 @@
 ---
 title: "Through Time And Tide: A Survey of Singapore’s Reefs"
 date: 2017-04-06
-permalink: /vol-13/issue-1/apr-jun-2017/through-time-and-tide
+permalink: /vol-13/issue-1/apr-jun-2017/through-time-and-tide/
 image: /images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png
 layout: post
 ---

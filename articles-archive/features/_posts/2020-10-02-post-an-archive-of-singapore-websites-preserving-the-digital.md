@@ -1,6 +1,6 @@
 ---
 title: "An Archive of Singapore Websites: Preserving the Digital"
-permalink: /vol-16/issue-3/oct-dec-2020/website
+permalink: /vol-16/issue-3/oct-dec-2020/website/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Singapore Websites
 image: /images/Vol-16-issue-3/website/preservingdigital-opening.jpg

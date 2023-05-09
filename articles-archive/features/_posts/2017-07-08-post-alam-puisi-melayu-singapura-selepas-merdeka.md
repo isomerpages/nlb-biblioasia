@@ -1,7 +1,7 @@
 ---
 title: Alam Puisi Melayu Singapura Selepas Merdeka
 date: 2017-07-08
-permalink: /vol-13/issue-2/jul-sep-2017/alam-puisi-singapura
+permalink: /vol-13/issue-2/jul-sep-2017/alam-puisi-singapura/
 image: /images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png
 layout: post
 ---

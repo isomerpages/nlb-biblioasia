@@ -1,7 +1,7 @@
 ---
 title: Women on a Mission
 date: 2018-01-04
-permalink: /vol-13/issue-4/jan-mar-2018/women-on-a-mission
+permalink: /vol-13/issue-4/jan-mar-2018/women-on-a-mission/
 image: /images/Vol-13-issue-4/women-on-a-mission/01a_womenmission.jpg
 layout: post
 ---

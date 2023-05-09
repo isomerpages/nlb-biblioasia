@@ -1,6 +1,6 @@
 ---
 title: "Director's Column "
-permalink: /vol-9/issue-3/oct-dec-2013/director-column
+permalink: /vol-9/issue-3/oct-dec-2013/director-column/
 date: 2013-10-30
 layout: post
 description: ""

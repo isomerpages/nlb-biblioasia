@@ -1,7 +1,7 @@
 ---
 title: "All Creatures Great and Small: Singapore's First Zoos"
 date: 2015-07-01
-permalink: /vol-11/issue-2/jul-sep-2015/sg-first-zoo
+permalink: /vol-11/issue-2/jul-sep-2015/sg-first-zoo/
 image: /images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg
 layout: post
 ---

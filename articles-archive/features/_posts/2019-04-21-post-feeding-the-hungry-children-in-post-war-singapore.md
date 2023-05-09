@@ -1,7 +1,7 @@
 ---
 title: "Feeding the Hungry: Children in Post-War Singapore"
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/feeding-the-hungry
+permalink: /vol-15/issue-1/apr-jun-2019/feeding-the-hungry/
 layout: post
 ---
 #### In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. **Cheryl-Ann Low** has the details. 

@@ -1,6 +1,6 @@
 ---
 title: Let There Be Light
-permalink: /vol-16/issue-4/jan-mar-2021/light
+permalink: /vol-16/issue-4/jan-mar-2021/light/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Let There Be Light
 third_nav_title: Let There Be Light

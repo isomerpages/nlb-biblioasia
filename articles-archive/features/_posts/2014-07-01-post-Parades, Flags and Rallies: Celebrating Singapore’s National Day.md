@@ -1,7 +1,7 @@
 ---
 title: "Parades, Flags and Rallies: Celebrating Singapore’s National Day"
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades
+permalink: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades/
 image: /images/vol-10-issue-2/nationalday/National_Day_Parade.jpg
 layout: post
 description: ""

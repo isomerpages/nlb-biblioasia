@@ -164,7 +164,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 **[The First Newspaper](/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper)**<br>
 *Singapore Chronicle and Commercial Register* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstNewspaper.pdf)
 
-**[A Gift of Books](/vol-11/issue-4/jan-mar-2016/gift-of-books-SG50)**<br>
+**[A Gift of Books](/vol-11/issue-4/jan-mar-2016/gift-of-books-sg50)**<br>
 The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_GiftBooks.pdf)
 
 **[Preserving Our Published Heritage](/vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit)**<br>

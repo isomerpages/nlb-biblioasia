@@ -1,6 +1,6 @@
 ---
 title: "Sumbangsih MAS: An Exhibition on Muhammad Ariff Ahmad"
-permalink: /vol-9/issue-1/Apr-Jun-2013/sumbangsih-exhibition/
+permalink: /vol-9/issue-1/apr-jun-2013/sumbangsih-exhibition/
 description: ""
 ---
 “A prominent expert and activist of the Malay language, literature and culture who never stops writing and imparting his knowledge” — This succinctly sums up Haji Muhammad Ariff Ahmad, better known by his pen name MAS. Muhammad Ariff has many pseudonyms of which MAS is most recognisable to him. MAS stands for Muhammad Ariff Singapura (Muhammad Ariff of Singapore), an apt moniker as he has become the gold standard for his contributions to the Malay language, literature and culture. His other pen names include M. Arba, P.L. Rajaudang, M. Foerida, Mas Malaya, Mas Tanjung Malim, Mas S.P.10 and Minamoria.

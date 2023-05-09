@@ -1,7 +1,7 @@
 ---
 title: My Memories of Reading
 date: 2014-04-01
-permalink: /vol-10/issue-1/apr-jun-2014/claire-tham-opinion
+permalink: /vol-10/issue-1/apr-jun-2014/claire-tham-opinion/
 image: /images/vol-10-issue-1/memory/The_Catcher_in_the_Rye.jpg
 layout: post
 description: ""

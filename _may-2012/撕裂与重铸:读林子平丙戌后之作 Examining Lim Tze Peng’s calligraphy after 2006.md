@@ -1,6 +1,6 @@
 ---
 title: 撕裂与重铸:读林子平丙戌后之作 Examining Lim Tze Peng’s calligraphy after 2006
-permalink: /vol-8/issue-1/May-2012/lee-tze-peng-calligraphy/
+permalink: /vol-8/issue-1/may-2012/lee-tze-peng-calligraphy/
 description: ""
 ---
 Singapore veteran artist and 2003 Cultural Medallion Award winner Lim Tze Peng is known for his continuous efforts to surpass his own achievements and his open-mindedness in exploring new techniques and styles of painting. In August 2008, he held an exhibition titled *Inroads – Lim Tze Peng’s New Ink Work* at the Art Retreat Museum in Singapore. His works of creative imagination and skills in integrating modern and traditional techniques impressed not just local art enthusiasts but also attracted overseas attention. He was subsequently invited to exhibit his works in overseas art galleries such as the National Art Museum of China and Shanghai’s Liu Hai Su Art Museum.

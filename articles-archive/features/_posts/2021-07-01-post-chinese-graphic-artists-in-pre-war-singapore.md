@@ -1,7 +1,7 @@
 ---
 title: Chinese Graphic Artists in Pre-war Singapore
 date: 2021-07-01
-permalink: /vol-17/issue-2/jul-sep-2021/chinese-artists
+permalink: /vol-17/issue-2/jul-sep-2021/chinese-artists/
 image: /images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg
 layout: post
 ---

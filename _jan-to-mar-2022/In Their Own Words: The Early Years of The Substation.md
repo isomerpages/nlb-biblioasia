@@ -1,6 +1,6 @@
 ---
 title: "In Their Own Words: The Early Years of The Substation"
-permalink: /vol-17/issue-4/jan-to-mar-2022/early-years-substation
+permalink: /vol-17/issue-4/jan-to-mar-2022/early-years-substation/
 image: /images/vol-17-issue-4/substation/substation.png
 description: The development of the arts in Singapore is unimaginable without
   this arts centre dedicated to alternative voices. Key individuals from its

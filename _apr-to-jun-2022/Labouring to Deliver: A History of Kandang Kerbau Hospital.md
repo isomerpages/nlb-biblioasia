@@ -1,6 +1,6 @@
 ---
 title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
-permalink: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
+permalink: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/
 description: ""
 image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
 ---

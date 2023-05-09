@@ -1,6 +1,6 @@
 ---
 title: "We Are What We Eat: The Evolution of Chinese Food in Singapore"
-permalink: /vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore
+permalink: /vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/
 description: ""
 image: /images/Vol 18 Issue 1/Chinese Food/chicken rice.png
 ---

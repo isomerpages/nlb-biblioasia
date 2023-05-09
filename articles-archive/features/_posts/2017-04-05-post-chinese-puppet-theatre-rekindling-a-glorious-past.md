@@ -1,7 +1,7 @@
 ---
 title: "Chinese Puppet Theatre: Rekindling a Glorious Past"
 date: 2017-04-05
-permalink: /vol-13/issue-1/apr-jun-2017/chinesepuppettheatre
+permalink: /vol-13/issue-1/apr-jun-2017/chinesepuppettheatre/
 image: /images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png
 layout: post
 ---

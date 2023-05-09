@@ -1,6 +1,6 @@
 ---
 title: Love Is a Many-Layered Thing
-permalink: /vol-16/issue-4/jan-mar-2021/kueh-lapis
+permalink: /vol-16/issue-4/jan-mar-2021/kueh-lapis/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Love Is a Many-Layered Thing
 third_nav_title: Love Is a Many-Layered Thing

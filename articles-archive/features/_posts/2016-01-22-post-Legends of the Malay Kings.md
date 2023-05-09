@@ -1,7 +1,7 @@
 ---
 title: Legends of the Malay Kings
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals
+permalink: /vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals/
 layout: post
 description: ""
 image: /images/vol-11-issue-4/legend-of-malay-kings/03a_malaykings.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Lay of the Land:  The National Archives of Singapore’s Map Collection"
 date: 2015-01-01
-permalink: /vol-10/issue-4/jan-march-2015/map-collection
+permalink: /vol-10/issue-4/jan-march-2015/map-collection/
 image: /images/vol-10-issue-4/layoftheland/backgrounds_resss.jpg
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Jan - Mar 2016)
 date: 2016-01-01
-permalink: /vol-11/issue-4/jan-mar-2016/directors-note
+permalink: /vol-11/issue-4/jan-mar-2016/directors-note/
 layout: post
 ---
 We welcome 2016 with a new exhibition titled “From the Stacks: Highlights of the National Library”. Taking place from 30 January to 28 August at level 10 of the National Library Building, the exhibition curates over 100 unique items that many people have likely never seen before.

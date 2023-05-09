@@ -1,6 +1,6 @@
 ---
 title: Ishak Ahmad and the Story of Malayan Waters
-permalink: /vol-17/issue-1/apr-jun-2021/ishak-ahmad
+permalink: /vol-17/issue-1/apr-jun-2021/ishak-ahmad/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: Ishak Ahmad and the Story of Malayan Waters
 third_nav_title: Ishak Ahmad and the Story of Malayan Waters

@@ -1,6 +1,6 @@
 ---
 title: Some Thoughts on the Theme of Death
-permalink: /vol-8/issue-4/Jan-Mar-2013/theme-death/
+permalink: /vol-8/issue-4/jan-mar-2013/theme-death/
 description: "Family and friends have long had to bear with my vocal thoughts on
   endless scenes of wasted death on the news. My emotive views come from what I
   assumed were my limitless powers of empathy. As I have read and watched the

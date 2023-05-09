@@ -1,6 +1,6 @@
 ---
 title: Eat More Wheat!
-permalink: /videos/eat-more-wheat-campaign
+permalink: /videos/eat-more-wheat-campaign/
 description: ""
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/Christoper%20Tan%20with%20Paddy1.png

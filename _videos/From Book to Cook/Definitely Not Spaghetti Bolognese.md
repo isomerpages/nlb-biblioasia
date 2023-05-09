@@ -1,6 +1,6 @@
 ---
 title: Definitely Not Spaghetti Bolognese
-permalink: /videos/not-spaghetti-bolognese
+permalink: /videos/not-spaghetti-bolognese/
 description: ""
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png

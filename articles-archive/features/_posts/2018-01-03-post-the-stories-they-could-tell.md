@@ -1,7 +1,7 @@
 ---
 title: The Stories They Could Tell
 date: 2018-01-03
-permalink: /vol-13/issue-4/jan-mar-2018/stories-they-tell
+permalink: /vol-13/issue-4/jan-mar-2018/stories-they-tell/
 image: /images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg
 layout: post
 ---

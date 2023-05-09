@@ -1,6 +1,6 @@
 ---
 title: Hearts and Minds
-permalink: /videos/hearts-minds
+permalink: /videos/hearts-minds/
 description: A cat-and-mouse hunt between two women that will determine the fate
   of communism in Malaya. This is their story.
 third_nav_title: Stories from BiblioAsia
