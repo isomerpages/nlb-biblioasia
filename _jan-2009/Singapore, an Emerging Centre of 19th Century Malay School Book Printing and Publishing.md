@@ -75,6 +75,13 @@ The history of the spread of Malay printing in Southeast Asia in the first half 
 
 In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given.” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12)
 
+#### **Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%202.JPG" style="width:100%;">
+ <div style="background-color: white;">Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, pp. 14, 72, 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</div>
+ 
+ 
+
 
 
 
