@@ -6,7 +6,7 @@ description: The collective sale and conservation of Golden Mile Complex will
   But it also means the loss of a unique community that had developed there.
 image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 ---
-#### The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that has developed there. 
+#### The collective sale and conservation of Golden Mile Complex will eventually restore a visionary building to its former glory, but the process will also mean the loss of a unique community that has developed there.
 
 By Justin Zhuang 
 
