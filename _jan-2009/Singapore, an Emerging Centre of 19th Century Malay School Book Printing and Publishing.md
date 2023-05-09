@@ -120,12 +120,31 @@ In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements 
 #### **Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%208.JPG" style="width:100%;">
- <div style="background-color: white;">Lim, 1992, pp. 6, 10; ¹Roff, 1972, p. 21;² Penny 1888, pp. 196–199;³ Hill, 1891, pp. 102–105.</div>
+ <div style="background-color: white;">Lim, 1992, pp. 6, 10;¹ Roff, 1972, p. 21;² Penny 1888, pp. 196–199;³ Hill, 1891, pp. 102–105.</div>
  
 #### **The Establishment and Growth of Government Malay Vernacular Girls’ Schools, 1884–1900**
 
+Malay girls’ schools were only founded in 1884, as there were difficulties to overcome in the establishment of such schools (Hill, 1885, p. 150). In 1901, no more than 2 per cent of Malay girls were enrolled in Malay vernacular girls’ schools in the Straits Settlements (as shown in Table 7). The rapid expansion of Malay vernacular schools in the 19th century was mainly confined to boys’ schools.
 
+It is likely that the shortage of Malay school books resulted in the Government’s purchase of two Malay vernacular newspapers, the *Jawi Peranakan* (1876) and *Sekolah Melayu* (1895) to be used as reading materials in the Government Malay schools (Jacobson, 1889, p. 216).
 
+It was not until 1885 that Malay school book printing and publishing resumed with the setting up of the Government Malay Press. This was normally regarded as part of the Government Printing Office, and the books printed on this press bore the Government Press imprint (Proudfoot, 1993, p. 592). In 1888, the firm Kelly &amp; Walsh was appointed “to sell all books required in the schools (Penny, 1888, p. 189). By 1893, Kelly &amp; Walsh supplied books not only to the growing number of pupils and schools in the Straits Settlements, but also to those of the Malay States, Johore, Muar, Borneo and Sarawak (Hill, 1894, p. 322).
+
+In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent were produced by the Government Malay Press (as shown in Tables 9 and 10).
+
+**Table 9: List of 24 Malay School Books Used in Malay Vernacular Schools in 1894**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%209.JPG" style="width:50%;">
+ <div style="background-color: white;">¹Isemonger, 1894, p. 43;² Proudfoot, 1993.</div>
+ 
+**Table 10: 19 Out of 24 School Books Listed in 1894 Were Printed or Published by the Government Malay Press**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:100%;">
+ <div style="background-color: white;"></div>
+
+It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th century Malay school book production and distribution in the Straits Settlements.
+
+**The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper**.
 
 
 
