@@ -139,7 +139,7 @@ In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent we
  
 **Table 10: 19 Out of 24 School Books Listed in 1894 Were Printed or Published by the Government Malay Press**
 
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:100%;">
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:50%;">
  <div style="background-color: white;"></div>
 
 It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th century Malay school book production and distribution in the Straits Settlements.
