@@ -16,6 +16,15 @@ description: "Historical events suggest that Singapore emerged as a centre of
 
 #### **Identifying the Four Phases of Development**
 
+Historical events suggest that Singapore emerged as a centre of Malay school book production in the 19th century through four phases of development.
+
+Firstly, it was not accidental that the printing began in Singapore since its founding in 1819, but a conscious policy was likely to have been initiated by its founder, Sir Stamford Raffles and Dr William Morrison, the co-founder of the Anglo-Chinese College in Malacca (1818–1843).
+
+#### **Introduction: British Presence in the Malay Peninsula**
+
+In 1786, the East India Company took possession of Penang. From 1786 to 1805, the island was a dependency of Bengal, and in 1805, Penang created the 4th Indian Presidency, with a large staff of officials (Mills, 1925, pp. 18–30). In that same year, Raffles became the secretary of the Penang Presidency at the age of 24. He learnt the Malay language and soon replaced the resident and interpreter with his letter writing abilities in the Malay language (Cross, 1921, pp. 33–34).
+
+#### **Raffles and the Manuscript Tradition**
 
 
 
