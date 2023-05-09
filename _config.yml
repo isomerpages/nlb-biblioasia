@@ -47,8 +47,8 @@ safe: false
 description: BiblioAsia features the history, culture and heritage of Singapore
   within the larger Asian context. It is produced by the National Library of
   Singapore.
-staging: https://nlb-ba-staging.netlify.app
-prod: https://nlb-ba-prod.netlify.app
+staging: https://staging.d2h71wkcgbm1yt.amplifyapp.com/
+prod: https://master.d2h71wkcgbm1yt.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
