@@ -50,6 +50,7 @@ As a collector of Malay manuscripts, Raffles would have known that he would need
 
 #### **First Phase: First Printing in Malay in 1822**
 
+Rev Samuel Milton went to Singapore in October 1819 to establish a mission, and permission was given by Major Farquhar to set up a station upon his arrival (Milne 1820, p. 289). In 1821, Rev Claudius Henry Thomsen quit the LMS Malacca station to establish a Malay mission in Singapore (Medhurst ,1838, p. 315). Rev Thomsen and Munshi Abdullah “reached Singapore between the second quarter of 1821 and the middle of May, 1822” (Gibson-Hill, 1955, p. 195). Thomsen took with him a portable press and settled in Singapore (O’Sullivan, 1984, pp. 65–66). The first printing in Malay occurred in 1822 when Abdullah translated into Malay a Raffles proclamation making gambling and the opium farms illegal. The evidence is not conclusive but this was printed by the Mission Press and distributed around October 1822. The Mission Press, as it was designated, catered to the commercial and government needs of the infant settlement for eight years without a competitor (Byrd, 1970, pp. 13–14).
 
 
 
