@@ -54,44 +54,13 @@ Rev Samuel Milton went to Singapore in October 1819 to establish a mission, and 
 
 #### **Second Phase: Missionary Printing and the Malay Classes at the Singapore Institution, 1817–1846**
 
-#### ***The LMS and the Malay Classes at the Singapore Institution, 1817–1846
+#### ***The LMS and the Malay Classes at the Singapore Institution, 1817–1846***
 
+It was the LMS which first brought printing in Malay to the Straits Settlements by establishing stations in Malacca (1815–1843), Singapore (1819–1846) and Penang (1819–1844). The first printing in 1822 in Singapore was in Malay, (Byrd, 1970, p. 14) when LMS missionary Thomsen brought with him a press from Malacca the same year (O’Sullivan, 1984, pp. 65–66). In 1826, the colonies of Penang, Malacca and Singapore were amalgamated to form the Straits Settlements (Jarman, 1998, p. v.). In 1832, the seat of Government was transferred from Penang to Singapore (McKerron, 1948, p. 126)
 
+According to the Annual Reports of the Singapore Institution (1834–1837) and the Singapore Institution Free School (1838–1843), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### **<center>Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**</center>
 
 
 
