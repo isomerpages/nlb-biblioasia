@@ -64,3 +64,17 @@ According to the Annual Reports of the Singapore Institution (1834–1837) and t
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
  <div style="background-color: white;">Crawfurd, 1839, p. 375; Newbold, 1839, p. 285; Braddell, 1861, p. 3.</div>
+
+#### ***The American Board of Commissioners for Foreign Missions (ABCFM) and the Malay classes at the Singapore Institution, 1834–1842***
+
+In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, Kesah Pelayaran Abdullah (1838) (Gallop, 1990, p. 97) and Sejarah Melayu (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
+
+The history of the spread of Malay printing in Southeast Asia in the first half of the 19th century is very much the history of the Protestant activity in the region (Gallop, 1990, p. 92). In Singapore the ABCFM also contributed to the spread of Malay book printing and publishing.
+
+#### **Third Phase: Keasberry, the First Official Translator and Printer of Malay School Books, 1847–1875**
+
+In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given.” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12)
+
+
+
+
