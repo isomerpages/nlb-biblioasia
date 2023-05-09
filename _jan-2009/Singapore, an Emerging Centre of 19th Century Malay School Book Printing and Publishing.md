@@ -96,5 +96,36 @@ In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, bu
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
  <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370,  522, 640, 744.</div>
 
+In 1856, the Temmenggong of Johore and the East India Company (EIC) each contributed an annual sum of $1,500 to set up two Malay schools, one at Telok Blangah and the other at Kampong Glam, and to support Keasberry’s Malay mission school. In addition, part of the money was used to translate Malay manuscripts and publish them “to instruct Malay youth” (Jarman, 1998, p. 88). Keasberry was the first person to be officially appointed to translate and publish Malay school books for the Colony.
+
+Keasberry’s death brought an end to any extensive work in the Malay language on the peninsula for 20 years (Hunt, 1989, p. 41). In addition, the translation and production of Malay school books was interrupted, since his printing presses were sold to John Fraser and D. C. Neave in 1879 (Makepeace, 1908, p. 265). Fraser and Neave went on to publish directories, guides and company reports in English (Md Sidin Ahmad Ishak, 1992, p. 81).
+
+
+#### **Fourth Phase: The Straits Settlements Under the Colonial Office and Expansion of Malay Government Schools: The Education Department’s Government Malay Press, 1885–1899**
+
+In 1867, the Straits Settlements were transferred from the control of the Indian Government to that of the Secretary of State for the Colonies in London. In 1870, the First Governor, Sir Harry Ord, appointed a Select Committee “to enquire into the State of Education in the Colony.” Upon the recommendations of the Committee, the first Inspector of Schools was appointed in 1872 to greatly extend and improve Malay vernacular schools (Wong &amp; Gwee, 1980, p. 11).
+
+In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 per cent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
+
+#### **Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%206.JPG" style="width:100%;">
+ <div style="background-color: white;">Hill, 1892, 284–287; Elcum, 1902, 218–222; Merewether, 1892, 43; Innes 1901, 19.</div>
+ 
+#### **Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901** 
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%207.JPG" style="width:100%;">
+ <div style="background-color: white;">Hill 1892, 284–287; Elcum 1902, 218–222; Merewether 1892, 43; Innes 1901, 19.</div>
+ 
+#### **Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%208.JPG" style="width:100%;">
+ <div style="background-color: white;">Lim, 1992, pp. 6, 10; ¹Roff, 1972, p. 21;² Penny 1888, pp. 196–199;³ Hill, 1891, pp. 102–105.</div>
+ 
+#### **The Establishment and Growth of Government Malay Vernacular Girls’ Schools, 1884–1900**
+
+
+
+
 
 
