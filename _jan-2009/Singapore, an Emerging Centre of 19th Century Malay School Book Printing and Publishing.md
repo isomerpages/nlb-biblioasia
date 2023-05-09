@@ -67,7 +67,7 @@ According to the Annual Reports of the Singapore Institution (1834–1837) and t
 
 #### ***The American Board of Commissioners for Foreign Missions (ABCFM) and the Malay classes at the Singapore Institution, 1834–1842***
 
-In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, Kesah Pelayaran Abdullah (1838) (Gallop, 1990, p. 97) and Sejarah Melayu (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
+In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, *Kesah Pelayaran Abdullah* (1838) (Gallop, 1990, p. 97) and *Sejarah Melayu* (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
 
 The history of the spread of Malay printing in Southeast Asia in the first half of the 19th century is very much the history of the Protestant activity in the region (Gallop, 1990, p. 92). In Singapore the ABCFM also contributed to the spread of Malay book printing and publishing.
 
@@ -78,9 +78,13 @@ In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, bu
 #### **Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%202.JPG" style="width:100%;">
- <div style="background-color: white;">Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, pp. 14, 72, 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</div>
- 
- 
+<div style="background-color: white;">Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, pp. 14, 72, 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</div>
+
+#### **Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (Selected Years)**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%203.JPG" style="width:100%;">
+ <div style="background-color: white;">Notes: According to the <i>Annual Report on the Administration of the Straits Settlements</i> from 1859 to 1864 there were mixed enrolments of boys and girls. Sources: ¹Buckley, 1965, p. 322;² Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.
+</div>
 
 
 
