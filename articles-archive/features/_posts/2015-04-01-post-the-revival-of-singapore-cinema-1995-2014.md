@@ -1,7 +1,7 @@
 ---
 title: "The Revival of Singapore Cinema:  1995–2014"
 date: 2015-04-01
-permalink: /vol-11/issue-1/apr-jun-2015/revival-sg-cinema
+permalink: /vol-11/issue-1/apr-jun-2015/revival-sg-cinema/
 image: /images/vol-11-issue-1/revivalofsgcinema/bg4.jpg
 layout: post
 ---

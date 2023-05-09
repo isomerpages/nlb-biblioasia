@@ -1,7 +1,7 @@
 ---
 title: "Men in Blue: A History of the Singapore Police Force"
 date: 2015-10-01T00:00:00.000Z
-permalink: /vol-11/issue-3/oct-dec-2015/blue
+permalink: /vol-11/issue-3/oct-dec-2015/blue/
 breadcrumb: "Men in Blue"
 third_nav_title: "Men in Blue: A History of the Singapore Police Force"
 image: \images\Vol-11-issue-3\blue\SikhsfromPunjab.jpg

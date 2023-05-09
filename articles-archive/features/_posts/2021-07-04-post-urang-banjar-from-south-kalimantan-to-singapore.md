@@ -1,7 +1,7 @@
 ---
 title: "Urang Banjar: From South Kalimantan to Singapore"
 date: 2021-07-04
-permalink: /vol-17/issue-2/jul-sep-2021/urangbanjar
+permalink: /vol-17/issue-2/jul-sep-2021/urangbanjar/
 image: /images/vol-17-issue-2/urangbanjar/UrangBanjar_Main.jpg
 layout: post
 ---

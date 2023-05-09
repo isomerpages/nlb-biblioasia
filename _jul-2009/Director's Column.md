@@ -1,6 +1,6 @@
 ---
 title: Director's Column
-permalink: /vol-5/issue2/Jul-2009/director-column/
+permalink: /vol-5/issue2/jul-2009/director-column/
 description: ""
 ---
 Welcome to another exciting issue of BiblioAsia. In this issue, we introduce a new section “Spotlight”. The article featured provides an overview of Singapore’s education system from 1819 to 1970s by examining the various policies and papers that were published since the founding of modern Singapore. These are available for reference at the Lee Kong Chian Reference Library, National Library Singapore.

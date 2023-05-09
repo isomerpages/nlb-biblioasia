@@ -1,6 +1,6 @@
 ---
 title: "A Bite of History: Betel Chewing in Singapore"
-permalink: /vol-16/issue-3/oct-dec-2020/betel-chewing
+permalink: /vol-16/issue-3/oct-dec-2020/betel-chewing/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Betel Chewing in Singapore
 third_nav_title: "A Bite of History: Betel Chewing in Singapore"

@@ -1,7 +1,7 @@
 ---
 title: Folk Tales from Asia
 date: 2014-04-01
-permalink: /vol-10/issue-1/apr-jun-2014/folk-tales
+permalink: /vol-10/issue-1/apr-jun-2014/folk-tales/
 image: /images/vol-10-issue-1/folktales/acl_collection.jpg
 layout: post
 description: ""

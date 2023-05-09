@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /vol-17/issue-4/jan-to-mar-2022/director-note
+permalink: /vol-17/issue-4/jan-to-mar-2022/director-note/
 description: ""
 ---
 It is easy finding our way around today, even in a new place. Our phones have maps and built-in GPS so we never have to worry about getting anywhere. These maps in our pockets allow us to figuratively conquer space.

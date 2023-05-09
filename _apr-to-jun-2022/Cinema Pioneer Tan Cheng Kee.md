@@ -1,6 +1,6 @@
 ---
 title: Cinema Pioneer Tan Cheng Kee
-permalink: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
+permalink: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/
 description: ""
 image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
 ---

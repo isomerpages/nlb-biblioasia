@@ -1,7 +1,7 @@
 ---
 title: "Ties that Bind: The Story of Two Brother Poets"
 date: 2017-01-08
-permalink: /vol-12/issue-4/jan-mar-2017/ties-that-bind
+permalink: /vol-12/issue-4/jan-mar-2017/ties-that-bind/
 image: /images/Vol-12-issue-4/ties-that-bind/1-findingfrancis01.png
 layout: post
 ---

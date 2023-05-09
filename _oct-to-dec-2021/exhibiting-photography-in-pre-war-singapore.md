@@ -1,6 +1,6 @@
 ---
 title: Exhibiting Photography In Pre-war Singapore
-permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography
+permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography/
 image: /images/vol-17-issue-3/photo-in-pre-war-singapore/Malayborneo%20exhibition.jpg
 ---
 #### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.

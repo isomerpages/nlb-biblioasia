@@ -1,6 +1,6 @@
 ---
 title: test-1
-permalink: /testinging
+permalink: /testinging/
 description: ""
 ---
 <style>

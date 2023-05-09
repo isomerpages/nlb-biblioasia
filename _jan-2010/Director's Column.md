@@ -1,6 +1,6 @@
 ---
 title: Director's Column
-permalink: /vol-5/issue-4/Jan-2010/director-column/
+permalink: /vol-5/issue-4/jan-2010/director-column/
 description: ""
 ---
 Last year had been an eventful one. With the global economy still in the doldrums, we had to battle the H1N1 influenza virus which has killed thousands worldwide, while devastating typhoons swept through Taiwan and the Philippines and an earthquake levelled much of Padang, Indonesia. As we usher in the new year with new beginnings and new hopes, let us not forget those who have suffered from the virus and the natural disasters.

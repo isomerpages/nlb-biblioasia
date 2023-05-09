@@ -1,7 +1,7 @@
 ---
 title: "Claudius Henry Thomsen: A Pioneer in Malay Printing"
 date: 2017-01-06
-permalink: /vol-12/issue-4/jan-mar-2017/claudiushenrythomsen
+permalink: /vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/
 image: /images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg
 layout: post
 ---

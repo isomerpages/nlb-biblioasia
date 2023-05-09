@@ -1,6 +1,6 @@
 ---
 title: The Young Ones
-permalink: /vol-16/issue-4/jan-mar-2021/young-ones
+permalink: /vol-16/issue-4/jan-mar-2021/young-ones/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: The Young Ones
 third_nav_title: The Young Ones

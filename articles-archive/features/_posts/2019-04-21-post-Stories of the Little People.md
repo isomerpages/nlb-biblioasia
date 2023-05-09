@@ -1,7 +1,7 @@
 ---
 title: Stories of the Little People
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/stories-little-people
+permalink: /vol-15/issue-1/apr-jun-2019/stories-little-people/
 image: /images/Vol-15-issue-1/stories-of-little-people/01_littleppl.png
 layout: post
 description: ""

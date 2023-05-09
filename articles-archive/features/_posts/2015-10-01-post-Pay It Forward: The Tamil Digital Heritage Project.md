@@ -1,7 +1,7 @@
 ---
 title: "Pay It Forward: The Tamil Digital Heritage Project"
 date: 2015-10-01
-permalink: /vol-11/issue-3/oct-dec-2015/payitforward
+permalink: /vol-11/issue-3/oct-dec-2015/payitforward/
 breadcrumb: "Pay it Forward: The Tamil Digital Heritage Project"
 third_nav_title: "Pay it Forward: The Tamil Digital Heritage Project"
 image: \images\Vol-11-issue-3\payitforward\TamilDigitalProj.jpg

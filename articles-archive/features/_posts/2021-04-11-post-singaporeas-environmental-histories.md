@@ -1,6 +1,6 @@
 ---
 title: 'Singapore’s Environmental Histories'
-permalink: /vol-17/issue-1/apr-jun-2021/humanxnature
+permalink: /vol-17/issue-1/apr-jun-2021/humanxnature/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: 'Singapore’s Environmental Histories'
 third_nav_title: 'Singapore’s Environmental Histories'

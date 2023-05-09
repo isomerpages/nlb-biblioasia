@@ -1,7 +1,7 @@
 ---
 title: "Kampung Living: A–Z"
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/kampung-living-singapore
+permalink: /vol-9/issue-4/jan-march-2014/kampung-living-singapore/
 image: /images/vol-9-issue-4/kampong/trained_midwife.jpg
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "At Gunpoint: Wiping Out Illegal Firearms in Singapore"
-permalink: /vol-16/issue-3/oct-dec-2020/gunpoint
+permalink: /vol-16/issue-3/oct-dec-2020/gunpoint/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Gunpoint
 image: /images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg

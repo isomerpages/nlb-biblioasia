@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Eunos Abdullah: The Father of Malay Journalism"
 date: 2015-07-01
-permalink: /vol-11/issue-2/jul-sep-2015/mohamed-eunos
+permalink: /vol-11/issue-2/jul-sep-2015/mohamed-eunos/
 image: /images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: A Bilingual Dictionary by a Scotsman
 date: 2016-01-18
-permalink: /vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd
+permalink: /vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd/
 image: /images/vol-11-issue-4/a-bilingual-dictionary/01_dictionary.jpg
 layout: post
 description: ""

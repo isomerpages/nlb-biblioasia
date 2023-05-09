@@ -1,7 +1,7 @@
 ---
 title: Seizing the Singapore Dream
 date: 2015-07-01
-permalink: /vol-11/issue-2/jul-sep-2015/parag-khanna-opinion
+permalink: /vol-11/issue-2/jul-sep-2015/parag-khanna-opinion/
 image: /images/vol-11-issue-2/seizingthedream/PK-Brussels-March-2012-David-Plas1.jpg
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Time–forgotten Trades
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/forgotten-trades-singapore
+permalink: /vol-9/issue-4/jan-march-2014/forgotten-trades-singapore/
 image: /images/vol-9-issue-4/forgottentrades/bg.jpg
 layout: post
 description: ""

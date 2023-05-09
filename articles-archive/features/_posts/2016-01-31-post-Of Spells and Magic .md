@@ -1,6 +1,6 @@
 ---
 title: "Of Spells and Magic "
-permalink: /vol-11/issue-4/jan-mar-2016/malay-magic-walter-william-skeat
+permalink: /vol-11/issue-4/jan-mar-2016/malay-magic-walter-william-skeat/
 date: 2016-01-31
 layout: post
 description: ""

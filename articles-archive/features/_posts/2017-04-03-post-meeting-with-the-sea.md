@@ -1,7 +1,7 @@
 ---
 title: Meeting with the Sea
 date: 2017-04-03
-permalink: /vol-13/issue-1/apr-jun-2017/meetingwiththesea
+permalink: /vol-13/issue-1/apr-jun-2017/meetingwiththesea/
 image: /images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg
 layout: post
 ---

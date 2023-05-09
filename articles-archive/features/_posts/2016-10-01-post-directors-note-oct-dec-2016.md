@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Oct-Dec 2016)
 date: 2016-10-01
-permalink: /vol-12/issue-3/oct-dec-2016/directors-notes
+permalink: /vol-12/issue-3/oct-dec-2016/directors-notes/
 layout: post
 ---
 “The world is but a canvas of our imagination” the American poet and writer Henry David Thoreau famously said, and nowhere is this perhaps more evident than in the art and architecture of a city. The dividing line between art and architecture is often blurred – when is a building of visionary design deemed a work of art? – but the creative process of executing a painting or a sculpture, or erecting a building – from architectural plans to its physical construction – are not dissimilar.

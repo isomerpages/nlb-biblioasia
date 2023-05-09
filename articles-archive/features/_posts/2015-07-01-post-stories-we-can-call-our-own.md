@@ -1,7 +1,7 @@
 ---
 title: Stories We Can Call Our Own
 date: 2015-07-01
-permalink: /vol-11/issue-2/jul-sep-2015/stories
+permalink: /vol-11/issue-2/jul-sep-2015/stories/
 image: /images/vol-11-issue-2/stories/sg50_books.jpg
 layout: post
 ---

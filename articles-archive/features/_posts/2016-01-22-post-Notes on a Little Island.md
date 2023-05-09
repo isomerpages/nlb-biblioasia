@@ -1,7 +1,7 @@
 ---
 title: Notes on a Little Island
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd
+permalink: /vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd/
 image: /images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg
 layout: post
 description: ""

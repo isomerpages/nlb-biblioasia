@@ -1,6 +1,6 @@
 ---
 title: "The “Tiger” in Singapore: Georges Clemenceau’s Visit in 1920"
-permalink: /vol-16/issue-3/oct-dec-2020/tiger
+permalink: /vol-16/issue-3/oct-dec-2020/tiger/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Georges Clemenceau's Visit
 image: /images/Vol-16-issue-3/tiger/georgesclemenceau-thetigerinsg.jpg

@@ -1,7 +1,7 @@
 ---
 title: "The Padang: Centrepiece of Colonial Design"
 date: 2016-10-08
-permalink: /vol-12/issue-3/oct-dec-2016/the-padang
+permalink: /vol-12/issue-3/oct-dec-2016/the-padang/
 image: /images/Vol-12-issue-3/the-padang/03-The-Padang.jpg
 layout: post
 ---

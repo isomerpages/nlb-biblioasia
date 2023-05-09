@@ -1,7 +1,7 @@
 ---
 title: புதுமைதாசன் எனும் இலக்கியவாதி The literary works and accomplishments of P
   Krishnan
-permalink: /vol-8/issue-1/May-2012/krishnan-literary-works/
+permalink: /vol-8/issue-1/may-2012/krishnan-literary-works/
 description: ""
 ---
 P. Krishnan, who uses the pseudonym Puthumaithasan, is a prolific Tamil writer and 2008 Cultural Medallion award winner. Well-versed in Tamil literature and grammar, he is also regarded as an authority on the language.

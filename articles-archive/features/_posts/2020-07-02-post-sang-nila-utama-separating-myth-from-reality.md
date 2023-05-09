@@ -1,6 +1,6 @@
 ---
 title: "Sang Nila Utama: Separating Myth From Reality"
-permalink: /vol-16/issue-2/jul-sep-2020/sangnila
+permalink: /vol-16/issue-2/jul-sep-2020/sangnila/
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: "Sang Nila Utama: Separating Myth From Reality"
 third_nav_title: "Sang Nila Utama: Separating Myth From Reality"

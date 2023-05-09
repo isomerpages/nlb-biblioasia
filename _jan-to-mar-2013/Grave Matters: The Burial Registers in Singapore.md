@@ -1,6 +1,6 @@
 ---
 title: "Grave Matters: The Burial Registers in Singapore"
-permalink: /vol-8/issue-4/Jan-Mar-2013/singapore-grave-burial/
+permalink: /vol-8/issue-4/jan-mar-2013/singapore-grave-burial/
 description: ""
 ---
 On 11 January 1924, amidst the pouring rain, grave diggers at Bidadari Christian Cemetery lowered the bodies of Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin into their shared final resting place. As two nuns in their black habits from the Convent of the Holy Infant Jesus (CHIJ) stood silently witnessing the burial of the four infants, the oldest of whom had only been seven months old, the gravediggers started shovelling soil back into grave number 363 of the French Roman Catholic Pauper division. This was their only burial of the day and they were eager to get out of the rain.[^1] After all, infants from the convent orphanage seemed to die like flies. The nuns would come again tomorrow to deliver more baby corpses for burial.

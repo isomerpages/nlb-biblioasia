@@ -1,6 +1,6 @@
 ---
 title: Ancient Gold in Southeast Asia
-permalink: /vol-17/issue-3/oct-dec-2021/ancientgold
+permalink: /vol-17/issue-3/oct-dec-2021/ancientgold/
 image: /images/vol-17-issue-3/ancient-gold/Opening%20image.jpg
 description: Where did ancient gold come from? What was it used for and what
   gold discoveries have been made in Singapore?

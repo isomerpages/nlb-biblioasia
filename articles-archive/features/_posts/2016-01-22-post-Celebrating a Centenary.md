@@ -1,7 +1,7 @@
 ---
 title: Celebrating a Centenary
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/one-hundred-years-singapore
+permalink: /vol-11/issue-4/jan-mar-2016/one-hundred-years-singapore/
 image: /images/vol-11-issue-4/celebrating-a-centenary/01_celebratingcentenary.jpg
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Melihat Alam Melalui Mata & Hati Abdul Ghani Hamid
-permalink: /vol-8/issue-1/May-2012/ghani-hamid-nature/
+permalink: /vol-8/issue-1/may-2012/ghani-hamid-nature/
 description: ""
 ---
 The poems of Abdul Ghani Hamid are inspired by his keen sense of his natural surroundings, and express his deep love for earth’s serenity and natural beauty. The poems discussed in this article capture the author’s thoughts and feelings on the rapid changes in his environment.

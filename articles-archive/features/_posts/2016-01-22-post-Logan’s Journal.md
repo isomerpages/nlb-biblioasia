@@ -1,7 +1,7 @@
 ---
 title: Logan’s Journal
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal
+permalink: /vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal/
 image: /images/vol-11-issue-4/logan-journal/01_loganjournal.jpg
 layout: post
 description: ""

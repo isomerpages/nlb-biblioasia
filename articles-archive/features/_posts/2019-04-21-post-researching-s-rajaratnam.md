@@ -1,7 +1,7 @@
 ---
 title: Researching S. Rajaratnam
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/s-rajaratnam
+permalink: /vol-15/issue-1/apr-jun-2019/s-rajaratnam/
 image: /images/Vol-15-issue-1/researching-s-rajaratnam/01_rajaratnam.jpg
 layout: post
 ---

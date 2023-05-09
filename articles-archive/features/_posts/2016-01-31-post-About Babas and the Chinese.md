@@ -1,6 +1,6 @@
 ---
 title: About Babas and the Chinese
-permalink: /vol-11/issue-4/jan-mar-2016/manners-customs-chinese-straits-settlements
+permalink: /vol-11/issue-4/jan-mar-2016/manners-customs-chinese-straits-settlements/
 date: 2016-01-31
 layout: post
 description: ""

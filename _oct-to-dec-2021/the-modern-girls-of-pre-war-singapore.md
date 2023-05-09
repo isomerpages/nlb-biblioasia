@@ -1,6 +1,6 @@
 ---
 title: The Modern Girls of Pre-war Singapore
-permalink: /vol-17/issue-3/oct-dec-2021/moderngirl
+permalink: /vol-17/issue-3/oct-dec-2021/moderngirl/
 image: /images/vol-17-issue-3/modern-girl/Facing%20Page.jpg
 ---
 #### **Andrea Kee** explores how the enigmatic Modern Girl asserted her new-found identity, femininity and independence in interwar Singapore.

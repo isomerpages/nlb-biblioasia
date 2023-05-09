@@ -1,6 +1,6 @@
 ---
 title: "Cloudy With A Slight Chance of Rain:<br>Singapore's Meteorological Service"
-permalink: /vol-16/issue-2/jul-sep-2020/rain
+permalink: /vol-16/issue-2/jul-sep-2020/rain/
 date: 2020-07-01T00:00:00.000Z
 breadcrumb: Singapore's Meteorological Service
 third_nav_title: "Cloudy With A Slight Chance of Rain:<br>Singapore's Meteorological Service"

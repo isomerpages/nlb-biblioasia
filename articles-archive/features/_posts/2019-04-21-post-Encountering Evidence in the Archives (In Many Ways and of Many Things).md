@@ -1,7 +1,7 @@
 ---
 title: Encountering Evidence in the Archives (In Many Ways and of Many Things)
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/evidence-in-archives
+permalink: /vol-15/issue-1/apr-jun-2019/evidence-in-archives/
 image: /images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg
 layout: post
 description: ""

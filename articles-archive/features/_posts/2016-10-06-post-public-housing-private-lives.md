@@ -1,7 +1,7 @@
 ---
 title: Public Housing, Private Lives
 date: 2016-10-06
-permalink: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives
+permalink: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives/
 image: /images/Vol-12-issue-3/public-housing-private-lives/02-publichousing-privatelives.jpg
 layout: post
 ---

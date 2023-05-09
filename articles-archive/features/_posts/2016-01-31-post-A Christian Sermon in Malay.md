@@ -1,6 +1,6 @@
 ---
 title: A Christian Sermon in Malay
-permalink: /vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-thomsen
+permalink: /vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-thomsen/
 date: 2016-01-31
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Leisure
-permalink: /topics/Places-and-Buildings/leisure/
+permalink: /topics/places-and-buildings/leisure/
 description: ""
 third_nav_title: Places and Buildings
 ---

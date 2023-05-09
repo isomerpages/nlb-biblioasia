@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking: The Origins of Contemporary Art in Singapore"
 date: 2019-07-31
-permalink: /vol-15/issue-2/jul-sep-2019/contemporary-art
+permalink: /vol-15/issue-2/jul-sep-2019/contemporary-art/
 layout: post
 image: /images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking4.JPG
 description: ""

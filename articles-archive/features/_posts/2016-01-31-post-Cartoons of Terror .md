@@ -1,6 +1,6 @@
 ---
 title: "Cartoons of Terror "
-permalink: /vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang
+permalink: /vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang/
 date: 2016-01-31
 layout: post
 description: ""

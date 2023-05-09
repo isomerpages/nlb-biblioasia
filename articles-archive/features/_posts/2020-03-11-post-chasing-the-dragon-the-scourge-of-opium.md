@@ -1,7 +1,7 @@
 ---
 title: "Chasing the Dragon: The Scourge of Opium"
 date: 2015-10-01T00:00:00.000Z
-permalink: /vol-11/issue-3/oct-dec-2015/dragon
+permalink: /vol-11/issue-3/oct-dec-2015/dragon/
 breadcrumb: "Chasing the Dragon"
 third_nav_title: "Chasing the Dragon: The Scourge of Opium"
 image: \images\Vol-11-issue-3\dragon\AChinesemansmokingopium.jpg

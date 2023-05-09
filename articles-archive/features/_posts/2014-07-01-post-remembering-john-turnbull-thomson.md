@@ -1,7 +1,7 @@
 ---
 title: Remembering John Turnbull Thomson
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/john-turnbull-thomson
+permalink: /vol-10/issue-2/jul-sep-2014/john-turnbull-thomson/
 image: /images/vol-10-issue-2/thomson/thomson_map.jpg
 layout: post
 ---

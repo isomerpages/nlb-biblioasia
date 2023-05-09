@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Jan - Mar 2018)
 date: 2018-01-01
-permalink: /vol-13/issue-4/jan-mar-2018/director-note
+permalink: /vol-13/issue-4/jan-mar-2018/director-note/
 layout: post
 ---
 Inscriptions of history – whether physically inscribed on a surface or mentally etched in one’s memory – have a shelf life beyond the lifespan of their makers.

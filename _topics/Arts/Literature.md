@@ -1,6 +1,6 @@
 ---
 title: Literature
-permalink: /topics/literature
+permalink: /topics/literature/
 description: ""
 third_nav_title: Arts
 ---

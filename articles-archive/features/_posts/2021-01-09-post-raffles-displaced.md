@@ -1,6 +1,6 @@
 ---
 title: Raffles Displaced
-permalink: /vol-16/issue-4/jan-mar-2021/raffles
+permalink: /vol-16/issue-4/jan-mar-2021/raffles/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Raffles Displaced
 third_nav_title: Raffles Displaced

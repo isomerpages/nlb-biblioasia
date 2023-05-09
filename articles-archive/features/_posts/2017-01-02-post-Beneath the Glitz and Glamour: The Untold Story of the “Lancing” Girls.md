@@ -1,7 +1,7 @@
 ---
 title: "Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls"
 date: 2017-01-02
-permalink: /vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour
+permalink: /vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour/
 image: /images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png
 layout: post
 description: These cabaret girls were better known for their risqué stage shows,

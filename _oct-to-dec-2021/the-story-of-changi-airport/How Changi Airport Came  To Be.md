@@ -1,6 +1,6 @@
 ---
 title: How Changi Airport Came  To Be
-permalink: /vol-17/issue-3/oct-dec-2021/changi-airport
+permalink: /vol-17/issue-3/oct-dec-2021/changi-airport/
 third_nav_title: The Story Of Changi Airport
 image: /images/vol-17-issue-3/how-changi-airport-came-to-be/img0095.jpg
 description: As Singapore’s Changi Airport marks its 40th anniversary in 2021,

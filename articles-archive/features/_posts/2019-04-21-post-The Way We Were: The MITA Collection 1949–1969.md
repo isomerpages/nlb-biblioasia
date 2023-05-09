@@ -1,7 +1,7 @@
 ---
 title: "The Way We Were: The MITA Collection 1949–1969"
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/the-way-we-were
+permalink: /vol-15/issue-1/apr-jun-2019/the-way-we-were/
 image: /images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg
 layout: post
 description: ""

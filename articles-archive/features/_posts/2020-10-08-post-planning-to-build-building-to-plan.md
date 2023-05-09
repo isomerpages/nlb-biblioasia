@@ -1,6 +1,6 @@
 ---
 title: Planning to Build, Building to Plan
-permalink: /vol-16/issue-3/oct-dec-2020/building
+permalink: /vol-16/issue-3/oct-dec-2020/building/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Planning to Build
 image: /images/Vol-16-issue-3/building/planningbuilding-cover.jpg

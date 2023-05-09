@@ -1,6 +1,6 @@
 ---
 title: More Places and Buildings
-permalink: /topics/Places-and-Buildings/more/
+permalink: /topics/places-and-buildings/more/
 description: ""
 third_nav_title: Places and Buildings
 ---

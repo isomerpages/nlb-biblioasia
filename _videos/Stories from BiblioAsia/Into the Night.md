@@ -1,6 +1,6 @@
 ---
 title: Into the Night
-permalink: /videos/into-the-night
+permalink: /videos/into-the-night/
 description: Rose Chan was one of Singapore’s most famous cabaret dancers. What
   happened to her?
 image: "/images/Videos: BA Stories/into the night.jpg"

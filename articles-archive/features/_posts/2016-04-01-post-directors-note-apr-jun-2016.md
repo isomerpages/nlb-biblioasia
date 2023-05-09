@@ -1,7 +1,7 @@
 ---
 title: Director's Note (Apr - Jun 2016)
 date: 2016-04-01
-permalink: /vol-12/issue-1/apr-jun-2016/director-note
+permalink: /vol-12/issue-1/apr-jun-2016/director-note/
 layout: post
 ---
 That’s Entertainment is a delightful vintage MGM film that strings together scenes from the best Hollywood musicals from the 1920s through the 50s. This issue of *BiblioAsia* may not be in the same league as that film, but it does celebrate the best of entertainment – books, magazines, film, theatre, radio, television, and the like.

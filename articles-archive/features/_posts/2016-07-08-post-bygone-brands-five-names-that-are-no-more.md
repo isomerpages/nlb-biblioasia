@@ -1,7 +1,7 @@
 ---
 title: "Bygone Brands: Five Names That Are No More"
 date: 2016-07-08
-permalink: /vol-12/issue-2/jul-sep-2016/bygone-brands
+permalink: /vol-12/issue-2/jul-sep-2016/bygone-brands/
 image: /images/Vol-12-issue-2/bygone-brands/01-bygonebrands.jpg
 layout: post
 ---

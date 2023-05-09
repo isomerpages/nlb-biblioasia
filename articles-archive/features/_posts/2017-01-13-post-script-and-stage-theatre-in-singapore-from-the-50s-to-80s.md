@@ -1,7 +1,7 @@
 ---
 title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
 date: 2017-01-13
-permalink: /vol-12/issue-4/jan-mar-2017/script-stages-theatre
+permalink: /vol-12/issue-4/jan-mar-2017/script-stages-theatre/
 image: /images/Vol-12-issue-4/scriptandstage/01c_script-stages.jpg
 layout: post
 ---

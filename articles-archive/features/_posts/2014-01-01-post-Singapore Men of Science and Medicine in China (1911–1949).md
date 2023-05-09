@@ -1,7 +1,7 @@
 ---
 title: Singapore Men of Science and Medicine in China (1911–1949)
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/overseas-chinese
+permalink: /vol-9/issue-4/jan-march-2014/overseas-chinese/
 image: /images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg
 layout: post
 description: ""

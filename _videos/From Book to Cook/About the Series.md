@@ -1,6 +1,6 @@
 ---
 title: About the Series
-permalink: /videos/From-Book-to-Cook
+permalink: /videos/from-book-to-cook/
 description: ""
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/rendang%20mems%20own%20cookery%20book.png

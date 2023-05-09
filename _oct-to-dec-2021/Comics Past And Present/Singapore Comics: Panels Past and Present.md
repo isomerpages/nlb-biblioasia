@@ -1,6 +1,6 @@
 ---
 title: "Singapore Comics: Panels Past and Present"
-permalink: /vol-17/issue-3/oct-dec-2021/singapore-comics
+permalink: /vol-17/issue-3/oct-dec-2021/singapore-comics/
 third_nav_title: Comics Past And Present
 image: /images/vol-17-issue-3/singapore-comics/Facing%20Page2.jpg
 description: Singapore has its own comic superheroes too.

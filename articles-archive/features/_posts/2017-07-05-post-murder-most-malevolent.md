@@ -1,7 +1,7 @@
 ---
 title: Murder Most Malevolent
 date: 2017-07-05
-permalink: /vol-13/issue-2/jul-sep-2017/murdermostmalevolent
+permalink: /vol-13/issue-2/jul-sep-2017/murdermostmalevolent/
 image: /images/Vol-13-issue-2/murder-most-malevolent/01_murder.png
 layout: post
 ---

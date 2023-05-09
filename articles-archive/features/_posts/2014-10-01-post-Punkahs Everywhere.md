@@ -1,7 +1,7 @@
 ---
 title: Punkahs Everywhere
 date: 2014-10-01
-permalink: /vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore
+permalink: /vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore/
 image: /images/vol-10-issue-3/punkahs/Isabella_Bird.jpg
 layout: post
 description: ""

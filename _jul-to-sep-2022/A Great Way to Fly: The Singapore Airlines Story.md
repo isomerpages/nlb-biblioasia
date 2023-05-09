@@ -1,6 +1,6 @@
 ---
 title: "A Great Way to Fly: The Singapore Airlines Story"
-permalink: /vol-18/issue-2/jul-sep-2022/history-Singapore-Airlines/
+permalink: /vol-18/issue-2/jul-sep-2022/history-singapore-airlines/
 description: Established in 1972, Singapore Airlines has earned a reputation as
   a well-recognised brand known for its impeccable service standards and
   luxurious in-flight experiences.

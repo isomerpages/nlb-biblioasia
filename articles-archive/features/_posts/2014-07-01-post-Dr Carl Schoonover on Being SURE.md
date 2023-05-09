@@ -1,7 +1,7 @@
 ---
 title: Dr Carl Schoonover on Being SURE
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy
+permalink: /vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy/
 image: /images/vol-10-issue-2/drcarl/sure_diagram.jpg
 layout: post
 description: ""

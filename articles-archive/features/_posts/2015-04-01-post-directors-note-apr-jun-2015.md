@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Apr-Jun 2015)
 date: 2015-04-01
-permalink: /vol-11/issue-1/apr-jun-2015/director-note
+permalink: /vol-11/issue-1/apr-jun-2015/director-note/
 image: /vol-11/issue-1/apr-jun-2015/moving-journey
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "When Tigers Used to Roam: Nature & Environment in Singapore"
 date: 2018-01-10
-permalink: /vol-13/issue-4/jan-mar-2018/whentigersusedtoroam
+permalink: /vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
 image: /images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg
 layout: post
 ---

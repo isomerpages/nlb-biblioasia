@@ -1,6 +1,6 @@
 ---
 title: Housing
-permalink: /topics/Places-and-Buildings/housing/
+permalink: /topics/places-and-buildings/housing/
 description: ""
 third_nav_title: Places and Buildings
 ---

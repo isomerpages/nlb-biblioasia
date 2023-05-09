@@ -1,7 +1,7 @@
 ---
 title: Raffles’ Letters of Intrigue
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/letters-stamford-raffles-marquess-lansdowne
+permalink: /vol-11/issue-4/jan-mar-2016/letters-stamford-raffles-marquess-lansdowne/
 image: /images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg
 layout: post
 description: ""

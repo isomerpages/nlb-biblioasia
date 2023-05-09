@@ -1,7 +1,7 @@
 ---
 title: "GeolGraphic: Celebrating Maps and Their Stories"
 date: 2015-01-01
-permalink: /vol-10/issue-4/jan-march-2015/geographic
+permalink: /vol-10/issue-4/jan-march-2015/geographic/
 image: /images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg
 layout: post
 ---

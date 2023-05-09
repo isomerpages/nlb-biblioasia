@@ -1,7 +1,7 @@
 ---
 title: "Georgette Chen: Artist Extraordinaire"
 date: 2019-07-31
-permalink: /vol-15/issue-2/jul-sep-2019/georgette-chen
+permalink: /vol-15/issue-2/jul-sep-2019/georgette-chen/
 image: /images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG
 layout: post
 description: ""

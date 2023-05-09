@@ -1,7 +1,7 @@
 ---
 title: From the Director's Chair
 date: 2015-04-01
-permalink: /vol-11/issue-1/apr-jun-2015/director-chair
+permalink: /vol-11/issue-1/apr-jun-2015/director-chair/
 image: /images/vol-11-issue-1/directorchair/scene.jpg
 layout: post
 ---

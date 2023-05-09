@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Jan-Mar 2015)
 date: 2015-01-01
-permalink: /vol-10/issue-4/jan-march-2015/director-note
+permalink: /vol-10/issue-4/jan-march-2015/director-note/
 layout: post
 ---
 In 1881, a 2,500-year-old clay tablet with inscriptions was found in Sippar, Iraq. However, it was only toward the end of that century that its significance came to light: the cuneiform on the Babylonian tablet was finally translated and read – unveiling what is probably the first map of the world.

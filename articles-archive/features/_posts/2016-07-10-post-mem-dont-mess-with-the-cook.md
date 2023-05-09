@@ -1,7 +1,7 @@
 ---
 title: Mem, Don’t Mess with the Cook
 date: 2016-07-10
-permalink: /vol-12/issue-2/jul-sep-2016/dontmesswiththecook
+permalink: /vol-12/issue-2/jul-sep-2016/dontmesswiththecook/
 image: /images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg
 layout: post
 ---

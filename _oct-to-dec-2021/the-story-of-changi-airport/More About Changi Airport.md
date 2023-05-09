@@ -1,6 +1,6 @@
 ---
 title: More About Changi Airport
-permalink: /vol-17/issue-3/oct-dec-2021/changi-airport-rsrc
+permalink: /vol-17/issue-3/oct-dec-2021/changi-airport-rsrc/
 third_nav_title: The Story Of Changi Airport
 description: Built at a cost of $1.5 billion, Changi Airport was the largest
   public project in Singapore when it was completed in 1981. Learn more about

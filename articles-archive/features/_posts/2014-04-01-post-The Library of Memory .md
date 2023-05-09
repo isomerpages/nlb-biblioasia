@@ -1,7 +1,7 @@
 ---
 title: "The Library of Memory "
 date: 2014-04-01
-permalink: /vol-10/issue-1/apr-jun-2014/boey-kim-cheng-opinion
+permalink: /vol-10/issue-1/apr-jun-2014/boey-kim-cheng-opinion/
 image: /images/vol-10-issue-1/library/old_National_Library.jpg
 layout: post
 description: ""

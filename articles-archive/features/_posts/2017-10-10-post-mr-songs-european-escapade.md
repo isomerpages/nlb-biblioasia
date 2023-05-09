@@ -1,7 +1,7 @@
 ---
 title: Mr Song’s European Escapade
 date: 2017-10-10
-permalink: /vol-13/issue-3/oct-dec-2017/european-escapade
+permalink: /vol-13/issue-3/oct-dec-2017/european-escapade/
 image: /images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png
 layout: post
 ---

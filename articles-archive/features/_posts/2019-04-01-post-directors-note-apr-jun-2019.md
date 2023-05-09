@@ -1,7 +1,7 @@
 ---
 title: Directors’ Note (Apr - Jun 2019)
 date: 2019-04-01
-permalink: /vol-15/issue-1/apr-jun-2019/directors-note
+permalink: /vol-15/issue-1/apr-jun-2019/directors-note/
 layout: post
 ---
 April 2019 is a special month for the National Archives of Singapore (NAS). After an 18-month makeover, the NAS building at Canning Rise re-opened on 7 April with a slew of upgraded facilities for the public. As the NAS’ year-long 50th anniversary celebrations that began in June 2018 draw to a conclusion, we will mark its close by hosting the SARBICA* International Symposium from 24–28 June 2019.

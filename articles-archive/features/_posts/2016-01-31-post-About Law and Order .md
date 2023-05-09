@@ -1,6 +1,6 @@
 ---
 title: "About Law and Order "
-permalink: /vol-11/issue-4/jan-mar-2016/law-straits-settlements-roland-st-john-braddell
+permalink: /vol-11/issue-4/jan-mar-2016/law-straits-settlements-roland-st-john-braddell/
 date: 2016-01-31
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "A Dictionary That Bridged Two Races "
-permalink: /vol-11/issue-4/jan-mar-2016/hua-yi-tong-yu-chinese-malay-dictionary
+permalink: /vol-11/issue-4/jan-mar-2016/hua-yi-tong-yu-chinese-malay-dictionary/
 date: 2016-01-31
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Law of the Land
 date: 2016-09-29
-permalink: /vol-12/issue-3/oct-dec-2016/law-of-the-land
+permalink: /vol-12/issue-3/oct-dec-2016/law-of-the-land/
 image: /images/Vol-12-issue-3/law-of-the-land/01a-lawofland.png
 layout: post
 ---

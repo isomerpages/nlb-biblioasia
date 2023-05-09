@@ -1,6 +1,6 @@
 ---
 title: "A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore"
-permalink: /vol-17/issue-1/apr-jun-2021/beastly-business
+permalink: /vol-17/issue-1/apr-jun-2021/beastly-business/
 date: 2021-04-01T00:00:00.000Z
 breadcrumb: "A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore"
 third_nav_title: "A Beastly Business: Regulating the Wildlife Trade in Colonial Singapore"

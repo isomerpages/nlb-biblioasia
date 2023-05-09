@@ -1,7 +1,7 @@
 ---
 title: "Of Belacan and Curry Puffs: A Taste of Singapore’s Past"
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage
+permalink: /vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage/
 image: /images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg
 layout: post
 description: ""

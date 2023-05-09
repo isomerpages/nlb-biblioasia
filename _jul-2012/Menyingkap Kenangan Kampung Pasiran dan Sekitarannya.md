@@ -1,6 +1,6 @@
 ---
 title: Menyingkap Kenangan Kampung Pasiran dan Sekitarannya
-permalink: /vol-8/issue-2/Jul-2012/kampung-pasiran-sekitarannya/
+permalink: /vol-8/issue-2/jul-2012/kampung-pasiran-sekitarannya/
 description: ""
 ---
 #### Traces the historical development of a village in Singapore called Kampung Pasiran and its surrounding areas using primary source materials from the National Archives of Singapore as well as interviews with surviving kampong dwellers.

@@ -1,6 +1,6 @@
 ---
 title: Theatre
-permalink: /topics/theatre
+permalink: /topics/theatre/
 description: ""
 third_nav_title: Arts
 ---

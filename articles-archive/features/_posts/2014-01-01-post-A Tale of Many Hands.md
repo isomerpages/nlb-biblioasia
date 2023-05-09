@@ -1,7 +1,7 @@
 ---
 title: A Tale of Many Hands
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/nlb-hands-exhibition
+permalink: /vol-9/issue-4/jan-march-2014/nlb-hands-exhibition/
 image: /images/vol-9-issue-4/hands/santhan_baskar.jpg
 layout: post
 description: ""

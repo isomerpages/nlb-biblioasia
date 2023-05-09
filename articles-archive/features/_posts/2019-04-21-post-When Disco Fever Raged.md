@@ -1,7 +1,7 @@
 ---
 title: When Disco Fever Raged
 date: 2019-04-21
-permalink: /vol-15/issue-1/apr-jun-2019/disco-fever
+permalink: /vol-15/issue-1/apr-jun-2019/disco-fever/
 image: /images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png
 layout: post
 description: ""

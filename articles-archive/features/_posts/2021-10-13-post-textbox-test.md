@@ -1,7 +1,7 @@
 ---
 title: Textbox test
 date: 2021-10-13
-permalink: /articles-archive/features/test
+permalink: /articles-archive/features/test/
 layout: post
 ---
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 

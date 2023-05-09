@@ -1,6 +1,6 @@
 ---
 title: Becoming Modern By Design
-permalink: /vol-16/issue-4/jan-mar-2021/modern-by-design
+permalink: /vol-16/issue-4/jan-mar-2021/modern-by-design/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Becoming Modern By Design
 third_nav_title: Becoming Modern By Design

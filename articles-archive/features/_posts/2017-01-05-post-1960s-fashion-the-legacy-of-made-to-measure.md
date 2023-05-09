@@ -1,7 +1,7 @@
 ---
 title: "1960s Fashion: The Legacy of Made-To-Measure"
 date: 2017-01-05
-permalink: /vol-12/issue-4/jan-mar-2017/1960s-fashion
+permalink: /vol-12/issue-4/jan-mar-2017/1960s-fashion/
 image: /images/Vol-12-issue-4/1960s-fashion/01-1960s-fashion.png
 layout: post
 ---

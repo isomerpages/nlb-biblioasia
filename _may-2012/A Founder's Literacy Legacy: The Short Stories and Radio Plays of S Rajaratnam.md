@@ -1,7 +1,7 @@
 ---
 title: "A Founder's Literacy Legacy: The Short Stories and Radio Plays of S
   Rajaratnam"
-permalink: /vol-8/issue-1/May-2012/Rajaratnam-stories-radio-plays/
+permalink: /vol-8/issue-1/may-2012/rajaratnam-stories-radio-plays/
 description: "One of Singapore’s founding leaders, S. Rajaratnam, is today best
   known for drafting the Singapore Pledge and for being the country’s first
   Foreign Minister. His biographer Irene Ng, who recently edited the collection

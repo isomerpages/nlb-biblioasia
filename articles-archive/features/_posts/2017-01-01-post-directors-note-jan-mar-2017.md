@@ -1,7 +1,7 @@
 ---
 title: Director’s Note (Jan-Mar 2017)
 date: 2017-01-01
-permalink: /vol-12/issue-4/jan-mar-2017/director-note
+permalink: /vol-12/issue-4/jan-mar-2017/director-note/
 layout: post
 ---
 The Italian philosopher George Santayana (1863–1952) underlined the value of memory when he wrote, “Those who cannot remember the past are condemned to repeat it”. History is littered with enough examples of follies being repeated either due to ignorance or because mankind seems incapable of learning from history. By the same token, there are some things worth remembering (and reliving) because of the pleasant memories they recall.

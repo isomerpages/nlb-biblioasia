@@ -1,7 +1,7 @@
 ---
 title: Propaganda Paper
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/syonan-shimbun
+permalink: /vol-11/issue-4/jan-mar-2016/syonan-shimbun/
 image: /images/vol-11-issue-4/propaganda-paper/01_propagandapaper.jpg
 layout: post
 description: ""

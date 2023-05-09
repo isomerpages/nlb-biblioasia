@@ -1,7 +1,7 @@
 ---
 title: Birds of the Malay Peninsula
 date: 2016-01-18
-permalink: /vol-11/issue-4/jan-mar-2016/birds-malay-peninsula
+permalink: /vol-11/issue-4/jan-mar-2016/birds-malay-peninsula/
 layout: post
 description: ""
 image: /images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg

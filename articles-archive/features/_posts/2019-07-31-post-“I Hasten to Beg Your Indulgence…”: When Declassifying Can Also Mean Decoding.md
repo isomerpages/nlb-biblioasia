@@ -1,6 +1,6 @@
 ---
 title: "“I Hasten to Beg Your Indulgence…”: When Declassifying Can Also Mean Decoding"
-permalink: /vol-15/issue-2/jul-sep-2019/archives-declassification
+permalink: /vol-15/issue-2/jul-sep-2019/archives-declassification/
 date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/declassifying-mean-decoding/Decoding1.JPG

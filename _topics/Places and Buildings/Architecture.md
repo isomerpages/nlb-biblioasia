@@ -1,6 +1,6 @@
 ---
 title: Architecture
-permalink: /topics/Places-and-Buildings/architecture
+permalink: /topics/places-and-buildings/architecture/
 description: ""
 third_nav_title: Places and Buildings
 ---

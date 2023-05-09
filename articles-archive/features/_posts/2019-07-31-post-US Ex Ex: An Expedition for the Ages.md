@@ -1,7 +1,7 @@
 ---
 title: "US Ex Ex: An Expedition for the Ages"
 date: 2019-07-31
-permalink: /vol-15/issue-2/jul-sep-2019/american-expedition
+permalink: /vol-15/issue-2/jul-sep-2019/american-expedition/
 image: /images/Vol-15-issue-2/an-expedition-for-the-ages/Ex1.JPG
 layout: post
 description: ""

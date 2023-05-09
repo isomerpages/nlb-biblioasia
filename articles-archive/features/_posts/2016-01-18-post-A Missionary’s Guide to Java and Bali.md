@@ -1,7 +1,7 @@
 ---
 title: A Missionary’s Guide to Java and Bali
 date: 2016-01-18
-permalink: /vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst
+permalink: /vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/
 image: /images/vol-11-issue-4/guide-to-java-and-bali/03_javaandbali.jpg
 layout: post
 description: ""

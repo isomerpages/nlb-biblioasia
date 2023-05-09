@@ -1,6 +1,6 @@
 ---
 title: Worship
-permalink: /topics/Places-and-Buildings/worship/
+permalink: /topics/places-and-buildings/worship/
 description: ""
 third_nav_title: Places and Buildings
 ---

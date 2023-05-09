@@ -1,7 +1,7 @@
 ---
 title: Director's Note (Jul - Sep 2016)
 date: 2016-07-20
-permalink: /vol-12/issue-2/jul-sep-2016/director-note
+permalink: /vol-12/issue-2/jul-sep-2016/director-note/
 layout: post
 ---
 They say some stories should never be told, and indeed there are some skeletons that are best left in the closets where they belong. History is filled with many examples of perpetrators who attempt to erase – thankfully without much success – horrific crimes against humanity from living memory: the Nanjing massacre in China comes to mind, and closer to home, Cambodia’s Khmer Rouge genocide.

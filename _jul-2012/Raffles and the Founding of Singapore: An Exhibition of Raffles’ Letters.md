@@ -1,6 +1,6 @@
 ---
 title: "Raffles and the Founding of Singapore: An Exhibition of Raffles’ Letters"
-permalink: /vol-8/issue-2/Jul-2012/singapore-raffles-founding-letters/
+permalink: /vol-8/issue-2/jul-2012/singapore-raffles-founding-letters/
 description: Nearly 200 years after he set foot on Singapore to establish a
   trading post for the British East India Company, Sir Thomas Stamford Bingley
   Raffles (1781–1826) continues to fascinate and intrigue us. How else can you

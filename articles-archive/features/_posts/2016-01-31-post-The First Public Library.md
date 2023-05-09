@@ -1,6 +1,6 @@
 ---
 title: The First Public Library
-permalink: /vol-11/issue-4/jan-mar-2016/singapore-public-library-reports-catalogue
+permalink: /vol-11/issue-4/jan-mar-2016/singapore-public-library-reports-catalogue/
 date: 2016-01-31
 layout: post
 description: ""

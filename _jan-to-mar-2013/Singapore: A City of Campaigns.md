@@ -1,6 +1,6 @@
 ---
 title: "Singapore: A City of Campaigns"
-permalink: /vol-8/issue-4/Jan-Mar-2013/singapore-campaigns/
+permalink: /vol-8/issue-4/jan-mar-2013/singapore-campaigns/
 description: ""
 ---
 Over the last five decades, Singapore has conducted many campaigns covering a wide range of topics. For instance, there have been campaigns encouraging the population to keep Singapore clean, take family planning measures, be courteous, raise productivity in the workplace and speak Mandarin as well as good English. There have also been others that remind the people not to litter, be a good neighbour, live a healthy lifestyle and even to wash their hands properly. Collectively, the purpose of these campaigns is to instill certain social behaviours and attitudes that are considered by the government to be beneficial to both the individual and the community. They are also used by the State as an instrument for policy implementation.[^1]

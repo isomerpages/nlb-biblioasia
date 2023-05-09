@@ -1,7 +1,7 @@
 ---
 title: "In Vogue: Singapore Fashion Trends from 1960s to 1990s"
 date: 2014-10-01
-permalink: /vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s
+permalink: /vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s/
 image: /images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg
 layout: post
 description: ""

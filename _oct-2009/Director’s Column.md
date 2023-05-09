@@ -1,6 +1,6 @@
 ---
 title: Director’s Column
-permalink: /vol-5/issue-3/Oct-2009/director-column/
+permalink: /vol-5/issue-3/oct-2009/director-column/
 description: ""
 ---
 This year marks the 15th anniversary of the Suzhou Industrial Park in China. In conjunction with the anniversary celebration, a bilingual exhibition *Adapting Singapore’s Experience — Commemorating the 15th Anniversary of Suzhou Industrial Park*, was held at the National Library from 15 May to 15 June. The “Spotlight” article in Chinese highlights the books and resources on the Suzhou Industrial Park and other parts of China. These are available at the Lee Kong Chian Reference Library’s China Resource Collection on Level 9 of the National Library.
