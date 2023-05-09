@@ -60,7 +60,7 @@ It was the LMS which first brought printing in Malay to the Straits Settlements 
 
 According to the Annual Reports of the Singapore Institution (1834–1837) and the Singapore Institution Free School (1838–1843), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
 
-#### **<center>Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**</center>
+#### **Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
  <div style="background-color: white;">Crawfurd, 1839, p. 375; Newbold, 1839, p. 285; Braddell, 1861, p. 3.</div>
