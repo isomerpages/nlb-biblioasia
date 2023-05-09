@@ -60,7 +60,7 @@ It was the LMS which first brought printing in Malay to the Straits Settlements 
 
 According to the Annual Reports of the Singapore Institution (1834–1837) and the Singapore Institution Free School (1838–1843), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
 
-#### **Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**
+**Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
  <div style="background-color: white;">Crawfurd, 1839, p. 375; Newbold, 1839, p. 285; Braddell, 1861, p. 3.</div>
@@ -75,23 +75,23 @@ The history of the spread of Malay printing in Southeast Asia in the first half 
 
 In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given.” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12)
 
-#### **Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841**
+**Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%202.JPG" style="width:100%;">
 <div style="background-color: white;">Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, pp. 14, 72, 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</div>
 
-#### **Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (Selected Years)**
+**Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (Selected Years)**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%203.JPG" style="width:100%;">
  <div style="background-color: white;">Notes: According to the <i>Annual Report on the Administration of the Straits Settlements</i> from 1859 to 1864 there were mixed enrolments of boys and girls. Sources: ¹Buckley, 1965, p. 322;² Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.
 </div>
 
-#### **Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866**
+**Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%204.JPG" style="width:100%;">
  <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</div>
  
-#### **Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866**
+**Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
  <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370,  522, 640, 744.</div>
@@ -107,17 +107,17 @@ In 1867, the Straits Settlements were transferred from the control of the Indian
 
 In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 per cent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
 
-#### **Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901**
+**Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%206.JPG" style="width:100%;">
  <div style="background-color: white;">Hill, 1892, 284–287; Elcum, 1902, 218–222; Merewether, 1892, 43; Innes 1901, 19.</div>
  
-#### **Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901** 
+**Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901** 
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%207.JPG" style="width:100%;">
  <div style="background-color: white;">Hill 1892, 284–287; Elcum 1902, 218–222; Merewether 1892, 43; Innes 1901, 19.</div>
  
-#### **Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools**
+**Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%208.JPG" style="width:100%;">
  <div style="background-color: white;">Lim, 1992, pp. 6, 10;¹ Roff, 1972, p. 21;² Penny 1888, pp. 196–199;³ Hill, 1891, pp. 102–105.</div>
@@ -145,6 +145,3 @@ In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent we
 It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th century Malay school book production and distribution in the Straits Settlements.
 
 **The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper**.
-
-
-
