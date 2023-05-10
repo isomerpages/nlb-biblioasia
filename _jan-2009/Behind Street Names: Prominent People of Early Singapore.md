@@ -23,12 +23,11 @@ In early Singapore, the Municipal Councillors or Commisioners were in charge of 
 Jalan Tan Tock Seng is named after Tan Tock Seng. Situated off Moulmein Road, the road had existed as an unnamed road when the Tan Tock Seng Hospital moved to its present site in 1909.
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/tantockseng%20-%20justices.jpg" style="width:80%;">
- <div style="background-color: white;">Tan Tock Seng was much respected by the Chinese community as well as by the British. He was the first Asian Justice of the Peace in Singapore.<i>The Straits Times almanac, calendar and directory for the year 1846. (1846). Singapore: Straits Times Press, p. 34. (Microfilm NL2363)</i></div>
+ <div style="background-color: white;">Tan Tock Seng was much respected by the Chinese community as well as by the British. He was the first Asian Justice of the Peace in Singapore.<i>The Straits Times almanac, calendar and directory for the year 1846. (1846) (p. 34). Singapore: Straits Times Press. (Microfilm NL2363)</i></div>
 
 Tan Tock Seng was best known and remembered as a philanthropist especially towards the poor in the Chinese community. His contribution towards the setting up of the Chinese Pauper’s Hospital at Pearl’s Hill, which later carried his name, ranked as one of the most significant acts of philanthropy in early Singapore and prompted others to give generously to society for generations to come.
 
 #### **Chitty Road**
-
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/chiitty1.jpg" style="width:50%;">
  <div style="background-color: white;">An Indian merchant in the 1900s. From the mid – 1920s, the term “Chetty” which had been used interchangeably with “Chitty” was being replaced by the more dignified term “Chettiar”. <i>Courtesy of National Archives of Singapore.</i></div>
@@ -42,9 +41,15 @@ Some of the Peranakan Indian immigrants found jobs in the public sector working 
 
 #### **D’almeida Street**
 
+<img src="/images/Vol%204%20Issue%204/StreetNames/d'almedia.jpg" style="width:50%;">
+ <div style="background-color: white;">Dr Jose D’Almeida – the patriarch of the D’Almeidas in Singapore and Singapore’s pioneering merchant.<i> Buckley, C.B. (1902). An anecdotal history of old times in Singapore (p. 184). Singapore: Fraser &amp; Neave. (Microfilm NL269).</i></div>
+
 Located in the oldest commercial section of Singapore Town in Raffles Place, D’almeida Street is named after Dr Jose D’Almeida. It is one of the oldest streets in Singapore situated in what was then known as “Commercial Square”, where many of the earliest mercantile firms were located. Reference has been made to the street’s name as early as 1861.
 
 Jose D’Almeida was a surgeon in the Portuguese navy who came to Singapore in 1825. On his arrival, D’Almeida established his medical practice in Commercial Square (Raffles Place) under his own name. Soon he decided to become a merchant as well. His business flourished. Later, he included his sons as his business partners and the company was renamed Jose D’Almeida &amp; Sons.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/advertisement.jpg" style="width:80%;">
+ <div style="background-color: white;">An advertisement in the Straits Times on the importation of foodstuffs and building materials by the company, Joze De Almeida &amp; Sons.<i>The Straits Times, 11 April 1846, p. 4. (From NewspaperSG).</i></div>
 
 Besides being a merchant, D’Almeida was believed to be the first to venture into plantations in Singapore. He experimented with planting various crops including cotton, coconuts, fruits and spices and coconut and spice plantations flourished.
 
