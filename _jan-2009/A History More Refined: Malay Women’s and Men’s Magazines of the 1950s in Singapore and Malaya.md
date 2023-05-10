@@ -75,8 +75,23 @@ An insignificant amount of provocative titles was published in the 1930s. This w
 
 *Shorga Dunia* was understood to be a men’s magazine. Hamedi categorises *Shorga Dunia* (Earthly Heaven) as “entertainment for the young (hiburan untuk mudamudi)”. In the newspaper *Tanah Melayu* (April 1936) it was reported that 
 
-   "Kanak-kanak dan perawan-perawan tidak<br>   dibenarkan membaca akhbar ini kerana sesetengah<br>   daripada perkataan-perkataan dan gambar-gambar<br>   yang di dalamnya mendahsyatkan pemandangan<br>   dan membangkitkan keinginan hawa nafsu dengan<br>   sekejapnya" *\[children and young women are not <br>   allowed to read this because half of the words and<br>   photographs contain inside \[this publication\] are<br>   destructive to the sight and arouses the desire in an<br>   instant\].* 15
+   "Kanak-kanak dan perawan-perawan tidak<br>   dibenarkan membaca akhbar ini kerana sesetengah<br>   daripada perkataan-perkataan dan gambar-gambar<br>   yang di dalamnya mendahsyatkan pemandangan<br>   dan membangkitkan keinginan hawa nafsu dengan<br>   sekejapnya" *\[children and young women are not <br>   allowed to read this because half of the words and<br>   photographs contain inside \[this publication\] are<br>   destructive to the sight and arouses the 
+desire in an<br>   instant\].* 15
 
+In another instance, the same daily reported
+   "…suatu akhbar yang luar biasa dan sengit sekali.<br>   Kanak-kanak dan orang-orang perempuan tidak<br>   dibenarkan membeli akhbar ini." *\[a periodical that is<br>   extraordinary and very narrow. Children and women<br>   are not allowed to buy these.\]* 16
+
+This was a rare instance when women and children are excluded from reading men’s magazines and this was not the case for other publications. This preclusion characterises this magazine as an exclusively men’s magazine. While this type of men’s magazine did not find much acceptance in its time, it was beginning to garner a wider acceptance in the social world of the 1950s. It is interesting to note that Singapore was the birthplace of such magazines in the 1930s and later in the 1950s. Such publications aroused religious and moral sentiments from the community across the Causeway. Regardless of this, men’s magazines of the 1950s were still very popular.
+
+The more popular men’s magazines in the 1950s were *Aneka Warna*, *Asmara*, *Album Asmara* and *Album Bintang*. Hamedi describes *Album Bintang* as a magazine for “entertainment and light sex (hiburan/seks ringan)”. Pustaka H. M. Ali published the annual edition of Bintang magazine which contained tabloids, pictures of movie stars and long commentaries. Its first print was in 1955 and its last in May 1959. In May 1957, 15,000 copies of the magazine were printed. Jimmy Asmara was the chief editor from 1956–1957.17
+
+Syed Omar Alsagof published Album Asmara on behalf of Geliga Publications Bureau (at 430 Orchard Road). This was a yearly edition for *Asmara*. Like *Album Bintang*, *Album Asmara* saw its inaugural print in 1955 and its final print in 1959. Hamedi described this as an entertainment magazine (*hiburan*). The magazine was published as it “was asked by readers to create a magazine that contain stories on films from a cinematic perspective (*didesak oleh pembaca supaya melahirkan majalah yang mengandungi hal-hal perfileman ditinjau dari sudut perfileman*)”. The basis of this magazine was to “create stories surrounding passion/love (dasar album kami ialah mengisahkan kejadian di sekitar asmara)”.18
+
+*Aneka Warna*, like *Album Asmara*, was described as “entertainment and light sex”. Unlike the two yearly editions mentioned earlier, *Aneka Warna* was a monthly magazine. It was first published in October 1954 and saw its final print in November 1959. Qalam Press then replaced *Aneka Warna* with *Pusparagam* in May 1960.
+
+Due to its popularity, *Aneka Warna* managed to save Qalam press from financial troubles. These financial troubles were incurred due to a political disagreement with Tengku Abdul Rahman. The editor, Al-Edrus (Syed Abdullah Abdul Hamid al-Edrus) or known by his pen name, Ahmad Lufti, reacted critically to the Tengku burning copies of *Warta Masyaraka*t and *Qalam* in Johor Bahru (both his productions) by writing an angry piece in a December 1953 issue. He had to close his newspaper as a result. *Aneka Warna* saved *Qalam* Press. It lasted for five years from October 1954 to November 1959. Ahmad Lufti was the writer of *Kesatuan Islam* (13 December 1945) and *Mastika*.
+
+*Asmara*, another magazine of this genre, reinforced *Aneka Warna* as a men’s magazine in its description of *Aneka Warna *(November 1954)
 
 
 
