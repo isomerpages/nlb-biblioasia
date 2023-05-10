@@ -27,7 +27,7 @@ The proliferation of Malay periodicals, specifically political magazines, men’
 
 How would the use of women’s and men’s magazines assist scholars in this respect? The identity formation of modern Malay women, shaped by women’s magazines, was part of the larger upsurge of the various explorations of ethnic and religious identities that successfully refrained state-led attempts to create a British Malayan one. At the level of racial politics, the formation of the “modern” was part of a greater desire to ensure that Malay women got ahead of women from other groups. Kristin Ross’s theory in the reverberating example of modernising French women in the 1950s, “let’s win over the women and the rest will follow… \[was\] to target the innermost structure of society”.7 Reinventing the home was reinventing the nation. Men’s magazines, on the other hand, promoted the impetus to modernise men along western lines while providing an out-of-bounds marker on what is permissible for their Malay/ Muslim identity.
 
-#### **History of Men’s & Women’s Magazines in Singapore**
+#### **History of Men’s &amp; Women’s Magazines in Singapore**
 
 #### ***Brief History of Malay Print in Singapore***
 
@@ -47,8 +47,36 @@ According to Hamedi, from the date of the Japanese surrender (15 August 1945) un
 
 Hamedi proposes three main reasons for the increase in the number of Malay periodicals in this period. The most important factor, he believes, was the official declaration of the Emergency of Malay in 1948. The Emergency activated the mobilisation of Malay men into defence of the country. More and more Malay men entered the army and police and as a result, the demand for leisure reading was very high. The need for light reading also arose from the men and women who were weary from the Occupation and the postOccupation social turmoil in the community. This was also supported by a rise in rubber prices due to the eruption of the Korean War in 1949. The rubber boom was instrumental for the growth of the printing and publishing industry. Thirdly, he observes that there was a shift of focus and interest, from publishing the religious and the social to the entertaining and the popular, to meet the reading demands of the public.
 
+#### ***Definition of Malay Women’s and Men’s Magazines***
 
+***Women’s Magazines in the 1930s and 1950s***
 
+Since the early 1920s, the discourse of femininity in Malay women was more developed in periodicals such as the association and professional periodicals. Meant for teachers and largely influenced by the rise of reformist and religious journals in the region, the discourse was largely didactic, which was no different from other subjects discussed in Malay print.
+
+Hamedi loosely defines women’s magazines as periodicals meant for women. This includes religious, nationalistic, literary, educational, association and organisational periodicals, and entertainment magazines (Hamedi, 2002, p. 46). Hamedi identifies seven women’s magazine titles - *Ibu Melayu* (October 1946), *Putri Melayu* (June 1947), *Ibu* (January 1952), *Wanita* (August 1956), *Bulan Melayu* (June 1930), *Dewan Perempuan* (1May 1935) and *Dunia Perempuan* (15 August 1936). He observes that three of them were produced during the pre-war period.
+
+Departing from Hamedi’s broad definition of women’s magazines we can redefine them to be mass circulated commercial magazines, which target women as consumers and agents of change in the households and community. These contain information on fashion, sentimental fiction and modern etiquette, and advertisements.
+
+The latter were new to the Malay audience until the 1950s. *Fashion* is an example of a popular magazine which had a broad appeal, catering not only to women who are students or teachers but Malay women of all classes. Hamedi, however, does not identify *Fashion* as a women’s magazine despite it being listed in his directory.12 It was also not classified under any other genres.
+
+Abdul Aziz notes that *Fashion* (produced by Harmy Press) and *Mastika* (Utusan Melayu Press) had more than 10,000 copies each per issue.13 (This did not take into account the frequency of printing and it was common for reprints due to high demand.) Other fictional and non-fictional titles (periodicals or books) issued only 5,000 copies per print. While *Fashion* was a weekly periodical, *Mastika* was a monthly literary periodical. This meant that Fashion would have a monthly production of at least 40,000 copies per print whereas *Mastika* would have a monthly production of 10,000 copies per print. This testifies to the popularity of *Fashion* as a popular women’s magazine.
+
+First published in June 1953, *Fashion* was the first magazine in Malaya to promote modern manners and dress among Malay women. It lasted for 15 years. During this time, it was an agent of change for the development of the modern Malay woman. It provided information on areas of cooking, childcare, sewing as well as care for the home. My study on the invention of the modern Malay woman– sheds more light on this.14
+
+***Men’s Magazines in the 1930s and 1950s***
+
+Men dominated the reading culture before the print of women periodicals in the mid-1930s. Given that most print materials were meant for men, would these automatically classify them as men’s magazines? How would we define men’s magazine then? For the purpose of this article, we define men’s magazines to be those which do not only have a primarily male readership but which persuades men to a certain lifestyle and that reflects the men’s standing, class or values. For the Malay men’s magazine, this may lean towards consumerism, but it may not be necessarily so. This is because consumerism within these magazines is reflected as a feminine virtue rather than a male trait.
+
+Although modern scholars like Aziz and Hamedi did not consider men’s magazines to be a genre these existed before the war, men’s magazines have evolved much like the women’s magazines described earlier. As a genre, however, men’s magazines were not established like the women’s magazines. Therefore, their existence has not been examined and discussed in an elaborate study like Hamedi’s.
+
+Men’s magazines before the war were characterised by their religious or nationalistic orientations and their didactic nature. Magazine titles such as *Lidah Teruna* (Johor, June 1920), *Medan Laki-Lak*i (Singapore, 27 September 1935) and *Majalah Pemuda* (Johor, Novermber 1935) are worthy of mention as their names signalled that these magazines were meant for men. However, the magazines did not exclude women as there were columns for women, or columns dedicated to the discourse of women in Islam. The men’s magazines, like the women’s magazines of the period, were similar to general, educational or religious magazines. They were not distinctive as “men’s magazines”.
+
+An insignificant amount of provocative titles was published in the 1930s. This was the beginning of consumer “men’s magazines” that modern life was associated with. Suleiman Ahmad, on behalf of the Royal Publishing Company, was infamous for the production of such men’s magazines. Some of these titles were *Shorga Dunia* (March 1936), *Dunia Sekarang* (14 July 1934) and *Melayu Muda* (13 July 1936).
+
+*Shorga Dunia* was understood to be a men’s magazine. Hamedi categorises *Shorga Dunia* (Earthly Heaven) as “entertainment for the young (hiburan untuk mudamudi)”. In the newspaper *Tanah Melayu* (April 1936) it was reported that 
+
+   "Kanak-kanak dan perawan-perawan tidak<br>
+dibenarkan membaca akhbar ini kerana sesetengah<br>daripada perkataan-perkataan dan gambar-gambar<br> yang di dalamnya mendahsyatkan pemandangan<br> dan membangkitkan keinginan hawa nafsu dengan<br> sekejapnya" *\[children and young women are not <br>allowed to read this because half of the words and<br> photographs contain inside \[this publication\] are<br> destructive to the sight and arouses the desire in an<br> instant\].* 15
 
 
 
