@@ -72,12 +72,6 @@ A man with an intensity of purpose, Yeo Chan Boon epitomised the spirit of gener
 He is remembered as a dedicated and benevolent *huaqiao* (China-born overseas Chinese) who left the shores of his ‘motherland’ and made his mark in Singapore. His contributions to the social and economic development in the pre-independence days of Singapore are manifold and impressive.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">
-The Lee Kong Chian Reference Library has more than 240,000 materials in its collection. Among the various sources, library patrons who are researching on their own family history often consult materials such as the local newspapers from the early 19th century, government and commercial directories, yearbooks and souvenir magazines by schools, business associations and government agencies. To assist patrons who would like to start their own family history research, the Library has recently compiled, Sources on Family History – A Select Bibliography. It lists the resources available at the Library and contains some instructions on how to start your search. You can collect a copy of this bibliography at the Lee Kong Chian Reference Library. The Library is open from Monday to Sunday between 10am to 9pm (except public holidays). If you have any reference enquiries, you can send them to:	<br>
+The Lee Kong Chian Reference Library has more than 240,000 materials in its collection.<br><br> Among the various sources, library patrons who are researching on their own family history often consult materials such as the local newspapers from the early 19th century, government and commercial directories, yearbooks and souvenir magazines by schools, business associations and government agencies.<br><br> To assist patrons who would like to start their own family history research, the Library has recently compiled, Sources on Family History – A Select Bibliography.<br> <br>It lists the resources available at the Library and contains some instructions on how to start your search. You can collect a copy of this bibliography at the Lee Kong Chian Reference Library. <br><br>The Library is open from Monday to Sunday between 10am to 9pm (except public holidays). If you have any reference enquiries, you can send them to:	<br>
 Reference Enquiries:<br> Email: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a><br> SMS: (+65) 9178 7792<br> Fax: (+65) 6332 3248<br><br>
 We also welcome donations of materials related to family history (such as yearbooks and souvenir magazines). Feel free to contact us at: 6546 7275 or 6546 7271 if you would like to do so.</div>
-
-
-
-
-
-
