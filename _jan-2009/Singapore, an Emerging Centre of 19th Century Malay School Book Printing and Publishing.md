@@ -36,11 +36,11 @@ After Raffles founded Singapore in 1819, immigrants from Malacca, China, India a
 
 Education was recognised by Raffles as one of the first needs of his new settlement (Neilson, n.d., p. 1). In 1819, Raffles wrote the first education policy for the island:<br>
 
-1\. To educate the sons of higher order of natives and others; <br> 2. To afford the means of instruction in the native languages to such of the Company’s servants and others as may desire it;<br>  3. To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people (Raffles 1991, p. 33).
+1\. To educate the sons of higher order of natives and others; <br><br> 2. To afford the means of instruction in the native languages to such of the Company’s servants and others as may desire it;<br><br>  3. To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people (Raffles 1991, p. 33).
 
-Reverend Robert Morrison, the distinguished Chinese scholar and first Protestant missionary to China, then read a paper suggesting that the London Missionary Society (LMS) sponsored Anglo Chinese College (1815 –1843) (Harrison 1979, pp. xi–xii) in Malacca be removed to Singapore and amalgamated with the proposed Singapore Institution (Philips 1908, p. 269). The modified proposed Singapore Institution was to consist of three departments:<br>
+Reverend Robert Morrison, the distinguished Chinese scholar and first Protestant missionary to China, then read a paper suggesting that the London Missionary Society (LMS) sponsored Anglo Chinese College (1815–1843) (Harrison 1979, pp. xi–xii) in Malacca be removed to Singapore and amalgamated with the proposed Singapore Institution (Philips 1908, p. 269). The modified proposed Singapore Institution was to consist of three departments:<br>
 
-I. A scientific department for the common advantage of the several College that may be established.II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br>II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br>III. A literary and moral department for the Siamese, Malay, &amp; c., which will be provided for by the Malayan College (Raffles 1991, p. 75)
+I. A scientific department for the common advantage of the several College that may be established.II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br><br>II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br><br>III. A literary and moral department for the Siamese, Malay, &amp; c., which will be provided for by the Malayan College (Raffles 1991, p. 75)
 
 Raffles’ accounts of his educational schemes - one dated 1819, on the establishment of the Malay College at Singapore (Raffles 1991, pp. 23–38), and one dated 1823, describing the foundation and policy of the Singapore Institution (Raffles 1991, pp. 77–86), was intended for the whole region, the Malay Peninsula, Singapore and the Indonesian Archipelago. His educational schemes therefore were designed to include not only the principal peoples of the Malay Peninsula, but also the Javanese, the Bugis, the Siamese and other people from the surrounding islands (Hough, 1933, p. 166).
 
@@ -60,11 +60,6 @@ It was the LMS which first brought printing in Malay to the Straits Settlements 
 
 According to the Annual Reports of the Singapore Institution (1834–1837) and the Singapore Institution Free School (1838–1843), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
 
-**Table 1: Population of Singapore by Race, 1824, 1834, and 1860 showing Malays as the Largest Minority Ethnic Group**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
- <div style="background-color: white;">Crawfurd, 1839, p. 375; Newbold, 1839, p. 285; Braddell, 1861, p. 3.</div>
-
 #### ***The American Board of Commissioners for Foreign Missions (ABCFM) and the Malay classes at the Singapore Institution, 1834–1842***
 
 In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, *Kesah Pelayaran Abdullah* (1838) (Gallop, 1990, p. 97) and *Sejarah Melayu* (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
@@ -74,27 +69,6 @@ The history of the spread of Malay printing in Southeast Asia in the first half 
 #### **Third Phase: Keasberry, the First Official Translator and Printer of Malay School Books, 1847–1875**
 
 In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given.” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12)
-
-**Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%202.JPG" style="width:100%;">
-<div style="background-color: white;">Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, pp. 14, 72, 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</div>
-
-**Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (Selected Years)**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%203.JPG" style="width:100%;">
- <div style="background-color: white;">Notes: According to the <i>Annual Report on the Administration of the Straits Settlements</i> from 1859 to 1864 there were mixed enrolments of boys and girls. Sources: ¹Buckley, 1965, p. 322;² Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.
-</div>
-
-**Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%204.JPG" style="width:100%;">
- <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</div>
- 
-**Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
- <div style="background-color: white;">Jarman, 1998, pp. 218, 366, 370,  522, 640, 744.</div>
 
 In 1856, the Temmenggong of Johore and the East India Company (EIC) each contributed an annual sum of $1,500 to set up two Malay schools, one at Telok Blangah and the other at Kampong Glam, and to support Keasberry’s Malay mission school. In addition, part of the money was used to translate Malay manuscripts and publish them “to instruct Malay youth” (Jarman, 1998, p. 88). Keasberry was the first person to be officially appointed to translate and publish Malay school books for the Colony.
 
@@ -107,21 +81,6 @@ In 1867, the Straits Settlements were transferred from the control of the Indian
 
 In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 per cent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
 
-**Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%206.JPG" style="width:100%;">
- <div style="background-color: white;">Hill, 1892, 284–287; Elcum, 1902, 218–222; Merewether, 1892, 43; Innes 1901, 19.</div>
- 
-**Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901** 
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%207.JPG" style="width:100%;">
- <div style="background-color: white;">Hill 1892, 284–287; Elcum 1902, 218–222; Merewether 1892, 43; Innes 1901, 19.</div>
- 
-**Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%208.JPG" style="width:100%;">
- <div style="background-color: white;">Lim, 1992, pp. 6, 10;¹ Roff, 1972, p. 21;² Penny 1888, pp. 196–199;³ Hill, 1891, pp. 102–105.</div>
- 
 #### **The Establishment and Growth of Government Malay Vernacular Girls’ Schools, 1884–1900**
 
 Malay girls’ schools were only founded in 1884, as there were difficulties to overcome in the establishment of such schools (Hill, 1885, p. 150). In 1901, no more than 2 per cent of Malay girls were enrolled in Malay vernacular girls’ schools in the Straits Settlements (as shown in Table 7). The rapid expansion of Malay vernacular schools in the 19th century was mainly confined to boys’ schools.
@@ -132,16 +91,11 @@ It was not until 1885 that Malay school book printing and publishing resumed wit
 
 In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent were produced by the Government Malay Press (as shown in Tables 9 and 10).
 
-**Table 9: List of 24 Malay School Books Used in Malay Vernacular Schools in 1894**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%209.JPG" style="width:50%;">
- <div style="background-color: white;">¹Isemonger, 1894, p. 43;² Proudfoot, 1993.</div>
- 
-**Table 10: 19 Out of 24 School Books Listed in 1894 Were Printed or Published by the Government Malay Press**
-
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:50%;">
- <div style="background-color: white;"></div>
-
 It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th century Malay school book production and distribution in the Straits Settlements.
 
-**The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper**.
+***The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper.***
+
+
+
+
+
