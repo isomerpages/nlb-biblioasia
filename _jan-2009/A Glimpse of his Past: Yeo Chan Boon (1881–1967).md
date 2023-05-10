@@ -29,7 +29,7 @@ After a tedious voyage, he disembarked at the seafront of Telok Ayer. He settled
 
 Though he faced years of struggle and hardship, he thrived nonetheless in the bustling and fast growing city. With accumulated savings and trading experience, he became a pioneer in the entrepot trade. He became a merchant and started to import agro-commodities from Indonesia and other neighbouring countries. These goods had to be sorted, graded and packaged before being exported to overseas markets.
 
-Gum Copal, Gum Damar (Mata Kuching) and ox-hides were the bulk goods he supplied. From humble beginnings at Boat Quay, he expanded his business, and his company, Yong Guan Seng & Company Limited was re-located to a row of shophouses at Ord Road.
+Gum Copal, Gum Damar (Mata Kuching) and ox-hides were the bulk goods he supplied. From humble beginnings at Boat Quay, he expanded his business, and his company, Yong Guan Seng &amp; Company Limited was re-located to a row of shophouses at Ord Road.
 
 With his business acumen and far-sightedness, Yeo eyed the jewellery trade, which he thought commercially viable. His new venture turned out to be rewarding. Seng Bee (Goldsmith) Company Limited, as it was called, situated along South Bridge Road in Chinatown. It was well patronised and became one of the largest and most well-known Teochew establishments in the jewellery industry.
 
@@ -39,7 +39,7 @@ Apart from devoting his time to business, he took an active interest in the well
 
 As a young elected councillor in the Singapore Chinese Chamber of Commerce, he was responsible for drafting the constitutional rules, and started a membership campaign in 1906. Throughout his tenure of office in the Chamber, he undertook multifarious tasks, serving in Finance, Education and Joint Relief Committees. Most significantly, he represented the interests of the business community and engaged in many campaigns for political rights, citizenship for overseas Chinese, the development of Chinese education and relief fund raising.
 
-Yeo was one of the early pioneers who set up the Singapore Gold & Silver Merchants Association (now known as Singapore Jewellers Association), which provided a platform for co-operation among merchants of different Chinese dialect groups in the jewellery trade. He saw to the welfare of its members and helped to raise funds to purchase their own office premises.
+Yeo was one of the early pioneers who set up the Singapore Gold &amp; Silver Merchants Association (now known as Singapore Jewellers Association), which provided a platform for co-operation among merchants of different Chinese dialect groups in the jewellery trade. He saw to the welfare of its members and helped to raise funds to purchase their own office premises.
 
 In Ngee Ann Kongsi, Teochew Poit Ip Huay Kuan, Singapore Kwantung Association and The Federated Teochew Associations of Malaysia, Yeo played pivotal roles at the helm. He was enthusiastic about fostering unity, mutual assistance and the social welfare of the community at large. An advocate of education, he helped to raise funds for establishing Chinese-medium primary and middle high schools, and sat on the Board of Management of these educational institutions: Tuan Mong High School, Ngee Ann Girls School and Chinese High School. He was also actively engaged in the Federation of Chinese School Teachers and Directors of School Boards.
 
@@ -70,6 +70,12 @@ In January 1953, when Nanyang University was mooted by the Hokkien community lea
 A man with an intensity of purpose, Yeo Chan Boon epitomised the spirit of generosity, compassion and devotion. He was a humanitarian at heart and his motto was “ready to serve for a good cause.”
 
 He is remembered as a dedicated and benevolent *huaqiao* (China-born overseas Chinese) who left the shores of his ‘motherland’ and made his mark in Singapore. His contributions to the social and economic development in the pre-independence days of Singapore are manifold and impressive.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">
+The Lee Kong Chian Reference Library has more than 240,000 materials in its collection. Among the various sources, library patrons who are researching on their own family history often consult materials such as the local newspapers from the early 19th century, government and commercial directories, yearbooks and souvenir magazines by schools, business associations and government agencies. To assist patrons who would like to start their own family history research, the Library has recently compiled, Sources on Family History – A Select Bibliography. It lists the resources available at the Library and contains some instructions on how to start your search. You can collect a copy of this bibliography at the Lee Kong Chian Reference Library. The Library is open from Monday to Sunday between 10am to 9pm (except public holidays). If you have any reference enquiries, you can send them to:	<br>
+Reference Enquiries:<br> Email: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a><br> SMS: (+65) 9178 7792<br> Fax: (+65) 6332 3248<br><br>
+We also welcome donations of materials related to family history (such as yearbooks and souvenir magazines). Feel free to contact us at: 6546 7275 or 6546 7271 if you would like to do so.</div>
+
 
 
 
