@@ -9,6 +9,9 @@ image: /images/Vol 4 Issue 4/YeoChanBoon/yeochanboon.jpg
 ---
 #### Yeo Guan Nor tells the story of her late grandfather, Yeo Chan Boon, who was born in China in 1881 but came to Singapore when he was 18. He later became one of the founding members of the Singapore branch of the Revolutionary Alliance (Tongmenghui) founded by Dr Sun Yat-sen.
 
+<img src="/images/Vol%204%20Issue%204/YeoChanBoon/yeochanboon.jpg" style="width:50%;">
+ <div style="background-color: white;">Yeo Chan Boon in a photograph taken when he was 75 years old. <i>Courtesy of Yeo Guan Nor.</i></div>
+
 I was too young to know my grandfather Yeo Chan Boon while he was still alive. He was in his twilight years when I was born. My earliest recollection of him was that of a stern-looking, balding old man who dressed well in his silk jacket and loose trousers. He wore a moustache and smoked cheroot. His large frame and demeanour exuded an aura of a refined and dignified gentleman. The patriarch of his large extended family living under one roof, he was often addressed by his workers and servants as “Ah Ya”(distinguished sir or towkay), by his children as “Ah Tia” (father), and to his brood of grandchildren, he was simply “Ah Kong” (grandfather).
 
 Other than occasional outings with him, I do not remember any close encounters with my traditional grandfather. Etched vividly in my memories are visits to a holiday villa by the sea at East Coast. While I played, he sat quietly under a shady tree at the bungalow compound, soothed by the soft pounding waves just a distance away. At the Chui Huay Lim Club at Keng Lee Road, he would attend to his club activities while I was left to wander around and watch wayang on the open ground.
@@ -163,7 +166,3 @@ _Yu yu ru yue she cheng li ba shi wu zhou nian ji nian_ [余娱儒乐社成立�
 _Yu yu ru yue she cheng li qi shi wu zhou nian ji nian te kan_ [余娱儒乐社成立七十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84451813) \[Er Woo Amateur Musical &amp; Dramatic Association 75th anniversary, 1912–1987\] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Xin jia po 新加坡: \[Gai she\] \[该社\], 1987). (Call no. Chinese RSING 792.50605957 ER)
 
 \* **Note: To consult materials with prefixes “RCLOS” and “RDTYS”, kindly make your request at Level 11 of the Lee Kong Chian Reference Library.**
-
-
-
-
