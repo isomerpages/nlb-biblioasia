@@ -20,6 +20,39 @@ Jalan Tan Tock Seng is named after Tan Tock Seng. Situated off Moulmein Road, th
 
 Tan Tock Seng was best known and remembered as a philanthropist especially towards the poor in the Chinese community. His contribution towards the setting up of the Chinese Pauper’s Hospital at Pearl’s Hill, which later carried his name, ranked as one of the most significant acts of philanthropy in early Singapore and prompted others to give generously to society for generations to come.
 
+#### **Chitty Road**
+
+Chitty Road is named after the Chitty Melaka or the Peranakan Indian community who migrated from Malacca to Singapore during the late 19th century and settled in the “Little India” area. In the past, it joined Kampong Kapor Road with Jalan Besar.
+
+Some of the Peranakan Indian immigrants found jobs in the public sector working for the colonial government while the others worked as merchants. Some of the merchants were engaged in money lending activities.
+
+#### **D’almeida Street**
+
+Located in the oldest commercial section of Singapore Town in Raffles Place, D’almeida Street is named after Dr Jose D’Almeida. It is one of the oldest streets in Singapore situated in what was then known as “Commercial Square”, where many of the earliest mercantile firms were located. Reference has been made to the street’s name as early as 1861.
+
+Jose D’Almeida was a surgeon in the Portuguese navy who came to Singapore in 1825. On his arrival, D’Almeida established his medical practice in Commercial Square (Raffles Place) under his own name. Soon he decided to become a merchant as well. His business flourished. Later, he included his sons as his business partners and the company was renamed Jose D’Almeida & Sons.
+
+Besides being a merchant, D’Almeida was believed to be the first to venture into plantations in Singapore. He experimented with planting various crops including cotton, coconuts, fruits and spices and coconut and spice plantations flourished.
+
+#### **Eu Tong Sen Street**
+
+In 1918, part of Wayang Street in Chinatown was improved by Eu Tong Sen. The improvements included an extra bridge as well as new railings for the monsoon drain on the New Bridge Road side of Wayang Street, and back lanes for the new theatres that he was about to build along that stretch of Wayang Street. The rebuilt stretch of Wayang Street was renamed Eu Tong Sen Street in 1919 in recognition of his contribution.
+
+Eu Tong Sen was very active in Malaya where he owned several tin mines, medicine shops as well as rubber plantations. He also immersed himself in public affairs being a Justice of the Peace in Perak as well as the Chinese representative in the Federal Council of the Federated Malay States from 1909 - 1920. He was conferred the Order of the British Empire (OBE) for his services.
+
+#### **Kim Seng Road**
+
+Kim Seng Road is named after Tan Kim Seng, a respected community leader and public benefactor, who bore the cost of building the road in the early 1860s.
+
+Tan Kim Seng was one of the earliest settlers from Malacca. A prominent public benefactor and merchant, he came to Singapore at an early age. He established his mercantile firm, Kim Seng & Co., at Boat Quay in 1842. It soon flourished. By the early 1850s, the company had branches at Malacca, Macassar and Shanghai. It also owned land and property in Singapore, and Tan Kim Seng became one of the wealthiest and most prominent Chinese merchants.
+
+#### **Alkaff Avenue**
+
+Alkaff Avenue was named after the Alkaff family of Arab traders and landowners in Singapore. Located off Upper Serangoon Road, it once led to the famous Alkaff Gardens that used to grace much of the present Sennett Estate area.
+
+The first member of the Alkaff family, Syed Mohammed bin Abdulrahman Alkaff arrived in Singapore in 1852. He was a trader from Indonesia who invested in land and property here.
+
+
 
 
 
