@@ -248,6 +248,3 @@ W. H. Medhurst, [_China: Its State and Prospects, With Special Reference to the 
 William Milne, _A Retrospect of the First Ten Years of the Protestant Mission to China_ &nbsp;(Malacca: Anglo-Chinese Press, 1820)
 
 William R. Roff, [_Bibliography of Malay and Arabic Periodicals Published in the Straits Settlements and Peninsular Malay States, 1876–1941: With an Annotated Union List of Holdings in Singapore, Malaysia and the United Kingdom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=542243) (London: Oxford University Press, 1972). (Call no. RCLOS 016.0599923 ROF)
-
-
-
