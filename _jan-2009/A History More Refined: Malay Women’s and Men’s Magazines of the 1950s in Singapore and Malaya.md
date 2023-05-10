@@ -69,6 +69,9 @@ Abdul Aziz notes that *Fashion* (produced by Harmy Press) and *Mastika* (Utusan 
 
 First published in June 1953, *Fashion* was the first magazine in Malaya to promote modern manners and dress among Malay women. It lasted for 15 years. During this time, it was an agent of change for the development of the modern Malay woman. It provided information on areas of cooking, childcare, sewing as well as care for the home. My study on the invention of the modern Malay woman– sheds more light on this.14
 
+<img src="/images/Vol%204%20Issue%204/MalayWomen/waysofeating1.jpg" style="width:50%;">
+ <div style="background-color: white;">Ways of Eating. <i>Pictures taken from Fashion (1956, 1959).</i></div>
+
 ***Men’s Magazines in the 1930s and 1950s***
 
 Men dominated the reading culture before the print of women periodicals in the mid-1930s. Given that most print materials were meant for men, would these automatically classify them as men’s magazines? How would we define men’s magazine then? For the purpose of this article, we define men’s magazines to be those which do not only have a primarily male readership but which persuades men to a certain lifestyle and that reflects the men’s standing, class or values. For the Malay men’s magazine, this may lean towards consumerism, but it may not be necessarily so. This is because consumerism within these magazines is reflected as a feminine virtue rather than a male trait.
