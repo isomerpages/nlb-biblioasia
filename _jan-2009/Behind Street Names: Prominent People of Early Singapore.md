@@ -82,6 +82,12 @@ Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd,
 <b>BEHIND STREET NAMES: PROMINENT PEOPLE OF EARLY SINGAPORE EXHIBITION </b><br><br>
 Lee Kong Chian Reference Library, Level 10<br> National Library 25 October 2008–15 March 2009<br> 10 am–9 pm (Closed on Public Holidays)</div>
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Mazelan_Anuar.png">
+<center><b>Mazelan Anuar</b><br>Librarian<br> Lee Kong Chian Reference Library<br>National Library</center>  </div>
+
 
 
 
