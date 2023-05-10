@@ -9,6 +9,9 @@ image: /images/Vol 4 Issue 4/MalayWomen/modern dress1.jpg
 ---
 ####  This essay covers the historiography of Malay periodicals of the 1950s. It elucidates the use of magazines as vital historical sources, and traces the history of magazines for women and men in Singapore.
 
+<img src="/images/Vol%204%20Issue%204/MalayWomen/modern%20dress1.jpg" style="width:80%;">
+ <div style="background-color: white;">Montages of Modern Dress.<i> Picture taken from Fashion (1961).</i></div>
+
 This article covers the historiography of Malay periodicals of the 1950s. It elucidates the use of magazines as vital historical sources and the history of magazines for women and men in Singapore and Malaya.
 
 #### **Magazines as Historical Sources**
@@ -117,6 +120,3 @@ Interesting examples from periodicals reinforced the shared understanding by cul
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Kartini.jpg">
 <center><b>Kartini Saparudin</b><br>Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
-
-
-
