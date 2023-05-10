@@ -65,6 +65,9 @@ Departing from Hamedi’s broad definition of women’s magazines we can redefin
 
 The latter were new to the Malay audience until the 1950s. *Fashion* is an example of a popular magazine which had a broad appeal, catering not only to women who are students or teachers but Malay women of all classes. Hamedi, however, does not identify *Fashion* as a women’s magazine despite it being listed in his directory.12 It was also not classified under any other genres.
 
+<img src="/images/Vol%204%20Issue%204/MalayWomen/household%20tips1.jpg" style="width:50%;">
+<div style="background-color: white;">Household Tips.<i> Picture taken from Fashion (1961).</i></div>
+
 Abdul Aziz notes that *Fashion* (produced by Harmy Press) and *Mastika* (Utusan Melayu Press) had more than 10,000 copies each per issue.13 (This did not take into account the frequency of printing and it was common for reprints due to high demand.) Other fictional and non-fictional titles (periodicals or books) issued only 5,000 copies per print. While *Fashion* was a weekly periodical, *Mastika* was a monthly literary periodical. This meant that Fashion would have a monthly production of at least 40,000 copies per print whereas *Mastika* would have a monthly production of 10,000 copies per print. This testifies to the popularity of *Fashion* as a popular women’s magazine.
 
 First published in June 1953, *Fashion* was the first magazine in Malaya to promote modern manners and dress among Malay women. It lasted for 15 years. During this time, it was an agent of change for the development of the modern Malay woman. It provided information on areas of cooking, childcare, sewing as well as care for the home. My study on the invention of the modern Malay woman– sheds more light on this.14
