@@ -75,3 +75,95 @@ He is remembered as a dedicated and benevolent *huaqiao* (China-born overseas Ch
 The Lee Kong Chian Reference Library has more than 240,000 materials in its collection.<br><br> Among the various sources, library patrons who are researching on their own family history often consult materials such as the local newspapers from the early 19th century, government and commercial directories, yearbooks and souvenir magazines by schools, business associations and government agencies.<br><br> To assist patrons who would like to start their own family history research, the Library has recently compiled, Sources on Family History – A Select Bibliography.<br> <br>It lists the resources available at the Library and contains some instructions on how to start your search. You can collect a copy of this bibliography at the Lee Kong Chian Reference Library. <br><br>The Library is open from Monday to Sunday between 10am to 9pm (except public holidays). If you have any reference enquiries, you can send them to:	<br>
 Reference Enquiries:<br> Email: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a><br> SMS: (+65) 9178 7792<br> Fax: (+65) 6332 3248<br><br>
 We also welcome donations of materials related to family history (such as yearbooks and souvenir magazines). Feel free to contact us at: 6546 7275 or 6546 7271 if you would like to do so.</div>
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/yeo%20guan%20nor.jpg">
+<center><b>Yeo Guan Nor</b><br>Independent Researcher</center></div>
+
+#### **REFERENCES**
+
+**English Titles**
+
+Ban Kah Choon, [_Absent History: The Untold Story of Special Branch Operations in Singapore 1915–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10249478) (Singapore: Raffles, 2001). (Call no. RSING 327.125957 BAN)
+
+Chinese High School (Singapore), [_The Chinese High School Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10759386). (Singapore: Chinese High School, \[19--\]). (Call no. RCLOS q373.5957 CHSM)
+
+Chuang Hui-Tsuan, [_Malayan Chinese Resistance to Japan 1937–1945: Selected Source Materials Based on Colonel Chuang Hui-Tsuan’s Collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200030311) (Singapore: Cultural &amp; Historical Pub. House, 1984). (Available via PublicationSG)
+
+Grace Loh and Lee Su Yin, [_Beyond Silken Robes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9172699) (Singapore: Times Academic Press 1998). (Call no. RSING 338.0409225957 LOH)
+
+Melanie Chew, [_Leaders of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7647597) (Singapore: Resource Press, 1996). (Call no. RSING 920.05957 CHE)
+
+Richard Lim, [_Building a Singapore Bank: The OUB Story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9351543) (Singapore: Overseas Union Bank Limited, \[1999\]). (Call no. RSING 332.1095957 LIM)
+
+Tan Beng Luan and Irene Quah, [_The Japanese Occupation 1942–1945: A Pictorial Record of Singapore During the War_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7971548) (Singapore: Times Editions, 1996). (Call no. RSING 940.5425 TAN-\[WAR\]
+
+Victor Sim, ed., [_Biographies of Prominent Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4983065) (Singapore: Nan Kok Pub., 1950). (Call no. RCLOS 920.05957 SIM)
+
+Yong Chin Fatt, [_Chinese Leadership and Power in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6421722) (Singapore: Times Academic Press, 1992). (Call no. RSING 959.5702 YON-\[HIS\])
+
+**Chinese Titles**
+
+Chao An Guild Hall 潮安会馆, _Chao an huiguan hui xun_ [潮安会馆会讯](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12859494) \[Newsletter from Chaoan Guild Hall\] (Xinjiapo 新加坡: Chao'an hui guan 潮安会馆, 2002). (Call no. Chinese RSING 369.25957 CAHGHX)
+
+Er Woo Amateur Musical &amp; Dramatic Association 馀娱儒乐社, _Liu shi zhou nian ji nian te kan_ [六十周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84522502) \[60th anniversary special issue\] (Xinjiapo 新加坡: \[n.p.\] \[出版 社缺\], 1978). (Call no. Chinese RCLOS 790.206 EWA)
+
+Er Woo Amateur Musical &amp; Dramatic Association 馀娱儒乐社, _Yu yu ru yue she cheng li ba shi zhou nian ji nian te kan_ [馀娱儒乐社成立八十周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84519429) (Er Woo Amateur Musical &amp; Dramatic Association 80th anniversary souvenir magazine) (Xin jia po 新加坡: \[Gai she\] \[该社\], 1992). (Call no. Chinese RSING 792.50605957 ER)
+
+Huang Jinying 黄今英主, _Duan meng zhong xue qi shi zhou nian ji nian kan_ [端蒙中学七十周年纪念刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12891639) \[Tuan Mong High School 1906–1976\] (Xinjiapo 新加坡: Duan meng zhong xue 端蒙中学, 1976). (Call no. Chinese RSING 373.5957 TUA)
+
+Huang Yihua 黄溢华, _Yi he xuan jiu shi zhou nian ji nian te kan, 1895–1985_ [怡和轩九十周年纪念特刊, 1895–1985](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84563241) \[Jardine Heen 90th anniversary special booklet 1895–1985\] (\[Xinjiapo\] \[新加坡\] : Da shui niu chu ban ji gou 大水牛出版机构, 1985). (Call no. Chinese RSING 369.25957 YHX)
+
+Law Wing Hang 罗永亨, ed., _Xin jia po zhong hua zong shang hui ba shi zhou nian ji nian te kan_ [新加坡中华总商会八十周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006) \[Singapore Chinese chamber of Commerce &amp; Industry 80th anniversary souvenir\] (Xin jia po 新加坡: Chen qi you 陈启祐, 1986). (Call no. Chinese RSING 380.10655957 SIN)
+
+Li Guseng 李谷僧, ed., _Xin jia po duan meng zhong xue wu shi zhou nian ji nian kan_ [新加坡端蒙中学五十周年纪念刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10488747) \[Singapore Tuan Meng secondary school 50th anniversary commemorative publication\] (Xin jia po 新加坡: Xin jia po duan meng zhong xue 新加坡 端蒙中学, 1956). (Call no. Chinese RCLOS q373.5957 XJP)
+
+Lin Wendan and Feng Qinglian 林文丹 and 冯清莲, _Xinjiapo zong xiang hui guan shi lue_ [新加坡宗乡会馆史略](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12665149) \[History of Clan Associations in Singapore\] (Xinjiapo 新加坡: Xinjiapo zong xiang hui guan lian he zong hui 新加坡宗乡会馆联合总会, 2005). (Call no. Chinese RSING q369.25957)
+
+Luo Ziwei 罗子葳, _Xinjiapo Zhonghua zong shang hui qing zhu zuan xi ji nian te kan_ [新加坡中华总商会庆祝钻禧纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12282616) \[Chinese Entrepreneur Association celebrates diamond jubilee special issue\] (\[Xinjiapo 新加坡: Shang you chu ban gong si 商 友出版公司, 1966\]). (Call no. Chinese RCLOS 381.06095957 SIN)
+
+Nanyang Society 南洋学会, Nanhai xuehui zazhi [_南洋学__报_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489) \[Journal of the South Seas Society\] (1940–). (Call no. Chinese RSING 959.005 JSSS)
+
+Singapore Chinese Chamber of Commerce &amp; Industrial 新加坡中华总商会, _Xinjiapo Zhonghua zong shang hui da sha luo cheng ji nian kan_ [新加坡中华总商会大厦落成纪念刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84477240) \[Singapore Chinese Chamber of Commerce and Industry Building commemorative publication\] (Xinjiapo 新加坡: \[n.p.\] \[出版社缺\], 1964). (Call no. Chinese RCLOS 380.10655957 SIN)
+
+Singapore Chinese Chamber of Commerce 新加坡中华总商会, _Ji nian te kan: Di 60 zhou nian–1967_ [纪念特刊: 第60周年–1967](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84515142) \[60th Anniversary–1967\] (Xinjiapo 新加坡: \[n.p.\] \[出版 社缺\], 1967–). (Call no. Chinese RCLOS 381.095957 CCCS)
+
+Singapore Kwangtung Huay Kuan 新加坡广东会馆, _Guangdong hui guan qing zhu liu shi zhou nian ji nian: 1937–1997_ [广东会馆庆祝六十周年纪念: 1937–1997](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84477909) \[Cantonese Huay Kuan celebrates its 60th anniversary: ​​1937–1997\] (Xinjiapo 新加坡: Xinjiapo Guangdong hui guan 新加坡广东会馆, \[19--\]). (Call no. Chinese RSING 369.25957 GDH)
+
+Singapore Teo Ann Lien Ngee Seah 新加坡潮安联谊社, _Xinjiapo chao an lianyi she jinian tekan.1952 nian–di 15 zhou nian–_ [新加坡潮安联谊社纪念特刊. 1952年–第15周年\-](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84519137) \[Singapore Teochew Association commemorative special issue. 1952–15th anniversary–\] (Xinjiapo 新加坡: \[n.p.\] \[出版社缺\], 1952–). (Call no. Chinese RCLOS 369.25957 STALNS)
+
+Teo Chew (Poit Ip) Huay Kuan 潮州八邑会馆, _Ji nian te kan: di si shi zhou nian–1969_ [纪念特刊: 第40周年–1969](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84518805) \[Commemorative special issue: 40th anniversary–1969\] (Xinjiapo 新加坡: Chaozhou ba yi hui guan 潮州八邑 会馆, 1969–). (Call no. Chinese RCLOS 369.25957 TCPIHK)
+
+Thong Chai Medical Institution 同济医院, _Tongji yiyuan dasha luocheng jinian tekan 1979_ [同济医院大厦落成纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84480793) \[Tongji hospital building completion commemorative special issue\] (Xinjiapo 新加坡: \[Gai yuan chu ban wei yuan hui\] \[该院出版委员 会\], 1979). (Call no. Chinese RSING 362.12095957 THO)
+
+Thong Chai Medical Institution Library 同济医院 中医药图书馆, _Tong ji yi yuan zhong yi yao tu shu guan shou ce_ [同济医院中医药图书馆手册](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84487842) \[Tongji hospital traditional chinese medicine library handbook\] (Xin jia po 新加 坡 : \[该医院\] \[Gai yi yuan\], 1979). (Call no. Chinese RSING 027.662 THO-\[LIB\])
+
+Thong Chai Medical Institution (Singapore) 同济医院 (新加坡), _Xinjiapo tong ji yi yuan yi bai zhou nian ji nian te kan_ [新加坡同济医院一百周年纪念 特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10228355) \[Singapore Tong Chai Hospital 100th anniversary special issue\] (Xinjiapo 索书号: Tong ji yi yuan bai nian te kan chu ban wei yuan hui 同济医院百年特刊出版委员会, 1967). (Call no. Chinese RCLOS q362.11095957 THO)
+
+Thong Chai Medical Institution 同济医院, _Di jiu shi san zhi jiu shi liu zhou nian gai kuang hui ji_ [第九十三至九十六周年概况汇辑](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84449429) \[93rd to 96th anniversary fact sheet\] (Xin jia po 新加坡: \[n.p. identified\] \[出版社缺\], 1968). (Call no. Chinese RDTYS 610.95957 TCM)
+
+Thong Chai Medical Institution (Singapore) 新加坡同济医院, _Tong ji yi yuan hui yuan_ [同济医院会员名录](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84480658) \[Singapore Tong Chai Hospital\] (Xin jia po 新加坡: Ma hua yin shua gong si 马华印刷公司, 1961). (Call no. Chinese RCLOS 362.12095957 SIN)
+
+Thong Chai Medical Institution (Singapore) 新加坡同济医院,_Xinjiapo tong ji yi yuan 135 zhou nian ji nian te kan: 1867–2002_ [新加坡同济医院135周年纪念特刊: 1867—2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12753753) \[Singapore Tong Chai Hospital 135th anniversary special issue: 1867–2002\] (\[Chu ban di que 出版地缺 : Chu ban she que 出版社缺\], 2002). (Call no. Chinese RSING 610.951 SIN)
+
+Thong Chi Medical Institution 新加坡同济医院, _Xin jia po tong ji yi yuan yi bai zhou nian ji nian te kan_ [新加坡同济医院一百周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84462169) \[Tongji Hospital commemorative special issue\] (Xin jia po 新加坡: \[n.p.\] \[出版社缺\], 1970). (Call no. Chinese RCLOS 362.95957 STCMI)
+
+Tuan Mong High School 端蒙中学, _Duan meng zhong xue ... bi ye ji nian kan_ [端蒙中学 ... 毕业纪念刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12755263) \[Tuan Mong High School graduation souvenir magazine\] (Xinjiapo 新加坡 : Tuan Mong High School 端蒙中学, 1979–) (Call no. Chinese RCLOS 373.5957 TMHS)  
+  
+Tuan Mong High School 端蒙中学, _Duan meng zhong xue qi shi wu zhou nian xiao qing te kan_ [端蒙中学七十五周年校庆特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84493193) \[Tuan Mong High School 75th anniversary celebration souvenir magazine\] (Xinjiapo 新加坡: \[Gai zhong xue\] \[该 中学\], 1981). (Call no. Chinese RLOS 373.5957 TUA)
+
+Xu Yunqiao and Cai Shijun 许云樵 and 蔡史君, _Xin Ma Hua ren kang Ri shi liao 1937–1945_ [新马华人抗日史料](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84454889) 1937–1945 \[Malayan Chinese resistance to Japan 1937–1945\] (Xinjiapo 新加: Wen shi chu ban gong si 文史出 版公司, 1984). (Call no. Chinese RSING 959.57023 MAL-\[HIS\])
+
+_Yang shi da sha luo cheng dian li ji nian te kan, 1985_ [杨氏大厦落成典礼纪念特刊, 1985](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12719293) \[Yeo’s Building opening ceremony souvenir magazine, 1985\] (\[Xinjiapo 新加坡\]: Yang shi da sha luo cheng dian li gong zuo wei yuan hui\] 杨氏大厦落成典礼工作委员会, 1985). (Call no. Chinese RSING q369.25957 YEO)
+
+_Yu yu ru yue she cheng li ba shi wu zhou nian ji nian_ [余娱儒乐社成立八十五周年纪念](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84484499) \[85 anniversary Er Woo Amateur Musical &amp; Dramatic Association\] (Xin jia po 新加坡: \[Gai she\] \[该社\], 1997). (Call no. Chinese RSING 792.50605957 EIG)
+
+_Yu yu ru yue she cheng li qi shi wu zhou nian ji nian te kan_ [余娱儒乐社成立七十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84451813) \[Er Woo Amateur Musical &amp; Dramatic Association 75th anniversary, 1912–1987\] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Xin jia po 新加坡: \[Gai she\] \[该社\], 1987). (Call no. Chinese RSING 792.50605957 ER)
+
+\* **Note: To consult materials with prefixes “RCLOS” and “RDTYS”, kindly make your request at Level 11 of the Lee Kong Chian Reference Library.**
+
+
+
+
