@@ -109,7 +109,7 @@ Due to its popularity, *Aneka Warna* managed to save Qalam press from financial 
 
 *Asmara*, another magazine of this genre, reinforced *Aneka Warna* as a men’s magazine in its description of *Aneka Warna* (November 1954)
 
-   "Lain daripada yang lain, dapat menghiburkan tuan-<br>   tuan dan dapat memberi tauladan kepada tuan-<br>   tuan. Tetapi ingat! Kanak-kanak dinasihatkan jangan <br>   membacanya! Hanya untuk orang-orang dewasa <br>   yang gemar mengambil masa lapang, menghiburkan <br> hati dengan bacaan-bacaan ringan…" *\[Different <br>   \[from the rest\], able to entertain the men and able to <br>   provide guidance to men. But remember! Children <br>   are advised not to read it! These are for the adults <br>   who love their leisure, to amuse themselves with <br>   light reading…\]*.[^19]
+   "Lain daripada yang lain, dapat menghiburkan tuan-<br>   tuan dan dapat memberi tauladan kepada tuan-<br>   tuan. Tetapi ingat! Kanak-kanak dinasihatkan jangan <br>   membacanya! Hanya untuk orang-orang dewasa <br>   yang gemar mengambil masa lapang, menghiburkan <br>   hati dengan bacaan-bacaan ringan…" *\[Different <br>   \[from the rest\], able to entertain the men and able to <br>   provide guidance to men. But remember! Children <br>   are advised not to read it! These are for the adults <br>   who love their leisure, to amuse themselves with <br>   light reading…\]*.[^19]
 
 What was noteworthy was that the female readers of the 1950s were not forbidden to read this genre of men’s magazines. This was not the case for women in the 1930s, indicating a change in attitude towards what was permissible for women’s reading pleasure.
 
@@ -168,5 +168,3 @@ Interesting examples from periodicals reinforced the shared understanding by cul
 [^18]: Hamedi, [_Direktori Majalah-Majalah Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11713625), 250.&nbsp;
 
 [^19]: Hamedi, [_Direktori Majalah-Majalah Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11713625), 246.
-
-
