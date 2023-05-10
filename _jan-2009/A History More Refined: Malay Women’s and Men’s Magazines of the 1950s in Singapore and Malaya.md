@@ -128,8 +128,3 @@ Interesting examples from periodicals reinforced the shared understanding by cul
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Kartini.jpg">
 <center><b>Kartini Saparudin</b><br>Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
-
-
-
-
-
