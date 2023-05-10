@@ -16,13 +16,27 @@ In early Singapore, the Municipal Councillors or Commisioners were in charge of 
 
 #### **Jalan Tan Tock Seng**
 
+<img src="/images/Vol%204%20Issue%204/StreetNames/tantockseng1.jpg" style="width:50%;">
+ <div style="background-color: white;">Tan Tock Seng – Singapore’s pioneering entrepreneur and philanthropist.
+<i>Lee, S. H. (1994). 150 years of caring: The legacy of Tan Tock Seng Hospital (pg 14). Singapore: The Hospital.</i></div>
+
 Jalan Tan Tock Seng is named after Tan Tock Seng. Situated off Moulmein Road, the road had existed as an unnamed road when the Tan Tock Seng Hospital moved to its present site in 1909.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/tantockseng%20-%20justices.jpg" style="width:80%;">
+ <div style="background-color: white;">Tan Tock Seng was much respected by the Chinese community as well as by the British. He was the first Asian Justice of the Peace in Singapore.<i>The Straits Times almanac, calendar and directory for the year 1846. (1846). Singapore: Straits Times Press, p. 34. (Microfilm NL2363)</i></div>
 
 Tan Tock Seng was best known and remembered as a philanthropist especially towards the poor in the Chinese community. His contribution towards the setting up of the Chinese Pauper’s Hospital at Pearl’s Hill, which later carried his name, ranked as one of the most significant acts of philanthropy in early Singapore and prompted others to give generously to society for generations to come.
 
 #### **Chitty Road**
 
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/chiitty1.jpg" style="width:50%;">
+ <div style="background-color: white;">An Indian merchant in the 1900s. From the mid – 1920s, the term “Chetty” which had been used interchangeably with “Chitty” was being replaced by the more dignified term “Chettiar”. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Chitty Road is named after the Chitty Melaka or the Peranakan Indian community who migrated from Malacca to Singapore during the late 19th century and settled in the “Little India” area. In the past, it joined Kampong Kapor Road with Jalan Besar.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/promissory%20note.jpg" style="width:80%;">
+ <div style="background-color: white;">A promissory note of R.M.C. Veerappa Chitty issued in 1886. This note was one of the loan contract documents use by moneylenders at that time.<i> Courtesy of Koh Seow Chuan.</i></div>
 
 Some of the Peranakan Indian immigrants found jobs in the public sector working for the colonial government while the others worked as merchants. Some of the merchants were engaged in money lending activities.
 
