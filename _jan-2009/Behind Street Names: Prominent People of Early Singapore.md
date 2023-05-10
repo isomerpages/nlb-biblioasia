@@ -52,7 +52,23 @@ Alkaff Avenue was named after the Alkaff family of Arab traders and landowners i
 
 The first member of the Alkaff family, Syed Mohammed bin Abdulrahman Alkaff arrived in Singapore in 1852. He was a trader from Indonesia who invested in land and property here.
 
+#### **Whampoa Road**
 
+Whampoa Road is named after Hoo Ah Kay, a prominent entrepreneur and public servant, who was popularly known as Whampoa after his birthplace, a suburb, in Canton. The road stretched from Kim Keat Road and ended at Whampoa Square.
+
+An enterprising and well-respected man, Whampoa was appointed a Justice of the Peace, a Grand Juror, and Consul for China, Japan and Russia in Singapore. He was the first local to be appointed to the Legislative Council in 1869. On 10 May 1876, he was appointed to the C.M.G. (Companionship of the Most Distinguished Order of St. Michael and St. George), the first Chinese to be bestowed this honour by Britain.
+
+#### **Jiak Kim Street**
+
+Jiak Kim Street is named in the late 1910s, after Tan Jiak Kim, a grandson of Tan Kim Seng. Before the development of the area, shops, offices, stores and godowns used to line the street. Now the area has been developed into one of riverfront living, with condominiums and a hotel.
+
+Tan Jiak Kim is renowned for his service to the government and community. He was appointed to the Legislative Council in 1889 when he was only 30 years old. He was also a Municipal Commissioner, member of the Chinese Advisory Board, and a Justice of the Peace, and served on many Government commissions.
+
+#### **Nee Soon Road**
+
+Nee Soon Road was named after Lim Nee Soon in 1950. It was regarded as a “rural” road being far away from the town. In the early 1900s, rubber plantations were found here, where Lim embarked on his pioneering journey as a rubber and pineapple planter.
+
+Lim Nee Soon played an active role in the public affairs of the Colony, especially in education. He was a Justice of the Peace and a member of the Rural Board. He contributed generously to the Chinese High School and was its treasurer when it was opened in 1919.
 
 
 
