@@ -74,10 +74,10 @@ Lim Nee Soon played an active role in the public affairs of the Colony, especial
 	
 The Koh Seow Chuan Collection is a valuable resource for historical and social research on Singapore. The collaborations between the National Library Board and Mr Koh Seow Chuan have made it possible for members of the public to access his rich resources for research. The legal documents which include hand-crafted letters and petitions in their original form are some of the prized possessions of the collection.
 	
-Members of the public may view the collection on the 10th floor of the Lee Kong Chian Reference Library during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter at level 11. The collection is to be used within the library’s premises.
+Members of the public may view the collection on the 10th floor of the Lee Kong Chian Reference Library during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter at level 11. The collection is to be used within the library’s premises.<br><br>
 	
 <b>ABOUT MR KOH SEOW CHUAN</b><br><br>
-Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a worldrenowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.
+Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a worldrenowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.<br><br>
 	
 <b>BEHIND STREET NAMES: PROMINENT PEOPLE OF EARLY SINGAPORE EXHIBITION </b><br><br>
 Lee Kong Chian Reference Library, Level 10<br> National Library 25 October 2008–15 March 2009<br> 10 am–9 pm (Closed on Public Holidays)</div>
@@ -87,7 +87,3 @@ Lee Kong Chian Reference Library, Level 10<br> National Library 25 October 2008�
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Mazelan_Anuar.png">
 <center><b>Mazelan Anuar</b><br>Librarian<br> Lee Kong Chian Reference Library<br>National Library</center>  </div>
-
-
-
-
