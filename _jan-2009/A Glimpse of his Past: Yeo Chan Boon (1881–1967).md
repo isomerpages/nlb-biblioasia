@@ -26,6 +26,10 @@ In school, he was educated in the old literary language (Wen Yen) and read “Fo
 
 At the age of 18, Yeo had to leave home for the first time in his life. Though apprehensive about facing an alien environment, he did not back out. He left Wen Li village in Teo Ann county to join his father in Singapore. He bade farewell to his family, loved ones and to the simple pleasures of his daily life.
 
+<img src="/images/Vol%204%20Issue%204/YeoChanBoon/wen%20li%20village.jpg" style="width:80%;">
+ <div style="background-color: white;">Wen Li village in China in 1987. <i>Courtesy of Yeo Guan Nor.</i></div>
+
+
 At the city port of Shantou, he joined fellow countrymen aboard the ‘fish-eye’ Chinese junk and set sail to their destination. The high seas were rough, food was minimal and crammed living conditions were almost unbearable. It was a perilous journey they endured.
 
 After a tedious voyage, he disembarked at the seafront of Telok Ayer. He settled down quickly at Boat Quay, where his father had a cloth piece goods shop. Young and energetic, he worked hard in the trade and learnt the ropes in no time. At every opportunity, he sought to understand the economic and social conditions under the colonial rule at that time. He had plans to go into other business sectors.
