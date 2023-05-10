@@ -36,6 +36,9 @@ Gum Copal, Gum Damar (Mata Kuching) and ox-hides were the bulk goods he supplied
 
 With his business acumen and far-sightedness, Yeo eyed the jewellery trade, which he thought commercially viable. His new venture turned out to be rewarding. Seng Bee (Goldsmith) Company Limited, as it was called, situated along South Bridge Road in Chinatown. It was well patronised and became one of the largest and most well-known Teochew establishments in the jewellery industry.
 
+<img src="/images/Vol%204%20Issue%204/YeoChanBoon/sengbee%20ad.jpg" style="width:50%;">
+ <div style="background-color: white;">Seng Bee advertisement in 1950. <i>Courtesy of Yeo Guan Nor.</i></div>
+
 He also had other financial investments in banking, rubber and general produce companies. He was one of the founding groups of Teochew merchants who pooled their resources to establish Sze Hai Tong Banking and Insurance Company, the second oldest Chinese bank founded in Singapore. When Overseas Union Bank Limited was set up, he became one of its shareholders. Two local companies he had some holdings in were Tai Thong Rubber Works Limited and Yong Tai Produce Company.
 
 Apart from devoting his time to business, he took an active interest in the wellbeing of the Chinese community. He played an active role in many community-wide voluntary associations and immersed himself indefatigably in social, educational and cultural work.
