@@ -55,7 +55,14 @@ Besides being a merchant, D’Almeida was believed to be the first to venture in
 
 #### **Eu Tong Sen Street**
 
+<img src="/images/Vol%204%20Issue%204/StreetNames/eutongsen.jpg" style="width:50%;">
+ <div style="background-color: white;">Eu Tong Sen – Singapore’s pioneering builder and entrepreneur.<i> Song, O.S. (1923). One hundred years’ history of the Chinese in Singapore (p. 332). London: Murray. (Microfilm NL3280).</i></div>
+
 In 1918, part of Wayang Street in Chinatown was improved by Eu Tong Sen. The improvements included an extra bridge as well as new railings for the monsoon drain on the New Bridge Road side of Wayang Street, and back lanes for the new theatres that he was about to build along that stretch of Wayang Street. The rebuilt stretch of Wayang Street was renamed Eu Tong Sen Street in 1919 in recognition of his contribution.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/etspowerattorney.jpg" style="width:80%;">
+ <div style="background-color: white;">In the Power of Attorney dated 18 February 1924, Eu Tong Sen appointed three persons as attorneys with power to act on his behalf in banking matters related to his business. 
+<i>Courtesy of Koh Seow Chuan.</i></div>
 
 Eu Tong Sen was very active in Malaya where he owned several tin mines, medicine shops as well as rubber plantations. He also immersed himself in public affairs being a Justice of the Peace in Perak as well as the Chinese representative in the Federal Council of the Federated Malay States from 1909 - 1920. He was conferred the Order of the British Empire (OBE) for his services.
 
