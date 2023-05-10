@@ -91,7 +91,7 @@ The Koh Seow Chuan Collection is a valuable resource for historical and social r
 Members of the public may view the collection on the 10th floor of the Lee Kong Chian Reference Library during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter at level 11. The collection is to be used within the library’s premises.<br><br>
 	
 <b>ABOUT MR KOH SEOW CHUAN</b><br><br>
-Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a worldrenowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.<br><br>
+Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a world-renowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.<br><br>
 	
 <b>BEHIND STREET NAMES: PROMINENT PEOPLE OF EARLY SINGAPORE EXHIBITION </b><br><br>
 Lee Kong Chian Reference Library, Level 10<br> National Library 25 October 2008–15 March 2009<br> 10 am–9 pm (Closed on Public Holidays)</div>
