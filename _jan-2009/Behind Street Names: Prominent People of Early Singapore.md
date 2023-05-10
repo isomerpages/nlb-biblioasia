@@ -30,7 +30,7 @@ Some of the Peranakan Indian immigrants found jobs in the public sector working 
 
 Located in the oldest commercial section of Singapore Town in Raffles Place, D’almeida Street is named after Dr Jose D’Almeida. It is one of the oldest streets in Singapore situated in what was then known as “Commercial Square”, where many of the earliest mercantile firms were located. Reference has been made to the street’s name as early as 1861.
 
-Jose D’Almeida was a surgeon in the Portuguese navy who came to Singapore in 1825. On his arrival, D’Almeida established his medical practice in Commercial Square (Raffles Place) under his own name. Soon he decided to become a merchant as well. His business flourished. Later, he included his sons as his business partners and the company was renamed Jose D’Almeida & Sons.
+Jose D’Almeida was a surgeon in the Portuguese navy who came to Singapore in 1825. On his arrival, D’Almeida established his medical practice in Commercial Square (Raffles Place) under his own name. Soon he decided to become a merchant as well. His business flourished. Later, he included his sons as his business partners and the company was renamed Jose D’Almeida &amp; Sons.
 
 Besides being a merchant, D’Almeida was believed to be the first to venture into plantations in Singapore. He experimented with planting various crops including cotton, coconuts, fruits and spices and coconut and spice plantations flourished.
 
@@ -44,7 +44,7 @@ Eu Tong Sen was very active in Malaya where he owned several tin mines, medicine
 
 Kim Seng Road is named after Tan Kim Seng, a respected community leader and public benefactor, who bore the cost of building the road in the early 1860s.
 
-Tan Kim Seng was one of the earliest settlers from Malacca. A prominent public benefactor and merchant, he came to Singapore at an early age. He established his mercantile firm, Kim Seng & Co., at Boat Quay in 1842. It soon flourished. By the early 1850s, the company had branches at Malacca, Macassar and Shanghai. It also owned land and property in Singapore, and Tan Kim Seng became one of the wealthiest and most prominent Chinese merchants.
+Tan Kim Seng was one of the earliest settlers from Malacca. A prominent public benefactor and merchant, he came to Singapore at an early age. He established his mercantile firm, Kim Seng &amp; Co., at Boat Quay in 1842. It soon flourished. By the early 1850s, the company had branches at Malacca, Macassar and Shanghai. It also owned land and property in Singapore, and Tan Kim Seng became one of the wealthiest and most prominent Chinese merchants.
 
 #### **Alkaff Avenue**
 
@@ -69,6 +69,18 @@ Tan Jiak Kim is renowned for his service to the government and community. He was
 Nee Soon Road was named after Lim Nee Soon in 1950. It was regarded as a “rural” road being far away from the town. In the early 1900s, rubber plantations were found here, where Lim embarked on his pioneering journey as a rubber and pineapple planter.
 
 Lim Nee Soon played an active role in the public affairs of the Colony, especially in education. He was a Justice of the Peace and a member of the Rural Board. He contributed generously to the Chinese High School and was its treasurer when it was opened in 1919.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>KOH SEOW CHUAN COLLECTION</b><br><br>
+	
+The Koh Seow Chuan Collection is a valuable resource for historical and social research on Singapore. The collaborations between the National Library Board and Mr Koh Seow Chuan have made it possible for members of the public to access his rich resources for research. The legal documents which include hand-crafted letters and petitions in their original form are some of the prized possessions of the collection.
+	
+Members of the public may view the collection on the 10th floor of the Lee Kong Chian Reference Library during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter at level 11. The collection is to be used within the library’s premises.
+	
+<b>ABOUT MR KOH SEOW CHUAN</b><br><br>
+Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a worldrenowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.
+	
+<b>BEHIND STREET NAMES: PROMINENT PEOPLE OF EARLY SINGAPORE EXHIBITION </b><br><br>
+Lee Kong Chian Reference Library, Level 10<br> National Library 25 October 2008–15 March 2009<br> 10 am–9 pm (Closed on Public Holidays)</div>
 
 
 
