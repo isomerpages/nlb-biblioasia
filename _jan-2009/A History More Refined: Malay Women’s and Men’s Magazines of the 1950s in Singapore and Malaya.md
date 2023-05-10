@@ -129,7 +129,7 @@ Interesting examples from periodicals reinforced the shared understanding by cul
 <img style="width: 100px; height: 100px;" src="/images/Authors/Kartini.jpg">
 <center><b>Kartini Saparudin</b><br>Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
- #### **NOTES**
+#### **NOTES**
  
 [^1]: Khoo Kay Kim, [_Majalah Dan Akhbar Melayu Sebagai Sumber Sejarah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3891731) \[Malay papers and periodicals as historical sources\]. Bersama Dengan Satu Senarai Berkala-Berkala Melayu Sebelum Merdeka Dalam Pegangan Perpustakaan Universiti Malaya; Dan, Satu Bibliografi Mengenai Pengkajian Berkala Melayu \[With a list of Premerdeka Malay periodicals held in the University of Malaya Library; and, A bibliography on the study of Malay periodicals\] (Kuala Lumpur: Perpustakaan Universiti Malaya, 1984). (Call no. Malay RSEA 070.509595 KHO)
 
