@@ -2,6 +2,7 @@ collections:
   jan-2009:
     output: true
     order:
+      - "A Glimpse of his Past: Yeo Chan Boon (1881–1967).md"
       - Singapore, an Emerging Centre of 19th Century Malay School Book Printing
         and Publishing.md
       - Director's Column.md
