@@ -36,7 +36,10 @@ How would the use of women’s and men’s magazines assist scholars in this res
 
 During 1876–1941, Malay publishing went through three different phases of Malay journalism. According to William Roff (1972), the first phase of Malay journalism occurred in the period 1875–1905. Non-Malays such as Straits-born Muslims (Jawi Peranakans) and Straits-born Chinese (Baba Peranakans) dominated the phase.8 Ian Proudfoot (Working Paper 1994) outlines that it was the Javanese who dominated the scene, not the Jawi Peranakans.9 Despite this revelation, the weekly *Jawi Peranakan* was a manifestation of this era as the longest surviving periodical of its time (1876–1905).
 
-The second phase (1906–1916) of Malay journalism, according to Roff, was characterised by a rise of major ‘national’ dailies as well as the appearance of religious journals. This was probably the first time that a pan-Islamic religious publication began to make its first presence. These journals were both reformist and influential and were unique to Singapore. Two publications were highlights of these genres. One was *Utusan Melayu*, first published in November 1907. It was the first ‘national’ ‘daily’ that was published thrice a week by Mohd. Eunos Abdullah. The other was the monthly Al-Imam (1906), the first Islamic reform journal to be published in Southeast Asia. It was the most influential journal of its time.
+The second phase (1906–1916) of Malay journalism, according to Roff, was characterised by a rise of major ‘national’ dailies as well as the appearance of religious journals. This was probably the first time that a pan-Islamic religious publication began to make its first presence. These journals were both reformist and influential and were unique to Singapore. Two publications were highlights of these genres. One was *Utusan Melayu*, first published in November 1907. It was the first ‘national’ ‘daily’ that was published thrice a week by Mohd. Eunos Abdullah. The other was the monthly *Al-Imam* (1906), the first Islamic reform journal to be published in Southeast Asia. It was the most influential journal of its time.
+
+<img src="/images/Vol%204%20Issue%204/MalayWomen/al%20imam1.jpg" style="width:50%;">
+ <div style="background-color: white;">Al-Imam publication. <i> Picture taken from Lembaran Akhbar Melayu, p. 9. Call no.: RSING 070.9595 LEM.</i></div>
 
 The third phase (1917–1941) saw a rise of new titles and new types of publications such as dailies and weeklies, religious periodicals, non-religious periodicals (association magazines, school magazines), literary periodicals, periodicals from “progress associations” such as clubs and societies and lastly, journals of entertainment. It is worth deliberating on the “journals of entertainment” to understand the beginnings of popular magazines such as men’s and women’s magazines. These journals, which started appearing in the late 1920s, gave birth to men’s and women’s magazines later in spite of the interruption from the Second World War.
 
@@ -80,6 +83,9 @@ An insignificant amount of provocative titles was published in the 1930s. This w
 
    "Kanak-kanak dan perawan-perawan tidak<br>   dibenarkan membaca akhbar ini kerana sesetengah<br>   daripada perkataan-perkataan dan gambar-gambar<br>   yang di dalamnya mendahsyatkan pemandangan<br>   dan membangkitkan keinginan hawa nafsu dengan<br>   sekejapnya" *\[children and young women are not <br>   allowed to read this because half of the words and<br>   photographs contain inside \[this publication\] are<br>   destructive to the sight and arouses the 
 desire in an<br>   instant\].* 15
+
+<img src="/images/Vol%204%20Issue%204/MalayWomen/tanah%20melayu1.jpg" style="width:50%;">
+ <div style="background-color: white;">Tanah Melayu. <i>Picture taken from Lembaran Akhbar Melayu, p. 84. Call no.: RSING 070.9595 LEM.</i></div>
 
 In another instance, the same daily reported
 
