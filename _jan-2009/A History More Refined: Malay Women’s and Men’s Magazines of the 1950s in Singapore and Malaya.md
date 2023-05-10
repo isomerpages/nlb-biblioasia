@@ -109,7 +109,7 @@ Due to its popularity, *Aneka Warna* managed to save Qalam press from financial 
 
 *Asmara*, another magazine of this genre, reinforced *Aneka Warna* as a men’s magazine in its description of *Aneka Warna* (November 1954)
 
-"Lain daripada yang lain, dapat menghiburkan tuan-<br>tuan dan dapat memberi tauladan kepada tuan-<br>tuan. Tetapi ingat! Kanak-kanak dinasihatkan jangan <br> membacanya! Hanya untuk orang-orang dewasa <br> yang gemar mengambil masa lapang, menghiburkan <br> hati dengan bacaan-bacaan ringan…" *\[Different <br> \[from the rest\], able to entertain the men and able to <br> provide guidance to men. But remember! Children <br> are advised not to read it! These are for the adults <br> who love their leisure, to amuse themselves with <br> light reading…\]*.19
+   "Lain daripada yang lain, dapat menghiburkan tuan-<br>   tuan dan dapat memberi tauladan kepada tuan-<br>   tuan. Tetapi ingat! Kanak-kanak dinasihatkan jangan <br>   membacanya! Hanya untuk orang-orang dewasa <br>   yang gemar mengambil masa lapang, menghiburkan <br> hati dengan bacaan-bacaan ringan…" *\[Different <br>   \[from the rest\], able to entertain the men and able to <br>   provide guidance to men. But remember! Children <br>   are advised not to read it! These are for the adults <br>   who love their leisure, to amuse themselves with <br>   light reading…\]*.19
 
 What was noteworthy was that the female readers of the 1950s were not forbidden to read this genre of men’s magazines. This was not the case for women in the 1930s, indicating a change in attitude towards what was permissible for women’s reading pleasure.
 
@@ -122,10 +122,6 @@ On almost all occasions, male protagonists in short stories of men’s magazines
 For women’s magazines, the utility of such “white” images was to exercise a moral power over Malay women. In *Fashion*, immediately before the proclamation of the Independence of Malaya on 31 August 1957 and significantly after, fewer images of white women were published, while concurrently, representations of Malay women were an ubiquity to the gaze of the public. This heavy use of representations of white women in magazines in the 1950s was an attempt to exploit anti-colonial feelings that existed then. As a certain representation of white women was used in stark contrast to one of Malay women on covers of magazines, this reinforced the idea of “them” versus the “us” discourse. Whether these were images of sexy Hollywood actresses or Miss Americas, which were in stark contrast to the full-sized images of Malay women, images were not without their ideologies. Bearing that in mind, the implications were provocative especially when *Fashion* was intended for the Malay society of Malaya and Singapore, whose religious inclinations placed an overriding emphasis on the modesty of women. Despite this, even with the insertion of such “raunchy” materials, it was reported that the weekly was a hit with them.
 
 Interesting examples from periodicals reinforced the shared understanding by culture and intellectual historians as well as gender specialists that while we apply high standards to the task of interpretation in the historical enterprise, the same standards to the selection of historical written sources cannot be employed. This is significant when periodicals provide not only the mentality and world views of specific communities about themselves but offer deeper insights to the anxieties they shared about other communities or groups they represent in these periodicals. Culture historians are more willing to admit to the flaws in their cultural historicism than other historical scientists could or would in the “science” they practise. Taking measures to ensure important conclusions through high standards of interpretation remains for this field of historical inquiry.
-
-
-![](/images/Authors/Kartini.jpg)
-
 
 <br>
 <div style="background-color: white;">
