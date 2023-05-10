@@ -75,8 +75,8 @@ An insignificant amount of provocative titles was published in the 1930s. This w
 
 *Shorga Dunia* was understood to be a men’s magazine. Hamedi categorises *Shorga Dunia* (Earthly Heaven) as “entertainment for the young (hiburan untuk mudamudi)”. In the newspaper *Tanah Melayu* (April 1936) it was reported that 
 
-   "Kanak-kanak dan perawan-perawan tidak<br>
-dibenarkan membaca akhbar ini kerana sesetengah<br>daripada perkataan-perkataan dan gambar-gambar<br> yang di dalamnya mendahsyatkan pemandangan<br> dan membangkitkan keinginan hawa nafsu dengan<br> sekejapnya" *\[children and young women are not <br>allowed to read this because half of the words and<br> photographs contain inside \[this publication\] are<br> destructive to the sight and arouses the desire in an<br> instant\].* 15
+   "Kanak-kanak dan perawan-perawan tidak<br>   dibenarkan membaca akhbar ini kerana sesetengah<br>   daripada perkataan-perkataan dan gambar-gambar<br>   yang di dalamnya mendahsyatkan pemandangan<br>   dan membangkitkan keinginan hawa nafsu dengan<br>   sekejapnya" *\[children and young women are not <br>   allowed to read this because half of the words and<br>   photographs contain inside \[this publication\] are<br>   destructive to the sight and arouses the desire in an<br>   instant\].* 15
+
 
 
 
