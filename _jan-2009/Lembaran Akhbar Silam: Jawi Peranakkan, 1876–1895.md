@@ -28,7 +28,7 @@ Kebanyakan sejarawan bersetuju bahawa era kewartawanan Melayu berputik sejak kel
 
 Penghijrahan pendatang India Muslim dari India Selatan ke Singapura bermula dari tahun 1819. Hasil perkahwinan campuran mereka dengan wanita Melayu tempatan telah melahirkan keturunan India Peranakan. Mereka menjadi pesaing kepada orang-orang keturunan Arab di Singapura kerana berupaya berbahasa Melayu dan senang berasimilasi dengan budaya Melayu. Segolongan mereka yang berpendidikan Melayu dan Inggeris menceburi bidang perniagaan serta penulisan dan percetakan atau menjadi pegawai pemerintah, kerani, jurubahasa juga guru.
 
-<img src="images/Vol%204%20Issue%204/JawiPeranakkan/penerbitan%20cover.jpg" style="width:50%;">
+<img src="/images/Vol%204%20Issue%204/JawiPeranakkan/penerbitan%20cover.jpg" style="width:50%;">
  <div style="background-color: white;">Buku ini mencatatkan peranan Syarikat Jawi Peranakkan untuk menyemarakkan penerbitan akhbar Melayu di abad ke 19 &amp; 20. <i>All rights reserved, Dewan Bahasa dan Pustaka, 1998.</i></div>
 
 Pada akhir tahun 1876, golongan ini menubuhkan persatuan *Jawi Peranakkan* dan sebuah pejabat percetakan bergelar “*Syarikat Jawi Peranakkan*”. Ia dianggap sebagai syarikat percetakan ceparas (letterpress) pertama didirikan oleh masyarakat Melayu-Islam Singapura dan menerbitkan akhbar Melayu; “*Jawi Peranakkan*”.
@@ -55,7 +55,7 @@ Walaupun jumlah edaran terhad, akhbar ini dapat menjelajahi dunia melalui bebera
 
 #### **Ruangan Tetap: Iklan dan Pemberitahuan**
 
-Pada tahun-tahun awal penerbitannya, halaman utama dikhaskan untuk iklan-iklan dagangan yang juga berfungsi sebagai maklumat seranta bagi syarikat-syarikat seperti Tanjong Pagar Ltd, dan Straits Ice Company. Terdapat juga iklan khidmat doktor gigi beralamat 25, South Bridge Road, iklan penjualan ubat-ubatan demam, minyak wangi serta airbatu.
+Pada tahun-tahun awal penerbitannya, halaman utama dikhaskan untuk iklan-iklan dagangan yang juga berfungsi sebagai maklumat seranta bagi syarikat-syarikat seperti Tanjong Pagar Ltd, dan Straits Ice Company. Terdapat juga iklan khidmat doktor gigi beralamat 25, South Bridge Road, iklan penjualan ubat-ubatan demam, minyak wangi serta air-batu.
 
 Akhbar *Jawi Peranakkan* berperanan menggalakkan tabiat gemar membaca dengan mengiklankan buku-buku baru terbit. Pada tahun 1880, buat pertama kalinya tersiar iklan “*Hikayat Abdullah telah dicap semula oleh Asiatic Society dan siapa berhajat memesannya boleh berhubungan dengan pihak yang berkuasa Rumah Gambar Singapura*.”[^7] Juga iklan penjualan beberapa tajuk buku di kedai Haji Mohamad Sirat beralamat 43, Sultan Road, Singapura seperti “*Hikayat Ganja Mara*” dan “*Hikayat Miskin*” tercatat dalam beberapa keluaran akhbar ini.
 
