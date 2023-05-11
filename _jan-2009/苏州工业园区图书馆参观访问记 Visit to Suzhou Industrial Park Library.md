@@ -10,9 +10,7 @@ image: /images/Vol 4 Issue 4/Suzhou/sz sm goh.jpg
 #### Since its inception in 1994, the Suzhou Industrial Park has evolved into the largest economic cooperation project between China and Singapore. Three librarians from the Lee Kong Chian Reference Library visited the Suzhou Dushu Lake Library in October 2008.
 
 <img src="/images/Vol%204%20Issue%204/Suzhou/sz%20sm%20goh.jpg" style="width:80%;">
- <div style="background-color: white;">1994年2月26日，中国李岚清副总理和新加坡李光耀资政分别代表中新两国政府在 北京签署了合作开发建设苏州工业园区的协议。<i>苏州工业园区投资指南2007. (索书号：Chinese R 338.951136 SUZ） 	
-	
-Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></i></div><i>
+ <div style="background-color: white;">1994年2月26日，中国李岚清副总理和新加坡李光耀资政分别代表中新两国政府在 北京签署了合作开发建设苏州工业园区的协议。<i>苏州工业园区投资指南2007. (索书号：Chinese R 338.951136 SUZ).</i></div>
 
 #### **关于苏州新加坡工业园**
 
@@ -28,7 +26,13 @@ Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Col
 
 该馆以数字图书馆为基 础，集传统文献资源和现 代网络资源为一体，为读者提供24小时不间断服务， 现有数字期刊3万余种，科 研论文百万篇，各种文献索 引1000多万条。阅览座位 660多个，计算机网络信息 接点1200多个，为读者提供 怡静写意的阅读和交流空 间。
 
+<img src="/images/Vol%204%20Issue%204/Suzhou/sz%20mm%20lee.jpg" style="width:50%;">
+ <div style="background-color: white;">自1994年以来，李光耀资政几乎每年 都要到苏州，了解园区的进展情况， 提出发展建议。<i>2004年6月11日, 联合早报.</i></div>
+
 2008年10月18日下午， 新加坡国家图书馆李光前参 考图书馆王连美、高小行、 李慧欣一行3人来到苏州工 业园苏州独墅湖图书馆进行 参观交流，受到馆长林蓉女 士以及信息服务中心主任杨 斌等工作人员的热情接待。 三位馆员参观了图书馆阅览 室和信息服务中心等。图书 馆优美的阅读环境、完善的设施和充满活力与朝气的年 轻团队给新加坡国家图书馆 参观团留下了深刻的印象。
+
+<img src="/images/Vol%204%20Issue%204/Suzhou/sz%20group.jpg" style="width:50%;">
+ <div style="background-color: white;">独墅湖图书馆馆长欢迎新加坡国家图书馆王连美、高小行、李慧欣一行.</div>
 
 参观结束后，大家齐聚 贵宾会议室，进行圆桌座谈 交流。林蓉馆长向来宾们介 绍了独墅湖高教区、图书馆 以及参考咨询服务的相关情 况。
 
@@ -48,4 +52,4 @@ During their interactions, LKCRL librarians also shared the Collaborative Refere
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Vicky%20Gao.jpg">
-<center><b>Vicky Gao</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div></i>
+<center><b>Vicky Gao</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
