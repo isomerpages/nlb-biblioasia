@@ -16,7 +16,7 @@ The main theme of the conference was on the use of web 2.0 technologies in libra
 The keynote speakers on the first day were Ms Nayla Al Khaja, a Dubai filmmaker, who spoke on the challenges she faces in obtaining knowledge and creating a connection between the different generations in her family because of her gender; and Ms Penny Carnaby, Chief Librarian, New Zealand National Library, who spoke on cultural change within the library profession and the need to continue to protect intellectual property, ideas and creativity. The keynote speaker on the second day, H.E. Dr Surin Pitsuwan, ASEAN SecretaryGeneral, spoke on the close relationship between cultural and economic factors within a community.
 
 <img src="/images/Vol%204%20Issue%204/BridgingWorlds/photos.jpg" style="width:80%;">
- <div style="background-color: white;">(Left) Ms Nayla Al Khaja, Filmmaker, Dubai <br>  (Centre)  Ms Penny Carnaby, Chief Librarian, New Zealand National Library (Right) <br>  H.E. Dr Surin Pitsuwan, ASEAN Secretary-General</div>
+ <div style="background-color: white;">(Left) Ms Nayla Al Khaja, Filmmaker, Dubai <br>  (Centre)  Ms Penny Carnaby, Chief Librarian, New Zealand National Library<br> (Right) H.E. Dr Surin Pitsuwan, ASEAN Secretary-General</div>
 
 The conference was organised around four tracks. These were “The World Beyond 2.0”, “The Shape and Form World”, “The Find &amp; Search World” and “Our World, Our Community, Our Audience”. Each covered a specific area of interest in the library world today.
 
