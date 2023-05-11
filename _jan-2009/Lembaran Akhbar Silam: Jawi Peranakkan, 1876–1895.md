@@ -159,7 +159,82 @@ Kehadiran akhbar ini telah menyemarakkan sastera Melayu dan menjadikan Singapura
 <img style="width: 100px; height: 100px;" src="/images/Authors/Sundusia.jpg">
 <center><b>Sundusia Rosdi</b><br> Senior Librarian<br> Professional Services<br> National Library Board</center></div>
 
+#### **REFERENCES**
 
+Abdullah Hussain and Khalid M. Hussain, [_Pendeta Za’ba Dalam Kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000). (Call no. Malay R 899.28092 ABD)
 
+Ahmat Adam, [_Sejarah Dan Bibliografi Akhbar Dan Majalah Melayu Abad Kesembilan Belas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6310777) (Selangor: Penerbit Universiti Kebangsaan Malaysia, 1992). (Call no. Malay RSEA 079.59 AHM)
+
+Ahmad Salleh, “Peranan Surat Khabar Dalam Perkembangan Sastera Melayu Moden,” [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125) 6, no. 4 (April 1962): 164–69. (Call no. RCLOS 499.23 DB)
+
+Annabel Teh Gallop, “Early Malay Printing,” _Journal of Malayan Branch Royal Asiatic Society_ 63, no. 1 (258) (1990): 85–124. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+E. W. Birch, “The Vernacular Press in the Straits,” in [_Singapore 150 years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080128), ed. Mubin Sheppard (Singapore: Times Books International, 1982), 204–7. (Call no. RSING 959.57 SIN-HIS) (Originally published in _Journal of the Malaysian Branch Asiatic Society_ 42, no. 1(215) (July 1969): 192–5. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[_Ensiklopedia Sejarah Dan Kebudayaan Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6913731) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1994), 1032. (Call no. RSEA 959.003 ENS)
+
+Hashim Haji Musa, [_Sejarah Perkembangan Tulisan Jawi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9407622) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1999). (Call no. R 499.2811 HAS)
+
+Hassan Ahmad, “Shaer,” [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125) 6, no. 1 (January 1962): 20–31. (Call no. RCLOS 499.23 DB) &nbsp;
+
+Ian Proudfoot, [_Early Malay Printed Books: A Provisional Account of Materials Published in the Singapore-Malaysia Area Up to 1920_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616) (Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya, 1993). (Call no. RSING q015.5957 PRO)
+
+Iskandar Ahmad, [_Persuratkhabaran Melayu, 1876–1968_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1995352) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1973). (Call no. RSEA 079.595 AMI)
+
+Jeman Sulaiman, “[The Rise of Malay Newspaper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881107-1.2.67.11.1),” _Straits Times_, 7 November 1988, 6. (From NewspaperSG)
+
+Kamsiah Abdullah, [_Benih Budiman: Suatu Analisis Sosiosejarah Persekolahan Melayu Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12973695) (Perak: Penerbit Universiti Pendidikan Sultan Idris, 2007). (Call no. RSING 371.8929992809597 KAM)
+
+Kennard, Allington, “[An Account of Early Malay Press and Periodicals](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730212-1.2.95),” _Straits Times_, 12 February 1973, 18. (From NewspaperSG)
+
+Khoo, Kay Kim and Jazamuddin Baharuddin, eds., [_Lembaran Akhbar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4095629) (Kuala Lumpur: Persatuan Sejarah Malaysia, 1980). (Call no. RSING 070.9595 LEM)
+
+Md. Sidin Ahmad Ishak, [_Penerbitan &amp; Percetakan Buku Melayu, 1807–1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9507241) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1998). (Call no. R 070.5095951 MD)
+
+Mohd. Yusof Hussain, [_Mass Media in Selected Muslim Countries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13049203), 2nd ed. (Kuala Lumpur: International Islamic University Malaysia, 2008). (Call no. R 302.23 MAS)
+
+Mubin Sheppard, ed., [_Singapore 150 years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080128) (Singapore: Times Books International, 1982). (Call no. RSING 959.57 SIN-HIS)
+
+Nik Ahmad bin Haji Nik Hassan, “The Malay Press,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 36, no. 1 (201) (May 1963): 37. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Rahmah Hashim, “Citra Wanita Dalam Akhbar Zaman Kolonial: Analisis Kandungan Akhbar Jawi Peranakkan Dan Utusan Melayu,” _Sari_, no. 15–16 (July 1998): 71–99.
+
+Samat Buang, “Sejarah Perkembangan Akhbar Melayu Abad Ke-19 (Bahagian Satu),” _Pelita Bahasa_ (February 1993): 44–45.
+
+Sulaiman Jeem, “[Alam Kewartawanan Akhbar Melayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820318-1.2.137.7.1),” _Straits Times_, 18 March 1982, 4. (From NewspaperSG)
+
+Sulaiman Jeem, “[The Rise of Malay Newspapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881107-1.2.67.11.1),” _Straits Times_, 7 November 1988, 6. (From NewspaperSG)
+
+Tan Yew Soon and Soh Yew Peng, [_The Development of Singapore’s Modern Media Industry_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6685660) &nbsp;(Singapore: Times Academic Press, 1994). (Call no. RSING 338.4730223 TAN)
+
+Tuminah Sapawi, “[Pioneer of Malay News](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920826-1.2.59.6.4),” _Straits Times_, 26 August 1992, 9. (From NewspaperSG)
+
+William Roff, “[_Guide to Malay Periodicals 1876–1941, With Details of Known Holdings in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5328468),” (Singapore: Eastern Universities Press, 1961). (Call no. RSING q016.059991 ROF)
+
+William Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289) (Pulau Pinang: diterbitkan dengan kerjasama Sinaran, 1967). (Call no. RSEA 079.595 ROF)
+
+Zainal Abidin Ahmad, “Malay Journalism in Malaya,” _Journal of the Malayan Branch of the Royal Society_ 19, no. 2 (October 1941): 244–50 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Also published in Abdullah Hussain and Khalid M. Hussain, [_Pendeta Za’ba Dalam Kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000), 295–302. (Call no. R899.28092 ABD)
+
+Zakiah Hanum, “Jawi Peranakan,” [_Dewan Budaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4126789) 21, no. 2 (February 1999): 46. (Call no. RCLOS 301.205 DB)
+
+**Web Resources**
+
+Darwis Harahap, “Sejarah Pertumbuhan Bahasa Melayu,” (Malay Concordance Project, May 1992), https://mcp.anu.edu.au/papers/darwis/Utama.html.
+
+Jawi Peranakkan, 26 Mar 1881 (4 pages of digitized copies), http://econtent.elibraryhub.com/SHC/BL/34/\_OP434.pdf.
+
+John A. Lent, “Malaysia’s National Language Mass Media: History and Present Status,” _South East Asian Studies_ 15, no. 4 (March 1978), https://kyoto-seas.org/pdf/15/4/150408.pdf.
+
+Ratnala Thulaja Naidu, [Jawi Peranakan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_106_2005-02-02.html), _Singapore Infopedia_, published 2016.
+
+**Jawi Peranakkan**
+
+03 Jan 1887–01 Aug 1887 (Microfilm NL10607)
+
+08 Aug 1887–29 Dec 1890 (Microfilm NL10608)
+
+05 Jan 1891–25 Jun 1894 (Microfilm NL10609)
+
+02 Jul 1894–22 Apr 1895 (Microfilm NL10610)
 
 
