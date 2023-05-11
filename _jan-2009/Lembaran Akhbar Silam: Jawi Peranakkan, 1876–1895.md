@@ -7,7 +7,7 @@ description: Highlights some of the earliest surviving issues of the first Malay
   Muslims).
 image: /images/Vol 4 Issue 4/JawiPeranakkan/akbarjawi.jpg
 ---
-#### Highlights some of the earliest surviving issues of the first Malay newspaper, the _Jawi Peranakkan_, published between 1876 and 1895. The newspaper was financed, run and edited by a group of Jawi Peranakkan (local born Indian Muslims).
+#### Highlights some of the earliest surviving issues of the first Malay newspaper, the&nbsp;_Jawi Peranakkan_, published between 1876 and 1895. The newspaper was financed, run and edited by a group of Jawi Peranakkan (local born Indian Muslims).
 
 #### **Abstracts**
 
@@ -94,6 +94,20 @@ Bertanggungjawab membangkitkan semangat nasionalisme orang Melayu walaupun polis
 Dalam beberapa keluarannya, pengarangnya juga menegur pegawai-pegawai Inggeris yang menggunakan istilah “hang”, “engkau,” “aku”,“lu”, dan “gua” apabila bertutur kerana ia dianggap bertentangan dengan etika Melayu.
 
 Untuk pertama kali nya dalam sejarah, pengarang nya juga mengkritik tentang kelemahan bahasa Melayu dalam keluaran 6 Februari 1893; “*The factors which weaken our language are; first there is no work on grammar, second, there is no dictionary; and third; no thought has been given to the questions of its teachers and schools*”.16
+
+#### **Wadah untuk Persuratan dan Kesusasteraan Melayu**
+
+Akhbar ini berusaha untuk menyeragamkan penggunaan bahasa Melayu seperti pandangan Pendeta Zaaba “*the main advantage of Jawi Peranakkan as “settling the language” and giving a uniformity to the various dialects of Malay*”.17
+
+Sistem ejaan Jawi yang digunakan setanding dengan sistem ejaan dalam *Kitab Pemimpin Johor*; buku panduan tulismenulis terbitan tahun 1878. Sistem ejaan ini mengekalkan peraturan yang tidak memakai abjad vokal pada suku kata akhir terbuka dan pada suku akhir tertutup dalam perkataan-perkataan yang sudah mantap, manakala dalam perkataan-perkataan yang lain terutama perkataan baru, abjad vokal digunakan pada posisi demikian.18
+
+Walaubagaimanapun terdapat penggunaan beberapa ejaan yang tidak konsisten umpamanya perkataan “cina” dieja sebagai “ ” dan “ ”. Menyedari kelemahan sistem ejaan ini, pengarangnya telah mengambil inisiatif untuk penyeragaman sistem ejaan Jawi yang betul. Akhbar bertarikh 23 Julai 1894 telah memperkenalkan satu ruangan baru “Pemimpin Ejaan” iaitu satu rujukan khas senarai glosari ejaan Jawi yang betul. Pengarangnya menyarankan “*usahlah dipakai lagi huruf-huruf saksi, memadailah kalau tiada berbaris dibawah dan diatas didalam padahal itupun kalau bunyinya yang panjang patut jua memakai akan tetapi pula mau ditimbang lagi iaitu jikalau dua huruf saksi hendaklah ditinggalkan satu*”. Beliau juga menyeru agar pembaca-pembacanya menyebarkan pengetahuan tentang ejaan Jawi yang betul ini terutama kepada kanak-kanak yang baru belajar. Antara perkataan-perkataan yang disenaraikan dalam glosari ini ialah “apabila” sepatutnya dieja sebagai “ ” bukan “ ”, “runtuh” sebagai “ “ bukan “ “ serta ejaan tepat untuk “bilik” sebagai “ “ dan bukan “ “ dan sebagainya.
+
+Dari sudut persuratan, akhbar ini menggalak orang Melayu supaya akif dalam kehidupan moden dengan menyediakan wacana kesusasteraan Melayu. Melalui ruangan surat kiriman dan sastera kreatif, pembaca-pembaca digalakkan berkarya di samping mempelajari struktur dan susur galur bahasa Melayu dan ciri-ciri syair yang betul. Gaya penulisan syairsyair terbitan akhbar ini mempunyai kesan-kesan bercerita tentang kehidupan seharian seperti syair berunsur satira kiriman pembaca yang disiarkan dalam keluaran 6 Julai 1891 berikut:
+
+   “*Hai kera yang tiada mengetahui*<br>   *Cubalah membaca hikayat atau membeli*<br>   *Hikayat Abdullah bin Abdul Kadir* Munsyi<br>   ”*Kerana di dalamnya banyak pengajaran diri*
+
+
 
 
 
