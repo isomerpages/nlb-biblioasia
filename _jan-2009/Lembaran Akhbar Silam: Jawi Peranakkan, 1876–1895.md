@@ -28,8 +28,6 @@ Kebanyakan sejarawan bersetuju bahawa era kewartawanan Melayu berputik sejak kel
 
 Penghijrahan pendatang India Muslim dari India Selatan ke Singapura bermula dari tahun 1819. Hasil perkahwinan campuran mereka dengan wanita Melayu tempatan telah melahirkan keturunan India Peranakan. Mereka menjadi pesaing kepada orang-orang keturunan Arab di Singapura kerana berupaya berbahasa Melayu dan senang berasimilasi dengan budaya Melayu. Segolongan mereka yang berpendidikan Melayu dan Inggeris menceburi bidang perniagaan serta penulisan dan percetakan atau menjadi pegawai pemerintah, kerani, jurubahasa juga guru.
 
-![](/images/Vol%204%20Issue%204/JawiPeranakkan/penerbitan%20cover.jpg)
-
 <img src="images/Vol%204%20Issue%204/JawiPeranakkan/penerbitan%20cover.jpg" style="width:50%;">
  <div style="background-color: white;">Buku ini mencatatkan peranan Syarikat Jawi Peranakkan untuk menyemarakkan penerbitan akhbar Melayu di abad ke 19 &amp; 20. <i>All rights reserved, Dewan Bahasa dan Pustaka, 1998.</i></div>
 
@@ -80,6 +78,9 @@ Liputan berita Singapura dari tahun 1881, 1887–1895 berkisar kepada kejadian j
 #### **Edisi Khas**
 
 Untuk meraikan kedatangan setiap bulan Ramadan, akhbar ini menerbitkan edisi istimewanya seperti edisi 29 Syaaban tahun Hijrah1304 bersamaan 23 Mei 1887 (yang pada hari lain dipenuhi iklan perniagaan) telah menyiarkan syair keislaman dengan hiasan “bingkai ilustrasi”.
+
+<img src="/images/Vol%204%20Issue%204/JawiPeranakkan/akhbar%20cvr.jpg" style="width:50%;">
+ <div style="background-color: white;">Antara sumber rujukan mengenai akhbar Jawi Peranakkan. <i>All rights reserved, Penerbit Universiti Kebangsaan Malaysia, 1992.</i></div>
 
 Satu lagi maklumat penting terbitan akhbar ini ialah carta penyelarasan dan perbandingan Kalendar Masehi dengan Takwim Islam dan Kalendar Cina. Dalam keluaran akhbar ini dicatatkan tarikh 31 Ogos tahun 1891 itu bersamaan 30 Muharram 1309 Hijrah dan juga bersamaan bulan Cina, bulan 7, tahun Kongsu 17. Persatuan *Jawi Peranakkan* juga menerbitkan carta Takwin Bandingan ini dan dijual dengan harga 10 sen.
 
