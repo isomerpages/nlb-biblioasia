@@ -9,6 +9,9 @@ image: /images/Vol 4 Issue 4/JawiPeranakkan/akbarjawi.jpg
 ---
 #### Highlights some of the earliest surviving issues of the first Malay newspaper, the&nbsp;_Jawi Peranakkan_, published between 1876 and 1895. The newspaper was financed, run and edited by a group of Jawi Peranakkan (local born Indian Muslims).
 
+<img src="/images/Vol%204%20Issue%204/JawiPeranakkan/akbarjawi.jpg" style="width:50%;">
+ <div style="background-color: white;">Salinan akhbar Jawi Peranakkan terbitan 18 April 1881. <i>Terdapat di Koleksi Perpustakaan Rujukan Lee Kong Chian.</i></div>
+
 #### **Abstracts**
 
 This article highlights some of the earliest surviving issues of the first Malay newspaper published between 1876 and 1895. *Jawi Peranakkan*, published in Jawi (a Malay script derived from Arabic), was financed, run and edited by a group of *Jawi Peranakkan* (The local born Indian Muslims). With the aim to give its readers the latest news both local and foreign, it appeared every Monday with general news of events, government notices, some advertisements, an editorial and *syair* (poetry corner). Besides discussing the weakness of the Malay community, it was also the first Malay newspaper to criticise a British colonial policy. After some analysis and hypothesis on the role of *Jawi Peranakkan* newspaper, the writer concludes and synthesizes that it was one of the catalysts and sources of Malay intellectualism. Its influence enabled Singapore of yesteryears to be the hub of Malay literature in the region.
@@ -24,6 +27,11 @@ Kebanyakan sejarawan bersetuju bahawa era kewartawanan Melayu berputik sejak kel
 #### **Masyarakat *Jawi Peranakkan***
 
 Penghijrahan pendatang India Muslim dari India Selatan ke Singapura bermula dari tahun 1819. Hasil perkahwinan campuran mereka dengan wanita Melayu tempatan telah melahirkan keturunan India Peranakan. Mereka menjadi pesaing kepada orang-orang keturunan Arab di Singapura kerana berupaya berbahasa Melayu dan senang berasimilasi dengan budaya Melayu. Segolongan mereka yang berpendidikan Melayu dan Inggeris menceburi bidang perniagaan serta penulisan dan percetakan atau menjadi pegawai pemerintah, kerani, jurubahasa juga guru.
+
+![](/images/Vol%204%20Issue%204/JawiPeranakkan/penerbitan%20cover.jpg)
+
+<img src="images/Vol%204%20Issue%204/JawiPeranakkan/penerbitan%20cover.jpg" style="width:50%;">
+ <div style="background-color: white;">Buku ini mencatatkan peranan Syarikat Jawi Peranakkan untuk menyemarakkan penerbitan akhbar Melayu di abad ke 19 &amp; 20. <i>All rights reserved, Dewan Bahasa dan Pustaka, 1998.</i></div>
 
 Pada akhir tahun 1876, golongan ini menubuhkan persatuan *Jawi Peranakkan* dan sebuah pejabat percetakan bergelar “*Syarikat Jawi Peranakkan*”. Ia dianggap sebagai syarikat percetakan ceparas (letterpress) pertama didirikan oleh masyarakat Melayu-Islam Singapura dan menerbitkan akhbar Melayu; “*Jawi Peranakkan*”.
 
