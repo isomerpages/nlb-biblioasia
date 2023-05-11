@@ -141,4 +141,19 @@ Penutupan akhbar ini juga dikaitkan dengan sebab-sebab berikut:
 
 Akhirnya, setelah menjadi penggerak masyarakat Melayu-Islam selama hampir dua dekad, akhbar *Jawi Peranakkan* telah menamatkan penerbitannya dengan edisi terakhir terbitan bulan April 1895.
 
+#### **Penilaian**
+
+Walaupun isi kandungannya kurang menarik untuk penilaian masa kini, Roff mengakui bahawa: “*Tak dapat disangkakan bahawa suratkhabar Jawi Peranakkan ini menjadi suatu lidah atau suara yang amat penting di negeri Singapura pada masa itu*”.19
+
+Dalam tahun 1880-an pula, ia telah menjadi bahan rujukan dan sumber berita kepada akhbar luar negeri di rantau ini. Akhbar Indonesia seperti, *Selompret Melajoe* memetik berita Singapura dari *Jawi Peranakkan* dan sebaliknya *Jawi Peranakkan* juga mengambil berita-berita dari *Selompret Melajoe*, *Sinar Terang* dan *Bintang Barat*.
+
+Mengenai gaya pemberitaan akhbar ini yang berbeda dengan laporan akhbar-akhbar terbitan semasa, pengarangnya menggunakan gaya didaktik yang memberi penilaian pendapat pribadinya dan komen di akhir berita. Satu laporan tentang kecelakaan jalan biasanya disertai dengan kecaman keras terhadap jurutera atau pihak bertanggungjawab di jalan raya. Laporan dalam berita terbitan bulan Januari 1887, tentang kecurian di Kampung Gelam dilanjutkan kepada keadaan serba senang pesalahpesalah di penjara Singapura seolah-olah mendorong lebih ramai orang cenderung melakukan jenayah.20
+
+*Jawi Peranakkan* juga telah menjadi salah satu pemangkin kegiatan pemberitaan dan keintelektualan orang Melayu.
+
+Kehadiran akhbar ini telah menyemarakkan sastera Melayu dan menjadikan Singapura sebagai pusat kesusasteraan di rantau ini sehingga Perang Dunia pertama apabila peranan ini diambilalih oleh Indonesia.
+
+
+
+
 
