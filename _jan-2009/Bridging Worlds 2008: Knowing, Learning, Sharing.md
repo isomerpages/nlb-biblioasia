@@ -22,8 +22,3 @@ The NGO Learning Summit was intended to expand opportunities for NGOs and learni
 The Learning Summit commenced with the opening speech by Dr Susan Ornager, Advisor, Communication and Information Asia, UNESCO. The keynote speakers were Mr Manu Bhaskaran, Partner and Member of the Board, Centennial Group Inc., Mr Lee Poh Wah, Programme Director, Lien Foundation and Mr Soo Kok Leng, Chairman, ST Electronics. Six other speakers were invited to speak on the themes “Knowledge Spaces” and “Learning Efforts in the Region”. The half-day event was attended by 50 participants, including members from the ASEAN Committee on Culture and Information (COCI).
 
 On the whole, the Bridging Worlds Conference was well received with 92.1% of the respondents rating the conference as good or very good.
-
-
-
-
-
