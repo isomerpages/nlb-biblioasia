@@ -105,7 +105,15 @@ An enterprising and well-respected man, Whampoa was appointed a Justice of the P
 
 #### **Jiak Kim Street**
 
+![](/images/Vol%204%20Issue%204/StreetNames/jiakkim.jpg)
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/jiakkim.jpg" style="width:50%;">
+ <div style="background-color: white;">Tan Jiak Kim – Singapore’s pioneering public servant and community leader. <i>Courtesy of National Meseum of Singapore, National Heritage Board.</i></div>
+
 Jiak Kim Street is named in the late 1910s, after Tan Jiak Kim, a grandson of Tan Kim Seng. Before the development of the area, shops, offices, stores and godowns used to line the street. Now the area has been developed into one of riverfront living, with condominiums and a hotel.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/jiakkimmunicipal.jpg" style="width:80%;">
+ <div style="background-color: white;">Tan Jiak Kim served as a Municipal Commissioner overseeing public transport, health, and utilities. <i> The Singapore and Straits directory for 1889. 1889 (p. 128). Singapore: Singapore and Straits Printing Office. (Microfilm NL1178). </i></div>
 
 Tan Jiak Kim is renowned for his service to the government and community. He was appointed to the Legislative Council in 1889 when he was only 30 years old. He was also a Municipal Commissioner, member of the Chinese Advisory Board, and a Justice of the Peace, and served on many Government commissions.
 
