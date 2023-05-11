@@ -157,6 +157,9 @@ Penutupan akhbar ini juga dikaitkan dengan sebab-sebab berikut:
 
 Akhirnya, setelah menjadi penggerak masyarakat Melayu-Islam selama hampir dua dekad, akhbar *Jawi Peranakkan* telah menamatkan penerbitannya dengan edisi terakhir terbitan bulan April 1895.
 
+<img src="/images/Vol%204%20Issue%204/JawiPeranakkan/scholarship.jpg" style="width:50%;">
+ <div style="background-color: white;">Senarai calon-calon penerima biasiswa pemerintah, 1887.</div>
+
 #### **Penilaian**
 
 Walaupun isi kandungannya kurang menarik untuk penilaian masa kini, Roff mengakui bahawa: “*Tak dapat disangkakan bahawa suratkhabar Jawi Peranakkan ini menjadi suatu lidah atau suara yang amat penting di negeri Singapura pada masa itu*”.[^19]
