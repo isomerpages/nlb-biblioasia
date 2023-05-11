@@ -93,7 +93,13 @@ The first member of the Alkaff family, Syed Mohammed bin Abdulrahman Alkaff arri
 
 #### **Whampoa Road**
 
+<img src="/images/Vol%204%20Issue%204/StreetNames/whampoa.jpg" style="width:50%;">
+ <div style="background-color: white;">Hoo Ah Kay (Whampoa) – Singapore’s pioneering entrepreneur and public servant.<i> Song, O.S. (1923). One hundred years’ history of the Chinese in Singapore (p. 52). London: Murray. (Microfilm NL3280).</i></div>
+
 Whampoa Road is named after Hoo Ah Kay, a prominent entrepreneur and public servant, who was popularly known as Whampoa after his birthplace, a suburb, in Canton. The road stretched from Kim Keat Road and ended at Whampoa Square.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/whampoa_petition.jpg" style="width:50%;">
+ <div style="background-color: white;">In the petition of Tan Tock Seng Hospital dated 3 May 1909, Whampoa was listed as Treasurer of Tan Tock Seng Hospital.<i> Courtesy of Koh Seow Chuan.</i></div>
 
 An enterprising and well-respected man, Whampoa was appointed a Justice of the Peace, a Grand Juror, and Consul for China, Japan and Russia in Singapore. He was the first local to be appointed to the Legislative Council in 1869. On 10 May 1876, he was appointed to the C.M.G. (Companionship of the Most Distinguished Order of St. Michael and St. George), the first Chinese to be bestowed this honour by Britain.
 
