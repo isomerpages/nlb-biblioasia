@@ -80,7 +80,14 @@ Tan Kim Seng was one of the earliest settlers from Malacca. A prominent public b
 
 #### **Alkaff Avenue**
 
+<img src="/images/Vol%204%20Issue%204/StreetNames/alkaff%20family.jpg" style="width:80%;">
+ <div style="background-color: white;">A few members of Singapore’s pioneering family of landowners, traders and community leaders and benefactors.<i> Wright, A. (Ed.). (1908). Twentieth century impressions of British Malaya (p. 711). London: Lloyd’s Greater Britain Pub. Co. (Microfilm NL2645).</i></div>
+
 Alkaff Avenue was named after the Alkaff family of Arab traders and landowners in Singapore. Located off Upper Serangoon Road, it once led to the famous Alkaff Gardens that used to grace much of the present Sennett Estate area.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/alkaffgardens.jpg" style="width:80%;">
+ <div style="background-color: white;">Boating was a popular leisure activity in the lake at Alkaff Gardens.
+<i>Courtesy of National Archives of Singapore.</i></div>
 
 The first member of the Alkaff family, Syed Mohammed bin Abdulrahman Alkaff arrived in Singapore in 1852. He was a trader from Indonesia who invested in land and property here.
 
