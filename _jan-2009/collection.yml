@@ -2,6 +2,7 @@ collections:
   jan-2009:
     output: true
     order:
+      - "Bridging Worlds 2008: Knowing, Learning, Sharing.md"
       - Director's Column.md
       - Singapore, an Emerging Centre of 19th Century Malay School Book Printing
         and Publishing.md
