@@ -68,7 +68,13 @@ Eu Tong Sen was very active in Malaya where he owned several tin mines, medicine
 
 #### **Kim Seng Road**
 
+<img src="/images/Vol%204%20Issue%204/StreetNames/tankimseng.jpg" style="width:50%;">
+ <div style="background-color: white;">Tan Kim Seng – Singapore’s pioneering community leader and public benefactor. <i>Song, O.S. (1923). One hundred years’ history of the Chinese in Singapore (p. 49). London: Murray. (Microfilm NL3280).</i></div>
+
 Kim Seng Road is named after Tan Kim Seng, a respected community leader and public benefactor, who bore the cost of building the road in the early 1860s.
+
+<img src="/images/Vol%204%20Issue%204/StreetNames/tks%20will.jpg" style="width:50%;">
+ <div style="background-color: white;">In his Will and Testament dated 17 December 1863, Tan Kim Seng appointed his sons, Tan Beng Swee and Tan Bee Gam, executors and trustees of his estate.<i>Courtesy of Koh Seow Chuan.</i></div>
 
 Tan Kim Seng was one of the earliest settlers from Malacca. A prominent public benefactor and merchant, he came to Singapore at an early age. He established his mercantile firm, Kim Seng &amp; Co., at Boat Quay in 1842. It soon flourished. By the early 1850s, the company had branches at Malacca, Macassar and Shanghai. It also owned land and property in Singapore, and Tan Kim Seng became one of the wealthiest and most prominent Chinese merchants.
 
