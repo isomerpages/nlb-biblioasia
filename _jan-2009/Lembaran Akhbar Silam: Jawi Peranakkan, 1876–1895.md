@@ -88,6 +88,9 @@ Satu lagi maklumat penting terbitan akhbar ini ialah carta penyelarasan dan perb
 
 Pengaruh Islam tersergam melalui slogan akhbar; “*Tawakkal itu sebaikbaik bekal. Bagi orang-orang yang berakal. Peliharalah sampai keka*l.” Ia merangsang pembacanya agar mempertingkatkan taraf hidup tanpa berserah kepada takdir sahaja. Pembaca diyakinkan dengan kewibawaan berita-berita yang disiarkan melalui jaminan di muka utamanya iaitu: “*Adapun akhbar ini semata-mata benar pengkhabarannya dan akhbar inilah yang dijadikan Tuhan tauladan di antara akhbar Melayu yang lain-lain itu adanya*.”
 
+<img src="/images/Vol%204%20Issue%204/JawiPeranakkan/antara%20sumber.jpg" style="width:50%;">
+ <div style="background-color: white;">Antara sumber rujukan mengenai akhbar-akhbar Melayu. <i>All rights reserved, Persatuan Sejarah Malaysia, 1980.</i></div>
+
 Pada awal penerbitannya, *Jawi Peranakkan* menggunakan banyak istilah Arab. Pendeta Zaaba menjelaskan, “*True to its name, at least as the number before us shows, this paper seems to have been strongly influenced by Arabic journalistic terms and methods. It uses “‘adad” instead of “bilangan” for number; and “qimal ul-akhbar” instead of “harga langganan” for subscription rate*s”.[^11] Beberapa perkataan Arab yang digunakan ialah; “imtihan” untuk peperiksaan, “mutalaah” untuk pembaca, Hari “Arba” untuk Hari Rabu, “tabiin” untuk sahabat, dan sebagainya. Akhbar ini mula menggunakan istilah bahasa Inggeris pada tahun-tahun 1880- an seperti perkataan-perkataan; “prestige” “list”, “scholarship”, “foreign office", “contract”, “telegram” dan sebagainya.
 
 #### **Lidah Pengarang: Peniup Semangat Nasionalisme Melayu**
