@@ -122,7 +122,7 @@ Tan Jiak Kim is renowned for his service to the government and community. He was
 
 Nee Soon Road was named after Lim Nee Soon in 1950. It was regarded as a “rural” road being far away from the town. In the early 1900s, rubber plantations were found here, where Lim embarked on his pioneering journey as a rubber and pineapple planter.
 
-<img src="/images/Vol%204%20Issue%204/StreetNames/neesoon_pa.jpg" style="width:50%;">
+<img src="/images/Vol%204%20Issue%204/StreetNames/neesoon_pa.jpg" style="width:80%;">
  <div style="background-color: white;">In the Power of Attorney dated 12 April 1919, Lim Nee Soon, and two other prominent persons – Lee Chim Tuan, manager of Lee Cheng Yan &amp; Co., and Yeo Hock Hoe, partner of Ching Keng Lee &amp; Co. – were appointed by the lessees of the “Raffles Chambers” as attorneys with power to manage this building. <i>Courtesy of Koh Seow Chuan. </i></div>
 
 Lim Nee Soon played an active role in the public affairs of the Colony, especially in education. He was a Justice of the Peace and a member of the Rural Board. He contributed generously to the Chinese High School and was its treasurer when it was opened in 1919.
