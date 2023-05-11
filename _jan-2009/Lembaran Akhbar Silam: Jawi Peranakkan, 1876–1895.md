@@ -107,7 +107,38 @@ Dari sudut persuratan, akhbar ini menggalak orang Melayu supaya akif dalam kehid
 
    “*Hai kera yang tiada mengetahui*<br>   *Cubalah membaca hikayat atau membeli*<br>   *Hikayat Abdullah bin Abdul Kadir* Munsyi<br>   ”*Kerana di dalamnya banyak pengajaran diri*
 
+#### **Kesedaran Sikap dan Sifat Orang Melayu**
 
+Sepanjang penerbitannya, *Jawi Peranakkan* berperanan untuk menyatukan orang-orang Melayu dengan meniup semangat kesedaran kebangsaan mereka. Dengan pembacaan akhbar, mereka akan lebih peka tentang dunia luar, dapat menghakis semangat kedaerahan dan memberi mereka peluang mengenal Melayu jati diri.
 
+Akhbar ini lantang mengkritik dan menegur kelemahan orang Melayu serta menekankan kepentingan pelajaran sebagai kunci kemajuan bangsa. Dalam keluaran 28 Mac 1891, pengarangnya menulis bahawa akibat kekurangan ilmu, orang Melayu telah dijajah. Perasaan ini diluahkan dalam rencana mengenai keadaan sosial masyarakat; “Lihatlah tuan, beberapa lain bangsa yang mengambil faedah ilmu kita hingga pandai ia di dalam bahasa kita seperti Inggeris. Mereka belajar hingga ditawan segala Melayu yang bodoh, daripada faedah ilmu Melayu….”. “*Shahadan kalau orang Melayu kita boleh bilang sepuluh satu atau sepuluh dua yang dapat ilmu Melayu itu beberapa banyak yang telah mendapat malu sebab tiada mereka mempusakai faedah ilmu. Ayat hanya dipusakakan segala kejahatan dunia ini seperti mabuk, judi, curi dan sebagainya*”.
+
+Akhbar keluaran yang sama juga menarik perhatian pembaca tentang kelemahan sikap orang Melayu seperti pemalas, menghisap ganja dan mencuri seperti tertera dalam syair ini;
+
+   “*Banyak ku lihat kita Melayu* <br>   *Hati beku, masygul menjadi sayu* <br>   *Kerjanya berat meramu kayu* <br>    *Lama tak lama badan pun layu* <br> <br> 
+
+   *Setengah memakan opium dan madat*<br>   *Sayang malam tiada syahadat*<br>   *Hatib konon itu ibadat*<br>   *Di dalam neraka ia terpadat*”
+
+Akhbar *Jawi Peranakkan* memberi inspirasi kepada khalayak senarai pembacanya supaya terus menuntut ilmu dengan menyiarkan penerima-penerima “scholarship” untuk pelajarpelajar Melayu Singapura yang mendapat markah melebehi 77% dalam ujian kelayakan (akhbar terbitan 10 Oktober 1887). Tiga pelajar yang dapat meraih biasiswa ini; Awang bin Osman dari Sekolah Telok Saga, Mohamed Salih bin Ambob dari Sekolah Kampong Jagoh dan Kandi bin Kacong dari Sekolah Kampong Gelam mendapat biasiswa sebanyak $36 setahun daripada pemerintah.
+
+#### **Penutupan Akhbar**
+
+Selain menjadi akhbar Melayu perintis di nusantara dan yang paling lama bertahan penerbitannya di Malaya di abad ke sembilan belas, *Jawi Peranakkan* berjaya menyemarakkan penerbitan Melayu tempatan yang lain kerana rata-rata 17 majalah-majalah terbitan antara tahun 1876 dan 1905 telah ditaja atau disunting oleh pegawai-pegawai dari akhbar *Jawi Peranakkan*.
+
+Dibawah skim latihan anjuran Syarikat Jawi Peranakkan, pelajar-pelajar lepasan sekolah Melayu dan Inggeris dilatih bekerja di Jabatan Percetakan syarikat ini. Mereka kemudiannya menjadi kakitangan di syarikat percetakan lain yang memberi sumbangan penting kepada percetakan buku-buku Melayu di rantau ini.
+
+Walaupun akhbar ini dapat bertahan hampir 20 tahun, syarikatnya kemudian menghadapi masaalah kewangan kerana ramai pelanggan dan wakil penjualnya berhutang yuran langganan terutama selepas kematian pengarangnya, Munysi Muhammad Said pada tahun 1885.
+
+Penutupan akhbar ini juga dikaitkan dengan sebab-sebab berikut:
+
+1) Kekurangan sumbangan berita daripada pembacanya. Dalam iklan akhbar bertarikh 29 Oktober 1888, pengarangnya telah merayu pembaca-pembaca supaya menyumbangkan berita dan karya sastera.
+
+2) Ketiadaan penyunting/pengarang yang berkaliber
+
+3) Pentadbiran yang sering bertukar sejak kematian Munsyi Said menjejas kesinambungan dalam pengurusan. Seramai 5 orang telah memegang jawatan pengurus di antara Julai 1888 dan Januari 1894.
+
+4) Terdapat persaingan daripada beberapa akhbar berbahasa Melayu lain seperti *Seri Perak*, *Bintang Timor*, *Tanjong Penagri* dan akhbar dwi bahasa, Melayu dan Inggeris; *The Straits Chinese Herald*.
+
+Akhirnya, setelah menjadi penggerak masyarakat Melayu-Islam selama hampir dua dekad, akhbar *Jawi Peranakkan* telah menamatkan penerbitannya dengan edisi terakhir terbitan bulan April 1895.
 
 
