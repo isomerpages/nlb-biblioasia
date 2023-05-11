@@ -55,6 +55,45 @@ Akhbar *Jawi Peranakkan* berperanan menggalakkan tabiat gemar membaca dengan men
 
 Ketara sekali adalah jadual pelayaran kapal api baru bernama “*Seri Melaka*” yang berulang alik tiga hari sekali dari pelabuhan Singapura ke Melaka dan Kelang diiklankan pada 5 Disember 1887. Pelayarannya bermula pada jam 7 pagi pada 21 November 1887 dengan tambangnya di antara satu hingga sepuluh Ringgit menurut destinasi dan jarak perjalanan.
 
+*Jawi Peranakkan* juga menyiarkan Warta Pemerintah dan notis kerajaan seperti data statistik kelahiran dan kematian dalam Negeri-Negeri Selat pada tahun 1890 dengan ceraian terperinci bangsa dan umur. Akhbar keluaran 7 Julai 1891 melaporkan kadar bayi yang lahir pada tahun 1890 ialah seramai 10,010 orang sementara kematian adalah seramai 16,813 orang. Akhbar ini juga merumuskan; “*Telah dibanding dengan kira-kira tahun 1889 maka adalah yang zahir di dalam tahun 1890 itu banyak kurang daripada tahun ini, 1889 seperti Singapura, Pulau Pinang, Seberang Prai banyak kurang atau Melaka pun kurang juga daripada tahun 1889. …*”
+
+Dari segi ekonomi, ia menjadi bahan rujukan berguna tentang harga barang dagangan semasa seperti timah, gambir, rempah ratus dan barangbarang lain di pasaran Singapura. Kadar tukaran wang asing(8) juga menjadi antara ruangan tetap setiap keluarannya.
+
+#### **Berita Tempatan dan Luar Negeri**
+
+Penyiaran berita tempatan dan luar negeri meliputi kejadian-kejadian yang berlaku di Malaya khususnya NegeriNegeri Selat, Indonesia juga Brunei.
+
+William Roff, sejarawan Inggeris mengulas “*Jika dibandingkan akhbar ini dengan akhbar-akhbar yang diterbitkan pada masa sekarang ini, dapat kita katakan bahawa Jawi Peranakkan ini amat membosankan*.”9 Ini berkemungkinan kerana ketiadaan gambar atau illustrasi dan liputan beritanya pula merupakan berita seharian yang berkaitan masyarakat masa itu.
+
+Berita luar negeri turut dimuatkan dalam ruangan “Perkhabaran dari Kawat/Telegram “ seperti peperangan di Afghanistan dan persiapan 14,000 orang askar-askar China untuk berperang dengan askar-askar Jepun (bertarikh 12 Januari 1880 dan 22 Oktober 1894).
+
+Liputan berita Singapura dari tahun 1881, 1887–1895 berkisar kepada kejadian jenayah, kemalangan dan kes-kes perbicaraan mahkamah. Hal pemberian tanah percuma di Havelock Road untuk keluarga Islam yang miskin tersiar dalam keluaran 7 Februari 1887, kebakaran rumah-rumah dan kedai-kedai seperti di Kampong Gelam pada bulan Disember 1881 dan berita tergempar penemuan seekor harimau di Punggol pada 23 Mac 1887 antara berita tempatannya. Selain itu terdapat juga berita tentang persekolahan seperti pembaikan Sekolah Melayu Kampong Gelam dalam bulan Mac 1881, tindakan ibu bapa mengeluarkan anak-anak mereka dari sekolah Raffles lantaran yuran sekolah naik pada tahun 1891,10 dan rancangan penutupan Sekolah Kampong Gelam pada bulan Ogos 1894.
+
+#### **Edisi Khas**
+
+Untuk meraikan kedatangan setiap bulan Ramadan, akhbar ini menerbitkan edisi istimewanya seperti edisi 29 Syaaban tahun Hijrah1304 bersamaan 23 Mei 1887 (yang pada hari lain dipenuhi iklan perniagaan) telah menyiarkan syair keislaman dengan hiasan “bingkai ilustrasi”.
+
+Satu lagi maklumat penting terbitan akhbar ini ialah carta penyelarasan dan perbandingan Kalendar Masehi dengan Takwim Islam dan Kalendar Cina. Dalam keluaran akhbar ini dicatatkan tarikh 31 Ogos tahun 1891 itu bersamaan 30 Muharram 1309 Hijrah dan juga bersamaan bulan Cina, bulan 7, tahun Kongsu 17. Persatuan *Jawi Peranakkan* juga menerbitkan carta Takwin Bandingan ini dan dijual dengan harga 10 sen.
+
+#### **Pengaruh Bahasa Arab dan Inggeris**
+
+Pengaruh Islam tersergam melalui slogan akhbar; “*Tawakkal itu sebaikbaik bekal. Bagi orang-orang yang berakal. Peliharalah sampai keka*l.” Ia merangsang pembacanya agar mempertingkatkan taraf hidup tanpa berserah kepada takdir sahaja. Pembaca diyakinkan dengan kewibawaan berita-berita yang disiarkan melalui jaminan di muka utamanya iaitu: “*Adapun akhbar ini semata-mata benar pengkhabarannya dan akhbar inilah yang dijadikan Tuhan tauladan di antara akhbar Melayu yang lain-lain itu adanya*.”
+
+Pada awal penerbitannya, *Jawi Peranakkan* menggunakan banyak istilah Arab. Pendeta Zaaba menjelaskan, “*True to its name, at least as the number before us shows, this paper seems to have been strongly influenced by Arabic journalistic terms and methods. It uses “‘adad” instead of “bilangan” for number; and “qimal ul-akhbar” instead of “harga langganan” for subscription rate*s”.11 Beberapa perkataan Arab yang digunakan ialah; “imtihan” untuk peperiksaan, “mutalaah” untuk pembaca, Hari “Arba” untuk Hari Rabu, “tabiin” untuk sahabat, dan sebagainya. Akhbar ini mula menggunakan istilah bahasa Inggeris pada tahun-tahun 1880- an seperti perkataan-perkataan; “prestige” “list”, “scholarship”, “foreign office", “contract”, “telegram” dan sebagainya.
+
+#### **Lidah Pengarang: Peniup Semangat Nasionalisme Melayu**
+
+Di tahun-tahun awal penerbitannya, akhbar ini banyak menyentuh isu-isu masyarakat, umpamanya terbitan 2 April 1888 menunjukkan keprihatinan tentang keengganan orang-orang kampung mendapatkan rawatan kesihatan di hospital ketika wabak kolera melanda Singapura. Penduduk-penduduk terutama wanita mengandung dan kanak-kanak dilaporkan telah meninggalkan kampung mereka di Tanjong Katong dan lari ke Changi kerana takut jangkitan wabak tersebut.12
+
+Akhbar yang berorientasikan Islam ini membimbing dan memberi panduan keagamaan. Melalui ruangan khusus, dimuatkan doa-doa amalan seharian dan petikan hadis. Akhbar keluaran 31 Ogos 1891 mengandungi hadis yang mengatakan “*Barang siapa yang makan dari makanan yang gugur dari hidangan itu dapat menghindarkan kemiskinan*.”
+
+Dakwah Islamiah, hukum hakam dan fatwa juga disertakan dalam kemusykilan agama. Akhbar ini pernah melaporkan berita tentang perselisihan faham antara seorang wanita dengan Haji Lebar, seorang kadhi Singapura. Wanita berkenaan, murid kadhi tersebut, ditegur tidak sah berpuasa pada hari Jumaat (10 Syawal 1311/ 1894). Wanita itu menyangkal teguran ini dan menegaskan bahawa jika puasa dan sembahyangnya tidak sah kerana berpuasa hari Jumaat, maka “*sekelian orang-orang dalam Singapura itupun tiadalah juga sah puasanya*”. Beliau lalu menyarankan supaya tokoh-tokoh agama membicarakan soal hukum dan pengajian Islam.13
+
+Bertanggungjawab membangkitkan semangat nasionalisme orang Melayu walaupun polisi akhbar terhadap pemerintah British bersifat sederhana seperti komen Birch: “*Towards Government its tone is not hostile, nor even critical: indeed in only one instance was anything like a burst of feeling given bent to: it was in the case of the recent “Holidays Ordinance*.” 14 Keberanian akhbar ini mengkritik pemerintah British yang tidak peka dengan sensitiviti agama dan budaya orang Melayu menarik perhatian kerana “*It was the first Malay newspaper to criticise a British colonial policy. i.e. for not declaring ‘Idilfitri and Idiladha as public holiday*.“15 
+
+Dalam beberapa keluarannya, pengarangnya juga menegur pegawai-pegawai Inggeris yang menggunakan istilah “hang”, “engkau,” “aku”,“lu”, dan “gua” apabila bertutur kerana ia dianggap bertentangan dengan etika Melayu.
+
+Untuk pertama kali nya dalam sejarah, pengarang nya juga mengkritik tentang kelemahan bahasa Melayu dalam keluaran 6 Februari 1893; “*The factors which weaken our language are; first there is no work on grammar, second, there is no dictionary; and third; no thought has been given to the questions of its teachers and schools*”.16
 
 
 
