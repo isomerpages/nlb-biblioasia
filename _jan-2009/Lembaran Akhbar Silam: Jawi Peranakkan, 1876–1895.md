@@ -236,3 +236,47 @@ Ratnala Thulaja Naidu, [Jawi Peranakan](https://eresources.nlb.gov.sg/infopedia/
 05 Jan 1891–25 Jun 1894 (Microfilm NL10609)
 
 02 Jul 1894–22 Apr 1895 (Microfilm NL10610)
+
+#### **NOTES**
+
+[^1]:  Khoo, Kay Kim and Jazamuddin Baharuddin, eds., [_Lembaran Akhbar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4095629) (Kuala Lumpur: Persatuan Sejarah Malaysia, 1980), 3. (Call no. RSING 070.9595 LEM)
+
+[^2]: Tan Yew Soon and Soh Yew Peng, [_The Development of Singapore’s Modern Media Industry_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6685660) &nbsp;(Singapore: Times Academic Press, 1994), 1. (Call no. RSING 338.4730223 TAN)
+
+[^3]: John A. Lent, “Malaysia’s National Language Mass Media: History and Present Status,” _South East Asian Studies_ 15, no. 4 (March 1978): 598, https://kyoto-seas.org/pdf/15/4/150408.pdf.
+
+[^4]: Tuminah Sapawi, “[Pioneer of Malay News](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920826-1.2.59.6.4),” _Straits Times_, 26 August 1992, 9. (From NewspaperSG). Akhbar ini menyiarkan berita luar negeri yang dipetik dari akhbarakhbar Inggeris. Mengenai berita tempatan, ia memuatkan berita luar biasa seperti bencana alam serta tentang keluarga masyarakat Melayu di Kuala Kertel dan kawasan lain di Sri Lanka. Penerbitan akhbar ini dihentikan pada tahun 1870 kerana kurang sokongan dari pelanggan tempatan. Penerbitannya disambung kembali pada 1877, tetapi terpaksa dihentikan sekali lagi pada tahun berikutnya kerana sebab yang sama.
+
+[^5]: Samat Buang, “Sejarah Perkembangan Akhbar Melayu Abad Ke-19 (Bahagian Satu),” _Pelita Bahasa_ (February 1993): 45. Akhbar terbitan H. Fuhri ini mempunyai kandungan yang berorientasikan hal perniagaan.
+
+[^6]: Zainal Abidin Ahmad, “Malay Journalism in Malaya,” _Journal of the Malayan Branch of the Royal Society_ 19, no. 2 (October 1941): 244–50 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Also published in Abdullah Hussain and Khalid M. Hussain, [_Pendeta Za’ba Dalam Kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000), 295. (Call no. R899.28092 ABD)
+
+[^7]: E. W. Birch, “The Vernacular Press in the Straits,” in [_Singapore 150 years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080128), ed. Mubin Sheppard (Singapore: Times Books International, 1982), 206. (Call no. RSING 959.57 SIN-HIS) (Originally published in _Journal of the Malaysian Branch Asiatic Society_ 42, no. 1(215) (July 1969): 192–5. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^8]: Pada tahun 1881, satu pound sterling sama nilainya dengan $5.40 sen tetapi pada tahun 1896, satu pound sterling sama nilainya dengan $10.
+
+[^9]: William Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289) (Pulau Pinang: diterbitkan dengan kerjasama Sinaran, 1967), 9. (Call no. RSEA 079.595 ROF)
+
+[^10]: Rahmah Hashim, “Citra Wanita Dalam Akhbar Zaman Kolonial: Analisis Kandungan Akhbar Jawi Peranakkan Dan Utusan Melayu,” _Sari_, no. 15–16 (July 1998): 83.
+
+[^11]: Zainal, [_Pendeta Za’ba Dalam_ Kenangan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233), 295.
+
+[^12]: Nik Ahmad bin Haji Nik Hassan, “The Malay Press,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 36, no. 1 (201) (May 1963): 38. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^13]: Hashim, “Citra Wanita Dalam Akhbar Zaman Kolonial,” 89.
+
+[^14]: Birch, “Vernacular Press,” 205.
+
+[^15]: Mohd. Yusof Hussain, [_Mass Media in Selected Muslim Countries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13049203), 2nd ed. (Kuala Lumpur: International Islamic University Malaysia, 2008), 48. (Call no. R 302.23 MAS)
+
+[^16]: Nik Ahmad, “Malay Press,” 41.
+
+[^17]: Lent, “History and Present Status,” 599.
+
+[^18]: Hashim Haji Musa, [_Sejarah Perkembangan Tulisan Jawi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9407622) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1999), 171. (Call no. R 499.2811 HAS)
+
+[^19]: Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289), 9.
+
+[^20]: Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289), 9.
+
+
