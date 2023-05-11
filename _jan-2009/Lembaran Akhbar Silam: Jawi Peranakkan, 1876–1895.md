@@ -278,5 +278,3 @@ Ratnala Thulaja Naidu, [Jawi Peranakan](https://eresources.nlb.gov.sg/infopedia/
 [^19]: Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289), 9.
 
 [^20]: Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289), 9.
-
-
