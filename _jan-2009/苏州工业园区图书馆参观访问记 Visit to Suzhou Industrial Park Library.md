@@ -39,14 +39,11 @@ Three librarians from the Lee Kong Chian Reference Library (LKCKRL) visited the 
 
 During their interactions, LKCRL librarians also shared the Collaborative Reference Network Services (a National Library Board L2010 project) with the Dushu Lake librarians who agreed that there is plenty of room for collaboration between the two libraries in the digital age.
 
-
-
-
-
-
-
-
-
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Vicky%20Gao.jpg">
+<center><b>Vicky Gao</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
 
 
