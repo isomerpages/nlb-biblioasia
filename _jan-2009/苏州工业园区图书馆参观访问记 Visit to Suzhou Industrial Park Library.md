@@ -9,6 +9,11 @@ image: /images/Vol 4 Issue 4/Suzhou/sz sm goh.jpg
 ---
 #### Since its inception in 1994, the Suzhou Industrial Park has evolved into the largest economic cooperation project between China and Singapore. Three librarians from the Lee Kong Chian Reference Library visited the Suzhou Dushu Lake Library in October 2008.
 
+<img src="/images/Vol%204%20Issue%204/Suzhou/sz%20sm%20goh.jpg" style="width:80%;">
+ <div style="background-color: white;">1994年2月26日，中国李岚清副总理和新加坡李光耀资政分别代表中新两国政府在 北京签署了合作开发建设苏州工业园区的协议。<i>苏州工业园区投资指南2007. (索书号：Chinese R 338.951136 SUZ） 	
+	
+Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></i></div><i>
+
 #### **关于苏州新加坡工业园**
 
 1994年2月26日，中国李岚 清副总理和新加坡李光耀资 政分别代表中新两国政府在 北京签署了合作开发建设 苏州工业园区的协议。同年 5月12日，苏州工业园区破 土起动, 目标是在苏州建设 一个现代化、国际化和园林 化的高科技工业园区。苏州 工业园区项目已成为中新两 国政府间最大的经济技术合 作项目。
@@ -43,7 +48,4 @@ During their interactions, LKCRL librarians also shared the Collaborative Refere
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Vicky%20Gao.jpg">
-<center><b>Vicky Gao</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
-
-
-
+<center><b>Vicky Gao</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div></i>
