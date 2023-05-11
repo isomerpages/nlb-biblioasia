@@ -35,14 +35,25 @@ Dalam tahun pertama penerbitannya, ia menggunakan tulisan manuskrip dan litograf
 
 Berharga 30 sen senaskah atau 5 Ringgit untuk langganan setahun. Harganya kemudian dikurangkan kepada 15 sen kerana berkemungkinan untuk menyaingi penjualan dan pembacaan akhbar-akhbar semasa seperti, *Sekolah Melayu (terbit 1888)* dan *Bintang Timor (terbit 1894)*
 
+#### **Kandungan *Jawi Peranakkan***
 
+Penulis telah meneliti beberapa salinan akhbar dalam bentuk digital (tarikh 28 Mac 1881), salinan fotokopi (tarikh 18 April 1891), dan gelung mikrofilem (tarikh 3 Januari 1887–22 April 1895) dari Koleksi Perpustakaan Negara Singapura (salinan dari British Library) mengesahkan pemerhatian Pendeta Zaaba mengenai format akhbar ini; “….*It is no. 38 of the first volume bearing the date 15 Oct 1877. From this copy which unfortunately has lost pages 3–6, it is clear that the paper at least in its earlier days, was an 8-page affair, each page of a foolscap size, and published every Monday. It was a lithograph production, and although judged by our present standard it can only be described as poor work, yet in those early days it must have been regarded as a Godsend. It is certainly a creditable pioneering effort*.“6
 
+Seperti akhbar-akhbar Inggeris terbitan Singapura, akhbar *Jawi Peranakkan* yang bertujuan untuk menyiarkan berita mutakhir ini, banyak menyiarkan berita dalam dan luar negeri, iklan-iklan, warta pemerintah British, ruangan lidah pengarang, surat pembaca dan juga syair.
 
+Akhbar ini dicetak dengan edaran terhad iaini 250 naskhah (tahun 1880) dengan sasaran utamanya kepada golongan elit Arab, India dan Baba Peranakan yang boleh berbahasa Melayu.
 
+Apabila Maktab Perguruan Melayu yang pertama dibuka di Singapura pada tahun 1878, ramai pelajar-pelajar yang melanggani akhbar ini. Pemerintah British menyokong dengan melanggannya untuk pelajar-pelajar sekolah Melayu sebagai bahan bacaan tambahan bagi menampung kekurangan bahan bacaan ketika itu.
 
+Walaupun jumlah edaran terhad, akhbar ini dapat menjelajahi dunia melalui beberapa wakil pengedaran di London dan beberapa negeri di Malaya dan Indonesia.
 
+#### **Ruangan Tetap: Iklan dan Pemberitahuan**
 
+Pada tahun-tahun awal penerbitannya, halaman utama dikhaskan untuk iklan-iklan dagangan yang juga berfungsi sebagai maklumat seranta bagi syarikat-syarikat seperti Tanjong Pagar Ltd, dan Straits Ice Company. Terdapat juga iklan khidmat doktor gigi beralamat 25, South Bridge Road, iklan penjualan ubat-ubatan demam, minyak wangi serta airbatu.
 
+Akhbar *Jawi Peranakkan* berperanan menggalakkan tabiat gemar membaca dengan mengiklankan buku-buku baru terbit. Pada tahun 1880, buat pertama kalinya tersiar iklan “*Hikayat Abdullah telah dicap semula oleh Asiatic Society dan siapa berhajat memesannya boleh berhubungan dengan pihak yang berkuasa Rumah Gambar Singapura*.”7 Juga iklan penjualan beberapa tajuk buku di kedai Haji Mohamad Sirat beralamat 43, Sultan Road, Singapura seperti “*Hikayat Ganja Mara*” dan “*Hikayat Miskin*” tercatat dalam beberapa keluaran akhbar ini.
+
+Ketara sekali adalah jadual pelayaran kapal api baru bernama “*Seri Melaka*” yang berulang alik tiga hari sekali dari pelabuhan Singapura ke Melaka dan Kelang diiklankan pada 5 Disember 1887. Pelayarannya bermula pada jam 7 pagi pada 21 November 1887 dengan tambangnya di antara satu hingga sepuluh Ringgit menurut destinasi dan jarak perjalanan.
 
 
 
