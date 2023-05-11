@@ -153,6 +153,12 @@ Mengenai gaya pemberitaan akhbar ini yang berbeda dengan laporan akhbar-akhbar t
 
 Kehadiran akhbar ini telah menyemarakkan sastera Melayu dan menjadikan Singapura sebagai pusat kesusasteraan di rantau ini sehingga Perang Dunia pertama apabila peranan ini diambilalih oleh Indonesia.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Sundusia.jpg">
+<center><b>Sundusia Rosdi</b><br> Senior Librarian<br> Professional Services<br> National Library Board</center></div>
+
 
 
 
