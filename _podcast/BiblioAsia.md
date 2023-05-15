@@ -9,6 +9,9 @@ BiblioAsia+ is a podcast series about Singapore stories: some unfamiliar, others
 
 <img src="/images/Podcast/podcast%20logo.jpg" style="width:auto; height:400px;">
 
+#### **Listen to the Podcast** ####
+Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
+
 #### **Credits** ####
 Host: Jimmy Yap<br>
 Producer: Soh Gek Han<br>
