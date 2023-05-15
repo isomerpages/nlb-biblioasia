@@ -1,4 +1,5 @@
 collections:
   podcast:
     output: true
-    order: []
+    order:
+      - My Grandfather Was a Rōmusha.md
