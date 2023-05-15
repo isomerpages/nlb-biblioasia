@@ -25,7 +25,7 @@ Eric Lomax, [<i>The Railway Man</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus
 Jimmy  0:10  
 You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
 
-When you hear this tune, what instantly springs to mind is David Leans' award-winning movie, The Bridge on the River Kwai. That movie immortalises the story of the building of the Thai-Burma railway during the Second World War. If you've watched the movie, you might be forgiven for thinking that the only people who were involved in the building of this railway were POWs, who were the focus of the film. In reality, though, the vast majority of the workforce consisted of labourers from Japanese-occupied Malaya. 
+When you hear this tune, what instantly springs to mind is David Leans's award-winning movie, *The Bridge on the River Kwai*. That movie immortalises the story of the building of the Thai-Burma railway during the Second World War. If you've watched the movie, you might be forgiven for thinking that the only people who were involved in the building of this railway were POWs, who were the focus of the film. In reality, though, the vast majority of the workforce consisted of labourers from Japanese-occupied Malaya. 
 
 My name is Jimmy Yap, and I'm the editor-in-chief of BiblioAsia. In this episode, we're going to talk about the hundreds of thousands of men from Malaya and Singapore who were lied to tricked, cajoled or coerced into getting involved in the building of what is now known as the Death Railway. Stretching over 415 km, the railway took 16 months to construct. With work starting in June 1942, an estimated 60,000 POWs and some 200,000 civilian labourers slaved under brutal conditions to build a railway. Those civilian labourers were known as rōmusha. The Death Railway got its name because of the thousands of workers who died during its construction. Those men worked with minimal equipment, only picks and shovels. Their living conditions were wretched, and their working conditions deadly. It is estimated that more than 90,000 rōmusha perished by the end of the war. There are few, if any, official records of the civilian labourers, though. What little we know about the rōmusha comes mainly from what is mentioned in accounts written by POWs. 
 
@@ -74,19 +74,19 @@ Jimmy  9:37
 What exactly did your grandfather say about his time in Thailand? He didn't say very much but he must have said something.
 
 Shirlene  9:42  
-He did speak about some of the hardships he faced: about the complete lack of food sometimes, about going hungry, about making friends with the locals because I think he was allowed to exit the camp sometimes to buy food. I don't know where he got the money, maybe there was a barter trade going on. But he did speak about having friends among the local Thai people who helped him with food and medication. Well, at least local medicine that was available to help him and maybe his fellow rōmushas who were suffering. He spoke about how rudimentary the conditions in the camp were, like his bed, for instance. He had to fashion his own bed out of bamboo, very low to the ground. It was always muddy, raining, lots of snakes, lots of mosquitoes. So, disease was rife. And there were obviously a lot of death around him all the time. And one of his duties was to bury the dead the next morning.
+He did speak about some of the hardships he faced: about the complete lack of food sometimes, about going hungry, about making friends with the locals because I think he was allowed to exit the camp sometimes to buy food. I don't know where he got the money, maybe there was a barter trade going on. But he did speak about having friends among the local Thai people who helped him with food and medication. Well, at least local medicine that was available to help him and maybe his fellow rōmusha who were suffering. He spoke about how rudimentary the conditions in the camp were, like his bed, for instance. He had to fashion his own bed out of bamboo, very low to the ground. It was always muddy, raining, lots of snakes, lots of mosquitoes. So, disease was rife. And there were obviously a lot of death around him all the time. And one of his duties was to bury the dead the next morning.
 
 Jimmy  11:10  
 He wanted to give them Muslim burial rites?
 
 Shirlene  11:14  
-Yes, as a Muslim, his wish was to give his fellow Muslim rōmushas the Muslim burial rites, but it was just not possible sometimes. So that was, I think, one of the toughest things for him.
+Yes, as a Muslim, his wish was to give his fellow Muslim rōmusha the Muslim burial rites, but it was just not possible sometimes. So that was, I think, one of the toughest things for him.
 
 Jimmy  11:33  
 I can imagine. It must have been quite hard. We know about the Death Railway because of movies like The Bridge on the River Kwai and all that. But we don't know as much about the rōmusha. Why is that?
 
 Shirlene  11:46  
-I think this is because many of the rōmushas came from plantations, from the villages. And many were illiterate. Many of the rōmushas who came from Malaya were actually Tamil plantation workers. So they came from the deep plantations of Malaya, and they couldn't read or write. And, interestingly, they were attracted to the work because the Japanese marketed it as real work with real pay, very good wages. So some of these Tamil plantation workers actually voluntarily signed up, and went on to the Death Railway, to the Thai-Burma railway, with their families. With their wife with their children. Some of the children were actually brought to the camps because they really thought it was a real job, and a job that would pay more than working in a rubber plantation or a palm oil plantation. Nobody knew about the appalling conditions. And some of these Tamil plantation workers actually brought entire families. There is a group in Malaysia called the Death Railway Group on Facebook. I have seen some postings on the Facebook page about the rōmusha children who actually grew up in the camp. Of course, when these Facebook posts were done, they were already in their late 80s, 90s. But they were kids. They went to the camps with their parents. 
+I think this is because many of the rōmusha came from plantations, from the villages. And many were illiterate. Many of the rōmusha who came from Malaya were actually Tamil plantation workers. So they came from the deep plantations of Malaya, and they couldn't read or write. And, interestingly, they were attracted to the work because the Japanese marketed it as real work with real pay, very good wages. So some of these Tamil plantation workers actually voluntarily signed up, and went on to the Death Railway, to the Thai-Burma railway, with their families. With their wife with their children. Some of the children were actually brought to the camps because they really thought it was a real job, and a job that would pay more than working in a rubber plantation or a palm oil plantation. Nobody knew about the appalling conditions. And some of these Tamil plantation workers actually brought entire families. There is a group in Malaysia called the Death Railway Group on Facebook. I have seen some postings on the Facebook page about the rōmusha children who actually grew up in the camp. Of course, when these Facebook posts were done, they were already in their late 80s, 90s. But they were kids. They went to the camps with their parents. 
 
 Jimmy  13:40  
 And they wrote about what they remember? 
@@ -98,7 +98,7 @@ Jimmy  13:56
 Right, because it's been such a long time. Given the paucity of information, how do you reconstruct what happened to your grandfather?
 
 Shirlene  14:06  
-From reading accounts of the British by the British POWs. They were the ones who were able to give full accounts of their experience in the camps. And they would mention the rōmusha conditions because they would be working on the same tracks or in the same workshops. The camps were separate, though. The British POWs, the Americans or the European POWs were separate from the rōmushas. And many of these accounts give some mention, very little mention in passing, of the rōmushas. A particular account is a book by Dr Hardie.
+From reading accounts of the British by the British POWs. They were the ones who were able to give full accounts of their experience in the camps. And they would mention the rōmusha conditions because they would be working on the same tracks or in the same workshops. The camps were separate, though. The British POWs, the Americans or the European POWs were separate from the rōmusha. And many of these accounts give some mention, very little mention in passing, of the rōmusha. A particular account is a book by Dr Hardie.
 
 Jimmy  14:57  
 What's his name again?
@@ -116,7 +116,7 @@ Jimmy  15:11
 And he talks about the rōmusha. 
 
 Shirlene  15:12  
-Yes. The information about the rōmushas, even the written accounts about the rōmushas, were very few and far between, tucked away in the stories, tucked in-between the accounts of the POWs.
+Yes. The information about the rōmusha, even the written accounts about the rōmusha, were very few and far between, tucked away in the stories, tucked in-between the accounts of the POWs.
 
 Jimmy  15:31  
 Of course, you're gonna write about your own life. So this is just stuff that you see around you.
@@ -131,7 +131,7 @@ Shirlene  16:04
 Exactly. 
 
 Jimmy  16:05  
-Speaking of that, you mentioned earlier that a lot of rōmushas didn't make it home. Not because they died, but after the war they had to make their own way home. What happened after the war?
+Speaking of that, you mentioned earlier that a lot of rōmusha didn't make it home. Not because they died, but after the war they had to make their own way home. What happened after the war?
 
 Shirlene  16:18  
 After the war, when the Japanese surrendered, the British POWs were able to organise themselves to find their way back. And obviously there were military reinforcements sent to Thailand to look out for the POWs and to liberate the camps. So there was a group of military officers who went up and down the railway line, looking for POWs and to record what had happened. Interestingly, this account I read from a Japanese interpreter who was part of the Japanese... I think, the Kempeitai. He was a translator with the Kempeitai who witnessed the torture of the POWs in the camps along the railway. So he was part of this group... He was brought together with the British military officers as a witness.
@@ -143,7 +143,7 @@ Shirlene  17:47
 After the war, going up and down the railway line, pointing out where the camps were, pointing out what happened. He wrote a book called <i>Crosses and Tigers</i>, about his experience as the interpreter during wartime and then his experience just after the war going up and down the railway line. And his regret also for his part in the Thai-Burma Railway.
 
 Jimmy  18:20  
-Okay, so the POWs had structure and assistance from outside to get back, but the civilians, the rōmushas, did not. 
+Okay, so the POWs had structure and assistance from outside to get back, but the civilians, the rōmusha, did not. 
 
 Shirlene  18:32  
 No. 
