@@ -41,7 +41,7 @@ Today, we can put a name and a face to one rōmusha: Kosman Hassan. He was the g
 Shirlene  3:17  
 "Rōmusha" is the Japanese word for labour. So it's a rather innocent word. But in the context of the Second World War in Southeast Asia, it's taken on a different meaning.
 
-<b>Her grandfather's experience on the railway</b><br>
+<b>How her grandfather came to work on the Death Railway</b><br>
 Jimmy  3:33  
 Can you give us a quick overview, for the people who haven't read your article, of your grandfather's experience working on the railway? When did he start, what did he do?
 
