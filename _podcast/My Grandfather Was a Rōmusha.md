@@ -290,7 +290,7 @@ Jimmy  36:52
 I hope you will find the necessary stuff in the Japanese archives, and that you will be able to put this together and create a really exciting and interesting documentary. As you say, it's very, very important. It is not something that a lot of people know about. Have you gotten any feedback for your article, beyond your friends and family?
 
 Shirlene  37:16  
-I think one of your colleagues, Veronica, forwarded me a comment that they received through the feedback channel. It was a very positive feedback and it was very touching.
+I think one of your colleagues, Veronica, forwarded me a comment that they received through the feedback channel. It was a very positive feedback, and it was very touching.
 
 Jimmy  37:31  
 Right. Okay, well, hopefully, this will launch you in a new direction and we will be able to see that movie, you know, in the Oscars.
