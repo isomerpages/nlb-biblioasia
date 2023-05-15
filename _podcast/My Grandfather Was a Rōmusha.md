@@ -15,6 +15,8 @@ Shirlene Noordin is the founder of Phish Communications, a communications consul
 #### **Listen to the Full Episode** ####
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
+Credits: Background music by [Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI).
+
 #### **Teaser clip** ####
 <a href=""><img src="/images/Podcast/ep%201%20(romusha%20by%20shirlene)%20teaser.jpg" style="width:auto; height:400px; float:left; margin-right:500px; margin-bottom:35px;"></a>
 
