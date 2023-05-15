@@ -12,6 +12,8 @@ During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue
 
 Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
 
+#### **Full episode** ####
+Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Teaser clip** ####
 <a href="https://www.instagram.com/p/Cr8BLFBJbQO/?utm_source=ig_web_copy_link&amp;igshid=MzRlODBiNWFlZA=="><img src="/images/Podcast/ep%201%20(romusha%20by%20shirlene)%20teaser.jpg" style="width:auto; height:400px; float:left; margin-right:500px; margin-bottom:25px;"></a>
