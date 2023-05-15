@@ -18,10 +18,11 @@ Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 <a href=""><img src="/images/Podcast/ep%204%20(belacan%20by%20toffa)%20teaser.jpg" style="width:auto; height:400px; float:left; margin-right:500px; margin-bottom:35px;"></a>
 
 #### **Resources** ####
- 
+Toffa Abdul Wahed, “[Belacan: Caviar? Or Vile and Disgusting?](/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)” <i>BiblioAsia</i> 19, no. 1 (2023).
 
+Gracie Lee, “[Crawfurd on Southeast Asia](/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” <i>BiblioAsia</i> 11, no. 4 (2016). 
+
+Sally Grainger, <i>[The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World]( https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569)</i> (Abingdon, Oxon: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
 
 #### **Transcript** ####
- 
-
