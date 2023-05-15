@@ -8,6 +8,8 @@ description: During World War II, forced civilian labourers known as rōmusha
 image: /images/Podcast/ep 1 (romusha by shirlene).jpg
 ---
 #### **Episode Summary** ####
+<img src="/images/Podcast/ep%201%20(romusha%20by%20shirlene).jpg" style="width:auto; height:300px">
+
 During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/) were used by the Imperial Japanese Army to build the infamous Thai-Burma Railway. Shirlene Noordin pieces together what happened to her grandfather in the three years he worked on the Death Railway. 
 
 #### **Resources** ####
