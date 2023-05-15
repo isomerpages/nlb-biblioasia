@@ -299,7 +299,9 @@ Shirlene  37:45
 Okay, maybe we can do it with BiblioAsia.
 
 Jimmy  37:47  
-Maybe we can. I will volunteer to be... I can't be a rōmusha because I'm not thin enough, but I'll be something. This is the part of the interview where we ask all our guests the same questions and we try to find interesting answers. So let me ask you, who is the coolest person in Singapore history?
+Maybe we can. I will volunteer to be... I can't be a rōmusha because I'm not thin enough, but I'll be something. 
+
+This is the part of the interview where we ask all our guests the same questions and we try to find interesting answers. So let me ask you, who is the coolest person in Singapore history?
 
 Shirlene  38:08  
 I think it has got to be P. Ramlee. 
