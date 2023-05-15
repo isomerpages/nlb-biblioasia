@@ -6,3 +6,28 @@ description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses whose
   origins and looks at their worship today.
 image: /images/Podcast/ep 2 (folk by yi-sheng) teaser.jpg
 ---
+#### **Episode Summary** ####
+Maiden Lin, Maiden Lei and Maiden Huang are local goddesses whose legends begin in Singapore. Award-winning writer Ng Yi-Sheng dives into their origins and looks at their worship today.   
+
+Ng Yi-Sheng is a poet, fictionist, playwright and researcher. His books include the debut poetry collection <i>last boy</i>, <i>A Book of Hims</i> and <i>Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.
+
+
+#### **Listen to the Full Episode** ####
+Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
+
+#### **Teaser clip** ####
+<a href=""><img src="/images/Podcast/ep%202%20(folk%20by%20yi-sheng)%20teaser.jpg" style="width:auto; height:400px; float:left; margin-right:500px; margin-bottom:35px;"></a>
+
+
+#### **Resources** ####
+ Ng Yi-Sheng, “[Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/),” <i>BiblioAsia</i> 18, no. 4 (2023). 
+ 
+William L. Gibson, “[Unravelling the Mystery of Ubin’s German Girl Shrine]( https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine),” <i>BiblioAsia</i> 13, no. 3 (2021).
+
+Lim Tai-Wei, [<i>Cultural Heritage and Peripheral Spaces in Singapore</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204486140) (Singapore: Palgrave Macmillian, 2017). (From National Library, Singapore, call no. RSING 363.69095957 LIM)  
+
+“[Singapore Maiden Joins the Taoist Pantheon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890527-1.2.29.7.3),” <i>Straits Times</i>, 27 May 1989, 22. (From NewspaperSG) 
+
+
+#### **Transcript** ####
+ 
