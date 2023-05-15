@@ -10,6 +10,8 @@ image: /images/Podcast/ep 1 (romusha by shirlene).jpg
 #### **Episode Summary** ####
 During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/) were used by the Imperial Japanese Army to build the infamous Thai-Burma Railway. Shirlene Noordin pieces together what happened to her grandfather in the three years he worked on the Death Railway. 
 
+Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
+
 #### **Teaser clip** ####
 <a href="https://www.instagram.com/p/Cr8BLFBJbQO/?utm_source=ig_web_copy_link&amp;igshid=MzRlODBiNWFlZA=="><img src="/images/Podcast/ep%201%20(romusha%20by%20shirlene).jpg" style="width:auto; height:400px"></a><p></p>
 
