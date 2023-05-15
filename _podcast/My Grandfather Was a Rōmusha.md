@@ -370,7 +370,7 @@ Shirlene  40:13
 Well, I'm trying.
 
 Jimmy  40:16  
-All right. Answer quickly. History is...?
+Alright. Answer quickly. History is...?
 
 Shirlene  40:20  
 A window to our past to understand our present and future.
