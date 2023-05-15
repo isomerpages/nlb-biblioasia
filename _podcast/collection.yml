@@ -2,4 +2,5 @@ collections:
   podcast:
     output: true
     order:
+      - Local Taoist Folk Goddesses of Singapore.md
       - My Grandfather Was a Rōmusha.md
