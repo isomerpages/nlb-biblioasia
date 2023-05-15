@@ -370,6 +370,3 @@ A time-travel machine.
 
 Jimmy  40:31  
 Oh, I like that very much. Thank you, Shirlene, for joining us on BiblioAsia+. To learn more about Shirlene's grandfather and about the rōmusha, you have to check out her article on the BiblioAsia website at Biblioasia.nlb.gov.sg. If you've enjoyed this episode, subscribe to the podcast and the BiblioAsia newsletter. Thank you for joining me on BiblioAsia+.
-
-
-
