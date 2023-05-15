@@ -28,6 +28,7 @@ Eric Lomax, [<i>The Railway Man</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus
 
 
 #### **Transcript** ####
+<b>Episode introduction</b><br>
 Jimmy  0:10  
 You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
 
@@ -40,6 +41,7 @@ Today, we can put a name and a face to one rōmusha: Kosman Hassan. He was the g
 Shirlene  3:17  
 "Rōmusha" is the Japanese word for labour. So it's a rather innocent word. But in the context of the Second World War in Southeast Asia, it's taken on a different meaning.
 
+<b>Her grandfather's experience on the railway</b><br>
 Jimmy  3:33  
 Can you give us a quick overview, for the people who haven't read your article, of your grandfather's experience working on the railway? When did he start, what did he do?
 
