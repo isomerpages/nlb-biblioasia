@@ -28,12 +28,6 @@ Robert Hardie, [<i>The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie
 
 Eric Lomax, [<i>The Railway Man</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7494542) (London: Jonathan Cape, 1995). (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])  
 
-#### **Credits** ####
-Host: Jimmy Yap<br>
-Producer: Soh Gek Han<br>
-Production company: Gibson Analytics<br>
-Background music: Di Tanjong Katong by [Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI)
-
 #### **Transcript** ####
 <b>Episode introduction</b><br>
 Jimmy  0:10  
