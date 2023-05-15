@@ -28,7 +28,8 @@ Rebecca Tan, “[How Changi Airport Came to Be](/vol-17/issue-3/oct-dec-2021/cha
 
 “[Design for Airport Murals: 2 Win Prizes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630324-1.2.73),” <i>Straits Times</i>, 24 March 1963, 8. (From NewspaperSG)
 
-Justin Zhuang, <i>Independence: The History of Graphic Design in Singapore since the 1960s</i> (Singapore: The Design Society, 2012). (Call no.: RSING 741.6095957 ZHU)
+Justin Zhuang, <i>[Independence: The History of Graphic Design in Singapore since the 1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14331232
+)</i> (Singapore: The Design Society, 2012). (Call no.: RSING 741.6095957 ZHU)
 
 
 
