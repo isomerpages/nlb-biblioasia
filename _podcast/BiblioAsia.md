@@ -14,6 +14,6 @@ Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Credits** ####
 Host: Jimmy Yap<br>
-Producer: Soh Gek Han<br>
+Coproducers: Soh Gek Han and Jimmy Yap<br>
 Production company: Gibson Analytics<br>
 Background music: Di Tanjong Katong, arranged and performed by [Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI)
