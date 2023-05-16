@@ -90,9 +90,7 @@ The trading of salt with lowlanders in the early 20th century was recorded in a 
 
 Because of its geographical location midway between North and South Vietnam, Quang Nam province is a melting pot of cultures. This accounts for the coexistence of Malayo-Polynesian speakers and Mon-Khmer speakers, as well as the Kinh people or Vietnamese speakers among the former local people. During the pre-Vietnamese period, in the 16th century, people in the Thu Bon basin spoke their own Cham language and maintained the old customs of the Cham. These lowlanders may have started speaking Vietnamese sometime during the 17th century. Linguistic mixture is clearly reflected in the unique dialect of the Vietnamese speakers who live in the Thu Bon basin.
 
-![](/images/Vol%204%20Issue%203/UplandsLowlands/bronze%20statue1.jpg)
-
-<img src="/images/Vol%204%20Issue%203/UplandsLowlands/bronze%20statue1.jpg" style="width:50%;">The Cham Buddhist bronze statue of LaksmindraLokesvara made at the end of the 9th century.
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/bronze%20statue1.jpg" style="width:40%;">The Cham Buddhist bronze statue of LaksmindraLokesvara made at the end of the 9th century.
 
 The cultural elements of the Champa Kingdom(s) still persist in central Vietnam. The Cham cultural influences were still very strong in the 16th and 17th centuries, when this region was called Ke Chiem or Xu Chiem, meaning the ‘Territory of Champa’, according to most of the accounts written by Westerners and Japanese who came to central Vietnam or Cochin-China at that time. Historical and linguistic evidence clearly indicate that a pattern of coexistence had long characterised the interactions among the people in the Thu Bon basin in particular, as well as in central Vietnam as a whole.
 
