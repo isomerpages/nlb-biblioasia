@@ -16,7 +16,7 @@ Ng Yi-Sheng is a poet, fictionist, playwright and researcher. His books include 
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Teaser clip** ####
-<a href=""><img src="/images/Podcast/ep%202%20(folk%20by%20yi-sheng)%20teaser.jpg" style="width:auto; height:400px; float:left; margin-right:500px; margin-bottom:35px;"></a>
+<a href=""><img src="/images/Podcast/ep%202%20(folk%20by%20yi-sheng)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
 
 #### **Resources** ####
