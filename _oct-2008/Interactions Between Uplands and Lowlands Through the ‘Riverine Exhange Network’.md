@@ -63,6 +63,10 @@ The inhabitants of the Champa kingdom(s) (known as the *urang Campa*), were cons
 
 #### **The Katu People as the Uplanders**
 
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/katu%20people1.jpg" style="width:80%;">
+ <div style="background-color: white;">The colourful traditional culture of the Katu people in the uplands of central Vietnam.
+</div>
+
 Quang Nam province’s mountainous area is the homeland of the Katu people, who are Mon-Khmer speakers. The Katu population of Vietnam, which now numbers about 25,000, have treasured and sustained their own ancient traditional culture very well. The majority of the Katu people are living mostly in the Sekong province of Laos PDR, along the border with Vietnam. They still retain “a wealth of interesting customs, traditions, knowledge and folklore about astrology, medicine and other sciences”.[^6] 
 
 The scattered villages of the Katu people in Quang Nam province were built from the upper reaches all the way down to the lower reaches of the main rivers in this area. Nowadays, the Katu people who live closest to the lowland are concentrated at Phu Tuc hamlet, west of Danang City, about 15km from the seashore. The Katu people also call themselves ‘Phuong’, meaning ‘people living in the upper land in the jungle’.
