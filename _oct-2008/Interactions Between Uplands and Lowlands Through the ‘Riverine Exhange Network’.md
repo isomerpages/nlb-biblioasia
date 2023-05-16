@@ -50,6 +50,9 @@ The Thu Bon basin is the meeting place of all the main streams in Quang Nam prov
 
 Along the upper reaches of Thu Bon River is the junction between the mountainous area and the midland at Hon Kem-Da Dung Wharf of the Thach Bich community, where a 7th century Cham stele was found. The inscription stated that the stele belonged to King Prakasadharma of the 7th century CE, “Sri Prakasadharma, king of Campa always victorious, master of the land, … has installed here the god Amaresa (Siva)”.[^3] This Cham inscription is the best evidence available that this area was previously ruled by Cham kings. In the Thach Bich community, a prehistoric archaeological site was also uncovered in August 2001. Thus, we can conclude that the ‘upland-lowland exchange network’ was already established by the Cham people (*the urang Campa*) as early as the 7th century, or even before the Champa period.
 
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/hoi%20an1.jpg" style="width:80%;">
+ <div style="background-color: white;">Life in the ancient Hoi An port-city is still closely associated with water.</div>
+
 Several Cham artifacts have been found in the famous riverine markets of the Thu Bon basin, providing evidence that all of these places were related to past Champa historical sites. Therefore, we might also argue that the patterns of interaction between lowlands and uplands in this region were already established in ancient times in order to collect forest products for export, even before the heyday of the port city of Hoi An in the 17th and 18th centuries. Then, it was known as “the nexus of a far-flung network of commerce and trade, making it one of the most important export and transhipment markets in the South China Sea”.[^4]
 
 #### **The ‘Upland And Lowland Exchange Network’ During the Champa Period (from the 2nd to the 15th centuries CE)**
