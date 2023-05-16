@@ -41,7 +41,7 @@ Marshall was also concerned with the well being of the Jewish community after th
 
 Marshall did not merely care for the Jews residing in Singapore. After his resignation as Chief Minister, he accepted an invitation from China’s People’s Institute of Foreign Affairs for a two month visit from August to October 1956. During this trip, Marshall took the chance from a conversation he had with Premier Zhou Enlai about agreeing to allow the Chinese to spend their last days in China and be buried there, to bring attention to the plight of more than 500 Jews stranded in China who would also like to “join their ethnic group in their spiritual homeland.”[^12] Majority of these Jews were Soviet citizens caught in the civil war between the nationalists and the communists. Marshall was instrumental in securing exit permits for them to leave China for Israel.
 
-<img src="/images/Vol%204%20Issue%203/David%20Marshall/zhou%20enlai1.jpg" style="width:50%;">
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/zhou%20enlai1.jpg" style="width:80%;">
  <div style="background-color: white;">David Marshall with Premier Zhou Enlai.<i> Reproduced from Letters from Mao’s China. all rights reserved, Singapore heritage Society, 1996.</i></div>
 
 #### **Marshalling the People**
@@ -60,6 +60,9 @@ Marshall became Singapore’s first Chief Minister elected under British rule in
 Honouring his promise, Marshall resigned in June 1956, just after 14 months in office when he failed to obtain self-government for Singapore during the first constitutional negotiations with the British government. However, he continued to be active in politics until 1963 when he lost in the Legislative Assembly General Elections, during which he campaigned as an independent candidate in the Anson constituency.
 
 Even though he did not manage to follow through a number of the good ideas he supported or introduced during his years in politics, the People’s Action Party subsequently translated some of these ideas into policies. Some of the policies include the creed of multilingualism and multiracialism, an education policy for nation building, and the Central Provident Fund.
+
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/with%20supporters1.jpg" style="width:80%;">
+ <div style="background-color: white;">David Marshall with his supporters. <i>Reproduced from Singapore’s struggle for nationhood, 1945–59. All Rights Reserved, University Education Press, 1971.</i></div>
 
 During his tenure as Chief Minister, Marshall introduced a weekly “Meet the People” session to close the gap and enhance understanding between the Civil Service and the people. His attempt to bring the government closer to the people prompted the *Singapore Tiger Standard* to comment on 30 October 1955, that “\[it\] can be safely said that \[in\] the past six months the government has learnt more about the people’s problems than in the past years”.[^16] To this day, the government still uses similar sessions to gather feedback from the grassroots.
 
