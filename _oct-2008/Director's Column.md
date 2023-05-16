@@ -18,7 +18,3 @@ We are also pleased to announce the launch of the architectural book “The Nati
 We hope you will enjoy reading this issue. Do send us your valuable comments and feedback.
 
 <b>Ms Ngian Lek Choh</b><br> Director <br> National Library
-
-
-
-
