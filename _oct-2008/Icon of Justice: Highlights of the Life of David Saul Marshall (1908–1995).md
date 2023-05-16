@@ -41,6 +41,9 @@ Marshall was also concerned with the well being of the Jewish community after th
 
 Marshall did not merely care for the Jews residing in Singapore. After his resignation as Chief Minister, he accepted an invitation from China’s People’s Institute of Foreign Affairs for a two month visit from August to October 1956. During this trip, Marshall took the chance from a conversation he had with Premier Zhou Enlai about agreeing to allow the Chinese to spend their last days in China and be buried there, to bring attention to the plight of more than 500 Jews stranded in China who would also like to “join their ethnic group in their spiritual homeland.”[^12] Majority of these Jews were Soviet citizens caught in the civil war between the nationalists and the communists. Marshall was instrumental in securing exit permits for them to leave China for Israel.
 
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/zhou%20enlai1.jpg" style="width:50%;">
+ <div style="background-color: white;">David Marshall with Premier Zhou Enlai.<i> Reproduced from Letters from Mao’s China. all rights reserved, Singapore heritage Society, 1996.</i></div>
+
 #### **Marshalling the People**
 
      *I was the midwife of independence*.[^13]
@@ -48,6 +51,9 @@ Marshall did not merely care for the Jews residing in Singapore. After his resig
 The immediate postwar years saw the Southeast Asian countries struggling to gain independence from their colonial masters. Marshall entered politics in the early 1950s to realise his ideal of helping to build a multi-ethnic independent Singapore.
 
 Marshall upheld the values he treasured most: human dignity, self-respect and the freedom to develop one’s potential to the fullest. He wanted Singapore to be “free from the blood-sucking exploitation of racial domination”.[^14] In the pre-Independence days, the Cricket Club was reserved only for Europeans. Marshall recalled, “I gave them their comeuppance by turning my loudspeakers on to the Cricket Club at lunch time during my campaign for elections under what I called the Old Apple Tree… and lambasted its members for arrogant racism”.[^15]
+
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/marshall1.jpg" style="width:50%;">
+ <div style="background-color: white;">David Marshall addressing the crowds. <i>Reproduced from Singapore’s struggle for nationhood, 1945–59. All rights reserved, University Education Press, 1971.</i></div>
 
 Marshall became Singapore’s first Chief Minister elected under British rule in April 1955. It was not an enviable position. He had to assert his position as Chief Minister among the British, while at the same time face the continuous growth of Malaya’s Communist movements that threatened the stability of the country, numerous violent strikes and demonstrations, and the lack of food, resources, housing and jobs.
 
