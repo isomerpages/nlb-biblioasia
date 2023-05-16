@@ -31,6 +31,9 @@ The archaeological artifacts found in central Vietnam indicate two foreign cultu
 
 A great number of Sa Huynh burial sites have been uncovered along both banks of the Thu Bon river, from its tributaries all the way down to its lower reaches. In 1985, Vietnamese archaeologists excavated a burial ground of the Sa Huynh culture in Tabhing village, which is situated well inland in Quang Nam Province, along a stream that flows into Ben Giang (or Giang Wharf), an important exchange place in this area. Tabhing village is the home of the Katu people, an ethnic minority group that speaks a Mon-Khmer language in the Truong Son Range. Since 1997, Vietnamese archaeologists have collaborated with Japanese archaeologists to conduct excavations focusing on the Sa Huynh sites in the inland mountainous area, along the middle and upper reaches of the Thu Bon River.
 
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/bronze%20vessel1.jpg" style="width:50%;">
+ <div style="background-color: white;">The Chinese bronze vessels of the prehistoric Sa Huynh culture found in the lowlands of Quang Nam province.<i>Courtesy of Dr Lam My Dzung.</i></div>
+
 The archaeological sites found in both the coastal plains and the inland areas of the Thu Bon river basin display the same two cultural phases: an early phase and a later phase. The archaeological cultural material found in both the upstream and downstream areas appeared simultaneously and evolved continuously from the early phase to the late phase, and provide tangible evidence of the interactions between upland and lowland areas during the prehistoric period.
 
 #### **Sa Huynh Culture and International Trade**
