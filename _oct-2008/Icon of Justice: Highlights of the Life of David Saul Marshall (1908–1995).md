@@ -10,6 +10,9 @@ image: /images/Vol 4 Issue 3/David Marshall/davidmarshall.jpg
 ---
 #### David Marshall became Singapore’s first chief minister in April 1955. He resigned in June 1956, just after 14 months in office, when he failed to obtain self-government for Singapore. In 1978, Marshall was appointed Singapore’s first Ambassador to France, and subsequently to Spain, Portugal and Switzerland.
 
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/davidmarshall.jpg" style="width:50%;">
+ <div style="background-color: white;">Ambassador with an orchid.<i>  Reproduced from The Jews of Singapore. all rights reserved, Suntree Media, 2007.</i></div>
+
 David Saul Marshall was born in a flat over a Chinese coffin shop at No. 81, Selegie Road, on 12 March 1908, to a Sephardic Jewish family.[^1] Ambassador Chan Heng Chee described him as a person who is “fired with optimism and purpose”.[^2] Throughout his illustrious life and career, he made an impact on people’s lives.
 
 #### **Becoming David Marshall**
@@ -26,6 +29,9 @@ On the eve of the possibly life changing examination for the prestigious Queen�
 To finance his studies, Marshall did a broad range of jobs: textile representative, salesman selling corks and cars, clerk in a brokerage firm and later in a shipping company.[^8]
 
 Everything was thrown into chaos when the war started. Marshall joined the Singapore Volunteer Corps in 1938 and was later interned as a Prisoner of War during the Japanese Occupation. He was moved from Changi Prison to a camp at Race Course, and then drafted to set sail to Hokkaido, Japan, to work in an industrial area at Hakodate. After that, he also worked in forced labour camps at Yakumo, Muroran, and Nishi Ashibetsu. Together with his fellow inmates, they had to endure hunger, the freezing cold, hardship and cruelty lashed out at them.[^9] Even during such trying times, he continued to stand up against injustice and ill-treatment, earning the praise of fellow prisoner, Aaron Williams, who remembered that “\[even\] the sleek and sometimes cruel camp commandant fell for his tactful and persuasive appeals for the betterment of conditions. He was always comforting the sick in our little hospital and by word and deed, he radiated courage and confidence”.[^10]
+
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/prisoner%20of%20war1.jpg" style="width:50%;">
+ <div style="background-color: white;">Prisoner of war, 1945.<i> Reproduced from a sensation of independence. David Marshall, a political biography. all rights reserved, Times Books International, 2001.</i></div>
 
 When Marshall returned to Singapore after the end of the war, he played an active role as the Founder Secretary of the Singapore War Prisoners’ Association. He fought for the interests of the prisoners of war families in their claims for compensation for loss, and for recognition and assistance.
 
