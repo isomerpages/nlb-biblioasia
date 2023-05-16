@@ -40,6 +40,9 @@ Most of the archaeologists who work in central Vietnam have agreed that it is po
 
 Thu Bon River in Quang Nam province is the longest of the main rivers in central Vietnam. The average amount of rainfall in this area is approximately 4,000 mm per year. Thanks to this huge amount of rain, the Thu Bon River is full of water all year round. This is the main stream connecting the mountainous and coastal areas, and it has played an important role in the exchange of goods between the uplands and the lowlands. Since the 5th century CE, the river was worshipped by the Cham dynasties as a holy river named Mahanadi (Great River) or Goddess Ganga, the consort of God Siva.
 
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/ganga%20holy%20river.jpg" style="width:80%;">
+ <div style="background-color: white;">The Thu Bon River (Mahanadi or Ganga Holy River) with the My Son Mountain (Mahaparvata or Siva Holy Mountain) in the background.</div>
+
 The Thu Bon basin is the meeting place of all the main streams in Quang Nam province. Several prosperous markets along the Thu Bon River have served as collecting places for the forest products headed for the port city of Hoi An.
 
 Along the upper reaches of Thu Bon River is the junction between the mountainous area and the midland at Hon Kem-Da Dung Wharf of the Thach Bich community, where a 7th century Cham stele was found. The inscription stated that the stele belonged to King Prakasadharma of the 7th century CE, “Sri Prakasadharma, king of Campa always victorious, master of the land, … has installed here the god Amaresa (Siva)”.[^3] This Cham inscription is the best evidence available that this area was previously ruled by Cham kings. In the Thach Bich community, a prehistoric archaeological site was also uncovered in August 2001. Thus, we can conclude that the ‘upland-lowland exchange network’ was already established by the Cham people (*the urang Campa*) as early as the 7th century, or even before the Champa period.
@@ -52,6 +55,9 @@ The economy of the Champa kingdom(s) or polities,[^5] beyond its agricultural an
 
 The richness of the Cham sovereigns can be seen from religious architecture. Examples of such architecture can still be found in a large number of Hindu and Buddhist brick temple-towers in central Vietnam. The most remarkable of these temples are found in the Hindu complex of the My Son Sanctuary, including 68 temple-towers built from the end of the 4th to the
 13th century CE. These have been included in the UNESCO World Cultural Heritage List since 1999. There is also the Dong Dzuong Monastery complex that was built in 875CE, now one of the most significant Buddhist historical architectural sites in Southeast Asia.
+
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/son%20sanctuary1.jpg" style="width:80%;">
+ <div style="background-color: white;">My Son Sanctuary, the largest Hindu temple of Champa kingdom built from the 4th to 13th century CE.</div>
 
 The inhabitants of the Champa kingdom(s) (known as the *urang Campa*), were considered by historians to have been very accomplished merchants. Based along the main rivers in the region, they established an economic network for exchanging goods between the upland and lowland areas. These merchants handled the exchange of commodities between the coastal people and the inland people of the mountainous areas.
 
