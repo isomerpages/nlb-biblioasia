@@ -164,34 +164,32 @@ In retrospect, David Marshall was a man who lived his life with passion. On 12 D
 
 [^24]: “Marshall, A Welcome Posting,” _Far Eastern Economic Review_, 17 November 1988, 8.
 
-[^25]: Anna Teo, “David Marshall Passes Away – One of the Most Remarkable Men S’pore Produced,” _Business Times_, 13 December 1995, 2. (From NewspaperSG)
+[^25]: Anna Teo, “[One of the Most Remarkable Men S’pore Produced](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19951213-1.2.10.6),” _Business Times_, 13 December 1995, 2. (From NewspaperSG)
 
-26 Yusman Ahmad, “For a More Humane Land: David Marshall Expresses His Thought to Better Singapore,” _Malaysian Business_, 1 April 1994, 56.
+[^26]: Yusman Ahmad, “For a More Humane Land: David Marshall Expresses His Thought to Better Singapore,” _Malaysian Business_, 1 April 1994, 56.
 
-27 Joan Bieder, [_The Jews of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 132. (Call no. RSING 959.57004924 BIE)
+[^27]: Joan Bieder, [_The Jews of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 132. (Call no. RSING 959.57004924 BIE)
 
-28 Tan Lian Choo, “[Marshall Lights Flame at Paris Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890806-1.2.25.7),” _Straits Times_, 6 August 1989, 16. (From NewspaperSG)
+[^28]: Tan Lian Choo, “[Marshall Lights Flame at Paris Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890806-1.2.25.7),” _Straits Times_, 6 August 1989, 16. (From NewspaperSG)
 
-29 Ahmad, “For a More Humane Land,” 59.&nbsp;&nbsp; &nbsp;
+[^29]: Ahmad, “For a More Humane Land,” 59.&nbsp;&nbsp; &nbsp;
 
-30 Chiang Yin Pheng, “[Marshall – Law a Calling, Not Money-Making Business](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950224-1.2.39.16),” _Straits Times_, 24 February 1995, 31. (From NewspaperSG)
+[^30]: Chiang Yin Pheng, “[Marshall – Law a Calling, Not Money-Making Business](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950224-1.2.39.16),” _Straits Times_, 24 February 1995, 31. (From NewspaperSG)
 
-31 Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
+[^31]: Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
 
-32 Thomas, Margaret, “[Flying the Flag in France](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.3),” _Business Times_, 6 June 1992, 3. (From NewspaperSG)
+[^32]: Thomas, Margaret, “[Flying the Flag in France](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.3),” _Business Times_, 6 June 1992, 3. (From NewspaperSG)
 
-33 Ahmad, “For a More Humane Land,” 59.&nbsp;&nbsp;&nbsp;
+[^33]: Ahmad, “For a More Humane Land,” 59.&nbsp;&nbsp;&nbsp;
 
-34 Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
+[^34]: Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
 
-35 “The Lion in Winter: A Founding Father Calls for Greater Openness,” _Asiaweek_ 20, no. 14 (6 April 1004, 28.
+[^35]: “The Lion in Winter: A Founding Father Calls for Greater Openness,” _Asiaweek_ 20, no. 14 (6 April 1004, 28.
 
-36 Tan Sai Song, “[Embrace Marshall’s Legacy: His Passionate Love of Life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19951223-1.2.13.1),” _Straits Times (Overseas ed)_, 23 December 1995, 14. (From NewspaperSG)
+[^36]: Tan Sai Song, “[Embrace Marshall’s Legacy: His Passionate Love of Life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19951223-1.2.13.1),” _Straits Times (Overseas ed)_, 23 December 1995, 14. (From NewspaperSG)
 
-37 Tan, Sumiko, “[Places of the Heart](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890809-1.2.97.17)”, _Straits Times_, 9 August 1989, 18. (From NewspaperSG)
+[^37]: Tan, Sumiko, “[Places of the Heart](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890809-1.2.97.17)”, _Straits Times_, 9 August 1989, 18. (From NewspaperSG)
 
-38 “In Memorium,” 50.
+[^38]: “In Memorium,” 50.
 
-39 Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
-
-
+[^39]: Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
