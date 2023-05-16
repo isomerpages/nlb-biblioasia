@@ -124,6 +124,9 @@ On his 84th birthday, Marshall shared his philosophy in life which was best expr
 
 In retrospect, David Marshall was a man who lived his life with passion. On 12 December 1995, he succumbed to lung cancer and passed away at the age of 87.
 
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/capture1.jpg" style="width:50%;">
+ <div style="background-color: white;"></div>
+
 ***The author would like to thank Mrs Jean Marshall for reading her draft and offering suggestions for improvement. She is also most grateful to Dr Kevin Tan for his words of encouragement.***
 
 #### **NOTES**
