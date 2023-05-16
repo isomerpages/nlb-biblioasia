@@ -15,7 +15,7 @@ Toffa Abdul Wahed is an Associate Librarian with the National Library, Singapore
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Teaser clip** ####
-<a href=""><img src="/images/Podcast/ep%204%20(belacan%20by%20toffa)%20teaser.jpg" style="width:auto; height:400px; float:left; margin-right:500px; margin-bottom:35px;"></a>
+<a href=""><img src="/images/Podcast/ep%204%20(belacan%20by%20toffa)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
 #### **Resources** ####
 Toffa Abdul Wahed, “[Belacan: Caviar? Or Vile and Disgusting?](/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)” <i>BiblioAsia</i> 19, no. 1 (2023).
