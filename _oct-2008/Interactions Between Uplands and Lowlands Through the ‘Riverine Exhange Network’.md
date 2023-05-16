@@ -22,6 +22,9 @@ Bronson’s model has been applied by scholars studying the history of early sta
 
 Since the 1990s, new archaeological findings uncovered by Vietnamese and international archaeologists in excavations in Central Vietnam, particularly in the Thu Bon river basin in Quang Nam province since the 1990s, have provided us with a more comprehensive understanding of this land’s past, as well as insights into the interactions between upland and lowland areas during the prehistoric period.
 
+<img src="/images/Vol%204%20Issue%203/UplandsLowlands/indian%20agates1.jpg" style="width:80%;">
+ <div style="background-color: white;">The Indian agates and beads of the prehistoric Sa Huynh culture found in Quang Nam province.<i> Courtesy of Dr Lam My Dzung.</i></div>
+ 
 The archaeological artifacts found in central Vietnam indicate two foreign cultural influences, namely those of the Chinese Han Dynasty (206BCE–220CE) and the Indians. These finds prove the existence of a maritime trade relationship between a number of port cities and polities in central Vietnam, their counterparts in China and the Indian sub-continent. Central Vietnam played an important role in the ‘Maritime Silk Road’ from 500BCE to 300CE, thanks to the rich resources of its forests, as well as to its favourable geographical location, which offered a number of potential sites for useful entrepots.
 
 #### **The Sa Huynh Culture Along the Thu Bon River** [^2]
