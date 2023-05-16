@@ -75,3 +75,94 @@ reviewing the paper***.
 
 <div>
 <center> <b>Tran Ky-Phuong </b><br> Lee Kong Chian Research Fellow<br> National Library</center></div>
+
+#### **REFERENCES**
+
+Anthony Reid, [_Charting the Shape of Early Modern Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9655872) (Singapore: Institute of Southeast Asian Studies, 2000). (Call no. R 959 REI)
+
+Bennet Bronson, “Exchange at the Upstream and Downstream Ends: Notes Toward a Functional Model of the Coastal State in Southeast Asia,” in [_Economic Exchange and Social Interaction in Southeast Asia: Perspectives From Prehistory, History, and Ethnography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1265750), ed. Karl L. Hutterer (Ann Arbor: Center for South and Southeast Asian Studies, University of Michigan, 1977), 39–54. (Call no. RSING 382.0959 ECO n.13)
+
+Bruce M. Lockhart and William J. Duiker, [_Historical Dictionary of Vietnam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12704482) (Lanham: The Scarecrow Press, 2006). (Call no. RSEA 959.7003 LOC)
+
+Charles James Wheeler, “Re-Thinking the Sea in Vietnamese History: Littoral Society in the Integration of Thuan-Quang, Seventeenth-Eighteenth Centuries,” _Journal of Southeast Asian Studies_ 37, no. 1 (February 2006): 123–52. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Charles James Wheeler, “One Region, Two Histories: Cham Precedents in the History of the Hoi an Region,” in [_Viet Nam: Borderless Histories_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12806545), ed. Nhung Tuyet Tran and Anthony J. S. Reid (Madison: University of Wisconsin Press, 2006), 163–93. (Call no. RSEA 959.7 VIE)
+
+D. A. Dao, “Su Thanh Lap Nuoc Lam Ap” \[The formation of Lam Ap state\], in _History of Viet Nam From the Original to the XIX Century_, vol. 1 (Hanoi: Van Hoa Publishing House, 1957)
+
+Dam Bo, [_Les Populations Montagnardes Du Sud-Indochnois_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3794005) (Lyon: Derain, 1950). (Call no. RSEA 950.05 FA)
+
+Duong Van An, _O Chau Can Luc_ \[The accounts of O Chau prefecture\] (Hue: Thuan Hoa Publishers, 2001)
+
+Gerald Cannon Hickey, [_Sons of the Mountains: Ethnohistory of the Vietnamese Central Highlands to 1954_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1909379) (New Haven: Yale University Press, 1982). (Call no. RSEA 959.7004999 HIC)
+
+H. T. Nguyen, ed., _Tin Nguong Tho Mau O Mien Trung Viet Nam_ \[The cults involving worship of the Holy Mothers in Central Vietnam\]. (Hue: Thuan Hoa Publisher, 2001)
+
+Jan Wisseman, “Trade and State Formation in the Malay Peninsula and Sumatra, 300BC–AD700,” in [_The Southeast Asian Port and Polity: Rise and Demise_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5662176), ed. J. Kathirithamby-Wells and John Villiers (Singapore: Singapore University Press, 1990), 39–60. (Call no. RSING 387.10959 SOU)
+
+Jean Le Pichon, Les Chassuers De Sang, _Bulletin des Amis du Vieux Hue_, 4 (1938): 357–409.
+
+K. P. Tran, “GOP Phan Tim Hieu Ve Nen Van Minh Cua Vuong Quoc Co Champa Tai Mien Trung Viet Nam” \[A contribution to the comprehension on the civilization of the ancient Champa Kingdom in Central Vietnam\], _Nghien cuu &amp; Phat trine_ \[_Journal of Research and Development_\] 3, no. 37 and 4, no. 38 (2002): 63–74 and 71–78.
+
+K. P. Tran, “Buoc Dau Tim Hieu Ve Dia-L Ch Su Cua Vuong Quoc Chiem Thanh (Champa) O Mien Trung Viet Nam: Voi Su Tham Chieu Dac Biet Vao ‘He Thong Trao Doi Ven Song’ Cua Luu Vuc Song Thu Bon O Quang Nam” \[Preliminary research on the historical geography of the Champa kingdom in Central Vietnam: in regard to ‘riverine exchange network’ of the basin of Thu Bon river in Quang Nam Province\], _Thong tin Khoa hoc, Thang_ \[_Scientific Reports_\] 3 (2004)
+
+Lam Thi My Dzung, “Regional and Inter-Regional Interactions in the Context of Sa Huynh Culture: With Regards to the Thu Bon Valley in Quang Nam Province, Vietnam” (Paper presented at the 18th International Congress of Indo-Pacific Prehistory Association, University of Philippines, Manila, March 2006)
+
+Le Quy Don, _Phu Bien Tap Luc, Le Quy Don Toan Tap_, tap 1 \[Desultory notes from the frontier, completed works of Le Quy Don, vol. 1\] (Hanoi: Nha Xuat Ban Khoa Hoc Xa Hoi, 1977)
+
+Leonard Y. Andaya, [_Leaves of the Same Tree: Trade and Ethnicity in the Straits of Melaka_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13005307) (Honolulu: University of Hawai Press, 2008). (Call no. RSEA 305.80095951 AND)
+
+Li Tana, [_Nguyen Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9242770) (Ithaca, NY.: Southeast Asia Program, Cornell University, 1998). (Call no. RSEA q959.703 LI)
+
+Mariko Yamagata, “Tra Kieu of the Second and the Third Centuries A.D.: The Formation of Linyi (Champa) From the Archaeological Point of View” (Asia Research Institute paper presented at a symposium on new scholarship on Champa, National University of Singapore, August 2004)
+
+Mariko Yamagata, M. (2006). “Inland Sa Huynh Culture Along the Thu Bon River Valley in Central Vietnam,” in [_Uncovering Southeast Asia’s Past_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12714429), ed. Elisabeth A. Bacus, Ian C. Glover and Vincent C. Pigott (Singapore: NUS Press, 2006), 168–83. (Call no. RSING 959.01 EUR)
+
+Nancy Costello, “Katu Society: A Harmonious Way of Life,” in [_Laos and Ethnic Minority Cultures: Promoting Heritage_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12394333), ed. Yves Goudineau (Paris: UNESCO, 2003), 163–76. (Call no. RSEA q305.89594 LAO)
+
+Olga Dror and K.W. Taylor, eds., [_Views of Seventeenth–Century Vietnam: Christoforo Borri on Cochinchina &amp; Samuel Baron on Tonkin_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12872791) (Ithaca: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 2006). (Call no. RSEA 959.703 VIE)
+
+Oscar Salemink, [_The Ethnography of Vietnam’s Central Highlanders: A Historical Contextualization, 1850–1990_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11953058) (London: RoutledgeCurzon, 2003). (Call no. RSEA 306.0899593 SAL)
+
+Peter Bellwood, [_Prehistory of the Indo-Malaysian Archipelago_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8047278) (Honolulu: University of Hawai’i Press, 1997). (Call no. RSEA 959.01 BEL)
+
+Philip Taylor, [_Goddess on the Rise: Pilgrimage and Popular Religion in Vietnam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322884) (Honolulu: University of Hawaii Press, 2004). (Call no. RSEA 299.592 TAY)
+
+Pierres-Yves Manguin, “The Amorphous Nature of Coastal Polities in Insular Southeast Asia: Restricted Centres, Extended Peripheries,” _Moussons_ 5 (2002): 73–99.
+
+Quach Xan, “Giac Mua” \[Seasonal enemy\], _Ngoc Linh, chuyen de nghien cuu, sang tac ve Mien Nui &amp; Tay Nguyen \[Ngoc Linh Magazine, Special Researches and Literary Works on Mountainous Area and Central Vietnam Highland\]_ 1 (2000): 71–106.
+
+Rie Nakamura, _Cham in Vietnam: Dynamics of Ethnicity_ (Washington: University of Washington, 1999)
+
+Thinh T. Doan, “Ho An Dialect,” in National Committee for the International symposium on the Ancient Town of Hoi An, [_Ancient Town of Hoi An: \[international symposium held in Danang on 22–23 March 1990\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12850876) (Hanoi: The Gioi Publishers, 2006), 139–48. (Call no. RSEA 959.703 ANC)
+
+Tr’an Ky Phương, [_Vestiges of Champa Civilization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12992168) (Hanoi: The Gioi Publishers, 2004). (Call no. RSEA 959.703 TRA)
+
+Wang Gungwu, [_The Nanhai Trade: Early Chinese Trade in the South China Sea_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11853126) (Singapore: Eastern University Press, 2003). (Call no. RBUS 382.0951059 WAN)
+
+William A. Southworth, “River Settlement and Coastal Trade: Towards a Specific Model of Early State Development in Champa” (Asia Research Institute paper presented at a symposium on new scholarship on Champa, National University of Singapore, August 2004)
+
+William A. Southworth, “The Coastal States of Champa,” in [_Southeast Asia: From Prehistory to History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12367664), ed. Ian Glover and Peter Bellwood (New York: RoutledgeCurzon, 2004), 209–33. (Call no. RSEA 959 SOU)
+
+#### **NOTES**
+
+[^1]: Bennet Bronson, “Exchange at the Upstream and Downstream Ends: Notes Toward a Functional Model of the Coastal State in Southeast Asia,” in [_Economic Exchange and Social Interaction in Southeast Asia: Perspectives From Prehistory, History, and Ethnography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1265750), ed. Karl L. Hutterer (Ann Arbor: Center for South and Southeast Asian Studies, University of Michigan, 1977), 39–54. (Call no. RSING 382.0959 ECO)
+
+[^2]: The Sa Huynh culture was an Iron Age culture belonging to a period between 500BCE and 100CE. Most of its sites were found in central Vietnam through the archaeological excavations carried out since the beginning of the last century up to the present time. Sa Huynh is a small village on the coast of Quang Ngai province in central Vietnam nowadays, where the first excavation of this culture was conducted in the early twentieth century by French archaeologists.
+
+[^3]: Karl-Heinz Golzio, ed., _Inscriptions of Campa_ (Aachen: Shaker Verlag, 2004), 5.
+
+[^4]: Charles James Wheeler, “Re-Thinking the Sea in Vietnamese History: Littoral Society in the Integration of Thuan-Quang, Seventeenth-Eighteenth Centuries,” _Journal of Southeast Asian Studies_ 37, no. 1 (February 2006): 134. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^5]: The Champa kingdom(s) of Vietnam is dated from late 2nd century CE. Its territories ranged from south of the Ngang pass in Quång Bình province to Bình Thuân province (approximately between latitudes 11° N and 18° N) in south-central Vietnam. According to Chinese historical documents, in 192–193CE due to the harsh rule of the Han Dynasty (206BCE–220CE), the people of Tòng Lâm district (Xiang Lin) revolted, killed the local Chinese mandarin official, gained their sovereignty and established their own independent state. It was first named Lâm Âp (Lin-yi) (192–758), later known as Hoàn Vòng (Huan-Wang) (758–886), and then Chiêm Thành (Zhan Cheng) (886–1471). The name Chiêm Thành (Zhan Cheng) comes from Champapura in Sanskrit, the city of Champa. The Champa kingdom(s) was basically located on a strip of land that was more than a thousand kilometers along the coast of central Vietnam. Recently, historians have argued that Champa kingdom was a composition of several independent states/polities, which indicates that the kingdom was not one unified political entity, but a federation of several regions which had their own political centers. In 1471, the capital city of the kingdom(s) known as Vijaya (in Binh Dinh Province today) was captured by the Vietnamese. A small Cham kingdom survived under Vietnamese influence, though its territory continued to shrink. In the 19th century, the last remnant of Champa was formally absorbed by Vietnam. See Bruce M. Lockhart and William J. Duiker, [_Historical Dictionary of Vietnam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12704482) (Lanham: The Scarecrow Press, 2006), 65–66. (Call no. RSEA 959.7003 LOC)
+
+[^6]: Nancy Costello, “Katu Society: A Harmonious Way of Life,” in [_Laos and Ethnic Minority Cultures: Promoting Heritage_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12394333), ed. Yves Goudineau (Paris: UNESCO, 2003), 163. (Call no. RSEA q305.89594 LAO)
+
+[^7]: Dam Bo, [_Les Populations Montagnardes Du Sud-Indochnois_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3794005) (Lyon: Derain, 1950), 3–47. (Call no. RSEA 950.05 FA)
+
+[^8]: Quach Xan, “Giac Mua” \[Seasonal enemy\], in _Ngoc Linh, Chuyen De Nghien Cuu, Sang Tac Ve Mien Nui &amp; Tay Nguyen_ \[Ngoc Linh Magazine, Special Researches and Literary Works on Mountainous Area and Central Vietnam Highland no. 1 (2000): 71–106.
+
+[^9]:Jean Le Pichon, Les Chassuers De Sang, _Bulletin des Amis du Vieux Hue_, 4 (1938): 364.
+
+
+
