@@ -112,4 +112,86 @@ On his 84th birthday, Marshall shared his philosophy in life which was best expr
 
 In retrospect, David Marshall was a man who lived his life with passion. On 12 December 1995, he succumbed to lung cancer and passed away at the age of 87.
 
-***The author would like to thank Mrs Jean Marshall for reading her draft and offering suggestions for improvement. She is also most grateful to Dr Kevin Tan for his words of encouragement***.
+***The author would like to thank Mrs Jean Marshall for reading her draft and offering suggestions for improvement. She is also most grateful to Dr Kevin Tan for his words of encouragement.***
+
+#### **NOTES**
+
+[^1]: Mindy Tan Huimin, [_The Legal Eagle: David Marshall_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12946843) (Singapore: SNP Editions, 2008), 8. (Call no. RSING 959.5705092 TAN)
+
+[^2]: Chan, Heng Chee, [_A Sensation of Independence: David Marshall, a Political Biography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10848451) &nbsp;(Singapore: Times Books International, 2001), 26. (Call no. RSING 324.2092 CHA)
+
+[^3]: Margaret Thomas, “[The Lion in Winter](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.1),” _Business Times_, 6 June 1992, 3. (From Newspaper)
+
+[^4]: Dharmendra Yadav, “Meeting David Marshall in 1994 - An Interview with Dr David Marshall,” _Singapore Law Gazette_ (November 2006): 13.
+
+[^5]: John Lui, “[He Pulled No Punches](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931010-1.2.49.2.7)”, _Straits Times_, 10 October 1993, 4. (From NewspaperSG)
+
+[^6]: Goh Hwee Leng, “Marshalling the People”, _Singapore Tatler_ (March 1991): 120.
+
+[^7]: M.G.G. Pillai, “Singapore’s Own Marshall Plan”, _Asiaweek_ 4, no. 43 (3 November 1978) 36.
+
+[^8]: Goh, “Marshalling the People”, 120; Serene Lim, “[I Had Wanted To Be a Doctor, Says Lawyer-Ambassador Marshall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920504-1.2.34.13),” _Straits Times_, 4 May 1992, 24. (From NewspaperSG)
+
+[^9]: Chan, [_Sensation of Independence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10848451), 50–52.
+
+[^10]: Edmund Lim W.K. and Kho Ee Moi, [_The Chesed-El Synagogue: Its History and People_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12756935) (Singapore: Trustees of ChesedEl Synagogue, 2005), 85. (Call no. RSING 296.095957 LIM)
+
+[^11]: “[‘I Did Not Compromise My Politics To Be Envoy’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781028-1.2.45),” _Straits Times_, 28 October 1978, 10. (From NewspaperSG)
+
+[^12]: David Marshall, [_Letters From Mao’s China; Edited With an Introduction by Michael Leifer_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7845722) &nbsp;(Singapore: Singapore Heritage Society, 1996), 35. (Call no. RSING 951.05 MAR)
+
+[^13]: Laure De Gramont, “For David Marshall’s Election as Chief Minister the Tangling Club Covered Itself With Black Crepe,” _Vogue Paris_, no. 741 (November 1993): 4.
+
+[^14]: David Marshall, “[Among the Greatest Gifts Is Dignity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900809-1.2.109.17),” _Straits Times_, 9 August 1990, 21. (From NewspaperSG)
+
+[^15]: Irene Hoe, “[The People’s Padang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930809-1.2.100.4),” _Straits Times_, 9 August 1993, 4. (From NewspaperSG)
+
+[^16]: Ronnie Duclos, “[Closer Harmony Between People &amp; Govt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19551030-1.2.80),” _Sunday Standard_, 30 October 1955, 7. (From NewspaperSG)
+
+[^17]: David Saul Marshall, [_Singapore’s Struggle for Nationhood, 1945–59_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082561) (Singapore: University Education Press, 1971), 11. (Call no. RCLOS 959.57024 MAR)
+
+[^18]: Chan, Heng Chee, [_A Sensation of Independence: David Marshall, a Political Biography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10848451) (Singapore: Times Books International, 2001), 210. (Call no. RSING 324.2092 CHA)
+
+[^19]: Margaret Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2),” _Business Times_, 6 June 1992, 3. (From NewspaperSG)
+
+[^20]: “In Conversation: An Interview With Dr David Marshall,” _Singapore Law Review_, no. 15 (1994): 1–2.
+
+[^21]: “In Memorium: A Tribute to the Late Mr David Saul Marshall,” _Singapore Law Review_, no. 17 (1996): 20.
+
+[^22]: Elena Chong, “[Justice Rubin Retires After 14 Years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050205-1.2.37.9),” _Straits Times_, 5 February 2005, 4. (From NewspaperSG)
+
+[^23]: Susan Sim, “[Tribute to David Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951213-1.2.34.12),” _Straits Times_, 13 December 1995, 27. (From NewspaoerSG)
+
+[^24]: “Marshall, A Welcome Posting,” _Far Eastern Economic Review_, 17 November 1988, 8.
+
+[^25]: Anna Teo, “David Marshall Passes Away – One of the Most Remarkable Men S’pore Produced,” _Business Times_, 13 December 1995, 2. (From NewspaperSG)
+
+26 Yusman Ahmad, “For a More Humane Land: David Marshall Expresses His Thought to Better Singapore,” _Malaysian Business_, 1 April 1994, 56.
+
+27 Joan Bieder, [_The Jews of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 132. (Call no. RSING 959.57004924 BIE)
+
+28 Tan Lian Choo, “[Marshall Lights Flame at Paris Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890806-1.2.25.7),” _Straits Times_, 6 August 1989, 16. (From NewspaperSG)
+
+29 Ahmad, “For a More Humane Land,” 59.&nbsp;&nbsp; &nbsp;
+
+30 Chiang Yin Pheng, “[Marshall – Law a Calling, Not Money-Making Business](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950224-1.2.39.16),” _Straits Times_, 24 February 1995, 31. (From NewspaperSG)
+
+31 Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
+
+32 Thomas, Margaret, “[Flying the Flag in France](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.3),” _Business Times_, 6 June 1992, 3. (From NewspaperSG)
+
+33 Ahmad, “For a More Humane Land,” 59.&nbsp;&nbsp;&nbsp;
+
+34 Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
+
+35 “The Lion in Winter: A Founding Father Calls for Greater Openness,” _Asiaweek_ 20, no. 14 (6 April 1004, 28.
+
+36 Tan Sai Song, “[Embrace Marshall’s Legacy: His Passionate Love of Life](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19951223-1.2.13.1),” _Straits Times (Overseas ed)_, 23 December 1995, 14. (From NewspaperSG)
+
+37 Tan, Sumiko, “[Places of the Heart](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890809-1.2.97.17)”, _Straits Times_, 9 August 1989, 18. (From NewspaperSG)
+
+38 “In Memorium,” 50.
+
+39 Thomas, “[Vintage Marshall](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920606-1.2.49.4.2).”
+
+
