@@ -121,6 +121,9 @@ In an interview published in Asiaweek, Marshall added that the government lacked
 		
 When interviewed about places in Singapore that held special memories for him, Marshall shared that the Botanic Gardens was a place where he used to visit with his family as a child. The family used to have picnics there and enjoyed tea and ice cream from a tea kiosk.[^37]
 
+<img src="/images/Vol%204%20Issue%203/David%20Marshall/life%20on%20a%20swing1.jpg" style="width:80%;">
+<div style="background-color: white;"></div>
+
 As a result of his love of art, the Botanic Gardens today owns three beautiful bronze sculptures, which are gifts from Marshall. He commissioned British sculptor Sydney Harpley to create: Girl on a Swing (1984), Girl on a Bicycle (1987) and Lady on a Hammock (1989). According to his wife, Jean Marshall, he “gave the three statues… to the people of Singapore because anyone looking at them will \[smile and\] feel the excitement and joy of living”.[^38]
 
 On his 84th birthday, Marshall shared his philosophy in life which was best expressed in his own words, “… You’ve got to learn to take the risks of barking your shins and breaking your bones in order to achieve anything. You’ve got to take risks in life. You can’t put yourself in a crystal coffin and be fed by intravenous injections”. He also had two principles in life: the first, the more you give of yourself, the more you grow and the second, he preferred a bleeding heart to a frozen one.[^39]
