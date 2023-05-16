@@ -70,8 +70,11 @@ Because of its geographical location midway between North and South Vietnam, Qua
 
 The cultural elements of the Champa Kingdom(s) still persist in central Vietnam. The Cham cultural influences were still very strong in the 16th and 17th centuries, when this region was called Ke Chiem or Xu Chiem, meaning the ‘Territory of Champa’, according to most of the accounts written by Westerners and Japanese who came to central Vietnam or Cochin-China at that time. Historical and linguistic evidence clearly indicate that a pattern of coexistence had long characterised the interactions among the people in the Thu Bon basin in particular, as well as in central Vietnam as a whole.
 
-***The author wishes to acknowledge the contributions of Associate Professor Bruce Lockhart, Department of History, Faculty of Arts and Social Sciences, National University of Singapore in reviewing the paper***.
+***The author wishes to acknowledge the contributions of Associate Professor Bruce Lockhart, Department of History, Faculty of Arts and Social Sciences, National University of Singapore in 
+reviewing the paper***.
 
+<div>
+<center> <b>Tran Ky-Phuong </b><br> Lee Kong Chian Research Fellow<br> National Library</center></div>
 
 
 
