@@ -62,6 +62,16 @@ Salt is the most important item of trade between lowlanders and uplanders. Salt 
 
 The trading of salt with lowlanders in the early 20th century was recorded in a Katu folksong:
 
+     “*He is the master of salt*,<br>      *We are always his friends*,<br>     *Because he provides us with buffalos to eat*,<br>      *And makes trading convenient*,<br>      *We drink a cup of rice wine with him*,<br>      *Our village communal house is his house*,<br>      *Because he is strong and wealthy*,<br>      *We want to make friends with him*”.9
+
+#### **The ‘Upland-lowland Exchange Network’ in Central Vietnam: the Patterning of Multiethnic Coexistence in the Region**
+
+Because of its geographical location midway between North and South Vietnam, Quang Nam province is a melting pot of cultures. This accounts for the coexistence of Malayo-Polynesian speakers and Mon-Khmer speakers, as well as the Kinh people or Vietnamese speakers among the former local people. During the pre-Vietnamese period, in the 16th century, people in the Thu Bon basin spoke their own Cham language and maintained the old customs of the Cham. These lowlanders may have started speaking Vietnamese sometime during the 17th century. Linguistic mixture is clearly reflected in the unique dialect of the Vietnamese speakers who live in the Thu Bon basin.
+
+The cultural elements of the Champa Kingdom(s) still persist in central Vietnam. The Cham cultural influences were still very strong in the 16th and 17th centuries, when this region was called Ke Chiem or Xu Chiem, meaning the ‘Territory of Champa’, according to most of the accounts written by Westerners and Japanese who came to central Vietnam or Cochin-China at that time. Historical and linguistic evidence clearly indicate that a pattern of coexistence had long characterised the interactions among the people in the Thu Bon basin in particular, as well as in central Vietnam as a whole.
+
+***The author wishes to acknowledge the contributions of Associate Professor Bruce Lockhart, Department of History, Faculty of Arts and Social Sciences, National University of Singapore in reviewing the paper***.
+
 
 
 
