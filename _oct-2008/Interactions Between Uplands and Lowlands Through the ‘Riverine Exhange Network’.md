@@ -163,6 +163,3 @@ William A. Southworth, “The Coastal States of Champa,” in [_Southeast Asia: 
 [^8]: Quach Xan, “Giac Mua” \[Seasonal enemy\], in _Ngoc Linh, Chuyen De Nghien Cuu, Sang Tac Ve Mien Nui &amp; Tay Nguyen_ \[Ngoc Linh Magazine, Special Researches and Literary Works on Mountainous Area and Central Vietnam Highland no. 1 (2000): 71–106.
 
 [^9]:Jean Le Pichon, Les Chassuers De Sang, _Bulletin des Amis du Vieux Hue_, 4 (1938): 364.
-
-
-
