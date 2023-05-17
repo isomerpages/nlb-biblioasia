@@ -256,7 +256,7 @@ Long Amat was also reminded to inform their relatives that Tok Sumang wished to 
 
 After Long Amat had sailed for Daik, Tok Sumang, along with his other sons, Che’ Mamat and Si Kemidin, rowed to neighbouring Singapore as planned. The trio of father and sons began their work: chopping trees, removing thickets and clearing the forests to plant coconut trees.
 
-<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/wak%20sumang%20and%20his%20sons%20cutting%20down%20the%20dense%20forest%20.jpg">
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/wak%20sumang%20and%20his%20sons%20cutting%20down%20the%20dense%20forest%20.jpg">
 <div style="background-color: white; text-align:center">Wak Sumang and his sons cutting down the dense forest to start a new village in Punggol. <i>From Tok Sumang, p. 27.</i></div>
 
 For months they were hard at work, until the snake-infested forests were cleared and the coconut trees planted. They also chopped the many rumbia trees \[sago trees\] for the purpose of making sago that could be sold to Melaka and Pahang.
