@@ -11,7 +11,7 @@ By Ross Laird
 ![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image1.png)
 <div style="background-color: white;">Following its establishment in Singapore, Philips recorded local band The Crescendos, whose first record in 1963, <i>Mr Twister</i>, was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
 
-Despite the significant changes that had taken place in Singapore’s record industry in the 1950s, few could have predicted the even more dramatic transformations to come in the 1960s. At the start of the decade, the record industry in Singapore was still dominated by EMI (as it had been since the 1930s). The few independent record labels that existed were relatively insignificant in market terms, and no other multinational record company had yet shown an interest in establishing a presence in Singapore.
+Despite the significant changes that had taken place in Singapore’s record industry in the 1950s, few could have predicted the even more dramatic transformations to come in the 1960s. At the start of the decade, the record industry in Singapore was still dominated by EMI (which had originally been known&nbsp;as Electric and Musical Industries, hence the initials). The few independent record labels that existed were relatively insignificant in market terms, and no other multinational record company had yet shown an interest in establishing a presence in Singapore.
 
 EMI was famously conservative when it came to signing up local talent in its main Asian markets of Hong Kong and Singapore. The company enjoyed a virtual monopoly in these markets in the early 1960s, and they saw little reason to expand beyond the well-established forms of local popular music.
 
