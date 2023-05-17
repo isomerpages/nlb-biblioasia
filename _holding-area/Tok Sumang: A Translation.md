@@ -296,7 +296,7 @@ One day, a white man from the Land Office came to the village together with an I
 
 We don’t know what the white man said and how the interpreter explained his words. Although Tok Sumang was unable to understand what was being asked, he still replied to the white man’s queries.
 
-“Sir, wait for me at my home, for I will return in a while. I am about to finish chopping the _punggor_ of this rumbia_,”_ he said, while directing his thumb towards his house.
+“Sir, wait for me at my home, for I will return in a while. I am about to finish chopping the _punggor_ of this rumbia,” he said, while directing his thumb towards his house.
 
 Tok Sumang could not comprehend what the interpreter said to the white man, but he heard the white man repeatedly saying, “Ponggor… Ponggol…”
 
