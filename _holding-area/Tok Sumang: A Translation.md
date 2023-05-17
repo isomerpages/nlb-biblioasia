@@ -326,7 +326,7 @@ In memory of Tok Sumang, the road that was built leading to the shore of Tanjong
 
 **The End**<br><br>
 
-_After reading the tale of Tok Sumang, let us recite Surah Al-Fatihah \[a prayer\] upon his departed soul in tribute_ _to his legacy and leadership. We seek from Allah to bless us with more Malay leaders with qualities like Tok Sumang, who prioritised the affairs of his kinsfolk and people, rather than his own affairs._
+_After reading the tale of Tok Sumang, let us recite Surah Al-Fatihah \[a prayer\] upon his departed soul in tribute_ _to his legacy and leadership. We seek from Allah to bless us with more Malay leaders with qualities like Tok Sumang, who prioritised the affairs of his kinsfolk and people, rather than his own affairs._<br><br>
 
 
 This is a translation of _Tok Sumang_ by Ahmad Ubaidillah, a research analyst at RIMA (Centre for Research on Islamic and Malay Affairs). Ahmad Ubaidillah holds a degree in Islamic Jurisprudence from Yarmouk University, Jordan. His research interests are literature discourse and sociology of religion. He is a Sahabat Sastera under the Majlis Bahasa Singapura (Malay Language Council, Singapore). He has written for platforms such as Muslim.sg, Wasat Online, Karyawan and BeritaMediacorp.
