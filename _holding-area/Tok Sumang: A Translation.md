@@ -330,4 +330,3 @@ _After reading the tale of Tok Sumang, let us recite Surah Al-Fatihah \[a prayer
 
 
 This is a translation of _Tok Sumang_ by Ahmad Ubaidillah, a research analyst at RIMA (Centre for Research on Islamic and Malay Affairs). Ahmad Ubaidillah holds a degree in Islamic Jurisprudence from Yarmouk University, Jordan. His research interests are literature discourse and sociology of religion. He is a Sahabat Sastera under the Majlis Bahasa Singapura (Malay Language Council, Singapore). He has written for platforms such as Muslim.sg, Wasat Online, Karyawan and BeritaMediacorp.
-
