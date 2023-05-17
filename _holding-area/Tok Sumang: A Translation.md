@@ -126,7 +126,8 @@ What is certain is that Tok Sumang was a part of the Lingga sultan’s convoy fo
 
 And so, for months, the two brothers waged war on each other, with no heed to the consequences and sacrifices…
 
-![](/images/Vol%2019%20Issue%202/Tok%20Sumang/the%20two%20siblings%20wage%20war%20.jpg)<div style="background-color: white;">The two siblings wage war on each other for months, regardless of consequences. <i>From Tok Sumang, p. 7.</i></div>
+<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/the%20two%20siblings%20wage%20war%20.jpg">
+<div style="background-color: white;">The two siblings wage war on each other for months, regardless of consequences. <i>From Tok Sumang, p. 7.</i></div>
 
 **Love for Peace**
 
