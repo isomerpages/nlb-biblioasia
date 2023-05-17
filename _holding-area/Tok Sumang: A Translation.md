@@ -189,8 +189,8 @@ The warriors decided that it is better to die on the battlefield than to live a 
 
 Wan Ahmad’s soldiers ferociously resisted Wan Embong’s army, as they felt that they had been deceived by the peace treaty with the bendahara’s people. From then on, the flames of war were stoked for the second time.
 
-<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/the%20flames%20of%20war%20.jpg">
-<div style="background-color: white;">The flames of war are rekindled in the second battle. <i>From Tok Sumang, p. 16_ </i></div>
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/the%20flames%20of%20war%20.jpg">
+<div style="background-color: white;text-align:center">The flames of war are rekindled in the second battle. <i>From Tok Sumang, p. 16_ </i></div>
 
 **In Isolation**
 
