@@ -69,7 +69,7 @@ When the two of you are able to read, do read \[the book\] and explore the great
 
 Hopefully, this effort will not be in vain.
 
-**Mastomo (Muhammad Ariff Ahmad)**<br>**Singapore, 14 July 1957**
+**Mastomo (Muhammad Ariff Ahmad)**<br>**Singapore, 14 July 1957**<br><br>
 
 
 **War**
