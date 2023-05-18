@@ -33,3 +33,6 @@ Eric Lomax, [<i>The Railway Man</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus
 
 #### **Transcript** ####
 Coming soon
+<!---
+[Music playing]
+--->
