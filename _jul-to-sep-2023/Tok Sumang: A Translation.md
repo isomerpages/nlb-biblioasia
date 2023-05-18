@@ -329,7 +329,7 @@ In early 1891, the construction began. Kampong Punggol was given to Long Amat as
 
 In memory of Tok Sumang, the road that was built leading to the shore of Tanjong Punggol was named “Jalan Wak Sumang”.
 
-**The End**<br><br>
+**The End**
 
 _After reading the tale of Tok Sumang, let us recite Surah Al-Fatihah \[a prayer\] upon his departed soul in tribute_ _to his legacy and leadership. We seek from Allah to bless us with more Malay leaders with qualities like Tok Sumang, who prioritised the affairs of his kinsfolk and people, rather than his own affairs._<br><br>
 
