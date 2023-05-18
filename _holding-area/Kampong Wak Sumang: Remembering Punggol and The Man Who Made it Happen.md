@@ -14,7 +14,7 @@ The name Sumang belongs to the man who founded Kampong Wak Sumang, also known as
 
 For over 100 years, the growth of Kampong Wak Sumang reflected changes in the Punggol Point community, until its residents relocated in the 1980s to make way for today’s public housing estate.2 Although no physical traces of the kampong remain, fragments of its story can be pieced together from books, oral history interviews, newspaper reports and artefacts in the collections of the National Library and the National Archives of Singapore.
 
-Sumang, Who?
+#### **Sumang, Who?**
 
 “Her husband was named Che’ Soman, who hailed from Daik. He was talented in playing the violin, and was also humorous and cheerful. Some also said that he was a warrior.”3
 – Tok Sumang, p. 4
@@ -37,7 +37,7 @@ When Sumang died in the late 1800s, he left behind a huge estate for his descend
 
 In addition to setting up the kampong, Sumang is also believed to have dug a five-metre-deep well in the kampong. It was said to never run dry and to contain healing properties.17 Haji Mohammed Amin Abdul Wahab, a teacher and resident in the kampong, told the Straits Times in 1995 that the villagers believed that the well could cure children of fever and epileptic fits. “They would bring their children to bathe with the well water before dawn and they were cured,” he said.18
 
-Wak Sumang’s Legacy
+#### **Wak Sumang’s Legacy**
 
 “The life of a tree brings fruit, the life of a person brings benefit.”19
 
@@ -55,7 +55,7 @@ Masjid Wak Sumang served as an epicentre of religious activity as well as a meet
 
 Sumang and his wife Gobek were buried near the grounds of Masjid Wak Sumang.27 When the mosque was demolished to make way for redevelopment in 1995, the couple’s remains were exhumed and reburied at Jalan Bahar Muslim Cemetery.28 Some of the items that belonged to the mosque – such as drums, prayer mats, prayer schedules, the sermon stick and mosque pulpit – were taken into the repositories of the National Museum of Singapore and the Asian Civilisations Museum.29 Staff from the National Archives of Singapore also took photographs of the area and conducted oral history interviews. One of these interviews was with Awang Osman (1906–90), the village penghulu (headman or chief).30
 
-Changing Communities
+#### **Changing Communities**
 
 Awang Osman was Kampong Wak Sumang’s headman from 1932 until its demolition in 1985.31 His account of the kampong’s history is captured in 800 minutes of oral history interviews with the National Archives of Singapore, recorded over 30 reels between August 1984 and December 1985. Wak Sumang was Awang Osman’s maternal great-grandfather.32
 
@@ -71,6 +71,29 @@ A new phase of Kampong Sumang’s history began after the kampong took in refuge
 
 As the community grew, the villagers in Kampong Wak Sumang decided to build a Malay School – Sekolah Melayu Ponggol – to educate the younger generations. It opened in 1955 with funds raised through the Rotary Club and other private donors.40 In 1963, the school was taken over by the government and moved to Track 13.41
 
-Developing Punggol
+#### **Developing Punggol**
 
 In the 1960s, Kampong Wak Sumang welcomed piped water, electricity, paved roads and drainage systems. Punggol Point was also becoming well known for its open-air seafood restaurants and boatels (boat storage and water sports centres). Besides providing docking facilities for pleasure boats when not in use, these boatels also rented out boats for water skiing, fishing and sightseeing activities. People would come from all over Singapore to soak in the sea breeze, enjoy delicious seafood and take part in water sports. Punggol Point became a popular recreational spot for locals and tourists.42
+
+The residents of Kampong Wak Sumang were part of the thriving scene. Some like Awang Abdullah, whose nickname was Awang Pendek, ran a boatel business. Others sold their fishing catch to seaside restaurants and hotels and also at nearby markets in Kangkar and Punggol.43
+
+The idyllic kampong life, however, would ultimately come to an end. In 1983, the government announced that it would be undertaking a reclamation project for future housing needs in Punggol. Some 277 hectares of land would be reclaimed off the Punggol coastline over the next three years at a cost of $136 million.44 Residents of Kampong Wak Sumang, as well as Punggol Point’s famous seafood restaurants and boatels, were asked to vacate their premises by 1986.45
+
+Not everyone was ready to part ways with the kampong. After giving up his boatel business and moving to Hougang, former headman Awang Osman made it a point to return to Kampong Wak Sumang every day. In an interview with Berita Minggu in 1987 – when he was already 100 years old – Awang Osman vowed to continue visiting the kampong as long as his body was able and the site had not been developed into a housing estate. Echoing the wisdom of his great-grandfather, Awang Osman summed up the villagers’ sentiments with the Malay proverb, “Tempat jatuh lagi dikenang, inikan pula tempat bermain”. While the adage literally means “where we stumbled, we also rejoiced”, it conveys that it was not easy for people to forget the place that had been their home for decades.46
+
+Although they had been resettled, some continued to rely on the sea for a living. Awang Atan, like many in his community, continued to work as a fisherman. In 1987, he told Berita Minggu that he could earn $300 a month by selling fish, crabs and mussels to nearby kelong (an offshore platform made of wood for fishing) and the Punggol Fish Market. “The sea is my flesh and blood,” he said “[and] I have been happy with this way of life for generations”.47
+
+In the same news report, Mohamed Baba revealed that he was still able to make a decent living from the sea. “I can get 50 kilos of mussels daily and earn $100 from the kelongs on a good day,” he said. “After deducting fuel and rental for the motorboat, and also after paying the helpers, my net profit can be $30.”48
+Those who owned boatels stayed behind to faithfully watch over their clients’ boats. Almost 10 years after most of the villagers had left, Jimat Awang of Awang Boat Sheds and Zainal Jantan of Zainal Water-ski Centre were still looking after the boats under their care.
+
+“My brother, my brother-in-law and I will be staying behind to take turns to keep an eye on the boats,” said Jimat Awang when he was interviewed by the New Paper in September 1994. This was even though his main office building, the two huts where the family slept in, and his store had been torn down. Zainal Jantan said that “he and a few friends would also be watching over his 40 to 50 boats” and “sleep in a small hut that had not been demolished, but the rest of his family would be returning to their Hougang flat”.49 
+
+#### **Revisiting Punggol**
+
+Although Kampong Wak Sumang no longer exists today, its legacy lives on in the stories of the people who once called it home.
+
+The National Library Board (NLB) is showcasing some of these stories at Singaporium – a permanent exhibition space located at level four of the new Punggol Regional Library – to bring its heritage collections closer to the community. The inaugural exhibition, “Punggol Stories”, features the Tok Sumang book by Muhammad Ariff Ahmad as well as memories collected from former Punggol residents, including those who used to live in Kampong Wak Sumang.
+
+To make the stories of Wak Sumang and his contributions more accessible to the wider community, Ahmad Ubaidillah – whose mother Rohaida Ismail is a descendant of Wak Sumang and grew up in Kampong Wak Sumang – has translated Tok Sumang into English (read the original Malay digitised text on BookSG, while the English translated version can be accessed on the BiblioAsia website). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
+
+“Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories. 
