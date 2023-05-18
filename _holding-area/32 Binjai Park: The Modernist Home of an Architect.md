@@ -14,6 +14,9 @@ Significant buildings in Singapore tend to fall into a few well-known categories
 
 Designed by Lee and built in 1973, the house at 32 Binjai Park has been designated as a significant modernist building in Singapore.[^2]
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image2.png)
+<div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
+
 From the street, the 3,800-square-foot home (353 sqm) is unassuming, with its white-painted brick and plaster walls, and sloping, red-tiled roof. Although it does not stand out visually from its neighbours, it is when one walks through the front door that the unique qualities of the house are revealed.
 
 The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
