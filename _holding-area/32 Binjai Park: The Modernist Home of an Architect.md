@@ -45,8 +45,8 @@ She noted that most people preferred double-storey houses, which made Lee’s ho
 
 Lee purchased the plot of land at Binjai Park in the early 1960s but he only started making plans to design and build a house on it in the latter half of the decade when he decided to move out from his family home on Amber Road. 
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image5.png)
-<div style="background-color: white;">Lee Kip Lin with his wife Ong Li-ming on their wedding day, 1959. <i>Courtesy of Mrs Lee Li-ming.</i></div>
+![](/images/Vol%2019%20Issue%202/Brinjai/image7.png)
+<div style="background-color: white;">The ground-floor plan of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 The house in Binjai Park is very different from the Amber Road one. That was a two-storey seafront house, also designed by Lee after the earlier house on the same site was demolished in 1960. Only a wall with a gate stood between the garden and the beach. 
 
@@ -78,6 +78,9 @@ Lee also chose to use a sloping roof instead of a flat one because of the torren
 #### **A Unique Character**
 
 The house today reflects both the original design as well as changes resulting from a major refurbishment that took place in 1997. This was necessary because many things had begun to deteriorate from wear and tear, including the original electrical wiring. The wiring had been embedded in the concrete walls, as was the practice in those days, and needed to be replaced. Lee was unwell by that time and was not involved in the work, which was supervised by his wife, Mrs Lee Li-ming. 
+
+![](/images/Vol%2019%20Issue%202/Brinjai/image5.png)
+<div style="background-color: white;">Lee Kip Lin with his wife Ong Li-ming on their wedding day, 1959. <i>Courtesy of Mrs Lee Li-ming.</i></div>
 
 She firmly dismissed suggestions to replace the original steel window frames and wooden doors with more “modern” alternatives. Although newer alternatives might have simplified the refurbishment, the look and feel of the house would have been irretrievably damaged. 
 
