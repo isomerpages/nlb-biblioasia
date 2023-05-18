@@ -18,7 +18,7 @@ From the street, the 3,800-square-foot home (353 sqm) is unassuming, with its wh
 
 The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
 
-The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.3 Wild chickens can be seen pecking away, while the pet cat lazes nearby.
+The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.[^3] Wild chickens can be seen pecking away, while the pet cat lazes nearby.
 
 At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*) emerge from within the frame of the sliding doors of the dining rooms where they have made their nests. They leave their hideaway to hunt before returning to roost at dawn. In the garden near the veranda is a wall made from red bricks salvaged from the former Raffles Institution building on Bras Basah Road.
 
