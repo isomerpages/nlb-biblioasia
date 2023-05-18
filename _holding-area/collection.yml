@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "Tok Sumang: A Translation.md"
       - Test page.md
