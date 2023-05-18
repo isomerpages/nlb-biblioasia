@@ -26,6 +26,15 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
+      title: Tok Sumang
+      subtitle: People
+      description: "A story about Wak Sumang, a man of great wisdom and many talents,
+        and the founder of Kampong Punggol. "
+      button: Wak Sumang’s legacy
+      url: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
+      alt: Image alt text
+      image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
+  - infopic:
       title: The Famous Whale Skeleton At The Raffles Museum
       subtitle: Nature and the Environment
       description: A blue whale skeleton took centre stage at the former Raffles
@@ -508,13 +517,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: Tok Sumang
-      subtitle: People
-      description: "A story about Wak Sumang, a man of great wisdom and many talents,
-        and the founder of Kampong Punggol. "
-      button: Wak Sumang’s legacy
-      url: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
-      alt: Image alt text
-      image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
 ---
