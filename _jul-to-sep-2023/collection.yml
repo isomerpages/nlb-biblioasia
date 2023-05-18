@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2023:
     output: true
     order:
+      - "Tok Sumang: A Translation.md"
       - How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let it
         Go 60 Years Later.md
       - Bridging Past and Present in Pasir Ris.md
