@@ -91,6 +91,10 @@ A more recent addition is the installation of a large ceiling fan in the living 
 ![](/images/Vol%2019%20Issue%202/Brinjai/image8.png)
 <div style="background-color: white;"> Looking out into the veranda and garden from the living room, which has a very high ceiling, 2023. The large fan gives the living room a cosier feel. <i>Photo by Jimmy Yap. </i></div>
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image9.png)
+<div style="background-color: white;"> A view of the veranda and the sloping roof, 2022. On the right is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Courtesy of Dr Lee Peng Hui.</i></div>
+
+
 #### **A Home for the Ages**
 
 In recent years, there has been an increased interest in Singapore’s modernist architecture.[^12] The public became more aware of modernist architecture here after the iconic Pearl Bank Apartments was demolished in 2019, despite international attention and proposals for conservation.[^13]
