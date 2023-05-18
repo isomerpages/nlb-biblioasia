@@ -105,6 +105,9 @@ Lee’s home is one of the few modernist homes in Singapore that has been opened
 
 In 2022, the family of the late architect donated the original architectural plans and documents, comprising contract drawings and correspondence between Lee and the firms involved in constructing the house, to the National Library, Singapore. These form part of the Lee Kip Lin Collection.[^15] The public may request to access the materials in the collection via the National Library Board’s catalogue at http://catalogue.nlb.gov.sg/. Walk-in requests can be made at the Level 11 information counter of the National Library Building on Victoria Street.
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image10.png)
+<div style="background-color: white;"> A view of the house from the garden, 2022. <i>Courtesy of Dr Lee Peng Hui.</i></div>
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
