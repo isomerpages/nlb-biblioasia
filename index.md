@@ -17,7 +17,7 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
   - infopic:
-      title: Tok Sumang
+      title: "Tok Sumang: A Translation"
       subtitle: People
       description: "A story about Wak Sumang, a man of great wisdom and many talents,
         and the founder of Kampong Punggol. "

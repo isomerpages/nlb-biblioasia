@@ -7,7 +7,7 @@ description: A story about Wak Sumang, a man of great wisdom and many talents,
 #### A story about Wak Sumang, a man of great wisdom and many talents, and the founder of Kampong Punggol.
 By Muhammad Ariff Ahmad (writing under the pen name Mastomo); translated by Ahmad Ubaidillah.
 
-<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg">
+<img style="width:60%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg">
 <div style="background-color: white;text-align:center">A story of Wak Sumang by Muhammad Ariff Ahmad, writing under the pen name Mastomo. <i>Image reproduced from Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957). (From BookSG; accession no. B29234707A).</i></div>
 
 **Introduction**
@@ -335,4 +335,4 @@ In memory of Tok Sumang, the road that was built leading to the shore of Tanjong
 _After reading the tale of Tok Sumang, let us recite Surah Al-Fatihah \[a prayer\] upon his departed soul in tribute_ _to his legacy and leadership. We seek from Allah to bless us with more Malay leaders with qualities like Tok Sumang, who prioritised the affairs of his kinsfolk and people, rather than his own affairs._<br><br>
 
 
-This is a translation of _Tok Sumang_ by Ahmad Ubaidillah, a research analyst at RIMA (Centre for Research on Islamic and Malay Affairs). Ahmad Ubaidillah holds a degree in Islamic Jurisprudence from Yarmouk University, Jordan. His research interests are literature discourse and sociology of religion. He is a Sahabat Sastera under the Majlis Bahasa Singapura (Malay Language Council, Singapore). He has written for platforms such as Muslim.sg, Wasat Online, Karyawan and BeritaMediacorp.
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">This is a translation of _Tok Sumang_ by Ahmad Ubaidillah, a research analyst at RIMA (Centre for Research on Islamic and Malay Affairs). Ahmad Ubaidillah holds a degree in Islamic Jurisprudence from Yarmouk University, Jordan. His research interests are literature discourse and sociology of religion. He is a Sahabat Sastera under the Majlis Bahasa Singapura (Malay Language Council, Singapore). He has written for platforms such as Muslim.sg, Wasat Online, Karyawan and Berita Mediacorp</div>

@@ -2,4 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Kampong Wak Sumang: Remembering Punggol and The Man Who Made it
+        Happen.md"
+      - "32 Binjai Park: The Modernist Home of an Architect.md"
       - Test page.md
