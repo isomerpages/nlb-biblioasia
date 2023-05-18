@@ -45,6 +45,9 @@ She noted that most people preferred double-storey houses, which made Lee’s ho
 
 Lee purchased the plot of land at Binjai Park in the early 1960s but he only started making plans to design and build a house on it in the latter half of the decade when he decided to move out from his family home on Amber Road. 
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image5.png)
+<div style="background-color: white;">Lee Kip Lin with his wife Ong Li-ming on their wedding day, 1959. <i>Courtesy of Mrs Lee Li-ming.</i></div>
+
 The house in Binjai Park is very different from the Amber Road one. That was a two-storey seafront house, also designed by Lee after the earlier house on the same site was demolished in 1960. Only a wall with a gate stood between the garden and the beach. 
 
 In the Amber Road house, the dining room, kitchen and servants’ quarters were on the first floor. The living room, however, was on the second floor, and it opened to an extensive balcony. The balcony afforded panoramic views of the sea, ships and the Riau Islands beyond, which would not have been possible if the living room had been located on the first floor. From the balcony, Lee would often peer out, armed with a pair of binoculars. 
