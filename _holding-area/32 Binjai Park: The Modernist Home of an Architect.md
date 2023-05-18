@@ -87,15 +87,15 @@ In 2022, the family of the late architect donated the original architectural pla
 	
 #### **NOTES**
 
-[^1]: Bonny Tan, “Lee Kip Lin: Kampong Boy Conservateur,” BiblioAsia 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in Singapore Infopedia. National Library Board Singapore. Article published 2011.
+[^1]: Bonny Tan, “Lee Kip Lin: Kampong Boy Conservateur,” *BiblioAsia* 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
 
 [^2]: For a list of significant modernist buildings in Singapore, see “Modernist 100,” Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/modernist-100.
 
 [^3]: “Binjai,” National Parks Board, 24 June 2021, https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2003-86. 
 
-[^4]: Tay Kheng Soon, “A Tribute to Lee Kip Lin,” in Big Thinking on a Small Island: The Collected Writings and Ruminations of Tay Kheng Soon, ed. Kevin Y.L. Tan and Alvin Tan (Singapore: Equilibrium Consulting Pte Ltd for Department of Architecture, National University of Singapore, 2020), 29. (From National Library, Singapore, call no. RSING 720.95957 TAY)
+[^4]: Tay Kheng Soon, “A Tribute to Lee Kip Lin,” in *Big Thinking on a Small Island: The Collected Writings and Ruminations of Tay Kheng Soon*, ed. Kevin Y.L. Tan and Alvin Tan (Singapore: Equilibrium Consulting Pte Ltd for Department of Architecture, National University of Singapore, 2020), 29. (From National Library, Singapore, call no. RSING 720.95957 TAY)
 
-[^5]: Peter Keys, “Architects &amp; Their Own Homes – The House of Lee Kip Lin,” In Times Annual Singapore 1983–1984 (Singapore: Times Periodicals, 1983–1984), 110–11. (From National Library, Singapore, call no. RSING 959.57 TAS-[HIS])
+[^5]: Peter Keys, “Architects &amp; Their Own Homes – The House of Lee Kip Lin,” In *Times Annual Singapore 1983–1984* (Singapore: Times Periodicals, 1983–1984), 110–11. (From National Library, Singapore, call no. RSING 959.57 TAS-[HIS])
 
 [^6]: Tse Swee Ling, personal communication, 27 January 2023.
 
@@ -111,7 +111,7 @@ In 2022, the family of the late architect donated the original architectural pla
 
 [^12]: Modernist architecture emerged in the early 20th century. It is characterised by clean lines, simplicity, and a focus on practicality over ornamentation. Modernist architects use new materials and construction techniques to create functional and beautiful buildings that reflect the changing needs of society. See “Modernism”. RIBA Architecture, accessed 13 March 2023, https://www.architecture.com/explore-architecture/modernism. 
 
-[^13]: Justin Zhuang, “Saving Pearl Bank Apartments,” BiblioAsia 12, no. 3 (October–December 2016), 12–16.
+[^13]: Justin Zhuang, “Saving Pearl Bank Apartments,” *BiblioAsia* 12, no. 3 (October–December 2016), 12–16.
 
 [^14]: “Lee Kip Lin House Tour”. Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/happenings/lee-kip-lin-house-tour-event. 
 
