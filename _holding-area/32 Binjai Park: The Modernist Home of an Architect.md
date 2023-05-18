@@ -80,18 +80,39 @@ Lee’s home is one of the few modernist homes in Singapore that has been opened
 
 In 2022, the family of the late architect donated the original architectural plans and documents, comprising contract drawings and correspondence between Lee and the firms involved in constructing the house, to the National Library, Singapore. These form part of the Lee Kip Lin Collection.[^15] The public may request to access the materials in the collection via the National Library Board’s catalogue at http://catalogue.nlb.gov.sg/. Walk-in requests can be made at the Level 11 information counter of the National Library Building on Victoria Street.
 
-Bonny Tan, “Lee Kip Lin: Kampong Boy Conservateur,” BiblioAsia 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in Singapore Infopedia. National Library Board Singapore. Article published 2011.
-For a list of significant modernist buildings in Singapore, see “Modernist 100,” Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/modernist-100.
-“Binjai,” National Parks Board, 24 June 2021, https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2003-86. 
-Tay Kheng Soon, “A Tribute to Lee Kip Lin,” in Big Thinking on a Small Island: The Collected Writings and Ruminations of Tay Kheng Soon, ed. Kevin Y.L. Tan and Alvin Tan (Singapore: Equilibrium Consulting Pte Ltd for Department of Architecture, National University of Singapore, 2020), 29. (From National Library, Singapore, call no. RSING 720.95957 TAY)
-Peter Keys, “Architects &amp; Their Own Homes – The House of Lee Kip Lin,” In Times Annual Singapore 1983–1984 (Singapore: Times Periodicals, 1983–1984), 110–11. (From National Library, Singapore, call no. RSING 959.57 TAS-[HIS])
-Tse Swee Ling, personal communication, 27 January 2023.
-Tse Swee Ling, personal communication, 27 January 2023.
-Tse Swee Ling, personal communication, 27 January 2023.
-Tse Swee Ling, personal communication, 27 January 2023.
-Tse Swee Ling, personal communication, 27 January 2023.
-Tse Swee Ling, personal communication, 27 January 2023.
-Modernist architecture emerged in the early 20th century. It is characterised by clean lines, simplicity, and a focus on practicality over ornamentation. Modernist architects use new materials and construction techniques to create functional and beautiful buildings that reflect the changing needs of society. See “Modernism”. RIBA Architecture, accessed 13 March 2023, https://www.architecture.com/explore-architecture/modernism. 
-Justin Zhuang, “Saving Pearl Bank Apartments,” BiblioAsia 12, no. 3 (October–December 2016), 12–16.
-“Lee Kip Lin House Tour”. Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/happenings/lee-kip-lin-house-tour-event. 
-In October 2009, the Lee family donated a collection of more than 19,000 items to the National Library, Singapore, forming the Lee Kip Lin Collection. It comprises monographs; annual reports of the Raffles Institution; letters and related documents of the East India Company; rare Singapore and Southeast Asian maps; slides and negatives of early and modern Singapore; and photographs taken by Lee Kip Lin.
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
+	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
+	
+#### **NOTES**
+
+[^1]: Bonny Tan, “Lee Kip Lin: Kampong Boy Conservateur,” BiblioAsia 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in Singapore Infopedia. National Library Board Singapore. Article published 2011.
+
+[^2]: For a list of significant modernist buildings in Singapore, see “Modernist 100,” Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/modernist-100.
+
+[^3]: “Binjai,” National Parks Board, 24 June 2021, https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2003-86. 
+
+[^4]: Tay Kheng Soon, “A Tribute to Lee Kip Lin,” in Big Thinking on a Small Island: The Collected Writings and Ruminations of Tay Kheng Soon, ed. Kevin Y.L. Tan and Alvin Tan (Singapore: Equilibrium Consulting Pte Ltd for Department of Architecture, National University of Singapore, 2020), 29. (From National Library, Singapore, call no. RSING 720.95957 TAY)
+
+[^5]: Peter Keys, “Architects &amp; Their Own Homes – The House of Lee Kip Lin,” In Times Annual Singapore 1983–1984 (Singapore: Times Periodicals, 1983–1984), 110–11. (From National Library, Singapore, call no. RSING 959.57 TAS-[HIS])
+
+[^6]: Tse Swee Ling, personal communication, 27 January 2023.
+
+[^7]: Tse Swee Ling, personal communication, 27 January 2023.
+
+[^8]: Tse Swee Ling, personal communication, 27 January 2023.
+
+[^9]: Tse Swee Ling, personal communication, 27 January 2023.
+
+[^10]: Tse Swee Ling, personal communication, 27 January 2023.
+
+[^11]: Tse Swee Ling, personal communication, 27 January 2023.
+
+[^12]: Modernist architecture emerged in the early 20th century. It is characterised by clean lines, simplicity, and a focus on practicality over ornamentation. Modernist architects use new materials and construction techniques to create functional and beautiful buildings that reflect the changing needs of society. See “Modernism”. RIBA Architecture, accessed 13 March 2023, https://www.architecture.com/explore-architecture/modernism. 
+
+[^13]: Justin Zhuang, “Saving Pearl Bank Apartments,” BiblioAsia 12, no. 3 (October–December 2016), 12–16.
+
+[^14]: “Lee Kip Lin House Tour”. Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/happenings/lee-kip-lin-house-tour-event. 
+
+[^15]: In October 2009, the Lee family donated a collection of more than 19,000 items to the National Library, Singapore, forming the Lee Kip Lin Collection. It comprises monographs; annual reports of the Raffles Institution; letters and related documents of the East India Company; rare Singapore and Southeast Asian maps; slides and negatives of early and modern Singapore; and photographs taken by Lee Kip Lin.
