@@ -36,6 +36,9 @@ Associate Professor Tse Swee Ling from the Department of Architecture at the Nat
 
 Tse had worked with Lee on many projects since the 1960s, including 32 Binjai Park. She pointed out that Lee’s home embodies his design philosophy. “The distinctive feature [of 32 Binjai Park] is the simplicity of the design,” she said. “The layout and setting are based on a simple square grid with recesses and void carved out. It is practically a single storey house except for the loft.”[^7]
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image4.png)
+<div style="background-color: white;">Lee Kip Lin and his architecture students at his Binjai Park home, 1970s. <i>Courtesy of Mrs Lee Li-ming.</i></div>
+
 She noted that most people preferred double-storey houses, which made Lee’s home distinctive. The house is also notable for eschewing ostentatious flourishes. “In those days, in the area, which was a rich man’s area, the houses built there were much more elaborate,” she noted. While others used marble, Lee chose normal floor tiles. “I still remember he brought the tiles and showed me. He said, ‘I found these tiles. They are very nice for my house. What do you think? What do you think?’… He was so happy when he found the tiles.”[^8]
 
 #### **Moving Out from Amber Road**
