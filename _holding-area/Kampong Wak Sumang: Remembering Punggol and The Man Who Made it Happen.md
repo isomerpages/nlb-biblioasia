@@ -58,11 +58,17 @@ Sumang and his wife Gobek were buried near the grounds of Masjid Wak Sumang.27 W
 Changing Communities
 
 Awang Osman was Kampong Wak Sumang’s headman from 1932 until its demolition in 1985.31 His account of the kampong’s history is captured in 800 minutes of oral history interviews with the National Archives of Singapore, recorded over 30 reels between August 1984 and December 1985. Wak Sumang was Awang Osman’s maternal great-grandfather.32
+
 In his interviews, Awang Osman recalled the dark days that followed after Singapore fell to the Japanese in February 1942. He and everyone else in Kampong Wak Sumang fled inland. “Of course I ran. The white [British] people told me, don’t stay here, you must flee. So I started running… there wasn’t a single person who remained in the kampong.”33
+
 After the Japanese invaded, they massacred thousands in an effort to purge anti-Japanese elements from the Chinese community (now known as Operation Sook Ching34). Punggol Beach was one of the execution sites. Awang Osman had not witnessed the killings, but he saw the aftermath. “When I returned [to Punggol], there were many Chinese who had been killed, floating in the sea. They had been shot by the Japanese. All in all there were maybe 500 [to] 600 people. Some were tied up with ropes, others impaled by barbed wire,” he recounted.35
+
 When the Japanese Occupation ended, residents rebuilt Kampong Wak Sumang with the little compensation they received from the British authorities. This included restoring Masjid Wak Sumang and other community spaces. 
+
 A new phase of Kampong Sumang’s history began after the kampong took in refugees from three villages in Johor – Ayer Biru, Pasir Merah and Pulau Tukang – during the Japanese Occupation and the Malayan Emergency (1948–60).36 The Johoreans settled inland and were called orang darat (land people), while the original inhabitants and descendants of Wak Sumang referred to themselves as orang laut (sea people).37 Their nickname notwithstanding, the Johoreans actually spent most of their time out at sea. Being skilled fishermen, their arrival kick-started the kupang (mussel) trade in the kampong. Shelling was done by hand and it took around six to eight people three hours to shell a full sampan (a small boat with a flat bottom) load of mussels.38
+
 “Whenever you see a lot of smoke coming out from my house, it means good business. I use pieces of wooden planks from a nearby dumping ground as firewood – that’s why it’s so smoky,” mussel farmer Jantan Rani told the Straits Times in 1984. Mussel farmers could earn double what they used to make as fishermen in a day. However, the widespread use of fire had its dangers. In 1981, Jantan Rani’s house caught fire and burned down. “I returned home to find my wife crying and my house in ashes. We lost everything, furniture, refrigerator, television and all.”39
+
 As the community grew, the villagers in Kampong Wak Sumang decided to build a Malay School – Sekolah Melayu Ponggol – to educate the younger generations. It opened in 1955 with funds raised through the Rotary Club and other private donors.40 In 1963, the school was taken over by the government and moved to Track 13.41
 
 Developing Punggol
