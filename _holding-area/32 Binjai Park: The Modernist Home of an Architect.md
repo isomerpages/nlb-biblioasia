@@ -110,12 +110,12 @@ In 2022, the family of the late architect donated the original architectural pla
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/lim_tin_seng_new.png">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations (2009)</i> and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 	
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/lee_peng_hui.png">
 	<b>Dr Lee Peng Hui</b> is the son of Lee Kip Lin. He is an independent researcher and cultural commentator, who grew up surrounded by Singapore’s pioneer modernist architects. He has been observing the architectural scene in Singapore and abroad since the late 20th century.</div>
 	
 #### **NOTES**
