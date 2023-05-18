@@ -96,4 +96,56 @@ The National Library Board (NLB) is showcasing some of these stories at Singapor
 
 To make the stories of Wak Sumang and his contributions more accessible to the wider community, Ahmad Ubaidillah – whose mother Rohaida Ismail is a descendant of Wak Sumang and grew up in Kampong Wak Sumang – has translated Tok Sumang into English (read the original Malay digitised text on BookSG, while the English translated version can be accessed on the BiblioAsia website). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
 
-“Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories. 
+“Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories.
+
+#### **Notes**
+
+Kamsiah Abdullah, et al., eds., Malay Heritage of Singapore (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-[HIS])
+Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG) 
+This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A) 
+“What’s in a Name,” Straits Times, 14 August 1990, 7. (From Newslink via NLB’s eResources website); Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG)
+“Pahang Civil War Breaks out,” in HistorySG,  National Library Board Singapore. Article published 2014. 
+Mohd Raman Daud, “Tempa Nama Lewat Novelet,” Berita Harian, 28 April 2014, 7. (From Newslink via NLB’s eResources website); Mastomo, Tok Sumang, 4–5. 
+This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 6. 
+Mastomo, Tok Sumang, 6, 10, 24.  
+Mastomo, Tok Sumang, 18.
+Mastomo’s Tok Sumang is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Gobek. See Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang,” Berita Minggu, 13 March 1983, 3. (From NewspaperSG). [English translation by Hannah Yeo and Diyanah Kamarudin.]
+The National Archives, UK, Map of Singapore Island, and Its Dependencies, 1852, map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
+Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, Tok Sumang, 23.
+Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang.
+Awang Bin Osman, interview, Reel/Disc 27 of 30, 344; Mohd Amin Bin Abdul Wahab (Haji), interview, Reel/Disc 1 of 44, 9.35–11.58.
+“Cucu2 Wak Sumang Diberi Flat,” Berita Minggu, 30 March 1986, 2. (From NewspaperSG)
+Mok Ly Yng, correspondence, January 2023; Joanna Tan, “The Padang,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021.   
+Saini Salleh, “Perigi Tua Wak Sumang,” Berita Harian, 8 January 1995, 3. (From Newslink via NLB’s eResources website) 
+“A Well That Never Runs Dry,” Straits Times, 11 January 1995, 11. (From NewspaperSG) 
+This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 35.  
+“Municipal Commissioners,” Straits Times, 1 April 1876, 1; “The Municipality,” Straits Times Weekly Issue, 5 January 1884, 7. (From NewspaperSG) 
+Mastomo, Tok Sumang, 34–37. 
+“Cucu2 Wak Sumang Diberi Flat.”
+Saini Salleh, “Warisan Masjid Diabadi,” Berita Harian, 5 January 1995, 3. (From Newslink via NLB’s eResources website); Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang.”
+“The Changing Face of Punggol,” Straits Times, 16 January 1984, 28. (From NewspaperSG)
+Sarafian Salleh, correspondence, March 2023.
+“Mr. Nixon Tours Rural Areas,” Indian Daily Mail, 26 October 1953, 4. (From NewspaperSG)  
+Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang”; Rohaida Ismail, correspondence, April 2023.
+Rohaida Ismail, correspondence, April 2023.
+Tuminah Sapawi, “Quiet Fishing Village in Punggol to Go Down in History,” Straits Times, 19 January 1995, 26. (From NewspaperSG); “A Well That Never Runs Dry”; Saini Salleh, “Khazanah Wak Sumang Berpindah Sudah,” Berita Harian, 8 January 1995, 2. (From Newslink via NLB’s eResources website)
+Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 9 August 1984, transcript and MP3 audio, Reel/Disc 1 of 30, 1, 6–7, 9. [Awang Osman’s father, Osman Bujang, was a Bugis born on Pulau Ubin. He moved to Kampong Pos in Seletar and then to Kampong Wak Sumang when he married Kendah Kaman, a granddaughter of Wak Sumang. Both Awang Osman and his father were fishermen and also builders of kelong (an offshore platform built predominantly with wood and used for fishing purposes).]
+Awang Bin Osman, interview, Reel/Disc 1 of 30, biographical information; Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 9 of 30, 118–119. 
+Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 28–30; Mohd Amin bin Abdul Wahab (Haji), interview Reel/Disc 1 of 44, 16.12–16.25.
+Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 10 of 30, 134. [English translation by Hannah Yeo and Diyanah Kamarudin.]
+Stephanie Ho, “Operation Sook Ching,” in Singapore Infopedia. National Library Board Singapore. Article published 17 June 2013.   
+Awang Bin Osman, Reel/Disc 10 of 30, 134. [English translation by Hannah Yeo and Diyanah Kamarudin.]
+Awang Bin Osman, interview, Reel/Disc 3 of 30, 26; Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 19 August 1984, transcript and MP3 audio, Reel/Disc 16 of 30, 209; Awang Bin Osman, Reel/Disc 27 of 30, 344.
+Rohaida Ismail, correspondence, July 2022.
+Yeo Kim Seng, “Farmer Flexes Muscles for Mussel Business,” Straits Times, 18 September 1984, 12. (From NewspaperSG)
+Yeo, “Farmer Flexes Muscles for Mussel Business.” 
+Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 19 August 1984, Reel/Disc 17 of 30, 221–222; Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 27 February 1995, MP3 audio, Reel/Disc 16 of 44, 0.16–0.20. 
+Saini Salleh, “Perigi Tua Wak Sumang,” Berita Harian, 8 January 1995, 3. (From Newslink via NLB’s eResources website); Awang Bin Osman, interview, Reel/Disc 17 of 30, 219–220.
+Gerry De Silva, “An Urban Punggol Tries to Preserve Part of Its Past,” Straits Times, 14 June 1988, 19. (From NewspaperSG)
+Emilia Azman and Hajjah Saniah Othaman, correspondence, April 2023.
+“Land Reclamation off Punggol,” Straits Times, 5 March 1983, 17; “Plan for Punggol Park on Reclaimed Land,” Straits Times, 15 July 1983, 9. (From NewspaperSG)
+Yeo, “The Last Days of a Fishing Village”; Gillian Pow Chong, “Teh to Decide on Future of Punggol,” Straits Times, 12 November 1985, 1; “Big Boatel Gets Notice to Quit,” Straits Times, 19 September 1986, 16. (From NewspaperSG)
+Saadon Ismail, “Tempat Jatuh Lagi Dikenang…,” Berita Minggu, 1 February 1987, 3. (From NewspaperSG)
+Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan.” [English translation by Hannah Yeo and Diyanah Kamarudin.] 
+Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan.” [English translation by Hannah Yeo and Diyanah Kamarudin.] 
+“Keeping Eye on Boats,” New Paper, 8 September 1994, 5. (From NewspaperSG)
