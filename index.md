@@ -17,15 +17,6 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
   - infopic:
-      title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
-      subtitle: Culture
-      description: Unique greeting cards collected by a giant in the Malay literary
-        scene. (From the National Library’s Blog on Medium).
-      button: Hari Raya greeting cards
-      url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
-      alt: Greeting Card
-      image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
       title: Tok Sumang
       subtitle: People
       description: "A story about Wak Sumang, a man of great wisdom and many talents,
@@ -83,6 +74,15 @@ sections:
       image: /images/Vol 19 Issue 2/Restoring SG
         Films/restore_classic_singapore_films_homepage_image.jpg
       alt: Image alt text
+  - infopic:
+      title: Muhammad Ariff Ahmad’s Hari Raya Puasa Greeting Cards
+      subtitle: Culture
+      description: Unique greeting cards collected by a giant in the Malay literary
+        scene. (From the National Library’s Blog on Medium).
+      button: Hari Raya greeting cards
+      url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
+      alt: Greeting Card
+      image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
       title: New Books on Singapore History (Apr 2023)
       subtitle: Literature
