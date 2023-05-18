@@ -19,6 +19,8 @@ Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 #### **Teaser clip** ####
 <a href=""><img src="/images/Podcast/ep%201%20(romusha%20by%20shirlene)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
+#### **Credits** ####
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shirlene Noordin and her family for sharing their story.
 
 #### **Resources** ####
 Shirlene Noordin, “[My Grandfather Was a Rōmusha]( https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway),” <i>BiblioAsia</i> 18, no. 3 (2016). 
