@@ -18,6 +18,9 @@ Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 #### **Teaser clip** ####
 <a href=""><img src="/images/Podcast/ep%204%20(belacan%20by%20toffa)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
+#### **Credits** ####
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Toffa for coming on the show.
+
 #### **Resources** ####
 Toffa Abdul Wahed, “[Belacan: Caviar? Or Vile and Disgusting?](/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)” <i>BiblioAsia</i> 19, no. 1 (2023).
 
