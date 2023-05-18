@@ -60,3 +60,17 @@ While sliding glass windows and doors were coming into fashion about the time th
 
 Lee also chose to use a sloping roof instead of a flat one because of the torrential downpours that Singapore regularly experiences. Flat roofs are more likely to leak, which is why Lee gave his house – as well as every house he designed – a sloping roof. A sloping roof would also create a high ceiling that improves ventilation.
 
+#### **A Unique Character**
+
+The house today reflects both the original design as well as changes resulting from a major refurbishment that took place in 1997. This was necessary because many things had begun to deteriorate from wear and tear, including the original electrical wiring. The wiring had been embedded in the concrete walls, as was the practice in those days, and needed to be replaced. Lee was unwell by that time and was not involved in the work, which was supervised by his wife, Mrs Lee Li-ming. 
+
+She firmly dismissed suggestions to replace the original steel window frames and wooden doors with more “modern” alternatives. Although newer alternatives might have simplified the refurbishment, the look and feel of the house would have been irretrievably damaged. 
+
+One significant change that did occur during the renovation was the introduction of a false ceiling. Although this allowed the installation of recessed ceiling lights, it has subtly altered the appearance of the house, most evidently along the edges of the living room where the false ceiling ends. Thankfully, the false ceiling can be easily removed to restore the ceiling to its original height and purpose in the future.
+
+A more recent addition is the installation of a large ceiling fan in the living room – of the type more commonly found in public spaces such as MRT stations. Although the high ceiling made the house seem larger than it really was, an unintended consequence was that it gave the living room a rather cavernous feel, making it a less welcoming space. This changed when the large fan was installed, at the suggestion of architect Tay Kheng Soon. Apart from cooling the room, the fan has also made the living room cosier and therefore popular. Previously, guests would naturally gravitate to areas with lower ceilings, such as the veranda or what is now the TV room. Since the fan was installed, the living room has become more frequently utilised.
+
+#### **A Home for the Ages**
+
+In recent years, there has been an increased interest in Singapore’s modernist architecture.12 The public became more aware of modernist architecture here after the iconic Pearl Bank Apartments was demolished in 2019, despite international attention and proposals for conservation.13
+The loss of Pearl Bank Apartments prompted the formation of the Singapore chapter of Docomomo International. Lee’s Binjai Road house has been included in Docomomo Singapore’s Modernist 100 list, joining other buildings such as Golden Mile Complex, Jurong Town Hall, Asia Insurance Building and the flats in Tiong Bahru built by the Singapore Improvement Trust.
