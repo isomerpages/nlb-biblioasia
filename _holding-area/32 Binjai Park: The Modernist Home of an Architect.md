@@ -7,8 +7,8 @@ description: The house that Lee Kip Lin built has stood the test of time,
 #### The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. 
 By Lim Tin Seng and Lee Peng Hui
 
-![](/images/Vol%2019%20Issue%202/Whale%20Skeleton/image1-edit.png)
-<div style="background-color: white;">The skeleton of the blue whale hanging from the ceiling of the Raffles Museum’s natural history room. <i>Image reproduced from R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: The Straits Times Press, Limited, 1908), Plate VII. (From BookSG; accession no. B02806775B).</i></div>
+![](/images/Vol%2019%20Issue%202/Brinjai/image_1.png)
+<div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 Significant buildings in Singapore tend to fall into a few well-known categories. There are colonial-era buildings typically in the neoclassical style, like the former Supreme Court or the old Parliament House. Then there are stunning modern ones like Jewel Changi Airport, Marina Bay Sands and Esplanade – Theatres on the Bay. Not many of them, however, are 1970s homes located in leafy suburbs. Then again, not many buildings can claim to be the family home of the late architect and conservationist Lee Kip Lin.[^1]
 
