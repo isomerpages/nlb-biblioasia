@@ -19,6 +19,8 @@ Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 #### **Teaser clip** ####
 <a href=""><img src="/images/Podcast/ep%203%20(murals%20by%20dahlia)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
+#### **Credits** ####
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Dahlia for coming on the show.
 
 #### **Resources** ####
 Dahlia Shamsuddin, “[The Forgotten Murals of Paya Lebar Airport](/vol-17/issue-2/jul-sep-2021/murals),” <i>BiblioAsia</i> 17, no. 2 (2021). 
