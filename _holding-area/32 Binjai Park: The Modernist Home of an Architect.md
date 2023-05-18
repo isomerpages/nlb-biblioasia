@@ -111,7 +111,7 @@ In 2022, the family of the late architect donated the original architectural pla
 
 [^12]: Modernist architecture emerged in the early 20th century. It is characterised by clean lines, simplicity, and a focus on practicality over ornamentation. Modernist architects use new materials and construction techniques to create functional and beautiful buildings that reflect the changing needs of society. See “Modernism”. RIBA Architecture, accessed 13 March 2023, https://www.architecture.com/explore-architecture/modernism. 
 
-[^13]: Justin Zhuang, “Saving Pearl Bank Apartments,” *BiblioAsia* 12, no. 3 (October–December 2016), 12–16.
+[^13]: Justin Zhuang, “[Saving Pearl Bank Apartments](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt),” *BiblioAsia* 12, no. 3 (October–December 2016), 12–16.
 
 [^14]: “Lee Kip Lin House Tour”. Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/happenings/lee-kip-lin-house-tour-event. 
 
