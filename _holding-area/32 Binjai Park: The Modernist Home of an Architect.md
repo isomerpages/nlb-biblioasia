@@ -75,3 +75,7 @@ A more recent addition is the installation of a large ceiling fan in the living 
 In recent years, there has been an increased interest in Singapore’s modernist architecture.[^12] The public became more aware of modernist architecture here after the iconic Pearl Bank Apartments was demolished in 2019, despite international attention and proposals for conservation.[^13]
 
 The loss of Pearl Bank Apartments prompted the formation of the Singapore chapter of Docomomo International. Lee’s Binjai Road house has been included in Docomomo Singapore’s Modernist 100 list, joining other buildings such as Golden Mile Complex, Jurong Town Hall, Asia Insurance Building and the flats in Tiong Bahru built by the Singapore Improvement Trust.
+
+Lee’s home is one of the few modernist homes in Singapore that has been opened for public visits. In March 2022, Docomomo Singapore organised two tours of the house, and tickets for both sold out almost immediately.[^14]
+
+In 2022, the family of the late architect donated the original architectural plans and documents, comprising contract drawings and correspondence between Lee and the firms involved in constructing the house, to the National Library, Singapore. These form part of the Lee Kip Lin Collection.15 The public may request to access the materials in the collection via the National Library Board’s catalogue at http://catalogue.nlb.gov.sg/. Walk-in requests can be made at the Level 11 information counter of the National Library Building on Victoria Street. 
