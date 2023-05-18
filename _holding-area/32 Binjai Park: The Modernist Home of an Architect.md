@@ -88,6 +88,9 @@ One significant change that did occur during the renovation was the introduction
 
 A more recent addition is the installation of a large ceiling fan in the living room – of the type more commonly found in public spaces such as MRT stations. Although the high ceiling made the house seem larger than it really was, an unintended consequence was that it gave the living room a rather cavernous feel, making it a less welcoming space. This changed when the large fan was installed, at the suggestion of architect Tay Kheng Soon. Apart from cooling the room, the fan has also made the living room cosier and therefore popular. Previously, guests would naturally gravitate to areas with lower ceilings, such as the veranda or what is now the TV room. Since the fan was installed, the living room has become more frequently utilised.
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image8.png)
+<div style="background-color: white;"> Looking out into the veranda and garden from the living room, which has a very high ceiling, 2023. The large fan gives the living room a cosier feel. <i>Photo by Jimmy Yap. </i></div>
+
 #### **A Home for the Ages**
 
 In recent years, there has been an increased interest in Singapore’s modernist architecture.[^12] The public became more aware of modernist architecture here after the iconic Pearl Bank Apartments was demolished in 2019, despite international attention and proposals for conservation.[^13]
