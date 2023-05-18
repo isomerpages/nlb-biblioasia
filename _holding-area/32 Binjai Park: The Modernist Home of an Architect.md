@@ -87,7 +87,7 @@ In 2022, the family of the late architect donated the original architectural pla
 	
 #### **NOTES**
 
-[^1]: Bonny Tan, “Lee Kip Lin: Kampong Boy Conservateur,” *BiblioAsia* 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
+[^1]: Bonny Tan, “[Lee Kip Lin: Kampong Boy Conservateur](https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/lee-kip-lin),” *BiblioAsia* 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
 
 [^2]: For a list of significant modernist buildings in Singapore, see “Modernist 100,” Docomomo Singapore, accessed 20 February 2023, https://www.docomomo.sg/modernist-100.
 
