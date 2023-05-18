@@ -208,7 +208,8 @@ Tok Sumang did not immediately accept or reject the princess’ confession of lo
 
 He reasoned that as “the world turns as the sky lies, thinking wrongly will lead to becoming a slave”.
 
-<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20b29234707a-21%20reduced.jpg">
+
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/wak%20sumang%20plays%20the%20violin%20.jpg">
 <div style="background-color: white;text-align:center">Wak Sumang plays the violin as the princess watches. <i>From Tok Sumang, p. 19.</i></div>
 
 Fearing the repercussions, including the punishment he would face from the sultan for insulting the royal family, Tok Sumang quietly escaped with his family, leaving the encampment of Lingga in search of a peaceful place.
