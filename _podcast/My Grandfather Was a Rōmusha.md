@@ -33,5 +33,14 @@ Eric Lomax, [<i>The Railway Man</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus
 
 #### **Transcript** ####
 Coming soon
-<!-- The text here is hidden on the web page 
+<!--
+
+[Music playing]
+
+Jimmy
+You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
+
+[Whistling]
+
+
 -->
