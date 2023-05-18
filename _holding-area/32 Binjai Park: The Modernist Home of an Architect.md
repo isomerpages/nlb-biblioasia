@@ -46,4 +46,17 @@ Lee was very attached to Katong. He loved the sea and might never have left Ambe
 
 In designing his new home, Lee based the proportions of the house on a square grid, or module. This can be seen in the ground-floor plan of the house.
 
-According to Tse, Lee revised the design concept of the house at least three times. The earlier designs featured a more basic grid layout. She said that when Lee first started planning, the house had an even simpler design. However, over time, he added new features like a garden and 
+According to Tse, Lee revised the design concept of the house at least three times. The earlier designs featured a more basic grid layout. She said that when Lee first started planning, the house had an even simpler design. However, over time, he added new features like a garden and later a courtyard for ventilation. “If he didn’t have a courtyard, it would have been a large area with no lighting and no air and it would be very stuffy,” she said. “But you can’t see the courtyard from outside because of the veranda.”[^9]
+
+At one point, the house was even meant to be double-storey. But in the final design, it was reduced to one storey with a loft. From the outside though, the loft is not apparent. “The loft was just a small area above the entrance area,” she said. “But the look of the house is single storey, and if you look from outside, you do not know there is a loft.”[^10]
+
+Adding to the simple look is the use of brick walls to conceal the reinforced concrete columns inside the house. Lee used the rough finish of bricks as a contrast to the plastered walls. Tse added that Lee chose common bricks instead of “facing bricks”, which are used mainly for facades and hence more aesthetically pleasing.
+
+Lee also did not want to install false ceilings. “He wanted to expose the roof construction by expressing the elements such as timber beams and rafters,” said Tse. “The concrete floor slab of the loft over the dining area was also left bare without a false ceiling. He had taken great care to place services such as the floor trap of the bathroom of the loft outside the house away from the main area so that a false ceiling is not necessary.”[^11]
+
+The design of the home also takes the local climate into consideration. Lee relied on the extensive use of louvres for windows and doors (some of which were bifold and trifold), which allows for cross-ventilation even when closed. The use of louvres also extends to the main entrance door. 
+
+While sliding glass windows and doors were coming into fashion about the time the house was built, Lee was adamantly opposed to them as he considered them to be unsuitable for the tropics: they cannot be fully opened and do not allow optimal use of the window and door apertures for ventilation. 
+
+Lee also chose to use a sloping roof instead of a flat one because of the torrential downpours that Singapore regularly experiences. Flat roofs are more likely to leak, which is why Lee gave his house – as well as every house he designed – a sloping roof. A sloping roof would also create a high ceiling that improves ventilation.
+
