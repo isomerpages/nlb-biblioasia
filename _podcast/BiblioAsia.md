@@ -13,7 +13,4 @@ BiblioAsia+ is a podcast series about Singapore stories: some unfamiliar, others
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Credits** ####
-Host: Jimmy Yap<br>
-Coproducers: Soh Gek Han and Jimmy Yap<br>
-Production company: Gibson Analytics<br>
-Background music: Di Tanjong Katong, arranged and performed by [Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI)
+BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to the guests for coming on the show.
