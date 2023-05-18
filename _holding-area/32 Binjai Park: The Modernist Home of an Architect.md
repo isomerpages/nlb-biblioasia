@@ -116,7 +116,7 @@ In 2022, the family of the late architect donated the original architectural pla
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
-	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
+	<b>Dr Lee Peng Hui</b> is the son of Lee Kip Lin. He is an independent researcher and cultural commentator, who grew up surrounded by Singapore’s pioneer modernist architects. He has been observing the architectural scene in Singapore and abroad since the late 20th century.</div>
 	
 #### **NOTES**
 
