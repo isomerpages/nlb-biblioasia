@@ -33,4 +33,16 @@ Eric Lomax, [<i>The Railway Man</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus
 
 #### **Transcript** ####
 Coming soon
+<!—
+[Music playing]
+
+Jimmy
+You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
+
+[Whistling]
+
+When you hear this tune, what instantly springs to mind is David Leans's award-winning movie, *The Bridge on the River Kwai*. That movie immortalises the story of the building of the Thai-Burma railway during the Second World War. If you've watched the movie, you might be forgiven for thinking that the only people who were involved in the building of this railway were POWs, who were the focus of the film. In reality, though, the vast majority of the workforce consisted of labourers from Japanese-occupied Malaya. 
+
+-->
+
  
