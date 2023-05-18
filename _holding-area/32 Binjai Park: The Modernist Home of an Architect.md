@@ -111,7 +111,7 @@ In 2022, the family of the late architect donated the original architectural pla
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
-	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations (2009)</i> and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for BiblioAsia.</div>
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations (2009)</i> and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 	
 <div style="background-color: white;">
 <br>
