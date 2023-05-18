@@ -93,7 +93,7 @@ In 2022, the family of the late architect donated the original architectural pla
 
 [^3]: “Binjai,” National Parks Board, 24 June 2021, https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2003-86. 
 
-[^4]: Tay Kheng Soon, “A Tribute to Lee Kip Lin,” in *Big Thinking on a Small Island: The Collected Writings and Ruminations of Tay Kheng Soon*, ed. Kevin Y.L. Tan and Alvin Tan (Singapore: Equilibrium Consulting Pte Ltd for Department of Architecture, National University of Singapore, 2020), 29. (From National Library, Singapore, call no. RSING 720.95957 TAY)
+[^4]: Tay Kheng Soon, “A Tribute to Lee Kip Lin,” in [*Big Thinking on a Small Island: The Collected Writings and Ruminations of Tay Kheng Soon*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205544967), ed. Kevin Y.L. Tan and Alvin Tan (Singapore: Equilibrium Consulting Pte Ltd for Department of Architecture, National University of Singapore, 2020), 29. (From National Library, Singapore, call no. RSING 720.95957 TAY)
 
 [^5]: Peter Keys, “Architects &amp; Their Own Homes – The House of Lee Kip Lin,” In *Times Annual Singapore 1983–1984* (Singapore: Times Periodicals, 1983–1984), 110–11. (From National Library, Singapore, call no. RSING 959.57 TAS-[HIS])
 
