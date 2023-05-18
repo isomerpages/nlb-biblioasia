@@ -516,4 +516,5 @@ sections:
       button: Wak Sumang’s legacy
       url: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
       alt: Image alt text
+      image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
 ---
