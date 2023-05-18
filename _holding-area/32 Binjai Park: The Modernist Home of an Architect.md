@@ -72,5 +72,6 @@ A more recent addition is the installation of a large ceiling fan in the living 
 
 #### **A Home for the Ages**
 
-In recent years, there has been an increased interest in Singapore’s modernist architecture.12 The public became more aware of modernist architecture here after the iconic Pearl Bank Apartments was demolished in 2019, despite international attention and proposals for conservation.13
+In recent years, there has been an increased interest in Singapore’s modernist architecture.12 The public became more aware of modernist architecture here after the iconic Pearl Bank Apartments was demolished in 2019, despite international attention and proposals for conservation.[^13]
+
 The loss of Pearl Bank Apartments prompted the formation of the Singapore chapter of Docomomo International. Lee’s Binjai Road house has been included in Docomomo Singapore’s Modernist 100 list, joining other buildings such as Golden Mile Complex, Jurong Town Hall, Asia Insurance Building and the flats in Tiong Bahru built by the Singapore Improvement Trust.
