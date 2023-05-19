@@ -11,7 +11,7 @@ While much of old Singapore has vanished in the name of progress, there are exce
 
 Buildings aren’t the only things that need to be preserved though. It is also important to preserve cultural products as well; movies like Money No Enough and Forever Fever are vital aspects of our more recent heritage. Chew Tee Pao explains how the Asian Film Archive restores these [classic Singapore films](/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/).
 
-Preservation, however, is not easy to do. While we can be thankful that Golden Mile Complex will be conserved following its sale to new owners, the community that made it unique will unfortunately never return. Justin Zhuang looks at the history of this architectural icon and examines how it acquired the moniker “Little Thailand”.
+Preservation, however, is not easy to do. While we can be thankful that [Golden Mile Complex](/vol-19/issue-2/jul-sep-2023/golden-mile-complex/) will be conserved following its sale to new owners, the community that made it unique will unfortunately never return. Justin Zhuang looks at the history of this architectural icon and examines how it acquired the moniker “Little Thailand”.
 
 And since you’re here, don’t miss our other stories: you can read how The Crescendos changed the local recording industry, learn about a comic book version of Operation Jaywick and rediscover the original white sands of Pasir Ris. 
 
