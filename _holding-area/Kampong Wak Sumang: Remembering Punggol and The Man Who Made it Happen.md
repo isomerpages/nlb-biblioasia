@@ -170,25 +170,25 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 
 \[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
-\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html), interview, Reel/Disc 3 of 30, 26; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/31db24b5-1160-11e3-83d5-0050568939ad-OHC000319_016/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 19 August 1984, transcript and MP3 audio, Reel/Disc 16 of 30, 209; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), Reel/Disc 27 of 30, 344.
+[^36]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html), interview, Reel/Disc 3 of 30, 26; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/31db24b5-1160-11e3-83d5-0050568939ad-OHC000319_016/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 19 August 1984, transcript and MP3 audio, Reel/Disc 16 of 30, 209; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), Reel/Disc 27 of 30, 344.
 
-\[1\] Rohaida Ismail, correspondence, July 2022.
+[^37]: Rohaida Ismail, correspondence, July 2022.
 
-\[1\] Yeo Kim Seng, “[Farmer Flexes Muscles for Mussel Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840918-1.2.31.4),” _Straits Times,_ 18 September 1984, 12. (From NewspaperSG)
+[^38]: Yeo Kim Seng, “[Farmer Flexes Muscles for Mussel Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840918-1.2.31.4),” _Straits Times,_ 18 September 1984, 12. (From NewspaperSG)
 
-\[1\] Yeo, “[Farmer Flexes Muscles for Mussel Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840918-1.2.31.4).”
+[^39]: Yeo, “[Farmer Flexes Muscles for Mussel Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840918-1.2.31.4).”
 
-\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2cb5d67-115d-11e3-83d5-0050568939ad-OHC000319_017/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 19 August 1984, Reel/Disc 17 of 30, 221–222; [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/424f611c-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 27 February 1995, MP3 audio, Reel/Disc 16 of 44, 0.16–0.20.
+[^40]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2cb5d67-115d-11e3-83d5-0050568939ad-OHC000319_017/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 19 August 1984, Reel/Disc 17 of 30, 221–222; [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/424f611c-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 27 February 1995, MP3 audio, Reel/Disc 16 of 44, 0.16–0.20.
 
-\[1\] Saini Salleh, “Perigi Tua Wak Sumang”_, Berita Harian,_ 8 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2cb5d67-115d-11e3-83d5-0050568939ad-OHC000319_017/web/html5/index.html), interview, Reel/Disc 17 of 30, 219–220.
+[^41]: Saini Salleh, “Perigi Tua Wak Sumang”_, Berita Harian,_ 8 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2cb5d67-115d-11e3-83d5-0050568939ad-OHC000319_017/web/html5/index.html), interview, Reel/Disc 17 of 30, 219–220.
 
-\[1\] Gerry De Silva, “[An Urban Punggol Tries to Preserve Part of Its Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880614-1.2.33.1),” _Straits Times_, 14 June 1988, 19. (From NewspaperSG)
+[^42]: Gerry De Silva, “[An Urban Punggol Tries to Preserve Part of Its Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880614-1.2.33.1),” _Straits Times_, 14 June 1988, 19. (From NewspaperSG)
 
-\[1\] Emilia Azman and Hajjah Saniah Othaman, correspondence, April 2023.
+[^43]: Emilia Azman and Hajjah Saniah Othaman, correspondence, April 2023.
 
-\[1\] “[Land Reclamation off Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830305-1.2.57.6),” _Straits Times_, 5 March 1983, 17; “[Plan for Punggol Park on Reclaimed Land](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830715-1.2.28.2),” _Straits Times_, 15 July 1983, 9. (From NewspaperSG)
+[^44]: “[Land Reclamation off Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830305-1.2.57.6),” _Straits Times_, 5 March 1983, 17; “[Plan for Punggol Park on Reclaimed Land](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830715-1.2.28.2),” _Straits Times_, 15 July 1983, 9. (From NewspaperSG)
 
-\[1\] Yeo, “[The Last Days of a Fishing Village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851210-1.2.87.12.1)”; Gillian Pow Chong, “[Teh to Decide on Future of Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851112-1.2.8),” _Straits Times_, 12 November 1985, 1; “[Big Boatel Gets Notice to Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860919-1.2.27.21),” _Straits Times_, 19 September 1986, 16. (From NewspaperSG)
+[^45]: Yeo, “[The Last Days of a Fishing Village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851210-1.2.87.12.1)”; Gillian Pow Chong, “[Teh to Decide on Future of Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851112-1.2.8),” _Straits Times_, 12 November 1985, 1; “[Big Boatel Gets Notice to Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860919-1.2.27.21),” _Straits Times_, 19 September 1986, 16. (From NewspaperSG)
 
 [^46]: Saadon Ismail, “[Tempat Jatuh Lagi Dikenang…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870201-1.2.14.1.1)” _Berita Minggu_, 1 February 1987, 3 (From NewspaperSG)
 
