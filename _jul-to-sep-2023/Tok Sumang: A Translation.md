@@ -4,12 +4,19 @@ permalink: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
 description: A story about Wak Sumang, a man of great wisdom and many talents,
   and the founder of Kampong Punggol.
 ---
-##### The book titled <i>Tok Sumang</i> was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of  Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a kampong in Punggol. Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School). <br><br> The book was translated into English by Ahmad Ubaidillah, who is himself a descendant of Wak Sumang. Ubaidillah also wrote the following introduction. 
-<br>
+#### An English translation of the short book, _Tok Sumang_, originally written by Malay literary pioneer Muhammad Ariff Ahmad.
+Translated by Ahmad Ubaidillah
+
+
+
+
 
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg">
 <div style="background-color: white;text-align:center">A story of Wak Sumang by Muhammad Ariff Ahmad, writing under the pen name Mastomo. <i>Image reproduced from Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957). (From BookSG; accession no. B29234707A).</i></div>
+
+##### The book titled <i>Tok Sumang</i> was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of  Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a kampong in Punggol. Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School). <br><br> The book was translated into English by Ahmad Ubaidillah, who is himself a descendant of Wak Sumang. Ubaidillah also wrote the following introduction. 
+<br>
 
 **Introduction**
 
