@@ -32,3 +32,23 @@ Call no.: RSING 369 FAU
 ![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png)
 
 *Khairat Kita* documents the remaining 20 or so Malay/Muslim mutual benefit organisations (*badan khairat kematian*) in Singapore, which provide aid and charity to families of deceased members. Based on a centuries-old tradition of mutual aid, these organisations are driven by volunteers and are social anchors in the Singapore’s Malay/Muslim community.
+
+#### **[More Than the Eye Can See: Memoirs of Gopinath Pillai](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+By Gopinath Pillai and John Vater
+
+World Scientific (2022), 328 pages<br>
+Call no.: RSING 959.5704092 PIL-[HIS]
+
+![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png)
+
+Gopinath Pillai is a Singaporean businessman and diplomat who served as Singapore’s Non-Resident Ambassador to Iran (1989–2008) and High Commissioner to Pakistan (1994–2001). In his memoirs, he reflects on Singapore's early industrialisation and the pursuit of its values and interests abroad and at home, framing episodes of personal struggle against milestones in the progress of the nation.
+
+#### **[The Straits Philosophical Society &amp; Colonial Elites in Malaya: Selected Papers on Race, Identity and Social Order 1893–1915](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+Edited by Lim Teck Ghee and Charles Brophy 
+
+ISEAS–Yusof Ishak Institute (2023), 462 pages<br>
+Call no.: RSING 959.503 STR
+
+![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png)
+
+Founded in Singapore in 1893, the Straits Philosophical Society was a society for the “critical discussion of questions in Philosophy, History, Theology, Literature, Science and Art”. It produced a large corpus of literature on colonial Malaya. This book expands our understanding of the ways in which colonial thought has shaped governing systems of the past and present.
