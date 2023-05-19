@@ -27,8 +27,7 @@ _Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shri
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/">A Comic Book Version of Operation Jaywick</a><br>The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harbour in September 1943, is retold in a 1965 comic aimed at boys. *Gautam Hazarika*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Singapore-First-Courthouse.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Women and the Typewriter in
-Singapore’s Herstories</a><br>The humble typewriter helped women become better educated, enter the workforce and contribute to society. *Liew Kai Khiun*.[(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Women-and-Typewriter-in-Singapore-Her-stories.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">32 Binjai Park: The Modernist Home of an Architect</a><br>The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. *Lim Tin Seng and Lee Peng Hui*.[(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Women-and-Typewriter-in-Singapore-Her-stories.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/">Terraces on Tagore: The Curious Origins of Teachers’ Housing Estate</a><br>The Singapore Teachers’ Union wanted a clubhouse. It ended up building a housing estate. *Sharon Teng*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Teachers-Estate.pdf)
 
