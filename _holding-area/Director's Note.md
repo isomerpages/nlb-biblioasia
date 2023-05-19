@@ -13,7 +13,7 @@ Buildings aren’t the only things that need to be preserved though. It is also 
 
 Preservation, however, is not easy to do. While we can be thankful that [Golden Mile Complex](/vol-19/issue-2/jul-sep-2023/golden-mile-complex/) will be conserved following its sale to new owners, the community that made it unique will unfortunately never return. Justin Zhuang looks at the history of this architectural icon and examines how it acquired the moniker “Little Thailand”.
 
-And since you’re here, don’t miss our other stories: you can read how The Crescendos changed the [local recording industry](/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/), learn about a comic book version of [Operation Jaywick] and rediscover the original white sands of [Pasir Ris](/vol-19/issue-2/jul-sep-2023/history-pasir-ris/). 
+And since you’re here, don’t miss our other stories: you can read how The Crescendos changed the [local recording industry](/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/), learn about a comic book version of [Operation Jaywick](/vol-19/issue-2/jul-sep-2023/operation-jaywick/) and rediscover the original white sands of [Pasir Ris](/vol-19/issue-2/jul-sep-2023/history-pasir-ris/). 
 
 If you’re fishing for interesting stories to read about Singapore, you’ve definitely come to the right place.
 
