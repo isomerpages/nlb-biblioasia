@@ -4,7 +4,7 @@ permalink: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
 description: A story about Wak Sumang, a man of great wisdom and many talents,
   and the founder of Kampong Punggol.
 ---
-#### The book titled _Tok Sumang_ was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of &nbsp;Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a kampong in Punggol. Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School).
+#### The book titled <i>Tok Sumang</i> was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a kampong in Punggol. Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School).
 
 The book was translated into English by Ahmad Ubaidillah, who is himself a descendant of Wak Sumang. Ubaidillah also wrote the following introduction.<br><br>
 
