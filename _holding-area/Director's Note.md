@@ -7,9 +7,9 @@ Whales are magnificent, awe-inspiring animals. Their enormous size is a reminder
 
 Whale skeletons aren’t the only things that Singapore has lost over time of course. One of Singapore’s oldest kampongs, [Kampong Wak Sumang](/vol-19/issue-2/jul-sep-2023/tok-sumang-english/), had to make way for the development of Punggol in the 1980s. Hannah Yeo dives into the archives to uncover the 150-year history of this place and the interesting story of Wak Sumang, its charismatic founder.
 
-While much of old Singapore has vanished in the name of progress, there are exceptions. The home of architect Lee Kip Lin, for example, has barely changed since it was built in 1973. Lim Tin Seng and Lee Peng Hui give us a tour of the modernist home designed by one of Singapore’s illustrious architects.
+While much of old Singapore has vanished in the name of progress, there are exceptions. The [home of architect Lee Kip Lin](/vol-19/issue-2/jul-sep-2023/32-brinjai/), for example, has barely changed since it was built in 1973. Lim Tin Seng and Lee Peng Hui give us a tour of the modernist home designed by one of Singapore’s illustrious architects.
 
-Buildings aren’t the only things that need to be preserved though. It is also important to preserve cultural products as well; movies like Money No Enough and Forever Fever are vital aspects of our more recent heritage. Chew Tee Pao explains how the Asian Film Archive restores these classic Singapore films.
+Buildings aren’t the only things that need to be preserved though. It is also important to preserve cultural products as well; movies like Money No Enough and Forever Fever are vital aspects of our more recent heritage. Chew Tee Pao explains how the Asian Film Archive restores these [classic Singapore films](/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/).
 
 Preservation, however, is not easy to do. While we can be thankful that Golden Mile Complex will be conserved following its sale to new owners, the community that made it unique will unfortunately never return. Justin Zhuang looks at the history of this architectural icon and examines how it acquired the moniker “Little Thailand”.
 
