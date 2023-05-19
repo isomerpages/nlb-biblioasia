@@ -100,31 +100,54 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 
 #### **Notes**
 
-Kamsiah Abdullah, et al., eds., Malay Heritage of Singapore (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-[HIS])
-Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG) 
-This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A) 
-“What’s in a Name,” Straits Times, 14 August 1990, 7. (From Newslink via NLB’s eResources website); Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG)
-“Pahang Civil War Breaks out,” in HistorySG,  National Library Board Singapore. Article published 2014. 
-Mohd Raman Daud, “Tempa Nama Lewat Novelet,” Berita Harian, 28 April 2014, 7. (From Newslink via NLB’s eResources website); Mastomo, Tok Sumang, 4–5. 
-This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 6. 
-Mastomo, Tok Sumang, 6, 10, 24.  
-Mastomo, Tok Sumang, 18.
-Mastomo’s Tok Sumang is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Gobek. See Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang,” Berita Minggu, 13 March 1983, 3. (From NewspaperSG). [English translation by Hannah Yeo and Diyanah Kamarudin.]
-The National Archives, UK, Map of Singapore Island, and Its Dependencies, 1852, map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
-Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, Tok Sumang, 23.
-Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang.
-Awang Bin Osman, interview, Reel/Disc 27 of 30, 344; Mohd Amin Bin Abdul Wahab (Haji), interview, Reel/Disc 1 of 44, 9.35–11.58.
-“Cucu2 Wak Sumang Diberi Flat,” Berita Minggu, 30 March 1986, 2. (From NewspaperSG)
-Mok Ly Yng, correspondence, January 2023; Joanna Tan, “The Padang,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021.   
-Saini Salleh, “Perigi Tua Wak Sumang,” Berita Harian, 8 January 1995, 3. (From Newslink via NLB’s eResources website) 
-“A Well That Never Runs Dry,” Straits Times, 11 January 1995, 11. (From NewspaperSG) 
-This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 35.  
-“Municipal Commissioners,” Straits Times, 1 April 1876, 1; “The Municipality,” Straits Times Weekly Issue, 5 January 1884, 7. (From NewspaperSG) 
-Mastomo, Tok Sumang, 34–37. 
-“Cucu2 Wak Sumang Diberi Flat.”
-Saini Salleh, “Warisan Masjid Diabadi,” Berita Harian, 5 January 1995, 3. (From Newslink via NLB’s eResources website); Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang.”
-“The Changing Face of Punggol,” Straits Times, 16 January 1984, 28. (From NewspaperSG)
-Sarafian Salleh, correspondence, March 2023.
+[^1]: Kamsiah Abdullah, et al., eds., Malay Heritage of Singapore (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-[HIS])
+
+[^2]: Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG)
+
+[^3]: This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A)
+
+[^4]: “What’s in a Name,” Straits Times, 14 August 1990, 7. (From Newslink via NLB’s eResources website); Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG)
+
+[^5]: “Pahang Civil War Breaks out,” in HistorySG,  National Library Board Singapore. Article published 2014.
+
+[^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” Berita Harian, 28 April 2014, 7. (From Newslink via NLB’s eResources website); Mastomo, Tok Sumang, 4–5.
+
+[^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 6.
+
+[^8]: Mastomo, Tok Sumang, 6, 10, 24.  
+[^9]: Mastomo, Tok Sumang, 18.
+
+[^10]: Mastomo’s Tok Sumang is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Gobek. See Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang,” Berita Minggu, 13 March 1983, 3. (From NewspaperSG). [English translation by Hannah Yeo and Diyanah Kamarudin.]
+
+[^11]: The National Archives, UK, Map of Singapore Island, and Its Dependencies, 1852, map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
+
+[^12]: Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, Tok Sumang, 23.
+
+[^13]: Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang.
+
+[^14]: Awang Bin Osman, interview, Reel/Disc 27 of 30, 344; Mohd Amin Bin Abdul Wahab (Haji), interview, Reel/Disc 1 of 44, 9.35–11.58.
+
+[^15]: “Cucu2 Wak Sumang Diberi Flat,” Berita Minggu, 30 March 1986, 2. (From NewspaperSG)
+
+[^16]: Mok Ly Yng, correspondence, January 2023; Joanna Tan, “The Padang,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021.
+
+[^17]: Saini Salleh, “Perigi Tua Wak Sumang,” Berita Harian, 8 January 1995, 3. (From Newslink via NLB’s eResources website)
+
+[^18]: “A Well That Never Runs Dry,” Straits Times, 11 January 1995, 11. (From NewspaperSG)
+
+[^19]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 35.
+
+[^20]: “Municipal Commissioners,” Straits Times, 1 April 1876, 1; “The Municipality,” Straits Times Weekly Issue, 5 January 1884, 7. (From NewspaperSG)
+
+[^21]: Mastomo, Tok Sumang, 34–37.
+
+[^22]: “Cucu2 Wak Sumang Diberi Flat.”
+
+[^23]: Saini Salleh, “Warisan Masjid Diabadi,” Berita Harian, 5 January 1995, 3. (From Newslink via NLB’s eResources website); Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang.”
+
+[^24]: “The Changing Face of Punggol,” Straits Times, 16 January 1984, 28. (From NewspaperSG)
+
+[^25]: Sarafian Salleh, correspondence, March 2023.
 “Mr. Nixon Tours Rural Areas,” Indian Daily Mail, 26 October 1953, 4. (From NewspaperSG)  
 Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang”; Rohaida Ismail, correspondence, April 2023.
 Rohaida Ismail, correspondence, April 2023.
