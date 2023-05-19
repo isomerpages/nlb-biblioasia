@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - Director's Note.md
+      - New Books on Singapore History.md
       - "Kampong Wak Sumang: Remembering Punggol and The Man Who Made it
         Happen.md"
       - "32 Binjai Park: The Modernist Home of an Architect.md"
