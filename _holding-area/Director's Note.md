@@ -3,9 +3,9 @@ title: Director's Note
 permalink: /holding-area/test9/
 description: ""
 ---
-Whales are magnificent, awe-inspiring animals. Their enormous size is a reminder of just how insignificant we humans are. So it is not at all surprising that a 13-metre-long skeleton of a whale became an iconic exhibit at the old Raffles Museum. Many older Singaporeans still fondly recall marvelling at the bus-length skeleton suspended from the ceiling. How the museum acquired this exhibit and why they had to let it go six decades later is the subject of this issue’s fascinating cover story by Nathaniel Soon.
+Whales are magnificent, awe-inspiring animals. Their enormous size is a reminder of just how insignificant we humans are. So it is not at all surprising that a [13-metre-long skeleton of a whale](/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/) became an iconic exhibit at the old Raffles Museum. Many older Singaporeans still fondly recall marvelling at the bus-length skeleton suspended from the ceiling. How the museum acquired this exhibit and why they had to let it go six decades later is the subject of this issue’s fascinating cover story by Nathaniel Soon.
 
-Whale skeletons aren’t the only things that Singapore has lost over time of course. One of Singapore’s oldest kampongs, Kampong Wak Sumang, had to make way for the development of Punggol in the 1980s. Hannah Yeo dives into the archives to uncover the 150-year history of this place and the interesting story of Wak Sumang, its charismatic founder.
+Whale skeletons aren’t the only things that Singapore has lost over time of course. One of Singapore’s oldest kampongs, [Kampong Wak Sumang](/vol-19/issue-2/jul-sep-2023/tok-sumang-english/), had to make way for the development of Punggol in the 1980s. Hannah Yeo dives into the archives to uncover the 150-year history of this place and the interesting story of Wak Sumang, its charismatic founder.
 
 While much of old Singapore has vanished in the name of progress, there are exceptions. The home of architect Lee Kip Lin, for example, has barely changed since it was built in 1973. Lim Tin Seng and Lee Peng Hui give us a tour of the modernist home designed by one of Singapore’s illustrious architects.
 
