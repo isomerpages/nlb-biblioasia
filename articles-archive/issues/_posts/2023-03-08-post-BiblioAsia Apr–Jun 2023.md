@@ -13,13 +13,13 @@ _Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shri
 
 <a href="style=">Director's Note
 
-</a><a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting? 
-</a><br>Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Shrimp-paste.pdf)
+</a><a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">The One That Got Away: How the Raffles Museum Acquired a Whale Skeleton, Made It Famous, Then Let It Go Six Decades Later
+</a><br>The skeleton of a blue whale took pride of place at the former Raffles Museum for more than 60 years before it was gifted to the National Museum of Malaysia in 1974. *Nathaniel Soon*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Shrimp-paste.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang </a><br>The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area. *Alvin Tan*.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Golden Mile Complex: Five Decades of an Architectural Icon  </a><br>The collective sale and conservation of Golden Mile Complex will eventually restore a visionary building to its former glory, but the process will also mean the loss of a unique community that has developed there. *Justin Zhuang*.
  [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Neo-Tiew.pdf)
  
- <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis </a><br>Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years. *Abhishek Mehrotra*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Tennis.pdf)
+ <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Money No Enough, Passion Needed Too: Restoring Classic Singaporean Films </a><br>*Money No Enough, Forever Fever* and *The Teenage Textbook Movie* kickstarted a new era in Singaporean cinema, making them prime candidates for restoration. *Chew Tee Pao*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Tennis.pdf)
  
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/">Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s</a><br>Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century. *Jesse O’Neill*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Public-bathhouses.pdf)
 
