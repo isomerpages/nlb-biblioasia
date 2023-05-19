@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-_Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shrimp paste in Southeast Asia. In the cover story, find out how early Europeans to the region were repulsed by it, although the locals swear that the condiment gives a kick to any dish.
+For more than 60 years, a 13-metre-long whale skeleton was the centrepiece of the old Raffles Museum. Find out where this whale skeleton came from, how the museum acquired it, and why they gave it away six decades later.
 
 
 <img src="/images/Vol%2019%20Issue%202/biblioasia_19_2_cover.png">
