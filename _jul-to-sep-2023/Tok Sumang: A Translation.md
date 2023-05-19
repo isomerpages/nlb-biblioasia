@@ -5,12 +5,7 @@ description: A story about Wak Sumang, a man of great wisdom and many talents,
   and the founder of Kampong Punggol.
 ---
 #### An English translation of the short book, _Tok Sumang_, originally written by Malay literary pioneer Muhammad Ariff Ahmad.
-Translated by Ahmad Ubaidillah
-
-
-
-
-
+Translated by Ahmad Ubaidillah<br>
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg">
 <div style="background-color: white;text-align:center">A story of Wak Sumang by Muhammad Ariff Ahmad, writing under the pen name Mastomo. <i>Image reproduced from Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957). (From BookSG; accession no. B29234707A).</i></div>
