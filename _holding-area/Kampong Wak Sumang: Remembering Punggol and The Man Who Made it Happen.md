@@ -99,6 +99,8 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 
 “Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories.
 
+<b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.
+
 #### **Notes**
 
 [^1]: Kamsiah Abdullah, et al., eds., [Malay Heritage of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13768339) (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-\[HIS\])
