@@ -13,7 +13,7 @@ Translated by Ahmad Ubaidillah<br>
 ##### The book titled <i>Tok Sumang</i> was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of  Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a kampong in Punggol. Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School). <br><br> The book was translated into English by Ahmad Ubaidillah, who is himself a descendant of Wak Sumang. Ubaidillah also wrote the following introduction. 
 <br>
 
-<div style="background-colour:#fffce7; padding:10px; margin: 0px; font-size:110%; background: #fffce7">Introduction
+<div font-size="larger&quot;" style="background-colour:#fffce7; padding:10px; margin: 0px; font-size:110%; background: #fffce7"><b>Introduction </b><br>
 
 My fate was intertwined with Punggol long before I was born. When I was a young boy, no older than nine or ten, my maternal relatives would often have picnics and gatherings on Punggol Beach. This was before development works there, so all that the beach had was white sand peppered with boulders, and the long crusty jetty that jutted out into the sea. The adults would sit by the shore under the swaying branches of trees, while my cousins and I swam and raced along the beach, building sandcastles and digging holes in the sand just for the fun of it. 
 
