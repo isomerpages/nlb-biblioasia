@@ -22,3 +22,13 @@ Call no.: RSING 338.4778149095957 LAI
 ![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png)
 
 *From Keroncong to Xinyao* is a captivating exploration of Singapore’s vibrant record industry from the early 20th century to the mid-1980s. It highlights the multinational giants and first local record companies, the impact of World War II, the heyday of the 1960s and 1970s, and the industry’s eventual decline. This book presents a fascinating journey through the industry’s triumphs and challenges, revealing how Singapore was once a significant recording centre in Southeast Asia.
+
+#### **[Khairat Kita: A History of Malay/Muslim Mutual Aid in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+By Fauzy Ismail, Zakaria Zainal and Zaki Jumahri
+
+Ethos Books (2022), 107 pages<br>
+Call no.: RSING 369 FAU
+
+![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png)
+
+*Khairat Kita* documents the remaining 20 or so Malay/Muslim mutual benefit organisations (*badan khairat kematian*) in Singapore, which provide aid and charity to families of deceased members. Based on a centuries-old tradition of mutual aid, these organisations are driven by volunteers and are social anchors in the Singapore’s Malay/Muslim community.
