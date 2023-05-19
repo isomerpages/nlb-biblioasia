@@ -9,9 +9,9 @@ image: ""
 _Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shrimp paste in Southeast Asia. In the cover story, find out how early Europeans to the region were repulsed by it, although the locals swear that the condiment gives a kick to any dish.
 
 
-<img src="/images/Vol%2019%20Issue%201/Biblioasia_19_1_cover.png">
+<img style="text-decoration: none; font-weight: bold;" src="/images/Vol%2019%20Issue%202/Biblioasia_19_2_cover>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-to-jun-2023/director-note/">Director's Note</a>
+<a href=">Director's Note
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting? 
 </a><br>Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Shrimp-paste.pdf)
