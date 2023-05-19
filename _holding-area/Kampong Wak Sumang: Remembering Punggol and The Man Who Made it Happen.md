@@ -100,75 +100,97 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 
 #### **Notes**
 
-[^1]: Kamsiah Abdullah, et al., eds., Malay Heritage of Singapore (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-[HIS])
+[^1]: Kamsiah Abdullah, et al., eds., [Malay Heritage of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13768339) (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-\[HIS\])
 
-[^2]: Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG)
+[^2]: Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
-[^3]: This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A)
+[^3]: This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx) (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A)
 
-[^4]: “What’s in a Name,” Straits Times, 14 August 1990, 7. (From Newslink via NLB’s eResources website); Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan,” Berita Harian, 13 December 1987, 3. (From NewspaperSG)
+\[1\] “[What’s in a Name](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7),” _Straits Times,_ 14 August 1990, 7 (From Newslink via NLB’s eResources website); Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
-[^5]: “Pahang Civil War Breaks out,” in HistorySG,  National Library Board Singapore. Article published 2014.
+\[1\] Mohd Raman Daud, “Tempa Nama Lewat Novelet,” _Berita Harian_, 28 April 2014, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 4–5.
 
-[^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” Berita Harian, 28 April 2014, 7. (From Newslink via NLB’s eResources website); Mastomo, Tok Sumang, 4–5.
+\[1\] “[Pahang Civil War Breaks out](https://eresources.nlb.gov.sg/history/events/e0ab6637-5e31-4d23-8617-d2dacb1aa842),” in _HistorySG_,  National Library Board Singapore. Article published 2014.
 
-[^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 6.
+\[1\] This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6.
 
-[^8]: Mastomo, Tok Sumang, 6, 10, 24.  
-[^9]: Mastomo, Tok Sumang, 18.
+\[1\] Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6, 10, 24.  
 
-[^10]: Mastomo’s Tok Sumang is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Gobek. See Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang,” Berita Minggu, 13 March 1983, 3. (From NewspaperSG). [English translation by Hannah Yeo and Diyanah Kamarudin.]
+\[1\] Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 18.
 
-[^11]: The National Archives, UK, Map of Singapore Island, and Its Dependencies, 1852, map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
+\[1\] Mastomo’s _Tok Sumang_ is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Kopek. See Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22),” _Berita Minggu_, 13 March 1983, 3. (From NewspaperSG) \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
-[^12]: Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, Tok Sumang, 23.
+\[1\] The National Archives, UK, [_Map of Singapore Island, and Its Dependencies, 1852_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb830a64-115c-11e3-83d5-0050568939ad), map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
 
-[^13]: Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang.
+\[1\] [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 23.
 
-[^14]: Awang Bin Osman, interview, Reel/Disc 27 of 30, 344; Mohd Amin Bin Abdul Wahab (Haji), interview, Reel/Disc 1 of 44, 9.35–11.58.
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang
 
-[^15]: “Cucu2 Wak Sumang Diberi Flat,” Berita Minggu, 30 March 1986, 2. (From NewspaperSG)
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), interview, Reel/Disc 27 of 30, 344; [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), interview, Reel/Disc 1 of 44, 9.35–11.58.
 
-[^16]: Mok Ly Yng, correspondence, January 2023; Joanna Tan, “The Padang,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021.
+\[1\] [Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2)”, _Berita Minggu_, 30 March 1986, 2 (From NewspaperSG)
 
-[^17]: Saini Salleh, “Perigi Tua Wak Sumang,” Berita Harian, 8 January 1995, 3. (From Newslink via NLB’s eResources website)
+\[1\] Mok Ly Yng, correspondence, January 2023; Joanna Tan, “[The Padang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2021-11-15_154605.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021.   
 
-[^18]: “A Well That Never Runs Dry,” Straits Times, 11 January 1995, 11. (From NewspaperSG)
+\[1\] Saini Salleh, “Perigi Tua Wak Sumang”_, Berita Harian,_ 8 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^19]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, Tok Sumang, 35.
+\[1\] “[A Well That Never Runs Dry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950111-1.2.61.7.1),” _Straits Times,_ 11 January 1995, 11 (From NewspaperSG) 
 
-[^20]: “Municipal Commissioners,” Straits Times, 1 April 1876, 1; “The Municipality,” Straits Times Weekly Issue, 5 January 1884, 7. (From NewspaperSG)
+\[1\] This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 35.  
 
-[^21]: Mastomo, Tok Sumang, 34–37.
+\[1\] “[Municipal Commissioners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18760401-1.2.12),” _Straits Times,_ 1 April 1876, 1; “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840105-1.2.6.20),” _Straits Times Weekly Issue,_ 5 January 1884, 7 (From NewspaperSG)
 
-[^22]: “Cucu2 Wak Sumang Diberi Flat.”
+\[1\] Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 34–37.
 
-[^23]: Saini Salleh, “Warisan Masjid Diabadi,” Berita Harian, 5 January 1995, 3. (From Newslink via NLB’s eResources website); Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang.”
+\[1\] “[Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2).”
 
-[^24]: “The Changing Face of Punggol,” Straits Times, 16 January 1984, 28. (From NewspaperSG)
+\[1\] Saini Salleh, “Warisan Masjid Diabadi,” _Berita Harian,_ 5 January 1995, 3 ( From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22).”
 
-[^25]: Sarafian Salleh, correspondence, March 2023.
-“Mr. Nixon Tours Rural Areas,” Indian Daily Mail, 26 October 1953, 4. (From NewspaperSG)  
-Mohd Maidin, “Penggesek Biola Yg Masyhor Buka Kg Wak Sumang”; Rohaida Ismail, correspondence, April 2023.
-Rohaida Ismail, correspondence, April 2023.
-Tuminah Sapawi, “Quiet Fishing Village in Punggol to Go Down in History,” Straits Times, 19 January 1995, 26. (From NewspaperSG); “A Well That Never Runs Dry”; Saini Salleh, “Khazanah Wak Sumang Berpindah Sudah,” Berita Harian, 8 January 1995, 2. (From Newslink via NLB’s eResources website)
-Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 9 August 1984, transcript and MP3 audio, Reel/Disc 1 of 30, 1, 6–7, 9. [Awang Osman’s father, Osman Bujang, was a Bugis born on Pulau Ubin. He moved to Kampong Pos in Seletar and then to Kampong Wak Sumang when he married Kendah Kaman, a granddaughter of Wak Sumang. Both Awang Osman and his father were fishermen and also builders of kelong (an offshore platform built predominantly with wood and used for fishing purposes).]
-Awang Bin Osman, interview, Reel/Disc 1 of 30, biographical information; Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 9 of 30, 118–119. 
-Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 28–30; Mohd Amin bin Abdul Wahab (Haji), interview Reel/Disc 1 of 44, 16.12–16.25.
-Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 10 of 30, 134. [English translation by Hannah Yeo and Diyanah Kamarudin.]
-Stephanie Ho, “Operation Sook Ching,” in Singapore Infopedia. National Library Board Singapore. Article published 17 June 2013.   
-Awang Bin Osman, Reel/Disc 10 of 30, 134. [English translation by Hannah Yeo and Diyanah Kamarudin.]
-Awang Bin Osman, interview, Reel/Disc 3 of 30, 26; Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 19 August 1984, transcript and MP3 audio, Reel/Disc 16 of 30, 209; Awang Bin Osman, Reel/Disc 27 of 30, 344.
-Rohaida Ismail, correspondence, July 2022.
-Yeo Kim Seng, “Farmer Flexes Muscles for Mussel Business,” Straits Times, 18 September 1984, 12. (From NewspaperSG)
-Yeo, “Farmer Flexes Muscles for Mussel Business.” 
-Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 19 August 1984, Reel/Disc 17 of 30, 221–222; Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 27 February 1995, MP3 audio, Reel/Disc 16 of 44, 0.16–0.20. 
-Saini Salleh, “Perigi Tua Wak Sumang,” Berita Harian, 8 January 1995, 3. (From Newslink via NLB’s eResources website); Awang Bin Osman, interview, Reel/Disc 17 of 30, 219–220.
-Gerry De Silva, “An Urban Punggol Tries to Preserve Part of Its Past,” Straits Times, 14 June 1988, 19. (From NewspaperSG)
-Emilia Azman and Hajjah Saniah Othaman, correspondence, April 2023.
-“Land Reclamation off Punggol,” Straits Times, 5 March 1983, 17; “Plan for Punggol Park on Reclaimed Land,” Straits Times, 15 July 1983, 9. (From NewspaperSG)
-Yeo, “The Last Days of a Fishing Village”; Gillian Pow Chong, “Teh to Decide on Future of Punggol,” Straits Times, 12 November 1985, 1; “Big Boatel Gets Notice to Quit,” Straits Times, 19 September 1986, 16. (From NewspaperSG)
-Saadon Ismail, “Tempat Jatuh Lagi Dikenang…,” Berita Minggu, 1 February 1987, 3. (From NewspaperSG)
-Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan.” [English translation by Hannah Yeo and Diyanah Kamarudin.] 
-Saini Salleh, “Sungai Wak Sumang Terus Menjadi Tempat Pertemuan.” [English translation by Hannah Yeo and Diyanah Kamarudin.] 
-“Keeping Eye on Boats,” New Paper, 8 September 1994, 5. (From NewspaperSG)
+\[1\] “[The Changing Face of Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840116-1.2.60.4),” _Straits Times_, 16 January 1984, 28. (From NewspaperSG)
+
+\[1\] Sarafian Salleh, correspondence, March 2023.
+
+\[1\] [“Mr. Nixon Tours Rural Areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19531026-1.2.57),” _Indian Daily Mail_, 26 October 1953, 4. (From NewspaperSG)  
+
+\[1\] Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22); Rohaida Ismail, correspondence, April 2023.
+
+\[1\] Rohaida Ismail, correspondence, April 2023.
+
+\[1\] Tuminah Sapawi, “[Quiet Fishing Village in Punggol to Go Down in History](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950119-1.2.60.8.7),” _Straits Times,_ 19 January 1995, 26 (From NewspaperSG); “[A Well That Never Runs Dry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950111-1.2.61.7.1)”; Saini Salleh, “Khazanah Wak Sumang Berpindah Sudah”, _Berita Harian,_ 8 January 1995, 2. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/53455fb8-115f-11e3-83d5-0050568939ad-OHC000319_001/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 9 August 1984, transcript and MP3 audio, Reel/Disc 1 of 30, 1, 6–7, 9. \[Awang Osman’s father, Osman Bujang, was a Bugis born on Pulau Ubin. He moved first to Kampong Pos in Seletar and then to Kampong Wak Sumang when he married Kendah Kaman, a granddaughter of Wak Sumang. Both Awang Osman and his father were fishermen and also builders of _kelong_ (an offshore platform built predominantly with wood and used for fishing purposes).\]
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/53455fb8-115f-11e3-83d5-0050568939ad-OHC000319_001/web/html5/index.html), interview, Reel/Disc 1 of 30, biographical information; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e5159628-115d-11e3-83d5-0050568939ad-OHC000319_009/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 9 of 30, 118–119.
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 28–30; [Mohd Amin bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/cc11fb58-115f-11e3-83d5-0050568939ad?keywords=MOHD%20Amin%20bin%20Abdul%20Wahab%20%28Haji%29&keywords-type=all), interview Reel/Disc 1 of 44, 16.12–16.25..
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
+
+\[1\] Stephanie Ho, “[Operation Sook Ching](https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 17 June 2013.   
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html), interview, Reel/Disc 3 of 30, 26; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/31db24b5-1160-11e3-83d5-0050568939ad-OHC000319_016/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 19 August 1984, transcript and MP3 audio, Reel/Disc 16 of 30, 209; [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), Reel/Disc 27 of 30, 344.
+
+\[1\] Rohaida Ismail, correspondence, July 2022.
+
+\[1\] Yeo Kim Seng, “[Farmer Flexes Muscles for Mussel Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840918-1.2.31.4),” _Straits Times,_ 18 September 1984, 12. (From NewspaperSG)
+
+\[1\] Yeo, “[Farmer Flexes Muscles for Mussel Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840918-1.2.31.4).”
+
+\[1\] [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2cb5d67-115d-11e3-83d5-0050568939ad-OHC000319_017/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 19 August 1984, Reel/Disc 17 of 30, 221–222; [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/424f611c-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 27 February 1995, MP3 audio, Reel/Disc 16 of 44, 0.16–0.20.
+
+\[1\] Saini Salleh, “Perigi Tua Wak Sumang”_, Berita Harian,_ 8 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2cb5d67-115d-11e3-83d5-0050568939ad-OHC000319_017/web/html5/index.html), interview, Reel/Disc 17 of 30, 219–220.
+
+\[1\] Gerry De Silva, “[An Urban Punggol Tries to Preserve Part of Its Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880614-1.2.33.1),” _Straits Times_, 14 June 1988, 19. (From NewspaperSG)
+
+\[1\] Emilia Azman and Hajjah Saniah Othaman, correspondence, April 2023.
+
+\[1\] “[Land Reclamation off Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830305-1.2.57.6),” _Straits Times_, 5 March 1983, 17; “[Plan for Punggol Park on Reclaimed Land](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830715-1.2.28.2),” _Straits Times_, 15 July 1983, 9. (From NewspaperSG)
+
+\[1\] Yeo, “[The Last Days of a Fishing Village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851210-1.2.87.12.1)”; Gillian Pow Chong, “[Teh to Decide on Future of Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851112-1.2.8),” _Straits Times_, 12 November 1985, 1; “[Big Boatel Gets Notice to Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860919-1.2.27.21),” _Straits Times_, 19 September 1986, 16. (From NewspaperSG)
+
+\[1\] Saadon Ismail, “[Tempat Jatuh Lagi Dikenang…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870201-1.2.14.1.1)” _Berita Minggu_, 1 February 1987, 3 (From NewspaperSG)
+
+\[1\] Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1).” \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
+
