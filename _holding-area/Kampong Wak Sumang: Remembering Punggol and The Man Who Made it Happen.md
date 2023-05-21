@@ -8,8 +8,8 @@ description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
 #### Kampong Wak Sumang, one of Singapore’s earliest fishing villages, was purportedly founded by a warrior-diplomat whose musical abilities landed him in trouble.
 By Hannah Yeo
 
-![](/images/Vol%2019%20Issue%201/Public%20Bathhouses/Trees_and_lake.png)
-<div style="background-color: white;">“Bathing Place Near Selita” by Eugen von Ransonnet, 1869. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/opening%20spread.jpg)
+<div style="background-color: white;">Children playing in front of a house in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 As you walk around Punggol today, you may encounter the name “Sumang”. Sumang Walk runs along the eastern bank of the Punggol River, near the Jewel Bridge. The southern end of Sumang Walk terminates at Sumang Lane. Meanwhile, Sumang LRT station, which is nearby Waterway Residences, lies along Punggol Way between Nibong and Soo Teck stations.
 
