@@ -45,9 +45,13 @@ While Mastomo’s *Tok Sumang* suggests that Kampong Wak Sumang was established 
 
 Sumang and his family’s long journey to Punggol included stopovers at other islands. Some accounts say he helped set up another village, Kampong Pahang, on Pulau Tekong before arriving in Punggol.[^12] Besides Punggol, some of Sumang’s relatives settled in Kampong Pos in Seletar. Sumang would later have more children and grow his village in Punggol.[^13]
 
+<i>image of map</i>
+
 When Sumang died in the late 1800s, he left behind a huge estate for his descendants in Punggol, comprising fruit plantations and at least nine houses.[^14] As much of Punggol has been reclaimed, it is difficult to determine the exact location of this old kampong, but we know from a 1986 *Berita Minggu* newspaper report that Sumang’s estate comprised two land parcels, Lot 23 and 24.[^15] These added up to 10.27 acres (4.16 hectares), almost the size of the Padang.[^16]
 
 In addition to setting up the kampong, Sumang is also believed to have dug a five-metre-deep well in the kampong. It was said to never run dry and to contain healing properties.[^17] Haji Mohammed Amin Abdul Wahab, a teacher and resident in the kampong, told the *Straits Times* in 1995 that the villagers believed that the well could cure children of fever and epileptic fits. “They would bring their children to bathe with the well water before dawn and they were cured,” he said.[^18]
+
+<i>image of well</i>
 
 #### **Wak Sumang’s Legacy**
 
@@ -111,44 +115,21 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 “Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-	<b>RECIPE FOR BELACAN</b><br><br>
-	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
-	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later.
+<b>WHAT'S IN A NAME?</b><br><br>
+ The name “Poongul” appears in an 1820s map of Singapore. While it is highly unlikely that Wak Sumang alone gave Punggol its name, stories about his encounters with punggur continue to be repeated. The Malay word punggur refers to dead wood and comes from the words pokok (tree) and gugur (to fall.<br><br>
+ Some say that a felled trunk of a tree was in Punggol before the arrival of Sumang, while others claim that a broken tree branch fell on Sumang’s house.  Other stories say that Sumang saw a punggur floating in Punggol River, inspiring him to name his kampong and the river after it.<br><br>
+A funny version of the origins of the name “Ponggol” in Tok Sumang involves an intercultural misunderstanding. Apparently, Sumang was chopping down the trunk (punggur) of a rumbia tree (also called sago tree) when a white man and his Indian interpreter came to visit.<br><br>
+“Sir, wait for me at my home, for I will return in a while. I am about to finish chopping the punggor of this Rumbia,” he [Tok Sumang] said, while directing his thumb towards his house.<br><br>
+Tok Sumang was unable to comprehend what the interpreter explained to the white man, but he heard the white man repeatedly saying, “Ponggor… Ponggol…”
 <br><br>
-	<b>Ingredients:</b><br>
-	Use a Chinese tea cup as a measure.<br>
-	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.<br><br>
-<b>Method:</b><br>
-1. Do not wash the shrimps unless it is with fresh seawater. Sort through the shrimp to remove small fish, seaweed or other foreign matter.<br>
-2. Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry.<br>
-3. Pound the shrimp. The shrimps will still be moist and will easily bind into a paste. Shape into small cakes, the size of an egg and flatten. <br>
-4. Dry these in the sun for at least two days. Pound once more to get a finer paste. Re-shape into cakes and dry in the sun for two more days or more depending on the sunshine. <br>
-5. Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.<br>
-6. When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry. <br>
-7. <i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. 
-<br><br>
-	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
-	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).<br><br>
-<b>Ingredients:</b><br>
-	10g <i>belacan</i> <br>
-7 red chillies<br>
-3 red bird’s-eye chillies<br>
-Salt to taste<br>
-Sugar to taste<br>
-2 limes, juice extracted, zest thinly sliced
-	<br><br>
-<b>Method:</b><br>
-	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
-	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
-	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
-<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7_edit.png"><br>
-	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
 	<b> REFERENCES</b><br><br>
-	“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780810-1.2.56.1">Making Belacan Is Hard Work</a>,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
-Rita Zahara, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14231775">Malay Heritage Cooking</a></i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
-Sa’adon Ismail, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19730809-1.2.12">Belacan Yang Dijual di Sini Ada Ramuan Rhodamine B</a>,” <i>Berita Harian</i>, 9 August 1973, 12. (From NewspaperSG)<br><br>
-Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19730703-1.2.2">‘Racun Dlm Belacan’ Disiasat</a>,” <i>Berita Harian</i>, 3 July 1973, 1. (From NewspaperSG)<br><br>
-	Salma Semono, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19740315-1.2.22.1">Penggunaan Belacan Kurang Sejak Julai Lalu</a>,” <i>Berita Harian</i>, 15 March 1974, 3. (From NewspaperSG)
+Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
+	Mastomo, <i>Tok Sumang</i> (Singapore: Geliga Limited, 1957), 33. (From BookSG)<br><br>
+Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 25.50–26.22, 28.30–29.40, National Archives of Singapore (accession no. 001597). <br><br>
+Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023,
+	<a href="https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266"> https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266</a>; Sarafian Salleh, correspondence, April 2023. <br><br>
+The National Archives, UK, <i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
+“What’s in a Name,” Straits Times, 14 August 1990, 7. (From NewspaperSG)
 </div>
 
 <b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.
