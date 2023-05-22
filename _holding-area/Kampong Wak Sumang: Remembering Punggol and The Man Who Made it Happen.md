@@ -95,8 +95,8 @@ A new phase of Kampong Sumang’s history began after the kampong took in refuge
 
 As the community grew, the villagers in Kampong Wak Sumang decided to build a Malay School – Sekolah Melayu Ponggol – to educate the younger generations. It opened in 1955 with funds raised through the Rotary Club and other private donors.[^40] In 1963, the school was taken over by the government and moved to Track 13.[^41]
 
-![](/images/Vol%2019%20Issue%202/Tok%20Sumang/boatel.jpg)
-<div style="background-color: white;">Awang Abdullah’s boat shelter along Punggol Beach, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/melayu%20school.jpg)
+<div style="background-color: white;">Chief Secretary William Goode arriving in Kampong Wak Sumang to open Sekolah Melayu Ponggol, 1955. Welcoming him is Awang Osman (in traditional Malay attire), the headman of the village. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i></div>
 
 #### **Developing Punggol**
 
