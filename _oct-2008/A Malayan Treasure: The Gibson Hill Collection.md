@@ -12,6 +12,10 @@ image: /images/Vol 4 Issue 3/GibsonHill/gibsonhill1.jpg
 #### Dr Carl Alexander Gibson-Hill was the last expatriate director of the Raffles Museum. He was also at one point president of the Malayan Branch of the Royal Asiatic Society. On 18 June 1965, Mrs Loke Yew, the mother of Loke Wan Tho who had established Cathay Organisation, donated the Gibson-Hill Collection to the National Library on Loke’s behalf, almost a year after his death from a plane crash.
 
      *Was this the Light*,<br>      *this little candle at noon?* – Laurence Binyon, Idols<br>     (Cited in Gibson-Hill (1947, December), “Notes on the<br>     Cocos-Keeling Islands.” JMBRAS, 20(2), pp. 140)
+		 
+
+<img src="/images/Vol%204%20Issue%203/GibsonHill/gibsonhill1.jpg" style="width:50%;">
+ <div style="background-color: white;">Dr Carl Alexander Gibson-Hill.<i> Courtesy of the family of P.S. Teo.</i></div>
 
 Dr Carl Alexander Gibson-Hill (23 October 1911–18 August 1963) was the last expatriate director of the Raffles Museum. His work in Singapore straddled the period between World War II and Singapore’s independence, when British defeat at the hands of the Japanese and the rise of nationalism reshaped the landscape of Malayan politics and history. The collection he acquired thus reflects both the heritage of English adventure and colonialism in the East as well as narratives of Malayans seeking to define their own history. The collection also facilitated his work as curator and editor in two esteemed institutions – the Raffles Museum and the Asiatic Branch of the Royal Asiatic Society. On 18 June 1965, the Gibson-Hill Collection was donated to the National Library through the Loke family, owners of a cinema chain. Today, the Gibson-Hill Collection is an important component in the Lee Kong Chian Reference Library.
 
