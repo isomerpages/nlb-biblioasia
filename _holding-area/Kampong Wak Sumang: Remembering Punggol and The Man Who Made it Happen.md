@@ -45,13 +45,15 @@ While Mastomo’s *Tok Sumang* suggests that Kampong Wak Sumang was established 
 
 Sumang and his family’s long journey to Punggol included stopovers at other islands. Some accounts say he helped set up another village, Kampong Pahang, on Pulau Tekong before arriving in Punggol.[^12] Besides Punggol, some of Sumang’s relatives settled in Kampong Pos in Seletar. Sumang would later have more children and grow his village in Punggol.[^13]
 
-<i>image of map</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/map_toksumang.jpg)
+<div style="background-color: white;">Detail from a 1939 topographic map of Singapore showing Punggol Village (Kampong Wak Sumang), an Alligator Shoal close to Punggol Point (confirming crocodile sightings), the Singapore Zoo owned by William Lawrence Soma Basapa, and Matilda Estate, a former plantation. <i>Singapore, 1939, TM001048, Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i></div>
 
 When Sumang died in the late 1800s, he left behind a huge estate for his descendants in Punggol, comprising fruit plantations and at least nine houses.[^14] As much of Punggol has been reclaimed, it is difficult to determine the exact location of this old kampong, but we know from a 1986 *Berita Minggu* newspaper report that Sumang’s estate comprised two land parcels, Lot 23 and 24.[^15] These added up to 10.27 acres (4.16 hectares), almost the size of the Padang.[^16]
 
 In addition to setting up the kampong, Sumang is also believed to have dug a five-metre-deep well in the kampong. It was said to never run dry and to contain healing properties.[^17] Haji Mohammed Amin Abdul Wahab, a teacher and resident in the kampong, told the *Straits Times* in 1995 that the villagers believed that the well could cure children of fever and epileptic fits. “They would bring their children to bathe with the well water before dawn and they were cured,” he said.[^18]
 
-<i>image of well</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/well_toksumang.jpg)
+<div style="background-color: white;">A well at Kampong Wak Sumang, 1985. Villagers believed that Wak Sumang dug a well with healing properties when he arrived. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Wak Sumang’s Legacy**
 
