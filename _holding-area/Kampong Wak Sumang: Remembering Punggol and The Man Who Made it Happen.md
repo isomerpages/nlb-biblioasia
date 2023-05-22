@@ -65,17 +65,20 @@ According to Mastomo’s *Tok Sumang*, one day in 1890, a government official ar
 
 Instead of accepting the government payout, Long Amat proposed that they ask the government to guarantee that their land would not be taxed so that their descendants could live there freely for many generations to come.[^21] This arrangement would prevail for almost 100 years before Sumang’s descendants traded kampong life for high-rise living in the 1980s.[^22]
 
-<i>image of rumah</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/house%20in%20wak%20sumang.jpg)
+<div style="background-color: white;">A house in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Apart from the kampong, the former Masjid Wak Sumang at Track 26 of the old Punggol Road also bore Sumang’s name. The mosque started out as a shrine by the sea, which Sumang erected when he arrived in Punggol.[^23] Over time, as the shrine deteriorated, it was demolished and Masjid Wak Sumang was built with the help of the community after World War II. Reginald Schooling, a retired foreman with the Royal Air Force who had lived in Punggol since 1948, told the *Straits Times* in 1984 that everyone pitched in to help. “When the villagers needed a mosque we all contributed what we could. I donated $200. Some gave bricks, some gave cement and wood, while others contributed an hour or two of their time.”[^24]
 
-<i>image of masjid</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/masjid.jpg)
+<div style="background-color: white;">Masjid Wak Sumang was located at the end of the old Punggol Road, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Masjid Wak Sumang served as an epicentre of religious activity as well as a meeting point for villagers and visiting political heads who wished to meet the people of the kampong.[^25] Interestingly, one such visitor was Richard Nixon, who was then vice-president of the United States. He visited Punggol Point as the first stop in a tour of rural areas during his 1953 visit to Singapore.[^26]
 
 Sumang and his wife Gobek were buried near the grounds of Masjid Wak Sumang.[^27] When the mosque was demolished to make way for redevelopment in 1995, the couple’s remains were exhumed and reburied at Jalan Bahar Muslim Cemetery.[^28] Some of the items that belonged to the mosque – such as drums, prayer mats, prayer schedules, the sermon stick and mosque pulpit – were taken into the repositories of the National Museum of Singapore and the Asian Civilisations Museum.[^29] Staff from the National Archives of Singapore also took photographs of the area and conducted oral history interviews. One of these interviews was with Awang Osman (1906–90), the village *penghulu* (headman or chief).[^30]
 
-<i>Awang osman picture</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/awang%20osman%20fam.jpg)
+<div style="background-color: white;">Awang Osman (seated, second from left) and his family in their home in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Changing Communities**
 
