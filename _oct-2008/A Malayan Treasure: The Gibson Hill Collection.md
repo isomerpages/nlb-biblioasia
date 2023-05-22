@@ -148,3 +148,189 @@ Today, the books are located in the Closed Stacks of Level 11 of the Lee Kong Ch
 <br>
 <img style="width: 100px; height: 100px;" src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png">
 <center><b>Bonny Tan</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library</center> </div>
+
+#### **REFERENCES**
+
+Abu Zayd Hasan ibn Yazıd al-Sirafi, [_Ancient Accounts of India and China, by Two Mohammedan Travellers, Who Went to Those Parts in the 9th Century, trans. Eusebius Renaudot_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1185181) (London: Samuel Harding, 1733). (Call no. RRARE 954 ANC; microfilm NL25453)
+
+Alex Josey, [_Trade Unionism in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2804998) (Singapore: Donald Moore, 1954). (Call no. RCLOS 331.8809595 JOS-\[GBH\]; microfilm NL11900)
+
+Alfred, Eric, Personal interviews with Eric Alfred, 2007.
+
+Annie Brassey, [_A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411362) (London: Longmans, Green, 1881). (Call no. RRARE 910.41 BRA; microfilm NL30214)
+
+Ansel Adams, [_Making a Photograph: An Introduction to Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4158489) (London: Studio, 1948). (Call no. RCLOS 770.28 ADA-\[GBH\])
+
+Awnsham Churchill, [_A Collection of Voyages and Travels, Some Now First Printed From Original Manuscripts, Others Now First Published in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4403049), vols. 1–6. (London: J. Walthoe, 1732). (Call no. RRARE 910.8 CHU; microfilm NL25456­–NL25461)
+
+Bernardo Gomes de Brito, ed., [_The Tragic History of the Sea, 1589–1622; Narratives of the Shipwrecks of the Portuguese East Indiamen Sao Thome (1589), Santo Alberto (1593), Sao Joao Baptista (1622), and the Journeys of the Survivors in South East Africa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2808727) (Cambridge: Cambridge University Press. 1959). (Call no. RCLOS 910.8 HAK-\[GBH\])
+
+Boyd Cable, [_A Hundred Year History of the P. &amp; O., Peninsular and Oriental Steam Navigation Company_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202612737) (London: Ivor Nicholson &amp; Watson, 1937). (Call no. RCLOS 357.243 EWA-\[GBH\])
+
+Bruce Campbell, [_Finding Nests_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4180064) (London: Collins, 1953). (Call no. RCLOS 598.2 CAM-\[GBH\])
+
+C. A. Gibson-Hill, “Boats and Fishing on the Cocos-Keeling Island,” _Journal of the Royal Anthropological Institute_ 76, no. 1 (1946): 13–23. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+C. A. Gibson-Hill, “Index Vols. 1–20 (1923–1947) of the Society’s Journal,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 21, no. 3 (146) (October 1948): 1–60. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+C. A. Gibson-Hill, [_Singapore, Twenty-Four Camera Studies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4507233) (Singapore: Kelly &amp; Walsh, 1948). (Call no. RCLOS 959.51 GIB; microfilm NL10071)
+
+C. A. Gibson-Hill, [_The Malayan Landscape; Seventy Camera Studies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4501370) (Singapore: Kelly &amp; Walsh, 1949). (Call no. RCLOS 959.5 GIB-\[GBH\]; microfilm NL10058)
+
+C. A. Gibson Hill, “An Annotated Checklist of the Birds of Malaya,” _Bull. Raff. Mus_., 20 (September 1949): 5–299.
+
+C. A. Gibson-Hill, “Ornithological Notes From the Raffles Museum, No.11, Nesting Notes on the Malayan Long-Tailed Tailor-Bird, Orthotomus Sutonicus Maculicollis Moore,” _Bull. Raff. Mus_., 23 (December 1950): 82–97.&nbsp;
+
+C. A. Gibson-Hill, “Documents Relating to John Clunies Ross, Alexander Hare and the Establishment of the Colony on the Cocos-Keeling Island,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 25, nos. 4–5 (160) (December 1952): 1–306. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+C. A. Gibson-Hill, “The Singapore Chronicle (1824–37),” _Journal of the Malayan Branch of the Royal Asiatic Society_ 26, no. 1 (161) (July 1953): 175–99. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+C. A. Gibson-Hill, [_Singapore: Old Strait &amp; New Harbour, 1300–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (Singapore: Government Printers, 1956). (Call no. RCLOS 959.51 BOG)
+
+C. A. Gibson-Hill, “The Master Attendants (Harbour Masters) at Singapore, 1819–67,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 33, no. 1 (189) (May 1960): 1–63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+C. Northcote Parkinson, (1956). [_A Short History of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2803701) (Singapore: Donald Moore, 1956). (Call no. RCLOS 959.5 PAR-\[GBH\]; microfilm NL 11211)
+
+C. Northcote Parkinson, [_War in the Eastern Seas 1793–1815_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4149617) (London: Allen &amp; Unwin, 1954). (Call no. RCLOS 940.27 PAR-\[GBH\])
+
+Carl W. Mitman, [_Catalogue of the Watercraft Collection in the United States National Museum_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5014570) (Washington, D. C.: Government Printing Office, 1923). (Call no. RCLOS 623.821 MIT-\[GBH\])
+
+David R. MacGregor, [_The China Bird: The History of Captain Killick and One Hundred Years of Sail and Steam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4083941) (London: Chatto &amp; Windus, 1961). (Call no. RCLOS 910.45 MAC-\[GBH\])
+
+Edward Keble Chatterton, [_Sailing Ships; the Story of Their Development From the Earliest Times to the Present Day With a Hundred and Thirty Illustrations_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2265058) (London: Sidgwick and Jackson, Ltd., 1909). (Call no. RCLOS 623.821 CHA-\[GBH\])
+
+Edward Keble Chatterton, [_The Old East Indiamen_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391374) (London: T. Werner Laurie, 1914). (Call no. RCLOS 382.0942 CHA-\[GBH\]; microfilm NL18277)
+
+E.J.H. Corner, [_The Marquis: A Tale of Syonan-To_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080105) (Singapore: Heinemann Asia, 1981). (Call no. RSING 959.57023 COR)
+
+Eric Hosking and Harold Lowes, eds., [_Masterpieces of Bird Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2726592)&nbsp; London: Collins, 1947). (Call no. RCLOS 778.932 HOS-\[GBH\])
+
+Eric Hosking and Cyril Newberry, [_Birds in Action_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3877778) (London: Collins, 1949). (Call no. RCLOS 778.932 HOS-\[GBH\])
+
+F. J. Moorhead, [_A History of Malaya and Her Neighbours_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4173097), 2 vols. (London: Longmans, Green, 1957–1963). (Call no. RCLOS 959.5 MOO-\[GBH\]; microfilm NL18274)
+
+Francois Le Guat, [_A New Voyage to the East-Indies by Francis Leguat and His Companions: Containing Their Adventures in Two Desart Islands, and an Account of the Most Remarkable Things in Maurice Island, Batavia, at the Cape of Good Hope, the Island of St. Helena, And Other Places on Their Way to and From the Desart Isles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13210456) (London: R. Bonwick, W. Freeman and Tim Goodwin, 1708). (Call no. RRARE 991 FRY; microfilm NL7640)
+
+Frank S. Marryat, [_Borneo and the Indian Archipelago: With Drawings of Costume and Scenery_](https://eresources.nlb.gov.sg/printheritage/detail/1241258d-ede5-4447-98a2-0da3bbbbd8d4.aspx) (London: Longman, Brown, Green and Longmans, 1848). (From BookSG; call no. RRARE 991.1 MAR; microfilm NL7465)
+
+G. C. Madoc, [_An Introduction to Malayan Birds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4203981) (Kuala Lumpur: Malayan Nature, 1947). (Call no. RCLOS 598.29595 MAD-\[GBH\])
+
+G. F. Davidson, [_Trade and Travel in the Far East, or, Recollections of Twenty-One Years Passed in Java, Singapore, Australia and China_](https://eresources.nlb.gov.sg/printheritage/detail/2eec9199-4eee-4b47-91bf-ce2c21f2fb03.aspx) (London : Madden &amp; Malcolm, 1846). (From BookSG; call no. RRARE 950 DAV; microfilm NL11223)
+
+Gordon Christian Aymar, [_Bird Flight: A Collection of 200 Action Photographs_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4349259) (London: Bodley Head, 1936). (Call no. RCLOS 598.2 AYM-\[GBH\])
+
+H. F. Pearson, [_People of Early Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4146636) (London: University of London Press, 1955). (Call no. RCLOS 959.57 PEA-\[GBH\]; microfilm NL15394)
+
+H. F. Pearson, [_A History of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4172489) (London: University of London Press, 1956). (Call no. RCLOS 959.57 PEA-\[GBH\])
+
+Harold Parker Clodd, [_Malaya’s First British Pioneer: The Life of Francis Light_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121830) (London: Luzac, 1948). (Call no. RCLOS 959.510320924 LIG-\[GBH\])
+
+Henry Keppel, _A Visit to the Indian Archipelago, in H.M. Ship Maeander; With Portions of the Private Journal of Sir James Brooke_, vols [1](https://eresources.nlb.gov.sg/printheritage/detail/90c379fc-076f-493e-9de9-a8e235a72550.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/99f14b64-73e2-4517-be49-6626dde0bcb7.aspx). (London: Richard Bentley, 1853). (Call no. RCLOS 959.52 KEP-\[GBH\]; microfilm NL 8059)
+
+Henry Moses, [_Sketches of Shipping: Views in Portsmouth Harbour_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394250) (London: H. Moses, 1824). (Call no. RRARE 743.996238 MOS; microfilm NL25730)
+
+Henry Ogg Forbes, [_A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration From 1878 to 1883_](https://eresources.nlb.gov.sg/printheritage/detail/08a1900b-229e-4fdd-857a-eb267c839f64.aspx) (London: S. Low, Marston, Searle, 1885). (From BookSG; call no. RRARE 992 FOR; microfilm NL25438)
+
+Hodgson, Geoffrey. (1965). “Memoir of C. A. Gibson-Hill,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 38, no. 2 (208) (December 1965): 1–15. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Ibn Batuta and H. A. R. Gibb, [_Travels in Asia and Africa, 1325–1354_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2760420) (London: G. Routledge &amp; Sons, Ltd., 1929). (Call no. RCLOS 950 IBN-\[GBH\])
+
+Isabella Lucy Bishop, [_The Golden Chersonese and the Way Thither_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671) (London: John Murray, 1883). (Call no. RCLOS 959.5 BIS-\[GBH\]; microfilm NL7462)
+
+J. H. Moor, [_Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine Islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc_](https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx). (Singapore: \[n. p.\]., 1837). (Call no. RRARE 991 MOO; microfilm NL5722)
+
+James Hornell, [_The Origins and Ethnological Significance of Indian Boat Designs_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4256817) (Calcutta: Baptist Mission Press for The Asiatic Society, 1920). (Call no. RCLOS 623.8210954 HOR- \[GBH\])
+
+James Hornell, [_The Boats of the Ganges: The Fishing Methods of the Ganges_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4256820) (Calcutta: Asiatic Society of Bengal, 1924). (Call no. RCLOS 623.82109541 HOR-\[GBH\])
+
+John Crawfurd, _History of the Indian Archipelago, Containing an Account of the Manners, Arts, Languages, Religions, Institutions, and Commerce of Its Inhabitants_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx), [2](https://eresources.nlb.gov.sg/printheritage/detail/792723df-d0f5-441e-84fa-b273bcbd5b0e.aspx), [3](https://eresources.nlb.gov.sg/printheritage/detail/59e43cf2-e102-468b-b1f0-85f494a5537b.aspx) (Edinburgh: A. Constable, 1820). (From BookSG; call no. RRARE 991 CRA; microfilm NL 25440, NL25441)
+
+John Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx) (London: Bradbury &amp; Evans, 1856). (From BookSG; call no. RRARE 959.8 CRA; microfilm NL6554, NL25418)
+
+John Harris, [_Navigantium Atque Itinerantium Bibliotheca, or, A Complete Collection of Voyages and Travels: Consisting of Above Four Hundred of the Most Authentic Writers … in the English Latin, French, Italian, Spanish, Portuguese, German or Dutch Tongues…_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4381178), vols. 1–2. (London: Thomas Bennet, 1705). (Call no. RRARE 910.8 HAR; microfilm NL25462)
+
+John R. Clammer, “The Carl Gibson-Hill S. E. Asian Photographic Collection: Its History, Scope and Disposition” (Paper for the University of Oxford, Pitt Rivers Museum, 1973)
+
+John Sturgus Bastin, [_The Study of Modern Southeast Asian History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4390615) (Kuala Lumpur: University of Malaya in Kuala Lumpur, 1959). (Call no. RCLOS 959 BAS-\[GBH\])
+
+K. R. Menon, [_History in the Malayan Primary School_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5105681), book 1 (Singapore: India Publishing House, 1960). (Call no. RCLOS 959.5 MEN-\[GBH\]; microfilm NL11211)
+
+Kathleen Clark, “Carl Gibson-Hill,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 38, no. 2 (208) (December 1965): 17–21. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Linschoten John Huygen van, [_Iohn Hvighen Van Linschoten, His Discours of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes_](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx) \[John Huyghen van Linschoten, his discourse of voyages into the East and West Indies\] (London: Printed by John Wolfe, 1598). (Call no. RRARE 910.8 LIN-\[GBH\]; microfilm NL 8024)
+
+Loke Wan Tho, [_A Company of Birds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087550) (London: M. Joseph, 1957). (Call no. RCLOS 598.295 LOK- \[GBH\])
+
+Margery Morris, [_A History of Malaya for Schools_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4091363) (London: University of London Press, 1955). (Call no. RCLOS 959.5 MOR-\[GBH\])
+
+Personal interviews with Eileen Lee, 2007.
+
+Pieter Honig and Franz Verdoorn, eds., [_Science and Scientists in the Netherlands Indies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2917464) (New York: Board for the Netherlands Indies, Surinam and Curaçao, 1945). (Call no. RCLOS 509.91 HON-\[GBH\])
+
+Pietro Della Valle, [_The Travels of Pietro Della Valle in India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5070296), trans. George Havers, vols. 1 and 2. (London: Hakluyt Society, 1892). (Call no. RCLOS 910.8 HAK-\[GBH\])
+
+Richard Hakluyt, [_The Principal Navigations, Voyages, Traffiques &amp; Discoveries of the English Nation, Made by Sea or Overland to the Remote &amp; Farthest Distant Quarters of the Earth at Any Time Within the Compasse of These 1600 Yeares_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1892805), vols. 1 and 5. (London, J. M. Dent &amp; Co., 1907 and 1927). (Call no. RDTYS 910.4 HAK-\[GBH\])
+
+Robert Cushman Murphy, [_Logbook for Grace; Whaling Brig Daisy, 1912–1913_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=633244) (New York: The Macmillan Co., 1947). (Call no. RCLOS 910.4 MUR-\[GBH\])
+
+Robert Fortune, [_A Journey to the Tea Countries of China; Including Sung-Lo and the Bohea Hills; With a Short Notice of the East India Company’s Tea Plantations in the Himalaya Mountains_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2315618) (London: J. Murray, 1852). (Call no. RCLOS 951 FOR-\[GBH\])
+
+Romala Anderson and Roger Charles Anderson, [_The Sailing Ship: Six Thousand Years of History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4230042) (London: G. G. Harrap, 1926). (Call no. RCLOS 623.82209 AND-\[GBH\])
+
+Samuel Pvrchas, [_Pvrchas His Pilgrimage. Or, Relations of the World and the Religions Observed in All Ages and Places Discouered, From the Creation Vnto This Present_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2809120) (London: William Stansby, 1613). (Call no. RRARE 200 PUR; microfilm NL7434)
+
+T. H. H. Hancock and C.A. Gibson-Hil, [_Architecture in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982376) (Singapore: Singapore Art Society, 1954). (Call no. RCLOS 722.4095957 SIN-\[GBH\]; microfilm NL10286)
+
+Thomas Horsfield, [_Zoological Researches in Java, and the Neighbouring Islands_](https://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx) (London: Printed by Kingsbury, Parbury, &amp; Allen, 1824). (From BookSG; call no. RRARE 591.9922 HOR; microfilm NL25740)
+
+Thomas Stamford Raffles, _The History of Java_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/6d15e65a-d692-4496-b15f-58bb9db11a11.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/160111b1-4e0f-4a49-806e-1b565679415f.aspx) (London: John Murray, 1830). (From BookSG; call no. RRARE 992.2 RAF; microfilm NL25444)
+
+Tome Pires, [_The Suma Oriental of Tomé Pires, an Account of the East, From the Red Sea to Japan, Written in Malacca and India in 1512–1515, and the Book of Francisco Rodrigues, Rutter of a Voyage in the Red Sea, Nautical Rules, Almanack and Maps, Written and Drawn, in the East before 1515_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2818205), vols. 1 and 2. (London: Hakluyt Society, 1944). (Call no. RRARE 910.8 HAK; microfilm NL14208, NL 26012)
+
+W. P. Groeneveldt, [_Historical Notes on Indonesia and Malaya Compiled From Chinese Sources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500900) (Djakarta: C. V. Bhratara, 1960). (Call no. RCLOS 959.8 GRO-\[GBH\]; microfilm NL8131)
+
+William Marsden, [_The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, With a Description of the Natural Productions, and a Relation of the Ancient Political State of That Island_](https://eresources.nlb.gov.sg/printheritage/detail/4f730f43-ac00-4177-920f-3f01259ccb09.aspx), 3rd ed. (London: Printed for the author by J. M’Creery, 1811). (From BookSG; call no. RRARE 992.1 MAR; microfilm NL7156)
+
+\*William Mortensen, [_Pictorial Lighting_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2465164) (California: Camera Craft Publishing Co., 1935). (Call no. RCLOS 778.72 MOR-\[GBH\])
+
+William Mortensen, [_Mortensen on the Negative_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2749621) (New York: Simon and Schuster, 1949). (Call no. RCLOS 770.283 MOR-\[GBH\])
+
+\*William Mortensen, [_Outdoor Portraiture; Problems of Face and Figure in Natural Environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2465166) (California: Camera Craft Publishing Co., 1947). (Call no. RCLOS 778.92 MOR-\[GBH\])
+
+1 Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &amp;C., Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies, 1817–1824: With Details of the Commerce and Resources of the Eastern Archipelago and Selections From His Correspondence_](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1930). (From BookSG; call no. RRARE 959.570210924 RAF; microfilm NL3280)
+
+1 W. H. M. Read, [_Play and Politics, Recollections of Malaya by an Old Resident_](https://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx) (London: W. Gardner, Darton, 1901). (Call no. RRARE 959.503ROB; microfilm NL14075)
+
+2 E. J. Robertson, [_Straits Memories, Being Recollections of Incidents, Peoples and Life in Singapore and the Straits a Generation Ago_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980850) (Singapore: Methodist Publishing House, 1910). (Call no. RRARE 959.503 ROB; microfilm NL8762)
+
+3 W. G. Shellabear, [_Sejarah Melayu, or, The Malay Annals_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12735743), 3rd ed. (Singapore: Malaya Publishing House, 1948). (Call no. RCLOS 959.5 SEJ-\[GBH\]; microfilm NL11217)
+
+4 R. A. Skelton, [_Explorers’ Maps: Chapters in the Cartographic Record of Geographical Discovery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4092477) (\[n.p.: Routledge &amp; K. Paul, 1958). (Call no. RCLOS 910.9 SKE-\[GBH\])
+
+5 T. H. Silcock, [_The Economy of Malaya: An Essay in Colonial Political Economy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078314) (Singapore: Donald Moore, 1955). &nbsp;(Call no. RCLOS 330.9595 SIL-\[GBH\]; microfilm NL11929)
+
+6 Singapore Art Society, [_A Definitive Exhibition of Malay Arts &amp; Crafts \[at the\] British Council Centre, Stamford Road–Singapore, July 21st to 29th, 1951_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981408) (Singapore: Craftsman Press, 1951). (Call no. RCLOS 745.449595 SIN-\[GBH\]; microfilm NL8342)
+
+7 Singapore Art Society, [_The Singapore Artist_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042746) 1, nos. 1–3 (1954–1955). (Call no. RCLOS705 SA-\[GBH\]; microfilm NL9939, NL11804)
+
+8 Singapore Art Society, [_A Loan Exhibition of Chinese Art of the Early Periods, British Council Centre, Singapore, May 7th to 16th, 1954_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10243654) (Singapore: Singapore Art Society. 1954). (Call no. RCLOS 709.51 SIN-\[GBH\])
+
+9 Singapore Art Society, [_Chen Wen Hsi: Exhibition of Paintings \[In the British Council Gallery on May 4–May 13\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981407) (Singapore: Singapore Art Society, 1956). (Call no. RCLOS 759.9595 SIN-\[GBH\]; microfilm NL12111)
+
+10 H. Warington Smyth, [_Mast and Sail in Europe and Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391445) (London: J. Murray, 1906). (Call no. RCLOS 623.822 SMY-\[GBH\])
+
+11 Ernst Sutter, [_Paradiesvogel Und Kolibris: Bilder Aus Dem Leben Der Tropenvogel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5297522) \[Birds of Paradise and Humming Birds: Illustrations of the lives of these tropical birds\] (Zurich: Verlag Silva-Bilderdienst, 1953). (Call no. RCLOS 598.865 SUT-\[GBH\])
+
+12 Marianne Teo, Yu-Chee Chong and Julia Oh, [_Nineteenth Century Prints of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413294) (Singapore: National Museum, 1987). (Call no. RSING 769.4995957 TEO)
+
+13 C. F. Tunnicliffe, [_Bird Portraiture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2649327) (London: The Studio, 1945). (Call no. RCLOS 743.682 TUN-\[GBH\])
+
+14 Michael Willmer Forbes Tweedie, [_Prehistoric Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181774), rev. ed. (Singapore: Donald Moore, 1957). (Call no. RCLOS 959.5 TWE-\[GBH\]; microfilm NL14084)
+
+15 David Watkin Wa;ters, [_Chinese Junks: An Exception: The Tongkung_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5014604) (London: Society for Nautical Research, 1940). (Call no. RCLOS 623.822 WAT-\[GBH\])
+
+16 Paul Wheatley, [_The Golden Chersonese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5031436) (London: Institute of British Geographers, 1955). (Call no. RCLOS 959.5 WHE-\[GBH\])
+
+**Books marked with an astrix do not originally belong to Gibson-Hill but are donations by Loke Wan Tho**.
+
+
