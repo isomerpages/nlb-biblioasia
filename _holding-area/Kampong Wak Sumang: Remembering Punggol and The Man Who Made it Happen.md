@@ -95,7 +95,8 @@ A new phase of Kampong Sumang’s history began after the kampong took in refuge
 
 As the community grew, the villagers in Kampong Wak Sumang decided to build a Malay School – Sekolah Melayu Ponggol – to educate the younger generations. It opened in 1955 with funds raised through the Rotary Club and other private donors.[^40] In 1963, the school was taken over by the government and moved to Track 13.[^41]
 
-<i>image of melayu school</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/boatel.jpg)
+<div style="background-color: white;">Awang Abdullah’s boat shelter along Punggol Beach, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Developing Punggol**
 
@@ -103,7 +104,8 @@ In the 1960s, Kampong Wak Sumang welcomed piped water, electricity, paved roads 
 
 The residents of Kampong Wak Sumang were part of the thriving scene. Some like Awang Abdullah, whose nickname was Awang Pendek, ran a boatel business. Others sold their fishing catch to seaside restaurants and hotels and also at nearby markets in Kangkar and Punggol.[^43]
 
-<i>image of awang abdullah boatel</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/boatel.jpg)
+<div style="background-color: white;">Awang Abdullah’s boat shelter along Punggol Beach, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The idyllic kampong life, however, would ultimately come to an end. In 1983, the government announced that it would be undertaking a reclamation project for future housing needs in Punggol. Some 277 hectares of land would be reclaimed off the Punggol coastline over the next three years at a cost of $136 million.[^44] Residents of Kampong Wak Sumang, as well as Punggol Point’s famous seafood restaurants and boatels, were asked to vacate their premises by 1986.[^45]
 
@@ -116,7 +118,8 @@ Those who owned boatels stayed behind to faithfully watch over their clients’ 
 
 “My brother, my brother-in-law and I will be staying behind to take turns to keep an eye on the boats,” said Jimat Awang when he was interviewed by the *New Paper* in September 1994. This was even though his main office building, the two huts where the family slept in, and his store had been torn down. Zainal Jantan said that “he and a few friends would also be watching over his 40 to 50 boats” and “sleep in a small hut that had not been demolished, but the rest of his family would be returning to their Hougang flat”.[^49] 
 
-<i>image of stilt houses</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/stilthouses-2.jpg)
+<div style="background-color: white;">Stilt houses along the Punggol River, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Revisiting Punggol**
 
@@ -124,7 +127,8 @@ Although Kampong Wak Sumang no longer exists today, its legacy lives on in the s
 
 The National Library Board (NLB) is showcasing some of these stories at Singaporium – a permanent exhibition space located at level four of the new Punggol Regional Library – to bring its heritage collections closer to the community. The inaugural exhibition, “Punggol Stories”, features the *Tok Sumang* book by Muhammad Ariff Ahmad as well as memories collected from former Punggol residents, including those who used to live in Kampong Wak Sumang.
 
-<i>image of punggol stories</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/punggol%20stories.jpg)
+<div style="background-color: white;">The “Punggol Stories” exhibition at Singaporium on Level 4 of Punggol Regional Library, 2023. The exhibition features stories and memories of Punggol, with many contributed by the community.</div>
 
 To make the stories of Wak Sumang and his contributions more accessible to the wider community, Ahmad Ubaidillah – whose mother Rohaida Ismail is a descendant of Wak Sumang and grew up in Kampong Wak Sumang – has translated *Tok Sumang* into English (read the original Malay digitised text on BookSG, while the English translated version can be accessed on the BiblioAsia website). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
 
