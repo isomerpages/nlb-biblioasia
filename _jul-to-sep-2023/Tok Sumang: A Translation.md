@@ -15,7 +15,7 @@ Translated by Ahmad Ubaidillah<br>
 
 <div font-size="larger&quot;" style="background-colour:#fffce7; padding:10px; margin: 0px; font-size:110%; background: #fffce7"><b>Introduction </b><br>
 
-My fate was intertwined with Punggol long before I was born. When I was a young boy, no older than nine or ten, my maternal relatives would often have picnics and gatherings on Punggol Beach. This was before development works there, so all that the beach had was white sand peppered with boulders, and the long crusty jetty that jutted out into the sea. The adults would sit by the shore under the swaying branches of trees, while my cousins and I swam and raced along the beach, building sandcastles and digging holes in the sand just for the fun of it.<br>
+My fate was intertwined with Punggol long before I was born. When I was a young boy, no older than nine or ten, my maternal relatives would often have picnics and gatherings on Punggol Beach. This was before development works there, so all that the beach had was white sand peppered with boulders, and the long crusty jetty that jutted out into the sea. The adults would sit by the shore under the swaying branches of trees, while my cousins and I swam and raced along the beach, building sandcastles and digging holes in the sand just for the fun of it.<br><br>
 
 As a young boy, these outings were significant for many reasons. They formed the core memories of my childhood. Even today, I still remember the impressions that Punggol Beach left upon me in my formative years: the blistering heat that made my skin prickle, the lulling sea breeze and its salty scent, and the sunburns when we did not apply enough sunblock. I also vividly remember my grandmother perched by the old jetty holding onto a small circular fishing rod, her hands deftly twirling the string whenever she felt a tug.<br>
 
@@ -51,9 +51,9 @@ To me, <i>Tok Sumang</i> can be used as a medium to appreciate the history and t
 
 Perhaps the most important takeaway from <i>Tok Sumang</i> is its inherent storytelling nature. In a world that is increasingly finding value in data and statistics, we must not lose sight of the value of tales and stories. Although we are unable to verify the historicity of this work, this is the unique value of historical fiction: It allows the creative spirit to roam in a spacious field bordered by facts and reality.<br>
 
-Therefore, a critical and creative lens is needed when consuming any text, including <i>Tok Sumang</i>. I am hopeful that through this work, readers will be able to tease out more value and meaning that are unique to them and that would enrich their lives.<br>
+Therefore, a critical and creative lens is needed when consuming any text, including <i>Tok Sumang</i>. I am hopeful that through this work, readers will be able to tease out more value and meaning that are unique to them and that would enrich their lives.<br><br>
 
-The National Library Board has digitised the original book, which can be accessed <a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">here</a>.
+The National Library Board has digitised the original book, which can be accessed <a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">here</a>.<br><br>
 
 Ahmad Ubaidillah<br>
 April 2023</div>
