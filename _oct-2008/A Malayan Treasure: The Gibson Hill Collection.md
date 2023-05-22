@@ -408,10 +408,62 @@ William Mortensen, [_Mortensen on the Negative_](https://eservice.nlb.gov.sg/ite
 
 \*William Mortensen, [_Outdoor Portraiture; Problems of Face and Figure in Natural Environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2465166) (California: Camera Craft Publishing Co., 1947). (Call no. RCLOS 778.92 MOR-\[GBH\])
 
-   
-
 **Books marked with an astrix\* do not originally belong to Gibson-Hill but are donations by Loke Wan Tho**
 
+#### **NOTES**
 
+[^1]: Gibson-Hill published an earlier work Warwickshire (1936) describing the landscape of his hometown. However he published it under a pseudonym John Lisle.
+
+[^2]: C. A. Gibson-Hill, [_Singapore: Old Strait &amp; New Harbour, 1300–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (Singapore: Government Printers, 1956). (Call no. RCLOS 959.51 BOG)
+
+[^3]: The story is found in Robert Fortune, [_A Journey to the Tea Countries of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2315618) (London: J. Murray, 1852). (Call no. RCLOS 951 FOR)
+
+[^4]: Harold Parker Clodd, [_Malaya’s First British Pioneer: The Life of Francis Light_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121830) (London: Luzac, 1948). (Call no. RCLOS 959.510320924 LIG-\[GBH\])
+
+[^5]: Such as Thomas Stamford Raffles, _The History of Java_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/6d15e65a-d692-4496-b15f-58bb9db11a11.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/160111b1-4e0f-4a49-806e-1b565679415f.aspx) (London: John Murray, 1830). (From BookSG; call no. RRARE 992.2 RAF; microfilm NL25444)
+
+[^6]: Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &amp;C., Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies, 1817–1824: With Details of the Commerce and Resources of the Eastern Archipelago and Selections From His Correspondence_](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1930). (From BookSG; call no. RRARE 959.570210924 RAF; microfilm NL3280)
+
+[^7]: Namely John Crawfurd, _History of the Indian Archipelago, Containing an Account of the Manners, Arts, Languages, Religions, Institutions, and Commerce of Its Inhabitants_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx), [2](https://eresources.nlb.gov.sg/printheritage/detail/792723df-d0f5-441e-84fa-b273bcbd5b0e.aspx), [3](https://eresources.nlb.gov.sg/printheritage/detail/59e43cf2-e102-468b-b1f0-85f494a5537b.aspx) (Edinburgh: A. Constable, 1820). (From BookSG; call no. RRARE 991 CRA; microfilm NL 25440, NL25441); John Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx) (London: Bradbury &amp; Evans, 1856). (From BookSG; call no. RRARE 959.8 CRA; microfilm NL6554, NL25418)
+
+[^8]: Francois Le Guat, [_A New Voyage to the East-Indies by Francis Leguat and His Companions: Containing Their Adventures in Two Desart Islands, and an Account of the Most Remarkable Things in Maurice Island, Batavia, at the Cape of Good Hope, the Island of St. Helena, And Other Places on Their Way to and From the Desart Isles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13210456) (London: R. Bonwick, W. Freeman and Tim Goodwin, 1708). (Call no. RRARE 991 FRY; microfilm NL7640)
+
+[^9]: J. H. Moor, [_Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine Islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc_](https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx). (Singapore: \[n. p.\]., 1837). (Call no. RRARE 991 MOO; microfilm NL5722)
+
+[^10]: G. F. Davidson, [_Trade and Travel in the Far East, or, Recollections of Twenty-One Years Passed in Java, Singapore, Australia and China_](https://eresources.nlb.gov.sg/printheritage/detail/2eec9199-4eee-4b47-91bf-ce2c21f2fb03.aspx) (London : Madden &amp; Malcolm, 1846). (From BookSG; call no. RRARE 950 DAV; microfilm NL11223)
+
+[^11]: Especially in Henry Keppel, _A Visit to the Indian Archipelago, in H.M. Ship Maeander; With Portions of the Private Journal of Sir James Brooke_, vols [1](https://eresources.nlb.gov.sg/printheritage/detail/90c379fc-076f-493e-9de9-a8e235a72550.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/99f14b64-73e2-4517-be49-6626dde0bcb7.aspx). (London: Richard Bentley, 1853). (Call no. RCLOS 959.52 KEP-\[GBH\]; microfilm NL 8059)
+
+[^12]: Tiew Wai Sin, “History of Journal of the Malaysian Branch of the Royal Asiatic Society (JMBRAS) 1878–1997: An Overview,” _Malaysian Journal of Library &amp; Information Science_ 3, no. 1 (July 1998): 50.
+
+[^13]: C. A. Gibson-Hill, “The Singapore Chronicle (1824–37),” _Journal of the Malayan Branch of the Royal Asiatic Society_ 26, no. 1 (161) (July 1953): 175–99. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^14]: C. A. Gibson-Hill, “The Master Attendants (Harbour Masters) at Singapore, 1819–67,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 33, no. 1 (189) (May 1960): 1–64. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^15]: Gibson-Hill’s indicates that "(t)he difficulty experienced in dealing with what should have been a small problem showed clearly that no previous investigation into the matter had ever been recored, and that there was no extant official list (Gibson-Hill, "The Master Attendants,” 1)
+
+[^16]: Cyril Northcote Parkinson, (1956). [_A Short History of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2803701) (Singapore: Donald Moore, 1956) (Call no. RCLOS 959.5 PAR-\[GBH\]; microfilm NL 11211); Michael Willmer Forbes Tweedie, [_Prehistoric Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181774), rev. ed. (Singapore: Donald Moore, 1957) (Call no. RCLOS 959.5 TWE-\[GBH\]; microfilm NL14084); Alex Josey, [_Trade Unionism in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2804998) (Singapore: Donald Moore, 1954) (Call no. RCLOS 331.8809595 JOS-\[GBH\]; microfilm NL11900); T. H. Silcock, [_The Economy of Malaya: An Essay in Colonial Political Economy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078314) (Singapore: Donald Moore, 1955). &nbsp;(Call no. RCLOS 330.9595 SIL-\[GBH\]; microfilm NL11929)
+
+[^17]: Examples of catalogues are primarily from the Singapore Art Society and include Singapore Art Society, [_A Loan Exhibition of Chinese Art of the Early Periods, British Council Centre, Singapore, May 7th to 16th, 1954_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10243654) (Singapore: Singapore Art Society. 1954) (Call no. RCLOS 709.51 SIN-\[GBH\]); Singapore Art Society, [_Chen Wen Hsi: Exhibition of Paintings \[In the British Council Gallery on May 4–May 13\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981407) (Singapore: Singapore Art Society, 1956). (Call no. RCLOS 759.9595 SIN-\[GBH\]; microfilm NL12111); Singapore Art Society, [_A Definitive Exhibition of Malay Arts &amp; Crafts \[at the\] British Council Centre, Stamford Road–Singapore, July 21st to 29th, 1951_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981408) (Singapore: Craftsman Press, 1951). (Call no. RCLOS 745.449595 SIN-\[GBH\]; microfilm NL8342)
+
+[^18]: Including Ansel Adams, [_Making a Photograph: An Introduction to Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4158489) (London: Studio, 1948). (Call no. RCLOS 770.28 ADA-\[GBH\])
+
+[^19]: Including William Mortensen, [_Pictorial Lighting_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2465164) (California: Camera Craft Publishing Co., 1935) (Call no. RCLOS 778.72 MOR-\[GBH\]); William Mortensen, [_Mortensen on the Negative_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2749621) (New York: Simon and Schuster, 1949) (Call no. RCLOS 770.283 MOR-\[GBH\]); William Mortensen, [_Outdoor Portraiture; Problems of Face and Figure in Natural Environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2465166) (California: Camera Craft Publishing Co., 1947). (Call no. RCLOS 778.92 MOR-\[GBH\])
+
+[^20]: These photographs are now scattered among the National Museum of Singapore, Pitt River Photographs (more than 4,000 photographs of ethnographic value), Singapore Architects Association (mainly architectural photographs as well as of historical maps of Singapore which were originally at Pitt Rivers), Singapore Motor Club (of the Singapore Grand Prix which were originally at Pitt Rivers) and the Library of the Centre for S.E. Asian Studies at the University of Hull (non-ethnographic photographs for example of Bangkok and other urban centres which were originally at Pitt Rivers). The details of the distribution of photographs originally with Pitt Rivers Museum is derived from an unpublished paper by John R. Clammer, “The Carl Gibson-Hill S. E. Asian Photographic Collection: Its History, Scope and Disposition” (Paper for the University of Oxford, Pitt Rivers Museum, 1973)
+
+[^21]: Personal interviews with Eileen Lee, 2007.
+
+[^22]: C. F. Tunnicliffe, [_Bird Portraiture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2649327) (London: The Studio, 1945). (Call no. RCLOS 743.682 TUN-\[GBH\])
+
+[^23]: Personal interviews with Eric Alfred, 2007.
+
+[^24]: Personal interviews with Eileen Lee.
+
+[^25]: The Board was then a non-executive body with an advisory role, unlike the current Board formed in 1995, serving as the umbrella body housing both the National Library and the Public Libraries.
+
+[^26]: About a third of the titles in the holdings are duplicates with several copies of the same found within the Collection. The final catalogue thus lists only 673 individual titles integrating both duplicates and multi-volumed works.
+
+[^27]: These titles cannot be found elsewhere in the National Library and the Public Libraries under the National Library Board
 
 
