@@ -75,6 +75,9 @@ While sliding glass windows and doors were coming into fashion about the time th
 
 Lee also chose to use a sloping roof instead of a flat one because of the torrential downpours that Singapore regularly experiences. Flat roofs are more likely to leak, which is why Lee gave his house – as well as every house he designed – a sloping roof. A sloping roof would also create a high ceiling that improves ventilation.
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image9.png)
+<div style="background-color: white;"> A view of the veranda and the sloping roof, 2022. On the right is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Courtesy of Dr Lee Peng Hui.</i></div>
+
 #### **A Unique Character**
 
 The house today reflects both the original design as well as changes resulting from a major refurbishment that took place in 1997. This was necessary because many things had begun to deteriorate from wear and tear, including the original electrical wiring. The wiring had been embedded in the concrete walls, as was the practice in those days, and needed to be replaced. Lee was unwell by that time and was not involved in the work, which was supervised by his wife, Mrs Lee Li-ming. 
@@ -90,10 +93,6 @@ A more recent addition is the installation of a large ceiling fan in the living 
 
 ![](/images/Vol%2019%20Issue%202/Brinjai/image8.png)
 <div style="background-color: white;"> Looking out into the veranda and garden from the living room, which has a very high ceiling, 2023. The large fan gives the living room a cosier feel. <i>Photo by Jimmy Yap. </i></div>
-
-![](/images/Vol%2019%20Issue%202/Brinjai/image9.png)
-<div style="background-color: white;"> A view of the veranda and the sloping roof, 2022. On the right is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Courtesy of Dr Lee Peng Hui.</i></div>
-
 
 #### **A Home for the Ages**
 
