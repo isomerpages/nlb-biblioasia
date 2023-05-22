@@ -79,9 +79,7 @@ Davidson (1846)10 who describe the settlement between 1826 to 1840s, Keppel (185
 
 Gibson-Hill left an indelible mark as the Editor of the *Journal of the Malayan Branch of the Royal Asiatic Society*. Since the Straits Branch of the Royal Asiatic Society had established itself in the grounds of the Raffles Library and Museum in 1878, a succession of Directors had held a concurrent role as President of the Society’s Branch. During Gibson-Hill’s term, the position of editor was made separate from that of Honorary Secretary freeing him to focus on the task of editing the *Journal*. Erudite and particular to a fault, Gibson-Hill was known to add lengthy footnotes, bibliographies and maps to articles, clearly enhancing the original work. However, his diligence invariably delayed the publication of these articles, often to the annoyance of many.
 
-![](/images/Vol%204%20Issue%203/GibsonHill/walkervoyage.jpg)
-
-<img src="/images/Vol%204%20Issue%203/GibsonHill/walkervoyage.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%203/GibsonHill/walkervoyage.jpg" style="width:60%;">
  <div style="background-color: white;">Walker’s Voyages and cruises (1928) are bound in GibsonHill’s unique batik covers.</div>
 
 One of his earliest tasks as editor was to compile the Journal’s first post-war index – *the Index of Volumes 1–20* (1922–1947). The index was instrumental in raising the sales of the *Journal’s* back issues and helped generate a tidy sum for the newly reinstated Society Branch. Aside from editing, Gibson-Hill also wrote extensively for the *Journal* and became the third most prolific contributor, with a total of 49 articles on various topics from the history of the region to boats and hats.12 His work showed a deep knowledge of Malaya, its culture, ethnology and natural history. More importantly, they exemplified his willingness and dogged determination in helping ferret out difficult-to-find information. For example, his detailed history of a local newspaper – *The Singapore Chronicles*, 13 and a listing of Master Attendants14 who served in Singapore between 1819 and 1867 were responses to requests for more facts on these little researched areas.15 Gibson-Hill had an innate ability to translate dry facts into living stories and transform seemingly meaningless lists, complex legislation and bureaucratic reports into gems of information and knowledge. He was also an active contributor to the *Malayan Nature Journal* and the *Bulletin of the Raffles Museum*, with whole editions dedicated to his articles. His works also appeared in the local daily, *The Straits Times*, specialised journals such as *Ibis* as well as in general titles such as *The Geographical Magazine* (London).
@@ -126,8 +124,6 @@ Unfortunately, within weeks of his death, the merger of Singapore with Malaysia 
 
 <img src="/images/Vol%204%20Issue%203/GibsonHill/signaturedating.jpg" style="width:50%;">
  <div style="background-color: white;">Gibson-Hill's signature and dating found on specific titles.</div>
-
-
 
 Loke Wan Tho had been the first director of the National Library Board.25 Established in 1960, the Board was instrumental in giving advisory support to the newly instituted National Library. One of the key collections established was the Southeast Asia Room which included the heritage collections of the Raffles Library and the Tan Yeok Seong’s collection on the Nanyang Chinese. It is believed that Loke had seen the potential in Gibson-Hill’s collection. Loke’s plans had been to purchase his late friend’s books and donate it to the National Library. Unfortunately, an aircrash on 20 June 1964 over Taiwan led to Loke’s demise. It was Loke’s mother, Mrs Loke Yew who offered the donation on her son’s behalf on 18 June 1965, almost a year after Loke’s death.
 
