@@ -118,10 +118,10 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 <b>WHAT'S IN A NAME?</b><br><br>
  The name “Poongul” appears in an 1820s map of Singapore. While it is highly unlikely that Wak Sumang alone gave Punggol its name, stories about his encounters with punggur continue to be repeated. The Malay word punggur refers to dead wood and comes from the words pokok (tree) and gugur (to fall.<br><br>
  Some say that a felled trunk of a tree was in Punggol before the arrival of Sumang, while others claim that a broken tree branch fell on Sumang’s house.  Other stories say that Sumang saw a punggur floating in Punggol River, inspiring him to name his kampong and the river after it.<br><br>
-A funny version of the origins of the name “Ponggol” in Tok Sumang involves an intercultural misunderstanding. Apparently, Sumang was chopping down the trunk (punggur) of a rumbia tree (also called sago tree) when a white man and his Indian interpreter came to visit.<br><br>
-“Sir, wait for me at my home, for I will return in a while. I am about to finish chopping the punggor of this Rumbia,” he [Tok Sumang] said, while directing his thumb towards his house.<br><br>
+A funny version of the origins of the name “Ponggol” in Tok Sumang involves an intercultural misunderstanding. Apparently, Sumang was chopping down the trunk (punggur) of a rumbia tree (also called sago tree) when a white man and his Indian interpreter came to visit.
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">“Sir, wait for me at my home, for I will return in a while. I am about to finish chopping the punggor of this Rumbia,” he [Tok Sumang] said, while directing his thumb towards his house.<br><br>
 Tok Sumang was unable to comprehend what the interpreter explained to the white man, but he heard the white man repeatedly saying, “Ponggor… Ponggol…”
-<br><br>
+</div>
 	<b> REFERENCES</b><br><br>
 Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
 	Mastomo, <i>Tok Sumang</i> (Singapore: Geliga Limited, 1957), 33. (From BookSG)<br><br>
@@ -129,8 +129,12 @@ Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 Janu
 Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023,
 	<a href="https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266"> https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266</a>; Sarafian Salleh, correspondence, April 2023. <br><br>
 The National Archives, UK, <i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
-“What’s in a Name,” Straits Times, 14 August 1990, 7. (From NewspaperSG)
-</div>
+“What’s in a Name,” Straits Times, 14 August 1990, 7. (From NewspaperSG)<br><br>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> 
+<i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="[https://go.gov.sg/tok-sumang-english](https://go.gov.sg/tok-sumang-english)\"> https://go.gov.sg/tok-sumang-english</a>
+</div></div>
+
 
 <b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.
 
