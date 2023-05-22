@@ -258,7 +258,7 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 
 [^45]: Yeo, “[The Last Days of a Fishing Village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851210-1.2.87.12.1)”; Gillian Pow Chong, “[Teh to Decide on Future of Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851112-1.2.8),” _Straits Times_, 12 November 1985, 1; “[Big Boatel Gets Notice to Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860919-1.2.27.21),” _Straits Times_, 19 September 1986, 16. (From NewspaperSG)
 
-[^46]: Saadon Ismail, “[Tempat Jatuh Lagi Dikenang…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870201-1.2.14.1.1)” _Berita Minggu_, 1 February 1987, 3 (From NewspaperSG)
+[^46]: Saadon Ismail, “[Tempat Jatuh Lagi Dikenang…,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19870201-1.2.14.1.1)” _Berita Minggu_, 1 February 1987, 3 (From NewspaperSG)
 
 [^47]: Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1).” \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
