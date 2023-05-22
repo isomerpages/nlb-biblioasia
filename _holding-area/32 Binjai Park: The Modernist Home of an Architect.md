@@ -62,12 +62,12 @@ According to Tse, Lee revised the design concept of the house at least three tim
 
 At one point, the house was even meant to be double-storey. But in the final design, it was reduced to one storey with a loft. From the outside though, the loft is not apparent. “The loft was just a small area above the entrance area,” she said. “But the look of the house is single storey, and if you look from outside, you do not know there is a loft.”[^10]
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image6.png)
-<div style="background-color: white;">Upstand or inverted beams (circled in red) are used for the loft so that its beams are hidden above the general slab level, 1973. This allows the slab to be fully exposed below without any protruding structure. Without false ceilings, Lee Kip Lin could also fully display the roof construction, including its timber beams and rafters, (boxed in blue) above the living room and veranda, 1973. <i>Lee Kip Lin Collection, National Library, Singapore</i></div>
-
 Adding to the simple look is the use of brick walls to conceal the reinforced concrete columns inside the house. Lee used the rough finish of bricks as a contrast to the plastered walls. Tse added that Lee chose common bricks instead of “facing bricks”, which are used mainly for facades and hence more aesthetically pleasing.
 
 Lee also did not want to install false ceilings. “He wanted to expose the roof construction by expressing the elements such as timber beams and rafters,” said Tse. “The concrete floor slab of the loft over the dining area was also left bare without a false ceiling. He had taken great care to place services such as the floor trap of the bathroom of the loft outside the house away from the main area so that a false ceiling is not necessary.”[^11]
+
+![](/images/Vol%2019%20Issue%202/Brinjai/image6.png)
+<div style="background-color: white;">Upstand or inverted beams (circled in red) are used for the loft so that its beams are hidden above the general slab level, 1973. This allows the slab to be fully exposed below without any protruding structure. Without false ceilings, Lee Kip Lin could also fully display the roof construction, including its timber beams and rafters, (boxed in blue) above the living room and veranda, 1973. <i>Lee Kip Lin Collection, National Library, Singapore</i></div>
 
 The design of the home also takes the local climate into consideration. Lee relied on the extensive use of louvres for windows and doors (some of which were bifold and trifold), which allows for cross-ventilation even when closed. The use of louvres also extends to the main entrance door. 
 
