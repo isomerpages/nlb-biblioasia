@@ -142,7 +142,7 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 <b>WHAT'S IN A NAME?</b><br><br>
- The name “Poongul” appears in an 1820s map of Singapore. While it is highly unlikely that Wak Sumang alone gave Punggol its name, stories about his encounters with <i>punggur</i> continue to be repeated. The Malay word <i>punggur</i> refers to dead wood and comes from the words <i>pokok</i> (tree) and <i>gugur</i> (to fall.<br><br>
+ The name “Poongul” appears in an 1820s map of Singapore. While it is highly unlikely that Wak Sumang alone gave Punggol its name, stories about his encounters with <i>punggur</i> continue to be repeated. The Malay word <i>punggur</i> refers to dead wood and comes from the words <i>pokok</i> (tree) and <i>gugur</i> (to fall).<br><br>
  Some say that a felled trunk of a tree was in Punggol before the arrival of Sumang, while others claim that a broken tree branch fell on Sumang’s house.  Other stories say that Sumang saw a <i>punggur</i> floating in Punggol River, inspiring him to name his kampong and the river after it.<br><br>
 A funny version of the origins of the name “Ponggol” in <i>Tok Sumang</i> involves an intercultural misunderstanding. Apparently, Sumang was chopping down the trunk (<i>punggur</i>) of a rumbia tree (also called sago tree) when a white man and his Indian interpreter came to visit.
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">“Sir, wait for me at my home, for I will return in a while. I am about to finish chopping the punggor of this Rumbia,” he [Tok Sumang] said, while directing his thumb towards his house.<br><br>
