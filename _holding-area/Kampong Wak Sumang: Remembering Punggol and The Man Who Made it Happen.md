@@ -110,6 +110,47 @@ To make the stories of Wak Sumang and his contributions more accessible to the w
 
 “Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+	<b>RECIPE FOR BELACAN</b><br><br>
+	In 1973, a <i>belacan</i> scandal rocked kitchens in Malaysia and Singapore. The authorities found <i>belacan</i> from Penang adulterated with a poisonous and carcinogenic dye, the prohibited substance Rhodamine B, which was used to give it an appealing reddish hue. <br><br>
+	This may have motivated some people to make <i>belacan</i> at home, hence this recipe by a Mrs Tan Bee Neo that was published in the <i>New Nation</i> newspaper a few years later.
+<br><br>
+	<b>Ingredients:</b><br>
+	Use a Chinese tea cup as a measure.<br>
+	10 heaped cups of fresh shrimp (<i>udang geragau</i>) and a little less than one cup of salt.<br><br>
+<b>Method:</b><br>
+1. Do not wash the shrimps unless it is with fresh seawater. Sort through the shrimp to remove small fish, seaweed or other foreign matter.<br>
+2. Drain the shrimp and mix thoroughly with salt. Spread evenly on a large tray and dry in the sun for one day, or till damp-dry.<br>
+3. Pound the shrimp. The shrimps will still be moist and will easily bind into a paste. Shape into small cakes, the size of an egg and flatten. <br>
+4. Dry these in the sun for at least two days. Pound once more to get a finer paste. Re-shape into cakes and dry in the sun for two more days or more depending on the sunshine. <br>
+5. Check the texture for smoothness, you would probably have to re-pound the <i>belacan</i>.<br>
+6. When satisfied that the <i>belacan</i> is suitably fine, that is, the shrimps are indistinguishable from each other, shape the paste into cakes and leave once more in the sun for at least four days until the cakes are quite dry. <br>
+7. <i>Belacan</i> keeps well indefinitely, but be sure to dry the cakes in the sun every now and then to remove moisture that may have collected in storage. 
+<br><br>
+	<b>RECIPE FOR SAMBAL BELACAN </b><br><br>
+	This recipe is taken from Rita Zahara’s cookbook, <i>Malay Heritage Cooking</i> (2012).<br><br>
+<b>Ingredients:</b><br>
+	10g <i>belacan</i> <br>
+7 red chillies<br>
+3 red bird’s-eye chillies<br>
+Salt to taste<br>
+Sugar to taste<br>
+2 limes, juice extracted, zest thinly sliced
+	<br><br>
+<b>Method:</b><br>
+	1. Heat a small frying pan and dry-fry <i>belacan</i> for a few minutes until fragrant.<br>
+	2. Using a mortar and pestle, pound <i>belacan</i> with chillies until well combined. Remove to small bowl.<br>
+	3. Season with salt and sugar to taste. Add freshly squeezed lime juice and lime zest.<br><br>
+<img src="/images/Vol%2019%20Issue%201/Balacan/balacan_7_edit.png"><br>
+	<i>Sambal belacan</i> is a popular condiment made of chillies, belacan and lime juice. It is a must-have accompaniment to Malay, Peranakan and Eurasian dishes. <i>Courtesy of Mrs Tan Geok Lin.</i><br><br>
+	<b> REFERENCES</b><br><br>
+	“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780810-1.2.56.1">Making Belacan Is Hard Work</a>,” <i>New Nation</i>, 10 August 1978, 12. (From NewspaperSG)<br><br>
+Rita Zahara, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14231775">Malay Heritage Cooking</a></i> (Singapore: Marshall Cavendish Cuisine, 2012), 31. (From National Library, Singapore, call no. RSING 641.595957 RIT)<br><br>
+Sa’adon Ismail, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19730809-1.2.12">Belacan Yang Dijual di Sini Ada Ramuan Rhodamine B</a>,” <i>Berita Harian</i>, 9 August 1973, 12. (From NewspaperSG)<br><br>
+Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19730703-1.2.2">‘Racun Dlm Belacan’ Disiasat</a>,” <i>Berita Harian</i>, 3 July 1973, 1. (From NewspaperSG)<br><br>
+	Salma Semono, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19740315-1.2.22.1">Penggunaan Belacan Kurang Sejak Julai Lalu</a>,” <i>Berita Harian</i>, 15 March 1974, 3. (From NewspaperSG)
+</div>
+
 <b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.
 
 #### **Notes**
