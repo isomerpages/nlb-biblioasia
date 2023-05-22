@@ -46,7 +46,6 @@ The Gibson-Hill Collection comprises books on boat models as well as studies of 
 <img src="/images/Vol%204%20Issue%203/GibsonHill/photographic%20society.jpg" style="width:80%;">
  <div style="background-color: white;">Dr Carl Gibson-Hill (seated left) and Dato Loke Wan Tho (seated centre) at a Singapore Photographic Society exhibition event.</div>
 
-
 The Gibson-Hill Collection, however, has a larger number of books on ships of European and American origins namely clipper ships, sailing ships, carracks and brigs. These include the works of Herbert Warington Smyth such as *Mast and sail in Europe and Asia* (1906) and Chatterton’s *The old East Indiamen* (1914). Other books on sailing histories, such as the Andersons’ *The sailing ship* (1926) and Chatterton’s *Sailing ships* (1909), trace shipbuilding history from ancient times until the 20th century. The history of sailing is also described through the histories of shipping companies such as Ewart’s *A hundred year history of the P &amp; O Peninsular and Oriental Steam Navigation Company* (1937) and MacGregor’s (1961) account of Killick Martin &amp; Co. A number of the titles, illustrated by skilled artists, are primarily a visual survey of classic ships touching even on the art of painting ships. Chatterton’s *Old sea paintings* (1928), for instance, studies the life and works of Dutch and English painters of sailing ships between the 14th and 19th centuries. Moses’ *Sketches of shipping* (1824) has etchings of port life at Portsmouth Harbour in 19th century England and it is believed that few copies of this work are extant.
 
 #### **Of Travels and Voyages**
@@ -71,10 +70,19 @@ Early British explorations and the study of the Malay archipelagos are invariabl
 
 Davidson (1846)10 who describe the settlement between 1826 to 1840s, Keppel (1856)11 in his autobiographical accounts of his visits to Sarawak, passing through Singapore, Robertson’s *Straits memories* (1910) giving an account of Singapore’s community in the late 19th century, and Read’s graphic *Play and politics* (1901).
 
+<img src="/images/Vol%204%20Issue%203/GibsonHill/presentation.jpg" style="width:80%;">
+ <div style="background-color: white;">Marryat’s cover and an etching of Singapore inside.</div>
+
+
 
 #### **Erudite Editor**
 
 Gibson-Hill left an indelible mark as the Editor of the *Journal of the Malayan Branch of the Royal Asiatic Society*. Since the Straits Branch of the Royal Asiatic Society had established itself in the grounds of the Raffles Library and Museum in 1878, a succession of Directors had held a concurrent role as President of the Society’s Branch. During Gibson-Hill’s term, the position of editor was made separate from that of Honorary Secretary freeing him to focus on the task of editing the *Journal*. Erudite and particular to a fault, Gibson-Hill was known to add lengthy footnotes, bibliographies and maps to articles, clearly enhancing the original work. However, his diligence invariably delayed the publication of these articles, often to the annoyance of many.
+
+![](/images/Vol%204%20Issue%203/GibsonHill/walkervoyage.jpg)
+
+<img src="/images/Vol%204%20Issue%203/GibsonHill/walkervoyage.jpg" style="width:80%;">
+ <div style="background-color: white;">Walker’s Voyages and cruises (1928) are bound in GibsonHill’s unique batik covers.</div>
 
 One of his earliest tasks as editor was to compile the Journal’s first post-war index – *the Index of Volumes 1–20* (1922–1947). The index was instrumental in raising the sales of the *Journal’s* back issues and helped generate a tidy sum for the newly reinstated Society Branch. Aside from editing, Gibson-Hill also wrote extensively for the *Journal* and became the third most prolific contributor, with a total of 49 articles on various topics from the history of the region to boats and hats.12 His work showed a deep knowledge of Malaya, its culture, ethnology and natural history. More importantly, they exemplified his willingness and dogged determination in helping ferret out difficult-to-find information. For example, his detailed history of a local newspaper – *The Singapore Chronicles*, 13 and a listing of Master Attendants14 who served in Singapore between 1819 and 1867 were responses to requests for more facts on these little researched areas.15 Gibson-Hill had an innate ability to translate dry facts into living stories and transform seemingly meaningless lists, complex legislation and bureaucratic reports into gems of information and knowledge. He was also an active contributor to the *Malayan Nature Journal* and the *Bulletin of the Raffles Museum*, with whole editions dedicated to his articles. His works also appeared in the local daily, *The Straits Times*, specialised journals such as *Ibis* as well as in general titles such as *The Geographical Magazine* (London).
 
