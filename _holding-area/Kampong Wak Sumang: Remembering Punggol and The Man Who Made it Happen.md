@@ -135,7 +135,7 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 <i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="[https://go.gov.sg/tok-sumang-english](https://go.gov.sg/tok-sumang-english)\"> https://go.gov.sg/tok-sumang-english</a>
 </div></div>
 
-
+<i>Author Image</i>
 <b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.
 
 #### **Notes**
