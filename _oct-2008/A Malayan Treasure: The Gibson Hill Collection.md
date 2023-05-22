@@ -111,7 +111,7 @@ The collection comprises close to 1,000 items, with more than 600 titles which a
 
 Today, the books are located in the Closed Stacks of Level 11 of the Lee Kong Chian Reference Library. They can be accessed directly from the counter (at Level 11) or, for its titles which are considered Rare Books, accessed through its surrogates on microfilm. By the end of 2008, a catalogue of his works, with a brief analysis of selected titles and appended with his biography, will be published to assist in further exploration of this fine treasure-trove of Malayan heritage.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Dr Carl Alexander Gibson-Hill</b> (b.23 October 1911, Newcastles-upon-Tyne, England–d.18 August 1963, Singapore)<br><br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Dr Carl Alexander Gibson-Hill</b> (<i>b.23 October 1911, Newcastles-upon-Tyne, England–d.18 August 1963, Singapore</i>)<br><br>
 <b>Education</b><br>
 • Pembroke College, Cambridge: B.A., 1933<br>
 • King’s College Hospital Medical School: M.R.C.S., L. R. C. P., 1936<br><br>
