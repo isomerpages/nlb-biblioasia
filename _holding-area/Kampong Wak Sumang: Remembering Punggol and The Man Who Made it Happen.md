@@ -35,12 +35,10 @@ The Malay literary pioneer Muhammad Ariff Ahmad (writing under the pen name Mast
 
 In Muhammad Ariff’s account, Sumang is described as a talented musician. “It is surely fictitious if we say that the birds stopped flying when they heard Tok Sumang playing the violin. However, if a lady hears the melodious notes of Tok Sumang’s violin and is not halted while working, it can be said that she is not a lady,” he wrote.[^7] Sumang’s job in the court was to entertain the sultan and those around him. In addition, he was known as a healer and wiseman.[^8]
 
-Sumang’s skill as a musician, unfortunately, led to a tricky situation because his violin playing enchanted the sultan’s daughter, who asked to marry him.[^9] Sumang, who was already married with three sons, fled the Lingga court with his family to avoid a scandal. 
+Sumang’s skill as a musician, unfortunately, led to a tricky situation because his violin playing enchanted the sultan’s daughter, who asked to marry him.[^9] Sumang, who was already married with three sons, fled the Lingga court with his family to avoid a scandal. However, his great-grandson Jusoh Ahmad told the *Berita Minggu* newspaper in 1983 that it was the sultan’s concubine, and not the daughter, who wanted to marry Sumang. According to Jusoh, “Wah Soomang was unable to return her affections, however, as he was afraid that this would anger the king. And once again, he journeyed to another land to start a new life”.[^10]
 
 ![](/images/Vol%2019%20Issue%202/Tok%20Sumang/plays%20violin.jpg)
 <div style="background-color: white;">Wak Sumang playing the violin as the princess watches. <i>Image reproduced from Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957), 19. (From BookSG; accession no. B29234707A).</i></div>
-
-However, his great-grandson Jusoh Ahmad told the *Berita Minggu* newspaper in 1983 that it was the sultan’s concubine, and not the daughter, who wanted to marry Sumang. According to Jusoh, “Wah Soomang was unable to return her affections, however, as he was afraid that this would anger the king. And once again, he journeyed to another land to start a new life”.[^10]
 
 While Mastomo’s *Tok Sumang* suggests that Kampong Wak Sumang was established in the 1850s or 1860s, an 1852 map of Singapore, based on surveys conducted between 1841 and 1845, shows a Malay community around Punggol Point from as early as the 1840s.[^11]
 
