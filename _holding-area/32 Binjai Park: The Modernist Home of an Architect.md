@@ -11,19 +11,18 @@ By Lim Tin Seng and Lee Peng Hui
 ![](/images/Vol%2019%20Issue%202/Brinjai/image_1.png)
 <div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image2.png)
+<div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
 Significant buildings in Singapore tend to fall into a few well-known categories. There are colonial-era buildings typically in the neoclassical style, like the former Supreme Court or the old Parliament House. Then there are stunning modern ones like Jewel Changi Airport, Marina Bay Sands and Esplanade – Theatres on the Bay. Not many of them, however, are 1970s homes located in leafy suburbs. Then again, not many buildings can claim to be the family home of the late architect and conservationist Lee Kip Lin.[^1]
 
 Designed by Lee and built in 1973, the house at 32 Binjai Park has been designated as a significant modernist building in Singapore.[^2]
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image2.png)
-<div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
-
 From the street, the 3,800-square-foot home (353 sqm) is unassuming, with its white-painted brick and plaster walls, and sloping, red-tiled roof. Although it does not stand out visually from its neighbours, it is when one walks through the front door that the unique qualities of the house are revealed.
-
-The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
 
 ![](/images/Vol%2019%20Issue%202/Brinjai/image3.png)
 <div style="background-color: white;">A recent photograph of the house taken from the front gate looking into the car porch, 2022. <i>Courtesy of Dr Lee Peng Hui.</i></div>
+
+The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
 
 The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.[^3] Wild chickens can be seen pecking away, while the pet cat lazes nearby.
 
