@@ -104,6 +104,10 @@ In spite of his severe short-sightedness, Gibson-Hill’s photographs and techni
 
 The bush jacket he frequently wore was often packed with lenses, films and notebooks, the last filled with details of his photographs. He was also known to, at the spur of the moment, jump into his station wagon and take off on expeditions. His secretary Eileen Lee remembers21 that these included pit stops at the Kallang River to barter for hats from Indonesian boatmen while at the same time studying their unique watercrafts. Sometimes the expeditions went further afield to the Johore River for archaeological digs or to take photographs of ancient monuments. Often, Lee would assist him on these journeys, holding on to his trusted Nikon.
 
+<img src="/images/Vol%204%20Issue%203/GibsonHill/bookplate.jpg" style="width:50%;">
+ <div style="background-color: white;">The only book plate of Gibson-Hill found in the title<i> Practical taxidermy</i> (1922) by Montagu Brown.
+	</div>
+
 The photographs taken were sometimes used for Gibson-Hill’s illustrations. These sketches were generally in pen and ink but sometimes drawn to life-size proportions. The works were scientific representations rather than artistic pieces. He illustrated almost all his articles, drawing birds, animals, boats, maps and artefacts. His interest in illustrations is reflected in his Collection of books, for instance in the beautiful works by animal artists such as Tunnicliffe.22 His eye for art and imagery along with his scholarly bent naturally led him to organise the rich collection of historical paintings and prints in the Raffles Museum. He was credited in Teo, Chong &amp; Oh’s publication *Nineteenth century prints of Singapore* (1987) for tracing the provenance and topographical details of these early artwork of Singapore.
 
 #### **A Quiet Escape**
