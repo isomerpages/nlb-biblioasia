@@ -168,7 +168,7 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 
 #### **Notes**
 
-[^1]: Kamsiah Abdullah, et al., eds., [Malay Heritage of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13768339) (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-\[HIS\])
+[^1]: Kamsiah Abdullah, et al., eds., [_Malay Heritage of Singapore_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13768339) (Singapore: Suntree Media in Association with Malay Heritage Foundation, 2010), 91. (From National Library, Singapore, call no. RSING 959.570049928 MAL-\[HIS\])
 
 [^2]: Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
