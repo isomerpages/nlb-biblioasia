@@ -53,7 +53,7 @@ Perhaps the most important takeaway from <i>Tok Sumang</i> is its inherent story
 
 Therefore, a critical and creative lens is needed when consuming any text, including <i>Tok Sumang</i>. I am hopeful that through this work, readers will be able to tease out more value and meaning that are unique to them and that would enrich their lives.<br>
 
-The National Library Board has digitised the original book, which can be accessed [here](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx).
+The National Library Board has digitised the original book, which can be accessed <a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">here</a>.
 
 Ahmad Ubaidillah<br>
 April 2023</div>
