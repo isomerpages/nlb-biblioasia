@@ -28,10 +28,10 @@ The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most
 
 At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*) emerge from within the frame of the sliding doors of the dining rooms where they have made their nests. They leave their hideaway to hunt before returning to roost at dawn. In the garden near the veranda is a wall made from red bricks salvaged from the former Raffles Institution building on Bras Basah Road.
 
+Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
+
 ![](/images/Vol%2019%20Issue%202/Brinjai/image4.png)
 <div style="background-color: white;">Lee Kip Lin and his architecture students at his Binjai Park home, 1970s. <i>Courtesy of Mrs Lee Li-ming.</i></div>
-
-Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
 
 #### **A True Modernist**
 
