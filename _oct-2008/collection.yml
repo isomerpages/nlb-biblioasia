@@ -2,6 +2,7 @@ collections:
   oct-2008:
     output: true
     order:
+      - "A Malayan Treasure: The Gibson Hill Collection.md"
       - Director's Column.md
       - Interactions Between Uplands and Lowlands Through the ‘Riverine Exhange
         Network’.md
