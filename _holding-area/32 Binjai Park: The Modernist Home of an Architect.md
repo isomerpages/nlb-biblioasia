@@ -45,9 +45,6 @@ She noted that most people preferred double-storey houses, which made Lee’s ho
 
 Lee purchased the plot of land at Binjai Park in the early 1960s but he only started making plans to design and build a house on it in the latter half of the decade when he decided to move out from his family home on Amber Road. 
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image7.png)
-<div style="background-color: white;">The ground-floor plan of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
-
 The house in Binjai Park is very different from the Amber Road one. That was a two-storey seafront house, also designed by Lee after the earlier house on the same site was demolished in 1960. Only a wall with a gate stood between the garden and the beach. 
 
 In the Amber Road house, the dining room, kitchen and servants’ quarters were on the first floor. The living room, however, was on the second floor, and it opened to an extensive balcony. The balcony afforded panoramic views of the sea, ships and the Riau Islands beyond, which would not have been possible if the living room had been located on the first floor. From the balcony, Lee would often peer out, armed with a pair of binoculars. 
@@ -59,6 +56,9 @@ Lee was very attached to Katong. He loved the sea and might never have left Ambe
 In designing his new home, Lee based the proportions of the house on a square grid, or module. This can be seen in the ground-floor plan of the house.
 
 According to Tse, Lee revised the design concept of the house at least three times. The earlier designs featured a more basic grid layout. She said that when Lee first started planning, the house had an even simpler design. However, over time, he added new features like a garden and later a courtyard for ventilation. “If he didn’t have a courtyard, it would have been a large area with no lighting and no air and it would be very stuffy,” she said. “But you can’t see the courtyard from outside because of the veranda.”[^9]
+
+![](/images/Vol%2019%20Issue%202/Brinjai/image7.png)
+<div style="background-color: white;">The ground-floor plan of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 At one point, the house was even meant to be double-storey. But in the final design, it was reduced to one storey with a loft. From the outside though, the loft is not apparent. “The loft was just a small area above the entrance area,” she said. “But the look of the house is single storey, and if you look from outside, you do not know there is a loft.”[^10]
 
