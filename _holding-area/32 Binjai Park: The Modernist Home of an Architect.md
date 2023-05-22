@@ -28,6 +28,9 @@ The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most
 
 At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*) emerge from within the frame of the sliding doors of the dining rooms where they have made their nests. They leave their hideaway to hunt before returning to roost at dawn. In the garden near the veranda is a wall made from red bricks salvaged from the former Raffles Institution building on Bras Basah Road.
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image4.png)
+<div style="background-color: white;">Lee Kip Lin and his architecture students at his Binjai Park home, 1970s. <i>Courtesy of Mrs Lee Li-ming.</i></div>
+
 Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
 
 #### **A True Modernist**
@@ -35,9 +38,6 @@ Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, desc
 Associate Professor Tse Swee Ling from the Department of Architecture at the National University of Singapore described Lee’s design approach as pure and down-to-earth. “He did not do fanciful things like the post-modernists with a lot of decorations,” she said. “He did not believe in all that.”[^6]
 
 Tse had worked with Lee on many projects since the 1960s, including 32 Binjai Park. She pointed out that Lee’s home embodies his design philosophy. “The distinctive feature [of 32 Binjai Park] is the simplicity of the design,” she said. “The layout and setting are based on a simple square grid with recesses and void carved out. It is practically a single storey house except for the loft.”[^7]
-
-![](/images/Vol%2019%20Issue%202/Brinjai/image4.png)
-<div style="background-color: white;">Lee Kip Lin and his architecture students at his Binjai Park home, 1970s. <i>Courtesy of Mrs Lee Li-ming.</i></div>
 
 She noted that most people preferred double-storey houses, which made Lee’s home distinctive. The house is also notable for eschewing ostentatious flourishes. “In those days, in the area, which was a rich man’s area, the houses built there were much more elaborate,” she noted. While others used marble, Lee chose normal floor tiles. “I still remember he brought the tiles and showed me. He said, ‘I found these tiles. They are very nice for my house. What do you think? What do you think?’… He was so happy when he found the tiles.”[^8]
 
