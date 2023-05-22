@@ -28,7 +28,7 @@ Like many indigenous communities, Wak Sumang’s history has been passed down pr
 
 Wak Sumang (also known as Wah Soomang, Wah Sumang, Tok Sumang and Che Soman) is believed to have landed on Punggol Beach in the mid-1800s. He came from the Riau Islands, likely Daik. While he is generally said to have been Javanese, at least one source says he was Bugis.[^4]
 
-The Malay literary pioneer Muhammad Ariff Ahmad (writing under the pen name Mastomo) wrote a story of Sumang’s life titled Tok Sumang, which was published in 1957. The work details the exploits of Sumang in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) during the time of the Pahang Civil War (1857–63).[^5] Muhammad Ariff based the book on stories he had heard from descendants of Wak Sumang while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School).[^6] 
+The Malay literary pioneer Muhammad Ariff Ahmad (writing under the pen name Mastomo) wrote a story of Sumang’s life titled _Tok Sumang_, which was published in 1957. The work details the exploits of Sumang in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) during the time of the Pahang Civil War (1857–63).[^5] Muhammad Ariff based the book on stories he had heard from descendants of Wak Sumang while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School).[^6] 
 
 ![](/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover.jpg)
 <div style="background-color: white;">A story of Wak Sumang by Muhammad Ariff Ahmad, writing under the pen name Mastomo. <i>Image reproduced from Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957). (From BookSG; accession no. B29234707A).</i></div>
