@@ -112,7 +112,10 @@ Today, the books are located in the Closed Stacks of Level 11 of the Lee Kong Ch
 • Pembroke College, Cambridge: B.A., 1933<br>
 • King’s College Hospital Medical School: M.R.C.S., L. R. C. P., 1936<br><br>
 <b>Medical Appointments</b><br>
-• Medical Officer, Christmas Island: 1938–1940<br> • Medical Officer, Cocos-Keeling Islands: 1941<br> • Health Officer, Rural Areas, Singapore Island: 1941–1942<br> • Health Officer, Oil tanker: March, 1946<br> • Acting Professor of Biology, College of Medicine: 12 July 1948–21 June 1950
+• Medical Officer, Christmas Island: 1938–1940<br> • Medical Officer, Cocos-Keeling Islands: 1941<br> • Health Officer, Rural Areas, Singapore Island: 1941–1942<br> • Health Officer, Oil tanker: March, 1946<br> • Acting Professor of Biology, College of Medicine: 12 July 1948–21 June 1950<br><br>
+<b>Raffles Museum</b><br> • Assistant Curator: 1942<br> • Internee, Singapore: 1942–1945<br> • Assistant Curator of Zoology: 1947–1948<br> • Curator of Zoology: 1949–1956<br> • Director: 1957–1963<br><br>
+<b>Malayan Branch, Royal Asiatic Society</b><br> • Member: 1940<br> • Asst. Hon. Secretary &amp; Treasurer: 1947–1948<br> • Hon. Secretary: 1950–1955<br> • Hon. Editor: 1948–1961<br> • President: 1956–1961<br><br>
+<b>Other Appointments</b><br> • Member, Royal College of Surgeons and Licentiate of the Royal College of Physicians: 1936<br> • Malayan representative, Colonial Insecticides Committee: 1949<br> • Member, Committee of the Malayan Nature Society: 1950<br> • Permanent member, Standing Committee on Distribution of Terrestrial Faunas in the Inner Pacific: 1950<br> • Member, International Committee, International Ornithological Congress<br> • Corresponding Fellow, American Ornithologists’ Union: 1951<br> • Vice-President, Singapore Camera Club: 1952<br> • President, Singapore Photographic Society: 1953<br> • Chairman, Singapore Arts Society: 1949–1953
 </div>
 <br><br>
 
