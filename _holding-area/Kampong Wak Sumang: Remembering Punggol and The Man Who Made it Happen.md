@@ -65,11 +65,17 @@ According to Mastomo’s *Tok Sumang*, one day in 1890, a government official ar
 
 Instead of accepting the government payout, Long Amat proposed that they ask the government to guarantee that their land would not be taxed so that their descendants could live there freely for many generations to come.[^21] This arrangement would prevail for almost 100 years before Sumang’s descendants traded kampong life for high-rise living in the 1980s.[^22]
 
-Apart from the kampong, the former Masjid Wak Sumang at Track 26 of the old Punggol Road also bore Sumang’s name. The mosque started out as a shrine by the sea, which Sumang erected when he arrived in Punggol.[^23] Over time, as the shrine deteriorated, it was demolished and Masjid Wak Sumang was built with the help of the community after World War II. Reginald Schooling, a retired foreman with the Royal Air Force who had lived in Punggol since 1948, told the *Straits Times*     in 1984 that everyone pitched in to help. “When the villagers needed a mosque we all contributed what we could. I donated $200. Some gave bricks, some gave cement and wood, while others contributed an hour or two of their time.”[^24]
+<i>image of rumah</i>
+
+Apart from the kampong, the former Masjid Wak Sumang at Track 26 of the old Punggol Road also bore Sumang’s name. The mosque started out as a shrine by the sea, which Sumang erected when he arrived in Punggol.[^23] Over time, as the shrine deteriorated, it was demolished and Masjid Wak Sumang was built with the help of the community after World War II. Reginald Schooling, a retired foreman with the Royal Air Force who had lived in Punggol since 1948, told the *Straits Times* in 1984 that everyone pitched in to help. “When the villagers needed a mosque we all contributed what we could. I donated $200. Some gave bricks, some gave cement and wood, while others contributed an hour or two of their time.”[^24]
+
+<i>image of masjid</i>
 
 Masjid Wak Sumang served as an epicentre of religious activity as well as a meeting point for villagers and visiting political heads who wished to meet the people of the kampong.[^25] Interestingly, one such visitor was Richard Nixon, who was then vice-president of the United States. He visited Punggol Point as the first stop in a tour of rural areas during his 1953 visit to Singapore.[^26]
 
 Sumang and his wife Gobek were buried near the grounds of Masjid Wak Sumang.[^27] When the mosque was demolished to make way for redevelopment in 1995, the couple’s remains were exhumed and reburied at Jalan Bahar Muslim Cemetery.[^28] Some of the items that belonged to the mosque – such as drums, prayer mats, prayer schedules, the sermon stick and mosque pulpit – were taken into the repositories of the National Museum of Singapore and the Asian Civilisations Museum.[^29] Staff from the National Archives of Singapore also took photographs of the area and conducted oral history interviews. One of these interviews was with Awang Osman (1906–90), the village *penghulu* (headman or chief).[^30]
+
+<i>Awang osman picture</i>
 
 #### **Changing Communities**
 
@@ -83,15 +89,21 @@ When the Japanese Occupation ended, residents rebuilt Kampong Wak Sumang with th
 
 A new phase of Kampong Sumang’s history began after the kampong took in refugees from three villages in Johor – Ayer Biru, Pasir Merah and Pulau Tukang – during the Japanese Occupation and the Malayan Emergency (1948–60).[^36] The Johoreans settled inland and were called *orang darat* (land people), while the original inhabitants and descendants of Wak Sumang referred to themselves as *orang laut* (sea people).[^37] Their nickname notwithstanding, the Johoreans actually spent most of their time out at sea. Being skilled fishermen, their arrival kick-started the *kupang* (mussel) trade in the kampong. Shelling was done by hand and it took around six to eight people three hours to shell a full sampan (a small boat with a flat bottom) load of mussels.[^38]
 
+<i>image of shelling kupang</i>
+
 “Whenever you see a lot of smoke coming out from my house, it means good business. I use pieces of wooden planks from a nearby dumping ground as firewood – that’s why it’s so smoky,” mussel farmer Jantan Rani told the *Straits Times* in 1984. Mussel farmers could earn double what they used to make as fishermen in a day. However, the widespread use of fire had its dangers. In 1981, Jantan Rani’s house caught fire and burned down. “I returned home to find my wife crying and my house in ashes. We lost everything, furniture, refrigerator, television and all.”[^39]
 
 As the community grew, the villagers in Kampong Wak Sumang decided to build a Malay School – Sekolah Melayu Ponggol – to educate the younger generations. It opened in 1955 with funds raised through the Rotary Club and other private donors.[^40] In 1963, the school was taken over by the government and moved to Track 13.[^41]
+
+<i>image of melayu school</i>
 
 #### **Developing Punggol**
 
 In the 1960s, Kampong Wak Sumang welcomed piped water, electricity, paved roads and drainage systems. Punggol Point was also becoming well known for its open-air seafood restaurants and boatels (boat storage and water sports centres). Besides providing docking facilities for pleasure boats when not in use, these boatels also rented out boats for water skiing, fishing and sightseeing activities. People would come from all over Singapore to soak in the sea breeze, enjoy delicious seafood and take part in water sports. Punggol Point became a popular recreational spot for locals and tourists.[^42]
 
 The residents of Kampong Wak Sumang were part of the thriving scene. Some like Awang Abdullah, whose nickname was Awang Pendek, ran a boatel business. Others sold their fishing catch to seaside restaurants and hotels and also at nearby markets in Kangkar and Punggol.[^43]
+
+<i>image of awang abdullah boatel</i>
 
 The idyllic kampong life, however, would ultimately come to an end. In 1983, the government announced that it would be undertaking a reclamation project for future housing needs in Punggol. Some 277 hectares of land would be reclaimed off the Punggol coastline over the next three years at a cost of $136 million.[^44] Residents of Kampong Wak Sumang, as well as Punggol Point’s famous seafood restaurants and boatels, were asked to vacate their premises by 1986.[^45]
 
@@ -104,11 +116,15 @@ Those who owned boatels stayed behind to faithfully watch over their clients’ 
 
 “My brother, my brother-in-law and I will be staying behind to take turns to keep an eye on the boats,” said Jimat Awang when he was interviewed by the *New Paper* in September 1994. This was even though his main office building, the two huts where the family slept in, and his store had been torn down. Zainal Jantan said that “he and a few friends would also be watching over his 40 to 50 boats” and “sleep in a small hut that had not been demolished, but the rest of his family would be returning to their Hougang flat”.[^49] 
 
+<i>image of stilt houses</i>
+
 #### **Revisiting Punggol**
 
 Although Kampong Wak Sumang no longer exists today, its legacy lives on in the stories of the people who once called it home.
 
 The National Library Board (NLB) is showcasing some of these stories at Singaporium – a permanent exhibition space located at level four of the new Punggol Regional Library – to bring its heritage collections closer to the community. The inaugural exhibition, “Punggol Stories”, features the *Tok Sumang* book by Muhammad Ariff Ahmad as well as memories collected from former Punggol residents, including those who used to live in Kampong Wak Sumang.
+
+<i>image of punggol stories</i>
 
 To make the stories of Wak Sumang and his contributions more accessible to the wider community, Ahmad Ubaidillah – whose mother Rohaida Ismail is a descendant of Wak Sumang and grew up in Kampong Wak Sumang – has translated *Tok Sumang* into English (read the original Malay digitised text on BookSG, while the English translated version can be accessed on the BiblioAsia website). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
 
@@ -135,8 +151,10 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 <i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="[https://go.gov.sg/tok-sumang-english](https://go.gov.sg/tok-sumang-english)\"> https://go.gov.sg/tok-sumang-english</a>
 </div></div>
 
-<i>Author Image</i>
-<b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.
+<div style="background-color: white;">
+<br>
+<img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
+<b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.</div>
 
 #### **Notes**
 
