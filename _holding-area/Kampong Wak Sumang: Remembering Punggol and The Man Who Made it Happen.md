@@ -89,7 +89,8 @@ When the Japanese Occupation ended, residents rebuilt Kampong Wak Sumang with th
 
 A new phase of Kampong Sumang’s history began after the kampong took in refugees from three villages in Johor – Ayer Biru, Pasir Merah and Pulau Tukang – during the Japanese Occupation and the Malayan Emergency (1948–60).[^36] The Johoreans settled inland and were called *orang darat* (land people), while the original inhabitants and descendants of Wak Sumang referred to themselves as *orang laut* (sea people).[^37] Their nickname notwithstanding, the Johoreans actually spent most of their time out at sea. Being skilled fishermen, their arrival kick-started the *kupang* (mussel) trade in the kampong. Shelling was done by hand and it took around six to eight people three hours to shell a full sampan (a small boat with a flat bottom) load of mussels.[^38]
 
-<i>image of shelling kupang</i>
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/kupang.jpg)
+<div style="background-color: white;">Villagers shelling kupang (mussels) at Kampong Wak Sumang, 1985. Often, entire families would be involved in the deshelling process. <i>Courtesy of National Archives of Singapore.</i></div>
 
 “Whenever you see a lot of smoke coming out from my house, it means good business. I use pieces of wooden planks from a nearby dumping ground as firewood – that’s why it’s so smoky,” mussel farmer Jantan Rani told the *Straits Times* in 1984. Mussel farmers could earn double what they used to make as fishermen in a day. However, the widespread use of fire had its dangers. In 1981, Jantan Rani’s house caught fire and burned down. “I returned home to find my wife crying and my house in ashes. We lost everything, furniture, refrigerator, television and all.”[^39]
 
