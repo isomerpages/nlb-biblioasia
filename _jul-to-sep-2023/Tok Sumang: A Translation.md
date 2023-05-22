@@ -15,7 +15,7 @@ Translated by Ahmad Ubaidillah<br>
 
 <div font-size="larger&quot;" style="background-colour:#fffce7; padding:10px; margin: 0px; font-size:110%; background: #fffce7"><b>Introduction </b><br>
 
-My fate was intertwined with Punggol long before I was born. When I was a young boy, no older than nine or ten, my maternal relatives would often have picnics and gatherings on Punggol Beach. This was before development works there, so all that the beach had was white sand peppered with boulders, and the long crusty jetty that jutted out into the sea. The adults would sit by the shore under the swaying branches of trees, while my cousins and I swam and raced along the beach, building sandcastles and digging holes in the sand just for the fun of it. 
+My fate was intertwined with Punggol long before I was born. When I was a young boy, no older than nine or ten, my maternal relatives would often have picnics and gatherings on Punggol Beach. This was before development works there, so all that the beach had was white sand peppered with boulders, and the long crusty jetty that jutted out into the sea. The adults would sit by the shore under the swaying branches of trees, while my cousins and I swam and raced along the beach, building sandcastles and digging holes in the sand just for the fun of it. <br>
 
 As a young boy, these outings were significant for many reasons. They formed the core memories of my childhood. Even today, I still remember the impressions that Punggol Beach left upon me in my formative years: the blistering heat that made my skin prickle, the lulling sea breeze and its salty scent, and the sunburns when we did not apply enough sunblock. I also vividly remember my grandmother perched by the old jetty holding onto a small circular fishing rod, her hands deftly twirling the string whenever she felt a tug. 
 
@@ -47,9 +47,9 @@ The answers to such questions lie in our ability and willingness to internalise 
 
 	To me, <i>Tok Sumang</i> can be used as a medium to appreciate the history and traditions of Malay culture and, at the same time, transmit the values and ethos of the culture. Celebrations, decorations and attire are but superficial markers of one’s identity. Though important, what substantially defines an identity lies in the values and principles of a culture, which in turn have been shaped by history, events and people. 
 
-	Through <i>Tok Sumang</i>, we find a connection to the wider Nusantara region that is often forgotten today. We are reminded of the feudal links in Malay history, whose remnants can still be found in our local context. 
+Through <i>Tok Sumang</i>, we find a connection to the wider Nusantara region that is often forgotten today. We are reminded of the feudal links in Malay history, whose remnants can still be found in our local context. 
 
-	Perhaps the most important takeaway from <i>Tok Sumang</i> is its inherent storytelling nature. In a world that is increasingly finding value in data and statistics, we must not lose sight of the value of tales and stories. Although we are unable to verify the historicity of this work, this is the unique value of historical fiction: It allows the creative spirit to roam in a spacious field bordered by facts and reality. 
+Perhaps the most important takeaway from <i>Tok Sumang</i> is its inherent storytelling nature. In a world that is increasingly finding value in data and statistics, we must not lose sight of the value of tales and stories. Although we are unable to verify the historicity of this work, this is the unique value of historical fiction: It allows the creative spirit to roam in a spacious field bordered by facts and reality. 
 
 Therefore, a critical and creative lens is needed when consuming any text, including <i>Tok Sumang</i>. I am hopeful that through this work, readers will be able to tease out more value and meaning that are unique to them and that would enrich their lives.
 
