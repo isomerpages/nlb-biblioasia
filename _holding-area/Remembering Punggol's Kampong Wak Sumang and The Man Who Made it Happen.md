@@ -193,7 +193,7 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 
 [^12]: [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 23.
 
-[^13]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang
+[^13]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang
 
 [^14]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), interview, Reel/Disc 27 of 30, 344; [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), interview, Reel/Disc 1 of 44, 9.35–11.58.
 
