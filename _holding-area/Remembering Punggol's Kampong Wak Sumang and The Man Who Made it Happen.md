@@ -162,7 +162,7 @@ The National Archives, UK,
 </div>
 	
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> 
-<i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="[https://go.gov.sg/tok-sumang-english](https://go.gov.sg/tok-sumang-english)\"> https://go.gov.sg/tok-sumang-english</a>
+<i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="https://go.gov.sg/tok-sumang-english"> https://go.gov.sg/tok-sumang-english</a>
 </div>
 
 <div style="background-color: white;">
