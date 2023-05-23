@@ -154,7 +154,7 @@ Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, t
 Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 25.50–26.22, 28.30–29.40, National Archives of Singapore (accession no. 001597). <br><br>
 Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023,
 	<a href="https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266"> https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266</a>; Sarafian Salleh, correspondence, April 2023. <br><br>
-The National Archives, UK, <i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
+The National Archives, UK, <a><i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i></a>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
 “What’s in a Name,” Straits Times, 14 August 1990, 7. (From NewspaperSG)<br><br>
 </div>
 	
@@ -164,7 +164,7 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/hannahyeo.png">
 <b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.</div>
 
 #### **Notes**
