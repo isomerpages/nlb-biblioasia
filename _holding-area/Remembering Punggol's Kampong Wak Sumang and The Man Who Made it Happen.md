@@ -149,7 +149,7 @@ A funny version of the origins of the name “Ponggol” in <i>Tok Sumang</i> in
 Tok Sumang was unable to comprehend what the interpreter explained to the white man, but he heard the white man repeatedly saying, “Ponggor… Ponggol…”
 </div>
 	<b> REFERENCES</b><br><br>
-<a href="https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html">Awang Bin Osman</a>,
+<a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html">Awang Bin Osman</a>,
 oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
 Mastomo, 
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">
