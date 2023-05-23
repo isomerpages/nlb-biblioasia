@@ -174,7 +174,7 @@ The National Archives, UK, <i>Plan of the Island of Singapore Including the New 
 
 [^3]: This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx) (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A)
 
-[^4]: “[What’s in a Name](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7),” _Straits Times,_ 14 August 1990, 7 (From Newslink via NLB’s eResources website); Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
+[^4]: “[What’s in a Name](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7),” _Straits Times,_ 14 August 1990, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
 [^5]: “[Pahang Civil War Breaks out](https://eresources.nlb.gov.sg/history/events/e0ab6637-5e31-4d23-8617-d2dacb1aa842),” in _HistorySG_, &nbsp;National Library Board Singapore. Article published 2014.
 
