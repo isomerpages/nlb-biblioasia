@@ -149,7 +149,7 @@ A funny version of the origins of the name “Ponggol” in <i>Tok Sumang</i> in
 Tok Sumang was unable to comprehend what the interpreter explained to the white man, but he heard the white man repeatedly saying, “Ponggor… Ponggol…”
 </div>
 	<b> REFERENCES</b><br><br>
-Awang Bin Osman, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
+<a>Awang Bin Osman</a>, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
 	Mastomo, <i>Tok Sumang</i> (Singapore: Geliga Limited, 1957), 33. (From BookSG)<br><br>
 Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 25.50–26.22, 28.30–29.40, National Archives of Singapore (accession no. 001597). <br><br>
 Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023,
@@ -164,7 +164,7 @@ The National Archives, UK, <a><i>Plan of the Island of Singapore Including the N
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/hannahyeo.png">
+<img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
 <b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.</div>
 
 #### **Notes**
