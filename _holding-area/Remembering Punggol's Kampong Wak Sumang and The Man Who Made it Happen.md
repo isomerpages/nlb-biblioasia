@@ -156,10 +156,8 @@ Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada
 	<a href="https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266"> https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266</a>; Sarafian Salleh, correspondence, April 2023. <br><br>
 The National Archives, UK, <i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
 “What’s in a Name,” Straits Times, 14 August 1990, 7. (From NewspaperSG)<br><br>
-
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> 
-<i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="[https://go.gov.sg/tok-sumang-english](https://go.gov.sg/tok-sumang-english)\"> https://go.gov.sg/tok-sumang-english</a>
-</div></div>
+<i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="[https://go.gov.sg/tok-sumang-english](https://go.gov.sg/tok-sumang-english)\"> https://go.gov.sg/tok-sumang-english</a><br><br>
+</div>
 
 <div style="background-color: white;">
 <br>
