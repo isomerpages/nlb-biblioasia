@@ -149,7 +149,7 @@ A funny version of the origins of the name “Ponggol” in <i>Tok Sumang</i> in
 Tok Sumang was unable to comprehend what the interpreter explained to the white man, but he heard the white man repeatedly saying, “Ponggor… Ponggol…”
 </div>
 	<b> REFERENCES</b><br><br>
-<a>Awang Bin Osman</a>, oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
+[Awang Bin Osman](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
 	Mastomo, <i>Tok Sumang</i> (Singapore: Geliga Limited, 1957), 33. (From BookSG)<br><br>
 Mohd Amin Bin Abdul Wahab (Haji), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 25.50–26.22, 28.30–29.40, National Archives of Singapore (accession no. 001597). <br><br>
 Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023,
