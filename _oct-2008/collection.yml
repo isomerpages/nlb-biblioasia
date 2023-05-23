@@ -2,6 +2,7 @@ collections:
   oct-2008:
     output: true
     order:
+      - 林光挺文献集简介.md
       - "A Malayan Treasure: The Gibson Hill Collection.md"
       - Director's Column.md
       - Interactions Between Uplands and Lowlands Through the ‘Riverine Exhange
