@@ -157,8 +157,8 @@ Mastomo,
 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/424f611c-115e-11e3-83d5-0050568939ad">Mohd Amin Bin Abdul Wahab (Haji)</a>, oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 25.50–26.22, 28.30–29.40, National Archives of Singapore (accession no. 001597). <br><br>
 Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023, https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266; Sarafian Salleh, correspondence, April 2023. <br><br>
 The National Archives, UK, 
-<a href="www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e43d667-d90f-11e9-90d4-001a4a5ba61b"><i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i></a>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
-“<a href="eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7">What’s in a Name</a>,” Straits Times, 14 August 1990, 7. (From NewspaperSG)<br><br>
+<a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e43d667-d90f-11e9-90d4-001a4a5ba61b"><i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i></a>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
+“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7">What’s in a Name</a>,” Straits Times, 14 August 1990, 7. (From NewspaperSG)<br><br>
 </div>
 	
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> 
