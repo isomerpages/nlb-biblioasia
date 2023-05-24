@@ -100,9 +100,9 @@ In Chinese culinary symbolism, 鱼 (<i>yu</i>; fish) is frequently conflated wit
 <br><br>
 Like a layered Tang-dynasty poem where each noun is a palimpsest for something more pertinent, many Chinese dishes and their ingredients are specially selected for their ability to engender good fortune. Even the humble deep-fried bits, in the hue and shape of "golden pillows", belie a greater hope of 满地黄金 <i>man di huang jin</i>, that is, floors full of gold. Traditionally, the addition of each ingredient to <i>yu sheng</i> is accompanied by the recitation of a specific 成语 (<i>cheng yu</i>), a four-character idiom.
 	<br><br>
-<i>Yu sheng</i> is not for the shy and retiring. The partaking of the dish is as much about the ritual as the consumption. During the ensuing melee, diners might find themselves losing a chopstick, pelted in the eye by a peanut shrapnel, or worse, have their new clothes stained by plum sauce.
+<i>Yu sheng</i> is not for the shy and retiring. The partaking of the dish is as much about the ritual as the consumption. During the ensuing melee, diners may find themselves losing a chopstick, pelted in the eye by a peanut shrapnel or, worse, have their new clothes stained by plum sauce.
 	<br><br>
-	<i>Yu sheng</i> has become a Lunar New Year staple and it has become so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period - not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> have been replaced with salmon, lobster and abalone.
+<i>Yu sheng</i> has become a Lunar New Year staple and so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period, not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> may also be replaced with salmon, lobster or abalone.
 </span>
 
 
@@ -116,18 +116,18 @@ Like a layered Tang-dynasty poem where each noun is a palimpsest for something m
 
    
 
-Holtzman, J.D. (2006). Food and memory. _Annual Review of Anthropology, 35_, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology*, *35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 
 
 	
 Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
 
-Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
+Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com website.
 
 Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor &amp; Francis Online website.
 
-Mints, S.W., &amp; Du Bois, C.M. (2002). The anthropology of food and eating. Annual review of Anthropology, 31, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Mints, S.W., &amp; Du Bois, C.M. (2002). The anthropology of food and eating. *Annual review of Anthropology*, *31*, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
 
@@ -135,9 +135,9 @@ Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and 
 
 Singapore Tourism Board. (n.d.). *Faces of Singapore*. Retrieved from visitsingapore.com website. 
 
-Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*, p. 48. Retrieved from New Yorker.com website.
+Trillin, C. (2007, September 3). Singapore journal: Three chopsticks. *The New Yorker*, p. 48. Retrieved from New Yorker.com website.
 
-Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. *American Anthropologist, 101* (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Wilk, R.R. (1999, June). Real Belizean food: Building local identity in the transnational Caribbean. *American Anthropologist, 101* (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
