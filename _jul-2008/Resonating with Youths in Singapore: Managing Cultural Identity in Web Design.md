@@ -94,3 +94,74 @@ This research is exploratory in nature as the framework of ‘East Asian Identit
 Future study should also take into consideration the textual analysis and marketing strategies of MediaCorp. It would comprise comprehensive quantitative analysis that evaluates design appeal and cultural appropriateness of website design among Singapore youths. Nevertheless, the findings of these results will contribute to the existing, yet ever-expanding research studies in design typologies and investigation into the context of a diverse Chinese culture and its experiences.
 
 ***The author wishes to acknowledge the contributions of Associate Professor L. K. Chan, Director of Postgraduate Research, College of Fine Arts, University of New South Wales, Associate Professor Brenda Chan, Division of Communication Research, Wee Kim Wee School of Communication and Information, Nanyang Technological University in reviewing the paper, and Jeff Tan, a freelance writer, for editing the paper.***
+
+<div>
+<center><b>Soh Choi Yin</b><br> Lee Kong Chian Research Fellow<br>  National Library</center> </div>
+
+#### **REFERENCES**
+
+Aaron Marcus, _Graphic Design for Electronic Documents and User Interfaces_ (New York: ACM Press, 1992)
+
+Adrian Frutiger, _Signs and Symbols: Their Design and Meaning_ (New York: Van Nostrand Reinhold, 1989)
+
+“Channel 8 Website (Chinese),” MediaCorp Pte Ltd, accessed 15 September 2007, https://www.mediacorp.sg/advertising/our-brands/channel-8.
+
+“Channel 8 Website (English),” MediaCorp Pte Ltd, accessed 15 September 2007, https://www.mediacorp.sg/advertising/our-brands/channel-8.
+
+“Chinese Pop Website,” MediaCorp Pte Ltd, accessed 15 September 2007, https://www.mediacorp.sg/advertising/our-brands/channel-8.
+
+Chua Beng Huat, ed., “Consuming Asians: Ideas and Issues in Consumption,” in _[Consumption in Asia: Lifestyles and Identities](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9858073)_ (London: Routledge, 2000). (Call no. RSING 306.3 CON)
+
+Chua Beng Huat, “Conceptualizing an East Asian Popular Culture,” _Inter-Asia Cultural Studies_ 5, no. 2 (2004): 200–01. &nbsp;
+
+David Scott, _[European Stamp Design: A Semiotic Approach to Designing Messages](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7655514)_ (London: Academy Editions, 1995). (Call no. RART q769.5694 SCO)
+
+E. McClung Fleming, “Artifact study: A Proposed Model,” in _Material Culture Studies in America_, ed. Thomas J. Schlereth (Tennessee: American Association for State, 1982)
+
+Eddie C. Y. Kuo, “The Role of the Media in the Management of Ethnic Relations in Singapore,” in _Mass Media and Cultural Identity: Ethnic Re Porting in Asia_, ed. Anura Goonasekera and Youichi Ito (London: Pluto Press, 1999)
+
+Elisa M. del Galdo and Jakob Nielsen, _International User Interfaces_ (New York: John Wiley &amp; Sons, 1996)
+
+Eugene Tan Kheng Boon, “Reconceptualizing Chinese Identity: The Politics of Chineseness in Singapore,” in _[Ethnic Chinese in Singapore and Malaysia: A Dialogue Between Tradition and Modernity](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11516151)_, ed. Leo Suryadinata (Singapore: Times Academic Press, 2002). (Call no. RSING 305.895105957 ETH)
+
+Gunther Kress and Theo Van Leeuwen, _[Reading Images: The Grammar of Visual Design](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8794160)_ (London: Routledge, 1996). (Call no. RART 701 KRE)
+
+Jakob Nielson, _[Designing Web Usability](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8947242)_ (Indianapolis: New Riders, 2000). (Call no. R 005.72 NIE
+
+Jeffrey Veen, _The Art &amp; Science of Web Design_ (Indianapolis: New Riders, 2001)
+
+L.K. Peterson and Cheryl Dangel Cullen, _[Global Graphics: Colour: A Guide To Design With Colour for an International Market](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9631601)_ (Gloucester: Rockport Publishers, 2000). (Call no. RART q741.6 PET)
+
+Marc Gobe, _Emotional Branding: The New Paradigm for Connecting Brands to People_ (New York: Allworth Press, 2001)
+
+MediaCorp Pte Ltd, accessed 15 September 2007, https://www.mediacorp.sg/.
+
+“Media Release – Movies, Music and Metaphors: “Chinese Cool” Celebrates the Richness of Chinese Culture,” Promote Mandarin Council, 23 October 2006, https://www.languagecouncils.sg/mandarin/en
+
+Peh Shing Huei, “[Singapore Culture Unlikely To Emerge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060906-1.2.3),” _Straits Times_, 6 September 2006, 1. (From NewspaperSG)
+
+Richard Fletcher and Linden Brown, _[International Marketing: An Asia-Pacific Perspective](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12651637)_, 3rd ed. (Australia: Pearson Education, 2005). (Call no. RBUS 658.848 FLE)
+
+Victoria Lu, “Fiction@Love/Ultra New Vision of Contemporary Art,” _Fiction@ Love Singapore Art Museum_, 12 May–2 July 2006, https://www.singaporeartmuseum.sg/-/media/sam/files/others/w180326\_001\_324\_fa\_singles.pdf?la=en&amp;hash=2CF6F7E7DF935D650FECF0DD35604038DDF16DBA
+
+Yen Feng, “[Page 4 Advertisements Column 2: Electric Youth: Tuned In, Turned On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051227-1.2.38.2),” _Straits Times_, 27 December 2005, 4. (From NewspaperSG)
+
+#### **NOTES**
+
+[^1]: The ‘Five Cs’ – cash, credit card, car, condo and country club are materialistic cultural ethnos representing a Singaporean dream. Recent surveys reported a paradigm shift in terms of the aspiration for the new generation. The new ‘Five Cs’ are connectivity, choices, cheek, causes and consumers.
+
+[^2]: The Speak Mandarin Campaign (SMC), first launched in 1979 by then Prime Minister Lee Kuan Yew, is held all year round. The objectives were to reduce the speaking of dialects and encouraged a common communication language amongst Chinese Singaporeans. More information could be found in [http://mandarin.org.sg](http://mandarin.org.sg).
+
+[^3]: OMY and STOMP web portals are launched by Singapore Press Holdings (SPH) in 2007. Both sites are one of the most extensive interacting and entertaining web portals in Singapore that connects and engages with readers on the web and via mobile phone messaging.
+
+[^4]: Channel 8, a local Chinese channel that is positioned as the market leader in Chinese entertainment and information in the region. It is a popular channel that caters to both the viewing needs of the ‘heartlanders’ and ‘cosmopolitans’ (modern city dwellers). The Chinese channel also has a sizeable percentage of Malay and Indian followers.
+
+[^5]: Channel 8 English website is mainly targeted at English speaking Singaporeans, which include Malays and Indians as well.
+
+[^7]: Chinese Pop website is launched as part of the recent ‘Speak Mandarin Campaign’ mission to re-educate young Chinese Singaporeans about Chinese culture and heritage in order to stay competitive in the China–dominated world economy. The recent slogan ‘Speak Mandarin, Cool’ attempts to encourage English-speaking Chinese Singaporeans to speak Mandarin and that conversing in this language is sophisticated (Promote Mandarin Council, Media Release 2006).
+
+[^7]: Traditional Chinese colour symbolism is represented by the Five Chinese elements of nature, points of the compass, regions of the country and the seasons. The Five elements and their colours are earth (yellow); metal (white); water (black); wood (green),and fire (red) (Peterson, 2000)
+
+
+
+
