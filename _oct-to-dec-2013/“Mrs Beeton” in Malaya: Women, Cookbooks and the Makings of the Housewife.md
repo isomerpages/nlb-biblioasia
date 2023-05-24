@@ -39,15 +39,15 @@ Beyond the use of "Mrs Beeton" books in colonial homes, the "presence" of "Mrs B
 #### **The Myth of the Lazy Mem**
 
 "The housewives who come out to Malaya from Europe may be divided into two distinct groups. The first is composed of dilettante wives, who leave everything pertaining to culinary matters and the control of their households entirely to their native staffs, and who, consequently, are forever [sic] complaining of the lack of flavour and nourishment of the food in Malaya and the absence of training and honesty of those who serve them. The other group consists of those who take an intelligent interest in the supplies and preparation of food and all which affects the comfort of their homes. [...] Has it not been said, ‘Home-making hearts are happiest’.” 
-<div style="text-align: right">— E. M. M. (23 April 1933)</div>
+<div style="text-align: right">— E.M.M. (23 April 1933)</div>
 
 The above observation made by an experienced *mem* implies that the fundamental purpose – in fact, the very happiness – of the English wife in Malaya resides in the conscientious care of the home. The establishment of the English home in colonial territories led to a "physical repositioning of the hitherto private into [...] the most public of realms – the British empire".[^15] As will be subsequently explained, this intersection of domesticity with imperial power provided an avenue through which European women could advance the work of the British Empire in ways that were consistent with prevailing gender roles.
 
 By maintaining domestic standards, wives were regarded as a civilising influence that preserved colonial culture and prestige against the perceived degenerative tendencies of tropical living.[^16] The upkeep of the colonial household heavily depended upon the labour of a racially diverse team of servants. The responsibility of overseeing the staff fell to the *mem*, whose conduct and successful administration of the household mirrored and reproduced the unequal relations between coloniser and colonised.[^17] 
 
-The domestic role of the European wife thus carried a political significance in reinforcing colonial dominance within and without. With reference to the earlier comments of E. M. M., it was the availability of domestic help – especially competent and reliable ones – that minimised *mem*'s involvement in the actual work of cooking and cleaning.[^18] As a British resident in the 1930s noted, "Flocks of silent servants see to every detail; even the housewife has only one duty, to have an interview with Cookie [the cook] once a day."[^19] In light of this, colonial cookery books were part of the "cultural technologies of rule"[^20] that guided the *mem* in her civilising mission and supervisory role. The domestic and imperial power of the British housewife was predicated not only on her knowledge of homemaking in colonial settings but also her ability to manage the servants.[^21]
+The domestic role of the European wife thus carried a political significance in reinforcing colonial dominance within and without. With reference to the earlier comments of E.M.M., it was the availability of domestic help – especially competent and reliable ones – that minimised *mem*'s involvement in the actual work of cooking and cleaning.[^18] As a British resident in the 1930s noted, "Flocks of silent servants see to every detail; even the housewife has only one duty, to have an interview with Cookie [the cook] once a day."[^19] In light of this, colonial cookery books were part of the "cultural technologies of rule"[^20] that guided the *mem* in her civilising mission and supervisory role. The domestic and imperial power of the British housewife was predicated not only on her knowledge of homemaking in colonial settings but also her ability to manage the servants.[^21]
 
-First published in 1920, W. E. Kinsey's *The "Mems" Own Cookery Book*[^22] ("*Mems*" *Own*) would have been much favoured by the "other group" of European housewives who took "an intelligent interest" in domestic affairs. Kinsey expressed that the book aims "to help those '*mems*' who are keen on taking advantage of the possibilities of catering in this country".[^23] Boasting 420 "tried and economical" recipes based on "FIVE Years [sic] [...] practical application by the writer", Kinsey clearly presented herself as an authority on colonial cooking. As if to allay any doubts, the preface concludes with an "IMPORTANT [sic]" note declaring that "*ALL* [sic] these recipes have been TRIED AND PROVED [sic] by the writer in Seremban, Negri Sembilan, F. M. S.". Kinsey thus appealed to aspiring *mems* with the prospect of efficient domestic management made easier through failsafe recipes – "not one is beyond the resources of the average kitchen even in the absence of scales".[^24] 
+First published in 1920, W.E. Kinsey's *The "Mems" Own Cookery Book*[^22] ("*Mems*" *Own*) would have been much favoured by the "other group" of European housewives who took "an intelligent interest" in domestic affairs. Kinsey expressed that the book aims "to help those '*mems*' who are keen on taking advantage of the possibilities of catering in this country".[^23] Boasting 420 "tried and economical" recipes based on "FIVE Years [sic] [...] practical application by the writer", Kinsey clearly presented herself as an authority on colonial cooking. As if to allay any doubts, the preface concludes with an "IMPORTANT [sic]" note declaring that "*ALL* [sic] these recipes have been TRIED AND PROVED [sic] by the writer in Seremban, Negri Sembilan, F. M. S.". Kinsey thus appealed to aspiring *mems* with the prospect of efficient domestic management made easier through failsafe recipes – "not one is beyond the resources of the average kitchen even in the absence of scales".[^24] 
 
 <img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w2.jpg">
 <div style="background-color: white;">First published in 1920, <i>"Mems" Own</i> featured a recipe style that was quite different from the Beeton format.</div>
@@ -64,7 +64,7 @@ Mary Heathcott recounted an episode where, tired of the usual *ikan merah* (red 
 
 Cookbooks reveal the processes through which the colonial knowledge of Malaya was constructed. The inclusion of recipes for *rundang* (a spicy meat stew; or *rendang*) and *satai* (skewered, grilled meat; or *satay*) in "*Mems*" *Own* introduced and explicated the preparation and consumption of otherwise unfamiliar local foods, consequently normalising their presence within the colonial diet.
 
-Published in 1935, the second edition of the *Y.W.C.A. International Cookery Book of Malaya* by Mrs R. E. Holttum and Mrs T. W. Hinch differs markedly from Kinsey's work in ways that signal the extent to which food and nutrition in Malaya had become a subject of intellectual and practical study. As a compilation of "the numerous recipes used in the international cooking lessons conducted [...] by the [Young Women's Christian] Association",[^33] the volume is perhaps more closely identified with the teaching of domestic science than "*Mems*" *Own*.
+Published in 1935, the second edition of the *Y.W.C.A. International Cookery Book of Malaya* by Mrs R.E. Holttum and Mrs T.W. Hinch differs markedly from Kinsey's work in ways that signal the extent to which food and nutrition in Malaya had become a subject of intellectual and practical study. As a compilation of "the numerous recipes used in the international cooking lessons conducted [...] by the [Young Women's Christian] Association",[^33] the volume is perhaps more closely identified with the teaching of domestic science than "*Mems*" *Own*.
 
 <img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w1.jpg">
 <div style="background-color: white;"><i>The Y.M.C.A. International Cookery Book of Malaya</i> was a very successful cookbook with nine editions. It was first published in 1932.</div>
@@ -80,7 +80,7 @@ Placing the knowledge of local foods and the colonial diet on a scientific footi
 	
 This unravelling of the exotic and unknown is further augmented by a glossary of Malay and English names for local market produce. Moreover, the recipes are divided into European, Chinese, Indian and Malay sections – corresponding to the colonial scheme of racial classification. As knowledge is integral to power, cookbooks are conceivably part of colonialist attempts to bolster a coherent understanding of Malaya through mastery over "even the most mundane aspects of imperial life".[^37] The women who compiled these cookbooks are thus implicated in the making of the empire.
 	
-In her study of European wives in British Malaya, Janice Brownfoot notes that *mems*, freed from household chores, devoted their time to charitable and voluntary welfare work through all female organisations such as the Y.W.C.A. Brownfoot argues that the formation of these groups indicated women's recognition of shared feminine interests that cut across racial and class lines.[^38] Instructing non-European women on cookery and other domestic skills allowed the *mem* to mobilise her knowledge towards uplifting the welfare of the colonial populace, thus exercising her civilising influence. Brownfoot describes the Y.W.C.A as at once both conservative and progressive because, despite its emphasis on the importance of traditional domestic duties and feminine skills, it exposed Asian women to Western ideas and methods.[^39] 
+In her study of European wives in British Malaya, Janice Brownfoot notes that *mems*, freed from household chores, devoted their time to charitable and voluntary welfare work through all female organisations such as the Y.W.C.A. Brownfoot argues that the formation of these groups indicated women's recognition of shared feminine interests that cut across racial and class lines.[^38] Instructing non-European women on cookery and other domestic skills allowed the *mem* to mobilise her knowledge towards uplifting the welfare of the colonial populace, thus exercising her civilising influence. Brownfoot describes the Y.W.C.A. as at once both conservative and progressive because, despite its emphasis on the importance of traditional domestic duties and feminine skills, it exposed Asian women to Western ideas and methods.[^39] 
 	
 The Y.W.C.A. cookbook not only attests to the work accomplished by the association, but also uncovers the kind of community network and collaboration that made such an assemblage of information possible. While “*Mems*” *Own* was based on the experience of an individual housewife, the original Y.W.C.A. cookbook and its subsequent editions were put together with contributions and feedback from "readers of all nationalities".[^40] 
 	
@@ -114,7 +114,7 @@ Insofar as cookbooks appear to document reality, they possess an element of fant
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes19.jpg" style="width: 100px; height: 100px;">
-<b>Janice Loo</b> is an Associate Librarian with the National Library Content and Services division. She graduated with a B.A. (Hons) in Southeast Asian Studies with a second major in History from the National University of Singapore in 2011. She keeps a casual record of food-related discoveries from the library's collections at eatarchive.tumblr.com.
+<b>Janice Loo</b> is an Associate Librarian with the National Library Content and Services division. She graduated with a BA (Hons) in Southeast Asian Studies with a second major in History from the National University of Singapore in 2011. She keeps a casual record of food-related discoveries from the library's collections at eatarchive.tumblr.com.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
@@ -136,19 +136,19 @@ MacCallum Scott, J.H. (1939). [*Eastern journey*](https://eservice.nlb.gov.sg/it
 ##### **Articles and chapters in books**
 Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., &amp; L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
 
+Bhabha, H. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper &amp; A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+
 Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–210). In H. Callan &amp; S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
 
-George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-
-Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper &amp; A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural Critique*, *26*, 95–127. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
 
-Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History*, *15* (2), 123–149. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language &amp; literature, 34* (1), 3–18. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on Language &amp; Literature, 34* (1), 3–18. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -161,7 +161,7 @@ Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http:
 
 [‘Mrs Beeton’ in action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540506-1.2.87). (1954, May 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+V. St. J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
 #### **NOTES**
 [^1]:Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
@@ -172,13 +172,13 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^6]:Beetham, 2010, p. 21.
 [^7]:Beetham, 2010, p. 21.
 [^8]:Beetham, 2010, p. 22. 
-[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language &amp; literature, 34* (1), 3–18, p. 9. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^10]:see, for example, Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton's cakes &amp; bakes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE); Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton puddings*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE); Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton classic meat dishes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658699). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
-[^11]:V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
-[^12]:Europeans wives were collectively called ‘memsahibs’, a generic term borrowed from India that literally means “Madam Boss”.
+[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on Language &amp; Literature, 34* (1), 3–18, p. 9. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^10]:See, for example, Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton's cakes &amp; bakes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE); Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton puddings*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE); Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton classic meat dishes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658699). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
+[^11]:V. St. J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^12]:Europeans wives were collectively called *memsahibs*, a generic term borrowed from India that literally means “Madam Boss”.
 [^13]:[“Cookie”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3). (1929, October 16). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^14]:Beetham, 2010, p. 29.
-[^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127, p. 99. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural Critique*, *26*, 95–127, p. 99. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan &amp; S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
 [^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^18]:Brownfoot, 1984, p. 196.
@@ -195,7 +195,7 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^29]:Leong-Salobir, C. (2011). [*Food culture in colonial Asia: A taste of empire*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765) (p. 12). London: Routledge. (Call no.: RSING 394.12095 LEO)
 [^30]:Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45). *The Singapore Free Press and Mercantile Advertiser*, p. 5. Retrieved from NewspaperSG.
 [^31]:[*The Singapore Free Press and Mercantile Advertiser*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45), 22 Aug 1941, p. 5.
-[^32]:Compiled by Assistant Director of Fisheries, D.W. Le Mare, Malayan Fish and How to Cook Them is a pamphlet issued by the Department of Information and Publicity to encourage the consumption of local food fishes.
+[^32]:Compiled by Assistant Director of Fisheries, D.W. Le Mare, "Malayan Fish and How to Cook Them" is a pamphlet issued by the Department of Information and Publicity to encourage the consumption of local food fishes.
 [^33]:Holttum, R.E., &amp; Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418) (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
 [^34]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 49.
 [^35]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 7–10.
@@ -204,7 +204,7 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^38]:Brownfoot, 1984, p. 199.
 [^39]:Brownfoot, 1984, p. 200.
 [^40]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 5.
-[^41]:The editors expressed regret that “so small a section should be presented […] about the cookery of the native inhabitants of Malaya”. The few recipes contained in the “Malay Section: were contributed by M.C. Murray of the Malay Girls’ School in Malacca, Ishak, a senior fishery officer in Singapore and Miss M.A Bixton. 
+[^41]:The editors expressed regret that “so small a section should be presented […] about the cookery of the native inhabitants of Malaya”. The few recipes contained in the “Malay Section: were contributed by M.C. Murray of the Malay Girls’ School in Melaka, Ishak, a senior fishery officer in Singapore, and Miss M.A. Bixton. 
 [^42]:Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2–3), 51–68, p. 64. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^43]:Heathcott, M. (1950, November 28). [Singapore revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^44]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8. 
