@@ -58,13 +58,13 @@ Using this model of respect and understanding of the user’s culture, contempor
 
 #### **A Case Study of Media and Entertainment Websites**
 
-<img src="/images/Vol%204%20Issue%202/homepage.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%202/homepage.jpg" style="width:100%;">
  <div style="background-color: white;">(Left) Homepage of MediaCorp Pte Ltd.<br> (Right)Homepage of Channel 8's English website. <i>Courtesy of mediacorp Pte Ltd. 
 </i></div>
 
-Visual design constitutes an important area for visual communications. In this case study, three design components of websites from the local media and entertainment industry were selected. They are colour, visual metaphor and information architecture. These were then tested with the socio/cultural background of Singapore society. The websites include state-owned MediaCorp Pte Ltd’s website (MediaCorp) (<a href="https://www.mediacorp.sg/">https://www.mediacorp.sg/</a>), Channel 8 websites (Chinese[^4] and English[^5] versions, and Chinese Pop iwebsite <a href="https://www.mediacorp.sg/advertising/our-brands/channel-8">https://www.mediacorp.sg/advertising/our-brands/channel-8</a>). [^6] The purpose of the visual analysis elucidates patterns of visual and cultural presentation and its management of youth culture.
+Visual design constitutes an important area for visual communications. In this case study, three design components of websites from the local media and entertainment industry were selected. They are colour, visual metaphor and information architecture. These were then tested with the socio/cultural background of Singapore society. The websites include state-owned MediaCorp Pte Ltd’s website (MediaCorp) (<a href="https://www.mediacorp.sg/">https://www.mediacorp.sg/</a>), Channel 8 websites (Chinese[^4] and English[^5] versions, and Chinese Pop iwebsite <a href="https://www.mediacorp.sg/advertising/our-brands/channel-8">https://www.mediacorp.sg/advertising/our-brands/channel-8</a>). The purpose of the visual analysis elucidates patterns of visual and cultural presentation and its management of youth culture.[^6]
 
-<img src="/images/Vol%204%20Issue%202/chinese%20pop.jpg" style="width:50%;">
+<img src="/images/Vol%204%20Issue%202/chinese%20pop.jpg" style="width:70%;">
  <div style="background-color: white;">Homepage of the Chinese Pop micro website. The micro site is part of the ‘Speak Mandarin’ Campaign initiative. <i>Courtesy of mediacorp Pte Ltd. </i></div>
 
 #### **Colour**
