@@ -67,7 +67,6 @@ Visual design constitutes an important area for visual communications. In this c
 <img src="images/Vol%204%20Issue%202/chinese%20pop.jpg" style="width:50%;">
  <div style="background-color: white;">Homepage of the Chinese Pop micro website. The micro site is part of the ‘Speak Mandarin’ Campaign initiative. <i>Courtesy of mediacorp Pte Ltd. </i></div>
 
-
 #### **Colour**
 
 While language, religion, customs and beliefs are some key features that reflect different cultures, colours used in interface design comprise one of the central non-verbal visual communication languages. Each colour bears a different symbolism and meaning that evokes immediate emotional response from people. In addition, colour is also one of the visual languages in international commerce that resonates with the country’s cultural and national preferences (Peterson, 2000).
