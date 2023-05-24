@@ -80,9 +80,9 @@ The Gomez eatery eventually closed, but with the opening of Muthu’s Curry in 1
 
 Another example of a hybrid Indian dish is *mee goreng* – yellow wheat noodles fried with chillies, potato cubes, bean sprouts, tomato ketchup and spices. It may have been adapted from the Chinese fried noodle dish, *char kway teow*, to suit the Indian palate. The Tamil-Muslim Chulia community originally from Madras (present-day Chennai) popularised the dish, and this is why it is associated with the Indian Muslim community in Singapore.[^16]
 
-Indian *rojak* is another fusion dish unique to Singapore (in Malaysia it is referred to as *pasembor*). Apparently, the Tamil Muslims who came from Thakkali in Tamil Nadu were inspired by *mee siam* gravy and decided to adapt it by using mashed sweet potatoes as a thickener. This spicy and sweet gravy is served as a dipping sauce for deep-fried chunks of tofu, potatoes, tempeh, hard-boiled eggs and flour fritters. 
+Indian *rojak* is another fusion dish unique to Singapore (in Malaysia it is referred to as *pasembor*). Apparently, the Tamil Muslims who came from Thakkalai in Tamil Nadu were inspired by *mee siam* gravy and decided to adapt it by using mashed sweet potatoes as a thickener. This spicy and sweet gravy is served as a dipping sauce for deep-fried chunks of tofu, potatoes, tempeh, hard-boiled eggs and flour fritters. 
 
-*Sup kambing*, or mutton soup, is another Indian-Muslim fusion dish that takes its cue from Chinese cuisine. Soup is almost never served in Indian households, but in this hybrid dish, chunks of mutton is slow-cooked in a robust, peppery soup and served with cubes of crusty French loaf.
+*Sup kambing*, or mutton soup, is another Indian Muslim fusion dish that took its cue from Chinese cuisine. Soup is almost never served in Indian households, but in this hybrid dish, chunks of mutton is slow-cooked in a robust, peppery soup and served with cubes of crusty French loaf.
 
 Indian food is one of the world’s oldest cuisines with a long and rich tradition. With the spread of the Indian diaspora to Singapore, Indian cuisine here has evolved, picking up Southeast Asian ingredients and nuances in flavour. Authentic Indian restaurants abound in Singapore, but of more interest to culinary historians is the impact of Indian food on the local food scene and the interesting amalgamation of Indian and regional flavours that result in uniquely Singaporean dishes. In this sense, food can be seen as a physical manifestation of Singapore’s multicultural society, where the influence of one cuisine upon another results in something quite extraordinary.[^17]
 
@@ -91,29 +91,28 @@ Indian food is one of the world’s oldest cuisines with a long and rich traditi
 <br><br>
 <img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">An assortment of spices that make up curry powder. <i>Hildgrim, via Flickr.</i>
 <br><br>
-Native to India and Sri Lanka, the curry leaf is an important herb in South Indian cooking. This small, fragrant and dark green leaf has a distinctive peppery flavour that adds robustness to any dish. Curry leaves are chopped or used whole and added to hot oil for tempering, and used as garnishes in salads, curries, marinades and soups to improve the taste. As observed by Wendy Hutton in Singapore Food, the Indians say there is “no substitute for these small, dark green leaves from the karuvapillai tree”. The use of curry leaves is even mentioned in early Tamil literature dating back to the 1st to 4th century CE.
+Native to India and Sri Lanka, the curry leaf is an important herb in South Indian cooking. This small, fragrant and dark green leaf has a distinctive peppery flavour that adds robustness to any dish. Curry leaves are chopped or used whole and added to hot oil for tempering, and used as garnishes in salads, curries, marinades and soups to improve the taste. As observed by Wendy Hutton in <i>Singapore Food</i> (2007), the Indians say there is “no substitute for these small, dark green leaves from the karuvapillai tree”. The use of curry leaves is even mentioned in early Tamil literature dating back to the 1st to 4th century CE.
 <br><br>
-Intriguingly, what we commonly understand as “curry” originates from a Tamil word for spiced sauces. More specifically, it refers to “a mixture of spices including cumin, coriander, turmeric, fennel, fenugreek, cloves, cinnamon, cardamom and often garlic, with chilli [as the] the dominant spice”. Curry powder is actually something that the British created for commercial reasons and in fact never existed in India until the 18th century. A curry could have plenty of gravy from the use of coconut milk, yoghurt or pulverised <i>dhal</i>, or legumes to thin out the spice mixture. Dry curries, on the other hand, tend to be more intense in flavour as most of the liquid used in their preparation has been allowed to evaporate.</span>
+Intriguingly, what we commonly understand as “curry” originates from a Tamil word for spiced sauces. More specifically, it refers to “a mixture of spices including cumin, coriander, turmeric, fennel, fenugreek, cloves, cinnamon, cardamom and often garlic, with chilli [as] the dominant spice”. Curry powder is actually something that the British created for commercial reasons and in fact never existed in India until the 18th century. A curry could have plenty of gravy from the use of coconut milk, yoghurt or pulverised <i>dhal</i>, or legumes to thin out the spice mixture. Dry curries, on the other hand, tend to be more intense in flavour as most of the liquid used in their preparation has been allowed to evaporate.</span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>A LEGENDARY DESSERT</b>
 	<br><br>
-According to Hindu legend, Lord Krishna transformed into an old sage one day and challenged the arrogant king of the region of Kerala to a chess game. The wager for the game was rice. Eventually, the king lost the game as well as his kingdom's precious rice reserves. Lord Krishna revealed his true identity and told the king that instead of giving him his rice, he should instead serve payasam - a dessert porridge made of rice, ghee, milk and brown sugar, and garnished with raisins and cashew nuts - to pilgrims who visited the Ambalappuzha Temple in Kerala. At many Indian vegetarian restaurants today, a variation of payasam made of broken bits of wheat vermicelli instead of rice is served as a sweet ending to the meal
+According to Hindu legend, Lord Krishna transformed into an old sage one day and challenged the arrogant king of the region of Kerala to a chess game. The wager for the game was rice. Eventually, the king lost the game as well as his kingdom's precious rice reserves. Lord Krishna revealed his true identity and told the king that instead of giving him his rice, he should instead serve <i>payasam</i> – a dessert porridge made of rice, ghee, milk and brown sugar, and garnished with raisins and cashew nuts – to pilgrims who visited the Ambalappuzha Temple in Kerala. In many Indian vegetarian restaurants today, a variation of <i>payasam</i> made of broken bits of wheat vermicelli instead of rice is served as a sweet ending to the meal.
 </span>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>THE UBIQUITOUS ROTI PRATA</b><br><br>
 	<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s7.jpg">
-	<i>Roti prata</i> is now an integral part of Singapore's cuisine. <i>rpslee, via Flickr.</i><br><br>
-<i>Roti prata</i> is the most popular and common Indian food in Singapore. Indian migrants brought this griddle-toasted flatbread to Singapore and 'by the 1920s, this dish was established throughout the Malayan peninsula.”[^18] It is thought to have originated from Madras where it is known as <i>parota</i>. Some believe that it originated from Punjab where it is called <i>prontha</i> or <i>parontay</i>. In South India and Bengal, it is called <i>parotta</i>, <i>porotta</i> or <i>barotta</i>, while in Sri Lanka, it is known as <i>kothu parotta</i>. In Mauritius and Maldives, it is called <i>farata</i> and in Myanmar as <i>palata</i>. Across the causeway in Malaysia, it is known as <i>roti canai</i>. While some believe “canai” refers to “Chennai”, others say “canai” is derived from the Malay word for the process of kneading and shaping the dough.[^19] 
+	<i>Roti prata</i> is today an integral part of Singapore's cuisine. <i>rpslee, via Flickr.</i><br><br>
+<i>Roti prata</i> is the most popular and common Indian food in Singapore. Indian migrants brought this griddle-toasted flatbread to Singapore; by the 1920s, this dish was established throughout the Malayan peninsula.[^18] It is thought to have originated from Madras where it is known as <i>parota</i>. Some believe that it originated from Punjab where it is called <i>prontha</i> or <i>parontay</i>. In South India and Bengal, it is called <i>parotta</i>, <i>porotta</i> or <i>barotta</i>, while in Sri Lanka, it is known as <i>kothu parotta</i>. In Mauritius and the Maldives, it is called <i>farata</i>, and in Myanmar, <i>palata</i>. Across the causeway in Malaysia, it is known as <i>roti canai</i>. While some believe <i>canai</i> refers to “Chennai”, others say it is derived from the Malay word for the process of kneading and shaping the dough.[^19] 
 		<br><br>
-<i>Roti prata</i> is a crisp and flaky flatbread that is often eaten with a Hyderabadi-style mutton rib curry cooked with lentils called <i>dalcha</i>. Over time, Singapore has evolved into a <i>prata</i> paradise with many innovative incarnations of <i>prata</i> available in Indian-Muslim stalls as well as restaurants. <i>Prata</i> shops like Thasevi Food in Jalan Kayu and The Roti Prata House in Upper Thomson among others offer numerous varieties, from egg <i>prata</i> and chicken floss <i>prata</i> to combination flavours like cheese and mushroom, cheese and pineapple, cheese and chicken and even ice cream. There is also a <i>prata</i> buffet available at Clay Oven restaurant in Dempsey Road. The humble <i>roti prata</i> is even listed at number 45 on the World’s 50 Most Delicious Foods readers’ poll compiled by CNN Go in 2011.[^20] 
+<i>Roti prata</i> is a crisp and flaky flatbread that is often eaten with a Hyderabadi-style mutton rib curry cooked with lentils called <i>dalcha</i>. Over time, Singapore has evolved into a <i>prata</i> paradise with many innovative incarnations of <i>prata</i> available in Indian Muslim food stalls and restaurants. <i>Prata</i> shops like Thasevi Food on Jalan Kayu and The Roti Prata House at Upper Thomson among others offer numerous varieties, from egg <i>prata</i> and chicken floss <i>prata</i> to combination flavours like cheese and mushroom, cheese and pineapple, cheese and chicken, and even ice-cream. There is also a <i>prata</i> buffet available at the Clay Oven restaurant on Dempsey Road. The humble <i>roti prata</i> is ranked no. 45 on the World’s 50 Most Delicious Foods, a readers’ poll compiled by <i>CNN Go</i> in 2011.[^20] 
 </span>
 <br>
 
 
 <div>
-<b>Malarvele Ilangovan</b> is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library provision to the Tamil community in Singapore” (co-authored with Dr Susan 
-is a Librarian with the National Library of Higgins), was published in LIBRES in 2003.</div>
+<b>Malarvele Ilangovan</b> is a Senior Librarian in the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library Provision to the Tamil Community in Singapore” (co-authored with Dr Susan, a Librarian with the National Library of Higgins), was published in <i>LIBRES</i> in 2003.</div>
 
 
 
@@ -126,7 +125,7 @@ An interview with Mr Gunasegaran, 11 January 2013.
 
 *Ananda Bhavan Vegetarian*. (2018). Retrieved from Anandabhavan.com website.
 
-Brinder, N et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent*. Singapore: Periplus Editions. (Not available in NLB holdings)
+Brinder, N. et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent*. Singapore: Periplus Editions. (Not available in NLB holdings)
 
 Chapman, P. (2007). *India food &amp; cooking: The ultimate book on Indian cuisine*. London: New Holland. (Not available in NLB holdings)
 
@@ -160,7 +159,7 @@ Sanmugam, D., &amp; Shanmugam, K. (2011). [*Indian heritage cooking*](https://es
 
 Siddique, S., &amp; Shotum, N. (1990). [*Singapore’s little India: Past, present, and future*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
 
-Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
+Sur, C. (2003). *Continental cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
 
 Tan, B. (2013). [*Ask the foodie kitchen knowhow explained*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14517489). Singapore: Straits Times Press. (Call no.: RSING 641.5 TAN)
 
@@ -177,7 +176,7 @@ Wong, D., &amp; Wibisono, D. (2001). [*The food of Singapore: Authentic recipes 
 #### **NOTES**
 
 
-[^1]:Brinder, N et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent* (p. 11). Singapore: Periplus Editions. (Not available in NLB holdings)
+[^1]:Brinder, N. et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent* (p. 11). Singapore: Periplus Editions. (Not available in NLB holdings)
 
 [^2]:Joshi, A., &amp; Roberts, A. (2006). *Regional Indian cooking* (p. 8). North Clarendon, VT: Periplus. (Not available in NLB holdings)
 
