@@ -22,7 +22,7 @@ For over 100 years, the growth of Kampong Wak Sumang reflected changes in the Pu
 
 “Her husband was named Che’ Soman, who hailed from Daik. He was talented in playing the violin, and was also humorous and cheerful. Some also said that he was a warrior.”[^3]
 
-– *Tok Sumang*, p. 4
+<div style="text-align: right">– <i>Tok Sumang</i>, p. 4</div>
 
 Like many indigenous communities, Wak Sumang’s history has been passed down primarily by word of mouth. While this sometimes makes it difficult to separate fact from fiction, it invites us to shift our focus to the values and morals being disseminated through the oral tradition and surviving stories. 
 
@@ -58,7 +58,7 @@ In addition to setting up the kampong, Sumang is also believed to have dug a fiv
 
 “The life of a tree brings fruit, the life of a person brings benefit.”[^19]
 
-– *Tok Sumang* , p. 35
+<div style="text-align: right">– <i>Tok Sumang</i>, p. 35</div>
 
 After Sumang’s death, his descendants built on his legacy. An early example can be seen in the construction of the old Punggol Road, which was originally a sandy track for bullock carts (the road is a part of Hougang Avenue 8 and Hougang Avenue 10 today).[^20]
 
