@@ -219,7 +219,7 @@ Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of
 [^15]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 28.
 [^16]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 28.
 [^17]:[Big rush for 8-cents meal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461219-1.2.84). (1946, December 19). *The Straits Times*, p. 7. Retrieved form NewspaperSG.
-[^18]:McNiece, 1983.
+[^18]:McNeice, 1983.
 [^19]:[35-cent lunch is a reality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460628-1.2.41). (1946, June 28). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^20]: [Governor eats and likes 35-cent lunch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460630-1.2.46). (1946, June 30). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^21]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460630-1.2.46), 30 Jun 1946, p. 5.
@@ -243,18 +243,18 @@ Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of
 [^39]:[Scheme to feed Singapore children](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19451130-1.2.19). (1945, November 30). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^40]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19451130-1.2.19), 20 Nov 1945, 3.
 [^41]:[Feeding scheme to be enlarged](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460731-1.2.31). (1946, July 31). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
-[^42]:Singapore. Department of Social Welfare. (1948). [*The second report of the Singapore Department of Social Welfare 1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 33). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN); Also announced in the press [New feeding scheme starts Jan. 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19461230-1.2.28). (1946, December 30). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^42]:Singapore. Department of Social Welfare. (1948). [*The second report of the Singapore Department of Social Welfare 1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 33). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN); Also announced in the press: [New feeding scheme starts Jan. 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19461230-1.2.28). (1946, December 30). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^43]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, n. p. 
 [^44]:[Mr Attlee ordered free meals for S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460717-1.2.37). (1946, July 17). *The Singapore Free Press*, p. 5.  Retrieved from NewspaperSG.
 [^45]:[Lack of money for child feeding plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461123-1.2.56). (1946, November 23). *The Straits Times*, p. 5; see also [Baby in a dust bin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19461127-1.2.1.6). (1946, November 27).  *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 [^46]:[*The Singapore Free Press*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19461210-1.2.4.1), 10 Dec 1946, p. 4.
-[^47]:[Heavy expenditure criticised — Cost of new Singapore Departments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460906-1.2.2). (6 September 1946).  *The Straits Times*, 1. Retrieved from NewspaperSG.
+[^47]:[Heavy expenditure criticised – Cost of new Singapore Departments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460906-1.2.2). (6 September 1946). *The Straits Times*, 1. Retrieved from NewspaperSG.
 [^48]: [Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 34. 
 [^49]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 34. 
 [^50]:[Volunteers run feeding centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19471023-1.2.30.1). (1947, October 23). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^51]:[S’pore’s children get fed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470203-1.2.22.1). (1947, February 3). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 [^52]:McNeice, 1982. 
-[^53]:McNiece, 1982. 
+[^53]:McNeice, 1982. 
 [^54]:Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of light*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7893264). Singapore: Graham Brash, 133–135. (Call no.: RSING 363.96092 ZHO)
 [^55]:See McNeice, 1982 and McNeice, 1983 for personal recollections of how Constance Goh established the association.
 [^56]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, pp. 20–21.
