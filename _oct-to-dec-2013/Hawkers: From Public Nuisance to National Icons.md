@@ -10,11 +10,11 @@ image: /images/vol-9-issue-3/Hawkers/H3.png
 
 <img style="width:80%;" src="/images/vol-9-issue-3/Hawkers/H1.png">
 <div style="background-color: white;">
-Hawkers at the car park beside the former Specialists’ Centre at Orchard Road in 1970; known as Glutton's Square, this downtown icon lasted for over 12 years from 1966 until it was shut down in September 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Hawkers at the car park beside the former Specialists’ Centre on Orchard Road, 1970. Known as Glutton's Square, this downtown icon lasted for over 12 years from 1966 until it was shut down in September 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-For one of the smallest countries in the world, Singapore has an enormous appetite. According to the annual MasterCard survey on consumer dining habits, Singaporeans were the biggest spenders for eating out in the Asia-Pacific region in 2012, spending an average S$323 each month. This was an increase of nearly 25 percent from 2011.[^1] In addition, the great lengths Singaporeans go to find the best or most authentic local dishes are testament to the nation’s obsession with food. They endure long queues, brave traffic jams and literally go the distance to satiate their taste buds. It is no wonder that the Singapore Tourism Board promotes the island as a food paradise, organising a series of annual food-related events, most notably the Singapore Food Festival, to boost tourist numbers.
+For one of the smallest countries in the world, Singapore has an enormous appetite. According to the annual MasterCard survey on consumer dining habits, Singaporeans were the biggest spenders for eating out in the Asia-Pacific region in 2012, with an average expenditure of $323 each month. This was an increase of nearly 25 percent from 2011.[^1] In addition, the great lengths that Singaporeans go to in search of the best or most authentic local dishes are testament to the nation’s obsession with food. They endure long queues, brave traffic jams and literally go the distance to satiate their taste buds. It is no wonder that the Singapore Tourism Board promotes the island as a food paradise, organising a series of annual food-related events, most notably the Singapore Food Festival, to boost tourist numbers.
 
-Food and all matters culinary is an integral part of the Singaporean psyche. The city is a melting pot of multi-ethnic flavours and foods, with Malay, Indian and Chinese dishes making up the culinary landscape along with Peranakan and Eurasian cuisines. The island city is home to countless restaurants, but almost everyone agrees that the cheapest and most authentic fare is found in hawker centres.
+Food and all matters culinary are an integral part of the Singaporean psyche. The city is a melting pot of multi-ethnic flavours and foods, with Malay, Indian and Chinese dishes making up the culinary landscape along with Peranakan and Eurasian cuisines. The island city is home to countless restaurants, but almost everyone agrees that the cheapest and most authentic fare is found in hawker centres.
 
 Hawker centres, in Singapore parlance, are open-air complexes with stalls selling food at affordable prices. They are clean, accessible and are frequented by people from all walks of life. Most hawker stalls are family-run and serve one or two dishes that have been perfected over the years or prepared using family recipes passed down over the generations. As a result, hawker food is not only tasty but also rich in heritage.
 
@@ -150,16 +150,16 @@ Feng, Z. (2013, January 9). [2 bodies to start training would-be hawkers](http:/
 
 [Health Officers alarmed at dangers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570107-1.2.10). (1957, January 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-Hedwig, A., & Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+Hedwig, A., &amp; Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
 [Hot debate expected on expansion of Markets Department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580529-1.2.47). (1958, May 29). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-Kanagasingam, F., & Ho, E. (1998, April 17). [Hawkers worried about grading](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980417-1.2.52.8). *The Straits Times*, p. 44. Retrieved from NewspaperSG.
+Kanagasingam, F., &amp; Ho, E. (1998, April 17). [Hawkers worried about grading](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980417-1.2.52.8). *The Straits Times*, p. 44. Retrieved from NewspaperSG.
 
 Kong, L. (2007). [*Singapore hawker centres: People, places, food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
 
 Kwek, M.L. (2004). 
-Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), [*Beyond description: Singapore space historicity*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
+Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., &amp; W.W. Yeo (Eds.), [*Beyond description: Singapore space historicity*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
 
 Lim, J. (2013, May 8). Singapore are the biggest spenders in Asia-Pacific for dining: Survey. (2013, May 8). *The Straits Times*. Retrieved from The Straits Times website.
 
@@ -171,7 +171,7 @@ Lim, J. (2013, May 8). Singapore are the biggest spenders in Asia-Pacific for di
 
 [‘No new licences for hawkers’ policy won’t be relaxed: Kim San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730314-1.2.27.1). (1973, March 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Simpson, W.J. (1907). *Report on the sanitary condition of Singapore*. London: Waterlow & Sons. (Not available in NLB holdings)
+Simpson, W.J. (1907). *Report on the sanitary condition of Singapore*. London: Waterlow &amp; Sons. (Not available in NLB holdings)
 
 Singapore. Hawkers Inquiry Commission. (1950). [*Report of the hawkers inquiry commission*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
 
@@ -179,7 +179,7 @@ Singapore. Markets and Hawkers Department. (1957). [*Annual report of the Market
 
 Singapore. Town Cleansing Department. (1948). [*Annual report 1948*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047259). Singapore: G.P.O. Available via PublicationSG.
 
-Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
+Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Fraser &amp; Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
 
 Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. *Channel NewsAsia*. Retrieved from Channel NewsAsia website. 
 
@@ -189,7 +189,7 @@ Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresou
 
 [The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 
-Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
+Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung &amp; C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
 
 Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
 
@@ -198,8 +198,8 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^2]:Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) (pp. 65–66). London: Smith, Elder and Co. Retrieved from BookSG.
 [^3]:[Street hawking nuisance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19051012-1.2.10). (1905, October 12). *Eastern Daily Mail and Straits Morning Advertiser*, p. 2. Retrieved from NewspaperSG.
 [^4]:Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061) (p. 262). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
-[^5]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
-[^6]:Simpson, W.J. (1907). *Report on the sanitary condition of Singapore* (p. 16). London: Waterlow & Sons. (Not available in NLB holdings)
+[^5]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser &amp; Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
+[^6]:Simpson, W.J. (1907). *Report on the sanitary condition of Singapore* (p. 16). London: Waterlow &amp; Sons. (Not available in NLB holdings)
 [^7]:Bartley, W. (1932). [*Report of the committee appointed to investigate the hawker question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx) (pp. 3–4). Singapore: G.P.O. Retrieved from BookSG.
 [^8]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 4–5.
 [^9]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, p. 3.
@@ -207,7 +207,7 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^11]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 2–4.
 [^12]:[Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, pp. 264–266.
 [^13]:[Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, p. 264.
-[^14]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
+[^14]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser &amp; Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
 [^15]:Singapore Municipality. (1928). [*Administration report of the Singapore Municipality for the year 1927*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201041566) (p. 23). Singapore: Singapore Municipality. (Call no.: RCLOS 363.61095957 SIN)
 [^16]:[20,000 hawkers defy the law](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^17]:Singapore. Town Cleansing Department. (1948). [*Annual report 1948*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047259) (p. 24). Singapore: G.P.O. (Available via Publication SG)
@@ -236,10 +236,10 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^40]:[The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 [^41]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 51.
 [^42]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-[^43]:Hedwig, A., & Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
-[^44]:Kanagasingam, F., & Ho, E. (1998, April 17). [Hawkers worried about grading](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980417-1.2.52.8). *The Straits Times*, p. 44. Retrieved from NewspaperSG.
-[^45]:Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), [*Beyond description: Singapore space historicity*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
-[^46]:Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
+[^43]:Hedwig, A., &amp; Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^44]:Kanagasingam, F., &amp; Ho, E. (1998, April 17). [Hawkers worried about grading](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980417-1.2.52.8). *The Straits Times*, p. 44. Retrieved from NewspaperSG.
+[^45]:Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., &amp; W.W. Yeo (Eds.), [*Beyond description: Singapore space historicity*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
+[^46]:Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung &amp; C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
 [^47]:[Minister suggests: Sell city as a food paradise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940702-1.2.36.15). (1994, July 2). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
 [^48]:National Environment Agency. (2019, March 21). *Hawker Centres Upgrading Programme*. Retrieved from National Environment Agency website. 
 [^49]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 35.
