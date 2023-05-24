@@ -12,19 +12,19 @@ Cookbooks, pamphlets, newspapers, domestic manuals and the like are rich sources
 
 Regarded as the paragon of progressive womanhood in the history of British domesticity, the legacy of Isabella Beeton's magnum opus, *Beeton's Book of Household Management* (1861), refigures Malayan cookery texts beyond the parochial, suggesting the influence of domestic discourses from Victorian England. Cookbooks reproduce dominant gendered ideologies as "explicit emblems of women's relegation to the domestic sphere – the world of the home".[^1] Yet boundaries shift and blur when these texts also demonstrate how women, ostensibly acting in their traditional capacities as housekeeper and caregiver, could influence the well-being of the family, the wider community and beyond.
  
-This essay examines individuals in Malaya who were privileged enough to have received English language education, who saw the value of penning down what they knew and who possessed the wherewithal to publish their writings. The primary focus is on English-language cookbooks, largely due to the relative paucity of extant vernacular cookery texts published in the same period.
+This essay examines individuals in Malaya who were privileged enough to have received English-language education, who saw the value of penning down what they knew and who possessed the wherewithal to publish their writings. The primary focus is English-language cookbooks, largely due to the relative paucity of extant vernacular cookery texts published in the same period.
 
 #### **The Recipe Book and Its Implications**
 
-A recipe book may seem unique to the socio-cultural context in which it was written and published, but, it speaks across time when it borrows from earlier works and draws on the conventions of its genre. In contextualising the recipe book within the history of British publishing, Margaret Beetham said: "The systematic reproduction of cooking instructions in commercial forms of print was symptomatic of a much wider process by which oral knowledges (sic) were gradually superseded by print."[^2] Instructions on food preparation appeared as part of general household advice in printed books of "receipts" that predated the 19th century as well as in magazines and manuals that increasingly targeted a middle-class female readership since the 1850s.[^3] 
+A recipe book may seem unique to the sociocultural context in which it was written and published, but it speaks across time when it borrows from earlier works and draws on the conventions of the genre. In contextualising the recipe book within the history of British publishing, Margaret Beetham said: "The systematic reproduction of cooking instructions in commercial forms of print was symptomatic of a much wider process by which oral knowledges [sic] were gradually superseded by print."[^2] Instructions on food preparation appeared as part of general household advice in printed books of "receipts" that predated the 19th century as well as in magazines and manuals that increasingly targeted a middle-class female readership since the 1850s.[^3] 
 
 Published in 1861, *Beeton's Book of Household Management* was instrumental to the birth of the recipe book as a popular print genre by the end of the century.[^4] Its subsequent publishing history contributed to the transformation of cookery into a subject with its own distinct cultural form. The recipe book thus added to an existing body of writing that mapped the domestic sphere and exposed the otherwise hidden labour performed by women. By instructing women on their expected behaviour and responsibilities in the home, these texts reified and affirmed the assumed conjunction between femininity and domesticity.
 
-Beeton's seminal work was typical of the general household manual of the time, providing an array of advice, anecdotes, trivia, historical notes and other information usually of tangential relevance to the recipes being discussed.[^5] As Beeton herself acknowledged in the preface of her book, she obtained the bulk of this material from readers' contributions to the first successful middle-class woman's magazine in Britain, *The Englishwoman's Domestic Magazine*, published by Isabella's husband, Samuel Beeton.
+Beeton's seminal work was typical of the general household manual of the time: it provided an array of advice, anecdotes, trivia, historical notes and other information usually of tangential relevance to the recipes being discussed.[^5] As Beeton herself acknowledged in the preface of the book, she had obtained the bulk of the material from readers' contributions to the first successful middle-class women's magazine in Britain, *The Englishwoman's Domestic Magazine*, published by Isabella's husband, Samuel Beeton.
 
 Her volume nevertheless contained an innovation that has since become a defining characteristic of the recipe book. Beeton "codified a previously chaotic body of knowledge"[^6] by introducing a standard format for organising and presenting recipes in a systematic way. This includes the listing of ingredients (by weight) followed by the method of preparation and estimated cost for a given recipe, arranging recipes in alphabetical order and providing an index to facilitate the location of information within the dense text.[^7] Furthermore, cooking methods were elaborated in a straightforward and impersonal style.
 
-In this way, Beeton's volume delineated the practicalities of running the home with unprecedented clarity and brevity. This paved the way for "a science of domestic management, one that could be systematically taught through textbooks."[^8] As a result, Beeton not only articulated the responsibilities and expected conduct of the middleclass woman as the mistress of the household but also provided detailed and precise instructions for the fulfilment of her role. Therein lies the "public normalising impulse"[^9] of the cookbook, among other household manuals, in setting the criteria for the proper management of the kitchen/ domestic sphere and as the arbiter of consumption.
+In this way, Beeton's volume delineated the practicalities of running the home with unprecedented clarity and brevity. This paved the way for "a science of domestic management, one that could be systematically taught through textbooks".[^8] As a result, Beeton not only articulated the responsibilities and expected conduct of the middle-class woman as the mistress of the household, but also provided detailed and precise instructions for the fulfilment of her role. Therein lies the "public normalising impulse"[^9] of the cookbook, among other household manuals, in setting the criteria for the proper management of the kitchen/ domestic sphere and as the arbiter of consumption.
 
 #### **"Mrs Beeton” Arrives in Malaya**
 
@@ -74,7 +74,7 @@ In contrast to the almost exclusive focus on recipes in Kinsey's book, the Y.W.C
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w3.jpg">
 <br>
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w4.jpg">
-<div style="background-color: white;"> Note the stylistic differences for the same potato soup recipe between <i>“Mems” Own</i> and the Y.W.C.A cookbook. <i>Top: Kinsey, 1929, p.10; Bottom: Holttum & Hinch, 1935, p. 52.</i></div>
+<div style="background-color: white;"> Note the stylistic differences for the same potato soup recipe between <i>“Mems” Own</i> and the Y.W.C.A cookbook. <i>Top: Kinsey, 1929, p.10; Bottom: Holttum &amp; Hinch, 1935, p. 52.</i></div>
 
 Placing the knowledge of local foods and the colonial diet on a scientific footing, the Y.W.C.A cookbook introduces the concept of "food values", in which an individual's energy and nutritional requirements dictate the basis for efficient and healthful eating in the tropics.[^35] This is complemented by a "chemical analyses of Malayan foods", in which over 90 local products, including *blachan* (dried shrimp paste), shark's fin and edible bird's nest, are reduced to their caloric content and nutritional composition."[^36] 
 	
@@ -89,7 +89,7 @@ In fact, the preface of the book acknowledges the "help of Chinese and Indian fr
 #### **Becoming "Mrs Beeton” of Malaya**
 	
 "Perhaps one day some lady living in Malaya will give her time and patience to research in Malayan cookery, and if she has a flair for cooking herself, be able to write down the information in those measures and method-descriptions that we know as recipes."
-<div style="text-align: right">— Holttum & Hinch (1935), p. 196</div>
+<div style="text-align: right">— Holttum &amp; Hinch (1935), p. 196</div>
 	
 Holttum and Hinch would have been pleased to learn of Che Azizah binte Ja'affar who, in November 1950, was "compiling a cookery book with international recipes giving exact quantities of all ingredients for each dish".[^43] Che Azizah was "very interested in cookery" and sought to give traditional Malay dishes "a new twist" with the infusion of Western techniques where, for example, she baked *otalt-otalt* (a concoction of fish paste and spices) in a pastry case instead of coconut leaves.[^44] Desiring "more education [...] and more economic independence"[^45] for Malay women, she ran a domestic science school in Johor and was personally involved in "teaching her pupils how to run their homes on modern, hygienic lines, [and] how to provide meals which are delicious and nutritious".[^46] For her efforts, Che Azizah was described as "perhaps [...] another Mrs Beeton [for she was] not only a good cook but a very progressively minded woman as well".[^47] 
 	
@@ -125,30 +125,30 @@ Insofar as cookbooks appear to document reality, they possess an element of fant
 ##### **Books**
 Hing, S. (1956). [*In a Malayan kitchen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
 
-Holttum, R.E., & Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418). [Malaya]: YWCA of Malaya. (Call no.: RRARE 	641.59595 YOU; Microfilm no.: NL16675)
+Holttum, R.E., &amp; Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418). [Malaya]: YWCA of Malaya. (Call no.: RRARE 	641.59595 YOU; Microfilm no.: NL16675)
 
-Kinsey, W.E. (1929). [*The mem's own cookery book: 420 tried and economical recipes for Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525). Singapore: Kelly & Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
+Kinsey, W.E. (1929). [*The mem's own cookery book: 420 tried and economical recipes for Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525). Singapore: Kelly &amp; Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
 
 Leong-Salobir, C. (2011). [*Food culture in colonial Asia: A taste of empire*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765). London: Routledge. (Call no.: RSING 394.12095 LEO)
 
 MacCallum Scott, J.H. (1939). [*Eastern journey*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316240). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
 
 ##### **Articles and chapters in books**
-Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., & L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
+Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., &amp; L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
 
 Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–210). In H. Callan & S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
+Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–210). In H. Callan &amp; S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
 
 George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper &amp; A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
 
 Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
 
 Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language &amp; literature, 34* (1), 3–18. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -165,28 +165,28 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 
 #### **NOTES**
 [^1]:Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
-[^2]:Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., & L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
+[^2]:Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., &amp; L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
 [^3]:Beetham, 2010, pp. 16–17, 20.
 [^4]:Beetham, 2010, p. 17.
 [^5]:Beetham, 2010, p. 18.
 [^6]:Beetham, 2010, p. 21.
 [^7]:Beetham, 2010, p. 21.
 [^8]:Beetham, 2010, p. 22. 
-[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18, p. 9. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^10]:see, for example, Beeton, I., & Baker, G. (2012). [*Mrs Beeton's cakes & bakes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [*Mrs Beeton puddings*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [*Mrs Beeton classic meat dishes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658699). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
+[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language &amp; literature, 34* (1), 3–18, p. 9. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^10]:see, for example, Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton's cakes &amp; bakes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE); Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton puddings*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE); Beeton, I., &amp; Baker, G. (2012). [*Mrs Beeton classic meat dishes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658699). London: Weidenfeld &amp; Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
 [^11]:V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 [^12]:Europeans wives were collectively called ‘memsahibs’, a generic term borrowed from India that literally means “Madam Boss”.
 [^13]:[“Cookie”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3). (1929, October 16). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^14]:Beetham, 2010, p. 29.
 [^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127, p. 99. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan & S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
+[^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan &amp; S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
 [^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^18]:Brownfoot, 1984, p. 196.
 [^19]:MacCallum Scott, J.H. (1939). [*Eastern journey*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316240) (p. 14). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
 [^20]:Dirks, N.B. (1996). Foreword. In B. Cohn, [*Colonialism and its forms of knowledge: The British in India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. ix). New Jersey: Princeton University Press. (Call no.: R 954 COH), quoted in Procida, M. (2003). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149, p. 138. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^21]:Blunt, 1999, p. 431.
 [^22]:For a description of the content and aspects of food history, see Tan, B. (2011). Malayan cookery books. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 7* (3), 30–34. Retrieved from BiblioAsia website. 
-[^23]:Kinsey, W.E. (1929). [*The mem's own cookery book: 420 tried and economical recipes for Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Preface). Singapore: Kelly & Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
+[^23]:Kinsey, W.E. (1929). [*The mem's own cookery book: 420 tried and economical recipes for Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Preface). Singapore: Kelly &amp; Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
 [^24]:[The literary page – new books reviewed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300919-1.2.110). (1930, January 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 [^25]:[Some new books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56). (1922, May 6). *The Singapore Free Press and Mercantile Advertiser*, p. 9. Retrieved from NewspaperSG.
 [^26]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300919-1.2.110), 30 Jan 1931, p. 17.
@@ -196,14 +196,14 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^30]:Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45). *The Singapore Free Press and Mercantile Advertiser*, p. 5. Retrieved from NewspaperSG.
 [^31]:[*The Singapore Free Press and Mercantile Advertiser*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45), 22 Aug 1941, p. 5.
 [^32]:Compiled by Assistant Director of Fisheries, D.W. Le Mare, Malayan Fish and How to Cook Them is a pamphlet issued by the Department of Information and Publicity to encourage the consumption of local food fishes.
-[^33]:Holttum, R.E., & Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418) (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
-[^34]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 49.
-[^35]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 7–10.
-[^36]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 13–20.
+[^33]:Holttum, R.E., &amp; Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418) (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
+[^34]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 49.
+[^35]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 7–10.
+[^36]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 13–20.
 [^37]:Procida, Summer 2003, p. 138. 
 [^38]:Brownfoot, 1984, p. 199.
 [^39]:Brownfoot, 1984, p. 200.
-[^40]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 5.
+[^40]:[Holttum &amp; HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 5.
 [^41]:The editors expressed regret that “so small a section should be presented […] about the cookery of the native inhabitants of Malaya”. The few recipes contained in the “Malay Section: were contributed by M.C. Murray of the Malay Girls’ School in Malacca, Ishak, a senior fishery officer in Singapore and Miss M.A Bixton. 
 [^42]:Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2–3), 51–68, p. 64. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^43]:Heathcott, M. (1950, November 28). [Singapore revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
@@ -213,7 +213,7 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^47]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
 [^48]:[‘Mrs Beeton’ in action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540506-1.2.87). (1954, May 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^49]:Procida, Summer 2003, p. 124.
-[^50]:Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+[^50]:Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper &amp; A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
 [^51]:Newlyn, Fall 1999, p. 37.
 [^52]:Hing, S. (1956). [*In a Malayan kitchen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437) (p. 7). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
 [^53]:[Hing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437), 1956, p. 7.
