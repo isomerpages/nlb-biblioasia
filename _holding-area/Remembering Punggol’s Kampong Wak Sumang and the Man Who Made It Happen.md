@@ -137,7 +137,8 @@ The National Library Board (NLB) is showcasing some of these stories at Singapor
 <div style="background-color: white;">The “Punggol Stories” exhibition at Singaporium on Level 4 of Punggol Regional Library, 2023. The exhibition features stories and memories of Punggol, with many contributed by the community.</div>
 
 To make the stories of Wak Sumang and his contributions more accessible to the wider community, Ahmad Ubaidillah – whose mother Rohaida Ismail is a descendant of Wak Sumang and grew up in Kampong Wak Sumang – has translated *Tok Sumang* into English (read the original Malay digitised text on 
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">BookSG</a>, while the English translated version can be accessed <a href="”https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/tok-sumang-english/”">here</a>. Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
+[BookSG](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), while the English translated version can be accessed [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/tok-sumang-english/). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
+[here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/tok-sumang-english/)
 
 “Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories.
 
