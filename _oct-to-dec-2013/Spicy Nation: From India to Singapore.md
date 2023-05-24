@@ -208,7 +208,7 @@ Wong, D., &amp; Wibisono, D. (2001). [*The food of Singapore: Authentic recipes 
 
 [^16]:Sanmugam, D., &amp; Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (p. 36). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 
-[^17]:Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
+[^17]:Sur, C. (2003). *Continental cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
 
 [^18]:Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tabla website.
 
