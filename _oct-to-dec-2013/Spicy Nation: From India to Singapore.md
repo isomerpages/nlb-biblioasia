@@ -3,10 +3,10 @@ title: "Spicy Nation: From India to Singapore"
 permalink: /vol-9/issue-3/oct-dec-2013/indian-spicy-food-india-singapore/
 description: ""
 ---
-#### From fish head curry to Indian rojak, Indian food in Singapore has evolved over time, drawing influences from the various local cultures, and finding its place in the hearts of Singaporeans.
+#### From fish head curry to Indian rojak, Indian food in Singapore has evolved over time, drawing influences from various local cultures, and finding its place in the hearts of Singaporeans.
 
 <img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s1.jpg">
-<div style="background-color: white;">Indian <i>rojak</i> is a hot favourite of Singaporeans. <i>Eleanor Foong, ImipolexG, weesen via Flickr.</i></div>
+<div style="background-color: white;">Indian <i>rojak</i> is a hot favourite among Singaporeans. <i>Eleanor Foong, ImipolexG, weesen via Flickr.</i></div>
 
 “The discovery of a new dish does more for the happiness of man than the discovery of a star.”
 <div style="text-align: right">— Jean Anthelme Brillat-Savarin</div>
@@ -15,18 +15,18 @@ Indian cuisine is one of the most diverse in the world. India’s rich culinary 
 
 #### **A Spice for Every Need**
 
-Spices are the heart and soul of Indian cuisine; the use of spices has been an ancient tradition “recorded in Sanskrit texts 3,000 years ago”.[^1] The secret of Indian cuisine lies in the artful combination of spices, finding the right balance of each spice and tempering them skilfully in order to give each dish its distinct full-bodied flavour and aroma.
+Spices are the heart and soul of Indian cuisine. The use of spices has been an ancient tradition “recorded in Sanskrit texts 3,000 years ago”.[^1] The secret of Indian cuisine lies in the artful combination of spices, finding the right balance of each spice and tempering them skilfully in order to give each dish its distinct full-bodied flavour and aroma.
 
-Spices are also believed to have medicinal properties. India’s ancient Ayurvedic medicine offers a “holistic form of healing”[^2] that lists the five basic tastes: sweet, sour, salty, pungent and bitter. Spices such as asafoetida, anise, cinnamon, cumin, turmeric, clove, fennel, carda-mom, nutmeg, fenugreek seeds, mustard seeds, saffron, coriander, curry leaves, bay leaves along with chilli, ginger, onion and garlic (many of which are grown in India) are commonly used to relieve indigestion, infections, the common cold, arthritic pains, and even to keep cholesterol levels in check and protect against heart disease. Spices are so important to India that a dedicated Spices Board was established in 1986 with 32 members and its headquarters in Cochin, Kerala.[^3] 
+Spices are also believed to have medicinal properties. India’s ancient Ayurvedic medicine offers a “holistic form of healing”[^2] that lists the five basic tastes: sweet, sour, salty, pungent and bitter. Spices such as asafoetida, anise, cinnamon, cumin, turmeric, clove, fennel, cardamom, nutmeg, fenugreek seeds, mustard seeds, saffron, coriander, curry leaves, bay leaves along with chilli, ginger, onion and garlic (many of which are grown in India) are commonly used to relieve indigestion, infections, the common cold, arthritic pains, and even to keep cholesterol levels in check and protect against heart disease. Spices are so important to India that a dedicated Spices Board was established in 1986 with 32 members with headquarters in Cochin, Kerala.[^3] 
 
-Apart from using spices individually, masala, basically a mix of spices, is used to add flavour even to the simplest of dishes.[^4] *Masala* comes in various combinations, from dry mixtures to wet pastes, from the more common North Indian *garam masala* — typically a mix of peppercorns, cumin, clove, cinnamon and cardamom pods — to a fiery South Indian coconut-based *masala*. These *masala* concoctions can range in taste from mild to searingly hot.
+Apart from using spices individually, *masala*, basically a mix of spices, is used to add flavour even to the simplest of dishes.[^4] *Masala* comes in various combinations, from dry mixtures to wet pastes, from the more common North Indian *garam masala* – typically a mix of peppercorn, cumin, clove, cinnamon and cardamom pods – to a fiery South Indian coconut-based *masala*. These *masala* concoctions can range in taste from mild to searingly hot.
 
 #### **North Indian Delights**
 
 
 Although influenced by different religions and traditions, as well as varying regional climates, India’s culinary delights can generally be categorised into northern and southern cuisines.
 
-The Moghuls who ruled northern India for 300 years were Muslims, and this region has many Indian restaurants that do not serve pork. The Moghuls introduced the Persian style of cooking to Indian cuisine, which is why North Indian food is milder and less restrained in its use of spices. Mughali dishes, such as creamy *korma* curries and fragrant rice dishes like *briyani* and *pulao* use exotic spices, and dried fruits and nuts.[^5] It is in also in the north, at the Himalayan foothills of Jammu and Kashmir and Dera Dun, where basmati rice, the long grain rice also called the “the king of rice”, is grown.[^6] This aromatic rice is used in the cooking of *briyani* and complements most Indian food.
+The Moghuls who ruled northern India for 300 years were Muslim, and this region has many Indian restaurants that do not serve pork. The Moghuls introduced the Persian style of cooking to Indian cuisine, which is why North Indian food is milder and less restrained in its use of spices. Mughali dishes, such as creamy *korma* curries and fragrant rice dishes like *briyani* and *pulao* use exotic spices as well as dried fruits and nuts.[^5] It is also in the north, at the Himalayan foothills of Jammu and Kashmir and Dera Dun, where basmati rice (a long-grain rice known as the “the king of rice”) is grown.[^6] This aromatic rice is used in the cooking of *briyani* and complements most Indian food.
 
 Another popular dish in North India is *tandoori* chicken, traditionally cooked in a *tandoor* (clay oven). It is simply prepared with yogurt and spices yet this tantalising dish is a favourite with many diners. A popular Kashmiri dish, *roghan josh* is lamb marinated in yogurt and spices. *Mishani* is a seven-course lamb dish that is widely served in Kashmiri weddings and it is an item most sought after in wedding menus.
 
@@ -128,23 +128,23 @@ An interview with Mr Gunasegaran, 11 January 2013.
 
 Brinder, N et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent*. Singapore: Periplus Editions. (Not available in NLB holdings)
 
-Chapman, P. (2007). *India food & cooking: The ultimate book on Indian cuisine*. London: New Holland. (Not available in NLB holdings)
+Chapman, P. (2007). *India food &amp; cooking: The ultimate book on Indian cuisine*. London: New Holland. (Not available in NLB holdings)
 
 Cheung, T. (2017, July 12). *Your pick: World’s 50 best foods*. Retrieved from travel.cnn.com website.
 
-Daley, S., & Hirani, R. (2008). *Cooking with my Indian mother-in-law*. London: Pavilion. (Not available in NLB holdings)
+Daley, S., &amp; Hirani, R. (2008). *Cooking with my Indian mother-in-law*. London: Pavilion. (Not available in NLB holdings)
 
-Dalmia, V., & Sadana, R. (Eds.). (2012). [*The Cambridge companion to modern Indian culture*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14490200). Cambridge, New York: Cambridge University Press. (Call no.: 954.05 CAM)
+Dalmia, V., &amp; Sadana, R. (Eds.). (2012). [*The Cambridge companion to modern Indian culture*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14490200). Cambridge, New York: Cambridge University Press. (Call no.: 954.05 CAM)
 
 *History of Indian Food*. (n.d.) Retrieved from Haldiram website. 
 
 Hutton, W. (2007). [*Singapore food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12775975). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.5955957 HUT)
 
-*Indian cookery: Piquant, spicy & aromatic*. (2007). Cologne: Naumann & Gobel. (Not available in NLB holdings)
+*Indian cookery: Piquant, spicy &amp; aromatic*. (2007). Cologne: Naumann &amp; Gobel. (Not available in NLB holdings)
 
-Joshi, A., & Roberts, A. (2006). *Regional Indian cooking*. North Clarendon, VT: Periplus. (Not available in NLB holdings)
+Joshi, A., &amp; Roberts, A. (2006). *Regional Indian cooking*. North Clarendon, VT: Periplus. (Not available in NLB holdings)
 
-Kenihan, K. (2004). *Indian food*. Brunswick, Vic.: R & R Publications. (Not available in NLB holdings)
+Kenihan, K. (2004). *Indian food*. Brunswick, Vic.: R &amp; R Publications. (Not available in NLB holdings)
 
 Kew Royal Botanic Gardens. *Plant cultures: Curry leaf*. Retrieved from Kew.org website. 
 
@@ -156,9 +156,9 @@ National Library Board. (2016). [*Mee Goreng*](https://eresources.nlb.gov.sg/inf
 
 Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tabla website. 
 
-Sanmugam, D., & Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+Sanmugam, D., &amp; Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 
-Siddique, S., & Shotum, N. (1990). [*Singapore’s little India: Past, present, and future*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
+Siddique, S., &amp; Shotum, N. (1990). [*Singapore’s little India: Past, present, and future*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
 
 Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
 
@@ -170,30 +170,30 @@ Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retri
 
 *The Straits Times’ annual 1974* (p. 86). Retrieved from Roots website. 
 
-Wickramasingher, P., & Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
+Wickramasingher, P., &amp; Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
 
-Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from the Manhattan of the East*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11093999). Singapore: Periplus Editions. (Call no.: RSING 641.595957 WON)
+Wong, D., &amp; Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from the Manhattan of the East*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11093999). Singapore: Periplus Editions. (Call no.: RSING 641.595957 WON)
 
 #### **NOTES**
 
 
 [^1]:Brinder, N et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent* (p. 11). Singapore: Periplus Editions. (Not available in NLB holdings)
 
-[^2]:Joshi, A., & Roberts, A. (2006). *Regional Indian cooking* (p. 8). North Clarendon, VT: Periplus. (Not available in NLB holdings)
+[^2]:Joshi, A., &amp; Roberts, A. (2006). *Regional Indian cooking* (p. 8). North Clarendon, VT: Periplus. (Not available in NLB holdings)
 
-[^3]:Wickramasingher, P., & Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
+[^3]:Wickramasingher, P., &amp; Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
 
 [^4]:Malhi, M. (2011). *Classic Indian recipes: 75 signature dishes* (p. 9). London: Hamlyn. (Not available in NLB holdings)
 
-[^5]:Wickramasingher & Selva Rajah, 2002, p. 13.
+[^5]:Wickramasingher &amp; Selva Rajah, 2002, p. 13.
 
-[^6]:Joshi & Roberts, 2006, p. 33.
+[^6]:Joshi &amp; Roberts, 2006, p. 33.
 
 [^7]:*History of Indian food*. Retrieved from Haldiram.com website.
 
 [^8]:Brinder, 2004, p. 13.
 
-[^9]:Wickramasingher & Selva Rajah, 2002, p. 17.
+[^9]:Wickramasingher &amp; Selva Rajah, 2002, p. 17.
 
 [^10]:*Ananda Bhavan Vegetarian*. (2018). Retrieved from Anandabhavan.com website.
 
@@ -207,7 +207,7 @@ Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from
 
 [^15]:Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retrieved from ieatishootipost website.
 
-[^16]:Sanmugam, D., & Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (p. 36). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+[^16]:Sanmugam, D., &amp; Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (p. 36). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 
 [^17]:Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
 
@@ -216,5 +216,3 @@ Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from
 [^19]:Panickar, 19 Jul 2013, p. 14. 
 
 [^20]:Cheung, T. (2017, July 12). *Your pick: World’s 50 best foods*. Retrieved from travel.cnn.com website.
-
-
