@@ -11,19 +11,18 @@ By Lim Tin Seng and Lee Peng Hui
 ![](/images/Vol%2019%20Issue%202/Brinjai/image_1.png)
 <div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image2.png)
+<div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
 Significant buildings in Singapore tend to fall into a few well-known categories. There are colonial-era buildings typically in the neoclassical style, like the former Supreme Court or the old Parliament House. Then there are stunning modern ones like Jewel Changi Airport, Marina Bay Sands and Esplanade – Theatres on the Bay. Not many of them, however, are 1970s homes located in leafy suburbs. Then again, not many buildings can claim to be the family home of the late architect and conservationist Lee Kip Lin.[^1]
 
 Designed by Lee and built in 1973, the house at 32 Binjai Park has been designated as a significant modernist building in Singapore.[^2]
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image2.png)
-<div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
-
 From the street, the 3,800-square-foot home (353 sqm) is unassuming, with its white-painted brick and plaster walls, and sloping, red-tiled roof. Although it does not stand out visually from its neighbours, it is when one walks through the front door that the unique qualities of the house are revealed.
-
-The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
 
 ![](/images/Vol%2019%20Issue%202/Brinjai/image3.png)
 <div style="background-color: white;">A recent photograph of the house taken from the front gate looking into the car porch, 2022. <i>Courtesy of Dr Lee Peng Hui.</i></div>
+
+The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
 
 The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.[^3] Wild chickens can be seen pecking away, while the pet cat lazes nearby.
 
@@ -31,23 +30,20 @@ At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*
 
 Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
 
+![](/images/Vol%2019%20Issue%202/Brinjai/image4.png)
+<div style="background-color: white;">Lee Kip Lin and his architecture students at his Binjai Park home, 1970s. <i>Courtesy of Mrs Lee Li-ming.</i></div>
+
 #### **A True Modernist**
 
 Associate Professor Tse Swee Ling from the Department of Architecture at the National University of Singapore described Lee’s design approach as pure and down-to-earth. “He did not do fanciful things like the post-modernists with a lot of decorations,” she said. “He did not believe in all that.”[^6]
 
 Tse had worked with Lee on many projects since the 1960s, including 32 Binjai Park. She pointed out that Lee’s home embodies his design philosophy. “The distinctive feature [of 32 Binjai Park] is the simplicity of the design,” she said. “The layout and setting are based on a simple square grid with recesses and void carved out. It is practically a single storey house except for the loft.”[^7]
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image4.png)
-<div style="background-color: white;">Lee Kip Lin and his architecture students at his Binjai Park home, 1970s. <i>Courtesy of Mrs Lee Li-ming.</i></div>
-
 She noted that most people preferred double-storey houses, which made Lee’s home distinctive. The house is also notable for eschewing ostentatious flourishes. “In those days, in the area, which was a rich man’s area, the houses built there were much more elaborate,” she noted. While others used marble, Lee chose normal floor tiles. “I still remember he brought the tiles and showed me. He said, ‘I found these tiles. They are very nice for my house. What do you think? What do you think?’… He was so happy when he found the tiles.”[^8]
 
 #### **Moving Out from Amber Road**
 
 Lee purchased the plot of land at Binjai Park in the early 1960s but he only started making plans to design and build a house on it in the latter half of the decade when he decided to move out from his family home on Amber Road. 
-
-![](/images/Vol%2019%20Issue%202/Brinjai/image7.png)
-<div style="background-color: white;">The ground-floor plan of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 The house in Binjai Park is very different from the Amber Road one. That was a two-storey seafront house, also designed by Lee after the earlier house on the same site was demolished in 1960. Only a wall with a gate stood between the garden and the beach. 
 
@@ -61,20 +57,26 @@ In designing his new home, Lee based the proportions of the house on a square gr
 
 According to Tse, Lee revised the design concept of the house at least three times. The earlier designs featured a more basic grid layout. She said that when Lee first started planning, the house had an even simpler design. However, over time, he added new features like a garden and later a courtyard for ventilation. “If he didn’t have a courtyard, it would have been a large area with no lighting and no air and it would be very stuffy,” she said. “But you can’t see the courtyard from outside because of the veranda.”[^9]
 
-At one point, the house was even meant to be double-storey. But in the final design, it was reduced to one storey with a loft. From the outside though, the loft is not apparent. “The loft was just a small area above the entrance area,” she said. “But the look of the house is single storey, and if you look from outside, you do not know there is a loft.”[^10]
+![](/images/Vol%2019%20Issue%202/Brinjai/image7.png)
+<div style="background-color: white;">The ground-floor plan of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
-![](/images/Vol%2019%20Issue%202/Brinjai/image6.png)
-<div style="background-color: white;">Upstand or inverted beams (circled in red) are used for the loft so that its beams are hidden above the general slab level, 1973. This allows the slab to be fully exposed below without any protruding structure. Without false ceilings, Lee Kip Lin could also fully display the roof construction, including its timber beams and rafters, (boxed in blue) above the living room and veranda, 1973. <i>Lee Kip Lin Collection, National Library, Singapore</i></div>
+At one point, the house was even meant to be double-storey. But in the final design, it was reduced to one storey with a loft. From the outside though, the loft is not apparent. “The loft was just a small area above the entrance area,” she said. “But the look of the house is single storey, and if you look from outside, you do not know there is a loft.”[^10]
 
 Adding to the simple look is the use of brick walls to conceal the reinforced concrete columns inside the house. Lee used the rough finish of bricks as a contrast to the plastered walls. Tse added that Lee chose common bricks instead of “facing bricks”, which are used mainly for facades and hence more aesthetically pleasing.
 
 Lee also did not want to install false ceilings. “He wanted to expose the roof construction by expressing the elements such as timber beams and rafters,” said Tse. “The concrete floor slab of the loft over the dining area was also left bare without a false ceiling. He had taken great care to place services such as the floor trap of the bathroom of the loft outside the house away from the main area so that a false ceiling is not necessary.”[^11]
+
+![](/images/Vol%2019%20Issue%202/Brinjai/image6.png)
+<div style="background-color: white;">Upstand or inverted beams (circled in red) are used for the loft so that its beams are hidden above the general slab level, 1973. This allows the slab to be fully exposed below without any protruding structure. Without false ceilings, Lee Kip Lin could also fully display the roof construction, including its timber beams and rafters, (boxed in blue) above the living room and veranda, 1973. <i>Lee Kip Lin Collection, National Library, Singapore</i></div>
 
 The design of the home also takes the local climate into consideration. Lee relied on the extensive use of louvres for windows and doors (some of which were bifold and trifold), which allows for cross-ventilation even when closed. The use of louvres also extends to the main entrance door. 
 
 While sliding glass windows and doors were coming into fashion about the time the house was built, Lee was adamantly opposed to them as he considered them to be unsuitable for the tropics: they cannot be fully opened and do not allow optimal use of the window and door apertures for ventilation. 
 
 Lee also chose to use a sloping roof instead of a flat one because of the torrential downpours that Singapore regularly experiences. Flat roofs are more likely to leak, which is why Lee gave his house – as well as every house he designed – a sloping roof. A sloping roof would also create a high ceiling that improves ventilation.
+
+![](/images/Vol%2019%20Issue%202/Brinjai/image9.png)
+<div style="background-color: white;"> A view of the veranda and the sloping roof, 2022. On the right is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Courtesy of Dr Lee Peng Hui.</i></div>
 
 #### **A Unique Character**
 
@@ -91,10 +93,6 @@ A more recent addition is the installation of a large ceiling fan in the living 
 
 ![](/images/Vol%2019%20Issue%202/Brinjai/image8.png)
 <div style="background-color: white;"> Looking out into the veranda and garden from the living room, which has a very high ceiling, 2023. The large fan gives the living room a cosier feel. <i>Photo by Jimmy Yap. </i></div>
-
-![](/images/Vol%2019%20Issue%202/Brinjai/image9.png)
-<div style="background-color: white;"> A view of the veranda and the sloping roof, 2022. On the right is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Courtesy of Dr Lee Peng Hui.</i></div>
-
 
 #### **A Home for the Ages**
 
