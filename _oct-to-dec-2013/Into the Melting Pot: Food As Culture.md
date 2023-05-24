@@ -3,52 +3,52 @@ title: "Into the Melting Pot: Food As Culture"
 permalink: /vol-9/issue-3/oct-dec-2013/culture-into-the-melting-pot/
 description: ""
 ---
-#### Through the lens of that unique Lunar New Year creation *yu sheng*, find out how the simplest dishes can be canvases upon which cultural and national identities are inscribed.
+#### Through the lens of the unique Lunar New Year creation, *yu sheng*, find out how the simplest dishes can be canvases upon which cultural and national identities are inscribed.
 
 <img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt1.jpg">
 <div style="background-color: white;"><i>Lo hei</i>, or <i>yu sheng</i>, is a noisy, messy affair and a staple of Chinese New Year celebrations. <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 
-According to Chinese folklore, the four corners of the sky collapsed onto itself after a fierce battle between the gods of water and fire. The Chinese Goddess Nuwa tempered five-coloured stones to mend the sky, then cut off the feet of a great but luckless turtle, whose formidable appendages were used as struts to hold up the firmament.
+According to Chinese folklore, the four corners of the sky collapsed upon itself after a fierce battle between the gods of water and fire. The Chinese Goddess Nuwa tempered five-coloured stones to mend the sky, then cut off the feet of a great but luckless turtle, whose formidable appendages were used as struts to hold up the firmament.
 
-Her work done, Nuwa grew restless and a little lonely, so on the first day, she created chickens to keep her company. On the second day, she created dogs, followed by sheep on the third, pigs on the fourth, cows on the fifth and horses on the sixth. On the seventh day, Nuwa folded up the sleeves of her robes and fashioned human beings from yellow clay, sculpting each one carefully. She was fatigued — and a little impatient — after creating hundreds of such figures in this manner, so she dipped a rope in the clay and flicked it so that blobs of clay landed everywhere. The handcrafted figures became nobles, while the blobs turned into commoners.
+Her work done, Nuwa grew restless and a little lonely, so on the first day, she created chickens to keep her company. On the second day, she created dogs, followed by sheep on the third, pigs on the fourth, cows on the fifth and horses on the sixth. On the seventh day, Nuwa folded up the sleeves of her robes and fashioned human beings from yellow clay, sculpting each one carefully. She was fatigued – and a little impatient – after creating hundreds of such figures in this manner, so she dipped a rope in the clay and flicked it such that blobs of clay landed everywhere. The handcrafted figures became nobles, while the blobs turned into commoners.
 
-This seventh day falls on *zhengyue*, the first month of the Chinese calendar and is known as *renri* (literally Human Day) — the birthday of mankind. *Renri* also coincides with the seventh day of the Chinese Lunar New Year.
+This seventh day falls on *zhengyue*, the first month of the Chinese calendar and is known as *renri* (literally Human Day) – the birthday of mankind. *Renri* also coincides with the seventh day of the Chinese Lunar New Year.
 
-On *renri*, Singaporeans and Malaysians of Chinese descent celebrate their universal birthday by eating *yu sheng* — more popularly known as *yee sang* in Malaysia — a peculiarly local practice of eating raw fish salad (see text box below) that traces its history back to the 1960s.
+On *renri*, Singaporeans and Malaysians of Chinese descent celebrate their universal birthday by eating *yu sheng* – more popularly known as *yee sang* in Malaysia – a peculiarly local practice of eating raw-fish salad (see text box below) with a history that can be traced back to the 1960s.
 
 #### **A Lucky Dish of Fish** 
 
-Fortune or luck is a great arbiter in Chinese culture and the Chinese are unabashed in their pointed preference for material wealth. The longing for instant prosperity and wealth is underscored in the *lo hei* exercise, with its broad tossing and sweeping gestures.
+Fortune or luck is a great arbiter in Chinese culture, and the Chinese are unabashed in their pointed preference for material wealth. The longing for instant prosperity and wealth is underscored in the *lo hei* exercise, with its broad tossing and sweeping gestures.
 
-One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
+One of Singapore’s most renowned cooks, Chef Sin Leong, recalled how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
 
 <img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg">
 <div style="background-color: white;">
 Chef Sin Leong casting a watchful eye over proceedings in his kitchen. <i> Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div> 
 
-The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.[^1] The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
+The performative ritual of ushering in wealth is only symbolic; more importantly, eating in ritual contexts can also reaffirm relationships with others.[^1] The communal partaking of *yu sheng* is perhaps the closest thing that the Chinese, known for their usually reserved nature, ever come to "dancing like no one is watching" as a family over food. 
 
-#### **Food As a Form of Culture** 
+#### **Food as a Form of Culture** 
 
-The Department of Anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".[^2] Culinary culture is central to diasporic identification, with the focus on the place of food in society, more specifically in the enduring habits, rituals and daily practices that are collectively used to create and sustain a shared sense of cultural identity.
+The Department of Anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".[^2] Culinary culture is central to diasporic identification, with the focus on the place of food in society, specifically in the enduring habits, rituals and daily practices that are collectively used to create and sustain a shared sense of cultural identity.
 
-To this end, restaurateur, chef and F&B consultant, David Yip, hopes to reinvigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club Jumping Tables, a sporadic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs – from humble eateries to established restaurants – to cook at these gatherings.
+To this end, restaurateur, chef and F&amp;B consultant, David Yip, hopes to reinvigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club, Jumping Tables, a sporadic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs – from humble eateries to established restaurants – to cook at these gatherings.
 
-One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of Red Star restaurant in Chin Swee Road and owner of the now defunct Sin Leong Restaurant, a local institution in Cantonese cuisine that first opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
+One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of the Red Star restaurant on Chin Swee Road and owner of the now-defunct Sin Leong Restaurant, a local institution of Cantonese cuisine that opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
 
-Before the meal commenced, Chef Sin insisted that the guests visit the altar he keeps in his kitchen, where his mentor, the late Master Luo Cheng, smiles out of an ornate frame, amid offerings of orchid blooms and clouds of incense. Hailing from Shanghai, China, Master Luo groomed Singapore's four most prominent Chinese chefs in the 1970s. His protégés, Sin Leong, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui, were later crowned as Singapore's "Four Heavenly Culinary Kings".
+Before the meal commenced, Chef Sin insisted that the guests visit the altar in his kitchen, where his mentor, the late Master Luo Cheng, smiles from an ornate frame, amid offerings of orchid blooms and clouds of incense. Hailing from Shanghai, China, Master Luo had groomed Singapore's four most prominent Chinese chefs in the 1970s. His protégés – Sin Leong, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui – were later crowned as Singapore's "Four Heavenly Culinary Kings".
 
 <img style="width:50%;" src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg">
-<div style="background-color: white;">The altar of Master Luo. (2013). <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
+<div style="background-color: white;">The altar of Master Luo, 2013. <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 	
 	
-Under the tutelage of Master Luo, the four young junior chefs toiled in the kitchen under his stern eye and exacting standards at the famed Cathay Restaurant (at the old Cathay Building). Opened in 1940, it initially served European fare, but underwent a revamp in 1951 under Master Luo to become the finest Chinese restaurant in Singapore, specialising in Cantonese cuisine. The Cathay Restaurant closed in December 1964 and reopened under a new management at the renovated Cathay Building in 2007.
+Under the tutelage of Master Luo, the four young junior chefs toiled in the kitchen under his stern eye and exacting standards at the famed Cathay Restaurant in the old Cathay Building. Opened in 1940, it initially served European fare, but underwent a revamp in 1951 under Master Luo to become the finest Chinese restaurant in Singapore, specialising in Cantonese cuisine. Cathay Restaurant closed in December 1964 and reopened under a new management in the renovated Cathay Building in 2007.
 
-Chef Hooi, the founder of the famed Dragon Phoenix restaurant - located today at Novotel Clarke Quay at River Valley Road – remembers Master Luo as being very strict, not only making them sharpen their culinary skills but also inculcating in them good work ethics. "[Master Luo] believed that besides skills, good chefs must be equipped with a high standard of social responsibility because they feed so many people." Once the four apprentices had attained a certain level of culinary proficiency, Master Luo told them to go forth to spread the art of Cantonese cuisine.
+Chef Hooi, the founder of the famed Dragon Phoenix restaurant – located today in Novotel Clarke Quay on River Valley Road – remembered Master Luo as being very strict, not only making them sharpen their culinary skills but also inculcating in them good work ethics. "[Master Luo] believed that besides skills, good chefs must be equipped with a high standard of social responsibility because they feed so many people," Hooi shared. Once the four apprentices had attained a certain level of culinary proficiency, Master Luo told them to go forth to spread the art of Cantonese cuisine.
 
-The four took their teacher's word seriously and each opened a restaurant: Sin opened Sin Leong Restaurant, Hoi started Dragon Phoenix, Tham opened Lai Wah restaurant (in Bendemeer Road) and Lau launched Red Star. The four decided it was important their restaurants did not cannibalise one another's menus. Each would have their own signature dishes, "They were like brothers," Chris Hooi, the son of Chef Hooi, who now helms Dragon Phoenix, says. This bond was no doubt forged through their years of slaving over hot stoves together in the kitchen.
+The four took their teacher's word seriously and each opened a restaurant: Sin opened Sin Leong Restaurant, Hoi started Dragon Phoenix, Tham established Lai Wah restaurant (on Bendemeer Road) and Lau launched Red Star. The four decided it was important that their restaurants did not cannibalise one another's menus. Each would have their own signature dishes. "They were like brothers," said Chris Hooi, the son of Chef Hooi, who now helms Dragon Phoenix. This bond was no doubt forged through their years of slaving over hot stoves together in the kitchen.
 
-Beyond this, the four decided they would meet every week to discuss fresh ideas for new recipes. These gastronomic brainstorming sessions resulted in iconic Singaporean dishes such as chilli crabs and deep-fried yam ring as well as the modern version of *yu sheng*.
+Beyond this, the four decided they would meet every week to discuss fresh ideas for new recipes. These gastronomic brainstorming sessions resulted in iconic Singaporean dishes such as the chilli crab and deep-fried yam ring as well as the modern version of *yu sheng*.
 
 Master Luo's fervent wish to extend the popularity of Cantonese cuisine and his four apprentices' desire to execute this wish was almost evangelical in intent. When examined through the lens of the early immigrants - who were motivated by pride and desire to revalidate their racial and cultural identities, as well as that of generations to come, despite being physically far removed from the motherland - Master Luo's zeal for his native Cantonese cuisine is better understood. For Luo and his protégés, it was likely that the preparation, cooking and serving of Cantonese cuisine became the nexus of their diasporic Chinese identity.
 
@@ -125,9 +125,9 @@ Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-colum
 
 Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
 
-Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor & Francis Online website.
+Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor &amp; Francis Online website.
 
-Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. Annual review of Anthropology, 31, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Mints, S.W., &amp; Du Bois, C.M. (2002). The anthropology of food and eating. Annual review of Anthropology, 31, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
 
@@ -146,11 +146,11 @@ Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.n
 #### **NOTES**     
 	
 	
-[^1]:Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. *Annual review of Anthropology, 31*, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^1]:Mints, S.W., &amp; Du Bois, C.M. (2002). The anthropology of food and eating. *Annual review of Anthropology, 31*, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^2]:Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
 
-[^3]:Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor & Francis Online website.
+[^3]:Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor &amp; Francis Online website.
 
 [^4]:Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
 
