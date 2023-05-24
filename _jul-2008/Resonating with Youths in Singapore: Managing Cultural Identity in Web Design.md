@@ -10,6 +10,10 @@ image: /images/Vol 4 Issue 2/f1_hyakuhana2.jpg
 ---
 #### Media and entertainment websites were used as an empirical resource for the investigation and understanding of the definition of Chinese youths in Singapore. An understanding of “youth cultural identity” is fundamental in analysing their response to global cultural influences: it would resonate with their consumption of information from the web medium.
 
+<img src="/images/Vol%204%20Issue%202/f1_hyakuhana3.jpg" style="width:80%;">
+ <div style="background-color: white;">Ai Yamaguchi ‘Hyaku no hana, yuki wa furitsutsu’, 2003/06. <i>Fiction@Love exhibition in Singapore Art Museum, 12 May to 2 July 2006. Courtesy of Ninyu works. Photographed by Third Eye Studio, Singapore.</i></div>
+
+
      Studies demonstrate that traditional mainstream<br>     media such as newspapers, television and radio<br>     play a key role in the management of cultural <br>     inter-ethnic relations in Singapore (Kuo, 1999).<br>     Design strategies for cultual web communications<br>     are a new way to express the formation and<br>     representation of new national and cultural<br>     identities in contemporary Chinese communities.<br>     Internet culture has influenced lifestyle and<br>     cultural identity of youths in the global economy.<br>     Recent surveys in Singapore have also shown that<br>     connectivity (via electronic means) is among their<br>     top Five'C's[^1] in the their social priorities (Yen, 2005).
 
 In this study, media and entertainment websites are used as an empirical resource for the investigation and understanding of the definition of Chinese youths in Singapore. An understanding of ‘youth cultural identity’ is fundamental in analysing their response to global cultural influences: it would resonate with their consumption of information from the web medium. Media and entertainment websites are integral because this industry forms a key aspect of popular culture in Singapore. Moreover, there is an increasing trend to incorporate pop culture consumption in national policies. For instance, Chinese pop singers, pop idols and television celebrities have become media network spokespersons for the promotion of the official Chinese language in the state-initiated ‘Speak Mandarin’ Campaign.[^2] 
@@ -161,7 +165,3 @@ Yen Feng, “[Page 4 Advertisements Column 2: Electric Youth: Tuned In, Turned O
 [^7]: Chinese Pop website is launched as part of the recent ‘Speak Mandarin Campaign’ mission to re-educate young Chinese Singaporeans about Chinese culture and heritage in order to stay competitive in the China–dominated world economy. The recent slogan ‘Speak Mandarin, Cool’ attempts to encourage English-speaking Chinese Singaporeans to speak Mandarin and that conversing in this language is sophisticated (Promote Mandarin Council, Media Release 2006).
 
 [^7]: Traditional Chinese colour symbolism is represented by the Five Chinese elements of nature, points of the compass, regions of the country and the seasons. The Five elements and their colours are earth (yellow); metal (white); water (black); wood (green),and fire (red) (Peterson, 2000)
-
-
-
-
