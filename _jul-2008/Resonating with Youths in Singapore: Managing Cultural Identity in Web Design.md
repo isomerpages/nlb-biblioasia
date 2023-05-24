@@ -39,6 +39,9 @@ Minister Mentor Lee Kuan Yew commented that Singapore will not evolve into a hom
 
 Senior Minister Goh Chok Tong further elaborated his new metaphor representing the two groups of Chinese Singaporeans – the Chinese educated (‘heartlanders’) individuals and the English educated bilingual (‘cosmopolitan’) individuals. The ‘heartlanders’ are characterised as the ‘culture carriers who play a major role in maintaining our core values and our social stability’. In comparison, the ‘cosmopolitans’ are the professionals who are ‘valued for their economic contributions and international outlook to operate and produce goods and services for the global market. Their loyalties are fluid and dictated by economic considerations’. It is also observed that the English educated Chinese (‘cosmopolitans’) are regarded as being the elites and the centre of power and influence with the Chinese educated (‘heartlanders’) at the periphery (Tan, 2002).
 
+<img src="/images/Vol%204%20Issue%202/chiho1.jpg" style="width:50%;">
+ <div style="background-color: white;">Chiho Aoshima In sane Karuna, 2000. Inkjet print on paper (1700 x 465 mm).<i>Courtesy of Blum &amp; Poe, Los Angeles/ Galerie Emmanuel Perrotin, Paris &amp; Miami (c)2000 Chiho Aoshima/Kaikai Kiki Co., Ltd. All rights reserved.</i></div>
+
 Living in a globalised and technological era, Singapore’s new cultural identity will continue to evolve more rapidly than before. While Singapore’s youths continue to accept foreign ideas, traditional values will constantly be revitalised. A hybrid pluralistic identity influenced by transnationalism and its complex socio-cultural network may be formed eventually with an essence of local peculiarities. This socio-economic development discursively intertwined with cultural and cognitive changes – such as values, beliefs, norms, attitudes and lifestyles as well as the dense flow of cultural products – are some determining factors in shaping one’s cultural identity on local youths.
 
 #### **Approaches to Cultural Model**
@@ -53,8 +56,9 @@ Fleming’s multiple layer system of segmenting the design process acts as a ref
 
 Using this model of respect and understanding of the user’s culture, contemporary designers can implement better design solutions that not only improve usability, but also convey cultural identity and help connect the user emotionally. Although such emotionalised brand expressions are common practice in print media, the key component of effective design solutions – colour, metaphor and information architecture – are key criteria for creating strong visual and sensory identity in web communications. For instance, the multifaceted meaning of colour that displays cultural differences is subjected to regional context (Peterson, 2000). Visual metaphors ‘facilitate learning by allowing users to draw upon the knowledge they already possess about the reference system’ (Nielson, 2000). Information architecture is also argued as a ‘metaphor’ because it shows how items on the page are saliently presented in hierarchical association that draws users attention across the page. It presents a reading pattern or blue print to help users reach their goals on web interfaces (Veen, 2001).
 
-
 #### **A Case Study of Media and Entertainment Websites**
+
+
 
 Visual design constitutes an important area for visual communications. In this case study, three design components of websites from the local media and entertainment industry were selected. They are colour, visual metaphor and information architecture. These were then tested with the socio/cultural background of Singapore society. The websites include state-owned MediaCorp Pte Ltd’s website (MediaCorp) (<a href="https://www.mediacorp.sg/">https://www.mediacorp.sg/</a>), Channel 8 websites (Chinese[^4] and English[^5] versions, and Chinese Pop iwebsite[^6] <a href="https://www.mediacorp.sg/advertising/our-brands/channel-8">https://www.mediacorp.sg/advertising/our-brands/channel-8</a>). The purpose of the visual analysis elucidates patterns of visual and cultural presentation and its management of youth culture.
 	
