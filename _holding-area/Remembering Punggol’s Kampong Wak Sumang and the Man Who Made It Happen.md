@@ -161,15 +161,11 @@ The National Archives, UK,
 <a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e43d667-d90f-11e9-90d4-001a4a5ba61b"><i>Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands</i></a>, c. 1820, map. (From National Archives of Singapore, accession no. D2019_000020_TNA)<br><br>
 “<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7">What’s in a Name</a>,” <i>Straits Times</i>, 14 August 1990, 7. (From NewspaperSG)<br><br>
 </div>
-	
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> 
-<i>Tok Sumang</i> by Muhammad Ariff Ahmad has been translated into English by Ahmad Ubaidillah. To read this, visit <a href="https://go.gov.sg/tok-sumang-english"> https://go.gov.sg/tok-sumang-english</a>
-</div>
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
-<b>Hannah Yeo</b> is a Curator with the National Library, Singapore. She is curator of the “Punggol Stories” trail at Punggol Regional Library.</div>
+<b>Hannah Yeo</b> is a Curator with the National Library, Singapore, and curated the “Punggol Stories” trail at Punggol Regional Library.</div>
 
 #### **Notes**
 
