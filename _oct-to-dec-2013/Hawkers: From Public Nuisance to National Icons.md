@@ -128,13 +128,13 @@ Cutlery and uniforms used in food courts also tend to be standard issue, and man
 
 #### **REFERENCES**
 
-[20,000 Hawkers Defy The Law](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG. 
+[20,000 hawkers defy the law](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG. 
 
 [7,000 unlicensed hawkers resited since 1968](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750812-1.2.54). (1975, August 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG. 
 
 Bartley, W. (1932). [*Report of the Committee Appointed to Investigate the Hawker Question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx). Singapore: Govt. Print. Off. Retrieved from BookSG.
 
-Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx). London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.]. Retrieved from BookSG.
+Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx). London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.] Retrieved from BookSG.
 
 Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? *BBC News*. Retrieved from BBC News website. 
 
@@ -148,7 +148,7 @@ Feng, Z. (2013, January 9). [2 bodies to start training would-be hawkers](http:/
 
 [Health Ministry committee to plan hawker centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710823-1.2.64). (1971, August 23). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[Health Officers alarmed at dangers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570107-1.2.10). (1957, January 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[Health officers alarmed at dangers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570107-1.2.10). (1957, January 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
 Hedwig, A., &amp; Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
@@ -167,7 +167,7 @@ Lim, J. (2013, May 8). Singapore are the biggest spenders in Asia-Pacific for di
 
 [Mr Leow wants ‘big spaces’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531219-1.2.88). (1953, December 19). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[New Ministry’s $5m plan for hawker resettlement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.104). (1972, September 25). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[New ministry’s $5m plan for hawker resettlement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.104). (1972, September 25). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 
 [‘No new licences for hawkers’ policy won’t be relaxed: Kim San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730314-1.2.27.1). (1973, March 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
@@ -191,13 +191,13 @@ Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresou
 
 Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung &amp; C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
 
-Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
 
 #### **NOTES**
 [^1]:Lim, J. (2013, May 8). Singapore are the biggest spenders in Asia-Pacific for dining: Survey. (2013, May 8). *The Straits Times*. Retrieved from The Straits Times website.
 [^2]:Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) (pp. 65–66). London: Smith, Elder and Co. Retrieved from BookSG.
 [^3]:[Street hawking nuisance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19051012-1.2.10). (1905, October 12). *Eastern Daily Mail and Straits Morning Advertiser*, p. 2. Retrieved from NewspaperSG.
-[^4]:Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061) (p. 262). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+[^4]:Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061) (p. 262). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
 [^5]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser &amp; Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
 [^6]:Simpson, W.J. (1907). *Report on the sanitary condition of Singapore* (p. 16). London: Waterlow &amp; Sons. (Not available in NLB holdings)
 [^7]:Bartley, W. (1932). [*Report of the committee appointed to investigate the hawker question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx) (pp. 3–4). Singapore: G.P.O. Retrieved from BookSG.
