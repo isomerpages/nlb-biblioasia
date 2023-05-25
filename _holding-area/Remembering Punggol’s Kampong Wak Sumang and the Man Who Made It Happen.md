@@ -16,6 +16,9 @@ As you walk around Punggol today, you may encounter the name “Sumang”. Suman
 
 The name Sumang belongs to the man who founded Kampong Wak Sumang, also known as Kampong Punggol – one of Singapore’s earliest kampongs.[^1] This kampong was situated at Punggol Point, a 10-minute cycle from the current Sumang neighbourhood.
 
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/1844%20map%20v1.jpg)
+<div style="background-color: white;">Children playing in front of a house in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
+
 For over 100 years, the growth of Kampong Wak Sumang reflected changes in the Punggol Point community, until its residents relocated in the 1980s to make way for today’s public housing estate.[^2] Although no physical traces of the kampong remain, fragments of its story can be pieced together from books, oral history interviews, newspaper reports and artefacts in the collections of the National Library and the National Archives of Singapore.
 
 ![](/images/Vol%2019%20Issue%202/Tok%20Sumang/2023_0103_17285600.jpg)
