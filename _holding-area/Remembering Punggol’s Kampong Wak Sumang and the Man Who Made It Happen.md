@@ -94,6 +94,9 @@ Sumang and his wife Gobek were buried near the grounds of Masjid Wak Sumang.[^27
 
 Awang Osman was Kampong Wak Sumang’s headman from 1932 until its demolition in 1985.[^31] His account of the kampong’s history is captured in 800 minutes of oral history interviews with the National Archives of Singapore, recorded over 30 reels between August 1984 and December 1985. Wak Sumang was Awang Osman’s maternal great-grandfather.[^32]
 
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/awang%20osman.jpg)
+<div style="background-color: white;">Awang Osman conducting prayers at the graveyard in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
+
 In his interviews, Awang Osman recalled the dark days that followed after Singapore fell to the Japanese in February 1942. He and everyone else in Kampong Wak Sumang fled inland. “Of course I ran. The white [British] people told me, don’t stay here, you must flee. So I started running… there wasn’t a single person who remained in the kampong.”[^33]
 
 After the Japanese invaded, they massacred thousands in an effort to purge anti-Japanese elements from the Chinese community (now known as Operation Sook Ching[^34]). Punggol Beach was one of the execution sites. Awang Osman had not witnessed the killings, but he saw the aftermath. “When I returned [to Punggol], there were many Chinese who had been killed, floating in the sea. They had been shot by the Japanese. All in all there were maybe 500 [to] 600 people. Some were tied up with ropes, others impaled by barbed wire,” he recounted.[^35]
@@ -115,6 +118,9 @@ As the community grew, the villagers in Kampong Wak Sumang decided to build a Ma
 #### **Developing Punggol**
 
 In the 1960s, Kampong Wak Sumang welcomed piped water, electricity, paved roads and drainage systems. Punggol Point was also becoming well known for its open-air seafood restaurants and boatels (boat storage and water sports centres). Besides providing docking facilities for pleasure boats when not in use, these boatels also rented out boats for water skiing, fishing and sightseeing activities. People would come from all over Singapore to soak in the sea breeze, enjoy delicious seafood and take part in water sports. Punggol Point became a popular recreational spot for locals and tourists.[^42]
+
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/old%20picture.jpg)
+<div style="background-color: white;"> Ponggol (Hock Kee) Seafood Restaurant, c. 1990s. Punggol Point was a seafood haven from the 1960s to 1980s, with three famous restaurants – Choon Seng, Hock Kee and Whee Heng. <i>Courtesy of Anthony Ting.</i></div>
 
 The residents of Kampong Wak Sumang were part of the thriving scene. Some like Awang Abdullah, whose nickname was Awang Pendek, ran a boatel business. Others sold their fishing catch to seaside restaurants and hotels and also at nearby markets in Kangkar and Punggol.[^43]
 
