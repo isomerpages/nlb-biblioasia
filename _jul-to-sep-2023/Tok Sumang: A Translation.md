@@ -55,8 +55,8 @@ Therefore, a critical and creative lens is needed when consuming any text, inclu
 
 The National Library Board has digitised the original book, which can be accessed <a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">here</a>.<br><br>
 
-Ahmad Ubaidillah<br>
-April 2023</div>
+<b>Ahmad Ubaidillah<br>
+	April 2023</b></div>
 
 **Foreword**
 
