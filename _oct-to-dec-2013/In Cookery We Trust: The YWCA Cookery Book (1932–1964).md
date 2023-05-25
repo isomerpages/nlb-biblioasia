@@ -37,15 +37,15 @@ Local dishes were first included in the second edition, and the editors drew fro
 
 The editors of the second edition of the cookbook were Ursula Holttum and Gertrude Hinch (the wives of R.E. Holttum and T.W. Hinch respectively). Their contributions to the community are an indication of how the lives of these expatriate and local women were intertwined. Both editors were active in the YWCA committee where Ursula served as treasurer and Gertrude as Malaya’s representative for the International YWCA.
 
-Cooking for these women was not merely a leisurely or educational pastime; it was essential for survival during the Pacific War. In 1941, as meat became scarce, Ursula published a booklet titled *How to Cook Malayan Vegetables*. The book launch was accompanied by several radio talk shows[^18] where she gave instructions on the cooking of local vegetables that many European housewives were unfamiliar with. Her knowledge complemented her husband’s article on the growing of salad vegetables in the 1935 edition of The Y.W.C.A. Cookery Book. Holltum shared Ursula’s conviction that eating right would help reduce the negative effects of a poor diet, especially in those dark times.[^19]
+Cooking for these women was not merely a leisurely or educational pastime; it was essential for survival during the Pacific War. In 1941, as meat became scarce, Ursula published a booklet titled *How to Cook Malayan Vegetables*. The book launch was accompanied by several radio talk shows[^18] where she gave instructions on the cooking of local vegetables that many European housewives were unfamiliar with. Her knowledge complemented her husband’s article on the growing of salad vegetables in the 1935 edition of *The Y.W.C.A. Cookery Book*. Holttum shared Ursula’s conviction that eating right would help reduce the negative effects of a poor diet, especially in those dark times.[^19]
 
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Cookery%20Books.jpg" style="width: 500%;">
 <div style="background-color: white;">
-These cookbooks reflect the changes in domestic science and social norms among women in Malaya spanning the pre- and post-war periods.</div>
+These cookbooks reflect the changes in domestic science and social norms among women in pre- and postwar Malaya.</div>
 	
 
 
-The fifth edition of The Y.W.C.A. International Cookery Book of Malaya—fondly known as the “Blue Triangle Cookery Book”[^20] by the Association’s cookery class students—was released in 1948, this time under the editorship of Morag Llewellyn. Armed with a diploma in domestic science from the University of London,[^21] she arrived with her husband, Alun Ewart Llewellyn, in Malaya in 1934. Alun managed collieries in Malaysia until they left Malaya for good in 1966, by which time Morag had overseen the updating and republishing of the cookbook five more times into its ninth edition in 1962.[^22]
+The fifth edition of *The Y.W.C.A. International Cookery Book of Malaya* – fondly known as the “Blue Triangle Cookery Book”[^20] by the Association’s cookery class students – was released in 1948, this time under the editorship of Morag Llewellyn. Armed with a diploma in domestic science from the University of London,[^21] Morag arrived with her husband, Alun Ewart Llewellyn, in Malaya in 1934. Alun managed collieries in Malaya until they left the region for good in 1966, by which time Morag had overseen the updating and republishing of the cookbook five more times into its ninth edition in 1962.[^22]
 
 #### **Postwar Food and Cooking**
 
