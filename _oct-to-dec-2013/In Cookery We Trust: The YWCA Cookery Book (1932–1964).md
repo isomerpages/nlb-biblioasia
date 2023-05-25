@@ -6,7 +6,7 @@ description: "#### The Y.W.C.A. Cookery Book of Malaya is a treatise on the
   habits of Singaporeans over three decades."
 image: /images/vol-9-issue-3/In Cookery We Trust/YWCA Cooking Class_1.jpg
 ---
-#### The Y.W.C.A. Cookery Book of Malaya is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
+#### The *Y.W.C.A. Cookery Book of Malaya* is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
 
 
 
@@ -15,13 +15,13 @@ image: /images/vol-9-issue-3/In Cookery We Trust/YWCA Cooking Class_1.jpg
 	
 “I value my copy \[of the Y.W.C.A. Cookery Book of Malaya\] as a social study of living conditions in Asia, quite apart from its practical kitchen uses.” — Julie Pritchard[^1]
 
-First published in 1932, the Y.W.C.A. Cookery Book of Malaya has been updated and republished nine times — the last in 1962. More than an ordinary record of recipes, this influential cookbook is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
+First published in 1932, the *Y.W.C.A. Cookery Book of Malaya* has been updated and republished nine times – the last in 1962. More than an ordinary record of recipes, this influential cookbook is a treatise on the changing culinary styles as well as evolving domestic practices and eating habits of Singaporeans over three decades.
 
-The Young Women Christian Association (YWCA) was founded in 1855 during the Industrial Revolution in England. Exactly 20 years later in Singapore, a young missionary named Sophia Cooke gathered a group of young Chinese ladies from the school she founded[^2] and formed a branch of the YWCA.[^3] Her vision of these members “trusting in God and of helping themselves without forgetting others”[^4] still remains a vital guiding principle of the YWCA today.
+The Young Women's Christian Association (YWCA) was founded in 1855 during the Industrial Revolution in England. Exactly 20 years later in Singapore, a young missionary named Sophia Cooke gathered a group of young Chinese ladies from the school she founded[^2] and formed a branch of the YWCA.[^3] Her vision of these members – “trusting in God and of helping themselves without forgetting others”[^4] – remains a vital guiding principle of the YWCA today.
 
 #### **Cookery Classes**
 
-In the early 19th century, cooking classes became a central activity in the YWCA in Singapore, following new understanding in Britain of nutritional needs and a push toward training women to prepare balanced yet tasteful meals.[^5] Initially only lessons in preparing Western meals[^6] were offered but by the 1920s local dishes were common fare.[^7] In 1933, YWCA members conducted a series of cookery demonstrations at the Kuala Lumpur Electrical department showrooms. These were believed to be the first public cookery demonstrations organised in Malaya, and the daily morning course attracted more than a hundred participants.
+In the early 19th century, cooking classes became a central activity in the YWCA in Singapore, following a new understanding in Britain of nutritional needs and a push towards training women to prepare balanced yet tasty meals.[^5] Initially, only lessons in preparing Western meals[^6] were offered, but by the 1920s local dishes were common fare.[^7] In 1933, YWCA members conducted a series of cookery demonstrations at the Kuala Lumpur Electrical department showrooms. These were believed to be the first public cookery demonstrations organised in Malaya, and the daily morning course attracted more than a hundred participants.
 
 Participants were exposed to dishes beyond those they were familiar with, whether British or Malayan and included meals from India and the United States.[^8] In these classes, expatriate ladies were introduced to Asian flavours and cooking styles while the Malayan women learnt both the techniques of Western cooking as well as concepts of good nutrition.[^9] More than an exchange of ideas, these classes became a nurturing environment where Malayan women could fraternise with the wives of British colonials and American missionaries.[^10] It was also a place where local women began to take centre stage as cooking instructors, first for local dishes and later in teaching the various cuisines that Singaporeans are now so familiar with.
 
@@ -64,8 +64,8 @@ Morag, the five-time editor of the cookbook, had wanted to improve the 1962 edit
 As a publication spanning the pre-war and post-war periods of Malaya’s development, the various editions of The Y.W.C.A. International Cookery Book of Malaya mirror the changes in domestic science and the evolution of social norms among the women of Malaya during these tumultuous times. This collection of cookbooks, held in the National Library of Singapore, contain a wealth of information for researchers wanting to learn more about the domestic culinary habits of Malayan households and the lifestyles of women, both local and foreign, between 1932 and 1964. 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board since 1997. Her passion for Singapore food has increased since she telecommutes from Vietnam, where she is currently based.</div>
 	
 #### **REFERENCES**    
@@ -183,8 +183,3 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 [^27]:  Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
 [^28]: [Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681), 1962.
-
-
-
-
-
