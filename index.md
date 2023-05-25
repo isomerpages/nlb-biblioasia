@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/
-      button: "Globetrotting Mums: Then and Now "
+      button: "Globetrotting Mums: Then and Now"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
@@ -19,8 +19,8 @@ sections:
   - infopic:
       title: "Tok Sumang: A Translation"
       subtitle: People
-      description: "A story about Wak Sumang, a man of great wisdom and many talents,
-        and the founder of Kampong Punggol. "
+      description: A story about Wak Sumang, a man of great wisdom and many talents,
+        and the founder of Kampong Punggol.
       button: Wak Sumang’s legacy
       url: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
       alt: Image alt text
@@ -50,16 +50,16 @@ sections:
       description: In this extract from the book <i>From Keroncong to Xinyao</i>, the
         author looks at why the record industry in Singapore took off in the
         1960s.
-      button: "RECORDING MUSIC "
+      button: RECORDING MUSIC
       url: https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s
       image: /images/Vol 19 Issue 2/SG Record Industry/image2.png
       alt: Image alt text
   - infopic:
       title: "Golden Mile Complex: Five Decades of an Architectural Icon"
       subtitle: Architecture
-      description: "The collective sale and conservation of Golden Mile Complex will
+      description: The collective sale and conservation of Golden Mile Complex will
         restore a visionary building designed for a “new look Singapore” 50
-        years ago. "
+        years ago.
       button: A FAMOUS LANDMARK
       url: /vol-19/issue-2/jul-sep-2023/golden-mile-complex/
       image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
@@ -67,8 +67,8 @@ sections:
   - infopic:
       title: Restoring Classic Singaporean Films
       subtitle: Film and Photography
-      description: "<i>Money No Enough, Forever Fever</i> and <i>The Teenage Textbook
-        Movie</i> are prime candidates for restoration. "
+      description: <i>Money No Enough, Forever Fever</i> and <i>The Teenage Textbook
+        Movie</i> are prime candidates for restoration.
       button: Passion for Film Restoration
       url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
       image: /images/Vol 19 Issue 2/Restoring SG
@@ -104,8 +104,8 @@ sections:
   - infopic:
       title: "Belacan: Caviar? Or Vile and Disgusting?"
       subtitle: Food
-      description: "Fermented shrimp is a staple in many cuisines of Southeast Asia,
-        though it takes some getting used to. "
+      description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
+        though it takes some getting used to.
       button: ALSO KNOWN AS BAGOONG, KAPI AND TERASI
       url: /vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/
       image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
@@ -113,8 +113,8 @@ sections:
   - infopic:
       title: Which Was Singapore's First Courthouse?
       subtitle: Places and Buildings
-      description: "Singapore’s former Parliament building, known today as The Arts
-        House, was used as a courthouse from 1828 to 1939. "
+      description: Singapore’s former Parliament building, known today as The Arts
+        House, was used as a courthouse from 1828 to 1939.
       button: SINGAPORE’S COURTHOUSES
       url: /vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell
       image: /images/Vol 19 Issue 1/Courthouse/Former_courthouse.png
@@ -154,7 +154,7 @@ sections:
       subtitle: Leisure
       description: Three public bathhouses at Ellenborough Market, Canton Street and
         Clyde Terrace were built by the Municipality in the late 19th century.
-      button: "Singapore’s Public Bathhouses "
+      button: Singapore’s Public Bathhouses
       url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
       image: /images/Vol 19 Issue 1/Public Bathhouses/Public Bathhouse_Tree and
         lake.png
@@ -164,7 +164,7 @@ sections:
       subtitle: Women
       description: The humble typewriter helped women become better educated, enter
         the workforce and contribute to society.
-      button: "Women and the Typewriter "
+      button: Women and the Typewriter
       url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
       image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
         Typewriter_Home page.jpg
@@ -242,7 +242,7 @@ sections:
       image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
       alt: Kusu
   - infopic:
-      title: "“Book City” in Two Streets: Postwar Chinese Bookstore Scene "
+      title: "“Book City” in Two Streets: Postwar Chinese Bookstore Scene"
       subtitle: Places
       description: Some Chinese bookstores in Singapore have managed to survive
         despite the challenges of the digital age and the decline in Chinese
@@ -338,15 +338,15 @@ sections:
       subtitle: Places and Buildings
       description: Located in Bras Basah Complex, the Chinese bookstore has played an
         important role in the development of the Chinese literary scene.
-      button: " A Singaporean icon"
+      button: A Singaporean icon
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
       alt: Union Book
       image: /images/Union Book 2022.jpg
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
-      description: "When Queen Elizabeth II visited Singapore in 1972, the orchid
-        <i>Dendrobium</i> Elizabeth was named in her honour. "
+      description: When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour.
       button: Orchids for vips and more
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/19980002762 IMG0016.jpg
@@ -383,8 +383,8 @@ sections:
   - infopic:
       title: Key Milestones in the History of Cathay Cinema
       subtitle: places and buildings
-      description: "The closing of Cathay cinema at Handy Road, one of Singapore’s
-        oldest cinemas, marks the end of an era. "
+      description: The closing of Cathay cinema at Handy Road, one of Singapore’s
+        oldest cinemas, marks the end of an era.
       button: a historic cinema
       url: /history-cathay-cinema-2022
       image: /images/Cathay/Cathay-1941.jpg
@@ -399,7 +399,7 @@ sections:
       url: /vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore
       image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
         Image 6.png
-      alt: "vegetarian food buddhist nuns "
+      alt: vegetarian food buddhist nuns
   - infopic:
       title: 日本占领时期的新加坡华社
       subtitle: war
@@ -454,8 +454,8 @@ sections:
   - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
       subtitle: people
-      description: "As a forensic pathologist, Chao Tzee Cheng helped bring murderers
-        to justice. "
+      description: As a forensic pathologist, Chao Tzee Cheng helped bring murderers
+        to justice.
       button: the Forensic Trail Blazer
       url: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
       image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
@@ -464,8 +464,8 @@ sections:
   - infopic:
       title: Into the Night
       subtitle: "Video: stories from biblioasia"
-      description: "Cabaret dancers like Rose Chan were famous. But what were their
-        lives really like? "
+      description: Cabaret dancers like Rose Chan were famous. But what were their
+        lives really like?
       button: Beneath the Glitz and Glamour
       url: /videos/into-the-night
       image: "/images/Videos: BA Stories/into the night.jpg"
@@ -482,8 +482,8 @@ sections:
   - infopic:
       title: The Poet and the Night Train
       subtitle: "Video: Stories from BiblioAsia"
-      description: "He writes Singapore’s first book-length poem, then vanishes from
-        history. Discover how the mystery of the missing poet was solved. "
+      description: He writes Singapore’s first book-length poem, then vanishes from
+        history. Discover how the mystery of the missing poet was solved.
       button: Singapore's forgotten poet
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
@@ -491,8 +491,8 @@ sections:
   - infopic:
       title: A cooking show that dishes out history from old recipes
       subtitle: "video: From Book to Cook"
-      description: "What does a 1969 Chinese recipe for noodles have to do with a
-        murukku press? "
+      description: What does a 1969 Chinese recipe for noodles have to do with a
+        murukku press?
       button: Singapore’s old recipes
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
@@ -510,11 +510,19 @@ sections:
   - infopic:
       title: My Grandfather Was a <i>Rōmusha</i>
       subtitle: war
-      description: "During World War II, forced civilian labourers known as
+      description: During World War II, forced civilian labourers known as
         <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
-        "
       button: The builders of Death Railway
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: Remembering Punggol’s Kampong Wak Sumang
+      subtitle: Places and Buildings
+      description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
+        was purportedly founded by a warrior-diplomat whose musical abilities
+        landed him in trouble.
+      button: Rediscovering a Forgotten Village
+      url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
+      alt: Image alt text
 ---
