@@ -6,30 +6,30 @@ description: What we eat is often shaped not only by culture and tradition but
   find out how all these factors have influenced what appears on the dinner
   table.
 ---
-#### What we eat is often shaped not only by culture and tradition but also society and government policies. Through one family’s changing palate, find out how all these factors have influenced what appears on the dinner table.
+#### What we eat is often shaped not only by culture and tradition, but also society and government policies. Through one family’s changing palate, find out how all these factors have influenced what appears on the dining table.
 
  <img style="width:50%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Young%20boys.jpg">
- <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+ <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. <i>From the Edwin A. Brown Collection. Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
  
-When I was growing up, my grandfather’s elderly cousin would visit us during important festive occasions. The womenfolk in the family would gather to make steamed rice dumplings or 桃粿 (*tao guo*), literally peach dumplings) to use as prayer offerings. I still remember the booming voice of my grandfather’s cousin as her large palms deftly shaped the pink-hued rice dumplings, pressing them into a wooden mould. Nowadays, no one seems to have the time to gather around the kitchen and cook while chatting in the Teochew dialect. These days, my uncles simply buy the *tao guo*; it just tastes different and part of the fun is gone.[^1] 
+When I was growing up, my grandfather’s elderly cousin would visit us during important festive occasions. The womenfolk in the family would gather to make steamed rice dumplings, or 桃粿 (*tao guo*; literally "peach dumplings") to use as prayer offerings. I still remember the booming voice of my grandfather’s cousin as her large palms deftly shaped the pink-hued rice dumplings, pressing them into a wooden mould. Nowadays, no one seems to have the time to gather around the kitchen and cook while chatting in the Teochew dialect. These days, my uncles simply buy the *tao guo*, but it just tastes different and part of the fun is gone. 
 
-During the annual Dragon Boat festival, my grandmother would spend days painstakingly preparing the ingredients required for making the pyramid-shaped rice dumplings called 肉粽 (*rou zong*). It was a tedious process making them: cooking red beans and grinding them into a paste; boiling dried chestnuts and removing the skins; chopping and stirfrying dried prawns, dried mushrooms and fatty pork with coriander powder and other spices; washing bamboo leaves, strings and glutinous rice; and cleaning caul fat membrane and stuffing it with a generous dollop of the red bean paste. The ingredients were then assembled and neatly wrapped in bamboo leaves before being steamed to perfection in bamboo baskets. Nowadays, many families prefer to purchase ready-made dumplings from shops.
+During the annual Dragon Boat Festival, my grandmother would spend days painstakingly preparing the ingredients required for making the pyramid-shaped rice dumplings called 肉粽 (*rou zong*). It was a tedious process: cooking red beans and grinding them into a paste; boiling dried chestnuts and removing the skin; chopping and stir-frying dried prawns, dried mushrooms and fatty pork with coriander powder and other spices; washing bamboo leaves, strings and glutinous rice; and cleaning caul fat membrane and stuffing it with a generous dollop of the red-bean paste. The ingredients were then assembled and neatly wrapped in bamboo leaves before being steamed to perfection in bamboo baskets. Nowadays, many families prefer to purchase ready-made dumplings from shops.
 
-In recent years, there has been no lack of news lamenting the closure of many Singapore food establishments. Most recently, in May 2013—after 58 years of operation—the shutters came down on the iconic Mong Hing Teochew Restaurant in Beach Road. Exhausting and time-consuming food preparation, ageing cooks, the lack of successors, and the rising cost of manpower and ingredients are frequently cited as reasons for these closures. 
+In recent years, there has been no lack of news lamenting the closure of many local food establishments. Most recently, in May 2013 – after 58 years of operation – the shutters came down at the iconic Mong Hing Teochew Restaurant on Beach Road. Exhausting and time-consuming food preparation, ageing cooks, the lack of successors, and rising cost of manpower and ingredients are frequently cited as reasons for these closures. 
 
-This essay examines the ethnological aspect of food and its impact on the food my grandparents, parents and my family have consumed over the decades and offers perspectives on how our family’s eating habits have evolved over the course of three generations.
+This essay examines the ethnological aspect of food and its impact on the food my grandparents, parents and my family have consumed over the decades. It offers perspectives on how our family’s eating habits have evolved over the course of three generations.
 
 
 #### **My Grandparents'  Generation: 1930s–1950s**
-My maternal grandmother arrived in Singapore from Guandong province in China during the late 1930s. As a young bride, she lived with her husband and mother-in-law who were farmers. Life settled into a routine of waking up before dawn to feed the pigs and chickens,tending to the vegetable plots, and cooking three meals a day. My great grandmother would harvest the vegetables and sell them at a nearby makeshift market.
+My maternal grandmother arrived in Singapore from Guangdong province in China during the late 1930s. As a young bride, she lived with her husband and mother-in-law who were farmers. Life settled into a routine of waking up before dawn to feed the pigs and chickens, tending to the vegetable plots and cooking three meals a day. My great-grandmother would harvest the vegetables and sell them at a nearby makeshift market.
 
-Breakfast was usually a bowl of steaming watery porridge served with some fried eggs and preserved olives; lunch comprised stir-fried vegetables and pork; while dinner was more stir-fried vegetables, along with fried or steamed fish. This was the typical fare of my grandmother’s generation. My paternal grandparents were fortunate enough to live along the banks bordering the Straits of Johor (on the Singapore side), where they enjoyed easy access to fresh seafood. As a result, freshly steamed fish and seafood, seasoned simply with salt, featured frequently at mealtimes. One of our relatives made her homemade fish sauce as a seasoning, and it was also common for families to ferment their own rice wine for cooking. In those days, sumptuous dishes that required elaborate preparation or expensive and seasonal ingredients were only eaten during festivals and celebrations.
+Breakfast was usually a bowl of steaming watery porridge served with some fried eggs and preserved olives; lunch comprised stir-fried vegetables and pork; while dinner was more stir-fried vegetables, along with fried or steamed fish. This was the typical fare of my grandmother’s generation. My paternal grandparents were fortunate enough to live along the banks bordering the Straits of Johor (on the Singapore side), where they enjoyed easy access to fresh seafood. As a result, freshly steamed fish and seafood, seasoned simply with salt, featured frequently at mealtimes. One of our relatives made her fish sauce as a seasoning, and it was also common for families to ferment their own rice wine for cooking. In those days, sumptuous dishes that required elaborate preparation or expensive and seasonal ingredients were only eaten during festivals and celebrations.
 
-In Singapore, my maternal grandmother was exposed to new forms of cuisine as well as cultures. When she saw her first bowl of chendol, she thought it was disgusting how people could wolf down green worms swimming in a pool of dirty brown water. She later realised that those “worms” were actually strips of jelly made from rice flour mixed with the juice of the fragrant pandan (screwpine) leaf and green food colouring, and the liquid they were floating in was a delicious concoction of coconut milk and gula melaka (palm sugar).
+In Singapore, my maternal grandmother was exposed to new forms of cuisine as well as cultures. When she saw her first bowl of *chendol*, she thought it was disgusting how people could wolf down green worms swimming in a pool of dirty brown water. She later realised that those “worms” were actually strips of jelly made from rice flour mixed with the juice of the fragrant *pandan* (screwpine) leaf and green food colouring, and the liquid they were floating in was a delicious concoction of coconut milk and *gula melaka* (palm sugar).
 
-According to Saw Swee Hock, a professorial fellow at the Institute of Southeast Asian Studies, there was a fourfold increase in Singapore’s population from 226,842 in 1901 to 938,144 in 1947. The growth rate gathered slight momentum after a lull period in the late 19th century, showing a 3 percent increase between 1901 and 1911 and a 3.3 percent increase between 1911 and 1921. During the Great Depression, however, there was a drop of 2.9 percent due to restrictions imposed on immigrants from China and India. However, between 1931 and 1947, the growth rate rebounded to 3.2 percent.1 My grandparents were part of this final wave of immigrants.
+There was a fourfold increase in Singapore’s population from 226,842 in 1901 to 938,144 in 1947. The growth rate gathered slight momentum after a lull period in the late 19th century, with a 3-percent increase between 1901 and 1911 and a 3.3-percent increase between 1911 and 1921. During the Great Depression, however, there was a drop of 2.9 percent due to restrictions imposed on immigrants from China and India. Then, between 1931 and 1947, the growth rate rebounded to 3.2 percent.[^1] My grandparents were part of this final wave of immigrants.
 
-Neville wrote that during the postwar period, the Chinese population dominated the influx of new immigrants and several dialect groups lived in enclaves, particularly within the central city area. The Teochew community established themselves mainly on the south bank of the Singapore River. Many were employed as coolies (labourers), hauling goods between the riverside warehouses and tongkangs (local wooden boats) crowding the river. Some Teochews specialised in certain sectors of the interisland boat trade, particularly between Singapore, west Borneo and southThailand where substantial Teochew trading communities were found.[^2] There were also others, like my grandparents and relatives, who were farmers and fishermen living in Teochew-dominated areas of Singapore like Sembawang, Upper Thomson and Punggol.
+During the postwar period, the Chinese population dominated the influx of new immigrants. Several dialect groups lived in enclaves, particularly within the city-centre area. The Teochew community established themselves mainly on the south bank of the Singapore River. Many were employed as coolies (labourers), hauling goods between the riverside warehouses and tongkangs (local wooden boats) crowding the river. Some Teochews specialised in certain sectors of the interisland boat trade, particularly between Singapore, west Borneo and southThailand where substantial Teochew trading communities were found.[^2] There were also others, like my grandparents and relatives, who were farmers and fishermen living in Teochew-dominated areas of Singapore like Sembawang, Upper Thomson and Punggol.
 
 <img style="width: 80%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/teochew%20migrants.jpg">
 <div> Located at Clemenceau Avenue, the Teochew style grand mansion of Tan Yeok Nee is the last of its kind still standing (1910). <i>Courtesy of National Archives of Singapore</i></div>
@@ -66,10 +66,10 @@ As early as 1979, it was reported that the changing lifestyles of Singaporeans h
 
 The Ministry of Health launched studies of the food consumed by Singaporeans. One of the earliest projects was conducted by the Institute of Science and Forensic Medicine under the Ministry of Health in 1992. The following year, 200 commonly available foods at hawker centres were subjected to chemical analysis by laboratories commissioned by the Food and Nutrition Department. A series of booklets on food and nutrition was published and distributed to the public, covering subjects such as healthy eating at childcare centres, serving healthy food to students, healthier menu choices for workplace canteen operators, coffeeshops and restaurants, and a guide to making sensible food choices at hawker centres.
 
-<img style="width: 2000%;" src=" /images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg">
+<img style="width: 2000%;" src="/images/vol-9-issue-3/On%20the%20Dining%20Table/Presentation4.jpg">
 <div>Posters from a government campaign to encourage healthier eating among the population in the 1980s.<i>Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
 
-Over the years, changes in lifestyle, national campaigns, and new ways of storing, processing and cooking food have contributed to changes in our diets. The author of Soya & Spice, Jo Marion Seow, lamented that some food “\[has\] gone the way of the dinosaurs”, citing the example of the cheap preserved or pickled side dish known as zahb khiam in Teochew, which was commonly eaten with porridge.[^10]
+Over the years, changes in lifestyle, national campaigns, and new ways of storing, processing and cooking food have contributed to changes in our diets. The author of Soya &amp; Spice, Jo Marion Seow, lamented that some food “\[has\] gone the way of the dinosaurs”, citing the example of the cheap preserved or pickled side dish known as zahb khiam in Teochew, which was commonly eaten with porridge.[^10]
 
 Certain common hawker dishes have also been gradually disappearing from the culinary horizon. Local food blogger Dr Leslie Tay has noted a steady decline in the standards of char kway teow (fried rice noodles) as the dish has come to be regarded as “unhealthy and the fear of contracting Hepatitis A from eating partially cooked cockles has put another nail in the coffin.”[^11] He has also remarked that Teochew eateries no longer use the meaty Asian carp in traditional fish head steamboat. These days, the “muddy” tasting freshwater fish has been replaced by more popular varieties such as pomfret and grouper.[^12] Mass produced pre-cooked ingredients manufactured by factories and supplied to hawkers have also contributed to this loss of food heritage; culinary skills among hawkers have been eroded by these shortcuts and many people complain that the old-style dishes just do not taste the same anymore.
 
@@ -109,13 +109,13 @@ When given an option, will the younger members in my family choose a simple dish
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;">
 <b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library at the National Library Board. Her responsibilities include managing and developing content as well as providing reference and research services related to Singapore and Southeast Asia.</div>
 
 #### **REFERENCES**     
 
-Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
+Cwiertka, K., &amp; Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
    
 [Drive to fight harmful life styles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790923-1.2.2). (1979, September 23). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
@@ -129,13 +129,13 @@ Lupton, D. (1996). _Food, the body, and the self_. Calif: Sage Publicatons. (Not
 
 Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3691394). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
 
-Neville, W. (1969). The distribution of population in the postwar period. In J.B. Ooi & H.D. Chiang (Eds.), [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING     959.57 OOI)
+Neville, W. (1969). The distribution of population in the postwar period. In J.B. Ooi &amp; H.D. Chiang (Eds.), [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING &nbsp;&nbsp;&nbsp; 959.57 OOI)
 
 Newman, J.M. (2004). [_Food culture in China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12497546). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
 Saw, S.H. (2007). [_The population of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12933462). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-Seow, J.M. (2009). [_Soya & spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
+Seow, J.M. (2009). [_Soya &amp; spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
 
 Singapore. Hawkers Inquiry Commission. (1950). [_Report of the hawkers inquiry commission_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981104). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
 
@@ -150,7 +150,7 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 [^1]: Saw, S.H. (2007). [*The population of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12933462). (p. 11). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW).
 
-[^2]: Neville, W. (1969). The distribution of population in the postwar period (p. 59).         postwar period (p. 59). In J.B. Ooi & H.D. Chiang (Eds.), [*Modern Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
+[^2]: Neville, W. (1969). The distribution of population in the postwar period (p. 59).         postwar period (p. 59). In J.B. Ooi &amp; H.D. Chiang (Eds.), [*Modern Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
 
 [^3]: Singapore. Hawkers Inquiry Commission. (1950). [*Report of the hawkers inquiry commission*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981104) (p. 69). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
 
@@ -166,7 +166,7 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 [^9]: [Home-cooked vs hawker food](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921215-1.2.32.17). (1992, December 15). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
 
-[^10]: Seow J.M. (2009). [_Soya & spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955) (p. 9). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
+[^10]: Seow J.M. (2009). [_Soya &amp; spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955) (p. 9). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
 
 [^11]: Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980) (p. 49). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
 
@@ -176,15 +176,8 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 [^14]: Lupton, 1886, p. 25.
 
-[^15]: Cwiertka, K., & Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085) (p. 2). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
+[^15]: Cwiertka, K., &amp; Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085) (p. 2). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
 
 [^16]: Newman, J.M. (2004). [_Food culture in China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12497546) (p. 94). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
 [^17]: Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3691394) (p. 1). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
-
-
-
-
-
-
-
