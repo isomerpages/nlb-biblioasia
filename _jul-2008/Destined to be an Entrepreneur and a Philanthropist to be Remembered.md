@@ -9,6 +9,9 @@ image: /images/Vol 4 Issue 2/Entrepreneur/f2_leekc2.jpg
 ---
 #### Lee Kong Chian built a business empire that stretched beyond the boundaries of Malaya into Thailand, Indonesia, and even to the United States and the United Kingdom. Today, his name and reputation live on, as his business and philanthropy continue to thrive.
 
+<img src="/images/Vol%204%20Issue%202/Entrepreneur/f2_leekc2.jpg" style="width:50%;">
+ <div style="background-color: white;"> <i>Photo courtesy of the Lee Foundation.</i></div>
+
 In 1903, when he was a mere 10-year old, Lee left his home in Furong (Nan’an County in Fujian Province) to join his father in Singapore, soon after his mother passed away. It was not unusual in the early 1900s for many young Hokkiens to travel overseas in search of a better life, as the infertile and hilly lands of Southern Fujian offered little employment. Unlike many who could only find jobs as *coolies*, Lee began life in Singapore with his first taste of formal education, through the financial support of a family friend.[^1] The kindness of this friend would serve as an inspiration for young Lee, who in his adulthood would contribute millions of dollars to the education of the Chinese, both overseas and in his motherland. Lee’s first school was the Anglo-Tamil School at Serangoon Road, and it was here that Lee acquired his proficiency in the English and Tamil languages. In the afternoons, Lee continued his Chinese education at the Chongzheng School. This practice of attending both English and Chinese schools in a day continued through to his secondary education, where he studied at St. Joseph’s Institution and Tao Nan School. In this manner, he was introduced to both Western and Eastern concepts.
 
 In 1904, a number of Chinese officials were sent to Southeast Asia to promote education in China. The scholarly Lee was awarded a prestigious Manchu scholarship to study at Chi Nan School in Nanjing, and returned to China in 1908. There, he excelled in Mathematics, Physics and Chemistry, and applied himself to his studies so diligently that he gained top honours.
@@ -19,6 +22,9 @@ Determined to complete his studies, Lee took up an American correspondence cours
 
 #### **Turning Point**
 
+<img src="/images/Vol%204%20Issue%202/Entrepreneur/40%20anniversary1.jpg" style="width:80%;">
+ <div style="background-color: white;">40th Anniversary Celebration (1949) of the Goh Loo Club located at Club Steet of which Lee Kong Chian was a member.</div>
+
 While working at the Survey Department, Lee came across a ruling in the General Orders of the civil service that indicated only men of “pure European descent” would be recognised for the top positions in government. This disappointing discovery influenced Lee’s decision to leave the civil service and to work for a friend, Cheng Hee Chuan, instead. Even so, he still sought to further his studies in engineering in Hong Kong.[^3] However, a chance encounter with a renowned Chinese business leader would soon change his direction in life.
 
 An anecdotal story has it that Tan Kah Kee and Lee Kong Chian met one rainy evening while both were dining at a streetside eatery. Lee loaned Tan an umbrella, and was to collect it back at Tan’s rubber factory. The following day, Lee visited the factory just when Tan was receiving his first American clients. Requiring assistance in interpreting English documents, Tan was impressed by Lee’s competence in translating the materials, and thereafter solicited Cheng Hee Chuan to allow Lee to work for Tan instead.[^4]  But though Tan headed one of the most established Chinese companies in Malaya, Lee was supposedly reluctant to accept Tan’s offer of employment, as it meant he would have to forgo his plans to study in Hong Kong.[^5]
@@ -28,6 +34,9 @@ At the time of Lee’s employment at Tan’s Khiam Aik Company in 1916, Tan was 
 #### **Rubber King During the Great Depression**
 
 Tan took advantage of his own strengths and the weaknesses of his Western rivals and clients, and had diversified into rice export, pineapple canning and shipping and was working to ship rubber directly to the Americans. Through these transformative years at Khiam Aik, Lee learnt the intricacies of the rubber industry and the art of trading. He proved to be such a valuable asset to the company that, within four years of his employment, Lee was given the hand of Tan’s eldest daughter in marriage. At 17, the educated Tan Ai Lay was about to sit for her final exams but had to forgo this for her marriage to Lee.
+
+<img src="/images/Vol%204%20Issue%202/Entrepreneur/goh%20loo%20club1.jpg" style="width:80%;">
+ <div style="background-color: white;">Members of the Goh Loo Club From left: Tan Lark Sye, Lim Boon Keng, Lee Kong Chian.</div>
 
 Many interpret this union as an attempt by Tan to keep Lee from establishing his own business and thus becoming a rival.[^10] Indeed, it would be seven years before Lee could set up his own company – a small rubber smoke-house in Muar, Johore – in 1927, and this only with the approval of his father-in-law and Lee’s promise that his business would not compete with Tan’s.[^11] 
 
@@ -152,7 +161,3 @@ Zheng B., _Li Guangqian zhuan_ \[The story of Lee Kong Chian\] (Beijing: Zhonggu
 [^22]: Obituary-Tan Sri Dr Lee Kong Chian,” Dongnanya yanjiu _[东南亚研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84569849)_ &nbsp;\[Journal of Southeast Asian Researches\] 3 (1967): 4. (Call no. Chinese RCLOS 959 KUZ)
 
 [^23]: [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df1bb539-115d-11e3-83d5-0050568939ad), oral history interview by Lim How Seng, 29 May 1981, transcript and MP3 audio, 27:44, National Archives of Singapore (accession no. 000003), 131.
-
-
-
-
