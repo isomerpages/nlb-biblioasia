@@ -71,7 +71,7 @@ As a publication spanning the pre- and postwar periods of Malaya’s development
 #### **REFERENCES**    
 	        
 
-[C.G’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+[C.G.’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
 
 [Cookery classes for Kuala Lumpur](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360213-1.2.58.26). (1936, February 13). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
@@ -89,9 +89,9 @@ Holttum, R.E., &amp; Waite, D.S. (1939). [_The Y.W.C.A. International cookery bo
 
 [Learn to be a cook of many dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390824-1.2.152.19). (1939, August 24). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
 
-Llewellyn, A. E. (Ed.). (1948). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RCLOS 641.59595 YWC)
+Llewellyn, A.E. (Ed.). (1948). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RCLOS 641.59595 YWC)
 
-Llewellyn, A. E. (Ed.). (1951). [_The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740). \[S.I.\]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC)
+Llewellyn, A.E. (Ed.). (1951). [_The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740). \[S.I.\]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC)
 
 Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
@@ -121,7 +121,7 @@ World Y.W.C.A. (2010–2011). _Our history_. Retrieved from World Y.W.C.A.org we
 
 [Young Women’s Association](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18980103-1.2.53). (1898, January 3). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
-Young Women's Christian Association of Singapore. (1969). [_Young Women’s Christian Association: YWCA_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437434) \[Ephemera\]. Singapore: Young Women’s Christian Association. (RCLOS 0404)
+Young Women's Christian Association of Singapore. (1969). [_Young Women’s Christian Association: YWCA_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437434) \[Ephemera\]. Singapore: Young Women’s Christian Association. (Call no.: RCLOS 0404)
 
 [_Young Women’s Christian Association: 1875–1995_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12397109). (1995). Singapore: Young Women’s Christian Association. (Call no.: RSING 267.59597 YOU)
 	
@@ -132,9 +132,9 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 
 [^2]: The school is known today as St Margaret’s School.
 
-[^3]: The YWCA of the Straits Settlements and the Federated Malay States initially had its headquarters in Singapore but this seemed to have moved to Kuala Lumpur after the 1920s.&nbsp; [Women of Far East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281217-1.2.98). (1928, December 17). _The Singapore Free Press and Mercantile Advertiser_, p. 13. Retrieved from NewspaperSG.
+[^3]: The YWCA of the Straits Settlements and the Federated Malay States initially had its headquarters in Singapore, but this seemed to have moved to Kuala Lumpur after the 1920s. [Women of Far East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281217-1.2.98). (1928, December 17). _The Singapore Free Press and Mercantile Advertiser_, p. 13. Retrieved from NewspaperSG.
 
-[^4]: Young Women's Christian Association of Singapore. (1969). [_Young Women’s Christian Association: YWCA_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437434) (p. 17). \[Ephemera\]. Singapore: Young Women’s Christian Association. (RCLOS 0404)
+[^4]: Young Women's Christian Association of Singapore. (1969). [_Young Women’s Christian Association: YWCA_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12437434) (p. 17). \[Ephemera\]. Singapore: Young Women’s Christian Association. (Call no.: RCLOS 0404)
 
 [^5]: [Feminine notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19081125-1.2.90). (1908, November 25). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
@@ -146,7 +146,7 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 
 [^9]: Though how ‘ordinary’ these women were needs to be studied further as many of the Asian women who attended were likely the English-educated Straits Chinese nyonyas from presumably well-to-do families.
 
-[^10]: [C.G’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
+[^10]: [C.G.’s wife learns Chinese cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490523-1.2.67). (1949, May 23). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
 
 [^11]: The preface. (1935). In R.E. Holttum &amp; T.W. Hinch, [_International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418). Malaya: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm nos.: NL16675, NL29320)
 
@@ -158,7 +158,7 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 
 [^15]: [Holttum &amp; Hinch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, the preface.
 
-[^16]: As almost every recipe credits its author, it is apparent they include the likes of respected expatriates such as Rose T. Handy, Mrs Celeste B. Amstutz, Mrs Eklund, Mrs Zehnder and locals such as Muhammad Raza, Cheka Davies, Mrs Loh Hung Loong and Mrs. C.H. Wang.
+[^16]: As almost every recipe credits its author, it is apparent they included the likes of respected expatriates such as Rose T. Handy, Mrs Celeste B. Amstutz, Mrs Eklund, Mrs Zehnder and locals such as Muhammad Raza, Cheka Davies, Mrs Loh Hung Loong and Mrs C.H. Wang.
 
 [^17]: Lucas, E. (1929). _Mrs Lucas’s French cookery book_. London: Christopher’s (Not available in NLB holdings)
 
@@ -166,7 +166,7 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 
 [^19]: Richard Eric Holttum 1895–1990. (2002). In H.R. Halter, (Ed.), _The school on the hill: Memories of three hundred years of Friends' School, Saffron Walden, 1702–2002_. Essex: Friends’ School. (Not available in NLB holdings) 
 
-[^20]: The “Blue Triangle” is a reference to the YWCA logo prominent on the cover of each edition of the book.
+[^20]: The “Blue Triangle” is a reference to the YWCA logo that is prominent on the cover of each edition of the book.
 
 [^21]: [Cookery classes for Kuala Lumpur](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360213-1.2.58.26). (1936, February 13). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
@@ -174,11 +174,11 @@ Young Women's Christian Association of Singapore. (1969). [_Young Women’s Chri
 
 [^23]: Wong, H.S. (2009). [_Wartime kitchen: Food and eating in Singapore, 1942–1950_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872) (pp. 65, 68, 88, 89). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 641.30095957 WON)
 
-[^24]: Llewellyn, A. E. (1948). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RCLOS 641.59595 YWC)
+[^24]: Llewellyn, A.E. (1948). [_The Y.W.C.A. International cookery book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589). Singapore: Malayan Committee of the Y.W.C.A. (Call no.: RCLOS 641.59595 YWC)
 
 [^25]: [Llewellyn](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589), 1948.
 
-[^26]: Llewellyn, A. E. (1951). [_The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740). \[S.I.\]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC)
+[^26]: Llewellyn, A.E. (1951). [_The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740). \[S.I.\]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC)
 
 [^27]:  Llewellyn, A.E. (Ed.). (1962). [_The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681). \[Kuala Lumpur?\] Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
