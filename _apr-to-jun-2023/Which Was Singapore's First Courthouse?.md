@@ -60,7 +60,7 @@ If the Captains, or heads of castes, or the Panghulus of campongs, do not act ju
 
 Article 4 established the Rooma Bechara (“Rumah Bicara” in its modern-day spelling) meaning Courthouse or Council House. We have no records to show when this Rooma Bechara first came into operation but evidence suggests that it was quite soon after the making of this agreement. This was because Farquhar – whom Raffles appointed British Resident of the settlement – had written to Raffles in November 1819 suggesting the engagement of an assistant to help with the judicial process. Farquhar proposed that:
 
-"… the Court or *Bechara*, consisting of the Sultan, Temenggong & British Resident, which assembles at present usually every Monday morning to hear and decide in whatever courses or complaints may be brought before it, be in future, assisted by an executive officer or agent of the Court, to be a British gentleman, appointed & paid by Government, whose duty it will be to take examination in conjunction with the Captains or Native Chiefs on the first instance, into all complaints, civil or criminal, which may be brought before him, & to present a written record in English & Malays to the Court or Bechara, at which, all parties & witnesses must attend to undergo such further examination, as may be deemed necessary; a Native Writer & a few Peons to be assigned to the Agent of the Court of Bechara for the police duties of the Settlement."[^10]
+"… the Court or *Bechara*, consisting of the Sultan, Temenggong &amp; British Resident, which assembles at present usually every Monday morning to hear and decide in whatever courses or complaints may be brought before it, be in future, assisted by an executive officer or agent of the Court, to be a British gentleman, appointed &amp; paid by Government, whose duty it will be to take examination in conjunction with the Captains or Native Chiefs on the first instance, into all complaints, civil or criminal, which may be brought before him, &amp; to present a written record in English &amp; Malays to the Court or Bechara, at which, all parties &amp; witnesses must attend to undergo such further examination, as may be deemed necessary; a Native Writer &amp; a few Peons to be assigned to the Agent of the Court of Bechara for the police duties of the Settlement."[^10]
 
 
 
@@ -145,41 +145,33 @@ From 1965 to 1999, it was known as Parliament House until Parliament moved into 
 
 The Supreme Court, meanwhile, occupied the building at the junction of St Andrew’s Road and High Street until 2005 when it moved to its current location at 1 Supreme Court Lane. The old Supreme Court building, together with the former City Hall building next to it, now house National Gallery Singapore.<br><br>
 
-<img style= "width: 85%;"
-src="/images/Vol%2019%20Issue%201/Courthouse/New%20Supreme%20Court1.jpg">
+<img style="width: 85%;" src="/images/Vol%2019%20Issue%201/Courthouse/New%20Supreme%20Court1.jpg">
 <div>The new Supreme Court building with the former courthouse on the right. <i>Photo by Jimmy Yap.</i>
 </div>
 <br>
 	
 <b>REFERENCES</b><br><br>
-Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s <a 	
-href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
-“<a 	
-href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390804-1.2.79.aspx">Dignified Pageantry at Opening of New Supreme Court</a>,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
-“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s <a 	
-href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
-Faizah Zakaria, “<a 	
-href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1770_2011-04-05.html">Supreme Court</a>,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
-Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s <a 	
-href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
-Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i><a 	
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718">	One
+Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
+“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390804-1.2.79.aspx">Dignified Pageantry at Opening of New Supreme Court</a>,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
+“Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
+Faizah Zakaria, “<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1770_2011-04-05.html">Supreme Court</a>,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
+Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
+Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718">	One
 Hundred Years of Singapore</a></i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS])<br><br>
 “Overview: About The Arts House,” Arts House Limited, accessed 6 February 2023, https://artshouselimited.sg/tah-about#section-id-1643460266223.<br><br>
-Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s <a 	
-href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
+Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 2010, 10. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Kevin_tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Kevin_tan.png" style="width: 100px; height: 100px;">
 <b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Senior Fellow at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 60 books on the law, history and politics of Singapore.</div>
 
 #### **NOTES**
 
 [^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
 
-[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *[The Law of the Straits Settlements: A Commentary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4367158)* (Singapore: Kelly & Walsh, 1915), 148–150. (From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
+[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *[The Law of the Straits Settlements: A Commentary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4367158)* (Singapore: Kelly &amp; Walsh, 1915), 148–150. (From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
 
 [^3]: This estimate is based on the fact that the 12-pounder smooth-bore British cannons of the early 19th century had a range of about 1.2 km, and Article 1 of the treaty stipulated that the jurisdiction extended “as far as the range of cannon shot, all around the factory”.
 
@@ -211,11 +203,11 @@ href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 
 [^17]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 154, “Singapore Diary, 25 May 1827” (pp. 151–53, images 102–03), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824120459/view
 
-[^18]: “Extract for a letter from the Honorable the Governor in Council, to the Recorder dated Fort Cornwallis 2d January, 1828” in *Minutes and Official Correspondence Between the Government and Sir John Thomas Claridge, Recorder of the Honorable Court of Judicature, Prince of Wales Island, Malacca and Singapore, Commencing in April 1827 and Terminating in September 1829* (Penang: The Government Press, 1830), 13, Google Books, accessed 3 February 2023, https://books.google.com.sg/books?id=2j9pAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
+[^18]: “Extract for a letter from the Honorable the Governor in Council, to the Recorder dated Fort Cornwallis 2d January, 1828” in *Minutes and Official Correspondence Between the Government and Sir John Thomas Claridge, Recorder of the Honorable Court of Judicature, Prince of Wales Island, Malacca and Singapore, Commencing in April 1827 and Terminating in September 1829* (Penang: The Government Press, 1830), 13, Google Books, accessed 3 February 2023, https://books.google.com.sg/books?id=2j9pAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false.
 
 [^19]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 7 January 1828” (image 2), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824199118/view.
 
-[^20]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 27 & 28 February 1828” (p. 100, image 126), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824199118/view.
+[^20]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 27 &amp; 28 February 1828” (p. 100, image 126), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824199118/view.
 
 [^21]: India Office Library Factory Records: Straits Settlements, IOR/G/34/Subseries G/34/153/File 156, “Singapore Diary, 25 February 1828” (p. 98, image 125), TROVE, accessed 3 February 2023, https://nla.gov.au/nla.obj-824198985/view.
 
@@ -229,4 +221,4 @@ href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 
 [^26]: “[In the Court of Judicature of Prince of Wales Island, Singapore and Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280828-1.2.2),” *Singapore Chronicle and Commercial Register*, 28 August 1828, 1. (From NewspaperSG)
 
-[^27]: “[The Ministry](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18281120-1.2.7),” *Singapore Chronicle and Commercial Register*, 20 November 1828, 1. (From NewspaperSG)
+[^27]: “[The Ministry](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18281120-1.2.7),” *Singapore Chronicle and Commercial Register*, 20 November 1828, 2. (From NewspaperSG)

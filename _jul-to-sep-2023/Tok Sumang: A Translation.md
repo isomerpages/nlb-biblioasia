@@ -10,7 +10,7 @@ Translated by Ahmad Ubaidillah<br>
 <img style="width:60%;" src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg">
 <div style="background-color: white;text-align:center">A story of Wak Sumang by Muhammad Ariff Ahmad, writing under the pen name Mastomo. <i>Image reproduced from Mastomo, Tok Sumang (Singapore: Geliga Limited, 1957). (From BookSG; accession no. B29234707A).</i></div>
 
-##### The book titled <i>Tok Sumang</i> was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of  Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a kampong in Punggol. Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School). <br><br> The book was translated into English by Ahmad Ubaidillah, who is himself a descendant of Wak Sumang. Ubaidillah also wrote the following introduction. 
+##### The book titled <i>Tok Sumang</i> was written by the Malay literary pioneer Muhammad Ariff Ahmad (under the pen name Mastomo). Published by Geliga Limited in 1957, the work details the life of  Wak Sumang, starting from his time as an official in the court of Lingga Sultan Mahmud Muzaffar Shah (r. 1841–57) to his journey to Singapore where he founded a [kampong in Punggol](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/). Muhammad Ariff based the book on stories he had heard while he was teaching at Sekolah Melayu Ponggol (Ponggol Malay School). <br><br> The book was translated into English by Ahmad Ubaidillah, who is himself a descendant of Wak Sumang. Ubaidillah also wrote the following introduction. 
 <br>
 
 <div font-size="larger&quot;" style="background-colour:#fffce7; padding:10px; margin: 0px; font-size:110%; background: #fffce7"><b>Introduction </b><br><br>
@@ -55,8 +55,8 @@ Therefore, a critical and creative lens is needed when consuming any text, inclu
 
 The National Library Board has digitised the original book, which can be accessed <a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">here</a>.<br><br>
 
-Ahmad Ubaidillah<br>
-April 2023</div>
+<b>Ahmad Ubaidillah<br>
+	April 2023</b></div>
 
 **Foreword**
 

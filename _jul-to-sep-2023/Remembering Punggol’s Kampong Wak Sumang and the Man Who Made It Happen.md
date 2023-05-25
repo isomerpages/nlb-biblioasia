@@ -1,6 +1,6 @@
 ---
 title: Remembering Punggol’s Kampong Wak Sumang and the Man Who Made It Happen
-permalink: /holding-area/waksumang/
+permalink: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
 description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
   was purportedly founded by a warrior-diplomat whose musical abilities landed
   him in trouble.
@@ -16,7 +16,13 @@ As you walk around Punggol today, you may encounter the name “Sumang”. Suman
 
 The name Sumang belongs to the man who founded Kampong Wak Sumang, also known as Kampong Punggol – one of Singapore’s earliest kampongs.[^1] This kampong was situated at Punggol Point, a 10-minute cycle from the current Sumang neighbourhood.
 
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/1844%20map%20v1.jpg)
+<div style="background-color: white;">Detail from an 1844 map drawn by Government Surveyor of Singapore J.T. Thomson, which shows Tanjong Pongol (Punggol Point). This is the earliest accurate geographical depiction of the area. <i>Collection of the British Library, shelfmark IOR/X/10177/1.</i></div>
+
 For over 100 years, the growth of Kampong Wak Sumang reflected changes in the Punggol Point community, until its residents relocated in the 1980s to make way for today’s public housing estate.[^2] Although no physical traces of the kampong remain, fragments of its story can be pieced together from books, oral history interviews, newspaper reports and artefacts in the collections of the National Library and the National Archives of Singapore.
+
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/2023_0103_17285600.jpg)
+<div style="background-color: white;">The junction of Sumang Walk and Sumang Link, 2022. In the background are Punggol Bayview flats. <i>Photo by Hannah Yeo.</i></div>
 
 #### **Sumang, Who?**
 
@@ -48,6 +54,9 @@ Sumang and his family’s long journey to Punggol included stopovers at other is
 <div style="background-color: white;">Detail from a 1939 topographic map of Singapore showing Punggol Village (Kampong Wak Sumang), an Alligator Shoal close to Punggol Point (confirming crocodile sightings), the Singapore Zoo owned by William Lawrence Soma Basapa, and Matilda Estate, a former plantation. <i>Singapore, 1939, TM001048, Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i></div>
 
 When Sumang died in the late 1800s, he left behind a huge estate for his descendants in Punggol, comprising fruit plantations and at least nine houses.[^14] As much of Punggol has been reclaimed, it is difficult to determine the exact location of this old kampong, but we know from a 1986 *Berita Minggu* newspaper report that Sumang’s estate comprised two land parcels, Lot 23 and 24.[^15] These added up to 10.27 acres (4.16 hectares), almost the size of the Padang.[^16]
+
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/1985%20survey%20map.jpg)
+<div style="background-color: white;">Detail from a 1985 survey map of Singapore shows Kampong Wak Sumang stretching from Track 24 at Punggol Point down to Punggol Port Road, where My Waterway@Punggol is located today. <i>Singapore, 1985, SP006586, Singapore Land Authority, courtesy of National Archives of Singapore.</i></div>
 
 In addition to setting up the kampong, Sumang is also believed to have dug a five-metre-deep well in the kampong. It was said to never run dry and to contain healing properties.[^17] Haji Mohammed Amin Abdul Wahab, a teacher and resident in the kampong, told the *Straits Times* in 1995 that the villagers believed that the well could cure children of fever and epileptic fits. “They would bring their children to bathe with the well water before dawn and they were cured,” he said.[^18]
 
@@ -85,6 +94,9 @@ Sumang and his wife Gobek were buried near the grounds of Masjid Wak Sumang.[^27
 
 Awang Osman was Kampong Wak Sumang’s headman from 1932 until its demolition in 1985.[^31] His account of the kampong’s history is captured in 800 minutes of oral history interviews with the National Archives of Singapore, recorded over 30 reels between August 1984 and December 1985. Wak Sumang was Awang Osman’s maternal great-grandfather.[^32]
 
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/awang%20osman.jpg)
+<div style="background-color: white;">Awang Osman conducting prayers at the graveyard in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
+
 In his interviews, Awang Osman recalled the dark days that followed after Singapore fell to the Japanese in February 1942. He and everyone else in Kampong Wak Sumang fled inland. “Of course I ran. The white [British] people told me, don’t stay here, you must flee. So I started running… there wasn’t a single person who remained in the kampong.”[^33]
 
 After the Japanese invaded, they massacred thousands in an effort to purge anti-Japanese elements from the Chinese community (now known as Operation Sook Ching[^34]). Punggol Beach was one of the execution sites. Awang Osman had not witnessed the killings, but he saw the aftermath. “When I returned [to Punggol], there were many Chinese who had been killed, floating in the sea. They had been shot by the Japanese. All in all there were maybe 500 [to] 600 people. Some were tied up with ropes, others impaled by barbed wire,” he recounted.[^35]
@@ -106,6 +118,9 @@ As the community grew, the villagers in Kampong Wak Sumang decided to build a Ma
 #### **Developing Punggol**
 
 In the 1960s, Kampong Wak Sumang welcomed piped water, electricity, paved roads and drainage systems. Punggol Point was also becoming well known for its open-air seafood restaurants and boatels (boat storage and water sports centres). Besides providing docking facilities for pleasure boats when not in use, these boatels also rented out boats for water skiing, fishing and sightseeing activities. People would come from all over Singapore to soak in the sea breeze, enjoy delicious seafood and take part in water sports. Punggol Point became a popular recreational spot for locals and tourists.[^42]
+
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/old%20picture.jpg)
+<div style="background-color: white;"> Ponggol (Hock Kee) Seafood Restaurant, c. 1990s. Punggol Point was a seafood haven from the 1960s to 1980s, with three famous restaurants – Choon Seng, Hock Kee and Whee Heng. <i>Courtesy of Anthony Ting.</i></div>
 
 The residents of Kampong Wak Sumang were part of the thriving scene. Some like Awang Abdullah, whose nickname was Awang Pendek, ran a boatel business. Others sold their fishing catch to seaside restaurants and hotels and also at nearby markets in Kangkar and Punggol.[^43]
 
@@ -137,7 +152,7 @@ The National Library Board (NLB) is showcasing some of these stories at Singapor
 <div style="background-color: white;">The “Punggol Stories” exhibition at Singaporium on Level 4 of Punggol Regional Library, 2023. The exhibition features stories and memories of Punggol, with many contributed by the community.</div>
 
 To make the stories of Wak Sumang and his contributions more accessible to the wider community, Ahmad Ubaidillah – whose mother Rohaida Ismail is a descendant of Wak Sumang and grew up in Kampong Wak Sumang – has translated *Tok Sumang* into English (read the original Malay digitised text on 
-[BookSG](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), while the English translated version can be accessed [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/tok-sumang-english/). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
+[BookSG](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), while the English translated version can be accessed [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/tok-sumang-english/)). Ahmad Ubaidillah was inspired to translate the book after hearing his mother’s stories of her kampong and Wak Sumang.
 
 “Punggol Stories” is part of NLB’s efforts to grow #SingaporeStorytellers and there are many more stories waiting to be told. Members of the public who wish to share their stories and memories of Punggol are encouraged to do so via social media using the hashtag #PunggolStories.
 

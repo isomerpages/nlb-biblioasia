@@ -2,6 +2,8 @@ collections:
   jul-2008:
     output: true
     order:
+      - Sacred Dance in Singapore.md
+      - Director's Column.md
       - "Resonating with Youths in Singapore: Managing Cultural Identity in Web
         Design.md"
-      - Director's Column.md
+      - Destined to be an Entrepreneur and a Philanthropist to be Remembered.md
