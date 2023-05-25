@@ -141,11 +141,11 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^18]: “[Latest Machines to Help Firms to Increase Output and Efficiency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750824-1.2.76.5),” _Straits Times_, 24 August 1975, 20. (From NewspaperSG)
 
-[^19]: Linda Lim and Pang Eng Fong, [<i>Trade, Employment and Industrialisation in Singapore</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204139357) (Geneva: International Labour Organisation, 1986), 59–61. (From National Library, Singapore, call no. RSING 330.95957 LIM)
+[^19]: Linda Lim and Pang Eng Fong, [<i>Trade, Employment and Industrialisation in Singapore</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357) (Geneva: International Labour Organisation, 1986), 59–61. (From National Library, Singapore, call no. RSING 330.95957 LIM)
 
 [^20]: Dick Wilson, “Singapore Is Poised for a Major Economic Breakthrough,” [<i>Singapore Trade and Industry</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5054318), February 1970 (Singapore: Straits Times Press, 1961–1976), 33. (From National Library, Singapore, call no. RSING 381.095957 SIN)
 
-[^21]: Khoo Chian Kim, [<i>Census of Population 1980: Release No. 4. Economic Characteristics</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626) (Singapore: Department of Statistics, 1981), 2, 12. (From National Library, Singapore, call no. RSING 312.095957 CEN)
+[^21]: Khoo Chian Kim, [<i>Census of Population 1980: Release No. 4. Economic Characteristics</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181626) (Singapore: Department of Statistics, 1981), 2, 12. (From National Library, Singapore, call no. RSING 312.095957 CEN)
 
 [^22]: Janice Loo, “[A Quiet Revolution: Women and Work in Industrialising Singapore](https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore),” _Biblioasia_ 10, no. 2 (July–September 2014): 28–33. 
 
