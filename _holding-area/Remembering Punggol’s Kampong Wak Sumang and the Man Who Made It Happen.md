@@ -18,6 +18,9 @@ The name Sumang belongs to the man who founded Kampong Wak Sumang, also known as
 
 For over 100 years, the growth of Kampong Wak Sumang reflected changes in the Punggol Point community, until its residents relocated in the 1980s to make way for today’s public housing estate.[^2] Although no physical traces of the kampong remain, fragments of its story can be pieced together from books, oral history interviews, newspaper reports and artefacts in the collections of the National Library and the National Archives of Singapore.
 
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/2023_0103_17285600.jpg)
+<div style="background-color: white;">The junction of Sumang Walk and Sumang Link, 2022. In the background are Punggol Bayview flats. <i>Photo by Hannah Yeo.</i></div>
+
 #### **Sumang, Who?**
 
 “Her husband was named Che’ Soman, who hailed from Daik. He was talented in playing the violin, and was also humorous and cheerful. Some also said that he was a warrior.”[^3]
