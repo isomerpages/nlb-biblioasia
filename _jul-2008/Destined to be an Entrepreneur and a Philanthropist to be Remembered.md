@@ -55,8 +55,23 @@ Thus, Lee meticulously built his empire on a firm foundation of modern managemen
 
 Lee’s contributions to charity began much later in life. He had witnessed his own father-in-law’s passion for the community, through the establishment of schools in Singapore and in his hometown in China. However, Tan Kah Kee had supported these charitable causes at the cost of his own business, so Lee was careful to ensure that his charity work would not jeopardise his business in the same way. Thus, it was only after he had retired in 1954, having groomed his sons to take over his business affairs, did Lee take an active role in community and charitable causes.
 
+Meanwhile, in March 1952, the Lee Foundation was established with a funding of $3.5 million from Lee’s own business, for the purpose of supporting charity projects. By the mid-1950s, he had donated monies to schools like Kuo Chuan Girls’, Nan Chiau Girls’ High, Chinese High, Methodist Girls’, St Margaret’s, Singapore Chinese Girls’, the University of Malaya and Nanyang University. He also donated to community institutions such as the Hokkien Huay Kuan Building, the Chinese Swimming Club and the National Library. Yet for all his contributions, Lee specifically requested that his name not be used in any of the institutions. Instead, many of the institutions took on the name of his father – Lee Kuo Chuan – during the period he donated. Today, the Lee Foundation continues to contribute to the establishment of institutions. The Lee Kong Chian Reference Library (National Library Board, 2005), the Lee Kong Chian School of Business (Singapore Management University, 2000) and the Lee Kong Chian Art Museum (National University of Singapore) are just a few of such initiatives.
 
+Lee’s community work extended beyond disbursing money to charities. In 1954, he flew back from London at the urgent request of the principal of Chinese High to quell a student protest. More than 2,000 students had camped out for more than 22 days, calling for an exemption from military service to the British government. Lee personally spoke to the students and liaised with an initially defiant Governor Nicoll19 to resolve the stand off.
 
+Lee stood up for Malayan rights even though he was often politically misunderstood. To the British government he was perceived as a pro-communist, while to the Chinese he was too westernised, and to the Malayans he was too Chineseoriented. Evidence of his fight for a Malayan identity can be seen in his call for free membership and the development of a Southeast Asian collection when he contributed to the building of a public library. Prior to that, the Raffles Library had only been a subscription library which required a fee from its members, and much of its collection was focused on the lifestyles and cultures of the West.
+
+Lee was also the first Asian Chancellor of the University of Singapore, the highest post in the nation’s most esteemed institution of learning, a position previously reserved for only the colonial head of state.
+
+#### **The Private Lee**
+
+Despite his high standing in society, Lee maintained a humble and unpretentious lifestyle. Before his marriage, he slept in simple quarters, including the office of his first employer Cheng Hee Chuan, and at the teachers’ quarters of the Tao Nan School. Even when he finally acquired a large house at Chancery Lane after marriage, he reportedly used 1-cent nickel spoons.20 Tan Ee Leong, his school friend and colleague, recounted an encounter he once had with Lee while riding the tram. Seats in the tram ranged from first class to third class, and as Tan Ee Leong was just a student at that time, he could only afford the second class seats. One day, he chanced upon Lee Kong Chian (then already the Manager of Tan Kah Kee’s company) sitting in the third class. “I felt so embarrassed, because he was already working, (and) I was still a student”, Tan recalled.21
+
+Unlike traditional Chinese entrepreneurs, Lee had a strong foundation in education before he became a businessman. He was gifted in mathematics, and was also well-read in the Western classics. He was a keen student of languages (he also understood Tamil and Malay), and continued with his language studies even after he retired, when he picked up French and learnt German.22
+
+Lee died quietly on 2 June in 1967 after suffering from liver cancer for two years. Yet even with his passing, his legacy lives on. Indeed, Lee Kong Chian’s life is a testament to a quote he made during his inaugural speech as Chancellor of the University of Singapore:
+
+“Barang siapa yang ingin memetek padi yang bagus, hendak-lah menaborkan beneh yang bagus pula” - “Whoever wants to harvest good rice, must also plant good seeds.”23
 
 
 
