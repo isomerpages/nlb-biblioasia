@@ -90,9 +90,9 @@ Lenore Manderson sums it up by writing that the changes in the mode of productio
 
 My grandparents came from a homogeneous community where everyone spoke the same language and shared the same cultural practices and values. When they migrated to Singapore, they discovered new languages, cultures and food, while still living among people from the same dialect group. In contrast, my parents’ generation interacted more with people from other ethnic and dialect groups through school or work, gaining an understanding of other cultures and their practices.
 
-Today, changes in lifestyle, a greater awareness of nutrition and health, and the accessibility to delicious food from all over the world all threaten the culinary heritage of our forebears. People rarely have the time to cook at home and sit down to a leisurely meal of homemade dishes. The days of communal cooking in a large kitchen with lots of people chatting animatedly while hands are busy chopping, cutting and frying are long gone. It is quite different cooking alone in a small kitchen after a hard day at the office, or relying on a domestic helper to prepare the family meals. Without constant pointers from elderly folks on the significance of certain dishes, or gentle reminders on the right cooking methods or techniques, it will be impossible to replicate the dishes of an earlier generation. The onslaught of Western food and the assimilation of other cultures coupled with the unavailability of certain ingredients from yesteryear present further challenges to preserving Singapore’s food heritage.
+Today, changes in lifestyle, a greater awareness of nutrition and health, and the accessibility to delicious food from all over the world threaten the culinary heritage of our forebears. People rarely have the time to cook at home and sit down to a leisurely meal of homemade dishes. The days of communal cooking in a large kitchen with lots of people chatting animatedly, while hands are busy chopping, cutting and frying, are long gone. It is quite different cooking alone in a small kitchen after a hard day at the office, or relying on a domestic helper to prepare the family meals. Without constant pointers from elderly folks on the significance of certain dishes, or gentle reminders on the right cooking methods or techniques, it will be impossible to replicate the dishes of an earlier generation. The onslaught of Western food and the assimilation of other cultures coupled with the unavailability of certain ingredients from yesteryear present further challenges to preserving Singapore’s food heritage.
 
-When given an option, will the younger members in my family choose a simple dish of Teochew caramelised yam cubes over the assortment of potato crisps in exotic flavours spilling over from supermarket shelves? There is growing nostalgia over the gradual loss of traditional food and authentic hawker fare, and both individuals and the government are trying to take steps to preserve Singapore’s culinary heritage. It will be a shame if one day, my family’s memories of traditional Teochew food become something that can only be found in books at the library or at the museums. 
+Given an option, will the younger members in my family choose a simple dish of Teochew caramelised yam cubes over the assortment of potato crisps in exotic flavours spilling over from supermarket shelves? There is growing nostalgia over the gradual loss of traditional food and authentic hawker fare, and both individuals and the government are trying to take steps to preserve Singapore’s culinary heritage. It will be a shame if one day, my family’s memories of traditional Teochew food become something that can only be found in books in the library or in a museum. 
 
 
 
@@ -109,7 +109,7 @@ When given an option, will the younger members in my family choose a simple dish
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;">
-<b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library at the National Library Board. Her responsibilities include managing and developing content as well as providing reference and research services related to Singapore and Southeast Asia.</div>
+<b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library at the National Library Board. Her responsibilities include managing and developing content as well as providing reference and research services relating to Singapore and Southeast Asia.</div>
 
 #### **REFERENCES**     
 
@@ -123,11 +123,11 @@ Kong, L. (2007). [_Singapore hawker centres: People, places, food_](https://eser
 
 Lee, K.Y. (2000). [_From third world to first: The Singapore story, 1965–2000_: _Memoirs of Lee Kuan Yew_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172). Singapore: Times Editions: Singapore Press Holdings. (Call no.: RSING 959.57092 LEE)
 
-Lupton, D. (1996). _Food, the body, and the self_. Calif: Sage Publicatons. (Not available in NLB holdings)
+Lupton, D. (1996). _Food, the body, and the self_. Calif.: Sage Publicatons. (Not available in NLB holdings)
 
 Manderson, L. (1986). [_Shared wealth and symbol: Food, culture, and society in Oceania and Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3691394). New York: Cambridge University Press. (Call no.: RSING 301.5099 SHA)
 
-Neville, W. (1969). The distribution of population in the postwar period. In J.B. Ooi &amp; H.D. Chiang (Eds.), [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING &nbsp;&nbsp;&nbsp; 959.57 OOI)
+Neville, W. (1969). The distribution of population in the postwar period. In J.B. Ooi &amp; H.D. Chiang (Eds.), [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
 
 Newman, J.M. (2004). [_Food culture in China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12497546). Westport, Conn.: Greenwood Press. (Call no.: R 394.120951 NEW)
 
@@ -141,12 +141,12 @@ Singapore. Ministry of Health, Food and Nutrition Dept. (1993). [_The compositio
 
 Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
 
-张新民 \[Zhang, X.\]. (10 May 2013). 潮汕饮食词条 \[Chaoshan food entry\]. Retrieved from http:// wh.csfqw.com/w/csys/44122282.htm
+张新民 \[Zhang, X.\]. (10 May 2013). 潮汕饮食词条 \[Chaoshan food entry\]. Retrieved from http://wh.csfqw.com/w/csys/44122282.htm
 
 
 #### **NOTES**
 
-[^1]: Saw, S.H. (2007). [*The population of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12933462). (p. 11). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW).
+[^1]: Saw, S.H. (2007). [*The population of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12933462). (p. 11). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
 [^2]: Neville, W. (1969). The distribution of population in the postwar period (p. 59).         postwar period (p. 59). In J.B. Ooi &amp; H.D. Chiang (Eds.), [*Modern Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919). Singapore: University of Singapore. (Call no.: RSING 959.57 OOI)
 
@@ -164,15 +164,15 @@ Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 [^9]: [Home-cooked vs hawker food](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921215-1.2.32.17). (1992, December 15). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
 
-[^10]: Seow J.M. (2009). [_Soya &amp; spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955) (p. 9). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
+[^10]: Seow, J.M. (2009). [_Soya &amp; spice: Food and memories of a Straits Teochew family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234955) (p. 9). Singapore: Landmark Books. (Call no.: RSING 641.595957 SEO)
 
 [^11]: Tay, L. (2012). [_Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980) (p. 49). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
 
 [^12]: [Tay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980), 2012, p. 89.
 
-[^13]: Lupton, D. (1996). _Food, the body, and the self_ (p. 1). Calif: Sage Publicatons. (Not available in NLB holdings)
+[^13]: Lupton, D. (1996). _Food, the body, and the self_ (p. 1). Calif.: Sage Publicatons. (Not available in NLB holdings)
 
-[^14]: Lupton, 1886, p. 25.
+[^14]: Lupton, 1996, p. 25.
 
 [^15]: Cwiertka, K., &amp; Walraven, B. (Eds.). (2001). [_Asian food: The global and the local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10763085) (p. 2). Honolulu, HI: University of Hawai’i Press. (Call no.: R 394.1095 ASI)
 
