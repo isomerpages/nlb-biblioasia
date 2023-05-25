@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
   - infopic:
+      title: Remembering Punggol’s Kampong Wak Sumang
+      subtitle: Places and Buildings
+      description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
+        was purportedly founded by a warrior-diplomat whose musical abilities
+        landed him in trouble.
+      button: Rediscovering a Forgotten Village
+      url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
+      alt: Image alt text
+      image: /images/Vol 19 Issue 2/Tok Sumang/kampong-wak-sumang.jpg
+  - infopic:
       title: "Tok Sumang: A Translation"
       subtitle: People
       description: A story about Wak Sumang, a man of great wisdom and many talents,
@@ -516,14 +526,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: Remembering Punggol’s Kampong Wak Sumang
-      subtitle: Places and Buildings
-      description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
-        was purportedly founded by a warrior-diplomat whose musical abilities
-        landed him in trouble.
-      button: Rediscovering a Forgotten Village
-      url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
-      alt: Image alt text
-      image: /images/Vol 19 Issue 2/Tok Sumang/kampong-wak-sumang.jpg
 ---
