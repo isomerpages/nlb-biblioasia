@@ -17,7 +17,7 @@ As you walk around Punggol today, you may encounter the name “Sumang”. Suman
 The name Sumang belongs to the man who founded Kampong Wak Sumang, also known as Kampong Punggol – one of Singapore’s earliest kampongs.[^1] This kampong was situated at Punggol Point, a 10-minute cycle from the current Sumang neighbourhood.
 
 ![](/images/Vol%2019%20Issue%202/Tok%20Sumang/1844%20map%20v1.jpg)
-<div style="background-color: white;">Children playing in front of a house in Kampong Wak Sumang, 1985. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Detail from an 1844 map drawn by Government Surveyor of Singapore J.T. Thomson, which shows Tanjong Pongol (Punggol Point). This is the earliest accurate geographical depiction of the area. <i>Collection of the British Library, shelfmark IOR/X/10177/1.</i></div>
 
 For over 100 years, the growth of Kampong Wak Sumang reflected changes in the Punggol Point community, until its residents relocated in the 1980s to make way for today’s public housing estate.[^2] Although no physical traces of the kampong remain, fragments of its story can be pieced together from books, oral history interviews, newspaper reports and artefacts in the collections of the National Library and the National Archives of Singapore.
 
@@ -54,6 +54,9 @@ Sumang and his family’s long journey to Punggol included stopovers at other is
 <div style="background-color: white;">Detail from a 1939 topographic map of Singapore showing Punggol Village (Kampong Wak Sumang), an Alligator Shoal close to Punggol Point (confirming crocodile sightings), the Singapore Zoo owned by William Lawrence Soma Basapa, and Matilda Estate, a former plantation. <i>Singapore, 1939, TM001048, Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i></div>
 
 When Sumang died in the late 1800s, he left behind a huge estate for his descendants in Punggol, comprising fruit plantations and at least nine houses.[^14] As much of Punggol has been reclaimed, it is difficult to determine the exact location of this old kampong, but we know from a 1986 *Berita Minggu* newspaper report that Sumang’s estate comprised two land parcels, Lot 23 and 24.[^15] These added up to 10.27 acres (4.16 hectares), almost the size of the Padang.[^16]
+
+![](/images/Vol%2019%20Issue%202/Tok%20Sumang/1985%20survey%20map.jpg)
+<div style="background-color: white;">Detail from a 1985 survey map of Singapore shows Kampong Wak Sumang stretching from Track 24 at Punggol Point down to Punggol Port Road, where My Waterway@Punggol is located today. <i>Singapore, 1985, SP006586, Singapore Land Authority, courtesy of National Archives of Singapore.</i></div>
 
 In addition to setting up the kampong, Sumang is also believed to have dug a five-metre-deep well in the kampong. It was said to never run dry and to contain healing properties.[^17] Haji Mohammed Amin Abdul Wahab, a teacher and resident in the kampong, told the *Straits Times* in 1995 that the villagers believed that the well could cure children of fever and epileptic fits. “They would bring their children to bathe with the well water before dawn and they were cured,” he said.[^18]
 
