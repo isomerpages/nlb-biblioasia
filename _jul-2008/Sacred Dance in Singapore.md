@@ -79,4 +79,43 @@ Awareness Movement is primarily influenced by the sacred dances of G.I Gurdjieff
 
 Awareness Movement is like a very complicated walking meditation. Participants begin with a rhythmic bounce in time to verbal cues from the instructor and from here a series of precise, directional arm and head movements are added. The various combinations are challenging enough that you need to bring your attention sharply into the present moment, and this feeling remains after the class has finished.
 
+#### **Why Is It A Spiritual Practice?**
+
+According to Low, the aim of the practice is to expand the awareness of *being* and *presence* and integrate heart, body and mind energy. The movements are used for selfobservation and to increase awareness of what each part of the body is doing at any time. She added that the various abstract geometric shapes created through the dance also generate a constantly flowing awakening energy.
+
+#### **The Sacred Dance Of Life Itself**
+
+If a formal dance class does not hold much appeal but dance as a spiritual practice does - it is also interesting to consider that since dance is actually movement with intention, then perhaps all our movements could become a kind of sacred dance – if we think the right thoughts.
+
+Perhaps, if we moved with light and fluid movements, then maybe we had seen more gentle people in our lives.
+
+And if dance has power because it is involves concentrated intention, we could even consciously structure our daily activities as a devotional dance – washing our face as a purifying dance, serving food as an offering dance, even walking on the earth as a dance of thankfulness – and we might just be able to dance our way to a perfect world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
