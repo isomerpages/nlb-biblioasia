@@ -149,7 +149,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^22]: Janice Loo, “[A Quiet Revolution: Women and Work in Industrialising Singapore](https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore),” _Biblioasia_ 10, no. 2 (July–September 2014): 28–33. 
 
-[^23]: Khoo, [<i>Census of Population, 1980</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204181626), 14–15.
+[^23]: Khoo, [<i>Census of Population, 1980</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181626), 14–15.
 
 [^24]: “[Bouquet for the Personal Secretary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19780306-1.2.52),” _Business Times_, 6 March 1978, 14. (From NewspaperSG). Evidence of the growing recognition of the secretarial profession was already evident in the early 1970s, with pay grades based on academic qualifications, certification and experience. This ranged from $350 for those with just a Senior Cambridge Certificate and no prior working experience, to $1,400 for secretaries with university degrees working in multinational corporations. Judith Wong, “[The Girls the Bosses Must Pamper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700802-1.2.89),” _Straits Times_, 2 August 1970, 12. (From NewspaperSG)
 
