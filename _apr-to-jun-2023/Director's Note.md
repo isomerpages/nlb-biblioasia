@@ -3,10 +3,7 @@ title: Director's Note
 permalink: /vol-19/issue-1/apr-to-jun-2023/director-note/
 description: ""
 ---
-
-
-
-_Mee siam. Sayur lodeh. Udang assam pedas_. What these dishes have in common is that they use a secret ingredient that you can’t see, but you can definitely taste – [_belacan_](/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/). Made from fermented shrimp that has been dried and salted, frying _belacan_ may get you the stink eye from your neighbours, but there’s a reason why versions of this flavouring ingredient is found throughout Southeast Asia – it adds a savoury punch that makes food delicious. Toffa Abdul Wahed’s tour through an olfactory history of Southeast Asia is one that will undoubtedly tickle your taste buds.
+_Mee siam. Sayur lodeh. Udang assam pedas_. What these dishes have in common is that they use a secret ingredient that you can’t see, but you can definitely taste – [_belacan_](/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/). Made from fermented shrimp that has been dried and salted, frying _belacan_ may get you the stink eye from your neighbours, but there’s a reason why versions of this flavouring ingredient are found throughout Southeast Asia – it adds a savoury punch that makes food delicious. Toffa Abdul Wahed’s tour through an olfactory history of Southeast Asia is one that will undoubtedly tickle your taste buds.
 
 From a tour of Southeast Asia, we turn to a part of Singapore few people have ventured to: Lim Chu Kang. Today, all manner of farms exist in the area. That agricultural legacy is thanks in large part to one man: [Neo Tiew](/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/). In the early 20th century, he began clearing the land, which led to farming villages springing up in area. Neo Tiew’s life story is all the more amazing given that it was marked by unimaginable personal tragedy that he was nonetheless able to overcome. Alvin Tan’s story is a great read with fascinating pictures about a colourful character in Singapore’s history.
 
@@ -21,6 +18,6 @@ Singapore may be a small country, but as you can see, its history is nothing to 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;">
 <center><b>Alicia Yeo</b><br>Director<br>National Library, Singapore</center>
 </div>
