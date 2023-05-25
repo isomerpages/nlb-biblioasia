@@ -59,7 +59,7 @@ Ballet’s emphasis on lifting out of the body and transcending the earth also m
 
 Eva Natanya, who danced professionally for nine years, first at the New York City Ballet and then at the Royal Ballet of London, also believes that ballet’s turned out body position makes it especially conducive to the mental practice of sending spiritual gifts to others while dancing.
 
-Natanya, who is currently completing a Masters Degree in Theology, and has also practised yoga and meditation for many years also sees a connection between yoga and ballet, with regard to what is called the ‘inner body’ – the series of inner channels and charkas, or energy centres, which carry *chi* or* prana* through the body, and which it is believed will lead the practitioner to Enlightenment if they are opened fully.
+Natanya, who is currently completing a Masters Degree in Theology, and has also practised yoga and meditation for many years also sees a connection between yoga and ballet, with regard to what is called the ‘inner body’ – the series of inner channels and charkas, or energy centres, which carry *chi* or *prana* through the body, and which it is believed will lead the practitioner to Enlightenment if they are opened fully.
 
 In addition, she draws a parallel between the use of the legs at the *barre*, where the first one is used as a powerful and stable support whilst the other works, creating beautiful, delicate and refined patterns. This, she says is perhaps not unlike maintaining the balance of calm stability and analytical insight in meditation.
 
@@ -90,32 +90,3 @@ If a formal dance class does not hold much appeal but dance as a spiritual pract
 Perhaps, if we moved with light and fluid movements, then maybe we had seen more gentle people in our lives.
 
 And if dance has power because it is involves concentrated intention, we could even consciously structure our daily activities as a devotional dance – washing our face as a purifying dance, serving food as an offering dance, even walking on the earth as a dance of thankfulness – and we might just be able to dance our way to a perfect world.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
