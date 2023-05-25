@@ -525,4 +525,5 @@ sections:
       button: Rediscovering a Forgotten Village
       url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
       alt: Image alt text
+      image: /images/Vol 19 Issue 2/Tok Sumang/kampong-wak-sumang.jpg
 ---
