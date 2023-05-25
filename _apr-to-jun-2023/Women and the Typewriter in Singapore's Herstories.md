@@ -139,7 +139,7 @@ Typewriters and electronic word processors can no longer be found in offices. Bu
 
 [^17]: “[Local Companies Join the Technological Era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710831-1.2.45.4),” _New Nation_, 31 August 1971, 10. (From NewspaperSG). Reflecting the transformation of offices in the 1970s, the sale of office equipment in the first quarter of 1970 was $5,874,632 compared to $16,189,261 for the whole of 1968. See Anthony Ramasamy, “Clearing the Desks for Action,” [<i>Singapore Trade and Industry</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5054318), March 1971 (Singapore: Straits Times Press, 1961–1976), 8. (From National Library, Singapore, call no. RSING 381.095957 SIN)
 
-[^18]: “[Latest Machines to Help Firms to Increase Output and Efficiency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750824-1.2.76.5),” _Straits Times_, 24 August, 1975, 20. (From NewspaperSG)
+[^18]: “[Latest Machines to Help Firms to Increase Output and Efficiency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750824-1.2.76.5),” _Straits Times_, 24 August 1975, 20. (From NewspaperSG)
 
 [^19]: Linda Lim and Pang Eng Fong, [<i>Trade, Employment and Industrialisation in Singapore</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204139357) (Geneva: International Labour Organisation, 1986), 59–61. (From National Library, Singapore, call no. RSING 330.95957 LIM)
 
