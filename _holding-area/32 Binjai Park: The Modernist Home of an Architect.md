@@ -13,6 +13,7 @@ By Lim Tin Seng and Lee Peng Hui
 
 ![](/images/Vol%2019%20Issue%202/Binjai/image2.png)
 <div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
+
 Significant buildings in Singapore tend to fall into a few well-known categories. There are colonial-era buildings typically in the neoclassical style, like the former Supreme Court or the old Parliament House. Then there are stunning modern ones like Jewel Changi Airport, Marina Bay Sands and Esplanade – Theatres on the Bay. Not many of them, however, are 1970s homes located in leafy suburbs. Then again, not many buildings can claim to be the family home of the late architect and conservationist Lee Kip Lin.[^1]
 
 Designed by Lee and built in 1973, the house at 32 Binjai Park has been designated as a significant modernist building in Singapore.[^2]
@@ -67,7 +68,7 @@ Adding to the simple look is the use of brick walls to conceal the reinforced co
 Lee also did not want to install false ceilings. “He wanted to expose the roof construction by expressing the elements such as timber beams and rafters,” said Tse. “The concrete floor slab of the loft over the dining area was also left bare without a false ceiling. He had taken great care to place services such as the floor trap of the bathroom of the loft outside the house away from the main area so that a false ceiling is not necessary.”[^11]
 
 ![](/images/Vol%2019%20Issue%202/Binjai/image6.png)
-<div style="background-color: white;">Upstand or inverted beams (circled in red) are used for the loft so that its beams are hidden above the general slab level, 1973. This allows the slab to be fully exposed below without any protruding structure. Without false ceilings, Lee Kip Lin could also fully display the roof construction, including its timber beams and rafters, (boxed in blue) above the living room and veranda, 1973. <i>Lee Kip Lin Collection, National Library, Singapore</i></div>
+<div style="background-color: white;">Upstand or inverted beams (circled in red) are used for the loft so that its beams are hidden above the general slab level, 1973. This allows the slab to be fully exposed below without any protruding structure. Without false ceilings, Lee Kip Lin could also fully display the roof construction, including its timber beams and rafters, (boxed in blue) above the living room and veranda, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 The design of the home also takes the local climate into consideration. Lee relied on the extensive use of louvres for windows and doors (some of which were bifold and trifold), which allows for cross-ventilation even when closed. The use of louvres also extends to the main entrance door. 
 
