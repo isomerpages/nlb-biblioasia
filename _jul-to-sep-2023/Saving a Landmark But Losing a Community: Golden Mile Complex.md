@@ -9,7 +9,7 @@ image: /images/Vol 19 Issue 2/Golden Mile Complex/golden_mile_complex_3.png
 ---
 #### With the en bloc sale of Golden Mile Complex in 2021, the tenants of the shopping centre have had to vacate the place by May 2023. These photos by Jimmy Yap capture the final months of what has come to be known as Little Thailand.
 
-(To read the essay on Golden Mile Complex, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex/).)
+(Read the essay on [Golden Mile Complex](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex/).)
 
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201.jpg">
 <div style="background-color: white;text-align:center">From Nicoll Highway, Golden Mile Complex, with its unique stepped terraced design, resembles a giant typewriter, 2023.</div><br>
