@@ -16,7 +16,6 @@ Toffa Abdul Wahed is an Associate Librarian with the National Library, Singapore
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Teaser clip** ####
-<a href=""><img src="/images/Podcast/ep%204%20(belacan%20by%20toffa)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
 
 #### **Resources** ####
