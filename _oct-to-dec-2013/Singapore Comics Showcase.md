@@ -4,44 +4,44 @@ permalink: /vol-9/issue-3/oct-dec-2013/singapore-comics-showcase/
 description: Find out how prejudiced attitudes towards comics changed, when a
   series of educational comics became bestsellers.
 ---
-#### Find out how prejudiced attitudes towards comics changed, when a series of educational comics became bestsellers.
+#### Find out how prejudiced attitudes towards comics changed when a series of educational comics became bestsellers.
 
-<img style="width: 650px; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Exhibition%20booklets.jpg">
-<div style="background-color: white;">Held at various public libraries, visitors to the 24 Hour Comics Day (2013) exhibition were able to read the works of participating artists. <i>Courtesy of Pearly Ma.</i></div>
+<img style="width: 650px;" src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Exhibition%20booklets.jpg">
+<div style="background-color: white;">Held at various public libraries, visitors to the "24 Hour Comics Day" (2013) exhibition could read the works of participating artists. <i>Courtesy of Pearly Ma.</i></div>
 
-On 31 August 1960, The *Singapore Free Press* ran an article with the rather controversial headline: “Bad boys … comics to blame, say the teachers”. Some 58 teachers from English schools had met at a closeddoor meeting to debate the ill-effects of comics on teenagers. After six long hours, the meeting concluded that comics were a form of “misguided culture” and contributed towards juvenile delinquency in Singapore. The declaration was part of the government’s decade-long campaign against “yellow culture” — a movement against Western decadence, pornography and gangsterism — that had been launched the previous year.
+On 31 August 1960, The *Singapore Free Press* ran an article with a rather controversial headline: “Bad boys … comics to blame, say the teachers.” Some 58 teachers from English schools had met at a closed-door meeting to debate the supposedly ill effects of comics on teenagers. After six long hours, the meeting concluded that comics were a form of “misguided culture” that contributed to juvenile delinquency in Singapore. The declaration was part of the government’s decade-long campaign against “yellow culture” – a movement against Western decadence, pornography and gangsterism – that had been launched the previous year.
 
-Thankfully, such prejudiced attitudes towards comics changed in the early 1990s when a series of educational comics published by Asiapac Books became bestsellers. Public libraries too recognised this popular art form, and in 1999, graphic novels were added to the collection of the former library@orchard in Ngee Ann City. In the same year, a small exhibition showcasing local political cartoons by Tan Huay Peng and Morgan Chua was held in the courtyard of the old National Library at Stamford Road.
+Thankfully, such prejudiced attitudes towards comics changed in the early 1990s when a series of educational comics published by Asiapac Books became bestsellers. Public libraries, too, recognised this popular art form: in 1999, graphic novels were added to the collection of the former library@orchard in Ngee Ann City. In the same year, a small exhibition showcasing local political cartoons by Tan Huay Peng and Morgan Chua was held in the courtyard of the old National Library on Stamford Road.
 
-From May to June 2013, the Singapore 24 Hour Comics Day Showcase was held at various public library branches such as Sengkang and Serangoon Public Libraries. This exhibition featured the works of young artists who participated in the 2011 and 2012 editions of the 24 Hour Comics Day.
+From May to June 2013, the 24 Hour Comics Day Showcase was held at various public library branches such as Sengkang and Serangoon. This exhibition featured the works of young artists who participated in the 2011 and 2012 editions of 24 Hour Comics Day.
 
-In conjunction with the Singapore Memory Project, Chinese newspaper *Lianhe Zaobao* has organised an exhibition, “A Collection of Our Shared Memories”, showcasing 90 years of comics published in the paper in celebration of its 90th anniversary. From August to November 2013, the exhibition travelled from the National Library at Victoria Street to library@Chinatown to Woodlands Regional Library and to its final pit stop at the SPH News Centre.
+In conjunction with the Singapore Memory Project, Chinese newspaper *Lianhe Zaobao* has organised an exhibition, “A Collection of Our Shared Memories”, showcasing 90 years of comics published in the broadsheet in celebration of its 90th anniversary. From August to November 2013, the exhibition travelled from the National Library on Victoria Street to library@chinatown to Woodlands Regional Library and to its final stop at the SPH News Centre.
 
-#### The 24 Hours Comics Day  Nationalism
+#### The "24 Hours Comics Day"  Nationalism
 
-The 24 Hour Comics Day started in the United States in 2004 to encourage aspiring artists to create 24 pages of comics in 24 hours. The event — in which participants gather for a full 24-hour period — gives free rein to their imagination and complete a 24-page comic during the time given. It has since been adopted by countries across the world. The first 24 Hour Comics Day in Singapore was held in 2010, and on 20 October 2012, the third edition was held at Bukit Merah Public Library.
+24 Hour Comics Day started in the United States in 2004 to encourage aspiring artists to create 24 pages of comics in 24 hours. Participants gather for a full 24-hour period to complete a 24-page comic. The event gives free rein to their imagination. It has since been adopted by countries across the world. The first 24 Hour Comics Day in Singapore was in 2010, and on 20 October 2012, the third edition was held at Bukit Merah Public Library.
 
-The 24 Hour Comics Day Showcase in 2013 featured a total of 15 works, many of which were centered on the theme of pursuing one’s dreams. In *Changing Stories*, Christal Kuna recounts a wordless but poignant coming-of-age story about life choices and a father’s love and guidance. Max Loh’s work *The Road Not Taken* references Robert Frost’s inspirational poem of the same name, recounting the personal story of his decision to study the sciences and how, as an adult now, he is drawing comics in his free time. Jerry Teo adapted Aesop’s didactic fable about the *dog and wolf* and questions whether it is better to live comfortably and be subjected to a human master, or to live freely and be the master of one’s own destiny. *Dog and Wolf* was voted by participating artists as the best story created at the 2012 event.
+The 24 Hour Comics Day Showcase in 2013 featured a total of 15 works, many of which were centred on the theme of pursuing one’s dreams. In *Changing Stories*, Christal Kuna recounts a wordless but poignant coming-of-age story about life choices and a father’s love and guidance. Max Loh’s *The Road Not Taken* references Robert Frost’s inspirational poem of the same name, recounting the personal story of his decision to study the sciences and how, as an adult now, he is drawing comics in his free time. Jerry Teo adapted Aesop’s didactic fable, *The Dog and the Wolf*, questioning whether it is better to live comfortably and be subjected to a human master, or to live freely and be the master of one’s own destiny. *Dog and Wolf* was voted by participating artists as the best story created at the 2012 event.
 
 
-<img style="width: 50%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/christal%20Kuna_poster.jpg">
+<img style="width: 50%;" src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/christal%20Kuna_poster.jpg">
 <div style="background-color: white;">A panel from Christal Kuna's submission, <i>Changing Stories.</i> <i>All rights reserved, Christal Kuna, 2012.</i></div>
 	
-Participants also used the opportunity to create comics that express their opinions about social issues. For instance Japanese art director Emiko Iwasaki’s anger is palpable in her story, *Wish*, which documents the discrimination and sexual harassment faced by women in Japan.
+Participants also used the opportunity to create comics that express their opinions about social issues. For instance, Japanese art director Emiko Iwasaki’s anger is palpable in her story, *Wish*, which documents the discrimination and sexual harassment faced by women in Japan.
 
 	
-*Wish* is one of many autobiographical comics created at the Comics Day event. This genre is a recurrent one among many artists in America and has its Southeast Asian counterparts among Indonesian artists such as Tita Larasati and Sheila Rooswitha. Local artists who have adopted this genre include Koh Hong Teng and Troy Chin. Following in a similar autobiographical vein, albeit in a more lighthearted style, is Hanse Kew’s *Bundle of Joy*, a simple story about his journey to fatherhood.
+*Wish* is one of many autobiographical comics created at the Comics Day event. This genre is a recurrent one among many artists in America and has its Southeast Asian counterparts among Indonesian artists such as Tita Larasati and Sheila Rooswitha. Local artists who have adopted this genre include Koh Hong Teng and Troy Chin. In a similar autobiographical vein, albeit more lighthearted style, is Hanse Kew’s *Bundle of Joy*, a story about his journey to fatherhood.
 
 
-<img style="width: 50%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Social%20butterfly.jpg">
+<img style="width: 50%;" src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Social%20butterfly.jpg">
 <div style="background-color: white;">“The social butterfly”, <i>Nanyang Siang Pau</i>, 1 April 1950.</div>
 	
 
-Other past works include humour strips, such as Clio Ding’s *Kevin and Magical Nonsense* (2011), and adventure stories such as Benjamin Chee’s *Gate of Joy* (2012), which are influenced by the Japanese manga and anime styles of cartoons. Many of the artists are still developing and finding their own voices and it is encouraging to see these talents bravely exploring their creativity in public.
+Other past works include humour strips, such as Clio Ding’s *Kevin and Magical Nonsense* (2011), and adventure stories such as Benjamin Chee’s *Gate of Joy* (2012), which are influenced by the Japanese manga and anime style of cartoons. Many of the artists are still developing and finding their own voices and it is encouraging to see these talents bravely exploring their creativity in public.
 
 #### A Collection of Our Shared Memories
 
-In 1923 and 1929 respectively, Chinese language newspapers *Nanyang Siang Pau* and *Sin Chew Jit Poh* were founded. In 1983, they merged to form *Lianhe Zaobao*, and this year, it celebrates 90 years of Chinese newspaper publishing in Singapore. Supported by the Singapore Memory Project, “A Collection of Our Shared Memories” is an exhibition tracing 90 years of cartoons published in these newspapers.
+In 1923 and 1929 respectively, Chinese-language newspapers *Nanyang Siang Pau* and *Sin Chew Jit Poh* were founded. In 1983, they merged to form *Lianhe Zaobao*. This year, *Lianhe Zaobao* celebrates 90 years of Chinese newspaper publishing in Singapore. Supported by the Singapore Memory Project, “A Collection of Our Shared Memories” is an exhibition tracing 90 years of cartoons published in these newspapers.
 
 These cartoons serve as mirrors of our times, their subject matter revolving around everyday issues such as food, work, housing and transport, reflecting the socio-political changes that took place in Singapore. In the 1920s and 1930s, most of the cartoons in *Nanyang Siang Pau* and *Sin Chew Jit Poh* focused on China, which was not surprising as many of the artists as well the editor of *Sin Kwang* (the pictorial supplement of *Sin Chew Jit Poh*), Tchang Ju Chi, were migrants from China. The newspapers served as a news link between the Chinese immigrants in Singapore —most of whom were sojourners and did not intend to settle down —and their homeland.
 
@@ -67,9 +67,8 @@ Cartoons of the 1970s marked a return to the anti-yellow culture movement. This 
 However, not all cartoonists promoted the State’s agenda: four *Nanyang Siang Pau* senior executives were arrested under the Internal Security Act in 1971 for allegedly playing up Chinese chauvinism and glorifying Chinese communism in the newspaper. In 1974, to prevent such incidents from recurring, the Newspaper and Printing Presses Act was enacted to regulate the management and operation of all newspapers in Singapore.
 
 
-<img style="width: 80%; " src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Quiting%20work.jpg">
-<div style="background-color: white;"
->“Tell Daddy I'm quitting work!”, Ong Sher Shin, <i>Nanyang Siang Pau</i>, 6 February 1972.</div>
+<img style="width: 80%;" src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Quiting%20work.jpg">
+<div style="background-color: white;">“Tell Daddy I'm quitting work!”, Ong Sher Shin, <i>Nanyang Siang Pau</i>, 6 February 1972.</div>
 
 By the 1980s, Singapore was more confident of its position on the world stage and its own future. A new generation of cartoonists appeared on the scene, such as Lee Kok Hean (Li Tai Li) and Heng Kim Song. The former was one of the original members of Man Hua Bao, a group of young cartoonists who contributed to the Sin Chew youth supplement, Sin Chew Youth. In the early 1980s, they were an active group, creating cartoons about local life. When they disbanded in 1986, they were replaced by Man Hua Kuai Can, another student group that drew cartoons for the Sunday edition of *Lianhe Zaobao*.
 
