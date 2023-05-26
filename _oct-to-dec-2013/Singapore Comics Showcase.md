@@ -54,17 +54,17 @@ However, with the outbreak of the Sino-Japanese War in 1937, the Chinese press a
 
 The Japanese Occupation of Singapore was a clear indication that the people could not depend on the British for protection and that they should strive towards independence. While the cartoons of the 1950s reflected the anti-colonial fervour of the times, it was not just pro-independence cartoons that were popular. Cartoons had a part to play in shaping the culture and values of a fledgling nation that was transitioning from colonial rule to self-government. Cartoons in the 1950s were also moralistic in tone, attacking the economic problems of the day and highlighting social and moral decay.
 
-Western culture was perceived as being synonymous with decadence, and thus, detrimental to the Malayan culture that the local politicians, artists and writers were trying to engender. This rallying call eventually crystallised into policy in 1959 when the People’s Action Party came to power and declared war against this cultural and moral erosion.
+Western culture was perceived as being synonymous with decadence, and thus detrimental to the Malayan culture that local politicians, artists and writers were trying to engender. This rallying call eventually crystallised into policy in 1959 when the People’s Action Party came to power and declared war against this cultural and moral erosion.
 
 By the early 1960s, cartoons had morphed into a consensus-building tool. Cartoons began to pointedly illustrate larger political interests, moving away from the fiery anti-colonial images of the 1950s to support the merger with Malaya. What the government wanted was a “peaceful revolution”, as cited in a Ministry of Culture publication in 1960. In line with this, cartoons in *Sin Chew Jit Poh* promoted social cohesion, such as the learning of Malay to create a new Malayan culture and the passing of the Women’s Charter that outlawed polygamy.
 
-After Singapore and Malaysia separated in 1965, cartoons took on a stronger social character, promoting the nation-building process, reflecting social policy and economic planning, publicising birth control measures and emphasising the importance of a clean and green country. During this time, the Chinese press tapped on the talents of artists like See Cheen Tee, Lim Mu Hue and, later, Koeh Sia Yong.
+After Singapore and Malaysia separated in 1965, cartoons took on a stronger social character: promoting the nation-building process, reflecting social policy and economic planning, publicising birth control measures and emphasising the importance of a clean and green country. During this time, the Chinese press tapped on the talent of artists like See Cheen Tee, Lim Mu Hue and, later, Koeh Sia Yong.
 
 #### Cartoons of the 1970s and 1980s
 
-Cartoons of the 1970s marked a return to the anti-yellow culture movement. This time, they targeted hippie culture with its drugs and sexual permissiveness, and its associations with liberal Western values. Those who went abroad to study were deemed as a social threat when they returned to Singapore. Even Bruce Lee movies were seen as promoting violence, vigilantism and unhealthy behaviour and attitudes. *Sin Chew Jit Poh*’s Ong Sher Shin was at the forefront of this progovernment cartoon campaign.
+Cartoons of the 1970s marked a return to the anti-yellow culture movement. This time, they targeted the hippie culture with its drugs and sexual permissiveness, and its associations with liberal Western values. Those who went abroad to study were deemed as a social threat when they returned to Singapore. Even Bruce Lee movies were seen as promoting violence, vigilantism and unhealthy behaviour and attitudes. *Sin Chew Jit Poh*’s Ong Sher Shin was at the forefront of this pro-government cartoon campaign.
 
-However, not all cartoonists promoted the State’s agenda: four *Nanyang Siang Pau* senior executives were arrested under the Internal Security Act in 1971 for allegedly playing up Chinese chauvinism and glorifying Chinese communism in the newspaper. In 1974, to prevent such incidents from recurring, the Newspaper and Printing Presses Act was enacted to regulate the management and operation of all newspapers in Singapore.
+However, not all cartoonists promoted the state’s agenda: four *Nanyang Siang Pau* senior executives were arrested under the Internal Security Act in 1971 for allegedly playing up Chinese chauvinism and glorifying Chinese communism in the newspaper. In 1974, to prevent such incidents from recurring, the Newspaper and Printing Presses Act was enacted to regulate the management and operation of all newspapers in Singapore.
 
 
 <img style="width: 80%;" src="/images/vol-9-issue-3/Singapore%20Comics%20Showcase/Quiting%20work.jpg">
@@ -73,19 +73,12 @@ However, not all cartoonists promoted the State’s agenda: four *Nanyang Siang 
 By the 1980s, Singapore was more confident of its position on the world stage and its own future. A new generation of cartoonists appeared on the scene, such as Lee Kok Hean (Li Tai Li) and Heng Kim Song. The former was one of the original members of Man Hua Bao, a group of young cartoonists who contributed to the Sin Chew youth supplement, Sin Chew Youth. In the early 1980s, they were an active group, creating cartoons about local life. When they disbanded in 1986, they were replaced by Man Hua Kuai Can, another student group that drew cartoons for the Sunday edition of *Lianhe Zaobao*.
 
 
+Readers today would be more familiar with the hot-button issues that beleaguered Singapore from the 1980s onwards: falling birthrates, Chinese language issues, various financial crises, immigration controversies, the threat of SARS and the avian flu, as well as daily bugbears such as the rising cost of living. As they did in the past, the cartoons mirrored the local headlines of the day.
 
-	
-	
-	
-
-
-Readers today would be more familiar with the hot-button issues that beleaguered Singapore from the 1980s onwards —falling birthrates, Chinese language issues, various financial crises, immigration controversies, the threat of SARS and avian flu, as well as daily bugbears such as the rising cost of living. As they did in the past, the cartoons mirrored the local headlines of the day.
-
-So what has changed in the art of cartooning, particularly in Singapore newspapers, after 90 years? In its early years, most people were illiterate and cartoons served as a powerful vehicle to convey visual ideas, employing images and simple text to carry their messages. Today, cartoons have become more sophisticated, using verbal innuendo and double entendres because the increasingly educated populace can understand these textual sleights of hand. There are also more textual and visual references to mass media as well as pop culture on platforms such as television, radio, the internet, and increasingly, social media. But it is precisely because of this competition that cartoons as a genre have become less effective as a means of communication. This is perhaps one of the key reasons why the artists who take part in 24 Hour Comics Day feel less inclined to tackle social issues of the day, preferring instead to deal with personal introspection.
+So what has changed in the art of cartooning, particularly in Singapore newspapers, after 90 years? In its early years, most people were illiterate and cartoons served as a powerful vehicle to convey visual ideas, employing images and simple text to carry their messages. Today, cartoons have become more sophisticated, using verbal innuendo and double entendres because the increasingly educated populace can understand these textual sleights of hand. There are also more textual and visual references to mass media as well as pop culture on platforms such as television, radio, the internet and, increasingly, social media. But it is precisely because of this competition that cartoons as a genre have become less effective as a means of communication. This is perhaps one of the key reasons why the artists who take part in 24 Hour Comics Day feel less inclined to tackle social issues of the day, preferring instead to deal with personal introspection.
 
 Both exhibitions present a past and present 
-view of the state of cartooning comics
-reation in Singapore and will hopefully inspire more people to create their own works.
+view of the state of comics creation in Singapore and will hopefully inspire more people to create their own works.
 
 
 <div>
