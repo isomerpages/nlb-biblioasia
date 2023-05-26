@@ -17,7 +17,6 @@ Dahlia Shamsuddin is a senior librarian with the Resource Discovery &amp; Manage
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
 #### **Teaser clip** ####
-<a href=""><img src="/images/Podcast/ep%203%20(murals%20by%20dahlia)%20teaser.jpg" style="width:auto; height:400px;"></a>
 
 
 #### **Resources** ####
