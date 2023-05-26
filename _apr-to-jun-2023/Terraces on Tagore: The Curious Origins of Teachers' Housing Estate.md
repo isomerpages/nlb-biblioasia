@@ -28,8 +28,7 @@ The STU mooted the idea of building a Teachers’ Estate with its own clubhouse 
 
 In a 1995 interview with the *Straits Times*, Yeoh said that the union had planned to build a clubhouse for several years but nothing was done, so he and his colleagues decided that the STU committee would do so. Unfortunately, there were problems. “The union could not afford to buy a centrally sited piece of land large enough for a clubhouse and for outdoor facilities,” according to the news report. The union considered a site further from the city which would be cheaper. However, being further away would not be convenient for members. “In the end, the committee came up with a novel plan: develop a housing estate around the clubhouse,” the paper reported.[^4]
 
- <img style="width: 80%;"
-src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Site%20of%20Teachers'%20Estate.jpg">
+ <img style="width: 80%;" src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Site%20of%20Teachers'%20Estate.jpg">
 <div style="background-color: white;">The construction site of Teachers’ Housing Estate, 1968. <i>Image reproduced from Yeoh Beng Cheow, “Report on the Teachers’ Housing Estate,” Teachers’ Forum no. 1 (April– May 1968) (Singapore: Singapore Teachers’ Union, 1968), 12. (From National Library, Singapore, call no. RCLOS 331.88113711 TF).</i>
 </div>
 
@@ -78,7 +77,7 @@ In 1971, when the estate was officially opened, 180 of the homes were owned by t
 
  “Although the estate is a bit way out, I don’t mind,” said one resident in 1974. “It is really quite convenient. We have the fishmonger, the egg woman and the newspaper man making their rounds to the homes every morning.” She did wish that more hawkers would come by though.[^22]
  
-Crime was one of the problems faced by residents in the early days. A few months after moving in, residents reported two burglaries in October 1969: thieves had broken into houses via window grills. “At that time, the families that moved in were far and in-between” recalled a pioneer resident. “The thieves found the homes a good target, even during the day, as most of us would be away working.” Alarmed, the residents formed a vigilante corps and the place acquired the nickname “Whistling Estate” because residents used police whistles to summon help from neighbours. Home burglaries eventually stopped when more people moved into the estate, police patrols increased in frequency and residents kept watch dogs.[^23]
+Crime was one of the problems faced by residents in the early days. A few months after moving in, residents reported two burglaries in October 1969: thieves had broken into houses via window grills. “At that time, the families that moved in were far and in-between,” recalled a pioneer resident. “The thieves found the homes a good target, even during the day, as most of us would be away working.” Alarmed, the residents formed a vigilante corps and the place acquired the nickname “Whistling Estate” because residents used police whistles to summon help from neighbours. Home burglaries eventually stopped when more people moved into the estate, police patrols increased in frequency and residents kept watch dogs.[^23]
 
 Given that the majority of the residents shared a similar occupation, a community spirit quickly developed. Besides home visits, they would go for outings together and many also joined the estate’s organised activities. Carpooling was the norm for travelling to work, and help was never far away if a resident’s car developed mechanical problems. “Teachers who find themselves teaching in schools in the same locality are quite ready to give lifts to each other,” said Mrs T. Broughton, a teacher and resident. She herself got a lift from her neighbour teaching in the same school.[^24]
 
@@ -127,38 +126,37 @@ In 2004, it was announced that Teachers’ Estate would be upgraded under the Es
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
 The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
 
- <img style="width: 60%;"
-src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_Teachers'%20Estate4.jpg">
+ <img style="width: 60%;" src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_01%20signage_Teachers'%20Estate4.jpg">
 <div style="background-color: #fff6ba;">The roads in Teachers’ Housing Estate are named after famous writers and poets. <i>Photo by Sharon Teng.</i>
 </div><br>
 	
 	
-<img style="width: 60%;"		src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate3.jpg">
+<img style="width: 60%;" src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/THE_25%20Munshi%20Abdullah%20Walk%20sign%20Raintree%20Valley%20sign_Teachers'%20Estate3.jpg">
 <div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
 </div><br>
 
 	
-* <b>Munshi Abdullah Avenue/Walk</b> – Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.<br><br>
+* <b>Munshi Abdullah Avenue/Walk</b>&nbsp;– Named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay.<br><br>
 	
 * <b>Omar Khayyam Avenue</b> – Named after Omar Khayyam (1048–1131), a Persian poet, astronomer and mathematician. He is best known as the author of the <i>Rubaiyat</i>, a verse form consisting of four-line stanzas.<br><br>
 
-* <b>Kalidasa Avenue</b> – Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.<br><br>
+* <b>Kalidasa Avenue</b>&nbsp;– Named after Kalidasa, one of the greatest poets and playwrights in India who lived around the 5th century.<br><br>
 
-* <b>Tagore Avenue</b> – Named after Rabindranath Tagore (1861–1941), a Bengali poet who won the Nobel Prize for Literature in 1913 and was knighted in England in 1914.<br><br>
+* <b>Tagore Avenue</b>&nbsp;– Named after Rabindranath Tagore (1861–1941), a Bengali poet who won the Nobel Prize for Literature in 1913 and was knighted in England in 1914.<br><br>
 
-* <b>Iqbal Avenue</b> – Named after the Indian poet and philosopher, Muhammad Iqbal (1877–1938), who was a staunch advocate for the creation of a separate Muslim state.<br><br>
+* <b>Iqbal Avenue</b>&nbsp;– Named after the Indian poet and philosopher, Muhammad Iqbal (1877–1938), who was a staunch advocate for the creation of a separate Muslim state.<br><br>
 
-* <b>Tu Fu Avenue</b> – Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.<br><br>
+* <b>Tu Fu Avenue</b>&nbsp;– Named after Du Fu (712–770), one of the greatest poets and social critics in Chinese history.<br><br>
 
-* <b>Li Po Avenue</b> – Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.<br><br>
+* <b>Li Po Avenue</b>&nbsp;– Named after the renowned Chinese poet, Li Po (701–762) (also known as Li Bai), who lived during the Tang Dynasty.<br><br>
 
-* <b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.<br><br><br>
+* <b>Tung Po Avenue</b>&nbsp;– Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.<br><br><br>
 	
 <b>REFERENCES</b><br><br>  
-Dunlop, Peter K.G. <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10074722"><i>Street Names of Singapore</i></a>. Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br><br>
-Ng, Yew Peng. <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)  <br><br>
+Dunlop, Peter K.G.&nbsp;<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10074722"><i>Street Names of Singapore</i></a>.&nbsp;Singapore: Who's Who Pub., 2000. (From National Library, Singapore, call no. RSING 959.57 DUN)  <br><br>
+Ng, Yew Peng.&nbsp;<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202924449"><i>What's in the Name? How the Streets and Villages in Singapore Got Their Names</i></a>. Singapore: World Scientific, 2018. (From National Library, Singapore, call no. RSING 915.9570014 NG)  <br><br>
   
-Savage, Victor R., and Brenda S.A. Yeoh. <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200123850"><i>Singapore Street Names: A Study of Toponymics</i></a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)
+Savage, Victor R., and Brenda S.A. Yeoh.&nbsp;<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200123850"><i>Singapore Street Names: A Study of Toponymics</i></a>. Singapore: Marshall Cavendish Editions, 2013. (From National Library, Singapore, call no. RSING 915.9570014 SAV)
 </div>
 	
 <div style="background-color: white;">

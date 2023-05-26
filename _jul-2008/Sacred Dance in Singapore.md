@@ -73,7 +73,7 @@ Awareness Movement is a moving meditation, which encourages participants to heig
 
 The movement form was created by Low Yuen Wei who is the Artistic Director of InSource Theatre, a Buddhist-influenced modern dance company. Low, who trained in Singapore and Italy and has been a dancer and theatre practitioner for more than 10 years, constantly looks to Buddhist philosophy for artistic inspiration.
 
-Awareness Movement is primarily influenced by the sacred dances of G.I Gurdjieff. Gurdjieff was a GreekArmenian philosopher who collected what he called ‘awareness dances’ from Sufi Masters, Christian and Tibetan temples and from desert dwelling tribes to form what he called the Gurdjieff Movements. Low and her dance team have blended these movements into a fusion of traditional forms, modern dance and meditation, which works holistically to develop the body, heart and mind.
+Awareness Movement is primarily influenced by the sacred dances of G.I Gurdjieff. Gurdjieff was a Greek-Armenian philosopher who collected what he called ‘awareness dances’ from Sufi Masters, Christian and Tibetan temples and from desert dwelling tribes to form what he called the Gurdjieff Movements. Low and her dance team have blended these movements into a fusion of traditional forms, modern dance and meditation, which works holistically to develop the body, heart and mind.
 
 #### **What Is It Like?**
 
