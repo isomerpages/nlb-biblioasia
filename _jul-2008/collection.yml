@@ -2,6 +2,7 @@ collections:
   jul-2008:
     output: true
     order:
+      - Excerpts from Hikayat Abdullah.md
       - Sacred Dance in Singapore.md
       - Director's Column.md
       - "Resonating with Youths in Singapore: Managing Cultural Identity in Web
