@@ -8,11 +8,11 @@ image: /images/Vol 19 Issue 2/Brinjai/image_1.png
 #### The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. 
 By Lim Tin Seng and Lee Peng Hui
 
-![](/images/Vol%2019%20Issue%202/Binjai/image_1.png)
-<div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
-
 ![](/images/Vol%2019%20Issue%202/Binjai/image2.png)
 <div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
+
+![](/images/Vol%2019%20Issue%202/Binjai/image_1.png)
+<div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 Significant buildings in Singapore tend to fall into a few well-known categories. There are colonial-era buildings typically in the neoclassical style, like the former Supreme Court or the old Parliament House. Then there are stunning modern ones like Jewel Changi Airport, Marina Bay Sands and Esplanade – Theatres on the Bay. Not many of them, however, are 1970s homes located in leafy suburbs. Then again, not many buildings can claim to be the family home of the late architect and conservationist Lee Kip Lin.[^1]
 
