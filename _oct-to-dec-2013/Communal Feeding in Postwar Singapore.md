@@ -262,8 +262,4 @@ Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of
 [^63]:Singapore. Ministry of Community Development, Youth and Sports. (2007). [*Helping hands, touching lives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881916). Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
 [^64]:Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database.
 [^65]:National Library Board. (2010). [Launch of Family Planning Publicity Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1651_2010-02-26.html) written by Lim, Irene. Retrieved from Singapore Infopedia.
-[^66]:[S’pore’s children get fed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470203-1.2.22.1). (1947, February 3). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG. 
-
-
-
-
+[^66]:[S’pore’s children get fed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470203-1.2.22.1). (1947, February 3). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
