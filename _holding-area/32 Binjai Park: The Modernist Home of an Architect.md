@@ -59,6 +59,9 @@ The house in Binjai Park is very different from the Amber Road one. That was a t
 
 In the Amber Road house, the dining room, kitchen and servants’ quarters were on the first floor. The living room, however, was on the second floor, and it opened to an extensive balcony. The balcony afforded panoramic views of the sea, ships and the Riau Islands beyond, which would not have been possible if the living room had been located on the first floor. From the balcony, Lee would often peer out, armed with a pair of binoculars. 
 
+![](/images/Vol%2019%20Issue%202/Binjai/image14.png)
+<div style="background-color: white;">Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, c. 1935.&nbsp;<i>Courtesy of Mrs Lee Li-ming.</i></div>
+
 Lee was very attached to Katong. He loved the sea and might never have left Amber Road if not for the Bedok-Tanjong Rhu reclamation works in the 1960s, which pushed the shoreline out. Another factor was the impending construction of the multistorey Chinese Swimming Club sports complex adjacent to the house. In addition, the tax on the vacant land at Binjai Park was extremely high compared to what it would have been if the property was occupied. Given all these, Lee decided to sell the house on Amber Road and move his family to Binjai Park.
 
 #### **A House for the Tropics**
