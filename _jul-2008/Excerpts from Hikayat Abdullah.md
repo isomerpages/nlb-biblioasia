@@ -7,7 +7,7 @@ description: Hikayat Abdullah (The Story of Abdullah) by Munshi Abdullah Abdul
   trading post on the island in February 1819.
 image: /images/Vol 4 Issue 2/HikayatAbdullah/hikayat abdullah .jpg
 ---
-#### _Hikayat Abdullah_ (_The Story of Abdullah_) by Munshi Abdullah Abdul Kadir provides glimpses of life in early Singapore. Abdullah arrived in Singapore from Melaka about four months after Stamford Raffles established a trading post on the island in February 1819.
+#### _Hikayat Abdullah_&nbsp;(_The Story of Abdullah_) by Munshi Abdullah Abdul Kadir provides glimpses of life in early Singapore. Abdullah arrived in Singapore from Melaka about four months after Stamford Raffles established a trading post on the island in February 1819.
 
 In our last two issues, we introduced the autobiography of Munshi Abdullah Abdul Kadir which was written in Jawi between 1840 and 1843 and published in 1849. The author was the interpreter and scribe to the founder of modern Singapore, Sir Stamford Raffles.
 
@@ -40,8 +40,17 @@ There was also an incident of Farquhar’s dog being attacked and eaten by a cro
 *Setelah sudah, maka buaya itu pun terkepunglah lalu ditikam orang sampai mati, ada tiga depa panjangnya. Maka baharulah diketahui orang ada buaya di Singapura. Maka oleh Tuan Farquhar disuruhnya ambl bangkai buaya itu digantungkannya di pohon jawi-jawi yang di tepi Sungai Beras Basah itu, adanya*.8
 
 The crocodile was hemmed in by the obstruction and speared to death. It was 15 feet long. That was the first time that people realised there were crocodiles in Singapore. Colonel Farquhar ordered the crocodile’s carcass to be taken, and hung on a fig tree by the side of the Beras Basah River.9
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Mazelan_Anuar.png">
+<center><b>Mazelan Anuar</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
+#### **REFERENCES**
 
+ [Hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12573473)_ (Kuala Lumpur: Yayasan Karyawan, 2004). (Call no. Malay RSING 899.2809 ABD)
+
+Munshi Abdullah Abdul Kadir, _[The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854](https://eresources.nlb.gov.sg/printheritage/detail/df07bc75-eff2-4246-ae18-229f2f274df1.aspx)_, trans. A. H. Hill (Singapore: Oxford University Press, 1969) (From BookSG)
 
 
 
