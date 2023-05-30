@@ -28,15 +28,15 @@ The house boasts a high ceiling with exposed timber beams and rafters as well as
 The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.[^3] Wild chickens can be seen pecking away, while the pet cat lazes nearby.
 
 ![](/images/Vol%2019%20Issue%202/Binjai/image11_edit.png)
-<div style="background-color: white;">The family’s pet cat. <i>Photos by Jimmy Yap.</i></div>
+<div style="background-color: white;">The family’s pet cat. <i>Photo by Jimmy Yap.</i></div>
 
 ![](/images/Vol%2019%20Issue%202/Binjai/image12.png)
-<div style="background-color: white;">The Binjai tree in the garden. <i>Photos by Jimmy Yap.</i></div>
+<div style="background-color: white;">The Binjai tree in the garden. <i>Photo by Jimmy Yap.</i></div>
 
 At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*) emerge from within the frame of the sliding doors of the dining rooms where they have made their nests. They leave their hideaway to hunt before returning to roost at dawn. In the garden near the veranda is a wall made from red bricks salvaged from the former Raffles Institution building on Bras Basah Road.
 
 ![](/images/Vol%2019%20Issue%202/Binjai/image13.png)
-<div style="background-color: white;">A close-up of the bricks from the&nbsp;former Raffles Institution building. <i>Photos by Jimmy Yap</i></div>
+<div style="background-color: white;">A close-up of the bricks from the&nbsp;former Raffles Institution building. <i>Photo by Jimmy Yap.</i></div>
 
 Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
 
