@@ -42,9 +42,8 @@ Akhir kalam, apa yang kita boleh hayati daripada karyakarya Masuri ialah “pema
 
 #### **Anugerah**
 
-
-
-
+1963: Bintang Bakti Masyarakat (PBM)<br> 1974: Hadiah Pertama JBHS: Esei Sastera<br>
+1979: Hadiah Pertama JBHS: Sajak<br> 1980: Southeast Asia (SEA) Write Award<br> 1990: National Book Development Council of Singapore (poetry award) First Prize<br>  1995: Anugerah Tun Seri Lanang. Majlis Bahasa Melayu Singapura. 1995: ASEAN Cultural Award: Sastera 1995: Anugerah Sastera MBMS: Esei Sastera 1995: Anugerah Pencapaian Cemerlang Singapore Muslim Community: 50 Tahun Pencapaian Persuratan. 1996: Montblanc-NUS Centre for the Arts Literary Award: Recognition for contribution to Singapore Malay Literature 1997: Hadiah Sastera MBMS: Esei Sastera 2000: Pingat Jasa Gemilang.
 
 
 
