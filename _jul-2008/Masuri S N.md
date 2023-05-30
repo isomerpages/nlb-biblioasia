@@ -42,8 +42,19 @@ Akhir kalam, apa yang kita boleh hayati daripada karyakarya Masuri ialah “pema
 
 #### **Anugerah**
 
-1963: Bintang Bakti Masyarakat (PBM)<br> 1974: Hadiah Pertama JBHS: Esei Sastera<br>
-1979: Hadiah Pertama JBHS: Sajak<br> 1980: Southeast Asia (SEA) Write Award<br> 1990: National Book Development Council of Singapore (poetry award) First Prize<br>  1995: Anugerah Tun Seri Lanang. Majlis Bahasa Melayu Singapura. 1995: ASEAN Cultural Award: Sastera 1995: Anugerah Sastera MBMS: Esei Sastera 1995: Anugerah Pencapaian Cemerlang Singapore Muslim Community: 50 Tahun Pencapaian Persuratan. 1996: Montblanc-NUS Centre for the Arts Literary Award: Recognition for contribution to Singapore Malay Literature 1997: Hadiah Sastera MBMS: Esei Sastera 2000: Pingat Jasa Gemilang.
+**1963:** Bintang Bakti Masyarakat (PBM)<br> **1974:** Hadiah Pertama JBHS: Esei Sastera<br>
+**1979:** Hadiah Pertama JBHS: Sajak<br> **1980:** Southeast Asia (SEA) Write Award<br> **1990:** National Book Development Council of Singapore (poetry award) First Prize<br>  **1995:** Anugerah Tun Seri Lanang. Majlis Bahasa Melayu Singapura<br> **1995:** ASEAN Cultural Award: Sastera<br> **1995:** Anugerah Sastera MBMS: Esei Sastera<br> **1995:** Anugerah Pencapaian Cemerlang Singapore Muslim Community: 50 Tahun Pencapaian Persuratan<br> **1996:** Montblanc-NUS Centre for the Arts Literary Award: Recognition for contribution to Singapore Malay Literature<br> **1997:** Hadiah Sastera MBMS: Esei Sastera<br> **2000:** Pingat Jasa Gemilang<br>**2002:** Anugerah Suluh Budiman Universiti Pendidikan Sultan Idris (UPSI)<br>**2002:** Anugerah Dharma bakti, GAPENA<br> **2002:** Ijazah Kehormat Doktor Pendidikan Universiti Pendidikan Sultan Idris (UPSI)
+
+#### **Senarai Karya**<br> **Puisi**<br> 
+**1958:** *Awan putih: kumpulan sajak2*. Singapura: Geliga Limited. \[RCLOS 899.281 MAS\] <br>**1962:** *Warna suasana: kumpulan pertama dari suara dan bichara sajak2 pilihan 1950–56*. Kuala Lumpur: Oxford University Press. \[RSEA 899.2305 MAS\]<br> **1967:** *Bunga pahit: kumpulan kedua dari suara dan bichara, sajak-sajak pilihan 1957–60*. Kuala Lumpur: Oxford University Press. \[RSING 899.2305 MAS\] <br>**1970:** *Sa-lagi hayat di-kandong badan*. Singapura: Pustaka Nasional. \[RCLOS 899.2305 MAS\]<br> **1984:** *Dalam makna: kumpulan sajak 1965–1975*. Singapura: Badan Kesenian Melayu Singapura. \[RSING S899.2305 MAS\]<br> **1987:** *Singgah (sajak-sajak pilihan 1976–1986*). Singapura: Angkatan Sasterawan 50. \[RSING S899.2305 MAS\] <br>**1989:** *Puisi-puisi pilihan*. Kuala Lumpur: Dewan Bahasa dan Pustaka. \[RSING S899.2305 MAS\]<br>**1995:** *Mimpi panjang seorang penyair*. Kuala Lumpur: Dewan Bahasa dan Pustaka. \[RSING S899.2313 MAS\]<br> **2003:** *Suasana senja: kumpulan sajak* 1995–2001. Singapura: Angkatan Sasterawan ’50. \[RSING 899.281 MAS\]
+
+#### **Antologi**<br>
+**1961:** *Puisi Baharu Melayu 1942–1960*. Kuala Lumpur: Dewan Bahasa dan Pustaka. \[RSEA M899.230081305 ALI\]. (antologi bersama)<br>**1963**: *Sajak-sajak Melayu baru 1946–1961/Modern Malay verse 1946–1961*. (dwi bahasa) (antologi bersama)<br> **1975:** *Puncak Sembilan*. Singapura: Pustaka Nasional. \[RSING 899.230081305 PUN\]. (antologi bersama)<br> **1977:** *Singapore Writing*. Singapore: Woodrose Publications for the Society of Singapore Writers. \[RSING 899.230081305 PUN\]. (antologi bersama) <br>**2000:** *Rhythms – A Singaporean Millennial Anthology of Poetry*. Singapore: National Arts Council. \[RSING S821 RHY\]. (antologi bersama)<br> **1981:** *Puisi-puisi Nusantar*. Kuala Lumpur: Dewan Bahasa dan Pustaka. \[RSEA 899.230081305 PUI\]. (antologi bersama)<br> **1981:** *Puisi Temasik*. Singapura: Angkatan Sasterawan ‘50. \[RCLOS 899.281 PUI\]. (antologi bersama)<br> **1985:** *Poetry of Singapore*. Singapore: Published under the sponsorship of the ASEAN Committee on Culture and Information. \[RSING S821 POE\]. (antologi bersama)<br> **1987:** *Tiga Warna Bertemu: Antologi puisi penulis-penulis Singapura*. Kuala Lumpur: Dewan Bahasa dan Pustaka. \[RSING S899.230081305 TIG\]
+
+
+
+
+
 
 
 
