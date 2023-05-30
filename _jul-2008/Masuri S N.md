@@ -104,4 +104,4 @@ S. N. Masuri, [_Lukisan Rasa: Mengandongi Kumpulan 12 Cherita-Cherita Pendek Dar
 
 S. N. Masuri, [_Puisi-Puisi Pilihan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5466883) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1989). (Call no. Malay RSING S899.2305 MAS)
 
-S. N. Masuri S. N., [_Dalam Merenung Dalam: Kumpulan Esei &amp; Kritikan 1977–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12722668) &nbsp;(Singapura: Angkatan Sasterawan ’50, 2006). (Call no. &nbsp;Malay RSING 899.28095957 MAS)
+S. N. Masuri, [_Dalam Merenung Dalam: Kumpulan Esei &amp; Kritikan 1977–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12722668) &nbsp;(Singapura: Angkatan Sasterawan ’50, 2006). (Call no. &nbsp;Malay RSING 899.28095957 MAS)
