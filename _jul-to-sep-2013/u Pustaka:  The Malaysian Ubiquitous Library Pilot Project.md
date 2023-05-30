@@ -9,7 +9,7 @@ description: In pursuit of a knowledge-based society, the National Library of
 #### In pursuit of a knowledge-based society, the National Library of Malaysia has embarked on an ambitious project to connect all its libraries. The first step toward this vision is u-Pustaka, a pilot project changing the way information is accessed.
 
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg">
+<img src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg" style="width: 80%;">
 
 	
 	
@@ -23,7 +23,7 @@ The Malaysian Ubiquitous Library Pilot Project, u-Pustaka, is a collaboration be
 	
 u-Pustaka is an innovative and fitting culmination of the effort, collaboration and synergy by the Ministry of Information Communications and Culture through the MCMC, supported by the National Library of Malaysia together with the u-Pustaka Consortium members. The latter comprises the Selangor State Library Corporation, Negeri Sembilan State Library Corporation, Pahang State Library Corporation, Sarawak State Library, Kuala Lumpur Library, INTAN Library at Bukit Kiara and the Sabah State Library.
 	
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg">
+<img src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg" style="width: 80%;">
 	
 Other government agencies and private institutions also contributed towards the success of the project by offering advice, guidance and sharing expertise during its implementation. These include the Malaysian Administrative Modernisation and Management Planning Unit, Economic Planning Unit, National Registration Department, Ministry of Home Affairs, National Centre of Excellence for Sensor Technology at Universiti Putra Malaysia, Pos Malaysia Berhad, Malaysian Electronic Clearing Corporation Sdn. Bhd., Bank Islam Malaysia Berhad and Touch ‘n Go Sdn Bhd.	
 
@@ -31,7 +31,7 @@ Other government agencies and private institutions also contributed towards the 
 
 The mission of u-Pustaka is to foster an engaging lifelong learning experience for an inclusive knowledge-based society in the context of 1Malaysia. This is achieved with the provision of Ubiquitous Library Services (u-Library) in support of the National Broadband Initiative. The project ensures that the Malaysian knowledge-based society is engaged in the pursuit of lifelong learning anytime and anywhere. It also hopes to achieve continuous enhancements to the quality of work and life of Malaysians. The nation gains in terms of national capacity-building. Hence, the objectives of u-Pustaka are to make information accessible with the widening of broadband services, radio frequency identification (RFID) technology, portal technology and content. It is hoped to establish a library network ecosystem to foster collaboration through inter-lending services, delivery services, e-payment services and virtual access to web publishing, content management and collaboration in expanding our capacities to innovate and create knowledge for the dividend of the nation; to create, share and exchange knowledge to keep communities connected and promote lifelong learning.
 	
-#### **The Challenges**
+#### **Challenges**
 
 u-Pustaka is based on a model where seven components – broadband infrastructure, u-Pustaka Portal, National Union Catalogue, inter-lending, cashless payment, RFID and the delivery channel – are seamlessly integrated.
 	
@@ -39,20 +39,19 @@ The eight libraries involved in the project utilise different library management
 	
 Participating libraries had to agree on new policies and guidelines pertaining to matters such as membership, circulation, delivery mechanism and electronic payment. The membership component leverages on MyKad/MyKid/MyPR; the delivery mechanism is entrusted to Pos Malaysia, while cashless payment is handled by Touch ‘n Go and the Malaysian Electronic Payment System.
 	
-New equipment comprising RFID-tagging workstations, gantries, bookdrops, auto sorters and multipurpose kiosks have been installed while rfidmiddleware has been deployed to ensure seamless integration with the existing LMS RFID-Ultra High Frequency (UHF) with spectrum release of 919-923 Mhz and Standard Interface Protocol — Version 2 (SIP2) have been adopted for the project.
+New equipment comprising RFID-tagging workstations, gantries, bookdrops, auto sorters and multipurpose kiosks have been installed, while RFID middleware has been deployed to ensure seamless integration with the existing LMS RFID-Ultra High Frequency (UHF) with spectrum release of 919-923 Mhz and Standard Interface Protocol – Version 2 (SIP2).
 	
-#### **The Implementation**
+#### **Implementation**
 	
-The u-Pustaka Pilot Project took three years from its conceptualisation in 2008 to its launch in 2011. A project of this magnitude entailed many man-hours spent on initial studies, executive talks, readiness assessments, solicitation of funds, concept trials and the tender process, all of which took place between 2008 and 2009. The project kicked off in 2010 with a focus on the U-Library System development, Standard Operating Procedures (SOP) workshops, system implementation as well as promotional and awareness programmes that were carried out until 2011.
+The u-Pustaka Pilot Project took three years from its conceptualisation in 2008 to its launch in 2011. A project of this magnitude entailed many man-hours spent on initial studies, executive talks, readiness assessments, solicitating funds, concept trials and the tender process, all of which took place between 2008 and 2009. The project kicked off in 2010 with a focus on the U-Library System development, standard operating procedures workshops, system implementation as well as promotional and awareness programmes that were carried out until 2011.
 
 #### **The Portal**
 
-
-The launch of the u-Pustaka Project on 31 March 2011 ushered in an innovation in library services for Malaysian citizens. The u-Pustaka Portal (http://www. ulibrary.gov.my) is the centrepiece of the u-Pustaka Project and being the gateway to services and knowledge, the portal is interactive and user-friendly, providing users with an engaging learning and social experience in their pursuit of lifelong learning. Access to services and content is available in both Bahasa Malaysia (Malay language) and English.
-
+The launch of the u-Pustaka Project on 31 March 2011 ushered in an innovation in library services for Malaysian citizens. The u-Pustaka Portal (http://www.ulibrary.gov.my) is the centrepiece of the project. Being the gateway to services and knowledge, the portal is interactive and user-friendly, providing users with an engaging learning and social experience in their pursuit of lifelong learning. Access to services and content is available in both Bahasa Malaysia and English.
 
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/physical%20and%20digital.jpg">
+
+<img src="/images/Vol%209%20Issue%202/U%20Pustaka/physical%20and%20digital.jpg" style="width: 80%;">
 The physical and digital aspects of access as pioneered by u-Pustaka.
 
 
