@@ -72,6 +72,13 @@ A founding member and Chief from 2001 to 2005 of Angkatan Sasterawan ’50 (Asas
 Masuri passed away on 6 December 2005.
 
 **SOURCE:** <br> Masuri S N Biography. Retrieved from <a href="http://exhibitions.nlb.gov.sg/">http://exhibitions.nlb.gov.sg</a> on 25 May 2008.
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>COLLECTION HIGHLIGHTS</b><br><br>
+<img src="/images/Vol%204%20Issue%202/Masuri/awan%20putih.jpg" style="width:50%;"><i>All rights reserved, Geliga, 1958.</i><br><br>
+<img src="/images/Vol%204%20Issue%202/Masuri/bunga%20pahit.jpg" style="width:50%;"><i>All rights reserved, Oxford University Press, 1967.</i><br><br>	
+<img src="images/Vol%204%20Issue%202/Masuri/masuri%20s%20n.jpg" style="width:50%;"><i>All rights reserved, Angkatan Sasterawan ‘50, 200.</i><br><br>	
+<img src="/images/Vol%204%20Issue%202/Masuri/puisi%20puisi.jpg" style="width:50%;"><i>All rights reserved, Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia, 1989.</i><br><br>	
+![](/images/Vol%204%20Issue%202/Masuri/sebibir%20suara.jpg)
+<img src="images/Vol%204%20Issue%202/Masuri/sebibir%20suara.jpg" style="width:50%;"><i>All rights reserved, Persatuan Wartawan Melayu Singapura, 1998.</i></div>
 
 <br>
 <div style="background-color: white;">
@@ -98,6 +105,3 @@ S. N. Masuri, [_Lukisan Rasa: Mengandongi Kumpulan 12 Cherita-Cherita Pendek Dar
 S. N. Masuri, [_Puisi-Puisi Pilihan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5466883) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1989). (Call no. Malay RSING S899.2305 MAS)
 
 S. N. Masuri S. N., [_Dalam Merenung Dalam: Kumpulan Esei &amp; Kritikan 1977–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12722668) &nbsp;(Singapura: Angkatan Sasterawan ’50, 2006). (Call no. &nbsp;Malay RSING 899.28095957 MAS)
-
-
-
