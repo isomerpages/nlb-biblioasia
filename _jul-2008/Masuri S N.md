@@ -75,10 +75,9 @@ Masuri passed away on 6 December 2005.
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>COLLECTION HIGHLIGHTS</b><br><br>
 <img src="/images/Vol%204%20Issue%202/Masuri/awan%20putih.jpg" style="width:50%;"><i>All rights reserved, Geliga, 1958.</i><br><br>
 <img src="/images/Vol%204%20Issue%202/Masuri/bunga%20pahit.jpg" style="width:50%;"><i>All rights reserved, Oxford University Press, 1967.</i><br><br>	
-<img src="images/Vol%204%20Issue%202/Masuri/masuri%20s%20n.jpg" style="width:50%;"><i>All rights reserved, Angkatan Sasterawan ‘50, 200.</i><br><br>	
+<img src="/images/Vol%204%20Issue%202/Masuri/masuri%20s%20n.jpg" style="width:50%;"><i>All rights reserved, Angkatan Sasterawan ‘50, 200.</i><br><br>	
 <img src="/images/Vol%204%20Issue%202/Masuri/puisi%20puisi.jpg" style="width:50%;"><i>All rights reserved, Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia, 1989.</i><br><br>	
-![](/images/Vol%204%20Issue%202/Masuri/sebibir%20suara.jpg)
-<img src="images/Vol%204%20Issue%202/Masuri/sebibir%20suara.jpg" style="width:50%;"><i>All rights reserved, Persatuan Wartawan Melayu Singapura, 1998.</i></div>
+<img src="/images/Vol%204%20Issue%202/Masuri/sebibir%20suara.jpg" style="width:50%;"><i>All rights reserved, Persatuan Wartawan Melayu Singapura, 1998.</i></div>
 
 <br>
 <div style="background-color: white;">
