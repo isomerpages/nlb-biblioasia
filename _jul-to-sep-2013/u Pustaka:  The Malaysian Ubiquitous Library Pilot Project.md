@@ -9,7 +9,7 @@ description: In pursuit of a knowledge-based society, the National Library of
 #### In pursuit of a knowledge-based society, the National Library of Malaysia has embarked on an ambitious project to connect all its libraries. The first step toward this vision is u-Pustaka, a pilot project changing the way information is accessed.
 
 
-<img src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg" style="width: 80%;">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg">
 
 	
 	
@@ -23,7 +23,7 @@ The Malaysian Ubiquitous Library Pilot Project, u-Pustaka, is a collaboration be
 	
 u-Pustaka is an innovative and fitting culmination of the effort, collaboration and synergy by the Ministry of Information Communications and Culture through the MCMC, supported by the National Library of Malaysia together with the u-Pustaka Consortium members. The latter comprises the Selangor State Library Corporation, Negeri Sembilan State Library Corporation, Pahang State Library Corporation, Sarawak State Library, Kuala Lumpur Library, INTAN Library at Bukit Kiara and the Sabah State Library.
 	
-<img src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg" style="width: 80%;">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg">
 	
 Other government agencies and private institutions also contributed towards the success of the project by offering advice, guidance and sharing expertise during its implementation. These include the Malaysian Administrative Modernisation and Management Planning Unit, Economic Planning Unit, National Registration Department, Ministry of Home Affairs, National Centre of Excellence for Sensor Technology at Universiti Putra Malaysia, Pos Malaysia Berhad, Malaysian Electronic Clearing Corporation Sdn. Bhd., Bank Islam Malaysia Berhad and Touch ‘n Go Sdn Bhd.	
 
@@ -49,15 +49,12 @@ The u-Pustaka Pilot Project took three years from its conceptualisation in 2008 
 
 The launch of the u-Pustaka Project on 31 March 2011 ushered in an innovation in library services for Malaysian citizens. The u-Pustaka Portal (http://www.ulibrary.gov.my) is the centrepiece of the project. Being the gateway to services and knowledge, the portal is interactive and user-friendly, providing users with an engaging learning and social experience in their pursuit of lifelong learning. Access to services and content is available in both Bahasa Malaysia and English.
 
-
-
-<img src="/images/Vol%209%20Issue%202/U%20Pustaka/physical%20and%20digital.jpg" style="width: 80%;">
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/physical%20and%20digital.jpg">
 The physical and digital aspects of access as pioneered by u-Pustaka.
 
+Since u-Pustaka is a ubiquitous virtual library, fast, efficient and reliable service delivery for the public is of paramount importance. The portal is made up of four major components: inter-lending services, web publishing, content management and collaboration. A lot of thought went into designing the system so as to encourage the public to borrow and return books from any of the eight member libraries easily and at their convenience. Members have the choice of having books delivered right to their doorsteps, returning books at the nearest participating library, and engaging in online learning and knowledge sharing anytime as transactions are carried out 24/7 via the portal.
 
-Since u-Pustaka is an ubiquitous virtual library, fast, efficient and reliable service delivery for the public is of paramount importance. The portal is made up of four major components, namely inter-lending services, web publishing, content management and collaboration. A lot of thought went into designing the system so as to encourage the public to borrow and return books from any of the eight member libraries easily and at their convenience. Members have the choice of having books delivered right to their doorsteps, returning books at the nearest participating library, and engaging in online learning and knowledge sharing anytime as transactions are carried out 24/7 via the portal.
-
-One of the unique features of u-Pustaka is the inter-lending services where the lending collections of the eight participating libraries are made available to u-Pustaka members. In a nutshell, the process of borrowing and returning books, illustrated by the diagram on the left, are as follows:
+One of the unique features of u-Pustaka is the inter-lending services where the lending collections of the eight participating libraries are made available to u-Pustaka members. In a nutshell, the process of borrowing and returning books is as follows:
 
 1. Users sign up to be a member via the u-Pustaka Portal. Membership is free of charge. 
 
@@ -65,18 +62,17 @@ One of the unique features of u-Pustaka is the inter-lending services where the 
 
 3. The availability of the book from participating consortium members and the book’s borrowing status will be displayed. 
 
-4. Members can opt to have the book posted by e-parcel or courier service through Pos Malaysia. 
+4. Members can opt to have the book posted by e-parcel or courier through Pos Malaysia. 
 
-5. Payment can then be made either through the Malaysian Electronic Payment System (meps) or Touch ‘n Go. 
+5. Payment can then be made either through the Malaysian Electronic Payment System or Touch 'n Go. 
 
 6. Books can be returned via u-Pustaka bookdrops located at participating libraries or via the e-parcel service where the books will be collected from their homes.
 
 The u-Pustaka Consortium brings knowledge to life via web publishing components by publishing background information, media releases, speeches, information and policies, fact sheets, statistics, top bestsellers, links, RSS and electronic resources, among others.
 
+The content management components provide information specifically for u-Pustaka members in the form of e-reviews, e-resources, audiobooks and dashboard for three segments of membership (adult, youth and children).
 
-The content management components provide information specifically for u-Pustaka Members in the form of e-Reviews, e-resources, audio books and dashboard for three segments of membership (adult, youth and children).
-
-As the tag line “Think Knowledge, Think u-Pustaka” implies, a wealth of information and knowledge awaits seekers of knowledge everywhere, beckoning them to visit the u-Pustaka Portal that can be accessed from anywhere and at anytime via the Internet.
+As the tagline “Think Knowledge, Think u-Pustaka” implies, a wealth of information and knowledge awaits seekers of knowledge everywhere, beckoning them to visit the u-Pustaka Portal that can be accessed from anywhere and at anytime via the internet.
 
 
 #### **The Way Forward**
@@ -84,14 +80,14 @@ As the tag line “Think Knowledge, Think u-Pustaka” implies, a wealth of info
 
 Since its launch on 31 March 2011, public response to the project has been positive and there are now more than 327,000 u-Pustaka members. The portal has been visited by users from more than 100 other countries such as the United States, Australia, the United Kingdom, Germany, Russia, Brazil and Saudi Arabia; and more than 11,000 transactions of books have been circulated via inter-lending. These numbers are expected to rise as the awareness of u-Pustaka increases when more publicity, promotional activities and user awareness programmes are rolled out.
 
-The u-Pustaka pilot project currently involves the participation of just eight libraries, a very small fraction of the over 12,000 public, village, academic, school and special libraries in Malaysia. In the quest to be truly ubiquitous, u-Pustaka services must be extendeded to many more libraries in Malaysia. Synergy among all these libraries is crucial for the success of u-Pustaka and the realisation of its vision of a knowledge-based Malaysia that is engaged in the pursuit of lifelong learning anytime and anywhere for the continuous enhancement to quality of work and life as well as the betterment of society and the nation.
+The u-Pustaka pilot project currently involves the participation of just eight libraries, a very small fraction of the over 12,000 public, village, academic, school and special libraries in Malaysia. In the quest to be truly ubiquitous, u-Pustaka services must be extended to many more libraries in Malaysia. Synergy among all these libraries is crucial for the success of u-Pustaka and the realisation of its vision of a knowledge-based Malaysia that is engaged in the pursuit of lifelong learning anytime and anywhere for the continuous enhancement to quality of work and life as well as the betterment of society and the nation.
 
 
 <b>Dato’ Raslin bin Abu Bakar</b> is the director-general of the National Library of Malaysia. He is on the International Advisory Board for WLIC IFLA 2013 and is a CONSAL executive board member. He was conferred the title Dato’ by His Royal Highness, Sultan of Pahang in October 2009 for his contributions to society.
 
 #### **REFERENCES**
 
-Library books sent to your doorstep. (2012, January 25). _The Sun_, p. 8. Retrieved from The The Sun website.
+Library books sent to your doorstep. (2012, January 25). _The Sun_, p. 8. Retrieved from The Sun website.
 
 Indahsah Haji Sdiek. (2010, January). Ubiquitous library: Strategizing information delivery services to connect communities in a knowledge society. _MyConvergence, 4_ (1), 43–49.
 
