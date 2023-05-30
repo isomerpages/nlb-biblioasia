@@ -57,7 +57,21 @@ Akhir kalam, apa yang kita boleh hayati daripada karyakarya Masuri ialah “pema
 #### **Esei**<br>
 **1965:** *Sekitar sajak dan perkembangan-nya*. Singapore: Malaysia Publications. \[RSING 899.230091305 MAS\]<br>**1968:** *Puisi moden*. Singapura: Pustaka Nasional. \[RSING S899.23009103 MAS\]<br>**1983:** *Pengakuan dan penglahiran seorang penulis*. Kuala Lumpur: Adabi Publication. \[R 899.2305 MAS\]<br>**1998:** *Sebibir suara*. Singapura: Persatuan Wartawan Melayu. \[RSING 899.284 MAS\]<br>**1998:** *Kreativiti dan kemanusiaan dalam kesusasteraan*. Selangor: Fajar Bakti. \[R 899.288 MAS\]<br> **2006:** *Dalam merenung dalam: Kumpulan esei dan kritikan 1977–2005*. Singapura: Angkatan Sasterawan ’50. \[RSING 899.28095957 MAS\]
 
+#### **Summary**
 
+Masuri S N’s real name is Masuri Bin Salikun. He was born on 11 June 1927 in Singapore. Masuri was a very prolific poet, composing more than 1000 poems in his lifetime. He is regarded as a pioneer in modern Malay poetry. He also used the pen name Martina.
+
+Masuri was brought up in Geylang Serai, Paya Lebar and Lorong K, Telok Kurau. He received his early education in Telok Kurau Malay School and was selected to further his studies in Sultan Idris Training College, Tanjung Malim, Perak. After completing his studies, he returned to Singapore to become a teacher in Telok Kurau Malay School from 1949 to 1954. He was a school principal from 1971 until he retired in 1981.
+
+Masuri was appointed as a Research Fellow at the Institute of Southeast Asian Studies (ISEAS) from 1984 to 1985. In 1986, he participated in an international writing programme for three months at the University of Iowa, and was appointed an Honorary Fellow. From 1991 to 1992, Masuri became a guest writer of Malay Studies Department, National University of Singapore (NUS).
+
+Masuri’s earliest poems were “Bunga Ros” and “Ros Kupuja”, which were published in Berita Malai, a Japanese Occupation publication. After the war he continued to write and his poems were published in publications such as *Kencana* and *Utusan Zaman*.
+
+A founding member and Chief from 2001 to 2005 of Angkatan Sasterawan ’50 (Asas ’50), a leading Malay literary organisation in Singapore, Masuri held the belief that talent alone is not sufficient to make a person a successful writer. He strongly believed that hard work, interest, passion and sacrifices are the determining factors of a person’s success as a writer.
+
+Masuri passed away on 6 December 2005.
+
+**SOURCE:** <br> Masuri S N Biography. Retrieved from <a href="http://exhibitions.nlb.gov.sg/">http://exhibitions.nlb.gov.sg</a> on 25 May 2008.
 
 
 
