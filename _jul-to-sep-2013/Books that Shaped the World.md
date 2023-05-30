@@ -40,13 +40,13 @@ In terms of social science, one has to go to the Muslim world and Ibn Khaldun. I
 <div style="background-color: white;"> 
 A statue of Ibn Khaldun in Tunis. <i>Image by Kassus, via Wikicommons.</i></div>	
 	
-Some of the founding great novels have had a hand in influencing the modern world, particularly Cervantes’ *Don Quixote*, which was beloved not only in Spain but throughout the great Spanish empire. Another work that helped to define and usher in the modern world was the *Code Napoléon*.
+Some of the founding great novels have had a hand in influencing the modern world, particularly Cervantes’ *Don Quixote*, which was beloved not only in Spain but throughout the great Spanish empire. Another work that helped define and usher in the modern world was the *Code Napoléon*.
 
-A great founding book that first explained Africa, particularly northern Africa, on a broad scale was *Della Descrittione dell’Africa* by Leo Africanus. Africanus, a convert to Christianity, spent a great deal of time in Timbuktu, a city that is known as a great repository of African, French and Muslim-Arabic cultures, as well as a great centre of learning. Africanus wrote about Timbuktu and other parts of Africa. *Della Descrittione dell’Africa* was called a cosmography and a geography. In its original version, it was published in both Italian and Arabic, pointing out the many links in the Mediterranean world among the three great monotheistic religions and also the different languages.
+A great founding book that first explained Africa, particularly northern Africa, on a broad scale was *Della Descrittione dell’Africa* by Leo Africanus. Africanus, a convert to Christianity, spent a great deal of time in Timbuktu, a city known as a great repository of African, French and Muslim-Arabic cultures, as well as a great centre of learning. Africanus wrote about Timbuktu and other parts of Africa. *Della Descrittione dell’Africa* was called a cosmography and a geography. Its original version was published in both Italian and Arabic, pointing out the many links in the Mediterranean world among the three great monotheistic religions and also the different languages.
 
-Adam Smith’s *The Wealth of Nations* highlights the beginning of economics and the idea of a free, uncontrolled economy. And of course, Karl Marx’s *Das Kapital*, which held a very different view, must be mentioned.
+Adam Smith’s *The Wealth of Nations* highlights the beginning of economics and the idea of a free, uncontrolled economy. And, of course, Karl Marx’s *Das Kapital*, which held a very different view, must be mentioned.
 
-In the world of drama, one might pick something from Sophocles. And one would also have to pick something from Shakespeare. For example, *Hamlet* might be selected because it created the most controversy and discussion, and contains the most psychoanalysis. Furthermore, it has some of the greatest soliloquies in the English language or in any language. In terms of the great novels, I would pick Tolstoy’s *War and Peace* because it deals with the great problem of the modern state—war and peace. It also deals with family life and the mystery of history as distinguished from the analysis of history that was received from earlier historians, such as Thucydides or even Khaldun.
+In the world of drama, one might pick something from Sophocles. One would also have to select something from Shakespeare. For example, *Hamlet* might be chosen because it created the most controversy and discussion, and contains the most psychoanalysis. Furthermore, it has some of the greatest soliloquies in English, or in any language. In terms of the great novels, I would pick Tolstoy’s *War and Peace* because it deals with the great problem of the modern state: war and peace. It also deals with family life and the mystery of history as distinguished from the analysis of history that was received from earlier historians, such as Thucydides or even Khaldun.
 
 In addition to those mentioned so far, there is a whole range of works by other thinkers one would want to include such as Sigmund Freud’s *The Interpretation of Dreams*. Indeed, Freudian concepts have become so familiar that we forget how widespread and how important they are.
 
@@ -54,23 +54,23 @@ In addition to those mentioned so far, there is a whole range of works by other 
 <div style="background-color: white;"> 
 Aged copies of the Holy Bible. <i>Image by THOR via Flickr.</i></div>
 
-These are some of the people whose books have shaped the world. It is important to remember that the defining thing about a book is its length, which produces a cumulative impact that is distinguished from a talking point, an argument, or any other use of language for some small, pointed purpose. The book’s length is the important thing, regardless of whether it is read as a codex or on a Kindle.
+These are some of the people whose books have shaped the world. It is important to remember that the defining thing about a book is its length, which produces a cumulative impact that is distinguished from a talking point, an argument, or any other use of language for some small, pointed purpose. The book’s length is the important thing, regardless whether it is read as a codex or on a Kindle.
 
-Now we have the digital universe, but we also have the possibility and the importance of the book-length object. For us at the Library of Congress, the crucial challenge and opportunity is to integrate the old with the new, keeping them all together as different forms of knowledge, creativity and human expression, while retaining the values of the book culture that include the value of dialogue and argument, and the idea of cumulative knowledge.
+Now we have the digital universe, but we also have the possibility and the importance of the book-length object. For us at the Library of Congress, the crucial challenge and opportunity is to integrate the old with the new, keeping them all together as different forms of knowledge, creativity and human expression, while retaining the values of book culture including that of dialogue and argument, and the idea of cumulative knowledge.
 
 This is what you get at libraries, which are consolidations of the different forms of creativity and knowledge. And this is what we need in the future, wherever we go: new techniques for holding information to supplement but never supplant the wisdom and power contained in books and the imagination they can create and feed. Nobody can agree completely on the ten, or the hundred, or the thousand books that most defined and shaped our world, but we must always remember how important they are in our own lives, and how important they are in the broader life of humanity. 
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>The Dialogic Culture via the Bo</b>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>Dialogic Culture via the Book</b>
 <br><br>
-*As the 2013 International Summit of the Book looks to the future of the book culture and its values, it is helpful to examine the unique role of the book in dialogic culture.Simply put, books enable dialogues between readers and writers. They provide us with voices and experiences from other times and places; affect us with their marvellous stories; and make us more humane and civilised. All this is the beginning of the dialogic culture, which is essential for a democracy and helpful for a dynamic economy.*
+*As the 2013 International Summit of the Book looks to the future of the book culture and its values, it is helpful to examine the unique role of the book in dialogic culture. Simply put, books enable dialogues between readers and writers. They provide us with voices and experiences from other times and places, affect us with their marvellous stories, and make us more humane and civilised. All this is the beginning of the dialogic culture, which is essential for a democracy and helpful for a dynamic economy.*
 <br><br>
 *In talking about present and future dialogues, the impact of technology must be part of the discussion. At the Library of Congress, the whole purpose of our investment in new technology is to affirm the importance of the book culture. It is important to ponder the possibilities of the digital revolution in light of previous technological revolutions’ impact on our modes of acquiring information, and communicating and sharing knowledge.*
 <br><br>
 *I strongly believe that one technological revolution never really cancels out the previous one. For example, manuscripts carried on long after books were introduced. In modern times, movies have not supplanted theatre, and radio is alive and well along with television.*
 <br><br>
-*Now as we look to the future, how will new technologies co-exist with existing ones?*
+*Now, as we look to the future, how will new technologies co-exist with existing ones?*
 </span>
 
 <div>
-This article, by the staff at the Library of Congress in Washington D.C., US, comprises excerpts of an interview with <b>Dr James H. Billington.</b> Dr Billington is the 13th Librarian of Congress and was sworn in in 1987.
+This article, by the staff at the Library of Congress in Washington, D.C., comprises excerpts of an interview with <b>Dr James H. Billington.</b> Sworn in in 1987, Dr Billington is the 13th Librarian of Congress.
 </div>
