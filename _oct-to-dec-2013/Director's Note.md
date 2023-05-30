@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /vol-9/issue-3/oct-dec-2013/director-column-2013/
+permalink: /vol-9/issue-3/oct-dec-2013/director-column/
 description: ""
 ---
 In 2012, Dutch artists Lernert and Sander – known for their irreverent sense of humour – created a new perfume by blending 1,400 fragrances into one potent concoction. The end result was a fragrance packed with an overwhelming cocktail of scents that permeate the perfumes and cosmetics floor of any major department store.

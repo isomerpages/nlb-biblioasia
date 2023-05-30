@@ -1,6 +1,6 @@
 ---
 title: "32 Binjai Park: The Modernist Home of an Architect"
-permalink: /holding-area/binjai/
+permalink: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
 description: The house that Lee Kip Lin built has stood the test of time,
   reflecting its simple yet modern and clean design.
 image: /images/Vol 19 Issue 2/Brinjai/image_1.png
@@ -8,11 +8,11 @@ image: /images/Vol 19 Issue 2/Brinjai/image_1.png
 #### The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. 
 By Lim Tin Seng and Lee Peng Hui
 
-![](/images/Vol%2019%20Issue%202/Binjai/image_1.png)
-<div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
-
 ![](/images/Vol%2019%20Issue%202/Binjai/image2.png)
 <div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
+
+![](/images/Vol%2019%20Issue%202/Binjai/image_1.png)
+<div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 Significant buildings in Singapore tend to fall into a few well-known categories. There are colonial-era buildings typically in the neoclassical style, like the former Supreme Court or the old Parliament House. Then there are stunning modern ones like Jewel Changi Airport, Marina Bay Sands and Esplanade – Theatres on the Bay. Not many of them, however, are 1970s homes located in leafy suburbs. Then again, not many buildings can claim to be the family home of the late architect and conservationist Lee Kip Lin.[^1]
 
@@ -27,7 +27,16 @@ The house boasts a high ceiling with exposed timber beams and rafters as well as
 
 The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.[^3] Wild chickens can be seen pecking away, while the pet cat lazes nearby.
 
+![](/images/Vol%2019%20Issue%202/Binjai/image11_edit.png)
+<div style="background-color: white;">The family’s pet cat. <i>Photo by Jimmy Yap.</i></div>
+
+![](/images/Vol%2019%20Issue%202/Binjai/image12.png)
+<div style="background-color: white;">The Binjai tree in the garden. <i>Photo by Jimmy Yap.</i></div>
+
 At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*) emerge from within the frame of the sliding doors of the dining rooms where they have made their nests. They leave their hideaway to hunt before returning to roost at dawn. In the garden near the veranda is a wall made from red bricks salvaged from the former Raffles Institution building on Bras Basah Road.
+
+![](/images/Vol%2019%20Issue%202/Binjai/image13.png)
+<div style="background-color: white;">A close-up of the bricks from the&nbsp;former Raffles Institution building. <i>Photo by Jimmy Yap.</i></div>
 
 Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
 
@@ -49,6 +58,9 @@ Lee purchased the plot of land at Binjai Park in the early 1960s but he only sta
 The house in Binjai Park is very different from the Amber Road one. That was a two-storey seafront house, also designed by Lee after the earlier house on the same site was demolished in 1960. Only a wall with a gate stood between the garden and the beach. 
 
 In the Amber Road house, the dining room, kitchen and servants’ quarters were on the first floor. The living room, however, was on the second floor, and it opened to an extensive balcony. The balcony afforded panoramic views of the sea, ships and the Riau Islands beyond, which would not have been possible if the living room had been located on the first floor. From the balcony, Lee would often peer out, armed with a pair of binoculars. 
+
+![](/images/Vol%2019%20Issue%202/Binjai/image14_edit.png)
+<div style="background-color: white;">Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, c. 1935.&nbsp;<i>Courtesy of Mrs Lee Li-ming.</i></div>
 
 Lee was very attached to Katong. He loved the sea and might never have left Amber Road if not for the Bedok-Tanjong Rhu reclamation works in the 1960s, which pushed the shoreline out. Another factor was the impending construction of the multistorey Chinese Swimming Club sports complex adjacent to the house. In addition, the tax on the vacant land at Binjai Park was extremely high compared to what it would have been if the property was occupied. Given all these, Lee decided to sell the house on Amber Road and move his family to Binjai Park.
 
@@ -90,7 +102,7 @@ She firmly dismissed suggestions to replace the original steel window frames and
 
 One significant change that did occur during the renovation was the introduction of a false ceiling. Although this allowed the installation of recessed ceiling lights, it has subtly altered the appearance of the house, most evidently along the edges of the living room where the false ceiling ends. Thankfully, the false ceiling can be easily removed to restore the ceiling to its original height and purpose in the future.
 
-A more recent addition is the installation of a large ceiling fan in the living room in 2006 – of the type more commonly found in public spaces such as MRT stations. Although the high ceiling made the house seem larger than it really was, an unintended consequence was that it gave the living room a rather cavernous feel, making it a less welcoming space. This changed when the large fan was installed, at the suggestion of architect Tay Kheng Soon. Apart from cooling the room, the fan has also made the living room cosier and therefore popular. Previously, guests would naturally gravitate to areas with lower ceilings, such as the veranda or what is now the TV room. Since the fan was installed, the living room has become more frequently utilised.
+A more recent addition is the installation of a large ceiling fan in the living room in 2013 – of the type more commonly found in public spaces such as MRT stations. Although the high ceiling made the house seem larger than it really was, an unintended consequence was that it gave the living room a rather cavernous feel, making it a less welcoming space. This changed when the large fan was installed, at the suggestion of architect Tay Kheng Soon. Apart from cooling the room, the fan has also made the living room cosier and therefore popular. Previously, guests would naturally gravitate to areas with lower ceilings, such as the veranda or what is now the TV room. Since the fan was installed, the living room has become more frequently utilised.
 
 ![](/images/Vol%2019%20Issue%202/Binjai/image8.png)
 <div style="background-color: white;"> Looking out into the veranda and garden from the living room, which has a very high ceiling, 2023. The large fan gives the living room a cosier feel. <i>Photo by Jimmy Yap. </i></div>
