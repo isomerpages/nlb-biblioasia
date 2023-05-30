@@ -73,5 +73,31 @@ Masuri passed away on 6 December 2005.
 
 **SOURCE:** <br> Masuri S N Biography. Retrieved from <a href="http://exhibitions.nlb.gov.sg/">http://exhibitions.nlb.gov.sg</a> on 25 May 2008.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
+<center><b>Juffri Supa'at</b><br>Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
+
+#### **RUJUKAN**
+
+Ali Haji Ahmad, “Penyajak Masuri S. N.: Satu Pengenalan Ringkas,” [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309) 4, no. 10 (1960): 504–09. (Call no. Malay RCLOS 499.23 DB)
+
+Azhar Ibrahim Alwee, “Kemanusiaan Membumi Melangit Tinggi: Masuri (1927–2005), KeSingapuraan dan Keuniversalannya” (Disampaikan di dalam seminar di Institut Pendidikan Nasional pada 7 Mac 2007), https://www.thereadinggroup.sg/Articles/Kemanusiaan%20Membumi%20Melangit%20Tinggi.pdf.
+
+Biografi Masuri S. N. Diakses, http://www.poetry.sg/masuri-sn-bio.
+
+Ismail Hussein, [_Pengarang-Pengarang Melayu Di-Singapura Selepas Perang Dunia II (1945–1958)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4367423) \[Singapura: Jabatan Pengajian Melayu, Universiti Malaya, 1959\]. (Call no. Malay RCLOS 899.1092 ISM)
+
+Mohamed Pitchay Gani Bin Mohamed Abdul Aziz, ed., [_Leksikon: Direktori Penulis Melayu Singapura Pasca 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12567839) (Singapura: Angkatan Sasterawan ‘50 &amp; National Library Board, 2005), 88–89. (Call no. Malay RSING 899.280255957 LEK-\[DIR\])
+
+S. N. Masuri, [_Awan Putih: Kumpulan Sajak2_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5853563) (Singapura: Geliga Limited, 1958). (Call no. Malay RCLOS 899.281 MAS)
+
+S. N. Masuri, [_Lukisan Rasa: Mengandongi Kumpulan 12 Cherita-Cherita Pendek Dari Tahun 1948 Hingga 1952_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141538) (Singapura: Malaya Publishing House, 1960). (Call no. Malay RSING S899.2305 MAS)
+
+S. N. Masuri, [_Puisi-Puisi Pilihan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5466883) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1989). (Call no. Malay RSING S899.2305 MAS)
+
+S. N. Masuri S. N., [_Dalam Merenung Dalam: Kumpulan Esei &amp; Kritikan 1977–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12722668) &nbsp;(Singapura: Angkatan Sasterawan ’50, 2006). (Call no. &nbsp;Malay RSING 899.28095957 MAS)
+
 
 
