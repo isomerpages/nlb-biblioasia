@@ -9,7 +9,7 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-3/oct-dec-2013/director-column/">[Director's Column](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/director-column-2013/)</a>			 
 				 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-3/oct-to-dec-2013/communal-feeding-postwar-singapore/">[Communal Feeding in Postwar Singapore](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/communal-feeding-postwar-singapore-2013/)</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-3/oct-to-dec-2013/communal-feeding-postwar-singapore/">[Communal Feeding in Postwar Singapore]( https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/communal-feeding-postwar-singapore-2013/)</a><br>
 The colonial government's communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore. [(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_CommunalFeeding.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons/">Hawkers: From Public Nuisance to National Icons</a><br>From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease. [(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_HawkersIcon.pdf)
