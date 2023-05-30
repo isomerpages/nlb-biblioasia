@@ -21,28 +21,29 @@ First, we must remain inclusive – *serving, and serving all* – without judge
 Second, we must promote the idea that libraries have the potential to transform lives – and society. It often starts with one person, one book and one helping hand in a library or a drop-in centre. Then it extends through our ability to encourage dialogue by being community-centred hubs and interactive learning centres as well as by supporting research and study.
 	
 	
-Third, our libraries should innovate by harnessing the power and potential of today’s changing technologies, and through this, maintain our role of providing access to information—irrespective of its format or method of delivery.
+Third, our libraries should innovate by harnessing the power and potential of today’s changing technologies and, through this, maintain our role of providing access to information – irrespective of its format or method of delivery.
 	
-And lastly, libraries must remain proactive in terms of convergence of resources and initiatives. Through collaboration and convergence, we can reach across disciplines—uniting libraries, museums and archives, and others involved in the field of documentary heritage.
+Lastly, libraries must remain proactive in terms of the convergence of resources and initiatives. Through collaboration and convergence, we can reach across disciplines – uniting libraries, museums and archives, and others involved in the field of documentary heritage.
 	
-These four key principles—inclusion, transformation, innovation and convergence—guide libraries of all kinds as they seek to redefine their roles and services in the digital world.
+These four key principles – inclusion, transformation, innovation and convergence – guide libraries of all kinds as they seek to redefine their roles and services in the digital world.
 
 #### **Technology to Galvanise Change**
 	
 Today’s world is being transformed by a host of factors, many beyond our control. Certainly, the economic downturn over the past few years is one such factor that has affected developing and developed countries around the world. The downturn shows little sign of dissipating, and many nations are struggling to find solutions for the well-being of their citizens.
-In addition, over the past decade we have seen the rise of the “knowledge society”, where learning equals earning. Our economies are increasingly dependent on the ability of our citizens and institutions to innovate; indeed, the Organisation for Economic Co-operation and Development (OECD) has recognised “knowledge” as a major driver of productivity and economic growth.[^1] 
+
+In addition, over the past decade, we have seen the rise of the “knowledge society”, where learning equals earning. Our economies are increasingly dependent on the ability of our citizens and institutions to innovate; indeed, the Organisation for Economic Co-operation and Development (OECD) has recognised knowledge as a major driver of productivity and economic growth.[^1] 
 	
-Libraries can play a key role in the development of an informed and educated citizenry, and therefore, a knowledge society. The evolution of information and communication technologies has changed the way we provide and share knowledge.[^2] The potent combination of handheld mobile devices, wireless connectivity, powerful search engines and online communities has changed the world—not just in terms of information exchange and access, but of social interaction as well.
+Libraries can play a key role in the development of an informed and educated citizenry, and therefore, a knowledge society. The evolution of information and communication technologies has changed the way we provide and share knowledge.[^2] The potent combination of handheld mobile devices, wireless connectivity, powerful search engines and online communities has changed the world – not just in terms of information exchange and access, but social interaction as well.
 	
-New technology is transforming the way we interact with our governments, institutions and each other. We need look no further than the recent rise to power of Italy’s Five Star Movement, led by Beppe Grillo.[^3] Using social media to criticise the political and economic policies of the government, Grillo’s party won almost 26 percent of the vote in Italy’s national elections in February, holding the balance of power. It is an increasingly common example of how technology can mobilise, influence and persuade civic actions. It is also an example of how we can change communities, 140 characters at a time.
+New technology is transforming the way we interact with our government, institutions and each other. We need look no further than the recent rise to power of Italy’s Five Star Movement, led by Beppe Grillo.[^3] Using social media to criticise the political and economic policies of the government, Grillo’s party won almost 26 percent of the vote in Italy’s national election in February, holding the balance of power. It is an increasingly common example of how technology can mobilise, influence and persuade civic actions. It is also an example of how we can change communities, 140 characters at a time.
 	
-No longer do we have a society where communications are controlled by a few, but rather are accessible to many. No longer do we have to chase information; information is chasing us. Instead of technology making libraries obsolete as some had predicted, technology has become a catalyst for transforming libraries into vital intellectual centres.
+No longer do we have a society where communications are controlled by a few, but rather are accessible to many. No longer do we have to chase information; information is chasing us. Instead of technology making libraries obsolete as some predicted, technology has become a catalyst for transforming libraries into vital intellectual centres.
 	
-#### **Digitisation &amp; the Borderless Society**
+#### **Digitisation and the Borderless Society**
 	
-But no amount of technology can replace what libraries have always done—connect people with information, with each other and with their communities. Take digitisation as an example. The reason we digitise is to improve access to material for our communities. But digitisation requires collaboration with a variety of stakeholders on a number of fronts: the community, to help us identify what is in demand; other libraries, to avoid duplication of efforts and to pool resources; other digitisation initiatives, to contribute our content to broader or international collections; and technology experts who help us digitise and format the content.
+But no amount of technology can replace what libraries have always been doing: connecting people with information, with each other and with their communities. Take digitisation as an example. We digitise in order to improve access to materials for our communities. But digitisation requires collaboration with a variety of stakeholders, on a number of fronts: the community, to help us identify what is in demand; other libraries, to avoid duplication of efforts and to pool resources; other digitisation initiatives, to contribute our content to broader or international collections; and technology experts who help us digitise and format the content.
 	
-One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of books, paintings, films, museum objects and archival records that have been digitised throughout Europe.
+One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of books, paintings, films, museum objects and archival records throughout Europe that have been digitised.
 
 
 <img style="width: 850px; height: 420px;" src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/digitising.jpg">
