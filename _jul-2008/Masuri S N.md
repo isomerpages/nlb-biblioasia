@@ -8,7 +8,7 @@ description: orn Masuri Bin Salikun, Masuri was a prolific poet, composing more
 ---
 #### Born Masuri Bin Salikun, Masuri was a prolific poet, composing more than 1,000 poems in his lifetime. He was a founding member of Angkatan Sasterawan ’50 (Asas ’50), a leading Malay literary organisation in Singapore, and is regarded as a pioneer in modern Malay poetry.
 
-“*Dunia sastera hari ini juga mengharapkan kelahiran manusia Melayu baru yang*<br>   *berakhlak mulia dan berwatak bersih. Tetapi dalam masa yang sama kita inginkan*<br>   *kelahiran-kelahiran manusia-manusia yang bijaksana, “jauhari yang mengenal* <br>  *manikam”, sentiasa waspada dan dapat mengatasi keadaan zamannya, dengan* <br>  *berbekalkan iman dan keyakinan agar dapat mencapai kebahagiaan hidup di dunia*<br>*dan di akhirat kelak*.” <br>          (Dalam Merenung Dalam, (2006) ms. 196)
+“*Dunia sastera hari ini juga mengharapkan kelahiran manusia Melayu baru yang*<br>   *berakhlak mulia dan berwatak bersih. Tetapi dalam masa yang sama kita inginkan*<br>   *kelahiran-kelahiran manusia-manusia yang bijaksana, “jauhari yang mengenal* <br>  *manikam”, sentiasa waspada dan dapat mengatasi keadaan zamannya, dengan* <br>  *berbekalkan iman dan keyakinan agar dapat mencapai kebahagiaan hidup di dunia*<br>*dan di akhirat kelak*.” <br>               (Dalam Merenung Dalam, (2006) ms. 196)
 
 Masuri bin Salikun atau lebih dikenali sebagai Masuri S N dilahirkan pada 11 Jun 1927 di Singapura. Beliau mendapat pendidikan awal di Sekolah Melayu Telok Kurau dan Geylang dari tahun 1933 hingga 1940 dan menjadi guru pelatih hingga 1946. Dari tahun 1946 hingga 1949, beliau melanjutkan pelajaran di Maktab Perguruan Sultan Idris (MPSI), Tanjung Malim, Perak. Sesudah lulus dari MPSI, Masuri pulang ke Singapura dan menjadi seorang pendidik, sementara pada sebelah malamnya mengikuti kelas bahasa Inggeris di Mercantile Institution dan C.Y.M.A. College.
 
@@ -24,7 +24,7 @@ Pengalaman telah menjadi sumber bekalan Masuri dalam menghasilkan karya-karyanya
 
 Semangat patriotik Masuri dan cinta kepada bangsa dan tanah air (Ali Haji Ahmad, 1960), jelas terpancar melalui sajak-sajaknya. Umpamanya, sajak terawal beliau berjudul “Ros Kupuja” dan “Bunga Sakura” terbit di Singapura pada zaman pendudukan Jepun dalam akhbar Berita Malai, 5 September 1944.
 
-        Ros Kupuja<br>   Ros berkembang<br>     Memerah garang<br>  Jadi pujaan<br>  Setiap insan.<br>  Disinari matahari<br>  Kian berseri,<br>  Merekah wangi<br>  Memikat hati.<br>  Jiwa pahlawan<br>  Memandang kembang,<br>  Ingin berjuang<br>  Membela watan.<br>  Harum tak terkira<br>  Rontok menyesal,<br> Bagaikan sateria<br>  Pulang ke asal.<br>  (Puisi Pilihan, 1989, ms 4)
+         **Ros Kupuja**<br>   *Ros berkembang*<br>     *Memerah garang*<br>   *Jadi pujaan*<br>     *Setiap insan*.<br>   *Disinari matahari*<br>     *Kian berseri*,<br>   *Merekah wangi*<br>     *Memikat hati*.<br>   *Jiwa pahlawan*<br>     *Memandang kembang*,<br>   *Ingin berjuang*<br>     *Membela watan*.<br>   *Harum tak terkira*<br>     *Rontok menyesal*,<br>   *Bagaikan sateria*<br>     *Pulang ke asal*.<br>          (Puisi Pilihan, 1989, ms 4)
 
 
 
