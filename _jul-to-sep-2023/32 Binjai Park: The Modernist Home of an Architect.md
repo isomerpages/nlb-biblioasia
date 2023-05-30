@@ -35,7 +35,7 @@ The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most
 
 At dusk each day, Javan pipistrelles (a species of bat; *Pipistrellus javanicus*) emerge from within the frame of the sliding doors of the dining rooms where they have made their nests. They leave their hideaway to hunt before returning to roost at dawn. In the garden near the veranda is a wall made from red bricks salvaged from the former Raffles Institution building on Bras Basah Road.
 
-![](/images/Vol%2019%20Issue%202/Binjai/image13_edit.png)
+![](/images/Vol%2019%20Issue%202/Binjai/image13.png)
 <div style="background-color: white;">A close-up of the bricks from the&nbsp;former Raffles Institution building. <i>Photos by Jimmy Yap</i></div>
 
 Pioneer architect Tay Kheng Soon, a close friend and former student of Lee, describes 32 Binjai Park as “practical, tropical, refined and unassuming”.[^4] Peter Keys, co-author of *Singapore: A Guide to Buildings, Streets, Places* (1988), notes that the house “does not rely on any tricks or dramatic embellishments of any kind” to carry out its function as a family home.[^5] It is one of the few remaining houses in Singapore that still exists in its largely unaltered, original condition and bears characteristics from the late Modernism period of the 1970s. 
@@ -59,7 +59,7 @@ The house in Binjai Park is very different from the Amber Road one. That was a t
 
 In the Amber Road house, the dining room, kitchen and servants’ quarters were on the first floor. The living room, however, was on the second floor, and it opened to an extensive balcony. The balcony afforded panoramic views of the sea, ships and the Riau Islands beyond, which would not have been possible if the living room had been located on the first floor. From the balcony, Lee would often peer out, armed with a pair of binoculars. 
 
-![](/images/Vol%2019%20Issue%202/Binjai/image14.png)
+![](/images/Vol%2019%20Issue%202/Binjai/image14_edit.png)
 <div style="background-color: white;">Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, c. 1935.&nbsp;<i>Courtesy of Mrs Lee Li-ming.</i></div>
 
 Lee was very attached to Katong. He loved the sea and might never have left Amber Road if not for the Bedok-Tanjong Rhu reclamation works in the 1960s, which pushed the shoreline out. Another factor was the impending construction of the multistorey Chinese Swimming Club sports complex adjacent to the house. In addition, the tax on the vacant land at Binjai Park was extremely high compared to what it would have been if the property was occupied. Given all these, Lee decided to sell the house on Amber Road and move his family to Binjai Park.
