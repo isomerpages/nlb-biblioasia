@@ -7,19 +7,18 @@ description: More than just repositories of knowledge, libraries are spaces of
 #### More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.
 
 
-<img style="width: 70%;"
-src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
+<img style="width: 70%;" src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/parent-illustration.jpg">
 <div style="background-color: white;"> </div> 
 	
 	
 	
-We live in times of unprecedented and rapid change — in technology, politics, economics and other spheres — which has profoundly impacted all aspects of society, including libraries.
+We live in times of unprecedented and rapid change – in technology, politics, economics and other spheres – which has profoundly impacted all aspects of society, including libraries.
 	
-Because of the current transformative changes underway, and because of their impact on libraries, my theme as International Federation of Library Associations and Institutions (IFLA) President is *Libraries—A Force for Change*, which incorporates four key principles: inclusion, transformation, innovation and convergence.
+Because of the current transformations underway, and because of their impact on libraries, my theme as the president of the International Federation of Library Associations and Institutions (IFLA) is *Libraries – A Force for Change*. It incorporates four key principles: inclusion, transformation, innovation and convergence.
 	
-First, we must remain inclusive — *serving, and be seen to be serving all*—without judgment, prejudice or bias. By democratising access to information, libraries can empower individuals to learn freely, improve their lives and create new knowledge.
+First, we must remain inclusive – *serving, and serving all* – without judgement, prejudice or bias. By democratising access to information, libraries can empower individuals to learn freely, improve their lives and create new knowledge.
 	
-Second, we must promote the idea that libraries have the potential to transform lives—and society. It often starts with one person, one book and one helping hand in a library or drop-in centre. And it extends through our ability to encourage dialogue by being community-centred hubs and interactive learning centres—as well as supporting research and study.
+Second, we must promote the idea that libraries have the potential to transform lives – and society. It often starts with one person, one book and one helping hand in a library or a drop-in centre. Then it extends through our ability to encourage dialogue by being community-centred hubs and interactive learning centres as well as by supporting research and study.
 	
 	
 Third, our libraries should innovate by harnessing the power and potential of today’s changing technologies, and through this, maintain our role of providing access to information—irrespective of its format or method of delivery.
@@ -39,15 +38,14 @@ New technology is transforming the way we interact with our governments, institu
 	
 No longer do we have a society where communications are controlled by a few, but rather are accessible to many. No longer do we have to chase information; information is chasing us. Instead of technology making libraries obsolete as some had predicted, technology has become a catalyst for transforming libraries into vital intellectual centres.
 	
-#### **Digitisation & the Borderless Society**
+#### **Digitisation &amp; the Borderless Society**
 	
 But no amount of technology can replace what libraries have always done—connect people with information, with each other and with their communities. Take digitisation as an example. The reason we digitise is to improve access to material for our communities. But digitisation requires collaboration with a variety of stakeholders on a number of fronts: the community, to help us identify what is in demand; other libraries, to avoid duplication of efforts and to pool resources; other digitisation initiatives, to contribute our content to broader or international collections; and technology experts who help us digitise and format the content.
 	
 One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of books, paintings, films, museum objects and archival records that have been digitised throughout Europe.
 
 
-<img style="width: 850px; height: 420px;"
-src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/digitising.jpg">
+<img style="width: 850px; height: 420px;" src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/digitising.jpg">
 <div style="background-color: white;"> 
 A UBC library staff digitising a book. <i>Image by Don Erhardt.</i></div>
 	
@@ -81,8 +79,7 @@ Access to industry research and studies help build the capacity of the associati
 
 
 
-<img style="width: 850px; height: 420px;"
-src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/Global%20Networks.jpg">
+<img style="width: 850px; height: 420px;" src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/Global%20Networks.jpg">
 <div style="background-color: white;"> 
 Global networks are rapidly shrinking the world. <i>Image via iStock.</i></div>
 
