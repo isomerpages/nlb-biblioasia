@@ -10,8 +10,21 @@ description: orn Masuri Bin Salikun, Masuri was a prolific poet, composing more
 
 “*Dunia sastera hari ini juga mengharapkan kelahiran manusia Melayu baru yang*<br>   *berakhlak mulia dan berwatak bersih. Tetapi dalam masa yang sama kita inginkan*<br>   *kelahiran-kelahiran manusia-manusia yang bijaksana, “jauhari yang mengenal* <br>  *manikam”, sentiasa waspada dan dapat mengatasi keadaan zamannya, dengan* <br>  *berbekalkan iman dan keyakinan agar dapat mencapai kebahagiaan hidup di dunia*<br>*dan di akhirat kelak*.” <br>          (Dalam Merenung Dalam, (2006) ms. 196)
 
+Masuri bin Salikun atau lebih dikenali sebagai Masuri S N dilahirkan pada 11 Jun 1927 di Singapura. Beliau mendapat pendidikan awal di Sekolah Melayu Telok Kurau dan Geylang dari tahun 1933 hingga 1940 dan menjadi guru pelatih hingga 1946. Dari tahun 1946 hingga 1949, beliau melanjutkan pelajaran di Maktab Perguruan Sultan Idris (MPSI), Tanjung Malim, Perak. Sesudah lulus dari MPSI, Masuri pulang ke Singapura dan menjadi seorang pendidik, sementara pada sebelah malamnya mengikuti kelas bahasa Inggeris di Mercantile Institution dan C.Y.M.A. College.
 
+Jawatan terakhir beliau ialah guru besar sekolah rendah yang disandang dari tahun 1971 sehingga beliau bersara pada 12 Jun 1981. Dari tahun 1984 hingga tahun 1985, Masuri dilantik sebagai Research Fellow di Institut Pengajian Asia Tenggara (ISEAS). Pada tahun 1986, beliau mengikuti program penulisan antarabangsa selama tiga bulan di University of Iowa, dan dilantik menjadi Honorary Fellow. Dari tahun 1991 hingga 1992, Masuri menjadi penulis tamu di Jabatan Pengajian Melayu, Universiti Kebangsaan Singapura (NUS).
 
+Masuri juga merupakan salah seorang pelopor Angkatan Sasterawan ’50 (Asas ’50). Beliau berpendapat dengan adanya badan persuratan ini, para penulis dapat mengisi jiwa dan rohani masyarakat dengan nilai-nilai yang murni. Beliau merupakan Ketua 1 Asas ‘50 dari tahun 2001–2005.
+
+Masuri S N telah kembali ke rahmatullah pada 6 haribulan Disember 2005.
+
+#### **Karya-Karya Masuri**
+
+Pengalaman telah menjadi sumber bekalan Masuri dalam menghasilkan karya-karyanya sama ada dalam bentuk sajak, cerpen ataupun esei dan kritikan. Menurut Ismail Hussein (1959), Masuri merupakan seorang penyair yang “sangat halus perasaan dan lekas pula tersentuh” dengan keadaan dan kejadian di sekelilingnya dan ia telah mempengaruhi “isi dan jiwa penciptaannya.”
+
+Semangat patriotik Masuri dan cinta kepada bangsa dan tanah air (Ali Haji Ahmad, 1960), jelas terpancar melalui sajak-sajaknya. Umpamanya, sajak terawal beliau berjudul “Ros Kupuja” dan “Bunga Sakura” terbit di Singapura pada zaman pendudukan Jepun dalam akhbar Berita Malai, 5 September 1944.
+
+        Ros Kupuja<br>   Ros berkembang<br>     Memerah garang<br>  Jadi pujaan<br>  Setiap insan.<br>  Disinari matahari<br>  Kian berseri,<br>  Merekah wangi<br>  Memikat hati.<br>  Jiwa pahlawan<br>  Memandang kembang,<br>  Ingin berjuang<br>  Membela watan.<br>  Harum tak terkira<br>  Rontok menyesal,<br> Bagaikan sateria<br>  Pulang ke asal.<br>  (Puisi Pilihan, 1989, ms 4)
 
 
 
