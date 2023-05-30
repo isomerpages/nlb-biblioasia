@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
   - infopic:
+      title: "32 Binjai Park: The Modernist Home of an Architect"
+      subtitle: Places and Buildings
+      description: The house that Lee Kip Lin built has stood the test of time,
+        reflecting its simple yet modern and clean design.
+      button: A HOUSE FOR THE TROPICS
+      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
+      image: /images/Vol 19 Issue 2/Binjai/image10.png
+      alt: Lee Kip Lin's house
+  - infopic:
       title: Remembering Punggol’s Kampong Wak Sumang
       subtitle: Places and Buildings
       description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
@@ -526,13 +535,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: "32 Binjai Park: The Modernist Home of an Architect"
-      subtitle: Infopic Subtitle
-      description: The house that Lee Kip Lin built has stood the test of time,
-        reflecting its simple yet modern and clean design.
-      button: A HOUSE FOR THE TROPICS
-      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
-      image: /images/Vol 19 Issue 2/Binjai/image10.png
-      alt: Lee Kip Lin's house
 ---
