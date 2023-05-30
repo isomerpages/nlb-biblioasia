@@ -526,4 +526,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: "32 Binjai Park: The Modernist Home of an Architect"
+      subtitle: Infopic Subtitle
+      description: The house that Lee Kip Lin built has stood the test of time,
+        reflecting its simple yet modern and clean design.
+      button: A HOUSE FOR THE TROPICS
+      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
+      image: /images/Vol 19 Issue 2/Binjai/image10.png
+      alt: Lee Kip Lin's house
 ---
