@@ -26,5 +26,25 @@ Semangat patriotik Masuri dan cinta kepada bangsa dan tanah air (Ali Haji Ahmad,
 
          **Ros Kupuja**<br>   *Ros berkembang*<br>     *Memerah garang*<br>   *Jadi pujaan*<br>     *Setiap insan*.<br>   *Disinari matahari*<br>     *Kian berseri*,<br>   *Merekah wangi*<br>     *Memikat hati*.<br>   *Jiwa pahlawan*<br>     *Memandang kembang*,<br>   *Ingin berjuang*<br>     *Membela watan*.<br>   *Harum tak terkira*<br>     *Rontok menyesal*,<br>   *Bagaikan sateria*<br>     *Pulang ke asal*.<br>          (Puisi Pilihan, 1989, ms 4)
 
+Karya-karya awal ini menampilkan nada patrotisme dan perjuangan anak watan terhadap pembebasan tanahairnya. Nada suara perjuangan akibat kegelisahan bangsa yang tertawan jelas tertera di dalam kumpulan puisi Awan Putih (1958) yang merupakan kumpulan puisi pertama beliau yang mengandungi 80 buah karya-karya yang dihasilkan dari tahun 1944 sehingga 1951. "Membela Nusa", "Nyiur Melambai" dan "Untuk Bangsa" adalah sebahagian contoh yang terdapat di kumpulan puisi ini.
+
+Sepanjang hayatnya beliau telah menghasilkan lebih daripada 1000 kuntum sajak dan dianggap sebagai pelopor pembaharuan sastera Melayu, khususnya sajak atau puisi moden. Beliau juga menggunakan nama pena Martina. Kumpulan koleksi Suasana Senja (2003), adalah kumpulan sajaknya yang terakhir diterbitkan dan merupakan himpunan sajak-sajak tulisannya dari tahun 1995–2001.
+
+Selain puisi, beliau juga menulis cerpen. Lukisan Rasa (1960) adalah kumpulan 12 buah cerpen yang telah ditulis pada tahun 1948–52. Sebagaimana sajak-sajaknya, cerpen-cerpen Masuri juga menyampaikan kisah dan hasrat masyarakatnya.
+
+#### **Esei-Esei Masuri**
+
+Esei dan kritikan Masuri banyak menyentuh tentang perkembangan sastera, bahasa dan juga isu-isu kemanusiaan. Ia memberi ruang untuk Masuri menyampaikan pemikirannya secara terus terang. Dalam merenung Dalam (2006) merupakan himpunan esei kritikan, kertas kerja dan bahan daripada ruangan akhbar tulisan Masuri S N sejak tahun 1977 sehingga 2005. Esei-esei di dalam buku ini telah disusun kepada empat bahagian iaitu, Bahasa, Sastera, Pendidikan dan Kemanusiaan untuk para pembaca dan pengkaji memberikan tumpuan kepada sesuatu bidang.
+
+Di antara esei yang menarik di dalam buku ini ialah pendapat beliau tentang perlunya didirikan sebuah perpustakaan yang diisi dengan lengkap buku-buku, majalah-majalah bahasa dan kesusasteraan negara-negara Indonesia, Malaysia dan Brunei Darussalam untuk didedahkan kepada generasi muda supaya mereka tidak berasa rendah diri di tengah-tengah dunia yang amat mencabar.
+
+Akhir kalam, apa yang kita boleh hayati daripada karyakarya Masuri ialah “pemaknaan dalam kehidupan” sebagai “salah satu kepedulian dalam kemanusiaan”, (Azhar, 2007).
+
+#### **Anugerah**
+
+
+
+
+
 
 
