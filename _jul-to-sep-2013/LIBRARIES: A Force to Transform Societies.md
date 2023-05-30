@@ -43,12 +43,12 @@ No longer do we have a society where communications are controlled by a few, but
 	
 But no amount of technology can replace what libraries have always been doing: connecting people with information, with each other and with their communities. Take digitisation as an example. We digitise in order to improve access to materials for our communities. But digitisation requires collaboration with a variety of stakeholders, on a number of fronts: the community, to help us identify what is in demand; other libraries, to avoid duplication of efforts and to pool resources; other digitisation initiatives, to contribute our content to broader or international collections; and technology experts who help us digitise and format the content.
 	
-One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of books, paintings, films, museum objects and archival records throughout Europe that have been digitised.
+One of the earliest and most complex multinational digitisation projects is the Europeana initiative, which provides a single access point to millions of digitised books, paintings, films, museum objects and archival records throughout Europe.
 
 
 <img style="width: 850px; height: 420px;" src="/images/Vol%209%20Issue%202/LIBRARIES%20A%20Force/digitising.jpg">
 <div style="background-color: white;"> 
-A UBC library staff digitising a book. <i>Image by Don Erhardt.</i></div>
+A University of British Columbia library staff digitising a book. <i>Image by Don Erhardt.</i></div>
 	
 
 Europeana is a great example of what can happen when organisations collaborate. There are more than 2,000 organisations participating in the initiative, ranging from small cultural institutions to large national aggregators, from data providers to technology firms. There are numerous other examples of collaboration that we could point to — such as the Internet Archive, the Confederation of Open Access Repositories and the World Newspaper Archive. In Asia, a similar collaborative digitisation project with various national libraries is also underway. The recently launched National Digital Public Library of America is another example.
