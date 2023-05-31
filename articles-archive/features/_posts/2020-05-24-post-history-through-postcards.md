@@ -57,8 +57,9 @@ In addition, the book features commemorative postcards marking the fall of Singa
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-1/Postcards/Fall_of_Singapore.png">
+<img src="/images/Vol-16-issue-1/Postcards/fall_of_Singapore.png">
 
+	
 Produced to mark the fall of Singapore in February 1942, this postcard features three different commemorative postmarks and postage stamps. A Japanese stamp collector had intentionally visited the post office on three separate occasions to collect these postmarks. From the left: the first anniversary of the Pacific War (dated 8 December 1942); the fall of Singapore (dated 20 February 1942 at Nagoya); and the second anniversary of the Pacific War (dated 8 December 1943). <i>Dated 1942 and 1943</i>. <i>Accession no.: B32413808G_0030.</i>
 
 </div>
