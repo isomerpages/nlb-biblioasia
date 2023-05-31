@@ -84,7 +84,7 @@ Idyllic fishing villages were very likely the first scenes that greeted travelle
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-1/Postcards/Pulau_Brani.png">
+<img src="/images/Vol-16-issue-1/Postcards/pulau_brani.png">
 
 <i>Sampans</i> and serene fishing villages off Pulau Brani were sights early visitors to Singapore might have seen as they arrived on the island. This postcard was addressed to someone in Russia but appears not to have been sent. <i>Publisher: Wilson &amp; Co. for Hotel de l’Europe &amp; Orchard Road, Singapore. Accession no.: B32413807F_0004.</i>
 
@@ -92,14 +92,14 @@ Idyllic fishing villages were very likely the first scenes that greeted travelle
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-1/Postcards/Rochor_River.png">
+<img src="/images/Vol-16-issue-1/Postcards/rochor_river.png">
 
 A small herd of cattle in a river, possibly the Rochor River, that once flowed in the vicinity of Selegie and Rochor Canal roads. <i>Accession no.: B32413805D_0171.</i>
 </div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-1/Postcards/Snake.png">
+<img src="/images/Vol-16-issue-1/Postcards/snake.png">
 
 The photo featured on this undated postcard is part of a series of four photographs titled “A Big Snake Swallowing a Deer”. The photos depict the snake with its distended belly, its capture and the subsequent release of the deer from its stomach. Postcards like this suggest that there was a market for such exotica in Singapore. <i>Accession no.: B32413807F_0146.</i>
 </div>
@@ -132,7 +132,7 @@ One group of Japanese migrants who received particular attention in postcards ar
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-1/Postcards/Karayuki.png">
+<img src="/images/Vol-16-issue-1/Postcards/karayuki.png">
 
 This undated postcard features a Japanese woman, likely a <i>karayuki-san</i>, in her kimono. <i>Karayuki-san</i>, or Japanese prostitutes, sometimes posed for a fee at the request of photographers in Singapore. <i>Accession no.: B32440324K_0076.</i>
 
