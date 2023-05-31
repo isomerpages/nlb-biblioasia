@@ -56,28 +56,25 @@ Engaging youths or teenagers has been challenging for our libraries. In partners
 
 Singapore’s ageing population has highlighted the need to provide for this segment of our society. Going beyond providing collections with large printed fonts, the libraries are now exploring and providing more senior-friendly content and formats such as audio and e-books. The accessibility of libraries is also critical, and a team of librarians have been dedicated to bring library services out of the libraries to spaces where seniors congregate, such as wellness centres, hospitals and homes.
 
-To this end, the Silver Infocomm Junction was set up at the Woodlands Regional Library in November 2012. This was a collaboration with the Infocomm Development Authority of Singapore with the hope of creating a learning space dedicated to seniors where they can pick up it skills such as web surfing, social networking and photo or video editing. Silver Infocomm hotspots have been set up for seniors to encourage greater use of multimedia stations and Internet services.
+To this end, the Silver Infocomm Junction was set up at the Woodlands Regional Library in November 2012. This was a collaboration with the Infocomm Development Authority of Singapore with the aim of creating a learning space dedicated to seniors where they can pick up IT skills such as web surfing, social networking and photo or video editing. Silver Infocomm hotspots have been set up for seniors to encourage greater use of multimedia stations and internet services.
 
 
-#### **Creative reading programmes**
+#### **Creative Reading Programmes**
 
-Read.Write.Tell is a national reading and storytelling movement under the Arts &amp; Culture Strategic Review (ACSR) and this encompasses reading clubs in schools, the community and organisations as well as writing communities and programmes. The goal is to cultivate a love for reading and provide opportunities to write and tell stories about Singapore. Older reading clubs focused on reading and sharing, thus this new movement makes writing a deliverable for the 25 Read.Write.Tell communities.
+Read.Write.Tell is a national reading and storytelling movement under the Arts &amp; Culture Strategic Review (ACSR). This encompasses reading clubs in schools, the community and organisations as well as writing communities and programmes. The goal is to cultivate a love for reading and provide opportunities to write and tell stories about Singapore. Older reading clubs focused on reading and sharing, while this new movement makes writing a deliverable for the 25 Read.Write.Tell communities.
 
-NLB launched its first ever nation-wide reading initiative, READ! Singapore, in 2005. This initiative, adapted from highly successful reading programmes around the world, encourages communal reading, followed by facilitated discussions on the selected stories. READ! Singapore’s target audience was initially Singapore residents aged above 15 years old. In 2012 it expanded to include younger audiences aged 7 to 14 and introduced an enhanced MobileRead, a free application that allows access to selected content and enables reading while on the move.
+The NLB launched its first-ever nation-wide reading initiative, READ! Singapore, in 2005. This initiative, adapted from highly successful reading programmes around the world, encourages communal reading, followed by facilitated discussions on the selected stories. READ! Singapore’s target audience was initially Singapore residents aged 15 and above. In 2012 it expanded to include younger audiences aged 7 to 14 and introduced MobileRead, a free mobile application that provides access to selected content and enables reading while on the move.
 
-kidsREAD is a national project that, together with the People’s Association and community self-help groups, promotes the love of reading and good reading habits to children from low-income families, aged 4 to 8. Volunteers aged 15 and above form the backbone of kidsREAD. They read to children in Reading Clubs that are located at centres, kindergartens, homes and welfare organisations, as well as primary schools. In 2012, it was proposed that children would remain in the kidsREAD programme until they completed Primary 2, instead of graduating them after a year in the programme.
-
+kidsREAD is a national project that, together with the People’s Association and community self-help groups, promotes reading and good reading habits to children from low-income families, aged 4 to 8. Volunteers aged 15 and above form the backbone of kidsREAD. They read to children in Reading Clubs located at centres, kindergartens, homes, welfare organisations and primary schools. In 2012, it was proposed that children would remain in the kidsREAD programme until they completed Primary 2, instead of graduating after a year in the programme.
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/kidsREAD%20programme1.jpg">
 <div style="background-color: white;">
 Children at the kidsREAD programme.
 </div>
-	
 
+#### **Creating Next-Generation Libraries**
 
-#### **Creating Next Generation Libraries**
-
-Growing Readers for Life also requires creating next generation libraries. This goal involves strengthening the role of libraries as well-loved spaces, and providing equal access to knowledge for everyone. It also includes having libraries serve as social touchpoints for community engagement.
+Growing Readers for Life also requires creating next-generation libraries. This goal involves strengthening the role of libraries as well-loved spaces, and providing equal access to knowledge for everyone. It also includes having libraries serve as social touchpoints for community engagement.
 
 *Thematic Libraries*
 
