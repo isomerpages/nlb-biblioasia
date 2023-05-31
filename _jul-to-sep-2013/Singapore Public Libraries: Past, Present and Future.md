@@ -97,31 +97,29 @@ In 2008, Molly (a mobile library in a custom-designed bus) was introduced, provi
 Excited children during a visit by Molly the Mobile Bus.
 </div>
 
-
 *Public Libraries as Social Touchpoints* 
 
-All public libraries are being positioned as social touchpoints for the community to interact with or have the opportunity to collaborate on arts and culture, either in terms of creation or appreciation.
+All public libraries are positioned as social touchpoints for the community to interact with or have the opportunity to collaborate on arts and culture, whether in terms of creation or appreciation.
 
-To provide Singaporeans with regular opportunities to learn about different art forms, a series of Arts &amp; Culture 101 sessions comprising performances, workshops and talks related to the various forms of art are held. These sessions leverage on the libraries as touchpoints and are curated and facilitated by newly trained Cultural Concierges (librarians who answer queries pertaining to arts and culture).
+To provide Singaporeans with regular opportunities to learn about different art forms, a series of Arts &amp; Culture 101 sessions comprising performances, workshops and talks relating to various art forms are held. These sessions leverage on libraries as touchpoints and are curated and facilitated by newly trained Cultural Concierges (librarians who answer queries pertaining to arts and culture).
 
 *Digital Library Initiatives and New Media* 
 
-Public libraries everywhere are being challenged to engage the digital generation within their preferred spaces and adapt to new technologies. The public libraries have a vibrant presence in social media.
+Public libraries everywhere are being challenged to engage the digital generation within their preferred spaces and adapt to new technologies. Singapore's public libraries have a vibrant presence on social media.
 
-One of the earliest efforts was a blog to commemorate the relocation of library@ orchard in 2007. There is also a library blog featuring music, dance, theatre and film that has been curated by library@esplanade, the performing arts library.
+One of the earliest efforts was a blog to commemorate the relocation of library@orchard in 2007. There is also a library blog featuring music, dance, theatre and film curated by library@esplanade, the performing arts library.
 
-
-Blogs such as High Browse Online recommends good reads and provides updates on books and reading. Read &amp; Reap is a blog with excerpts from literary texts to inspire readers to move beyond reading to provoke questions and conversation. This blog complements the posters and toolkits that have been made available to parents and educators. The ASK blog (Actively Seeking Knowledge with Public Libraries Singapore) showcases interesting queries received via the ASK! Service (an Advisory &amp; Enquiry Service) at the public libraries..
+Blogs such as High Browse Online recommends good reads and provides updates on books and reading. Read &amp; Reap is a blog with excerpts of literary texts to inspire readers to move beyond reading to provoke questions and conversation. This blog complements the posters and toolkits made available to parents and educators. The ASK (Actively Seeking Knowledge with Public Libraries Singapore) blog showcases interesting queries received via the ASK! Service (an advisory and enquiry service) at public libraries.
 
 All the individual libraries have their own Facebook accounts, and there is also a Public Library SG Twitter account and a Public Library SG Instagram account, all launched in 2012.
 
-READ! Singapore has its own website and Facebook page to highlight the nation-wide reading initiative. Volunteers have their own Friends of the Library portal through where they can pick and choose their volunteer opportunities, and they, too, have a Facebook page.
+READ! Singapore has its own website and Facebook page to highlight the nationwide reading initiative. Volunteers have their own Friends of the Library portal where they can pick and choose their volunteer opportunities, and they, too, have a Facebook page.
 
-The public libraries also made available from 2012 a free loan service for iPads, Kindles and Tumble Books Playaways at the Bedok Public Library and iPads at the Bukit Merah Public Library to enrich readers’ reading experiences and expose them to a range of new reading platforms.
+From 2012, public libraries also made available a free loan service for iPads, Kindles and Tumble Books Playaways at Bedok Public Library as well as iPads at Bukit Merah Public Library to enrich readers’ reading experiences and expose them to a range of new reading platforms.
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/ChildreniPads.jpg">
 <div style="background-color: white;">
-Children using the iPads available aboard Molly.
+Children using iPads available aboard Molly.
 </div>
 
 #### **“The only thing that is constant is change.” — Heraclitus**
