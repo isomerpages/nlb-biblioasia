@@ -99,46 +99,46 @@ The NLA recognises that in the fast-paced digital world such recognition can nev
 
 Over the next few years we will build Trove’s content by adding more digitised newspapers, working with more cultural organisations to make their rare and unique Australian collections more discoverable, and adding digitised books and journals as the NLA takes its first steps in the mass digitisation of these documentary sources. We will develop our content-building toolkit to make it easier to include Australian digital content from other services such as Europeana and Digital New Zealand. We aim to enrich content about Australian people by leveraging on the Virtual International Authority File, and by working with other biographical resources.
 
-In 2013, we are redeveloping the Trove newspapers zone to accommodate the rapid increase in content, improve performance and deliver a mobile-friendly interface to this most popular of Trove zones. We will also deliver a Performing Arts “selective subject” view in Trove this year, and will be interested to see whether this approach to resource discovery will be sufficiently valuable to our users to justify investment in other subject-based views. We aim to improve a number of our services, e.g. Trove lists, over the next few years, and are always considering new possibilities for service. Our capacity to roll out service improvement is, of course, constrained by our resources, and by the realities of supporting the existing service — and its growing content base—so that it remains as easy and quick to use as it is now. Trove requires many servers, drivers, pieces of software, bandwidth and a talented team of IT professionals to meet all these needs. The Trove teams — both technical and customer focused—are small but highly dedicated to their mission, and deliver huge value on a relatively modest resource base.
+In 2013, we are redeveloping the Trove newspapers zone to accommodate the rapid increase in content, improve performance and deliver a mobile-friendly interface to this most popular of Trove zones. We will also deliver a Performing Arts “selective subject” view in Trove this year, and will be interested to see whether this approach to resource discovery will be sufficiently valuable to our users to justify investment in other subject-based views. We aim to improve a number of our services, e.g., Trove lists, over the next few years, and are always considering new possibilities for service. Our capacity to roll out service improvement is, of course, constrained by our resources, and by the realities of supporting the existing service – and its growing content base – so that it remains as easy and quick to use as it is now. Trove requires many servers, drivers, pieces of software, bandwidth and a talented team of IT professionals to meet all these needs. The Trove teams – both technical and customer-focused – are small but highly dedicated to their mission, and deliver huge value on a relatively modest resource base.
 
 The NLA has engaged a market research company to evaluate Trove customer satisfaction. The results should reveal more about the Trove demographic: why users use Trove; help us to understand Trove usage patterns and where Trove sits in the research process; gain an understanding of the value users place on the service; what they like and dislike and how they would like to see Trove develop in the future. The research phase will be completed by July 2013, with evaluation of the results expected to take several months longer.
 
-This will be the first time the NLA will have an overall view of the Trove user base. We know how many users we have; how often they return; which zones they prefer to use; the length of each visit; what they do on the Trove site; and where they come from in terms of countries and Australian states and territories. Recent research by the NLA’s Paul Hagon yielded interesting results on patterns of text correction,[^12] while research by University of Canberra’s Sultana Lubna Alam and John Campbell focused on the motivations of those engaging in Trove text correction.[^13] With every new piece of research —whether conducted by NLA staff, commissioned by the NLA, or initiated independently—on Trove as a social phenomenon rather than as content source, we understand a little more about our huge user base. One measure of our success is, as Annie Talvé noted in a recent paper,[^14] that “to Trove” is now being used as a verb!
+This will be the first time the NLA will have an overall view of the Trove user base. We know how many users we have; how often they return; which zones they prefer to use; the length of each visit; what they do on the Trove site; and where they come from in terms of countries and Australian states and territories. Recent research by the NLA’s Paul Hagon yielded interesting results on patterns of text correction,[^12] while research by the University of Canberra’s Sultana Lubna Alam and John Campbell focused on the motivations of those engaging in Trove text correction.[^13] With every new piece of research – whether by NLA staff, commissioned by the NLA or initiated independently – on Trove as a social phenomenon rather than as content source, we understand a little more about our huge user base. One measure of our success is, as Annie Talvé noted in a recent paper,[^14] that “to Trove” is now being used as a verb!
 
-Developing Trove has been a five-year adventure for the NLA. It is now a mature service—with all the expectations that it brings — which is deeply embedded in Australia’s research infrastructure, and serves an astonishing variety of researchers and fields of enquiry. The nla is committed to Trove as the primary mechanism for discovery of Australian documentary heritage, and looks forward to continuing “to Trove” for many years to come.
+Developing Trove has been a five-year adventure for the NLA. It is now a mature service – with all the expectations that it brings – which is deeply embedded in Australia’s research infrastructure, and serves an astonishing variety of researchers and fields of enquiry. The NLA is committed to Trove as the primary mechanism for discovery of Australian documentary heritage, and looks forward to continuing “to Trove” for many years to come.
 
 
 <div>
-This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Director-General, Resource Sharing; <b>Debbie Campbell</b>, Director, Collaborative Services; and <b>Anne-Marie Schwirtlich</b>, Director-General of the National Library of Australia in Canberra. With colleagues across the Library they support the National Library’s goal to make as much of its collection as possible available online in collaboration with other Australian cultural heritage agencies. Trove is an embodiment of that goal.
+This overview of Trove was prepared by <b>Marie-Louise Ayres</b>, Assistant Director-General, Resource Sharing; <b>Debbie Campbell</b>, Director, Collaborative Services; and <b>Anne-Marie Schwirtlich</b>, Director-General of the National Library of Australia in Canberra. With colleagues across the Library, they support the National Library’s goal to make as much of its collection available online as possible in collaboration with other Australian cultural heritage agencies. Trove is an embodiment of that goal.
 </div>
 
 #### **NOTES**
 
 
-[^1]: Further information about trove’s aims and content are available at http://trove.Nla.Gov.Au/general/more-about-trove/ 
+[^1]: Further information about Trove’s aims and content is available at: http://trove.Nla.Gov.Au/general/more-about-trove/ 
 
-[^2]:  Viva news, 216 maret 2013, http://us.Dunia. News.Viva.Co.Id/news/read/397898-begini-caraaustralia-koleksi-referensi-tentang-in 
+[^2]:  Viva news, 2013, http://us.Dunia.News.Viva.Co.Id/news/read/397898-begini-caraaustralia-koleksi-referensi-tentang-in 
 
-[^3]: The Australian government released an important white paper, Australia in the Asian century, in 2012. The white paper and information on associated program activities is available at: http:// asiancentury.Dpmc.Gov.Au/ 
+[^3]: The Australian government released an important white paper, "Australia in the Asian Century", in 2012. The white paper and information on associated program activities are available at: http://asiancentury.Dpmc.Gov.Au/ 
 
- [^4]: The podcast is available at: http://www.Sbs.Com. Au/podcasts/naca/radionews/episode/220565/ national-library-digitises-non-english-newspapers 
+ [^4]: The podcast is available at: http://www.Sbs.Com.Au/podcasts/naca/radionews/episode/220565/national-library-digitises-non-english-newspapers 
 
-[^5]: More information on the state library of new south wales’ program is available at: http://www.Sl.Nsw. Gov.Au/about/projects/digital\_excellence/index. html 
+[^5]: More information on the State Library of New South Wales’ programme is available at: http://www.Sl.Nsw.Gov.Au/about/projects/digital\_excellence/index.html 
 
-[^6]: The group communicates via twitter: https://twitter. Com/search?Q=%23trovetuesday&amp;src=hash. 
+[^6]: The group communicates via Twitter: https://twitter.com/search?Q=%23trovetuesday&amp;src=hash
 
-[^7]: A compendium of participating bloggers is available at: http://branchesleavespollen.Blogspot.Com. Au/p/trove-tuesday.Html 
+[^7]: A compendium of participating bloggers is available at: http://branchesleavespollen.Blogspot.Com.Au/p/trove-tuesday.Html 
 
-[^8]: Further information on this project, led by the university of melbourne is available at: http:// climatehistory.Com.Au/ 
+[^8]: Further information on this project led by the University of Melbourne is available at: http://climatehistory.Com.Au/ 
 
-[^9]: Information on the api, how to access it, and terms of use are available at: http://trove.Nla.Gov.Au/ general/api 
+[^9]: Information on the api, how to access it, and terms of use is available at: http://trove.Nla.Gov.Au/general/api 
 
-[^10]: Information about this event, and links to products developed by past winners is available at: http:// www.Govhack.Org/ 
+[^10]: Information about this event and links to products developed by past winners is available at: http://www.Govhack.Org/ 
 
-[^11]: Underbelly (http://en.Wikipedia.Org/wiki/ underbelly\_%28tv\_series%29) was an australian television phenomenon, winning both popular and critical acclaim. Williamson was quoted in the west australian on 11 september 2011. 
+[^11]: Underbelly (http://en.Wikipedia.Org/wiki/underbelly\_%28tv\_series%29) was an Australian television phenomenon, winning both popular and critical acclaim. Williamson was quoted in the *West Australian* on 11 September 2011. 
 
-[^12]: The full citation is available at: http://www. Internetawards.Org.Au/index.Php/winners 
+[^12]: The full citation is available at: http://www.Internetawards.Org.Au/index.Php/winners 
 
-[^13]: Paul hagon’s slides are available at: http:// www.Information-online.Com.Au/pdf/tuesday\_ concurrent\_2\_1125\_hagon.Pdf 
+[^13]: Paul Hagon’s slides are available at: http:// www.Information-online.Com.Au/pdf/tuesday\_concurrent\_2\_1125\_hagon.Pdf 
 
-[^14]: Their recent conference paper, ‘crowdsourcing motivations in a not-for-profit glam context: the australian newspapers digitisation program’ is available at: http://dro. Deakin.Edu.Au/eserv/du:30049107/alamcrowdsourcingmotivations-2012.Pdf (and discoverable via trove at http://trove.Nla.Gov.Au/ version/188319518)
+[^14]: Their recent conference paper, "Crowdsourcing Motivations in a Not-for-Profit Glam Context: The Australian Newspapers Digitisation Program" is available at: http://dro.Deakin.Edu.Au/eserv/du:30049107/alamcrowdsourcingmotivations-2012.Pdf (and discoverable via Trove at http://trove.Nla.Gov.Au/version/188319518)
