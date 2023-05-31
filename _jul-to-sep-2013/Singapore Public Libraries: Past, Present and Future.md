@@ -90,12 +90,11 @@ Other themes include financial literacy at Tampines Regional Library, where the 
 
 A mobile library service was launched in 1960 with two mobile libraries known collectively as the Library Extension. This increased to 12 mobile library service points that served about 20 percent of public library members as there were insufficient branch libraries to serve the ever-growing population. After the first eight public library branches were set up, mobile library services were reduced and eventually terminated in 1991.
 
-In 2008, Molly (a mobile library in a custom-designed bus) was introduced, providing wireless mobile library services and specifically targeting the underserved. Molly-Reloaded was launched in 2012 to further extend the reach of libraries and to serve a wider community. New features of the updated Molly include eight iPads for access to eResources, an internal bookdrop and upgraded borrowing stations for visitors to borrow items from the 3,000-item-strong collection. Molly visits usually include storytelling, puppetry and other activities. Future plans include a mini-Mobile Library to go where Molly is unable to go, as some schools and venues are unable to accommodate a full-sized bus. Special education schools are one of Molly’s key targets, but visits are also made to orphanages, schools and homes.
-
+In 2008, Molly (a mobile library in a custom-designed bus) was introduced, providing wireless mobile library services and specifically targeting the underserved. Molly-Reloaded was launched in 2012 to further extend the reach of libraries and to serve a wider community. New features of the updated Molly include eight iPads for access to eResources, an internal bookdrop and upgraded borrowing stations for visitors to borrow items from the 3,000-item-strong collection. Molly visits usually include storytelling, puppetry and other activities. Future plans include a mini-Mobile Library to go where Molly is unable to go, as some schools and venues are unable to accommodate a full-size bus. Special-education schools are one of Molly’s key targets, while visits are also made to orphanages, schools and homes.
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/Molly%20the%20Mobile%20Bus1.jpg">
 <div style="background-color: white;">
-Excitement when Molly the Mobile Bus comes to visit.
+Excited children during a visit by Molly the Mobile Bus.
 </div>
 
 
