@@ -12,10 +12,6 @@ description: To face the challenges of the new knowledge economy, libraries must
 <div style="background-color: white;">
 Interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
-"Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism." 
-<div style="text-align: right">— Dr Ismail Serageldin </div>
-
-
 We live in a time of fast, profound and far-reaching change, which will challenge libraries no less than other long-established institutions. Globalisation and the information and communications technology revolution that we are witnessing are also promoting what I call the “New Knowledge Revolution”. This knowledge revolution can be distinguished by seven key pillars.
 
 #### **Seven Pillars of the New Knowledge Revolution**
@@ -44,62 +40,49 @@ The revolution manifested through the seven pillars is changing the very concept
 
 First, libraries will continue to harbour the originals. Manuscripts and first editions will continue to fascinate us, as these objects – above and beyond the content – are seen to have intrinsic value and worth. Being able to consult these tangible works will confer on the visitor special joys and, possibly, new insights.
 
-Second, there will continue to be certain materials, that for institutional and monetary reasons, will be beyond the reach of most people to access for a nominal fee, and that libraries will be able to provide only in situ.
+Second, there will continue to be certain materials that, for institutional and monetary reasons, will be beyond the reach of most people to access for a nominal fee, and that libraries will only be able to provide in situ.
 
-Third, libraries will be the bridge between the general population, especially researchers, and the national and international archiving system. The sheer scale of that enterprise will pose particular problems, that are likely to be addressed only by libraries and archiving institutions.
-
-
-
-<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
-<div style="background-color: white;">
-</div>
-
-	
+Third, libraries will be the bridge between the general population, especially researchers, and the national and international archiving system. The sheer scale of that enterprise will pose particular problems that are likely to be addressed only by libraries and archiving institutions.	
 
 But more than that, libraries will be transformed and will continue their essential societal role.
 	
-### **Ten Aspects Of The Libraries Of Tomorrow**
+### **Ten Aspects of the Libraries of Tomorrow**
 
-To prepare for the challenges of tomorrow, libraries today should pursue a number of policies and programmes. Based on our experience in Egypt’s Library of Alexandria, I would suggest the following 10 points:
+"Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism." 
+<div style="text-align: right">— Dr Ismail Serageldin </div>
 
+To prepare for the challenges of tomorrow, libraries today should pursue a number of policies and programmes. Based on our experience in Egypt’s Library of Alexandria, I would suggest the following 10 points.
 
-*Enormous digital resources*. Alliances with others will be necessary and a global system of interlinked libraries will emerge between national systems, each of which will represent a networked system encompassing the national depository library, the specialised research libraries and the general public libraries. Singapore is a good precursor of that national system.
+*Enormous Digital Resources*. Alliances with others will be necessary and a global system of interlinked libraries will emerge between national systems, each of which will represent a networked system encompassing the national depository library, the specialised research libraries and the general public libraries. Singapore is a good precursor of that national system.
 
-*Integrated maps, video and images with text*. The new digital resources will include seamless linkages between resources that were previously treated separately: maps, video, images and scanned manuscripts, with text journals, monographs and books as well as music and statistical databases. This will require new systems of classification, storage and retrieval.
+*Integrated Maps, Video and Images with Text*. The new digital resources will include seamless linkages between resources that were previously treated separately: maps, video, images and scanned manuscripts, with text journals, monographs and books as well as music and statistical databases. This will require new systems of classification, storage and retrieval.
 
-*User-friendly presentation and accessibility*. With so much content already available on the web for free, and successful seductive commercial presentations competing for the attention of our youth, the offerings of libraries must be packaged and presented in an accessible and userfriendly fashion.
+*User-Friendly Presentation and Accessibility*. With so much content already available on the web for free, and successful seductive commercial presentations competing for the attention of our youth, the offerings of libraries must be packaged and presented in an accessible and user-friendly fashion.
 
-*Collaborating with others to create offerings that cannot be found elsewhere*. Between them, libraries have resources that few other institutions can match. Library collaborations can produce properly curated products that no one else can offer. The World Digital Library (www.WDL.org) offers a glimpse of what the future may hold for libraries.
+*Collaborating with Others to Create Offerings that Cannot Be Found Elsewhere*. Between them, libraries have resources that few other institutions can match. Library collaborations can produce properly curated products that no one else can offer. The World Digital Library (www.WDL.org) offers a glimpse of what the future may hold for libraries.
 
+*Working towards Machine Translation and Summarisation Services*. Language and length will be obstacles to the reader and researcher of the future. Thus libraries must be at the forefront of the supporters and users of machine-based translation and summarisation.
 
-*Working towards machine translation and summarisation services*. Language and length will be obstacles to the reader and researcher of the future. Thus libraries must be at the forefront of the supporters and users of machine-based translation and summarisation.
-
-*Make the library an attractive place for youth*. Most young people do not like oldstyle libraries with their hushed reading rooms. They prefer going online to search for information and spending their time in common rooms in their dorms. The library must offer them an infrastructure and three kinds of places. The infrastructure should involve constant display of and easy access to the latest knowledge, as well as the vast resources available.
-
-
-
+*Make the Library an Attractive Place for Youth*. Most young people do not like old-style libraries with their hushed reading rooms. They prefer going online to search for information and spending their time in common rooms in their dorms. The library must offer them an infrastructure and three kinds of places. The infrastructure should involve a constant display of and easy access to the latest knowledge, as well as the vast resources available.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_7.jpg">
 <div style="background-color: white;">
 The Mediterranean-facing side of the Library of Alexandria in Egypt. <i>Image by Joakim Jardenberg via Flickr.</i>
 </div>
 
+The three kinds of spaces should be: (i) creative messy places where young people can create together, with food, music and flipcharts or their future equivalents; (ii) collaborative spaces where they can study together in relative quiet, but with active discussions; and (iii) the quiet cubicle-type of space for single researchers. There should also be spaces for art exhibitions and common functions. Since much of the physical storage of volumes can be off-site, it will liberate building space for other uses. This will ensure that the library remains at the heart of campus life in universities and community life in cities.
 
-The three kinds of spaces should be: (i) creative messy places where young people can create together, with food, music and flipcharts or their future equivalents; (ii) collaborative spaces where they can study together in relative quiet, but with active discussions; and finally (iii) the quiet cubicle-type of space for single researchers. There should also be spaces for art exhibits and common functions. Since much of the physical storage of volumes can be off-site, it will liberate building space for other uses. This will ensure that the library remains at the heart of campus life in universities and community life in cities.
+*New Systems of Organising Knowledge*. The emergence of new fields of knowledge and the transformation of old domains will require us to keep an open mind to what will be the best systems of classification and organisation of knowledge.
 
-*New systems of organising knowledge*. The emergence of new fields of knowledge and the transformation of old domains will require that we keep an open mind to what will be the best systems of classification and organisation of knowledge.
+*A Full Infrastructure for the Researcher*. The library will provide a one-stop shop for the interested researcher. It will become the lab of those engaged in humanities and social sciences, and a complement to the wet labs of natural scientists. In addition to providing the attractive spaces previously mentioned, libraries will provide the knowledge infrastructure to support the user: vast electronic resources, broadband connectivity, 3D printing, access to computer support and much more.
 
-
-*A full infrastructure for the researcher*. The library will provide a one-stop shop for the interested researcher. It will become the lab of those engaged in humanities and social sciences, and a complement to the wet labs of natural scientists. In addition to providing the attractive spaces previously mentioned, libraries will provide the knowledge infrastructure to support the user: vast electronic resources, broadband connectivity, 3D printing, access to computer support and much more.
-
-
-*Provide custom-printed books on demand*. Bibliophiles will be able to utilise printon-demand services and obtain a copy (paying the royalties of authors and publishers) of their desired book, ensuring that no book will ever be out of print again.
+*Provide Custom-Printed Books on Demand*. Bibliophiles will be able to utilise print-on-demand services and obtain a copy (paying the royalties of authors and publishers) of their desired book, ensuring that no book will ever be out of print again.
 
 *Incorporating Change*. Whatever we do, and however much we reflect and plan, reality will present us with more change than we can anticipate. Thus, constant monitoring and the ability to introduce change rapidly will be important.
 
 #### **Conclusion**
 
-Have we even begun to plumb the depths of the challenge and its implications? Probably not. It would be hubris to imagine that we, who could never have imagined the impact of the Internet 20 years ago, would be able to lay down a precise path to the future for the next 20 years. But I predict that libraries will continue to be a fundamental building block of the structure of culture and knowledge in the society of the future.
+Have we even begun to plumb the depths of the challenge and its implications? Probably not. It would be hubris to imagine that we, who could never have imagined the impact of the internet 20 years ago, would be able to lay down a precise path to the future for the next 20 years. But I predict that libraries will continue to be a fundamental building block of the structure of culture and knowledge in the society of the future.
 
 The magnificent enterprise of socialisation and learning, involving children, schools, youth and their parents will continue as long as societies continue to exist. Libraries are an essential part of that enterprise. The transition from childhood to adulthood involves more than skills transfer, it involves Culture: learning who we are and where we belong. Libraries will therefore be part of our future as much as they have been part of our past.
 
