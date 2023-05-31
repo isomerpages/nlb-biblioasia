@@ -10,47 +10,39 @@ description: To face the challenges of the new knowledge economy, libraries must
 
 <img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt.jpg">
 <div style="background-color: white;">
-The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
+Interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
-Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism. 
+"Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism." 
 <div style="text-align: right">— Dr Ismail Serageldin </div>
 
 
-We live in a time of fast, profound and far-reaching change, which will challenge libraries no less than other long-established institutions. Globalisation and the information and communications technology (ict) revolution we are witnessing are also promoting what I call the “New Knowledge Revolution”; this knowledge revolution can be diagnosed by seven key pillars.
+We live in a time of fast, profound and far-reaching change, which will challenge libraries no less than other long-established institutions. Globalisation and the information and communications technology revolution that we are witnessing are also promoting what I call the “New Knowledge Revolution”. This knowledge revolution can be distinguished by seven key pillars.
 
-#### **The Seven Pillars Of The New Knowledge Revolution**
+#### **Seven Pillars of the New Knowledge Revolution**
 
+*Parsing, Life and Organisation*. Since the beginning of time, whether we were writing on scrolls or codexes, the accumulation of knowledge was based on parsed structures, with units put next to each other like bricks in a wall of an emerging structure. In addition, each piece was “dead”, or fixed, once published. The internet changed all that. The webpage became the unit of parsing, and it is constantly updated. Today, we witness the fluid merging of text and image, both still and video as well as 3D virtual reality and augmented reality. The structure, organisation and presentation of knowledge will become one large interconnected, vibrant, global living organism of concepts, ideas and facts that is growing exponentially, and which will require new modes of thinking in order to interact with it.
 
-*Parsing, Life and Organisation*. Since the beginning of time, whether we were writing on scrolls or codexes, the accumulation of knowledge was based on parsed structures, with units put next to each other like bricks in a wall of an emerging structure. In addition, each piece was “dead”, or fixed, once published. The Internet changed all that. The web page became the unit of parsing, and it is constantly updated. Today, we witness fluid merging of text and image, both still and video as well as 3D virtual reality and augmented reality. The structure, organisation and presentation of knowledge will become one large interconnected, vibrant, global living organism of concepts, ideas and facts that is growing exponentially, and which will require new modes of thinking in order to interact with it.
+*Image and Text*. Throughout history, information has been transmitted mostly as text. The human brain can process visual information with incredible rapidity, but images were difficult to produce and reproduce. Today everybody can record images and we can expect a far larger reliance on image – in addition to text – in the future.
 
+*Humans and Machines*. With the exception of pure mathematics and some aspects of philosophy, it will no longer be possible for any human being to search, find and retrieve, and manipulate knowledge in any field, without the intermediation of machines.
 
-*Image and Text*. Throughout history, information has been transmitted mostly as text. The human brain can process visual information with incredible rapidity, but images were difficult to produce and reproduce. Today everybody can record images and we can expect far larger reliance on image—in addition to text—in the future.
-
-
-*Humans and Machines*. With the exception of pure mathematics and some aspects of philosophy, it will no longer be possible for any human being to search, find and retrieve, then manipulate knowledge in any field, without the intermediation of machines.
-
-
-*Complexity and Chaos*. The world we live in is remarkably complex. Ecosystems, biological functions and the socio-economic transactions of a globalising world are all exceedingly intricate and chaotic. Many of our models, based on the simple mathematics and analogies drawn from physics, are proving inadequate.
-
-
+*Complexity and Chaos*. The world we live in is remarkably complex. Ecosystems, biological functions and the socioeconomic transactions of a globalising world are all exceedingly intricate and chaotic. Many of our models, based on simple mathematics and analogies drawn from physics, are proving inadequate.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/interior%20of%20the%20Library%20of%20Alexandria%20in%20Egypt_1.jpg">
 <div style="background-color: white;">
-The interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
+Interior of the Library of Alexandria in Egypt. <i>Courtesy of the Library of Alexandria.</i></div>
 
-
-*Computation and Research*. Computing and information science will no longer be only for assisting in crunching large numbers. Today, computational science concepts, tools and theorems are being woven into the very fabric of science and scientific practice.
+*Computation and Research*. Computing and information science will no longer be only for assisting in crunching large numbers. Today, computational science concepts, tools and theorems are woven into the very fabric of science and scientific practice.
 
 *Convergence and Transformation*. Simply put, we once understood chemistry and biology as distinct and separate subjects, but now we have biochemistry. Such moments of convergence, generating new sciences and insights, are extremely productive in the development of our knowledge and technologies.
 
-*Pluri-disciplinarity and Policy*. The old academic “silos” of disciplines when functioning alone are counterproductive. Many of our real-life problems, such as poverty, gender or the environment, are all multi-dimensional and complex and require a special way of organising all the various disciplinary inputs. We need the wisdom of the humanities in addition to the knowledge of the natural sciences.
+*Pluri-disciplinarity and Policy*. The old academic “silos” of disciplines when functioning alone are counterproductive. Many of our real-life problems, such as poverty, gender or the environment, are all multidimensional and complex and require a special way of organising all the various disciplinary inputs. We need the wisdom of the humanities in addition to the knowledge of the natural sciences.
 
+#### **Implications for Our Institutions**
 
-#### **Implications For Our Institutions**
+The revolution manifested through the seven pillars is changing the very concept and practice of education and of the supporting institutions of culture, namely, libraries, archives and museums. Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism. But if all materials will be virtual and mobile, what will become of the physical space we now call a library?
 
-The revolution manifested through the seven pillars is changing the very concept and practice of education and of the supporting institutions of culture, namely libraries, archives and museums. Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism. But if all materials will be virtual and mobile, what will become of the physical space we now call a library?
-
-First, libraries will continue to harbour the originals. Manuscripts and first editions will continue to work their fascination for us, as the objects—above and beyond the content — are seen to have intrinsic value and worth. Being able to consult these tangible works will confer on the visitor special joys and possible new insights.
+First, libraries will continue to harbour the originals. Manuscripts and first editions will continue to fascinate us, as these objects – above and beyond the content – are seen to have intrinsic value and worth. Being able to consult these tangible works will confer on the visitor special joys and, possibly, new insights.
 
 Second, there will continue to be certain materials, that for institutional and monetary reasons, will be beyond the reach of most people to access for a nominal fee, and that libraries will be able to provide only in situ.
 
@@ -58,7 +50,7 @@ Third, libraries will be the bridge between the general population, especially r
 
 
 
-<img style="width: 650px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_8.jpg">
 <div style="background-color: white;">
 </div>
 
@@ -87,7 +79,7 @@ To prepare for the challenges of tomorrow, libraries today should pursue a numbe
 
 
 
-<img style="width: 650px; height: 400px;"  src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_7.jpg">
+<img style="width: 650px; height: 400px;" src="/images/Vol%209%20Issue%202/Tomorrow’s%20Libraries/library%20of%20alexandria4_7.jpg">
 <div style="background-color: white;">
 The Mediterranean-facing side of the Library of Alexandria in Egypt. <i>Image by Joakim Jardenberg via Flickr.</i>
 </div>
