@@ -132,19 +132,18 @@ The Library 2025 Plan has two main strategies. The first is to create libraries 
 
 The second strategy is to remake libraries to inspire in new ways. Library spaces and services will be revamped to address new literacies and changing behaviour in terms of learning. The vision for this future remaking involves collaboration with partners as well as expanding the co-location of libraries. The goal is to optimise resources and achieve synergies and efficiencies in the delivery of services.
 
-The future library space will be one that incorporates reading, building and creation as integral parts of the learning process, where collaboration and peer-topeer sharing are encouraged. The library aims to bring together people of diverse interests and backgrounds to build vibrant and creative communities. At the same time, inspiration, reflection and contemplation are equally important in the creative process. Just as there is a need to accommodate different forms of learning, and different groups of users, so should library spaces be malleable, reflecting a balance between quiet, intimate spaces on the one hand, and vibrant, creative, casual and social spaces on the other.[^3]
-
+The future library space will be one that incorporates reading, building and creation as integral parts of the learning process, where collaboration and peer-to-peer sharing are encouraged. The library aims to bring together people of diverse interests and backgrounds to build vibrant and creative communities. At the same time, inspiration, reflection and contemplation are equally important in the creative process. Just as there is a need to accommodate different forms of learning, and different groups of users, so should library spaces be malleable, reflecting a balance between quiet, intimate spaces on the one hand, and vibrant, creative, casual and social spaces on the other.[^3]
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/speciallydesigned%20cocoon1.jpg">
 <div style="background-color: white;">
-Library users sitting in a prototype of a specially-designed cocoon for library@orchard.
+Library users sitting in a prototype of a specially designed cocoon for library@orchard.
 </div>
 
-Looking towards the future and the implementation of the new plan is both exciting and challenging for the public libraries; change is constant and we look forward to the various programmes that will be carried out with enthusiasm. 
+Looking towards the future and the implementation of the new plan is both exciting and challenging for public libraries. Change is constant and we look forward to the various programmes that will be carried out with enthusiasm. 
 
 
 <div>
-<b>Francisca Cardoza</b> is the senior manager of the Library Development and Corporate Services Division under the Public Libraries Singapore. She has experience in collection development and bibliographic services as well as early outsourcing efforts in the National Library Board (NLB). Her current portfolio comprises the development and corporate support of public library staff.
+<b>Francisca Cardoza</b> is the senior manager of the Library Development and Corporate Services Division under the Public Libraries Singapore. She has experience in collection development and bibliographic services as well as early outsourcing efforts in the National Library Board. Her current portfolio comprises the development and corporate support of public library staff.
 </div>
 	
 
@@ -167,6 +166,6 @@ Tan, J., &amp; Taha, L. (2013). Icons of learning: The Redesign of the Modern Li
 
  [^1]: [Library 2000 Review Committee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571), 1994.
 
-[^2]: Tan and Taha. Icons of learning. _[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, Vol 9 Iss 1 and also Caron, D.J., 2012.
+[^2]: Tan and Taha. Icons of learning. _[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, Vol 9 Iss 1; also Caron, D.J., 2012.
 
 [^3]: Lim, J, 2013.
