@@ -74,4 +74,28 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 	
 #### **NOTES**
 
-[^1]: Bonny Tan, “[Lee Kip Lin: Kampong Boy Conservateur](https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/lee-kip-lin),” *BiblioAsia* 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
+[^1]: The Victor Book for Boys was an annual accompaniment to the weekly comic paper, The Victor, which ran from 25 January 1961 to 21 November 1992 (1,657 issues). The majority of the stories in the paper were about the exploits of the British military in World War II. There were 31 annuals altogether and these were published from 1964 to 1994. 
+
+Lynette Ramsay Silver, Deadly Secrets: The Singapore Raids, 1942–45 (Binda, New South Wales: Sally Milner Publishing, 2010). (From National Library, Singapore, call no. RSING 940.5425957 SIL-[WAR]); “SOA, M &amp; Z Special Units, Operation Jaywick Myths,” Lynette Ramsay Silver, AM, MBE, accessed 26 April 2023, https://lynettesilver.com/special-operations-australia/soa-m-z-special-units-operation-jaywick-myths/.
+
+The dark brown cream was apparently made by the cosmetics brand, Helena Rubinstein. See Silver, Deadly Secrets, 152.  
+
+Silver, Deadly Secrets, 153, 157.
+
+Lynette Ramsay Silver, email correspondence, 5 April 2023. 
+
+Silver, Deadly Secrets, 165.
+
+Silver, Deadly Secrets, 100.
+
+Silver, email correspondence, 5 April 2023. 
+
+“SOA, M &amp; Z Special Units, Operation Jaywick Myths.”
+
+“SOA, M &amp; Z Special Units, Operation Jaywick Myths.”
+
+Wong Heng, “Double Tenth Incident,” in Singapore Infopedia. National Library Board Singapore. Article published January 2021; Bonny Tan, “Elizabeth Choy,” in Singapore Infopedia. National Library Board Singapore. Article published 30 June 2016.
+
+Janice Loo, “They Died for All Free Men: Stories from Kranji War Cemetery,” BiblioAsia 18, no. 2 (July–September 2022), 18–25.
+
+Andre Yeo and Kelvin Chan, “Commando Attack at Keppel Harbour,” New Paper, 27 September 2014, 14–15. (From NewspaperSG)
