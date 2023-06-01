@@ -106,7 +106,7 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gautam_hazarika.png">
-	<b>Dr Lee Peng Hui</b> is the son of Lee Kip Lin. He is an independent researcher and cultural commentator, who grew up surrounded by Singapore’s pioneer modernist architects. He has been observing the architectural scene in Singapore and abroad since the late 20th century.</div>
+	<b>Gautam Hazarika</b> grew up in India but moved to Singapore more than 20 years ago. A former banker, Gautam now focuses on his passion, history, and has a collection of books, maps, prints and paintings. He donated <i>The Victor Book for Boys: The Commandos at Singapore</i> to the National Library Board in April 2023.</div>
 	
 #### **NOTES**
 
