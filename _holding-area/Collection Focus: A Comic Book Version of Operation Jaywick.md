@@ -78,7 +78,7 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 
 [^2]: Lynette Ramsay Silver, *Deadly Secrets: The Singapore Raids, 1942–45* (Binda, New South Wales: Sally Milner Publishing, 2010). (From National Library, Singapore, call no. RSING 940.5425957 SIL-[WAR]); “SOA, M &amp; Z Special Units, Operation Jaywick Myths,” Lynette Ramsay Silver, AM, MBE, accessed 26 April 2023, https://lynettesilver.com/special-operations-australia/soa-m-z-special-units-operation-jaywick-myths/.
 
-[^3]: The dark brown cream was apparently made by the cosmetics brand, Helena Rubinstein. See Silver, Deadly Secrets, 152.  
+[^3]: The dark brown cream was apparently made by the cosmetics brand, Helena Rubinstein. See Silver, [*Deadly Secrets*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726463), 152.  
 
 [^4]: Silver, *Deadly Secrets*, 153, 157.
 
