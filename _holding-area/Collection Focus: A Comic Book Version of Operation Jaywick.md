@@ -23,12 +23,12 @@ The story, which spans 12 pages, is one of 14 stories in *The Victor Book for Bo
 Operation Jaywick took place in September 1943. The team of 14 commandos and sailors, led by Major (later Lieutenant-Colonel) Ivan Lyon, sailed from Australia to Singapore in a fishing boat (the *Krait*), with the aim of sabotaging ships in Japanese-occupied Singapore. 
 
 ![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_2.png)
-<div style="background-color: white;">Route taken by the Krait to and from Singapore, 1943. <i>Image reproduced from Lynette Ramsay Silver, Krait: The Fishing Boat That Went to War (Singapore: Cultured Lotus, 2001), 78. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]).</i></div>
+<div style="background-color: white;">Route taken by the <i>Krait</i> to and from Singapore, 1943. <i>Image reproduced from Lynette Ramsay Silver, Krait: The Fishing Boat That Went to War (Singapore: Cultured Lotus, 2001), 78. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]).</i></div>
 
 They departed from Exmouth Gulf in Western Australia on 2 September 1943 and reached the waters near Singapore a few weeks later. On the night of 26 September, the commandos successfully paddled in small canoes into the Singapore harbour and attached explosives to Japanese ships that were moored there. The limpet mines went off just before dawn, by which time the men had safely made their escape. Mission accomplished, they paddled back to rendezvous with the *Krait*, before sailing home to Australia. They eventually arrived back at Exmouth Gulf on 19 October.
 
 ![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_3.png)
-<div style="background-color: white;">(Left) The Krait which carried the commandos on their raid to damage Japanese ships at Keppel Harbour in September 1943. <i>Courtesy of the Australian War Memorial, 044211.</i> (Right) Australian and British commandos on board the Krait en route to Singapore to sabotage Japanese ships at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. <i>Courtesy of the Australian War Memorial, P00986.001.</i></div>
+<div style="background-color: white;">(Left) The <i>Krait</i> which carried the commandos on their raid to damage Japanese ships at Keppel Harbour in September 1943. <i>Courtesy of the Australian War Memorial, 044211.</i> (Right) Australian and British commandos on board the <i>Krait</i> en route to Singapore to sabotage Japanese ships at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. <i>Courtesy of the Australian War Memorial, P00986.001.</i></div>
 
 The comic is structured into four main parts: the journey to Singapore, preparations for the raid, the process of adding explosives to the Japanese vessels in the harbour, and the men’s subsequent escape after the mines were detonated.
 
