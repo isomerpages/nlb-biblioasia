@@ -12,7 +12,7 @@ By Gautam Hazarika
 ![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_1.png)
 <div style="background-color: white;"><i>The Victor Book for Boys: The Commandos at Singapore</i> published in 1965 by D.C. Thomson &amp; Co., Ltd., and John Leng &amp; Co. Ltd.</div>
 
-At 5.15 a.m. on the morning of September 27, 1943 a terrific explosion shook the harbour of Singapore and a big Japanese tanker went up in flames. She was the first of seven ships to blow up at their moorings – victims of Operation Jaywick, a daring sabotage expedition in World War Two carried out by men of Unit Z of the Australian Experimental Station.”
+“At 5.15 a.m. on the morning of September 27, 1943 a terrific explosion shook the harbour of Singapore and a big Japanese tanker went up in flames. She was the first of seven ships to blow up at their moorings – victims of Operation Jaywick, a daring sabotage expedition in World War Two carried out by men of Unit Z of the Australian Experimental Station.”
 
 This is the dramatic introduction to “The Cruise of the Krait” which retells, in comic book form, the story of the real-life Operation Jaywick, a clandestine attack by British and Australian commandos and sailors on Japanese ships in Singapore’s Keppel Harbour.
 
