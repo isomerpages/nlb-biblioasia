@@ -5,31 +5,30 @@ description: "In conjunction with the launch of the exhibition “Roots: Tracing
   Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates
   on the question of families in Singapore."
 ---
-#### In conjunction with the launch of the exhibition “Roots: Tracing Family History”, held from 25 July 2013 to 16 February 2014, Kartini ruminates on the question of families in Singapore.
+#### In conjunction with the launch of the exhibition “Roots: Tracing Family History”, held from 25 July 2013 to 16 February 2014, Kartini Saparudin ruminates on the question of families in Singapore.
 
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Straits%20Chinese1.jpg">
-<div style="background-color: white;">A photo of Straits Chinese, Tan Ah Boon and his family, in 1860. <i>Courtesy of National Archives Singapore.</i></div>
+<div style="background-color: white;">A studio portrait of Chinese Peranakan Tan Ah Boon and his family, 1860. <i>Courtesy of National Archives Singapore.</i></div>
 
 
-At a local university, a sociology lecturer receives the following responses from her students to her question on what a typical Singapore family would look like: a nuclear family, with two children, plus a cat or a dog. Do these “educated perceptions” reflect the public imagination of the Singapore family? Or, can families be imagined or constructed in other ways? By demystifying family and the “traditional family”, we see that most idealistic notions of family are far from what we might imagine. More significantly, an overemphasis on personal responsibility for strengthening family values encourages a way of thinking that leads to moralising rather than mobilising concrete reforms.[^1] Hence, examining families in the past allows us to see the relationship of families to public policies on families.
+At a local university, a sociology lecturer receives the following responses from her students to her question on what a typical Singapore family would look like: a nuclear family, with two children, plus a cat or a dog. Do these “educated perceptions” reflect the public imagination of the Singapore family? Or can families be imagined or constructed in other ways? By demystifying family and the “traditional family”, we see that most idealistic notions of family are far from what we might imagine. More significantly, an overemphasis on personal responsibility for strengthening family values encourages a way of thinking that leads to moralising rather than mobilising concrete reforms.[^1] Hence, examining families in the past allows us to see the relationship between families and public policies on families.
 
 In this article, we explore how changing family structures in Singapore are a means of understanding Singapore’s history, identity formation as well as changing identities. There is no fixed definition of family as the concept is a social construct that varies across time and space. Yet, it is the most basic form of human organisation. Anthropologists have argued that all human societies are organised into some type of family. The universality of family is predicated upon certain characteristics that families are founded upon.
 
 One basic human social experience is marriage. All known human societies have marriages as a legal, social and economic contract between a man and a woman or, until recently, two people of the same sex. Families are formed as a result of marriages. This union legitimises children born or brought into (through adoption) this union. Thus, we state the universality of family because marriage creates family. Family creates kin through firstly birth and descent and secondly through conjugality within the marriage institution and in-laws.
 
-Families fulfil certain functions that enable a child to be fed, clothed and sheltered. The survival of the child is highly dependent on his or her family. Hence, families, through marriage, regulate sexuality and affect childbirth and childcare.
+Families fulfil certain functions that enable a child to be fed, clothed and sheltered. The survival of the child is highly dependent on their family. Hence, families, through marriage, regulate sexuality and affect childbirth and childcare.
 
-Marriage may not be a choice for everyone in modern industrial societies. The presence of state orphanages indicates that childcare is not necessarily familial. In addition, the changing status of women affects this as well. Homosexual unions, cohabitation, single-parent households have introduced diversity to the traditional notion of family. Through this lens we can see how families have evolved, in particular how “family” exists and has evolved in Singapore’s history.
+Marriage may not be a choice for everyone in modern industrial societies. The presence of state orphanages indicates that childcare is not necessarily familial. In addition, the changing status of women affects this as well. Same-sex union, cohabitation, single-parent households have introduced diversity to the traditional notion of family. Through this lens we can see how families have evolved, in particular, how “family” exists and has evolved in Singapore’s history.
 
-
-#### **Impressions of different ethnic families before 1820**
+#### **Impressions of Different Ethnic Families before 1820**
 
 Some former colonial writers have described ethnic families who were early settlers in Singapore. How typical or atypical they were of other ethnic families of that time remains to be answered. However, these general perceptions by colonial writers are useful starting points in the study of the different types of families that existed in early Singapore.
 
 One of the earliest accounts of native families in Singapore relates to Malay royalty in the 17th century. In 1609, Johann Verken, a German officer of the Vereenigde Oost-Indische Compagnie (VOC) from Meissen (Germany) aboard one of the Dutch vessels under Admiral Peter Willemz Verhoeff, related:
 
-\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing.[^2]
+"\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing."[^2]
 
 Demonstrating the existence of polygamous unions of the royal family in the area, the relationship between wealth, power and the means to have big families is established. Furthermore, Raja Bongsu had wives “of different appearances”. This could indicate that they were of different ethnic backgrounds, groups, age or beauty. Apart from being a sign of prestige for the kings, the wives could have been part of exchanges between kingdoms.
 
@@ -37,13 +36,11 @@ The Malays, at this point, were a harder group of people to define. Linguistic a
 
 #### **Arrival of the British**
 
-With the “civilising mission” as justification for colonialism, the British took an anthropological approach in their task of documenting the lifestyles and cultures of the natives. Through such understanding, the colonials hoped to colonise the natives better, inviting as little opposition as possible to their rule. The British discovered many indigenous people living in the forests or sea such as the Semangs or the Orang Laut. Indigenous families tended to live in small groups and lived wherever there was food. This small nuclear family type enabled families to move to wherever the food was.[^4] The same could also be said about the Orang Laut (meaning sea people), which was another group of indigenous people who had lived in the area for centuries,[^5] “almost the whole of their life being spent upon the water in a wretched little canoe… A man and his wife and one or two children are usually to be found in these miserable *sampans*, for subsistence they depend on their success in fishing.”[^6]
-
+With the “civilising mission” as justification for colonialism, the British took an anthropological approach in their task of documenting the lifestyles and cultures of the natives. Through such understanding, the colonials hoped to colonise the natives better, inviting as little opposition as possible to their rule. The British discovered many indigenous people living in the forests or on the sea such as the Semangs or the Orang Laut. Indigenous families tended to live in small groups and lived wherever there was food. This small nuclear family type enabled families to move to wherever the food was.[^4] The same could also be said about the Orang Laut (Sea People) – another group of indigenous people who lived in the area for centuries:[^5] “almost the whole of their life being spent upon the water in a wretched little canoe… A man and his wife and one or two children are usually to be found in these miserable *sampans*, for subsistence they depend on their success in fishing.”[^6]
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Malay%20family1.jpg">
-<div style="background-color: white;">Photograph of a Malay family taken in 1900. <i>Courtesy of National Archives Singapore.</i></div>
+<div style="background-color: white;">Photograph of a Malay family, 1900. <i>Courtesy of National Archives Singapore.</i></div>
 	
-
 During this period, the British classified the Malays into two classes, the native and the foreign Malays. This division was more geographical than ethnographical. According to Frank Swettenham, in *British Malaya*, the Malays are descendants of people who crossed from the south of India to Sumatra, mixed with a people already inhabiting that island, and gradually spread themselves over the most central and fertile States \[of Malaya\]. Foreign Malays came to Malaya from the borders of Kedah, Patani, Kelantan and the Southern Siamese states, including those from the seas —Acehnese, Javanese, Mandalings, Minangkabau, Palembang, Labuan, Borneo and Bugis. The native Malays are the descendants of the old Sumatran colonialists and intermarried with local aborigines and subsequent immigrants. There is an impression that the Malays live as part of the extended family,
 
 … He never fails in respect towards his superiors. He has a proper reverence for constituted authority… His domestic life is almost idyllic. Towards his servants he is considerate and friendly… He is indulgent to his wife, and perhaps even more so to his children, whom he generally spoils. He supports his own relatives through thick and thin, but his sense of charity does not take him beyond the family circle. He is content to live in his own life in the bosom of his family like, a “frog beneath a coconut shell *[katak di bawah tempurung]*. [^7]
@@ -128,7 +125,7 @@ In addition, current opposition to the 377A of the Penal Code, which criminalise
 
 We need to develop a clearer sense of how past families actually functioned and what the consequences of family values and behaviours have been. In sum,“Good history and responsible social policy would help people incorporate the full complexity and tradeoffs and family change into their analyses and thus into action. Mythmaking does not accomplish this end.”[^30]
 
-*This article was reviewed by Senior Lecturer Saroja Dorairajoo, National University of Singapore, Department of Sociology, Faculty of Arts & Social Sciences*.
+*This article was reviewed by Senior Lecturer Saroja Dorairajoo, National University of Singapore, Department of Sociology, Faculty of Arts &amp; Social Sciences*.
 
 
 <div>
@@ -142,11 +139,11 @@ Barnard, T.P. (2007, December). Celates, Rayat-Laut, Pirates: The Orang Laut and
 
 Borschberg, P. (2011). [_Hugo Grotius, the Portuguese and free trade in the East Indies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13604401). Singapore: NUS Press. (Call no.: RSEA 341 BOR)
 
-Cartwright, H.A., & Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
+Cartwright, H.A., &amp; Wright, A. (Eds.). (1989). [_Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444). Singapore: Graham Brash Pte Ltd. (Call no.: RSING 959.5 TWE)
 
 Chua, B.H. (1994). [_Private ownership of public housing in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7858142). Australia: National Library of Australia. (Call no.: RCLOS q363.585 CHU)
 
-Clifford, H.C. (1897). [_In court & kampong: Being tales and sketches of native life in the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx). London: G. Richards. Retrieved from BookSG.
+Clifford, H.C. (1897). [_In court &amp; kampong: Being tales and sketches of native life in the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx). London: G. Richards. Retrieved from BookSG.
 
 Cook, J.A.B. (1907). [_Sunny Singapore: An account of the place and its people, with a sketch of the results of missionary work_](https://eresources.nlb.gov.sg/printheritage/detail/97ea5017-b3c9-4135-acf5-ee7db22364ae.aspx). London: Elliot Stock. Retrieved from BookSG.
 
@@ -182,7 +179,7 @@ Singapore. Ministry of Community Development, Youth and Sports; National Family 
 
 Stoler, A. (2010). _[Carnal knowledge and imperial power: Race and the intimate in colonial rule](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13666496)_. Claifornia, Berkeley: University of California Press. (Call no.: R 305.8 STO)
 
-Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx). London: Richardson & Co. Retrieved from BookSG.
+Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx). London: Richardson &amp; Co. Retrieved from BookSG.
 
 Tibbetts, G.R. (1957). Early Muslim traders in South-East Asia. _Journal of the Malayan Branch of the Royal Asiatic Society, 30_ (1), (177), 1–45. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -203,7 +200,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^6]: Gibson, 1969, p. 119.
 
-[^7]: [Cartwright & Wright](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444), 1989, p. 132.
+[^7]: [Cartwright &amp; Wright](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444), 1989, p. 132.
 
 [^8]: [Thompson](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx), 1865, pp. 251—254.
 
@@ -243,17 +240,10 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^26]: [*Annual report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1975, p. 49.
 
-[^27]: [Wong & Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746), 2003, pp.11—12.
+[^27]: [Wong &amp; Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746), 2003, pp.11—12.
 
 [^28]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 31.
 
 [^29]: State of the Family Report 2011; Census of Population 2010, Statistical Release 2: Households and Housing.
 
 [^30]: [Coontz](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12680797), 2000, introduction.
-
-
-
-
-
-
-
