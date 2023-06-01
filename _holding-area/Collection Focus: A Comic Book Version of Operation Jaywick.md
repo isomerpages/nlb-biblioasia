@@ -67,7 +67,13 @@ In the comic, a pair have a narrow escape when they are spotted by a Japanese sa
 
 The mines go off just before dawn on 27 September. While this part of the mission is a success, the men must now rendezvous with the others on the *Krait* to get back to safety.
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_8.png)
+<div style="background-color: white;">The mines on the Japanese ships go off at 5.15 am on 27 September 1943. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 13.</i></div>
+
 According to the comic book, escaping from Singapore was no easy task. The men first encounter a storm, and then to make matters worse, they are spotted by the Japanese. Fortunately for the commandos, the Japanese ship is wiped out by a sudden, enormous wave caused by the storm. There is no mention of such a dramatic and unlikely incident in Silver’s book.
+
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_9.png)
+<div style="background-color: white;">A miraculous wave saves the men after they are spotted by a Japanese warship. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 14.</i></div>
 
 The comic also says that while on an island waiting to be picked by the *Krait*, the men run out of provisions and have to buy food from the local Malays using gold coins. This story has some basis in truth. According to Silver, while waiting for the *Krait*, an old Malay man traded his fresh fish for their tobacco and promised to keep them supplied with vegetables and fish.[^7] But they would not have used gold coins as these would have drawn too much attention.[^8]
 
