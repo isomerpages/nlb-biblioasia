@@ -42,6 +42,9 @@ As they get closer to Singapore, the crew disguise the ship and themselves to av
 
 In the story, a man lets down his guard and tosses overboard an empty can with a label indicating that it contained Australian peaches. He receives a tongue-lashing and the *Krait* has to turn back to retrieve the can in case the label alerts the Japanese to their presence. This is likely to be a narrative device used to illustrate how the men had to be careful about the trash that they disposed of. According to Silver, the tinned food they had did not have labels on them; instead, the cans had identification numbers. A lookout did accidentally drop a hat and a towel into the sea though, which were retrieved.[^4]
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_5.png)
+<div style="background-color: white;">The men retrieving the can of peaches from the sea in case they are discovered by the Japanese. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 7.</i></div>
+
 The comic says that after the *Krait* makes it through the Lombok Strait, it sails past a Japanese base during broad daylight, which means they are likely to be spotted. Lyon instructs the crew to kneel and bow towards the mountain behind the camp as it is considered sacred by the locals. The ruse works, and although spotted, the *Krait* is presumed to be a Japanese fishing vessel with a native crew. According to Silver, while Lyon did know the area well, she has not come across any mention of such an incident.[^5]
 
 #### **Preparation**
