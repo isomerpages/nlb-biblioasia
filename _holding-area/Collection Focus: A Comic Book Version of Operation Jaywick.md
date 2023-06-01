@@ -105,7 +105,7 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/lee_peng_hui.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/gautam_hazarika.png">
 	<b>Dr Lee Peng Hui</b> is the son of Lee Kip Lin. He is an independent researcher and cultural commentator, who grew up surrounded by Singapore’s pioneer modernist architects. He has been observing the architectural scene in Singapore and abroad since the late 20th century.</div>
 	
 #### **NOTES**
