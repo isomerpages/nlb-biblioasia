@@ -27,7 +27,7 @@ Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.
 
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
-&gt; **Knowledge and remembering \[are\] in the hands and in the body. — Paul Connerton[^6]
+&gt; Knowledge and remembering \[are\] in the hands and in the body. — Paul Connerton[^6]
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
