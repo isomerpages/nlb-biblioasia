@@ -16,19 +16,13 @@ Technology has enabled library services to become even more eﬃcient. The Natio
 
 The National Library of Australia has developed a successful online discovery service called Trove. Trove’s users have access to its extensive digital newspaper database, enabling them to correct inaccuracies caused by print-to-digital scanning. This has spawned forums and communities, all working to make Trove’s resources even better.
 
-Singapore’s libraries run a gamut of activities to encourage lifelong learning such as nationwide reading programmes, storytelling sessions and exhibitions. Eﬀorts
-are also made to reach the underserved members of the community through our ful-
-ly equipped mobile-library-in-a-bus, Molly. Our libraries also engage the public via
-national initiatives like the Singapore Memory Project and the National Information Literacy Programme.
+Singapore’s libraries run a gamut of activities to encourage lifelong learning such as nationwide reading programmes, storytelling sessions and exhibitions. Eﬀorts are also made to reach the underserved members of the community through our fully equipped mobile-library-in-a-bus, Molly. Our libraries also engage the public via national initiatives like the Singapore Memory Project and the National Information Literacy Programme.
 
-An integral part of the library system is the library professional and the Library
-Society of China shares their programmes and eﬀorts to improve the quality and eﬃ-
-ciency of library services and library professionals across China.
+An integral part of the library system is the library professional. The Library Society of China shares their programmes and eﬀorts to improve the quality and eﬃciency of library services and library professionals across China.
 
-The diverse initiatives described in this issue echo the same sentiment— as we
-step into a whole new (and brave) world, we can be sure that libraries are the keys to a new and exciting future, filled with infinite possibilities that we cannot even begin
-to imagine.
+The diverse initiatives described in this issue echo the same sentiment: as we
+step into a new (and brave) world, we can be sure that libraries are the key to a fresh and exciting future, filled with infinite possibilities that we cannot even begin to imagine.
 
       
-Gene Tan
+Gene Tan,
 Director, National Library
