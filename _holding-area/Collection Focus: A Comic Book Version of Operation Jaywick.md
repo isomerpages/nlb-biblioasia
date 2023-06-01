@@ -51,7 +51,7 @@ The mines go off just before dawn on 27 September. While this part of the missio
 
 According to the comic book, escaping from Singapore was no easy task. The men first encounter a storm, and then to make matters worse, they are spotted by the Japanese. Fortunately for the commandos, the Japanese ship is wiped out by a sudden, enormous wave caused by the storm. There is no mention of such a dramatic and unlikely incident in Silver’s book.
 
-The comic also says that while on an island waiting to be picked by the Krait, the men run out of provisions and have to buy food from the local Malays using gold coins. This story has some basis in truth. According to Silver, while waiting for the Krait, an old Malay man traded his fresh fish for their tobacco and promised to keep them supplied with vegetables and fish.7 But they would not have used gold coins as these would have drawn too much attention.8
+The comic also says that while on an island waiting to be picked by the Krait, the men run out of provisions and have to buy food from the local Malays using gold coins. This story has some basis in truth. According to Silver, while waiting for the Krait, an old Malay man traded his fresh fish for their tobacco and promised to keep them supplied with vegetables and fish.[^7] But they would not have used gold coins as these would have drawn too much attention.[^8]
 
 The men are all eventually picked up by the Krait and after a few weeks, they arrive safe and sound in Australia. According to the comic, they are given a heroes’ welcome but in reality, there was no such thing: the men simply held a secret celebration among themselves.9
 
