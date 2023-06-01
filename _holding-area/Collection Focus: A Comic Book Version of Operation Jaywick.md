@@ -22,4 +22,16 @@ The story, which spans 12 pages, is one of 14 stories in The Victor Book for Boy
 
 Operation Jaywick took place in September 1943. The team of 14 commandos and sailors, led by Major (later Lieutenant-Colonel) Ivan Lyon, sailed from Australia to Singapore in a fishing boat (the Krait), with the aim of sabotaging ships in Japanese-occupied Singapore. 
 
-They departed from Exmouth Gulf in Western Australia on 2 September 1943 and reached the waters near Singapore a few weeks later. On the night of 26 September, the commandos successfully paddled in small canoes into the Singapore harbour and attached explosives to Japanese ships that were moored there. The limpet mines went off just before dawn, by which 
+They departed from Exmouth Gulf in Western Australia on 2 September 1943 and reached the waters near Singapore a few weeks later. On the night of 26 September, the commandos successfully paddled in small canoes into the Singapore harbour and attached explosives to Japanese ships that were moored there. The limpet mines went off just before dawn, by which time the men had safely made their escape. Mission accomplished, they paddled back to rendezvous with the Krait, before sailing home to Australia. They eventually arrived back at Exmouth Gulf on 19 October.
+
+The comic is structured into four main parts: the journey to Singapore, preparations for the raid, the process of adding explosives to the Japanese vessels in the harbour, and the men’s subsequent escape after the mines were detonated.
+
+As a comic book aimed at teenage boys, the work is naturally more focused on recounting a thrilling narrative than on historical accuracy. As a result, some events were exaggerated or even added for dramatic effect. The comic book also gets some details wrong. In one panel, the wrong Japanese flag is used. (It should have been the flag with a red circle against a plain white background.) Author and researcher Lynette Ramsay Silver, who has written a number of books on Operation Jaywick, including Deadly Secrets: The Singapore Raids, 1942–45, has also argued that while it is commonly believed that seven vessels were damaged, records can only confirm six, and all but two were put back in service within days.2
+
+#### **Sailing to Singapore**
+
+In the comic book, the narrative begins with Lyon informing the men about the details of their mission once they are out at sea. 
+
+As they get closer to Singapore, the crew disguise the ship and themselves to avoid detection. “We’re supposed to be a Jap fishing boat so we must fly the Jap flag and from now on we’re either Japs or natives,” says Lyon in the story. The men applied dark brown cream on themselves to look more Asian. According to Silver, the men also switched out of their uniform into sarong, but this is not mentioned in the comic. Instead, the men are depicted shirtless and wearing only a sarong.3
+
+In the story, a man lets down his guard and tosses overboard an empty can with a label indicating that it contained Australian peaches. He receives a tongue-lashing and the Krait has to turn back to retrieve the can in case the label alerts the Japanese to their presence. This is likely to be a narrative device used to illustrate how the men had to be careful about the trash that they disposed of. According to Silver, the tinned food they had did not have labels on them; instead, the cans had identification numbers. A lookout did accidentally drop a hat and a towel into the sea though, which were retrieved.4
