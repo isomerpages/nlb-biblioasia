@@ -1,9 +1,11 @@
 ---
 title: History Through Postcards
-date: 2020-04-01T00:00:00.000Z
+date: 2020-04-01
 permalink: /vol-16/issue-1/apr-jun-2020/history-through-postcards/
 third_nav_title: History Through Postcards
-image: /images/Vol-16-issue-1/Postcards/Malay_Village.png
+image: /images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png
+layout: post
+description: ""
 ---
 #### One postcard may not say much, but a collection of postcards can speak volumes. **Stephanie Pee** tells us what *Postcard Impressions of Early 20th-century Singapore* has to say. 
 
