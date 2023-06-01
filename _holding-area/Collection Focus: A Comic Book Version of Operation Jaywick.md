@@ -44,3 +44,26 @@ The men eventually reach an island 30 miles (48 km) from Singapore and prepare f
 A plan is hatched to attack a convoy that has docked in the harbour. Six men travelling in pairs paddle successfully into the harbour and begin attaching mines to ships.
 
 In the comic, a pair have a narrow escape when they are spotted by a Japanese sailor. However, by pretending to be Malay fishermen, they manage to talk their way out of the situation. According to the account in Silver’s book, while the commandos spotted a man looking out of a porthole, apparently staring in their direction, he did not see them and there was no exchange.6
+
+#### **The Escape**
+
+The mines go off just before dawn on 27 September. While this part of the mission is a success, the men must now rendezvous with the others on the Krait to get back to safety.
+
+According to the comic book, escaping from Singapore was no easy task. The men first encounter a storm, and then to make matters worse, they are spotted by the Japanese. Fortunately for the commandos, the Japanese ship is wiped out by a sudden, enormous wave caused by the storm. There is no mention of such a dramatic and unlikely incident in Silver’s book.
+
+The comic also says that while on an island waiting to be picked by the Krait, the men run out of provisions and have to buy food from the local Malays using gold coins. This story has some basis in truth. According to Silver, while waiting for the Krait, an old Malay man traded his fresh fish for their tobacco and promised to keep them supplied with vegetables and fish.7 But they would not have used gold coins as these would have drawn too much attention.8
+
+The men are all eventually picked up by the Krait and after a few weeks, they arrive safe and sound in Australia. According to the comic, they are given a heroes’ welcome but in reality, there was no such thing: the men simply held a secret celebration among themselves.9
+
+#### **What Was Left Unsaid**
+
+Apart from getting details wrong and inserting events that did not take place, the comic book also leaves out some critical pieces of information. While Operation Jaywick was successful as a commando operation, civilians in Singapore paid a large price.
+
+According to Silver, the raid remained a top secret that was revealed only after the war had ended. The Japanese believed that it had been the handiwork of people in Singapore.10 This led to what is now known as the Double Tenth incident. On 10 October 1943, the Kempeitai (Japanese military police) raided the cells holding civilian internees at Changi Prison. A subsequent roundup of suspects across the island included Elizabeth Choy and her husband Choy Kan Heng.
+
+Out of the 57 internees and civilians who were taken away, interrogated and tortured, 15 died. Those who survived served long prison sentences at either Outram Jail or Changi Prison. Elizabeth Choy, recognised today as a war heroine, was released only after 200 days of starvation and repeated torture, while her husband was released much later.11
+
+Lyon subsequently died in a similar operation, which took place a year later on 10 October 1944. Operation Rimau failed as the men were detected before the raid began. Lyon was killed in action, and everyone with him on that mission also died. They were either killed while trying to escape, perished from their injuries while in captivity, or were executed by the Japanese. Lyon’s remains are buried at Kranji War Cemetery in Singapore (plot 27, row A, headstone 14). Most of the other men involved in the mission are also buried in Kranji, though six still lie in unmarked graves in the Riau Islands.12
+
+On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th anniversary of Operation Jaywick. War veterans from Singapore, military personnel from other countries, students and members of the public, along with the Australian and British high commissioners, attended the event.13 As for the fate of the Krait, the vessel is currently berthed at the Australia National Maritime Museum in Sydney, and operated on special occasions or displayed at special events. 
+
