@@ -10,34 +10,28 @@ description: Memories and history are viewed differently. Find out how the
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Ronald%20Simon1.jpg">
 <div style="background-color: white;">
-Mr Roland Vivian Simon, born in 1932, was a telephone operator at Sembawang Naval Base during the Japanese Occupation. His story will be one of many featured in "Hands".	</div>
+Mr Roland Vivian Simon, born in 1932, was a telephone operator at Sembawang Naval Base during the Japanese Occupation. His story is one of many featured in "Hands".	</div>
 
 
-Without our memories, we would not be able to perform the simplest everyday task, create meaning in our lives, or construct our sense of identity—our identities are anchored to what we choose to remember of ourselves. While memories are personal and internal, derived from an individual’s experiences in life, our memories are also cultural, drawing from and shaped by our social and cultural circumstances.[^1] Just like an individual, a group without memories would not know how to distinguish itself from others, nor understand what it stands for, or its values.
+Without our memories, we would not be able to perform the simplest everyday task, create meaning in our lives, or construct our sense of identity – our identities are anchored to what we choose to remember of ourselves. While memories are personal and internal, derived from an individual’s experiences in life, our memories are also cultural, drawing from and shaped by our social and cultural circumstances.[^1] Just like an individual, a group without memories would not know how to distinguish itself from others, nor understand what it stands for, or its values.
 
+Memories are often viewed differently from history. History, being the purview of academics, is thought of as guided by reason, and therefore objective. Historians rely mainly on information from documents and objects, allowing history to be verified. In contrast, memories are personal and considered as an authentic voice – since the person who remembers experienced an event first-hand. Memories are associated with emotions, subject to revision, and forgetting is often part of the process of memory formation. The distinction between history and memory is, however, not so clear. Historians, after all, rely on materials or sources that are often memories of others. How history has been conceived or written is also shaped by the historian’s perspectives, which are in turn formed by their memories. What both memory and history have in common is that they are both representations of the past interpreted through the filter of the present.
 
-Memories are often viewed differently from history. History, being the purview of academics, is thought of as guided by reason and therefore, objective. Historians rely mainly on information in documents and objects, allowing history to be verified. In contrast, memories are personal and considered as an authentic voice — since the person who remembers experienced an event first hand. Memories are associated with emotions, subject to revision and forgetting is often part of the process of memory formation. The distinction between history and memory is, however, not so clear. Historians, after all, rely on materials or sources that are often memories of others. How history has been conceived or written is also shaped by the historian’s perspectives, which are in turn formed by his or her memories. What both memory and history have in common is that they are both representations of the past interpreted through the filter of the present.
+The growing interest around the world in memories, whether in the form of family histories, autobiographies or memorials, has been for some scholars the result of what is termed the “memory-crisis”[^2] – “a crisis involving, on the one hand, enormous attention to memory, and on the other, disjuncture between contemporary life and the remembered past”.[^3] The anxieties of a fast-changing world make us “speak so much of memory because there is so little of it left”.[^4]
 
-The growing interest around the world on memories, whether in the form of family histories, autobiographies or memorials, has been for some scholars the result of what is termed the “memory-crisis”[^2]—“a crisis involving on the one hand, enormous attention to memory, and on the other, disjuncture between contemporary life and the remembered past”.[^3] The anxieties of a fast-changing world make us “speak so much of memory because there is so little of it left”.[^4]
-
-
-Where are memories kept? Memory by its nature is “mortal, linked to the brain and the body that bears it”.[^5] There are, however, memory warehouses in the form of libraries, archives and museums where memories are kept in material forms. The Singapore Memory Project (smp) is one such warehouse. Launched in August 2011, it is a nationwide initiative spearheaded by the National Library to capture the memories of Singapore —whether individual, organisational or collective. Memories are authentic voices enriching the telling of the past and providing another way of looking at Singapore aside from linear historicity.
-
+Where are memories kept? Memory by its nature is “mortal, linked to the brain and the body that bears it”.[^5] There are, however, memory warehouses in the form of libraries, archives and museums where memories are kept in material forms. The Singapore Memory Project (SMP) is one such warehouse. Launched in August 2011, it is a nationwide initiative spearheaded by the National Library to capture the memories of Singapore – whether individual, organisational or collective. Memories are authentic voices enriching the telling of the past and providing another way of looking at Singapore aside from linear historicity.
 
 <img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
 <div style="background-color: white;">
-Artist's impressions of the “Remembering Room” in “Hands”. <i>Courtesy of FARM.</i>
-</div>
-	
+Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.</i></div>
 
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
-Knowledge and remembering \[are\] in the hands and in the body. — Paul Connerton[^6]
-
+&gt; **Knowledge and remembering \[are\] in the hands and in the body. — Paul Connerton[^6]
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">Mr Supramaniam's hands. Mr Bala Supramaniam, Singapore’s first Post master general, with his wife during the interview. 
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">(Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands. 
   <br><br>	 
 	“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
@@ -51,14 +45,14 @@ Knowledge and remembering \[are\] in the hands and in the body. — Paul Connert
 	<br><br>
 	
 
-Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
+— Excerpts from an interview with Singapore's first local Postmaster General, Mr Bala Supramaniam, aged 95.
 
 
 
 
 #### **“Hands: Gift of a Generation” Exhibition**
 
-Memories are stored in our brains and are made visible through recollection and representation[^7] in the form of language. However, memories are also embodied and expressed through our body and bodily practices.[^8] The focus of the SMP for 2013 is on the lives and memories of the people who lived through the country’s nation building years.
+Memories are stored in our brains and are made visible through recollection and representation[^7] in the form of language. However, memories are also embodied and expressed through our body and bodily practices.[^8] The SMP's focus for 2013 is the lives and memories of the people who lived through the country’s nation-building years.
 
 To symbolise the lives of first-generation Singaporeans and their life’s work, the exhibition will be built around the imagery of hands. Our hands are not only tools we use to shape the world around us, but also the means through which we interact with the environment and one another. They allow us not only to touch the world in which we live, but also allow us to be shaped and nurtured by others.
 
@@ -98,33 +92,33 @@ Excerpts of an interview with Mdm Lucy Teo, aged 70, who worked as a telephonist
 
 #### **REFERENCES**
 
-Climo, J., & Cattell, M. (2002). Introduction: Meaning in social memory and history. In J. Climo & M. Cattell (Eds.), [_Social memory and history: Anthropological perspectives_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734) (pp. 1–38). USA: Altmamira Press. (Call no.: R 153.1 SOC)
+Climo, J., &amp; Cattell, M. (2002). Introduction: Meaning in social memory and history. In J. Climo &amp; M. Cattell (Eds.), [_Social memory and history: Anthropological perspectives_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734) (pp. 1–38). USA: Altmamira Press. (Call no.: R 153.1 SOC)
 
 Crane, S. (Ed.). (2000). _Museums and memory_ (pp. 1–16). California: Standard University Press. (Not available in NLB holdings)
 
-Foster, J. (2009). [_Memory: A very short introduction_](https://web-b-ebscohost-com.proxy.lib.sg/ehost/detail/detail?vid=0&sid=2ae43bd8-307e-4a48-8648-3c76fd69abb0%40pdc-v-sessmgr02&bdata=JkF1dGhUeXBlPWlwLHVybCx1aWQmc2l0ZT1laG9zdC1saXZl#AN=264958&db=nlebk). UK: Oxford University Press. Retrieved from EBSCOhost website.
+Foster, J. (2009). [_Memory: A very short introduction_](https://web-b-ebscohost-com.proxy.lib.sg/ehost/detail/detail?vid=0&amp;sid=2ae43bd8-307e-4a48-8648-3c76fd69abb0%40pdc-v-sessmgr02&amp;bdata=JkF1dGhUeXBlPWlwLHVybCx1aWQmc2l0ZT1laG9zdC1saXZl#AN=264958&amp;db=nlebk). UK: Oxford University Press. Retrieved from EBSCOhost website.
 
 Hall, S. (2012). _Theatres of memory: Past and present in contemporary culture_ (pp. 3–50). London: Verso. (Not available in NLB holdings)
 
-Hodgkin, K., & Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
+Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
 
 
 #### **NOTES**
-[^1]: [Hodgkin & Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
+[^1]: [Hodgkin &amp; Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
 
-[^2]: Term originated by Richard Terdiman in his publication Present Past: Modernity and the Memory Crisis. See [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
+[^2]: Term originated by Richard Terdiman in his publication Present Past: Modernity and the Memory Crisis. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
-[^3]: [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
+[^3]: [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
 
-[^4]: Nora, quoted in [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
+[^4]: Nora, quoted in [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
 
 [^5]: Crane, 2002, p. 1.
 
-[^6]: Quoted in [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 19.
+[^6]: Quoted in [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 19.
 
 [^7]: Crane, 2002.
 
-[^8]: [Cateel & Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
+[^8]: [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
 [^9]: Crane, 2002, p. 2.
 
