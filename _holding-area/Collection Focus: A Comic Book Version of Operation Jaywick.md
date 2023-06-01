@@ -91,6 +91,9 @@ Apart from getting details wrong and inserting events that did not take place, t
 
 According to Silver, the raid remained a top secret that was revealed only after the war had ended. The Japanese believed that it had been the handiwork of people in Singapore.[^10] This led to what is now known as the Double Tenth incident. On 10 October 1943, the Kempeitai (Japanese military police) raided the cells holding civilian internees at Changi Prison. A subsequent roundup of suspects across the island included Elizabeth Choy and her husband Choy Kan Heng.
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_12.png)
+<div style="background-color: white;">Elizabeth Choy in a photo taken in 1955. Suspected of playing a part in Operation Jaywick, Choy was imprisoned and tortured over a 200-day period before she was released. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i></div>
+
 Out of the 57 internees and civilians who were taken away, interrogated and tortured, 15 died. Those who survived served long prison sentences at either Outram Jail or Changi Prison. Elizabeth Choy, recognised today as a war heroine, was released only after 200 days of starvation and repeated torture, while her husband was released much later.[^11]
 
 Lyon subsequently died in a similar operation, which took place a year later on 10 October 1944. Operation Rimau failed as the men were detected before the raid began. Lyon was killed in action, and everyone with him on that mission also died. They were either killed while trying to escape, perished from their injuries while in captivity, or were executed by the Japanese. Lyon’s remains are buried at Kranji War Cemetery in Singapore (plot 27, row A, headstone 14). Most of the other men involved in the mission are also buried in Kranji, though six still lie in unmarked graves in the Riau Islands.[^12]
