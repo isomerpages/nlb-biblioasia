@@ -112,17 +112,17 @@ The number of divorces has also been rising, although at a more moderate pace in
 
 With falling birth rates, household sizes in Singapore have declined over the past 30 years from an average of 4.2 persons in 1990 to 3.5 in 2010. Figures indicate that Singaporeans may have less immediate family support as fewer members are staying in the same household to provide care for young children and the elderly.[^29]
 
-In terms of working status, the proportion of married couples where both husband and wife work accounted for 47 percent in 2010, up from 41 percent in 2000. The traditional arrangement where only the husband worked was less prevalent, with the proportion declining from 40 percent in 2000 to 33 percent in 2010. With the increase of married women entering the workforce, work life balance could be an increasing challenge for husbands and wives to negotiate as they juggle work, marriage and household demands.
+In terms of working status, the proportion of married couples where both husband and wife work accounted for 47 percent in 2010, up from 41 percent in 2000. The traditional arrangement where only the husband worked was less prevalent, with the proportion declining from 40 percent in 2000 to 33 percent in 2010. With the increase of married women entering the workforce, work-life balance could be an increasing challenge for husbands and wives to negotiate as they juggle work, marriage and household demands.
 
 #### **Conclusion**
 
-The functionalist approach in state policy influences the role and types of families in Singapore. There is now a greater reliance on the family especially with the demands of an ageing population in a non-welfare state like Singapore’s. The state’s recommendation of an inter-generational threetiered family in the 1980s was scrapped as more and more children lived apart from their parents. The hdb’s Sample Household Survey in 2008 showed a decline in the proportion of younger married children who preferred to live with their parents or within close proximity of them.
+The functionalist approach in state policy influences the role and types of families in Singapore. There is now a greater reliance on the family especially with the demands of an ageing population in a non-welfare state like Singapore’s. The state’s recommendation of an intergenerational three-tiered family in the 1980s was scrapped as more and more children lived apart from their parents. The HDB’s Sample Household Survey in 2008 showed a decline in the proportion of younger married children who preferred to live with their parents or within close proximity of them.
 
-In addition, current opposition to the 377A of the Penal Code, which criminalises sex between two consenting men, further pushes the boundaries of how the state defines families. How this would impact state definitions of family remains to be seen. It can be said that it will be a long time before the state accepts differing definitions of family. In the eyes of the state, the family has to be reliant and stable and alternative family models such as singles, homosexual couples and cohabiting couples are seen as a challenge to the state’s views of stable families.
+In addition, current opposition to Section 377a of the Penal Code, which criminalises sex between two consenting men, further pushes the boundaries of how the state defines families. How this would impact state definitions of family remains to be seen. It can be said that it will be a long time before the state accepts differing definitions of family. In the eyes of the state, the family has to be reliant and stable and alternative family models such as singles, same-sex couples and cohabiting couples are seen as a challenge to the state’s view of stable families.
 
-We need to develop a clearer sense of how past families actually functioned and what the consequences of family values and behaviours have been. In sum,“Good history and responsible social policy would help people incorporate the full complexity and tradeoffs and family change into their analyses and thus into action. Mythmaking does not accomplish this end.”[^30]
+We need to develop a clearer sense of how past families actually functioned and what the consequences of family values and behaviours have been. In sum, “Good history and responsible social policy would help people incorporate the full complexity and tradeoffs and family change into their analyses and thus into action. Mythmaking does not accomplish this end.”[^30]
 
-*This article was reviewed by Senior Lecturer Saroja Dorairajoo, National University of Singapore, Department of Sociology, Faculty of Arts &amp; Social Sciences*.
+*This article was reviewed by Senior Lecturer Saroja Dorairajoo, Department of Sociology, Faculty of Arts &amp; Social Sciences, National University of Singapore.*
 
 
 <div>
@@ -148,39 +148,39 @@ Coontz, S. (2000). [_The way we never were: American families and nostalgia trap
 
 Djamour, J. (1965). [_Malay kinship and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4177777). London: Athlone Press: Humanitarian Press. (Call no.: RSING 301.42095957 DJA)
 
-Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221). London: Her Majesty’s Stationary Office. (Call no.: RSING 301.42 FRE)
+Freedman, M. (1957). [_Chinese family and marriage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221). London: Her Majesty’s Stationery Office. (Call no.: RSING 301.42 FRE)
 
-Frost, M.R. (2003, August). _Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918_ \[Asian Research Institute Working Paper Series No. 10\]. Retrieved from Nus.edu.sg. website.
+Frost, M.R. (2003, August). _Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918_ [Asian Research Institute Working Paper Series No. 10\]. Retrieved from nus.edu.sg. website.
 
 Gibson-Hill, C.A. (1969, July). The Orang Laut of Singapore River and the Sampan Panjang. _Journal of the Malaysian Branch of the Royal Asiatic Society, 42_ (1), 118–132. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Lyons, L. (2007). (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008). Leiden: Brill. (Call no.: RSING 305.42095957 LYO) (Cannot find year 2007 edition)
+Lyons, L. (2004). [_A state of ambivalence: The feminist movement in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008). Leiden: Brill. (Call no.: RSING 305.42095957 LYO)
 
 Makeswary, P. (2007, October). Indian migration into Malaya and Singapore during the British Period. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, 3_ (3). 4–11. Retrieved from BiblioAsia website.
 
-Marsden, w. (1812). [_A dictionary of the Malayan language, in two parts, Malayan and English, and English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx). London: Cox and Baylis. Retrieved from BookSG.
+Marsden, W. (1812). [_A dictionary of the Malayan language, in two parts, Malayan and English, and English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx). London: Cox and Baylis. Retrieved from BookSG.
 
-Milner, A. (2008). [_The Malays_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13208713). Chinchester, Uk: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
+Milner, A. (2008). [_The Malays_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13208713). Chichester, UK: Wiley-Blackwell. (Call no.: R 305.89928 MIL)
 
-Ng, B. (1983, August 15). [Get hitched! And don’t stop at one](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.2). _The Straits Times_, p.1. Retrieved from NewspaperSG.
+Ng, B. (1983, August 15). [Get hitched! And don’t stop at one](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830815-1.2.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 Robson, J.H.M. (1894). [_People in native state_](https://eresources.nlb.gov.sg/printheritage/detail/c7ca9d23-e476-4c49-81f5-218bd77d249d.aspx). London: Makepeace. Retrieved from BookSG.
 
 Saw, S.W. (1969, March). Population trends in Singapore, 1819–1967. _Journal of Southeast Asian History, 10_ (1), 36–49. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Singapore. Department of Statistics. (2018, May 9). _Census of Population 2010. Statistical Release 2: Households and Housing_. Retrieved from Singstat.gov.sg website.
+Singapore. Department of Statistics. (2018, May 9). _Census of population 2010. Statistical release 2: Households and housing_. Retrieved from Singstat.gov.sg website.
 
 Singapore Family Planning and Population Board. (1975). [_Annual report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679). Singapore: The Board. (Call no.: RCLOS 301.426 SFPPBA)
 
 Singapore. Ministry of Community Development, Youth and Sports; National Family Council (Singapore). (2011). _State of the family report 2011_. Singapore: National Family Council and Ministrty of Community Development, Youth and Sports. (Not available in NLB holdings)
 
-Stoler, A. (2010). _[Carnal knowledge and imperial power: Race and the intimate in colonial rule](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13666496)_. Claifornia, Berkeley: University of California Press. (Call no.: R 305.8 STO)
+Stoler, A. (2010). _[Carnal knowledge and imperial power: Race and the intimate in colonial rule](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13666496)_. California, Berkeley: University of California Press. (Call no.: R 305.8 STO)
 
 Thomson, J.T. (1865). [_Some glimpses into life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx). London: Richardson &amp; Co. Retrieved from BookSG.
 
 Tibbetts, G.R. (1957). Early Muslim traders in South-East Asia. _Journal of the Malayan Branch of the Royal Asiatic Society, 30_ (1), (177), 1–45. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malaya, 1819-1911. _Journal of Southeast Asian Studies, Ethnic Chinese in Southeast Asia, 12_ (1), 62–92. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Yen, C.H. (1981, March). Early Chinese clan organizations in Singapore and Malaya, 1819–1911. _Journal of Southeast Asian Studies, Ethnic Chinese in Southeast Asia, 12_ (1), 62–92. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 
 #### **NOTES**	
@@ -199,7 +199,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^7]: [Cartwright &amp; Wright](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444), 1989, p. 132.
 
-[^8]: [Thompson](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx), 1865, pp. 251—254.
+[^8]: [Thomson](https://eresources.nlb.gov.sg/printheritage/detail/0aef19fc-8244-4a50-9132-742025bd1d44.aspx), 1865, pp. 251—254.
 
 [^9]: Saw, 1969, p. 38.
 
@@ -209,7 +209,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^12]: Frost, Aug 2003, p. 8; [Makeswary](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), Oct 2007, p. 9.
 
-[^13]: [Clammer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233), 1980, pp. 7—8.
+[^13]: [Clammer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233), 1980, pp. 7–8.
 
 [^14]: [Clammer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233), 1980, p. 23.
 
@@ -225,11 +225,11 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^20]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7858142), 1994.
 
-[^21]: [Freedman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221), 1957, p. 121. Freedman notes that polygamy was common among the rich Chinese without giving a figure whereas Djamour notes that polygamy marriages was noted to be less than 1 percent of Muslim marriages.
+[^21]: [Freedman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221), 1957, p. 121. Freedman notes that polygamy was common among the rich Chinese without giving a figure, whereas Djamour notes that polygamy marriages were less than 1 percent of Muslim marriages.
 
 [^22]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601127-1.2.5)_, 1 Nov 1960, p.1.
 
-[^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad) \[MOC\], 20 July 1972.
+[^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad), 20 Jul 1972.
 
 [^24]: [*Annual Report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1973, p .49.
 
@@ -237,7 +237,7 @@ Yen, C.H. (1981, March). Early Chinese Clan Organizations in Singapore and Malay
 
 [^26]: [*Annual report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1975, p. 49.
 
-[^27]: [Wong &amp; Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746), 2003, pp.11—12.
+[^27]: [Wong &amp; Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12100746), 2003, pp. 11–12.
 
 [^28]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 31.
 
