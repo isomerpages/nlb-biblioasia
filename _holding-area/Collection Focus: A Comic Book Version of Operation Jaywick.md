@@ -6,8 +6,8 @@ description: ""
 #### The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harbour in September 1943, is retold in a comic aimed at boys published in London in 1965.
 By Gautam Hazarika
 
-![](/images/Vol%2019%20Issue%202/Binjai/)
-<div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_1.png)
+<div style="background-color: white;"><i>The Victor Book for Boys: The Commandos at Singapore</i> published in 1965 by D.C. Thomson &amp; Co., Ltd., and John Leng &amp; Co. Ltd.</div>
 
 At 5.15 a.m. on the morning of September 27, 1943 a terrific explosion shook the harbour of Singapore and a big Japanese tanker went up in flames. She was the first of seven ships to blow up at their moorings – victims of Operation Jaywick, a daring sabotage expedition in World War Two carried out by men of Unit Z of the Australian Experimental Station.”
 
