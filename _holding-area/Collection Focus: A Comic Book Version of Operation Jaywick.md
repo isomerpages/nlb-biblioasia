@@ -60,6 +60,9 @@ A plan is hatched to attack a convoy that has docked in the harbour. Six men tra
 
 In the comic, a pair have a narrow escape when they are spotted by a Japanese sailor. However, by pretending to be Malay fishermen, they manage to talk their way out of the situation. According to the account in Silver’s book, while the commandos spotted a man looking out of a porthole, apparently staring in their direction, he did not see them and there was no exchange.[^6]
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_7.png)
+<div style="background-color: white;">After being spotted by a Japanese sailor, the two men pretend to be Malay fishermen. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 12.</i></div>
+
 #### **The Escape**
 
 The mines go off just before dawn on 27 September. While this part of the mission is a success, the men must now rendezvous with the others on the *Krait* to get back to safety.
