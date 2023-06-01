@@ -82,6 +82,9 @@ The comic also says that while on an island waiting to be picked by the *Krait*,
 
 The men are all eventually picked up by the *Krait* and after a few weeks, they arrive safe and sound in Australia. According to the comic, they are given a heroes’ welcome but in reality, there was no such thing: the men simply held a secret celebration among themselves.[^9]
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_11.png)
+<div style="background-color: white;">According to the comic, the men are given a heroes’ welcome upon their return to Australia. In reality, this did not take place. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 16.</i></div>
+
 #### **What Was Left Unsaid**
 
 Apart from getting details wrong and inserting events that did not take place, the comic book also leaves out some critical pieces of information. While Operation Jaywick was successful as a commando operation, civilians in Singapore paid a large price.
