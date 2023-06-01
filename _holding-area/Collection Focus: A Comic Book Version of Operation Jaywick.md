@@ -6,11 +6,8 @@ description: ""
 #### The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harbour in September 1943, is retold in a comic aimed at boys published in London in 1965.
 By Gautam Hazarika
 
-![](/images/Vol%2019%20Issue%202/Binjai/image2.png)
+![](/images/Vol%2019%20Issue%202/Binjai/)
 <div style="background-color: white;">The house as seen from the northeast direction, 2023. In the garden is a wall made of red bricks salvaged from the former Raffles Institution building on Bras Basah Road. <i>Photo by Jimmy Yap.</i></div>
-
-![](/images/Vol%2019%20Issue%202/Binjai/image_1.png)
-<div style="background-color: white;">Northeast elevation drawing of 32 Binjai Park, 1973. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 At 5.15 a.m. on the morning of September 27, 1943 a terrific explosion shook the harbour of Singapore and a big Japanese tanker went up in flames. She was the first of seven ships to blow up at their moorings – victims of Operation Jaywick, a daring sabotage expedition in World War Two carried out by men of Unit Z of the Australian Experimental Station.”
 
@@ -35,3 +32,15 @@ In the comic book, the narrative begins with Lyon informing the men about the de
 As they get closer to Singapore, the crew disguise the ship and themselves to avoid detection. “We’re supposed to be a Jap fishing boat so we must fly the Jap flag and from now on we’re either Japs or natives,” says Lyon in the story. The men applied dark brown cream on themselves to look more Asian. According to Silver, the men also switched out of their uniform into sarong, but this is not mentioned in the comic. Instead, the men are depicted shirtless and wearing only a sarong.3
 
 In the story, a man lets down his guard and tosses overboard an empty can with a label indicating that it contained Australian peaches. He receives a tongue-lashing and the Krait has to turn back to retrieve the can in case the label alerts the Japanese to their presence. This is likely to be a narrative device used to illustrate how the men had to be careful about the trash that they disposed of. According to Silver, the tinned food they had did not have labels on them; instead, the cans had identification numbers. A lookout did accidentally drop a hat and a towel into the sea though, which were retrieved.4
+
+The comic says that after the Krait makes it through the Lombok Strait, it sails past a Japanese base during broad daylight, which means they are likely to be spotted. Lyon instructs the crew to kneel and bow towards the mountain behind the camp as it is considered sacred by the locals. The ruse works, and although spotted, the Krait is presumed to be a Japanese fishing vessel with a native crew. According to Silver, while Lyon did know the area well, she has not come across any mention of such an incident.5
+
+#### **Preparation**
+
+The men eventually reach an island 30 miles (48 km) from Singapore and prepare for their mission. They split up, with the saboteurs paddling in canoes to an island closer to Singapore and are almost detected by a Japanese patrol boat. On the island, they exercise regularly to keep fit while waiting for the plan to attack Japanese ships at Keppel Harbour. 
+
+#### **Mines Are Attached**
+
+A plan is hatched to attack a convoy that has docked in the harbour. Six men travelling in pairs paddle successfully into the harbour and begin attaching mines to ships.
+
+In the comic, a pair have a narrow escape when they are spotted by a Japanese sailor. However, by pretending to be Malay fishermen, they manage to talk their way out of the situation. According to the account in Silver’s book, while the commandos spotted a man looking out of a porthole, apparently staring in their direction, he did not see them and there was no exchange.6
