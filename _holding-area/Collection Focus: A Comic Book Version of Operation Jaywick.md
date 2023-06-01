@@ -77,6 +77,9 @@ According to the comic book, escaping from Singapore was no easy task. The men f
 
 The comic also says that while on an island waiting to be picked by the *Krait*, the men run out of provisions and have to buy food from the local Malays using gold coins. This story has some basis in truth. According to Silver, while waiting for the *Krait*, an old Malay man traded his fresh fish for their tobacco and promised to keep them supplied with vegetables and fish.[^7] But they would not have used gold coins as these would have drawn too much attention.[^8]
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_10.png)
+<div style="background-color: white;">Lyon buys food from local Malays using gold coins. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 16.</i></div>
+
 The men are all eventually picked up by the *Krait* and after a few weeks, they arrive safe and sound in Australia. According to the comic, they are given a heroes’ welcome but in reality, there was no such thing: the men simply held a secret celebration among themselves.[^9]
 
 #### **What Was Left Unsaid**
