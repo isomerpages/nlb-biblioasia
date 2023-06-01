@@ -96,6 +96,6 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 
 [^11]: Wong Heng, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published January 2021; Bonny Tan, “[Elizabeth Choy](https://eresources.nlb.gov.sg/infopedia/articles/SIP_816_2005-01-25.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 June 2016.
 
-[^12]: Janice Loo, “They Died for All Free Men: Stories from Kranji War Cemetery,” *BiblioAsia* 18, no. 2 (July–September 2022), 18–25.
+[^12]: Janice Loo, “[They Died for All Free Men: Stories from Kranji War Cemetery](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/),” *BiblioAsia* 18, no. 2 (July–September 2022), 18–25.
 
 [^13]: Andre Yeo and Kelvin Chan, “Commando Attack at Keppel Harbour,” *New Paper*, 27 September 2014, 14–15. (From NewspaperSG)
