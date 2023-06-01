@@ -47,6 +47,9 @@ In the story, a man lets down his guard and tosses overboard an empty can with a
 
 The comic says that after the *Krait* makes it through the Lombok Strait, it sails past a Japanese base during broad daylight, which means they are likely to be spotted. Lyon instructs the crew to kneel and bow towards the mountain behind the camp as it is considered sacred by the locals. The ruse works, and although spotted, the *Krait* is presumed to be a Japanese fishing vessel with a native crew. According to Silver, while Lyon did know the area well, she has not come across any mention of such an incident.[^5]
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_6.png)
+<div style="background-color: white;">As the <i>Krait</i> sails past a Japanese base in broad daylight, Lyon instructs the men to kneel and bow towards the mountain behind the camp as it is considered sacred by the locals. <i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 8.</i></div>
+
 #### **Preparation**
 
 The men eventually reach an island 30 miles (48 km) from Singapore and prepare for their mission. They split up, with the saboteurs paddling in canoes to an island closer to Singapore and are almost detected by a Japanese patrol boat. On the island, they exercise regularly to keep fit while waiting for the plan to attack Japanese ships at Keppel Harbour. 
