@@ -106,10 +106,13 @@ Lyon subsequently died in a similar operation, which took place a year later on 
 
 On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th anniversary of Operation Jaywick. War veterans from Singapore, military personnel from other countries, students and members of the public, along with the Australian and British high commissioners, attended the event.[^13] As for the fate of the *Krait*, the vessel is currently berthed at the Australia National Maritime Museum in Sydney, and operated on special occasions or displayed at special events.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"></div>
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gautam_hazarika.png">
 	<b>Gautam Hazarika</b> grew up in India but moved to Singapore more than 20 years ago. A former banker, Gautam now focuses on his passion, history, and has a collection of books, maps, prints and paintings. He donated <i>The Victor Book for Boys: The Commandos at Singapore</i> to the National Library Board in April 2023.</div>
+	
 	
 #### **NOTES**
 
