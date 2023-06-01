@@ -86,7 +86,7 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 
 [^6]: Silver, [*Deadly Secrets*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726463), 165.
 
-[^7]: Silver, *Deadly Secrets*, 100.
+[^7]: Silver, [*Deadly Secrets*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726463), 100.
 
 [^8]: Silver, email correspondence, 5 April 2023. 
 
