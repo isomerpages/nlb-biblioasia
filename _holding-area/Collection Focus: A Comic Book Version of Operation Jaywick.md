@@ -65,5 +65,13 @@ Out of the 57 internees and civilians who were taken away, interrogated and tort
 
 Lyon subsequently died in a similar operation, which took place a year later on 10 October 1944. Operation Rimau failed as the men were detected before the raid began. Lyon was killed in action, and everyone with him on that mission also died. They were either killed while trying to escape, perished from their injuries while in captivity, or were executed by the Japanese. Lyon’s remains are buried at Kranji War Cemetery in Singapore (plot 27, row A, headstone 14). Most of the other men involved in the mission are also buried in Kranji, though six still lie in unmarked graves in the Riau Islands.12
 
-On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th anniversary of Operation Jaywick. War veterans from Singapore, military personnel from other countries, students and members of the public, along with the Australian and British high commissioners, attended the event.13 As for the fate of the Krait, the vessel is currently berthed at the Australia National Maritime Museum in Sydney, and operated on special occasions or displayed at special events. 
+On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th anniversary of Operation Jaywick. War veterans from Singapore, military personnel from other countries, students and members of the public, along with the Australian and British high commissioners, attended the event.13 As for the fate of the Krait, the vessel is currently berthed at the Australia National Maritime Museum in Sydney, and operated on special occasions or displayed at special events.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/lee_peng_hui.png">
+	<b>Dr Lee Peng Hui</b> is the son of Lee Kip Lin. He is an independent researcher and cultural commentator, who grew up surrounded by Singapore’s pioneer modernist architects. He has been observing the architectural scene in Singapore and abroad since the late 20th century.</div>
+	
+#### **NOTES**
+
+[^1]: Bonny Tan, “[Lee Kip Lin: Kampong Boy Conservateur](https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/lee-kip-lin),” *BiblioAsia* 10, no. 3 (October–December 2014), 46–51; Joanna H.S. Tan, “Lee Kip Lin,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
