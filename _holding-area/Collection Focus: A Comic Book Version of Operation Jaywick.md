@@ -13,7 +13,7 @@ At 5.15 a.m. on the morning of September 27, 1943 a terrific explosion shook the
 
 This is the dramatic introduction to “The Cruise of the Krait” which retells, in comic book form, the story of the real-life Operation Jaywick, a clandestine attack by British and Australian commandos and sailors on Japanese ships in Singapore’s Keppel Harbour.
 
-The story, which spans 12 pages, is one of 14 stories in The Victor Book for Boys: The Commandos at Singapore.[^1] Published in London in 1965 by D.C. Thomson &amp; Co., Ltd., and John Leng &amp; Co. Ltd., the hardcover book measures 19.3 cm by 27.6 cm. (The book is 124 pages long, though because the publishers counts the cover as page 1, the page numbers run to 128). 
+The story, which spans 12 pages, is one of 14 stories in *The Victor Book for Boys: The Commandos at Singapore*.[^1] Published in London in 1965 by D.C. Thomson &amp; Co., Ltd., and John Leng &amp; Co. Ltd., the hardcover book measures 19.3 cm by 27.6 cm. (The book is 124 pages long, though because the publishers counts the cover as page 1, the page numbers run to 128). 
 
 #### **Operation Jaywick**
 
