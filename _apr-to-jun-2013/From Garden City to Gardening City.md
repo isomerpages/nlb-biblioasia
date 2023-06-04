@@ -80,25 +80,17 @@ The government soon weighed in favourably on this, and even invited public feedb
 
 As Leong noted, the Rail Corridor development “signals the Government’s readiness to collaborate and engage civil society groups at a deeper level”.[^26] Unlike Sungei Buloh and Chek Jawa, the government consulted and engaged citizens from early on in the formulation of the future of the Rail Corridor, even including them as part of discussions in an informal work group that became a formal partnership. As Tan said in the Budget debates last year, this was an example of “cocreation”[^27], where the government was empowering citizens to participate in the making of the “City in a Garden”.
 
-In a sense, this has allowed citizens to become “gardeners” of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it. In this area, citizens have been able to make a significant impact on Singapore’s policy-making process.
+In a sense, this has allowed citizens to become “gardeners” of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it. In this area, citizens have been able to make a significant impact on Singapore’s policymaking process.
 
 It is also interesting to note that most calls by citizens have been for the preservation of existing nature as opposed to the building of gardens. It is perhaps a reflection that at its core, the government still sees nature as a means to soften the city landscape as opposed to an end in itself. It holds a strong belief in “constructing” a clean and green environment, as opposed to giving nature the space to grow. This is also seen in the city’s increasing lack of open green spaces. The only time they exist are when buildings are demolished, creating empty lands that exist until new construction begins on them.
 
-Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices — from citizens, non-governmental organisations and even corporations — that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
+Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices – from citizens, nongovernmental organisations and even corporations – that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
 
-<center>  Citizens have become<br>
- of this “City in<br>
- a Garden”, where they are<br>
- not passive consumers of a<br>
- landscape defined by someone<br>
- landscape defined by someone<br>
- shaping it.<br></center>
+&gt; Citizens have become “gardeners” of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it.
 
-
-Citizens have become ’gardeners’ of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it.
 
 <div>
-<b>Justin Zhuang</b> writes and researches on Singapore’s visual culture, heritage and spaces under the auspices of “In Plain Words” (http://inplainwords.sg)
+<b>Justin Zhuang</b> writes about and researches Singapore’s visual culture, heritage and spaces under the auspices of In Plain Words (http://inplainwords.sg)
 </div>
 
 
@@ -138,7 +130,7 @@ Pang, P. (2003, December 3). [Green tax breaks](http://eresources.nlb.gov.sg/new
 
 Quek, T. (2010, January 4). [How the idea of a city nature trail came about](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100124-1.2.8.17). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
 
-Saifulbahri Ismail. (2012, June 28). Decision to build Gardens By The Bay not an easy one: PM Lee. _ChannelNews Asia_. Retrieved from ChannelNews Asia website.
+Saifulbahri Ismail. (2012, June 28). Decision to build Gardens by the Bay not an easy one: PM Lee. _ChannelNews Asia_. Retrieved from ChannelNews Asia website.
 
 Singapore. Parliament.&nbsp;[_Parliamentary Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 28). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
 
@@ -148,13 +140,13 @@ Tai, J. (2012, December 10). [A vote to capture the National butterfly](http://e
 
 Tan, A. (2011, July 11). [Informal group to discuss railway land use](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
 
-Tan, C-J. (2012, March 6). _Celebrating &amp; co-creating a rooted community_. Retrieved from Ministry of National Development website.
+Tan, C.-J. (2012, March 6). _Celebrating &amp; co-creating a rooted community_. Retrieved from Ministry of National Development website.
 
 Teo, W.G., &amp; Toh, Y.C. (2011, December 30). [Campaign for a green corridor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111230-1.2.21.5.1.4). _The Straits Times_, p. 20. Retrieved from NewspaperSG.
 
 [Three Ministers lead the tree planters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640309-1.2.35). (1964, March 9). _The Straits Times_, p. 5. Retrieved from NewspaperSG.
 
-Urban Redevelopment Authority (Singapore). (2012, May 12). URA establishes rail corridor partnership to explore and promote community activities along rail corridor \[Press Release\]. Retrieved from URA website.
+Urban Redevelopment Authority (Singapore). (2012, May 12). URA establishes rail corridor partnership to explore and promote community activities along rail corridor \[Press release\]. Retrieved from URA website.
 
 Wee, C.F. (2012, March 18). [Garden scheme blooms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120318-1.2.56.1.7). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
@@ -208,7 +200,7 @@ Wee, Y.C., &amp; Hale, R. (2008). The Nature Society (Singapore) and the struggl
 
 [^22]: [Quek](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100124-1.2.8.17), 24 Jan 2010, p. 15.
 
-[^23]: [Tai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121210-1.2.26.5.1), 10 Dec 2012, pp. 4—5.
+[^23]: [Tai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121210-1.2.26.5.1), 10 Dec 2012, pp. 4–5.
 
 [^24]:. [Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9), 10 Jul 2011, p. 15.
 
