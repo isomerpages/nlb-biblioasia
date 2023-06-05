@@ -337,7 +337,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^66]:&nbsp;Quoted in [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 168.&nbsp;
 
-[^67]: The ’Chinese, Malay, Indian, Other’ racial nomenclature was introduced in 1965, largely borrowing from British census taking. The Jewish community, along with other minorities of minorities, were reductively classed as ’Other’.
+[^67]: The "Chinese, Malay, Indian, Other" racial nomenclature was introduced in 1965, largely borrowing from British census taking. The Jewish community, along with other minorities of minorities, were reductively classed as "Other".
 
 [^68]: [Raman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202838673), 1958, p. 80.
 
