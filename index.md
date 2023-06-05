@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/
-      button: "Globetrotting Mums: Then and Now"
+      url: vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
+      button: Khoo hooi hye, lim bong soo and the heyday of malayan tennis
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
+      background: /images/Vol 19 Issue 1/Tennis/Hero_img_tennis.png
   - infopic:
       title: "32 Binjai Park: The Modernist Home of an Architect"
       subtitle: Places and Buildings
