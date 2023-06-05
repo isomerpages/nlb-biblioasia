@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Tennis/Hero_img_tennis.png
+      background: /images/Vol 19 Issue 1/Tennis/tennis_hero_img.jpg
   - infopic:
       title: "32 Binjai Park: The Modernist Home of an Architect"
       subtitle: Places and Buildings
