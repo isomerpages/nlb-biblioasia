@@ -57,6 +57,9 @@ The comic says that after the *Krait* makes it through the Lombok Strait, it sai
 
 The men eventually reach an island 30 miles (48 km) from Singapore and prepare for their mission. They split up, with the saboteurs paddling in canoes to an island closer to Singapore and are almost detected by a Japanese patrol boat. On the island, they exercise regularly to keep fit while waiting for the plan to attack Japanese ships at Keppel Harbour. 
 
+![](/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_14.png)
+<div style="background-color: white;">The men exercising to keep fit.&nbsp;<i>Image reproduced from The Victor Book for Boys: The Commandos at Singapore, p. 8.</i></div>
+
 #### **Mines Are Attached**
 
 A plan is hatched to attack a convoy that has docked in the harbour. Six men travelling in pairs paddle successfully into the harbour and begin attaching mines to ships.
