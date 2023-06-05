@@ -5,56 +5,54 @@ description: The typically onion-shaped Indo-Saracenic domes that crown the
   city’s mosques are a late 1920s introduction to the Singapore’s architectural
   landscape.
 ---
-#### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late 1920s introduction to the Singapore’s architectural landscape.
+#### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late-1920s introduction to Singapore’s architectural landscape.
 
 
 <img style="width:70%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Sultan%20Mosque%20shophouses1.jpg">
- <div style="background-color: white;">A contrasting scale: Sultan Mosque towering over the shophouses of Kampong Glam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
+ <div style="background-color: white;">Contrasting scale: Sultan Mosque towering over the shophouses of Kampong Gelam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
 
 
-Domes are typical features of Singapore mosques today. However, this was not always the case. In fact, domes were introduced into Southeast Asian mosque architecture only in the 19th century.[^1] This trend can be observed in Singapore and within the wider Malayan-Indonesian mosque landscape. This article will discuss the proliferation of domes on mosques in Singapore by considering how the IndoSaracenic dome became an “invented tradition” as a typical mosque feature on 
-the island beginning with the construction 
-of the Sultan Mosque in the late 1920s.[^2]
+Domes are typical features of Singapore mosques today. However, this was not always the case. In fact, domes were introduced into Southeast Asian mosque architecture only in the 19th century.[^1] This trend can be observed in Singapore and within the wider Malayan-Indonesian mosque landscape. This article will discuss the proliferation of domes on mosques in Singapore by considering how the Indo-Saracenic dome became an “invented tradition” as a typical mosque feature on the island beginning with the construction of the Sultan Mosque in the late 1920s.[^2]
 
-The present Sultan Mosque in Kampong Glam was not the first mosque on the site. Its stylistic contrast with the previous 19thcentury mosque that it replaced reflects the changing trends in mosque architecture in Singapore. Instead of the typical foursquare-plan mosque with a multi-tiered pyramidal roof that typified traditional mosque architecture in maritime Southeast Asia, the Sultan Mosque was commissioned in the Indo-Saracenic style characterised by domes and arches.
+The present Sultan Mosque in Kampong Gelam was not the first mosque on the site. Its stylistic contrast with the previous 19th-century mosque that it replaced reflects the changing trends in mosque architecture in Singapore. Instead of the typical four-square-plan mosque with a multitiered pyramidal roof that typified traditional mosque architecture in maritime Southeast Asia, Sultan Mosque was commissioned in the Indo-Saracenic style characterised by domes and arches.
 
-The most distinctive feature of the Indo-Saracenic style is its dome. This type of dome has a distinctive ogee profile and is sometimes referred to as an “onion dome.” Over time, the Indo-Saracenic dome was abstracted from the repertoire of Indo-Saracenic features and adapted to local mosques. The dome eventually turned into an identity symbol for mosques in Singapore.
+The most distinctive feature of the Indo-Saracenic style is its dome. This type of dome has a distinctive ogee profile and is sometimes referred to as an “onion dome”. Over time, the Indo-Saracenic dome was abstracted from the repertoire of Indo-Saracenic features and adapted to local mosques. The dome eventually turned into an identity symbol for mosques in Singapore.
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/exuberant%20roof%20decoration%20of%20the%20Sultan%20Mosque.jpg">
- <div style="background-color: white;">The exuberant roof decoration of the Sultan Mosque, rising above the shophouses in Kampong Glam. <i>STPB Collection, courtesy of the National Archives of Singapore.</i></div>
+ <div style="background-color: white;">The exuberant roof decoration of the Sultan Mosque, rising above shophouses in Kampong Gelam. <i>STPB Collection, courtesy of the National Archives of Singapore.</i></div>
 	
-The Indo-Saracenic style is closely associated with British imperialism. The British created the Indo-Saracenic style in 19th century India, by combining Western architectural ideas with what they thought were the most representative features of the Hindu and Islamic architecture of India. The word “Saracenic” was used in a broad sense to denote “Islamic,” while “Indo” morphed from the word “Hindu.”[^3] In Singapore, the decision to build a mosque in the Indo-Saracenic style in the 1920s raises questions about how this style was viewed by the local mosque trustees. Viewed through the theoretical lens of post-colonial criticism, the Sultan Mosque becomes another product of the imperial project. However, a consideration of the details surrounding the commission of the design reveals another perspective.
+The Indo-Saracenic style is closely associated with British imperialism. The British created the Indo-Saracenic style in 19th-century India by combining Western architectural ideas with what they thought were the most representative features of the Hindu and Islamic architecture of India. The word “Saracenic” was used in a broad sense to denote “Islamic”, while “Indo” morphed from the word “Hindu”.[^3] In Singapore, the decision to build a mosque in the Indo-Saracenic style in the 1920s raises questions about how this style was viewed by local mosque trustees. Viewed through the theoretical lens of postcolonial criticism, the Sultan Mosque becomes another product of the imperial project. However, a consideration of the details surrounding the commission of the design reveals another perspective.
 
-This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s pre-eminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
+This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s preeminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
 
 #### **The Indo-Saracenic Style**
 
-The choice of the Indo-Saracenic style for the Sultan Mosque may be viewed as a culmination of a number of factors beginning with the birth of the style in British India, notions of modernity and Islamic aesthetics, and, last but not least, British colonialism in Malaya.
+The choice of Indo-Saracenic style for the Sultan Mosque may be viewed as a culmination of a number of factors beginning with the birth of the style in British India, notions of modernity and Islamic aesthetics, and, last but not least, British colonialism in Malaya.
 
-The Indo-Saracenic architectural style flourished in India from the last third of the 19th century to the early 20th century under British patronage.[^4] British imperialists in India regarded the Indo-Saracenic style as an appropriate expression for public buildings that would help legitimise British rule by presenting an image of continuity with the past.[^5] The style combined elements of Hindu and Indian-Islamic architecture with Western architecture. Indian-Islamic architecture was, in turn, derived from a synthesis of Central Asian and Persian features with indigenous Indian architectural features. For the British Raj, the Indo-Saracenic style was associated above all with the grandeur of the Mughal Empire, whose majestic palaces and mausoleums were much admired by the British.[^6]
+The Indo-Saracenic architectural style flourished in India from the last third of the 19th century to the early 20th century under British patronage.[^4] British imperialists in India regarded the Indo-Saracenic style as an appropriate expression for public buildings that would help legitimise British rule by presenting an image of continuity with the past.[^5] The style combined elements of Hindu and Indian-Islamic architecture with Western architecture. Indian-Islamic architecture was, in turn, derived from a synthesis of Central Asian and Persian features with indigenous Indian architectural features. For the British Raj, the Indo-Saracenic style was associated above all with the grandeur of the Mughal empire, whose majestic palaces and mausoleums were much admired by the British.[^6]
 
-For all their apparent references to the traditional architecture of India, IndoSaracenic buildings were in fact constructed with the most up-to-date European structural engineering, creating buildings that were at once modern and historical, Asian and Western.[^7] In British India, the Indo-Saracenic style found its way into all sorts of government buildings and public buildings, such as museums, railway stations and educational institutions. Thus, the Indo-Saracenic style was also associated with progressive institutions and, by extension with modernity.[^8]
+For all their apparent references to the traditional architecture of India, Indo-Saracenic buildings were in fact constructed with the most up-to-date European structural engineering, creating buildings that were at once modern and historical, Asian and Western.[^7] In British India, the Indo-Saracenic style found its way into all sorts of government buildings and public buildings such as museums, railway stations and educational institutions. Thus, the Indo-Saracenic style was also associated with progressive institutions and, by extension, modernity.[^8]
 
-The Indo-Saracenic style was introduced into Malaya by the British in the late 19th century, with the view that such a style was appropriate for a region with a Muslim majority. However well intentioned, this Islamic aesthetic was misplaced because the Indo-Saracenic architectural style had no relevance or precedence in the Malayan architectural tradition.[^9] The cluster of public buildings erected by colonial architects for the British government that still stands around the Dataran Merdeka in Kuala Lumpur today is representative of the Indo-Saracenic style in early 20th-century Malaya. Soon, Indo-Saracenic elements began to proliferate in Malaya as the local architectural environment adapted the style to various types of buildings, ranging from local mosques to commercial buildings. An example of a Singapore commercial building designed in the Indo-Saracenic style is the now demolished Alkaff Arcade, designed by David McLeod Craik and opened in 1909, on Collyer Quay.
+The British introduced the Indo-Saracenic style into Malaya in the late 19th century, with the view that such a style was appropriate for a region with a Muslim majority. However well intentioned, this Islamic aesthetic was misplaced because the Indo-Saracenic architectural style had no relevance or precedence in the Malayan architectural tradition.[^9] The cluster of public buildings erected by colonial architects for the British government still standing around the Dataran Merdeka in Kuala Lumpur today is representative of the Indo-Saracenic style in early 20th-century Malaya. Soon, Indo-Saracenic elements began to proliferate in Malaya as the local architectural environment adapted the style to various types of buildings, ranging from local mosques to commercial buildings. An example of a Singapore commercial building designed in the Indo-Saracenic style is the now-demolished Alkaff Arcade, designed by David McLeod Craik and opened in 1909 at Collyer Quay.
 
-While the Sultan Mosque was certainly not the first mosque in Singapore with Indo-Saracenic features, it was the first and perhaps only mosque in Singapore to be conceived in its entirety in this style. A mosque that predates the Sultan Mosque, the 1907 Abdul Gafoor Mosque, contains some architectural features that could be labeled Indo-Saracenic, such as its highly ornamental roof terrace of decorative minarets and a central octagonal turret capped by a dome. However, it falls short of being truly “Indo-Saracenic” because of the lack of a full-profile and monumental dome. This is further compromised by the presence of heavily-moulded frieze, capitals and plasters that evoke (Western) classical architecture. This is a fusion building, with an eclectic mix of decorative features taken from both Western and IndianIslamic architecture. However, it might be seen as a first step towards the adoption of Indo-Saracenic architecture by the local Muslim community.
+While the Sultan Mosque was certainly not the first mosque in Singapore with Indo-Saracenic features, it was the first and perhaps only mosque in Singapore to be conceived in this style in its entirety. A mosque that predates the Sultan Mosque, the 1907 Abdul Gafoor Mosque, contains some architectural features that could be labelled Indo-Saracenic, such as its highly ornamental roof terrace of decorative minarets and a central octagonal turret capped by a dome. However, it falls short of being truly “Indo-Saracenic” because of the lack of a full-profile and monumental dome. This is further compromised by the presence of heavily moulded frieze, capitals and plasters that evoke (Western) classical architecture. This is a fusion building, with an eclectic mix of decorative features taken from both Western and Indian-Islamic architecture. However, it might be seen as a first step towards the adoption of Indo-Saracenic architecture by the local Muslim community.
 
 #### **A New Architectural Style for Mosques**
 
-An undated photo in the Sultan Mosque’s collection, probably taken in the early 20th century, shows a four-tier pyramidal hip roof superstructure supported by a whitewashed square pillar, in a compound enclosed by white walls. This is the former Sultan Mosque, which was purported to have been completed by 1824 under the patronage of Sultan Hussein Shah.[^10] Sir Stamford Raffles promised the Sultan $3,000 towards its construction.[^11] The British had established a foothold in Singapore in 1819 through the East India Company, and Singapore was in its early stages of expansion as a British trading post. The building was of brick construction, but its architectural form still adhered to traditional Southeast Asian timber mosque architecture. The oldest existing mosque of this type in Malaya is the Kampung Laut Mosque in Kelantan, claimed by some to have been built in the 16th century.[^12]
+An undated photo in the Sultan Mosque’s collection, probably taken in the early 20th century, shows a four-tier pyramidal hip roof superstructure supported by a whitewashed square pillar, in a compound enclosed by white walls. This is the former Sultan Mosque, which was purported to have been completed by 1824 under the patronage of Sultan Hussein Shah.[^10] Stamford Raffles had promised the Sultan $3,000 towards its construction.[^11] The British had established a foothold in Singapore in 1819 through the East India Company, and Singapore was in its early stages of expansion as a British trading post. The building was of brick construction, but its architectural form still adhered to traditional Southeast Asian timber mosque architecture. The oldest existing mosque of this type in Malaya is the Kampung Laut Mosque in Kelantan, claimed by some to have been built in the 16th century.[^12]
 
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
 <div style="background-color: white;">
-An undated photograph of the Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i>
+An undated photograph of Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i>
 </div>	
 
 
-Although the original Sultan Mosque functioned as the royal mosque of the sultan in early Singapore, control of the mosque eventually passed from the sultan to local Muslim community leaders. In 1879, Sultan Alauddin Alam Shah, also known as Tengku Alam, the grandson of Sultan Hussein Shah, turned the administration of the mosque over to a five-member council.[^13] A Board of Trustees was appointed after 1914 to oversee the mosque. The 12-member trustee system ensured representation from various ethnic communities across the board by appointing two members from each major Muslim community in Singapore to its Board of Trustees, which were the Arab, Bugis, Javanese, Malay, Northern Indian and Tamil/Southern Indian communities.[^14] This was the system of governance in place when the construction of a new mosque was mooted in 1924, and Denis Santry was commissioned to design the new mosque.
+Although the original Sultan Mosque functioned as the royal mosque of the sultan in early Singapore, control of the mosque eventually passed from the sultan to local Muslim community leaders. In 1879, Sultan Alauddin Alam Shah, also known as Tengku Alam, the grandson of Sultan Hussein Shah, turned the administration of the mosque over to a five-member council.[^13] A board of trustees was appointed after 1914 to oversee the mosque. The 12-member trustee system ensured representation from various ethnic communities across the board by appointing two members from each major Muslim community in Singapore – Arab, Bugis, Javanese, Malay, North Indian and Tamil/South Indian communities.[^14] This was the system of governance in place when the construction of a new mosque was mooted in 1924, and Denis Santry was commissioned to design the new mosque.
 
-Santry may have modeled his design after the Taj Mahal.[^15] This Mughal mausoleum was greatly admired by British proponents of the Indo-Saracenic style.[^16] The four minarets at the corners of the Taj Mahal complex have been replicated at the four corners of the roof of the Sultan Mosque. The shafts of the minarets follow the same gentle tapering outline and are similarly topped with *chhatris*.
+Santry may have modelled his design after the Taj Mahal[^15] – the Mughal mausoleum which was greatly admired by British proponents of the Indo-Saracenic style.[^16] The four minarets at the corners of the Taj Mahal complex have been replicated at the four corners of the roof of the Sultan Mosque. The shafts of the minarets follow the same gentle tapering outline and are similarly topped with *chhatris*.
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
 <div style="background-color: white;">
@@ -125,7 +123,7 @@ This article highlights the multilayered meanings that can be embodied by archit
 The Sultan Mosque challenges such narratives and assumptions by showing that the British-Indian Indo-Saracenic style was embraced by local Muslim community leaders in Singapore for their own reasons and purposes. Their agency led to the incorporation of domes into the local idea of what a normal, modern mosque should look like, and thus created a new tradition in local architecture.
 
 <div>
-<b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural 
+<b>Ten Leu-Jiun</b> was a&nbsp;Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural 
 exchange in art and architecture.</div>
 
 #### **REFERENCES**
@@ -162,11 +160,11 @@ Cannadine, D. (2002). [_Ornamentalism: How the British saw their empire_](https:
 
 Chattopadhyay, S. (2005). [_Representing Calcutta: Modernity, nationalism, and the colonial uncanny_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12579180). London: Routledge. (Call no.: RSING 954.147 CHA)
 
-Frishman, M & Khan, H-U (Eds.). [_The mosque: History, architectural development & regional diversity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
+Frishman, M &amp; Khan, H-U (Eds.). [_The mosque: History, architectural development &amp; regional diversity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
 
 Hadijah Rahmat., et al (Eds.). (2007). [_The last kampong mosque in Singapore: The extraordinary story and legacy of Sembawang_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13006442). Singapore: Masjid Petempatan Melayu Sembawang. (Call no.: RSING 297.355957 LAS)
 
-Hobsbawn, E., & Ranger, T. (Eds.) (1983). _The invention of tradition_. Cambridge: Cambridge University Press. (Not available in NLB holdings)
+Hobsbawn, E., &amp; Ranger, T. (Eds.) (1983). _The invention of tradition_. Cambridge: Cambridge University Press. (Not available in NLB holdings)
 
 Lee, E. (1990). [_Historic buildings of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572905). Singapore: Preservation of Monuments Board. (Call no.: RSING 720.95957 LEE)
 
@@ -174,7 +172,7 @@ Masjid Sultan (Singapore). (1968). [_Sejarah ringkas Masjid Sultan Singapura_](h
 
 Metcalf, T.R. (1989). [_An imperial vision: Indian architecture and Britain’s Raj_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949). London: Faber and Faber. (Call no.: RART 722.44 MET)
 
-Metcalf, T.R.  (1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
+Metcalf, T.R. &nbsp;(1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
 
 Mohamad Tajuddin Haji Mohamad Rasdi. (2000). [_The architectural heritage of the malay world: The traditional mosque_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10112632). Skudai, Johor Darul Ta’zim: Penerbit Universiti Teknologi Malaysia. (Call no.: RSEA 726.209595 MOH)
 
@@ -185,7 +183,7 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^1]: [O’Neill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339), 1994, p. 225.
 
-[^2]: Hobsbawn & Ranger, 1983.
+[^2]: Hobsbawn &amp; Ranger, 1983.
 
 [^3]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, pp. 77, 84.
 
@@ -250,19 +248,3 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 [^33]:. Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
 
 [^34]: [Chattopadhyay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12579180), 2005, p. 9.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
