@@ -7,17 +7,18 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba9-2.jpg)
 
-**Director's Column**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Director's Note</a>
 
-**Message from IFLA President-elect**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Message from IFLA President-Elect</a>
 
-**Libraries for Life**<br>[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Libraries for Life</a><br>Libraries have been gateways of discovery and learning. Find out how they can continue to be relevant and meaningful to people with competing needs and shrinking budgets. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
 
-**Libraries: A Force to Transform Societies**<br>
-More than just repositories of knowledge, libraries are spaces of innovation and collaboration, with the power to change society. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Libraries: A Force to Transform Societies</a><br>More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
 
-**建设覆盖城乡的数字图书馆服务体系**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">建设覆盖城乡的数字图书馆服务体系</a><br>
 China: Planning and Implementation of the Digital Library Promotion Project. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_ChinaPlanning.pdf)
+
+
 
 **Books that Shaped the World**<br>
 The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_BooksWorld.pdf)
