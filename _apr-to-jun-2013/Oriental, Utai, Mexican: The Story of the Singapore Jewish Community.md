@@ -6,33 +6,33 @@ description: "Inscribed in the urban landscape of Singapore, through buildings
   story of an oft-overlooked group in Singapore’s history: the Jewish
   community."
 ---
-#### Inscribed in the urban landscape of Singapore, through buildings such as David Elias Building and the Abdullah Shooker Welfare Home, is the story of an oft-overlooked group in Singapore’s history: the Jewish community.
+#### Inscribed in the urban landscape of Singapore, through buildings such as the David Elias Building and the Abdullah Shooker Welfare Home, is the story of an oft-overlooked group in Singapore’s history: the Jewish community.
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Maghain%20Aboth%20Synagogue.jpg">
  <div style="background-color: white;">
-Maghain Aboth Synagogue at Waterloo Street. <i>Ronni Pinsler Collection. Courtesy of National Archives of Singapore.</i></div> 
+The Maghain Aboth Synagogue on Waterloo Street. <i>Ronni Pinsler Collection. Courtesy of National Archives of Singapore.</i></div> 
 
 
-According to one story, the name Jurong was inspired by local Jewish magnate, Joe David, whose relative operated an open-air cinema in the area after World War II. Mr David was commonly identified as “Orang Jew” (Jewish man), a name that morphed into “Jew-Orang”, and then shortened to “Jurong”.[^1] This urban legend may be patently untrue, but it remains a romantic and telling story.[^2] The fable goes to show the small Jewish community’s outsized cultural, political, and mercantile contributions to Singapore since the early 19th century, and yet, how distinctly their ethnicity has always set them apart in Singaporeans’ minds.
+According to one story, the name Jurong was inspired by local Jewish magnate, Joe David, whose relative operated an open-air cinema in the area after World War II. David was commonly identified as “Orang Jew” (Jewish man), a name that morphed into “Jew-Orang”, and then shortened to “Jurong”.[^1] This urban legend may be patently untrue, but it remains a romantic and telling story.[^2] The fable shows the small Jewish community’s outsized cultural, political and mercantile contributions to Singapore since the early 19th century, and yet how distinctly their ethnicity has always set them apart in Singaporeans’ minds.
 
 #### **A Rich Homogeneity in Opium**
 
-In 1830, the first census of Singapore recorded “\[n\]ine traders of the Jewish faith”, all male, living in a British colony of over 16,500 residents.[^3] In all likelihood, they were Baghdadi Jews, also known as Sephardis — arriving from Iraq via Calcutta. Part of the Baghdadi Trade Diaspora, these pioneers constituted a handful of the many Jewish merchants who, from the late 18th century, escaped Ottoman governor Daud Pasha’s persecution to trade in the British East India Company’s far-flung outposts.[^4]
+In 1830, the first census of Singapore recorded “\[n\]ine traders of the Jewish faith”, all male, living in a British colony of over 16,500 residents.[^3] In all likelihood, they were Baghdadi Jews, also known as Sephardis, who had arrived from Iraq via Calcutta. Part of the Baghdadi trade diaspora, these pioneers constituted a handful of the many Jewish merchants who, from the late 18th century, escaped Ottoman governor Daud Pasha’s persecution to trade in the British East India Company’s far-flung outposts.[^4]
 
-Buoyed by Singapore’s new status as the Straits Settlement capital, these Jewish founding fathers thrived from the legalised opium trade, which earned a majority of the funds that went towards Singapore’s operation.[^5] From their godowns at Boat Quay and Collyer Quay, they sent Indian opium onwards to Hong Kong and Shanghai.[^6]
+Buoyed by Singapore’s new status as the Straits Settlements capital, these Jewish founding fathers thrived from the legalised opium trade, a majority of its revenue going towards Singapore’s operation.[^5] From their godowns at Boat Quay and Collyer Quay, they sent Indian opium onwards to Hong Kong and Shanghai.[^6]
 
-Community historian Eze Nathan’s *The History of Jews in Singapore* provides an important portal into their lives. Like his father, they initially spoke Arabic or Hindustani and wrote in Hebrew. Their style of dress was Arabic, they smoked the *hookah* (an Oriental tobacco pipe), and without formal accountancy training, wrote business accounts on their shirt cuffs.[^7]
+Community historian Eze Nathan’s *The History of Jews in Singapore* provides an important portal into their lives. Like his father, they initially spoke Arabic or Hindustani and wrote in Hebrew. Their style of dress was Arabic, they smoked the *hookah* (a tobacco pipe), and without formal accountancy training, wrote business accounts on their shirt cuffs.[^7]
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Jewish%20community/Jewish%20wedding.jpg">
- <div style="background-color: white;">Jewish wedding group photograph from 1954. <i>Courtesy of the National Archives of Singapore.</i></div>
+ <div style="background-color: white;">A Jewish wedding, 1954. <i>Courtesy of the National Archives of Singapore.</i></div>
  
  
-Even by then, Singapore was already a multi-ethnic entrepôt, hosting various Malays, Armenians, Parsees, Arabs, Chinese dialect groups, amongst others.[^8] To almost all these immigrants, Singapore was a mere commercial stopover. Jacob Tomlin, an English Christian missionary who encountered the Jewish people in 1830, found them “well acquainted with their own scriptures and…\[referring\] to the approaching restoration to their own land.[^9]
+Even by then, Singapore was already a multi-ethnic entrepot, hosting Malays, Armenians, Parsees, Arabs and Chinese dialect groups, amongst others.[^8] To almost all these immigrants, Singapore was a mere commercial stopover. Jacob Tomlin, an English Christian missionary who encountered the Jewish people in 1830, found them “well acquainted with their own scriptures and… \[referring\] to the approaching restoration to their own land".[^9]
 
-Their return home to India was to be delayed, for by 1840, the Sassoon family, a pillar of the opium trade, set up shop in Singapore.[^10] Perhaps due to their influence, 1841 was to be a landmark year for the nascent Singapore Jewish community: a synagogue and cemetery were built for its 22 people, including the first four women.[^11]
+Their return home to India was to be delayed, for by 1840 the Sassoon family, a pillar of the opium trade, had set up shop in Singapore.[^10] Perhaps due to their influence, 1841 was to be a landmark year for the nascent Singapore Jewish community: a synagogue and cemetery were built for its 22 residents, including the first four women.[^11]
 
-Following a petition, the Governor allowed three trustees, going by the surnames of Cohen, Ezekiel, and Ezra, to lease a plot of land to use for worship. Located in a Synagogue Street shophouse, Singapore’s first synagogue was a decidedly humble affair. In 1858, the visiting Israeli poet Jacob Sappir[^12] reported that the Orthodox synagogue “gathered cobwebs”, as a *minyan* (quorum of 10 Jewish men) assembled only on some Sabbaths.[^13]
+Following a petition, the governor allowed three trustees with the surnames of Cohen, Ezekiel and Ezra to lease a plot of land to use for worship. Located in a Synagogue Street shophouse, Singapore’s first synagogue was a decidedly humble affair. In 1858, the visiting Israeli poet Jacob Sappir[^12] reported that the Orthodox synagogue “gathered cobwebs”, as a *minyan* (quorum of 10 Jewish men) assembled only on some Sabbaths.[^13]
 
 The trustees were also awarded a 99- year lease for the first Jewish cemetery. Located at today’s Dhoby Ghaut MRT, the Orchard Road Cemetery, or Old Cemetery, was moulded out of “a very swampy area as is was known on the very fringe of the jungle”.[^14] It was to remain there until 1983, when the government repossessed it.
 
@@ -170,7 +170,7 @@ Barzilal, Amnon. (2004, July 16). _A deep, dark, secret love affair_. Retrieved 
 
 Bieder, J. (2007). [_The Jews of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221). Singapore: Suntree Media. (Call no.: RSING 959.57004924 BIE)
 
-Blackburn, K., & Hack, K. (2012). Memory and nation-building in Singapore (pp. 292–333). In [_War memory and the making of modern Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14230768). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA)
+Blackburn, K., &amp; Hack, K. (2012). Memory and nation-building in Singapore (pp. 292–333). In [_War memory and the making of modern Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14230768). Singapore: NUS Press. (Call no.: RSING 940.53595 BLA)
 
 Boey, K.C. (2012). [_Clear brightness: New poems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14571507). Singapore: Epigram Books. (Call no.: RSING S821 BOE)
 
@@ -182,7 +182,7 @@ Kamsma, T. (2010). [_The Jewish diasporascape in the Straits_](https://eservice.
 
 Lim, W.J.D. (2013, January). The original sin of Singapore’s history. _Quarterly Literary Review Singapore_, 12 (1). Retrieved from QLRS.com website.
 
-Nathan, E. (1986). [_The history of Jews in Singapore, 1830–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637). Singapore: HERBILU Editorial & Marketing Services. (Call no.: RSING 301.45192405957 NAT)
+Nathan, E. (1986). [_The history of Jews in Singapore, 1830–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637). Singapore: HERBILU Editorial &amp; Marketing Services. (Call no.: RSING 301.45192405957 NAT)
 
 National Heritage Board. (2017, December 1). _Monumental walking tours_. Retrieved from National Heritage Board website.
 
@@ -225,9 +225,9 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^10]: [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 14.
 
-[^11]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 23.  
+[^11]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 23.&nbsp;&nbsp;
 
-[^12]: Also known as Jacob Saphir (1822–1885).    
+[^12]: Also known as Jacob Saphir (1822–1885).&nbsp;&nbsp;&nbsp;&nbsp;
 
 [^13]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 22–26; [Raman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202838673), 1958, p. 37.
 
@@ -247,7 +247,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^21]: Theo Kamsma points out that Jews were either identified as Arabs or ’other Orientals’. “That has \[historically\] made Jews, as a separate category, almost unrecognisable.” See [_The Jewish Diasporascape in the Straits_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, pp. 92–94.
 
-[^22]: Quoted in [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 14.    
+[^22]: Quoted in [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 14.&nbsp;&nbsp; &nbsp;
 
 [^23]: [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 26.
 
@@ -259,7 +259,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^27]: [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 15.
 
-[^28]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 26, 30, 45–46; [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 18.   
+[^28]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 26, 30, 45–46; [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 18.&nbsp;&nbsp;&nbsp;
 
 [^29]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 57; [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 18.
 
@@ -279,7 +279,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^37]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, pp. 67–68.
 
-[^38]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 58–59. 
+[^38]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 58–59.&nbsp;
 
 [^39]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 62–63.
 
@@ -291,11 +291,11 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^43]: “I am both a Jew and an Asian,” Marshall famously pronounced. He was especially popular among the Chinese for his anti-colonial, pro-labour, and principled democratic stance. See Thum, P. (2011, June). Living Buddha: Chinese perspectives on David Marshall and his Government, 1955–1956. _Indonesia and the Malay World_, 39 (114), 245–267.
 
-[^44]: [Blackburn & Hack](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14230768), 2012, pp. 301—333.
+[^44]: [Blackburn &amp; Hack](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14230768), 2012, pp. 301—333.
 
 [^45]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 91–92; [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 88.
 
-[^46]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 93.  
+[^46]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 93.&nbsp;&nbsp;
 
 [^47]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 92–93.
 
@@ -307,7 +307,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^51]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 109.
 
-[^52]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 101–103.   
+[^52]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 101–103.&nbsp;&nbsp;&nbsp;
 
 [^53]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 99.
 
@@ -321,11 +321,11 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^58]: Quoted in Goldstein, 2007, p. 5.
 
-[^59]: [Kamsma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, p. 104. 
+[^59]: [Kamsma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, p. 104.&nbsp;
 
 [^60]: Quoted in Barzilai, 16 Jun 2004.
 
-[^61]: [Kamsma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, p. 105; [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 170. 
+[^61]: [Kamsma](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, p. 105; [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 170.&nbsp;
 
 [^62]: United Hebrew Congregation, 2013.
 
@@ -335,7 +335,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^65]: Quoted in Lim, 2013.
 
-[^66]: Quoted in [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 168. 
+[^66]:&nbsp;Quoted in [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 168.&nbsp;
 
 [^67]: The ’Chinese, Malay, Indian, Other’ racial nomenclature was introduced in 1965, largely borrowing from British census taking. The Jewish community, along with other minorities of minorities, are reductively classed as ’Other’.
 
