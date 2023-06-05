@@ -113,41 +113,19 @@ While better-endowed mosques were rebuilt with gleaming domes integrated into th
 
 The dome, idealised in the onion shape, has come to be regarded by many as an indispensable symbol of a mosque. According to Abdul Halim Nasir, writing about mosques in Malaysia, “Many people feel that a mosque is not really complete without the onion-shaped dome. This feeling has created restlessness and as a result mosques built during the precolonial and colonial period without the onion-shaped domes have had the roofs radically modified so that an onion-shaped dome can be built.”[^32] In an interview with *The Straits Times*, Dr Y.A. Talib, an Islamic studies expert, said that domes were not compulsory on mosques, and were placed on mosques in different parts of the world out of the owners’ preference.[^33] The preponderance of domed mosques in the vernacular architectural environment in Singapore is thus an indication of a popular sentiment in favour of domed mosques.
 
-The diffusion of the dome within the vernacular architectural environment in Singapore began in the early 20th century. This development highlights the active presence of local agents in creating meaning and significance that matched their ideals of what a mosque should look like. After all, domed mosques have long been common throughout the Islamic world, especially in the Middle East. For the trustees of the Sultan Mosque in the 1920s, the Indo-Saracenic style was a novel design that fused traditional Islamic stylistic elements originating outside of Southeast Asia with a technologically advanced structure of reinforced concrete designed in monumental proportions. The design and scale of the mosque were especially striking in an urban environment still dominated by twostorey shophouses.
+The diffusion of the dome within the vernacular architectural environment in Singapore began in the early 20th century. This development highlights the active presence of local agents in creating meaning and significance that matched their ideals of what a mosque should look like. After all, domed mosques have long been common throughout the Islamic world, especially in the Middle East. For trustees of the Sultan Mosque in the 1920s, the Indo-Saracenic style was a novel design that fused traditional Islamic stylistic elements originating outside of Southeast Asia with a technologically advanced structure of reinforced concrete designed in monumental proportions. The design and scale of the mosque were especially striking in an urban environment still dominated by two-storey shophouses.
 
-Post-colonial critics and architectural purists who champion regionalism might lament the proliferation of domed mosques in place of a long-time native architectural form, namely, the multitiered roof mosque. Nevertheless, the “new” architecture received the endorsement of the local Muslim community. Moreover, the new style brought regional mosque architecture stylistically closer to the *ummah* (the global Muslim community) in terms of its formal expression.
+Postcolonial critics and architectural purists who champion regionalism might lament the proliferation of domed mosques in place of a long-time native architectural form, namely, the multitiered-roofed mosque. Nevertheless, the “new” architecture received the endorsement of the local Muslim community. Moreover, the new style brought regional mosque architecture stylistically closer to the *ummah* (the global Muslim community) in terms of its formal expression.
 
-This article highlights the multilayered meanings that can be embodied by architecture with hybrid features created in a colonial city. Swati Chattopadhyay has noted the “inordinate emphasis in architectural and planning scholarship on first acts and initial designs” that has helped to create narratives in which the colonisers are portrayed as “the only active agents on the scene, relegating the colonized population to the role of passive inhabitants or, at best, resistors of domination.”[^34]
+This article highlights the multilayered meanings that can be embodied by architecture with hybrid features created in a colonial city. Swati Chattopadhyay has noted the “inordinate emphasis in architectural and planning scholarship on first acts and initial designs” that has helped to create narratives in which the colonisers are portrayed as “the only active agents on the scene, relegating the colonized population to the role of passive inhabitants or, at best, resistors of domination”.[^34]
 
 The Sultan Mosque challenges such narratives and assumptions by showing that the British-Indian Indo-Saracenic style was embraced by local Muslim community leaders in Singapore for their own reasons and purposes. Their agency led to the incorporation of domes into the local idea of what a normal, modern mosque should look like, and thus created a new tradition in local architecture.
 
 <div>
-<b>Ten Leu-Jiun</b> was a&nbsp;Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the NalandaSriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural 
+<b>Ten Leu-Jiun</b> was a Lee Kong Chian Research Fellow in 2012. She is currently a Research Associate at the Nalanda-Sriwijaya Centre at the Institute of Southeast Asian Studies. She is interested in crosscultural 
 exchange in art and architecture.</div>
 
 #### **REFERENCES**
-
-     
-
-**Online Databases**
-
-National Library Board Newspaper SG Database
-
-National Library Board Infopedai
-
-National Archives PICAS Database
-
-**National Archives of Singapore**
-
-Building Plans Microfilm Collection
-
-**Newspapers**
-
-*The Straits Times*
-
-*The Singapore Free Press*
-
-**Books**
 
 Abdul Halim Nasir. (2004). [_Mosque architecture in the Malay world_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12383474). Bangi: Penerbit University Kebangsaan Malaysia. (Call no.: RSEA q726.20959 ABD)
 
@@ -159,7 +137,7 @@ Cannadine, D. (2002). [_Ornamentalism: How the British saw their empire_](https:
 
 Chattopadhyay, S. (2005). [_Representing Calcutta: Modernity, nationalism, and the colonial uncanny_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12579180). London: Routledge. (Call no.: RSING 954.147 CHA)
 
-Frishman, M &amp; Khan, H-U (Eds.). [_The mosque: History, architectural development &amp; regional diversity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
+Frishman, M., &amp; Khan, H.-U. (Eds.). [_The mosque: History, architectural development &amp; regional diversity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7226339) (pp. 225–240). London: Thames and Hudson. (Call no.: RART 726.209 MOS)
 
 Hadijah Rahmat., et al (Eds.). (2007). [_The last kampong mosque in Singapore: The extraordinary story and legacy of Sembawang_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13006442). Singapore: Masjid Petempatan Melayu Sembawang. (Call no.: RSING 297.355957 LAS)
 
@@ -171,7 +149,7 @@ Masjid Sultan (Singapore). (1968). [_Sejarah ringkas Masjid Sultan Singapura_](h
 
 Metcalf, T.R. (1989). [_An imperial vision: Indian architecture and Britain’s Raj_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949). London: Faber and Faber. (Call no.: RART 722.44 MET)
 
-Metcalf, T.R. &nbsp;(1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
+Metcalf, T.R. (1998). Past and present: Towards an aesthetics of colonisation (pp. 12–25). In G.H.R. Tillotson (Ed.), _Paradigms of Indian architecture: Space and time in representation and design_. Surrey: Curzon. (Not available in NLB holdings)
 
 Mohamad Tajuddin Haji Mohamad Rasdi. (2000). [_The architectural heritage of the malay world: The traditional mosque_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10112632). Skudai, Johor Darul Ta’zim: Penerbit Universiti Teknologi Malaysia. (Call no.: RSEA 726.209595 MOH)
 
@@ -198,7 +176,7 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^9]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1998, pp. 20–23.
 
-[^10]: Current literature refers to the former mosque as the one built in 1823 or 1824. However, in 1926, a newspaper article reported that this mosque was the second building on the site. _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53)_, 4 Nov 1926, p. 11.
+[^10]: Current literature refers to the former mosque as the one built in 1823 or 1824. However, in 1926, a newspaper article reported that this mosque was the second building at the site. _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53)_, 4 Nov 1926, p. 11.
 
 [^11]: Sultan Mosque, 1965, pp. 107, 160.
 
@@ -208,7 +186,7 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^14]: Sultan Mosque, 1965, p. 32.
 
-[^15]: Haji Asmawi bin Said, Executive administrator of Sultan Mosque, personal interview with the author. Sultan Mosque, 11 Sep 2012.
+[^15]: Haji Asmawi bin Said, executive administrator of Sultan Mosque, personal interview with the author. Sultan Mosque, 11 Sep 2012.
 
 [^16]: [Metcalf](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572949), 1989, pp. 44–48, 50, 88–90.
 
@@ -222,7 +200,7 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^21]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261104-1.2.53), 4 Nov 1926, p. 11.
 
-[^22]: Building Pla 269/1924, National Archives of Singapore Microfilm Reel NA309.
+[^22]: Building Plan 269/1924, National Archives of Singapore Microfilm Reel NA309.
 
 [^23]: [Meeting of Muslims](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19260219-1.2.97). (1926, February 19). _The Singapore Free Press_, p. 16. Retrieved from NewspaperSG.
 
@@ -244,6 +222,6 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^32]: [Abdul Halim Nasir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12383474), 2004, p. 99.
 
-[^33]:. Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
+[^33]: Kulatissa, S. (1984, August 31). [Building domes among skyscrapers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840831-1.2.87.4.1). _The Straits Times_, p. 2. Retrieved from NewspaperSG.
 
 [^34]: [Chattopadhyay](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12579180), 2005, p. 9.
