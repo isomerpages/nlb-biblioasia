@@ -145,20 +145,20 @@ However, by 1957, when undergraduate Appu Raman began his study of the Jewish co
 
 “Being a Singaporean means forgetting all that stands in the way of one’s Singaporean commitment,” S. Rajaratnam famously defined in 1969.[^65] Our founding Culture and Foreign Minister also reflected, “The contributions the Singapore Jews have made to the development of Singapore are out of proportion to their numbers, which goes to show… that what counts is quality not quantity.”[^66]
 
-Despite or perhaps because of their minority, the Singapore Jewish community parallels other ethnicities’ self-development. They were compelled to forget their past in order to identify precariously as Singaporean — a construct that simultaneously celebrates and plays down different ways of life.
+Despite or perhaps because of their minority, the Singapore Jewish community parallels other ethnicities’ self-development. They were compelled to forget their past in order to identify precariously as Singaporean – a construct that simultaneously celebrates and plays down different ways of life.
 
-More particularly, the dispersed Jewish community presents a difficulty to urban and heritage planners. How can one identify a singular cultural enclave like Chinatown, if the places where the group worked, lived, played and prayed are geographically scattered and in spirit, dissipated? One could argue that the preservation of many of the *Mahallah*’s buildings suffices. Yet, a 2010 Preservation of Monuments Board walking tour only featured the Maghain Aboth, and conflated Armenian and Jewish history with a stop at the Church of St Gregory the Illuminator. Despite the two community’s historical links, each deserves to be called by their name, which surely is not ’Other’.[^67]
+More particularly, the dispersed Jewish community presents a difficulty to urban and heritage planners. How can one identify a singular cultural enclave like Chinatown, if the places where the group worked, lived, played and prayed are geographically scattered and, in spirit, dissipated? One could argue that the preservation of many of the *Mahallah*’s buildings suffices. Yet, a 2010 Preservation of Monuments Board walking tour only featured the Maghain Aboth, and conflated Armenian and Jewish history with a stop at the Church of St Gregory the Illuminator. Despite the two community’s historical links, each deserves to be called by their name, which surely is not ’Other’.[^67]
 
 Furthermore, Singapore’s lack of preservation of burial sites renders many cultural enclaves soul-less. The Jewish community believes that “\[e\]ven the dead will be resurrected”, as a member of the community told Raman. “That is why in Singapore we had to resist the Government’s plan to take over the Orchard Road Cemetery… We cannot exhume our dead. Not a single bone of the dead shall be crushed; that is the law.”[^68]
 
-In fact, the Jewish community hit a low point when all graves in the Orchard Road and Thomson Cemeteries were exhumed and moved to the Choa Chu Kang Cemetery — a fate that seems ready to befall the historic Chinese cemetery of Bukit Brown.[^69] As a result, some Jewish families took the chance to re-inter their ancestors back in Israel. Future generations of Singaporeans were thus denied the chance to learn about and be with their forebears.
+In fact, the Jewish community hit a low point when all graves in the Orchard Road and Thomson cemeteries were exhumed and moved to the Choa Chu Kang Cemetery – a fate that seems ready to befall the historic Chinese cemetery of Bukit Brown.[^69] As a result, some Jewish families took the chance to re-inter their ancestors in Israel. Future generations of Singaporeans were thus denied the chance to learn about and be with their forebears.
 
-As with Singapore, other cities in Asia display a complex “port Jewish” identity; academic Jonathan Goldstein has identified Manila and Harbin as prime examples.[^70] It would be instructive to study how Jewish identity is preserved in those cities to learn how best to do justice to such small, proud, and unjustly “Other-ed” communities.
+As with Singapore, other cities in Asia display a complex “port Jewish” identity; academic Jonathan Goldstein has identified Manila and Harbin as prime examples.[^70] It would be instructive to study how Jewish identity is preserved in those cities to learn how best to do justice to such small, proud and unjustly other-ed communities.
 
-But the onus is on people, not power, to remember and more importantly, react. Retrace Jewish paths: the *Mahallah*, Waterloo Street, Oxley Rise, the Choa Chu Kang Jewish Cemetery, and even Jurong. Listen carefully. *Shalom*, their shophouses, synagogues, and tombstones will faintly but distinctly whisper. *Peace be unto you*.
+But the onus is on people, not power, to remember and, more importantly, react. Retrace Jewish paths: the *Mahallah*, Waterloo Street, Oxley Rise, the Choa Chu Kang Jewish Cemetery and even Jurong. Listen carefully. *Shalom*, their shophouses, synagogues and tombstones will faintly but distinctly whisper. *Peace be unto you*.
 
 <div>
-<b>Dan Koh</b> is a recipient of the NUS FASS scholarship, cofounder and editor of POSKOD. SG. He co-authored *Gila Bola*! (2012) and has had his short plays staged and published. He is the producer of The *Obs* (2013) and works at Epigram Books.
+<b>Dan Koh</b> is a recipient of the NUS FASS scholarship as well as co-founder and editor of POSKOD.SG. He co-authored *Gila Bola*! (2012) and has had his short plays staged and published. He is the producer of *The Obs* (2013) and works at Epigram Books.
 </div>
 
 	
@@ -176,7 +176,7 @@ Boey, K.C. (2012). [_Clear brightness: New poems_](https://eservice.nlb.gov.sg/i
 
 Chan, H.C. (1984). [_A sensation of independence: A political biography of David Marshall_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241). Singapore: Oxford University Press. (Call no.: RSING 324.2092 CHA)
 
-Goldstein, J. (2004, Autumn/Summer). Singapore, Manila, and Harbin as Reference Points for Asian ‘Port Jewish’ identity. _Jewish Culture and History_, 7 (1–2), 271–295.
+Goldstein, J. (2004, Autumn/Summer). Singapore, Manila, and Harbin as reference points for Asian ‘Port Jewish’ identity. _Jewish Culture and History_, 7 (1–2), 271–295.
 
 Kamsma, T. (2010). [_The Jewish diasporascape in the Straits_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584). Amsterdam: VU University. (Call no.: RSING 338.04089924 KAM)
 
@@ -205,17 +205,17 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 #### **NOTES**
 	
-[^1]: PAP, [J*urong Branch*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8082654) , 1996, p. 30.
+[^1]: PAP, [*Jurong Branch*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8082654) , 1996, p. 30.
 
-[^2]: Jurong is possibly named after the city of Jurong in Jiangsu, China, as there are already mentions of the “Soongie Jurong” (Jurong River) in 1837.
+[^2]: Jurong is possibly named after the city of Jurong in Jiangsu, China, as there are already mentions of “Soongie Jurong” (Jurong River) in 1837.
 
-[^3]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 1, italics mine.
+[^3]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 1, italics added.
 
-[^4]: [Bieder](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 17—21.
+[^4]: [Bieder](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 17–21.
 
 [^5]: [Bieder](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 19.
 
-[^6]: Goldstein, 2007, p. 3 and [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 8.
+[^6]: Goldstein, 2007, p. 3; [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 8.
 	
 [^7]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 9.
 
@@ -227,11 +227,11 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^11]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 23.&nbsp;&nbsp;
 
-[^12]: Also known as Jacob Saphir (1822–1885).&nbsp;&nbsp;&nbsp;&nbsp;
+[^12]: Also known as Jacob Saphir (1822–85).&nbsp;&nbsp;&nbsp;&nbsp;
 
 [^13]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 22–26; [Raman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202838673), 1958, p. 37.
 
-[^14]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 2; Orchard Road’s considerable distance from Synagogue Street made livayah difficult, which requires bodies to be carried on a bier to the cemetery. See [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 23–24.
+[^14]: [Nathan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080637), 1986, p. 2; Orchard Road’s considerable distance from Synagogue Street made *livayah* (funeral) difficult, which requires bodies to be carried on a bier to the cemetery. See [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, pp. 23–24.
 
 [^15]: Historian David Sorkin’s concept: “port Jews” were lucky to find themselves in ports that valued international trade. Because of their commercial utility, they gained some social acceptance and legality. In terms of identity, port Jews had lax religious observance, yet actively identified as Jewish.
 
@@ -245,7 +245,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^20]: [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 58.
 
-[^21]: Theo Kamsma points out that Jews were either identified as Arabs or ’other Orientals’. “That has \[historically\] made Jews, as a separate category, almost unrecognisable.” See [_The Jewish Diasporascape in the Straits_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, pp. 92–94.
+[^21]: Theo Kamsma points out that Jews were either identified as Arabs or “other Orientals”. “That has \[historically\] made Jews, as a separate category, almost unrecognisable.” See [_The Jewish Diasporascape in the Straits_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13701584), 2010, pp. 92–94.
 
 [^22]: Quoted in [Chan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082241), 1984, p. 14.&nbsp;&nbsp; &nbsp;
 
@@ -337,7 +337,7 @@ Yeo, K.W. (1985, September). David Marshall: The rewards and shortcomings of a p
 
 [^66]:&nbsp;Quoted in [Beider](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221), 2007, p. 168.&nbsp;
 
-[^67]: The ’Chinese, Malay, Indian, Other’ racial nomenclature was introduced in 1965, largely borrowing from British census taking. The Jewish community, along with other minorities of minorities, are reductively classed as ’Other’.
+[^67]: The ’Chinese, Malay, Indian, Other’ racial nomenclature was introduced in 1965, largely borrowing from British census taking. The Jewish community, along with other minorities of minorities, were reductively classed as ’Other’.
 
 [^68]: [Raman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202838673), 1958, p. 80.
 
