@@ -59,7 +59,14 @@ The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Co
 
 The facade facing North Bridge Road is decorated with the *pishtaq* motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah, who passed away in 1891.
 
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/facade%20pishtaq%20motif.jpg" style="width:50%;">
+ <div style="background-color: white;">The façade facing North Bridge Road decorated with the pishtaq motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
+
 Ornamental crestings fringe the edge of the roofline similar to those found on the Friday Mosques in Kuala Lumpur, Delhi and Lahore. The first is in the Indo-Saracenic style, designed by Arthur Benison Hubback in 1909, and the latter two mosques are iconic structures from the Mughal period of Indian-Islamic architecture. Decorative pinnacles are topped with stylised lotus buds; they project at intervals from the edge of the roofline, and spring from different heights off the decorous elements on the terrace of the roof. Like the Taj Mahal, the central portion of the facade facing North Bridge Road (the section directly beneath the dome) is executed with the *pishtaq* motif – an Iranian-derived portal design consisting of a monumental pointed arch set within a rectangular frame decorated with bands of ornamentation.
+
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/main%20entrance%20prayer%20hall.jpg" style="width:80%;">
+ <div style="background-color: white;">The main entrance to the prayer hall from Bussorah Street. The entrance foyer is in the form of an Indian<i> chhajja</i>. The windows are articulated by multi-foil arches (as seen above the<i> chhajja</i>) and pointed arches in different scales and proportions. <i>MITA Collection, courtesy of the National Archives of Singapore.</i></div>
+
 
 The mosque is elevated about 10 feet above the ground, with double staircases leading to the main entrance. There is one auxiliary entrance on each of the long sides of the mosque. The main entrance porch is designed in the form of a *chhajja*, a classical Indian rectangular pavilion with elaborate overhanging eaves. This feature was absorbed into Indian-Islamic architecture, and later into the Indo-Saracenic style. The series of arches that run from the back of the prayer hall to the *qibla* wall, and perhaps all the window and door frames within the building, as well as the mouldings on the *qibla* wall, are in the form of pointed-arches, multifoil arches or cusped arches. These hallmark Indo-Saracenic shapes were assembled from both European and Indian arch traditions.
 
@@ -75,8 +82,7 @@ Construction of the new mosque began in 1928 after four years of initial fund-ra
 
 Viewed from the exterior, the Sultan Mosque appears to be a unitary building, but it actually contains two separate domains: the prayer hall with its auxiliary verandahs, and a royal grave within an enclosed chamber behind the *qibla* wall, on the side facing North Bridge Road. This is the grave chamber of Sultan Alauddin Alam Shah who passed away in 1891. Incorporated into the new building, the grave is located beneath the western dome, and can be accessed directly from the exterior of the building through a set of double doors facing North Bridge Road.[^26]
 
-<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/facade%20pishtaq%20motif.jpg" style="width:50%;">
- <div style="background-color: white;">The façade facing North Bridge Road decorated with the pishtaq motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
+
 
 When seen from North Bridge Road, the space behind the *pishtaq* motif appears to be connected with the rest of the building, but this grave chamber is in fact physically walled off from the other parts of the building. Thus, although structurally part of the overall mosque building, it is segregated spatially and is symbolically distinct – a neat solution that accommodates the resting place of the sultan without integrating his grave into the space of worship, which is a contentious subject within Islam. Such detail would have required giving specific instructions to Denis Santry, a Christian, in order to work out a design that made such spatial distinctions within one building.
 
