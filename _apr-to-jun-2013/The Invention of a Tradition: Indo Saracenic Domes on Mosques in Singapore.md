@@ -75,6 +75,9 @@ Construction of the new mosque began in 1928 after four years of initial fund-ra
 
 Viewed from the exterior, the Sultan Mosque appears to be a unitary building, but it actually contains two separate domains: the prayer hall with its auxiliary verandahs, and a royal grave within an enclosed chamber behind the *qibla* wall, on the side facing North Bridge Road. This is the grave chamber of Sultan Alauddin Alam Shah who passed away in 1891. Incorporated into the new building, the grave is located beneath the western dome, and can be accessed directly from the exterior of the building through a set of double doors facing North Bridge Road.[^26]
 
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/facade%20pishtaq%20motif.jpg" style="width:50%;">
+ <div style="background-color: white;">The façade facing North Bridge Road decorated with the pishtaq motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
+
 When seen from North Bridge Road, the space behind the *pishtaq* motif appears to be connected with the rest of the building, but this grave chamber is in fact physically walled off from the other parts of the building. Thus, although structurally part of the overall mosque building, it is segregated spatially and is symbolically distinct – a neat solution that accommodates the resting place of the sultan without integrating his grave into the space of worship, which is a contentious subject within Islam. Such detail would have required giving specific instructions to Denis Santry, a Christian, in order to work out a design that made such spatial distinctions within one building.
 
 <img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/presentation2.jpg" style="width:100%;">
