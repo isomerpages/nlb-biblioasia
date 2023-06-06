@@ -9,15 +9,13 @@ description: The built environment is a space that reflects the dialogue among
 
 
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/02%20People's%20Park%20Complex_5.jpg">
-<div style="background-color: white;">The Golden Mile Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
-</div>
+<div style="background-color: white;">The Golden Mile Complex speaks a modernist architectural language, but is an iconic project in terms of its sensitive treatment of the social and cultural optimism of Singapore at the time. <i>Courtesy of DP Architects Pte Ltd.</i></div>
 	
 
-The built environment forms the backbone of any society; it is the backdrop of our lives, whether we realise it or not. As such the design of the built environment is paramount to our well-being, to our ability to connect, to interact, to evolve
+The built environment forms the backbone of any society; it is the backdrop of our lives, whether we realise it or not. As such, the design of the built environment is paramount to our well-being, to our ability to connect, to interact, to evolve
 individually and collectively.
 
-
-The built environment is a space in constant tension between public, private and political interests; as such any intervention within this forms an ethical judgement. Any decision made within the built environment will have an effect on one group over another: for example, building a road over culturally sensitive land favours the extraction of economic gains over cultural sensitivity to a group. This decision is more than a simple cost-benefit analysis; it also has a multitude of ethical considerations to it.
+The built environment is a space in constant tension between public, private and political interests; as such, any intervention within this forms an ethical judgement. Any decision made within the built environment will have an effect on one group over another. For example, building a road over culturally sensitive land favours the extraction of economic gains over cultural sensitivity to a group. This decision is more than a simple cost-benefit analysis; it also has a multitude of ethical considerations to it.
 
 For anyone concerned with designing within the built environment, cultivating the ability to recognise, listen and respond to what people undergo and feel is vital. We relate to our environments emotionally, and we often fail to appreciate the complexity and variance of the human experience.
 
@@ -27,9 +25,8 @@ Good design within the built environment is mindful of the various tensions with
 
 Buildings are primary objects within the physical environment, necessarily permanent and largely impassive.[^2] Matters of location, design, visual impact, standards, place-making and so on are central to the experience and interpretation of the physical environment.[^3] Buildings become part of people’s lives;[^4] all architecture must be built with durability, convenience and beauty[^5] in mind.
 
-
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/01%20Golden%20Mile_2.jpg">
- <div style="background-color: white;">People’s Park Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
+ <div style="background-color: white;">People’s Park Complex, a modernist icon, is lauded its sensitive treatment of the social and cultural optimism of Singapore at the time. <i>Courtesy of DP Architects Pte Ltd.</i>
 </div>
 	
 	
@@ -48,7 +45,7 @@ The powerful ideology of beauty (inherent in the majority of theories and aims o
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/03%20People's%20Park%20Complex_3.jpg">
- <div style="background-color: white;">People’s Park Complex speak a modernist architectural language, but are two iconic projects in terms of their sensitive treatment of the social and cultural optimism of Singapore at that time. <i>Images are courtesy of DP Architects Pte Ltd.</i>
+ <div style="background-color: white;">People’s Park Complex. <i>Courtesy of DP Architects Pte Ltd.</i>
 </div>
 	
 
@@ -151,42 +148,42 @@ Benedikt, M. (1988). _For an architecture of reality_. Santa Fe: Lumen. (Not ava
 
 Buchanan, R. (2001). Human dignity and human rights: Thoughts on the principles of human-centred design. _Design Issues, 17_ (3), 35–39. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Burns, A. (2000). Emotion & urban experience: Implications for design. _Design Issues, 16_ (3), 67–79. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Burns, A. (2000). Emotion &amp; urban experience: Implications for design. _Design Issues, 16_ (3), 67–79. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Casanova, R.T. (1979). Land policies and practices (p. 113). In S.H.K. Yeh & Laquian (Eds.), [_Housing Asia’s millions: Problems, policies and prospects for low-cost housing in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296). Ottawa: IDRC. (Call no.: RSING 363.5095 HOU)
+Casanova, R.T. (1979). Land policies and practices (p. 113). In S.H.K. Yeh &amp; Laquian (Eds.), [_Housing Asia’s millions: Problems, policies and prospects for low-cost housing in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296). Ottawa: IDRC. (Call no.: RSING 363.5095 HOU)
 
 Cuthbert, A. (2006). _The form of cities: Political economy and urban design_. Oxford: Blackwell Publishing. (Not available in NLB holdings)
 
 Durrell, L. (1969). _Spirit of place_. London: Dutton. (Not available in NLB holdings)
 
-Edwards, B. (2000). Sustainable housing: Architecture, society and professionalism (pp. 12–34). In B. Edwards & D. Turrent (Eds.), _Sustainable housing principles & practice_. Abingdon: Taylor & Francis. (Not available in NLB holdings)
+Edwards, B. (2000). Sustainable housing: Architecture, society and professionalism (pp. 12–34). In B. Edwards &amp; D. Turrent (Eds.), _Sustainable housing principles &amp; practice_. Abingdon: Taylor &amp; Francis. (Not available in NLB holdings)
 
-Eisenman, P., & Krier, L. (1989). My ideology is better than yours. _Architectural Design_, 59, 6–18, pp. 9–10. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Eisenman, P., &amp; Krier, L. (1989). My ideology is better than yours. _Architectural Design_, 59, 6–18, pp. 9–10. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Franklin, B. (2001). Discourses of design: Perspectives on the meaning of housing quality and “good” housing design. _Housing, Theory and Society, 18_ (1–2), 79–92. Retrieved from Taylor & Francis Online.
+Franklin, B. (2001). Discourses of design: Perspectives on the meaning of housing quality and “good” housing design. _Housing, Theory and Society, 18_ (1–2), 79–92. Retrieved from Taylor &amp; Francis Online.
 
-Grayson, L., & Young, K.  (1994). _Quality of life in cities_. London: The British Library. (Not available in NLB holdings)
+Grayson, L., &amp; Young, K. &nbsp;(1994). _Quality of life in cities_. London: The British Library. (Not available in NLB holdings)
 
 Jacobs, J. (1993). _The death and life of great American cities_. New York: Random House. (Not available in NLB holdings)
 
-Jiven, G., & Larkham, P.J. (2003). Sense of place, authencity and character: A commentary. _Journal of Urban Design, 8_ (1), 67–81. Retrieved from Taylor & Francis Online website.
+Jiven, G., &amp; Larkham, P.J. (2003). Sense of place, authencity and character: A commentary. _Journal of Urban Design, 8_ (1), 67–81. Retrieved from Taylor &amp; Francis Online website.
 
-Kant, I. (1786). _Groundwork of the Metaphysics of Morals_. New York: Harper & Row. (Not available in NLB holdings)
+Kant, I. (1786). _Groundwork of the Metaphysics of Morals_. New York: Harper &amp; Row. (Not available in NLB holdings)
 
 Kant, I. (1790). The critique of judgement. Oxford: Clarendon Press. (Not available in NLB holdings)
 
 Komlosy, D. (1953). Working party on Queenstown: Memorandum by Chief Planning Officer, Diagnostic Survey Team Queenstown Estate – Densities. Singapore: National Heritage Board, National Archives. (cannot locate this)
 
-Kriken, J., Enquist, P. & Rapaport, R. (2010). [_City building: Nine planning principles for the twenty-first century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695). New York: Princeton Architectural Press. (Call no.: RART 711.4 KRI)
+Kriken, J., Enquist, P. &amp; Rapaport, R. (2010). [_City building: Nine planning principles for the twenty-first century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695). New York: Princeton Architectural Press. (Call no.: RART 711.4 KRI)
 
-Langer, P. (1984). Sociology – Four images of organised diversity: Bazaar, jungle, organism, and maching. (pp. 97–117). In L. Rodwin & R. Hollister, _Cities of the mind: Images and themes of the city in the social sciences_. New York: Plenum Press. (Not available in NLB holdings)
+Langer, P. (1984). Sociology – Four images of organised diversity: Bazaar, jungle, organism, and maching. (pp. 97–117). In L. Rodwin &amp; R. Hollister, _Cities of the mind: Images and themes of the city in the social sciences_. New York: Plenum Press. (Not available in NLB holdings)
 
-Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the heart of Planning Bill_. Retrieved from Building Design website.
+Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at the heart of Planning Bill_. Retrieved from Building Design website.
 
 #### **NOTES**
     
 
-[^1]: [Casanova](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296), 1979, p. 113.  
+[^1]: [Casanova](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296), 1979, p. 113. &nbsp;
 
 [^2]: Benedikt, 1988, p. 14.
 
@@ -196,7 +193,7 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^5]: Spector, T, 2007, p. 35.
 
-[^6]: Eisenman & Krier, 1989, p. 7.
+[^6]: Eisenman &amp; Krier, 1989, p. 7.
 
 [^7]: Benedikt, 1988, p. 52.
 
@@ -204,7 +201,7 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^9]: Kant, 1790, p. 224.
 
-[^10]: Zumthor, 2007, p. 65.     
+[^10]: Zumthor, 2007, p. 65. &nbsp;&nbsp;&nbsp;&nbsp;
 
 [^11]: Benedikt, 1988, p. 56.
 
@@ -218,11 +215,11 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^16]: Cuthbert, 2006, p. 15.
 
-[^17]: Grayson & Young, 1994.
+[^17]: Grayson &amp; Young, 1994.
 
-[^18]: Liu, T.K. & Tan, S.A., 1979, p. 149.
+[^18]: Liu, T.K. &amp; Tan, S.A., 1979, p. 149.
 
-[^19]: Lazell & Henley, 10 Oct 2008.
+[^19]: Lazell &amp; Henley, 10 Oct 2008.
 
 [^20]: Lefebvre, H., 1970, p. 31.
 
@@ -238,7 +235,7 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^26]: Durrell, 1979, p. 156.
 
-[^27]: [Kriken, Enquist & Rapaport](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695), 2010, p. 134.
+[^27]: [Kriken, Enquist &amp; Rapaport](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695), 2010, p. 134.
 
 [^28]: Tay, K.S., 1998.
 
@@ -252,7 +249,7 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^33]: Jacobs, 1993.
 
-[^34]: Grayson & Young, 1994.
+[^34]: Grayson &amp; Young, 1994.
 
 [^35]: Langer in Burns, 2000.
 
@@ -264,4 +261,4 @@ Lazell, M., & Henley, W. (2008, October 10). _Lords call for design to be at the
 
 [^39]: Manzini, E., 1994, p. 43.
 
-[^40]: Grayson & Young, 1994.
+[^40]: Grayson &amp; Young, 1994.
