@@ -9,13 +9,22 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/
-      button: "Globetrotting Mums: Then and Now"
+      url: vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
+      button: Khoo hooi hye, lim bong soo and the heyday of malayan tennis
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-14-issue-2/globetrotting-mums/mother's day_hero img.jpg
+      background: /images/Vol 19 Issue 1/Tennis/tennis_hero_img.jpg
+  - infopic:
+      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      subtitle: Print
+      description: The story of Operation Jaywick, a daring attack on Japanese ships
+        at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
+      alt: Operation Jaywick
+      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      image: /images/Vol 19 Issue 2/Operation Jaywick/image_4.png
+      button: The Victor Book for Boys
   - infopic:
       title: "32 Binjai Park: The Modernist Home of an Architect"
       subtitle: Places and Buildings

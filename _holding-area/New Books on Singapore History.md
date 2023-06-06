@@ -11,7 +11,7 @@ Ebook available on Libby
 
 ![](/images/Vol%2019%20Issue%202/New%20Books/book_1.png)
 
-Focused on the history and heritage of Singapore and the region,* Chapters on Asia* contains fresh research based on the collections of the National Library and National Archives of Singapore. This edition features essays on the circulation of premodern knowledge of Singapore and its straits before 1819, the representation of Europeans in the prewar press, and Chinese newspaper literary supplements in Singapore’s postwar literary scene.
+Focused on the history and heritage of Singapore and the region, *Chapters on Asia* contains fresh research based on the collections of the National Library and National Archives of Singapore. This edition features essays on the circulation of premodern knowledge of Singapore and its straits before 1819, the representation of Europeans in the prewar press, and Chinese newspaper literary supplements in Singapore’s postwar literary scene.
 
 #### **[From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205959499)**
 By Ross Laird
