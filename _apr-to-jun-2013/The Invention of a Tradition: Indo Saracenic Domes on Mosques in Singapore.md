@@ -85,10 +85,9 @@ Viewed from the exterior, the Sultan Mosque appears to be a unitary building, bu
 
 When seen from North Bridge Road, the space behind the *pishtaq* motif appears to be connected with the rest of the building, but this grave chamber is in fact physically walled off from the other parts of the building. Thus, although structurally part of the overall mosque building, it is segregated spatially and is symbolically distinct – a neat solution that accommodates the resting place of the sultan without integrating his grave into the space of worship, which is a contentious subject within Islam. Such detail would have required giving specific instructions to Denis Santry, a Christian, in order to work out a design that made such spatial distinctions within one building.
 
-<img style="width:70%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/glass%20bottle%20dark%20band.jpg">
- <div style="background-color: white;">The dark band encircling the dome is made of glass bottles contributed by the poor. A *chhatri* is positioned next to the dome in the company of decorative pinnacles with stylised lotus buds. <i>Courtesy of Ten Leu-Jiun.</i></div>
-
-
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/presentation2.jpg" style="width:80%;">
+ <div style="background-color: white;">(Left) Interior of the Sultan Mosque viewed from the second-floor gallery, looking towards the<i> mihrab. Courtesy of Ten Leu-Jiun.</i><br>(Right) The dark band encircling the dome is made of glass bottles contributed by the poor. A&nbsp;<i>chhatri</i>&nbsp;is positioned next to the dome in the company of decorative pinnacles with stylised lotus buds.&nbsp;<i>Courtesy of Ten Leu-Jiun.</i></div>
+	
 The second detail that reveals local intervention is a dark band accentuating the division between each dome and its drum support. Each band is made up of rows of glass discs, arranged around the “necks” of the two gigantic domes. Oral tradition has it that soya sauce bottles were offered to the mosque by poor people in Kampong Gelam, and the Building Committee gave the bottles to the architect to see what he could do with them.[^27] Whether it was Santry’s or the committee’s idea to collect the bottles, this visible and unusual design intervention may have fostered a sense of community ownership of the dome design. It may also be regarded as evidence of the collaborative relationship between the architect and his clients. It should be no surprise that the architect listened to suggestions by the committee members. After all, it was they who approved the payment of the architect’s fee.
 
 #### **The Dome Takes Root**
