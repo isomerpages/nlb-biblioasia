@@ -535,4 +535,12 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      subtitle: Infopic Subtitle
+      description: "The story of Operation Jaywick, a daring attack on Japanese ships
+        at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
+        "
+      button: Button Text
+      alt: Image alt text
 ---
