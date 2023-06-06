@@ -112,26 +112,24 @@ There is a global body of research that discusses the importance of the urban ae
 
 Public space and visual connections with buildings themselves are not enough to create an identity. Impersonal neighbourhoods and precincts make anonymous people;[^33] therefore, great architecture places ethical, climatically suited interventions that will blend in and become a part of the fabric over time. It is “the visual appearance of buildings, the relationships between them, the relationships with open spaces and all the other factors which combine to create the townscape”.[^34]
 
-Design has become a tool for preparing cities to attract visitors and investors, with the aim of improving the economic prospects and social conditions of cities. One should be careful that this does not manifest itself on a stage of branded designs, iconic single structures, that can stress relationships between people and their environments. A negotiated balance is needed between the built environment as an economic driver, and as a cultural space for the articulation of the multiple societal values.
+Design has become a tool for preparing cities to attract visitors and investors, with the aim of improving the economic prospects and social conditions of cities. One should be careful that this does not manifest itself on a stage of branded designs, iconic single structures that can stress relationships between people and their environments. A negotiated balance is needed between the built environment as an economic driver, and as a cultural space for the articulation of multiple societal values.
 
-People’s ties, relationships, and attachment to their particular territorial niches in the metropolis were significant because it is in these niches that they ’come to have some sense of control’ where they are able to develop the sense of identity and comfortableness that a large downtown can make impossible.[^35]
+"People’s ties, relationships, and attachment to their particular territorial niches in the metropolis were significant because it is in these niches that they ’come to have some sense of control’ where they are able to develop the sense of identity and comfortableness that a large downtown can make impossible."[^35]
 
 
 #### **Designing for the Future**
 
-Design is the key to unlocking the potential of the new energy and ecological awareness, giving architects a greatly expanded role.[^36]
+"Design is the key to unlocking the potential of the new energy and ecological awareness, giving architects a greatly expanded role."[^36]
 
 The challenge is naturally to construct more locally distinctive, socially inclusive and environmentally sustainable environments that can house a growing population, while accommodating increasing aspirations with fewer and fewer resources available.
 
 “The new model of development will not be born on a drawing board or around a conference table as a perfectly complete theorem, but will emerge from a dialogue and conflict among a multiplicity of ideas, visions and proposals. It will come into being thanks to a widespread atmosphere of innovation involving all social actors."[^37]
 
-Design can give form to a changing world, and offer opportunities for new types of behaviour. To “give form” means to operate within a more general cultural context, by amplifying and rendering visible the weak signs expressed by society (in terms of new types of demand and behaviour), proposing consistent criteria of quality in a perspective of sustainability, and designing overall scenarios which give form to the sustainable society.[^38] Design can “offer opportunity for new types of behaviour and new lifestyles in keeping with a new notion of social quality”.[^39] New behaviour means looking at our current way of living, and examining how do we improve our relationship with each other and the environment without compromising our standard of living. How can our behaviour of consumption change, yet be a positive change both in terms of our enjoyment as well as that of our surroundings. The built environment forms the structure in which these changes can be made, from spatial organisation that makes the private automobile unnecessary, that allows a walk to school, to work, and to recreation. A built form that requires no use of energy other than from its own sources, and that requires little food imports as it can be produced within its boundaries. A built form that celebrates and encourages interactions, innovations and most of all is people centric. These are the areas in which design can play a significant role, indeed it must to explore the possibilities within the social dynamics of a sustainable society.
+Design can give form to a changing world, and offer opportunities for new types of behaviour. To “give form” means to operate within a more general cultural context, by amplifying and rendering visible the weak signs expressed by society (in terms of new types of demand and behaviour), proposing consistent criteria of quality in a perspective of sustainability, and designing overall scenarios which give form to the sustainable society.[^38] Design can “offer opportunity for new types of behaviour and new lifestyles in keeping with a new notion of social quality”.[^39] New behaviour means looking at our current way of living, and examining how we can improve our relationship with each other and the environment without compromising our standard of living. How can our behaviour of consumption change, yet be a positive change both in terms of our enjoyment as well as that of our surroundings? The built environment forms the structure in which these changes can be made, from spatial organisation that makes the private automobile unnecessary, that allows a walk to school, to work and to recreation. A built form that requires no use of energy other than from its own sources, and that requires little food imports as it can be produced within its boundaries. A built form that celebrates and encourages interactions, innovations and most of all is people-centric. These are the areas in which design can play a significant role, indeed it must explore the possibilities within the social dynamics of a sustainable society.
 
-There is an urgent need for design to become more socially progressive and environmentally conscious in the face of intensifying neo-liberalism and neocorporatism. This means moving beyond the scope of the project and transcending professional boundaries. There is no one set of criteria according to which the design process is “supposed” to develop. However, thoughtful consideration of the moral and ethical responsibility of our actions, a greater awareness of social conditions and of the diversity of human experience are important in facilitating the production of a well-designed, well-negotiated, and equitable built environment.
+There is an urgent need for design to become more socially progressive and environmentally conscious in the face of intensifying neoliberalism and neocorporatism. This means moving beyond the scope of the project and transcending professional boundaries. There is no one set of criteria according to which the design process is “supposed” to develop. However, thoughtful consideration of the moral and ethical responsibility of our actions, a greater awareness of social conditions and of the diversity of human experience are important in facilitating the production of a well-designed, well-negotiated and equitable built environment.
 
-Good design is not a fetish; good design creates the natural foci of social intercourse where people will recognise each other as members of a local community as a result of continuous yet joyous physical proximity. With this model there is a greater potential for physical social relationships to form as people meet in the context of their whole lives and not in part, such as mere colleagues in the same office or shoppers at the same shopping centre. The townscape will be varied and vibrant, accommodating a wide range of different uses and catering for different kinds of people. “It may be physically unprepossessing, even dirty, but it will be a place that people know and, perhaps most important, feel at home in”.[^40]
-
-
+Good design is not a fetish; good design creates the natural foci of social intercourse where people will recognise each other as members of a local community as a result of continuous yet joyous physical proximity. With this model there is greater potential for physical social relationships to form as people meet in the context of their whole lives and not in part, such as mere colleagues in the same office or shoppers in the same shopping centre. The townscape will be varied and vibrant, accommodating a wide range of uses and catering for different kinds of people. “It may be physically unprepossessing, even dirty, but it will be a place that people know and, perhaps most important, feel at home in”.[^40]
 
 <div>
 <b>Benjamin Towell</b> is an Executive Manager with the Green Mark Department of the Building and Construction Authority of Singapore. Benjamin qualified as a Town (Urban) Planner from the University of Newcastle upon Tyne, UK. He studied architecture at the University of Newcastle upon Tyne, The Leeds School of Architecture and the National University of Singapore.</div>
@@ -164,13 +162,13 @@ Jacobs, J. (1993). _The death and life of great American cities_. New York: Rand
 
 Jiven, G., &amp; Larkham, P.J. (2003). Sense of place, authencity and character: A commentary. _Journal of Urban Design, 8_ (1), 67–81. Retrieved from Taylor &amp; Francis Online website.
 
-Kant, I. (1786). _Groundwork of the Metaphysics of Morals_. New York: Harper &amp; Row. (Not available in NLB holdings)
+Kant, I. (1786). _Groundwork of the metaphysics of morals_. New York: Harper &amp; Row. (Not available in NLB holdings)
 
-Kant, I. (1790). The critique of judgement. Oxford: Clarendon Press. (Not available in NLB holdings)
+Kant, I. (1790). *The critique of judgement*. Oxford: Clarendon Press. (Not available in NLB holdings)
 
-Komlosy, D. (1953). Working party on Queenstown: Memorandum by Chief Planning Officer, Diagnostic Survey Team Queenstown Estate – Densities. Singapore: National Heritage Board, National Archives. (cannot locate this)
+Komlosy, D. (1953). Working party on Queenstown: Memorandum by Chief Planning Officer, Diagnostic Survey Team Queenstown Estate – Densities. Singapore: National Heritage Board, National Archives.
 
-Kriken, J., Enquist, P. &amp; Rapaport, R. (2010). [_City building: Nine planning principles for the twenty-first century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695). New York: Princeton Architectural Press. (Call no.: RART 711.4 KRI)
+Kriken, J., Enquist, P., &amp; Rapaport, R. (2010). [_City building: Nine planning principles for the twenty-first century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695). New York: Princeton Architectural Press. (Call no.: RART 711.4 KRI)
 
 Langer, P. (1984). Sociology – Four images of organised diversity: Bazaar, jungle, organism, and maching. (pp. 97–117). In L. Rodwin &amp; R. Hollister, _Cities of the mind: Images and themes of the city in the social sciences_. New York: Plenum Press. (Not available in NLB holdings)
 
@@ -187,7 +185,7 @@ Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at
 
 [^4]: Zumthor, 2007, p. 65.
 
-[^5]: Spector, T, 2007, p. 35.
+[^5]: Spector, 2007, p. 35.
 
 [^6]: Eisenman &amp; Krier, 1989, p. 7.
 
@@ -213,7 +211,7 @@ Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at
 
 [^17]: Grayson &amp; Young, 1994.
 
-[^18]: Liu, T.K. &amp; Tan, S.A., 1979, p. 149.
+[^18]: Liu &amp; Tan, 1979, p. 149.
 
 [^19]: Lazell &amp; Henley, 10 Oct 2008.
 
@@ -233,7 +231,7 @@ Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at
 
 [^27]: [Kriken, Enquist &amp; Rapaport](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13554695), 2010, p. 134.
 
-[^28]: Tay, K.S., 1998.
+[^28]: Tay, 1998.
 
 [^29]: Cuthbert, 2006.
 
@@ -251,10 +249,10 @@ Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at
 
 [^36]: Edwards, 2000, p. 7.
 
-[^37]: Manzini, E., 1994, p. 39.
+[^37]: Manzini, 1994, p. 39.
 
-[^38]: Manzini, E., 1994, p. 39.
+[^38]: Manzini, 1994, p. 39.
 
-[^39]: Manzini, E., 1994, p. 43.
+[^39]: Manzini, 1994, p. 43.
 
 [^40]: Grayson &amp; Young, 1994.
