@@ -68,14 +68,13 @@ The Stuttgart City Library in southern Germany is a fine example of an inspiring
 
 The Seattle Public Library, designed by renowned architects Rem Koolhas and Joshua Prince-Ramus, is another outstanding example of inspiring library architecture.[^15] The internal spaces of the building are divided into those centred on traditional uses, including an auditorium and meeting rooms; and a series of flexible open floors that can transform to meet future needs. Books are organised in a user-friendly spiral that encourages browsing and discovery, physically expressing the Dewey Decimal System in an arrangement that starts from 000 on the bottom curve to 999 at the top. To encourage creative interactions, the architects created the open-plan Mixing Chamber, a sweeping 19,500-square-foot “trading floor” where librarians are “experts in a trading room of information” and sought after for their subject expertise and curatorial skills. The chamber features 132 computers, and offers a virtual reference service via online chat. The building as a whole, says Koolhas, “is at the same time old-fashioned in terms of resurrecting the public [realm], and contemporary in terms of addressing the key issue of whether the book is still relevant”.[^16]
 
-Taking the community focus in the design of library spaces and architecture to its logical extreme is the Halifax Central Library in Canada[^17] slated for completion in 2014. The building was deliberately planned and designed with extensive public consultation to create a library that would be a community icon, born of the community to serve the community.
-
+Taking the community focus in the design of library spaces and architecture to its logical extreme is the Halifax Central Library in Canada[^17] that is slated for completion in 2014. The building was deliberately planned and designed with extensive public consultation to create a library that would be a community icon, born of the community to serve the community.
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Icons%20of%20Learning/proposed%20children%20area1.jpg">
- <div style="background-color: white;">The proposed children’s area in Halifax Central Library, which is to be completed in 2014. <i>Courtesy of Halifax Public Libraries ©2013.</i></div>
+ <div style="background-color: white;">The proposed children’s area in Halifax Central Library, which will be completed in 2014. <i>Courtesy of Halifax Public Libraries ©2013.</i></div>
 	
 	
-The community was consulted on the building design through a series of public and focus group meetings. Residents wanted the new library to provide equal access to rich information resources for knowledge, learning and personal growth by blending traditional library services with innovative, accessible spaces that could provide opportunities for civic and social interaction. Residents also wanted a library with distinctive and innovative architecture, a civic landmark and a source of pride and inspiration that could contribute to the economic revitalisation of the downtown area and spark cultural and learning activities. All the ideas and feedback gathered at the meetings went towards inspiring the building design.
+The community was consulted on the building design through a series of public and focus group meetings. Residents wanted the new library to provide equal access to rich information resources for knowledge, learning and personal growth by blending traditional library services with innovative, accessible spaces that could provide opportunities for civic and social interaction. Residents also wanted a library with distinctive and innovative architecture, a civic landmark and a source of pride and inspiration that could contribute to the economic revitalisation of the downtown area and spark cultural and learning activities. All the ideas and feedback gathered at the meetings inspired the building design.
 
 #### **Library Design in Singapore**
 
@@ -83,28 +82,23 @@ The development of the library system in Singapore has, until relatively recentl
 
 Today, libraries play a critical role as the main public advocate of reading and literacy in Singapore. Libraries provide equal access to print and digital resources for all age groups and for all segments of society. Beyond this, libraries in Singapore are well-loved public spaces. When compared with international libraries in other cities with populations of over 1 million people, Singapore libraries ranked second in terms of visits per capita.[^19]
 
-Singapores libraries have become social learning hubs. Libraries draw people together in a neutral social space where they interact through shared learning activities such as talks, book clubs and group discussions. By enabling such public interactions, libraries promote tolerance, civility and graciousness, and help to build social ties that moderate the behaviour of the community positively. In the current digital age, when people are becoming increasingly disconnected from their communities and socially isolated, libraries play a significant role in ensuring that we remain connected to each other not just remotely through the Internet, but also through close social ties.
+Singapore's libraries have become social learning hubs. Libraries draw people together in a neutral social space where they interact through shared learning activities such as talks, book clubs and group discussions. By enabling such public interactions, libraries promote tolerance, civility and graciousness, and help build social ties that moderate the behaviour of the community positively. In the current digital age, when people are becoming increasingly disconnected from their communities and socially isolated, libraries play a significant role in ensuring that we remain connected to each other not just remotely through the internet, but also through close social ties.
 
+&gt; An inspiring library building is more than the sum of its spaces. It is a symbol of the power of ideas and knowledge, and a declaration of national pride, achievement, history and power.
 
-<center>An inspiring library building is more than the sum of its spaces. It is a symbol of the power of ideas and knowledge, and a declaration of national pride, achievement, history and power.</center>
-
-
-Libraries are also becoming social spaces that encourage interaction between people and also between people and information. For instance, libraries are curating exhibitions to initiate interaction between library resources and patrons. Such exhibitions not only showcase the rich collections that libraries offer, but also open a doorway to local history and heritage. The National Library’s recent *Campaign City* exhibition, for instance, highlighted diverse efforts in nationbuilding over the years, and also enabled re-interpretations of these campaigns via artworks by commissioned artists and youth.
+Libraries are also becoming social spaces that encourage interaction between people as well as between people and information. For instance, libraries are curating exhibitions to initiate interaction between library resources and patrons. Such exhibitions not only showcase the rich collections that libraries offer, but also open a doorway to local history and heritage. The National Library’s recent *Campaign City* exhibition, for instance, highlighted diverse nation-building efforts over the years, and enabled reinterpretations of these campaigns via artworks by commissioned artists and youths.
 
 Library design is thus important in enabling libraries to remain relevant to users. It impacts the ability of libraries to reach out to people and to promote social and creative interaction. The reconceptualisation of libraries and the reshaping of library spaces around user needs acknowledge that libraries are uniquely placed to support the development of a knowledgeable people.
 
-Library design in Singapore has already taken some steps toward the transformative and the inspirational with the creation of the National Library building in 2005,[^20] Bishan Public Library in 2006,[^21] and the recently launched Library@Chinatown in January 2013.[^22] The creative use of library space will go a step further with the opening of Library@Orchard in 2014.[^23]
-
-
+Library design in Singapore has already taken some steps toward the transformative and the inspirational with the creation of the National Library building in 2005,[^20] Bishan Public Library in 2006,[^21] and the recently launched library@chinatown in January 2013.[^22] The creative use of library space will go a step further with the opening of library@orchard in 2014.[^23]
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Icons%20of%20Learning/National%20Libary%20building2.jpg">
- <div style="background-color: white;">The National Libary building at Victoria Street. <i>© National Libary Board.</i></div>
-	
+ <div style="background-color: white;">The National Libary building on Victoria Street. <i>© National Libary Board.</i></div>
 
-In order to remain relevant, the re-imagining of future libraries in Singapore must accommodate the changing roles and functions of libraries. The mission of libraries to promote reading and literacy to create readers for life, learning communities and a knowledgeable nation will continue to be important, but Singapore’s future libraries must evolve to continue to draw library users through inspiring and transformative spaces and services.
+In order to remain relevant, the reimagining of future libraries in Singapore must accommodate the changing roles and functions of libraries. The mission of libraries to promote reading and literacy to create readers for life, learning communities and a knowledgeable nation will continue to be important, but Singapore’s future libraries must evolve to continue to draw library users through inspiring and transformative spaces and services.
 
 <div>
-<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of BiblioAsia, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
+<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of *BiblioAsia*, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
 <br>
 
 	
@@ -137,7 +131,7 @@ Nan Dahlkild. (2011, Summer). The emergence and challenge of the modern library 
 
 Halifax Public Library. (2012). Retrieved from Halifax Public Library website.
 
-Hellen Niegaard. (2011, Summer). Library space and digital challenges_. Library Trends: Library Design From Past to Present, 60_ (1), 174–189.
+Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174–189.
 
 Infocomm Media Development Authority. (n.d.). _About_. Retrieved from Infocomm Media Development Authority website.
 
@@ -204,13 +198,13 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 #### **NOTES**
 
 
-[^1]: Nan Dahlkild. (2011, Summer). The Emergence and Challenge of the Modern Library Building: Ideal Types, Model Libraries, and Guidelines, from the Enlightenment to the Experience Economy. _Library Trends: Library Design From Past to Present_, *60* (1),11—42.
+[^1]: Nan Dahlkild. (2011, Summer). The emergence and challenge of the modern library building: Ideal types, model libraries, and guidelines, from the Enlightenment to the experience economy. _Library Trends: Library Design From Past to Present_, *60* (1),11—42.
 
-[^2]: Hellen Niegaard. (2011, Summer). Library Space and Digital Challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174—189.
+[^2]: Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174—189.
 
 [^3]: Daniel J. Caron. (31 May 2012). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
 
-[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (Jan 2013). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
+[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, Jan). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
 
 [^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437—441.
 
@@ -220,32 +214,32 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (May 15, 2011). *Library Journal*. Retrieved from libraryjournal.com website.
 
-[^9]: In an environmentally conscious age, users are also paying attention to environmental sustainability as an aspect of library design. See Brian W. Edwards. (2011, Summer). Sustainability as a Driving Force in Contemporary Library Design. *Library Trends: Library Design From Past to Present, 60* (1), 190—214.
+[^9]: In an environmentally conscious age, users are also paying attention to environmental sustainability as an aspect of library design. See Brian W. Edwards. (2011, Summer). Sustainability as a driving force in contemporary library design. *Library Trends: Library Design From Past to Present, 60* (1), 190–214.
 
 [^10]: University of Chicago Library. *The Joe and Rika Mansueto Library*. Retrieved from University of Chicago Library website.
 
-[^11]: Stuttgart City Library / Yi Architects. (23 Dec 2011). *ArchDaily*. Retrieved from archdaily.com website.
+[^11]: Stuttgart City Library / Yi Architects. (2011, Dec 23). *ArchDaily*. Retrieved from archdaily.com website.
 
-[^12]: The Stuttgart Library. (Nov 28, 2011). *Positive Magazine*. Retrieved from Positive magazine website.
+[^12]: The Stuttgart Library. (2011, Nov 28). *Positive Magazine*. Retrieved from Positive magazine website.
 
 [^13]: Thomas Köster. (Nov 2011). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
 
-[^14]: Köster, Nov 2011. &nbsp;
+[^14]: Köster, Nov 2011.
 
 [^15]: The Seattle Public Library. (Oct 2004). *Metropolis Mag*. Retrieved from metropolismag.com website.
 
-[^16]: Lynn Becker. (2003-2006). *Sleekness in Seattle. Repeat*. Retrieved from lynbecker.com website.
+[^16]: Lynn Becker. (2003–2006). *Sleekness in Seattle. Repeat*. Retrieved from lynbecker.com website.
 
-[^17]: Halifax Public Library. (2012). Retrieved from Halifax Public Library website.&nbsp; &nbsp;
+[^17]: Halifax Public Library. (2012). Retrieved from Halifax Public Library website.
 
 [^18]: National Library Board. (2013). _[History of the National Library](https://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx)_. Accessed at http://www.nl.sg/.
 
 [^19]: Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. IFLA. (July 2010). Metropolitan Libraries Section Survey. Retrieved from IFLA. Metropolitan Libraries website.
 
-[^20]: Singapore’s new National Library. _The Arup Journal_, 2/2006, pp. 51—59. Retrieved from Arup Journal website.
+[^20]: Singapore’s new National Library. _The Arup Journal_, 2/2006, pp. 51–59. Retrieved from Arup Journal website.
 
 [^21]: President’s Design Awards 2009. (2009). Designer of the Year – Look Boon Gee. Retrieved from DesignSingapore Councl website.
 
-[^22]: Leslie Kay Lim. (2013, January 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
+[^22]: Leslie Kay Lim. (2013, Jan 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
 
-[^23]: Sumedha Jalote (10 Jan 2013) Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.
+[^23]: Sumedha Jalote (2013, Jan 10). Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.
