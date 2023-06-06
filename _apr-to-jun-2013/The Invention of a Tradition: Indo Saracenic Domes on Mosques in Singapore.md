@@ -7,7 +7,6 @@ description: The typically onion-shaped Indo-Saracenic domes that crown the
 ---
 #### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late-1920s introduction to Singapore’s architectural landscape.
 
-
 <img style="width:70%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Sultan%20Mosque%20shophouses1.jpg">
  <div style="background-color: white;">Contrasting scale: Sultan Mosque towering over the shophouses of Kampong Gelam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
 
@@ -42,13 +41,10 @@ While the Sultan Mosque was certainly not the first mosque in Singapore with Ind
 
 An undated photo in the Sultan Mosque’s collection, probably taken in the early 20th century, shows a four-tier pyramidal hip roof superstructure supported by a whitewashed square pillar, in a compound enclosed by white walls. This is the former Sultan Mosque, which was purported to have been completed by 1824 under the patronage of Sultan Hussein Shah.[^10] Stamford Raffles had promised the Sultan $3,000 towards its construction.[^11] The British had established a foothold in Singapore in 1819 through the East India Company, and Singapore was in its early stages of expansion as a British trading post. The building was of brick construction, but its architectural form still adhered to traditional Southeast Asian timber mosque architecture. The oldest existing mosque of this type in Malaya is the Kampung Laut Mosque in Kelantan, claimed by some to have been built in the 16th century.[^12]
 
-
-
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
 <div style="background-color: white;">
 An undated photograph of Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i>
 </div>	
-
 
 Although the original Sultan Mosque functioned as the royal mosque of the sultan in early Singapore, control of the mosque eventually passed from the sultan to local Muslim community leaders. In 1879, Sultan Alauddin Alam Shah, also known as Tengku Alam, the grandson of Sultan Hussein Shah, turned the administration of the mosque over to a five-member council.[^13] A board of trustees was appointed after 1914 to oversee the mosque. The 12-member trustee system ensured representation from various ethnic communities across the board by appointing two members from each major Muslim community in Singapore – Arab, Bugis, Javanese, Malay, North Indian and Tamil/South Indian communities.[^14] This was the system of governance in place when the construction of a new mosque was mooted in 1924, and Denis Santry was commissioned to design the new mosque.
 
@@ -71,10 +67,6 @@ The mosque is elevated about 10 feet above the ground, with double staircases le
 
 Unlike the Abdul Gafoor Mosque and the Friday Mosques noted previously, the Sultan Mosque is an enclosed mosque, and was reportedly one of the largest enclosed mosques in the world at the time it was built.[^17] Its floor area measures approximately 106 by 180 feet. The sides and back portion of the prayer hall are split to incorporate a second-floor gallery. The mosque has room for 5,000 worshippers and cost about $250,000 to construct.[^18] The new Sultan Mosque was officially opened on 27 December 1929, the last Friday of the year, although it was completed only in 1932.[^19]
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Interior%20Sultan%20Mosque.jpg">
- <div style="background-color: white;">Interior of the Sultan Mosque viewed from the second-floor gallery, looking towards the *mihrab*. <i>Courtesy of Ten Leu-Jiun.</i></div>
- 
-
 The heart and soul behind the construction of the mosque was Mahmood bin Haji Dawood, a merchant and well-respected community leader of “Bombay origins”.[^20] He supervised the project from the start until his untimely death in 1931 and is remembered as the “builder” of the Sultan Mosque. Dawood first convened a meeting on 1 January 1924 to propose the construction of a new mosque to replace the dilapidated existing building. A four-member Building Committee was established to oversee the project on this occasion.[^21] Besides the uncertain identity of a “Mr Ismail”, the other three members of the committee were well-known merchants and community leaders: Syed Abdur Rahman bin Shaik Alkaff, J.P. as nominated chairman; Dawood as the honorary secretary and treasurer; and Shaik Salim bin Taha Mattar as a member. All three community leaders signed their names as “owners” representing the Sultan Mosque on the building plans submitted to the Municipal Commission.[^22]
 
 This was a mosque that the Singapore Muslim community could be proud of. When funds were not forthcoming in 1926, and appeals for funding made to the Sultan of Johor and the colonial government proved unsuccessful, a meeting was called by the Building Committee. Thirty-seven committee members were elected to represent the Muslim community of Singapore with the expectation that they would solicit funds from their respective ethnic communities. The various communities included the Arab, Bombay, Bugis, French Muslim (probably referring to Muslims originating from the French colony of Pondicherry), Javanese, Madras, Malay, Pathan, Punjabi and South Indian communities.[^23]
@@ -85,7 +77,7 @@ Viewed from the exterior, the Sultan Mosque appears to be a unitary building, bu
 
 When seen from North Bridge Road, the space behind the *pishtaq* motif appears to be connected with the rest of the building, but this grave chamber is in fact physically walled off from the other parts of the building. Thus, although structurally part of the overall mosque building, it is segregated spatially and is symbolically distinct – a neat solution that accommodates the resting place of the sultan without integrating his grave into the space of worship, which is a contentious subject within Islam. Such detail would have required giving specific instructions to Denis Santry, a Christian, in order to work out a design that made such spatial distinctions within one building.
 
-<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/presentation2.jpg" style="width:80%;">
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/presentation2.jpg" style="width:100%;">
  <div style="background-color: white;">(Left) Interior of the Sultan Mosque viewed from the second-floor gallery, looking towards the<i> mihrab. Courtesy of Ten Leu-Jiun.</i><br>(Right) The dark band encircling the dome is made of glass bottles contributed by the poor. A&nbsp;<i>chhatri</i>&nbsp;is positioned next to the dome in the company of decorative pinnacles with stylised lotus buds.&nbsp;<i>Courtesy of Ten Leu-Jiun.</i></div>
 	
 The second detail that reveals local intervention is a dark band accentuating the division between each dome and its drum support. Each band is made up of rows of glass discs, arranged around the “necks” of the two gigantic domes. Oral tradition has it that soya sauce bottles were offered to the mosque by poor people in Kampong Gelam, and the Building Committee gave the bottles to the architect to see what he could do with them.[^27] Whether it was Santry’s or the committee’s idea to collect the bottles, this visible and unusual design intervention may have fostered a sense of community ownership of the dome design. It may also be regarded as evidence of the collaborative relationship between the architect and his clients. It should be no surprise that the architect listened to suggestions by the committee members. After all, it was they who approved the payment of the architect’s fee.
