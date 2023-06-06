@@ -7,26 +7,26 @@ description: Many have considered the digital age and technological innovation
   are more than just repositories of information, they are now places of
   innovation and inspiration.
 ---
-#### Many have considered the digital age and technological innovation as the death knell of libraries. Instead of going quietly into the night, libraries have adapted and evolved to meet the needs of their users. Libraries are more than just repositories of information, they are now places of innovation and inspiration. 
+#### Many have considered the digital age and technological innovation as the death knell of libraries. But instead of going quietly into the night, libraries have adapted and evolved to meet the needs of their users. Libraries are more than just repositories of information, they are now places of innovation and inspiration. 
 
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Icons%20of%20Learning/BlueInTheDark2_Kraufmann-Hoerner3.jpg">
- <div style="background-color: white;">The Stuttgart City Library was designed to act as the city’s intellectual and cultural centre of urban life.  <i>©Kraufmann & Kraufmann. City Library, Yi Architects.</i></div>
+ <div style="background-color: white;">The Stuttgart City Library was designed to be the city’s intellectual and cultural centre of urban life.  <i>©Kraufmann &amp; Kraufmann. City Library, Yi Architects.</i></div>
 
 
-A library, in its simplest form, is a repository of knowledge. Libraries contain records of our collective history — the things we know, said, achieved, failed at and hoped for. Libraries show us who we are and who we could be. A society that values libraries is a forward-looking society equipped to succeed in the global village.
+A library, in its simplest form, is a repository of knowledge. Libraries contain records of our collective history – the things we know, said, achieved, failed at and hoped for. Libraries show us who we are and who we could be. A society that values libraries is a forward-looking society equipped to succeed in the global village.
 
-Books make up the bulk of information resources available in libraries. Over time, library buildings have come to be regarded as repositories for a variety of print materials such as books, manuscripts, newspapers and periodicals. With advances in media technology, the notion of what makes a library has evolved. Besides books, the modern library now offers other information resources such as photographs, motion pictures, and video and sound recordings for public access.[^1]
+Books make up the bulk of information resources in libraries. Over time, library buildings have come to be regarded as repositories for a variety of print materials such as books, manuscripts, newspapers and periodicals. With advances in media technology, the notion of what makes a library has evolved. Besides books, the modern library now offers other information resources such as photographs, motion pictures and video and sound recordings for public access.[^1]
 
-In the current digital age, the library is undergoing what may be its most significant evolution yet. Computers and multimedia stations are now ubiquitous in library reading rooms as a result of the development of digital technology and the popularity of the Internet as a means of accessing information. Libraries have become hybrid spaces offering access to both print and digital resources.[^2]
+In the current digital age, the library is undergoing what may be its most significant evolution yet. Computers and multimedia stations are now ubiquitous in library reading rooms as a result of the development of digital technology and the popularity of the internet as a means of accessing information. Libraries have become hybrid spaces offering access to both print and digital resources.[^2]
 
-The needs and expectations of library users are also changing. Users are now able to access information remotely and at any time of day, and have come to expect the delivery of information resources in multiple formats, with round-theclock online access. The way in which users consume information has also changed — information is shared, sampled and remixed to create new ideas and products. The result is new products incorporating repurposed content.[^3]
+The needs and expectations of library users are also changing. Users are now able to access information remotely and at any time of day, and have come to expect the delivery of information resources in multiple formats, with round-the-clock online access. The way in which users consume information has also changed: information is shared, sampled and remixed to create new ideas and products. The result is new products incorporating repurposed content.[^3]
 
 
-#### **Whither the physical library?**
+#### **Whither the Physical Library?**
 
-With the growth of digital resources, some have questioned the need for physical libraries. As information resources become increasingly available online, are physical libraries still necessary? The answer is a resounding yes. Studies show that, despite living in a world where information resources can be accessed remotely, people are still visiting library buildings.[^4] Today’s library users are social creatures who continue to value physical libraries because the latter enable shared experiences, communication and interaction.
+With the growth of digital resources, some have questioned the need for physical libraries. As information resources become increasingly available online, are physical libraries still necessary? The answer is a resounding yes. Studies show that despite living in a world where information resources can be accessed remotely, people are still visiting library buildings.[^4] Today’s library users are social creatures who continue to value physical libraries because the latter enable shared experiences, communication and interaction.
 
 People continue to use libraries for traditional activities such as borrowing and returning library materials, and as sanctuaries for quiet reading and study. However, gone are the dusty, silent libraries of the past. Libraries are no longer just knowledge repositories; they are now hubs of community life where people connect through collaborative activities.
 
@@ -210,7 +210,7 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^3]: Daniel J. Caron. (31 May 2012). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
 
-[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (Jan 2013). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet & American Life Project. Retrieved from Pew Research Center website.
+[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (Jan 2013). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
 
 [^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437—441.
 
@@ -230,13 +230,13 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^13]: Thomas Köster. (Nov 2011). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
 
-[^14]: Köster, Nov 2011.  
+[^14]: Köster, Nov 2011. &nbsp;
 
 [^15]: The Seattle Public Library. (Oct 2004). *Metropolis Mag*. Retrieved from metropolismag.com website.
 
 [^16]: Lynn Becker. (2003-2006). *Sleekness in Seattle. Repeat*. Retrieved from lynbecker.com website.
 
-[^17]: Halifax Public Library. (2012). Retrieved from Halifax Public Library website.   
+[^17]: Halifax Public Library. (2012). Retrieved from Halifax Public Library website.&nbsp; &nbsp;
 
 [^18]: National Library Board. (2013). _[History of the National Library](https://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx)_. Accessed at http://www.nl.sg/.
 
