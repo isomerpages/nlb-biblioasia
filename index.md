@@ -17,6 +17,13 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Tennis/tennis_hero_img.jpg
   - infopic:
+      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      subtitle: Print
+      description: The story of Operation Jaywick, a daring attack on Japanese ships
+        at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
+      alt: Image alt text
+      url: vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+  - infopic:
       title: "32 Binjai Park: The Modernist Home of an Architect"
       subtitle: Places and Buildings
       description: The house that Lee Kip Lin built has stood the test of time,
@@ -535,12 +542,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
-      subtitle: Infopic Subtitle
-      description: "The story of Operation Jaywick, a daring attack on Japanese ships
-        at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
-        "
-      button: Button Text
-      alt: Image alt text
 ---
