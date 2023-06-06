@@ -25,6 +25,10 @@ The Indo-Saracenic style is closely associated with British imperialism. The Bri
 
 This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s preeminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
 
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture1.jpg" style="width:80%;">
+ <div style="background-color: white;">An image of the future Sultan Mosque created in 1925.<i> Courtesy of the Sultan Mosque.</i></div>
+
+
 #### **The Indo-Saracenic Style**
 
 The choice of Indo-Saracenic style for the Sultan Mosque may be viewed as a culmination of a number of factors beginning with the birth of the style in British India, notions of modernity and Islamic aesthetics, and, last but not least, British colonialism in Malaya.
@@ -53,7 +57,6 @@ Santry may have modelled his design after the Taj Mahal[^15] – the Mughal maus
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Taj%20mahal.jpg">
 <div style="background-color: white;">
 The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Courtesy of Joyce Iris Zaide.	</i></div>
-	
 
 *Chhatris* are domed circular or polygonal pavilions that became highly ornamental features in Islamic architecture in India, and were in turn absorbed into the Indo-Saracenic decorative vernacular. Instead of a central and extremely monumental dome as seen on the Taj Mahal, two domes with a diameter of 40 feet each are positioned on opposite sides of the Sultan Mosque, one above the elevation facing North Bridge Road, and another over the main entrance to the mosque, facing the present Bussorah Mall. Flanking the monumental onion domes that rise above the corner minarets to 100 feet above ground level are four *chhatris*, just as four *chhatris* surround the Taj Mahal dome.
 
@@ -66,7 +69,6 @@ Ornamental crestings fringe the edge of the roofline similar to those found on t
 
 <img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/main%20entrance%20prayer%20hall.jpg" style="width:80%;">
  <div style="background-color: white;">The main entrance to the prayer hall from Bussorah Street. The entrance foyer is in the form of an Indian<i> chhajja</i>. The windows are articulated by multi-foil arches (as seen above the<i> chhajja</i>) and pointed arches in different scales and proportions. <i>MITA Collection, courtesy of the National Archives of Singapore.</i></div>
-
 
 The mosque is elevated about 10 feet above the ground, with double staircases leading to the main entrance. There is one auxiliary entrance on each of the long sides of the mosque. The main entrance porch is designed in the form of a *chhajja*, a classical Indian rectangular pavilion with elaborate overhanging eaves. This feature was absorbed into Indian-Islamic architecture, and later into the Indo-Saracenic style. The series of arches that run from the back of the prayer hall to the *qibla* wall, and perhaps all the window and door frames within the building, as well as the mouldings on the *qibla* wall, are in the form of pointed-arches, multifoil arches or cusped arches. These hallmark Indo-Saracenic shapes were assembled from both European and Indian arch traditions.
 
