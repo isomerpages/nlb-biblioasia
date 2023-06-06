@@ -21,8 +21,10 @@ sections:
       subtitle: Print
       description: The story of Operation Jaywick, a daring attack on Japanese ships
         at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
-      alt: Image alt text
-      url: vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      alt: Operation Jaywick
+      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      image: /images/Vol 19 Issue 2/Operation Jaywick/image_4.png
+      button: The Victor Book for Boys
   - infopic:
       title: "32 Binjai Park: The Modernist Home of an Architect"
       subtitle: Places and Buildings
