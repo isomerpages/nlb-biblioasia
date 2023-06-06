@@ -9,7 +9,7 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Message from IFLA President-Elect</a>
+<a style="text-decoration: none; font-weight: bold;" href="//vol-9/issue-2/jul-sep-2013/libraries-life/">Message from IFLA President-Elect</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-to-sep-2013/director-note/">Libraries for Life</a><br>Libraries have been gateways of discovery and learning. Find out how they can continue to be relevant and meaningful to people with competing needs and shrinking budgets. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
 
