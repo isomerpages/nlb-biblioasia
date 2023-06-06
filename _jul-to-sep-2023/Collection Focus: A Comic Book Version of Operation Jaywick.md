@@ -121,7 +121,7 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 
 [^1]: *The Victor Book for Boys* was an annual accompaniment to the weekly comic paper, *The Victor*, which ran from 25 January 1961 to 21 November 1992 (1,657 issues). The majority of the stories in the paper were about the exploits of the British military in World War II. There were 31 annuals altogether and these were published from 1964 to 1994. 
 
-[^2]: Lynette Ramsay Silver, [*Deadly Secrets: The Singapore Raids, 1942–45*](http://eservice.nlb.gov.sg/item_holding\_s.aspx?bid=13726463) (Binda, New South Wales: Sally Milner Publishing, 2010). (From National Library, Singapore, call no. RSING 940.5425957 SIL-[WAR]); “SOA, M &amp; Z Special Units, Operation Jaywick Myths,” Lynette Ramsay Silver, AM, MBE, accessed 26 April 2023, https://lynettesilver.com/special-operations-australia/soa-m-z-special-units-operation-jaywick-myths/.
+[^2]: Lynette Ramsay Silver, [*Deadly Secrets: The Singapore Raids, 1942–45*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726463) (Binda, New South Wales: Sally Milner Publishing, 2010). (From National Library, Singapore, call no. RSING 940.5425957 SIL-[WAR]); “SOA, M &amp; Z Special Units, Operation Jaywick Myths,” Lynette Ramsay Silver, AM, MBE, accessed 26 April 2023, https://lynettesilver.com/special-operations-australia/soa-m-z-special-units-operation-jaywick-myths/.
 
 [^3]: The dark brown cream was apparently made by the cosmetics brand, Helena Rubinstein. See Silver, [*Deadly Secrets*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726463), 152.  
 
