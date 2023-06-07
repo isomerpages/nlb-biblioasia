@@ -52,7 +52,13 @@ One may contend that a rich country is not necessarily a developed one. However,
 
 The Silk Road or the Silk Route is the most well known trading route of ancient Chinese civilisation. It was discovered more than 2,000 years ago by Chang Chi’in, a Chinese traveller who had crossed China on a secret military mission that would later help China discover Europe and the origins of the Silk Road.[^14] Travelling more than 7,000 kilometres, horse caravans crossed China, Central Asia, and the Middle East, carrying cosmetics, rare plants, medicines, aromatic items, spices woods, books and others.[^15] However, silk was the most important product because the Romans and Arabs appreciated it. The Romans desired it to the extent that during the times when demand for silk increased substantially, Rome had to pay for it with vast amounts of gold.[^16] Both the Silk Road and China achieved its greatest glory during the Tang Dynasty (618–907), which is generally regarded as China’s “golden age.”[^17] Its capital Chang’an, “the Rome of Asia”, which served as the point of departure for travellers using the Silk Road, was one of the most cosmopolitan cities then.[^18]
 
+<img src="/images/Vol%204%20Issue%201/merchandiseexport.jpg" style="width:80%;">
+ <div style="background-color: white;">Merchandise Exports.  <i> Source: Trade, Investments in the Middle East and North Africa, Engaging with the World. (2003). Washington D.C.: World Bank.</i></div>
+
 Singapore would perhaps perform the task of Chang’an in this modern era. Singapore enjoys a good reputation among its neighbours and the international community.
+	
+<img src="/images/Vol%204%20Issue%201/merchandiseimports.jpg" style="width:80%;">
+ <div style="background-color: white;">Merchandise Imports. <i>Source: Trade, Investments in the Middle East and North Africa, Engaging with the World. (2003). Washington D.C.: World Bank.</i></div>
 
 Its sophisticated infrastructures, strategic location and favourable business environment are but some of the several factors that would enable Singapore to take the lead in reconnecting Asia and the Middle East. Indeed, all the developments- (including political, economic and social) forecast a revival of the Silk Road. History has always played a role in linking disparate regions, as seen from the trading links between Middle East via Arab traders in Singapore.[^19] It is these established networks that enable Singapore and the Middle East to enhance their cooperation and exchanges towards a more vital and dynamic relationship.
 <div>
