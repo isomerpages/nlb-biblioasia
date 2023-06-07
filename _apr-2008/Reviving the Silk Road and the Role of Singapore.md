@@ -24,6 +24,9 @@ In June 2005, Singapore also hosted the inaugural AsiaMiddle East Dialogue (AMED
 
 #### **New Markets and Businesses**
 
+<img src="/images/Vol%204%20Issue%201/mena%20oil1.jpg" style="width:80%;">
+ <div style="background-color: white;">MENA Oil and Natural Gas Export Revenues, Share by Country.<i> Source: Arab Oil and Gas Directory. (2007). Paris: Arab Petroleum Research Center.</i></div>
+
 Many Middle Eastern economies, especially the Gulf Cooperation Council states (GCC) - comprising Saudi Arabia, the United Arab Emirates, Kuwait, Qatar, Bahrain and Oman - are witnessing an unprecedented increase in revenues because of sustained oil prices over the last few years. Together with Iran, the Gulf States account for 84% of the world’s known recoverable oil reserves.[^4] In 2006, world oil demand also grew by 0.9%, hence benefiting the oil producers.[^5] In a recent study done by financial investment company Arcapital, it was reported that for the past five years, the GCC’s collective annual current-account surplus had risen from US$25bn to over US$200bn.[^6] The study revealed that official reserves had doubled from US$51bn in 2002 to US$98bn in 2007, and were expected to reach US$100bn by 2008.[^7] Unfortunately, while this has positive implications on the local economy and social life of the people, it has the potential to bring about more conflicts and instability to the region. Indeed, in the last 25 years, many wars in the regions were fought over oil.[^8] Cases in point would be the Iraq-Iran war from 1980 to 1988, the invasion of Kuwait by Iraq in 1990 and the war in Iraq to liberate Kuwait in 1991. Even the invasion of Iraq in 2003 could possibly be construed as being motivated by the desire to secure oil resources in Iraq.
 
 Besides the cash surplus generated from the energy industry, one should take note of the rise of a new business elite in the Gulf States. Members of this group have studied in well-known Western Universities and have good business knowledge. This new elite comprises youths who are equipped with capital, knowledge and ambition and are eager to move away from the energy business. Although it is too early to speculate that more of these elite’s investments would find its way to Asian markets, especially China, Singapore, India and Malaysia, it would certainly be interesting to watch an important group of these investors daring to take risks in their homeland by investing in new economic sectors such as tourism, bio-industry and real estate. It is possible that these young businessmen possess more decisiveness in taking charge of their wealth and the capacity for growth. Current geopolitical developments are also in favour of such a shift. The Middle Eastern governments are also seeing the need to support and establish the policy framework for these elite to embark on new businesses.
@@ -34,12 +37,14 @@ With just a surface area of 692.7km, Singapore sets an exceptional success story
 
 Today the name Singapore is synonymous with sophisticated infrastructures, cleanliness, efficiency, good governance and many other factors that have contributed to the success of the country. Such factors have enabled the country to attract more business from all over the world. To cite one example, the World Bank report has ranked Singapore as the world’s easiest place to do business. As Table 1 shows,[^9] Singapore is ranked first, ahead of several countries with long business traditions and capabilities such as the United States and Hong Kong.
 
-<img src="/images/Vol%204%20Issue%201/mena%20oil1.jpg" style="width:80%;">
- <div style="background-color: white;">MENA Oil and Natural Gas Export Revenues, Share by Country.<i> Source: Arab Oil and Gas Directory. (2007). Paris: Arab Petroleum Research Center.</i></div>
+**TABLE 1: WORLD’S EASIEST PLACE TO DO BUSINESS**
+
+<img src="/images/Vol%204%20Issue%201/easiestplace1.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Source: World Bank report: Doing Business 2007: How to Reform Retrieved from <a href="http://www.edb.gov.sg/edb/sg/en_uk/index/why_ singapore/singapore_rankings.html">http://www.edb.gov.sg/edb/sg/en_uk/index/why_ singapore/singapore_rankings.html</a><a></a></i></div><a>
 
 Singapore has been strong in industries such as oil refining, ship repairing and electronic. Recently the country is also moving towards non-electronic industries such as the bio-chemicals and finance.[^10] A good indication of the country’s economic power is the consistent surplus of exports over imports as indicated in Table 2.[^11]
 
-<img src="/images/Vol%204%20Issue%201/capture1.jpg" style="width:80%;"><div style="background-color: white;">Arab and World Oil Reserves, 2001–2005. <i>Source: Arab Oil and Gas Directory. (2007). Paris: Arab Petroleum Research Center.</i></div>
+<img src="/images/Vol%204%20Issue%201/capture1.jpg" style="width:80%;">Arab and World Oil Reserves, 2001–2005. <i>Source: Arab Oil and Gas Directory. (2007). Paris: Arab Petroleum Research Center.</i>
 
 One may contend that a rich country is not necessarily a developed one. However, Singapore is different: the country does not have any natural resources. Indeed, the country’s exports comprised mainly electronic products, scientific instruments, crude material, chemical products and technology.[^12] Singapore companies are involved in big projects in many countries in Asia or Middle East.[^13]
 
@@ -115,4 +120,4 @@ _The Gulf: Future Security and British Policy_ (Abu Dhabi: Reading: Emirates Cen
 
 [^18]: Hopkirk, “[Rise and Fall of the Silk Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3045726),” 28.
 
-[^19]: L. W. C. van den Berg, _[Le Ḥadhramout Et Les Colonies Arabes Dans L’archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia: Imprimerie du Gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)
+[^19]: L. W. C. van den Berg, _[Le Ḥadhramout Et Les Colonies Arabes Dans L’archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia: Imprimerie du Gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)</a>
