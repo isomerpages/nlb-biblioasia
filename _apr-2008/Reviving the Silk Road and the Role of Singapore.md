@@ -34,7 +34,12 @@ With just a surface area of 692.7km, Singapore sets an exceptional success story
 
 Today the name Singapore is synonymous with sophisticated infrastructures, cleanliness, efficiency, good governance and many other factors that have contributed to the success of the country. Such factors have enabled the country to attract more business from all over the world. To cite one example, the World Bank report has ranked Singapore as the world’s easiest place to do business. As Table 1 shows,[^9] Singapore is ranked first, ahead of several countries with long business traditions and capabilities such as the United States and Hong Kong.
 
+<img src="/images/Vol%204%20Issue%201/mena%20oil1.jpg" style="width:80%;">
+ <div style="background-color: white;">MENA Oil and Natural Gas Export Revenues, Share by Country.<i> Source: Arab Oil and Gas Directory. (2007). Paris: Arab Petroleum Research Center.</i></div>
+
 Singapore has been strong in industries such as oil refining, ship repairing and electronic. Recently the country is also moving towards non-electronic industries such as the bio-chemicals and finance.[^10] A good indication of the country’s economic power is the consistent surplus of exports over imports as indicated in Table 2.[^11]
+
+<img src="/images/Vol%204%20Issue%201/capture1.jpg" style="width:80%;"><div style="background-color: white;">Arab and World Oil Reserves, 2001–2005. <i>Source: Arab Oil and Gas Directory. (2007). Paris: Arab Petroleum Research Center.</i></div>
 
 One may contend that a rich country is not necessarily a developed one. However, Singapore is different: the country does not have any natural resources. Indeed, the country’s exports comprised mainly electronic products, scientific instruments, crude material, chemical products and technology.[^12] Singapore companies are involved in big projects in many countries in Asia or Middle East.[^13]
 
