@@ -63,6 +63,9 @@ Hence, the Church began its next phase of development by forming parishes along 
 
 A more localised Catholic community had emerged in Singapore by the early 20th century, decades before the notion of nationhood was conceived on the island. In its transition to find a niche in a society that was in transition itself, the Singapore Catholic Church had become more than just a component within the wider pre-war colonial order. The emergent Church was more than just a religious community. It had become a visible and self-generating social community.
 
+<div>
+<center><b>Clement Liew</b><br> PhD candidate<br>National Institute of Education, Nanyang Technological University</center></div>
+
 
 
 
