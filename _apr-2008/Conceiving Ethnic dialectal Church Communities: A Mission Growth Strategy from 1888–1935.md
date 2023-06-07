@@ -55,6 +55,15 @@ Another sign that a more indigenised Catholic community had already been rooted 
 
 Although this trend towards communal self-help was typical of ethnic-oriented trend of development within the Church in the pre-war years, communal separation did not amount to discriminatory segregation. Perhaps, what is pertinent here is that the communal Church had begun sharing the traditional social-welfare functions of the French clergy, the same functions that had indigenised the institutional Church. Hence, it can be seen that among the ethnic Christian communities, a sense of communal “ownership” of the Church had already arisen in the prewar years. When Fr Stephen Lee was entrusted with the stewardship of the whole Chinese Catholic Mission in 1929, following the death of Fr Mariette, an indigenous clergyman was placed solely in-charge of the Chinese Catholic community for the first time.47
 
+#### **In Retrospect**
+
+Though throughout the 19th century the Church in Singapore was fundamentally multi-ethnic, Church growth was mainly dependent on the addition of Chinese Christians to the Mission. It was in no small part due to the Mission’s concerted effort in fostering the creation of families among the Chinese Christians, and the subsequent emergence of Catholic communal enclaves across the island, that it was possible for the Church to reach a certain level of maturity. By the turn of the century, the Chinese Catholic community had grown so large and dialectally diverse that it became necessary to allow for divergence in the hitherto singular Chinese Mission.
+
+Hence, the Church began its next phase of development by forming parishes along ethnic-dialectal lines, a strategy that was greatly aided by the Mission’s founding of communal enclaves around each established parish. In essence, the desire for communal division by the dialectal subgroups within the Chinese Catholic community was also in reality their expression of communal self-identity vis-a-vis others in the Church. Clearly, a more indigenised Chinese Catholic community had taken root in Singapore at the turn of the century. In retrospect, the emergence of this community in Singapore in the pre-war years was the outcome of social evolution as well as the fruit of institutional action.
+
+A more localised Catholic community had emerged in Singapore by the early 20th century, decades before the notion of nationhood was conceived on the island. In its transition to find a niche in a society that was in transition itself, the Singapore Catholic Church had become more than just a component within the wider pre-war colonial order. The emergent Church was more than just a religious community. It had become a visible and self-generating social community.
+
+
 
 
 
