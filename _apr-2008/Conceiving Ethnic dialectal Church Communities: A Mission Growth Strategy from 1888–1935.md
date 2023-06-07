@@ -65,3 +65,102 @@ A more localised Catholic community had emerged in Singapore by the early 20th c
 
 <div>
 <center><b>Clement Liew</b><br> PhD candidate<br>National Institute of Education, Nanyang Technological University</center></div>
+
+#### **NOTES**
+      
+[^1]: At Bukit Timah, the land exhaustion of the 1850s led most of the district’s Teochew Catholic agriculturists to re-migrated elsewhere. Yet, a small community of several hundred always remained at the Bukit Timah parish, partly due to the fact that they resided on parish land and that the parish still had 40,000 rubber trees that kept them employed. See Annales des Missions Etrangeres, Malaisie (An ME), Archives de la Societe des Missions Etrangeres de Paris, 1907–1911, 305.
+
+[^2]: Archives de la Missions Etrangeres (AME 905/342), 1883–1884; 906/111, 1903–1904; 906/180, 1916.
+
+[^3]: Phang Lee Kiong, “The Development of the Teochew Community in Kangkar, Upper Serangoon Road - Migrants Adjustability and Social Change” (Bachelor’s theses, National University of Singapore, 1971), 34, https://scholarbank.nus.edu.sg/handle/10635/238211.
+
+[^4]: Compte Reudu (CR), Malaisie, 1892, 203–10.
+
+[^5]: Straits Settlements, _[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_, June 1910, 1305–06. (Call no. RRARE 959.51 SGG; microfilm NL1232)
+
+[^6]: Phang, “Teochew Community,” 34.
+
+[^7]: Phang, “Teochew Community,” 34.
+
+[^8]: An ME, 1906, 237–39.
+
+[^9]: CR 1922, 123–28.
+
+[^10]: CR 1921, 105–10; CR 1925, 113–18.
+
+[^11]: _Straits Settlements Annual Report, Education Reports and Appendices, 1860–1870_. From an annual average of 25 Indian Christian boys enrolled at the school in the 1860s, the number rose to 36 in the 1870s.
+
+[^12]: AME 905/373, 1886; CR 1885, pp.108–12.
+
+[^13]: CR 1886, pp.112–16; AME 905/365, 5 Jun 1885; 905/379, 7 Feb 1887 and 905/410, 10 May 1888. The presbytery was erected in 1887, with the ground floor occupied by the new Anglo-Tamil Mission School. Sir Frederic Weld, Singapore’s first Catholic governor, helped to secure the land. Our Lady of Lourdes was not unlike the Chinese Catholic enclaves in the interior of Singapore where the creation of close-knit communities had become catalytic to Church growth. By 1892, there were 750 Indian Catholics on the island. See AME 906/50, 1893.
+
+[^14]: AME 905/342, 1884; 906/99, 1901.
+
+[^15]: CR 1889, 189–91.
+
+[^16]: CR 1904, 215–22.
+
+[^17]: “Benediction”, speech written by Fr Gazeau in September 1910 on the occasion of the blessing and opening of the Church of Sacred Heart– found written in the last pages of the parish’s first Confirmation Register.
+
+[^18]: CR 1897, 206–20.
+
+19\. Gazeau, “Benediction.”
+
+20\. CR 1898, 198–211.
+
+21\. Gazeau, “Benediction”; Church of the Sacred Heart, _75th Anniversary Souvenir_ (Singapore: Church of the Sacred Heart, 1985), 14. Chan Teck Hee had also provided the building material of the church.
+
+22\. CR 1927, 124–30.
+
+23\. CR 1924, 103–07.
+
+24\. CR 1902, 212–24.
+
+25\. CR 1912, 239–49.
+
+26\. CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_ (Singapore: Catholic Young Men Association, St Teresa’s Church, 1947), 19. (From PublicationSG)
+
+27\. CR 1926, 128–34.
+
+28\. CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_, 21–22.
+
+29\. “The Church of St Teresa,” _Stephen Lee’s Manuscript Journal_, 6 December 1926.
+
+30\. “The Church of St Teresa,” Lee was made head of the Chinese Mission upon from&nbsp; Mariette’s death, 13 March 1928.
+
+31\. “The Church of St Teresa,” 1929.
+
+32\. “Baptism Registers,” St Teresa’s Church, 1929–1934.
+
+33\. Lee, “St Teresa’s”, 6 April 1935.
+
+34\. CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_, 53.
+
+35\. Lee, “St Teresa’s.”
+
+36\. When Rome restored the Diocese of Malacca in 1888, the Vicar Apostolic of Malaya was then conferred the title of Titular Bishop. The Church of the Good Shepherd was then officially renamed a Cathedral.
+
+37\. Baptism Registers, Cathedral, 1906–1930s. There were no Japanese names on the baptismal registers of any other parishes before the war except at the Cathedral. The Japanese Christians, though Asians, were unlikely to have been welcomed at the Chinese parishes during this period of Chinese anti-Japanese sentiments.
+
+38\. CR 1896, 256–60; SSAR 1893, 323–30.
+
+39\. Myrna Braga-Blake and Ann Ebert-Oehlers, eds., _[Singapore Eurasians: Memories and Hopes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_ (Singapore: Times Editions, 1992), 61. (Call no. RSING 305.80405957 SIN)
+
+&nbsp;40\. Braga-Blake and Ebert-Ohlers, _[Singapore Eurasians](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_, 61. This chapel was demolished in 1932, and the present one erected.
+
+41\. Straits Settlements, _[Blue Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)_ (Singapore: Govt. Print. Off., 1930), 638, 648. (Call no. RRARE 315.957 SSBB). In 1930, the town Convent founded a branch of their school at Katong, and the Brothers followed suit by converting their bungalow there into St Patrick’s School in 1933.
+
+42\. A discussion on how fraternities were aspects of a mature community can be found in Phelan, The Hispanization of the Philippines, 74. There were several social welfare associations formed within the Church before 1900, the St Vincent de Paul Society and the Singapore Catholic Funeral (Benevolent) Association. Though a third of the SCBA membership was non-Eurasian, it was a Eurasian-dominated organization. See _[The Singapore and Malayan Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057493)_ (Singapore: Fraser and Neave, 1922), 97 (Call no. RRARE 382.09595 STR; microfilm NL1191–NL1193); Singapore Catholic Benevolent Association, _Management Committee’s Report and Accounts For 1922_ (Singapore: CA Ribeiro, 1923), 7–11.
+
+43\. _[Singapore and Straits Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490)_ (Singapore: Fraser and Neave, 1919), 107; “Clubs, Societies and Associations,” _[The Singapore and Malayan Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057493)_ (Singapore: Fraser and Neave, 1927). (Call no. RRARE 382.09595 STR; microfilm NL1191–NL1193)
+
+44\. SMD 1922, 96; 1940, 1023.
+
+45\. SSBB, 1926, Friendly Societies, Section 30.
+
+46\. Straits Settlements Executive Council Minutes, 24 Jul 1913, 525.
+
+47\. It has been observed that in a Mission, indigenous Christians, who were ordained ministers, were still regarded as assistants to the foreign missionaries. See Christian Neill, &nbsp;_Missions_, 515. Fr Lee was assisting anyone in 1929.
+
+
+
