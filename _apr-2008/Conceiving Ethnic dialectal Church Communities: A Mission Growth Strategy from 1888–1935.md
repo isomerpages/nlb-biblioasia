@@ -53,7 +53,7 @@ From 1902, when the completion of Tanjong Katong Road made access from town to t
 
 Another sign that a more indigenised Catholic community had already been rooted in Singapore prior to World War II was the emergence of ethnic-based fraternities and welfare organisations within the Church.42 In 1917, Chinese and Indian Christians of the Mission came together to found the Catholic Union, a pan-ethnic social action organisation that brought the Mission’s Asiatic Christians together.43 By 1922, the Catholic Union was entirely constituted by the Chinese Christians while the Indian Christians went on to form their own Catholic Young Men’s Association in 1928.44 At the Serangoon parish, the St Joseph’s Dying Aid Association was established in 1926 to aid parishioners in times of bereavement.45 The Indian Christians too had their very own funeral association, the Indian Catholic Benevolent Society, which they founded in 1914.46
 
-
+Although this trend towards communal self-help was typical of ethnic-oriented trend of development within the Church in the pre-war years, communal separation did not amount to discriminatory segregation. Perhaps, what is pertinent here is that the communal Church had begun sharing the traditional social-welfare functions of the French clergy, the same functions that had indigenised the institutional Church. Hence, it can be seen that among the ethnic Christian communities, a sense of communal “ownership” of the Church had already arisen in the prewar years. When Fr Stephen Lee was entrusted with the stewardship of the whole Chinese Catholic Mission in 1929, following the death of Fr Mariette, an indigenous clergyman was placed solely in-charge of the Chinese Catholic community for the first time.47
 
 
 
