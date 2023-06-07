@@ -11,6 +11,9 @@ image: /images/Vol 4 Issue 1/camels2.jpg
 ---
 #### The possibility of the Middle East emerging as a new economic giant in this new century has given rise to romantic notions of a “New Silk Road” that would link Asia and the Middle East. While China’s ancient capital Chang’an had served as the point of departure for travellers using the Silk Road, Singapore could perhaps be the modern-day Chang’an and be the bridge between Asia and the Middle East.
 
+<img src="/images/Vol%204%20Issue%201/camels2.jpg" style="width:80%;">
+ <div style="background-color: white;"></div>
+
 As the Middle East and Asia realise the benefits to be gained from collaboration, the prospects of reviving ties between the two regions have grown more than ever before. The possibility of the Middle East emerging as a new economic giant in this new century has given rise to romantic notions of a “New Silk Road” that would link Asia and the Middle East in a revival of the old trans-regional arc of mutual prosperity. While China’s capital Chang’an had served as the point of departure for travellers using the Silk Road, today, Singapore could perhaps be the modern-day Chang’an and build the bridge between Asia and the Middle East as both Arabs and Asians rediscover each other.
 
 #### **Singapore and the Middle East: Increasing Mutual Cooperation**
@@ -108,6 +111,3 @@ _The Gulf: Future Security and British Policy_ (Abu Dhabi: Reading: Emirates Cen
 [^18]: Hopkirk, “[Rise and Fall of the Silk Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3045726),” 28.
 
 [^19]: L. W. C. van den Berg, _[Le Ḥadhramout Et Les Colonies Arabes Dans L’archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia: Imprimerie du Gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)
-
-
-
