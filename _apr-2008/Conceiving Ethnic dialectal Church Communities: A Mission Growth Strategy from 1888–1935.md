@@ -104,63 +104,60 @@ A more localised Catholic community had emerged in Singapore by the early 20th c
 
 [^18]: CR 1897, 206–20.
 
-19\. Gazeau, “Benediction.”
+[^19]: Gazeau, “Benediction.”
 
-20\. CR 1898, 198–211.
+[^20]: CR 1898, 198–211.
 
-21\. Gazeau, “Benediction”; Church of the Sacred Heart, _75th Anniversary Souvenir_ (Singapore: Church of the Sacred Heart, 1985), 14. Chan Teck Hee had also provided the building material of the church.
+[^21]: Gazeau, “Benediction”; Church of the Sacred Heart, _75th Anniversary Souvenir_ (Singapore: Church of the Sacred Heart, 1985), 14. Chan Teck Hee had also provided the building material of the church.
 
-22\. CR 1927, 124–30.
+[^22]: CR 1927, 124–30.
 
-23\. CR 1924, 103–07.
+[^23]: CR 1924, 103–07.
 
-24\. CR 1902, 212–24.
+[^24]: CR 1902, 212–24.
 
-25\. CR 1912, 239–49.
+[^25]: CR 1912, 239–49.
 
-26\. CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_ (Singapore: Catholic Young Men Association, St Teresa’s Church, 1947), 19. (From PublicationSG)
+[^26]: CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_ (Singapore: Catholic Young Men Association, St Teresa’s Church, 1947), 19. (From PublicationSG)
 
-27\. CR 1926, 128–34.
+[^27]: CR 1926, 128–34.
 
-28\. CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_, 21–22.
+[^28]: CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_, 21–22.
 
-29\. “The Church of St Teresa,” _Stephen Lee’s Manuscript Journal_, 6 December 1926.
+[^29]: “The Church of St Teresa,” _Stephen Lee’s Manuscript Journal_, 6 December 1926.
 
-30\. “The Church of St Teresa,” Lee was made head of the Chinese Mission upon from&nbsp; Mariette’s death, 13 March 1928.
+[^30]: “The Church of St Teresa,” Lee was made head of the Chinese Mission upon from&nbsp; Mariette’s death, 13 March 1928.
 
-31\. “The Church of St Teresa,” 1929.
+[^31]: "The Church of St Teresa,” 1929.
 
-32\. “Baptism Registers,” St Teresa’s Church, 1929–1934.
+[^32]: “Baptism Registers,” St Teresa’s Church, 1929–1934.
 
-33\. Lee, “St Teresa’s”, 6 April 1935.
+[^33]: Lee, “St Teresa’s”, 6 April 1935.
 
-34\. CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_, 53.
+[^34]: CYMA Church of St. Teresa, _[St Teresa Souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109124)_, 53.
 
-35\. Lee, “St Teresa’s.”
+[^35]: Lee, “St Teresa’s.”
 
-36\. When Rome restored the Diocese of Malacca in 1888, the Vicar Apostolic of Malaya was then conferred the title of Titular Bishop. The Church of the Good Shepherd was then officially renamed a Cathedral.
+[^36]: When Rome restored the Diocese of Malacca in 1888, the Vicar Apostolic of Malaya was then conferred the title of Titular Bishop. The Church of the Good Shepherd was then officially renamed a Cathedral.
 
-37\. Baptism Registers, Cathedral, 1906–1930s. There were no Japanese names on the baptismal registers of any other parishes before the war except at the Cathedral. The Japanese Christians, though Asians, were unlikely to have been welcomed at the Chinese parishes during this period of Chinese anti-Japanese sentiments.
+[^37]: Baptism Registers, Cathedral, 1906–1930s. There were no Japanese names on the baptismal registers of any other parishes before the war except at the Cathedral. The Japanese Christians, though Asians, were unlikely to have been welcomed at the Chinese parishes during this period of Chinese anti-Japanese sentiments.
 
-38\. CR 1896, 256–60; SSAR 1893, 323–30.
+[^38]: CR 1896, 256–60; SSAR 1893, 323–30.
 
-39\. Myrna Braga-Blake and Ann Ebert-Oehlers, eds., _[Singapore Eurasians: Memories and Hopes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_ (Singapore: Times Editions, 1992), 61. (Call no. RSING 305.80405957 SIN)
+[^39]: Myrna Braga-Blake and Ann Ebert-Oehlers, eds., _[Singapore Eurasians: Memories and Hopes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_ (Singapore: Times Editions, 1992), 61. (Call no. RSING 305.80405957 SIN)
 
-&nbsp;40\. Braga-Blake and Ebert-Ohlers, _[Singapore Eurasians](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_, 61. This chapel was demolished in 1932, and the present one erected.
+[^40]: Braga-Blake and Ebert-Ohlers, _[Singapore Eurasians](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425)_, 61. This chapel was demolished in 1932, and the present one erected.
 
-41\. Straits Settlements, _[Blue Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)_ (Singapore: Govt. Print. Off., 1930), 638, 648. (Call no. RRARE 315.957 SSBB). In 1930, the town Convent founded a branch of their school at Katong, and the Brothers followed suit by converting their bungalow there into St Patrick’s School in 1933.
+[^41]: Straits Settlements, _[Blue Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982696)_ (Singapore: Govt. Print. Off., 1930), 638, 648. (Call no. RRARE 315.957 SSBB). In 1930, the town Convent founded a branch of their school at Katong, and the Brothers followed suit by converting their bungalow there into St Patrick’s School in 1933.
 
-42\. A discussion on how fraternities were aspects of a mature community can be found in Phelan, The Hispanization of the Philippines, 74. There were several social welfare associations formed within the Church before 1900, the St Vincent de Paul Society and the Singapore Catholic Funeral (Benevolent) Association. Though a third of the SCBA membership was non-Eurasian, it was a Eurasian-dominated organization. See _[The Singapore and Malayan Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057493)_ (Singapore: Fraser and Neave, 1922), 97 (Call no. RRARE 382.09595 STR; microfilm NL1191–NL1193); Singapore Catholic Benevolent Association, _Management Committee’s Report and Accounts For 1922_ (Singapore: CA Ribeiro, 1923), 7–11.
+[^42]: A discussion on how fraternities were aspects of a mature community can be found in Phelan, The Hispanization of the Philippines, 74. There were several social welfare associations formed within the Church before 1900, the St Vincent de Paul Society and the Singapore Catholic Funeral (Benevolent) Association. Though a third of the SCBA membership was non-Eurasian, it was a Eurasian-dominated organization. See _[The Singapore and Malayan Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057493)_ (Singapore: Fraser and Neave, 1922), 97 (Call no. RRARE 382.09595 STR; microfilm NL1191–NL1193); Singapore Catholic Benevolent Association, _Management Committee’s Report and Accounts For 1922_ (Singapore: CA Ribeiro, 1923), 7–11.
 
-43\. _[Singapore and Straits Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490)_ (Singapore: Fraser and Neave, 1919), 107; “Clubs, Societies and Associations,” _[The Singapore and Malayan Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057493)_ (Singapore: Fraser and Neave, 1927). (Call no. RRARE 382.09595 STR; microfilm NL1191–NL1193)
+[^43]: [Singapore and Straits Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490)_ (Singapore: Fraser and Neave, 1919), 107; “Clubs, Societies and Associations,” _[The Singapore and Malayan Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057493)_ (Singapore: Fraser and Neave, 1927). (Call no. RRARE 382.09595 STR; microfilm NL1191–NL1193)
 
-44\. SMD 1922, 96; 1940, 1023.
+[^44]: SMD 1922, 96; 1940, 1023.
 
-45\. SSBB, 1926, Friendly Societies, Section 30.
+[^45]: SSBB, 1926, Friendly Societies, Section 30.
 
-46\. Straits Settlements Executive Council Minutes, 24 Jul 1913, 525.
+[^46]: Straits Settlements Executive Council Minutes, 24 Jul 1913, 525.
 
-47\. It has been observed that in a Mission, indigenous Christians, who were ordained ministers, were still regarded as assistants to the foreign missionaries. See Christian Neill, &nbsp;_Missions_, 515. Fr Lee was assisting anyone in 1929.
-
-
-
+[^47]: It has been observed that in a Mission, indigenous Christians, who were ordained ministers, were still regarded as assistants to the foreign missionaries. See Christian Neill, &nbsp;_Missions_, 515. Fr Lee was assisting anyone in 1929.
