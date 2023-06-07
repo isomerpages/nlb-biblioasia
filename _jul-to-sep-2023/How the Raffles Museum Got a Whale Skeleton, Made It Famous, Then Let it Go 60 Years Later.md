@@ -145,7 +145,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^10]: [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 4–5.
 
-[^11]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071216-1.2.13),” *Singapore Free Press and Mercantile Advertiser*, 16 December 1907, 4. (From NewspaperSG)
+[^11]: “[Raffles Museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080306-1.2.83),” *Straits Times*, 6 March 1908, 8. (From NewspaperSG)
 
 [^12]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 3–4; [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 4–5.
 
