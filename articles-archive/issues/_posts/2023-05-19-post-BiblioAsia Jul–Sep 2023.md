@@ -14,7 +14,7 @@ For more than 60 years, a 13-metre-long whale skeleton was the centrepiece of th
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/director-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/">The One That Got Away: How the Raffles Museum Acquired a Whale Skeleton, Made It Famous, Then Let It Go Six Decades Later
-</a><br>The skeleton of a blue whale took pride of place at the former Raffles Museum for more than 60 years before it was gifted to the National Museum of Malaysia in 1974. *Nathaniel Soon*. [(PDF)](/files/pdf/Vol%2019/Issue%202/1%20raffles%20museum%20whale.pdf)
+</a><br>The skeleton of a blue whale took pride of place at the former Raffles Museum for more than 60 years before it was gifted to the National Museum of Malaysia in 1974. *Nathaniel Soon*. [(PDF)](/files/pdf/Vol%2019/Issue%202/1%20raffles%20museum%20whale%20edited.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/golden-mile-complex/">Golden Mile Complex: Five Decades of an Architectural Icon  </a><br>The collective sale and conservation of Golden Mile Complex will eventually restore a visionary building to its former glory, but the process will also mean the loss of a unique community that has developed there. *Justin Zhuang*.
  [(PDF)](/files/pdf/Vol%2019/Issue%202/2%20golden%20mile%20complex.pdf)
