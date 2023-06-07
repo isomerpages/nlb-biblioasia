@@ -2,4 +2,5 @@ collections:
   apr-2008:
     output: true
     order:
+      - Reviving the Silk Road and the Role of Singapore.md
       - Director's Column.md
