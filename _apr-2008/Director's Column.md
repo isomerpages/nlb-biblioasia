@@ -24,7 +24,3 @@ The National Library Board subscribes to more than 140 electronic databases and 
 In the meantime, please keep your comments and feedback coming. We look forward to seeing you at the National Library.
 
 <b>Ms Ngian Lek Choh</b><br> Director <br>National Library
-
-
-
-
