@@ -49,7 +49,7 @@ But more than that, libraries will be transformed and will continue their essent
 ### **Ten Aspects of the Libraries of Tomorrow**
 
 &gt; Libraries as institutions will continue to be strong supporters of the values we all hold dear: free inquiry, free thought, free speech and pluralism. 
-&gt; <div style="text-align: right">— Dr Ismail Serageldin </div>
+&gt; — Dr Ismail Serageldin 
 
 To prepare for the challenges of tomorrow, libraries today should pursue a number of policies and programmes. Based on our experience in Egypt’s Library of Alexandria, I would suggest the following 10 points.
 
