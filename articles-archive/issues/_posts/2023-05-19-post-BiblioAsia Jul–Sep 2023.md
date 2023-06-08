@@ -31,4 +31,4 @@ For more than 60 years, a 13-metre-long whale skeleton was the centrepiece of th
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/history-pasir-ris/">Bridging Past and Present in Pasir Ris</a><br>Once dotted with plantations and mangrove swamps, Pasir Ris is today a bustling residential town with modern facilities and amenities. *Asrina Tanuri*. [(PDF)](/files/pdf/Vol%2019/Issue%202/8%20history%20of%20pasir%20ris.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/new-books-singapore-history/">New Books on Singapore History </a><br>New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2019/Issue%202/9%20new%20books%20on%20singapore%20history.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/new-books-singapore-history/">New Books on Singapore History </a><br>New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2019/Issue%202/9%20new%20books%20on%20singapore%20history.pdf)
