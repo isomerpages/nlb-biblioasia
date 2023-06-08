@@ -127,6 +127,9 @@ At the point of publishing this essay, the new owners have yet to reveal how the
 
 For more photos of Golden Mile Complex, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex-photos/).
 
+For a timeline of Golden Mile Complex, click [here]
+(https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EAL1xLDNZ-Di14Baiiy_WVVTgzaiyuzB_X6ADYzmkEM&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650)
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/justin_zhuang.png">
