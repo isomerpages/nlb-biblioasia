@@ -347,7 +347,7 @@ sections:
       description: Before there was Sentosa, there was Sarong Island.
       button: Singapore’s first tourist isle
       url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore
-      image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
+      image: /images/Vol 18 Issue 3/Sarong Island/3_WhiteHouse.jpg
       alt: Sarong Island Christina Lee
   - infopic:
       title: The Making of the Monetary Authority of Singapore
