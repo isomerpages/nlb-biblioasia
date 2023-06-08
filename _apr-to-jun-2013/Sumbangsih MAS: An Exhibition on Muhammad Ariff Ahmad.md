@@ -38,9 +38,6 @@ He was a member of the Romanized Malay Spelling committee that developed the Sin
 Muhammad Ariff’s contributions as a teacher were not confined to the realm of education. As highlighted by Guntor Sadali, former editor of *Berita Harian/Berita Minggu*, “Cikgu Ariff is a reference point of the community and he is ever ready with the answers when there are issues about the Malay Language.” Muhammad Ariff reached out to the community through his regular columns and broadcasts through the mainstream media.
 
 #### **Arts for the People**
-
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
- <div style="background-color: white;">Works by Muhammad Ariff Ahmad. From left: <i>Adam Kena Hujan, Suara Guru and Sarah Pengarang Kechil</i>.</div>
  
 Muhammad Ariff was also one of the founding members of the Angkatan Sasterawan ’50 (ASAS ’50) a literary organisation that champions the rights of the community through its members' writings. ASAS ’50 was established with the belief, “united we stand, divided we fall”. He commemorated the founding of ASAS’50 on 6 August 1950 through his poem “Long-lived Unity”.
 
@@ -48,47 +45,44 @@ Muhammad Ariff’s first foray into creative writing was in the field of radio d
 
 At the same time, he decided to record and report the cruelty of Japanese soldiers. However, his short stories such as *Pokok Jarak* (*Barbados Nut*) and *Pondok Buruk* (*Old Hut*) were rejected and not published because anti-Japanese sentiments were expressed too strongly. Pak Sako (Dr Ishak Haji Muhammad), the writer for *Semangat Asia*, advised him to stop if he wished to stay alive.
 
-Muhammad Ariff, together with other writer friends, was conscious of the potential of arts as an instrument to build a society that was facing an uncertain future after the Japanese Occupation. Literature became a platform to seek independence from colonisation and redress for social injustices. It also reflected the hope and ambition to achieve the common goal of attaining “full independence” through their literary works and through the concept of Arts for the masses.
+Muhammad Ariff, together with other writer friends, was conscious of the potential of arts as an instrument to build a society that was facing an uncertain future after the Japanese Occupation. Literature became a platform to seek independence from colonial rule and redress for social injustices. It also reflected the hopes and ambition to achieve the common goal of “full independence” through their literary works and through the concept of "arts for the masses".
 
-In 1947, Muhammad Ariff completed his first novel *Menyahut Seruan Ibunda* (*Answering the Call of Motherland*). It was accepted for publication by Cikgu Harun Aminurrashid. However, it was published as a series in the magazine *Mutiara*.
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
+ <div style="background-color: white;">Works by Muhammad Ariff Ahmad. From left: *Suara Guru*, *Adam Kena Hujan* and *Sarah Pengarang Kechil*.</div>
+ 
+In 1947, Muhammad Ariff completed his first novel, *Menyahut Seruan Ibunda* (*Answering the Call of Motherland*). It was accepted for publication by Cikgu Harun Aminurrashid. However, it was published as a series in the magazine *Mutiara*.
 
-Muhammad Ariff believes that writing is his responsibility, one that allows his fellow countrymen to view life positively and lead a meaningful existence. For instance, his novelette *Sarah Pengarang Kechil*, published in 1957, exemplified his concerns on the importance of education in order for the next generation to achieve success. The novelette was adopted as a textbook for Malay literature. The novel *Mail Mau Kawin* (*Mail Wants to Wed*), published in 1976, considers the issues of the Malay community at that time. The importance of lifelong learning was subtly touched on as one of the ways to overcome the vicious cycle of poverty. Another example is the poem “Is it true?”, which gave rise to controversy when it was published in *Berita Harian* in 1974.
+Muhammad Ariff believed that writing was his responsibility, one that allowed his fellow countrymen to view life positively and lead a meaningful existence. For instance, his novelette *Sarah Pengarang Kechil*, published in 1957, exemplifies his concerns on the importance of education for the next generation to achieve success. The novelette became a textbook for Malay literature. The novel *Mail Mau Kawin* (*Mail Wants to Wed*), published in 1976, considers the issues of the Malay community at the time. The importance of lifelong learning was subtly touched on as one of the ways to overcome the vicious cycle of poverty. Another example is the poem “Is It True?”, which stirred controversy when it was published in *Berita Harian* in 1974.
 
-“Is It True” encouraged readers to reflect and compare Truth and Falsehood. It is a simple poem but has a very deep meaning. The poem was able to provoke readers to think about life via the beauty of poetry.
+“Is It True” encourages readers to reflect and compare truth and falsehood. It is a simple poem with deep meaning. The poem provokes readers to think about life through the beauty of poetry.
 
-His works span almost 65 years of his life and comprise various themes that express his journey and struggles in the fields of literature, language and culture. At the same time, his poems serve as a documentation of our social memories.
+His works spanned almost 65 years of his life and comprise various themes that express his journey and struggles in the fields of literature, language and culture. At the same time, his poems serve as a documentation of our social memories.
 
 #### **Citizen Muhammad Ariff**
 
-Muhammad Ariff’s influence can also be seen in the fields of language and culture. He was appointed as the chairman of the Malay Literature Prize committee that formed to promote literature in Singapore. Initiated by ASAS ’50, it was supported by 18 other non-governmental organisations. Today the award is known as the Malay Literary Award under the purview of the Malay Language Council of Singapore.
+Muhammad Ariff’s influence can also be seen in the fields of language and culture. He was appointed as chairman of the Malay Literature Prize committee which promoted literature in Singapore. Initiated by ASAS ’50, it was supported by 18 other nongovernmental organisations. Today, the award is known as the Malay Literary Award under the purview of the Malay Language Council of Singapore.
 
-The Malay Language Council of Singapore is also responsible for organising the Malay Language Month campaign. Muhammad Ariff has been involved with the initiative since 1965 when it was known as National Language Month. In 1988, he penned the lyrics to *Bahasa Menjunjung Budaya*, which has remained as the Malay Language Month’s theme song till today.
+The Malay Language Council of Singapore is also responsible for organising the Malay Language Month campaign. Muhammad Ariff had been involved with the initiative since 1965 when it was known as the National Language Month. In 1988, he penned the lyrics to *Bahasa Menjunjung Budaya*, which remains as the Malay Language Month’s theme song till today.
 
-Muhammad Ariff’s influence and high regard by the Malay Muslim community is illustrated by the numerous organisations he is a part of, such as the Association of Muslim Professionals and Malay Heritage Centre Foundation. The various awards and accolades bestowed upon him are testaments to a life dedicated to serving the community. Even though he is now in his late eighties, Muhammad Ariff is still sharing his knowledge, thoughts and ideas via a weekly newspaper column in *Berita Harian*. He is indeed an iconic national treasure that can never be replaced.
+Muhammad Ariff’s influence among the Malay Muslim community is evident from the numerous organisations he was part of, such as the Association of Muslim Professionals and Malay Heritage Centre Foundation. The various awards and accolades bestowed on him are testament to a life dedicated to serving the community. Even though in his late eighties, Muhammad Ariff was still sharing his knowledge, thoughts and ideas via a weekly newspaper column in *Berita Harian*. He was indeed an iconic national treasure.
 
-Muhammad Ariff’s many contributions to the community are a manifestation of his philosophy in life: “The life of a tree bears fruit; Let the life of humans be fruitful”. Despite all he has achieved, he still continues to share his knowledge, expertise and service as inscribed in the words of Kiayi (religious leader) in his poem “What will I become?”:
+Muhammad Ariff’s many contributions to the community are a manifestation of his philosophy in life: “The life of a tree bears fruit; let the life of humans be fruitful.” Despite all that he achieved, he continued to share his knowledge, expertise and service as inscribed in the words of Kiayi (religious leader) in his poem “What will I become?”:
 
-<center>What should I become?<br> The Kiayi says: Be as complete as a<br> human can be<br> to the Creator, to others — have piety,<br> have compassion<br> so that you will get Allah’s blessings,<br> even the people will respect you<br> this will benefit you in life, even in the<br> hereafter, you will not lose anything…<br></center>
+<center>What should I become?<br> The Kiayi says: Be as complete as a human can be<br> to the Creator, to others – have piety, have compassion<br> so that you will get Allah’s blessings,<br> even the people will respect you<br> this will benefit you in life, even in the<br> hereafter, you will not lose anything…<br></center>
 
 
 <div>
-<b>Juffri Supa’at</b> is a Senior Librarian with the National Library. He curated the exhibition “Sumbangsih MAS” featuring works by literary pioneer, Muhammad Ariff Ahmad. Juffri compiled a selection of Muhammad Ariff Ahmad’s poetry and also put together a comprehensive bibliography of his works.</div>
-
-	
-	
-
-
+<b>Juffri Supa’at</b> is a Senior Librarian with the National Library. He curated the exhibition “Sumbangsih MAS” featuring works by literary pioneer, Muhammad Ariff Ahmad. Juffri compiled a selection of Muhammad Ariff Ahmad’s poetry and put together a comprehensive bibliography of his works.</div>
 
 
 #### **REFERENCES**
 
 
-
-Juffri Supa’at. (2012). Sumbangsih MAS: Koleksi puisi pilihan. Singapore: National Library of Singapore (original citation); Mas. (2012). [_Sumbangsih MAS: Koleksi puisi pilihan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14598788). Singapore: National Library Board. (Call no.: Malay RSING 899.281 MAS)
+Juffri Supa’at. (2012). *Sumbangsih MAS: Koleksi puisi pilihan*. Singapore: National Library of Singapore (original citation); Mas. (2012). [_Sumbangsih MAS: Koleksi puisi pilihan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14598788). Singapore: National Library Board. (Call no.: Malay RSING 899.281 MAS)
 
 Minamoria. (1974, November 24). [Sajak harus dibaca, didengar dan dilihat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19741124-1.2.27.1). _Berita Harian_, p. 13. Retrieved from NewspaperSG.
 
-Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (Ed.). (2005). [_Leksikon: Direktori penulis Melayu Singapura pasca 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12567839). Singapore: Angkatan Sasterawan’ 50 &amp; National Library Board. (Call no.: Malay RSING 899.280255957 LEK)
+Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (Ed.). (2005). [_Leksikon: Direktori penulis Melayu Singapura pasca 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12567839). Singapore: Angkatan Sasterawan ’50 &amp; National Library Board. (Call no.: Malay RSING 899.280255957 LEK)
 
 Muhammad Ariff Ahmad. (2003). [_Perjalanan Mas: Memoir Muhammad Ariff Ahmad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12236487). Singapore: Angkatan Sasterawan’ 50. (Call no.: Malay RSING q499.28092 MUH)
 
