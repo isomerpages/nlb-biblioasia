@@ -294,7 +294,7 @@ sections:
       description: 面对数码时代和读者流失的挑战，新加坡的华文书店逆流生存。
       button: 两条书街，两座书城
       url: /vol-18/issue-4/jan-mar-2023/postwar-Chinese-bookstores-Chinese-Text/
-      image: /images/Vol 18 Issue 4/Chinese Bookstores_Chinese/Chung Hwa Book Co.jpg
+      image: /images/Vol 18 Issue 4/Chinese Bookstore/ChungHwaBooks.jpg
       alt: 大小坡两条书街
   - infopic:
       title: A Voice for the Wild
