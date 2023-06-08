@@ -136,7 +136,7 @@ sections:
         front of the former City Hall building so special.
       button: A NATIONAL MONUMENT
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
-      image: /images/Vol 18 Issue 1/The Padang/padang12.png
+      image: /images/Vol 18 Issue 1/The Padang/Padang 1911.png
       alt: Image alt text
   - infopic:
       title: "Belacan: Caviar? Or Vile and Disgusting?"
