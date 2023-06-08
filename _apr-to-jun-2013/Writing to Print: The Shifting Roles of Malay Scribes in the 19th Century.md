@@ -5,7 +5,7 @@ description: Speech and writing is a form of communication by human beings. Find
   out how the Romanised alphabet or Rumi in the Malay Language replaced the
   earlier system known as Jawi.
 ---
-#### Speech and writing are forms of communication by human beings. Find out how the Romanised alphabet, or Rumi, in the Malay language replaced the earlier system known as Jawi. 
+#### The practice of copying and recopying Malay manuscripts can be viewed as a simultaneous act of reading and writing in which the Malay scribe actively interprets and reinterprets the text as he copies. Through this process, the Malay scribe makes the text copies accessible to his intended reader.
 
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Malay%20Scribes/SifatDuaPuluh2.jpg">
