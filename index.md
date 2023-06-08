@@ -203,8 +203,7 @@ sections:
         the workforce and contribute to society.
       button: Women and the Typewriter
       url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
-        Typewriter_Home page.jpg
+      image: /images/Vol 19 Issue 1/Women Typewriter/Woman Typewriter.jpg
       alt: Women Typewriters
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
