@@ -54,7 +54,7 @@ One particular exhibit stole the limelight. After years spent tucked away, the e
 
 Fitted with steel ropes, the skeleton hung proudly from the ceiling of the newly refurbished natural history room at the Raffles Museum. Assembling and mounting it was no easy task, and Hanitsch credited the ingenuity and hard work of the museum’s chief taxidermist Valentine Knight, his assistant Percy de Fontaine and their staff for finding workarounds in the process. The specimen had a couple of missing bones, including a scapula, the “hands”, and various vertebrae and ribs.[^10]
 
-With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the Madras Museum, the Raffles Museum team took measurements and drawings of existing whale specimens and used them to model these missing bones in papier-mâché. Only then was the full skeleton made available for viewing.[^11]
+With assistance from John Hewitt of the Sarawak Museum and Edgar Thurston of the Madras Museum, the Raffles Museum team took measurements and drawings of existing whale specimens and used them to model these missing bones out of wood and plaster of Paris. Only then was the full skeleton made available for viewing.[^11]
 
 Because this occurred before the advent of DNA technology, it took Hanitsch and his team several years before they could accurately identify the mammal. In an earlier report, Hanitsch had originally suspected the specimen to be that of a humpback whale, or *Megaptera boops* (Van Beneden &amp; Gervais, 1880), but his subsequent morphological analyses would have been at odds with this earlier study. Further work allowed him to correctly identify the specimen as belonging to *Balaenoptera indica* (Blyth, 1859), which has since been synonymised as *B. musculus* (Linnaeus, 1758), more commonly known as the blue whale.[^12]
 
@@ -145,7 +145,7 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^10]: [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 4–5.
 
-[^11]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071216-1.2.13),” *Singapore Free Press and Mercantile Advertiser*, 16 December 1907, 4. (From NewspaperSG)
+[^11]: “[Raffles Museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080306-1.2.83),” *Straits Times*, 6 March 1908, 8. (From NewspaperSG)
 
 [^12]: [*Annual Report on the Raffles Museum and Library for the Year 1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 3–4; [*Annual Report on the Raffles Museum and Library for the Year 1907*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 4–5.
 

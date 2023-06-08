@@ -8,12 +8,12 @@ description: The typically onion-shaped Indo-Saracenic domes that crown the
 #### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late-1920s introduction to Singapore’s architectural landscape.
 
 <img style="width:70%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Sultan%20Mosque%20shophouses1.jpg">
- <div style="background-color: white;">Contrasting scale: Sultan Mosque towering over the shophouses of Kampong Gelam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
+ <div style="background-color: white;">Contrasting scale: the Sultan Mosque towering over the shophouses of Kampong Gelam. <i>Courtesy of the Islamic Religious Council of Singapore (MUIS).</i></div>
 
 
 Domes are typical features of Singapore mosques today. However, this was not always the case. In fact, domes were introduced into Southeast Asian mosque architecture only in the 19th century.[^1] This trend can be observed in Singapore and within the wider Malayan-Indonesian mosque landscape. This article will discuss the proliferation of domes on mosques in Singapore by considering how the Indo-Saracenic dome became an “invented tradition” as a typical mosque feature on the island beginning with the construction of the Sultan Mosque in the late 1920s.[^2]
 
-The present Sultan Mosque in Kampong Gelam was not the first mosque on the site. Its stylistic contrast with the previous 19th-century mosque that it replaced reflects the changing trends in mosque architecture in Singapore. Instead of the typical four-square-plan mosque with a multitiered pyramidal roof that typified traditional mosque architecture in maritime Southeast Asia, Sultan Mosque was commissioned in the Indo-Saracenic style characterised by domes and arches.
+The present Sultan Mosque in Kampong Gelam was not the first mosque on the site. Its stylistic contrast with the previous 19th-century mosque that it replaced reflects the changing trends in mosque architecture in Singapore. Instead of the typical four-square-plan mosque with a multitiered pyramidal roof that typified traditional mosque architecture in maritime Southeast Asia, the Sultan Mosque was commissioned in the Indo-Saracenic style characterised by domes and arches.
 
 The most distinctive feature of the Indo-Saracenic style is its dome. This type of dome has a distinctive ogee profile and is sometimes referred to as an “onion dome”. Over time, the Indo-Saracenic dome was abstracted from the repertoire of Indo-Saracenic features and adapted to local mosques. The dome eventually turned into an identity symbol for mosques in Singapore.
 
@@ -26,7 +26,7 @@ The Indo-Saracenic style is closely associated with British imperialism. The Bri
 This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s preeminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
 
 <img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture1.jpg" style="width:80%;">
- <div style="background-color: white;">An image of the future Sultan Mosque created in 1925.<i> Courtesy of the Sultan Mosque.</i></div>
+ <div style="background-color: white;">Artist's impression of the new Sultan Mosque, 1925.<i> Courtesy of the Sultan Mosque.</i></div>
 
 
 #### **The Indo-Saracenic Style**
@@ -47,7 +47,7 @@ An undated photo in the Sultan Mosque’s collection, probably taken in the earl
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/Kampong%20Bedok%20Laut%20Mosque.jpg">
 <div style="background-color: white;">
-An undated photograph of Kampong Bedok Laut Mosque. <i>Courtesy of the National Archives of Singapore.</i>
+Kampong Bedok Laut Mosque, undated. <i>Courtesy of the National Archives of Singapore.</i>
 </div>	
 
 Although the original Sultan Mosque functioned as the royal mosque of the sultan in early Singapore, control of the mosque eventually passed from the sultan to local Muslim community leaders. In 1879, Sultan Alauddin Alam Shah, also known as Tengku Alam, the grandson of Sultan Hussein Shah, turned the administration of the mosque over to a five-member council.[^13] A board of trustees was appointed after 1914 to oversee the mosque. The 12-member trustee system ensured representation from various ethnic communities across the board by appointing two members from each major Muslim community in Singapore – Arab, Bugis, Javanese, Malay, North Indian and Tamil/South Indian communities.[^14] This was the system of governance in place when the construction of a new mosque was mooted in 1924, and Denis Santry was commissioned to design the new mosque.
@@ -63,7 +63,7 @@ The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Co
 The facade facing North Bridge Road is decorated with the *pishtaq* motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah, who passed away in 1891.
 
 <img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/facade%20pishtaq%20motif.jpg" style="width:50%;">
- <div style="background-color: white;">The façade facing North Bridge Road decorated with the pishtaq motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
+ <div style="background-color: white;">The Sultan Mosque's facade facing North Bridge Road decorated with the *pishtaq* motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah, who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
 
 Ornamental crestings fringe the edge of the roofline similar to those found on the Friday Mosques in Kuala Lumpur, Delhi and Lahore. The first is in the Indo-Saracenic style, designed by Arthur Benison Hubback in 1909, and the latter two mosques are iconic structures from the Mughal period of Indian-Islamic architecture. Decorative pinnacles are topped with stylised lotus buds; they project at intervals from the edge of the roofline, and spring from different heights off the decorous elements on the terrace of the roof. Like the Taj Mahal, the central portion of the facade facing North Bridge Road (the section directly beneath the dome) is executed with the *pishtaq* motif – an Iranian-derived portal design consisting of a monumental pointed arch set within a rectangular frame decorated with bands of ornamentation.
 

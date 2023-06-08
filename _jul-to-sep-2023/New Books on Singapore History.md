@@ -1,6 +1,6 @@
 ---
 title: New Books on Singapore History
-permalink: /holding-area/new-books/
+permalink: /vol-19/issue-2/jul-sep-2023/new-books-singapore-history/
 description: ""
 ---
 #### **[Chapters on Asia: Selected Papers from the Lee Kong Chian Research Fellowship (2021)](https://nlb.overdrive.com/media/9550250)**
