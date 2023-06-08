@@ -5,7 +5,7 @@ description: The built environment is a space that reflects the dialogue among
   private, public and political spheres. Design impacts our lives everyday and
   good design can transform a mere place to one imbued with life and meaning.
 ---
-#### The built environment is a space that reflects the dialogue among private, public and political spheres. Design impacts our lives everyday and good design can transform a mere place to one imbued with life and meaning.
+#### The built environment reflects the dialogue between private, public and political spheres. Design impacts our lives everyday, and good design can transform a mere place to one imbued with life and meaning.
 
 
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Aesthetics%20and%20Ethics/02%20People's%20Park%20Complex_5.jpg">
