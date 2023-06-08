@@ -63,7 +63,7 @@ sections:
       alt: Image alt text
       image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
   - infopic:
-      title: The Famous Whale Skeleton At The Raffles Museum
+      title: The Famous Whale Skeleton at the Raffles Museum
       subtitle: Nature and the Environment
       description: A blue whale skeleton took centre stage at the former Raffles
         Museum for more than 60 years before it was gifted to the National
