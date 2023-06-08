@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Tennis/tennis_hero_img.jpg
   - infopic:
+      title: New Books on Singapore History (Jul 2023)
+      subtitle: Literature
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: NEW READS
+      url: /jul-sep-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
+      alt: New books
+  - infopic:
       title: "Collection Focus: A Comic Book Version of Operation Jaywick"
       subtitle: Print
       description: The story of Operation Jaywick, a daring attack on Japanese ships
@@ -54,7 +63,7 @@ sections:
       alt: Image alt text
       image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
   - infopic:
-      title: The Famous Whale Skeleton At The Raffles Museum
+      title: The Famous Whale Skeleton at the Raffles Museum
       subtitle: Nature and the Environment
       description: A blue whale skeleton took centre stage at the former Raffles
         Museum for more than 60 years before it was gifted to the National
@@ -127,7 +136,7 @@ sections:
         front of the former City Hall building so special.
       button: A NATIONAL MONUMENT
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
-      image: /images/Vol 18 Issue 1/The Padang/padang12.png
+      image: /images/Vol 18 Issue 1/The Padang/Padang 1911.png
       alt: Image alt text
   - infopic:
       title: "Belacan: Caviar? Or Vile and Disgusting?"
@@ -165,7 +174,8 @@ sections:
         places more than others.
       button: PORTUGUESE CREOLES IN SOUTHEAST ASIA
       url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
-      image: /images/Vol 19 Issue 1/Portuguese/Mardjiker2.jpg
+      image: /images/Vol 19 Issue 1/Portuguese/Eurasian Association Contingent at
+        Chingay Parade 2010-crop.jpg
       alt: Image alt text
   - infopic:
       title: "Neo Tiew: The Man Who Built Lim Chu Kang"
@@ -175,7 +185,7 @@ sections:
         area.
       button: Neo Tiew’s Legacy
       url: /vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/
-      image: /images/Vol 19 Issue 1/Neo Tiew/Neo Tiew_Landscape.jpg
+      image: /images/Vol 19 Issue 1/Neo Tiew/Group_photo.png
       alt: Image alt text
   - infopic:
       title: Singapore’s Public Bathhouses of the 1880s
@@ -184,8 +194,7 @@ sections:
         Clyde Terrace were built by the Municipality in the late 19th century.
       button: Singapore’s Public Bathhouses
       url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
-      image: /images/Vol 19 Issue 1/Public Bathhouses/Public Bathhouse_Tree and
-        lake.png
+      image: /images/Vol 19 Issue 1/Public Bathhouses/Children.png
       alt: Image alt text
   - infopic:
       title: Women and the Typewriter in Singapore’s Herstories
@@ -194,8 +203,7 @@ sections:
         the workforce and contribute to society.
       button: Women and the Typewriter
       url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      image: /images/Vol 19 Issue 1/Women Typewriter/20090000509 img0185_Women
-        Typewriter_Home page.jpg
+      image: /images/Vol 19 Issue 1/Women Typewriter/Woman Typewriter.jpg
       alt: Women Typewriters
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
@@ -233,7 +241,7 @@ sections:
       url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
       button: stone artefacts
       subtitle: nature and environment
-      image: /images/Vol 18 Issue 4/Stone Tools/image2.png
+      image: /images/Vol 18 Issue 4/Stone Tools/Stone Tools_Hero_img.png
   - infopic:
       title: "In Their Own Voices: Preparing for War in Singapore"
       subtitle: War
@@ -258,16 +266,16 @@ sections:
         Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
       button: Taoist Folk Goddesses of Singapore
       url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
-      image: /images/Vol 18 Issue 4/Maiden Lim/image4.png
+      image: /images/Vol 18 Issue 4/Maiden Lim/Huang Gu Niang.jpg
       alt: Zhen Long Gong
   - infopic:
       title: The Origin Stories of Keramat Kusu
       subtitle: Places
       description: Pilgrimages to the keramat on Kusu Island have been going on since
         the mid-19th century.
-      button: More on Keramat Kusu
+      button: Keramat Kusu
       url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
-      image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
+      image: /images/Vol 18 Issue 4/Keramat Kusu/Shrine_Dato Syed.jpg
       alt: Kusu
   - infopic:
       title: "“Book City” in Two Streets: Postwar Chinese Bookstore Scene"
@@ -285,8 +293,7 @@ sections:
       description: 面对数码时代和读者流失的挑战，新加坡的华文书店逆流生存。
       button: 两条书街，两座书城
       url: /vol-18/issue-4/jan-mar-2023/postwar-Chinese-bookstores-Chinese-Text/
-      image: /images/Vol 18 Issue 4/Chinese Bookstores_Chinese/View of North Bridge
-        Road.jpg
+      image: /images/Vol 18 Issue 4/Chinese Bookstore/ChungHwaBooks.jpg
       alt: 大小坡两条书街
   - infopic:
       title: A Voice for the Wild
@@ -324,7 +331,7 @@ sections:
         Wan Tho was also passionate about bird photography and the arts
       button: A renaissance man
       url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
-      image: /images/Loke Wan Tho portrait.jpg
+      image: /images/Vol 18 Issue 3/Loke Wan Tho/Hollywood.jpg
       alt: Loke Wan Tho
   - infopic:
       title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
@@ -334,14 +341,14 @@ sections:
       button: Carrying the <i>kavadi</i>
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
       alt: Thaipusam
-      image: /images/Kavadi resized.jpg
+      image: /images/Vol 18 Issue 4/Thaipusam/Image 10.png
   - infopic:
       title: From Sarong Island with Love
       subtitle: places
       description: Before there was Sentosa, there was Sarong Island.
       button: Singapore’s first tourist isle
       url: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore
-      image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
+      image: /images/Vol 18 Issue 3/Sarong Island/3_WhiteHouse.jpg
       alt: Sarong Island Christina Lee
   - infopic:
       title: The Making of the Monetary Authority of Singapore
@@ -350,7 +357,7 @@ sections:
         it only became a full-fledged central bank some 30 years later.
       button: singapore's Central Bank
       url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
-      image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
+      image: /images/Vol 18 Issue 3/MAS/2_queue.jpg
       alt: monetary authority singapore
   - infopic:
       title: The Early Days of Family Planning in Singapore
