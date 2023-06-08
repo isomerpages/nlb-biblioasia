@@ -63,7 +63,7 @@ In contrast, lithography, called *cap batu* (stone-stamping) in Malay and favour
 
 For the translation of Christian treatises and other English texts, the missionaries often worked closely with renowned scribe and writer, Munshi Abdullah, who was sometimes termed the “’Father of Malay Printing” as he had imparted lithographic printing knowledge to Malay society.[^6] In addition to translations, the cooperation between Keasberry and Abdullah in the 1840s and 1850s resulted in multicoloured lithograph editions of Malay texts written, copied and edited by the latter. These editions include Munshi Abdullah’s autobiography, *Hikayat Abdullah*, published in 1849.[^7] Keasberry used the proceeds of the press to run a boarding school for boys on River Valley Road. Here, students were taught English and Malay as well as the art of printing, sowing the seeds for the next generation of the Malay publishing industry.
 
-Aside from the missionary presses, colonial regulations in the Dutch East Indies (today’s Indonesia) on local printing and publishing indirectly stimulated the growth of Singapore’s Malay publishing industry. The *Reglement on de Drukwerken in Nederlands Indie* was issued on 10 November 1856 requiring all printers, publishers and sellers of printed material to apply for licences. In addition, copies had to be deposited free-of-charge with the government. Penalties for violation included confiscation of the publications, shutting down of printing presses, imprisonment and even prohibition from future work as printers or publishers.[^8] In contrast, the British administration in Singapore enacted less restrictive policies. As a result, many Javanese printers from the Dutch East Indies shifted their bases of operations to Singapore or more specifically, Kampong Gelam. This led to the establishment of the Malay printing and publishing industry in Singapore which subsequently became one of the major publishing centres in the Nusantara in the 19th and 20th centuries.
+Aside from the missionary presses, colonial regulations in the Dutch East Indies (today’s Indonesia) on local printing and publishing indirectly stimulated the growth of Singapore’s Malay publishing industry. The *Reglement on de Drukwerken in Nederlands Indie* was issued on 10 November 1856, requiring all printers, publishers and sellers of printed material to apply for licence. In addition, copies had to be deposited free-of-charge with the government. Penalties for violation included confiscation of the publications, shutting down of printing presses, imprisonment and even prohibition from future work as printers or publishers.[^8] In contrast, the British administration in Singapore enacted less restrictive policies. As a result, many Javanese printers from the Dutch East Indies shifted their bases of operations to Singapore or more specifically, Kampong Gelam. This led to the establishment of the Malay printing and publishing industry in Singapore, which subsequently became one of the major publishing centres in the Nusantara in the 19th and 20th centuries.
 
  <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 
@@ -71,14 +71,14 @@ Aside from the missionary presses, colonial regulations in the Dutch East Indies
 <b>EXHIBITION DETAILS</b>
 <br><br>
 
-“Yang Menulis” (They Who Write) is an exhibition collaboration between the Malay Heritage Centre (MHC) and the National Library (NL) and features manuscripts drawn from NL’s Rare Materials Collection. It was first on show at the Malay Heritage Centre from 2 November 2012 to 24 March 2013. It is currently on display (from 30 March to 12 May) at the National Library Building, at the Promenade, Level 7. “Yang Menulis” will also travel to Pasir Ris Public Library (14 May to 12 June), Jurong Regional Library (14 June to 11 July) and Woodlands Regional Library(13 July to 11 August). 
+“Yang Menulis” (They Who Write) is an exhibition by the Malay Heritage Centre and the National Library, featuring manuscripts from the Library’s Rare Materials Collection. It was first shown at the Malay Heritage Centre from 2 November 2012 to 24 March 2013. It is currently on display (from 30 March–12 May) at the National Library Building, at the Promenade, Level 7. “Yang Menulis” will also travel to Pasir Ris Public Library (14 May–12 June), Jurong Regional Library (14 June–11 July) and Woodlands Regional Library(13 July–11 August). 
 </div>
 
 
 <div>
-<b>Bernice Ang</b> studied history at Oxford University, specialising in the history of modern China and overseas Chinese in Singapore. After a temporary posting at the Malay Heritage Centre, she now works at the Public Service Division. She contributed to the development of research for the Yang Menulis project.
+<b>Bernice Ang</b> studied history at Oxford University, specialising in the history of modern China and overseas Chinese in Singapore. After a temporary posting at the Malay Heritage Centre, she now works at the Public Service Division. She contributed to the development of research for the "Yang Menulis" project.
 <br><br>
-<b>Siti Hazariah Abu Bakar</b> graduated from the National University of Singapore (NUS) with a degree in South Asian Studies in 2011, and is currently a curatorial assistant at the Malay Heritage Centre. Her research interests include the social history of the Malays in Sri Lanka, Tamil Hindu death rituals, Indian Mughal history and Tibetan Buddhism.
+<b>Siti Hazariah Abu Bakar</b> graduated from the National University of Singapore with a degree in South Asian Studies in 2011, and is currently a curatorial assistant at the Malay Heritage Centre. Her research interests include the social history of the Malays in Sri Lanka, Tamil Hindu death rituals, Indian Mughal history and Tibetan Buddhism.
 <br><br>
 <b>Noorashikin binte Zulkifli</b> joined the Malay Heritage Centre in 2010 where she was trained in arts management and interactive media. Noora has been involved in museum work since 2004 and previously worked at the Singapore Art Museum and the NUS Museum.</div>	
 
@@ -104,7 +104,7 @@ Proudfoot, I. (1993). [_Early malay printed books: A provisional account of mate
 
 Ros Mahwati, Ahmad Zakaria &amp; Latifah Abdul Latif. (2008). [_Malay manuscripts: An introduction_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048593). \[Kuala Lumpur, Malaysia\]: Islamic Arts Museum Malaysia. (Call no.: RSING 091.09595 ROS)
 
-Sit Hawa Haji. Salleh. (2010). [_Malay literature of the 19th century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13585138). Malaysia: Institut Terjemahan Negara Malaysia Berhad. (Call no.: RSEA 899.2809034 SIT)
+Siti Hawa Haji Salleh. (2010). [_Malay literature of the 19th century_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13585138). Malaysia: Institut Terjemahan Negara Malaysia Berhad. (Call no.: RSEA 899.2809034 SIT)
 
 Teo, E.L. (2009). [_Malay encounter during Benjamin Peach Keasberry’s time in Singapore 1835 to 1875_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206340). Singapore: Trinity Theological College. (Call no.: RSING 266.02342095957 TEO)
 
