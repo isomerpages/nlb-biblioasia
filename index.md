@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Tennis/tennis_hero_img.jpg
   - infopic:
+      title: New Books on Singapore History (Jul 2023)
+      subtitle: Literature
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: NEW READS
+      url: /jul-sep-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
+      alt: New books
+  - infopic:
       title: "Collection Focus: A Comic Book Version of Operation Jaywick"
       subtitle: Print
       description: The story of Operation Jaywick, a daring attack on Japanese ships
@@ -544,13 +553,4 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
-  - infopic:
-      title: New Books on Singapore History
-      subtitle: Literature
-      description: Introducing five new books available in the National Library’s
-        collection.
-      button: NEW READS
-      url: /jul-sep-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
-      alt: New books
 ---
