@@ -42,6 +42,8 @@ Much excitement surrounds My Tree House – the world's first green library for 
 
 #### **Readers for Life**
 
+&gt; [C]ollaboration with partners and community volunteers has become a pillar for the accomplishments of public libraries.
+
 The goal of promoting a love for reading among Singaporeans has always been a part of the public libraries’ culture and mission. This goal is now one of NLB’s key initiatives: Reading, Learning and Info-Literacy. Under this umbrella, programmes tailored for specific needs of different customer groups are in place and being developed to support early literacy, youth and senior services. To achieve this and other goals, collaboration with partners and community volunteers has become a pillar for the accomplishments of public libraries.
 
 Current and planned efforts to encourage reading among children differ from past efforts in that current strategies utilise a more integrated approach to equip educators and support parents in the development of early literacy. Thematic activity toolkits allow educators to use storybooks and audiovisuals to spark interest in reading. There are advocacy packages for parents to engage children through fun activities such as talking, singing, playing, reading and writing. Low-income parents, in particular, can receive ready resources to use with their children.
