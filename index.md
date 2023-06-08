@@ -267,7 +267,7 @@ sections:
         Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
       button: Taoist Folk Goddesses of Singapore
       url: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
-      image: /images/Vol 18 Issue 4/Maiden Lim/image4.png
+      image: /images/Vol 18 Issue 4/Maiden Lim/Huang Gu Niang.jpg
       alt: Zhen Long Gong
   - infopic:
       title: The Origin Stories of Keramat Kusu
