@@ -544,4 +544,13 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
       image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
       alt: romusha death railway
+  - infopic:
+      title: New Books on Singapore History
+      subtitle: Literature
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: NEW READS
+      url: /jul-sep-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
+      alt: New books
 ---
