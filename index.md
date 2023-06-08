@@ -356,7 +356,7 @@ sections:
         it only became a full-fledged central bank some 30 years later.
       button: singapore's Central Bank
       url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
-      image: /images/Vol 18 Issue 3/MAS/3_CentralbankinJul-Aug.jpg
+      image: /images/Vol 18 Issue 3/MAS/2_queue.jpg
       alt: monetary authority singapore
   - infopic:
       title: The Early Days of Family Planning in Singapore
