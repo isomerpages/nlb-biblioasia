@@ -193,8 +193,7 @@ sections:
         Clyde Terrace were built by the Municipality in the late 19th century.
       button: Singapore’s Public Bathhouses
       url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
-      image: /images/Vol 19 Issue 1/Public Bathhouses/Public Bathhouse_Tree and
-        lake.png
+      image: /images/Vol 19 Issue 1/Public Bathhouses/Children.png
       alt: Image alt text
   - infopic:
       title: Women and the Typewriter in Singapore’s Herstories
