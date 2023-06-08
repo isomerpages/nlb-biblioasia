@@ -13,50 +13,46 @@ After World War II, he studied at Sultan Idris Training College in Tanjung Malim
 
 #### **The People’s *Cikgu***
 
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Seni%20untuk%20Masyarakat.jpg">
+ <div style="background-color: white;"><i>Seni untuk Masyarakat</i> (Arts for the People) exhibition panels.</div>
+ 
 Muhammad Ariff’s life saw a dramatic change in November 1933. One afternoon, when playing rounders (baseball) in a field along Malcolm Road and Chancery Lane, he was “caught” by a teacher from Sekolah Melayu Tanglin Besar (Tanglin Besar Malay School), who was furious to see him not in school.
 
 Muhammad Ariff was immediately enrolled into Primary 1 where he studied until Primary 4 in 1937. However, he had to remain in Primary 5 for three years at Sekolah Melayu Tanglin Tinggi (Tanglin Tinggi Malay School) from 1937 to 1940 because he was not yet 16 years old – the minimum age required to be a Malay teacher.
 
 Muhammad Ariff became a trainee teacher in 1940 after completing his studies in the Malay school and was subsequently posted to Sekolah Melayu Tanglin Tinggi in 1941 when World War II broke out.
 
-In 1942, Muhammad Ariff was called up by the Japanese to learn and teach the Japanese language in a public school. From 1943 to 1944, he taught Japanese in a special Nippon-Go class for teachers and became a Japanese language instructor in a language centre in Pearls Hill School for teachers. It was here that he realised his potential as an educator. His path towards formalising his teacher training came when the British returned to Singapore. Between 1946 to 1949, Muhammad Ariff attended formal Malay teacher training at Sultan Idris Teacher Training College (SITC) in Perak, Malaysia.
+In 1942, Muhammad Ariff was called up by the Japanese to learn and teach the Japanese language in a public school. From 1943 to 1944, he taught Japanese in a special *nippon-go* (Japanese language) class for teachers and became a Japanese-language instructor for teachers in a language centre at Pearl's Hill School. It was here that he realised his potential as an educator. His path towards formalising his teacher training came when the British returned to Singapore. Between 1946 to 1949, Muhammad Ariff attended formal Malay teacher training at the Sultan Idris Teacher Training College (SITC) in Perak, Malaysia.
 
 
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Taman%20Puspa.jpg">
- <div style="background-color: white;"><i>Taman Puspa</i> is a collection of poems written in 1947 that expresses the hopes and aspirations of MAS. Post cards to Masuri S.N., who was in Kajang during the Japanese Occupation, were also featured.
+ <div style="background-color: white;">From top:<i>Taman Puspa</i> is a collection of poems written in 1947 that expresses the hopes and aspirations of MAS, the pen name of Muhammad Ariff Ahmad; postcards to Masuri S.N., who was in Kajang during the Japanese Occupation.
 </div>
 
-It was in SITC that he became acquainted with many writers and activists all over Malaya. Many of them were later involved in Malaysian politics and curators of post-war literary developments.
+It was in SITC that he became acquainted with many writers and activists from all over Malaya. Many of them were later involved in Malaysian politics and became important figures in postwar literary developments.
 
-Muhammad Ariff retired as a senior lecturer at the Institute of Education. After that he was appointed as the editor of the Malay edition of Grow magazine (*Majalah Mekar*) published by the Ministry of Education. Muhammad Ariff produced many school textbooks during his stints in SITC and IE and was behind the scheme of work for the teaching of Malay Language, Literature and Science in Malay language for Singapore schools.
+Muhammad Ariff retired as a senior lecturer at the Institute of Education. After that he was appointed as the editor of the Malay edition of *Grow* magazine (*Majalah Mekar*) published by the Ministry of Education. He also produced many school textbooks during his stints at SITC and the Institute of Education, and was behind the scheme of work for the teaching of Malay language, literature and science in Malay language for Singapore schools.
 
-He was also member of the Romanized Malay Spelling committee that developed the Singapore Malay language. In 1966 he organised the First Malay National Language Congress in Singapore.
+He was a member of the Romanized Malay Spelling committee that developed the Singapore Malay language. In 1966, he organised the First Malay National Language Congress in Singapore.
 
-Muhammad Ariff’s contributions as a teacher were not confined to the realm of education. As highlighted by Mr Guntor Sadali, former editor of *Berita Harian/Berita Minggu*, “Cikgu Ariff is a reference point of the community and he is ever ready with the answers when there are issues about the Malay Language.” Muhammad Ariff reached out to the community through his regular columns and broadcasted through the mainstream media.
+Muhammad Ariff’s contributions as a teacher were not confined to the realm of education. As highlighted by Guntor Sadali, former editor of *Berita Harian/Berita Minggu*, “Cikgu Ariff is a reference point of the community and he is ever ready with the answers when there are issues about the Malay Language.” Muhammad Ariff reached out to the community through his regular columns and broadcasts through the mainstream media.
 
 #### **Arts for the People**
 
-Muhammad Ariff is also one of the founding members of the Angkatan Sasterawan ’50 (ASAS ’50) a literary organisation that champions the rights of the community through the writings of its members. ASAS ’50 was established with the belief that “united we stand, divided we fall”. He commemorated the founding of ASAS’50 — 6 August 1950 — through his poem “Long-lived Unity”.
-
-
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Seni%20untuk%20Masyarakat.jpg">
- <div style="background-color: white;"><i>Seni untuk Masyarakat</i> (Arts for the People) exhibition panels.</div>
-	
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
+ <div style="background-color: white;">Works by Muhammad Ariff Ahmad. From left: <i>Adam Kena Hujan, Suara Guru and Sarah Pengarang Kechil</i>.</div>
+ 
+Muhammad Ariff was also one of the founding members of the Angkatan Sasterawan ’50 (ASAS ’50) a literary organisation that champions the rights of the community through its members' writings. ASAS ’50 was established with the belief, “united we stand, divided we fall”. He commemorated the founding of ASAS’50 on 6 August 1950 through his poem “Long-lived Unity”.
 
 Muhammad Ariff’s first foray into creative writing was in the field of radio drama. During the Japanese Occupation, he produced drama scripts for radio broadcast. The drama series *Oleh-Oleh Pembelaan Seorang Ibu* and *Inikah Balasanmu*, based on his scripts, were broadcasted in 1943.
 
-At the same time, he decided to record and report the cruelty of Japanese soldiers. However, his short stories such as *Pokok Jarak* (*Barbados Nut*) and *Pondok Buruk* (*Old Hut*) were rejected and not published because their anti-Japanese sentiments were exposed to strongly. Pak Sako (Dr Ishak Haji Muhammad), the writer for *Semangat Asia*, advised him to stop if he wished to stay alive.
+At the same time, he decided to record and report the cruelty of Japanese soldiers. However, his short stories such as *Pokok Jarak* (*Barbados Nut*) and *Pondok Buruk* (*Old Hut*) were rejected and not published because anti-Japanese sentiments were expressed too strongly. Pak Sako (Dr Ishak Haji Muhammad), the writer for *Semangat Asia*, advised him to stop if he wished to stay alive.
 
 Muhammad Ariff, together with other writer friends, was conscious of the potential of arts as an instrument to build a society that was facing an uncertain future after the Japanese Occupation. Literature became a platform to seek independence from colonisation and redress for social injustices. It also reflected the hope and ambition to achieve the common goal of attaining “full independence” through their literary works and through the concept of Arts for the masses.
 
 In 1947, Muhammad Ariff completed his first novel *Menyahut Seruan Ibunda* (*Answering the Call of Motherland*). It was accepted for publication by Cikgu Harun Aminurrashid. However, it was published as a series in the magazine *Mutiara*.
 
 Muhammad Ariff believes that writing is his responsibility, one that allows his fellow countrymen to view life positively and lead a meaningful existence. For instance, his novelette *Sarah Pengarang Kechil*, published in 1957, exemplified his concerns on the importance of education in order for the next generation to achieve success. The novelette was adopted as a textbook for Malay literature. The novel *Mail Mau Kawin* (*Mail Wants to Wed*), published in 1976, considers the issues of the Malay community at that time. The importance of lifelong learning was subtly touched on as one of the ways to overcome the vicious cycle of poverty. Another example is the poem “Is it true?”, which gave rise to controversy when it was published in *Berita Harian* in 1974.
-
-
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
- <div style="background-color: white;">Works by Muhammad Ariff Ahmad, such as <i>Adam Kena Hujan, Suara Guru and Sarah Pengarang Kechil</i>, were on display at the exhibition.
-</div>
 
 “Is It True” encouraged readers to reflect and compare Truth and Falsehood. It is a simple poem but has a very deep meaning. The poem was able to provoke readers to think about life via the beauty of poetry.
 
