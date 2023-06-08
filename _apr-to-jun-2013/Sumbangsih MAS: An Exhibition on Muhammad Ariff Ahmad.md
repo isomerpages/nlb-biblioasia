@@ -3,6 +3,8 @@ title: "Sumbangsih MAS: An Exhibition on Muhammad Ariff Ahmad"
 permalink: /vol-9/issue-1/apr-jun-2013/sumbangsih-exhibition/
 description: ""
 ---
+#### Muhammad Ariff Ahmad, better known by his pen name MAS (Muhammad Ariff Singapura), made significant contributions to Singapore's Malay language, literature and culture.
+
 “A prominent expert and activist of the Malay language, literature and culture who never stops writing and imparting his knowledge.” This succinctly sums up Haji Muhammad Ariff Ahmad, better known by his pen name MAS. Muhammad Ariff has many pseudonyms, of which MAS is most recognisable. MAS stands for Muhammad Ariff Singapura (Muhammad Ariff of Singapore) – an apt moniker, considering his contributions to the Malay language, literature and culture. His other pen names include M. Arba, P.L. Rajaudang, M. Foerida, Mas Malaya, Mas Tanjung Malim, Mas S.P.10 and Minamoria.
 
 Muhammad Ariff Bin Ahmad was born in Kampong Tiong in Singapore on 6 December 1924 at 25 Outram Road. The second of four children, he lived in different parts of Singapore, including Newton Road, Dunearn Road, Tiong Bahru and Henderson Road. In the day he sold cakes made by his mother, a housewife, and every evening his father would teach him to read the Quran.
