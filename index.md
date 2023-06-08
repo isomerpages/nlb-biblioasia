@@ -332,7 +332,7 @@ sections:
         Wan Tho was also passionate about bird photography and the arts
       button: A renaissance man
       url: /vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/
-      image: /images/Loke Wan Tho portrait.jpg
+      image: /images/Vol 18 Issue 3/Loke Wan Tho/Hollywood.jpg
       alt: Loke Wan Tho
   - infopic:
       title: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
