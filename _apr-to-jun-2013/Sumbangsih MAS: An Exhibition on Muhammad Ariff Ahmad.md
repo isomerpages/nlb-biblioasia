@@ -3,19 +3,19 @@ title: "Sumbangsih MAS: An Exhibition on Muhammad Ariff Ahmad"
 permalink: /vol-9/issue-1/apr-jun-2013/sumbangsih-exhibition/
 description: ""
 ---
-“A prominent expert and activist of the Malay language, literature and culture who never stops writing and imparting his knowledge” — This succinctly sums up Haji Muhammad Ariff Ahmad, better known by his pen name MAS. Muhammad Ariff has many pseudonyms of which MAS is most recognisable to him. MAS stands for Muhammad Ariff Singapura (Muhammad Ariff of Singapore), an apt moniker as he has become the gold standard for his contributions to the Malay language, literature and culture. His other pen names include M. Arba, P.L. Rajaudang, M. Foerida, Mas Malaya, Mas Tanjung Malim, Mas S.P.10 and Minamoria.
+“A prominent expert and activist of the Malay language, literature and culture who never stops writing and imparting his knowledge.” This succinctly sums up Haji Muhammad Ariff Ahmad, better known by his pen name MAS. Muhammad Ariff has many pseudonyms, of which MAS is most recognisable. MAS stands for Muhammad Ariff Singapura (Muhammad Ariff of Singapore) – an apt moniker, considering his contributions to the Malay language, literature and culture. His other pen names include M. Arba, P.L. Rajaudang, M. Foerida, Mas Malaya, Mas Tanjung Malim, Mas S.P.10 and Minamoria.
 
-Muhammad Ariff Bin Ahmad was born in Kampong Tiong, Singapore on 6th December 1924 at 25 Outram Road. The second of four children, Ariff lived in different parts of Singapore, including Newton Road, Dunearn Road, Tiong Bahru and Henderson Road. In the day he sold cakes made by his mother, a housewife; and every evening his father would teach him to read the Quran.
+Muhammad Ariff Bin Ahmad was born in Kampong Tiong in Singapore on 6 December 1924 at 25 Outram Road. The second of four children, he lived in different parts of Singapore, including Newton Road, Dunearn Road, Tiong Bahru and Henderson Road. In the day he sold cakes made by his mother, a housewife, and every evening his father would teach him to read the Quran.
 
 At school, Muhammad Ariff loved reading and took part in many writing competitions. He also wrote for his school’s Scouts magazine and dreamt of becoming a full-time writer. Despite being equally good at drawing, Muhammad Ariff chose to focus on writing.
 
-After the Second World War, he studied at Sultan Idris Training College in Tanjung Malim, Perak, to fulfill his father’s wish for him to become a teacher. Fortunately, his career as a teacher allowed him to continue writing. Muhammad Ariff has written numerous books including short stories, non-fiction, children’s literature and school textbooks. He also contributes articles and essays to newspapers and magazines in Singapore and Malaysia. He has also written drama and documentary scripts for television and radio broadcasts.
+After World War II, he studied at Sultan Idris Training College in Tanjung Malim, Perak, to fulfill his father’s wish for him to become a teacher. Fortunately, his career as a teacher allowed him to continue writing. Muhammad Ariff wrote numerous books including short stories, nonfiction, children’s literature and school textbooks. Besides contributing articles and essays to newspapers and magazines in Singapore and Malaysia, he also wrote drama and documentary scripts for television and radio broadcasts.
 
 #### **The People’s *Cikgu***
 
 Muhammad Ariff’s life saw a dramatic change in November 1933. One afternoon, when playing rounders (baseball) in a field along Malcolm Road and Chancery Lane, he was “caught” by a teacher from Sekolah Melayu Tanglin Besar (Tanglin Besar Malay School), who was furious to see him not in school.
 
-Muhammad Ariff was immediately enrolled into primary 1 where he studied until primary 4 in 1937. However, Muhammad Ariff had to remain in primary 5 for three years at Sekolah Melayu Tanglin Tinggi (Tanglin Tinggi Malay School) from 1937 to 1940 because he was not yet 16 years old — the minimum age required to become a Malay teacher.
+Muhammad Ariff was immediately enrolled into Primary 1 where he studied until Primary 4 in 1937. However, he had to remain in Primary 5 for three years at Sekolah Melayu Tanglin Tinggi (Tanglin Tinggi Malay School) from 1937 to 1940 because he was not yet 16 years old – the minimum age required to be a Malay teacher.
 
 Muhammad Ariff became a trainee teacher in 1940 after completing his studies in the Malay school and was subsequently posted to Sekolah Melayu Tanglin Tinggi in 1941 when World War II broke out.
 
@@ -92,7 +92,7 @@ Juffri Supa’at. (2012). Sumbangsih MAS: Koleksi puisi pilihan. Singapore: Nati
 
 Minamoria. (1974, November 24). [Sajak harus dibaca, didengar dan dilihat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19741124-1.2.27.1). _Berita Harian_, p. 13. Retrieved from NewspaperSG.
 
-Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (Ed.). (2005). [_Leksikon: Direktori penulis Melayu Singapura pasca 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12567839). Singapore: Angkatan Sasterawan’ 50 & National Library Board. (Call no.: Malay RSING 899.280255957 LEK)
+Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (Ed.). (2005). [_Leksikon: Direktori penulis Melayu Singapura pasca 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12567839). Singapore: Angkatan Sasterawan’ 50 &amp; National Library Board. (Call no.: Malay RSING 899.280255957 LEK)
 
 Muhammad Ariff Ahmad. (2003). [_Perjalanan Mas: Memoir Muhammad Ariff Ahmad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12236487). Singapore: Angkatan Sasterawan’ 50. (Call no.: Malay RSING q499.28092 MUH)
 
