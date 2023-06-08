@@ -274,9 +274,9 @@ sections:
       subtitle: Places
       description: Pilgrimages to the keramat on Kusu Island have been going on since
         the mid-19th century.
-      button: More on Keramat Kusu
+      button: Keramat Kusu
       url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
-      image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
+      image: /images/Vol 18 Issue 4/Keramat Kusu/Shrine_Dato Syed.jpg
       alt: Kusu
   - infopic:
       title: "“Book City” in Two Streets: Postwar Chinese Bookstore Scene"
