@@ -240,7 +240,7 @@ sections:
       url: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
       button: stone artefacts
       subtitle: nature and environment
-      image: /images/Vol 18 Issue 4/Stone Tools/image2.png
+      image: /images/Vol 18 Issue 4/Stone Tools/Stone Tools_Hero_img.png
   - infopic:
       title: "In Their Own Voices: Preparing for War in Singapore"
       subtitle: War
