@@ -340,7 +340,7 @@ sections:
       button: Carrying the <i>kavadi</i>
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
       alt: Thaipusam
-      image: /images/Kavadi resized.jpg
+      image: /images/Vol 18 Issue 4/Thaipusam/Image 10.png
   - infopic:
       title: From Sarong Island with Love
       subtitle: places
