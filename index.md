@@ -184,7 +184,7 @@ sections:
         area.
       button: Neo Tiew’s Legacy
       url: /vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/
-      image: /images/Vol 19 Issue 1/Neo Tiew/Neo Tiew_Landscape.jpg
+      image: /images/Vol 19 Issue 1/Neo Tiew/Group_photo.png
       alt: Image alt text
   - infopic:
       title: Singapore’s Public Bathhouses of the 1880s
