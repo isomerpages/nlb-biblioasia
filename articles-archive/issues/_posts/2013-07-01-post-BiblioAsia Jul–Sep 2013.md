@@ -11,7 +11,10 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/libraries-life/">Libraries for life</a><br>Libraries have been gateways of discovery and learning. Find out how they can continue to be relevant and meaningful to people with competing needs and shrinking budgets. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/libraries-transform-societies/">Libraries: A Force to Transform Societies</a><br>More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
+**[Director’s Note](/vol-9/issue-2/jul-sep-2013/directors-note)**
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep- 2013/libraries-transform-societies/">Libraries: A Force to Transform Societies</a><br>More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/china-planning-digital-library/">建设覆盖城乡的数字图书馆服务体系</a><br>
 China: Planning and Implementation of the Digital Library Promotion Project. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_ChinaPlanning.pdf)
