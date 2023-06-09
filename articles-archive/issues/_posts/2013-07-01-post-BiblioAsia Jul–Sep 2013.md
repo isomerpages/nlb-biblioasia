@@ -7,6 +7,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba9-2.jpg)
 
+<a style="text-decoration: none; font-weight: bold;" href="https://biblioasia.nlb.gov.sg/vol-9/issue-2/jul-sep-2013/director-note/">Director's Note</a>
+
 <a style="text-decoration: none; font-weight: bold;" href="">Director's Note</a>
 
 <a href="https://biblioasia.nlb.gov.sg/">Director's Note</a>
