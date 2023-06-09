@@ -22,7 +22,7 @@ sections:
       description: Introducing five new books available in the National Library’s
         collection.
       button: NEW READS
-      url: /jul-sep-2023/new-books-singapore-history/
+      url: /vol-19/issue-2/jul-sep-2023/new-books-singapore-history/
       image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
       alt: New books
   - infopic:
