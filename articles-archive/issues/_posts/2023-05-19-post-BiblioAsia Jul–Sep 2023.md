@@ -27,7 +27,7 @@ For more than 60 years, a 13-metre-long whale skeleton was the centrepiece of th
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/">A Comic Book Version of Operation Jaywick</a><br>The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harbour in September 1943, is retold in a 1965 comic aimed at boys. *Gautam Hazarika*. [(PDF)](/files/pdf/Vol%2019/Issue%202/6%20operation%20jaywick%20comic.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/">32 Binjai Park: The Modernist Home of an Architect</a><br>The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. *Lim Tin Seng and Lee Peng Hui*.[(PDF)](/files/pdf/Vol%2019/Issue%202/7%20lee%20kip%20lin%20house.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/">32 Binjai Park: The Modernist Home of an Architect</a><br>The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. *Lim Tin Seng and Lee Peng Hui*.[(PDF)](/files/pdf/Vol%2019/Issue%202/7%20lee%20kip%20lin%20house%20edited.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/history-pasir-ris/">Bridging Past and Present in Pasir Ris</a><br>Once dotted with plantations and mangrove swamps, Pasir Ris is today a bustling residential town with modern facilities and amenities. *Asrina Tanuri*. [(PDF)](/files/pdf/Vol%2019/Issue%202/8%20history%20of%20pasir%20ris.pdf)
 

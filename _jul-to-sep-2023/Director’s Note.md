@@ -1,6 +1,6 @@
 ---
 title: Director’s Note
-permalink: /holding-area/test9/
+permalink: /vol-19/issue-2/jul-sep-2023/director-note/
 description: ""
 ---
 Whales are magnificent, awe-inspiring animals. Their enormous size is a reminder of just how insignificant we humans are. So it is not at all surprising that a [13-metre-long skeleton of a whale](/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/) became an iconic exhibit at the old Raffles Museum. Many older Singaporeans still fondly recall marvelling at the bus-length skeleton suspended from the ceiling. How the museum acquired this exhibit and why they had to let it go six decades later is the subject of this issue’s fascinating cover story by Nathaniel Soon.

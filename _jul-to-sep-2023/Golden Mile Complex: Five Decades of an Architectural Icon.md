@@ -125,7 +125,8 @@ The owners relaunched an en bloc sale in December that year at the same price of
 
 At the point of publishing this essay, the new owners have yet to reveal how they plan to redevelop Golden Mile Complex, though it is unlikely that any of the former tenants will return. The battle to conserve Golden Mile Complex has, ironically, cost the community who kept it alive when others moved on to swankier new buildings. But all, however, is not lost. The redevelopment of Golden Mile Complex could serve as a model for how other similar buildings in Singapore can be conserved and enjoy a new lease of life for the future.
 
-For more photos of Golden Mile Complex, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex-photos/).
+For more photos of Golden Mile Complex, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/golden-mile-complex-photos/). For a timeline, click [here](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EAL1xLDNZ-Di14Baiiy_WVVTgzaiyuzB_X6ADYzmkEM&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650).
+
 
 <div style="background-color: white;">
 <br>
