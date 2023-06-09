@@ -7,6 +7,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba9-2.jpg)
 
+<a style="text-decoration: none; font-weight: bold;" href="">Director's Note</a>
+
 <a href="https://biblioasia.nlb.gov.sg/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/libraries-life/">Libraries for Life</a><br>Libraries have been gateways of discovery and learning. Find out how they can continue to be relevant and meaningful to people with competing needs and shrinking budgets. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
