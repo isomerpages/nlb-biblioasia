@@ -11,10 +11,7 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/libraries-life/">Libraries for life</a><br>Libraries have been gateways of discovery and learning. Find out how they can continue to be relevant and meaningful to people with competing needs and shrinking budgets. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
 
-**[Director’s Note](/vol-9/issue-2/jul-sep-2013/directors-note)**
-
-
-<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep- 2013/libraries-transform-societies/">Libraries: A Force to Transform Societies</a><br>More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/libraries-transform-societies/">Libraries: A Force to Transform Societies</a><br>More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/china-planning-digital-library/">建设覆盖城乡的数字图书馆服务体系</a><br>
 China: Planning and Implementation of the Digital Library Promotion Project. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_ChinaPlanning.pdf)
@@ -32,9 +29,9 @@ China: Planning and Implementation of the Digital Library Promotion Project. [(P
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/lsc-services-overview/">Improving the Services of the Library Society of China: Overview of Its Work in 2012</a><br>
 The Library Society of China has been encouraging academic exchange, organising seminars and training courses for librarians throughout China in their push for better library services. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibraryChina.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="//vol-9/issue-2/jul-sep-2013/public-libraries-past-present-future/">Singapore Public Libraries: Past, Present and Future</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/public-libraries-past-present-future/">Singapore Public Libraries: Past, Present and Future</a><br>
 From programmes and initiatives targeted at children, to courses and senior-friendly print material for the elderly, and even mobile bus services for those with special needs, the public libraries of Singapore have been tirelessly serving and engaging the residents of the nation. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_PublicLibraries.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="//vol-9/issue-2/jul-sep-2013/singapore-family-evolution/">The Way We Were: Evolution of the Singapore Family</a><br>In conjunction with the launch of the exhibition “Roots: Tracing Family History”, this essay ruminates on the question of family in Singapore. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_SingaporeFamily.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/singapore-family-evolution/">The Way We Were: Evolution of the Singapore Family</a><br>In conjunction with the launch of the exhibition “Roots: Tracing Family History”, this essay ruminates on the question of family in Singapore. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_SingaporeFamily.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-2/jul-sep-2013/singapore-memories-hand/">Memories in Our Hands: The Singapore Memory Project Exhibition</a><br>The Singapore Memory Project, spearheaded by the National Library and launched in August 2011, aims to capture the memories of Singapore. Memories take centre stage in this exhibition titled “Hands”. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_MemoriesHands.pdf)
