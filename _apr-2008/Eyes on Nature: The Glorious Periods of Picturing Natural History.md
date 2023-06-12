@@ -80,6 +80,12 @@ popular today.
 
 #### **Chinese Animal Motif and the Mughal Painting**
 
+<img src="/images/Vol%204%20Issue%201/EyesNature/mughal%20zebra.jpg" style="width:80%;">
+ <div style="background-color: white;">Mughal miniature painting of a zebra by Mansur, Jahangir period, c 1621.<i> Picture
+taken from Dance, S. P. (1978). The art of natural history: Animal illustrators and
+their work. Woodstock, N.Y.: Overlook Press.
+</i></div>
+
 Chinese arts are greatly
 influenced by nature.
 Painting of birds, flowers,
