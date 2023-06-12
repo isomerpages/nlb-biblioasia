@@ -22,6 +22,13 @@ Pictures of ancient Egyptians sacrifice and Leonardo da Vinci’s sketches of hu
 exotic flowers in the South East Asia including the Rafflesia arnoldi, the world’s largest flower and the Orchideous plant,
 discovered by Sir Stamford Raffles.
 
+#### **Painting on Cave Walls**
+
+Primitive men are credited with painting on cave walls at Lascaux in France, long before civilisation. Animal figures such as the horses, bison, rhinoceroses, lions, buffalo
+and mammoth have been seen. These amazingly accurate drawings seem to indicate that the observers had studied the subject intensely and reproduced the images from memory in dimly lit caves. The meaning and purpose of cave paintings are complicated and varied. Some images record mythological stories, sorcery, fertility and rituals, while others depict hunting scenes. It was believed that drawing a particular animal would invoke the species to propagate and the ritual act of painting or touching these depictions would release
+sacred energy or power. Visual aids such as arrows have also been seen next to some drawings and could have been used to train
+the young cave dwellers.
+
 
 
 
