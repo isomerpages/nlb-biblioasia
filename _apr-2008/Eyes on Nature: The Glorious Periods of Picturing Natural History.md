@@ -170,6 +170,41 @@ HMS Beagle. Darwin had no artistic flair and
 depended on Earle to illustrate the materials
 that he collected both at sea and ashore.
 
+#### **Fusion of Western and Eastern Natural**
+
+Shortly before the 19th century, the British East
+India Company began to explore Asia. Great
+numbers of its staff moved from England in
+search of new trading ports.
+
+In India, these newcomers who have
+arrived on the exotic land were fascinated by
+what they saw. They purchased paintings that
+depicted daily life, important monuments and
+local flora and fauna. Indian artists were quick
+to offer what these new patrons wanted.
+They modified traditional techniques to suit
+Western tastes. The resulting hybrid of Indian
+and European styles and painting techniques
+came to be known as the "Company
+Painting”.
+
+Calcutta (Kolkata) was the oldest trade
+houses of the East India Company. It was also an early
+production centre for natural history paintings. The city’s
+enthusiastic patrons include Marquis Wellesley, governor-general
+from 1798 to 1805 and Major-General Thomas
+Hardwicke of the Bengal Artillery (1755–1835). Both men
+collected large menageries and hired artists to paint the birds and animals and other specimens they acquired. A
+Company-established botanical garden in Calcutta also
+undertook similar project for the plant samples it had
+collected.
+
+Another influential painting centre was in Madras where
+Lord Clive, eldest son of Robert Clive was stationed. While
+in the army, Lord Clive, a naturalist devoted his time to pursue his interest and produced several volumes of natural
+history paintings from South India.
+
 
 
 
