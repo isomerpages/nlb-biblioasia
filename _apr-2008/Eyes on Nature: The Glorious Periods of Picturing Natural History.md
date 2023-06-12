@@ -292,7 +292,6 @@ binturong, banded linsang, bamboo rat and moonrat.
 
 <img src="/images/Vol%204%20Issue%201/EyesNature/flowers1.jpg" style="width:80%;">
 
-
 Farquhar brought his collection of drawings with him
 to Singapore and from there to London. He presented the
 collection to the Royal Asiatic Society (RAS) in 1827. Mr Goh
@@ -330,6 +329,11 @@ in Asia and those
 in Australia. Delicate
 pencil sketches and drawings of those newly discovered
 species were among Wallace’s collection.
+
+<img src="/images/Vol%204%20Issue%201/EyesNature/flyingfrog1.jpg" style="width:80%;">
+ <div style="background-color: white;">Flying frog. <i>Picture taken from Wallace, A. R. (1986). The Malay Archipelago:The land of the orang-utan, and the bird of paradise. Singapore: Oxford
+University Press.</i></div>
+
 
 #### **Uses of Art in the Service of Science**
 
