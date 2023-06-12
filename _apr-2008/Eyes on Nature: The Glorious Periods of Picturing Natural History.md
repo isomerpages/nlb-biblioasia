@@ -29,8 +29,30 @@ and mammoth have been seen. These amazingly accurate drawings seem to indicate t
 sacred energy or power. Visual aids such as arrows have also been seen next to some drawings and could have been used to train
 the young cave dwellers.
 
+Animals played a big part in the lives of the early cultures. They are among the first drawings that human depicted. Various art forms have shown animals in their symbolising power and influences. There are certain degrees of similarity among these animal portrayals. Most animals are shown in broadside view to provide the most information. Birds, quadrupeds and fishes show their most salient characteristics from the side whereas insects and arthropods reveal most of theirs when seen from above.
 
+#### **Tomb Murals and Greek Pottery**
 
+The ancient Egyptians
+(5000–300 BC) lived
+on high ground along
+the banks of the Nile
+River and were cattle-
+raisers or farmers.
+Drawings on buildings,
+sculptures, papyri, coffins
+and burial tombs
+revealed the rich tapestry
+of Egyptians’ relationship
+with nature
+and their beliefs, such
+as "life after death”.
+One famous depiction
+showing a person’s
+judgment of the afterlife
+is the *Weighing of the Heart*, where the jackal-headed god *Anubis* is weighing
+the heart of a priestess. The scale illustrates one example of
+"ancient technology”.
 
 
 
