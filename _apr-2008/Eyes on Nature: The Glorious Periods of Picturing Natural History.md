@@ -290,7 +290,7 @@ unknown foreign species to the attention of museums,
 botanic gardens and naturalists. He made many important zoological discoveries, among them the Malayan tapir,
 binturong, banded linsang, bamboo rat and moonrat.
 
-<img src="/images/Vol%204%20Issue%201/EyesNature/flowers1.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%201/EyesNature/flowers3.jpg" style="width:80%;">
 
 Farquhar brought his collection of drawings with him
 to Singapore and from there to London. He presented the
