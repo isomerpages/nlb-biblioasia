@@ -279,6 +279,103 @@ acquired the entire collection of watercolour painting in an
 auction in 1993. He officially donated it to the Singapore
 History Museum in 1996.
 
+The person, who shared Darwin’s
+discovery of evolution was Alfred
+Russel Wallace (1823–
+1913). Wallace made
+extensive trips to the
+Amazon River basin
+and then the Malay
+Archipelago.
+He arrived in the
+East in 1854 as an
+experienced collector
+and never
+lost his excitement
+at seeing new
+things and making
+new discoveries.
+More than
+125,000 specimens
+(including 80,000
+beetles alone) were
+collected in the Malay
+Peninsula. During
+the field trips he observed
+the differences
+between animals
+in Asia and those
+in Australia. Delicate
+pencil sketches and drawings of those newly discovered
+species were among Wallace’s collection.
+
+#### **Uses of Art in the Service of Science**
+
+Prehistoric men communicated their religion, law and
+history through painting and carving long before written
+language was developed. Various art forms, including song,
+dance and storytelling were not merely used for ceremonial
+performance or enjoyment but as a mean of recording
+ideas and values.
+
+From the Lascaux cave art of France, through Merian’s
+secrets of insect metamorphosis to Leonardo’s anatomical
+studies, pictures and diagrams have made learning science
+more interesting and meaningful than text alone can
+provide. Natural history drawings also reveal the natural environment of our rich past and present in a creative way.
+
+Drawing and painting plants are among the earliest
+uses of art for scientific purposes. The Greek physician,
+Pedanius Dioscorides who was born in the first century AD,
+compiled *De materia medica*. He showed vividly how drugs
+were prepared from plants and their chemical properties. It
+became the most central pharmacological work in Europe
+and the Middle East.
+
+Exotic objects were collected from the Western ships
+coming back from the New World—Asia,
+Middle East and Africa. These
+were kept in 􀀃cabinets of curiosities”
+and became the forerunners
+of modern museums.
+Famous collectors include
+the "greatest naturalist of
+his times”, Conrad Gessner
+(1516–1565) and
+Ulisse Aldrovandi (1522–1605) who organised
+numerous excursions
+to Italian mountains,
+countryside, islands and
+coasts in order to collect
+and catalogue plants.
+
+The 18th century witnessed
+infectious interest
+in the study of natural history
+among the amateurs
+and scientists. It became part
+of liberal education among
+men and women. It was
+also the golden age of
+Carl Linnaeus (1707–1778).
+He was curious about the
+natural world and wanted
+to "bring order to nature”. He went on to name, rank,
+and classify the living things using his naming convention
+known as the "binary nomenclature”, which is still widely
+used today. Natural history drawing has been important
+in showing the general characteristics of the species
+such as shapes and colours and is essential for systematic
+classification.
+
+Charles Darwin kept many specimens during his amazing
+journey aboard the *Beagle* where he made observations
+that led to his revolutionary theory of natural selection. His
+book, *On the Origin of Species* became a pivotal work in
+the scientific literature. Another famous expedition, the
+*Challenger* of 1874 witnessed the birth of oceanography,
+as it is known today. Among the new discoveries made, the
+expedition catalogued 4,000 previously unknown species 
 
 
 
