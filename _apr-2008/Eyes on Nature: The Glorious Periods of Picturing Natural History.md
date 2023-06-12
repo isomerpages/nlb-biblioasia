@@ -205,6 +205,81 @@ Lord Clive, eldest son of Robert Clive was stationed. While
 in the army, Lord Clive, a naturalist devoted his time to pursue his interest and produced several volumes of natural
 history paintings from South India.
 
+European traders have also enjoyed access to China in
+the late 17th century. Like the Indian counterparts, Chinese
+artists who worked at the foreign settlement at Canton
+(Guangzhou), were quick to adapt their talent to produce
+detailed botanical paintings that suited the Western clients.
+
+detailed botanical paintings that suited the Western clients.
+China has a well-established system of modular painting
+techniques. *The Mustard Seed Garden Manual of Painting*
+(Chieh Tzu Yuan Hua Chuan) is one of the greatest
+manuals on painting. It gives hundreds of examples of the
+brushstroke forms, ranging from single stroke of a blade
+of grass or flower petal to the composition of a tree,
+village and mountain. These superior examples explain
+the principles and standards of painting. An artist could
+creatively combine each module in different ways with
+almost limitless variation in his work. This also explains why
+the Chinese artists could adapt their skills easily to create
+botanical drawings to meet the export markets.
+
+#### **Early Naturalists in the Malay Peninsula**
+
+The East India Company has one of the largest natural history
+drawings. They realised the economic and scientific value
+of plant and animal products. Thus, overseas officials were
+encouraged to pursue their interests in natural history.
+
+After the British conquest of Java in 1811, Stamford
+Raffles (1781–1826) was promoted to become the lieutenant
+governor. In 1819, he founded Singapore by purchasing
+the land for the British East India Company. Raffles was
+an enthusiastic natural historian. While travelling on his assignments, he encountered the unusual natural and
+stunning landscapes. Raffles hastened to collect and record
+the images of the objects he found with proper scientific
+data. This resulted in a plethora of dried plants and insects,
+skins of birds and animals, shells and minerals and a series
+of their paintings by Chinese painters.
+
+Raffles would carefully organise and dispatch crates
+of specimens back to England. However, few of these
+collections have survived and these are now preserved at the
+British Museum. A fire broke out and destroyed everything
+that he had collected on his boat when he left Sumatra for
+home in 1824.
+
+A friend of Raffles, William Marsden (1754–1836) who
+was stationed in Bencoolen in Sumatras has a broad interest
+in the local history, cultures and language. He was also keen
+in natural history and frequently wrote to British scientists.
+Marsden was a source for many of our most precious
+botanical and zoological drawings from his time.
+
+William Farquhar (1770–1839) has long been associated
+with Stamford Raffles. He was the first British Resident and
+Commandant of Singapore in 1819. He was also a naturalist
+and passionate investigator. While in Melaka (Malacca) from
+1795 to 1818, Farquhar employed the locals to collect and
+preserve the specimens and commissioned Chinese artists to
+paint them. The paintings show a charming combination of
+traditional Chinese painting aesthetics and a high standard
+of scientific detail. He would send the drawings, detailed
+descriptions, bones, preserved specimen, particularly
+unknown foreign species to the attention of museums,
+botanic gardens and naturalists. He made many important zoological discoveries, among them the Malayan tapir,
+binturong, banded linsang, bamboo rat and moonrat.
+
+Farquhar brought his collection of drawings with him
+to Singapore and from there to London. He presented the
+collection to the Royal Asiatic Society (RAS) in 1827. Mr Goh
+Geok Khim, a stockbroker by profession and a nature lover,
+acquired the entire collection of watercolour painting in an
+auction in 1993. He officially donated it to the Singapore
+History Museum in 1996.
+
+
 
 
 
