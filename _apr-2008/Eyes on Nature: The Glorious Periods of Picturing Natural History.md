@@ -394,6 +394,12 @@ in showing the general characteristics of the species
 such as shapes and colours and is essential for systematic
 classification.
 
+<img src="/images/Vol%204%20Issue%201/EyesNature/laboratory1.jpg" style="width:80%;">
+ <div style="background-color: white;">The Challenger’s laboratory.<i> Picture taken from Rice, T. (2000).
+Voyages of discovery: Three centuries of natural history
+exploration. London: Natural History Museum / Scriptum Editions.</i></div>
+
+
 Charles Darwin kept many specimens during his amazing
 journey aboard the *Beagle* where he made observations
 that led to his revolutionary theory of natural selection. His
