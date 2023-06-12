@@ -51,8 +51,70 @@ One famous depiction
 showing a person’s
 judgment of the afterlife
 is the *Weighing of the Heart*, where the jackal-headed god *Anubis* is weighing
-the heart of a priestess. The scale illustrates one example of
-"ancient technology”.
+the heart of a priestess. The scale illustrates one example of "ancient technology”.
+
+Ancient Greek (1500–31 BC) was particularly famous
+for their vases, sculptures and architecture. Early portrayal
+of "scientific apparatus” of the era has shown transport,
+hunting tools and techniques of weaving cloths. This period
+also marked the beginning of humans and monumental
+stone sculptures. Human statutes are heroically proportioned
+due to Greek humanistic belief in the nobility of
+man. By the time Alexander the Great died at 323 BC, the
+Greek sculptors had mastered carving marbles and were
+technically perfect. They
+sculpted heroic human
+figures that still remain
+popular today.
+
+#### **Chinese Animal Motif and the Mughal Painting**
+
+Chinese arts are greatly
+influenced by nature.
+Painting of birds, flowers,
+and landscapes
+from the countryside
+were popular. The earliest
+images of animals
+are produced during the
+Shang Dynasty (1523–1028 BC). Animal
+motifs such as cicada,
+owl, bear, rabbit, deer, even tapir and Indian rhinoceros are carved in jade or cast
+in bronze. Two and more animals are often combined in
+a single artwork, representing the "metamorphosis of one
+animal into another”. Animals are not the subjects of interest
+as living creatures but are for aesthetic and decorative
+purposes. The Chinese also like to depict animals with symbolic
+meaning. For example, fantasy animals such as dragon
+and phoenix with flames (symbolising power) streaming
+from their bodies and cranes and zodiac animals (symbolising
+long life).
+
+Graphic art started after paper was invented in AD 105.
+Although no painting on paper survived from the early Han
+period (206 BC–220 AD), stylised animal pictures preserved
+on damask and other textiles are found. Chinese ceramics
+such as those in Tang Dynasty (AD 600–
+900) achieved its
+finest artistic standard; for example, the standing figures of
+spirited horses.
+
+Hunting scenes, common in many prehistoric illustrations
+are also found in India. Religious life of the Hindus (namely
+Buddhism and Hinduism) greatly influences the Indian arts.
+Human figures are glorified and most animal representations
+(elephants and cattle are fairly common) are sculpted in
+stones.
+
+Realistic and detailed paintings came about from the
+16th century. Monarchs at the time, such as Akbar the Great
+and his son, Jahangir were very passionate about painting
+and the natural world. The Mughal School of painting came
+into being. One famous artist, Mansur was known as the
+"painter of flora and fauna”. He travelled with the emperor and created famous images of zebra, neelgai (a kind of
+deer) and a variety of birds.
+
+#### **Artists as Scientists from Early Modern Europe**
 
 
 
