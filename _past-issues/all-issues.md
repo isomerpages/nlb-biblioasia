@@ -11,7 +11,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 19-1 cover](/images/covers/Cover%20BA_19-1%20v5.jpg)[Apr–Jun 2023](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/)<br>[Apr–Jun 2023 (PDF)](/files/pdf/BiblioAsia_Apr-Jun%202023%20(below%205MB).pdf) |![BiblioAsia 19-2 cover](/images/covers/ba19-02%20cover.jpg)<br>[Jul-Sep 2023 (PDF)](/files/pdf/biblioasia%20jul-sep%2023%20below%205mbv2.pdf)|
+| ![BiblioAsia 19-1 cover](/images/covers/Cover%20BA_19-1%20v5.jpg)[Apr–Jun 2023](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/)<br>[Apr–Jun 2023 (PDF)](/files/pdf/biblioasia_apr-jun%202023%20below%205mb.pdf)|![BiblioAsia 19-2 cover](/images/covers/ba19-02%20cover.jpg)<br>[Jul-Sep 2023 (PDF)](/files/pdf/biblioasia%20jul-sep%2023%20below%205mbv2.pdf)|
 
 
 #### Volume 18
