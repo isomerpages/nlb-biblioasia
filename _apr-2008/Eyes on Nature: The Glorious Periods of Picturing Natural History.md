@@ -116,6 +116,61 @@ deer) and a variety of birds.
 
 #### **Artists as Scientists from Early Modern Europe**
 
+Around 1400, artists in Europe began to produce more
+"realistic” or "naturalistic” style of drawing. During this
+period, scholars were increasingly interested to study, collect
+and classify living things. Many captivating drawings are
+produced and used as identification aids, religious symbols
+and philosophical ideas or purely for art appreciation. Over
+the next two centuries, this new approach to nature came
+to be known as "scientific illustration”.
+
+A man of "both worlds”, Leonardo da Vinci (1452–1519) was an artist, scientist, engineer and inventor. He
+would dissect corpses and record everything he found in his
+journals. His images of animals, plants and human bodies
+are results of careful observation of natural structures,
+forms and compositions.
+
+One of the greatest painter-naturalists of her time was
+Maria Sibylla Merian (1647–1717). She created beautiful
+visual images of flowers and insects and her observations
+revolutionised the science of animals and plants. Her works
+are rich with tropical flowers and fruit, insects of all kinds,
+especially exotic butterflies, moths and caterpillars.
+
+Another well-known water-colourist, naturalist and
+adventurer whose name is synonymous with bird and nature
+lover and environmentalist was John James Audubon (1785–1851). His passion for birds resulted in a seven-volume
+edition of *The Birds of America* describing the anatomy, habits and localities of the birds with 500
+hand-coloured lithographs.
+
+For centuries, artists have worked closely
+with the "natural scientists”. Andreas Vesalius
+(1514–1564) worked with artist, Jan van
+Calcar in the seven-volume, revolutionary
+human anatomy textbook, *De humani corporis
+fabrica*. Woodcut designer, Hans Weiditz and
+botanist, Otto Brunfels (1488–1534) produced
+stunning plant studies in *Herbarium vivae
+eicone*s. A team of craftsmen and Leonhard
+Fuchs (1501–1566) who was a physician and
+botanist, created the early printed herbals, *De
+historia stipium*.
+
+Voyages and journeys of exploration
+became common in early modern Europe.
+These ships travelled around the world in
+search of scientific discovery. Skilled artists
+usually went along and produced amazingly
+illustrated botanical and natural history books.
+English painter, Augustus Earle (1793–1838)
+embarked with Charles Darwin (1809–1882)
+in one of the world most famous expedition,
+HMS Beagle. Darwin had no artistic flair and
+depended on Earle to illustrate the materials
+that he collected both at sea and ashore.
+
+
 
 
 
