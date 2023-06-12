@@ -107,7 +107,7 @@ and phoenix with flames (symbolising power) streaming
 from their bodies and cranes and zodiac animals (symbolising
 long life).
 
-<img src="/images/Vol%204%20Issue%201/EyesNature/capture1.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%201/EyesNature/capture1.jpg" style="width:100%;">
 
 Graphic art started after paper was invented in AD 105.
 Although no painting on paper survived from the early Han
