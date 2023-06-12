@@ -391,6 +391,54 @@ natural history drawings often find the field an ideal fusion of interests in ar
 plants scientifically, but have yet seen and described them
 with the eyes and the hand of the artist.” Blunt (1994).
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Sara%20Pek.jpg">
+<center><b>Sara Pek</b><br> Senior Librarian<br>  Lee Kong Chian Reference Library<br>  National Library<center></center></center></div>
+
+#### **REFERENCES**
+      
+Alfred Russel Wallace, _[The Malay Archipelago: The Land of the Orang-Utan, and the Bird of Paradise](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4452181)_ (Singapore: Oxford University Press, 1986). (Call no. RSING 959.8 WAL)
+
+Brian J. Ford, _[Images of Science: A History of Scientific Illustration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6689326)_ (London: British Library, 1992). (Call no. RART 743.93 FOR)
+
+David Attenborough et al., _[Amazing Rare Things: The Art of Natural History in the Age of Discovery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12852414)_ (London: Royal Collection, 2007). (Call no. R 508.0222 ATT)
+
+_[Images From Nature: Drawings and Paintings From the Library of the Natural History Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9037663)_ (London: The Natural History Museum Publishing Division, 1998). (Call no. RART 758.4 IMA
+
+Kwa Chong Guan, “Drawing Natural History in the East Indies,” in _[The William Farquhar Collection of Natural History Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9765957)_, vol. 1. (Singapore: Goh Geok Khim, 1999), 27–35. (Call no. RSING q759.959 WIL)
+
+Mildred Archer, _[Natural History Drawings in the India Office Library](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1636557)_ (London: Published for the Commonwealth Relations Office by H.M. Stationery Off., 1962). (Call no. RART 743.6 ARC)
+
+S. Peter Dance, _[The Art of Natural History: Animal Illustrators and Their Work](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1240990)_ (Woodstock, N.Y.: Overlook Press, 1978). (Call no. RART 741.6 DAN)
+
+Sherman E. Lee, _[A History of Far Eastern Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9764103)_ (London: Thames and Hudson, 1997). (Call no. RART q709.5 LEE)
+
+_[The William Farquhar Collection of Natural History Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9765957)_, vols. 1 and 2. (Singapore: Goh Geok Khim, 1999). (Call no. RSING q759.959 WIL)
+
+Tony Rice, _[Voyages of Discovery: Three Centuries of Natural History Exploration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9538351)_ (London: Natural History Museum/Scriptum Editions, 2000). (Call no. R q508.09 RIC)
+
+Wang Gai, _The Mustard Seed Garden Manual of Painting_ (Princeton, N.J.: Princeton University Press, 1977)
+
+Wilfrid Blunt and William T. Stearn, _[The Art of Botanical Illustration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8585701)_ (Woodbridge: Antique Collectors’ Club, 1994). (Call no. R 581.0221 BLU)
+
+#### **FURTHER READINGS**
+
+Bernard Smith, _[Imagining the Pacific: In the Wake of the Cook Voyages](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6251502)_ (New Haven: Yale University Press, 1992). (Call no. R q910 SMI)
+
+Elaine R.S. Hodges, et al., eds., _[The Guild Handbook of Scientific Illustration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11893639)_ (Hoboken, N.J.: John Wiley, 2003). (Call no. R q502.22 GUI)
+
+Fritz Koreny, _[Albrecht Dèurer and the Animal and Plant Studies of the Renaissance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4415685)_ (Boston: Little, Brown, 1988). (Call no. RART 759.3 KOR)
+
+Gill Saunders, _[Picturing Plants: An Analytical History of Botanical Illustration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7539213)_ (Berkeley: University of California Press in association with the Victoria and Albert Museum, London, 1995). (Call no. RART 743.7 SAU)
+
+John James Audubon, _[Writings and Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9430134)_ (New York: Library of America, 1999). (Call no. R 598.092 AUB)
+
+Robert Huxley, ed., _[The Great Naturalists](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12942319)_ (London: Thames &amp; Hudson, 2007). (Call no. R 508.0922 GRE)
+
+Sandra Knapp, _[Potted Histories: An Artistic Voyage Through Plant Exploration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12538397)_ (London: Scriptum Editions in association with the Natural History Museum, London, 2003). (Call no. R 581 KNA)
+
 
 
 
