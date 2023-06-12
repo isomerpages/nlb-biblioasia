@@ -32,7 +32,7 @@ discovered by Sir Stamford Raffles.
 
 #### **Painting on Cave Walls**
 
-<img src="/images/Vol%204%20Issue%201/EyesNature/tomb%20paintingsepia1.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%201/EyesNature/tomb%20paintingsepia1.jpg" style="width:100%;">
  <div style="background-color: white;">A balance from ancient Egypt.<i> Picture taken from Ford, Brian J. (1992). Images of science: A history of scientific illustration. London: British Library.</i></div>
 
 Primitive men are credited with painting on cave walls at Lascaux in France, long before civilisation. Animal figures such as the horses, bison, rhinoceroses, lions, buffalo
