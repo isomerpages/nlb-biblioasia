@@ -290,6 +290,9 @@ unknown foreign species to the attention of museums,
 botanic gardens and naturalists. He made many important zoological discoveries, among them the Malayan tapir,
 binturong, banded linsang, bamboo rat and moonrat.
 
+<img src="/images/Vol%204%20Issue%201/EyesNature/flowers1.jpg" style="width:80%;">
+
+
 Farquhar brought his collection of drawings with him
 to Singapore and from there to London. He presented the
 collection to the Royal Asiatic Society (RAS) in 1827. Mr Goh
@@ -354,7 +357,7 @@ and the Middle East.
 Exotic objects were collected from the Western ships
 coming back from the New World—Asia,
 Middle East and Africa. These
-were kept in 􀀃cabinets of curiosities”
+were kept in "cabinets of curiosities”
 and became the forerunners
 of modern museums.
 Famous collectors include
