@@ -208,6 +208,11 @@ and European styles and painting techniques
 came to be known as the "Company
 Painting”.
 
+<img src="/images/Vol%204%20Issue%201/EyesNature/flamingo1.jpg" style="width:50%;">
+ <div style="background-color: white;">The American flamingo.<i> Picture taken from Attenborough, D. (2007). Amazing rare
+things: The art of natural history in the age of discovery. London: Royal Collection.</i></div>
+
+
 Calcutta (Kolkata) was the oldest trade
 houses of the East India Company. It was also an early
 production centre for natural history paintings. The city’s
