@@ -14,7 +14,7 @@ _Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shri
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-to-jun-2023/director-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting? 
-</a><br>Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Shrimp-paste.pdf)
+</a><br>Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2019/Issue%201/biblioasia_apr-jun2023-shrimp-paste2.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang </a><br>The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area. *Alvin Tan*.
  [(PDF)](/files/pdf/Vol%2019/Issue%201/BiblioAsia_APR-JUN2023-Neo-Tiew.pdf)
