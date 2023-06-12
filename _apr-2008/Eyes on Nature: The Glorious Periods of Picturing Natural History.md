@@ -375,8 +375,21 @@ book, *On the Origin of Species* became a pivotal work in
 the scientific literature. Another famous expedition, the
 *Challenger* of 1874 witnessed the birth of oceanography,
 as it is known today. Among the new discoveries made, the
-expedition catalogued 4,000 previously unknown species 
+expedition catalogued 4,000 previously unknown species of animals. These specimens were examined, identified and
+drawn. The expedition also reflected a deep collaboration
+among natural historians, ocean specialists and artists.
 
+#### **Conclusion**
+
+The wonder and beauty of nature has been richly
+documented for thousands of years. Delineation of the
+living world reaches its heightened accuracy in the late 18th
+century when advanced printing methods such as stipple
+engraving and lithography were used. The creators of
+natural history drawings often find the field an ideal fusion of interests in art and science. As Wilfrid Blunt expounded,
+"The greatest flower painters are those who have understood
+plants scientifically, but have yet seen and described them
+with the eyes and the hand of the artist.” Blunt (1994).
 
 
 
