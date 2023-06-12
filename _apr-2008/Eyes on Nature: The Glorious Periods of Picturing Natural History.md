@@ -21,12 +21,19 @@ To the early naturalist, the mere mention of Malay Archipelago conjures up image
 images of plants and animals for documentation and study. Many European ships set sail for journeys of discovery
 during that period. The travelling naturalists responded to the flora and fauna and to the landscapes, in which they worked.
 
+<img src="/images/Vol%204%20Issue%201/EyesNature/skeleton2%203.jpg" style="width:50%;">
+ <div style="background-color: white;">Leonardo probes the nature of mankind.<i> Picture taken from Ford, B. J. (1992). Images of science:
+A history of scientific illustration. London: British Library.</i></div>
+
 Rendering the nature’s elegance and beauty has a long history. Dating as early as 30,000 years ago, the oldest "scientific” records can be seen from the French caves.
 Pictures of ancient Egyptians sacrifice and Leonardo da Vinci’s sketches of human bodies are notable forms of early scientific drawing. There are also vivid descriptions of
 exotic flowers in the South East Asia including the Rafflesia arnoldi, the world’s largest flower and the Orchideous plant,
 discovered by Sir Stamford Raffles.
 
 #### **Painting on Cave Walls**
+
+<img src="/images/Vol%204%20Issue%201/EyesNature/tomb%20paintingsepia1.jpg" style="width:80%;">
+ <div style="background-color: white;">A balance from ancient Egypt.<i> Picture taken from Ford, Brian J. (1992). Images of science: A history of scientific illustration. London: British Library.</i></div>
 
 Primitive men are credited with painting on cave walls at Lascaux in France, long before civilisation. Animal figures such as the horses, bison, rhinoceroses, lions, buffalo
 and mammoth have been seen. These amazingly accurate drawings seem to indicate that the observers had studied the subject intensely and reproduced the images from memory in dimly lit caves. The meaning and purpose of cave paintings are complicated and varied. Some images record mythological stories, sorcery, fertility and rituals, while others depict hunting scenes. It was believed that drawing a particular animal would invoke the species to propagate and the ritual act of painting or touching these depictions would release
