@@ -212,7 +212,6 @@ Painting”.
  <div style="background-color: white;">The American flamingo.<i> Picture taken from Attenborough, D. (2007). Amazing rare
 things: The art of natural history in the age of discovery. London: Royal Collection.</i></div>
 
-
 Calcutta (Kolkata) was the oldest trade
 houses of the East India Company. It was also an early
 production centre for natural history paintings. The city’s
@@ -295,7 +294,7 @@ unknown foreign species to the attention of museums,
 botanic gardens and naturalists. He made many important zoological discoveries, among them the Malayan tapir,
 binturong, banded linsang, bamboo rat and moonrat.
 
-<img src="/images/Vol%204%20Issue%201/EyesNature/flowers3.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%201/EyesNature/flowers3.jpg" style="width:100%;">
 
 Farquhar brought his collection of drawings with him
 to Singapore and from there to London. He presented the
