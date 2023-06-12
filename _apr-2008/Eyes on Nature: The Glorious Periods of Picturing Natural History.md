@@ -13,6 +13,10 @@ image: /images/Vol 4 Issue 1/EyesNature/pregnant mare1.jpg
 
 — Stamford Raffles writing from Southern Sumatra to the Duchess of Somerset in July 1818. Quote extracted from Archer, M. (1962). Natural history drawings in the India Office Library. London, Published for the Commonwealth Relations Office by H.M. Stationery Off.
 
+<img src="/images/Vol%204%20Issue%201/EyesNature/pregnant%20mare1.jpg" style="width:80%;">
+ <div style="background-color: white;">A pregnant mare from Lascaux. <i>Picture taken from Ford, Brian J. (1992). Images of science: A history of scientific illustration.
+London: British Library.</i></div>
+
 To the early naturalist, the mere mention of Malay Archipelago conjures up images of amazing rare things and nature’s paradise. Interest in natural history in this region corresponded with the energetic intellectual climate in early modern Europe. During the 17th century, the term *natural history illustration* came into use as artists created
 images of plants and animals for documentation and study. Many European ships set sail for journeys of discovery
 during that period. The travelling naturalists responded to the flora and fauna and to the landscapes, in which they worked.
@@ -438,7 +442,3 @@ John James Audubon, _[Writings and Drawings](https://eservice.nlb.gov.sg/item_ho
 Robert Huxley, ed., _[The Great Naturalists](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12942319)_ (London: Thames &amp; Hudson, 2007). (Call no. R 508.0922 GRE)
 
 Sandra Knapp, _[Potted Histories: An Artistic Voyage Through Plant Exploration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12538397)_ (London: Scriptum Editions in association with the Natural History Museum, London, 2003). (Call no. R 581 KNA)
-
-
-
-
