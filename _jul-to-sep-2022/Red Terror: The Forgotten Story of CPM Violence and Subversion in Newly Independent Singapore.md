@@ -106,11 +106,11 @@ The vigilance of local security forces resulted in a significant drop in bombing
 The communist threat, though diminished, persisted until 2 December 1989 when the CPM signed the Haadyai Peace Agreements at the Lee Gardens Hotel in the southern Thai city of Haadyai. Over 1,100 CPM guerrillas agreed to lay down their arms in an “honourable settlement” that brought the 41-year conflict to a formal close.[^41]
 	
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%206.png)
-<div style="background-color: white;">The Communist Party of Malaya signed the Haadyai Peace Agreements on 2 December 1989. This brought an end to the 41-year communist conflict that had begun in 1948. <i>Image reproduced from Tan Lian Choo, “Chin Peng Signs Peace Pacts with KL and Bangkok,” Straits Times, 3 December 1989, 1. (From NewspaperSG).</i></div>
+<div style="background-color: white;">The Communist Party of Malaya signed the Haadyai Peace Agreements on 2 December 1989. This brought an end to the 41-year communist conflict that had begun in 1948. <i>Source: The Straits Times, 3 December 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 	
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Choo_Ruizhi.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%202/Authors/Choo_Ruizhi.png" style="width: 100px; height: 100px;">
 	<b>Choo Ruizhi</b> is a Senior Analyst with the National Security Studies Programme at the S Rajaratnam School of International Studies, Nanyang Technological University.  His other research interests include the environmental histories of Southeast Asia in the 19th and 20th centuries.</div>
 	
 #### **NOTES**
@@ -119,21 +119,21 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^2]: “[Bomb Found on Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700430-1.2.8),” *Straits Times*, 30 April 1970, 1. (From NewspaperSG)
 
-[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [*Socialism That Works... the Singapore Way*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
+[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [*Socialism That Works... the Singapore Way*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
 
-[^4]: Lee Ting Hui, [*The Open United Front: The Communist Struggle in Singapore, 1954–1966*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
+[^4]: Lee Ting Hui, [*The Open United Front: The Communist Struggle in Singapore, 1954–1966*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
 
 [^5]: Ong Weichong, “Securing the Population from Insurgency and Subversion in the Second Emergency (1968–1981)” (PhD thesis, University of Exeter, 2010), 59.
 
-[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
+[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
 
-[^7]: Fong Chong Pik, [*Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
+[^7]: Fong Chong Pik, [*Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
 
-[^8]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 428–30.
+[^8]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12106841), 428–30.
 
-[^9]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 453.
+[^9]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12106841), 453.
 
-[^10]: Aloysius Chin, [*The Communist Party of Malaya: The Inside Story*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 12–13; Bilveer Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
+[^10]: Aloysius Chin, [*The Communist Party of Malaya: The Inside Story*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082556),” 12–13; Bilveer Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
 
 [^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” *Straits Times*, 13 October 1978, 13. (From NewspaperSG)
 
@@ -155,43 +155,43 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^20]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Communist Threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751006-1.2.87.2),” *Straits Times*, 6 October 1975, 14. (From NewspaperSG)
 
-[^21]: Chin, [*Communist Party of Malaya*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955), 164, 236–38.
+[^21]: Chin, [*Communist Party of Malaya*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7221955), 164, 236–38.
 
 [^22]: Ahmad Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7),” *Straits Times*, 5 August 1975, 1. (From NewspaperSG)
 
-[^23]: Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 17.
+[^23]: Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082556),” 17.
 
 [^24]: See, for instance, Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7)”; “[Freed: Woman Who Was Plen’s Courier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720623-1.2.45),” *Straits Times*, 23 June 1972, 6; “[Ex-detainee: I Was Trained to Use Guns and Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800521-1.2.52),” *Straits Times*, 21 May 1980, 9. (From NewspaperSG)
 
 [^25]: “[39 Arrested in ISD Swoops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771016-1.2.2),” *Straits Times*, 16 October 1977, 1. (From NewspaperSG)
 
-[^26]: Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” *Straits Times*, 13 October 1978, 12. (From NewspaperSG)
+[^26]: Singh, [*Quest for Political Power*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” *Straits Times*, 13 October 1978, 12. (From NewspaperSG)
 
-[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in *Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in *Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
 [^28]: Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2).”
 
 [^29]: “[Former Officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54)”; “[Detainee Admits: I Was a Leader of Revolutionary Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771120-1.2.35),” *Straits Times*, 20 November 1977, 7. (From NewspaperSG)
 
-[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
-[^31]: Original source figures given as 9590 kc/s and 7305 kc/s in the 31- and 41-metre bands. “Internal Security Department (Singapore) Files: The Voice of the Malayan Revolution, 26 May 1971” cited in Ong Weichong, [*Malaysia’s Defeat of Armed Communism*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201072903) (New York: Routledge, 2015), 51. (From National Library, Singapore, call no. RSEA 322.4209595 VOI)
+[^31]: Original source figures given as 9590 kc/s and 7305 kc/s in the 31- and 41-metre bands. “Internal Security Department (Singapore) Files: The Voice of the Malayan Revolution, 26 May 1971” cited in Ong Weichong, [*Malaysia’s Defeat of Armed Communism*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201072903) (New York: Routledge, 2015), 51. (From National Library, Singapore, call no. RSEA 322.4209595 VOI)
 
-[^32]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 460.
+[^32]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12106841), 460.
 
-[^33]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 450.
+[^33]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12106841), 450.
 
 [^34]: [Eu Chooi Yip (余柱业)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/21c329bd-115e-11e3-83d5-0050568939ad-OHC001359_019/web/html5/index.html), oral history interview by 林孝胜, 25 September 1992, transcript and MP3 audio, Reel 19 of 23, 30:32, National Archives of Singapore (accession no. 001359).
 
 [^35]: Eddie C.Y. Kuo, “Multilingualism and Mass Media Communications in Singapore”, *Asian Survey* 18, no. 10 (October 1978): 1067–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^36]: For more examples of the VMR’s broadcasts, see [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+[^36]: For more examples of the VMR’s broadcasts, see [*Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
 [^37]: “[S’poreans and Their Rising Affluence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791030-1.2.10),” *Straits Times*, 30 October 1979, 1; “[Soccer ‘Live’ Colour Telecast was ‘Superb’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740709-1.2.34),” *Straits Times*, 9 July 1974, 5. (From NewspaperSG)
 
 [^38]: Sit Meng Chue, “[Two Who Were Won Over by Pro-Red Detainees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790602-1.2.27),” *Straits Times*, 2 June 1979, 7. (From NewspaperSG)
 
-[^39]: Leon Comber, [*Malaya’s Secret Police, 1945–60: The Role of the Special Branch in the Malayan Emergency*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13055676) (Singapore, ISEAS Publishing, 2008), 6. (From National Library, Singapore, call no. RSING 363.283095951 COM)
+[^39]: Leon Comber, [*Malaya’s Secret Police, 1945–60: The Role of the Special Branch in the Malayan Emergency*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13055676) (Singapore, ISEAS Publishing, 2008), 6. (From National Library, Singapore, call no. RSING 363.283095951 COM)
 
 [^40]: “[The Red Threat Is Very Real](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840128-1.2.24.1),” *Singapore Monitor*, 28 January 1984, 17. (From NewspaperSG)
 
