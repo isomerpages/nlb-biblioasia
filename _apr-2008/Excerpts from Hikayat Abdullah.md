@@ -8,6 +8,9 @@ description: Hikayat Abdullah (The Story of Abdullah) by Munshi Abdullah Abdul
 image: /images/Vol 4 Issue 2/HikayatAbdullah/hikayat abdullah .jpg
 ---
 #### _Hikayat Abdullah_&nbsp;(_The Story of Abdullah_) by Munshi Abdullah Abdul Kadir provides glimpses of life in early Singapore. Abdullah arrived in Singapore from Melaka about four months after Stamford Raffles established a trading post on the island in February 1819.
+
+<img src="/images/Vol%204%20Issue%202/HikayatAbdullah/hikayat%20abdullah%20.jpg" style="width:80%;">
+ <div style="background-color: white;">Hikayat Abdullah. National Library</div>
  
 In our last two issues, we introduced the autobiography of Munshi Abdullah Abdul Kadir which was written in Jawi between 1840 and 1843 and published in 1849. The author was the interpreter and scribe to the founder of modern Singapore, Sir Stamford Raffles. 
 
@@ -19,6 +22,9 @@ From Abdullah’s accounts, Singapore was certainly not a place for the faint-he
 
 At that time, the sea surrounding Singapore was far from being navigated freely by men, for along the shores were the sleeping-huts of the pirates. Whenever they plundered a ship or a ketch or a cargo-boat, they brought it into Singapore to share the spoils. They also slaughtered the crew or fought to death among themselves to secure their gains.2
 
+<img src="/images/Vol%204%20Issue%202/HikayatAbdullah/hikayat%20abdullah%202.jpg" style="width:50%;">
+ <div style="background-color: white;">Frontispiece of the Hikayat Abdullah Ilustrasi depan Hikayat Abdullah</div>
+	
 Lawlessness was rife in Singapore, despite the presence of the British. There were frequent incidents of houses catching fire, robberies in broad daylight, people getting stabbed, houses broken into and property stolen.3 The situation was almost out of control as the law enforcers themselves became victims.
 
 *Bermula pada tiap-tiap hari hari waktu itu tiada berkeputusan orang mati dibunuh sepanjang jalan Kampung Gelam itu. Maka ada juga mata-mata polis menjaga sana-sini, akan tetapi berapa-berapa banyak mata-mata itu dibunuh orang sehari*.4
@@ -31,6 +37,9 @@ The animals and insects of Singapore also added more colour to the adventurous l
 
 *Maka pada tiap-tiap kali berkerumunlah orang membawa bangkai tikus ke rumah Tuan Farquhar. Pada seorang lima enam puluh dan yang ada enam tujuh ekor. Maka pada mula-mulanya hampir-hampir beribu tikus dibawa orang pada sepagi, sampai bertimbunlah bangkai itu, dibayar oleh Tuan Farquhar seperti perjanjiannya itu. Maka adalah enam tujuh hari demikianlah. Dilihatnya terlalu banyak juga. Maka ditawarnya seekor lima duit. Maka itu pun dibawa orang juga, beribu-ribu, lalu disuruhnya gali tanah dalam-dalam, ditanamkan segala bangkai-bangkai. Maka dengan hal yang demikian reda\[h\]lah sedikit tikus itu, sampai dibawa orang pada sehari sepuluh dua puluh sahaja. Lalu berhentilah peperangan dan pergaduhan tikus itu dalam Singapura, sekalianya habislah lesap sekali, adanya*.6
 
+<img src="/images/Vol%204%20Issue%202/HikayatAbdullah/hikayat%20abdullah%203.jpg" style="width:50%;">
+ <div style="background-color: white;">Frontispiece of the Hikayat Abdullah Ilustrasi depan Hikayat Abdullah</div>
+
 Every day, crowds of people brought the carcasses to Colonel Farquhar’s place. Some had 50 or 60, while others only six or seven. At first, the rats brought in every morning were counted almost in thousands, and Colonel Farquhar paid out according to his promise. After six or seven days a multitude of rats were still to be seen, and he promised five duit for each rat caught. They were still brought in in thousands and Colonel Farquhar ordered a very deep trench to be dug and the carcasses to be buried. Soon, the numbers began to dwindle, until people were bringing in only ten or twenty a day. Finally, the uproar and the campaign against the rats in Singapore came to an end, and the infestation completely subsided.7
 
 There was a similar problem with centipedes infesting people’s homes, biting the people and causing them much annoyance. Farquhar took the same approach of offering a reward for the killing of a centipede. The campaign against the centipedes was equally successful.
@@ -39,4 +48,13 @@ There was also an incident of Farquhar’s dog being attacked and eaten by a cro
 
 *Setelah sudah, maka buaya itu pun terkepunglah lalu ditikam orang sampai mati, ada tiga depa panjangnya. Maka baharulah diketahui orang ada buaya di Singapura. Maka oleh Tuan Farquhar disuruhnya ambl bangkai buaya itu digantungkannya di pohon jawi-jawi yang di tepi Sungai Beras Basah itu, adanya*.8
 
-The crocodile was hemmed in by the obstruction and speared to death. It was 15 feet long. That was the first time that people realised there were crocodiles in Singapore. Colonel Farquhar ordered the crocodile’s carcass to be taken, and hung on a fig tree by the side of the Beras Basah River.9
+The crocodile was hemmed in by the obstruction and speared to death. It was 15 feet long. That was the first time that people realised there were crocodiles in Singapore. Colonel Farquhar ordered the crocodile’s carcass to be taken, and hung on a fig tree by the side of the Beras Bas
+ah River.9
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Mazelan_Anuar.png">
+<center><b>Mazelan Anuar</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
+
+
