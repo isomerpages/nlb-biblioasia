@@ -82,5 +82,3 @@ Hassan Ahmad, ed., _[Hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.
 [^8]: Ahmad, _[Hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12573473)_, 173.
 
 [^9]: Hill, _[Autobiography of Abdullah bin Abdul Kadir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4437767)_, 168.
-
-
