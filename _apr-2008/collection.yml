@@ -2,6 +2,7 @@ collections:
   apr-2008:
     output: true
     order:
+      - Excerpts from Hikayat Abdullah.md
       - "Conceptualizing the Chinese World: Jinan University, Lee Kong Chian,
         and the Nanyang Connection.md"
       - Director's Column.md
