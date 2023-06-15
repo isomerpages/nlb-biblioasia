@@ -40,12 +40,3 @@ There was also an incident of Farquhar’s dog being attacked and eaten by a cro
 *Setelah sudah, maka buaya itu pun terkepunglah lalu ditikam orang sampai mati, ada tiga depa panjangnya. Maka baharulah diketahui orang ada buaya di Singapura. Maka oleh Tuan Farquhar disuruhnya ambl bangkai buaya itu digantungkannya di pohon jawi-jawi yang di tepi Sungai Beras Basah itu, adanya*.8
 
 The crocodile was hemmed in by the obstruction and speared to death. It was 15 feet long. That was the first time that people realised there were crocodiles in Singapore. Colonel Farquhar ordered the crocodile’s carcass to be taken, and hung on a fig tree by the side of the Beras Basah River.9
-
-
-
-
-
-
-
-
-
