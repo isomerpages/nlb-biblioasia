@@ -88,4 +88,143 @@ While the inaugural version of the Singapore Jinan Alumni Association survived f
 In recent decades, approaches to the issues of Chinese identity and the global role of China have tended to emphasize either economic or cultural linkages between China and Chinese communities in other countries.[^65] Yet such notions as “Greater China” and “Cultural China” have presented an imbalanced interpretation of the Chinese world because they have overemphasized the mainland’s importance. My article has furnished a new perspective through an analysis of the trans-regional experiences of Jinan intellectuals and students like Lee Kong Chian. I have thus offered a more holistic conceptualization of the Chinese world, one which has hitherto been absent from the historiographies of modern China and Chinese migration.
 
 <div>
-<center> <b>Leander Seah</b><br>Lee Kong Chian Research Fellow<br> National Library</center> </div>
+<center> <b>Leander Seah</b><br>Lee Kong Chian Research Fellow<br> National 
+Library</center> </div>
+
+#### **NOTES**
+
+[^1]: Leander Seah, “Conceptualizing the Chinese World: Jinan University, Nanyang Migrants, and Trans-Regionalism, 1900–1941” (PhD diss., University of Pennsylvania, 2011), https://repository.upenn.edu/dissertations/AAI3462170/.
+
+[^2]: I have excluded Chinese works on education from this overview of the historiography on modern China because they lack analysis: Marianne Bastid, _Educational Reform in Early Twentieth Century China_, trans. Paul J. Bailey (Ann Arbor: Center for Chinese Studies, The University of Michigan, 1988), xvi.
+
+[^3]: Three notable exceptions have been: Yeh Wen-Hsin, [_The Alienated Academy: Culture and Politics in Republican China, 1919–1937_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5482537) (Cambridge, Mass.: The Harvard University Asia Center, 1990) (Call no. RCLOS 378.51 YEH); Ruth Hayhoe, [_China’s Universities, 1895–1995: A Century of Cultural Conflict_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7604373) (New York: Garland Publishing, 1996) (Call no. RUR 378.510904 HAY); Thomas D. Curran, _Educational Reform in Republican China: The Failure of Educators to Create a Modern Nation_ (Lewiston, New York: The Edwin Mellen Press, 2005)
+
+[^4]: For further analysis of post-1970s scholarship on modern China, refer to: Hans van de Ven, “Recent Studies of Modern Chinese History,” _Modern Asian Studies_ 30, no. 2 (May 1996), 226. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^5]: Wang Gungwu, “Maritime China in Transition,” in _Maritime China in Transition 1750–1850_, ed. Wang Gungwu and Ng Chin-keong (Wiesbaden: Harrassowitz Verlag, 2004), 4.
+
+[^6]: Ien Ang, _On Not Speaking Chinese: Living Between Asia and the West_ (London: Routledge, 2001). For a discussion of the theoretical implications of the term, “diaspora,” see Kim D. Butler, “Defining Diaspora, Refining a Discourse,” _Diaspora: A Journal of Transnational Studies_ 10, no. 2 (Fall 2001), 189–219.
+
+[^7]: Adam McKeown, _Chinese Migrant Networks and Cultural Change: Peru, Chicago, Hawaii, 1900–1936_ (Chicago: The University of Chicago Press, 2001), 84–85.
+
+[^8]: Wang Gungwu, [_China and the Chinese Overseas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5810044) (Singapore: Times Academic Press, 1991) (Call no. RSING 327.51059 WAN); Wang Gungwu, “A Single Chinese Diaspora?” in [_Diasporic Chinese Ventures: The Life and Work of Wang Gungwu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11952442), ed. Gregor Benton and Hong Liu (London: RoutledgeCurzon, 2004), 157. (Call no. R 950.049510092 DIA)
+
+[^9]: Lynn Pan, ed., [_The Encyclopedia of the Chinese Overseas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9237625) (Singapore: Published for the Chinese Heritage Centre by Archipelago Press and Landmark Books, 1998), 14–15. (Call no. RSING 304.80951 ENC)
+
+[^10]: Zhu Guohong has rightly highlighted the localized focus of the extant scholarship, but his solution is still Sino-centric since it is based on understanding migrant activity as emigration from China. Refer to Zhu Guohong 朱国宏著, _Zhongguo de haiwai yimin: yixiang guoji qianyi de lishi yanjiu_ [中国的海外移民: 一项国际迁移的历史研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9761734) \[Chinese emigration: A historical study of the international migration\] (Shanghai 上海: Fudan Daxue Chubanshe 复旦大学出版社, 1994), 5. (Call no. Chinese RCO 909.04951 ZGH)
+
+[^11]: Wang Gungwu, [_Don’t Leave Home: Migration and the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10413089) (Singapore: Times Academic Press, 2001), 291, 293. (Call no. RSING 304.80951 WAN)
+
+[^12]: For example, enrolment at Jinan Academy (Jinan Xuetang), the school’s earliest incarnation, peaked at 240 in 1911: Jinan Daxue Xiaoshi Bianxiezu, Jinan xiaoshi 1906–1996 校史 1906–1996 (Guangzhou: Jinan Daxue Chubanshe, 1996), 5–7.
+
+[^13]: I have previously examined the origins of the name, “Nanyang,” and the region’s geographical boundaries: Leander Seah, [_Historicizing Hybridity and Globalization: The South Seas Society in Singapore, 1940–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874912) (\[n.p.\], 2007) (Call no. RSING 305.895105957 SEA); Refer also to Leander Seah, “Hybridity, Globalization, and the Creation of a Nanyang Identity: The South Seas Society in Singapore, 1940–1958,” _Journal of the South Seas Society_ (_Nanyang xuebao_) 61 (December 2007), 134–51.
+
+[^14]: Wang Gungwu, [_Community and Nation: China, Southeast Asia and Australia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6432608) (St Leonards: Asian Studies Association of Australia in association with Allen &amp; Unwin, 1992), 29. (Call no. RSING 305.8951059 WAN)
+
+[^15]: See Table 3 in Adam McKeown, “Global Chinese Migration, 1840–1940” (paper delivered at ISSCO V: the 5th Conference for the International Society for the Study of the Chinese Overseas, Elsinore (Helsingor), Denmark, 10–14 May 2004), 5.
+
+[^16]:  _Jinan Daxue Xiaoshi Bianxiezu, Jinan xiaoshi 1906–1996_, 4; “Muxiao xiaoshi” 母校校 母校校史, in _Jinan xiaoshi, 1906–1949: Ziliao xuanji_ 暨南校史, 1906–1949 \[Selected source material on history of Jinan University, 1906–1949\], vol. 1, ed. Jinan Daxue Huaqiao Yanjiusuo (Institute of Overseas Chinese Studies, Jinan University) (Guangzhou: Jinan Daxue Huaqiao Yanjiusuo, 1983), 3.
+
+[^17]: Bastid, _Educational Reform_, 241; See also Hiromu Momose’s biography in Arthur W. Hummel, ed., [_Eminent Chinese of the Ch’ing Period (1644–1912)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4154087), vol. 2 (Washington, D.C.: United States Government Printing Office, 1944), 781 (Call no. RCLOS 920.051 EMI); Wu Zixiu 吴子修, _Xinhai xunnanji_ 新海寻南记 \[Xinhai Searching for the South\] (\[n.p.:1916), 514–16.
+
+[^18]: The economic dimension has been thoroughly analyzed in Yen Ching-Hwang’s book, [_Coolies and Mandarins: China’s Protection of Overseas Chinese during the Late Ch’ing Period (1851–1911)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080239) (Singapore: Singapore University Press, 1985). (Call no. RSING 325.2510959 YEN)
+
+[^19]: Zhou Xiao 周孝, Jinan yishi 逸逸史 (Guangzhou: Jinan Daxue Chubanshe, 1996), 2. Zhou’s book is possibly the only work published by Jinan University Press that has not downplayed this important fact.
+
+[^20]: For instance, Wee Tong Bao has examined the case of Singapore in her dissertation: “The Development of Modern Chinese Vernacular Education in Singapore – Society, Politics &amp; Policies, 1905–1941” (master’s theses, National University of Singapore, 2001), 1, 14.
+
+[^21]: Note that I have spelt “Oversea” according to the official name. For references, see, for example, “Reliving Lee Kong Chian,” AlumNUS 17 (March 1994), extracted from National University of Singapore Central Library Reference Office Personality Files Collection. Known as the “rubber king” during the 1950s, Lee was so respected that he even lectured on Southeast Asia at the Naval School of Military Government and Administration (based at Columbia University in New York City) at the invitation of law professor Philip C. Jessup. Lee had been stranded there while attending a rubber conference during the Pacific War: [Tan Kok Kheng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/286dd683-1160-11e3-83d5-0050568939ad), oral history interview by Lim How Seng, 24 September 1983, transcript and MP3 audio: 27:31 (National Archives of Singapore, accession no. 000232); Schuyler C. Wallace, “The Naval School of Military Government and Administration,” _Annals of the American Academy of Political and Social Science_ 231 (January 1944), 29–33 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Chia Poteik, “[Lee Kong Chian: Pay-Off for Perseverance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620613-1.2.78),” _Straits Times_, 13 June 1962, 10. (From NewspaperSG)
+
+[^22]: Lee had fond memories of his brief stay at Tao Nan. Indeed, his wedding ceremony was held there.
+
+[^23]: _Jinan Xuetang xianxing zhangcheng_ 暨南學堂現行章程 \[The current constitution of Jinan Academy\] (Nanjing: Jinan Xuetang, c. 1911), 13.
+
+[^24]: Selected sources on Lee Kong Chian: Zhou Xiaozhong, Jinan yishi, 11–12; [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df1b6c28-115d-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 28 May 1981, transcript and MP3 audio: 27:32 (From National Archives of Singapore, accession no. 000003); Poteik, “[Pay-Off for Perseverance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620613-1.2.78)”; “Li Guangqian boshi” in _Xing ma renwu zhi_ [星马人物志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13053178) \[Who’s Who in South East Asia\], vol. 1 ed. Song Zhemei 宋哲美 (Xianggang 香港: Dongnan Ya yan jiu suo 东南亚研究所, 1969), 23–50 (Call no. Chinese RSING 920.0595 WHO); Zheng Bingshan, Li Guangqian zhuan (Beijing: Zhongguo Huaqiao Chubanshe, 1996), 17–20, 223–24; Quek Soo Ngoh, [_Lee Kong Chian: Contributions to Education in Singapore 1945–1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202691420) (Singapore: National University of Singapore, 1986), 15–17 (Call no. RSING 370.95957 QUE); Chen Weilong , “Laotongxue jianjie,” in _Jinan Xiaoyouhui xinhuisuo luocheng ji Xinjiapo kaibu yibai wushi zhounian jinian tekan_ \[Souvenir publication on inauguration of new premises of the Chi-nan Alumni Association and 150th anniversary of the founding of Singapore) (Singapore: Jinan Xiaoyouhui, 1970), 37. Some of these sources furnish incorrect details. For example, Lee studied and taught at Yeung Ching School, and not “Yeung Chia” “Chung Cheng” or “Chongzheng” 崇崇正 Schools.
+
+[^25]: Refer to the sources in the previous endnote.
+
+[^26]: The first intake from Singapore was part of the fifth overall cohort (54 students) from the Nanyang. Refer to [Lim Pang Gan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/34f5e0b4-1160-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat, 10 May 1980, transcript and MP3 audio: 31:33 (From National Archives of Singapore, accession no. 000036); “Jinan biannian dashiji” &nbsp;Jinan jiaoyu 5 (December 1987), 82.
+
+[^27]: Zhou Xiaozhong, Jinan yishi, 15–17; [Lim Pang Gan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/34f5e0b4-1160-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat; [Lim Pang Gan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df2243b2-115d-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat, 10 May 1980, transcript and MP3 audio: 31:38 (From National Archives of Singapore, accession no. 000036); [Lim Pang Gan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e23ebc42-115d-11e3-83d5-0050568939ad), oral history interview by Chua Ser Koon, 20 October 1982, transcript and MP3 audio: 27:45 (From National Archives of Singapore, accession no. 000227); [Lim Pang Gan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e23f9d82-115d-11e3-83d5-0050568939ad), oral history interview by Chua Ser Koon, 20 October 1982, transcript and MP3 audio: 16:41 (From National Archives of Singapore, accession no. 000227); Xing Zhizhong , “‘Gancao laoren’ lao shezhang Lin Bangyan xiansheng” in Tongde Shubaoshe jiushi zhounian jinian tekan, ed. Tongde Shubaoshe Jiushi Zhounian Jinian Tekan Weiyuanhui (Singapore: Tongde Shubaoshe, 2000), 60–62; “He Baoren boshi” in Xingma renwuzhi, vol. 2 (Hong Kong: Dongnanya Yanjiusuo, 1972), 113–14.
+
+[^28]: Tan was on very good terms with Lee Kong Chian, serving as the best man at Lee’s wedding in 1928.
+
+[^29]: [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df12a089-115d-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 27 December 1979, transcript and MP3 audio: 32:08 (From National Archives of Singapore, accession no. 000003); [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/26780a84-115f-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 27 December 1979, transcript and MP3 audio: 32:07 (From National Archives of Singapore, accession no. 000003); [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d82e5b38-115e-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 14 January 1980, transcript and MP3 audio: 31:05 (From National Archives of Singapore, accession no. 000003); [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df13b8c6-115d-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 14 January 1980, transcript and MP3 audio: 32:37 (From National Archives of Singapore, accession no. 000003); [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37fdc206-115f-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 28 May 1981, transcript and MP3 audio: 26:37 (From National Archives of Singapore, accession no. 000003); [Tan Ee Leong](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df1b6c28-115d-11e3-83d5-0050568939ad), oral history interview by Lim Poh Hoon, 28 May 1981, transcript and MP3 audio: 26:32 (From National Archives of Singapore, accession no. 000003); “Chen Weilong xiansheng” in _Xingma renwuzhi_, vol. 1 (Hong Kong: Dongnanya Yanjiusuo, 1969), 179–91; and Chen Weilong , _Dongnanya huayi wenren zhuanlue_ (Singapore: South Seas Society, 1977), vi. None of these sources, however, provide the correct dates for Tan’s second stint as the Secretary of the Chinese Chamber of Commerce, using the years “1958–1964” instead of “1960–1964”. I have therefore referred to the Chamber’s official record: Fangyan sihai: Xinjiapo Zhonghua Zongshanghui jiushi zhounian jinian tekan (Singapore: Singapore Chinese Chamber of Commerce &amp; Industry, 1996), 99.
+
+[^30]: Chen Weilong, “Qingmo Jinan huiyi zhier” in Jinan xiaoshi, 1906–1949: Ziliao xuanji, vol. 1, 98; ; [Lim Pang Gan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/34f5e0b4-1160-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat; [Koh Soh Goh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7a594a24-115f-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 24 October 1984, transcript and MP3 audio: 27:34 (From National Archives of Singapore, accession no. 000497); “[The Doctor Who Had a Shot at Art](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841030-1.2.77.2),” _Straits Times_, 30 October 1984, 1; “[Hakka Leader Dies After Illness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841025-1.2.28.13),” _Straits Times_, 25 October 1984, 13 (From NewspaperSG); and Mamoru Shinozaki, [_My Wartime Experiences in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081691) (Singapore: Institute of Southeast Asian Studies, 1973), 32–33, 79–80. (Call no. RSING 959.57023 SHI)
+
+[^31]: Chen Weilong, “Qingmo Jinan huiyi zhier” 99.
+
+[^32]: _Jinan Xuetang xianxing zhangcheng_.
+
+[^33]: Chen Weilong, “Qingmo Jinan huiyi zhier” 97, 102–3; Zheng Hongnian, “Guoli Jinan Daxue zhi baogao,” in _Huaqiao jiaoyu huiyi baogaoshu_ (\[n.p.\], May 1930), 19; Jinan Gaojiaoshi Ziliaozu, “Jinan biannian dashiji” &nbsp;Jinan jiaoyu 5 (December 1987), 81–82; “\[Jinan dili, Jinling\] Yuan Shikai danu: ‘Jinan doushi xie gemingdang,” (accessed 30 May 2007)
+
+[^34]: See, for example, Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution: With Special Reference to Singapore and Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=863880) (Kuala Lumpur: Oxford University Press, 1976), xviiixix, 90–91, 309. (Call no. RSING 301.451951095957 YEN)
+
+[^35]: “Jinan biannian dashiji,” 82.
+
+[^36]:  _Jinan nianjian 1929_ (Chinan Annual 1929) (Shanghai: Guoli Jinan Daxue, 1929), n.p
+
+[^37]: The Bureau was active, publishing various periodicals like Nanyang yanjiu 南洋研究研 and a monograph series. It also spearheaded the organization of academic conferences. One example was the large-scale 1929 Nanyang Huaqiao Jiaoyu Huiyi at Jinan, which featured 78 participants, of which 49 were from the Nanyang: “Jinan biannian dashiji,” 86.
+
+[^38]: Liu Hong, “Southeast Asian Studies in Greater China,” _Kyoto Review of Southeast Asia_ no. 3 (March 2003)
+
+[^39]: Shimizu Hajime, “Southeast Asia as a Regional Concept in Modern Japan,” in [_Locating Southeast Asia: Geographies of Knowledge and Politics of Space_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12258443), ed. Paul H. Kratoska, Remco Raben and Henk Schulte Nordholt (Singapore: Singapore University Press, 2005), 87–88. (Call no. RSING 959 LOC)
+
+[^40]: Mark R. Peattie, “Nanshin: The ‘Southward Advance,’ 1931–1941, as a Prelude to the Japanese Occupation of Southeast Asia,” in [_The Japanese Wartime Empire, 1931–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7597891), ed. Peter Duus, Ramon H. Myers, and Mark R. Peattie (Princeton, New Jersey: Princeton University Press, 1996), 198–99 (Call no. RSING 950.41 JAP); Hueiying Kuo, “Nationalism against its People? Chinese Business and Nationalist Activities in Inter-war Singapore, 1919–1941” (Southeast Asia Research Centre Working Paper Series no. 48, City University of Hong Kong, July 2003); J. Charles Schencking, “The Imperial Japanese Navy and the Constructed Consciousness of a South Seas Destiny, 1872–1921” _Modern Asian Studies_ 33, no. 4 (October 1999), 792 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Peattie indicates that the Nanyo Kyokai was founded in 1914, but Schencking states that this took place in January 1915. The actual date of establishment will be determined after further research and will be provided in my Ph.D. dissertation, Seah, “Conceptualizing the Chinese World.”
+
+[^41]: Peattie, “[Nanshin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7597891),” 190, 195–96, 212–13.
+
+[^42]: Jinan nianjian 1929; and Ma Xingzhong, “Jinan Daxue yu Xinjiapo,” in _Jinan Daxue bainian huadan, Xinjiapo Xiaoyouhui liushiwu zhounian_ (Singapore: Xinjiapo Jinan Xiaoyouhui Chuban Weiyuanhui, 2006), 30.
+
+[^43]: Xing Jizhong, “Fengxian manhuai aixin gongchuang meihao weilai,” in _Jinan Daxue bainian huadan, Xinjiapo Xiaoyouhui liushiwu zhounian_, 1.
+
+[^44]: While Sheng has stated that she retired in 1978, the school’s records indicate instead that this took place in 1977: [Sheng Peck Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3fcc0356-115e-11e3-83d5-0050568939ad), oral history interview with Ang Siew Ghim, 9 March 1995, transcript and MP3 audio: 30:49 (From National Archives of Singapore, accession no. 001608); [Sheng Peck Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fa26c39e-115e-11e3-83d5-0050568939ad), oral history interview with Ang Siew Ghim, 9 March 1995, transcript and MP3 audio: 31:05 (From National Archives of Singapore, accession no. 001608); [Sheng Peck Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/81b9646c-1160-11e3-83d5-0050568939ad), oral history interview with Ang Siew Ghim, 9 March 1995, transcript and MP3 audio: 31:08 (From National Archives of Singapore, accession no. 001608); [Sheng Peck Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/4b6f9761-115f-11e3-83d5-0050568939ad), oral history interview with Ang Siew Ghim, 9 March 1995, transcript and MP3 audio: 29:10 (From National Archives of Singapore, accession no. 001608); _Zhonghua Zhongxue chuangxiao bashi zhounian jinian tekan_ [中华中学创校八十周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84497620) \[Zhonghua Secondary School 80th Anniversary Souvenir Magazine, 1911–1991) (Singapore 新加坡: Zhonghua Zhongxue \[该校\], 1991), 41 (Call no. Chinese RCLOS 373.5957 ZHO). For additional biodata, see: Jinan Xiaoyouhui xinhuisuo luocheng ji Xinjiapo kaibu yibai wushi zhounian jinian tekan, 147.
+
+[^45]: For a discussion of Liu’s Nanyang style, refer for example to Alicia Yeo, “Singapore Art, Nanyang Style,” [_BiblioAsia_](https://biblioasia.nlb.gov.sg/files/pdf/vol-2/issue-1/v2-issue1_NanyangStyle.pdf) 2, no. 1 (April 2006), 4–11. I have also referred to numerous sources, including: [Liu Kang](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/292caea2-1160-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 9 April 1982, transcript and MP3 audio: 27:43 (From National Archives of Singapore, accession no. 000171); [Liu Kang](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2dbb153e-1160-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 9 April 1982, transcript and MP3 audio: 27:48 (From National Archives of Singapore, accession no. 000171); [Liu Kang](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ff7044bf-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 16 November 1982, transcript and MP3 audio: 27:47 (From National Archives of Singapore, accession no. 000171); [Liu Kang](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e08864e6-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 13 January 1983, transcript and MP3 audio: 27:49 (From National Archives of Singapore, accession no. 000171); “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930203-1.2.56.3.2),” _Straits Times_, 3 February 1993, 3; and “[Portrait of the Artist as an Old Man](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000331-1.2.116.10.1),” _Straits Times_, 31 March 2000, 102 (From NewspaperSG). Many sources provide incorrect dates for Liu Kang’s stay at the Shanghai College of Fine Arts because they do not take into account his studies at Jinan. The dates for his enrolment at Jinan can be found in: Jinan Xiaoyouhui xinhuisuo luocheng ji Xinjiapo kaibu yibai wushi zhounian jinian tekan, 149.
+
+[^46]: Zhang Xiaohui, ed., _Bainian Jinan shi 1906–2006_ (Guangzhou: Jinan Daxue Chubanshe, 2006), 91.
+
+[^47]: Wang, [_China and the Chinese Overseas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5810044), 34.
+
+[^48]: See the inaugural annual report, _Journal of the South Seas Society_ 1, no. 1 (June 1940), 95 of the Chinese section.
+
+[^49]: Gwee Yee Hean, “South Seas Society: Past, Present and Future” _Journal of the South Seas Societ_y 33 (1978), 32.
+
+[^50]: For further details, refer to Seah, “Hybridity, Globalization, and the Creation of a Nanyang Identity.”
+
+[^51]: _Jinan xiaoshi 1906–1996_, 38 and Table 7 on 325.
+
+[^52]: For Liu’s biographical details, see _Journal of the South Seas Societ_y 8, no. 2 (December 1952), especially 1–13 of the Chinese section; and Yao Nan 姚楠姚楠, Nantian yumo (Shenyang: Liaoning Daxue Chubanshe, 1995), 39. Concerning Li’s hometown, sources differ: it was either Dantu 丹徒 or Zhenjiang see Bianji suoyu,” _Journal of the South Seas Society_ 1, no. 2 (December 1940), 3 of the Chinese section; Yao Nan, Nantian yumo, 39; and Chen Daiguang , “Li Changfu xiansheng zhuanlue” , in Li Changfu , Nanyang shidi yu huaqiao huaren yanjiu (Guangzhou: Jinan Daxue Chubanshe, 2001), 1–2.
+
+53\. “Yidai caizi Nantian Jiulou qi ‘hui’: Nanyang Xuehui 54 nian,” _Lianhe zaobao_, 10 April 1994; Yao Nan, _Nantian yumo_, 39–40; Yao Nan, _Xingyunyeyuji_ (Singapore: Singapore News &amp; Publications Ltd. \[Book Publications Dept.\], 1984), 2.
+
+54\. 1940 annual report, _Journal of the South Seas Societ_y 1, no. 1 (June 1940), 95 of the Chinese section; and the “Fakan zhiqu” (Foreword) in the same _Journal of the South Seas Society_ nos. 1–2 of the Chinese section.
+
+55\. For post-war activities, refer to Seah, “Historicizing Hybridity and Globalization.”
+
+56\. Lee was a South Seas Society member from 1946 till his death in 1967, and was also a founding member of the Singapore Jinan Alumni Association.
+
+57\. Straits Settlements Government Gazette 76, no. 55 (2 May 1941), 933.
+
+58\. He Baoren , and Lin Bangyan , “Jinan Xiaoyouhui chuangli shimoji” , in Jinan Xiaoyouhui xinhuisuo luocheng ji Xinjiapo kaibu yibai wushi zhounian jinian tekan, 89; Xing Jizhong, “Fengxian manhuai aixin gongchuang meihao weilai,” 1; and Ma Xingzhong, “Jinan Daxue yu Xinjiapo,” 30-32.
+
+59\. Straits Settlements Government Gazette, 933. &nbsp;
+
+60\. Interviews conducted in Mandarin with Xing Jizhong on 25 June 2007 and 16 August 2007. Also known by his penname, “Xing Zhizhong” 邢致邢致 , Xing is a famous writer in Singapore who was born in China and who studied at Jinan University from 1943 to 1947. At the time of my interviews with him, he had just relinquished his position as the head of the Singapore Jinan Alumni Association after five years of leadership. He joined the organization in 1982 as its Assistant Secretary, was the Secretary from 1984 to 2002, and became the head in 2002. He is possibly the Association’s most senior surviving member.
+
+61\. Refer to the sources in endnote 58.
+
+62\. See endnote 60.
+
+63\. The founding members have also passed away and are therefore not available for interviews. Oral interviews which were recorded before their demise do not contain information on this issue.
+
+64\. See endnote 60.
+
+65\. Wang, [_Don’t Leave Home_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10413089), 91;
+
+Wang Gungwu, Don’t Leave Home: Migration and the Chinese, 91; and Tu Wei-Ming, ed., “Cultural China: The Periphery as the Center,” in [_The Living Tree: The Changing Meaning of Being Chinese Today_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6895787) (Stanford: Stanford University Press, 1994), 1–34. (Call no. RSING 306 LIV)
+
+
+
+
