@@ -126,4 +126,8 @@ _The Gulf: Future Security and British Policy_ (Abu Dhabi: Reading: Emirates Cen
 
 [^18]: Hopkirk, “[Rise and Fall of the Silk Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3045726),” 28.
 
-[^19]: L. W. C. van den Berg, _[Le Ḥadhramout Et Les Colonies Arabes Dans L’archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia: Imprimerie du Gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)</a>
+[^19]: L. W. C. van den Berg, _[Le Ḥadhramout Et Les Colonies Arabes Dans L’archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia: Imprimerie du Gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)
+
+
+
+</a>
