@@ -197,34 +197,28 @@ Library</center> </div>
 
 [^52]: For Liu’s biographical details, see _Journal of the South Seas Societ_y 8, no. 2 (December 1952), especially 1–13 of the Chinese section; and Yao Nan 姚楠姚楠, Nantian yumo (Shenyang: Liaoning Daxue Chubanshe, 1995), 39. Concerning Li’s hometown, sources differ: it was either Dantu 丹徒 or Zhenjiang see Bianji suoyu,” _Journal of the South Seas Society_ 1, no. 2 (December 1940), 3 of the Chinese section; Yao Nan, Nantian yumo, 39; and Chen Daiguang , “Li Changfu xiansheng zhuanlue” , in Li Changfu , Nanyang shidi yu huaqiao huaren yanjiu (Guangzhou: Jinan Daxue Chubanshe, 2001), 1–2.
 
-53\. “Yidai caizi Nantian Jiulou qi ‘hui’: Nanyang Xuehui 54 nian,” _Lianhe zaobao_, 10 April 1994; Yao Nan, _Nantian yumo_, 39–40; Yao Nan, _Xingyunyeyuji_ (Singapore: Singapore News &amp; Publications Ltd. \[Book Publications Dept.\], 1984), 2.
+[^53]: “Yidai caizi Nantian Jiulou qi ‘hui’: Nanyang Xuehui 54 nian,” _Lianhe zaobao_, 10 April 1994; Yao Nan, _Nantian yumo_, 39–40; Yao Nan, _Xingyunyeyuji_ (Singapore: Singapore News &amp; Publications Ltd. \[Book Publications Dept.\], 1984), 2.
 
-54\. 1940 annual report, _Journal of the South Seas Societ_y 1, no. 1 (June 1940), 95 of the Chinese section; and the “Fakan zhiqu” (Foreword) in the same _Journal of the South Seas Society_ nos. 1–2 of the Chinese section.
+[^54]: 1940 annual report, _Journal of the South Seas Societ_y 1, no. 1 (June 1940), 95 of the Chinese section; and the “Fakan zhiqu” (Foreword) in the same _Journal of the South Seas Society_ nos. 1–2 of the Chinese section.
 
-55\. For post-war activities, refer to Seah, “Historicizing Hybridity and Globalization.”
+[^55]: For post-war activities, refer to Seah, “Historicizing Hybridity and Globalization.”
 
-56\. Lee was a South Seas Society member from 1946 till his death in 1967, and was also a founding member of the Singapore Jinan Alumni Association.
+[^56]: Lee was a South Seas Society member from 1946 till his death in 1967, and was also a founding member of the Singapore Jinan Alumni Association.
 
-57\. Straits Settlements Government Gazette 76, no. 55 (2 May 1941), 933.
+[^57]: Straits Settlements Government Gazette 76, no. 55 (2 May 1941), 933.
 
-58\. He Baoren , and Lin Bangyan , “Jinan Xiaoyouhui chuangli shimoji” , in Jinan Xiaoyouhui xinhuisuo luocheng ji Xinjiapo kaibu yibai wushi zhounian jinian tekan, 89; Xing Jizhong, “Fengxian manhuai aixin gongchuang meihao weilai,” 1; and Ma Xingzhong, “Jinan Daxue yu Xinjiapo,” 30-32.
+[^58]: He Baoren , and Lin Bangyan , “Jinan Xiaoyouhui chuangli shimoji” , in Jinan Xiaoyouhui xinhuisuo luocheng ji Xinjiapo kaibu yibai wushi zhounian jinian tekan, 89; Xing Jizhong, “Fengxian manhuai aixin gongchuang meihao weilai,” 1; and Ma Xingzhong, “Jinan Daxue yu Xinjiapo,” 30-32.
 
-59\. Straits Settlements Government Gazette, 933. &nbsp;
+[^59]: Straits Settlements Government Gazette, 933. &nbsp;
 
-60\. Interviews conducted in Mandarin with Xing Jizhong on 25 June 2007 and 16 August 2007. Also known by his penname, “Xing Zhizhong” 邢致邢致 , Xing is a famous writer in Singapore who was born in China and who studied at Jinan University from 1943 to 1947. At the time of my interviews with him, he had just relinquished his position as the head of the Singapore Jinan Alumni Association after five years of leadership. He joined the organization in 1982 as its Assistant Secretary, was the Secretary from 1984 to 2002, and became the head in 2002. He is possibly the Association’s most senior surviving member.
+[^60]: Interviews conducted in Mandarin with Xing Jizhong on 25 June 2007 and 16 August 2007. Also known by his penname, “Xing Zhizhong” 邢致邢致 , Xing is a famous writer in Singapore who was born in China and who studied at Jinan University from 1943 to 1947. At the time of my interviews with him, he had just relinquished his position as the head of the Singapore Jinan Alumni Association after five years of leadership. He joined the organization in 1982 as its Assistant Secretary, was the Secretary from 1984 to 2002, and became the head in 2002. He is possibly the Association’s most senior surviving member.
 
-61\. Refer to the sources in endnote 58.
+[^61]: Refer to the sources in endnote 58.
 
-62\. See endnote 60.
+[^62]: See endnote 60.
 
-63\. The founding members have also passed away and are therefore not available for interviews. Oral interviews which were recorded before their demise do not contain information on this issue.
+[^63]: The founding members have also passed away and are therefore not available for interviews. Oral interviews which were recorded before their demise do not contain information on this issue.
 
-64\. See endnote 60.
+[^64]: See endnote 60.
 
-65\. Wang, [_Don’t Leave Home_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10413089), 91;
-
-Wang Gungwu, Don’t Leave Home: Migration and the Chinese, 91; and Tu Wei-Ming, ed., “Cultural China: The Periphery as the Center,” in [_The Living Tree: The Changing Meaning of Being Chinese Today_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6895787) (Stanford: Stanford University Press, 1994), 1–34. (Call no. RSING 306 LIV)
-
-
-
-
+[^65]: Wang, [_Don’t Leave Home_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10413089), 91; Tu Wei-Ming, ed., “Cultural China: The Periphery as the Center,” in [_The Living Tree: The Changing Meaning of Being Chinese Today_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6895787) (Stanford: Stanford University Press, 1994), 1–34. (Call no. RSING 306 LIV)
