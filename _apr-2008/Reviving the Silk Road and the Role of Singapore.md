@@ -39,7 +39,7 @@ Today the name Singapore is synonymous with sophisticated infrastructures, clean
 
 **TABLE 1: WORLD’S EASIEST PLACE TO DO BUSINESS**
 
-<img src="images/Vol%204%20Issue%201/Silk%20Road/easiestplace1.jpg" style="width:80%;">
+<img src="/images/Vol%204%20Issue%201/Silk%20Road/easiestplace1.jpg" style="width:80%;">
  <div style="background-color: white;"><i>Source: World Bank report: Doing Business 2007: How to Reform Retrieved from <a href="http://www.edb.gov.sg/edb/sg/en_uk/index/why_ singapore/singapore_rankings.html">http://www.edb.gov.sg/edb/sg/en_uk/index/why_ singapore/singapore_rankings.html</a><a></a></i></div><a>
 
 Singapore has been strong in industries such as oil refining, ship repairing and electronic. Recently the country is also moving towards non-electronic industries such as the bio-chemicals and finance.[^10] A good indication of the country’s economic power is the consistent surplus of exports over imports as indicated in Table 2.[^11]
