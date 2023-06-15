@@ -88,6 +88,9 @@ While the inaugural version of the Singapore Jinan Alumni Association survived f
 
 In recent decades, approaches to the issues of Chinese identity and the global role of China have tended to emphasize either economic or cultural linkages between China and Chinese communities in other countries.65 Yet such notions as “Greater China” and “Cultural China” have presented an imbalanced interpretation of the Chinese world because they have overemphasized the mainland’s importance. My article has furnished a new perspective through an analysis of the trans-regional experiences of Jinan intellectuals and students like Lee Kong Chian. I have thus offered a more holistic conceptualization of the Chinese world, one which has hitherto been absent from the historiographies of modern China and Chinese migration.
 
+<div>
+<center> <b>Leander Seah</b><br>Lee Kong Chian Research Fellow<br> National Library</center> </div>
+
 
 
 
