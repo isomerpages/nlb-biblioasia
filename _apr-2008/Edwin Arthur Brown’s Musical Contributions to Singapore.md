@@ -6,3 +6,8 @@ description: Sheds light on Edwin Arthur Brown’s significant contributions to
   20th century. He was also a long-time municipal commissioner and a member of
   the Singapore Volunteer Corps.
 ---
+#### Sheds light on Edwin Arthur Brown’s significant contributions to amateur theatricals and musical scenes in Singapore in the first half of the 20th century. He was also a long-time municipal commissioner and a member of the Singapore Volunteer Corps.
+
+
+
+
