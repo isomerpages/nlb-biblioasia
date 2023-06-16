@@ -2,6 +2,8 @@ collections:
   podcast:
     output: true
     order:
+      - "My Grandfather Was a Rōmusha/Transcript: My Grandfather Was a
+        Rōmusha.md"
       - My Grandfather Was a Rōmusha/My Grandfather Was a Rōmusha.md
       - My Grandfather Was a Rōmusha/.keep
       - BiblioAsia.md
