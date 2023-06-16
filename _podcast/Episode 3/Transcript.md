@@ -42,25 +42,25 @@ Jimmy    <br>
 Can you describe it a little bit to us?
 
 Dahlia  <br>
-There were dances depicted in the mural. So you had a couple [doing a] Chinese dance in a Chinese wayang costume, and you had Indian dancers. There was another couple [doing] the Malay dance. But this wasn't the traditional or the less... or the more well-known Malay dance. My father decided to pick mak yong dancers because his elder sister and her husband had moved to Kelantan after the war, and I think he decided to pick the mak yong dancers from Kelantan as a connection with his sister. And the fourth dancer was a Sarawak dancer. I asked my father, Why? Why did you pick Sarawak? And he said that Sarawak was part of Malaysia. At that time, people were talking about Singapore, Malaysians, about being part of Malaysia. That's why he depicted that.
+There were dances depicted in the mural. So you had a couple [doing a] Chinese dance in a Chinese wayang costume, and you had Indian dancers. There was another couple [doing] the Malay dance. But this wasn't the traditional or the more well-known Malay dance. My father decided to pick Mak Yong dancers because his elder sister and her husband had moved to Kelantan after the war, and I think he decided to pick the mak yong dancers from Kelantan as a connection with his sister. And the fourth dancer was a Sarawak dancer. I asked my father why. Why did you pick Sarawak? And he said that Sarawak was part of Malaysia. At that time, people were talking about Singapore, Malaysians, about being part of Malaysia. That's why he depicted that.
 
-Jimmy     <br>
+Jimmy <br>
 Your father submitted two. 
 
-Dahlia   <br>
+Dahlia <br>
 Yes. 
 
-Jimmy    <br>
+Jimmy  <br>
 Tell us about the one that wasn't picked.
 
-Dahlia    <br>
+Dahlia  <br>
 The other one had a very fascinating title called "Some Fascinating Eating Manners of Singaporeans". I asked my father what the design was. He can't remember it, but the design was returned to him.
 
 Jimmy    <br>
 Sadly lost. I was reading your article, and it says that your father's mural was particularly hard to execute. Because of iron strips, it wasn't a straightforward mosaic. Can you tell us a little bit about it?
 
 Dahlia    <br>
-The iron strips – or grilles, as my father calls them – were made in Singapore. The tiles were from Italy. Bill had gone to Italy to choose the colours and the tiles. They were all shipped to Singapore. Once they were shipped to Singapore, it was easy for the workers to just paste them on... affix them onto the wall. But my father's was an added one. Because the tiles were the background and the figures were in iron, so it had to be made in Singapore. So that was the added one. And because, you know, there are a lot of curls and you had the figures, flowing robes, costumes of the dances. There was actually a lot of work. My father said that he went to where the workers did it; it wasn't done in Paya Lebar itself. One of the workers told him, "Wah! Lu punya banyak susah!" ["Wah! Your (design) is so difficult!"], because of all that turning and twisting.
+The iron strips – or grilles, as my father calls them – were made in Singapore. The tiles were from Italy. Bill had gone to Italy to choose the colours and the tiles. They were all shipped to Singapore. Once they were shipped to Singapore, it was easy for the workers to just affix them onto the wall. But my father's was an added one. Because the tiles were the background and the figures were in iron, so it had to be made in Singapore. So that was the added one. And because, you know, there are a lot of curls and you had the figures, flowing robes, costumes of the dances. There was actually a lot of work. My father said that he went to where the workers did it; it wasn't done in Paya Lebar itself. One of the workers told him, "Wah! Lu punya banyak susah!" ["Wah! Your (design) is so difficult!"], because of all that turning and twisting.
 
 Jimmy   <br>
 Do you remember what your first impression of the mural was when you went to the airport? Did you go to the airport and your father said, I did that?
@@ -72,7 +72,7 @@ Jimmy    <br>
 That's so tragic. So after Paya Lebar Airport became Paya Lebar Airbase, nobody could go in anymore, right? It gets turned into this military installation. And that was around 1981. There's a bit of a story about how you got permission to go to Paya Lebar Airbase to hunt down the murals.
 
 Dahlia   <br>
-I told several friends about it. And they said... Then we all decided that maybe I should ask MINDEF [Ministry of Defence] what happened to it. I emailed them in 2009, and I only got permission in 2010. Only my father and I could see it. We had quite a number of friends who wanted to see it, and they said, no, you can't. Just my father and I. We left our handphones with the guard. We were met by the PR person, a young lady, and an NS man, a private in the air force, and we walked over to the building. Everything in sight was actually boarded up. There were lots of cubicles. 
+I told several friends about it. Then we all decided that maybe I should ask MINDEF [Ministry of Defence] what happened to it. I emailed them in 2009, and I only got permission in 2010. Only my father and I could see it. We had quite a number of friends who wanted to see it, and they said, no, you can't. Just my father and I. We left our handphones with the guard. We were met by the PR person, a young lady, and an NS man, a private in the air force, and we walked over to the building. Everything in sight was actually boarded up. There were lots of cubicles. 
 
 Jimmy    <br>
 So the whole space had been partitioned. 
@@ -90,13 +90,13 @@ Jimmy    <br>
 So when you went, could you even find your father's mural?
 
 Dahlia    <br>
-No, I managed to get the souvenir programme that was published in 1964. There were two pages where they showed a plan of the building. So we could count... There were pillars... They indicated pillars. So basically we were counting pillars. While we were walking there, there were some air force people who joined us, and they were very helpful. They said, Okay, let's go here. And then one of the men said, "Ah, I think there is a mural." And I said, "Where?" They went to the site, and then they pulled the board. They said, See. No, no, it's not. It was something else. I was looking up because I remember from the photographs I've seen in the NAS [National Archives of Singapore] collection, that there were phone booths. And my father's mural was above the phones, but going around, where are the phone booths? I thought I saw something that looked like booths, but they were all used as something else. So you can't really... We went around searching, so we had a small entourage following us. And we couldn't find it. We walked up to Bill's mural, had a close look. We could see that the mosaic tiles were not like the usual flooring mosaic tiles. They were very pretty. Some of them were millefiori tiles, some of them had shimmer, a bit of a glitter. So they were not just flat, plain tiles. They were very nice.
+No, I managed to get the souvenir programme that was published in 1964. There were two pages where they showed a plan of the building. There were pillars. So basically we were counting pillars. While we were walking there, there were some air force people who joined us, and they were very helpful. They said, Okay, let's go here. And then one of the men said, "Ah, I think there is a mural." And I said, "Where?" They went to the site, and then they pulled the board. They said, See. No, no, it's not. It was something else. I was looking up because I remember from the photographs I've seen in the NAS [National Archives of Singapore] collection, that there were phone booths. And my father's mural was above the phones, but going around, where are the phone booths? I thought I saw something that looked like booths, but they were all used as something else. So you can't really. We went around searching, so we had a small entourage following us. And we couldn't find it. We walked up to Bill's mural, had a close look. We could see that the mosaic tiles were not like the usual flooring mosaic tiles. They were very pretty. Some of them were millefiori tiles, some of them had shimmer, a bit of a glitter. So they were not just flat, plain tiles. They were very nice.
 
 Jimmy    <br>
 So that was a bit of a wasted journey. But subsequently you found out that there's a reason you couldn't find your father's mural.
 
 Dahlia    <br>
-While we were there, at the end of the tour, the PR [officer] said that they were moving over to a new building. And once they have taken everything done, then they would be able to find out where the two murals were located. At that time, we didn't know that the murals were destroyed, we assumed that they were whole. So I said, Okay. They would inform us, but I think they were very busy and everything, so nobody informed us. So until 2012, when Bill was in Singapore... I invited him to attend an exhibition. We were informed by somebody who saw the murals that two of the murals were destroyed. The only one remaining was the "Skyline of Singapore", because it was up there. I asked, how was it? What was left? My father's mural... The figures were torn out. While Bill's one, the bottom half was gone.
+While we were there, at the end of the tour, the PR [officer] said that they were moving over to a new building. And once they have taken everything done, then they would be able to find out where the two murals were located. At that time, we didn't know that the murals were destroyed, we assumed that they were whole. So I said, Okay. They would inform us, but I think they were very busy and everything, so nobody informed us. So until 2012, when Bill was in Singapore, I invited him to attend an exhibition. We were informed by somebody who saw the murals that two of the murals were destroyed. The only one remaining was the "Skyline of Singapore", because it was up there. I asked, "How was it? What was left?" In my father's mural, the figures were torn out, while in Bill's one, the bottom half was gone.
 
 Jimmy    <br>
 Oh, how did your father feel when you told him this?
@@ -111,7 +111,7 @@ Dahlia    <br>
 When I wrote the article, I asked my father, What's your wish? And he said that he wanted it recreated.
 
 Jimmy    <br>
-What do you think will happen to the last surviving mural? They're eventually going to move out of Paya Lebar Airbase and it will be turned into a... There'll be housing development there. What do you think will happen to the last surviving mural?
+What do you think will happen to the last surviving mural? They're eventually going to move out of Paya Lebar Airbase and it will be turned into a housing development. What do you think will happen to the last surviving mural?
 
 Dahlia    <br>
 I hope that the mural will be retained, and the building will be retained, so the mural doesn't have to be moved anywhere. Because it depicts the skyline of Singapore at that moment in time.
@@ -126,7 +126,7 @@ Jimmy    <br>
 Why did it take you five years? What do you mean it took you five years?
 
 Dahlia    <br>
-I think the more I researched, the more information... If I had done it earlier, I think I wouldn't have gotten all the information I wanted. I'm glad I waited five years.
+I think the more I researched, the more information I had. If I had done it earlier, I think I wouldn't have gotten all the information I wanted. I'm glad I waited five years.
 
 Jimmy    <br>
 So, tell me, what do you do at the library? You're a librarian, but you're not working at the National Library or the public library. So what do you do at the library?
@@ -180,13 +180,13 @@ Jimmy    <br>
 Why? Was your mother a nurse?
 
 Dahlia   <br>
-Yes, my mother was a nurse. Not only that, Florence Nightingale was also a data visualiser. She was the one who popularised the use of pie charts. She was a statistician. So now we are talking about data mining, all these... Doing a lot of data, getting information. She used that a lot. 
+Yes, my mother was a nurse. Not only that, Florence Nightingale was also a data visualiser. She was the one who popularised the use of pie charts. She was a statistician. So now we are talking about data mining, doing a lot of data, getting information. She used that a lot. 
 
 Jimmy    <br>
 What are you reading these days? 
 
 Dahlia   <br>
-There's this book that was published recently, [<i>Khairat Kita</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205818935). The subtitle is <i>A History of Malay/Muslim Mutual Aid in Singapore</i>. One of the things they do is help organise... If you have a funeral, when somebody passes away, often you don't know what to do. So you contact this *khairat*, and they will come and help you with everything, with the funeral preparations. With Muslim funerals, usually everything is done within 24 hours, so it's very helpful. Besides funerals, anything to do with funerals, they also have social work. They even provide bursaries for children of members. A lot of these *khairat*, all these societies or organisations, they were actually created by kampongs. Or even, let's say, the customs people, they had their own to help members... So this is one of the things that they do. So this book actually highlights what the *khairat* did. There used to be lots more, a few hundred. But I think in the 1980s when there were fewer kampongs, the authorities decided, okay, you merge or... Maybe they have less than a hundred, less than 50 right now. But they play a very important role because all these things were from the ground up, helping each other, helping the community. And it's not only for your funeral death expenses or rites, but also other social functions to bind either people in a kampong or people in an organisation together.
+There's this book that was published recently, [<i>Khairat Kita</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205818935). The subtitle is <i>A History of Malay/Muslim Mutual Aid in Singapore</i>. One of the things they do is help organise funerals. If you have a funeral, when somebody passes away, often you don't know what to do. So you contact this *khairat*, and they will come and help you with everything, with the funeral preparations. With Muslim funerals, usually everything is done within 24 hours, so it's very helpful. Besides funerals, anything to do with funerals, they also have social work. They even provide bursaries for children of members. A lot of these *khairat*, all these societies or organisations, they were actually created by kampongs. Or even, let's say, the customs people, they had their own to help members. So this is one of the things that they do. So this book actually highlights what the *khairat* did. There used to be lots more, a few hundred. But I think in the 1980s when there were fewer kampongs, the authorities decided, okay, you merge or... Maybe they have less than a hundred, less than 50 right now. But they play a very important role because all these things were from the ground up, helping each other, helping the community. And it's not only for your funeral death expenses or rites, but also other social functions to bind either people in a kampong or people in an organisation together.
 
 Jimmy   <br>
 So I will say something to you, I just want you to respond without thinking: Paya Lebar Airport. 
