@@ -56,6 +56,9 @@ Children’s concerts were becoming more regular with much variety in their prog
 
 *As already stated, praise must in the first instance be accorded to Mr E.A Brown who not only organised the great show but so ably conducted the concerted singing from the Rostrum in the centre of the Corner.*
 
+<img src="/images/Vol%204%20Issue%201/EdwinBrown/st%20arrival%20of%20prince%20of%20wales1.jpg" style="width:80%;">
+ <div style="background-color: white;">Arrival of the Prince of Wales published in The Straits Times in 1922.</div>
+
 This is in addition to his other musical commitment such as being the honorary Choirmaster in St Andrew’s Cathedral for 32 years. He also established the Children’s Orchestra in 1923, perhaps due to the success of the occasion of the arrival of the Prince of Wales. Brown continued to direct the musical activities of the Musical Society until he retired from his activities as a stockbroker.
 
 #### **Conclusion**
