@@ -65,6 +65,10 @@ This is in addition to his other musical commitment such as being the honorary C
 
 In 1941, when World War II broke out, people were evacuating to leave Singapore. E.A Brown refused to leave Singapore with his wife, Mary and daughter, Shelagh. He was subsequently interned in Changi Prison. When he was released, he found out that Mary had died in 1945. He left for the United Kingdom and died there in 1955. Until his death, he continued to be involved with music, setting up a very successful choir in Strabane, Co Tyrone, which survived for decades after his death.
 
+<img src="/images/Vol%204%20Issue%201/EdwinBrown/major%20&amp;%20mrs%20ea%20brown%20sepia.jpg" style="width:50%;">
+ <div style="background-color: white;">Major and Mrs Edwin Arthur Brown in a photograph taken in Singapore in 1938.
+<i>Courtesy of Margaret Caldicott.</i></div>
+
 In early April, his granddaughter Margaret Caldicott was at the National Library to give a talk on E.A Brown at a more personal level. The Local History Service under the Singapore Information Services (SIRS) provided Ms Caldicott with the research service.
 
 #### **REFERENCES**
