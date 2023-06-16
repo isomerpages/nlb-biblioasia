@@ -13,10 +13,10 @@ You're listening to BiblioAsia+, a podcast produced by the National Library of S
 
 My name is Jimmy Yap, and I'm the editor-in-chief of BiblioAsia, a publication of the National Library of Singapore. Today, we're talking about the umami bomb known around these parts as <i>belacan</i>. Made from fermented shrimp, <i>belacan</i> is a must-have ingredient in many Malay, Peranakan and Eurasian dishes. It's also used in Thai, Vietnamese, Lao and Khmer cooking. Despite the fact that <i>belacan</i> is a common ingredient in this region, and has been for centuries, making it, trading it or even just storing it has not been straightforward. This is mainly because the smell produced during the process of making <i>belacan</i> is perhaps best described as "memorable". 
 
-Today, our guest, Toffa Abdul Wahed, will tell us more about the history of belacan: how it's made, why it's popular and how Singapore in particular has dealt with the olfactory byproducts of <i>belacan</i> making since the 19th century. Toffa is a Librarian of the National Library, and she works in the Singapore and Southeast Asia Collection. She has a deep interest in food history, and in university she wrote her dissertation on <i>belacan</i>. Hi, Toffa. Welcome to BiblioAsia+. Tell us, what exactly is belacan?
+Today, our guest, Toffa Abdul Wahed, will tell us more about the history of <i>belacan</i>: how it's made, why it's popular and how Singapore in particular has dealt with the olfactory byproducts of <i>belacan</i> making since the 19th century. Toffa is a Librarian of the National Library, and she works in the Singapore and Southeast Asia Collection. She has a deep interest in food history, and in university she wrote her dissertation on <i>belacan</i>. Hi, Toffa. Welcome to BiblioAsia+. Tell us, what exactly is <i>belacan</i>?
 
 Toffa   <br>
-The short and simple answer is: fermented shrimp paste. But <i>belacan</i> does have other permutations. <i>belacan</i> comes in various compositions, and has different names in different parts of Southeast Asia. 
+The short and simple answer is fermented shrimp paste. But <i>belacan</i> does have other permutations. <i>belacan</i> comes in various compositions, and has different names in different parts of Southeast Asia. 
 
 Jimmy   <br>
 Apart from shrimp, what else could it be made of? 
@@ -37,10 +37,10 @@ Toffa   <br>
 <i>Udang geragau</i> goes by different names like <i>udang pepai</i>. It's a really, really small type of shrimp. 
 
 Jimmy   <br>
-Okay, let me ask you: the <i>udang geragau</i>... Is that the same <i>udang</i> that we can see in the cincalok bottle?
+Okay, let me ask you: the <i>udang geragau</i>... Is that the same <i>udang</i> that we can see in the <i>cincalok</i> bottle?
 
 Toffa   <br>
-Yes. In cincalok, the prawn or the shrimp are whole. You can see the tiny... 
+Yes. In <i>cincalok</i>, the prawn or the shrimp are whole. You can see the tiny... 
 
 Jimmy   <br>
 The tiny delicious shrimp. 
@@ -163,7 +163,7 @@ Toffa  <br>
 Yeah, morally inferior. Some of them would imply that as well. 
 
 Jimmy  <br>
-Currently, which Southeast Asian countries are the top producers of belacan? In Singapore, where do we get most of our <i>belacan</i> from, for example?
+Currently, which Southeast Asian countries are the top producers of <i>belacan</i>? In Singapore, where do we get most of our <i>belacan</i> from, for example?
 
 Toffa  <br>
 I think most of our <i>belacan</i>... If you go to the wet markets, or even the supermarkets, a lot of it come from Penang and Melaka. Those are considered the good ones.
@@ -178,7 +178,7 @@ Jimmy  <br>
 Now that you mention it, I remember going to Melaka with my brother and he was hunting down <i>belacan</i> of a particular colour.
 
 Toffa  <br>
-Yes, <i>belacan</i> comes in many colours. So you have a range from a pale, purplish colour. There's pink, there's a dark colour like almost dark brown or a deep purple. The colours depend on the composition of the belacan: the ratio of the salt to the raw fish ingredients, or even just the ingredients themselves, whether it's wholly made from <i>udang geragau</i>.
+Yes, <i>belacan</i> comes in many colours. So you have a range from a pale, purplish colour. There's pink, there's a dark colour like almost dark brown or a deep purple. The colours depend on the composition of the <i>belacan</i>: the ratio of the salt to the raw fish ingredients, or even just the ingredients themselves, whether it's wholly made from <i>udang geragau</i>.
 
 Jimmy  <br>
 Which is presumably pink, right? Because the <i>cincalok</i> is pink.
