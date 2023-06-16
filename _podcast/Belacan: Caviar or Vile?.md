@@ -6,17 +6,15 @@ description: A food that has been called rank and disgusting is a beloved
   history of belacan (fermented shrimp) in Southeast Asia and Singapore.
 image: /images/Podcast/ep 4 (belacan by toffa) teaser.jpg
 ---
-#### Coming  20 June ###
-#### **Episode Summary** ####
 A food that has been called rank and disgusting is a beloved condiment in Southeast Asia. Librarian Toffa Abdul Wahed talks about the long history of *belacan* (fermented shrimp) in Southeast Asia and Singapore.
 
-Toffa Abdul Wahed is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PrpvKof23zU" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
-#### **Teaser clip** ####
-
+#### **About the Guest** ####
+Toffa Abdul Wahed is an associate librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.
 
 #### **Resources** ####
 Toffa Abdul Wahed, “[Belacan: Caviar? Or Vile and Disgusting?](/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)” <i>BiblioAsia</i> 19, no. 1 (2023).
