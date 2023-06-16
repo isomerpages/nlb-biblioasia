@@ -8,17 +8,15 @@ description: During World War II, forced civilian labourers known as rōmusha
 image: /images/Podcast/ep 1 (romusha by shirlene) teaser.jpg
 ---
 ### Coming  20 June ###
-#### **Episode Summary** ####
 During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/) were used by the Imperial Japanese Army to build the infamous Thai-Burma Railway. Shirlene Noordin pieces together what happened to her grandfather in the three years he worked on the Death Railway. 
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QdzUTGMl4KQ" height="315" width="560"></iframe>
+
+#### **About the Guest** ####
 Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
 
 #### **Listen to the Full Episode** ####
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
-
-#### **Teaser clip** ####
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<iframe src="https://www.youtube.com/embed/QdzUTGMl4KQ" frameborder='0' allowfullscreen></iframe>
 
 #### **Resources** ####
 Shirlene Noordin, “[My Grandfather Was a Rōmusha]( https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway),” <i>BiblioAsia</i> 18, no. 3 (2016). 
