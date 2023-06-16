@@ -6,223 +6,485 @@ third_nav_title: Episode 3
 ---
 [Music playing]
 
-Jimmy  <br>
+Jimmy   <br>
 You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
 
-I'm Jimmy Yap, the editor-in-chief of BiblioAsia, a publication of the National Library. Today, we will be talking about the forgotten murals of Paya Lebar Airport. Paya Lebar opened in 1955 as Singapore's main airport. As air travel became more popular, the airport had to be expanded, and in 1962, construction began on a new international passenger terminal building that opened two years later. To adorn the interiors of the building, the government decided to have large murals installed in key locations. There was a competition to pick the designs, and in the end, three murals were chosen. Two by William Mundy and one by Shamsuddin H. Akib. These murals were hard to miss: they were between 9 to 12 metres long, and about 1.5 metres high. And because they were in prominent areas, the murals became iconic. One of them, in particular – a mural which depicted various cultural dances of Malaysia – has probably been the backdrop of thousands of photos. People used to pose in front of it when they went to see their friends and family off at the airport. However, with the opening of Changi Airport in 1981, Paya Lebar Airport became an air force base, and the murals vanished from the public eye. A few decades later, Dahlia Shamsuddin, the daughter of the artist, Shamsuddin H. Akib, decided to find out what had happened to these murals. What she discovered broke her heart. Dahlia subsequently wrote about these murals and their fate in BiblioAsia. Dahlia is a senior librarian at the National Library Board, and she's here today to tell us the whole story. Welcome to BiblioAsia+, Dahlia. So, Dahlia, tell me: what's happened to the three murals?
+"Vile", "disgusting", "nauseating". In particular, food from Southeast Asia has been called all these things, and worse. They aren't referring to the durian, though. Instead, these terms have been levelled at something else altogether: a beloved condiment widely used in Southeast Asian cooking. 
 
-Dahlia   <br>
-Of the three murals, only one mural remains. Two of the murals have been destroyed.
+My name is Jimmy Yap, and I'm the editor-in-chief of BiblioAsia, a publication of the National Library of Singapore. Today, we're talking about the umami bomb known around these parts as <i>belacan</i>. Made from fermented shrimp, <i>belacan</i> is a must-have ingredient in many Malay, Peranakan and Eurasian dishes. It's also used in Thai, Vietnamese, Lao and Khmer cooking. Despite the fact that <i>belacan</i> is a common ingredient in this region, and has been for centuries, making it, trading it or even just storing it has not been straightforward. This is mainly because the smell produced during the process of making <i>belacan</i> is perhaps best described as "memorable". 
 
-Jimmy   <br>
-Okay, which mural has remained?
+Today, our guest, Toffa Abdul Wahed, will tell us more about the history of <i>belacan</i>: how it's made, why it's popular and how Singapore in particular has dealt with the olfactory byproducts of <i>belacan</i> making since the 19th century. Toffa is a Librarian of the National Library, and she works in the Singapore and Southeast Asia Collection. She has a deep interest in food history, and in university she wrote her dissertation on <i>belacan</i>. Hi, Toffa. Welcome to BiblioAsia+. Tell us, what exactly is <i>belacan</i>?
 
-Dahlia    <br>
-The mural thats still remaining is "Skyline of Singapore" by Bill Mundy. The other two murals that were destroyed were my father's one and Bill's other mural on Malaysia.
-
-Jimmy    <br>
-Tell us a little bit about the relationship between Bill and your father.
-
-Dahlia   <br>
-My father was working for Papineau Advertising in the '50s, up to the '60s. Bill came to Singapore in about 1960 or the early '60s, and joined Papineau Advertising. They were colleagues. My father was a commercial artist – that was what they called graphic artists then at the time. Bill came in and he was an art director. 
+Toffa   <br>
+The short and simple answer is fermented shrimp paste. But <i>belacan</i> does have other permutations. <i>belacan</i> comes in various compositions, and has different names in different parts of Southeast Asia. 
 
 Jimmy   <br>
-How did the two of them end up taking part in the competition and winning?
+Apart from shrimp, what else could it be made of? 
 
-Dahlia   <br>
-Both of them decided to join the competition, but they didn't tell each other. The announcement came out in the papers, and they decided to join. Later on, my father found out that Bill was taking part and that Bill wanted to submit two murals, two designs. So my father said, Okay, if he can submit two, I will submit two as well.
+Toffa   <br>
+It can be made from fish, wholly from fish, small fish. It can be made from a mixture of shrimp and fish. Also you have different types of fish that you could use to make <i>belacan</i>.
 
 Jimmy   <br>
-Tell me, what were the two designs that your father submitted? Because Bill submitted two and both of them were accepted. Your father submitted only one. So tell me about the one that your father submitted? 
+It's not all kinds of shrimp, right? It's a particular shrimp that you use?
 
-Dahlia    <br>
-The one that my father submitted was on cultural dances of Malaysia.
+Toffa   <br>
+Yes. The <i>belacan</i> we find today in supermarkets and wet markets in Singapore are usually made from <i>udang geragau</i>, which is of the genus, Acetes. I hope I'm pronouncing that right.
 
-Jimmy    <br>
-Can you describe it a little bit to us?
+Jimmy   <br>
+You speak Latin as well?
 
-Dahlia  <br>
-There were dances depicted in the mural. So you had a couple [doing a] Chinese dance in a Chinese wayang costume, and you had Indian dancers. There was another couple [doing] the Malay dance. But this wasn't the traditional or the more well-known Malay dance. My father decided to pick Mak Yong dancers because his elder sister and her husband had moved to Kelantan after the war, and I think he decided to pick the mak yong dancers from Kelantan as a connection with his sister. And the fourth dancer was a Sarawak dancer. I asked my father why. Why did you pick Sarawak? And he said that Sarawak was part of Malaysia. At that time, people were talking about Singapore, Malaysians, about being part of Malaysia. That's why he depicted that.
+Toffa   <br>
+<i>Udang geragau</i> goes by different names like <i>udang pepai</i>. It's a really, really small type of shrimp. 
 
-Jimmy <br>
-Your father submitted two. 
+Jimmy   <br>
+Okay, let me ask you about the <i>udang geragau</i>. Is that the same <i>udang</i> that we can see in the <i>cincalok</i> bottle?
 
-Dahlia <br>
-Yes. 
+Toffa   <br>
+Yes. In <i>cincalok</i>, the prawn or the shrimp are whole. You can see the tiny... 
+
+Jimmy   <br>
+The tiny delicious shrimp. 
+
+Toffa   <br>
+You can see the eyes, the beady black eyes. But in <i>belacan</i> it has been pounded down and you can't make out the pieces of shrimp anymore. 
 
 Jimmy  <br>
-Tell us about the one that wasn't picked.
+What is the process of making <i>belacan</i>?
 
-Dahlia  <br>
-The other one had a very fascinating title called "Some Fascinating Eating Manners of Singaporeans". I asked my father what the design was. He can't remember it, but the design was returned to him.
+Toffa  <br>
+The important processes in making <i>belacan</i> is salting, drying, pounding. And throughout that whole process, the <i>belacan</i> is being fermented. It goes through several rounds of pounding and drying. So, sometimes <i>belacan</i> can take up to two months or more to make a mature product. But if you make it on your own at home, you can take a few days.
 
-Jimmy    <br>
-Sadly lost. I was reading your article, and it says that your father's mural was particularly hard to execute. Because of iron strips, it wasn't a straightforward mosaic. Can you tell us a little bit about it?
+Jimmy  <br>
+Is <i>belacan</i> very common in Southeast Asian cuisine?
 
-Dahlia    <br>
-The iron strips – or grilles, as my father calls them – were made in Singapore. The tiles were from Italy. Bill had gone to Italy to choose the colours and the tiles. They were all shipped to Singapore. Once they were shipped to Singapore, it was easy for the workers to just affix them onto the wall. But my father's was an added one. Because the tiles were the background and the figures were in iron, so it had to be made in Singapore. So that was the added one. And because, you know, there are a lot of curls and you had the figures, flowing robes, costumes of the dances. There was actually a lot of work. My father said that he went to where the workers did it; it wasn't done in Paya Lebar itself. One of the workers told him, "Wah! Lu punya banyak susah!" ["Wah! Your (design) is so difficult!"], because of all that turning and twisting.
+Toffa  <br>
+<i>Belacan</i> is a common flavouring agent. In Thailand, you wouldn't use the term <i>belacan</i>, you would use the term, <i>kapi</i>. In Indonesia, you would use "terasi", although some parts do use the word <i>belacan</i>. In Myanmar, <i>ngapi seinsa</i> refers to shrimp paste specifically. Like I said, <i>ngapi</i> is an all-encompassing term that refers to different types of fermented fish products. In Southeast Asian cuisine, it is usually used as a flavouring agent to flavour curries, stews. But in Singapore's context, you have different kinds of sambal. You have your <i>sambal belacan</i>, which is simply made from toasted and pounded <i>belacan</i> that is mixed with chilies, some kind of acid like lime juice, salt and sugar. So sambal <i>belacan</i> also has counterparts in other parts of Southeast Asia, like the <i>nam prik kapi</i>, which is a Thai version.
 
-Jimmy   <br>
-Do you remember what your first impression of the mural was when you went to the airport? Did you go to the airport and your father said, I did that?
- 
-Dahlia   <br>
-I don't remember my father telling me, oh, I designed that. I sort of just knew it. When I used to go to the airport, not to fly. At that time during the '70s, it was basically to see somebody off, and it was usually my aunt who went to Mecca. So we would go there. And I would go to the airport, look at the mural and tell myself, Dad did that. And then after that go off. We never took any photographs. At that time, not many people had cameras. Well, my father had a box camera. But it's not like now when you have a smartphone, and everybody takes photographs all the time of everything, right? We never took a photograph. My father doesn't have a photograph of his mural. Neither does Bill.
+Jimmy  <br>
+Okay. Why is <i>belacan</i> or fermented shrimp paste used as a flavouring agent? What is special about it that makes it so popular?
 
-Jimmy    <br>
-That's so tragic. So after Paya Lebar Airport became Paya Lebar Airbase, nobody could go in anymore, right? It gets turned into this military installation. And that was around 1981. There's a bit of a story about how you got permission to go to Paya Lebar Airbase to hunt down the murals.
+Toffa  <br>
+It gives a umami kind of taste to your dishes. "Umami" is a Japanese term that loosely translates as "a savoriness or a meaty-like taste". So it imparts a certain deliciousness to your dish. <i>belacan</i> is rich in glutamates and nucleotides. Another type of glutamate is actually MSG. You know how people...
 
-Dahlia   <br>
-I told several friends about it. Then we all decided that maybe I should ask MINDEF [Ministry of Defence] what happened to it. I emailed them in 2009, and I only got permission in 2010. Only my father and I could see it. We had quite a number of friends who wanted to see it, and they said, no, you can't. Just my father and I. We left our handphones with the guard. We were met by the PR person, a young lady, and an NS man, a private in the air force, and we walked over to the building. Everything in sight was actually boarded up. There were lots of cubicles. 
+Jimmy  <br>
+Use MSG to make soups feel richer.
 
-Jimmy    <br>
-So the whole space had been partitioned. 
+Toffa  <br>
+It's an added layer to your soups and your curries.
 
-Dahlia   <br>
-Yeah, partitioned. It wasn't a nice partition, it was just for the air force people, which is somewhere they work. The most important thing was the aeroplanes. The only thing we could see was Bill's mural because his was one level up. So you stand and you look up, you can see the mural. It's still there. It's not covered up.
+Jimmy  <br>
+What other foods are rich in umami? Tomatoes?
 
-Jimmy   <br>
-Right, because it was actually on a staircase landing. Nobody was going to put offices on the staircase landing. That place is very prominent and very public, where people were just walking back and forth.
+Toffa  <br>
+Cheese, anchovies, fish sauce. Your soy sauce.
 
-Dahlia    <br>
-It was like a passageway, a very narrow passageway. Nobody's going to build cubicles there.
+Jimmy  <br>
+No wonder I like dipping my food, anything I eat, in soy sauce. It just makes it taste better.
 
-Jimmy    <br>
-So when you went, could you even find your father's mural?
+Toffa  <br>
+It makes plain rice taste better.
 
-Dahlia    <br>
-No, I managed to get the souvenir programme that was published in 1964. There were two pages where they showed a plan of the building. There were pillars. So basically we were counting pillars. While we were walking there, there were some air force people who joined us, and they were very helpful. They said, Okay, let's go here. And then one of the men said, "Ah, I think there is a mural." And I said, "Where?" They went to the site, and then they pulled the board. They said, See. No, no, it's not. It was something else. I was looking up because I remember from the photographs I've seen in the NAS [National Archives of Singapore] collection, that there were phone booths. And my father's mural was above the phones, but going around, where are the phone booths? I thought I saw something that looked like booths, but they were all used as something else. So you can't really. We went around searching, so we had a small entourage following us. And we couldn't find it. We walked up to Bill's mural, had a close look. We could see that the mosaic tiles were not like the usual flooring mosaic tiles. They were very pretty. Some of them were millefiori tiles, some of them had shimmer, a bit of a glitter. So they were not just flat, plain tiles. They were very nice.
+Jimmy  <br>
+I guess if you're not very rich and you can't afford to get a lot of food, and you're eating largely plain rice. Anything you can do to make your plain rice a little better is a good thing.
 
-Jimmy    <br>
-So that was a bit of a wasted journey. But subsequently you found out that there's a reason you couldn't find your father's mural.
+Toffa  <br>
+Yeah. In the past or even till today, <i>belacan</i> is an important food item in the kitchens of people of lower classes. Because sometimes you just want to make your rice palatable. So a lot of them would eat vegetables or simply fried fish with rice and <i>belacan</i>. That makes for a delicious meal.
 
-Dahlia    <br>
-While we were there, at the end of the tour, the PR [officer] said that they were moving over to a new building. And once they have taken everything done, then they would be able to find out where the two murals were located. At that time, we didn't know that the murals were destroyed, we assumed that they were whole. So I said, Okay. They would inform us, but I think they were very busy and everything, so nobody informed us. So until 2012, when Bill was in Singapore, I invited him to attend an exhibition. We were informed by somebody who saw the murals that two of the murals were destroyed. The only one remaining was the "Skyline of Singapore", because it was up there. I asked, "How was it? What was left?" In my father's mural, the figures were torn out, while in Bill's one, the bottom half was gone.
+Jimmy  <br>
+Okay. Some of the local dishes that use <i>belacan</i>, and we've talked about <i>sambal belacan</i>, but I think you also cook it, as you say, in curries. Anything else?
 
-Jimmy    <br>
-Oh, how did your father feel when you told him this?
+Toffa  <br>
+In Singapore?
 
-Dahlia    <br>
-When his friend told us, Bill and I kept quiet. I went home, I told my father, he just kept quiet. About three years later,  Bill visited Singapore again. He travels to Singapore quite often. We were at my dad's place, so I asked both of them, What was your reaction when you got the news? We were very angry. Very sad. As Bill said, shocked. My father also said it was very sad. They didn't go on and on. But I think that being men, yes, I'm very angry and sad, I'm shocked. That's it, move on.
+Jimmy  <br>
+Yes, in Singapore.
 
-Jimmy   <br>
-Do you think your father would have liked to have kept his mural if he had the chance?
+Toffa  <br>
+It's a integral, essential ingredient in nonya laksa. 
 
-Dahlia    <br>
-When I wrote the article, I asked my father, What's your wish? And he said that he wanted it recreated.
+Jimmy  <br>
+Oh, no wonder I like that.
 
-Jimmy    <br>
-What do you think will happen to the last surviving mural? They're eventually going to move out of Paya Lebar Airbase and it will be turned into a housing development. What do you think will happen to the last surviving mural?
+Toffa  <br>
+Yeah. If you eat your Hokkien mee or <i>char kway teow</i>, the sambal that comes with it has <i>belacan</i> in it. You also have asam pedas, which is a popular Malay dish. 
 
-Dahlia    <br>
-I hope that the mural will be retained, and the building will be retained, so the mural doesn't have to be moved anywhere. Because it depicts the skyline of Singapore at that moment in time.
+Jimmy  <br>
+Another one of my favourites. I seem to be liking all these foods that have <i>belacan</i> in it.
 
-Jimmy    <br>
-For people who are interested, you can see what the murals look like in the July 2021 issue of BiblioAsia. And in fact Bill Mundy's "Skyline of Singapore" is on the cover of BiblioAsia. And Dahlia's story is actually inside. How long did it take for you to write this article, Dahlia?
+Toffa  <br>
+Yeah, some people don't know that these foods have <i>belacan</i> in it.
 
-Dahlia    <br>
-It took me five years.
+Jimmy  <br>
+Because it's not stated, right? I mean, <i>sambal belacan</i> you know, but <i>asam pedas</i> does not announce itself as <i>belacan</i>.
 
-Jimmy    <br>
-Why did it take you five years? What do you mean it took you five years?
+Toffa  <br>
+Sometimes your satay sauce. Some people like to add a bit of <i>belacan</i> to give that added richness, the umami taste to the satay sauce.
 
-Dahlia    <br>
-I think the more I researched, the more information I had. If I had done it earlier, I think I wouldn't have gotten all the information I wanted. I'm glad I waited five years.
+Jimmy  <br>
+Okay, so this is what I need to do when I cook then. I need to start using <i>belacan</i> more.
 
-Jimmy    <br>
-So, tell me, what do you do at the library? You're a librarian, but you're not working at the National Library or the public library. So what do you do at the library?
+Toffa  <br>
+You can put <i>belacan</i> on anything you want, actually. Because it is a flavouring agent. 
 
-Dahlia    <br>
-I'm a cataloger. I catalogue legal deposit. 
+Jimmy  
+I've never cooked with <i>belacan</i>, I have to confess. But now that I've heard all this, I will be trying and I will warn my neighbours about it. Okay, so it's very common in regional cuisine, but people who encounter it for the first time typically don't have a particularly positive reaction. In your BiblioAsia article on <i>belacan</i>, you mention quite well-known names like Hugh Clifford and John Crawfurd, who do not have very positive things to say about <i>belacan</i>. Why is that?
 
-Jimmy   <br>
-What is that? 
+Toffa  <br>
+Most of these are travelogues written by colonial administrators who travelled across the Malay Peninsula, for instance. They travelled by the waterways, the riverine areas; they visited villages along the coast, along the riverbanks. In Myanmar, they would visit villages along the Irrawaddy River. These are places where one would encounter the production of <i>belacan</i>, or ngapi. The smell was so strong that some of them would write, "I could smell it from afar. Before I see the village. I smell the village first." I think because <i>belacan</i> is a curiosity for them. And they're also writing to audiences back home who may not know what <i>belacan</i> is. So it's also an account of things they encounter.
 
-Dahlia    <br>
-If you are a publisher, under the NLB [National Library Board] Act, you are supposed to deposit two copies of your publication to NLB. I think that also includes digital publications now. At least we have a record of all the books that are published in Singapore.
+Jimmy  <br>
+That's unusual. Is it true that Munshi Abdullah also described <i>belacan</i> as <i>makanan yang busuk-busuk</i>?
 
-Jimmy    <br>
-So you catalogue all these books that come in? 
+Toffa  <br>
+Yes, he did. He was on a trip to Terranganu, and he wrote, "Oh, this market has a lot of <i>makanan yang busuk-busuk</i>", which means "unwholesome, smelly foods". Like, you know, petai, the stink bean. You have various types of <i>sambal belacan</i>, he wrote, and you also have pickled fish in various forms and pickled shellfish as well. He juxtaposed that against makanan yang mulia, which means "wholesome" or "good foods" like egg, milk, ghee and butter. So it's really interesting because you wouldn't really use butter in a lot of cuisines at that time. 
 
-Dahlia    <br>
-Yeah.
+Jimmy  <br>
+Ghee, maybe?
 
-Jimmy    <br>
-So you really get first dibs on all the new books published in Singapore. 
+Toffa  <br>
+Ghee, maybe, yeah. And milk.
 
-Dahlia   <br>
-Published in Singapore, yeah.
+Jimmy  <br>
+Although to be fair, I think even in a <i>Berita Harian</i> article in the 1980s, they talk about... When you make <i>belacan</i>, this is the period when it really starts to smell. Even people who are used to the smell of <i>belacan</i> acknowledged that this is an acquired taste or smell.
 
-Jimmy   <br>
-So this is what I would consider my favourite part of the interview. Who do you think is the coolest person in Singapore history?
+Toffa  <br>
+Yeah, you have that <i>belacan</i> that's fermenting, right? Of course it will give off certain smells.
 
-Dahlia    <br>
-Hedwig Anuar.
+Jimmy  <br>
+Fermentation is decay, right?
 
-Jimmy   <br>
-Okay. Apart from the fact that she's a librarian, why do you say that?
+Toffa  <br>
+Yeah, fermentation is the same as decomposition or rotting. But fermentation is a process where you allow something to decay to add a positive or a favourable taste to something. I think a lot of the accounts, like the Western accounts, some of them would describe not only the smell of <i>belacan</i>, but they also impart a certain judgement on the peoples that produced or ate <i>belacan</i>.
 
-Dahlia   <br>
-Oh, when she was studying in London, she was a member of the Malayan Forum and also the Malayan Students Union. As a member of the Malayan Forum, she and other students discussed Malayan politics and current affairs. She also wrote poems in a parody about, during her time then, Singapore politics and Malayan politics. The library has a copy, and so do I. 
+Jimmy  <br>
+Because it smelt bad, therefore these people are...
 
-Jimmy   <br>
-Very interesting.
+Toffa  <br>
+Yeah, morally inferior. Some of them would imply that as well. 
 
-Dahlia    <br>
-It was published in 1999 by Landmark Books.
+Jimmy  <br>
+Currently, which Southeast Asian countries are the top producers of <i>belacan</i>? In Singapore, where do we get most of our <i>belacan</i> from, for example?
 
-Jimmy   <br>
-Ah, okay. Which historical figure would you like to have dinner with?
+Toffa  <br>
+I think most of our <i>belacan</i>... If you go to the wet markets, or even the supermarkets, a lot of it come from Penang and Melaka. Those are considered the good ones.
 
-Dahlia    <br>
-Florence Nightingale.
-
-Jimmy    <br>
-Why? Was your mother a nurse?
-
-Dahlia   <br>
-Yes, my mother was a nurse. Not only that, Florence Nightingale was also a data visualiser. She was the one who popularised the use of pie charts. She was a statistician. So now we are talking about data mining, doing a lot of data, getting information. She used that a lot. 
-
-Jimmy    <br>
-What are you reading these days? 
-
-Dahlia   <br>
-There's this book that was published recently, [<i>Khairat Kita</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205818935). The subtitle is <i>A History of Malay/Muslim Mutual Aid in Singapore</i>. One of the things they do is help organise funerals. If you have a funeral, when somebody passes away, often you don't know what to do. So you contact this *khairat*, and they will come and help you with everything, with the funeral preparations. With Muslim funerals, usually everything is done within 24 hours, so it's very helpful. Besides funerals, anything to do with funerals, they also have social work. They even provide bursaries for children of members. A lot of these *khairat*, all these societies or organisations, they were actually created by kampongs. Or even, let's say, the customs people, they had their own to help members. So this is one of the things that they do. So this book actually highlights what the *khairat* did. There used to be lots more, a few hundred. But I think in the 1980s when there were fewer kampongs, the authorities decided, okay, you merge or... Maybe they have less than a hundred, less than 50 right now. But they play a very important role because all these things were from the ground up, helping each other, helping the community. And it's not only for your funeral death expenses or rites, but also other social functions to bind either people in a kampong or people in an organisation together.
-
-Jimmy   <br>
-So I will say something to you, I just want you to respond without thinking: Paya Lebar Airport. 
-
-Dahlia   <br>
-Aeroplanes. 
-
-Jimmy    <br>
-Okay, that's very obvious. 
-
-Dahlia    <br>
-Concorde! 
-
-Jimmy    <br>
-Oh, did the Concorde land at Paya Lebar?
-
-Dahlia    <br>
-Yes.
-
-Jimmy    <br>
-History is...? 
-
-Dahlia   <br>
-Important. 
-
-Jimmy    <br>
+Jimmy  <br>
 Why?
 
-Dahlia   <br>
-If you don't know your history, then do you know who you are as a people? But the most important thing is to not make the same mistakes when moving forward. 
+Toffa  <br>
+I think over the years people have tasted [them] and by word of mouth. Even newspaper articles in the 20th century would say, "Oh, Melaka <i>belacan</i> is really good." Or Penang's. There were also reports in the late 1800s in newspapers where the reporter would announce, "Oh, Melaka has just received a wonderful catch of <i>udang geragau</i>, so you can expect some good <i>belacan</i> to come."
 
-Jimmy    <br>
-And BiblioAsia is...
+Jimmy  <br>
+Now that you mention it, I remember going to Melaka with my brother and he was hunting down <i>belacan</i> of a particular colour.
 
-Dahlia    <br>
-A must-read. 
+Toffa  <br>
+Yes, <i>belacan</i> comes in many colours. So you have a range from a pale, purplish colour. There's pink, there's a dark colour like almost dark brown or a deep purple. The colours depend on the composition of the <i>belacan</i>: the ratio of the salt to the raw fish ingredients, or even just the ingredients themselves, whether it's wholly made from <i>udang geragau</i>.
 
-Jimmy    <br>
-Thank you for that free advertising as I tell everyone. Thank you very much, Dahlia, for joining me on BiblioAsia+. To read all about the murals, how they were designed and how their fate was uncovered, please read [Dahlia's article](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals/) on the BiblioAsia website. If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/#!/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
+Jimmy  <br>
+Which is presumably pink, right? Because the <i>cincalok</i> is pink.
+
+Toffa  <br>
+Yes, it's like a pinkish grey. Those are made from <i>udang geragau</i>.
+
+Jimmy  <br>
+What about the history of <i>belacan</i> making in Singapore? That's something you've researched and you talk about in your BiblioAsia article as well. Singapore obviously doesn't anymore but there were people in Singapore who used to make <i>belacan</i>.
+
+Toffa  <br>
+There would always be people in the past who made <i>belacan</i> because they lived by the coast. They lived by rivers, estuaries, where there's an abundance of <i>udang geragau</i>. And because of the lack of refrigeration in the past, people had to ferment or preserve their foods. It is something that, I would say, came naturally to people as long as they had access to salt and the raw material. The industry in Singapore wasn't as popular as the Melaka or Penang <i>belacan</i> production industry. Of course, in other parts of British Malaya, from Terranganu to Pahang, to Johor even, they also produced their own versions of <i>belacan</i>. But Singapore was better known as a distribution centre or an entrepot for <i>belacan</i> in this region.
+
+Jimmy  <br>
+But even though Singapore wasn't known for its own <i>belacan</i>, for example, there were laws regarding <i>belacan</i> manufacturing or storage in Singapore.
+
+Toffa  <br>
+Yeah, for drying, salting and storing <i>belacan</i>.
+
+Jimmy  <br>
+Right, there were specific laws that were aimed at <i>belacan</i>. What were these laws, when did they date to?
+
+Toffa  <br>
+Under the Conservancy Act in Singapore, and back then in the Straits Settlements.
+
+Jimmy  <br>
+This was the mid-19th century, right?
+
+Toffa  <br>
+Yes. <i>belacan</i> was considered an offensive and dangerous trade. Other trades that were considered offensive or dangerous, basically a nuisance to the public, were things that emitted a lot of smells or noise. You had sago manufacture, you had boiling offal, you had kilns. Those were considered offensive and dangerous trades. And <i>belacan</i> was considered one of them. I would assume from the smell that would have emanated from the <i>belacan</i> stores and factories. Within the municipality, you would need a licence to operate. You would register for an annual licence. Without a licence, you would be fined. There were people who tried to not apply for licences. 
+
+Jimmy  <br>
+Save some money. 
+
+Toffa  <br>
+Yeah. There were newspaper reports saying that there were many bags of <i>belacan</i> being stored in a shophouse in Cecil Street and the trader was fined $50.
+
+Jimmy  <br>
+I think in your article you also mentioned that there were factories along the Kallang River or something?
+
+Toffa  <br>
+Yes, those were the licenced factories.
+
+Jimmy  <br>
+Was this in the 19th or 20th century? 
+
+Toffa  <br>
+This was in the early 20th century to the mid-20th century. You can find records in the National Archives of Singapore, maps of the Kallang Basin area. In that whole area, you had timber yards, a lot of other offensive and dangerous trades: sago factories, soap making, tanneries. Those were all the different trades that would congregate in this area because it was allocated, in a way, for industry. From the maps, I could find three <i>belacan</i> factories around the Kallang Basin area. Two of them were actually shown. What I could see, parts of it were over water. So the maps are like an aerial kind of drawing, but you could see that parts of it were in the river itself. So I assume that they were on stilts. The fishermen would have come to these factories with their load of <i>udang geragau</i>. In these factories they would then process and manufacture <i>belacan</i>. There was also a wooden platform that was attached to these factories, which I assume would have been used for drying and laying out <i>belacan</i>.
+
+Jimmy  <br>
+We don't make a lot of <i>belacan</i> now, or if any, presumably. But there have been some records or newspaper records of <i>belacan</i> making up till the 1980s or something, right?
+
+Toffa  <br>
+Yes. In the 1950s, there was a <i>belacan</i> industry in Tampines. 
+
+Jimmy  <br>
+An industry? 
+
+Toffa  <br>
+Yeah, it was a very small cottage industry. The reports wrote that there were like five households. It wasn't a factory industrial scale. It was a cottage industry of families making <i>belacan</i> to earn money.
+
+Jimmy  <br>
+This was the 1950s. As late as the 1980s as well, right?
+
+Toffa  <br>
+Yeah, in the 1980s as well, around the area of Tampines. But of course you have people making <i>belacan</i> along the coasts of Siglap, Seletar, perhaps. 
+
+Jimmy  <br>
+Anywhere where people were living and you could get the <i>udang geragau</i>.
+
+Toffa  <br>
+There is a report in the <i>Berita Harian</i> from the 1980s about this lady who would go out to the sea near Tampines. She would bring her push-net and she would go in the water. The water has to be quite high, until almost your waist area, or even until your chest. And you would use the push-net and drag it along the seabed. So the push-net is a contraption that comprises two wooden posts, pretty long posts, with a net in-between.
+
+Jimmy  <br>
+Did this lady sit on a boat to pull the net behind her or was she in the water? 
+
+Toffa  <br>
+She's in the water. She's standing and walking in the water.
+
+Jimmy  <br>
+You've obviously studied <i>belacan</i>. Have you ever been tempted to make <i>belacan</i> yourself?
+
+Toffa  <br>
+I did, I have thought about making <i>belacan</i>.
+
+Jimmy  <br>
+Okay, where would you find the <i>udang geragau</i> in the first place?
+
+Toffa  <br>
+Oh, the <i>udang geragau</i>? It's a seasonal product, so you need to find it at the right time. And it's quite hard to find. Maybe I'm not looking hard enough. But at least at the wet market near my house... it's either I missed it, because it's so... not rare, but it's something that is not available in large amounts, I guess, so it gets sold out pretty fast.
+
+Jimmy  <br>
+But you've never been tempted? You've thought about it, but you've never said, "Tomorrow I will make <i>belacan</i>?" 
+
+Toffa  <br>
+No, I think I'm mainly concerned about the smell. And I'm not sure how to sun it outside my house without my neighbours complaining. I also don't want the flies to come. You need to keep a close watch in case flies come.
+
+Jimmy  <br>
+Do you think this would be something hipsters will do? You know how hipsters make their own coffee. They roast it properly. So do you think that someday there'll be hipster <i>belacan</i>?
+
+Toffa  <br>
+Like an artisanal <i>belacan</i>? Now you have like people reviving making tempeh, which is also a fermented product. Because there's an art and science to it, right? But I don't know. Tempeh is also very cheap in the supermarket. But maybe soybeans are easier to find, easier to handle. Not so much smell, so it's not so intimidating.
+
+Jimmy  <br>
+But I think if anyone can lead the charge towards artisanal <i>belacan</i>, Toffa, it will be you.
+
+Toffa  <br>
+Yeah, maybe I'll make a small-batch <i>belacan</i>.
+
+Jimmy  <br>
+Yeah, it has to be, right? Single-origin <i>belacan</i>.
+
+Toffa  <br>
+<i>Udang geragau</i> from the straits of Melaka.
+
+Jimmy  <br>
+Exactly. Definitely not the straits of Johor because that doesn't look clean. The Greeks and Romans had something like <i>belacan</i> as well, right? 
+
+Toffa  <br>
+Yeah they had this thing called <i>garum</i>, which is a fermented fish paste. 
+
+Jimmy  <br>
+It was a paste? 
+
+Toffa  <br>
+It's very complicated. If you want to find out more, you should read Sally Grainger's book, [<i>The Story of Garum</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569). But researchers have different perspectives of what <i>garum</i> is, its composition. It also had different names in different eras of history. And different names could also mean a different composition. So it's hard to really pinpoint what garum was, whether it's a fish sauce, a fish paste, or is it both. Essentially, it's a fermented fish product.
+
+Jimmy  <br>
+So this idea of a fermented fish or thing. Note my incredible vocabulary. It's not just a Southeast Asian thing? You could also find it in the Mediterranean, for example.
+
+Toffa  <br>
+There are also people who thought if there was a connection among <i>garum</i> and variations of <i>belacan</i>, <i>terasi</i> or <i>ngapi</i>. Was there a trade? A migration of cultures and food practices? But there's no evidence that actually shows the connection, so it could have developed totally differently in different parts of the world.
+
+Jimmy  <br>
+Thank you very much. I mean, that was a very interesting tour into the history of <i>belacan</i>. Actually, I just want to ask you one more thing about <i>belacan</i>. You mentioned something in your BiblioAsia article about a scandal, a <i>belacan</i> scandal. 
+
+Toffa  <br>
+I'm using the word "scandal" because that's how I look at it. But yeah, there was a controversy about <i>belacan</i> in the 1970s. It came out in the newspapers, the Malay newspapers, the English ones as well, about Rhodamine B, which is a substance used in the production of <i>belacan</i> to give it a reddish hue. And the controversy is that it was found to be carcinogenic, meaning it can cause cancer in the long run. So there were samples taken to study the different varieties of <i>belacan</i> found in Singapore, most of which came from Melaka and Penang. Even the Malaysian authorities had to look into it. The health ministry was involved in Singapore, the Consumers Association was involved.
+
+Jimmy<br>
+It sounds like they were trying to leverage the fact that people really wanted the pink or red <i>belacan</i>.
+
+Toffa <br>
+Yes, there was a market for pinkish, reddish <i>belacan</i>. Because apparently it's supposed to look more appealing than a black, dark-coloured <i>belacan</i>. That's why the manufacturers would dye it. After you form your <i>belacan</i>, you dip it in a dye to give it that beautiful...
+
+Jimmy  <br>
+Pink glow. 
+
+Toffa  <br>
+Yeah, pink glow, the pink of health. But not really. 
+
+Jimmy  <br>
+Because it's carcinogenic. But at least it looked pretty. They presumably sorted it out.
+
+Toffa  <br>
+Yes, they did, they took samples and things like that. It was a banned substance in Malaysia, but people were still using it.
+
+Jimmy  <br>
+Okay, what are you working on now? You know, research-wise and cooking-wise.
+
+Toffa  <br>
+Research-wise, I'm still hopeful that I will have opportunities to look into cookbooks, like I did with Siti Radhiah and Mohamed Saleh, and her cookbooks from the 1950s and '60s. So I'm looking at cookbooks and cookbook writers as well. So that's still my interest. Hopefully, I'll write something about it in the future about other cookbooks.
+
+Jimmy  <br>
+What about cooking-wise? We know that you've already promised to start making artisanal <i>belacan</i>. What else are you planning to do?
+
+Toffa  <br>
+Well, cooking-wise, pretty mundane, I guess. 
+
+Jimmy  <br>
+Are you trying new dishes? Are you trying to stretch yourself?
+
+Toffa  <br>
+I try and experiment with the recipes I find in the old cookbooks, like the Jawi cookbooks we have in the National Library's collection, just to see whether there's been any evolution to the recipes from then till now. I'm not the best cook, but it's really fun to dig out recipes from the past and just try them out and see what people ate in the past, or tasted.
+
+Jimmy  <br>
+Thank you for for talking to us about <i>belacan</i>. At this part of the podcast, we ask all our guests the same bunch of questions. So we're gonna ask you these questions as well. Who is, in your opinion, the coolest person in Singapore history?
+
+Toffa  <br>
+I would love to meet and talk to Siti Radhiah. I wrote the article, a bit about her biography. It's based on records and accounts, but it would be really nice to have an interview with her. But she's of course passed on.
+
+Jimmy  <br>
+Have you ever met any of her children? 
+
+Toffa  <br>
+No, not yet. 
+
+Jimmy  <br>
+Someday. I'm sure they will be listening to this podcast, and they will.
+
+Toffa  <br>
+I hope so. Hello. Hello there.
+
+Jimmy  <br>
+Shout out to the descendants of Siti Radhiah. Toffa would like a word or two with you because she'd like to know more about Siti Radhiah. Which historical figure would you like to have dinner with who isn't Siti Radhiah? 
+
+Toffa  <br>
+Okay, so my idea is like a dinner party with a bunch of cookbook writers from the past. I'm not sure whether some of them are still around. I think some of them are. But cookbook writers like Zarinah Anwar, who wrote The MPH Cookbook in the late 1970s – a really, really important cookbook, I believe, in Singapore's cookbook history.
+
+Jimmy  <br>
+Why is it important?
+
+Toffa  <br>
+It had really a lot of beautiful photos. It was a whole production that came about from the publisher and the author, and also included photographs from Chua Soo Bin, who is a renowned photographer.
+
+Jimmy  <br>
+Oh? Was this in English or in Malay?
+
+Toffa  <br>
+It's in English. It had recipes from different cultures in Singapore. It's not a new concept, because in the past people had cookbooks about recipes from Singapore, from Malay cuisine, Chinese, Eurasian and Indian cuisine, but I feel like it's one of the cookbooks post-independence that I would consider as important. And of course not only Zarinah Anwar; I would love to have Azah Aziz, who was a journalist with <i>Berita Harian</i> at some point. She wrote the women's column, and she wrote a lot about food. An interesting fact about her is that last year in August, Google Doodles featured her.
+
+Jimmy  <br>
+Oh, she is so famous that Google Doodles featured her. Why? What was the occasion that they featured her?
+
+Toffa  <br>
+Because she's an important figure in the preservation of Malay tradition and culture.
+
+Jimmy<br>
+Because of her cookbook?
+
+Toffa <br>
+Oh, no. As far as I know, she didn't have a cookbook. I'm not sure. But she wrote about Malay culture, from traditions related to cuisine, to clothes, to every aspect of Malay culture.
+
+Jimmy  <br>
+Okay. What are you reading now?
+
+Toffa  <br>
+I'm reading a book called [<i>The Guest Cat</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200192883).
+
+Jimmy  <br>
+<i>The Guest Cat</i>.
+
+Toffa  <br>
+It's a Japanese book that's been translated into English.
+
+Jimmy  <br>
+Who's the author? You can't remember.
+
+Toffa  <br>
+Takashi Hiraide. If I'm pronouncing it correctly.
+
+Jimmy  <br>
+It's literature? 
+
+Toffa  <br>
+It's literature. It's about a Tokyo couple who's living a very routine life, and then one day a cat comes into their lives and makes their lives very interesting. Things like that. It's just a story of the impermanence and the transient nature of encounters and things like that. It's quite sad because it reminded me of my cat.
+
+Jimmy  <br>
+Oh, I'm sorry. Do you still have cats? 
+
+Toffa  <br>
+I would love to have more cats in the future.
+
+Jimmy  <br>
+More cats in the future. Okay. Are you a fan of Murakami? 
+
+Toffa  <br>
+Yes, I am. I haven't read all his books. 
+
+Jimmy  <br>
+What is your favourite Murakami?
+
+Toffa  <br>
+[<i>The Wind-Up Bird Chronicle</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203986749). 
+
+Jimmy  <br>
+That's mine!
+
+Toffa  <br>
+That was the first Murakami book I read, and it blew my mind.
+
+Jimmy  <br>
+Same. 
+
+Toffa  <br>
+I really have a soft spot for it. I read other Murakamis, but that book is such a long book.
+
+Jimmy  <br>
+Yes, I can't imagine that I actually wanted to read every page.
+
+Toffa  <br>
+Yeah, it was so good.
+
+Jimmy  <br>
+Yeah. I love <i>The Wind-Up Bird Chronicle</i>. Complete the sentence: history is...
+
+Toffa  <br>
+Fun. It's a lot of digging through documents, records. And the more you find, the more interesting but complicated the narrative becomes, but I think that's what's fun about history.
+
+Jimmy  <br>
+BiblioAsia is...
+
+Toffa  <br>
+Worth reading.
+
+Jimmy  <br>
+I think so, but, you know, I'm a bit biased.
+
+Toffa  <br>
+BiblioAsia is great, because you have so many different stories about Singapore and the region that may not be picked up by mainstream media, or topics that are not as common in other forms of media.
+
+Jimmy  <br>
+Okay. All right, thank you very much, Toffa, for joining us today on BiblioAsia+. We're very pleased to have you today. To learn more about <i>belacan</i> and the history of <i>belacan</i> in Singapore, please check out [Toffa's article]([https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/) on the BiblioAsia website at BiblioAsia.gov.sg. Thank you, Toffa. 
+
+Toffa  <br>
+Thanks! 
+
+Jimmy  <br>
+If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/#!/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
