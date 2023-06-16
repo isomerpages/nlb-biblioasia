@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Episode 3/Transcript.md
       - Episode 3/The Forgotten Murals of Paya Lebar Airport.md
       - Episode 3/.keep
       - BiblioAsia.md
