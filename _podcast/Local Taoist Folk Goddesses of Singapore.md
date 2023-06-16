@@ -6,17 +6,14 @@ description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses whose
   origins and looks at their worship today.
 image: /images/Podcast/ep 2 (folk by yi-sheng) teaser.jpg
 ---
-### Coming  20 June ###
-#### **Episode Summary** ####
-Maiden Lin, Maiden Lei and Maiden Huang are local goddesses whose legends begin in Singapore. Award-winning writer Ng Yi-Sheng dives into their origins and looks at their worship today.   
-
-Ng Yi-Sheng is a poet, fictionist, playwright and researcher. His books include the debut poetry collection <i>last boy</i>, <i>A Book of Hims</i> and <i>Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.
-
+Maiden Lin, Maiden Lei and Maiden Huang are local goddesses whose legends began in Singapore. Award-winning writer Ng Yi-Sheng dives into their origins and looks at their worship today.   
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MHlfQWEyNJQ" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
-#### **Teaser clip** ####
+#### **About the Guest** ####
+Ng Yi-Sheng is a poet, fictionist, playwright and researcher. His books include the debut poetry collection <i>last boy</i>, <i>A Book of Hims</i> and <i>Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.
 
 
 #### **Resources** ####
