@@ -37,7 +37,7 @@ Toffa   <br>
 <i>Udang geragau</i> goes by different names like <i>udang pepai</i>. It's a really, really small type of shrimp. 
 
 Jimmy   <br>
-Okay, let me ask you: the <i>udang geragau</i>... Is that the same <i>udang</i> that we can see in the <i>cincalok</i> bottle?
+Okay, let me ask you about the <i>udang geragau</i>. Is that the same <i>udang</i> that we can see in the <i>cincalok</i> bottle?
 
 Toffa   <br>
 Yes. In <i>cincalok</i>, the prawn or the shrimp are whole. You can see the tiny... 
@@ -58,7 +58,7 @@ Jimmy  <br>
 Is <i>belacan</i> very common in Southeast Asian cuisine?
 
 Toffa  <br>
-<i>Belacan</i> is a common flavouring agent. So in Southeast Asian cuisine... In Thailand, you wouldn't use the term <i>belacan</i>, you would use the term, <i>kapi</i>. In Indonesia, you would use 'terasi', although some parts do use the word <i>belacan</i>. In Myanmar, <i>ngapi seinsa</i> refers to shrimp paste specifically. Like I said, <i>ngapi</i> is an all-encompassing term that refers to different types of fermented fish products. In Southeast Asian cuisine, it is usually used as a flavouring agent to flavour curries, stews. But in Singapore's context, you have different kinds of sambal. You have your <i>sambal belacan</i>, which is simply made from toasted and pounded <i>belacan</i> that is mixed with chilies, some kind of acid like lime juice, salt and sugar. So sambal <i>belacan</i> also has counterparts in other parts of Southeast Asia, like the <i>nam prik kapi</i>, which is a Thai version.
+<i>Belacan</i> is a common flavouring agent. In Thailand, you wouldn't use the term <i>belacan</i>, you would use the term, <i>kapi</i>. In Indonesia, you would use "terasi", although some parts do use the word <i>belacan</i>. In Myanmar, <i>ngapi seinsa</i> refers to shrimp paste specifically. Like I said, <i>ngapi</i> is an all-encompassing term that refers to different types of fermented fish products. In Southeast Asian cuisine, it is usually used as a flavouring agent to flavour curries, stews. But in Singapore's context, you have different kinds of sambal. You have your <i>sambal belacan</i>, which is simply made from toasted and pounded <i>belacan</i> that is mixed with chilies, some kind of acid like lime juice, salt and sugar. So sambal <i>belacan</i> also has counterparts in other parts of Southeast Asia, like the <i>nam prik kapi</i>, which is a Thai version.
 
 Jimmy  <br>
 Okay. Why is <i>belacan</i> or fermented shrimp paste used as a flavouring agent? What is special about it that makes it so popular?
@@ -100,7 +100,7 @@ Jimmy  <br>
 Yes, in Singapore.
 
 Toffa  <br>
-You can find it.... It's a integral, essential ingredient in nonya laksa. 
+It's a integral, essential ingredient in nonya laksa. 
 
 Jimmy  <br>
 Oh, no wonder I like that.
@@ -112,13 +112,13 @@ Jimmy  <br>
 Another one of my favourites. I seem to be liking all these foods that have <i>belacan</i> in it.
 
 Toffa  <br>
-Yeah, some people don't know that these foods have <i>belacan</i> in it...
+Yeah, some people don't know that these foods have <i>belacan</i> in it.
 
 Jimmy  <br>
-Because it's not stated, right? I mean, <i>sambal belacan</i> you know, but <i>asam pedas</i>... it does not announce it as <i>belacan</i>.
+Because it's not stated, right? I mean, <i>sambal belacan</i> you know, but <i>asam pedas</i> does not announce itself as <i>belacan</i>.
 
 Toffa  <br>
-Sometimes your satay sauce... Some people like to add a bit of <i>belacan</i> to give that added richness, the umami taste to the satay sauce.
+Sometimes your satay sauce. Some people like to add a bit of <i>belacan</i> to give that added richness, the umami taste to the satay sauce.
 
 Jimmy  <br>
 Okay, so this is what I need to do when I cook then. I need to start using <i>belacan</i> more.
@@ -130,7 +130,7 @@ Jimmy
 I've never cooked with <i>belacan</i>, I have to confess. But now that I've heard all this, I will be trying and I will warn my neighbours about it. Okay, so it's very common in regional cuisine, but people who encounter it for the first time typically don't have a particularly positive reaction. In your BiblioAsia article on <i>belacan</i>, you mention quite well-known names like Hugh Clifford and John Crawfurd, who do not have very positive things to say about <i>belacan</i>. Why is that?
 
 Toffa  <br>
-Most of these are travelogues written by colonial administrators who travelled across the Malay Peninsula, for instance. They travelled by the waterways, the riverine areas; they visited villages along the coast, along the riverbanks. In Myanmar, they would visit villages along the Irrawaddy River. These are places where one would encounter the production of <i>belacan</i>, or ngapi. The smell was so strong that some of them would write, "I could smell it from afar. Before I see the village. I smell the village first." I think because <i>belacan</i> is a curiosity for them... And they're also writing to audiences back home who may not know what <i>belacan</i> is. So it's also an account of things they encounter.
+Most of these are travelogues written by colonial administrators who travelled across the Malay Peninsula, for instance. They travelled by the waterways, the riverine areas; they visited villages along the coast, along the riverbanks. In Myanmar, they would visit villages along the Irrawaddy River. These are places where one would encounter the production of <i>belacan</i>, or ngapi. The smell was so strong that some of them would write, "I could smell it from afar. Before I see the village. I smell the village first." I think because <i>belacan</i> is a curiosity for them. And they're also writing to audiences back home who may not know what <i>belacan</i> is. So it's also an account of things they encounter.
 
 Jimmy  <br>
 That's unusual. Is it true that Munshi Abdullah also described <i>belacan</i> as <i>makanan yang busuk-busuk</i>?
@@ -187,7 +187,7 @@ Toffa  <br>
 Yes, it's like a pinkish grey. Those are made from <i>udang geragau</i>.
 
 Jimmy  <br>
-What about the history of <i>belacan</i> making in Singapore? That's something you've researched and you talk about in your BiblioAsia article as well. Singapore actually... obviously doesn't anymore, but used to make <i>belacan</i>. Or there were people in Singapore who used to make <i>belacan</i>.
+What about the history of <i>belacan</i> making in Singapore? That's something you've researched and you talk about in your BiblioAsia article as well. Singapore obviously doesn't anymore but there were people in Singapore who used to make <i>belacan</i>.
 
 Toffa  <br>
 There would always be people in the past who made <i>belacan</i> because they lived by the coast. They lived by rivers, estuaries, where there's an abundance of <i>udang geragau</i>. And because of the lack of refrigeration in the past, people had to ferment or preserve their foods. It is something that, I would say, came naturally to people as long as they had access to salt and the raw material. The industry in Singapore wasn't as popular as the Melaka or Penang <i>belacan</i> production industry. Of course, in other parts of British Malaya, from Terranganu to Pahang, to Johor even, they also produced their own versions of <i>belacan</i>. But Singapore was better known as a distribution centre or an entrepot for <i>belacan</i> in this region.
@@ -208,7 +208,7 @@ Jimmy  <br>
 This was the mid-19th century, right?
 
 Toffa  <br>
-Yes. <i>belacan</i> was considered an offensive and dangerous trade. Other trades that were considered offensive or dangerous, basically a nuisance to the public, were things that emitted a lot of smells or noise. You had sago manufacture, you had boiling offal, you had kilns. Those were considered offensive and dangerous trades. And <i>belacan</i> was considered one of them. I would assume from the smell that would have emanated from the <i>belacan</i> stores and factories... Within the municipality, you would need a licence to operate. You would register for an annual licence. Without a licence, you would be fined. There were people who tried to not apply for licences. 
+Yes. <i>belacan</i> was considered an offensive and dangerous trade. Other trades that were considered offensive or dangerous, basically a nuisance to the public, were things that emitted a lot of smells or noise. You had sago manufacture, you had boiling offal, you had kilns. Those were considered offensive and dangerous trades. And <i>belacan</i> was considered one of them. I would assume from the smell that would have emanated from the <i>belacan</i> stores and factories. Within the municipality, you would need a licence to operate. You would register for an annual licence. Without a licence, you would be fined. There were people who tried to not apply for licences. 
 
 Jimmy  <br>
 Save some money. 
@@ -226,7 +226,7 @@ Jimmy  <br>
 Was this in the 19th or 20th century? 
 
 Toffa  <br>
-This was in the early 20th century to the mid-20th century. You can find records in the National Archives of Singapore, maps of the Kallang Basin area that had... In that whole area, you had timber yards, a lot of other offensive and dangerous trades: sago factories, soap making, tanneries. Those were all the different trades that would congregate in this area because it was allocated, in a way, for industry. From the maps, I could find three <i>belacan</i> factories around the Kallang Basin area. Two of them were actually shown. What I could see, parts of it were over water. So the maps are like an aerial kind of drawing, but you could see that parts of it were in the river itself. So I assume that they were on stilts. The fishermen would have come to these factories with their load of <i>udang geragau</i>. In these factories they would then process and manufacture <i>belacan</i>. There was also a wooden platform that was attached to these factories, which I assume would have been used for drying and laying out <i>belacan</i>.
+This was in the early 20th century to the mid-20th century. You can find records in the National Archives of Singapore, maps of the Kallang Basin area. In that whole area, you had timber yards, a lot of other offensive and dangerous trades: sago factories, soap making, tanneries. Those were all the different trades that would congregate in this area because it was allocated, in a way, for industry. From the maps, I could find three <i>belacan</i> factories around the Kallang Basin area. Two of them were actually shown. What I could see, parts of it were over water. So the maps are like an aerial kind of drawing, but you could see that parts of it were in the river itself. So I assume that they were on stilts. The fishermen would have come to these factories with their load of <i>udang geragau</i>. In these factories they would then process and manufacture <i>belacan</i>. There was also a wooden platform that was attached to these factories, which I assume would have been used for drying and laying out <i>belacan</i>.
 
 Jimmy  <br>
 We don't make a lot of <i>belacan</i> now, or if any, presumably. But there have been some records or newspaper records of <i>belacan</i> making up till the 1980s or something, right?
@@ -244,7 +244,7 @@ Jimmy  <br>
 This was the 1950s. As late as the 1980s as well, right?
 
 Toffa  <br>
-Yeah, in the 1980s as well, around the area of Tampines. But of course you have people making <i>belacan</i> along the coasts of Siglap, Seletar, perhaps... 
+Yeah, in the 1980s as well, around the area of Tampines. But of course you have people making <i>belacan</i> along the coasts of Siglap, Seletar, perhaps. 
 
 Jimmy  <br>
 Anywhere where people were living and you could get the <i>udang geragau</i>.
@@ -277,10 +277,10 @@ Toffa  <br>
 No, I think I'm mainly concerned about the smell. And I'm not sure how to sun it outside my house without my neighbours complaining. I also don't want the flies to come. You need to keep a close watch in case flies come.
 
 Jimmy  <br>
-Do you think this would be something hipsters will do? You know how hipsters make their own coffee... They roast it properly. So do you think that someday there'll be hipster <i>belacan</i>?
+Do you think this would be something hipsters will do? You know how hipsters make their own coffee. They roast it properly. So do you think that someday there'll be hipster <i>belacan</i>?
 
 Toffa  <br>
-Like an artisanal <i>belacan</i>? Now you have like people reviving making tempeh, which is also a fermented product. Because there's an art and science to it, right?. But I don't know, maybe because <i>belacan</i>... Okay, tempeh is also very cheap in the supermarket. But maybe soybeans are easier to find, easier to handle. Not so much smell, so it's not so intimidating.
+Like an artisanal <i>belacan</i>? Now you have like people reviving making tempeh, which is also a fermented product. Because there's an art and science to it, right? But I don't know. Tempeh is also very cheap in the supermarket. But maybe soybeans are easier to find, easier to handle. Not so much smell, so it's not so intimidating.
 
 Jimmy  <br>
 But I think if anyone can lead the charge towards artisanal <i>belacan</i>, Toffa, it will be you.
@@ -304,25 +304,25 @@ Jimmy  <br>
 It was a paste? 
 
 Toffa  <br>
-It's very complicated. If you want to find out more, you should read Sally Grainger's book, [<i>The Story of Garum</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569). But researchers have different perspectives of what garum is, its composition... It also had different names in different eras of history. And different names could also mean a different composition. So it's hard to really pinpoint what garum was, whether it's a fish sauce, a fish paste, or is it both. Essentially, it's a fermented fish product.
+It's very complicated. If you want to find out more, you should read Sally Grainger's book, [<i>The Story of Garum</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569). But researchers have different perspectives of what <i>garum</i> is, its composition. It also had different names in different eras of history. And different names could also mean a different composition. So it's hard to really pinpoint what garum was, whether it's a fish sauce, a fish paste, or is it both. Essentially, it's a fermented fish product.
 
 Jimmy  <br>
 So this idea of a fermented fish or thing. Note my incredible vocabulary. It's not just a Southeast Asian thing? You could also find it in the Mediterranean, for example.
 
 Toffa  <br>
-There are also people who thought that... Would <i>garum</i> and variations of <i>belacan</i>, <i>terasi</i> or <i>ngapi</i>... Was there a connection? Was there a trade? A migration of cultures and food practices? But there's no evidence that actually shows the connection, so it could have developed totally differently in different parts of the world.
+There are also people who thought if there was a connection among <i>garum</i> and variations of <i>belacan</i>, <i>terasi</i> or <i>ngapi</i>. Was there a trade? A migration of cultures and food practices? But there's no evidence that actually shows the connection, so it could have developed totally differently in different parts of the world.
 
 Jimmy  <br>
-Thank you very much. I mean, that was a very interesting tour into the history of <i>belacan</i>. Actually, I just want to ask you one more thing about <i>belacan</i>. You mentioned something in your BiblioAsia article about some... Not controversy. There was a scandal, a <i>belacan</i> scandal. 
+Thank you very much. I mean, that was a very interesting tour into the history of <i>belacan</i>. Actually, I just want to ask you one more thing about <i>belacan</i>. You mentioned something in your BiblioAsia article about a scandal, a <i>belacan</i> scandal. 
 
 Toffa  <br>
-I'm using the word "scandal" because that's how I look at it. But yeah, there was a controversy about <i>belacan</i> in the 1970s. It came out in the newspapers, the Malay newspapers, the English ones as well... about Rhodamine B, which is a substance used in the production of <i>belacan</i> to give it a reddish hue. And the controversy is that it was found to be carcinogenic, meaning it can cause cancer in the long run. So there were samples taken to study the different varieties of <i>belacan</i> found in Singapore, most of which came from Melaka and Penang. Even the Malaysian authorities had to look into it. The health ministry was involved in Singapore, the Consumers Association was involved.
+I'm using the word "scandal" because that's how I look at it. But yeah, there was a controversy about <i>belacan</i> in the 1970s. It came out in the newspapers, the Malay newspapers, the English ones as well, about Rhodamine B, which is a substance used in the production of <i>belacan</i> to give it a reddish hue. And the controversy is that it was found to be carcinogenic, meaning it can cause cancer in the long run. So there were samples taken to study the different varieties of <i>belacan</i> found in Singapore, most of which came from Melaka and Penang. Even the Malaysian authorities had to look into it. The health ministry was involved in Singapore, the Consumers Association was involved.
 
 Jimmy<br>
 It sounds like they were trying to leverage the fact that people really wanted the pink or red <i>belacan</i>.
 
 Toffa <br>
-Yes, there was a market for pinkish, reddish <i>belacan</i>. Because apparently it's supposed to look more appealing than a black, dark-coloured <i>belacan</i>. That's why the manufacturers would dye it. The process of dying apparently is... After you form your <i>belacan</i>, you dip it in a dye to give it that beautiful...
+Yes, there was a market for pinkish, reddish <i>belacan</i>. Because apparently it's supposed to look more appealing than a black, dark-coloured <i>belacan</i>. That's why the manufacturers would dye it. After you form your <i>belacan</i>, you dip it in a dye to give it that beautiful...
 
 Jimmy  <br>
 Pink glow. 
@@ -367,7 +367,7 @@ Toffa  <br>
 No, not yet. 
 
 Jimmy  <br>
-Someday. I'm sure they will be listening to this podcast, and they will...
+Someday. I'm sure they will be listening to this podcast, and they will.
 
 Toffa  <br>
 I hope so. Hello. Hello there.
@@ -457,7 +457,7 @@ Toffa  <br>
 I really have a soft spot for it. I read other Murakamis, but that book is such a long book.
 
 Jimmy  <br>
-Yes, I can't imagine that I actually... but I wanted to read every page.
+Yes, I can't imagine that I actually wanted to read every page.
 
 Toffa  <br>
 Yeah, it was so good.
