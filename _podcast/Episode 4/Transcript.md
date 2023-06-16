@@ -9,7 +9,7 @@ third_nav_title: Episode 4
 Jimmy   <br>
 You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
 
-Vile, disgusting, nauseating. In particular, food from Southeast Asia has been called all these things, and worse. They aren't referring to the durian, though. Instead, these terms have been levelled at something else altogether: a beloved condiment widely used in Southeast Asian cooking. 
+Vile, disgusting, nauseating. In particular, a food from Southeast Asia has been called all these things, and worse. They aren't referring to the durian, though. Instead, these terms have been levelled at something else altogether: a beloved condiment widely used in Southeast Asian cooking. 
 
 My name is Jimmy Yap, and I'm the editor-in-chief of BiblioAsia, a publication of the National Library of Singapore. Today, we're talking about the umami bomb known around these parts as <i>belacan</i>. Made from fermented shrimp, <i>belacan</i> is a must-have ingredient in many Malay, Peranakan and Eurasian dishes. It's also used in Thai, Vietnamese, Lao and Khmer cooking. Despite the fact that <i>belacan</i> is a common ingredient in this region, and has been for centuries, making it, trading it or even just storing it has not been straightforward. This is mainly because the smell produced during the process of making <i>belacan</i> is perhaps best described as "memorable". 
 
