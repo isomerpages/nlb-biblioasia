@@ -11,10 +11,11 @@ During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QdzUTGMl4KQ" height="315" width="560"></iframe>
 
-Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
-
 #### **Listen to the Full Episode** ####
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
+
+#### **About the Guest** ####
+Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
 
 #### **Resources** ####
 Shirlene Noordin, “[My Grandfather Was a Rōmusha]( https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway),” <i>BiblioAsia</i> 18, no. 3 (2016). 
