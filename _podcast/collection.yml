@@ -2,12 +2,6 @@ collections:
   podcast:
     output: true
     order:
-      - Episode 4/Transcript.md
-      - "Episode 4/Belacan: Caviar or Vile?.md"
-      - Episode 4/.keep
-      - Episode 3/.keep
-      - Episode 3/The Forgotten Murals of Paya Lebar Airport.md
-      - Episode 3/Transcript.md
       - BiblioAsia.md
       - Episode 1/.keep
       - Episode 1/My Grandfather Was a Rōmusha.md
@@ -15,3 +9,9 @@ collections:
       - Episode 2/.keep
       - Episode 2/Taoist Folk Goddesses of Singapore.md
       - Episode 2/Transcript.md
+      - Episode 3/.keep
+      - Episode 3/The Forgotten Murals of Paya Lebar Airport.md
+      - Episode 3/Transcript.md
+      - Episode 4/.keep
+      - Episode 4/Transcript.md
+      - "Episode 4/Belacan: Caviar or Vile?.md"
