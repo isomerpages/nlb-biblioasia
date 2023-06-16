@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - BiblioAsia.md
-      - My Grandfather Was a Rōmusha/.keep
-      - My Grandfather Was a Rōmusha/My Grandfather Was a Rōmusha.md
-      - My Grandfather Was a Rōmusha/Transcript.md
+      - Episode 1/.keep
+      - Episode 1/My Grandfather Was a Rōmusha.md
+      - Episode 1/Transcript.md
       - Taoist Folk Goddesses/.keep
       - Taoist Folk Goddesses/Taoist Folk Goddesses of Singapore.md
       - Taoist Folk Goddesses/Transcript.md
