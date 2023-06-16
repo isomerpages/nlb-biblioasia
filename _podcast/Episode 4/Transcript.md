@@ -477,11 +477,10 @@ Toffa
 BiblioAsia is great, because you have so many different stories about Singapore and the region that may not be picked up by mainstream media, or topics that are not as common in other forms of media.
 
 Jimmy  
-Okay. All right, thank you very much, Toffa, for joining us today on BiblioAsia+. We're very pleased to have you today. To learn more about <i>belacan</i> and the history of <i>belacan</i> in Singapore, please check out (Toffa's article)[https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/] on the BiblioAsia website at BiblioAsia.gov.sg. Thank you, Toffa. 
+Okay. All right, thank you very much, Toffa, for joining us today on BiblioAsia+. We're very pleased to have you today. To learn more about <i>belacan</i> and the history of <i>belacan</i> in Singapore, please check out [Toffa's article]([https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/) on the BiblioAsia website at BiblioAsia.gov.sg. Thank you, Toffa. 
 
 Toffa  
 Thanks! 
 
 Jimmy  
 If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/#!/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
- 
