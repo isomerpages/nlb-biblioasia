@@ -36,10 +36,10 @@ They came and they wanted to recruit my great-granduncle, being the chief mechan
 Jimmy <br>
 So he went to Thailand, he worked on a railway, doing various things which you're going to talk about later. When did he come back?
 
-Shirlene 
+Shirlene <br>
 He came back at the end of the war. And this was a surprise to my grandmother. A surprise, and yet not a surprise, because she waited for him. He was gone all those years. Obviously there was no postcard from him. But she waited. I think it was just about three years. She never remarried. She kind of, I guess, had this hope that he would come back. So it was a surprise. And yet again, not a surprise.
 
-Jimmy  
+Jimmy  <br>
 The war ended in August 1945. So he must have come back...
 
 Shirlene   <br>
