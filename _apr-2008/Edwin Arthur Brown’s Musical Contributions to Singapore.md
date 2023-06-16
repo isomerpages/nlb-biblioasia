@@ -49,7 +49,79 @@ In 1941, when World War II broke out, people were evacuating to leave Singapore.
 
 In early April, his granddaughter Margaret Caldicott was at the National Library to give a talk on E.A Brown at a more personal level. The Local History Service under the Singapore Information Services (SIRS) provided Ms Caldicott with the research service.
 
+#### **REFERENCES**
 
+#### **BOOKS**
+
+Edwin A. Brown, [_Indiscreet Memories: 1901 Singapore Through the Eyes of a Colonial Englishman_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12906531) (Singapore: Monsoon Books, 2007. (Call no. RSING 959.5703 BRO-\[HIS\])
+
+Kevin Tan, [_Scouting in Singapore 1910–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11866534) (Singapore Scout Association: National Archivers of Singapore, 2002). (Call no. RSING q369.43095957 TAN)
+
+[_Malayan Directory of Commerce, Retailers & Residents_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980637) (Singapore: W. L. Collins for the Advertising & Publicity Bureau, 1936), 9, 24. (Call no. RRARE 382.09595 MAL; microfilm no. NL3648)
+
+Paul Abishegenaden, [_Notes Across the Years: Anecdotes From a Musical Life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654614) (Singapore: Unipress, 2005). (Call no. RSING 784.2092 ABI)
+
+T. M. Winsley, [_A History of the Singapore Volunteer Corps 1854–1937_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182615) (Singapore: Govt.f Print. Off., 1938). (Call no. RCLOS 355.23 WIN)  
+  
+Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718), vol. 2. (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57 ONE-\[HIS\])
+
+#### **DATABASE**
+
+J. Tryner. “Music in Singapore,” _The Musical Times_ 73, no. 1078 (December 1932): 1119–120. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+#### **NEWSPAPER ARTICLES**
+
+“[A Successful Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030914-1.2.3),” _Straits Times_, 14 September 1903, 1. (From NewspaperSG)
+
+ “[Amateur Theatricals: Triple Bill at the Town Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020321-1.2.55),” _Straits Times_, 21 March 1902, 5. (From NewspaperSG)
+
+“[Amateur Theatrical Trailers: The Triple Bill at Town Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020322-1.2.36),” _Straits Times_, 22 March 1902, 5. (From NewspaperSG)
+
+“[Arrival of the Prince](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220331-1.2.40),” _Straits Times_, 31 March 1992, 9. (From NewspaperSG)
+
+“[Choral & Orchestral Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020319-1.2.24),” _Straits Times_, 19 March 1902, 4. (From NewspaperSG)
+
+“[E. N.Taylor, “Heifetz vs. Brown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19311229-1.2.88.1),” _Straits Times_, 29 December 1931, 17. (From NewspaperSG)
+
+E. A. Brown, “[An Open Letter to Jascha Heifetz](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19311227-1.2.3),” _Straits Times_, 27 December 1931, 1. (From NewspaperSG)
+
+“[For the Cadet Corps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020620-1.2.32),” _Straits Times_, 20 June 1902, 4. (From NewspaperSG)
+
+“[Marquardt Concert Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020118-1.2.11),” _Straits Times_, 18 January 1902, 4. (From NewspaperSG)
+
+“[Musical Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320126-1.2.76),” _Straits Times_, 26 January 1932, 12. (From NewspaperSG)
+
+“[Page 1 Advertisements Column 4: Amateur Performance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020611-1.2.2.4),” _Straits Times_, 11 June 1902, 5. (From NewspaperSG)
+
+“[Page 5 Advertisements Column 1: Amateur Performance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020619-1.2.73.1),” _Straits Times_, 19 June 1902, 5. (From NewspaperSG)
+
+“[Philharmonic Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19010902-1.2.23),” _Straits Times_, 2 September 1901, 2. (From NewspaperSG)
+
+“[Salzmann Complimentary Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020210-1.2.61),” _Straits Times_, 10 February 1902, 5. (From NewspaperSG)
+
+“[Singapore Cadet Corps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020623-1.2.62),” _Straits Times_, 23 June 1902, 5. (From NewspaperSG)
+
+“[Singapore Cadet Corps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020621-1.2.49),” _Straits Times_, 21 June 1902, 5. (From NewspaperSG)
+
+“[Singapore Musical Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320305-1.2.81),” _Straits Times_, 5 March 1932, 12. (From NewspaperSG)
+
+“[Singapore Musical Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320123-1.2.72),” _Straits Times_, 23 January 1932, 12. (From NewspaperSG)
+
+“[Singapore Philharmonic Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19010731-1.2.33),” _Straits Times_, 31 July 1901, 3. (From NewspaperSG)
+
+“[St Andrew’s Eve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021201-1.2.46),” _Straits Times_, 1 December 1902, 4. (From NewspaperSG)
+
+“[‘Sullivan’s Memorial Concert’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19011126-1.2.40),” _Straits Times_, 26 November 1901, 2. (From NewspaperSG)
+
+“[Symphony Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320120-1.2.79),” _Straits Times_, 20 January 1932, 12. (From NewspaperSG)
+
+“[The Cadet Corps Benefit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020611-1.2.23),” _Straits Times_, 11 June 1902, 5. (From NewspaperSG)
+
+“[The King’s Birthday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021112-1.2.42),” _Straits Times_, 12 November 1902, 5. (From NewspaperSG)
+
+“[The Marquadt Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020117-1.2.54),” _Straits Times_, 17 January 1902, 5. (From NewspaperSG)
+
+“[The Marquadt Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020217-1.2.39),” _Straits Times_, 17 February 1902, 4. (From NewspaperSG)
 
 
 
