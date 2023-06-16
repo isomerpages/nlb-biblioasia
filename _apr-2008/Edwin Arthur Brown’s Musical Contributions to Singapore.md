@@ -24,8 +24,6 @@ Unlike the National Library, the NAS has birth and death records and other natio
 
 Directories formed the backbone of the search and are thus indispensable to queries dating in the early period. One such directory is the *Malayan Directory of Commerce, Retailers &amp; Residents* (1936). Some of the more informative and revealing accounts regarding E.A Brown are biographies such as *I Will Sing To The End*, written by Ian Macleod and *Notes Across The Years: Anecdotes from a musical life* by Paul Abisheganaden. Ian’s father, Major Donald G Macleod was E.A Brown’s business partner during the rubber boom of 1918 onwards. They were also committed to Singapore’s defence as volunteers for the Singapore Volunteer Corps and were actively involved in the St Andrew’s Cathedral musical activities. Paul Abisheganaden, on the other hand, is Singapore’s musical brilliance, and was a student of E.A Brown in the earlier period of his life. He remembers Brown’s significant contributions to choral music in the society.
 
-![](/images/Vol%204%20Issue%201/EdwinBrown/indiscreet%20memories.jpg)
-
 <img src="/images/Vol%204%20Issue%201/EdwinBrown/indiscreet%20memories.jpg" style="width:50%;">
  <div style="background-color: white;"> <i>All rights reserved, Kelly &amp; Walsh, 1935.</i></div>
 
