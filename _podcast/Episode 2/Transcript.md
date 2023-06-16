@@ -39,10 +39,10 @@ Yi-Sheng  <br>
 Along Kampong Henderson, on Henderson road.
 
 Jimmy  <br>
-Then after that... worshipped presumably mainly by the people who lived in the kampong?
+Then after that, the shrine was worshipped presumably mainly by the people who lived in the kampong?
 
 Yi-Sheng  <br>
-Yes. Although it seems that her story was passed around... Even my mother who lived in the north of Singapore at Hylam Sua... She said her mum had heard of Lin Guniang [Maiden Lim] and there was a different story claiming that she had suffered sexual violence. That's all she was able to tell. There are probably quite a few other Lin Guniang stories floating around.
+Yes. Although it seems that her story was passed around. Even my mother who lived in the north of Singapore at Hylam Sua = said her mum had heard of Lin Guniang [Maiden Lim] and there was a different story claiming that she had suffered sexual violence. That's all she was able to tell. There are probably quite a few other Lin Guniang stories floating around.
 
 Jimmy  <br>
 The shrine was here on Henderson Road, but it got moved at some point, right? What's the story behind that?
@@ -54,19 +54,19 @@ Jimmy  <br>
 And this is the 1970s. 
 
 Yi-Sheng  <br>
-Yes. I haven't been able to get a clear, fixed date in the '70s. But we know that in 1977, specifically on the 13th February 1977, something quite dramatic happens. That year, the MP [member of Parliament] for Bukit Merah, Lim Guan Hoo, he collapses from a stroke while at the National Stadium observing a ceremony. A few hours later, the MP for Radin Mas, N. Govindasamy, dies of heart attack in his own home. This is the 13th February 1977 and the wee hours of Valentine's Day 14th February, and it gets reported on Valentine's Day 1977. It's front page...
+Yes. I haven't been able to get a clear, fixed date in the '70s. But we know that in 1977, specifically on the 13th February 1977, something quite dramatic happens. That year, the MP [member of Parliament] for Bukit Merah, Lim Guan Hoo, he collapses from a stroke while at the National Stadium observing a ceremony. A few hours later, the MP for Radin Mas, N. Govindasamy, dies of heart attack in his own home. This is the 13th February 1977 and the wee hours of Valentine's Day 14th February, and it gets reported on Valentine's Day 1977. It's front page.
 
 Jimmy  <br>
 That's what people would say, attributing untimely deaths to the shines' removal.
 
 Yi-Sheng  <br>
-But people get spooked. People in the civil service as well as on the ground... And the caretaker says there were other deaths happening as well. So one thing that happens is this grassroots leader... He decides to move Lin Guniang to the new combined temple that's made out of other temples which have been demolished.
+But people get spooked. People in the civil service as well as on the ground. And the caretaker says there were other deaths happening as well. So one thing that happens is this grassroots leader decides to move Lin Guniang to the new combined temple that's made out of other temples which have been demolished.
 
 Jimmy  <br>
 This is the one in Bukit Merah?
 
 Yi-Sheng  <br>
-Yes, and that's her current place, which is called Zhen Long Gong in Mandarin, or Chin Leng Keng in Hokkien. That's made up of several... Specifically, she's on the altar of Zhen Ren Gong, which is one of the subsidiary temples. They have people bearing the patron god, Baosheng Dadi, on a sedan chair. They go into a trance, and he actually gives his approval in writing by making marks in ashes with this sharp tip on the sedan chair.
+Yes, and that's her current place, which is called Zhen Long Gong in Mandarin, or Chin Leng Keng in Hokkien. Specifically, she's on the altar of Zhen Ren Gong, which is one of the subsidiary temples. They have people bearing the patron god, Baosheng Dadi, on a sedan chair. They go into a trance, and he actually gives his approval in writing by making marks in ashes with this sharp tip on the sedan chair.
 
 Jimmy  <br>
 This is the point where they move the the altar to the new temple?
@@ -78,7 +78,7 @@ Jimmy  <br>
 Let's hope they don't consult her for library fines. Can I find out, what about the other goddesses? You have Maiden Lei as well, right?
 
 Yi-Sheng  <br>
-Lei Niangniang's [Maiden Lei's] story is not clear. What the caretaker says... And Huang Yahong has been there since '74, so he's seen a lot of things. He thinks she's been there from the '50s, but she didn't do anything remarkable with her life. She didn't have a remarkable life story. After she passed away, her spirit was sensed in the kampong – and this is Kampong Henderson as well – so she also got a shrine. 
+Lei Niangniang's [Maiden Lei's] story is not clear. What the caretaker says... and Huang Yahong has been there since '74, so he's seen a lot of things. He thinks she's been there from the '50s, but she didn't do anything remarkable with her life. She didn't have a remarkable life story. After she passed away, her spirit was sensed in the kampong – and this is Kampong Henderson as well – so she also got a shrine. 
 
 Jimmy  <br>
 Oh, she was also from Kampong Henderson.
@@ -90,7 +90,7 @@ Jimmy  <br>
 Tell us about Maiden Huang. That's a third goddess that you write about. What do we know about her? 
 
 Yi-Sheng  <br>
-Huang Guniang, or Ng Kor Niu, lived around Kampong Silat, which was called Gu Ah Sua in Hokkien back then. The story that I got from the Taoist priest Jave Wu's website, which seems have been circulating quite a bit – I'm not sure of its origin – is that she was born in 1866 on the 12th day of the sixth lunar month, and she became a nurse at the Singapore General Hospital. But in the year 1901 she was trying to rescue people in a fire in her kampong. A house collapsed on her and she perished. After that, she had a shrine that was seen in the Heng San Teng temple on Jalan Bukit Merah, and that burned down in 1992. Probably around this time –  although I don't have a clear beginning date –  we saw a shrine to her appear in the Singapore General Hospital area. She actually got a lot of patients and family members of patients who were praying to her. Now, one odd thing is that in 2017 when her shrine at the Singapore General Hospital was being moved, the Xinmin Ribao interviewed a 66-year-old resident of Kampong Silat, and he actually had a very different story. He claimed that she was a woman who had killed herself for love after her family had matchmade her to someone else. That's why her spirit was being worshipped in the... was being pacified in the temple as well. It's unclear which story is true either.
+Huang Guniang, or Ng Kor Niu, lived around Kampong Silat, which was called Gu Ah Sua in Hokkien back then. The story that I got from the Taoist priest Jave Wu's website, which seems have been circulating quite a bit – I'm not sure of its origin – is that she was born in 1866 on the 12th day of the sixth lunar month, and she became a nurse at the Singapore General Hospital. But in the year 1901 she was trying to rescue people in a fire in her kampong. A house collapsed on her and she perished. After that, she had a shrine that was seen in the Heng San Teng temple on Jalan Bukit Merah, and that burned down in 1992. Probably around this time –  although I don't have a clear beginning date –  we saw a shrine to her appear in the Singapore General Hospital area. She actually got a lot of patients and family members of patients who were praying to her. Now, one odd thing is that in 2017 when her shrine at the Singapore General Hospital was being moved, the Xinmin Ribao interviewed a 66-year-old resident of Kampong Silat, and he actually had a very different story. He claimed that she was a woman who had killed herself for love after her family had matchmade her to someone else. That's why her spirit was being pacified in the temple as well. It's unclear which story is true either.
 
 Jimmy  <br>
 Or if any of them is. Maiden Huang's altar is located on the grounds of the Singapore General Hospital, but it's no longer there.
@@ -114,31 +114,31 @@ Jimmy  <br>
 Would you say that these are the some of the better-known ones? Are these the ones just in the south of Singapore?
 
 Yi-Sheng  <br>
-I would say they're better known. That's why Jave Wu, the priest, actually called them the "three immortal maidens of Singapore". Which sounds very nice, but there are a lot. Many of whom we don't seem to have any trace of anymore. I found... Around the '50s, there's documentation of worship of Zhu Guniang. I have visited the shrine of Honghua Guniang in, I think, the Katong area. There have been writeups about figures called Liuxiu Guniang, Caifu Xiaoguniang. There are gods as well. There seems to have been a substantial cult to a teenage boy who died during World War II called Yang Tai Ye. The British press called him Hidden Lad, surprisingly.
+I would say they're better known. That's why Jave Wu, the priest, actually called them the "three immortal maidens of Singapore". Which sounds very nice, but there are a lot. Many of whom we don't seem to have any trace of anymore. Around the '50s, there's documentation of worship of Zhu Guniang. I have visited the shrine of Honghua Guniang in, I think, the Katong area. There have been writeups about figures called Liuxiu Guniang, Caifu Xiaoguniang. There are gods as well. There seems to have been a substantial cult to a teenage boy who died during World War II called Yang Tai Ye. The British press called him Hidden Lad, surprisingly.
 
 Jimmy  <br>
 Did he get hit by lightning or something? 
 
 Yi-Sheng  <br>
-Yeah, I think he did. It's strange because that's not a very dramatic way... that's not a very martyr-like way to die. One thing I've started to realise is that it's not actually the stories of these gods and goddesses which are necessarily so important. The documentation of Zhu Guniang says that she became venerated because when someone set up a shrine to pray to her, he got winning lottery numbers. It's about how effective these gods are. I've been doing personal research about regional worship of folk gods, and there seems to be something quite similar going on with Vietnamese folk gods and goddesses. This emphasis on... not so much on stories, but on: is this god effective? Will this god give you what you want? 
+Yeah, I think he did. It's strange because that's not a very dramatic way, not a very martyr-like way to die. One thing I've started to realise is that it's not actually the stories of these gods and goddesses which are necessarily so important. The documentation of Zhu Guniang says that she became venerated because when someone set up a shrine to pray to her, he got winning lottery numbers. It's about how effective these gods are. I've been doing personal research about regional worship of folk gods, and there seems to be something quite similar going on with Vietnamese folk gods and goddesses. This emphasis on not so much on stories, but on is this god effective? Will this god give you what you want? 
 
 Jimmy  <br>
 It's very practical, right? Presumably the better-known ones are known for being more effective in giving you what you want, whether it's money, whether it's winning lottery numbers or whatever.
 
 Yi-Sheng  <br>
-But it is a chicken-and-egg situation: the more people go, the more success stories you'll hear about. And you will hear out success stories more than... But this is not to say that I don't believe you're effective, Lin Guniang. I still love you.
+But it is a chicken-and-egg situation: the more people go, the more success stories you'll hear about. And you will hear success stories more than... But this is not to say that I don't believe you're effective, Lin Guniang. I still love you.
 
 Jimmy<br>
 Right, okay. As Singapore progresses, is it true that there's less and less worship of local goddesses as people either stop worshipping or they find different religions?
 
 Yi-Sheng  <br>
-Yes and no. The yes is that, unfortunately, Taoism and especially shamanistic Taoist worship is not seen as a very fashionable religion. My father is a baby-boomer generation... He's actually said that he has Christian friends who tell him he's being very old-fashioned for still carrying out Buddhist rituals. But you do have Buddhist revivals now because there is a great international Buddhist scholarly tradition. Even within the Singapore Taoist community, there is this certain sense of... From the scholarship I've read, this desire to make yourself respectable by de-emphasising the shamanistic, the trance, and saying, 'No, we should talk more about the philosophy.' We still have these huge shamanistic Taoist ceremonies like the Nine Emperor Gods Festival. When Chin Leng Keng reopened, there were like 15 spirit mediums there. Ji Gong was there, Guanyin was there, Nezha was there. I saw all these gods coming to inhabit people's bodies in the middle of an HDB estate. Grab drivers were just stopping to stare, and it was fantastic. 
+Yes and no. The yes is that, unfortunately, Taoism and especially shamanistic Taoist worship is not seen as a very fashionable religion. My father is a baby-boomer generation. He's actually said that he has Christian friends who tell him he's being very old-fashioned for still carrying out Buddhist rituals. But you do have Buddhist revivals now because there is a great international Buddhist scholarly tradition. Even within the Singapore Taoist community, there is this certain sense of... From the scholarship I've read, this desire to make yourself respectable by de-emphasising the shamanistic, the trance, and saying, "No, we should talk more about the philosophy." We still have these huge shamanistic Taoist ceremonies like the Nine Emperor Gods Festival. When Chin Leng Keng reopened, there were like 15 spirit mediums there. Ji Gong was there, Guanyin was there, Nezha was there. I saw all these gods coming to inhabit people's bodies in the middle of an HDB estate. Grab drivers were just stopping to stare, and it was fantastic. 
 
 Jimmy  <br>
 When was this again?
 
 Yi-Sheng  <br>
-Oh, just a few months ago. I Instagrammed it. It's a huge procession of lorries going around. People say this is rare. I mean, this is real heartland stuff. The direction we've gone for a long time saying that, "Oh, Singapore has to be about rationality and science. So your religion needs to be backed up by a framework of rationality and science." This doesn't fit into that. But the flipside of that is... What I've told people is that as Singapore, as any society gets richer, more prosperous, more internationally recognised, the more we get proud of the stuff that makes us unique, the more we get proud of the stuff that we used to hide away claiming, "Oh, we don't want the neighbours to see this." Hey, we're already respected, we should be proud of our whole selves.
+Oh, just a few months ago. I Instagrammed it. It's a huge procession of lorries going around. People say this is rare. I mean, this is real heartland stuff. The direction we've gone for a long time saying that, "Oh, Singapore has to be about rationality and science. So your religion needs to be backed up by a framework of rationality and science." This doesn't fit into that. What I've told people is that as Singapore, as any society gets richer, more prosperous, more internationally recognised, the more we get proud of the stuff that makes us unique, the more we get proud of the stuff that we used to hide away claiming, "Oh, we don't want the neighbours to see this." Hey, we're already respected, we should be proud of our whole selves.
 
 Jimmy  <br>
 Thanks for talking to us about this. What are you working on now? Are you doing more research into these gods and goddesses?
@@ -156,7 +156,7 @@ Jimmy  <br>
 Yi-Sheng, thank you for talking to us about the goddesses. At this part of the podcast, what we do is that we ask our guests an identical bunch of questions, and this gives us a sense of who these people are and what they're interested in. So, let me ask you: who do you think is the coolest person in Singapore history?
 
 Yi-Sheng  <br>
-I feel like it's [Habib Noh](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1573_2009-09-25.html). He is, according to folklore, an early-19th-century guy who came over I think from around Penang, probably a Peranakan. He comes to Singapore... They say he works as a clerk, but he goes into religious trances. He takes food from the market and gives it to the poor. And when they put him in jail, he just teleports to Mecca because he's got mystic powers. He's a keramat hidup, a living saint. When he dies, his tomb becomes a site of reverence for people of all races. The Maqam Habib Noh is still there at Tanjong Pagar. I've got friends who have been there to pray for their exam results.
+I feel like it's [Habib Noh](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1573_2009-09-25.html). He is, according to folklore, an early-19th-century guy who came over I think from around Penang, probably a Peranakan. He comes to Singapore. They say he works as a clerk, but he goes into religious trances. He takes food from the market and gives it to the poor. And when they put him in jail, he just teleports to Mecca because he's got mystic powers. He's a keramat hidup, a living saint. When he dies, his tomb becomes a site of reverence for people of all races. The Maqam Habib Noh is still there at Tanjong Pagar. I've got friends who have been there to pray for their exam results.
 
 Jimmy  <br>
 Which historical figure would you like to have dinner with?
@@ -177,7 +177,7 @@ Yi-Sheng  <br>
 I'm reading [<i>African Psycho</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204032021) by the Congolese writer, Alain Mbanckou. I'm probably mispronouncing his name. I have an iPad in my bag because I'm getting my way through all of [William L. Gibson's 1156-page PDF about <i>keramat</i>](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore) in Singapore. Luckily a lot of it is pictures.
 
 Jimmy<br>
-Complete the sentence: history is....
+Complete the sentence: history is...
 
 Yi-Sheng  <br>
 Everything.
@@ -186,7 +186,7 @@ Jimmy<br>
 Good, I like that. BiblioAsia is...
 
 Yi-Sheng <br>
-BiblioAsia is that sweet spot between academic journals and magazines for the masses. You know, I got a PhD... I've published an article about artistic representations of Raffles for <i>Journal of Southeast Asian Studies</i>, and I got approached to do it for BiblioAsia, and I was like, yes, now people will actually read this damn thing. I got to do a very different, perhaps more interesting, take on that. I really do feel like this is important.
+BiblioAsia is that sweet spot between academic journals and magazines for the masses. You know, I got a PhD. I've published an article about artistic representations of Raffles for <i>Journal of Southeast Asian Studies</i>, and I got approached to do it for BiblioAsia, and I was like, yes, now people will actually read this damn thing. I got to do a very different, perhaps more interesting, take on that. I really do feel like this is important.
 
 Jimmy  <br>
 For everyone who's interested in learning more about what Yi-Sheng has written about the homegrown goddesses of Singapore, please check out Yi-Sheng's article, "[Maiden Lim and Her Sisters](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/)" on the BiblioAsia website at BiblioAisa.nlb.gov.sg. Thank you very much, Yi-Sheng, for joining us today. If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/#!/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
