@@ -7,17 +7,14 @@ description: Three large murals used to grace the walls of Paya Lebar Airport,
   fate of her father’s mural.
 image: /images/Podcast/ep 3 (murals by dahlia) teaser.jpg
 ---
-### Coming  20 June ###
-#### **Episode Summary** ####
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Librarian Dahlia Shamsuddin, the daughter of one of the artists involved, recounts her efforts to uncover the fate of her father’s mural.
-
-Dahlia Shamsuddin is a senior librarian with the Resource Discovery &amp; Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vcouoiLZi8A" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
 Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
 
-#### **Teaser clip** ####
-
+#### **About the Guest** ####
+Dahlia Shamsuddin is a senior librarian with the Resource Discovery &amp; Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
 
 #### **Resources** ####
 Dahlia Shamsuddin, “[The Forgotten Murals of Paya Lebar Airport](/vol-17/issue-2/jul-sep-2021/murals),” <i>BiblioAsia</i> 17, no. 2 (2021). 
