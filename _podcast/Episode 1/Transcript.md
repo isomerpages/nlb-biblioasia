@@ -40,10 +40,10 @@ Shirlene <br>
 He came back at the end of the war. And this was a surprise to my grandmother. A surprise, and yet not a surprise, because she waited for him. He was gone all those years. Obviously there was no postcard from him. But she waited. I think it was just about three years. She never remarried. She kind of, I guess, had this hope that he would come back. So it was a surprise. And yet again, not a surprise.
 
 Jimmy  <br>
-The war ended in August 1945. So he must have come back...
+The war ended in August 1945. So he must have come back.
 
 Shirlene   <br>
-Towards the end maybe. Again, these dates... We don't have a confirmation of the dates when he came back. No one kept records at that time. Many of the rōmushas actually couldn't find their way home after the war. And my grandfather was just very lucky. He managed to find his own way home through the help of a British military officer called Major Pink. He was somebody my grandfather knew back in Singapore. I'm not sure how, but maybe through his military volunteer service in the British military before the war. And these are all stories that I've heard from my uncle. So I've tried looking for this Major Pink, but I can't be certain who he is. There is a British military officer called Pierrepont, Cyril Pierrepont, who was also called Pink, but I can't be sure whether it's the same person. A lot of it is speculation on my part.
+Towards the end maybe. Again, these dates. We don't have a confirmation of the dates when he came back. No one kept records at that time. Many of the rōmushas actually couldn't find their way home after the war. And my grandfather was just very lucky. He managed to find his own way home through the help of a British military officer called Major Pink. He was somebody my grandfather knew back in Singapore. I'm not sure how, but maybe through his military volunteer service in the British military before the war. And these are all stories that I've heard from my uncle. So I've tried looking for this Major Pink, but I can't be certain who he is. There is a British military officer called Pierrepont, Cyril Pierrepont, who was also called Pink, but I can't be sure whether it's the same person. A lot of it is speculation on my part.
 
 Jimmy  <br>
 What did your grandfather do when he was in Thailand?
@@ -55,7 +55,7 @@ Jimmy<br>
 So he never actually sat around and waxed lyrical about his time in Thailand?
 
 Shirlene<br>
-No, not at all. I don't know whether he was consciously trying to forget his time there. He didn't regale us with stories. It would come out in bits and pieces. 'Oh, that time when I was in Thailand, you know, I was in the jungle and there were a lot of snakes... We didn't have anything to eat...' Things like that. But not like, "Oh, come, let me tell you a story of my time in Thailand." As a child, I was always puzzled why he was able to speak Thai.
+No, not at all. I don't know whether he was consciously trying to forget his time there. He didn't regale us with stories. It would come out in bits and pieces. "Oh, that time when I was in Thailand, you know, I was in the jungle and there were a lot of snakes. We didn't have anything to eat." Things like that. But not like, "Oh, come, let me tell you a story of my time in Thailand." As a child, I was always puzzled why he was able to speak Thai.
 
 Jimmy   <br>
 What exactly did your grandfather say about his time in Thailand? He didn't say very much but he must have said something.
@@ -121,7 +121,7 @@ Jimmy<br>
 Speaking of that, you mentioned earlier that a lot of rōmusha didn't make it home. Not because they died, but after the war they had to make their own way home. What happened after the war?
 
 Shirlene  <br>
-After the war, when the Japanese surrendered, the British POWs were able to organise themselves to find their way back. And obviously there were military reinforcements sent to Thailand to look out for the POWs and to liberate the camps. So there was a group of military officers who went up and down the railway line, looking for POWs and to record what had happened. Interestingly, this account I read from a Japanese interpreter who was part of the Japanese... I think, the Kempeitai. He was a translator with the Kempeitai who witnessed the torture of the POWs in the camps along the railway. So he was part of this group... He was brought together with the British military officers as a witness.
+After the war, when the Japanese surrendered, the British POWs were able to organise themselves to find their way back. And obviously there were military reinforcements sent to Thailand to look out for the POWs and to liberate the camps. So there was a group of military officers who went up and down the railway line, looking for POWs and to record what had happened. Interestingly, this account I read from a Japanese interpreter who was part of the Japanese, I think, the Kempeitai. He was a translator with the Kempeitai who witnessed the torture of the POWs in the camps along the railway. So he was part of this group. He was brought together with the British military officers as a witness.
 
 Jimmy   <br>
 Oh, I see. After the war?
@@ -163,7 +163,7 @@ Jimmy  <br>
 It obviously sounds like he had a very hard life. But at the same time reading your account, it didn't sound like your grandfather was bitter. Honestly, if it was me I would not be very forgiving. But that's me. I'm clearly not your grandfather.
 
 Shirlene<br>
-No, he wasn't a bitter man. The experience made him stronger and made him very patient. My own experience with him... I've always known him as someone who was incredibly patient, who never raised his voice. And my uncles said the same thing: never raised his voice, never got angry.
+No, he wasn't a bitter man. The experience made him stronger and made him very patient. In my own experience with him, I've always known him as someone who was incredibly patient, who never raised his voice. And my uncles said the same thing: never raised his voice, never got angry.
 
 Jimmy<br>
 Was he previously a hothead?
@@ -175,10 +175,10 @@ Jimmy<br>
 Did he also occasionally speak Japanese to people?
 
 Shirlene <br>
-Well, he knew the few words... Swear words. You would hear them in jest sometimes. He would say something in Japanese, which would have been a swear word. 
+Well, he knew the few words. Swear words. You would hear them in jest sometimes. He would say something in Japanese, which would have been a swear word. 
 
 Jimmy <br>
-What was interesting was that after he came back... He was a volunteer with the British army before the war. And even after everything he went through, when he was back as a civilian again, he still continued to volunteer with the British military, and with other things as well. Why was he like that?
+What was interesting was that after he came back, he was a volunteer with the British army before the war. And even after everything he went through, when he was back as a civilian again, he still continued to volunteer with the British military, and with other things as well. Why was he like that?
 
 Shirlene  <br>
 He was a person with a strong community spirit. And I think this comes from the fact that he was a child of immigrants. His father came from Java via Kuala Lumpur. There were two brothers from Pekalongan in Java. They went to Kuala Lumpur first and then my grandfather's father, Hassan, made his way down to Singapore, while the other brother stayed in Kuala Lumpur, and then married a Javanese woman who was already in Singapore. So I think being a child of immigrants, he didn't have an easy life. I'm very sure that they were poor. He was just very grateful for the help and the life he had in Singapore. He was born a British subject in 1914. It was an incredible trajectory from subject to citizen. It was also a very arduous journey because he had to go through so much. The early years of Singapore must have been difficult as an immigrant child. As a child of an immigrant, he was lucky enough that he was sent to school. Then the war, being on the Thai-Burma railway, coming back to Singapore, and then independence. Incredible. I think he was just very grateful to be a citizen.
@@ -196,16 +196,16 @@ Shirlene <br>
 Yeah. It was a big milk company then and he was delivering milk. From what I understood, there is this account that one of his friends had written about, in a book about the history of Siglap. It's a book in Malay. He had mentioned that my grandfather, after the Death Railway, had worked in Bangkok. I don't know how true this is. I think it was after the war ended or after his Death Railway experience. I don't know where this fits in. I still am not able to verify this. He was driving and doing delivery in Bangkok. Perhaps this was after the completion of the Death Railway and he made his way to Bangkok. I don't know, everything is so fuzzy.
 
 Jimmy   <br>
-Part of that is because, one, he didn't talk about it. And, two, growing up you never thought this was something important. We all grew up with our parents and grandparents... Sometimes we think we don't want to hear that story again.
+Part of that is because, one, he didn't talk about it. And, two, growing up you never thought this was something important. We all grew up with our parents and grandparents. Sometimes we think we don't want to hear that story again.
 
 Shirlene  <br>
 Exactly. For me, I guess I was just really too young. I was in primary school, and it just didn't occur to me to ask. I was just like, "Oh yeah, it's a story from my grandfather. Incredible that he came back and thank God, my grandmother didn't get married again." You know, that kept recurring in my head. You don't ask until it's too late.
 
 Jimmy   <br>
-Looking back... You said he was a very forgiving person. What do you remember most about your grandfather? What do you admire about him?
+Looking back, you said he was a very forgiving person. What do you remember most about your grandfather? What do you admire about him?
 
 Shirlene  <br>
-He didn't have very much. Materially he didn't have very much. But he always managed to survive. He came back... In the '50s and '60s, he was a driver for Dutch Lady Milk. And after independence, he got a stall in a school next door, in the secondary school.
+He didn't have very much. Materially he didn't have very much. But he always managed to survive. He came back. In the '50s and '60s, he was a driver for Dutch Lady Milk. And after independence, he got a stall in a school next door, in the secondary school.
 
 Jimmy  <br>
 What was the name of the school?
@@ -229,7 +229,7 @@ Jimmy <br>
 So a lot of people would know your father?
 
 Shirlene    <br>
-Actually Najib Ali was from Chai Chee Secondary School and knew my grandfather. So a lot of kids who would have gone through Chai Chee Secondary School would have known my grandfather. For me, he was a man who was very resilient, who would just make the best of a situation. He didn't whine. But maybe that was the hallmark of that generation. And he just made the best of the situation, selling drinks at a school canteen didn't make him a rich man, but he was happy. He was really very happy doing it. He really enjoyed doing it, I could see. Having all the school kids around interacting with him... He enjoyed it very much, which is why he he did it for so long.
+Actually Najib Ali was from Chai Chee Secondary School and knew my grandfather. So a lot of kids who would have gone through Chai Chee Secondary School would have known my grandfather. For me, he was a man who was very resilient, who would just make the best of a situation. He didn't whine. But maybe that was the hallmark of that generation. And he just made the best of the situation, selling drinks at a school canteen didn't make him a rich man, but he was happy. He was really very happy doing it. He really enjoyed doing it, I could see. Having all the school kids around interacting with him. He enjoyed it very much, which is why he he did it for so long.
 
 Jimmy   <br>
 There is a lovely picture of you and him in the BiblioAsia article. How old were you?
@@ -247,7 +247,7 @@ Jimmy <br>
 It also gave you the opportunity to talk to your relatives. Otherwise you wouldn't.
 
 Shirlene  <br>
-Exactly, and it was amazing how they were so willing to talk. I didn't think they would be because sometimes you encounter "Oh, it was such a long time ago. I don't remember." They did that a bit, but the more I pursued with the questions, the more they went, "Oh yeah, I remember this. Oh yeah, he said that." I had two uncles who were born after my mum. I guess my grandfather must have told them. Because they were boys of the family, he must have told them more than he did my mum maybe. It was good to speak to them because it got me closer to them. They were so appreciative that someone else in the family wanted to remember my grandfather. When the article was published, being of the older generation, the online version didn't have the same impact as the print version. I gave them each the print version, and they were so touched by it. My uncle... they texted me to say they cried reading the story. Even my mom who is very stoic and sometimes very unemotional about things – she's a very strict person – she was very touched.
+Exactly, and it was amazing how they were so willing to talk. I didn't think they would be because sometimes you encounter "Oh, it was such a long time ago. I don't remember." They did that a bit, but the more I pursued with the questions, the more they went, "Oh yeah, I remember this. Oh yeah, he said that." I had two uncles who were born after my mum. I guess my grandfather must have told them. Because they were boys of the family, he must have told them more than he did my mum maybe. It was good to speak to them because it got me closer to them. They were so appreciative that someone else in the family wanted to remember my grandfather. When the article was published, being of the older generation, the online version didn't have the same impact as the print version. I gave them each the print version, and they were so touched by it. My uncles texted me to say they cried reading the story. Even my mom who is very stoic and sometimes very unemotional about things – she's a very strict person – she was very touched.
 
 Jimmy   <br>
 I guess partly because you pull all these different stories together into one narrative.
@@ -346,7 +346,7 @@ Shirlene  <br>
 Well, I'm trying.
 
 Jimmy    <br>
-Alright. Answer quickly. History is...?
+Alright. Answer quickly. History is...
 
 Shirlene  <br>
 A window to our past to understand our present and future.
