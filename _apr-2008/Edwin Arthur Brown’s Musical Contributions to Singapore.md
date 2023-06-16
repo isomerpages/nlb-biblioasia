@@ -9,13 +9,25 @@ image: /images/Vol 4 Issue 1/EdwinBrown/eabsepia.jpg
 ---
 #### Sheds light on Edwin Arthur Brown’s significant contributions to amateur theatricals and musical scenes in Singapore in the first half of the 20th century. He was also a long-time municipal commissioner and a member of the Singapore Volunteer Corps.
 
+<img src="/images/Vol%204%20Issue%201/EdwinBrown/eabsepia.jpg" style="width:50%;">
+ <div style="background-color: white;">Edwin Arthur Brown.<i> Courtesy of Margaret Caldicott.</i></div>
+
 Several months ago, an overseas patron emailed Reference Point (RP), the National Library’s enquiry service, to inquire about her grandfather, Edwin Arthur Brown. Brown was a British entrepreneur, an influential member of the Singapore Volunteer Corps, and a vital musical activist who arrived in Singapore at the turn of the 20th century. Coincidentally, the National Archives of Singapore (NAS) had used RP to post the same enquiry. We found out later, through our research, that he was a Municipal Commissioner for Singapore for more than ten years since 1924. He was not only in a position to improve the civic affairs of Singaporeans at that time; he took advantage of his position to accelerate the musical development in Singapore. This he did with gusto. With the provision of some dates and facts from the patron, a search was conducted to shed more light on Brown’s significant contributions to amateur theatricals and musical scenes in Singapore in the first half of the 20th century.
 
 #### **Sources**
 
 Unlike the National Library, the NAS has birth and death records and other national records. However, Lee Kong Chian Reference Library (LKCRL) has its own treasure trove in Singapore’s rare collection. This complements the collection that the NAS has. A preliminary search was conducted before looking through microfilm reels of *The Straits Times*. This preliminary search constituted browsing through government and trade directories in the early 20th century as well as biographies of Brown’s contemporaries to garner more information about him. Autobiographical accounts from contemporaries are useful as they confirmed that events took place and the given person was a participant in the event. Depending on the scope of an enquiry, the verification of dates and data is a necessary move before scanning through newspapers in the microfilm collection. This would take several hours of investigation.
 
-Directories formed the backbone of the search and are thus indispensable to queries dating in the early period. One such directory is the *Malayan Directory of Commerce, Retailers & Residents* (1936). Some of the more informative and revealing accounts regarding E.A Brown are biographies such as *I Will Sing To The End*, written by Ian Macleod and *Notes Across The Years: Anecdotes from a musical life* by Paul Abisheganaden. Ian’s father, Major Donald G Macleod was E.A Brown’s business partner during the rubber boom of 1918 onwards. They were also committed to Singapore’s defence as volunteers for the Singapore Volunteer Corps and were actively involved in the St Andrew’s Cathedral musical activities. Paul Abisheganaden, on the other hand, is Singapore’s musical brilliance, and was a student of E.A Brown in the earlier period of his life. He remembers Brown’s significant contributions to choral music in the society.
+<img src="/images/Vol%204%20Issue%201/EdwinBrown/notes%20across%20the%20years1.jpg" style="width:50%;">
+ <div style="background-color: white;">
+<i>All rights reserved, Unipress, 2005.</i></div>
+
+Directories formed the backbone of the search and are thus indispensable to queries dating in the early period. One such directory is the *Malayan Directory of Commerce, Retailers &amp; Residents* (1936). Some of the more informative and revealing accounts regarding E.A Brown are biographies such as *I Will Sing To The End*, written by Ian Macleod and *Notes Across The Years: Anecdotes from a musical life* by Paul Abisheganaden. Ian’s father, Major Donald G Macleod was E.A Brown’s business partner during the rubber boom of 1918 onwards. They were also committed to Singapore’s defence as volunteers for the Singapore Volunteer Corps and were actively involved in the St Andrew’s Cathedral musical activities. Paul Abisheganaden, on the other hand, is Singapore’s musical brilliance, and was a student of E.A Brown in the earlier period of his life. He remembers Brown’s significant contributions to choral music in the society.
+
+![](/images/Vol%204%20Issue%201/EdwinBrown/indiscreet%20memories.jpg)
+
+<img src="/images/Vol%204%20Issue%201/EdwinBrown/indiscreet%20memories.jpg" style="width:50%;">
+ <div style="background-color: white;"> <i>All rights reserved, Kelly &amp; Walsh, 1935.</i></div>
 
 Another important source is E.A Brown’s own memoir of his early days in Singapore from 1901–1904. *Indiscreet Memories* was published in 1935 but was recently reprinted by Monsoon Books in 2007. Another invaluable source is A History of the Singapore Volunteer Corps 1854–1937 by T.M. Winsley which imparts a historical outline of volunteering in Malaya. In addition, Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell’s edition of *One Hundred Years of Singapore* has a chapter in its second volume entitled “Amateur Theatricals and Music” devoted to explain the growth and development of theatre and music in the late 19th century and early 20th century. This chapter is made more poignant by an article written by E.A Brown himself on the music component. His self-effacing write-up provides the backdrop to the organised musical efforts in Singapore. His article attributes Singapore’s early musical scene to Edward Salzmann’s efforts. Notwithstanding recognition of his contributions in these sources, coverage of Brown’s voluntary genius to early Singapore’s political and musical developments in *The Straits Times* figured more prominently as he was a favourite with the press.
 
@@ -57,7 +69,7 @@ Edwin A. Brown, [_Indiscreet Memories: 1901 Singapore Through the Eyes of a Colo
 
 Kevin Tan, [_Scouting in Singapore 1910–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11866534) (Singapore Scout Association: National Archivers of Singapore, 2002). (Call no. RSING q369.43095957 TAN)
 
-[_Malayan Directory of Commerce, Retailers & Residents_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980637) (Singapore: W. L. Collins for the Advertising & Publicity Bureau, 1936), 9, 24. (Call no. RRARE 382.09595 MAL; microfilm no. NL3648)
+[_Malayan Directory of Commerce, Retailers &amp; Residents_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980637) (Singapore: W. L. Collins for the Advertising &amp; Publicity Bureau, 1936), 9, 24. (Call no. RRARE 382.09595 MAL; microfilm no. NL3648)
 
 Paul Abishegenaden, [_Notes Across the Years: Anecdotes From a Musical Life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654614) (Singapore: Unipress, 2005). (Call no. RSING 784.2092 ABI)
 
@@ -73,13 +85,13 @@ J. Tryner. “Music in Singapore,” _The Musical Times_ 73, no. 1078 (December 
 
 “[A Successful Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030914-1.2.3),” _Straits Times_, 14 September 1903, 1. (From NewspaperSG)
 
- “[Amateur Theatricals: Triple Bill at the Town Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020321-1.2.55),” _Straits Times_, 21 March 1902, 5. (From NewspaperSG)
+&nbsp;“[Amateur Theatricals: Triple Bill at the Town Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020321-1.2.55),” _Straits Times_, 21 March 1902, 5. (From NewspaperSG)
 
 “[Amateur Theatrical Trailers: The Triple Bill at Town Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020322-1.2.36),” _Straits Times_, 22 March 1902, 5. (From NewspaperSG)
 
 “[Arrival of the Prince](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220331-1.2.40),” _Straits Times_, 31 March 1992, 9. (From NewspaperSG)
 
-“[Choral & Orchestral Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020319-1.2.24),” _Straits Times_, 19 March 1902, 4. (From NewspaperSG)
+“[Choral &amp; Orchestral Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020319-1.2.24),” _Straits Times_, 19 March 1902, 4. (From NewspaperSG)
 
 “[E. N.Taylor, “Heifetz vs. Brown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19311229-1.2.88.1),” _Straits Times_, 29 December 1931, 17. (From NewspaperSG)
 
