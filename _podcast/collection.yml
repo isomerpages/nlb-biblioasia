@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - "Episodes 5–12: Coming Soon/.keep"
       - BiblioAsia.md
       - Episode 1/.keep
       - Episode 1/My Grandfather Was a Rōmusha.md
