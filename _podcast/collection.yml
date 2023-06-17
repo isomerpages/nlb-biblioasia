@@ -2,7 +2,6 @@ collections:
   podcast:
     output: true
     order:
-      - "Episodes 5–12: Coming Soon/.keep"
       - BiblioAsia.md
       - Episode 1/.keep
       - Episode 1/My Grandfather Was a Rōmusha.md
@@ -16,3 +15,4 @@ collections:
       - Episode 4/.keep
       - "Episode 4/Belacan: Caviar or Vile?.md"
       - Episode 4/Transcript.md
+      - "Episodes 5–12: Coming Soon/.keep"
