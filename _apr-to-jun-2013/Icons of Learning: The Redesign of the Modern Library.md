@@ -92,10 +92,8 @@ Library design in Singapore has already taken some steps toward the transformati
 In order to remain relevant, the reimagining of future libraries in Singapore must accommodate the changing roles and functions of libraries. The mission of libraries to promote reading and literacy to create readers for life, learning communities and a knowledgeable nation will continue to be important, but Singapore’s future libraries must evolve to continue to draw library users through inspiring and transformative spaces and services.
 
 <div>
-<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of *BiblioAsia*, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
+<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of <i>BiblioAsia</i>, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
 <br>
-
-	
 <div>
 <b>Liyana Taha</b> is an Assistant Curator with the National Library Exhibitions and Curation division. She has an MA in Cultural Studies, and is interested in the premise on which knowledge is presented.
 </div>
