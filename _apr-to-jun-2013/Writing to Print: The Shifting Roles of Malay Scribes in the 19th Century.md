@@ -100,7 +100,7 @@ Perpustakaan Negara Malaysia. (1990). [_Manuskrip kegemilangan tamadun Melayu: K
 
 Perpustakaan Negara Malaysia. (2012). _The legacy of Malay manuscripts_. Perpustakaan Negara Malaysia. (Not available in NLB holdings)
 
-Proudfoot, I. (1993). [_Early malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616). \[Kuala Lumpur\]: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO)
+Proudfoot, I. (1993). [_Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616). \[Kuala Lumpur\]: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO)
 
 Ros Mahwati, Ahmad Zakaria &amp; Latifah Abdul Latif. (2008). [_Malay manuscripts: An introduction_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048593). \[Kuala Lumpur, Malaysia\]: Islamic Arts Museum Malaysia. (Call no.: RSING 091.09595 ROS)
 
@@ -112,7 +112,7 @@ Teo, E.L. (2009). [_Malay encounter during Benjamin Peach Keasberry’s time in 
 
 Braginsky, V.I. (2002). Malay scribes on their craft and audience (with special reference to the description of the reading assembly by Safirin bin Usman Fadli). _Indonesia and the Malay World, 30_ (86), 37–61. Retrieved from Taylor &amp; Francis Online website.
 
-Gallop, A.T. (1990). Early malay printing: An introduction to the British Library collection. _Journal of Malayan Branch of the Royal Asiatic Society, 63_ (1) (258), 85–124, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library collection. _Journal of Malayan Branch of the Royal Asiatic Society, 63_ (1) (258), 85–124, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Proudfoot, I. (1997). Mass producing Houri’s moles or aesthetics and choice of technology in early Muslim book printing. In P.G. Riddell &amp; T. Street (Eds.). _Islam: Essays in scripture, thought and society: A festschrift in honour of Anthony H. Johns_. Leiden: Brill. (Not available in NLB holdings)
 
