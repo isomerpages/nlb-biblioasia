@@ -105,7 +105,7 @@ In order to remain relevant, the reimagining of future libraries in Singapore mu
 
 [$60m donation for National Library HQ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030916-1.2.3). (2003, September 16). _The Straits Times_, p. 1. Retrieved form NewspaperSG.
 
-Azizah Sidek., et al. (Eds.). (2007). [_The people’s library: 50 years of national and public library services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922679). Singapore: National Library Board. (Call no.: RSING 027.55957 SIN)
+Azizah Sidek, et al. (Eds.). (2007). [_The people’s library: 50 years of national and public library services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922679). Singapore: National Library Board. (Call no.: RSING 027.55957 SIN)
 
 Chew, D. (2005, November 11). [A new chapter begins](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051111-1.2.75.3). _Today_, p. 60. Retrieved from NewspaperSG.
 
@@ -149,7 +149,7 @@ LJ’s New Landmark Library: Palo Verde Library/Maryvale Community Center. (2011
 
 Lucchese, R. (2011, November 28). The Stuttgart Library. _Positive magazine_. Retrieved from Positive magazine website.
 
-Lynn Becker. (2003—2006). Sleekness in Seattle. Repeat. Retrieved from lynnbecker.com website.
+Lynn Becker. (2003–2006). Sleekness in Seattle. Repeat. Retrieved from lynnbecker.com website.
 
 National Library Board. (2020, October 1). [_History of the National Library_](https://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx). Retrieved from National Library Board website.
 
@@ -190,15 +190,15 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 #### **NOTES**
 
 
-[^1]: Nan Dahlkild. (2011, Summer). The emergence and challenge of the modern library building: Ideal types, model libraries, and guidelines, from the Enlightenment to the experience economy. _Library Trends: Library Design From Past to Present_, *60* (1),11—42.
+[^1]: Nan Dahlkild. (2011, Summer). The emergence and challenge of the modern library building: Ideal types, model libraries, and guidelines, from the Enlightenment to the experience economy. _Library Trends: Library Design From Past to Present_, *60* (1),11–42.
 
-[^2]: Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174—189.
+[^2]: Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174–189.
 
 [^3]: Daniel J. Caron. (31 May 2012). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
 
 [^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, Jan). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
 
-[^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437—441.
+[^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437–441.
 
 [^6]: YouMedia at the Harold Washington Library. *About Us*. Retrieved from Chicago Public Library website.
 
@@ -214,7 +214,7 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^12]: The Stuttgart Library. (2011, Nov 28). *Positive Magazine*. Retrieved from Positive magazine website.
 
-[^13]: Thomas Köster. (Nov 2011). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
+[^13]: Thomas Köster. (2011, Nov). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
 
 [^14]: Köster, Nov 2011.
 
