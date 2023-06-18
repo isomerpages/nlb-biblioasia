@@ -64,9 +64,9 @@ His works spanned almost 65 years of his life and comprise various themes that e
 
 Muhammad Ariff’s influence can also be seen in the fields of language and culture. He was appointed as chairman of the Malay Literature Prize committee which promoted literature in Singapore. Initiated by ASAS ’50, it was supported by 18 other nongovernmental organisations. Today, the award is known as the Malay Literary Award under the purview of the Malay Language Council of Singapore.
 
-The Malay Language Council of Singapore is also responsible for organising the Malay Language Month campaign. Muhammad Ariff had been involved with the initiative since 1965 when it was known as the National Language Month. In 1988, he penned the lyrics to *Bahasa Menjunjung Budaya*, which remains as the Malay Language Month’s theme song till today.
+The Malay Language Council of Singapore is also responsible for organising the Malay Language Month campaign. Muhammad Ariff had been involved with the initiative since 1965 when it was known as the National Language Month. In 1988, he penned the lyrics to "Bahasa Menjunjung Budaya", which remains as the Malay Language Month’s theme song till today.
 
-Muhammad Ariff’s influence among the Malay Muslim community is evident from the numerous organisations he was part of, such as the Association of Muslim Professionals and Malay Heritage Centre Foundation. The various awards and accolades bestowed on him are testament to a life dedicated to serving the community. Even though in his late eighties, Muhammad Ariff was still sharing his knowledge, thoughts and ideas via a weekly newspaper column in *Berita Harian*. He was indeed an iconic national treasure.
+Muhammad Ariff’s influence among the Malay Muslim community is evident from the numerous organisations he was part of, such as the Association of Muslim Professionals and Malay Heritage Centre Foundation. The various awards and accolades bestowed on him are testament to a life dedicated to serving the community. Even in his late eighties, Muhammad Ariff was still sharing his knowledge, thoughts and ideas via a weekly newspaper column in *Berita Harian*. He was indeed an iconic national treasure.
 
 Muhammad Ariff’s many contributions to the community are a manifestation of his philosophy in life: “The life of a tree bears fruit; let the life of humans be fruitful.” Despite all that he achieved, he continued to share his knowledge, expertise and service as inscribed in the words of Kiayi (religious leader) in his poem “What will I become?”:
 
@@ -86,6 +86,6 @@ Minamoria. (1974, November 24). [Sajak harus dibaca, didengar dan dilihat](http:
 
 Mohamed Pitchay Gani Bin Mohamed Abdul Aziz. (Ed.). (2005). [_Leksikon: Direktori penulis Melayu Singapura pasca 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12567839). Singapore: Angkatan Sasterawan ’50 &amp; National Library Board. (Call no.: Malay RSING 899.280255957 LEK)
 
-Muhammad Ariff Ahmad. (2003). [_Perjalanan Mas: Memoir Muhammad Ariff Ahmad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12236487). Singapore: Angkatan Sasterawan’ 50. (Call no.: Malay RSING q499.28092 MUH)
+Muhammad Ariff Ahmad. (2003). [_Perjalanan Mas: Memoir Muhammad Ariff Ahmad_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12236487). Singapore: Angkatan Sasterawan ’50. (Call no.: Malay RSING q499.28092 MUH)
 
 Razak Jaafar. (1974, May 12). [Janganlah jadikan taman ini medan bersenda seperti hippi dalam khayalan pil MX](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19740512-1.2.25.2). _Berita Harian_, p. 5. Retrieved from NewspaperSG.
