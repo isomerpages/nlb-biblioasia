@@ -45,8 +45,6 @@ The powerful ideology of beauty (inherent in the majority of theories and aims o
 
 "Today \[design\] incorporates spatial interests of social science, geography, cultural studies, economics, architecture, art history and other disciplines, and existential positions such as feminism, and sustainability."[^16] 
 
-&gt; The town of Singapore and its architecture has always attracted attention. Even in the earliest days of the Settlement, visitors regularly commented on the fine buildings along the Esplanade, the neat and orderly streets and tree-lined thoroughfares, and the grand colonial-style residences of the European and Asian elites. From the outset, the progress of the town and its architectural landmarks were seen, quite rightly, as a reflection of the colony’s prosperity.
-
 Design and “control” of the built environment is given a high weightage within the globalised world, where people and capital are increasingly mobile, thus ideals of liveability and quality of life are of a critical concern in attracting talent, motivating citizens and maintaining a “competitive advantage”. The ethical dimensions of design and the associated aesthetics must be considered at the macro level as well as the micro level (individual buildings). Analysing how one’s actions affect the wider world within the spheres of spatial equality, environmental and social harmony is as important as ensuring our built environment is conducive for people to live well with each other and well within the environment.
 
 The feelings of well-being embodied through the relationships between groups of buildings, the open spaces and streets which link them are important. Therefore, it is the “townscape”, rather than the design of individual buildings, that gives the built environment its unique significance, providing the bridge between public and private life.[^17]
@@ -86,15 +84,11 @@ Architecture reinforces its position as the part of the culture industry, which 
 
 #### **Place-making, People and Identity**
 
-&gt; Places that foster a spatial representation of life are places such as hawker centres and local markets. These form a focal point in many Singaporeans’ lives; they are spaces where a great diversity of people congregate, and a local economy thrives. Hawker centres create a spatial attachment to a neighbourhood or an area, not through their outward appearance, but through their purpose.
-
 Architects and planners see design as the art of making places for people, and believe that design is critical in the realms of sustainable development, economic progress and social cohesion. Good design creates lively and distinctive places with character that are safe and accessible. Spaces are the embodiment of feelings, images and thoughts of those who live, work or are otherwise engaged in the area. Social space is dynamic space; its production continues over time and is not fixed to a single moment of completion, thus shifting the focus away from the static objects of display, and places it on the people and their lives. Good design addresses the physical aspects of space through addressing the relations within and of various social networks.
 
 "You begin to realise that the important determinant of any culture is after all the spirit of place."[^26]
 
 Similarity is important in establishing a recognisable or identifiable sense of place.[^27] The aesthetics of places and place-making should be linked to the climatic vernacular and regional diversity through the spatial representation of the synergies of the life of the people,[^28] i.e., the place must reflect the climatic conditions of the area, as well as facilitate the daily interactions of the people. Places that foster a spatial representation of life are places such as hawker centres and local markets. These form a focal point in many Singaporeans’ lives; they are spaces where a great diversity of people congregate, and a local economy thrives. Hawker centres create a spatial attachment to a neighbourhood or an area, not through their outward appearance, but through their purpose.
-
-&gt; Architecture has forgotten, or simply fails to understand that space is constructed out of interrelations and interactions of people, at various levels and of various dispositions and thus must engage these tensions rather than ignore them.
 
 At the urban level, Singapore followed good practice with island-wide tree-planting strategies to break up the increasing density of the built form. In a variety of key areas, the mix of the globalised “future” and traditional “cultural” past has been exceptionally juxtaposed, thus maintaining or, in the case of Boat Quay, enhancing an identity of place. Boat Quay, with its regenerated waterfront, traditional shophouses and the UOB Plaza fronting the Central Business District, became recognisable as the embodiment of “Singapore”. It was instantly recognisable and globally distinctive, representing the dichotomy that is Singapore.
 
@@ -129,7 +123,7 @@ Design can give form to a changing world, and offer opportunities for new types 
 
 There is an urgent need for design to become more socially progressive and environmentally conscious in the face of intensifying neoliberalism and neocorporatism. This means moving beyond the scope of the project and transcending professional boundaries. There is no one set of criteria according to which the design process is “supposed” to develop. However, thoughtful consideration of the moral and ethical responsibility of our actions, a greater awareness of social conditions and of the diversity of human experience are important in facilitating the production of a well-designed, well-negotiated and equitable built environment.
 
-Good design is not a fetish; good design creates the natural foci of social intercourse where people will recognise each other as members of a local community as a result of continuous yet joyous physical proximity. With this model there is greater potential for physical social relationships to form as people meet in the context of their whole lives and not in part, such as mere colleagues in the same office or shoppers in the same shopping centre. The townscape will be varied and vibrant, accommodating a wide range of uses and catering for different kinds of people. “It may be physically unprepossessing, even dirty, but it will be a place that people know and, perhaps most important, feel at home in”.[^40]
+Good design is not a fetish; good design creates the natural foci of social intercourse where people will recognise each other as members of a local community as a result of continuous yet joyous physical proximity. With this model there is greater potential for physical social relationships to form as people meet in the context of their whole lives and not in part, such as mere colleagues in the same office or shoppers in the same shopping centre. The townscape will be varied and vibrant, accommodating a wide range of uses and catering for different kinds of people. “It may be physically unprepossessing, even dirty, but it will be a place that people know and, perhaps most important, feel at home in.”[^40]
 
 <div>
 <b>Benjamin Towell</b> is an Executive Manager with the Green Mark Department of the Building and Construction Authority of Singapore. Benjamin qualified as a Town (Urban) Planner from the University of Newcastle upon Tyne, UK. He studied architecture at the University of Newcastle upon Tyne, The Leeds School of Architecture and the National University of Singapore.</div>
@@ -195,7 +189,7 @@ Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at
 
 [^9]: Kant, 1790, p. 224.
 
-[^10]: Zumthor, 2007, p. 65. &nbsp;&nbsp;&nbsp;&nbsp;
+[^10]: Zumthor, 2007, p. 65.
 
 [^11]: Benedikt, 1988, p. 56.
 
@@ -215,11 +209,11 @@ Lazell, M., &amp; Henley, W. (2008, October 10). _Lords call for design to be at
 
 [^19]: Lazell &amp; Henley, 10 Oct 2008.
 
-[^20]: Lefebvre, H., 1970, p. 31.
+[^20]: Lefebvre, 1970, p. 31.
 
-[^21]: Manzini, E., 1994, pp. 37–43.
+[^21]: Manzini, 1994, pp. 37–43.
 
-[^22]: Manzini, E., 1994, p. 43.
+[^22]: Manzini, 1994, p. 43.
 
 [^23]: Buchanan, 2001, p. 38.
 
