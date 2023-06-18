@@ -85,8 +85,6 @@ Such a mindset is worrying because there may come a point in time where the only
 
 
 <div>
-	![](/images/Authors/justin_zhuang.png)
-	![](/images/Authors/justin%20zhuang%20photo.jpg)
 <b>Justin Zhuang</b> writes about and researches Singapore’s visual culture, heritage and spaces under the auspices of In Plain Words (http://inplainwords.sg).
 </div>
 
@@ -199,7 +197,7 @@ Wee, Y.C., &amp; Hale, R. (2008). The Nature Society (Singapore) and the struggl
 
 [^23]: [Tai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121210-1.2.26.5.1), 10 Dec 2012, pp. 4–5.
 
-[^24]:. [Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9), 10 Jul 2011, p. 15.
+[^24]: [Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9), 10 Jul 2011, p. 15.
 
 [^25]: Urban Redevelopment Authority (Singapore), _URA Establishes Rail Corridor Partnership to Explore and Promote Community Activities Along Rail corridor_, 12 May 2012.
 
