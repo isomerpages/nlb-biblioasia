@@ -55,12 +55,9 @@ In 1988, a civic organisation showed how citizens could participate in the Garde
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa1.jpg">
  <div style="background-color: white;">Chek Jawa wetlands off Pulau Ubin. <i>Wikimedia Commons.</i></div>
 
-Sungei Buloh was the first postcolonial allocation of land for nature conservation[^14], and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal was also seen to be what became an “inescapable collaborative manner of governing”.[^15]
+Sungei Buloh was the first postcolonial allocation of land for nature conservation,[^14] and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal was also seen to be what became an “inescapable collaborative manner of governing”.[^15]
 
 This was reflected in the case of Chek Jawa wetlands in 2001. Located on the island of Pulau Ubin, Chek Jawa had already been slated for reclamation since 1992, but a chance discovery in 2000 of its rich biodiversity led a group of volunteers to follow in the footsteps of the NSS and come up with a report on Chek Jawa’s natural heritage and a petition to the government for the conservation of this natural habitat.
-
-&gt; As Lee Kuan Yew outlined in his vision of the future: “By the 1990s, Singapore can become a green, shady city filled with fruits and flowers, a city worthy of an industrious people whose quest for progress is matched by their appreciation for the beauty of nature."
-
 
 The government surprised many by agreeing to do so, promising to leave Chek Jawa untouched for the next 10 years. After the decision was made, Minister for National Development Mah Bow Tan said: “Has there been any change in our thinking? No. What has changed is the environment. Over the past 10 years, people’s awareness of heritage and conservation issues has become more acute. The Government has also become more aware of the need to accommodate this... giving people a sense of belonging to Singapore.”[^16]
 
@@ -85,8 +82,6 @@ In a sense, this has allowed citizens to become “gardeners” of this “City 
 It is also interesting to note that most calls by citizens have been for the preservation of existing nature as opposed to the building of gardens. It is perhaps a reflection that at its core, the government still sees nature as a means to soften the city landscape as opposed to an end in itself. It holds a strong belief in “constructing” a clean and green environment, as opposed to giving nature the space to grow. This is also seen in the city’s increasing lack of open green spaces. The only time they exist are when buildings are demolished, creating empty lands that exist until new construction begins on them.
 
 Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices – from citizens, nongovernmental organisations and even corporations – that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
-
-&gt; Citizens have become “gardeners” of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it.
 
 
 <div>
