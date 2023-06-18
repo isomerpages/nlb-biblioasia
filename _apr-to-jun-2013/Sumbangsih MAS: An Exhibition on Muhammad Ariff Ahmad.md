@@ -41,16 +41,16 @@ Muhammad Ariff’s contributions as a teacher were not confined to the realm of 
 
 #### **Arts for the People**
  
-Muhammad Ariff was also one of the founding members of the Angkatan Sasterawan ’50 (ASAS ’50) a literary organisation that champions the rights of the community through its members' writings. ASAS ’50 was established with the belief, “united we stand, divided we fall”. He commemorated the founding of ASAS’50 on 6 August 1950 through his poem “Long-lived Unity”.
+Muhammad Ariff was also one of the founding members of the Angkatan Sasterawan ’50 (ASAS ’50) a literary organisation that champions the rights of the community through its members' writings. ASAS ’50 was established with the belief, “united we stand, divided we fall”. He commemorated the founding of ASAS ’50 on 6 August 1950 through his poem “Long-lived Unity”.
 
-Muhammad Ariff’s first foray into creative writing was in the field of radio drama. During the Japanese Occupation, he produced drama scripts for radio broadcast. The drama series *Oleh-Oleh Pembelaan Seorang Ibu* and *Inikah Balasanmu*, based on his scripts, were broadcasted in 1943.
+Muhammad Ariff’s first foray into creative writing was in the field of radio drama. During the Japanese Occupation, he produced drama scripts for radio broadcast. The drama series *Oleh-Oleh Pembelaan Seorang Ibu* and *Inikah Balasanmu*, based on his scripts, were broadcast in 1943.
 
-At the same time, he decided to record and report the cruelty of Japanese soldiers. However, his short stories such as *Pokok Jarak* (*Barbados Nut*) and *Pondok Buruk* (*Old Hut*) were rejected and not published because anti-Japanese sentiments were expressed too strongly. Pak Sako (Dr Ishak Haji Muhammad), the writer for *Semangat Asia*, advised him to stop if he wished to stay alive.
+At the same time, he decided to record and report the cruelty of Japanese soldiers. However, his short stories such as *Pokok Jarak* (*Barbados Nut*) and *Pondok Buruk* (*Old Hut*) were rejected for publication because anti-Japanese sentiments were expressed too strongly. Pak Sako (Dr Ishak Haji Muhammad), the writer for *Semangat Asia*, advised him to stop if he wished to stay alive.
 
 Muhammad Ariff, together with other writer friends, was conscious of the potential of arts as an instrument to build a society that was facing an uncertain future after the Japanese Occupation. Literature became a platform to seek independence from colonial rule and redress for social injustices. It also reflected the hopes and ambition to achieve the common goal of “full independence” through their literary works and through the concept of "arts for the masses".
 
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Collections1.jpg">
- <div style="background-color: white;">Works by Muhammad Ariff Ahmad. From left: *Suara Guru*, *Adam Kena Hujan* and *Sarah Pengarang Kechil*.</div>
+ <div style="background-color: white;">Works by Muhammad Ariff Ahmad. From left: <i>Suara Guru</i>, <i>Adam Kena Hujan</i> and <i>Sarah Pengarang Kechil</i>.</div>
  
 In 1947, Muhammad Ariff completed his first novel, *Menyahut Seruan Ibunda* (*Answering the Call of Motherland*). It was accepted for publication by Cikgu Harun Aminurrashid. However, it was published as a series in the magazine *Mutiara*.
 
