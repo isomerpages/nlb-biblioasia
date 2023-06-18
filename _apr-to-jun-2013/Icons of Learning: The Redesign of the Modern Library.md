@@ -194,31 +194,31 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^2]: Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174–189.
 
-[^3]: Daniel J. Caron. (31 May 2012). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
+[^3]: Daniel J. Caron. (2012, May 31). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
 
-[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, Jan). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
+[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, January). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
 
 [^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437–441.
 
 [^6]: YouMedia at the Harold Washington Library. *About Us*. Retrieved from Chicago Public Library website.
 
-[^7]: Clifford A. Pearson. (Oct 2006). Palo Verde Branch Library and Maryvale Community Center. *Architectural Record*. Retrieved from PubMed.gov website.
+[^7]: Clifford A. Pearson. (2006, October). Palo Verde Branch Library and Maryvale Community Center. *Architectural Record*. Retrieved from PubMed.gov website.
 
-[^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (May 15, 2011). *Library Journal*. Retrieved from libraryjournal.com website.
+[^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (2011, May 15). *Library Journal*. Retrieved from libraryjournal.com website.
 
 [^9]: In an environmentally conscious age, users are also paying attention to environmental sustainability as an aspect of library design. See Brian W. Edwards. (2011, Summer). Sustainability as a driving force in contemporary library design. *Library Trends: Library Design From Past to Present, 60* (1), 190–214.
 
 [^10]: University of Chicago Library. *The Joe and Rika Mansueto Library*. Retrieved from University of Chicago Library website.
 
-[^11]: Stuttgart City Library / Yi Architects. (2011, Dec 23). *ArchDaily*. Retrieved from archdaily.com website.
+[^11]: Stuttgart City Library / Yi Architects. (2011, December 23). *ArchDaily*. Retrieved from archdaily.com website.
 
-[^12]: The Stuttgart Library. (2011, Nov 28). *Positive Magazine*. Retrieved from Positive magazine website.
+[^12]: The Stuttgart Library. (2011, November 28). *Positive Magazine*. Retrieved from Positive magazine website.
 
-[^13]: Thomas Köster. (2011, Nov). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
+[^13]: Thomas Köster. (2011, November). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
 
 [^14]: Köster, Nov 2011.
 
-[^15]: The Seattle Public Library. (Oct 2004). *Metropolis Mag*. Retrieved from metropolismag.com website.
+[^15]: The Seattle Public Library. (2004, October). *Metropolis Mag*. Retrieved from metropolismag.com website.
 
 [^16]: Lynn Becker. (2003–2006). *Sleekness in Seattle. Repeat*. Retrieved from lynbecker.com website.
 
@@ -226,12 +226,12 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^18]: National Library Board. (2013). _[History of the National Library](https://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx)_. Accessed at http://www.nl.sg/.
 
-[^19]: Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. IFLA. (July 2010). Metropolitan Libraries Section Survey. Retrieved from IFLA. Metropolitan Libraries website.
+[^19]: Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. IFLA. (2010, July). Metropolitan Libraries Section Survey. Retrieved from IFLA. Metropolitan Libraries website.
 
 [^20]: Singapore’s new National Library. _The Arup Journal_, 2/2006, pp. 51–59. Retrieved from Arup Journal website.
 
 [^21]: President’s Design Awards 2009. (2009). Designer of the Year – Look Boon Gee. Retrieved from DesignSingapore Councl website.
 
-[^22]: Leslie Kay Lim. (2013, Jan 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
+[^22]: Leslie Kay Lim. (2013, January 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
 
-[^23]: Sumedha Jalote (2013, Jan 10). Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.
+[^23]: Sumedha Jalote (2013, January 10). Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.
