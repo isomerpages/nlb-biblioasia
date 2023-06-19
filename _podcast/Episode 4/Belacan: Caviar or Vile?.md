@@ -14,6 +14,8 @@ A food that has been called rank and disgusting is a beloved condiment in Southe
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
+Subscribe to get notified when the next episode drops.
+
 #### **About the Guest** ####
 Toffa Abdul Wahed is an associate librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection.
 
