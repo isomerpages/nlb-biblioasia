@@ -29,9 +29,5 @@ Rebecca Tan, “[How Changi Airport Came to Be](/vol-17/issue-3/oct-dec-2021/cha
 Justin Zhuang, <i>[Independence: The History of Graphic Design in Singapore since the 1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14331232)</i> (Singapore: The Design Society, 2012). (Call no.: RSING 741.6095957 ZHU)
 
 
-#### **Transcript** ####
-Coming soon
-
-
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Dahlia for coming on the show.
