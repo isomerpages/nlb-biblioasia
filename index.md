@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Tennis/tennis_hero_img.jpg
+      background: /images/Vol 19 Issue 1/Portuguese/portuguese hero img_v1.jpg
   - infopic:
       title: New Books on Singapore History (Jul 2023)
       subtitle: Literature
