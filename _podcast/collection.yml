@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Episode 7/.keep
       - Episode 6/.keep
       - BiblioAsia.md
       - Episode 1/.keep
