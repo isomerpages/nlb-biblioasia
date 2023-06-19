@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
-      button: Khoo hooi hye, lim bong soo and the heyday of malayan tennis
+      url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
+      button: Portugal's Linguistic Legacy in Southeast Asia
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
