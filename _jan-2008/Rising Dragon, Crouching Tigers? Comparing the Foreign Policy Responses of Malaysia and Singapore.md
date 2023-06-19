@@ -80,5 +80,9 @@ Why does Singapore care so much about the regional status quo, and how China is 
 
 This explains Singapore’s concerns over the Taiwan Strait, the Spratlys and Beijing’s escalating power. Given its high dependence on maritime trade and sea-lanes of communication, Singapore becomes apprehensive whenever there is any rising tension in the Taiwan Strait. During the 1996 crisis, Singaporean officials feared that any armed conflict in the region would “totally destabilise foreign trade and investment.”44 Similarly, although Singapore is not a claimant to the Spratlys, it is concerned that the dispute will have a direct bearing on the safety of navigation in the South China Sea.45 Moreover, the Spratlys case illustrates the extent to which China is willing to abide by regional norms and international law.
 
+To Singapore, there is little doubt that China will be powerful enough to alter the strategic landscape of Asia. The question, however, is less about capability than intention – that is how a robust China will exercise its newfound power in the region.
+
+
+
 
 
