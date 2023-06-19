@@ -6,3 +6,4 @@ description: Librarian Lim Tin Seng rediscovers Singapore’s first island resor
   Island is now.
 third_nav_title: Episode 8
 ---
+### Coming on 18 July
