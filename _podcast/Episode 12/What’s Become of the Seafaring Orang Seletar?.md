@@ -11,8 +11,6 @@ third_nav_title: Episode 12
 
 Writer and educator Ilya Katrinnada interviewed the Orang Seletar who resettled in Johor to learn about their lives, and their links to Singapore.
 
- 
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IVahEWiPKuc" height="315" width="560"></iframe>
 
  
@@ -60,5 +58,3 @@ Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The 
 #### **Credits** ####
 
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Ilya for coming on the show.
-
- 
