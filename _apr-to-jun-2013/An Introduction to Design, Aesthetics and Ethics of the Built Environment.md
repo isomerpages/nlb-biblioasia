@@ -1,5 +1,5 @@
 ---
-title: An introduction to Design, Aesthetics and Ethics of the Built Environment
+title: An Introduction to Design, Aesthetics and Ethics of the Built Environment
 permalink: /vol-9/issue-1/apr-jun-2013/design-aesthetics-ethics/
 description: The built environment is a space that reflects the dialogue among
   private, public and political spheres. Design impacts our lives everyday and

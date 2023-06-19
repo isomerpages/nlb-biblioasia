@@ -82,16 +82,14 @@ In a sense, this has allowed citizens to become “gardeners” of this “City 
 It is also interesting to note that most calls by citizens have been for the preservation of existing nature as opposed to the building of gardens. It is perhaps a reflection that at its core, the government still sees nature as a means to soften the city landscape as opposed to an end in itself. It holds a strong belief in “constructing” a clean and green environment, as opposed to giving nature the space to grow. This is also seen in the city’s increasing lack of open green spaces. The only time they exist are when buildings are demolished, creating empty lands that exist until new construction begins on them.
 
 Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices – from citizens, nongovernmental organisations and even corporations – that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
-
-
-<div>
-<b>Justin Zhuang</b> writes about and researches Singapore’s visual culture, heritage and spaces under the auspices of In Plain Words (http://inplainwords.sg).
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/justin_zhuang.png">
+<b>Justin Zhuang</b> writes about and researches Singapore’s visual culture, heritage and spaces under the auspices of In Plain Words (<a href="https://inplainwords.sg/">https://inplainwords.sg/)</a>
 </div>
 
-
 #### **REFERENCES**
-
-    
 
 Ang, I. (1988, November 22). [Fruit theft a common problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881122-1.2.38.1). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
 

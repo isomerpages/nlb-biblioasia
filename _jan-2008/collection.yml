@@ -1,0 +1,5 @@
+collections:
+  jan-2008:
+    output: true
+    order:
+      - Director’s Column.md
