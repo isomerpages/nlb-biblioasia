@@ -9,7 +9,7 @@ BiblioAsia+ is a podcast series about Singapore stories: some unfamiliar, others
 
 <img src="/images/Podcast/podcast%20logo.jpg" style="width:50%; height:auto;">
 
-#### **Listen to the Podcast** ####
+#### **Subscribe and Listen to the Podcast** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
 #### **Credits** ####
