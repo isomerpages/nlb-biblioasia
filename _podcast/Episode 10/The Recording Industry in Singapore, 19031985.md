@@ -1,5 +1,5 @@
 ---
-title: The Recording Industry in Singapore, 19031985
+title: The Recording Industry in Singapore, 1903-1985
 permalink: /podcast/recording-industry/
 description: Singapore used to be a major recording centre in Southeast Asia,
   with over 10,000 local recordings made before 1960. Hear the story from sound
