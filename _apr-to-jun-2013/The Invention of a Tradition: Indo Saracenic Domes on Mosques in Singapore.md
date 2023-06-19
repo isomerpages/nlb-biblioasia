@@ -25,12 +25,6 @@ The Indo-Saracenic style is closely associated with British imperialism. The Bri
 
 This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s preeminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
 
-![](/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture4.jpg)
-
-![](/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture7.jpg)
-
-![](/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture3.jpg)
-
 <img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture3.jpg" style="width:80%;">
  <div style="background-color: white;">Artist's impression of the new Sultan Mosque, 1925.<i> Courtesy of the Sultan Mosque.</i></div>
 
