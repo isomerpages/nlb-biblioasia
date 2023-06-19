@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba3-4.jpg)
 
-**Director's Column**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-4/issue-3/jan-2008/director-column">Director's Column</a>
 
 **Rising Dragon, Crouching Tigers? Comparing the Foreign Policy Responses of Malaysia and Singapore Toward a Re-emerging China, 1990–2005**<br>What do states do when faced with an increasingly stronger and/or potentially threatening big power? For decades, mainstream international relations theorists have offered two broad answers to this central question: states are likely to either balance against or bandwagon with that power.[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_RisingDragon.pdf)
 
