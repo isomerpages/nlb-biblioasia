@@ -28,9 +28,5 @@ Clifford Kinvig, [<i>River Kwai Railway: The Story of the Burma-Siam Railroad</i
 Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” <i>International Review of Social History</i> 61, no. 4 (2016): 165–85. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)  
 
 
-#### **Transcript** ####
-Coming soon
-
-
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shirlene Noordin and her family for sharing their story.
