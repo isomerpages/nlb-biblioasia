@@ -25,9 +25,5 @@ Gracie Lee, “[Crawfurd on Southeast Asia](/vol-11/issue-4/jan-mar-2016/diction
 Sally Grainger, <i>[The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World]( https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569)</i> (Abingdon, Oxon: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
 
-#### **Transcript** ####
-Coming soon
-
-
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Toffa for coming on the show.
