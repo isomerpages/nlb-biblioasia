@@ -25,7 +25,7 @@ The Indo-Saracenic style is closely associated with British imperialism. The Bri
 
 This article will consider the importance of “local agency” (choices made by local Asian community leaders in colonial Singapore) in both the transplantation of the style into Singapore and the abstraction of the dome as a potent symbol of mosques. The Board of Trustees and Building Committee of the Sultan Mosque commissioned Swan and Maclaren, arguably Singapore’s preeminent architectural firm in the 1920s, and the design was carried out by the firm’s Irish architect, Denis Santry. It was through this collaborative relationship between Asian Muslims and a Western architect that a new vocabulary of domes and decorative minarets was introduced into Singapore’s mosque architecture.
 
-<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture1.jpg" style="width:80%;">
+<img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/capture3.jpg" style="width:80%;">
  <div style="background-color: white;">Artist's impression of the new Sultan Mosque, 1925.<i> Courtesy of the Sultan Mosque.</i></div>
 
 
@@ -63,7 +63,7 @@ The Taj Mahal may have been a source of inspiration for the Sultan Mosque. <i>Co
 The facade facing North Bridge Road is decorated with the *pishtaq* motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah, who passed away in 1891.
 
 <img src="/images/Vol%209%20Issue%201/Domes%20on%20Mosques/facade%20pishtaq%20motif.jpg" style="width:50%;">
- <div style="background-color: white;">The Sultan Mosque's facade facing North Bridge Road decorated with the *pishtaq* motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah, who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
+ <div style="background-color: white;">The Sultan Mosque's facade facing North Bridge Road decorated with the <i>pishtaq</i> motif. The doors open directly into the chamber containing the grave of Sultan Alauddin Alam Shah, who passed away in 1891. <i>Courtesy of Ten Leu-Jiun.</i></div>
 
 Ornamental crestings fringe the edge of the roofline similar to those found on the Friday Mosques in Kuala Lumpur, Delhi and Lahore. The first is in the Indo-Saracenic style, designed by Arthur Benison Hubback in 1909, and the latter two mosques are iconic structures from the Mughal period of Indian-Islamic architecture. Decorative pinnacles are topped with stylised lotus buds; they project at intervals from the edge of the roofline, and spring from different heights off the decorous elements on the terrace of the roof. Like the Taj Mahal, the central portion of the facade facing North Bridge Road (the section directly beneath the dome) is executed with the *pishtaq* motif – an Iranian-derived portal design consisting of a monumental pointed arch set within a rectangular frame decorated with bands of ornamentation.
 
