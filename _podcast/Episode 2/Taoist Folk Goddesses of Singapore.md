@@ -13,6 +13,8 @@ Maiden Lin, Maiden Lei and Maiden Huang are local goddesses whose legends began 
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
+Subscribe to get notified when the next episode drops.
+
 #### **About the Guest** ####
 Ng Yi-Sheng is a poet, fictionist, playwright and researcher. His books include the debut poetry collection <i>last boy</i>, <i>A Book of Hims</i> and <i>Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.
 
