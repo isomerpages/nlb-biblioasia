@@ -15,6 +15,8 @@ During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
+Subscribe to get notified when the next episode drops.
+
 #### **About the Guest** ####
 Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
 

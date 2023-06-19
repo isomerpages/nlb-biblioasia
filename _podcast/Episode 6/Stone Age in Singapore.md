@@ -15,6 +15,8 @@ Stone tools have been found in and around Singapore since the late 19th century,
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
+Subscribe to get notified when the next episode drops.
+
 #### **About the Guest** ####
 Foo Shu Tieng is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on [ResearchGate](https://www.researchgate.net/profile/Shu-Tieng-Foo).
 

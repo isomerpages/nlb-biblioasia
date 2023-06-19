@@ -5,6 +5,9 @@ description: ""
 ---
 #### Muhammad Ariff Ahmad, better known by his pen name MAS (Muhammad Ariff Singapura), made significant contributions to Singapore's Malay language, literature and culture.
 
+<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Seni%20untuk%20Masyarakat.jpg">
+ <div style="background-color: white;"><i>Seni untuk Masyarakat</i> (Arts for the People) exhibition panels.</div>
+
 “A prominent expert and activist of the Malay language, literature and culture who never stops writing and imparting his knowledge.” This succinctly sums up Haji Muhammad Ariff Ahmad, better known by his pen name MAS. Muhammad Ariff has many pseudonyms, of which MAS is most recognisable. MAS stands for Muhammad Ariff Singapura (Muhammad Ariff of Singapore) – an apt moniker, considering his contributions to the Malay language, literature and culture. His other pen names include M. Arba, P.L. Rajaudang, M. Foerida, Mas Malaya, Mas Tanjung Malim, Mas S.P.10 and Minamoria.
 
 Muhammad Ariff Bin Ahmad was born in Kampong Tiong in Singapore on 6 December 1924 at 25 Outram Road. The second of four children, he lived in different parts of Singapore, including Newton Road, Dunearn Road, Tiong Bahru and Henderson Road. In the day he sold cakes made by his mother, a housewife, and every evening his father would teach him to read the Quran.
@@ -14,9 +17,6 @@ At school, Muhammad Ariff loved reading and took part in many writing competitio
 After World War II, he studied at Sultan Idris Training College in Tanjung Malim, Perak, to fulfill his father’s wish for him to become a teacher. Fortunately, his career as a teacher allowed him to continue writing. Muhammad Ariff wrote numerous books including short stories, nonfiction, children’s literature and school textbooks. Besides contributing articles and essays to newspapers and magazines in Singapore and Malaysia, he also wrote drama and documentary scripts for television and radio broadcasts.
 
 #### **The People’s *Cikgu***
-
-<img style="width:90%;" src="/images/Vol%209%20Issue%201/Sumbangsih%20MAS/Seni%20untuk%20Masyarakat.jpg">
- <div style="background-color: white;"><i>Seni untuk Masyarakat</i> (Arts for the People) exhibition panels.</div>
  
 Muhammad Ariff’s life saw a dramatic change in November 1933. One afternoon, when playing rounders (baseball) in a field along Malcolm Road and Chancery Lane, he was “caught” by a teacher from Sekolah Melayu Tanglin Besar (Tanglin Besar Malay School), who was furious to see him not in school.
 
@@ -35,7 +35,7 @@ It was in SITC that he became acquainted with many writers and activists from al
 
 Muhammad Ariff retired as a senior lecturer at the Institute of Education. After that he was appointed as the editor of the Malay edition of *Grow* magazine (*Majalah Mekar*) published by the Ministry of Education. He also produced many school textbooks during his stints at SITC and the Institute of Education, and was behind the scheme of work for the teaching of Malay language, literature and science in Malay language for Singapore schools.
 
-He was a member of the Romanized Malay Spelling committee that developed the Singapore Malay language. In 1966, he organised the First Malay National Language Congress in Singapore.
+He was a member of the Romanised Malay Spelling committee that developed the Singapore Malay language. In 1966, he organised the First Malay National Language Congress in Singapore.
 
 Muhammad Ariff’s contributions as a teacher were not confined to the realm of education. As highlighted by Guntor Sadali, former editor of *Berita Harian/Berita Minggu*, “Cikgu Ariff is a reference point of the community and he is ever ready with the answers when there are issues about the Malay Language.” Muhammad Ariff reached out to the community through his regular columns and broadcasts through the mainstream media.
 
@@ -56,7 +56,7 @@ In 1947, Muhammad Ariff completed his first novel, *Menyahut Seruan Ibunda* (*An
 
 Muhammad Ariff believed that writing was his responsibility, one that allowed his fellow countrymen to view life positively and lead a meaningful existence. For instance, his novelette *Sarah Pengarang Kechil*, published in 1957, exemplifies his concerns on the importance of education for the next generation to achieve success. The novelette became a textbook for Malay literature. The novel *Mail Mau Kawin* (*Mail Wants to Wed*), published in 1976, considers the issues of the Malay community at the time. The importance of lifelong learning was subtly touched on as one of the ways to overcome the vicious cycle of poverty. Another example is the poem “Is It True?”, which stirred controversy when it was published in *Berita Harian* in 1974.
 
-“Is It True” encourages readers to reflect and compare truth and falsehood. It is a simple poem with deep meaning. The poem provokes readers to think about life through the beauty of poetry.
+“Is It True?” encourages readers to reflect and compare truth and falsehood. It is a simple poem with deep meaning. The poem provokes readers to think about life through the beauty of poetry.
 
 His works spanned almost 65 years of his life and comprise various themes that express his journey and struggles in the fields of literature, language and culture. At the same time, his poems serve as a documentation of our social memories.
 

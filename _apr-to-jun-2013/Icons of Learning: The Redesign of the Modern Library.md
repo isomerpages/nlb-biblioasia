@@ -93,7 +93,7 @@ In order to remain relevant, the reimagining of future libraries in Singapore mu
 
 <div>
 <b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of <i>BiblioAsia</i>, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
-<div>
+<div><br>
 <b>Liyana Taha</b> is an Assistant Curator with the National Library Exhibitions and Curation division. She has an MA in Cultural Studies, and is interested in the premise on which knowledge is presented.
 </div>
 
