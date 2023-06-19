@@ -13,24 +13,15 @@ Writer and educator Ilya Katrinnada interviewed the Orang Seletar who resettled 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IVahEWiPKuc" height="315" width="560"></iframe>
 
- 
-
 #### **Listen to the Full Episode** ####
-
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
- 
+Subscribe to get notified when the next episode drops.
 
 #### **About the Guest** ####
-
 Ilya Katrinnada is an educator and writer with a keen interest in the intersections of creativity, community and education. Having graduated with a major in anthropology, she currently works as a special education teacher. 
 
- 
-
- 
-
 #### **Resources** ####
-
 Ilya Katrinnada, “[The Orang Seletar: Rowing Across Changing Tides](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides),” *BiblioAsia* 18, no. 1 (2022).
 
  
