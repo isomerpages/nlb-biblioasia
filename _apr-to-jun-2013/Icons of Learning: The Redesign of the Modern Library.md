@@ -54,7 +54,7 @@ In the drive to reconfigure library spaces, some libraries have created blended 
 People visit libraries for a variety of activities – read, research, discuss project work, attend exhibitions, participate in community meetings and workshops, work away from home and enjoy multimedia entertainment, among others – but they also want these activities to take place in an inspiring, aesthetically pleasing environment.[^9] As with the internal spaces of libraries, the architecture of library buildings is being transformed. From the futuristic Joe and Rika Mansueto Library[^10] at the University of Chicago to the imposing Seattle Public Library, these inspiring buildings are proof that reports of the death of the physical library have been exaggerated.
 
 
-<img style="width:80%;" src="/images/Vol%209%20Issue%201/Icons%20of%20Learning/National%20Libary%20building2.jpg">
+<img style="width:80%;" src="/images/Vol%209%20Issue%201/Icons%20of%20Learning/facade%20of%20Bishan%20Public%20Library.jpg">
  <div style="background-color: white;">The facade of Bishan Public Library. <i>Patrick Bingham–Hall, courtesy of LOOK Architects.</i></div>
 	
 	
@@ -92,8 +92,7 @@ Library design in Singapore has already taken some steps toward the transformati
 In order to remain relevant, the reimagining of future libraries in Singapore must accommodate the changing roles and functions of libraries. The mission of libraries to promote reading and literacy to create readers for life, learning communities and a knowledgeable nation will continue to be important, but Singapore’s future libraries must evolve to continue to draw library users through inspiring and transformative spaces and services.
 
 <div>
-<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of <i>BiblioAsia</i>, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
-<br>
+<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of <i>BiblioAsia</i>, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div><br>
 <div>
 <b>Liyana Taha</b> is an Assistant Curator with the National Library Exhibitions and Curation division. She has an MA in Cultural Studies, and is interested in the premise on which knowledge is presented.
 </div>
