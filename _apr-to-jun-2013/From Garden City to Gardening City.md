@@ -55,12 +55,9 @@ In 1988, a civic organisation showed how citizens could participate in the Garde
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Chek_Jawa1.jpg">
  <div style="background-color: white;">Chek Jawa wetlands off Pulau Ubin. <i>Wikimedia Commons.</i></div>
 
-Sungei Buloh was the first postcolonial allocation of land for nature conservation[^14], and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal was also seen to be what became an “inescapable collaborative manner of governing”.[^15]
+Sungei Buloh was the first postcolonial allocation of land for nature conservation,[^14] and the society’s approach became a template adopted by later initiatives when engaging the state: doing research and creating professional reports, formulating concrete counter-proposals, as well as winning public opinion and convincing members of the government. The decision by the state to agree with the society’s proposal was also seen to be what became an “inescapable collaborative manner of governing”.[^15]
 
 This was reflected in the case of Chek Jawa wetlands in 2001. Located on the island of Pulau Ubin, Chek Jawa had already been slated for reclamation since 1992, but a chance discovery in 2000 of its rich biodiversity led a group of volunteers to follow in the footsteps of the NSS and come up with a report on Chek Jawa’s natural heritage and a petition to the government for the conservation of this natural habitat.
-
-&gt; As Lee Kuan Yew outlined in his vision of the future: “By the 1990s, Singapore can become a green, shady city filled with fruits and flowers, a city worthy of an industrious people whose quest for progress is matched by their appreciation for the beauty of nature."
-
 
 The government surprised many by agreeing to do so, promising to leave Chek Jawa untouched for the next 10 years. After the decision was made, Minister for National Development Mah Bow Tan said: “Has there been any change in our thinking? No. What has changed is the environment. Over the past 10 years, people’s awareness of heritage and conservation issues has become more acute. The Government has also become more aware of the need to accommodate this... giving people a sense of belonging to Singapore.”[^16]
 
@@ -68,7 +65,7 @@ The intent was not radically different from what Othman Wok said at the 1964 tre
 
 #### **From Garden City to Gardening City**
 
-Concrete change in the government’s approach can be seen in projects such as Community in Bloom. Reminiscent of the earlier initiative to plant fruit trees in housing estates in the 1980s, the National Parks Board (NParks) launched this project in 2005 so that people could start community gardens in public and private housing estates, educational institutions and organisations such as hospitals. The aim was to “foster a gardening culture among the people in Singapore”[^18], and unlike earlier efforts where residents were tasked to take care of trees planted by the state, community gardens were initiated by individuals in the community.
+Concrete change in the government’s approach can be seen in projects such as Community in Bloom. Reminiscent of the earlier initiative to plant fruit trees in housing estates in the 1980s, the National Parks Board (NParks) launched this project in 2005 so that people could start community gardens in public and private housing estates, educational institutions and organisations such as hospitals. The aim was to “foster a gardening culture among the people in Singapore”,[^18] and unlike earlier efforts where residents were tasked to take care of trees planted by the state, community gardens were initiated by individuals in the community.
 
 Together, the people would decide what to plant in the gardens and how so, while NParks would act as a facilitator, offering gardening tips and helping residents navigate the thorny issue of land ownership by seeking permission from relevant agencies. In the last seven years, some 480 community gardens have been set up across the island.[^19] Community in Bloom was a way in which the state could allow citizens to participate in building the Garden City still within its purview. As a news report on the programme last year highlighted, this was a viable alternative against the issue of citizens gardening illegally on state land, saying there was “no need for keen gardeners here to break the law”.[^20]
 
@@ -78,7 +75,7 @@ Perhaps no better project showcases the government’s changed approach to worki
 
 The government soon weighed in favourably on this, and even invited public feedback and suggestions. By July 2011, Minister of State for National Development Tan Chuan-Jin, who was leading this development project, had formed an informal work group with various people from the nature and heritage groups, as well as architects and academics, to chart the future of the land[^24] and even explored the stretch with them. The group was later formalised as the Rail Corridor Partnership, formed to “look into the programming and promotion of suitable community activities and events along the Rail Corridor”.[^25] Over the last year, workshops and exhibitions have been put up to explore the possibilities of developing the land, while there have also been runs and walks organised for the public to enjoy the stretch.
 
-As Leong noted, the Rail Corridor development “signals the Government’s readiness to collaborate and engage civil society groups at a deeper level”.[^26] Unlike Sungei Buloh and Chek Jawa, the government consulted and engaged citizens from early on in the formulation of the future of the Rail Corridor, even including them as part of discussions in an informal work group that became a formal partnership. As Tan said in the Budget debates last year, this was an example of “cocreation”[^27], where the government was empowering citizens to participate in the making of the “City in a Garden”.
+As Leong noted, the Rail Corridor development “signals the Government’s readiness to collaborate and engage civil society groups at a deeper level”.[^26] Unlike Sungei Buloh and Chek Jawa, the government consulted and engaged citizens from early on in the formulation of the future of the Rail Corridor, even including them as part of discussions in an informal work group that became a formal partnership. As Tan said in the Budget debates last year, this was an example of “cocreation”,[^27] where the government was empowering citizens to participate in the making of the “City in a Garden”.
 
 In a sense, this has allowed citizens to become “gardeners” of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it. In this area, citizens have been able to make a significant impact on Singapore’s policymaking process.
 
@@ -86,11 +83,9 @@ It is also interesting to note that most calls by citizens have been for the pre
 
 Such a mindset is worrying because there may come a point in time where the only definition left of nature is that of a garden. For now, one must be stubbornly optimistic and say that Singapore as a “City in a Garden” is no longer a static and monolithic one, as it has been over the decades. The garden is now blossoming with diverse voices – from citizens, nongovernmental organisations and even corporations – that reflect a rich landscape. Some may want to call it a “messier” kind of garden, but another way of looking at it is to simply appreciate the beauty of nature as it evolves organically.
 
-&gt; Citizens have become “gardeners” of this “City in a Garden”, where they are not passive consumers of a landscape defined by someone else, but active participants in shaping it.
-
 
 <div>
-<b>Justin Zhuang</b> writes about and researches Singapore’s visual culture, heritage and spaces under the auspices of In Plain Words (http://inplainwords.sg)
+<b>Justin Zhuang</b> writes about and researches Singapore’s visual culture, heritage and spaces under the auspices of In Plain Words (http://inplainwords.sg).
 </div>
 
 
@@ -202,7 +197,7 @@ Wee, Y.C., &amp; Hale, R. (2008). The Nature Society (Singapore) and the struggl
 
 [^23]: [Tai](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121210-1.2.26.5.1), 10 Dec 2012, pp. 4–5.
 
-[^24]:. [Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9), 10 Jul 2011, p. 15.
+[^24]: [Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110710-1.2.11.9), 10 Jul 2011, p. 15.
 
 [^25]: Urban Redevelopment Authority (Singapore), _URA Establishes Rail Corridor Partnership to Explore and Promote Community Activities Along Rail corridor_, 12 May 2012.
 

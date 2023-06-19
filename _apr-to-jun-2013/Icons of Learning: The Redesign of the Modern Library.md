@@ -32,8 +32,6 @@ People continue to use libraries for traditional activities such as borrowing an
 
 In a direct counterpoint to faceless interactions in cyberspace, the modern library has become a social space that brings people together in a productive learning environment to share, converse, collaborate and co-create. As library users move from content consumption to content creation, libraries have transformed from learning spaces into centres of knowledge production. The focus of library spaces has accordingly shifted from the display of information resources to enabling the activities of users of these resources. In short, *materials* have been replaced by *people* at the heart of the modern library.
 
-&gt; To stand in a library building of distinctive and innovative design is to be present in a crucible where every idea holds promise and anything is possible.
-
 To remain relevant and accommodate changing user needs and expectations, libraries worldwide are reconceptualising their roles and functions so as to continue providing access to a range of information resources in a productive learning environment, and support knowledge sharing and collaboration by enabling users to connect both with libraries and with each other. As a result of this paradigm shift, the planning principles guiding library design are also changing as libraries reconfigure their internal spaces and architecture accordingly. In the digital age, the evolving definition of the modern library is driving the remodelling of library services and transforming the face of the library as we know it.
 
 #### **Rethinking Library Spaces**
@@ -50,8 +48,6 @@ To facilitate conversation and collaboration, libraries worldwide are introducin
 Media labs are another type of increasingly popular collaborative space. Media labs feature various forms of digital media software and tools that allow users to exercise their creativity and skills in recording, editing and remixing digital videos, animations, artworks and music. A good example is YOUmedia, an innovative learning space at the Chicago Public Library’s Harold Washington Library Center, designed to inspire collaboration and creativity among young adults.[^6] The facility offers high-school teens access to thousands of books, over 100 laptop and desktop computers, and a variety of media creation tools and software such as an in-house recording studio. Through workshops and the guidance of mentors, teens develop their digital media skills and create digital artefacts such as photographs, songs, videos and blogs, thus building their critical thinking, creative and digital media skills.
 
 In the drive to reconfigure library spaces, some libraries have created blended spaces by co-locating with partners offering complementary services. The Phoenix Parks and Recreation Department and Library Department, for instance, collaborated to create the Verde Library and Maryvale Community Center in Arizona, USA.[^7] Opened in 2006, this integrated facility combines a park, community centre and library with an auditorium for public performances and talks. The facility has invigorated the surrounding community: it has demonstrated the natural attraction of the library as a community hub, and the power of partnerships and cross-pollination in bringing people together to create strong communities. The response to the project has been positive: the community centre has the highest foot traffic in the Phoenix Parks Recreation System, and the library has the second highest for Phoenix Public Library branches.[^8]
-
-&gt; The focus of library spaces has accordingly shifted from the display of information resources to enabling the activities of users of these resources. In short, materials have been replaced by people at the heart of the modern library.
 
 #### **Inspiring Library Buildings**
 
@@ -84,9 +80,7 @@ Today, libraries play a critical role as the main public advocate of reading and
 
 Singapore's libraries have become social learning hubs. Libraries draw people together in a neutral social space where they interact through shared learning activities such as talks, book clubs and group discussions. By enabling such public interactions, libraries promote tolerance, civility and graciousness, and help build social ties that moderate the behaviour of the community positively. In the current digital age, when people are becoming increasingly disconnected from their communities and socially isolated, libraries play a significant role in ensuring that we remain connected to each other not just remotely through the internet, but also through close social ties.
 
-&gt; An inspiring library building is more than the sum of its spaces. It is a symbol of the power of ideas and knowledge, and a declaration of national pride, achievement, history and power.
-
-Libraries are also becoming social spaces that encourage interaction between people as well as between people and information. For instance, libraries are curating exhibitions to initiate interaction between library resources and patrons. Such exhibitions not only showcase the rich collections that libraries offer, but also open a doorway to local history and heritage. The National Library’s recent *Campaign City* exhibition, for instance, highlighted diverse nation-building efforts over the years, and enabled reinterpretations of these campaigns via artworks by commissioned artists and youths.
+Libraries are also becoming social spaces that encourage interaction between people as well as between people and information. For instance, libraries are curating exhibitions to initiate interaction between library resources and patrons. Such exhibitions not only showcase the rich collections that libraries offer, but also open a doorway to local history and heritage. The National Library’s recent "Campaign City" exhibition, for instance, highlighted diverse nation-building efforts over the years, and enabled reinterpretations of these campaigns via artworks by commissioned artists and youths.
 
 Library design is thus important in enabling libraries to remain relevant to users. It impacts the ability of libraries to reach out to people and to promote social and creative interaction. The reconceptualisation of libraries and the reshaping of library spaces around user needs acknowledge that libraries are uniquely placed to support the development of a knowledgeable people.
 
@@ -98,10 +92,8 @@ Library design in Singapore has already taken some steps toward the transformati
 In order to remain relevant, the reimagining of future libraries in Singapore must accommodate the changing roles and functions of libraries. The mission of libraries to promote reading and literacy to create readers for life, learning communities and a knowledgeable nation will continue to be important, but Singapore’s future libraries must evolve to continue to draw library users through inspiring and transformative spaces and services.
 
 <div>
-<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of *BiblioAsia*, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
+<b>Joanna Tan</b> is a Manager with the National Library Board’s Strategic Planning division. She was formerly the managing editor of <i>BiblioAsia</i>, and a researcher and editor for Singapore Infopedia. Her research interests include Singapore history and heritage, design and children’s literature.</div>
 <br>
-
-	
 <div>
 <b>Liyana Taha</b> is an Assistant Curator with the National Library Exhibitions and Curation division. She has an MA in Cultural Studies, and is interested in the premise on which knowledge is presented.
 </div>
@@ -113,7 +105,7 @@ In order to remain relevant, the reimagining of future libraries in Singapore mu
 
 [$60m donation for National Library HQ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030916-1.2.3). (2003, September 16). _The Straits Times_, p. 1. Retrieved form NewspaperSG.
 
-Azizah Sidek., et al. (Eds.). (2007). [_The people’s library: 50 years of national and public library services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922679). Singapore: National Library Board. (Call no.: RSING 027.55957 SIN)
+Azizah Sidek, et al. (Eds.). (2007). [_The people’s library: 50 years of national and public library services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922679). Singapore: National Library Board. (Call no.: RSING 027.55957 SIN)
 
 Chew, D. (2005, November 11). [A new chapter begins](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051111-1.2.75.3). _Today_, p. 60. Retrieved from NewspaperSG.
 
@@ -157,7 +149,7 @@ LJ’s New Landmark Library: Palo Verde Library/Maryvale Community Center. (2011
 
 Lucchese, R. (2011, November 28). The Stuttgart Library. _Positive magazine_. Retrieved from Positive magazine website.
 
-Lynn Becker. (2003—2006). Sleekness in Seattle. Repeat. Retrieved from lynnbecker.com website.
+Lynn Becker. (2003–2006). Sleekness in Seattle. Repeat. Retrieved from lynnbecker.com website.
 
 National Library Board. (2020, October 1). [_History of the National Library_](https://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx). Retrieved from National Library Board website.
 
@@ -198,35 +190,35 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 #### **NOTES**
 
 
-[^1]: Nan Dahlkild. (2011, Summer). The emergence and challenge of the modern library building: Ideal types, model libraries, and guidelines, from the Enlightenment to the experience economy. _Library Trends: Library Design From Past to Present_, *60* (1),11—42.
+[^1]: Nan Dahlkild. (2011, Summer). The emergence and challenge of the modern library building: Ideal types, model libraries, and guidelines, from the Enlightenment to the experience economy. _Library Trends: Library Design From Past to Present_, *60* (1),11–42.
 
-[^2]: Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174—189.
+[^2]: Hellen Niegaard. (2011, Summer). Library space and digital challenges. *Library Trends: Library Design From Past to Present, 60* (1), 174–189.
 
-[^3]: Daniel J. Caron. (31 May 2012). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
+[^3]: Daniel J. Caron. (2012, May 31). Finding Our Place on the Digital Shelf. Speech delivered at the Canadian Library Association National Conference, Ottawa, Ontario.
 
-[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, Jan). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
+[^4]: Kathryn Zickuhr, Lee Rainie and Kristen Purcell. (2013, January). *Library services in the digital age*. Washington, DC: Pew Research Center’s Internet &amp; American Life Project. Retrieved from Pew Research Center website.
 
-[^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437—441.
+[^5]: The types of redesigned library spaces mentioned here focus on those used by members of the public. However, some libraries have also included staff spaces in the redesign process. See the example of Galter Library at Northwestern University in Martha C. Adamson and Brian P. Bunnett, “Planning library spaces to encourage collaboration”, _J Med Libr Assoc_. 2002 October, *90* (4): 437–441.
 
 [^6]: YouMedia at the Harold Washington Library. *About Us*. Retrieved from Chicago Public Library website.
 
-[^7]: Clifford A. Pearson. (Oct 2006). Palo Verde Branch Library and Maryvale Community Center. *Architectural Record*. Retrieved from PubMed.gov website.
+[^7]: Clifford A. Pearson. (2006, October). Palo Verde Branch Library and Maryvale Community Center. *Architectural Record*. Retrieved from PubMed.gov website.
 
-[^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (May 15, 2011). *Library Journal*. Retrieved from libraryjournal.com website.
+[^8]: LJ’s New Landmark Library: Palo Verde Library/ Maryvale Community Center. (2011, May 15). *Library Journal*. Retrieved from libraryjournal.com website.
 
 [^9]: In an environmentally conscious age, users are also paying attention to environmental sustainability as an aspect of library design. See Brian W. Edwards. (2011, Summer). Sustainability as a driving force in contemporary library design. *Library Trends: Library Design From Past to Present, 60* (1), 190–214.
 
 [^10]: University of Chicago Library. *The Joe and Rika Mansueto Library*. Retrieved from University of Chicago Library website.
 
-[^11]: Stuttgart City Library / Yi Architects. (2011, Dec 23). *ArchDaily*. Retrieved from archdaily.com website.
+[^11]: Stuttgart City Library / Yi Architects. (2011, December 23). *ArchDaily*. Retrieved from archdaily.com website.
 
-[^12]: The Stuttgart Library. (2011, Nov 28). *Positive Magazine*. Retrieved from Positive magazine website.
+[^12]: The Stuttgart Library. (2011, November 28). *Positive Magazine*. Retrieved from Positive magazine website.
 
-[^13]: Thomas Köster. (Nov 2011). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
+[^13]: Thomas Köster. (2011, November). *The Book Cube*. The New City Library in Stuttgart. Goethe Institut. Retrieved from Goethe Institut website.
 
 [^14]: Köster, Nov 2011.
 
-[^15]: The Seattle Public Library. (Oct 2004). *Metropolis Mag*. Retrieved from metropolismag.com website.
+[^15]: The Seattle Public Library. (2004, October). *Metropolis Mag*. Retrieved from metropolismag.com website.
 
 [^16]: Lynn Becker. (2003–2006). *Sleekness in Seattle. Repeat*. Retrieved from lynbecker.com website.
 
@@ -234,12 +226,12 @@ YouMedia Chicago. (2020, January 12). _About us_. Retrieved from Chicago Public 
 
 [^18]: National Library Board. (2013). _[History of the National Library](https://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx)_. Accessed at http://www.nl.sg/.
 
-[^19]: Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. IFLA. (July 2010). Metropolitan Libraries Section Survey. Retrieved from IFLA. Metropolitan Libraries website.
+[^19]: Singapore was second only to the Toronto Public Library, Canada, which averaged 7.33 visits per capita. IFLA. (2010, July). Metropolitan Libraries Section Survey. Retrieved from IFLA. Metropolitan Libraries website.
 
 [^20]: Singapore’s new National Library. _The Arup Journal_, 2/2006, pp. 51–59. Retrieved from Arup Journal website.
 
 [^21]: President’s Design Awards 2009. (2009). Designer of the Year – Look Boon Gee. Retrieved from DesignSingapore Councl website.
 
-[^22]: Leslie Kay Lim. (2013, Jan 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
+[^22]: Leslie Kay Lim. (2013, January 31). [New library opens today in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130131-2.2.37.20). _The Straits Times_, p. 9. Retrieved from NewspaperSG
 
-[^23]: Sumedha Jalote (2013, Jan 10). Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.
+[^23]: Sumedha Jalote (2013, January 10). Engaging Citizens in Development of New Library in Singapore. FutureGov Asia. Retrieved from FutureGov Asia website.

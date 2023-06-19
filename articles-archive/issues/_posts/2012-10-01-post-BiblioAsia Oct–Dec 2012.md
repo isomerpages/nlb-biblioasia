@@ -7,21 +7,22 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba8-3.jpg)
 
-**Director's Column**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-3/oct-dec-2012/director-column/">Director's Column</a>
 
-**Giving Your Past a Present: The Gift of Remembering**<br>[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_PastPresent.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-3/oct-dec-2012/past-present-gift/">Giving Your Past a Present: The Gift of Remembering</a><br>[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_PastPresent.pdf)
 
-**Through His Eyes: Remembering Old Singapore Through the Poems of Edwin Thumboo**<br>
-Singapore's landscape is one that has undergone many changes through the ages, and has come a long way from rural *kampongs* and swaplands. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and by proxy, ourselves.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_EdwinThumboo.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-3/oct-dec-2012/old-singapore-thumboo-poems/">Through His Eyes: Remembering Old Singapore Through the Poems of Edwin Thumboo</a><br>Singapore's landscape is one that has undergone many changes through the ages, and has come a long way from rural *kampongs* and swaplands. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and by proxy, ourselves.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_EdwinThumboo.pdf)
 
-**MGS Memories of 11 Mount Sophia**<br>
-Founded in 1887, the Methodist Girls' School (MGS) is among the oldest and most established schools in Singapore. Barbara Quek, a former MGS student, shares with us the history of the school and memories that left a deep imprint on many who passed through its doors.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_MGSMemories.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-3/oct-dec-2012/mgs-memories-mount-sophia/">MGS Memories of 11 Mount Sophia</a><br>Founded in 1887, the Methodist Girls' School (MGS) is among the oldest and most established schools in Singapore. Barbara Quek, a former MGS student, shares with us the history of the school and memories that left a deep imprint on many who passed through its doors.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_MGSMemories.pdf)
 
-**重温“丽的呼声”昔日多姿多彩的时光**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-3/oct-dec-2012/rediffusion-closure/">MGS Memories of 11 Mount Sophia</a><br>
+<a style="text-decoration: none; font-eight: 重温“丽的呼声”昔日多姿多彩的时光</a>bold;" href="/vol-8/issue-3/oct-dec-2012/rediffusion-closure/">         <br>
 Koh Eng Soon shares his personal memories of Rediffusion and the impact it had on the social and recreational life of Singaporeans.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_Rediffusion.pdf)
 
-**Saya dan Bulan Bahasa**<br>
-Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month since 1959.  [(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_BulanBahasa.pdf)
+</a><a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-3/oct-dec-2012/bulan-bahasa/">Saya dan Bulan Bahasa</a><br>
+Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month snce 1959.  [(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_BulanBahasa.pdf)
+	
+
 
 **In the Family: Family History Resources in the National Library**<br>
 Tracing our family history can be a slow and laborious process. The National Library has various resources to help the researcher complete the journey of discovering one’s roots.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_FamilyHistory.pdf)

@@ -50,7 +50,7 @@ The introduction of mass printing technology in the 19th century threatened to u
 The Christian-based journal, *Bahawa hendaklah engkau menyembah Allah dan berbakti kepadanya sahaja*, is one of the publications in Singapore that involve Malay scribes as part of the printing process. It also highlights the important role of missionary presses in the emergence of Malay printing in Singapore. The most important was the Mission Press in the hands of Reverend Benjamin Keasberry, who pioneered the use of lithography to reproduce calligraphic styles so that his publications would appeal to a Malay audience familiar with hand-copied manuscripts. In contrast, earlier missionary publications were typographic prints that could not capture the flair and cursive form of handwritten Jawi, with scripts regarded as too uniform and stilted by Malay readers.
 
 <img style="width:80%;" src="/images/Vol%209%20Issue%201/Malay%20Scribes/Bahawa%20hendaklah%20engkau.jpg">
- <div style="background-color: white;">A typeset page of *Bahawa hendaklah engkau…* is an example of a translated Christian treatise published for missionary work. <i>Bahawa hendaklah engkau menyembah Allah dan berbakti kepadanya sahaja, 1832. Singapore: Mission Press. Collection of the National Heritage Board.</i> </div>
+ <div style="background-color: white;">A typeset page of <i>Bahawa hendaklah engkau…</i> is an example of a translated Christian treatise published for missionary work. <i>Bahawa hendaklah engkau menyembah Allah dan berbakti kepadanya sahaja, 1832. Singapore: Mission Press. Collection of the National Heritage Board.</i> </div>
 
 
 In contrast, lithography, called *cap batu* (stone-stamping) in Malay and favoured by indigenous printers, could convey the grace and fluidity of a scribe’s handwriting. Like copying, scribes would draft a master page on paper that was then etched onto a limestone tablet. The latter acted as a printing plate to reproduce multiple copies of the original hand-composed design. As such, the same scribes with their skill sets could continue to be employed since “a book printed by lithography was essentially a manuscript reproduced”.[^5]
@@ -71,7 +71,7 @@ Aside from the missionary presses, colonial regulations in the Dutch East Indies
 <b>EXHIBITION DETAILS</b>
 <br><br>
 
-“Yang Menulis” (They Who Write) is an exhibition by the Malay Heritage Centre and the National Library, featuring manuscripts from the Library’s Rare Materials Collection. It was first shown at the Malay Heritage Centre from 2 November 2012 to 24 March 2013. It is currently on display (from 30 March–12 May) at the National Library Building, at the Promenade, Level 7. “Yang Menulis” will also travel to Pasir Ris Public Library (14 May–12 June), Jurong Regional Library (14 June–11 July) and Woodlands Regional Library(13 July–11 August). 
+“Yang Menulis” (They Who Write) is an exhibition by the Malay Heritage Centre and the National Library, featuring manuscripts from the Library’s Rare Materials Collection. It was first shown at the Malay Heritage Centre from 2 November 2012 to 24 March 2013. It is currently on display (30 March–12 May) at the National Library Building, at the Promenade, Level 7. “Yang Menulis” will also travel to Pasir Ris Public Library (14 May–12 June), Jurong Regional Library (14 June–11 July) and Woodlands Regional Library (13 July–11 August). 
 </div>
 
 
@@ -88,7 +88,7 @@ Aside from the missionary presses, colonial regulations in the Dutch East Indies
 
 **Books**
 
-Altbach, P.G., &amp; Hoshino, E.S. (1995). _International book publishing: An encyclopedia_. USA: Fitzroy Dearbon Publishers. (Not available in NLB holdings)
+Altbach, P.G., &amp; Hoshino, E.S. (1995). _International book publishing: An encyclopedia_. USA: Fitzroy Dearborn Publishers. (Not available in NLB holdings)
 
 Coulmas, F. (1996). _The Blackwell encyclopedia of writing systems_. Oxford: UK; Cambridge, Mass. (Not available in NLB holdings)
 
@@ -100,7 +100,7 @@ Perpustakaan Negara Malaysia. (1990). [_Manuskrip kegemilangan tamadun Melayu: K
 
 Perpustakaan Negara Malaysia. (2012). _The legacy of Malay manuscripts_. Perpustakaan Negara Malaysia. (Not available in NLB holdings)
 
-Proudfoot, I. (1993). [_Early malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616). \[Kuala Lumpur\]: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO)
+Proudfoot, I. (1993). [_Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616). \[Kuala Lumpur\]: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO)
 
 Ros Mahwati, Ahmad Zakaria &amp; Latifah Abdul Latif. (2008). [_Malay manuscripts: An introduction_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048593). \[Kuala Lumpur, Malaysia\]: Islamic Arts Museum Malaysia. (Call no.: RSING 091.09595 ROS)
 
@@ -112,7 +112,7 @@ Teo, E.L. (2009). [_Malay encounter during Benjamin Peach Keasberry’s time in 
 
 Braginsky, V.I. (2002). Malay scribes on their craft and audience (with special reference to the description of the reading assembly by Safirin bin Usman Fadli). _Indonesia and the Malay World, 30_ (86), 37–61. Retrieved from Taylor &amp; Francis Online website.
 
-Gallop, A.T. (1990). Early malay printing: An introduction to the British Library collection. _Journal of Malayan Branch of the Royal Asiatic Society, 63_ (1) (258), 85–124, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library collection. _Journal of Malayan Branch of the Royal Asiatic Society, 63_ (1) (258), 85–124, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Proudfoot, I. (1997). Mass producing Houri’s moles or aesthetics and choice of technology in early Muslim book printing. In P.G. Riddell &amp; T. Street (Eds.). _Islam: Essays in scripture, thought and society: A festschrift in honour of Anthony H. Johns_. Leiden: Brill. (Not available in NLB holdings)
 

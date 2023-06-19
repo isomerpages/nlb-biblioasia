@@ -6,18 +6,17 @@ description: During World War II, forced civilian labourers known as rōmusha
   Railway. Shirlene Noordin pieces together what happened to her grandfather in
   the three years he worked on the Death Railway.
 image: /images/Podcast/ep 1 (romusha by shirlene) teaser.jpg
+third_nav_title: Episode 1
 ---
-### Coming  20 June ###
-#### **Episode Summary** ####
 During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/) were used by the Imperial Japanese Army to build the infamous Thai-Burma Railway. Shirlene Noordin pieces together what happened to her grandfather in the three years he worked on the Death Railway. 
 
-Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QdzUTGMl4KQ" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on Spotify, Apple Podcasts, Google Podcasts, and wherever you listen.
+Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
-#### **Teaser clip** ####
-
+#### **About the Guest** ####
+Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 
 
 #### **Resources** ####
 Shirlene Noordin, “[My Grandfather Was a Rōmusha]( https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway),” <i>BiblioAsia</i> 18, no. 3 (2016). 
@@ -27,10 +26,6 @@ Robert Hardie, [<i>The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie
 Clifford Kinvig, [<i>River Kwai Railway: The Story of the Burma-Siam Railroad</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6318251) (London: Brassey's, 1992). (From National Library, Singapore, call no. RSING 940.5472592 KIN-[WAR])
 
 Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” <i>International Review of Social History</i> 61, no. 4 (2016): 165–85. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)  
-
-
-#### **Transcript** ####
-Coming soon
 
 
 #### **Credits** ####
