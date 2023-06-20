@@ -19,10 +19,10 @@ sections:
   - infopic:
       title: A New Podcast on Stories about Singapore's Past
       subtitle: Podcast
-      description: "Homegrown Taoist goddesses. The rituals behind the annual Hindu
-        firewalking festival. Paya Lebar Airport's lost murals. "
+      description: Homegrown Taoist goddesses. The rituals behind the annual Hindu
+        firewalking festival. Paya Lebar Airport's lost murals.
       button: Listen to the podcast
-      url: /podcast/grandfather-romusha-thai-burma-railway/
+      url: /podcast/about/
       image: /images/Podcast/de edm 600-400px.jpg
       alt: romusha death railway
   - infopic:
