@@ -70,3 +70,112 @@ The missionary outreach of Singapore Chinese Catholic community in the 1870s, it
 #### **Conclusion**
 
 The MEP’s mission strategy in 19th century Singapore, and perhaps generally in Asia, was to plant Catholic communities throughout Asia as a precursor to the establishment of indigenous Churches. The distribution of bibles and mere street preaching, the *modus operandi* of Protestant missionaries of the day, yielded little in a society that was still transient, mostly illiterate and more concerned with day to day affairs. In the Malay Archipelago, proselytising to indigenous Muslim Malays could only reap certain failure. There were also too few Eurasians and Europeans to form a rooted Church, and besides, they could hardly constitute a localised, or “Asianised” Catholic Church and community. It was left to the sojourning immigrants of East, Southeast and South Asia to provide the critical mass for the creation of a local Christian and Church community.
+
+<div>
+<center><b>Clement Liew</b><br>PhD candidate<br> National Institute of Education<br>Nanyang Technological University</center>
+</div>
+
+#### **NOTES**
+
+1\. See Straits Settlements Record (SSR), N2 1827, 23 August 1827; Manuel Teixeira, _[The Portuguese Mission in Malacca and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1048109)_, vol. 3. (Lisboa: Agencia Geral do Ultramar, 1963), 10. (Call no. RCLOS 266.25953 TEI)
+
+2\. J M Beurel, _Annales de la Mission Catholique De Singapore, Ecrites Par Le Soussigne En Ese Moments De Loisir_, 329; Archives de la Missions Etrangeres (AME) 892, 851–54, 23 February 1833.
+
+3\. Beurel, _Annales_, 11–12.
+
+4\. AME 892, 1035–7, 8 August 1834; 1051–4, September 1834; Joseph Ruellen, _Situation Generale En Asis Du Sud-Est a Liarrivee De Mgr. P. Bigandet, Mai 1834–Nov 1859_ (Singapore: MEP House, 1998). Compilation of manuscript correspondences from MEP Archives, Paris, AME, Siam, 27 September 1834, Fr Pallegoix to Mgr Courvezy.
+
+5\. Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
+
+6\. Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
+
+7\. Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
+
+8\. Annals de la Propagation de la Foi, Malaisie (APF), 22 November 1834.
+
+9\. Annals de la Propagation de la Foi, Malaisie (APF), 10 September 1833 and 26 December 1833.
+
+10\. AME 892, 1051–4, Sep 1834; APF, vol. XLII, September 1835, 124–34, 22 November 1834.
+
+11\. (APF), vol. XLII, September 1835, 124–34, 10 September 1833.
+
+12\. Stephen Neill, _A History of Christian Missions_ (Great Britain: Penguin Books, 1964), 191. As a measure to avoid the persecution of the Manchu Government, College General was located outside China.
+
+13\. Ruellen, _Situation Generale_, AME, Siam, 27 September 1834, Fr Albrand to Mgr Courvezy.
+
+14\. APF, September 1835, 124–34, 26 December 1833. Scholars have argued that overseas Chinese, “deprived of their accustomed family and lineage support”, sought out alternative solidarities. Although for the Chinese overseas, “moral constraints of kinship village attachment remained strong”, they were less direct. See Ng Chin Keong, “The Cultural Horizon of South China’s Emigrants in the Nineteenth Century: Change and Perspective”, in _[Asian Traditions and Modernization. Perspectives From Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6322098)_, ed. Yong Mun Cheong (Singapore: Centre for Advanced Studies, National University of Singapore, 1992), 24–26. (Call no. RSING 959.57 ASI)
+
+15\. APF, September 1835, 124–34, 26 December 1833.
+
+16\. Jean-Paul Wiest, “Catholic Activities in Kwangtung Province and Chinese Responses, 1848–1885” (PhD dissertation, University of Washington, 1977), 112.
+
+17\. AME 893, 975–7, 29 March 1842. Fr Tchu arrived in 1839.
+
+18\. Singapore Free Press, 27 July 1848.
+
+19\. Beurel, _Annales_, 68. The number of Catholics had increased from 450, in 1838, to 800, in 1846. From 1839, the Chinese Catholics had already constituted half the Catholics on the island. Of a total of 443 baptisms from 1840 to 1846, 333 were of Chinese converts. See Baptism Register, Cathedral, 1840–1846. It was also during this period that they became more than self-reliant. When the bishop found that it became necessary to erect a wall to enclose the Mission Grounds in 1839, the most influential (European) Catholics of the Mission, having continuously subscribed to the Mission’s building projects in the proceeding years, refused to help. It was Chinese Christians who then came to the bishop’s aid.
+
+20\. AME 904/21, 11 May 1845 and 904/32, 7 October 1845. This house was completed by Oct 1845 at a cost of $550. See Beurel, _Annales_, 126.
+
+21\. AME 90, 1401–3, 8 December 1847; 902, 105, 5 May 1848 and 175, 4 July 1848. In 1842, a number of Chinese Christians had started a nutmeg plantation of 17,000 trees with Fr Beurel at Serangoon. It was to raise an annual income of 400 francs from the produce to support the Christian Brothers’ School when it was founded. In December 1849, a seminary was established at the end of Serangoon Road to prepare Chinese candidates for the priesthood, before sending them off to College General in Penang for training. In December 1849, Holy Mary College was established with twelve Chinese seminarians who supported themselves by cultivating nutmeg and coconuts. The college was transferred to Matang Tinggi (near Penang) a year later when eleven of the twelve seminarians withdrew their candidature. See AME 904/94, 18 April 1849; 902, 4 December 1849.
+
+22\. SFP, 16 April 1846.
+
+23\. SFP, 3 July 1849.
+
+24\. See J F McNair, _[Prisoners Their Own Warders](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)_ (Westminster: Archibald Constable and Co., 1899), 68 (Call no. RRARE 365.95957 MAC; microfilm NL12115; accession no. B20048144A). Many historians, including CM Turnbull, Carl Trocki and Wilfred Blythe, have quoted this figure. This figure cannot be confirmed by any official sources. If this figure is near accurate, then the Church would have been wiped out!
+
+25\. AME 902, 1403–5, 2 February 1853.
+
+26\. AME 903, 269–70, 16 December 1854.
+
+27\. AME 903, 1515, 17 October 1859.
+
+28\. Straits Settlements Record, X16, 1858, 23; W28 1858, 12 October 1858, 58.
+
+29\. Beurel, _Annales_, 490. (This page numbering is from the microfilm copy of Fr Beurel’s journal, MEP Archives, vol. 907. Entries for the years from years 1852 to 1860s are missing in the original copy from which I have been quoting thus far).
+
+30\. The school for the Chinese Boys was called St Peter’s School. See _Straits Settlements Annual Report_, 1865–6, 24/7.
+
+31\. Tan No Keah was born at Fuyang City of Zhao’an County, Guangdong Province, in 1821. The family was poor and life was difficult at his hometown, so he borrowed a few pieces of silver and set off to the Nanyang. He first landed in Johore where he worked on a gambier plantation. After having saved some money, he ventured to Singapore where he started gambier plantations at Punggol. Eventually, he was able to build 14 warehouses at Boat Quay. His company was known as “Qianyi” Kongsi, situated at No. 48 Boat Quay (or No. 33 River Valley Road). The company traded mainly in gambier and local produce. He later married a girl from the Convent of the Holy Innocent Jesus (Town Convent) and converted to Catholicism. This information was provided by Tan Keow Meng, great grand-daughter of Tan Tong Seng one of Tan No Keah’s four sons, according to oral accounts provided by her aunt and grandmother in May 2002.
+
+32\. C B Buckley, _[An Anecdotal History of Old Times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)_ (Singapore: Oxford University Press, 1984), 254. (Call no. RSING 959.57 BUC)
+
+33\. AME 902, 1525–30, 2 August 1853.
+
+34\. AME 904/217, 20 February 1861; 904/255, 5 November 1861.
+
+35\. AME 904/246, 20 July 1861. The land granted was most likely within the vicinity of the Johore town, Johore Bahru.
+
+36\. Augustine Perie, _Souvenirs De Malasie, Onze Ans Sous L’equateur_ (France: E. Delsaud, 1885), 19.
+
+37\. Perie, _Souvenirs De Malasie,_ 23.
+
+38\. Perie, _Souvenirs De Malasie,_ 24.
+
+39\. Perie, _Souvenirs De Malasie,_ 26.
+
+40\. C. M. Turnbull, _[Straits Settlements, 1826–67](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4132712)_ (London: Athlone Press, 1972), 152. (Call no. RSING 959.57 TUR)
+
+41\. Perie, _Souvenirs de Malasie_, 25.
+
+42\. Register, St Francis Xavier’s Chapel, Pontien, 1864–1873.
+
+43\. The Straits Calendar and Directory, 1870, 16.
+
+44\. AME 905/97, 10 January 1878.
+
+45\. AME 905/236, 14 September 1881.
+
+46\. Compte Reudu, _Malaisie_, 1882, 82–86.
+
+47\. AME 905/304, 21 July 1883.
+
+48\. AME 905/342, 1884.
+
+49\. AME 905/236, 14 September 1881.
+
+50\. Graham Saunders, _[Bishops and Brookes: The Anglican Missions and the Brooke Raj in Sarawak, 1848–1941](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6159178)_ (Singapore: Oxford University Press, 1992), 28 (Call no. RSEA 959.522 SAU); See AME 904/217, 20 February 1861.
+
+
+
