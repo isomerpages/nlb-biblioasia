@@ -81,7 +81,7 @@ This exhibition is part of the National Library of Singapore’s Literary Herita
 
 Comprising three separate showcases at different locations within the National Library Building, the poetry exhibition teases out some of the most personal, nuanced aspects of the literary titan’s life.
 
-The multi-dimensional exhibition includes a “teaser” display, a re-creation of the pioneer poet’s study at the Lobby of the National Library Building and the Main Exhibition located within the Reading Room at Level 8, National Library, which is a quiet and subtle induction of his public persona and his private realm as a poet and as a citizen. The Main Exhibition is thought-provoking and gives visitors access to Thumboo’s life and the times he has lived through, while allowing them to savour his works in a multisensory presentation.
+The multidimensional exhibition includes a teaser display, a re-creation of the pioneer poet’s study at the Lobby of the National Library Building and the Main Exhibition located within the Reading Room at Level 8, National Library, which is a quiet and subtle induction of his public persona and his private realm as a poet and as a citizen. The Main Exhibition is thought-provoking and gives visitors access to Thumboo’s life and the times he has lived through, while allowing them to savour his works in a multisensory presentation.
 
 The Main Exhibition will run for six months at Level 8 of the National Library Building from 29 September 2012 to 7 March 2013. The teaser exhibition display (previously exhibited at the Lobby of the National Library Building) was first shown at Woodlands Regional Library (3–27 January 2013) and Clementi Public Library (28 January–7 March 2013) as satellite showcases.
 
