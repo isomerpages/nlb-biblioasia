@@ -129,95 +129,95 @@ This study is significant for policy analysis. Given the fact that few states ar
 
 [^10]: Johnston and Ross, [_Engaging China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245); Chien-Peng Chung, “Southeast Asia-China Relations: Dialectics of ‘Hedging’ and ‘Counter-Hedging’,” _Southeast Asian Affairs_ (2004): 35–53 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Evelyn Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), Policy Studies Series no. 16 (Washington, DC: East West Center Washington, 2005) (Call no. RSEA 327.59051 GOH); Francis Fukuyama and G. John Ikenberry, “Report of the Working Group on Grand Strategic Choices” (The Princeton Project on National Security, September 2005), 14–25.
 
-11\. For instance, Evan S. Medeiros, “Strategic Hedging and the Future of Asia-Pacific Stability,” _The Washington Quarterly_ no. 1 (Winter 2005): 145–67; Rosemary Foot, “Chinese Strategies in a US-Hegemonic Global Order: Accommodating and Hedging,” _International Affairs_ 82, no. 1 (2006): 77–94. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^11]: For instance, Evan S. Medeiros, “Strategic Hedging and the Future of Asia-Pacific Stability,” _The Washington Quarterly_ no. 1 (Winter 2005): 145–67; Rosemary Foot, “Chinese Strategies in a US-Hegemonic Global Order: Accommodating and Hedging,” _International Affairs_ 82, no. 1 (2006): 77–94. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-12\. This definition is adapted from Glenn G. Munn et al., _Encyclopedia of Banking and Finance_, 9th ed. (New York: McGraw-Hill, 1991), 485; Jonathan Pollack, “Designing a New American Security Strategy for Asia,” in [_Weaving the Net: Conditional Engagement with China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7667596), ed. James Shinn (New York: Council on Foreign Relations, 1996), 99–132 (Call no. RUR 327.73051 SHI); Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), 2–4.
+[^12]: This definition is adapted from Glenn G. Munn et al., _Encyclopedia of Banking and Finance_, 9th ed. (New York: McGraw-Hill, 1991), 485; Jonathan Pollack, “Designing a New American Security Strategy for Asia,” in [_Weaving the Net: Conditional Engagement with China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7667596), ed. James Shinn (New York: Council on Foreign Relations, 1996), 99–132 (Call no. RUR 327.73051 SHI); Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), 2–4.
 
-13\. The need to go beyond the dichotomous terms was emphasized earlier by Amitav Acharya and Ja Ian Chong. See Amitav Acharya, “[Containment, Engagement, or Counter-Dominance?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245)” and Chong Ja Lan, [_Revisiting Responses to Power Preponderance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200049126) (Institute of Defence and Strategic Studies Working Paper Series no. 54) (Singapore: Institute of Defence and Strategic Studies, 2003) (From PublicationSG). These writings, however, have seemed to privilege one single “prime” policy on a multi-option continuum, thus overlooking the fact that smaller states may and often choose to adopt more than one policy option simultaneously in responding to a rising power.  
+[^13]: The need to go beyond the dichotomous terms was emphasized earlier by Amitav Acharya and Ja Ian Chong. See Amitav Acharya, “[Containment, Engagement, or Counter-Dominance?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245)” and Chong Ja Lan, [_Revisiting Responses to Power Preponderance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200049126) (Institute of Defence and Strategic Studies Working Paper Series no. 54) (Singapore: Institute of Defence and Strategic Studies, 2003) (From PublicationSG). These writings, however, have seemed to privilege one single “prime” policy on a multi-option continuum, thus overlooking the fact that smaller states may and often choose to adopt more than one policy option simultaneously in responding to a rising power.  
   
-14\. For a more detailed account on each of these policy options, see Kuik Cheng-Chwee, “Regime Legitimation and Foreign Policy Choices: A Comparative Study of Southeast Asian States’ Hedging Strategies toward a Rising China, 1990–2005” (dissertation prospectus submitted to Paul H. Nitze School of Advanced International Studies (SAIS), Johns Hopkins University, Washington, D.C., September 2006)
+[^14]: For a more detailed account on each of these policy options, see Kuik Cheng-Chwee, “Regime Legitimation and Foreign Policy Choices: A Comparative Study of Southeast Asian States’ Hedging Strategies toward a Rising China, 1990–2005” (dissertation prospectus submitted to Paul H. Nitze School of Advanced International Studies (SAIS), Johns Hopkins University, Washington, D.C., September 2006)
 
-15\. By contrast, states that pursue pure balancing or pure band wagoning are likely to face entirely different outcomes, depending on the changes in power structure. That is, they will be in a favourable position if the power they choose to bet on eventually prevails. Conversely, they will be in an unfavourable position if the power they choose to take sides with is vanquished by another competing power.
+[^15]: By contrast, states that pursue pure balancing or pure band wagoning are likely to face entirely different outcomes, depending on the changes in power structure. That is, they will be in a favourable position if the power they choose to bet on eventually prevails. Conversely, they will be in an unfavourable position if the power they choose to take sides with is vanquished by another competing power.
 
-16\. Abdul Razak Baginda, “Malaysian Perceptions of China: From Hostility to Cordiality,” [_The China Threat: Perceptions, Myths and Reality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11154702), ed. Herbert Yee and Ian Storey (London: RoutledgeCurzon, 2002), 227–47 (Call no. RUR 327.51 CHI); Shafruddin Hashim, “Malaysian Domestic Politics and Foreign Policy: The Impact of Ethnicity,” in [_ASEAN in Regional and Global Context_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4261414), et al., ed. Karl D. Jackson (Berkeley: University of California, 1986), 155–62. (Call no. RSING 382.0959 ASE)
+[^16]: Abdul Razak Baginda, “Malaysian Perceptions of China: From Hostility to Cordiality,” [_The China Threat: Perceptions, Myths and Reality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11154702), ed. Herbert Yee and Ian Storey (London: RoutledgeCurzon, 2002), 227–47 (Call no. RUR 327.51 CHI); Shafruddin Hashim, “Malaysian Domestic Politics and Foreign Policy: The Impact of Ethnicity,” in [_ASEAN in Regional and Global Context_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4261414), et al., ed. Karl D. Jackson (Berkeley: University of California, 1986), 155–62. (Call no. RSING 382.0959 ASE)
 
-17\. Wang Gungwu, “China and the Region in Relation to Chinese Minorities,” _Contemporary Southeast Asia_ 1, no. 1 (May 1979): 36–50; Stephen Leong, “Malaysia and the People’s Republic of China in the 1980s: Political Vigilance and Economic Pragmatism,” Asian Survey 27, no. 10 (October 1987): 1109–26. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^17]: Wang Gungwu, “China and the Region in Relation to Chinese Minorities,” _Contemporary Southeast Asia_ 1, no. 1 (May 1979): 36–50; Stephen Leong, “Malaysia and the People’s Republic of China in the 1980s: Political Vigilance and Economic Pragmatism,” Asian Survey 27, no. 10 (October 1987): 1109–26. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-18\. Chai Ching Hau, “Dasar Luar Malaysia Terhadap China: Era Dr Mahathir Mohamad \[Malaysia’s Foreign Policy towards China: The Mahathir Mohamad’s Era\] (master’s thesis, National University of Malaysia, 2000); James Clad, “An Affair of the Head,” _Far Eastern Economic Review_, 4 July 1985, 12–14.
+[^18]: Chai Ching Hau, “Dasar Luar Malaysia Terhadap China: Era Dr Mahathir Mohamad \[Malaysia’s Foreign Policy towards China: The Mahathir Mohamad’s Era\] (master’s thesis, National University of Malaysia, 2000); James Clad, “An Affair of the Head,” _Far Eastern Economic Review_, 4 July 1985, 12–14.
 
-19\. Joseph Chin Yong Liow, “Malaysia-China Relations in the 1990s: The Maturing of a Partnership,” _Asian Survey_ 40, no. 4 (July–August 2000), 672–91 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); K. S. Nathan, “Malaysia: Reinventing the Nation,” in [_Asian Security Practice_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9002973), ed. Muthiah Alagappa (Stanford: Stanford University Press, 1998), 513–48. (Call no. RSEA 355.03305 ASI)
+[^19]: Joseph Chin Yong Liow, “Malaysia-China Relations in the 1990s: The Maturing of a Partnership,” _Asian Survey_ 40, no. 4 (July–August 2000), 672–91 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); K. S. Nathan, “Malaysia: Reinventing the Nation,” in [_Asian Security Practice_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9002973), ed. Muthiah Alagappa (Stanford: Stanford University Press, 1998), 513–48. (Call no. RSEA 355.03305 ASI)
 
-20\. “Trade and Investments Statistics,” Ministry of Investment, Trade and Investment, https://www.miti.gov.my.
+[^20]: “Trade and Investments Statistics,” Ministry of Investment, Trade and Investment, https://www.miti.gov.my.
 
-21\. “30 Years of Diplomatic Relations,” United Malays National Organization, accessed 5 June 2004, Mohamad Sadik Kethergany, Malaysia’s China Policy, master’s thesis, Universiti Kebangsaan Malaysia, 2001)
+[^21]: “30 Years of Diplomatic Relations,” United Malays National Organization, accessed 5 June 2004, Mohamad Sadik Kethergany, Malaysia’s China Policy, master’s thesis, Universiti Kebangsaan Malaysia, 2001)
 
-22\. Liow, “Malaysia-China Relations in the 1990s,” 691.
+[^22]: Liow, “Malaysia-China Relations in the 1990s,” 691.
 
-23\. Liow, “Malaysia-China Relations in the 1990s,” 686–9.
+[^23]: Liow, “Malaysia-China Relations in the 1990s,” 686–9.
 
-24\. Baginda, “[Malaysian Perceptions of China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11154702), 244.
+[^24]: Baginda, “[Malaysian Perceptions of China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11154702), 244.
 
-25\. Interviews with Malaysian diplomats and academia, January 2006 and February 2007.
+[^25]: Interviews with Malaysian diplomats and academia, January 2006 and February 2007.
 
-26\. Stephen Leong, “The East Asian Economic Caucus (EAEC): ‘Formalized’ Regionalism Being Denied,” in _National Perspectives on the New Regionalism in the South_, et al., ed. Bjorn Hettne, vol. 3. (London: MacMillan, 2000)
+[^26]: Stephen Leong, “The East Asian Economic Caucus (EAEC): ‘Formalized’ Regionalism Being Denied,” in _National Perspectives on the New Regionalism in the South_, et al., ed. Bjorn Hettne, vol. 3. (London: MacMillan, 2000)
 
-27\. Richard Stubbs, “ASEAN Plus Three: Emerging East Asian Regionalism?” _Asian Survey_ 42, no. 3 (May–June 2002), 443. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^27]: Richard Stubbs, “ASEAN Plus Three: Emerging East Asian Regionalism?” _Asian Survey_ 42, no. 3 (May–June 2002), 443. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-28\. Interviews with Malaysian Foreign Ministry officials, January 2006 and March 2007.
+[^28]: Interviews with Malaysian Foreign Ministry officials, January 2006 and March 2007.
 
-29\. Abdullah Haji Ahmad Badawi, “Keynote Address to the China Malaysia Economic Conference,” speech, Sunway Lagoon Resort Hotel, 24 February 2004, https://www.pmo.gov.my/ucapan/?m=p&amp;p=paklah&amp;id=2833.
+[^29]: Abdullah Haji Ahmad Badawi, “Keynote Address to the China Malaysia Economic Conference,” speech, Sunway Lagoon Resort Hotel, 24 February 2004, https://www.pmo.gov.my/ucapan/?m=p&amp;p=paklah&amp;id=2833.
 
-30\. Liow, “Malaysia-China Relations in the 1990s,” 682–3.
+[^30]: Liow, “Malaysia-China Relations in the 1990s,” 682–3.
 
-31\. Mak Joon Nam, “Malaysian Defense and Security Cooperation,” in [_Asia Pacific Security Cooperation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12896711), ed. See Seng Tan and Amitav Acharya (London: M.E. Sharpe, 2004), 127–53. (Call no. RSING 355.031095 ASI)
+[^31]: Mak Joon Nam, “Malaysian Defense and Security Cooperation,” in [_Asia Pacific Security Cooperation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12896711), ed. See Seng Tan and Amitav Acharya (London: M.E. Sharpe, 2004), 127–53. (Call no. RSING 355.031095 ASI)
 
-32\. Acharya, “[Containment, Engagement, or Counter-Dominance?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245)”, 140.
+[^32]: Acharya, “[Containment, Engagement, or Counter-Dominance?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245)”, 140.
 
-33\. Zakaria Haji Ahmad, “Malaysia,” [_Betwixt and Between: Southeast Asian Strategic Relations with the U.S. and China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12613831), IDSS Monograph No. 7 (Singapore: Institute of Defence and Strategic Studies, 2005), 59. (Call no. RSING 327.59051 BET)
+[^33]: Zakaria Haji Ahmad, “Malaysia,” [_Betwixt and Between: Southeast Asian Strategic Relations with the U.S. and China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12613831), IDSS Monograph No. 7 (Singapore: Institute of Defence and Strategic Studies, 2005), 59. (Call no. RSING 327.59051 BET)
 
-34\. “I am Still Here: Asiaweek’s Complete Interview with Mahathir Mohamad,” _Asiaweek_, 9 May 1997, http://edition.cnn.com/ASIANOW/asiaweek/97/0509/cs3.html.
+[^34]: “I am Still Here: Asiaweek’s Complete Interview with Mahathir Mohamad,” _Asiaweek_, 9 May 1997, http://edition.cnn.com/ASIANOW/asiaweek/97/0509/cs3.html.
 
-35\. Mohd Najib Tun Abd Razak, “Strategic Outlook for East Asia: A Malaysian Perspective,” Keynote Address to the Malaysia and East Asia International Conference, Kuala Lumpur, 9 March 2006.
+[^35]: Mohd Najib Tun Abd Razak, “Strategic Outlook for East Asia: A Malaysian Perspective,” Keynote Address to the Malaysia and East Asia International Conference, Kuala Lumpur, 9 March 2006.
 
-36\. Part of this section is drawn from Kuik Cheng-Chwee, “Shooting Rapids in a Canoe: Singapore and Great Powers,” in [_Impressions: The Goh Years in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13198907) et al., ed. Bridget Welsh (Singapore: NUS Press, 2009). (Call no. RSING 959.5705 IMP)
+[^36]: Part of this section is drawn from Kuik Cheng-Chwee, “Shooting Rapids in a Canoe: Singapore and Great Powers,” in [_Impressions: The Goh Years in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13198907) et al., ed. Bridget Welsh (Singapore: NUS Press, 2009). (Call no. RSING 959.5705 IMP)
 
-37\. John Wong, [_The Political Economy of China’s Changing Relations with Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4163689) (London: Macmillan, 1984) (Call no. RSING 338.9151059 WON); Chia Siow-Yue, “China’s Economic Relations with ASEAN Countries,” in [_ASEAN and China: An Evolving Relationship_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5105319), ed. Joyce K. Kallgren, Noordin Sopiee, and Soedjati Djiwandono (Berkeley: University of California, 1988), 189–214 (Call no. RSING 327.51059 ASE); Lee Lai To, “The Lion and the Dragon: A View on Singapore-China Relations,” _Journal of Contemporary China_ 10, no. 28 (2001), 415–25.
+[^37]: John Wong, [_The Political Economy of China’s Changing Relations with Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4163689) (London: Macmillan, 1984) (Call no. RSING 338.9151059 WON); Chia Siow-Yue, “China’s Economic Relations with ASEAN Countries,” in [_ASEAN and China: An Evolving Relationship_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5105319), ed. Joyce K. Kallgren, Noordin Sopiee, and Soedjati Djiwandono (Berkeley: University of California, 1988), 189–214 (Call no. RSING 327.51059 ASE); Lee Lai To, “The Lion and the Dragon: A View on Singapore-China Relations,” _Journal of Contemporary China_ 10, no. 28 (2001), 415–25.
 
-38\. Yuen Foong Khong, “Singapore: A Time for Economic and Political Engagement,” in [_Engaging China: The Management of an Emerging Power_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245), ed. Alastair Iain Johnston and Robert Ross (New York: Routledge, 1999), 109–28. (Call no. RSING 327.09509045 ENG)
+[^38]: Yuen Foong Khong, “Singapore: A Time for Economic and Political Engagement,” in [_Engaging China: The Management of an Emerging Power_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245), ed. Alastair Iain Johnston and Robert Ross (New York: Routledge, 1999), 109–28. (Call no. RSING 327.09509045 ENG)
 
-39\. Allen Whiting, “ASEAN Eyes China: The Security Dimension,” _Asian Survey_ 37, no. 4 (April 1997)
+[^39]: Allen Whiting, “ASEAN Eyes China: The Security Dimension,” _Asian Survey_ 37, no. 4 (April 1997)
 
-40\. Evelyn Goh, “Singapore’s Reaction to a Rising China: Deep Engagement and Strategic Adjustment,” in _China and Southeast Asia: Global Changes and Regional Challenges_, ed. Ho Khai Leong and Samuel C. Y. Ku (Singapore and Kaohsiung: ISEAS &amp; CSEAS, 2005), 313.
+[^40]: Evelyn Goh, “Singapore’s Reaction to a Rising China: Deep Engagement and Strategic Adjustment,” in _China and Southeast Asia: Global Changes and Regional Challenges_, ed. Ho Khai Leong and Samuel C. Y. Ku (Singapore and Kaohsiung: ISEAS &amp; CSEAS, 2005), 313.
 
-41\. Chan Heng Chee, “Singapore: Coping with Vulnerability,” in _Driven by Growth: Political Change in the Asia-Pacific Region_, ed. James William Morley and Thomas P. Bernstein (New York: M.E. Sharpe, 1993), 219–41.
+[^41]: Chan Heng Chee, “Singapore: Coping with Vulnerability,” in _Driven by Growth: Political Change in the Asia-Pacific Region_, ed. James William Morley and Thomas P. Bernstein (New York: M.E. Sharpe, 1993), 219–41.
 
-42\. See Barry Desker and Mohamed Nawab Mohamed Osman, “S Rajaratnam and the Making of Singapore Foreign Policy,” in Kwa Chong Guan, ed., [_S Rajaratnam on Singapore: From Ideas to Reality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12817606), ed. Kwa Chong Guan (Singapore: World Scientific Publishing, 2006), 3–20. (Call no. RSING 327.5957 S)
+[^42]: See Barry Desker and Mohamed Nawab Mohamed Osman, “S Rajaratnam and the Making of Singapore Foreign Policy,” in Kwa Chong Guan, ed., [_S Rajaratnam on Singapore: From Ideas to Reality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12817606), ed. Kwa Chong Guan (Singapore: World Scientific Publishing, 2006), 3–20. (Call no. RSING 327.5957 S)
 
-43\. Michael Leifer, [_Singapore’s Foreign Policy: Coping with Vulnerability_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9727391) (New York: Routledge, 2000). (Call no. RSING 327.5957 LEI)
+[^43]: Michael Leifer, [_Singapore’s Foreign Policy: Coping with Vulnerability_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9727391) (New York: Routledge, 2000). (Call no. RSING 327.5957 LEI)
 
-44\. Whiting, “ASEAN Eyes China,” 308.
+[^44]: Whiting, “ASEAN Eyes China,” 308.
 
-45\. Ian Storey, “Singapore and the Rise of China,” in [_The China Threat: Perceptions, Myths and Reality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11154702), ed. Herbert Yee and Ian Storey (London: RoutledgeCurzon, 2002), 213. (Call no. RUR 327.51 CHI)
+[^45]: Ian Storey, “Singapore and the Rise of China,” in [_The China Threat: Perceptions, Myths and Reality_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11154702), ed. Herbert Yee and Ian Storey (London: RoutledgeCurzon, 2002), 213. (Call no. RUR 327.51 CHI)
 
-46\. Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 121.
+[^46]: Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 121.
 
-47\. Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 113.
+[^47]: Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 113.
 
-48\. Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), 13.
+[^48]: Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), 13.
 
-49\. Yuen Foong Khong, “Coping with Strategic Uncertainties,” in [_Rethinking Security in East Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616), ed. J. J. Suh, Peter J. Katzenstein, and Allen Carlson (Stanford: Stanford University, 2004), 181–2. (Call no. RUR 355.03305 RET)
+[^49]: Yuen Foong Khong, “Coping with Strategic Uncertainties,” in [_Rethinking Security in East Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616), ed. J. J. Suh, Peter J. Katzenstein, and Allen Carlson (Stanford: Stanford University, 2004), 181–2. (Call no. RUR 355.03305 RET)
 
-50\. Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), 13–15.
+[^50]: Goh, [_Meeting the China Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12572307), 13–15.
 
-51\. Goh Chok Tong, “Challenges for Asia,” speech, Research Institute of Economy, Trade and Industry (RIETI) Special Seminar, Tokyo, 28 March 2003.
+[^51]: Goh Chok Tong, “Challenges for Asia,” speech, Research Institute of Economy, Trade and Industry (RIETI) Special Seminar, Tokyo, 28 March 2003.
 
-52\. Leo Suryadinata, [_China and the ASEAN States: The Ethnic Chinese Dimension_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082379) (Singapore: Marshall Cavendish Academic, 1985), 81. (Call no. RSING 327.59051 SUR)
+[^52]: Leo Suryadinata, [_China and the ASEAN States: The Ethnic Chinese Dimension_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082379) (Singapore: Marshall Cavendish Academic, 1985), 81. (Call no. RSING 327.59051 SUR)
 
-53\. Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 119; Goh, “Singapore’s Reaction to a Rising China,” 216.
+[^53]: Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 119; Goh, “Singapore’s Reaction to a Rising China,” 216.
 
-54\. Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 119.
+[^54]: Khong, “[Time for Economic and Political Engagement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9441245),” 119.
 
-55\. Liow, “Malaysia-China Relations in the 1990s,” 676.
+[^55]: Liow, “Malaysia-China Relations in the 1990s,” 676.
 
 
 
