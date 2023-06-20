@@ -15,7 +15,7 @@ During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/episode/4D67FbUNy43fDHajMH606E), [Apple Podcasts](https://podcasts.apple.com/us/podcast/my-grandfather-was-a-r%C5%8Dmusha/id1688142751?i=1000617459997), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDBkYmQyMDItY2UwMy00NzFmLWIwYmEtM2E4ODBmMzE5MWM4?sa=X&amp;ved=0CAUQkfYCahcKEwiIwraqrc__AhUAAAAAHQAAAAAQAQ), and wherever you listen.
 
-Subscribe to get notified when the next episode drops.
+[Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
 Shirlene Noordin is the founder of Phish Communications, a communications consultancy specialising in arts and culture. 

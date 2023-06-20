@@ -28,12 +28,12 @@ This article examines the former, with case studies of Malaysia and Singapore. B
 
 The hedging strategy is defined here as a purposeful act in which a state seeks to insure its long term interests by placing its policy bets on multiple counteracting options that are designed to offset risks embedded in the international system.[^12] Accordingly, it is conceived as a multiple-component strategy situated between the two ends of the balancing-bandwagoning spectrum (see Table 1).[^13] This spectrum is measured by the degrees of rejection and acceptance on the part of smaller state toward a big power, with pure balancing representing the highest degree of power rejection, and pure bandwagoning the extreme form of power acceptance.
 
-<img src="/images/Vol%203%20Issue%204/RisingDragon/table%201%201%201.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%204/RisingDragon/table%201%201%201.jpg" style="width:100%;">
 
 
 In the context of Southeast Asia-China relations, hedging has five components: economic-pragmatism, bindingengagement, limited-bandwagoning, dominance-denial and indirect-balancing. Each of these components is distinguished not only by the degrees of power rejectionacceptance, but also by function and modus operandi (see Table 2).[^14]
 
-<img src="/images/Vol%203%20Issue%204/RisingDragon/table%202%201.jpg" style="width:50%;">
+<img src="/images/Vol%203%20Issue%204/RisingDragon/table%202%201.jpg" style="width:100%;">
  <div style="background-color: white;"></div>
 
 Hedging is essentially a two-pronged approach that operates by simultaneously pursuing two sets of mutually counteracting policies, which can be labelled as “returnmaximising” and “risk-contingency” options. The first set (consisting of economic-pragmatism, binding-engagement, and limited-bandwagoning) allows the hedger to reap as many economic, diplomatic and foreign policy profits as possible from the dominant power when all is well. This is counteracted by the risk-contingency set, which, through dominance-denial and indirect-balancing, limits the hedger’s loss if things go awry. Hedging, in essence, is a strategy that aims for the best and prepares for the worst. A state policy that focuses on merely return-maximising without preparing for risk contingency – and vice versa – is not a hedging strategy.
