@@ -10,10 +10,6 @@ third_nav_title: Episode 10
 
 Singapore used to be a major recording centre in Southeast Asia, with over 10,000 local recordings made before 1960. Hear the story from sound archivist Ross Laird, author of *From Kronchong to Xinyao*.
 
- 
-
- 
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0CjUWHrPAWQ" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
@@ -24,13 +20,16 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 
 #### **About the Guest** ####
 
-Ross Laird was formerly a sound archivist with the National Film &amp; Sound Archive of Australia. He was awarded NLB’s Lee Kong Chian Research Fellowship in 2010, during which he conducted research into the history of the recording industry in Singapore. He is also the author of [*From Kronchong to Xinyao*](https://biblioasia.nlb.gov.sg/selected-books/2023/), which is a history of Singapore’s recording industry.
+Ross Laird was formerly a sound archivist with the National Film &amp; Sound Archive of Australia. He was awarded NLB’s Lee Kong Chian Research Fellowship in 2010, during which he conducted research into the history of the recording industry in Singapore. He is also the author of [*From Kronchong to Xinyao*](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/), which is a history of Singapore’s recording industry.
 
  
 
  
 
 #### **Resources** ####
+
+Ross Laird, "[Local Music Reaches a Crescendo: The Singapore Record Industry in the 1960s](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/)," *BiblioAsia* 19, no. 2. 
+
 
 Ross Laird, [*From Kronchong to Xinyao: The Record Industry in Singapore, 1903–1985*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205959499) (Singapore: National Library Board, 2023).
 
