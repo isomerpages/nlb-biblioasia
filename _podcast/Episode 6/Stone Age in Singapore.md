@@ -18,7 +18,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Foo Shu Tieng is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on [ResearchGate](https://www.researchgate.net/profile/Shu-Tieng-Foo).
+Foo Shu Tieng is an associate librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services. Her publications on ancient money, shell middens and salt can be found on [ResearchGate](https://www.researchgate.net/profile/Shu-Tieng-Foo).
 
 #### **Resources** ####
 Foo Shu Tieng, “[Singapore's Stone Tools](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/stone-tools-singapore/),” *BiblioAsia* 18(4), 2023.
