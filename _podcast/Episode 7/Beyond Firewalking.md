@@ -16,7 +16,7 @@ There's more to firewalking than the public display of religious devotion. Indep
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
-Subscribe to get notified when the next episode drops.
+[Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
 Nalina Gopal is an independent curator and researcher focused on South Asia and its diaspora. She is the co-editor of [*Sojourners to Settlers: Tamils in Southeast Asia and Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204343146) and the founder of Antāti, a historical research and museum consultancy. 
