@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Portuguese/portuguese hero img_v1.jpg
   - infopic:
+      title: A New Podcast on Stories about Singapore's Past
+      subtitle: Podcast
+      description: "Homegrown Taoist goddesses. The rituals behind the annual Hindu
+        firewalking festival. Paya Lebar Airport's lost murals. "
+      button: Listen to the podcast
+      url: /podcast/grandfather-romusha-thai-burma-railway/
+      image: /images/Podcast/de edm 600-400px.jpg
+      alt: romusha death railway
+  - infopic:
       title: New Books on Singapore History (Jul 2023)
       subtitle: Literature
       description: Introducing five new books available in the National Library’s
@@ -542,13 +551,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
-  - infopic:
-      title: My Grandfather Was a <i>Rōmusha</i>
-      subtitle: war
-      description: During World War II, forced civilian labourers known as
-        <i>rōmusha</i> were used by the Imperial Japanese Army for hard labour.
-      button: The builders of Death Railway
-      url: /vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway
-      image: /images/Vol 18 Issue 3/Romusha/4_train_edit.jpg
-      alt: romusha death railway
 ---
