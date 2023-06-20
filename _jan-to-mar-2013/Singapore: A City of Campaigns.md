@@ -81,7 +81,7 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 [^2]: Langford, J.W. &amp; Brownsey, K.L. (1988). _The changing shape of government in the Asia-Pacific region_ (pp. 134–135). Halifax, N.S.: Institute for Research on Public Policy. (Not available in NLB holdings)
 
-[^3]: Pan, H. (2005). National campaigns: A way of life (p. 104. In [_Legacy of Singapore: 40th anniversary commemorative 1965–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859). Singapore: CR Media. (Call no.: RSING q959.57 LEG)
+[^3]: Pan, H. (2005). National campaigns: A way of life (p. 104). In [_Legacy of Singapore: 40th anniversary commemorative 1965–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859). Singapore: CR Media. (Call no.: RSING q959.57 LEG)
 
 [^4]: Sam, J. (1968, October 2). ‘[Big stick’ for unresponsive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681002-1.2.71). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
 
@@ -93,13 +93,13 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 [^8]: Ministry of Information, Communications and the Arts. (2009, August 18). _National Campaigns_. Retrieved from MICA website.
 
-[^9]: Nirmala, M. (1999). _[Courtesy - More than a smile](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9552461)_. Singapore: The Singapore Courtesy Council. (Call no.: RSING 395.095957 NIR)
+[^9]: Nirmala, M. (1999). _[Courtesy – More than a smile](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9552461)_. Singapore: The Singapore Courtesy Council. (Call no.: RSING 395.095957 NIR)
 
 [^10]: Lee, P. (1982, May 15). [Mascot for campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820515-1.2.11). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 [^11]: [Lee to launch ‘use Mandarin’ campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790907-1.2.9). (1979, September 7). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
-[^12]: Wong, May. (2010, February 2). Singapore’s productivity drive started in the 1980s. _Channel News Asia_. Retrieved from Channel News Asia website.
+[^12]: Wong, M. (2010, February 2). Singapore’s productivity drive started in the 1980s. _Channel NewsAsia_. Retrieved from Channel NewsAsia website.
 
 [^13]: [Pan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859), 2005, p. 104.
 
@@ -115,6 +115,6 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 [^19]: [Pan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859), 2005, pp. 105–108.
 
-[^20]: Life in Campaign city. (2007, July). [_Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470680)_._ Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
+[^20]: Life in Campaign City. (2007, July). [_Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470680)_._ Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
 
 [^21]: [Sandhu &amp; Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 116.
