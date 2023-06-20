@@ -9,7 +9,7 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-4/jan-mar-2013/director-column/">Director's Column</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-4/jan-mar-2013/singapore-campaigns/">Singapore: A City of Campaigns</a><br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_CityofCampaigns.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-4/jan-mar-2013/singapore-campaigns/">Singapore: A City of Campaigns</a><br>From work productivity, speaking Mandarin, tree planting to family planning, numerous campaigns have been implemented by the government since independence to instill what it deemed as desirable attitudes and behaviours. Little wonder, then, that campaigns have become a way of life for Singaporeans. [(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_CityofCampaigns.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-4/jan-mar-2013/edwin-thumboo-poetry/">Edwin Thumboo – Time-travelling: A Poetry Exhibition</a><br>“Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two accompanying publications, Edwin Thumboo: Time-Travelling— A Select Annotated Bibliography as well as Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems were officially launched on 29th September by Mr S Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd.[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_PoetryExhibition.pdf)
 
