@@ -3,13 +3,13 @@ title: "Singapore: A City of Campaigns"
 permalink: /vol-8/issue-4/jan-mar-2013/singapore-campaigns/
 description: ""
 ---
-Over the last five decades, Singapore has conducted many campaigns covering a wide range of topics. For instance, there have been campaigns encouraging the population to keep Singapore clean, take family planning measures, be courteous, raise productivity in the workplace and speak Mandarin as well as good English. There have also been others that remind the people not to litter, be a good neighbour, live a healthy lifestyle and even to wash their hands properly. Collectively, the purpose of these campaigns is to instill certain social behaviours and attitudes that are considered by the government to be beneficial to both the individual and the community. They are also used by the State as an instrument for policy implementation.[^1]
+Over the last five decades, Singapore has conducted many campaigns covering a wide range of topics. For instance, there were campaigns to encourage the population to keep Singapore clean, take family planning measures, be courteous, raise productivity in the workplace and speak Mandarin as well as good English. There were also others that reminded the people not to litter, be a good neighbour, live a healthy lifestyle and even to wash their hands properly. Collectively, the purpose of these campaigns was to instill certain social behaviours and attitudes that were considered by the government to be beneficial to both the individual and the community. They were also used by the state as an instrument for policy implementation.[^1]
 
-Each of the campaigns that was introduced usually followed a three-stage implementation process. First, a social problem was identified by the government before a decision to rectify the problem through a nation-wide campaign was made. Second, the campaign together with its rationale and goals was revealed in a public event. Third, a media blitz was launched to raise public awareness of the campaign. At the same time, a system of incentives and disincentives was also introduced to persuade the people to adopt the attitude and behaviour recommended by the campaign.[^2]
+Each of the campaigns introduced usually followed a three-stage implementation process. First, a social problem was identified by the government before a decision to rectify the problem through a nationwide campaign was made. Second, the campaign, together with its rationale and goals, was revealed in a public event. Third, a media blitz was launched to raise public awareness of the campaign. At the same time, a system of incentives and disincentives was also introduced to persuade the people to adopt the attitudes and behaviours promoted by the campaign.[^2]
 
 #### **Campaigns in the Early Years of Nationhood**
 
-Most of the campaigns conducted in the early years after independence were designed to lay the foundation of a new nation.[^3] For example, the “Keep Singapore Clean” and “Tree Planting” campaigns launched in 1968 and 1971 respectively were to establish Singapore as a country that is clean and full of greenery. In fact, the two campaigns as well as other similar campaigns were part of a larger plan that included changes in public health laws, relocation and licensing of itinerant hawkers, the development of proper sewage systems and better disease control measures, and the creation of parks and gardens. The government believed that improving the environmental conditions of Singapore would enhance the quality of life of the population and cultivate national pride. It would also paint a better image of Singapore for foreign investors and tourists.[^4]
+Most of the campaigns conducted in the early years after independence were designed to lay the foundation of a new nation.[^3] For example, the “Keep Singapore Clean” and “Tree Planting” campaigns launched in 1968 and 1971 respectively were to establish Singapore as a country that was clean and full of greenery. In fact, the two campaigns as well as other similar campaigns were part of a larger plan that included changes in public health laws, relocation and licensing of itinerant hawkers, the development of proper sewage systems and better disease control measures, and the creation of parks and gardens. The government believed that improving the environmental conditions of Singapore would enhance the quality of life of the population and cultivate national pride. It would also paint a better image of Singapore for foreign investors and tourists.[^4]
 
 Family planning was another major focus for campaigns in the late 1960s and 1970s. With slogans such as “Small Family: Brighter Future” and “The Second Can Wait”, these campaigns recommended the setting up of small families.[^5] Initially, the campaigns did not dictate the ideal family size. But with the launch of the “Two is Enough” campaigns in the early 1970s, a two-child family norm was endorsed.[^6] The family planning campaigns came at a time when the government was faced with the formidable cost of providing education, health services, and housing to a population that was growing rapidly due to the post-war boom. Family planning was thus regarded as a necessary measure, in order for the government to slow the country’s birth rate.[^7] Furthermore, the government also rationalised that smaller families helped reduce financial expenditure in households.[^8]
 
@@ -19,8 +19,7 @@ As the Singapore society became more affluent in the 1980s and 1990s, improving 
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/City%20Campaigns/Smiley.jpg">
- <div style="background-color: white;"
->The face of the courtesy campaign was originally Smiley before Singa the Courtesy Lion took over in 1982. <i>Kindness Movement Collection, courtesy of National Archives of Singapore.</i></div>	
+ <div style="background-color: white;">The face of the courtesy campaign was originally Smiley before Singa the Courtesy Lion took over in 1982. <i>Kindness Movement Collection, courtesy of National Archives of Singapore.</i></div>	
 	
 The Speak Mandarin Campaign was another campaign introduced to develop better qualitative skills for Singaporeans, particularly the communication skills among Chinese Singaporeans.[^11] When the campaign was launched in 1979, it was believed that the use of dialects was hampering the bilingual educational policy for the Chinese in Singapore. As a result, the government felt that there was a need to simplify the language environment of the Chinese by encouraging them to speak Mandarin in place of dialects. The government also held the view that a strong Mandarin speaking environment would help the Chinese better appreciate their culture and heritage.
 	
@@ -81,9 +80,9 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 #### **NOTES**
     
-[^1]: Sandhu, K.S. & Wheatley, P. (1989). [_Management of success: The moulding of modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304) (p. 116). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
+[^1]: Sandhu, K.S. &amp; Wheatley, P. (1989). [_Management of success: The moulding of modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304) (p. 116). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
 
-[^2]: Langford, J.W. & Brownsey, K.L. (1988). _The changing shape of government in the Asia-Pacific region_ (pp. 134–135). Halifax, N.S.: Institute for Research on Public Policy. (Not available in NLB holdings)
+[^2]: Langford, J.W. &amp; Brownsey, K.L. (1988). _The changing shape of government in the Asia-Pacific region_ (pp. 134–135). Halifax, N.S.: Institute for Research on Public Policy. (Not available in NLB holdings)
 
 [^3]: Pan, H. (2005). National campaigns: A way of life (p. 104. In [_Legacy of Singapore: 40th anniversary commemorative 1965–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859). Singapore: CR Media. (Call no.: RSING q959.57 LEG)
 
@@ -91,7 +90,7 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 [^5]: Ministry of Culture. (1972, July 20). [_Speech by Mr Chua Sian Chin Minister for Health at the opening ceremony of the Family Planning Campaign 1972 at the Singapore Conference Hall on Thursday, 20th July 1972 at 2000 hours_](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad). Retrieved from National Archives of Singapore website.
 
-[^6]: Singapore Family Planning and Population Board. (1973). [_Seventh annual report of the Singapore Family Planning and Population Board 1972_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679) (p. 44). Singapore: Singapore Family Planning & Population Board. (Call no.: RCLOS 301.426 SFPPBA)
+[^6]: Singapore Family Planning and Population Board. (1973). [_Seventh annual report of the Singapore Family Planning and Population Board 1972_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679) (p. 44). Singapore: Singapore Family Planning &amp; Population Board. (Call no.: RCLOS 301.426 SFPPBA)
 
 [^7]: [_Family planning in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=354661) (pp. 1–26). (1966). Singapore: G.P.O. (Call no.: RSING 363.96095957 FAM)
 
@@ -121,4 +120,4 @@ Singapore’s campaign and their mascots have become an idiosyncratic and often 
 
 [^20]: Life in Campaign city. (2007, July). [_Challenge_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470680)_._ Singapore: PS21 Quality Service Committee, Prime Minister's Office. (Call no.: RSING 354.595700147 C)
 
-[^21]: [Sandhu & Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 116.
+[^21]: [Sandhu &amp; Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 116.
