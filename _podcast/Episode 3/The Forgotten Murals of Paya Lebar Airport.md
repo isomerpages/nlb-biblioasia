@@ -14,7 +14,7 @@ Three large murals used to grace the walls of Paya Lebar Airport, depicting scen
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/episode/7Gpzkdqb8ILfsRCTXYsQaj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-forgotten-murals-of-paya-lebar-airport/id1688142751?i=1000617459856), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NGFlZWM5ODYtZWE5Mi00NWIzLTk5MjEtNmQ1MzcwZjg2MDZi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQDA), and wherever you listen.
 
-Subscribe to get notified when the next episode drops.
+[Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
 Dahlia Shamsuddin is a senior librarian with the Resource Discovery &amp; Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
