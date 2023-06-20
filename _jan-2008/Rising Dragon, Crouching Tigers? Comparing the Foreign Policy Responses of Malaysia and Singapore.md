@@ -10,9 +10,6 @@ image: /images/Vol 3 Issue 4/RisingDragon/raffles 1.jpg
 ---
 #### What do states do when faced with an increasingly stronger and/or potentially threatening big power? For decades, mainstream international relations theorists have offered two broad answers to this central question: states are likely to either balance against or bandwagon with that power.
 
-<img src="/images/Vol%203%20Issue%204/RisingDragon/raffles%201.jpg" style="width:50%;">
-
-
 #### **Introduction: Balancing, Bandwagoning or Hedging?**
 
 What do states do when faced with an increasingly stronger and/or potentially threatening big power?[^1] For decades, mainstream international relations (IR) theorists have offered two broad answers to this central question: states are likely to either balance against or bandwagon with that power. The “balancing” school argues that, driven to preserve their own security, states are likely to perceive a rising power as a growing threat that must be counter-checked by alliance and armament.[^2] This is particularly so if the power’s aggregate capability is accompanied by geographical proximity, offensive capability and offensive intentions.[^3] The “bandwagoning” school, by contrast, opines that states may choose to crouch under – rather than contain – a fast emerging great power. That is, they may choose to accept a subordinate role to the dominant power in exchange for material or ideational gain. This could happen when they view the power as a primary source of strength that can be exploited to promote their own interests.[^4]
