@@ -77,45 +77,45 @@ The MEP’s mission strategy in 19th century Singapore, and perhaps generally in
 
 #### **NOTES**
 
-1\. See Straits Settlements Record (SSR), N2 1827, 23 August 1827; Manuel Teixeira, _[The Portuguese Mission in Malacca and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1048109)_, vol. 3. (Lisboa: Agencia Geral do Ultramar, 1963), 10. (Call no. RCLOS 266.25953 TEI)
+[^1]: See Straits Settlements Record (SSR), N2 1827, 23 August 1827; Manuel Teixeira, _[The Portuguese Mission in Malacca and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1048109)_, vol. 3. (Lisboa: Agencia Geral do Ultramar, 1963), 10. (Call no. RCLOS 266.25953 TEI)
 
-2\. J M Beurel, _Annales de la Mission Catholique De Singapore, Ecrites Par Le Soussigne En Ese Moments De Loisir_, 329; Archives de la Missions Etrangeres (AME) 892, 851–54, 23 February 1833.
+[^2]: J. M. Beurel, _Annales de la Mission Catholique De Singapore, Ecrites Par Le Soussigne En Ese Moments De Loisir_, 329; Archives de la Missions Etrangeres (AME) 892, 851–54, 23 February 1833.
 
-3\. Beurel, _Annales_, 11–12.
+[^3]: Beurel, _Annales_, 11–12.
 
-4\. AME 892, 1035–7, 8 August 1834; 1051–4, September 1834; Joseph Ruellen, _Situation Generale En Asis Du Sud-Est a Liarrivee De Mgr. P. Bigandet, Mai 1834–Nov 1859_ (Singapore: MEP House, 1998). Compilation of manuscript correspondences from MEP Archives, Paris, AME, Siam, 27 September 1834, Fr Pallegoix to Mgr Courvezy.
+[^4]: AME 892, 1035–7, 8 August 1834; 1051–4, September 1834; Joseph Ruellen, _Situation Generale En Asis Du Sud-Est a Liarrivee De Mgr. P. Bigandet, Mai 1834–Nov 1859_ (Singapore: MEP House, 1998). Compilation of manuscript correspondences from MEP Archives, Paris, AME, Siam, 27 September 1834, Fr Pallegoix to Mgr Courvezy.
 
-5\. Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
+[^5]: Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
 
-6\. Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
+[^6]: Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
 
-7\. Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
+[^7]: Annals de la Propagation de la Foi, Malaisie (APF), vol. XLII, September 1835, pp.124–34, 10 September 1833.
 
-8\. Annals de la Propagation de la Foi, Malaisie (APF), 22 November 1834.
+[^8]: Annals de la Propagation de la Foi, Malaisie (APF), 22 November 1834.
 
-9\. Annals de la Propagation de la Foi, Malaisie (APF), 10 September 1833 and 26 December 1833.
+[^9]: Annals de la Propagation de la Foi, Malaisie (APF), 10 September 1833 and 26 December 1833.
 
-10\. AME 892, 1051–4, Sep 1834; APF, vol. XLII, September 1835, 124–34, 22 November 1834.
+[^10]: AME 892, 1051–4, Sep 1834; APF, vol. XLII, September 1835, 124–34, 22 November 1834.
 
-11\. (APF), vol. XLII, September 1835, 124–34, 10 September 1833.
+[^11]: (APF), vol. XLII, September 1835, 124–34, 10 September 1833.
 
-12\. Stephen Neill, _A History of Christian Missions_ (Great Britain: Penguin Books, 1964), 191. As a measure to avoid the persecution of the Manchu Government, College General was located outside China.
+[^12]: Stephen Neill, _A History of Christian Missions_ (Great Britain: Penguin Books, 1964), 191. As a measure to avoid the persecution of the Manchu Government, College General was located outside China.
 
-13\. Ruellen, _Situation Generale_, AME, Siam, 27 September 1834, Fr Albrand to Mgr Courvezy.
+[^13]: Ruellen, _Situation Generale_, AME, Siam, 27 September 1834, Fr Albrand to Mgr Courvezy.
 
-14\. APF, September 1835, 124–34, 26 December 1833. Scholars have argued that overseas Chinese, “deprived of their accustomed family and lineage support”, sought out alternative solidarities. Although for the Chinese overseas, “moral constraints of kinship village attachment remained strong”, they were less direct. See Ng Chin Keong, “The Cultural Horizon of South China’s Emigrants in the Nineteenth Century: Change and Perspective”, in _[Asian Traditions and Modernization. Perspectives From Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6322098)_, ed. Yong Mun Cheong (Singapore: Centre for Advanced Studies, National University of Singapore, 1992), 24–26. (Call no. RSING 959.57 ASI)
+[^14]: APF, September 1835, 124–34, 26 December 1833. Scholars have argued that overseas Chinese, “deprived of their accustomed family and lineage support”, sought out alternative solidarities. Although for the Chinese overseas, “moral constraints of kinship village attachment remained strong”, they were less direct. See Ng Chin Keong, “The Cultural Horizon of South China’s Emigrants in the Nineteenth Century: Change and Perspective”, in _[Asian Traditions and Modernization. Perspectives From Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6322098)_, ed. Yong Mun Cheong (Singapore: Centre for Advanced Studies, National University of Singapore, 1992), 24–26. (Call no. RSING 959.57 ASI)
 
-15\. APF, September 1835, 124–34, 26 December 1833.
+[^15]: APF, September 1835, 124–34, 26 December 1833.
 
-16\. Jean-Paul Wiest, “Catholic Activities in Kwangtung Province and Chinese Responses, 1848–1885” (PhD dissertation, University of Washington, 1977), 112.
+[^16]: Jean-Paul Wiest, “Catholic Activities in Kwangtung Province and Chinese Responses, 1848–1885” (PhD dissertation, University of Washington, 1977), 112.
 
-17\. AME 893, 975–7, 29 March 1842. Fr Tchu arrived in 1839.
+[^17]: AME 893, 975–7, 29 March 1842. Fr Tchu arrived in 1839.
 
-18\. Singapore Free Press, 27 July 1848.
+[^18]: Singapore Free Press, 27 July 1848.
 
-19\. Beurel, _Annales_, 68. The number of Catholics had increased from 450, in 1838, to 800, in 1846. From 1839, the Chinese Catholics had already constituted half the Catholics on the island. Of a total of 443 baptisms from 1840 to 1846, 333 were of Chinese converts. See Baptism Register, Cathedral, 1840–1846. It was also during this period that they became more than self-reliant. When the bishop found that it became necessary to erect a wall to enclose the Mission Grounds in 1839, the most influential (European) Catholics of the Mission, having continuously subscribed to the Mission’s building projects in the proceeding years, refused to help. It was Chinese Christians who then came to the bishop’s aid.
+[^19]: Beurel, _Annales_, 68. The number of Catholics had increased from 450, in 1838, to 800, in 1846. From 1839, the Chinese Catholics had already constituted half the Catholics on the island. Of a total of 443 baptisms from 1840 to 1846, 333 were of Chinese converts. See Baptism Register, Cathedral, 1840–1846. It was also during this period that they became more than self-reliant. When the bishop found that it became necessary to erect a wall to enclose the Mission Grounds in 1839, the most influential (European) Catholics of the Mission, having continuously subscribed to the Mission’s building projects in the proceeding years, refused to help. It was Chinese Christians who then came to the bishop’s aid.
 
-20\. AME 904/21, 11 May 1845 and 904/32, 7 October 1845. This house was completed by Oct 1845 at a cost of $550. See Beurel, _Annales_, 126.
+[^20]: AME 904/21, 11 May 1845 and 904/32, 7 October 1845. This house was completed by Oct 1845 at a cost of $550. See Beurel, _Annales_, 126.
 
 21\. AME 90, 1401–3, 8 December 1847; 902, 105, 5 May 1848 and 175, 4 July 1848. In 1842, a number of Chinese Christians had started a nutmeg plantation of 17,000 trees with Fr Beurel at Serangoon. It was to raise an annual income of 400 francs from the produce to support the Christian Brothers’ School when it was founded. In December 1849, a seminary was established at the end of Serangoon Road to prepare Chinese candidates for the priesthood, before sending them off to College General in Penang for training. In December 1849, Holy Mary College was established with twelve Chinese seminarians who supported themselves by cultivating nutmeg and coconuts. The college was transferred to Matang Tinggi (near Penang) a year later when eleven of the twelve seminarians withdrew their candidature. See AME 904/94, 18 April 1849; 902, 4 December 1849.
 
@@ -176,6 +176,3 @@ The MEP’s mission strategy in 19th century Singapore, and perhaps generally in
 49\. AME 905/236, 14 September 1881.
 
 50\. Graham Saunders, _[Bishops and Brookes: The Anglican Missions and the Brooke Raj in Sarawak, 1848–1941](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6159178)_ (Singapore: Oxford University Press, 1992), 28 (Call no. RSEA 959.522 SAU); See AME 904/217, 20 February 1861.
-
-
-
