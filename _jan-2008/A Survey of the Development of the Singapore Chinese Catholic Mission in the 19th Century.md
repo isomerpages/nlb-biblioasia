@@ -70,8 +70,3 @@ The missionary outreach of Singapore Chinese Catholic community in the 1870s, it
 #### **Conclusion**
 
 The MEP’s mission strategy in 19th century Singapore, and perhaps generally in Asia, was to plant Catholic communities throughout Asia as a precursor to the establishment of indigenous Churches. The distribution of bibles and mere street preaching, the *modus operandi* of Protestant missionaries of the day, yielded little in a society that was still transient, mostly illiterate and more concerned with day to day affairs. In the Malay Archipelago, proselytising to indigenous Muslim Malays could only reap certain failure. There were also too few Eurasians and Europeans to form a rooted Church, and besides, they could hardly constitute a localised, or “Asianised” Catholic Church and community. It was left to the sojourning immigrants of East, Southeast and South Asia to provide the critical mass for the creation of a local Christian and Church community.
-
-
-
-
-
