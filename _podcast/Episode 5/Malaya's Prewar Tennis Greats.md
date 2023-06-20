@@ -16,7 +16,7 @@ Writer Abhishek Mehrotra serves up a history of Malaya’s prewar tennis scene, 
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
 
-Subscribe to get notified when the next episode drops.
+[Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
 Abhishek Mehrotra is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2024. Abhishek is a former Lee Kong Chian Research Fellow (2021–2022).
