@@ -3,6 +3,8 @@ title: "Singapore: A City of Campaigns"
 permalink: /vol-8/issue-4/jan-mar-2013/singapore-campaigns/
 description: ""
 ---
+#### From work productivity, speaking Mandarin, tree planting to family planning, numerous campaigns have been implemented by the government since independence to instill what it deemed as desirable attitudes and behaviours. Little wonder, then, that campaigns have become a way of life for Singaporeans.
+
 Over the last five decades, Singapore has conducted many campaigns covering a wide range of topics. For instance, there were campaigns to encourage the population to keep Singapore clean, take family planning measures, be courteous, raise productivity in the workplace and speak Mandarin as well as good English. There were also others that reminded the people not to litter, be a good neighbour, live a healthy lifestyle and even to wash their hands properly. Collectively, the purpose of these campaigns was to instill certain social behaviours and attitudes that were considered by the government to be beneficial to both the individual and the community. They were also used by the state as an instrument for policy implementation.[^1]
 
 Each of the campaigns introduced usually followed a three-stage implementation process. First, a social problem was identified by the government before a decision to rectify the problem through a nationwide campaign was made. Second, the campaign, together with its rationale and goals, was revealed in a public event. Third, a media blitz was launched to raise public awareness of the campaign. At the same time, a system of incentives and disincentives was also introduced to persuade the people to adopt the attitudes and behaviours promoted by the campaign.[^2]
