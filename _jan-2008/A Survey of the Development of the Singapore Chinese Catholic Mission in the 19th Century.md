@@ -117,62 +117,62 @@ The MEP’s mission strategy in 19th century Singapore, and perhaps generally in
 
 [^20]: AME 904/21, 11 May 1845 and 904/32, 7 October 1845. This house was completed by Oct 1845 at a cost of $550. See Beurel, _Annales_, 126.
 
-21\. AME 90, 1401–3, 8 December 1847; 902, 105, 5 May 1848 and 175, 4 July 1848. In 1842, a number of Chinese Christians had started a nutmeg plantation of 17,000 trees with Fr Beurel at Serangoon. It was to raise an annual income of 400 francs from the produce to support the Christian Brothers’ School when it was founded. In December 1849, a seminary was established at the end of Serangoon Road to prepare Chinese candidates for the priesthood, before sending them off to College General in Penang for training. In December 1849, Holy Mary College was established with twelve Chinese seminarians who supported themselves by cultivating nutmeg and coconuts. The college was transferred to Matang Tinggi (near Penang) a year later when eleven of the twelve seminarians withdrew their candidature. See AME 904/94, 18 April 1849; 902, 4 December 1849.
+[^21]: AME 90, 1401–3, 8 December 1847; 902, 105, 5 May 1848 and 175, 4 July 1848. In 1842, a number of Chinese Christians had started a nutmeg plantation of 17,000 trees with Fr Beurel at Serangoon. It was to raise an annual income of 400 francs from the produce to support the Christian Brothers’ School when it was founded. In December 1849, a seminary was established at the end of Serangoon Road to prepare Chinese candidates for the priesthood, before sending them off to College General in Penang for training. In December 1849, Holy Mary College was established with twelve Chinese seminarians who supported themselves by cultivating nutmeg and coconuts. The college was transferred to Matang Tinggi (near Penang) a year later when eleven of the twelve seminarians withdrew their candidature. See AME 904/94, 18 April 1849; 902, 4 December 1849.
 
-22\. SFP, 16 April 1846.
+[^22]: SFP, 16 April 1846.
 
-23\. SFP, 3 July 1849.
+[^23]: SFP, 3 July 1849.
 
-24\. See J F McNair, _[Prisoners Their Own Warders](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)_ (Westminster: Archibald Constable and Co., 1899), 68 (Call no. RRARE 365.95957 MAC; microfilm NL12115; accession no. B20048144A). Many historians, including CM Turnbull, Carl Trocki and Wilfred Blythe, have quoted this figure. This figure cannot be confirmed by any official sources. If this figure is near accurate, then the Church would have been wiped out!
+[^24]: See J F McNair, _[Prisoners Their Own Warders](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)_ (Westminster: Archibald Constable and Co., 1899), 68 (Call no. RRARE 365.95957 MAC; microfilm NL12115; accession no. B20048144A). Many historians, including CM Turnbull, Carl Trocki and Wilfred Blythe, have quoted this figure. This figure cannot be confirmed by any official sources. If this figure is near accurate, then the Church would have been wiped out!
 
-25\. AME 902, 1403–5, 2 February 1853.
+[^25]: AME 902, 1403–5, 2 February 1853.
 
-26\. AME 903, 269–70, 16 December 1854.
+[^26]: AME 903, 269–70, 16 December 1854.
 
-27\. AME 903, 1515, 17 October 1859.
+[^27]: AME 903, 1515, 17 October 1859.
 
-28\. Straits Settlements Record, X16, 1858, 23; W28 1858, 12 October 1858, 58.
+[^28]: Straits Settlements Record, X16, 1858, 23; W28 1858, 12 October 1858, 58.
 
-29\. Beurel, _Annales_, 490. (This page numbering is from the microfilm copy of Fr Beurel’s journal, MEP Archives, vol. 907. Entries for the years from years 1852 to 1860s are missing in the original copy from which I have been quoting thus far).
+[^29]: Beurel, _Annales_, 490. (This page numbering is from the microfilm copy of Fr Beurel’s journal, MEP Archives, vol. 907. Entries for the years from years 1852 to 1860s are missing in the original copy from which I have been quoting thus far).
 
-30\. The school for the Chinese Boys was called St Peter’s School. See _Straits Settlements Annual Report_, 1865–6, 24/7.
+[^30]: The school for the Chinese Boys was called St Peter’s School. See _Straits Settlements Annual Report_, 1865–6, 24/7.
 
-31\. Tan No Keah was born at Fuyang City of Zhao’an County, Guangdong Province, in 1821. The family was poor and life was difficult at his hometown, so he borrowed a few pieces of silver and set off to the Nanyang. He first landed in Johore where he worked on a gambier plantation. After having saved some money, he ventured to Singapore where he started gambier plantations at Punggol. Eventually, he was able to build 14 warehouses at Boat Quay. His company was known as “Qianyi” Kongsi, situated at No. 48 Boat Quay (or No. 33 River Valley Road). The company traded mainly in gambier and local produce. He later married a girl from the Convent of the Holy Innocent Jesus (Town Convent) and converted to Catholicism. This information was provided by Tan Keow Meng, great grand-daughter of Tan Tong Seng one of Tan No Keah’s four sons, according to oral accounts provided by her aunt and grandmother in May 2002.
+[^31]: Tan No Keah was born at Fuyang City of Zhao’an County, Guangdong Province, in 1821. The family was poor and life was difficult at his hometown, so he borrowed a few pieces of silver and set off to the Nanyang. He first landed in Johore where he worked on a gambier plantation. After having saved some money, he ventured to Singapore where he started gambier plantations at Punggol. Eventually, he was able to build 14 warehouses at Boat Quay. His company was known as “Qianyi” Kongsi, situated at No. 48 Boat Quay (or No. 33 River Valley Road). The company traded mainly in gambier and local produce. He later married a girl from the Convent of the Holy Innocent Jesus (Town Convent) and converted to Catholicism. This information was provided by Tan Keow Meng, great grand-daughter of Tan Tong Seng one of Tan No Keah’s four sons, according to oral accounts provided by her aunt and grandmother in May 2002.
 
-32\. C B Buckley, _[An Anecdotal History of Old Times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)_ (Singapore: Oxford University Press, 1984), 254. (Call no. RSING 959.57 BUC)
+[^32]: C B Buckley, _[An Anecdotal History of Old Times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)_ (Singapore: Oxford University Press, 1984), 254. (Call no. RSING 959.57 BUC)
 
-33\. AME 902, 1525–30, 2 August 1853.
+[^33]: AME 902, 1525–30, 2 August 1853.
 
-34\. AME 904/217, 20 February 1861; 904/255, 5 November 1861.
+[^34]: AME 904/217, 20 February 1861; 904/255, 5 November 1861.
 
-35\. AME 904/246, 20 July 1861. The land granted was most likely within the vicinity of the Johore town, Johore Bahru.
+[^35]: AME 904/246, 20 July 1861. The land granted was most likely within the vicinity of the Johore town, Johore Bahru.
 
-36\. Augustine Perie, _Souvenirs De Malasie, Onze Ans Sous L’equateur_ (France: E. Delsaud, 1885), 19.
+[^36]: Augustine Perie, _Souvenirs De Malasie, Onze Ans Sous L’equateur_ (France: E. Delsaud, 1885), 19.
 
-37\. Perie, _Souvenirs De Malasie,_ 23.
+[^37]: Perie, _Souvenirs De Malasie,_ 23.
 
-38\. Perie, _Souvenirs De Malasie,_ 24.
+[^38]: Perie, _Souvenirs De Malasie,_ 24.
 
-39\. Perie, _Souvenirs De Malasie,_ 26.
+[^39]: Perie, _Souvenirs De Malasie,_ 26.
 
-40\. C. M. Turnbull, _[Straits Settlements, 1826–67](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4132712)_ (London: Athlone Press, 1972), 152. (Call no. RSING 959.57 TUR)
+[^40]: C. M. Turnbull, _[Straits Settlements, 1826–67](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4132712)_ (London: Athlone Press, 1972), 152. (Call no. RSING 959.57 TUR)
 
-41\. Perie, _Souvenirs de Malasie_, 25.
+[^41]: Perie, _Souvenirs de Malasie_, 25.
 
-42\. Register, St Francis Xavier’s Chapel, Pontien, 1864–1873.
+[^42]: Register, St Francis Xavier’s Chapel, Pontien, 1864–1873.
 
-43\. The Straits Calendar and Directory, 1870, 16.
+[^43]: The Straits Calendar and Directory, 1870, 16.
 
-44\. AME 905/97, 10 January 1878.
+[^44]: AME 905/97, 10 January 1878.
 
-45\. AME 905/236, 14 September 1881.
+[^45]: AME 905/236, 14 September 1881.
 
-46\. Compte Reudu, _Malaisie_, 1882, 82–86.
+[^46]: Compte Reudu, _Malaisie_, 1882, 82–86.
 
-47\. AME 905/304, 21 July 1883.
+[^47]: AME 905/304, 21 July 1883.
 
-48\. AME 905/342, 1884.
+[^48]: AME 905/342, 1884.
 
-49\. AME 905/236, 14 September 1881.
+[^49]: AME 905/236, 14 September 1881.
 
-50\. Graham Saunders, _[Bishops and Brookes: The Anglican Missions and the Brooke Raj in Sarawak, 1848–1941](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6159178)_ (Singapore: Oxford University Press, 1992), 28 (Call no. RSEA 959.522 SAU); See AME 904/217, 20 February 1861.
+[^50]: Graham Saunders, _[Bishops and Brookes: The Anglican Missions and the Brooke Raj in Sarawak, 1848–1941](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6159178)_ (Singapore: Oxford University Press, 1992), 28 (Call no. RSEA 959.522 SAU); See AME 904/217, 20 February 1861.
