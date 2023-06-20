@@ -10,12 +10,18 @@ image: /images/Vol 3 Issue 4/CatholicMission/capture1.jpg
 ---
 #### For the Singapore Catholic Church, mission growth has hinged on the progress and participation of the Chinese Catholic community, and this became the mission strategy for the establishment of a localised Catholic Church in Singapore.
 
+<img src="/images/Vol%203%20Issue%204/CatholicMission/capture1.jpg" style="width:50%;">
+
+
 #### **The Genesis**
 
 Although the first Catholic clerics and their followers on the island were members of the Portuguese mission coming out of Malacca in the1820s, they did not found a mission for the thousands of immigrants who had landed here. They had a “parish” but it was not certain that they had erected any church building even after the 1820s.[^1] It was not until the arrival of the French missionaries of the Societe des Missions Etrangeres de Paris (MEP) in 1832 that the first Catholic chapel and mission for Chinese Christians were established.
 
 The MEP was able to secure a piece of ground soon after their arrival to establish a French mission station as well as a Chinese Mission upon which they had hoped to build the future Church of Singapore. Both institutions were established within the Mission Ground, with the former occupying the front part facing Bras Basah Road and the latter at the back. Today, the entire ground roughly covers the space occupied by a national icon and a National Monument, the Singapore Art Museum and the Church of Sts Peter and Paul, respectively. The MEP completed their chapel in 1833, a simple 60 by 30 feet plank fourwalled structure,[^2] which they blessed and named the Church of the Good Shepherd.[^3] It was only a year later that a Mission House (and catechumenate) for Asian Catholics was completed at the back of the Mission Ground,[^4] and this was to 
 become the seed of the future Chinese Catholic missions in Singapore.
+
+<img src="/images/Vol%203%20Issue%204/CatholicMission/town%20mission.jpg" style="width:50%;">
+ <div style="background-color: white;">The Original Town Mission Ground in 1910</div>
 
 #### **The First Chinese Christians and The French Mission**
 
@@ -40,6 +46,9 @@ While the Chinese Mission in town grew in number, the French Mission commenced t
 These Chinese outstations were placed under the jurisdiction of the head of the Chinese Mission. The Catholics of these outstations themselves kept their close links with the Church. In fact, many of these Christians had turned to Fr John Tchu to arbitrate in their affairs. On major feast days, the Catholics of the outstations would also join their brethrens for celebrations, often ending with a Chinese dinner on the Mission grounds.[^22] The close link between the town and jungle missions cannot be more underscored than during moments of crisis. In 1849, when the secret society ran amok in the interior of the island, attacking Catholics, the converts of the outstations, numbering in hundreds, took refuge with their Chinese brethren.[^23] In 1851, when a bigger and bloodier attack took place, it was speculated that 500 Chinese converts were massacred across the island.[^24] Once again, the survivors had to seek refuge with their brethren in Town where the Chinese Mission had a house for the sick next to their catechumenate.
 
 The Chinese Mission in the jungle ultimately survived and continued to grow, albeit at a slower pace in the following decades. In early February 1853, the MEP erected a small chapel at the end of Serangoon Road that cost $800.[^25] This mission station was, however, too small at this time to require a permanent missionary to be stationed there. Hence, the MEP missionary to the outpost’s missionary was stationed in town from where he visited the Serangoon Catholics.[^26] By 1859, although there were in all only 140 Chinese Catholics at this station,[^27] it was constituted by an increasing number of Chinese Catholic families. Fr Beurel, the head of the Singapore Mission then, had made a request to the government in 1857 for a grant to a piece of land near the Serangoon chapel where he could settle these newly arrived Catholic families who could grow vegetables there.[^28] Although only 34 acres of the 114 acres of land requested was granted in 1858,[^29] it was more than sufficient to plant a new Christian enclave at the far end of the island.
+
+<img src="/images/Vol%203%20Issue%204/CatholicMission/mission%20grounds.jpg" style="width:50%;">
+ <div style="background-color: white;">The Mission Grounds in the 1850s after the arrival of the Brothers</div>
 
 #### **The First Chinese Catholic Church**
 
