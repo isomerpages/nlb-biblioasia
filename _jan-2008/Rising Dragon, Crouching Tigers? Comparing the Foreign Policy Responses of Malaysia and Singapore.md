@@ -126,7 +126,7 @@ This study is significant for policy analysis. Given the fact that few states ar
 <div>
 <center><b>Kuik Cheng-Chwee</b><br> Lee Kong Chian Research Fellow<br>National Library</center> </div>
 
-#### **REFERENCES**
+#### **NOTES**
 
 [^1]: The author is grateful to Karl Jackson, David Lampton, Francis Fukuyama, Bridget Welsh, Wang Gungwu, Zakaria Haji Ahmad, Kong Bo, Goh Muipong, Jessica Gonzalez and Laura Deitz for their helpful comments on earlier drafts of this essay. All shortcomings of the paper are entirely the author’s own.
 
