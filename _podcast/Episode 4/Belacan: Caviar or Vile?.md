@@ -24,7 +24,7 @@ Toffa Abdul Wahed, “[Belacan: Caviar? Or Vile and Disgusting?](/vol-19/issue-1
 
 Gracie Lee, “[Crawfurd on Southeast Asia](/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” <i>BiblioAsia</i> 11, no. 4 (2016). 
 
-Sally Grainger, <i>[The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World]( https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569)</i> (Abingdon, Oxon: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
+Sally Grainger, <i>[The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205370569)</i> (Abingdon, Oxon: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
 
 #### **Credits** ####
