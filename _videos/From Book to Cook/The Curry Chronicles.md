@@ -7,7 +7,7 @@ image: /images/Videos:%20From%20Book%20to%20Cook/devagi%20makes%20mrs%20kinseys%
 ---
 #### What would a 100-year-old rendang recipe taste like? Join chef Devagi Sanmugam in the first episode of our new cooking series.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2uItjxmte3E" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/2uItjxmte3E" frameborder="0" allowfullscreen=""></iframe></div>
 
 
 #### **Episode Summary** ####
@@ -20,11 +20,10 @@ Curry powder is now commonly sold in pre-mixed packets, but in the past, people 
 Chef Devagi made Mrs Kinsey’s “rundang” recipe from *The Mem's Own Cookery Book*. First published in 1920, the book contains 420 budget recipes based on local ingredients, such as lady's fingers and lentils, and local spices like curry powder, cloves and ginger.
 
 
-Check out how 
-<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi</a> made small but critical tweaks to Mrs Kinsey’s recipe that made it vastly more like the rendang we know today.
+Check out how Chef Devagi made small but critical tweaks to Mrs Kinsey’s recipe that made it vastly more like the rendang we know today.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
-<div style="background-color: white;">Recipe of “rundang”, from W. E. Kinsey, <i>The Mem's Own Cookery Book</i>, 3rd edn (Singapore: Kelly & Walsh, 1929).</div>
+<div style="background-color: white;">Recipe of “rundang”, from W. E. Kinsey, <i>The Mem's Own Cookery Book</i>, 3rd edn (Singapore: Kelly &amp; Walsh, 1929).</div>
 
 
 #### **Related Articles**
@@ -42,7 +41,7 @@ Check out how
 
 
 #### **Related Books**
-W. E. Kinsey, [*The Mem's Own Cookery Book*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Singapore: Kelly & Walsh, 1929).
+W. E. Kinsey, [*The Mem's Own Cookery Book*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Singapore: Kelly &amp; Walsh, 1929).
 
 Devagi Sanmugam, *[Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386)* (Singapore: Marshall Cavendish Cuisine, 2011).
 
@@ -50,4 +49,3 @@ Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservi
 
 Krishnendu Ray and Tulasi Srinivas, *[Curried Cultures: Globalization, Food, and South Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125930)*
 (Berkeley: University of California Press, 2012).
-
