@@ -39,7 +39,7 @@ Wong Heng, “[Kranji Memorials](https://eresources.nlb.gov.sg/infopedia/article
 
  
 
-Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
+Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
 
  
 
