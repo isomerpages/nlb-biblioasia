@@ -39,7 +39,7 @@ Joseph C. Pereira, [*Beyond the Tea Dance: The Story of Singapore Sixties Music*
 
  
 
-Tan Sooi Beng, [*Bangsawan: A Social and Stylistic History of Popular Malay Opera*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9454231) (Penang: The Asian Centre, 1997). (From National Library, Singapore, call no. RSEA 782.1095951 TAN)
+Tan Sooi Beng, [*Bangsawan: A Social and Stylistic History of Popular Malay Opera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9454231) (Penang: The Asian Centre, 1997). (From National Library, Singapore, call no. RSEA 782.1095951 TAN)
 
  
 
