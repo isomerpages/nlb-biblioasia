@@ -27,7 +27,7 @@ John N. Miksic, [*Singapore &amp; The Silk Road of the Sea: 1300–1800*](200123
 
 Henry Nicholas Ridley, [*HN Ridley’s Notebooks*](https://www.nas.gov.sg/archivesonline/private_records/record-details/f4336b52-115b-11e3-83d5-0050568939ad), vols. 2–6, 1880–1909, National Library of Australia. (From National Archives of Singapore, accession no. M771)
 
-Alexandra Avieropoulou Choo, [*Archaeology: A Guide to the Collections, National Museum Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4693550), ed. Jane Puranananda (Singapore: National Museum of Singapore, 1987). (From National Library, Singapore, call no. RSING 934.1074095957 CHO) 
+Alexandra Avieropoulou Choo, [*Archaeology: A Guide to the Collections, National Museum Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4693550), ed. Jane Puranananda (Singapore: National Museum of Singapore, 1987). (From National Library, Singapore, call no. RSING 934.1074095957 CHO) 
 
 Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the Hunter’ and the Sexual Division of Labor,” *Current Anthropology* 50, no. 1 (February 2009), 51. (From EBSCOHOST via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website) 
 
