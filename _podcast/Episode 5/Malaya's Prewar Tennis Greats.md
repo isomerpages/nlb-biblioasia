@@ -22,7 +22,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 Abhishek Mehrotra is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2024. Abhishek is a former Lee Kong Chian Research Fellow (2021–2022).
 
 #### **Resources** ####
-Abhishek Mehrotra, “[Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/),” BiblioAsia 19, no. 1, 2023.
+Abhishek Mehrotra, “[Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/),” <i>BiblioAsia</i> 19, no. 1, 2023.
 
 T.B.G., “Physical Religion,” [*Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 1, no. 1 (March 1897): 9. (From National Library, Singapore, call no. RRARE 959.5 STR)  
 
