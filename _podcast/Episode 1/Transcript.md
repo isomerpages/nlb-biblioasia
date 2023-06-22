@@ -331,7 +331,7 @@ Jimmy  <br>
 Yes, that's right. What book are you reading now?
 
 Shirlene <br>
-I'm currently reading a book by Frantz Fanon – [<i>Black Skin, White Masks</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=660706).
+I'm currently reading a book by Frantz Fanon – [<i>Black Skin, White Masks</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=660706).
 
 Jimmy   <br>
 Okay. It's not a new book, though. 

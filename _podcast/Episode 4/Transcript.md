@@ -304,7 +304,7 @@ Jimmy  <br>
 It was a paste? 
 
 Toffa  <br>
-It's very complicated. If you want to find out more, you should read Sally Grainger's book, [<i>The Story of Garum</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205370569). But researchers have different perspectives of what <i>garum</i> is, its composition. It also had different names in different eras of history. And different names could also mean a different composition. So it's hard to really pinpoint what garum was, whether it's a fish sauce, a fish paste, or is it both. Essentially, it's a fermented fish product.
+It's very complicated. If you want to find out more, you should read Sally Grainger's book, [<i>The Story of Garum</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205370569). But researchers have different perspectives of what <i>garum</i> is, its composition. It also had different names in different eras of history. And different names could also mean a different composition. So it's hard to really pinpoint what garum was, whether it's a fish sauce, a fish paste, or is it both. Essentially, it's a fermented fish product.
 
 Jimmy  <br>
 So this idea of a fermented fish or thing. Note my incredible vocabulary. It's not just a Southeast Asian thing? You could also find it in the Mediterranean, for example.
@@ -406,7 +406,7 @@ Jimmy  <br>
 Okay. What are you reading now?
 
 Toffa  <br>
-I'm reading a book called [<i>The Guest Cat</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200192883).
+I'm reading a book called [<i>The Guest Cat</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200192883).
 
 Jimmy  <br>
 <i>The Guest Cat</i>.
@@ -442,7 +442,7 @@ Jimmy  <br>
 What is your favourite Murakami?
 
 Toffa  <br>
-[<i>The Wind-Up Bird Chronicle</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203986749). 
+[<i>The Wind-Up Bird Chronicle</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203986749). 
 
 Jimmy  <br>
 That's mine!
