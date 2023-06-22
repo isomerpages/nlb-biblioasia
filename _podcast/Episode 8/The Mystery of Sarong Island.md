@@ -18,7 +18,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Lim Tin Seng is a senior librarian with the National Library, Singapore. He is the co-editor of [*Roots: Tracing Family Histories*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200130364) (2013), [*Harmony and Development: ASEAN-China Relations*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12918660) (2009) and [*China’s New Social Policy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13221325) (2010). He writes regularly for BiblioAsia.
+Lim Tin Seng is a senior librarian with the National Library, Singapore. He is the co-editor of [*Roots: Tracing Family Histories*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200130364) (2013), [*Harmony and Development: ASEAN-China Relations*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12918660) (2009) and [*China’s New Social Policy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13221325) (2010). He writes regularly for BiblioAsia.
 
 #### **Resources** ####
 Lim Tin Seng, “[From Sarong Island with Love: Singapore’s Original Tourist Isle](https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/),” *BiblioAsia* 18, no. 3 (2022). 
