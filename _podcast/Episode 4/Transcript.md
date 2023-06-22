@@ -442,7 +442,7 @@ Jimmy  <br>
 What is your favourite Murakami?
 
 Toffa  <br>
-[<i>The Wind-Up Bird Chronicle</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203986749). 
+[<i>The Wind-Up Bird Chronicle</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203986749). 
 
 Jimmy  <br>
 That's mine!
