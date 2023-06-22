@@ -40,7 +40,7 @@ Jimmy<br>
 Can you describe it a little bit to us?
 
 Dahlia<br>
-There were dances depicted in the mural. So you had a couple [doing a] Chinese dance in a Chinese wayang costume, and you had Indian dancers. There was another couple [doing] the Malay dance. But this wasn't the traditional or the more well-known Malay dance. My father decided to pick mak yong dancers because his elder sister and her husband had moved to Kelantan after the war, and I think he decided to pick the mak yong dancers from Kelantan as a connection with his sister. And the fourth dancer was a Sarawak dancer. I asked my father, Why? Why did you pick Sarawak? And he said that Sarawak was part of Malaysia. At that time, people were talking about Singapore, Malaysians, about being part of Malaysia. That's why he depicted that.
+There were dances depicted in the mural. So you had a couple [doing a] Chinese dance in a Chinese wayang costume, and you had Indian dancers. There was another couple [doing] the Malay dance. But this wasn't the traditional or the more well-known Malay dance. My father decided to pick mak yong dancers because his elder sister and her husband had moved to Kelantan after the war, and I think he decided to pick the Mak Yong dancers from Kelantan as a connection with his sister. And the fourth dancer was a Sarawak dancer. I asked my father, "Why? Why did you pick Sarawak?" And he said that Sarawak was part of Malaysia. At that time, people were talking about Singapore, Malaysians, about being part of Malaysia. That's why he depicted that.
 
 Jimmy<br>
 Your father submitted two.
