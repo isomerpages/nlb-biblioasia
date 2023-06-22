@@ -29,7 +29,7 @@ Suchitthra Vasu, “[Theemithi](https://eresources.nlb.gov.sg/infopedia/articles
 
 Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in [*Singapore Indian Heritage*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203015142), ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017). (From National Library, Singapore, call no. RSING 305.89141105957 SIN
 
-E.V. Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082121) (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
+E.V. Singhan, [*Timiti Festival*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082121) (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
 
 Cinkappur Sri Mariyamman Kovil, [*Mahaparatham*](https://www.nas.gov.sg/archivesonline/private_records/record-details/dc98e21f-115b-11e3-83d5-0050568939ad), private records, 1896. (From National Archives of Singapore, microfilm no. NA1984)
 
