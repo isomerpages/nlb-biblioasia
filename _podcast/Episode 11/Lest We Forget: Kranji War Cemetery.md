@@ -47,7 +47,7 @@ Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead
 
  
 
-Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202606087) (London: Routledge, 2016). (From National Library, call no. RSING 940.546095957 MUZ-WAR])
+Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087) (London: Routledge, 2016). (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
  
 
