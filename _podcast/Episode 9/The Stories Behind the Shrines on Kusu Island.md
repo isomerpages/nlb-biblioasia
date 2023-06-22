@@ -29,7 +29,7 @@ Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia 
 
 Song Ong Siang, *[One Hundred Years’ History of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (London: Murray, 1923). (From BookSG) 
 
-“Singapore’s Kusu Island,” [*Asia Magazine*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM) 
+“Singapore’s Kusu Island,” [*Asia Magazine*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM) 
 
 “[The Pilgrimage to Kusu Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291101-1.2.64),” *Straits Times*, 1 November 1929, 12. (From NewspaperSG)
 
