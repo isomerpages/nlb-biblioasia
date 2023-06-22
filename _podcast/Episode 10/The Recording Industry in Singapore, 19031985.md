@@ -35,9 +35,7 @@ Ross Laird, [*From Kronchong to Xinyao: The Record Industry in Singapore, 1903â€
 
 Joseph C. Pereira, [*Apache over Singapore: The Story of Singapore Sixties Music*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601), vol. 1 (Singapore: Select Publishing, 2011). (From National Library, Singapore, call no. RSING 781.64095957 PER)
 
- 
-
-Joseph C. Pereira, [*Beyond the Tea Dance: The Story of Singapore Sixties Music*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200180088), vol. 2 (Singapore: Select Publishing, 2014). (From National Library, Singapore, call no. RSING 781.64095957 PER)
+Joseph C. Pereira, [*Beyond the Tea Dance: The Story of Singapore Sixties Music*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200180088), vol. 2 (Singapore: Select Publishing, 2014). (From National Library, Singapore, call no. RSING 781.64095957 PER)
 
  
 
