@@ -27,7 +27,7 @@ Lim Tin Seng, “[From Sarong Island with Love: Singapore’s Original Tourist I
 
 “[Pleasure Isle for Tourists](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640229-1.2.8),” *Straits Times*, 29 February 1964, 1. (From NewspaperSG) 
 
-Parliament of Singapore, [Reclamation at Sentosa Island](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4826189), vol. 37 of *Parliamentary Debates: Official Report*, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN) 
+Parliament of Singapore, [Reclamation at Sentosa Island](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189), vol. 37 of *Parliamentary Debates: Official Report*, 31 January 1978, cols. 254–55. (From National Library, Singapore, call no. RCLOS 328.5957 SIN) 
 
 
 #### **Credits** ####
