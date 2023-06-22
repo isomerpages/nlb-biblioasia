@@ -156,7 +156,7 @@ Jimmy  <br>
 Yi-Sheng, thank you for talking to us about the goddesses. At this part of the podcast, what we do is that we ask our guests an identical bunch of questions, and this gives us a sense of who these people are and what they're interested in. So, let me ask you: who do you think is the coolest person in Singapore history?
 
 Yi-Sheng  <br>
-I feel like it's [Habib Noh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204032021). He is, according to folklore, an early-19th-century guy who came over I think from around Penang, probably a Peranakan. He comes to Singapore. They say he works as a clerk, but he goes into religious trances. He takes food from the market and gives it to the poor. And when they put him in jail, he just teleports to Mecca because he's got mystic powers. He's a keramat hidup, a living saint. When he dies, his tomb becomes a site of reverence for people of all races. The Maqam Habib Noh is still there at Tanjong Pagar. I've got friends who have been there to pray for their exam results.
+I feel like it's [Habib Noh](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1573_2009-09-25.html). He is, according to folklore, an early-19th-century guy who came over I think from around Penang, probably a Peranakan. He comes to Singapore. They say he works as a clerk, but he goes into religious trances. He takes food from the market and gives it to the poor. And when they put him in jail, he just teleports to Mecca because he's got mystic powers. He's a keramat hidup, a living saint. When he dies, his tomb becomes a site of reverence for people of all races. The Maqam Habib Noh is still there at Tanjong Pagar. I've got friends who have been there to pray for their exam results.
 
 Jimmy  <br>
 Which historical figure would you like to have dinner with?
@@ -174,7 +174,7 @@ Jimmy  <br>
 What book is on your nightstand at the moment? 
 
 Yi-Sheng  <br>
-I'm reading [<i>African Psycho</i>](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204032021) by the Congolese writer, Alain Mbanckou. I'm probably mispronouncing his name. I have an iPad in my bag because I'm getting my way through all of [William L. Gibson's 1156-page PDF about <i>keramat</i>](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore) in Singapore. Luckily a lot of it is pictures.
+I'm reading [<i>African Psycho</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204032021) by the Congolese writer, Alain Mbanckou. I'm probably mispronouncing his name. I have an iPad in my bag because I'm getting my way through all of [William L. Gibson's 1156-page PDF about <i>keramat</i>](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore) in Singapore. Luckily a lot of it is pictures.
 
 Jimmy<br>
 Complete the sentence: history is...
