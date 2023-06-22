@@ -19,7 +19,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Nalina Gopal is an independent curator and researcher focused on South Asia and its diaspora. She is the co-editor of [*Sojourners to Settlers: Tamils in Southeast Asia and Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204343146) and the founder of Antāti, a historical research and museum consultancy. 
+Nalina Gopal is an independent curator and researcher focused on South Asia and its diaspora. She is the co-editor of [*Sojourners to Settlers: Tamils in Southeast Asia and Singapore*]https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204343146) and the founder of Antāti, a historical research and museum consultancy. 
 
 
 #### **Resources** ####
@@ -27,7 +27,7 @@ Nalina Gopal, “[Theemithi: A Look at the Full Cycle of Rituals Behind the Fest
 
 Suchitthra Vasu, “[Theemithi](https://eresources.nlb.gov.sg/infopedia/articles/SIP_762_2004-12-23.html),” Singapore Infopedia, published 2015, National Library Board. 
 
-Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in [*Singapore Indian Heritage*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203015142), ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017). (From National Library, Singapore, call no. RSING 305.89141105957 SIN
+Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in [*Singapore Indian Heritage*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203015142), ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017). (From National Library, Singapore, call no. RSING 305.89141105957 SIN
 
 E.V. Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082121) (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
 
