@@ -20,7 +20,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 
 #### **About the Guest** ####
 
-Ross Laird was formerly a sound archivist with the National Film &amp; Sound Archive of Australia. He was awarded NLB’s Lee Kong Chian Research Fellowship in 2010, during which he conducted research into the history of the recording industry in Singapore. He is also the author of [*From Kronchong to Xinyao*](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/), which is a history of Singapore’s recording industry.
+Ross Laird was formerly a sound archivist with the National Film &amp; Sound Archive of Australia. He was awarded NLB’s Lee Kong Chian Research Fellowship in 2010, during which he conducted research into the history of the recording industry in Singapore. He is also the author of [*From Kronchong to Xinyao*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499), which is a history of Singapore’s recording industry.
 
  
 
