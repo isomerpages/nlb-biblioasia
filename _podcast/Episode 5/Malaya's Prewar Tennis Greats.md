@@ -28,7 +28,7 @@ T.B.G., “Physical Religion,” [*Straits Chinese Magazine: A Quarterly Journal
 
 Song Ong Siang, [*One Hundred Years’ History of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287) (Singapore: Oxford University Press, 1984), 247. (From National Library, Singapore, call no. RSING 959.57 SON-[HIS])
 
-Nick Aplin, [*Sport in Singapore: The Colonial Legacy*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203990042) (Singapore : Straits Times Press, 2019).
+Nick Aplin, [*Sport in Singapore: The Colonial Legacy*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203990042) (Singapore : Straits Times Press, 2019). (From National Library, Singapore, call no. RSING 796.095957 APL)
 
 
 #### **Credits** ####
