@@ -43,7 +43,7 @@ Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1
 
  
 
-Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092) (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
+Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092) (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
  
 
