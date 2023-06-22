@@ -18,7 +18,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Dr William L. Gibson is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of [keramat in Singapore](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore). His book [*Alfred Raquez and the French Experience of the Far East, 1898–1906*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205464044) (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in *Signal to Noise*, PopMatters.com, *The Mekong Review*, *Archipel*, *History and Anthropology*, *Bulletin de l’École française d’Extrême-Orient* and *BiblioAsia*, among others.
+Dr William L. Gibson is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of [keramat in Singapore](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore). His book [*Alfred Raquez and the French Experience of the Far East, 1898–1906*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205464044) (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in *Signal to Noise*, PopMatters.com, *The Mekong Review*, *Archipel*, *History and Anthropology*, *Bulletin de l’École française d’Extrême-Orient* and *BiblioAsia*, among others.
 
 #### **Resources** ####
 William Gibson, “[The Origin Stories of Keramat Kusu](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/),” *BiblioAsia* 18, no. 4 (2023). 
@@ -29,7 +29,7 @@ Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia 
 
 Song Ong Siang, *[One Hundred Years’ History of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (London: Murray, 1923). (From BookSG) 
 
-“Singapore’s Kusu Island,” [*Asia Magazine*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM) 
+“Singapore’s Kusu Island,” [*Asia Magazine*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM) 
 
 “[The Pilgrimage to Kusu Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291101-1.2.64),” *Straits Times*, 1 November 1929, 12. (From NewspaperSG)
 

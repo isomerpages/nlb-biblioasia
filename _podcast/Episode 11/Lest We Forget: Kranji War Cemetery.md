@@ -39,15 +39,15 @@ Wong Heng, “[Kranji Memorials](https://eresources.nlb.gov.sg/infopedia/article
 
  
 
-Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
+Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
 
  
 
-Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092) (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
+Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092) (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
  
 
-Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202606087) (London: Routledge, 2016). (From National Library, call no. RSING 940.546095957 MUZ-WAR])
+Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087) (London: Routledge, 2016). (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
  
 
