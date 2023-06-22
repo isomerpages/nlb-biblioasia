@@ -33,9 +33,7 @@ Ross Laird, "[Local Music Reaches a Crescendo: The Singapore Record Industry in 
 
 Ross Laird, [*From Kronchong to Xinyao: The Record Industry in Singapore, 1903–1985*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499) (Singapore: National Library Board, 2023).
 
- 
-
-Joseph C. Pereira, [*Apache over Singapore: The Story of Singapore Sixties Music*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14220601), vol. 1 (Singapore: Select Publishing, 2011). (From National Library, Singapore, call no. RSING 781.64095957 PER)
+Joseph C. Pereira, [*Apache over Singapore: The Story of Singapore Sixties Music*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601), vol. 1 (Singapore: Select Publishing, 2011). (From National Library, Singapore, call no. RSING 781.64095957 PER)
 
  
 
