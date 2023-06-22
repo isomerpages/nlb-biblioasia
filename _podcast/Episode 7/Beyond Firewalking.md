@@ -19,7 +19,7 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Nalina Gopal is an independent curator and researcher focused on South Asia and its diaspora. She is the co-editor of [*Sojourners to Settlers: Tamils in Southeast Asia and Singapore*]https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204343146) and the founder of Antāti, a historical research and museum consultancy. 
+Nalina Gopal is an independent curator and researcher focused on South Asia and its diaspora. She is the co-editor of [*Sojourners to Settlers: Tamils in Southeast Asia and Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204343146) and the founder of Antāti, a historical research and museum consultancy. 
 
 
 #### **Resources** ####
