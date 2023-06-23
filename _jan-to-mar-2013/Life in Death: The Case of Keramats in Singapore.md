@@ -6,16 +6,15 @@ description: Keramats (or shrines) have endured the fast-paced changes
   centuries, keramats have obtained a symbolic significance that transcends the
   vibrant social fabric of multiple religions and cultures.
 ---
-<center><i>The keramat cult could be interpreted as a channel which brings together the connections and contradictions between the deeper historical structures of ethno-cultural hybridity and the nature of modern ethno-religious nationalism. goh b.l., Engaging the Spirit World, 2011:158</i></center>
-
-
-#### Keramats (or shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
+#### Keramats (shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
+#### 
+<center><i>The keramat cult could be interpreted as a channel which brings together the connections and contradictions between the deeper historical structures of ethno-cultural hybridity and the nature of modern ethno-religious nationalism. — Goh B.L., Engaging the Spirit World, 2011:158</i></center>
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/HABIB%20NOH%20KERAMAT.jpg">
- <div style="background-color: white;">Keramat Habib Noh located at Palmer Road is the resting place of Habib Noh bin Muhamad Al-Habshi, a highly regarded mystic. Worshippers from as far as China come here to pray to or pay their respects. <i>Courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;">Keramat Habib Noh on Palmer Road is the resting place of Habib Noh bin Muhamad Al-Habshi, a highly regarded mystic. Worshippers from as far as China come here to pray or to pay their respects. <i>Courtesy of National Archives of Singapore.</i></div>
 
-It is the religious syncretism and symbolism that has been imbibed in these keramats that allow for such a relic to still remain relevant to Singaporeans in this modern era. Within the keramat are embedded the ebb and flow of Singapore’s history and its continuing evolution. In essence, the keramat is not just a monument of remembrance for the dead, but also a rallying point for the living.
+It is the religious syncretism and symbolism that has been imbibed in these keramats that allow for such a relic to still remain relevant to Singaporeans in this modern era. Embedded within the keramat are the ebb and flow of Singapore’s history and its continuing evolution. In essence, the keramat is not just a monument of remembrance for the dead, but also a rallying point for the living.
 
 Despite being hidden away in the folds of Singapore’s concrete jungle, keramats and keramat-worship are far from being entrenched in the forgotten annals of history. The entrances to many of these keramats are often “invisible”, seemingly quiet, offering respite from the heat and throngs of people. What we mistake for wooden huts, serene and seemingly forgotten, belie the hopes, dreams and prayers of those who have taken a chance to lay their most personal needs and desperation in the forms of fragrant offerings at the foot of a grave of a person they have never met, much less a faith in which they do not believe.
 
@@ -98,9 +97,9 @@ Chia Jack Meng-Tat. (2009, December 2). Mananging the tortoise island: Tua Pek K
 
 Choo Liyun, Wendy (2007). _Socialization and localization: A case study of the Datok Gong cult in Malacca_. Retrieved from NUS.ed.sg website. 
 
-Cornelius-Takahama, Vernon (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html)  Retrieved from Singapore Infopedia.
+Cornelius-Takahama, Vernon (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;Retrieved from Singapore Infopedia.
 
-Foy, Geoff  (n.d.). _Chinese Belief Systems: From past to present and present to past. Asia Society_. Retrieved from Asia Society website. 
+Foy, Geoff&nbsp; (n.d.). _Chinese Belief Systems: From past to present and present to past. Asia Society_. Retrieved from Asia Society website. 
 
 Goh Beng Lan (2011). _Spirit Cults and Construction Sites: Trans-ethnic Popular Religion and Keramat Symbolism in Contemporary Malaysia in Engaging the Spirit World: Popular Beliefs and Practices in Modern Southeast Asia_ (_Asian Anthropologies_: v. 5). New York: Berghahn Books.
 
@@ -118,7 +117,7 @@ Mohd Taib Osman. (1989). [_Malay Folk Beliefs: An Integration of Disparate Eleme
 
 [Month-long Kusu pilgrimage begins next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7). (2012, October 9). _The New Paper_, pp. 8–9. Retrieved from NewspaperSG.
 
-Rivers, P.J. (2003). Keramat in Singapore in the Mid-Twenthieth Century. _Journal of the Malaysian Branch of the Royal Asiatic Society, 76_ (2) (285), 93–119.  Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Rivers, P.J. (2003). Keramat in Singapore in the Mid-Twenthieth Century. _Journal of the Malaysian Branch of the Royal Asiatic Society, 76_ (2) (285), 93–119.&nbsp; Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Samuel, Dhoraisingam (2010). [_Singapore’s heritage: Through Places of Historical Interest_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13695618). Singapore: The Author. (Call no.: RSING 959.57 SAM)
 
@@ -157,7 +156,7 @@ Yahya. (1939, June 11). [Singapore’s Keramats: Wonder-working shrines sacred t
 
 [^11]: Chambert-Loir. (2002) “Saints and Ancestors: The Cult of Muslim Saints in Java” in _[The Potent Dead: Ancestors, Saints and Heroes in Contemporary Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11147938)_, quoted in Goh, (2011:154).
 
-[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html)  written by Vernon, Cornelius-Takahama. Retrieved from Singapore Infopedia.
+[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;written by Vernon, Cornelius-Takahama. Retrieved from Singapore Infopedia.
 
 [^13]: [Month-long Kusu pilgrimage begins next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7). (2012, October 9). _The New Paper_, pp. 8–9. Retrieved from NewspaperSG.
 
