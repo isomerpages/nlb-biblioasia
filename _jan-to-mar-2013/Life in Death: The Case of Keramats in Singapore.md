@@ -158,14 +158,14 @@ Yahya. (1939, June 11). [Singapore’s keramats: Wonder-working shrines sacred t
 
 [^11]: Chambert-Loir, Henri. (2002) “Saints and ancestors: The cult of Muslim saints in Java” in _[The Potent Dead: Ancestors, Saints and Heroes in Contemporary Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11147938)_, quoted in Goh (2011, p. 154).
 
-[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;written by Vernon, Cornelius-Takahama. Retrieved from Singapore Infopedia.
+[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia.
 
 [^13]: [Month-long Kusu pilgrimage begins next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7). (2012, October 9). _The New Paper_, pp. 8–9. Retrieved from NewspaperSG.
 
 [^14]: _[The New Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7)_, 9 Oct 2012, pp. 8—9.
 
-[^15]: The terms makam and keramat, although not synonymous, are used interchangeably in colloquial context. For the purposes of this paper, we will retain the interchangeable nature of these terms as the site is regarded as both a makam (mausoleum) and a keramat by different groups under different contexts.
+[^15]: The terms <i>makam</i> and <i>keramat</i>, though not synonymous, are used interchangeably in a colloquial context. For the purposes of this paper, we will retain the interchangeable nature of these terms as the site is regarded as both a <i>makam</i> (mausoleum) and a <i>keramat</i> by different groups under different contexts.
 
-[^16]: For an in-depth history regarding Habib Noh and his shrine, please refer to: Muhammad Ghouse Khan Surattee (2008) _[The Grand Saint of Singapore: The Life of Habib Nuh bin Muhammad Al-Habshi.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13045642)_ Singapore: Masjid Al-‘Firdaus.
+[^16]: For an in-depth history regarding Habib Noh and his shrine, please refer to Muhammad Ghouse Khan Surattee. (2008) _[The Grand Saint of Singapore: The Life of Habib Nuh bin Muhammad Al-Habshi.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13045642)_ Singapore: Masjid Al-Firdaus.
 
-[^17]: Please refer to Cheu (1996:11) ‘Table 1: Beliefs and Practices in Malay Keramat and Datuk Kong’ for a list of the different nuances and types of offering presented by the different cultural groups.
+[^17]: Please refer to Cheu (1996, p. 11) "Table 1: Beliefs and Practices in Malay Keramat and Datuk Kong" for a list of the different nuances and types of offering presented by the different cultural groups.
