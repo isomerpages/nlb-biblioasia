@@ -10,7 +10,7 @@ description: Keramats (or shrines) have endured the fast-paced changes
 #### 
 <center>The keramat cult could be interpreted as a channel which brings together the connections and contradictions between the deeper historical structures of ethno-cultural hybridity and the nature of modern ethno-religious nationalism. 
 	
-— Goh B.L., <i>Engaging the Spirit World</i> (2011, p. 158)</center>
+— Goh Beng Lan, <i>Engaging the Spirit World</i> (2011, p. 158)</center>
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/HABIB%20NOH%20KERAMAT.jpg">
@@ -93,70 +93,70 @@ The author would like to acknowledge the contributions of Ms Janice Loo, Associa
 
 _A Guide to Singapore’s Ancient History Walking Trail at Fort Canning Park_. National Parks Board. Retrieved from National Parks Board website. 
 
-Cheu Hock Tong (1996/1997). _Malay Keramat, Chinese Worshippers: The Sinicization of Malay Keramats in Singapore_. Singapore: National University of Singapore, Department of Malay Studies. (Not available in NLB holdings)
+Cheu, Hock Tong (1996/1997). _Malay Keramat, Chinese Worshippers: The Sinicization of Malay Keramats in Singapore_. Singapore: National University of Singapore, Department of Malay Studies. (Not available in NLB holdings)
 
-Chia Jack Meng-Tat. (2009, December 2). Mananging the tortoise island: Tua Pek Kong Temple, pilgrimage, and social change in Pulau Kusu, 1959–2007. _New Zealand Journal of Asian Studies, 11_, 72–95.
+Chia, Jack Meng-Tat. (2009, December 2). Mananging the tortoise island: Tua Pek Kong Temple, pilgrimage, and social change in Pulau Kusu, 1959–2007. _New Zealand Journal of Asian Studies, 11_, 72–95.
 
-Choo Liyun, Wendy (2007). _Socialization and localization: A case study of the Datok Gong cult in Malacca_. Retrieved from NUS.ed.sg website. 
+Choo Liyun, Wendy. (2007). _Socialization and localization: A case study of the Datok Gong cult in Malacca_. Retrieved from nus.edu.sg website. 
 
-Cornelius-Takahama, Vernon (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;Retrieved from Singapore Infopedia.
+Cornelius-Takahama, Vernon. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;Retrieved from Singapore Infopedia.
 
-Foy, Geoff&nbsp; (n.d.). _Chinese Belief Systems: From past to present and present to past. Asia Society_. Retrieved from Asia Society website. 
+Foy, Geoff&nbsp; (n.d.). _Chinese belief systems: From past to present and present to past._ Asia Society. Retrieved from Asia Society website. 
 
-Goh Beng Lan (2011). _Spirit Cults and Construction Sites: Trans-ethnic Popular Religion and Keramat Symbolism in Contemporary Malaysia in Engaging the Spirit World: Popular Beliefs and Practices in Modern Southeast Asia_ (_Asian Anthropologies_: v. 5). New York: Berghahn Books.
+Goh, Beng Lan (2011). "Spirit cults and construction sites: Trans-ethnic popular religion and keramat symbolism in contemporary Malaysia" in _Engaging the spirit world: Popular beliefs and practices in modern Southeast Asia_ (_Asian Anthropologies_: v. 5). New York: Berghahn Books.
 
-Kusu Pilgrimage 26 September to 25 October [Page 34 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921017-1.2.51.1). (1992, October 17). _The Straits Times_, p. 34. Retrieved from NewspaperSG.
+[Page 34 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921017-1.2.51.1). (1992, October 17). _The Straits Times_, p. 34. Retrieved from NewspaperSG.
 
-Loo Chew Yen Janice (2007). _The cultural assets of Kusu Island_. \[Unpublished paper\]
+Loo, Chew Yen Janice. (2007). _The cultural assets of Kusu Island_. \[Unpublished paper\]
 
 Magiar Siemen. (1970, January 3). [Bendera Jepun putus dekat keramat tertua Singapura](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19700103-1.2.39). _Berita Harian_, p. 4. Retrieved from NewspaperSG.
 
-Marsden William (1812). [_A dictionary of the Malayan Language, in Two Parts, Malayan and English, and, English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx)_._ London: Cox and Baylis. Retrieved from BooKSG.
+Marsden, William. (1812). [_A dictionary of the Malayan Language, in Two Parts, Malayan and English, and, English and Malayan_](https://eresources.nlb.gov.sg/printheritage/detail/42acab24-137e-4a0b-8068-093fb252467e.aspx)_._ London: Cox and Baylis. Retrieved from BookSG.
 
-Mohammad Ghouse Khan Surattee (2008). [_The Grand Saint of Singapore: The Life of Habib Nuh bin Muhammad A-Habshi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13045642). Singapore: Al’ Firdaus Mosque. (Call no.: RSING 297.4092 GRA)
+Mohammad Ghouse Khan Surattee. (2008). [_The Grand Saint of Singapore: The Life of Habib Nuh bin Muhammad A-Habshi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13045642). Singapore: Al’ Firdaus Mosque. (Call no.: RSING 297.4092 GRA)
 
-Mohd Taib Osman. (1989). [_Malay Folk Beliefs: An Integration of Disparate Elements_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: RSEA 398.4109595 MOH)
+Mohd Taib Osman. (1989). [_Malay folk beliefs: An integration of disparate elements_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa and Pustaka. (Call no.: RSEA 398.4109595 MOH)
 
 [Month-long Kusu pilgrimage begins next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7). (2012, October 9). _The New Paper_, pp. 8–9. Retrieved from NewspaperSG.
 
-Rivers, P.J. (2003). Keramat in Singapore in the Mid-Twenthieth Century. _Journal of the Malaysian Branch of the Royal Asiatic Society, 76_ (2) (285), 93–119.&nbsp; Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Rivers, P.J. (2003). Keramat in Singapore in the Mid-twentieth century. _Journal of the Malaysian Branch of the Royal Asiatic Society, 76_ (2) (285), 93–119.&nbsp; Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Samuel, Dhoraisingam (2010). [_Singapore’s heritage: Through Places of Historical Interest_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13695618). Singapore: The Author. (Call no.: RSING 959.57 SAM)
+Samuel, Dhoraisingam. (2010). [_Singapore’s heritage: Through places of historical interest_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13695618). Singapore: The Author. (Call no.: RSING 959.57 SAM)
 
 SINGALOND. (1939, April 11). [Kramats of Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390411-1.2.42). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
-Skeat, W.W. (1984). [_Malay magic: Being an Introduction to the Folkore and Popular Religion of the Malay Peninsula_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1757959). Singapore: Oxford Unviersity Press. (Call no.: RSING 398.4 SKE)
+Skeat, W.W. (1984). [_Malay magic: Being an Introduction to the folkore and popular religion of the Malay Peninsula_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1757959). Singapore: Oxford University Press. (Call no.: RSING 398.4 SKE)
 
 Wilkinson, R.J. (1959). [_A Malay-English Dictionary_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315878). London: Macmillan. (Call no.: R 499.230321 MAL)
 
 Winstedt, R.O. (1924, December). “Karamat”: Sacred places and persons in Malaya. _Journal of the Malaysian Branch of the Royal Asiatic Society, 2_ (3) (92), 264–279. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Yahya. (1939, June 11). [Singapore’s Keramats: Wonder-working shrines sacred to many nationalities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390611-1.2.119). _The Straits Times_, p. 16. Retrieved from NewspaperSG.
+Yahya. (1939, June 11). [Singapore’s keramats: Wonder-working shrines sacred to many nationalities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390611-1.2.119). _The Straits Times_, p. 16. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
 
-[^1]: By the time Raffles landed in Singapore in 1819, Bukit Larangan (Forbidden Hill, now known as Fort Canning Hill) was already the ancient burial ground of the royal Sultanate. The Tomb of Iskandar Syah, said to be the fifth and last ruler of Simhapura (Sankrit term ‘सिहपुर’ from which the name Singapore was derived) still resides at the top of Fort Canning. Jalan Kubor was also another site of royal burial. Early plans of Singapore by G.D. Coleman (1836) indicate the parcel of land as ‘Tombs of the Malayan Princes’, quoted in Rivers (2003).
+[^1]: By the time Raffles landed in Singapore in 1819, Bukit Larangan (Forbidden Hill; now known as Fort Canning Hill) was already the ancient burial ground of the royal sultanate. The tomb of Iskandar Shah, said to be the fifth and last ruler of Simhapura (Sankrit term ‘सिहपुर’ from which the name Singapore was derived) still resides at the top of Fort Canning. Jalan Kubor was also another site of royal burial. Early plans of Singapore by G.D. Coleman (1836) indicate the parcel of land as "Tombs of the Malayan Princes", quoted in Rivers (2003).
 
-[^2]: The Singapore Tourism Promotion Board (now known as Singapore Tourism Board) did plan to market the ‘largely under-utilised’ \[Southern\] islands as resorts for the rich, as early as 1989. Kusu Island was not initially considered for these plans as it was recognised as a pilgrimage site. (_[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921017-1.2.51.1)_, 17 Sep 1992, p. 34.)
+[^2]: The Singapore Tourism Promotion Board (now known as Singapore Tourism Board) did plan to market the "largely under-utilised" Southern islands as resorts for the rich in as early as 1989. Kusu Island was not initially considered for these plans as it was recognised as a pilgrimage site. (_[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921017-1.2.51.1)_, 17 September 1992, p. 34.)
 
-[^3]: Early colonial surveys have indicated the existence of keramats and of their transethnic worshippers. For an in-depth reading, please refer to Richard Winstedt’s _The Malay Magician: Being Shaman, Saiva and Sufi_ (1961) and Walter W. Skeat’s _[Malay Magic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1757959)_ (1984).
+[^3]: Early colonial surveys indicate the existence of keramats and their trans-ethnic worshippers. For an in-depth reading, please refer to Richard Winstedt’s _The Malay Magician: Being Shaman, Saiva and Sufi_ (1961) and Walter W. Skeat’s _[Malay Magic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1757959)_ (1984).
 
-[^4]: National Parks Board. A Guide to Singapore’s Ancient History Walking Trail at Fort Canning Park.
+[^4]: National Parks Board. "A Guide to Singapore’s Ancient History Walking Trail at Fort Canning Park".
 
 [^5]: See [Mohd Taib Osman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). (1989).
 
-[^6]: C.E. Wurtzburg, _[Raffles of the Eastern Isles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4150106)_, London: Hodder and Stoughton, 1954, p. 620, quoted in P.J. Rivers (2003:105)
+[^6]: C.E. Wurtzburg, _[Raffles of the Eastern Isles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4150106)_, London: Hodder and Stoughton, 1954, p. 620, quoted in P.J. Rivers (2003, p. 105)
 
 [^7]: [Wurtzburg](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4150106), p. 621.
 
-[^8]: John Crawfurd, _[Journal of an Embassy to the Courts of Siam and Cochin China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=90035)_, KL: Oxford University Press, 1967, p. 46, quoted in PJ Rivers (2003:105)
+[^8]: John Crawfurd, _[Journal of an Embassy to the Courts of Siam and Cochin China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=90035)_, KL: Oxford University Press, 1967, p. 46, quoted in Rivers (2003, p. 105)
 
-[^9]: [Crawfurd](https://eservice.nlb.gov.sg/item_holding.aspx?bid=90035), 1967, 46.
+[^9]: [Crawfurd](https://eservice.nlb.gov.sg/item_holding.aspx?bid=90035), 1967, p. 46.
 
 [^10]: Various other articles were written over the years that showcased and surveyed these keramats or were queries from residents to find out more about the keramats in Singapore. Among others, were _The Straits Times_, ‘[Kramats of Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390411-1.2.42)’ (11 April 1939, p. 10) and _Berita Harian_, ‘[Bendera Jepun putus dekat keramat tertua Singapura](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19700103-1.2.39) (Japanese flag rips off at the oldest keramat in Singapore’ (3 January 1970, p. 4).
 
-[^11]: Chambert-Loir. (2002) “Saints and Ancestors: The Cult of Muslim Saints in Java” in _[The Potent Dead: Ancestors, Saints and Heroes in Contemporary Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11147938)_, quoted in Goh, (2011:154).
+[^11]: Chambert-Loir, Henri. (2002) “Saints and ancestors: The cult of Muslim saints in Java” in _[The Potent Dead: Ancestors, Saints and Heroes in Contemporary Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11147938)_, quoted in Goh (2011, p. 154).
 
 [^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;written by Vernon, Cornelius-Takahama. Retrieved from Singapore Infopedia.
 
