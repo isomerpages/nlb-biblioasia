@@ -8,13 +8,15 @@ description: Keramats (or shrines) have endured the fast-paced changes
 ---
 #### Keramats (shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
 #### 
-<center><i>The keramat cult could be interpreted as a channel which brings together the connections and contradictions between the deeper historical structures of ethno-cultural hybridity and the nature of modern ethno-religious nationalism. — Goh B.L., Engaging the Spirit World, 2011:158</i></center>
+<center>The keramat cult could be interpreted as a channel which brings together the connections and contradictions between the deeper historical structures of ethno-cultural hybridity and the nature of modern ethno-religious nationalism. 
+	
+— Goh B.L., <i>Engaging the Spirit World</i> (2011, p. 158)</center>
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/Keramats/HABIB%20NOH%20KERAMAT.jpg">
  <div style="background-color: white;">Keramat Habib Noh on Palmer Road is the resting place of Habib Noh bin Muhamad Al-Habshi, a highly regarded mystic. Worshippers from as far as China come here to pray or to pay their respects. <i>Courtesy of National Archives of Singapore.</i></div>
 
-It is the religious syncretism and symbolism that has been imbibed in these keramats that allow for such a relic to still remain relevant to Singaporeans in this modern era. Embedded within the keramat are the ebb and flow of Singapore’s history and its continuing evolution. In essence, the keramat is not just a monument of remembrance for the dead, but also a rallying point for the living.
+It is the religious syncretism and symbolism of keramats that allow these relics to still remain relevant to Singaporeans in this modern era. Embedded within the keramats are the ebb and flow of Singapore’s history and its continuing evolution. In essence, the keramat is not just a monument of remembrance for the dead, but also a rallying point for the living.
 
 Despite being hidden away in the folds of Singapore’s concrete jungle, keramats and keramat-worship are far from being entrenched in the forgotten annals of history. The entrances to many of these keramats are often “invisible”, seemingly quiet, offering respite from the heat and throngs of people. What we mistake for wooden huts, serene and seemingly forgotten, belie the hopes, dreams and prayers of those who have taken a chance to lay their most personal needs and desperation in the forms of fragrant offerings at the foot of a grave of a person they have never met, much less a faith in which they do not believe.
 
