@@ -54,7 +54,7 @@ Jimmy <br>
 All right. What can you tell us about Hooi Hye and Bong Soo? Can you give a little bit of an idea of where they came from and whether they had a signature style or something?
 
 Abhishek <br>
-The challenge with exploring Singapore's early sports history is that it's not very well documented. So what we have are basically scraps of information, which I've gathered by going through old newspapers. We know very little about Hooi Hye, if I'm being honest. We know that he was born in Penang. He was a bit of a prodigy, a tennis prodigy. So by his early teens, he was already being spoken about as one of the most talented ethnically Chinese players to have emerged out of the Straits Settlements. By 1916, '17, when World War I was still ongoing, he was actually playing with some of the biggest players of that time, and raising money for the veterans who were returning from the front. He lives up to his potential, his youthful potential. By the early '20s, '21, he had established himself as...
+The challenge with exploring Singapore's early sports history is that it's not very well documented. So what we have are basically scraps of information, which I've gathered by going through old newspapers. We know very little about Hooi Hye, if I'm being honest. We know that he was born in Penang. He was a bit of a prodigy, a tennis prodigy. So by his early teens, he was already being spoken about as one of the most talented ethnically Chinese players to have emerged out of the Straits Settlements. By 1916, '17, when World War I was still ongoing, he was actually playing with some of the biggest players of that time, and raising money for the veterans who were returning from the front. He lives up to his potential, his youthful potential. By the early '20s, '21, he had established himself as [a prodigy].
 
 Jimmy <br>
 How old was he at this time?
@@ -108,10 +108,10 @@ Jimmy <br>
 Right. So in fact one of them is Fred Perry, right? Who gave up tennis and started making t-shirts.
 
 Abhishek <br>
-Yes. Fred Perry also... I think, the year Bong Soo turned professional was the year Fred Perry won Wimbledon – in 1936. And then, yes, he did turn professional. Also at the same time launched a line of clothing, which till today continues to be very successful.
+Yes. I think, the year Bong Soo turned professional was the year Fred Perry won Wimbledon – in 1936. And then, yes, he did turn professional. Also at the same time [he] launched a line of clothing, which till today continues to be very successful.
  
 Jimmy <br> 
-Yeah. Do you have a Fred Perry shirt? So they just basically toured around wherever they were invited, wherever they were wanted by various companies, various governments.
+Yeah. Do you have a Fred Perry shirt? 
 
 Abhishek <br>
 I do not. They're too expensive for me.
@@ -125,9 +125,8 @@ Tennis first came to Singapore in the 1870s. It's quite a remarkable story becau
 Jimmy <br>
 Oh, right. He was quite an entrepreneur as well. 
 
-
 Abhishek <br>
-Very entrepreneurial, yes. This was happening in the UK in the late 1860s. Remarkably, by the mid-1870s, already... The SCC was already hosting its first tennis championship.
+Very entrepreneurial, yes. This was happening in the UK in the late 1860s. Remarkably, by the mid-1870s, already, the SCC was already hosting its first tennis championship.
 
 Jimmy <br> 
 The SCC means Singapore Cricket Club?
@@ -139,7 +138,7 @@ Jimmy <br>
 So it was brought in by the colonial officials, presumably. But did it spread among the Asian community?
 
 Abhishek <br>
-Yes, it did, amongst a very specific section of the Asian community, which is the Straits Chinese. So the Straits Chinese, as I'm sure you know, were the more wealthy merchants who sort of acted as mediators between the colonial government and the Chinese labourers who were coming into Singapore at that time. They basically really took to it very quickly and very passionately, one could say. Like I said, the Straits Chinese Recreation Club was specifically set up in 1884 with a view to playing two colonial sports, which were tennis and cricket. By the 1890s, the SCRC tennis championship was already afixture of the tennis season. And you had some very prominent personalities from that time who were competing in this tournament, including someone like Song Ong Siang.
+Yes, it did, amongst a very specific section of the Asian community, which is the Straits Chinese. So the Straits Chinese, as I'm sure you know, were the more wealthy merchants who sort of acted as mediators between the colonial government and the Chinese labourers who were coming into Singapore at that time. They basically really took to it very quickly and very passionately, one could say. Like I said, the Straits Chinese Recreation Club was specifically set up in 1884 with a view to playing two colonial sports, which were tennis and cricket. By the 1890s, the SCRC tennis championship was already a fixture of the tennis season. And you had some very prominent personalities from that time who were competing in this tournament, including someone like Song Ong Siang.
 
 Jimmy <br> 
 SCRC is the Singapore...
@@ -157,7 +156,7 @@ Jimmy <br>
 Okay, so you have all these clubs in Singapore – the Straits Chinese Recreation Club, the Singapore Cricket Club. Was this how tennis matches or the tennis championships were organised in Singapore and Malaya?
 
 Abhishek <br>
-Yes, so I think the club tournament was sort of the basis of the entire tennis season calendar. What would happen would be that the Straits Chinese Recreation Club, the Singapore Cricket Club, the Singapore Recreation Club, which of course was Eurasians-only, they would all have their intra-clubchampionships, then there would be inter-club championships amongst these various clubs. Then you would have, by the 1920s, 1921... In fact, you have the first Singapore Open, which was basically clubs sending their best players to compete in it and it was open to all Singapore residents only at the time. On top of that, in the same year, you have what came to be known as the Malaya Cup, which was the same year as the Singapore Cup. So 1921 was when you had the first Singapore Open, Singapore Cup – it went by a variety of names. That same year was when you had the first Malaya Cup, which was basically the top players from the three Straits Settlements – Penang, Melaka, Singapore – as well as three of the four Federated states. I think it was Negeri Sembilan and a couple more: Selangor and Perak.
+Yes, so I think the club tournament was sort of the basis of the entire tennis season calendar. What would happen would be that the Straits Chinese Recreation Club, the Singapore Cricket Club, the Singapore Recreation Club, which of course was Eurasians-only, they would all have their intra-club championships, then there would be inter-club championships amongst these various clubs. Then you would have, by the 1920s, 1921, the first Singapore Open, which was basically clubs sending their best players to compete in it and it was open to all Singapore residents only at the time. On top of that, in the same year, you have what came to be known as the Malaya Cup, which was the same year as the Singapore Cup. So 1921 was when you had the first Singapore Open, Singapore Cup – it went by a variety of names. That same year was when you had the first Malaya Cup, which was basically the top players from the three Straits Settlements – Penang, Melaka, Singapore – as well as three of the four Federated states. I think it was Negeri Sembilan and a couple more: Selangor and Perak.
 
 Jimmy <br> 
 When Loh Kean Yew won the Badminton World Federation Championships in 2021, badminton academies and retailers saw an enormous surge of interest in Singapore. Did the same thing happened with Khoo and Lim? Did their success actually help make tennis more popular in this region?
