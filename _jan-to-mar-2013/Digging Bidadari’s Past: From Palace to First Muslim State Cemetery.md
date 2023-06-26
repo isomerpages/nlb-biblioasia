@@ -88,15 +88,15 @@ The Municipal Commissioners were reluctant to accede to a request to purchase th
 
 <center>That the obligation of the different sections of the Community must be recognised but that as the ground at Bidadari was acquired for the interment of decreased members of the Christian Community for a limited period only, it is inadvisable to set apart any portion of this land for the interment of members of other religions.[^22]</center>
 
-The commissioners were firm about their plans to reserve the burial grounds at Bidadari for the Christian community only until Dato’ Mentri made it a prerequisite for the Commissioners to also acquire the land for the purpose of a public Muslim burial ground as part of the offer in 1905.[^23]
+The commissioners had been firm about their plans to reserve the burial grounds at Bidadari for the Christian community until Dato’ Mentri made it a prerequisite for the commissioners to also acquire the land for the purpose of a public Muslim burial ground as part of the offer in 1905.[^23]
 
-The question of providing a public Mohamedan burial ground is considered by the Board. The President addresses the Board, and moves that the Commissioners accept the offer of the Dato’ Mentri of Johore to sell to the Corporation for the purpose of a Mohamedan public burial ground, at the price of $1,056.66 per acre, a piece of land forming part of the Bidadari Estate, being a portion of Government Grant No. 9.[^24]
+<center>The question of providing a public Mohamedan burial ground is considered by the Board. The President addresses the Board, and moves that the Commissioners accept the offer of the Dato’ Mentri of Johore to sell to the Corporation for the purpose of a Mohamedan public burial ground, at the price of $1,056.66 per acre, a piece of land forming part of the Bidadari Estate, being a portion of Government Grant No. 9.[^24]</center>
 
-Eventually, the 45-acre land was acquired at the price of $2,500 per acre, on condition that the Commissioners made a road from MacPherson Road to the side of the cemetery. Payment for the Bidadari estate amounted to $112,500, which was paid in two installments of $80,000 and $32,500.[^25]
+Eventually, the 45-acre land was acquired at the price of $2,500 per acre, on condition that the commissioners made a road from MacPherson Road to the side of the cemetery. Payment for the Bidadari estate amounted to $112,500, which was paid in two installments of $80,000 and $32,500.[^25]
 
-#### **Work In Progress**
+#### **Work in Progress**
 
-Work on the Christian section of Bidadari cemetery began first. Within less than a year, the plans for the layout of the Christian cemetery were prepared and arrangements were made for filling up the low lying portions and for forming and metalling the roads.[^26]
+Work on the Christian section of Bidadari cemetery began first. Within a year, plans for the layout of the Christian cemetery were prepared and arrangements were made for filling up the low-lying portions and for forming and metalling the roads.[^26]
 
 With the opening of the Bidadari Christian cemetery, the gazette as well as newspaper reports officially announced the closure of the Bukit Timah Road Christian Cemetery on the 31 December 1909.[^27] In effect, the Catholic portion of Bidadari Cemetery was opened, except in cases where the interments in reserved plots of which leases were granted. The grounds had already been consecrated in January 1908. The benediction ceremony of the opening of the Roman Catholic section of Bidadari section was announced in January 1910.[^28]
 
