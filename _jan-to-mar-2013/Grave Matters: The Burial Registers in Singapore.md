@@ -117,7 +117,7 @@ As a historical resource, burial registers shed light on the morbidity and morta
 
 **Unpublished Official Records**
 
-Administration reports of the Singapore municipality, 1924.
+Administration reports of the Singapore Municipality, 1924.
 
 Burial registers of Bidadari Cemetery, 1918–1972.
 
@@ -125,13 +125,13 @@ Burial registers of Bukit Brown Cemetery, 1922–1945.
 
 Burial registers of Bukit Timah Road Old Christian Cemetery, 1872–1895.
 
-Burial registers Chua Chu Kang Cemetery, 1955–1975.
+Burial registers of Chua Chu Kang Cemetery, 1955–1975.
 
 CO273 Straits Settlements, Blue Book, 1924.
 
 **Published Official Records**
 
-Simpson, W.J. (1907). _Report on the Sanitary condition of Singapore_. London: Waterlow and Sons. Retrieved from OneSearch catalogue.
+Simpson, W.J. (1907). _Report on the sanitary condition of Singapore_. London: Waterlow and Sons. Retrieved from OneSearch catalogue.
 
 **Newspapers**
 
@@ -141,19 +141,19 @@ _The Straits Times_, 1924–1983.
 
 **Books**
 
-Braddell, R. (1934). [_The lights of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129) (pp. 69–90). London: Methuen &amp; Co. (Call no.: RRARRE 959.57 BRA; Microfilm no.: NL25437)
+Braddell, R. (1934). [_The lights of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129) (pp. 69–90). London: Methuen &amp; Co. (Call no.: RRARE 959.57 BRA; Microfilm no.: NL25437)
 
-Chan., K. B. &amp; Tong, C.K.,&nbsp; (Eds.), [_Past times: A social history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570). Singapore: Times Edition. (Call no.: RSING 959.57 PAS)
+Chan., K. B., &amp; Tong, C.K. (Eds.), [_Past times: A social history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570). Singapore: Times Edition. (Call no.: RSING 959.57 PAS)
 
-Cohn, B.S. (1996). [_Colonialism and its form of knowledge: The British in India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. 4.). New Jersey: Princeton University Press. (Call no.: R 954 COH)
+Cohn, B.S. (1996). [_Colonialism and its form of knowledge: The British in India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. 4). New Jersey: Princeton University Press. (Call no.: R 954 COH)
 
 Jaschok, M., &amp; Miers, S. (Eds.) (1994). [_Women and Chinese patriarchy: Submission, servitude and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205). Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
 
-Kong, L., &amp; Yeoh, B.S.A. (2003). [_The politics of landscape in Singapore_: Construction of _nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279). New York: Syracuse University Press. (Call no.: RSING 320.95957 KON)
+Kong, L., &amp; Yeoh, B.S.A. (2003). [_The politics of landscape in Singapore: Construction of nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279). New York: Syracuse University Press. (Call no.: RSING 320.95957 KON)
 
-Loh, K.S. &amp; K.K. Liew, K.K. (Eds.), [_The makers &amp; keepers of Singapore history_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770). Singapore: Ethos Books. (Call no.: RSING 959.570072 MAK)
+Loh, K.S., &amp; Liew, K.K. (Eds.), [_The makers &amp; keepers of Singapore history_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770). Singapore: Ethos Books. (Call no.: RSING 959.570072 MAK)
 
-Manderson, L. (1996). [_Sickness and the State: Health and Illness in colonial Malaya, 1870–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543). New York: Cambridge University Press. (Call no.: RSEA 362.1095951 MAN)
+Manderson, L. (1996). [_Sickness and the state: Health and illness in colonial Malaya, 1870–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543). New York: Cambridge University Press. (Call no.: RSEA 362.1095951 MAN)
 
 Meyers, E. (2004). [_Convent of the Holy Infant Jesus: 150 years in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12427695). Penang: The Lady Superior. (Call no.: RSING q371.07125957 MEY)
 
