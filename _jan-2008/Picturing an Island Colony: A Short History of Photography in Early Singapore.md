@@ -75,3 +75,40 @@ Naomi Rosenblum, [_A World History of Photography_](https://eservice.nlb.gov.sg/
 National Museum (Singapore), [_National Museum of Singapore: Topping Off Ceremony, Monday, 28 November 2005, 7.00 PM_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655514) (Singapore: National Museum of Singapore, 2005). (Call no. RSING 708.95957 NAT)
 
 Robert Hirsch, [_Seizing the Light: A History of Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9502389) (Boston: McGraw-Hill, 2000). (Call no. RART 770.9 HIR)
+
+#### **NOTES**
+
+[^1]: Liz Wells, ed., [_Photography: A Critical Introduction_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12339590) (London: Routledge, 2004), 46–47. (Call no. RART 770.1 PHO)
+
+[^2]: John Falconer, [_A Vision of the Past: A History of Early Photography in Singapore and Malaya: The Photographs of G.R. Lambert &amp; Co_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4368234). (Singapore: Times Editions, 1987), 187. (Call no. RSING 779.995957 FAL)
+
+[^3]: National Museum (Singapore), [_National Museum of Singapore: Topping Off Ceremony, Monday, 28 November 2005, 7.00 PM_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655514) (Singapore: National Museum of Singapore, 2005), 15–16 (Call no. RSING 708.95957 NAT); Gretchen Liu, [_Singapore: A Pictorial History, 1819–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (Singapore: Archipelago Press in association with the National Heritage Board, 1999), 36. (Call no. RSING 959.57 LIU-\[HIS\])
+
+[^4]: Bengal Civilian, [_The Singapore Chapter of Zieke Reiziger, or, Rambles in Java and the Straits in 1852_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4206423) (Singapore: Antiques of the Orient, 1984), 1. (Call no. RSING 959.57 BEN)
+
+[^5]: Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 341. (Call no. RSING 959.57 BUC-\[HIS\])
+
+[^6]: “[Page 1 Advertisements Column 2: Gaston Dutronquoy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18390411-1.2.4.2),” _Singapore Free Press and Mercantile Advertiser_, 11 April 1839, 1. (From NewspaperSG)
+
+[^7]: Buckley, [_An Anecdotal History of Old Times_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239), 341.
+
+[^8]: Robert Hirsch, [_Seizing the Light: A History of Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9502389) (Boston: McGraw-Hill, 2000), 33. (Call no. RART 770.9 HIR)
+
+[^9]: Naomi Rosenblum, [_A World History of Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7872484) (New York: Abbeville Press Publishers, 1997), 43–44. (Call no. RART 770.9 ROS)
+
+[^10]: Hirsch, [_Seizing the Light_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9502389), 33.
+
+[^11]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184041), trans. A. H. Hill (Singapore: Malaya Publishing House, 1955), 257. (Call no. RCLOS 959.5 ABD)
+
+[^12]: Falconer, [_Vision of the Past_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4368234), 13.
+
+[^13]: Falconer, [_Vision of the Past_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4368234), 5–6; Alma Davenport, _The History of Photography: An Overview_ (Albuquerque: University of New Mexico Press, 1999); Gordon Baldwin, [_Looking at Photographs: A Guide to Technical Terms_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5935820) (California: J. Paul Getty Museum in association with British Museum Press, 1991), 15. (Call no. RART 770.3 BAL)
+
+[^14]: John Thomson, [_The Straits of Malacca, Indo-China and China: Travels and Adventures of a Nineteenth-Century Photographer_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6373043) (Singapore: Oxford University Press, 1993), xix–xx. (Call no. RSING 915.9 THO)
+
+[^15]: Thomson, [_Straits of Malacca, Indo-China and China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6373043), xxiii.
+
+[^16]:  [_From the Family Album: Portraits From the Lee Brothers Studio, Singapore 1910–1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7259582) (Singapore: Landmark Books for National Heritage Board, 1995), 11. (Call no. RSING 779.26095957 FRO)
+
+
+
