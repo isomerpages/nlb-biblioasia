@@ -186,9 +186,9 @@ Singh, K. (1990). [_Municipal sanitation in Singapore 1887–1940_](https://eser
 
 [^6]: Huang Jianli, “Walls, Gates and Locks: Reflections on Sources for Research on Student Political Activism”, in Loh Kah Seng and Liew Kai Khiun, eds. _[The Makers and Keepers of Singapore History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770)_ (Singapore: Ethos Books; Singapore Heritage Society, 2010), p. 34.
 
-[^7]: [Warren](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063), Rickshaw Coolie, p. 259.
+[^7]: [Warren](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063), p. 259.
 
-[^8]: Lenore Manderson, _[Sickness and the State: Health and Illness in Colonial Malaya, 1870 – 1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543)_ (New York: Cambridge University Press, 1996), pp. 17—18.
+[^8]: Lenore Manderson, _[Sickness and the State: Health and Illness in Colonial Malaya, 1870 – 1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543)_ (New York: Cambridge University Press, 1996), pp. 17–18.
 
 [^9]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 4.
 
@@ -212,28 +212,28 @@ Singh, K. (1990). [_Municipal sanitation in Singapore 1887–1940_](https://eser
 
 [^19]: Elaine Meyers, _[Convent of the Holy Infant Jesus: 150 Years in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12427695)_ (Penang: The Lady Superior, 2004), p. 62.
 
-[^20]: “Clinics”, _Administration Report of the Singapore Municipality for the year 1924_ (ARSM) (Singapore: Straits Printing Office, 1925)
+[^20]: “Clinics”, _Administration Report of the Singapore Municipality for the Year 1924_ (ARSM) (Singapore: Straits Printing Office, 1925).
 
 [^21]: “Clinics”, ARSM, 1925.
 
-[^22]: W.R.C. Middleton, “The Working of the Births and Deaths Registration Ordinance”, _[Malaya Medical Journal](https://eresources.nlb.gov.sg/printheritage/detail/f14a7729-d479-4f63-a5d8-bb7a25d97b99.aspx)_, Vol. IX, Jul 1911, Part 3 (Singapore: The Methodist Printing House, 1911), pp. 45—46.
+[^22]: W.R.C. Middleton, “The Working of the Births and Deaths Registration Ordinance”, _[Malaya Medical Journal](https://eresources.nlb.gov.sg/printheritage/detail/f14a7729-d479-4f63-a5d8-bb7a25d97b99.aspx)_, Vol. IX, July 1911, Part 3 (Singapore: The Methodist Printing House, 1911), pp. 45–46.
 
-[^23]: [Child Welfare Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240425-1.2.59). (1924, April 25). _The Straits Times_, p. 9. Retrieved from NewspaperSG; [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480902-1.2.58), 2 Sep 1948, p. 5.
+[^23]: [Child Welfare Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240425-1.2.59). (1924, April 25). _The Straits Times_, p. 9. Retrieved from NewspaperSG; [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480902-1.2.58), 2 September 1948, p. 5.
 
 [^24]: W. J. Simpson, _Report on the Sanitary Condition of Singapore_ (London: Waterlow and Sons, 1907), p. 13.
 
-[^25]: Kuldip Singh, _[Municipal Sanitation in Singapore, 1887—1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172093)_ (Singapore: NUS, Department of History, BA Hons. Academic Exercise, 1989/1990), p. 39.
+[^25]: Kuldip Singh, _[Municipal Sanitation in Singapore, 1887–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172093)_ (Singapore: NUS, Department of History, BA Hons. Academic Exercise, 1989/1990), p. 39.
 
-[^26]: Brenda S. A. Yeoh, _[Contesting Space in Colonial Singapore : Power Relations and the Urban Built Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)_ (Singapore: Singapore University Press, 2003), p. 141.
+[^26]: Brenda S.A. Yeoh, _[Contesting Space in Colonial Singapore : Power Relations and the Urban Built Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)_ (Singapore: Singapore University Press, 2003), p. 141.
 
 [^27]: Convulsions and enteritis were indefinite headings that served as umbrella terms for deaths due to dietetic errors, malaria and tetanus, in “The Straits Settlement Medical Report for the year 1926”.
 
 [^28]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240227-1.2.26)_, 27 Feb 1924, p. 8.
 
-[^29]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), pp. 142—143.
+[^29]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), pp. 142–143.
 
-[^30]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), pp. 142—143.
+[^30]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), pp. 142–143.
 
 [^31]: “Clinics”, ARSM, 1924.
 
-[^32]: Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Methuen &amp; Co. Ltd, 1934), pp. 69—70.
+[^32]: Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Methuen &amp; Co. Ltd, 1934), pp. 69–70.
