@@ -107,7 +107,7 @@ Without having examined the burial registers, one might never have had cause to 
 As a historical resource, burial registers shed light on the morbidity and mortality of the inhabitants of Singapore, which is the subject matter and raison d’être of the registers themselves. However, burial registers also offer insights into the power structures, prejudices and perceptions of state authority. This information helps in understanding the lived experience of the inhabitants of Singapore, while acting as a social commentary on the governance of the state. In particular, the records of the early burial registers yield rich data because they reflect the worldview of the British colonial authority. Burial registers of later years follow a standardised template that, while still of use in understanding more about a certain community, are no longer as reflective of society. Ultimately, the value of the burial register lies not in what it can tell us about history, but what questions it can enable the historian to ask that will offer a richer depth to history as we know it.
 
 <div>
-<b>Genevieve Wong</b> is a Senior Officer with SPRING Singapore. This article is based on her honours dissertation, <i>Grave Matters: The Burial Registers and Singapore History</i>, completed in 2011 at the Department of History, National University of Singapore.
+<b>Genevieve Wong</b> is a Senior Officer with SPRING Singapore. This article is based on her honours dissertation, "Grave Matters: The Burial Registers and Singapore History", completed in 2011 at the Department of History, National University of Singapore.
 </div>
 
 #### **REFERENCES**
