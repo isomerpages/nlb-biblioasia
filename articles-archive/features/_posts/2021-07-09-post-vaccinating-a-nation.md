@@ -78,7 +78,7 @@ During the post-war period, Singapore also had to deal with poliomyelitis, or po
 
 A major polio outbreak between August and December 1958 killed 12 and caused 404 infants and children to be crippled by the disease.[^26] As the number of polio cases continued to surge, there was added pressure on the government to act. Eventually, the Health Ministry decided to offer free polio vaccinations on a voluntary basis to children aged three to 10.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/ParentsAndChildren.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-2/vaccination/ParentsandChildren.jpg)
 <div style="background-color: white;">More than 2,000 parents and children packed the Lim Ah Pin Road Clinic to get vaccinated during an outbreak of polio, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Between November and December 1958, over 200,000 children were immunised with the oral Sabin vaccine (named after its developer, Albert Bruce Sabin) in vaccination centres set up across the island.[^27] However, this did not stop another outbreak from happening just two years later which crippled 196 people.
