@@ -270,7 +270,7 @@ Jimmy <br>
 Okay, why?
 
 Abhishek <br>
-Because I think the Singapore we know today is just such worlds apart from the Singapore that existed at that time. Again, I think it is not really talked about or written about enough. You have waves upon waves of these new migrants pouring in from China and India. There's opium, there's alcohol, there's politics, and there are these business rivalries. And there are gangs. So just purely from a...
+Because I think the Singapore we know today is just such worlds apart from the Singapore that existed at that time. Again, I think it is not really talked about or written about enough. You have waves upon waves of these new migrants pouring in from China and India. There's opium, there's alcohol, there's politics, and there are these business rivalries. And there are gangs. 
 
 Jimmy <br> 
 A very exciting period.
