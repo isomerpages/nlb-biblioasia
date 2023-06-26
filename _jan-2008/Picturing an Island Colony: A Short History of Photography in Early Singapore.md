@@ -51,5 +51,11 @@ It is worthy to note that apart from European studios, there were also those own
 <img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/song%20ong%20siang.jpg" style="width:50%;">Portrait of Song Ong Siang and his wife, taken by Lee Brothers.<i> Reproduced from One Hundred Years’ History of the Chinese in Singapore. All rights reserved, Murray, 1923.</i><br>
 	
 King Yan was later joined by his brother, Poh Yan, and the dynamic duo developed their studio into a frontrunner in the competitive world of portraiture photography. Gretchen Liu mentions that Lee Brothers photographed many of Singapore’s eminent personalities of the day; they included Dr Lim Boon Keng, Mr and Mrs Song Ong Siang, and even Dr Sun Yat-sen during his visit to Singapore. Liu added that a substantial number of the studio’s photographs were used for the 1923 classic biographical work,<i>One Hundred Years of the Chinese in Singapore</i>, compiled by Song Ong Siang.16
-
 </div>
+
+ <center><b>Alex Ong</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library </center>
+
+
+
+
+
