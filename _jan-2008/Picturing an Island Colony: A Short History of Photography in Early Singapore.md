@@ -37,18 +37,18 @@ In retrospect, photography in Singapore was still in its nascent stage at the en
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>SELECTED TITLES ON THE HISTORY OF PHOTOGRAPHY IN EARLY SINGAPORE AVAILABLE AT THE LEE KONG CHIAN REFERENCE LIBRARY</b> <br><br>
 
-<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/vision%20past.jpg" style="width:50%;"><i>All rights reserved, Times Edition, 1987.</i>	
+<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/vision%20past.jpg" style="width:50%;"><i>All rights reserved, Times Edition, 1987.</i><br>	
 The Lee Kong Chian Reference Library's rich collection of heritage materials on Singapore includes a number of works related to the history of photography in early colonial Singapore. In his book entitled <i> A Vision of the Past</i> , John Falconer, Curator of Photographs in the British Library’s Oriental and India Office, concentrates on one European owned famous studio that operated during the late 19th and early 20th centuries – G.R. Lambert &amp; Co. (first formed in 1867, when Singapore became a Crown Colony). The book also provides a pretty detailed account of photographic activities prior to 1867. His 190-oddpage masterpiece is replete with images of not just classic studio portraits but also photographs of lush landscapes, majestic architecture, and colourful street scenes throughout Singapore, Malaya and other parts of Southeast Asia, from the Lambert collection. In addition, Falconer’s inclusion of a biographical list of early photographers who operated in Singapore is an invaluable reference for any researchers interested in the beginning and evolution of photography in the then island colony.<br><br>
 	
-<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/straitsmalacca.jpg" style="width:50%;"><i>All rights reserved, Oxford University Press, 1993.</i>
+<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/straitsmalacca.jpg" style="width:50%;"><i>All rights reserved, Oxford University Press, 1993.</i><br>
 
 Eminent travel photographer John Thomson recounted his travel experiences in his memoirs, which were subsequently published as <i> The Straits of Malacca, Indo-China and China</i>  in 1875. The first six chapters of this work, which include his journey to Singapore, were reprinted by Oxford University Press in 1993. Entitled<i>The Straits of Malacca, Siam and Indo-China: Travels and Adventures of a Nineteenth-Century Photographer</i> , it features a lucid introduction by Judith Balmer, outlining the life and achievements of the 19th century travel photographer.<br><br>
 
-<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/familyalbum.jpg" style="width:50%;"><i>All rights reserved, Landmark Books, 1995.</i>
+<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/familyalbum.jpg" style="width:50%;"><i>All rights reserved, Landmark Books, 1995.</i><br>
 	
 It is worthy to note that apart from European studios, there were also those owned by Chinese. The Chinese owned photographic studios proliferated towards the end of the 19th century. One example of a prominent Chinese studio that operated in Singapore was Lee Brothers, whose photographic collection now resides mainly at the National Archives of Singapore. Gretchen Liu’s <i>From the Family Album</i>, tells the story of Lee King Yan, the founder of Lee Brothers Photographers (1911).<br><br>
 	
-<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/song%20ong%20siang.jpg" style="width:50%;">Portrait of Song Ong Siang and his wife, taken by Lee Brothers.<i> Reproduced from One Hundred Years’ History of the Chinese in Singapore. All rights reserved, Murray, 1923.</i>
+<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/song%20ong%20siang.jpg" style="width:50%;">Portrait of Song Ong Siang and his wife, taken by Lee Brothers.<i> Reproduced from One Hundred Years’ History of the Chinese in Singapore. All rights reserved, Murray, 1923.</i><br>
 	
 King Yan was later joined by his brother, Poh Yan, and the dynamic duo developed their studio into a frontrunner in the competitive world of portraiture photography. Gretchen Liu mentions that Lee Brothers photographed many of Singapore’s eminent personalities of the day; they included Dr Lim Boon Keng, Mr and Mrs Song Ong Siang, and even Dr Sun Yat-sen during his visit to Singapore. Liu added that a substantial number of the studio’s photographs were used for the 1923 classic biographical work,<i>One Hundred Years of the Chinese in Singapore</i>, compiled by Song Ong Siang.16
 
