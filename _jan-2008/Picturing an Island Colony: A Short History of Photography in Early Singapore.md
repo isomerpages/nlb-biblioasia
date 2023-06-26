@@ -44,6 +44,9 @@ Perhaps the most renowned photographer in 19th century Singapore who made use of
 
 John Thomson loved to work in the early mornings, which according to him was “the time when the finest atmospheric effects may be caught”. He had remarked, “The temperature is lower, and for an hour or two, nature enjoys the most perfect repose. … there is not a breath of wind to stir even the leaves of the ‘people’ \[pipal\] tree.”[^15] Given such a preference, it is not surprising why his “Coconut Plantation” in Singapore was taken in the early morning.
 
+<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/john%20thomson.jpg" style="width:50%;">
+ <div style="background-color: white;">First monograph on prominent 19th century photographer John Thomson.<i> All rights reserved, University of New Mexico Press, 1985.</i></div>
+
 In retrospect, photography in Singapore was still in its nascent stage at the end of the 1850s, but it certainly marked the beginning of a development that would turn out to be revolutionary. Over the next few decades, photographic studios, most of them European-owned, sprang up throughout the British trading settlement, not only offering portraiture photographic services to the public but also providing an invaluable medium for capturing images of distant lands and Britain’s expanding presence in them through imperialism. Photography did not come to a standstill with the outbreak of the Second World War; Japanese war photographers and photo studios both played their part in enriching Singapore’s photographic record. The idea of photography as an art form began to take shape after the war, and continues to evolve to this day.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>SELECTED TITLES ON THE HISTORY OF PHOTOGRAPHY IN EARLY SINGAPORE AVAILABLE AT THE LEE KONG CHIAN REFERENCE LIBRARY</b> <br><br>
