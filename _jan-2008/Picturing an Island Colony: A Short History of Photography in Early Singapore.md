@@ -47,3 +47,35 @@ King Yan was later joined by his brother, Poh Yan, and the dynamic duo developed
 </div>
 
  <center><b>Alex Ong</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library </center>
+
+#### **REFERENCES**
+
+Alma Davenport, _The History of Photography: An Overview_ (Albuquerque: University of New Mexico Press, 1999) &nbsp;
+
+Bengal Civilian, [_The Singapore Chapter of Zieke Reiziger, or, Rambles in Java and the Straits in 1852_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4206423) (Singapore: Antiques of the Orient, 1984). (Call no. RSING 959.57 BEN)
+
+Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 BUC-\[HIS\])
+
+_[From the Family Album: Portraits From the Lee Brothers Studio, Singapore 1910–1925](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7259582)_ (Singapore: Landmark Books for National Heritage Board, 1995). (Call no. RSING 779.26095957 FRO)
+
+Gordon Baldwin, [_Looking at Photographs: A Guide to Technical Terms_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5935820) (California: J. Paul Getty Museum in association with British Museum Press, 1991). (Call no. RART 770.3 BAL)
+
+Gretchen Liu, [_Singapore: A Pictorial History, 1819–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (Singapore: Archipelago Press in association with the National Heritage Board, 1999). (Call no. RSING 959.57 LIU-\[HIS\])
+
+John Falconer, [_A Vision of the Past: A History of Early Photography in Singapore and Malaya: The Photographs of G.R. Lambert &amp; Co_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4368234). (Singapore: Times Editions, 1987). (Call no. RSING 779.995957 FAL)
+
+John Thomson, [_The Straits of Malacca, Indo-China and China: Travels and Adventures of a Nineteenth-Century Photographer_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6373043) (Singapore: Oxford University Press, 1993). (Call no. RSING 915.9 THO)
+
+Liz Wells, ed., [_Photography: A Critical Introduction_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12339590) (London: Routledge, 2004). (Call no. RART 770.1 PHO)
+
+Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184041), trans. A. H. Hill (Singapore: Malaya Publishing House, 1955). (Call no. RCLOS 959.5 ABD)
+
+Naomi Rosenblum, [_A World History of Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7872484) (New York: Abbeville Press Publishers, 1997). (Call no. RART 770.9 ROS)
+
+National Museum (Singapore), [_National Museum of Singapore: Topping Off Ceremony, Monday, 28 November 2005, 7.00 PM_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655514) (Singapore: National Museum of Singapore, 2005). (Call no. RSING 708.95957 NAT)
+
+Robert Hirsch, [_Seizing the Light: A History of Photography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9502389) (Boston: McGraw-Hill, 2000). (Call no. RART 770.9 HIR)
+
+
+
+
