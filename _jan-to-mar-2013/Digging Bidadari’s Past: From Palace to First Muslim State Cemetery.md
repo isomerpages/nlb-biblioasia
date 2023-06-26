@@ -35,7 +35,6 @@ Some of the other well-known royal keramats are Keramat Bukit Kasita at Kampong 
 
 The second category of Muslim burials is licensed burials, which can take place on either wakaf lands or state lands. A form of licensed burial takes place on wakaf lands for private or public purposes. Wakaf lands are donated to the public for charitable causes such as madrasahs (Islamic schools), mosques or Muslim burials. However, in the context of Muslim public cemeteries in Singapore, a wakaf burial plot may not be considered public cemetery land if the donor and family are buried within the same wakaf land. Many poor Muslims who were not able to reserve plots for private burials could be buried on wakaf lands. It is mentioned that “a trust of land as a wakaf for the burial of the donor or family and relatives was held not to be public charity as it was not to the benefit of the public and was therefore void”.[^10] Hence, wakaf burials may both be public and private. The existence of such wakaf lands prove that financially able Muslims could provide burial plots for their descendants and for poorer Muslims. 
 
-
 The highest number of Muslim burials were found on state lands. Bidadari was the first of such a state cemetery, followed by Pusara Aman, Pusara Abadi I and Pusara Abadi II. The Muslim section of Bidadari was open from 1910 to 1973.[^11] By the time Bidadari was closed for exhumation in 1990s, there was an estimated 78,800 burials for the 24-hectare Muslim section of Bidadari Cemetery.[^12] This was more than the estimated 54,000 in the Christian section of Bidadari.
 
 The 48-hectare Muslim section of Choa Chu Kang Cemetery was made up of Pusara Aman I, Pusara Aman II, Pusara Abadi I and Pusara Abadi II. Pusara Aman I, comprising 40 ha, was a major part of the Muslim section. It was opened in 1970 and closed for burials in 1995,[^13] with 45,000 burial plots. Pusara Abadi I formed part of Pusara Aman I. Exhumed bodies from other cemetery plots that were unclaimed by relatives were interred in Pusara Abadi I.
@@ -50,7 +49,6 @@ Before the opening of state lands for Muslim burials, there was a lack of organi
 
 #### **Bidadari Estate: Istana of Cecilia Catherina Lange, Wife of Sultan Abu Bakar**
 
-
 Before Bidadari was a cemetery, it had been an estate owned by prominent families. Its original owner was Henry Minchin Simons (known as H.M. Simons and popularly nicknamed H.M.S.), co-founder of Paterson Simons &amp; Co and a civil engineer. In the early colonial period, the civil engineer was also the architect. Simons exchanged the Bidadari estate for Tyersall estate with William Napier. It was not known when exactly Simons had the building constructed or when he had the building exchanged for Tyersall. Few archival materials remain to elucidate the relationship of the two previous owners of the Bidadari estate.
 
 <img style="width:70%;" src="/images/Vol%208%20issue%204/Bidadari/Sultan%20abu%20bakar2.jpg">
@@ -58,7 +56,7 @@ Before Bidadari was a cemetery, it had been an estate owned by prominent familie
  
 Sultan Abu Bakar of Johor acquired the two estates of Bidadari and Tyersall from Napier and Simons respectively. Several newspaper reports from this period reveal that the sultan was a personal friend of both Simons and Napier; hence purchasing the estates was not out of the question. Tyersall became the palace of Sultana Fatimah, and was Sultan Abu Bakar’s official residence in Singapore when he became Sultan of Johor in 1885.
 
-Bidadari was the home of the Sultan’s second consort Cecilia Catherina Lange (1848–1939), a half-Danish, half-Chinese woman who was the daughter of Mad Johansen Lange, a well-known Danish merchant in Bali. Her mother, Teh Sang Nio, was one of two wives Lange had during his 17 years in Bali. Teh survived Lange and inherited a comfortable home in Banyuwangi, Java.[^16]
+Bidadari was the home of the Sultan’s second consort Cecilia Catherina Lange (1848–1939), a half-Danish, half-Chinese woman who was the daughter of Mads Johansen Lange, a well-known Danish merchant in Bali. Her mother, Teh Sang Nio, was one of two wives Lange had during his 17 years in Bali. Teh survived Lange and inherited a comfortable home in Banyuwangi, Java.[^16]
 
 Cecilia remained abroad after her father’s death, and returned to Bali in 1859 to visit his grave. She lived with a family friend for a time in India, England, France and then back East. When she returned to Singapore, she attended school in a convent and met Abu Bakar. Upon her conversion to Islam and marriage to Abu Bakar, she was known by the title and Muslim name Enche’ Besar Zubaidah binte Abdullah. She was 20 years at the time. She bore him two children: a daughter, Mariam, who later became the first wife of the Sultan of Pahang, and a son, Ibrahim, who succeeded his father upon his death in 1895 and ruled Johor as Sultan Ibrahim.[^17] It was established that Mariam and Ibrahim were born in the Bidadari estate in 1871 and 1873 respectively.
 
@@ -66,7 +64,7 @@ Cecilia remained abroad after her father’s death, and returned to Bali in 1859
  <div style="background-color: white;">Sultan Abu Bakar and Che’ Zubaidah Besar with their first-born, Mariam. <i>Courtesy of Dato’ Rahim Ramli.</i></div>
 	
 
-When Sultan Abu Bakar’s title changed in 1885 from Maharaja of Johor to Sultan of Johor, Zubaidah left Singapore to stay in Johor and never left. She lived in a palace in Johor until 1930 and hardly appeared in public. Mad Lange’s Danish biographer described her as an “animated little lady, with white hair, blue eyes and aristocratic features”.[^18] Cecilia was the “bidadari” (from Persian word *widadari*, or beautiful nymph) who resided in the estate for a while. The estate was then left vacant for some time. When the Municipal Commission wanted to acquire the land for a Christian cemetery in 1902, no one would have imagined that it would also be the first Muslim state cemetery and the first multireligious state cemetery in Singapore.
+When Sultan Abu Bakar’s title changed in 1885 from Maharaja of Johor to Sultan of Johor, Zubaidah left Singapore to stay in Johor and never left. She lived in a palace in Johor until 1930 and hardly appeared in public. Mads Lange’s Danish biographer described her as an “animated little lady, with white hair, blue eyes and aristocratic features”.[^18] Cecilia was the “bidadari” (from Persian word *widadari*, or beautiful nymph) who resided in the estate for a while. The estate was then left vacant for some time. When the Municipal Commission wanted to acquire the land for a Christian cemetery in 1902, no one would have imagined that it would also be the first Muslim state cemetery and the first multireligious state cemetery in Singapore.
 
 It remains a mystery how Bidadari obtained its name. The name had already been in existence before Sultan Abu Bakar and his wife took up residence in the estate. Newspapers reported that there was a pool in Bidadari visited by beautiful nymphs. The pool was said to exist but closed down as part of measures to reduce mosquito breeding. Oral accounts mention a hill in the estate on which the palace of the Sultan of Johor stood. This was where the Upper Serangoon Technical School used to be.[^19] However, images of the Bidadari palace are rare compared to Sultan Abu Bakar’s other residences in Singapore such as the Tyersall or Woodneuk palaces.
 
@@ -158,7 +156,7 @@ This article is about preserving dying legacies in cemeteries. From the lessons 
 
 Ahmad Ibrahim. (1965). [_The legal status of Muslims in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5539710). Singapore: Malayan Law Journal Ltd. (Call no.: RSING 342.087 AHM)
 
-Bloch, P. (2007). [_Mads lange: The Bali trader and peacemaker_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232). \[Batuan, Gianyar, Bali\]: Bali Purniati Center of the Arts. (Call no.: RSEA 959.86022092 BLO)
+Bloch, P. (2007). [_Mads Lange: The Bali trader and peacemaker_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232). \[Batuan, Gianyar, Bali\]: Bali Purniati Center of the Arts. (Call no.: RSEA 959.86022092 BLO)
 
 Hanna, W. A. (2004). [_Bali chronicles: A lively account of the island’s history from early times to the 1970s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370). Singapore: Periplus. (Call no.: RSEA 959.86 HAN)
 
