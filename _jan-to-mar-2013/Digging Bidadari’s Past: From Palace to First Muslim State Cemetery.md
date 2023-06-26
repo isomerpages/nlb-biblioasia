@@ -109,18 +109,17 @@ The Municipal Commissioners agreed that work on the Muslim cemetery would not be
 
 #### **Opening of Bidadari Muslim Cemetery**
 
-The Muslim cemetery was later opened on 14 February 1910. This brief announcement was made in a tongue-in-cheek manner, “the new Mohammedan cemetery at Bidadari, was opened on St. Valentine’s Day, but yet has no tenants”.[^32] This lack of response from the Muslim community is puzzling considering that the Muslims were actively petitioning for a cemetery plot in the earlier years.
+The Muslim cemetery was opened on 14 February 1910. This brief announcement was made in a tongue-in-cheek manner: “the new Mohammedan cemetery at Bidadari, was opened on St. Valentine’s Day, but yet has no tenants”.[^32] The lack of response from the Muslim community is puzzling, considering that the Muslims had been actively petitioning for a cemetery plot.
 
-The number of Muslim burials recorded during this time was limited in contrast to the utilisation rate of the Christian cemetery. No reasons were given in the government reports for this lack of numbers. In the later part of 1910, months after the opening of the Christian and Muslim cemeteries, there were 71 burials in the Christian cemetery and one at Muslim cemetery.[^33] Six months after, there were 50 burials in the Christian cemetery and seven in the Muslim cemetery.[^34]
+The number of Muslim burials recorded during this time was limited in contrast to the utilisation rate of the Christian cemetery. No reasons were given in the government reports for this lack of numbers. In the later part of 1910, months after the opening of the Christian and Muslim cemeteries, there were 71 burials in the Christian cemetery and one at the Muslim cemetery.[^33] Six months after, there were 50 burials in the Christian cemetery and seven in the Muslim cemetery.[^34]
 
-Almost 15 years afterwards in 1925, the Christian cemetery that was made up of four divisions – such as the Protestant division, French Roman Catholic division, Portuguese Roman Catholic division and Pauper Division– had recorded 15,109 burials since its opening. The Muslim section recorded 3,169 burials.[^35]
+Almost 15 years later, in 1925, the Christian cemetery that was made up of four divisions – Protestant, French Roman Catholic, Portuguese Roman Catholic and Pauper – recorded 15,109 burials since its opening. The Muslim section, on the other hand, recorded 3,169 burials.[^35]
 
-There may be many reasons for this gap in numbers between Christian and Muslim burials. One, Muslims could have had many alternative cemetery plots unlike the Christians. Two, the plot probably served the Muslim population in the surrounding area instead of island-wide because of its inaccessibility. There were tales of tigers roaming around the jungle, beyond the confined areas of the Municipality. Three, perhaps news of the new cemetery plot took time to spread to the outlying areas. In addition, the Malay and Muslim folks were probably unaware that they could also apply for subsidies for the plots.
+There may be many reasons for this gap in numbers. One, Muslims could have had many alternative cemetery plots unlike the Christians. Two, the plot probably served the Muslim population in the surrounding area instead of islandwide because of its inaccessibility. There were tales of tigers roaming the jungle, beyond the confined areas of the municipality. Three, perhaps news of the new cemetery plot took time to spread to the outlying areas. In addition, the Malay and Muslim folks were probably unaware that they could also apply for subsidies for the plots.
 
+A fee of $2 was charged for adult interment and half of that for a child under 10 years of age.[^36] For those in the service of the British such as civil servants of the colonial government or the municipality, the interment fee was $1. In cases where the relatives were certified by the chief police officer or by the president of Municipal Commissioners as “too poor to pay the fees, the fee may be reduced or remitted”.[^37]
 
-A fee of $2 was normally charged for adult interment and half of that for a child under 10 years of age.[^36] For those in the service of the British such as civil servants of the colonial government or the municipality, the interment was $1. In cases where the relatives were certified by the chief police officer or by the president of Municipal Commissioners as “too poor to pay the fees, the fee may be reduced or remitted”.[^37]
-
-Eventually, when the exhumation exercise commenced in 1995, the Muslim section of Bidadari consisted of 78,800 burials which was more than the estimated 54,000 in the Christian section.[^38]
+Eventually, when the exhumation exercise commenced in 1995, the Muslim section of Bidadari consisted of 78,800 burials, more than the estimated 54,000 in the Christian section.[^38]
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/sidewalk%20of%20Bidadari%20Muslim%20cemetery.jpeg">
@@ -129,9 +128,9 @@ Eventually, when the exhumation exercise commenced in 1995, the Muslim section o
 
 #### **The Chinese Question**
 
-Apparently, the Muslims were not the only group who applied for cemetery sites in the Municipal areas in 1904; the Municipal also reported that they received applications from the Chinese as well.[^39] However, applications from the Chinese at that time were rejected on the grounds that Chinese burial customs were incompatible with the ambience of the consecrated Christian site; even though land could be secured at Bidadari for a Chinese cemetery plot.[^40] The Chinese community had been facing obstacles in acquiring land within and beyond the municipal limits for private interment for the first two decades of the 20th century.
+Apparently, the Muslims were not the only group who applied for cemetery sites in the municipal areas in 1904; there were applications from the Chinese as well.[^39] However, applications from the Chinese at the time were rejected on the grounds that Chinese burial customs were incompatible with the ambience of the consecrated Christian site, even though land could be secured at Bidadari for a Chinese cemetery plot.[^40] The Chinese community had been facing obstacles in acquiring land within and beyond the municipal limits for private interment for the first two decades of the 20th century.
 
-Some years later, the acquisition of the 213-acre site at Bukit Brown, already part of an existing burial ground that belonged to the Seh Ong *kongsi* (clan association), was possible. This was so because the *kongsi* resented to the acquisition of their land under the Lands Acquisition Ordinance, and hence was able to acquire the Bukit Brown site. The Bukit Brown site was under municipal control at the end of 1919. Bukit Brown Cemetery opened for internment on 1 January 1922.
+Some years later, the acquisition of the 213-acre site at Bukit Brown, already part of an existing burial ground that belonged to the Seh Ong *kongsi* (clan association), was possible. This was because the *kongsi* resented to the acquisition of their land under the Land Acquisition Ordinance, and hence was able to acquire the Bukit Brown site. The Bukit Brown site came under municipal control at the end of 1919, and Bukit Brown Cemetery opened for internment on 1 January 1922.
 
 #### **Bidadari Exhumation Exercise**
 
