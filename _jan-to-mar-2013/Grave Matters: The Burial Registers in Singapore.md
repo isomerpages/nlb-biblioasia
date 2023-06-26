@@ -159,9 +159,9 @@ Meyers, E. (2004). [_Convent of the Holy Infant Jesus: 150 years in Singapore_](
 
 Warren, J.F. (2003). [_Rickshaw coolie: A people’s history of Singapore 1880–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063). Singapore: Singapore University Press. (Call no.: RSING 388.341 WAR)
 
-Wijeysingha, E in collaboration with Reve Francis Rene Nicolas. [_Going forth: The Catholic Church in Singapore 1819–2004_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12747544) (2006). Singapore: Titular Roman Catholic Archbishop of Singapore. (Call no.: RSING 282.5957 WIJ)
+Wijeysingha, E., in collaboration with Reve Francis Rene Nicolas. [_Going forth: The Catholic Church in Singapore 1819–2004_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12747544) (2006). Singapore: Titular Roman Catholic Archbishop of Singapore. (Call no.: RSING 282.5957 WIJ)
 
-Yeoh, B.S.A. (2003). [_Contesting space in colonial Singapore: Power relations and the urban built environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+Yeoh, B.S.A. (2003). [_Contesting space in colonial Singapore: Power relations and the urban built environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: NUS Press. (Call no.: RSING 307.76095957 YEO)
 
 **Articles**
 
