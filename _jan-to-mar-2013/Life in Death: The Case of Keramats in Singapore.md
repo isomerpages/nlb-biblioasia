@@ -7,7 +7,7 @@ description: Keramats (or shrines) have endured the fast-paced changes
   vibrant social fabric of multiple religions and cultures.
 ---
 #### Keramats (shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
-#### 
+
 <center>The keramat cult could be interpreted as a channel which brings together the connections and contradictions between the deeper historical structures of ethno-cultural hybridity and the nature of modern ethno-religious nationalism. 
 	
 — Goh Beng Lan, <i>Engaging the Spirit World</i> (2011, p. 158)</center>
