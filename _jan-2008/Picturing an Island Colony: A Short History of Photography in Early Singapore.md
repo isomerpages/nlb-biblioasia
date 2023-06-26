@@ -47,6 +47,9 @@ John Thomson loved to work in the early mornings, which according to him was “
 
 In retrospect, photography in Singapore was still in its nascent stage at the end of the 1850s, but it certainly marked the beginning of a development that would turn out to be revolutionary. Over the next few decades, photographic studios, most of them European-owned, sprang up throughout the British trading settlement, not only offering portraiture photographic services to the public but also providing an invaluable medium for capturing images of distant lands and Britain’s expanding presence in them through imperialism. Photography did not come to a standstill with the outbreak of the Second World War; Japanese war photographers and photo studios both played their part in enriching Singapore’s photographic record. The idea of photography as an art form began to take shape after the war, and continues to evolve to this day.
 
+
+
+
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SELECTED TITLES ON THE HISTORY OF PHOTOGRAPHY IN EARLY SINGAPORE AVAILABLE AT THE LEE KONG CHIAN REFERENCE LIBRARY</b><br><br>
 The Lee Kong Chian Reference Library's rich collection of heritage materials on Singapore includes a number of works related to the history of photography in early colonial Singapore. In his book entitled <i> A Vision of the Past</i> , John Falconer, Curator of Photographs in the British Library’s Oriental and India Office, concentrates on one European owned famous studio that operated during the late 19th and early 20th centuries – G.R. Lambert &amp; Co. (first formed in 1867, when Singapore became a Crown Colony). The book also provides a pretty detailed account of photographic activities prior to 1867. His 190-oddpage masterpiece is replete with images of not just classic studio portraits but also photographs of lush landscapes, majestic architecture, and colourful street scenes throughout Singapore, Malaya and other parts of Southeast Asia, from the Lambert collection. In addition, Falconer’s inclusion of a biographical list of early photographers who operated in Singapore is an invaluable reference for any researchers interested in the beginning and evolution of photography in the then island colony.
@@ -56,14 +59,15 @@ Eminent travel photographer John Thomson recounted his travel experiences in his
 <img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/straitsmalacca.jpg" style="width:50%;"><i>All rights reserved, Oxford University Press, 1993.</i><br><br>		
 It is worthy to note that apart from European studios, there were also those owned by Chinese. The Chinese owned photographic studios proliferated towards the end of the 19th century. One example of a prominent Chinese studio that operated in Singapore was Lee Brothers, whose photographic collection now resides mainly at the National Archives of Singapore. Gretchen Liu’s <i>From the Family Album</i>, tells the story of Lee King Yan, the founder of Lee Brothers Photographers (1911).
 <img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/familyalbum.jpg" style="width:50%;"><i>All rights reserved, Landmark Books, 1995.</i><br><br>	
+<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/song%20ong%20siang.jpg" style="width:50%;">Portrait of Song Ong Siang and his wife, taken by Lee Brothers. Reproduced from One Hundred Years’ History of the Chinese in Singapore. All rights reserved, Murray, 1923.<br><br>	
 King Yan was later joined by his brother, Poh Yan, and the dynamic duo developed their studio into a frontrunner in the competitive world of portraiture photography. Gretchen Liu mentions that Lee Brothers photographed many of Singapore’s eminent personalities of the day; they included Dr Lim Boon Keng, Mr and Mrs Song Ong Siang, and even Dr Sun Yat-sen during his visit to Singapore. Liu added that a substantial number of the studio’s photographs were used for the 1923 classic biographical work,<i>One Hundred Years of the Chinese in Singapore</i>, compiled by Song Ong Siang.[^16]
-
-<img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/song%20ong%20siang.jpg" style="width:50%;">Portrait of Song Ong Siang and his wife, taken by Lee Brothers.<i> Reproduced from One Hundred Years’ History of the Chinese in Singapore. All rights reserved, Murray, 1923.</i>
 </span>
+<br>
 
 
 
- <center><b>Alex Ong</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library </center>
+<div>
+<center><b>Alex Ong</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library </center></div>
 
 #### **REFERENCES**
 
