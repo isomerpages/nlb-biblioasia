@@ -3,33 +3,34 @@ title: "Digging Bidadari’s Past: From Palace to First Muslim State Cemetery"
 permalink: /vol-8/issue-4/jan-mar-2013/muslim-bidadari-cemetery/
 description: ""
 ---
-This article is a response to a call on the dearth of literature on Muslim cemeteries especially Bidadari.[^1] Ironically, documentation on Bidadari is lacking compared to the contemporary Bukit Brown cemetery or even the older Fort Canning Cemetery. For the case of Fort Canning, most of the surviving headstones have been preserved, embedded in a wall that stands till today. In addition, tombstone rubbings of surviving headstones were made. For Bidadari, there was no systematic documentation, mapping or photography done of the cemetery that could at least remain a record for future reference and research.[^2]
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/Another%20perspective%20of%20Bidadari.jpg">
- <div style="background-color: white;">A perspective of Bidadari Muslim cemetery in the 1990s before the exhumation.  <i>Courtesy of Goh Si Guim.</i></div>
+ <div style="background-color: white;">The Bidadari Muslim cemetery in the 1990s before its exhumation.  <i>Courtesy of Goh Si Guim.</i></div>
 
-In addition to the general lack of documentation on the Bidadari cemetery, there are limitations to reviewing a burial community such as the Muslim and/or Malay community. First, a Muslim community in the early 20th century was diverse. Second, simpler gravestones in the Muslim cemetery are not much of a textual source. This was the case for the Muslim tombstones in Bidadari cemetery, Kampong Glam’s royal cemetery and Keramat Radin Mas Ayu at Mount Faber. Most tombstones in the vicinity of the royal keramats hardly have names inscribed on them– and these were members of royalty!
+This article is a response to a call on the dearth of literature on Muslim cemeteries especially Bidadari.[^1] Ironically, documentation on Bidadari is lacking compared to the contemporary Bukit Brown Cemetery or even the older Fort Canning Cemetery. In the case of Fort Canning, most of the surviving headstones have been preserved, embedded in a wall that stands till today. In addition, tombstone rubbings of surviving headstones were made. For Bidadari, there was no systematic documentation, mapping or photography done of the cemetery that could at least remain a record for future reference and research.[^2]
+
+In addition to the general lack of documentation on Bidadari Cemetery, there are limitations to reviewing a burial community such as the Muslim and/or Malay community. First, a Muslim community in the early 20th century was diverse. Second, simpler gravestones in the Muslim cemetery are not much of a textual source. This was the case for the Muslim tombstones in Bidadari Cemetery, Kampong Gelam’s royal cemetery and Keramat Radin Mas Ayu at Mount Faber. Most tombstones in the vicinity of the royal keramats hardly have names inscribed on them – and these were members of royalty!
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/big%20Muslim%20tombstone%20in%20Bidadari.jpg">
  <div style="background-color: white;">
-A big Muslim tombstone in Bidadari Muslim cemetery. <i>Courtesy of Goh Si Guim.</i></div>
+A big Muslim tombstone in the Bidadari Muslim cemetery. <i>Courtesy of Goh Si Guim.</i></div>
 
-Hence what is possible for the moment is a look into the history of the Bidadari estate and the history of its acquisition as the first Muslim state cemetery and first multi-religious cemetery. This article provides an introduction to the history of burials in the Muslim/Malay community in Singapore, and contextualises the claim Bidadari has as the first Muslim state cemetery.
+Hence what is possible for the moment is a look into the history of the Bidadari estate and the history of its acquisition as the first Muslim state cemetery and the first multireligious cemetery. This article provides an introduction to the history of burials in the Muslim/Malay community in Singapore, and contextualises the claim Bidadari has as the first Muslim state cemetery.
 
 Before Bidadari,[^3] Muslim burials were private events. There were three types of burials: 
 
-(i) keramats that were considered “holy grounds” by the community and lastly; 
+(i) keramats that were considered “holy grounds” by the community; 
 
-(ii) licensed burials made up of burials on wakaf lands and state lands; 
+(ii) licensed burials made up of burials on wakaf lands and state lands; and
 
 (iii) unlicensed Muslim burials performed mostly by the poor.
 
 #### **Keramats**
 
-Keramats are one of the oldest and well-known burials in Singapore. It is usually a holy place that could be an old burial ground, cemetery, graveyard, object or place. The word is derived from the Arabic karamah, which means holy.[^4] Keramats are usually associated with dead persons of royal birth and sacred backgrounds. One of the oldest and most well-known keramat is Keramat Sultan Iskander Shah located at Bukit Larangan, or Forbidden Hill, at Fort Canning. Keramats are often associated with mysticism and venerated as shrines. Keramats in Singapore are mostly related to the Islamic community and popular belief, and are connected to one or more cultural groups. It is a syncretism of animism, Hinduism and Islamic beliefs[^5]
+Keramats are one of the oldest, well-known burials in Singapore. It is usually a holy place that could be an old burial ground, cemetery, graveyard, object or place. The word is derived from the Arabic <i>karamah</i>, which means "holy".[^4] Keramats are usually associated with dead persons of royal birth and sacred backgrounds. One of the oldest and best-known keramat is Keramat Sultan Iskandar Shah located at Bukit Larangan (Forbidden Hill), today's Fort Canning. Keramats are often associated with mysticism and venerated as shrines. Keramats in Singapore are mostly related to the Islamic community and popular belief, and are connected to one or more cultural groups. It is a syncretism of animism, Hinduism and Islamic beliefs[^5]
 
-Some of the other well-known royal keramats are Keramat Bukit Kasita at Kampong Bahru, which was thought to have been in use for the last 400 years;[^6] Makam di Raja at Telok Blangah, which has been in existence for more than 100 years;[^7] the 200-year-old Kampong Glam royal cemetery[^8] and finally, Keramat Radin Mas Ayu at Mount Faber.[^9] Most keramats mentioned here are considered holy because of their association with dead persons of royal birth. Most of these tombstones in the vicinity of the royal keramats hardly have names inscribed on them.
+Some of the other well-known royal keramats are Keramat Bukit Kasita at Kampong Bahru, which was thought to have been in use for the last 400 years;[^6] Makam di Raja at Telok Blangah, which has been in existence for more than 100 years;[^7] the 200-year-old Kampong Gelam royal cemetery;[^8] and Keramat Radin Mas Ayu at Mount Faber.[^9] Most of these keramats are considered holy because of their association with dead persons of royal birth. The majority of the tombstones in the vicinity of the royal keramats hardly have names inscribed on them.
 
 #### **Licensed Burials: Wakaf and State Lands**
 
@@ -51,7 +52,7 @@ Before the opening of state lands for Muslim burials, there was a lack of organi
 #### **Bidadari Estate: Istana of Cecilia Catherina Lange, Wife of Sultan Abu Bakar**
 
 
-Before Bidadari was a cemetery, it was an estate owned by prominent families. Henry Minchin Simons (known as H.M. Simons or popularly nicknamed H.M.S.), co-founder of Paterson Simons & Co and a civil engineer, was the original owner. In the early colonial period, the civil engineer was also the architect. Simons exchanged the Bidadari estate for Tyersall estate with William Napier. It was not known when exactly Simons had the building constructed or when he had the building exchanged for Tyersall. Few archival materials remain to elucidate the relationship of the two previous owners of the Bidadari estate.
+Before Bidadari was a cemetery, it was an estate owned by prominent families. Henry Minchin Simons (known as H.M. Simons or popularly nicknamed H.M.S.), co-founder of Paterson Simons &amp; Co and a civil engineer, was the original owner. In the early colonial period, the civil engineer was also the architect. Simons exchanged the Bidadari estate for Tyersall estate with William Napier. It was not known when exactly Simons had the building constructed or when he had the building exchanged for Tyersall. Few archival materials remain to elucidate the relationship of the two previous owners of the Bidadari estate.
 
 Sultan Abu Bakar of Johor acquired the two estates (Bidadari and Tyersall) from Napier and Simons respectively. Several newspaper reports from this period reveal that the Sultan was a personal friend of both Simons and Napier and hence, purchasing the estates was not out of the question. Tyersall became the palace of Sultana Fatimah and was Sultan Abu Bakar’s official residence in Singapore, when he became Sultan of Johor in 1885.
 
@@ -64,7 +65,7 @@ Bidadari was the home of the Sultan’s second consort Cecilia Catherina Lange (
 Cecilia remained abroad after her father’s death. She returned to Bali in 1859 to visit his grave. She lived with a family friend for a time in India, England, France and then back East. When she returned to Singapore, she attended school in a convent and met Abu Bakar. Upon her conversion to Islam and marriage to Abu Bakar, she was known by the title and Muslim name Enche’ Besar Zubaidah binte Abdullah. She was only 20 years at that time. She bore him two children: a daughter, Mariam, who later became the first wife of the Sultan of Pahang and a son, Ibrahim, who succeeded his father upon his death in 1895 and ruled Johor as Sultan Ibrahim.[^17] It was established that Mariam and Ibrahim were born in the Bidadari estate in 1871 and 1873 respectively.
 
 <img style="width:60%;" src="/images/Vol%208%20issue%204/Bidadari/Sultan%20Abu%20Bakar%20dan%20Enche'%20Besar%20Zubaidah%20(2).jpg">
- <div style="background-color: white;">Sultan Abu Bakar & Che’ Zubaidah Besar with their first-born. <i>Courtesy of Dato’ Rahim Ramli.</i></div>
+ <div style="background-color: white;">Sultan Abu Bakar &amp; Che’ Zubaidah Besar with their first-born. <i>Courtesy of Dato’ Rahim Ramli.</i></div>
 	
 
 When Sultan Abu Bakar’s title changed in 1885 from Maharaja of Johor to Sultan of Johor, Zubaidah left Singapore to stay in Johor and never left. She lived in a palace in Johor until 1930 and hardly appeared in public. Mad Lange’s Danish biographer described her as an “animated little lady, with white hair, blue eyes and aristocratic feature”.[^18] Cecilia was the “bidadari” (from Persian word *widadari* or beautiful nymph) who resided in the estate for a while. The estate was then left vacant for some time. When the Municipal Commission wished to acquire the land for a Christian cemetery in 1902, no one would have imagined that it would also be the first state Muslim cemetery as well as the first multi-religious state cemetery in Singapore.
@@ -168,17 +169,17 @@ Harfield, A.G. (1988). [_Early cemeteries in Singapore_](https://eservice.nlb.go
 
 Kucinta Setia. (2002). [_The Bidadari cemeteries and their surrounding: The first format report on the Bidadari region to the historic sites units of the National Heritage Board for the proposed Bidadari Memorial Garden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11359839). Singapore: \[s.n.\]. (Call no.: RSING q363.75095957 KUC)
 
-Makepeace, W., Brooke, G.E., & Braddell, St. J. (1921). [_One hundred Years of Singapore…_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132). London: J. Murray. (Call no. RCLOS 959.51 MAK-\[RFL\]) 
+Makepeace, W., Brooke, G.E., &amp; Braddell, St. J. (1921). [_One hundred Years of Singapore…_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132). London: J. Murray. (Call no. RCLOS 959.51 MAK-\[RFL\]) 
 
-Savage, V.R., & Yeoh, B.S.A. (2004). [_Toponymics: A study of street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., &amp; Yeoh, B.S.A. (2004). [_Toponymics: A study of street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
 Singapore. Survey Department. (1960). [_Singapore guide and street directory and sectional maps_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197799). (1960). Singapore: Survey Dept. (Call no.: RCLOS 959.57 SIN)
 
 Tan, K.Y.L. (Ed.). (2011). [_Spaces for the dead: A case from the living_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617). Singapore: Ethos Books. (Call no.: RSING 363.75095957 SPA)
 
-Thomson, J.T. (1865). [_Some glimpses in life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx). London: Richardson & Co. Retrieved from BookSG.
+Thomson, J.T. (1865). [_Some glimpses in life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx). London: Richardson &amp; Co. Retrieved from BookSG.
 
-Tsang, S., & Hendricks, E. (2007). _Discover Singapore: The city’s history and culture defined_ (pp. 12–13). Singapore: Marshall Cavendish Editions. (Not available in NLB holdings )
+Tsang, S., &amp; Hendricks, E. (2007). _Discover Singapore: The city’s history and culture defined_ (pp. 12–13). Singapore: Marshall Cavendish Editions. (Not available in NLB holdings )
 
 Vineeta Sinha. (2011). [_Religion-state encounters in Hindu domains_: From the Straits Settlements to Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14203518). Dordrecht \[Netherlands\]; New York: Springer. (Call no.: RSING 322.1095957 SIN)
 
@@ -313,17 +314,17 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^10]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, pp. 212—213.
 
-[^11]: [Ahmad Ibrahim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5539710), 1965, p. 38.  
+[^11]: [Ahmad Ibrahim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5539710), 1965, p. 38. &nbsp;
 
 [^12]: [Lebih 57,000 kubur di Bidadari belum dituntut](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020720-1.2.25.3). (2002, July 20). _Berita Harian_, p. 17. Retrieved from NewspaperSG.
 
-[^13]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Introduction: The death of cemeteries in Singapore, 2011, p. 21; Nadzri Eunos. (2007, October 24). [10,000 kubur lama di Pusara Aman akan dipindah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20071024-1.2.4). _Berita Harian_, p. 1. Retrieved from NewspaperSG.  Numbers given by Tan is 78,800 Muslim burials in Bidadari, whereas a Berita Harian article reports 77,700 exhumed graves in Bidadari that was later to be interred in Pusara Abadi.
+[^13]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Introduction: The death of cemeteries in Singapore, 2011, p. 21; Nadzri Eunos. (2007, October 24). [10,000 kubur lama di Pusara Aman akan dipindah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20071024-1.2.4). _Berita Harian_, p. 1. Retrieved from NewspaperSG.&nbsp; Numbers given by Tan is 78,800 Muslim burials in Bidadari, whereas a Berita Harian article reports 77,700 exhumed graves in Bidadari that was later to be interred in Pusara Abadi.
 
 [^14]: Suhaimi Mohsen. (1996, April 14). [Meninjau persoalan kubur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960414-1.2.14.3)_. Berita Harian_, p. 4; Hasleen Bachik. (1996, April 2). [720 famili daftar tuntut mayat di Bidadari](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960402-1.2.10.13). _Berita Harian_, p. 3. Retrieved from NewspaperSG; [_Berita Harian_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020720-1.2.25.3), 20 Jul 2002, p. 17.
      
 [^16]: Author compiles table of Muslim burial places namely from the following sources: (i) [_Report of the Committee Regarding Burial and Burial Grounds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585434), 1952; (ii) Zakaria Buang. (1982, October 24). [Soal tanah wakaf: MTFA rancang adakan bincangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19821024-1.2.21). _Berita Harian_, p. 2; [Sejumlah 3245.55 h kawasan kuburan akan diambil](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19780408-1.2.14.9). (1978, April 8). _Berital Harian_, p. 2; [URA ambil alih tanah kubur wakaf di River Valley Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830608-1.2.27). (1983, June 8). _Berita Harian_, p. 3; Hasleen Bachik. (1996, March 26). [8,000 kubur di Bidadari terjejas dengan projek LTA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960326-1.2.9.13). _Berita Harian_, p. 3. Retrieved from NewspaperSG. There were notifications that appeared in Berita Harian in the 1980s-2000s from MUIS (Islamic Religious Council of Singapore), MTFA (Muslimin Trust Fund Association), NEA (National Environment Agency) and even private construction/ contractors who bought land and discovered that it contained Muslim burials. These notifications seek descendants to claim the deceased burial lands.
 
-[^17]: Saga of a Danish trader in [_Bali Chronicles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370), 2004, p. 112; [Bloch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232), _Mads Lange: The Bali trader and peacemaker_, 2007, pp. 170—171.  
+[^17]: Saga of a Danish trader in [_Bali Chronicles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370), 2004, p. 112; [Bloch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232), _Mads Lange: The Bali trader and peacemaker_, 2007, pp. 170—171. &nbsp;
 
 [^18]: [Bloch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232), 2007, p. 113.
 
@@ -373,7 +374,7 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^41]: Yeoh (1991, September). The control of “sacred” space: Conflicts over the Chinese burial grounds in colonial Singapore, 1880–1930. _Journal of Southeast Asian Studies, 22_ (2), 282–311.
 
-[^42]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), Heritage places of Singapore, 2009, p. 178.  
+[^42]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), Heritage places of Singapore, 2009, p. 178. &nbsp;
 
 [^43]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 21.
 
