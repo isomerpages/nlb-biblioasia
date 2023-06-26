@@ -9,8 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
-      button: Portugal's Linguistic Legacy in Southeast Asia
+      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/
+      button: "Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the
+        20th Century"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
