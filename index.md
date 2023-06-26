@@ -16,7 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 1/Portuguese/portuguese hero img_v1.jpg
+      background: /images/vol-2-issue-3/hero banner_kaabar.jpg
   - infopic:
       title: A New Podcast on Stories about Singapore's Past
       subtitle: Podcast
