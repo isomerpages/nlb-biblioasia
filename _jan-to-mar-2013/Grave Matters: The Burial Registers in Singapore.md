@@ -3,14 +3,16 @@ title: "Grave Matters: The Burial Registers in Singapore"
 permalink: /vol-8/issue-4/jan-mar-2013/singapore-grave-burial/
 description: ""
 ---
-On 11 January 1924, amidst the pouring rain, grave diggers at Bidadari Christian Cemetery lowered the bodies of Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin into their shared final resting place. As two nuns in their black habits from the Convent of the Holy Infant Jesus (CHIJ) stood silently witnessing the burial of the four infants, the oldest of whom had only been seven months old, the gravediggers started shovelling soil back into grave number 363 of the French Roman Catholic Pauper division. This was their only burial of the day and they were eager to get out of the rain.[^1] After all, infants from the convent orphanage seemed to die like flies. The nuns would come again tomorrow to deliver more baby corpses for burial.
+#### Besides being used to trace genealogy, burial registers are a precious, yet little known, resource that provides a glimpse into the lives and conditions of early Singapore life. 
+
+On 11 January 1924, amidst pouring rain, grave diggers at Bidadari Christian Cemetery lowered the bodies of Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin into their shared final resting place. As two nuns in their black habits from the Convent of the Holy Infant Jesus (CHIJ) stood silently witnessing the burial of the four infants, the oldest of whom had only been seven months old, the gravediggers started shovelling soil back into grave number 363 of the French Roman Catholic Pauper division. This was their only burial of the day and they were eager to get out of the rain.[^1] After all, infants from the convent orphanage seemed to die like flies. The nuns would come again tomorrow to deliver more baby corpses for burial.
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/GraveMatters/bidadari%20cemetary.jpeg">
  <div style="background-color: white;">The Bidadari Christian Cemetery. Burial registers offer a glimpse into the lives and conditions of early Singapore life. <i>Courtesy of National Archives of Singapore.</i></div>
 	
 
-Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin were individuals of no particular significance in Singapore’s history. They were, however, four of the 584 infants buried in Bidadari Christian Cemetery in 1924, a year in which the cemetery recorded a total of 960 internments. Together with death certificates, birth certificates, grave inscriptions and obituaries, the burial registers have commonly been used in tracing genealogy.[^2] However, the use of burial registers in writing social history has to date gone undiscovered. The astonishingly high number of infant deaths and the circumstances under which they died are but one of the fascinating stories that can be derived from the burial registers.
+Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin were individuals of no particular significance in Singapore’s history. They were, however, four of the 584 infants buried in Bidadari Christian Cemetery in 1924, a year in which the cemetery recorded a total of 960 interments. Together with death certificates, birth certificates, grave inscriptions and obituaries, burial registers have commonly been used to trace genealogy.[^2] However, the use of burial registers in writing social history has to date gone undiscovered. The astonishingly high number of infant deaths and the circumstances under which they died are but one of the fascinating stories that can be derived from the burial registers.
 
 
 #### **The Burial Registers in Singapore**
@@ -139,17 +141,17 @@ _The Straits Times_, 1924–1983.
 
 **Books**
 
-Braddell, R. (1934). [_The lights of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129) (pp. 69–90). London: Methuen & Co. (Call no.: RRARRE 959.57 BRA; Microfilm no.: NL25437)
+Braddell, R. (1934). [_The lights of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129) (pp. 69–90). London: Methuen &amp; Co. (Call no.: RRARRE 959.57 BRA; Microfilm no.: NL25437)
 
-Chan., K. B. & Tong, C.K.,  (Eds.), [_Past times: A social history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570). Singapore: Times Edition. (Call no.: RSING 959.57 PAS)
+Chan., K. B. &amp; Tong, C.K.,&nbsp; (Eds.), [_Past times: A social history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570). Singapore: Times Edition. (Call no.: RSING 959.57 PAS)
 
 Cohn, B.S. (1996). [_Colonialism and its form of knowledge: The British in India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. 4.). New Jersey: Princeton University Press. (Call no.: R 954 COH)
 
-Jaschok, M., & Miers, S. (Eds.) (1994). [_Women and Chinese patriarchy: Submission, servitude and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205). Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
+Jaschok, M., &amp; Miers, S. (Eds.) (1994). [_Women and Chinese patriarchy: Submission, servitude and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205). Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
 
-Kong, L., & Yeoh, B.S.A. (2003). [_The politics of landscape in Singapore_: Construction of _nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279). New York: Syracuse University Press. (Call no.: RSING 320.95957 KON)
+Kong, L., &amp; Yeoh, B.S.A. (2003). [_The politics of landscape in Singapore_: Construction of _nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279). New York: Syracuse University Press. (Call no.: RSING 320.95957 KON)
 
-Loh, K.S. & K.K. Liew, K.K. (Eds.), [_The makers & keepers of Singapore history_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770). Singapore: Ethos Books. (Call no.: RSING 959.570072 MAK)
+Loh, K.S. &amp; K.K. Liew, K.K. (Eds.), [_The makers &amp; keepers of Singapore history_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770). Singapore: Ethos Books. (Call no.: RSING 959.570072 MAK)
 
 Manderson, L. (1996). [_Sickness and the State: Health and Illness in colonial Malaya, 1870–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543). New York: Cambridge University Press. (Call no.: RSEA 362.1095951 MAN)
 
@@ -190,9 +192,9 @@ Singh, K. (1990). [_Municipal sanitation in Singapore 1887–194_0](https://eser
 
 [^9]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 4.
 
-[^10]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 27.   
+[^10]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 27.&nbsp;&nbsp;&nbsp;
 
-[^11]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 27.   
+[^11]: [Manderson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543), p. 27.&nbsp;&nbsp;&nbsp;
 
 [^12]: E. Wijeysingha in collaboration with Rev Fr. René Nicolas, _[Going Forth: The Catholic Church in Singapore 1819—2004](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12747544)_ (Singapore: Titular Roman Catholic Archbishop of Singapore, 2006), p. 236.
 
@@ -234,4 +236,4 @@ Singh, K. (1990). [_Municipal sanitation in Singapore 1887–194_0](https://eser
 
 [^31]: “Clinics”, ARSM, 1924.
 
-[^32]: Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Methuen & Co. Ltd, 1934), pp. 69—70.
+[^32]: Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Methuen &amp; Co. Ltd, 1934), pp. 69—70.
