@@ -232,13 +232,7 @@ Abhishek <br>
 Literally bloody, yes. And, a lot of fixing. Basically a lot of shady stuff would happen until he came along. And he sort of, I suppose, by sheer strength of personality, and making every use of whatever constitution powers he had, he cleaned up the system such that... I wouldn't say it's perfect today. Far from it, in fact, but it is way better than it used to be before he came along. So I'm working on his story.
 
 Jimmy <br> 
-And that's due to come out in 2023 or 2024. Everything going, okay?
-
-Abhishek <br>
-It's supposed to come out...
-
-Jimmy <br> 
-Your publisher asked me to ask you this question, Abhishek.
+And that's due to come out in 2023 or 2024. Everything going, okay? Your publisher asked me to ask you this question, Abhishek.
 
 Abhishek <br>
 Well, then I have to give the contractually agreed-upon answer, which is January 2024.
@@ -265,7 +259,7 @@ Jimmy <br>
 Okay. It's an obvious question, but why Nehru?
 
 Abhishek <br>
-I've read a lot of his work. In fact, I've read a lot of his correspondence, and I think he was... The quality of his thoughts was just at such a high level. And it would be fascinating to have a dinner conversation with him. And just quiz him on various things.
+I've read a lot of his work. In fact, I've read a lot of his correspondence, and I think the quality of his thoughts was just at such a high level. And it would be fascinating to have a dinner conversation with him. And just quiz him on various things.
 
 Jimmy <br> 
 What do you think is the most underrated period in history or under-examined period in history?
@@ -340,11 +334,10 @@ Abhishek <br>
 Fascinating.
 
 Jimmy <br> 
-I'd like to think so. Thank you very much for joining me on this show, Abhishek. If you want to know more about tennis in Singapore, you have to read Abhishek's piece on Khoo Hooi Hye and Lim Bong Soo. His piece can be found on the BiblioAsia website, which is BiblioAsia.nlb.gov.sg.
+I'd like to think so. Thank you very much for joining me on this show, Abhishek. If you want to know more about tennis in Singapore, you have to read Abhishek's piece on [Khoo Hooi Hye and Lim Bong Soo](/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/). His piece can be found on the BiblioAsia website, which is BiblioAsia.nlb.gov.sg.
 
 Abhishek <br>
 Thanks, Jimmy. It was lovely to be here.
  
 Jimmy <br> 
-If you've enjoyed this episode, subscribe to the podcast and the BiblioAsia newsletter. Thank you for joining me BiblioAsia+.
-
+If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/616799db4d9b61001398f79b). Thank you for joining me BiblioAsia+.
