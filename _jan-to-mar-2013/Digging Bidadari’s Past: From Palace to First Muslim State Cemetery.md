@@ -158,13 +158,13 @@ Ahmad Ibrahim. (1965). [_The legal status of Muslims in Singapore_](https://eser
 
 Bloch, P. (2007). [_Mads Lange: The Bali trader and peacemaker_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232). \[Batuan, Gianyar, Bali\]: Bali Purniati Center of the Arts. (Call no.: RSEA 959.86022092 BLO)
 
-Hanna, W. A. (2004). [_Bali chronicles: A lively account of the island’s history from early times to the 1970s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370). Singapore: Periplus. (Call no.: RSEA 959.86 HAN)
+Hanna, W.A. (2004). [_Bali chronicles: A lively account of the island’s history from early times to the 1970s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370). Singapore: Periplus. (Call no.: RSEA 959.86 HAN)
 
 Harfield, A.G. (1988). [_Early cemeteries in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5166590). London: British Association for Cemeteries in South Asia. (Call no.: RSING 929.5095957 HAR)
 
-Kucinta Setia. (2002). [_The Bidadari cemeteries and their surrounding: The first format report on the Bidadari region to the historic sites units of the National Heritage Board for the proposed Bidadari Memorial Garden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11359839). Singapore: \[s.n.\]. (Call no.: RSING q363.75095957 KUC)
+Kucinta Setia. (2002). [_The Bidadari cemeteries and their surroundings: The first format report on the Bidadari region to the historic sites units of the National Heritage Board for the proposed Bidadari Memorial Garden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11359839). Singapore: \[s.n.\]. (Call no.: RSING q363.75095957 KUC)
 
-Makepeace, W., Brooke, G.E., &amp; Braddell, St. J. (1921). [_One hundred Years of Singapore…_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132). London: J. Murray. (Call no. RCLOS 959.51 MAK-\[RFL\]) 
+Makepeace, W., Brooke, G.E., &amp; Braddell, St. J. (1921). [_One hundred years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132). London: J. Murray. (Call no. RCLOS 959.51 MAK-\[RFL\]) 
 
 Savage, V.R., &amp; Yeoh, B.S.A. (2004). [_Toponymics: A study of street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
@@ -174,9 +174,9 @@ Tan, K.Y.L. (Ed.). (2011). [_Spaces for the dead: A case from the living_](https
 
 Thomson, J.T. (1865). [_Some glimpses in life in the Far East_](https://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx). London: Richardson &amp; Co. Retrieved from BookSG.
 
-Tsang, S., &amp; Hendricks, E. (2007). _Discover Singapore: The city’s history and culture defined_ (pp. 12–13). Singapore: Marshall Cavendish Editions. (Not available in NLB holdings )
+Tsang, S., &amp; Hendricks, E. (2007). _Discover Singapore: The city’s history and culture defined_ (pp. 12–13). Singapore: Marshall Cavendish Editions. (Not available in NLB holdings)
 
-Vineeta Sinha. (2011). [_Religion-state encounters in Hindu domains_: From the Straits Settlements to Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14203518). Dordrecht \[Netherlands\]; New York: Springer. (Call no.: RSING 322.1095957 SIN)
+Sinha, V. (2011). [_Religion-state encounters in Hindu domains_: From the Straits Settlements to Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14203518). Dordrecht \[Netherlands\]; New York: Springer. (Call no.: RSING 322.1095957 SIN)
 
 Wan, M.H. (2009). [_Heritage places of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN)
 
@@ -192,13 +192,13 @@ Singapore. [_Administration report of the Singapore Municipality for the year 19
 
 ———. (1904). [New cemetery and sale of land at the old cemetery, Bukit Timah Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3406)
 
-———. (1906). [New Cemeteries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3408)
+———. (1906). [New cemeteries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3408)
 
-———. (1925). [XVII Burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3411)
+———. (1925). [XVII burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3411)
 
 Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739). (1960, December 15). Budget heatlh (Vol. 14, cols. 728—729). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
 
-———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035—2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL 1047—1048)
+———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035–2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL 1047—1048)
 
 ———. (1902, October 24). [President Remarks](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (c) New Christian Cemetery (No. 61, col. 1582). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1053—1054)
 
