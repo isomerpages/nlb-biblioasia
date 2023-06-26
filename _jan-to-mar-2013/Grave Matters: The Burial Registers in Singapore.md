@@ -12,44 +12,44 @@ On 11 January 1924, amidst pouring rain, grave diggers at Bidadari Christian Cem
  <div style="background-color: white;">The Bidadari Christian Cemetery. Burial registers offer a glimpse into the lives and conditions of early Singapore life. <i>Courtesy of National Archives of Singapore.</i></div>
 	
 
-Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin were individuals of no particular significance in Singapore’s history. They were, however, four of the 584 infants buried in Bidadari Christian Cemetery in 1924, a year in which the cemetery recorded a total of 960 interments. Together with death certificates, birth certificates, grave inscriptions and obituaries, burial registers have commonly been used to trace genealogy.[^2] However, the use of burial registers in writing social history has to date gone undiscovered. The astonishingly high number of infant deaths and the circumstances under which they died are but one of the fascinating stories that can be derived from the burial registers.
+Cecilia Lee Yew Seah, Jeanne Yon Ah Soo, M. Lee Yon Rie and Jules Hoh Chin were individuals of no particular significance in Singapore’s history. They were, however, four of the 584 infants buried in Bidadari Christian Cemetery in 1924, a year in which the cemetery recorded a total of 960 interments. Together with death certificates, birth certificates, grave inscriptions and obituaries, burial registers are commonly used to trace genealogy.[^2] However, the use of burial registers in writing social history has gone largely undiscovered. The astonishingly high number of infant deaths and the circumstances under which they died are but one of the fascinating stories that can be derived from the burial registers.
 
 
-#### **The Burial Registers in Singapore**
+#### **Burial Registers in Singapore**
 
-Among the sources that can be used in the writings of Singaporean history, the burial registers are unique. Factual by nature, morbid in character, the burial registers present seemingly dry and dusty data sets that have the potential to reveal fascinating patterns about society upon further investigation. Although the burial registers have been useful in tracing genealogical ancestry, they have been vastly overlooked resources in the construction of Singapore’s social history.
+Among the sources that can be used in the writing of Singapore history, burial registers are unique. Factual by nature, morbid in character, burial registers present seemingly dry and dusty data sets that have the potential to reveal fascinating patterns about society upon further investigation. Although burial registers are useful in tracing genealogical ancestry, they are vastly overlooked resources in the construction of Singapore’s social history.
 
 The burial register, alternatively called a burial or cemetery record, comprises a list of people buried in a particular cemetery, where certain information is recorded according to state-dictated categories. These categories include the following:
 
-• Division of cemetery that the deceased is interred 
+• division of the cemetery where the deceased is interred 
 
-• Grave Number 
+• grave number 
 
-• Religion 
+• religion 
 
-• Nationality 
+• nationality 
 
-• Rank or Profession
+• rank or profession
 
-• Married or Single 
+• married or single 
 
-• Date of Death 
+• date of death 
 
-• Date of Internment 
+• date of interment 
 
-• Name of Deceased 
+• name of deceased 
 
-• Sex 
+• sex 
 
-• Age 
+• age 
 
-• Place of Residence 
+• place of residence 
 
-• Cause of Death
+• cause of death
 
 Used in tandem with other “traditional” resources such as state records and newspapers, such records of deceased individuals that collectively formed society has the ability to “resurrect Singapore life as lived” while opening new areas of research.[^3]
 
-In the past, as in the present, the state kept the burial registers for administrative purposes to account for every burial that took place. The British government initiated this system of record-keeping with the establishment of one of the first few public cemeteries in Singapore, the Bukit Timah Road Old Christian Cemetery in 1865. Such records were part of the mechanics of colonialism, which saw the gradual extension of the British government into documentation procedures such as taking census reports, standardising languages and keeping administrative records. The right to govern was determined by the knowledge that society could be understood and represented as “a series of facts” that classified the local population.[^4] Over time, the colonial government compiled and reproduced huge bodies of information that legitimised their right to rule and became the definitive body of knowledge upon which policies were based.
+In the past, as in the present, the state kept the burial registers for administrative purposes to account for every burial that took place. The British government initiated this system of record-keeping with the establishment of one of the first few public cemeteries in Singapore, the Bukit Timah Road Old Christian Cemetery in 1865. Such records were part of the mechanics of colonialism, which saw the gradual extension of the British government into documentation procedures such as census taking, standardising languages and keeping administrative records. The right to govern was determined by the knowledge that society could be understood and represented as “a series of facts” that classified the local population.[^4] Over time, the colonial government compiled and reproduced huge bodies of information that legitimised their right to rule and became the definitive body of knowledge upon which policies were based.
 
 The legacy of colonialism has made historical inquiries into the lives of the early forefathers of Singapore much easier. The National Archives of Singapore (NAS) maintains burial records (see Table 1) of all public and state-governed cemeteries, the earliest from the Bukit Timah Road Old Christian Cemetery. After its closure in 1907, other municipal cemeteries such as Bukit Brown Chinese Cemetery and the Christian, Muslim and Hindu sections of Bidadari Cemetery were established. These records end in the 1970s, when all burial grounds in and around the city area were closed to conserve “scarce and valuable” land given “the needs and pace of national development”.[^5] An alternative was offered in the state-owned cemetery at Choa Chu Kang, which was erected in 1944 and came to include Hindu, Chinese, Buddhist, Christian, and Muslim cemeteries by the 1970s. This is the sole surviving public cemetery in Singapore and is still in use today. Its records stop in 1978, given the “25-year international archival benchmark” blocking access to unclassified public archives within that timeframe.[^6]
 
