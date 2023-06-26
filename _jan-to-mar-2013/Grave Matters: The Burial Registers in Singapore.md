@@ -169,7 +169,7 @@ Middleton, W.R.C. (1911, July). The working of births and deaths registration or
 
 **Dissertations**
 
-Singh, K. (1990). [_Municipal sanitation in Singapore 1887–194_0](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172093) (p. 39). Singapore: NUS, Department of History. (Call no.: RCLOS 363.72095957 KUL)
+Singh, K. (1990). [_Municipal sanitation in Singapore 1887–1940_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172093) (p. 39). Singapore: NUS, Department of History. (Call no.: RCLOS 363.72095957 KUL)
 
 
 #### **NOTES**
@@ -180,11 +180,11 @@ Singh, K. (1990). [_Municipal sanitation in Singapore 1887–194_0](https://eser
 
 [^3]: James Francis Warren, _[Rickshaw Coolie: A People’s History of Singapore 1880–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063)_ (Singapore: Singapore University Press, 2003), p. 8.
 
-[^4]: Bernard S. Cohn, _[Colonialism and its Forms of Knowledge: The British in India](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745)_ (New Jersey: Princeton University Press, 1996), p. 4.
+[^4]: Bernard S. Cohn, _[Colonialism and Its Forms of Knowledge: The British in India](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745)_ (New Jersey: Princeton University Press, 1996), p. 4.
 
-[^5]: Parliamentary Debates, 7 Apr 1978, quoted in Lily Kong and Brenda S. A. Yeoh, _[The Politics of Landscape in Singapore: Constructions of “Nation”](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279)_ (New York: Syracuse University Press, 2003), p. 57.
+[^5]: Parliamentary Debates, 7 April 1978, quoted in Lily Kong and Brenda S.A. Yeoh, _[The Politics of Landscape in Singapore: Constructions of “Nation”](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279)_ (New York: Syracuse University Press, 2003), p. 57.
 
-[^6]: Huang Jianli, “Walls, Gates and Locks: Reflections on Sources for Research on Student Political Activism”, in Loh Kah Seng and Liew Kai Khiun, eds. _[The Makers and Keepers of Singapore History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770)_ (Singapore: Ethos Books: Singapore Heritage Society, 2010), p. 34.
+[^6]: Huang Jianli, “Walls, Gates and Locks: Reflections on Sources for Research on Student Political Activism”, in Loh Kah Seng and Liew Kai Khiun, eds. _[The Makers and Keepers of Singapore History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13674770)_ (Singapore: Ethos Books; Singapore Heritage Society, 2010), p. 34.
 
 [^7]: [Warren](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827063), Rickshaw Coolie, p. 259.
 
