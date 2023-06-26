@@ -8,7 +8,7 @@ image: /images/Vol 3 Issue 4/PhotgraphyHistory/photography1.jpg
 ####  Traces Singapore’s photographic history and highlights three specific titles relating to early Singapore’s photographic past.
 
 <img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/pictorialhistory.jpg" style="width:80%;">
- <div style="background-color: white;"> <i>Singapore: A Pictorial History, 1819-2000 </i>. A visual spread of Singapore history, compiled by Gretchen Liu. Among the numerous photographs contained in this volume are Jules Itier’s daguerreotypes, including the earliest known surviving photograph on Singapore (p. 10) and John Thomson’s “Coconut Plantation in Singapore” (p. 37)</div>
+ <div style="background-color: white;"> <i>Singapore: A Pictorial History, 1819–2000 </i>. A visual spread of Singapore history, compiled by Gretchen Liu. Among the numerous photographs contained in this volume are Jules Itier’s daguerreotypes, including the earliest known surviving photograph on Singapore (p. 10) and John Thomson’s “Coconut Plantation in Singapore” (p. 37).</div>
 
 Before embarking on a journey through time into the world of photography in mid-19th century Singapore, the birth of modern photography deserves a brief mention. Photography as it is understood and practised today – made possible by the scientific discovery of methods to permanently fixate images directly formed by light onto either metal or paper – did not come into being until the 19th century. Many writers conventionally hail Frenchman Louis-Jacques-Mande Daguerre (1787–1851) and William Fox Talbot (1800–1877) in Britain as the founding fathers of modern photography. Daguerre and Talbot were the first to announce their findings publicly in 1839, though they were certainly not alone in the quest to permanently capture fleeting images.[^1] Daguerre, after years of experimentation (much of it in collaboration with fellow contemporary Joseph-Nicephore Niepce, 1765–1833), had taken his first successful photograph in 1837, which he proudly named after himself – the Daguerreotype, though it would be another two years before his invention was publicly announced. William Talbot’s photographic process became known as the Calotype or Talbotype. His photographic technique, which became involved in the making of multiple positive prints from paper negatives, is significant because it paved the way for the development of modernday photography.[^2]
 
@@ -17,7 +17,7 @@ It is not known for sure when photography first arrived in Singapore. The earlie
 This photographic history of colonial Singapore begins with Gaston Dutronquoy, a native of Jersey,[^4] who arrived in Singapore in March 1839.[^5] Starting off as a portrait painter and miniaturist (his advertisement, dated 27 March 1839, first appeared in the weekly *Singapore Free Press and Mercantile Advertiser* on 11 April[^6]), he is more popularly known as the proprietor of the London Hotel, which first opened at High Street in May 1839.[^7] It was in the London Hotel that Dutronquoy commenced his photographic business, first advertising himself as a daguerreotypist in the *Singapore Free Press* on 4 December 1843.
 
 <img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/4%20dec%201843.jpg" style="width:80%;">
- <div style="background-color: white;">Gaston Dutronquoy’s advertisement publicising his newlyestablished photographic studio, 1843. It appeared in the <i>Singapore Free Press and Mercantile Advertiser</i></div>
+ <div style="background-color: white;">Gaston Dutronquoy’s advertisement publicising his newlyestablished photographic studio, 1843. It appeared in the <i>Singapore Free Press and Mercantile Advertiser.</i></div>
 
 Dutronquoy’s assurance to potential customers that “a sitting can have their likenesses taken” in just two minutes was probably not exaggerated as by 1840, technical improvements made to the daguerreotype process had reduced exposure times from ten minutes to just one minute.[^8] Nevertheless, his advertisement is a little misleading, because it does not sufficiently inform patrons about the entire posing process, which certainly took longer than two minutes. A detailed description of a Daguerrian photoshoot provided by art historian Dr Naomi Rosenblum, based on an 1843 image entitled “Jabez Hogg making a portrait in Richard Beard’s studio”, gives readers an idea of what a Dutronquoy’s typical sitting in Dutronquoy’s studio might have been like:
 
@@ -27,10 +27,8 @@ Some individuals who had their pictures taken at Dutronquoy’s daguerreotype st
 
 <i> In your zeal not to blur the image, did you keep every finger in its place with such energy that your hands became clenched as for fight or despair, and in your resolution to keep your face still, did you feel every muscle becoming every moment more rigid; the brows contracted into a Tartarean frown, and the eyes fixed in it, in madness, or in death? </i>[^10]
 
-![](/images/Vol%203%20Issue%204/PhotgraphyHistory/january%201849.jpg)
-
 <img src="/images/Vol%203%20Issue%204/PhotgraphyHistory/january%201849.jpg" style="width:50%;">
- <div style="background-color: white;">Gaston Dutronquoy’s advertisement, <i>The Straits Times</i>, from 25 October 1848 to January 1849</div>
+ <div style="background-color: white;">Gaston Dutronquoy’s advertisement, <i>The Straits Times</i>, from 25 October 1848 to January 1849.</div>
 
 Photography in 19th century Singapore was also done outdoors, though it is not known whether Dutronquoy provided such a service for customers wishing to have their pictures taken outside the studio. The Hikayat Abdullah, the autobiography of early 19th century Malay writer Abdullah Abdul Kadir (better known as Munshi Abdullah), gives a vivid eyewitness account of a daguerreotype being made by an unidentified American doctor on Bonham’s Hill (what is today Fort Canning Hill) in around 1841:
 
