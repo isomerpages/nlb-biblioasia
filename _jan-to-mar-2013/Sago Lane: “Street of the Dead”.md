@@ -16,11 +16,11 @@ description: Among the older generation of Singaporeans who have lived, grown up
 
 In the modern hospices of today, qualified healthcare professionals, together with a pool of volunteers, provide palliative care and succour to the terminally ill to ease their suffering as they make the most of their last days on earth. These hospices also offer programmes that cater to the medical, psychological, social and even spiritual needs of their patients and bereaved family members.
 
-In stark contrast, the death houses or “Sick Receiving Houses” on Sago Lane were the abodes of last resort for the terminally ill, aged and infirm early immigrants to spend their final days in solitude, misery and, for some, in excruciating pain. “Death Houses did not assume the responsibility for the well-being of a person. They merely functioned as bed spaces for people to die”.[^1]
+In stark contrast, the death houses or “Sick Receiving Houses” on Sago Lane were the abodes of last resort for the terminally ill, aged and infirm early immigrants to spend their final days in solitude, misery and, for some, in excruciating pain. “Death Houses did not assume the responsibility for the well-being of a person. They merely functioned as bed spaces for people to die.”[^1]
 
 #### **Origins of Sago Lane**
 
-Sago Lane has several colloquial variations in its name: it was known as *ho ba ni au koi* (Hokkien for “the street behind Ho Man Nin”). “Ho Man Nin was the chop of a well-known Chinese singing hall in Sago Street”.[^2] In Cantonese, Sago Lane was also known as Sei Yan Kai (street of the dead), referring to the death houses that were once located along this street,[^3] and as “Mun Chai Kai, \[named\] after undertaker Kwok Mun, who opened the first death house” in that street.[^4]
+Sago Lane has several colloquial variations in its name: it was known as *ho ba ni au koi* (Hokkien for “the street behind Ho Man Nin”). Ho Man Nin was the name of a well-known Chinese singing hall on Sago Street.[^2] In Cantonese, Sago Lane was also known as Sei Yan Kai (Street of the Dead), referring to the death houses that were once located along this street,[^3] and as Mun Chai Kai, named after an undertaker, Kwok Mun, who established the first death house there.[^4]
 
 In the mid-19th century, sago was a major export of Singapore. Raw sago that was imported from Sumatra and Borneo were processed in sago factories here and then exported to Europe and India. In 1849, there were 17 (15 Chinese and two European) sago factories in operation in Singapore,[^5] increasing to 30 in total by 1850. Many of these factories were located at Sago Street and Sago Lane.[^6] When jinrickshas were introduced to Singapore in 1880, a jinricksha station was set up in Sago Lane.[^7]
 
