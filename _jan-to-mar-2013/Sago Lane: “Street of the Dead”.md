@@ -125,15 +125,15 @@ The priest would convey a simple message through the incantations, asking the sp
 
 Family members would observe the ceremony and carry out various funeral rituals as directed by the priest, such as walking around the coffin in circles to seek protection for the dead in hell and burn joss paper as offerings to the dead. Wealthier families also gave burnt offerings in the form of paper mansions, servants, television sets, and cars as a show of filial piety, as they believed that these riches would follow the dead to hell and make life in the underworld more comfortable.[^44]
 
-As there were several death houses along Sago Lane during the 1930s, this ceremony was a commonplace sight at night and a draw for “overseas visitors with a morbid interest in the dead and dying”.[^45]
+As there were several death houses along Sago Lane during the 1930s, this ceremony was a common sight at night and a draw for “overseas visitors with a morbid interest in the dead and dying”.[^45]
 
-Even during the daytime, Sago Lane would be abuzz with activity and visitors would be greeted with:
+Even during the daytime, Sago Lane would be abuzz with activity, and visitors would be greeted with:
 
-the flags of the communal laundry, the thunder of drums and cymbals, the bray of a trumpet, the screech of a clarinet, the strong odour of incense, scurrying rats and mice, and a dark and gloomy atmosphere.[^46]
+<center>the flags of the communal laundry, the thunder of drums and cymbals, the bray of a trumpet, the screech of a clarinet, the strong odour of incense, scurrying rats and mice, and a dark and gloomy atmosphere.[^46]</center>
 
 #### **Auxiliary Shops**
 
-Complementing these death houses, neighbouring shops at Sago Lane, Temple Street, Pagoda Street and Trengganu Street sold funerary goods such as coffins, joss paper, joss sticks, candles, and sou yi (lifelong clothing) for the bereaved family members to wear during the obligatory three-year mourning period. These clothes were soaked in a large earthenware jar in order to dye them black.[^47] Other businesses provided the professional services of a funeral trope, “embalming services, sold flower wreaths, prepared the wake, and made paper effigies of houses, cars, wheelchairs, and even Malayan Airways planes”.[^48] Late night food stalls at Sago Lane and at the intersection of Banda Street and Carpenter Street catered to the supper needs of family members and wake attendants who were supposed to keep watch over the corpse throughout the night. Several shophouses along Sago Lane also operated as brothels and restaurants.[^49]
+Complementing these death houses, neighbouring shops on Sago Lane, Temple Street, Pagoda Street and Trengganu Street sold funerary goods such as coffins, joss paper, joss sticks, candles and <i>sou yi</i> (lifelong clothing) for the bereaved family members to wear during the obligatory three-year mourning period. These clothes were soaked in a large earthenware jar to dye them black.[^47] Other businesses provided professional services of a funeral troupe, “embalming services, sold flower wreaths, prepared the wake, and made paper effigies of houses, cars, wheelchairs, and even Malayan Airways planes”.[^48] Late night food stalls at Sago Lane and at the intersection of Banda Street and Carpenter Street catered to the supper needs of family members and wake attendants who were supposed to keep watch over the corpse throughout the night. Several shophouses along Sago Lane also operated as brothels and restaurants.[^49]
 
 
 The synergistic co-location of funeral establishments, allied trades and death houses created a specialised hub within Chinatown where funeral activities were conveniently and expediently arranged.
