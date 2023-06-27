@@ -64,15 +64,15 @@ The ground floor also accommodated the critically ill and poverty-stricken resid
 
 In an oral history interview from the National Archives, Dr Lo Hong Ling, who was a medical doctor practising at Smith Street during the 1960s, described many instances of how people who were on their death beds would start to see and hear strange things when they closed their eyes at night, such as the clanking of chains and the sensation of being dragged away by people wearing the faces of bulls and cows.[^19]
 
-At Kwok Mun, one of the oldest licensed death house establishments, wooden bunks arranged dormitory style were provided for the residents with separate male and female wards located on the upper floors. “Kwok Mun occupied two shophouses standing sideby-side at Sago Lane. The ground floor of one shophouse serve\[d\] as the admission room. The other was the mortuary”.[^20]
+At Kwok Mun, one of the oldest licensed death house establishments, wooden bunks arranged dormitory-style were provided for the residents with separate male and female wards on the upper floors. “Kwok Mun occupied two shophouses standing side by side at Sago Lane. The ground floor of one shophouse serve\[d\] as the admission room. The other was the mortuary.”[^20]
 
-In other smaller and less well-furnished unlicensed death houses, there was no segregation of the sexes; men and women alike slept on thin straw mats, old blankets donated by well wishers or thin mattresses provided by their relatives. These would be discarded upon the deaths of their users. Residents who could afford to pay more were given better quarters, such as a corner for more privacy.[^21]
+In other smaller and less well-furnished unlicensed death houses, there was no segregation of the sexes; men and women alike slept on thin straw mats, old blankets donated by well-wishers or thin mattresses provided by their relatives. These would be discarded upon the deaths of their users. Residents who could afford to pay more were given better quarters, such as a corner for more privacy.[^21]
 
 The caretaker of the death house provided minimal care for the residents. Meals were provided for the residents by their own relatives, who delivered them in tiffin carriers. Poorer residents had their meals served on banana or yam leaves or even wrapped in newspaper.[^22]
 
 Most residents would live for only a few days or up to a week after moving into the death house, although a few lingered on for one to two months before succumbing to their illnesses. A miraculous few even survived, recovered and eventually returned home.[^23]
 
-Relatives and friends would wait in the death house and gather near the dying person, leaving for home only on short breaks for a bath and change of clothes. They would also “entertain their friends and relatives with beer, brandy, mineral water and Chinese tit-bits”.[^24] Mahjong and card games would also be played by friends and relatives keeping vigil into the night.[^25]
+Relatives and friends would wait in the death house and gather near the dying person, leaving for home only on short breaks for a bath and change of clothes. They would also “entertain their friends and relatives with beer, brandy, mineral water and Chinese tit-bits”.[^24] Friends and relatives keeping vigil into the night would also play mahjong and card games.[^25]
 
 Wealthier families held dinner feasts outside the death house as a pre-departure memorial for the dying relative. Families would borrow money at up to 20 percent interest rates, incurring debts to fund such death watches.[^26]
 
