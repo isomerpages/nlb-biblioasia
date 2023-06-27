@@ -1,22 +1,22 @@
 ---
 title: "Sago Lane: “Street of the Dead”"
 permalink: /vol-8/issue-4/jan-mar-2013/sago-street-dead/
-description: "Among the older generation of Singaporeans who have lived, grown
-  up in or worked in Chinatown during the 1930s to 1960s, death houses bestir
-  grim and depressing memories of the old two- to three- storey red-tiled roof
-  houses that used to line Sago Lane, scattered intermittently among residential
-  dwellings. "
+description: Among the older generation of Singaporeans who have lived, grown up
+  in or worked in Chinatown during the 1930s to 1960s, death houses bestir grim
+  and depressing memories of the old two- to three- storey red-tiled roof houses
+  that used to line Sago Lane, scattered intermittently among residential
+  dwellings.
 ---
-#### Among the older generation of Singaporeans who have lived, grown up in or worked in Chinatown during the 1930s to 1960s, death houses bestir grim and depressing memories of the old two- to three- storey red-tiled roof houses that used to line Sago Lane, scattered intermittently among residential dwellings.
+#### The older generation of Singaporeans who lived, grew up or worked in Chinatown during the 1930s to 1960s would remember the “death houses” of Sago Lane, scattered intermittently among residential dwellings.
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/death%20house%20.jpeg">
- <div style="background-color: white;">A wake being held outside one of the death houses on Sago Lane. <i>KF Wong Collection, courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;">A wake held outside one of the death houses on Sago Lane. <i>KF Wong Collection, courtesy of National Archives of Singapore.</i></div>
 	
 
-In modern hospices of today, qualified health care professionals, together with a pool of volunteers, provide palliative care and succour to the terminally ill to ease their suffering as they make the most of their last days on earth. These hospices also offer programmes that cater to the medical, psychological, social and even spiritual needs of their patients and the bereaved family members.
+In the modern hospices of today, qualified healthcare professionals, together with a pool of volunteers, provide palliative care and succour to the terminally ill to ease their suffering as they make the most of their last days on earth. These hospices also offer programmes that cater to the medical, psychological, social and even spiritual needs of their patients and bereaved family members.
 
-In stark contrast, the death houses or “Sick Receiving Houses” at Sago Lane were the abodes of last resort for the terminally ill, aged and infirm early immigrants to spend their final days in solitude, misery and for some, in excruciating pain. “Death Houses did not assume the responsibility for the well-being of a person. They merely functioned as bed spaces for people to die”.[^1]
+In stark contrast, the death houses or “Sick Receiving Houses” on Sago Lane were the abodes of last resort for the terminally ill, aged and infirm early immigrants to spend their final days in solitude, misery and, for some, in excruciating pain. “Death Houses did not assume the responsibility for the well-being of a person. They merely functioned as bed spaces for people to die”.[^1]
 
 #### **Origins of Sago Lane**
 
@@ -196,7 +196,7 @@ Lee, P. (Interviewer). (2003, August 5). [_Oral history interview with Lo Hong L
 
 Lowe-Ismail, G. (1998). [_Chinatown memories_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9287804). Singapore: Talisman Publishing Pte Ltd. (Call no.: RSING 959.57 LOW)
 
-Savage, V.R., & Yeoh, B.S.A. (2003). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., &amp; Yeoh, B.S.A. (2003). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
 Singapore City Council. (1958). _Minutes of the Proceedings of the City Council of Singapore, September 17_. (pp. 4–5). \[Microfilm: R0031457\]. Singapore: The Council. (Not available in NLB holdings)
 
@@ -204,7 +204,7 @@ Sit, Y.F. (1983). [_Tales of Chinatown_](https://eservice.nlb.gov.sg/item_holdin
 
 Suan, K.L. (1971, June 6). [Only thing down is cost of dying…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710606-1.2.62). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
-Tan, A., & Quek, E. (2007, May 31). [Colourful start to Vesak Day festivities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070531-2.2.58.27.1). _The Straits Times_, p. 67. Retrieved from NewspaperSG.
+Tan, A., &amp; Quek, E. (2007, May 31). [Colourful start to Vesak Day festivities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070531-2.2.58.27.1). _The Straits Times_, p. 67. Retrieved from NewspaperSG.
 
 Thulaja, Naidu Ratnala. (2016). [_Sago Lane_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html). Retrieved from Singapore Infopedia website.
 
@@ -217,7 +217,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 #### **NOTES**
 
 
-[^1]: Chan, 1999, p. 61.  
+[^1]: Chan, 1999, p. 61. &nbsp;
 
 [^2]: [Savage and Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758), 2003, p. 337.
 
@@ -239,7 +239,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^11]: Chan, 1999, p. 3.
 
-[^12]: Chan, 1999, p. 3.  
+[^12]: Chan, 1999, p. 3. &nbsp;
 
 [^13]: [The Street of the Houses of the Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44). (1948, September 25). _The Singapore Free Press_, p. 4. Retrieved from NewspaperSG.
 
@@ -261,11 +261,11 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^22]: Chua, [_Oral history interview with Chua Chye Chua_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7ce38c96-1160-11e3-83d5-0050568939ad), 21 May 1999.
 
-[^23]: Chua, [_Oral history interview with Chua Chye Chua_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7ce38c96-1160-11e3-83d5-0050568939ad), 21 May 1999.  
+[^23]: Chua, [_Oral history interview with Chua Chye Chua_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7ce38c96-1160-11e3-83d5-0050568939ad), 21 May 1999. &nbsp;
 
 [^24]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44), 25 Sep 1948, p. 4.
 
-[^25]: [Haifeez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1439661), 1978, p. 47.  
+[^25]: [Haifeez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1439661), 1978, p. 47. &nbsp;
 
 [^26]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44), 25 Sep 1948, p. 4.
 
@@ -291,7 +291,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^37]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44), 25 Sep 1948, p. 4.
 
-[^38]: Chan, 1999, pp. 52—53.  
+[^38]: Chan, 1999, pp. 52—53. &nbsp;
 
 [^39]: Yeo, [_Oral history interview with Sew Teng Kwok_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e97b245-1160-11e3-83d5-0050568939ad), 18 Oct 1999.
 
@@ -307,7 +307,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^45]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990313-1.2.103.4.7), 13 Mar 1999, p. 7.
 
-[^46]: [Haifeez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1439661), 1978, p. 47.    
+[^46]: [Haifeez](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1439661), 1978, p. 47. &nbsp;&nbsp;&nbsp;
 
 [^47]: [Lowe-Ismail](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9287804), 1998, p. 20.
 
@@ -331,21 +331,8 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^57]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p.192.
 
-[^58]: [Thulaja](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html), 2005.  
+[^58]: [Thulaja](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html), 2005. &nbsp;
 
-[^59]: Buddha Tooth Relic Temple and Museum, 2012.  
+[^59]: Buddha Tooth Relic Temple and Museum, 2012. &nbsp;
 
 [^60]: Buddha Tooth Relic Temple and Museum, 2012.
-
-
-
-
-
-
-
-
-
-
-
-
-
