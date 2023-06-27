@@ -47,11 +47,45 @@ Teori *New Historisisme* (Mana Sikana, 2005), merenung sastera sebagai teori pen
 
 *(MMK, ms 34–35)*
 
+Menurut DeLyser (2004), ingatan sosial adalah satu proses yang berterusan dan aktif. Setiap pengalaman dan peristiwa memainkan peranan dalam membina ingatan sosial. Sering kali, melalui proses mengingati yang lalu, ia dapat membantu memahami masa kini. Umpamanya peristiwa menarik bagi memerikan ingatan sosial kita ialah tentang peristiwa Singapura berpisah dengan Malaysia seperti yang terdapat di dalam novel BL ini.
 
-																					
-																					
-																					
-																					
+<i>“Adi terperanjat. Dia mendengar warta berita di radio. Adi rasa macam guruh menghentam telinganya. Adi rasa macam ada gunung berat menimpa dadanya.</i>
+
+<i>“Singapura berpisah dengan Malaysia!” demikian suara juruhebah membawa warta berita. Adi panik. Ada takungan air mata di kelopak mata Adi.</i>
+
+<i>Apabila dia membisikkan berita sedih itu pada Abang Dolah, mata Abang Dolah juga berkaca-kaca. Perlahan Abang Dolah membisikkan ke telinga Adi. Suaranya satusatu.</i>
+
+<i>“Gelap...lah...masa...depankau...kau...tidak...ada...masa... depan...lagi!”</i>
+
+*(BL, ms 188)*
+
+Peristiwa perpisahan di antara Singapura dan Malaysia ini telah “dihidupkan” lagi baru-baru ini apabila Encik Lee Kuan Yew, Menteri Pembimbing Singapura mencetuskan tentang kemungkinan Singapura bergabung dengan Malaysia kembali seperti yang telah disiarkan oleh akhbar-akhbar utama seperti The Straits Times terbitan Singapura dan New Straits Times terbitan Malaysia. Sebagai satu proses yang aktif, ia membangkitkan kembali peristiwa yang telah berlaku 42 tahun yang lampau. Tetapi kini sudah tentu kita boleh merenung kembali peristiwa perpisahan itu dengan pandangan dan harapan yang berbeza.
+
+Tambahan pula, ingatan sosial boleh melakukan penggembaraan di antara masa lalu dan masa kini kerana ia mengisi dan menunjangi pengalaman pembacaan sesebuah novel. Ia dapat dilakukan kerana penulisan novel dapat berulang-alik antara masa lalu dan masa kini (O’ Connell, 2001)
+
+#### **Ingatan Sosial – Watak Nadra/ Maria**
+
+Watak juga memainkan peranan dan menjadi lambang kepada sesuatu peristiwa atau kejadian yang telah berlaku. Nadra atau Maria Hertogh adalah watak utama dalam novel ANC, yang mengisahkan tentang seorang gadis Belanda yang telah diserahkan oleh ibunya untuk dipelihara oleh seorang wanita Melayu. Selepas perang dan pendudukan Jepun, ibu bapanya telah menuntutnya kembali, walaupun dia telah hidup sebagai seorang Muslim dan bernikah. Kisah Nadra telah menimbulkan ketegangan kaum kerana keputusan dan perintah mahkamah yang berpihak kepada ibu bapa kandungnya yang beragama Kristian.
+
+<i>“Mahkamah memutuskan untuk menolak rayuan Mansoor dan Aminah agar arahan mengembalikan Maria kepada Adelaine dibatalkan. Keputusan mahkamah itu menambahkan kemarahan kebanyakan penduduk Islam di Koloni Singapura. Berita mengenai perarakan besarbesaran ke biara The Good Shepherd menimbulkan rasa cemas kepada semua orang terutama pihak polis.”</i>
+
+*(ANC, ms 255)*
+
+Bila disebut kisah Nadra, ingatan sosial kita kembali kepada rusuhan yang telah berlaku akibat perebutan kasih watak ini. Ia juga menyeret kepada isu sensitif seperti agama. Ramai yang telah menjadi korban di dalam kejadian ini.
+
+<i>“Sepanjang rusuhan selama tiga hari di Koloni Singapura itu, 18 orang telah terbunuh. Kebanyakannya orang kulit putih, termasuk serani. 9 daripada mangsa tersebut pula ialah pegawai polis. 173 orang tercedera. 119 kenderaan musnah. 72 kes pembakaran berleluasa telah berlaku. Bangunan Cold Storage dan Singapore Traction Company, hangus dijilat api. Darurat dikuatkuasakan sepanjang rusuhan dan keadaan kembali reda pada 14 Disember 1950.”</i>
+
+*(ANC, ms 272)*
+
+#### **Ingatan – Peringatan**
+
+Ingatan sosial menpunyai peranan di dalam kehidupan kita pada masa kini. Ingatan yang kita kongsi bersama dapat membantu membina jati diri kita sebagai sebuah masyarakat. Ia menjadi tapak perkongsian sosial atau perkongsian pengalaman tentang tempat yang pernah kita kunjungi, peristiwa yang pernah berlaku dan watak yang pernah kita kenali, walaupun sekadar melalui penceritaan seperti yang digambarkan melalui contoh-contoh yang diberikan. Namun yang paling penting dalam pencetusan ingatan sosial ini ialah ia harus menjadi satu peringatan kepada sesebuah masyarakat bagi melalui dan menghadapi masa-masa mendatang seperti kata pepatah, yang baik dijadikan teladan, yang buruk dijadikan sempadan.
+
+#### **Penutup**
+
+Ingatan-ingatan sosial yang terdapat dalam ketiga-tiga novel itu mencetuskan pelbagai perasaan terhadap pembaca. Ia bukan rujukan sejarah tetapi tetap merujuk kepada sejarah dan pengabungan sejarah dan sastera. Penceritaan begini dapat menjadi sumber yang dasar untuk kita memahami bagaimana sesuatu peristiwa yang lalu itu dibentuk dan prosesnya membantu dalam pencarian jati diri (O’Connell, 1998).
+
+
 
 
 
