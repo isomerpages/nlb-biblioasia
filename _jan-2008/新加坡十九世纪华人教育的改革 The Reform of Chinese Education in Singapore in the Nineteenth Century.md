@@ -34,9 +34,15 @@ image: /images/Vol 3 Issue 4/EducationReforms/classroom scene.jpg
 
 Education reforms and the modernisation of education in Singapore and Malaya have always been identified as influenced by the political changes in China during the early 20th century. Few remember the contributions of the local intellectuals in as far as leading educational reforms before the 1900s is concerned. These reformers were multicultural both in their background and outlook, and were perhaps pioneers in setting the foundation for modernising and indigenising the old curricula before the winds of change in the 20th century brought about revolutionary transformations.
 
-Two notable pioneers in this field are Chan Kim Boon (1851–1920) and Khoo Seok Wan (1874–1941). Chan Kim Boon had a command of English, Chinese and the Malay language. In his spare time, he translated 18 Chinese vernacular novels into Bahasa Melayu-Tionghoa, a Chinesestyle Malay language used by the Straits-born Chinese. Khoo Seok Wan was a scholar trained in the Chinese classics and who had sat for the Imperial Civil Service Examination in China. He wrote and revised two Chinese classics so that students at the primary schools here in Singapore could have some texts that they could really learn from instead of the difficult to understand classics in their original forms.
+Two notable pioneers in this field are Chan Kim Boon (1851–1920) and Khoo Seok Wan (1874–1941). Chan Kim Boon had a command of English, Chinese and the Malay language. In his spare time, he translated 18 Chinese vernacular novels into Bahasa Melayu-Tionghoa, a Chinese style Malay language used by the Straits-born Chinese. Khoo Seok Wan was a scholar trained in the Chinese classics and who had sat for the Imperial Civil Service Examination in China. He wrote and revised two Chinese classics so that students at the primary schools here in Singapore could have some texts that they could really learn from instead of the difficult to understand classics in their original forms.
 
 These pioneers were way ahead of their time in the creation of practical materials for education for local use. However, more pertinently, we can see that the path towards modernity, localisation and pragmatism with regards to Chinese educational matters was not entirely externally motivated. We had our pioneers.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Tong%20Bao%20.jpg">
+<center><b>Wee Tong Bao</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
 
 
 
