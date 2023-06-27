@@ -8,6 +8,9 @@ description: "Memory plays an important role in our life. It forms a bridge
 ---
 #### Memory plays an important role in our life. It forms a bridge between the past and the present. Places, events and characters in literary works are some elements that can trigger social memories. This is illustrated in three novels:&nbsp;_Atas Nama Cinta_,&nbsp;_Mail Mau Kawin_&nbsp;and&nbsp;_Batas Langit_.
 
+<img src="/images/Vol%203%20Issue%204/KaryaSastera/isa%20kamari.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Al-Ameen Serve Holdings, 2006.</div>
+
  <i> “Maria meninggalkan Nadra di Malaya, tetapi dia tahu orang-orang yang dikasihinya di Malaya tidak akan dapat hidup bersama Nadra lagi, kerana Nadra kini hanya sebuah bayangan. Nadra kini hanya sebuah cerita manis yang tiba-tiba diberhentikan. Siapakah yang sanggup menceritakannya kembali kepada semua?” </i> 
 
 *(ANC, ms 257)*
@@ -21,6 +24,9 @@ Cetusan-cetusan ingatan sosial ini terdapat di dalam ketiga-tiga novel yang tela
 #### **Ingatan Sosial - Tempat**
 
 Walaupun ketiga-tiga novel ini ditulis oleh 3 orang penulis yang lahir dari generasi yang berbeza, apa yang amat ketara ialah penampilan tempat di dalam novel mereka. Ketigatiganya menggunakan tempat yang sama yang menjadi tumpuan masyarakat Melayu Singapura sebagai latar novel mereka. Ia seperti mengajak pembaca melawat ke tempat itu kerana ingatan terbina dan terikat pada tempat melalui interaksi ingataningatan lalu pada tempat dan bangunan. Ia juga mendedahkan maklumat tentang masa lalu di kawasan atau tempat itu (Flores, 1998).
+
+<img src="/images/Vol%203%20Issue%204/KaryaSastera/mail%20mau%20kahwin1.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Singapura: Pustaka Nasional, 2002.</div>
 
 Novel MMK dan ANC telah menampilkan kawasan Kampung Jawa atau Bussorah Street sementara novel BL telah mempunyai kawasan Geylang sebagai antara latar di dalam novel. Sebagaimana yang diketahui umum, tempattempat ini adalah tempat kunjungan masyarakat Melayu terutama ketika bulan Ramadan dan untuk mencari bahanbahan keperluan. Contoh-contoh yang boleh didapati melalui novel-novel ini ialah:
 
@@ -39,6 +45,11 @@ Kini, Istana Kampung Gelam dan kawasan sekitarnya telah mengalami pelbagai perub
 Penulis pasca moden meletakkan penceritaan mereka dalam konteks sejarah untuk terus berhubung dengan masa lalu dalam menghadapi masa kini sebagaimana menurut wacana Linda Hutcheon (1988). Kemungkinan karya-karya ini digubah sebagai satu perbincangan yang objektif. Kalau perbincangan melalui buku-buku sejarah, ia akan membawa ke arus berlainan daripada perbincangan yang dilakukan melalui karya-karya sastera sebegini.
 
 Teori *New Historisisme* (Mana Sikana, 2005), merenung sastera sebagai teori pensejarahan baru yang “menyusur masa silam dengan memberi makna kekinian”, namun karya sastera sebagai tapak ingatan sosial hanya membawa pembaca kembali mengenang ke masa lalu yang boleh mengugah perasaan pembaca, terutama bagi mereka yang pernah melalui zaman itu atau yang pernah mengalami sendiri peristiwa itu atau mungkin saja bagi yang pernah mendengar cerita-cerita itu. Sebagai contoh, kita boleh menukil kisah pendudukan Jepun di Singapura yang terdapat di dalam novel MMK ini.
+
+![](/images/Vol%203%20Issue%204/KaryaSastera/langit.jpg)
+
+<img src="/images/Vol%203%20Issue%204/KaryaSastera/langit.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Singapura: Pustaka Nasional, 1976.</div>
 
 <i>“Ketika itu; tahun 1943 (tahun Jepun 2603); Muin baru berumur kira-kira 15 tahun. Sudah setahun dia dibebaskan daripada menjadi buruh paksa sebagai pengangkut perkakas kuli kontrak; bekerja dengan pengontrak yang memindahkan barangbarang yang disebut “enemy property” dari gudang-gudang British ke khemahkhemah simpanan tentera Jepun.”</i>
 
@@ -129,6 +140,3 @@ Patrick L. O’ Connell, “Narrating History Through Memory in Three Novels of 
 Richard R. Flores, “Memory-Place, Meaning and the Alamo,” _American Literary History_ 10, no. 3 (Autumn 1998): 428–45. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Wulf Kansteiner, “Finding Meaning in Memory: A Methodological Critique of Collective Memory Studies,” _History and Theory_ 41, no. 2 (May 2002): 179–97. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
-
-
-
