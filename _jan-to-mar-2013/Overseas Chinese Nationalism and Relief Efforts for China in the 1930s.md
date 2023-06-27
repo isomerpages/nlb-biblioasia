@@ -1,11 +1,11 @@
 ---
 title: Overseas Chinese Nationalism and Relief Efforts for China in the 1930s
 permalink: /vol-8/issue-4/jan-mar-2013/overseas-chinese-nationalism/
-description: "Dr Jason Lim reviews the contents of the Singapore Chinese Chamber
+description: Dr Jason Lim reviews the contents of the Singapore Chinese Chamber
   of Commerce & Industry 80th Anniversary Souvenir, found in the National
-  Library’s rare books collection. "
+  Library’s rare books collection.
 ---
-#### Dr Jason Lim reviews the contents of the Singapore Chinese Chamber of Commerce & Industry 80th Anniversary Souvenir, found in the National Library’s rare books collection.
+#### Dr Jason Lim reviews the contents of the Singapore Chinese Chamber of Commerce &amp; Industry 80th Anniversary Souvenir, found in the National Library’s rare books collection.
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/ChinaReliefEfforts/020000751_cover%20(chinese%20nationalism).jpg">
  <div style="background-color: white;">
@@ -13,7 +13,7 @@ Cover of 新加坡中华总商会筹赈中国难民委员会大 世界游艺会�
 </div>
 
 
-Before citizenship was offered to the Chinese in Singapore in 1957, the Chinese were considered “aliens” by the British colonial authorities. The British colonial government would not protect the Chinese and left them to manage their own affairs through clan and dialect associations, trade associations, clubs and societies. The main Chinese organisation was the Singapore Chinese Chamber of Commerce (sccc), founded by merchants in 1906. The sccc, in turn, was a link between the Singapore Chinese and China. Before 1949, all overseas Chinese were citizens of the Republic of China (roc) by jus sanguinis (where Chinese nationality was based on ethnicity and not on the place of birth) and the sccc would act as the voice of the overseas Chinese to the National Government in Nanjing. As citizens of China, the overseas Chinese were concerned about the problems in China and did all they could to organise relief efforts whenever China faced natural disasters or military conflicts.
+Before citizenship was offered to the Chinese in Singapore in 1957, the Chinese were considered “aliens” by the British colonial authorities. The British colonial government would not protect the Chinese and left them to manage their own affairs through clan and dialect associations, trade associations, clubs and societies. The main Chinese organisation was the Singapore Chinese Chamber of Commerce (SCCC), founded by merchants in 1906. The SCCC, in turn, was a link between the Singapore Chinese and China. Before 1949, all overseas Chinese were citizens of the Republic of China by *jus sanguinis* (where Chinese nationality was based on ethnicity and not place of birth), and the SCCC would act as the voice of the overseas Chinese to the National Government in Nanjing. As citizens of China, the overseas Chinese were concerned about the problems in China and did all they could to organise relief efforts whenever China faced natural disasters or military conflicts.
 
 By the early 1930s, China had to defend itself and its interests against a militarily-resurgent Japan. On 18 September 1931, claiming that Chinese bandits had blown up a railway track in Mukden (now Shenyang), Japanese troops invaded Manchuria and displaced Chinese nationals in the process. The invasion created a storm of protests from the overseas Chinese and the Chinese community leaders were scathing in their criticism of Japan. As news of the Japanese invasion and the plight of Chinese refugees poured into Singapore, some community leaders began relief efforts for China. A decision was made by the council of the sccc to establish a “Singapore Chinese Chamber of Commerce Committee of Relief Fund for China” (新加坡中华总商会筹赈中国难民 委员会) on 23 September 1931, just five days after the Japanese invasion. In its inaugural meeting the next day, the committee of 20 members started work under the chairmanship of Lee Choon Seng (李俊承) with Yeo Chan Boon (杨 缵文) as his deputy. It had seven sub-committees – Supervision, General Affairs, Finance, Publicity, Publications, Liaison and Donations. The work of the committee cut across dialect lines and many prominent merchants were involved, including Hou Say Huan (侯西反), Lum Boon Tin (林文田), Lee Wee Nam (李伟南), Aw Boon Haw (胡文虎), Lim Kim Tian (林金殿) and Lee Kong Chian (李光前). A list of rules and regulations governing the composition and work of the committee was also drawn up, followed by appeals for funds and other donations. On 1 February 1932, Lee Choon Seng, who was also president of the sccc, reported the formation of the committee to the council of the sccc. The council called on every Chinese organisation in Singapore to send a representative for a general meeting on 4 February to discuss the work of this committee.[^1]
 
@@ -36,21 +36,16 @@ This book is a showpiece of overseas Chinese nationalism through the public appe
 #### **NOTES**
 
 
-[^1]: Singapore Chinese Chamber of Commerce & Industry. [_Singapore Chinese Chamber of Commerce & Industry 80th Anniversary Souvenir Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006), (Singapore: Singapore Chinese Chamber of Commerce & Industry, 1986), p. 124. (Call no.: Chinese RSING 380.10655957 SIN)
+[^1]: Singapore Chinese Chamber of Commerce &amp; Industry. [_Singapore Chinese Chamber of Commerce &amp; Industry 80th Anniversary Souvenir Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006), (Singapore: Singapore Chinese Chamber of Commerce &amp; Industry, 1986), p. 124. (Call no.: Chinese RSING 380.10655957 SIN)
 
 [^2]: Liao C Fan and Wang Siew Peng, _Xinjiapo Zhonghua Zongshanghui Chouzhen Zhongguo Nanmin Weiyuanhui Dashijie Youyihui Tekan_ (A Special Guide to the Great World Entertainment in aid of the China Relief Fund organised by the Singapore Chinese Chamber of Commerce), (Singapore: Singapore Chinese Chamber of Commerce, 1932), pp. 15—16 in the main text.
 
-[^3]: Liao & Wang, 1932, pp. 5—6 in the preface.
+[^3]: Liao &amp; Wang, 1932, pp. 5—6 in the preface.
 
-[^4]: Liao & Wang, 1932, pp. 5—6 in the main text.
+[^4]: Liao &amp; Wang, 1932, pp. 5—6 in the main text.
 
-[^5]: Karl Gerth, [_China Made: Consumer Culture and the Creation of the Nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322017). Cambridge, MA: Harvard University Press, 2003; Jason Lim, [_Linking an Asian Transregional Commerce in Tea: Overseas Chinese Merchants in the Fujian-Singapore Trade, 1920 – 1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13652225). Leiden & Boston: Brill, 2010.
+[^5]: Karl Gerth, [_China Made: Consumer Culture and the Creation of the Nation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322017). Cambridge, MA: Harvard University Press, 2003; Jason Lim, [_Linking an Asian Transregional Commerce in Tea: Overseas Chinese Merchants in the Fujian-Singapore Trade, 1920 – 1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13652225). Leiden &amp; Boston: Brill, 2010.
 
-[^6]: Liao & Wang, Dashijie Youyihui Tekan, 1932, between pages 28 and 29 in the main text.
+[^6]: Liao &amp; Wang, Dashijie Youyihui Tekan, 1932, between pages 28 and 29 in the main text.
 
-[^7]: Liao & Wang, 1932, pp. 5—6 in the preface.
-
-
-
-
-
+[^7]: Liao &amp; Wang, 1932, pp. 5—6 in the preface.
