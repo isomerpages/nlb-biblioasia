@@ -1,15 +1,15 @@
 ---
 title: Some Thoughts on the Theme of Death
 permalink: /vol-8/issue-4/jan-mar-2013/theme-death/
-description: "Family and friends have long had to bear with my vocal thoughts on
+description: Family and friends have long had to bear with my vocal thoughts on
   endless scenes of wasted death on the news. My emotive views come from what I
   assumed were my limitless powers of empathy. As I have read and watched the
   news from the comfort of a warm home in a peaceful Singapore, I thought I
   fully understood the pain of a husband weeping over a wife killed by
   cross-fire or a grieving mother whose child lay limp due to famine caused by
-  man’s disregard for fellowman. My self-delusion ended only recently. "
+  man’s disregard for fellowman. My self-delusion ended only recently.
 ---
-#### Family and friends have long had to bear with my vocal thoughts on endless scenes of wasted death on the news. My emotive views come from what I assumed were my limitless powers of empathy. As I have read and watched the news from the comfort of a warm home in a peaceful Singapore, I thought I fully understood the pain of a husband weeping over a wife killed by cross-fire or a grieving mother whose child lay limp due to famine caused by man’s disregard for fellowman. My self-delusion ended only recently.
+#### Family and friends have long had to bear with my vocal thoughts on endless scenes of wasted death on the news. My emotive views come from what I assumed were my limitless powers of empathy. As I have read and watched the news from the comfort of a warm home in a peaceful Singapore, I thought I fully understood the pain of a husband weeping over a wife killed by crossfire or a grieving mother whose child lay limp due to famine caused by man’s disregard for fellowman. My self-delusion ended only recently.
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/ThemeDeath/Records.jpg">
@@ -19,35 +19,35 @@ description: "Family and friends have long had to bear with my vocal thoughts on
 
 About four months ago, my wife chanced on a book in Bishan Public Library. It was Sebastian Barry’s *On Canaan’s Side: A Novel* (2011). I remember it well as it helped me acknowledge my inadequate empathy. I actually wrote down parts of the first chapter called “First Day without Bill”, lest I forget:
 
-<center>What is the sound of an eighty-nine-yearold heart breaking? It might not be much more than silence, and certainly a small slight sound...</center>
+<center>What is the sound of an eighty-nine-year-old heart breaking? It might not be much more than silence, and certainly a small slight sound...</center>
 
-<center>But the feeling of it is like a landscape engulfed in flood-water in the pitch darkness, and everything, hearth and byre, animal and human, terrified and threatened…It is as if someone…knew well the little mechanism that I am…and has the booklet or manual to undo me, and cog by cog and wire by wire is doing so, with no intention of ever putting me back again, and indifferent to the fact that all my pieces are being thrown down and lost. I am so terrified by grief that there is solace in nothing.But the feeling of it is like a landscape engulfed in flood-water in the pitch darkness, and everything, hearth and byre, animal and human, terrified and threatened…It is as if someone…knew well the little mechanism that I am…and has the booklet or manual to undo me, and cog by cog and wire by wire is doing so, with no intention of ever putting me back again, and indifferent to the fact that all my pieces are being thrown down and lost. I am so terrified by grief that there is solace in nothing.</center>
+<center>But the feeling of it is like a landscape engulfed in flood-water in the pitch darkness, and everything, hearth and byre, animal and human, terrified and threatened… It is as if someone… knew well the little mechanism that I am… and has the booklet or manual to undo me, and cog by cog and wire by wire is doing so, with no intention of ever putting me back again, and indifferent to the fact that all my pieces are being thrown down and lost. I am so terrified by grief that there is solace in nothing.</center>
 
-So when asked to write on a theme of death, I found myself turning to other writings that ponder mortality and loss, remember loved ones, memorialise those who have led inspiring lives; or think of events that have moved us. I looked first to books on my own shelves at home.
+So when asked to write on the theme of death, I found myself turning to other writings that ponder mortality and loss, remember loved ones, memorialise those who have led inspiring lives; or think of events that have moved us. I looked first to books on my shelves at home.
 
-Since my younger days, a favourite has been *Totto-Chan: The little girl at the window* (1981) by Tesuko Kuroyanagi (translated by Dorothy Britton, 1982). In this book brimming with enhancement, there is a moment’s pause as we experience a first meeting with death for a little girl:
+Since my younger days, a favourite has been *Totto-Chan: The Little Girl at the Window* (1981) by Tesuko Kuroyanagi (translated by Dorothy Britton, 1982). In this book brimming with enhancement, there is a moment’s pause as we experience a first meeting with death for a little girl:
 
 <center>It was Yasuaki-Chan who told her they had something in America called television. Totto-Chan loved Yasuaki-Chan. They had lunch together, spent their breaks together, and walked to the station together after school. She would miss him so much. Totto-Chan realised that death meant that Yasuaki-Chan would never come to school any more. It was like those baby chicks. When they died, no matter how she called to them they never moved again.</center>
 
-Totto-Chan suffers an unexpected loss and ref lects quietly in a straightforward and unencumbered way. Her loss is at once real and, in relation to so many different everyday things, final.
+Totto-Chan suffers an unexpected loss and reflects quietly in a straightforward and unencumbered way. Her loss is at once real and, in relation to so many different everyday things, final.
 
 In *Shadowlands: The Story of CS Lewis and Joy Davidman* (1985) by Brian Shelby, we find a fascinating perspective on the fear of death – an almost selfish but a very human one:
 
-<center>(H)e wasn’t crying because Joy had gone somewhere else, he was crying because he didn’t have her anymore…What happened to Joy was that she had been set free: free from the endless battle against an insidious disease…For \[Lewis\] the pain went on.</center>
+<center>[H]e wasn’t crying because Joy had gone somewhere else, he was crying because he didn’t have her anymore… What happened to Joy was that she had been set free: free from the endless battle against an insidious disease… For \[Lewis\] the pain went on.</center>
 
-I also re-call E.B. White’s *Charlotte’s Web* (1952) where Charlotte summons all her strength to wave a final goodbye to her dear friend Wilbur:
+I also recall E.B. White’s *Charlotte’s Web* (1952) where Charlotte summons all her strength to wave a final goodbye to her dear friend Wilbur:
 
-<center>She never moved again. Next day, as the Ferris wheel was being taken apart and the race horses were being loaded into vans and the entertainers were packing up their belongings and driving away in their trailers, Charlotte died…No one was with her when she died.</center>
+<center>She never moved again. Next day, as the Ferris wheel was being taken apart and the race horses were being loaded into vans and the entertainers were packing up their belongings and driving away in their trailers, Charlotte died… No one was with her when she died.</center>
 
 Charlotte’s lonesome death is at once tinged with sadness. Perhaps it is offensive to some instinctive humanity that knows it is wrong for one to die so alone at the end of life’s journey.
 
-On dying alone, I have found some harrowing stories in the oral history collection of the National Archives of Singapore (the Archives). Sew Teng Kok recalls the death houses at Sago Lane:
+On dying alone, I have found some harrowing stories in the oral history collection of the National Archives of Singapore. Sew Teng Kok recalls the death houses at Sago Lane:
 
-<center>When we talk about death houses, we think that those people found along the ground floor of the death house are all… usually dead. But not \[so\]…Some families would put those people who are about to die into one of these death houses just to let them pass the rest of their time over there…You can see them skinny looking, sleeping on a mat, yelling away in pain or quietly dozing away, waiting for the time to come. These people may drag for a few days, if they are lucky in the sense that their time has arrived, or they may be there for one or two months.</center>
+<center>When we talk about death houses, we think that those people found along the ground floor of the death house are all… usually dead. But not \[so\]… Some families would put those people who are about to die into one of these death houses just to let them pass the rest of their time over there… You can see them skinny looking, sleeping on a mat, yelling away in pain or quietly dozing away, waiting for the time to come. These people may drag for a few days, if they are lucky in the sense that their time has arrived, or they may be there for one or two months.</center>
 
-Some might lament that the younger generation has forgotten filial piety and community spirit of the “good old days”, but this account is one reminder that there are actually many things that are best left in the past.
+Some might lament that the younger generation has forgotten filial piety and the community spirit of the “good old days”, but this account is one reminder that there are actually many things that are best left in the past.
 
-The collection of oral history recordings on the Japanese Occupation reveals a particularly painful chapter in our history. Three hundred and sixty one powerful interviews fill gaps left by the deliberate destruction of official records by the Japanese administration and capture the recollections of all communities and peoples caught up during this brutal period of our history. Ng Seng Yong, who was held along with residents from Geylang, Joo Chiat and Telok Kurau, recalled the randomness with which death came to visit:
+The collection of oral history recordings on the Japanese Occupation reveals a particularly painful chapter in our history. Three hundred and sixty one powerful interviews fill gaps left by the deliberate destruction of official records by the Japanese administration and capture the recollections of all the communities and peoples caught up in this brutal period of our history. Ng Seng Yong, who was held along with residents from Geylang, Joo Chiat and Telok Kurau, recalled the randomness with which death visited:
 
 <center>The most tragic incident was the way they screened or shift what they call the people whom the Japanese authorities presumed to be anti-Japanese. One of the simple questions was: “Those educated in Chinese, put your hands up.” Quite a number in that crowd raised their hands and they were taken away. Nothing was seen of those. And later, we heard they were all sent to Siglap Hill and executed there by machine gun. They were made to dig trenches. I lost two nephews in that incident.</center>
 
@@ -57,9 +57,9 @@ The *penghulu* (chief) of Punggol Village, Awang bin Osman, recalled the afterma
 	
 <center>(When I came back, I saw the corpses of the Chinese floating on the sea. Shot dead by the Japanese. From one corner of the beach to the other, I saw probably five hundred to six hundred corpses. Some were tied up, some were bayoneted.)</center>
 
-In my search for records on death, archivists at the Archives pointed me to one of the few written records of death during the Japanese Occupation that had been secretly kept by the chief record clerk, Benjamin Cheah Hoi, and the medical officer, Dr Lee Kek Soon. As stated by the Superintendant of Prisons in a memo dated 26 September, 1945 to the British Military Administration:
+In my search for records on death, archivists at the National Archives pointed me to one of the few written records of death during the Japanese Occupation that had been secretly kept by the chief record clerk, Benjamin Cheah Hoi, and the medical officer, Dr Lee Kek Soon. As stated by the Superintendent of Prisons in a memo dated 26 September 1945 to the British Military Administration:
 
-<center>(T)wo records were kept secretly by two members of the Prison Staff. Realising the value such documents I feel quite certain that if the Japanese officials had discovered this existence, the lives of the two people concerned would have been “written off ”.</center>
+<center>[T]wo records were kept secretly by two members of the Prison Staff. Realising the value such documents I feel quite certain that if the Japanese officials had discovered this existence, the lives of the two people concerned would have been “written off ”.</center>
 
 <center>To the best of my knowledge, the deaths or executions of prisoners that is nonEuropean, were withheld from the public and it appears to me that many hundreds of people in the island and possibly the Mainland, would have their fears and doubts laid aside, especially so in legal and martial (sic) obligations.</center>
 
