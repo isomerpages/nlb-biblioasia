@@ -3,6 +3,8 @@ title: "Digging Bidadari’s Past: From Palace to First Muslim State Cemetery"
 permalink: /vol-8/issue-4/jan-mar-2013/muslim-bidadari-cemetery/
 description: ""
 ---
+#### Home today to a slate of new public housing clusters, Bidadari used to be the site of a cemetery – in particular, Singapore's first Muslim state cemetery and first multireligious cemetery. 
+
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/Another%20perspective%20of%20Bidadari.jpg">
  <div style="background-color: white;">The Bidadari Muslim cemetery in the 1990s before its exhumation.  <i>Courtesy of Goh Si Guim.</i></div>
 
