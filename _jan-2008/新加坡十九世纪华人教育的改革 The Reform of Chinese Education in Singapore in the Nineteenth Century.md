@@ -12,11 +12,20 @@ image: /images/Vol 3 Issue 4/EducationReforms/classroom scene.jpg
 ---
 #### Education reforms and the modernisation of education in Singapore and Malaya are often attributed to political changes in China during the early 20th century. Few remember the contributions of local intellectuals in spearheading education reforms before the 1900s. These reformers were multicultural both in their background and outlook. Two notable pioneers in this field are Chan Kim Boon and Khoo Seok Wan.
 
+<img src="/images/Vol%203%20Issue%204/EducationReforms/classroom%20scene.jpg" style="width:80%;">
+ <div style="background-color: white;">A classroom scene of a Chinese school in the late-19th century. <i>叶钟铃, 黄佟葆合编《新马印华校教科书发展回顾 》. (2005). 新加坡 : 华裔馆. Call no.: RSING Chinese 495.107 HIS</i></div>
+
 新加坡十九世纪初的教育改革往往都与中国当时的政治变化挂钩。 然而，当时在新加坡的一些人士的活动，对教育改革、以及整个社会的 改革起着一股推动力。这些人士不仅受过教育，有些还游刃于中西文 化。他们的多重文化背景使他们成为领导旧式教育改革的最佳人选。
+
+<img src="/images/Vol%203%20Issue%204/EducationReforms/chrita%20dahulu1.jpg" style="width:50%;">
+ <div style="background-color: white;">图二:《水浒传—宋江》，第二 卷。Chrita dahulu-kala di triak Song kang 108 P'rompak atau Swui Hnoh di zaman "Song Teow". Vol II. 可参阅显微胶卷: NL10715.</div>
 
 在这群人当中，两位值得我们注意的人士包括了曾锦文（1851–1920）和邱菽园 (1874–1941)。他们两位在海峡殖民地受过教育和工作，是当时文化界的活跃 分子。
 
 曾锦文出生于槟城，在槟城大英义学 （Penang Free School）接受英文教育。[^1] 他 不仅懂得英文和华文，也通晓马来文。1866年，其父亲送他回中国福州马尾水师学 堂就读。毕业后，曾锦文续任该校的数学教师，一直到1872年。他首先回到槟城。 两个月后，他到新加坡的某间律师楼任书记一职。曾锦文在业余的时候从事中国 章回小说的 马来文翻译工作(图一)。十二、三年内，他完成十八部作品。其中包 括： 凤娇与李丹》、《五美人》、《三国》、《今古奇观》、《聊斋》、《包公案》、 《施公案》等。当中，Chrita dahulu-kala di triak Song kang 108 P'rompak atau Swui Hnoh di zaman "Song Teow" 宋江》(图二、三、四、五)、Chrita dahulu-kala pasal Kou Chey Thian man-gawal-kan Tong Thye Chu pergi di negri Seh Thian C'hu Keng 等书目仍有存本保留在李光前参考馆。
+
+<img src="/images/Vol%203%20Issue%204/EducationReforms/baba%20patois.jpg" style="width:80%;">
+ <div style="background-color: white;">图一: 1985年5月16日，《海峡时报副刊》一篇有关 曾锦文的报道 Man re-wrote Chinese classics in Baba patois.</div>
 
 邱菽园小时候寄养在澳门姑妈家，直到七岁才到新加坡来。在他15岁时（即1888 年），他随父母返福建省海澄县应科举考试。[^2] 六年后，他科举中榜，考中举人。两 年后，他返回新加坡。父亲不幸那年逝世。他送父柩回中国。事后，游长江及华北， 就此，结识维新派人士。1897年，当他再度返新加坡后，与林文庆创办《天南新 报》，鼓吹变法维新（保皇会）。当时的“丽泽社”和“会吟社”也是由他设立的。他 也常应华文报章之邀，为每月撰文比赛之总裁判。邱的主要著作包括两部诗集： 菽园诗集》、《萧虹生诗钞》(图六、七、八)和两部笔记：《菽园赘谈》、《五百石洞 天挥麈》。柯木林在书中称他为：“新华社会乃至东南亚华人社 会之闻人”。[^3]
 
@@ -53,6 +62,3 @@ These pioneers were way ahead of their time in the creation of practical materia
 [^3]: Ke Mulin, [_Xin hua li shi ren wu lie zhuan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628), 102.
 
 [^4]: Yao Mengtong 姚梦桐, “邱菽园和 ‘千字文’,” _亚洲文化_ (1986), 57.
-
-
-
