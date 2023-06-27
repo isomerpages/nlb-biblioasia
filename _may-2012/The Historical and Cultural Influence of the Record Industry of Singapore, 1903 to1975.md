@@ -2,8 +2,8 @@
 title: The Historical and Cultural Influence of the Record Industry of
   Singapore, 1903 to1975
 permalink: /vol-8/issue-1/may-2012/singapore-record-industry/
-description: The Historical and Cultural Influence of the Record Industry of
-  Singapore, 1903-1975
+description: Over a period of 75 years during the last century, Singapore was
+  one of the most important centres for the record industry in Southeast Asia.
 ---
 ####  Over a period of 75 years during the last century, Singapore was one of the most important centres for the record industry in Southeast Asia.
 
@@ -12,7 +12,7 @@ description: The Historical and Cultural Influence of the Record Industry of
 
 Despite its considerable economic and cultural importance, however, there has been very little published about the Singapore record industry. So far, there has not been a single book on this subject and the two journal articles that have appeared over the last 30 years[^1] cover only part of the story.
 
-By 1903, when the first commercial recordings made in Asia by Fred Gaisberg appeared, Singapore was already a thriving centre of trade and commerce in the region. It had already been exposed to Edison’s new invention of the phonograph in 1879[^2], and in 1892 the Improved Phonograph (which was the model for the first commercially available machines) was demonstrated in Singapore by Professor Douglas Archibald,[^3] who had travelled from Australia where he had been giving lectures and demonstrations of the device since 1890.[^4] This early phonograph, which played wax cylinder records, had first been advertised in Singapore by Robinson & Co. in the same year,[^5] and Emile Berliner’s gramophone, which played disc records, was being sold in Singapore by John Little & Co. Ltd. in 1899.[^6]
+By 1903, when the first commercial recordings made in Asia by Fred Gaisberg appeared, Singapore was already a thriving centre of trade and commerce in the region. It had already been exposed to Edison’s new invention of the phonograph in 1879[^2], and in 1892 the Improved Phonograph (which was the model for the first commercially available machines) was demonstrated in Singapore by Professor Douglas Archibald,[^3] who had travelled from Australia where he had been giving lectures and demonstrations of the device since 1890.[^4] This early phonograph, which played wax cylinder records, had first been advertised in Singapore by Robinson &amp; Co. in the same year,[^5] and Emile Berliner’s gramophone, which played disc records, was being sold in Singapore by John Little &amp; Co. Ltd. in 1899.[^6]
 
 These nineteenth-century developments demonstrate that Singapore was fully open to all the latest scientific developments that made possible the development of a global record industry in the coming decades. Together with its geographic location, this meant that Singapore was well placed to function as a logistical and administrative centre for the new record industry. It was also significant that Fred Gaisberg planned his recording expedition in a way that made full use of Singapore as a gateway to the region.
 
@@ -41,13 +41,13 @@ The Columbia Graphophone Company was active in Singapore from 1912 onwards, but 
 
 The main label of the Lindstrom group (based in Berlin, Germany) was Odeon, which began recording in Asia in 1905. Odeon was acquired by Columbia in 1926 and also subsequently became part of EMI.
 
-Deutsche Grammophon was another German company that conducted recording sessions in Singapore starting in 1927, with issues on the Hindenburg, Polyphon and Parlophon labels until 1931. They also made recordings for the Pagoda label, which began in 1930 as a venture of Mong Huat & Co., which had been the distributor for the Gramophone Co. since 1927.
+Deutsche Grammophon was another German company that conducted recording sessions in Singapore starting in 1927, with issues on the Hindenburg, Polyphon and Parlophon labels until 1931. They also made recordings for the Pagoda label, which began in 1930 as a venture of Mong Huat &amp; Co., which had been the distributor for the Gramophone Co. since 1927.
 
 In 1927, the British company Edison Bell made some recordings for local record distributors that wanted their own labels. The Quek Swee Chiang, Teck Chiang Long and Teo Chiang records were early examples of labels that catered to niche markets such as Chinese dialect opera records in Hokkien or Teochew. All these labels were short-lived and were discontinued in 1928. But Edison Bell retained an interest in the local market and produced some 8-inch records of Malay songs on the Edison Bell Radio label between 1929 and 1930.
 
 There was also a very short-lived Chappell label produced by the British Crystalate Company in 1930.
 
-The Depression of the early 1930s put an end to much of the recording activity that had flourished in Singapore since 1903. Only EMI continued regular recording sessions (which were released mainly on the label His Master’s Voice). By 1934, the economic situation had improved sufficiently for a new label, Chap Kuching, to be launched for Malay records by Moutrie & Co.,[^14] which was the agent in Singapore for EMI. This label continued until 1939 and was initially supervised for Moutrie by Tom Hemsley.
+The Depression of the early 1930s put an end to much of the recording activity that had flourished in Singapore since 1903. Only EMI continued regular recording sessions (which were released mainly on the label His Master’s Voice). By 1934, the economic situation had improved sufficiently for a new label, Chap Kuching, to be launched for Malay records by Moutrie &amp; Co.,[^14] which was the agent in Singapore for EMI. This label continued until 1939 and was initially supervised for Moutrie by Tom Hemsley.
 
 Apart from Chap Kuching, the only other new labels to appear in the mid-1930s were for two small private operations. These were Limophone (1935) and Foo Ann (1935-1938). The success of Chap Kuching seems to have encouraged Tom Hemsley to leave Moutrie, and in 1937 he started his own label, Chap Singha,[^15] which ran until 1941. In 1938 he also launched the Delima label,[^16] which specialised in Javanese singers.
 
@@ -100,7 +100,7 @@ By 1965, Philips had initiated a series of local releases that eventually result
 <img style="width:50%;" src="/images/Vol%208%20issue%201/RecordIndustry/Philips%20Phonographic%20recording.jpg">
  <div style="background-color: white;">The recording commemorating the official opening of Philips Phonographic Industries Ltd. <i>Author.</i></div>
 
-In a single decade (1965—1975), the Singapore record industry produced a huge range of recordings in a wide variety of styles. Local content included recordings in Chinese, Malay, English and other language groups ranging from traditional forms to the latest pops. The majority of recordings where in Malay or Chinese, with Mandarin and Cantonese accounting for most Chinese language recordings, plus some in various dialects such as Teochew or Hokkien. There were also a significant number of English-language recordings, and many instrumental recordings (ranging from Western-style R&B to Chinese songs played in the current “A-Go-Go” style).
+In a single decade (1965—1975), the Singapore record industry produced a huge range of recordings in a wide variety of styles. Local content included recordings in Chinese, Malay, English and other language groups ranging from traditional forms to the latest pops. The majority of recordings where in Malay or Chinese, with Mandarin and Cantonese accounting for most Chinese language recordings, plus some in various dialects such as Teochew or Hokkien. There were also a significant number of English-language recordings, and many instrumental recordings (ranging from Western-style R&amp;B to Chinese songs played in the current “A-Go-Go” style).
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/RecordIndustry/Workers%20Phonographic%20Limited1.jpg">
  <div style="background-color: white;">Workers at the Phonographic Industries Limited factory at Tanglin Halt, 1967. <i>MITA.</i></div>
@@ -114,16 +114,16 @@ During the 1960s, Singapore bands frequently toured places like Sarawak, Brunei,
 By the early 1970s the Singapore record industry had come a long way from the first primitive recordings made in 1903. Unfortunately, by the end of the 1960s, the local record industry had reached a peak, both in terms of creativity and in terms of production. While a significant number of records continued to be produced in the early 1970s, there was a gradual decline. The reasons are complex, but included changes in technology, changes in style, and changes in government policy. By the mid-1970s Singapore was no longer as important a regional recording hub as it had been during the previous 75 years.
 
 <div>
-<b>Ross Laird</b> was awarded the Lee Kong Chian Research Fellowship in 2010. This article presents his research into the history of the music recording industry in Singapore. Prior to the fellowship, Ross was a sound archivist with the National Film & Sound Archive of Australia. He is the author of <i>Sound Beginnings: The early record of industry in Australia.</i> (2000).</div>
+<b>Ross Laird</b> was awarded the Lee Kong Chian Research Fellowship in 2010. This article presents his research into the history of the music recording industry in Singapore. Prior to the fellowship, Ross was a sound archivist with the National Film &amp; Sound Archive of Australia. He is the author of <i>Sound Beginnings: The early record of industry in Australia.</i> (2000).</div>
 
 #### **REFERENCES**
       
 
 [Page 2 Advertisements Column 2: Chap Singa](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370108-1.2.7.2). (1937, January 8). _The Malaya Tribune_, p. 2. Retrieved from NewspaperSG.
 
-[Page 2 Advertisements Column 3: Robinson & Co](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18920516-1.2.15.3). (1892, May 16). _The Singapore Free Press and Mercantile Advertiser_, p. 2. Retrieved from NewspaperSG.
+[Page 2 Advertisements Column 3: Robinson &amp; Co](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18920516-1.2.15.3). (1892, May 16). _The Singapore Free Press and Mercantile Advertiser_, p. 2. Retrieved from NewspaperSG.
 
-[Page 2 Advertisements Column 1: John Little & Co., Ltd – The gramophone](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18990829-1.2.8.1). (1899, August 29). _The Singapore Free Press_, p. 2. Retrieved from NewspaperSG.
+[Page 2 Advertisements Column 1: John Little &amp; Co., Ltd – The gramophone](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18990829-1.2.8.1). (1899, August 29). _The Singapore Free Press_, p. 2. Retrieved from NewspaperSG.
 
 [Page 4 Advertisements Column 4: Chap Kuching](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340711-1.2.23.4). (1934, July 11). _The Malaya Tribune_, p. 4. Retrieved from NewspaperSG.
 

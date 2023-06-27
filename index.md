@@ -18,6 +18,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/vol-2-issue-3/hero banner_kaabar.jpg
   - infopic:
+      title: Malaya's Prewar Tennis Greats
+      subtitle: Podcast
+      description: Two tennis greats won 9 Malaya Cups and 12 Singapore Championships
+        between them before the war. Who are they?
+      button: Listen to BiblioAsia+
+      url: /podcast/tennis/
+      alt: prewar Malayan tennis
+      image: /images/Vol 19 Issue 1/Tennis/image2.png
+  - infopic:
       title: A New Podcast on Stories about Singapore's Past
       subtitle: Podcast
       description: Homegrown Taoist goddesses. The rituals behind the annual Hindu

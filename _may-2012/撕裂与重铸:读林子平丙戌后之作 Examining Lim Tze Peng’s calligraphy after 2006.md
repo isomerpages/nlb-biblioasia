@@ -1,7 +1,7 @@
 ---
 title: 撕裂与重铸:读林子平丙戌后之作 Examining Lim Tze Peng’s calligraphy after 2006
 permalink: /vol-8/issue-1/may-2012/lee-tze-peng-calligraphy/
-description: ""
+description: "Examining Lim Tze Peng’s calligraphy after 2006. "
 ---
 Singapore veteran artist and 2003 Cultural Medallion Award winner Lim Tze Peng is known for his continuous efforts to surpass his own achievements and his open-mindedness in exploring new techniques and styles of painting. In August 2008, he held an exhibition titled *Inroads – Lim Tze Peng’s New Ink Work* at the Art Retreat Museum in Singapore. His works of creative imagination and skills in integrating modern and traditional techniques impressed not just local art enthusiasts but also attracted overseas attention. He was subsequently invited to exhibit his works in overseas art galleries such as the National Art Museum of China and Shanghai’s Liu Hai Su Art Museum.
 
@@ -72,7 +72,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 附图1-3这三幅是林老过渡到“疏可走马、密不 透风”的艺术语言的作品，其自我超越而摸索前进的 心路历程，从中看出端倪。
 
-<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.JPG">
  <div style="background-color: white;">柳宗元《江雪》<br> 千山鸟飞绝，万径人踪灭。<br> 孤舟蓑笠翁，独钓寒江雪。<br> (原作为国家图书馆许少全藏品)</div>
 
 林子平这种先驱式的艺术经营手法，不是每 个书画家都敢于去冒险，去尝试。我读着林子平 的书法《江雪》，心绪随着宣纸上的笔墨舞动， 飞到多年前林老的一张照片——孤立作画，目 光凝视前方，那种执着与专注，到了浑然忘我的 “痴”境。[^9] 细味其笔情，在撕裂与重铸的求索路上， 他，也可说是独钓“寒江”的长者。

@@ -1,8 +1,10 @@
 ---
 title: 新加坡华文 书业历史简述 A brief history of the Chinese book industry in Singapore
 permalink: /vol-8/issue-1/may-2012/singapore-history-chinese-book/
-description: ""
+description: A brief history of the Chinese book industry in Singapore.
 ---
+#### A brief history of the Chinese book industry in Singapore.
+
 The beginnings of the Chinese book industry in Singapore can be traced back to the 1910s, when book companies from China set up branches here. The Commercial Press and Chung Hwa Book Company were the first and sold mainly their own publications and textbooks. In the 1920s, when Cheng Hing Company (later known as World Book Company) and Shanghai Book Company were established, a wider variety of Chinese publications from China became available. By the early 1940s, the number of Chinese bookstores in Singapore had increased to 22, mostly located at South Bridge Road. The five largest were The Commercial Press, Chung Hwa Book Company, World Book Company, Shanghai Book Company and Nanyang Book Company, which was founded locally in 1935.
 
 Although many bookstores were destroyed during World War II, the industry managed to recover and began to publish local edited works, as there was a shortage of supply from China due to civil wars. During the boom of the 1950s and early 1960s, more local bookstores were set up for students. The Youth Book Company, a major industry player, led the trend of publishing local works, which helped to encourage the creation of a local literary scene.
@@ -32,9 +34,9 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 
 **重要转型**    八十年代华文书业<br>
 
-**缓慢苏 九**   十年代华文书业<br>
+**缓慢苏 九**&nbsp;  十年代华文书业<br>
 
-**新的机遇**    二 十一世纪第一个十年华文书业
+**新的机遇**&nbsp;   二 十一世纪第一个十年华文书业
 
 #### **萌芽时期**
 

@@ -6,12 +6,12 @@ description: While seeming unlikely, Singapore comic books and graphic novels
   spotlights Unfortunate Lives and Mr Kiasu and unpacks what they reveal about
   the past two decades.
 ---
-#### While seeming unlikely, Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights _Unfortunate Lives_ and _Mr Kiasu_ and unpacks what they reveal about the past two decades.
+#### While seeming unlikely, Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights&nbsp;_Unfortunate Lives_&nbsp;and&nbsp;_Mr Kiasu_&nbsp;and unpacks what they reveal about the past two decades.
 
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/ComicBooks/Presentation2.jpg">
- <div style="background-color: white;">(Left to Right)Red Robot Productions, 2002, Dreary Weary Comics, c2011 and Dave Chua & Koh Hong Teng, c2010.  All rights reserved.</div>
+ <div style="background-color: white;">(Left to Right) Red Robot Productions, 2002, Dreary Weary Comics, c2011 and Dave Chua &amp; Koh Hong Teng, c2010.  All rights reserved.</div>
 
 However, there have been recent attempts to re-examine the postwar period through social and cultural lenses. Rather than being dependent on British Colonial Office records and state archival papers, works on the history of popular culture such as films (*Latent Images: Films in Singapore* by Jan Uhde and Yvonne Ng Uhde; *Singapore Cinema* by Raphael Millet) and rock music (*Legends of the Golden Venus* and *Apache Over Singapore*, both by Joseph Pereira) focus on the medium itself and they ask the question: what does a movie or a throwaway pop song tell us about ourselves and the past?[^1] Even the National Museum of Singapore in 2010 mounted an exhibition on “Singapore 1960”, using cultural artifacts and social memories to give us a sense of what lives were like back then.
 
@@ -26,10 +26,9 @@ By looking at two comic books (one produced in the 1980s and the other in the 19
 
 The first Singapore graphic novel comprising short stories was Eric Khoo’s *Unfortunate Lives: Urban Stories, Uncertain Tales* (1989), intended to be the first by the comics imprint of Times Books International.
 
-
-<img style="width:60%;" src="/images/Vol%207%20issue%204/ComicBooks/Unfortunatelives_1.jpg">
- <div style="background-color: white;"> Times Books International, c1989. All rights reserved.</div>
-
+<img src="/images/Vol%207%20issue%204/ComicBooks/Unfortunatelives_1.jpg" style="width:50%;">
+ <div style="background-color: white;">Times Books International, c1989. All rights reserved.</div>
+	
 The graphic novel was positioned as part of a cultural bloom in the arts in the late 1980s. The introduction of the book described the cultural scene as “artists, musicians, writers and producers creating works, stories, new myths about our people and our environment and lifestyle. They have been exploring the history and sociology of this young country; the tensions and conflicts of life in a new age — in ways that have never before been so visible in the public media.”
 
 Seen in this light, *Unfortunate Lives* was part of the cultural spring of the mid to late 1980s. In 1986, BigO magazine organised the first alternative music gig, “No Surrender” at Anywhere, a pub at Tanglin Shopping Centre. In 1988, Kuo Pao Kun’s *Mama Looking For Her Cat*, Singapore’s first multilingual play, was staged.[^3] Two years later, Kuo founded The Substation.
@@ -104,8 +103,8 @@ Besides building its print collection, the National Library Board has also been 
 The author acknowledges with thanks the contributions of Associate Professor Ian Gordon, Department of History, National University of Singapore in reviewing this article.
 
 <div>
-<b>Lim Chen Tju</b><br>
-Country Editor (Singapore) International</b><br>Journal of Comic Art.</div>
+<center> <b>Lim Chen Tju</b><br>
+Country Editor (Singapore) International<br>Journal of Comic Art.</center> </div>
 
 
 #### **REFERENCES**
@@ -118,7 +117,7 @@ Lim, C.T. (1995). [_Cartoons of lives, mirrors of our times: History of politica
 
 [^1]: For example, see my article on the significance of Elvis Presley in Singapore 1964. Lim, C.J. (2007, August 29). Elvis and Singapore. _Citizen Historian._ Retrieved from Citizen Historian website.
 
-[^2]: Disclosure; this recreation was curated by Foo Kwee Horng, Koh Nguang How, Lai Chee Kien and I. Foo, K.H., Koh, N.H. & Lim, C.T. (2006, October). A brief history of woodcuts in Singapore. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), _2_ (3), 30–34. Retrieved from BiblioAsia website. The original exhibition was held at the old National Library at Stamford Road in 1966. For more information, see [_Imprints of the past: Remembering the 1966 Woodcut Exhibition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12824746), 2006 found at the Lee Kong Chian Reference Library.
+[^2]: Disclosure; this recreation was curated by Foo Kwee Horng, Koh Nguang How, Lai Chee Kien and I. Foo, K.H., Koh, N.H. &amp; Lim, C.T. (2006, October). A brief history of woodcuts in Singapore. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), _2_ (3), 30–34. Retrieved from BiblioAsia website. The original exhibition was held at the old National Library at Stamford Road in 1966. For more information, see [_Imprints of the past: Remembering the 1966 Woodcut Exhibition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12824746), 2006 found at the Lee Kong Chian Reference Library.
 
 [^3]: Nureza Ahmad. (2004, May 10). [_First multilingual play_ _in Singapore_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html). Retrieved from Singapore Infopedia. In 1988, the Ong Teng Cheong Advisory Council on Art and Culture completed its extended study and recommended the setting up of the National Arts Council and the building of the Esplanade.
 
