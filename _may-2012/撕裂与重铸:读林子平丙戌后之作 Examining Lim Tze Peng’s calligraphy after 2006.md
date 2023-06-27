@@ -72,7 +72,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 附图1-3这三幅是林老过渡到“疏可走马、密不 透风”的艺术语言的作品，其自我超越而摸索前进的 心路历程，从中看出端倪。
 
-<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.JPG">
  <div style="background-color: white;">柳宗元《江雪》<br> 千山鸟飞绝，万径人踪灭。<br> 孤舟蓑笠翁，独钓寒江雪。<br> (原作为国家图书馆许少全藏品)</div>
 
 林子平这种先驱式的艺术经营手法，不是每 个书画家都敢于去冒险，去尝试。我读着林子平 的书法《江雪》，心绪随着宣纸上的笔墨舞动， 飞到多年前林老的一张照片——孤立作画，目 光凝视前方，那种执着与专注，到了浑然忘我的 “痴”境。[^9] 细味其笔情，在撕裂与重铸的求索路上， 他，也可说是独钓“寒江”的长者。
