@@ -111,19 +111,19 @@ It was – and still is – a Chinese custom to hold a wake lasting a duration o
 
 The Chinese believe that when people die, they are transported to hell to be punished for bad deeds done when the person was alive. The Chinese also believe that hell comprises 18 levels with punishments increasing in severity as one descends from one level to the next.
 
-The “breaking of hell” ceremony was performed by a Taoist priest after a person’s death to rescue the deceased from the horrors of hell by “lead\[ing\] him across the bridge that forms the link with heaven (*kor tin khew*).[^42] This would allow the dead to escape punishment and to be reincarnated without suffering. In Cantonese, this is called *phor tei yuk* (meaning “to conquer hell”).
+The “breaking of hell” ceremony was performed by a Taoist priest after a person’s death to rescue the deceased from the horrors of hell by “lead\[ing\] him across the bridge that forms the link with heaven (*kor tin khew*)”.[^42] This would allow the dead to escape punishment and be reincarnated without suffering. In Cantonese, this is called *phor tei yuk* (to conquer hell).
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/Chinese%20funeral.jpeg">
- <div style="background-color: white;">An elderly lady and Taoist priest prepare for Chinese funeral on Sago Lane. <i>ABN AMRO Collection, courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;">An elderly lady and Taoist priest prepare for a Chinese funeral on Sago Lane. <i>ABN AMRO Collection, courtesy of National Archives of Singapore.</i></div>
 	
 
 
-This was an elaborate open-air ceremony that lasted several hours. The ceremony would begin around 7.30pm and end around 11pm. A fire would be set up in the middle of the road with 18 roof tiles placed in a circle on the ground. Each tile represented one of the 18 levels of hell. As the ceremony began, the priest would recite some Cantonese incantations, then jump over the fire and break one tile by stepping on it, repeating the entire sequence until all 18 tiles were broken. This signified that all the 18 levels of hell had been invaded and that the rescue attempt was a success. Occasionally, during the ceremony, the priest would also take a mouthful of spirit and blow it out onto the fire to create a more dramatic spectacle.[^43]
+This was an elaborate open-air ceremony lasting several hours. The ceremony would begin around 7.30pm and end around 11pm. A fire would be set up in the middle of the road with 18 roof tiles placed in a circle on the ground. Each tile represented one of the 18 levels of hell. As the ceremony began, the priest would recite some Cantonese incantations, then jump over the fire and break one tile by stepping on it, repeating the entire sequence until all 18 tiles were broken. This signified that all 18 levels of hell had been invaded and that the rescue attempt was a success. Occasionally, during the ceremony, the priest would also take a mouthful of spirit and blow it out onto the fire to create a more dramatic spectacle.[^43]
 
 The priest would convey a simple message through the incantations, asking the spirits to assist the dead in his or her journey through the afterlife.
 
-Family members would observe the ceremony and carry out various funeral rituals as directed by the priest, such as walking around the coffin in circles to seek protection for the dead in hell and burn joss papers as offerings to the dead. Wealthier families also offered burnt offerings in the form of paper mansions, servants, television sets, and cars as a show of filial piety, as they believed that these riches would follow the dead to hell and make life in the underworld more comfortable.[^44]
+Family members would observe the ceremony and carry out various funeral rituals as directed by the priest, such as walking around the coffin in circles to seek protection for the dead in hell and burn joss paper as offerings to the dead. Wealthier families also gave burnt offerings in the form of paper mansions, servants, television sets, and cars as a show of filial piety, as they believed that these riches would follow the dead to hell and make life in the underworld more comfortable.[^44]
 
 As there were several death houses along Sago Lane during the 1930s, this ceremony was a commonplace sight at night and a draw for “overseas visitors with a morbid interest in the dead and dying”.[^45]
 
