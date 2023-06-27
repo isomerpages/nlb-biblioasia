@@ -39,9 +39,18 @@ image: /images/Vol 3 Issue 4/EducationReforms/classroom scene.jpg
 
 从这两位文人的文教活动来看，在编著实际和适宜当时环境的 教材和文艺书籍来说，他们俩可说是开了先河。他们的举动也拉近了当时新加坡 中、西文化界彼此的距离。同时，为新式教育和社会对教育的要求，奠下基础。
 
+<img src="/images/Vol%203%20Issue%204/EducationReforms/萧虹生诗钞1.jpg" style="width:50%;">
+ <div style="background-color: white;">图六: 《萧虹生诗钞自序》。</div>
+
 以邱菽园来说，普及教育，积极参与学校的创办和改编生硬难懂的四书五经，出版 适合幼童学习的《浅字文》、《新出千字文》，是对当时侨教的实际贡献。学校有 适宜使用的教材才能够持续。他与其他海峡殖民地华人创办的学校在当时相信也 自然的成为其他华人社群建立新式教育学校的借鉴。
 
+<img src="/images/Vol%203%20Issue%204/EducationReforms/萧虹生诗钞自序.jpg" style="width:50%;">
+ <div style="background-color: white;">图七: 《萧虹生诗钞》卷一首页。 闽海邱炜 菽园甫著。</div>
+
 另一方面，以曾锦文来说，他所翻译的中国章回小说或许对当时的教育事业并未 有直接的贡献。但是，对整体的社会改革，提倡各文化的交流，有着一定的作用。 列如在大约一个世纪后，1960年代，新马政治上“马来亚化”的阶段，马来文被誉 为新马人民的“国语”时。曾锦文早在19世纪所翻译的中国章回小说，正符合了 1960年代的政治、社会局面。
+
+<img src="/images/Vol%203%20Issue%204/EducationReforms/邱菽园诗作%20—.jpg" style="width:50%;">
+ <div style="background-color: white;">图八：邱菽园诗作 —“种树”。</div>
 
 从曾锦文和邱菽园的文教活动过程中，我们可以看到新加坡在19世纪初，在教育 以及社会改革方面，有着本土的领导先驱。
 
