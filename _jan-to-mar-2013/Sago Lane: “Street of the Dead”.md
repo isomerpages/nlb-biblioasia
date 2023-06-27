@@ -161,9 +161,9 @@ The land in front of Sago Street and Sago Lane, bound by South Bridge Road and B
 
 [Death houses now refuse the living](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620911-1.2.28). (1962, September 11). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
-[‘Dead quiet’ business…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751023-1.2.27). (1975, October 23). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+[‘Dead quiet’ business…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751023-1.2.27) (1975, October 23). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
-Boon, C.T. (1950, September 3). [Chinatown Speakers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500903-1.2.27). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+Boon, C.T. (1950, September 3). [Chinatown speakers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500903-1.2.27). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
 Buddha Tooth Relic Temple and Museum. (n.d.). _History of Sago Lane_. Retrieved from Buddha Tooth Relic Temple and Museum website.
 
@@ -177,7 +177,7 @@ Chan, K.S. (2001, October 15). [Paper chase in afterlife](http://eresources.nlb.
 
 Chan, K.S. (2002, February 4). [Take me to watercart street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020204-1.2.52.5.2). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
-Chan, Y. (2012). _Sago to Go–Our Pioneering Manufacturing Export_. Retrieved from National Archives of Singapore website.
+Chan, Y. (2012). _Sago to Go – Our Pioneering Manufacturing Export_. Retrieved from National Archives of Singapore website.
 
 Chua, C.H.J. (Interviewer). (1999, May 21). [_Oral history interview with Chua Chye Chua_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7ce38c96-1160-11e3-83d5-0050568939ad) (MP3 recording no. 002140/23/01\]. Retrieved from National Archives of Singapore website.
 
@@ -187,7 +187,7 @@ Goh, G. (1998, June 3). [Take me to The Great Horse Way](http://eresources.nlb.g
 
 Haifeez, M. (1978). [_Reminiscent Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1439661). New York: Vantage Press. (Call no.: RSING 959.57 HAI)
 
-Keye, A. W. (2004). [_Chinatown: Different exposures_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284981). Singapore: Fashion21. (Call no.: RSING 959.57 KEY)
+Keye, A.W. (2004). [_Chinatown: Different exposures_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284981). Singapore: Fashion21. (Call no.: RSING 959.57 KEY)
 
 Lee, P. (Interviewer). (2003, June 22). [_Oral history interview with Lo Hong Ling_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6536c17a-1160-11e3-83d5-0050568939ad) \[MP3 recording no. 002770/10/19\]. Singapore: National Archives of Singapore
 
@@ -197,15 +197,15 @@ Lowe-Ismail, G. (1998). [_Chinatown memories_](https://eservice.nlb.gov.sg/item_
 
 Savage, V.R., &amp; Yeoh, B.S.A. (2003). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
-Singapore City Council. (1958). _Minutes of the Proceedings of the City Council of Singapore, September 17_. (pp. 4–5). \[Microfilm: R0031457\]. Singapore: The Council. (Not available in NLB holdings)
+Singapore City Council. (1958). _Minutes of the Proceedings of the City Council of Singapore, September 17_ (pp. 4–5). \[Microfilm: R0031457\]. Singapore: The Council. 
 
 Sit, Y.F. (1983). [_Tales of Chinatown_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082299). Singapore: Heinemann Asia. (Call no.: RSING 070.44939 SIT)
 
-Suan, K.L. (1971, June 6). [Only thing down is cost of dying…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710606-1.2.62). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+Suan, K.L. (1971, June 6). [Only thing down is cost of dying…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710606-1.2.62) _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
 Tan, A., &amp; Quek, E. (2007, May 31). [Colourful start to Vesak Day festivities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070531-2.2.58.27.1). _The Straits Times_, p. 67. Retrieved from NewspaperSG.
 
-Thulaja, Naidu Ratnala. (2016). [_Sago Lane_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html). Retrieved from Singapore Infopedia website.
+Thulaja, N.R. (2016). [_Sago Lane_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html). Retrieved from Singapore Infopedia website.
 
 Tyers, R.K. (1993). [_Ray Tyers’ Singapore: Then and now_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
@@ -220,9 +220,9 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^2]: [Savage and Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758), 2003, p. 337.
 
-[^3]: Chan, K.S. (1999, March 13). [No love lost for the old ‘street of the dead’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990313-1.2.103.4.7). _The Straits Ti_mes, p. 7. Retrieved from NewspaperSG.
+[^3]: [Chan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990313-1.2.103.4.7), 13 Mar 1999, p. 7.
 
-[^4]: Chan, K.S. (2002, February 4). [Take me to watercart street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020204-1.2.52.5.2). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+[^4]: [Chan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020204-1.2.52.5.2), 4 Feb 2002, p. 6.
 
 [^5]: Chan, 2012.
 
@@ -240,7 +240,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^12]: Chan, 1999, p. 3. &nbsp;
 
-[^13]: [The Street of the Houses of the Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44). (1948, September 25). _The Singapore Free Press_, p. 4. Retrieved from NewspaperSG.
+[^13]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44), 25 Sep 1948, p. 4.
 
 [^14]: Chan, 1999, p. 8.
 
