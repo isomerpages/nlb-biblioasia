@@ -7,7 +7,7 @@ description: "“Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two
   and Selected Place Poems were officially launched on 29th September by Mr S
   Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd."
 ---
-#### “Edwin Thumboo—Time-Travelling: A Poetry Exhibition” and two accompanying publications, <i>Edwin Thumboo: Time-Travelling—A Select Annotated Bibliography</i> as well as <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> were officially launched on 29 September by Mr S. Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd.
+#### “Edwin Thumboo – Time-Travelling: A Poetry Exhibition” and two accompanying publications, <i>Edwin Thumboo: Time-Travelling – A Select Annotated Bibliography</i> as well as <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> were officially launched on 29 September by Mr S. Dhanabalan, Chairman, Temasek Holdings (Pte) Ltd.
 
 
 
@@ -100,7 +100,7 @@ The multisensory installations displayed in the Main Exhibition reveal both the 
 Framed by the Edwin Thumboo Collection as well as the Singapore and Southeast Asian English Literature Collections, the Main Exhibition highlights Thumboo’s literary influences and the critical role he plays as a poet, critic and scholar of Singapore English-language literature, as well as in promoting and developing the literary arts scene in Singapore and the region.
 
 <div>
-<b>Michelle Heng</b> is a Librarian with the National Library Arts division. She curated the exhibition "Edwin Thumboo—Time-Travelling: A Poetry Exhibition". She edited <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> and was also the co-compiler and joint editor of <i>Edwin Thumboo—Time-Travelling: A Selected Annotated Bibliography</i>.
+<b>Michelle Heng</b> is a Librarian with the National Library Arts division. She curated the exhibition "Edwin Thumboo – Time-Travelling: A Poetry Exhibition". She edited <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> and was also the co-compiler and joint editor of <i>Edwin Thumboo – Time-Travelling: A Selected Annotated Bibliography</i>.
 <br><br>
-<b>Gwee Li Sui</b> is an independent researcher, literary critic, poet and graphic artist. He is the joint editor and compiler of <i>Edwin Thumboo—Time-Travelling: A Selected Annotated Bibliography</i>. He obtained his doctorate in 2003 from Queen Mary, University of London, for his work on 18th-century European literature and lectured full-time at the National University of Singapore until 2009.
+<b>Gwee Li Sui</b> is an independent researcher, literary critic, poet and graphic artist. He is the joint editor and compiler of <i>Edwin Thumboo – Time-Travelling: A Selected Annotated Bibliography</i>. He obtained his doctorate in 2003 from Queen Mary, University of London, for his work on 18th-century European literature and lectured full-time at the National University of Singapore until 2009.
 </div>
