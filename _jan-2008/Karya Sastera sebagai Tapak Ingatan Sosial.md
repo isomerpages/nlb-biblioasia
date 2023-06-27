@@ -10,7 +10,7 @@ description: "Memory plays an important role in our life. It forms a bridge
 
  <i> “Maria meninggalkan Nadra di Malaya, tetapi dia tahu orang-orang yang dikasihinya di Malaya tidak akan dapat hidup bersama Nadra lagi, kerana Nadra kini hanya sebuah bayangan. Nadra kini hanya sebuah cerita manis yang tiba-tiba diberhentikan. Siapakah yang sanggup menceritakannya kembali kepada semua?” </i> 
 
-* (ANC, ms 257)*
+*(ANC, ms 257)*
 
 Ingatan mempunyai peranan dalam kehidupan kita sama ada ingatan peribadi mahupun ingatan bersama kita sebagai sebuah kumpulan masyarakat. Ia memberi ruang untuk kita kembali ke masa lalu dengan mengingati kembali sesuatu yang pernah berlaku dan berlalu. Namun, ingatan bukanlah hanya sekadar ingatan. Ia memenuhi keperluan masa kini dengan melalui proses mencapai dan membentuk bahan-bahan yang didapati pada masa lalu (Ritterhouse: 2003). Ia juga menjadi jambatan penghubung antara masa kini dan lalu. Ingatan sosial atau ingatan yang dikongsi bersama sesebuah kelompok masyarakat atau sesuatu bangsa itu dapat membentuk jati diri masyarakat itu melalui satu proses penakrifan yang berterusan sejarah mereka.
 
@@ -88,9 +88,13 @@ Ingatan-ingatan sosial yang terdapat dalam ketiga-tiga novel itu mencetuskan pel
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LITERARY WORKS AS SITES FOR SOCIAL MEMORY</b><br><br>
 Memory plays an important role in our life. It forms a bridge between the past and the present. Our shared social memories could help in the development of identity as a community in a continuous process. Places, events and characters are some elements that could trigger social memories, which are readily accessible through literary works. This is illustrated in the article through the three novels, <i>Atas Nama Cinta</i>, <i>Mail Mau Kawin</i> and <i>Batas Langit</i>.
-
-
-
-
-
 </div>
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
+<center><b>Juffri Supa'at</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
+
+
+
