@@ -24,7 +24,8 @@ sections:
         between them before the war. Who are they?
       button: Listen to BiblioAsia+
       url: /podcast/tennis/
-      alt: Image alt text
+      alt: prewar Malayan tennis
+      image: /images/Vol 19 Issue 1/Tennis/image2.png
   - infopic:
       title: A New Podcast on Stories about Singapore's Past
       subtitle: Podcast
