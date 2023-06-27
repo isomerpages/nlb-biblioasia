@@ -2,11 +2,33 @@
 title: 新加坡十九世纪华人教育的改革 The Reform of Chinese Education in Singapore in the
   Nineteenth Century
 permalink: /vol-3/issue4/jan-2008/reform-chinese-education/
-description: "Education reforms and the modernisation of education in Singapore
+description: Education reforms and the modernisation of education in Singapore
   and Malaya are often attributed to political changes in China during the early
   20th century. Few remember the contributions of local intellectuals in
   spearheading education reforms before the 1900s. These reformers were
   multicultural both in their background and outlook. Two notable pioneers in
-  this field are Chan Kim Boon and Khoo Seok Wan. "
+  this field are Chan Kim Boon and Khoo Seok Wan.
 image: /images/Vol 3 Issue 4/EducationReforms/classroom scene.jpg
 ---
+#### Education reforms and the modernisation of education in Singapore and Malaya are often attributed to political changes in China during the early 20th century. Few remember the contributions of local intellectuals in spearheading education reforms before the 1900s. These reformers were multicultural both in their background and outlook. Two notable pioneers in this field are Chan Kim Boon and Khoo Seok Wan.
+
+新加坡十九世纪初的教育改革往往都与中国当时的政治变化挂钩。 然而，当时在新加坡的一些人士的活动，对教育改革、以及整个社会的 改革起着一股推动力。这些人士不仅受过教育，有些还游刃于中西文 化。他们的多重文化背景使他们成为领导旧式教育改革的最佳人选。
+
+在这群人当中，两位值得我们注意的人士包括了曾锦文（1851–1920）和邱菽园 (1874–1941)。他们两位在海峡殖民地受过教育和工作，是当时文化界的活跃 分子。
+
+曾锦文出生于槟城，在槟城大英义学 （Penang Free School）接受英文教育。1 他 不仅懂得英文和华文，也通晓马来文。1866年，其父亲送他回中国福州马尾水师学 堂就读。毕业后，曾锦文续任该校的数学教师，一直到1872年。他首先回到槟城。 两个月后，他到新加坡的某间律师楼任书记一职。曾锦文在业余的时候从事中国 章回小说的 马来文翻译工作(图一)。十二、三年内，他完成十八部作品。其中包 括： 凤娇与李丹》、《五美人》、《三国》、《今古奇观》、《聊斋》、《包公案》、 《施公案》等。当中，Chrita dahulu-kala di triak Song kang 108 P'rompak atau Swui Hnoh di zaman "Song Teow" 宋江》(图二、三、四、五)、Chrita dahulu-kala pasal Kou Chey Thian man-gawal-kan Tong Thye Chu pergi di negri Seh Thian C'hu Keng 等书目仍有存本保留在李光前参考馆。
+
+邱菽园小时候寄养在澳门姑妈家，直到七岁才到新加坡来。在他15岁时（即1888 年），他随父母返福建省海澄县应科举考试。2 六年后，他科举中榜，考中举人。两 年后，他返回新加坡。父亲不幸那年逝世。他送父柩回中国。事后，游长江及华北， 就此，结识维新派人士。1897年，当他再度返新加坡后，与林文庆创办《天南新 报》，鼓吹变法维新（保皇会）。当时的“丽泽社”和“会吟社”也是由他设立的。他 也常应华文报章之邀，为每月撰文比赛之总裁判。邱的主要著作包括两部诗集： 菽园诗集》、《萧虹生诗钞》(图六、七、八)和两部笔记：《菽园赘谈》、《五百石洞 天挥麈》。柯木林在书中称他为：“新华社会乃至东南亚华人社 会之闻人”。3
+
+当邱菽园在1897年再度回到新加坡时，他对当时的侨教做了一 些具体的贡献。首先，他有感到受过教育的女子在抚育下一代 时，起着关键的作用。于是，在1899年，他与林文庆等人创办新 加坡华人女校 (Singapore Chinese Girls’School)。是年， 他还出版《浅字文》一书，以供该校的教学需要。此书从出版到 1902年间，一共再版三次。邱菽园也觉察到旧式私塾所使用的 千字文》对当时的幼童来说，深奥难懂。《千字文》中的词汇， 晦涩难解。学童即使念了几年，未能掌握此书，有些甚至还不懂 得写自己的名字。邱菽园于是重编《千字文》，使该书成为适用 的教材。4 1902 年，他利用了原书中的479字，另加上521新字，编 写了《新出千字文》。身为一个科举举人，再加上他对诗文创作 的造诣，相信《新出千字文》一书在当时也甚受欢迎。
+
+从这两位文人的文教活动来看，在编著实际和适宜当时环境的 教材和文艺书籍来说，他们俩可说是开了先河。他们的举动也拉近了当时新加坡 中、西文化界彼此的距离。同时，为新式教育和社会对教育的要求，奠下基础。
+
+以邱菽园来说，普及教育，积极参与学校的创办和改编生硬难懂的四书五经，出版 适合幼童学习的《浅字文》、《新出千字文》，是对当时侨教的实际贡献。学校有 适宜使用的教材才能够持续。他与其他海峡殖民地华人创办的学校在当时相信也 自然的成为其他华人社群建立新式教育学校的借鉴。
+
+
+
+
+
+
+
