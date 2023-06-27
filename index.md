@@ -25,7 +25,7 @@ sections:
       button: Listen to BiblioAsia+
       url: /podcast/tennis/
       alt: prewar Malayan tennis
-      image: /images/Vol 19 Issue 1/Tennis/image2.png
+      image: /images/Podcast/ba tennis abhishek.jpg
   - infopic:
       title: A New Podcast on Stories about Singapore's Past
       subtitle: Podcast
