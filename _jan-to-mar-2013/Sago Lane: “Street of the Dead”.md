@@ -26,7 +26,7 @@ In the mid-19th century, sago was a major export of Singapore. Raw sago that was
 
 Chinatown then was divided informally into distinct dialect enclaves, with the Cantonese residing in and around areas such as Smith Street, Sago Lane, Sago Street, Pagoda Lane, Trengganu Street, Temple Street, Club Street, Ann Siang Hill, Keong Saik Street and up to South Bridge Road and New Bridge Road.[^8]
 
-Sago Lane gained its unsavoury reputation in Singapore, when death houses began operating in the area in the mid-19th century. Death houses were also established along Spring Street, opposite the Metropole Theatre.
+Sago Lane gained its unsavoury reputation when death houses began operating in the area in the mid-19th century. Death houses were also established along Spring Street, opposite the Metropole Theatre.
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Sago%20Lane/sago%20lane.jpeg">
@@ -38,23 +38,23 @@ Sago Lane gained its unsavoury reputation in Singapore, when death houses began 
 
 Prior to World War II, residents in Chinatown lived in very crowded, squalid and unsanitary conditions.
 
-By the turn of the century, Chinatown occupied a spatial extent of only about 2 square km but contained one-third of the municipal population, that is, over 66,000 people of which the overwhelming majority (91%) were Chinese.[^10]
+<center>By the turn of the century, Chinatown occupied a spatial extent of only about 2 square km but contained one-third of the municipal population, that is, over 66,000 people of which the overwhelming majority (91%) were Chinese.[^10]</center>
 
-After 1930, there was a marked extension of squatter settlements in the City area due to an ‘overflow’ of population from the slums of Chinatown. Most of the household residents…lived in the kind of accommodation generally associated with urban squattering. A further 23 percent of the population lived in shop houses or row houses type accommodation. Well over half of all households in such accommodation lived within the congested central area in Singapore – a total \[of\] 47,000 households out of 89,800.[^11]
+<center>After 1930, there was a marked extension of squatter settlements in the City area due to an ‘overflow’ of population from the slums of Chinatown. Most of the household residents…lived in the kind of accommodation generally associated with urban squattering. A further 23 percent of the population lived in shop houses or row houses type accommodation. Well over half of all households in such accommodation lived within the congested central area in Singapore – a total \[of\] 47,000 households out of 89,800.[^11]</center>
 
 Many of the poor and lower-income people resided as a family unit in monthly rented cubicles, with six to seven cubicles (averaging 2 metres by 3 metres) being partitioned and subdivided on a single storey level (24 to 30 metres in length) of a two- to four-storey shophouse.
 
-Nearly half of all households lived in housing where a single toilet \[a shared wooden latrine bucket that was emptied daily\] had to serve 20 or more equivalent adults.[^12]
+<center>Nearly half of all households lived in housing where a single toilet \[a shared wooden latrine bucket that was emptied daily\] had to serve 20 or more equivalent adults.[^12]</center>
 
-The small, dingy, airless and horribly cramped quarters provided poor living conditions particularly for the elderly who had contracted terminal diseases, were bedridden and nearing death. As the able-bodied adults had to work long hours leaving no one to care for the infirmed elderly, many who were hovering on the brink of death were sent to the “Sick Receiving Houses” by their families. This was also motivated in part by a commonly held Chinese superstition that evil spirits would haunt the house where a person had died and it was very costly to conduct an exorcism to make the house habitable again for the living.[^13]
+The small, dingy, airless and horribly cramped quarters provided poor living conditions particularly for the elderly who had contracted terminal diseases, were bedridden and nearing death. As the able-bodied adults had to work long hours, thus leaving no one to care for the infirmed elderly, many on the brink of death were sent to the “Sick Receiving Houses” by their families. This was also motivated in part by a commonly held Chinese superstition that evil spirits would haunt the house where a person had died, and it was very costly to conduct an exorcism to make the house habitable again for the living.[^13]
 
-A few of the critically ill who were without relatives and who had a bit of money to spare also voluntarily chose to live out their last days at the death houses instead of the clean and sanitised environs of a modern hospital, having resigned themselves to their *fook sau* (lacking long life) fate. Some were also terminally ill patients who had been discharged from the hospital and left there to pass on.
+A few of the critically ill who were without relatives and had a bit of money to spare also voluntarily chose to live out their last days at the death houses instead of the clean and sanitised environs of a modern hospital, having resigned themselves to their *fook sau* (lacking long life) fate. Some were also terminally ill patients who had been discharged from the hospital and left there to pass on.
 
-Many terminally ill or very elderly women, particularly those who were *sor hei* (*amahs* who vow not to marry), often shunned hospitals, preferring to die in Death Houses…One reason was their suspicion of Western medicine and the other was the wish to be attended to by their “sisters”; even in death, they did not want to be touched or handled by men.[^14]
+<center>Many terminally ill or very elderly women, particularly those who were *sor hei* (*amahs* who vow not to marry), often shunned hospitals, preferring to die in Death Houses… One reason was their suspicion of Western medicine and the other was the wish to be attended to by their “sisters”; even in death, they did not want to be touched or handled by men.[^14]</center>
 
 The proprietors of these death houses charged different lodging rates depending on the health of their occupants, with those who were nearing imminent death paying less. A hundred and fifty dollars was the standard charge, including a $10 admission fee and $1 a day for the night and day attendants, including “the fee for laying the dead out in the funeral silken robes that every Chinese, no matter how poor, hopes to be buried in”.[^15]
 
-In a death house, when a resident had ceased breathing, a doctor would be called in to certify the death. The corpses of those who had just passed on would have their faces covered in red or yellow paper[^16] and their bodies would be draped in straw mats prior to being placed in coffins, which were then sealed up and placed on the ground floor to lie in state while awaiting burial. As embalming was not a common practice then, the corpses would start to rot, giving off a stench after a day or two, particularly if there were three to four coffins placed together at a time.[^17]
+In a death house, when a resident had ceased breathing, a doctor would be called in to certify the death. The corpses of those who had just passed on would have their faces covered in red or yellow paper[^16] and their bodies would be draped in straw mats before being placed in coffins, which were then sealed up and placed on the ground floor to lie in state while awaiting burial. As embalming was not a common practice then, the corpses would start to rot, giving off a stench after a day or two, particularly if there were three to four coffins placed together at a time.[^17]
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/Sago%20Lane/death%20house%20ceremony%20death%20rites%20in%20progress-HQ.jpeg">
@@ -62,7 +62,7 @@ In a death house, when a resident had ceased breathing, a doctor would be called
 	
 The ground floor also accommodated the critically ill and poverty-stricken residents, while those who could afford to pay more stayed on the second and third storeys. Many residents were emaciated, with some suffering vocally in pain, while others slept quietly, but all were waiting for their time to die.[^18]
 
-In an oral history interview from the National Archives, Dr Lo Hong Ling, who was a medical doctor practising in Smith Street during the 1960s, described many instances of how people who were on their death beds would start to see and hear strange things when they closed their eyes at night, such as the clanking of chains and the sensation of being dragged away by people wearing the faces of bulls and cows.[^19]
+In an oral history interview from the National Archives, Dr Lo Hong Ling, who was a medical doctor practising at Smith Street during the 1960s, described many instances of how people who were on their death beds would start to see and hear strange things when they closed their eyes at night, such as the clanking of chains and the sensation of being dragged away by people wearing the faces of bulls and cows.[^19]
 
 At Kwok Mun, one of the oldest licensed death house establishments, wooden bunks arranged dormitory style were provided for the residents with separate male and female wards located on the upper floors. “Kwok Mun occupied two shophouses standing sideby-side at Sago Lane. The ground floor of one shophouse serve\[d\] as the admission room. The other was the mortuary”.[^20]
 
