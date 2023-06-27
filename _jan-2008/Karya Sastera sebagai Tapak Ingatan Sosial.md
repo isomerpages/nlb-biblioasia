@@ -96,5 +96,39 @@ Memory plays an important role in our life. It forms a bridge between the past a
 <img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
 <center><b>Juffri Supa'at</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
+#### **RUJUKAN**
+
+Dydia DeLyser, “Recovering Social Memories From the Past: The 1884 Novel Ramona and Tourist Practices in Turen-of-the-Century Southern California,” _Social and Culture Geography_ 5, no. 3 (2004): 483–96.
+
+Eric Mechoulan and Roxanne Lapidus, “The Past Is Now,” _SubStance_ 32, no. 1 (2003): 40–43. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Isa Kamari, [_Atas Nama Cinta_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801985) (Kuala Lumpur: Al-Ameen Serve Holdings, 2006). (Call no. Malay R 899.283 ISA)
+
+Jeffrey K. Olick, “Introduction: Memory and the Nation: Continuities, Conflicts and Transformations,” _Social Science History_ 22, no. 4 (Winter 1998): 377–87. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Jeffrey K. Olick and Joyce Robbins, “Social Memory Studies: From "Collective Memory" to the Historical Sociology of Mnemonic Practices,” _Annual Review of Sociology_ 24 (1998): 105–40. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Jennifer Ritterhouse, “Reading, Intimacy, and the Role of Uncle Remus in White Southern Social Memory,” _The Journal of Southern History_ 69, no. 3 (August 2003): 585–622. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+“Kuan Yew Says Happy To Rejoin Malaysia if…,” _Bernama Daily Malaysian News_, 11 Oktober 2007.
+
+Linda Hutcheon, _A Poetics of Postmodernism_ (New York: Routledge, 1988)
+
+Mana Sikana, [_Teori Sastera Kontemporari_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12600381) (Selangor: Pustaka Karya, 2005). (Call no. Malay R 899.2809 MAN)
+
+Mas, [_Mail Mau Kawin_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140469) (Singapura: Pustaka Nasional, 1976). (Call no. Malay RSING S899.2305 MAS)
+
+Mohamed Latiff Mohamed, [_Batas Langit_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11721585) (Singapura: Pustaka Nasional, 2002). (Call no. Malay RSING 899.283 MOH)
+
+Muhammad Farouq Osman, “[Upset Over MM Lee’s Re-Merger Comments](https://eresources.nlb.gov.sghttps:/eresources.nlb.gov.sg/newspapers/digitised/articles/straitstimes20071020-2.2.72.1),” _Straits Times_, 20 October 2007, 60. (From NewspaperSG)
+
+Patrick L. O’ Connell, “Individual and Collective Identity Through Memory in Three Novels of Argentina’s ‘El Proceso’,” _Hispania_ 81, no. 1 (March 1998): 31–41. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Patrick L. O’ Connell, “Narrating History Through Memory in Three Novels of Post-Pinochet Chile,” _Hispania_ 84, no. 2 (May 2001): 181–92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Richard R. Flores, “Memory-Place, Meaning and the Alamo,” _American Literary History_ 10, no. 3 (Autumn 1998): 428–45. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Wulf Kansteiner, “Finding Meaning in Memory: A Methodological Critique of Collective Memory Studies,” _History and Theory_ 41, no. 2 (May 2002): 179–97. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
 
 
