@@ -296,7 +296,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^40]: Yeo, [_Oral history interview with Sew Teng Kwok_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e97b245-1160-11e3-83d5-0050568939ad), 18 Oct 1999.
 
-[^41]: Suan, K.L. (1971, June 6). [Only thing down is cost of dying…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710606-1.2.62). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+[^41]: [Suan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710606-1.2.62), 6 Jun 1971, p. 10.
 
 [^42]: [Sit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082299), 1983, p. 144.
 
@@ -314,15 +314,15 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^49]: Buddha Tooth Relic Temple and Museum, 2012.
 
-[^50]: Singapore City Council, 1958, pp. 4—5.
+[^50]: Singapore City Council, 1958, pp. 4–5.
 
-[^51]: Singapore City Council, 1958, pp. 4—5.
+[^51]: Singapore City Council, 1958, pp. 4–5.
 
-[^52]: Singapore City Council, 1958, pp. 4—5.
+[^52]: Singapore City Council, 1958, pp. 4–5.
 
 [^53]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710606-1.2.62), 6 Jun 1971, p. 10.
 
-[^54]: Goh, G. (1998, June 3). [Take me to The Great Horse Way](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980603-1.2.80.3.4). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+[^54]: [Goh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980603-1.2.80.3.4), 3 Jun 1998, p. 3.
 
 [^55]: [‘Dead quiet’ business…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751023-1.2.27). (1975, October 23). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
