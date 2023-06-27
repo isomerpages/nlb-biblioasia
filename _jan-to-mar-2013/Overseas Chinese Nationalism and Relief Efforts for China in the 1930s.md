@@ -9,7 +9,7 @@ description: Dr Jason Lim reviews the contents of the Singapore Chinese Chamber
 
 <img style="width:50%;" src="/images/Vol%208%20issue%204/ChinaReliefEfforts/020000751_cover%20(chinese%20nationalism).jpg">
  <div style="background-color: white;">
-Cover of 新加坡中华总商会筹赈中国难民委员会大 世界游艺会特刊 / \[编辑者廖哲焕, 王少平\] <i>Published by 新加坡中华总商会, </i>1932.	
+Cover of 《新加坡中华总商会筹赈中国难民委员会大 世界游艺会特刊》<i>Published by 新加坡中华总商会, 1932</i>.	
 </div>
 
 
