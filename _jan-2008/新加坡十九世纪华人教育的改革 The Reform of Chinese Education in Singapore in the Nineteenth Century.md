@@ -26,6 +26,17 @@ image: /images/Vol 3 Issue 4/EducationReforms/classroom scene.jpg
 
 以邱菽园来说，普及教育，积极参与学校的创办和改编生硬难懂的四书五经，出版 适合幼童学习的《浅字文》、《新出千字文》，是对当时侨教的实际贡献。学校有 适宜使用的教材才能够持续。他与其他海峡殖民地华人创办的学校在当时相信也 自然的成为其他华人社群建立新式教育学校的借鉴。
 
+另一方面，以曾锦文来说，他所翻译的中国章回小说或许对当时的教育事业并未 有直接的贡献。但是，对整体的社会改革，提倡各文化的交流，有着一定的作用。 列如在大约一个世纪后，1960年代，新马政治上“马来亚化”的阶段，马来文被誉 为新马人民的“国语”时。曾锦文早在19世纪所翻译的中国章回小说，正符合了 1960年代的政治、社会局面。
+
+从曾锦文和邱菽园的文教活动过程中，我们可以看到新加坡在19世纪初，在教育 以及社会改革方面，有着本土的领导先驱。
+
+#### **Straits Chinese Pioneering Education Reforms in the 19th Century**
+
+Education reforms and the modernisation of education in Singapore and Malaya have always been identified as influenced by the political changes in China during the early 20th century. Few remember the contributions of the local intellectuals in as far as leading educational reforms before the 1900s is concerned. These reformers were multicultural both in their background and outlook, and were perhaps pioneers in setting the foundation for modernising and indigenising the old curricula before the winds of change in the 20th century brought about revolutionary transformations.
+
+Two notable pioneers in this field are Chan Kim Boon (1851–1920) and Khoo Seok Wan (1874–1941). Chan Kim Boon had a command of English, Chinese and the Malay language. In his spare time, he translated 18 Chinese vernacular novels into Bahasa Melayu-Tionghoa, a Chinesestyle Malay language used by the Straits-born Chinese. Khoo Seok Wan was a scholar trained in the Chinese classics and who had sat for the Imperial Civil Service Examination in China. He wrote and revised two Chinese classics so that students at the primary schools here in Singapore could have some texts that they could really learn from instead of the difficult to understand classics in their original forms.
+
+These pioneers were way ahead of their time in the creation of practical materials for education for local use. However, more pertinently, we can see that the path towards modernity, localisation and pragmatism with regards to Chinese educational matters was not entirely externally motivated. We had our pioneers.
 
 
 
