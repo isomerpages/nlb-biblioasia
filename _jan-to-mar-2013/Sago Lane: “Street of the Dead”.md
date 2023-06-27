@@ -76,7 +76,7 @@ Relatives and friends would wait in the death house and gather near the dying pe
 
 Wealthier families held dinner feasts outside the death house as a pre-departure memorial for the dying relative. Families would borrow money at up to 20 percent interest rates, incurring debts to fund such death watches.[^26]
 
-The landlord, caretaker, workers and cleaners of the death house also lived on the premises, in quarters behind the ground floor. Death houses were open 24 hours a day with staff working on two shifts, a day and a night shift.[^27]
+The landlord, caretaker, workers and cleaners of the death house also lived on the premises, in quarters behind the ground floor. Death houses were open 24 hours a day with staff working two shifts, a day and a night shift.[^27]
 
 In 1948, there were seven death houses in Singapore, among which two were licensed by the municipal health authorities as “Sick Receiving Houses” while the rest were unlicensed.[^28] Two well-known and licensed Sick Receiving Houses at Sago Lane were Fook Sau and Kwok Mun.[^29]
 
