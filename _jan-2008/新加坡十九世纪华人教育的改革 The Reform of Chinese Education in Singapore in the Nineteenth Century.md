@@ -49,7 +49,7 @@ image: /images/Vol 3 Issue 4/EducationReforms/classroom scene.jpg
 
 另一方面，以曾锦文来说，他所翻译的中国章回小说或许对当时的教育事业并未 有直接的贡献。但是，对整体的社会改革，提倡各文化的交流，有着一定的作用。 列如在大约一个世纪后，1960年代，新马政治上“马来亚化”的阶段，马来文被誉 为新马人民的“国语”时。曾锦文早在19世纪所翻译的中国章回小说，正符合了 1960年代的政治、社会局面。
 
-<img src="/images/Vol%203%20Issue%204/EducationReforms/邱菽园诗作%20—.jpg" style="width:50%;">
+<img src="/images/Vol%203%20Issue%204/EducationReforms/邱菽园诗作%20—.jpg" style="width:80%;">
  <div style="background-color: white;">图八：邱菽园诗作 —“种树”。</div>
 
 从曾锦文和邱菽园的文教活动过程中，我们可以看到新加坡在19世纪初，在教育 以及社会改革方面，有着本土的领导先驱。
