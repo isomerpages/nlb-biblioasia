@@ -18,5 +18,9 @@ archived.
 
 The National Library Board (NLB) recently launched the EnterpriseOne Business Information Services (EBIS) for Singapore-based small and medium sized enterprises. Led by the Singapore Business Federation (SBF), the multi-agency initiative includes NLB, SPRING Singapore and International Enterprise (IE) Singapore. EBIS aims to empower enterprises in Singapore to become more knowledge-enabled, innovative and information savvy. More information on EBIS can be found at www.ebis.sg.
 
+We thank you for your support and look forward to seeing you at the National Library. Happy reading and do keep your comments and feedback coming!
+
+ <b>Ms Ngian Lek Choh </b><br> Director<br> National Library
+
 
 
