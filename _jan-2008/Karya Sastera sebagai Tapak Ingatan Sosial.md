@@ -10,7 +10,7 @@ description: "Memory plays an important role in our life. It forms a bridge
 
  <i> “Maria meninggalkan Nadra di Malaya, tetapi dia tahu orang-orang yang dikasihinya di Malaya tidak akan dapat hidup bersama Nadra lagi, kerana Nadra kini hanya sebuah bayangan. Nadra kini hanya sebuah cerita manis yang tiba-tiba diberhentikan. Siapakah yang sanggup menceritakannya kembali kepada semua?” </i> 
 
-                                              (ANC, ms 257)
+* (ANC, ms 257)*
 
 Ingatan mempunyai peranan dalam kehidupan kita sama ada ingatan peribadi mahupun ingatan bersama kita sebagai sebuah kumpulan masyarakat. Ia memberi ruang untuk kita kembali ke masa lalu dengan mengingati kembali sesuatu yang pernah berlaku dan berlalu. Namun, ingatan bukanlah hanya sekadar ingatan. Ia memenuhi keperluan masa kini dengan melalui proses mencapai dan membentuk bahan-bahan yang didapati pada masa lalu (Ritterhouse: 2003). Ia juga menjadi jambatan penghubung antara masa kini dan lalu. Ingatan sosial atau ingatan yang dikongsi bersama sesebuah kelompok masyarakat atau sesuatu bangsa itu dapat membentuk jati diri masyarakat itu melalui satu proses penakrifan yang berterusan sejarah mereka.
 
@@ -25,6 +25,7 @@ Walaupun ketiga-tiga novel ini ditulis oleh 3 orang penulis yang lahir dari gene
 Novel MMK dan ANC telah menampilkan kawasan Kampung Jawa atau Bussorah Street sementara novel BL telah mempunyai kawasan Geylang sebagai antara latar di dalam novel. Sebagaimana yang diketahui umum, tempattempat ini adalah tempat kunjungan masyarakat Melayu terutama ketika bulan Ramadan dan untuk mencari bahanbahan keperluan. Contoh-contoh yang boleh didapati melalui novel-novel ini ialah:
 
 <i>“Mini-minor 850 Cikgu Manaf merangkak dari Arab Street, masuk ke Muscat Street mencari parking lot. Semua parking lot penuh. Dia terus ke Kandahar Street, juga penuh. Terus menyusuri Kandahar Street dan membelok ke kiri, Pahang Street; masuk kiri lagi, Sultan Gate. Di depan gerbang istana Kampung Gelam baru dapat tempat yang cukupcukup untuk mini-minor. Di depan istana yang 146 tahun dulu menjadi tempat rakyat Singapura berdatang sembah itu, Cikgu Manaf meletakkan keretanya.”</i>  
+
 *(MMK, ms 87)*
 																								
 <i>“Parks dan kumpulannya menuju ke arah Masjid Sultan melalui Beach Road dan kemudian memasuki Arab Street. Mereka berhenti sekitar tiga ratus kaki daripada masjid Sultan. Kumpulan Haxworth pula mendekati Masjid Sultan melalui Sultan Gate di hadapan tanah lapang dekat dengan bangunan Istana Kampong Gelam yang bersejarah itu. Livett memandu keretanya melalui Middle Road, North Bridge Road sampai ke Kandahar Street.” </i>
@@ -88,8 +89,3 @@ Ingatan-ingatan sosial yang terdapat dalam ketiga-tiga novel itu mencetuskan pel
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LITERARY WORKS AS SITES FOR SOCIAL MEMORY</b><br><br>
 Memory plays an important role in our life. It forms a bridge between the past and the present. Our shared social memories could help in the development of identity as a community in a continuous process. Places, events and characters are some elements that could trigger social memories, which are readily accessible through literary works. This is illustrated in the article through the three novels, Atas Nama Cinta, Mail Mau Kawin and Batas Langit.
 </div>
-
-
-
-
-
