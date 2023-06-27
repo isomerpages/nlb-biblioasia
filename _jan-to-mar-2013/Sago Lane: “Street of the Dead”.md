@@ -324,11 +324,11 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^54]: [Goh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980603-1.2.80.3.4), 3 Jun 1998, p. 3.
 
-[^55]: [‘Dead quiet’ business…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751023-1.2.27). (1975, October 23). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+[^55]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751023-1.2.27), 23 Oct 1975, p. 3.
 
-[^56]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p.192.
+[^56]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p. 192.
 
-[^57]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p.192.
+[^57]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p. 192.
 
 [^58]: [Thulaja](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html), 2005. &nbsp;
 
