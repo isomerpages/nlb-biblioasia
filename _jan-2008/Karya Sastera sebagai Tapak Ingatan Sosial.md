@@ -46,8 +46,6 @@ Penulis pasca moden meletakkan penceritaan mereka dalam konteks sejarah untuk te
 
 Teori *New Historisisme* (Mana Sikana, 2005), merenung sastera sebagai teori pensejarahan baru yang “menyusur masa silam dengan memberi makna kekinian”, namun karya sastera sebagai tapak ingatan sosial hanya membawa pembaca kembali mengenang ke masa lalu yang boleh mengugah perasaan pembaca, terutama bagi mereka yang pernah melalui zaman itu atau yang pernah mengalami sendiri peristiwa itu atau mungkin saja bagi yang pernah mendengar cerita-cerita itu. Sebagai contoh, kita boleh menukil kisah pendudukan Jepun di Singapura yang terdapat di dalam novel MMK ini.
 
-![](/images/Vol%203%20Issue%204/KaryaSastera/langit.jpg)
-
 <img src="/images/Vol%203%20Issue%204/KaryaSastera/langit.jpg" style="width:50%;">
  <div style="background-color: white;">All rights reserved, Singapura: Pustaka Nasional, 1976.</div>
 
