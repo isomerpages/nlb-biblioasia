@@ -21,11 +21,11 @@ sections:
       title: Malaya's Prewar Tennis Greats
       subtitle: Podcast
       description: Two tennis greats won 9 Malaya Cups and 12 Singapore Championships
-        between them before the war. Who are they?
+        between them before the war. Who were they?
       button: Listen to BiblioAsia+
       url: /podcast/tennis/
       alt: prewar Malayan tennis
-      image: /images/Vol 19 Issue 1/Tennis/image2.png
+      image: /images/Podcast/ba tennis abhishek.jpg
   - infopic:
       title: A New Podcast on Stories about Singapore's Past
       subtitle: Podcast

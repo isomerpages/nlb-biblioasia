@@ -17,7 +17,7 @@ The first Japanese translation of *John’s Gospel and His Epistles* was printed
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-4/mar-2012/einstein-lunch/">Lunch with Mr Einstein</a><br>Author *Meira Chand* shares this unpublished chapter of her book, *A Different Sky*. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_EinsteinLunch.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-4/mar-2012/einstein-lunch/">Comic Books: As Windows into a Singapore of the 1980s and 1990s</a><br>While seeming unlikely, Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights *Unfortunate Lives* and *Mr Kiasu* and unpacks what they reveal about the past two decades. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_ComicBooks.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-4/mar-2012/singapore-comic-books/">Comic Books: As Windows into a Singapore of the 1980s and 1990s</a><br>While seeming unlikely, Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights *Unfortunate Lives* and *Mr Kiasu* and unpacks what they reveal about the past two decades. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_ComicBooks.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-4/mar-2012/graphic-novel-english-language/">An Experimental Study: Using Graphic Novels to Teach English Language in Secondary Schools in Singapore</a><br>
 Novelist *Clarence Lee* investigates the effectiveness, plausibility and implications of using graphic novels in the teaching of English.  [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_GraphicNovels.pdf)
