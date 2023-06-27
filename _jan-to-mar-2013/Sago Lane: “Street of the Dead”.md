@@ -290,7 +290,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^37]: [_The Singapore Free Press_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480925-1.2.44), 25 Sep 1948, p. 4.
 
-[^38]: Chan, 1999, pp. 52—53. &nbsp;
+[^38]: Chan, 1999, pp. 52–53. 
 
 [^39]: Yeo, [_Oral history interview with Sew Teng Kwok_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e97b245-1160-11e3-83d5-0050568939ad), 18 Oct 1999.
 
