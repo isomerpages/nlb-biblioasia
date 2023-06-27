@@ -85,6 +85,10 @@ Ingatan sosial menpunyai peranan di dalam kehidupan kita pada masa kini. Ingatan
 
 Ingatan-ingatan sosial yang terdapat dalam ketiga-tiga novel itu mencetuskan pelbagai perasaan terhadap pembaca. Ia bukan rujukan sejarah tetapi tetap merujuk kepada sejarah dan pengabungan sejarah dan sastera. Penceritaan begini dapat menjadi sumber yang dasar untuk kita memahami bagaimana sesuatu peristiwa yang lalu itu dibentuk dan prosesnya membantu dalam pencarian jati diri (O’Connell, 1998).
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LITERARY WORKS AS SITES FOR SOCIAL MEMORY</b><br><br>
+Memory plays an important role in our life. It forms a bridge between the past and the present. Our shared social memories could help in the development of identity as a community in a continuous process. Places, events and characters are some elements that could trigger social memories, which are readily accessible through literary works. This is illustrated in the article through the three novels, Atas Nama Cinta, Mail Mau Kawin and Batas Langit.
+</div>
+
 
 
 
