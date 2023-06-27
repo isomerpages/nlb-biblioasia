@@ -105,7 +105,7 @@ The coffins used for the poor were basic makeshift constructions: four planks of
 
 Burial was the norm among the Chinese and the burial ground of choice among the Cantonese during the 1950s to 1970s was at Kampong San Teng (where the Bishan housing estate is currently located).[^39]
 
-It was – and still is – a Chinese custom to hold a wake lasting for a duration of an odd number of days, such as three, five or seven days, partly out of superstition and also to allow time for far flung relatives to come and pay their respects at the wake. The Chinese believed that holding a wake for an even number of days was unlucky, as it would cause the same event, that is death, to occur again.[^40] Prolonging the duration of the wake and hence incurring a heftier bill was also seen as an indication of one’s social status.[^41] The caretakers at the death houses would help to look after the corpses during the wake, easing the burden on family members who were expected to keep vigil 24 hours a day.
+It was – and still is – a Chinese custom to hold a wake lasting a duration of an odd number of days, such as three, five or seven days, partly out of superstition and also to allow time for far-flung relatives to come and pay their respects. The Chinese believed that holding a wake for an even number of days was unlucky, as it would cause the same event – death – to occur again.[^40] Prolonging the duration of the wake and hence incurring a heftier bill was also seen as an indication of one’s social status.[^41] Caretakers at the death houses would help look after the corpses during the wake, easing the burden on family members who were expected to keep vigil 24 hours a day.
 
 #### **“Breaking of Hell” Ceremony**
 
