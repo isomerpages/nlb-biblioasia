@@ -43,3 +43,16 @@ These pioneers were way ahead of their time in the creation of practical materia
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Tong%20Bao%20.jpg">
 <center><b>Wee Tong Bao</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
+
+#### **NOTES**
+
+[^1]: Ke Mulin 柯木林, _Xin hua li shi ren wu lie zhuan_ [新华历史人物列传](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628) \[Who’s who in the Chinese Community of Singapore\] (Xinjiapo 新加坡: Jiao yu chu ban gong si 新加坡宗乡会馆联合总会, 1995), 191–2. (Call no. Chinese RSING 959.570092 WHO)
+
+[^2]: Ke Mulin, [_Xin hua li shi ren wu lie zhuan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628), 102–3.
+
+[^3]: Ke Mulin, [_Xin hua li shi ren wu lie zhuan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628), 102.
+
+[^4]: Yao Mengtong 姚梦桐, “邱菽园和 ‘千字文’,” _亚洲文化_ (1986), 57.
+
+
+
