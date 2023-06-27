@@ -145,7 +145,7 @@ This article is about preserving dying legacies in cemeteries. From the lessons 
 
 <b> Acknowledgements</b> 
 <br><br>
-<i>The writer would like to thank the following persons and institutions in no particular order: Azizah Sidek, Dr Kevin Tan, Julie from Antiques of the Orient, Goh Si Guim, Dato’ Rahim Ramli, Dr Frances Hutchinson, Dr Ooi Kee Beng, Dr Saroja Dorairajoo, the National Archives of Singapore and the National Archives of Malaysia (Johor Branch).</i>
+<i>The writer would like to thank the following individuals and institutions (in no particular order): Azizah Sidek, Dr Kevin Tan, Julie from Antiques of the Orient, Goh Si Guim, Dato’ Rahim Ramli, Dr Frances Hutchinson, Dr Ooi Kee Beng, Dr Saroja Dorairajoo, the National Archives of Singapore and the National Archives of Malaysia (Johor Branch).</i>
 
 <div>
 <b>Kartini Saparudin</b> has been working for the National Library for six years. She has written on the history of Bukit Brown Cemetery, the study of women’s magazines in the 1950s and 1960s and Hadhrami historiography. She compiled and edited two bibliographies, <i>Sources on Family History: A Select Bibliography</i> and <i>The Hadhrami Arabs in Southeast Asia with Special Reference to Singapore: An Annotated Bibliography</i>. Her upcoming project, a major exhibition on family history, will be launched in July 2013.
