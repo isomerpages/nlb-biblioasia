@@ -121,7 +121,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^5]: Janek Schergen, interview, 21 December 2022.
 
-[^6]: Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” HuffPost, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
+[^6]: Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” *HuffPost*, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
 
 [^7]: “The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
 
