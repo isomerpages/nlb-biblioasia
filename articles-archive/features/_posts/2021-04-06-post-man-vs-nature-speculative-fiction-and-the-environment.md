@@ -120,7 +120,7 @@ Through their prose, the writers ask the all-important question – “What if?�
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-17-issue-1/authors/Jacqueline_lee.png" style="width: 100px; height: 100px;">
+<img src="/images/Vol-17-issue-1/authors/Jacqueline_Lee.png" style="width: 100px; height: 100px;">
 <b>Jacqueline Lee</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.
 </div>
 
