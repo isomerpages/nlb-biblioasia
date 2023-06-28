@@ -197,7 +197,7 @@ Bringing the winding odyssey of past lyrical-sojourners at the beginning of this
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-17-issue-1/authors/michelle_heng.png" style="width: 100px; height: 100px;">
+<img src="/images/Vol-17-issue-1/authors/Michelle_Heng.png" style="width: 100px; height: 100px;">
 <b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She curated the tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition”, in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo titled <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012) as well as the <i>Selected Poems of Goh Poh Seng</i> (2013).
 </div>
 
