@@ -155,7 +155,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^22]: Ong, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10).”
 
-[^23]: “Singapore Dance Theatre Co-founder Anthony Then Dies,” Straits Times, 19 December 1995, 24. (From NewspaperSG)
+[^23]: “[Singapore Dance Theatre Co-founder Anthony Then Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951219-1.2.33.7),” Straits Times, 19 December 1995, 24. (From NewspaperSG)
 
 [^24]: Janek Schergen, interview, 21 December 2022.
 
