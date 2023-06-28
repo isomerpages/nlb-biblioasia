@@ -107,13 +107,13 @@ Pee, S. (2012, September 19). _Interview with the History Workroom_. Retrieved f
 
 Richardson, M. (1999, December 20). Singapore identity crisis? Youths would rather be white or Japanese. _International Herald Tribune_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time-Travelling, A Poetry Exhibition", 29 September 2012.
+Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time Travelling, A Poetry Exhibition”, 29 September 2012.
 
-Speech by Professor Edwin Thumboo at the launch of “Edwin Thumboo, Time Travelling, A&nbsp; poetry exhibition”. 29 September 2012.
+Speech by Professor Edwin Thumboo at the launch of “Edwin Thumboo, Time Travelling, A Poetry Exhibition”, 29 September 2012.
 
 Tan, Y.L. (2001, May 2). Don’t demolish identity markers. _The Straits Times_. &nbsp;Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography_, 17 (1), 52–65.
+Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography, 17_(1), 52–65.
 
 
 #### **NOTES**
@@ -121,7 +121,7 @@ Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in hist
   
 
 
-[^1]: Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time Travelling, A poetry exhibition, 29 September 2012.
+[^1]: Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time Travelling, A Poetry Exhibition”, 29 September 2012.
 
 [^2]: Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography_, _17_ (1), 52–65.
 
@@ -129,7 +129,7 @@ Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in hist
 
 [^4]: Yeoh &amp; Kong, 1996, p. 57.
 
-[^5]: Pee, S. (2012, September 19). _Interview with The History Room_. Retrieved from iremembersg
+[^5]: Pee, S. (2012, September 19). _Interview with The History Workroom_. Retrieved from iremembersg.
 
 [^6]: Yeoh &amp; Kong, 1996, p. 58.
 
@@ -137,11 +137,11 @@ Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in hist
 
 [^8]: Richardson, M. (1999, December 20). Singapore identity crisis? Youths would rather be white or Japanese. _International Herald Tribune_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^9]: Speech by Professor Edwin Thumbo at the launch of “Edwin Thumboo, Time Travelling, &nbsp;&nbsp;A Poetry Exhibition”. 29 September 2012.
+[^9]: Speech by Professor Edwin Thumboo at the launch of “Edwin Thumboo, Time Travelling, &nbsp;&nbsp;A Poetry Exhibition”, 29 September 2012.
 
 [^10]: Yeoh &amp; Kong, 1996, p. 56.
 
-[^11]: Speech by Professor Edwin Thumbo, 29 Sep 2012. &nbsp;
+[^11]: Speech by Professor Edwin Thumboo, 29 Sep 2012.
 
 [^12]: Heng, M. (2012). Introduction. In E. Thumboo, [_Singapore word maps: A chapbook of Edwin Thumboo’s new and selected place poems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14468403) (p. 8). Singapore: National Library. (Call no.: RSING S821 THU)
 
