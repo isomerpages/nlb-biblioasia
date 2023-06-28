@@ -107,7 +107,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/thammika.png">
-	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
+	<b>Thammika Songkaeo</b> is a resident of Singapore and the creative producer of <i>Changing Room</i> (www.twoglasses.org), a dance film and interactive screening experience. A student of ballet, Latin and street styles, she holds a Master of Fine Arts degree in creative writing from the Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania. </div>
 	
 #### **NOTES**
 
