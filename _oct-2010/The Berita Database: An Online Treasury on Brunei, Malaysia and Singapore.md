@@ -39,11 +39,6 @@ The far reach of these online resources is clearly demonstrated by the fact that
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Photojferrier%20orig%20v2.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Ferrier.jpg" style="width: 100px; height: 100px;">
 <center><b>Jeffrey L. Ferrier</b><br>Curator<br> Center for International Collections<br> Ohio University Libraries</center></div>
-
-
-
-
-
