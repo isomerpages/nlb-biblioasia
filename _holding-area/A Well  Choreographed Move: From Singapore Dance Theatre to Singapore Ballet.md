@@ -143,7 +143,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, [Touches: 10 Years of the Singapore Dance Theatre](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9248084) (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
 
-[^17]: Ong Teng Cheong, “Official Launch of the Singapore Dance Theatre,” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
+[^17]: Ong Teng Cheong, “[Official Launch of the Singapore Dance Theatre](https://www.nas.gov.sg/archivesonline/speeches/record-details/725e950c-115d-11e3-83d5-0050568939ad),” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
 
 [^18]: Germaine Cheng, Momentum: 25 Years of Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
 
