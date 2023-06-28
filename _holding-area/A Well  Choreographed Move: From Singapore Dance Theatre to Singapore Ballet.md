@@ -106,7 +106,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/thammika.png">
 	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
 	
 #### **NOTES**
