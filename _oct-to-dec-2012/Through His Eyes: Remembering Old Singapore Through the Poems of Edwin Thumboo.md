@@ -94,7 +94,7 @@ Thumboo’s poem, “Bukit Panjang, Hill, Village, Town” (and also one of his 
 Thumboo’s poetry functions in the same vein as old places – he uses text to recreate or even preserve physical spaces familiar to us, and infuses them with emotion, history and meaning, filling it with significance. His poetry documents our progress as a nation, through the changes in its landscape, marking out particular moments through his personal memories and experiences, his own thoughts and ruminations and then leaves us to our own reflections and conclusions. Both physical spaces as well as literary ones work in tandem to help to “preserve the past, \[and\] ensure the future”.
 
 <div>
-<b>Stephanie Pee</b> is an executive with the National Library Arts and the Singapore Memory Project team. She was an assistant senior editor with Marshall Cavendish before joining NLB.</div>
+<b>Stephanie Pee</b> is an executive with the National Library Arts and the Singapore Memory Project team. She was an assistant senior editor with Marshall Cavendish before joining the National Library Board.</div>
 
 #### **REFERENCES**
         
@@ -103,13 +103,13 @@ Gwee, L.S., &amp; Heng, M. (Eds.). (2012). [_Edwin Thumboo: Time-travelling: A s
 
 Heng, M. (2012). Introduction. In E. Thumboo, [_Singapore word maps: A chapbook of Edwin Thumboo’s new and selected place poems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14468403). Singapore: National Library Board. (Call no.: RSING S821 THU)
 
-Pee, S. (2012, September 19). _Interview with the history room_. Retrieved from iremembersg.
+Pee, S. (2012, September 19). _Interview with the History Workroom_. Retrieved from iremembersg.
 
 Richardson, M. (1999, December 20). Singapore identity crisis? Youths would rather be white or Japanese. _International Herald Tribune_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time Travelling, A poetry exhibition, 29 September 2012.
+Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time-Travelling, A Poetry Exhibition", 29 September 2012.
 
-Speech by Professor Edwin Thumbo at the launch of “Edwin Thumboo, Time Travelling, A&nbsp; poetry exhibition”. 29 September 2012.
+Speech by Professor Edwin Thumboo at the launch of “Edwin Thumboo, Time Travelling, A&nbsp; poetry exhibition”. 29 September 2012.
 
 Tan, Y.L. (2001, May 2). Don’t demolish identity markers. _The Straits Times_. &nbsp;Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
