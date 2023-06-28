@@ -147,7 +147,7 @@ Visit the <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibition
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-17-issue-1/authors/georgina_wong.png" style="width: 100px; height: 100px;">
+<img src="/images/Vol-17-issue-1/authors/Georgina_Wong.png" style="width: 100px; height: 100px;">
 <b>Georgina Wong</b> is a Curator with Programmes &amp; Exhibitions at the National Library, Singapore. She is co-curator of the “Human x Nature: Environmental Histories of Singapore” exhibition.
 </div>
 
