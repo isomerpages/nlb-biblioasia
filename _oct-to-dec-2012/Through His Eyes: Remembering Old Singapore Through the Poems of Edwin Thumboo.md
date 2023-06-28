@@ -8,14 +8,14 @@ description: Singapore’s landscape is one that has undergone many changes
   race to document, remember and hold onto what Singapore was – and by proxy,
   ourselves.
 ---
-#### Singapore’s landscape is one that has undergone many changes through the ages, and has come a long way from rural _kampongs_ and swaplands. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and by proxy, ourselves.
+#### Singapore’s landscape is one that has undergone many changes through the ages. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and, by proxy, what we are.
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Edwin%20Thumboo.jpg">
  <div style="background-color: white;">Courtesy of Edwin Thumboo.
 </div>
 
-Literature, like places, is also a recorder of history and a documentarian (however reliable) of passing time. As Mr S. Dhanabalan said, “literature is the keeper of a nation’s history for it deals with people’s lives, their small and big moments. It records their dreams, challenges, joy and pain through novels, plays and poems. Poets like Edwin Thumboo record for us permanently the people in our society and their history, their small everyday actions and the big life-changing moments, both public and personal.”[^1]
+Literature, like places, is also a recorder of history and a documentarian (however reliable) of passing time. As Mr S. Dhanabalan said, “[L]iterature is the keeper of a nation’s history for it deals with people’s lives, their small and big moments. It records their dreams, challenges, joy and pain through novels, plays and poems. Poets like Edwin Thumboo record for us permanently the people in our society and their history, their small everyday actions and the big life-changing moments, both public and personal.”[^1]
 
 Remembering old Singapore and holding onto the spirit of old times are integral to Professor Edwin Thumboo’s poetry. Thumboo is one of Singapore’s most prominent poets and his works – in particular, his place poems – afford us glimpses into Singapore’s history.Having lived through Singapore’s pre- and post-independence days, Thumboo’s poetry brings to life our nation’s past and struggles, the atmosphere of days gone by and also showcases her progress and changing physical landscape.
  
@@ -97,7 +97,7 @@ Thumboo’s poetry functions in the same vein as old places – he uses text to 
 #### **REFERENCES**
         
 
-Gwee, L.S., & Heng, M. (Eds.). (2012). [_Edwin Thumboo: Time-travelling: A selected annotated bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14470981). Singapore: National Library Board. (Call no.: RSING S821 EDW)
+Gwee, L.S., &amp; Heng, M. (Eds.). (2012). [_Edwin Thumboo: Time-travelling: A selected annotated bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14470981). Singapore: National Library Board. (Call no.: RSING S821 EDW)
 
 Heng, M. (2012). Introduction. In E. Thumboo, [_Singapore word maps: A chapbook of Edwin Thumboo’s new and selected place poems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14468403). Singapore: National Library Board. (Call no.: RSING S821 THU)
 
@@ -107,11 +107,11 @@ Richardson, M. (1999, December 20). Singapore identity crisis? Youths would rath
 
 Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time Travelling, A poetry exhibition, 29 September 2012.
 
-Speech by Professor Edwin Thumbo at the launch of “Edwin Thumboo, Time Travelling, A  poetry exhibition”. 29 September 2012.
+Speech by Professor Edwin Thumbo at the launch of “Edwin Thumboo, Time Travelling, A&nbsp; poetry exhibition”. 29 September 2012.
 
-Tan, Y.L. (2001, May 2). Don’t demolish identity markers. _The Straits Times_.  Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Tan, Y.L. (2001, May 2). Don’t demolish identity markers. _The Straits Times_. &nbsp;Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Yeoh, B., & Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography_, 17 (1), 52–65.
+Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography_, 17 (1), 52–65.
 
 
 #### **NOTES**
@@ -121,36 +121,30 @@ Yeoh, B., & Kong, L. (1996). The notion of place in the construction in history,
 
 [^1]: Speech by Mr S. Dhanabalan at the launch of “Edwin Thumboo, Time Travelling, A poetry exhibition, 29 September 2012.
 
-[^2]: Yeoh, B., & Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography_, _17_ (1), 52–65.
+[^2]: Yeoh, B., &amp; Kong, L. (1996). The notion of place in the construction in history, nostalgia and heritage in Singapore. _Singapore Journal of Tropical Geography_, _17_ (1), 52–65.
 
-[^3]: Yeoh & Kong, 1996, pp. 52–65.
+[^3]: Yeoh &amp; Kong, 1996, pp. 52–65.
 
-[^4]: Yeoh & Kong, 1996, p. 57.
+[^4]: Yeoh &amp; Kong, 1996, p. 57.
 
 [^5]: Pee, S. (2012, September 19). _Interview with The History Room_. Retrieved from iremembersg
 
-[^6]: Yeoh & Kong, 1996, p. 58.
+[^6]: Yeoh &amp; Kong, 1996, p. 58.
 
-[^7]: Tan, Y.L. (2001, May 2). Don’t demolish identity markers. _The Straits Times_.  Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^7]: Tan, Y.L. (2001, May 2). Don’t demolish identity markers. _The Straits Times_.&nbsp; Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^8]: Richardson, M. (1999, December 20). Singapore identity crisis? Youths would rather be white or Japanese. _International Herald Tribune_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^9]: Speech by Professor Edwin Thumbo at the launch of “Edwin Thumboo, Time Travelling,   A Poetry Exhibition”. 29 September 2012.
+[^9]: Speech by Professor Edwin Thumbo at the launch of “Edwin Thumboo, Time Travelling, &nbsp;&nbsp;A Poetry Exhibition”. 29 September 2012.
 
-[^10]: Yeoh & Kong, 1996, p. 56.
+[^10]: Yeoh &amp; Kong, 1996, p. 56.
 
-[^11]: Speech by Professor Edwin Thumbo, 29 Sep 2012.  
+[^11]: Speech by Professor Edwin Thumbo, 29 Sep 2012. &nbsp;
 
 [^12]: Heng, M. (2012). Introduction. In E. Thumboo, [_Singapore word maps: A chapbook of Edwin Thumboo’s new and selected place poems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14468403) (p. 8). Singapore: National Library. (Call no.: RSING S821 THU)
 
 [^13]: [Heng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14468403), 2012, p. 7.
 
-[^14]: Yeoh & Kong, 1996, p. 61.
+[^14]: Yeoh &amp; Kong, 1996, p. 61.
 
 [^15]: [Heng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14468403), 2012, p. 9.
-
-
-
-
-
-
