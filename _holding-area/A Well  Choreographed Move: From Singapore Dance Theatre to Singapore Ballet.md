@@ -112,37 +112,70 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^1]: Janek Schergen, interview, 21 December 2022.
 
-Goh-Lee Soonee, oral history interview by Mark Wong, 24 July 2012, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 003755) 
-“Her World Woman of the Year 2008: Goh Soo Khim,” Her World, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
-Goh-Lee Soonee, oral history interview, Reel/Disc 2 of 4. 
-Janek Schergen, interview, 21 December 2022.
-Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” HuffPost, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
-“The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
-“The Ascent of Goh Choo San,” Singapore Monitor, 5 June 1984, 18. (From NewspaperSG)
-“The Dancer and the Dance (1982) (Mikhail Baryshnikov Documentary - Full HQ),” Youtube, 9 September 2022, https://www.youtube.com/watch?v=9piDxc-CWiE.
-“The Ascent of Goh Choo San.”
-Sharon Teng, “Goh Choo San,” in Singapore Infopedia. National Library Board Singapore. Article published 2016.
-Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” SPAFA Journal 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
-“Goh Choo San,” Off Stage, 12 October 2016, https://www.esplanade.com/offstage/arts/goh-choo-san.
-Janek Schergen, interview, 21 December 2022.
-Janek Schergen, interview, 21 December 2022; “Goh Choo San Dies,” Business Times, 1 December 1987, 20. (From NewspaperSG)
-Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, Touches: 10 Years of the Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
-Ong Teng Cheong, “Official Launch of the Singapore Dance Theatre,” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
-Germaine Cheng, Momentum: 25 Years of Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
-Lisa Lee, “All for the Love of Dance,” Business Times, 21 March 1988, 11. (From NewspaperSG) 
-Lee, “All for the Love of Dance.”
-Ong Soh Chin, “Singapore Dance Theatre to Move into Fort Canning Home,” Straits Times, 30 March 1990, 31. (From NewspaperSG); Cheng, Momentum: 25 Years of Singapore Dance Theatre, 1.
-Ong, “Singapore Dance Theatre to Move into Fort Canning Home.”
-“Singapore Dance Theatre Co-founder Anthony Then Dies,” Straits Times, 19 December 1995, 24. (From NewspaperSG)
-Janek Schergen, interview, 21 December 2022.
-Janek Schergen, interview, 21 December 2022.
-Janek Schergen, interview, 21 December 2022.
-Jennifer Dunning, “Choo San Goh, a Choreographer Hailed for Inventive Dance Forms,” New York Times, 30 November 1987, https://www.nytimes.com/1987/11/30/obituaries/choo-san-goh-a-choreographer-hailed-for-inventive-dance-forms.html.
-Janek Schergen, interview, 21 December 2022.
-Jennifer Koh, “And Now, a Professional Dance Group,” Straits Times, 5 March 1988, 13. (From NewspaperSG)
-Janek Schergen, interview, 21 December 2022.
-“Janek Schergen,” Singapore Ballet, last accessed 5 May 2023, https://singaporeballet.org/artistic-team/janek-schergen/.
-Michelle Sciarrotta, “Janek Schergen: Interview with Singapore Dance Theatre’s AD,” TheatreArtLife, 25 December 2020, https://www.theatreartlife.com/dance/janek-schergen-interview-with-singapore-dance-theatres-ad/.
-Huang Lijie, “New Home for Singapore Dance Theatre,” Straits Times, 31 December 2012, 6. (From NewspaperSG)
-Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” Timeout, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
-“Singapore Ballet 2023 Season,” Ballet Herald, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
+[^2]: Goh-Lee Soonee, oral history interview by Mark Wong, 24 July 2012, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 003755) 
+
+[^3]: “Her World Woman of the Year 2008: Goh Soo Khim,” Her World, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
+
+[^4]: Goh-Lee Soonee, oral history interview, Reel/Disc 2 of 4. 
+
+[^5]: Janek Schergen, interview, 21 December 2022.
+
+[^6]: Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” HuffPost, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
+
+[^7]: “The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
+
+[^8]: “The Ascent of Goh Choo San,” Singapore Monitor, 5 June 1984, 18. (From NewspaperSG)
+
+[^9]: “The Dancer and the Dance (1982) (Mikhail Baryshnikov Documentary - Full HQ),” Youtube, 9 September 2022, https://www.youtube.com/watch?v=9piDxc-CWiE.
+
+[^10]: “The Ascent of Goh Choo San.”
+
+[^11]: Sharon Teng, “Goh Choo San,” in Singapore Infopedia. National Library Board Singapore. Article published 2016.
+
+[^12]: Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” SPAFA Journal 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
+
+[^13]: “Goh Choo San,” Off Stage, 12 October 2016, https://www.esplanade.com/offstage/arts/goh-choo-san.
+
+[^14]: Janek Schergen, interview, 21 December 2022.
+
+[^15]: Janek Schergen, interview, 21 December 2022; “Goh Choo San Dies,” Business Times, 1 December 1987, 20. (From NewspaperSG)
+
+[^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, Touches: 10 Years of the Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
+
+[^17]: Ong Teng Cheong, “Official Launch of the Singapore Dance Theatre,” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
+
+[^18]: Germaine Cheng, Momentum: 25 Years of Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
+
+[^19]: Lisa Lee, “All for the Love of Dance,” Business Times, 21 March 1988, 11. (From NewspaperSG) 
+
+[^20]: Lee, “All for the Love of Dance.”
+
+[^21]: Ong Soh Chin, “Singapore Dance Theatre to Move into Fort Canning Home,” Straits Times, 30 March 1990, 31. (From NewspaperSG); Cheng, Momentum: 25 Years of Singapore Dance Theatre, 1.
+
+[^22]: Ong, “Singapore Dance Theatre to Move into Fort Canning Home.”
+
+[^23]: “Singapore Dance Theatre Co-founder Anthony Then Dies,” Straits Times, 19 December 1995, 24. (From NewspaperSG)
+
+[^24]: Janek Schergen, interview, 21 December 2022.
+
+[^25]: Janek Schergen, interview, 21 December 2022.
+
+[^26]: Janek Schergen, interview, 21 December 2022.
+
+[^27]: Jennifer Dunning, “Choo San Goh, a Choreographer Hailed for Inventive Dance Forms,” New York Times, 30 November 1987, https://www.nytimes.com/1987/11/30/obituaries/choo-san-goh-a-choreographer-hailed-for-inventive-dance-forms.html.
+
+[^28]: Janek Schergen, interview, 21 December 2022.
+
+[^29]: Jennifer Koh, “And Now, a Professional Dance Group,” Straits Times, 5 March 1988, 13. (From NewspaperSG)
+
+[^30]: Janek Schergen, interview, 21 December 2022.
+
+[^31]: “Janek Schergen,” Singapore Ballet, last accessed 5 May 2023, https://singaporeballet.org/artistic-team/janek-schergen/.
+
+[^32]: Michelle Sciarrotta, “Janek Schergen: Interview with Singapore Dance Theatre’s AD,” TheatreArtLife, 25 December 2020, https://www.theatreartlife.com/dance/janek-schergen-interview-with-singapore-dance-theatres-ad/.
+
+[^33]: Huang Lijie, “New Home for Singapore Dance Theatre,” Straits Times, 31 December 2012, 6. (From NewspaperSG)
+
+[^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” Timeout, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
+
+[^35]: “Singapore Ballet 2023 Season,” Ballet Herald, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
