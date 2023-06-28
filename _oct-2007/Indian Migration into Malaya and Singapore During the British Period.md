@@ -58,15 +58,47 @@ Although it was seen as the most satisfactory solution for the growing demand fo
 
 Poor economic conditions, including the Great Depression of 1930s, led to a decrease in demand for labour and thus a decline of the kangany recruitment. It was fi nally abolished in 1938 when all assisted emigration was banned by the Indian Government. Nevertheless, Indians continued to migrate to Malaya as free labourers.
 
+#### **Profile of Migrants From 1800s In Malaya**
 
+Before the large movement of labour into Malaya in the 1800s, Indian settlements in Malaya comprised mostly merchants and traders. From the 19th century, Indians worked as labourers in the plantations and in harbour ports. Prior to World War Two, labourers were the most numerous immigrants to Malaya.
 
+The Indians arriving in Malaya as labourers were mainly from South India. Primarily because the Indian government had allowed recruitment for Malaya only from the Madras state, 90 percent of the labour migrants to Malaya were Tamil-speaking people. The rest of the migrants were Telegus and Malayalees from South India.
 
+On the other hand, those recruited by the government were a mixture from Madras (still the majority), Punjab, Rajputana, Maharashtra and Bengal (Arasaratnam, 1979, p. 15). From the 1820s, Indian labour was recruited directly by the Straits Settlements government for public and construction works, and municipal services. These were mainly English-educated South Indians and Ceylonese Tamils and Sikhs. The non-labour migrants tended to bring their families and relatives with them, thereby contributing to the Indian population growth.
 
+Indians also came to Malaya as sepoys, lascars, domestic servants and camp followers when they accompanied the British who were stationed in the Straits Settlements. Another group that came to Malaya were the convicts during the early years of the 19th century. They were involved in various projects involving hard labour.
 
+In the early years of the 20th century, Indians came in as lawyers, doctors, journalists, teachers and other university educated men.
 
+The phenomenal growth of Singapore also attracted various North Indian businessmen, such as the Parsees, Sindhis, Marwaris and Gujeratis. By the early years of the 20th century, Singapore was the centre of growth for Indian commerce. These businessmen established themselves as wholesalers and retailers. South Indian Muslims (many of whom were mostly descendants of the historic traders), including Malabar Muslims also arrived in Singapore (Arasaratnam, 1979, p. 35).
 
+Among the Indian commercial groups were the Chettiars, a Tamil caste of businessmen and financiers who moved into the Straits Settlements by the middle of 19th century. One of the important subgroups was the Nattukottai Chettiars.
 
+The migration of Indians as labourers declined after the war, while the migration of commercial and professional Indians predominated. Two acts were passed in 1953 that controlled the entry of Indians into Malaya, especially unskilled labour. Subsequently, only highly qualified professionals and technical personnel were allowed to enter the country. Unlike the labour migrants who were mainly Tamils, the latter type of migrants was more heterogeneous and hailed from different parts of India.
 
+#### **Arrival of Indians To Singapore**
+
+Indians were among the first migrants to arrive in Singapore. When Sir Stamford Raffles and William Farquhar landed in Singapore in 1819, they were accompanied by a trader from Penang, Narayana Pillay, and a troop of sepoys and a bazaar contingent. According to Sandhu, there is no record of Indians in Singapore when Raffles arrived (Sandhu, 1969, p. 178).
+
+Subsequently, Indian labourers began to arrive in Singapore too, as per the migration pattern seen elsewhere in Malaya. They were employed in the sugar, pepper and gambier cultivations. Two years later, there were 132 Indians out of a total population of 4,727. This figure excludes the military garrison and camp-followers (Sandhu, 1969, p. 178).
+
+When Singapore became a convict colony in 1825, Indian convicts in Bencoolen were transferred to Singapore. After 1860, Singapore was no longer used as a penal colony due to protests from the business community, but Indian convict labourers remained in Singapore till 1873 (Siddique, 1990, p. 9). While a few returned home, others married and settled down in Singapore, as shopkeepers, cow keepers/ milk-sellers, cart owners, or as public works employees.
+
+#### **Settlement Patterns of Indians in Singapore**
+
+Apart from the military garrisons, the majority of Indians in early Singapore had housed themselves in areas near to and around the city centre of the island. The initial settlement patterns of the Indians have been influenced by Raffles’ urban plan to allocate and create ethnic enclaves (A. Mani, 2006, p.791). Subsequently, Indians tended to settle in areas near to their places of employment.
+
+According to Siddique, five main areas of Indian concentrations in Singapore can be distinguished from the 1800s - namely, the Chulia and Market street areas, High Street areas, the Naval Base in Sembawang, the railway/ port areas of Tanjong Pagar and the Serangoon Road area (Siddique, 1990, p. 7).
+
+Prior to 1830s, the earliest concentration of Indians in Singapore (mainly Tamils) was in the Chulia and Market Street areas, which were situated at the western part of the commercial core, along Singapore River. “Most of these Indians were South Indian Chettiar and Tamil Muslim traders, financiers, money-changers, petty shopkeepers, and boatmen and other kinds of quayside workers” (Sandhu, 2006, p. 778; Siddique, 1990, p. 13). Indians also worked as doorkeepers and security men for commercial banks, offices and large stores in the commercial area, and carried out manual work in private residences within the European residential areas (A. Mani, 2006, p. 792).
+
+When the British established a military base in Singapore after 1920, they built a naval base in Sembawang and an airbase in Changi. Many Indians were employed to work in these bases, and as a result, settled in the surrounding villages. The number of Indians who lived in Chong Pang, Jalan Kayu, Nee Soon and Yew Tee were higher than the Chinese and Malay populations (A. Mani, 2006, p. 793). Hence Sembawang became the third area of Indian concentration.
+
+Another area of Indian concentration was the High Street area, which was occupied by Sindhi, Gujerati and Sikh cloth and electronics merchants. A few of the merchants also based themselves around Arab Street. Indians were also prominent in the areas around docks and railways at Tanjong Pagar. The latter group comprised mostly Tamils, Telegus and Malayalees.
+
+Serangoon Road was first populated by Indians engaged in cattle-related activities. When cattle rearing in Serangoon Road was prohibited in 1936, the area became more densely populated by small businesses and their families. From the 1880s, predominantly Tamil South Indian businessmen began to settle here and on Farrer Road. Serangoon Road became a dominantly Indian area when government accommodation for labourers (mostly Tamils) was established along the area. As the Indian convicts jail was located at Bras Basah Road, Indian prison employees and those providing laundry services and food supplies to the prisoners also tended to settle near the prison; mostly along Selegie and Serangoon Roads, and the arterial networks (Siddique, 1990, p. 13; Sandhu, 2006, p. 778).
+
+Besides the above areas of concentrations, Indians also settled near those areas set aside for plantations. The plantations hired mostly Indian labour, due to availability. As the plantations extended to Bukit Timah, Seletar, Pasir Panjang and Jurong, the Indian labourers tended to settle in these areas as well (Mani, 2006, p. 792).
 
 
 
