@@ -100,4 +100,49 @@ The name change in December 2021 was thus long overdue, according to Schergen. �
 #### **Always En Pointe**
 
 In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights of its season for the year are “Masterpiece in Motion” in July, which includes Goh Choo San’s Configurations originally created for Baryshnikov in 1978, “Ballet Under the Stars” in September and world premiere of Schergen’s Cinderella in December.35 Back in May, the company performed at Our Tampines Hub’s Festive Arts Theatre for the first time, stepping not only into the hearts of Singaporeans, but also into the heartlands. 
+
 After three and a half decades, Singapore Ballet has become a part of the nation’s artistic and cultural spirit. Today, as the company continues to carve out a path for itself, it can look towards to its future with hope. Armed with a new-found confidence in its identity, Singapore Ballet is poised to soar to greater heights.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
+	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
+	
+#### **NOTES**
+
+[^1]: Janek Schergen, interview, 21 December 2022.
+
+Goh-Lee Soonee, oral history interview by Mark Wong, 24 July 2012, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 003755) 
+“Her World Woman of the Year 2008: Goh Soo Khim,” Her World, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
+Goh-Lee Soonee, oral history interview, Reel/Disc 2 of 4. 
+Janek Schergen, interview, 21 December 2022.
+Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” HuffPost, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
+“The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
+“The Ascent of Goh Choo San,” Singapore Monitor, 5 June 1984, 18. (From NewspaperSG)
+“The Dancer and the Dance (1982) (Mikhail Baryshnikov Documentary - Full HQ),” Youtube, 9 September 2022, https://www.youtube.com/watch?v=9piDxc-CWiE.
+“The Ascent of Goh Choo San.”
+Sharon Teng, “Goh Choo San,” in Singapore Infopedia. National Library Board Singapore. Article published 2016.
+Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” SPAFA Journal 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
+“Goh Choo San,” Off Stage, 12 October 2016, https://www.esplanade.com/offstage/arts/goh-choo-san.
+Janek Schergen, interview, 21 December 2022.
+Janek Schergen, interview, 21 December 2022; “Goh Choo San Dies,” Business Times, 1 December 1987, 20. (From NewspaperSG)
+Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, Touches: 10 Years of the Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
+Ong Teng Cheong, “Official Launch of the Singapore Dance Theatre,” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
+Germaine Cheng, Momentum: 25 Years of Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
+Lisa Lee, “All for the Love of Dance,” Business Times, 21 March 1988, 11. (From NewspaperSG) 
+Lee, “All for the Love of Dance.”
+Ong Soh Chin, “Singapore Dance Theatre to Move into Fort Canning Home,” Straits Times, 30 March 1990, 31. (From NewspaperSG); Cheng, Momentum: 25 Years of Singapore Dance Theatre, 1.
+Ong, “Singapore Dance Theatre to Move into Fort Canning Home.”
+“Singapore Dance Theatre Co-founder Anthony Then Dies,” Straits Times, 19 December 1995, 24. (From NewspaperSG)
+Janek Schergen, interview, 21 December 2022.
+Janek Schergen, interview, 21 December 2022.
+Janek Schergen, interview, 21 December 2022.
+Jennifer Dunning, “Choo San Goh, a Choreographer Hailed for Inventive Dance Forms,” New York Times, 30 November 1987, https://www.nytimes.com/1987/11/30/obituaries/choo-san-goh-a-choreographer-hailed-for-inventive-dance-forms.html.
+Janek Schergen, interview, 21 December 2022.
+Jennifer Koh, “And Now, a Professional Dance Group,” Straits Times, 5 March 1988, 13. (From NewspaperSG)
+Janek Schergen, interview, 21 December 2022.
+“Janek Schergen,” Singapore Ballet, last accessed 5 May 2023, https://singaporeballet.org/artistic-team/janek-schergen/.
+Michelle Sciarrotta, “Janek Schergen: Interview with Singapore Dance Theatre’s AD,” TheatreArtLife, 25 December 2020, https://www.theatreartlife.com/dance/janek-schergen-interview-with-singapore-dance-theatres-ad/.
+Huang Lijie, “New Home for Singapore Dance Theatre,” Straits Times, 31 December 2012, 6. (From NewspaperSG)
+Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” Timeout, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
+“Singapore Ballet 2023 Season,” Ballet Herald, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
