@@ -7,7 +7,7 @@ permalink: /vol-17/issue-1/apr-jun-2021/
 ---
 Since the 19th century, nature in Singapore has been collected, studied, categorised and exploited. However, there have also been efforts to understand, protect, conserve and nurture. The changing relationship between humans and environment is the focus of this issue.
 
-<img src="/images/Vol-17-issue-1/cover.jpg">
+<img src="/images/covers/ba17-1.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/director-note"> Director's Note</a>
 
