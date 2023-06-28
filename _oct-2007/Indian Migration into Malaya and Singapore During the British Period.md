@@ -42,7 +42,30 @@ An increase in colonial agricultural activities in Malaya led to a demand for ma
 
 With the abolition of slavery in the British territories in 1833, there was an even bigger demand for labour. This demand was precipitated by the “Industrial Revolution and the development of large-scale production in Britain” and the need to tap the British colonies for raw materials (Sandhu, 1969, p. 48). It was easier to recruit labour to the Straits Settlements as they were under the Indian Government till 1867 and so Indian laws applied to them. Majority of the Indian labourers migrated to Malaya and Singapore as assisted labourers, via the indentured labour system or the kangany system, while a few came as free labourers.
 
-#### **INDENTURE LABOUR SYSTEMPenyingkapan Budaya dan Tradisi**
+#### **Indenture Labour System**
+
+The indenture labour system “provided the first complement of Indian labourer settlers to the Malay Peninsula” (Arasaratnam, 1979, p. 12). Under this system, the Indian labourer was “indentured” to the employer for a period of five years and was paid fixed wages. Often, most of the labourers renewed their indenture at the end of five years. Indentured labour was recruited mainly through private companies based in South India and, secondly through speculators, who recruited on their own.
+
+When the movement of labour to the Straits Settlements was legalised in 1872, the indenture period was reduced to three years. However, the indenture system was “riddled with abuses” as a result of poor living conditions, the questionable means of recruitment and the arduous ship journey, which caused high mortality and ill-health among the surviving passengers. Moreover the labourers were worked hard by theemployers and their indebtedness was often extended, while their wages were lower than those who had come as free labourers (Arasaratnam, 1979, p. 13–14) 
+
+With the rise of Indian nationalism, such a system was condemned as “near slavery”. The indenture system was finally abolished in 1910.
+
+#### **Kangany System**
+
+An alternative mode of recruiting labour for Malaya developed during the latter part of the 19th century. Known as the kangany system, it supplied most of the labour to the Malayan coffee and rubber plantations till 1938. Kangany is the Tamil word for overseer or superior. Unlike the indenture system whereby mostly males migrated, the kangany system paved the way for more families to migrate to Malaya.
+
+Although it was seen as the most satisfactory solution for the growing demand for labour, the kangany system was criticised by Indian nationalists as exploitative as it “induced persons to migrate under false pretences” (Arasaratnam, 1979, p. 19)
+
+Poor economic conditions, including the Great Depression of 1930s, led to a decrease in demand for labour and thus a decline of the kangany recruitment. It was fi nally abolished in 1938 when all assisted emigration was banned by the Indian Government. Nevertheless, Indians continued to migrate to Malaya as free labourers.
+
+
+
+
+
+
+
+
+
 
 
 
