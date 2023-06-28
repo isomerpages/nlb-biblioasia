@@ -3,6 +3,8 @@ title: "Giving Your Past a Present: The Gift of Remembering"
 permalink: /vol-8/issue-3/oct-dec-2012/past-present-gift/
 description: ""
 ---
+#### The Singapore Memory Project aims to document five million memories to remember Singapore through the eyes of its people.
+
 "If I had just passed these people on the streets, I would probably just brush past them without ever knowing the depth of the lives they have had and the stories they could tell.”
 
 Ruth was sharing her experience interviewing residents of the soon-to-be-relocated Rochor Centre. They were recounting how they continue to have communal dinners with their neighbours – a demonstration of the *bona fide* kampong spirit that some find so elusive in today’s Singapore.
