@@ -35,7 +35,7 @@ At one point, the third Goh sibling, Choo San, had been hailed by the *New York 
 
 Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,10 before eventually becoming the artistic director of the Washington Ballet in 1984.11
 
-That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.12 Inspired by the Washington Ballet – which had performed Choo San’s *In the Glow of the Night* and the internationally acclaimed13 Fives at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.14 
+That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.12 Inspired by the Washington Ballet – which had performed Choo San’s *In the Glow of the Night* and the internationally acclaimed13 *Fives* at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.14 
 
 Originally, the plan was that Choo San’s works  would provide the foundation of this new company’s repertoire. Fate, however, intervened. On 28 November 1987, Choo San died from an illness. He was only 39.15
 
@@ -50,7 +50,7 @@ Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong
 
 The fledgling SDT struggled financially in its initial years. Fortunately, Then and Soo Khim had friends who would help form SDT’s board (though none were particularly familiar with the professional world of dance), and together they were able to secure financial support from fundraisers and government bodies, such as the Ministry of Culture, which disbursed $70,000.18 
 
-This amount, however, was not sufficient to secure all their needs, a primary one being a suitable rehearsal space. In the beginning, SDT had to share space with the SBA and schedule its rehearsals only when SBA classes were not in session. The SBA studio was also not properly equipped for rehearsals. Business Times journalist Lisa Lee described the scene she had witnessed there in 1988:
+This amount, however, was not sufficient to secure all their needs, a primary one being a suitable rehearsal space. In the beginning, SDT had to share space with the SBA and schedule its rehearsals only when SBA classes were not in session. The SBA studio was also not properly equipped for rehearsals. *Business Times* journalist Lisa Lee described the scene she had witnessed there in 1988:
 
 “Hey your foot almost hit my face,” says one dancer.
 
@@ -68,11 +68,11 @@ Unfortunately, in December that year, the company suffered another major blow wh
 
 For help, the company looked abroad, and a number of renowned dancers, teachers and choreographers such as Timothy Gordon, David Peden, Andrea Pell, Maiqui Manosa, Paul de Masson and Edmund Stripe stepped in. They taught the company’s daily classes, ran rehearsals and took the repertoire onto the stage.
 
-Although Then and Soo Khim had been able to contribute their own original works – such as Concerto for VII (Then), Schumann Impressions (Then), Brahm’s Sentiments (Soo Khim) and Environmental Phrases (Soo Khim) – shaping the SDT to be an internationally recognised name required more, not only in terms of the number of dancers and works performed, but also in how the works would shape and create an identity for the company. 
+Although Then and Soo Khim had been able to contribute their own original works – such as *Concerto for VII* (Then), *Schumann Impressions* (Then), *Brahm’s Sentiments* (Soo Khim) and *Environmental Phrases* (Soo Khim) – shaping the SDT to be an internationally recognised name required more, not only in terms of the number of dancers and works performed, but also in how the works would shape and create an identity for the company. 
 
 In the beginning, SDT did not focus on works that would help define its identity, according to Schergen. Instead, engaging choreographers was more a matter of convenience and availability. At the time, the pertinent questions asked when appointing a choreographer were “Who was available? Who could they get who was not busy”, rather than “Who could really develop the company?” said Schergen. “The identity of the company is so valuable and so important that you have to know who/what you are first and then plan to be that,” he said. “The problem with SDT in its early years was that there wasn’t a clear idea of where the company was heading.”24
 
-It was only after seeing the positive response to a staging of its first full-length classical ballet, The Nutcracker, in 1992 and “Ballet Under the Stars” in 1995 that the SDT decided to do more full-length ballets while keeping to an eclectic repertoire. However, this was easier said than done. “None of those things sit comfortably together,” Schergen said. “Are we a classical ballet company that does contemporary work, or are we a contemporary company that does classical work badly? What are we? And we’re called Singapore Dance Theatre, which isn’t a ballet company.”25
+It was only after seeing the positive response to a staging of its first full-length classical ballet, *The Nutcracker*, in 1992 and “Ballet Under the Stars” in 1995 that the SDT decided to do more full-length ballets while keeping to an eclectic repertoire. However, this was easier said than done. “None of those things sit comfortably together,” Schergen said. “Are we a classical ballet company that does contemporary work, or are we a contemporary company that does classical work *badly*? What are we? And we’re called Singapore Dance Theatre, which isn’t a ballet company.”25
 
 #### **Growing by Leaps and Bounds**
 
@@ -82,7 +82,7 @@ Schergen had been involved with the company as a consultant at its inception, tr
 
 Schergen had more than the necessary qualifications: he had been the ballet master for companies such as the Washington Ballet, Royal Swedish Ballet, Pittsburgh Ballet Theatre and Norwegian National Ballet. Schergen had also staged Choo San’s works for the SDT between 1988 and 2005, flying in while being based abroad. (Schergen is also the artistic director of the Choo-San Goh &amp; H. Robert Magee Foundation, which oversees the licensing and production of Choo San’s ballets.)
 
-One of Schergen’s initial tasks as a consultant was to help the dancers learn Choo San’s ballets, including Beginnings, Momentum and Birds of Paradise. This was no easy task as his ballets are “marked by a first-rate command of structure and fluency”, as Choo San's obituary in the New York Times noted.27 
+One of Schergen’s initial tasks as a consultant was to help the dancers learn Choo San’s ballets, including *Beginnings*, *Momentum* and *Birds of Paradise*. This was no easy task as his ballets are “marked by a first-rate command of structure and fluency”, as Choo San's obituary in the New York Times noted.27 
 
 To push the dancers, Schergen gave them marginally difficult challenges each time. “[It] was a little bit like you [push] them a little bit harder, they’d meet that, a little bit harder, they’d meet that,” he explained.28
 
