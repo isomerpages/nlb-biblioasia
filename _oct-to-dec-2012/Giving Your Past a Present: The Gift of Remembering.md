@@ -17,7 +17,7 @@ Experiences shared by Ruth are a humbling reminder of their enduring value to th
 
 What was also very illuminating from Ruth’s experience is that she was drawn into an era before her time, one that her generation would find almost alien.
 
-Capturing memories to pass on to those not of one’s time is akin to “giving the past a present” – the tagline of the Singapore Memory Project. One of the most powerful gifts that can be given to a nation’s future is the memory of how she was built. The people of Singapore have a perfect opportunity to present this gift to present and future generations of Singaporeans as those who witnessed Singapore’s nation-building journey are still around for us to capture their first hand experiences.
+Capturing memories to pass on to those not of one’s time is akin to “giving the past a present” – the tagline of the Singapore Memory Project. One of the most powerful gifts that can be given to a nation’s future is the memory of how it was built. The people of Singapore have a perfect opportunity to present this gift to present and future generations of Singaporeans as those who witnessed Singapore’s nation-building journey are still around for us to capture their first hand experiences.
 
 Some of the most moving memories received so far are those documenting loving accounts of parents’ and grandparents’ lives. A particular gentleman detailed his parents’ 50-year old love story that reads almost like a parallel history of Singapore.
 
