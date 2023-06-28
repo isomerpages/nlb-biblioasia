@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "A Well  Choreographed Move: From Singapore Dance Theatre to Singapore
+        Ballet.md"
       - Test page.md
