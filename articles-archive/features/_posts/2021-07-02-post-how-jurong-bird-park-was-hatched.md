@@ -125,8 +125,8 @@ The new and improved bird park will include themed walk-through aviaries designe
 <div style="background-color: white;">An artist impression of Crimson Wetlands, one of the themed aviaries to be built at the new bird park in Mandai when it relocates there in 2022. <i>Courtesy of Wildlife Reserves Singapore</i>.</div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/ZoeYeo.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/ZoeYeo.png" style="width: 100px; height: 100px;">
 <b>Zoe Yeo</b> is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.
 </div>
 
@@ -140,7 +140,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 
 [^3]: Tan, S.S. (2015). *[Goh Keng Swee: A portrait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201485216)* (p. 175). Singapore: Editions Didier Millet. (Call no.: RSING 959.5704092 TAN-[HIS])
 
-[^4]: Tsang, S., & Hendricks, E. (2007). *[Discover Singapore: The city’s history & culture redefined](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885312)* (pp. 96–97). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 TSA-[HIS])
+[^4]: Tsang, S., &amp; Hendricks, E. (2007). *[Discover Singapore: The city’s history &amp; culture redefined](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885312)* (pp. 96–97). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 TSA-[HIS])
 
 [^5]: Yeo, T.J. (1969, January 3). [Work on $1 mil. Aviary at Jurong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690103-1.2.31). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
