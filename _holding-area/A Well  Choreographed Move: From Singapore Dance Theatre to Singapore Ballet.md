@@ -21,6 +21,9 @@ The company has made a name for itself in numerous festivals and events such as 
 
 While many individuals have played an important role in the company’s journey, no retelling of its history would be complete without considering the contributions of the Goh siblings – Goh Soo Nee (also went by Goh Soonee and Soonee Goh), Goh Soo Khim and Goh Choo San. The three siblings played vital roles, though in very different ways: Soo Nee prepared the ground by starting an important predecessor institution to SDT; Soo Khim, on the other hand, led the company during its fledgling years; and although Choo San died prematurely, he was, and continues to be, spiritually influential, as can be seen by the fact that the company continues to restage his ballets, even till today.
 
+![](/images/Vol%2019%20Issue%203/image2.png)
+<div style="background-color: white;">From left: Goh Choo San, Goh Soo Khim, their mother, Goh Choo Chiat and Goh Soo Nee. <i>Courtesy of Goh Soo Khim.</i></div>
+
 Although the company was founded in the late 1980s, the seeds of the company were planted four decades earlier when Soo Nee followed her ballet teacher to Australia to train at the Francis Scully Ballet School, before moving to London where she auditioned for the highly competitive Royal Ballet School. In her oral history interview with the Oral History Centre, she recalled strongly the exhilaration then. “It was very exciting for me because the training is very intensive,” she said, “and I like[d] it very much.”[^2]
 
 When Soo Nee returned to Singapore in 1958, she founded the Singapore Ballet Academy (SBA) with local dance aficionados Vernon Martinez and Frances Poh. It soon became the home for Singapore’s aspiring dancers, including Soo Nee's younger siblings.
@@ -43,6 +46,9 @@ Originally, the plan was that Choo San’s works  would provide the foundation o
 
 In 1987, Soo Khim and Then registered the new company as Singapore Dance Theatre, a name they chose to reflect a wider repertoire for the company, which would range from modern works to classical
 ballets, and which would include an Asian sensibility. (Soo Khim continued in her role as director of SBA even after the dance company was set up.) They wanted to develop Singaporean dancers and interest audiences in works with an Asian influence. Goh also felt that the label of “Dance Theatre” provided the freedom to explore and experiment with more diverse works.[^16] Choo San’s death had been a severe blow, but the founders decided to go ahead.
+
+![](/images/Vol%2019%20Issue%203/image3.png)
+<div style="background-color: white;"><i>Beginnings</i>, choreographed by Goh Choo San, is the first ballet ever performed by the Singapore Dance Theatre, 1988. It is an intimate quartet exploring the relationship between two couples. <i>Courtesy of Singapore Ballet.</i></div>
 
 Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong Teng Cheong described the founding of the company as “timely” and said that it was “in line with the Government’s vision to transform Singapore into a cultured society by 1999, and in promoting excellence in the arts. It therefore deserves the support of every citizen”.[^17]
 
