@@ -141,7 +141,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^15]: Janek Schergen, interview, 21 December 2022; “[Goh Choo San Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871201-1.2.58.aspx),” Business Times, 1 December 1987, 20. (From NewspaperSG)
 
-[^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, Touches: 10 Years of the Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
+[^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, [Touches: 10 Years of the Singapore Dance Theatre](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9248084) (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
 
 [^17]: Ong Teng Cheong, “Official Launch of the Singapore Dance Theatre,” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
 
