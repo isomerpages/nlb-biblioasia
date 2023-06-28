@@ -125,13 +125,13 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^7]: “The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
 
-[^8]: “The Ascent of Goh Choo San,” Singapore Monitor, 5 June 1984, 18. (From NewspaperSG)
+[^8]: “[The Ascent of Goh Choo San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840605-1.2.25.4),” Singapore Monitor, 5 June 1984, 18. (From NewspaperSG)
 
 [^9]: “The Dancer and the Dance (1982) (Mikhail Baryshnikov Documentary - Full HQ),” Youtube, 9 September 2022, https://www.youtube.com/watch?v=9piDxc-CWiE.
 
-[^10]: “The Ascent of Goh Choo San.”
+[^10]: “[The Ascent of Goh Choo San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840605-1.2.25.4).”
 
-[^11]: Sharon Teng, “Goh Choo San,” in Singapore Infopedia. National Library Board Singapore. Article published 2016.
+[^11]: Sharon Teng, “[Goh Choo San](https://eresources.nlb.gov.sg/infopedia/articles/SIP_638_2005-01-10.html),” in Singapore Infopedia. National Library Board Singapore. Article published 2016.
 
 [^12]: Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” SPAFA Journal 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
 
@@ -139,7 +139,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^14]: Janek Schergen, interview, 21 December 2022.
 
-[^15]: Janek Schergen, interview, 21 December 2022; “Goh Choo San Dies,” Business Times, 1 December 1987, 20. (From NewspaperSG)
+[^15]: Janek Schergen, interview, 21 December 2022; “[Goh Choo San Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871201-1.2.58.aspx),” Business Times, 1 December 1987, 20. (From NewspaperSG)
 
 [^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, Touches: 10 Years of the Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
 
