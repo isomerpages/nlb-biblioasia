@@ -145,9 +145,9 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^17]: Ong Teng Cheong, “[Official Launch of the Singapore Dance Theatre](https://www.nas.gov.sg/archivesonline/speeches/record-details/725e950c-115d-11e3-83d5-0050568939ad),” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
 
-[^18]: Germaine Cheng, Momentum: 25 Years of Singapore Dance Theatre (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
+[^18]: Germaine Cheng, [Momentum: 25 Years of Singapore Dance Theatre](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273) (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
 
-[^19]: Lisa Lee, “All for the Love of Dance,” Business Times, 21 March 1988, 11. (From NewspaperSG) 
+[^19]: Lisa Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1),” Business Times, 21 March 1988, 11. (From NewspaperSG) 
 
 [^20]: Lee, “All for the Love of Dance.”
 
