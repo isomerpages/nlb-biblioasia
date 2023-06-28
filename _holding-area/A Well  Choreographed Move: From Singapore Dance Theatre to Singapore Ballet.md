@@ -25,4 +25,65 @@ Although the company was founded in the late 1980s, the seeds of the company wer
 
 When Soo Nee returned to Singapore in 1958, she founded the Singapore Ballet Academy (SBA) with local dance aficionados Vernon Martinez and Frances Poh. It soon became the home for Singapore’s aspiring dancers, including Soo Nee's younger siblings.
 
-The SBA soon gained a reputation as an excellent dance school, but its dancers faced a dilemma: as Singapore did not have a local professional dance company, any student who developed a deeper interest in dance had to go abroad for further studies or to pursue a career in dance, as Soo Nee herself had done. 
+The SBA soon gained a reputation as an excellent dance school, but its dancers faced a dilemma: as Singapore did not have a local professional dance company, any student who developed a deeper interest in dance had to go abroad for further studies or to pursue a career in dance, as Soo Nee herself had done.
+
+That was also what her younger sister Soo Khim did, or at least tried to do. Soo Khim trained at the SBA from 1958 and then at the Australian Ballet School in Melbourne from 1964.3 Like Soo Nee at the Francis Scully Ballet School, Soo Khim was the only Asian student at the all-white Australian Ballet School.4 She had dreamt of a professional dance career in Australia, but faced discrimination there due to her ethnicity.5 Ballet, as a professional industry, had always favoured homogeneity, with a penchant for Caucasian dancers.6
+
+After graduating in 1966, Soo Khim returned to Singapore and joined her sister Soo Nee as a principal trainer at the SBA. When Soo Nee emigrated to Canada, Soo Khim took over the reins as director and principal in 1971.7
+
+At one point, the third Goh sibling, Choo San, had been hailed by the New York Times as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work in 1978.8 “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”9
+
+Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,10 before eventually becoming the artistic director of the Washington Ballet in 1984.11
+That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.12 Inspired by the Washington Ballet – which had performed Choo San’s In the Glow of the Night and the internationally acclaimed13 Fives at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.14 
+
+Originally, the plan was that Choo San’s works  would provide the foundation of this new company’s repertoire. Fate, however, intervened. On 28 November 1987, Choo San died from an illness. He was only 39.15
+
+#### **Pas De Deux: It Takes Two**
+
+In 1987, Soo Khim and Then registered the new company as Singapore Dance Theatre, a name they chose to reflect a wider repertoire for the company, which would range from modern works to classical
+ballets, and which would include an Asian sensibility. (Soo Khim continued in her role as director of SBA even after the dance company was set up.) They wanted to develop Singaporean dancers and interest audiences in works with an Asian influence. Goh also felt that the label of “Dance Theatre” provided the freedom to explore and experiment with more diverse works.16 Choo San’s death had been a severe blow, but the founders decided to go ahead.
+
+Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong Teng Cheong described the founding of the company as “timely” and said that it was “in line with the Government’s vision to transform Singapore into a cultured society by 1999, and in promoting excellence in the arts. It therefore deserves the support of every citizen”.17
+
+#### **Warming Up to Challenges**
+
+The fledgling SDT struggled financially in its initial years. Fortunately, Then and Soo Khim had friends who would help form SDT’s board (though none were particularly familiar with the professional world of dance), and together they were able to secure financial support from fundraisers and government bodies, such as the Ministry of Culture, which disbursed $70,000.18 
+
+This amount, however, was not sufficient to secure all their needs, a primary one being a suitable rehearsal space. In the beginning, SDT had to share space with the SBA and schedule its rehearsals only when SBA classes were not in session. The SBA studio was also not properly equipped for rehearsals. Business Times journalist Lisa Lee described the scene she had witnessed there in 1988:
+
+“Hey your foot almost hit my face,” says one dancer.
+
+“I’m sorry,” croons her male neighbour in a distinct Filipino accent.
+
+“Well, you can kick him back when we turn around to the other side,” quips another. They laugh.19
+
+SDT needed a place of its own – and fast. To work, the studio had to be column-free with changing and bathroom facilities. But finding a suitable space was not easy, especially as limited budgets “produced some duds like an old disused warehouse” with columns.20
+
+Refurbished barracks at Fort Canning were finally chosen in 1990, although Schergen recalls that the premises were “a bit shabby”.21 The facilities included three dance studios, a props store and workshop, a wardrobe room and a cafeteria. While the Public Works Department spent $4.62 million on renovations, SDT paid for the “fitting out of the interior of its part of the building’’, which was estimated at $500,000.22
+
+SDT’s new premises paved the way for “Ballet Under the Stars”, first staged at Fort Canning Green in April 1995. Immediately, the inaugural event helped the company reach out to people who had never attended ballet performances and who might have been intimidated by formal theatre settings. Ticket holders were encouraged to bring picnic baskets and mats, and enjoy the ice-cream and popcorn sold at the venue. “Ballet Under the Stars” has been held almost every year since 1995, and is today a well-loved and iconic outdoor dance event enjoyed by all. 
+
+Unfortunately, in December that year, the company suffered another major blow when co-founder Then died following an illness. His death, at 51, created another void, which Soo Khim felt profoundly. “I have not only lost a great friend but also a confidant,” she said.23 With only Soo Khim left at the helm, the company needed assistance. 
+
+For help, the company looked abroad, and a number of renowned dancers, teachers and choreographers such as Timothy Gordon, David Peden, Andrea Pell, Maiqui Manosa, Paul de Masson and Edmund Stripe stepped in. They taught the company’s daily classes, ran rehearsals and took the repertoire onto the stage.
+
+Although Then and Soo Khim had been able to contribute their own original works – such as Concerto for VII (Then), Schumann Impressions (Then), Brahm’s Sentiments (Soo Khim) and Environmental Phrases (Soo Khim) – shaping the SDT to be an internationally recognised name required more, not only in terms of the number of dancers and works performed, but also in how the works would shape and create an identity for the company. 
+
+In the beginning, SDT did not focus on works that would help define its identity, according to Schergen. Instead, engaging choreographers was more a matter of convenience and availability. At the time, the pertinent questions asked when appointing a choreographer were “Who was available? Who could they get who was not busy”, rather than “Who could really develop the company?” said Schergen. “The identity of the company is so valuable and so important that you have to know who/what you are first and then plan to be that,” he said. “The problem with SDT in its early years was that there wasn’t a clear idea of where the company was heading.”24
+
+It was only after seeing the positive response to a staging of its first full-length classical ballet, The Nutcracker, in 1992 and “Ballet Under the Stars” in 1995 that the SDT decided to do more full-length ballets while keeping to an eclectic repertoire. However, this was easier said than done. “None of those things sit comfortably together,” Schergen said. “Are we a classical ballet company that does contemporary work, or are we a contemporary company that does classical work badly? What are we? And we’re called Singapore Dance Theatre, which isn’t a ballet company.”25
+
+#### **Growing by Leaps and Bounds**
+
+Although Schergen only officially joined SDT as its assistant artistic director in 2007 (and assumed the role of artistic director one year later), his influence dates to the very founding of the company itself.
+
+Schergen had been involved with the company as a consultant at its inception, training its dancers for their debut performances in 1988. This involvement came as a result of a personal connection; Schergen, a Swedish American, had been a close friend and collaborator of Choo San. “What he said to me…,” Schergen recalled “was ‘Help [Soo Khim] get it started’ so that was my directive.”26
+
+Schergen had more than the necessary qualifications: he had been the ballet master for companies such as the Washington Ballet, Royal Swedish Ballet, Pittsburgh Ballet Theatre and Norwegian National Ballet. Schergen had also staged Choo San’s works for the SDT between 1988 and 2005, flying in while being based abroad. (Schergen is also the artistic director of the Choo-San Goh &amp; H. Robert Magee Foundation, which oversees the licensing and production of Choo San’s ballets.)
+
+One of Schergen’s initial tasks as a consultant was to help the dancers learn Choo San’s ballets, including Beginnings, Momentum and Birds of Paradise. This was no easy task as his ballets are “marked by a first-rate command of structure and fluency”, as Choo San's obituary in the New York Times noted.27 
+
+To push the dancers, Schergen gave them marginally difficult challenges each time. “[It] was a little bit like you [push] them a little bit harder, they’d meet that, a little bit harder, they’d meet that,” he explained.28
+
+It was particularly challenging as some of the dancers in the company in the early years did not have the requisite training. Founding dancer Jamaludin 
+
