@@ -114,7 +114,7 @@ The collection was initially stocked with children’s literature of British and
 While recognising the collection’s possibilities as a resource for teachers intending to introduce Asian culture and stories to their young charges in Singapore, Menon was also mindful of the possible needs of researchers when making acquisitions. She looked to library review journals to decide which titles should be purchased, and developed the collection’s potential for cross-sectional study by including titles that reflected different attitudes towards Asia and Asians over time.[^29]<br><br>
 In the early 1960s, most of the titles in the collection were translated into English from their original languages because not many English titles were published in Asia.[^30]<br><br>
 Apart from its Asian-focused intent, the ACL Collection houses a treasure trove of uniquely crafted gems in the bookmaking tradition. <i>Otogi-Banashi: A Miniature Toy-Book from Japan</i> (1969)[^31] is a bilingual publication penned in Japanese by Tatsugoro Hirose, with the English text by Ann Herring. Embedded within a cut-out space in the pages are three Lilliputian books of much-loved Japanese folktales: “The Old Man Who Makes The Flowers Bloom”, “Momotaro” and “Kachi-Kachi Mountain”. Featuring distinctive woodblock-printed illustrations, the bindings of the miniature books and the slipcover are made of <i>chiyogami</i>, a traditional Japanese paper.[^32]<br><br>
-<img src="/images/vol-17-issue-2/mulan/OtogiBanashi3.png">*Otogi-Banashi: A Miniature Toy-Book from Japan* contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., & Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER)</i>.<br><br>
+<img src="/images/vol-17-issue-2/mulan/OtogiBanashi3.png">*Otogi-Banashi: A Miniature Toy-Book from Japan* contains three miniature books on well-loved Japanese folktales as well as an introductory essay on the history of toy books and woodblock prints. <i>Herring, A., &amp; Hirose, T. (1969). Otogi-Banashi: A miniature toy-book from Japan. Tokyo: Ise-Tatsu. Asian Children’s Literature Collection, National Library, Singapore. (Call no.: RCLOS 895.63 HER)</i>.<br><br>
 Another gem is the visually arresting <i>Pang Tao (Flat Peaches): Eight Fairies Festival</i> (c. 1900–1950)[^33] about a legendary group of deities. Bound in an accordion format and containing 10 beautifully hand-coloured illustrations framed in silk brocade, this bilingual title in English and Chinese is available in the ACL Collection.<br><br>
 This book bears witness to how much the physical form of the book has evolved. Early books in China were made of narrow strips of bamboo tied together in a bundle using either silk or leather. Silk later replaced bamboo as a writing material and was rolled around rods like a scroll. With the invention of paper, books were made by folding a long strip of paper accordion-style.[^34]<br><br>
 In the decades that followed, the ACL Collection has been redefined to concentrate on material written in the four official languages of Singapore, and aimed at children and young adults up to 14 years old. Comprising picture books, fiction and non-fiction as well as reference books, the collection includes titles from Southeast Asia, East Asia, Central Asia and West Asia.[^35]<br><br>
@@ -126,14 +126,14 @@ The ACL Collection aspires to captivate, inform and foster awareness among reade
 The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 809.89282 STO and SING 809.89282 STO)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201510067) as well as for digital loan at [nlb.overdrive.com](https://nlb.overdrive.com/).</span>
 	
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/YuMei.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/YuMei.png" style="width: 100px; height: 100px;">
 <b>Goh Yu Mei</b> is a Librarian at the National Library, Singapore, working with the Chinese Arts and Literary Collection. Her research interest lies in the interaction between society and Chinese literature.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/Michelle_Heng.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/Michelle_Heng.png" style="width: 100px; height: 100px;">
 <b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She has curated a tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition” in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012) as well as the <i>Selected Poems of Goh Poh Seng</i> (2013).
 </div>
 
@@ -151,7 +151,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^3]: The period that followed the Eastern Jin dynasty (东晋, 317–420) and before the establishment of the Sui dynasty in 581 is commonly referred to as the Northern and Southern dynasties (南北朝). The Southern Dynasties (420–589) referred to the four dynasties, namely Song (宋), Qi (齐), Liang (梁) and Chen (陈), which ruled the southern part of China from Jiankang (建康, modern-day Nanjing). In contrast, the northern part of China was in a state of war from 304 to 439 [known to historians as the era of Sixteen Kingdoms (十六国)] until the Tuoba clan of the Xianbei established the (Northern) Wei dynasty ((北)魏) and conquered the most part of northern China. The regime under the Tuoba clan was short-lived and northern China was ruled under different clans and factions, each establishing their own dynasty. These dynasties were collectively referred to as the Northern dynasties. For more details, see Ebrey, P.B. (1996). *[The Cambridge illustrated history of China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979)* (pp. 89–93). Cambridge; New York: Cambridge University Press. (Call no.: R 951 EBR)
 
-[^4]: For more details on the different versions of Mulan in different periods in the history of China, see Lan, F. (2003, Summer). The female individual and the empire: A historicist approach to Mulan and Kingston’s woman warrior. *Comparative Literature, 55* (3), 229–245. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Edwards, L. (2016). *[Women warriors and wartime spies of China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202668697)* (pp. 17–39). Cambridge, United Kingdom; New York, New York: Cambridge University Press. (Call no.: 355.0092 EDW); Yang, Q. (2018). Mulan in China and America: From premodern to modern. *Comparative Literature: East & West, 2* (1), 45–59. Retrieved from Taylor & Francis Online website. 
+[^4]: For more details on the different versions of Mulan in different periods in the history of China, see Lan, F. (2003, Summer). The female individual and the empire: A historicist approach to Mulan and Kingston’s woman warrior. *Comparative Literature, 55* (3), 229–245. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Edwards, L. (2016). *[Women warriors and wartime spies of China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202668697)* (pp. 17–39). Cambridge, United Kingdom; New York, New York: Cambridge University Press. (Call no.: 355.0092 EDW); Yang, Q. (2018). Mulan in China and America: From premodern to modern. *Comparative Literature: East &amp; West, 2* (1), 45–59. Retrieved from Taylor &amp; Francis Online website. 
 
 [^5]: Yang, 2018, pp. 49–50. 
 
@@ -179,18 +179,18 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^17]: Li, J. (2014). *[Mulan: A story in English and Chinese](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201262042)*. New York: Better Link Press. (Call no.: RAC 398.2 JIA-[ACL])
 
-[^18]: Gang, Y., & Xiao, G. (2007). *[The story of Mulan: The daughter and the warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13067559)*. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
+[^18]: Gang, Y., &amp; Xiao, G. (2007). *[The story of Mulan: The daughter and the warrior](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13067559)*. Beijing: China Intercontinental Press. (Call no.: RAC 398.2 YI-[FOL])
 
 [^19]: [Li](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201262042), 2014, back cover.
 
-[^20]: 雅瑟 & 苏阳 [Ya, S., & Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua juyuan: Pinwei wenhua jingsui, ganshou chuanshi jingdian*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty: From the classic of filial piety to the biographical accounts of filial piety. In A.K.L. Chan & S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon. (Call no.: R 173 FIL)
+[^20]: 雅瑟 &amp; 苏阳 [Ya, S., &amp; Su, Y.]. (2012).《中华句源: 品味文化精髓, 感受传世经典》[*Zhonghua juyuan: Pinwei wenhua jingsui, ganshou chuanshi jingdian*] (p. 202). Beijing: Beijing Book Co. Inc. (Call no.: Chinese 810.07 YS); Lee, C.Y. (2004). Emperor Chengzu and imperial filial piety of the Ming dynasty: From the classic of filial piety to the biographical accounts of filial piety. In A.K.L. Chan &amp; S.-H. Tan (Eds.). (2004). *[Filial piety in Chinese thought and history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12359873)* (pp. 144–151). London: RoutledgeCurzon. (Call no.: R 173 FIL)
 
 
 [^21]: [Ebrey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7598979), 1996, pp. 70–72.
 
 [^22]: Wong, R. (2016). Introduction: The power of stories (pp. 11–15). In *[Stories from Asia: The Asian Children’s Literature Collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*. Singapore: National Library Board. (Call no.: R 809.89282)
 
-[^23]: Hearn, L., & Hodges, M. (1989). *The voice of the great bell*. Boston: Little, Brown & Company. (Call no.: RCLOS 398.20951 HOD)
+[^23]: Hearn, L., &amp; Hodges, M. (1989). *The voice of the great bell*. Boston: Little, Brown &amp; Company. (Call no.: RCLOS 398.20951 HOD)
 
 [^24]: San Souci, D. (1999). *In the moonlight mist: A Korean tale*. Honesdale, PA: Boyds Mills Press. (Call no.: RAC 398.209519 SAN-[ACL])
 
@@ -206,7 +206,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^30]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, p. 25.
 
-[^31]: Herring, A., & Hirose, T. (1969). *[Otogi-Banashi: A miniature toy-book from Japan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202723538)*. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
+[^31]: Herring, A., &amp; Hirose, T. (1969). *[Otogi-Banashi: A miniature toy-book from Japan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202723538)*. Tokyo: Ise-Tatsu. (Call no.: RCLOS 895.63 HER) 
 
 [^32]: *[Stories from Asia: The Asian children’s literature collection](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067)*, 2016, pp. 132–133.
 
