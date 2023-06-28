@@ -31,20 +31,20 @@ That was also what her younger sister Soo Khim did, or at least tried to do. Soo
 
 After graduating in 1966, Soo Khim returned to Singapore and joined her sister Soo Nee as a principal trainer at the SBA. When Soo Nee emigrated to Canada, Soo Khim took over the reins as director and principal in 1971.[^7]
 
-At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work in 1978.8 “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”9
+At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work in 1978.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
 
-Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,10 before eventually becoming the artistic director of the Washington Ballet in 1984.11
+Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,[^10] before eventually becoming the artistic director of the Washington Ballet in 1984.[^11]
 
-That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.12 Inspired by the Washington Ballet – which had performed Choo San’s *In the Glow of the Night* and the internationally acclaimed13 *Fives* at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.14 
+That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.[^12] Inspired by the Washington Ballet – which had performed Choo San’s *In the Glow of the Night* and the internationally acclaimed[^13] *Fives* at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.[^14] 
 
-Originally, the plan was that Choo San’s works  would provide the foundation of this new company’s repertoire. Fate, however, intervened. On 28 November 1987, Choo San died from an illness. He was only 39.15
+Originally, the plan was that Choo San’s works  would provide the foundation of this new company’s repertoire. Fate, however, intervened. On 28 November 1987, Choo San died from an illness. He was only 39.[^15]
 
 #### **Pas De Deux: It Takes Two**
 
 In 1987, Soo Khim and Then registered the new company as Singapore Dance Theatre, a name they chose to reflect a wider repertoire for the company, which would range from modern works to classical
-ballets, and which would include an Asian sensibility. (Soo Khim continued in her role as director of SBA even after the dance company was set up.) They wanted to develop Singaporean dancers and interest audiences in works with an Asian influence. Goh also felt that the label of “Dance Theatre” provided the freedom to explore and experiment with more diverse works.16 Choo San’s death had been a severe blow, but the founders decided to go ahead.
+ballets, and which would include an Asian sensibility. (Soo Khim continued in her role as director of SBA even after the dance company was set up.) They wanted to develop Singaporean dancers and interest audiences in works with an Asian influence. Goh also felt that the label of “Dance Theatre” provided the freedom to explore and experiment with more diverse works.[^16] Choo San’s death had been a severe blow, but the founders decided to go ahead.
 
-Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong Teng Cheong described the founding of the company as “timely” and said that it was “in line with the Government’s vision to transform Singapore into a cultured society by 1999, and in promoting excellence in the arts. It therefore deserves the support of every citizen”.17
+Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong Teng Cheong described the founding of the company as “timely” and said that it was “in line with the Government’s vision to transform Singapore into a cultured society by 1999, and in promoting excellence in the arts. It therefore deserves the support of every citizen”.[^17]
 
 #### **Warming Up to Challenges**
 
