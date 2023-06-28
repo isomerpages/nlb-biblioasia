@@ -8,8 +8,8 @@ description: As the history of the company shows, its new name is less about
 #### As the history of the company shows, its new name is less about breaking away from the past as it is about leaping confidently into the future.
 By Thammika Songkaeo
 
-![](/images/)
-<div style="background-color: white;">The skeleton of the blue whale hanging from the ceiling of the Raffles Museum’s natural history room. <i>Image reproduced from R. Hanitsch, Guide to the Zoological Collections of the Raffles Museum, Singapore (Singapore: The Straits Times Press, Limited, 1908), Plate VII. (From BookSG; accession no. B02806775B).</i></div>
+![](/images/Vol%2019%20Issue%203/image1.png)
+<div style="background-color: white;">The Singapore Dance Theatre’s performance of <i>Fearful Symmetries</i> choreographed by Nils Christie, 2011. Photo by Tan Ngiap Heng. <i>Courtesy of Singapore Ballet.</i></div>
 
 One of Singapore’s oldest professional dance companies has become one of its newest. On 10 December 2021, Singapore Dance Theatre (SDT) announced that a little over 30 years after it was first unveiled to the public, it was jettisoning its old name and embracing a new one – Singapore Ballet.
 
