@@ -42,7 +42,7 @@ In addition to the efforts of individual writers, there have also been local pla
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-17-issue-1/manvsnature/lontar.jpg">
+<img src="/images/Vol-17-issue-1/manvsnature/Lontar.jpg">
 <i>LONTAR: The Journal of Southeast Asian Speculative Fiction</i> was published in Singapore between 2013 and 2018. Its editor, Jason Erik Lundberg, has been a long-time advocate for creating an audience for speculative fiction in Singapore. Shown here is the cover of the last issue (No. 10; 2018). <i>Lundberg, J.E. (Ed.). (2013–2018). LONTAR: The Journal of Southeast Asian Speculative Fiction. Singapore: Epigram Books. Collection of the National Library, Singapore. (Call no.: RSING 828.995903 LJSASF)</i>.
 </div>
 
