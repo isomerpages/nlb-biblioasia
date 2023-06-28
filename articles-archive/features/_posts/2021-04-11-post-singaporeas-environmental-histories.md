@@ -98,7 +98,7 @@ However, a chapter of the book that is dedicated to poisons obtained from fish s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-17-issue-1/humanxnature/pufferfish.jpg">
+<img src="/images/Vol-17-issue-1/humanxnature/Pufferfish.jpg">
 John Desmond Gimlette’s book, <i>Malay Poisons and Charm Cures</i>, devotes a chapter to poisons obtained from fish such as the pufferfish. Shown here are illustrations of the pufferfish by the Dutch ichthyologist, Pieter Bleeker. <i>Images reproduced from Bleeker, P. (1865 ). Atlas Ichtyologique des Indes Orientales Néêrlandaises: Publié sous les auspices du Gouvernement Colonial Néêrlandais (vol. V; CCXIII). Imprimerie de De Breuk &amp; Smits. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 597.09598 BLE; Accession no.: B18975254H)</i>.
 </div>
 
