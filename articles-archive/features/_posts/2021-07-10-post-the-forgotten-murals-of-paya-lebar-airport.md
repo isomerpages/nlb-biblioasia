@@ -111,7 +111,7 @@ In 2015, when Bill visited my father at home, I asked them how they felt upon he
 
 It has been close to 60 years since Bill and my father won the mural competition. In the meantime, both men have gone on to distinguished careers. My father eventually left Papineau and joined publisher Donald Moore before working for various international advertising agencies in Singapore. In the 1980s, he became a freelance graphic artist and continued doing commissions until his late 60s. In 2015, he was awarded the Singapore Design Golden Jubilee Award for Visual Communication.
 
-Bill left Singapore in 1964 and worked in Hong Kong and Bangkok before returning here in 1970 as the regional director of advertising agency Grant K&E. He went back to the United Kingdom in 1978 to become a full-time artist. Bill has been described as one of the world’s leading miniature portrait painters and has painted the portraits of members of the British and Malaysian royal families.
+Bill left Singapore in 1964 and worked in Hong Kong and Bangkok before returning here in 1970 as the regional director of advertising agency Grant K&amp;E. He went back to the United Kingdom in 1978 to become a full-time artist. Bill has been described as one of the world’s leading miniature portrait painters and has painted the portraits of members of the British and Malaysian royal families.
 
 Despite their many accomplishments, Bill and my father still regard the Paya Lebar Airport murals with much affection as winning the murals competition was one of the early highlights of their careers. My father told me that he had taken part in the competition because if he had won, his design would have been seen by many local and overseas visitors. It was a prestigious competition and being one of the winners brought him a lot of attention.
 
@@ -123,9 +123,9 @@ Given that two of the murals have been lost, it is my hope that the remaining on
 significant today.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/Dahlia.png" style="width: 100px; height: 100px;" />
-<b>Dahlia Shamsuddin </b> is a Senior Librarian with the Resource Discovery & Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
+<br>
+<img src="/images/vol-17-issue-2/authors/Dahlia.png" style="width: 100px; height: 100px;">
+<b>Dahlia Shamsuddin </b> is a Senior Librarian with the Resource Discovery &amp; Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
