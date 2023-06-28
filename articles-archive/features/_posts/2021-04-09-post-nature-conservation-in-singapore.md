@@ -5,9 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: Nature Conservation in Singapore
 third_nav_title: Nature Conservation in Singapore
 image: /images/Vol-17-issue-1/nature/pangolin.jpg
-
 ---
-
 <style>
 table { 
 	background-color: #fff6ba;
@@ -23,7 +21,7 @@ table {
 #### Balancing biodiversity conservation with urban development is a hot-button issue in land-scarce Singapore. **Ang Seow Leng** examines how this process has played out over the last 200 years.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/pangolin.jpg">
 As a result of habitat loss, the Sunda pangolin has become a critically endangered species in Singapore. Pangolins are heavily trafficked and are poached for their scales and meat. In the wild, these mammals are mainly found in the nature reserves and adjacent nature parks of Singapore. <i>Courtesy of Wildlife Reserves Singapore</i>.
 </div>
@@ -39,7 +37,7 @@ Preserving the natural environment from human encroachment, however, took delibe
 The physical landscape was also reshaped to support urbanisation and commerce. Hills were levelled, swamps filled and coastlines extended. The first effort at land reclamation was carried out in 1822 on the swampy grounds around South Boat Quay.[^5] As a result, little remains of the original rainforests, mangrove swamps and other ecosystems that greeted Stamford Raffles when he arrived in 1819.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/woodcarving.jpg">
 “Rolling Timber Through Jungle to River, Straits Settlements Court”, a wood engraving published in the <i>Illustrated London News</i>, 1886, depicting the economic opportunities of the forests of the Straits Settlements. By the late 19th century, much of the primary forest in Singapore had been cleared for cash crops and a growing migrant population. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -56,7 +54,7 @@ Two decades later, the Wild Animals and Birds Protection Ordinance was enacted i
 In 1882, Nathaniel Cantley, then Superintendent of the Botanic Gardens in Singapore, conducted a survey of forests in the Straits Settlements and made recommendations for their management. He estimated that only 7 percent of the original forest were still intact at the time of the survey.[^11]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/nathaniel.jpg">
 In 1882, Nathaniel Cantley, Superintendent of the Botanic Gardens in Singapore, proposed creating forest reserves to stop illegal deforestation. This map of the island of Singapore, dated 10 November 1882, shows the locations of the proposed forest reserves. <i>Survey Department, Singapore, courtesy of National Archives of Singapore</i>.
 </div>
@@ -72,7 +70,7 @@ In 1931, the government deliberated over a proposal to revoke all forest reserve
 Five years later, all forest reserves were revoked in Singapore, although selected areas like some parts of the Bukit Timah forest were protected. This was after the Commissioner of Lands reported that the forest reserves of Singapore were made up largely of “market gardens, villages and granite quarries”.[^16]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/langur.jpg">
 The Raffles’ banded langur, 2020. Named after Stamford Raffles and native to Singapore and southern peninsular Malaysia, the primate was once common throughout Singapore but its population is now critically endangered. The main threat to its survival is the loss of habitat. Photo by Andie Ang. <i>Retrieved from Wikimedia Commons (CC BY-SA 4.0)</i>.
 </div>
@@ -88,7 +86,7 @@ This led to the Nature Reserves Ordinance, which came into force in 1951. The la
 With growing awareness and calls for the conservation of nature areas, Singapore currently has 24 nature areas comprising the four main nature reserves – Bukit Timah Nature Reserve, Central Catchment Nature Reserve, Sungei Buloh Wetland Reserve and Labrador Nature Reserve – as well as 20 other areas that are subject to administrative safeguards under the Parks and Waterbodies Plan. The four nature reserves are protected under the Parks and Trees Act.[^23]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/centralcatchment.jpg">
 View from Jelutong Tower in the Central Catchment Nature Reserve. This reserve, along with Bukit Timah Nature Reserve, Sungei Buloh Wetland Reserve and Labrador Nature Reserve, make up the four main nature reserves in Singapore. <i>Image reproduced from Chua, E.K. (2015). Rainforest in a City (p. 21). Singapore: Simply Green. Collection of the National Library, Singapore. (Call no.: RSING 577.34095957 CHU)</i>.
 </div>
@@ -101,7 +99,7 @@ Today, NParks is responsible for propagating, protecting and preserving “the a
 In 1986, Singapore joined the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). It is currently among the 183 countries bound by an international agreement that regulates international trade in endangered species of wild animals and plants through a system of licences.[^26] During the signing of the CITES treaty, then Minister for the Environment Ong Pang Boon noted that “the [Southeast Asian] region was at the crossroads of a thriving international trade on flora and fauna, which if left unchecked could lead to the irreversible loss of valuable species”.[^27]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/horseshoecrab.jpg">
 Singapore has two of the world’s four species of horseshoe crabs – the coastal horseshoe crab (shown here) and the mangrove horseshoe crab. <i>Courtesy of Ria Tan, Wild Singapore</i>.
 </div>
@@ -111,7 +109,7 @@ Singapore is also a signatory to the International Convention on Biological Dive
 In 2002, the Singapore Green Plan 2012 was launched to better address conservation issues as new ideas and concerns had emerged in the preceding decade, such as transboundary air pollution and climate change as a result of greenhouse gas emissions. In 2006, a revised edition of the earlier green plan was released which called for establishing more parks and green linkages, and the setting up of a National Biodiversity Reference Centre (now renamed National Biodiversity Centre).[^30] Under the purview of NParks, the centre was established in 2006 as a “clearing house not only for centralising biodiversity data about Singapore, but also for co-ordinating and facilitating research in biodiversity and ecology issues”.[^31]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/hornbill.jpg">
 The oriental pied hornbill, a species native to Singapore, once declined in numbers to the point of local extinction. Successful conservation efforts in recent years have seen these majestic creatures taking to the skies once again. <i>Courtesy of Quek Yew Hock, NParks SGBioAtlas/BIOME</i>.
 </div>
@@ -129,9 +127,9 @@ More recently, in 2021, the Singapore Green Plan 2030 – spearheaded by governm
 While the state has played an important role in conserving nature by passing legislation and promoting government policies to green Singapore, non-governmental organisations have played an important role too. Perhaps the most prominent of these is the Nature Society (Singapore), or NSS.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/nss.png">
-The Nature Society (Singapore) first published <i>The Singapore Red Data Book: Threatened Plants & Animals of Singapore</i> in 1994. It became an indispensable source of reference for conservation plans and efforts in Singapore. The publication was updated in 2008. <i>Davison, G.W.H., Ng, P.K.L., & Ho, H.C. (Eds.). (2008). The Singapore Red Data Book: Threatened Plants & Animals of Singapore. Singapore: Nature Society. Collection of the National Library, Singapore. (Call no.: RSING 591.68095957 SIN)</i>.
+The Nature Society (Singapore) first published <i>The Singapore Red Data Book: Threatened Plants &amp; Animals of Singapore</i> in 1994. It became an indispensable source of reference for conservation plans and efforts in Singapore. The publication was updated in 2008. <i>Davison, G.W.H., Ng, P.K.L., &amp; Ho, H.C. (Eds.). (2008). The Singapore Red Data Book: Threatened Plants &amp; Animals of Singapore. Singapore: Nature Society. Collection of the National Library, Singapore. (Call no.: RSING 591.68095957 SIN)</i>.
 </div>
 
 The NSS is one of the oldest non-governmental organisations in Singapore, with roots dating back to 1921 when its predecessor, the Singapore Natural History Society, was formed. Although the society later faded away, a new society – the Malayan Nature Society (MNS) – was established in 1940 and based in Malaya. In 1954, the Singapore section of the MNS was founded. It eventually separated from the MNS in 1991 and became an independent entity in 1992.[^37]
@@ -143,7 +141,7 @@ In 1994, the NSS published *The Singapore Red Data Book*. The publication became
 The NSS’ first success at convincing the government to preserve an area for nature conservation is the Sungei Buloh Wetland Reserve.[^42] It was opened as a nature park in 1993, then gazetted as a nature reserve in 2002 before becoming Singapore's first ASEAN Heritage Park the following year.[^43]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/nature/sbwr.jpg">
 The Sungei Buloh Wetland Reserve opened as a nature park in 1993, was gazetted as a nature reserve in 2002 and became Singapore's first ASEAN Heritage Park in 2003. One of the migratory birds found at the reserve every year between August and April is the common redshank, which originates from Mongolia, the Russian Far East and China. The bird’s distinguishing feature is its long bright orange-red legs. <i>Courtesy of Mendis Tan, NParks</i>.
 </div>
@@ -164,8 +162,8 @@ Just like any complex and multilayered ecosystem, nature conservation requires t
 As NParks works towards making Singapore a “City in Nature", non-governmental organisations such as the NSS, interested individuals and even the ordinary man in the street also play key roles in educating, creating awareness and seeking cooperation among all Singaporeans in the preservation of our biodiversity and natural heritage. Policymakers and conservationists have to continually work closely together in order to find a middle ground that will enable Singapore to preserve its biodiversity and, at the same time, plan for its future requirements.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/ang_seow_leng.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;">
 <b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the National Library’s collections, developing content as well as providing reference and research services.
 </div>
 
@@ -181,13 +179,13 @@ As NParks works towards making Singapore a “City in Nature", non-governmental 
 
 [^4]: Engineered biophysical landscapes: Parks and open spaces for recreation (p. 37). (2004). In Teo, P., et al. *[Changing landscapes of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12274689)* (pp. 34–49). Singapore: McGraw-Hill. (Call no.: RSING 333.7315095957 CHA)
 
-[^5]: Gillis, K., & Tan, K. (2006). *[The book of Singapore’s firsts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12761444)* (p. 96). Singapore: Singapore Heritage Society. (Call no.: RSING 959.57 GIL)
+[^5]: Gillis, K., &amp; Tan, K. (2006). *[The book of Singapore’s firsts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12761444)* (p. 96). Singapore: Singapore Heritage Society. (Call no.: RSING 959.57 GIL)
 
-[^6]: Luz, S., & Ramani, V. (2016, September 30). [Protecting diversity in Singapore and Southeast Asia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160930-1.2.46.3). *The Straits Times*, p. 10. Retrieved from NewspaperSG. 
+[^6]: Luz, S., &amp; Ramani, V. (2016, September 30). [Protecting diversity in Singapore and Southeast Asia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160930-1.2.46.3). *The Straits Times*, p. 10. Retrieved from NewspaperSG. 
 
 [^7]: Ong, J. (2021, February 1). S'pore must balance stewardship of green spaces with land constraints: Desmond Lee. *The Straits Times*. Retrieved from The Straits Times website.
 
-[^8]: Tan, M.B.N., & Tan, H.T.W. (2013). *The laws relating to biodiversity in Singapore* (p. 7). Singapore: Raffles Museum of Biodiversity Research, National University of Singapore. Retrieved from NUS Libraries website.
+[^8]: Tan, M.B.N., &amp; Tan, H.T.W. (2013). *The laws relating to biodiversity in Singapore* (p. 7). Singapore: Raffles Museum of Biodiversity Research, National University of Singapore. Retrieved from NUS Libraries website.
 
 [^9]: [Shorthand report of the Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840514-1.2.26). (1884, May 14). *Straits Times Weekly Issue*, p. 7. Retrieved from NewspaperSG. 
 
@@ -201,7 +199,7 @@ As NParks works towards making Singapore a “City in Nature", non-governmental 
 
 [^14]: [Singapore forests](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19260428-1.2.45). (1926, April 28). *The Singapore Free Press*, p. 262. Retrieved from NewspaperSG.
 
-[^15]: [Forest reserves in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310506-1.2.93). (1931, May 6). *The Straits Times*, p. 14. Retrieved from NewspaperSG; Davison, G.W.H., & Chew, P.T. (2019, May 29). Historical review of Bukit Timah Nature Reserve, Singapore. *Gardens’ Bulletin Singapore, 71* (Suppl. 1), 19–40, p. 25. Retrieved from National Parks Board website.
+[^15]: [Forest reserves in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310506-1.2.93). (1931, May 6). *The Straits Times*, p. 14. Retrieved from NewspaperSG; Davison, G.W.H., &amp; Chew, P.T. (2019, May 29). Historical review of Bukit Timah Nature Reserve, Singapore. *Gardens’ Bulletin Singapore, 71* (Suppl. 1), 19–40, p. 25. Retrieved from National Parks Board website.
 
 [^16]: [Forest reserves to go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370426-1.2.30). (1937, April 26). *The Malaya Tribune*, p. 6. Retrieved from NewspaperSG.
 
@@ -217,13 +215,13 @@ As NParks works towards making Singapore a “City in Nature", non-governmental 
 
 [^22]: Heng, Dec 1991, p. 296. 
 
-[^23]: National Parks Board. (2020, April). *Nature areas & nature reserves*. Retrieved from National Parks Board website.
+[^23]: National Parks Board. (2020, April). *Nature areas &amp; nature reserves*. Retrieved from National Parks Board website.
 
 [^24]: National Parks Board. (2020, April). *Mission and history*. Retrieved from National Parks Board website.
 
 [^25]: Singapore. *The statutes of the Republic of Singapore*. (2012 Rev. ed.). National Parks Board Act (Cap. 198A). Retrieved from Singapore Statutes Online website.
 
-[^26]: Tan & Tan, 2013, p. 45; Convention on International Trade of Endangered Species of Wild Fauna and Flora Secretariat. (n.d.). *List of contracting parties*. Retrieved from CITES website.
+[^26]: Tan &amp; Tan, 2013, p. 45; Convention on International Trade of Endangered Species of Wild Fauna and Flora Secretariat. (n.d.). *List of contracting parties*. Retrieved from CITES website.
 
 [^27]: [Singapore to sign CITES treaty](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19841130-1.2.10.4). (1984, November 30). *The Business Times*, p. 2. Retrieved from NewspaperSG.
 
@@ -243,17 +241,17 @@ As NParks works towards making Singapore a “City in Nature", non-governmental 
 
 [^35]: Tan, A. (2021, February 11). Singapore Green Plan 2030 outlines many existing initiatives, some new ones worth watching. *The Straits Times*. Retrieved from The Straits Times website.
 
-[^36]: Ang, H.M., & Mohan, M. (2021, February 10). Singapore unveils Green Plan 2030, outlines green targets for next 10 years. *CNA*. Retrieved from CNA website.
+[^36]: Ang, H.M., &amp; Mohan, M. (2021, February 10). Singapore unveils Green Plan 2030, outlines green targets for next 10 years. *CNA*. Retrieved from CNA website.
 
 [^37]: Nature Society (Singapore). (2020). *History of Nature Society (Singapore)*. Retrieved from Nature Society (Singapore) website.
 
 [^38]: Blaustein, R. (2013). Urban biodiversity gains new converts: Cities around the world are conserving species and restoring habitat. *Bioscience, 63* (2), 72–77, p. 75. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^39]: Wee, Y.C., & Hale, R. (2008, August 26). The Nature Society (Singapore) and the struggle to conserve Singapore's nature areas. *Nature in Singapore, 1*, 41–49, p. 42. Retrieved from Lee Kong Chian Natural History Museum website.
+[^39]: Wee, Y.C., &amp; Hale, R. (2008, August 26). The Nature Society (Singapore) and the struggle to conserve Singapore's nature areas. *Nature in Singapore, 1*, 41–49, p. 42. Retrieved from Lee Kong Chian Natural History Museum website.
 
 [^40]: The IUCN Red List of Threatened Species™ is the world's most comprehensive inventory of the global conservation status of plant and animal species. It uses a set of quantitative criteria to evaluate the extinction risk of thousands of species. The list is recognised as the most authoritative guide on the status of biological diversity.
 
-[^41]: Davison, G.W.H., Ng, P.K.L., & Ho, H.C. (Eds.). (2008). *[The Singapore red data book: Threatened plants & animals of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13152668)* (p. iv). Singapore: Nature Society. (Call no.: RSING 591.68095957 SIN)
+[^41]: Davison, G.W.H., Ng, P.K.L., &amp; Ho, H.C. (Eds.). (2008). *[The Singapore red data book: Threatened plants &amp; animals of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13152668)* (p. iv). Singapore: Nature Society. (Call no.: RSING 591.68095957 SIN)
 
 [^42]: Lee, S.H. (1987, December 14). [Bird lovers submit proposals for 300-ha nature reserve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871214-1.2.26.3). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
@@ -263,6 +261,6 @@ As NParks works towards making Singapore a “City in Nature", non-governmental 
 
 [^45]: Zakir Hussain. (2011, July 1). [End of an era at Tanjong Pagar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110701-1.2.3). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Nature Society (Singapore), 2021.
 
-[^46]: Kong, L., & Yeoh, B.S.A. (1996). Social constructions of nature in urban Singapore. *Japanese Journal of Southeast Asian Studies, 34* (2), 402–423, p. 409. Retrieved from J-Stage website.
+[^46]: Kong, L., &amp; Yeoh, B.S.A. (1996). Social constructions of nature in urban Singapore. *Japanese Journal of Southeast Asian Studies, 34* (2), 402–423, p. 409. Retrieved from J-Stage website.
 
 [^47]: Nathan, D. (1994, November 6). [Ministry rejects appeal to save Senoko bird habitat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19941106-1.2.8.4). *The Straits Times*, p. 3. Retrieved from NewspaperSG.

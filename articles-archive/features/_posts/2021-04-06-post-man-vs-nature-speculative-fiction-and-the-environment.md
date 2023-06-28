@@ -6,7 +6,6 @@ breadcrumb: "Man vs Nature: Speculative Fiction and the Environment"
 third_nav_title: "Man vs Nature: Speculative Fiction and the Environment"
 image: /images/Vol-17-issue-1/manvsnature/medusa.jpg
 ---
-
 <style>
 table { 
 	background-color: #f4d3d3;
@@ -22,7 +21,7 @@ table {
 #### **Jacqueline Lee** surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/manvsnature/medusa.jpg">
 The multiple awards won by <i>The Gatekeeper</i> shows that speculative fiction has become a mainstream genre in Singapore. Shown here is an illustration of Ria, the medusa from the novel drawn by the author Nuraliah Norasid. <i>Image reproduced from Nuraliah Norasid. (2015). Ria, a Novel and an Exegesis (p. 334) [PhD dissertation]. Singapore: Nanyang Technological University. Collection of the National Library, Singapore. (Call no.: RCLOS 808.3 NUR)</i>.
 </div>
@@ -34,16 +33,16 @@ Speculative fiction is a broad category of writing that contains supernatural, f
 The genre has become increasingly mainstream in Singapore in recent years. In May 2017, *The Straits Times* reported that at least eight such home-grown novels and anthologies had been published in the previous six months.[^3] One such novel – Nuraliah Norasid’s *The Gatekeeper*[^4] – even clinched the Epigram Books Fiction Prize in 2016, and Best Fiction Title and Best Book Cover Design at the Singapore Book Awards in 2018.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/manvsnature/gatekeeper.jpg">
+<br>
+<img src="/images/Vol-17-issue-1/manvsnature/Gatekeeper.jpg">
 <i>The Gatekeeper</i> by Nuraliah Norasid clinched the Epigram Books Fiction Prize in 2016, and Best Fiction Title and Best Book Cover Design at the Singapore Book Awards in 2018. Nuraliah Norasid. (2018). <i>The Gatekeeper. Singapore: Epigram Books. (Ebook available from NLB OverDrive)</i>.
 </div>
 
 In addition to the efforts of individual writers, there have also been local platforms that promote speculative fiction. An important vehicle was *LONTAR: The Journal of Southeast Asian Speculative Fiction*. Published in Singapore, the journal was active between 2013 and 2018. Its editor, Jason Erik Lundberg, has been a longtime advocate of speculative fiction in the city-state.[^5]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/manvsnature/lontar.jpg">
+<br>
+<img src="/images/Vol-17-issue-1/manvsnature/Lontar.jpg">
 <i>LONTAR: The Journal of Southeast Asian Speculative Fiction</i> was published in Singapore between 2013 and 2018. Its editor, Jason Erik Lundberg, has been a long-time advocate for creating an audience for speculative fiction in Singapore. Shown here is the cover of the last issue (No. 10; 2018). <i>Lundberg, J.E. (Ed.). (2013–2018). LONTAR: The Journal of Southeast Asian Speculative Fiction. Singapore: Epigram Books. Collection of the National Library, Singapore. (Call no.: RSING 828.995903 LJSASF)</i>.
 </div>
 
@@ -54,7 +53,7 @@ In the essay “An Oily Mirror: 1950s *Orang Minyak* Films as Singaporean Petroh
 The *orang minyak* is described as a supernatural creature coated with shiny black grease who abducts young women at night, and is able to climb walls and evade capture due to his slippery skin. While seemingly based on Malay folklore, the first mention of *orang minyak* in local newspapers was in *Berita Harian* in 1957.[^7]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/manvsnature/orangminyak.jpg">
 The promotional standee for <i>Orang Minyak (The Oily Man)</i>, a Malay film directed by L. Krishnan and released in 1958. According to Malay folklore, the <i>orang minyak</i> is a supernatural creature coated with shiny black grease who abducts young women at night, and is able to climb walls and evade capture due to its slippery surface. <i>Image reproduced from Millet, R. (2006). Singapore Cinema (p. 43). Singapore: Editions Didier Millet. Collection of the National Library, Singapore. (Call no.: RSING q791.43095957 MIL)</i>.
 </div>
@@ -73,7 +72,7 @@ At the cafe, Martin reacts against all this technology, noting it was all “ver
 Ng Yi-Sheng’s *Lion City* (2019) also deals with a time where many animals have become extinct. In its titular short story, the narrator is given a behind-the-scenes look at the “animals” in the Singapore Zoo. It is revealed that the insides of these animals are made up of “wire mesh, cable spaghetti and the like, silicon garbage, the city’s detritus”.[^12] They wear synthetic skins and are programmed to look and act like real animals. The narrator interacts with a simulacrum of a lion cub, remarking on its similarity to a “genuine little Simba, whiskers and all”. In this alternate universe, the Singapore Zoo – and along with other zoos around the world – has been fooling unsuspecting visitors for decades by using robotic animals. It also reveals that the giant panda has been extinct for a century.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/manvsnature/lioncity.jpg">
 <i>Lion City</i> by Ng Yi-Sheng is an anthology of short stories. In the titular short story, the narrator is given a behind-the-scenes look at the “animals” in the Singapore Zoo, which are actually robots. <i>Ng, Y.-S. (2019). Lion City. Singapore: Epigram Books. (Ebook available from NLB OverDrive)</i>.
 </div>
@@ -84,7 +83,7 @@ Land scarcity is a recurring theme among Singaporean writers. In Clara Chow’s 
 Constraints arising from the scarcity of land also provide the background for Hassan Hasaa’ree Ali’s 2013 Malay short story “Doa.com”, which presents an imaginative solution to address the paucity of land for burying the dead. In the story, technology has advanced to such a stage that it was possible to build an underground graveyard complex for the remains of the dead. Family and friends cannot visit the graves in person, but they can go online to Doa.com and select a prayer that will be played through a speaker to the underground grave. The cost of each prayer depends on how potent the prayer is claimed to be.[^14]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/manvsnature/caesar.jpg">
 Hassan Hasaa’ree Ali’s Malay short story “Doa.com” in <i>Selamat Malam, Caesar</i> presents an imaginative solution to address the scarcity of land for burials in Singapore. The book was shortlisted for the Singapore Literature Prize for Malay Fiction in 2014. <i>Hassan Hassaa’ree Ali. (2013). Selamat Malam, Caesar. Singapura: Akademi Anuar Othman. Collection of the National Library, Singapore. (Call no.: Malay RSING 899.283 HAS)</i>.
 </div>
@@ -92,7 +91,7 @@ Hassan Hasaa’ree Ali’s Malay short story “Doa.com” in <i>Selamat Malam, 
 Land scarcity (and alternative energy) is the theme of the 2012 short story “Chapter 28: Energy” by The Centipede Collective comprising writers Olivia Lee and Brandon Chew. In the story, the government made cremation compulsory for all newly deceased because of land scarcity. Then a law is passed to exhume all cemeteries to free up even more land for industrial, residential and commercial use. By 2040, as all columbaria have reached full capacities, Singaporeans are encouraged to scatter ashes in the waters around the island.[^15]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/manvsnature/illus.jpg">
 Illustrations from the short story “Chapter 28: Energy” showing the process of converting latent energy from dead bodies to produce a liquid called NecrOil that can create batteries and power cars. <i>Images reproduced from The Centipede Collective. (2012). Chapter 28: Energy (pp. 321, 329). In J.E. Lundberg (Ed.), Fish Eats Lion: New Singaporean Speculative Fiction. Singapore: Math Paper Press. (Call no.: RSING S823 FIS)</i>
 </div>
@@ -120,8 +119,8 @@ What these works demonstrate is that Singaporean speculative fiction is a rich r
 Through their prose, the writers ask the all-important question – “What if?” What if sea levels rise and low-lying parts of Singapore become submerged? What if most flora and fauna on earth have been wiped out? What if Singapore runs out of land? Having raised these issues, perhaps the next question to ask  is – “What now?”
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/Jacqueline_lee.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/Jacqueline_Lee.png" style="width: 100px; height: 100px;">
 <b>Jacqueline Lee</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.
 </div>
 

@@ -6,7 +6,7 @@ layout: post
 ---
 In this issue’s cover story, we shine the spotlight on three murals that were once showpieces at the former Paya Lebar Airport. Two of the three artworks have already been lost. Is there hope for the last one?
 
-<img src="/images/Vol-17-issue-2/cover.jpg">
+<img src="/images/vol-17-issue-2/Cover.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/director-note"> Director's Note</a>
 
@@ -26,7 +26,7 @@ In this issue’s cover story, we shine the spotlight on three murals that were 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/urangbanjar"> Urang Banjar: From South Kalimantan to Singapore</a> <br>*Zinnurain Nasir* and *Nasri Shah* shed light on the Banjar people in Singapore.[(PDF)](/files/pdf/vol-17/issue-2/v17-issue2_UrangBanjar.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/swanandmaclaren"> Mansion Blocks, Flats and Tenements: The Advent of Apartment Living</a> <br>Through buildings like Amber Mansions and Eu Court, Swan & Maclaren helped to introduce the concept of apartment living in Singapore, says *Julian Davison*.[(PDF)](/files/pdf/vol-17/issue-2/v17-issue2_MansionBlocks.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/swanandmaclaren"> Mansion Blocks, Flats and Tenements: The Advent of Apartment Living</a> <br>Through buildings like Amber Mansions and Eu Court, Swan &amp; Maclaren helped to introduce the concept of apartment living in Singapore, says *Julian Davison*.[(PDF)](/files/pdf/vol-17/issue-2/v17-issue2_MansionBlocks.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park"> How Jurong Bird Park Was Hatched</a> <br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one.[(PDF)](/files/pdf/vol-17/issue-2/v17-issue2_JurongBirdPark.pdf)
 

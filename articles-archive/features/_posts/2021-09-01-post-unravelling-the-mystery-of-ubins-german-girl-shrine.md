@@ -39,7 +39,7 @@ In a nutshell, there was no coffee plantation in operation on Pulau Ubin in 1914
 
 After war was declared on 14 August 1914, all German and Austrian nationals in the Straits Settlements were required to swear not to undertake “hostile acts against Great Britain”. The British were initially hesitant to intern German families who had been living in Singapore for decades and were pillars of the business and social world, but after Germany began to intern enemy subjects, the British decided to respond in kind.[^7]
 
-On 23 October 1914, all German and Austrian males in Singapore were ordered to report at the P&O Wharf at New Harbour (now Keppel Harbour) the following afternoon at 2 pm, to be taken to the quarantine facilities on 
+On 23 October 1914, all German and Austrian males in Singapore were ordered to report at the P&amp;O Wharf at New Harbour (now Keppel Harbour) the following afternoon at 2 pm, to be taken to the quarantine facilities on 
 St John’s Island. Married men were allowed to return to mainland Singapore on 25 October for “a few hours”. Within the week, they were transferred to the army barracks at Tanglin, which had hastily been converted into a prisoner camp – over 200 men were held there. By 28 October, it was announced that German women and children would also be removed from Singapore and allowed to relocate to “any place not within ten miles of the sea or a navigable river” within the Federated Malay States or to a neutral country.[^8]
 
 These facts considerably complicate the German girl narrative. First, there was no raid leading to the girl’s untimely death. Second, the girl’s mother (or perhaps *amah*, or nanny, if there had been no mother) would have stayed with her when her father left, and her father would have returned home the following day, at least for a few hours. If the girl had indeed gone missing, the alarm would have been raised immediately. Yet there is no trace of reports of a missing European girl in the newspapers of the time.
@@ -136,8 +136,8 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-3/authors/William%20Gibson%20.png" style="width: 100px; height: 100px;">
 	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. Gibson’s book, <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021), a biography of journalist, Alfred Raquez, is published by Routledge as part of its Studies in the Modern History of Asia series.  His articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review</i>, <i>Archipel</i>, <i>History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.
 </div>
 
@@ -166,7 +166,7 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^10]: Saadon Ismail, “[Cerita Puteri Jawa di ‘Bukit Puaka’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19851027-1.2.30.1).”
 
-[^11]: Susan Tsang, [*Discover Singapore: The City’s History & Culture Redefined*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885312) (Singapore: Marshall Cavendish, 2007), 106. (From National Library, Singapore, Call no. RSING 959.57 TSA)
+[^11]: Susan Tsang, [*Discover Singapore: The City’s History &amp; Culture Redefined*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885312) (Singapore: Marshall Cavendish, 2007), 106. (From National Library, Singapore, Call no. RSING 959.57 TSA)
 
 [^12]:  This hill is sometimes called Kopi Sua (Coffee Hill). Kopi Sua was in fact located to the north, near Batu Kekek. See Seow Soon Hee, et al., eds., [*Ubin Our Heart and Soul*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203893147) (Singapore: Our Heart and Soul Commemorative Publication Editorial Committee, 2019), 30. (From National Library, Singapore, Call no. RSING 959.57 PUL)
 
@@ -216,5 +216,4 @@ As for myself, I first chanced upon the shrine in 2006 and continue to visit it 
 
 [^33]:
 
-[^34]: 
-
+[^34]:

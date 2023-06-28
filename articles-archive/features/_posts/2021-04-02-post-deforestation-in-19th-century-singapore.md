@@ -6,7 +6,6 @@ breadcrumb: Deforestation in 19th-century Singapore
 third_nav_title: Deforestation in 19th-century Singapore
 image: /images/Vol-17-issue-1/deforestation/junglefire.jpg
 ---
-
 <style>
 table { 
 	background-color: #f4d3d3;
@@ -22,7 +21,7 @@ table {
 #### Manmade climate change is usually seen as a modern phenomenon. In fact, rising temperatures as a result of rampant deforestation were already evident in Singapore two centuries ago, says **Chia Jie Lin**.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/deforestation/junglefire.jpg">
 This print titled “Jungle Fire Near Bukit Timah” (1876) by Austrian diplomat and naturalist Eugen von Ransonnet-Villez was published in his <i>Skizzen aus Singapur and Djohor (Sketches: Singapore and Johor)</i> in 1876. The burning of vast swathes of primary forest to clear the land for crop cultivation was a familiar sight in 19th-century Singapore. <i>Image reproduced from Ransonnet-Villez, E. (1876). Skizzen aus Singapur and Djohor. Braunschweig: Druck und Verlag von George Westermann. Retrieved from BookSG. Collection of the National Library, Singapore. (Call no.: RRARE 959.51 RAN; Accession no.: B03013662J)</i>.
 </div>
@@ -43,7 +42,7 @@ It was pepper and gambier plantations, however, that were the main drivers behin
 In his correspondences with Raffles’ Acting Secretary L. Nelson Hull in 1822, Resident and Commandant of Singapore William Farquhar wrote that Temenggong Abdul Rahman had granted “various Malays and Chinese” permission to clear the ground for plantations. Farquhar further reported that some 20 plantations were already present in Singapore when he first arrived with Raffles in 1819.[^7]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/deforestation/gambier.jpg">
 A painting of the gambier plant from the William Farquhar Collection of Natural History Drawings, 1803–18. <i>Gift of G.K. Goh. Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -59,7 +58,7 @@ In the 1830s, the relocation of the gambier market from Riau to Singapore, as we
 These plantations were not merely land-intensive, but also timber-intensive. Trees were felled for timber, fuel and charcoal in gambier-producing factories, resulting in the widespread disappearance of dipterocarp primary forests (lowland rainforest on dry land) and freshwater swamp forests.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/deforestation/pepper.jpg">
 Workers in a pepper plantation in Malaya, 1890s. Pepper was planted alongside gambier as the cultivation of either crop alone was not economically viable. Plantation workers used the waste produced from the boiling of gambier leaves as fertiliser for pepper vines. The latter also entwine themselves around the gambier plants for support as they grow. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -67,7 +66,7 @@ Workers in a pepper plantation in Malaya, 1890s. Pepper was planted alongside ga
 In his 1883 *Report on the Forests of the Straits Settlements* that led to the demarcation of Singapore’s first forest reserves and the creation of a Forest Department,[^14] Nathaniel Cantley, then Superintendent of the Singapore Botanic Gardens, wrote that small areas of cultivated land known as *bangsal* (Malay for a “shed” or “lean-to shelter”) typically used up approximately 2,500 pounds of timber per day for pepper kilns and boiling gambier. These *bangsal* served as dwellings for the labourers and a place where they could prepare gambier. Over time, the area of land deforested for firewood for a plantation would have been equivalent to the size of the corresponding plantation itself.[^15]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/deforestation/bangsal.jpg">
 Gambier production, 1890s. Small areas of cultivated land known as <i>bangsal</i> (Malay for a “shed” or “lean-to shelter”) typically used up approximately 2,500 pounds of timber per day for pepper kilns and boiling gambier. These <i>bangsal</i> served as dwellings for the labourers and a place where they could prepare gambier. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -129,9 +128,9 @@ Environmental discourse from the 17th to 19th centuries contains early theories 
 The relationship between forests and the climate is complex. A look at the environmental history of Singapore can offer a window into how nature in the 19th century was an object of consumption, and how this unhindered exploitation of natural resources devastated the environment and those who lived within it. These are lessons that remain relevant today.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/chia_jie_lin.png" style="width: 100px; height: 100px;" />
-<b>Chia Jie Lin</b> is an Assistant Curator with Programmes & Exhibitions at the National Library, Singapore. She is co-curator of the “Human x Nature: Environmental Histories of Singapore” exhibition.
+<br>
+<img src="/images/Vol-17-issue-1/authors/Chia_Jie_Lin.png" style="width: 100px; height: 100px;">
+<b>Chia Jie Lin</b> is an Assistant Curator with Programmes &amp; Exhibitions at the National Library, Singapore. She is co-curator of the “Human x Nature: Environmental Histories of Singapore” exhibition.
 </div>
 
 <a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
@@ -150,7 +149,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^6]: O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (p. 20). In T.P. Barnard (Ed.), *[Nature contained: Environmental histories of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148897)* (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
 
-[^7]: National Archives of Singapore The Citizen Archivist Project. (1822, December 23). *[L6: Singapore: Letters to Bencoolen](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=162&itemId=42652#collection)*. (Media no.: SSR/L006_0178). Retrieved from National Archives of Singapore website.
+[^7]: National Archives of Singapore The Citizen Archivist Project. (1822, December 23). *[L6: Singapore: Letters to Bencoolen](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=162&amp;itemId=42652#collection)*. (Media no.: SSR/L006_0178). Retrieved from National Archives of Singapore website.
 
 [^8]: Trocki, C.A. (1976). The origins of the kangchu system 1740–1860. *Journal of the Malaysian Branch of the Royal Asiatic Society, 49* (2) (230), 132–155, p. 139. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -190,7 +189,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^26]: Williamson, 15 Jun 2020.
 
-[^27]: O’Dempsey, T., & Ping, T.C. (2011, October 16). The freshwater swamp forests of Sungei Seletar Catchment: A status report (pp. 121–166). In *Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore”*. Retrieved from Nature Society (Singapore) website.
+[^27]: O’Dempsey, T., &amp; Ping, T.C. (2011, October 16). The freshwater swamp forests of Sungei Seletar Catchment: A status report (pp. 121–166). In *Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore”*. Retrieved from Nature Society (Singapore) website.
 
 [^28]: McNair, J.F.A. (1879, June 21). Report by the colonial engineer on the timber forests in the Malayan Peninsula (p. E10). In *Annual report on the Botanic Gardens, Singapore, for the year 1879–1890*. Retrieved from Biodiversity Heritage Library website. 
 
@@ -216,7 +215,7 @@ The relationship between forests and the climate is complex. A look at the envir
 
 [^39]: Rowell, T. I. (1885, December). Meteorological report, for the year 1885. *Journal of the Straits Branch of the Royal Asiatic Society*, (16), 385–411, p. 390. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website. [Note: From 1870 to 1885, the mean annual rainfall of Singapore fell by over 52 percent, from 123.24 to 58.37 inches, while the mean annual number of rainy days fell by 43 percent, from 209 to 119 days.]
 
-[^40]: Thomson, J.T. (1865). *[Some glimpses into life in the Far East](https://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx)* (p. 15). London: Richardson & Company. Retrieved from BookSG. (Call no.: RRARE 959.51 THO-[LKL]; Accession no.: B20048166E)
+[^40]: Thomson, J.T. (1865). *[Some glimpses into life in the Far East](https://eresources.nlb.gov.sg/printheritage/detail/16862810-4ee0-417f-ac05-0d5942b44550.aspx)* (p. 15). London: Richardson &amp; Company. Retrieved from BookSG. (Call no.: RRARE 959.51 THO-[LKL]; Accession no.: B20048166E)
 
 [^41]: [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18950522-1.2.8). (1895, May 22). *The Straits Times*, p. 3; [A water famine](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19020904-1.2.4). (1902, September 4). *The Singapore Free Press and Mercantile Advertiser*, p. 145. Retrieved from NewspaperSG.
 

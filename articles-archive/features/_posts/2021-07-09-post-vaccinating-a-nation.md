@@ -133,13 +133,13 @@ As Singapore and the world struggle to contain the spread of Covid-19, vaccinati
 
 Singapore has already begun vaccinating its population, having approved the emergency use of vaccines by Pfizer-BioNTech and Moderna. Vaccinations began in December 2020 and as at 17 July 2021, close to 2.7 million people have been fully vaccinated while around 4.1 million have received at least one dose.[^49]
 
-On 31 May 2021, the government announced that vaccines which have been approved for emergency use by WHO against Covid-19 could also be used in Singapore. At the moment, the list includes the vaccines by Johnson & Johnson, Sinovac and Oxford-AstraZeneca. This move will increase the pool of vaccines available for use here.[^50]
+On 31 May 2021, the government announced that vaccines which have been approved for emergency use by WHO against Covid-19 could also be used in Singapore. At the moment, the list includes the vaccines by Johnson &amp; Johnson, Sinovac and Oxford-AstraZeneca. This move will increase the pool of vaccines available for use here.[^50]
 
 As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 2021, until a large proportion of Singapore’s population is vaccinated, more restrictions can then be lifted safely and gradually so that a semblance of normal life can return even as the virus becomes endemic here.[^51]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/Ong-Eng-Chuan.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/Ong-Eng-Chuan.png" style="width: 100px; height: 100px;">
 <b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, where he manages the Rare Materials Collection. His research interest is in early Singapore publications.
 </div>
 
@@ -162,7 +162,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^5]: Lee, Dec 1976, pp. 202–203.
 
-[^6]: Belongia, E.A., & Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. *Clinical Medicine Research, 1* (2), 87–92, p. 88. Retrieved from NCBI website.
+[^6]: Belongia, E.A., &amp; Naleway, A.L. (2003, April). Smallpox vaccine: The good, the bad, and the ugly. *Clinical Medicine Research, 1* (2), 87–92, p. 88. Retrieved from NCBI website.
 
 [^7]: The Royal Jennerian Institute was named after Edward Jenner. Lee, Y.K. (1977, March). Smallpox in early Singapore. (Part III) (1850–59). *Singapore Medical Journal, 18* (1), 16–20, p. 16. Retrieved from Singapore Medical Association website.
 
@@ -178,11 +178,11 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^13]: Centers for Disease Control and Prevention. (n.d.). *Basic TB facts*. Retrieved from Centers for Disease Control and Prevention website.
 
-[^14]: Lim, K.T., & Lee, M. (1997). *[Fighting TB: The SATA story, 1947–1997](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724)* (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. *[Annual report on Singapore for 1st April-–31st December 1946](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185729)* (p. 70). (Call no.: RDLKL 959.57 MAC); [Tuberculosis: Singapore’s no. 1 killer...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570211-1.2.56.2) (1957, February 11). *The Singapore Free Press*, p. 13; [Cancer Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641210-1.2.82.3). (1964, December 10). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^14]: Lim, K.T., &amp; Lee, M. (1997). *[Fighting TB: The SATA story, 1947–1997](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724)* (p. 14). Singapore: The Association. (Call no.: RSING 614.542095957 SIN); McKerron, P.A.B. [1947]. *[Annual report on Singapore for 1st April-–31st December 1946](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185729)* (p. 70). (Call no.: RDLKL 959.57 MAC); [Tuberculosis: Singapore’s no. 1 killer...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570211-1.2.56.2) (1957, February 11). *The Singapore Free Press*, p. 13; [Cancer Society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641210-1.2.82.3). (1964, December 10). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^15]: Luca, S., & Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica, 8* (1), 53–58. Retrieved from National Center for Biotechnology Information website; [BCG prevents T.B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490305-1.2.87). (1949, March 5). *The Malaya Tribune*, pp. VIII/I. Retrieved from NewspaperSG.
+[^15]: Luca, S., &amp; Mihaescu, T. (2013, March). History of BCG vaccine. *Maedica, 8* (1), 53–58. Retrieved from National Center for Biotechnology Information website; [BCG prevents T.B](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490305-1.2.87). (1949, March 5). *The Malaya Tribune*, pp. VIII/I. Retrieved from NewspaperSG.
 
-[^16]: [Lim & Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
+[^16]: [Lim &amp; Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8755724), 1997, p. 18; SATA ComHealth. (n.d.). *Our history and milestones*. Retrieved from SATA ComHealth website; Vo. (1973, July 6). [SATA tames a killer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730706-1.2.59.3). *New Nation*, p. 11. Retrieved from NewspaperSG.
 
 [^17]: [Studying use of T.B. serum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490201-1.2.69). (1949, February 1). *The Singapore Free Press*, p. 5; [Flying anti-T.B. vaccine to S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490501-1.2.2). (1949, May 1). *The Straits Times*, p. 1; [B.C.G. for kids: No decision yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490618-1.2.54). (1949, June 18). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
@@ -194,7 +194,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^21]: [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561119-1.2.100), 19 Nov 1956, p. 7; [BCG vaccine for new-born babies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561201-1.2.65). (1956, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^22]: Chew, C.H., & Hu, P.Y. (1974, December). BCG programme in the Republic of Singapore. *Singapore Medical Journal, 15* (4), 241–245, p. 241. Retrieved from Singapore Medical Association website.
+[^22]: Chew, C.H., &amp; Hu, P.Y. (1974, December). BCG programme in the Republic of Singapore. *Singapore Medical Journal, 15* (4), 241–245, p. 241. Retrieved from Singapore Medical Association website.
 
 [^23]: [Just one anti-TB jab from now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010628-1.2.29.3.1). (2001, June 28). *The Straits Times*, p. 21; [One TB jab at birth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20010628-1.2.8.3). (2001, June 28). *The New Paper*, p. 6. Retrieved from NewspaperSG.
 
@@ -204,11 +204,11 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^26]: Colony of Singapore. (1959). *[Annual report 1958](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)* (pp. 170–171). Singapore: Government Printing Office. (Call no.: RCLOS 959.57 SIN); Seah, H.K. (1995, April). World without polio. *[Healthscope](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192522)*, 5, 7. (Call no. RSING 362.1095957 H)
 
-[^27]: *[Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*, 1959, pp. 170–171; Lee, L.H., & Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal, 18* (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
+[^27]: *[Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5082303)*, 1959, pp. 170–171; Lee, L.H., &amp; Lim, K.A. (1977, March). Eradication of poliomyelitis in Singapore. *Singapore Medical Journal, 18* (1), 34–40, pp. 37–38. Retrieved from Singapore Medical Association website.
 
 [^28]: The number of paralytic polio cases went down from 78 cases in 1963 to four cases in 1968. In the subsequent years up to 1975, there were only five cases in total. Overall, the number of polio cases also decreased from 1,067 notified cases for the period 1954 to 1964 to 62 cases from 1965 to 1975. Not a single case was reported in 1969, 1970, 1974 and 1975. 
 
-[^29]: Lee & Lim, Mar 1977, pp. 35, 37–38.
+[^29]: Lee &amp; Lim, Mar 1977, pp. 35, 37–38.
 
 [^30]: Wee, L. (2000, November 2). [Singapore officially declared polio-free](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001102-1.2.40.16). *The Straits Times*, p. 42. Retrieved from NewspaperSG; Dancel, R. (2019, September 19). Polio, a menace eradicated in the Philippines 19 years ago, resurfaces. *The Straits Times*; Chia, N. (2019, November 24). Polio shots for Team S’pore athletes just before SEA Games. *The Straits Times*. Retrieved from The Straits Times website.
 
@@ -220,7 +220,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^34]: National Centre for Infectious Diseases. (n.d.). *Diphtheria*. Retrieved from National Centre for Infectious Diseases website.
 
-[^35]: Seow, B.Y., & Lim, M.Z. (2017, August 6). [Foreign worker dies in first local diphtheria case in 25 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170806-1.2.5.1). *The Straits Times*, pp. 2–3; Choo, F. (2017, August 11). [No evidence diphtheria has spread further, says MOH](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170811-1.2.9.15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^35]: Seow, B.Y., &amp; Lim, M.Z. (2017, August 6). [Foreign worker dies in first local diphtheria case in 25 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170806-1.2.5.1). *The Straits Times*, pp. 2–3; Choo, F. (2017, August 11). [No evidence diphtheria has spread further, says MOH](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170811-1.2.9.15). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^36]: Ministry of Culture. (1971). *[Singapore 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183594)* (p. 196). Singapore: Ministry of Culture. (Call no.: RCLOS 959.57 SIN); [Jabs for primary one pupils in 1971](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700707-1.2.34). (1970, July 7). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
@@ -244,9 +244,9 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 
 [^46]: Kong, S.C. (1987, August 2). [Low-cost anti-hepatitis B jabs for newborns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870802-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^47]: Ministry of Information, Communications and the Arts. (2000, October 21). *[Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office & Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city](https://www.nas.gov.sg/archivesonline/speeches/record-details/74736ef4-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
+[^47]: Ministry of Information, Communications and the Arts. (2000, October 21). *[Speech by Mr Chan Soo Sen, parliamentary secretary (Prime Minister’s Office &amp; Ministry of Health), at the international hepatitis B awareness weekend opening ceremony on Saturday, 21 Oct 2000 at Great world city](https://www.nas.gov.sg/archivesonline/speeches/record-details/74736ef4-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^48]: Tan, K. (2001, November 8).[ Benefits of vaccine outweigh risks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011108-1.2.27.2). *The Straits Times*, p. 18; Oon, C.J. (2009, November 7). [Hepatitis vaccination: It began in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091107-1.2.114.2.4). *The Straits Times*, p. 106; Oon, C.J., & Kwek, K. (2011). *[A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13707653)* (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). *Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services*. Retrieved from World Health Organization IRIS website.
+[^48]: Tan, K. (2001, November 8).[ Benefits of vaccine outweigh risks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011108-1.2.27.2). *The Straits Times*, p. 18; Oon, C.J. (2009, November 7). [Hepatitis vaccination: It began in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091107-1.2.114.2.4). *The Straits Times*, p. 106; Oon, C.J., &amp; Kwek, K. (2011). *[A cancer vaccine that transformed Singapore and the world: The battle against hepatitis B](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13707653)* (pp. 8, 54). Singapore: Straits Times Press Reference. (Call no.: RSING 614.593623 OON); World Health Organization. (2001). *Hepatitis B immunization: Introducing hepatitis B vaccine into national immunization services*. Retrieved from World Health Organization IRIS website.
 
 [^49]: Ministry of Health Singapore. (2021, July 17). *Vaccination data*. Retrieved from Ministry of Health website.
 

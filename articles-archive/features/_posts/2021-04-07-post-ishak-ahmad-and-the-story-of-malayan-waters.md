@@ -5,9 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: Ishak Ahmad and the Story of Malayan Waters
 third_nav_title: Ishak Ahmad and the Story of Malayan Waters
 image: /images/Vol-17-issue-1/ishak-ahmad/ishakahmad.jpg
-
 ---
-
 <style>
 table { 
 	background-color: #fff6ba;
@@ -23,7 +21,7 @@ table {
 #### As a senior officer in the Fisheries Department, Ishak Ahmad was instrumental in spurring the growth of the Malayan fishing industry. **Anthony Medrano** sheds light on his contributions.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/ishakahmad.jpg">
 Ishak Ahmad, 1960s. A senior officer in the Fisheries Department, he was also the father of the first president of Singapore, Yusof Ishak. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -37,7 +35,7 @@ However, it was perhaps his work on behalf of the fishermen of Singapore and Mal
 Ishak’s knowledge of Malayan fishes and their habitats – and the economic lives that both supported – played a key role in shaping the process of urban and social change in interwar Singapore and Malaya. And the legacy of Ishak’s biodiversity knowledge has figured prominently in the publication of important environmental works such as *An Introduction to the Sea Fishes of Malaya* (1959).[^3]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/yusofishak.jpg">
 Ishak Ahmad (left) with his son, Yusof Ishak, the first president of Singapore, 1960s. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -50,7 +48,7 @@ Local fishermen, primarily Malay, were initially the main people involved in cat
 1926 was a pivotal year that impacted the livelihoods of local fishermen. That year, severe weather made for a poor fish harvest. In one weekend in July alone, six typhoons were reported to have passed through the South China Sea.[^5] Heavy monsoon rains also restricted the number of days local fishermen could go out to their *kelong*, the traditional fishing method practised by most fishermen at the time. This created a crisis in the supply of fish, impacting the livelihoods of communities across Malaya. These fishermen suffered economically, physically and materially through the loss or damage to their fishing apparatus such as the stakes and platforms.[^6]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/kelong.jpg">
 Fishermen working on a <i>kelong</i>, 1951. A <i>kelong</i> is an offshore platform built mainly of wood and driven into the sea bed using wooden piles. Local fishermen use <i>kelong</i> to fish. Bigger ones may also function as dwellings for their families. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -63,7 +61,7 @@ The Japanese fishing community in Singapore was largely comprised of young men f
 The Okinawan fishermen had certain advantages over the local fishing community. They used cold storage, had motorboats and deployed an Okinawan fishing method known as *muro ami*.[^11] While the combination of refrigeration and diesel engines certainly allowed this small but critical group to fish further from shore and keep larger catches fresh for local markets, it was the introduction of *muro ami* to Malayan seas that transformed the fishing industry in interwar Singapore and beyond. Indeed, *muro ami* fishing was one of the main factors that led to Malaya’s boom in the 1920s and 30s, with Okinawan fishermen becoming the dominant suppliers of fresh fish to both urban and rural markets.[^12]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/caesio.jpg">
 The Japanese <i>muro ami</i> fishing method revolutionised the capture of fish in Malayan waters. A type of reef fish called <i>ikan delah</i> (<i>Caesio</i> spp.), which had been quite expensive to purchase, became a cheap and abundant source of protein. <i>Photo by BEDO. Retrieved from Wikimedia Commons (CC BY-SA 4.0)</i>.
 </div>
@@ -75,8 +73,8 @@ After the advent of *muro ami* fishing, though, *ikan delah* became a cheap and 
 Japanese fishing companies began contributing to the supply of fish in Malaya. By the 1930s, for example, it was estimated that Japanese companies controlled more than 50 percent of Singapore’s  fish supply.[^16] On seeing how these Okinawan fishermen and their operations upended the livelihoods of local fishermen, Ishak saw an opportunity to help them.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/ishak-ahmad/malayfisherman.jpg">
+<br>
+<img src="/images/Vol-17-issue-1/ishak-ahmad/Malayfisherman.jpg">
 A Malay fisherman casting his net, 1954. By the 1930s, it was estimated that Japanese companies controlled more than 50 percent of the fish supply in Singapore, threatening the livelihoods of local fishermen. <i>Courtesy of National Archives of Singapore</i>.
 </div>
 
@@ -110,7 +108,7 @@ In 1926, Ishak played an important role in the first survey expedition conducted
 Ishak served a vital scientific as well as economic role in the expedition.[^27] As the only Malay member, the combination of his linguistic skills (he also spoke Hokkien and Teochew), cultural expertise and knowledge allowed him to translate (or approximate) the species of fish caught in vernacular terms. While other members of the *S.T. Tongkol* were concerned with technical and technological matters, such as the efficacy of European trawls in Malayan seas, Ishak was the expedition’s official taxonomiser.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/tongkol.jpg">
 Crew of the <i>S.T. Tongkol</i>. Ishak Ahmad (in white top and black hat) is standing second from the right. The coal-powered steamer was used to search and identify suitable fishing grounds in the first survey expedition conducted by the Fisheries Department in 1926. <i>Accessed at the National Archives of Malaysia</i>.
 </div>
@@ -131,7 +129,7 @@ The late interwar period was a pivotal time. In 1933, Ishak was appointed to act
 Ishak extended government assistance to local fishing communities, thereby aiding them to tap the wealth of Malayan seas to feed the growth of cities like Singapore. In 1937, for example, he sought to offset the dominance of Japanese-caught fish by refitting the department’s experimental vessel, *Kembong*, with an on-board refrigeration plant so that it could transport fresh fish supplies from Terengganu and Kelantan to Singapore.[^36] By improving access to distant hungry markets, Ishak was boosting the livelihoods of Malaya’s east coast fishing communities. He extended similar refrigeration schemes to Chinese fishermen who worked the Strait of Melaka, particularly around Pulau Pangkor.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/chinesefisherman.jpg">
 A Chinese fisherman with his catch, 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -141,7 +139,7 @@ As a result of his distinguished career in public service, including two stints 
 That same year, Ishak played a central role in establishing Malaya’s first fisheries school in Tanah Merah that, among other things, sought to “modernise” traditional fishing methods and equip local fishermen with new technology and knowledge.[^39] Likewise, he founded a Malay school for the children of Pulau Sudong’s fishing community.[^40] After a long and decorated career, Ishak retired from the Fisheries Department in 1941.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/ishak-ahmad/fishingschool.jpg">
 Ishak Ahmad founded a Malay school on Pulau Sudong for the children of the island’s fishing community. It was opened in 1940. <i>The Straits Times, 26 March 1940, p. 13. Retrieved from NewspaperSG</i>.
 </div>
@@ -153,8 +151,8 @@ It was under Abdul Aziz that the Ministry of Agriculture published *An Introduct
 From cataloguing the fish diversity of Malayan seas as a scientific member of the *Tongkol* expedition in the 1920s to sharing his wealth of knowledge and experience with a global community of ichthyologists in the 1950s, Ishak’s life and contributions are critical to appreciating how we know what we know about the waters around us today.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/anthony_medrano.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/Anthony_Medrano.png" style="width: 100px; height: 100px;">
 <b>Assistant Professor Anthony Medrano</b> is the National University of Singapore Presidential Young Professor of Environmental Studies at Yale-NUS College. He is a former Ziff Environmental Fellow at Harvard University and has a PhD in History from the University of Wisconsin-Madison.
 </div>
 

@@ -3,6 +3,8 @@ title: "Digging Bidadari’s Past: From Palace to First Muslim State Cemetery"
 permalink: /vol-8/issue-4/jan-mar-2013/muslim-bidadari-cemetery/
 description: ""
 ---
+#### Home today to a slate of new public housing clusters, Bidadari used to be the site of a cemetery – in particular, Singapore's first Muslim state cemetery and first multireligious cemetery. 
+
 <img style="width:80%;" src="/images/Vol%208%20issue%204/Bidadari/Another%20perspective%20of%20Bidadari.jpg">
  <div style="background-color: white;">The Bidadari Muslim cemetery in the 1990s before its exhumation.  <i>Courtesy of Goh Si Guim.</i></div>
 
@@ -143,7 +145,7 @@ This article is about preserving dying legacies in cemeteries. From the lessons 
 
 <b> Acknowledgements</b> 
 <br><br>
-<i>The writer would like to thank the following persons and institutions in no particular order: Azizah Sidek, Dr Kevin Tan, Julie from Antiques of the Orient, Goh Si Guim, Dato’ Rahim Ramli, Dr Frances Hutchinson, Dr Ooi Kee Beng, Dr Saroja Dorairajoo, the National Archives of Singapore and the National Archives of Malaysia (Johor Branch).</i>
+<i>The writer would like to thank the following individuals and institutions (in no particular order): Azizah Sidek, Dr Kevin Tan, Julie from Antiques of the Orient, Goh Si Guim, Dato’ Rahim Ramli, Dr Frances Hutchinson, Dr Ooi Kee Beng, Dr Saroja Dorairajoo, the National Archives of Singapore and the National Archives of Malaysia (Johor Branch).</i>
 
 <div>
 <b>Kartini Saparudin</b> has been working for the National Library for six years. She has written on the history of Bukit Brown Cemetery, the study of women’s magazines in the 1950s and 1960s and Hadhrami historiography. She compiled and edited two bibliographies, <i>Sources on Family History: A Select Bibliography</i> and <i>The Hadhrami Arabs in Southeast Asia with Special Reference to Singapore: An Annotated Bibliography</i>. Her upcoming project, a major exhibition on family history, will be launched in July 2013.
@@ -196,38 +198,38 @@ Singapore. [_Administration report of the Singapore Municipality for the year 19
 
 ———. (1925). [XVII burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Printed at Govt. Off. (Microfilm no.: NL3411)
 
-Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739). (1960, December 15). Budget heatlh (Vol. 14, cols. 728—729). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
+Singapore. Legislative Assembly. [_Debates: Official report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739). (1960, December 15). Budget: Health (Vol. 14, cols. 728–729). Singapore: \[s.n.\]. (Call no.: RCLOS 328.5957 SIN)
 
-———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035–2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL 1047—1048)
+———. (2002, May 22). [Budget, Ministry of the Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (Vol. 74, cols. 2035–2037). Singapore: \[s. n.\]; Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1047–1048)
 
-———. (1902, October 24). [President Remarks](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (c) New Christian Cemetery (No. 61, col. 1582). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1053—1054)
+———. (1902, October 24). [President Remarks](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (c) New Christian Cemetery (No. 61, col. 1582). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1053–1054)
 
 
-———. (1904, May 27). [Burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 27, col. 595)(Microfilm nos.: NL 1047—1048)
+———. (1904, May 27). [Burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 27, col. 595)(Microfilm nos.: NL 1047–1048)
 
-———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055—1056)
+———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055–1056)
 
-———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 291). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055—1056)
+———. (1905, June 23). [Mohamedan burial ground, Seranggong Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 32, col. 291). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055–1056)
 
-———. (1905, September 15). [Mohamedan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 51, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055—1056)
+———. (1905, September 15). [Mohamedan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 51, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1055–1056)
 
-———. (1906, January 19). [Bidadari Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 3, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1059—1060)
+———. (1906, January 19). [Bidadari Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 3, col. 179). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1059–1060)
 
-———. (1909, July 16). [Closing Bukit Timah Road Christian Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 34, col. 207). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1066—1067)
+———. (1909, July 16). [Closing Bukit Timah Road Christian Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 34, col. 207). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1066–1067)
 
-———. (1909, February 19). [Plans for mosque for Mohamedan burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 4, col. 22). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1067—1068)
+———. (1909, February 19). [Plans for mosque for Mohamedan burial ground](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 4, col. 22). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1067–1068)
 
-———. [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemetery (No. 43, col. 266). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
+———. [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, September 10). For quarters, Mohammedan Cemetery (No. 43, col. 266). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068–1069)
 
-———. (1909, August 13). [Muhammadan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. unknown, col. 41). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068—1069)
+———. (1909, August 13). [Muhammadan Cemetery](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. unknown, col. 41). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1068–1069)
 
 ———. (1909, October 15). [Additional by-laws for the regulation of burial grounds](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (No. 1075, col. 34). Singapore: Printed at Govt. Off. (Microfilm no.: NL1069)
 
-———. [*Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1911, February 24). Burial grounds (No. 251, col. 36). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1073—1074)
+———. [*Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town , for the month of December 1911*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1911, February 24). Burial grounds (No. 251, col. 36). Singapore: Printed at Govt. Off. (Microfilm nos.: NL1073–1074)
 
 ———. [*Progress report and statement of the receipts and disbursements on account of the Municipal Fund of the Municipality of Singapore Town, for the month of June 1910*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724) (1910, August 26). Burial grounds (No. 1036, col. 30). Singapore: Printed at Govt. Off. (Microfilm no.: NL1072)
 
-**Newpaper Articles**
+**Newspaper Articles**
 
 Ahmad Mohd Don. (1984, September 25). [Perkuburan ‘kaya’ dekat Masjid Malabar…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19840925-1.2.45). _Berita Harian_, p. 5. Retrieved from NewspaperSG.
 
@@ -293,33 +295,33 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^2]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 23.
 
-[^3]: The Bidadari cemetery comprises the Bidadari Christian, Muslim, Singhalese and Hindu cemeteries.
+[^3]: The Bidadari cemetery comprises the Bidadari Christian, Muslim, Sinhalese and Hindu cemeteries.
 
-[^4]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, p. 206.
+[^4]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 206.
 
-[^5]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, p. 209.
+[^5]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 209.
 
-[^6]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Introduction: The death of cemeteries in Singapore, 2011, p. 8.
+[^6]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 8.
 
-[^7]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, p. 212.
+[^7]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 212.
 
-[^8]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, p. 216.
+[^8]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 216.
 
-[^9]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, pp. 212—213.
+[^9]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, pp. 212–213.
 
-[^10]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Keramats, 2011, pp. 212—213.
+[^10]: [Widodo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, pp. 212–213.
 
-[^11]: [Ahmad Ibrahim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5539710), 1965, p. 38. &nbsp;
+[^11]: [Ahmad Ibrahim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5539710), 1965, p. 38.
 
 [^12]: [Lebih 57,000 kubur di Bidadari belum dituntut](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020720-1.2.25.3). (2002, July 20). _Berita Harian_, p. 17. Retrieved from NewspaperSG.
 
-[^13]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), Introduction: The death of cemeteries in Singapore, 2011, p. 21; Nadzri Eunos. (2007, October 24). [10,000 kubur lama di Pusara Aman akan dipindah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20071024-1.2.4). _Berita Harian_, p. 1. Retrieved from NewspaperSG.&nbsp; Numbers given by Tan is 78,800 Muslim burials in Bidadari, whereas a Berita Harian article reports 77,700 exhumed graves in Bidadari that was later to be interred in Pusara Abadi.
+[^13]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 21; Nadzri Eunos. (2007, October 24). [10,000 kubur lama di Pusara Aman akan dipindah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20071024-1.2.4). _Berita Harian_, p. 1. Retrieved from NewspaperSG.&nbsp; Tan provided a figure of 78,800 Muslim burials in Bidadari, whereas a <i>Berita Harian</i> article reported 77,700 exhumed graves in Bidadari that were later interred in Pusara Abadi.
 
 [^14]: Suhaimi Mohsen. (1996, April 14). [Meninjau persoalan kubur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960414-1.2.14.3)_. Berita Harian_, p. 4; Hasleen Bachik. (1996, April 2). [720 famili daftar tuntut mayat di Bidadari](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960402-1.2.10.13). _Berita Harian_, p. 3. Retrieved from NewspaperSG; [_Berita Harian_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020720-1.2.25.3), 20 Jul 2002, p. 17.
      
-[^16]: Author compiles table of Muslim burial places namely from the following sources: (i) [_Report of the Committee Regarding Burial and Burial Grounds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585434), 1952; (ii) Zakaria Buang. (1982, October 24). [Soal tanah wakaf: MTFA rancang adakan bincangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19821024-1.2.21). _Berita Harian_, p. 2; [Sejumlah 3245.55 h kawasan kuburan akan diambil](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19780408-1.2.14.9). (1978, April 8). _Berital Harian_, p. 2; [URA ambil alih tanah kubur wakaf di River Valley Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830608-1.2.27). (1983, June 8). _Berita Harian_, p. 3; Hasleen Bachik. (1996, March 26). [8,000 kubur di Bidadari terjejas dengan projek LTA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960326-1.2.9.13). _Berita Harian_, p. 3. Retrieved from NewspaperSG. There were notifications that appeared in Berita Harian in the 1980s-2000s from MUIS (Islamic Religious Council of Singapore), MTFA (Muslimin Trust Fund Association), NEA (National Environment Agency) and even private construction/ contractors who bought land and discovered that it contained Muslim burials. These notifications seek descendants to claim the deceased burial lands.
+[^16]: The table of Muslim burial places was compiled based on the following sources: (i) [_Report of the Committee Regarding Burial and Burial Grounds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585434), 1952; (ii) Zakaria Buang. (1982, October 24). [Soal tanah wakaf: MTFA rancang adakan bincangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19821024-1.2.21). _Berita Harian_, p. 2; [Sejumlah 3245.55 h kawasan kuburan akan diambil](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19780408-1.2.14.9). (1978, April 8). _Berital Harian_, p. 2; [URA ambil alih tanah kubur wakaf di River Valley Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830608-1.2.27). (1983, June 8). _Berita Harian_, p. 3; Hasleen Bachik. (1996, March 26). [8,000 kubur di Bidadari terjejas dengan projek LTA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960326-1.2.9.13). _Berita Harian_, p. 3. Retrieved from NewspaperSG. There were notifications that appeared in <i>Berita Harian</i> in the 1980s–2000s from the Islamic Religious Council of Singapore, Muslimin Trust Fund Association, National Environment Agency and even private construction/contractors who bought land and discovered that it contained Muslim burials. These notifications seek descendants to claim the deceased burial lands.
 
-[^17]: Saga of a Danish trader in [_Bali Chronicles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370), 2004, p. 112; [Bloch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232), _Mads Lange: The Bali trader and peacemaker_, 2007, pp. 170—171. &nbsp;
+[^17]: [Hanna](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200146370), 2004, p. 112; [Bloch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232), 2007, pp. 170–171. &nbsp;
 
 [^18]: [Bloch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13080232), 2007, p. 113.
 
@@ -329,7 +331,7 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^21]: Singapore. [_Administration report of the Singapore Municipality for the year 1902_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1902). Christian Cemetery. Singapore: Printed at Govt. Off. (Microfilm no.: NL3406)
 
-[^22]: Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bididari (No. 27, col. 1562). However, the specific intent for the acquisition of Bidadari estate for the purpose of a New Christian Cemetery was published a month later at the gazette of 24 October 1902. Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, October 24). President Remarks. (c) New Christian Cemetery (No. 61, col. 1582).
+[^22]: Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, September 26). Acquisition (b) Bidadari (No. 27, col. 1562). However, the specific intent for the acquisition of Bidadari estate for the purpose of a new Christian cemetery was published a month later in the gazette of 24 October 1902. Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1902, October 24). President Remarks. (c) New Christian Cemetery (No. 61, col. 1582).
 
 [^23]: Straits Settlements. Government Gazette. _[Supplement to Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)_. (1904, May 27). Burial ground (No. 27, col. 595.).
 
@@ -359,7 +361,7 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^36]: [_Administration report of the Singapore Municipality for the year 1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1925). XVII Burial grounds.
 
-[^37]: [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, October 15). Additional by-laws for the regulation of burial grounds (No. 1075, col. 34
+[^37]: [*Supplement to Straits Settlements Government Gazette*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724). (1909, October 15). Additional by-laws for the regulation of burial grounds (No. 1075, col. 34).
 
 [^38]: [_Administration report of the Singapore Municipality for the year 1904_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). (1904). New cemetery and sale of land at the old cemetery, Bukit Timah Road.
 
@@ -367,10 +369,10 @@ National Archives of Singapore. (7 June 2001). [_Historic site making of Bidadar
 
 [^40]: [_Administration report of the Singapore Municipality for the year 1904_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316), 1904.
 
-[^41]: Yeoh (1991, September). The control of “sacred” space: Conflicts over the Chinese burial grounds in colonial Singapore, 1880–1930. _Journal of Southeast Asian Studies, 22_ (2), 282–311.
+[^41]: Yeoh, Sep 1991, pp. 282–311.
 
-[^42]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), Heritage places of Singapore, 2009, p. 178. &nbsp;
+[^42]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), 2009, p. 178.
 
 [^43]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), 2011, p. 21.
 
-[^44]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), Heritage places of Singapore, 2009, p. 178.
+[^44]: [Wan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), 2009, p. 178.

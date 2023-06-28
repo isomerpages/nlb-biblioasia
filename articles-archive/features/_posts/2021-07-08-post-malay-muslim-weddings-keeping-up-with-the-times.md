@@ -173,14 +173,14 @@ Today, however, the <i>mak andam</i> has been relegated to a less important role
 (Translation: … if you are a <i>mak andam</i>, your duties will extend beyond just dolling up the bride. You will have to know the various cultural traditions, protocols and rites. Previously, when people ask which <i>mak andam</i> you picked, they would go oh, this <i>mak andam</i> has very good mannerisms and adherence to traditions. Whereas nowadays, when people ask who is the <i>mak andam</i>, they are comparing how stylish the makeup and outfits are.)</span>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/Nadya-Suradi.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/Nadya-Suradi.png" style="width: 100px; height: 100px;">
 <b>Nadya Suradi</b> is an Assistant Manager with Programmes and Exhibitions. She curates programmes to introduce younger people to the collections of the National Library and National Archives.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/Asrina-Tanuri.png" style="width: 100px; height: 100px;">
 	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.
 </div>
 
@@ -198,7 +198,7 @@ Today, however, the <i>mak andam</i> has been relegated to a less important role
 
 [^5]: Muhammad Ariff Ahmad. (2007). *[Nilam: Nilai Melayu menurut adat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522)* (pp. 278–279). Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. (Call no.: Malay RSING 305.89928 MUH); [Hidayah Amin](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200709931), 2014, pp. 95–97.
 
-[^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin & marriage expenses*. Retrieved from Registry of Muslim Marriages website.
+[^6]: Registry of Muslim Marriages. (2019, May 10). *Maskahwin &amp; marriage expenses*. Retrieved from Registry of Muslim Marriages website.
 
 [^7]: Ruzita Zaki. (Interviewer). (1995, February 7). *[Oral history interview with Mohd Amin bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad)* [MP3 recording no. 001597/44/7]. Retrieved from National Archives of Singapore website.
 
@@ -210,7 +210,7 @@ Today, however, the <i>mak andam</i> has been relegated to a less important role
 
 [^11]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 274–275; Hadijah Rahmat. (2005). *[Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
 
-[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *[Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5a6951c5-115e-11e3-83d5-0050568939ad-OHC001216_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=21)* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
+[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *[Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5a6951c5-115e-11e3-83d5-0050568939ad-OHC001216_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=21)* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
 
 [^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). *[Oral history interview with Aliman bin Hassan (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fee070a7-115d-11e3-83d5-0050568939ad)* [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
 
@@ -218,13 +218,13 @@ Today, however, the <i>mak andam</i> has been relegated to a less important role
 
 [^15]: Spykerman, K. (2012, January 15). [My big fat void deck wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120115-1.2.54.1.1). *The Straits Times*, p. 2; Shahida Sarhid. (2012, September 30). [Kambing barbeku, susyi antara hidangan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20120930-1.2.13.1). *Berita Harian*, p. 6. Retrieved from NewspaperSG. 
 
-[^16]: Nur ‘Adilah Mahbob. (2013, May 24). [Taman jadi laman popular majlis kahwin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20130524-1.2.7.3.12). *Berita Harian*, p. 14; Salma Semono. (2007, July 28). [Sajian untuk jemputan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20070728-1.2.53.47). *Berita Harian*, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim & Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. *Berita Minggu*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^16]: Nur ‘Adilah Mahbob. (2013, May 24). [Taman jadi laman popular majlis kahwin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20130524-1.2.7.3.12). *Berita Harian*, p. 14; Salma Semono. (2007, July 28). [Sajian untuk jemputan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20070728-1.2.53.47). *Berita Harian*, p. 27. Retrieved from NewspaperSG; Norhaiza Hashim &amp; Shahida Sarhid. (2019, October 6). Khidmat semua di ‘bawah satu bumbung’ kian jadi pilihan mempelai. *Berita Minggu*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^17]: Azman Siraj. (1990, October 24). [Khidmat DJ kian popular dalam majlis perkahwinan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19901024-1.2.27.2.8). *Berita Harian*, p. 6; Ismail Pantek. (2010, June 14). [Semua ‘turun padang’ rewang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20100614-1.2.19.3.2). *Berita Harian*, p. 9; Kamali Hudi. (2002, August 17). [Lagu pengantin citra warisan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20020817-1.2.34.2). *Berita Harian*, p. 22. Retrieved from NewspaperSG; [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 244.
 
 [^18]: [Hadijah Rahmat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 241; Muhammad Ariff Ahmad. (1988, April 7). [The grand finale in the Malay wedding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *[Silat pengantin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203939195)* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Koh, J., & Ho, S. (2009). *[Culture and customs of Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13221966)* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
+[^19]: *Silat pengantin* is a ceremonial Malay martial arts performance to honour and give strength to the groom and to welcome the newlyweds. Compared to *pencak silat* (Malay martial arts), *silat pengantin* uses gentler hand movements, which are still executed in firm and strong strokes to convey respect and honour to the newlyweds. The *silat pengantin* is performed in rhythm with accompanying music from the *kompang* troupe. The performance ends with a handshake between the groom and the *silat* performer. See Pendekar Temasek. (2019). *[Silat pengantin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203939195)* (pp. 24–40). Singapore: Pustaka Nasional Pte Ltd. (Call no.: Malay RSING 796.81509595 PEN); *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Koh, J., &amp; Ho, S. (2009). *[Culture and customs of Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13221966)* (p. 119). Santa Barbara, California: Greenwood Press. (Call no.: YP R305.80095957 KOH)
 
 [^20]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880407-1.2.72.10.1)*, 7 Apr 1988, p. 6; Muhammad Ariff Ahmad. (1993). *[Bicara tentang adat dan tradisi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6532070)* (pp. 44–46). Singapore: Pustaka Nasional. (Call no.: Malay RSING 306.08999205957 MUH)
 
@@ -254,7 +254,7 @@ Today, however, the <i>mak andam</i> has been relegated to a less important role
 
 [^33]: Advisory on kuda kepang performances. (2019, July 25). *Office of the Mufti*. Retrieved from Majlis Ugama Islam Singapura website; [‘Kuda kepang’ against Islam: Muis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790614-1.2.82). (1979, June 14). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin & Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
+[^34]: Fatimah Abdullah. (2009). Dari halaman rumah ke Dewan Merak Kayangan: Upacara perkahwinan Melayu bandar. *SARI: Jurnal Alam dan Tamadun Melayu, 27*, 97–107. Retrieved from UKM Journal Article Repository website; Mohd Khairuddin Mohd Sallehuddin &amp; Mohamad Fauzi Sukimi. (2016). Impian dan realiti majlis perkahwinan orang Melayu masakini: Kajian kes di pinggir bandar Kuala Lumpur. *Geografia: Malaysian Journal of Society and Space, 12* (7), 1–12. Retrieved from UKM Journal Article Repository website.
 
 [^35]: A. Hamid Besih. (1996, September 28). [Pengertian di sebalik ‘bunga telur’ hampir lebur](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19960928-1.2.43.2.10). *Berita Harian*, p. 7. Retrieved NewspaperSG.
 

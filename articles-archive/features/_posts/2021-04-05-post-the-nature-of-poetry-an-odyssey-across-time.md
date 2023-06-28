@@ -6,7 +6,6 @@ breadcrumb: "The Nature of Poetry: An Odyssey Across Time"
 third_nav_title: "The Nature of Poetry: An Odyssey Across Time"
 image: /images/Vol-17-issue-1/poetry/selita.jpg
 ---
-
 <style>
 table { 
 	background-color: #fff6ba;
@@ -22,7 +21,7 @@ table {
 #### **Michelle Heng** takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/poetry/selita.jpg">
 This print titled “Road Near Selita” (1869) by the Austrian diplomat and naturalist Eugen von Ransonnet was published in his <i>Skizzen aus Singapur and Djohor (Sketches: Singapore and Johor)</i> in 1876. It shows a road in Selita (Seletar), Singapore, as observed by von Ransonnet, who described it as a most attractive road cutting through tropical vegetation. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -46,7 +45,7 @@ It is noteworthy that this poem is one of several literary works appropriating t
 One of the oldest poems written by a homegrown poet, “F.M.S.R.” was published in 1937 by a poet who used the pseudonym “Francis P. Ng”. The influences of Modernism on “F.M.S.R.” are evident in its form and certainly resonates with the dark undertones seen in T.S. Eliot’s “The Waste Land”.[^10] Through dogged detective work, researcher Eriko Ogihara-Schuck established that Francis P. Ng was actually Teo Poh Leng, who was born in Singapore in 1912 and who died in 1942 at the start of the Japanese Occupation (1942–45).[^11]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/poetry/RC.jpg">
 Teo Poh Leng (also known as Francis P. Ng) is in this photo taken of the staff and graduates of Raffles College in 1934. He is unidentifiable to date as no photos of him have been found. <i>Image reproduced from Raffles College Union Magazine, July 1934, Vol. 4, No. 10, between p. 42 and p. 43</i>.
 </div>
@@ -72,8 +71,8 @@ lines below:
 I held the arm bone in my hand,<br>    And let “my warm tears fall;<br>My brothers were slain at Ponggol Beach,<br>    My brothers Peter and Paul.[^17]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/poetry/teo-kah-leng.jpg">
+<br>
+<img src="/images/Vol-17-issue-1/poetry/Teo-Kah-Leng.jpg">
 Photo of Teo Kah Leng taken in front of Holy Innocents’ English School, late 1940s to early 50s. He wrote “I Found A Bone” in the aftermath of the Japanese Occupation. <i>Courtesy of Anne Teo</i>.
 </div>
 
@@ -86,7 +85,7 @@ Coincidentally, the two poems by the Teo siblings both mention Ponggol Zoo, one 
 “They strung us each to each in a line,<br>     With hands behind us tied,<br>And stretched us on the sandy beach<br>     To face the rising tide.[^20]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/poetry/bone.jpg">
 Teo Kah Leng’s poem, “I Found A Bone”, was published in the Holy Innocents’ English School Annual in 1955. <i>Courtesy of Montfort Schools</i>.
 </div>
@@ -111,7 +110,7 @@ The poem’s title takes inspiration from the death-in-life imagery invoked by a
 Thumboo’s poem is arranged in five sections of 50 to 60 lines each and gives full play to the poet’s weaving of myth, history, images and symbols, as well as philosophy and spirituality in a rich tapestry of individual and collective experiences.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/poetry/cough.png">
 (Above left) In 2006, Edwin Thumboo donated 15 sets of sepia-toned authorial drafts of “The Cough of Albuquerque” to the National Library Board. The typescripts shown here include Thumboo’s handwritten edits. These provide glimpses into the careful and considered pursuit of his craft. <i>Collection of the National Library, Singapore. (Call no.: RCLOS 378.12095957 THU-[ET]; Accession no.: B20056083B)</i>.<br>(Above right) Portrait of Edwin Thumboo, c. 1958, during the time when he was working at the Income Tax Department. <i>Collection of the National Library, Singapore. (Call no.: RCLOS 378.12095957 THU-[ET]; Accession no.: B20056083B)</i>.
 </div>
@@ -145,7 +144,7 @@ Nourishing his wants<br>a commercial waterway<br>greased with waste[^37]
 
 Echoing similar sentiments, Arthur Yap’s 1980 poem “Old Tricks for New Houses”[^38] makes a wry remark on the land reclamation initiatives to develop residential estates:
 
-the sea can’t reach you now<br>& it’ll be further away next year.<br>your neighbours will hang crabshells<br>on their pomegranate plants as saline testimony,<br>your proximate goodwill will be good<br>& help salt away the years in happy homes.[^39]
+the sea can’t reach you now<br>&amp; it’ll be further away next year.<br>your neighbours will hang crabshells<br>on their pomegranate plants as saline testimony,<br>your proximate goodwill will be good<br>&amp; help salt away the years in happy homes.[^39]
 
 In many of Yap’s poems, the promise of economic success and material gains is often compromised by scenes of stagnation and a sense of alienation.[^40] The remnants of marine life described in “Old Tricks for New Houses” are left hanging as pomegranate plants lining the corridors of public housing estates – built on reclaimed land – as a mere memory of the natural landscape.
 
@@ -153,9 +152,9 @@ In many of Yap’s poems, the promise of economic success and material gains is 
 The Singapore of today, with its manicured gardens, roadside greenery and tamed landscape, is vastly different from the one that inspired Thumboo and the poets of the immediate post-war period. Today’s poets, are in fact, inspired by the process of mastering nature, as the works in the 2015 anthology *From Walden to Woodlands* demonstrate. These poems draw inspiration from the flora, fauna and habitats native to Singapore and explore our relationship with the environment at large.[^41]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/poetry/woodlands.jpg">
-The poems in this anthology draw inspiration from the flora, fauna and habitats native to Singapore, and explore our relationship with the environment. <i>Ow Yeong, W.K., & Muzakkir Samat. (2015). From Walden to Woodlands: An Anthology of Nature Poems. Singapore: Ethos Books. Collection of the National Library, Singapore. (Call no.: RSING S821 FRO)</i>.
+The poems in this anthology draw inspiration from the flora, fauna and habitats native to Singapore, and explore our relationship with the environment. <i>Ow Yeong, W.K., &amp; Muzakkir Samat. (2015). From Walden to Woodlands: An Anthology of Nature Poems. Singapore: Ethos Books. Collection of the National Library, Singapore. (Call no.: RSING S821 FRO)</i>.
 </div>
 
 In Eric Tinsay Valles’ “Singapore River on Exhibit”, a poem published in 2015 and inspired by an exhibition at the Asian Civilisations Museum, the poet pays tribute to what must have been abundant aquatic life teeming beneath the murky waters of the Singapore River (before it was cleaned up), alongside the multicultural, multilingual tapestry of commerce taking place along its shores: 
@@ -170,7 +169,7 @@ The Singapore River, in the eyes of this poet, hums with life despite its presen
 natural landmark.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/poetry/sgriver.jpg">
 The skyline showing the early signs of dramatic changes along the Singapore River in the 1960s. The tallest building is the Bank of China, designed in the Art Deco style. <i>George W. Porter Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -197,8 +196,8 @@ In these lines, flora, fauna and faith in the nurturing qualities of domestic bl
 Bringing the winding odyssey of past lyrical-sojourners at the beginning of this exploratory journey to a close, Maniam’s poem is reflective of a later generation of poets who negotiate the curves ahead with a growing, confident voice, armed with an established identity right at home.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/michelle_heng.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/Michelle_Heng.png" style="width: 100px; height: 100px;">
 <b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She curated the tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition”, in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo titled <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012) as well as the <i>Selected Poems of Goh Poh Seng</i> (2013).
 </div>
 
@@ -208,13 +207,13 @@ Bringing the winding odyssey of past lyrical-sojourners at the beginning of this
 
 [^1]: Ng, L. (2019). Introduction (p. 1). In  Azhar Ibrahim, et al. (Eds.), *[Contour: A lyric cartography of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203986178)*. Singapore: Published by Pagesetters Services Pte Ltd for Poetry Festival Singapore. (Call no.: RSING S821 CON)
 
-[^2]: Thumboo, E., & Valles, E.T. (Eds.). (2019). *[The nature of poetry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204371253)* (p. xiv). Singapore: National Parks Board. (Available via PublicationSG)
+[^2]: Thumboo, E., &amp; Valles, E.T. (Eds.). (2019). *[The nature of poetry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204371253)* (p. xiv). Singapore: National Parks Board. (Available via PublicationSG)
 
-[^3]: Thumboo & Valles, 2019, p. xiv; Leyden, J. (2012). *[Sejarah Melayu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14540493)* (pp. 33–36, 40–46). Kuala Lumpur: Silverfish Books Sdn Bhd. (Call no.: RSING 959.1 SEJ) 
+[^3]: Thumboo &amp; Valles, 2019, p. xiv; Leyden, J. (2012). *[Sejarah Melayu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14540493)* (pp. 33–36, 40–46). Kuala Lumpur: Silverfish Books Sdn Bhd. (Call no.: RSING 959.1 SEJ) 
 
 [^4]: Liaw, Y.F. (2013). *[A history of classical Malay literature](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200137611)* (p. 356). Singapore: Institute of Southeast Asian Studies. (Call no.: RSEA 899.2809 LIA)
 
-[^5]: Thumboo & Valles, 2019, p. xiv; Holden, P. (2009). Introduction: Literature in English in Singapore before 1965 (pp. 8, 43). In A. Poon, P. Holden & S.G.-L. Lim (Eds.), *[Writing Singapore: An historical anthology of Singapore literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645)*. Singapore: NUS Press; National Arts Council Singapore. (Call no.: RSING S820.8 WRI)
+[^5]: Thumboo &amp; Valles, 2019, p. xiv; Holden, P. (2009). Introduction: Literature in English in Singapore before 1965 (pp. 8, 43). In A. Poon, P. Holden &amp; S.G.-L. Lim (Eds.), *[Writing Singapore: An historical anthology of Singapore literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645)*. Singapore: NUS Press; National Arts Council Singapore. (Call no.: RSING S820.8 WRI)
 
 [^6]: [Holden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645), 2009, p. 8.
 
@@ -224,23 +223,23 @@ Bringing the winding odyssey of past lyrical-sojourners at the beginning of this
 
 [^9]: Lee, T.P. (1985). Introduction (p. 453). In E. Thumboo, et al. (Eds.), *[The poetry of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585344)*. Singapore: Asean Committee on Culture and Information. (Call no.: RSING S821 POE). [Note: By writing in English, Lee notes that a poet in Singapore manifests rather naturally some literary assumptions of the English poetic tradition.]
 
-[^10]: Eliot, T.S. (2019). *[The waste land](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204024786)*. London: Faber & Faber. (Call no.: 821.912 ELI)
+[^10]: Eliot, T.S. (2019). *[The waste land](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204024786)*. London: Faber &amp; Faber. (Call no.: 821.912 ELI)
 
-[^11]: Ogihara-Schuck, E. (2015). Introduction (pp. 8–10). In E. Ogihara-Schuck & A. Teo. (Eds.), *[Finding Francis: A poetic adventure](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092)*. Singapore: Ethos Books. (Call no.: RSING S821 NG)
+[^11]: Ogihara-Schuck, E. (2015). Introduction (pp. 8–10). In E. Ogihara-Schuck &amp; A. Teo. (Eds.), *[Finding Francis: A poetic adventure](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092)*. Singapore: Ethos Books. (Call no.: RSING S821 NG)
 
-[^12]: [Ogihara-Schuck & Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, pp. 40–41.
+[^12]: [Ogihara-Schuck &amp; Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, pp. 40–41.
 
-[^13]: [Ogihara-Schuck & Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, p. 48.
+[^13]: [Ogihara-Schuck &amp; Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, p. 48.
 
-[^14]: [Ogihara-Schuck & Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, p. 50.
+[^14]: [Ogihara-Schuck &amp; Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, p. 50.
 
 [^15]: Gui, W. (2017). Global Modernism in colonial Malayan and Singaporean literature: The poetry and prose of Teo Poh Leng and Sinnathamby Rajaratnam. *Postcolonial Text, 12* (2), 1–18, pp. 1–8. Retrieved from Postcolonial Text website. 
 
 [^16]: Gui, 2017, p. 8. 
 
-[^17]: Teo, K.L. (1955). I found a bone (p. 74). In E. Ogihara-Schuck & S. Kum (Eds.) (2016), *[I found a bone and other poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202554510)*. Singapore: Ethos Books. (Call no.: RSING S821 NG)
+[^17]: Teo, K.L. (1955). I found a bone (p. 74). In E. Ogihara-Schuck &amp; S. Kum (Eds.) (2016), *[I found a bone and other poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202554510)*. Singapore: Ethos Books. (Call no.: RSING S821 NG)
 
-[^18]: [Ogihara-Schuck & Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, pp. 4–5. [Note: The Sook Ching massacre, carried out from 21 February to 4 March 1942, refers to the Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were summarily executed. For more information, see Ho, S. (2013, June 17). *[Operation Sook Ching](https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html)*. Retrieved from Singapore Infopedia website.]
+[^18]: [Ogihara-Schuck &amp; Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, pp. 4–5. [Note: The Sook Ching massacre, carried out from 21 February to 4 March 1942, refers to the Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were summarily executed. For more information, see Ho, S. (2013, June 17). *[Operation Sook Ching](https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html)*. Retrieved from Singapore Infopedia website.]
 
 [^19]: Chng, H. (2016, November 20). *S’pore’s first zoo was not in Mandai. One of the earliest was started by an “Animal Man” who went around with a pet tiger*. Retrieved from Mothership website.
 
@@ -248,17 +247,17 @@ Bringing the winding odyssey of past lyrical-sojourners at the beginning of this
 
 [^21]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585344), 1985, p. 462.
 
-[^22]: Lim, T.S. (1953). Lallang (p. 126). In A. Poon, P. Holden & S.G.-L. Lim (Eds.). (2009), *[Writing Singapore: An historical anthology of Singapore literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645)*. Singapore: NUS Press; National Arts Council Singapore. (Call no.: RSING S820.8 WRI)
+[^22]: Lim, T.S. (1953). Lallang (p. 126). In A. Poon, P. Holden &amp; S.G.-L. Lim (Eds.). (2009), *[Writing Singapore: An historical anthology of Singapore literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645)*. Singapore: NUS Press; National Arts Council Singapore. (Call no.: RSING S820.8 WRI)
 
 [^23]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4585344), 1985, p. 462.
 
-[^24]: Gwee, L.S., & Heng, M. (Eds.). (2012). *[Edwin Thumboo: Time-travelling: A select annotated bibliography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14470981)* (p. 32). Singapore: National Library Board. (Call no.: RSING S821 EDW)
+[^24]: Gwee, L.S., &amp; Heng, M. (Eds.). (2012). *[Edwin Thumboo: Time-travelling: A select annotated bibliography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14470981)* (p. 32). Singapore: National Library Board. (Call no.: RSING S821 EDW)
 
 [^25]: Ee, T.H. (1997). The cough of Albuquerque (p. 28). In L.G. Leong (Ed.), *[Responsibility and commitment: The poetry of Edwin Thumboo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8567771)*. Singapore: Published for Centre for Advanced Studies by Singapore University Press. (Call no.: RSING S821.09 EE)
 
 [^26]: Thumboo, E. (2011). *[The cough of Albuquerque](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=531fda65-cf73-4d44-82b1-f5f394645c18)* [Book extract]. Retrieved from National Online Repository of the Arts (NORA) website. 
 
-[^27]: Eliot, T.S. (1951). *[Collected poems, 1909–1935](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12883557)* (p. 37). London: Faber & Faber Limited. (Call no.: RDET 821.912 ELI)
+[^27]: Eliot, T.S. (1951). *[Collected poems, 1909–1935](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12883557)* (p. 37). London: Faber &amp; Faber Limited. (Call no.: RDET 821.912 ELI)
 
 [^28]: [Ee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8567771), 1997, p. 28. 
 
@@ -286,12 +285,12 @@ Bringing the winding odyssey of past lyrical-sojourners at the beginning of this
 
 [^40]: Tay, E. (2014). On places and spaces: The possibilities of teaching Arthur Yap (pp. 106–107). In W. Gui (Ed.), *[Common lines and city spaces: A critical anthology on Arthur Yap](https://nlb.overdrive.com/media/2044569)*. Singapore: ISEAS Publishing. (Ebook available on NLB OverDrive) 
 
-[^41]: Ow Yeong, W.K., & Muzakkir Samat. (Eds.). (2015). *[From Walden to Woodlands: An anthology of nature poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201415009)*. Singapore: Ethos Books. (Call no.: RSING S821 FRO)
+[^41]: Ow Yeong, W.K., &amp; Muzakkir Samat. (Eds.). (2015). *[From Walden to Woodlands: An anthology of nature poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201415009)*. Singapore: Ethos Books. (Call no.: RSING S821 FRO)
 
-[^42]: Valles, E.T. (2010). Singapore River on Exhibit (pp. 91–92). In W.K. Ow Yeong & Muzakkir Samat (Eds.). (2015), *[From Walden to Woodlands: An anthology of nature poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201415009)*. Singapore: Ethos Books. (Call no.: RSING S821 FRO)
+[^42]: Valles, E.T. (2010). Singapore River on Exhibit (pp. 91–92). In W.K. Ow Yeong &amp; Muzakkir Samat (Eds.). (2015), *[From Walden to Woodlands: An anthology of nature poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201415009)*. Singapore: Ethos Books. (Call no.: RSING S821 FRO)
 
-[^43]: [Ow Yeong & Muzakkir Samat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201415009), 2015, pp. 91–92. 
+[^43]: [Ow Yeong &amp; Muzakkir Samat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201415009), 2015, pp. 91–92. 
 
-[^44]: Maniam, A. (2019). My mother’s garden (pp. 36–37). In E. Thumboo & E.T. Valles (Eds.), *[The nature of poetry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204371253)*. Singapore: National Parks Board. (Available via PublicationSG)
+[^44]: Maniam, A. (2019). My mother’s garden (pp. 36–37). In E. Thumboo &amp; E.T. Valles (Eds.), *[The nature of poetry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204371253)*. Singapore: National Parks Board. (Available via PublicationSG)
 
 [^45]: [Maniam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204371253), 2019, p. 37.

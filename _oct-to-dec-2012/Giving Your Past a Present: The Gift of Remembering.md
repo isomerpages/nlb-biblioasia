@@ -9,11 +9,11 @@ Ruth was sharing her experience interviewing residents of the soon-to-be-relocat
 
 Ruth is a student from the Victoria Junior College and part of the Memory Corps – volunteers of the Singapore Memory Project. She and I were interviewed by a major news agency on our thoughts about the identity of Singapore and Singaporeans.
 
-Through Ruth and many other fresheyed volunteers who have participated in the Singapore Memory Project, we have come to realise that the power of memories lies in them not being solitary pursuits. Rather, memories and especially the stories that enliven them when shared, generate conversations that otherwise would not have happened. In the case of Ruth and many youth volunteers who documented the stories of older Singaporeans, many of whom can recount but are not as adept in writing them down, these dialogues help connect both generations through vivid narratives.
+Through Ruth and many other fresh-eyed volunteers who participated in the Singapore Memory Project, we have come to realise that the power of memories lies in them not being solitary pursuits. Rather, memories and especially the stories that enliven them when shared, generate conversations that otherwise would not have happened. In the case of Ruth and many youth volunteers who documented the stories of older Singaporeans, many of whom can recount but are not as adept in writing them down, these dialogues help connect both generations through vivid narratives.
 
-The Singapore Memory Project is a wholeof-nation initiative that aims to collect 5 million memories of Singapore by 2015. Since it was highlighted by Prime Minister Lee Hsien Loong at the National Day Rally in August 2011, we have begun in earnest to experiment with myriad channels to collect those memories.
+The Singapore Memory Project is a whole-of-nation initiative that aims to collect 5 million memories of Singapore by 2015. Since it was highlighted by Prime Minister Lee Hsien Loong at the National Day Rally in August 2011, we have begun in earnest to experiment with myriad channels to collect those memories.
 
-Experiences shared by Ruth are a humbling reminder of their enduring value to the project team, which is to bring back the magic of conversations, to bond Singaporeans through shared experiences – and ultimately to achieve the ideals of nation building.
+Experiences shared by Ruth are a humbling reminder of their enduring value to the project team, which is to bring back the magic of conversations, to bond Singaporeans through shared experiences – and ultimately to achieve the ideals of nation-building.
 
 What was also very illuminating from Ruth’s experience is that she was drawn into an era before her time, one that her generation would find almost alien.
 
