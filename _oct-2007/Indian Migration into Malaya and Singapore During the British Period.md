@@ -100,5 +100,21 @@ Serangoon Road was first populated by Indians engaged in cattle-related activiti
 
 Besides the above areas of concentrations, Indians also settled near those areas set aside for plantations. The plantations hired mostly Indian labour, due to availability. As the plantations extended to Bukit Timah, Seletar, Pasir Panjang and Jurong, the Indian labourers tended to settle in these areas as well (Mani, 2006, p. 792).
 
+From 1960s, there was a slight change in the settlement patterns of the Indians. Instead of the original areas of settlement, the “Housing and Development Board (HDB) estates became the new areas of settlement” (Mani, 2006, p. 793) With increasing affluence and education, younger Indians have moved out to newer towns, but nearer their original homes, such as Ang Mo Kio, Toa Payoh, Queenstown, MacPherson and Woodlands. Subsequently, Indians also settled in Yishun, Hougang, Tampines and Jurong.
+
+As a result, the number of Indians staying in the previous areas of settlements has decreased. Even Serangoon Road, known as the Little India of Singapore, does not have a high concentration of Indian families. Despite this, Serangoon Road remains as the hub of Indian economic and cultural activities, mainly because of the concentration of Indian businesses in that area.
+
+#### **Builders of Early Singapore: Indians' Contribution to Infrastructure and Economy**
+
+Indians have played an important role in the economic development of Singapore. They “have been conspicuous as textile and piece-goods wholesalers and retailers, money-lenders, civil servants, and especially labourers.” The “wholesale Asian textile trade of post-war Singapore” was mostly “controlled by the Singapore-based Indian textile merchants, particularly the Sindhis and Sikhs” (Sandhu, 2006, p. 781).
+
+A third of the estimated 400 registered money-lenders and pawnbrokers in Singapore in 1947 were Indians. In 1963, about 80 percent of the 104 registered money-lenders were Indians. “The most important money-lenders among the Indians have been the Chettiars, though the Sikhs have also carried on a substantial money-lending business. The Chettiars’ clientele included not only Indian traders, contractors, and the like in Singapore and Malaya, but also Chinese miners and businessmen, European proprietary planters and others, and Malay royalty and civil servants” (Sandhu, 2006, p. 781).
+
+Most importantly, the significance of Indian plantation labour to the economic growth of Singapore and Malaya cannot be underestimated. By the later half of the 19th century, rubber became Malaya’s staple export due to increased demand from Europe; Indian labour was used to augment the demand.
+
+As the population in Singapore increased, there was an increased demand for development works, all of which were completed through convict labour. Convict labour was heavily tapped for the construction of roads, railways, bridges and government/public buildings, and for clearing and drainage projects.
+
+
+
 
 
