@@ -114,7 +114,27 @@ Most importantly, the significance of Indian plantation labour to the economic g
 
 As the population in Singapore increased, there was an increased demand for development works, all of which were completed through convict labour. Convict labour was heavily tapped for the construction of roads, railways, bridges and government/public buildings, and for clearing and drainage projects.
 
+“Filling up of swampy grounds; reclaiming large plots of land as intakes from the sea and river marshes; laying out plots of land for building purposes … ; blasting of rocks, erection of sea and river walls, bridges, viaducts and tunnels; survey and construction of roads were all executed by convicts” (Krishnan, 1936, p. 16).
 
+Indian convicts were responsible for building the St Andrew’s Cathedral, the Government House and the Sri Mariamman Temple in South Bridge Road. Their contribution to public works is tremendous, as they toiled to build the North and South Bridge Roads; Serangoon, Bedok and Thomson Roads; the road leading to Mount Faber and Bukit Timah; and most importantly the Causeway to Johore. They also widened the Bukit Timah canal to prepare the adjoining lands for cultivation and helped construct lighthouses as well as the signal station on Mount Faber.
+
+The convicts also built their own prison building in Bras Basah Road, the Civil Jail in Pearl’s Hill, the court house, public offi ces, General Hospital and several other public buildings. Besides being involved in construction work, the convicts were also trained as draughtsmen, bricklayers, blacksmiths and carpenters. Indian convicts were also employed in government kilns, to maintain supply of bricks, tile lime and cement required for new building constructions.
+
+Among the many prominent and successful Indians in early Singapore who have not only contributed to economic growth but to the social and cultural development of the Indian community, are Narayana Pillai and P. Govindasamy Pillai.
+
+Narayana Pillai was one of the first Indians to arrive in Singapore in 1819, together with Raffles. He rose from chief clerk in the Treasury to become the first building contractor in Singapore. He started the first brick kiln in Tanjong Pagar and also managed a successful bazaar selling cotton goods. He was recognised as an Indian leader and given the authority to resolve disputes amongst them. He built the Sri Mariamman Temple in 1828, which is the oldest Hindu temple in Singapore.
+
+Another successful Indian businessman was P. Govindasamy Pillai, better known as PGP, who established the popular PGP stores. At the height of his success, he owned several textile shops, fl our and spice mills, a supermarket, and also invested in properties in the Serangoon area. He was known as a benevolent philanthropist who donated to the Perumal Temple, University of Malaya, amongst others, and helped to found the Indian Chamber of Commerce and the Ramakrishna Mission, to which he also donated generously.
+
+#### **Population Growth of Indians in Singapore**
+
+Today, the Indian community in Singapore constitutes about 8 percent of the total population. In 2005, the number of Indians in Singapore was about 309,300. However these figures did not include the non-resident workers who are estimated to be between 90,000 to 100,000 (Lal, 2006, p. 176).
+
+Prior to the Second World War, the growth of the Indian population has been through labour migration; the “excess of immigrants over emigrants” (Sandhu, 1969, p. 185). The majority of Indian migrants in Malaya during the early stages were mostly males. There were about 171 women to every 1,000 men in Malaya in 1901. The number of Indian women increased as more came to work as labourers after labour migration was legalised and when more male labourers began to bring their families along. From 1930s, the improvement in the sex-ratio, as well as better health services contributed to the population growth via natural increase.
+
+After the war, the increase in total Indian population was due to excess births as compared to deaths, and not through migration. During the 1947–57 period, signifi cant increases in the number of Indians as compared to the total population was mostly evident in Singapore and Pahang (Sandhu, 1969, p. 197). This increase was estimated to be almost 80 percent (Sandhu, 1969, p. 190).
+
+The number of Indians in Malaya declined in the middle of the 20th century as Indian migration was affected by the Great Depression of the 1930s and World War Two and the subsequent Japanese Occupation. Before the war, Indian labour in Malaya comprised 75 percent of total labour force. This figure declined to about 50 percent in 1947 (Arasaratnam, 1979, p. 38). The passing of two acts in 1953 to control Indian labour has steadily led to a decline in the proportion of Indian labourers to the total Indian population.
 
 
 
