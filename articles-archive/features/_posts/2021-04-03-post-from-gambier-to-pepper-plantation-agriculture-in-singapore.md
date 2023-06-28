@@ -5,10 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 third_nav_title: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 image: /images/Vol-17-issue-1/agriculture/gambierpepper.jpg
-
 ---
-
-
 <style>
 table { 
 	background-color: #fff6ba;
@@ -24,7 +21,7 @@ table {
 #### **Timothy Pwee** takes us on a tour through pepper, gambier, nutmeg, pineapple and rubber plantations that were once common in 19th-century Singapore.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/gambierpepper.jpg">
 A gambier and pepper plantation in Singapore, c. 1900.  Pepper and gambier are often grown together. The boiled gambier leaves provide the much-needed fertiliser for pepper plants. Pepper vines also entwine around the gambier plants for support as they grow. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -34,7 +31,7 @@ Being a free port astride a major trading route between the Indian Ocean and the
 The first topographical survey of Singapore Town – conducted by colonial architect George D. Coleman in 1829 and which yielded the *Map of the Town and Environs of Singapore* in 1836 – showed large plots of land dedicated to agriculture on the outskirts of settled areas. There were paddy fields on the eastern banks of the Kallang River, while to the east of these fields, land had been cleared for the growing of sugar and cotton. In addition, the area south of the paddy fields was used for the cultivation of the betel vine. Around what is now the Orchard Road area were gambier plantations.[^1] About a decade later, coconuts had taken over the paddy fields, according to Government Surveyor John Turnbull Thomson’s 1844 map of Singapore town and the adjoining districts. Meanwhile, pineapples were being grown on Pulau Blakang Mati (present-day Sentosa) and there were nutmeg orchards in the Claymore district (today’s Orchard Road).[^2]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/map.jpg">
 Detail from the 1836 <i>Map of the Town and Environs of Singapore</i> showing the land east of the Kelang (Kallang) River planted with rice. However, the land was soon dominated by coconut plantations. The map was drawn by Jean-Baptiste Athanase Tassin, a renowned French lithographer and cartographer, and printed in Calcutta. It was based on George D. Coleman’s 1829 survey of Singapore, which is the earliest known topographical survey of Singapore town. This map is useful in showing the various crops produced on the outskirts of the town in the 1830s. <i>Survey Department Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -51,9 +48,9 @@ Gambier is a fast-growing shrub whose foliage can be harvested in about 14 month
 In the early 19th century, catechu was mainly used as an additive in the betel quid. The catechu and lime were smeared on the betel leaf (known locally as *sireh*), which was then wrapped around small slices of areca nut. Betel chewing was a habit that was popular in the region at the time.[^5]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/shrub.jpg">
-The gambier shrub looks quite nondescript, with the most notable feature being its bright yellow inflorescence. <i>Jessica Teo, NParks Flora&FaunaWeb</i>.
+The gambier shrub looks quite nondescript, with the most notable feature being its bright yellow inflorescence. <i>Jessica Teo, NParks Flora&amp;FaunaWeb</i>.
 </div>
 
 Much of the produce went to Batavia (now Jakarta) in the Dutch East Indies and distributed throughout the region. However, this came to a sudden halt in 1827 with the imposition of restrictive duties by the Dutch. This caused a crash and many gambier plantations, including those in Singapore, went out of business.[^6]
@@ -70,9 +67,9 @@ The result was a pattern of shifting cultivation that started from the Singapore
 Another cash crop that was cultivated in 19th-century Singapore was nutmeg, which was one of the major spices that drove the colonial enterprise in Southeast Asia. Two spices are actually produced from the plant: nutmeg and mace. The nutmeg spice comes from the seed, while mace comes from the aril, the red lacy layer surrounding the seed. Both nutmeg and mace are similar in taste, with mace described as being more delicate. Given its desirability and profitability, nutmeg was an obvious crop for the pioneer merchants in Singapore to cash in on.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/nutmeg.jpg">
-The black seed of the nutmeg fruit is ground to make the nutmeg spice, while the red aril around the seed is used to make another spice known as mace. Locally, the flesh is eaten pickled as <i>buah pala</i>. <i>Courtesy of Boo Chih Min, NParks Flora&Fauna Web</i>.
+The black seed of the nutmeg fruit is ground to make the nutmeg spice, while the red aril around the seed is used to make another spice known as mace. Locally, the flesh is eaten pickled as <i>buah pala</i>. <i>Courtesy of Boo Chih Min, NParks Flora&amp;Fauna Web</i>.
 </div>
 
 After Raffles established a trading post on Singapore, he sent over nutmeg seeds and saplings from Bencoolen (now Bengkulu), on the island of Sumatra, where he was Lieutenant-Governor. Nutmeg plantations were then established along what is today’s Orchard Road and in Tanglin. Although the nutmeg trees had thrived initially, there were later problems with blight.
@@ -99,7 +96,7 @@ As Singapore’s long and sandy south eastern coast was conducive for growing co
 Smaller coconut plantations were found elsewhere on the island, like a 30-acre nutmeg and coconut estate on Bukit Timah Road, which was put on auction in 1845.[^23] Planting different types of crops in one plantation was not uncommon. In the early decades especially, planters would experiment with different crops. Jose d’Almeida, a Portuguese naval surgeon who arrived in Singapore in 1825 and set up a dispensary in Commercial Square (now Raffles Place), was one such example. He later became a landowner and one of Singapore’s leading merchants. On his Confederate Estate in Tanjong Katong, he tried but failed with cotton before turning to coconut.[^24]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/coconut.jpg">
 A young worker sitting atop harvested coconuts in a coconut estate in Singapore, 1922. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -110,7 +107,7 @@ The pineapple, indigenous to South America, was one of the native food plants fr
 Pineapple seems to have been a popular fruit and was originally cultivated by the Bugis on the southern islands and in Telok Blangah as can be seen from mid-19th century maps of the area. The earliest mention of pineapple cultivation appears to be a *Singapore Chronicle* article by second Resident John Crawfurd, published around 1824.[^26] John Cameron states in *Our Tropical Possessions in Malayan India* that the pineries in Telok Blangah belonged to the Temenggong and these were mainly for sale in Singapore.[^27]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/pineapple.jpg">
 Freshly harvested pineapples in Singapore being transported by a bullock cart to be sold, 1900s. Pineapples grown in Singapore and the Malay Peninsula became a major canned export from the 1900s onwards. <i>Courtesy of National Archives of Singapore</i>.
 </div>
@@ -137,7 +134,7 @@ After the blight killed off nugmeg trees in Singapore, coconuts and pineapples b
 Ridley, Director of Singapore’s Botanic Gardens, persuaded local merchants to try growing Pará rubber which eventually became a major cash crop in both Singapore and the peninsula. Ridley’s first convert was Tan Chay Yan, who became the first rubber planter in Malaya.[^38] In 1898, Tan started Asahan Estate in Melaka after a successful trial run at Bukit Lintang two years earlier. In Singapore, Tan subsequently entered into an agreement with other prominent Chinese merchants to establish Sembawang Rubber Plantations Limited, and Tempines Para and Coconut Plantations Limited in 1910.[^39]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/agriculture/rubber.jpg">
 A worker tapping latex in a rubber plantation in Singapore, 1930s. Henry Nicholas Ridley, Director of the Singapore Botanic Gardens (1888–1912), invented the “herringbone” technique that allowed rubber trees to be tapped at regular intervals without causing the trees any harm. The herringbone-pattern incisions can be clearly seen on the trunk of the tree. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -155,8 +152,8 @@ The first project was Bukit Sembawang Hills in 1954, a landed estate just south 
 Of course, this was not the typical fate of smaller rubber plantation companies and rubber tapping smallholdings in Singapore. These would mostly be sold, acquired or fade into oblivion, thereby closing the chapter on Singapore’s plantation era.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/timpwee.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/TimPwee.png" style="width: 100px; height: 100px;">
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories and is developing the library’s donor collections around these areas.
 </div>
 
@@ -172,7 +169,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^4]: Bartley, W. (1969, July). Population of Singapore in 1819. *Journal of the Malaysian Branch of the Royal Asiatic Society, 42* (1), 112–113. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^5]: For more information about betel chewing, see Lim, F., & Pakiam, G. (2020, October–December). [A bite of history: Betel chewing in Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/betel-chewing). *BiblioAsia, 16* (3), 4–9. Retrieved from BiblioAsia website.
+[^5]: For more information about betel chewing, see Lim, F., &amp; Pakiam, G. (2020, October–December). [A bite of history: Betel chewing in Singapore](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/betel-chewing). *BiblioAsia, 16* (3), 4–9. Retrieved from BiblioAsia website.
 
 [^6]: Low, S.C. (1955). *[Gambier-and-pepper planting in Singapore, 1819–1860](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334)* (p. 36) [University of Malaya, Singapore; thesis]. [n.p.]. (Call no.: RCLOS 630.95957 LOW)
 
@@ -182,11 +179,11 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^9]: Montgomerie, W. (1843–44). Cultivation of nutmegs at Singapore. *Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce, 54*, 38–50. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^10]: Balestier, J., & Montgomerie, W. (1841, November 25). [From an unpublished journal of a residence at Singapore: During part of 1840 & 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411125-1.2.11). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^10]: Balestier, J., &amp; Montgomerie, W. (1841, November 25). [From an unpublished journal of a residence at Singapore: During part of 1840 &amp; 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411125-1.2.11). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
 [^11]: Lee, K.L. (1984). *[Emerald Hill: The story of a street in words and pictures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080780)* (p. 1). Singapore: National Museum of Singapore. (Call no.: RSING 959.57 LEE)
 
-[^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx)* (pp. 408–409). London: W.H. Allen & Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
+[^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx)* (pp. 408–409). London: W.H. Allen &amp; Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
 
 [^13]: [Duxton](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18340109-1.2.6). (1834, January 1). *Singapore Chronicle and Commercial Register*, p. 1. Retrieved from NewspaperSG.
 
@@ -194,15 +191,15 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^15]: The statistics of nutmeg. (1849). *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/18eef945-846b-40ac-a7a6-bd5bbe2ca0f8.aspx)*, Vol. III. pp. iii–vii, p. iv. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
 
-[^16]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca; Their peoples, products, commerce, and government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx)* (p. 168). London: Smith, Elder & Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G)
+[^16]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca; Their peoples, products, commerce, and government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx)* (p. 168). London: Smith, Elder &amp; Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G)
 
-[^17]: Ridley, H.N. (1897, April). Spices. *[Agricultural Bulletin of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981663)*, (6), 96–129, p. 106; De Guzman, C.C., & Siemonsma, J.S. (Eds.). (1999). *[Spices](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203825825)*. Bogor, Indonesia: PROSEA Foundation. (Call no.: RCLOS 633.830959 SPI). For more information about Henry Nicholas Ridley, see Cornelius-Takahama, V. (2016). *[Henry Nicholas Ridley](https://eresources.nlb.gov.sg/infopedia/articles/SIP_518_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
+[^17]: Ridley, H.N. (1897, April). Spices. *[Agricultural Bulletin of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981663)*, (6), 96–129, p. 106; De Guzman, C.C., &amp; Siemonsma, J.S. (Eds.). (1999). *[Spices](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203825825)*. Bogor, Indonesia: PROSEA Foundation. (Call no.: RCLOS 633.830959 SPI). For more information about Henry Nicholas Ridley, see Cornelius-Takahama, V. (2016). *[Henry Nicholas Ridley](https://eresources.nlb.gov.sg/infopedia/articles/SIP_518_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
 
-[^18]: Balestier, J., & Montgomerie, W. (1841, November 11). [From an unpublished journal of a residence at Singapore: During part of 1840 & 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411111-1.2.16). *The Singapore Free Press and Mercantile Advertiser*, p. 23. Retrieved from NewspaperSG.
+[^18]: Balestier, J., &amp; Montgomerie, W. (1841, November 11). [From an unpublished journal of a residence at Singapore: During part of 1840 &amp; 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411111-1.2.16). *The Singapore Free Press and Mercantile Advertiser*, p. 23. Retrieved from NewspaperSG.
 
-[^19]: Brooke, G.E. (1921). Botanic gardens and economic notes (p. 71). In W. Makepeace, G.E. Brooke & R.St.J. Braddell (Eds.), *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vol. II; pp. 63–78). London: John Murray. (Call no.: RCLOS 959.51 MAK)
+[^19]: Brooke, G.E. (1921). Botanic gardens and economic notes (p. 71). In W. Makepeace, G.E. Brooke &amp; R.St.J. Braddell (Eds.), *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vol. II; pp. 63–78). London: John Murray. (Call no.: RCLOS 959.51 MAK)
 
-[^20]: Kong, L., & Chang, T.C. (2001). *[Joo Chiat: A living legacy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10354011)* (p. 29). Singapore: Joo Chiat Citizens’ Consultative Committee & National Archives of Singapore. (Call no.: RSING q959.57 KON)
+[^20]: Kong, L., &amp; Chang, T.C. (2001). *[Joo Chiat: A living legacy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10354011)* (p. 29). Singapore: Joo Chiat Citizens’ Consultative Committee &amp; National Archives of Singapore. (Call no.: RSING q959.57 KON)
 
 [^21]: For more information about Hoo Ah Kay, see Tan, B. (2019, August). *[Hoo Ah Kay](https://eresources.nlb.gov.sg/infopedia/articles/SIP_798_2004-12-14.html)*. Retrieved from Singapore Infopedia website. 
 
@@ -222,7 +219,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^29]: [Earl](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx), 1837, p. 352.
 
-[^30]: Balestier, J., & Montgomerie, W. (1841, December 2). [From an unpublished journal of a residence at Singapore: During part of 1840 & 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411202-1.2.8). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^30]: Balestier, J., &amp; Montgomerie, W. (1841, December 2). [From an unpublished journal of a residence at Singapore: During part of 1840 &amp; 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411202-1.2.8). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
 [^31]: Thomson, J.T. (1850). General report on the residency of Singapore, drawn up principally with a view of illustrating its agricultural statistics. *[The Journal of the Indian Archipelago and Eastern Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5007604)*, Vol. IV, 134–143, p. 140. (Call no.: RRARE 950.05 JOU; Microfilm no.: NL25791)
 
@@ -232,11 +229,11 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^34]: C.D. (1908, July 25). [Planting in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080725-1.2.3). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^35]: For more information about Tan Kah Kee, see Tan, B., & Wee, J. (2016). *[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
+[^35]: For more information about Tan Kah Kee, see Tan, B., &amp; Wee, J. (2016). *[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
 
 [^36]: [First pineapple canning factory in Federated Malay States](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220620-1.2.35). (1922, June 20). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman & Wee, J. (2011). *[Lee Kong Chian](https://eresources.nlb.gov.sg/infopedia/articles/SIP_978_2006-06-16.html)*. Retrieved from Singapore Infopedia website.
+[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman &amp; Wee, J. (2011). *[Lee Kong Chian](https://eresources.nlb.gov.sg/infopedia/articles/SIP_978_2006-06-16.html)*. Retrieved from Singapore Infopedia website.
 
 [^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html)*. Retrieved from Singapore Infopedia website.
 
