@@ -45,6 +45,9 @@ That same year, Francis Yeoh, founding artistic director of the Singapore Nation
 
 Originally, the plan was that Choo San’s works  would provide the foundation of this new company’s repertoire. Fate, however, intervened. On 28 November 1987, Choo San died from an illness. He was only 39.[^15]
 
+![](/images/Vol%2019%20Issue%203/image5.png)
+<div style="background-color: white;"> Janek Schergen and Goh Choo San at the premiere of <i>Unknown Territory</i> by the Washington Ballet, 1986. <i>Courtesy of Singapore Ballet.</i></div>
+
 #### **Pas De Deux: It Takes Two**
 
 In 1987, Soo Khim and Then registered the new company as Singapore Dance Theatre, a name they chose to reflect a wider repertoire for the company, which would range from modern works to classical
@@ -95,9 +98,6 @@ It was only after seeing the positive response to a staging of its first full-le
 #### **Growing by Leaps and Bounds**
 
 Although Schergen only officially joined SDT as its assistant artistic director in 2007 (and assumed the role of artistic director one year later), his influence dates to the very founding of the company itself.
-
-![](/images/Vol%2019%20Issue%203/image5.png)
-<div style="background-color: white;"> Janek Schergen and Goh Choo San at the premiere of <i>Unknown Territory</i> by the Washington Ballet, 1986. <i>Courtesy of Singapore Ballet.</i></div>
 
 Schergen had been involved with the company as a consultant at its inception, training its dancers for their debut performances in 1988. This involvement came as a result of a personal connection; Schergen, a Swedish American, had been a close friend and collaborator of Choo San. “What he said to me…,” Schergen recalled “was ‘Help [Soo Khim] get it started’ so that was my directive.”[^26]
 
