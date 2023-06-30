@@ -82,6 +82,9 @@ SDT’s new premises paved the way for “Ballet Under the Stars”, first stage
 ![](/images/Vol%2019%20Issue%203/image7.png)
 <div style="background-color: white;">Singapore Ballet’s performance of Edwaard Liang’s <i>Opus 25</i> for “Ballet Under the Stars”, 2022. <i>Courtesy of Singapore Ballet.</i></div>
 
+![](/images/Vol%2019%20Issue%203/image9.png)
+<div style="background-color: white;">“Ballet Under the Stars” in 2019 took place over two weekends in July. In the first weekend, three works – <i>Evening Voices, Linea Adora</i> and <i>SYNC</i> – were staged. The second weekend featured highlights from ballets such as <i>Giselle, Swan Lake</i> and <i>The Nutcracker</i>. <i>Courtesy of Singapore Ballet.</i></div>
+
 Unfortunately, in December that year, the company suffered another major blow when co-founder Then died following an illness. His death, at 51, created another void, which Soo Khim felt profoundly. “I have not only lost a great friend but also a confidant,” she said.[^23] With only Soo Khim left at the helm, the company needed assistance. 
 
 For help, the company looked abroad, and a number of renowned dancers, teachers and choreographers such as Timothy Gordon, David Peden, Andrea Pell, Maiqui Manosa, Paul de Masson and Edmund Stripe stepped in. They taught the company’s daily classes, ran rehearsals and took the repertoire onto the stage.
