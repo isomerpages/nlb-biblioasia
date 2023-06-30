@@ -131,13 +131,13 @@ Cheong, J. (2007, November 8). [Old school, new ideas](http://eresources.nlb.gov
 
 Cornelius, V. (2018, November). [_Mount Sophia_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_482_2004-12-27.html). Retrieved from Singapore Infopedia.
 
-Hu, Fiona, (2011). Reunion class of 1970. _Fellowship: MGS Alumnae Association newsletter_, 4. Retrieved from Methodist Girls’ School Alumnae Association website.
+Hu, F. (2011). Reunion class of 1970. _Fellowship: MGS Alumnae Association newsletter_, 4. Retrieved from Methodist Girls’ School Alumnae Association website.
 
 Koh, K., &amp; Lim, S.T. (1987, July 15). [Down the steps of time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.4). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
-Lau, Ernest. (2004). The story behind MGS’ Louise McKee Wing. Retrieved from Methodist message website.
+Lau, E. (2004). The story behind MGS’ Louise McKee Wing. Retrieved from Methodist Message website.
 
-Lee, G.B. (1992, May 17). [Still handy after 40 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920517-1.2.49.10.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+Lee, G.B. (1992, May 17). [Still Handy after 40 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920517-1.2.49.10.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
 Lim, L. (2010). Vignettes of an MGS life. _Fellowship: MGS Alumnae Association newsletter_, 5. Retrieved from Methodist Girls’ School Alumnae Association website.
 
@@ -159,7 +159,7 @@ Oon, C. (2011, December 31). [The past is just a memory](http://eresources.nlb.g
 
 Qi, Y. (2012, June 3). Remembering Old School @ Mt. Sophia. Retrieved from Monday Flying website.
 
-Renuka M. (2018, January 19). [_Methodist Girls’ School_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_591_2005-01-05.html). Retrieved from Singapore Infopedia.
+Renuka, M. (2018, January 19). [_Methodist Girls’ School_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_591_2005-01-05.html). Retrieved from Singapore Infopedia.
 
 Savage, V.R., &amp; Yeoh, B.S.A. (2004). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (p. 270). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
@@ -193,19 +193,19 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 
   
 
-[^1]: From the television show, The Wonder Years. (n.d.). _Welcome to The Quote Garden! Celebrating 14 years online 1998–2012_. Retrieved from Quote garden website. 
+[^1]: From the television show, <i>The Wonder Years</i>. (n.d.). _Welcome to The Quote Garden! Celebrating 14 years online 1998–2012_. Retrieved from Quote garden website. 
 
-[^2]: DSA-Sec is an admission exercise to allow participating schools to select some P6 students from other schools for admission to Secondary 1 based on their achievements and talents before the PSLE results are released. Ministry of Education. Singapore. (2012). _Direct School Admission-Secondary (DSA-Sec)_. Retrieved from Ministry of Education website.
+[^2]: Direct School Admission is an admission exercise to allow participating schools to select some Primary 6 students from other schools for admission to Secondary 1 based on their achievements and talents before the Primary School Leaving Examination results are released. Ministry of Education. Singapore. (2012). _Direct School Admission-Secondary (DSA-Sec)_. Retrieved from Ministry of Education website.
 
 [^3]: Mok, W.Y. (1985). Looking back. _Fellowship: MGS Alumnae Association newsletter_, 6. Retrieved from Methodist Girls’ School Alumnae Association website.
 
-[^4]: MGS Alumnae Association. (2012, June 3). MGS remembers its historical campus on 11 Mt Sophie \[press release\].
+[^4]: MGS Alumnae Association. (2012, June 3). MGS remembers its historical campus on 11 Mt Sophia \[press release\].
 
 [^5]: Quek, S., &amp; Tan, A.Y. (2011, October 23). [Old school tenants fear end is near](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111003-1.2.32.6). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
 [^6]: Spykerman, K., &amp; Wee, C.F. (2012, June 17). [Why Olson is special](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120617-1.2.58.1.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
-[^7]: Mrs Handy also authored the ‘bible cookbook’ My favourite recipes to raise money for the school. The first original edition was published in 1952. It has been revised and reprinted 10 times. The recipes reflected Singapore’s multi-racial composition.
+[^7]: Mrs Handy also authored the "Bible cookbook", <i>My Favourite Recipes</i>, to raise money for the school. The first original edition was published in 1952. It has been revised and reprinted 10 times. The recipes reflected Singapore’s multiracial composition.
 
 [^8]: Mrs Handy remembers. (1985). _Fellowship: MGS Alumnae Association newsletter_, 3. Retrieved from Methodist Girls’ School Alumnae Association website.
 
