@@ -15,9 +15,6 @@ One of Singapore’s oldest professional dance companies has become one of its n
 
 The new name is perhaps the most potent symbol of how much the company has changed and grown since its public debut at the Singapore Festival of the Arts in 1988. At the time, the company was unknown; it had just seven dancers and its future looked uncertain. Today, the company has grown to 35 dancers and apprentices of various nationalities, with a loyal following locally and an international profile as well. Janek Schergen, its artistic director, receives applications from aspiring dancers daily.[^1]
 
-![](/images/Vol%2019%20Issue%203/image6.png)
-<div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
-
 The company has made a name for itself in numerous festivals and events such as Le Temps d’Aimer la Danse in Biarritz, France; Mexico’s Festival Internacional Cervantino; Chang Mu Arts Festival in Korea; and the Philippines Festival of Dance. 
 
 ![](/images/Vol%2019%20Issue%203/image4.png)
@@ -55,6 +52,9 @@ Originally, the plan was that Choo San’s works  would provide the foundation o
 
 In 1987, Soo Khim and Then registered the new company as Singapore Dance Theatre, a name they chose to reflect a wider repertoire for the company, which would range from modern works to classical
 ballets, and which would include an Asian sensibility. (Soo Khim continued in her role as director of SBA even after the dance company was set up.) They wanted to develop Singaporean dancers and interest audiences in works with an Asian influence. Goh also felt that the label of “Dance Theatre” provided the freedom to explore and experiment with more diverse works.[^16] Choo San’s death had been a severe blow, but the founders decided to go ahead.
+
+![](/images/Vol%2019%20Issue%203/image6.png)
+<div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
 
 ![](/images/Vol%2019%20Issue%203/image3.png)
 <div style="background-color: white;"><i>Beginnings</i>, choreographed by Goh Choo San, is the first ballet ever performed by the Singapore Dance Theatre, 1988. It is an intimate quartet exploring the relationship between two couples. <i>Courtesy of Singapore Ballet.</i></div>
