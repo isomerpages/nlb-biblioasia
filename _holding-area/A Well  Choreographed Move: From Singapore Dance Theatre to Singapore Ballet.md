@@ -18,9 +18,6 @@ The new name is perhaps the most potent symbol of how much the company has chang
 ![](/images/Vol%2019%20Issue%203/image6.png)
 <div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
 
-![](/images/Vol%2019%20Issue%203/image5.png)
-<div style="background-color: white;"> Janek Schergen and Goh Choo San at the premiere of <i>Unknown Territory</i> by the Washington Ballet, 1986. <i>Courtesy of Singapore Ballet.</i></div>
-
 The company has made a name for itself in numerous festivals and events such as Le Temps d’Aimer la Danse in Biarritz, France; Mexico’s Festival Internacional Cervantino; Chang Mu Arts Festival in Korea; and the Philippines Festival of Dance. 
 
 ![](/images/Vol%2019%20Issue%203/image4.png)
@@ -98,6 +95,9 @@ It was only after seeing the positive response to a staging of its first full-le
 #### **Growing by Leaps and Bounds**
 
 Although Schergen only officially joined SDT as its assistant artistic director in 2007 (and assumed the role of artistic director one year later), his influence dates to the very founding of the company itself.
+
+![](/images/Vol%2019%20Issue%203/image5.png)
+<div style="background-color: white;"> Janek Schergen and Goh Choo San at the premiere of <i>Unknown Territory</i> by the Washington Ballet, 1986. <i>Courtesy of Singapore Ballet.</i></div>
 
 Schergen had been involved with the company as a consultant at its inception, training its dancers for their debut performances in 1988. This involvement came as a result of a personal connection; Schergen, a Swedish American, had been a close friend and collaborator of Choo San. “What he said to me…,” Schergen recalled “was ‘Help [Soo Khim] get it started’ so that was my directive.”[^26]
 
