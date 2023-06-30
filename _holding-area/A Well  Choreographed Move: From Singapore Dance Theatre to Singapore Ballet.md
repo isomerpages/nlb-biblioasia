@@ -122,6 +122,9 @@ Most importantly, under Schergen, the company began to address the critical ques
 
 The name change in December 2021 was thus long overdue, according to Schergen. “By the time three decades had passed, a confident maturity to SDT was now in place and the company had its own unique identity,” he said. “To reflect this and show this confident maturity of the nature of our organisation, a decision has been made to rename ourselves as Singapore Ballet.”[^34]
 
+![](/images/Vol%2019%20Issue%203/image11.png)
+<div style="background-color: white;">Rehearsing for Timothy Rushton’s Quiver, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet..</i></div>
+
 #### **Always En Pointe**
 
 In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights of its season for the year are “Masterpiece in Motion” in July, which includes Goh Choo San’s Configurations originally created for Baryshnikov in 1978, “Ballet Under the Stars” in September and world premiere of Schergen’s Cinderella in December.[^35] Back in May, the company performed at Our Tampines Hub’s Festive Arts Theatre for the first time, stepping not only into the hearts of Singaporeans, but also into the heartlands. 
