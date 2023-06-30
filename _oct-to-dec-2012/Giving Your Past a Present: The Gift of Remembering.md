@@ -3,6 +3,8 @@ title: "Giving Your Past a Present: The Gift of Remembering"
 permalink: /vol-8/issue-3/oct-dec-2012/past-present-gift/
 description: ""
 ---
+#### The Singapore Memory Project aims to document five million memories to remember Singapore through the eyes of its people.
+
 "If I had just passed these people on the streets, I would probably just brush past them without ever knowing the depth of the lives they have had and the stories they could tell.”
 
 Ruth was sharing her experience interviewing residents of the soon-to-be-relocated Rochor Centre. They were recounting how they continue to have communal dinners with their neighbours – a demonstration of the *bona fide* kampong spirit that some find so elusive in today’s Singapore.
@@ -17,10 +19,10 @@ Experiences shared by Ruth are a humbling reminder of their enduring value to th
 
 What was also very illuminating from Ruth’s experience is that she was drawn into an era before her time, one that her generation would find almost alien.
 
-Capturing memories to pass on to those not of one’s time is akin to “giving the past a present” – the tagline of the Singapore Memory Project. One of the most powerful gifts that can be given to a nation’s future is the memory of how she was built. The people of Singapore have a perfect opportunity to present this gift to present and future generations of Singaporeans as those who witnessed Singapore’s nation-building journey are still around for us to capture their first hand experiences.
+Capturing memories to pass on to those not of one’s time is akin to “giving the past a present” – the tagline of the Singapore Memory Project. One of the most powerful gifts that can be given to a nation’s future is the memory of how it was built. The people of Singapore have a perfect opportunity to present this gift to present and future generations of Singaporeans as those who witnessed Singapore’s nation-building journey are still around for us to capture their first-hand experiences.
 
-Some of the most moving memories received so far are those documenting loving accounts of parents’ and grandparents’ lives. A particular gentleman detailed his parents’ 50-year old love story that reads almost like a parallel history of Singapore.
+Some of the most moving memories received so far are those documenting loving accounts of parents’ and grandparents’ lives. A particular gentleman detailed his parents’ 50-year love story that reads almost like a parallel history of Singapore.
 
-This generation of Singaporeans will pass on, so it is the opportunity now for Ruth and others to construct a memory of Singapore through the eyes of its people.
+This generation of Singaporeans will pass on, so it is an opportunity now for Ruth and others to construct a memory of Singapore through the eyes of its people.
 
 <b>Gene Tan</b><br>Director, Singapore Memory Project

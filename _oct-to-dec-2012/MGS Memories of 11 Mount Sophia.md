@@ -11,12 +11,13 @@ description: Founded in 1887, the Methodist Girls’ School (MGS) is among the
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Maypole%20dance.jpg">
  <div style="background-color: white;">The Maypole dance, traditionally performed on Sports Day at 11 Mount Sophia.<i> Courtesy of Methodist Girls’ School.</i></div>
 
+
+Memory is a way<br> of holding onto the<br> things you love,<br> the things you are,<br> the things you never <br>want to lose.[^1]
+
 It was a sentimental Sunday on 3 June 2012 when MGS and the Alumnae Association jointly held an Open House Day and Remembrance Ceremony to bid a final farewell to their former school site at 11 Mount Sophia.
 
 The occasion was a bittersweet homecoming experience for the hundreds of old girls and their families who congregated in the packed hall at the basement area of the former Ellice Handy Building. Since the relocation of MGS in 1992 to 11 Blackmore Drive, succeeding occupants of 11 Sophia included churches and other schools before it was leased to Old School <a href="http://www.oldschool.sg">
 (http://www.oldschool.sg/)</a> in 2007. This unprecedented gathering of the MGS family was prompted by the expiration of the lease for Old School at the end of June 2012. It marked the closing of a chapter in history as the site made way for redevelopment plans under the 2008 Master Plan of the Urban Redevelopment Authority (URA).
-
-Memory is a way<br> of holding onto the<br> things you love,<br> the things you are,<br> the things you never <br>want to lose.[^1]
 
 
 #### **Remembering Roots**
@@ -136,7 +137,7 @@ Cornelius, V. (2018, November). [_Mount Sophia_](https://eresources.nlb.gov.sg/i
 
 Hu, Fiona, (2011). Reunion class of 1970. _Fellowship: MGS Alumnae Association newsletter_, 4. Retrieved from Methodist Girls’ School Alumnae Association website.
 
-Koh, K., & Lim, S.T. (1987, July 15). [Down the steps of time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.4). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+Koh, K., &amp; Lim, S.T. (1987, July 15). [Down the steps of time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.4). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 Lau, Ernest. (2004). The story behind MGS’ Louise McKee Wing. Retrieved from Methodist message website.
 
@@ -164,13 +165,13 @@ Qi, Y. (2012, June 3). Remembering Old School @ Mt. Sophia. Retrieved from Monda
 
 Renuka M. (2018, January 19). [_Methodist Girls’ School_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_591_2005-01-05.html). Retrieved from Singapore Infopedia.
 
-Savage, V.R., & Yeoh, B.S.A. (2004). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (p. 270). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., &amp; Yeoh, B.S.A. (2004). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (p. 270). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
 _Save Old School_. (2012, June 1). Retrieved from Facebook.
 
 Sng, S. (Interviewer). (2005, May 10–November 15). [_Oral history interview with Vivien Goh_](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a92e0155-1160-11e3-83d5-0050568939ad) \[MP3 recording no. 002939/26/1–13\]. Retrieved from National Archives of Singapore website.
 
-Spykerman, K., & Wee, C.F. (2012, June 17). [Why Olson is special](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120617-1.2.58.1.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+Spykerman, K., &amp; Wee, C.F. (2012, June 17). [Why Olson is special](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120617-1.2.58.1.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
 Tan, A. (2011, October 23). [Interim-use land yields both hits and misses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.1). _The Straits Times_, p. 8. Retrieved from NewspaperSG.
 
@@ -178,7 +179,7 @@ Tan, Y.H. (2008, December 14). [Old schools, new haunts](http://eresources.nlb.g
 
 Tay, M. (2008, January 18). [Guerilla store opens in Old School](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080118-1.2.123.4). _The Straits Times_, p. 102. Retrieved from NewspaperSG.
 
-Teo, E., & Tan, J. (2011, October 23). [Old girls fight to save Old School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17). _The Straits Times_, p. 25. Retrieved from NewspaperSG.
+Teo, E., &amp; Tan, J. (2011, October 23). [Old girls fight to save Old School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17). _The Straits Times_, p. 25. Retrieved from NewspaperSG.
 
 Teo, W.G. (2012, April 14). [No lease extension for arts enclave at Mt Sophia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120414-1.2.53.13). _The Straits Times_, p. 15. Retrieved from NewspaperSG.  
   
@@ -204,9 +205,9 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 
 [^4]: MGS Alumnae Association. (2012, June 3). MGS remembers its historical campus on 11 Mt Sophie \[press release\].
 
-[^5]: Quek, S., & Tan, A.Y. (2011, October 23). [Old school tenants fear end is near](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111003-1.2.32.6). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
+[^5]: Quek, S., &amp; Tan, A.Y. (2011, October 23). [Old school tenants fear end is near](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111003-1.2.32.6). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
-[^6]: Spykerman, K., & Wee, C.F. (2012, June 17). [Why Olson is special](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120617-1.2.58.1.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+[^6]: Spykerman, K., &amp; Wee, C.F. (2012, June 17). [Why Olson is special](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120617-1.2.58.1.4). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
 [^7]: Mrs Handy also authored the ‘bible cookbook’ My favourite recipes to raise money for the school. The first original edition was published in 1952. It has been revised and reprinted 10 times. The recipes reflected Singapore’s multi-racial composition.
 
@@ -216,24 +217,14 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 
 [^10]: Lim, L.U.W., et al. (1987). [_Memories, gems and sentiments: 100 years of Methodist Girls’ School_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4769182) (p. 70). Singapore: Methodist Girls’s School. (Call no.: RSING 373.5957 MEM)
 
-[^11]: [Lim](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4769182), 1987, p. 87.
+[^11]: [Lim](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4769182), 1987, p. 87.
 
-[^12]: Koh, K., & Lim, S.T. (1987, July 15). [Down the steps of time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.4). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+[^12]: Koh, K., &amp; Lim, S.T. (1987, July 15). [Down the steps of time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.4). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 [^13]: Toh, J. (2011). Common bonds. _Fellowship: MGS Alumnae Association newsletter_, 6. Retrieved from Methodist Girls’ School Alumnae Association website.
 
-[^14]: Teo, E., & Tan, J. (2011, October 23). [Old girls fight to save Old School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17). _The Straits Times_, p. 25. Retrieved from NewspaperSG.
+[^14]: Teo, E., &amp; Tan, J. (2011, October 23). [Old girls fight to save Old School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17). _The Straits Times_, p. 25. Retrieved from NewspaperSG.
 
 [^15]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111023-1.2.12.17), 23 Oct 2011, p.
 
 [^16]: Chee, B. (2012, June 30). *Annual report (July 2011–June 2012)*. Report presented at the 51st Annual General Meeting of the MGS Alumnae Association, Singapore.
-
-
-
-
-
-
-
-
-
-
