@@ -17,9 +17,6 @@ The new name is perhaps the most potent symbol of how much the company has chang
 
 The company has made a name for itself in numerous festivals and events such as Le Temps d’Aimer la Danse in Biarritz, France; Mexico’s Festival Internacional Cervantino; Chang Mu Arts Festival in Korea; and the Philippines Festival of Dance. 
 
-![](/images/Vol%2019%20Issue%203/image4.png)
-<div style="background-color: white;">Janek Schergen rehearsing with the dancers for <i>Peter &amp; Blue’s School Holiday</i>, a ballet for children, 2022. <i>Courtesy of Singapore Ballet.</i></div>
-
 #### **From the Get-Goh**
 
 While many individuals have played an important role in the company’s journey, no retelling of its history would be complete without considering the contributions of the Goh siblings – Goh Soo Nee (also went by Goh Soonee and Soonee Goh), Goh Soo Khim and Goh Choo San. The three siblings played vital roles, though in very different ways: Soo Nee prepared the ground by starting an important predecessor institution to SDT; Soo Khim, on the other hand, led the company during its fledgling years; and although Choo San died prematurely, he was, and continues to be, spiritually influential, as can be seen by the fact that the company continues to restage his ballets, even till today.
@@ -115,6 +112,9 @@ It was particularly challenging as some of the dancers in the company in the ear
 Flying in regularly as a consultant and guest choreographer allowed Schergen to become familiar with the company and the dancers as he helped them prepare for their performances. But there is only so much that one person can do for a dance company on a part-time basis. Although Choo San had hoped for Schergen to be more involved with the company right from the beginning, enticing Schergen to move to Singapore was a challenge.[^30] Schergen’s career was soaring abroad, and just before he became the SDT’s assistant artistic director in 2007, he had been the ballet master of the Norwegian National Ballet.[^31] But when Schergen finally agreed to relocate to Singapore to take up the mantle at SDT, he made sure to run the company right.
 
 Schergen brought with him a wealth of experience in running a ballet company sustainably, from hiring choreographers to fundraising and staging performances. As artistic director, Schergen was (and still is) responsible for daily classes at the company, teaching and rehearsing the company’s repertoire. By end 2020, he had commissioned 31 world premieres and launched 19 company premieres. He also developed a suite of outreach and capacity development programmes, including the Ballet Associates Course, The Ambassadors Circle, Scholars Programme, One @ the Ballet, Celebration in Dance, The SDT Choreographic Workshop and The Intensive Ballet Programme.[^32]
+
+![](/images/Vol%2019%20Issue%203/image4.png)
+<div style="background-color: white;">Janek Schergen rehearsing with the dancers for <i>Peter &amp; Blue’s School Holiday</i>, a ballet for children, 2022. <i>Courtesy of Singapore Ballet.</i></div>
 
 In 2013, Schergen oversaw SDT’s move into spanking new premises at the Bugis+ mall on Victoria Street. Its location within the Bugis arts and cultural district allows the company to further engage the public through its education and outreach programmes.[^33]
 
