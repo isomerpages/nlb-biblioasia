@@ -561,4 +561,12 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
+  - infopic:
+      title: From Singapore Dance Theatre to Singapore Ballet
+      subtitle: Infopic Subtitle
+      description: As the history of the company shows, its new name is less about
+        breaking away from the past as it is about leaping confidently into the
+        future.
+      button: Button Text
+      alt: Image alt text
 ---
