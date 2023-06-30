@@ -181,7 +181,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^20]: Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1).”
 
-[^21]: Ong Soh Chin, “[*Singapore Dance Theatre to Move into Fort Canning Home*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10),” Straits Times, 30 March 1990, 31. (From NewspaperSG); Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273), 1.
+[^21]: Ong Soh Chin, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10),” *Straits Times*, 30 March 1990, 31. (From NewspaperSG); Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273), 1.
 
 [^22]: Ong, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10).”
 
