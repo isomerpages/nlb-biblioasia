@@ -15,6 +15,9 @@ One of Singapore’s oldest professional dance companies has become one of its n
 
 The new name is perhaps the most potent symbol of how much the company has changed and grown since its public debut at the Singapore Festival of the Arts in 1988. At the time, the company was unknown; it had just seven dancers and its future looked uncertain. Today, the company has grown to 35 dancers and apprentices of various nationalities, with a loyal following locally and an international profile as well. Janek Schergen, its artistic director, receives applications from aspiring dancers daily.[^1]
 
+![](/images/Vol%2019%20Issue%203/image5.png)
+<div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
+
 ![](/images/Vol%2019%20Issue%203/image6.png)
 <div style="background-color: white;"> Janek Schergen and Goh Choo San at the premiere of <i>Unknown Territory</i> by the Washington Ballet, 1986. <i>Courtesy of Singapore Ballet.</i></div>
 
