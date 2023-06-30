@@ -9,7 +9,7 @@ description: Founded in 1887, the Methodist Girls’ School (MGS) is among the
 #### Founded in 1887, the Methodist Girls’ School (MGS) is among the oldest and most established schools in Singapore. Barbara Quek, a former MGS student, shares with us the history of the school and memories that left a deep imprint on many who passed through its doors.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Maypole%20dance.jpg">
- <div style="background-color: white;">The Maypole dance, traditionally performed on Sports Day at 11 Mount Sophia.<i> Courtesy of Methodist Girls’ School.</i></div>
+ <div style="background-color: white;">The maypole dance, traditionally performed on Sports Day at 11 Mount Sophia.<i> Courtesy of Methodist Girls’ School.</i></div>
 
 
 Memory is a way<br> of holding onto the<br> things you love,<br> the things you are,<br> the things you never <br>want to lose.[^1]
@@ -64,14 +64,14 @@ The memories of former school girls recall rich images of unforgettable experien
 <img style="width:50%;" src="/images/Vol%208%20issue%203/MGS/100%20steps1.jpg">
  <div style="background-color: white;">The “Hundred Steps” from Mount Sophia to Handy Road. <i>Courtesy of Methodist Girls’ School.</i></div>
 	
-Linda Lim, class of 1966, recalled physical education lessons that included practising English folk dances to recorded music and the maypole dance. She wrote a vivid account of her school days in MGS with her group of friends called the Nuttes. Excerpts from her memoirs were published in Fellowship 2010 newsletter, “Vignettes of an MGS life”, in which she shared anecdotes of primary school, recess, sports day, school plays, the kacang puteh man and toilets suspected of being haunted by the Orang Minyak, or “oily man”.
+Linda Lim, class of 1966, recalled physical education lessons that included practising English folk dances to recorded music and the maypole dance. She wrote a vivid account of her school days in MGS with her group of friends called the Nuttes. Excerpts from her memoirs were published in the Fellowship 2010 newsletter, “Vignettes of an MGS life”, in which she shared anecdotes of primary school, recess, sports day, school plays, the kacang puteh man and toilets suspected of being haunted by the Orang Minyak, or “oily man”.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/folk%20dance1.jpg">
  <div style="background-color: white;">MGS girls enjoying a folk dance. <i>Courtesy of Methodist Girls’ School.</i></div>
 
 #### **Relics Remembered**
 
-Gone are the days of school life at Mount Sophia but relics of the past are vivid reminders of this precious heritage. Some of the artefacts housed within the MGS Archives Room at Blackmore Drive include a pair of old wooden speakers that were part of the public address system hanging from the front of each classroom, the dignified school bell, an archaic desk and chair, the metal printing block on which the school song was engraved, as well as an old hefty office safe. Handicraft works and other memorabilia have been preserved and safe-kept by Mrs Anna Tham, MGS’s longest serving principal of 17 years. Though retired, she still returns to the school to tend to these treasures as well as contribute her time to mentor the girls in various CCAs.
+Gone are the days of school life at Mount Sophia, but relics of the past are vivid reminders of this precious heritage. Some of the artefacts housed within the MGS Archives Room at Blackmore Drive include a pair of old wooden speakers that were part of the public address system hanging from the front of each classroom, the dignified school bell, an archaic desk and chair, the metal printing block on which the school song was engraved, as well as an old hefty office safe. Handicraft works and other memorabilia have been preserved and safe-kept by Mrs Anna Tham, MGS’s longest serving principal of 17 years. Though retired, she still returns to the school to tend to these treasures as well as contribute her time to mentor the girls in various CCAs.
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Old%20desks%20and%20chairs1.jpg">
