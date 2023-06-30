@@ -209,7 +209,7 @@ _Welcome to the Quote Garden! Celebrating 14 years online 1998–2012_. Retrieve
 
 [^8]: Mrs Handy remembers. (1985). _Fellowship: MGS Alumnae Association newsletter_, 3. Retrieved from Methodist Girls’ School Alumnae Association website.
 
-[^9]: Louise McKee was an American girl who was taken ill with smallpox while on a world tour and died in Singapore 1925. She was 23 and her father Mr H.N. McKee donated US$5,000 to the Methodist Girls’ School for a memorial. Lau, E. (2004). _The story behind MGS’ Louise_ _McKee Wing_. Retrieved from Methodist message website.
+[^9]: Louise McKee was an American girl who was taken ill with smallpox while on a world tour and died in Singapore 1925. She was 23 and her father Mr H.N. McKee donated US$5,000 to the Methodist Girls’ School for a memorial. Lau, E. (2004). _The story behind MGS’ Louise_ McKee Wing_. Retrieved from Methodist Message website.
 
 [^10]: Lim, L.U.W., et al. (1987). [_Memories, gems and sentiments: 100 years of Methodist Girls’ School_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4769182) (p. 70). Singapore: Methodist Girls’s School. (Call no.: RSING 373.5957 MEM)
 
