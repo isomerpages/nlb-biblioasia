@@ -563,10 +563,12 @@ sections:
       alt: Cinema Pioneer Tan Cheng Kee
   - infopic:
       title: From Singapore Dance Theatre to Singapore Ballet
-      subtitle: Infopic Subtitle
+      subtitle: ARTS
       description: As the history of the company shows, its new name is less about
         breaking away from the past as it is about leaping confidently into the
         future.
-      button: Button Text
-      alt: Image alt text
+      button: A WELL-CHOREOGRAPHED MOVE
+      alt: Singapore Ballet
+      url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
+      image: /images/Vol 19 Issue 3/ballet under the stars 2022.jpg
 ---
