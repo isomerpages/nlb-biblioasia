@@ -570,5 +570,5 @@ sections:
       button: A WELL-CHOREOGRAPHED MOVE
       alt: Singapore Ballet
       url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
-      image: /images/Vol 19 Issue 3/ballet under the stars 2022.jpg
+      image: /images/ballet under the stars 2022 (resized).jpg
 ---
