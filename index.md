@@ -18,6 +18,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/vol-2-issue-3/hero banner_kaabar.jpg
   - infopic:
+      title: From Singapore Dance Theatre to Singapore Ballet
+      subtitle: ARTS
+      description: As the history of the company shows, its new name is less about
+        breaking away from the past as it is about leaping confidently into the
+        future.
+      button: A WELL-CHOREOGRAPHED MOVE
+      alt: Singapore Ballet
+      url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
+      image: /images/ballet under the stars 2022 (resized).jpg
+  - infopic:
       title: Malaya's Prewar Tennis Greats
       subtitle: Podcast
       description: Two tennis greats won 9 Malaya Cups and 12 Singapore Championships
@@ -561,14 +571,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Cinema Pioneer Tan Cheng Kee
-  - infopic:
-      title: From Singapore Dance Theatre to Singapore Ballet
-      subtitle: ARTS
-      description: As the history of the company shows, its new name is less about
-        breaking away from the past as it is about leaping confidently into the
-        future.
-      button: A WELL-CHOREOGRAPHED MOVE
-      alt: Singapore Ballet
-      url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
-      image: /images/ballet under the stars 2022 (resized).jpg
 ---
