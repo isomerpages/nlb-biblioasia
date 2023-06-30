@@ -32,7 +32,7 @@ The SBA soon gained a reputation as an excellent dance school, but its dancers f
 
 That was also what her younger sister Soo Khim did, or at least tried to do. Soo Khim trained at the SBA from 1958 and then at the Australian Ballet School in Melbourne from 1964.[^3] Like Soo Nee at the Francis Scully Ballet School, Soo Khim was the only Asian student at the all-white Australian Ballet School.[^4] She had dreamt of a professional dance career in Australia, but faced discrimination there due to her ethnicity.[^5] Ballet, as a professional industry, had always favoured homogeneity, with a penchant for Caucasian dancers.[^6]
 
-![](/images/Vol%2019%20Issue%203/image8.png)
+![](/images/Vol%2019%20Issue%203/image8_edit.png)
 <div style="background-color: white;">Goh Soo Khim registered the Singapore Dance Theatre with Anthony Then in 1987. She trained at the Australian Ballet School in Melbourne, graduating in 1966. <i>Courtesy of Esplanade – Theatres on the Bay.</i></div>
 
 After graduating in 1966, Soo Khim returned to Singapore and joined her sister Soo Nee as a principal trainer at the SBA. When Soo Nee emigrated to Canada, Soo Khim took over the reins as director and principal in 1971.[^7]
