@@ -15,10 +15,10 @@ One of Singapore’s oldest professional dance companies has become one of its n
 
 The new name is perhaps the most potent symbol of how much the company has changed and grown since its public debut at the Singapore Festival of the Arts in 1988. At the time, the company was unknown; it had just seven dancers and its future looked uncertain. Today, the company has grown to 35 dancers and apprentices of various nationalities, with a loyal following locally and an international profile as well. Janek Schergen, its artistic director, receives applications from aspiring dancers daily.[^1]
 
-![](/images/Vol%2019%20Issue%203/image5.png)
+![](/images/Vol%2019%20Issue%203/image6.png)
 <div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
 
-![](/images/Vol%2019%20Issue%203/image6.png)
+![](/images/Vol%2019%20Issue%203/image5.png)
 <div style="background-color: white;"> Janek Schergen and Goh Choo San at the premiere of <i>Unknown Territory</i> by the Washington Ballet, 1986. <i>Courtesy of Singapore Ballet.</i></div>
 
 The company has made a name for itself in numerous festivals and events such as Le Temps d’Aimer la Danse in Biarritz, France; Mexico’s Festival Internacional Cervantino; Chang Mu Arts Festival in Korea; and the Philippines Festival of Dance. 
@@ -78,6 +78,9 @@ SDT needed a place of its own – and fast. To work, the studio had to be column
 Refurbished barracks at Fort Canning were finally chosen in 1990, although Schergen recalls that the premises were “a bit shabby”.[^21] The facilities included three dance studios, a props store and workshop, a wardrobe room and a cafeteria. While the Public Works Department spent $4.62 million on renovations, SDT paid for the “fitting out of the interior of its part of the building’’, which was estimated at $500,000.[^22]
 
 SDT’s new premises paved the way for “Ballet Under the Stars”, first staged at Fort Canning Green in April 1995. Immediately, the inaugural event helped the company reach out to people who had never attended ballet performances and who might have been intimidated by formal theatre settings. Ticket holders were encouraged to bring picnic baskets and mats, and enjoy the ice-cream and popcorn sold at the venue. “Ballet Under the Stars” has been held almost every year since 1995, and is today a well-loved and iconic outdoor dance event enjoyed by all. 
+
+![](/images/Vol%2019%20Issue%203/image7.png)
+<div style="background-color: white;">Singapore Ballet’s performance of Edwaard Liang’s <i>Opus 25</i> for “Ballet Under the Stars”, 2022. <i>Courtesy of Singapore Ballet.</i></div>
 
 Unfortunately, in December that year, the company suffered another major blow when co-founder Then died following an illness. His death, at 51, created another void, which Soo Khim felt profoundly. “I have not only lost a great friend but also a confidant,” she said.[^23] With only Soo Khim left at the helm, the company needed assistance. 
 
