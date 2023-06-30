@@ -71,7 +71,7 @@ Linda Lim, class of 1966, recalled physical education lessons that included prac
 
 #### **Relics Remembered**
 
-Gone are the days of school life at Mount Sophia, but relics of the past are vivid reminders of this precious heritage. Some of the artefacts housed within the MGS Archives Room at Blackmore Drive include a pair of old wooden speakers that were part of the public address system hanging from the front of each classroom, the dignified school bell, an archaic desk and chair, the metal printing block on which the school song was engraved, as well as an old hefty office safe. Handicraft works and other memorabilia have been preserved and safe-kept by Mrs Anna Tham, MGS’s longest-serving principal of 17 years. Though retired, she still returns to the school to tend to these treasures and contribute her time to mentor the girls in various co-curricular activities.
+Gone are the days of school life at Mount Sophia, but relics of the past are vivid reminders of this precious heritage. Some of the artefacts housed within the MGS Archives Room at Blackmore Drive include a pair of old wooden speakers that were part of the public address system hanging from the front of each classroom, the dignified school bell, an archaic desk and chair, the metal printing block on which the school song was engraved, as well as an old hefty office safe. Handicraft works and other memorabilia have been preserved and safe-kept by Mrs Anna Tham, MGS’s longest-serving principal of 17 years. Though retired, she still returns to the school to tend to these treasures and to mentor the girls in various co-curricular activities.
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/MGS/Old%20desks%20and%20chairs1.jpg">
