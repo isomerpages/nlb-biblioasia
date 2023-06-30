@@ -20,6 +20,9 @@ The new name is perhaps the most potent symbol of how much the company has chang
 
 The company has made a name for itself in numerous festivals and events such as Le Temps d’Aimer la Danse in Biarritz, France; Mexico’s Festival Internacional Cervantino; Chang Mu Arts Festival in Korea; and the Philippines Festival of Dance. 
 
+![](/images/Vol%2019%20Issue%203/image4.png)
+<div style="background-color: white;">Janek Schergen rehearsing with the dancers for <i>Peter &amp; Blue’s School Holiday</i>, a ballet for children, 2022. <i>Courtesy of Singapore Ballet.</i></div>
+
 #### **From the Get-Goh**
 
 While many individuals have played an important role in the company’s journey, no retelling of its history would be complete without considering the contributions of the Goh siblings – Goh Soo Nee (also went by Goh Soonee and Soonee Goh), Goh Soo Khim and Goh Choo San. The three siblings played vital roles, though in very different ways: Soo Nee prepared the ground by starting an important predecessor institution to SDT; Soo Khim, on the other hand, led the company during its fledgling years; and although Choo San died prematurely, he was, and continues to be, spiritually influential, as can be seen by the fact that the company continues to restage his ballets, even till today.
