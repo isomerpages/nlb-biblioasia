@@ -145,7 +145,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^2]: [Goh-Lee Soonee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eebba42d-1162-11e3-83d5-0050568939ad), oral history interview by Mark Wong, 24 July 2012, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 003755) 
 
-[^3]: “Her World Woman of the Year 2008: Goh Soo Khim,” Her World, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
+[^3]: “Her World Woman of the Year 2008: Goh Soo Khim,” *Her World*, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
 
 [^4]: [Goh-Lee Soonee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eebba42d-1162-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 2 of 4. 
 
@@ -169,17 +169,17 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^14]: Janek Schergen, interview, 21 December 2022.
 
-[^15]: Janek Schergen, interview, 21 December 2022; “[*Goh Choo San Dies*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871201-1.2.58.aspx),” *Business Times*, 1 December 1987, 20. (From NewspaperSG)
+[^15]: Janek Schergen, interview, 21 December 2022; “[Goh Choo San Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871201-1.2.58.aspx),” *Business Times*, 1 December 1987, 20. (From NewspaperSG)
 
 [^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, [*Touches: 10 Years of the Singapore Dance Theatre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9248084) (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
 
-[^17]: Ong Teng Cheong, “[*Official Launch of the Singapore Dance Theatre*](https://www.nas.gov.sg/archivesonline/speeches/record-details/725e950c-115d-11e3-83d5-0050568939ad),” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
+[^17]: Ong Teng Cheong, “[Official Launch of the Singapore Dance Theatre](https://www.nas.gov.sg/archivesonline/speeches/record-details/725e950c-115d-11e3-83d5-0050568939ad),” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
 
 [^18]: Germaine Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273) (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
 
 [^19]: Lisa Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1),” *Business Times*, 21 March 1988, 11. (From NewspaperSG) 
 
-[^20]: Lee, “[*All for the Love of Dance*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1).”
+[^20]: Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1).”
 
 [^21]: Ong Soh Chin, “[*Singapore Dance Theatre to Move into Fort Canning Home*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10),” Straits Times, 30 March 1990, 31. (From NewspaperSG); Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273), 1.
 
