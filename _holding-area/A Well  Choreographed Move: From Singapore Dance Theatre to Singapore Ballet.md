@@ -38,6 +38,9 @@ The SBA soon gained a reputation as an excellent dance school, but its dancers f
 
 That was also what her younger sister Soo Khim did, or at least tried to do. Soo Khim trained at the SBA from 1958 and then at the Australian Ballet School in Melbourne from 1964.[^3] Like Soo Nee at the Francis Scully Ballet School, Soo Khim was the only Asian student at the all-white Australian Ballet School.[^4] She had dreamt of a professional dance career in Australia, but faced discrimination there due to her ethnicity.[^5] Ballet, as a professional industry, had always favoured homogeneity, with a penchant for Caucasian dancers.[^6]
 
+![](/images/Vol%2019%20Issue%203/image8.png)
+<div style="background-color: white;">Goh Soo Khim registered the Singapore Dance Theatre with Anthony Then in 1987. She trained at the Australian Ballet School in Melbourne, graduating in 1966. <i>Courtesy of Esplanade – Theatres on the Bay.</i></div>
+
 After graduating in 1966, Soo Khim returned to Singapore and joined her sister Soo Nee as a principal trainer at the SBA. When Soo Nee emigrated to Canada, Soo Khim took over the reins as director and principal in 1971.[^7]
 
 At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work in 1978.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
