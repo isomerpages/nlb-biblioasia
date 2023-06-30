@@ -56,9 +56,6 @@ ballets, and which would include an Asian sensibility. (Soo Khim continued in he
 ![](/images/Vol%2019%20Issue%203/image6.png)
 <div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
 
-![](/images/Vol%2019%20Issue%203/image3.png)
-<div style="background-color: white;"><i>Beginnings</i>, choreographed by Goh Choo San, is the first ballet ever performed by the Singapore Dance Theatre, 1988. It is an intimate quartet exploring the relationship between two couples. <i>Courtesy of Singapore Ballet.</i></div>
-
 Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong Teng Cheong described the founding of the company as “timely” and said that it was “in line with the Government’s vision to transform Singapore into a cultured society by 1999, and in promoting excellence in the arts. It therefore deserves the support of every citizen”.[^17]
 
 #### **Warming Up to Challenges**
@@ -104,6 +101,9 @@ Schergen had been involved with the company as a consultant at its inception, tr
 Schergen had more than the necessary qualifications: he had been the ballet master for companies such as the Washington Ballet, Royal Swedish Ballet, Pittsburgh Ballet Theatre and Norwegian National Ballet. Schergen had also staged Choo San’s works for the SDT between 1988 and 2005, flying in while being based abroad. (Schergen is also the artistic director of the Choo-San Goh &amp; H. Robert Magee Foundation, which oversees the licensing and production of Choo San’s ballets.)
 
 One of Schergen’s initial tasks as a consultant was to help the dancers learn Choo San’s ballets, including *Beginnings*, *Momentum* and *Birds of Paradise*. This was no easy task as his ballets are “marked by a first-rate command of structure and fluency”, as Choo San's obituary in the *New York Times* noted.[^27] 
+
+![](/images/Vol%2019%20Issue%203/image3.png)
+<div style="background-color: white;"><i>Beginnings</i>, choreographed by Goh Choo San, is the first ballet ever performed by the Singapore Dance Theatre, 1988. It is an intimate quartet exploring the relationship between two couples. <i>Courtesy of Singapore Ballet.</i></div>
 
 To push the dancers, Schergen gave them marginally difficult challenges each time. “[It] was a little bit like you [push] them a little bit harder, they’d meet that, a little bit harder, they’d meet that,” he explained.[^28]
 
