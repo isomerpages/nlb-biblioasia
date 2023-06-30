@@ -205,7 +205,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^32]: Michelle Sciarrotta, “Janek Schergen: Interview with Singapore Dance Theatre’s AD,” TheatreArtLife, 25 December 2020, https://www.theatreartlife.com/dance/janek-schergen-interview-with-singapore-dance-theatres-ad/.
 
-[^33]: Huang Lijie, “[New Home for Singapore Dance Theatre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121231-1.2.44.2.1),” Straits Times, 31 December 2012, 6. (From NewspaperSG)
+[^33]: Huang Lijie, “[New Home for Singapore Dance Theatre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121231-1.2.44.2.1),” *Straits Times*, 31 December 2012, 6. (From NewspaperSG)
 
 [^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
 
