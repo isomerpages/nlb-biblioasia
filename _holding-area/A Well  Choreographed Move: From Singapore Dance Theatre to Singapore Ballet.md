@@ -197,7 +197,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^28]: Janek Schergen, interview, 21 December 2022.
 
-[^29]: Jennifer Koh, “[*And Now, a Professional Dance Group*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880305-1.2.19.21),” Straits Times, 5 March 1988, 13. (From NewspaperSG)
+[^29]: Jennifer Koh, “[And Now, a Professional Dance Group](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880305-1.2.19.21),” *Straits Times*, 5 March 1988, 13. (From NewspaperSG)
 
 [^30]: Janek Schergen, interview, 21 December 2022.
 
