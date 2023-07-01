@@ -1,5 +1,5 @@
 ---
-title: "A Well  Choreographed Move: From Singapore Dance Theatre to Singapore Ballet"
+title: "A Well-Choreographed Move: From Singapore Dance Theatre to Singapore Ballet"
 permalink: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
 description: As the history of the company shows, its new name is less about
   breaking away from the past as it is about leaping confidently into the
@@ -20,7 +20,7 @@ The company has made a name for itself in numerous festivals and events such as 
 
 #### **From the Get-Goh**
 
-While many individuals have played an important role in the company’s journey, no retelling of its history would be complete without considering the contributions of the Goh siblings – Goh Soo Nee (also went by Goh Soonee and Soonee Goh), Goh Soo Khim and Goh Choo San. The three siblings played vital roles, though in very different ways: Soo Nee prepared the ground by starting an important predecessor institution to SDT; Soo Khim, on the other hand, led the company during its fledgling years; and although Choo San died prematurely, he was, and continues to be, spiritually influential, as can be seen by the fact that the company continues to restage his ballets, even till today.
+While many individuals have played an important role in the company’s journey, no retelling of its history would be complete without considering the contributions of the Goh siblings – Goh Soo Nee (who also went by Goh Soonee and Soonee Goh), Goh Soo Khim and Goh Choo San. The three siblings played vital roles, though in very different ways: Soo Nee prepared the ground by starting an important predecessor institution to SDT; Soo Khim, on the other hand, led the company during its fledgling years; and although Choo San died prematurely, he was, and continues to be, spiritually influential, as can be seen by the fact that the company continues to restage his ballets, even till today.
 
 ![](/images/Vol%2019%20Issue%203/image2.png)
 <div style="background-color: white;">From left: Goh Choo San, Goh Soo Khim, their mother, Goh Choo Chiat and Goh Soo Nee. <i>Courtesy of Goh Soo Khim.</i></div>
