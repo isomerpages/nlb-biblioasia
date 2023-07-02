@@ -67,18 +67,17 @@ The National Library has several reference publications that provide pointers on
 
 The internet can be a bountiful resource for the family historian. Books such as Marelli’s *@ Home With Your ancestors.com* (2007) and *Family History on the Net* (2007) offer useful genealogy-related links and websites.
 
-A popular first-stop for genealogy research on the web is FamilySearch,[^14] one of the largest genealogy services in the world, with millions of family history records available free online. FamilySearch is a service provided by The Church of Jesus Christ of Latter-day Saints. They also run over 4,500 family history centres in 70 countries including a chapter on Singapore, which may be worth a visit. Unfortunately much of the rich family history found on the net is mainly for non Asians. However, there are some websites that serve the local community. One such site is the portal of the National Archives of Singapore at <a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>. It is a gateway to the records, photographs, maps and private collections of the archives in Singapore. To get the most out of its extensive records, a visit to the National Archives is a definite must as a number of its records are not available online in full-text. Another key organisation is the newly formed Genealogy Society Singapore[^15] which has helped a number of Singaporeans to trace their roots all the way back to Xiamen and Hainan.
+A popular first-stop for genealogy research on the web is FamilySearch,[^14] one of the largest genealogy services in the world, with millions of family history records available free online. FamilySearch is a service provided by The Church of Jesus Christ of Latter-Day Saints. They also run over 4,500 family history centres in 70 countries including a chapter on Singapore, which may be worth a visit. Unfortunately much of the rich family history found on the net is mainly for non-Asians. However, there are some websites that serve the local community. One such site is the portal of the National Archives of Singapore at <a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>. It is a gateway to the records, photographs, maps and private collections of the archives in Singapore. To get the most out of its extensive records, a visit to the National Archives is a definite must as a number of its records are not available online in full-text. Another key organisation is the newly formed Genealogy Society Singapore,[^15] which has helped a number of Singaporeans to trace their roots all the way back to Xiamen and Hainan.
 
 #### **Ghosts in the Attic**
 
 Every family has skeletons and secrets – an illegitimate son, an adopted child, a criminal record, poverty or insanity. Yet these members may prove most vital to the building of one’s family tree. It is from these family members that records may be uncovered as documentation is often required for cases of adoption and insanity, or appeals for financial support.
 
-Each family has tales of bravado, tragedy and bliss waiting to be shared and retold. There are publications that guide researchers on publishing their family stories. They include Titford’s *Writing up your family history* (2003) and Carmack’s *You can write your family history* (2003).
+Each family has tales of bravado, tragedy and bliss waiting to be shared and retold. There are publications that guide researchers on publishing their family stories. They include Titford’s *Writing Up Your Family History* (2003) and Carmack’s *You Can Write Your Family History* (2003).
 
-Published family histories are the nuts and bolts of genealogical research. Particularly useful for their insights into Malayan families are family histories such as Lim’s *Myth and reality* (1988) and Ong’s *Chew Boon Lay* (2002), which includes four charts on their extensive family tree. The Shepherdson family made headlines when they published their genealogy *Journey to the Straits* (2003) that spanned three centuries from their earliest known ancestor who travelled beyond the British shores to Southeast Asia. They were even featured in an exhibition on family history research at the National Library. The family followed up with another book *The great genealogical search* (2010) which records their research experience from traditional repositories such as archives and libraries as well as modern tools, in particular the internet and DNA matching. A member of the Shepherdson family also published her personal adventure of tracing one’s family in *Looking back* (2006). These three publications demonstrate the various approaches of tracing one’s family history, proven techniques and experiences, and how the interplay of memories and records reconstructed the lives of people.
+Published family histories are the nuts and bolts of genealogical research. Particularly useful for their insights into Malayan families are family histories such as Lim’s *Myth and Reality* (1988) and Ong’s *Chew Boon Lay* (2002), which includes four charts on their extensive family tree. The Shepherdson family made headlines when they published their genealogy *Journey to the Straits* (2003) which spanned three centuries from their earliest-known ancestor who travelled beyond the British shores to Southeast Asia. They were even featured in an exhibition on family history research at the National Library. The family followed up with another book *The Great Genealogical Search* (2010), which records their research experience from traditional repositories such as archives and libraries as well as modern tools, in particular, the internet and DNA matching. A member of the Shepherdson family also published her personal adventure of tracing one’s family in *Looking Back* (2006). These three publications demonstrate the various approaches of tracing one’s family history, proven techniques and experiences, and how the interplay of memories and records reconstructed the lives of people.
 
-
-The Shepherdson story is an example of family history coming full-circle, where the research bore fruit in the form of more books and records to serve other family historians. Although the process of researching and documenting a family tree may seem never-ending, one can be encouraged by fellow sojourners and those who have found their roots through the resources at the National Library.
+The Shepherdson story is an example of family history coming full circle, where the research bore fruit in the form of more books and records to serve other family historians. Although the process of researching and documenting a family tree may seem never-ending, one can be encouraged by fellow sojourners and those who have found their roots through the resources at the National Library.
 
 **Acknowledgements** 
 
@@ -89,22 +88,22 @@ The Shepherdson story is an example of family history coming full-circle, where 
 <div style="background-color: white;">
 <br>
 <img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
-<b>Bonny Tan</b> is a Senior Librarian with the National Library Heritage division. She is the compiler of <i> A Baba bibliography</i> (2007) and <i> An orientalist’s treasure trove of Malaya and beyond: Catalogue of Gibson-Hill Collection at the National Library Singapore</i> (2008) and is a regular contributor to<i> BiblioAsia</i> and Singapore Infopedia, NLB’s online encyclopaedia on Singapore</div>.
+<b>Bonny Tan</b> is a Senior Librarian with the National Library Heritage division. She is the compiler of <i> A Baba Bibliography</i> (2007) and <i> An Orientalist’s Treasure Trove of Malaya and Beyond: Catalogue of Gibson-Hill Collection at the National Library Singapore</i> (2008) and is a regular contributor to<i> BiblioAsia</i> and Singapore Infopedia, the National Library Board’s online encyclopedia on Singapore.</div>
 	
 
 #### **REFERENCES**	
 	
   
 
-福建会馆. (1948). [福建会馆磷记山, 老山, 羔丕山地租部, 民国三十七年四月份立](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199253). &nbsp;未出版手稿. &nbsp;(Call no.: Chines RRARE 333.5095957 FJH; Microfilm no.: NL30213)
+福建会馆. (1948). [福建会馆磷记山, 老山, 羔丕山地租部, 民国三十七年四月份立](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199253). &nbsp;未出版手稿. &nbsp;(Call no.: Chinese RRARE 333.5095957 FJH; Microfilm no.: NL30213)
 
-黄美萍, 钟伟耀 &amp; 林永美 &nbsp;(编者).&nbsp;&nbsp; (2007). [新加坡宗乡会馆出版书刊目录 = A bibliography on the publications of Singapore Chinese Clan Associations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922844). 新加坡: 新加坡国家图书馆管理局. (Call no.: Chinese RSING 016.95957 BIB). Also available from [http://libguides.nl.sg/ChineseClans](http://libguides.nl.sg/ChineseClans)
+黄美萍, 钟伟耀 &amp; 林永美 &nbsp;(编者).&nbsp;&nbsp; (2007). [新加坡宗乡会馆出版书刊目录 = A bibliography on the publications of Singapore Chinese Clan Associations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922844). 新加坡: 新加坡国家图书馆管理局. (Call no.: Chinese RSING 016.95957 BIB). Also available from [http://libguides.nl.sg/ChineseClans](http://libguides.nl.sg/ChineseClans).
 
 新加坡福建会馆 . (1963). [新加坡福建会馆仁记山逐日迁冢纪录底, 自一九六三年五月十八日起至\[一九六三年六月十七日\], _No. 4230__至__8250_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199224). 未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30216)
 
-新加坡福建会馆. (1965). [新加坡福建会馆磷记山逐日迁冢纪录底, 自一九六三年七月十九日至\[一九六五年三月十三日\], _No.12251 to \[16915\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199222). &nbsp;未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30217)
+新加坡福建会馆. (1965). [新加坡福建会馆磷记山逐日迁冢纪录底, 自一九六三年七月十九日至\[一九六五年三月十三日\], _No. 12251 to \[16915\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199222). &nbsp;未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30217)
 
-_500 brickwall solutions to genealogy problems_. (2003). Toronto: Moorshead Magazines. (
+_500 brickwall solutions to genealogy problems_. (2003). Toronto: Moorshead Magazines.
 
 Carmack, S.D. (2003). _You can write your family history_. Cincinnati, Ohio: Betterway Books.
 
@@ -113,7 +112,7 @@ Chew, K.C., &amp; Chew, E. (Eds.). (2002). [_Chew Boon Lay: A family traces its 
 Church of England, Diocese of Singapore. (194–). [_Diocesan digest: The Diocese of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13368156). Singapore: Church of England, Diocese of Singapore. (Call no.: RSING  
 283.5957 DD)
 
-Church of Jesus Christ of Latter-day Saints. (2012). _FamilySearch_. Retrieved from family search website.
+Church of Jesus Christ of Latter-Day Saints. (2012). _FamilySearch_. Retrieved from Family Search website.
 
 _Family history on the net_. (2007). Newbury: Countryside Books.
 
@@ -121,13 +120,11 @@ Foy, K. (2011). [_Family history for beginners_](https://eservice.nlb.gov.sg/ite
 
 Genealogy Society of Singapore. (2012). _Genealogy Society Singapore_. Retrieved from Singapore Genealogy website.
 
-Hameedah M.I., &amp; Ong, E.C. (2003). Tracing your family history. Retrieved from Singapore Infopedia. (This article cannot be found)
+Hameedah, M.I., &amp; Ong, E.C. (2003). Tracing your family history. Retrieved from Singapore Infopedia. (This article cannot be found)
 
 Harfield, A.G. (1979). [_Fort Canning Cemetery, Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2002507). \[s.i.: s.n.\]. (Call no.: RCLOS 929.5095957 HAR)
 
 Harfield, A.G. (1988). [_Early cemeteries in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5166590). London: British Association for Cemeteries in South Asia. (Call no.: RSING 929.5095957 HAR)
-
-Kartini Saparudin., et al. (2008). [_Sources on family history: A select bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003806). Singapore: National Library Singapore. (Call no.: RSING 016.9292095957 LEE)
 
 Lim, P.H.P. (1998). [_Myth and reality: Researching the Huang genealogies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9079767). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 928.108995105957 LIM)
 
@@ -139,21 +136,23 @@ Methodist Church. (1952–). [_The Methodist message_](https://eservice.nlb.gov.
 
 National Archives of Singapore. (2005). Retrieved from [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)
 
-Ng, H.L. (2011). Genealogy research resources. Retrieved from libguides website.
+Ng, H.L. (2011). Genealogy research resources. Retrieved from Libguides website.
 
 Ong, C.I. (2006). [_The journey from White Rock: The Ong Chong Chew family tree_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12796160). Singapore: Ong Chew Im. (Call no.: RSING 929.2095957 ONG)
 
 Presbyterian Church in Malaya. (1912–). [_Saint Andrew’s outlook: Annual record of the Presbyterian Church in Malaya, Sumatra, Burma and Siam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200107836). Singapore: Presbyterian Church in Malaya. Available via PublicationSG.
 
-Saparudin K. (2008). [_Sources on family history: A select bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003806). Singapore: National Library Singapore. (Call no.: RSING 016.9292095957 LEE)
+Saparudin, K. (2008). [_Sources on family history: A select bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003806). Singapore: National Library Singapore. (Call no.: RSING 016.9292095957 LEE)
+
+Saparudin, K. et al. (2008). [_Sources on family history: A select bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003806). Singapore: National Library Singapore. (Call no.: RSING 016.9292095957 LEE)
 
 Schweizer-Iten, H. (1981). [_One hundred years of the Swiss Club and the Swiss community in Singapore, 1871–1971_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082418). Singapore: The Swiss Club. (Call no.: RSING 367.95957 SCH)
 
 Scully-Shepherdson, M. (2006). [_Looking back: A family history discovered and remembered_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12793275). Singapore: Martha Scully-Shepherdson. (Call no.: RSING 929.2095957 SCU)
 
-Shepherdson, K.L. &amp; Shepherdson, P.J. (2003). [_Journey to the Straits: The Shepherdson story. Singapore: Shepherdson Family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12263522). Singapore: Shepherdson Family. (Call no.: RSING 929.2095957 SHE)
+Shepherdson, K.L., &amp; Shepherdson, P.J. (2003). [_Journey to the Straits: The Shepherdson story. Singapore: Shepherdson Family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12263522). Singapore: Shepherdson Family. (Call no.: RSING 929.2095957 SHE)
 
-Shepherdson, K.L., Shepherdson, P.J. &amp; D’Almeida, K. (2010). [_The great genealogical search: A remarkable story of how one family traced its roots in the East Indies and discovered its British ancestry_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13366950). Singapore: Straits Consultancy &amp; Pub. (Call no.: RSING 929.107205957 SHE)
+Shepherdson, K.L., Shepherdson, P.J., &amp; D’Almeida, K. (2010). [_The great genealogical search: A remarkable story of how one family traced its roots in the East Indies and discovered its British ancestry_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13366950). Singapore: Straits Consultancy &amp; Pub. (Call no.: RSING 929.107205957 SHE)
 
 Skulnick, M., &amp; Moorshead, V. (Eds.). (2004). [_More brickwall solutions to genealogy problems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13107878). Toronto: Family Chronicle Magazine. (Call no.: R 929.1072 MOR)
 
@@ -180,11 +179,11 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
  
 
-[^1]: Primary sources, particularly birth, marriage and death certificates provide links to the family tree. These records can be obtained from the Immigration &amp; Checkpoints Authority (ICA), the Registry of Marriages (ROM), and the National Archives of Singapore (NAS). The public can apply for a birth and death extract from eXtracts Online at Government websites.
+[^1]: Primary sources, particularly birth, marriage and death certificates, provide links to the family tree. These records can be obtained from the Immigration and Checkpoints Authority, the Registry of Marriages and the National Archives of Singapore. The public can apply for a birth and death extract from eXtracts Online at Government websites.
 
 [^2]: They include Harfield, A.G. (1979). [_Fort Canning Cemetery, Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2002507). \[s.i.: s.n.\]. (Call no.: RCLOS 929.5095957 HAR), along with Stallwood, H.Q. (1912, June). The old cemetery on Fort Canning, Singapore: With a plan and four plates. _Journal of the Straits Branch of the Royal Asiatic Society, 61_, 77–126. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^3]: Koh Seow Chuan, a retired architect and founder of DP Architects, donated his rich collection of documents and records to NLB.
+[^3]: Koh Seow Chuan, a retired architect and founder of DP Architects, donated his rich collection of documents and records to the National Library Board.
 
 [^4]: The March 2012 issue of BiblioAsia has a profile of Wu Lien-Teh and highlights of his collection. Wee, T. B. (2012, March). [A life less ordinary: Wu Lien-The the plague fighter](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). _BiblioAsia, 7_ (4), 34–37. Retrieved from BiblioAsia website.
 
