@@ -233,4 +233,4 @@ Singapore. Ministry of Culture. Jawatankuasa Besar. (1965). [_Chenderamata Bulan
 
 [^4]: MENDAKI ialah Majlis Pendidikan Anah-Anak Islam.
 
-[^5]: Pelajar Bahasa ibunda Melayu di sekolah –sekolah sudah mula dilatih menggunakan sebutan baku semenjak tahun 1988.
+[^5]: Pelajar Bahasa ibunda Melayu di sekolah-sekolah sudah mula dilatih menggunakan sebutan baku semenjak tahun 1988.
