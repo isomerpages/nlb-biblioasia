@@ -8,14 +8,14 @@ description: Tracing our family history can be a slow and laborious process. The
 #### Tracing our family history can be a slow and laborious process. The National Library has various resources to help the researcher complete the journey of discovering one’s roots.
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/FamilyHistory/Lim%20P%20H_1.jpg">
- <div style="background-color: white;">All rights reserved. P. Lim P. H. And Lim S. G, 2005.</div>
+ <div style="background-color: white;"><i>All rights reserved. P. Lim P. H. And Lim S. G, 2005.</i></div>
 
 
 #### **Grandfathers’ Stories**
 
-The best place to begin exploring one’s family history is one’s own family, both immediate and extended. Talking to elderly relatives is an intimate process that reveals lost names, fleshes out characters and unravels hidden stories. It is not always easy to interview those who are most familiar to us. Techniques in interviewing relatives and fishing for treasured nuggets in family histories are explained in publications such as Verde’s *Touching tomorrow* (2000) which sees the process of the oral interview as a gift for the whole family. As families share, they invariably uncover photographs, memorabilia and letters. These become touchstones, triggering memories in others or carrying new information, often of a more personal nature.
+The best place to begin exploring one’s family history is one’s own family, both immediate and extended. Talking to elderly relatives is an intimate process that reveals lost names, fleshes out characters and unravels hidden stories. It is not always easy to interview those who are most familiar to us. Techniques in interviewing relatives and fishing for treasured nuggets in family histories are explained in publications such as Verde’s *Touching Tomorrow* (2000), which sees the process of the oral interview as a gift for the whole family. As families share, they invariably uncover photographs, memorabilia and letters. These become touchstones, triggering memories in others or carrying new information, often of a more personal nature.
 
-Keeping familial records, photographs and ephemera organised is just as important as developing a strategy for research. The process is often tedious and an art in itself. One useful guide for newcomers is Taylor’s *Preserving your family* (2001) which outlines, in detail, the process of restoring and organising old photographs.
+Keeping familial records, photographs and ephemera organised is just as important as developing a strategy for research. The process is often tedious and an art in itself. One useful guide for newcomers is Taylor’s *Preserving Your Family* (2001), which outlines in detail the process of restoring and organising old photographs.
 
 Chatting with aged relatives, leafing through old letters and documents, analysing photographs and examining family heirlooms can open doors to hidden branches of one’s family tree.
 
@@ -23,10 +23,10 @@ Chatting with aged relatives, leafing through old letters and documents, analysi
 
 A name with a birth or death date is the first step in fleshing out details of a member in the family tree.[^1] Sometimes starting with the end may prove more profitable than trying to trace the beginning. Often a deceased who has just passed away is still remembered by surviving family members who can recall events and details associated with the individual. A simple obituary in the newspaper or community newsletter can reveal a slew of other names and relationships, of sons and daughters, grandsons and nephews. More established patriarchs (or matriarchs) may have eulogies published.
 
-Persistence and creativity are important keys for dredging up information of our ancestors. Vernacular names are often mispronounced and their spellings confused. Even with a searchable database, variant names, acronyms, and spellings should be attempted before giving up the search. Etchings of names on headstones are important clues that can move the research forward. Birth dates, places of birth, aliases or commendations are often gleaned from gravestones. There are publications which have transcribed details of the tombstones of the early colonialists.[^2] Burial registers and exhumation records are also invaluable sources of information. Donated by Kuan Swee Huat, the Hokkien Huay Kuan Exhumation Records, spanning 1948-1951 and 1936-1965 list some 10,000 Chinese graves exhumed from Redhill around the 1960s. They carry information such as the date of exhumation and burial, name, sex, dialect group of the deceased, and names of their descendants.
+Persistence and creativity are important keys for dredging up information of our ancestors. Vernacular names are often mispronounced and their spellings confused. Even with a searchable database, variant names, acronyms and spellings should be attempted before giving up the search. Etchings of names on headstones are important clues that can move the research forward. Birth dates, places of birth, aliases or commendations are often gleaned from gravestones. There are publications that have transcribed details of the tombstones of the early colonialists.[^2] Burial registers and exhumation records are also invaluable sources of information. Donated by Kuan Swee Huat, the Hokkien Huay Kuan Exhumation Records, spanning 1948–1951 and 1936–1965, list some 10,000 Chinese graves exhumed from Redhill in the 1960s. They carry information such as the date of exhumation and burial, name, sex and dialect group of the deceased as well as names of their descendants.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/FamilyHistory/Redhill%20Cemetery%20Records_1.jpg">
- <div style="background-color: white;">Extract from the RedHill Cemetery Records. <i>From the Kuan Swee Huat Donor Collection. All rights reserved. Kuan Swee Huat and the National Library Board Singapore, 2010.</i></div>
+ <div style="background-color: white;">Extract from the Redhill Cemetery Records. <i>From the Kuan Swee Huat Donor Collection. All rights reserved. Kuan Swee Huat and the National Library Board Singapore, 2010.</i></div>
 
 Legal papers such as petitions, writs of summons, power of attorney, property ownership, wills and testaments such as those in the collections of Koh Seow Chuan,[^3] can throw much light on a family’s genealogy. The handwritten will and testament of well-known philanthropist Tan Kim Seng dated 1862, for example, revealed not only the wealth of the deceased, but also his descendants and beneficiaries, many of whom were well-known in their own capacity.
 
@@ -34,7 +34,7 @@ Legal papers such as petitions, writs of summons, power of attorney, property ow
  <div style="background-color: white;">Will and Testament of Tan Kim Seng. <i>Koh Seow Chuan Donor Collection, National Library Board. All rights reserved. Koh Seow Chuan and National Library Board, Singapore, 2005.</i></div>
 
 
-*The Straits Times* and *The Singapore Free Press* are fully searchable on NewspaperSG, an online archive of Singapore news. Dating back to the mid-19th century, these newspapers carry announcements of births, marriages and deaths, with more details for well-known people. Passenger lists are also published sometimes, giving information on a person’s destination, place of embarkation and the ship’s name. Another useful source of information comes from notices of exhumation published in these dailies. Other language newspapers such as *Berita Harian*, *Nanyang Siang Pau*, *Sin Chew Jit Poh* and *Tamil Murasu* are also available through this portal although they were published much later and may have less to offer. Available on microfilm are other dailies such as the *Malaya Tribune*, the *Singapore Herald* and the *Singapore Standard* which are alternative sources of news.
+*The Straits Times* and *The Singapore Free Press* are fully searchable on NewspaperSG, an online archive of Singapore news. Dating back to the mid-19th century, these newspapers carry announcements of births, marriages and deaths, with more details for well-known people. Passenger lists are also published sometimes, giving information on a person’s destination, place of embarkation and the ship’s name. Another useful source of information comes from notices of exhumation published in these dailies. Non-English-language newspapers such as *Berita Harian*, *Nanyang Siang Pau*, *Sin Chew Jit Poh* and *Tamil Murasu* are also available through this portal, although they were published much later and may have less to offer. Available on microfilm are other dailies such as the *Malaya Tribune*, the *Singapore Herald* and the *Singapore Standard* which are alternative sources of news.
 
 Whole donations of records, photographs and books with connections to well-known families such as the Wong Ah Fook Collection, the Wang Tso and Hsiu Chin Collection and the Wu Lien-Teh Collection are also gems to family historians of these pedigree families. The collection of Wong Ah Fook (1837-1918) donated by his great-granddaughter Datin Patricia Lim includes genealogies, wills, archival records, photographs, account books, press cuttings, maps and publications related to the family’s history. Mr Wang Tso and his wife Madam Chen Hsiu Chin were prominent members in the educational field in the 1950s to 1960s, particularly of Chinese institutions such as the Pay Fong High School, the Yock Eng High School and the Nanyang University. Their collection, donated by their daughter Mrs Lee-Wang Cheng Yeng, has over 2,000 documents, comprising mainly letters and personal documents of Mr and Mrs Wang. The recently donated collection of Wu Lien-Teh, a renowned physician in both Malaya and China, has unique photographs and original works by both Wu and his first wife, Ruth.[^4]
 
@@ -88,8 +88,8 @@ The Shepherdson story is an example of family history coming full-circle, where 
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <b>Bonny Tan</b> is a Senior Librarian with the National Library Heritage division. She is the compiler of <i> A Baba bibliography</i> (2007) and <i> An orientalist’s treasure trove of Malaya and beyond: Catalogue of Gibson-Hill Collection at the National Library Singapore</i> (2008) and is a regular contributor to<i> BiblioAsia</i> and Singapore Infopedia, NLB’s online encyclopaedia on Singapore</div>.
 	
 
@@ -97,19 +97,19 @@ The Shepherdson story is an example of family history coming full-circle, where 
 	
   
 
-福建会馆. (1948). [福建会馆磷记山, 老山, 羔丕山地租部, 民国三十七年四月份立](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199253).  未出版手稿.  (Call no.: Chines RRARE 333.5095957 FJH; Microfilm no.: NL30213)
+福建会馆. (1948). [福建会馆磷记山, 老山, 羔丕山地租部, 民国三十七年四月份立](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199253). &nbsp;未出版手稿. &nbsp;(Call no.: Chines RRARE 333.5095957 FJH; Microfilm no.: NL30213)
 
-黄美萍, 钟伟耀 & 林永美  (编者).   (2007). [新加坡宗乡会馆出版书刊目录 = A bibliography on the publications of Singapore Chinese Clan Associations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922844). 新加坡: 新加坡国家图书馆管理局. (Call no.: Chinese RSING 016.95957 BIB). Also available from [http://libguides.nl.sg/ChineseClans](http://libguides.nl.sg/ChineseClans)
+黄美萍, 钟伟耀 &amp; 林永美 &nbsp;(编者).&nbsp;&nbsp; (2007). [新加坡宗乡会馆出版书刊目录 = A bibliography on the publications of Singapore Chinese Clan Associations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922844). 新加坡: 新加坡国家图书馆管理局. (Call no.: Chinese RSING 016.95957 BIB). Also available from [http://libguides.nl.sg/ChineseClans](http://libguides.nl.sg/ChineseClans)
 
 新加坡福建会馆 . (1963). [新加坡福建会馆仁记山逐日迁冢纪录底, 自一九六三年五月十八日起至\[一九六三年六月十七日\], _No. 4230__至__8250_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199224). 未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30216)
 
-新加坡福建会馆. (1965). [新加坡福建会馆磷记山逐日迁冢纪录底, 自一九六三年七月十九日至\[一九六五年三月十三日\], _No.12251 to \[16915\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199222).  未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30217)
+新加坡福建会馆. (1965). [新加坡福建会馆磷记山逐日迁冢纪录底, 自一九六三年七月十九日至\[一九六五年三月十三日\], _No.12251 to \[16915\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199222). &nbsp;未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30217)
 
 _500 brickwall solutions to genealogy problems_. (2003). Toronto: Moorshead Magazines. (
 
 Carmack, S.D. (2003). _You can write your family history_. Cincinnati, Ohio: Betterway Books.
 
-Chew, K.C., & Chew, E. (Eds.). (2002). [_Chew Boon Lay: A family traces its history: A family album._](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11953821) Singapore: Ong Chwee Im. (Call no.: RSING 929.2095957 CHE)
+Chew, K.C., &amp; Chew, E. (Eds.). (2002). [_Chew Boon Lay: A family traces its history: A family album._](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11953821) Singapore: Ong Chwee Im. (Call no.: RSING 929.2095957 CHE)
 
 Church of England, Diocese of Singapore. (194–). [_Diocesan digest: The Diocese of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13368156). Singapore: Church of England, Diocese of Singapore. (Call no.: RSING  
 283.5957 DD)
@@ -122,7 +122,7 @@ Foy, K. (2011). [_Family history for beginners_](https://eservice.nlb.gov.sg/ite
 
 Genealogy Society of Singapore. (2012). _Genealogy Society Singapore_. Retrieved from Singapore Genealogy website.
 
-Hameedah M.I., & Ong, E.C. (2003). Tracing your family history. Retrieved from Singapore Infopedia. (This article cannot be found)
+Hameedah M.I., &amp; Ong, E.C. (2003). Tracing your family history. Retrieved from Singapore Infopedia. (This article cannot be found)
 
 Harfield, A.G. (1979). [_Fort Canning Cemetery, Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2002507). \[s.i.: s.n.\]. (Call no.: RCLOS 929.5095957 HAR)
 
@@ -132,7 +132,7 @@ Kartini Saparudin., et al. (2008). [_Sources on family history: A select bibliog
 
 Lim, P.H.P. (1998). [_Myth and reality: Researching the Huang genealogies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9079767). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 928.108995105957 LIM)
 
-Lim, P.H.P. (2005). [_The family book of Wong Ah Fook: A continuation of the genealogy of Wenming_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12453741). Singapore: \[P. Lim P.H. & Lim S.G.\]. (Call no.: RSING 929.2095957 FAM)
+Lim, P.H.P. (2005). [_The family book of Wong Ah Fook: A continuation of the genealogy of Wenming_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12453741). Singapore: \[P. Lim P.H. &amp; Lim S.G.\]. (Call no.: RSING 929.2095957 FAM)
 
 Marelli, D. (2007). _@ home with your ancestors.com: How to research family history using the internet_. Oxford: How To Books.
 
@@ -152,11 +152,11 @@ Schweizer-Iten, H. (1981). [_One hundred years of the Swiss Club and the Swiss c
 
 Scully-Shepherdson, M. (2006). [_Looking back: A family history discovered and remembered_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12793275). Singapore: Martha Scully-Shepherdson. (Call no.: RSING 929.2095957 SCU)
 
-Shepherdson, K.L. & Shepherdson, P.J. (2003). [_Journey to the Straits: The Shepherdson story. Singapore: Shepherdson Family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12263522). Singapore: Shepherdson Family. (Call no.: RSING 929.2095957 SHE)
+Shepherdson, K.L. &amp; Shepherdson, P.J. (2003). [_Journey to the Straits: The Shepherdson story. Singapore: Shepherdson Family_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12263522). Singapore: Shepherdson Family. (Call no.: RSING 929.2095957 SHE)
 
-Shepherdson, K.L., Shepherdson, P.J. & D’Almeida, K. (2010). [_The great genealogical search: A remarkable story of how one family traced its roots in the East Indies and discovered its British ancestry_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13366950). Singapore: Straits Consultancy & Pub. (Call no.: RSING 929.107205957 SHE)
+Shepherdson, K.L., Shepherdson, P.J. &amp; D’Almeida, K. (2010). [_The great genealogical search: A remarkable story of how one family traced its roots in the East Indies and discovered its British ancestry_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13366950). Singapore: Straits Consultancy &amp; Pub. (Call no.: RSING 929.107205957 SHE)
 
-Skulnick, M., & Moorshead, V. (Eds.). (2004). [_More brickwall solutions to genealogy problems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13107878). Toronto: Family Chronicle Magazine. (Call no.: R 929.1072 MOR)
+Skulnick, M., &amp; Moorshead, V. (Eds.). (2004). [_More brickwall solutions to genealogy problems_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13107878). Toronto: Family Chronicle Magazine. (Call no.: R 929.1072 MOR)
 
 Smolenyak, M. (2009). _Who do you think you are? The essential guide to tracing your family history_. New York: Viking.
 
@@ -181,7 +181,7 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
  
 
-[^1]: Primary sources, particularly birth, marriage and death certificates provide links to the family tree. These records can be obtained from the Immigration & Checkpoints Authority (ICA), the Registry of Marriages (ROM), and the National Archives of Singapore (NAS). The public can apply for a birth and death extract from eXtracts Online at Government websites.
+[^1]: Primary sources, particularly birth, marriage and death certificates provide links to the family tree. These records can be obtained from the Immigration &amp; Checkpoints Authority (ICA), the Registry of Marriages (ROM), and the National Archives of Singapore (NAS). The public can apply for a birth and death extract from eXtracts Online at Government websites.
 
 [^2]: They include Harfield, A.G. (1979). [_Fort Canning Cemetery, Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2002507). \[s.i.: s.n.\]. (Call no.: RCLOS 929.5095957 HAR), along with Stallwood, H.Q. (1912, June). The old cemetery on Fort Canning, Singapore: With a plan and four plates. _Journal of the Straits Branch of the Royal Asiatic Society, 61_, 77–126. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -193,7 +193,7 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
 [^6]: [_Singapore almanac and directory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042730). (1846–1869). Singapore: Straits Times Press. (Call no.: RRARE 382.09595 STR; Microfilm nos.: NL2363, NL2362)
 
-[^7]: Tan’s Scouting in Singapore 1920–2000. Tan, K.Y.L., & Wan, M.H. (2002). [_Scouting in Singapore 1920–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11866534). Singapore: Singapore Scout Association and National Archives of Singapore. (Call no.: RSING 369.43095957 TAN)
+[^7]: Tan’s Scouting in Singapore 1920–2000. Tan, K.Y.L., &amp; Wan, M.H. (2002). [_Scouting in Singapore 1920–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11866534). Singapore: Singapore Scout Association and National Archives of Singapore. (Call no.: RSING 369.43095957 TAN)
 
 [^8]: The Singapore Chinese Clan Associations resource guide is from Libguides website.
 
@@ -210,29 +210,3 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 [^14]: FamilySearch is accessible at Familysearch.org website.
 
 [^15]: This organisation’s website can be be assessed at singaporegenealogy.org website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
