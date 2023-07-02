@@ -125,6 +125,12 @@ Kementerian Pelajaran Singapura telah mengarahkan supaya pengajaran bahasa ibund
 
 Terdapat beberapa ejaan yang dipertahankan kededua pihak – Indonesia dan Malaysia – yang tidak dapat disekatakan, sama ada kerana sentimen atau kerana keyakinan terhadap kebenaran pendapat mereka, lantas ejaan yang mereka yakini itu disetujui digunapakai di wilayah masing-masing.*
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">   
+	* <b>Malaysia mengeja</b><br><br>
+bahawa<br><br> banteras <br><br>beza <br><br>kerana <br><br>sastera<br><br> 
+<b>Indonesia mengeja</b><br><br> 
+bahwa <br><br>berantas <br><br>beda<br><br> karena<br><br> sastra</div>
+
 Ketetapan itu telah diputuskan rumusan KPBMM3 1956 yang berkata: bersetuju (terus menggunakan) hal-hal yang tidak disetujui.
 
 Singapura pula mengambil sikap apabila tertembung dengan kelainan yang demikian itu, maka Singapura akan menggunakan apa-apa yang dipakai Malaysia.
