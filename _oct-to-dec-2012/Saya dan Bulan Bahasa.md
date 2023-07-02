@@ -182,13 +182,13 @@ BBMS 1990 dilaksanakan bersekali dengan Bulan Budaya Melayu. Dalam rencana menya
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/88_1.jpg">
- <div style="background-color: white;"> <i>Abdul Ghani Hamid Donor Collection, National Library Board.</i> All rights reserved. Jawatankuasa Bulan Bahasa, Jawatankuasa Bahasa Melayu Singapura, 1988.</div>
+ <div style="background-color: white;"> <i>Abdul Ghani Hamid Donor Collection, National Library Board. All rights reserved. Jawatankuasa Bulan Bahasa, Jawatankuasa Bahasa Melayu Singapura, 1988.</i></div>
 
 BBMS 1990 mula memperkenalkan sebutan baku bahasa Melayu (menyebut kekata sebagaimana dieja) menerusi majlis-majlis dialog dan ceramahnya. Usaha Jawatankuasa Bahasa Melayu semakin fokus kepada sebutan baku.
 
 Memandangkan tugas Jawatankuasa Bahasa itu semakin luas, dalam beberapa mesyuaratnya telah saya sarankan supaya nama JBMS dipinda menjadi Majlis Bahasa Melayu Singapura (MBMS).
 
-BBMS 1992 telah dilaksanakan dengan tema ‘Ke Arah Penyempurnaan Bahasa Melayu Baku’. Sayangnya, pada masa itu, apabila kita menyebut bahasa Melayu Baku, yang difahami umum ialah sebutan bakunya sahaja; padahal yang dikatakan bahasa baku termasukklah tatabahasanya, ejaannya, peristilahannya, dan sebutannya. Sebutan itu hanya satu sahaja daripada aspek bahasa.
+BBMS 1992 telah dilaksanakan dengan tema "Ke Arah Penyempurnaan Bahasa Melayu Baku". Sayangnya, pada masa itu, apabila kita menyebut bahasa Melayu Baku, yang difahami umum ialah sebutan bakunya sahaja; padahal yang dikatakan bahasa baku termasukklah tatabahasanya, ejaannya, peristilahannya, dan sebutannya. Sebutan itu hanya satu sahaja daripada aspek bahasa.
 
 Dalam Simposium Sebutan Baku yang dianjurkan JBMS pada November 1992, nama Majlis Bahasa Melayu Singapura diisytihar dan dirasmikan menggantikan nama JBMS. Pada tahun itu, Majlis Bahasa Melayu telah menganjurkan seminar besar-besaran mengenai sebutan baku. Pakar-pakar sebutan baku dari Malaysia telah diundang memimpin bengkel sebutan baku bagi guru-guru bahasa Melayu di Singapura.[^5]
 
@@ -201,7 +201,7 @@ MBMS telah merubah musiman bulan bahasa. Kini dilaksanakan pada tiap tahun genap
 Dua anugerah, Anugerah Tun Seri Lanang dan Anumerta Tun Sri Lanang, disampaikan kepada para sasterawan yang dianggap layak menerimanya. Penganugerahan itu dimulai dari tahun 1993. Saya telah menerima Anugerah Tun Sri Lanang pada 1993; Masuri SN pada 1995; Abd Ghani Hamid pada 1997; Suratman Markasan pada 1999 dan diikuti lain-lain sasterawan yang diiktiraf.
 
 <div>
-Award-winning writer, editor and former lecturer <b>Muhammad Ariff Ahmad</b> is a prominent expert and activist of the Malay language and culture in Singapore. A founding member of the esteemed Malay literary club, Asas ‘50, he has been honoured at national and regional levels, receiving Singapore’s Cultural Medallion in 1987 and the Southeast Asian Write award in 1993. </div>
+Award-winning writer, editor and former lecturer <b>Muhammad Ariff Ahmad</b> is a prominent expert and activist of the Malay language and culture in Singapore. A founding member of the esteemed Malay literary club, Asas '50, he has been honoured at national and regional levels, receiving Singapore’s Cultural Medallion in 1987 and the Southeast Asian Write award in 1993. </div>
 
 
 #### **REFERENCES**
@@ -211,17 +211,17 @@ Award-winning writer, editor and former lecturer <b>Muhammad Ariff Ahmad</b> is 
 
 [_Bulan Bahasa ’88: Buku cenderamata: 13 Ogos–17 Sep ’88_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12925837). (1988). Singapura: Jawatankuasa Bulan Bahasa, Jawatankuasa Bahasa Melayu Singapura. (Call no.: RSING 499.28 BUL)
 
-[_Bulan Bahasa '90: 2-23 Mac '90, Singapura: Buku cenderamata_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12984734). (1990). Singapura: Jawatankuasa Bulan Bahasa. (Call no.: RCLOS 499.28 BUL)
+[_Bulan Bahasa ’90: 2–23 Mac ’90, Singapura: Buku cenderamata_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12984734). (1990). Singapura: Jawatankuasa Bulan Bahasa. (Call no.: RCLOS 499.28 BUL)
 
-[_Bulan Bahasa '92 Singapura: 1-29 Februari 1992: \[buku cenderamata\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13065714). (1992). Singapura: Jawatankuasa Bulan Bahasa. (Call no.: RSING 499.28 BUL)
+[_Bulan Bahasa ’92 Singapura: 1–29 Februari 1992: \[buku cenderamata\]_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13065714). (1992). Singapura: Jawatankuasa Bulan Bahasa. (Call no.: RSING 499.28 BUL)
 
-[_Chenderamata Bulan Bahasa Kebangsaan, 23hb. April - 25hb Mei, 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5831021). (1965). Singapura: Dewan Bahasa dan Kebudayaan Kebangsaan. (Call no.: RCLOS 499.28 CHE)
+[_Chenderamata Bulan Bahasa Kebangsaan, 23hb. April–25hb Mei, 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5831021). (1965). Singapura: Dewan Bahasa dan Kebudayaan Kebangsaan. (Call no.: RCLOS 499.28 CHE)
 
 [_Kongress Bahasa Kebangsaan Singapura: Kertaskerja_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5831022). (1966). Singapura: \[Lembaga Tetap Kongress\]. (Call no.: RCLOS 499.28 KON)
 
-Mohd Raman Daud. (1988, July 24). [Bulan Bahasa: Mengisi makna ‘bahasa menunjukkan bangsa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19880724-1.2.15.5). _Berita Harian_, p. 4. Retrieved from NewspaperSG.
+Mohd Raman Daud. (1988, July 24). [Bulan Bahasa: Mengisi makna 'bahasa menunjukkan bangsa'](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19880724-1.2.15.5). _Berita Harian_, p. 4. Retrieved from NewspaperSG.
 
-Singapore. Ministry of Culture. Jawatankuasa Besar. (1965). [_Chenderamata Bulan Bahasa Kebangsaan, 12hb Nobember -11hb Disember, 1965 = Souvenir programme: National Language Month, 12th November - 11th December, 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4288917). Singapura: Dewan Bahasa dan Kebudayaan Kebangsaan. (Call no.: RSING 499.23 SIN)
+Singapore. Ministry of Culture. Jawatankuasa Besar. (1965). [_Chenderamata Bulan Bahasa Kebangsaan, 12hb Nobember–11hb Disember, 1965 = Souvenir programme: National Language Month, 12th November–11th December, 1965_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4288917). Singapura: Dewan Bahasa dan Kebudayaan Kebangsaan. (Call no.: RSING 499.23 SIN)
 
 #### **NOTES**
 
