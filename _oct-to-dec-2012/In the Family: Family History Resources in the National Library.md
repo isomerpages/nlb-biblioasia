@@ -185,9 +185,9 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
 [^3]: Koh Seow Chuan, a retired architect and founder of DP Architects, donated his rich collection of documents and records to the National Library Board.
 
-[^4]: The March 2012 issue of BiblioAsia has a profile of Wu Lien-Teh and highlights of his collection. Wee, T. B. (2012, March). [A life less ordinary: Wu Lien-The the plague fighter](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). _BiblioAsia, 7_ (4), 34–37. Retrieved from BiblioAsia website.
+[^4]: The March 2012 issue of <i>BiblioAsia</i> has a profile of Wu Lien-Teh and highlights of his collection. Wee, T. B. (2012, March). [A life less ordinary: Wu Lien-Teh the plague fighter](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). _BiblioAsia, 7_ (4), 34–37. Retrieved from BiblioAsia website.
 
-[^5]: Zupu (族谱) and zongpu (宗璞) are terms that are used interchangeably with jiapu.
+[^5]: <i>Zupu</i> (族谱) and <i>zongpu</i> (宗璞) are terms that are used interchangeably with <i>jiapu</i>.
 
 [^6]: [_Singapore almanac and directory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042730). (1846–1869). Singapore: Straits Times Press. (Call no.: RRARE 382.09595 STR; Microfilm nos.: NL2363, NL2362)
 
@@ -195,16 +195,16 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
 [^8]: The Singapore Chinese Clan Associations resource guide is from Libguides website.
 
-[^9]: For example the Methodist Message, previously titled the Malayan Message, gives interesting accounts of individuals and their accomplishments, positions held at church contributions made and sometimes even a profile.
+[^9]: For example, the <i>Methodist Message</i>, previously titled the <i>Malayan Message</i>, gives interesting accounts of individuals and their accomplishments, positions held, church contributions made and sometimes even a profile.
 
-[^10]: This is the annual newsletter of the Presbyterian church in Southeast Asia dating from 1912.
+[^10]: This is the annual newsletter of the Presbyterian Church in Southeast Asia dating from 1912.
 
 [^11]: A newsletter of the Anglican Church in Singapore that began at the turn of the 20th century.
 
-[^12]: The library has copies of The Rafflesian from 1887 and of St Andrew’s School Up and On from 1928 onwards. All early versions are accessible through microfilm. The centenary and souvenir publications of these schools also provide rich details. These are available on shelf.
+[^12]: The library has copies of <i>The Rafflesian</i> from 1887 and of <i>St Andrew’s School Up and On</i> from 1928 onwards. All early versions are accessible through microfilm. The centenary and souvenir publications of these schools also provide rich details. These are available on the open shelf.
 
-[^13]: The Genealogy research resources is available at Libguides genealogy.
+[^13]: The genealogy research resources is available at http://libguides.nl.sg/.
 
-[^14]: FamilySearch is accessible at Familysearch.org website.
+[^14]: FamilySearch is accessible at www.Familysearch.org.
 
-[^15]: This organisation’s website can be be assessed at singaporegenealogy.org website.
+[^15]: This organisation’s website can be be accessed at www.singaporegenealogy.org.
