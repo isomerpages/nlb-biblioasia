@@ -203,7 +203,7 @@ Walter, C. (2007). [_Family history on the net_](https://eservice.nlb.gov.sg/ite
 
 [^12]: The library has copies of <i>The Rafflesian</i> from 1887 and of <i>St Andrew’s School Up and On</i> from 1928 onwards. All early versions are accessible through microfilm. The centenary and souvenir publications of these schools also provide rich details. These are available on the open shelf.
 
-[^13]: The genealogy research resources is available at http://libguides.nl.sg/.
+[^13]: Genealogy research resources are available at http://libguides.nl.sg/.
 
 [^14]: FamilySearch is accessible at www.Familysearch.org.
 
