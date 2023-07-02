@@ -111,7 +111,7 @@ Bahasa ibunda yang disebut juga bahasa kedua, diajarkan di sekolah sebagai mata 
 
 #### **Kongres Bahasa Kebangsaan 1966**
 
-Memenuhi kepentingan bahasa Kebangsaan dan bahasa ibunda Melayu, dengan kerjasama Kementerian Kebudayaan dan bantuan Yayasan Asia, LTK telah menganjurkan Kongres Bahasa Kebangsaan Singapura pada 15 – 19 Ogos 1966. Beberapa pemerhati dari Malaysia dan Brunei telah hadir menyertai kongres tersebut.
+Memenuhi kepentingan bahasa Kebangsaan dan bahasa ibunda Melayu, dengan kerjasama Kementerian Kebudayaan dan bantuan Yayasan Asia, LTK telah menganjurkan Kongres Bahasa Kebangsaan Singapura pada 15–19 Ogos 1966. Beberapa pemerhati dari Malaysia dan Brunei telah hadir menyertai kongres tersebut.
 
 Kongres telah membincangkan lakar Ejaan Melayu Baru Singapura yang dibentangkan Jawatankuasa Ejaan Rumi Singapura 1965; namun, memandang bahawa M ABIM pun sedang menghalusi ejaan bersama bagi kededua wilayah itu, maka Kongres mengambil sikap tidak segera membuat keputusan tentang ejaan itu – sikap yang diambil ialah “tunggu dan tengok”.
 
@@ -123,7 +123,7 @@ Saya telah mengemukakan kertas kerja mengenai pengajaran kesusasteraan di kelas 
 
 Kementerian Pelajaran Singapura telah mengarahkan supaya pengajaran bahasa ibunda Melayu di sekolah-sekolah Singapura, menggunakan Ejaan Rumi Baru (ejaan baku) kaedah Malaysia yang ditetapkan MABBIM mulai awal semester persekolahan tahun 1977 setelah 5 tahun mantap dipakai di Malaysia.
 
-Terdapat beberapa ejaan yang dipertahankan kededua pihak – Indonesia dan Malaysia – yang tidak dapat disekatakan, sama ada kerana sentimen atau kerana keyakinan terhadap kebenaran pendapat mereka, lantas ejaan yang mereka yakini itu disetujui digunapakai di wilayah masing-masing.
+Terdapat beberapa ejaan yang dipertahankan kededua pihak – Indonesia dan Malaysia – yang tidak dapat disekatakan, sama ada kerana sentimen atau kerana keyakinan terhadap kebenaran pendapat mereka, lantas ejaan yang mereka yakini itu disetujui digunapakai di wilayah masing-masing.*
 
 Ketetapan itu telah diputuskan rumusan KPBMM3 1956 yang berkata: bersetuju (terus menggunakan) hal-hal yang tidak disetujui.
 
