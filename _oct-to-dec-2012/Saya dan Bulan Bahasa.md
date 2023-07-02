@@ -10,8 +10,7 @@ description: Award-winning author and Malay language expert Muhammad Ariff Ahmad
 <img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Bahasa_1.jpg">
  <div style="background-color: white;">Muka surat seberang: Muhammad Ariff Ahmad, 1959. <i>Courtesy of Muhammad Ariff Ahmad.</i></div>
 
-Award-winning author and Malay language expert, Mr Muhammad Ariff Ahmad reminisces about his experience and involvement in the activities of the Malay Language Month since 1959. Inaugurated as the National Language Month, the campaign to promote the Malay language was initially targeted at the non-Malays. With the adoption of the bilingual education policy in 1966, Malay was taught as a second language in Singapore schools with the objective of preserving the culture and traditions of the Malay ethnic group. By the 1980s, the community leaders found it necessary to encourage Malays to use their mother tongue when interacting with one another.
-
+Award-winning author and Malay language expert, Mr Muhammad Ariff Ahmad reminisces about his experience and involvement in the activities of the Malay Language Month since 1959. Inaugurated as the National Language Month, the campaign to promote the Malay language was initially targeted at the non-Malays. With the adoption of the bilingual education policy in 1966, Malay was taught as a second language in Singapore schools with the objective of preserving the culture and traditions of the Malay ethnic group. By the 1980s, community leaders found it necessary to encourage Malays to use their mother tongue when interacting with one another.
 
 Muhammad Ariff also shares interesting anecdotes such as the time when his novelette *Sarah pengarang kecil* was used as a textbook by the Adult Education Council; writing the lyrics to the theme song of the Malay Language Month in 1982 (which is still used today) and coming up with a suitable slogan for Malay Language Month after being inspired by a Japanese saying.
  
@@ -46,9 +45,9 @@ Saya jelaskan kepada penolong pengetua sekolah apa yang sebenarnya telah saya be
 
 Di samping mengajar (pada pagi dan petang) di TTC, dan di beberapa kelas anjuran LGPD (pada waktu malamnya), selama dua tahun saya tulis skrip pelajaran bahasa Melayu/kebangsaan yang disampaikan kepada pendengar radio Singapura – pelajaran bahasa Melayu melalui bahagian Melayu, dan pelajaran bahasa kebangsaan melalui bahagian Cina. Selain itu, saya juga tulis makalah untuk ruangan “Belajar bahasa Kebangsaan” di majalah dua mingguan Mentor yang diterbitkan Singapore Teachers’ Union untuk para anggotanya.
 
-#### **1959—1962**
+#### **1959–1962**
 
-Selama lima tahun, saya tulis satu siri buku belajar bahasa Melayu/Kebangsaan yang saya namakan *Bahasa Negaraku*. Buku itu diterbitkan Marican & Sons memenuhi kepentingan pelajar bukan-Melayu di Singapura dan di Persekutuan Tanah Melayu (PTM).
+Selama lima tahun, saya tulis satu siri buku belajar bahasa Melayu/Kebangsaan yang saya namakan *Bahasa Negaraku*. Buku itu diterbitkan Marican &amp; Sons memenuhi kepentingan pelajar bukan-Melayu di Singapura dan di Persekutuan Tanah Melayu (PTM).
 
 Berdasarkan rumusan Kongres Pwersuratan Bahasa Melayu Ketiga tahun 1956 – yang diadakan di Singapura dan ditutup di Johor Bahru - sesuai dengan keputusan Kongres Persuratan Melayu Malaya Kedua (bahawa perkembangan seterusnya kesusasteraan Melayu Malaya harus dilaksanakan dalam tulisan rumi) Jawatankuasa Bersama Ejaan Malaya (PTM dan Singapura) dan Team Ejaan Indonesia untuk membaku dan menyekatakan ejaan bagi kededua wilayah bahasa serumpun itu telah dibentuk.
 
@@ -81,7 +80,7 @@ Menyediakan ruang dan memberi peluang sambil menggalakkan rakyat Singapura bertu
 Bekerjasama dengan LTK Singapura, Kementerian Kebudayaan telah menganjurkan Minggu Bahasa Kebangsaan dan Bulan Bahasa Kebangsaan dalam tahun 1965.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Yusof%20Ishak_1.jpg">
- <div style="background-color: white;">Yang Di-Pertuan Negara Yusof Ishak dan Menteri Hal Ehwal Luar Negara S Rajaratnam semasa pelancaran Bulan Bahasa Kebangsaan di Dewan Peringatan Victoria, 1965. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;">Yang di-Pertuan Negara Yusof Ishak dan Menteri Hal Ehwal Luar Negara S. Rajaratnam semasa pelancaran Bulan Bahasa Kebangsaan di Dewan Peringatan Victoria, 1965. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Peristiwa Minggu Bahasa Kebangsaan diadakan pada Mei 1965 (semasa Singapura masih dalam Malaysia) dan peristiwa Bulan Bahasa Kebangsaan disempurnakan sepanjang September tahun itu (ketika Singapura baru keluar dari Malaysia).
 
@@ -93,7 +92,7 @@ Sebagai Pengerusi LTK, maka peranan saya dalam kegiatan minggu dan bulan bahasa 
 
 Minggu dan Bulan Bahasa Kebangsaan itu telah diisi dengan acara-acara:
 
-**temasya** – seperti bercerita dalam bahasa Kebangsaan; menyanyikan lagu-lagu berbahasa Kebangsaan; pesta pantun; mengeja dan menulis kekata bahasa kebangsaan; mendeklamasi sajak
+**temasya** – seperti bercerita dalam bahasa Kebangsaan; menyanyikan lagu-lagu berbahasa Kebangsaan; pesta pantun; mengeja dan menulis kekata bahasa kebangsaan; mendeklamasi sajak.
 
 **peraduan** – seperti peraduan teka kata; soal-jawab bahasa; bercakap petah; berbalas pantun; berdebat/bahas dalam bahasa Kebangsaan.
  
@@ -191,7 +190,7 @@ MBMS telah merubah musiman bulan bahasa. Kini dilaksanakan pada tiap tahun genap
 
 
 <img style="width:80%;" src="/images/Vol%208%20issue%203/Bulan%20Bahasa/Yaakob%20Ibrahim_1.jpg">
- <div style="background-color: white;">Menteri Penerangan, Perhubungan dan Kesenian & Menteri Bertanggungjawab Bagi Ehwal Masyarakat Islam, Dr Yaacob Ibrahim di pelancaran Bulan Bahasa 2012 di Bangunan Perpustakaan Negara. <i>Courtesy of Juffri Supaat.</i></div>
+ <div style="background-color: white;">Menteri Penerangan, Perhubungan dan Kesenian &amp; Menteri Bertanggungjawab Bagi Ehwal Masyarakat Islam, Dr Yaacob Ibrahim di pelancaran Bulan Bahasa 2012 di Bangunan Perpustakaan Negara. <i>Courtesy of Juffri Supaat.</i></div>
 
 Dua anugerah, Anugerah Tun Seri Lanang dan Anumerta Tun Sri Lanang, disampaikan kepada para sasterawan yang dianggap layak menerimanya. Penganugerahan itu dimulai dari tahun 1993. Saya telah menerima Anugerah Tun Sri Lanang pada 1993; Masuri SN pada 1995; Abd Ghani Hamid pada 1997; Suratman Markasan pada 1999 dan diikuti lain-lain sasterawan yang diiktiraf.
 
