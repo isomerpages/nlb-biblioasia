@@ -55,7 +55,7 @@ The indenture labour system “provided the first complement of Indian labourer 
 <img src="/images/Vol%203%20Issue%203/IndianMigration/indian%20labourers.jpg" style="width:80%;">
  <div style="background-color: white;">Group of Indian labourers. <i>Photographic views of Singapore. (1900). Singapore: G.R. Lambert.</i></div>
 
-When the movement of labour to the Straits Settlements was legalised in 1872, the indenture period was reduced to three years. However, the indenture system was “riddled with abuses” as a result of poor living conditions, the questionable means of recruitment and the arduous ship journey, which caused high mortality and ill-health among the surviving passengers. Moreover the labourers were worked hard by the employers and their indebtedness was often extended, while their wages were lower than those who had come as free labourers (Arasaratnam, 1979, p. 13–14) 
+When the movement of labour to the Straits Settlements was legalised in 1872, the indenture period was reduced to three years. However, the indenture system was “riddled with abuses” as a result of poor living conditions, the questionable means of recruitment and the arduous ship journey, which caused high mortality and ill-health among the surviving passengers. Moreover the labourers were worked hard by the employers and their indebtedness was often extended, while their wages were lower than those who had come as free labourers (Arasaratnam, 1979, p. 13–14). 
 
 With the rise of Indian nationalism, such a system was condemned as “near slavery”. The indenture system was finally abolished in 1910.
 
