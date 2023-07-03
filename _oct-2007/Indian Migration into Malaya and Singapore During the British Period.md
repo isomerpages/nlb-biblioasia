@@ -9,14 +9,13 @@ image: /images/Vol 3 Issue 3/IndianMigration/feature picture.jpg
 ---
 #### Hailing from the Indian subcontinent – which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives – Indians have played an important role in the historical, economic, cultural and political development of Singapore.
 
+<img src="/images/Vol%203%20Issue%203/IndianMigration/feature%20picture.jpg" style="width:80%;">
+ <div style="background-color: white;"></div>
 
 
 #### **Introduction**
 
 The Indian community in Singapore is heterogeneous, due to religious and linguistic differences. The term “Indian” refers to the people originating from the Indian subcontinent, which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives. As a community, Indians have played an important role in the historical, economic, cultural and political development of Singapore.
-
-<img src="/images/Vol%203%20Issue%203/IndianMigration/two%20indians.jpg" style="width:50%;">
- <div style="background-color: white;">Two Indian males in Singapore in the early 1900s. <i>An official guide to Eastern Asia: Trans-continental connections between Europe &amp; Asia. Vol. 5, East Indies. (1920). Tokyo, Dept. of Railways.</i></div>
 
 The arrival of Indians to Singapore reflects the long, historic association the Southeast Asian region has had with India. Before the 19th century, contact between India and Southeast Asia was characterised by a movement of goods and ideas. The nature of this contact somewhat changed with the British occupation of Malaya. Instead of merchants, traders and adventurers, more migrant labourers arrived at the region.
 
@@ -32,6 +31,9 @@ Indian literary influence in Southeast Asia is evident via the translations of I
 is a translation of Mahabharata. Mythological stories from the Puranas and Panchatantra have also been adopted by Malay literature. Researchers have noted several instances of Sanskrit words being adopted and adapted in local languages.
 
 At the early period, the Indians arriving at Malaya were mostly merchants, traders, missionaries and adventurers. With the increasing trade connections, the Indian merchants founded their own settlements. The Malacca Chetties, Chulias and Jawi Pekan are examples of Indian communities who settled in Malaya.
+
+<img src="/images/Vol%203%20Issue%203/IndianMigration/two%20indians.jpg" style="width:50%;">
+ <div style="background-color: white;">Two Indian males in Singapore in the early 1900s. <i>An official guide to Eastern Asia: Trans-continental connections between Europe &amp; Asia. Vol. 5, East Indies. (1920). Tokyo, Dept. of Railways.</i></div>
 
 Most of the Indian merchant communities were self-contained entities, such as the “manikramam”, a South Indian mercantile corporation with its own regiment, temple and tank (Arasaratnam, 1979, p. 4)
 
