@@ -9,9 +9,14 @@ image: /images/Vol 3 Issue 3/IndianMigration/feature picture.jpg
 ---
 #### Hailing from the Indian subcontinent – which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives – Indians have played an important role in the historical, economic, cultural and political development of Singapore.
 
+
+
 #### **Introduction**
 
 The Indian community in Singapore is heterogeneous, due to religious and linguistic differences. The term “Indian” refers to the people originating from the Indian subcontinent, which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives. As a community, Indians have played an important role in the historical, economic, cultural and political development of Singapore.
+
+<img src="/images/Vol%203%20Issue%203/IndianMigration/two%20indians.jpg" style="width:50%;">
+ <div style="background-color: white;">Two Indian males in Singapore in the early 1900s. <i>An official guide to Eastern Asia: Trans-continental connections between Europe &amp; Asia. Vol. 5, East Indies. (1920). Tokyo, Dept. of Railways.</i></div>
 
 The arrival of Indians to Singapore reflects the long, historic association the Southeast Asian region has had with India. Before the 19th century, contact between India and Southeast Asia was characterised by a movement of goods and ideas. The nature of this contact somewhat changed with the British occupation of Malaya. Instead of merchants, traders and adventurers, more migrant labourers arrived at the region.
 
@@ -21,7 +26,7 @@ Early contacts between India and Southeast Asia can be traced to the days of fir
 
 Archaeological and epigraphic evidences, such as Hindu/ Buddhist structures, Indian-styled objects and inscriptions in early Indian scripts, indicate the presence of Indian mercantile communities in several parts of early Southeast Asia. Indian traders tended to settle in areas, which were used as entrepots of trade, such as Kedah and Province Wellesley.
 
-During this period of Hindu/Buddhist infl uence, which lasted till AD 1511, “Indianised” kingdoms flourished in Southeast Asia (Sandhu, 1969, p. 2). Moreover, Indian concepts of kingship and administrative institutions and ceremonies became deeply embedded in the socio-political institutions of some parts of Southeast Asia.
+During this period of Hindu/Buddhist influence, which lasted till AD 1511, “Indianised” kingdoms flourished in Southeast Asia (Sandhu, 1969, p. 2). Moreover, Indian concepts of kingship and administrative institutions and ceremonies became deeply embedded in the socio-political institutions of some parts of Southeast Asia.
 
 Indian literary influence in Southeast Asia is evident via the translations of Indian classical works into local literature. Wayang kulit, the popular shadow theatre in Indonesia, is based on the adventures of Rama, the divine hero of Ramayana. The Hikayat Pandawa, a Malay classic literature,
 is a translation of Mahabharata. Mythological stories from the Puranas and Panchatantra have also been adopted by Malay literature. Researchers have noted several instances of Sanskrit words being adopted and adapted in local languages.
@@ -45,6 +50,9 @@ With the abolition of slavery in the British territories in 1833, there was an e
 #### **Indenture Labour System**
 
 The indenture labour system “provided the first complement of Indian labourer settlers to the Malay Peninsula” (Arasaratnam, 1979, p. 12). Under this system, the Indian labourer was “indentured” to the employer for a period of five years and was paid fixed wages. Often, most of the labourers renewed their indenture at the end of five years. Indentured labour was recruited mainly through private companies based in South India and, secondly through speculators, who recruited on their own.
+
+<img src="/images/Vol%203%20Issue%203/IndianMigration/indian%20labourers.jpg" style="width:80%;">
+ <div style="background-color: white;">Group of Indian labourers. <i>Photographic views of Singapore. (1900). Singapore: G.R. Lambert.</i></div>
 
 When the movement of labour to the Straits Settlements was legalised in 1872, the indenture period was reduced to three years. However, the indenture system was “riddled with abuses” as a result of poor living conditions, the questionable means of recruitment and the arduous ship journey, which caused high mortality and ill-health among the surviving passengers. Moreover the labourers were worked hard by theemployers and their indebtedness was often extended, while their wages were lower than those who had come as free labourers (Arasaratnam, 1979, p. 13–14) 
 
@@ -196,5 +204,3 @@ Sharon Siddique and Nirmala Puru Shotam, [_Singapore’s Little India: Past, Pre
 Sinnappah Arasaratnam, [_Indians in Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4161646) (Kuala Lumpur: Oxford University Press, 1979). (Call no. RSING 325.25409595 ARA)
 
 Tommy Koh et al., eds., [_Singapore: The Encyclopedia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833) (Singapore: Editions Didier Millet in association with the National Heritage Board, 2006). (Call no. RSING 959.57003 SIN-\[HIS\])
-
-
