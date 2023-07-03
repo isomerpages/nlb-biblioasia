@@ -134,7 +134,38 @@ Prior to the Second World War, the growth of the Indian population has been thro
 
 After the war, the increase in total Indian population was due to excess births as compared to deaths, and not through migration. During the 1947–57 period, signifi cant increases in the number of Indians as compared to the total population was mostly evident in Singapore and Pahang (Sandhu, 1969, p. 197). This increase was estimated to be almost 80 percent (Sandhu, 1969, p. 190).
 
-The number of Indians in Malaya declined in the middle of the 20th century as Indian migration was affected by the Great Depression of the 1930s and World War Two and the subsequent Japanese Occupation. Before the war, Indian labour in Malaya comprised 75 percent of total labour force. This figure declined to about 50 percent in 1947 (Arasaratnam, 1979, p. 38). The passing of two acts in 1953 to control Indian labour has steadily led to a decline in the proportion of Indian labourers to the total Indian population.
+The number of Indians in Malaya declined in the middle of the 20th century as Indian migration was affected by the Great Depression of the 1930s and World War Two and the subsequent Japanese Occupation. Before the war, Indian labour in Malaya comprised 75 percent of total labour force. This figure declined to about 50 percent in 1947 (Arasaratnam, 1979, p. 38). The passing of two acts in 1953 to control Indian labour has steadily led to a decline in the proportion of Indian labourers to the total 
+Indian population.
+
+#### **Trends in Occupational Diversity**
+
+A significant number of Indians were employed in the sugar, pepper and gambier, and later the rubber cultivations in Singapore. However, unlike the Malay Peninsula where majority of the Indians were plantation workers, Indians in Singapore were employed in various other occupations as well. Many Indians in Singapore were also engaged in small-time wholesale and retail trade.
+
+When Raffles arrived in Singapore, his entourage included sepoys as well as a bazaar contingent of washermen (dhobis), tea-makers (chai-wallahs), milkmen and domestic servants (Lal, 2006, p. 176). These were a few of the traditional occupations that early Indians in Singapore were conspicuous in. The laundry business in early Singapore was monopolised by Indians. Majority of the dhoby lines were located around the Orchard Road area, today referred to as Dhoby Ghaut. Indians also monopolised the cattle and dairy farms.
+
+Indians were also employed in the construction of roads and railways, in surveying lands and as clerks, dressers, plantation and office assistants, teachers, technicians, watchmen, caretakers and as technical personnel on the railways.
+
+It was mostly the English-educated South Indians and Ceylonese Tamils who were employed in the railways, as clerks in government offices (including Public Works Department, Sanitation Department, telecommunication departments, etc) and in businesses, as well as teachers.
+
+The North Indians, specifically Punjabi Sikhs, were employed as policemen, watchmen and caretakers (Siddique, 1990, p. 11). Besides the municipal services, Indians in Singapore were the key workers in the dockyards and military installations during the second half of the 19th century (Sandhu, 2006, p. 783) .
+
+Over the recent decades, with “increasing sophistication, desire, and effort among the Indians to better themselves” and better educational opportunities, Indians have been moving away from “lowly paid wage-earning occupations into more profitable enterprises such as manufacturing, business and trade” (Sandhu, 2006, p. 782).
+
+According to the population census of year 2000, the highest number of Indians (43.3 percent) was employed in professional, technical and managerial occupations. This is more than double that of 1990, where only about 22.3 percent of Indians were employed in such jobs (Leow, 2001, p. ix).
+
+#### **Ethnolinguistic and Religious Diversity**
+
+As a community, Indians are neither distinct nor homogeneous. They are “compartmentalised by occupational, religious, educational, and linguistic differences, and caste, as well as ethnic and sub-ethnic group differences based primarily on place of origin” (Siddique, 1990, p. 8) This compartmentalisation is sometimes viewed, in the broader sense, as North Indian vs. South Indian origin, and/or Hindu vs. Muslim religious practitioners.
+
+The ethnic content of the Indian population in recent times has been conditioned by previous developments and patterns of labour migration. The majority of Indians in Singapore are generally Southern Hindus with the Tamils as the dominant group. According to Mani “three major linguistic groups became discernible” after the war, namely the Tamils, Malayalees and Punjabis (2006, p. 795).
+
+There has been a substantial increase in North Indians after the first batch of Sikhs arrived as policemen in 1879 (Lal, 2006, p. 178). After the war, many more Indians arrived from North India, mostly as businessmen.
+
+#### **Conclusion**
+
+The Indian community in Singapore has come a long way from its days of being migrants. Though a minority, the Indian community is a vibrant and diverse group that has made significant contributions to the overall development of Singapore, and continues to do so. Indians from India continue to “migrate” to Singapore; such “migrants” are more heterogeneous, coming from various Indian states and range from unskilled labour to professionals.
+
+
 
 
 
