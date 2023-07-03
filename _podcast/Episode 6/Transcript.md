@@ -100,7 +100,7 @@ Jimmy  9:43
 Let me stop you there: what's a shell midden?
 
 Shu Tieng  <br> 
-Think of a large mound, maybe about three to five metres high. And it's all majority. Yeah, 3–5 m in height. and majority of the materials are shell. That's what a shell midden is. Sometimes maybe it's the remnants of people eating all this shellfish and things like that and throwing it in a pile. That's what you think of it. But somehow we found stone tools in it. When they dated this particular thing, you can actually see layers and levels. And you can date because let's say this particular shell midden. Shell, of course, is carbon-related, so you can actually date the shell. So depending on what layer it was found in and how much further down, you can estimate a date based above and below the stone tool.
+Think of a large mound, maybe about 3 to 5 m high. And it's all majority. Yeah, 3–5 m in height. and majority of the materials are shell. That's what a shell midden is. Sometimes maybe it's the remnants of people eating all this shellfish and things like that and throwing it in a pile. That's what you think of it. But somehow we found stone tools in it. When they dated this particular thing, you can actually see layers and levels. And you can date because let's say this particular shell midden. Shell, of course, is carbon-related, so you can actually date the shell. So depending on what layer it was found in and how much further down, you can estimate a date based above and below the stone tool.
 
 Jimmy  <br>
 So you get the age of the shell nearby that tool, and then you get an idea of how old that tool is. We don't actually know how old the ones from Singapore and in Johor are because there were no carbon-based life forms that died nearby that we've preserved. But can't we just say, well, this piece looks like it's 3,000 years old or something. You know, this is a stone tool, it must be like thousands of years old. Can't we just make an educated guess?
@@ -208,7 +208,7 @@ Jimmy <br>
 Those are the digs that are currently taking place. Have you yourself been involved in any any expeditions?
 
 Shu Tieng  <br> 
-I've been involved in a few. Some of my major ones are mostly in Cambodia, but I've actually taken part in one in Indonesia. One of them – I'll just explain first. For the Indonesian one, I was looking for Srivijayan sites. I was part of a team from the Asia Research Institute and we basically explored the Batanghari River. It's close to Jambi in Sumatra. We were looking for Srivijayan sites along the river. We visited very, very famous sites like the suspected 'university', the Buddhist university of Muara Jambi, things like that. It's really amazing. I was very lucky to have the opportunity. I've also excavated at the 10th-century capital city of Koh Ker in Cambodia. If you think of a stepped pyramid, I've excavated at the only stepped pyramid in Cambodia. We were looking for a settlement site there, evidence of settlements and things like that.
+I've been involved in a few. Some of my major ones are mostly in Cambodia, but I've actually taken part in one in Indonesia. One of them – I'll just explain first. For the Indonesian one, I was looking for Srivijayan sites. I was part of a team from the Asia Research Institute and we basically explored the Batanghari River. It's close to Jambi in Sumatra. We were looking for Srivijayan sites along the river. We visited very, very famous sites like the Buddhist university of Muara Jambi, things like that. It's really amazing. I was very lucky to have the opportunity. I've also excavated at the 10th-century capital city of Koh Ker in Cambodia. If you think of a stepped pyramid, I've excavated at the only stepped pyramid in Cambodia. We were looking for a settlement site there, evidence of settlements and things like that.
 
 Jimmy  <br>
 What does it feel like when you're excavating something and you make this discovery? Have you found anything really amazing?
@@ -307,7 +307,7 @@ Shu Tieng <br>
 I think those are my main tasks. But I also helped write encyclopedia articles for Infopedia. I also write BiblioAsia articles. I mean, this is BiblioAsia+, so I try to give a bit more. 
 
 Jimmy  <br>
-Thank you very much, Shu Tieng. We've covered quite a lot. If anyone is interested in learning more about stone tools in Singapore, they should check out Shu Tieng's article on BiblioAsia. Shu Tieng, right now we come to the part of the podcast where we ask questions, and we want you to reply very quickly. And it's not necessarily related to archaeology. Actually it's not related to archaeology. My first question is: who is the coolest person that you know of in Singapore history?
+Thank you very much, Shu Tieng. We've covered quite a lot. If anyone is interested in learning more about stone tools in Singapore, they should check out Shu Tieng's article on BiblioAsia. Shu Tieng, right now we come to the part of the podcast where we ask questions, and we want you to reply very quickly. And it's not necessarily related to archaeology. Actually it's not related to archaeology. My first question: who is the coolest person that you know of in Singapore history?
 
 Shu Tieng <br>
 There are so many, I can't choose one. 
