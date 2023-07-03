@@ -38,7 +38,7 @@ Most of the Indian merchant communities were self-contained entities, such as th
 
 The Malacca Chetties were Hindu traders who had settled in Malacca; their name arose because they were primarily involved in commercial activities.
 
-The Muslim traders in Malacca inter-married with the local women and became known as Jawi Pekan, thereby creating unique cultural traditions. The eminent Malay writer, Munshi Abdullah, was of mixed Arab, Tamil and Malay parentage and was profi cient in Arabic, Tamil and Malay (Arasaratnam, 1979, p. 7)
+The Muslim traders in Malacca inter-married with the local women and became known as Jawi Pekan, thereby creating unique cultural traditions. The eminent Malay writer, Munshi Abdullah, was of mixed Arab, Tamil and Malay parentage and was proficient in Arabic, Tamil and Malay (Arasaratnam, 1979, p. 7)
 
 #### **Indian Migration During British Period**
 
