@@ -105,4 +105,11 @@ What of the fate of the Chappell after 1958? It can be assumed that the piano wa
 
 In 1983, the Chappell was moved to the Bukit Merah Branch Library (later renamed Bukit Merah Community Library and subsequently Bukit Merah Public Library) where it stayed for 35 years and was used for musical programmes. When the library closed in 2018, the piano was transferred to the National Archives of Singapore.[^40] In November 2022, the Chappell moved again, this time to the National Library Building on Victoria Street.
 
-Today, the Chappell has been given a new lease of life as a public piano. Anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. While it may look a little worn out, it has been lovingly repaired and retuned and it is now a perfectly serviceable musical instrument. As a public piano, the venerable and much-maligned Chappell may have finally found its true calling. 
+Today, the Chappell has been given a new lease of life as a public piano. Anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. While it may look a little worn out, it has been lovingly repaired and retuned and it is now a perfectly serviceable musical instrument. As a public piano, the venerable and much-maligned Chappell may have finally found its true calling.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/asrina_tanuri.png">
+	<b>Emeritus Professor Bernard T.G. Tan</b>  is a retired professor in physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
+
+#### **Notes**
