@@ -6,15 +6,15 @@ description: In this digital age, the love for print magazines still thrives as
   their own. Magazines appeal to readers through visuals and text, offering many
   hours of reading pleasure.
 ---
-#### In this digital age, the love for print magazines still thrives as a reading format to delight readers who browse, borrow, or even buy copies of their own. Magazines appeal to readers through visuals and text, offering many hours of reading pleasure.
+#### In this digital age, the love for print magazines still thrives as a reading format to delight readers who browse, borrow or even buy copies of their own. Magazines appeal to readers through visuals and text, offering many hours of reading pleasure.
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Iremembersg/Her%20World.jpg">
- <div style="background-color: white;">Debut issue of <i>Her World,</i> the first locally produced woman’s magazine for Singapore readers. <i>All rights reserved. Singapore Press Holdings, 1960.</i></div>
+ <div style="background-color: white;">Debut issue of <i>Her World,</i> the first locally produced women’s magazine for Singapore readers. <i>All rights reserved. Singapore Press Holdings, 1960.</i></div>
 
 
-This year alone saw the launch of new magazines in Singapore, such as *Her World Fit & Fab* (SPH Magazines), *August Woman* (Burda Singapore), *Esquire Singapore* (Mongoose Publishing), *Nylon Singapore* (MPG Media), and *EX* (Expat Living Publications).
+This year saw the launch of many new magazines in Singapore, such as *Her World Fit &amp; Fab* (SPH Magazines), *August Woman* (Burda Singapore), *Esquire Singapore* (Mongoose Publishing), *Nylon Singapore* (MPG Media) and *EX* (Expat Living Publications).
 
-The *iremembermagazines* exhibition is a celebration of magazines, taking older Singaporeans down memory lane as they revisit the magazines they used to enjoy. The exhibits also offer younger Singaporeans fascinating and surprising glimpses of what life was like in days gone by.
+The "iremembermagazines" exhibition is a celebration of magazines, taking older Singaporeans down memory lane as they revisit the magazines they used to enjoy. The exhibits also offer younger Singaporeans fascinating and surprising glimpses of what life was like in days gone by.
 
 Drawing from the National Library Legal Deposit collection, this exhibition presents the extensive variety of magazines that were published in Singapore since the 1950s, ref lecting the kaleidoscope of interests, passions, cultures, hobbies and artistic endeavours of Singaporeans through the decades. These magazines highlight too, the richness and diversity of Singapore’s social and cultural history, and the multicultural and multilingual heritage of her people. The exhibits also show how magazines have evolved over the years, vividly capturing the energy and spirit of their times.
 
@@ -33,7 +33,7 @@ Published in 1959, Malay magazine *Pelita* was a platform for literary and artis
 
 திைரமலர் (*Thiraimalar*), first published in 1961, was a Tamil magazine that covers film news, movie reviews and write-ups on film personalities.
 
-Subsequent displays will highlight other themes such as beauty, style & fashion, popular culture, leisure & living, and the arts.
+Subsequent displays will highlight other themes such as beauty, style &amp; fashion, popular culture, leisure &amp; living, and the arts.
 
 The magazines on display in the four official languages are truly gems of Singapore’s heritage, carefully preserved over the years. Do take this rare opportunity to view and enjoy this exhibition. Readers who have fond recollections of their favourite magazines can also contribute their memories to the Singapore Memory Portal at <a href="http://www.singaporememory.sg">http://www.singaporememory.sg</a>. 
 
@@ -44,4 +44,4 @@ The magazines on display in the four official languages are truly gems of Singap
 
 
 <div>
-<b>Barbara Quek</b> is a Senior Librarian from the National Library Heritage Division. She worked in the SAFTI Military Institute Library from 1995 to 2006. Prior to that, she was an assistant editor for <i>Pointer</i> journal, editor for <i>Pioneer</i> magazine in the Ministry of Defence. She co-authored the research paper “The value of print literacy in the education of young children in Singapore” which was published in <i>The international journal of the book,</i> Volume 1 (2003).
+<b>Barbara Quek</b> is a Senior Librarian from the National Library Heritage Division. She worked in the SAFTI Military Institute Library from 1995 to 2006. Prior to that, she was an assistant editor for <i>Pointer</i> journal, editor for <i>Pioneer</i> magazine in the Ministry of Defence. She co-authored the research paper “The value of print literacy in the education of young children in Singapore” which was published in <i>The international journal of the book,</i> Volume 1 (2003).</div>
