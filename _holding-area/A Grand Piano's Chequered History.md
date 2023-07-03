@@ -13,7 +13,8 @@ By Bernard T.G. Tan
 if you are in the foyer of the National Library Building on Victoria Street, you might spy a nondescript grand piano. Closer perusal reveals obvious wear and tear on its once glossy black sides and lid. A full-sized concert grand made by the English piano manufacturer Chappell, this stately septuagenarian was formerly the principal concert grand at the Victoria Memorial Hall (now Victoria Concert Hall) where famous pianists like Claudio Arrau and Julius Katchen once performed.
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/victoria_hall.jpg)
-<div style="background-color: white;">Hungarian pianist Louis Kentner playing on the Chappell grand piano with the Singapore Musical Society Orchestra at the Victoria Memorial Hall, 1953. <i>Goh Soon Tioe Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">
+The Victoria Theatre and Memorial Hall, c. 1910.  A 54-metre-high clock tower joins the two buildings. The entire structure is known as Victoria Theatre and Concert Hall today. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 This now retired and largely unused instrument, however, hides a colourful and chequered history, which has mostly been forgotten. When the piano was first installed at the Victoria Memorial Hall in 1952, there were high hopes, at least among some, that the instrument would deliver the same sublime tones which the previous piano had become incapable of doing. Sadly, this was not to be; instead, the instrument became the despair of many internationally renowned pianists who had to struggle with its many deficiencies.
 
@@ -72,7 +73,7 @@ This was just the beginning of a long litany of complaints about the quality of 
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/hungarian-man.jpg)
 <div style="background-color: white;">
-Charles Thornton Lofthouse, an authority on Bach, played on the Chappell grand piano on the day it arrived at the Victoria Memorial Hall on 12 September 1952. With him is musician and conductor Paul Abisheganaden. <i>Image reproduced from “Lofthouse Christens City Piano,” Singapore Standard, 13 September 1952,  2. (From NewspaperSG).</i></div>
+Hungarian pianist Louis Kentner playing on the Chappell grand piano with the Singapore Musical Society Orchestra at the Victoria Memorial Hall, 1953. <i>Goh Soon Tioe Collection, courtesy of National Archives of Singapore.</i></div>
 
 Experienced piano-tuner J.A. Riddell was brought in to improve and brighten up the tone of the Chappell. Unfortunately, it appeared that the brightening went a bit too far. After Kentner’s second recital, music critics said that “the ‘wool’ had been replaced by ‘tin’”.[^20] “I was shocked out of my wits the moment I touched [the piano]. It was simply appalling. I really thought that a knife or a nail had been left in it in the way a surgeon might accidentally leave a swab in the patient’s abdomen,” said Kentner.[^21]
 
