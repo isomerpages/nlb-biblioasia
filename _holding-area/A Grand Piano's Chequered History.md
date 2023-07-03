@@ -154,3 +154,23 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 
 [^20]: “[Mr. R. Will ‘Eat That Piano’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530416-1.2.120),” _Straits Times_, 16 April 1953, p. 7. (From NewspaperSG)
 
+[^21]: “[Kentner Tries the Piano... and It’s As Good As It Could Be](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530417-1.2.95),” _Straits Times_, 17 April 1953, 5. (From NewspaperSG)
+
+[^22]: “[Mr. R. Will ‘Eat That Piano’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530416-1.2.120).”
+
+[^23]: “[Mr. R. Will ‘Eat That Piano’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530416-1.2.120).”
+
+[^24]: “[Kentner Tries the Piano... and It’s As Good As It Could Be](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530417-1.2.95).”
+
+[^25]: “[Chappell vs Steinway Controversy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19530418-1.2.28),” _Singapore Standard_, 18 April 1953, 2. (From NewspaperSG)
+
+[^26]: “[Solomon Thrills Packed Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19531130-1.2.52),” _Singapore Standard_, 30 November 1953, 3; “[Piano Recital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541128-1.2.52),” _Straits Times_, 28 November 1954, p. 5. (From NewspaperSG)
+
+[^27]: “[Katchen on the Air Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550116-1.2.49),” _Straits Times_, 16 January 1955, 5. (From NewspaperSG)
+
+[^28]: “[A Singapore Surprise for Mr Katchen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550112-1.2.151)”, _Straits Times_, 12 January 1955, 8. (From Newspaper SG)
+
+[^29]: Tinny Treble, “[Monument to a Blunder](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550121-1.2.140.6),” _Straits Times_, 21 January 1955, 8. (From NewspaperSG)
+
+[^30]: “[Katchen Recital in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570713-1.2.55)”, _Straits Times_, 13 July 1957, 4, (From NewspaperSG)
+
