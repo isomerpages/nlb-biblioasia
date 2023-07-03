@@ -367,7 +367,7 @@ Shu Tieng  <br>
 Indiana Jones has been a plus. It has popularised the field, I would say, more than it has detracted. But technically he was a very bad archaeologist. I mean, you kind of want to preserve it, right? 
 
 Jimmy  <br>
-I got to say that the Indiana Jones movies are still my favourite movies. But thank you, Shu Tieng, for joining me on BiblioAsia+. To learn more about the mysterious stone tools of Singapore, check out Shu Tieng's article on the BiblioAsia website at BiblioAsia.nlb.gov.sg. Thanks, Shu Tieng!
+I got to say that the Indiana Jones movies are still my favourite movies. But thank you, Shu Tieng, for joining me on BiblioAsia+. To learn more about the mysterious stone tools of Singapore, check out [Shu Tieng's article](/vol-18/issue-4/jan-mar-2023/stone-tools-singapore/) on the BiblioAsia website at BiblioAsia.nlb.gov.sg. Thanks, Shu Tieng!
 
 Shu Tieng  <br>
 No problem, Jimmy.
