@@ -79,7 +79,7 @@ Indians also came to Malaya as sepoys, lascars, domestic servants and camp follo
 
 In the early years of the 20th century, Indians came in as lawyers, doctors, journalists, teachers and other university educated men.
 
-<img src="/images/Vol%203%20Issue%203/IndianMigration/abstract%201.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%203/IndianMigration/abstract%201.jpg" style="width:100%;">
  <div style="background-color: white;">Census of Straits Settlements: Abstract of the population of the Settlement of Singapore in 1881. <i>Report on the census of the Straits Settlements, taken on the 5th April 1891. (1892). Singapore: Printed at the Govt. Print. Off.</i></div>
 
 The phenomenal growth of Singapore also attracted various North Indian businessmen, such as the Parsees, Sindhis, Marwaris and Gujeratis. By the early years of the 20th century, Singapore was the centre of growth for Indian commerce. These businessmen established themselves as wholesalers and retailers. South Indian Muslims (many of whom were mostly descendants of the historic traders), including Malabar Muslims also arrived in Singapore (Arasaratnam, 1979, p. 35).
