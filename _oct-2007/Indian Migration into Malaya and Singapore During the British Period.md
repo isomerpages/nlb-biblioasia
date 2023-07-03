@@ -12,7 +12,6 @@ image: /images/Vol 3 Issue 3/IndianMigration/feature picture.jpg
 <img src="/images/Vol%203%20Issue%203/IndianMigration/feature%20picture.jpg" style="width:80%;">
  <div style="background-color: white;"></div>
 
-
 #### **Introduction**
 
 The Indian community in Singapore is heterogeneous, due to religious and linguistic differences. The term “Indian” refers to the people originating from the Indian subcontinent, which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives. As a community, Indians have played an important role in the historical, economic, cultural and political development of Singapore.
@@ -147,9 +146,12 @@ Another successful Indian businessman was P. Govindasamy Pillai, better known as
 
 Today, the Indian community in Singapore constitutes about 8 percent of the total population. In 2005, the number of Indians in Singapore was about 309,300. However these figures did not include the non-resident workers who are estimated to be between 90,000 to 100,000 (Lal, 2006, p. 176).
 
+<img src="/images/Vol%203%20Issue%203/IndianMigration/table%201.jpg" style="width:80%;">
+ <div style="background-color: white;">Table 1: Indian Population of Singapore, 1819–2000. <i>Figures from 1819 to 1980 from Sandhu, 2006, p. 775 Figures for 1990 to 2000 from Leow, 2001, p. viii Figure for 2005 from General Household Survey 2005, p. viii.</i></div>
+
 Prior to the Second World War, the growth of the Indian population has been through labour migration; the “excess of immigrants over emigrants” (Sandhu, 1969, p. 185). The majority of Indian migrants in Malaya during the early stages were mostly males. There were about 171 women to every 1,000 men in Malaya in 1901. The number of Indian women increased as more came to work as labourers after labour migration was legalised and when more male labourers began to bring their families along. From 1930s, the improvement in the sex-ratio, as well as better health services contributed to the population growth via natural increase.
 
-After the war, the increase in total Indian population was due to excess births as compared to deaths, and not through migration. During the 1947–57 period, signifi cant increases in the number of Indians as compared to the total population was mostly evident in Singapore and Pahang (Sandhu, 1969, p. 197). This increase was estimated to be almost 80 percent (Sandhu, 1969, p. 190).
+After the war, the increase in total Indian population was due to excess births as compared to deaths, and not through migration. During the 1947–57 period, significant increases in the number of Indians as compared to the total population was mostly evident in Singapore and Pahang (Sandhu, 1969, p. 197). This increase was estimated to be almost 80 percent (Sandhu, 1969, p. 190).
 
 The number of Indians in Malaya declined in the middle of the 20th century as Indian migration was affected by the Great Depression of the 1930s and World War Two and the subsequent Japanese Occupation. Before the war, Indian labour in Malaya comprised 75 percent of total labour force. This figure declined to about 50 percent in 1947 (Arasaratnam, 1979, p. 38). The passing of two acts in 1953 to control Indian labour has steadily led to a decline in the proportion of Indian labourers to the total 
 Indian population.
@@ -169,6 +171,11 @@ The North Indians, specifically Punjabi Sikhs, were employed as policemen, watch
 Over the recent decades, with “increasing sophistication, desire, and effort among the Indians to better themselves” and better educational opportunities, Indians have been moving away from “lowly paid wage-earning occupations into more profitable enterprises such as manufacturing, business and trade” (Sandhu, 2006, p. 782).
 
 According to the population census of year 2000, the highest number of Indians (43.3 percent) was employed in professional, technical and managerial occupations. This is more than double that of 1990, where only about 22.3 percent of Indians were employed in such jobs (Leow, 2001, p. ix).
+
+![](/images/Vol%203%20Issue%203/IndianMigration/table%202.jpg)
+
+<img src="/images/Vol%203%20Issue%203/IndianMigration/table%202.jpg" style="width:80%;">
+ <div style="background-color: white;">Table 2: Indian Resident Population by Linguistic Groups. <i>Figures extracted from Leow, 2001, p. 47–49.</i></div>
 
 #### **Ethnolinguistic and Religious Diversity**
 
