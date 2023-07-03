@@ -13,7 +13,7 @@ By Bernard T.G. Tan
 if you are in the foyer of the National Library Building on Victoria Street, you might spy a nondescript grand piano. Closer perusal reveals obvious wear and tear on its once glossy black sides and lid. A full-sized concert grand made by the English piano manufacturer Chappell, this stately septuagenarian was formerly the principal concert grand at the Victoria Memorial Hall (now Victoria Concert Hall) where famous pianists like Claudio Arrau and Julius Katchen once performed.
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/victoria_hall.jpg)
-<div style="background-color: white;">The Victoria Theatre and Memorial Hall, c. 1910. A 54-metre-high clock tower joins the two buildings. The entire structure is known as Victoria Theatre and Concert Hall today. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">Hungarian pianist Louis Kentner playing on the Chappell grand piano with the Singapore Musical Society Orchestra at the Victoria Memorial Hall, 1953. <i>Goh Soon Tioe Collection, courtesy of National Archives of Singapore.</i></div>
 
 This now retired and largely unused instrument, however, hides a colourful and chequered history, which has mostly been forgotten. When the piano was first installed at the Victoria Memorial Hall in 1952, there were high hopes, at least among some, that the instrument would deliver the same sublime tones which the previous piano had become incapable of doing. Sadly, this was not to be; instead, the instrument became the despair of many internationally renowned pianists who had to struggle with its many deficiencies.
 
@@ -70,11 +70,17 @@ After the interval, Mounier switched back to the old Steinway and the improvemen
 
 This was just the beginning of a long litany of complaints about the quality of the Chappell. For his series of recitals three months later, the Hungarian pianist Louis Kentner had chosen a repertoire that was designed to “demonstrate his enormous control over the more dynamic tonal resources of the piano”. The Chappell, however, did not perform up to standard on the first night, with music critics describing the tone of the piano as “too woolly” for Kentner’s majestic touch.[^19]
 
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/hungarian-man.jpg)
+<div style="background-color: white;">
+Charles Thornton Lofthouse, an authority on Bach, played on the Chappell grand piano on the day it arrived at the Victoria Memorial Hall on 12 September 1952. With him is musician and conductor Paul Abisheganaden. <i>Image reproduced from “Lofthouse Christens City Piano,” Singapore Standard, 13 September 1952,  2. (From NewspaperSG).</i></div>
+
 Experienced piano-tuner J.A. Riddell was brought in to improve and brighten up the tone of the Chappell. Unfortunately, it appeared that the brightening went a bit too far. After Kentner’s second recital, music critics said that “the ‘wool’ had been replaced by ‘tin’”.[^20] “I was shocked out of my wits the moment I touched [the piano]. It was simply appalling. I really thought that a knife or a nail had been left in it in the way a surgeon might accidentally leave a swab in the patient’s abdomen,” said Kentner.[^21]
 
 A distressed Riddell, who had warned Kentner that the piano was at “a critical point”, was awakened by an urgent telephone call during the concert and rushed to the Memorial Hall only to find that the concert was virtually over. He lamented that had he been phoned earlier, he could have “obliterated the problem” in two minutes.[^22]
 
 After the concert, Riddell worked on the piano to remove the brightness and then subsequently spent many hours testing the piano again. While seated at the Chappell piano, he declared to the press: “I’ve done everything that is humanly possible. If it’s not right for Prof. Kentner’s last concert I’ll eat it.”[^23]
+
+_MR R will eat the piano_
 
 Kentner himself “took no chances” for his third and final recital, spending the entire morning testing the Chappell before that night’s concert, and making sure that “it was as good as it could be”. Declaring that “you can’t make a Steinway out of a Chappell”, he was satisfied that the piano was back to what it had been at his first recital.[^24]
 
@@ -93,8 +99,9 @@ supposed to replace.
 Things came to a head when the great Chilean pianist Claudio Arrau gave a recital at the Victoria Memorial Hall in November 1956. One would have thought that after the many mishaps with the Chappell, another piano would have been used instead for a pianist of Arrau’s stature. Somewhat inexplicably, Arrau 
 performed on the infamous Chappell.
 
-After his concert, Arrau did not mince his words. “I consider it my duty to tell you this. It was outrageous – the piano at the Victoria Memorial Hall.
- I hate calling it a piano. It was more a cross between a cooking pot and a frying pan. The keys kept on jamming... sometimes I wished I had a plier, a crowbar or something to jack them up.” When asked whether his performance was affected, he declared: “Not at all, I considered it a great challenge... to be able to play on anything.” Arrau said he had been impressed with the “brand new piano” in Kuala Lumpur, and was “very, very sad that Singapore could not get a new one too”.[^32]
+After his concert, Arrau did not mince his words. “I consider it my duty to tell you this. It was outrageous – the piano at the Victoria Memorial Hall. I hate calling it a piano. It was more a cross between a cooking pot and a frying pan. The keys kept on jamming... sometimes I wished I had a plier, a crowbar or something to jack them up.” When asked whether his performance was affected, he declared: “Not at all, I considered it a great challenge... to be able to play on anything.” Arrau said he had been impressed with the “brand new piano” in Kuala Lumpur, and was “very, very sad that Singapore could not get a new one too”.[^32]
+
+_frying pan or piano_
  
 It thus came as no surprise that, barely a week after Arrau’s concert, the Japanese pianist Yoko Kono was loaned a new Steinway for her recital. Keller Piano made the offer after learning about her disappointment over the old piano (presumably the Chappell).[^33]
 
