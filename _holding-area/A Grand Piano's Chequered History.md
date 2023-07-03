@@ -143,3 +143,14 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 [^14]: “[Lofthouse Christens City Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520913-1.2.31),” _Singapore Standard_, 13 September 1952, 2. (From NewspaperSG)
 
 [^15]: “[Lofthouse Christens City Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520913-1.2.31).”
+
+[^16]: “[Five-star Concert for Schools](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520918-1.2.81),” _Straits Times_, 18 September 1952, 5. (From NewspaperSG)
+
+[^17]: L.I.C., “[Anaemic Tinklings on Our Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530124-1.2.178),” _Straits Times_, 24 January 1953, 9. (From NewspaperSG)
+
+[^18]: L.I.C., “[Anaemic Tinklings on Our Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530124-1.2.178).”
+
+[^19]: B.C., “[Kentner is Pianist on Grand Scale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19530416-1.2.6),” _Straits Budget_, 16 April 1953, 4. (From NewspaperSG)
+
+[^20]: “[Mr. R. Will ‘Eat That Piano’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530416-1.2.120),” _Straits Times_, 16 April 1953, p. 7. (From NewspaperSG)
+
