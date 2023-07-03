@@ -54,7 +54,7 @@ The indenture labour system “provided the first complement of Indian labourer 
 <img src="/images/Vol%203%20Issue%203/IndianMigration/indian%20labourers.jpg" style="width:80%;">
  <div style="background-color: white;">Group of Indian labourers. <i>Photographic views of Singapore. (1900). Singapore: G.R. Lambert.</i></div>
 
-When the movement of labour to the Straits Settlements was legalised in 1872, the indenture period was reduced to three years. However, the indenture system was “riddled with abuses” as a result of poor living conditions, the questionable means of recruitment and the arduous ship journey, which caused high mortality and ill-health among the surviving passengers. Moreover the labourers were worked hard by theemployers and their indebtedness was often extended, while their wages were lower than those who had come as free labourers (Arasaratnam, 1979, p. 13–14) 
+When the movement of labour to the Straits Settlements was legalised in 1872, the indenture period was reduced to three years. However, the indenture system was “riddled with abuses” as a result of poor living conditions, the questionable means of recruitment and the arduous ship journey, which caused high mortality and ill-health among the surviving passengers. Moreover the labourers were worked hard by the employers and their indebtedness was often extended, while their wages were lower than those who had come as free labourers (Arasaratnam, 1979, p. 13–14) 
 
 With the rise of Indian nationalism, such a system was condemned as “near slavery”. The indenture system was finally abolished in 1910.
 
@@ -64,7 +64,7 @@ An alternative mode of recruiting labour for Malaya developed during the latter 
 
 Although it was seen as the most satisfactory solution for the growing demand for labour, the kangany system was criticised by Indian nationalists as exploitative as it “induced persons to migrate under false pretences” (Arasaratnam, 1979, p. 19)
 
-Poor economic conditions, including the Great Depression of 1930s, led to a decrease in demand for labour and thus a decline of the kangany recruitment. It was fi nally abolished in 1938 when all assisted emigration was banned by the Indian Government. Nevertheless, Indians continued to migrate to Malaya as free labourers.
+Poor economic conditions, including the Great Depression of 1930s, led to a decrease in demand for labour and thus a decline of the kangany recruitment. It was finally abolished in 1938 when all assisted emigration was banned by the Indian Government. Nevertheless, Indians continued to migrate to Malaya as free labourers.
 
 #### **Profile of Migrants From 1800s In Malaya**
 
@@ -124,7 +124,14 @@ As the population in Singapore increased, there was an increased demand for deve
 
 “Filling up of swampy grounds; reclaiming large plots of land as intakes from the sea and river marshes; laying out plots of land for building purposes … ; blasting of rocks, erection of sea and river walls, bridges, viaducts and tunnels; survey and construction of roads were all executed by convicts” (Krishnan, 1936, p. 16).
 
+<img src="/images/Vol%203%20Issue%203/IndianMigration/cathedral.jpg" style="width:80%;">
+ <div style="background-color: white;">St Andrew’s Cathedral and Raffles Monument.
+<i>Photographic views of Singapore. (1900). Singapore: G.R. Lambert.</i></div>
+
 Indian convicts were responsible for building the St Andrew’s Cathedral, the Government House and the Sri Mariamman Temple in South Bridge Road. Their contribution to public works is tremendous, as they toiled to build the North and South Bridge Roads; Serangoon, Bedok and Thomson Roads; the road leading to Mount Faber and Bukit Timah; and most importantly the Causeway to Johore. They also widened the Bukit Timah canal to prepare the adjoining lands for cultivation and helped construct lighthouses as well as the signal station on Mount Faber.
+
+<img src="/images/Vol%203%20Issue%203/IndianMigration/government%20house.jpg" style="width:80%;">
+ <div style="background-color: white;">Government House garden being laid out by convicts. <i>McNair, J.F.A. (1899). Prisoners their own warders. Westminster: A. Constable.</i></div>
 
 The convicts also built their own prison building in Bras Basah Road, the Civil Jail in Pearl’s Hill, the court house, public offi ces, General Hospital and several other public buildings. Besides being involved in construction work, the convicts were also trained as draughtsmen, bricklayers, blacksmiths and carpenters. Indian convicts were also employed in government kilns, to maintain supply of bricks, tile lime and cement required for new building constructions.
 
