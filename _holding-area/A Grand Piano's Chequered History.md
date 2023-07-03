@@ -174,3 +174,22 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 
 [^30]: “[Katchen Recital in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570713-1.2.55)”, _Straits Times_, 13 July 1957, 4, (From NewspaperSG)
 
+[^31]: V.F.D., “[Shanghai Pianist in an Impressive Appassionata](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510109-1.2.156),” _Singapore Standard_, 9 January 1951, 11. (From NewspaperSG)
+
+[^32]: “[Piano? More Like a Frying Pan Says Arrau](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561120-1.2.50),” _Straits Times_, 20 November 1956, 4. (From NewspaperSG)
+
+[^33]: “[Yoko Happy With New Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561123-1.2.110),” _Straits Times_, 23 November 1956, 7. (From NewspaperSG)
+
+[^34]: “[That Piano Finds a Friend of Truly Great Ability At Last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570104-1.2.95),” _Straits Times_, 4 January 1957, 7. (From NewspaperSG)
+
+[^35]: “[That ‘Frying Pan of a Piano’ Is on Way Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19570131-1.2.48),” _Straits Times_, 25 January 1957, 10. (From NewspaperSG)
+
+[^36]: “[That ‘Frying Pan of a Piano’ Is on Way Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19570131-1.2.48).”
+
+[^37]: S.B., “[It Was a Privilege, Miss Kohler...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570328-1.2.24),” _Straits Times_, 28 March 1957, 2. (From NewspaperSG)
+
+[^38]: “[$18,000 Piano for Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580107-1.2.68),” _Singapore Standard_, 7 January 1958, 5. (From NewspaperSG)
+
+[^39]: D.C.B., “[A Great Romantic Piano Recital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580601-1.2.41),” _Straits Times_, 1 June 1958, 5. (From NewspaperSG)
+
+[^40]: Bukit Merah Public Library reopened as library@harbourfront in VivoCity in 2019.
