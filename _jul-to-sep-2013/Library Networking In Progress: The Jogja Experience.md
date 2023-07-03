@@ -9,7 +9,6 @@ description: Yogyakarta is home to several institutions of higher education and
 
 
 
-
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Jogja%20Experience/Borobudur_1.jpg">
 <div style="background-color: white;">
 Borobudur is one of Yogyakarta's most famous attractions.<i> Image via iStock.</i></div>
@@ -38,16 +37,14 @@ All these matters are regulated under the Library Act of 2007, particularly univ
 	
 	
 #### **Resource Sharing**
-	
-	
+
 Few libraries in the world – even the renowned Library of Congress, British Library and Russian State Library – would claim to have the most complete collection. While national libraries act as repositories of all national imprints, in practice, it is almost impossible for any library to obtain every printed or written publication in its land, much less acquire documents that are published in other countries. Thus, every library needs to make use of their existing collections and collaborate with other libraries to provide a satisfactory level of service to its users.
 	
 While it is true that compiling national publications is not the task of a university library, to a certain extent it also illustrates how a library should work. A library cannot work alone when developing a library collection. Working in partnership with other library institutions will help provide the most efficient service, especially for small libraries whose ability to build a comprehensive collection of books and resources is rather weak. This resource sharing programme will be effective if each library is able to provide information about its collection to all libraries in the area. In the past, the contents of a union catalogue of books would be updated manually by librarians on a regular basis. However, rapid developments in technology has changed how such work is done.
 	
 Today, information technology has taken over this manual exercise by accelerating the speed at which the union catalogue is updated. Information technology has enabled libraries to share information and facilitate the utilisation of common information resources that are administered by a library network. Moving in this direction, the setting up an integrated network is the main objective of library cooperation in Jogja. The initiative will compile information from all libraries in the region so that the public will have easier and quicker access to resources they need with just a few clicks of the mouse.
 	
-	
-Jogja promotes its wealth of information through the library collections of the universities and colleges within the region. Through this common online catalogue, whose information can be accessed openly, it is hoped that all students in Jogja, regardless of their institution, will be encouraged to access the collection via the internet. The availability of a collection that is physically accessible paves the way for the next step, the interlibrary loan scheme. This library network is formally known as the Jogja Library for All.	
+Jogja promotes its wealth of information through the library collections of the universities and colleges within the region. Through this common online catalogue, whose information can be accessed openly, it is hoped that all students in Jogja, regardless of their institution, will be encouraged to access the collection via the internet. The availability of a collection that is physically accessible paves the way for the next step, the interlibrary loan scheme. This library network is formally known as Jogja Library for All.	
 
 #### **Jogja’s Library Network**
 
@@ -73,7 +70,7 @@ Presently, the collections of libraries in Jogja are of uneven quality: some are
 
 The establishment of the Jogja Library Council in 2005 has further strengthened Jogja’s vision of building a national centre for education by 2020. The council’s main task is to guide libraries and help create an international library system that will help bolster Jogja’s reputation as a city of education. This is line with the larger e-government initiative spearheaded by the governor of Jogja, Sri Sultan Hamengku Buwono X, who has urged all government agencies and private companies to cooperate in a partnership scheme to implement and promote information and communications technology across all sectors in the province. Thus, in time to come, Jogja’s vision to become a national centre for education will be achieved, and JLA will be one of the key players at the forefront of this new technology.
 
-&gt; Future librarians will be adept individuals who will come to be seen as subjects of information, instead of becoming objects of information.
+#### **Future librarians will be adept individuals who will come to be seen as subjects of information, instead of becoming objects of information.**
 
 Presently, JLA is moving towards developing the m-Lib (mobile librarianship), which allows the use of mobile devices to access information within the network. In a sense, this mobile access will act as a sort of library, a classroom or a workplace without walls, or even a country without boundaries. In the long term, JLA will expand and encourage information technology education, with the aim of having “one school, one computer laboratory” at all elementary and secondary levels in the next five years. To help create a library with international standards, qualified and trained personnel are urgently needed, specifically those with a proficiency in library science, English language and information technology. Future librarians will be adept individuals who will come to be seen as subjects of information, instead of becoming objects of information. Through information technology, it is hoped that the quality of teaching and education will improve over time.
 
