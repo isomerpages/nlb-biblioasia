@@ -81,7 +81,9 @@ A distressed Riddell, who had warned Kentner that the piano was at “a critical
 
 After the concert, Riddell worked on the piano to remove the brightness and then subsequently spent many hours testing the piano again. While seated at the Chappell piano, he declared to the press: “I’ve done everything that is humanly possible. If it’s not right for Prof. Kentner’s last concert I’ll eat it.”[^23]
 
-_MR R will eat the piano_
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/mr-eat-the-piano.jpg)
+<div style="background-color: white;">
+Experienced piano-tuner J.A. Riddell, who spent many hours working on the Chappell, said he would “eat the piano” if it was not perfect for Louis Kentner’s last concert. <i>Source: The Straits Times, 16 April 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Kentner himself “took no chances” for his third and final recital, spending the entire morning testing the Chappell before that night’s concert, and making sure that “it was as good as it could be”. Declaring that “you can’t make a Steinway out of a Chappell”, he was satisfied that the piano was back to what it had been at his first recital.[^24]
 
