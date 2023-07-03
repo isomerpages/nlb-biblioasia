@@ -33,7 +33,6 @@ Tan Sooi Beng, [*Bangsawan: A Social and Stylistic History of Popular Malay Oper
 
 Tan Sooi Beng, “The 78 rpm Record Industry in Malaya Prior to World War II,” *Asian Music* 28, no. 1 (1997): 1–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
  
-
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Ross for coming on the show.
 
