@@ -5,7 +5,7 @@ description: Yogyakarta is home to several institutions of higher education and
   their libraries. As part of its efforts to encourage sharing of information
   and resources, the city has implemented the Jogja Library for All (JLA).
 ---
-#### Yogyakarta is home to several institutions of higher education and their libraries. As part of its efforts to encourage sharing of information and resources, the city has implemented the Jogja Library for All.
+#### Yogyakarta is home to several institutions of higher education and their libraries. As part of its efforts to encourage sharing of information and resources, the city has implemented Jogja Library for All.
 
 
 
