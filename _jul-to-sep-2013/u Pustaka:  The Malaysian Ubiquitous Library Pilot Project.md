@@ -9,7 +9,7 @@ description: In pursuit of a knowledge-based society, the National Library of
 #### In pursuit of a knowledge-based society, the National Library of Malaysia has embarked on an ambitious project to connect all its libraries. The first step toward this vision is u-Pustaka, a pilot project changing the way information is accessed.
 
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg">
+<img src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_2.jpg" style="width: 80%;">
 
 	
 	
@@ -23,7 +23,7 @@ The Malaysian Ubiquitous Library Pilot Project, u-Pustaka, is a collaboration be
 	
 u-Pustaka is an innovative and fitting culmination of the effort, collaboration and synergy by the Ministry of Information Communications and Culture through the MCMC, supported by the National Library of Malaysia together with the u-Pustaka Consortium members. The latter comprises the Selangor State Library Corporation, Negeri Sembilan State Library Corporation, Pahang State Library Corporation, Sarawak State Library, Kuala Lumpur Library, INTAN Library at Bukit Kiara and the Sabah State Library.
 	
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg">
+<img src="/images/Vol%209%20Issue%202/U%20Pustaka/upustaka-malaysia-map_3.jpg" style="width: 80%;">
 	
 Other government agencies and private institutions also contributed towards the success of the project by offering advice, guidance and sharing expertise during its implementation. These include the Malaysian Administrative Modernisation and Management Planning Unit, Economic Planning Unit, National Registration Department, Ministry of Home Affairs, National Centre of Excellence for Sensor Technology at Universiti Putra Malaysia, Pos Malaysia Berhad, Malaysian Electronic Clearing Corporation Sdn. Bhd., Bank Islam Malaysia Berhad and Touch ‘n Go Sdn Bhd.	
 
@@ -37,7 +37,7 @@ u-Pustaka is based on a model where seven components – broadband infrastructur
 	
 The eight libraries involved in the project utilise different library management systems (LMS). Thus, the solution has to address this scenario so that libraries in Malaysia do not have to purchase and install another system to accommodate the project. Compliance to standards such as ANSI/NISO Z39.50 and connectivity to the National Union Catalogue – a centralised database comprising over 7.2 million catalogue records from 100 contributing libraries hosted at the National Library of Malaysia – is a major requirement for the project. 
 	
-Participating libraries had to agree on new policies and guidelines pertaining to matters such as membership, circulation, delivery mechanism and electronic payment. The membership component leverages on MyKad/MyKid/MyPR; the delivery mechanism is entrusted to Pos Malaysia, while cashless payment is handled by Touch ‘n Go and the Malaysian Electronic Payment System.
+Participating libraries had to agree on new policies and guidelines pertaining to matters such as membership, circulation, delivery mechanism and electronic payment. The membership component leverages on MyKad/MyKid/MyPR; the delivery mechanism is entrusted to Pos Malaysia, while cashless payment is handled by Touch 'n Go and the Malaysian Electronic Payment System.
 	
 New equipment comprising RFID-tagging workstations, gantries, bookdrops, auto sorters and multipurpose kiosks have been installed, while RFID middleware has been deployed to ensure seamless integration with the existing LMS RFID-Ultra High Frequency (UHF) with spectrum release of 919-923 Mhz and Standard Interface Protocol – Version 2 (SIP2).
 	
@@ -49,7 +49,7 @@ The u-Pustaka Pilot Project took three years from its conceptualisation in 2008 
 
 The launch of the u-Pustaka Project on 31 March 2011 ushered in an innovation in library services for Malaysian citizens. The u-Pustaka Portal (http://www.ulibrary.gov.my) is the centrepiece of the project. Being the gateway to services and knowledge, the portal is interactive and user-friendly, providing users with an engaging learning and social experience in their pursuit of lifelong learning. Access to services and content is available in both Bahasa Malaysia and English.
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/U%20Pustaka/physical%20and%20digital.jpg">
+<img src="/images/Vol%209%20Issue%202/U%20Pustaka/physical%20and%20digital.jpg" style="width: 80%;">
 The physical and digital aspects of access as pioneered by u-Pustaka.
 
 Since u-Pustaka is a ubiquitous virtual library, fast, efficient and reliable service delivery for the public is of paramount importance. The portal is made up of four major components: inter-lending services, web publishing, content management and collaboration. A lot of thought went into designing the system so as to encourage the public to borrow and return books from any of the eight member libraries easily and at their convenience. Members have the choice of having books delivered right to their doorsteps, returning books at the nearest participating library, and engaging in online learning and knowledge sharing anytime as transactions are carried out 24/7 via the portal.
