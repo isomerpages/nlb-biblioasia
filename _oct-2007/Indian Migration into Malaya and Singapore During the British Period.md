@@ -165,7 +165,36 @@ There has been a substantial increase in North Indians after the first batch of 
 
 The Indian community in Singapore has come a long way from its days of being migrants. Though a minority, the Indian community is a vibrant and diverse group that has made significant contributions to the overall development of Singapore, and continues to do so. Indians from India continue to “migrate” to Singapore; such “migrants” are more heterogeneous, coming from various Indian states and range from unskilled labour to professionals.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/makeswary%20periasamy.JPG">
+<center><b>Makeswary Periasamy</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library<br>National Library</center></div>
 
+#### **REFERENCES**
 
+A. Mani, “Indians in Singapore,” in [_Indian Communities in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12803831), ed. K.S. Sandhu and A. Mani (Singapore: Institute of Southeast Asian Studies, 2006), 788–809. (Call no. RSING 305.891411059 IND)
+
+Brij V. Lal, Peter Reeves and Rajesh Rai, [_The Encyclopedia of the Indian Diaspora_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12794718) (Singapore: Editions Didier Millet in association with National University of Singapore, 2006). (Call no. RSING 909.0491411003 ENC)
+
+Department of Statistics, Singapore, [_General Household Survey 2005. Socio-Demographic and Economic Characteristics_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759388) (Singapore: Dept. of Statistics, 2006). (Call no. RSING 304.6095957 GEN)
+
+Dhoraisingam S. Samuel, [_Singapore’s Heritage: Through Places of Historical Interest_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232) (Singapore: Elixir Consultancy Service, 1991), 207. (Call no. RSING 959.57 SAM-\[HIS\])
+
+K. S. Sandhu, “Indian Immigration and Settlement in Singapore,” in [_Indian Communities in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12803831), ed. K.S. Sandhu and A. Mani (Singapore: Institute of Southeast Asian Studies, 2006), 774–87. (Call no. RSING 305.891411059 IND)
+
+Kernial Singh Sandhu, [_Indians in Malaya: Some Aspects of Their Immigration and Settlement (1786–1957)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=29723) (London: Cambridge U.P., 1969). (Call no. RSING 325.25409595 SAN)
+
+Leow Bee Geok, [_Census of Population 2000: Demographic Characteristics. Statistical Release 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10405142) (Singapore: Dept. of Statistics, Ministry of Trade and Industry, 2001). (Call no. RSING q304.6021095957 LEO)
+
+Marjorie Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141304) (Singapore: Times Books International, 1985), 61. (Call no. RSING 722.4095957 DOG)
+
+R. B. Krishnan, [_Indians in Malaya: A Pageant of Greater India: A Rapid Survey of Over 2,000 Years of Maritime and Colonising Activities Across the Bay of Bengal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980459) (Singapore: Malayan Publishers, 1936). (Call no. RRARE 325.25409595 KRI; microfilm NL8451)
+
+Sharon Siddique and Nirmala Puru Shotam, [_Singapore’s Little India: Past, Present, and Future_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592) (Singapore: Institute of Southeast Asian Studies, 1990). (Call no. RSING 305.89141105957 SID)
+
+Sinnappah Arasaratnam, [_Indians in Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4161646) (Kuala Lumpur: Oxford University Press, 1979). (Call no. RSING 325.25409595 ARA)
+
+Tommy Koh et al., eds., [_Singapore: The Encyclopedia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833) (Singapore: Editions Didier Millet in association with the National Heritage Board, 2006). (Call no. RSING 959.57003 SIN-\[HIS\])
 
 
