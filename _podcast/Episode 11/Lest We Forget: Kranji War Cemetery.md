@@ -20,48 +20,28 @@ Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [A
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-
 Janice Loo is a librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 
- 
-
 #### **Resources** ####
-
 Janice Loo, “[They Died for All Free Men: Stories from Kranji War Cemetery](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/),” *BiblioAsia* 18, no. 2 (2022).
-
- 
 
 Athanasios Tsakonas, “[In Honour of War Heroes: The Legacy of Colin St Clair Oakes](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/),” *BiblioAsia* 14, no. 3 (2018).
 
- 
-
 Wong Heng, “[Kranji Memorials](https://eresources.nlb.gov.sg/infopedia/articles/SIP_183_2004-12-27.html),” Singapore Infopedia, published 2017, National Library Board.
 
- 
-
-Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
-
- 
+ Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
 
 Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092) (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
- 
+ Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087) (London: Routledge, 2016). (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
-Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087) (London: Routledge, 2016). (From National Library, call no. RSING 940.546095957 MUZ-WAR])
-
- 
-
-“Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 March 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/
-
- 
+ “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 March 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
 
 For more resources, see [BiblioAsia articles on WWII](https://biblioasia.nlb.gov.sg/topics/war/).
 
 
- 
-
- 
 
 #### **Credits** ####
-
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Janice for coming on the show.
+
+BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.
