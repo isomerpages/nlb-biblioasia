@@ -9,7 +9,7 @@ image: /images/Vol 3 Issue 3/IndianMigration/feature picture.jpg
 ---
 #### Hailing from the Indian subcontinent – which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives – Indians have played an important role in the historical, economic, cultural and political development of Singapore.
 
-<img src="/images/Vol%203%20Issue%203/IndianMigration/feature%20picture.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%203/IndianMigration/feature%20picture.jpg" style="width:100%;">
  <div style="background-color: white;"></div>
 
 #### **Introduction**
