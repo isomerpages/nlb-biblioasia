@@ -112,7 +112,7 @@ Serangoon Road was first populated by Indians engaged in cattle-related activiti
 
 Besides the above areas of concentrations, Indians also settled near those areas set aside for plantations. The plantations hired mostly Indian labour, due to availability. As the plantations extended to Bukit Timah, Seletar, Pasir Panjang and Jurong, the Indian labourers tended to settle in these areas as well (Mani, 2006, p. 792).
 
-From 1960s, there was a slight change in the settlement patterns of the Indians. Instead of the original areas of settlement, the “Housing and Development Board (HDB) estates became the new areas of settlement” (Mani, 2006, p. 793) With increasing affluence and education, younger Indians have moved out to newer towns, but nearer their original homes, such as Ang Mo Kio, Toa Payoh, Queenstown, MacPherson and Woodlands. Subsequently, Indians also settled in Yishun, Hougang, Tampines and Jurong.
+From 1960s, there was a slight change in the settlement patterns of the Indians. Instead of the original areas of settlement, the “Housing and Development Board (HDB) estates became the new areas of settlement” (Mani, 2006, p. 793). With increasing affluence and education, younger Indians have moved out to newer towns, but nearer their original homes, such as Ang Mo Kio, Toa Payoh, Queenstown, MacPherson and Woodlands. Subsequently, Indians also settled in Yishun, Hougang, Tampines and Jurong.
 
 As a result, the number of Indians staying in the previous areas of settlements has decreased. Even Serangoon Road, known as the Little India of Singapore, does not have a high concentration of Indian families. Despite this, Serangoon Road remains as the hub of Indian economic and cultural activities, mainly because of the concentration of Indian businesses in that area.
 
@@ -143,7 +143,7 @@ Among the many prominent and successful Indians in early Singapore who have not 
 
 Narayana Pillai was one of the first Indians to arrive in Singapore in 1819, together with Raffles. He rose from chief clerk in the Treasury to become the first building contractor in Singapore. He started the first brick kiln in Tanjong Pagar and also managed a successful bazaar selling cotton goods. He was recognised as an Indian leader and given the authority to resolve disputes amongst them. He built the Sri Mariamman Temple in 1828, which is the oldest Hindu temple in Singapore.
 
-Another successful Indian businessman was P. Govindasamy Pillai, better known as PGP, who established the popular PGP stores. At the height of his success, he owned several textile shops, fl our and spice mills, a supermarket, and also invested in properties in the Serangoon area. He was known as a benevolent philanthropist who donated to the Perumal Temple, University of Malaya, amongst others, and helped to found the Indian Chamber of Commerce and the Ramakrishna Mission, to which he also donated generously.
+Another successful Indian businessman was P. Govindasamy Pillai, better known as PGP, who established the popular PGP stores. At the height of his success, he owned several textile shops, flour and spice mills, a supermarket, and also invested in properties in the Serangoon area. He was known as a benevolent philanthropist who donated to the Perumal Temple, University of Malaya, amongst others, and helped to found the Indian Chamber of Commerce and the Ramakrishna Mission, to which he also donated generously.
 
 #### **Population Growth of Indians in Singapore**
 
@@ -180,7 +180,7 @@ According to the population census of year 2000, the highest number of Indians (
 
 #### **Ethnolinguistic and Religious Diversity**
 
-As a community, Indians are neither distinct nor homogeneous. They are “compartmentalised by occupational, religious, educational, and linguistic differences, and caste, as well as ethnic and sub-ethnic group differences based primarily on place of origin” (Siddique, 1990, p. 8) This compartmentalisation is sometimes viewed, in the broader sense, as North Indian vs. South Indian origin, and/or Hindu vs. Muslim religious practitioners.
+As a community, Indians are neither distinct nor homogeneous. They are “compartmentalised by occupational, religious, educational, and linguistic differences, and caste, as well as ethnic and sub-ethnic group differences based primarily on place of origin” (Siddique, 1990, p. 8). This compartmentalisation is sometimes viewed, in the broader sense, as North Indian vs. South Indian origin, and/or Hindu vs. Muslim religious practitioners.
 
 The ethnic content of the Indian population in recent times has been conditioned by previous developments and patterns of labour migration. The majority of Indians in Singapore are generally Southern Hindus with the Tamils as the dominant group. According to Mani “three major linguistic groups became discernible” after the war, namely the Tamils, Malayalees and Punjabis (2006, p. 795).
 
