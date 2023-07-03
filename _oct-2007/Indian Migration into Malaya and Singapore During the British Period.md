@@ -42,7 +42,7 @@ The Muslim traders in Malacca inter-married with the local women and became know
 
 #### **Indian Migration During British Period**
 
-It has been noted that 95 percent of Indians arriving into Malaya over the last 2,000 years seem to have entered the country between 1786 and 1957 (Sandhu, 1969, p. 13). Despite the long and historic association with Malaya, there were rarely large numbers of Indians in Malaya before the British period. Indians began to arrive into Malaya in 1786 when the British took control of Penang. However Indians were still not a signifi cant part of the population till the latter half of the 19th century. According to Krishnan, modern Indian migration into Malaya began in 1833.
+It has been noted that 95 percent of Indians arriving into Malaya over the last 2,000 years seem to have entered the country between 1786 and 1957 (Sandhu, 1969, p. 13). Despite the long and historic association with Malaya, there were rarely large numbers of Indians in Malaya before the British period. Indians began to arrive into Malaya in 1786 when the British took control of Penang. However Indians were still not a significant part of the population till the latter half of the 19th century. According to Krishnan, modern Indian migration into Malaya began in 1833.
 
 An increase in colonial agricultural activities in Malaya led to a demand for manpower, which could not be met by the local populace. The demand was satisfied by labour migrants from India, although such migration was seasonal.
 
