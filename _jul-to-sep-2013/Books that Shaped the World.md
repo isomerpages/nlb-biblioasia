@@ -72,5 +72,5 @@ Now, as we look to the future, how will new technologies co-exist with existing 
 </span>
 
 <div>
-This article, by the staff at the Library of Congress in Washington, D.C., comprises excerpts of an interview with <b>Dr James H. Billington.</b> Sworn in in 1987, Dr Billington is the 13th Librarian of Congress.
+This article, by the staff at the Library of Congress in Washington, D.C., comprises excerpts of an interview with <b>Dr James H. Billington</b>. Sworn in in 1987, Dr Billington is the 13th Librarian of Congress.
 </div>
