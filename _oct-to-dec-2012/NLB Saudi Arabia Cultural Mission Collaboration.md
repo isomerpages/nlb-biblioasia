@@ -33,13 +33,13 @@ The Saudi Arabia collection covers the following genres:
 <img style="width:80%;" src="/images/Vol%208%20issue%203/2010.jpg">
  <div style="background-color: white;"><i><br>(From left) All rights reserved. Ministry of Higher Education, 2010; All rights reserved. Dar Jerboa Children’s Publisher, 2009.</i></div>
 
-<br><br>2 Adult fiction<br><br> The collection comprises novels which include the best in literature and fantasy.
+<br><br>2. Adult fiction<br><br> The collection comprises novels including the best in literature and fantasy.
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Folklore.jpg">
- <div style="background-color: white;">All rights reserved. Abu Hasan Publishing and Distribution House, 1995. </div><br><br> 3 Autobiography and biography <br><br>These include new and bestselling works of Saudi leaders and prominent figures.
+ <div style="background-color: white;"><i>All rights reserved. Abu Hasan Publishing and Distribution House, 1995.</i></div><br><br> 3. Autobiography and biography <br><br>These include new and bestselling works of Saudi leaders and prominent figures.
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/king.jpg">
- <div style="background-color: white;">All rights reserved. Ministry of Culture and Information, 2007.</div><br><br> 4 Arts, culture and photography<br><br>This category consists of books on the arts, history and culture of Saudi Arabia, as well as photographic works on Saudi Arabia. 
+ <div style="background-color: white;"><i>All rights reserved. Ministry of Culture and Information, 2007.</i></div><br><br> 4. Arts, culture and photography<br><br>This category consists of books on the arts, history and culture of Saudi Arabia as well as photographic works on the country.<br><br>
 <img style="width:80%;" src="/images/Vol%208%20issue%203/external.jpg">
- <div style="background-color: white;">All rights reserved. Ministry of Information and External Information, 2010.</div><br><br>5 Academic journals<br><br>The journals cover topics on Science and Technology, Medicine, Political Science, Social Science, Education, Public Administration, Environment, Islam, History, Design and Architecture, Geography, Psychology, Economics, and Language &amp; Literature.
+ <div style="background-color: white;"><i>All rights reserved. Ministry of Information and External Information, 2010.</i></div><br><br>5. Academic journals<br><br>The journals cover topics on science and technology, medicine, political science, social science, education, public administration, environment, Islam, history, design and architecture, geography, psychology, economics, language and literature.
 
 <i>This article is contributed by the Saudi Arabia Cultural Mission, Royal Embassy of Saudi Arabia, Singapore.</i>
