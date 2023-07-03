@@ -363,7 +363,7 @@ Tomb raider.
 Jimmy  <br>
 You're an archaeologist! Do you think Indiana Jones has been a plus or a minus for archaeology?
 
-Shu Tieng  36:27  
+Shu Tieng  <br> 
 Indiana Jones has been a plus. It has popularised the field, I would say, more than it has detracted. But technically he was a very bad archaeologist. I mean, you kind of want to preserve it, right? 
 
 Jimmy  <br>
@@ -374,4 +374,3 @@ No problem, Jimmy.
 
 Jimmy <br>
 If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and [BiblioAsia newsletter](https://form.gov.sg/#!/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
-
