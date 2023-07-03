@@ -31,6 +31,6 @@ Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the 
 
 
 #### **Credits** ####
-This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shu for coming on the show.
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shu Tieng for coming on the show.
 
 BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.
