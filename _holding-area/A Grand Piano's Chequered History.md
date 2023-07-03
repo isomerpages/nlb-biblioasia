@@ -7,7 +7,13 @@ description: A grand piano that was to be the pride of Singapore failed to
 #### A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
 By Bernard T.G. Tan
 
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/irene-kohler_header.jpg)
+<div style="background-color: white;">British pianist Irene Kohler, who played on the Chappell grand piano, photographed before her recital at the Victoria Memorial Hall, 1956. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
+
 if you are in the foyer of the National Library Building on Victoria Street, you might spy a nondescript grand piano. Closer perusal reveals obvious wear and tear on its once glossy black sides and lid. A full-sized concert grand made by the English piano manufacturer Chappell, this stately septuagenarian was formerly the principal concert grand at the Victoria Memorial Hall (now Victoria Concert Hall) where famous pianists like Claudio Arrau and Julius Katchen once performed.
+
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/victoria_hall.jpg)
+<div style="background-color: white;">The Victoria Theatre and Memorial Hall, c. 1910. A 54-metre-high clock tower joins the two buildings. The entire structure is known as Victoria Theatre and Concert Hall today. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 This now retired and largely unused instrument, however, hides a colourful and chequered history, which has mostly been forgotten. When the piano was first installed at the Victoria Memorial Hall in 1952, there were high hopes, at least among some, that the instrument would deliver the same sublime tones which the previous piano had become incapable of doing. Sadly, this was not to be; instead, the instrument became the despair of many internationally renowned pianists who had to struggle with its many deficiencies.
 
@@ -16,6 +22,9 @@ The Chappell grand quickly ended up with a reputation it could not shake off. Th
 #### **The Memorial Hall’s Original Steinway**
 
 It is not known whether a piano was acquired when the Victoria Memorial Hall was first built in 1905. Newspaper reports of events such as France’s Day Fete in 1919 and the Poppy Day Dance in 1929 record that the well-known British-owned music shop, Moutrie and Co., loaned a piano for both occasions.[^1] The type or make of piano is not known, but Moutrie (which was still in business in Singapore after the war) did have their own pianos under the Moutrie brand, in addition to importing a number of piano brands from the United Kingdom – such as Chappell – and Europe.
+
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/moutrie-and-co.jpg)
+<div style="background-color: white;">Besides importing a number of piano brands from the United Kingdom – such as Chappell – and Europe, Moutrie and Co. also sold pianos under their own brand. <i>Image reproduced from “Page 7 Advertisements Column 1,” Straits Times, 11 August 1949, 7. (From NewspaperSG).</i></div>
 
 In 1930, the Municipal Commissioners agreed to purchase a Steinway concert grand piano for the Memorial Hall.[^2] A newspaper report of a recital by the Ukrainian-born British pianist Benno Moiseiwitsch in July 1933 does not explicitly mention a Steinway, but makes it clear that the instrument used by the celebrated pianist fulfilled all the demands made of it in an exhausting recital which included Schumann, Chopin and the Liszt transcription of Wagner’s Tannhäuser Overture.[^3]
 
@@ -46,6 +55,10 @@ By this time, the existing Steinway was showing its age. According to the Strait
 The Chappell eventually arrived by sea on 12 September 1952. Such was the interest in the piano that it was unpacked from its crate in the presence of the press and the superintendent of the Victoria Memorial Hall and Theatre, K.C. Yap. “It’s a relief from the constant criticisms held by the public at the City Council for lack of a good piano,” he said. “I hope everybody will be happy. After all the public is entitled to insist that the City’s public Hall should possess a first class piano.”[^14]
 
 Was it actually a first class piano though? Charles Thornton Lofthouse, an authority on Bach, had played briefly on the Chappell on the day it arrived. When asked to compare between the old Steinway and the new Chappell, his response was: “I am sorry it is not a Steinway.”[^15]
+
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/charlie.jpg)
+<div style="background-color: white;">
+Charles Thornton Lofthouse, an authority on Bach, played on the Chappell grand piano on the day it arrived at the Victoria Memorial Hall on 12 September 1952. With him is musician and conductor Paul Abisheganaden. <i>Image reproduced from “Lofthouse Christens City Piano,” Singapore Standard, 13 September 1952,  2. (From NewspaperSG).</i></div>
 
 #### **Negative Reviews**
 
