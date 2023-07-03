@@ -42,13 +42,11 @@ Much excitement surrounds My Tree House – the world's first green library for 
 
 #### **Readers for Life**
 
-&gt; [C]ollaboration with partners and community volunteers has become a pillar for the accomplishments of public libraries.
-
 The goal of promoting a love for reading among Singaporeans has always been a part of the public libraries’ culture and mission. This goal is now one of NLB’s key initiatives: Reading, Learning and Info-Literacy. Under this umbrella, programmes tailored for specific needs of different customer groups are in place and being developed to support early literacy, youth and senior services. To achieve this and other goals, collaboration with partners and community volunteers has become a pillar for the accomplishments of public libraries.
 
 Current and planned efforts to encourage reading among children differ from past efforts in that current strategies utilise a more integrated approach to equip educators and support parents in the development of early literacy. Thematic activity toolkits allow educators to use storybooks and audiovisuals to spark interest in reading. There are advocacy packages for parents to engage children through fun activities such as talking, singing, playing, reading and writing. Low-income parents, in particular, can receive ready resources to use with their children.
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/first%20children%20green%20library9.jpg">
+<img style="width: 100%;" src="/images/Vol%209%20Issue%202/Singapore%20Public%20Libraries/first%20children%20green%20library2.jpg">
 <div style="background-color: white;">
 The world's first green children's library opened in May 2013 at Singapore’s Central Public Library. <i>National Library Board of Singapore.</i></div>
 	
@@ -63,9 +61,9 @@ To this end, the Silver Infocomm Junction was set up at the Woodlands Regional L
 
 #### **Creative Reading Programmes**
 
-Read.Write.Tell is a national reading and storytelling movement under the Arts &amp; Culture Strategic Review (ACSR). This encompasses reading clubs in schools, the community and organisations as well as writing communities and programmes. The goal is to cultivate a love for reading and provide opportunities to write and tell stories about Singapore. Older reading clubs focused on reading and sharing, while this new movement makes writing a deliverable for the 25 Read.Write.Tell communities.
+Read.Write.Tell is a national reading and storytelling movement under the Arts &amp; Culture Strategic Review. This encompasses reading clubs in schools, the community and organisations as well as writing communities and programmes. The goal is to cultivate a love for reading and provide opportunities to write and tell stories about Singapore. Older reading clubs focused on reading and sharing, while this new movement makes writing a deliverable for the 25 Read.Write.Tell communities.
 
-The NLB launched its first-ever nation-wide reading initiative, READ! Singapore, in 2005. This initiative, adapted from highly successful reading programmes around the world, encourages communal reading, followed by facilitated discussions on the selected stories. READ! Singapore’s target audience was initially Singapore residents aged 15 and above. In 2012 it expanded to include younger audiences aged 7 to 14 and introduced MobileRead, a free mobile application that provides access to selected content and enables reading while on the move.
+The NLB launched its first-ever nation-wide reading initiative, READ! Singapore, in 2005. This initiative, adapted from highly successful reading programmes around the world, encourages communal reading, followed by facilitated discussions on the selected stories. READ! Singapore’s target audience was initially Singapore residents aged 15 and above. In 2012, it expanded to include younger audiences aged 7 to 14 and introduced MobileRead, a free mobile application that provides access to selected content and enables reading while on the move.
 
 kidsREAD is a national project that, together with the People’s Association and community self-help groups, promotes reading and good reading habits to children from low-income families, aged 4 to 8. Volunteers aged 15 and above form the backbone of kidsREAD. They read to children in Reading Clubs located at centres, kindergartens, homes, welfare organisations and primary schools. In 2012, it was proposed that children would remain in the kidsREAD programme until they completed Primary 2, instead of graduating after a year in the programme.
 
@@ -99,7 +97,7 @@ In 2008, Molly (a mobile library in a custom-designed bus) was introduced, provi
 Excited children during a visit by Molly the Mobile Bus.
 </div>
 
-*Public Libraries as Social Touchpoints* 
+*Public Libraries As Social Touchpoints* 
 
 All public libraries are positioned as social touchpoints for the community to interact with or have the opportunity to collaborate on arts and culture, whether in terms of creation or appreciation.
 
