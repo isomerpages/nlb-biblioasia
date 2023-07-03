@@ -6,7 +6,7 @@ description: In this digital age, the love for print magazines still thrives as
   their own. Magazines appeal to readers through visuals and text, offering many
   hours of reading pleasure.
 ---
-#### In this digital age, the love for print magazines still thrives as a reading format to delight readers who browse, borrow or even buy copies of their own. Magazines appeal to readers through visuals and text, offering many hours of reading pleasure.
+#### In this digital age, print magazines still thrive as a reading format, delighting readers who browse, borrow or even buy copies of their own. Magazines appeal to readers through visuals and text, offering many hours of reading pleasure
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Iremembersg/Her%20World.jpg">
  <div style="background-color: white;">Debut issue of <i>Her World,</i> the first locally produced women’s magazine for Singapore readers. <i>All rights reserved. Singapore Press Holdings, 1960.</i></div>
