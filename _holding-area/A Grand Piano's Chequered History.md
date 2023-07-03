@@ -104,7 +104,9 @@ performed on the infamous Chappell.
 
 After his concert, Arrau did not mince his words. “I consider it my duty to tell you this. It was outrageous – the piano at the Victoria Memorial Hall. I hate calling it a piano. It was more a cross between a cooking pot and a frying pan. The keys kept on jamming... sometimes I wished I had a plier, a crowbar or something to jack them up.” When asked whether his performance was affected, he declared: “Not at all, I considered it a great challenge... to be able to play on anything.” Arrau said he had been impressed with the “brand new piano” in Kuala Lumpur, and was “very, very sad that Singapore could not get a new one too”.[^32]
 
-_frying pan or piano_
+![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/frying-pan-or-piano.jpg)
+<div style="background-color: white;">
+When the Chilean pianist Claudio Arrau gave a recital at the Victoria Memorial Hall in November 1956, he described the Chappell grand piano as “a cross between a cooking pot and a frying pan”. <i>Source: The Straits Times, 20 November 1956 © SPH Media Limited. Permission required for reproduction.</i></div>
  
 It thus came as no surprise that, barely a week after Arrau’s concert, the Japanese pianist Yoko Kono was loaned a new Steinway for her recital. Keller Piano made the offer after learning about her disappointment over the old piano (presumably the Chappell).[^33]
 
