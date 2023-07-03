@@ -62,13 +62,13 @@ This is what you get at libraries, which are consolidations of the different for
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>Dialogic Culture via the Book</b>
 <br><br>
-*As the 2013 International Summit of the Book looks to the future of the book culture and its values, it is helpful to examine the unique role of the book in dialogic culture. Simply put, books enable dialogues between readers and writers. They provide us with voices and experiences from other times and places, affect us with their marvellous stories, and make us more humane and civilised. All this is the beginning of the dialogic culture, which is essential for a democracy and helpful for a dynamic economy.*
+As the 2013 International Summit of the Book looks to the future of the book culture and its values, it is helpful to examine the unique role of the book in dialogic culture. Simply put, books enable dialogues between readers and writers. They provide us with voices and experiences from other times and places, affect us with their marvellous stories, and make us more humane and civilised. All this is the beginning of the dialogic culture, which is essential for a democracy and helpful for a dynamic economy.
 <br><br>
-*In talking about present and future dialogues, the impact of technology must be part of the discussion. At the Library of Congress, the whole purpose of our investment in new technology is to affirm the importance of the book culture. It is important to ponder the possibilities of the digital revolution in light of previous technological revolutions’ impact on our modes of acquiring information, and communicating and sharing knowledge.*
+In talking about present and future dialogues, the impact of technology must be part of the discussion. At the Library of Congress, the whole purpose of our investment in new technology is to affirm the importance of the book culture. It is important to ponder the possibilities of the digital revolution in light of previous technological revolutions’ impact on our modes of acquiring information, and communicating and sharing knowledge.
 <br><br>
-*I strongly believe that one technological revolution never really cancels out the previous one. For example, manuscripts carried on long after books were introduced. In modern times, movies have not supplanted theatre, and radio is alive and well along with television.*
+I strongly believe that one technological revolution never really cancels out the previous one. For example, manuscripts carried on long after books were introduced. In modern times, movies have not supplanted theatre, and radio is alive and well along with television.
 <br><br>
-*Now, as we look to the future, how will new technologies co-exist with existing ones?*
+Now, as we look to the future, how will new technologies co-exist with existing ones?
 </span>
 
 <div>
