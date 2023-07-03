@@ -21,19 +21,18 @@ In July 2012, the project group partnered Google to organise a Google Photo Walk
 
 Tapping on Singapore’s great love for food, the SMP team organised a food trail with three of Singapore’s most prominent bloggers: Dr Leslie Tay (of ieatishootipost), Mr Brown and Mr Miyagi. The intrepid trio traversed the island from dawn to midnight, in search of the best of Singapore food. From tweets posted by the public, the boisterous bloggers went on a real-time food trail. The food trail videos can be viewed at the SMP Facebook page or you can read about it via the vlog.
 
-Local artists and talents have also been commissioned by SMP to document and present the memories of people and places in creative ways. One such work that resonated strongly with the public and garnered over 860 likes on Facebook was a free e-book on old mosaic playgrounds in Singapore. Another artistic production was the bittersweet comic *Once Upon a Dragon* by Dominique Fam – a graphic work that reflected on the changes in Singapore and the author’s memories of the dragon playground of his childhood years. These works serve as talking points for the public and something that they can share with others.
+Local artists and talents have also been commissioned by SMP to document and present the memories of people and places in creative ways. One such work that resonated strongly with the public and garnered over 860 likes on Facebook was a free e-book on old mosaic playgrounds in Singapore. Another artistic production was the bittersweet comic *Once Upon a Dragon* by Dominique Fam – a graphic work that reflects on the changes in Singapore and the author’s memories of the dragon playground of his childhood years. These works serve as talking points for the public and something that they can share with others.
 
-The Singapore Memory Project is more than just events, programmes and an ambitious collection of memories – it is a reminder for people to slow down a little, look back and remember that each memory, each personal story is a part of Singapore.
+The Singapore Memory Project is more than just events, programmes and an ambitious collection of memories. It is a reminder for people to slow down a little, look back and remember that each memory, each personal story is a part of Singapore.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>How to contribute to the Singapore Memory Project</b> 
 <br><br>
-Do you have a cache of memories just waiting to be shared? Wonder what fellow Singaporeans remember? Then be a part of our conversations over at www.singaporememory.sg!
+Do you have a cache of memories just waiting to be shared? Wonder what fellow Singaporeans remember? Then be a part of our conversations over at <a href="www.singaporememory.sg">www.singaporememory.sg</a>!
 
 To get in on all the action, check out the Singapore Memory portal at <a href="www.singaporememory.sg">www.singaporememory.sg</a>, our blog at <a href="http://www.iremember.sg/">http://www.iremember.sg/</a>, or download the SMP app to contribute your own memories in the form of images (up to 3MB), videos (20MB) or 20 seconds of footage.<br><br>
-	
-<a href="www.facebook.com/iremembersg">www.facebook.com/iremembersg</a>.	
-Twitter &amp; Instagram: href=<a href="http://www.iremember.sg/">http://www.iremember.sg/</a>
+<a href="www.facebook.com/iremembersg">www.facebook.com/iremembersg</a>	
+Twitter &amp; Instagram: @iremembersg
 </div>
 
 <div>
-<b>Stephanie Pee</b> is an executive with the National Library Arts and the Singapore Memory Project team. She was an assistant senior editor with Marshall Cavendish before joining NLB.</div>
+<b>Stephanie Pee</b> is an executive with the National Library Arts and the Singapore Memory Project team. She was an assistant senior editor with Marshall Cavendish before joining the National Library Board.</div>
