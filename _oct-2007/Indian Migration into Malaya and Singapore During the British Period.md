@@ -63,7 +63,7 @@ With the rise of Indian nationalism, such a system was condemned as “near slav
 
 An alternative mode of recruiting labour for Malaya developed during the latter part of the 19th century. Known as the kangany system, it supplied most of the labour to the Malayan coffee and rubber plantations till 1938. Kangany is the Tamil word for overseer or superior. Unlike the indenture system whereby mostly males migrated, the kangany system paved the way for more families to migrate to Malaya.
 
-Although it was seen as the most satisfactory solution for the growing demand for labour, the kangany system was criticised by Indian nationalists as exploitative as it “induced persons to migrate under false pretences” (Arasaratnam, 1979, p. 19)
+Although it was seen as the most satisfactory solution for the growing demand for labour, the kangany system was criticised by Indian nationalists as exploitative as it “induced persons to migrate under false pretences” (Arasaratnam, 1979, p. 19).
 
 Poor economic conditions, including the Great Depression of 1930s, led to a decrease in demand for labour and thus a decline of the kangany recruitment. It was finally abolished in 1938 when all assisted emigration was banned by the Indian Government. Nevertheless, Indians continued to migrate to Malaya as free labourers.
 
@@ -78,6 +78,9 @@ On the other hand, those recruited by the government were a mixture from Madras 
 Indians also came to Malaya as sepoys, lascars, domestic servants and camp followers when they accompanied the British who were stationed in the Straits Settlements. Another group that came to Malaya were the convicts during the early years of the 19th century. They were involved in various projects involving hard labour.
 
 In the early years of the 20th century, Indians came in as lawyers, doctors, journalists, teachers and other university educated men.
+
+<img src="/images/Vol%203%20Issue%203/IndianMigration/abstract%201.jpg" style="width:80%;">
+ <div style="background-color: white;">Census of Straits Settlements: Abstract of the population of the Settlement of Singapore in 1881. <i>Report on the census of the Straits Settlements, taken on the 5th April 1891. (1892). Singapore: Printed at the Govt. Print. Off.</i></div>
 
 The phenomenal growth of Singapore also attracted various North Indian businessmen, such as the Parsees, Sindhis, Marwaris and Gujeratis. By the early years of the 20th century, Singapore was the centre of growth for Indian commerce. These businessmen established themselves as wholesalers and retailers. South Indian Muslims (many of whom were mostly descendants of the historic traders), including Malabar Muslims also arrived in Singapore (Arasaratnam, 1979, p. 35).
 
