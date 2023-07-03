@@ -150,7 +150,7 @@ Another successful Indian businessman was P. Govindasamy Pillai, better known as
 Today, the Indian community in Singapore constitutes about 8 percent of the total population. In 2005, the number of Indians in Singapore was about 309,300. However these figures did not include the non-resident workers who are estimated to be between 90,000 to 100,000 (Lal, 2006, p. 176).
 
 <img src="/images/Vol%203%20Issue%203/IndianMigration/table%201.jpg" style="width:80%;">
- <div style="background-color: white;">Table 1: Indian Population of Singapore, 1819–2000. <i>Figures from 1819 to 1980 from Sandhu, 2006, p. 775 Figures for 1990 to 2000 from Leow, 2001, p. viii Figure for 2005 from General Household Survey 2005, p. viii.</i></div>
+ <div style="background-color: white;"> <i>Figures from 1819 to 1980 from Sandhu, 2006, p. 775 Figures for 1990 to 2000 from Leow, 2001, p. viii Figure for 2005 from General Household Survey 2005, p. viii.</i></div>
 
 Prior to the Second World War, the growth of the Indian population has been through labour migration; the “excess of immigrants over emigrants” (Sandhu, 1969, p. 185). The majority of Indian migrants in Malaya during the early stages were mostly males. There were about 171 women to every 1,000 men in Malaya in 1901. The number of Indian women increased as more came to work as labourers after labour migration was legalised and when more male labourers began to bring their families along. From 1930s, the improvement in the sex-ratio, as well as better health services contributed to the population growth via natural increase.
 
@@ -176,7 +176,7 @@ Over the recent decades, with “increasing sophistication, desire, and effort a
 According to the population census of year 2000, the highest number of Indians (43.3 percent) was employed in professional, technical and managerial occupations. This is more than double that of 1990, where only about 22.3 percent of Indians were employed in such jobs (Leow, 2001, p. ix).
 
 <img src="/images/Vol%203%20Issue%203/IndianMigration/table%202.jpg" style="width:80%;">
- <div style="background-color: white;">Table 2: Indian Resident Population by Linguistic Groups. <i>Figures extracted from Leow, 2001, p. 47–49.</i></div>
+ <div style="background-color: white;"><i>Figures extracted from Leow, 2001, p. 47–49.</i></div>
 
 #### **Ethnolinguistic and Religious Diversity**
 
