@@ -172,8 +172,6 @@ Over the recent decades, with “increasing sophistication, desire, and effort a
 
 According to the population census of year 2000, the highest number of Indians (43.3 percent) was employed in professional, technical and managerial occupations. This is more than double that of 1990, where only about 22.3 percent of Indians were employed in such jobs (Leow, 2001, p. ix).
 
-![](/images/Vol%203%20Issue%203/IndianMigration/table%202.jpg)
-
 <img src="/images/Vol%203%20Issue%203/IndianMigration/table%202.jpg" style="width:80%;">
  <div style="background-color: white;">Table 2: Indian Resident Population by Linguistic Groups. <i>Figures extracted from Leow, 2001, p. 47–49.</i></div>
 
