@@ -74,3 +74,35 @@ American Julius Katchen, one of the world’s most celebrated pianists, gave a r
 supposed to replace.
 
 “The \[Chappell\] piano now reposes under a dustsheet, a silent monument to the proverb ‘Penny wise, pound foolish’,” a reader wrote to the Straits Times. “What an everlasting pity we could not have heard Katchen on a new Steinway, at whatever the cost.”[^29] Incidentally, Katchen returned to Singapore in July 1957 and performed at the Anglo-Chinese School’s Lee Kuo Chuan Auditorium, a concert I was fortunate enough to have attended.[^30] That day, Katchen played on the school’s Steinway concert grand, which had been acquired in 1951 and inaugurated by the Shanghai pianist Feng Jia Bei-Tseng.[^31] The fact that a mere school hall had a Steinway while the City Council went with a cheaper Chappell spoke volumes.
+
+#### **A Cross Between a Cooking Pot and a Frying Pan**
+
+Things came to a head when the great Chilean pianist Claudio Arrau gave a recital at the Victoria Memorial Hall in November 1956. One would have thought that after the many mishaps with the Chappell, another piano would have been used instead for a pianist of Arrau’s stature. Somewhat inexplicably, Arrau 
+performed on the infamous Chappell.
+
+After his concert, Arrau did not mince his words. “I consider it my duty to tell you this. It was outrageous – the piano at the Victoria Memorial Hall.
+ I hate calling it a piano. It was more a cross between a cooking pot and a frying pan. The keys kept on jamming... sometimes I wished I had a plier, a crowbar or something to jack them up.” When asked whether his performance was affected, he declared: “Not at all, I considered it a great challenge... to be able to play on anything.” Arrau said he had been impressed with the “brand new piano” in Kuala Lumpur, and was “very, very sad that Singapore could not get a new one too”.[^32]
+ 
+It thus came as no surprise that, barely a week after Arrau’s concert, the Japanese pianist Yoko Kono was loaned a new Steinway for her recital. Keller Piano made the offer after learning about her disappointment over the old piano (presumably the Chappell).[^33]
+
+A few months later, in January 1957, the New Zealander pianist Richard Farrell gave a recital, apparently using the old Steinway. It may have been thoroughly overhauled and refurbished after Kono’s comments, for the Straits Times mentioned that “\[f\]or two hours last night, Richard Farrell’s audience at the Victoria Memorial Hall forgot all arguments about that ‘frying pan’ piano. The Steinway was overhauled recently and it could have had no better friend to introduce its new-found life to critical Singapore”.[^34]
+
+Arrau’s biting remarks about the “frying pan” Chappell piano was likely the final straw. In January 1957, the City Council decided to buy two Steinways: a concert grand for around $18,000 and an upright for more than $3,000. The former would be placed on the stage and the latter in the orchestra pit.[^35]
+
+The plan was for the Chappell to be moved to a new practice theatre being built in the Victoria 
+Theatre, which was undergoing major renovations. The theatre would be equipped with an air-conditioned piano room costing $3,500. The old Steinway in the Memorial Hall would remain, presumably as a back-up to the new concert grand.[^36]
+
+Before the new concert grand arrived, there were a number of major recitals at the Victoria Memorial Hall, such as those in March 1957 by the British pianist Irene Kohler. For her second recital, the Straits Times reported that she chose to use a small Steinway grand, perhaps loaned by Keller Piano, instead of the dreaded Chappell. Her only complaint was that the Steinway “had not been recently tuned”.[^37]
+
+#### **Chappell Bows out**
+
+On 7 January 1958, the Singapore Standard reported that two Steinway pianos costing $22,000 had arrived from Hamburg. The grand piano was to be played for the first time on 10 January by Singapore pianist Gus Stein, the accompanist for the famed American harmonica player Larry Adler (whom I had been fortunate to hear at one of his many concerts in Singapore, possibly this very one).[^38]
+
+One important concert that took place at the Memorial Hall soon after the Adler concert was a recital on 31 May 1958 by Benno Moiseiwitsch, who had performed in Singapore in July 1933 on the old Steinway. Playing on the new Steinway grand, 
+Moiseiwitsch showed what a truly great romantic pianist he was. “With equal facility he was dramatically decisive in the stark staccato passages and as smooth and as soft as a rose petal in the pianissimo passages,” wrote the Straits Times.[^39]
+
+What of the fate of the Chappell after 1958? It can be assumed that the piano was moved as planned to the practice theatre, which was on the second level of the Victoria Memorial Hall, in the space between the Theatre and the Memorial Hall. As its name implies, this was a mini theatre with a stage and a small audience area, used by conductor Choo Hoey and the fledgling Singapore Symphony Orchestra for their initial rehearsals.
+
+In 1983, the Chappell was moved to the Bukit Merah Branch Library (later renamed Bukit Merah Community Library and subsequently Bukit Merah Public Library) where it stayed for 35 years and was used for musical programmes. When the library closed in 2018, the piano was transferred to the National Archives of Singapore.[^40] In November 2022, the Chappell moved again, this time to the National Library Building on Victoria Street.
+
+Today, the Chappell has been given a new lease of life as a public piano. Anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. While it may look a little worn out, it has been lovingly repaired and retuned and it is now a perfectly serviceable musical instrument. As a public piano, the venerable and much-maligned Chappell may have finally found its true calling. 
