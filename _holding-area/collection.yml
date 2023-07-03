@@ -2,5 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - The Chappell Grand Piano.md
+      - A Grand Piano's Chequered History.md
       - Test page.md
