@@ -33,3 +33,5 @@ Justin Zhuang, <i>[Independence: The History of Graphic Design in Singapore sinc
 
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Dahlia for coming on the show.
+
+BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.
