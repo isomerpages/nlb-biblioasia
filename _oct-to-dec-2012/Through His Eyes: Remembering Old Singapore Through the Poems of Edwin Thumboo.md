@@ -8,7 +8,7 @@ description: Singapore’s landscape is one that has undergone many changes
   race to document, remember and hold onto what Singapore was – and by proxy,
   ourselves.
 ---
-#### Singapore’s landscape is one that has undergone many changes through the ages. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and, by proxy, what we are.
+#### Singapore’s landscape is one that has undergone many changes through the ages. As we struggle to keep pace with change, development and modernity, we also race to document, remember and hold onto what Singapore was – and, by proxy, who we are.
 
 
 <img style="width:50%;" src="/images/Vol%208%20issue%203/Edwin/Edwin%20Thumboo.jpg">
