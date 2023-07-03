@@ -113,3 +113,33 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 	<b>Emeritus Professor Bernard T.G. Tan</b>  is a retired professor in physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
 
 #### **Notes**
+
+[^1]: “[France’s Day Fete](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180719-1.2.56),” _Singapore Free Press and Mercantile Advertiser_, 19 July 1918, 10; “[Poppy Day Dance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19291115-1.2.34),” _Malaya Tribune_, 15 November 1929, 9. (From NewspaperSG)
+
+[^2]: “[Municipal Action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300909-1.2.73),” _Malaya Tribune_, 9 September 1930, 10. (From NewspaperSG)
+
+[^3]: “[Moiseiwitch Says Farewell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19330706-1.2.20),” _Straits Budget_, 6 July 1933, 6. (From NewsppaerSG)
+
+[^4]: “[Children Give Concert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19341103-1.2.57),” _Singapore Free Press and Mercantile Advertiser_, 3 November 1934, 9. (From NewspaperSG)
+
+[^5]: “[1949 Was Successful Year for Victoria Hall](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500902-1.2.27),” _Singapore Standard_, 2 September 1950, 2. (From NewspaperSG)
+
+[^6]: “[Grand Old Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501030-1.2.65.2),” _Straits Times_, 30 October 1950, 6. (From NewspaperSG)
+
+[^7]: “[Grand Old Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501030-1.2.65.2).”
+
+[^8]: “[$17,000 Piano Due Soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511116-1.2.112),” _Straits Times_, 16 November 1951, 7. (From NewspaperSG)
+
+[^9]: “Anacrusis”, “[The Grand Piano Mystery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520219-1.2.165),” _Singapore Standard_, 19 February 1952, 10. (From NewspapaperSG)
+
+[^10]: “Anacrusis”, “[The Grand Piano Mystery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520219-1.2.165).”
+
+[^11]: “Anacrusis”, “[The Grand Piano Mystery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520219-1.2.165).”
+
+[^12]: “[Singapore Orders a New Grand Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520128-1.2.78),” _Straits Times_, 28 January 1952, p. 5. (From NewspaperSG)
+
+[^13]: “Anacrusis”, “[The Grand Piano Mystery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520219-1.2.165).”
+
+[^14]: “[Lofthouse Christens City Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520913-1.2.31),” _Singapore Standard_, 13 September 1952, 2. (From NewspaperSG)
+
+[^15]: “[Lofthouse Christens City Piano](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520913-1.2.31).”
