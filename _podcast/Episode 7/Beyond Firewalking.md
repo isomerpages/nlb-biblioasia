@@ -34,8 +34,7 @@ E.V. Singhan, [*Timiti Festival*](https://eservice.nlb.gov.sg/item_holding.aspx?
 Cinkappur Sri Mariyamman Kovil, [*Mahaparatham*](https://www.nas.gov.sg/archivesonline/private_records/record-details/dc98e21f-115b-11e3-83d5-0050568939ad), private records, 1896. (From National Archives of Singapore, microfilm no. NA1984)
 
 
-
-
-
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Nalina for coming on the show.
+
+BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.
