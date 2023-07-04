@@ -102,7 +102,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^3]: “[NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670627-1.2.10.1),” *Eastern Sun*, 27 June 1967, 2; [Chinese Chamber Backs ‘Eat More Wheat Campaign’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670829-1.2.24.3),” *Eastern Sun*, 29 August 1967, 10; “[P.S.A’s Eat More Wheat Campaign](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670927-1.2.10.51),” *Eastern Sun*, 27 September 1967, 11. (From NewspaperSG)
 
-[^4]: “Chinese Chamber Backs ‘Eat More Wheat Campaign’.” 
+[^4]: “[Chinese Chamber Backs ‘Eat More Wheat Campaign](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670829-1.2.24.3)’.” 
 
 [^5]: “[How To Save $22m – By Dr. Goh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670913-1.2.138),” *Straits Budget*, 13 September 1967, 19. (From NewspaperSG)
 
