@@ -104,7 +104,7 @@ Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics 
 #### **NOTES**
 [^1]: [Hodgkin &amp; Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
 
-[^2]: A term originated by Richard Terdiman in his publication *Present Past: Modernity and the Memory Crisis*. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
+[^2]: A term that originated from Richard Terdiman in his publication *Present Past: Modernity and the Memory Crisis*. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
 [^3]: [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
 
