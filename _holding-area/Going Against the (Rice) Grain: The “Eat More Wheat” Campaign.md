@@ -73,7 +73,19 @@ The Singapore Medical Association criticised the government for not involving do
 
 In Parliament in December 1967, Member of Parliament for Aljunied S.V. Lingam questioned the campaign’s target audience. “To whom are we to beam this campaign to? To the rich or to the poor?” he demanded to know. “[T]he campaign seems to me to be directed at the rich who ironically are already consumers of wheat and who could afford to pay for rice at ten times its present price.”33
 
+He said the campaign was misguided in telling poor people to save money by eating wheat, as they would spend more money on meat, eggs and supplementary ingredients. He also commented that the cooking competition’s limit of $3 of ingredients for one meal was too generous, as poor families budgeted $3 for an entire day of meals. “Does the Minister [of State for Culture Lee Khoon Choy] sincerely believe that the poor can afford this?” he asked.34
 
+Straits Budget reporter Henry L. Pau described the campaign as “pretty futile”. “The wheat foods advocated are neither new nor particularly cheap, and the people are already eating as much of them as they can afford or can stomach.” He added that it was “more costly to the housewife – 48 cents a kati of rice, 80 cents the equivalent quantity of bread”.35
+
+#### **Rice Reigns**
+
+In 1968, a survey on the wheat-eating habits of Singaporeans found that “rice eaters won’t desert the bowl”. Of the 900 Chinese, Malay and Indian households interviewed, only 16 households had started consuming wheat during the past six months of the campaign. Less than 2 percent of those surveyed had heeded the call. “This rate of switching appears to be low considering the heavy publicity campaign to eat more wheat products,” noted the report. According to the survey, the food consumed for breakfast and tea had a satisfactory amount of wheat, while lunch and dinner meals did not see an increase in wheat products. To get a third of the population consuming a wheat-based meal for lunch and dinner in 10 years would require a much higher increase in the rate of change.36 
+
+By the early 1970s, the “Eat More Wheat” campaign dropped off the radar. In response to a letter to the Straits Times in August 1971 asking what had happened to the campaign, the Health Ministry said that there was no longer a need for the campaign because of the green revolution and the consequent increase in rice yields.37 As rice production increased, rice prices dropped and matched the price of wheat.
+
+Even though the campaign failed to change diets in the three years or so that it ran, in the subsequent decades, the habits and tastebuds of Singaporeans did indeed change. Today, although rice has not been dethroned, people eat wheat-based foods regularly, whether in the shape of a hamburger, a bowl of instant noodles, a plate of pasta or a slice of pizza. 
+
+During the early days of the Covid-19 pandemic, the shortage of flour was certainly felt as evidenced by the queues at baking supply shops. The subsequent pandemic baking trend for making sourdough bread also had its adherents here as well. Thanks to the forces of globalisation, while rice is still nice in Singapore, wheat is definitely also neat.
 
 
 
