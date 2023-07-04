@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/
-      button: "Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the
-        20th Century"
+      url: /podcast/about
+      button: Listen now
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-2-issue-3/hero banner_kaabar.jpg
+      background: /images/Podcast/ba herov7.jpg
+      title: BiblioAsia+
+      subtitle: A New Podcast on Singapore History
+  - infopic:
+      title: Stone Tools in Singapore
+      subtitle: Podcast
+      description: Stone tools have been found in and around Singapore since the late
+        19th century, but much about them remains a mystery.
+      button: Listen to biblioasia+
+      url: /podcast/stone-tools/
+      image: /images/Podcast/edm content for 12 jul (eps 6-7).jpg
+      alt: Stone Tools in Singapore
   - infopic:
       title: From Singapore Dance Theatre to Singapore Ballet
       subtitle: ARTS
@@ -561,14 +571,4 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
-  - infopic:
-      title: Cinema Pioneer Tan Cheng Kee
-      subtitle: People
-      description: The Alhambra and Marlborough theatres were famous landmarks in
-        pre-war Singapore. Barbara Quek looks at these cinemas, and the man
-        behind the curtain.
-      button: Tan and his theatre empire
-      url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
-      image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
-      alt: Cinema Pioneer Tan Cheng Kee
 ---

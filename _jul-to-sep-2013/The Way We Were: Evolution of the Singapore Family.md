@@ -28,7 +28,7 @@ Some former colonial writers have described ethnic families who were early settl
 
 One of the earliest accounts of native families in Singapore relates to Malay royalty in the 17th century. In 1609, Johann Verken, a German officer of the Vereenigde Oost-Indische Compagnie (VOC) from Meissen (Germany) aboard one of the Dutch vessels under Admiral Peter Willemz Verhoeff, related:
 
-"\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing."[^2]
+<center>"\[Raja Bongsu\] was in his appearance and body a well-proportioned person, rather tall, softly spoken, and fair skinned both on his body and his face. He had brought along with him thirty of his wives, which were of different appearances, and dressed in very fine, colourful clothing."[^2]</center>
 
 Demonstrating the existence of polygamous unions of the royal family in the area, the relationship between wealth, power and the means to have big families is established. Furthermore, Raja Bongsu had wives “of different appearances”. This could indicate that they were of different ethnic backgrounds, groups, age or beauty. Apart from being a sign of prestige for the kings, the wives could have been part of exchanges between kingdoms.
 
@@ -43,13 +43,13 @@ With the “civilising mission” as justification for colonialism, the British 
 	
 During this period, the British classified the Malays into two classes, the native and the foreign Malays. This division was more geographical than ethnographical. According to Frank Swettenham in *British Malaya*, the Malays are descendants of people who crossed from the south of India to Sumatra, mixed with a people already inhabiting that island, and gradually spread themselves over the most central and fertile states of Malaya. Foreign Malays came to Malaya from the borders of Kedah, Patani, Kelantan and the Southern Siamese states, including those from the seas – Acehnese, Javanese, Mandalings, Minangkabau, Palembang, Labuan, Borneo and Bugis. The native Malays are the descendants of the old Sumatran colonialists and intermarried with local aborigines and subsequent immigrants. There is an impression that the Malays live as part of the extended family:
 
-"He never fails in respect towards his superiors. He has a proper reverence for constituted authority… His domestic life is almost idyllic. Towards his servants he is considerate and friendly… He is indulgent to his wife, and perhaps even more so to his children, whom he generally spoils. He supports his own relatives through thick and thin, but his sense of charity does not take him beyond the family circle. He is content to live in his own life in the bosom of his family like, a “frog beneath a coconut shell *[katak di bawah tempurung]*." [^7]
+<center>"He never fails in respect towards his superiors. He has a proper reverence for constituted authority… His domestic life is almost idyllic. Towards his servants he is considerate and friendly… He is indulgent to his wife, and perhaps even more so to his children, whom he generally spoils. He supports his own relatives through thick and thin, but his sense of charity does not take him beyond the family circle. He is content to live in his own life in the bosom of his family like, a “frog beneath a coconut shell [*katak di bawah tempurung*]."[^7]</center>
 
 #### **Intermarriages and Population Explosions Due to Immigration**
 
 Many low-ranking British officers who were posted to the Far East could not bring their families or women to the colonies as the colonial government was unwilling to pay for the maintenance of families. Eurasian communities such as Dutch Eurasians, Portuguese Eurasians and British Eurasians emerged as a result of intermarriages between these colonial servants and indigenous women. The Eurasian family type observed by John Turnbull Thomson comprised parents with many children, with servants living as part of the extended family, not different from Malay families.
 
-"The head of the family was of mixed race, but educated in Europe. His wife was of pure British blood, but was reared and educated in India. The husband had children before his marriage by native women; his wife had been married before, and had children by both her husbands. All lived together in great amity in the same house… The family have long settled in the country, held slaves prior to the abolition of slavery in the British dominions. Some of the slaves still clung to the family. One of them, an old woman, began to think of the advantage of creating a connection with her mistress’s family." [^8]
+<center>"The head of the family was of mixed race, but educated in Europe. His wife was of pure British blood, but was reared and educated in India. The husband had children before his marriage by native women; his wife had been married before, and had children by both her husbands. All lived together in great amity in the same house… The family have long settled in the country, held slaves prior to the abolition of slavery in the British dominions. Some of the slaves still clung to the family. One of them, an old woman, began to think of the advantage of creating a connection with her mistress’s family."[^8]</center>
 
 Population began to increase rapidly with the great influx of immigration, despite severe measures adopted by the Dutch to prevent subjects from sailing to Singapore. It was believed that the new arrivals were mostly Malays while the rest were Chinese. It was not until the mid-1830s that the Chinese outnumbered the Malays.[^9] The sex ratios in the Chinese and Indian communities were disproportionate from 1824 to 1860 due to the increase in the number of predominantly male immigrants from China and India.
 
@@ -92,7 +92,7 @@ In the early years of Singapore’s independence, the government was faced with 
 The objective of the Singapore Family Planning and Population Board, formed in 1966, was to exhort families to plan for smaller families. Its campaigns were aimed at less educated and lower-income groups, encouraging them to have only two children so that their offspring would stand a better chance in life.[^23] The benefits of a small family were widely publicised through 35,000 posters and 100,000 leaflets, as well as a range of other publicity efforts.[^24]
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Lauw%20family.jpg">
-<div style="background-color: white;">The Lauw family with their three children buck the trend of one-child families in Singapore. <i>Courtesy of the Lauw family.</i></div> 
+<div style="background-color: white;">The Lauw family with their three children bucked the trend of one-child families in Singapore. <i>Courtesy of the Lauw family.</i></div> 
 
 This anti-natalist stance was taken to encourage more women to join the workforce in order to increase the manpower needed for Singapore’s industrialisation needs. The birth control policies were so effective that the birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965 to 1.7 in 1992.[^25] With the two-child message entrenched, the family programme proceeded to focus its efforts on encouraging wider intervals between each birth, and dissuading young people from early marriage and parenthood.[^26]
 
@@ -122,7 +122,7 @@ In addition, current opposition to Section 377a of the Penal Code, which crimina
 
 We need to develop a clearer sense of how past families actually functioned and what the consequences of family values and behaviours have been. In sum, “Good history and responsible social policy would help people incorporate the full complexity and tradeoffs and family change into their analyses and thus into action. Mythmaking does not accomplish this end.”[^30]
 
-*This article was reviewed by Senior Lecturer Saroja Dorairajoo, Department of Sociology, Faculty of Arts &amp; Social Sciences, National University of Singapore.*
+*This article was reviewed by Senior Lecturer Saroja Dorairajoo, Department of Sociology, Faculty of Arts and Social Sciences, National University of Singapore.*
 
 
 <div>
@@ -231,7 +231,7 @@ Yen, C.H. (1981, March). Early Chinese clan organizations in Singapore and Malay
 
 [^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad), 20 Jul 1972.
 
-[^24]: [*Annual Report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1973, p .49.
+[^24]: [*Annual report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1973, p .49.
 
 [^25]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 33.
 
