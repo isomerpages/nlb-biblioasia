@@ -132,15 +132,15 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^18]: “[Cookery Contest ‘A Gourmet’s Delight’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680806-1.2.109),” *Straits Times*, 6 August 1968, 14. (From NewspaperSG)
 
-[^19]: “Exhibition of Wheat Food Dishes,” *Eastern Sun*, 27 July 1967, 2. (From NewspaperSG)
+[^19]: “[Exhibition of Wheat Food Dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670727-1.2.12.7),” *Eastern Sun*, 27 July 1967, 2. (From NewspaperSG)
 
-[^20]: “‘Eat More Flour Week’ in S’pore Next Month,” *Straits Budget*, 30 August 1967, 13. (From NewspaperSG) 
+[^20]: “[‘Eat More Flour Week’ in S’pore Next Month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670830-1.2.86),” *Straits Budget*, 30 August 1967, 13. (From NewspaperSG) 
 
-[^21]: “PA to Hold Cake-making Exhibition,” *Eastern Sun*, 23 February 1969, 3. (From NewspaperSG)
+[^21]: “[PA to Hold Cake-making Exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19690223-1.2.45),” *Eastern Sun*, 23 February 1969, 3. (From NewspaperSG)
 
-[^22]: “Spend Old Notes for Full Value at Xmas Fair,” *Eastern Sun*, 30 November 1967, 3. (From NewspaperSG)
+[^22]: “[Spend Old Notes for Full Value at Xmas Fair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671130-1.2.8.22),” *Eastern Sun*, 30 November 1967, 3. (From NewspaperSG)
 
-[^23]: “Exhibition of Wheat Food Dishes”; “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
+[^23]: “[Exhibition of Wheat Food Dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670727-1.2.12.7)”; “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
 
 [^24]: Wee Choo Kim, “Petty Officer Chang Takes the Cake,” *Straits Times*, 30 March 1969, 8. (From NewspaperSG)
 
