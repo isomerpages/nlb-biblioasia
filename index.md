@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Podcast/ba herov6.jpg
+      background: /images/Podcast/ba herov7.jpg
       title: BiblioAsia+
       subtitle: A New Podcast on Singapore History
   - infopic:
