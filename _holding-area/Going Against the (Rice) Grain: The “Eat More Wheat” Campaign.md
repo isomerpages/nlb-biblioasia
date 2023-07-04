@@ -7,8 +7,8 @@ description: The call for Singaporeans to switch from eating rice to eating
 #### The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government. 
 By Jacqueline Lee
 
-![](/images)
-<div style="background-color: white;"> Image of Hanuman the monkey god painted on the <i>kodi</i> (flag), which is hoisted on the <i>kodimaram</i> (flag post) during <i>kodiyetram</i> (“hoisting the flag”), 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
+![](/images/Vol%2019%20Issue%203/Wheat/image1.png)
+<div style="background-color: white;">Residents at the wheat food exhibition organised by the Siglap Women’s Association at Siglap Community Centre, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Walk into any suburban shopping mall in Singapore today and you’ll find burger joints, a pizza restaurant or two, shops selling wraps and sandwiches, and numerous Japanese restaurants specialising in udon or ramen. These places are invariably full during lunch or dinner, a testimony to their popularity with regular folks.
 
