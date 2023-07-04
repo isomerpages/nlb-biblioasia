@@ -159,12 +159,15 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 [^31]: Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 5:33, 7:17. (From National Archives of Singapore, accession 
 no. 1998006042)
 
-“Doctors to S’pore Govt: Why Not Seek Our Help?,” Straits Budget, 
-27 November 1968, 5. (From NewspaperSG)
-“‘Eat More Wheat’ Campaign Criticised,” Eastern Sun, 20 December 1967, 10. (From NewspaperSG) 
-“‘Eat More Wheat’ Campaign Criticised.” 
-Henry L. Pau, “Eating More Wheat But Cheaply,” Straits Budget, 
-24 January 1968, 2. (From NewspaperSG)
-“Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey,” Straits Times, 29 August 1968, 11. (From NewspaperSG)
-An Arian, “We’ve Got to Keep All the Campaigns Going,” Straits Times, 
-20 August 1971, 23; “Keep Clean Drive Still On – Ministry,” Straits Times, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
+[^32]: “Doctors to S’pore Govt: Why Not Seek Our Help?,” *Straits Budget*, 27 November 1968, 5. (From NewspaperSG)
+
+[^33]: “‘Eat More Wheat’ Campaign Criticised,” *Eastern Sun*, 20 December 1967, 10. (From NewspaperSG) 
+
+[^34]: “‘Eat More Wheat’ Campaign Criticised.” 
+
+[^35]: Henry L. Pau, “Eating More Wheat But Cheaply,” *Straits Budget*, 24 January 1968, 2. (From NewspaperSG)
+
+[^36]: “Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey,” *Straits Times*, 29 August 1968, 11. (From NewspaperSG)
+
+[^37]: An Arian, “We’ve Got to Keep All the Campaigns Going,” *Straits Times,* 
+20 August 1971, 23; “Keep Clean Drive Still On – Ministry,” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
