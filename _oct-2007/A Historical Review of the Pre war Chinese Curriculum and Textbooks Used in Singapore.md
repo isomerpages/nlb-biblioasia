@@ -64,14 +64,78 @@ Firstly, from the efforts of Khoo, we can see that Chinese education in Singapor
 
 Currently in Singapore, besides private individuals, several institutions are known to have collections of these textbooks used before 1941. These institutions include: the National University of Singapore Chinese Library, Singapore History Museum, Chinese Heritage Centre, Singapore Federation of Chinese Clans Associations and the Lee Kong Chian Reference Library of the National Library, Singapore.
 
-Due to the antiquarian nature of these books, they are generally not available to the public. Nevertheless, these institutions have opened their collection to the public in other ways. For example, in 2003, when the Chinese Heritage Centre received a donation of Chinese-school textbooks, periodicals, school magazines and school publications published between 1912 and 1960s, from an Indonesia-Chinese, Professor Eddy Hermawan,31 the Centre organised an exhibition titled “Grooming Future Generations Through Education: Chinese-School Textbooks in Singapore, Malaysia and Indonesia before 1965”, in 2003. Items from the National Library’s collection and private individuals were also showcased at the exhibition.
+Due to the antiquarian nature of these books, they are generally not available to the public. Nevertheless, these institutions have opened their collection to the public in other ways. For example, in 2003, when the Chinese Heritage Centre received a donation of Chinese-school textbooks, periodicals, school magazines and school publications published between 1912 and 1960s, from an Indonesia-Chinese, Professor Eddy Hermawan,[^31] the Centre organised an exhibition titled “Grooming Future Generations Through Education: Chinese-School Textbooks in Singapore, Malaysia and Indonesia before 1965”, in 2003. Items from the National Library’s collection and private individuals were also showcased at the exhibition.
 
 Since the opening of the Lee Kong Chian Reference Library at Victoria Street in 2005, the Library has received numerous donations, including several hundreds volumes of textbooks. A selection of these textbooks will be displayed at the National Library’s newly created Donors Gallery in appreciation of the generous donations from the various individuals. Opening in November 2007, the Gallery is located at Level 10 of the National Library. These donated materials are available for consultation upon request at the Information Counter located at Level 11. Library patrons may search the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a> using keywords, such as title or subject.
-
-![](/images/Authors/Tong%20Bao%20.jpg)
 
 <br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Tong%20Bao%20.jpg">
 <center><b>Wee Tong Bao</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
+
+#### **NOTES**
+
+[^1]: Straits Settlements, [_Annual Report 1887_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, [_Annual Report 1900_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069) (Singapore: Government Printing Office, 1900), 82. (Microfilm NL1132)
+
+[^2]: Lee, Ting Hui, [_Chinese Schools in British Malaya: Policies and Politics_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648) (Singapore: South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu 许苏吾, _Xinjiapo hua qiao jiao yu quan mao_ [新加坡华侨教育全貌](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332) \[Overview of overseas chinese education in Singapore\] (Xinjiapo 新加坡: \[Zhu zhe\] \[著者\], 1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
+
+[^3]: Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287) (Singapore: Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)
+
+[^4]: Ke Mulin 柯木林, _Xin hua li shi ren wu lie zhuan_ [新华历史人物列传](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628) \[Who’s Who in the Singapore Chinese Community\] (Xinjiapo 新加坡: Jiao yu chu ban gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
+
+[^5]: Song, [_One Hundred Years’ History of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287), 101.
+
+[^6]: Song, [_One Hundred Years’ History of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287), 101.
+
+[^7]: Song, [_One Hundred Years’ History of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287), 101.
+
+[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; _亚__洲文化_ _Asian Culture_ no. 8 (1986): 57.
+
+[^9]: Yeo, 邱锡云和 “钱子文”, 58
+
+[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”, purportedly published in 1899, has not been sighted.
+
+[^11]: Yingxin School Souvenir Magazine, 1938, 5–8.
+
+[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” _Lat Pau_, 17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary, 1.
+
+[^13]: Yoke Eng School’s Souvenir Magazine, 43–44.
+
+[^14]: “An Important Meeting of the Hokkien Merchants, _Lat Pau_, 17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting Held at Thian Hock Temple” _Lat Pau_, &nbsp;26 December 1906, 3; Song, [_One Hundred Years’ History of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287), 407–9.
+
+[^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools, 1941.
+
+[^16]: Jinan University 80th Anniversary Souvenir Magazine, 1988, 44–45.
+
+[^17]: _Straits Settlements Legislative Council Proceedings_, 31 May 1921.
+
+[^18]: _Straits Settlements Government Gazettes_, 29 October 1920, no. 21, sections 10, 11, 18, 19.
+
+[^19]: _Straits Settlements Government Gazettes_, 11 September 1925, no. 15; _Straits Settlements Government Gazettes_, 28 May 1926, no. 5; _Straits Settlements Government Gazettes_, 4 January 1929, no. 4; _Straits Settlements Government Gazettes_, 22 January 1932, no. 132; _Straits Settlements Government Gazettes_, 14 May 1937, no. 40; _Straits Settlements Government Gazettes_, 7 January 1938, no. 40; _Straits Settlements Government Gazettes_, 20 May 1938, no. 1949.
+
+[^20]: Straits Settlements, [_Annual Report 1923_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1923), 121. (Microfilm NL394)
+
+[^21]: Straits Settlements, [_Annual Report 1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1925), 225. (Microfilm NL621)
+
+[^22]: Straits Settlements, [_Annual Report 1927_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1927), 176. (Microfilm NL396)
+
+[^23]: Straits Settlements, [_Annual Report 1928_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1928), 240. (Microfilm NL396)
+
+[^24]: For example, in the Straits Settlements, [_Annual Report 1929_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, [_Annual Report 1930_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, [_Annual Report 1931_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909) (Singapore: Government Printing Office, 1931), 822. (Microfilm NL2921)
+
+[^25]: Example of English and Chinese language readers are: Lim Chong Hsin, _My Book of ABC_, 1930; _New Chinese Language Textbooks_, vol. 2, 1924. (LKCRL collection).
+
+[^26]: LKCRL collection: _Arithmetic Textbook for Nanyang Chinese Primary Schools_, vol 1, 1930; _Arithmetic Textbook for Nanyang Chinese Primary Sch_ools, vol. 8, 1941. &nbsp;
+
+[^27]: Examples of History textbooks are: _History Textbooks for Nanyang Upper Primary Schools_, vols. 1 and 4. Examples of Geography textbooks are: _Geography Textbooks for Nanyang Upper Primary Schools_, vols. 1 and 4, 1941. Note: The last two Geography textbooks are from the Singapore History Museum.
+
+[^28]: Some examples of Abacus and Letter-writing textbooks in the LKCRL collections are: _Abacus for Upper-primary Schools_, vols. 1–4, 1938; Annotated Letter-writing for Students, part 1, 1919; Letter-writing for Lower-primary Nanyang Schools, vols. 7 and 8, 1941; _Letter-writing for Upper -primary Nanyang Schools_, vols. 1 and 2, 1941. &nbsp;
+
+[^29]: LKCRL collection: _General Knowledge Textbook for Nanyang Chinese Primary S_chools, vol. 5, 1935; _Nature Study for Upper-primary Schools_, vol. 2, 1939; _Hygiene Textbook for Kindergarten_, 19uu, 1937.
+
+[^30]: LKCRL collection: _Standard Moral Education Textbook for Malayan Chinese Primary Schools_, vol. 2, 19--; _Beautiful Songs_, vols. 1–6, 1935. Private collection: _Extra-curricular Sports: Track and Field_, 1936. &nbsp;
+
+[^31]: _Chinese Heritage Centre Bulletin_, no. 2 (September 2003), 44–43.
+
+
