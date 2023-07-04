@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /podcast/about
-      button: listen to the new podcast <br>on singapore history
+      button: listen to the new podcast<br>on singapore history
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
