@@ -148,9 +148,9 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^26]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671024-1.2.11.1),” *Eastern Sun*, 24 October 1967, 3; “[Page 5 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671129-1.2.18.1),” *Eastern Sun*, 29 November 1967, 5; “[Page 5 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671123-1.2.18.1),” *Eastern Sun*, 23 November 1967, 5; “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671117-1.2.27.1),” *Eastern Sun*, 17 November 1967, 3; “[Page 5 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671111-1.2.19.2),” *Eastern Sun*, 11 November 1967, 5. (From NewspaperSG)
 
-[^27]: Pereira, “The Best Thing About Wheat Is Variety.”
+[^27]: Pereira, “[The Best Thing About Wheat Is Variety](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670820-1.2.27.1).”
 
-[^28]: Pereira, “The Best Thing About Wheat Is Variety.”
+[^28]: Pereira, “[The Best Thing About Wheat Is Variety](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670820-1.2.27.1).”
 
 [^29]: “Flour v. Rice,” *Straits Times*, 9 September 1967, 6. (From NewspaperSG)
 
