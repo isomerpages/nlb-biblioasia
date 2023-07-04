@@ -66,6 +66,9 @@ Students were also inculcated with general knowledge about the world they lived 
 
 Besides the textbooks above, there were also textbooks that instilled values to mould and shape one’s character. Moral Education, Art and Music were taught in schools too.[^30] In Moral Education, values that were perpetuated in the Confucian texts such as respect to the elders, good behaviour, cherish public property, care for another person and other similar subject matters were taught. Art and music lessons were held to teach students how to appreciate fine arts and music. Students also learned teamwork and keeping good health through sports.
 
+<img src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%208.JPG" style="width:50%;">
+ <div style="background-color: white;"> <i>The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools). (1941). Distributed by Chung Hwa Book Co. (Singapore).</i></div>
+
 While it appears that the modern Chinese education before 1941 had retained certain cultural and moral values of the old tradition, by and large, from the curriculum and textbooks used in the schools, we can deduce that Chinese education in Singapore had evolved into a modern form. Besides the influences from the changes and practices in China and in the English schools, some Chinese in Singapore had also taken the lead themselves, just as Khoo had shown the way.
 
 #### **Conclusion: Sources and Location**
