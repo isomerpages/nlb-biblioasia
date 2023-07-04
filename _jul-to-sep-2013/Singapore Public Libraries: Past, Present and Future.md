@@ -124,7 +124,7 @@ From 2012, public libraries also made available a free loan service for iPads, K
 Children using iPads available aboard Molly.
 </div>
 
-#### **“The only thing that is constant is change.” — Heraclitus**
+##### <center>**“The only thing that is constant is change.” <br>— Heraclitus**
 
 Library spaces will transform even more in the future due to changes in the way people access and share information. This inescapable fact has led to the next phase of development in public libraries that is being conceptualised in a new plan – the Library 2025 Plan. The need for this is based on factors such the completion of the implementation of the Library 2000 plan in 2014, changing user needs and technological changes, as well as a projected increase in Singapore’s population by 2025.
 
@@ -170,4 +170,4 @@ Tan, J., &amp; Taha, L. (2013). Icons of learning: The Redesign of the Modern Li
 
 [^2]: Tan and Taha. Icons of learning. _[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)_, Vol 9 Iss 1; also Caron, D.J., 2012.
 
-[^3]: Lim, J, 2013.</center>
+[^3]: Lim, J, 2013.</center></center>
