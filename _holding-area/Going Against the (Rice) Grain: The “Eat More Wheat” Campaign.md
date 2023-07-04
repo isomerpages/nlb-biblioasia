@@ -116,7 +116,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^10]: Ministry of Social Affairs, “[Eat More Wheat Campaign](https://www.nas.gov.sg/archivesonline/government_records/record-details/999a3048-1159-11e3-83d5-0050568939ad),” 145.
 
-[^11]: Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
+[^11]: Ministry of Social Affairs, “[Eat More Wheat Campaign](https://www.nas.gov.sg/archivesonline/government_records/record-details/999a3048-1159-11e3-83d5-0050568939ad),” 145.
 
 [^12]: “Cooking With Wheat: Radio, TV Contest for Housewives,” *Straits Times*, 24 August 1967, 6; “Dy P.M. Happy Over Eat More Wheat Drive,” *Eastern Sun*, 18 October 1967, 11. (From NewspaperSG)
 
