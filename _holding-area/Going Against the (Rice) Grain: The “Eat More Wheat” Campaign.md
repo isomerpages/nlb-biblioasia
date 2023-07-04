@@ -105,7 +105,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2018%20Issue%203/Authors/jacqueline_lee.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/jacqueline_lee.png" style="width: 100px; height: 100px;">
 	<b>Jacqueline Lee</b> is a Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.</div>
 
 #### **NOTES**
