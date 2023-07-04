@@ -159,11 +159,11 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 [^31]: Radio Singapura, “[Background No. 1: Why Wheat](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/51f11ddb-1164-11e3-83d5-0050568939ad),” 29 March 1968, sound, 5:33, 7:17. (From National Archives of Singapore, accession 
 no. 1998006042)
 
-[^32]: “Doctors to S’pore Govt: Why Not Seek Our Help?,” *Straits Budget*, 27 November 1968, 5. (From NewspaperSG)
+[^32]: “[Doctors to S’pore Govt: Why Not Seek Our Help?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19681127-1.2.21),” *Straits Budget*, 27 November 1968, 5. (From NewspaperSG)
 
-[^33]: “‘Eat More Wheat’ Campaign Criticised,” *Eastern Sun*, 20 December 1967, 10. (From NewspaperSG) 
+[^33]: “[‘Eat More Wheat’ Campaign Criticised](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671220-1.2.31.4),” *Eastern Sun*, 20 December 1967, 10. (From NewspaperSG) 
 
-[^34]: “‘Eat More Wheat’ Campaign Criticised.” 
+[^34]: “[‘Eat More Wheat’ Campaign Criticised](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671220-1.2.31.4).” 
 
 [^35]: Henry L. Pau, “Eating More Wheat But Cheaply,” *Straits Budget*, 24 January 1968, 2. (From NewspaperSG)
 
