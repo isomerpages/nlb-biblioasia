@@ -104,9 +104,9 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^4]: “Chinese Chamber Backs ‘Eat More Wheat Campaign’.” 
 
-[^5]: “How To Save $22m – By Dr. Goh,” *Straits Budget*, 13 September 1967, 19. (From NewspaperSG)
+[^5]: “[How To Save $22m – By Dr. Goh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670913-1.2.138),” *Straits Budget*, 13 September 1967, 19. (From NewspaperSG)
 
-[^6]: “Eat Less Rice, More Flour, Urges Dr. Toh,” *Straits Budget*, 5 July 1967, 7. (From NewspaperSG)
+[^6]: “[Eat Less Rice, More Flour, Urges Dr. Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670705-1.2.25),” *Straits Budget*, 5 July 1967, 7. (From NewspaperSG)
 
 [^7]: “NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign”; “Start ‘Eat Less Rice’ Campaign Plea by NTUC,” *Straits Budget*, 5 July 1967, 10. (From NewspaperSG)
 
