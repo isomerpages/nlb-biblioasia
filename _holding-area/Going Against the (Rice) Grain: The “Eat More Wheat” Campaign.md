@@ -108,7 +108,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^6]: “[Eat Less Rice, More Flour, Urges Dr. Toh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670705-1.2.25),” *Straits Budget*, 5 July 1967, 7. (From NewspaperSG)
 
-[^7]: “NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign”; “Start ‘Eat Less Rice’ Campaign Plea by NTUC,” *Straits Budget*, 5 July 1967, 10. (From NewspaperSG)
+[^7]: “[NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670627-1.2.10.1)”; “[Start ‘Eat Less Rice’ Campaign Plea by NTUC](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670705-1.2.51),” *Straits Budget*, 5 July 1967, 10. (From NewspaperSG)
 
 [^8]: “Medics in Full Support of Eating More Wheat,” *Eastern Sun*, 1 November 1967, 10. (From NewspaperSG)
 
