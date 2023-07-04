@@ -92,7 +92,7 @@ In the early years of Singapore’s independence, the government was faced with 
 The objective of the Singapore Family Planning and Population Board, formed in 1966, was to exhort families to plan for smaller families. Its campaigns were aimed at less educated and lower-income groups, encouraging them to have only two children so that their offspring would stand a better chance in life.[^23] The benefits of a small family were widely publicised through 35,000 posters and 100,000 leaflets, as well as a range of other publicity efforts.[^24]
 
 <img style="width: 80%;" src="/images/Vol%209%20Issue%202/Singapore%20family/Lauw%20family.jpg">
-<div style="background-color: white;">The Lauw family with their three children buck the trend of one-child families in Singapore. <i>Courtesy of the Lauw family.</i></div> 
+<div style="background-color: white;">The Lauw family with their three children bucked the trend of one-child families in Singapore. <i>Courtesy of the Lauw family.</i></div> 
 
 This anti-natalist stance was taken to encourage more women to join the workforce in order to increase the manpower needed for Singapore’s industrialisation needs. The birth control policies were so effective that the birth rate declined from 6.55 births per woman in 1947 to 4.62 in 1965 to 1.7 in 1992.[^25] With the two-child message entrenched, the family programme proceeded to focus its efforts on encouraging wider intervals between each birth, and dissuading young people from early marriage and parenthood.[^26]
 
@@ -122,7 +122,7 @@ In addition, current opposition to Section 377a of the Penal Code, which crimina
 
 We need to develop a clearer sense of how past families actually functioned and what the consequences of family values and behaviours have been. In sum, “Good history and responsible social policy would help people incorporate the full complexity and tradeoffs and family change into their analyses and thus into action. Mythmaking does not accomplish this end.”[^30]
 
-*This article was reviewed by Senior Lecturer Saroja Dorairajoo, Department of Sociology, Faculty of Arts &amp; Social Sciences, National University of Singapore.*
+*This article was reviewed by Senior Lecturer Saroja Dorairajoo, Department of Sociology, Faculty of Arts and Social Sciences, National University of Singapore.*
 
 
 <div>
@@ -231,7 +231,7 @@ Yen, C.H. (1981, March). Early Chinese clan organizations in Singapore and Malay
 
 [^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad), 20 Jul 1972.
 
-[^24]: [*Annual Report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1973, p .49.
+[^24]: [*Annual report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4360679), 1973, p .49.
 
 [^25]: [Lyons](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008), 2004, p. 33.
 
