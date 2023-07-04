@@ -122,7 +122,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^13]: “[Wheat Flour Dishes: The Winners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671018-1.2.22),” *Straits Times*, 18 October 1967, 4. (From NewspaperSG)
 
-[^14]: “Cooking Contest: 900 Wheat Recipes Received,” *Eastern Sun*, 6 February 1968, 13. (From NewspaperSG)
+[^14]: “[Cooking Contest: 900 Wheat Recipes Received](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19680206-1.2.18.38),” *Eastern Sun*, 6 February 1968, 13. (From NewspaperSG)
 
 [^15]: Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
 
