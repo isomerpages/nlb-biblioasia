@@ -140,7 +140,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^22]: “[Spend Old Notes for Full Value at Xmas Fair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671130-1.2.8.22),” *Eastern Sun*, 30 November 1967, 3. (From NewspaperSG)
 
-[^23]: “[Exhibition of Wheat Food Dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670727-1.2.12.7)”; “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
+[^23]: “[Exhibition of Wheat Food Dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670727-1.2.12.7)”; “[Minister: Wheat Diet Doubly Advantageous](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670813-1.2.11.13),” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
 
 [^24]: Wee Choo Kim, “Petty Officer Chang Takes the Cake,” *Straits Times*, 30 March 1969, 8. (From NewspaperSG)
 
