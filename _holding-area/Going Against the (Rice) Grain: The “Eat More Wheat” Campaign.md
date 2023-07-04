@@ -124,9 +124,9 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^14]: “[Cooking Contest: 900 Wheat Recipes Received](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19680206-1.2.18.38),” *Eastern Sun*, 6 February 1968, 13. (From NewspaperSG)
 
-[^15]: Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
+[^15]: Radio Singapura, “[Background No. 1: Why Wheat](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/51f11ddb-1164-11e3-83d5-0050568939ad),” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
 
-[^16]: Radio Singapura, “Background No. 1: Why Wheat,” 18:45.
+[^16]: Radio Singapura, “[Background No. 1: Why Wheat](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/51f11ddb-1164-11e3-83d5-0050568939ad),” 18:45.
 
 [^17]: RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
 
