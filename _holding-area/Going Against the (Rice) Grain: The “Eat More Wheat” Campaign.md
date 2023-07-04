@@ -100,8 +100,10 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^2]: Marianne Pereira, “The Best Thing About Wheat Is Variety,” *Eastern Sun*, 20 August 1967, 11. (From NewspaperSG)
 
-“NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign,” Eastern Sun, 27 June 1967, 2; Chinese Chamber Backs ‘Eat More Wheat Campaign’,” Eastern Sun, 29 August 1967, 10; “P.S.A’s Eat More Wheat Campaign,” Eastern Sun, 27 September 1967, 11. (From NewspaperSG)
-“Chinese Chamber Backs ‘Eat More Wheat Campaign’.” 
+[^3]: “NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign,” *Eastern Sun*, 27 June 1967, 2; Chinese Chamber Backs ‘Eat More Wheat Campaign’,” *Eastern Sun*, 29 August 1967, 10; “P.S.A’s Eat More Wheat Campaign,” *Eastern Sun*, 27 September 1967, 11. (From NewspaperSG)
+
+[^4]: “Chinese Chamber Backs ‘Eat More Wheat Campaign’.” 
+
 “How To Save $22m – By Dr. Goh,” Straits Budget, 13 September 1967, 19. (From NewspaperSG)
 “Eat Less Rice, More Flour, Urges Dr. Toh,” Straits Budget, 5 July 1967, 7. (From NewspaperSG)
 “NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign”; “Start ‘Eat Less Rice’ Campaign Plea by NTUC,” Straits Budget, 5 July 1967, 10. (From NewspaperSG)
