@@ -167,7 +167,7 @@ no. 1998006042)
 
 [^35]: Henry L. Pau, “[Eating More Wheat But Cheaply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19680124-1.2.3.4),” *Straits Budget*, 24 January 1968, 2. (From NewspaperSG)
 
-[^36]: “Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey,” *Straits Times*, 29 August 1968, 11. (From NewspaperSG)
+[^36]: “[Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680829-1.2.83),” *Straits Times*, 29 August 1968, 11. (From NewspaperSG)
 
-[^37]: An Arian, “We’ve Got to Keep All the Campaigns Going,” *Straits Times,* 
-20 August 1971, 23; “Keep Clean Drive Still On – Ministry,” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
+[^37]: An Arian, “[We’ve Got to Keep All the Campaigns Going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710820-1.2.130.3),” *Straits Times,* 
+20 August 1971, 23; “[Keep Clean Drive Still On – Ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710821-1.2.41),” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
