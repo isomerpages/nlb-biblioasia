@@ -112,7 +112,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^8]: “[Medics in Full Support of Eating More Wheat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671101-1.2.14.26),” *Eastern Sun*, 1 November 1967, 10. (From NewspaperSG)
 
-[^9]: Ministry of Social Affairs, “Eat More Wheat Campaign,” 1967–1971, government record, 100, 152, 166. (From National Archives of Singapore, microfilm no. MSA 2353)
+[^9]: Ministry of Social Affairs, “[Eat More Wheat Campaign](https://www.nas.gov.sg/archivesonline/government_records/record-details/999a3048-1159-11e3-83d5-0050568939ad),” 1967–1971, government record, 100, 152, 166. (From National Archives of Singapore, microfilm no. MSA 2353)
 
 [^10]: Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
 
