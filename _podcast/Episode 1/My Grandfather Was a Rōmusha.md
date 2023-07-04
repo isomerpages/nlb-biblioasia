@@ -32,3 +32,5 @@ Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Jap
 
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shirlene Noordin and her family for sharing their story.
+
+BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.

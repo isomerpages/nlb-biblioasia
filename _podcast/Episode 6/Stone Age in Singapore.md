@@ -6,14 +6,12 @@ description: Stone tools have been found in and around Singapore since the late
   and archaeologist Foo Shu Tieng.
 third_nav_title: Episode 6
 ---
-### Coming on 4 July
-
 Stone tools have been found in and around Singapore since the late 19th century, but much about them remains a mystery, according to librarian and archaeologist Foo Shu Tieng.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/X5d-u_1Mk8Q" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
+Available on [Spotify](https://open.spotify.com/episode/4HQaaXkCjvSGtOBeoh7m2v), [Apple Podcasts](https://podcasts.apple.com/us/podcast/stone-age-in-singapore/id1688142751?i=1000619152656), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MGQ0OGNlM2UtOWExMi00ZjI2LTlmYTUtMGU2ODgzNjg2NGQ3?sa=X&amp;ved=0CAUQkfYCahcKEwiA993t6vP_AhUAAAAAHQAAAAAQAQ), and wherever you listen.
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
@@ -33,4 +31,6 @@ Michael Gurven and Kim Hill, “Why Do Women Hunt? A Reevaluation of ‘Man the 
 
 
 #### **Credits** ####
-This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shu for coming on the show.
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shu Tieng for coming on the show.
+
+BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.

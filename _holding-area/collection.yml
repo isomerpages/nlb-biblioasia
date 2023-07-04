@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - A Grand Piano's Chequered History.md
       - Test page.md

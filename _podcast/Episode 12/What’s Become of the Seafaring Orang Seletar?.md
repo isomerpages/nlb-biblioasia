@@ -24,28 +24,15 @@ Ilya Katrinnada is an educator and writer with a keen interest in the intersecti
 #### **Resources** ####
 Ilya Katrinnada, “[The Orang Seletar: Rowing Across Changing Tides](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides),” *BiblioAsia* 18, no. 1 (2022).
 
- 
-
 Mazelan Anuar, “[Orang Laut](https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html),” Singapore Infopedia, published March 2020, National Library Board.
-
- 
 
 Isa Kamari, [*Rawa*](https://eservice.nlb.gov.sg/item_holding.aspx?id=200156800) (Kuala Lumpur: Silverfish Books, 2013). (From National Library, Singapore, Call no. RSING 899.283 ISA)
 
- 
+Clifford Sather, [*The Orang Laut*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12247857) (n.p.: Academy of Social Sciences in cooperation with Universiti Sains Malaysia, Royal Netherlands Government, 1999). (From National Library, Singapore, Call no. RSEA 306.08095951 SAT) 
 
-Clifford Sather, [*The Orang Laut*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12247857) (n.p.: Academy of Social Sciences in cooperation with Universiti Sains Malaysia, Royal Netherlands Government, 1999). (From National Library, Singapore, Call no. RSEA 306.08095951 SAT)
-
- 
-
-Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in [*Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11113017), ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI)
-
- 
-
- 
-
- 
+Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in [*Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11113017), ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI) 
 
 #### **Credits** ####
-
 This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Ilya for coming on the show.
+
+BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.

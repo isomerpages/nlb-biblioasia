@@ -14,7 +14,7 @@ description: More than just repositories of knowledge, libraries are spaces of
 	
 We live in times of unprecedented and rapid change – in technology, politics, economics and other spheres – which has profoundly impacted all aspects of society, including libraries.
 	
-Because of the current transformations underway, and because of their impact on libraries, my theme as the president of the International Federation of Library Associations and Institutions (IFLA) is *Libraries – A Force for Change*. It incorporates four key principles: inclusion, transformation, innovation and convergence.
+Because of the current transformations underway, and because of their impact on libraries, my theme as the president of the International Federation of Library Associations and Institutions (IFLA) is "Libraries – A Force for Change". It incorporates four key principles: inclusion, transformation, innovation and convergence.
 	
 First, we must remain inclusive – *serving, and serving all* – without judgement, prejudice or bias. By democratising access to information, libraries can empower individuals to learn freely, improve their lives and create new knowledge.
 	
@@ -106,23 +106,23 @@ As my IFLA presidency comes to an end, I believe there is a very positive future
 	
 #### **REFERENCES**
 
-Contenta, S. (2013, April 8). “Beppe Grillo: How Italy’s ‘euphoric’ revolutionary is shaking up Europe”. Retrieved from the star website.  
+Contenta, S. (2013, April 8). “Beppe Grillo: How Italy’s ‘euphoric’ revolutionary is shaking up Europe”. Retrieved from The Star website.  
 
 Drexhage, G. (2013, January 23). “UNESCO declaration focuses on digital assets”. Retrieved from UBC Library. 
 
-IFLA. (2013). “IFLA Principles for Library eLending”. Retrieved 29 April, 2013 from IFLA org. 
+IFLA. (2013). “IFLA Principles for Library eLending”. Retrieved from IFLA.org. 
 
-IFLA. (2013). “Trend Report”. Retrieved from IFLA org. 
+IFLA. (2013). “Trend Report”. Retrieved from IFLA.org. 
 
-IFLA WLIC. (2013). 79th IFLA General Conference and Assembly in Singapore. Retrieved from IFLA org. 
+IFLA WLIC. (2013). 79th IFLA General Conference and Assembly in Singapore. Retrieved from IFLA.org. 
 
-OECD. (2013). “The knowledge-based economy”. Retrieved from OECD org.  
+OECD. (2013). “The knowledge-based economy”. Retrieved from OECD.org.  
 
-World Economic Forum. (2012). “The Global Information Technology Report 2012”. Retrieved from weforum. org. 
+World Economic Forum. (2012). “The Global Information Technology Report 2012”. Retrieved from weforum.org. 
 
 #### **NOTES**
    
- [^1]: OECD, “Science and Technology Policy: The knowledge-based economy.”
+ [^1]: OECD, “Science and technology policy: The knowledge-based economy.”
 
 [^2]: World Economic Forum, “The Global Information Technology Report 2012.”
 
@@ -132,6 +132,6 @@ World Economic Forum. (2012). “The Global Information Technology Report 2012�
 
 [^5]: IFLA, 2013.
 
-[^6]: IFLA WILC, 2013.
+[^6]: IFLA WLIC, 2013.
 
 [^7]: IFLA, 2013, “Trend Report”.
