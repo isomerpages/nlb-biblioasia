@@ -104,13 +104,19 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^4]: “Chinese Chamber Backs ‘Eat More Wheat Campaign’.” 
 
-“How To Save $22m – By Dr. Goh,” Straits Budget, 13 September 1967, 19. (From NewspaperSG)
-“Eat Less Rice, More Flour, Urges Dr. Toh,” Straits Budget, 5 July 1967, 7. (From NewspaperSG)
-“NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign”; “Start ‘Eat Less Rice’ Campaign Plea by NTUC,” Straits Budget, 5 July 1967, 10. (From NewspaperSG)
-“Medics in Full Support of Eating More Wheat,” Eastern Sun, 1 November 1967, 10. (From NewspaperSG)
-Ministry of Social Affairs, “Eat More Wheat Campaign,” 1967–1971, government record, 100, 152, 166. (From National Archives of Singapore, microfilm no. MSA 2353)
-Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
-Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
+[^5]: “How To Save $22m – By Dr. Goh,” *Straits Budget*, 13 September 1967, 19. (From NewspaperSG)
+
+[^6]: “Eat Less Rice, More Flour, Urges Dr. Toh,” *Straits Budget*, 5 July 1967, 7. (From NewspaperSG)
+
+[^7]: “NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign”; “Start ‘Eat Less Rice’ Campaign Plea by NTUC,” *Straits Budget*, 5 July 1967, 10. (From NewspaperSG)
+
+[^8]: “Medics in Full Support of Eating More Wheat,” *Eastern Sun*, 1 November 1967, 10. (From NewspaperSG)
+
+[^9]: Ministry of Social Affairs, “Eat More Wheat Campaign,” 1967–1971, government record, 100, 152, 166. (From National Archives of Singapore, microfilm no. MSA 2353)
+
+[^10]: Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
+
+[^11]: Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
 “Cooking With Wheat: Radio, TV Contest for Housewives,” Straits Times, 24 August 1967, 6; “Dy P.M. Happy Over Eat More Wheat Drive,” Eastern Sun, 18 October 1967, 11. (From NewspaperSG)
 “Wheat Flour Dishes: The Winners,” Straits Times, 18 October 1967, 4. (From NewspaperSG)
 “Cooking Contest: 900 Wheat Recipes Received,” Eastern Sun, 6 February 1968, 13. (From NewspaperSG)
