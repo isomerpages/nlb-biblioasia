@@ -183,5 +183,4 @@ no. 1998006042)
 
 [^36]: “[Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680829-1.2.83),” *Straits Times*, 29 August 1968, 11. (From NewspaperSG)
 
-[^37]: An Arian, “[We’ve Got to Keep All the Campaigns Going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710820-1.2.130.3),” *Straits Times,* 
-20 August 1971, 23; “[Keep Clean Drive Still On – Ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710821-1.2.41),” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
+[^37]: An Arian, “[We’ve Got to Keep All the Campaigns Going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710820-1.2.130.3),” *Straits Times,* 20 August 1971, 23; “[Keep Clean Drive Still On – Ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710821-1.2.41),” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
