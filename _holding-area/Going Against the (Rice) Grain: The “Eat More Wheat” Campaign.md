@@ -130,7 +130,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^17]: RTS Enterprises (Singapore), “[*The Proof Is in the Eating” Recipe Book*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029) (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
 
-[^18]: “Cookery Contest ‘A Gourmet’s Delight’,” *Straits Times*, 6 August 1968, 14. (From NewspaperSG)
+[^18]: “[Cookery Contest ‘A Gourmet’s Delight’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680806-1.2.109),” *Straits Times*, 6 August 1968, 14. (From NewspaperSG)
 
 [^19]: “Exhibition of Wheat Food Dishes,” *Eastern Sun*, 27 July 1967, 2. (From NewspaperSG)
 
