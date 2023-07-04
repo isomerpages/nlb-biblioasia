@@ -38,6 +38,38 @@ Using more wheat in prisons and welfare homes would not make much of a dent in r
 
 The message to the public – targeted mainly at housewives as most people ate at home – was that wheat was a better choice than rice due to its nutritional benefits and lower cost. The public promotion comprised exhibitions, cooking competitions and pop-up booths at events. 
 
+Among the biggest events were two nationwide wheat cooking competitions organised by Radio and Television Singapura, which attracted more than 2,000 participants. The competitions encouraged contestants to submit quick and economical recipes (with ingredients costing no more than $3 for the first competition and $2 for the second) using wheat flour as the main ingredient for breakfast, lunch and dinner. The recipes could be for Chinese, Malay, Indian or Western cuisine.12  
+
+For the finals of the first competition held at the Singapore Conference Hall on 17 October 1967, 10 contestants were chosen from each category and made to cook their dishes for the judges who would then determine the winners. The first prize winners were domestic science teacher Mrs Theresa Teow for Malayan savoury pancakes (Malay), Mr G.P. Ponnusamy, a cook, for wheat uppumaa (Indian), Mrs Rita Fernando, also a domestic science teacher, for stuffed fried dough balls (Chinese) and housewife Mrs Clara Anciano for basic hot cake (Western).13
+
+The finals of the second competition took place at the Singapore Badminton Hall on 25 February 1968.14 When interviewed for a radio programme, first prize winner of the Malay section Fatimah Wahab, a pre-university student, said: “Cooking is my favourite so after following last year’s cooking competition, I decided to participate in this year’s.” The reporter who tasted her roti udang described it as “nice, rich, golden brown” and “delicious”.15  
+
+The first prize winner of the Western section was domestic science teacher Mary Robinson, co-author of two textbooks on cooking and a dietician who relocated to Singapore more than a decade earlier. Her chilli pizza dish cost $1.68 to feed five to six people and was described as very economical. Interestingly, she noted that the eating habits of Singaporeans had changed during the time she had been in Singapore. “When I first came, when I asked a class who would eat cheese, maybe one girl would like it. Now when I ask the same question, usually I would find that the whole class, 20 girls, say, oh yes, they eat and like it, and eat it regularly. So you see, in 15 years there’s been a tremendous change in that one aspect.”16 
+
+Subsequently, 120 winning entries from the two cooking competitions were compiled into a cookbook titled “The Proof Is in the Eating” Recipe Book, which was sold to the public at $1.17 The recipes were printed in English, Chinese, Malay and Tamil. 
+
+There were also cooking competitions in schools organised by the Ministry of Education,18 a wheat food exhibition by the Siglap Women’s Association,19 an “Eat More Flour” week by the Singapore Food Manufacturers’ Association,20 a cake-making competition and exhibition by the People’s Association,21 and a Christmas Fair where wheat products were sold.22  
+
+At the wheat food exhibition, an array of Chinese, Indian, Pakistani and European dishes made from wheat flour and other ingredients were on display and for tasting. Speaking at its opening in August 1967, Culture and Social Affairs Minister Othman Wok stressed that the worldwide shortage of rice was not the only reason the government was encouraging the switch to wheat. “It is common knowledge that wheat and wheat products are more health-giving than rice, although not all realise that wheat and wheat products are also cheaper than rice,” he said.23  
+
+Three men literally “took the cake” at the cake-making competition on 30 March 1969 and swept the top three prizes. Petty Officer Chang Heng Wan, who won the first prize, had worked as a cook in the Admiralty House at the Naval Base for 19 years.24 (Sadly, the newspaper report did not mention the type of cake he had baked.)
+
+The “Eat More Wheat” campaign included a partnership with two local flour mills – Prima Limited and Khong Guan Flour Milling Limited – which footed the bill for the radio and TV advertisements.25 These advertisements focused on the versatility of wheat flour that could be used to make “the right food at any time for any occasion” and “healthy food good for young and old alike”.26  
+
+The media also threw in their support. Marianne Pereira of the Eastern Sun hatched a cunning plan for a housewife to get her husband and family interested in wheat-based meals. “It is up to us women to see that more wheat is eaten,” she wrote. “At the dining table serve your husband with rice but serve yourself with something out of wheat and eat it with smacking relish. Curiosity it is said is the start of all adventure. And your husband’s curiosity will lead him to ask, ‘What is that, can I have some?’”27 According to Pereira, this was likely to lead to the husband asking for that dish the next night. 
+
+She said women should also highlight the advantages of eating wheat. “Subtly also point out that wheat is more economical than rice. Point out to the family paunches (subtly too) and announce that wheat is slimming. Point out that wheat is beneficial to health.”28
+
+#### **The Campaign Fizzles Out**
+
+Unfortunately, despite these efforts, the campaign appeared to make little headway. The Straits Times described the campaign as “a direct assault on basic habits” that would “almost certainly fail while a more subtle approach would well speed up the trend to flour which is already noticeably under way”, adding that “people to whom ‘rice’ and ‘food’ are synonymous will not be easily persuaded to abandon ‘rice’”.29
+The paper questioned if wheat was truly cheaper than rice, as wheat products were less palatable and had to be supplemented with other ingredients. Furthermore, the paper noted, wheat products required more time and preparation than rice, which could simply be boiled.30
+Members of the public interviewed in March 1968 by Radio Singapura expressed difficulty in 
+substituting rice for wheat. A man said: “It’s just like asking us to give up smoking. It just isn’t possible.” Another man said: “In preparing wheat for food, it will take the housewife a much longer time. And in rice, it has been the eating of the people for generations. So as to say that wheat can take the position of rice, I am quite doubtful unless the eating habit of the people can change, which I do agree, but it will take time.”31 
+The Singapore Medical Association criticised the government for not involving doctors who could have helped explain why wheat was better for health. “The campaign would have been a greater success if the medical profession had been alerted to the need for their participation,” said the association. “It is impossible to expect a few jingles over the air with one’s morning coffee to bring about a social revolution in the eating habits of the majority of the people in Singapore.”32   
+In Parliament in December 1967, Member of Parliament for Aljunied S.V. Lingam questioned the campaign’s target audience. “To whom are we to beam this campaign to? To the rich or to the poor?” he demanded to know. “[T]he campaign seems to me to be directed at the rich who ironically are already consumers of wheat and who could afford to pay for rice at ten times its present price.”33
+
+
 
 
 
