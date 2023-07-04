@@ -63,10 +63,14 @@ She said women should also highlight the advantages of eating wheat. “Subtly a
 #### **The Campaign Fizzles Out**
 
 Unfortunately, despite these efforts, the campaign appeared to make little headway. The Straits Times described the campaign as “a direct assault on basic habits” that would “almost certainly fail while a more subtle approach would well speed up the trend to flour which is already noticeably under way”, adding that “people to whom ‘rice’ and ‘food’ are synonymous will not be easily persuaded to abandon ‘rice’”.29
+
 The paper questioned if wheat was truly cheaper than rice, as wheat products were less palatable and had to be supplemented with other ingredients. Furthermore, the paper noted, wheat products required more time and preparation than rice, which could simply be boiled.30
+
 Members of the public interviewed in March 1968 by Radio Singapura expressed difficulty in 
 substituting rice for wheat. A man said: “It’s just like asking us to give up smoking. It just isn’t possible.” Another man said: “In preparing wheat for food, it will take the housewife a much longer time. And in rice, it has been the eating of the people for generations. So as to say that wheat can take the position of rice, I am quite doubtful unless the eating habit of the people can change, which I do agree, but it will take time.”31 
+
 The Singapore Medical Association criticised the government for not involving doctors who could have helped explain why wheat was better for health. “The campaign would have been a greater success if the medical profession had been alerted to the need for their participation,” said the association. “It is impossible to expect a few jingles over the air with one’s morning coffee to bring about a social revolution in the eating habits of the majority of the people in Singapore.”32   
+
 In Parliament in December 1967, Member of Parliament for Aljunied S.V. Lingam questioned the campaign’s target audience. “To whom are we to beam this campaign to? To the rich or to the poor?” he demanded to know. “[T]he campaign seems to me to be directed at the rich who ironically are already consumers of wheat and who could afford to pay for rice at ten times its present price.”33
 
 
