@@ -144,7 +144,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^24]: Wee Choo Kim, “[Petty Officer Chang Takes the Cake](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690330-1.2.16.10),” *Straits Times*, 30 March 1969, 8. (From NewspaperSG)
 
-[^25]: Ministry of Culture, “Eat More Wheat Campaign,” 82.
+[^25]: Ministry of Culture, “[Eat More Wheat Campaign](https://www.nas.gov.sg/archivesonline/government_records/record-details/a03d75f3-2bb8-11e8-a2a9-001a4a5ba61b),” 82.
 
 [^26]: “Page 3 Advertisements Column 1,” *Eastern Sun*, 24 October 1967, 3; “Page 5 Advertisements Column 1,” *Eastern Sun*, 29 November 1967, 5; “Page 5 Advertisements Column 1,” *Eastern Sun*, 23 November 1967, 5; “Page 3 Advertisements Column 1,” *Eastern Sun*, 17 November 1967, 3; “Page 5 Advertisements Column 2,” *Eastern Sun*, 11 November 1967, 5. (From NewspaperSG)
 
