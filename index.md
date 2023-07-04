@@ -10,12 +10,14 @@ notification: ""
 sections:
   - hero:
       url: /podcast/about
-      button: listen to the new podcast<br>on singapore history
+      button: Listen now
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Podcast/ba herov4.jpg
+      background: /images/Podcast/ba herov5.jpg
+      title: BiblioAsia+
+      subtitle: A New Podcast on Singapore History
   - infopic:
       title: From Singapore Dance Theatre to Singapore Ballet
       subtitle: ARTS
