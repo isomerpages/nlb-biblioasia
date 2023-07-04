@@ -14,9 +14,9 @@ Walk into any suburban shopping mall in Singapore today and you’ll find burger
 
 However, it’s only been relatively recently that people here have gotten used to eating these foods. A little over 50 years ago, few people would be seen wolfing down a juicy cheeseburger or a tuna mayo sandwich for lunch. Slurping down a bowl of ramen, twirling al dente spaghetti around a fork or holding up a pizza slice would have been viewed as exotic and alien. Back then, most people were used to eating their lunch and dinner with rice. An effort by the Singapore government to get people to consume more of their daily dose of carbs from wheat rather than rice flopped because people vastly preferred eating white rice over bread or wheat-based noodles.
 
-The “Eat More Wheat” campaign began in 1967 during a time when there was a global rice shortage. The campaign promoted wheat products in place of rice in the daily diet of Singaporeans.1 However, many people found it difficult to make the switch. As a reporter with the *Eastern Sun* newspaper noted, rice-eating was a “centuries old habit” and “we have been rice eaters since as far back as we can remember”.2
+The “Eat More Wheat” campaign began in 1967 during a time when there was a global rice shortage. The campaign promoted wheat products in place of rice in the daily diet of Singaporeans.[^1] However, many people found it difficult to make the switch. As a reporter with the *Eastern Sun* newspaper noted, rice-eating was a “centuries old habit” and “we have been rice eaters since as far back as we can remember”.[^2]
 
-Despite a big push by the government, and support from organisations such as the National Trades Union Congress (NTUC) and Singapore Chinese Chamber of Commerce, the “Eat More Wheat” campaign was, by most accounts, unsuccessful, and eventually fizzled out by around 1970.3 
+Despite a big push by the government, and support from organisations such as the National Trades Union Congress (NTUC) and Singapore Chinese Chamber of Commerce, the “Eat More Wheat” campaign was, by most accounts, unsuccessful, and eventually fizzled out by around 1970.[^3]
 
 #### **Germination of the Campaign**
 
