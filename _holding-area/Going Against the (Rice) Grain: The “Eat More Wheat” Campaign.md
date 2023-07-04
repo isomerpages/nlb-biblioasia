@@ -51,6 +51,9 @@ The first prize winner of the Western section was domestic science teacher Mary 
 
 Subsequently, 120 winning entries from the two cooking competitions were compiled into a cookbook titled *“The Proof Is in the Eating” Recipe Book*, which was sold to the public at $1.[^17] The recipes were printed in English, Chinese, Malay and Tamil. 
 
+![](/images/Vol%2019%20Issue%203/Wheat/image5.png)
+<div style="background-color: white;">The recipe for “Wheat Burger Ring” by Mrs Mariana Munir. <i>Image reproduced from RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969), 123. (From National Library, Singapore, call no. RCLOS 641.6311 RTS).</i></div>
+
 There were also cooking competitions in schools organised by the Ministry of Education,[^18] a wheat food exhibition by the Siglap Women’s Association,[^19] an “Eat More Flour” week by the Singapore Food Manufacturers’ Association,[^20] a cake-making competition and exhibition by the People’s Association,[^21] and a Christmas Fair where wheat products were sold.[^22]
 
 At the wheat food exhibition, an array of Chinese, Indian, Pakistani and European dishes made from wheat flour and other ingredients were on display and for tasting. Speaking at its opening in August 1967, Culture and Social Affairs Minister Othman Wok stressed that the worldwide shortage of rice was not the only reason the government was encouraging the switch to wheat. “It is common knowledge that wheat and wheat products are more health-giving than rice, although not all realise that wheat and wheat products are also cheaper than rice,” he said.[^23]
@@ -95,7 +98,6 @@ By the early 1970s, the “Eat More Wheat” campaign dropped off the radar. In 
 Even though the campaign failed to change diets in the three years or so that it ran, in the subsequent decades, the habits and tastebuds of Singaporeans did indeed change. Today, although rice has not been dethroned, people eat wheat-based foods regularly, whether in the shape of a hamburger, a bowl of instant noodles, a plate of pasta or a slice of pizza. 
 
 During the early days of the Covid-19 pandemic, the shortage of flour was certainly felt as evidenced by the queues at baking supply shops. The subsequent pandemic baking trend for making sourdough bread also had its adherents here as well. Thanks to the forces of globalisation, while rice is still nice in Singapore, wheat is definitely also neat.
-
 
 
 <div style="background-color: white;">
