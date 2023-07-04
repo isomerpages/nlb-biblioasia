@@ -92,8 +92,48 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%2018%20Issue%203/Authors/.png" style="width: 100px; height: 100px;">
-	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is the founder of Antāti, a historical research and museum consultancy.</div>
+	<b>Jacqueline Lee</b> is a Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.</div>
 
 #### **NOTES**
 
-[^1]: "[The Hindoo Religious Ceremony]
+[^1]: “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
+Marianne Pereira, “The Best Thing About Wheat Is Variety,” Eastern Sun, 20 August 1967, 11. (From NewspaperSG)
+“NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign,” Eastern Sun, 27 June 1967, 2; Chinese Chamber Backs ‘Eat More Wheat Campaign’,” Eastern Sun, 29 August 1967, 10; “P.S.A’s Eat More Wheat Campaign,” Eastern Sun, 27 September 1967, 11. (From NewspaperSG)
+“Chinese Chamber Backs ‘Eat More Wheat Campaign’.” 
+“How To Save $22m – By Dr. Goh,” Straits Budget, 13 September 1967, 19. (From NewspaperSG)
+“Eat Less Rice, More Flour, Urges Dr. Toh,” Straits Budget, 5 July 1967, 7. (From NewspaperSG)
+“NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign”; “Start ‘Eat Less Rice’ Campaign Plea by NTUC,” Straits Budget, 5 July 1967, 10. (From NewspaperSG)
+“Medics in Full Support of Eating More Wheat,” Eastern Sun, 1 November 1967, 10. (From NewspaperSG)
+Ministry of Social Affairs, “Eat More Wheat Campaign,” 1967–1971, government record, 100, 152, 166. (From National Archives of Singapore, microfilm no. MSA 2353)
+Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
+Ministry of Social Affairs, “Eat More Wheat Campaign,” 145.
+“Cooking With Wheat: Radio, TV Contest for Housewives,” Straits Times, 24 August 1967, 6; “Dy P.M. Happy Over Eat More Wheat Drive,” Eastern Sun, 18 October 1967, 11. (From NewspaperSG)
+“Wheat Flour Dishes: The Winners,” Straits Times, 18 October 1967, 4. (From NewspaperSG)
+“Cooking Contest: 900 Wheat Recipes Received,” Eastern Sun, 6 February 1968, 13. (From NewspaperSG)
+Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
+Radio Singapura, “Background No. 1: Why Wheat,” 18:45.
+RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
+“Cookery Contest ‘A Gourmet’s Delight’,” Straits Times, 6 August 1968, 14. (From NewspaperSG)
+“Exhibition of Wheat Food Dishes,” Eastern Sun, 27 July 1967, 2. (From NewspaperSG)
+“‘Eat More Flour Week’ in S’pore Next Month,” Straits Budget, 30 August 1967, 13. (From NewspaperSG) 
+“PA to Hold Cake-making Exhibition,” Eastern Sun, 23 February 1969, 3. (From NewspaperSG)
+“Spend Old Notes for Full Value at Xmas Fair,” Eastern Sun, 30 November 1967, 3. (From NewspaperSG)
+“Exhibition of Wheat Food Dishes”; “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
+Wee Choo Kim, “Petty Officer Chang Takes the Cake,” Straits Times, 30 March 1969, 8. (From NewspaperSG)
+Ministry of Culture, “Eat More Wheat Campaign,” 82.
+“Page 3 Advertisements Column 1,” Eastern Sun, 24 October 1967, 3; “Page 5 Advertisements Column 1,” Eastern Sun, 29 November 1967, 5; “Page 5 Advertisements Column 1,” Eastern Sun, 23 November 1967, 5; “Page 3 Advertisements Column 1,” Eastern Sun, 17 November 1967, 3; “Page 5 Advertisements Column 2,” Eastern Sun, 11 November 1967, 5. (From NewspaperSG)
+Pereira, “The Best Thing About Wheat Is Variety.”
+Pereira, “The Best Thing About Wheat Is Variety.”
+“Flour v. Rice,” Straits Times, 9 September 1967, 6. (From NewspaperSG)
+“Flour v. Rice.”
+Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 5:33, 7:17. (From National Archives of Singapore, accession 
+no. 1998006042)
+“Doctors to S’pore Govt: Why Not Seek Our Help?,” Straits Budget, 
+27 November 1968, 5. (From NewspaperSG)
+“‘Eat More Wheat’ Campaign Criticised,” Eastern Sun, 20 December 1967, 10. (From NewspaperSG) 
+“‘Eat More Wheat’ Campaign Criticised.” 
+Henry L. Pau, “Eating More Wheat But Cheaply,” Straits Budget, 
+24 January 1968, 2. (From NewspaperSG)
+“Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey,” Straits Times, 29 August 1968, 11. (From NewspaperSG)
+An Arian, “We’ve Got to Keep All the Campaigns Going,” Straits Times, 
+20 August 1971, 23; “Keep Clean Drive Still On – Ministry,” Straits Times, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.] 
