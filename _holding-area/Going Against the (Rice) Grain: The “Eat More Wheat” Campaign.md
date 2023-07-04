@@ -52,6 +52,9 @@ There were also cooking competitions in schools organised by the Ministry of Edu
 
 At the wheat food exhibition, an array of Chinese, Indian, Pakistani and European dishes made from wheat flour and other ingredients were on display and for tasting. Speaking at its opening in August 1967, Culture and Social Affairs Minister Othman Wok stressed that the worldwide shortage of rice was not the only reason the government was encouraging the switch to wheat. “It is common knowledge that wheat and wheat products are more health-giving than rice, although not all realise that wheat and wheat products are also cheaper than rice,” he said.[^23]
 
+![](/images/Vol%2019%20Issue%203/Wheat/image3.png)
+<div style="background-color: white;">Minister for Culture and Social Affairs Othman Wok (far left) at the opening of the wheat food exhibition organised by the Siglap Women’s Association at Siglap Community Centre, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Three men literally “took the cake” at the cake-making competition on 30 March 1969 and swept the top three prizes. Petty Officer Chang Heng Wan, who won the first prize, had worked as a cook in the Admiralty House at the Naval Base for 19 years.[^24] (Sadly, the newspaper report did not mention the type of cake he had baked.)
 
 The “Eat More Wheat” campaign included a partnership with two local flour mills – Prima Limited and Khong Guan Flour Milling Limited – which footed the bill for the radio and TV advertisements.[^25] These advertisements focused on the versatility of wheat flour that could be used to make “the right food at any time for any occasion” and “healthy food good for young and old alike”.[^26]
