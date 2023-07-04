@@ -1,6 +1,6 @@
 ---
 title: "Men in Blue: A History of the Singapore Police Force"
-date: 2015-10-01T00:00:00.000Z
+date: 2015-10-01
 permalink: /vol-11/issue-3/oct-dec-2015/blue/
 breadcrumb: "Men in Blue"
 third_nav_title: "Men in Blue: A History of the Singapore Police Force"
