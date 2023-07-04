@@ -74,6 +74,9 @@ substituting rice for wheat. A man said: “It’s just like asking us to give u
 
 The Singapore Medical Association criticised the government for not involving doctors who could have helped explain why wheat was better for health. “The campaign would have been a greater success if the medical profession had been alerted to the need for their participation,” said the association. “It is impossible to expect a few jingles over the air with one’s morning coffee to bring about a social revolution in the eating habits of the majority of the people in Singapore.”[^32]
 
+![](/images/Vol%2019%20Issue%203/Wheat/image2.png)
+<div style="background-color: white;">To reach out to the masses, advertisements with catchy slogans depict different races enjoying wheat products. <i>Image reproduced from “Page 5 Advertisements Column 2,” Eastern Sun, 11 November 1967, 5. (From NewspaperSG). /i&gt;</i></div><i>
+
 In Parliament in December 1967, Member of Parliament for Aljunied S.V. Lingam questioned the campaign’s target audience. “To whom are we to beam this campaign to? To the rich or to the poor?” he demanded to know. “[T]he campaign seems to me to be directed at the rich who ironically are already consumers of wheat and who could afford to pay for rice at ten times its present price.”[^33]
 
 He said the campaign was misguided in telling poor people to save money by eating wheat, as they would spend more money on meat, eggs and supplementary ingredients. He also commented that the cooking competition’s limit of $3 of ingredients for one meal was too generous, as poor families budgeted $3 for an entire day of meals. “Does the Minister [of State for Culture Lee Khoon Choy] sincerely believe that the poor can afford this?” he asked.[^34]
@@ -173,4 +176,4 @@ no. 1998006042)
 [^36]: “[Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680829-1.2.83),” *Straits Times*, 29 August 1968, 11. (From NewspaperSG)
 
 [^37]: An Arian, “[We’ve Got to Keep All the Campaigns Going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710820-1.2.130.3),” *Straits Times,* 
-20 August 1971, 23; “[Keep Clean Drive Still On – Ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710821-1.2.41),” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]
+20 August 1971, 23; “[Keep Clean Drive Still On – Ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710821-1.2.41),” *Straits Times*, 21 August 1971, 5. (From NewspaperSG). [Note: The “green revolution” in Asia refers to the cultivation of high-yield rice varieties and the adoption of agricultural processes like chemical fertilisers and mechanisation.]</i>
