@@ -56,13 +56,13 @@ Three men literally “took the cake” at the cake-making competition on 30 Mar
 
 The “Eat More Wheat” campaign included a partnership with two local flour mills – Prima Limited and Khong Guan Flour Milling Limited – which footed the bill for the radio and TV advertisements.25 These advertisements focused on the versatility of wheat flour that could be used to make “the right food at any time for any occasion” and “healthy food good for young and old alike”.26  
 
-The media also threw in their support. Marianne Pereira of the Eastern Sun hatched a cunning plan for a housewife to get her husband and family interested in wheat-based meals. “It is up to us women to see that more wheat is eaten,” she wrote. “At the dining table serve your husband with rice but serve yourself with something out of wheat and eat it with smacking relish. Curiosity it is said is the start of all adventure. And your husband’s curiosity will lead him to ask, ‘What is that, can I have some?’”27 According to Pereira, this was likely to lead to the husband asking for that dish the next night. 
+The media also threw in their support. Marianne Pereira of the *Eastern Sun* hatched a cunning plan for a housewife to get her husband and family interested in wheat-based meals. “It is up to us women to see that more wheat is eaten,” she wrote. “At the dining table serve your husband with rice but serve yourself with something out of wheat and eat it with smacking relish. Curiosity it is said is the start of all adventure. And your husband’s curiosity will lead him to ask, ‘What is that, can I have some?’”27 According to Pereira, this was likely to lead to the husband asking for that dish the next night. 
 
 She said women should also highlight the advantages of eating wheat. “Subtly also point out that wheat is more economical than rice. Point out to the family paunches (subtly too) and announce that wheat is slimming. Point out that wheat is beneficial to health.”28
 
 #### **The Campaign Fizzles Out**
 
-Unfortunately, despite these efforts, the campaign appeared to make little headway. The Straits Times described the campaign as “a direct assault on basic habits” that would “almost certainly fail while a more subtle approach would well speed up the trend to flour which is already noticeably under way”, adding that “people to whom ‘rice’ and ‘food’ are synonymous will not be easily persuaded to abandon ‘rice’”.29
+Unfortunately, despite these efforts, the campaign appeared to make little headway. The *Straits Times* described the campaign as “a direct assault on basic habits” that would “almost certainly fail while a more subtle approach would well speed up the trend to flour which is already noticeably under way”, adding that “people to whom ‘rice’ and ‘food’ are synonymous will not be easily persuaded to abandon ‘rice’”.29
 
 The paper questioned if wheat was truly cheaper than rice, as wheat products were less palatable and had to be supplemented with other ingredients. Furthermore, the paper noted, wheat products required more time and preparation than rice, which could simply be boiled.30
 
