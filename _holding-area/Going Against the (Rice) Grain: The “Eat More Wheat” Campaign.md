@@ -120,7 +120,8 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^12]: “Cooking With Wheat: Radio, TV Contest for Housewives,” *Straits Times*, 24 August 1967, 6; “Dy P.M. Happy Over Eat More Wheat Drive,” *Eastern Sun*, 18 October 1967, 11. (From NewspaperSG)
 
-“Wheat Flour Dishes: The Winners,” Straits Times, 18 October 1967, 4. (From NewspaperSG)
+[^13]: “Wheat Flour Dishes: The Winners,” *Straits Times*, 18 October 1967, 4. (From NewspaperSG)
+
 “Cooking Contest: 900 Wheat Recipes Received,” Eastern Sun, 6 February 1968, 13. (From NewspaperSG)
 Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
 Radio Singapura, “Background No. 1: Why Wheat,” 18:45.
