@@ -152,9 +152,9 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^28]: Pereira, “[The Best Thing About Wheat Is Variety](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670820-1.2.27.1).”
 
-[^29]: “Flour v. Rice,” *Straits Times*, 9 September 1967, 6. (From NewspaperSG)
+[^29]: “[Flour v. Rice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670909-1.2.32),” *Straits Times*, 9 September 1967, 6. (From NewspaperSG)
 
-[^30]: “Flour v. Rice.”
+[^30]: “[Flour v. Rice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670909-1.2.32).”
 
 [^31]: Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 5:33, 7:17. (From National Archives of Singapore, accession 
 no. 1998006042)
