@@ -9,14 +9,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/
-      button: "Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the
-        20th Century"
+      url: /podcast/about
+      button: a podcast on singapore history
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-2-issue-3/hero banner_kaabar.jpg
   - infopic:
       title: From Singapore Dance Theatre to Singapore Ballet
       subtitle: ARTS
