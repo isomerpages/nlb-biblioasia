@@ -75,7 +75,7 @@ In Parliament in December 1967, Member of Parliament for Aljunied S.V. Lingam qu
 
 He said the campaign was misguided in telling poor people to save money by eating wheat, as they would spend more money on meat, eggs and supplementary ingredients. He also commented that the cooking competition’s limit of $3 of ingredients for one meal was too generous, as poor families budgeted $3 for an entire day of meals. “Does the Minister [of State for Culture Lee Khoon Choy] sincerely believe that the poor can afford this?” he asked.34
 
-Straits Budget reporter Henry L. Pau described the campaign as “pretty futile”. “The wheat foods advocated are neither new nor particularly cheap, and the people are already eating as much of them as they can afford or can stomach.” He added that it was “more costly to the housewife – 48 cents a kati of rice, 80 cents the equivalent quantity of bread”.35
+*Straits Budget* reporter Henry L. Pau described the campaign as “pretty futile”. “The wheat foods advocated are neither new nor particularly cheap, and the people are already eating as much of them as they can afford or can stomach.” He added that it was “more costly to the housewife – 48 cents a kati of rice, 80 cents the equivalent quantity of bread”.35
 
 #### **Rice Reigns**
 
