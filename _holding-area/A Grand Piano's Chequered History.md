@@ -143,7 +143,7 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 
 #### **Notes**
 
-[^1]: “[France’s Day Fete](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180719-1.2.56),” _Singapore Free Press and Mercantile Advertiser_, 19 July 1918, 10; “[Poppy Day Dance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19291115-1.2.34),” _Malaya Tribune_, 15 November 1929, 9. (From NewspaperSG)
+[^1]: “[France’s Day Fete](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180719-1.2.56),” _Singapore Free Press and Mercantile Advertiser_, 19 July 1918, 10; “[Poppy Day Dance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19291115-1.2.34),” _Malaya Tribune_, 15 November 1929, 8. (From NewspaperSG)
 
 [^2]: “[Municipal Action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300909-1.2.73),” _Malaya Tribune_, 9 September 1930, 10. (From NewspaperSG)
 
@@ -211,7 +211,7 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 
 [^34]: “[That Piano Finds a Friend of Truly Great Ability At Last](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570104-1.2.95),” _Straits Times_, 4 January 1957, 7. (From NewspaperSG)
 
-[^35]: “[That ‘Frying Pan of a Piano’ Is on Way Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19570131-1.2.48),” _Straits Times_, 25 January 1957, 10. (From NewspaperSG)
+[^35]: “[That ‘Frying Pan of a Piano’ Is on Way Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19570131-1.2.48),” _Straits Times_, 31 January 1957, 10. (From NewspaperSG)
 
 [^36]: “[That ‘Frying Pan of a Piano’ Is on Way Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19570131-1.2.48).”
 
