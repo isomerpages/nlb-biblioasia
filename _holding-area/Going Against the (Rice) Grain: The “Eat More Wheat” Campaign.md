@@ -122,25 +122,43 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^13]: “Wheat Flour Dishes: The Winners,” *Straits Times*, 18 October 1967, 4. (From NewspaperSG)
 
-“Cooking Contest: 900 Wheat Recipes Received,” Eastern Sun, 6 February 1968, 13. (From NewspaperSG)
-Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
-Radio Singapura, “Background No. 1: Why Wheat,” 18:45.
-RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
-“Cookery Contest ‘A Gourmet’s Delight’,” Straits Times, 6 August 1968, 14. (From NewspaperSG)
-“Exhibition of Wheat Food Dishes,” Eastern Sun, 27 July 1967, 2. (From NewspaperSG)
-“‘Eat More Flour Week’ in S’pore Next Month,” Straits Budget, 30 August 1967, 13. (From NewspaperSG) 
-“PA to Hold Cake-making Exhibition,” Eastern Sun, 23 February 1969, 3. (From NewspaperSG)
-“Spend Old Notes for Full Value at Xmas Fair,” Eastern Sun, 30 November 1967, 3. (From NewspaperSG)
-“Exhibition of Wheat Food Dishes”; “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
-Wee Choo Kim, “Petty Officer Chang Takes the Cake,” Straits Times, 30 March 1969, 8. (From NewspaperSG)
-Ministry of Culture, “Eat More Wheat Campaign,” 82.
-“Page 3 Advertisements Column 1,” Eastern Sun, 24 October 1967, 3; “Page 5 Advertisements Column 1,” Eastern Sun, 29 November 1967, 5; “Page 5 Advertisements Column 1,” Eastern Sun, 23 November 1967, 5; “Page 3 Advertisements Column 1,” Eastern Sun, 17 November 1967, 3; “Page 5 Advertisements Column 2,” Eastern Sun, 11 November 1967, 5. (From NewspaperSG)
-Pereira, “The Best Thing About Wheat Is Variety.”
-Pereira, “The Best Thing About Wheat Is Variety.”
-“Flour v. Rice,” Straits Times, 9 September 1967, 6. (From NewspaperSG)
-“Flour v. Rice.”
-Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 5:33, 7:17. (From National Archives of Singapore, accession 
+[^14]: “Cooking Contest: 900 Wheat Recipes Received,” *Eastern Sun*, 6 February 1968, 13. (From NewspaperSG)
+
+[^15]: Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 14:40, 14:49. (From National Archives of Singapore, accession no. 1998006042)
+
+[^16]: Radio Singapura, “Background No. 1: Why Wheat,” 18:45.
+
+[^17]: RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
+
+[^18]: “Cookery Contest ‘A Gourmet’s Delight’,” *Straits Times*, 6 August 1968, 14. (From NewspaperSG)
+
+[^19]: “Exhibition of Wheat Food Dishes,” *Eastern Sun*, 27 July 1967, 2. (From NewspaperSG)
+
+[^20]: “‘Eat More Flour Week’ in S’pore Next Month,” *Straits Budget*, 30 August 1967, 13. (From NewspaperSG) 
+
+[^21]: “PA to Hold Cake-making Exhibition,” *Eastern Sun*, 23 February 1969, 3. (From NewspaperSG)
+
+[^22]: “Spend Old Notes for Full Value at Xmas Fair,” *Eastern Sun*, 30 November 1967, 3. (From NewspaperSG)
+
+[^23]: “Exhibition of Wheat Food Dishes”; “Minister: Wheat Diet Doubly Advantageous,” Eastern Sun, 13 August 1967, 3. (From NewspaperSG)
+
+[^24]: Wee Choo Kim, “Petty Officer Chang Takes the Cake,” *Straits Times*, 30 March 1969, 8. (From NewspaperSG)
+
+[^25]: Ministry of Culture, “Eat More Wheat Campaign,” 82.
+
+[^26]: “Page 3 Advertisements Column 1,” *Eastern Sun*, 24 October 1967, 3; “Page 5 Advertisements Column 1,” *Eastern Sun*, 29 November 1967, 5; “Page 5 Advertisements Column 1,” *Eastern Sun*, 23 November 1967, 5; “Page 3 Advertisements Column 1,” *Eastern Sun*, 17 November 1967, 3; “Page 5 Advertisements Column 2,” *Eastern Sun*, 11 November 1967, 5. (From NewspaperSG)
+
+[^27]: Pereira, “The Best Thing About Wheat Is Variety.”
+
+[^28]: Pereira, “The Best Thing About Wheat Is Variety.”
+
+[^29]: “Flour v. Rice,” *Straits Times*, 9 September 1967, 6. (From NewspaperSG)
+
+[^30]: “Flour v. Rice.”
+
+[^31]: Radio Singapura, “Background No. 1: Why Wheat,” 29 March 1968, sound, 5:33, 7:17. (From National Archives of Singapore, accession 
 no. 1998006042)
+
 “Doctors to S’pore Govt: Why Not Seek Our Help?,” Straits Budget, 
 27 November 1968, 5. (From NewspaperSG)
 “‘Eat More Wheat’ Campaign Criticised,” Eastern Sun, 20 December 1967, 10. (From NewspaperSG) 
