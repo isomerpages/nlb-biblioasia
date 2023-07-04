@@ -8,7 +8,7 @@ description: Studies on the education of overseas Chinese communities have often
   events and factors, a more exact picture of the Chinese modern education in
   Singapore could be discerned.
 ---
- #### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
+#### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
 
 #### **Introduction**
 
@@ -67,7 +67,3 @@ Currently in Singapore, besides private individuals, several institutions are kn
 Due to the antiquarian nature of these books, they are generally not available to the public. Nevertheless, these institutions have opened their collection to the public in other ways. For example, in 2003, when the Chinese Heritage Centre received a donation of Chinese-school textbooks, periodicals, school magazines and school publications published between 1912 and 1960s, from an Indonesia-Chinese, Professor Eddy Hermawan,31 the Centre organised an exhibition titled “Grooming Future Generations Through Education: Chinese-School Textbooks in Singapore, Malaysia and Indonesia before 1965”, in 2003. Items from the National Library’s collection and private individuals were also showcased at the exhibition.
 
 Since the opening of the Lee Kong Chian Reference Library at Victoria Street in 2005, the Library has received numerous donations, including several hundreds volumes of textbooks. A selection of these textbooks will be displayed at the National Library’s newly created Donors Gallery in appreciation of the generous donations from the various individuals. Opening in November 2007, the Gallery is located at Level 10 of the National Library. These donated materials are available for consultation upon request at the Information Counter located at Level 11. Library patrons may search the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a> using keywords, such as title or subject.
-
-
-
-
