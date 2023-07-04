@@ -10,6 +10,9 @@ description: Studies on the education of overseas Chinese communities have often
 ---
 #### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
 
+<img src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%201.JPG" style="width:50%;">
+ <div style="background-color: white;"><i>Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+
 #### **Introduction**
 
 The Chinese society of Singapore in the 19th century was by and large, a transient community, comprising mostly Chinese immigrants from China. The majority of Chinese immigrants were males who had come to “Nanyang” in search of employment or to trade. Many of them left their families in China or eventually returned to China when they earned enough. With the lifting of the ban on general emigration by the Qing government in 1893, the number of Chinese immigrants increased significantly. Some of them brought their families along. In the year 1901 alone, 8,060 female immigrants arrived in Singapore. It was also towards this time that local Chinese births doubled from 1,076 to 2,203 between 1887 and 1900.[^1] This was not merely a quantitative change within the Chinese community. With the increase in the number of females and children in the community, there were also fundamental changes in the nature of the community. The newly formed family units brought about an increasing need for social institutions, including schools for their children.
@@ -137,5 +140,3 @@ Since the opening of the Lee Kong Chian Reference Library at Victoria Street in 
 [^30]: LKCRL collection: _Standard Moral Education Textbook for Malayan Chinese Primary Schools_, vol. 2, 19--; _Beautiful Songs_, vols. 1–6, 1935. Private collection: _Extra-curricular Sports: Track and Field_, 1936. &nbsp;
 
 [^31]: _Chinese Heritage Centre Bulletin_, no. 2 (September 2003), 44–43.
-
-
