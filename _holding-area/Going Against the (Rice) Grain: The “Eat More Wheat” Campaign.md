@@ -165,7 +165,7 @@ no. 1998006042)
 
 [^34]: “[‘Eat More Wheat’ Campaign Criticised](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671220-1.2.31.4).” 
 
-[^35]: Henry L. Pau, “Eating More Wheat But Cheaply,” *Straits Budget*, 24 January 1968, 2. (From NewspaperSG)
+[^35]: Henry L. Pau, “[Eating More Wheat But Cheaply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19680124-1.2.3.4),” *Straits Budget*, 24 January 1968, 2. (From NewspaperSG)
 
 [^36]: “Rice Eaters Won’t Desert the Bowl, Says a Wheat Survey,” *Straits Times*, 29 August 1968, 11. (From NewspaperSG)
 
