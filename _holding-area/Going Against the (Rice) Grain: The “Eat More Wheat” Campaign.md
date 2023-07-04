@@ -96,9 +96,9 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 #### **NOTES**
 
-[^1]: “Minister: Wheat Diet Doubly Advantageous,” *Eastern Sun*, 13 August 1967, 3. (From NewspaperSG)
+[^1]: “[Minister: Wheat Diet Doubly Advantageous](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670813-1.2.11.13),” *Eastern Sun*, 13 August 1967, 3. (From NewspaperSG)
 
-[^2]: Marianne Pereira, “The Best Thing About Wheat Is Variety,” *Eastern Sun*, 20 August 1967, 11. (From NewspaperSG)
+[^2]: Marianne Pereira, “[The Best Thing About Wheat Is Variety](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19670820-1.2.27.1),” *Eastern Sun*, 20 August 1967, 11. (From NewspaperSG)
 
 [^3]: “NTUC Pledges Full Support To ‘Eat More Wheat’ Campaign,” *Eastern Sun*, 27 June 1967, 2; Chinese Chamber Backs ‘Eat More Wheat Campaign’,” *Eastern Sun*, 29 August 1967, 10; “P.S.A’s Eat More Wheat Campaign,” *Eastern Sun*, 27 September 1967, 11. (From NewspaperSG)
 
