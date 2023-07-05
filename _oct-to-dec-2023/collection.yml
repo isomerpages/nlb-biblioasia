@@ -2,5 +2,6 @@ collections:
   oct-to-dec-2023:
     output: true
     order:
+      - A Grand Piano's Chequered History.md
       - "A Well  Choreographed Move: From Singapore Dance Theatre to Singapore
         Ballet.md"
