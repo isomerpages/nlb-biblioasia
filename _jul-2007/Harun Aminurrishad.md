@@ -66,6 +66,16 @@ Novel pertamanya "*Melor Kuala Lumpur*" ditulis dalam tulisan Jawi setebal 110 m
 
 Selepas kegagalan buku pertamanya ini, Harun telah memberhentikan kegiatan penulisannya sementara waktu kerana beliau telah dipindakan ke Brunei untuk menyandang jawatan baru yang lebih mencabar sebagai Penguasa Pelajaran di sana.
 
-Sekembalinya ke Singapura selepas Perang Dunia II, beliau lebi h serius semula dalam bidang penulisan kerana penulisan merupakan satu sumber pencarian untuk menampung kehidupan keluarga beliau.
+Sekembalinya ke Singapura selepas Perang Dunia II, beliau lebih serius semula dalam bidang penulisan kerana penulisan merupakan satu sumber pencarian untuk menampung kehidupan keluarga beliau.
 
 #### **Karya Harun Sebagai Karya Sejarah**
+
+Sejarawan Malaysia, Cheah Boon Keng pernah mengatakan dalam rencana akhbar nya bahawa "*What Walter Scott is to English Literature", Harun is to Malay Literature*"8, kerana Harun seringkali menyentuh isu nasionaisma Melayu dalam hasil karyanya seperti Wak Cantok, Panglima Awang, Wan Darus, Tun Mandak dan Sultan Mahmud.
+
+Harun dianggap berjaya menerapkan sejarah kedalam karyanya dengan menjelmakan watak-watak yang terdapat dalam peristiwa itu sendiri seperti dalam cerita "*Panglima Awang*". Tujuan Harun mengemukakan karyanya kerana "... tertarik hati kepada dua buah karangan pendek yang isinya hampir sama dengan sebuah akhbar yang disiarkan dalam Bahasa Inggeris dan sebuah lagi didalam Bahasa Indonesia beberapa tahun yang lalu. Kedua-dua karangan ini menceritakan sudut sejarah dunia yang berlaku di atas tanahair kita pada abad ke 16. Mengikut pengakuan kedua-dua buah karangan itu, adalah orang yang pertama mengelilingi dunia ialah 'orang Melayu' Melaka iaitu dalam abad ke 16 ketika selepas orang Portugis datang menyerang dan penaklukan negeri Melaka dari tangan kerajaan Melayu Melaka".9 
+
+Mengikut karangan Barat itu, Alfonso's de' Aibuquerque yang menjadi ketua orang Portugis telah menjual seorang Melayu yang menjadi tawanan kepada Kapitan bernama Fernando de Magalhes atau pun Magellan, orang yang pertama cuba mengelilingi dunia dengan kapal layar dengan penuh kepercayaan bahawa dunia itu bulat.
+
+Orang yang dijual itu memasuki agama Kristian dan diberi mama Enrique. Beliaulah orang Melayu yang pertama mengelilingi dunia mengikuti pelayaran Magellan. Setakat ini, tidak diketahui siapa sebenamya Enrique. Kemungkinan, oleh kerana tipu helah penjajah Portugis dan Sepanyol, nama asal Enrique tidak dicatatkan dengan niat untuk menghapuskan nama orang Melayu. Di antara lain, karya itu juga mengatakan bahawa: "Magellan ketika sampai di Pulau Cebu (Filipina) telah matt terbunuh dl Pulau Mactan ketika hendak menundukkan raja Pulau Mactan yang memberontak melawan Raja Pulau Cebu iaitu sahabut Magellan. Ketika Magellan matt Enrique yang (Sera parah dapat meneruskan pelayarannya ke Melaka. lath Jelaslah Enrique ialah orang yang pertama dapat mengelilingi dunia bukan Magellan. '10 
+
+
