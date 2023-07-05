@@ -1,6 +1,6 @@
 ---
 title: A Grand Piano's Chequered History
-permalink: /holding-area/test-piano/
+permalink: /vol-19/issue-3/oct-dec-2023/piano/
 description: A grand piano that was to be the pride of Singapore failed to
   silence its critics. The odds, however, were always against it.
 ---
@@ -134,7 +134,7 @@ In 1983, the Chappell was moved to the Bukit Merah Branch Library (later renamed
 <br>
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/interior%20of%20chappell%20piano.png)
 <div style="background-color: white;">
-Zhivko Girginov, who holds a Bachelor’s Degree in Musical Pedagogy and Piano Performance at the Academy of Music and Dance Art Plovdiv, Bulgaria, carrying out repair and reconditioning works on the Chappell at the National Library Building, 2023. <i>Photo by Jimmy Yap.</i></div>
+Zhivko Girginov, who holds a Bachelor’s Degree in Musical Pedagogy and Piano Performance at the Academy of Music and Dance Art Plovdiv, Bulgaria, carrying out repair and reconditioning works on the Chappell at the National Library Building, 2023. <i>Photos by Woo Pei Qi.</i></div>
 
 The Chappell is currently being repaired and retuned. After it has been given a new lease of life, anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. As a public piano, the venerable and much-maligned Chappell may have finally found its true calling. 
 

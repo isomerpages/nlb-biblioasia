@@ -1,6 +1,6 @@
 ---
 title: "Wartime Propaganda: The Battle for Minds and Hearts"
-date: 2015-10-01T00:00:00.000Z
+date: 2015-10-01
 permalink: /vol-11/issue-3/oct-dec-2015/wartime/
 breadcrumb: "Wartime Propaganda: The Battle for Minds and Hearts"
 third_nav_title: "Wartime Propaganda: The Battle for Minds and Hearts"

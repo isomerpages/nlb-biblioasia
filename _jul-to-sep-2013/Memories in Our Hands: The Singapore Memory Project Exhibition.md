@@ -25,15 +25,16 @@ Where are memories kept? Memory by its nature is “mortal, linked to the brain 
 <div style="background-color: white;">
 Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.</i></div>
 
+
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
-&gt; Knowledge and remembering \[are\] in the hands and in the body. — Paul Connerton[^6]
+##### <center>**Knowledge and remembering \[are\] in the hands and in the body. <br>— Paul Connerton**[^6]</center>
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">(Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands. 
-  <br><br>	 
-	“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg"><div style="background-color: white;"> (Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands.</div>	 <br><br>	
+
+“<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
 “<i>When we became separated \[from Malaya\], we had new problems. The new problems for instance, the Housing Boards \[flats\] were coming up and a lot of correspondence was delivered. And postmen found it very difficult to go and deliver</i>."
    <br><br>	
@@ -59,14 +60,14 @@ This exhibition could have used objects to help elicit and trigger memories. We 
 
 Individual personal memories are always shaped by collective contexts. As an individual, we carry memories that we might not have experienced directly, such as memories of others learnt through family stories or school. The exhibition has been guided through this understanding of personal memories that are, on the one hand, personal and unique, and on the other, reflective of the interconnections between generations, cultures and the context of living in Singapore. “Hands” provides a platform for remembering and transmission, and is a site for interaction between the memories shared and the visitors who encounter them.
 
-&gt; Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects. — Susan A. Crane[^9]
+##### <center>**Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects.<br>— Susan A. Crane**[^9]</center>
 
 <i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
 
 
 #### **Hello, Operator? Story of a Telephonist**
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg">Yang di-Pertuan Negara (Head of State) Yusof Ishak observing operators at work when he visited the Singapore Telephone Board, 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i>
+<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg"><div style="background-color: white;">Yang di-Pertuan Negara (Head of State) Yusof Ishak observing operators at work when he visited the Singapore Telephone Board, 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>	
 
 
 <i>I applied for the job but it took some time for the reply to come to go for the interview. So straight after school, I \[worked\] as a sales girl in Robinsons. After a few months, they called me, I went for an interview. It was not an interview per se; I went into a room with a phone and I was supposed to speak to somebody on the phone. They were recording it, they sort of wanted to gauge your voice. Then they called you back for a second interview where you met people. I was one of the few non-Eurasians at the Singapore Telephone Board; it was strictly for Eurasians.
@@ -103,7 +104,7 @@ Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics 
 #### **NOTES**
 [^1]: [Hodgkin &amp; Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
 
-[^2]: A term originated by Richard Terdiman in his publication *Present Past: Modernity and the Memory Crisis*. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
+[^2]: A term that originated from Richard Terdiman in his publication *Present Past: Modernity and the Memory Crisis*. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
 [^3]: [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002, p. 6.
 

@@ -19,6 +19,15 @@ sections:
       title: BiblioAsia+
       subtitle: A New Podcast on Singapore History
   - infopic:
+      title: A Grand Piano's Chequered History
+      subtitle: Arts
+      description: A grand piano that was to be the pride of Singapore failed to
+        silence its critics. The odds, however, were always against it.
+      button: A New Lease of Life
+      url: https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/piano/
+      image: /images/Vol 19 Issue 3/2 Grand Piano/hungarian pianist.jpg
+      alt: Image alt text
+  - infopic:
       title: Stone Tools in Singapore
       subtitle: Podcast
       description: Stone tools have been found in and around Singapore since the late

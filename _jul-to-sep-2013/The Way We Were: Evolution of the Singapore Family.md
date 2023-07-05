@@ -227,7 +227,7 @@ Yen, C.H. (1981, March). Early Chinese clan organizations in Singapore and Malay
 
 [^21]: [Freedman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4846221), 1957, p. 121. Freedman notes that polygamy was common among the rich Chinese without giving a figure, whereas Djamour notes that polygamy marriages were less than 1 percent of Muslim marriages.
 
-[^22]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601127-1.2.5)_, 1 Nov 1960, p.1.
+[^22]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601127-1.2.5)_, 1 Nov 1960, p. 1.
 
 [^23]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b2309d8-115d-11e3-83d5-0050568939ad), 20 Jul 1972.
 

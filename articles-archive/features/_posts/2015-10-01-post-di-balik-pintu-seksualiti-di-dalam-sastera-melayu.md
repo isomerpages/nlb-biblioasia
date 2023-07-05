@@ -1,6 +1,6 @@
 ---
 title: "Di Balik Pintu: Seksualiti di dalam Sastera Melayu"
-date: 2015-10-01T00:00:00.000Z
+date: 2015-10-01
 permalink: /vol-11/issue-3/oct-dec-2015/pintu/
 breadcrumb: "Di Balik Pintu"
 third_nav_title: "Di Balik Pintu: Seksualiti di dalam Sastera Melayu"
