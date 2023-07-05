@@ -84,3 +84,11 @@ Lee Chiu San, a reporter with the _New Nation_ suggested that owners be made to 
 Letters to the press that called for lifting the ban on clear visors continued throughout the 1970s.[^40] Finally, in November 1980, the Communications Ministry asked the Traffic Police to study the possibility of partially lifting the ban on the use of crash helmets with clear visors. On 1 April 1981, the ban on clear visors was lifted although tinted visors and helmets with chin guards that obscured faces were still not allowed. It was only in April 1993 that the ban on full-face helmets was finally lifted, although the government continued to insist that only SISIR-approved helmets would be allowed.[^41]
 
 If you look up the Road Traffic Act today, you will encounter long blocks of legalese with definitions and clarifications, all of which might give the impression of an abstract bureaucratic artefact. A closer look with a historical lens, however, reveals how the law itself was made, moulded, and adapted by a range of actors in distinct and creative ways. Today, it might seem obvious that riders of motorcycles and scooters ought to wear a helmet, but dig a little deeper, and we find a much more complex and fascinating story.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/asrina_tanuri.png">
+	<b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics, and then pursued a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23).</div>
+
+#### **Notes**
+
