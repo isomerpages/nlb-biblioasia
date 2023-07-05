@@ -101,6 +101,16 @@ sections:
       image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
       alt: New books
   - infopic:
+      title: My Grandfather Was a Rōmusha
+      subtitle: podcast
+      description: "During World War II, the Imperial Japanese Army used forced
+        civilian labourers, known as rōmusha, to build the infamous Thai-Burma
+        Railway. "
+      button: listen to the podcast
+      url: /podcast/grandfather-romusha-thai-burma-railway/
+      image: /images/Podcast/ba ep1 romusha.jpg
+      alt: Rōmusha WWII labourers
+  - infopic:
       title: Remembering Punggol’s Kampong Wak Sumang
       subtitle: Places and Buildings
       description: Kampong Wak Sumang, one of Singapore’s earliest fishing villages,
@@ -417,6 +427,16 @@ sections:
       image: /images/Vol 18 Issue 3/MAS/2_queue.jpg
       alt: monetary authority singapore
   - infopic:
+      title: Taoist Folk Goddesses of Singapore
+      subtitle: podcast
+      description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses.
+        Award-winning writer Ng Yi-Sheng tells us about their legends and
+        worship.
+      button: listen to the podcast
+      url: /podcast/taoist-folk-goddesses-singapore
+      image: /images/Podcast/ba ep2 yi-sheng.jpg
+      alt: Taoist Folk Goddesses
+  - infopic:
       title: The Early Days of Family Planning in Singapore
       subtitle: Governance
       description: Singapore’s family planning programme did not start with the “Stop
@@ -579,14 +599,4 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
-  - infopic:
-      title: Taoist Folk Goddesses of Singapore
-      subtitle: podcast
-      description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses.
-        Award-winning writer Ng Yi-Sheng tells us about their legends and
-        worship.
-      button: listen to the podcast
-      url: /podcast/taoist-folk-goddesses-singapore
-      image: /images/Podcast/ba ep2 yi-sheng.jpg
-      alt: Taoist Folk Goddesses
 ---
