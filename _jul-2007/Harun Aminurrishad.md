@@ -68,6 +68,8 @@ Selepas kegagalan buku pertamanya ini, Harun telah memberhentikan kegiatan penul
 
 Sekembalinya ke Singapura selepas Perang Dunia II, beliau lebi h serius semula dalam bidang penulisan kerana penulisan merupakan satu sumber pencarian untuk menampung kehidupan keluarga beliau.
 
+#### **Karya Harun Sebagai Karya Sejarah**
+
 
 
 
