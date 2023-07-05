@@ -5,7 +5,7 @@ description: A grand piano that was to be the pride of Singapore failed to
   silence its critics. The odds, however, were always against it.
 ---
 #### A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
-By Bernard T.G. Tan
+By Bernard T. G. Tan
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/irene%20kohler.jpg)
 <div style="background-color: white;">British pianist Irene Kohler, who played on the Chappell grand piano, photographed before her recital at the Victoria Memorial Hall, 1956. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
