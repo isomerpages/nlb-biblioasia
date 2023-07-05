@@ -19,7 +19,23 @@ Beliau merupakan satu-satunya pengarang Melayu yang tercatit namanya di antara 2
 
 #### **Harun Sebagai Pelajar dan Pendidik**
 
-Seteiah tamat pengajiannya di sekolah rendah Melayu, beliau menedma tawaran sebagal guru pelatih walaupun umumya masih muda, hanya 14 tahun sahaja. Tidak lama lcemudian, pada tahun 1924, beliau berjaya melanjutkan pelajarannya di Maktab Perguruan Sultan Idris (MPSI), Tanjong Malim, Perak, Semenanjung Tanah Melayu.
+Seteiah tamat pengajiannya di sekolah rendah Melayu, beliau menedma tawaran sebagal guru pelatih walaupun umurnya masih muda, hanya 14 tahun sahaja. Tidak lama kemudian, pada tahun 1924, beliau berjaya melanjutkan pelajarannya di Maktab Perguruan Sultan Idris (MPSI), Tanjong Malim, Perak, Semenanjung Tanah Melayu.
+
+Sejarah merupakan mats pelajaran yang paling diminati sejak beliau menuntut di MPSI. Syarahan guru sejarahnya tentang kegemilangan Kasultanan Melaka dan kedatangan pihak penjajah yang memeras tenaga penduduk tempatan telah memberi kesedaran beliau terhadap "nusa dan bangsa" dan telah menanamkan bibit semangat kebangsaan dalam jiwanya. 
+
+Pada awalnya beliau terpengaruh dengan perkembangan politik di Indonesia melalui pembacaan majalah dan akhbar Indonesia terutarnanya Suara Rakyat yang juga organ Partai Nasional Indonesia.2 Minat beliau terhadap gerakan  angkatan muda di Indonesia tidak hanya tertumpu kepada bidang politik, malah termasuk agama misalnya Gerakan Muhammadiyah dan Al Irshad.
+
+Adalah menjadi tadisi di MPSI iaitu setiap Hari Jumaat (malam Sabtu) guru-guru akan memberi syarahan bergilir-gilir kepada penuntut. Isu yang disentuh berkaitan kemunduran dan buaian penjajah Barat. Sepanjang tahun 1927 hingga 1938 sebagai penuntut dan guru pelatih di MPSI, Harun telah menyumbangkan sejumlah 11 syarahan yang menghangatkan api kesedaran kebangsaan di jiwa penuntut-penuntut Maktab itu.3 Syarahan-syarahan Harun ini telah memberi perangsang kepada penubuhan gerakan yang telah mencatatian sejarah dalam politik orang Melayu era 1930an iaitu Kesatuan Melayu Muda (KMM).
+
+Aktiviti Harun yang melampau di mata pentadbiran Inggeris pada tahun 1938 itu tidak digemari oleh pihak yang berkuasa di MPSI. Kemuncak pengaruh kesedaran kebangsaan yang ditiupkan oleh
+Harun	telah menceluskan satu tunjuk perasaan secara aman oleh penuntut-penuntut MPSI yang telah berbaris bejalan mengelilingi kawasan Maktab dengan menyanyikan lagu kemerdekaan dan kebangsaan seperti "Pemuda Kita" gubahan Cikgu Ayub Rawan dan liriknya oleh Harun sendiri. Bagi penjajah Inggeris, peristiwa ini amat merbahaya dan boleh mengganggu kedudukan Inggeris di Tanah Melayu. Pada tahun 1939, beliau telah diarahkan supaya berpindah ke Brunei dengan menyandang jawatan baru sebagai Penguasa Pelajaran di sana. Pada zahirnya jawatan ini merupakan satu penghormatan bagi anak Melayu ketika itu tetapi sebaliknya dapat terlihat kecurigaan pihak penjajah terhadap kegiatan Harun yang ditakuti meracuni fikiran dan jiwa penuntut MPSI. Dengan memegang Jawatan baru ini, Harun terpisah seta terasing dari kumpulan bakal pendidik dan pejuang tanah air di MPSI.
+
+
+
+
+
+
+
 
 
 
