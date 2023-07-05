@@ -30,13 +30,13 @@ Adalah menjadi tadisi di MPSI iaitu setiap Hari Jumaat (malam Sabtu) guru-guru a
 Aktiviti Harun yang melampau di mata pentadbiran Inggeris pada tahun 1938 itu tidak digemari oleh pihak yang berkuasa di MPSI. Kemuncak pengaruh kesedaran kebangsaan yang ditiupkan oleh
 Harun	telah menceluskan satu tunjuk perasaan secara aman oleh penuntut-penuntut MPSI yang telah berbaris bejalan mengelilingi kawasan Maktab dengan menyanyikan lagu kemerdekaan dan kebangsaan seperti "Pemuda Kita" gubahan Cikgu Ayub Rawan dan liriknya oleh Harun sendiri. Bagi penjajah Inggeris, peristiwa ini amat merbahaya dan boleh mengganggu kedudukan Inggeris di Tanah Melayu. Pada tahun 1939, beliau telah diarahkan supaya berpindah ke Brunei dengan menyandang jawatan baru sebagai Penguasa Pelajaran di sana. Pada zahirnya jawatan ini merupakan satu penghormatan bagi anak Melayu ketika itu tetapi sebaliknya dapat terlihat kecurigaan pihak penjajah terhadap kegiatan Harun yang ditakuti meracuni fikiran dan jiwa penuntut MPSI. Dengan memegang Jawatan baru ini, Harun terpisah seta terasing dari kumpulan bakal pendidik dan pejuang tanah air di MPSI.
 
+#### **Pengalaman Hawn Semasa Pendudukan Jepun di Brunei**
 
+Walaupun beliau terpisah Sari rakan-rakan seperjuangannya, beliau tetap bergiat dalam bidang politik dl Brunei dengan mempelopori gerakan kebangsaan seperti badan Kesatuan Melayu Brunei. Beliau juga bertanggungjawab dalam penubuhan Barisan Pemuda Brunei (BARIP) dan Partai Kebangsaan Melayu Malaya (PKMM) cawangan Labuan.
 
+Harun meneruskan kegiatannya di bidang peiajaran sehingga kemasukan Jepun pada bulan Disember 1941 dengan tercetusnya Perang Duria Keclua. Semasa pendudukan Jepun, beliau dirnntaterusmernegang jawatannya sebagai Penguasa Pelajaran atau Shigakukan oleh pemerintah Jepun. Pengalaman tun sernasa pendudukan Jepun dapat Sbaca dart buku ISlapakah yang BersaLahr
 
-
-
-
-
+Hubungannya dengan pegawai-pegawai Jepun begrtuakrab kerana beliau pemah menjadi penterjemah Bahasa Jepun until( perbualan sehari-hart antara pegawal Jepun dengan penduduk tempatan. Beliau sendiri pernah ditawarkan jawatan Gabenor Brunei jika Pemerintahan lepun dapat mengekaJkan kedudukannya di rantau ini
 
 
 
