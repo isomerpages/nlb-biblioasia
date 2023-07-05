@@ -57,9 +57,16 @@ Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Mel
 Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
 diabadikan dalam beberapa karyanya. Rakaman catatan perjalanan ini dapat ditatapi secara terperinci dalam bukunya "*Melihat Matahafi di Tengah Malam*" , "*Terbang ke Barat*", "*Melawat ke Semenanjung Iberia*" dan "*Baku Lawatan ke Eropah*" Menurut beliau "segala apa yang dilihat, didengar dan dirasai, kalau dicatatkan dengan Jujur dan betul, itu adalah menjadi catatan sejarah yang amat penting untuk pengetahuan orang-orang yang akan datang".6
 
-Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, kebudayaan dan politik serta badan sukarela.
+Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, 
+kebudayaan dan politik serta badan sukarela.
 
+#### **Karya-Karya Harun**
 
+Novel pertamanya "*Melor Kuala Lumpur*" ditulis dalam tulisan Jawi setebal 110 muka surat. la mengisahkan suka duka pencintaan sepasang remaja yang masih terkengkong dengan adat tradisi masyarakat Timur. Novel ini malangnya tidak mendapat sambutan hangat di kalangan peminat sastera waktu itu. Jalan cerita novel ini seiras dengan novel Hamka, "*Di Bawah Lindungan Kaabah*". Menurut setengah ahli sastera, novel Harun adalah hasil karya beliau yang asli dan bukan hasil cedukan kerana "*Melor Kuala Lumpur*" lahir pada tahun 1930 sementara novel Hamka diterbitkan pada 1938.7
+
+Selepas kegagalan buku pertamanya ini, Harun telah memberhentikan kegiatan penulisannya sementara waktu kerana beliau telah dipindakan ke Brunei untuk menyandang jawatan baru yang lebih mencabar sebagai Penguasa Pelajaran di sana.
+
+Sekembalinya ke Singapura selepas Perang Dunia II, beliau lebi h serius semula dalam bidang penulisan kerana penulisan merupakan satu sumber pencarian untuk menampung kehidupan keluarga beliau.
 
 
 
