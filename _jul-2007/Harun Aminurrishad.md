@@ -42,6 +42,25 @@ di saat-saa Jepun di ambang kekalahan, Harun dan keluarganya terpaksa lari ke ka
 
 Semasa dipenjara, anak isterinya ditinggalkan dan mendapat perlindungan penduduk pribumi Kedayan. Jasa mereka melindungl keluarga Harun telah diabadikan dalam novelnya Darah Kedayan. Kehidupan dipenjara memberi inspirasi yang menguatkan semangat perjuangannya terhadap kemerdekaan negaranya.
 
+Selepas perbicaraan mengenai penglibatannya dalam masa pemerintahan Jepun, beliau didapati tidak bersalah dan diarahkan untuk pulang ke Singapura. Sebenarya, beliau pemah ditawarkan sebagai Ahli Mesyuarat Negeri (Kawasan Ulu Yam Selangor) tetapi beliau menolaknya kerana tidak lagi mempercayai penjajah Inggeris.
+
+#### **Harun Sebagai Pernik**
+
+Di Singapura, beliau sekali lagi menerima tawaran sebagai guru dari pemerintahan British pada tahun 1946 tetapi beliau menolaknya kerana tidak mahu terikat dengan pernerintah.
+
+Sejak itu, beliau mula aktif menulis secara serius walaupun sebelum itu beliau pernah menerbitkan novel pertamanya, "*Mclor Kuala Lumpur*", pada tahun 1930an. Beliau kemudian menulis apa saja corak penulisan yang sesuai bagi segenap lapisan masyarakat sebagai sumbangannya terhadap alam penulisan yang amat berkurangan di tahun-tahun 1940an.
+
+Buku-buku karya beliau merangkumi novel sejarah, puisi dan lain-lain lagi. Waktu di MPSI, beliau lebih cenderung menulis rencana dan puisi untuk mengisi masa lapangnya dan diterbitkan dalam akhbar Warta Jenaka dan Warta Ahad dengan nama samaran 'Penulis Khas Tanjung Malim'.
+
+Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Melayu Raya4 dan berkarya melalui majalah-majalah terbitan Al-Ahmadiah Press, Singapura. Bersama-sama Cikgu Amir Haji Omar, beliau pernah menerbitkan majalah Kencana iaitu majalah tulisan Rumi yang terawal di terbitkan di Tanah Melayu dan Singapura selepas 1945.5 
+
+Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
+diabadikan dalam beberapa karyanya. Rakaman catatan perjalanan ini dapat ditatapi secara terperinci dalam bukunya "*Melihat Matahafi di Tengah Malam*" , "*Terbang ke Barat*", "*Melawat ke Semenanjung Iberia*" dan "*Baku Lawatan ke Eropah*" Menurut beliau "segala apa yang dilihat, didengar dan dirasai, kalau dicatatkan dengan Jujur dan betul, itu adalah menjadi catatan sejarah yang amat penting untuk pengetahuan orang-orang yang akan datang".6
+
+Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, kebudayaan dan politik serta badan sukarela.
+
+
+
 
 
 
