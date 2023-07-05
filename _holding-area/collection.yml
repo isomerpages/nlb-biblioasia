@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - The Bumpy Ride to Making Crash Helmets Mandatory.md
       - "Going Against the (Rice) Grain: The “Eat More Wheat” Campaign.md"
       - Test page.md
