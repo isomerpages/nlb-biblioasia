@@ -579,4 +579,14 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
+  - infopic:
+      title: Taoist Folk Goddesses of Singapore
+      subtitle: podcast
+      description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses.
+        Award-winning writer Ng Yi-Sheng tells us about their legends and
+        worship.
+      button: listen to the podcast
+      url: /podcast/taoist-folk-goddesses-singapore
+      image: /images/Podcast/ba ep2 yi-sheng.jpg
+      alt: Taoist Folk Goddesses
 ---
