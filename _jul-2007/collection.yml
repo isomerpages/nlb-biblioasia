@@ -2,4 +2,5 @@ collections:
   jul-2007:
     output: true
     order:
+      - Harun Aminurrishad.md
       - Director's Column.md
