@@ -34,9 +34,14 @@ Harun	telah menceluskan satu tunjuk perasaan secara aman oleh penuntut-penuntut 
 
 Walaupun beliau terpisah Sari rakan-rakan seperjuangannya, beliau tetap bergiat dalam bidang politik dl Brunei dengan mempelopori gerakan kebangsaan seperti badan Kesatuan Melayu Brunei. Beliau juga bertanggungjawab dalam penubuhan Barisan Pemuda Brunei (BARIP) dan Partai Kebangsaan Melayu Malaya (PKMM) cawangan Labuan.
 
-Harun meneruskan kegiatannya di bidang peiajaran sehingga kemasukan Jepun pada bulan Disember 1941 dengan tercetusnya Perang Duria Keclua. Semasa pendudukan Jepun, beliau dirnntaterusmernegang jawatannya sebagai Penguasa Pelajaran atau Shigakukan oleh pemerintah Jepun. Pengalaman tun sernasa pendudukan Jepun dapat Sbaca dart buku ISlapakah yang BersaLahr
+Harun meneruskan kegiatannya di bidang peiajaran sehingga kemasukan Jepun pada bulan Disember 1941 dengan tercetusnya Perang Duria Keclua. Semasa pendudukan Jepun, beliau diminta terus memegang jawatannya sebagai Penguasa Pelajaran atau *Shigakukan* oleh pemerintah Jepun. Pengalaman Harun semasa pendudukan Jepun dapat dibaca dari buku "Siapakah yang Bersalah?"
 
-Hubungannya dengan pegawai-pegawai Jepun begrtuakrab kerana beliau pemah menjadi penterjemah Bahasa Jepun until( perbualan sehari-hart antara pegawal Jepun dengan penduduk tempatan. Beliau sendiri pernah ditawarkan jawatan Gabenor Brunei jika Pemerintahan lepun dapat mengekaJkan kedudukannya di rantau ini
+Hubungannya dengan pegawai-pegawai Jepun begitu akrab kerana beliau pernah menjadi penterjemah Bahasa Jepun untuk perbualan sehari-hari antara pegawai Jepun dengan penduduk tempatan. Beliau sendiri pernah ditawarkan jawatan Gabenor Brunei jika Pemerintahan Jepun dapat mengekalkan kedudukannya di rantau ini.
+
+di saat-saa Jepun di ambang kekalahan, Harun dan keluarganya terpaksa lari ke kawasan pendalaman kerana pergelutan sengit antara pihak Jepun dan askar British yang akhirnya dapat mengusir Jepun dari rantau ini. Semasa Tanah Melayu ditadbirkan oleh Pentadbiran Tentera iaitu British Military Administration (BMA) dari September 1945–1 April 1946, Harun telah disyaki subversif dan dipenjara tanpa dibicara selama 86 hari.
+
+Semasa dipenjara, anak isterinya ditinggalkan dan mendapat perlindungan penduduk pribumi Kedayan. Jasa mereka melindungl keluarga Harun telah diabadikan dalam novelnya Darah Kedayan. Kehidupan dipenjara memberi inspirasi yang menguatkan semangat perjuangannya terhadap kemerdekaan negaranya.
+
 
 
 
