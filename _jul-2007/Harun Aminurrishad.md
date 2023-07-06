@@ -124,6 +124,11 @@ Sumbangan Harun menulis buku barcaan sekolah tidak boleh diabaikan kerana beliau
 Beliau memang sejak mula lagi telah menulis rencana terbitan "Warta Ahad" dan
 "Warta Jenaka" dan telah memimpin beberapa akhbar harian dan majalah Melayu selepas Perang Dunia II. Rencana yang menyentuh soal politik dan nasionalisma merupakan isu yang paling diminati kerana angin nasionaIisma kemerdekaan sedang bertiup kencang dari negara jiran, Indonesia.
 
+![](/images/Vol%203%20Issue%202/Harun/imag0013%201.jpg)
+
+<img src="/images/Vol%203%20Issue%202/Harun/imag0013%201.jpg" style="width:80%;">
+ <div style="background-color: white;">Antara karya-karya Harun yang terdapat di koleski Lembaga Perpustakaan Negara</div>
+
 Tidak ramai yang mengetahui keboIehan Harun dalam bidang persajakan dan beliau pemah tergolong dalam angkatan pujangga baru di Tanah Melayu. Sajaknya yang sulung bertajuk "Oh Sariku" pernah diterbitkan di Majalah Pujangga Baru, no. 6 Disember 1933.
 
 #### **Nama Samaran**
