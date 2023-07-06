@@ -124,8 +124,6 @@ Sumbangan Harun menulis buku barcaan sekolah tidak boleh diabaikan kerana beliau
 Beliau memang sejak mula lagi telah menulis rencana terbitan "Warta Ahad" dan
 "Warta Jenaka" dan telah memimpin beberapa akhbar harian dan majalah Melayu selepas Perang Dunia II. Rencana yang menyentuh soal politik dan nasionalisma merupakan isu yang paling diminati kerana angin nasionaIisma kemerdekaan sedang bertiup kencang dari negara jiran, Indonesia.
 
-![](/images/Vol%203%20Issue%202/Harun/imag0013%201.jpg)
-
 <img src="/images/Vol%203%20Issue%202/Harun/imag0013%201.jpg" style="width:80%;">
  <div style="background-color: white;">Antara karya-karya Harun yang terdapat di koleski Lembaga Perpustakaan Negara</div>
 
