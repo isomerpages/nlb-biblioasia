@@ -136,11 +136,10 @@ Beliau berperanan penting dalam mempertinggikan taraf bahasa Melayu agar setandi
 
 ·	Setiausaha, Lembaga Penuntut Melayu Semenanjung yang memberi bantuan kepada penuntut Melayu yang belajar di luar negeri. Pemenang biasiswa yang kurang mampu diberi bantuan kewangan hasil kutipan derma dari orang ramai. Peranan badan ini sangatlah besar di samping memberi kesedaran kepada orang ramai supaya menghulurkan bantuan kepada pelajar yang berkebolehan yang bakal menjadi pemimpin negara di masa hadapan.
 
+#### **Kurniaan "Anumerta Tun Seri Lanang"**
 
+Tidak keterlaluan jika dikatakan bahawa kegigihan Harun dalam bidang mengarang, sesungguhnya belum ada dilakukan begitu hebat oleh bekas-bekas atau guru-guru lepasan Maktab Perguruan Tanjung Malim (SITC) kecuali Buyong Adil seorang tokoh sejarah khusus mengarang buku-buku sejarah semata-mata. Atas kegigihan beliau dalam bidang penulisan, hampir 60 judul buku dan ratusan rencana telah berjaya dihasilkannya.
 
-
-
-
-
+Harun menghembuskan nafasnya yang terakhir pada 9 November 1986 setelah mengidap penyakit sejak 12 November 1971 yang mengakibatkan kelumpuhan seluruh kaki dan tangannya dan beliau tidak dapat bercakap serta bergerak selama satu tahun. Pada tahun 1995, Allahyarham telah dikenangi dengan dikurniakan "Anumerta Tun Seri Lanang" oleh Majlis Bahasa Melayu Singapura.
 
 
