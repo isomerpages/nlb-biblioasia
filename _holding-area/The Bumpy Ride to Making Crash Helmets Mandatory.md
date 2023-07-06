@@ -7,6 +7,9 @@ description: Crash helmets might save lives but getting people to wear them was
 #### Crash helmets might save lives but getting people to wear them was an uphill task.
 By Sharad Pandian
 
+_Header Photo_
+<div style="background-color: white;">Participants taking part in the crash helmet campaign rally starting from Trade Union House. The rally aimed to create safety awareness among motorcyclists in Singapore, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
 These days, everyone on a motorcycle or scooter wears a crash helmet so we don’t give it a second thought. It might come as a surprise then to learn that until about 50 years ago, wearing a helmet while riding in Singapore was completely voluntary. As one might guess, this also meant that the vast majority of people did not bother with wearing any protective headgear at all. It was only in 1971 that the government passed a law that made helmets mandatory. The run-up to this law saw fierce public debate over the need for such legislation. Opponents of the law marshalled a number of arguments for their cause, ranging from the inconvenience of carrying around a helmet to more abstract concerns about individual liberty. Even after the law’s passing, many did not easily yield to the new order. “I have been happy riding a scooter without a crash helmet for the past 11 years”, wrote a reader to the _Singapore Herald_ in January 1971. But now that the law mandating helmets “was forced on us,” he declared that he would rather get rid of his motorbike rather than wear a helmet.[^1]
 
 The push to have mandatory helmets dates back to the 1950s, when groups in Singapore and Malaya began lobbying for such a law following a heated debate in Britain over this issue. In 1941, British neurosurgeon Hugh Cairns – who dedicated his career to studying head injuries suffered by motorcyclists – convinced the British Army to mandate helmets for its riders. When this policy sharply reduced deaths, Cairns came to the conclusion that the universal adoption of crash helmets would “result in considerable saving of life”.[^2]
@@ -18,6 +21,9 @@ The debate in the UK over helmets inspired groups in Singapore and Malaya. Here,
 In 1960, the Automobile Association of Singapore, the Singapore Motor Club, and prominent army personnel came out in favour of compulsory crash helmets for motorcyclists and their pillion riders. It would be for their own safety if these motorcyclists were compelled to wear crash helmets, argued Milton Tan, president of the Automobile Association, in November 1960.[^6]
 
 Some members of the public agreed. Writing to the _Straits Times_ in March 1962, a reader urged the government to force riders to wear helmets. The reader noted that as wages improved and hire purchase options became increasingly available, more and more motorcycles and scooters would end up on the roads, and more deaths and injuries would result if the riders did not have protective headgear.[^7]
+
+_Buying scooter and motorcycle popular_
+<div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
  
 Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130.[^8] million in 1970.8 “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
 
@@ -33,11 +39,18 @@ One rider argued that he had been travelling to and from work daily with his wif
 
 Finally, there was the argument for individual autonomy. “Scooter girl” argued that riders should be allowed to make up their own minds about the risks involved and whether to bear them, since “though I am by no means enthusiastically looking forward to breaking my neck it still is my neck – and the choice must be left to me”. [^14]
 
+_People in northbridge road don’t wear helmets_
+<div style="background-color: white;">A view of North Bridge Road, c. 1960s. The crash helmet was made mandatory in January 1971. Before this, motorcyclists and scooterists need not wear helmets. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Making Crash Helmets Mandatory**
 
 Given the extent of the opposition to making helmets mandatory in Singapore, credit must be given to the man who ceaselessly campaigned for it – Milton Tan, the president of the Automobile Association of Singapore. For Tan, wearing a helmet “was not a blow at individual liberty”. Rather, “It is the minimum discipline we must accept if we want to have a highly motorised society and stay alive”. He began advocating for making helmets compulsory for motorcyclists and their pillion riders as early as 1960.[^15]
 
 Subsequently, when the National Safety First Council of Singapore (NSFC) was formed in 1966 to coordinate road safety efforts, Tan was elected its first chairman.[^16] He carried on his campaign to make helmets mandatory, using the council as a platform. In May 1968, the council worked with the government to roll out a three-week-long awareness campaign with the slogan, “A crash helmet can save your life”. The campaign – publicised through television, radio, newspapers, Rediffusion, posters, pamphlets and banners – included an exhibition, a poster competition and a motorcycle procession.[^17]
+
+_Milton tan have exhibition_
+<div style="background-color: white;">Milton Tan (left), chairman of the Automobile Association of Singapore, showing Yang 
+Di-Pertuan Negara Yusof Ishak around the Road Safety Photographic Exhibition at the Victoria Memorial Hall, 1963. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Tan’s education campaign had critics, even among those who backed the idea. People complained that as it was not backed by legislation, it did not have teeth. “A great number of drivers of all kinds in Singapore are fiends who are converting its roads into devils’ highways and you won’t stop them with colourful floats and gentle persuasion,” wrote K.E. Hilborne to the _Straits Times_ in March 1968. “They will only respond to two things: money and force – in a word legislation.”[^18]
 
@@ -52,6 +65,9 @@ In August 1968, the Singapore government set up the Traffic Advisory Board to ca
 Unsurprisingly, the board recommended making crash helmets mandatory in its interim report and Communications Minister Yong Nyuk Lin informed Parliament that the government accepted the recommendation.[^25]
 
 The crash helmet was made mandatory for “L” licence holders in February 1970 and for all motorcyclists and scooterists, including pillion riders, in Singapore in January 1971 through an amendment to the Road Traffic Ordinance.[^26] This meant that Singapore ended up mandating helmets more than two years before Britain got around to it.
+
+_Boost road safety_
+<div style="background-color: white;">From January 1971, all motorcyclists and scooterists, including pillion riders, were required to wear crash helmets. In February, the National Safety First Council rolled out a two-week safety campaign aimed at cyclists and motorcyclists. <i>Source: New Nation, 8 February 1971 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 To ensure that the helmets were of adequate quality, Singapore adopted the existing British Standard’s specifications for helmets, with the Singapore Institute for Standards and Industrial Research (SISIR) appointed the testing agency for all helmets.[^27]
 
@@ -71,11 +87,17 @@ Another common practice was for riders to wear helmets that were slightly larger
 
 Then there was the trend of so-called “made-to-measure” crash helmets, which were illegal knock-offs of more expensive brands. A “made-to-measure” helmet would cost about $45, compared to those tested and approved by SISIR, which sold for between $90 and $130.[^34]
 
+_mailman_
+<div style="background-color: white;">Mailmen on scooters, wearing crash helmets, c. 1972. <i>Courtesy of National Archives of Singapore.</i></div>
+
 #### **The Use and Misuse of Crash Helmets**
 
 Very quickly, helmets went from saving lives to also threatening them. In December 1979, a man died from a fractured skull and bleeding in the brain after being beaten by a gang using crash helmets.[^35] A spate of robberies committed by people wearing visored helmets between 1974 and 1975 led to the governments of both Singapore and Malaysia banning full-face helmets and those with visors from April 1975 as these concealed the identities of the wearers.[^36] 
 
 The ban in Singapore stirred up much debate in the press. In February 1975, a group of 30 motorcyclists appealed to the government to reconsider its ban on helmets with visors. They pointed out that the robbers had been wearing inexpensive full-face helmets not approved by SISIR, and so the government could simply stop the supply of these cheaper helmets. They also suggested banning motorcyclists from wearing helmets when not riding and banning only dark visors. After all, they argued, even without helmets, robbers would simply disguise themselves with sunglasses.[^37]
+
+_Don wan ban visor_
+<div style="background-color: white;">Despite the ban on crash helmets with visors in effect from April 1975, some motorcyclists continued to wear them. <i>Source: Straits Times, 15 April 1975 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 “Singapore takes one pace backwards on road safety,” bemoaned Jim Watkins, motoring editor of the _New Nation_. “It seems ironic, after a month-long safety campaign which succeeded in reducing casualties on the roads, that law and order should be cited as a reason for abandoning the pursuit of maximum safety.” He argued that riding without protecting one’s eyes was “stupidity of the first order” since insects, gravel fragments or grit from lorries could easily cause a loss of control and subsequently accidents.[^38]
 
