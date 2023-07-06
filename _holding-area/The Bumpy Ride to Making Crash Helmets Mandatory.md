@@ -110,4 +110,67 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^9]: “[Civic Sense](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19691103-1.2.79),” _Eastern Sun_, 3 November 1969, 6. (From NewspaperSG)
 
-[^10]:
+[^10]: “[Dandy Scooter-riders](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631231-1.2.32),” _Straits Times_, 31 December 1963, 5. (From NewspaperSG)
+
+[^11]: Skid-Lid, “[Crash Helmets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640103-1.2.58.3),” _Straits Times_, 3 January 1964, 8. (From NewspaperSG)
+
+[^12]: H.A.K., “[Case Against Making Helmets a ‘Must’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670304-1.2.100.7),” _Straits Times_, 4 March 1967, 14. (From NewspaperSG)
+
+[^13]: S.T.K., “[Its My Bike or Wife](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701214-1.2.89.7),” _Straits Times_, 14 December 1970, 19. (From NewspaperSG)
+
+[^14]: Scooter Girl, “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640104-1.2.84.4),” _Straits Times_, 4 January 1964, 10. (From NewspaperSG)
+
+[^15]: “[Singapore Can Cut Down Road Toll – Tan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19680725-1.2.14.12),” _Eastern Sun_, 25 July 1968, 3; “[‘Wear Head Protection’ Call to Motor Cyclists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601114-1.2.91),” _Singapore Free Press_, 14 November 1960, 7. (From NewspaperSG)
+
+[^16]: “[National Safety Council Being Set Up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660620-1.2.41),” _Straits Times_, 20 June 1966, 6. (From NewspaperSG)
+
+[^17]: “[‘A Crash Helmet Can Save Your Life’ Drive in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680504-1.2.77),” _Straits Times_, 4 May 1968, 11; R Chandran, “[A Crash Helmet Campaign Begins in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680518-1.2.126),” _Straits Times_, 18 May 1968, 20. (From NewspaperSG)
+
+[^18]: K.E. Hilborne, “[Crash Helmets Without Fashion Rallies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680305-1.2.78.1),” _Straits Times_, 5 March 1968, 10. (From NewspaperSG)
+
+[^19]: D.G. Ironside, “[The Case for Crash Hats, Seat Belts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680321-1.2.66),” _Straits Times_, “21 March 1968, 8. (From NewspaperSG)
+
+[^20]: Milton Tan, “[Crash-hats: Campaign Before Legislation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680325-1.2.71.1),” _Straits Times_, 25 March 1968, 8. (From NewspaperSG)
+
+[^21]: “[Must for Helmets: Move by the NSFC](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681012-1.2.20),” _Straits Times_, 12 October 1968, 5. (From NewspaperSG)
+
+[^22]: “[Yong: New Set of Transport Laws](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690802-1.2.39),” _Straits Times_, 2 August 1969, 8. (From NewspaperSG)
+
+[^23]: “[Traffic Advisory Board Planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650520-1.2.91),” _Straits Times_, 20 May 1965, 11; “[Traffic Board To Have Twin Roles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650731-1.2.35),” _Straits Times_, 31 July 1965, 5. (From NewspaperSG)
+
+[^24]: “[Government to Continue to Encourage M-Cyclists to Wear Crash Helmets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19681217-1.2.21.21),” _Eastern Sun_,” 17 December 1968, 3. (From NewspaperSG)
+
+[^25]: “[Yong: New Set of Transport Laws](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690802-1.2.39).”
+
+[^26]: “[By 1971 Crash Helmets Will Be a Must](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690802-1.2.40),” _Straits Times_, 2 August 1969, 8. (From NewspaperSG); Government of Singapore, “Road Traffic (Amendment) Bill, Singapore Statutes Online, 21 May 1970, https://sso.agc.gov.sg/Bills-Supp/21-1970/Published/19700527?DocDate=19700527.
+
+[^27]: “[By 1971 Crash Helmets Will Be a Must](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690802-1.2.40).”
+
+[^28]: “[No Helmets: 220 Booked](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710210-1.2.98),” _Straits Times_, 10 February 1971, 9; Tan, “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701217-1.2.172.15),” _Straits Times_, 17 December 1970, 22. (From NewspaperSG)
+
+[^29]: “[Helmet Laws Hit M-cycle Sales, Say Traders](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19700708-1.2.51),” _Singapore Herald_, 8 July 1970, 7. (From NewspaperSG)
+
+[^30]: “[Will We, Won’t We Wear Helmets](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19700925-1.2.79.3),” _Singapore Herald_, 25 September 1970, 17. (From NewspaperSG)
+
+[^31]: “‘[Turban’ Wife Ordered to Make Her Defence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770115-1.2.73.11),” _Straits Times_, 15 January 1977, 11; “[No-Helmet Pillion Wife Is Fined](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770421-1.2.135.10),” _Straits Times_, 21 April 1977, 25. (From NewspaperSG)
+
+[^32]:
+
+[^33]:
+
+[^34]:
+
+[^35]:
+
+[^36]:
+
+[^37]:
+
+[^38]:
+
+[^39]:
+
+[^40]:
+
+[^41]:
+
