@@ -56,14 +56,41 @@ sections:
       alt: prewar Malayan tennis
       image: /images/Podcast/ba tennis abhishek.jpg
   - infopic:
-      title: A New Podcast on Stories about Singapore's Past
+      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      subtitle: Print
+      description: The story of Operation Jaywick, a daring attack on Japanese ships
+        at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
+      alt: Operation Jaywick
+      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      image: /images/Vol 19 Issue 2/Operation Jaywick/image_4.png
+      button: The Victor Book for Boys
+  - infopic:
+      title: "Belacan: Caviar or Vile?"
       subtitle: Podcast
-      description: Homegrown Taoist goddesses. The rituals behind the annual Hindu
-        firewalking festival. Paya Lebar Airport's lost murals.
-      button: Listen to the podcast
-      url: /podcast/about/
-      image: /images/Podcast/de edm 600-400px.jpg
-      alt: romusha death railway
+      description: A beloved condiment in Southeast Asia, <i>belacan</i> has been
+        called rank and disgusting. Learn about its long history.
+      button: Listen to BiblioAsia+
+      url: /podcast/belacan/
+      image: /images/Podcast/ba toffa.jpg
+      alt: Belacan
+  - infopic:
+      title: "32 Binjai Park: The Modernist Home of an Architect"
+      subtitle: Places and Buildings
+      description: The house that Lee Kip Lin built has stood the test of time,
+        reflecting its simple yet modern and clean design.
+      button: A HOUSE FOR THE TROPICS
+      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
+      image: /images/Vol 19 Issue 2/Binjai/image10.png
+      alt: Lee Kip Lin's house
+  - infopic:
+      title: The Forgotten Murals of Paya Lebar Airport
+      subtitle: podcast
+      description: Three large murals used to grace the walls of Paya Lebar Airport,
+        depicting scenes from Singapore and Malaysia. Only one is left.
+      button: Listen to BiblioAsia+
+      url: /podcast/murals/
+      image: /images/Podcast/ba ep3 dahlia.jpg
+      alt: murals paya lebar airport
   - infopic:
       title: New Books on Singapore History (Jul 2023)
       subtitle: Literature
@@ -74,23 +101,14 @@ sections:
       image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
       alt: New books
   - infopic:
-      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
-      subtitle: Print
-      description: The story of Operation Jaywick, a daring attack on Japanese ships
-        at Keppel Harbour in September 1943, is retold in a comic aimed at boys.
-      alt: Operation Jaywick
-      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
-      image: /images/Vol 19 Issue 2/Operation Jaywick/image_4.png
-      button: The Victor Book for Boys
-  - infopic:
-      title: "32 Binjai Park: The Modernist Home of an Architect"
-      subtitle: Places and Buildings
-      description: The house that Lee Kip Lin built has stood the test of time,
-        reflecting its simple yet modern and clean design.
-      button: A HOUSE FOR THE TROPICS
-      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
-      image: /images/Vol 19 Issue 2/Binjai/image10.png
-      alt: Lee Kip Lin's house
+      title: Taoist Folk Goddesses of Singapore
+      subtitle: podcast
+      description: Award-winning writer Ng Yi-Sheng tells us about the legends and
+        worship of local goddesses Maiden Lin, Maiden Lei and Maiden Huang.
+      button: Listen to BiblioAsia+
+      url: /podcast/taoist-folk-goddesses-singapore
+      image: /images/Podcast/ba ep2 yi-sheng.jpg
+      alt: Taoist Folk Goddesses
   - infopic:
       title: Remembering Punggol’s Kampong Wak Sumang
       subtitle: Places and Buildings
@@ -110,6 +128,16 @@ sections:
       url: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
       alt: Image alt text
       image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
+  - infopic:
+      title: My Grandfather Was a Rōmusha
+      subtitle: podcast
+      description: During World War II, the Imperial Japanese Army used forced
+        civilian labourers, known as rōmusha, to build the infamous Thai-Burma
+        Railway.
+      button: Listen to BiblioAsia+
+      url: /podcast/grandfather-romusha-thai-burma-railway/
+      image: /images/Podcast/ba ep1 romusha.jpg
+      alt: Rōmusha WWII labourers
   - infopic:
       title: The Famous Whale Skeleton at the Raffles Museum
       subtitle: Nature and the Environment
@@ -534,16 +562,6 @@ sections:
       image: /images/Vol 18 Issue 2/Chinese Japanese Photo
         Studios/agsphoto_17551_full.png
       alt: prewar photography studios
-  - infopic:
-      title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
-      subtitle: people
-      description: As a forensic pathologist, Chao Tzee Cheng helped bring murderers
-        to justice.
-      button: the Forensic Trail Blazer
-      url: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
-      image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
-        Dead - Image 4.png
-      alt: chao tzee cheng pathology
   - infopic:
       title: Into the Night
       subtitle: "Video: stories from biblioasia"

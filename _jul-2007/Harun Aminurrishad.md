@@ -1,6 +1,6 @@
 ---
 title: Harun Aminurrishad
-permalink: /vol-3/issue1/apr-2007/harun-aminurrishad/
+permalink: /vol-3/issue2/apr-2007/harun-aminurrishad/
 description: Born Harun Bin Mohd Amin, Harun’s other pen names include Har,
   Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of
   several newspapers and magazines.
@@ -57,8 +57,37 @@ Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Mel
 Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
 diabadikan dalam beberapa karyanya. Rakaman catatan perjalanan ini dapat ditatapi secara terperinci dalam bukunya "*Melihat Matahafi di Tengah Malam*" , "*Terbang ke Barat*", "*Melawat ke Semenanjung Iberia*" dan "*Baku Lawatan ke Eropah*" Menurut beliau "segala apa yang dilihat, didengar dan dirasai, kalau dicatatkan dengan Jujur dan betul, itu adalah menjadi catatan sejarah yang amat penting untuk pengetahuan orang-orang yang akan datang".6
 
-Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, kebudayaan dan politik serta badan sukarela.
+Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, 
+kebudayaan dan politik serta badan sukarela.
 
+#### **Karya-Karya Harun**
+
+Novel pertamanya "*Melor Kuala Lumpur*" ditulis dalam tulisan Jawi setebal 110 muka surat. la mengisahkan suka duka pencintaan sepasang remaja yang masih terkengkong dengan adat tradisi masyarakat Timur. Novel ini malangnya tidak mendapat sambutan hangat di kalangan peminat sastera waktu itu. Jalan cerita novel ini seiras dengan novel Hamka, "*Di Bawah Lindungan Kaabah*". Menurut setengah ahli sastera, novel Harun adalah hasil karya beliau yang asli dan bukan hasil cedukan kerana "*Melor Kuala Lumpur*" lahir pada tahun 1930 sementara novel Hamka diterbitkan pada 1938.7
+
+Selepas kegagalan buku pertamanya ini, Harun telah memberhentikan kegiatan penulisannya sementara waktu kerana beliau telah dipindakan ke Brunei untuk menyandang jawatan baru yang lebih mencabar sebagai Penguasa Pelajaran di sana.
+
+Sekembalinya ke Singapura selepas Perang Dunia II, beliau lebih serius semula dalam bidang penulisan kerana penulisan merupakan satu sumber pencarian untuk menampung kehidupan keluarga beliau.
+
+#### **Karya Harun Sebagai Karya Sejarah**
+
+Sejarawan Malaysia, Cheah Boon Keng pernah mengatakan dalam rencana akhbar nya bahawa "*What Walter Scott is to English Literature", Harun is to Malay Literature*",8 kerana Harun seringkali menyentuh isu nasionaisma Melayu dalam hasil karyanya seperti Wak Cantok, Panglima Awang, Wan Darus, Tun Mandak dan Sultan Mahmud.
+
+Harun dianggap berjaya menerapkan sejarah kedalam karyanya dengan menjelmakan watak-watak yang terdapat dalam peristiwa itu sendiri seperti dalam cerita "*Panglima Awang*". Tujuan Harun mengemukakan karyanya kerana "... tertarik hati kepada dua buah karangan pendek yang isinya hampir sama dengan sebuah akhbar yang disiarkan dalam Bahasa Inggeris dan sebuah lagi didalam Bahasa Indonesia beberapa tahun yang lalu. Kedua-dua karangan ini menceritakan sudut sejarah dunia yang berlaku di atas tanahair kita pada abad ke 16. Mengikut pengakuan kedua-dua buah karangan itu, adalah orang yang pertama mengelilingi dunia ialah 'orang Melayu' Melaka iaitu dalam abad ke 16 ketika selepas orang Portugis datang menyerang dan penaklukan negeri Melaka dari tangan kerajaan Melayu Melaka".9 
+
+Mengikut karangan Barat itu, Alfonso's de' Aibuquerque yang menjadi ketua orang Portugis telah menjual seorang Melayu yang menjadi tawanan kepada Kapitan bernama Fernando de Magalhes atau pun Magellan, orang yang pertama cuba mengelilingi dunia dengan kapal layar dengan penuh kepercayaan bahawa dunia itu bulat.
+
+Orang yang dijual itu memasuki agama Kristian dan diberi mama Enrique. Beliaulah orang Melayu yang pertama mengelilingi dunia mengikuti pelayaran Magellan. Setakat ini, tidak diketahui siapa sebenamya Enrique. Kemungkinan, oleh kerana tipu helah penjajah Portugis dan Sepanyol, nama asal Enrique tidak dicatatkan dengan niat untuk menghapuskan nama orang Melayu. Di antara lain, karya itu juga mengatakan bahawa: "Magellan ketika sampai di Pulau Cebu (Filipina) telah mati terbunuh di Pulau Mactan ketika hendak menundukkan Raja Pulau Mactan yang memberontak melawan Raja Pulau Cebu iaitu sahabat Magellan. Ketika Magellan mati, Enrique yang cedera parah dapat meneruskan pelayarannya ke Melaka. Jadi Jelaslah Enrique ialah orang yang pertama dapat mengelilingi dunia bukan Magellan. 10
+Dalam buku ini, Harun telah menjelmakan watak Enrique sebagai seorang pahlawan Melayu yang gagah perkasa dan diberi nama Panglima Awang sesuai dengan kelahirannya di alam Melayu dan hidup dalam keadaan yang serba keMelayuan dan ketimuran. Kisah sejarah itu juga diselitkan dengan peristiwa percintaan antara Panglima Awang dengan Tun Gayah.
+
+Kejayaan Harun sebagai penulis roman sejarah teletak kepada kematangannya mencari bahan-bahan penting melalui majalah, buku sejarah serta tradisi lisan. Beliau kemudian menyusun kembali fakta sejarah, memillh kata-kata yang sesuai dan melukiskan suasana supaya sealiran dengan tuntutan era yang ditulis itu.
+
+Karya roman sejarah Harun kurang mendapat	sambutan masyarakat
+ketika itu kerana mereka
+lebih bermhat terhadap karya yang menyentuh isu-isu semasa yang 'ringan' dan belum dapat memberi penilaian kepada karya roman sejarah. Sejarawan Cheah Boon Keng merasakan kesan-kesan terhadap perkembangan nasionalisma terselit dalam karya Harun, kerana itulah beliau dianggap 'Walter Scott' sastera Melayu. Menurut Shamsudin Dahlan dalam kajian ilmiahnya "Novel sejarah ini dikarang untuk mengembalikan keperibadian bangsa supaya orang-orang Melayu tahu dan sedar bahawa mereka bukanlah berasal dad bangsa yang dijajah".11 
+
+Karyanya yang lain seperti "*Cinta Gadis Rimba*" yang terbit di tahun 1948 merupakan novel kenangan Harun semasa menetap dl Borneo Utara. la memaparkan kehidupan serta adat istiadat dan pantang larang serta kepercayaan orang Dayak disamping kishah percintaan antara pemuda Melayu dengan gadis Dayak. Ini disusuli pula dengan novel "*Siapakah yang Bersalah?*" yang merupakan autobiografi beliau sendiri sewaktu penjajahan Jepun dan kemasukan British.
+
+Novel "*Darah Kedayan*" juga belatar belakangkan masyarakat pribumi di Brunei yang ditulis khas untuk orang Kedayan di Brunei sebagai penghargaan atas layanan dan perlindungan orang-orang Brunei terhadapnya semasa Perang Dunia II.
 
 
 
