@@ -154,23 +154,22 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^31]: “‘[Turban’ Wife Ordered to Make Her Defence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770115-1.2.73.11),” _Straits Times_, 15 January 1977, 11; “[No-Helmet Pillion Wife Is Fined](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770421-1.2.135.10),” _Straits Times_, 21 April 1977, 25. (From NewspaperSG)
 
-[^32]:
+[^32]: “[Danger of Drilling Hole in Your Crash Helmet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19710423-1.2.59),” _Singapore Herald_, 23 April 1971, 7. (From NewspaperSG)
 
-[^33]:
+[^33]: Lee Chiu San, “[It Is Sad That Many Still Buy the Cheapest Helmet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820712-1.2.81.4),” _Straits Times_, 12 July 1982, 15. (From NewspaperSG)
 
-[^34]:
+[^34]: “[So Popular... These Made-to-Measure Helmets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790525-1.2.13),” _New Nation_, 25 May 1979, 3. (From NewspaperSG)
 
-[^35]:
+[^35]: “[Crash Helmet Was Murder Weapon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800726-1.2.87),” _Straits Times_, 26 July 1980, 18. (From NewspaperSG)
 
-[^36]:
+[^36]: “[Ban on Visors, But This M-cycist Gave the Law the Slip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750415-1.2.79),” _Straits Times_, 15 April 1975, 15; “[Malaysia Clamps Down on Those Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750419-1.2.48.11),” _Straits Times_, 19 April 1975, 10. (From NewspaperSG)
 
-[^37]:
+[^37]: “[M-cyclists Ask Govt. to Reconsider Decision](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750224-1.2.11.2),” _New Nation_, 24 February 1975, 4. (From NewspaperSG)
 
-[^38]:
+[^38]: Jim Watkins, “[The Great Helmet Row](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750224-1.2.11.1),” _New Nation_, 24 February 1975, 4. (From NewspaperSG)
 
-[^39]:
+[^39]: Lee Chiu San, “[Visor Ban Is No Check on Robbers’ Disguise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750224-1.2.11.3),” _New Nation_, 24 February 1975, 4. (From NewspaperSG)
 
-[^40]:
+[^40]: Hagen, “[Lift the Ban on Clear M-cycle Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800503-1.2.86.11),” _New Nation_, 3 May 1980, 19; Lee Chiu San, “[Call to Review Ban on Clear Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19801115-1.2.49),” _New Nation_, 15 November 1980, 10; Pragmatist, “[Before the Ban, I Always Rode in Comfort](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801220-1.2.68.9),” _Straits Times_, 20 December 1980, 21. (From NewspaperSG)
 
-[^41]:
-
+[^41]: “[Wear Only Full-face Helmets That Have Sisir Approval](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940304-1.2.37.9),” _Straits Times_, 4 March 1994, 28. (From NewspaperSG)
