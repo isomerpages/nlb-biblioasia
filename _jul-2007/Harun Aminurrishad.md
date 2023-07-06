@@ -63,6 +63,9 @@ Buku-buku karya beliau merangkumi novel sejarah, puisi dan lain-lain lagi. Waktu
 
 Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Melayu Raya[^4] dan berkarya melalui majalah-majalah terbitan Al-Ahmadiah Press, Singapura. Bersama-sama Cikgu Amir Haji Omar, beliau pernah menerbitkan majalah Kencana iaitu majalah tulisan Rumi yang terawal di terbitkan di Tanah Melayu dan Singapura selepas 1945.[^5] 
 
+<img src="/images/Vol%203%20Issue%202/Harun/capture1.jpg" style="width:50%;">
+ <div style="background-color: white;">     Karya-karya Harun dipamerkan di Galeri Perintis Sastera, Lembaga Perpustakaan Negara</div>
+
 Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
 diabadikan dalam beberapa karyanya. Rakaman catatan perjalanan ini dapat ditatapi secara terperinci dalam bukunya "*Melihat Matahafi di Tengah Malam*" , "*Terbang ke Barat*", "*Melawat ke Semenanjung Iberia*" dan "*Baku Lawatan ke Eropah*" Menurut beliau "segala apa yang dilihat, didengar dan dirasai, kalau dicatatkan dengan Jujur dan betul, itu adalah menjadi catatan sejarah yang amat penting untuk pengetahuan orang-orang yang akan datang".[^6]
 
