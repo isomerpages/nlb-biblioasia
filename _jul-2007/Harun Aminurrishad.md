@@ -66,10 +66,8 @@ Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Mel
 Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
 diabadikan dalam beberapa karyanya. Rakaman catatan perjalanan ini dapat ditatapi secara terperinci dalam bukunya "*Melihat Matahafi di Tengah Malam*" , "*Terbang ke Barat*", "*Melawat ke Semenanjung Iberia*" dan "*Baku Lawatan ke Eropah*" Menurut beliau "segala apa yang dilihat, didengar dan dirasai, kalau dicatatkan dengan Jujur dan betul, itu adalah menjadi catatan sejarah yang amat penting untuk pengetahuan orang-orang yang akan datang".[^6]
 
-![](/images/Vol%203%20Issue%202/Harun/harun%20aminurrashid,%20hakcipta%20terpelihara,%20pustaka%20melayu,%201962.jpg)
-
 <img src="/images/Vol%203%20Issue%202/Harun/harun%20aminurrashid,%20hakcipta%20terpelihara,%20pustaka%20melayu,%201962.jpg" style="width:50%;">
- <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+ <div style="background-color: white;">Novel ini pernah diterbitkan dalam tulisan Jawi pada April 1930</div>
 
 Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, 
 kebudayaan dan politik serta badan sukarela.
