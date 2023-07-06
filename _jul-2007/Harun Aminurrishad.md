@@ -27,10 +27,13 @@ Pada awalnya beliau terpengaruh dengan perkembangan politik di Indonesia melalui
 
 Adalah menjadi tadisi di MPSI iaitu setiap Hari Jumaat (malam Sabtu) guru-guru akan memberi syarahan bergilir-gilir kepada penuntut. Isu yang disentuh berkaitan kemunduran dan buaian penjajah Barat. Sepanjang tahun 1927 hingga 1938 sebagai penuntut dan guru pelatih di MPSI, Harun telah menyumbangkan sejumlah 11 syarahan yang menghangatkan api kesedaran kebangsaan di jiwa penuntut-penuntut Maktab itu.[^3] Syarahan-syarahan Harun ini telah memberi perangsang kepada penubuhan gerakan yang telah mencatatian sejarah dalam politik orang Melayu era 1930an iaitu Kesatuan Melayu Muda (KMM).
 
+<img src="/images/Vol%203%20Issue%202/Harun/imag0011%201.jpg" style="width:50%;">
+ <div style="background-color: white;">        Buku Sinar Baru digunakan sebagai teks sekolah di tahun-tahun 60an</div>
+
 Aktiviti Harun yang melampau di mata pentadbiran Inggeris pada tahun 1938 itu tidak digemari oleh pihak yang berkuasa di MPSI. Kemuncak pengaruh kesedaran kebangsaan yang ditiupkan oleh
 Harun	telah menceluskan satu tunjuk perasaan secara aman oleh penuntut-penuntut MPSI yang telah berbaris bejalan mengelilingi kawasan Maktab dengan menyanyikan lagu kemerdekaan dan kebangsaan seperti "Pemuda Kita" gubahan Cikgu Ayub Rawan dan liriknya oleh Harun sendiri. Bagi penjajah Inggeris, peristiwa ini amat merbahaya dan boleh mengganggu kedudukan Inggeris di Tanah Melayu. Pada tahun 1939, beliau telah diarahkan supaya berpindah ke Brunei dengan menyandang jawatan baru sebagai Penguasa Pelajaran di sana. Pada zahirnya jawatan ini merupakan satu penghormatan bagi anak Melayu ketika itu tetapi sebaliknya dapat terlihat kecurigaan pihak penjajah terhadap kegiatan Harun yang ditakuti meracuni fikiran dan jiwa penuntut MPSI. Dengan memegang Jawatan baru ini, Harun terpisah seta terasing dari kumpulan bakal pendidik dan pejuang tanah air di MPSI.
 
-#### **Pengalaman Hawn Semasa Pendudukan Jepun di Brunei**
+#### **Pengalaman Harun Semasa Pendudukan Jepun di Brunei**
 
 Walaupun beliau terpisah Sari rakan-rakan seperjuangannya, beliau tetap bergiat dalam bidang politik dl Brunei dengan mempelopori gerakan kebangsaan seperti badan Kesatuan Melayu Brunei. Beliau juga bertanggungjawab dalam penubuhan Barisan Pemuda Brunei (BARIP) dan Partai Kebangsaan Melayu Malaya (PKMM) cawangan Labuan.
 
@@ -38,13 +41,16 @@ Harun meneruskan kegiatannya di bidang peiajaran sehingga kemasukan Jepun pada b
 
 Hubungannya dengan pegawai-pegawai Jepun begitu akrab kerana beliau pernah menjadi penterjemah Bahasa Jepun untuk perbualan sehari-hari antara pegawai Jepun dengan penduduk tempatan. Beliau sendiri pernah ditawarkan jawatan Gabenor Brunei jika Pemerintahan Jepun dapat mengekalkan kedudukannya di rantau ini.
 
-di saat-saa Jepun di ambang kekalahan, Harun dan keluarganya terpaksa lari ke kawasan pendalaman kerana pergelutan sengit antara pihak Jepun dan askar British yang akhirnya dapat mengusir Jepun dari rantau ini. Semasa Tanah Melayu ditadbirkan oleh Pentadbiran Tentera iaitu British Military Administration (BMA) dari September 1945–1 April 1946, Harun telah disyaki subversif dan dipenjara tanpa dibicara selama 86 hari.
+<img src="/images/Vol%203%20Issue%202/Harun/dsc_0019%201.jpg" style="width:50%;">
+ <div style="background-color: white;">     Karya terjemahan Darah Kedayan dalam Bahasa Inggeris</div>
+
+Di saat-saat Jepun di ambang kekalahan, Harun dan keluarganya terpaksa lari ke kawasan pendalaman kerana pergelutan sengit antara pihak Jepun dan askar British yang akhirnya dapat mengusir Jepun dari rantau ini. Semasa Tanah Melayu ditadbirkan oleh Pentadbiran Tentera iaitu British Military Administration (BMA) dari September 1945–1 April 1946, Harun telah disyaki subversif dan dipenjara tanpa dibicara selama 86 hari.
 
 Semasa dipenjara, anak isterinya ditinggalkan dan mendapat perlindungan penduduk pribumi Kedayan. Jasa mereka melindungl keluarga Harun telah diabadikan dalam novelnya Darah Kedayan. Kehidupan dipenjara memberi inspirasi yang menguatkan semangat perjuangannya terhadap kemerdekaan negaranya.
 
 Selepas perbicaraan mengenai penglibatannya dalam masa pemerintahan Jepun, beliau didapati tidak bersalah dan diarahkan untuk pulang ke Singapura. Sebenarya, beliau pemah ditawarkan sebagai Ahli Mesyuarat Negeri (Kawasan Ulu Yam Selangor) tetapi beliau menolaknya kerana tidak lagi mempercayai penjajah Inggeris.
 
-#### **Harun Sebagai Pernik**
+#### **Harun Sebagai Penulis**
 
 Di Singapura, beliau sekali lagi menerima tawaran sebagai guru dari pemerintahan British pada tahun 1946 tetapi beliau menolaknya kerana tidak mahu terikat dengan pernerintah.
 
@@ -56,6 +62,11 @@ Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Mel
 
 Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
 diabadikan dalam beberapa karyanya. Rakaman catatan perjalanan ini dapat ditatapi secara terperinci dalam bukunya "*Melihat Matahafi di Tengah Malam*" , "*Terbang ke Barat*", "*Melawat ke Semenanjung Iberia*" dan "*Baku Lawatan ke Eropah*" Menurut beliau "segala apa yang dilihat, didengar dan dirasai, kalau dicatatkan dengan Jujur dan betul, itu adalah menjadi catatan sejarah yang amat penting untuk pengetahuan orang-orang yang akan datang".[^6]
+
+![](/images/Vol%203%20Issue%202/Harun/harun%20aminurrashid,%20hakcipta%20terpelihara,%20pustaka%20melayu,%201962.jpg)
+
+<img src="/images/Vol%203%20Issue%202/Harun/harun%20aminurrashid,%20hakcipta%20terpelihara,%20pustaka%20melayu,%201962.jpg" style="width:50%;">
+ <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
 
 Susulan dan lawatannya ke Pantai Timur, Malaysia pada tahun 1966, Harun telah menulis buku "Mengesan Jejak Pelayaran Munsyi Abdullah". Belau kemudiannya terus bergiat dalam penulisan sastera untuk bacaan semua peringkat umur masyarakat di samping bergerak dalam bidang pelajaran, 
 kebudayaan dan politik serta badan sukarela.
