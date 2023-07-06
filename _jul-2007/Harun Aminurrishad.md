@@ -89,6 +89,21 @@ Karyanya yang lain seperti "*Cinta Gadis Rimba*" yang terbit di tahun 1948 merup
 
 Novel "*Darah Kedayan*" juga belatar belakangkan masyarakat pribumi di Brunei yang ditulis khas untuk orang Kedayan di Brunei sebagai penghargaan atas layanan dan perlindungan orang-orang Brunei terhadapnya semasa Perang Dunia II.
 
+Novel beliau, Simpang Perinang pernah diberi penghargaan oleh UNESCO dan telah diterjemah ke Bahasa Inggeris dan Urdu pada tahun 1967.
+
+#### **Pak Har Sebagai Penulis Cerita Kanak-Kanak**
+
+Beliau menulis cerita kanak-kanak yang bercorak didaktik sesuai dengan jiwanya yang mahukan anak-anak Melayu berpendidikan sempurna dan menjadi pemimpin bangsa. Buku "*Dua	Beradek*" adalah rakaman perbualan anak-anaknya sendiri dan ditulis untuk bacaan dan panduan ibu bapa mendldlk anak-anak mereka. Buku Awang dan Dara ditulis dengan harapan supaya anak-anak Melayu dididik mengenai bangsa dan negara serta menanam sifat keperibadian Melayu di jiwa mereka.
+
+Sumbangan Harun menulis buku barcaan sekolah tidak boleh diabaikan kerana beliau telah menulis "Sinar Baharu: (7 penggal) dan "Cahaya Baharu" (6 penggal dalam tulisan Jawi) yang pernah digunakan oleh pelajar-pelajar sekolah Melayu di awal tahun 60an. Beliau lebih senang menggunakan nama Pak Har dalam berbicara dengan kanak-kanak atau pelajar-pelajar dalam tulisannya.
+
+#### **Harun Sebagai Wartawan**
+
+Beliau memang sejak mula lagi telah menulis rencana terbitan "Warta Ahad" dan
+"Warta Jenaka" dan telah memimpin beberapa akhbar harian dan majalah Melayu selepas Perang Dunia II. Rencana yang menyentuh soal politik dan nasionalisma merupakan isu yang paling diminati kerana angin nasionaIisma kemerdekaan sedang bertiup kencang dari negara jiran, Indonesia.
+
+Tidak ramai yang mengetahui keboIehan Harun dalam bidang persajakan dan beliau pemah tergolong dalam angkatan pujangga baru di Tanah Melayu. Sajaknya yang sulung bertajuk "Oh Sariku" pernah diterbitkan di Majalah Pujangga Baru, no. 6 Disember 1933.
+
 
 
 
