@@ -102,12 +102,12 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^5]: “[Attention Motor Cyclists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570120-1.2.121),” _Straits Times_, 20 January 1957, 18. (From NewspaperSG)
 
-[^6]:
+[^6]: “[‘Wear Head Protection’ Call to Motor Cyclists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601114-1.2.91),” _Singapore Free Press_, 14 November 1960, 7. (From NewspaperSG)
 
-[^7]:
+[^7]: Lawyer, “[Safety First](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620303-1.2.82.2),” _Straits Times_, 3 March 1962, 10. (From NewspaperSG
 
-[^8]:
+[^8]: “[Cutting Down the $130 M Cost of Road Mishaps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710311-1.2.29),” _Straits Times_, 11 March 1971, 3. (From NewspaperSG)
 
-[^9]:
+[^9]: “[Civic Sense](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19691103-1.2.79),” _Eastern Sun_, 3 November 1969, 6. (From NewspaperSG)
 
 [^10]:
