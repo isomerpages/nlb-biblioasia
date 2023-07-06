@@ -116,6 +116,31 @@ Peranan Harun sebagai seorang guru dalam pengertian ikhtisas tidaklah begitu bes
 
 Sumbangan Harun dan rakan-rakan seperjuangannya dalam memimpin Majlis Pelajaran amat besar ertinya dalam perkembangan pelajaran Melayu khususnya di Singapura. Majlis Pelajaran Melayu terdiri dari 48 badan kebudayaan Melayu di Singapura dan Malaysia. Pada tahun 1950an, pemimpin-pemimpin dari badan ini termasuk Harun telah berjuang untuk menaikkan taraf pelajaran di Sekolah Melayu. Mereka berusaha dan mendesak supaya pelajaran Melayu diperkenalkan di peringkat menengah semasa Singapura dapat mencapai kedudukan pemerintah sendiri pada pertengahan 1950 dibawah pimpinan Encik Lim Yew Hock. Kemuncak kejayaan perjuangan Majlis Pelajaran Melayu ialah penubuhan dua sekolah Melayu di Singapura untuk pertama kalinya iaitu Sekolah Melayu Sang Nila Utama dan Sekolah Melayu Tun Sri Lanang, pada 1959.
 
+Badan Majlis Pelajaran ini meneruskan tuntutan mereka untuk meninggikan taraf penggunaan Bahasa Melayu ke peringkat Universiti sehingga pemerintahan Parti Tindakan Rakyat (PAP). Pemimpin-pemimpin Melayu yang sama-sama berjuang dalam badan ini ialah Allahyarham Ali Haji Ahmad dan Lokman Musa yang pada masa itu menjadi wakil Persatuan Mahasiswa Universiti Malaya (Singapura).
+
+Usaha badan ini yang mahukan taraf bahasa Melayu digunakan di peringkat universiti tidak mendapat perhatian dari pemerintah British tetapi desakan ini telah melahirkan Jabatan Melayu di Universiti Malaya (Singapura). Menurut Harun, walaupun perjuangan beliau tidak berjaya serta merta di Singapura, namun beliau amat berbangga dengan penubuhan Universiti Kebangsaan Malaysia (UKM) yang merupakan hasil perjuangan mereka. UKM yang ditubuhkan pada 1970 merupakan satu-satunya universiti di Malaysia yang menggunakan bahasa Melayu sebagai bahasa penghantar. Ini menunjukkan bahawa bahasa Melayu itu setaraf dengan bahasa lain kerana ia berjaya digunakan di peringkat universiti terutama dalam pelajaran sains dan perubatan walaupun ada beberapa kesulitan yang dihadapi.
+
+Dalam bidang politik, Harun pernah melibatkan diri dalam Partai Kebangsaan Melayu Malaya (PKMM) yang ditubuhkan dalam tahun 1945. Beliau lebih cenderung menjadi ahli PKMM kerana parti ini lebih progresif dari UMNO yang lebih ortodok. Dalam PKMM, beliau pernah berjuang bersama-sama Dr. Burhanuddin Al-Helmi.
+
+Selepas PKMM diharamkan kerana kegiatannya yang bersayap kiri dan anti-British, melalui organ parti ini, iaitu Warta Malaya, Harun bersama-sama Dr. Burhanuddin dan Ishak Hj. Mohammad serta Ahmad Boestamam telah mempelopori Parti Rakyat Malaya pada 11 November 1955. Parti ini berfaham sosialis serta berideologi lebih luas dan terang.
+
+Di Singapura, Harun menubuhkan cawangan Parti Rakyat ini. Kemuncak penglibatan Harun dalam aktiviti politik ialah apabila beliau dicalonkan dalam Pilihan Raya di Singapura atas nama Parti Rakyat pada tahun 1958 kerana pada masa itu beliau sendiri merupakan Presiden parti itu. Harun telah bertanding di kawasan undi Geylang Serai bersama-sama Ahmad Jumat, calon pihak Parti Tindakan Rakyat Singapura (PAP) di bawah pimpinan Encik Lee Kuan Yew. Harun telah kalah dalam pilihan raya itu kerana kekurangan sokongan bangsa asing. Sejak kekalahan ini, Parti Rakyat telah merosot kerana kemasukan unsur-unsur yang tidak sejiwa dengan keyakinan orang Melayu yang beragama Islam dan akhirnya Harun sendiri telah meninggalkan parti ini kerana ketidak sefahaman ideologi.
+
+#### **Sumbangan Harun Dalam Badan Pelajaran dan Kebudayaan**
+
+Beliau berperanan penting dalam mempertinggikan taraf bahasa Melayu agar setanding dengan bahasa asing yang lain. Harun juga pernah mengetuai Badan Sastera Melayu untuk menghadiri Kongres Bahasa Indonesia di Medan pada tahun 1954. Antara jawatan penting yang pernah dipegang oleh Harun ialah sebagai:
+
+·	Ahli Jawatankuasa Lembaga Tetap Kongres Bahasa dan Kebudayaan Melayu yang berperanan untuk menaikkan taraf perkembangan bahasa Melayu sebagai Bahasa Kebangsaan.<br>
+
+·	Timbalan Pengerusi, Dewan Kebangsaan Persekutuan Tanah Melayu yang berjuang untuk penubuhan Dewan Bahasa dan Pustaka yang mengendalikan hasil sastera dan kebudayaan Melayu pada masa ini.<br>
+
+·	Setiausaha, Lembaga Penuntut Melayu Semenanjung yang memberi bantuan kepada penuntut Melayu yang belajar di luar negeri. Pemenang biasiswa yang kurang mampu diberi bantuan kewangan hasil kutipan derma dari orang ramai. Peranan badan ini sangatlah besar di samping memberi kesedaran kepada orang ramai supaya menghulurkan bantuan kepada pelajar yang berkebolehan yang bakal menjadi pemimpin negara di masa hadapan.
+
+
+
+
+
+
 
 
 
