@@ -251,6 +251,3 @@ Harun Aminurrashid, [_Terbang Ka-Barat_](https://eservice.nlb.gov.sg/item_holdin
 Harun Aminurrashid, [_Wak Chantok_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200090699) (Singapura: Geliga, 1957). (Call no. Malay RCLOS 398.2095957 HAR)
 
 Harun Aminurrashid, [_Wan Derus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183839) (Singapura: Pustaka Melayu, 1965). (Call no. Malay RCLOS 899.13 HAR)
-
-
-
