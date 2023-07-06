@@ -51,7 +51,7 @@ The first prize winner of the Western section was domestic science teacher Mary 
 
 Subsequently, 120 winning entries from the two cooking competitions were compiled into a cookbook titled *“The Proof Is in the Eating” Recipe Book*, which was sold to the public at $1.[^17] The recipes were printed in English, Chinese, Malay and Tamil. 
 
-![](/images/Vol%2019%20Issue%203/Wheat/image5.png)
+![](/images/Vol%2019%20Issue%203/Wheat/image5b.png)
 <div style="background-color: white;">After the nationwide wheat cooking competitions in 1967 and 1968, 120 winning recipes were compiled into a cookbook titled <i>“The Proof Is in the Eating” Recipe Book. Image reproduced from RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS).</i></div>
 
 ![](/images/Vol%2019%20Issue%203/Wheat/image4.png)
