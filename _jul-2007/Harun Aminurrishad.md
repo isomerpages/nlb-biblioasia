@@ -153,3 +153,21 @@ Source:
 Harun Aminurrashid: Biography
 <a href="https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/">https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/</a>
 </div>
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Sundusia.jpg">
+<center> <b>Sundusia Rosdi</b><br>Assistant Manager<br>Professional Services<br>National Library Board</center></div>
+
+#### **BAHAN RUJUKAN**
+
+Sulaiman Jeem and Abdul Ghani Hamid, [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194) (Singapura: Persatuan Wartawan Melayu Singapura, 1997). (Call no. Malay RSING 305.89928 AKT)
+
+Sundusia Rosdi, "Harun Aminurrashid" dalam [_Sastera dan Sasterawan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5628721), ed. Khoo Kay Kim dan Mohd. Fadzil Othman (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980). (Call no. Malay R 899.23009 SAS
+
+#### **NOTES**
+
+
+
+
