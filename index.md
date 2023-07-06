@@ -103,9 +103,8 @@ sections:
   - infopic:
       title: Taoist Folk Goddesses of Singapore
       subtitle: podcast
-      description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses.
-        Award-winning writer Ng Yi-Sheng tells us about their legends and
-        worship.
+      description: Award-winning writer Ng Yi-Sheng tells us about the legends and
+        worship of local goddesses Maiden Lin, Maiden Lei and Maiden Huang.
       button: Listen to BiblioAsia+
       url: /podcast/taoist-folk-goddesses-singapore
       image: /images/Podcast/ba ep2 yi-sheng.jpg
