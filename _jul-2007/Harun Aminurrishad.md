@@ -91,11 +91,17 @@ Harun dianggap berjaya menerapkan sejarah kedalam karyanya dengan menjelmakan wa
 
 Mengikut karangan Barat itu, Alfonso's de' Aibuquerque yang menjadi ketua orang Portugis telah menjual seorang Melayu yang menjadi tawanan kepada Kapitan bernama Fernando de Magalhes atau pun Magellan, orang yang pertama cuba mengelilingi dunia dengan kapal layar dengan penuh kepercayaan bahawa dunia itu bulat.
 
+<img src="/images/Vol%203%20Issue%202/Harun/dsc_0021%201.jpg" style="width:50%;">
+ <div style="background-color: white;">Karya terjemahan Darah Kedayan dalam Bahasa Mandarin</div>
+
 Orang yang dijual itu memasuki agama Kristian dan diberi mama Enrique. Beliaulah orang Melayu yang pertama mengelilingi dunia mengikuti pelayaran Magellan. Setakat ini, tidak diketahui siapa sebenamya Enrique. Kemungkinan, oleh kerana tipu helah penjajah Portugis dan Sepanyol, nama asal Enrique tidak dicatatkan dengan niat untuk menghapuskan nama orang Melayu. Di antara lain, karya itu juga mengatakan bahawa: "Magellan ketika sampai di Pulau Cebu (Filipina) telah mati terbunuh di Pulau Mactan ketika hendak menundukkan Raja Pulau Mactan yang memberontak melawan Raja Pulau Cebu iaitu sahabat Magellan. Ketika Magellan mati, Enrique yang cedera parah dapat meneruskan pelayarannya ke Melaka. Jadi Jelaslah Enrique ialah orang yang pertama dapat mengelilingi dunia bukan Magellan.[^10]
 
 Dalam buku ini, Harun telah menjelmakan watak Enrique sebagai seorang pahlawan Melayu yang gagah perkasa dan diberi nama Panglima Awang sesuai dengan kelahirannya di alam Melayu dan hidup dalam keadaan yang serba keMelayuan dan ketimuran. Kisah sejarah itu juga diselitkan dengan peristiwa percintaan antara Panglima Awang dengan Tun Gayah.
 
 Kejayaan Harun sebagai penulis roman sejarah teletak kepada kematangannya mencari bahan-bahan penting melalui majalah, buku sejarah serta tradisi lisan. Beliau kemudian menyusun kembali fakta sejarah, memillh kata-kata yang sesuai dan melukiskan suasana supaya sealiran dengan tuntutan era yang ditulis itu.
+
+<img src="/images/Vol%203%20Issue%202/Harun/aminurrashid%20book2%201958.jpg" style="width:50%;">
+ <div style="background-color: white;">Antara karya awal Harun " Jong Batu" dalam tulisan Jawi di Koleksi Lembaga Perpustakaan Negara</div>
 
 Karya roman sejarah Harun kurang mendapat	sambutan masyarakat
 ketika itu kerana mereka
