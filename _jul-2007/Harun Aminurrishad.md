@@ -166,31 +166,7 @@ Sulaiman Jeem and Abdul Ghani Hamid, [_Aktivis Melayu/Islam di Singapura_](https
 
 Sundusia Rosdi, "Harun Aminurrashid" dalam [_Sastera dan Sasterawan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5628721), ed. Khoo Kay Kim dan Mohd. Fadzil Othman (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980). (Call no. Malay R 899.23009 SAS
 
-#### **NOTES**
-
-[^1]: _Dictionary of International Biography_ (London: Melrose Press Ltd., 1968), m.s. 243.
-
-[^2]: Mahmud Ahmad, "Harun Aminurrashid" _Majallah Dian_ (Ogos 1976): m.s. 19.
-
-[^3]: Sundusia Rosdi, "Harun Aminurrashid" dalam [_Sastera dan Sasterawan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5628721), ed. Khoo Kay Kim dan Mohd. Fadzil Othman (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980), 196. (Call no. Malay R 899.23009 SAS
-
-[^4]: Bersama-sama Dr. Burhanuddin Helmi, Kiayi Fadhullah Suhaimi, Syed Omar Abdul Rahman Alsagoff, beliau menerbitkan Akhbar Melayu Raya dalam tahun 1950an. Akhbar ini diharamkan dengan tercetusnya peristiwa Perang Natrah di Singapura tahun 1952.
-
-[^5]: Majalah Kencana yang diterbitkan dalam tahun 1940an merupakan majalah pengetahuan mengenai politik, sastera dan kebudayaan.
-
-[^6]: Prakata Chatetan ke-Tanah Suchi, 1961.
-
-[^7]: Shahrom Hussain, [_Antara Tokoh-Tokoh Pengarang Melayu Dan Karya-Karyanya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4502588), Siri Tokoh Sastera Kita, no. 1. (Singapura: Pustaka Melayu Malaysia Press, 1963), m.s. 121. (Call no. Malay RCLOS 899.283092 SHA)
-
-[^8]: Cheah Boon Kheng, "Every Man's Story Teller," _Straits Times_, 20 Jan 1973.
-
-[^9]: Pendahuluan kepada "Panglima Awang".
-
-[^10]: Pendahuluan kepada "Panglima Awang"
-
-[^11]: Shamsudin Dahlan, "Harun Sebagai Seorang Novelis", _Kajian Ilmiah_ (Jabatan Pengajian Melayu, Universiti Malaya, 1965), m.s. 60.
-
-#### **ANTARA KARYA-KARYA HARUN AMINURRASHID YANG TERDAPAT DI PERPUSTAKAAN NEGARA DAN CAWANGAN-CAWANGAN NYA:**
+#### **ANTARA KARYA-KARYA HARUN AMINURRASHID YANG TERDAPAT DI PERPUSTAKAAN NEGARA DAN CAWANGAN-CAWANGAN NYA**
 
 Harun Aminurrashid, [_Anak Panglima Awang_](8)_,_ (Singapura: Pustaka Melayu, 1961). (Call no. Malay RCLOS 899.13 HAR)
 
@@ -250,4 +226,32 @@ Harun Aminurrashid, [_Terbang Ka-Barat_](https://eservice.nlb.gov.sg/item_holdin
 
 Harun Aminurrashid, [_Wak Chantok_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200090699) (Singapura: Geliga, 1957). (Call no. Malay RCLOS 398.2095957 HAR)
 
-Harun Aminurrashid, [_Wan Derus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183839) (Singapura: Pustaka Melayu, 1965). (Call no. Malay RCLOS 899.13 HAR)
+Harun Aminurrashid, [_Wan Derus_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183839) (Singapura: Pustaka Melayu, 1965). (Call no. Malay RCLOS 899.13
+HAR)
+
+#### **NOTES**
+
+[^1]: _Dictionary of International Biography_ (London: Melrose Press Ltd., 1968), m.s. 243.
+
+[^2]: Mahmud Ahmad, "Harun Aminurrashid" _Majallah Dian_ (Ogos 1976): m.s. 19.
+
+[^3]: Sundusia Rosdi, "Harun Aminurrashid" dalam [_Sastera dan Sasterawan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5628721), ed. Khoo Kay Kim dan Mohd. Fadzil Othman (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980), 196. (Call no. Malay R 899.23009 SAS
+
+[^4]: Bersama-sama Dr. Burhanuddin Helmi, Kiayi Fadhullah Suhaimi, Syed Omar Abdul Rahman Alsagoff, beliau menerbitkan Akhbar Melayu Raya dalam tahun 1950an. Akhbar ini diharamkan dengan tercetusnya peristiwa Perang Natrah di Singapura tahun 1952.
+
+[^5]: Majalah Kencana yang diterbitkan dalam tahun 1940an merupakan majalah pengetahuan mengenai politik, sastera dan kebudayaan.
+
+[^6]: Prakata Chatetan ke-Tanah Suchi, 1961.
+
+[^7]: Shahrom Hussain, [_Antara Tokoh-Tokoh Pengarang Melayu Dan Karya-Karyanya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4502588), Siri Tokoh Sastera Kita, no. 1. (Singapura: Pustaka Melayu Malaysia Press, 1963), m.s. 121. (Call no. Malay RCLOS 899.283092 SHA)
+
+[^8]: Cheah Boon Kheng, "Every Man's Story Teller," _Straits Times_, 20 Jan 1973.
+
+[^9]: Pendahuluan kepada "Panglima Awang".
+
+[^10]: Pendahuluan kepada "Panglima Awang"
+
+[^11]: Shamsudin Dahlan, "Harun Sebagai Seorang Novelis", _Kajian Ilmiah_ (Jabatan Pengajian Melayu, Universiti Malaya, 1965), m.s. 60.
+
+
+
