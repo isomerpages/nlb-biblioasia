@@ -94,11 +94,11 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^1]: “[Who’ll Buy My Scooter?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19710112-1.2.73)” _Singapore Herald_, 12 January 1971, 8. (From NewspaperSG)
 
-[^2]: Marek Pruszewicz, “Lawrence of Arabia and the Crash Helmet,” BBC News, 11 May 2015, [https://www.bbc.com/news/magazine-32622465]().
+[^2]: Marek Pruszewicz, “Lawrence of Arabia and the Crash Helmet,” BBC News, 11 May 2015, https://www.bbc.com/news/magazine-32622465.
 
-[^3]: “New Clause – Helmets to be Worn by Drivers and Riders of Motorcycles,” UK Parliament, 31 May 1956, [https://hansard.parliament.uk/commons/1956-05-31/debates/810cfcdc-d4ef-426e-bc95-cbee5832e17b/NewClause%E2%80%94(HelmetsToBeWornByDriversAndRidersOfMotorCycles)]().
+[^3]: “New Clause – Helmets to be Worn by Drivers and Riders of Motorcycles,” UK Parliament, 31 May 1956, https://hansard.parliament.uk/commons/1956-05-31/debates/810cfcdc-d4ef-426e-bc95-cbee5832e17b/NewClause%E2%80%94(HelmetsToBeWornByDriversAndRidersOfMotorCycles).
 
-[^4]: UK Legislation, “The Motor Cycles (Wearing of Helmets) Regulations 1973,” The National Archives, last accessed 30 May 2023, [https://www.legislation.gov.uk/uksi/1973/180/]().
+[^4]: UK Legislation, “The Motor Cycles (Wearing of Helmets) Regulations 1973,” The National Archives, last accessed 30 May 2023, https://www.legislation.gov.uk/uksi/1973/180/.
 
 [^5]: “[Attention Motor Cyclists](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570120-1.2.121),” _Straits Times_, 20 January 1957, 18. (From NewspaperSG)
 
