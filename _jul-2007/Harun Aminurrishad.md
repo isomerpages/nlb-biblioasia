@@ -30,7 +30,7 @@ Pada awalnya beliau terpengaruh dengan perkembangan politik di Indonesia melalui
 
 Adalah menjadi tadisi di MPSI iaitu setiap Hari Jumaat (malam Sabtu) guru-guru akan memberi syarahan bergilir-gilir kepada penuntut. Isu yang disentuh berkaitan kemunduran dan buaian penjajah Barat. Sepanjang tahun 1927 hingga 1938 sebagai penuntut dan guru pelatih di MPSI, Harun telah menyumbangkan sejumlah 11 syarahan yang menghangatkan api kesedaran kebangsaan di jiwa penuntut-penuntut Maktab itu.[^3] Syarahan-syarahan Harun ini telah memberi perangsang kepada penubuhan gerakan yang telah mencatatian sejarah dalam politik orang Melayu era 1930an iaitu Kesatuan Melayu Muda (KMM).
 
-<img src="/images/Vol%203%20Issue%202/Harun/imag0011%201.jpg" style="width:50%;">
+<img src="/images/Vol%203%20Issue%202/Harun/imag0011%201.jpg" style="width:80%;">
  <div style="background-color: white;">        Buku Sinar Baru digunakan sebagai teks sekolah di tahun-tahun 60an</div>
 
 Aktiviti Harun yang melampau di mata pentadbiran Inggeris pada tahun 1938 itu tidak digemari oleh pihak yang berkuasa di MPSI. Kemuncak pengaruh kesedaran kebangsaan yang ditiupkan oleh
@@ -63,7 +63,7 @@ Buku-buku karya beliau merangkumi novel sejarah, puisi dan lain-lain lagi. Waktu
 
 Harun juga aktif dalam bidang kewartawanan dan pemah menjadi wartawan akhbar Melayu Raya[^4] dan berkarya melalui majalah-majalah terbitan Al-Ahmadiah Press, Singapura. Bersama-sama Cikgu Amir Haji Omar, beliau pernah menerbitkan majalah Kencana iaitu majalah tulisan Rumi yang terawal di terbitkan di Tanah Melayu dan Singapura selepas 1945.[^5] 
 
-<img src="/images/Vol%203%20Issue%202/Harun/capture1.jpg" style="width:50%;">
+<img src="/images/Vol%203%20Issue%202/Harun/capture1.jpg" style="width:80%;">
  <div style="background-color: white;">     Karya-karya Harun dipamerkan di Galeri Perintis Sastera, Lembaga Perpustakaan Negara</div>
 
 Pengalaman Harun yang luas melalui lawatan-lawatannya ke seluruh dunia seperti Eropah, Timur Tengah dan Asia telah 
