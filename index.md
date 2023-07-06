@@ -69,7 +69,7 @@ sections:
       subtitle: Podcast
       description: A beloved condiment in Southeast Asia, <i>belacan</i> has been
         called rank and disgusting. Learn about its long history.
-      button: Listen to the podcast
+      button: Listen to BiblioAsia+
       url: /podcast/belacan/
       image: /images/Podcast/ba toffa.jpg
       alt: Belacan
@@ -87,7 +87,7 @@ sections:
       subtitle: podcast
       description: Three large murals used to grace the walls of Paya Lebar Airport,
         depicting scenes from Singapore and Malaysia. Only one is left.
-      button: What happened to the murals?
+      button: Listen to BiblioAsia+
       url: /podcast/murals/
       image: /images/Podcast/ba ep3 dahlia.jpg
       alt: murals paya lebar airport
@@ -101,15 +101,15 @@ sections:
       image: /images/Vol 19 Issue 2/SG Record Industry/image9.png
       alt: New books
   - infopic:
-      title: My Grandfather Was a Rōmusha
+      title: Taoist Folk Goddesses of Singapore
       subtitle: podcast
-      description: "During World War II, the Imperial Japanese Army used forced
-        civilian labourers, known as rōmusha, to build the infamous Thai-Burma
-        Railway. "
-      button: listen to the podcast
-      url: /podcast/grandfather-romusha-thai-burma-railway/
-      image: /images/Podcast/ba ep1 romusha.jpg
-      alt: Rōmusha WWII labourers
+      description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses.
+        Award-winning writer Ng Yi-Sheng tells us about their legends and
+        worship.
+      button: Listen to BiblioAsia+
+      url: /podcast/taoist-folk-goddesses-singapore
+      image: /images/Podcast/ba ep2 yi-sheng.jpg
+      alt: Taoist Folk Goddesses
   - infopic:
       title: Remembering Punggol’s Kampong Wak Sumang
       subtitle: Places and Buildings
@@ -129,6 +129,16 @@ sections:
       url: /vol-19/issue-2/jul-sep-2023/tok-sumang-english/
       alt: Image alt text
       image: /images/Vol 19 Issue 2/Tok Sumang/wak sumang plays the violin .jpg
+  - infopic:
+      title: My Grandfather Was a Rōmusha
+      subtitle: podcast
+      description: During World War II, the Imperial Japanese Army used forced
+        civilian labourers, known as rōmusha, to build the infamous Thai-Burma
+        Railway.
+      button: Listen to BiblioAsia+
+      url: /podcast/grandfather-romusha-thai-burma-railway/
+      image: /images/Podcast/ba ep1 romusha.jpg
+      alt: Rōmusha WWII labourers
   - infopic:
       title: The Famous Whale Skeleton at the Raffles Museum
       subtitle: Nature and the Environment
@@ -426,16 +436,6 @@ sections:
       url: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank
       image: /images/Vol 18 Issue 3/MAS/2_queue.jpg
       alt: monetary authority singapore
-  - infopic:
-      title: Taoist Folk Goddesses of Singapore
-      subtitle: podcast
-      description: Maiden Lin, Maiden Lei and Maiden Huang are local goddesses.
-        Award-winning writer Ng Yi-Sheng tells us about their legends and
-        worship.
-      button: listen to the podcast
-      url: /podcast/taoist-folk-goddesses-singapore
-      image: /images/Podcast/ba ep2 yi-sheng.jpg
-      alt: Taoist Folk Goddesses
   - infopic:
       title: The Early Days of Family Planning in Singapore
       subtitle: Governance
