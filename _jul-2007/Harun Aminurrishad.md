@@ -7,6 +7,9 @@ description: Born Harun Bin Mohd Amin, Harun’s other pen names include Har,
 ---
 #### Born Harun Bin Mohd Amin, Harun’s other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of several newspapers and magazines.
 
+<img src="/images/Vol%203%20Issue%202/Harun/harun%20aminurrashid1.jpg" style="width:50%;">
+ <div style="background-color: white;"></div>
+
 #### **Harun Yang Dikenali**
 
 Harun Aminurrashid atau Harun Haji Mohd Amin merupakan segelintir sasterawan tempatan yang banyak memberi sumbangan terhadap penulisan sastera Melayu, Singapura, khususnya novel sejarah sejak tahun-tahun 1940an. Beliau yang lebih dlkenali sebagal Pak Har ini, lahir pada 8 Ogos 1907 di Singapura dan pernah mendapat didikan di Sekolah Melayu Kallang dan Sekolah Melayu Telok Kurau, Singapura.
