@@ -252,6 +252,3 @@ HAR)
 [^10]: Pendahuluan kepada "Panglima Awang"
 
 [^11]: Shamsudin Dahlan, "Harun Sebagai Seorang Novelis", _Kajian Ilmiah_ (Jabatan Pengajian Melayu, Universiti Malaya, 1965), m.s. 60.
-
-
-
