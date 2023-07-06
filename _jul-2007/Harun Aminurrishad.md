@@ -104,7 +104,17 @@ Beliau memang sejak mula lagi telah menulis rencana terbitan "Warta Ahad" dan
 
 Tidak ramai yang mengetahui keboIehan Harun dalam bidang persajakan dan beliau pemah tergolong dalam angkatan pujangga baru di Tanah Melayu. Sajaknya yang sulung bertajuk "Oh Sariku" pernah diterbitkan di Majalah Pujangga Baru, no. 6 Disember 1933.
 
+#### **Nama Samaran**
 
+Harun sering rnenukar nama samaran beliau menurut corak penulisannya. Nama yang mula-mula digunakan ialah "Penulis Khas Tanjung Malim" dalam artikel bercorak pengetahuan. Kemudian digunakan "HBMA" (singkatan bagi Harun Bin Mohd Amin). Untuk penulisan sajak, pantun dan syair sebelum perang, beliau menggunakan nama samaran "Atma Jiwa". Dalam tulisan rencana serius bercorak pengetahuan dan bimbingan serta nasihat kepada masyarakat atau mengkritik penjajah, beliau lebih cenderung mengunakan nama "Gustam Negara". Nama Pak Har pula digunakan untuk tulisan yang ditujukan kepada kanak-kanak atau buku teks sekolah. Untuk majalah yang mengusik pernbara den bercorak humor, beliau serasi dengan "Si Ketuit".
+
+Penukaran nama samaran ini dilakukan kerana jawatannya sebagai pegawai pemerintah tidak mengizinkan penggunaan namanya yang sebenar. Namun beliau Iebih terkenal dengan nama "Harun Aminurrashid" yang dipilih kerana ia melambangkan kata-kata yang boleh dipercayai.
+
+#### **Harun Sebagai Pendidik, Pejuang Bahasa dan Bahasa Melayu**
+
+Peranan Harun sebagai seorang guru dalam pengertian ikhtisas tidaklah begitu besar kerana beliau memegang jawatan guru hanya beberapa tahun sahaja di Tanah Melayu, tetapi beliau berjaya memainkan peranan sebagai penyedar bangsa melalui ceramah-ceramah yang menyentuh isu-isu nasionalisma. Selepas Perang Dunia II, perjuangannya dalam bidang bahasa dan pelajaran sangatlah memberangsangkan.
+
+Sumbangan Harun dan rakan-rakan seperjuangannya dalam memimpin Majlis Pelajaran amat besar ertinya dalam perkembangan pelajaran Melayu khususnya di Singapura. Majlis Pelajaran Melayu terdiri dari 48 badan kebudayaan Melayu di Singapura dan Malaysia. Pada tahun 1950an, pemimpin-pemimpin dari badan ini termasuk Harun telah berjuang untuk menaikkan taraf pelajaran di Sekolah Melayu. Mereka berusaha dan mendesak supaya pelajaran Melayu diperkenalkan di peringkat menengah semasa Singapura dapat mencapai kedudukan pemerintah sendiri pada pertengahan 1950 dibawah pimpinan Encik Lim Yew Hock. Kemuncak kejayaan perjuangan Majlis Pelajaran Melayu ialah penubuhan dua sekolah Melayu di Singapura untuk pertama kalinya iaitu Sekolah Melayu Sang Nila Utama dan Sekolah Melayu Tun Sri Lanang, pada 1959.
 
 
 
