@@ -146,14 +146,9 @@ Harun menghembuskan nafasnya yang terakhir pada 9 November 1986 setelah mengidap
 Harun loved reading as a child and this naturally led him to writing. He received his early education in Telok Kurau Malay School and later in Sultan Idris Training College in Tanjung Malim, Perak. He joined the College as a teacher after his graduation. Harun's first novel "<i>Melur Kuala Lumpur</i>" was published in Tanjung Malim in April 1930. In Sultan Idris Training College, he honed his writing skills by submitting his works to magazines. As a teacher, he was determined to sow the seeds of nationalistic spirit among his students. He was sent to Brunei in 1939 and stayed there until 1946. After the Second World War, Harun was imprisoned for 86 days by the British Forces as he was alleged to have collaborated with the Japanese Government. In 1946, he returned to Singapore without the title of "Teacher".<br><br>
 In Singapore, Harun continued to work in the literary media and found success working in the newspapers and magazines industry in Singapore. He was the editor of newspapers and magazines that included "<i>Hiburan</i>", "<i>Kencana</i>", "<i>Mutiara</i>" , "<i>Fashion</i>", "<i>Melayu Raya</i>", "<i>Filem Raya</i>", "<i>Tunas</i>", "<i>Belia</i>" , "<i>Seni</i>" , "<i>Mingguan Melayu</i>" and "<i>Medan Sastera</i>".<br><br>
 Harun took up important posts in many literary, education and cultural organisations. Together with a group of journalists, he was invited to visit England and Europe by the British Colonial Office. Harun was awarded the Certificate of Merit from Dictionary of International Biography, London in 1968 to commemorate his excellent contributions to Malay literature.<br><br>
-Harun passed away on 9 November 1986. He was posthumously awarded the "Anumerta Tun Seri Lanang" by the Singapore Council of Malay Language in 1995.
+Harun passed away on 9 November 1986. He was posthumously awarded the "Anumerta Tun Seri Lanang" by the Singapore Council of Malay Language in 1995.<br><br> 
 
 Source:
 Harun Aminurrashid: Biography
 <a href="https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/">https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/</a>
 </div>
-
-
-
-
-
