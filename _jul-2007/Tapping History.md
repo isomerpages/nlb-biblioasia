@@ -91,6 +91,3 @@ I. H. Burkill, [_A Dictionary of the Economic Products of the Malay Peninsula_](
 T. Oxley, “Gutta Percha,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 1 (1847): 22–29. (Call no. RRARE 950.05 JOU; microfilm NL1889)
 
 W. H. M. Read, [_Play and Politics, Recollections of Malaya By An Old Resident_](https://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx) (London: Wells Gardner, Darton &amp; Co., 1901). (From BookSG; call no. RRARE 959.503 REA; microfilm NL14075)
-
-
-
