@@ -11,6 +11,8 @@ description: I've been through Taban Valley at Bukit Timah Nature Reserve many
 ---
 #### I've been through Taban Valley at Bukit Timah Nature Reserve many times and never realised until recently how historically important these unprepossessing trees are. To the uninitiated, they look like skinny durian trees with their dark green leaves. A century and a half ago, the Taban Merah (Pafaquium gutta), better known to the world as Gutta Percha, was at the centre of an earth-shaking infocomm revolution as great as the introduction of the Internet.
 
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/palaquium%20gutta%202.jpg" style="width:80%;">
+
 #### **Discovery**
 
 Gutta Percha was traditionally used in this region to fashion handles for tools. However, it was unknown to the West except for a single specimen called 'mazer wood' in the collection of naturalist John Tradescant (1608–1652). The Tradescant collection grew to become Oxford's present Ashmolean Museum.
@@ -23,11 +25,17 @@ It was left to a fellow resident of Singapore, Dr William Morrtgomerie, to succe
 
 Dr William Montgomerie is generally credited to be the first person to notice Gutta Percha in 1822 during his first tour of duty in Singapore (1819 to 1826). However, it was only when he became Senior Surgeon to the Straits Settlement  (1829 to 1844) that he investigated the substance more closely. He sent a letter to the Bengal Medical Board in 1843, recommending that Gutta Percha be developed for use in medical instruments. This was followed by samples to the Society of Arts in 1845 for which the Society awarded him a gold medal (the Society of Arts became the Royal Society of Arts only in 1847 when it was given a Royal Charter). More importantly, the Society exhibited the samples, which sparked off much experimentation with the substance.
 
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/dentistry.jpg" style="width:80%;">
+ <div style="background-color: white;">Gutta Percha used in dentistry as root fillers.</div>
+
 Among other things Gutta Percha was found to be good for making golf balls, adhesives, and as root canal fillings in dentistry. Even today, if you are unfortunate enough to need root canal treatment, the dentist will probably use Gutta Percha for your root canal filling. Gutta Percha is one of the best substances for ensuring that the cavity is completely filled without leaving any microscopic space where bacteria can resume its attack. The secret behind its varied uses is its changeability- in hot water (around 69 to 65°C, depending on the purity), it becomes plastic and moldable while at room temperature it is firm enough to be made into furniture. Of course you might want to avoid serving a hot meal on a Gutta Percha dining table! 
 
 #### **Telegraphy**
 
 In 1837, Cooke and Wheatstone filed their patent for a telegraph system in England while Morse filed his patent in the United States the year after. Very quickly, the first long-distance telegraph lines were set up: the first being the famous Washington-Baltimore line. This line was opened on 24 May 1844 when Samuel Morse sent his famous 'What hath God wrought?' message across it. The telegraph allowed messages to be sent and received immediately across long distances- it was a communications breakthrough in an era when couriers were the fastest way to send messages. For instance, the front page news of the Singapore Chronicle and Commercial Register on 16 September 1837 announced the death of King William IV and that Victoria would be the next ruler- news three months old! (King William IV died on 20 June 1837).
+
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/palaquium%20gutta.jpg" style="width:50%;">
+ <div style="background-color: white;">The earliest Palaquium gutta specimen found in the Botanic Gardens Herbarium was collected in 1894 by Henry Nicholas Ridley from Choa Chu Kang.  At the times, an important function of the Botanic Gardens was research into economic crops.</div>
 
 However, there was one problem preventing a worldwide telegraph net: how do you insulate telegraph cable underwater? On land, air does not conduct electricity, which makes the job easy. However, in water, a reliable airtight casing for the copper wire was needed as water, especially salt water, conducts electricity well. In addition, the material had to be flexible and be able to withstand high pressures and cold temperatures without deteriorating. Materials like lead, wax, tar and caoutchoouc (rubber) were tried without success. Bridges had to be built for cables to be strong across rivers- never mind oceans.
 
@@ -40,6 +48,8 @@ The telegraph story would not be complete without mentioning when Singapore beca
 #### **Commercial Harvesting**
 
 Unlike rubber, Taban tree sap does not flow freely through the length of the trunk. It also hardens quickly on exposure to air. This means that making cuts in the trunk only collects a limited amount of sap. The initial method of collection was therefore to cut down the tree and make cuts along the trunk in order to milk out as much sap as possible. Early attempts at tapping only resulted in poor harvests and a reportedly high rate of diseased trees. The only 19th century advance in harvesting techniques was the invention of a process to extract sap from the leaves in order to maximise the sap harvested from each tree harvested. A leaf collecting system with leaf processing factories was established in several locations in Malaysia and Indonesia. However, it was soon found that collectors would cut down the young saplings in order to collect the leaves and leaf harvesting was discontinued.
+
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/palaquium%20gutta%201.jpg" style="width:80%;"><div style="background-color: white;">The Palaquium gutta tree can be found growing at the Botanic Gardens Visitor's Centre</div>
  
 It was only in the early 20th century that a successful system of tapping the Taban was devised: diagonal cuts were made at regular intervals up the length of the trunk using a ladder. The sap would then seep out and coagulate along the length of the cuts. The tapper would then roll the coagulated sap up. Being re-exposed, the cuts would bleed afresh and the process would be repeated until the available sap was exhausted. Besides being labour intensive, the tree also had to be given time to recover from the massive injuries suffered. This recovery period was said to be at least two years.
 
@@ -51,7 +61,7 @@ There is even a short article on "Rediscovery of the Gutta Percha Tree at Singap
 
 In Singapore, the first person to plant Taban Merah was Thomas Oxley at his home on Oxley Rise. Then in the 1880s, specimens were planted at the Botanic Gardens and subsequently at Bukit Timah.
 
-Another person intimately involved with Gutta Percha was Temenggong Ibrahim. He had inherited the title of Temenggong but not any source of income: the British East India Company and the Dutch government had usurped taxation of trade in the region. Local rulers trying to levy charges on passing ships quickly found themselves being hunted down as pirates. In addition, the Temenggong had to assist Orang Laut coming in from the Riaus to seek his protection: British anti-piracy patrols there were attacking all perahus (Malay boats0. THe Temenggong moved to get involved in British anti-piracy efforts and also started opening Johor to agriculture.
+Another person intimately involved with Gutta Percha was Temenggong Ibrahim. He had inherited the title of Temenggong but not any source of income: the British East India Company and the Dutch government had usurped taxation of trade in the region. Local rulers trying to levy charges on passing ships quickly found themselves being hunted down as pirates. In addition, the Temenggong had to assist Orang Laut coming in from the Riaus to seek his protection: British anti-piracy patrols there were attacking all perahus (Malay boats). The Temenggong moved to get involved in British anti-piracy efforts and also started opening Johor to agriculture.
 
 He met with success on both fronts: he became seen as an invaluable ally to Governor Bonham's anti-piracy campaign, leased out Johor land to Chinese pepper and gambier farmers, and became a major Gutta Percha exporter. William Read's 1901 book *Play and Politics*, records that a local merchant informed the Temenggong of Gutta Percha's potential. Perhaps this local merchant was Ker, a neighbour of his. Indeed, Ker, Rawson &amp; Company sent the Termenggong's first shipment of Gutta Percha to Europe. The Temenggong quickly dedared a monopoly on Gutta Percha collection in Johor and set about organising a collection system in Johor, employing labourers to harvest the trees. By reinventing himself as a major agricultural player, the Temenggong quickly prospered in both wealth and status.
 
@@ -63,7 +73,31 @@ Oxley said that *Palaquium gutta* quite resembled the *Durio* (durian) genus. I 
 
 **I would like to thank Serena Lee of the Botanic Gardens Herbarium for allowing me acess to photograph Ridley's specimens and Eunice Low and Shawn Lum for reading my draft and suggesting improvements to the article**.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Timothy%20Pwee.jpg">
+<center> <b>Timothy Pwee</b><br>Senior Reference Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 
+#### **REFERENCES**
 
+Carl A. Trocki, [_Prince of Pirates: The Temenggongs and the Development of Johor and Singapore, 1784–1885_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082016) (Singapore: Singapore University Press, 1979). (Call no. RSING&nbsp; 959.5142 TRO)
 
+Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 BUC). This book can also be found in the Singapore Heritage Collection of NLB’s eCollection at [https://www.nlb.gov.sg/main/home](https://www.nlb.gov.sg/main/home)
+
+Encyclopaedia Britannica, “Gutta-percha”, accessed 26 April 2007, [https://www.britannica.com/technology/gutta-percha](https://www.britannica.com/technology/gutta-percha).
+
+F. E. Kohler, _Kohler’s Medizinal-Pflanzen in Naturgetreuen Abbildungen MIT Kurz Erlauterndem Texte: Atlas Zur Pharmacopoea Germanica_ (Gera-Untermhaus, Fr. Eugen Kohler, \[1883–1914\])
+
+“Gutta-percha” in [_Pamphlets: Malayan Series_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982306), British Empire Exhibition London 1924 (Singapore: Fraser &amp; Neave, 1923). (Call no. RRARE 959.5 BRI; microfilm N12450)
+
+I. H. Burkill, [_A Dictionary of the Economic Products of the Malay Peninsula_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121248), vol. 2. (London: Published on behalf of the Governments of the Straits Settlements and Federated Malay states by the Crown Agents for the Colonies, 1935). (Call no. RCLOS 634.909595 BUR)
+
+“Opening of the Lines to Java, Penang and Madras,” _Singapore Daily Times_, 6 January 1871. (Microfilm NL1977)
+
+“Rediscovery of Gutta Percha Tree at Singapore (Dichopsis Gutta, Benth),” _Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew)_ 1891, no. 57 (1891): 230–1. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+T. Oxley, “Gutta Percha,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 1 (1847): 22–29. (Call no. RRARE 950.05 JOU; microfilm NL1889)
+
+W. H. M. Read, [_Play and Politics, Recollections of Malaya By An Old Resident_](https://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx) (London: Wells Gardner, Darton &amp; Co., 1901). (From BookSG; call no. RRARE 959.503 REA; microfilm NL14075)
