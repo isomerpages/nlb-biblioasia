@@ -49,12 +49,11 @@ The telegraph story would not be complete without mentioning when Singapore beca
 
 Unlike rubber, Taban tree sap does not flow freely through the length of the trunk. It also hardens quickly on exposure to air. This means that making cuts in the trunk only collects a limited amount of sap. The initial method of collection was therefore to cut down the tree and make cuts along the trunk in order to milk out as much sap as possible. Early attempts at tapping only resulted in poor harvests and a reportedly high rate of diseased trees. The only 19th century advance in harvesting techniques was the invention of a process to extract sap from the leaves in order to maximise the sap harvested from each tree harvested. A leaf collecting system with leaf processing factories was established in several locations in Malaysia and Indonesia. However, it was soon found that collectors would cut down the young saplings in order to collect the leaves and leaf harvesting was discontinued.
 
-<img src="/images/Vol%203%20Issue%202/Tapping%20History/palaquium%20gutta%201.jpg" style="width:80%;">
-<div style="background-color: white;">The Palaquium gutta tree can be found growing at the Botanic Gardens Visitor's Centre.</div>
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/palaquium%20gutta%201.jpg" style="width:80%;">The Palaquium gutta tree can be found growing at the Botanic Gardens Visitor's Centre.
  
 It was only in the early 20th century that a successful system of tapping the Taban was devised: diagonal cuts were made at regular intervals up the length of the trunk using a ladder. The sap would then seep out and coagulate along the length of the cuts. The tapper would then roll the coagulated sap up. Being re-exposed, the cuts would bleed afresh and the process would be repeated until the available sap was exhausted. Besides being labour intensive, the tree also had to be given time to recover from the massive injuries suffered. This recovery period was said to be at least two years.
 
-<img src="/images/Vol%203%20Issue%202/Tapping%20History/diagonal%20tap%20marks.jpg" style="width:50%;"><div style="background-color: white;">Diagonal tap marks on the trunk of a Palaquium gutta (Taban Merah) tree in Taban Valley, Bukit Timah Nature Reserve.</div>
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/diagonal%20tap%20marks.jpg" style="width:50%;">Diagonal tap marks on the trunk of a Palaquium gutta (Taban Merah) tree in Taban Valley, Bukit Timah Nature Reserve.
 
 The tree was not common in the rainforest but grew in scattered clumps. The result of the huge demand for Gutta Percha was the quick demise of Taban in Singapore. Just two years after Montgomerie introduced Gutta Percha to Europe, all of Singapore's big Taban trees had been felled and Thomas Oxley (1847) estimated that the 412 tons of Gutta Percha exported to Europe between 1845 and 1846 had resulted in 69,000 Taban trees being cut down.
 
